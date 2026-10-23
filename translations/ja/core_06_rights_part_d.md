@@ -1151,7 +1151,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位根拠：原則：第1章 [§13.1.5 権利衝突の判断基準](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§18 スチュワードシップ規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)、[§20 統合適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
-- 併せて読む：[第十章 §5.5](core_09_standing_integration.md#55-special-locks)（*フォーラムでの開示漏れと忌避手続への影響*）；[第十一章 §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*特定された不正行為パターン*）；[第十二章 §2](core_11_forum.md#2-default-venue-and-primary-stakes)および[§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)（*完全性を優先する振分けと自己判断の禁止*）。
+- 併せて読む：[第十章 §5.5](core_09_standing_integration.md#55-special-locks)（*フォーラムでの開示漏れと忌避手続への影響*）；[第十一章 §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*特定された不正行為パターン*）；[第十二章 §2](core_11_forum.md#2-default-venue-and-primary-stakes)および[§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)（*完全性を優先する振分けと自己判断の禁止*）。
 
 </details>
 

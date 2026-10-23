@@ -107,7 +107,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 下流：参加の測定ファミリー — リンクのみのロールアップ；用語ごとの段階は葉定義に住む — [実質的公正](../../core_05.055_band_participation.md#substantive-fairness)、[保護された特性の代理使用と不均衡影響](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact)、[アクセス可能性](../../core_05.055_band_participation.md#accessibility)、[教育的行為主体性](../../core_05.055_band_participation.md#educational-agency)、[意味ある行為主体性](../../core_05.055_band_participation.md#meaningful-agency)、および継続帯の [プライバシー（情報的）](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) クラスターを見よ。
-- あわせて読む：第六章、[第七章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)、または編入された文書 — 拘束力ある無差別、合理的配慮、教育、またはプライバシーの要件は、それらの文書が明示的に求めるときに生じる。
+- あわせて読む：第六章、[第七章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)、または編入された文書 — 拘束力ある無差別、合理的配慮、教育、またはプライバシーの要件は、それらの文書が明示的に求めるときに生じる。
 
 </details>
 

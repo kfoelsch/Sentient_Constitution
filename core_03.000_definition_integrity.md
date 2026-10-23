@@ -37,7 +37,7 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
   - [Chapter Four, section 2 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement) (4.000);
   - [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000);
   - [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
-- Read with: [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint) (1.005) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
+- Read with: [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) (1.000) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
 
@@ -93,7 +93,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
   - [3. Non-Compliance Finding Profiles](#3-non-compliance-finding-profiles);
   - [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000);
   - [Chapter Four, section 3 — Observability of Traceability Requirement](core_04.000_burden_traceability_verification.md#3-observability-of-traceability-requirement) (4.000);
-  - [Chapter Nine §7](core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) (9.010 §7) (*system alignment certification reopening and anti-evasion pointer*);
+  - [Chapter Nine §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*system alignment certification reopening and anti-evasion pointer*);
   - [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
 - Read with:
   - [Chapter Two, §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1) for the joint-satisfaction rule under full functional system conditions;
@@ -160,7 +160,7 @@ This is a focused form of **Fake measures and paperwork**. Systems must not meet
 - formal renaming, restructuring, or entity reclassification that drops duties without transferring responsibility in practice
 - convenient taxonomy choices that erase distinctions the definition requires
 
-Where formal-structure change is material, apply [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.015_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes).
+Where formal-structure change is material, apply [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes).
 
 #### 2.2 Reductive Evasion
 
@@ -219,7 +219,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 - Upstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Two, §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2).
 - Downstream:
   - [Chapter Four, section 2 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement) (4.000);
-  - [Chapter Nine — System Alignment Certification](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.005);
+  - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
   - [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
   - [Chapter Eleven — Standing Effects and Integration](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) (11.000);
   - [CJS-5.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
@@ -242,11 +242,11 @@ Standing effects depend on who is being assessed and on whether the system is al
 
 #### 3.1 Standing Effects for Already-Certified Systems
 
-If a system is already running under a [system alignment certification](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_10.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); apply its integration and effects under [Chapter Eleven](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_10.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); apply its integration and effects under [Chapter Eleven](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
 
 #### 3.2 Standing Effects at First Certification
 
-If the system is still in its **first** [system alignment certification](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. Until certification is granted, those certification records supply no standing input under [Chapter Nine §10 Relationship to Standing](core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing), which traces standing input only from certified systems. Once certification is granted, including conditional certification, [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) applies. This chapter does not require the same standing records that an already-certified running system must receive.
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. Until certification is granted, those certification records supply no standing input under [Chapter Nine §10 Relationship to Standing](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing), which traces standing input only from certified systems. Once certification is granted, including conditional certification, [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) applies. This chapter does not require the same standing records that an already-certified running system must receive.
 
 #### 3.3 Standing Effects for Sentients and Institutions
 

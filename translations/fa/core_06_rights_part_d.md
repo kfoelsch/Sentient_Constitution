@@ -358,7 +358,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3 هدف بنیادین: بهزیستی](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
+- بالادست: اصول: فصل یکم [§3 هدف بنیادین: بهزیستی](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 - پایین‌دست: [فصل دهم §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*تخلف، اصلاح و پیشگیری*)؛ [فصل یازدهم §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*تضمین‌های دادرسی منصفانه، جبران و پیشگیری*).
 
 </details>
@@ -391,7 +391,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: [فصل یکم §4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [فصل یکم §13.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [فصل یکم §3.3 فرایند منع تحقیر](core_01_a_values_principles.md#33-فرایند-ضدتحقیر) و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: [فصل یکم §4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [فصل یکم §13.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [فصل یکم §3.3 فرایند منع تحقیر](core_01_a_values_principles.md#33-فرایند-ضدتحقیر) و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 - پایین‌دست: [فصل دهم §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*تخلف، اصلاح و پیشگیری*)؛ [ماده XX-B](#ماده-xx-b-کفهای-محدودیت).
 - همراه با این مورد خوانده شود: [سنگدلی](../../core_05.035_band_accountability.md#cruelty) (*جایگاه فصل پنجم برای معیارِ منع سنگدلی: رنج به‌عنوان هدف نهایی*).
 
@@ -425,7 +425,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، [§13.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) و [§14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، [§13.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) و [§14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - پایین‌دست: [فصل دهم §5 طراحی و اجرای قفل](core_09_standing_integration.md#5-lock-design-and-enforcement) و [§5.4 قواعد ویژهٔ تخلف](core_09_standing_integration.md#54-special-violation-rules) (*حبس الزامی برای خشونت احرازشده و دیگر تضمین‌های اجبار یا محدودیت آزادی*)؛ [فصل یازدهم §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*پیشگیری — قفل‌های ضدقانون‌اساسی*؛ تخصص حبس).
 - همراه با این موارد خوانده شود: [ماده XXVI-C](core_06_rights_part_e.md#ماده-xxvi-c-حلوفصل-بهموقع-و-حداقل-منع-تأخیر) (*کف حل‌وفصل به‌هنگام و ضدتأخیر*)؛ [فصل دوازدهم §5 تشدید و گواهی](core_11_forum.md#5-escalation-and-certification).
 
@@ -653,7 +653,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-تناسب)، [§7.1 انضباط محدودیت](core_01_a_values_principles.md#71-limitation-discipline).
+- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-تناسب)، [§7.1 انضباط محدودیت](core_01_a_values_principles.md#71-limitation-discipline).
 - پایین‌دست: کف کرامت **ماده VI-A** (*کرامت و جایگاه اخلاقی برابر*)، منع تبعیض **ماده VI-C** (*منع تبعیض*)، مشارکت ذی‌نفعان در **ماده XII** (*مشارکت، نمایندگی و دادرسی منصفانه در نظام ذی‌نفعان*)، مسیر‌دهی جایگاه و وضعیت مشارکت در **ماده XIX** (*جایگاه و وضعیت مشارکت*)، حدود تدابیر اضطراری **فصل دوازدهم §6.1** (*تدابیر اضطراری و بار ادامه*)، حکمرانی گذار **ماده XXVIII** (*حکمرانی گذار، پیوستگی و بازپایه‌گذاری*).
 - همراه با این موارد خوانده شود: [فصل پنجم *جابه‌جایی، پناه، منع بی‌تابعیتی و یکپارچگی خروج*](core_05_band_oversight.md#movement-refuge-semi-independent)؛ *جابه‌جایی و اسکان مجدد*، *پناه از عدم انطباق*، *منع بی‌تابعیتی*، *منع حذف موجودات دارای احساس*؛ *قفل‌شدگی سیستمی* و *پیوستگی سکونت* هرگاه خروج، پایان میزبانی، تخلیه یا جابه‌جایی مادی مطرح است؛ **ماده I-A** (*پیش‌شرط‌های محیطی و یکپارچگی بوم‌شناختی*) هنگامی که سیستم یا پروژه مکانی را غیرقابل‌سکونت کرده است؛ **ماده XXI-A** (*حقوق انتقال‌پذیری*) تا **ماده XXI-C** (*قاعدهٔ ضدقفل‌شدگی*) برای سازوکار انتقال‌پذیری بستر و یکپارچگی خروج؛ **ماده XXVIII** (*حکمرانی گذار، پیوستگی و بازپایه‌گذاری*) برای سازوکار شناسایی انتقالی.
 
@@ -770,7 +770,7 @@ flowchart TB
 
 <a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
 - **حد جداسازی و قفل وضعیت:** جداسازی می‌تواند محیط یا تماس مشخصی را منع کند، اما نباید به تبعید کلی، رد پناه، بی‌تابعیتی، حبس یا قفل‌شدگی نظامی تبدیل شود. قفل وضعیت **به‌تنهایی** زندان، بازداشت یا محدودیت آزادی را مجاز نمی‌کند؛ فرایند عدالتِ بالا لازم است. این دو فقط وقتی هم‌زمان اعمال می‌شوند که هرکدام مستقل از دیگری الزامات قانون اساسی را رعایت کند. کف حقوق، جبران و انصاف رویه‌ای در حبس نیز برقرارند.
-- **کف شرایط حبس:** تدابیر باید **ماده XX-B** (*کف‌های محدودیت*)، از جمله [کف شرایط حبس](../../core_06.020_rights_part_d.md#xx-b-conditions-of-custody)، و تضمین‌های دادرسی کیفری یا معادلِ قابل‌اعمال طبق فصل یازدهم §5.4 را رعایت کنند.
+- **کف شرایط حبس:** تدابیر باید **ماده XX-B** (*کف‌های محدودیت*)، از جمله [کف شرایط حبس](../../core_06.015_rights_part_d.md#xx-b-conditions-of-custody)، و تضمین‌های دادرسی کیفری یا معادلِ قابل‌اعمال طبق فصل یازدهم §5.4 را رعایت کنند.
 - **وضعیت مرز نیست:** وضعیت مشارکت، موانع یا مجوزهای صلاحیت و قفل‌ها فقط احراز صلاحیت مسیرهای نام‌گذاری‌شده را اداره می‌کنند. اگر خطر تأییدشده اقتضا کند، قفل می‌تواند در چارچوب [حدود جداسازی](../../core_11.000_standing_integration.md#51-separation-limits) فصل یازدهم §5.1 فرد را از محیط، شبکه یا موجود دارای احساس مشخص جدا کند. اما برچسب وضعیت یا قفل جداسازی **به‌تنهایی** حقوق جابه‌جایی، مهاجرت، پناه، انتقال‌پذیری، خروج یا منع بی‌تابعیتی را محدود نمی‌کند.
 <a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
 ### ماده XXIII: فهم‌پذیری و سرپرستی پیچیدگی
@@ -830,7 +830,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - همراه با این موارد خوانده شود: [فصل یکم §5.2 دسترس‌پذیری زبان ساده (تکلیف سرپرستی)](core_01_a_values_principles.md#52-دسترسپذیری-با-زبان-ساده-وظیفه-مشارکت-و-سرپرستی)، [§13.3 کمینه‌سازی بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب) و [فصل یکم بخش ج §16.1 فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#۱۶۱-فهم-توزیعشده).
 
 </details>
@@ -863,7 +863,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [فصل یکم §18.5 معماری ماژولار و انضباط وابستگی](core_01_c_stewardship_capacity_principles.md#185-معماری-ماژولار-و-انضباط-وابستگی)، و [فصل یکم §20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [فصل یکم §18.5 معماری ماژولار و انضباط وابستگی](core_01_c_stewardship_capacity_principles.md#185-معماری-ماژولار-و-انضباط-وابستگی)، و [فصل یکم §20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
@@ -904,7 +904,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - همراه با این موارد خوانده شود: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** و **پیوستگی**؛ [برگشت‌پذیری](../../core_05.040_band_continuity.md#reversibility-constitutional)، [خطر](../../core_05.040_band_continuity.md#risk) و [تسخیر سیستم](../../core_05.040_band_continuity.md#system-capture) در **فصل پنجم**.
 
 </details>
@@ -951,7 +951,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -985,7 +985,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1021,7 +1021,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§13.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: فصل یکم [§13.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 - همراه با این موارد خوانده شود: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** و **پیوستگی**؛ [سلسله‌مراتب اختیار درونی](core_05_band_integrative.md#authority-stack)، [خانوادهٔ مجامع قانون اساسی](../../core_05.035_band_accountability.md#forum-family-constitutional)، [تسخیر سیستم](../../core_05.040_band_continuity.md#system-capture) و [ضد تسخیر](../../core_05.040_band_continuity.md#anti-capture) در **فصل پنجم**.
 
 </details>
@@ -1108,7 +1108,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادست: اصول: فصل یکم [§13.1.5 آزمون تصمیم‌گیری تصادم حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
-- همراه با این موارد خوانده شود: [فصل دهم §5.5](core_09_standing_integration.md#55-special-locks) (*حذف افشا در مجمع و اثر فرایند کناره‌گیری*)؛ [فصل یازدهم §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*الگوی نام‌گذاری‌شدهٔ سوءرفتار*)؛ [فصل دوازدهم §2](core_11_forum.md#2-default-venue-and-primary-stakes) و [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*مسیر‌دهیِ تقدم تمامیت و منع خودداوری*).
+- همراه با این موارد خوانده شود: [فصل دهم §5.5](core_09_standing_integration.md#55-special-locks) (*حذف افشا در مجمع و اثر فرایند کناره‌گیری*)؛ [فصل یازدهم §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*الگوی نام‌گذاری‌شدهٔ سوءرفتار*)؛ [فصل دوازدهم §2](core_11_forum.md#2-default-venue-and-primary-stakes) و [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*مسیر‌دهیِ تقدم تمامیت و منع خودداوری*).
 
 </details>
 
@@ -1144,7 +1144,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل یکم §13.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: فصل یکم [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل یکم §13.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 

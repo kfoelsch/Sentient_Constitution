@@ -127,7 +127,7 @@
 - మూలం: Principles: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — [భౌతిక పందెం](core_00_preamble.md#material-stake) scaling.
 - క్లస్టర్ భాగం: [*భౌతిక ప్రభావం, భౌతికత నిర్ణయం, వర్గీకరణ-స్కేల్ పాలన, పర్యవేక్షణ, మరియు సామర్థ్య అవసరం*](core_05_band_oversight.md#materiality-semi-independent).
 - దీనితో చదవండి: [ఆధారపడటం](../../core_05.040_band_continuity.md#dependency), [భౌతిక ప్రభావం](core_05_band_oversight.md#భతక-impact), [ప్రమాదం](../../core_05.040_band_continuity.md#risk), [వ్యవస్థ సరిహద్దు సమగ్రత](../../core_05.040_band_continuity.md#system-boundary-integrity), మరియు [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional).
-- గమ్యం: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — తరగతి-స్కేల్ మొత్తం-వ్యవస్థ అంచనా కర్తవ్యం.
+- గమ్యం: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — తరగతి-స్కేల్ మొత్తం-వ్యవస్థ అంచనా కర్తవ్యం.
 
 </details>
 
@@ -149,7 +149,7 @@
 - **కొలవడం మరియు అంచనా వేయడం ఎలా**
   - **ప్రాథమిక కొలత:** [పర్యవేక్షణ కొలత కుటుంబం](core_05_apex_oversight_leg.md#oversight-measurement-family) — *సంజ్ఞ ప్రాణులు వ్యవస్థలు చూపించేదాన్ని చూడగలరా, ధృవీకరించగలరా, ఆధారపడగలరా?* ఇక్కడ ఇది అడగండి: oversight depth and verification burden match the system's real stake, impact, dependency, మరియు risk — స్వయం-కేటాయించిన తక్కువ తరగతి కాదు.
 
-    **ప్రాథమిక అంచనా:** అమలు నియమాల కింద నిజమైన తరగతిని వాడండి, దీనితో కలిపి చదువుతూ [భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination) and [వ్యవస్థ సరిహద్దు సమగ్రత](../../core_05.040_band_continuity.md#system-boundary-integrity). వ్యవస్థ పూర్తి ప్రభావాలు బలమైనదాన్ని కోరినప్పుడు స్వయం-కేటాయించిన లేదా అనధికారిక తక్కువ తరగతి సరిపోదు [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) లేదా పాలన. తరగతి ప్రకారం స్కేల్ అయ్యే మొత్తం-వ్యవస్థ సమీక్ష [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation):
+    **ప్రాథమిక అంచనా:** అమలు నియమాల కింద నిజమైన తరగతిని వాడండి, దీనితో కలిపి చదువుతూ [భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination) and [వ్యవస్థ సరిహద్దు సమగ్రత](../../core_05.040_band_continuity.md#system-boundary-integrity). వ్యవస్థ పూర్తి ప్రభావాలు బలమైనదాన్ని కోరినప్పుడు స్వయం-కేటాయించిన లేదా అనధికారిక తక్కువ తరగతి సరిపోదు [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) లేదా పాలన. తరగతి ప్రకారం స్కేల్ అయ్యే మొత్తం-వ్యవస్థ సమీక్ష [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation):
     - **Class A**, **Class B**, మరియు **Class C** — full depth, mandatory;
     - **Class L** — తప్పనిసరి, కానీ ప్రభావానికి అనుగుణ పరిమాణం; మరియు
     - **Class P** — వ్యవస్థ చెల్లుబాటుగా **Class P** ఉన్నంతవరకు ప్రోత్సహించబడుతుంది.
@@ -185,7 +185,7 @@
     - మూలం రక్షణ;
     - విచారణ; మరియు
     - ప్రచురణ.
-    ఆ పని చేసే సంజ్ఞ ప్రాణులు [వ్యక్తీకరణ](../../core_05.055_band_participation.md#expression-constitutional) and [సమావేశం](../../core_05.055_band_participation.md#assembly-constitutional) హక్కుల నేల, దీని కింద పెంపొందిన-పరిశీలన రక్షణతో [అనుచ్ఛేదం V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, మరియు Press*) ఆ కార్యకలాపాన్ని బలహీనపరచే రాష్ట్ర మరియు నిర్వాహక చర్యలకు వ్యతిరేకంగా.
+    ఆ పని చేసే సంజ్ఞ ప్రాణులు [వ్యక్తీకరణ](../../core_05.055_band_participation.md#expression-constitutional) and [సమావేశం](../../core_05.055_band_participation.md#assembly-constitutional) హక్కుల నేల, దీని కింద పెంపొందిన-పరిశీలన రక్షణతో [అనుచ్ఛేదం V-H](../../core_06.005_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, మరియు Press*) ఆ కార్యకలాపాన్ని బలహీనపరచే రాష్ట్ర మరియు నిర్వాహక చర్యలకు వ్యతిరేకంగా.
   - **పరిధి బయట:** వార్తా సేకరణ, విచారణ, లేదా పాత్రికేయతగా పనిచేసే ప్రచురణ కాని ప్రెస్ ధ్రువపత్రాలు, సంస్థ బిరుదులు, లేదా సాధారణ వాణిజ్య ప్రసంగం.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **కొలవడం మరియు అంచనా వేయడం ఎలా**
@@ -248,7 +248,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- గమ్యం: Integrative Materiality ([భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination)) (*Materiality as constitutional measurement*); Principles: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
+- గమ్యం: Integrative Materiality ([భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination)) (*Materiality as constitutional measurement*); Principles: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
 - దీనితో చదవండి: [భౌతిక ప్రభావం](core_05_band_oversight.md#భతక-impact), [భౌతిక ప్రమాదం](core_05_band_oversight.md#భతక-risk), [వ్యవస్థాగత భౌతికత](../../core_05.035_band_accountability.md), మరియు [వర్గీకరణ-స్కేల్ పాలన](core_05_band_oversight.md#వరగకరణ-సకల-పలన).
 
 </details>
@@ -282,7 +282,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- గమ్యం: Integrative Materiality ([భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination)) (*Materiality as constitutional measurement*); Principles: [భౌతిక పందెం](core_00_preamble.md#material-stake) scaling proxy; అధ్యాయం ఒకటి surfaces this definition across **Safety** (**అధ్యాయం ఒకటి §8.1**), **Truth** (**అధ్యాయం ఒకటి §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, మరియు **అధ్యాయం ఒకటి §6.3.2** where **Materiality** appears in D/A/C widgets — see [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
+- గమ్యం: Integrative Materiality ([భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination)) (*Materiality as constitutional measurement*); Principles: [భౌతిక పందెం](core_00_preamble.md#material-stake) scaling proxy; అధ్యాయం ఒకటి surfaces this definition across **Safety** (**అధ్యాయం ఒకటి §8.1**), **Truth** (**అధ్యాయం ఒకటి §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, మరియు **అధ్యాయం ఒకటి §6.3.2** where **Materiality** appears in D/A/C widgets — see [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - క్లస్టర్ భాగం: [*భౌతిక ప్రభావం, భౌతికత నిర్ణయం, వర్గీకరణ-స్కేల్ పాలన, పర్యవేక్షణ, మరియు సామర్థ్య అవసరం*](core_05_band_oversight.md#materiality-semi-independent).
 - దీనితో చదవండి: [భౌతిక ప్రభావం](core_05_band_oversight.md#భతక-impact), [భౌతిక ప్రమాదం](core_05_band_oversight.md#భతక-risk), [వ్యవస్థాగత భౌతికత](../../core_05.040_band_continuity.md#systemic-materiality), మరియు [ఆడిట్-యోగ్యత](core_05_band_oversight.md#ఆడట-యగయత).
 
@@ -459,7 +459,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- గమ్యం: Principles: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- గమ్యం: Principles: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
 - దీనితో చదవండి: [భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination), [వ్యవస్థ సరిహద్దులు](../../core_05.040_band_continuity.md#system-boundaries), [వ్యవస్థ సరిహద్దు సమగ్రత](../../core_05.040_band_continuity.md#system-boundary-integrity), [వ్యవస్థాగత భౌతికత](../../core_05.035_band_accountability.md), [ఆడిట్-యోగ్యత](core_05_band_oversight.md#ఆడట-యగయత), మరియు [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability).
 
 </details>
@@ -496,7 +496,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- గమ్యం: Integrative Materiality ([భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination)) (*Materiality as constitutional measurement*); Principles: [భౌతిక పందెం](core_00_preamble.md#material-stake) scaling proxy; [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
+- గమ్యం: Integrative Materiality ([భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination)) (*Materiality as constitutional measurement*); Principles: [భౌతిక పందెం](core_00_preamble.md#material-stake) scaling proxy; [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
 - క్లస్టర్ భాగం: [*భౌతిక ప్రభావం, భౌతికత నిర్ణయం, వర్గీకరణ-స్కేల్ పాలన, పర్యవేక్షణ, మరియు సామర్థ్య అవసరం*](core_05_band_oversight.md#materiality-semi-independent).
 - దీనితో చదవండి: [హాని](../../core_05.035_band_accountability.md#harm), [ప్రమాదం](../../core_05.040_band_continuity.md#risk), [వ్యవస్థాగత భౌతికత](../../core_05.035_band_accountability.md), [ఆధారపడటం](../../core_05.040_band_continuity.md#dependency), [వర్గీకరణ-స్కేల్ పాలన](core_05_band_oversight.md#వరగకరణ-సకల-పలన), [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional), మరియు [పారదర్శకత](core_05_band_oversight.md#పరదరశకత).
 
@@ -544,7 +544,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- గమ్యం: Integrative Materiality ([భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination)) (*Materiality as constitutional measurement*); Principles: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- గమ్యం: Integrative Materiality ([భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination)) (*Materiality as constitutional measurement*); Principles: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
 - దీనితో చదవండి: [హాని](../../core_05.035_band_accountability.md#harm), [తిరుగులేని హాని](../../core_05.035_band_accountability.md#irreversible-harm), [ప్రమాదం](../../core_05.040_band_continuity.md#risk), [భద్రత (పరిమితి)](../../core_05.040_band_continuity.md#safety-constraint), మరియు [వర్గీకరణ-స్కేల్ పాలన](core_05_band_oversight.md#వరగకరణ-సకల-పలన).
 
 </details>
@@ -590,7 +590,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- గమ్యం: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- గమ్యం: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
 - దీనితో చదవండి: [భౌతిక ప్రభావం](core_05_band_oversight.md#భతక-impact), [భౌతిక ప్రమాదం](core_05_band_oversight.md#భతక-risk), [తిరుగులేని హాని](../../core_05.035_band_accountability.md#irreversible-harm), [భద్రత (పరిమితి)](../../core_05.040_band_continuity.md#safety-constraint), మరియు [వర్గీకరణ-స్కేల్ పాలన](core_05_band_oversight.md#వరగకరణ-సకల-పలన).
 
 </details>
@@ -630,7 +630,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- గమ్యం: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- గమ్యం: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - క్లస్టర్ భాగం: [*భౌతిక ప్రభావం, భౌతికత నిర్ణయం, వర్గీకరణ-స్కేల్ పాలన, పర్యవేక్షణ, మరియు సామర్థ్య అవసరం*](core_05_band_oversight.md#materiality-semi-independent).
 - దీనితో చదవండి: [భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination), [భౌతికత సమగ్రత పరిమితి](core_05_band_oversight.md#భతకity-integrity-constraint), [వ్యవస్థ సరిహద్దు సమగ్రత](../../core_05.040_band_continuity.md#system-boundary-integrity), [ప్రోత్సాహక అనుగుణత](core_05_band_integrative.md#పరతసహక-అనగణత), [ఆడిట్-యోగ్యత](core_05_band_oversight.md#ఆడట-యగయత), మరియు [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#సతయ-రజయగ-పరమత).
 
@@ -701,7 +701,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- గమ్యం: Principles: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§3 రాజీలేని సూత్ర పరిమితులు: భద్రత మరియు సత్యం](core_01_a_values_principles.md) (**Safety** / **Truth** degradation paths).
+- గమ్యం: Principles: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§3 రాజీలేని సూత్ర పరిమితులు: భద్రత మరియు సత్యం](core_01_a_values_principles.md) (**Safety** / **Truth** degradation paths).
 - దీనితో చదవండి: [భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination), [వ్యవస్థాగత భౌతికత](../../core_05.035_band_accountability.md), [ప్రమాదం](../../core_05.040_band_continuity.md#risk), [భద్రత (పరిమితి)](../../core_05.040_band_continuity.md#safety-constraint), [జ్ఞాన సమగ్రత](core_05_band_oversight.md#జఞన-సమగరత), మరియు [అర్థవంతమైన కర్తృత్వం](../../core_05.055_band_participation.md#meaningful-agency).
 
 </details>
@@ -767,7 +767,7 @@
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), మరియు assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**పర్యవేక్షణ చట్రం.** దీని కింద the [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, మరియు get audit access — owned here and at **అనుచ్ఛేదం XVI** (*Audit, Transparency, మరియు Independent Verification*). [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [అధ్యాయం ఏడు](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**పర్యవేక్షణ చట్రం.** దీని కింద the [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, మరియు get audit access — owned here and at **అనుచ్ఛేదం XVI** (*Audit, Transparency, మరియు Independent Verification*). [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [అధ్యాయం ఏడు](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **వ్యవస్థ తరగతి మరియు అనుపాతం.** Transparency, auditability, మరియు verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — వ్యవస్థ వర్గీకరణ మరియు నిర్వహణ**, మరియు with material impact, dependency, మరియు risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), వీటితో సహా:
 - లోతైన హామీ;
@@ -863,7 +863,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - క్లస్టర్ భాగం: [Def.O1 పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- గమ్యం: **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [అధ్యాయం ఏడు §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [అధ్యాయం ఏడు Part B §6](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (*Certification record*); [అధ్యాయం ఏడు Part B §6.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*Transparency, auditability, మరియు contestability*).
+- గమ్యం: **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [అధ్యాయం ఏడు §3.4](../../core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [అధ్యాయం ఏడు Part B §6](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (*Certification record*); [అధ్యాయం ఏడు Part B §6.2](../../core_09.005_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*Transparency, auditability, మరియు contestability*).
 - దీనితో చదవండి: [పారదర్శకత](core_05_band_oversight.md#పరదరశకత), [సవాలు-యోగ్యత](../../core_05.035_band_accountability.md#contestability), [ఆడిట్-యోగ్యత](core_05_band_oversight.md#ఆడట-యగయత), [ప్రమాద బహిర్గతం](core_05_band_oversight.md#పరమద-బహరగత), [పరిధి పత్రం](../../core_05.040_band_continuity.md), [వ్యవస్థ సరిహద్దులు](../../core_05.040_band_continuity.md#system-boundaries), [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [వ్యవస్థ ధృవీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-certification-record-constitutional), [వ్యవస్థ వర్గీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [వ్యవస్థ డేటా రకాలు రికార్డు](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), [వర్గీకరణ-స్కేల్ పాలన](core_05_band_oversight.md#వరగకరణ-సకల-పలన), మరియు **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
@@ -943,7 +943,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - క్లస్టర్ భాగం: [Def.O1 పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- గమ్యం: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [4.1 Safety](core_01_a_values_principles.md#4-safety-harm-constraint); [అధ్యాయం ఏడు §3.1 Systemic Scope and Risk Factors](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [అధ్యాయం ఏడు Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- గమ్యం: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [4.1 Safety](core_01_a_values_principles.md#4-safety-harm-constraint); [అధ్యాయం ఏడు §3.1 Systemic Scope and Risk Factors](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [అధ్యాయం ఏడు Part B §6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
 - దీనితో చదవండి: [ప్రమాద అంచనా](../../core_05.040_band_continuity.md#risk-evaluation), [ప్రమాదం](../../core_05.040_band_continuity.md#risk), [పారదర్శకత](core_05_band_oversight.md#పరదరశకత), [బహిరంగ పర్యవేక్షణ బేస్‌లైన్ బహిర్గతం](core_05_band_oversight.md#బహరగ-పరయవకషణ-బసలన-బహరగత), [భద్రత (పరిమితి)](../../core_05.040_band_continuity.md#safety-constraint), [సవాలు-యోగ్యత](../../core_05.035_band_accountability.md#contestability), [జ్ఞాన సమగ్రత](core_05_band_oversight.md#జఞన-సమగరత), మరియు [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
@@ -955,7 +955,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **అది ఏమిటి**
   - **పరిధిలో:** Communicating evaluated systemic [ప్రమాదం](../../core_05.040_band_continuity.md#risk) to those who need it so they can understand, challenge, మరియు act.
     - **కొనసాగే కర్తవ్యం:** The duty is not limited to certification cycles — it applies whenever [పారదర్శకత](core_05_band_oversight.md#పరదరశకత) or [భద్రత (పరిమితి)](../../core_05.040_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [అధ్యాయం ఏడు §3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [వ్యవస్థ ధృవీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+    - **SAC verification:** Where [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [అధ్యాయం ఏడు §3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [వ్యవస్థ ధృవీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **పరిధి బయట:**
     - [ప్రమాద అంచనా](../../core_05.040_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [బహిరంగ పర్యవేక్షణ బేస్‌లైన్ బహిర్గతం](core_05_band_oversight.md#బహరగ-పరయవకషణ-బసలన-బహరగత) as the broader public baseline floor; or
@@ -988,7 +988,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - క్లస్టర్ భాగం: [Def.O1 పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [సవాలు-యోగ్యత](../../core_05.035_band_accountability.md#contestability), [జ్ఞాన సమగ్రత](core_05_band_oversight.md#జఞన-సమగరత), [పారదర్శకత](core_05_band_oversight.md#పరదరశకత), [ధృవీకరణీయత](core_05_band_oversight.md#ధవకరణయత), [సాక్ష్యం సంరక్షణ](core_05_band_oversight.md#సకషయ-సరకషణ), మరియు [అంచనా పూర్తిత్వ పరిమితి](core_05_band_oversight.md#అచన-పరతతవ-పరమత).
 - దీనితో చదవండి: **అనుచ్ఛేదం XVI** (*Audit, Transparency, మరియు Independent Verification*); [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- స్టూవర్డ్ ద్వారం (అసంచాలకం): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (అనుచ్ఛేదం XVI)](core_06_rights_part_c.md). Three-layer picture: [అనుచ్ఛేదం XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
+- స్టూవర్డ్ ద్వారం (అసంచాలకం): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (అనుచ్ఛేదం XVI)](core_06_rights_part_c.md). Three-layer picture: [అనుచ్ఛేదం XVI](../../core_06.010_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1118,7 +1118,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - క్లస్టర్ భాగం: [Def.O1 పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- గమ్యం: Oversight measurement family (*evaluation coverage as constitutional measurement*); [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [అధ్యాయం ఏడు Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, మరియు deployment](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*testing, stress, మరియు regression coverage*).
+- గమ్యం: Oversight measurement family (*evaluation coverage as constitutional measurement*); [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [అధ్యాయం ఏడు Part B §6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, మరియు deployment](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*testing, stress, మరియు regression coverage*).
 - దీనితో చదవండి: [ఆడిట్-యోగ్యత](core_05_band_oversight.md#ఆడట-యగయత), [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [పరిధి పత్రం](../../core_05.040_band_continuity.md), [వ్యవస్థ సరిహద్దులు](../../core_05.040_band_continuity.md#system-boundaries), [వ్యవస్థ సరిహద్దు సమగ్రత](../../core_05.040_band_continuity.md#system-boundary-integrity), [భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination), [ప్రతికూల, స్కేల్, మరియు దోపిడీ షరతులు](core_05_band_oversight.md#పరతకల-సకల-మరయ-దపడ-షరతల), [వ్యవస్థ సృష్టి](../../core_05.055_band_participation.md#system-creation-constitutional), మరియు [వ్యాపార సృష్టి](../../core_05.055_band_participation.md#business-creation-constitutional).
 
 </details>
@@ -1135,7 +1135,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - ప్రతికూల మార్గాలు.
   - **కొనసాగే కర్తవ్యం:** నిర్వాహకులు, స్టూవర్డులు, లేదా సమీక్షకులు అంచనా లేదా హామీ పని నుండి రాజ్యాంగ అనుసరణ, సిద్ధత, లేదా సురక్షిత ఆధారాన్ని చెప్పినప్పుడల్లా ఈ పరిమితి వర్తిస్తుంది — ధృవీకరణ చక్రాల్లో మాత్రమే కాదు.
   - **Charter and scope process:** Where a governing [పరిధి పత్రం](../../core_05.040_band_continuity.md) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [వ్యవస్థ సరిహద్దులు](../../core_05.040_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [వ్యవస్థ ధృవీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
+  - **SAC verification:** Where [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [వ్యవస్థ ధృవీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
   - **పరిధి బయట:**
     - [పరిధి పత్రం](../../core_05.040_band_continuity.md) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
     - [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
@@ -1151,7 +1151,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - [ప్రతికూల, స్కేల్, మరియు దోపిడీ షరతులు](core_05_band_oversight.md#పరతకల-సకల-మరయ-దపడ-షరతల) where material.
     ఇంకా అడగండి:
       - where a [పరిధి పత్రం](../../core_05.040_band_continuity.md) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where [వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **ఏది నిలవాలి**
   - **ప్రాథమిక వైఫల్యం:**
@@ -1181,7 +1181,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - క్లస్టర్ భాగం: [Def.O1 పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- యజమాని నేల: [అనుచ్ఛేదం XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- యజమాని నేల: [అనుచ్ఛేదం XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - దీనితో చదవండి: [ఆడిట్-యోగ్యత](core_05_band_oversight.md#ఆడట-యగయత), [పారదర్శకత](core_05_band_oversight.md#పరదరశకత), [సవాలు-యోగ్యత](../../core_05.035_band_accountability.md#contestability), [అనుపాతత](../../core_05.035_band_accountability.md#proportionality), [సాధ్యత](../../core_05.035_band_accountability.md#feasibility), [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#సతయ-రజయగ-పరమత), మరియు [ప్రతికూల, స్కేల్, మరియు దోపిడీ షరతులు](core_05_band_oversight.md#పరతకల-సకల-మరయ-దపడ-షరతల).
 
 </details>
@@ -1193,7 +1193,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **అది ఏమిటి**
   - **పరిధిలో:** Whether system behavior, outputs, మరియు effects can be externally detected, measured, మరియు independently validated for [ఆడిట్-యోగ్యత](core_05_band_oversight.md#ఆడట-యగయత). Constitutive conditions:
     - స్వతంత్ర ధృవీకరణకు ముందు బాహ్య గుర్తింపు లెక్క;
-    - practical access ([అనుచ్ఛేదం XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [సాధ్యత](../../core_05.035_band_accountability.md#feasibility));
+    - practical access ([అనుచ్ఛేదం XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility); [సాధ్యత](../../core_05.035_band_accountability.md#feasibility));
     - నిర్వాహక స్వయం-ప్రకటన నుండి స్వాతంత్ర్యం;
     - proportionate burden under [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) and [భౌతిక ప్రభావం](core_05_band_oversight.md#భతక-impact); and
     - reliability under ordinary stress, misuse, మరియు [ప్రతికూల, స్కేల్, మరియు దోపిడీ షరతులు](core_05_band_oversight.md#పరతకల-సకల-మరయ-దపడ-షరతల).
@@ -1218,7 +1218,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **ద్వితీయ కొలత:** [పర్యవేక్షణ కొలత కుటుంబం](core_05_apex_oversight_leg.md#oversight-measurement-family) — *సంజ్ఞ ప్రాణులు వ్యవస్థలు చూపించేదాన్ని చూడగలరా, ధృవీకరించగలరా, ఆధారపడగలరా?* ఇక్కడ ఇది అడగండి: observed behavior can be independently validated by reproducible methods in practice.
 
     **ద్వితీయ అంచనా:** స్వతంత్ర ధృవీకరణను ఈ పద్ధతులతో నిర్ధారించండి:
-    - affected and appropriately authorized parties can actually perform ([అనుచ్ఛేదం XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [సాధ్యత](../../core_05.035_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([అనుచ్ఛేదం XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility); [సాధ్యత](../../core_05.035_band_accountability.md#feasibility));
     - బాహ్యంగా గుర్తించదగిన సాక్ష్యంపై ఆనుకోండి — అంతరంగిక ప్రకటనలు లేదా అనుమానించిన ఉద్దేశం కాదు;
     - are sized to system impact under [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) and [భౌతిక ప్రభావం](core_05_band_oversight.md#భతక-impact); and
     - remain reliable under ordinary stress, misuse, మరియు [ప్రతికూల, స్కేల్, మరియు దోపిడీ షరతులు](core_05_band_oversight.md#పరతకల-సకల-మరయ-దపడ-షరతల).

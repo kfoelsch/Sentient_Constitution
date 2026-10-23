@@ -11,10 +11,10 @@
 
 - Upstream: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) (5.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](core_00.000_preamble.md#flourishing).
 - Downstream: Principles:
-  - [Chapter One §3 Foundational Objective: Wellbeing](core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) (1.005 §3);
-  - [Chapter One §2.1 Non-Negotiable Constraints: Safety and Truth](core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (1.005 §2.1);
-  - [Chapter One §6 Trust](core_01.005_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) (1.005 §6);
-  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.015_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.015 §19.1.5);
+  - [Chapter One §3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) (1.000 §3);
+  - [Chapter One §2.1 Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (1.000 §2.1);
+  - [Chapter One §6 Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) (1.000 §6);
+  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5);
   - [Constitutional Aim decomposition](#constitutional-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per
   - [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) (5.000).
 - Read with:
@@ -60,14 +60,14 @@ Chapter Five, Flourishing aim, is the constitutional owner of the **Flourishing*
     - **Searchable index:** [Chapter Five alphabetical directory](core_05.000_definitions_home.md#chapter-five-alphabetical-directory-non-operative).
   - **Primary assessment:**
     - Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
-    - Tie claimed flourishing results to the [constituent](#constitutional-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.015_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
+    - Tie claimed flourishing results to the [constituent](#constitutional-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
     - Always read with [Continuity (Constitutional Aim)](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim): short-term gains that foreseeably weaken long-term stability, resilience, or ecological integrity fail **Flourishing** when the two aims are judged together.
 <a id="flourishing-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Non-compliant when:
     - one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out;
     - flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or
-    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) without clear permission under [Chapter One §13 Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05.010_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) without clear permission under [Chapter One §13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 ---
 
@@ -107,7 +107,7 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+- Read with: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
 
 </details>
 

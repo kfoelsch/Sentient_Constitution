@@ -837,7 +837,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連根拠</span></strong></summary>
 
-- 上位根拠：第一章の原則[§5 真実](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 認識論的開示の制約](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[§20 統合適用](../../core_01.015_stewardship_capacity_principles.md#20-integrated-application)。
+- 上位根拠：第一章の原則[§5 真実](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 認識論的開示の制約](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[§20 統合適用](../../core_01.010_stewardship_capacity_principles.md#20-integrated-application)。
 
 </details>
 

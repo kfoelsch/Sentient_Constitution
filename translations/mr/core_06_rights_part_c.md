@@ -841,7 +841,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§5 सत्य](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानमीमांसक प्रकटीकरणाच्या मर्यादा](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints), आणि [§20 एकात्मिक अनुप्रयोग](../../core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+- आधार: तत्त्वे: अध्याय एक [§5 सत्य](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानमीमांसक प्रकटीकरणाच्या मर्यादा](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints), आणि [§20 एकात्मिक अनुप्रयोग](../../core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

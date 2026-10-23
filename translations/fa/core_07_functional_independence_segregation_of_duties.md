@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">جایگاه در پیکره (غیرعملیاتی): ساختار فایل و قواعد خواندن</span></strong></summary>
 
-> این فایل **بخشی از قانون اساسی سِنتینت** است و تنها **در کنار** سایر فایل‌های شماره‌دار `core_*` که به‌عنوان یک سند واحد خوانده می‌شوند الزام‌آور است. این فایل شامل **فصل هفتم** است: کفِ میان‌فرایندی برای استقلال کارکردی و تفکیک وظایف. این فصل پس از کف حقوق فصل ششم و پیش از فصل‌های فرایند قانون اساسی قرار می‌گیرد که با [گواهی هم‌راستایی سامانه در فصل هشتم](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) آغاز می‌شوند.
+> این فایل **بخشی از قانون اساسی سِنتینت** است و تنها **در کنار** سایر فایل‌های شماره‌دار `core_*` که به‌عنوان یک سند واحد خوانده می‌شوند الزام‌آور است. این فایل شامل **فصل هفتم** است: کفِ میان‌فرایندی برای استقلال کارکردی و تفکیک وظایف. این فصل پس از کف حقوق فصل ششم و پیش از فصل‌های فرایند قانون اساسی قرار می‌گیرد که با [گواهی هم‌راستایی سامانه در فصل هشتم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) آغاز می‌شوند.
 >
 > - **متولی قانون اساسی:** کفِ جایگاه‌های متمایز برای اعمال الزام‌آور مادی؛ حداقل محتوای همگانی هر [سابقهٔ عمل الزام‌آور مادی](../../core_05_band_accountability.md#materially-binding-act-record)؛ استقلال از کنشگر و [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line) کنشگر؛ انتشار عمومی تخصیص مسیر و نقش؛ مسیریابی تعارض، جای خالی، جانشینی و جایگاه نادرست؛ میزبانی ادغام‌شدهٔ متناسب؛ تحویل‌های قابل انتساب؛ و حداقل شرایط استقلالی که هر فرایند قانون اساسی بعدی باید اعمال کند.
 > - **منبع در لایهٔ اصول:** [فصل یکم §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) از حکمرانی می‌خواهد استقلال کارکردی را حفظ کند و معماری عملیاتی جایگاه‌ها را به اینجا ارجاع می‌دهد.
@@ -20,7 +20,7 @@
 
 - بالادستی: [چهارگانهٔ قانون اساسی](../../core_00_preamble.md#constitutional-tetrad) — به‌ویژه **نظارت** و **پاسخ‌گویی**؛ [ذی‌نفعی مادی](../../core_00_preamble.md#material-stake)؛ [استاندارد سرپرستی مشترک فصل یکم §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)؛ [حکمرانی تحت انضباط سرپرستی فصل یکم §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [مادهٔ شانزدهم](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ممیزی، شفافیت و راستی‌آزمایی مستقل*).
 - زیربخش‌ها: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes).
-- پایین‌دستی: [فصل هشتم](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)؛ [فصل نهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل دوازدهم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [فصل سیزدهم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ متن اجرایی مشخص‌شده در بالا.
+- پایین‌دستی: [فصل هشتم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل نهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل دوازدهم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [فصل سیزدهم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ متن اجرایی مشخص‌شده در بالا.
 - همراه با: [کشف ناهم‌راستایی فصل یکم §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*کشف و بازبینی چندگانه*)؛ [اقدام قابل انتساب](../../core_05_band_accountability.md#attributable-action)؛ [یکپارچگی انتساب](../../core_05_band_accountability.md#attribution-integrity)؛ [ممیزی‌پذیری](../../core_05_band_oversight.md#auditability)؛ [اعتراض‌پذیری](../../core_05_band_accountability.md#contestability)؛ [تناسب](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -66,7 +66,7 @@
 - فهرست جایگاه‌های عملیاتی، روش‌های نیرویابی و سازوکارهای نقشهٔ مسیر از متن اجرایی مشخص‌شده.
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. کف چهار جایگاه قانون اساسی
+### 2. الزامات قانون اساسی چهار کرسی
 
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
@@ -351,7 +351,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادست: از [§1](#1-purpose-scope-and-owner-boundary) تا [§8](#8-act-records-and-attributable-handoffs).
-- پایین‌دست: [فصل هشتم](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)؛ [فصل نهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل دوازدهم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [فصل سیزدهم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- پایین‌دست: [فصل هشتم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل نهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل دوازدهم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [فصل سیزدهم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - همراه با این بخش بخوانید: [سلسله‌مراتب داخلی و پشتهٔ اختیارات](../../core_05_band_integrative.md#owner-non-relocation) و [دفتر ثبت مالکیت دیباچه](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>

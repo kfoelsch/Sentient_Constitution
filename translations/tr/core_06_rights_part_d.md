@@ -319,9 +319,9 @@ Bu Madde, adlandırılmış yol uygunluğunu ve sorumluluğunu ve siyasi söz ha
 <details>
 <summary><strong><span style="color: #2563eb;">İzlek</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: [Article XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Read with: [Article XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
@@ -347,9 +347,9 @@ Bu madde, ihlallerin nasıl kaydedileceğini ve statü kilitlerinin nasıl uygul
   - İlgili görev ve kapasite mevcutken hukuka aykırı veya anayasa karşıtı talimatlara uyarak katılma ve bunlara direnmemiş olma, uygunluk ve kilit değerlendirmelerinde hesaba katılmalıdır; bu, **Beşinci Bölüm** (*Kolektif Hesap Verebilirlik Başarısızlığı*) ile tutarlı olmalıdır.
 - **Statü kilitleri:** [Statü Kilidi](../../core_05.035_band_accountability.md#standing-lock), yeterlilik izninin kısıtlayıcı karşılığıdır. Doğrulanmış bir ihlal kararı çözülmemiş veya önemli ölçüde giderilmemişken güven, rol, yetki, kredi, gözetim, tanınma, **yönetişim oylaması** ya da **paydaş katılımı** yollarını engelleyebilir veya sınırlayabilir. Kısıtlayıcı sonuçlar yalnızca adı belirlenmiş ayrıcalık yollarına uygulanır; doğrulanmış risk gerektiriyorsa belirli ortam, ağ ya da sentientlerden ayrılma [ayrılma sınırlarına](../../core_11.000_standing_integration.md#51-separation-limits) uymalıdır.
   - Statü kilidi bir onur sıralaması, Hak Tabanı düşürümü, otomatik misilleme veya birleştirilmiş liyakat puanı değildir.
-  - Hangi erişimin engellendiği, kimin/neye koruma sağlandığı, kilidin kalkması için neyin düzeltileceği, inceleme yolu ve yeniden değerlendirme zamanı açıkça belirtilmeli; [XIX-B. Madde](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) uyarınca gerekli, orantılı, denetlenebilir ve itiraza açık olmalıdır.
+  - Hangi erişimin engellendiği, kimin/neye koruma sağlandığı, kilidin kalkması için neyin düzeltileceği, inceleme yolu ve yeniden değerlendirme zamanı açıkça belirtilmeli; [XIX-B. Madde](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) uyarınca gerekli, orantılı, denetlenebilir ve itiraza açık olmalıdır.
   - Yeterlilik izni uygulanabilir bir statü kilidini kaldırmaz; iyi katkı çözülmemiş doğrulanmış ihlal bulgularını silmez.
-  - Oylama yolu kilitleri ile üç özel kilide ilişkin ek kurallar [XIX-E. Madde](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) içindedir.
+  - Oylama yolu kilitleri ile üç özel kilide ilişkin ek kurallar [XIX-E. Madde](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks) içindedir.
   - Statü kilitleri bireyselleştirilmiş adalet sürecinin yerine geçmez ve **tek başına** hareketi, sığınmayı, taşınabilirliği veya çıkışı sınırlamaz ([XXI. Madde](#xxi-madde-birlikte-işlerlik-taşınabilirlik-ve-çıkış-bütünlüğü) ve [XXII. Madde](#xxii-madde-hareket-göç-sığınma-ve-vatansızlığın-önlenmesi)).
 - **Kilidin zarara göre ayarlanması:** Kilit; doğrulanmış zararın ağırlığına, koruduğu belirli rol veya ayrıcalığa ve onarımın ilerleme derecesine uymalıdır.
   - **Geçmiş katkı:** Yalnızca sentientin onarım yapabileceğini, güvenceleri sürdürebileceğini veya tekrarı önleyebileceğini gösteriyorsa ya da yeniden değerlendirmede daha hafif bir kısıtlamayı destekliyorsa dikkate alınabilir. Çözülmemiş zarar bulgusunu dengelemez, kaldırmaz, ortalamasını düşürmez veya onun yerine geçmez.
@@ -380,7 +380,7 @@ Bu Madde, oylama kilitlerinin ve özel kilitlerin sınırlarını belirler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: Birinci Bölüm [§3 Temel Amaç: İyi Oluş](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Güvenlik](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§18 Sorumlu Emanet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-stewardship-disiplini-altında-yönetişim).
+- Üst dayanak: İlkeler: Birinci Bölüm [§3 Temel Amaç: İyi Oluş](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Güvenlik](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§18 Sorumlu Emanet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-stewardship-disiplini-altında-yönetişim).
 - Alt dayanak: [Onuncu Bölüm §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*İhlal, düzeltme ve önleme*); [On Birinci Bölüm §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Usuli güvenceler, giderim ve önleme*).
 
 </details>
@@ -412,7 +412,7 @@ Kabul edilen yönetişim uygulaması ayrıntı ekleyebilir. Adalet amacını vey
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](../../core_01.005_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Birinci Bölüm §3.3 Aşağılayıcı Olmayan Süreç](core_01_a_values_principles.md#33-aşağılayıcı-olmayan-süreç) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
+- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](../../core_01.000_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Birinci Bölüm §3.3 Aşağılayıcı Olmayan Süreç](core_01_a_values_principles.md#33-aşağılayıcı-olmayan-süreç) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 - Alt dayanak: [Onuncu Bölüm §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*İhlal, düzeltme ve önleme*); [XX-B. Madde](#xx-b-madde-kısıtlama-tabanları).
 - Birlikte okuyun: [Zalimlik](../../core_05.035_band_accountability.md#cruelty) (*Beşinci Bölümdeki zalimlik karşıtı tabanın, acıyı amaç edinmeme standardı*).
 
@@ -661,8 +661,8 @@ Bu Madde sistemler için açık biçim tabanını belirler:
 - **Açık biçim tercihi:** Sistemler açık biçimleri, arayüzleri ve protokolleri tercih etmelidir. Önemli etki ve bağımlılık arttıkça yükümlülük güçlenir.
 - **Açık sayılma ölçütü:** Eksiksiz tanım kamuya açık olmalı; herkes izin, ücret veya telif ödemesi olmadan uygulayabilmeli; tek bir taraf onu tek yanlı değiştirememeli ya da o taraf desteğini çekerse başkaları özgürce çatallayıp sürdürebilmelidir. Bu koşullardan birini karşılamayan belgeli biçimler bu alt madde bakımından kapalıdır; yine de belgesiz biçimlerden yeğlenir.
 - **Katmana göre yükümlülükler:**
-  - **Çıkış:** [Article XXI-A](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights) kapsamındaki dışa aktarma ve geçiş yolları, yapı, üstveri, ilişkiler veya aslına uygunlukta önemli kayıp olmadan veriyi taşıyabilen en az bir açık biçim sunmalıdır.
-  - **Birlikte işlerlik:** [Article XXI-B](../../core_06.020_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) kapsamındaki entegrasyon sınırları varsayılan olarak açık standart ve protokolleri kullanmalı; kapalı olanları ancak bu alt maddeye göre gerekçelendirildiyse kullanmalıdır.
+  - **Çıkış:** [Article XXI-A](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) kapsamındaki dışa aktarma ve geçiş yolları, yapı, üstveri, ilişkiler veya aslına uygunlukta önemli kayıp olmadan veriyi taşıyabilen en az bir açık biçim sunmalıdır.
+  - **Birlikte işlerlik:** [Article XXI-B](../../core_06.015_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) kapsamındaki entegrasyon sınırları varsayılan olarak açık standart ve protokolleri kullanmalı; kapalı olanları ancak bu alt maddeye göre gerekçelendirildiyse kullanmalıdır.
   - **İç ve yerel biçimler:** Sistemler depolama ve yerel çalışma biçimleri için açık olanları yeğlemelidir. Kapalı biçim, önemli etki ve bağımlılıkla orantılı daha güçlü bir gerekçe gerektirir.
   - **Kamuya açık veriler:** Kamu erişimi için yayımlanan veriler—corpus_systems.md CS-2'deki O, E ve W türleri dahil—varsayılan olarak açık biçimlerde yayımlanmalıdır.
 - **Kapalı biçim gerekçesi:** Kapalı biçim, arayüz veya protokol ancak hiçbir açık seçenek aslına uygunluk, performans, emniyet, güvenlik, erişilebilirlik veya özel işlev gibi önemli bir gereksinimi karşılamıyorsa gerekçelendirilebilir.
@@ -670,7 +670,7 @@ Bu Madde sistemler için açık biçim tabanını belirler:
   - Mevcut en iyi açık dışa aktarımı sunmalı ve bu dışa aktarımın neleri kaybettirdiğini açıklamalıdır.
   - Geçişi mümkün kılacak belgeleri sağlamalı veya bunları bağımsız bir emanete bırakmalıdır.
   - Açık seçenekler geliştikçe seçimi dönemsel olarak ve önemli etkili her belgelendirme ya da yeniden doğrulamada gözden geçirmelidir.
-  - Kolaylık, işletmeci maliyet tasarrufu veya yerleşik kullanım tek başına gerekçe değildir. Başlıca etkisi çıkışı veya geçişi engellemek olan kapalı biçim [Article XXI-C](../../core_06.020_rights_part_d.md#article-xxi-c-anti-lock-in-rule) ile çelişir.
+  - Kolaylık, işletmeci maliyet tasarrufu veya yerleşik kullanım tek başına gerekçe değildir. Başlıca etkisi çıkışı veya geçişi engellemek olan kapalı biçim [Article XXI-C](../../core_06.015_rights_part_d.md#article-xxi-c-anti-lock-in-rule) ile çelişir.
 - **Geçiş:** Bu alt madde ilk kez uygulandığında hâlihazırda çalışan sistem bir geçiş planını açıklamalı; varsayılan olarak bir yıl içinde birlikte işlerlik, iç biçim ve kamu verisi yükümlülüklerini karşılamalıdır.
   - Benimseyenler Chapter Eighteen kapsamında sisteme göre farklı süreler belirleyebilir; gerekçeyi yayımlamalıdır.
   - İstisnai koşullarda uzatma ancak geçerli gerekçelendirme yüküne göre belgeli, incelenebilir ve süreli bir gerekçeyle verilebilir.
@@ -894,7 +894,7 @@ Karmaşıklığa ilişkin emanet sorumluluğu disiplini, sade dil erişimi ve y�
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: Birinci Bölüm [§5 Doğruluk](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: İlkeler: Birinci Bölüm [§5 Doğruluk](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Birlikte okuyun: [Birinci Bölüm §5.2 Sade Dil Erişilebilirliği (Emanet Sorumluluğu Görevi)](core_01_a_values_principles.md#52-sade-dilde-erişilebilirlik-katılım-ve-vekilharçlık-görevi), [§13.3 Önlenebilir Yükün Asgariye İndirilmesi](core_01_b_interaction_interpretation.md#133-önlenebilir-yükün-en-aza-indirilmesi) ve [Birinci Bölüm Kısım C §16.1 Dağıtılmış Anlayış](core_01_c_stewardship_capacity_principles.md#161-dağıtık-anlayış).
 
 </details>
@@ -926,7 +926,7 @@ Bu Madde, orantılı anlaşılabilirlik tabanını belirler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](../../core_01.005_values_principles.md#4-safety-harm-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Birinci Bölüm §18.5 Modüler Mimari ve Bağımlılık Disiplini](core_01_c_stewardship_capacity_principles.md#185-modüler-mimari-ve-bağımlılık-disiplini) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
+- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](../../core_01.000_values_principles.md#4-safety-harm-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Birinci Bölüm §18.5 Modüler Mimari ve Bağımlılık Disiplini](core_01_c_stewardship_capacity_principles.md#185-modüler-mimari-ve-bağımlılık-disiplini) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 
 </details>
 
@@ -965,7 +965,7 @@ Bu Madde, karmaşıklık denetimleri, modülerlik, katmanlama karşıtlığı ve
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 Doğruluk](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Temel ödünleşim ilkeleri](core_01_b_interaction_interpretation.md#131-temel-ödünleşim-ilkeleri) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 Doğruluk](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Temel ödünleşim ilkeleri](core_01_b_interaction_interpretation.md#131-temel-ödünleşim-ilkeleri) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — **Gelişim** ve **Süreklilik**; **Beşinci Bölümdeki** [Geri Döndürülebilirlik](../../core_05.040_band_continuity.md#reversibility), [Risk](../../core_05.040_band_continuity.md#risk) ve [Sistem Ele Geçirilmesi](../../core_05.040_band_continuity.md#system-capture).
 
 </details>
@@ -1012,7 +1012,7 @@ Tanısal titizlik denetlenebilir ve itiraza açık kalmalıdır. [**CS-8**](../.
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 Doğruluk](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 Doğruluk](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1167,7 +1167,7 @@ Bu Madde, Anayasal forumların sınırlandırılmış yetkisini ve sınırların
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Üst dayanak: İlkeler: Birinci Bölüm [§13.1.5 Hak Çatışması Karar Testi](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Sorumlu Emanet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-stewardship-disiplini-altında-yönetişim) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
-- Birlikte okuyun: [Onuncu Bölüm §5.5](core_09_standing_integration.md#55-special-locks) (*forum açıklaması eksikliği ve çekilme sürecine etkisi*); [On Birinci Bölüm §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*adlandırılmış kötü davranış örüntüsü*); [On İkinci Bölüm §2](core_11_forum.md#2-default-venue-and-primary-stakes) ve [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Bütünlük öncelikli yönlendirme ve kendi kendini yargılama yasağı*).
+- Birlikte okuyun: [Onuncu Bölüm §5.5](core_09_standing_integration.md#55-special-locks) (*forum açıklaması eksikliği ve çekilme sürecine etkisi*); [On Birinci Bölüm §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*adlandırılmış kötü davranış örüntüsü*); [On İkinci Bölüm §2](core_11_forum.md#2-default-venue-and-primary-stakes) ve [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Bütünlük öncelikli yönlendirme ve kendi kendini yargılama yasağı*).
 
 </details>
 

@@ -59,7 +59,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 ## Suggested editorial waves
 
-1. **Wave A — Global integrity + proxy** (`global_integrity_negative`, `proxy_metrics`, `instrumental_only`, `symbolic_participation`): canonicalize in `core_01.015_stewardship_capacity_principles.md` §11; thin aim heads and cluster O lines.
+1. **Wave A — Global integrity + proxy** (`global_integrity_negative`, `proxy_metrics`, `instrumental_only`, `symbolic_participation`): canonicalize in `core_01.010_stewardship_capacity_principles.md` §11; thin aim heads and cluster O lines.
 2. **Wave B — Layer separation** (`layer_separation`, `not_substitute`, `pointer_disclaimer`): one Ch00/Ch05i exposition + Trace pointers.
 3. **Wave C — Review queue** (`scope_exclusion`, `anti_formalism`): per-term triage; keep evasion blocks on gamed terms.
 4. **Wave D — Keep** (`neighbor_disambiguation`, `rights_floor_jurisdiction`): retain local O boundaries; optional standard Trace boilerplate only.
@@ -70,7 +70,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Global integrity negative (harm / deception / capture / proxy divorce)
 - **Action:** thin
-- **Canonical home:** core_01.015_stewardship_capacity_principles.md §11.1.2; core_01.005_values_principles.md §3 Safety/Truth; Proxy Divergence
+- **Canonical home:** core_01.010_stewardship_capacity_principles.md §11.1.2; core_01.000_values_principles.md §3 Safety/Truth; Proxy Divergence
 - **Notes:** Fold duplicate negatives into principle layer + Trace; keep at most one enforceable C line per aim/cluster.
 - **Patterns:** `does not authorize`, `license for harm`, `license for deception`, `captured governance`, `proxy metrics divorced`, `rest on harm, deception`, `treating .* as a license`
 
@@ -78,7 +78,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Proxy / engagement / self-report substitution
 - **Action:** thin
-- **Canonical home:** core_05.050_band_oversight.md Proxy Divergence; core_01.015_stewardship_capacity_principles.md §11.1.2
+- **Canonical home:** core_05.050_band_oversight.md Proxy Divergence; core_01.010_stewardship_capacity_principles.md §11.1.2
 - **Notes:** Tertiary measurement checks may become single Trace read-with Proxy Divergence.
 - **Patterns:** `proxy throughput`, `engagement metrics`, `institutional self-report`, `institutional assertion`, `symbolic compliance`, `busywork`, `metrics that no longer prove`, `distinguish durable .* from proxy`, `tertiary integrity check`
 
@@ -86,7 +86,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Instrumental-only / does not rank outcomes
 - **Action:** thin
-- **Canonical home:** core_01.015_stewardship_capacity_principles.md §11 + §14 Systemic Evaluation
+- **Canonical home:** core_01.010_stewardship_capacity_principles.md §11 + §14 Systemic Evaluation
 - **Notes:** O line can stay positive; instrumental frame moves to principle layer.
 - **Patterns:** `instrumental only`, `does not define, rank, or substitute`, `does not define or substitute`, `does not rank or substitute`
 
@@ -102,7 +102,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Not a substitute / backstops not substitutes
 - **Action:** thin
-- **Canonical home:** core_01.015_stewardship_capacity_principles.md §9; core_01.010_interaction_interpretation.md §6
+- **Canonical home:** core_01.010_stewardship_capacity_principles.md §9; core_01.005_interaction_interpretation.md §6
 - **Notes:** Keep where term-specific routing is material; thin generic restatements.
 - **Patterns:** `not a substitute for`, `not substitutes for`, `backstops, not substitutes`, `not itself a pathway`, `not an excuse to skip`, `not an excuse for`, `does not permanently excuse`
 
@@ -118,7 +118,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Anti-formalism / label-gaming evasion block
 - **Action:** review
-- **Canonical home:** core_02.000_definition_structure.md Chapter Three §2.2.1; core_01.015_stewardship_capacity_principles.md §11.6 for formal-structure change; term-specific C on gamed entries
+- **Canonical home:** core_02.000_definition_structure.md Chapter Three §2.2.1; core_01.010_stewardship_capacity_principles.md §11.6 for formal-structure change; term-specific C on gamed entries
 - **Notes:** Pattern is global; instance often must stay on the gamed term.
 - **Patterns:** `human-in-the-loop`, `rubber-stamp`, `rubber-stamps`, `formal relabeling`, `nominal .* does not`, `taxonomy-of-convenience`, `declared intent where`, `formal classification is relevant evidence but cannot`
 
@@ -150,7 +150,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Symbolic / theater participation negative
 - **Action:** thin
-- **Canonical home:** core_01.015_stewardship_capacity_principles.md §11; Participation definition
+- **Canonical home:** core_01.010_stewardship_capacity_principles.md §11; Participation definition
 - **Notes:** Canonical on Participation O/E/C; thin duplicates on cluster entries.
 - **Patterns:** `advisory theater`, `symbolic influence`, `symbolic participation`, `nominal consultation`, `substantive from formal`
 

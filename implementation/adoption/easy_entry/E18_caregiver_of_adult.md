@@ -47,7 +47,7 @@ See: [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_supp
 - **Today:** The clinic will give you a break if you become “decision-maker.” Or they will only help if you leave the household. Keep the adult and lose rest, or take rest and take over.
 - **With this Constitution:** Survival and rest cannot be billed as the price of unpaid care. Helping with one hard thing is not a key to every decision. If someone has to decide a thing they cannot currently carry, that step has to be only that thing, the smallest needed, time-limited, and looked at again.
 
-See: [Article III-A](../../../core_06.005_rights_part_a.md#article-iii-a-survival); [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §13.1.5](../../../core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+See: [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival); [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §13.1.5](../../../core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 **You are not automatically their owner.**
 - **Today:** Because you pay a bill, the file lists you as the one who decides the clinician, the cards, and who they may see. Refusal is treated as proof they cannot decide — or as proof you are failing.
@@ -59,7 +59,7 @@ See: [CI-6.220](../../../corpus_institutions/ci_06.220_neurodiversity_disability
 - **Today:** The “safe” rest-break is a durable break from the care relationship you actually have — or from the adult you care for.
 - **With this Constitution:** A lasting split from someone you depend on, or someone who depends on you, is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again.
 
-See: [Article VIII-A](../../../core_06.010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06.010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05.055_band_participation.md#non-separation).
+See: [Article VIII-A](../../../core_06.005_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06.005_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05.055_band_participation.md#non-separation).
 
 ## What you might reasonably object to
 
@@ -71,7 +71,7 @@ See: [Article VIII-A](../../../core_06.010_rights_part_b.md#article-viii-a-famil
 
 - **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, family, or labor law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“Don’t put me in a carer type.”** You do not have to take that label to use this page. This brief is for someone doing unpaid care for an adult, when rest or help is being billed as takeover. It does not change the Rights Floor that applies to you. When unpaid care, rest, or a quiet takeover is actually at stake, those rules are located in the sections on [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) and [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body).
+- **“Don’t put me in a carer type.”** You do not have to take that label to use this page. This brief is for someone doing unpaid care for an adult, when rest or help is being billed as takeover. It does not change the Rights Floor that applies to you. When unpaid care, rest, or a quiet takeover is actually at stake, those rules are located in the sections on [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) and [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body).
 
 ## What this will not pretend to give you
 

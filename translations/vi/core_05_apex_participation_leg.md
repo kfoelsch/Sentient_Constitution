@@ -107,7 +107,7 @@ Các **thuật ngữ độc lập** sống dưới [Tham gia: thuật ngữ đ�
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Hạ nguồn: gia đình đo lường Tham gia — gộp chỉ-liên kết; các bậc theo thuật ngữ sống ở định nghĩa lá — xem [Công bằng nội dung](../../core_05.055_band_participation.md#substantive-fairness), [Dùng chỉ số thay đặc điểm được bảo vệ và tác động lệch](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Khả năng tiếp cận](../../core_05.055_band_participation.md#accessibility), [Quyền năng giáo dục](../../core_05.055_band_participation.md#educational-agency), [Quyền năng có ý nghĩa](../../core_05.055_band_participation.md#meaningful-agency), và cụm [Quyền riêng tư (Thông tin)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) ở dải Liên tục.
-- Đọc cùng: Chương Sáu, [Chương Bảy](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), hoặc các văn kiện đã hợp nhất — các yêu cầu ràng buộc về không phân biệt đối xử, điều chỉnh, giáo dục, hoặc quyền riêng tư nảy sinh khi những văn kiện đó đòi chúng một cách rõ.
+- Đọc cùng: Chương Sáu, [Chương Bảy](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), hoặc các văn kiện đã hợp nhất — các yêu cầu ràng buộc về không phân biệt đối xử, điều chỉnh, giáo dục, hoặc quyền riêng tư nảy sinh khi những văn kiện đó đòi chúng một cách rõ.
 
 </details>
 

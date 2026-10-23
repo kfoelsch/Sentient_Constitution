@@ -17,18 +17,18 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Current Chapter Map
 
-- **Preamble and Ch 1:** [core_00.000_preamble.md](core_00.000_preamble.md), [core_01.005_values_principles.md](core_01.005_values_principles.md) (Part A), [core_01.010_interaction_interpretation.md](core_01.010_interaction_interpretation.md) (Part B), and [core_01.015_stewardship_capacity_principles.md](core_01.015_stewardship_capacity_principles.md) (Part C)
+- **Preamble and Ch 1:** [core_00.000_preamble.md](core_00.000_preamble.md), [core_01.000_values_principles.md](core_01.000_values_principles.md) (Part A), [core_01.005_interaction_interpretation.md](core_01.005_interaction_interpretation.md) (Part B), and [core_01.010_stewardship_capacity_principles.md](core_01.010_stewardship_capacity_principles.md) (Part C)
 - **Ch 2:** [core_02.000_definition_structure.md](core_02.000_definition_structure.md)
 - **Ch 3:** [core_03.000_definition_integrity.md](core_03.000_definition_integrity.md)
 - **Ch 4:** [core_04.000_burden_traceability_verification.md](core_04.000_burden_traceability_verification.md)
 - **Ch 5:** Part A compass — [core_05.000_definitions_home.md](core_05.000_definitions_home.md); band files — [core_05.050_band_oversight.md](core_05.050_band_oversight.md), [core_05.055_band_participation.md](core_05.055_band_participation.md), [core_05.035_band_accountability.md](core_05.035_band_accountability.md), [core_05.040_band_continuity.md](core_05.040_band_continuity.md), [core_05.045_band_integrative.md](core_05.045_band_integrative.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
-- **Ch 6:** [core_06.005_rights_part_a.md](core_06.005_rights_part_a.md) through [core_06.025_rights_part_e.md](core_06.025_rights_part_e.md)
+- **Ch 6:** [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md) through [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md)
 - **Ch 7:** [core_07.000_charters.md](core_07.000_charters.md)
 - **Ch 8:** [core_08.000_functional_independence_separation_of_duties.md](core_08.000_functional_independence_separation_of_duties.md)
-- **Ch 9:** reading index [core_09.000_system_alignment_certification.md](core_09.000_system_alignment_certification.md); Part A [core_09.005_system_alignment_certification_evaluation.md](core_09.005_system_alignment_certification_evaluation.md); Part B [core_09.010_system_alignment_certification_record_process.md](core_09.010_system_alignment_certification_record_process.md); Part C [core_09.015_system_alignment_certification_illustrations.md](core_09.015_system_alignment_certification_illustrations.md); Part D [core_09.020_institutional_alignment_certification.md](core_09.020_institutional_alignment_certification.md)
+- **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_illustrations.md](core_09.010_system_alignment_certification_illustrations.md); Part D [core_09.015_institutional_alignment_certification.md](core_09.015_institutional_alignment_certification.md)
 - **Ch 10:** [core_10.000_standing_assessment.md](core_10.000_standing_assessment.md)
 - **Ch 11:** [core_11.000_standing_integration.md](core_11.000_standing_integration.md)
-- **Ch 12:** Part A [core_12.005_misconduct_designation.md](core_12.005_misconduct_designation.md); Part B [core_12.010_misconduct_pattern_applications.md](core_12.010_misconduct_pattern_applications.md)
+- **Ch 12:** Part A [core_12.000_misconduct_designation.md](core_12.000_misconduct_designation.md); Part B [core_12.005_misconduct_pattern_applications.md](core_12.005_misconduct_pattern_applications.md)
 - **Ch 13:** [core_13.000_forum.md](core_13.000_forum.md)
 - **Ch 14:** [core_14.000_governance.md](core_14.000_governance.md)
 - **Ch 15:** [core_15.000_non_regression.md](core_15.000_non_regression.md)

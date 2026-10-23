@@ -81,10 +81,10 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article III-C](../../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) — classification tricks designed to defeat the floor; rest, safety, organizing
-- [Article III-B](../../../core_06.005_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the shift is used to defeat the clinic
-- [Chapter One §17.1](../../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard) — one standard for human and AI operators; [§17.2](../../../core_01.015_stewardship_capacity_principles.md#172-alignment-under-pressure) — cover instructions
-- [Article XIII-A](../../../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-is-the-default)
+- [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) — classification tricks designed to defeat the floor; rest, safety, organizing
+- [Article III-B](../../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the shift is used to defeat the clinic
+- [Chapter One §17.1](../../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) — one standard for human and AI operators; [§17.2](../../../core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure) — cover instructions
+- [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-is-the-default)
 - If you conclude a **forum family** is in play, [Chapter Thirteen §3](../../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Do not assume an employer contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.

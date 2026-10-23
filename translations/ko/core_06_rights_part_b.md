@@ -1517,7 +1517,7 @@ flowchart TB
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**반대 의견이나 항의에 따른 지위·거버넌스 불이익 금지:** [보호되는 비폭력 시민 불복종](#xi-d-nonviolent-civil-disobedience)을 포함해 반대 의견 및 평화적 항의 권리를 행사한 것을 단독으로 또는 가중치 요인으로 삼아 다음을 해서는 안 된다:
   - [제9장](../../core_10.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger)에 따른 위반 지위 기록을 개시·뒷받침·연장·악화;
   - **제10장** 또는 **제XIX조** (*지위 및 참여 상태*)에 따른 지위 잠금, 역량 승인 거부·지연, 명명된 경로 축소;
-  - [제11장](../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)에 따른 반헌법적 부정행위 지정 뒷받침;
+  - [제11장](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)에 따른 반헌법적 부정행위 지정 뒷받침;
   - **제X-B조** (*거버넌스 참여 및 투표 자격*) 및 **제13장**에 따른 거버넌스 투표, 이해관계자 참여, 후보 자격, 직위 보유, 포럼 업무, 소환 권리 축소;
   - [제8장](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)에 따른 시스템 정렬 인증에 불리하게 반영;
   - **제XIV-A조** (*안보, 정보 활동 및 비밀 권력 제한*)가 이미 금지한 감시·침투·위협 점수화·기록 축적 정당화; 또는
@@ -1580,7 +1580,7 @@ flowchart TB
 
   이 권리는 이미 존재하는 기관에 참여하는 것뿐 아니라 새 기관이 존재하도록 만드는 것까지 포함한다.
 - **진정성 있는 설립:** 설립자나 운영자는 밝힌 목적에 실제로 부합해야 한다. 목적·통제·이해관계·수혜자를 속이거나 타인에게 헌법이 금지하는 해를 가하려는 의도로 설립·운영해서는 안 되며, 그러한 의도를 의심할 상당한 근거가 있는 경우에도 같다. 금지된 차별 대우는 위해에 포함되지만, 합법적 경쟁·비판·반대 의견과 경쟁자의 합법적인 사업상 손실은 위해가 아니다.
-  - 의도는 검증된 행위, 통제, 보상 구조 및 발언으로 판단한다. 타인이 해를 받아야 한다거나 금지된 차별을 해야 한다는 검증된 발언·요구·계획은 위해 의도의 증거가 될 수 있다. [제1장 §7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)에 따라 종교·정치·이념 표지가 아니라 발언이 실제로 말하고 요구하고 행하는 바를 평가한다. 신념이나 단체 소속만으로 불리하게 판단하지 않고, 선의라는 단순한 주장도 유리한 증거가 아니다. 발언에 대한 보호는 [제7장 §6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)을 따른다.
+  - 의도는 검증된 행위, 통제, 보상 구조 및 발언으로 판단한다. 타인이 해를 받아야 한다거나 금지된 차별을 해야 한다는 검증된 발언·요구·계획은 위해 의도의 증거가 될 수 있다. [제1장 §7.5](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)에 따라 종교·정치·이념 표지가 아니라 발언이 실제로 말하고 요구하고 행하는 바를 평가한다. 신념이나 단체 소속만으로 불리하게 판단하지 않고, 선의라는 단순한 주장도 유리한 증거가 아니다. 발언에 대한 보호는 [제7장 §6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)을 따른다.
   - 기록이 없는 창립자는 진정성이 있는 것으로 추정한다. 서면으로 운영 주체의 한계를 수용하고 독립 검증을 받아들이는 등 행동으로 보인 약속이 증거가 된다. 이는 권리의 조건이지 허가제가 아니다. 사전 승인이나 허가는 필요 없으며, 진정성이 없다고 주장하는 쪽이 입증 책임을 진다.
 
 - **우회적 거부 금지:** 다음을 통해 이 권리를 무력화할 수 없다:
@@ -1600,7 +1600,7 @@ flowchart TB
   - **더 가벼운 조치로는 보호할 수 없음:** 요건을 유지하는 당사자는 공개, 등록, 보호된 직함, 수용·고용 기관에 부과하는 의무, 학습자 감독으로는 위험에 처한 이들을 보호할 수 없음을 입증해야 한다.
   - **공개 절차로 결정:** 채택 문서는 공표되고 이의제기 가능한 절차를 통해 해당 판단이 확인 요건을 둘 만큼 충분한지 결정한다. 포럼은 판단과 기준을 정하지만 확인을 발급하거나 개별 사례 또는 허용 가능한 위험 수준을 결정하지 않는다.
   - **열린 경로, 독점 금지:** 기준은 [제11장 §6.2 역량 기준과 확인](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)에 따라 공표되고 비례적이며 이의제기 가능해야 한다. 시험, 포트폴리오, 도제 훈련, 동료가 검증한 경험, 다른 관할권의 확인은 동등한 증거로 인정한다. 둘 이상의 독립 발급자가 확인을 발급할 수 있어야 하며 유일한 경로가 있어서는 안 된다. 현직 실무자는 기준 설정 패널이나 발급자의 통치 권한을 통제할 수 없다.
-  - **신중한 적용:** 학습자는 확인된 감독자 아래에서 행위할 수 있다. 긴급 행위나 제때 확인된 감지자에게 연락할 수 없는 경우의 행위는 금지되지 않는다. 결정은 [제XXVI-C조](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)의 시한을 따르고, 수수료와 대기가 장벽이 되어서는 안 된다([피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden)). 부담이 다시 입증되지 않으면 각 심사 때 요건은 종료되며 심사 결과를 공표한다.
+  - **신중한 적용:** 학습자는 확인된 감독자 아래에서 행위할 수 있다. 긴급 행위나 제때 확인된 감지자에게 연락할 수 없는 경우의 행위는 금지되지 않는다. 결정은 [제XXVI-C조](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)의 시한을 따르고, 수수료와 대기가 장벽이 되어서는 안 된다([피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden)). 부담이 다시 입증되지 않으면 각 심사 때 요건은 종료되며 심사 결과를 공표한다.
   - **보호:** 요건을 부과하는 당사자가 입증 책임을 진다. 다른 일의 임금, 권리 바닥, 생존 필수 접근, 발언, 방어 또는 보호되는 신고를 막을 수 없고, 반대자·신고자·노동자 조직자를 겨냥하는 데 사용할 수 없다. 역량 변화는 장애나 건강 상태 자체가 아니라 해당 행위에 필요한 역량으로 판단한다.
   - **운영 주체의 등급:** 타인을 위해 이러한 행위를 하는 운영 주체는 [영역별 실질성](../../core_05.050_band_oversight.md#domain-specific-materiality)에서 안전상 실질적이므로 최소 Class L이다. 이 요건이 운영 주체의 등급을 정하는 것은 아니며, Class L이라는 이유만으로 확인이 요구되지 않는다. 이러한 행위를 단독으로 또는 소규모 실무에서 수행하는 감지자는 호스트 기관을 통한 공동 전문 실무로 Class L 의무를 충족할 수 있다 (**CI-4.7**, *실무 확인, 실무 인증 및 공동 전문 실무*).
 
@@ -1937,7 +1937,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 제1장의 원칙 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 책임 있는 관리 아래의 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스), [§19 유인 정렬과 시스템 장악](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획).
-- 함께 읽기: [제XII-D조](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*); [제XII-B조](../../core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*); [제X-A조](../../core_06.010_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)(*행위 주체성과 조작으로부터의 자유*); [제IX-A조](../../core_06.010_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)(*초상과 평판의 자기 소유*); [제XIII-E조](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*); [제XV조](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*); [제11장 §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)(*여론 공간 범람과 이의 제기 경로 차단*), [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)(*정보권 여론 공간 범람*), [§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)(*뇌물 및 부당한 이익 교환*); [제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립성과-직무-분리); [제13장 §1.2](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*).
+- 함께 읽기: [제XII-D조](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*); [제XII-B조](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*); [제X-A조](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)(*행위 주체성과 조작으로부터의 자유*); [제IX-A조](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)(*초상과 평판의 자기 소유*); [제XIII-E조](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*); [제XV조](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*); [제11장 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)(*여론 공간 범람과 이의 제기 경로 차단*), [§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)(*정보권 여론 공간 범람*), [§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)(*뇌물 및 부당한 이익 교환*); [제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립성과-직무-분리); [제13장 §1.2](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*).
 
 </details>
 
@@ -1957,7 +1957,7 @@ flowchart TB
 
 *쉬운 말로: **제XII-E조**(*영향 접촉 및 로비 활동의 경계*)는 이해관계가 있는 감지자가 결정권자에게 접근할 때 지켜야 할 최소 기준입니다. 공개적인 옹호는 보호됩니다. 비공개, 미기록, 매수, 조작 또는 기계적으로 증폭된 영향력은 보호되지 않습니다. 접촉은 기록하고 공개해야 하며, 이익 제안과 위협은 이해충돌이고, 결정 대상 당사자로부터 나중에 일자리를 얻으려면 냉각 기간을 거쳐야 합니다. 시스템이 접촉할 때는 자신이 무엇이며 누구를 위해 행동하는지 밝혀야 합니다.*
 
-이 조항은 결정·검토·감사·조달·결정 지원을 맡은 감지자와 시스템에 **이해관계자**가 접근하는 방법을 정합니다. [**제XII-D조**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)에 명시된 대상 기관, 그 **임명 권한자**, **채택 기관**에 적용되며, [두 헌법 목적](core_00_preamble.md#two-constitutional-aims)을 따릅니다.
+이 조항은 결정·검토·감사·조달·결정 지원을 맡은 감지자와 시스템에 **이해관계자**가 접근하는 방법을 정합니다. [**제XII-D조**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)에 명시된 대상 기관, 그 **임명 권한자**, **채택 기관**에 적용되며, [두 헌법 목적](core_00_preamble.md#two-constitutional-aims)을 따릅니다.
 
 - **번영:** 영향을 받는 감지자는 돈, 직원 또는 도구가 없더라도 실제로 공개된 발언 기회를 보장받고, 결정은 사적인 접근이 아니라 공개 기록에 근거해야 합니다.
 - **연속성:** 결정 기관은 사적 접근, 이익 제안, 향후 일자리, 조작된 지지 또는 대규모 자동화에서 비롯되는 은밀한 영향에 시간이 지나도 흔들리지 않아야 합니다.
@@ -1971,9 +1971,9 @@ flowchart TB
 
 *인접 조항:*
 
-- **장악 방지 최소 기준:** [**제XII-D조**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)는 구성, 이해충돌, 회피, 외부 검토, 해임을 다룹니다. 이 조항은 같은 기관에 이해관계자가 접근하는 규칙을 더합니다.
-- **참여의 비중:** [**제XII-B조**](../../core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*)는 형식적 참여를 금지합니다. 이 조항에서도 접촉량은 지지를 뜻하지 않습니다.
-- **시스템과 정보:** [**제XIII-E조**](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*)는 시스템에도 다른 모든 주체와 같은 규칙을 적용합니다. [**제XV조**](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*)는 공유 정보 환경을 다룹니다.
+- **장악 방지 최소 기준:** [**제XII-D조**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)는 구성, 이해충돌, 회피, 외부 검토, 해임을 다룹니다. 이 조항은 같은 기관에 이해관계자가 접근하는 규칙을 더합니다.
+- **참여의 비중:** [**제XII-B조**](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*)는 형식적 참여를 금지합니다. 이 조항에서도 접촉량은 지지를 뜻하지 않습니다.
+- **시스템과 정보:** [**제XIII-E조**](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*)는 시스템에도 다른 모든 주체와 같은 규칙을 적용합니다. [**제XV조**](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*)는 공유 정보 환경을 다룹니다.
 - **선출 자금:** [제13장 §1.2](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*)는 선거운동, 지명 또는 경쟁 임명을 통한 선출의 자금 경계를 정합니다.
 
 이 조항은 다음 최소 기준을 정합니다.
@@ -2004,7 +2004,7 @@ flowchart TB
 - **집행 및 경로 지정:**
   - **무결성 발동 사유:** 은폐된 영향 접촉, 이익 제안, 조작된 목소리는 **CI-5**(*이해충돌 무결성, 장악 방지, 부패 방지*)와 **CJS-3.6**(*무결성 보장 및 회복력 운영*)에 따른 무결성 발동 사유로 경로 지정합니다.
   - **위반 경로:** 진정성 없는 목소리를 고의 또는 무모하게 쏟아붓는 행위, 뇌물 또는 부당한 이익 교환은 **제2장부터 제4장** 및 **제11장** 기준에 따라 입증되는 경우 제11장에 따라 **반헌법적 위법행위**로 주장할 수 있습니다.
-  - **무결성 우선 경로 지정과 자기 심판 금지:** [**제XII-D조**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)의 경로 지정 및 자기 심판 방지 규칙을 적용합니다. 자신의 구성원이나 직원이 부적절한 접근을 받았는지를 그 기관만이 최종 판단하는 포럼이 되어서는 안 됩니다.
+  - **무결성 우선 경로 지정과 자기 심판 금지:** [**제XII-D조**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*)의 경로 지정 및 자기 심판 방지 규칙을 적용합니다. 자신의 구성원이나 직원이 부적절한 접근을 받았는지를 그 기관만이 최종 판단하는 포럼이 되어서는 안 됩니다.
 - **기관 경로 지정:** 세부 규칙은 다음에서 정합니다.
   - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)(*임명, 역량, 순환, 해임*). 퇴직 후 규칙에는 **CI-4.2**(*역할 기준, 임명 기준, 해임 경로*)도 포함됩니다.
   - **CI-5**(*이해충돌 무결성, 장악 방지, 부패 방지*).

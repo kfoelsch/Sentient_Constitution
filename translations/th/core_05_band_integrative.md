@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ปลายทาง: หลักการ: [คำปรารภ §3.3 วินัยชั้นการปกครอง](core_00_preamble.md#33-ชนการปกครอง); [บทที่หนึ่ง §5 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency)
-- พื้นเจ้าของ: [บทที่สิบสอง: สัญญาทางรัฐธรรมนูญ ความชอบธรรม การให้อำนาจ และการบริหารอย่างรับผิดชอบ](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [มาตรา X-C: การมีส่วนร่วมในการปกครองและสิทธิออกเสียง](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)
+- พื้นเจ้าของ: [บทที่สิบสอง: สัญญาทางรัฐธรรมนูญ ความชอบธรรม การให้อำนาจ และการบริหารอย่างรับผิดชอบ](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [มาตรา X-C: การมีส่วนร่วมในการปกครองและสิทธิออกเสียง](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)
 - องค์ประกอบกลุ่ม: [*ชั้นสัญญาทางรัฐธรรมนูญและการเลือกพื้นฐานทางรัฐธรรมนูญ*](core_05_band_integrative.md#ชนสญญาทางรฐธรรมนญ)
 - อ่านคู่กับ: [การเลือกพื้นฐานทางรัฐธรรมนูญ](core_05_band_integrative.md#การเลอกพนฐานทางรฐธรรมนญ) [การเลือกที่มีผลผูกพันของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster) [สถานะและน้ำหนักของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) [การปกครอง](../../core_05.035_band_accountability.md#governance)
 - ชั้น: **ชั้นสัญญาทางรัฐธรรมนูญ (CCL)** — ใครอาจปกครองได้ ด้วยกลไกความชอบธรรมใด ภายใต้ข้อที่ยืนยาวใด ต่างจาก **การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ (SSP)**
@@ -123,7 +123,7 @@
     - [การเลือกพื้นฐานทางรัฐธรรมนูญ](core_05_band_integrative.md#การเลอกพนฐานทางรฐธรรมนญ);
     - [กลไกความชอบธรรมที่มีเอกสาร](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) ภายใต้ [บทที่สิบสอง §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism);
     - กฎ [การรับเป็นของตน](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) และ [การให้อำนาจใหม่](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) ([บทที่สิบสอง §1.3](../../core_14.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [บทที่สิบหก §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); และ
-    - [พื้นความเสมอภาคทางการเมือง](../../core_14.000_governance.md#41-entitlement-and-eligibility) สำหรับการก่อตั้งหรือปรับโครงสร้างอำนาจปกครองอย่างยืนยาว — ผู้มีความรู้สึกที่มีสิทธิมีเสียงเท่ากันที่ชั้นนั้น ([มาตรา X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement))
+    - [พื้นความเสมอภาคทางการเมือง](../../core_14.000_governance.md#41-entitlement-and-eligibility) สำหรับการก่อตั้งหรือปรับโครงสร้างอำนาจปกครองอย่างยืนยาว — ผู้มีความรู้สึกที่มีสิทธิมีเสียงเท่ากันที่ชั้นนั้น ([มาตรา X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement))
   - **นอกขอบเขต:**
     - การปรึกษาธรรมดาของฝ่ายที่ได้รับผลกระทบ;
     - การมีส่วนร่วมในการดำเนินงาน;
@@ -131,7 +131,7 @@
     - การปกครองโดเมนธรรมดาหลังจากโครงสร้างและกระบวนการได้รับอำนาจแล้ว; และ
     - [น้ำหนักของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#stakeholder-weight) ธรรมดา — การให้เสียงมากกว่าแก่ผู้ที่ได้รับผลกระทบมากกว่า — ที่ถูกใช้กำหนดคะแนนเสียงก่อตั้งหรือให้อำนาจใหม่ ([คำปรารภ §3.3 วินัยชั้นการปกครอง](core_00_preamble.md#33-ชนการปกครอง))
   - **บ้านที่ใช้บังคับ:** [บทที่สิบสอง](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) กล่าวกฎการให้อำนาจ ความชอบธรรม และการบริหารอย่างรับผิดชอบที่มีผลผูกพันของชั้นนี้
-  - **พื้นสิทธิ:** [มาตรา X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*การมีส่วนร่วมในการปกครองและสิทธิออกเสียง*) กล่าวสิทธิการมีส่วนร่วมที่เท่ากันซึ่งกฎบทที่สิบสองเหล่านั้นต้องไม่ทำให้แคบลง
+  - **พื้นสิทธิ:** [มาตรา X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*การมีส่วนร่วมในการปกครองและสิทธิออกเสียง*) กล่าวสิทธิการมีส่วนร่วมที่เท่ากันซึ่งกฎบทที่สิบสองเหล่านั้นต้องไม่ทำให้แคบลง
 <a id="constitutional-contract-layer-a"></a>
 - **วิธีวัดและประเมิน**
   - **การวัดหลัก:** [ตระกูลการวัดความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability-measurement-family) — *โครงสร้างรางวัล อำนาจตลาด และการต้องตอบคำถามทำให้หน้าที่ยังจริงอยู่หรือไม่* ใช้ที่นี่เพื่อถามว่าอำนาจปกครองที่อ้างพักบนสัญญาทางรัฐธรรมนูญจริงหรือไม่ — ความชอบธรรมที่มีเอกสาร เสียงก่อตั้งที่เท่ากัน และข้อที่ยืนยาวซึ่งยังสอดคล้องกับรัฐธรรมนูญนี้ — ไม่ใช่ขนาด ความนิยม หรือการเข้าถึงตลาดอย่างเดียว
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ปลายทาง: หลักการ: [บทที่หนึ่ง §5 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency); [6. การยุติความขัดแย้งของกระบวนการ](core_05_band_integrative.md)
-- พื้นเจ้าของ: [บทที่สิบสอง บทที่หนึ่ง §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*พื้นความเสมอภาคทางการเมืองสำหรับการเลือกพื้นฐานทางรัฐธรรมนูญ*; *พื้นเสียงทางการเมืองที่ยืนยาว*); [มาตรา X-C: การมีส่วนร่วมในการปกครองและสิทธิออกเสียง](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)
+- พื้นเจ้าของ: [บทที่สิบสอง บทที่หนึ่ง §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*พื้นความเสมอภาคทางการเมืองสำหรับการเลือกพื้นฐานทางรัฐธรรมนูญ*; *พื้นเสียงทางการเมืองที่ยืนยาว*); [มาตรา X-C: การมีส่วนร่วมในการปกครองและสิทธิออกเสียง](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)
 - องค์ประกอบกลุ่ม: [*ชั้นสัญญาทางรัฐธรรมนูญและการเลือกพื้นฐานทางรัฐธรรมนูญ*](core_05_band_integrative.md#ชนสญญาทางรฐธรรมนญ)
 - อ่านคู่กับ: [ชั้นสัญญาทางรัฐธรรมนูญ](core_05_band_integrative.md#ชนสญญาทางรฐธรรมนญ) [ขีดจำกัดการเป็นตัวแทนและน้ำหนักของฝ่ายที่ได้รับผลกระทบ (การเลือกที่มีผลผูกพันของฝ่ายที่ได้รับผลกระทบ)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) [การเลือกที่มีผลผูกพันของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster) [ความเป็นธรรมเชิงวิธีดำเนินการ](../../core_05.055_band_participation.md#procedural-fairness-constitutional)
 - ชั้น: **ชั้นสัญญาทางรัฐธรรมนูญ (CCL)** ต่างจาก **การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ (SSP)** ภายในระบบที่ได้รับอำนาจแล้ว
@@ -177,7 +177,7 @@
 
     นี่เป็นของ [ชั้นสัญญาทางรัฐธรรมนูญ](core_05_band_integrative.md#ชนสญญาทางรฐธรรมนญ)
     - เจ้าของ: [บทที่สิบสอง บทที่หนึ่ง §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)
-    - ตัวชี้ชั้นสิทธิ: [มาตรา X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*การมีส่วนร่วมในการปกครองและสิทธิออกเสียง*)
+    - ตัวชี้ชั้นสิทธิ: [มาตรา X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*การมีส่วนร่วมในการปกครองและสิทธิออกเสียง*)
     - ใช้บังคับภายใต้ [การไม่กีดกันความเป็นผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-non-exclusion)
   - **นอกขอบเขต:**
     - การตัดสินใจธรรมดาของฝ่ายที่ได้รับผลกระทบที่ให้น้ำหนักตามผลกระทบเมื่อโดเมนมีโครงสร้างและกระบวนการปกครองที่ได้รับอำนาจแล้ว — ผู้มีความรู้สึกที่ได้รับผลกระทบได้เสียงที่ปรับตามว่าได้รับผลกระทบเพียงใด ผ่านการระบุ [ฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#stakeholder) และ [น้ำหนักของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#stakeholder-weight) (รวมข้อจำกัดของ **มาตรา XII** (*การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ การเป็นตัวแทน และกระบวนการที่ชอบธรรม*)) ไม่ใช่ผ่านกฎนับคะแนนพื้นฐานน้ำหนักเท่า; และ
@@ -323,7 +323,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ปลายทาง: ตระกูลการวัดความรับผิดชอบ (*ความสอดคล้องของสิ่งจูงใจและความครบถ้วนของตัวแทนวัดเป็นการวัดทางรัฐธรรมนูญ*); หลักการ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) (วินัยการยึดครองของจตุรภาคภายใต้ [§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake)); [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ปลายทาง: ตระกูลการวัดความรับผิดชอบ (*ความสอดคล้องของสิ่งจูงใจและความครบถ้วนของตัวแทนวัดเป็นการวัดทางรัฐธรรมนูญ*); หลักการ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) (วินัยการยึดครองของจตุรภาคภายใต้ [§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake)); [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
 - กฎชั้นหลักการ: [บทที่หนึ่ง §11.1 ข้อกำหนดความสอดคล้อง](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) และ [บทที่หนึ่ง §11.2 ตัวแทนวัดที่สะดวกและความคลาดของตัวแทนวัด](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence); การบริหารอย่างรับผิดชอบและการใช้โดยผู้ดำเนิน: [บทที่หนึ่ง §11.1.3 การบริหารอย่างรับผิดชอบและการใช้โดยผู้ดำเนิน](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) และ [§11.1.4 เส้นทางความลึกของบทบาทและความรับผิดที่เป็นสาระ](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)
 - การตรวจจับความไม่สอดคล้อง: [บทที่หนึ่ง §11.3 การตรวจจับความไม่สอดคล้อง](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)
 - การแก้เชิงรุกและการยกระดับการยึดครอง: [บทที่หนึ่ง §11.4 การแก้ความไม่สอดคล้องและการตอบการยึดครอง](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)
@@ -621,7 +621,7 @@
 
 - ปลายทาง: หลักการ: [2. การตีความทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); [15. การใช้แบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (กองอำนาจเทียบลำดับชั้นภายในที่อ่านคู่กับบทที่หนึ่ง)
 - ปลายทาง: [บทที่หนึ่ง — §8 การตีความทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (การอ่านแบบรวมและลำดับชั้นทางเลือกสุดท้าย); [บทที่หนึ่ง §8.4 การยุติความขัดแย้งของความหมายทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*วิธีดำเนินการความขัดแย้งเดียว รวมชั้นการนำเข้า*); [บทที่สิบสี่ — ลำดับชั้นภายในสำหรับผู้รับเป็นของตน](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [บทที่สิบหก](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*สะพานการนำเข้า — การพิทักษ์ฉบับ ฉบับ การรับเป็นของตน; ไม่ใช่บ้านกองที่สองหรือบ้านลำดับความขัดแย้ง*)
-- ปลายทาง: [บทที่หก — ขอบเขตชั้น](../../core_06.005_rights_part_a.md#12-layer-scope); [บทที่สิบสาม §4 ขอบเขตชั้น](../../core_15.000_non_regression.md#4-layer-scope) และ [บทที่สิบห้า §12 ขอบเขตชั้น](../../core_17.000_amendment_ratification.md#12-layer-scope) (*ห้ามย้ายเจ้าของที่ใช้เฉพาะที่*); คำกล่าวเจ้าของเปิดบทข้ามตราสาร `core_*` ที่มีหมายเลข
+- ปลายทาง: [บทที่หก — ขอบเขตชั้น](../../core_06.000_rights_part_a.md#12-layer-scope); [บทที่สิบสาม §4 ขอบเขตชั้น](../../core_15.000_non_regression.md#4-layer-scope) และ [บทที่สิบห้า §12 ขอบเขตชั้น](../../core_17.000_amendment_ratification.md#12-layer-scope) (*ห้ามย้ายเจ้าของที่ใช้เฉพาะที่*); คำกล่าวเจ้าของเปิดบทข้ามตราสาร `core_*` ที่มีหมายเลข
 - อ่านคู่กับ: [คลังข้อความ](core_05_band_integrative.md#คลงขอความ); [คำปรารภ — ทะเบียนเจ้าของเชิงบวกทางรัฐธรรมนูญ](core_00_preamble.md#4-หลกการ-บทนยาม-และสทธ) (*แผนที่โดเมน→เจ้าของเชิงบวก* หมวด 4–7); [ความสามารถในการตรวจ](core_05_band_oversight.md#ความสามารถในการตรวจ) และ [ความสามารถในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) (*การบังคับใช้ได้จริงของข้อกล่าวอ้างที่มีผลผูกพัน*); [คำปรารภ §3.3](core_00_preamble.md#33-ชนการปกครอง) และ [ชั้นสัญญาทางรัฐธรรมนูญ](core_05_band_integrative.md#ชนสญญาทางรฐธรรมนญ) (*ต้านการทดแทนชั้นการปกครอง*); [ข้อจำกัดทางรัฐธรรมนูญ](core_05_band_integrative.md#ขอจำกดทางรฐธรรมนญ); **CJS-0.1** (*ตัวจัดเส้นทางหัวข้อการนำไปใช้*)
 
 </details>
@@ -683,7 +683,7 @@
     - ระบุก่อนสายฉบับ/การพิทักษ์ฉบับที่ใช้บังคับและชั้นแหล่งภายใต้กองอำนาจ
     - แล้วระบุบ้านเจ้าของใน [คำปรารภ — ทะเบียนเจ้าของเชิงบวกทางรัฐธรรมนูญ](core_00_preamble.md#4-หลกการ-บทนยาม-และสทธ) (และข้อกล่าวอ้างเจ้าของเปิดบท); ใช้สาระจากบ้านเจ้าของนั้นเท่านั้น — ที่อื่นใช้ตัวชี้เท่านั้น
     - แล้วใช้การอ่านแบบรวมภายใต้ [บทที่หนึ่ง — §8 การตีความทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)
-    - รักษาผลคุ้มครองที่เต็มที่สุดของรัฐธรรมนูญในฐานะทั้งระบบที่รวม และค่าเริ่มไม่หดของ [บทที่หก](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights)
+    - รักษาผลคุ้มครองที่เต็มที่สุดของรัฐธรรมนูญในฐานะทั้งระบบที่รวม และค่าเริ่มไม่หดของ [บทที่หก](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights)
     - ใช้ลำดับชั้นภายในเป็นกฎคงเหลือทางเลือกสุดท้ายเท่านั้น; อย่าใช้มันแทนการอ่านแบบรวมธรรมดา หรือเพื่อยุติความไม่ลงรอยอย่างเดียวเรื่องความหมายคำฉบับหลัก
     - ในที่ที่ข้อพิพาทคือความหมายของคำ บทนิยามฉบับหลักของบทที่ห้ากำกับที่ทุกชั้น
     - สำหรับหัวข้อการนำไปใช้ที่ถูกจัดเส้นทางข้าม CS, CI, CF และ CJS ให้ใช้ **CJS-0.1** (ตัวจัดเส้นทางหัวข้อ) หลังการระบุเจ้าของ
@@ -703,10 +703,10 @@
     - ใช้ภาษาเชิงปณิธานหรือวิธีปฏิบัติท้องถิ่นเพื่อแทนที่ภาระผูกพันคลังข้อความที่มีผลผูกพันภายในขอบเขตแหล่งและชั้นการปกครองที่ชอบของตน;
     - กล่าวซ้ำที่เป็นสาระภาระผูกพันของชั้นเจ้าของหนึ่งภายในชั้นเจ้าของอื่น รวมการยกถ้อยแนวทางสำหรับผู้อ่านให้มีผลใช้บังคับ;
     - ปฏิบัติต่อภาษาตัวกระตุ้น การส่งต่อ หรือการยกระดับในบทความสมบูรณ์หรือการปกครองว่าเป็นกฎหมายจำแนกสุดท้ายหรือลงโทษ ในที่ที่ชั้นเจ้าของสงวนอำนาจนั้นแก่บทที่แปดถึงสิบ;
-    - ใช้กรอบกระบวนการ การปกครอง หรือการนำไปใช้เพื่อทำให้แคบ นิยามใหม่ หรือย้ายพื้นสิทธิของ [บทที่หก](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) ขัดกับ [บทที่สิบสาม](../../core_15.000_non_regression.md) การไม่ถดถอยและสัญญาเปิดบทของบทที่หก;
+    - ใช้กรอบกระบวนการ การปกครอง หรือการนำไปใช้เพื่อทำให้แคบ นิยามใหม่ หรือย้ายพื้นสิทธิของ [บทที่หก](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) ขัดกับ [บทที่สิบสาม](../../core_15.000_non_regression.md) การไม่ถดถอยและสัญญาเปิดบทของบทที่หก;
     - สร้างอนุกรมวิธานหรือสายงานคู่ขนานในชั้นที่ไม่ใช่เจ้าของเมื่อ [ทะเบียนเจ้าของของคำปรารภ](core_00_preamble.md#4-หลกการ-บทนยาม-และสทธ) ได้กำหนดบ้านฉบับหลักแล้ว;
     - อ้างอำนาจสูงสุดหรือการปฏิบัติตามในทางที่กลับลำดับชั้นแหล่งที่ตั้งไว้ หรือปล่อยให้การนำไปใช้ ตัวบทสนับสนุน การจัดระเบียบเอกชน กรอบภาวะฉุกเฉิน หรือวิธีปฏิบัติในการดำเนินงานแทนที่ภาระผูกพันคลังข้อความที่มีผลผูกพันภายในขอบเขตที่ชอบของตน;
-    - ใช้ลำดับชั้นภายในเป็นทางลัดเพื่อเลือกการอ่านที่เข้มกว่า เพื่อหดการคุ้มครองพื้นสิทธิของ [บทที่หก](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) นอกสิ่งที่ [บทที่หนึ่ง](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) อนุญาตโดยชัด หรือเพื่อสลับชั้นแหล่งหนึ่งกับอีกชั้นในการอ่านธรรมดา;
+    - ใช้ลำดับชั้นภายในเป็นทางลัดเพื่อเลือกการอ่านที่เข้มกว่า เพื่อหดการคุ้มครองพื้นสิทธิของ [บทที่หก](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) นอกสิ่งที่ [บทที่หนึ่ง](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) อนุญาตโดยชัด หรือเพื่อสลับชั้นแหล่งหนึ่งกับอีกชั้นในการอ่านธรรมดา;
     - ปฏิบัติต่อบทนิยามบทที่ห้าว่าเป็นร่างกฎหมายแข่งที่ลบล้างหลักการหรือมาตรา ([บทที่หนึ่ง — §8 การตีความทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)); หรือ
     - สำหรับผู้รับเป็นของตน ปฏิบัติต่อตัวบทการนำไปใช้ที่รับเป็นของตนราวกับว่าลบล้างรัฐธรรมนูญนี้ภายในขอบเขตการรับเป็นของตน หรือราวกับว่าผ่อน [บทที่สิบสาม](../../core_15.000_non_regression.md) พื้นการไม่ถดถอย ([ลำดับชั้นภายในสำหรับผู้รับเป็นของตน](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) ใน **บทที่สิบสี่**)
 

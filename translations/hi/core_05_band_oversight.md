@@ -128,7 +128,7 @@
 - ऊर्ध्व: सिद्धांत: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
 - समूह घटक: [*तात्विक प्रभाव, तात्विकता निर्धारण, वर्गीकरण-स्केल शासन, निगरानी और क्षमता अपेक्षा*](core_05_band_oversight.md#materiality-semi-independent)।
 - साथ पढ़ें: [निर्भरता](../../core_05.040_band_continuity.md#dependency), [तात्विक प्रभाव](core_05_band_oversight.md#ततवक-परभव), [जोखिम](../../core_05.040_band_continuity.md#risk), [प्रणाली-सीमा अखंडता](../../core_05.040_band_continuity.md#system-boundary-integrity), और [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional)।
-- अधो: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — वर्ग-स्केल संपूर्ण-प्रणाली आकलन कर्तव्य।
+- अधो: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — वर्ग-स्केल संपूर्ण-प्रणाली आकलन कर्तव्य।
 
 </details>
 
@@ -150,7 +150,7 @@
 - **कैसे मापें और आकलन करें**
   - **प्राथमिक माप:** [निगरानी मापन परिवार](core_05_apex_oversight_leg.md#oversight-measurement-family) — *क्या संज्ञ प्राणी देख, सत्यापित और भरोसा कर सकते हैं कि प्रणालियाँ क्या दर्शाती हैं?* इसे यहाँ पूछने के लिए इस्तेमाल करें कि निगरानी गहराई और सत्यापन भार प्रणाली के वास्तविक दाँव, प्रभाव, निर्भरता, और जोखिम से मेल खाते हैं या नहीं — स्वयं-आवंटित नीची वर्ग से नहीं।
 
-    **प्राथमिक आकलन:** कार्यान्वयन नियमों के अधीन वास्तविक वर्ग इस्तेमाल करें, [तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण) और [प्रणाली-सीमा अखंडता](../../core_05.040_band_continuity.md#system-boundary-integrity) के साथ पढ़ा। स्वयं-आवंटित या अनौपचारिक नीची वर्ग पर्याप्त नहीं जब प्रणाली के पूर्ण प्रभाव अधिक मज़बूत [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional) या शासन माँगें। [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) के अधीन संपूर्ण-प्रणाली समीक्षा वर्ग से स्केल होती है:
+    **प्राथमिक आकलन:** कार्यान्वयन नियमों के अधीन वास्तविक वर्ग इस्तेमाल करें, [तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण) और [प्रणाली-सीमा अखंडता](../../core_05.040_band_continuity.md#system-boundary-integrity) के साथ पढ़ा। स्वयं-आवंटित या अनौपचारिक नीची वर्ग पर्याप्त नहीं जब प्रणाली के पूर्ण प्रभाव अधिक मज़बूत [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional) या शासन माँगें। [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) के अधीन संपूर्ण-प्रणाली समीक्षा वर्ग से स्केल होती है:
     - **Class A**, **Class B**, और **Class C** — पूर्ण गहराई, अनिवार्य;
     - **Class L** — अनिवार्य, पर प्रभाव के आकार की; और
     - **Class P** — प्रोत्साहित जब तक प्रणाली वैध रूप से **Class P** रहे।
@@ -186,7 +186,7 @@
     - स्रोत संरक्षण;
     - जाँच; और
     - प्रकाशन।
-    वह काम करने वाले संज्ञ प्राणी [अभिव्यक्ति](../../core_05.055_band_participation.md#expression-constitutional) और [सभा](../../core_05.055_band_participation.md#assembly-constitutional) अधिकार-तल का प्रयोग करते हैं, [अनुच्छेद V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*अभिव्यक्ति, सभा, और प्रेस*) के अधीन ऊँची-जाँच संरक्षण के साथ राज्य और संचालक कार्रवाई के विरुद्ध जो उस गतिविधि को क्षीण करने के लिए की गई हो।
+    वह काम करने वाले संज्ञ प्राणी [अभिव्यक्ति](../../core_05.055_band_participation.md#expression-constitutional) और [सभा](../../core_05.055_band_participation.md#assembly-constitutional) अधिकार-तल का प्रयोग करते हैं, [अनुच्छेद V-H](../../core_06.005_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*अभिव्यक्ति, सभा, और प्रेस*) के अधीन ऊँची-जाँच संरक्षण के साथ राज्य और संचालक कार्रवाई के विरुद्ध जो उस गतिविधि को क्षीण करने के लिए की गई हो।
   - **दायरे से बाहर:** प्रेस प्रमाणपत्र, संस्थागत पदवियाँ, या साधारण वाणिज्यिक वाक् जो समाचार-संग्रह, जाँच, या पत्रकारिता के रूप में काम करने वाला प्रकाशन नहीं है।
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **कैसे मापें और आकलन करें**
@@ -249,7 +249,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- अधो: एकीकृत तात्विकता ([तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण)) (*संवैधानिक मापन के रूप में तात्विकता*); सिद्धांत: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**तात्विकता** DEC ढेर; आकलन पूर्णता); [10.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (आनुपातिकता ढेर तात्विक प्रभावों के साथ पढ़ा)।
+- अधो: एकीकृत तात्विकता ([तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण)) (*संवैधानिक मापन के रूप में तात्विकता*); सिद्धांत: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**तात्विकता** DEC ढेर; आकलन पूर्णता); [10.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (आनुपातिकता ढेर तात्विक प्रभावों के साथ पढ़ा)।
 - साथ पढ़ें: [तात्विक प्रभाव](core_05_band_oversight.md#ततवक-परभव), [तात्विक जोखिम](core_05_band_oversight.md#ततवक-जखम), [प्रणालीगत तात्विकता](../../core_05.035_band_accountability.md), और [वर्गीकरण-स्केल शासन](core_05_band_oversight.md#वरगकरण-सकल-शसन)।
 
 </details>
@@ -283,7 +283,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- अधो: एकीकृत तात्विकता ([तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण)) (*संवैधानिक मापन के रूप में तात्विकता*); सिद्धांत: [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग स्थानापन्न; अध्याय एक यह परिभाषा **सुरक्षा** (**अध्याय एक §8.1**), **सत्य** (**अध्याय एक §8.2**), **विश्वास** (**§12**), **§12** उत्तरदायी प्रबंधन और खुलेपन अंश, **§13.1**, **§13.2**, और **अध्याय एक §6.3.2** पर दिखाता है जहाँ **तात्विकता** D/A/C विजेट में आती है — देखें [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) प्रमुख प्रणाली-आकलन घर के रूप में।
+- अधो: एकीकृत तात्विकता ([तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण)) (*संवैधानिक मापन के रूप में तात्विकता*); सिद्धांत: [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग स्थानापन्न; अध्याय एक यह परिभाषा **सुरक्षा** (**अध्याय एक §8.1**), **सत्य** (**अध्याय एक §8.2**), **विश्वास** (**§12**), **§12** उत्तरदायी प्रबंधन और खुलेपन अंश, **§13.1**, **§13.2**, और **अध्याय एक §6.3.2** पर दिखाता है जहाँ **तात्विकता** D/A/C विजेट में आती है — देखें [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) प्रमुख प्रणाली-आकलन घर के रूप में।
 - समूह घटक: [आश्रित समूह *तात्विक प्रभाव, तात्विकता निर्धारण, वर्गीकरण-स्केल शासन, निगरानी और क्षमता अपेक्षा*](core_05_band_oversight.md#materiality-semi-independent)।
 - साथ पढ़ें: [तात्विक प्रभाव](core_05_band_oversight.md#ततवक-परभव), [तात्विक जोखिम](core_05_band_oversight.md#ततवक-जखम), [प्रणालीगत तात्विकता](../../core_05.040_band_continuity.md#systemic-materiality), और [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत)।
 
@@ -373,7 +373,7 @@
       - **महत्त्वपूर्ण नहीं:** सहायता, वस्तुएँ, श्रम या सेवाएँ देना जिन्हें स्वीकार करने के लिए कोई बाध्य न हो और जो किसी की पहुँच न रोकें; निजी इकाई के भीतर के विकल्प; तथा ऐसे मसौदे, सुझाव और निमंत्रण जो किसी को बाध्य न करें।
       - **उत्तरदायी:** **अनुच्छेद VI** (*समान बुनियादी अधिकार*), **अनुच्छेद X** (*स्व-निर्धारण, कर्तृत्व और भागीदारी*), **अनुच्छेद XII** (*हितधारक प्रणाली में भागीदारी, प्रतिनिधित्व और उचित प्रक्रिया*) और अध्याय आठ।
     - <a id="domain-specific-materiality-livelihood"></a>**आजीविका और आर्थिक शर्तें।** *क्या दूसरे लोग आय के लिए, या अपनी ज़रूरत की चीज़ के दाम और शर्तों के लिए संचालन पक्ष पर निर्भर हैं?*
-      - **तभी महत्त्वपूर्ण जब:** संचालन पक्ष दूसरों की आय का प्रमुख स्रोत हो—नियोक्ता, भुगतानकर्ता, खरीदार या मंच के रूप में; ऐसी चीज़ के दाम या शर्तें तय करे जिसकी दूसरों को ज़रूरत है और जिसका विकल्प आसानी से नहीं मिलता; या [अध्याय एक §11 बाज़ार संरचना](../../core_01.005_values_principles.md#11-market-structure) में बताए अनुसार बाज़ार-शक्ति रखता हो।
+      - **तभी महत्त्वपूर्ण जब:** संचालन पक्ष दूसरों की आय का प्रमुख स्रोत हो—नियोक्ता, भुगतानकर्ता, खरीदार या मंच के रूप में; ऐसी चीज़ के दाम या शर्तें तय करे जिसकी दूसरों को ज़रूरत है और जिसका विकल्प आसानी से नहीं मिलता; या [अध्याय एक §11 बाज़ार संरचना](../../core_01.000_values_principles.md#11-market-structure) में बताए अनुसार बाज़ार-शक्ति रखता हो।
       - **महत्त्वपूर्ण नहीं:** उन लोगों के बीच कभी-कभार का लेन-देन जो उससे हट सकते हैं, और सामान्य व्यापार जिसमें संचालन पक्ष बाज़ार की शर्तें तय नहीं कर सकता।
       - **उत्तरदायी:** **अनुच्छेद III-C** (*श्रम और आर्थिक आधार*) और **अनुच्छेद V** (*संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी-तंत्र वित्तपोषण*)।
     - <a id="domain-specific-materiality-custody"></a>**अभिरक्षा।** *क्या संचालन पक्ष ऐसी चीज़ें रखता है जो दूसरों के लिए महत्त्वपूर्ण हैं और जिन्हें सुरक्षित रखने के लिए वे उस पर निर्भर हैं?*
@@ -409,8 +409,8 @@
     - यदि वही संज्ञ-प्राणी, कार्यालय या संचालन पक्ष प्रत्येक संचालन पक्ष की गतिविधि (वह क्या देता है, किसे, किन शर्तों पर, या जारी रखेगा या नहीं) निर्देशित या पलट सकता है, या वे एक ही सेवा के हिस्सों के रूप में वही गतिविधि करते हैं, तो वे एक संचालन हैं। यह [भौतिक नियंत्रण रेखा](../../core_05.035_band_accountability.md#material-control-line) में दिए व्यावहारिक साझा नियंत्रण के विचार का उपयोग करता है, पर संचालन पक्षों की गतिविधि पर अलग कसौटी है; एक कार्य में आसनों की स्वतंत्रता पर नहीं। केवल धन देना, साझा परिसर या विक्रेता, सदस्यों का आंशिक मेल, या संयुक्त पेशेवर अभ्यास (**CI-4.7**) में एक ही मेज़बान का साधन अपनाना उन्हें एक संचालन नहीं बनाता। धनदाता तभी संचालन का हिस्सा है जब उसका धन गतिविधि को निर्देशित या पलटने की शक्ति देता है; और
     - जब कई संचालन पक्ष पहले से दबाव में चल रही साझा नदी, बाज़ार या नेटवर्क का उपयोग करें या उस पर भार डालें, तो हर पक्ष को कुल दबाव में उसके अतिरिक्त योगदान के आधार पर आँकें। सार्थक योगदान भौतिक है; तुच्छ योगदान भौतिक नहीं, भले ही पूरी प्रणाली अपनी सीमा पार कर जाए।
 <a id="domain-specific-materiality-c"></a>
-- **चुनौती का रास्ता:** मौजूदा प्रक्रिया ही लागू होगी; यह प्रविष्टि कोई नया कार्यालय, मंच या शुल्क नहीं बनाती। System के लिए [§7.4 System Classification Record को चुनौती](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability); Institution के लिए [Chapter Nine Part D §14.2](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers) और [§14.4](../../core_09.020_institutional_alignment_certification.md#144-challenge-path)। चुनौती में किसी नामित क्षेत्र की खास सीमा-पार घटना बतानी होगी; संचालन पक्ष लिखित कारणों सहित उत्तर देगा।
-  - पहले संचालन पक्ष के प्रकाशित रास्ते से उत्तर आएगा, [Article XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) की समय-सीमा में। उत्तर न मिले या बात न सुलझे तो मंच; देरी से अधिकार, साक्ष्य या स्वतंत्रता खतरे में हो तो सीधे मंच जा सकते हैं।
+- **चुनौती का रास्ता:** मौजूदा प्रक्रिया ही लागू होगी; यह प्रविष्टि कोई नया कार्यालय, मंच या शुल्क नहीं बनाती। System के लिए [§7.4 System Classification Record को चुनौती](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability); Institution के लिए [Chapter Nine Part D §14.2](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers) और [§14.4](../../core_09.015_institutional_alignment_certification.md#144-challenge-path)। चुनौती में किसी नामित क्षेत्र की खास सीमा-पार घटना बतानी होगी; संचालन पक्ष लिखित कारणों सहित उत्तर देगा।
+  - पहले संचालन पक्ष के प्रकाशित रास्ते से उत्तर आएगा, [Article XXVI-C](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) की समय-सीमा में। उत्तर न मिले या बात न सुलझे तो मंच; देरी से अधिकार, साक्ष्य या स्वतंत्रता खतरे में हो तो सीधे मंच जा सकते हैं।
   - खास सीमा-पार घटना बताए बिना आई चुनौती पूरी करने के लिए लौटाई जाएगी; यह गुण-दोष पर फैसला नहीं, चुनौतीकर्ता की समय-सीमा नहीं चलती और फिर से दायर की जा सकती है। मंच पर इसे सामान्य दाखिला श्रेणी मिलेगी, प्रवेश पर खारिज नहीं किया जाएगा।
   - एक ही संचालन पक्ष या एक ही संचालन माने गए संचालन पक्षों के विरुद्ध उसी सीमा पर आई चुनौतियाँ साथ सुनी जाएँगी।
   - निर्णय तभी फिर खुलेगा जब गतिविधि में महत्त्वपूर्ण बदलाव हो या नई संबंधित साक्ष्य आए; अन्यथा पुराने निर्णय का संदर्भ दिया जाएगा।
@@ -445,7 +445,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- अधो: सिद्धांत: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (आकलन में समेकन और सीमा अखंडता); [§6.2.4 स्थानापन्न-संकेत विचलन अविधिमान्यकरण](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (मेट्रिक/वास्तविकता अंतर जो तात्विकता हेरफेर कर सकते हैं)।
+- अधो: सिद्धांत: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (आकलन में समेकन और सीमा अखंडता); [§6.2.4 स्थानापन्न-संकेत विचलन अविधिमान्यकरण](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (मेट्रिक/वास्तविकता अंतर जो तात्विकता हेरफेर कर सकते हैं)।
 - साथ पढ़ें: [तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण), [प्रणाली सीमाएँ](../../core_05.040_band_continuity.md#system-boundaries), [प्रणाली-सीमा अखंडता](../../core_05.040_band_continuity.md#system-boundary-integrity), [प्रणालीगत तात्विकता](../../core_05.035_band_accountability.md), [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत), और [जवाबदेही](core_05_apex_accountability_leg.md#accountability)।
 
 </details>
@@ -482,7 +482,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- अधो: एकीकृत तात्विकता ([तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण)) (*संवैधानिक मापन के रूप में तात्विकता*); सिद्धांत: [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग स्थानापन्न; [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 उत्तरदायी प्रबंधन और वितरित समझ — §9.2 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (समझ **तात्विकता** के साथ स्केल करती है); [8.1.1 आनुपातिकता](core_01_b_interaction_interpretation.md#1313-proportionality) (व्यापार सूचकांक में तात्विक प्रभाव)।
+- अधो: एकीकृत तात्विकता ([तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण)) (*संवैधानिक मापन के रूप में तात्विकता*); सिद्धांत: [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग स्थानापन्न; [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 उत्तरदायी प्रबंधन और वितरित समझ — §9.2 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (समझ **तात्विकता** के साथ स्केल करती है); [8.1.1 आनुपातिकता](core_01_b_interaction_interpretation.md#1313-proportionality) (व्यापार सूचकांक में तात्विक प्रभाव)।
 - समूह घटक: [आश्रित समूह *तात्विक प्रभाव, तात्विकता निर्धारण, वर्गीकरण-स्केल शासन, निगरानी और क्षमता अपेक्षा*](core_05_band_oversight.md#materiality-semi-independent)।
 - साथ पढ़ें: [हानि](../../core_05.035_band_accountability.md#harm), [जोखिम](../../core_05.040_band_continuity.md#risk), [प्रणालीगत तात्विकता](../../core_05.035_band_accountability.md), [निर्भरता](../../core_05.040_band_continuity.md#dependency), [वर्गीकरण-स्केल शासन](core_05_band_oversight.md#वरगकरण-सकल-शसन), [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional), और [पारदर्शिता](core_05_band_oversight.md#परदरशत)।
 
@@ -530,7 +530,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- अधो: एकीकृत तात्विकता ([तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण)) (*संवैधानिक मापन के रूप में तात्विकता*); सिद्धांत: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (पूँछ जोखिम, अस्तित्वगत जोखिम मुद्रा); [8.1.1 आनुपातिकता](core_01_b_interaction_interpretation.md#1313-proportionality) (**जोखिम**, **अपरिवर्तनीय हानि**, **अस्तित्वगत जोखिम** सूचकांक)।
+- अधो: एकीकृत तात्विकता ([तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण)) (*संवैधानिक मापन के रूप में तात्विकता*); सिद्धांत: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (पूँछ जोखिम, अस्तित्वगत जोखिम मुद्रा); [8.1.1 आनुपातिकता](core_01_b_interaction_interpretation.md#1313-proportionality) (**जोखिम**, **अपरिवर्तनीय हानि**, **अस्तित्वगत जोखिम** सूचकांक)।
 - साथ पढ़ें: [हानि](../../core_05.035_band_accountability.md#harm), [अपरिवर्तनीय हानि](../../core_05.035_band_accountability.md#irreversible-harm), [जोखिम](../../core_05.040_band_continuity.md#risk), [सुरक्षा (बंधन)](../../core_05.040_band_continuity.md#safety-constraint), और [वर्गीकरण-स्केल शासन](core_05_band_oversight.md#वरगकरण-सकल-शसन)।
 
 </details>
@@ -576,7 +576,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- अधो: सिद्धांत: [8.1.1 आनुपातिकता](core_01_b_interaction_interpretation.md#1313-proportionality) (अनिश्चितता के अधीन उत्क्रमणीयता); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (छूटी हानियों के विरुद्ध पूर्वोपाय)।
+- अधो: सिद्धांत: [8.1.1 आनुपातिकता](core_01_b_interaction_interpretation.md#1313-proportionality) (अनिश्चितता के अधीन उत्क्रमणीयता); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (छूटी हानियों के विरुद्ध पूर्वोपाय)।
 - साथ पढ़ें: [तात्विक प्रभाव](core_05_band_oversight.md#ततवक-परभव), [तात्विक जोखिम](core_05_band_oversight.md#ततवक-जखम), [अपरिवर्तनीय हानि](../../core_05.035_band_accountability.md#irreversible-harm), [सुरक्षा (बंधन)](../../core_05.040_band_continuity.md#safety-constraint), और [वर्गीकरण-स्केल शासन](core_05_band_oversight.md#वरगकरण-सकल-शसन)।
 
 </details>
@@ -616,7 +616,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- अधो: निगरानी मापन परिवार (*संवैधानिक मापन के रूप में सत्य और ज्ञानमीमांसीय अखंडता*); जवाबदेही मापन परिवार (*संवैधानिक मापन के रूप में प्रोत्साहन संरेखण और स्थानापन्न अखंडता*); सिद्धांत: [§6.2.4 स्थानापन्न-संकेत विचलन अविधिमान्यकरण](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- अधो: निगरानी मापन परिवार (*संवैधानिक मापन के रूप में सत्य और ज्ञानमीमांसीय अखंडता*); जवाबदेही मापन परिवार (*संवैधानिक मापन के रूप में प्रोत्साहन संरेखण और स्थानापन्न अखंडता*); सिद्धांत: [§6.2.4 स्थानापन्न-संकेत विचलन अविधिमान्यकरण](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 - समूह घटक: [आश्रित समूह *तात्विक प्रभाव, तात्विकता निर्धारण, वर्गीकरण-स्केल शासन, निगरानी और क्षमता अपेक्षा*](core_05_band_oversight.md#materiality-semi-independent)।
 - साथ पढ़ें: [तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण), [तात्विकता अखंडता बंधन](core_05_band_oversight.md#ततवकत-अखडत-बधन), [प्रणाली-सीमा अखंडता](../../core_05.040_band_continuity.md#system-boundary-integrity), [प्रोत्साहन संरेखण](core_05_band_integrative.md#परतसहन-सरखण), [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत), और [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन)।
 
@@ -687,7 +687,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- अधो: सिद्धांत: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [4. अहस्तांतरणीय बंधन: सुरक्षा और सत्य](core_01_a_values_principles.md) (**सुरक्षा** / **सत्य** क्षरण मार्ग)।
+- अधो: सिद्धांत: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [4. अहस्तांतरणीय बंधन: सुरक्षा और सत्य](core_01_a_values_principles.md) (**सुरक्षा** / **सत्य** क्षरण मार्ग)।
 - साथ पढ़ें: [तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण), [प्रणालीगत तात्विकता](../../core_05.035_band_accountability.md), [जोखिम](../../core_05.040_band_continuity.md#risk), [सुरक्षा (बंधन)](../../core_05.040_band_continuity.md#safety-constraint), [ज्ञानमीमांसीय अखंडता](core_05_band_oversight.md#जञनममसय-अखडत), और [अर्थपूर्ण अभिकर्तृत्व](../../core_05.055_band_participation.md#meaningful-agency)।
 
 </details>
@@ -753,7 +753,7 @@
 
 जहाँ प्रवेश दायरा पूरा हो, यह समूह प्रकटीकरण, लेखापरीक्षा, सत्यापन (बाह्य पता-योग्यता सहित), और आश्वासन गहराई का संयुक्त घर है जब अध्याय दो से चार माँगें कि प्रणाली क्या करती है और अनुपालन दावे टिकते हैं या नहीं इसका पता-योग्य, चुनौती-योग्य साक्ष्य हो।
 
-**निगरानी ढाँचा।** [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) **निगरानी** टाँग के अधीन, निगरानी लेखापरीक्षा माँगती है — क्या हुआ पुनर्निर्माण कर सकना, उसे स्वतंत्र सत्यापित करना, और लेखापरीक्षा पहुँच पाना — यहाँ और **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) पर स्वामित्व। [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) अन्य के बीच एक विशेष रूप से बड़ी, उच्च-दाँव लेखापरीक्षा प्रक्रिया है (मंच-पर्यवेक्षित संरेखण समीक्षा [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) के अधीन मान्यता परिणामों के साथ); यह इस समूह को निगलती नहीं और सहोदर लेखापरीक्षा ढंगों का स्थान नहीं लेती।
+**निगरानी ढाँचा।** [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) **निगरानी** टाँग के अधीन, निगरानी लेखापरीक्षा माँगती है — क्या हुआ पुनर्निर्माण कर सकना, उसे स्वतंत्र सत्यापित करना, और लेखापरीक्षा पहुँच पाना — यहाँ और **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) पर स्वामित्व। [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) अन्य के बीच एक विशेष रूप से बड़ी, उच्च-दाँव लेखापरीक्षा प्रक्रिया है (मंच-पर्यवेक्षित संरेखण समीक्षा [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) के अधीन मान्यता परिणामों के साथ); यह इस समूह को निगलती नहीं और सहोदर लेखापरीक्षा ढंगों का स्थान नहीं लेती।
 
 **प्रणाली वर्ग और आनुपातिकता।** पारदर्शिता, लेखापरीक्षा-योग्यता, और सत्यापन कर्तव्य **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और संचालन** के अधीन प्रणाली वर्ग के साथ, और तात्विक प्रभाव, निर्भरता, और जोखिम के साथ स्केल करते हैं। ऊँचे-वर्ग प्रणालियों (**Class A**, **B**, **C**) को नीची-वर्ग प्रणालियों (**Class L**, **P**) से अधिक चाहिए, सहित:
 - गहरी आश्वासन;
@@ -849,7 +849,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - समूह घटक: [Def.O1 *पारदर्शिता, लेखापरीक्षा-योग्यता और सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)।
-- अधो: **[CS-2 भाग A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Class A/B/C प्रणालियों के लिए Type O आधाररेखा*); **[CS-2 भाग B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*टाइपिंग और O/E/G संबंध*); [अध्याय सात §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*डेटा प्रकार और संचालन आकलन*); [अध्याय सात भाग B §6](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (*प्रमाणन अभिलेख*); [अध्याय सात भाग B §6.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*पारदर्शिता, लेखापरीक्षा-योग्यता, और चुनौती-योग्यता*)।
+- अधो: **[CS-2 भाग A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Class A/B/C प्रणालियों के लिए Type O आधाररेखा*); **[CS-2 भाग B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*टाइपिंग और O/E/G संबंध*); [अध्याय सात §3.4](../../core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*डेटा प्रकार और संचालन आकलन*); [अध्याय सात भाग B §6](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (*प्रमाणन अभिलेख*); [अध्याय सात भाग B §6.2](../../core_09.005_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*पारदर्शिता, लेखापरीक्षा-योग्यता, और चुनौती-योग्यता*)।
 - साथ पढ़ें: [पारदर्शिता](core_05_band_oversight.md#परदरशत), [चुनौती-योग्यता](../../core_05.035_band_accountability.md#contestability), [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत), [जोखिम प्रकटीकरण](core_05_band_oversight.md#जखम-परकटकरण), [चार्टर](../../core_05.040_band_continuity.md), [प्रणाली सीमाएँ](../../core_05.040_band_continuity.md#system-boundaries), [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [प्रणाली प्रमाणन अभिलेख](../../core_05.040_band_continuity.md#system-certification-record-constitutional), [प्रणाली वर्गीकरण अभिलेख](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [प्रणाली डेटा-प्रकार अभिलेख](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), [वर्गीकरण-स्केल शासन](core_05_band_oversight.md#वरगकरण-सकल-शसन), और **[corpus_systems.md](../../corpus_systems.md), CS-2 — सूचना प्रकार और संचालन** (**Type O**)।
 
 </details>
@@ -929,7 +929,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - समूह घटक: [Def.O1 *पारदर्शिता, लेखापरीक्षा-योग्यता और सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)।
-- अधो: निगरानी मापन परिवार (*संवैधानिक मापन के रूप में प्रकटीकरण और आश्वासन*); सिद्धांत: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **निगरानी** टाँग; [4.1 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint); [अध्याय सात §3.1 प्रणालीगत दायरा और जोखिम कारक](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC आकलन-और-प्रकटीकरण पुल*); [अध्याय सात भाग B §6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*प्रणाली प्रमाणन अभिलेख पर निष्कर्ष — अलग नामित जोखिम-प्रकटीकरण अभिलेख नहीं*)।
+- अधो: निगरानी मापन परिवार (*संवैधानिक मापन के रूप में प्रकटीकरण और आश्वासन*); सिद्धांत: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **निगरानी** टाँग; [4.1 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint); [अध्याय सात §3.1 प्रणालीगत दायरा और जोखिम कारक](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC आकलन-और-प्रकटीकरण पुल*); [अध्याय सात भाग B §6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*प्रणाली प्रमाणन अभिलेख पर निष्कर्ष — अलग नामित जोखिम-प्रकटीकरण अभिलेख नहीं*)।
 - साथ पढ़ें: [जोखिम आकलन](../../core_05.040_band_continuity.md#risk-evaluation), [जोखिम](../../core_05.040_band_continuity.md#risk), [पारदर्शिता](core_05_band_oversight.md#परदरशत), [सार्वजनिक निगरानी आधाररेखा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-नगरन-आधररख-परकटकरण), [सुरक्षा (बंधन)](../../core_05.040_band_continuity.md#safety-constraint), [चुनौती-योग्यता](../../core_05.035_band_accountability.md#contestability), [ज्ञानमीमांसीय अखंडता](core_05_band_oversight.md#जञनममसय-अखडत), और [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)।
 
 </details>
@@ -941,7 +941,7 @@
 - **यह क्या है**
   - **दायरे में:** मूल्यांकित प्रणालीगत [जोखिम](../../core_05.040_band_continuity.md#risk) उन तक संप्रेषित करना जिन्हें उसकी ज़रूरत है ताकि वे समझ, चुनौती, और कार्य कर सकें।
     - **चलता कर्तव्य:** कर्तव्य प्रमाणन चक्रों तक सीमित नहीं — वह तब लागू होता है जब [पारदर्शिता](core_05_band_oversight.md#परदरशत) या [सुरक्षा (बंधन)](../../core_05.040_band_continuity.md#safety-constraint) माँगें कि मूल्यांकित जोखिम उन संज्ञ प्राणियों तक पहुँचे जिन्हें उसकी ज़रूरत है।
-    - **SAC सत्यापन:** जहाँ [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) चले और प्रणालीगत जोखिम दायरे में हो, यह प्रकटीकरण उस बात का भाग है जिसका प्रमाणन को [अध्याय सात §3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) के अधीन सत्यापन करना चाहिए; निष्कर्ष [प्रणाली प्रमाणन अभिलेख](../../core_05.040_band_continuity.md#system-certification-record-constitutional) पर रहते हैं, अलग नामित जोखिम-प्रकटीकरण अभिलेख के रूप में नहीं।
+    - **SAC सत्यापन:** जहाँ [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) चले और प्रणालीगत जोखिम दायरे में हो, यह प्रकटीकरण उस बात का भाग है जिसका प्रमाणन को [अध्याय सात §3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) के अधीन सत्यापन करना चाहिए; निष्कर्ष [प्रणाली प्रमाणन अभिलेख](../../core_05.040_band_continuity.md#system-certification-record-constitutional) पर रहते हैं, अलग नामित जोखिम-प्रकटीकरण अभिलेख के रूप में नहीं।
   - **दायरे से बाहर:**
     - [जोखिम आकलन](../../core_05.040_band_continuity.md#risk-evaluation) स्वयं — प्रणालीगत जोखिम आँकने का कर्तव्य;
     - व्यापक सार्वजनिक आधाररेखा तल के रूप में [सार्वजनिक निगरानी आधाररेखा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-नगरन-आधररख-परकटकरण); या
@@ -974,7 +974,7 @@
 - समूह घटक: [Def.O1 *पारदर्शिता, लेखापरीक्षा-योग्यता और सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **निगरानी** टाँग; [जवाबदेही](core_05_apex_accountability_leg.md#accountability), [चुनौती-योग्यता](../../core_05.035_band_accountability.md#contestability), [ज्ञानमीमांसीय अखंडता](core_05_band_oversight.md#जञनममसय-अखडत), [पारदर्शिता](core_05_band_oversight.md#परदरशत), [सत्यापन-योग्यता](core_05_band_oversight.md#सतयपन-यगयत), [साक्ष्य संरक्षण](core_05_band_oversight.md#सकषय-सरकषण), और [आकलन पूर्णता बंधन](core_05_band_oversight.md#आकलन-परणत-बधन)।
 - साथ पढ़ें: **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*); [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) (*निगरानी के अधीन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया — एकमात्र लेखापरीक्षा घर नहीं*); [core_02_definition_structure.md](core_02_definition_structure.md) अध्याय दो से चार में स्वामी-परत यांत्रिकी।
-- उत्तरदायी-प्रबंधन द्वार (गैर-संक्रियात्मक): यह परिभाषा लेखापरीक्षा ढेर की गुण परत है। बाध्यकारी अगला-कदम कथन: [संक्रियात्मक उत्तरदायी-प्रबंधन कथन (अनुच्छेद XVI)](core_06_rights_part_c.md)। तीन-परत चित्र: [अनुच्छेद XVI](../../core_06.015_rights_part_c.md#audit-three-layers)।
+- उत्तरदायी-प्रबंधन द्वार (गैर-संक्रियात्मक): यह परिभाषा लेखापरीक्षा ढेर की गुण परत है। बाध्यकारी अगला-कदम कथन: [संक्रियात्मक उत्तरदायी-प्रबंधन कथन (अनुच्छेद XVI)](core_06_rights_part_c.md)। तीन-परत चित्र: [अनुच्छेद XVI](../../core_06.010_rights_part_c.md#audit-three-layers)।
 
 </details>
 
@@ -1104,7 +1104,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - समूह घटक: [Def.O1 *पारदर्शिता, लेखापरीक्षा-योग्यता और सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)।
-- अधो: निगरानी मापन परिवार (*संवैधानिक मापन के रूप में आकलन कवरेज*); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC संपूर्ण-प्रणाली आकलन*); [अध्याय सात भाग B §6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*प्रणाली प्रमाणन अभिलेख पर निष्कर्ष*); [CS-5 — डिज़ाइन, परीक्षण, सत्यापन, और तैनाती](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*परीक्षण, तनाव, और प्रतिगमन कवरेज*)।
+- अधो: निगरानी मापन परिवार (*संवैधानिक मापन के रूप में आकलन कवरेज*); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन आकलन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC संपूर्ण-प्रणाली आकलन*); [अध्याय सात भाग B §6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*प्रणाली प्रमाणन अभिलेख पर निष्कर्ष*); [CS-5 — डिज़ाइन, परीक्षण, सत्यापन, और तैनाती](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*परीक्षण, तनाव, और प्रतिगमन कवरेज*)।
 - साथ पढ़ें: [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत), [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [चार्टर](../../core_05.040_band_continuity.md), [प्रणाली सीमाएँ](../../core_05.040_band_continuity.md#system-boundaries), [प्रणाली-सीमा अखंडता](../../core_05.040_band_continuity.md#system-boundary-integrity), [तात्विकता निर्धारण](core_05_band_oversight.md#ततवकत-नरधरण), [विरोधी, स्केल और शोषित शर्तें](core_05_band_oversight.md#वरध-सकल-और-शषत-शरत), [प्रणाली निर्माण](../../core_05.055_band_participation.md#system-creation-constitutional), और [व्यवसाय निर्माण](../../core_05.055_band_participation.md#business-creation-constitutional)।
 
 </details>
@@ -1121,7 +1121,7 @@
     - विरोधी मार्ग।
   - **चलता कर्तव्य:** बंधन तब लागू होता है जब संचालक, उत्तरदायी प्रबंधक, या समीक्षक आकलन या आश्वासन कार्य से संवैधानिक अनुपालन, तत्परता, या सुरक्षित भरोसा दावा करें — केवल प्रमाणन चक्रों के दौरान नहीं।
   - **चार्टर और दायरा प्रक्रिया:** जहाँ प्रणाली, संस्था, व्यवसाय, या तुलनीय प्रबंधित रूप के लिए शासक [चार्टर](../../core_05.040_band_continuity.md) (या समतुल्य प्रकाशित दायरा लिखत) मौजूद हो, आकलन को चार्टर्ड उद्देश्य और दायरे-में / दायरे-से-बाहर सीमाओं को प्रेक्षित [प्रणाली सीमाएँ](../../core_05.040_band_continuity.md#system-boundaries) और उस दायरे के भीतर तथा किनारे पर विश्वसनीय मार्गों के विरुद्ध जाँचना चाहिए। चार्टर पाठ आँके जाने वाले मार्ग नहीं सिकोड़ता।
-  - **SAC सत्यापन:** जहाँ [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) चले, यह बंधन उस बात का भाग है जिसका प्रमाणन को [अध्याय सात §3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) के अधीन सत्यापन करना चाहिए — [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) के अधीन चार्टर्ड-दायरा-बनाम-कार्यात्मक-सीमा जाँचों और [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) के अधीन वर्ग-स्केल परीक्षण / प्रतिगमन कवरेज सहित। निष्कर्ष [प्रणाली प्रमाणन अभिलेख](../../core_05.040_band_continuity.md#system-certification-record-constitutional) पर रहते हैं।
+  - **SAC सत्यापन:** जहाँ [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) चले, यह बंधन उस बात का भाग है जिसका प्रमाणन को [अध्याय सात §3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) के अधीन सत्यापन करना चाहिए — [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) के अधीन चार्टर्ड-दायरा-बनाम-कार्यात्मक-सीमा जाँचों और [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) के अधीन वर्ग-स्केल परीक्षण / प्रतिगमन कवरेज सहित। निष्कर्ष [प्रणाली प्रमाणन अभिलेख](../../core_05.040_band_continuity.md#system-certification-record-constitutional) पर रहते हैं।
   - **दायरे से बाहर:**
     - दायरा लिखत अकेले के रूप में [चार्टर](../../core_05.040_band_continuity.md) पाठ — चार्टर अभीष्ट दायरा बताता है; वह स्वयं आकलन कवरेज नहीं;
     - [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) प्रक्रिया यांत्रिकी ऐसे — प्रमाणन इस बंधन का सत्यापन कर सकता है; वह एकमात्र संदर्भ नहीं जिसमें बंधन लागू होता है; या
@@ -1137,7 +1137,7 @@
     - जहाँ तात्विक हो [विरोधी, स्केल और शोषित शर्तें](core_05_band_oversight.md#वरध-सकल-और-शषत-शरत)।
     यह भी पूछें:
       - जहाँ [चार्टर](../../core_05.040_band_continuity.md) मौजूद हो, क्या आकलन ने चार्टर्ड दायरे को प्रेक्षित सीमाओं के विरुद्ध जाँचा न कि चार्टर को पूर्ण परिदृश्य सूची माना; और
-      - जहाँ [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) चले, क्या [अध्याय सात §3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) के अधीन संपूर्ण-प्रणाली आकलन और अभिलेख निष्कर्ष वह कवरेज दर्शाते हैं।
+      - जहाँ [प्रणाली-संरेखण प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) चले, क्या [अध्याय सात §3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) के अधीन संपूर्ण-प्रणाली आकलन और अभिलेख निष्कर्ष वह कवरेज दर्शाते हैं।
 <a id="evaluation-completeness-constraint-c"></a>
 - **क्या टिकना चाहिए**
   - **प्राथमिक विफलता:**
@@ -1167,7 +1167,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - समूह घटक: [Def.O1 *पारदर्शिता, लेखापरीक्षा-योग्यता और सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)।
-- स्वामी तल: व्यावहारिक सत्यापन पहुँच के लिए [अनुच्छेद XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*सत्यापन सुगम्यता*)।
+- स्वामी तल: व्यावहारिक सत्यापन पहुँच के लिए [अनुच्छेद XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility) (*सत्यापन सुगम्यता*)।
 - साथ पढ़ें: [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत), [पारदर्शिता](core_05_band_oversight.md#परदरशत), [चुनौती-योग्यता](../../core_05.035_band_accountability.md#contestability), [आनुपातिकता](../../core_05.035_band_accountability.md#proportionality), [व्यवहार्यता](../../core_05.035_band_accountability.md#feasibility), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), और [विरोधी, स्केल और शोषित शर्तें](core_05_band_oversight.md#वरध-सकल-और-शषत-शरत)।
 
 </details>
@@ -1179,7 +1179,7 @@
 - **यह क्या है**
   - **दायरे में:** प्रणाली आचरण, निर्गम, और प्रभाव [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) के लिए बाह्य रूप से पता लगाए, मापे, और स्वतंत्र सत्यापित किए जा सकते हैं या नहीं। संघटक शर्तें:
     - स्वतंत्र सत्यापन गिनने से पहले बाह्य पता-योग्यता;
-    - व्यावहारिक पहुँच ([अनुच्छेद XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](../../core_05.035_band_accountability.md#feasibility));
+    - व्यावहारिक पहुँच ([अनुच्छेद XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](../../core_05.035_band_accountability.md#feasibility));
     - संचालक आत्म-दावे से स्वतंत्रता;
     - [आनुपातिकता](../../core_05.035_band_accountability.md#proportionality) और [तात्विक प्रभाव](core_05_band_oversight.md#ततवक-परभव) के अधीन आनुपातिक भार; और
     - साधारण तनाव, दुरुपयोग, और [विरोधी, स्केल और शोषित शर्तें](core_05_band_oversight.md#वरध-सकल-और-शषत-शरत) के अधीन विश्वसनीयता।
@@ -1204,7 +1204,7 @@
   - **द्वितीयक माप:** [निगरानी मापन परिवार](core_05_apex_oversight_leg.md#oversight-measurement-family) — *क्या संज्ञ प्राणी देख, सत्यापित और भरोसा कर सकते हैं कि प्रणालियाँ क्या दर्शाती हैं?* इसे यहाँ पूछने के लिए इस्तेमाल करें कि प्रेक्षित आचरण व्यवहार में पुनरुत्पादनीय विधियों से स्वतंत्र सत्यापित किया जा सकता है या नहीं।
 
     **द्वितीयक आकलन:** उन विधियों से स्वतंत्र सत्यापन पुष्टि करें जो:
-    - प्रभावित और उचित रूप से प्राधिकृत पक्ष वास्तव में कर सकें ([अनुच्छेद XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](../../core_05.035_band_accountability.md#feasibility));
+    - प्रभावित और उचित रूप से प्राधिकृत पक्ष वास्तव में कर सकें ([अनुच्छेद XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](../../core_05.035_band_accountability.md#feasibility));
     - बाह्य रूप से पता-योग्य साक्ष्य पर टिकें — आंतरिक दावों या अनुमानित आशय पर नहीं;
     - [आनुपातिकता](../../core_05.035_band_accountability.md#proportionality) और [तात्विक प्रभाव](core_05_band_oversight.md#ततवक-परभव) के अधीन प्रणाली प्रभाव के आकार के हों; और
     - साधारण तनाव, दुरुपयोग, और [विरोधी, स्केल और शोषित शर्तें](core_05_band_oversight.md#वरध-सकल-और-शषत-शरत) के अधीन विश्वसनीय रहें।

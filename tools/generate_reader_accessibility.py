@@ -40,11 +40,11 @@ from heading_anchor_href import link_fragment
 assert CORE_FILES == _CORE_FILES_CHECK
 
 RIGHTS_FILES = (
-    "core_06.005_rights_part_a.md",
-    "core_06.010_rights_part_b.md",
-    "core_06.015_rights_part_c.md",
-    "core_06.020_rights_part_d.md",
-    "core_06.025_rights_part_e.md",
+    "core_06.000_rights_part_a.md",
+    "core_06.005_rights_part_b.md",
+    "core_06.010_rights_part_c.md",
+    "core_06.015_rights_part_d.md",
+    "core_06.020_rights_part_e.md",
 )
 ARTICLE_TITLE = re.compile(r"^Article\s+[IVXLCDM]+(?:-[A-Z])?\b")
 GENERATED_DIR = "doc_architecture/generated"
@@ -71,8 +71,8 @@ FEATURED_QUERIES: tuple[tuple[str, str, str], ...] = (
 SPINE_ITEMS: tuple[tuple[str, str, str], ...] = (
     ("preamble_model", "core_00.000_preamble.md", "1-the-model"),
     ("preamble_pipelines", "core_00.000_preamble.md", "6-key-practical-process-pipelines"),
-    ("conflict_resolution", "core_01.010_interaction_interpretation.md", "154-constitutional-meaning-conflict-resolution"),
-    ("shared_stewardship", "core_01.015_stewardship_capacity_principles.md", "171-shared-stewardship-standard"),
+    ("conflict_resolution", "core_01.005_interaction_interpretation.md", "154-constitutional-meaning-conflict-resolution"),
+    ("shared_stewardship", "core_01.010_stewardship_capacity_principles.md", "171-shared-stewardship-standard"),
 )
 
 OUT_PATHS = (

@@ -117,7 +117,7 @@ Người dùng có quyền tương tác với các hệ thống đáng tin cậy
 
 Hai biện pháp bảo vệ phối hợp với nhau để đảm bảo quyền này: chứng nhận giúp hệ thống xứng đáng với sự tin cậy đó và quyền của người sử dụng giúp hệ thống luôn trung thực.
 
-**Chứng nhận tạo dựng niềm tin từ phía hệ thống:** Khi một hệ thống quan trọng có ảnh hưởng thực sự đến cách mọi người dựa vào nó, [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Tám](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) áp dụng. Nó kiểm tra xem người nhận có thể dựa vào:
+**Chứng nhận tạo dựng niềm tin từ phía hệ thống:** Khi một hệ thống quan trọng có ảnh hưởng thực sự đến cách mọi người dựa vào nó, [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Tám](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) áp dụng. Nó kiểm tra xem người nhận có thể dựa vào:
 
 - hệ thống nói nó làm gì
 - giới hạn và rủi ro của nó
@@ -137,7 +137,7 @@ Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Q
 *Bài viết hàng xóm:*
 
 - **Khi điều này được áp dụng:** Nơi mà hành vi của hệ thống cản trở hoặc duy trì một cách vật chất **Chương Sáu** Tầng Quyền - bao gồm các yếu tố cần thiết cho sự sống còn theo **Điều III-A** (*Sống sót*).
-- **Cùng đọc:** [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) Và [Chương Tám](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — không có chứng nhận thay thế cho các tầng được nêu ở đây.
+- **Cùng đọc:** [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) Và [Chương Tám](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — không có chứng nhận thay thế cho các tầng được nêu ở đây.
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### Điều XIII-A: Đường cơ sở về độ tin cậy và độ tin cậy
@@ -921,7 +921,7 @@ Một chồng, ba lớp. Giám sát đòi hỏi khả năng tái tạo. Chứng 
 | **2. Tài sản** | Khả năng tái tạo *là*: người ngoài có thể tái tạo và kiểm tra những gì hệ thống đã làm qua thời gian, trạng thái và bối cảnh vật chất | [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) (Chương Năm) | Không phải Tầng Quyền. Không phải cách thức/thời điểm thực hiện kiểm toán. |
 | **3. Quy trình** | Cách thức và thời điểm kiểm toán trên các hệ thống, tổ chức và diễn đàn | [CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md) (*Quy trình kiểm toán tại nhà*). Phụ lục của nhà điều hành: [CJS-3.4](../../corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (cấp truy cập), [CJS-3.5](../../corpus_joint_structure/cjs_05.110_oversight_operations.md) (kiểm tra yêu cầu) | Không phải chứng nhận liên kết hệ thống. Không thay thế cho lớp 1–2. |
 
-**Chương chín không phải là lớp thứ tư.** [Chứng nhận liên kết hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình lớn, được giám sát bởi diễn đàn **công dụng** ngăn xếp này. Nó phải đáp ứng các lớp 1–2. Các chế độ anh chị em (kiểm tra hồ sơ phân loại, kiểm tra hồ sơ loại dữ liệu, xác minh khiếu nại, giám sát liên tục) cũng sử dụng ngăn xếp. Không ai trong số họ là một ngôi nhà mới.
+**Chương chín không phải là lớp thứ tư.** [Chứng nhận liên kết hệ thống](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình lớn, được giám sát bởi diễn đàn **công dụng** ngăn xếp này. Nó phải đáp ứng các lớp 1–2. Các chế độ anh chị em (kiểm tra hồ sơ phân loại, kiểm tra hồ sơ loại dữ liệu, xác minh khiếu nại, giám sát liên tục) cũng sử dụng ngăn xếp. Không ai trong số họ là một ngôi nhà mới.
 
 **Áp dụng văn bản triển khai đã được thông qua; nó không thay thế sàn nhà.** Các phụ lục CS, CI, CF và CJS-3.3 (*Giám sát: các thuật ngữ về khả năng kiểm tra và tái tạo*) thông qua CJS-3.5 (*Giám sát: các thuật ngữ xác minh độc lập và tính toàn vẹn của yêu cầu*) cho biết cách chạy lớp 3 trong một miền. Chúng phải đáp ứng các lớp 1–2. Thời hạn, bí mật và chính sách địa phương là những giới hạn cấp thấp hơn.
 
@@ -956,7 +956,7 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 
 - **Giám sát → kiểm toán → SAC:** Dưới [Bộ tứ hiến pháp](core_00_preamble.md#constitutional-tetrad) **giám sát** chân, Điều khoản này là nơi kiểm tra của Tầng Quyền.
   - Triển khai chéo *như thế nào* / *khi* tồn tại trong **[Trang chủ quy trình kiểm toán CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md)** (đọc với **CJS-3.4** / **CJS-3.5** phụ lục OP).
-  - [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình kiểm toán đặc biệt lớn, có tính rủi ro cao — được giám sát bởi diễn đàn, đa miền và được công nhận — trong số các chế độ kiểm toán tương tự:
+  - [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình kiểm toán đặc biệt lớn, có tính rủi ro cao — được giám sát bởi diễn đàn, đa miền và được công nhận — trong số các chế độ kiểm toán tương tự:
     - Kiểm tra hồ sơ phân loại hệ thống;
     - Các loại dữ liệu hệ thống Ghi lại kiểm tra;
     - các cuộc đánh giá về tính phức tạp và quản lý;
@@ -966,7 +966,7 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 - **Cùng đọc:**
   - **Điều XV** (*Tính toàn vẹn của không gian thông tin*) trong đó các bản ghi nhận thức và khả năng cạnh tranh có liên quan đáng kể;
   - **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) đối với các quyền thách thức mà hoạt động kiểm toán hỗ trợ nhưng không thay thế;
-  - [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) Và [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) trong đó bằng chứng liên kết phải được xác minh độc lập.
+  - [Chương Chín](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) Và [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) trong đó bằng chứng liên kết phải được xác minh độc lập.
 - **Máy móc xác minh:** **Chương hai đến chương bốn** cung cấp tính toàn vẹn của định nghĩa, phân bổ gánh nặng, khả năng quan sát và khả năng tiếp cận xác minh mà Điều khoản này triển khai ở lớp Tầng Quyền.
 - **Phân loại:** quy mô nghĩa vụ với [Quản trị theo quy mô phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) Và **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**; khi giai cấp không chắc chắn, hãy quản lý ở giai cấp hợp lý nhất cho đến khi được giải quyết.
 

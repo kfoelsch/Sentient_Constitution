@@ -116,7 +116,7 @@ Sentientler, etki, bağımlılık ve riskle orantılı derecede güvenilir ve g�
 
 Bu hakkı iki güvence birlikte korur: sertifikasyon sistemi güvene layık hale getirir; sentientlerin hakları ise sistemi dürüst tutar.
 
-**Sertifikasyon sistemin tarafından güven oluşturur:** Önemli bir sistem sentientlerin ona nasıl güvendiğini gerçek anlamda etkiliyorsa, [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) uyarınca uygulanır. Sertifikasyon, sentientlerin şunlara güvenip güvenemeyeceğini denetler:
+**Sertifikasyon sistemin tarafından güven oluşturur:** Önemli bir sistem sentientlerin ona nasıl güvendiğini gerçek anlamda etkiliyorsa, [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) uyarınca uygulanır. Sertifikasyon, sentientlerin şunlara güvenip güvenemeyeceğini denetler:
 
 - sistemin ne yaptığını söylediği;
 - sınırları ve riskleri;
@@ -136,7 +136,7 @@ Sistem **XIII. Madde**de (*Güvenilir ve Güven Verilebilir Sistem Hakkı*) yer 
 *Komşu maddeler:*
 
 - **Uygulandığı yer:** Sistem davranışı, **III-A. Madde** (*Yaşamda Kalma*) kapsamındaki yaşamsal gereklilikler dahil **Altıncı Bölüm** Hak Tabanlarını maddi ölçüde belirlediğinde veya sürdürdüğünde.
-- **Birlikte okuyun:** [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); sertifikasyon burada belirtilen tabanların yerine geçmez.
+- **Birlikte okuyun:** [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); sertifikasyon burada belirtilen tabanların yerine geçmez.
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### XIII-A. Madde: Güvenilirlik ve Güven Verilebilirlik Tabanı
@@ -925,7 +925,7 @@ Tek bir yığın, üç katman. Gözetim yeniden kurulabilirlik gerektirir. Siste
 | **2. Nitelik** | Yeniden kurulabilirliğin anlamı: dışarıdan kişiler, maddi zamanlar, durumlar ve bağlamlar boyunca sistemin yaptığını yeniden kurup kontrol edebilir | [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) (Beşinci Bölüm) | Hak Tabanı değildir. Denetimin nasıl/ne zaman yapılacağı değildir. |
 | **3. Süreç** | Sistemler, kurumlar ve forumlar genelinde denetimin nasıl ve ne zaman yapılacağı | [CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md) (*Denetim süreci ana kaynağı*). İşletmeci ekleri: [CJS-3.4](../../corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (erişim kademeleri), [CJS-3.5](../../corpus_joint_structure/cjs_05.110_oversight_operations.md) (iddia kontrolü) | Sistem uyum sertifikasyonu değildir. 1–2. katmanların yerine geçmez. |
 
-**Dokuzuncu Bölüm dördüncü katman değildir.** [Sistem uyum sertifikasyonu](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), bu yığını **kullanan**, forum gözetimindeki büyük süreçlerden biridir. 1–2. katmanları karşılamalıdır. Sınıflandırma kaydı denetimi, veri türleri kaydı denetimi, iddia doğrulama ve sürekli izleme gibi kardeş yöntemler de yığını kullanır. Hiçbiri yeni bir ana kaynak değildir.
+**Dokuzuncu Bölüm dördüncü katman değildir.** [Sistem uyum sertifikasyonu](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), bu yığını **kullanan**, forum gözetimindeki büyük süreçlerden biridir. 1–2. katmanları karşılamalıdır. Sınıflandırma kaydı denetimi, veri türleri kaydı denetimi, iddia doğrulama ve sürekli izleme gibi kardeş yöntemler de yığını kullanır. Hiçbiri yeni bir ana kaynak değildir.
 
 **Kabul edilmiş uygulama metni uygulanır; tabanın yerini almaz.** CS, CI, CF ve CJS-3.3 (*Gözetim: denetlenebilirlik ve yeniden kurulabilirlik şartları*) ile CJS-3.5 (*Gözetim: bağımsız doğrulama ve iddia bütünlüğü şartları*) ekleri, belirli alanlarda 3. katmanın nasıl yürütüleceğini belirtir. 1–2. katmanları karşılamalıdır. Süre sınırı, gizlilik ve yerel politika daha alt düzey kısıtlardır.
 
@@ -960,7 +960,7 @@ Bu mekanizmalar; münhasır uygulama ve ispat yükü dağılımı, Uyum Kanıtı
 
 - **Gözetim → denetim → SAC:** [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) içindeki **gözetim** ayağında bu Madde, denetimin Hak Tabanı kaynağıdır.
   - Uygulamalar arası *nasıl/ne zaman* konusu **[CJS-3.3 denetim süreci ana kaynağında](../../corpus_joint_structure/cjs_05.115_audit_process.md)** yer alır (**CJS-3.4** / **CJS-3.5** OP ekleriyle birlikte okuyun).
-  - [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) uyarınca [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), kardeş denetim yöntemleri arasındaki, forum gözetiminde, çok alanlı ve tanınma sağlayan büyük ve yüksek riskli bir denetim sürecidir:
+  - [Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) uyarınca [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), kardeş denetim yöntemleri arasındaki, forum gözetiminde, çok alanlı ve tanınma sağlayan büyük ve yüksek riskli bir denetim sürecidir:
     - Sistem Sınıflandırma Kaydı denetimleri;
     - Sistem Veri Türleri Kaydı denetimleri;
     - karmaşıklık ve vesayet denetimleri;
@@ -970,7 +970,7 @@ Bu mekanizmalar; münhasır uygulama ve ispat yükü dağılımı, Uyum Kanıtı
 - **Birlikte okuyun:**
   - epistemik kayıtlar ve itiraz edilebilirliğin maddi ölçüde söz konusu olduğu yerde **XV. Madde**;
   - denetimin desteklediği ancak yerine geçmediği itiraz hakları için **XIII-A. Madde**;
-  - uyum kanıtlarının bağımsız doğrulanabilir kalması gereken yerlerde [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ve [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
+  - uyum kanıtlarının bağımsız doğrulanabilir kalması gereken yerlerde [Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ve [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 - **Doğrulama araçları:** **İkinci ila Dördüncü Bölümler**, bu Maddenin Hak Tabanı katmanında uyguladığı tanım bütünlüğü, ispat yükü dağılımı, gözlemlenebilirlik ve doğrulamaya erişimi sağlar.
 - **Sınıflandırma:** yükümlülükler [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) ve **[corpus_systems.md](../../corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme** uyarınca ölçeklenir; sınıf belirsizse çözülene dek makul görünen en yüksek sınıfa göre hareket edilir.
 

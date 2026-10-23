@@ -6,7 +6,7 @@
 
 > Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
 >
-> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Enam, Bagian A bahasa Inggris](../../core_06.005_rights_part_a.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
+> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Enam, Bagian A bahasa Inggris](../../core_06.000_rights_part_a.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_06_rights_part_a.md`](../../core_06.000_rights_part_a.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > Berisi **Bab Enam, Bagian A**; penomoran pasal dan rujukan silang cocok dengan instrumen terpadu.
 >
@@ -47,11 +47,11 @@ Bab Enam adalah pemilik konstitusional **Lantai Hak** dan tafsir pada tingkat ha
 - Hulu: [Bab Satu §13 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional); [Bab Satu §6.1.5 Uji Keputusan Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Hulu: [Bab Satu §11 Keselarasan Insentif dan Penguasaan Sistem](core_01_c_stewardship_capacity_principles.md#19-penyelarasan-insentif-dan-penguasaan-sistem).
 - Hulu: Bab Dua sampai Empat; definisi Bab Lima.
-- Hilir: **Bagian A sampai D** bab ini; [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification); [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- Hilir: **Bagian A sampai D** bab ini; [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification); [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - Hilir: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 Cakupan lapisan](#12-cakupan-lapisan).
 - Baca bersama: [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#owner-non-relocation) dan [Pembukaan — daftar pemilik positif](core_00_preamble.md#4-prinsip-definisi-dan-hak); [Pasal XIII-B](core_06_rights_part_c.md#pasal-xiii-b-hak-atas-pemulihan-dan-perbaikan) (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*).
 - Baca bersama: [Pasal XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparansi, dan Verifikasi Independen*).
-- Baca bersama: [Pasal XIX-B](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*Dapat Digugat dan Batas Pembatasan yang Proporsional*); [Pasal XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Penyelesaian tepat waktu dan lantai anti-tunda*).
+- Baca bersama: [Pasal XIX-B](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*Dapat Digugat dan Batas Pembatasan yang Proporsional*); [Pasal XXVI-C](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Penyelesaian tepat waktu dan lantai anti-tunda*).
 
 </details>
 
@@ -88,13 +88,13 @@ Tumpukan baca ini berlaku untuk semua pasal dalam bab ini kecuali pasal tertentu
 
 Lantai Hak harus bekerja dalam praktik, bukan hanya di kertas. Pokok kelangsungan hidup di bawah **Pasal III-A** (*Kelangsungan Hidup*) — pangan, air, naungan, lingkungan operasi, dan masukan sebanding yang agnostik-substrat — adalah contoh paling jelas. **Berkembang** menuntut akses nyata ke pokok itu. **Kesinambungan** menuntut pasokan andal dan non-regresif sepanjang waktu, terutama di mana sistem bersama mengendalikan pengiriman.
 
-[Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) dan [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) memverifikasi apakah sistem yang berdampak material selaras sebelum diakui atau diandalkan pada skala. Bab Sembilan juga memasok dapat-digugatnya catatan sertifikasi, tinjauan pihak terdampak dan aksesibilitas, urutan pengawasan, dan jalur gugatan untuk keputusan keselarasan sistem. **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) memasok hak menggugat dan mengaudit. **Pasal XIX-B** (*Dapat Digugat dan Batas Pembatasan yang Proporsional*) menjaga batas jejak agar tidak menjadi pintu belakang di sekitar akses kritis-kelangsungan-hidup. Bersama, [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) dan [rantai jejak dan pengawasan forum Bab Delapan–Sebelas](../../README.md#standing-pipeline-and-forums) membentuk Rantai Proses Praktis Utama bagi dapat-digugat, klasifikasi terverifikasi, pengawasan forum, dan pemulihan tepat waktu. Mekanisme itu membantu menegakkan Bab Enam. Mereka tidak menggantikan, mempersempit, atau memindahkan hak yang dinyatakan di sini.
+[Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) dan [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) memverifikasi apakah sistem yang berdampak material selaras sebelum diakui atau diandalkan pada skala. Bab Sembilan juga memasok dapat-digugatnya catatan sertifikasi, tinjauan pihak terdampak dan aksesibilitas, urutan pengawasan, dan jalur gugatan untuk keputusan keselarasan sistem. **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) memasok hak menggugat dan mengaudit. **Pasal XIX-B** (*Dapat Digugat dan Batas Pembatasan yang Proporsional*) menjaga batas jejak agar tidak menjadi pintu belakang di sekitar akses kritis-kelangsungan-hidup. Bersama, [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) dan [rantai jejak dan pengawasan forum Bab Delapan–Sebelas](../../README.md#standing-pipeline-and-forums) membentuk Rantai Proses Praktis Utama bagi dapat-digugat, klasifikasi terverifikasi, pengawasan forum, dan pemulihan tepat waktu. Mekanisme itu membantu menegakkan Bab Enam. Mereka tidak menggantikan, mempersempit, atau memindahkan hak yang dinyatakan di sini.
 
 **Simpul tafsir.** Kecuali pasal yang lebih spesifik memasok aturan berbeda, isu berulang dirutekan melalui jangkar ini:
 
 **Lantai hak dan pasokan**
 - **Pokok kelangsungan hidup dan menjaganya tetap dapat diakses** — **Pasal III-A** (*Kelangsungan Hidup*); **Pasal XIX-B** (*Dapat Digugat dan Batas Pembatasan yang Proporsional*) agar batas jejak tidak dapat memblokir akses; baca bersama **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*) dan **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) di mana gugatan atau audit berlaku
-- **Sertifikasi keselarasan sistem** — [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification); [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **Sertifikasi keselarasan sistem** — [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification); [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **Verifikasi dan pemulihan**
 - **Catatan audit dan verifikasi independen** — **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) dengan **Bab Dua sampai Empat**
@@ -102,7 +102,7 @@ Lantai Hak harus bekerja dalam praktik, bukan hanya di kertas. Pokok kelangsunga
 
 **Sengketa dan proses tepat waktu**
 - **Keadilan, restitusi, batas pembatasan, darurat, dan tabrakan hak** — **Pasal XXVI** (*Penyelesaian Konflik, Eskalasi, dan Proporsionalitas Darurat*); [Bab Satu §6.1.5 Uji Keputusan Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **Rantai Proses Praktis Utama** — **Pasal XXVI-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*); [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **Rantai Proses Praktis Utama** — **Pasal XXVI-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*); [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 Rujukan silang yang lebih pendek ke tema itu di bagian lain bab ini menginkorporasi jangkar ini.
 
@@ -127,7 +127,7 @@ Penambahan masa depan ke **Bab Enam** yang menyentuh bahasa berasa proses, tata 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 Kebenaran](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional), dan [§18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 Kebenaran](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional), dan [§18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -154,7 +154,7 @@ Bab Lima mendefinisikan kondisi itu di bawah **Prasyarat Lingkungan**. Ketika de
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -205,7 +205,7 @@ Bab Lima mendefinisikan kondisi itu di bawah **Prasyarat Lingkungan**. Ketika de
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 Batasan Pengungkapan Epistemik](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 Batasan Pengungkapan Epistemik](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -233,7 +233,7 @@ Bab Lima mendefinisikan kondisi itu di bawah **Prasyarat Lingkungan**. Ketika de
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), dan [§12 Persyaratan Evaluasi Sistemik](../../core_01.005_values_principles.md#12-systemic-evaluation-requirement).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), dan [§12 Persyaratan Evaluasi Sistemik](../../core_01.000_values_principles.md#12-systemic-evaluation-requirement).
 - Bab Lima: O/M/A/C kanonik **Tanggung Jawab Antargenerasi** duduk di [**Def.I1** *Integritas Ekologis, Jejak, dan Keberlanjutan*](../../core_05.040_band_continuity.md#ecological-footprint-semi-independent), dibaca bersama **Integritas Ekologis**, **Keberlanjutan**, **Prasyarat Lingkungan**, dan **Jejak Ekologis** (pemanggilan bersama di mana beban jejak, pengungkapan, perbandingan, pengurangan, atau penelusuran secara material menjadi isu). Pemanggilan bersama bagi **Kesinambungan Adat**, **Bahasa, Budaya, dan Warisan**, **Jejak Sistem Alami**, dan **Tanggung Jawab Antargenerasi** juga dirutekan melalui [Bab Lima *Kesinambungan Adat, Bahasa, Budaya, dan Warisan*](../../core_05.040_band_continuity.md#community-anchored-continuity-indigenous-language-culture-and-heritage) di mana kesinambungan yang berjangkar komunitas, warisan, jejak sistem alami, dan analisis disiplin masa depan berlaku bersama.
 
 </details>
@@ -264,7 +264,7 @@ Bab Lima mendefinisikan kondisi itu di bawah **Prasyarat Lingkungan**. Ketika de
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), dan [§12 Persyaratan Evaluasi Sistemik](../../core_01.005_values_principles.md#12-systemic-evaluation-requirement).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), dan [§12 Persyaratan Evaluasi Sistemik](../../core_01.000_values_principles.md#12-systemic-evaluation-requirement).
 - Baca bersama: [Keselamatan (Batasan)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Kebenaran (Batasan Konstitusional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Prasyarat Lingkungan](../../core_05.040_band_continuity.md#environmental-preconditions), [Kapasitas Pemulihan Ekologis](../../core_05.040_band_continuity.md#ecological-recovery-capacity), [Tanggung Jawab Antargenerasi](../../core_05.040_band_continuity.md#intergenerational-responsibility), dan [Risiko Eksistensial](../../core_05.040_band_continuity.md#existential-risk).
 - Hilir: **Pasal XXVIII-D** (*Tindakan Darurat dan Beban Kelanjutan*) — disiplin anti-dalih dan tinjauan berbatas waktu di mana bingkai risiko eksistensial atau darurat dipanggil.
 
@@ -309,7 +309,7 @@ Bab Lima mendefinisikan kondisi itu di bawah **Prasyarat Lingkungan**. Ketika de
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 Kebenaran](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§16 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](../../core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth), dan [§9.2 Pemahaman Terdistribusi](../../core_01.015_stewardship_capacity_principles.md#161-distributed-understanding).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 Kebenaran](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§16 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth), dan [§9.2 Pemahaman Terdistribusi](../../core_01.010_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
 
@@ -346,7 +346,7 @@ Rincian prosedural bagi **Pasal II** (*Pengelolaan Bertanggung Jawab Material da
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -380,7 +380,7 @@ Rincian prosedural bagi **Pasal II** (*Pengelolaan Bertanggung Jawab Material da
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 Kebenaran](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), dan [§13.1 Prinsip Tukar-Guling Inti](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 Kebenaran](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), dan [§13.1 Prinsip Tukar-Guling Inti](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles).
 
 </details>
 
@@ -414,7 +414,7 @@ Rincian prosedural bagi **Pasal II** (*Pengelolaan Bertanggung Jawab Material da
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), dan [§18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), dan [§18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -445,7 +445,7 @@ Rincian prosedural bagi **Pasal II** (*Pengelolaan Bertanggung Jawab Material da
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Satu §5 Kebebasan](../../core_01.005_values_principles.md#7-freedom-bounded-agency), dan [§18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Satu §5 Kebebasan](../../core_01.000_values_principles.md#7-freedom-bounded-agency), dan [§18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -476,8 +476,8 @@ Rincian prosedural bagi **Pasal II** (*Pengelolaan Bertanggung Jawab Material da
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Baca bersama: [Pasal XXI-A](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights) (*Hak Portabilitas*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*syarat interoperabilitas, portabilitas, dan integritas keluar*) dan **CJS-3.18** (*syarat retensi data dan integritas siklus hidup*); [Bab Satu §19.6 Tanggung Jawab Penerus dan Non-Pelarian Struktur Formal](core_01_c_stewardship_capacity_principles.md#196-mempertahankan-tanggung-jawab-ketika-kepemilikan-atau-struktur-berubah); [Bab Sembilan §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) dan [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Baca bersama: [Pasal XXI-A](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) (*Hak Portabilitas*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*syarat interoperabilitas, portabilitas, dan integritas keluar*) dan **CJS-3.18** (*syarat retensi data dan integritas siklus hidup*); [Bab Satu §19.6 Tanggung Jawab Penerus dan Non-Pelarian Struktur Formal](core_01_c_stewardship_capacity_principles.md#196-mempertahankan-tanggung-jawab-ketika-kepemilikan-atau-struktur-berubah); [Bab Sembilan §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) dan [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -533,7 +533,7 @@ Rincian prosedural bagi **Pasal II** (*Pengelolaan Bertanggung Jawab Material da
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Baca bersama: **Pasal I** (*Kelangsungan Hidup Lingkungan*), **Pasal II** (*Pengelolaan Bertanggung Jawab Material dan Integritas Penggunaan Tahan*), dan Bab Lima di mana kelangsungan hidup, akses pendidikan, pemeliharaan jasmani, atau kondisi kerja secara material menjadi isu.
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional), dan [§16 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](../../core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional), dan [§16 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
 
 </details>
 
@@ -562,20 +562,20 @@ Pasal ini menyatakan **lantai konstitusional** bagi kelangsungan hidup dan akses
 
   Aturan itu boleh menstruktur pengiriman. Mereka tidak boleh dipakai untuk mengalahkan akses minimum ke pokok kelangsungan hidup atau untuk memaksakan pengecualian yang menyinggung bertentangan dengan **Pasal III** dan **VI**.
   - Orientasi fiskal rinci — termasuk aturan bahwa biaya dan pungutan tidak boleh meruntuhkan akses minimum ke masukan yang relevan bagi kelangsungan hidup — diatur oleh [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), dan **CI-11** (*Resource stewardship and incentive integrity*).
-  - Ketika sistem yang secara material diandalkan makhluk sadar memasok, mendistribusikan, menetapkan harga, menempatkan, atau memotong akses ke pokok kelangsungan hidup, [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) di bawah [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) berlaku — dan proses sistem itu tidak boleh dipakai untuk mengecilkan hak yang dinyatakan di sini.
+  - Ketika sistem yang secara material diandalkan makhluk sadar memasok, mendistribusikan, menetapkan harga, menempatkan, atau memotong akses ke pokok kelangsungan hidup, [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) di bawah [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) berlaku — dan proses sistem itu tidak boleh dipakai untuk mengecilkan hak yang dinyatakan di sini.
   - Pasal ini tidak meresepkan satu model pendanaan. Pekerjaan, kewirausahaan, pertukaran sukarela, dan kegiatan ekonomi sah lain di atas setiap lantai kelangsungan hidup tetap diizinkan, tunduk pada Bab Satu, Bab Enam, dan instrumen terinkorporasi — termasuk `corpus_systems.md` di mana sistem komersial penstrukturan pasar atau berdampak-tinggi berlaku.
 
 
 <a id="article-iii-a-survival"></a>
-- **Sistem yang diandalkan:** Jika sistem yang secara material diandalkan makhluk sadar memasok, mendistribusikan, menetapkan harga, menempatkan, atau memutus akses ke hal yang dilindungi Pasal ini — pokok kelangsungan hidup, layanan pemeliharaan jasmani dan kesehatan, atau kondisi kerja produktif — [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) berlaku berdasarkan [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Proses sistem tersebut tidak boleh mempersempit Lantai Hak dalam Pasal ini.
+- **Sistem yang diandalkan:** Jika sistem yang secara material diandalkan makhluk sadar memasok, mendistribusikan, menetapkan harga, menempatkan, atau memutus akses ke hal yang dilindungi Pasal ini — pokok kelangsungan hidup, layanan pemeliharaan jasmani dan kesehatan, atau kondisi kerja produktif — [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) berlaku berdasarkan [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Proses sistem tersebut tidak boleh mempersempit Lantai Hak dalam Pasal ini.
 
 #### Pasal III-A: Kelangsungan Hidup
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), dan [Bab Satu §5 Kebebasan](../../core_01.005_values_principles.md#7-freedom-bounded-agency).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), dan [Bab Satu §5 Kebebasan](../../core_01.000_values_principles.md#7-freedom-bounded-agency).
 - Baca bersama: keluarga pengukuran Berkembang (*akses lantai kelangsungan hidup sebagai pengukuran konstitusional*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **partisipasi** dalam jalur alokasi dan gugatan, **pengawasan** dan audit, **pertanggungjawaban** dan pemulihan, **ketepatan waktu** di bawah **Pasal XXVI-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — **Berkembang** (akses pokok kelangsungan hidup) dan **Kesinambungan** (pasokan tahan dan pengiriman non-regresif).
-- Hilir: [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) dan [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) di mana sistem memagari atau menopang pengiriman; **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*); **Pasal XIX-B** (*Dapat Digugat dan Batas Pembatasan yang Proporsional*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- Hilir: [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) dan [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) di mana sistem memagari atau menopang pengiriman; **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*); **Pasal XIX-B** (*Dapat Digugat dan Batas Pembatasan yang Proporsional*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -618,7 +618,7 @@ Rujukan silang: **Pasal XXVIII-D** (*Properti dan Sistem Tidak Patuh; Insentif P
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Satu §5 Kebebasan](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§5.1 Disiplin Pembatasan](../../core_01.005_values_principles.md#71-limitation-discipline).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Satu §5 Kebebasan](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§5.1 Disiplin Pembatasan](../../core_01.000_values_principles.md#71-limitation-discipline).
 - Hilir: lantai martabat **Pasal VI-A** (*Martabat dan Kedudukan Moral yang Setara*), lantai non-intrusi kepemilikan diri **Pasal VII-A** (*Kepemilikan Diri atas Tubuh dan Pikiran*), nondiskriminasi **Pasal VI-C** (*Nondiskriminasi*).
 - Baca bersama: Bab Lima *Akses Pemeliharaan Jasmani*, *Keadilan Substantif*, *Ciri Dilindungi*; [§3.7 *Akses Pemeliharaan Jasmani, Kondisi Aman, Kesinambungan Hunian, Prasyarat Lingkungan, Kesinambungan Budaya, Istirahat, dan Lantai Anti-Pemindahan*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (di mana akses perawatan, kesinambungan lantai kelangsungan hidup, kondisi partisipasi yang aman, istirahat atau pemulihan, kesinambungan hunian, lingkungan operasi esensial, prasyarat lingkungan, atau kesinambungan terikat-tempat secara material tersangkut bersama).
 
@@ -666,7 +666,7 @@ Rujukan silang: **Pasal XXVIII-D** (*Properti dan Sistem Tidak Patuh; Insentif P
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Satu §5 Kebebasan](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§5.1 Disiplin Pembatasan](../../core_01.005_values_principles.md#71-limitation-discipline), [§11.1.3 Penerapan Pengelolaan Bertanggung Jawab dan Operator](../../core_01.015_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Satu §5 Kebebasan](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§5.1 Disiplin Pembatasan](../../core_01.000_values_principles.md#71-limitation-discipline), [§11.1.3 Penerapan Pengelolaan Bertanggung Jawab dan Operator](../../core_01.010_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
 - Hilir: lantai kelangsungan hidup **Pasal III-A** (*Kelangsungan Hidup*) (baca-di-atas, bukan pengganti), akses pendidikan **Pasal IV-A** (*Akses Pendidikan yang Setara*), martabat **Pasal VI-A** (*Martabat dan Kedudukan Moral yang Setara*), nondiskriminasi **Pasal VI-C** (*Nondiskriminasi*), asosiasi bebas **Pasal X-C** (*Hak Peran dan Partisipasi Pihak Terdampak*), keandalan **Pasal XIII-A** (*Lantai Keandalan dan Keterpercayaan*) (sejauh menanggung kondisi aman), jejak dan partisipasi **Pasal XIX** (*Jejak dan Status Partisipasi*), non-konsentrasi **Bab Satu §13** (tegas: §6 sendiri tidak memenuhi lantai ini).
 - Baca bersama: Bab Lima *Kompensasi Adil*, *Organisasi Kolektif*, *Kondisi Aman*, *Lantai Anti-Pemindahan*, *Waktu Luang dan Istirahat*, *Kesinambungan Adat*, dan *Bahasa, Budaya, dan Warisan*; [§3.7 *Akses Pemeliharaan Jasmani, Kondisi Aman, Kesinambungan Hunian, Prasyarat Lingkungan, Kesinambungan Budaya, Istirahat, dan Lantai Anti-Pemindahan*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (di mana kelangsungan hidup, akses pemeliharaan jasmani, kesinambungan hunian, istirahat, kondisi kerja yang aman, anti-pemindahan, prasyarat lingkungan, atau kesinambungan terikat-tempat secara material tersangkut bersama); [Bab Lima *Berkumpul, organisasi kolektif, dan pembentukan kelembagaan*](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation) (di mana jalur berkumpul dan organisasi kolektif tersangkut bersama). Perutean implementasi: `corpus_institutions.md` CI-9 / CI-10 / CI-11 materi fiskal; `corpus_systems.md` CS-5 profil keselamatan bagi *Kondisi Aman*.
 
@@ -768,7 +768,7 @@ Upaya yang sah mengikuti Tetrad Konstitusional dan sebanding dengan kepentingan 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 Kebenaran](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), dan [Bab Satu §5 Kebebasan](../../core_01.005_values_principles.md#7-freedom-bounded-agency).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 Kebenaran](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), dan [Bab Satu §5 Kebebasan](../../core_01.000_values_principles.md#7-freedom-bounded-agency).
 
 </details>
 
@@ -797,7 +797,7 @@ Upaya yang sah mengikuti Tetrad Konstitusional dan sebanding dengan kepentingan 
 - **Orientasi manfaat publik:** Pendidikan hendaknya mempersiapkan makhluk sadar untuk menerapkan pengetahuan dengan cara yang:
   - memajukan kesejahteraan kolektif dan integritas ekologis;
   - memajukan koordinasi yang jujur di infosfer;
-  - ikut serta dalam tata kelola berdasarkan Konstitusi ini dan dalam sistem tempat mereka memiliki peran pemangku kepentingan (lihat [Peran dan Hak Partisipasi Pemangku Kepentingan](../../core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights));
+  - ikut serta dalam tata kelola berdasarkan Konstitusi ini dan dalam sistem tempat mereka memiliki peran pemangku kepentingan (lihat [Peran dan Hak Partisipasi Pemangku Kepentingan](../../core_06.005_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights));
   - mengurangi bahaya yang dapat dihindari.
 
   Isi pembangunan kemampuan, pembelajaran seumur hidup dan adaptif, dan persyaratan transparansi bagi sistem pendidikan yang berdampak material muncul di **Pasal IV** (*Hak atas Pendidikan yang Berpusat pada Makhluk Sadar*).
@@ -817,7 +817,7 @@ Jika evolusi sistem secara material mengubah kompetensi yang diperlukan, makhluk
 Jika sekolah, platform, atau sistem pelatihan dapat secara material memengaruhi masa depan makhluk sadar melalui nilai, peringkat, rekomendasi, atau penempatan, makhluk sadar harus dapat melihat cara keputusan dibuat, meminta pemeriksaan, dan menggugatnya jika keliru. Sistem tidak boleh bersembunyi di balik aturan rahasia yang tak dapat ditinjau atau menekan maupun menipu makhluk sadar agar memilih sesuatu yang tidak akan dipilihnya secara bebas.
 
 
-- **Jaminan kelembagaan dan sistem yang diandalkan:** Jaminan kelembagaan **Pasal III** (*Kelangsungan Hidup dan Akses Esensial*) — mekanisme fiskal dan alokasi yang sah serta orientasi fiskal yang dirujuknya — dapat digunakan untuk menjamin pendidikan, tetapi tidak boleh menggagalkan lantai dalam Pasal ini. Jika sistem yang secara material diandalkan makhluk sadar memasok, menetapkan harga, menempatkan, atau memutus akses pendidikan, [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) berlaku berdasarkan [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); prosesnya tidak boleh mempersempit Lantai Hak.
+- **Jaminan kelembagaan dan sistem yang diandalkan:** Jaminan kelembagaan **Pasal III** (*Kelangsungan Hidup dan Akses Esensial*) — mekanisme fiskal dan alokasi yang sah serta orientasi fiskal yang dirujuknya — dapat digunakan untuk menjamin pendidikan, tetapi tidak boleh menggagalkan lantai dalam Pasal ini. Jika sistem yang secara material diandalkan makhluk sadar memasok, menetapkan harga, menempatkan, atau memutus akses pendidikan, [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) berlaku berdasarkan [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); prosesnya tidak boleh mempersempit Lantai Hak.
 
 - **Transparansi dan keberatan dalam sistem pembelajaran:** Jika sekolah, platform, atau pelatihan berdampak material pada masa depan makhluk sadar melalui nilai, peringkat, rekomendasi, atau penempatan, mereka harus dapat mengetahui cara keputusan dibuat, meminta pemeriksaan, dan menggugat kesalahan. Sistem tidak boleh berlindung di balik aturan rahasia yang tak dapat ditinjau atau menekan maupun mengelabui mereka agar memilih sesuatu yang tidak dipilih secara bebas.
 
@@ -827,7 +827,7 @@ Jika sekolah, platform, atau sistem pelatihan dapat secara material memengaruhi 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§8 Tafsir Konstitusional](../../core_01.010_interaction_interpretation.md#15-constitutional-interpretation), [§11 Keselarasan Insentif dan Penguasaan Sistem](core_01_c_stewardship_capacity_principles.md#19-penyelarasan-insentif-dan-penguasaan-sistem), dan [§9 Kapasitas Sistem Bersama](../../core_01.005_values_principles.md#9-shared-system-capacity).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keselamatan](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§8 Tafsir Konstitusional](../../core_01.005_interaction_interpretation.md#15-constitutional-interpretation), [§11 Keselarasan Insentif dan Penguasaan Sistem](core_01_c_stewardship_capacity_principles.md#19-penyelarasan-insentif-dan-penguasaan-sistem), dan [§9 Kapasitas Sistem Bersama](../../core_01.000_values_principles.md#9-shared-system-capacity).
 
 </details>
 
@@ -857,15 +857,15 @@ Persyaratan itu melindungi infrastruktur bersama dan sistem yang bergantung pada
 
 *Tetangga pasal:*
 
-- **Ketika sertifikasi berlaku:** Ketika sistem yang berdampak material mengalokasikan, merutekan, mendanai, atau mengekstraksi dari infrastruktur bersama atau ketergantungan dasar yang diandalkan sistem atau makhluk sadar lain, [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) di bawah [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) berlaku.
-  - **Kelas menentukan kedalaman pemeriksaan:** Seberapa dekat sistem diperiksa bergantung pada [kelas sistem](../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation), yang ditetapkan dari apa yang benar-benar dilakukan sistem, seberapa besar sistem lain bergantung padanya, dan seberapa buruk kemungkinan kegagalannya—bukan dari sebutan operator.
-  - **Kelas lebih tinggi, bukti lebih kuat:** Semakin tinggi kelas, semakin kuat bukti bahwa sistem [memberi dukungan yang sepadan](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation), dan pemeriksaan ulang semakin sering.
+- **Ketika sertifikasi berlaku:** Ketika sistem yang berdampak material mengalokasikan, merutekan, mendanai, atau mengekstraksi dari infrastruktur bersama atau ketergantungan dasar yang diandalkan sistem atau makhluk sadar lain, [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) di bawah [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) berlaku.
+  - **Kelas menentukan kedalaman pemeriksaan:** Seberapa dekat sistem diperiksa bergantung pada [kelas sistem](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation), yang ditetapkan dari apa yang benar-benar dilakukan sistem, seberapa besar sistem lain bergantung padanya, dan seberapa buruk kemungkinan kegagalannya—bukan dari sebutan operator.
+  - **Kelas lebih tinggi, bukti lebih kuat:** Semakin tinggi kelas, semakin kuat bukti bahwa sistem [memberi dukungan yang sepadan](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation), dan pemeriksaan ulang semakin sering.
   - **Pertumbuhan memerlukan reklasifikasi:** Jika sistem lain menjadi lebih bergantung padanya, sistem itu harus direklasifikasi dan disertifikasi ulang pada kelas yang lebih tinggi.
 - **Mempertahankan sertifikasi:** Sertifikasi bukan izin permanen. Untuk mempertahankannya, sistem harus terus memenuhi **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) dan **Pasal V-B** (*Keadilan Lintas-Sistem dan Keberlanjutan*).
   - **Yang harus terus dilakukan:** Memutakhirkan peta ketergantungan dan catatan aliran sumber daya, serta terus memberi kontribusi yang adil atas sumber daya yang digunakan.
-  - **Bukti, bukan janji:** Setiap catatan sertifikasi harus menunjukkan bahwa hal ini benar-benar [diperiksa](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), bukan sekadar diklaim.
+  - **Bukti, bukan janji:** Setiap catatan sertifikasi harus menunjukkan bahwa hal ini benar-benar [diperiksa](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), bukan sekadar diklaim.
   - **Tidak ada pengganti:** Pengakuan resmi atau ketergantungan yang telah berlangsung lama tidak menggantikan pemenuhan persyaratan ini.
-  - **Konsekuensi:** Jika sistem menyembunyikan atau menyatakan keliru aliran sumber dayanya, atau terus mengambil lebih banyak daripada yang dikembalikannya, sertifikasinya dapat diberi syarat, dibuka kembali, atau dicabut berdasarkan [Bab Sembilan §7 Hasil Sertifikasi](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes).
+  - **Konsekuensi:** Jika sistem menyembunyikan atau menyatakan keliru aliran sumber dayanya, atau terus mengambil lebih banyak daripada yang dikembalikannya, sertifikasinya dapat diberi syarat, dibuka kembali, atau dicabut berdasarkan [Bab Sembilan §7 Hasil Sertifikasi](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 - **Non-substitusi:** Pengakuan atau ketergantungan yang dilanjutkan tidak dapat menggantikan kepatuhan **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) atau **Pasal V-B** (*Keadilan Lintas-Sistem dan Keberlanjutan*) atau mengecilkan lantai itu.
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -873,9 +873,9 @@ Persyaratan itu melindungi infrastruktur bersama dan sistem yang bergantung pada
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [§18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [§18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Baca bersama: keluarga pengukuran Kesinambungan (*Ketergantungan dan aliran sumber daya sebagai pengukuran konstitusional*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **pengawasan** melalui peta ketergantungan yang transparan dan catatan aliran sumber daya yang dapat diaudit, **partisipasi** dalam tinjauan yang dapat digugat di bawah **Pasal XVI-A** (*Dapat Diaudit dan Bukti yang Dapat Diamati*); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — **Berkembang** (alokasi biaya-dan-manfaat yang terlihat) dan **Kesinambungan** (visibilitas ketergantungan yang tahan lintas sistem yang berubah).
-- Hilir: [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) dan [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) di mana sistem mengalokasikan, merutekan, mendanai, atau mengekstraksi dari infrastruktur bersama atau ketergantungan dasar; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), dan **CS-8** (*Adaptive sustainability and ecosystem resilience*).
+- Hilir: [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) dan [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) di mana sistem mengalokasikan, merutekan, mendanai, atau mengekstraksi dari infrastruktur bersama atau ketergantungan dasar; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), dan **CS-8** (*Adaptive sustainability and ecosystem resilience*).
 
 </details>
 
@@ -897,7 +897,7 @@ Persyaratan itu melindungi infrastruktur bersama dan sistem yang bergantung pada
   - aliran sumber daya;
   - hubungan non-transparan atau tidak simetris di mana secara material relevan.
 
-  Pembaruan harus terjadi pada interval yang sepadan dengan perubahan dan kekritisan. Representasi itu harus tersedia untuk audit di bawah **Pasal XVI-A** (*Dapat Diaudit dan Bukti yang Dapat Diamati*). Di mana sistem secara material mengalokasikan, merutekan, mendanai, atau mengekstraksi dari infrastruktur bersama atau ketergantungan dasar, [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) di bawah [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) harus menilai apakah mereka memenuhi **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) — pada **Catatan Sertifikasi Sistem** yang dapat digugat, bukan semata pada pernyataan operator.
+  Pembaruan harus terjadi pada interval yang sepadan dengan perubahan dan kekritisan. Representasi itu harus tersedia untuk audit di bawah **Pasal XVI-A** (*Dapat Diaudit dan Bukti yang Dapat Diamati*). Di mana sistem secara material mengalokasikan, merutekan, mendanai, atau mengekstraksi dari infrastruktur bersama atau ketergantungan dasar, [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) di bawah [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) harus menilai apakah mereka memenuhi **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*) — pada **Catatan Sertifikasi Sistem** yang dapat digugat, bukan semata pada pernyataan operator.
 
   Mekanika operasional — peta sistem bergantung, transparansi aliran, kategori alokasi, dan penyesuaian adaptif — dirutekan di bawah **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), dan **CS-8** (*Adaptive sustainability and ecosystem resilience*). Bab Sembilan menyatakan apa yang harus diverifikasi dan dicatat sertifikasi; teks implementasi itu mengimplementasikan lantai ini dan tidak boleh mempersempitnya.
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -907,10 +907,10 @@ Persyaratan itu melindungi infrastruktur bersama dan sistem yang bergantung pada
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§13.1 Prinsip Tukar-Guling Inti](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Sembilan §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Baca bersama: [*Arsitektur Tata Kelola, Pengawasan, Ketergantungan, Desentralisasi, Konsentrasi, Struktur Pasar, dan Integritas Jalur Keluar*](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration) (pemanggilan bersama di mana konsentrasi, pengawasan, ketergantungan, struktur wewenang yang memerintah, atau perutean insentif berpotongan dengan **§5** / **§5** dan disiplin *Interaksi ambang konsentrasi* dalam teks operatif di bawah).
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **partisipasi** dalam jalur gugatan dan sanggahan, **pengawasan** dan audit, **pertanggungjawaban** dan tinjauan korektif, **ketepatan waktu** di bawah **Pasal XXVI-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — **Berkembang** (keadilan lintas-sistem dan non-ekstraksi) dan **Kesinambungan** (keberlanjutan jangka panjang dan pendanaan ekosistem).
-- Hilir: [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) dan [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) di mana keadilan lintas-sistem, pendanaan ekosistem, atau ekstraksi persisten dari infrastruktur bersama secara material menjadi isu.
+- Hilir: [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) dan [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) di mana keadilan lintas-sistem, pendanaan ekosistem, atau ekstraksi persisten dari infrastruktur bersama secara material menjadi isu.
 - Pintu pengelola (non-operatif): Pernyataan langkah-berikutnya yang mengikat: [Pernyataan pengelola operatif](#operative-steward-statement-cross-system-contribution). Penunjuk pendukung tidak dapat mempersempitnya.
 
 </details>
@@ -948,12 +948,12 @@ Persyaratan itu melindungi infrastruktur bersama dan sistem yang bergantung pada
   - investasi-ulang ekosistem bagi infrastruktur bersama dan interoperabilitas yang diandalkan sistem yang mengekstraksi; dan
   - ofset atau pemulihan beban ekologis di mana [Jejak Ekologis](../../core_05.040_band_continuity.md#ecological-footprint) material dikenakan dan ketentuan konstitusional, berkas implementasi, atau instrumen adopsi lain menuntut tindakan.
 
-  Bandingkan arus masuk dan keluar pada peta sistem bergantung dan catatan aliran sumber daya yang dapat diaudit di bawah **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*). Di mana sistem yang berdampak material mengalokasikan, merutekan, mendanai, atau mengekstraksi dari infrastruktur bersama, nilai kecukupan melalui [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) di bawah [Bab Sembilan](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Mekanika alokasi operasional dirutekan di bawah **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), dan **CS-8** (*Adaptive sustainability and ecosystem resilience*); lapisan itu mengimplementasikan lantai ini dan tidak boleh mempersempitnya.
+  Bandingkan arus masuk dan keluar pada peta sistem bergantung dan catatan aliran sumber daya yang dapat diaudit di bawah **Pasal V-A** (*Pemetaan Ketergantungan dan Transparansi Aliran Sumber Daya*). Di mana sistem yang berdampak material mengalokasikan, merutekan, mendanai, atau mengekstraksi dari infrastruktur bersama, nilai kecukupan melalui [Sertifikasi Keselarasan Sistem](../../core_05.040_band_continuity.md#system-alignment-certification) di bawah [Bab Sembilan](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Mekanika alokasi operasional dirutekan di bawah **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), dan **CS-8** (*Adaptive sustainability and ecosystem resilience*); lapisan itu mengimplementasikan lantai ini dan tidak boleh mempersempitnya.
 
 Ketidakseimbangan persisten yang secara material mengancam keselarasan konstitusional tetap terbuka untuk audit berdasarkan **Pasal XVI-A** (*Auditabilitas dan Bukti yang Dapat Diamati*) dan gugatan berdasarkan **Pasal XIII-A** (*Dasar Keandalan dan Keterpercayaan*), terlepas dari apakah sertifikasi sedang berlangsung.
 - **Interaksi ambang konsentrasi pasar:** Pengaturan alokasi sumber daya yang menghasilkan atau menjaga konsentrasi kekayaan, kekuasaan, kendali, atau kesempatan dengan cara yang secara terprediksi menurunkan kesejahteraan, keagenan, martabat, atau integritas ekologis bagi makhluk sadar lain melibatkan:
   - **lantai non-konsentrasi Bab Satu §13**;
-  - disiplin **[§13.1 Mekanisme Ambang Konsentrasi Pasar](../../core_01.005_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)**.
+  - disiplin **[§13.1 Mekanisme Ambang Konsentrasi Pasar](../../core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)**.
 
   Ambang operasional yang dapat disetel pihak yang mengadopsi diizinkan di dalam lantai. Rezim ambang yang ditetapkan untuk meniadakan lantai adalah tidak patuh. Contoh rezim yang meniadakan:
   - ambang yang secara terprediksi tidak pernah mengikat;
@@ -970,4 +970,4 @@ Ketidakseimbangan persisten yang secara material mengancam keselarasan konstitus
 
 **Berkas berikutnya (bahasa ini):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**Sumber mengikat:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
+**Sumber mengikat:** [core_06_rights_part_a.md](../../core_06.000_rights_part_a.md)

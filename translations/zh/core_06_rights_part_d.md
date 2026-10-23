@@ -319,9 +319,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: [Article XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Read with: [Article XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
@@ -347,9 +347,9 @@ flowchart TB
   - 当存在相关义务和能力时，资格与锁定评估须考虑默许参与以及未能抵制违法或违宪指令的情况，并与**第五章**（*集体问责失灵*）一致。
 - **资格锁定：**[资格锁定](../../core_05.035_band_accountability.md#standing-lock)是能力许可的限制性对应机制。在经核实的违规认定尚未解决或尚未得到实质补救时，锁定可阻止或限制信任、角色、权限、信用、监督、认可、**治理投票**或**利益相关方参与**路径。限制后果仅适用于具名特权路径；经核实的风险确有需要时，隔离特定场所、网络或感知者须遵守[隔离界限](../../core_11.000_standing_integration.md#51-separation-limits)。
   - 资格锁定不是尊严等级、权利底线削减、自动报复或合并功绩分数。
-  - 锁定须明确被阻止的访问、受保护的人或事、解除锁定所需的纠正条件、复审路径和重新评估时间；并须依照[第 XIX-B 条](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)做到必要、合比例、可审计且可争议。
+  - 锁定须明确被阻止的访问、受保护的人或事、解除锁定所需的纠正条件、复审路径和重新评估时间；并须依照[第 XIX-B 条](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)做到必要、合比例、可审计且可争议。
   - 能力许可不能豁免适用中的资格锁定；良好贡献不能抹去尚未解决的已核实违规认定。
-  - 投票路径锁定和三种特殊锁定的附加规则见[第 XIX-E 条](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks)。
+  - 投票路径锁定和三种特殊锁定的附加规则见[第 XIX-E 条](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks)。
   - 资格锁定不能取代个别化的司法程序，也**不会单独**限制迁徙、避难、可移植性或退出（[第 XXI 条](#article-xxi-interoperability-portability-and-exit-integrity)和[第 XXII 条](#第-xxii-条-迁徙移民避难和非无国籍状态)）。
 - **使锁定与损害相称：**锁定须符合经核实损害的严重程度、其保护的具体角色或特权，以及补救进展。
   - **既往贡献：**只有在其表明感知者能够补救、维持保障或避免重犯，或者在重新评估时支持较轻限制的情况下，才可予以考虑。既往贡献不得抵消、豁免、平均降低或取代尚未解决的损害认定。
@@ -380,7 +380,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
+- 上游：原则：第一章 [§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 - 下游： [第十章§4](core_09_standing_integration.md#4-violation-correction-and-prevention) （*违规、纠正和预防*）； [第十一章§4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) （*正当程序保障、补救和预防*）。
 
 </details>
@@ -412,7 +412,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [第一章 §3.3 防降级处理](core_01_a_values_principles.md#33-防止贬损的程序)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
+- 上游：原则：第一章 [§4 安全](../../core_01.000_values_principles.md#4-safety-harm-constraint), [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [第一章 §3.3 防降级处理](core_01_a_values_principles.md#33-防止贬损的程序)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 - 下游： [第十章§4](core_09_standing_integration.md#4-violation-correction-and-prevention) （*违规、纠正和预防*）； [第 XX-B 条](#第-xx-b-条限制底线)。
 - 阅读： [残酷](../../core_05.035_band_accountability.md#cruelty) （*第五章是反虐待地板的“以痛苦为终点”标准的家园*）。
 
@@ -664,11 +664,11 @@ flowchart TB
 - **优先采用开放格式：**系统应优先使用开放格式、接口和协议。重大影响和依赖程度越高，义务越强。
 - **开放的含义：**完整规范须公开；任何人都可以无需许可、费用或版税予以实现；且任何单一方不得单方面更改，或者该方停止支持时，其他人能够自由分叉并继续维护。未满足任一条件的有文档格式在本款下属于封闭格式，但仍优于没有文档的格式。
 - **分层义务：**
-  - **退出：**[Article XXI-A](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights)规定的导出和迁移路径，在开放格式能够承载数据且不会实质损失结构、元数据、关系或保真度时，至少须提供一种开放格式。
-  - **互操作：**[Article XXI-B](../../core_06.020_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries)规定的集成边界默认须采用开放标准和协议；只有依本款获得正当理由时才可采用封闭标准。
+  - **退出：**[Article XXI-A](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights)规定的导出和迁移路径，在开放格式能够承载数据且不会实质损失结构、元数据、关系或保真度时，至少须提供一种开放格式。
+  - **互操作：**[Article XXI-B](../../core_06.015_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries)规定的集成边界默认须采用开放标准和协议；只有依本款获得正当理由时才可采用封闭标准。
   - **内部和原生格式：**系统应优先采用开放格式进行存储和原生工作。封闭格式的理由须随重大影响和依赖程度提高而更加充分。
   - **面向公众的数据：**为公众访问而发布的数据，包括 corpus_systems.md 的 CS-2 所列 O、E、W 类型，默认须采用开放格式发布。
-- **封闭格式的正当理由：**只有在没有开放替代方案能够满足保真度、性能、安全、网络安全、可访问性或专门功能等重大要求时，封闭格式、接口或协议才有正当理由。使用时，系统须以可审计方式记录理由；仍提供现有最佳开放导出方式并披露其损失；充分记录封闭格式以支持迁移，或将文档交由独立托管；并随着开放替代方案成熟定期复审选择，包括每次具有重大影响的认证或重新验证。便利、运营者节省成本或既有市场地位本身均不足以构成理由。若封闭格式的主要效果是阻碍退出或转换，则违反[Article XXI-C](../../core_06.020_rights_part_d.md#article-xxi-c-anti-lock-in-rule)。
+- **封闭格式的正当理由：**只有在没有开放替代方案能够满足保真度、性能、安全、网络安全、可访问性或专门功能等重大要求时，封闭格式、接口或协议才有正当理由。使用时，系统须以可审计方式记录理由；仍提供现有最佳开放导出方式并披露其损失；充分记录封闭格式以支持迁移，或将文档交由独立托管；并随着开放替代方案成熟定期复审选择，包括每次具有重大影响的认证或重新验证。便利、运营者节省成本或既有市场地位本身均不足以构成理由。若封闭格式的主要效果是阻碍退出或转换，则违反[Article XXI-C](../../core_06.015_rights_part_d.md#article-xxi-c-anti-lock-in-rule)。
 - **过渡：**本款首次适用于已经运行的系统时，该系统须公布迁移计划，并原则上在一年内履行互操作、内部格式和公共数据义务。采纳方可通过纳入 Chapter Eighteen 为不同系统类别设定不同期限，并公布理由。只有在特殊情形下，才能依适用的举证责任，以有记录、可审查且有时限的理由延期。退出义务不适用过渡期。
 - **范围与限制：**本款约束系统，不指示个人为其作品使用何种格式，但鼓励优先选择开放格式。开放格式能够满足个人需要时，系统不得强迫其使用封闭格式。开放格式不等于开放内容；保密、加密以及 CS-2 各类数据的处理保护均不受影响。依据 Chapter One §16.3，开放性不得凌驾于 Safety、Truth、正当保密或安全约束之上。
 
@@ -891,7 +891,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§5 真相](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [第九章§3 全体系认证评价](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§5 真相](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [第九章§3 全体系认证评价](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 阅读： [第一章 §5.2 通俗语言可访问性（管理责任）](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务), [§13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-尽量减少可避免负担)， 和 [第一章 C 部分 §16.1 分布式理解](core_01_c_stewardship_capacity_principles.md#161-分布式理解)。
 
 </details>
@@ -923,7 +923,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [第九章§3 全体系认证评价](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18.5 模块化架构和依赖性规则](core_01_c_stewardship_capacity_principles.md#185-模块化架构与依赖纪律)， 和 [第一章 §20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
+- 上游：原则：第一章 [§4 安全](../../core_01.000_values_principles.md#4-safety-harm-constraint), [第九章§3 全体系认证评价](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18.5 模块化架构和依赖性规则](core_01_c_stewardship_capacity_principles.md#185-模块化架构与依赖纪律)， 和 [第一章 §20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 
 </details>
 
@@ -963,7 +963,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 真相](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)， 和 [第九章§3 全体系认证评价](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§4 安全](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 真相](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)， 和 [第九章§3 全体系认证评价](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 阅读： [宪法四联体](core_00_preamble.md#constitutional-tetrad); [两个宪法目标](core_00_preamble.md#two-constitutional-aims) — **芊芊** 和 **连续性**; [可逆性](../../core_05.040_band_continuity.md#reversibility), [风险](../../core_05.040_band_continuity.md#risk)， 和 [系统捕获](../../core_05.040_band_continuity.md#system-capture) 在 **第五章**。
 
 </details>
@@ -1009,7 +1009,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 真相](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)， 和 [第九章§3 全体系认证评价](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§4 安全](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 真相](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)， 和 [第九章§3 全体系认证评价](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1170,7 +1170,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
 - 上游：原则：第一章 [§13.1.5 权利冲突决策测试](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
-- 阅读： [第十章§5.5](core_09_standing_integration.md#55-special-locks) （*论坛披露遗漏和回避流程影响*）； [第十一章 §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) （*命名的不当行为模式*）； [第十二章§2](core_11_forum.md#2-default-venue-and-primary-stakes) 和 [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) （*完整性优先的路由和反自我判断*）。
+- 阅读： [第十章§5.5](core_09_standing_integration.md#55-special-locks) （*论坛披露遗漏和回避流程影响*）； [第十一章 §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) （*命名的不当行为模式*）； [第十二章§2](core_11_forum.md#2-default-venue-and-primary-stakes) 和 [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) （*完整性优先的路由和反自我判断*）。
 
 </details>
 

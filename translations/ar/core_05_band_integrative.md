@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أسفل: المبادئ: [الديباجة §3.3 انضباط طبقات الحوكمة](core_00_preamble.md#33-طبقات-الحوكمة)؛ [الفصل الأول §5 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency).
-- أرضية المالك: [الفصل الثاني عشر: العقد الدستوري والشرعية والترخيص والإدارة المسؤولة](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [المادة X-C: المشاركة في الحوكمة واستحقاق التصويت](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- أرضية المالك: [الفصل الثاني عشر: العقد الدستوري والشرعية والترخيص والإدارة المسؤولة](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [المادة X-C: المشاركة في الحوكمة واستحقاق التصويت](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - مكوّن العنقود: [*طبقة العقد الدستوري والاختيار الدستوري التأسيسي*](core_05_band_integrative.md#طبقة-العقد-الدستوري)
 - يُقرأ مع: [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#الاختيار-الدستوري-التأسيسي)، [الاختيار الملزم للأطراف المتأثرة](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster)، [المشاركة النظامية للأطراف المتأثرة](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)، [الحوكمة](../../core_05.035_band_accountability.md#governance).
 - طبقة: **طبقة العقد الدستوري (CCL)** — من يجوز له أن يحكم، وبأي آلية شرعية، وتحت أي شروط دائمة. متميزة عن **المشاركة النظامية للأطراف المتأثرة (SSP)**.
@@ -123,7 +123,7 @@
     - [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#الاختيار-الدستوري-التأسيسي)؛
     - [آليات الشرعية الموثَّقة](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) تحت [الفصل الثاني عشر §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism)؛
     - قواعد [الاعتماد](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) و[إعادة الترخيص](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) ([الفصل الثاني عشر §1.3](../../core_14.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)؛ [الفصل السادس عشر §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority))؛ و
-    - [أرضية المساواة السياسية](../../core_14.000_governance.md#41-entitlement-and-eligibility) لتكوين سلطة الحكم أو إعادة هيكلتها على نحو دائم — للكائنات الواعية ذات الاستحقاق صوت متساوٍ في تلك الطبقة ([المادة X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
+    - [أرضية المساواة السياسية](../../core_14.000_governance.md#41-entitlement-and-eligibility) لتكوين سلطة الحكم أو إعادة هيكلتها على نحو دائم — للكائنات الواعية ذات الاستحقاق صوت متساوٍ في تلك الطبقة ([المادة X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **خارج النطاق:**
     - الاستشارة العادية للأطراف المتأثرة؛
     - المشاركة التشغيلية؛
@@ -131,7 +131,7 @@
     - الحوكمة العادية للنطاق بعد أن تكون البنى والإجراءات مرخَّصًا لها أصلًا؛ و
     - [وزن الطرف المتأثر](../../core_05.055_band_participation.md#stakeholder-weight) العادي — إعطاء صوت أكبر لمن هم أكثر تأثرًا — مستخدمًا لتثبيت أصوات التأسيس أو إعادة الترخيص ([الديباجة §3.3 انضباط طبقات الحوكمة](core_00_preamble.md#33-طبقات-الحوكمة)).
   - **الموطن التشغيلي:** يبيّن [الفصل الثاني عشر](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) القواعد الملزمة لترخيص هذه الطبقة وشرعيتها وإدارتها المسؤولة.
-  - **أرضية الحقوق:** تبيّن [المادة X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*المشاركة في الحوكمة واستحقاق التصويت*) استحقاق المشاركة المتساوية الذي يجب ألا تضيّقه قواعد الفصل الثاني عشر تلك.
+  - **أرضية الحقوق:** تبيّن [المادة X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*المشاركة في الحوكمة واستحقاق التصويت*) استحقاق المشاركة المتساوية الذي يجب ألا تضيّقه قواعد الفصل الثاني عشر تلك.
 <a id="constitutional-contract-layer-a"></a>
 - **كيف يُقاس ويُقيَّم**
   - **القياس الأولي:** [أسرة قياس المساءلة](core_05_apex_accountability_leg.md#accountability-measurement-family) — *هل تُبقي بنى المكافأة وقوة السوق وواجب الجواب الواجبات حقيقية؟* استخدمها هنا لتسأل هل تقوم سلطة الحكم المدَّعاة على عقد دستوري حقيقي — شرعية موثَّقة وصوت تأسيسي متساوٍ وشروط دائمة تبقى متوائمة مع هذا الدستور — لا مجرد الحجم أو الشعبية أو مدى السوق.
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أسفل: المبادئ: [الفصل الأول §5 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)؛ [6. حل نزاعات الإجراءات](core_05_band_integrative.md).
-- أرضية المالك: [الفصل الثاني عشر الفصل الأول §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*أرضية المساواة السياسية للاختيار الدستوري التأسيسي*؛ *أرضية الصوت السياسي الدائم*)؛ [المادة X-C: المشاركة في الحوكمة واستحقاق التصويت](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- أرضية المالك: [الفصل الثاني عشر الفصل الأول §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*أرضية المساواة السياسية للاختيار الدستوري التأسيسي*؛ *أرضية الصوت السياسي الدائم*)؛ [المادة X-C: المشاركة في الحوكمة واستحقاق التصويت](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - مكوّن العنقود: [*طبقة العقد الدستوري والاختيار الدستوري التأسيسي*](core_05_band_integrative.md#طبقة-العقد-الدستوري)
 - يُقرأ مع: [طبقة العقد الدستوري](core_05_band_integrative.md#طبقة-العقد-الدستوري)، [حدود تمثيل الأطراف المتأثرة ووزنها (الاختيار الملزم للأطراف المتأثرة)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)، [الاختيار الملزم للأطراف المتأثرة](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster)، [الإنصاف الإجرائي](../../core_05.055_band_participation.md#procedural-fairness-constitutional).
 - طبقة: **طبقة العقد الدستوري (CCL)**. متميزة عن **المشاركة النظامية للأطراف المتأثرة (SSP)** داخل أنظمة سبق الترخيص لها.
@@ -177,7 +177,7 @@
 
     هذا ينتمي إلى [طبقة العقد الدستوري](core_05_band_integrative.md#طبقة-العقد-الدستوري).
     - المالك: [الفصل الثاني عشر الفصل الأول §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).
-    - مؤشر طبقة الحقوق: [المادة X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*المشاركة في الحوكمة واستحقاق التصويت*).
+    - مؤشر طبقة الحقوق: [المادة X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*المشاركة في الحوكمة واستحقاق التصويت*).
     - ينطبق تحت [عدم استبعاد الوعي](../../core_05.055_band_participation.md#sentience-non-exclusion).
   - **خارج النطاق:**
     - قرارات الأطراف المتأثرة العادية الموزونة بالأثر متى كان لنطاق بنى وإجراءات حكم مرخَّص لها أصلًا — تحصل الكائنات الواعية المتأثرة على صوت مقيس على كمّ ما يتأثرون به عبر تعيين [الطرف المتأثر](../../core_05.055_band_participation.md#stakeholder) و[وزن الطرف المتأثر](../../core_05.055_band_participation.md#stakeholder-weight) (بما في ذلك قيود **المادة XII** (*المشاركة النظامية للأطراف المتأثرة والتمثيل والإجراءات الواجبة*))، لا عبر قواعد عدّ تأسيسية متساوية الوزن؛ و
@@ -323,7 +323,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أسفل: أسرة قياس المساءلة (*مواءمة الحوافز ونزاهة المؤشرات البديلة بوصفها قياسًا دستوريًا*)؛ المبادئ: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) (انضباط استيلاء الرباعية تحت [§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ القياس بـ[الرهان المادي](core_00_preamble.md#material-stake))؛ [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) و[§10 الحوكمة تحت انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- أسفل: أسرة قياس المساءلة (*مواءمة الحوافز ونزاهة المؤشرات البديلة بوصفها قياسًا دستوريًا*)؛ المبادئ: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) (انضباط استيلاء الرباعية تحت [§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ القياس بـ[الرهان المادي](core_00_preamble.md#material-stake))؛ [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) و[§10 الحوكمة تحت انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - قاعدة طبقة المبادئ: [الفصل الأول §11.1 متطلب المواءمة](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) و[الفصل الأول §11.2 المؤشرات البديلة المريحة وتباعد المؤشرات البديلة](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence)؛ الإدارة المسؤولة وتطبيق المشغّل: [الفصل الأول §11.1.3 الإدارة المسؤولة وتطبيق المشغّل](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) و[§11.1.4 مسارات عمق الدور والمسؤولية المادية](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways).
 - كشف عدم المواءمة: [الفصل الأول §11.3 كشف عدم المواءمة](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection).
 - التصحيح النشط وتصعيد الاستيلاء: [الفصل الأول §11.4 تصحيح عدم المواءمة والاستجابة للاستيلاء](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response).
@@ -621,7 +621,7 @@
 
 - أسفل: المبادئ: [2. التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)؛ [15. التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (رصّة السلطة مقابل التسلسل الداخلي مقروءين مع الفصل الأول).
 - أسفل: [الفصل الأول — §8 التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (القراءة المتكاملة والتسلسل ملاذًا أخيرًا)؛ [الفصل الأول §8.4 حل نزاع معنى الدستور](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*إجراء النزاع الوحيد، بما في ذلك طبقة الإدماج*)؛ [الفصل الرابع عشر — التسلسل الداخلي للمعتمِدين](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)؛ [الفصل السادس عشر](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*جسر الإدماج — الحفظ والطبعات والاعتماد؛ ليس موطن رصّة ثانيًا ولا ترتيب نزاع*).
-- أسفل: [الفصل السادس — نطاق الطبقة](../../core_06.005_rights_part_a.md#12-layer-scope)؛ [الفصل الثالث عشر §4 نطاق الطبقة](../../core_15.000_non_regression.md#4-layer-scope) و[الفصل الخامس عشر §12 نطاق الطبقة](../../core_17.000_amendment_ratification.md#12-layer-scope) (*عدم نقل المالك مطبَّق محليًا*)؛ ادعاءات مالك افتتاح الفصل عبر الصك المرقّم `core_*`.
+- أسفل: [الفصل السادس — نطاق الطبقة](../../core_06.000_rights_part_a.md#12-layer-scope)؛ [الفصل الثالث عشر §4 نطاق الطبقة](../../core_15.000_non_regression.md#4-layer-scope) و[الفصل الخامس عشر §12 نطاق الطبقة](../../core_17.000_amendment_ratification.md#12-layer-scope) (*عدم نقل المالك مطبَّق محليًا*)؛ ادعاءات مالك افتتاح الفصل عبر الصك المرقّم `core_*`.
 - يُقرأ مع: [المتن](core_05_band_integrative.md#المتن)؛ [الديباجة — سجل المالكين الإيجابي](core_00_preamble.md#4-المبادئ-والتعريفات-والحقوق) (*الخريطة الإيجابية مجال→مالك*، الأقسام 4–7)؛ [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) و[قابلية الطعن](../../core_05.035_band_accountability.md#contestability) (*قابلية الإنفاذ العملية للادعاءات الملزمة*)؛ [الديباجة §3.3](core_00_preamble.md#33-طبقات-الحوكمة) و[طبقة العقد الدستوري](core_05_band_integrative.md#طبقة-العقد-الدستوري) (*منع استبدال طبقات الحوكمة*)؛ [القيد الدستوري](core_05_band_integrative.md#القيد-الدستوري)؛ **CJS-0.1** (*موجّه موضوعات التنفيذ*).
 
 </details>
@@ -683,7 +683,7 @@
     - عيّن أولًا سلسلة الطبعة/الحفظ التشغيلية وطبقة المصدر تحت رصّة السلطة.
     - ثم عيّن موطن المالك في [الديباجة — سجل المالكين الإيجابي](core_00_preamble.md#4-المبادئ-والتعريفات-والحقوق) (وادعاء مالك افتتاح الفصل)؛ طبّق الجوهر فقط من موطن المالك ذلك — وفي غيره استخدم مؤشرات فقط.
     - ثم طبّق القراءة المتكاملة تحت [الفصل الأول — §8 التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
-    - احفظ الأثر الحمائي الأتم للدستور كلًّا متكاملًا والافتراضي بعدم التضييق في [الفصل السادس](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights).
+    - احفظ الأثر الحمائي الأتم للدستور كلًّا متكاملًا والافتراضي بعدم التضييق في [الفصل السادس](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights).
     - استخدم التسلسل الداخلي فقط قاعدة متبقية ملاذًا أخيرًا؛ لا تستخدمه لاستبدال القراءة المتكاملة العادية ولا لحل مجرد خلاف حول المعنى القانوني لمصطلح.
     - حيث النزاع معنى مصطلح، يحكم التعريف القانوني في الفصل الخامس في كل طبقة.
     - لموضوعات التنفيذ الموجَّهة عبر CS وCI وCF وCJS، طبّق **CJS-0.1** (موجّه الموضوعات) بعد تعيين المالك.
@@ -703,10 +703,10 @@
     - استخدام لغة طموحية أو ممارسة محلية لإزاحة التزامات المتن الملزمة داخل نطاقها الصحيح من المصدر وطبقة الحوكمة؛
     - إعادة بيان موضوعية لالتزامات طبقة مالكة داخل طبقة مالكة أخرى، بما في ذلك رفع نثر توجيه القارئ إلى أثر تشغيلي؛
     - معاملة لغة المحفّز أو الإحالة أو التصعيد في فصول الصحة أو الحوكمة حق تصنيف نهائي أو جزاء حيث تحفظ الطبقة المالكة تلك السلطة للفصول من الثامن إلى العاشر؛
-    - استخدام إطار إجراءات أو حوكمة أو تنفيذ لتضييق أرضيات حقوق [الفصل السادس](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) أو إعادة تعريفها أو نقلها خلافًا لعدم تراجع [الفصل الثالث عشر](../../core_15.000_non_regression.md) وعقد افتتاح الفصل السادس؛
+    - استخدام إطار إجراءات أو حوكمة أو تنفيذ لتضييق أرضيات حقوق [الفصل السادس](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) أو إعادة تعريفها أو نقلها خلافًا لعدم تراجع [الفصل الثالث عشر](../../core_15.000_non_regression.md) وعقد افتتاح الفصل السادس؛
     - اختراع تصنيفات أو تدفقات عمل موازية في طبقات غير مالكة حين يعيّن [سجل مالكي الديباجة](core_00_preamble.md#4-المبادئ-والتعريفات-والحقوق) موطنًا قانونيًا أصلًا؛
     - ادّعاء سمو أو امتثال على نحو يعكس تراتب المصدر القائم، أو يدع التنفيذ أو نص الدعم أو الترتيب الخاص أو إطار الطوارئ أو الممارسة التشغيلية تزيح التزامات المتن الملزمة داخل نطاقها الصحيح؛
-    - استخدام التسلسل الداخلي اختصارًا لاختيار قراءة أغلظ، أو لضغط حمايات أرضية حقوق [الفصل السادس](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) خارج ما يأذن به [الفصل الأول](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) صراحة، أو لمبادلة طبقة مصدر بأخرى في القراءة العادية؛
+    - استخدام التسلسل الداخلي اختصارًا لاختيار قراءة أغلظ، أو لضغط حمايات أرضية حقوق [الفصل السادس](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) خارج ما يأذن به [الفصل الأول](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) صراحة، أو لمبادلة طبقة مصدر بأخرى في القراءة العادية؛
     - معاملة تعريفات الفصل الخامس جسم حق منافس ينسخ المبادئ أو المواد ([الفصل الأول — §8 التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation))؛ أو
     - للمعتمِدين، معاملة نص التنفيذ المعتمَد كأنّه ينسخ هذا الدستور داخل نطاق الاعتماد، أو كأنّه يرخّي أرضيات عدم التراجع في [الفصل الثالث عشر](../../core_15.000_non_regression.md) ([التسلسل الداخلي للمعتمِدين](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) في **الفصل الرابع عشر**).
 

@@ -121,18 +121,18 @@ The sub-rules below apply that cluster minimum to specific anti-concentration, d
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](../core_01.005_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) (1.005 §11.1); [Market Concentration Threshold](../core_05.035_band_accountability.md#market-concentration-threshold).
+- Upstream: [Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](../core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) (1.000 §11.1); [Market Concentration Threshold](../core_05.035_band_accountability.md#market-concentration-threshold).
 - Downstream:
-  - [Chapter Twelve §5](../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.010 §5) where concentration-based subversion is at issue;
+  - [Chapter Twelve §5](../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.005 §5) where concentration-based subversion is at issue;
   - [CJS-5.125 §11.2](cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Anti-domination conduct and remediation catalog*) (banned domination conduct and remedies);
   - [CJS-5.125 §11.3](cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (*Consolidation ceiling-setting discipline (adopter-tunable)*) (how to set the consolidation ceiling);
-  - [Chapter One §11.2 Pro-Competition and Anti-Domination](../core_01.005_values_principles.md#112-pro-competition-and-anti-domination) (1.005 §11.2);
-  - [Chapter One §11.3 Consolidation Ceiling](../core_01.005_values_principles.md#113-consolidation-ceiling) (1.005 §11.3).
+  - [Chapter One §11.2 Pro-Competition and Anti-Domination](../core_01.000_values_principles.md#112-pro-competition-and-anti-domination) (1.000 §11.2);
+  - [Chapter One §11.3 Consolidation Ceiling](../core_01.000_values_principles.md#113-consolidation-ceiling) (1.000 §11.3).
 - Read with:
-  - [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.010 §13.2.4);
-  - [Article I-D](../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
-  - [Article XIII-A](../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
-  - [Article XIV-A](../core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
+  - [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4);
+  - [Article I-D](../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
+  - [Article XIII-A](../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
+  - [Article XIV-A](../core_06.010_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 </details>
 
 <br>
@@ -143,14 +143,14 @@ Adopters must define [Market Concentration Threshold](../core_05.035_band_accoun
 
 - **Requirement preservation:** No adopter-set threshold may sit above a level at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that level is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
 - **Substance over form:** Thresholds judge substantive concentration, not headcount of legal entities. In scope where they produce concentrated material effect without formal concentration: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, and comparable indirection. Aggregation through federated structures to evade the threshold is non-compliant.
-- **Anti-nullification:** Adopter-tunable does **not** mean adopter-optional. Non-compliant nullifications of the floor under [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation) include:
+- **Anti-nullification:** Adopter-tunable does **not** mean adopter-optional. Non-compliant nullifications of the floor under [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) include:
   - thresholds set so high they foreseeably never bind;
   - thresholds paired with unused or unusable enforcement tools; and
   - threshold regimes that produce no actual review or intervention.
 - **Heightened scrutiny:** When concentration meaningfully touches any of the following, that article's tougher standards still apply — even when ordinary concentration thresholds have not been crossed:
-  - [Article I-D](../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*): existential risk and ecological recovery capacity;
-  - [Article XIII-A](../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*): whether systems can be relied on; and
-  - [Article XIV-A](../core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*): limits on hidden or covert power.
+  - [Article I-D](../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*): existential risk and ecological recovery capacity;
+  - [Article XIII-A](../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*): whether systems can be relied on; and
+  - [Article XIV-A](../core_06.010_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*): limits on hidden or covert power.
 
 <a id="market-concentration-threshold-activation"></a>
 Market-concentration threshold activation
@@ -177,30 +177,30 @@ Market-concentration threshold activation
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter One §11.2 Pro-Competition and Anti-Domination](../core_01.005_values_principles.md#112-pro-competition-and-anti-domination) (1.005 §11.2) (
-  - [§11.2.2 Anti-Domination Prohibitions (Don'ts)](../core_01.005_values_principles.md#1122-anti-domination-prohibitions-donts) principle-layer prohibitions;
-  - [Chapter One §11.2.3 Remedies](../core_01.005_values_principles.md#1123-remedies) (1.005 §11.2.3) principle-layer remedy direction);
+  - [Chapter One §11.2 Pro-Competition and Anti-Domination](../core_01.000_values_principles.md#112-pro-competition-and-anti-domination) (1.000 §11.2) (
+  - [§11.2.2 Anti-Domination Prohibitions (Don'ts)](../core_01.000_values_principles.md#1122-anti-domination-prohibitions-donts) principle-layer prohibitions;
+  - [Chapter One §11.2.3 Remedies](../core_01.000_values_principles.md#1123-remedies) (1.000 §11.2.3) principle-layer remedy direction);
   - [Market Structure](../core_05.035_band_accountability.md#market-structure).
-- Downstream: [Chapter Twelve §5](../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.010 §5) where concentration-based subversion is at issue; [Chapter Twelve §5.2](../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) (12.010 §5.2) where mobility-restriction or waiver conduct is at issue; [Chapter One §11.3 Consolidation Ceiling](../core_01.005_values_principles.md#113-consolidation-ceiling) (1.005 §11.3).
+- Downstream: [Chapter Twelve §5](../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.005 §5) where concentration-based subversion is at issue; [Chapter Twelve §5.2](../core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) (12.005 §5.2) where mobility-restriction or waiver conduct is at issue; [Chapter One §11.3 Consolidation Ceiling](../core_01.000_values_principles.md#113-consolidation-ceiling) (1.000 §11.3).
 - Read with:
   - [CJS-5.125 §11.1](#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (*Market concentration threshold-setting discipline (adopter-tunable)*);
   - **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*);
-  - [Article III-C](../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) (labor mobility Rights Floor);
-  - [Article XXI](../core_06.020_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*);
-  - [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.010 §13.2.4).
+  - [Article III-C](../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) (labor mobility Rights Floor);
+  - [Article XXI](../core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*);
+  - [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4).
 </details>
 
 <br>
 
 *In plain terms: this is the operational checklist for domination-shaped conduct and the remedy toolbox that restores contestability — not a ban on being large or innovative.*
 
-When market-structuring arrangements breach the [Chapter One §11 Market Structure](../core_01.005_values_principles.md#11-market-structure) requirements or produce durable domination under **§11.2** (*Pro-Competition and Anti-Domination*), evaluators must reach substantive conduct — not formal entity count or nominal market openness. Illustrative prohibited domination patterns include:
+When market-structuring arrangements breach the [Chapter One §11 Market Structure](../core_01.000_values_principles.md#11-market-structure) requirements or produce durable domination under **§11.2** (*Pro-Competition and Anti-Domination*), evaluators must reach substantive conduct — not formal entity count or nominal market openness. Illustrative prohibited domination patterns include:
 
 - exclusionary dealing, predatory foreclosure, discriminatory access, or retaliatory dependency cutoff;
 - tying, bundling, ranking, reputation, identity, credentialing, or payment practices that defeat meaningful choice or market entry without **Necessity** and **Proportionality**;
 - coercive lock-in, interoperability suppression, data-portability suppression, interface capture, or switching-cost design that materially defeats exit (read with **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*) and **Article XXI** (*Interoperability, Portability, and Exit Integrity*));
-- labor-market or supplier monopsony, wage-fixing, excessive non-solicitation, or functionally equivalent mobility-restricting terms that suppress fair bargaining or productive mobility (labor-mobility categorical prohibitions: [Article III-C](../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*); misconduct routing: [Chapter Twelve §5.2 Rights-Floor waivers and unconstitutional contract terms](../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms));
-- killer acquisitions, serial acquisitions, federation, ownership, licensing, patent, capital-access, or contracting structures that materially reduce potential competition or preserve dominance by removing contestable entrants (read with [Chapter One §11.3 Consolidation Ceiling](../core_01.005_values_principles.md#113-consolidation-ceiling));
+- labor-market or supplier monopsony, wage-fixing, excessive non-solicitation, or functionally equivalent mobility-restricting terms that suppress fair bargaining or productive mobility (labor-mobility categorical prohibitions: [Article III-C](../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*); misconduct routing: [Chapter Twelve §5.2 Rights-Floor waivers and unconstitutional contract terms](../core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms));
+- killer acquisitions, serial acquisitions, federation, ownership, licensing, patent, capital-access, or contracting structures that materially reduce potential competition or preserve dominance by removing contestable entrants (read with [Chapter One §11.3 Consolidation Ceiling](../core_01.000_values_principles.md#113-consolidation-ceiling));
 - collusive coordination, information exchange, common control, interlocking governance, or settlement arrangements that suppress rivalry, bargaining alternatives, or independent accountability;
 - self-preferencing by gatekeepers where it forecloses rivals, dependent participants, public-interest alternatives, or constitutionally required review pathways;
 - shell, successor, cross-domain, or federated restructuring that preserves substantive domination while clearing nominal concentration tests (read with **CJS-5.125 §11.1** (*Market concentration threshold-setting discipline (adopter-tunable)*) substance-over-form discipline).
@@ -233,9 +233,9 @@ Remedies must be proportionate to the concentration, dependency, conduct, and co
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](../core_01.005_values_principles.md#1132-consolidation-ceiling-mechanism-adopter-tunable) (1.005 §11.3.2); [Chapter One §11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_01.005_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment) (1.005 §11.3.1); [Market Structure](../core_05.035_band_accountability.md#market-structure).
-- Downstream: [Chapter Twelve §5](../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.010 §5) where concentration-based subversion is at issue; [CJS-5.125 §11.2](cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Anti-domination conduct and remediation catalog*) (remedy catalog on ceiling breach).
-- Read with: [CJS-5.125 §11.1](cjs_05.125_accountability_operations.md#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (*Market concentration threshold-setting discipline (adopter-tunable)*); [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.010 §13.2.4); [Article III-C](../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*).
+- Upstream: [Chapter One §11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](../core_01.000_values_principles.md#1132-consolidation-ceiling-mechanism-adopter-tunable) (1.000 §11.3.2); [Chapter One §11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_01.000_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment) (1.000 §11.3.1); [Market Structure](../core_05.035_band_accountability.md#market-structure).
+- Downstream: [Chapter Twelve §5](../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.005 §5) where concentration-based subversion is at issue; [CJS-5.125 §11.2](cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Anti-domination conduct and remediation catalog*) (remedy catalog on ceiling breach).
+- Read with: [CJS-5.125 §11.1](cjs_05.125_accountability_operations.md#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (*Market concentration threshold-setting discipline (adopter-tunable)*); [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4); [Article III-C](../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*).
 </details>
 
 <br>
@@ -254,13 +254,13 @@ Ceiling design must follow evidence about how the domain actually works. Adopter
   - control over essential inputs, interfaces, standards, credentials, payments, data, compute, logistics, or other chokepoints;
   - interoperability barriers, portability barriers, self-preferencing, ranking control, and cross-domain leverage.
 
-Read the cross-domain and federated-structure risk patterns in [Chapter One §11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_01.005_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment) when designing either ceiling type. Either ceiling type must account for dependency density, switching costs, lock-in, availability of practical substitutes, and ecological burden concentration or control over environmental preconditions where materially relevant.
+Read the cross-domain and federated-structure risk patterns in [Chapter One §11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_01.000_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment) when designing either ceiling type. Either ceiling type must account for dependency density, switching costs, lock-in, availability of practical substitutes, and ecological burden concentration or control over environmental preconditions where materially relevant.
 
 Crossing an adopted consolidation ceiling creates a rebuttable presumption of non-compliance and triggers heightened review. The presumption may be rebutted only with clear, reviewable evidence that the consolidation is necessary, proportionate, and consistent with Chapter Four evidence duties; that any scale benefit traces to constitutional outcomes; and that the consolidation does not materially degrade contestability, Rights-Floor protections, labor mobility, fair bargaining, ecological integrity, interoperability, exit, or constitutional accountability. Where feasible, rebuttal must include time bounds, periodic revalidation, and analysis of less-consolidating alternatives.
 
 Remedies for crossing a consolidation ceiling must be proportionate under **CJS-5.125 §11.2** (*Anti-domination conduct and remediation catalog*), including where applicable merger limits, acquisition standstill, and structural separation tailored to consolidation-ceiling breach.
 
-Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the [Chapter One §11 Market Structure](../core_01.005_values_principles.md#11-market-structure) requirements, the **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*) threshold mechanism, or **§11.2** (*Pro-Competition and Anti-Domination*) anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices stay low is non-compliant under **Proxy-Divergence Invalidation**.
+Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the [Chapter One §11 Market Structure](../core_01.000_values_principles.md#11-market-structure) requirements, the **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*) threshold mechanism, or **§11.2** (*Pro-Competition and Anti-Domination*) anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices stay low is non-compliant under **Proxy-Divergence Invalidation**.
 
 <a id="consolidation-ceiling-setting-discipline-adopter-tunable"></a>
 consolidation ceiling-setting discipline (adopter-tunable)
@@ -452,7 +452,7 @@ Stewardship-role depth and non-symbolic governance boundary
 - Read with: **CJS-5.130 §17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5)**
+- Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5)**
 - Read with: **`corpus_forum.md` CF-13.450 (*Forum continuity*) through CF-13.460 (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
@@ -625,10 +625,10 @@ Restriction-burden assignment minimum
 <a id="rights-collision-and-alternative-selection-record"></a>
 Rights-collision and alternative-selection record
 
-*In plain terms: when restrictions are justified by conflict among rights or duties, the record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review…*
+*In plain terms: when restrictions are justified by conflict among rights or duties, the record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review…*
 
 - **What it is**
-  - **In scope:** When restrictions are justified by conflict among rights or duties, the record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
+  - **In scope:** When restrictions are justified by conflict among rights or duties, the record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in rights-collision and alternative-selection record.
 <a id="rights-collision-and-alternative-selection-record-a"></a>
 - **How to measure and assess**
@@ -637,7 +637,7 @@ Rights-collision and alternative-selection record
     **Primary assessment:** Evaluation must verify enough detail to test principle-based decision-making, least-restrictive selection, and the availability of ordinary or emergency forum review.
 <a id="rights-collision-and-alternative-selection-record-c"></a>
 - **What must hold**
-  - **Primary failure:** A restriction justified by rights conflict if it lacks the [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
+  - **Primary failure:** A restriction justified by rights conflict if it lacks the [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
 
 <a id="substantive-showing-and-least-restrictive-proof"></a>
 Substantive showing and least-restrictive proof
@@ -1250,7 +1250,7 @@ Material classification-record honesty (correction, precautionary default, and n
 
 *In plain terms: when a material class, type, or status file is wrong or incomplete, fix it honestly — default protectively under uncertainty, and do not quietly dial protections down without evidence and review. This shared discipline applies across owner-layer classification files; CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*), CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*), and peers keep domain-specific anti-evasion lists and field contents.*
 
-Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive — including the [System Classification Record](../core_05.040_band_continuity.md#system-classification-record), the [System Data Types Record](../core_05.040_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*), **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*), and peers). How System Alignment Certification treats resulting defects lives under **Chapter Nine** and **[Part B §7](../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)**.
+Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive — including the [System Classification Record](../core_05.040_band_continuity.md#system-classification-record), the [System Data Types Record](../core_05.040_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*), **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*), and peers). How System Alignment Certification treats resulting defects lives under **Chapter Nine** and **[Part B §7](../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)**.
 
 - **What it is**
   - **In scope:** Operators must keep material classification records honest. When understatement, evasion, or misclassification is found, **correct** the record, apply proportional requirements **retroactively** where appropriate, and take corrective action for resulting harm or exposure. Do **not** split, modularize, fragment, re-label, or otherwise restructure just to dodge a stronger applicable classification. Where the record is incomplete, ambiguous, or contested, apply the owner-layer **rights-protective / highest-plausible** default, and state any precautionary finding and pending conditions **in the record**. **Lowering** a protective classification, dropping certification conditions, or claiming lighter duties requires evidence, documentation, and successful review — an internal self-clear alone does **not** defeat a timely contest (**CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*)).

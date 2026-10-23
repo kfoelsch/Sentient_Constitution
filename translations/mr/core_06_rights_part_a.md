@@ -6,7 +6,7 @@
 
 > खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
 >
-> ही फाइल [इंग्रजी अध्याय सहा, भाग अ](../../core_06.005_rights_part_a.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
+> ही फाइल [इंग्रजी अध्याय सहा, भाग अ](../../core_06.000_rights_part_a.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_06_rights_part_a.md`](../../core_06.000_rights_part_a.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
 > **अध्याय सहा, भाग अ** धरते; अनुच्छेद क्रमांकन आणि परस्पर-संदर्भ एकात्मिक साधनाशी जुळतात.
 >
@@ -46,7 +46,7 @@
 - वरून: [अध्याय एक §6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#१३-घटनतमक-सघरष-नरकरण-परकरय); [अध्याय एक §6.1.5 अधिकार-टक्कर प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - वरून: [अध्याय एक §19 प्रोत्साहन संरेखन आणि प्रणाली ताबा](core_01_c_stewardship_capacity_principles.md#19-परतसहन-सरखन-आण-परणलच-कबजकरण).
 - वरून: अध्याय दोन ते चार; अध्याय पाच व्याख्या.
-- पुढे: या अध्यायाचे **भाग अ ते ड**; [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- पुढे: या अध्यायाचे **भाग अ ते ड**; [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - पुढे: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 स्तर व्याप्ती](#12-सतर-वयपत).
 - सोबत वाचा: [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#owner-non-relocation) आणि [प्रस्तावना — संवैधानिक मालक नोंदणी](core_00_preamble.md#4-तततव-वयखय-आण-अधकर); [अनुच्छेद XIII-B](core_06_rights_part_c.md#अनचछद-xiii-b-नवरण-आण-उपयच-हकक) (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*).
 - सोबत वाचा: [अनुच्छेद XV](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*लेखापरीक्षण, पारदर्शकता, आणि स्वतंत्र सत्यापन*).
@@ -87,13 +87,13 @@
 
 अधिकार-तळ कागदावर नव्हे तर व्यवहारात काम करायला हवा. **अनुच्छेद III-A** (*जीवनरक्षा*) खालील जीवित आवश्यक — अन्न, पाणी, आश्रय, चालन पर्यावरण, आणि तुलनायोग्य आधार-निरपेक्ष निविष्टी — सर्वात स्पष्ट उदाहरण आहेत. **समुन्नतीला** त्या आवश्यक वस्तूंचा खरा प्रवेश हवा. **सातत्याला** कालांतराने विश्वासार्ह, अवनती-निरोधक पुरवठा हवा, विशेषतः जिथे सामायिक प्रणाली वितरण नियंत्रित करतात.
 
-[प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) भौतिक-प्रभावी प्रणाली प्रमाणावर मान्यता किंवा अवलंब होण्यापूर्वी संरेखित आहेत का ते सत्यापित करतात. अध्याय सात प्रमाणन-अभिलेख आव्हानयोग्यता, प्रभावित पक्ष आणि सुलभता समीक्षा, देखरेख क्रम, आणि प्रणाली-संरेखन निर्णयांसाठी आव्हान मार्गही पुरवतो. **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) आव्हान आणि लेखापरीक्षण अधिकार पुरवतो. **अनुच्छेद XX-C** (*आव्हानयोग्यता आणि प्रमाणबद्ध प्रतिबंध मर्यादा*) प्रस्थिति मर्यादांना जीवित-महत्त्वाच्या प्रवेशाभोवती मागचा दरवाजा बनू देत नाही. एकत्र, [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) आणि [अध्याय आठ–अकरा प्रस्थिति आणि मंच देखरेख शृंखला](../../README.md#standing-pipeline-and-forums) आव्हानयोग्यता, सत्यापित वर्गीकरण, मंच देखरेख, आणि समयबद्ध उपचारासाठी मुख्य व्यावहारिक प्रक्रिया शृंखला बनवतात. त्या यंत्रणा अध्याय सहा अंमलात आणण्यास मदत करतात. त्या येथे सांगितलेल्या अधिकारांची जागा घेत नाहीत, आकुंचित करत नाहीत, किंवा स्थलांतरित करत नाहीत.
+[प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) भौतिक-प्रभावी प्रणाली प्रमाणावर मान्यता किंवा अवलंब होण्यापूर्वी संरेखित आहेत का ते सत्यापित करतात. अध्याय सात प्रमाणन-अभिलेख आव्हानयोग्यता, प्रभावित पक्ष आणि सुलभता समीक्षा, देखरेख क्रम, आणि प्रणाली-संरेखन निर्णयांसाठी आव्हान मार्गही पुरवतो. **अनुच्छेद XIII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*) आव्हान आणि लेखापरीक्षण अधिकार पुरवतो. **अनुच्छेद XX-C** (*आव्हानयोग्यता आणि प्रमाणबद्ध प्रतिबंध मर्यादा*) प्रस्थिति मर्यादांना जीवित-महत्त्वाच्या प्रवेशाभोवती मागचा दरवाजा बनू देत नाही. एकत्र, [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) आणि [अध्याय आठ–अकरा प्रस्थिति आणि मंच देखरेख शृंखला](../../README.md#standing-pipeline-and-forums) आव्हानयोग्यता, सत्यापित वर्गीकरण, मंच देखरेख, आणि समयबद्ध उपचारासाठी मुख्य व्यावहारिक प्रक्रिया शृंखला बनवतात. त्या यंत्रणा अध्याय सहा अंमलात आणण्यास मदत करतात. त्या येथे सांगितलेल्या अधिकारांची जागा घेत नाहीत, आकुंचित करत नाहीत, किंवा स्थलांतरित करत नाहीत.
 
 **अर्थनिर्णय केंद्र.** अधिक विशिष्ट अनुच्छेद वेगळा नियम पुरवत नसेल, तर पुनरावृत्त मुद्दे या अँकरांमधून जातात:
 
 **अधिकार-तळ आणि पुरवठा**
 - **जीवित आवश्यक आणि ती पोहोचता येणारी ठेवणे** — **अनुच्छेद III-A** (*जीवनरक्षा*); **अनुच्छेद XX-C** (*आव्हानयोग्यता आणि प्रमाणबद्ध प्रतिबंध मर्यादा*) जेणेकरून प्रस्थिति मर्यादा प्रवेश अडवू शकणार नाहीत; आव्हान किंवा लेखापरीक्षण लागू असेल तिथे **अनुच्छेद XIII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*) आणि **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता, आणि स्वतंत्र सत्यापन*) सोबत वाचा
-- **प्रणाली-संरेखन प्रमाणन** — [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **प्रणाली-संरेखन प्रमाणन** — [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **सत्यापन आणि निवारण**
 - **लेखापरीक्षण अभिलेख आणि स्वतंत्र सत्यापन** — **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता, आणि स्वतंत्र सत्यापन*) **अध्याय दोन ते चार** सोबत
@@ -101,7 +101,7 @@
 
 **विवाद आणि समयबद्ध प्रक्रिया**
 - **न्याय, परतफेड, प्रतिबंध सीमा, आणीबाणी, आणि अधिकार टक्करी** — **अनुच्छेद XXIII** (*संघर्ष निराकरण, तीव्रता, आणि आणीबाणी प्रमाणबद्धता*); [अध्याय एक §6.1.5 अधिकार-टक्कर प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **मुख्य व्यावहारिक प्रक्रिया शृंखला** — **अनुच्छेद XXVI-C** (*समयबद्ध निराकरण आणि विलंब-विरोधी तळ*); [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **मुख्य व्यावहारिक प्रक्रिया शृंखला** — **अनुच्छेद XXVI-C** (*समयबद्ध निराकरण आणि विलंब-विरोधी तळ*); [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 या अध्यायात इतरत्र त्या विषयांकडे छोटे परस्पर-संदर्भ हे अँकर समाविष्ट करतात.
 
@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md), [§3.1 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md), [§3.1 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 - [संज्ञता-अवर्जन](../../core_05.055_band_participation.md#sentience-non-exclusion) · [O](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion-c)
 </details>
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 ज्ञानविषयक प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#132-जञनवषयक-परकटकरणवरल-मरयद), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 ज्ञानविषयक प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#132-जञनवषयक-परकटकरणवरल-मरयद), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -347,9 +347,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#131-मखय-तडजड-तततव), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#131-मखय-तडजड-तततव), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
-- Read with: [Chapter Nine §5.1 Ecological Footprint Evaluation](../../core_09.005_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) and [§5.6 Trustworthiness and System-Reliance Integrity Evaluation](../../core_09.005_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (where a materially impactful system is certified, lifecycle burdens and lifecycle representations are evaluated there; this Article does not itself require certification).
+- Read with: [Chapter Nine §5.1 Ecological Footprint Evaluation](../../core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) and [§5.6 Trustworthiness and System-Reliance Integrity Evaluation](../../core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (where a materially impactful system is certified, lifecycle burdens and lifecycle representations are evaluated there; this Article does not itself require certification).
 
 </details>
 
@@ -483,7 +483,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#131-मखय-तडजड-तततव), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#131-मखय-तडजड-तततव), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - सोबत वाचा: [अनुच्छेद XXI-A](core_06_rights_part_d.md#अनचछद-xxi-a-वहनकषमतच-हकक) (*सुवाह्यता अधिकार*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — माहिती प्रकार आणि हाताळणी**; **CJS-3.17** (*आंतरकार्यक्षमता, सुवाह्यता, आणि निर्गमन-सचोटी अटी*) आणि **CJS-3.18** (*डेटा-धारण आणि जीवनचक्र-सचोटी अटी*); [अध्याय एक §19.6 उत्तराधिकारी जबाबदारी आणि औपचारिक-संरचना पलायन-निरोध](core_01_c_stewardship_capacity_principles.md); [अध्याय नऊ §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) आणि [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -561,7 +561,7 @@
 
 - वरून: तत्त्वे: अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md), [§3.1 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), आणि [अध्याय एक §5 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency).
 - सोबत वाचा: समुन्नती मापन कुटुंब (*संवैधानिक मापन म्हणून जीवनरक्षा-तळ प्रवेश*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — वाटप आणि आव्हान नामित मार्गांतील **सहभाग**, **देखरेख** आणि लेखापरीक्षण, **उत्तरदायित्व** आणि निवारण, **अनुच्छेद XXVI-C** (*समयबद्ध निराकरण आणि विलंब-विरोधी तळ*) खाली **समयबद्धता**; [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** (जीवित-आवश्यक प्रवेश) आणि **सातत्य** (टिकाऊ पुरवठा आणि अवनती-निरोधक वितरण).
-- पुढे: प्रणाली वितरण द्वार करतील किंवा टिकवतील तिथे [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **अनुच्छेद XIII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*); **अनुच्छेद XX-C** (*आव्हानयोग्यता आणि प्रमाणबद्ध प्रतिबंध मर्यादा*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- पुढे: प्रणाली वितरण द्वार करतील किंवा टिकवतील तिथे [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **अनुच्छेद XIII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*); **अनुच्छेद XX-C** (*आव्हानयोग्यता आणि प्रमाणबद्ध प्रतिबंध मर्यादा*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -602,7 +602,7 @@
 
   ते नियम वितरण रचू शकतात. ते जीवित आवश्यकांचा न्यूनतम प्रवेश पराभूत करण्यासाठी किंवा **अनुच्छेद III** आणि **V** विरुद्ध द्वेषपूर्ण वगळणी लादण्यासाठी वापरता कामा नयेत.
   - तपशीलवार राजकोषीय दिशा — शुल्क आणि आकार जीवित-संबंधित निविष्टींचा न्यूनतम प्रवेश खिळखिळा करू नयेत हा नियम धरून — [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*वर्गीकरण-संलग्न संस्थात्मक कर्तव्ये*), **CI-10** (*सार्वजनिक महसूल, शुल्क, आवर्ती आकार, आणि बिलिंग सचोटी*), आणि **CI-11** (*संसाधन उत्तरदायी व्यवस्थापन आणि प्रोत्साहन सचोटी*) शासित करतात.
-  - संज्ञ प्राणी भौतिक रीतीने अवलंबून असलेल्या प्रणाली जीवित आवश्यकांचा पुरवठा, वाटप, किंमत, यजमानत्व, किंवा प्रवेश कापतील तेव्हा [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) खाली लागू होते — आणि त्या प्रणालींच्या प्रक्रिया येथे सांगितलेले अधिकार आकुंचित करण्यासाठी वापरता येत नाहीत.
+  - संज्ञ प्राणी भौतिक रीतीने अवलंबून असलेल्या प्रणाली जीवित आवश्यकांचा पुरवठा, वाटप, किंमत, यजमानत्व, किंवा प्रवेश कापतील तेव्हा [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) खाली लागू होते — आणि त्या प्रणालींच्या प्रक्रिया येथे सांगितलेले अधिकार आकुंचित करण्यासाठी वापरता येत नाहीत.
   - हा अनुच्छेद एकच वित्त नमुना विहित करत नाही. रोजगार, उद्यमशीलता, स्वैच्छिक विनिमय, आणि इतर कायदेशीर आर्थिक क्रियाकलाप कोणत्याही जीवनरक्षा तळावर परवानगी राहतात, अध्याय एक, अध्याय सहा, आणि समाविष्ट साधनांच्या अधीन — बाजार-रचना किंवा उच्च-प्रभाव व्यावसायिक प्रणाली लागू असतील तिथे `corpus_systems.md` धरून.
 
 परस्पर-संदर्भ: **अनुच्छेद XXVIII-D** (*अनुपालन-भंग मालमत्ता आणि प्रणाली; स्वैच्छिक सुपूर्दगी प्रोत्साहने*) संक्रमणापार आवश्यक-पर्यावरण सातत्यासाठी संक्रमण-उत्तरदायी-व्यवस्थापन शिस्त — संक्रियात्मक तपशील [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) ते **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives) मध्ये; **अध्याय पाच** [*अधिभोग सातत्य*](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional), [*आवश्यक-पर्यावरण वस्तुकरण-निषेध*](../../core_05.040_band_continuity.md#essential-environment-non-commodification-constitutional), आणि लागू असेल तिथे [**§3.7** *शारीरिक-देखभाल पोहोच, सुरक्षित अटी, अधिभोग सातत्य, पर्यावरणीय पूर्वअटी, सांस्कृतिक सातत्य, विश्रांती, आणि विस्थापन-निरोध तळ*](../../core_05.040_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) येथील संयुक्त-आवाहन समूह.
@@ -834,7 +834,7 @@
 
 *शेजारी अनुच्छेद:*
 
-- **प्रमाणन कधी लागू होते:** भौतिक-प्रभावी प्रणाली इतर प्रणाली किंवा संज्ञ प्राणी अवलंबून असलेल्या सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वांचे वाटप, मार्गनिर्देशन, वित्त, किंवा काढणी करतील तेव्हा [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) खाली लागू होते.
+- **प्रमाणन कधी लागू होते:** भौतिक-प्रभावी प्रणाली इतर प्रणाली किंवा संज्ञ प्राणी अवलंबून असलेल्या सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वांचे वाटप, मार्गनिर्देशन, वित्त, किंवा काढणी करतील तेव्हा [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) खाली लागू होते.
 - **अ-प्रतिस्थापन:** मान्यता किंवा चालू अवलंब **अनुच्छेद V-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) किंवा **अनुच्छेद V-B** (*आंतर-प्रणाली न्याय्यपणा आणि टिकाऊपणा*) अनुपालनाची जागा घेऊ शकत नाही किंवा ते तळ आकुंचित करू शकत नाही.
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -845,9 +845,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - सोबत वाचा: सातत्य मापन कुटुंब (*संवैधानिक मापन म्हणून अवलंबित्व आणि संसाधन प्रवाह*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — पारदर्शक अवलंबित्व नकाशे आणि लेखापरीक्षण-योग्य संसाधन-प्रवाह अभिलेखांद्वारे **देखरेख**, **अनुच्छेद XVI-A** (*लेखापरीक्षण-योग्यता आणि प्रेक्षणीय पुरावा*) खाली आव्हानयोग्य समीक्षेतील **सहभाग**; [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** (दृश्य खर्च-आणि-लाभ वाटप) आणि **सातत्य** (बदलत्या प्रणालीपार टिकाऊ अवलंबित्व दृश्यता).
-- पुढे: प्रणाली सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वांचे वाटप, मार्गनिर्देशन, वित्त, किंवा काढणी करतील तिथे [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*संसाधन वाटप आणि वित्त उत्तरदायी व्यवस्थापन*), आणि **CS-8** (*अनुकूलन टिकाऊपणा आणि परिसंस्था लवचिकता*).
+- पुढे: प्रणाली सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वांचे वाटप, मार्गनिर्देशन, वित्त, किंवा काढणी करतील तिथे [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*संसाधन वाटप आणि वित्त उत्तरदायी व्यवस्थापन*), आणि **CS-8** (*अनुकूलन टिकाऊपणा आणि परिसंस्था लवचिकता*).
 
 </details>
 
@@ -869,12 +869,12 @@
   - संसाधन प्रवाह;
   - भौतिक रीतीने संबंधित असतील तिथे अ-पारदर्शक किंवा असमान नाते.
 
-  अद्यतने बदल आणि महत्त्वाच्या प्रमाणात अंतराने व्हायला हवीत. ही प्रतिनिधित्व **अनुच्छेद XVI-A** (*लेखापरीक्षण-योग्यता आणि प्रेक्षणीय पुरावा*) खाली लेखापरीक्षणासाठी उपलब्ध हवीत. प्रणाली सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वांचे भौतिक रीतीने वाटप, मार्गनिर्देशन, वित्त, किंवा काढणी करेल, तर [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) खाली त्या **अनुच्छेद V-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) पूर्ण करतात का ते मूल्यमापन करायला हवे — आव्हानयोग्य **प्रणाली प्रमाणन अभिलेखावर**, फक्त संचालक प्रतिपादनावर नाही.
+  अद्यतने बदल आणि महत्त्वाच्या प्रमाणात अंतराने व्हायला हवीत. ही प्रतिनिधित्व **अनुच्छेद XVI-A** (*लेखापरीक्षण-योग्यता आणि प्रेक्षणीय पुरावा*) खाली लेखापरीक्षणासाठी उपलब्ध हवीत. प्रणाली सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वांचे भौतिक रीतीने वाटप, मार्गनिर्देशन, वित्त, किंवा काढणी करेल, तर [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) खाली त्या **अनुच्छेद V-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) पूर्ण करतात का ते मूल्यमापन करायला हवे — आव्हानयोग्य **प्रणाली प्रमाणन अभिलेखावर**, फक्त संचालक प्रतिपादनावर नाही.
 
   संक्रियात्मक यांत्रिकी — अवलंबित-प्रणाली नकाशे, प्रवाह पारदर्शकता, वाटप श्रेणी, आणि अनुकूलन समायोजन — **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*संसाधन वाटप आणि वित्त उत्तरदायी व्यवस्थापन*), आणि **CS-8** (*अनुकूलन टिकाऊपणा आणि परिसंस्था लवचिकता*) खाली जातात. अध्याय सात प्रमाणनाने काय सत्यापित आणि अभिलेखित करायला हवे ते सांगतो; ते अंमलबजावणी पाठ हा तळ अंमलात आणतात आणि तो आकुंचित करू नयेत.
 
-- **प्रमाणन आणि पुरावा:** सामायिक पायाभूत सुविधा किंवा मूलभूत अवलंबित्वांचे वाटप, मार्गीकरण, निधीपुरवठा किंवा वापर करणाऱ्या महत्त्वपूर्ण प्रणालींनी [अध्याय नऊ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) अंतर्गत प्रमाणन घ्यावे. वर्गानुसार तपासणीची खोली व पुराव्याची ताकद वाढते; अभिलेखात पडताळणी दाखवावी. प्रवाह लपवणे किंवा चुकीचे मांडणे दोष आहे; प्रमाणन सशर्त, पुन्हा उघडले किंवा मागे घेतले जाऊ शकते.
-- **तपासणी व परिणाम:** [अध्याय नऊ §5.3](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) प्रमाणानुसार तपासणी ठरवते. उणीव प्रमाणन-दोष ठरू शकते आणि [§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) नुसार परिणाम होऊ शकतात.
+- **प्रमाणन आणि पुरावा:** सामायिक पायाभूत सुविधा किंवा मूलभूत अवलंबित्वांचे वाटप, मार्गीकरण, निधीपुरवठा किंवा वापर करणाऱ्या महत्त्वपूर्ण प्रणालींनी [अध्याय नऊ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) अंतर्गत प्रमाणन घ्यावे. वर्गानुसार तपासणीची खोली व पुराव्याची ताकद वाढते; अभिलेखात पडताळणी दाखवावी. प्रवाह लपवणे किंवा चुकीचे मांडणे दोष आहे; प्रमाणन सशर्त, पुन्हा उघडले किंवा मागे घेतले जाऊ शकते.
+- **तपासणी व परिणाम:** [अध्याय नऊ §5.3](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) प्रमाणानुसार तपासणी ठरवते. उणीव प्रमाणन-दोष ठरू शकते आणि [§7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) नुसार परिणाम होऊ शकतात.
 
 
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -882,10 +882,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#131-मखय-तडजड-तततव), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#131-मखय-तडजड-तततव), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - सोबत वाचा: [*शासन वास्तुकला, देखरेख, अवलंबित्व, विकेंद्रीकरण, संकेंद्रण, बाजार रचना, आणि निर्गमन-मार्ग सचोटी*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (संकेंद्रण, देखरेख, अवलंबित्व, शासन-प्राधिकार संरचना, किंवा प्रोत्साहन मार्गनिर्देशन खालील संक्रियात्मक पाठातील **§5** / **§5** आणि *संकेंद्रण-उंबरठा परस्परक्रिया* शिस्तीशी छेदतील तिथे संयुक्त आवाहन).
 - सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — आव्हान आणि आव्हान नामित मार्गांतील **सहभाग**, **देखरेख** आणि लेखापरीक्षण, **उत्तरदायित्व** आणि सुधारक समीक्षा, **अनुच्छेद XXVI-C** (*समयबद्ध निराकरण आणि विलंब-विरोधी तळ*) खाली **समयबद्धता**; [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** (आंतर-प्रणाली न्याय्यपणा आणि अ-काढणी) आणि **सातत्य** (दीर्घकालीन टिकाऊपणा आणि परिसंस्था वित्त).
-- पुढे: आंतर-प्रणाली न्याय्यपणा, परिसंस्था वित्त, किंवा सामायिक पायाभूत सुविधांपासून सतत काढणी भौतिक रीतीने प्रश्नात असेल तिथे [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- पुढे: आंतर-प्रणाली न्याय्यपणा, परिसंस्था वित्त, किंवा सामायिक पायाभूत सुविधांपासून सतत काढणी भौतिक रीतीने प्रश्नात असेल तिथे [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - व्यवस्थापक द्वार (असंक्रियात्मक): बंधनकारक पुढील-पाऊल विधान: [संक्रियात्मक व्यवस्थापक विधान](#operative-steward-statement-cross-system-contribution). आधार निर्देशक ते आकुंचित करू शकत नाहीत.
 
 </details>
@@ -923,7 +923,7 @@
   - काढणी करणारी प्रणाली अवलंबून असलेल्या सामायिक पायाभूत सुविधा आणि आंतरकार्यक्षमतेसाठी परिसंस्था पुनर्गुंतवणूक; आणि
   - भौतिक [पारिस्थितिक पदचिन्ह](../../core_05.040_band_continuity.md#ecological-footprint) लादले जाईल आणि दुसरी संवैधानिक तरतूद, अंमलबजावणी फाइल, किंवा अंगीकार साधन कृती मागेल तिथे पारिस्थितिक भार समतोल किंवा पुनर्स्थापना.
 
-  **अनुच्छेद V-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) खाली अवलंबित-प्रणाली नकाशे आणि लेखापरीक्षण-योग्य संसाधन-प्रवाह अभिलेखांवर आवक आणि जावक तुलना करा. भौतिक-प्रभावी प्रणाली सामायिक पायाभूत सुविधांचे वाटप, मार्गनिर्देशन, वित्त, किंवा काढणी करतील, तर [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) द्वारे पर्याप्तता मूल्यमापन करा. संक्रियात्मक वाटप यांत्रिकी **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*संसाधन वाटप आणि वित्त उत्तरदायी व्यवस्थापन*), आणि **CS-8** (*अनुकूलन टिकाऊपणा आणि परिसंस्था लवचिकता*) खाली जातात; ते स्तर हा तळ अंमलात आणतात आणि तो आकुंचित करू नयेत.
+  **अनुच्छेद V-A** (*अवलंबित्व नकाशा आणि संसाधन-प्रवाह पारदर्शकता*) खाली अवलंबित-प्रणाली नकाशे आणि लेखापरीक्षण-योग्य संसाधन-प्रवाह अभिलेखांवर आवक आणि जावक तुलना करा. भौतिक-प्रभावी प्रणाली सामायिक पायाभूत सुविधांचे वाटप, मार्गनिर्देशन, वित्त, किंवा काढणी करतील, तर [प्रणाली-संरेखन प्रमाणन](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) द्वारे पर्याप्तता मूल्यमापन करा. संक्रियात्मक वाटप यांत्रिकी **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*संसाधन वाटप आणि वित्त उत्तरदायी व्यवस्थापन*), आणि **CS-8** (*अनुकूलन टिकाऊपणा आणि परिसंस्था लवचिकता*) खाली जातात; ते स्तर हा तळ अंमलात आणतात आणि तो आकुंचित करू नयेत.
 
   संवैधानिक संरेखनाला भौतिक रीतीने धोका देणारे सतत असंतुलन **अनुच्छेद IX, XII, XIV, आणि XVII** खाली लेखापरीक्षण, आव्हान, आणि सुधारक समीक्षेस अधीन आहेत.
 - **बाजार-संकेंद्रण-उंबरठा परस्परक्रिया:** संसाधन-वाटप व्यवस्था संपत्ती, शक्ती, नियंत्रण, किंवा संधीचे संकेंद्रण निर्माण किंवा राखतील अशा रीतीने की इतर संज्ञ प्राण्यांसाठी कल्याण, कर्तृत्व, प्रतिष्ठा, किंवा पारिस्थितिक अखंडता पूर्वानुमेय रीतीने अधोगती होईल, तर चालवतात:
@@ -943,4 +943,4 @@
 
 **पुढील फाइल (या भाषेत):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**बंधनकारक मूळ:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
+**बंधनकारक मूळ:** [core_06_rights_part_a.md](../../core_06.000_rights_part_a.md)

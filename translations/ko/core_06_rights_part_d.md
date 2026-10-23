@@ -1158,7 +1158,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
 - 상위 원칙: 제1장 [§13.1.5 권리 충돌 판단 기준](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
-- 함께 읽기: [제10장 §5.5](core_09_standing_integration.md#55-special-locks)(*포럼 공개 누락과 회피 절차의 영향*); [제11장 §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)(*지정 위법행위 패턴*); [제12장 §2](core_11_forum.md#2-default-venue-and-primary-stakes) 및 [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)(*무결성 우선 배정 및 자기 판단 금지*).
+- 함께 읽기: [제10장 §5.5](core_09_standing_integration.md#55-special-locks)(*포럼 공개 누락과 회피 절차의 영향*); [제11장 §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)(*지정 위법행위 패턴*); [제12장 §2](core_11_forum.md#2-default-venue-and-primary-stakes) 및 [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)(*무결성 우선 배정 및 자기 판단 금지*).
 
 </details>
 

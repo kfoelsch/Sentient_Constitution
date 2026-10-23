@@ -81,7 +81,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 一并阅读：[第一章 §11 激励对齐与系统俘获](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)、[§13 市场结构](core_01_c_stewardship_capacity_principles.md)，以及[第七章 §3.3 治理、激励与可质疑性纪律](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)。
+- 一并阅读：[第一章 §11 激励对齐与系统俘获](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)、[§13 市场结构](core_01_c_stewardship_capacity_principles.md)，以及[第七章 §3.3 治理、激励与可质疑性纪律](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)。
 
 </details>
 

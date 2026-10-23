@@ -16,13 +16,13 @@
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
   - [Flourishing](core_00.000_preamble.md#flourishing).
 - Downstream: Principles:
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18); Part B tradeoff and interpretation homes:
-  - [Chapter One §13.1.2 Harm Minimization](core_01.010_interaction_interpretation.md#1312-harm-minimization) (1.010 §13.1.2);
-  - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.010 §13.1.5);
-  - [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.010 §13.2);
-  - [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.010 §13.2.4);
-  - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.010_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.010 §15.1);
-  - [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](core_01.010_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.010 §15.4.4);
+  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18); Part B tradeoff and interpretation homes:
+  - [Chapter One §13.1.2 Harm Minimization](core_01.005_interaction_interpretation.md#1312-harm-minimization) (1.005 §13.1.2);
+  - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);
+  - [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005 §13.2);
+  - [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4);
+  - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
+  - [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4);
   - [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in
   - [core_05.050_band_oversight.md](core_05.050_band_oversight.md).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -138,7 +138,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 | Truth and epistemic integrity | Are claims, records, and disclosures honest enough for safe decisions? | Protects informed participation, remedy, and correction |
 | Trustworthiness | Is reliance justified, or is trust being degraded? | Protects sentients from false confidence and misleading reliance |
 
-Binding reliability, audit, or review requirements arise when Chapter Six, [Chapter Nine](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated documents expressly require them.
+Binding reliability, audit, or review requirements arise when Chapter Six, [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated documents expressly require them.
 
 
 ---

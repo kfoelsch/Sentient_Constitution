@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - زیریں: اصول: [تمہید §3.3 حکمرانی تہہ ضبط](core_00_preamble.md#33-حکمرانی-کی-تہیں)؛ [باب یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)۔
-- مالک تہہ: [باب دوازدہم: آئینی معاہدہ، جواز، اجازت اور ذمہ دارانہ انتظام](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [دفعہ X-C: حکمرانی میں شرکت اور ووٹ کا حق](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)۔
+- مالک تہہ: [باب دوازدہم: آئینی معاہدہ، جواز، اجازت اور ذمہ دارانہ انتظام](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [دفعہ X-C: حکمرانی میں شرکت اور ووٹ کا حق](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)۔
 - جھرمٹ جزو: [*آئینی معاہدہ تہہ اور بنیادی آئینی پسند*](core_05_band_integrative.md#آئینی-معاہدہ-تہہ)
 - ساتھ پڑھیں: [بنیادی آئینی پسند](core_05_band_integrative.md#بنیادی-آئینی-پسند)، [متاثر فریقوں کی پابند پسند](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster)، [متاثر فریق حیثیت اور وزن](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)، [حکمرانی](../../core_05.035_band_accountability.md#governance)۔
 - تہہ: **آئینی معاہدہ تہہ (CCL)** — کون حکومت کر سکتا ہے، کس جواز کے طریقے سے، کن پائیدار شرائط پر۔ **متاثر فریقوں کی نظامی شرکت (SSP)** سے الگ۔
@@ -123,7 +123,7 @@
     - [بنیادی آئینی پسند](core_05_band_integrative.md#بنیادی-آئینی-پسند)؛
     - [دستاویزی جواز کے طریقے](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) [باب دوازدہم §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) کے تحت؛
     - [اختیار](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) اور [دوبارہ اجازت](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) کے قواعد ([باب دوازدہم §1.3](../../core_14.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)؛ [باب شانزدہم §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority))؛ اور
-    - حکمرانی کے اختیار کو قائم یا پائیدار طور پر دوبارہ ترتیب دینے کے لیے [سیاسی برابری کی تہہ](../../core_14.000_governance.md#41-entitlement-and-eligibility) — حقدار شعوری وجودوں کو اس تہہ پر برابر آواز ملتی ہے ([دفعہ X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement))۔
+    - حکمرانی کے اختیار کو قائم یا پائیدار طور پر دوبارہ ترتیب دینے کے لیے [سیاسی برابری کی تہہ](../../core_14.000_governance.md#41-entitlement-and-eligibility) — حقدار شعوری وجودوں کو اس تہہ پر برابر آواز ملتی ہے ([دفعہ X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement))۔
   - **دائرے سے باہر:**
     - متاثر فریقوں کا عام مشورہ؛
     - عملی شرکت؛
@@ -131,7 +131,7 @@
     - ڈھانچے اور عمل پہلے سے مجاز ہونے کے بعد عام دائرے کی حکمرانی؛ اور
     - عام [متاثر فریق وزن](../../core_05.055_band_participation.md#stakeholder-weight) — زیادہ متاثر کو زیادہ آواز دینا — بنیاد یا دوبارہ اجازت ووٹ طے کرنے کے لیے استعمال ([تمہید §3.3 حکمرانی تہہ ضبط](core_00_preamble.md#33-حکمرانی-کی-تہیں))۔
   - **عملی گھر:** [باب دوازدہم](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) اس تہہ کے پابند اجازت، جواز، اور ذمہ دارانہ انتظام کے قواعد بیان کرتا ہے۔
-  - **حقوق کی تہہ:** [دفعہ X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*حکمرانی میں شرکت اور ووٹ کا حق*) وہ برابر شرکت کا حق بیان کرتی ہے جسے باب دوازدہم کے وہ قواعد تنگ نہیں کر سکتے۔
+  - **حقوق کی تہہ:** [دفعہ X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*حکمرانی میں شرکت اور ووٹ کا حق*) وہ برابر شرکت کا حق بیان کرتی ہے جسے باب دوازدہم کے وہ قواعد تنگ نہیں کر سکتے۔
 <a id="constitutional-contract-layer-a"></a>
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [جوابدہی پیمائش خاندان](core_05_apex_accountability_leg.md#accountability-measurement-family) — *کیا انعام کے ڈھانچے، بازاری طاقت اور جواب دینے کی پابندی فرائض کو حقیقی رکھتے ہیں؟* یہاں پوچھنے کے لیے استعمال کریں کہ دعویٰ شدہ حکمرانی کا اختیار حقیقی آئینی معاہدے پر کھڑا ہے یا نہیں — دستاویزی جواز، برابر بنیادی آواز، اور اس آئین سے ہم آہنگ پائیدار شرائط — صرف سائز، مقبولیت، یا بازاری رسائی نہیں۔
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - زیریں: اصول: [باب یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)؛ [6. عمل تنازعے کا حل](core_05_band_integrative.md)۔
-- مالک تہہ: [باب دوازدہم باب یکم §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*بنیادی آئینی پسند کے لیے سیاسی برابری کی تہہ*؛ *پائیدار سیاسی آواز کی تہہ*)؛ [دفعہ X-C: حکمرانی میں شرکت اور ووٹ کا حق](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)۔
+- مالک تہہ: [باب دوازدہم باب یکم §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*بنیادی آئینی پسند کے لیے سیاسی برابری کی تہہ*؛ *پائیدار سیاسی آواز کی تہہ*)؛ [دفعہ X-C: حکمرانی میں شرکت اور ووٹ کا حق](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)۔
 - جھرمٹ جزو: [*آئینی معاہدہ تہہ اور بنیادی آئینی پسند*](core_05_band_integrative.md#آئینی-معاہدہ-تہہ)
 - ساتھ پڑھیں: [آئینی معاہدہ تہہ](core_05_band_integrative.md#آئینی-معاہدہ-تہہ)، [متاثر فریق نمائندگی اور وزن کی حدیں (متاثر فریقوں کی پابند پسند)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)، [متاثر فریقوں کی پابند پسند](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster)، [طریقہ کار انصاف](../../core_05.055_band_participation.md#procedural-fairness-constitutional)۔
 - تہہ: **آئینی معاہدہ تہہ (CCL)**۔ پہلے سے مجاز نظاموں کے اندر **متاثر فریقوں کی نظامی شرکت (SSP)** سے الگ۔
@@ -177,7 +177,7 @@
 
     یہ [آئینی معاہدہ تہہ](core_05_band_integrative.md#آئینی-معاہدہ-تہہ) کی ہے۔
     - مالک: [باب دوازدہم باب یکم §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)۔
-    - حقوق تہہ پوائنٹر: [دفعہ X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*حکمرانی میں شرکت اور ووٹ کا حق*)۔
+    - حقوق تہہ پوائنٹر: [دفعہ X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*حکمرانی میں شرکت اور ووٹ کا حق*)۔
     - [شعور غیر اخراج](../../core_05.055_band_participation.md#sentience-non-exclusion) کے تحت لاگو۔
   - **دائرے سے باہر:**
     - کسی دائرے میں پہلے سے مجاز حکمرانی ڈھانچے اور عمل موجود ہونے کے بعد عام اثر سے وزن شدہ متاثر فریق فیصلے — متاثر شعوری وجودوں کو [متاثر فریق](../../core_05.055_band_participation.md#stakeholder) شناخت اور [متاثر فریق وزن](../../core_05.055_band_participation.md#stakeholder-weight) کے ذریعے اس پیمانے پر آواز ملتی ہے جتنا وہ متاثر ہیں (**دفعہ XII** (*متاثر فریقوں کی نظامی شرکت، نمائندگی اور واجب العمل کارروائی*) کی پابندیوں سمیت)، برابر وزن والے بنیادی گنتی قواعد سے نہیں؛ اور
@@ -323,7 +323,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: جوابدہی پیمائش خاندان (*آئینی پیمائش کے طور پر محرکات کی ہم آہنگی اور متبادل اشارے کی دیانت*)؛ اصول: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) کے تحت چوکڑی قبضہ ضبط؛ [مادی داؤ](core_00_preamble.md#material-stake) سے پیمانہ)؛ [باب ہفتم §3 پورے نظام کا سرٹیفیکیشن جائزہ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
+- زیریں: جوابدہی پیمائش خاندان (*آئینی پیمائش کے طور پر محرکات کی ہم آہنگی اور متبادل اشارے کی دیانت*)؛ اصول: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) کے تحت چوکڑی قبضہ ضبط؛ [مادی داؤ](core_00_preamble.md#material-stake) سے پیمانہ)؛ [باب ہفتم §3 پورے نظام کا سرٹیفیکیشن جائزہ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 - اصول تہہ قاعدہ: [باب یکم §11.1 ہم آہنگی کا تقاضا](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) اور [باب یکم §11.2 آسان متبادل اور متبادل اشاروں کا انحراف](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence)؛ ذمہ دارانہ انتظام اور آپریٹر اطلاق: [باب یکم §11.1.3 ذمہ دارانہ انتظام اور آپریٹر اطلاق](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) اور [§11.1.4 کردار کی گہرائی اور مادی ذمہ داری کے راستے](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)۔
 - عدمِ ہم آہنگی کی دریافت: [باب یکم §11.3 عدمِ ہم آہنگی کی دریافت](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)۔
 - فعال اصلاح اور قبضے کی بلندی: [باب یکم §11.4 عدمِ ہم آہنگی کی اصلاح اور قبضے کا جواب](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)۔
@@ -621,7 +621,7 @@
 
 - زیریں: اصول: [2. آئینی تفسیر](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)؛ [15. مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (اختیار کا ڈھیر بمقابل داخلی مراتب باب یکم کے ساتھ پڑھے)۔
 - زیریں: [باب یکم — §8 آئینی تفسیر](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (مربوط پڑھائی اور آخری پناہ مراتب)؛ [باب یکم §8.4 آئینی معنی تنازعے کا حل](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*واحد تنازعہ طریقہ کار، شمولیت تہہ سمیت*)؛ [باب چہاردہم — اختیار کنندگان کے لیے داخلی مراتب](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)؛ [باب شانزدہم](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*شمولیت پل — حفاظت، ایڈیشن، اختیار؛ دوسرا ڈھیر یا تنازعہ ترتیب گھر نہیں*)۔
-- زیریں: [باب ششم — تہہ دائرہ](../../core_06.005_rights_part_a.md#12-layer-scope)؛ [باب سیزدہم §4 تہہ دائرہ](../../core_15.000_non_regression.md#4-layer-scope) اور [باب پانزدہم §12 تہہ دائرہ](../../core_17.000_amendment_ratification.md#12-layer-scope) (*مالک عدمِ منتقلی مقامی طور پر لاگو*)؛ نمبر والے `core_*` دستاویز کے پار باب آغاز مالک بیانات۔
+- زیریں: [باب ششم — تہہ دائرہ](../../core_06.000_rights_part_a.md#12-layer-scope)؛ [باب سیزدہم §4 تہہ دائرہ](../../core_15.000_non_regression.md#4-layer-scope) اور [باب پانزدہم §12 تہہ دائرہ](../../core_17.000_amendment_ratification.md#12-layer-scope) (*مالک عدمِ منتقلی مقامی طور پر لاگو*)؛ نمبر والے `core_*` دستاویز کے پار باب آغاز مالک بیانات۔
 - ساتھ پڑھیں: [کارپس](core_05_band_integrative.md#کارپس)؛ [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-اصول-تعریفیں-اور-حقوق) (*مثبت دائرہ→مالک نقشہ*، قطعے 4–7)؛ [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری) اور [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) (*پابند دعووں کی عملی نفاذ پذیری*)؛ [تمہید §3.3](core_00_preamble.md#33-حکمرانی-کی-تہیں) اور [آئینی معاہدہ تہہ](core_05_band_integrative.md#آئینی-معاہدہ-تہہ) (*حکمرانی تہہ متبادل مخالف*)؛ [آئینی پابندی](core_05_band_integrative.md#آئینی-پابندی)؛ **CJS-0.1** (*نفاذ موضوع راہنما*)۔
 
 </details>
@@ -683,7 +683,7 @@
     - پہلے اختیار کے ڈھیر کے تحت عملی ایڈیشن/حفاظت زنجیر اور ماخذ تہہ پہچانیں۔
     - پھر [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-اصول-تعریفیں-اور-حقوق) میں مالک گھر پہچانیں (اور باب آغاز مالک دعویٰ)؛ جوہر صرف اس مالک گھر سے لاگو کریں — کہیں اور صرف پوائنٹر استعمال کریں۔
     - پھر [باب یکم — §8 آئینی تفسیر](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) کے تحت مربوط پڑھائی لاگو کریں۔
-    - آئین کے مربوط کل کے طور پر سب سے پورا حفاظتی اثر اور [باب ششم](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) کی عدمِ سکڑاؤ طے شدہ رکھیں۔
+    - آئین کے مربوط کل کے طور پر سب سے پورا حفاظتی اثر اور [باب ششم](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) کی عدمِ سکڑاؤ طے شدہ رکھیں۔
     - داخلی مراتب صرف آخری پناہ بقایا قاعدے کے طور پر استعمال کریں؛ عام مربوط پڑھائی بدلنے یا مستند اصطلاح معنی پر محض اختلاف حل کرنے کے لیے استعمال نہ کریں۔
     - جہاں تنازعہ کسی اصطلاح کا معنی ہو، باب پنجم کی مستند تعریف ہر تہہ پر حکمرانی کرتی ہے۔
     - CS، CI، CF اور CJS کے پار راہ بند نفاذ موضوعات پر، مالک شناخت کے بعد **CJS-0.1** (موضوع راہنما) لاگو کریں۔
@@ -703,10 +703,10 @@
     - تمنائی زبان یا مقامی مشق سے جائز ماخذ اور حکمرانی تہہ دائرے میں کارپس کے پابند فرائض ہٹانا؛
     - ایک مالک تہہ کے فرائض دوسری مالک تہہ کے اندر جوہری طور پر دوبارہ بیان کرنا، بشمول قاری رہنمائی نثر کو عملی اثر دینا؛
     - صحت یا حکمرانی ابواب کی محرک، حوالہ، یا بلندی زبان کو حتمی درجہ بندی یا سزا قانون سمجھنا جہاں مالک تہہ وہ اختیار باب ہشتم تا دہم کے پاس رکھتی ہے؛
-    - عمل، حکمرانی، یا نفاذ فریم سے [باب ششم](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) کی حقوق کی تہہ تنگ، دوبارہ تعریف، یا منتقل کرنا [باب سیزدہم](../../core_15.000_non_regression.md) کی عدمِ رجعت اور باب ششم کے آغاز معاہدے کے خلاف؛
+    - عمل، حکمرانی، یا نفاذ فریم سے [باب ششم](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) کی حقوق کی تہہ تنگ، دوبارہ تعریف، یا منتقل کرنا [باب سیزدہم](../../core_15.000_non_regression.md) کی عدمِ رجعت اور باب ششم کے آغاز معاہدے کے خلاف؛
     - غیر مالک تہوں میں متوازی درجہ بندیاں یا ورک فلو گھڑنا جب [تمہید کا مالک رجسٹر](core_00_preamble.md#4-اصول-تعریفیں-اور-حقوق) پہلے ہی مستند گھر تفویض کر چکا ہو؛
     - بالادستی یا اطاعت کا دعویٰ اس طرح کرنا جو قائم ماخذ مراتب الٹ دے، یا نفاذ، معاون متن، نجی ترتیب، ہنگامی فریم، یا عملی مشق کو جائز دائرے میں کارپس کے پابند فرائض ہٹانے دے؛
-    - داخلی مراتب کو شارٹ کٹ کے طور پر استعمال کر کے سخت تر پڑھائی چننا، [باب ششم](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) کی حقوق کی تہہ حفاظتیں [باب یکم](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) کی صریح اجازت سے باہر تنگ کرنا، یا عام پڑھائی میں ایک ماخذ تہہ دوسری سے بدلنا؛
+    - داخلی مراتب کو شارٹ کٹ کے طور پر استعمال کر کے سخت تر پڑھائی چننا، [باب ششم](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) کی حقوق کی تہہ حفاظتیں [باب یکم](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) کی صریح اجازت سے باہر تنگ کرنا، یا عام پڑھائی میں ایک ماخذ تہہ دوسری سے بدلنا؛
     - باب پنجم کی تعریفوں کو حریف قانون سمجھنا جو اصول یا دفعات منسوخ کرے ([باب یکم — §8 آئینی تفسیر](core_01_b_interaction_interpretation.md#15-constitutional-interpretation))؛ یا
     - اختیار کنندگان کے لیے، اختیار کردہ نفاذ متن کو اختیار کے دائرے میں اس آئین کو منسوخ کرنے والا سمجھنا، یا [باب سیزدہم](../../core_15.000_non_regression.md) کی عدمِ رجعت تہیں ڈھیلی کرنے والا سمجھنا (**باب چہاردہم** پر [اختیار کنندگان کے لیے داخلی مراتب](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters))۔
 

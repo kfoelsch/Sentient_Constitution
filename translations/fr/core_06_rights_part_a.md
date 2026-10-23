@@ -6,7 +6,7 @@
 
 > Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce fichier ni dans d’autres chapitres.
 >
-> Ce fichier est un **pilote de langue de lecture** du [Chapitre six, Partie A en anglais](../../core_06.005_rights_part_a.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
+> Ce fichier est un **pilote de langue de lecture** du [Chapitre six, Partie A en anglais](../../core_06.000_rights_part_a.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_06_rights_part_a.md`](../../core_06.000_rights_part_a.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
 >
 > Il contient le **Chapitre six, Partie A** ; la numérotation des articles et les renvois correspondent à l’instrument intégré.
 >
@@ -47,11 +47,11 @@ Le Chapitre six est le titulaire constitutionnel du **Plancher des droits** et d
 - En amont : [Chapitre un §13 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels) ; [Chapitre un §6.1.5 Test de décision de collision de droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - En amont : [Chapitre un §11 Alignement des incitations et capture du système](core_01_c_stewardship_capacity_principles.md#19-alignement-des-incitations-et-captation-du-système).
 - En amont : Chapitres deux à quatre ; définitions du Chapitre cinq.
-- En aval : les **Parties A à D** de ce chapitre ; [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) ; [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- En aval : les **Parties A à D** de ce chapitre ; [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) ; [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - En aval : [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) ; [§1.2 Portée de couche](#12-portée-de-couche).
 - Lire avec : [Pile d’autorité et hiérarchie interne](core_05_band_integrative.md#owner-non-relocation) et le [Préambule — registre positif des titulaires](core_00_preamble.md#4-principes-définitions-et-droits) ; [Article XIII-B](core_06_rights_part_c.md#article-xiii-b--droit-à-la-réparation-et-aux-mesures-correctives) (*Droit de contester, d’examen et de recours*).
 - Lire avec : [Article XVI](core_06_rights_part_c.md#article-xvi--audit-transparence-et-vérification-indépendante) (*Audit, transparence et vérification indépendante*).
-- Lire avec : [Article XIX-B](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*Contestabilité et limites de restriction proportionnée*) ; [Article XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Résolution en temps et plancher anti-retard*).
+- Lire avec : [Article XIX-B](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*Contestabilité et limites de restriction proportionnée*) ; [Article XXVI-C](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Résolution en temps et plancher anti-retard*).
 
 </details>
 
@@ -88,13 +88,13 @@ Cette pile de lecture s’applique à tous les articles de ce chapitre sauf si u
 
 Le Plancher des droits doit fonctionner en pratique, pas seulement sur le papier. Les essentiels de survie sous l’**Article III-A** (*Survie*) — nourriture, eau, abri, environnement d’opération, et apports comparables agnostiques au substrat — en sont l’exemple le plus clair. L’**Épanouissement** exige un accès réel à ces essentiels. La **Continuité** exige une fourniture fiable et non régressive dans le temps, surtout là où des systèmes partagés contrôlent la livraison.
 
-La [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) et le [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) vérifient si les systèmes matériellement impactants sont alignés avant d’être reconnus ou de servir d’appui à l’échelle. Le Chapitre neuf fournit aussi la contestabilité du registre de certification, l’examen des parties affectées et de l’accessibilité, le séquençage de supervision, et des voies de contestation pour les décisions d’alignement du système. L’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) fournit des droits de contestation et d’audit. L’**Article XIX-B** (*Contestabilité et limites de restriction proportionnée*) empêche les limites de trajectoire de devenir une porte dérobée autour de l’accès critique pour la survie. Ensemble, le [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) et la [chaîne de trajectoire et de supervision de forum des Chapitres huit à onze](../../README.md#standing-pipeline-and-forums) forment les Chaînes pratiques de processus clés pour la contestabilité, la classification vérifiée, la supervision de forum et le recours en temps. Ces mécanismes aident à exiger le Chapitre six. Ils ne remplacent, ne resserrent ni ne relogent les droits énoncés ici.
+La [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) et le [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) vérifient si les systèmes matériellement impactants sont alignés avant d’être reconnus ou de servir d’appui à l’échelle. Le Chapitre neuf fournit aussi la contestabilité du registre de certification, l’examen des parties affectées et de l’accessibilité, le séquençage de supervision, et des voies de contestation pour les décisions d’alignement du système. L’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) fournit des droits de contestation et d’audit. L’**Article XIX-B** (*Contestabilité et limites de restriction proportionnée*) empêche les limites de trajectoire de devenir une porte dérobée autour de l’accès critique pour la survie. Ensemble, le [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) et la [chaîne de trajectoire et de supervision de forum des Chapitres huit à onze](../../README.md#standing-pipeline-and-forums) forment les Chaînes pratiques de processus clés pour la contestabilité, la classification vérifiée, la supervision de forum et le recours en temps. Ces mécanismes aident à exiger le Chapitre six. Ils ne remplacent, ne resserrent ni ne relogent les droits énoncés ici.
 
 **Nœuds interprétatifs.** Sauf si un article plus spécifique fournit une règle différente, les questions récurrentes se routent par ces ancrages :
 
 **Plancher des droits et fourniture**
 - **Essentiels de survie et les garder accessibles** — **Article III-A** (*Survie*) ; **Article XIX-B** (*Contestabilité et limites de restriction proportionnée*) pour que les limites de trajectoire ne puissent pas bloquer l’accès ; lire avec l’**Article XIII-B** (*Droit de contester, d’examen et de recours*) et l’**Article XVI** (*Audit, transparence et vérification indépendante*) là où la contestation ou l’audit s’applique
-- **Certification d’alignement du système** — [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) ; [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **Certification d’alignement du système** — [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) ; [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **Vérification et recours**
 - **Registres d’audit et vérification indépendante** — **Article XVI** (*Audit, transparence et vérification indépendante*) avec les **Chapitres deux à quatre**
@@ -102,7 +102,7 @@ La [Certification d’alignement du système](../../core_05.040_band_continuity.
 
 **Différends et processus en temps**
 - **Justice, restitution, bornes de restriction, urgences et collisions de droits** — **Article XXVI** (*Résolution des conflits, escalade et proportionnalité d’urgence*) ; [Chapitre un §6.1.5 Test de décision de collision de droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **Chaînes pratiques de processus clés** — **Article XXVI-C** (*Résolution en temps et plancher anti-retard*) ; [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **Chaînes pratiques de processus clés** — **Article XXVI-C** (*Résolution en temps et plancher anti-retard*) ; [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 Les renvois plus courts à ces thèmes ailleurs dans ce chapitre incorporent ces ancrages.
 
@@ -127,7 +127,7 @@ Les ajouts futurs au **Chapitre six** qui touchent un langage à saveur de proce
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 Vérité](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels), et [§18 Gouvernance sous discipline d’administration responsable](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 Vérité](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels), et [§18 Gouvernance sous discipline d’administration responsable](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -154,7 +154,7 @@ Le Chapitre cinq définit ces conditions sous **Préconditions environnementales
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -205,7 +205,7 @@ Le Chapitre cinq définit ces conditions sous **Préconditions environnementales
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3.2 Vérité](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 Contraintes de divulgation épistémique](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre un [§3.2 Vérité](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 Contraintes de divulgation épistémique](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -233,7 +233,7 @@ Le Chapitre cinq définit ces conditions sous **Préconditions environnementales
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), et [§12 Exigence d’évaluation systémique](../../core_01.005_values_principles.md#12-systemic-evaluation-requirement).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), et [§12 Exigence d’évaluation systémique](../../core_01.000_values_principles.md#12-systemic-evaluation-requirement).
 - Chapitre cinq : l’O/M/A/C canonique de **Responsabilité intergénérationnelle** siège dans [**Def.I1** *Intégrité écologique, empreinte et durabilité*](../../core_05.040_band_continuity.md#ecological-footprint-semi-independent), lu conjointement avec **Intégrité écologique**, **Durabilité**, **Préconditions environnementales** et **Empreinte écologique** (invocation conjointe là où la charge d’empreinte, la divulgation, la comparaison, la réduction ou la traçabilité est matériellement en jeu). L’invocation conjointe de **Continuité autochtone**, **Langue, culture et patrimoine**, **Trajectoire des systèmes naturels** et **Responsabilité intergénérationnelle** se route aussi à travers [Chapitre cinq *Continuité autochtone, langue, culture et patrimoine*](../../core_05.040_band_continuity.md#community-anchored-continuity-indigenous-language-culture-and-heritage) là où la continuité ancrée dans la communauté, le patrimoine, la trajectoire des systèmes naturels et l’analyse de discipline des futurs s’appliquent ensemble.
 
 </details>
@@ -264,7 +264,7 @@ Le Chapitre cinq définit ces conditions sous **Préconditions environnementales
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 Principes d’arbitrage centraux](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), et [§12 Exigence d’évaluation systémique](../../core_01.005_values_principles.md#12-systemic-evaluation-requirement).
+- En amont : Principes : Chapitre un [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 Principes d’arbitrage centraux](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), et [§12 Exigence d’évaluation systémique](../../core_01.000_values_principles.md#12-systemic-evaluation-requirement).
 - Lire avec : [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), [Préconditions environnementales](../../core_05.040_band_continuity.md#environmental-preconditions), [Capacité de récupération écologique](../../core_05.040_band_continuity.md#ecological-recovery-capacity), [Responsabilité intergénérationnelle](../../core_05.040_band_continuity.md#intergenerational-responsibility), et [Risque existentiel](../../core_05.040_band_continuity.md#existential-risk).
 - En aval : **Chapitre treize §6.1** (*Mesures d’urgence et charge de continuation*) — discipline anti-prétexte et d’examen borné dans le temps là où un cadrage de risque existentiel ou d’urgence est invoqué.
 
@@ -309,7 +309,7 @@ Le Chapitre cinq définit ces conditions sous **Préconditions environnementales
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 Vérité](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§16 Administration responsable et compréhension distribuée](../../core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth), et [§9.2 Compréhension distribuée](../../core_01.015_stewardship_capacity_principles.md#161-distributed-understanding).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 Vérité](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§16 Administration responsable et compréhension distribuée](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth), et [§9.2 Compréhension distribuée](../../core_01.010_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
 
@@ -346,7 +346,7 @@ Le détail procédural de l’**Article II** (*Administration responsable matér
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3.2 Vérité](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Principes d’arbitrage centraux](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre un [§3.2 Vérité](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Principes d’arbitrage centraux](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -380,7 +380,7 @@ Le détail procédural de l’**Article II** (*Administration responsable matér
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 Vérité](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), et [§13.1 Principes d’arbitrage centraux](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles).
+- En amont : Principes : Chapitre un [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 Vérité](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), et [§13.1 Principes d’arbitrage centraux](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles).
 
 </details>
 
@@ -414,7 +414,7 @@ Le détail procédural de l’**Article II** (*Administration responsable matér
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 Principes d’arbitrage centraux](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), et [§18 Gouvernance sous discipline d’administration responsable](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- En amont : Principes : Chapitre un [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 Principes d’arbitrage centraux](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), et [§18 Gouvernance sous discipline d’administration responsable](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -445,7 +445,7 @@ Le détail procédural de l’**Article II** (*Administration responsable matér
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3.2 Vérité](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre un §5 Liberté](../../core_01.005_values_principles.md#7-freedom-bounded-agency), et [§18 Gouvernance sous discipline d’administration responsable](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- En amont : Principes : Chapitre un [§3.2 Vérité](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre un §5 Liberté](../../core_01.000_values_principles.md#7-freedom-bounded-agency), et [§18 Gouvernance sous discipline d’administration responsable](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -476,8 +476,8 @@ Le détail procédural de l’**Article II** (*Administration responsable matér
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 Principes d’arbitrage centraux](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Lire avec : [Article XXI-A](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights) (*Droits de portabilité*) ; [corpus_systems.md](../../corpus_systems.md) **CS-2 — Types d’information et traitement** ; **CJS-3.17** (*termes d’interopérabilité, de portabilité et d’intégrité de sortie*) et **CJS-3.18** (*termes de rétention des données et d’intégrité du cycle de vie*) ; [Chapitre un §19.6 Responsabilité du successeur et non-évasion de structure formelle](core_01_c_stewardship_capacity_principles.md#196-maintenir-la-responsabilité-lorsque-la-propriété-ou-la-structure-change) ; [Chapitre neuf §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) et [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- En amont : Principes : Chapitre un [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 Principes d’arbitrage centraux](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Lire avec : [Article XXI-A](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) (*Droits de portabilité*) ; [corpus_systems.md](../../corpus_systems.md) **CS-2 — Types d’information et traitement** ; **CJS-3.17** (*termes d’interopérabilité, de portabilité et d’intégrité de sortie*) et **CJS-3.18** (*termes de rétention des données et d’intégrité du cycle de vie*) ; [Chapitre un §19.6 Responsabilité du successeur et non-évasion de structure formelle](core_01_c_stewardship_capacity_principles.md#196-maintenir-la-responsabilité-lorsque-la-propriété-ou-la-structure-change) ; [Chapitre neuf §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) et [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -533,7 +533,7 @@ Le détail procédural de l’**Article II** (*Administration responsable matér
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Lire avec : **Article I** (*Survie environnementale*), **Article II** (*Administration responsable matérielle et intégrité de l’usage durable*), et le Chapitre cinq là où la survie, l’accès éducatif, l’entretien corporel ou les conditions de travail sont matériellement en jeu.
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels), et [§16 Administration responsable et compréhension distribuée](../../core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#13-procédure-de-résolution-des-conflits-constitutionnels), et [§16 Administration responsable et compréhension distribuée](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
 
 </details>
 
@@ -562,20 +562,20 @@ Cet Article énonce des **planchers constitutionnels** pour la survie et l’acc
 
   Ces règles peuvent structurer la livraison. Elles ne doivent pas être utilisées pour battre l’accès minimal aux essentiels de survie ni pour imposer une exclusion invidieuse contraire aux **Articles III** et **V**.
   - L’orientation fiscale détaillée — y compris la règle que les frais et charges ne doivent pas saper l’accès minimal aux apports pertinents pour la survie — est gouvernée par [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*Obligations institutionnelles liées à la classification*), **CI-10** (*Recettes publiques, frais, charges récurrentes et intégrité de facturation*), et **CI-11** (*Administration responsable des ressources et intégrité des incitations*).
-  - Lorsque des systèmes dont les êtres sentients dépendent matériellement fournissent, distribuent, tarifient, hébergent ou coupent l’accès aux essentiels de survie, la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) sous le [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) s’applique — et les processus de ces systèmes ne peuvent pas être utilisés pour resserrer les droits énoncés ici.
+  - Lorsque des systèmes dont les êtres sentients dépendent matériellement fournissent, distribuent, tarifient, hébergent ou coupent l’accès aux essentiels de survie, la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) sous le [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) s’applique — et les processus de ces systèmes ne peuvent pas être utilisés pour resserrer les droits énoncés ici.
   - Cet Article ne prescrit pas un seul modèle de financement. L’emploi, l’entrepreneuriat, l’échange volontaire, et toute autre activité économique licite au-dessus de tout plancher de survie restent permis, sous réserve du Chapitre un, du Chapitre six, et des instruments incorporés — y compris `corpus_systems.md` là où des systèmes commerciaux de structuration du marché ou à fort impact s’appliquent.
 
 
 <a id="article-iii-a-survival"></a>
-- **Systèmes dont dépendent les sentients :** lorsqu’ils fournissent, distribuent, tarifient, hébergent ou coupent l’accès à un élément protégé par le présent Article — essentiels de survie, services d’entretien corporel et de santé, ou conditions du travail productif — les systèmes dont les sentients dépendent matériellement relèvent de la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) selon le [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Leurs procédures ne peuvent pas réduire les Planchers de droits du présent Article.
+- **Systèmes dont dépendent les sentients :** lorsqu’ils fournissent, distribuent, tarifient, hébergent ou coupent l’accès à un élément protégé par le présent Article — essentiels de survie, services d’entretien corporel et de santé, ou conditions du travail productif — les systèmes dont les sentients dépendent matériellement relèvent de la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) selon le [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Leurs procédures ne peuvent pas réduire les Planchers de droits du présent Article.
 
 #### Article III-A : Survie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), et [Chapitre un §5 Liberté](../../core_01.005_values_principles.md#7-freedom-bounded-agency).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), et [Chapitre un §5 Liberté](../../core_01.000_values_principles.md#7-freedom-bounded-agency).
 - Lire avec : famille de mesure Épanouissement (*Accès au plancher de survie comme mesure constitutionnelle*) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **participation** dans l’allocation et les voies de contestation, **supervision** et audit, **reddition de comptes** et recours, **action en temps** sous l’**Article XXVI-C** (*Résolution en temps et plancher anti-retard*) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** (accès aux essentiels de survie) et **Continuité** (fourniture durable et livraison non régressive).
-- En aval : [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) et [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là où des systèmes filtrent ou soutiennent la livraison ; **Article XIII-B** (*Droit de contester, d’examen et de recours*) ; **Article XIX-B** (*Contestabilité et limites de restriction proportionnée*) ; [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- En aval : [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) et [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là où des systèmes filtrent ou soutiennent la livraison ; **Article XIII-B** (*Droit de contester, d’examen et de recours*) ; **Article XIX-B** (*Contestabilité et limites de restriction proportionnée*) ; [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -618,7 +618,7 @@ Renvoi : **Article XXVIII-D** (*Biens et systèmes non conformes ; incitations a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapitre un §5 Liberté](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§5.1 Discipline de limitation](../../core_01.005_values_principles.md#71-limitation-discipline).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapitre un §5 Liberté](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§5.1 Discipline de limitation](../../core_01.000_values_principles.md#71-limitation-discipline).
 - En aval : **Article VI-A** (*Dignité et égal statut moral*) plancher de dignité, **Article VII-A** (*Auto-appartenance du corps et de l’esprit*) plancher de non-intrusion de l’auto-appartenance, **Article VI-C** (*Non-discrimination*) non-discrimination.
 - Lire avec : Chapitre cinq *Accès d’entretien corporel*, *Équité de fond*, *Caractéristiques protégées* ; [§3.7 *Accès d’entretien corporel, conditions sûres, continuité d’occupation, préconditions environnementales, continuité culturelle, repos, et plancher anti-déplacement*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (là où l’accès aux soins, la continuité du plancher de survie, les conditions de participation sûres, le repos ou la récupération, la continuité d’occupation, les environnements d’opération essentiels, les préconditions environnementales, ou la continuité liée au lieu sont matériellement impliqués ensemble).
 
@@ -666,7 +666,7 @@ Renvoi : **Article XXVIII-D** (*Biens et systèmes non conformes ; incitations a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapitre un §5 Liberté](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§5.1 Discipline de limitation](../../core_01.005_values_principles.md#71-limitation-discipline), [§11.1.3 Application de l’administration responsable et de l’opérateur](../../core_01.015_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapitre un §5 Liberté](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§5.1 Discipline de limitation](../../core_01.000_values_principles.md#71-limitation-discipline), [§11.1.3 Application de l’administration responsable et de l’opérateur](../../core_01.010_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
 - En aval : **Article III-A** (*Survie*) plancher de survie (lire-par-dessus, non substitut-de), **Article IV-A** (*Accès éducatif égal*) accès éducatif, **Article VI-A** (*Dignité et égal statut moral*) dignité, **Article VI-C** (*Non-discrimination*) non-discrimination, **Article X-C** (*Droits de rôle et de participation des parties affectées*) libre association, **Article XIII-A** (*Ligne de base de fiabilité et de confiance*) fiabilité (en tant qu’elle porte sur les conditions sûres), **Article XIX** (*Trajectoire et statut de participation*) trajectoire et participation, **Chapitre un §13** non-concentration (explicite : le §6 seul ne satisfait pas ce plancher).
 - Lire avec : Chapitre cinq *Compensation équitable*, *Organisation collective*, *Conditions sûres*, *Plancher anti-déplacement*, *Loisir et repos*, *Continuité autochtone*, et *Langue, culture et patrimoine* ; [§3.7 *Accès d’entretien corporel, conditions sûres, continuité d’occupation, préconditions environnementales, continuité culturelle, repos, et plancher anti-déplacement*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (là où la survie, l’accès d’entretien corporel, la continuité d’occupation, le repos, les conditions de travail sûres, l’anti-déplacement, les préconditions environnementales, ou la continuité liée au lieu sont matériellement impliqués ensemble) ; [Chapitre cinq *Assemblée, organisation collective et formation institutionnelle*](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation) (là où les voies d’assemblée et d’organisation collective sont conjointement impliquées). Routage de mise en œuvre : `corpus_institutions.md` CI-9 / CI-10 / CI-11 matériel fiscal ; `corpus_systems.md` profil de sécurité CS-5 pour *Conditions sûres*.
 
@@ -768,7 +768,7 @@ L’**Agence éducative** est définie dans le Chapitre cinq, dans le groupe sur
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 Vérité](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), et [Chapitre un §5 Liberté](../../core_01.005_values_principles.md#7-freedom-bounded-agency).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 Vérité](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), et [Chapitre un §5 Liberté](../../core_01.000_values_principles.md#7-freedom-bounded-agency).
 
 </details>
 
@@ -797,7 +797,7 @@ L’**Agence éducative** est définie dans le Chapitre cinq, dans le groupe sur
 - **Orientation d’intérêt public :** l’éducation devrait préparer les êtres sentients à appliquer la connaissance de façons qui :
   - font avancer le bien-être collectif et l’intégrité écologique ;
   - font avancer une coordination véridique dans l’info-sphère ;
-  - participer à la gouvernance sous cette Constitution et dans les systèmes où ils ont un rôle de partie prenante (voir [Rôle et droits de participation des parties prenantes](../../core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights)) ;
+  - participer à la gouvernance sous cette Constitution et dans les systèmes où ils ont un rôle de partie prenante (voir [Rôle et droits de participation des parties prenantes](../../core_06.005_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights)) ;
   - réduisent le préjudice évitable.
 
   Le contenu de construction de capacité, l’apprentissage tout au long de la vie et adaptatif, et les exigences de transparence pour les systèmes éducatifs matériellement impactants apparaissent dans l’**Article IV** (*Droit à une éducation centrée sur les êtres sentients*).
@@ -817,7 +817,7 @@ Lorsque l’évolution des systèmes modifie matériellement les compétences re
 Lorsqu’une école, une plateforme ou un système de formation peut influer matériellement sur l’avenir d’un être sentient — par les notes, classements, recommandations ou affectations — celui-ci doit pouvoir comprendre les décisions, les faire vérifier et les contester si elles sont erronées. Ces systèmes ne peuvent se retrancher derrière des règles secrètes impossibles à examiner, ni faire pression ou tromper pour imposer un choix qui ne serait pas libre.
 
 
-- **Garanties institutionnelles et systèmes dont dépend l’éducation :** les garanties institutionnelles de l’**Article III** (*Survie et accès essentiel*) — mécanismes fiscaux et d’allocation licites ainsi que l’orientation fiscale citée — peuvent aussi assurer l’éducation, sans porter atteinte aux planchers du présent Article. Lorsque des systèmes dont les sentients dépendent matériellement fournissent, tarifient, hébergent ou coupent l’accès à l’éducation, la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) s’applique selon le [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; leurs procédures ne peuvent pas réduire ces planchers.
+- **Garanties institutionnelles et systèmes dont dépend l’éducation :** les garanties institutionnelles de l’**Article III** (*Survie et accès essentiel*) — mécanismes fiscaux et d’allocation licites ainsi que l’orientation fiscale citée — peuvent aussi assurer l’éducation, sans porter atteinte aux planchers du présent Article. Lorsque des systèmes dont les sentients dépendent matériellement fournissent, tarifient, hébergent ou coupent l’accès à l’éducation, la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) s’applique selon le [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; leurs procédures ne peuvent pas réduire ces planchers.
 
 - **Transparence et contestabilité des systèmes d’apprentissage :** lorsqu’une école, plateforme ou formation peut influer matériellement sur l’avenir d’un être sentient par les notes, classements, recommandations ou affectations, celui-ci doit pouvoir comprendre les décisions, les faire vérifier et les contester si elles sont erronées. Les systèmes ne peuvent se retrancher derrière des règles secrètes impossibles à examiner, ni faire pression ou tromper pour imposer un choix qui ne serait pas libre.
 
@@ -827,7 +827,7 @@ Lorsqu’une école, une plateforme ou un système de formation peut influer mat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§8 Interprétation constitutionnelle](../../core_01.010_interaction_interpretation.md#15-constitutional-interpretation), [§11 Alignement des incitations et capture du système](core_01_c_stewardship_capacity_principles.md#19-alignement-des-incitations-et-captation-du-système), et [§9 Capacité des systèmes partagés](../../core_01.005_values_principles.md#9-shared-system-capacity).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§8 Interprétation constitutionnelle](../../core_01.005_interaction_interpretation.md#15-constitutional-interpretation), [§11 Alignement des incitations et capture du système](core_01_c_stewardship_capacity_principles.md#19-alignement-des-incitations-et-captation-du-système), et [§9 Capacité des systèmes partagés](../../core_01.000_values_principles.md#9-shared-system-capacity).
 
 </details>
 
@@ -857,15 +857,15 @@ Ces exigences protègent l’infrastructure partagée et les systèmes qui en d�
 
 *Voisins d’article :*
 
-- **Quand la certification s’applique :** lorsque des systèmes matériellement impactants allouent, routent, financent ou extraient de l’infrastructure partagée ou de dépendances fondatrices sur lesquelles d’autres systèmes ou êtres sentients s’appuient, la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) sous le [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) s’applique.
-  - **La classe détermine la profondeur :** l’intensité de l’examen dépend de la [classe du système](../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation), établie selon ce que le système fait réellement, le degré de dépendance des autres à son égard et l’ampleur des défaillances possibles — non selon le nom que lui donne son opérateur.
-  - **Classe supérieure, preuves plus fortes :** plus la classe est élevée, plus les preuves que le système [apporte sa juste contribution](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) doivent être solides et plus les contrôles doivent être fréquents.
+- **Quand la certification s’applique :** lorsque des systèmes matériellement impactants allouent, routent, financent ou extraient de l’infrastructure partagée ou de dépendances fondatrices sur lesquelles d’autres systèmes ou êtres sentients s’appuient, la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) sous le [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) s’applique.
+  - **La classe détermine la profondeur :** l’intensité de l’examen dépend de la [classe du système](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation), établie selon ce que le système fait réellement, le degré de dépendance des autres à son égard et l’ampleur des défaillances possibles — non selon le nom que lui donne son opérateur.
+  - **Classe supérieure, preuves plus fortes :** plus la classe est élevée, plus les preuves que le système [apporte sa juste contribution](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) doivent être solides et plus les contrôles doivent être fréquents.
   - **La croissance impose une reclassification :** si d’autres dépendent davantage du système, celui-ci doit être reclassé et certifié à nouveau dans la classe supérieure.
 - **Maintien de la certification :** la certification n’est pas une autorisation permanente. Pour la conserver, le système doit continuer de respecter les **Articles V-A** (*Cartographie des dépendances et transparence des flux de ressources*) et **V-B** (*Équité inter-systèmes et durabilité*).
   - **Obligations continues :** garder à jour les cartes de dépendance et les registres des flux de ressources, et continuer à contribuer équitablement en contrepartie de son utilisation.
-  - **Des preuves, pas des promesses :** chaque dossier de certification doit montrer que cela a été [vérifié](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), et non simplement affirmé.
+  - **Des preuves, pas des promesses :** chaque dossier de certification doit montrer que cela a été [vérifié](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), et non simplement affirmé.
   - **Aucun substitut :** la reconnaissance officielle ou une longue période de confiance ne remplacent pas le respect de ces exigences.
-  - **Conséquences :** si un système dissimule ou déforme ses flux de ressources, ou continue de prendre davantage qu’il ne restitue, sa certification peut être assortie de conditions, rouverte ou retirée selon [le Chapitre neuf §7, Résultats de certification](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes).
+  - **Conséquences :** si un système dissimule ou déforme ses flux de ressources, ou continue de prendre davantage qu’il ne restitue, sa certification peut être assortie de conditions, rouverte ou retirée selon [le Chapitre neuf §7, Résultats de certification](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 - **Non-substitution :** la reconnaissance ou l’appui continu ne peut pas se substituer à la conformité de l’**Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) ou de l’**Article V-B** (*Équité inter-systèmes et durabilité*) ni resserrer ces planchers.
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -873,9 +873,9 @@ Ces exigences protègent l’infrastructure partagée et les systèmes qui en d�
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3.2 Vérité](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), et [§18 Gouvernance sous discipline d’administration responsable](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- En amont : Principes : Chapitre un [§3.2 Vérité](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), et [§18 Gouvernance sous discipline d’administration responsable](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Lire avec : famille de mesure Continuité (*Dépendance et flux de ressources comme mesure constitutionnelle*) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **supervision** à travers des cartes de dépendance transparentes et des registres auditables de flux de ressources, **participation** dans un examen contestable sous l’**Article XVI-A** (*Auditabilité et preuve observable*) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** (allocation visible des coûts et des bénéfices) et **Continuité** (visibilité durable des dépendances à travers des systèmes qui changent).
-- En aval : [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) et [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là où des systèmes allouent, routent, financent ou extraient de l’infrastructure partagée ou de dépendances fondatrices ; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Allocation des ressources et administration responsable du financement*), et **CS-8** (*Durabilité adaptive et résilience de l’écosystème*).
+- En aval : [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) et [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là où des systèmes allouent, routent, financent ou extraient de l’infrastructure partagée ou de dépendances fondatrices ; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Allocation des ressources et administration responsable du financement*), et **CS-8** (*Durabilité adaptive et résilience de l’écosystème*).
 
 </details>
 
@@ -897,7 +897,7 @@ Ces exigences protègent l’infrastructure partagée et les systèmes qui en d�
   - flux de ressources ;
   - relations non transparentes ou asymétriques là où c’est matériellement pertinent.
 
-  Les mises à jour doivent se produire à des intervalles proportionnés au changement et à la criticité. Ces représentations doivent être disponibles pour audit sous l’**Article XVI-A** (*Auditabilité et preuve observable*). Là où le système alloue, route, finance ou extrait matériellement de l’infrastructure partagée ou de dépendances fondatrices, la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) sous le [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) doit évaluer s’ils satisfont l’**Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) — sur un **Registre de certification du système** contestable, non seulement sur l’assertion de l’opérateur.
+  Les mises à jour doivent se produire à des intervalles proportionnés au changement et à la criticité. Ces représentations doivent être disponibles pour audit sous l’**Article XVI-A** (*Auditabilité et preuve observable*). Là où le système alloue, route, finance ou extrait matériellement de l’infrastructure partagée ou de dépendances fondatrices, la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) sous le [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) doit évaluer s’ils satisfont l’**Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*) — sur un **Registre de certification du système** contestable, non seulement sur l’assertion de l’opérateur.
 
   La mécanique opérationnelle — cartes des systèmes dépendants, transparence des flux, catégories d’allocation, et ajustement adaptatif — se route sous **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Allocation des ressources et administration responsable du financement*), et **CS-8** (*Durabilité adaptive et résilience de l’écosystème*). Le Chapitre neuf énonce ce que la certification doit vérifier et enregistrer ; ces textes de mise en œuvre mettent en œuvre ce plancher et ne doivent pas le resserrer.
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -907,10 +907,10 @@ Ces exigences protègent l’infrastructure partagée et les systèmes qui en d�
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§13.1 Principes d’arbitrage centraux](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre un [§3 Objectif fondateur : bien-être](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§13.1 Principes d’arbitrage centraux](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre neuf §3 Évaluation de certification du système entier](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Lire avec : [*Architecture de gouvernance, supervision, dépendance, décentralisation, concentration, structure de marché, et intégrité de la voie de sortie*](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration) (invocation conjointe là où la concentration, la supervision, la dépendance, la structure d’autorité gouvernante, ou le routage des incitations croisent **§5** / **§5** et la discipline d’*Interaction de seuil de concentration* dans le texte opératoire ci-dessous).
 - Lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **participation** dans les voies de contestation, **supervision** et audit, **reddition de comptes** et examen correctif, **action en temps** sous l’**Article XXVI-C** (*Résolution en temps et plancher anti-retard*) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** (équité inter-systèmes et non-extraction) et **Continuité** (durabilité de long terme et financement de l’écosystème).
-- En aval : [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) et [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là où l’équité inter-systèmes, le financement de l’écosystème, ou l’extraction persistante de l’infrastructure partagée est matériellement en jeu.
+- En aval : [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) et [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là où l’équité inter-systèmes, le financement de l’écosystème, ou l’extraction persistante de l’infrastructure partagée est matériellement en jeu.
 - Porte d’administration responsable (non opératoire) : Déclaration contraignante de l’étape suivante : [Énoncé opératoire d’administration responsable](#operative-steward-statement-cross-system-contribution). Les pointeurs de soutien ne peuvent pas le resserrer.
 
 </details>
@@ -948,12 +948,12 @@ Ces exigences protègent l’infrastructure partagée et les systèmes qui en d�
   - le réinvestissement d’écosystème pour l’infrastructure partagée et l’interopérabilité dont le système extracteur dépend ; et
   - la compensation ou la restauration de charge écologique là où une [Empreinte écologique](../../core_05.040_band_continuity.md#ecological-footprint) matérielle est imposée et qu’une autre disposition constitutionnelle, un fichier de mise en œuvre ou un instrument d’adoption exige une action.
 
-  Comparez les flux entrants et sortants sur les cartes des systèmes dépendants et les registres auditables de flux de ressources sous l’**Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*). Là où des systèmes matériellement impactants allouent, routent, financent ou extraient de l’infrastructure partagée, évaluez l’adéquation à travers la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) sous le [Chapitre neuf](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). La mécanique opérationnelle d’allocation se route sous **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Allocation des ressources et administration responsable du financement*), et **CS-8** (*Durabilité adaptive et résilience de l’écosystème*) ; ces couches mettent en œuvre ce plancher et ne doivent pas le resserrer.
+  Comparez les flux entrants et sortants sur les cartes des systèmes dépendants et les registres auditables de flux de ressources sous l’**Article V-A** (*Cartographie des dépendances et transparence des flux de ressources*). Là où des systèmes matériellement impactants allouent, routent, financent ou extraient de l’infrastructure partagée, évaluez l’adéquation à travers la [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification) sous le [Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). La mécanique opérationnelle d’allocation se route sous **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Allocation des ressources et administration responsable du financement*), et **CS-8** (*Durabilité adaptive et résilience de l’écosystème*) ; ces couches mettent en œuvre ce plancher et ne doivent pas le resserrer.
 
   Les déséquilibres persistants qui menacent matériellement l’alignement constitutionnel sont sujets à audit, contestation et examen correctif sous les **Article XIII-A** (*Ligne de base de fiabilité et de confiance*) et **Article XVI-A** (*Auditabilité et preuve observable*).
 - **Interaction de seuil de concentration de marché :** les arrangements d’allocation de ressources qui produisent ou préservent une concentration de richesse, de pouvoir, de contrôle ou d’opportunité de façons qui dégradent prévisiblement le bien-être, l’agence, la dignité ou l’intégrité écologique d’autres êtres sentients engagent :
   - le **plancher de non-concentration du Chapitre un §13** ;
-  - la discipline du **[§13.1 Mécanisme de seuil de concentration de marché](../../core_01.005_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)**.
+  - la discipline du **[§13.1 Mécanisme de seuil de concentration de marché](../../core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)**.
 
   Les seuils opérationnels ajustables par la partie qui adopte sont permis à l’intérieur du plancher. Les régimes de seuil fixés pour annuler le plancher sont non conformes. Exemples de régimes qui annulent :
   - des seuils qui prévisiblement ne lient jamais ;
@@ -970,4 +970,4 @@ Ces exigences protègent l’infrastructure partagée et les systèmes qui en d�
 
 **Fichier suivant (cette langue) :** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**Original contraignant :** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
+**Original contraignant :** [core_06_rights_part_a.md](../../core_06.000_rights_part_a.md)

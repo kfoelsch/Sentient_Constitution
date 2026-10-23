@@ -81,7 +81,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- อ่านคู่กับ: [บทที่หนึ่ง §11 ความสอดคล้องของสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) [§13 โครงสร้างตลาด](core_01_c_stewardship_capacity_principles.md) และ [บทที่เจ็ด §3.3 วินัยการปกครอง สิ่งจูงใจ และความสามารถในการโต้แย้ง](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)
+- อ่านคู่กับ: [บทที่หนึ่ง §11 ความสอดคล้องของสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) [§13 โครงสร้างตลาด](core_01_c_stewardship_capacity_principles.md) และ [บทที่เจ็ด §3.3 วินัยการปกครอง สิ่งจูงใจ และความสามารถในการโต้แย้ง](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)
 
 </details>
 

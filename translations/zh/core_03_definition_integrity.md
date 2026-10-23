@@ -89,7 +89,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：[第三章，第 1 节 — 定义完整性与反规避约束](#1-定义完整性与反规避约束)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-定义完整性要求)；[第二章，§2.2 因结构或适用削弱而不合规](core_02_definition_structure.md#22-因结构或适用削弱而不合规)。
-- 下游：第 [2.1](#21-常见规避模式) 至 [2.6](#26-不确定性完整性与不利用约束) 节中的类型目录；[3. 不合规认定画像](#3-不合规认定画像)；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-合规证据标准)；[第四章，第 3 节 — 可追溯性的可观察性要求](core_04_burden_traceability_verification.md#3-可追溯性的可观察性要求)；[第九章 §7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)（*系统对齐认证重开与反规避指针*）；[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
+- 下游：第 [2.1](#21-常见规避模式) 至 [2.6](#26-不确定性完整性与不利用约束) 节中的类型目录；[3. 不合规认定画像](#3-不合规认定画像)；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-合规证据标准)；[第四章，第 3 节 — 可追溯性的可观察性要求](core_04_burden_traceability_verification.md#3-可追溯性的可观察性要求)；[第九章 §7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)（*系统对齐认证重开与反规避指针*）；[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
 - 一并阅读：[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-宗旨与角色)，关于完整功能系统条件下的整系统联合满足规则；[第二章，§2.4 歧义下的解释规则](core_02_definition_structure.md#24-歧义下的解释规则) — 削弱保障、收窄必须被评估者，或使真实世界结果变差的解释无效；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-合规证据标准) — 证据必须在本节规则下展示合规；在此处会构成不合规的证明，未满足举证责任；[不合规](../../core_05.045_band_integrative.md#non-compliance)。
 
 </details>
@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第三章，第 2 节 — 来自可观察系统行为的不合规](#2-来自可观察系统行为的不合规)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-定义完整性要求)。
-- 下游：[第四章，第 2 节 — 定义可追溯性要求](core_04_burden_traceability_verification.md#2-定义可追溯性要求)；[第九章 — 系统对齐认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十一章 — 轨迹效果与整合](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
+- 下游：[第四章，第 2 节 — 定义可追溯性要求](core_04_burden_traceability_verification.md#2-定义可追溯性要求)；[第九章 — 系统对齐认证](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十一章 — 轨迹效果与整合](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
 - 一并阅读：[不合规认定画像](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — 画像字段的典范 O/M/A/C 家园；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
 
 </details>
@@ -237,12 +237,12 @@
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 已认证系统的轨迹效果
 
-如果某系统已经依据[系统协调认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)运行——包括认证、有条件认证或尚未到期的重新认证——那么该系统功能范围内经核实且具有实质意义的不合规**必须**纳入针对**该系统**的[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)地位测量。只有通过[已核实输入门槛](../../core_10.000_standing_assessment.md#verified-inputs-for-standing)的事实才能纳入。依照[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)测量地位；依照[第十一章](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)适用其整合与效力。重新开启、撤销或其他认证后果仍由[第九章](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)处理；这些后果不能取代该系统的地位记录。
+如果某系统已经依据[系统协调认证](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)运行——包括认证、有条件认证或尚未到期的重新认证——那么该系统功能范围内经核实且具有实质意义的不合规**必须**纳入针对**该系统**的[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)地位测量。只有通过[已核实输入门槛](../../core_10.000_standing_assessment.md#verified-inputs-for-standing)的事实才能纳入。依照[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)测量地位；依照[第十一章](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)适用其整合与效力。重新开启、撤销或其他认证后果仍由[第九章](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)处理；这些后果不能取代该系统的地位记录。
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 首次认证时的轨迹效果
 
-如果系统仍处于**首次**[系统协调认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)流程中且尚未获得认证——包括认证被延期或拒绝的情形——经核实的不合规主要决定第九章下的**认证结果**。结果可以是有条件认证、延期认证、不予认证或类似结果。在授予认证之前，这些认证记录不会提供地位输入；根据[第九章§10 与地位的关系](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)，该节只将已认证系统的记录作为地位输入来源。认证授予后（包括有条件认证），适用[§3.1 已认证系统的地位影响](#31-已认证系统的轨迹效果)。本章不要求提供与已认证并运行的系统相同的地位记录。
+如果系统仍处于**首次**[系统协调认证](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)流程中且尚未获得认证——包括认证被延期或拒绝的情形——经核实的不合规主要决定第九章下的**认证结果**。结果可以是有条件认证、延期认证、不予认证或类似结果。在授予认证之前，这些认证记录不会提供地位输入；根据[第九章§10 与地位的关系](../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)，该节只将已认证系统的记录作为地位输入来源。认证授予后（包括有条件认证），适用[§3.1 已认证系统的地位影响](#31-已认证系统的轨迹效果)。本章不要求提供与已认证并运行的系统相同的地位记录。
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 感知者与机构的轨迹效果

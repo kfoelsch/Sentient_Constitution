@@ -797,7 +797,7 @@ La Confianza conecta las restricciones de principios con la vida compartida coti
 - [**Materialidad**](../../core_05.050_band_oversight.md#materiality) determina cuánto debe mostrarse y explicarse: cuanto mayores sean los riesgos para quienes dependen de un sistema, más debe este divulgar y justificar.
 - [**Deterioro de la confianza y confianza inducida mediante engaño**](core_05_band_continuity.md#degradación-de-la-confianza-y-dependencia-engañosa) denomina el modo de fallo: cuando los sistemas crean, mantienen o puntúan la confianza depositada de maneras constitucionalmente engañosas.
 
-La confianza falla cuando se crea o mantiene mediante supresión, engaño, transferencia oculta de riesgos o tácticas similares, incluidas las que menoscaban sustancialmente la capacidad de los seres sintientes para detectar e impugnar riesgos sistémicos. El proceso de [**Certificación de alineación del sistema**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) conforme al [Capítulo Nueve](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) permite demostrar que las afirmaciones de confianza de un sistema se sostienen: la certificación debe verificar que la conducta real coincide con lo representado, a partir de un expediente impugnable, no de la mera afirmación del operador.
+La confianza falla cuando se crea o mantiene mediante supresión, engaño, transferencia oculta de riesgos o tácticas similares, incluidas las que menoscaban sustancialmente la capacidad de los seres sintientes para detectar e impugnar riesgos sistémicos. El proceso de [**Certificación de alineación del sistema**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) conforme al [Capítulo Nueve](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) permite demostrar que las afirmaciones de confianza de un sistema se sostienen: la certificación debe verificar que la conducta real coincide con lo representado, a partir de un expediente impugnable, no de la mera afirmación del operador.
 
 La confianza también depende de lo que ocurre cuando un sistema falla. Un sistema confiable corrige sus errores: el [§6.1 Corrección y reparación](#61-correction-and-remedy) integra la corrección en la Confianza, no la deja para después.
 
@@ -1945,7 +1945,7 @@ Cualquier afirmación sobre las cuestiones siguientes debe contrastarse con lo q
 
 Los factores detallados de evaluación y los registros de certificación corresponden a:
 - **[Capítulo Nueve §3 Evaluación de certificación de todo el sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[Capítulo Nueve §8 Registro de certificación del sistema](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record)**;
+- **[Capítulo Nueve §8 Registro de certificación del sistema](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y tratamiento de sistemas**.
 
 El proceso del Capítulo Nueve:

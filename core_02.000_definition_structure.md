@@ -5,7 +5,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Two**: definition structure and component alignment (O/M/A/C). **Chapter Three** — definition integrity, evasion, and non-compliance — is in [`core_03.000_definition_integrity.md`](core_03.000_definition_integrity.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 >
-> **Upstream:** [Chapter One, Part C](core_01.015_stewardship_capacity_principles.md).
+> **Upstream:** [Chapter One, Part C](core_01.010_stewardship_capacity_principles.md).
 > **Downstream:** [Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification).
 
 </details>
@@ -40,7 +40,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad),
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and
   - [material stake](core_00.000_preamble.md#material-stake) scaling apply chapter-wide through section traces;
-  - [Chapter One §1 Purpose and Role](core_01.005_values_principles.md#1-purpose-and-role) (1.005 §1) (*values and constraints this definition stack serves*).
+  - [Chapter One §1 Purpose and Role](core_01.000_values_principles.md#1-purpose-and-role) (1.000 §1) (*values and constraints this definition stack serves*).
 - Upstream: [Chapter Two opening](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C decomposition and internal-alignment requirement.
 - Tetrad leg(s): **oversight**, **accountability** (definitions must be assessable and enforceable on observable behavior). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00.000_preamble.md#material-stake) scaling applies chapter-wide.
 - Downstream:
@@ -257,6 +257,6 @@ A definition's parts must stay consistent across:
 
 ---
 
-**Previous file:** [core_01.015_stewardship_capacity_principles.md](core_01.015_stewardship_capacity_principles.md)
+**Previous file:** [core_01.010_stewardship_capacity_principles.md](core_01.010_stewardship_capacity_principles.md)
 
 **Next file:** [core_03.000_definition_integrity.md](core_03.000_definition_integrity.md)

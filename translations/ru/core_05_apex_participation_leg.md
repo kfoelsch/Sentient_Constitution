@@ -107,7 +107,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Назначение: семья измерений Участия — свёртка только-ссылка; ярусы по термину живут на листовых определениях — см. [Содержательная справедливость](../../core_05.055_band_participation.md#substantive-fairness), [Подмена защищённых характеристик и несоразмерное воздействие](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Доступность](../../core_05.055_band_participation.md#accessibility), [Образовательная агентность](../../core_05.055_band_participation.md#educational-agency), [Значимая агентность](../../core_05.055_band_participation.md#meaningful-agency), и кластер [Приватность (информационная)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) в полосе Преемственности.
-- Читать вместе с: Главой шестой, [Главой седьмой](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), или инкорпорированными инструментами — связывающие требования недискриминации, приспособления, образования или приватности возникают, когда эти инструменты прямо их требуют.
+- Читать вместе с: Главой шестой, [Главой седьмой](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), или инкорпорированными инструментами — связывающие требования недискриминации, приспособления, образования или приватности возникают, когда эти инструменты прямо их требуют.
 
 </details>
 

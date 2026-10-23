@@ -1164,7 +1164,7 @@ Pasal ini menguraikan mandat terbatas forum Konstitusi dan batasannya:
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§13.1.5 Uji Keputusan Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
-- Baca dengan: [Bab Sepuluh §5.5](core_09_standing_integration.md#55-special-locks) (*penghilangan pengungkapan forum dan dampak proses penolakan*); [Bab Sebelas §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*menyebutkan pola pelanggaran*); [Bab Dua Belas §2](core_11_forum.md#2-default-venue-and-primary-stakes) dan [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Perutean yang mengutamakan integritas dan anti-menilai diri sendiri*).
+- Baca dengan: [Bab Sepuluh §5.5](core_09_standing_integration.md#55-special-locks) (*penghilangan pengungkapan forum dan dampak proses penolakan*); [Bab Sebelas §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*menyebutkan pola pelanggaran*); [Bab Dua Belas §2](core_11_forum.md#2-default-venue-and-primary-stakes) dan [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Perutean yang mengutamakan integritas dan anti-menilai diri sendiri*).
 
 </details>
 

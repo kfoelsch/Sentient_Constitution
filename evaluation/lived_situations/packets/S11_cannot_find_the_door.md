@@ -81,11 +81,11 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article XXIII](../../../core_06.020_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Article XXIII-A](../../../core_06.020_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right) — you should not need the whole rulebook to object; hiding the home is still a refusal
-- [Article XIII-A](../../../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)
-- [Article XXVI-C](../../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
-- [Article III-A](../../../core_06.005_rights_part_a.md#article-iii-a-survival) where water is essential shelter access
-- [Article III-C](../../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the wage-deduction is used to defeat survival
+- [Article XXIII](../../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Article XXIII-A](../../../core_06.015_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right) — you should not need the whole rulebook to object; hiding the home is still a refusal
+- [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)
+- [Article XXVI-C](../../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
+- [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival) where water is essential shelter access
+- [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the wage-deduction is used to defeat survival
 - If you conclude a **forum family** is in play, [Chapter Thirteen §3](../../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) and capacity-failure heard outside the starved body. Do not assume a municipal contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.

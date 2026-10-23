@@ -9,7 +9,7 @@ Core files (``core_*.md``)
 
     * ``Chapter <N>[, Part <X> | , <band or leg>] is the constitutional owner of
       **<domain>**`` (``The Preamble is …`` for the Preamble); or
-    * for a reading index or an illustration file that adds no rule, a line that
+    * for an illustration or vignette file that adds no rule, a line that
       says it ``owns no rule``.
 
     The claim sits before the first ``*In plain terms:*`` gloss and before the
@@ -50,12 +50,11 @@ CHAPTER_WORDS = {
 
 # Files that add no rule: they must say so instead of claiming ownership.
 CORE_NON_OWNER = {
-    "core_09.000_system_alignment_certification.md",
-    "core_09.015_system_alignment_certification_illustrations.md",
+    "core_09.010_system_alignment_certification_illustrations.md",
     "core_10.005_application_vignettes.md",
 }
 # Chapter Six Part A carries the chapter-level claim and does not name "Part A".
-CORE_PART_OPTIONAL = {"core_06.005_rights_part_a.md"}
+CORE_PART_OPTIONAL = {"core_06.000_rights_part_a.md"}
 
 LAYERS = {
     "corpus_forum": ("forum", "CF"),

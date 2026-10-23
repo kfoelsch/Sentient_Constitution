@@ -117,7 +117,7 @@
 - 上游原则：[宪法四元](../../core_00.000_preamble.md#constitutional-tetrad)——按[实质利害](../../core_00.000_preamble.md#material-stake)分级。
 - 簇组成部分：[*实质影响、实质性、按分类分级的治理、监督与能力要求*](core_05_band_oversight.md#实质性影响风险与代理指标完整性)。
 - 一并阅读：[依赖](../../core_05.040_band_continuity.md#dependency)、[实质影响](core_05_band_oversight.md#实质影响)、[风险](../../core_05.040_band_continuity.md#risk)、[系统边界完整性](../../core_05.040_band_continuity.md#system-boundary-integrity)、[领域特定实质性](core_05_band_oversight.md#领域特定实质性)及[监督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)。
-- 下游：[第九章 §3 整系统认证评价](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评价](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)——按分类分级的整系统评价义务。
+- 下游：[第九章 §3 整系统认证评价](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评价](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)——按分类分级的整系统评价义务。
 
 </details>
 
@@ -139,7 +139,7 @@
 - **衡量与评估方式**
   - **主要衡量：**[监督衡量族](../../core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)——*有感知者能否看见、核验并依赖系统所呈现的内容？* 在此据此判断监督深度和核验负担是否匹配系统的真实利害、影响、依赖和风险，而非其自行指定的低分类。
 
-    **主要评估：**依据实施规则确定真实分类，并结合[实质性](core_05_band_oversight.md#实质性)和[系统边界完整性](../../core_05.040_band_continuity.md#system-boundary-integrity)阅读。若系统整体影响要求更强的[监督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)或治理，自行指定或非正式采用低分类并不足够。依[第九章 §3 整系统认证评价](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§4 涉及事项的评价](../../core_09.005_system_alignment_certification_evaluation.md#4-evaluations-where-implicated)和[§5 权利底线与领域评价](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)进行的整系统审查按分类分级：
+    **主要评估：**依据实施规则确定真实分类，并结合[实质性](core_05_band_oversight.md#实质性)和[系统边界完整性](../../core_05.040_band_continuity.md#system-boundary-integrity)阅读。若系统整体影响要求更强的[监督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)或治理，自行指定或非正式采用低分类并不足够。依[第九章 §3 整系统认证评价](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§4 涉及事项的评价](../../core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated)和[§5 权利底线与领域评价](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)进行的整系统审查按分类分级：
     - **A 类、B 类和 C 类**——必须进行完整深度的评价；
     - **L 类**——必须评价，但其规模按影响确定；以及
     - **P 类**——系统有效维持 **P 类**期间，鼓励评价。
@@ -159,7 +159,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：权利底线：**[第 XXVIII-A 条](../../core_06.025_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity)（*分阶段采纳与权利底线连续性*）**。
+- 下游：权利底线：**[第 XXVIII-A 条](../../core_06.020_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity)（*分阶段采纳与权利底线连续性*）**。
 - 规范归属：本定义说明闸门是什么。[闸门标准](core_05_band_oversight.md#闸门标准)说明必须证明什么条件，闸门才会开启。实施细节见 **CS-10.3**（*闸门标准与推进规则*）和 **CI-14**（*过渡治理与制度演进*）。
 - 配合阅读：[闸门标准](core_05_band_oversight.md#闸门标准)、[可审计性](core_05_band_oversight.md#可审计性)、[可质疑性](../../core_05.035_band_accountability.md#contestability)和[可逆性](../../core_05.040_band_continuity.md#reversibility)。
 
@@ -196,7 +196,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：权利底线：**[第 XXVIII-A 条](../../core_06.025_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity)（*分阶段采纳与权利底线连续性*）**；**[第 XXVIII-B 条](../../core_06.025_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization)（*过渡期权限限制与重新授权*）**。
+- 下游：权利底线：**[第 XXVIII-A 条](../../core_06.020_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity)（*分阶段采纳与权利底线连续性*）**；**[第 XXVIII-B 条](../../core_06.020_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization)（*过渡期权限限制与重新授权*）**。
 - 规范归属：本定义说明闸门标准是什么。具体计划的标准内容由该计划依 **CS-10.3**（*闸门标准与推进规则*）和 **CI-14**（*过渡治理与制度演进*）规定，不得缩窄本定义。
 - 配合阅读：[闸门](core_05_band_oversight.md#闸门)、[可审计性](core_05_band_oversight.md#可审计性)、[可质疑性](../../core_05.035_band_accountability.md#contestability)、[按分类分级的治理](core_05_band_oversight.md#按分类分级的治理)和[可逆性](../../core_05.040_band_continuity.md#reversibility)。
 
@@ -247,9 +247,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：[第一章 §13.1.3 比例性](../../core_01.010_interaction_interpretation.md#1313-proportionality)（*提高的门槛*）。
+- 上游：原则：[第一章 §13.1.3 比例性](../../core_01.005_interaction_interpretation.md#1313-proportionality)（*提高的门槛*）。
 - 配合阅读：[必要性](../../core_05.035_band_accountability.md#necessity)、[比例性](../../core_05.035_band_accountability.md#proportionality)、[可质疑性](../../core_05.035_band_accountability.md#contestability)、[按分类分级的治理](core_05_band_oversight.md#按分类分级的治理)和[不确定情形下的实质性](core_05_band_oversight.md#不确定情形下的实质性)。
-- 下游：[第 I-D 条](../../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity)（*生存风险与生态恢复能力*）；[第 XI-B 条](../../core_06.010_rights_part_b.md#article-xi-b-expression)（*表达*）；[第 XIV-C 条](../../core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools)（*自主致命系统与自主胁迫工具*）；[第十二章 §3](../../core_12.005_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9：反宪法指定*）；[第十七章 §1](../../core_17.000_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes)（*影响权利的变更之加强审查*）。
+- 下游：[第 I-D 条](../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity)（*生存风险与生态恢复能力*）；[第 XI-B 条](../../core_06.005_rights_part_b.md#article-xi-b-expression)（*表达*）；[第 XIV-C 条](../../core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools)（*自主致命系统与自主胁迫工具*）；[第十二章 §3](../../core_12.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9：反宪法指定*）；[第十七章 §1](../../core_17.000_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes)（*影响权利的变更之加强审查*）。
 
 </details>
 
@@ -264,14 +264,14 @@
     - 审查须独立于行动方，决定及其理由须公开，并可依据[可质疑性](../../core_05.035_band_accountability.md#contestability)提出异议；以及
     - 记录须公开说明不确定性、假设、证据局限和意见分歧。
     <a id="highest-scrutiny"></a>
-  - **适用范围——最高级审查：**同一标准中最严格的层级，仅在条款明确规定时适用——包括依[第 I-D 条](../../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity)（*生存风险与生态恢复能力*）涉及可信因果路径、可能导致生存风险或生态恢复能力不可逆丧失的情形；依[第 XI-B 条](../../core_06.010_rights_part_b.md#article-xi-b-expression)（*表达*）对表达内容作限制的情形；以及依[第十二章 §3](../../core_12.005_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9：反宪法指定*）作出最终反宪法不当行为指定的情形。除加强审查的一切要求外，还须满足：
+  - **适用范围——最高级审查：**同一标准中最严格的层级，仅在条款明确规定时适用——包括依[第 I-D 条](../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity)（*生存风险与生态恢复能力*）涉及可信因果路径、可能导致生存风险或生态恢复能力不可逆丧失的情形；依[第 XI-B 条](../../core_06.005_rights_part_b.md#article-xi-b-expression)（*表达*）对表达内容作限制的情形；以及依[第十二章 §3](../../core_12.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9：反宪法指定*）作出最终反宪法不当行为指定的情形。除加强审查的一切要求外，还须满足：
     - 在清楚且经核实的证据证明每项必要要素之前，受审查行为推定为不合规；
     - 未解决的疑问、缺失的证据或未经检验的假设均须对受审查行为不利；以及
     - 审查者在职能上必须独立于原决定及任何从该决定中获益者。
   - **不适用范围：**
     - 一般的[必要性](../../core_05.035_band_accountability.md#necessity)和[比例性](../../core_05.035_band_accountability.md#proportionality)审查；没有加强审查触发条件时，这些标准仍普遍适用；
     - 触发条件本身；该条件由援引此标准的条款规定；
-    - 依[第一章 §15.4.3 纳入层](../../core_01.010_interaction_interpretation.md#1543-incorporation-layer)，在纳入文本之间作选择时适用的[最大保护效力](../../core_05.045_band_integrative.md#fullest-protective-effect)规则；以及
+    - 依[第一章 §15.4.3 纳入层](../../core_01.005_interaction_interpretation.md#1543-incorporation-layer)，在纳入文本之间作选择时适用的[最大保护效力](../../core_05.045_band_integrative.md#fullest-protective-effect)规则；以及
     - “加强”一词的其他用法，即指更强的保障、权重、优先级或控制，而非审查标准（例如第十章的加强保障或栖息地的提高优先级）。
 <a id="heightened-scrutiny-a"></a>
 - **衡量与评估方式**
@@ -313,7 +313,7 @@
     - 消息来源保护；
     - 调查；以及
     - 发布。
-    从事这些工作的有感知者行使[表达](../../core_05.055_band_participation.md#expression)与[集会](../../core_05.055_band_participation.md#assembly)权利底线，并依据[第 XI-C 条](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity)（*新闻媒体与新闻活动*）受到[加强审查](core_05_band_oversight.md#加强审查)保护，免受国家和运营者意图损害该活动的行为侵害。
+    从事这些工作的有感知者行使[表达](../../core_05.055_band_participation.md#expression)与[集会](../../core_05.055_band_participation.md#assembly)权利底线，并依据[第 XI-C 条](../../core_06.005_rights_part_b.md#article-xi-c-press-and-journalistic-activity)（*新闻媒体与新闻活动*）受到[加强审查](core_05_band_oversight.md#加强审查)保护，免受国家和运营者意图损害该活动的行为侵害。
   - **不适用范围：**记者证、机构头衔，或不属于新闻采集、调查或具有新闻功能之发布的一般商业言论。
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **衡量与评估方式**
@@ -375,7 +375,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：整合性实质性（[实质性](core_05_band_oversight.md#实质性)）（*作为宪法衡量的实质性*）；原则：[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（**实质性** DEC 层级；评估完整性）；[13.1 核心权衡原则](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles)（结合实质影响理解比例性层级）。
+- 下游：整合性实质性（[实质性](core_05_band_oversight.md#实质性)）（*作为宪法衡量的实质性*）；原则：[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（**实质性** DEC 层级；评估完整性）；[13.1 核心权衡原则](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles)（结合实质影响理解比例性层级）。
 - 配合阅读：[实质影响](core_05_band_oversight.md#实质影响)、[实质风险](core_05_band_oversight.md#实质风险)、[系统性实质性](../../core_05.040_band_continuity.md#systemic-materiality)、[领域特定实质性](core_05_band_oversight.md#领域特定实质性)和[按分类分级的治理](core_05_band_oversight.md#按分类分级的治理)。
 
 </details>
@@ -410,7 +410,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：整合性实质性（[实质性](core_05_band_oversight.md#实质性)）（*作为宪法衡量的实质性*）；原则：[实质利害](../../core_00.000_preamble.md#material-stake)分级代理指标；第一章在**安全**（**第一章 §15.1**）、**真相**（**第一章 §15.2**）、**信任**（**§12**）、**§12**的守护与开放条文、**§13.1**、**§13.2**以及**第一章 §13.3.2**（**实质性**出现在 D/A/C 组件中）多处援引本定义——主要系统评估依据见[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)。
+- 下游：整合性实质性（[实质性](core_05_band_oversight.md#实质性)）（*作为宪法衡量的实质性*）；原则：[实质利害](../../core_00.000_preamble.md#material-stake)分级代理指标；第一章在**安全**（**第一章 §15.1**）、**真相**（**第一章 §15.2**）、**信任**（**§12**）、**§12**的守护与开放条文、**§13.1**、**§13.2**以及**第一章 §13.3.2**（**实质性**出现在 D/A/C 组件中）多处援引本定义——主要系统评估依据见[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)。
 - 集群组成部分：[依赖集群：*实质影响、实质性、按分类分级的治理、监督与能力要求*](core_05_band_oversight.md#实质性影响风险与代理指标完整性)。
 - 配合阅读：[实质影响](core_05_band_oversight.md#实质影响)、[实质风险](core_05_band_oversight.md#实质风险)、[系统性实质性](../../core_05.040_band_continuity.md#systemic-materiality)、[领域特定实质性](core_05_band_oversight.md#领域特定实质性)和[可审计性](core_05_band_oversight.md#可审计性)。
 
@@ -482,7 +482,7 @@
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 规范归属：本条。[实质性](core_05_band_oversight.md#实质性)保留按[实质利害](../../core_00.000_preamble.md#material-stake)分级义务的方法。本条回答另一个问题：在生活的每个主要领域，某项行为或实体的持续活动何时重要到足以触发义务？它用同一份清单完成两项工作：测试某项行为是否具有实质性，并测试实体是否需要系统章程或机构章程。
-- 下游：[具有实质约束力的行为](../../core_05.035_band_accountability.md#materially-binding-act)（判断其影响是否具有实质性的测试）；[第七章 §3 何时需要系统章程和机构章程](core_07_charters.md#1-when-system-and-institutional-charters-are-required)；[第九章 D 部分 §12.1 机构类别](../../core_09.020_institutional_alignment_certification.md#121-institution-class)；**CS-3**（*系统分类机制*）、P 类保留以及从 P 类重新分类为 L 类的界线。
+- 下游：[具有实质约束力的行为](../../core_05.035_band_accountability.md#materially-binding-act)（判断其影响是否具有实质性的测试）；[第七章 §3 何时需要系统章程和机构章程](core_07_charters.md#1-when-system-and-institutional-charters-are-required)；[第九章 D 部分 §12.1 机构类别](../../core_09.015_institutional_alignment_certification.md#121-institution-class)；**CS-3**（*系统分类机制*）、P 类保留以及从 P 类重新分类为 L 类的界线。
 - 配合阅读：[实质](core_05_band_oversight.md#实质)、[实质影响](core_05_band_oversight.md#实质影响)、[实质风险](core_05_band_oversight.md#实质风险)、[系统性实质性](../../core_05.040_band_continuity.md#systemic-materiality)、[实质性完整性约束](core_05_band_oversight.md#实质性完整性约束)、[具有实质约束力的行为](../../core_05.035_band_accountability.md#materially-binding-act)、[实质控制界线](../../core_05.035_band_accountability.md#material-control-line)、[生态恢复能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity)、[依赖关系](../../core_05.040_band_continuity.md#dependency)、[伤害](../../core_05.035_band_accountability.md#harm)、[不可逆伤害](../../core_05.035_band_accountability.md#irreversible-harm)、[可避免负担](../../core_05.040_band_continuity.md#avoidable-burden)和[按分类分级的治理](core_05_band_oversight.md#按分类分级的治理)。
 
 </details>
@@ -515,7 +515,7 @@
       - 不具实质性时：提供任何人都无须接受且不会阻止他人获取资源的援助、商品、劳务或服务；私人单元内部的选择；以及不约束任何人的草案、建议和邀请。
       - 规范主体：**第 VI 条**（*平等基本权利*）、**第 X 条**（*自决、能动性与参与*）、**第 XII 条**（*利益相关方参与、代表与正当程序*）以及第八章。
     - <a id="domain-specific-materiality-livelihood"></a>**生计与经济条件。***他人是否依赖该实体取得收入，或依赖其价格和条件获得必需品？*
-      - 具有实质性时：实体是他人的主要收入来源（作为雇主、付款方、买方或平台），为他人所需且难以替代的东西制定价格或条件，或拥有[第一章 §11 市场结构](../../core_01.005_values_principles.md#11-market-structure)所述的市场力量。
+      - 具有实质性时：实体是他人的主要收入来源（作为雇主、付款方、买方或平台），为他人所需且难以替代的东西制定价格或条件，或拥有[第一章 §11 市场结构](../../core_01.000_values_principles.md#11-market-structure)所述的市场力量。
       - 不具实质性时：可自由退出者之间的偶发交易，以及实体无法左右市场条件的一般贸易。
       - 规范主体：**第 III-C 条**（*劳动与经济底线*）和**第 V 条**（*资源分配、依赖关系与生态系统资金*）。
     - <a id="domain-specific-materiality-custody"></a>**保管。***实体是否保管对他人重要的事物，而他人依赖实体保障这些事物的安全？*
@@ -574,12 +574,12 @@
 <a id="domain-specific-materiality-c"></a>
 - **必须满足的条件**
   - **无许可制度：**超过界线即开始承担相应义务，但绝不构成组建或运营实体的门槛；**第 XI-E 条**（*机构组建与企业创设*）规定的狭义限制除外。低于界线不免除实体任何[宪法约束](../../core_05.045_band_integrative.md#constitutional-constraint)。安全、真相和权利底线——包括**第 I-A 条**（*环境前提与生态完整性*）及**第 I-D 条**（*生存风险与生态恢复能力*）的环境保护——均完整约束该实体。
-  - **质疑途径：**依据此清单作出的认定，应通过原有途径提出质疑；本条不增设机关、论坛或费用。系统适用[§7.4 质疑系统分类记录](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability)。机构适用[第九章 D 部分 §14.2 重新开启触发条件](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers)和[§14.4 质疑途径](../../core_09.020_institutional_alignment_certification.md#144-challenge-path)。质疑者须指出具体越界事项，实体须以书面说明和理由作答。任何一项答是即使实体至少属于 L 类，因此质疑途径保持简便，具体有六项安排：
-    - **先由实体答复：**质疑首先提交实体已公布的质疑途径，答复须符合[第 XXVI-C 条](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)（*及时解决与反拖延底线*）规定的时限。答复未解决事项或未按时作出时，可诉诸论坛；若延误会危及权利、证据或独立性，则可直接诉诸论坛。
+  - **质疑途径：**依据此清单作出的认定，应通过原有途径提出质疑；本条不增设机关、论坛或费用。系统适用[§7.4 质疑系统分类记录](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability)。机构适用[第九章 D 部分 §14.2 重新开启触发条件](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)和[§14.4 质疑途径](../../core_09.015_institutional_alignment_certification.md#144-challenge-path)。质疑者须指出具体越界事项，实体须以书面说明和理由作答。任何一项答是即使实体至少属于 L 类，因此质疑途径保持简便，具体有六项安排：
+    - **先由实体答复：**质疑首先提交实体已公布的质疑途径，答复须符合[第 XXVI-C 条](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)（*及时解决与反拖延底线*）规定的时限。答复未解决事项或未按时作出时，可诉诸论坛；若延误会危及权利、证据或独立性，则可直接诉诸论坛。
     - **未指出越界事项的质疑应退回补正，而非裁决：**实体要求质疑者指出一项具体越界。这是完整性检查，不是实体裁决。该步骤不耗用质疑者的任何时限，质疑者可再次提交。向论坛提交的此类文件归入[CF-5.1 已公布的受理类别](../../corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-1-published-intake-classes)中的常规类别，受理时不得拒绝。
     - **关联质疑合并审理一次：**针对同一实体的相同越界事项提出的质疑，或针对本条认定为同一运营事项之多个实体的质疑，依[第十三章 §3 移送、合并与协调——连续性与防止攫取](../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)作为同一事项审理。
-    - **事实未变时认定继续有效：**针对已指出越界事项的认定持续有效，直至实体活动发生实质变化，或有新的越界证据提出；这与[第九章 D 部分 §14.2 重新开启触发条件](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers)一致。若再次质疑但不存在上述情形，可援引现有认定作答。
-    - **质疑不停止实体运营：**分类不限制运营（[第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构组建与企业创设*））。质疑待决期间实体继续运营；结果是实体须发布或补正系统章程或机构章程。认定实体属于 L 类时，认定日期即视为依[第七章 §3 何时需要系统章程和机构章程](core_07_charters.md#1-when-system-and-institutional-charters-are-required)发出的请求（*请求系统章程或机构章程*）：一周内答复，三十日内发布。若证明他人受到伤害，论坛仍可依[第十三章 §5 升级处理与认证](../../core_13.000_forum.md#5-escalation-and-certification)给予临时保护。
+    - **事实未变时认定继续有效：**针对已指出越界事项的认定持续有效，直至实体活动发生实质变化，或有新的越界证据提出；这与[第九章 D 部分 §14.2 重新开启触发条件](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)一致。若再次质疑但不存在上述情形，可援引现有认定作答。
+    - **质疑不停止实体运营：**分类不限制运营（[第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构组建与企业创设*））。质疑待决期间实体继续运营；结果是实体须发布或补正系统章程或机构章程。认定实体属于 L 类时，认定日期即视为依[第七章 §3 何时需要系统章程和机构章程](core_07_charters.md#1-when-system-and-institutional-charters-are-required)发出的请求（*请求系统章程或机构章程*）：一周内答复，三十日内发布。若证明他人受到伤害，论坛仍可依[第十三章 §5 升级处理与认证](../../core_13.000_forum.md#5-escalation-and-certification)给予临时保护。
     - **论坛预先规划处理能力：**分类质疑大量涌入，例如界线变动或共享系统中的实体重新分类，属于可预见的激增情形，依[CF-16.2 储备、替代与激增处理能力](../../corpus_forum/cf_13.470_staffing_reserve_capacity_structural_records.md#cf-13470-2-reserve-substitute-and-surge-capacity)处理。核心条文对此不设数值。
   - **主要失效：**
     - 事实表明实体符合任何领域“何时具有实质性”测试，却仍称实体低于界线；
@@ -633,7 +633,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：原则：[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（评估中的汇总与边界完整性）；[第一章 §13.2.4 代理指标偏离失效规则](../../core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation)（可能操纵实质性的指标与现实差距）。
+- 下游：原则：[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（评估中的汇总与边界完整性）；[第一章 §13.2.4 代理指标偏离失效规则](../../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)（可能操纵实质性的指标与现实差距）。
 - 配合阅读：[实质性](core_05_band_oversight.md#实质性)、[系统边界](../../core_05.040_band_continuity.md#system-boundaries)、[系统边界完整性](../../core_05.040_band_continuity.md#system-boundary-integrity)、[系统性实质性](../../core_05.040_band_continuity.md#systemic-materiality)、[可审计性](core_05_band_oversight.md#可审计性)和[问责](../../core_05.005_apex_accountability_leg.md#accountability)。
 
 </details>
@@ -670,7 +670,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：整合性实质性（[实质性](core_05_band_oversight.md#实质性)）（*作为宪法衡量的实质性*）；原则：[实质利害](../../core_00.000_preamble.md#material-stake)分级代理指标；[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)；[第一章 §16 深入探讨守护——§16.1 分布式理解](../../core_01.015_stewardship_capacity_principles.md#161-distributed-understanding)（理解程度随**实质性**而分级）；[13.1.3 比例性](../../core_01.010_interaction_interpretation.md#1313-proportionality)（权衡索引中的实质影响）。
+- 下游：整合性实质性（[实质性](core_05_band_oversight.md#实质性)）（*作为宪法衡量的实质性*）；原则：[实质利害](../../core_00.000_preamble.md#material-stake)分级代理指标；[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)；[第一章 §16 深入探讨守护——§16.1 分布式理解](../../core_01.010_stewardship_capacity_principles.md#161-distributed-understanding)（理解程度随**实质性**而分级）；[13.1.3 比例性](../../core_01.005_interaction_interpretation.md#1313-proportionality)（权衡索引中的实质影响）。
 - 集群组成部分：[依赖集群：*实质影响、实质性、按分类分级的治理、监督与能力要求*](core_05_band_oversight.md#实质性影响风险与代理指标完整性)。
 - 配合阅读：[伤害](../../core_05.035_band_accountability.md#harm)、[风险](../../core_05.040_band_continuity.md#risk)、[系统性实质性](../../core_05.040_band_continuity.md#systemic-materiality)、[依赖关系](../../core_05.040_band_continuity.md#dependency)、[按分类分级的治理](core_05_band_oversight.md#按分类分级的治理)、[监督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)和[透明度](core_05_band_oversight.md#透明度)。
 
@@ -717,7 +717,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：整合性实质性（[实质性](core_05_band_oversight.md#实质性)）（*作为宪法衡量的实质性*）；原则：[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（尾部风险、生存风险立场）；[13.1.3 比例性](../../core_01.010_interaction_interpretation.md#1313-proportionality)（**风险**、**不可逆伤害**、**生存风险**索引）。
+- 下游：整合性实质性（[实质性](core_05_band_oversight.md#实质性)）（*作为宪法衡量的实质性*）；原则：[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（尾部风险、生存风险立场）；[13.1.3 比例性](../../core_01.005_interaction_interpretation.md#1313-proportionality)（**风险**、**不可逆伤害**、**生存风险**索引）。
 - 配合阅读：[伤害](../../core_05.035_band_accountability.md#harm)、[不可逆伤害](../../core_05.035_band_accountability.md#irreversible-harm)、[风险](../../core_05.040_band_continuity.md#risk)、[安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)和[按分类分级的治理](core_05_band_oversight.md#按分类分级的治理)。
 
 </details>
@@ -762,7 +762,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：原则：[13.1.3 比例性](../../core_01.010_interaction_interpretation.md#1313-proportionality)（不确定情形下的可逆性）；[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（预防遗漏伤害）。
+- 下游：原则：[13.1.3 比例性](../../core_01.005_interaction_interpretation.md#1313-proportionality)（不确定情形下的可逆性）；[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（预防遗漏伤害）。
 - 配合阅读：[实质影响](core_05_band_oversight.md#实质影响)、[实质风险](core_05_band_oversight.md#实质风险)、[不可逆伤害](../../core_05.035_band_accountability.md#irreversible-harm)、[安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[领域特定实质性](core_05_band_oversight.md#领域特定实质性)和[按分类分级的治理](core_05_band_oversight.md#按分类分级的治理)。
 
 </details>
@@ -801,7 +801,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：监督衡量体系（*作为宪法衡量的真相与认识完整性*）；问责衡量体系（*作为宪法衡量的激励一致性与代理指标完整性*）；原则：[第一章 §13.2.4 代理指标偏离失效规则](../../core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation)、[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)，以及[第一章 §18 守护纪律下的治理](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 下游：监督衡量体系（*作为宪法衡量的真相与认识完整性*）；问责衡量体系（*作为宪法衡量的激励一致性与代理指标完整性*）；原则：[第一章 §13.2.4 代理指标偏离失效规则](../../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)、[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)，以及[第一章 §18 守护纪律下的治理](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 - 集群组成部分：[依赖集群：*实质影响、实质性、按分类分级的治理、监督与能力要求*](core_05_band_oversight.md#实质性影响风险与代理指标完整性)。
 - 配合阅读：[实质性](core_05_band_oversight.md#实质性)、[实质性完整性约束](core_05_band_oversight.md#实质性完整性约束)、[系统边界完整性](../../core_05.040_band_continuity.md#system-boundary-integrity)、[激励一致性](../../core_05.045_band_integrative.md#incentive-alignment)、[可审计性](core_05_band_oversight.md#可审计性)和[真相（宪法约束）](core_05_band_oversight.md#真相宪法约束)。
 
@@ -872,7 +872,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：原则：[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)；[2.1 不可协商的约束：安全与真相](../../core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth)（**安全**／**真相**的退化路径）。
+- 下游：原则：[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)；[2.1 不可协商的约束：安全与真相](../../core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth)（**安全**／**真相**的退化路径）。
 - 配合阅读：[实质性](core_05_band_oversight.md#实质性)、[系统性实质性](../../core_05.040_band_continuity.md#systemic-materiality)、[风险](../../core_05.040_band_continuity.md#risk)、[安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[认识完整性](core_05_band_oversight.md#认识完整性)和[有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency)。
 
 </details>
@@ -936,7 +936,7 @@
 
 符合纳入范围时，本集群共同规范披露、审计、核验（包括外部可观察性）以及保证深度；第二至第四章要求以可追溯、可质疑的证据证明系统做了什么、合规主张是否成立时，适用本集群。
 
-**监督框架。**依[宪法四元结构](../../core_00.000_preamble.md#constitutional-tetrad)中的**监督**一柱，监督要求能够审计——重构事件经过、独立核验并取得审计权限；此处及**第 XVI 条**（*审计、透明度与独立核验*）对此负责。[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)是若干审计程序中的一种，规模特别大、利害特别高（论坛监督下的一致性审查及认证结果见[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)）；它不会吞并本集群，也不取代其他审计方式。
+**监督框架。**依[宪法四元结构](../../core_00.000_preamble.md#constitutional-tetrad)中的**监督**一柱，监督要求能够审计——重构事件经过、独立核验并取得审计权限；此处及**第 XVI 条**（*审计、透明度与独立核验*）对此负责。[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)是若干审计程序中的一种，规模特别大、利害特别高（论坛监督下的一致性审查及认证结果见[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)）；它不会吞并本集群，也不取代其他审计方式。
 
 **系统类别与比例原则。**透明度、可审计性及核验义务依 **[corpus_systems.md](../../corpus_systems.md)**、CS-3——系统分类与处理方式规定的系统类别，以及实质影响、依赖关系和风险分级。高类别系统（**A 类**、**B 类**、**C 类**）须满足高于低类别系统（**L 类**、**P 类**）的要求，包括：
 - 更深入的保证；
@@ -956,7 +956,7 @@
 - [评估完整性约束](core_05_band_oversight.md#评估完整性约束)——声称合规前涵盖可信的失效、滥用、交互及对抗路径；以及
 - [可核验性](core_05_band_oversight.md#可核验性)——在实际可及、独立、负担适度且压力条件下可靠的前提下，对行为和影响进行外部观察与衡量，并独立核实观察结果。
 
-**反规避。**划分披露、保全、日志记录、指标、审计抽样、核验界面和独立性等环节，若某一渠道形式上满足要求，却破坏了实际重构、质疑或适当保证深度，即属不合规。参见[§15.1.1 反分割原则](../../core_01.010_interaction_interpretation.md#1511-anti-segmentation-principle)。
+**反规避。**划分披露、保全、日志记录、指标、审计抽样、核验界面和独立性等环节，若某一渠道形式上满足要求，却破坏了实际重构、质疑或适当保证深度，即属不合规。参见[§15.1.1 反分割原则](../../core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle)。
 
 参见**反分割原则**。
 
@@ -972,7 +972,7 @@
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 集群组成部分：[Def.O1 *透明度、可审计性与核验*](core_05_band_oversight.md#defo1-透明度可审计性与核验)。
-- 下游：原则：[宪法四元结构](../../core_00.000_preamble.md#constitutional-tetrad)中的**监督**一柱；[第一章 §16 深入探讨守护](../../core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth)、[13.2.1 维护认识完整性](../../core_01.010_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)。
+- 下游：原则：[宪法四元结构](../../core_00.000_preamble.md#constitutional-tetrad)中的**监督**一柱；[第一章 §16 深入探讨守护](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth)、[13.2.1 维护认识完整性](../../core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)。
 - 配合阅读：[认识完整性](core_05_band_oversight.md#认识完整性)、[真相（宪法约束）](core_05_band_oversight.md#真相宪法约束)、[可质疑性](../../core_05.035_band_accountability.md#contestability)、[可审计性](core_05_band_oversight.md#可审计性)、[公共监督基线披露](core_05_band_oversight.md#公共监督基线披露)、[风险披露](core_05_band_oversight.md#风险披露)、[可核验性](core_05_band_oversight.md#可核验性)，以及**[corpus_systems.md](../../corpus_systems.md)**、CS-2——信息类型与处理方式（**O 类**——开放的公共监督基线披露数据）。
 
 </details>
@@ -982,7 +982,7 @@
 *通俗地说：向受影响的有感知者提供足够信息，使他们真正理解并质疑系统的运作方式、限制和风险；不能用噪音将这些信息淹没。*
 
 - **定义**
-  - **适用范围：**向受影响的有感知者提供足够信息，说明系统对外的行为、限制、不确定性及其依赖关系，使他们能够理解系统做什么、产生什么风险。仍可依法适用正当的安全与保密限制，并须符合[认识完整性](core_05_band_oversight.md#认识完整性)和[13.2 认识披露约束](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints)。
+  - **适用范围：**向受影响的有感知者提供足够信息，说明系统对外的行为、限制、不确定性及其依赖关系，使他们能够理解系统做什么、产生什么风险。仍可依法适用正当的安全与保密限制，并须符合[认识完整性](core_05_band_oversight.md#认识完整性)和[13.2 认识披露约束](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints)。
     - 若实质性系统、机构、论坛程序或类似受治理领域依法可在线发布信息，则在[公共监督基线披露](core_05_band_oversight.md#公共监督基线披露)适用之处，其基线透明度披露须按该类别要求免费向公众开放，不得设付费墙或仅供内部人员获取。
     - 若发布原始材料会违反合法保护，规范主体仍须尽可能在线发布最充分的公共替代内容，不得削弱问责或[可质疑性](../../core_05.035_band_accountability.md#contestability)，例如：
       - 汇总；
@@ -1031,7 +1031,7 @@
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 集群组成部分：[Def.O1 *透明度、可审计性与核验*](core_05_band_oversight.md#defo1-透明度可审计性与核验)。
-- 下游：**[CS-2 A 部分 §7](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)**（*A/B/C 类系统的 O 类基线*）；**[CS-2 B 部分 §9.3 O 类（开放、公共监督基线披露数据）](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)**（*分类及 O/E/G 关系*）；[第九章 §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)（*数据类型与处理评估*）；[第九章 B 部分 §8](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record)（*认证记录*）；[第九章 B 部分 §8.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability)（*记录完整性：透明度与可审计性*）以及[§9.1](../../core_09.010_system_alignment_certification_record_process.md#91-challenging-a-certification)（*质疑认证*）。
+- 下游：**[CS-2 A 部分 §7](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)**（*A/B/C 类系统的 O 类基线*）；**[CS-2 B 部分 §9.3 O 类（开放、公共监督基线披露数据）](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)**（*分类及 O/E/G 关系*）；[第九章 §3.4](../../core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)（*数据类型与处理评估*）；[第九章 B 部分 §8](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)（*认证记录*）；[第九章 B 部分 §8.2](../../core_09.005_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability)（*记录完整性：透明度与可审计性*）以及[§9.1](../../core_09.005_system_alignment_certification_record_process.md#91-challenging-a-certification)（*质疑认证*）。
 - 配合阅读：[透明度](core_05_band_oversight.md#透明度)、[可质疑性](../../core_05.035_band_accountability.md#contestability)、[可审计性](core_05_band_oversight.md#可审计性)、[风险披露](core_05_band_oversight.md#风险披露)、[系统章程](../../core_05.040_band_continuity.md#system-charter)、[系统边界](../../core_05.040_band_continuity.md#system-boundaries)、[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)、[系统认证记录](../../core_05.040_band_continuity.md#system-certification-record)、[系统分类记录](../../core_05.040_band_continuity.md#system-classification-record)、[系统数据类型记录](../../core_05.040_band_continuity.md#system-data-types-record)、[按分类分级的治理](core_05_band_oversight.md#按分类分级的治理)以及**[corpus_systems.md](../../corpus_systems.md)**、CS-2——信息类型与处理方式（**O 类**）。
 
 </details>
@@ -1110,7 +1110,7 @@
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 集群组成部分：[Def.O1 *透明度、可审计性与核验*](core_05_band_oversight.md#defo1-透明度可审计性与核验)。
-- 下游：监督衡量体系（*作为宪法衡量的披露与保证*）；原则：[宪法四元结构](../../core_00.000_preamble.md#constitutional-tetrad)中的**监督**一柱；[4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint)；[第九章 §3.1 系统范围与风险因素](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors)（*SAC 评估与披露的衔接*）；[第九章 B 部分 §8.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents)（*系统认证记录中的认定——并无另设具名风险披露记录*）。
+- 下游：监督衡量体系（*作为宪法衡量的披露与保证*）；原则：[宪法四元结构](../../core_00.000_preamble.md#constitutional-tetrad)中的**监督**一柱；[4 安全](../../core_01.000_values_principles.md#4-safety-harm-constraint)；[第九章 §3.1 系统范围与风险因素](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors)（*SAC 评估与披露的衔接*）；[第九章 B 部分 §8.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents)（*系统认证记录中的认定——并无另设具名风险披露记录*）。
 - 配合阅读：[风险评估](../../core_05.040_band_continuity.md#risk-evaluation)、[风险](../../core_05.040_band_continuity.md#risk)、[透明度](core_05_band_oversight.md#透明度)、[公共监督基线披露](core_05_band_oversight.md#公共监督基线披露)、[安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[可质疑性](../../core_05.035_band_accountability.md#contestability)、[认识完整性](core_05_band_oversight.md#认识完整性)和[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)。
 
 </details>
@@ -1122,7 +1122,7 @@
 - **定义**
   - **适用范围：**向需要了解已评估系统性[风险](../../core_05.040_band_continuity.md#risk)的人传达风险，使其能够理解、质疑并采取行动。
     - **持续义务：**义务不限于认证周期；凡[透明度](core_05_band_oversight.md#透明度)或[安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)要求让需要了解风险的有感知者获知已评估风险时，本义务即适用。
-    - **SAC 核验：**若正在进行[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)，且系统性风险纳入范围，则该披露属于认证依[第九章 §3.1 系统范围与风险因素](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors)须核验的事项；认定记载于[系统认证记录](../../core_05.040_band_continuity.md#system-certification-record)，不另设具名风险披露记录。
+    - **SAC 核验：**若正在进行[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)，且系统性风险纳入范围，则该披露属于认证依[第九章 §3.1 系统范围与风险因素](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors)须核验的事项；认定记载于[系统认证记录](../../core_05.040_band_continuity.md#system-certification-record)，不另设具名风险披露记录。
   - **不适用范围：**
     - [风险评估](../../core_05.040_band_continuity.md#risk-evaluation)本身——即评估系统性风险的义务；
     - 作为更广泛公共披露底线的[公共监督基线披露](core_05_band_oversight.md#公共监督基线披露)；或
@@ -1154,7 +1154,7 @@
 - 集群组成部分：[Def.O1 *透明度、可审计性与核验*](core_05_band_oversight.md#defo1-透明度可审计性与核验)。
 - 配合阅读：[宪法四元结构](../../core_00.000_preamble.md#constitutional-tetrad)中的**监督**一柱；[问责](../../core_05.005_apex_accountability_leg.md#accountability)、[可质疑性](../../core_05.035_band_accountability.md#contestability)、[认识完整性](core_05_band_oversight.md#认识完整性)、[透明度](core_05_band_oversight.md#透明度)、[可核验性](core_05_band_oversight.md#可核验性)、[证据保全](core_05_band_oversight.md#证据保全)和[评估完整性约束](core_05_band_oversight.md#评估完整性约束)。
 - 配合阅读：**第 XVI 条**（*审计、透明度与独立核验*）；[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)（*监督下的一种规模特别大的审计程序，不是唯一的审计规范*）；[core_02_definition_structure.md](../../core_02.000_definition_structure.md)第二至第四章的规范主体层机制。
-- 管理人员入口（不具规范效力）：后续步骤卡片：[审计](../../implementation/STEWARD_ENTRY_DOORS.md#audit)。本定义是审计体系的属性层；三层图示见[第 XVI 条](../../core_06.015_rights_part_c.md#audit-three-layers)（*审计、透明度与独立核验*）。
+- 管理人员入口（不具规范效力）：后续步骤卡片：[审计](../../implementation/STEWARD_ENTRY_DOORS.md#audit)。本定义是审计体系的属性层；三层图示见[第 XVI 条](../../core_06.010_rights_part_c.md#audit-three-layers)（*审计、透明度与独立核验*）。
 
 </details>
 
@@ -1188,7 +1188,7 @@
   - **次要衡量指标：**[可核验性](core_05_band_oversight.md#可核验性)、[证据保全](core_05_band_oversight.md#证据保全)和[可质疑性](../../core_05.035_band_accountability.md#contestability)——即使纸面上存在一些审计渠道，这些检查仍可揭示可审计性不足。
 
     **次要评估：**核对主要结论时：
-    - 守护工作依赖反复进行且可比较的衡量时，审计途径应支持审查随时间的变化，并在声称已达到门槛时核查后续处理（[第一章 §16.2 制度发展](../../core_01.015_stewardship_capacity_principles.md#162-institutional-development)；[比例性](../../core_05.035_band_accountability.md#proportionality)）；以及
+    - 守护工作依赖反复进行且可比较的衡量时，审计途径应支持审查随时间的变化，并在声称已达到门槛时核查后续处理（[第一章 §16.2 制度发展](../../core_01.010_stewardship_capacity_principles.md#162-institutional-development)；[比例性](../../core_05.035_band_accountability.md#proportionality)）；以及
     - 确认审计范围覆盖相关评估标准、组成部分、依赖关系、行为者、条件和影响，并可用于独立[核验](core_05_band_oversight.md#可核验性)及[监督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)。
   - **第三层衡量指标：**[代理指标偏离](core_05_band_oversight.md#代理指标偏离)——抽样、指标或仪式性审查代替实际重构时。
 
@@ -1232,7 +1232,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 下游：原则：[2.1 不可协商的约束：安全与真相](../../core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth)、[13 宪法冲突解决程序](../../core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process)和[13.2.1 维护认识完整性](../../core_01.010_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)；在实质相关时，为维护真相、安全、审查和纠正，须确保相关证据仍可获取。
+- 下游：原则：[2.1 不可协商的约束：安全与真相](../../core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth)、[13 宪法冲突解决程序](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)和[13.2.1 维护认识完整性](../../core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)；在实质相关时，为维护真相、安全、审查和纠正，须确保相关证据仍可获取。
 - 集群组成部分：[Def.O1 *透明度、可审计性与核验*](core_05_band_oversight.md#defo1-透明度可审计性与核验)。
 - 配合阅读：[可审计性](core_05_band_oversight.md#可审计性)、[可核验性](core_05_band_oversight.md#可核验性)、[透明度](core_05_band_oversight.md#透明度)、[问责](../../core_05.005_apex_accountability_leg.md#accountability)、[可质疑性](../../core_05.035_band_accountability.md#contestability)、[程序公平](../../core_05.055_band_participation.md#procedural-fairness)、[受保护报告（举报）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)和[救济与补救](../../core_05.035_band_accountability.md#redress-and-remediation)。
 
@@ -1283,7 +1283,7 @@
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 集群组成部分：[Def.O1 *透明度、可审计性与核验*](core_05_band_oversight.md#defo1-透明度可审计性与核验)。
-- 下游：监督衡量体系（*作为宪法衡量的评估覆盖范围*）；[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（*SAC 全系统评估*）；[第九章 B 部分 §8.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents)（*系统认证记录中的认定*）；[CS-5——设计、测试、核验与部署](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md)（*测试、压力测试与回归测试覆盖*）。
+- 下游：监督衡量体系（*作为宪法衡量的评估覆盖范围*）；[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)（*SAC 全系统评估*）；[第九章 B 部分 §8.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents)（*系统认证记录中的认定*）；[CS-5——设计、测试、核验与部署](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md)（*测试、压力测试与回归测试覆盖*）。
 - 配合阅读：[可审计性](core_05_band_oversight.md#可审计性)、[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)、[系统章程](../../core_05.040_band_continuity.md#system-charter)、[系统边界](../../core_05.040_band_continuity.md#system-boundaries)、[系统边界完整性](../../core_05.040_band_continuity.md#system-boundary-integrity)、[实质性](core_05_band_oversight.md#实质性)、[对抗、扩展及受操纵条件](core_05_band_oversight.md#对抗规模化与遭利用的条件)、[系统创建](../../core_05.055_band_participation.md#system-creation)和[企业创建](../../core_05.055_band_participation.md#business-creation)。
 
 </details>
@@ -1300,7 +1300,7 @@
     - 对抗路径。
   - **持续义务：**只要运营者、守护者或审查者根据评估或保证工作声称符合宪法、已做好准备或可安全依赖，即适用本约束，不限于认证周期。
   - **系统与机构章程范围程序：**系统、机构、企业或其他受守护形式存在管理其范围的[系统章程](../../core_05.040_band_continuity.md#system-charter)或[机构章程](../../core_05.040_band_continuity.md#institutional-charter)（或等效的已发布范围文书）时，评估须将章程所定目的和范围内／范围外限制，与实际观察到的[系统边界](../../core_05.040_band_continuity.md#system-boundaries)及范围内部和边缘的可信风险路径进行对照测试。系统章程或机构章程的文字不能缩小必须评估的风险路径。
-  - **SAC 核验：**若正在进行[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)，则认证须依[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)核验本约束，包括依[第九章 §3.1 系统范围与风险因素](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors)检查章程范围与功能边界，并依[CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md)（*面向用户的能力表面*）检查按类别分级的测试／回归覆盖。认定记载于[系统认证记录](../../core_05.040_band_continuity.md#system-certification-record)。
+  - **SAC 核验：**若正在进行[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)，则认证须依[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)至[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)核验本约束，包括依[第九章 §3.1 系统范围与风险因素](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors)检查章程范围与功能边界，并依[CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md)（*面向用户的能力表面*）检查按类别分级的测试／回归覆盖。认定记载于[系统认证记录](../../core_05.040_band_continuity.md#system-certification-record)。
   - **不适用范围：**
     - 单独作为范围文书的[系统章程](../../core_05.040_band_continuity.md#system-charter)文字——系统章程陈述预定范围，本身不构成评估覆盖；
     - [系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)的程序机制本身——认证可核验本约束，但约束并非只在认证情境适用；或
@@ -1316,7 +1316,7 @@
     - 具有实质意义时的[对抗、扩展及受操纵条件](core_05_band_oversight.md#对抗规模化与遭利用的条件)。
     还须检查：
       - 存在[系统章程](../../core_05.040_band_continuity.md#system-charter)时，评估是否将章程范围与实际观察到的边界进行测试，而非将系统章程当作完整场景清单；以及
-      - 正在进行[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)时，全系统评估及依[第九章 §3 全系统认证评估](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§4 涉及时的评估](../../core_09.005_system_alignment_certification_evaluation.md#4-evaluations-where-implicated)和[§5 权利底线与领域评估](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)作出的记录，是否反映这些覆盖范围。
+      - 正在进行[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification)时，全系统评估及依[第九章 §3 全系统认证评估](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§4 涉及时的评估](../../core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated)和[§5 权利底线与领域评估](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)作出的记录，是否反映这些覆盖范围。
 <a id="evaluation-completeness-constraint-c"></a>
 - **必须满足的条件**
   - **主要失效：**
@@ -1346,7 +1346,7 @@
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 集群组成部分：[Def.O1 *透明度、可审计性与核验*](core_05_band_oversight.md#defo1-透明度可审计性与核验)。
-- 规范主体底线：[第 XVI-C 条](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility)（*核验可及性*）规定实际核验访问。
+- 规范主体底线：[第 XVI-C 条](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility)（*核验可及性*）规定实际核验访问。
 - 配合阅读：[可审计性](core_05_band_oversight.md#可审计性)、[透明度](core_05_band_oversight.md#透明度)、[可质疑性](../../core_05.035_band_accountability.md#contestability)、[比例性](../../core_05.035_band_accountability.md#proportionality)、[可行性](../../core_05.035_band_accountability.md#feasibility)、[真相（宪法约束）](core_05_band_oversight.md#真相宪法约束)和[对抗、扩展及受操纵条件](core_05_band_oversight.md#对抗规模化与遭利用的条件)。
 
 </details>
@@ -1358,7 +1358,7 @@
 - **定义**
   - **适用范围：**能否为实现[可审计性](core_05_band_oversight.md#可审计性)，从外部观察、衡量并独立核实系统行为、输出和影响。构成条件包括：
     - 外部可观察性是独立核验的前提；
-    - 实际访问（[第 XVI-C 条](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility)（*核验可及性*）；[可行性](../../core_05.035_band_accountability.md#feasibility)）；
+    - 实际访问（[第 XVI-C 条](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility)（*核验可及性*）；[可行性](../../core_05.035_band_accountability.md#feasibility)）；
     - 独立于运营者自我声明；
     - 依据[比例性](../../core_05.035_band_accountability.md#proportionality)和[实质影响](core_05_band_oversight.md#实质影响)确定适当负担；以及
     - 在一般压力、误用及[对抗、扩展及受操纵条件](core_05_band_oversight.md#对抗规模化与遭利用的条件)下保持可靠。
@@ -1382,7 +1382,7 @@
   - **次要衡量指标：**[监督衡量体系](../../core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)——*有感知者能否看见、核实并信赖系统所呈现的内容？*在此检验能否在实践中以可重复方法独立核验观察到的行为。
 
     **次要评估：**确认独立核验采用的方法：
-    - 受影响方及获得适当授权者实际能够执行（[第 XVI-C 条](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility)（*核验可及性*）；[可行性](../../core_05.035_band_accountability.md#feasibility)）；
+    - 受影响方及获得适当授权者实际能够执行（[第 XVI-C 条](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility)（*核验可及性*）；[可行性](../../core_05.035_band_accountability.md#feasibility)）；
     - 依据外部可观察证据，而非内部主张或推断意图；
     - 按[比例性](../../core_05.035_band_accountability.md#proportionality)和[实质影响](core_05_band_oversight.md#实质影响)匹配系统影响；以及
     - 在一般压力、误用及[对抗、扩展及受操纵条件](core_05_band_oversight.md#对抗规模化与遭利用的条件)下仍然可靠。
@@ -1587,7 +1587,7 @@
     - 诚实说明已知、未知和不确定事项；
     - 抵制欺骗、扭曲及结构性误导呈现；以及
     - 按第二至第四章的利害程度确定评估方法。
-  - **依赖：**[安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)——依据[第一章 §2.1 不可协商的原则约束：安全与真相](../../core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth)，两者是配对的不可协商约束；安全具有实质利害时，真相义务包括如实沟通风险和不确定性。
+  - **依赖：**[安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)——依据[第一章 §2.1 不可协商的原则约束：安全与真相](../../core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth)，两者是配对的不可协商约束；安全具有实质利害时，真相义务包括如实沟通风险和不确定性。
   - **不适用范围：**
     - 仅有礼貌语气或程序礼节；或
     - 权利、安全或治理真相认定以外的一般经济信号，例如市场价格或赔率——这些本身不构成本约束。

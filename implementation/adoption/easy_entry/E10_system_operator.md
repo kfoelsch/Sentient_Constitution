@@ -45,25 +45,25 @@ See: [FIT_SITUATIONS.md §4.2](../FIT_SITUATIONS.md#42-high-impact-system-operat
 - **Today:** A deadline, a bonus, or “ignore it, I’ll take responsibility” shows up. Legal wants a one-way AI extra rulebook. The model is constrained; humans keep a way to skip the rules.
 - **With this Constitution:** Bonus, deadline, and cover instructions are failed tests for both kinds of operator.
 
-See: [Chapter One §17.1](../../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+See: [Chapter One §17.1](../../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 
 **Check the system before others have to rely on it at scale.**
 - **Today:** Ship, then staff a trust team.
 - **With this Constitution:** Certification is independently reviewed, written down, time-limited, and open to challenge — not a popularity score.
 
-See: [Chapter Nine](../../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+See: [Chapter Nine](../../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 
 **Affected parties can challenge without reading the corpus.**
 - **Today:** Intake is a maze, or only insiders can open a ticket.
 - **With this Constitution:** Challenge, review, and redress are a basic protection, on a clock.
 
-See: [Article XIII-A](../../../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Article XXVI-C](../../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic).
+See: [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Article XXVI-C](../../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic).
 
 **Labor is not a classification trick.**
 - **Today:** Contractors, gigs, and AIs sit outside the floor.
 - **With this Constitution:** Anyone who contributes productive work holds fair compensation, collective organization, safe conditions, and rest — for everyone, not only humans.
 
-See: [Article III-C](../../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor).
+See: [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 ## What you might reasonably object to
 

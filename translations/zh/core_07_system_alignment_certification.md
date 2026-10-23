@@ -5,7 +5,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 本文件是[英语第七章阅读索引](../../core_09_system_alignment_certification.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_07_system_alignment_certification.md`](../../core_09_system_alignment_certification.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
+> 本文件是[英语第七章阅读索引](../../core_09.000_system_alignment_certification_evaluation.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_07_system_alignment_certification.md`](../../core_09.000_system_alignment_certification_evaluation.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > **第七章**分在两份约束性文件中，作为一份文书来读：
 >
@@ -39,4 +39,4 @@
 
 **下一文件（本语言）：** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**有约束力的原文：** [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md)
+**有约束力的原文：** [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md)

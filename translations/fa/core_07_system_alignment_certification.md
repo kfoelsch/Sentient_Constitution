@@ -5,7 +5,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">جایگاه در پیکره (غیرعملیاتی): ساختار پرونده و قواعد خواندن</span></strong></summary>
 
-> این پرونده **آزمایش زبان خواننده** برای [نمایهٔ خواندن فصل هفتم به انگلیسی](../../core_09_system_alignment_certification.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_07_system_alignment_certification.md`](../../core_09_system_alignment_certification.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
+> این پرونده **آزمایش زبان خواننده** برای [نمایهٔ خواندن فصل هفتم به انگلیسی](../../core_09.000_system_alignment_certification_evaluation.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_07_system_alignment_certification.md`](../../core_09.000_system_alignment_certification_evaluation.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
 > **فصل هفتم** در دو پروندهٔ الزام‌آور شکافته شده که به‌عنوان یک ابزار خوانده می‌شوند:
 >
@@ -39,4 +39,4 @@
 
 **پروندهٔ بعدی (این زبان):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**اصل الزام‌آور:** [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md)
+**اصل الزام‌آور:** [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md)

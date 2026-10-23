@@ -1138,7 +1138,7 @@ Các cấu trúc động lực tác động lên tác nhân, người vận hàn
   - hành vi liên quan đến mệnh lệnh trái pháp luật hoặc vi hiến;
   - che giấu;
   - trả đũa;
-  - [cản trở trách nhiệm giải trình](core_08_standing_assessment.md#232-violation-event-types) (loại sự kiện trong mô hình tư cách và tuyến định danh được nêu tại [Chương Mười Một §5.11 Cản trở trách nhiệm giải trình: tương tác giữa các tiêu chí](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — không phải ngoại lệ riêng cho phần thưởng); hoặc
+  - [cản trở trách nhiệm giải trình](core_08_standing_assessment.md#232-violation-event-types) (loại sự kiện trong mô hình tư cách và tuyến định danh được nêu tại [Chương Mười Một §5.11 Cản trở trách nhiệm giải trình: tương tác giữa các tiêu chí](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — không phải ngoại lệ riêng cho phần thưởng); hoặc
   - từ chối khắc phục tổn hại hiến định đã được xác minh; hoặc
 - các lộ trình khen thưởng phụ thuộc đáng kể vào hành vi sai trái hoặc việc che giấu hành vi đó, bao gồm:
   - thù lao, tiền thưởng, cổ phần, bổ nhiệm, thăng chức hoặc nhiệm kỳ;
@@ -1308,7 +1308,7 @@ Các điều kiện như vậy là **yếu tố kích hoạt leo thang**, không
 - **Rà soát và khắc phục định kỳ:** [Nghĩa vụ Rà soát và Khắc phục](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **Rà soát tăng cường:** [§11.1 Cơ chế ngưỡng tập trung thị trường](core_01_a_values_principles.md#111-cơ-chế-ngưỡng-tập-trung-thị-trường-bên-áp-dụng-có-thể-điều-chỉnh) và [§11.2 Thúc đẩy cạnh tranh và Chống thống trị](core_01_a_values_principles.md#112-thúc-đẩy-cạnh-tranh-và-chống-thống-trị), khi mức độ tập trung hoặc thống trị là trọng yếu.
 - **Cơ chế tư cách và vi phạm:** [Chương Chín — Mô hình Đóng góp, Vi phạm và Tư cách](core_08_standing_assessment.md), khi có các kết luận đã được xác minh cần xử lý.
-- **Hành vi sai trái phản hiến định:** [Chương Mười Một §5.1 Phá hoại dựa trên tập trung: tương tác tiêu chí](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), khi sự tập trung hoặc chiếm đoạt quy trình cấu thành hành vi sai trái phản hiến định.
+- **Hành vi sai trái phản hiến định:** [Chương Mười Một §5.1 Phá hoại dựa trên tập trung: tương tác tiêu chí](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), khi sự tập trung hoặc chiếm đoạt quy trình cấu thành hành vi sai trái phản hiến định.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 Khắc phục sự không phù hợp và ứng phó với việc chiếm đoạt

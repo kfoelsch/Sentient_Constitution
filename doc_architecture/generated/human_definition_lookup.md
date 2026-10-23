@@ -84,7 +84,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Contestability | parties affected by a system or decision must have a real way to challenge it, get it reviewed, and seek correction and remedy. | [Source](../../core_05.035_band_accountability.md#contestability) |
 | Contested-Sentient Life | when sentience status is uncertain or disputed, treat the entity as a threshold-rights case with default inclusion — not as a welfare-only or permanent non-sentient label. Contested-Sentient Life always includes the Animal Life welfare floor; it includes Elevated Communicative Life only where that tier's who-test is met or more-protective overlap already applies. | [Source](../../core_05.055_band_participation.md#contested-sentient-life) |
 | Contingent Claim | a payout that depends on whether some uncertain future event happens, does not happen, or resolves to a measured result — like a bet, a prediction stake, or an insurance-style payment. The event has to be outside the claim itself. | [Source](../../core_05.035_band_accountability.md#contingent-claim) |
-| Continuity | *(no plain-terms gloss in source)* | [Source](../../core_01.005_values_principles.md#continuity) |
+| Continuity | *(no plain-terms gloss in source)* | [Source](../../core_01.000_values_principles.md#continuity) |
 | Contribution Nature | *(no plain-terms gloss in source)* | [Source](../../core_05.035_band_accountability.md#contribution-nature) |
 | Corpus | the Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies. | [Source](../../core_05.045_band_integrative.md#corpus) |
 | Creative Work Attribution | *(no plain-terms gloss in source)* | [Source](../../core_05.040_band_continuity.md#creative-work-attribution) |
@@ -119,7 +119,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Fair Compensation | *(no plain-terms gloss in source)* | [Source](../../core_05.040_band_continuity.md#fair-compensation) |
 | Family and Care Relationships | family and care means the relationships of support and intimacy that sentients choose — not a state-preferred form, employer branding, or an ownership claim dressed as care. | [Source](../../core_05.055_band_participation.md#family-and-care-relationships) |
 | Feasibility | whether something required — an action, alternative, safeguard, or exit path — can actually be done in the real system, not just on paper. Saying "we can't" needs real proof; convenience or cost alone is not enough. | [Source](../../core_05.035_band_accountability.md#feasibility) |
-| Flourishing (principle layer) | *(no plain-terms gloss in source)* | [Source](../../core_01.005_values_principles.md#flourishing) |
+| Flourishing (principle layer) | *(no plain-terms gloss in source)* | [Source](../../core_01.000_values_principles.md#flourishing) |
 | Force Majeure | a severe outside event that reasonable diligence could not control may justify temporary relief. It does not excuse risks the system caused, risks it should have prepared for, or permanent abandonment of safety, truth, review, or audit duties. | [Source](../../core_05.035_band_accountability.md#force-majeure) |
 | Foreseeability | *(no plain-terms gloss in source)* | [Source](../../core_05.050_band_oversight.md#foreseeability) |
 | Forum Case Record | a Forum Case Record is the case file for a dispute. It is not a Standing Record, and it does not itself create a Standing Effect. | [Source](../../core_05.035_band_accountability.md#forum-case-record) |
@@ -297,7 +297,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Trust Degradation and Misleading Reliance | *(no plain-terms gloss in source)* | [Source](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance) |
 | Trustworthiness | *(no plain-terms gloss in source)* | [Source](../../core_05.040_band_continuity.md#trustworthiness) |
 | Truth (Constitutional Constraint) | when claims matter for decisions, be honest about what is known, unknown, and uncertain — do not deceive, distort, or present things in a misleading structure. | [Source](../../core_05.050_band_oversight.md#truth-constitutional-constraint) |
-| Two Constitutional Aims | *(no plain-terms gloss in source)* | [Source](../../core_01.005_values_principles.md#two-constitutional-aims) |
+| Two Constitutional Aims | *(no plain-terms gloss in source)* | [Source](../../core_01.000_values_principles.md#two-constitutional-aims) |
 | Unified Incident | a Unified Incident treats one materially connected episode, campaign, or pattern as a whole so it cannot be split into smaller pieces to hide its impact or avoid review. | [Source](../../core_05.035_band_accountability.md#unified-incident) |
 | Unified Incident Record | *(no plain-terms gloss in source)* | [Source](../../core_05.035_band_accountability.md#unified-incident-record) |
 | Use of Force | Use of Force means overt physical, coercive, or kinetic force by an institution or comparable actor. It is exceptional and must remain lawful, necessary, proportionate, narrow, time-bounded, and reviewable. | [Source](../../core_05.035_band_accountability.md#use-of-force) |

@@ -6,7 +6,7 @@
 
 > निम्नलिखित सामग्री केवल **पाठक मार्गदर्शन** है। यह इस फ़ाइल या अन्य अध्यायों में कहीं और मौजूद बाध्यकारी दायित्वों को जोड़ती, हटाती या सीमित नहीं करती।
 >
-> यह फ़ाइल **Sentient Constitution का हिस्सा** है और एक ही दस्तावेज़ के रूप में पढ़ी जाने वाली अन्य क्रमांकित `core_*` फ़ाइलों के **साथ मिलकर ही बाध्यकारी** है। इसमें **अध्याय सात** है: कार्यात्मक स्वतंत्रता और कर्तव्यों के पृथक्करण का सभी प्रक्रियाओं पर लागू न्यूनतम मानक। यह अध्याय छह के अधिकार-मानक के बाद और [अध्याय आठ प्रणाली-संरेखण प्रमाणन](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) से शुरू होने वाले संवैधानिक प्रक्रिया-अध्यायों से पहले आता है।
+> यह फ़ाइल **Sentient Constitution का हिस्सा** है और एक ही दस्तावेज़ के रूप में पढ़ी जाने वाली अन्य क्रमांकित `core_*` फ़ाइलों के **साथ मिलकर ही बाध्यकारी** है। इसमें **अध्याय सात** है: कार्यात्मक स्वतंत्रता और कर्तव्यों के पृथक्करण का सभी प्रक्रियाओं पर लागू न्यूनतम मानक। यह अध्याय छह के अधिकार-मानक के बाद और [अध्याय आठ प्रणाली-संरेखण प्रमाणन](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) से शुरू होने वाले संवैधानिक प्रक्रिया-अध्यायों से पहले आता है।
 >
 > - **संवैधानिक स्वामी:** वस्तुतः बाध्यकारी कृत्यों के लिए अलग-अलग आसनों का न्यूनतम मानक; प्रत्येक [वस्तुतः बाध्यकारी अधिनियम अभिलेख](../../core_05_band_accountability.md#materially-binding-act-record) की सार्वभौमिक न्यूनतम सामग्री; कर्ता और उसकी [भौतिक नियंत्रण रेखा](../../core_05_band_accountability.md#material-control-line) से स्वतंत्रता; प्रकाशित लेन और भूमिका-स्थापन; हित-संघर्ष, रिक्ति, प्रतिस्थापन और गलत-आसन मार्ग-निर्देशन; आनुपातिक संयुक्त मेजबानी; उत्तरदायी हस्तांतरण; तथा न्यूनतम स्वतंत्रता शर्तें जिन्हें बाद की हर संवैधानिक प्रक्रिया लागू करेगी।
 > - **सिद्धांत-स्तर का स्रोत:** [अध्याय एक §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) शासन से कार्यात्मक स्वतंत्रता बनाए रखने की अपेक्षा करता है और प्रचालनात्मक आसन-वास्तुकला को यहाँ निर्देशित करता है।
@@ -22,7 +22,7 @@
 
 - पूर्ववर्ती आधार: [संवैधानिक चतुष्टय](../../core_00_preamble.md#constitutional-tetrad) — विशेषकर **निगरानी** और **जवाबदेही**; [भौतिक हित](../../core_00_preamble.md#material-stake); [अध्याय एक §17.1 साझा संरक्षकता मानक](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [अध्याय एक §18 संरक्षकता-अनुशासन के अधीन शासन](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [अनुच्छेद XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*)।
 - उपखंड: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes)।
-- अनुवर्ती: [अध्याय आठ](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [अध्याय नौ](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय बारह](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [अध्याय तेरह](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); ऊपर नामित निर्दिष्ट कार्यान्वयन-पाठ।
+- अनुवर्ती: [अध्याय आठ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [अध्याय नौ](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय बारह](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [अध्याय तेरह](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); ऊपर नामित निर्दिष्ट कार्यान्वयन-पाठ।
 - साथ पढ़ें: [अध्याय एक §19.3 असंरेखण पहचान](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*बहुल पहचान और समीक्षा*); [उत्तरदायी कार्रवाई](../../core_05_band_accountability.md#attributable-action); [आरोपण अखंडता](../../core_05_band_accountability.md#attribution-integrity); [लेखापरीक्षणीयता](../../core_05_band_oversight.md#auditability); [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability); [आनुपातिकता](../../core_05_band_accountability.md#proportionality)।
 
 </details>
@@ -68,7 +68,7 @@
 - निर्दिष्ट कार्यान्वयन-पाठ से प्रचालनात्मक आसन-सूचियाँ, नियुक्ति-पद्धतियाँ और लेन-मानचित्र की कार्यविधियाँ।
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. चार-आसन संवैधानिक न्यूनतम मानक
+### 2. चार सीटों वाली संवैधानिक आवश्यकता
 
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-पथ</span></strong></summary>
@@ -354,7 +354,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">संदर्भ-पथ</span></strong></summary>
 
 - पूर्ववर्ती आधार: [§1](#1-purpose-scope-and-owner-boundary) से [§8](#8-act-records-and-attributable-handoffs) तक।
-- अनुवर्ती: [अध्याय आठ](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [अध्याय नौ](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय बारह](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [अध्याय तेरह](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)।
+- अनुवर्ती: [अध्याय आठ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [अध्याय नौ](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय बारह](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [अध्याय तेरह](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)।
 - साथ पढ़ें: [प्राधिकार-स्तर और आंतरिक पदानुक्रम](../../core_05_band_integrative.md#owner-non-relocation) और [प्रस्तावना स्वामी-पंजी](../../core_00_preamble.md#4-principles-definitions-and-rights)।
 
 </details>

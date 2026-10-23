@@ -16,9 +16,9 @@
 - Require most readers to read this folder front to back
 
 **Implements from the core files:**
-- [Chapter One](core_01.005_values_principles.md) / [Preamble](core_00.000_preamble.md) — [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) provide the compass for **oDef** and the shared operational clusters.
+- [Chapter One](core_01.000_values_principles.md) / [Preamble](core_00.000_preamble.md) — [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) provide the compass for **oDef** and the shared operational clusters.
 - [Chapter Five](core_05.000_definitions_home.md) definition stack and [Corpus](core_05.045_band_integrative.md#corpus) designation — joint interfaces and **oDef** clusters that must track constitutional **Def.*** meaning without redefining it
-- Cross-layer support for [Chapter Six](core_06.005_rights_part_a.md) through [Chapter Fourteen](core_14.000_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
+- Cross-layer support for [Chapter Six](core_06.000_rights_part_a.md) through [Chapter Fourteen](core_14.000_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
 - [Chapter Eighteen](core_18.000_incorporation.md) incorporation discipline for how implementation text binds when adopted
 
 **Siblings:**

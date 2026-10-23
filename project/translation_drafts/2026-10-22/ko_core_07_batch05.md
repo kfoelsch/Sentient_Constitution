@@ -21,9 +21,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: [헌법의 4원](../../../core_00.000_preamble.md#constitutional-tetrad), 특히 **감독**과 **책임성**; [중대한 이해관계](../../../core_00.000_preamble.md#material-stake); [제1장 §18.1 권한을 부여받은 구조로서의 통치](../../../core_01.015_stewardship_capacity_principles.md#181-governance-as-authorized-structure)(1.015 §18.1); [제XI-E조](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)(*기관 형성 및 사업 창설*).
+- 상류: [헌법의 4원](../../../core_00.000_preamble.md#constitutional-tetrad), 특히 **감독**과 **책임성**; [중대한 이해관계](../../../core_00.000_preamble.md#material-stake); [제1장 §18.1 권한을 부여받은 구조로서의 통치](../../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure)(1.015 §18.1); [제XI-E조](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)(*기관 형성 및 사업 창설*).
 - 하위 절: [§1](#1-시스템-헌장과-기관-헌장이-필요한-경우); [§2](#2-형성할-권리와-네-가지-제한); [§3](#3-시스템-헌장과-기관-헌장이-명시해야-하는-내용); [§4](#4-헌장-역할-지도와-standing-기록-보관); [§5](#5-성립-심사-직책-보유자의-standing과-진정성); [§6](#6-보유자가-성립-심사에-실패한-경우); [§7](#7-개정검토범위-불일치).
-- 하류: [제8장](../../../core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties); [제9장](../../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [제10장](../../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제13장](../../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction); [제14장](../../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)과 위에서 지정한 이행 문서.
+- 하류: [제8장](../../../core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties); [제9장](../../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제10장](../../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제13장](../../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction); [제14장](../../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)과 위에서 지정한 이행 문서.
 - 함께 읽기: [권한 계층과 내부 위계](../../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy); [시스템 경계](../../../core_05.040_band_continuity.md#system-boundaries); [시스템 경계 무결성](../../../core_05.040_band_continuity.md#system-boundary-integrity); [시스템 창설](../../../core_05.055_band_participation.md#system-creation); [사업 창설](../../../core_05.055_band_participation.md#business-creation).
 
 </details>
@@ -36,7 +36,7 @@
 
 - **제7장(이 장):** [헌장 당사자](../../../core_05.040_band_continuity.md#chartered-party)가 무엇을 하겠다고 주장하고, 행위할 때 각 의석을 누가 맡는지 밝힌다.
 - **[제8장](../../../core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties):** 그 의석들을 어떻게 분리하는지 정한다.
-- **[제9장](../../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index):** 시스템과 기관을 각각 인증한다. 각 인증은 의석을 사용하는 구속력 있는 행위이며, 발견사항을 시스템 헌장 또는 기관 헌장에 반영한다.
+- **[제9장](../../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification):** 시스템과 기관을 각각 인증한다. 각 인증은 의석을 사용하는 구속력 있는 행위이며, 발견사항을 시스템 헌장 또는 기관 헌장에 반영한다.
 
 다른 장은 이 장이 참조하는 정의, 의석 규칙, standing lock, 의사결정 규칙을 관할한다. **CI-8.205 §6**(*시스템·기관 헌장 내용, 검토 및 성립 템플릿*)에 필드 템플릿, 성립 절차, 검토 점검표가 있다.
 
@@ -46,9 +46,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: [§2](#2-형성할-권리와-네-가지-제한); [중대한 이해관계](../../../core_00.000_preamble.md#material-stake); [비례성](../../../core_05.035_band_accountability.md#proportionality) 및 장 도입부의 소관 진술; [제1장 §18 수탁 책임의 규율하에 있는 통치](../../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [감독](../../../core_05.020_apex_oversight_leg.md#oversight-constitutional); [책임성](../../../core_05.005_apex_accountability_leg.md#accountability).
-- 하류: [§3](#3-시스템-헌장과-기관-헌장이-명시해야-하는-내용); [제9장 A부 §2 시스템 등급 평가](../../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation)(9.005 §2)(*등급과 인증 심도*); [제9장 D부 §12.1 기관 등급](../../../core_09.020_institutional_alignment_certification.md#121-institution-class)(9.020 §12.1)(*기관의 등급*); 등급 목록은 **CS-9.305(*시스템 분류 체계*) 및 CS-9.310**에 있다.
-- 함께 읽기: **CI-8.205 §6**(*시스템·기관 헌장 내용, 검토 및 성립 템플릿*); **CF-13.415 §5**(*기관 및 지역 등록관*); **CI-9.210**(*분류 연계 기관 의무*); [제5장 시스템 헌장](../../../core_05.040_band_continuity.md#system-charter); [제5장 기관 헌장](../../../core_05.040_band_continuity.md#institutional-charter); [제XI-E조](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)(*기관 형성 및 사업 창설*).
+- 상류: [§2](#2-형성할-권리와-네-가지-제한); [중대한 이해관계](../../../core_00.000_preamble.md#material-stake); [비례성](../../../core_05.035_band_accountability.md#proportionality) 및 장 도입부의 소관 진술; [제1장 §18 수탁 책임의 규율하에 있는 통치](../../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [감독](../../../core_05.020_apex_oversight_leg.md#oversight-constitutional); [책임성](../../../core_05.005_apex_accountability_leg.md#accountability).
+- 하류: [§3](#3-시스템-헌장과-기관-헌장이-명시해야-하는-내용); [제9장 A부 §2 시스템 등급 평가](../../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)(9.000 §2)(*등급과 인증 심도*); [제9장 D부 §12.1 기관 등급](../../../core_09.015_institutional_alignment_certification.md#121-institution-class)(9.015 §12.1)(*기관의 등급*); 등급 목록은 **CS-9.305(*시스템 분류 체계*) 및 CS-9.310**에 있다.
+- 함께 읽기: **CI-8.205 §6**(*시스템·기관 헌장 내용, 검토 및 성립 템플릿*); **CF-13.415 §5**(*기관 및 지역 등록관*); **CI-9.210**(*분류 연계 기관 의무*); [제5장 시스템 헌장](../../../core_05.040_band_continuity.md#system-charter); [제5장 기관 헌장](../../../core_05.040_band_continuity.md#institutional-charter); [제XI-E조](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)(*기관 형성 및 사업 창설*).
 
 </details>
 
@@ -101,7 +101,7 @@ L급 이상 시스템은 [시스템 헌장](../../../core_05.040_band_continuity
 
 - **A, B, C, L급:** 의무다. [§1.7 절차 한눈에 보기](#17-절차-한눈에-보기) 도표에 절차가 나온다.
 - **P급:** 두 사건 가운데 하나가 발생해 의무가 되기 전까지 선택이다. [§1.3 P급이란](#13-p급이란)은 운영 주체가 P급이 되는 조건을, [§1.4 P급: 선택적 헌장과 의무로 바뀌는 경우](#14-p급-선택적-헌장과-의무로-바뀌는-때)는 선택과 종료 시점을 설명한다.
-- **기관의 등급:** 기관은 운영·수탁 관리·실질 통제하는 시스템 중 가장 높은 등급을 따른다. 그런 시스템을 운영하지 않는 기관은 명칭이나 법적 형태가 아니라 실제로 결정하고 보유하는 사항을 바탕으로 자체의 중대한 영향과 의존성을 평가한다([제9장 D부 §12.1 기관 등급](../../../core_09.020_institutional_alignment_certification.md#121-institution-class)).
+- **기관의 등급:** 기관은 운영·수탁 관리·실질 통제하는 시스템 중 가장 높은 등급을 따른다. 그런 시스템을 운영하지 않는 기관은 명칭이나 법적 형태가 아니라 실제로 결정하고 보유하는 사항을 바탕으로 자체의 중대한 영향과 의존성을 평가한다([제9장 D부 §12.1 기관 등급](../../../core_09.015_institutional_alignment_certification.md#121-institution-class)).
 
 <a id="13-what-class-p-is"></a>
 #### 1.3 P급이란
@@ -140,7 +140,7 @@ P급 운영 주체는 운영 형태에 맞는 [시스템 헌장](../../../core_0
 
 - **신규 시스템 또는 기관:** 가동하거나 타인에게 권한을 행사하기 전에 공개한다.
 - **이미 운영 중인 경우:** 다음 분류 검토나 인증 시점 또는 [§1.6 시스템·기관 헌장이 없는 경우](#16-시스템-헌장-또는-기관-헌장이-없는-경우)의 요청에 따른 해결 기간 안에 공개한다. 둘 중 먼저 오는 시점까지다. 공개할 때까지 불이행 상태다.
-  - **어떤 인증인가:** 시스템은 시스템 정합성 인증을 받는다. 기관은 [제9장 D부 §11.3 허가도 관문도 없음](../../../core_09.020_institutional_alignment_certification.md#113-no-permission-and-no-gate)에 따른 기관 정합성 인증을 받는다. 첫 인증 기간은 기관 헌장 공개나 운영의 조건이 되어서는 안 된다.
+  - **어떤 인증인가:** 시스템은 시스템 정합성 인증을 받는다. 기관은 [제9장 D부 §11.3 허가도 관문도 없음](../../../core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate)에 따른 기관 정합성 인증을 받는다. 첫 인증 기간은 기관 헌장 공개나 운영의 조건이 되어서는 안 된다.
 - **성립 심사:** 동시에 [§5 성립 심사: 직책 보유자의 standing과 진정성](#5-성립-심사-직책-보유자의-standing과-진정성)을 완료한다.
 - **제출처:** 헌장 역할 지도 및 성립 심사 선언과 함께 시스템 헌장 또는 기관 헌장을 기관 등록관에게 제출한다. 활동과 영향을 받는 감지자가 지역에 국한되면 지역 등록관에게 제출한다(**CF-13.415 §5**, *기관 및 지역 등록관*).
   - **등록관의 역할:** 필수사항 누락 여부를 확인하고 날짜가 적힌 접수증을 발급한다.
@@ -173,7 +173,7 @@ L급 이상(또는 새로 그 등급에 오른) 헌장 당사자가 시스템 �
   - **심리할 가치가 있는 이의:** 특정 영역에서 구체적인 경계 초과를 지목하고 운영 주체의 서면 입증에도 그 초과 여부에 실질적인 의문이 남는 이의다. 운영 주체가 스스로 심리 가치를 판단하지 못하며, 서면 입증 없는 답변은 기한을 연장하지 않는다.
   - **등급이 인정되는 경우:** 그 이의에서든 다른 절차에서든 등급을 인정한 날을 요청일로 본다. 인정된 등급(A, B, C 또는 L급)에 해당하는 Tier로 답변 기간과 해결 기간이 시작한다.
 - **기한을 지키지 못한 경우:** 답변이 없거나 기한까지 시스템 헌장 또는 기관 헌장을 공개하지 않은 것은 기록하고 시정할 결함이다. 요청자는 같은 경로로 관할 포럼에 가져갈 수 있다. 형성이나 운영의 조건은 아니다.
-- **반복 요청:** 같은 헌장 당사자에 대한 이전 답변이나 판단이 유효한 동안 두 번째 요청을 해도 새 답변 기간이나 해결 기간은 시작하지 않는다. 헌장 당사자는 이전 답변이나 판단을 가리켜 답한다. 포럼 검토 전인 자체적인 “모든 경계 아래” 입증은 유효한 답변으로 보지 않는다. [제9장 D부 §14.2 재개 사유](../../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers)에 정한 다음 사건 중 하나가 발생할 때까지 답변이나 판단은 유효하다.
+- **반복 요청:** 같은 헌장 당사자에 대한 이전 답변이나 판단이 유효한 동안 두 번째 요청을 해도 새 답변 기간이나 해결 기간은 시작하지 않는다. 헌장 당사자는 이전 답변이나 판단을 가리켜 답한다. 포럼 검토 전인 자체적인 “모든 경계 아래” 입증은 유효한 답변으로 보지 않는다. [제9장 D부 §14.2 재개 사유](../../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)에 정한 다음 사건 중 하나가 발생할 때까지 답변이나 판단은 유효하다.
   - **중대한 변화:** 헌장 당사자의 활동이 중대하게 변한다.
   - **새 증거:** 경계 초과에 대한 새 증거가 제시된다.
 
@@ -240,7 +240,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상위: [§1](#1-시스템-헌장과-기관-헌장이-필요한-경우); [제6장 Article XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*).
+- 상위: [§1](#1-시스템-헌장과-기관-헌장이-필요한-경우); [제6장 Article XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*).
 - 하위: [§1 시스템 헌장과 기관 헌장이 필요한 경우](#1-시스템-헌장과-기관-헌장이-필요한-경우); [§5 성립 심사: 직책 보유자의 standing과 진정성](#5-성립-심사-직책-보유자의-standing과-진정성).
 - 함께 읽기:
   - [임시 보류](../../../core_05.035_band_accountability.md#interim-hold);
@@ -265,11 +265,11 @@ flowchart TB
 <a id="21-the-right-to-form"></a>
 #### 2.1 형성할 권리
 
-누구나 새 시스템·기관·사업을 형성할 수 있다. 그 권리는 [Article XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*)에 규정되어 있다. 이 장은 그 다음에 발생하는 의무를 추가한다. 운영 주체의 활동이 [영역별 중요성](../../../core_05.050_band_oversight.md#domain-specific-materiality)의 아홉 영역 중 어느 하나에서 타인에게 중대한 영향을 주게 되면, 운영 주체는 자신이 행사한다고 주장하는 권한을 미리 공개해야 한다([§1 시스템 헌장과 기관 헌장이 필요한 경우](#1-시스템-헌장과-기관-헌장이-필요한-경우)). 시스템 헌장이나 기관 헌장을 채택했다고 해서 이 권리나 권리 최저선 보호를 좁게 해석해서는 안 된다.
+누구나 새 시스템·기관·사업을 형성할 수 있다. 그 권리는 [Article XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*)에 규정되어 있다. 이 장은 그 다음에 발생하는 의무를 추가한다. 운영 주체의 활동이 [영역별 중요성](../../../core_05.050_band_oversight.md#domain-specific-materiality)의 아홉 영역 중 어느 하나에서 타인에게 중대한 영향을 주게 되면, 운영 주체는 자신이 행사한다고 주장하는 권한을 미리 공개해야 한다([§1 시스템 헌장과 기관 헌장이 필요한 경우](#1-시스템-헌장과-기관-헌장이-필요한-경우)). 시스템 헌장이나 기관 헌장을 채택했다고 해서 이 권리나 권리 최저선 보호를 좁게 해석해서는 안 된다.
 
 **형성할 권리의 적용 대상이 아닌 경우.** [§2.2 첫 번째 제한: 감지자에 대한 미해제 lock](#22-첫-번째-제한-감지자에-대한-미해제-lock), [§2.3 두 번째 제한: 특정 검증 사실에 근거한 단기 보류](#23-두-번째-제한-특정-검증-사실에-근거한-단기-보류), [§2.4 세 번째 제한: 운영 주체 자체에 대한 lock](#24-세-번째-제한-운영-주체-자체에-대한-lock)의 세 관문을 제외하면, **Article XI-E** (*기관 형성과 사업 창설*)는 다음을 보호하지 않는다.
 
-- 헌법적 제약을 깨거나 안전 또는 진실성을 훼손하거나 [제1장 §11 시장 구조](../../../core_01.005_values_principles.md#11-market-structure)가 배제하는 방식으로 권력을 집중하도록 설계된 운영 주체;
+- 헌법적 제약을 깨거나 안전 또는 진실성을 훼손하거나 [제1장 §11 시장 구조](../../../core_01.000_values_principles.md#11-market-structure)가 배제하는 방식으로 권력을 집중하도록 설계된 운영 주체;
 - 검증된 행위·통제·보상에 비추어 명시된 목적과 진정성 있게 정렬되지 않은 창립자가 형성하거나 운영하는 운영 주체, 또는 목적·통제·이해관계에 관해 타인을 오도하거나 타인에게 해를 끼치려는 창립자가 형성하거나 운영하는 운영 주체.
 
 포럼은 해당 Article에 따라 이 사건들을 판단하며, 결과는 그 Article의 세 관문, 즉 미해제 lock 관문, 임시 보류, 운영 주체 자체에 대한 lock으로 한정된다. 성립 심사 실패는 포럼이 평가하는 증거 중 하나일 뿐이므로, 성립 심사만으로 사건이 결정되지는 않는다.
@@ -579,7 +579,7 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
 
 *쉽게 말하면, 헌장 당사자가 타인에 대한 권한을 행사하기 전에 핵심 직책을 맡는 감지자를 두 가지 측면에서 심사한다. 공개된 직책 기준을 충족하며 이를 막는 standing lock이 없는가? 직책을 자기 권한으로 헌장 당사자의 명시된 목적에 맞게 맡으며 대리인이나 명의상 보유자가 아닌가? 답은 누가 지시하는지, 어떤 보상을 받는지, 검증된 말과 행위가 무엇인지로 판단하며 신념으로 판단하지 않는다. 이것은 성립 심사이지 면허가 아니다.*
 
-이 절은 **성립 심사**를 정한다. [§2 형성할 권리와 네 가지 제한](#2-형성할-권리와-네-가지-제한)의 세 관문을 적용한다. 특정 감지자에게 적용되는 두 관문은 대상 직책에 적용되고, 세 번째는 운영 주체 자체가 lock 상태인 헌장 당사자에 적용된다. 이 심사가 [Article XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*)를 축소하지 않는다. [§1 시스템 헌장과 기관 헌장이 필요한 경우](#1-시스템-헌장과-기관-헌장이-필요한-경우)에 따라 L급 이상 헌장 당사자에게 적용된다.
+이 절은 **성립 심사**를 정한다. [§2 형성할 권리와 네 가지 제한](#2-형성할-권리와-네-가지-제한)의 세 관문을 적용한다. 특정 감지자에게 적용되는 두 관문은 대상 직책에 적용되고, 세 번째는 운영 주체 자체가 lock 상태인 헌장 당사자에 적용된다. 이 심사가 [Article XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*)를 축소하지 않는다. [§1 시스템 헌장과 기관 헌장이 필요한 경우](#1-시스템-헌장과-기관-헌장이-필요한-경우)에 따라 L급 이상 헌장 당사자에게 적용된다.
 
 <a id="51-what-is-covered"></a>
 #### 5.1 적용 대상
@@ -608,16 +608,16 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
 <a id="53-authenticity-check"></a>
 #### 5.3 진정성 심사
 
-대상 직책은 보유자가 그 직책을 자기 권한으로 시스템 헌장이나 기관 헌장에 명시된 목적에 맞게 수행하고, 문서에 명시되지 않은 목적을 위해 대리인·명의자·대리 수행자가 아닌 경우 **진정성 있는** 직책이다. 헌장 당사자는 네 가지 증거를 평가한다. 이후 포럼도 같은 네 가지를 심사한다([제9장 D부 §12.2 언제나 수행하는 기관 평가](../../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always), 항목 7).
+대상 직책은 보유자가 그 직책을 자기 권한으로 시스템 헌장이나 기관 헌장에 명시된 목적에 맞게 수행하고, 문서에 명시되지 않은 목적을 위해 대리인·명의자·대리 수행자가 아닌 경우 **진정성 있는** 직책이다. 헌장 당사자는 네 가지 증거를 평가한다. 이후 포럼도 같은 네 가지를 심사한다([제9장 D부 §12.2 언제나 수행하는 기관 평가](../../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always), 항목 7).
 
-- **통제:** 공개된 권한 안팎에서 누가 보유자에게 지시하고 자금을 대며 교체하거나 보상할 수 있는지. 미공개 당사자의 지시에 따르거나 다른 주체를 위해 의석을 맡는 보유자는 진정성이 없다. 수익적 통제의 불투명한 경로는 시스템 포획이다([제1장 §19.4 정렬 불일치 시정과 포획 대응](../../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
+- **통제:** 공개된 권한 안팎에서 누가 보유자에게 지시하고 자금을 대며 교체하거나 보상할 수 있는지. 미공개 당사자의 지시에 따르거나 다른 주체를 위해 의석을 맡는 보유자는 진정성이 없다. 수익적 통제의 불투명한 경로는 시스템 포획이다([제1장 §19.4 정렬 불일치 시정과 포획 대응](../../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
 - **이해관계와 보상:** 보유자가 직책에서 무엇을 얻고 어떤 방식으로 보수를 받는지.
   - 보유자의 보수·지분·목표·기타 보상은 중요성에 맞는 수준까지 공개하고 [두 가지 근본 질문](../../../core_00.000_preamble.md#two-fundamental-questions)에 비춰 본다. 구조가 명시된 목적에 보상하는가, 아니면 명시된 한계를 넘거나 문제를 숨기거나 비용을 타인에게 전가하는 데 보상하는가?
   - 헌장 당사자의 공개된 한계가 금지하는 행위에 보상받는 보유자는 보상이 변경될 때까지 명시된 목적을 위해 직책을 수행하는 것으로 보지 않는다.
 - **행위:** 같은 기능에서 보유자가 검증 가능하게 한 일. 여기에는 은폐·신고자 보복·동일 유형의 심사 무력화에 관한 검증된 기록 및 [§5.5 보유자의 발언](#55-보유자의-발언)에 따른 검증된 발언이 포함된다.
   - 기록이 없다고 나쁜 기록이 있는 것은 아니며, 초임 창립자는 이력이 없다는 이유로 진정성 심사에 실패할 수 없다.
   - 기록이 없으면 살펴볼 과거 이력이 없으므로 심사에서는 현재의 약속과 행위를 본다. 헌장 당사자가 하지 않기로 정한 한계를 서면으로 수락하고, 독립된 주체의 심사를 받아들이며, 자신에 대한 판단에 동의하지 않을 경우 이의 제기 경로를 이용한다.
-- **보호된 발언권:** 보유자는 위법하거나 위헌적인 지시를 거부할 수 있는 작동하는 경로([제1장 §17.5 저항 의무](../../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist))와 합리적으로 의심되는 헌법 불이행·중대한 피해·안전 또는 진실성 실패·부패·포획·학대·보복·필수 심사 방해를 보호된 방식으로 신고할 경로([보호된 신고(내부고발)](../../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))가 있다. 헌장 당사자는 선의로 이 경로를 이용한 보유자를 불이익 처우할 수 없다.
+- **보호된 발언권:** 보유자는 위법하거나 위헌적인 지시를 거부할 수 있는 작동하는 경로([제1장 §17.5 저항 의무](../../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist))와 합리적으로 의심되는 헌법 불이행·중대한 피해·안전 또는 진실성 실패·부패·포획·학대·보복·필수 심사 방해를 보호된 방식으로 신고할 경로([보호된 신고(내부고발)](../../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))가 있다. 헌장 당사자는 선의로 이 경로를 이용한 보유자를 불이익 처우할 수 없다.
 
 <a id="54-what-the-formation-check-may-use-as-evidence"></a>
 #### 5.4 성립 심사에 사용할 수 있는 증거
@@ -625,30 +625,30 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
 성립 심사는 감지자에게 헌장 당사자에 대한 신념·가치관·감정을 묻지 않고, 신념의 진실성이나 진정성을 판단하지 않으며, 이를 알아보기 위한 발언 수집도 하지 않는다. 목적과의 정렬은 보유자를 지휘하는 주체, 보유자가 받는 보상, 보유자의 행위와 타인에 관해 말하거나 계획한 내용으로 확인한다. 다음 세 규칙이 이 원칙을 지킨다.
 
 - **보유만으로는 충분하지 않음:** 신념을 갖거나 표명하는 일, 신앙·정당·집단에 속하는 일만으로 보유자에게 유리하거나 불리하게 판단하지 않는다. 보유자의 정체성·보호 특성·장애도 마찬가지다. 열의 표명이나 충성 서약은 보유자에게 유리한 증거가 되지 않는다.
-- **명칭은 방패가 아님:** 타인이 해를 입어도 된다는 검증된 발언·선동·계획·행위 또는 [Article VI-C](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*차별 금지*)가 금지하는 차별 대우는 무엇이라 불리든 보유자에게 불리하게 고려된다. 그것이 해악이나 금지된 차별인지는 [제1장 §7.5 표현과 해악 경계](../../../core_01.005_values_principles.md#75-expression-and-the-harm-line)가 정하며, 종교·정치·이념 명칭은 이를 더하거나 정당화하지 않는다. 정당화 근거로 제시한 교리가 아니라 발언·선동·행위의 내용을 평가한다.
+- **명칭은 방패가 아님:** 타인이 해를 입어도 된다는 검증된 발언·선동·계획·행위 또는 [Article VI-C](../../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*차별 금지*)가 금지하는 차별 대우는 무엇이라 불리든 보유자에게 불리하게 고려된다. 그것이 해악이나 금지된 차별인지는 [제1장 §7.5 표현과 해악 경계](../../../core_01.000_values_principles.md#75-expression-and-the-harm-line)가 정하며, 종교·정치·이념 명칭은 이를 더하거나 정당화하지 않는다. 정당화 근거로 제시한 교리가 아니라 발언·선동·행위의 내용을 평가한다.
 - **통제는 구성원 자격이 아님:** 어떤 집단에 속해 있다는 것은 증거가 아니다. 집단의 종류와 무관하게 누가 보유자를 지시·지원·교체·보상할 수 있는지는 위의 *통제* 항목에 따른 증거다.
 
 이 절이 판단하는 사항과 판단하지 않는 사항:
 
-- 이 절은 [제1장 §7.5 표현과 해악 경계](../../../core_01.005_values_principles.md#75-expression-and-the-harm-line)의 원칙에 따라 성립 심사에서 사용할 수 있는 증거만 정한다.
-- 금지되는 행위는 [Article VI-C](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*차별 금지*)와 **Article XI-F** (*결사에 대한 강요 금지와 동의*)가 정한다.
+- 이 절은 [제1장 §7.5 표현과 해악 경계](../../../core_01.000_values_principles.md#75-expression-and-the-harm-line)의 원칙에 따라 성립 심사에서 사용할 수 있는 증거만 정한다.
+- 금지되는 행위는 [Article VI-C](../../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*차별 금지*)와 **Article XI-F** (*결사에 대한 강요 금지와 동의*)가 정한다.
   - 이 절은 어느 쪽의 범위도 확대하거나 축소하지 않는다.
   - 구성원이 동의한 조건에 따라 자발적 공동체가 자체 구성원과 활동에 정한 규칙은 해당 조항에 따른다.
 
 <a id="55-what-a-holder-has-said"></a>
 #### 5.5 보유자의 발언
 
-타인에게 해를 입혀도 된다는 검증된 발언·선동·계획, [Article VI-C](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*차별 금지*)가 금지하는 차별 대우에 관한 검증된 발언·선동·계획, 또는 보유자가 그 어느 행위든 하겠다는 검증된 발언은 보유자에게 불리한 행위 증거로 고려한다.
+타인에게 해를 입혀도 된다는 검증된 발언·선동·계획, [Article VI-C](../../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*차별 금지*)가 금지하는 차별 대우에 관한 검증된 발언·선동·계획, 또는 보유자가 그 어느 행위든 하겠다는 검증된 발언은 보유자에게 불리한 행위 증거로 고려한다.
 
 - **증거의 비중:**
   - 해를 가하려는 의도와 헌장 당사자나 직책의 영향을 받는 사람에 대한 공정한 대우와의 불일치를 보여주는 증거다.
   - 보유자의 직책이나 헌장 당사자가 그 사람들에 대한 권한을 부여할수록 비중이 커진다.
   - 발언만으로는 [임시 보류](../../../core_05.035_band_accountability.md#interim-hold)의 근거가 될 수 없다. 보류에는 행위·통제·보상에 관한 독립된 검증 사실도 필요하다.
-  - 발언이 근거의 일부라면 명확하게 검증된 증거로 입증하고, 해소되지 않은 의심은 보류에 불리하게 고려하며, 발언 내용에 근거한 제한에 [**Article XI-B** (*표현*)](../../../core_06.010_rights_part_b.md#article-xi-b-expression)이 요구하는 최고 수준의 심사를 적용했음을 기록한다.
-- **증거가 되지 않는 것:** 집단·사상·기관이 틀렸다는 견해, 거센 비판, 적법한 반대, 풍자, 인용, 보도, 학술 활동은 타인에 대한 해악이나 차별 대우를 말하거나 선동하지 않으므로 증거가 아니다. 모욕감을 느끼거나 의견이 다르다는 것만으로 해악이 되지 않는다([**Article XI-G** (*집단적 해악 경계와 집행 인터페이스*)](../../../core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
+  - 발언이 근거의 일부라면 명확하게 검증된 증거로 입증하고, 해소되지 않은 의심은 보류에 불리하게 고려하며, 발언 내용에 근거한 제한에 [**Article XI-B** (*표현*)](../../../core_06.005_rights_part_b.md#article-xi-b-expression)이 요구하는 최고 수준의 심사를 적용했음을 기록한다.
+- **증거가 되지 않는 것:** 집단·사상·기관이 틀렸다는 견해, 거센 비판, 적법한 반대, 풍자, 인용, 보도, 학술 활동은 타인에 대한 해악이나 차별 대우를 말하거나 선동하지 않으므로 증거가 아니다. 모욕감을 느끼거나 의견이 다르다는 것만으로 해악이 되지 않는다([**Article XI-G** (*집단적 해악 경계와 집행 인터페이스*)](../../../core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
 - **확인 방법:** 발언을 검증하고 맥락 속에서 읽는다. 이미 공개된 자료, 헌장 당사자나 직책에서 또는 이에 관해 한 말, 보호된 신고를 통해 확인한다. 헌장 당사자는 발언을 찾겠다며 창립자나 보유자의 사적 발언이나 교류를 감시할 수 없다.
 - **답변과 시정:** 보유자는 답변하고 맥락을 제시하며 행위로 그 발언이 더는 유효하지 않음을 보일 수 있다. 단순한 철회만으로 발언이 지워지지는 않는다.
-- **발언에 대한 처벌이 아님:** 발언을 증거로 사용하는 것은 표현을 제한하는 조치가 아니며([제1장 §7.5 표현과 해악 경계](../../../core_01.005_values_principles.md#75-expression-and-the-harm-line)), 발언은 [**Article XI-B** (*표현*)](../../../core_06.010_rights_part_b.md#article-xi-b-expression)에 따라 보호되는 표현으로 남는다. 유일한 효과는 해당 발언과 관련된 사람들에게 누가 권한을 행사할 수 있는지에 관한 것이다.
+- **발언에 대한 처벌이 아님:** 발언을 증거로 사용하는 것은 표현을 제한하는 조치가 아니며([제1장 §7.5 표현과 해악 경계](../../../core_01.000_values_principles.md#75-expression-and-the-harm-line)), 발언은 [**Article XI-B** (*표현*)](../../../core_06.005_rights_part_b.md#article-xi-b-expression)에 따라 보호되는 표현으로 남는다. 유일한 효과는 해당 발언과 관련된 사람들에게 누가 권한을 행사할 수 있는지에 관한 것이다.
 
 <a id="56-staff-safeguards-check"></a>
 #### 5.6 직원 보호조치 심사
@@ -657,7 +657,7 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
 
 - 임명·보수·승진·해임 규칙이 헌장 당사자의 명시된 목적에 반하는 업무를 보상하지 않는다.
 - 보호된 신고 경로가 있으며 이를 이용하거나 위법·위헌적 지시를 거부한 직원을 처벌하지 않았다.
-- [Article III-C](../../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*노동 및 경제 최저선*)의 권리가 온전하다.
+- [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*노동 및 경제 최저선*)의 권리가 온전하다.
 
 이는 헌장 당사자의 구조를 심사한다. 개별 직원을 선별 심사하지 않는다.
 
@@ -680,7 +680,7 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
   - 헌장 당사자가 소규모여서 아직 독립 의석을 두지 않은 경우에는 근거를 붙인 선언을 제출하고 첫 인증에서 검증받는다.
   - 그 기간 동안 검증이 완료되지 않았어도 형성이나 운영을 막지 않는다.
 - **허위 선언:**
-  - 거짓이거나 대상 직책의 통제자를 숨긴 선언은 은폐이며 인증 기록과 standing 연계 절차에 제출된 사기 증거다([제9장 D부 §15 standing 연계와 회피 금지](../../../core_09.020_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [제9장 B부 §10 standing과의 관계](../../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)).
+  - 거짓이거나 대상 직책의 통제자를 숨긴 선언은 은폐이며 인증 기록과 standing 연계 절차에 제출된 사기 증거다([제9장 D부 §15 standing 연계와 회피 금지](../../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [제9장 B부 §10 standing과의 관계](../../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)).
   - 감지자가 고의로 선언했거나 서명했거나 작성을 초래했고 그 중요한 거짓이 검증된 경우, 통제를 숨겼는지와 관계없이 그 감지자에게 [기관 권한 standing lock](../../../core_11.000_standing_integration.md#55-special-locks)을 부과할 근거가 된다([제11장 §5.5 특별 lock](../../../core_11.000_standing_integration.md#55-special-locks)). lock은 선언을 작성하거나 초래한 감지자에게 적용되며 헌장 당사자나 관여하지 않은 보유자에게 적용되지 않는다.
   - 감지자가 모르는 사이에 잘못된 선언은 해당 근거가 아니다. [§6 보유자가 성립 심사에 실패한 경우](#6-보유자가-성립-심사에-실패한-경우)에 따라 시정할 결함이다.
 
@@ -708,7 +708,7 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
 
 성립 심사는 보호 대상에 비례하는 수준으로 유지한다.
 
-- 헌장 당사자는 세 가지 심사 각각에 필요한 자료만 수집한다. 창립자에 대한 보복·감시는 [Article XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*)에 따른 비준수 행위다.
+- 헌장 당사자는 세 가지 심사 각각에 필요한 자료만 수집한다. 창립자에 대한 보복·감시는 [Article XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*)에 따른 비준수 행위다.
 - 성립 심사는 등급과 [중대한 이해관계](../../../core_00.000_preamble.md#material-stake)에 따라 조정한다. L급에서는 대상 직책이 적은 경우 간단한 선언으로 충분하며 단독 창립자는 이해관계와 외부 통제 공개로 축소한다. 그 이상은 [피할 수 있는 부담](../../../core_05.040_band_continuity.md#avoidable-burden)이다.
 
 <a id="6-when-a-holder-fails-the-formation-check"></a>
@@ -752,7 +752,7 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
 
 - **직책에서 배제:** 감지자는 해당 직책을 맡을 수 없다. **CI-14.205 §2** (*역할 기준·임명 표준·해임 경로*)의 직책 규칙이 이를 정하며 미해제 lock이나 임시 보류가 원인일 때는 **Article XI-E** (*기관 형성과 사업 창설*)도 이를 정한다.
 - **의석 충원:** 다른 사람이 직책을 맡거나 대체자가 취임하며 날짜가 붙은 새 역할 지도 버전에 변경을 기록한다.
-- **적법한 보유자가 없음:** 이로 인해 헌장 당사자에 통치 직책의 적법한 보유자가 없고 타인이 이에 의존한다면, [Article XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*)의 임시 보류 규정에 따라 관할 포럼은 임시 관리인을 지정할 수 있다. 헌장 당사자의 운영을 중단하지 않는다.
+- **적법한 보유자가 없음:** 이로 인해 헌장 당사자에 통치 직책의 적법한 보유자가 없고 타인이 이에 의존한다면, [Article XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*기관 형성과 사업 창설*)의 임시 보류 규정에 따라 관할 포럼은 임시 관리인을 지정할 수 있다. 헌장 당사자의 운영을 중단하지 않는다.
 
 <a id="63-when-the-facts-may-support-an-interim-hold"></a>
 #### 6.3 사실이 임시 보류의 근거가 될 수 있는 경우
@@ -792,7 +792,7 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
 - **판정 주체:** 관할 포럼은 검증된 사실을 근거로 lock이 해당 수단에 적용되는지 판단하며, 적용된다고 주장한 당사자가 입증 책임을 진다.
 - **자체 선언:** 새 당사자라는 헌장 당사자 자체의 선언으로 판단하지 않는다.
 - **다른 운영 주체:** 해산된 주체와 실제로 하나의 운영을 이루지 않는 한 lock은 다른 운영 주체에 적용되지 않는다.
-- **고의 회피:** lock을 피하려고 해산 헌장 당사자를 다른 명칭으로 또는 승계자·지배 법인·명의자나 페이퍼컴퍼니를 통해 재형성·부활·운영하는 행위는 반헌법적 비위다. 포럼은 검증된 사실을 근거로 [제12장 A부](../../../core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation)에 따라 이를 지정할 수 있다.
+- **고의 회피:** lock을 피하려고 해산 헌장 당사자를 다른 명칭으로 또는 승계자·지배 법인·명의자나 페이퍼컴퍼니를 통해 재형성·부활·운영하는 행위는 반헌법적 비위다. 포럼은 검증된 사실을 근거로 [제12장 A부](../../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation)에 따라 이를 지정할 수 있다.
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 답변 기간과 해결 기간
@@ -903,7 +903,7 @@ standing 심사나 진정성 심사에서 대상 직책 보유자가 실패했�
   - 각 대상 직책을 선언에 기재한 감지자가 여전히 맡고 있는가;
   - 각 보유자를 지시·지원·교체·보상할 수 있는 감지자가 선언 내용과 같은가;
   - 각 보유자의 보수와 기타 보상이 선언 내용과 일치하는가;
-  - 각 보유자에게 위법·위헌적 지시를 거부할 수 있는 작동 경로([제1장 §17.5 저항 의무](../../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist))와 헌법 불이행·중대한 피해·안전 또는 진실성 실패·부패·포획·학대·보복·필수 심사 방해를 합리적으로 의심할 때 보호 신고를 할 경로([보호된 신고(내부고발)](../../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))가 여전히 있는가.
+  - 각 보유자에게 위법·위헌적 지시를 거부할 수 있는 작동 경로([제1장 §17.5 저항 의무](../../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist))와 헌법 불이행·중대한 피해·안전 또는 진실성 실패·부패·포획·학대·보복·필수 심사 방해를 합리적으로 의심할 때 보호 신고를 할 경로([보호된 신고(내부고발)](../../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))가 여전히 있는가.
 
 <a id="74-adding-retiring-or-merging-systems"></a>
 #### 7.4 시스템 추가·종료·통합
@@ -921,7 +921,7 @@ standing 심사나 진정성 심사에서 대상 직책 보유자가 실패했�
 
 - **해소 방법:** 문서를 개정하거나 실제 관행을 시정하거나 재인증하거나 문서에 맞게 범위를 줄인다.
 - **해결 방법이 아님:** 조용한 범위 확대나 문서를 그대로 두는 것.
-- **인증 재심사:** 중대한 불일치는 해당 시스템이나 기관의 인증에 대한 포럼의 새 검토도 촉발한다. 예정된 다음 검토를 기다리지 않는다. 시스템은 [제9장 B부 §9 재인증과 재개](../../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening), 기관은 [제9장 D부 §14.2 재개 사유](../../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers)를 참조한다. 인증에서는 명시 범위를 실제 경계와 대조한다. 문서를 다시 작성하지 않으며, 기관 인증은 각 포함 시스템의 시스템 인증 기록을 인용하되 다시 수행하지 않는다([제9장 D부](../../../core_09.020_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
+- **인증 재심사:** 중대한 불일치는 해당 시스템이나 기관의 인증에 대한 포럼의 새 검토도 촉발한다. 예정된 다음 검토를 기다리지 않는다. 시스템은 [제9장 B부 §9 재인증과 재개](../../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening), 기관은 [제9장 D부 §14.2 재개 사유](../../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)를 참조한다. 인증에서는 명시 범위를 실제 경계와 대조한다. 문서를 다시 작성하지 않으며, 기관 인증은 각 포함 시스템의 시스템 인증 기록을 인용하되 다시 수행하지 않는다([제9장 D부](../../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
 - **분쟁 경로:** [제13장 §4.3 기관 포럼](../../../core_13.000_forum.md#43-institutional-forums)은 기관 헌장의 범위·개정 권한·기관 헌장과 관행의 불일치·헌장 적용 범위 밖의 운영에 관한 분쟁을 심리한다.
 
 <a id="76-keeping-old-versions"></a>

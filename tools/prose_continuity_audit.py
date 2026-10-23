@@ -47,7 +47,7 @@ _ORPHAN_LINE_RES: tuple[re.Pattern[str], ...] = tuple(
 
 _SENTENCE_END = frozenset(".!?…")
 
-# Chapter Six, Article X (`core_06.010_rights_part_b.md`): lead bullets ending with these must be
+# Chapter Six, Article X (`core_06.005_rights_part_b.md`): lead bullets ending with these must be
 # followed by nested `-` items (e.g. `  - `), not additional top-level `- ` siblings (regression for flattened sub-lists).
 _ARTICLE_IX_TOP_HEADING = re.compile(r"^### Article X:")
 _TOP_LEVEL_ARTICLE_HEADING = re.compile(r"^### Article [IVXLCDM]+:")
@@ -183,7 +183,7 @@ def _is_nested_markdown_bullet(raw: str) -> bool:
 
 def scan_article_ix_colon_intro_lists(rel_path: str, lines: list[str]) -> list[Finding]:
     """Enforce nested sub-bullets under Article X colon introducers in the Chapter Six Part B file."""
-    if rel_path != "core_06.010_rights_part_b.md":
+    if rel_path != "core_06.005_rights_part_b.md":
         return []
 
     findings: list[Finding] = []

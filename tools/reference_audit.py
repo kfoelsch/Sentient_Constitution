@@ -13,11 +13,11 @@ from dataclasses import dataclass
 from corpus_paths import binding_corpus_scope
 
 DEFAULT_ARTICLE_SOURCES = [
-    "core_06.005_rights_part_a.md",
-    "core_06.010_rights_part_b.md",
-    "core_06.015_rights_part_c.md",
-    "core_06.020_rights_part_d.md",
-    "core_06.025_rights_part_e.md",
+    "core_06.000_rights_part_a.md",
+    "core_06.005_rights_part_b.md",
+    "core_06.010_rights_part_c.md",
+    "core_06.015_rights_part_d.md",
+    "core_06.020_rights_part_e.md",
 ]
 
 ARTICLE_HEADING_RE = re.compile(r"^### Article ([IVXLCDM]+):\s*(.+?)\s*$")
@@ -88,7 +88,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--source",
-        default="core_06.005_rights_part_a.md",
+        default="core_06.000_rights_part_a.md",
         help="Primary file for article-heading discovery. If it has no headings, the audit merges ### Article … lines from the Chapter Six part files.",
     )
     parser.add_argument(

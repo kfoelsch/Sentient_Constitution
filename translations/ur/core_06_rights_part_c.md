@@ -117,7 +117,7 @@ flowchart TB
 
 اس حق کو محفوظ بنانے کے لیے دو حفاظتی اقدامات مل کر کام کرتے ہیں: سرٹیفیکیشن ایک نظام کو اس اعتماد کے قابل بناتا ہے، اور لوگوں کے حقوق اسے ایماندار رکھتے ہیں۔
 
-**سرٹیفیکیشن سسٹم کی طرف سے اعتماد پیدا کرتا ہے:** جب کسی اہم نظام کا حقیقی اثر ہوتا ہے کہ جذبات اس پر کس طرح انحصار کرتے ہیں، [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب آٹھ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) لاگو ہوتا ہے یہ چیک کرتا ہے کہ جذبات پر بھروسہ کر سکتے ہیں:
+**سرٹیفیکیشن سسٹم کی طرف سے اعتماد پیدا کرتا ہے:** جب کسی اہم نظام کا حقیقی اثر ہوتا ہے کہ جذبات اس پر کس طرح انحصار کرتے ہیں، [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب آٹھ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) لاگو ہوتا ہے یہ چیک کرتا ہے کہ جذبات پر بھروسہ کر سکتے ہیں:
 
 - سسٹم جو کہتا ہے وہ کرتا ہے۔
 - اس کی حدود اور خطرات
@@ -137,7 +137,7 @@ flowchart TB
 *مضمون پڑوسی:*
 
 - **جب یہ لاگو ہوتا ہے:** جہاں نظام کا رویہ مادی طور پر دروازے یا برقرار رکھتا ہے۔ **چھٹا باب** حقوق کی منزلیں - بشمول بقا کے لوازمات **آرٹیکل III-A** (*بقا*)۔
-- **ایک ساتھ پڑھیں:** [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) اور [باب آٹھ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) - یہاں بیان کردہ منزلوں کے لیے سرٹیفیکیشن کو تبدیل کیے بغیر۔
+- **ایک ساتھ پڑھیں:** [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) اور [باب آٹھ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) - یہاں بیان کردہ منزلوں کے لیے سرٹیفیکیشن کو تبدیل کیے بغیر۔
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### آرٹیکل XIII-A: وشوسنییتا اور قابل اعتمادی کی بنیاد
@@ -921,7 +921,7 @@ flowchart TB
 | **2. جائیداد** | تعمیر نو کیا ہے*: باہر کے لوگ دوبارہ تعمیر کر سکتے ہیں اور جانچ سکتے ہیں کہ مادی اوقات، ریاستوں اور سیاق و سباق میں نظام نے کیا کیا۔ [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) (باب پانچ) | حقوق کی منزل نہیں۔ یہ نہیں کہ آڈٹ کیسے/کب چلایا جائے۔ |
 | **3. عمل** | سسٹمز، اداروں اور فورمز کا آڈٹ کیسے اور کب کیا جائے | [CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md) (*آڈٹ عمل گھر*)۔ آپریٹر ملحقہ: [CJS-3.4](../../corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (رسائی کے درجات) [CJS-3.5](../../corpus_joint_structure/cjs_05.110_oversight_operations.md) (دعوی کی جانچ) | سسٹم الائنمنٹ سرٹیفیکیشن نہیں۔ تہوں 1-2 کا متبادل نہیں ہے۔ |
 
-**نویں باب چوتھی تہہ نہیں ہے۔** [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ایک بڑا، فورم کے زیر نگرانی عمل ہے۔ **استعمال کرتا ہے** یہ اسٹیک. اسے تہوں 1-2 کو پورا کرنا چاہیے۔ بہن بھائی کے طریقے (درجہ بندی-ریکارڈ آڈٹ، ڈیٹا-قسم-ریکارڈ آڈٹ، دعوی کی تصدیق، مسلسل نگرانی) بھی اسٹیک کا استعمال کرتے ہیں۔ ان میں سے کوئی بھی نیا گھر نہیں ہے۔
+**نویں باب چوتھی تہہ نہیں ہے۔** [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ایک بڑا، فورم کے زیر نگرانی عمل ہے۔ **استعمال کرتا ہے** یہ اسٹیک. اسے تہوں 1-2 کو پورا کرنا چاہیے۔ بہن بھائی کے طریقے (درجہ بندی-ریکارڈ آڈٹ، ڈیٹا-قسم-ریکارڈ آڈٹ، دعوی کی تصدیق، مسلسل نگرانی) بھی اسٹیک کا استعمال کرتے ہیں۔ ان میں سے کوئی بھی نیا گھر نہیں ہے۔
 
 **اپنایا ہوا نفاذ متن لاگو ہوتا ہے؛ یہ فرش کو تبدیل نہیں کرتا.** CS, CI, CF، اور CJS-3.3 (*نگرانی: آڈٹ ایبلٹی اور تعمیر نو کی شرائط*) CJS-3.5 کے ذریعے (*نگرانی: آزاد تصدیق اور دعوی کی سالمیت کی شرائط*) ضمیمہ بتاتے ہیں کہ ڈومین میں پرت 3 کو کیسے چلایا جائے۔ انہیں تہوں 1-2 کو پورا کرنا چاہیے۔ آخری تاریخ، رازداری، اور مقامی پالیسی نچلی قسم کی حدود ہیں۔
 
@@ -956,7 +956,7 @@ flowchart TB
 
 - **نگرانی → آڈیٹنگ → SAC:** کے تحت [آئینی ٹیٹراڈ](core_00_preamble.md#constitutional-tetrad) **نگرانی** leg، یہ آرٹیکل آڈیٹنگ کے لیے رائٹس فلور ہوم ہے۔
   - کراس نفاذ *کیسے* / *جب* میں رہتا ہے۔ **[CJS-3.3 آڈٹ کا عمل گھر](../../corpus_joint_structure/cjs_05.115_audit_process.md)** (کے ساتھ پڑھیں **CJS-3.4** / **CJS-3.5** OP ملحقہ)۔
-  - [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب نو](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) یہ ایک خاص طور پر بڑا، ہائی اسٹیک آڈٹ کا عمل ہے — فورم کے زیر نگرانی، ملٹی ڈومین، اور شناخت کا حامل — بہن بھائی آڈٹ طریقوں میں:
+  - [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب نو](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) یہ ایک خاص طور پر بڑا، ہائی اسٹیک آڈٹ کا عمل ہے — فورم کے زیر نگرانی، ملٹی ڈومین، اور شناخت کا حامل — بہن بھائی آڈٹ طریقوں میں:
     - سسٹم کی درجہ بندی ریکارڈ آڈٹ؛
     - سسٹم ڈیٹا کی اقسام ریکارڈ آڈٹ؛
     - پیچیدگی اور اسٹیورڈ شپ آڈٹ؛
@@ -966,7 +966,7 @@ flowchart TB
 - **ایک ساتھ پڑھیں:**
   - **آرٹیکل XV** (*Info-Sphere Integrity*) جہاں علمی ریکارڈ اور مسابقت کو مادی طور پر شامل کیا جاتا ہے؛
   - **آرٹیکل XIII-A** (*اعتماد اور اعتماد کی بنیاد*) چیلنج حقوق کے لیے جو آڈٹ سپورٹ کرتا ہے لیکن اس کی جگہ نہیں لیتا؛
-  - [باب نو](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) اور [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) جہاں سیدھ کے ثبوت کو آزادانہ طور پر قابل تصدیق رہنا چاہیے۔
+  - [باب نو](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) اور [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) جہاں سیدھ کے ثبوت کو آزادانہ طور پر قابل تصدیق رہنا چاہیے۔
 - **تصدیقی مشینری:** **باب دو سے چار** سپلائی ڈیفینیشن کی سالمیت، بوجھ کی تقسیم، مشاہدے کی اہلیت، اور تصدیقی رسائی جو یہ آرٹیکل رائٹس فلور پرت پر لاگو کرتا ہے۔
 - **درجہ بندی:** کے ساتھ ذمہ داریوں پیمانے [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) اور **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**; جہاں کلاس غیر یقینی ہے، حل ہونے تک سب سے زیادہ قابل احترام طبقے پر حکومت کریں۔
 

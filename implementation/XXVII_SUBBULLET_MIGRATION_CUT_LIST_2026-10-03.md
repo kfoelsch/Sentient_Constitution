@@ -1,6 +1,6 @@
 # Article XXVII sub-bullet migration — cut list (2026-10-03)
 
-**Status:** Applied (2026-10-03). Resolutions: the incentive-alignment carve-out moved to Chapter Eleven §5.4 (*Misaligned rewards — Transition exception*); preservation mechanics moved to new **CS-6.350 §8**; the core names only class or tier, misalignment, and ease of alignment and points to **CS-6.350 §7** and **CI-6.275 §5** for the rest; **Gate** and **Gate Criteria** were added to Chapter Five (Oversight band). Process support for the Article XXVII slimming pass; it cannot narrow `core_06.025_rights_part_e.md` or any incorporated corpus file.
+**Status:** Applied (2026-10-03). Resolutions: the incentive-alignment carve-out moved to Chapter Eleven §5.4 (*Misaligned rewards — Transition exception*); preservation mechanics moved to new **CS-6.350 §8**; the core names only class or tier, misalignment, and ease of alignment and points to **CS-6.350 §7** and **CI-6.275 §5** for the rest; **Gate** and **Gate Criteria** were added to Chapter Five (Oversight band). Process support for the Article XXVII slimming pass; it cannot narrow `core_06.020_rights_part_e.md` or any incorporated corpus file.
 
 ## Purpose
 

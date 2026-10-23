@@ -107,7 +107,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - پایین‌دست: خانوادهٔ اندازه‌گیری مشارکت — تجمیع فقط‌پیوند؛ سطح‌های هر اصطلاح در تعریف‌های برگ زندگی می‌کنند — ببینید [انصاف ماهوی](../../core_05.055_band_participation.md#substantive-fairness)، [جانشینی ویژگی حمایت‌شده و اثر نامتوازن](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact)، [دسترس‌پذیری](../../core_05.055_band_participation.md#accessibility)، [عاملیت آموزشی](../../core_05.055_band_participation.md#educational-agency)، [عاملیت معنادار](../../core_05.055_band_participation.md#meaningful-agency)، و خوشهٔ [حریم خصوصی (اطلاعاتی)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) در نوار پیوستگی.
-- خوانده شود با: فصل ششم، [فصل هفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)، یا اسناد ادغام‌شده — الزام‌های الزام‌آور منع تبعیض، تطبیق، آموزش یا حریم خصوصی وقتی پدید می‌آیند که آن اسناد صریحاً آن‌ها را بخواهند.
+- خوانده شود با: فصل ششم، [فصل هفتم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)، یا اسناد ادغام‌شده — الزام‌های الزام‌آور منع تبعیض، تطبیق، آموزش یا حریم خصوصی وقتی پدید می‌آیند که آن اسناد صریحاً آن‌ها را بخواهند.
 
 </details>
 

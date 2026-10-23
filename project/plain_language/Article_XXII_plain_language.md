@@ -4,7 +4,7 @@
 
 *Your right to move, to find safety, and to always belong somewhere.*
 
-> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXII](../../core_06.020_rights_part_d.md#article-xxii-movement-migration-refuge-and-non-statelessness), the official text is what counts.
+> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXII](../../core_06.015_rights_part_d.md#article-xxii-movement-migration-refuge-and-non-statelessness), the official text is what counts.
 >
 > A note on "you" and "people": this constitution protects every sentient being it covers, not only humans. Here, "people" means all of them.
 

@@ -7,7 +7,7 @@
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI** (*Audit, Transparency, and Independent Verification*); layer 2 is Chapter Five [Auditability](../core_05.050_band_oversight.md#auditability). Three-layer picture: [Article XVI](../core_06.015_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*). Do not treat this file, Chapter Nine, or an OP annex as a fifth audit home.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI** (*Audit, Transparency, and Independent Verification*); layer 2 is Chapter Five [Auditability](../core_05.050_band_oversight.md#auditability). Three-layer picture: [Article XVI](../core_06.010_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*). Do not treat this file, Chapter Nine, or an OP annex as a fifth audit home.
 
 </details>
 
@@ -27,7 +27,7 @@
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
-- Read with: [Chapter Nine](../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.005) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
+- Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -132,7 +132,7 @@ Audit when any of the following applies (often more than one):
 
 ## Sibling audit modes (owner map)
 
-*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in **Article XVI** (*Audit, Transparency, and Independent Verification*)](../core_06.015_rights_part_c.md#audit-three-layers): **Article XVI** (*Audit, Transparency, and Independent Verification*) floor, Auditability property, this file as how/when). They are not extra homes.*
+*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in **Article XVI** (*Audit, Transparency, and Independent Verification*)](../core_06.010_rights_part_c.md#audit-three-layers): **Article XVI** (*Audit, Transparency, and Independent Verification*) floor, Auditability property, this file as how/when). They are not extra homes.*
 
 | Mode | Owner (do not restate doctrine here) |
 |---|---|

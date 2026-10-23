@@ -22,7 +22,7 @@ class FossilAnchorAuditTests(unittest.TestCase):
                 "#### 5.4 Duty to resist unlawful or unconstitutional instructions\n",
                 encoding="utf-8",
             )
-            (root / "core_01.015_stewardship_capacity_principles.md").write_text(
+            (root / "core_01.010_stewardship_capacity_principles.md").write_text(
                 "[Chapter Ten §5.4](core_11.000_standing_integration.md"
                 "#411-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",
                 encoding="utf-8",
@@ -47,7 +47,7 @@ class FossilAnchorAuditTests(unittest.TestCase):
             )
             leftovers = remaining_citations(root, prunes)
             self.assertTrue(
-                any("core_01.015_stewardship_capacity_principles.md" in item for item in leftovers),
+                any("core_01.010_stewardship_capacity_principles.md" in item for item in leftovers),
                 msg="\n".join(leftovers),
             )
             self.assertTrue(

@@ -107,7 +107,7 @@ Os **termos independentes** vivem sob [Participação: termos independentes](../
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: família de medição Participação — rollup só-enlace; os níveis por termo vivem nas definições-folha — veja [Equidade substantiva](../../core_05.055_band_participation.md#substantive-fairness), [Uso de substitutos de características protegidas e impacto dispar](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Acessibilidade](../../core_05.055_band_participation.md#accessibility), [Agência educacional](../../core_05.055_band_participation.md#educational-agency), [Agência significativa](../../core_05.055_band_participation.md#meaningful-agency), e o aglomerado [Privacidade (informacional)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) na faixa Continuidade.
-- Ler com: Capítulo Seis, [Capítulo Sete](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), ou instrumentos incorporados — os requisitos vinculantes de não discriminação, acomodação, educação ou privacidade surgem quando esses instrumentos os exigem de forma expressa.
+- Ler com: Capítulo Seis, [Capítulo Sete](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), ou instrumentos incorporados — os requisitos vinculantes de não discriminação, acomodação, educação ou privacidade surgem quando esses instrumentos os exigem de forma expressa.
 
 </details>
 

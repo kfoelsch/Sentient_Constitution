@@ -26,7 +26,7 @@ Statements below distinguish **observed text**, **editorial judgment**, and **te
 
 The Preamble's Two Fundamental Questions examine what a system rewards, including concealment, delay, and cost shifting. Chapter One §6 makes trustworthy reliance depend on behavior; §6.1 makes correction and remedy part of trust itself. This is a useful conceptual center for a project intended to rebuild trust: it supplies questions people can ask about an institution without first trusting its leadership.
 
-**Sources:** [Preamble: What Systems Reward](../../core_00.000_preamble.md#what-systems-reward); [Chapter One §6](../../core_01.005_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
+**Sources:** [Preamble: What Systems Reward](../../core_00.000_preamble.md#what-systems-reward); [Chapter One §6](../../core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 
 ### 2. Help cannot buy permission to harm
 
@@ -34,7 +34,7 @@ Chapter Ten separates verified contribution from verified violation. Its three-q
 
 This is also more constructive than a system concerned only with punishment. The recognition and aspiration provisions in Chapter One §3.2 give useful work a positive place in the design.
 
-**Sources:** [Chapter Ten §§1–2.2](../../core_10.000_standing_assessment.md#1-the-three-questions); [Chapter One §3.2](../../core_01.005_values_principles.md#32-recognition-reinforcement-and-aspiration).
+**Sources:** [Chapter Ten §§1–2.2](../../core_10.000_standing_assessment.md#1-the-three-questions); [Chapter One §3.2](../../core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
 ### 3. The corpus explicitly resists becoming a universal reputation system
 
@@ -42,7 +42,7 @@ This is also more constructive than a system concerned only with punishment. The
 
 These are substantive protections worth making conspicuous in explanations and trials. They also create implementation obligations: a future interface must not quietly reintroduce a global score or an “unverified” stigma.
 
-**Sources:** [Chapter Ten §2.1](../../core_10.000_standing_assessment.md#21-silence-is-the-default); [Chapter One §17.3](../../core_01.015_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Eleven §§7–8](../../core_11.000_standing_integration.md#7-final-standing-effect).
+**Sources:** [Chapter Ten §2.1](../../core_10.000_standing_assessment.md#21-silence-is-the-default); [Chapter One §17.3](../../core_01.010_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Eleven §§7–8](../../core_11.000_standing_integration.md#7-final-standing-effect).
 
 ### 4. Independence follows actual power
 
@@ -58,7 +58,7 @@ Chapter Eleven requires institutions capable of delivering remedy, with funding,
 
 The strongest idea here is that restrictions do not themselves repair the injured party. Chapter Twelve §4.1 says that explicitly, including for serious misconduct. I would protect this through any compression of the implementation text.
 
-**Sources:** [Chapter Eleven §§8–9](../../core_11.000_standing_integration.md#8-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md); [Chapter Twelve §4.1](../../core_12.005_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
+**Sources:** [Chapter Eleven §§8–9](../../core_11.000_standing_integration.md#8-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md); [Chapter Twelve §4.1](../../core_12.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
 
 ### 6. It distinguishes protection, competence, participation, and authority
 
@@ -66,7 +66,7 @@ Sentience status does not come from a certification badge or standing score. Aff
 
 Those distinctions make the proposal more adaptable, although the explanation needs to make them easier to retain.
 
-**Sources:** [Article VI-B](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Chapter Fourteen §§1.1 and 4.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism).
+**Sources:** [Article VI-B](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers); [Chapter Fourteen §§1.1 and 4.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism).
 
 ## Improvements in priority order
 
@@ -80,7 +80,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** A reader can reproduce formation and the first contested allocation without an unwritten exception. If the requirements cannot be satisfied, report the actual conflict to the steward; do not invent a cheaper constitutional tier or weaken independence in support text.
 
-**Sources:** [First-adopter kit §§1–2](../../implementation/adoption/FIRST_ADOPTER_KIT.md#1-three-substeps-do-not-collapse); [adopter profiles §6.3](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#63-profile-3--adoption-document-plus-hosted-families); [CF-13.405 §1–3.4](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-1-core-structural-rule); [Chapter Nine Part D §13.1](../../core_09.020_institutional_alignment_certification.md#131-four-seats-in-an-institutional-certification).
+**Sources:** [First-adopter kit §§1–2](../../implementation/adoption/FIRST_ADOPTER_KIT.md#1-three-substeps-do-not-collapse); [adopter profiles §6.3](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#63-profile-3--adoption-document-plus-hosted-families); [CF-13.405 §1–3.4](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-1-core-structural-rule); [Chapter Nine Part D §13.1](../../core_09.015_institutional_alignment_certification.md#131-four-seats-in-an-institutional-certification).
 
 ### Priority 2 — Make the next action easier to find and execute
 
@@ -92,7 +92,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** An unfamiliar reader completes a bounded task without author coaching; record time, failed searches, unresolved handoffs, and corrections. A simulation can test this before live participants are recruited.
 
-**Sources:** [first-adopter kit](../../implementation/adoption/FIRST_ADOPTER_KIT.md); [CS-6.350 §2–10.3](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-2-phased-transition-structure); [Chapter One §5.2](../../core_01.005_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty).
+**Sources:** [first-adopter kit](../../implementation/adoption/FIRST_ADOPTER_KIT.md); [CS-6.350 §2–10.3](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-2-phased-transition-structure); [Chapter One §5.2](../../core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty).
 
 ### Priority 3 — Establish how reliably different evaluators measure the same facts
 
@@ -104,7 +104,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** Published disagreements, their consequences, and a defensible resolution path. Do not treat consensus between coached sessions as empirical calibration.
 
-**Sources:** [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Twelve §1](../../core_12.005_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
+**Sources:** [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Twelve §1](../../core_12.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
 
 ### Priority 4 — Test the strongest powers against hostile administration
 
@@ -116,7 +116,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** The protected subjects have a usable route under adversarial conditions; a simulation result must be labeled as such. If a value choice remains, present it to the steward rather than treating it as copyediting.
 
-**Sources:** [Chapter Fourteen §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility); [Chapter Twelve §§4–4.2](../../core_12.005_misconduct_designation.md#4-due-process-safeguards-remedy-and-prevention); [Chapter Fifteen §§1–3](../../core_15.000_non_regression.md#1-non-regression-floor).
+**Sources:** [Chapter Fourteen §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility); [Chapter Twelve §§4–4.2](../../core_12.000_misconduct_designation.md#4-due-process-safeguards-remedy-and-prevention); [Chapter Fifteen §§1–3](../../core_15.000_non_regression.md#1-non-regression-floor).
 
 ### Priority 5 — Repair semantic drift between core and implementation
 

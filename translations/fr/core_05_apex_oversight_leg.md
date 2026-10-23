@@ -119,7 +119,7 @@ La *Matérialité* ([Détermination de matérialité](../../core_05.050_band_ove
 | Vérité et intégrité épistémique | Les revendications, les registres et les divulgations sont-ils assez honnêtes pour des décisions sûres ? | Protège la participation informée, le recours et la correction |
 | Fiabilité | Le fait de s’y fier est-il justifié, ou la confiance se dégrade-t-elle ? | Protège les êtres sentients de la fausse confiance et de la confiance trompeuse |
 
-Les exigences contraignantes de fiabilité, d’audit ou d’examen naissent lorsque le Chapitre six, le [Chapitre sept](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), ou les instruments incorporés les exigent de façon expresse.
+Les exigences contraignantes de fiabilité, d’audit ou d’examen naissent lorsque le Chapitre six, le [Chapitre sept](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), ou les instruments incorporés les exigent de façon expresse.
 
 
 ---

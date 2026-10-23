@@ -1437,7 +1437,7 @@ flowchart TB
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**异议或抗议不产生地位或治理后果：**行使异议与和平抗议底线——包括[受保护的非暴力公民抗命](#xi-d-nonviolent-civil-disobedience)——本身不得作为依据或权重因素：
   - 在[第九章](../../core_10.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger)开启、支持、延长或加重违规地位记录；
   - 支持地位锁定、拒绝或延迟能力认证，或缩窄**第十章**或**第十九条**（*地位与参与身份*）中的任何指定途径；
-  - 支持[第十一章](../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)中的违宪不当行为认定；
+  - 支持[第十一章](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)中的违宪不当行为认定；
   - 依据**第十-B条**（*治理参与与投票资格*）和**第十三章**，减少治理投票、利益相关方参与、候选资格、任职、论坛服务或罢免权；
   - 计入[第八章](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)的系统一致性认证不利因素；
   - 成为监控、渗透、威胁评分或累积记录的理由，而这些行为已由**第十四-A条**（*安全、情报与秘密权力限制*）禁止；或
@@ -1500,7 +1500,7 @@ flowchart TB
   - 商业企业——独资企业、合伙企业、公司、商业合作社、平台型企业及类似形式，定义见[企业创办](../../core_05.055_band_participation.md#business-creation-constitutional)，包括创设和经营所需的资本获取、市场准入与许可途径。
 
   该权利涵盖使新机构得以成立，而不仅是参与既有机构。
-- **真实创设与意图：** 创办者或经营者须真实认同机构或企业所述宗旨。不得以误导他人关于宗旨、控制权、利益或服务对象为目的设立或经营，也不得意图伤害他人；有理由认定存在此类意图时亦然。这里的伤害指本宪章禁止的伤害，包括第六-C条禁止的歧视性待遇；正常竞争、合法批评与合法异议不属于此类伤害，竞争者合法失去业务也不能单独证明伤害意图。判断须依据可核实的行为、控制方式、奖励机制及言论。经核实的言论、号召或计划若称他人理应受伤害或遭受违宪歧视，可作为意图证据；依[第一章§7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)，应看其实际陈述、号召或实施了什么，不看其宗教、政治或意识形态标签。信仰或群体归属本身不构成不利证据，单纯声称善意也不构成有利证据；言论保障依[第七章§6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)适用。无记录的创办者推定为真实；以行动表明承诺（如书面接受机构限制并接受独立核验）即可作为证据。此条件不是许可，成立或经营前无需获准；主张创设不真实的一方负举证责任。
+- **真实创设与意图：** 创办者或经营者须真实认同机构或企业所述宗旨。不得以误导他人关于宗旨、控制权、利益或服务对象为目的设立或经营，也不得意图伤害他人；有理由认定存在此类意图时亦然。这里的伤害指本宪章禁止的伤害，包括第六-C条禁止的歧视性待遇；正常竞争、合法批评与合法异议不属于此类伤害，竞争者合法失去业务也不能单独证明伤害意图。判断须依据可核实的行为、控制方式、奖励机制及言论。经核实的言论、号召或计划若称他人理应受伤害或遭受违宪歧视，可作为意图证据；依[第一章§7.5](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)，应看其实际陈述、号召或实施了什么，不看其宗教、政治或意识形态标签。信仰或群体归属本身不构成不利证据，单纯声称善意也不构成有利证据；言论保障依[第七章§6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)适用。无记录的创办者推定为真实；以行动表明承诺（如书面接受机构限制并接受独立核验）即可作为证据。此条件不是许可，成立或经营前无需获准；主张创设不真实的一方负举证责任。
 - **不得暗中剥夺：**不得通过以下方式挫败该权利：
   - 旨在排斥不受待见的创办者、宗旨或形式的许可制度、授权门槛或程序复杂性；
   - 在资本、财政工具、基础设施或法律认可方面歧视，使其无法获得类似机构或企业能够取得的资源；或
@@ -1516,7 +1516,7 @@ flowchart TB
   - **较轻措施不足以保护：**维持该要求的一方须证明，信息披露、登记、受保护的职称、接收或雇用该人的机构所负义务，以及对学习者的监督，都无法保护风险中的人。
   - **公开决定：**采纳该要求的文书须通过已公布且可受质疑的途径，决定该认定是否足以要求许可。论坛负责认定和制定标准；不颁发许可、不裁决个人案件，也不决定可接受的风险程度。
   - **途径开放且不得垄断：**标准须符合[第十一章§6.2](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)：已公布、合乎比例且可受质疑。考试、作品档案、学徒训练、经同行核实的经验，以及其他司法辖区的许可，均作为同等证明。必须有多个独立颁发者，且不得只有一个必经途径。现任从业者不得控制标准委员会或颁发者的治理机构。
-  - **谨慎实施：**学习者可在已获许可的监督者指导下实施行为。紧急行为，或无法及时联系到获许可有感知者时的行为，不得禁止。决定须遵循[第二十六-C条](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)的时限；费用和等待不得成为障碍（[可避免负担](../../core_05.040_band_continuity.md#avoidable-burden)）；每次复审时要求即告失效，除非重新证明负担。复审结果须公布。
+  - **谨慎实施：**学习者可在已获许可的监督者指导下实施行为。紧急行为，或无法及时联系到获许可有感知者时的行为，不得禁止。决定须遵循[第二十六-C条](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)的时限；费用和等待不得成为障碍（[可避免负担](../../core_05.040_band_continuity.md#avoidable-burden)）；每次复审时要求即告失效，除非重新证明负担。复审结果须公布。
   - **保障：**施加要求的一方负举证责任。该要求不得妨碍取得其他工作的工资、权利底线、生存关键服务、表达、辩护或受保护举报，也不得用于针对异议者、举报者或工人组织者。能力变化应按行为本身要求的能力判断，不得仅依据残障或健康状况。
   - **机构分类：**为他人实施此类行为的机构，依据[领域特定实质性](../../core_05.050_band_oversight.md#domain-specific-materiality)属于安全方面的实质性机构，因此至少为L类。许可要求不对机构分类；机构属于L类本身绝不要求取得许可。 单独或在小型执业场所实施此类行为的有感知者，可通过联合专业执业履行L类义务（**CI-4.7**，*执业许可、执业认证与联合专业执业*）。
 - **限制：**适用第五章的[创设权限制](../../core_05.055_band_participation.md#creation-rights-limits)：该权利不延伸至旨在违反[宪法约束](core_05_band_integrative.md#宪法约束)、损害**安全**或**真理**，或违反[第一章 §11 市场结构](core_01_a_values_principles.md#11-市场结构)而集中权力的机构或企业。任何其他限制都必须符合[第一章 §7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)：确有必要、合乎比例、尽可能可逆，并接受监督。
@@ -1851,7 +1851,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游依据：原则：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 管护纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)和[§19 激励协调与系统俘获](core_01_c_stewardship_capacity_principles.md#19-激励协调与系统俘获)。
-- 联读：[第十二条-D](#article-xii-d-non-capture-safeguards)（*防俘获保障*）；[第十二条-B](#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）；[第十条-A](#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵*）；[第九条-A](#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像与声誉的自我所有权*）；[第十三条-E](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）；[第十五条](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）；[第十一章 §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*信息空间泛滥与封堵争议途径*）、[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域泛滥*）和[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)；[第十三章 §1.2](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）。
+- 联读：[第十二条-D](#article-xii-d-non-capture-safeguards)（*防俘获保障*）；[第十二条-B](#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）；[第十条-A](#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵*）；[第九条-A](#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像与声誉的自我所有权*）；[第十三条-E](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）；[第十五条](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）；[第十一章 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*信息空间泛滥与封堵争议途径*）、[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域泛滥*）和[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)；[第十三章 §1.2](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）。
 
 </details>
 
@@ -1887,7 +1887,7 @@ flowchart TB
 
 - **防俘获底线：**[**第十二条-D**](#article-xii-d-non-capture-safeguards)（*防俘获保障*）涵盖组成、利益冲突、回避、外部审查和免职。本条补充利害关系方接触这些机构的规则。
 - **参与权重：**[**第十二条-B**](#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）禁止象征性参与。本条同样不将接触数量视为支持。
-- **系统与信息：**[**第十三条-E**](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）要求系统遵守与其他主体相同的规则；[**第十五条**](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）涵盖共享信息环境。
+- **系统与信息：**[**第十三条-E**](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）要求系统遵守与其他主体相同的规则；[**第十五条**](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）涵盖共享信息环境。
 - **遴选资金：**[**第十三章 §1.2**](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）规定通过竞选、提名或竞争性任命进行遴选时的资金边界。
 
 本条规定以下底线：

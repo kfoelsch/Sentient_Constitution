@@ -263,7 +263,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
-- Read with: [Chapter Nine](../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.005) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
+- Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
@@ -391,7 +391,7 @@ Operational transparency and structured logging requirements
 - Read with: **CJS-5.110 §4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5)**
+- Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5)**
 - Read with: **`corpus_forum.md` CF-13.450 (*Forum continuity*) through CF-13.460 (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)

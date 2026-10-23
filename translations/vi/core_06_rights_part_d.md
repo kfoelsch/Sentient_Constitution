@@ -318,9 +318,9 @@ Phải giữ cho nội dung này khác biệt với:
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: [Article XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Read with: [Article XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
@@ -346,9 +346,9 @@ Phải giữ cho nội dung này khác biệt với:
   - Việc xác định tư cách và khóa phải tính đến sự tham gia thuận theo và việc không chống lại chỉ thị trái pháp luật hoặc phản hiến pháp khi có nghĩa vụ và năng lực liên quan, phù hợp với **Chương Năm** (*Thất bại trách nhiệm tập thể*).
 - **Khóa tư cách:** [Khóa tư cách](../../core_05.035_band_accountability.md#standing-lock) là mặt hạn chế tương ứng với việc xác nhận năng lực. Khi kết luận vi phạm đã xác minh còn chưa giải quyết hoặc chưa được khắc phục đáng kể, khóa có thể ngăn hoặc hạn chế các lối đi về tín nhiệm, vai trò, thẩm quyền, tín dụng, giám sát, công nhận, **bỏ phiếu quản trị** hoặc **tham gia của bên liên quan**. Hệ quả hạn chế chỉ gắn với lối đi đặc quyền được nêu tên; nếu rủi ro đã xác minh đòi hỏi, việc tách khỏi địa điểm, mạng lưới hoặc sentient cụ thể phải tuân thủ [giới hạn tách biệt](../../core_11.000_standing_integration.md#51-separation-limits).
   - Khóa tư cách không phải là thứ bậc phẩm giá, cắt giảm Sàn Quyền, trả đũa tự động hoặc điểm thành tích gộp.
-  - Khóa phải nói rõ quyền tiếp cận nào bị chặn, bảo vệ ai hoặc điều gì, điều kiện khắc phục để gỡ khóa, đường rà soát và thời điểm đánh giá lại; đồng thời phải cần thiết, tương xứng, kiểm toán được và có thể phản đối theo [Điều XIX-B](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+  - Khóa phải nói rõ quyền tiếp cận nào bị chặn, bảo vệ ai hoặc điều gì, điều kiện khắc phục để gỡ khóa, đường rà soát và thời điểm đánh giá lại; đồng thời phải cần thiết, tương xứng, kiểm toán được và có thể phản đối theo [Điều XIX-B](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
   - Xác nhận năng lực không miễn trừ khóa tư cách đang áp dụng; đóng góp tốt không xóa kết luận vi phạm đã xác minh còn chưa giải quyết.
-  - Các khóa đối với lối bỏ phiếu và ba khóa đặc biệt có quy tắc bổ sung tại [Điều XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks).
+  - Các khóa đối với lối bỏ phiếu và ba khóa đặc biệt có quy tắc bổ sung tại [Điều XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks).
   - Khóa tư cách không thay thế thủ tục công lý cá nhân hóa và **tự nó** không hạn chế di chuyển, lánh nạn, tính di động hoặc rời đi ([Điều XXI](#article-xxi-interoperability-portability-and-exit-integrity) và [Điều XXII](#điều-xxii-di-chuyển-di-cư-lánh-nạn-và-không-quốc-tịch)).
 - **Điều chỉnh khóa theo tổn hại:** Khóa phải phù hợp với mức nghiêm trọng của tổn hại đã xác minh, vai trò hoặc đặc quyền cụ thể cần bảo vệ và tiến độ khắc phục.
   - **Đóng góp trước đây:** chỉ được cân nhắc khi cho thấy sentient có thể khắc phục, duy trì biện pháp bảo vệ hoặc tránh tái diễn, hoặc hỗ trợ hạn chế nhẹ hơn khi đánh giá lại. Đóng góp không được bù trừ, miễn, làm giảm trung bình hoặc thay thế kết luận tổn hại chưa giải quyết.
@@ -379,7 +379,7 @@ Phải giữ cho nội dung này khác biệt với:
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3 Mục tiêu nền tảng: Thịnh vượng](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 An toàn](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency) và [§18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-quản-trị-dưới-kỷ-luật-quản-thủ).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3 Mục tiêu nền tảng: Thịnh vượng](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 An toàn](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency) và [§18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-quản-trị-dưới-kỷ-luật-quản-thủ).
 - Hạ nguồn: [Chương Mười §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa chữa và phòng ngừa*); [Chương Mười Một §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Bảo đảm thủ tục đúng đắn, khắc phục và phòng ngừa*).
 
 </details>
@@ -411,7 +411,7 @@ Triển khai quản trị được thông qua có thể bổ sung chi tiết. Kh
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: [Chương Một §4 An toàn](../../core_01.005_values_principles.md#4-safety-harm-constraint), [Chương Một §13.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Chương Một §3.3 Quy trình chống hạ thấp phẩm giá](core_01_a_values_principles.md#33-quy-trình-chống-hạ-thấp-phẩm-giá) và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
+- Thượng nguồn: Nguyên tắc: [Chương Một §4 An toàn](../../core_01.000_values_principles.md#4-safety-harm-constraint), [Chương Một §13.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Chương Một §3.3 Quy trình chống hạ thấp phẩm giá](core_01_a_values_principles.md#33-quy-trình-chống-hạ-thấp-phẩm-giá) và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
 - Hạ nguồn: [Chương Mười §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa chữa và phòng ngừa*); [Điều XX-B](#điều-xx-b-các-mức-sàn-hạn-chế).
 - Đọc cùng: [Tàn nhẫn](../../core_05.035_band_accountability.md#cruelty) (*nơi quy định tại Chương Năm về tiêu chuẩn cấm tàn nhẫn: gây đau khổ như mục đích tự thân*).
 
@@ -661,7 +661,7 @@ Hữu thể có tri giác và hệ thống phụ thuộc có quyền rời đi, 
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: [Chương Một §16.3 Khát vọng cởi mở](../../core_01.015_stewardship_capacity_principles.md#163-openness-aspiration), [Chương Một §7 Tự do](../../core_01.005_values_principles.md#7-freedom-bounded-agency) và [§11 Cấu trúc thị trường](../../core_01.005_values_principles.md#11-market-structure).
+- Thượng nguồn: [Chương Một §16.3 Khát vọng cởi mở](../../core_01.010_stewardship_capacity_principles.md#163-openness-aspiration), [Chương Một §7 Tự do](../../core_01.000_values_principles.md#7-freedom-bounded-agency) và [§11 Cấu trúc thị trường](../../core_01.000_values_principles.md#11-market-structure).
 - Đọc cùng: [Điều XXI-A](#điều-xxi-a-các-quyền-về-tính-di-động) (*Quyền về tính di động*); [XXI-B](#điều-xxi-b-ranh-giới-tương-tác-có-đi-có-lại); [XXI-C](#điều-xxi-c-quy-tắc-chống-khóa-chặt); [Điều XXIII](#điều-xxiii-tính-dễ-hiểu-và-quản-trị-độ-phức-tạp); [corpus_systems.md](../../corpus_systems.md) CS-2 (*Các loại thông tin và cách xử lý*); CJS-3.17 (*các thuật ngữ về tương tác, tính di động và tính toàn vẹn khi rời đi*).
 
 </details>
@@ -921,7 +921,7 @@ Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằn
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Đọc cùng: [Chương Một §5.2 Khả năng tiếp cận bằng ngôn ngữ giản dị (Nghĩa vụ quản trị ủy thác)](core_01_a_values_principles.md#52-khả-năng-tiếp-cận-bằng-ngôn-ngữ-đơn-giản-nghĩa-vụ-về-tham-gia-và-quản-trị-có-trách-nhiệm), [§13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-giảm-thiểu-gánh-nặng-có-thể-tránh) và [Chương Một Phần C §16.1 Hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#161-hiểu-biết-phân-tán).
 
 </details>
@@ -953,7 +953,7 @@ Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằn
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](../../core_01.005_values_principles.md#4-safety-harm-constraint), [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Chương Một §18.5 Kiến trúc mô-đun và kỷ luật phụ thuộc](core_01_c_stewardship_capacity_principles.md#185-kiến-trúc-mô-đun-và-kỷ-luật-phụ-thuộc) và [Chương Một §20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](../../core_01.000_values_principles.md#4-safety-harm-constraint), [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Chương Một §18.5 Kiến trúc mô-đun và kỷ luật phụ thuộc](core_01_c_stewardship_capacity_principles.md#185-kiến-trúc-mô-đun-và-kỷ-luật-phụ-thuộc) và [Chương Một §20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
 
 </details>
 
@@ -994,7 +994,7 @@ Kỷ luật quản trị về độ phức tạp, khả năng tiếp cận bằn
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-các-nguyên-tắc-cốt-lõi-về-đánh-đổi) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-các-nguyên-tắc-cốt-lõi-về-đánh-đổi) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Đọc cùng: [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Thịnh vượng** và **Liên tục**; [Tính đảo ngược được](../../core_05.040_band_continuity.md#reversibility), [Rủi ro](../../core_05.040_band_continuity.md#risk) và [Chiếm quyền hệ thống](../../core_05.040_band_continuity.md#system-capture) tại **Chương Năm**.
 
 </details>
@@ -1040,7 +1040,7 @@ Việc chẩn đoán nghiêm túc phải có thể kiểm toán và phản đố
 <details>
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1197,7 +1197,7 @@ Việc diễn giải **hiến pháp** cuối cùng phải giữ tính thẩm quy
 <summary><strong><span style="color: #2563eb;">Truy vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§13.1.5 Phép thử quyết định va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Quản trị theo kỷ luật quản trị ủy thác](core_01_c_stewardship_capacity_principles.md#18-quản-trị-dưới-kỷ-luật-quản-thủ) và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
-- Đọc cùng: [Chương Mười §5.5](core_09_standing_integration.md#55-special-locks) (*việc bỏ sót công khai và tác động của quy trình rút khỏi diễn đàn*); [Chương Mười Một §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*mô thức sai trái định danh*); [Chương Mười Hai §2](core_11_forum.md#2-default-venue-and-primary-stakes) và [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*định tuyến ưu tiên liêm chính và chống tự xét xử*).
+- Đọc cùng: [Chương Mười §5.5](core_09_standing_integration.md#55-special-locks) (*việc bỏ sót công khai và tác động của quy trình rút khỏi diễn đàn*); [Chương Mười Một §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*mô thức sai trái định danh*); [Chương Mười Hai §2](core_11_forum.md#2-default-venue-and-primary-stakes) và [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*định tuyến ưu tiên liêm chính và chống tự xét xử*).
 
 </details>
 

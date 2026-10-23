@@ -10,7 +10,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Eighteen lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** which **implementation text** files count as **binding incorporated implementation text** when adopted; **edition pinning** and **custody chain**; **safeguards** against silent drift and evasion; **invocation** of adopted implementation obligations within stated adoption scope; and this Constitution’s **adoption framing** (what the text says versus what a particular adopter can enforce). Source-layer status lives under the **[Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy)** in **Chapter Five**; textual and incorporation-layer conflict procedure lives in **[Chapter One — §15.4 Constitutional Meaning Conflict Resolution](core_01.010_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution)** — neither is restated here.
+> - **Constitutional owner:** which **implementation text** files count as **binding incorporated implementation text** when adopted; **edition pinning** and **custody chain**; **safeguards** against silent drift and evasion; **invocation** of adopted implementation obligations within stated adoption scope; and this Constitution’s **adoption framing** (what the text says versus what a particular adopter can enforce). Source-layer status lives under the **[Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy)** in **Chapter Five**; textual and incorporation-layer conflict procedure lives in **[Chapter One — §15.4 Constitutional Meaning Conflict Resolution](core_01.005_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution)** — neither is restated here.
 > - **Implementation owner:** designated **implementation text** files (`corpus_*.md` and further listings in the **Chapter Five** [**Corpus**](core_05.045_band_integrative.md#corpus) entry) supply the operating detail; this chapter **does not** copy that layer into a second constitutional source.
 > - **Anti-relocation rule:** adopters must not satisfy incorporated obligations through [**Safety (Constitutional Constraint)**](core_05.040_band_continuity.md#safety-constitutional-constraint) or [**Truth (Constitutional Constraint)**](core_05.050_band_oversight.md#truth-constitutional-constraint) violations; implementation-file obligations apply **together with Chapter One** and remain subject to **Chapter One** proportionality, necessity, systemic evaluation, and interaction rules where those govern.
 >
@@ -26,7 +26,7 @@
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status — not restated here*);
   - [Chapters Fifteen through Seventeen](core_15.000_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) (*ratification, adoption chain, supremacy, and procedural validity*);
   - [Chapter Sixteen](core_16.000_expansion_supremacy.md#chapter-sixteen-expansion-supremacy-and-external-legal-orders) (16.000) (*internal hierarchy for adopters where applicable*);
-  - [Chapter One §15.4 Constitutional Meaning Conflict Resolution](core_01.010_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.010 §15.4) (*single conflict procedure — not restated here*).
+  - [Chapter One §15.4 Constitutional Meaning Conflict Resolution](core_01.005_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.005 §15.4) (*single conflict procedure — not restated here*).
 - Subsections:
   - [§1 Role of this chapter](#1-role-of-this-chapter);
   - [§2 Custody, editions, and operative effect](#2-custody-editions-and-operative-effect);
@@ -39,12 +39,12 @@
   - [corpus_joint_structure.md](corpus_joint_structure.md)); substantive chapters that route operational detail here (including
   - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000),
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000),
-  - [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005), and
+  - [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000), and
   - [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000) where cross-references invoke incorporation discipline).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — incorporated text must not narrow principle-layer obligations;
-  - [Chapter One §15.4 — Constitutional Meaning Conflict Resolution](core_01.010_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.010 §15.4) (*conflict procedure*);
+  - [Chapter One §15.4 — Constitutional Meaning Conflict Resolution](core_01.005_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.005 §15.4) (*conflict procedure*);
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status*).
 - Read with: [README.md](README.md) (*reading order and adoption-framing orientation*); [doc_architecture.md](doc_architecture.md) (*editor map; non-binding unless expressly adopted*).
 
@@ -65,19 +65,19 @@ Chapter Eighteen is the constitutional owner of **incorporation bridge disciplin
   - [**Materiality**](core_05.050_band_oversight.md#materiality) and
   - [**Material Impact**](core_05.050_band_oversight.md#material-impact) in
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) (*referenced in §2*);
-  - [Chapter One](core_01.015_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.015) (
+  - [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) (
   - [**Safety (Constitutional Constraint)**](core_05.040_band_continuity.md#safety-constitutional-constraint),
   - [**Truth (Constitutional Constraint)**](core_05.050_band_oversight.md#truth-constitutional-constraint), proportionality, necessity, systemic evaluation).
 - Downstream: [§2 Custody, editions, and operative effect](#2-custody-editions-and-operative-effect) (*what is implemented, which edition is pinned, and who keeps it*); [§3 Safeguards](#3-safeguards) (*anti-drift and anti-evasion rules*); [§4 Adoption framing and scope of authority](#4-adoption-framing-and-scope-of-authority) (*how adoption and jurisdiction are described*).
 - Read with:
-  - [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) (*Rights-Floor default constraint stack*);
+  - [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) (*Rights-Floor default constraint stack*);
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy),
   - [Trust](core_05.040_band_continuity.md#trust), and
   - [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) in
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000);
-  - [Chapter One §15.4](core_01.010_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.010 §15.4) (*conflict procedure — not restated here*);
+  - [Chapter One §15.4](core_01.005_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.005 §15.4) (*conflict procedure — not restated here*);
   - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) and
-  - [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) (*classification homes referenced from other chapters through this bridge*).
+  - [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) (*classification homes referenced from other chapters through this bridge*).
 
 </details>
 
@@ -132,7 +132,7 @@ This section sets out how incorporated text is pinned to editions, held in custo
 
   Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Seventeen** and this chapter.
 
-  - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_13.475_sentience_status_record.md`](corpus_forum/cf_13.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
+  - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_13.475_sentience_status_record.md`](corpus_forum/cf_13.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
 - **Process-layer alignment (evidence hook):** The following **support** verification of custody and adoption framing:
   - architecture maps;
   - TODO records;
@@ -151,7 +151,7 @@ This section sets out how incorporated text is pinned to editions, held in custo
   - [§2](#2-custody-editions-and-operative-effect) (*edition pinning and custody chain*);
   - [Chapter Seventeen](core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) (17.000) (*re-adoption path*);
   - [Chapter Fifteen §3](core_15.000_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral) (15.000 §3) (*anti-evasion rule*);
-  - [Chapter One §15.4.3](core_01.010_interaction_interpretation.md#1543-incorporation-layer) (1.010 §15.4.3) (*clearly adopted baseline*).
+  - [Chapter One §15.4.3](core_01.005_interaction_interpretation.md#1543-incorporation-layer) (1.005 §15.4.3) (*clearly adopted baseline*).
 - Downstream: [§4](#4-adoption-framing-and-scope-of-authority) (*operative effect contingent on valid adoption*).
 - Read with: [Chapters Thirteen and Fourteen](core_15.000_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) (*validity restoration when operational text has drifted*).
 
@@ -178,7 +178,7 @@ This section sets out the safeguards that protect incorporated text:
   - “non-substantive refactor”; or
   - “editorial compression.”
 
-  The anti-evasion **rule** in **[Chapter Fifteen, section 3](core_15.000_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) under **[Chapter One §15.4.3 Incorporation layer](core_01.010_interaction_interpretation.md#1543-incorporation-layer)** governs until the record is fixed under **Chapters Thirteen and Fourteen**.
+  The anti-evasion **rule** in **[Chapter Fifteen, section 3](core_15.000_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) under **[Chapter One §15.4.3 Incorporation layer](core_01.005_interaction_interpretation.md#1543-incorporation-layer)** governs until the record is fixed under **Chapters Thirteen and Fourteen**.
 
 ### 4. Adoption framing and scope of authority
 <details>

@@ -11,7 +11,7 @@
 
 > 本ファイルは[英語第十章、A部](../../core_12_a_misconduct_designation.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_10_a_misconduct_designation.md`](../../core_12_a_misconduct_designation.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
-> **第十章、A部**を含む — 指定の決定枠、基準の集合、違反軸 `s = 7–9` の指定の付着、適正手続の保障、救済、予防ロック、および自発的な公開説明責任の表明。**B部** — 指名されたパターン適用と基準の経路づけ — は [`core_10_b_misconduct_pattern_applications.md`](../../core_12.010_misconduct_pattern_applications.md) にある。
+> **第十章、A部**を含む — 指定の決定枠、基準の集合、違反軸 `s = 7–9` の指定の付着、適正手続の保障、救済、予防ロック、および自発的な公開説明責任の表明。**B部** — 指名されたパターン適用と基準の経路づけ — は [`core_10_b_misconduct_pattern_applications.md`](../../core_12.005_misconduct_pattern_applications.md) にある。
 >
 > - **憲法上の所管者（B部と共同）：** 違反軸 `s = 7`、`s = 8`、または `s = 9` の認定についての最終の反憲法的不正行為指定。A部は指定の決定モデルを所管する；B部は指名されたパターンをそのモデルへ経路づけ、基準を加えない。
 > - **測定の境界：** 第八章だけが、その統一比例 LEQU 尺度のもとで数値の影響箱を割り当てる。本章はその測定を**置き換えず、変えない**。
@@ -20,13 +20,13 @@
 > **s = 7、8、または 9** における反憲法的不正行為は、規模における**四元の捕捉**である — [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)のもとでの[継続の目的](core_00_preamble.md#continuity)とあわせて読め。変更経路の有効性の相互作用は[第十三章から第十五章](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)に続く；正義の制約は[第六章 D部](core_06_rights_part_d.md)に残る。
 >
 > **上流：** 第八章の軌跡測定；第九章の指定の指針。
-> **下流：** [B部](../../core_12.010_misconduct_pattern_applications.md)（*パターン適用*）；最終指定のあとの第九章の信頼ロックと軌跡効果の統合；第十一章のフォーラム経路づけ；第十二章の統治正当性の帰結。
+> **下流：** [B部](../../core_12.005_misconduct_pattern_applications.md)（*パターン適用*）；最終指定のあとの第九章の信頼ロックと軌跡効果の統合；第十一章のフォーラム経路づけ；第十二章の統治正当性の帰結。
 
 
 >
 > **前（本言語）：** [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
 >
-> **次（本言語）：** [core_10_b_misconduct_pattern_applications.md](../../core_12.010_misconduct_pattern_applications.md)
+> **次（本言語）：** [core_10_b_misconduct_pattern_applications.md](../../core_12.005_misconduct_pattern_applications.md)
 > **読みの弧：** §1 決定枠 → §2 基準の集合 → §3 指定の付着 → §4 適正手続 → §4.1 救済／是正 → §4.2 予防ロック → §4.3 自発的表明
 </details>
 
@@ -70,7 +70,7 @@
 
 - 上流：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*問い 1 と問い 2；検証済み記録と軌跡測定*）。
 - 上流の指針：[第九章 §2](core_09_standing_integration.md#2-integration-record-and-decision-order) は、適格な違反軸の箱 7–9 の認定を、指定のみのためにここへ経路づける。
-- 本ファイル：違反軸 `s` = 7–9 についての最終の反憲法的不正行為指定；指定基準；適正手続の保障；第十三章から第十五章の境界。指名されたパターンの経路づけは [B部](../../core_12.010_misconduct_pattern_applications.md) に続く。
+- 本ファイル：違反軸 `s` = 7–9 についての最終の反憲法的不正行為指定；指定基準；適正手続の保障；第十三章から第十五章の境界。指名されたパターンの経路づけは [B部](../../core_12.005_misconduct_pattern_applications.md) に続く。
 - 下流：[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)（*最終指定のあとの信頼ロックと軌跡効果の統合*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム経路づけと認証*）；[第十二章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)（*統治正当性の帰結*）。
 - あわせて読む：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[第十三章から第十五章](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)（*変更経路の行為は基準 1–4 に関わりうる*）。
 
@@ -78,7 +78,7 @@
 
 <br>
 
-第十章、**A部**は、**違反軸 s = 7、8、および 9 の認定についての最終の反憲法的不正行為指定、指定基準、適正手続の保障、および第十三章から第十五章の指定境界**の憲法上の所管者である。指名されたパターン適用は **[B部](../../core_12.010_misconduct_pattern_applications.md)** にある。
+第十章、**A部**は、**違反軸 s = 7、8、および 9 の認定についての最終の反憲法的不正行為指定、指定基準、適正手続の保障、および第十三章から第十五章の指定境界**の憲法上の所管者である。指名されたパターン適用は **[B部](../../core_12.005_misconduct_pattern_applications.md)** にある。
 
 本章は、検証済み違反がすでに違反軸 `s` = 7、8、または 9 を占め、反憲法的不正行為が実質的に申し立てられるときにのみ用いる。付着する指定が対応するかを決めるだけであり、別の影響尺度を作らず、認定を箱のあいだで動かさず、第八章の測定または第九章の軌跡統合を置き換えない。
 *平たい言葉で言えば：[継続の目的](core_00_preamble.md#continuity)のもとで、本章は、すでに最高影響の箱で測られた違反が、規模における**四元の捕捉**にも当たるかを決める。箱を選ばない。*
@@ -96,7 +96,7 @@
 - 上流の指針：[第九章 §2](core_09_standing_integration.md#2-integration-record-and-decision-order) は、適格な違反軸の箱 7–9 の認定を、指定のみのためにここへ経路づける。
 - 下流：[§2](#2-criteria-set-for-slot-assignment)（*指定基準の集合*）；[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*違反軸 s = 7–9 の指定*）。
 - 保障と規律：[§4](#4-due-process-safeguards-for-slot-assignment)（*適正手続の保障、救済、および予防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救済と是正（反憲法的）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公開説明責任の表明（反憲法的）*）。
-- パターン適用：[§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*指名されたパターンは同じ指定基準へ経路づける*）。
+- パターン適用：[§5](../../core_12.005_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*指名されたパターンは同じ指定基準へ経路づける*）。
 - 変更経路の境界：[§1](#1-cross-chapter-discipline)（*第十三章から第十五章の境界*）。
 - あわせて読む：[第十三章から第十五章](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) — **退行的欺瞞**および変更経路の行為が**基準 1–4** に関わりうるところ。
 - 四元の脚：**参加**、**監督**、**説明責任**、**適時性**（規模における四元の捕捉）。第一次の目的：**継続**（第一次）、**繁栄**。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせは、保障と重大さに適用される。
@@ -149,7 +149,7 @@
 - 下流の指定決定：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)。
 - 下流の保障と規律：[§4](#4-due-process-safeguards-for-slot-assignment)。
 - 本節：指定基準の集合；統一事件の規則；治癒された基準 1–4 の変更または記録の誤りについての**善意の起草の除外**。
-- 下流のパターン適用と基準の経路づけ：[§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)、[§5.1](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)、[§5.2](../../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)、[§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)、[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)、[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)、[§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)、[§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)、[§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)、[§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)、[§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)、および [§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) を含む。
+- 下流のパターン適用と基準の経路づけ：[§5](../../core_12.005_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)、[§5.1](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)、[§5.2](../../core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)、[§5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)、[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)、[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)、[§5.6](../../core_12.005_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)、[§5.7](../../core_12.005_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)、[§5.8](../../core_12.005_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)、[§5.9](../../core_12.005_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)、[§5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)、および [§5.11](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) を含む。
 - あわせて読む：**基準 1–4** に結びついた記録、保管、および検証の期待についての[第二章から第四章](core_02_definition_structure.md)；[§1](#1-cross-chapter-discipline)（*第十三章から第十五章の境界*）。
 
 </details>
@@ -215,7 +215,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§2](#2-criteria-set-for-slot-assignment)（*基準の集合*）。
-- 基準の相互作用：[§5.1](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)；[§5.2](../../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)；[§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)；[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)；[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)；[§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)；[§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)；[§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)；[§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)；[§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)；[§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)。
+- 基準の相互作用：[§5.1](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)；[§5.2](../../core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)；[§5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)；[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)；[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)；[§5.6](../../core_12.005_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)；[§5.7](../../core_12.005_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)；[§5.8](../../core_12.005_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)；[§5.9](../../core_12.005_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)；[§5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)；[§5.11](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)。
 - 下流：[§4](#4-due-process-safeguards-for-slot-assignment)（*適正手続の保障、救済、および予防*）、[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救済と是正（反憲法的）*）、[§4.2](#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*）、および [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公開説明責任の表明（反憲法的）*）。
 - 下流のフォーラム：[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) [§2](core_11_forum.md#2-default-venue-and-primary-stakes) は、最終の第十章指定が第一次利害であるところでの誠実性の既定主導を与える。[第十一章 §5](core_11_forum.md#5-escalation-and-certification) は、最終指定についてのフォーラム認証と独立審査を覆う。
 - あわせて読む：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) — 第八章の統一比例 LEQU 尺度が固定の影響箱を供給し、本節は指定のみを供給する；[§1](#1-cross-chapter-discipline)（*第十三章から第十五章の境界*）。
@@ -271,7 +271,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*違反軸 s = 7–9 の指定*）；[§2](#2-criteria-set-for-slot-assignment)（*基準の集合*）、**善意の起草の除外**を含む。
-- パターン適用：[§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*領域の氾濫*）；[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏ゾーンの氾濫*）；[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈賄と不適切な便益の交換*）；[§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)（*違法または違憲の命令行為*）；[§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)（*反憲法的行為の報酬、保護、または正常化*）；[§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)（*執行の拒否、抑制、または不起訴の行為*）；[§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)（*インフラの拒否、破壊、または依存の切断の行為*）；[§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*フォーラム忌避の失敗と偏った部会参加*）；[§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)（*説明責任の妨害*）。
+- パターン適用：[§5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*領域の氾濫*）；[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏ゾーンの氾濫*）；[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈賄と不適切な便益の交換*）；[§5.6](../../core_12.005_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)（*違法または違憲の命令行為*）；[§5.7](../../core_12.005_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)（*反憲法的行為の報酬、保護、または正常化*）；[§5.8](../../core_12.005_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)（*執行の拒否、抑制、または不起訴の行為*）；[§5.9](../../core_12.005_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)（*インフラの拒否、破壊、または依存の切断の行為*）；[§5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*フォーラム忌避の失敗と偏った部会参加*）；[§5.11](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)（*説明責任の妨害*）。
 - 下流：[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救済と是正（反憲法的）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公開説明責任の表明（反憲法的）*）。
 - フォーラムの規律：[第十一章 §2](core_11_forum.md#2-default-venue-and-primary-stakes) から [§5](core_11_forum.md#5-escalation-and-certification) は、既定の誠実性主導、適正手続のフォーラム群への適用、移譲、および認証を覆う。**第 4 節**を、**第六章**の **Article XXIV**（《衝突解決、段階引き上げ、緊急の比例性》）とあわせて読め。
 - あわせて読む：審査と公表の保障についての [Article XXIV-A：正義の目的と範囲](core_06_rights_part_d.md)；公表についての追跡標準としての[第二章から第四章](core_02_definition_structure.md)；本節が特化する一般の救済 → ロック → 表明の文法についての [第九章 §4](core_09_standing_integration.md#4-violation-correction-and-prevention)（*違反、是正、および予防*）。
@@ -407,7 +407,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*違反軸 s = 7–9 の指定*）；[§4](#4-due-process-safeguards-for-slot-assignment)（*適正手続の保障、救済、および予防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救済と是正（反憲法的）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*）。
-- 下流：[§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*パターン適用と基準の経路づけ*）。
+- 下流：[§5](../../core_12.005_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*パターン適用と基準の経路づけ*）。
 - あわせて読む：[第九章 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自発的な公開説明責任の表明*）；[Article XXIV-B](core_06_rights_part_d.md)（《共同要件》）；[Article XXV-B](core_06_rights_part_d.md)（《権利衝突手続と修復的整合》）。
 
 </details>
@@ -428,6 +428,6 @@
 
 **前のファイル（本言語）：** [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
 
-**次のファイル（本言語）：** [core_10_b_misconduct_pattern_applications.md](../../core_12.010_misconduct_pattern_applications.md)
+**次のファイル（本言語）：** [core_10_b_misconduct_pattern_applications.md](../../core_12.005_misconduct_pattern_applications.md)
 
 **拘束力ある原文：** [core_10_a_misconduct_designation.md](../../core_12_a_misconduct_designation.md)

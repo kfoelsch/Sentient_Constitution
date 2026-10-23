@@ -89,7 +89,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：[第三章、第 1 節 — 定義の誠実性と回避防止の制約](#1-定義の誠実性と回避防止の制約)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-定義の誠実性要件)；[第二章、§2.2 構造的または適用上の弱化による不遵守](core_02_definition_structure.md#22-構造的または適用上の弱化による不遵守)。
-- 下流：第 [2.1](#21-よくある回避パターン) 節から第 [2.6](#26-不確実性の誠実性と非搾取の制約) 節までの類型カタログ；[3. 不遵守所見プロファイル](#3-不遵守所見プロファイル)；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-遵守証拠の標準)；[第四章、第 3 節 — 追跡可能性の観測可能性要件](core_04_burden_traceability_verification.md#3-追跡可能性の観測可能性要件)；[第九章 §7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)（*システム整合認証の再開と回避防止のポインタ*）；[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
+- 下流：第 [2.1](#21-よくある回避パターン) 節から第 [2.6](#26-不確実性の誠実性と非搾取の制約) 節までの類型カタログ；[3. 不遵守所見プロファイル](#3-不遵守所見プロファイル)；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-遵守証拠の標準)；[第四章、第 3 節 — 追跡可能性の観測可能性要件](core_04_burden_traceability_verification.md#3-追跡可能性の観測可能性要件)；[第九章 §7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)（*システム整合認証の再開と回避防止のポインタ*）；[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
 - あわせて読む：[第二章、§1 — 目的と役割](core_02_definition_structure.md#1-目的と役割) — 完全な機能システム条件のもとでの共同充足規則のため；[第二章、§2.4 曖昧さのもとでの解釈規則](core_02_definition_structure.md#24-曖昧さのもとでの解釈規則) — 保障を弱め、評価されなければならないものを縮め、または実世界の結果を悪化させる解釈は無効である；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-遵守証拠の標準) — 証拠は本節の規則のもとでの遵守を示さなければならない；ここで不遵守となる証明は証明の負担に失敗する；[不遵守](../../core_05.045_band_integrative.md#non-compliance)。
 
 </details>
@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](#2-観察可能なシステム振る舞いからの不遵守)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-定義の誠実性要件)。
-- 下流：[第四章、第 2 節 — 定義の追跡可能性要件](core_04_burden_traceability_verification.md#2-定義の追跡可能性要件)；[第九章 — システム整合認証](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十一章 — 軌跡効果と統合](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
+- 下流：[第四章、第 2 節 — 定義の追跡可能性要件](core_04_burden_traceability_verification.md#2-定義の追跡可能性要件)；[第九章 — システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十一章 — 軌跡効果と統合](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
 - あわせて読む：[不遵守所見プロファイル](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — プロファイル欄の典範の O/M/A/C 本拠；[憲法四元](core_00_preamble.md#constitutional-tetrad)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
 
 </details>
@@ -237,12 +237,12 @@
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 すでに認証されたシステムについての軌跡効果
 
-システムがすでに[システム整合認証](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)のもとで稼働している場合 — 認証、条件付き認証、または期限切れでない再認証を含む — そのシステムの機能範囲における実質的な検証済み不遵守は、**そのシステム**についての[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)の軌跡測定に**入らなければならない**。[検証済み入力ゲート](../../core_10.000_standing_assessment.md#verified-inputs-for-standing)を通った事実だけが入ってよい。[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)に基づいて軌跡を測定し、[第十一章](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)に基づいてその統合と効果を適用する。再開、撤回、その他の認証上の帰結は[第九章](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)のもとにとどまる。それらはそのシステムの軌跡記録に取って代わらない。
+システムがすでに[システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)のもとで稼働している場合 — 認証、条件付き認証、または期限切れでない再認証を含む — そのシステムの機能範囲における実質的な検証済み不遵守は、**そのシステム**についての[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)の軌跡測定に**入らなければならない**。[検証済み入力ゲート](../../core_10.000_standing_assessment.md#verified-inputs-for-standing)を通った事実だけが入ってよい。[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)に基づいて軌跡を測定し、[第十一章](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)に基づいてその統合と効果を適用する。再開、撤回、その他の認証上の帰結は[第九章](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)のもとにとどまる。それらはそのシステムの軌跡記録に取って代わらない。
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 最初の認証における軌跡効果
 
-システムがなお**最初の**[システム整合認証](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)の過程にあり、まだ認証されていない場合 — 認証が延期または拒否される場合を含む — 検証済み不遵守は主として第九章のもとでの**認証結果**を決める。その結果は、条件付き認証、認証延期、非認証、または同等の結果となりうる。認証が付与されるまでは、認証記録は[第九章 §10 軌跡との関係](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)のもとで軌跡入力を供給しない。同節は認証済みシステムからの軌跡入力だけを扱う。条件付き認証を含め、認証が付与された後は[§3.1 すでに認証されたシステムについての軌跡効果](#31-すでに認証されたシステムについての軌跡効果)が適用される。本章は、すでに認証され稼働中のシステムに求められるのと同じ軌跡記録を要求しない。
+システムがなお**最初の**[システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)の過程にあり、まだ認証されていない場合 — 認証が延期または拒否される場合を含む — 検証済み不遵守は主として第九章のもとでの**認証結果**を決める。その結果は、条件付き認証、認証延期、非認証、または同等の結果となりうる。認証が付与されるまでは、認証記録は[第九章 §10 軌跡との関係](../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)のもとで軌跡入力を供給しない。同節は認証済みシステムからの軌跡入力だけを扱う。条件付き認証を含め、認証が付与された後は[§3.1 すでに認証されたシステムについての軌跡効果](#31-すでに認証されたシステムについての軌跡効果)が適用される。本章は、すでに認証され稼働中のシステムに求められるのと同じ軌跡記録を要求しない。
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 感知者と制度についての軌跡効果

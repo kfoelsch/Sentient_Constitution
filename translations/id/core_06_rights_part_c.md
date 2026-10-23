@@ -840,7 +840,7 @@ Pasal ini menetapkan lantai koreksi dan pelaporan, termasuk data jejak:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [§20 Penerapan Terpadu](../../core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [§20 Penerapan Terpadu](../../core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

@@ -316,9 +316,9 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: [Article XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Read with: [Article XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
@@ -344,9 +344,9 @@ EOF
   - సంబంధిత విధి, సామర్థ్యం ఉన్నప్పటికీ చట్టవిరుద్ధ లేదా రాజ్యాంగవిరుద్ధ ఆదేశాలకు లొంగి పాల్గొనడం లేదా వాటిని ఎదిరించకపోవడాన్ని అర్హతా నిర్ణయాలు, నిరోధాలు పరిగణించాలి; ఇది **అధ్యాయం ఐదు** (*సామూహిక జవాబుదారీతన వైఫల్యం*)తో సరిపోవాలి.
 - **హోదా-నిరోధాలు:** [హోదా-నిరోధం](../../core_05.035_band_accountability.md#standing-lock) అనేది నైపుణ్య-అనుమతికి ప్రతికూల సమానం. ధృవీకరించిన ఉల్లంఘన పరిష్కారం కానప్పుడు లేదా తగినంతగా పరిహరించనప్పుడు, అది నమ్మకం, పాత్ర, అధికారం, క్రెడిట్, పర్యవేక్షణ, గుర్తింపు, **పాలనా-ఓటింగ్**, లేదా **భాగస్వామ్య-పాల్గొనిక** మార్గాలను అడ్డుకోవచ్చు లేదా పరిమితం చేయవచ్చు. పరిమితి ప్రభావాలు నిర్దిష్ట ప్రత్యేక హక్కుల మార్గాలకే వర్తించాలి. ధృవీకరించిన ప్రమాదం అవసరమైతే, నిర్దిష్ట ప్రదేశాలు, నెట్‌వర్కులు లేదా జీవుల నుంచి వేరు చేయడం [వేర్పాటు పరిమితుల](../../core_11.000_standing_integration.md#51-separation-limits)లో ఉండాలి.
   - ఇది గౌరవ ర్యాంకు, ప్రాథమిక హక్కుల తగ్గింపు, ఆటోమేటిక్ ప్రతీకారం లేదా కలిపిన మెరిట్ స్కోరు కాదు.
-  - ఏ ప్రవేశం అడ్డుకుపోతోంది, ఎవరిని/దేనిని రక్షిస్తోంది, ఎత్తివేతకు ఏమి సరిచేయాలి, సమీక్ష మార్గం ఏది, మళ్లీ అంచనా ఎప్పుడు అనేవి స్పష్టంగా చెప్పాలి; [అనుచ్ఛేదం XIX-B](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) ప్రకారం అవసరమైన, అనుపాతమైన, ఆడిట్ చేయగల, సవాలు చేయగల విధంగా ఉండాలి.
+  - ఏ ప్రవేశం అడ్డుకుపోతోంది, ఎవరిని/దేనిని రక్షిస్తోంది, ఎత్తివేతకు ఏమి సరిచేయాలి, సమీక్ష మార్గం ఏది, మళ్లీ అంచనా ఎప్పుడు అనేవి స్పష్టంగా చెప్పాలి; [అనుచ్ఛేదం XIX-B](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) ప్రకారం అవసరమైన, అనుపాతమైన, ఆడిట్ చేయగల, సవాలు చేయగల విధంగా ఉండాలి.
   - నైపుణ్య అనుమతి వర్తించే నిరోధాన్ని మాఫీ చేయదు; మంచి సహకారం పరిష్కారం కాని ధృవీకరించిన ఉల్లంఘనను చెరపదు.
-  - ఓటింగ్ మార్గ నిరోధాలు, మూడు ప్రత్యేక నిరోధాల అదనపు నియమాలు [అనుచ్ఛేదం XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks)లో ఉన్నాయి.
+  - ఓటింగ్ మార్గ నిరోధాలు, మూడు ప్రత్యేక నిరోధాల అదనపు నియమాలు [అనుచ్ఛేదం XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks)లో ఉన్నాయి.
   - వ్యక్తిగత న్యాయ ప్రక్రియకు ఇది ప్రత్యామ్నాయం కాదు; ఇది **తనంతట తానే** చలనం, ఆశ్రయం, పోర్టబిలిటీ లేదా నిష్క్రమణను పరిమితం చేయదు ([అనుచ్ఛేదం XXI](#article-xxi-interoperability-portability-and-exit-integrity), [అనుచ్ఛేదం XXII](#అనచఛద-xxii-చలన-వలస-ఆశరయ-రజయరహతతవ-నవరణ)).
 - **హానికి తగిన నిరోధం:** ధృవీకరించిన హాని ఎంత తీవ్రమో, అది రక్షించే నిర్దిష్ట పాత్ర/ప్రత్యేక హక్కు ఏమిటో, పరిహారం ఎంతవరకు జరిగిందో అనుగుణంగా నిరోధం ఉండాలి.
   - **గత సహకారం:** అది పరిహారం చేయగల సామర్థ్యం, రక్షణలను కొనసాగించగల సామర్థ్యం, పునరావృతం నివారించగల సామర్థ్యాన్ని చూపినప్పుడు లేదా పునఃసమీక్షలో తక్కువ పరిమితిని సమర్థించినప్పుడు మాత్రమే పరిగణించవచ్చు. అది పరిష్కారం కాని హానిని తగ్గించదు, మాఫీ చేయదు, భర్తీ చేయదు.
@@ -363,7 +363,7 @@ EOF
 
 <details><summary>ట్రేస్</summary>
 
-- పై మూలాలు: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- పై మూలాలు: [Chapter One §7 Freedom](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§18 Governance Under Stewardship Discipline](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - తదుపరి: [Chapter Eleven §5.5 Special Locks](../../core_11.000_standing_integration.md#55-special-locks); [Chapter Fourteen §4.1 Entitlement and eligibility](../../core_14.000_governance.md#41-entitlement-and-eligibility).
 - కలిపి చదవాలి: [Article XIX-D Violations and Standing Locks](#అనచఛద-xix-d-ఉలలఘనల-మరయ-హద-నరధల); Article X-B; Chapter Twelve Anti-Constitutional Misconduct.
 
@@ -384,7 +384,7 @@ EOF
 
   **Foundational Constitutional Choice**లో దీర్ఘకాల రాజకీయ స్వరాన్ని అనర్హం చేసే సాధనంగా standing lock పనిచేయకూడదు. విస్తృత దుష్ప్రవర్తన వర్గాలను అనర్హత పరిధిలోకి లాగడం, **Protected Characteristics** లేదా వాటి భౌతిక ప్రతిరూపాలను అనుసరించే లాక్ నమూనాలు అననుసరణ.
 
-  **ఒకే మినహాయింపు:** ఈ రాజ్యాంగంపై అత్యంత తీవ్రమైన ధృవీకరించిన దాడులకే పరిమితమైన తుది [Chapter Twelve](../../core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) నిర్ణయం, **పూర్తి పరిహారం** వరకు ప్రాథమిక పాలనా ఓటును నిలిపివేస్తుంది. అది standing lock కాదు; దాని నియమాలు, రక్షణలు [Chapter Fourteen §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)లో ఉన్నాయి.
+  **ఒకే మినహాయింపు:** ఈ రాజ్యాంగంపై అత్యంత తీవ్రమైన ధృవీకరించిన దాడులకే పరిమితమైన తుది [Chapter Twelve](../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) నిర్ణయం, **పూర్తి పరిహారం** వరకు ప్రాథమిక పాలనా ఓటును నిలిపివేస్తుంది. అది standing lock కాదు; దాని నియమాలు, రక్షణలు [Chapter Fourteen §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)లో ఉన్నాయి.
 - **ప్రత్యేక లాక్‌లు:** [Chapter Eleven §5.5](../../core_11.000_standing_integration.md#55-special-locks)లో ఇవి పేర్కొన్నాయి:
   - **Forum-service standing lock:** తప్పనిసరి recusal చేయకపోవడం వల్ల నిష్పాక్షికతకు భౌతిక హాని కలిగిందని నిర్ధారణైతే ఈ లాక్ ఏర్పడుతుంది. మళ్లీ forum సేవకు రావడానికి కఠినమైన స్వతంత్ర పునరుద్ధరణ అవసరం; సాధారణ క్షమాపణ, పూర్వ సహకారం, పేరు, నైపుణ్య కొరత లేదా సిబ్బంది అవసరం ఒక్కటే సరిపోదు.
   - **Stakeholder-Participation Standing Lock:** stakeholder-participation మార్గంలో ధృవీకరించిన అవినీతి, స్వాధీనం, తప్పుడు వాటా దుర్వినియోగం, బలవంతం లేదా సమానమైన భౌతిక దుర్వినియోగం ఈ లాక్‌ను కలిగిస్తుంది. ప్రభావిత రంగంలో వాటా-బరువుగల ప్రభావం, బంధించే stakeholder ఎంపికను పరిమితం చేస్తుంది; governance-voting, Foundational Constitutional Choice లేదా stakeholder హోదాను స్వయంగా తొలగించదు. క్షమాపణ, పూర్వ సహకారం, వాటా పరిమాణం లేదా నిర్వాహకుడి అనివార్యత ఒక్కటే దీన్ని ఎత్తివేయదు.
@@ -396,7 +396,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§3 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన).
+- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§3 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 భద్రత](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన).
 - గమ్యం: [అధ్యాయం పది §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*ఉల్లంఘన, సరిదిద్దుట, నివారణ*); [అధ్యాయం పదకొండు §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*న్యాయ ప్రక్రియ రక్షణలు, పరిహారం, నివారణ*).
 
 </details>
@@ -427,7 +427,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [అధ్యాయం ఒకటి §13.1.5 హక్కుల సంఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [అధ్యాయం ఒకటి §3.3 అవమానకర ప్రక్రియ నిరోధం](core_01_a_values_principles.md#33-గరవనన-దగజరచన-పరకరయ), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
+- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.000_values_principles.md#4-safety-harm-constraint), [అధ్యాయం ఒకటి §13.1.5 హక్కుల సంఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [అధ్యాయం ఒకటి §3.3 అవమానకర ప్రక్రియ నిరోధం](core_01_a_values_principles.md#33-గరవనన-దగజరచన-పరకరయ), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
 - గమ్యం: [అధ్యాయం పది §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*ఉల్లంఘన, సరిదిద్దుట, నివారణ*); [అనుచ్ఛేదం XX-B](#అనచఛద-xx-b-పరమతల-హకక-తళల).
 - దీనితో చదవండి: [క్రూరత్వం](../../core_05.035_band_accountability.md#cruelty) (*బాధనే లక్ష్యంగా చేసుకునే క్రూరత్వ-నిరోధ హద్దుకు అధ్యాయం ఐదులోని మూలం*).
 
@@ -675,8 +675,8 @@ EOF
 - **ఓపెన్‌కు ప్రాధాన్యం:** వ్యవస్థలు ఓపెన్ ఫార్మాట్లు, ఇంటర్‌ఫేస్‌లు, ప్రోటోకాల్‌లను ప్రాధాన్యంగా ఎంచుకోవాలి. భౌతిక ప్రభావం, ఆధారపడటం పెరిగే కొద్దీ బాధ్యత బలపడుతుంది.
 - **ఓపెన్ అంటే:** పూర్తి వివరణ బహిరంగంగా అందుబాటులో ఉండాలి; ఎవరైనా అనుమతి, రుసుము లేదా రాయల్టీ లేకుండా అమలు చేయగలగాలి; ఒకే పక్షం ఏకపక్షంగా మార్చలేకపోవాలి, లేదా ఆ పక్షం మద్దతు ఉపసంహరించుకుంటే ఇతరులు స్వేచ్ఛగా ఫోర్క్ చేసి నిర్వహించగలగాలి. ఈ పరీక్షల్లో ఏదైనా విఫలమయ్యే డాక్యుమెంటెడ్ ఫార్మాట్ ఈ ఉపఅనుచ్ఛేదానికి మూసివేసినదే; అయినా డాక్యుమెంటేషన్ లేని దానికంటే మెరుగైనది.
 - **స్థాయివారీ బాధ్యతలు:**
-  - **నిష్క్రమణ:** [Article XXI-A](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights) కింద ఎగుమతి, మార్పిడి మార్గాలు నిర్మాణం, మెటాడేటా, సంబంధాలు లేదా ఖచ్చితత్వంలో భౌతిక నష్టం లేకుండా డేటాను మోయగల ఓపెన్ ఫార్మాట్ ఉన్నప్పుడు కనీసం ఒకదాన్ని ఇవ్వాలి.
-  - **పరస్పర అనుసంధానం:** [Article XXI-B](../../core_06.020_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) కింద అనుసంధాన సరిహద్దులు సాధారణంగా ఓపెన్ ప్రమాణాలు, ప్రోటోకాల్‌లను ఉపయోగించాలి; ఈ ఉపఅనుచ్ఛేదం ప్రకారం సమర్థించినప్పుడే మూసివేసినవి.
+  - **నిష్క్రమణ:** [Article XXI-A](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) కింద ఎగుమతి, మార్పిడి మార్గాలు నిర్మాణం, మెటాడేటా, సంబంధాలు లేదా ఖచ్చితత్వంలో భౌతిక నష్టం లేకుండా డేటాను మోయగల ఓపెన్ ఫార్మాట్ ఉన్నప్పుడు కనీసం ఒకదాన్ని ఇవ్వాలి.
+  - **పరస్పర అనుసంధానం:** [Article XXI-B](../../core_06.015_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) కింద అనుసంధాన సరిహద్దులు సాధారణంగా ఓపెన్ ప్రమాణాలు, ప్రోటోకాల్‌లను ఉపయోగించాలి; ఈ ఉపఅనుచ్ఛేదం ప్రకారం సమర్థించినప్పుడే మూసివేసినవి.
   - **అంతర్గత, స్థానిక ఫార్మాట్లు:** నిల్వ, స్థానిక పని ఫార్మాట్లకు ఓపెన్ ఎంపికలను వ్యవస్థలు ప్రాధాన్యంగా తీసుకోవాలి. మూసివేసిన ఫార్మాట్‌కు భౌతిక ప్రభావం, ఆధారపడటానికి అనుగుణంగా మరింత బలమైన సమర్థన అవసరం.
   - **ప్రజలకు అందించే డేటా:** ప్రజా ప్రవేశం కోసం ప్రచురించే డేటా—corpus_systems.md CS-2 లోని రకాలు O, E, W సహా—సాధారణంగా ఓపెన్ ఫార్మాట్లలో ఉండాలి.
 - **మూసిన ఫార్మాట్‌కు సమర్థన:** విశ్వసనీయత, పనితీరు, భద్రత, సైబర్ భద్రత, అందుబాటు లేదా ప్రత్యేక విధి వంటి భౌతిక అవసరాన్ని ఏ ఓపెన్ ప్రత్యామ్నాయమూ తీర్చలేనప్పుడు మాత్రమే మూసిన ఫార్మాట్, ఇంటర్‌ఫేస్ లేదా ప్రోటోకాల్ సమర్థించబడుతుంది.
@@ -684,7 +684,7 @@ EOF
   - అందుబాటులో ఉన్న ఉత్తమ ఓపెన్ ఎగుమతిని అందించి, దానివల్ల కలిగే నష్టాలను వెల్లడించాలి.
   - మార్పిడికి సరిపడే పత్రాలను ఇవ్వాలి లేదా స్వతంత్ర ఎస్క్రోలో ఉంచాలి.
   - ఓపెన్ ప్రత్యామ్నాయాలు మెరుగుపడుతున్నప్పుడు ఎంపికను క్రమం తప్పకుండా, అలాగే ప్రతి భౌతిక ప్రభావం గల ధృవీకరణ లేదా పునఃధృవీకరణ సమయంలో సమీక్షించాలి.
-  - வசதி, நிர்வாகச் செலவுக் குறைப்பு அல்லது தற்போதைய ஆதிக்கம் மட்டும் காரணமல்ல. வெளியேறல் அல்லது மாறுதலைத் தடுப்பதே முதன்மை விளைவாக இருந்தால், அது [Article XXI-C](../../core_06.020_rights_part_d.md#article-xxi-c-anti-lock-in-rule)-க்கு முரணாகும்.
+  - வசதி, நிர்வாகச் செலவுக் குறைப்பு அல்லது தற்போதைய ஆதிக்கம் மட்டும் காரணமல்ல. வெளியேறல் அல்லது மாறுதலைத் தடுப்பதே முதன்மை விளைவாக இருந்தால், அது [Article XXI-C](../../core_06.015_rights_part_d.md#article-xxi-c-anti-lock-in-rule)-க்கு முரணாகும்.
 - **మార్పిడి కాలం:** ఈ ఉపఅనుచ్ఛేదం మొదట వర్తించే సమయానికి పనిచేస్తున్న వ్యవస్థ మార్పిడి ప్రణాళికను వెల్లడించి, సాధారణంగా ఒక సంవత్సరంలో అనుసంధానం, అంతర్గత ఫార్మాట్లు, ప్రజా డేటా బాధ్యతలను నెరవేర్చాలి.
   - దత్తతదారులు Chapter Eighteen పొందుపరచడం ద్వారా వ్యవస్థ వర్గాలకు వేరే గడువు నిర్ణయించవచ్చు; కారణాన్ని ప్రచురించాలి.
   - అసాధారణ పరిస్థితిలోనే వర్తించే సమర్థన భారం ప్రకారం పత్రబద్ధమైన, సమీక్షించదగిన, కాలపరిమితి గల కారణంతో పొడిగింపు ఇవ్వవచ్చు.
@@ -908,7 +908,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§5 సత్యం](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§5 సత్యం](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - దీనితో చదవండి: [అధ్యాయం ఒకటి §5.2 సరళ భాషా ప్రవేశం](core_01_a_values_principles.md#52-సరళ-భషల-అదబట-పలగనడ-సరకషక-బధయత), [§13.3 తప్పించగల భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-నవరచగల-భరనన-తగగచడ), [అధ్యాయం ఒకటి భాగం C §16.1 వికేంద్రీకృత అవగాహన](core_01_c_stewardship_capacity_principles.md#161-పపణ-చయబడన-అవగహన).
 
 </details>
@@ -940,7 +940,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18.5 మాడ్యులర్ నిర్మాణం, ఆధారపడటం క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#185-మడయలర-నరమణ-మరయ-ఆధరపడదల-కరమశకషణ), [అధ్యాయం ఒకటి §20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.000_values_principles.md#4-safety-harm-constraint), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18.5 మాడ్యులర్ నిర్మాణం, ఆధారపడటం క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#185-మడయలర-నరమణ-మరయ-ఆధరపడదల-కరమశకషణ), [అధ్యాయం ఒకటి §20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
 
 </details>
 
@@ -979,7 +979,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **వికాసం**, **కొనసాగింపు**; **అధ్యాయం ఐదు**లోని [తిరోగమన సామర్థ్యం](../../core_05.040_band_continuity.md#reversibility), [ప్రమాదం](../../core_05.040_band_continuity.md#risk), [వ్యవస్థ స్వాధీనత](../../core_05.040_band_continuity.md#system-capture).
 
 </details>
@@ -1023,7 +1023,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1056,7 +1056,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1175,7 +1175,7 @@ EOF
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - పూర్వాధారం: అధ్యాయం ఒకటి [§13.1.5 హక్కుల సంఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
-- దీనితో చదవండి: [అధ్యాయం పది §5.5](core_09_standing_integration.md#55-special-locks) (*వేదిక ప్రకటన మానివేత, వైదొలగే ప్రక్రియ ప్రభావం*); [అధ్యాయం పదకొండు §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*నిర్దిష్ట దుష్ప్రవర్తన నమూనా*); [అధ్యాయం పన్నెండు §2](../../core_13.000_forum.md#2-default-venue-and-primary-stakes), [§3](../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*సమగ్రత-ముందు మార్గీకరణ, స్వీయ తీర్పు నిరోధం*).
+- దీనితో చదవండి: [అధ్యాయం పది §5.5](core_09_standing_integration.md#55-special-locks) (*వేదిక ప్రకటన మానివేత, వైదొలగే ప్రక్రియ ప్రభావం*); [అధ్యాయం పదకొండు §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*నిర్దిష్ట దుష్ప్రవర్తన నమూనా*); [అధ్యాయం పన్నెండు §2](../../core_13.000_forum.md#2-default-venue-and-primary-stakes), [§3](../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*సమగ్రత-ముందు మార్గీకరణ, స్వీయ తీర్పు నిరోధం*).
 
 </details>
 

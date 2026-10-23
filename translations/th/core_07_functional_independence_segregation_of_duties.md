@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# บทที่เจ็ด: ความเป็นอิสระเชิงหน้าที่และการแบ่งแยกหน้าที่
+# บทที่เจ็ด: ความเป็นอิสระตามหน้าที่และการแบ่งแยกหน้าที่
 
 <details>
 <summary><strong><span style="color: #2563eb;">ตำแหน่งในคลังเนื้อหา (ไม่ใช่ข้อกำหนดเชิงปฏิบัติการ): โครงสร้างไฟล์และกฎการอ่าน</span></strong></summary>
 
-> ไฟล์นี้เป็น **ส่วนหนึ่งของ Sentient Constitution** และจะ **มีผลผูกพันเมื่ออ่านร่วมกันเท่านั้น** กับไฟล์ `core_*` ที่มีหมายเลขอื่น โดยอ่านเป็นตราสารฉบับเดียว ไฟล์นี้ประกอบด้วย **บทที่เจ็ด** ซึ่งกำหนดเกณฑ์ขั้นต่ำที่ใช้ข้ามกระบวนการสำหรับความเป็นอิสระเชิงหน้าที่และการแบ่งแยกหน้าที่ บทนี้อยู่ถัดจากพื้นฐานสิทธิในบทที่หก และอยู่ก่อนบทกระบวนการตามรัฐธรรมนูญที่เริ่มด้วย[การรับรองความสอดคล้องของระบบในบทที่แปด](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)
+> ไฟล์นี้เป็น **ส่วนหนึ่งของ Sentient Constitution** และจะ **มีผลผูกพันเมื่ออ่านร่วมกันเท่านั้น** กับไฟล์ `core_*` ที่มีหมายเลขอื่น โดยอ่านเป็นตราสารฉบับเดียว ไฟล์นี้ประกอบด้วย **บทที่เจ็ด** ซึ่งกำหนดเกณฑ์ขั้นต่ำที่ใช้ข้ามกระบวนการสำหรับความเป็นอิสระเชิงหน้าที่และการแบ่งแยกหน้าที่ บทนี้อยู่ถัดจากพื้นฐานสิทธิในบทที่หก และอยู่ก่อนบทกระบวนการตามรัฐธรรมนูญที่เริ่มด้วย[การรับรองความสอดคล้องของระบบในบทที่แปด](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 >
 > - **เจ้าของตามรัฐธรรมนูญ:** เกณฑ์ขั้นต่ำเรื่องที่นั่งแยกจากกันสำหรับการกระทำที่มีผลผูกพันในสาระสำคัญ; เนื้อหาขั้นต่ำทั่วไปของ[บันทึกการกระทำที่มีผลผูกพันในสาระสำคัญ](../../core_05_band_accountability.md#materially-binding-act-record) แต่ละฉบับ; ความเป็นอิสระจากผู้กระทำและ[สายการควบคุมสาระสำคัญ](../../core_05_band_accountability.md#material-control-line) ของผู้กระทำ; การกำหนดช่องทางและบทบาทที่เผยแพร่แล้ว; การจัดการความขัดแย้ง ตำแหน่งว่าง การทดแทน และการส่งเรื่องไปยังที่นั่งที่ไม่ถูกต้อง; การรองรับหน้าที่ร่วมกันอย่างได้สัดส่วน; การส่งมอบที่ระบุผู้รับผิดชอบได้; และเงื่อนไขขั้นต่ำด้านความเป็นอิสระที่กระบวนการตามรัฐธรรมนูญภายหลังทุกกระบวนการต้องนำไปใช้
 > - **แหล่งที่มาระดับหลักการ:** [บทที่หนึ่ง §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) กำหนดให้การปกครองรักษาความเป็นอิสระเชิงหน้าที่ และส่งโครงสร้างที่นั่งเชิงปฏิบัติการมายังบทนี้
@@ -20,7 +20,7 @@
 
 - ต้นทาง: [จตุรภาคตามรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad) — โดยเฉพาะ **การกำกับดูแล** และ **ความรับผิดรับชอบ**; [ส่วนได้เสียที่เป็นสาระสำคัญ](../../core_00_preamble.md#material-stake); [มาตรฐานการพิทักษ์ร่วม บทที่หนึ่ง §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [การปกครองภายใต้ระเบียบวินัยการพิทักษ์ บทที่หนึ่ง §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [มาตรา XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*การตรวจสอบ ความโปร่งใส และการยืนยันโดยอิสระ*)
 - หัวข้อย่อย: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes)
-- ปลายทาง: [บทที่แปด](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [บทที่เก้า](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [บทที่สิบสอง](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [บทที่สิบสาม](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); ข้อความการนำไปใช้ที่ระบุไว้ข้างต้น
+- ปลายทาง: [บทที่แปด](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [บทที่เก้า](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [บทที่สิบสอง](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [บทที่สิบสาม](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); ข้อความการนำไปใช้ที่ระบุไว้ข้างต้น
 - อ่านร่วมกับ: [การตรวจจับความไม่สอดคล้อง บทที่หนึ่ง §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*การตรวจจับและทบทวนโดยหลายฝ่าย*); [การกระทำที่ระบุผู้รับผิดชอบได้](../../core_05_band_accountability.md#attributable-action); [ความครบถ้วนของการระบุผู้รับผิดชอบ](../../core_05_band_accountability.md#attribution-integrity); [ความสามารถในการตรวจสอบ](../../core_05_band_oversight.md#auditability); [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability); [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality)
 
 </details>
@@ -66,7 +66,7 @@
 - รายการที่นั่งเชิงปฏิบัติการ วิธีจัดบุคลากร และกลไกแผนผังช่องทางจากข้อความการนำไปใช้ที่กำหนดไว้
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. เกณฑ์ขั้นต่ำตามรัฐธรรมนูญสี่ที่นั่ง
+### 2. ข้อกำหนดตามรัฐธรรมนูญสี่ที่นั่ง
 
 <details>
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
@@ -350,7 +350,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
 - ต้นทาง: ตั้งแต่ [§1](#1-purpose-scope-and-owner-boundary) ถึง [§8](#8-act-records-and-attributable-handoffs)
-- ปลายทาง: [บทที่แปด](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [บทที่เก้า](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [บทที่สิบสอง](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [บทที่สิบสาม](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)
+- ปลายทาง: [บทที่แปด](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [บทที่เก้า](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [บทที่สิบสอง](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [บทที่สิบสาม](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 - อ่านร่วมกับ [ลำดับชั้นอำนาจและลำดับภายใน](../../core_05_band_integrative.md#owner-non-relocation) และ [ทะเบียนเจ้าของในคำนำ](../../core_00_preamble.md#4-principles-definitions-and-rights)
 
 </details>

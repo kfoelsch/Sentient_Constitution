@@ -107,7 +107,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - অধঃ: অংশগ্রহণ পরিমাপ পরিবার — শুধু-লিঙ্ক রোলআপ; পদ অনুসারে স্তর পাতা সংজ্ঞায় থাকে — দেখুন [সারবস্তুগত ন্যায্যতা](../../core_05.055_band_participation.md#substantive-fairness), [সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [প্রবেশযোগ্যতা](../../core_05.055_band_participation.md#accessibility), [শিক্ষামূলক কর্তৃত্ব](../../core_05.055_band_participation.md#educational-agency), [অর্থপূর্ণ কর্তৃত্ব](../../core_05.055_band_participation.md#meaningful-agency), এবং সাতত্য পটিতে [গোপনীয়তা (তথ্যগত)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) গুচ্ছ।
-- সঙ্গে পড়ুন: অধ্যায় ছয়, [অধ্যায় সাত](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), বা অন্তর্ভুক্ত দলিল — বাধ্যতামূলক বৈষম্যহীনতা, উপযোগীকরণ, শিক্ষা বা গোপনীয়তার প্রয়োজন ওঠে যখন সেই দলিল সেগুলো স্পষ্ট করে চায়।
+- সঙ্গে পড়ুন: অধ্যায় ছয়, [অধ্যায় সাত](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), বা অন্তর্ভুক্ত দলিল — বাধ্যতামূলক বৈষম্যহীনতা, উপযোগীকরণ, শিক্ষা বা গোপনীয়তার প্রয়োজন ওঠে যখন সেই দলিল সেগুলো স্পষ্ট করে চায়।
 
 </details>
 

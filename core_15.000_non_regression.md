@@ -13,7 +13,7 @@
 > Where this lives (navigation):
 > - **Constitutional owner:** substantive non-regression floor; Test 1 (substantive non-regression invalidity); anti-evasion; regressive-deception referral triggers. Procedural validity, ratification, and amendment procedure requirements are in **Chapter Seventeen**. Supremacy relative to other norms and external legal orders are in **Chapter Sixteen**.
 > - **Implementation owner:** designated implementation text governs execution mechanics for review operations, publication workflows, designated institutional procedure, forum operations where designated, and cross-implementation joint structure where designated.
-> - **Anti-relocation rule:** this chapter does not assign final offense labels, numeric slots, or sanction taxonomy. Numeric Contribution and Violation slots remain measured on the [Chapter Ten §7 unified proportional LEQU scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), with separate axis records and Violation slots controlled only by verified impact. **Chapter Twelve** of [core_12.005_misconduct_designation.md](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation to a Chapter Ten Violation Axis slot 7, 8, or 9 record but does not assign the numeric slot.
+> - **Anti-relocation rule:** this chapter does not assign final offense labels, numeric slots, or sanction taxonomy. Numeric Contribution and Violation slots remain measured on the [Chapter Ten §7 unified proportional LEQU scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), with separate axis records and Violation slots controlled only by verified impact. **Chapter Twelve** of [core_12.000_misconduct_designation.md](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation to a Chapter Ten Violation Axis slot 7, 8, or 9 record but does not assign the numeric slot.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
@@ -23,9 +23,9 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter One](core_01.015_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.015);
+  - [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010);
   - [Chapters Two through Four](core_02.000_definition_structure.md) integrity and verification;
-  - [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) Rights Floor;
+  - [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor;
   - [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000) legitimacy and stewardship requirements.
 - Subsections:
   - [§1](#1-non-regression-floor);
@@ -36,7 +36,7 @@
   - [Chapter Sixteen](core_16.000_expansion_supremacy.md#chapter-sixteen-expansion-supremacy-and-external-legal-orders) (16.000) expansion and supremacy;
   - [Chapter Seventeen](core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) (17.000) procedural validity, ratification, and amendment requirements;
   - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) and
-  - [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) for canonical classification where referral triggers route.
+  - [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) for canonical classification where referral triggers route.
 - Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) non-operative walkthrough for **Chapters Thirteen through Fifteen** on constitutional change and incorporation.
 
 </details>
@@ -72,7 +72,7 @@ Permitted expansion of protection and supremacy sequencing are governed by **Cha
   - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency), and related floors named in operative text (
   - [Chapter Five definitions](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000)).
 - Downstream: [§2](#2-test-1--substantive-non-regression-validity) Test 1 inventory; [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) anti-evasion and referral triggers.
-- Read with: [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) for Rights-Floor specifics; [Chapters Two through Four](core_02.000_definition_structure.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
+- Read with: [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) for Rights-Floor specifics; [Chapters Two through Four](core_02.000_definition_structure.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
 
 </details>
 
@@ -101,7 +101,7 @@ Material weakening includes indirect narrowing through:
 
 - Upstream: [§1](#1-non-regression-floor) non-regression floor definition.
 - Downstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) evasion and misconduct referral; [Chapter Seventeen](core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) (17.000) Tests 2–4 and procedural requirements (invalid if Test 1 fails regardless of procedure).
-- Read with: [Chapter One](core_01.015_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.015) non-negotiable principle constraints; [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000) legitimacy obligations.
+- Read with: [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) non-negotiable principle constraints; [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000) legitimacy obligations.
 
 </details>
 
@@ -127,7 +127,7 @@ Invalidity includes indirect narrowing through:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-non-regression-floor)–[§2](#2-test-1--substantive-non-regression-validity) substantive invalidity standards.
-- Downstream: Mandatory referral records route to [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) (separate Contribution Axis and Violation Axis records and numeric measurement on the §7 unified scale), [Chapter Eleven §2](core_11.000_standing_integration.md#2-automatic-integration-review-and-continuity) (11.000 §2) (integration routing of qualifying Violation Axis slot 7–9 findings), and [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) (the corresponding anti-constitutional-misconduct designation for a qualifying Chapter Ten Violation Axis slot 7, 8, or 9 record); this chapter does not classify.
+- Downstream: Mandatory referral records route to [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) (separate Contribution Axis and Violation Axis records and numeric measurement on the §7 unified scale), [Chapter Eleven §2](core_11.000_standing_integration.md#2-automatic-integration-review-and-continuity) (11.000 §2) (integration routing of qualifying Violation Axis slot 7–9 findings), and [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) (the corresponding anti-constitutional-misconduct designation for a qualifying Chapter Ten Violation Axis slot 7, 8, or 9 record); this chapter does not classify.
 - Read with: [Chapter Fifteen §4](#4-layer-scope) layer scope (triggers are not canonical slot-classification or sanction law).
 
 </details>
@@ -144,13 +144,13 @@ Repackaging a regressive change as any of the following does not fix invalidity:
 
 Invalidity remains where substantive constitutional effect is materially equivalent.
 
-Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes the following (read with [**Chapter Twelve**, **section 2** (*Criteria set*)](core_12.005_misconduct_designation.md#2-criteria-set-for-slot-assignment), **criteria 1** **through** **4** on **change** or **record** pathways):
+Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes the following (read with [**Chapter Twelve**, **section 2** (*Criteria set*)](core_12.000_misconduct_designation.md#2-criteria-set-for-slot-assignment), **criteria 1** **through** **4** on **change** or **record** pathways):
 - willful deceptive intent;
 - knowing falsification or suppression;
 - material rollback effect; and
 - causally significant obstruction or degradation.
 
-**Forcible** or **nullification** misconduct routes through **criteria 5** and **6** of the same section where material. Those traits remain character descriptors and designation predicates; they do not move the numeric Violation Axis slot. The record must be transmitted to the canonical classification authorities; **this chapter does not itself classify**. **General contribution and violation measurement** (Contribution Axis and Violation Axis), including numeric slot assignment on the shared five-times LEQU bands from verified impact and separate axis records, is owned by the [**Chapter Ten §7 unified scale**](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) in [core_10.000_standing_assessment.md](core_10.000_standing_assessment.md). [**Chapter Eleven**](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) owns standing effects and integration without moving either slot. For a final Chapter Ten **Violation Axis s = 7, s = 8, or s = 9** impact slot, **Chapter Twelve** (*Anti-Constitutional Misconduct*) in [core_12.005_misconduct_designation.md](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) may add the corresponding **anti-constitutional-misconduct designation**, subject to its criteria, due-process safeguards, and cross-chapter discipline, as referenced under **Chapter Ten** [section 5.1](core_10.000_standing_assessment.md#5-slot-grammar-and-display-labels) and the [Chapter Eleven §2 gateway](core_11.000_standing_integration.md#2-automatic-integration-review-and-continuity). This chapter issues **referral and review triggers only**; it does not assign or move a numeric slot or attach, narrow, or expand canonical designations.
+**Forcible** or **nullification** misconduct routes through **criteria 5** and **6** of the same section where material. Those traits remain character descriptors and designation predicates; they do not move the numeric Violation Axis slot. The record must be transmitted to the canonical classification authorities; **this chapter does not itself classify**. **General contribution and violation measurement** (Contribution Axis and Violation Axis), including numeric slot assignment on the shared five-times LEQU bands from verified impact and separate axis records, is owned by the [**Chapter Ten §7 unified scale**](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) in [core_10.000_standing_assessment.md](core_10.000_standing_assessment.md). [**Chapter Eleven**](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) owns standing effects and integration without moving either slot. For a final Chapter Ten **Violation Axis s = 7, s = 8, or s = 9** impact slot, **Chapter Twelve** (*Anti-Constitutional Misconduct*) in [core_12.000_misconduct_designation.md](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) may add the corresponding **anti-constitutional-misconduct designation**, subject to its criteria, due-process safeguards, and cross-chapter discipline, as referenced under **Chapter Ten** [section 5.1](core_10.000_standing_assessment.md#5-slot-grammar-and-display-labels) and the [Chapter Eleven §2 gateway](core_11.000_standing_integration.md#2-automatic-integration-review-and-continuity). This chapter issues **referral and review triggers only**; it does not assign or move a numeric slot or attach, narrow, or expand canonical designations.
 
 <a id="4-scope-limit-and-layer-discipline"></a>
 <a id="4-layer-scope"></a>
@@ -159,7 +159,7 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) referral-only discipline; [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) and [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) canonical owners.
+- Upstream: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) referral-only discipline; [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) and [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) canonical owners.
 - Downstream: [Chapter Seventeen §12](core_17.000_amendment_ratification.md#12-layer-scope) (17.000 §12) mirrored procedural-layer discipline; implementation text for review execution mechanics.
 - Read with:
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the
@@ -190,7 +190,7 @@ Future additions that touch offense-flavored, sanction-flavored, or classificati
 
 > Canonical owner routing lives in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights). For editorial orientation, obligations outside the substantive change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Ten** in [core_10.000_standing_assessment.md](core_10.000_standing_assessment.md); **standing effects and integration** — **Chapter Eleven** in [core_11.000_standing_integration.md](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration);
-> - **numeric Contribution and Violation Axis slots** — the **Chapter Ten §7 unified scale**, with separate records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for a qualifying Violation Axis slot 7, 8, or 9 — **Chapter Twelve** in [core_12.005_misconduct_designation.md](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct);
+> - **numeric Contribution and Violation Axis slots** — the **Chapter Ten §7 unified scale**, with separate records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for a qualifying Violation Axis slot 7, 8, or 9 — **Chapter Twelve** in [core_12.000_misconduct_designation.md](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct);
 > - **forum-operational workflow and adjudicative procedure** — **Chapter Thirteen** and [corpus_forum.md](corpus_forum.md);
 > - **procedural and custody validity** for amendment, ratification, and adoption — **Chapter Seventeen** in [`core_17.000_amendment_ratification.md`](core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity); and
 > - **detailed institutional procedure, staffing mechanics, and cross-implementation joint structural integration** for review execution — designated implementation text and owner chapters named in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).

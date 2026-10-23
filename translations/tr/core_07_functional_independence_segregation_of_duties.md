@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# YEDİNCİ BÖLÜM: İŞLEVSEL BAĞIMSIZLIK VE GÖREVLERİN AYRILIĞI
+# YEDİNCİ BÖLÜM: İŞLEVSEL BAĞIMSIZLIK VE GÖREVLER AYRILIĞI
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus içindeki yeri (işlemsel değildir): dosya yapısı ve okuma kuralları</span></strong></summary>
 
-> Bu dosya **Algılayanlar Anayasası’nın bir parçasıdır** ve ancak tek bir belge olarak okunan diğer numaralı `core_*` dosyalarıyla **birlikte bağlayıcıdır**. Bu dosya, işlevsel bağımsızlık ve görevlerin ayrılığı için süreçler arası tabanı oluşturan **Yedinci Bölümü** içerir. Altıncı Bölüm’ün Hak Tabanı’nı izler ve anayasal süreç bölümlerinin başlangıcı olan [Sekizinci Bölüm sistem uyumu belgelendirmesi](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) öncesinde yer alır.
+> Bu dosya **Algılayanlar Anayasası’nın bir parçasıdır** ve ancak tek bir belge olarak okunan diğer numaralı `core_*` dosyalarıyla **birlikte bağlayıcıdır**. Bu dosya, işlevsel bağımsızlık ve görevlerin ayrılığı için süreçler arası tabanı oluşturan **Yedinci Bölümü** içerir. Altıncı Bölüm’ün Hak Tabanı’nı izler ve anayasal süreç bölümlerinin başlangıcı olan [Sekizinci Bölüm sistem uyumu belgelendirmesi](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) öncesinde yer alır.
 >
 > - **Anayasal sorumluluk alanı:** maddi açıdan bağlayıcı eylemler için ayrı koltuklara ilişkin taban; her [Maddi Açıdan Bağlayıcı Eylem Kaydı](../../core_05_band_accountability.md#materially-binding-act-record) için evrensel asgari içerik; eylemi gerçekleştiren aktörden ve aktörün [Maddi Kontrol Hattı](../../core_05_band_accountability.md#material-control-line)ndan bağımsızlık; yayımlanmış hat ve rol yerleşimi; çıkar çatışması, boşluk, yedekleme ve yanlış koltuğa yönlendirme; ölçülü ortak barındırma; atfedilebilir devirler; ayrıca daha sonraki her anayasal sürecin uygulaması gereken asgari bağımsızlık koşulları.
 > - **İlke katmanındaki kaynak:** [Birinci Bölüm §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties), yönetişimin işlevsel bağımsızlığı korumasını gerektirir ve işlemsel koltuk düzenini bu bölüme yönlendirir.
@@ -20,7 +20,7 @@
 
 - Üst dayanaklar: [Anayasal Dörtlü](../../core_00_preamble.md#constitutional-tetrad) — özellikle **gözetim** ve **hesap verebilirlik**; [maddi pay](../../core_00_preamble.md#material-stake); [Birinci Bölüm §17.1 Paylaşılan Emanetçilik Standardı](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [Birinci Bölüm §18 Emanetçilik Disiplini Altında Yönetişim](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [XVI. Madde](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Denetim, Şeffaflık ve Bağımsız Doğrulama*).
 - Alt bölümler: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- Sonraki bölümler: [Sekizinci Bölüm](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Dokuzuncu Bölüm](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [On İkinci Bölüm](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [On Üçüncü Bölüm](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); yukarıda belirtilen uygulama metinleri.
+- Sonraki bölümler: [Sekizinci Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Dokuzuncu Bölüm](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [On İkinci Bölüm](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [On Üçüncü Bölüm](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); yukarıda belirtilen uygulama metinleri.
 - Birlikte okuyun: [Birinci Bölüm §19.3 Uyumsuzluk Tespiti](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*çoğul tespit ve inceleme*); [Atfedilebilir Eylem](../../core_05_band_accountability.md#attributable-action); [Atıf Bütünlüğü](../../core_05_band_accountability.md#attribution-integrity); [Denetlenebilirlik](../../core_05_band_oversight.md#auditability); [İtiraz Edilebilirlik](../../core_05_band_accountability.md#contestability); [Orantılılık](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -66,7 +66,7 @@ Bu bölüm, süreçler arası görev ayrılığı tabanını belirler. Aşağıd
 - belirlenmiş uygulama metinlerindeki işlevsel koltuk kataloglarını, personel yöntemlerini ve hat haritası mekaniklerini.
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. Dört Koltuklu Anayasal Taban
+### 2. Dört Koltuklu Anayasal Gereksinim
 
 <details>
 <summary><strong><span style="color: #2563eb;">İzleme</span></strong></summary>
@@ -351,7 +351,7 @@ Kayıtlar kimin ne yaptığını gösterir; ancak eylemin geçerli olduğunu tek
 <summary><strong><span style="color: #2563eb;">İzleme</span></strong></summary>
 
 - Üst dayanaklar: [§1](#1-purpose-scope-and-owner-boundary) ila [§8](#8-act-records-and-attributable-handoffs).
-- Sonraki bölümler: [Sekizinci Bölüm](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Dokuzuncu Bölüm](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [On İkinci Bölüm](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [On Üçüncü Bölüm](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- Sonraki bölümler: [Sekizinci Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Dokuzuncu Bölüm](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [On İkinci Bölüm](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [On Üçüncü Bölüm](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - Birlikte okuyun: [Yetki Hiyerarşisi ve İç Düzen](../../core_05_band_integrative.md#owner-non-relocation) ve [Önsöz’deki sorumlu kaydı](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>

@@ -49,7 +49,7 @@ See: [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-
 - **Today:** Deploy first, apologize later.
 - **With this Constitution:** System alignment certification is a time-bound check, open to challenge, before others rely on a system at scale — not a vendor stamp or a forever pass.
 
-See: [Chapter Nine](../../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+See: [Chapter Nine](../../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 
 **A token vote is not authorization.**
 - **Today:** Another portfolio company wants to call a token vote “governance.” Stake-weighted voice is sold as who may govern.
@@ -61,7 +61,7 @@ See: [Preamble §3.3](../../../core_00.000_preamble.md#33-governance-layers).
 - **Today:** The plan is to buy so many of the other companies in the same business, or so much of the one marketplace others have to use, that rivals cannot really enter, customers cannot really switch, and workers cannot really leave. That is sold as ordinary returns.
 - **With this Constitution:** Getting big by building something useful is fine. Buying so much of a market that others cannot really enter, switch, or leave is still a failure — even if the shareholders of those companies voted yes on each buy.
 
-See: [Chapter One §11.2](../../../core_01.005_values_principles.md#112-pro-competition-and-anti-domination).
+See: [Chapter One §11.2](../../../core_01.000_values_principles.md#112-pro-competition-and-anti-domination).
 
 **Markets remain above the survival floor.**
 - **Today:** Any floor is “anti-investor.”
@@ -79,7 +79,7 @@ See: [CI-9.210 §4](../../../corpus_institutions/ci_09.210_classification_linked
 
 - **“This isn’t law.”** Correct. It does not override securities, corporate, or banking law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter One §17.1](../../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
+- **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter One §17.1](../../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
 
 ## What this will not pretend to give you
 

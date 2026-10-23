@@ -58,11 +58,11 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Who counts (comparator):** “All human beings are born free and equal in dignity and rights.” — UDHR Art. 1
 
-**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article V-D](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)
+**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article V-D](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)
 
 **Contested default (comparator):** “Because the writ of habeas corpus is intended to protect the liberty right of human beings to be free of unlawful confinement, it has no applicability to Happy, a nonhuman animal who is not a ‘person’ subjected to illegal detention.” — *Breheny*, 38 NY3d at 565–566
 
-**Animal ladder (corpus):** “Animal Life occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Six Rights Floor for sentients.” — [Article I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)
+**Animal ladder (corpus):** “Animal Life occupies the welfare-protection domain between **Natural Systems Standing** and the Chapter Six Rights Floor for sentients.” — [Article I-A](../../core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)
 
 **Animal ladder (comparator):** “the Union and the Member States shall, since animals are sentient beings, pay full regard to the welfare requirements of animals, while respecting … religious rites, cultural traditions and regional heritage.” — TFEU Art. 13
 
@@ -84,7 +84,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Scope — Mixed.** [Natural Systems Standing](../../core_05.055_band_participation.md#natural-systems-standing) and Article I-A require weighing life-supporting systems’ **continuity and integrity interests of their own** — not raw materials only. That is stronger than UNGA Res. 76/300, which recognises a **human** right to a healthy environment, and stronger than Aarhus/Escazú, which are procedural rights for persons. It is **weaker** than Ecuador Art. 71 (“Nature … has the right to integral respect for its existence”) and Te Awa Tupua s.14 legal personality. No search of the corpus found “rights of nature,” named guardians, or ecosystem-as-party filing. Environment forums remain sentient/system-mediated.
 
-**Substance — Mixed.** The Article I stack (preconditions/integrity, footprint transparency, intergenerational responsibility, existential-risk / recovery-capacity scrutiny), anti-offset extinction as a primary failure of Ecological Integrity, material stewardship (Article II), and resource-flow / ecosystem funding (Article IV) is thicker than South Africa s.24 or the French Environmental Charter. [Article I-B](../../core_06.005_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) **expressly does not require footprint reduction or caps by itself**. There is no planetary-boundaries framework, carbon budget, or Paris-style temperature article. *Neubauer* (2021) and the ICJ advisory opinion of 23 July 2025 impose climate due diligence and intergenerational allocation that this instrument states only as qualitative heightened scrutiny under Article I-D. Indigenous Continuity is a community-anchored floor that **does not decide historical land title** — weaker than UNDRIP and ILO 169 on lands, territories, and FPIC.
+**Substance — Mixed.** The Article I stack (preconditions/integrity, footprint transparency, intergenerational responsibility, existential-risk / recovery-capacity scrutiny), anti-offset extinction as a primary failure of Ecological Integrity, material stewardship (Article II), and resource-flow / ecosystem funding (Article IV) is thicker than South Africa s.24 or the French Environmental Charter. [Article I-B](../../core_06.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) **expressly does not require footprint reduction or caps by itself**. There is no planetary-boundaries framework, carbon budget, or Paris-style temperature article. *Neubauer* (2021) and the ICJ advisory opinion of 23 July 2025 impose climate due diligence and intergenerational allocation that this instrument states only as qualitative heightened scrutiny under Article I-D. Indigenous Continuity is a community-anchored floor that **does not decide historical land title** — weaker than UNDRIP and ILO 169 on lands, territories, and FPIC.
 
 **Justiciability — Mixed.** Chapter Thirteen Environment forums, Chapter Nine §5 footprint evaluation, and Chapter Eleven remedy are unusually specific for a constitution-like text. Aarhus and Escazú already deliver in-force access-to-justice rights. Ecuador lets **any person** petition to enforce nature’s rights. Te Awa Tupua names Te Pou Tupua as the river’s legal face. This corpus has neither.
 
@@ -96,19 +96,19 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 ### Paired quotes
 
-**Own interests (corpus):** “Life-supporting natural systems hold continuity and integrity interests of their own. Those interests inform interpretation alongside sentient interests.” — [Article I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)
+**Own interests (corpus):** “Life-supporting natural systems hold continuity and integrity interests of their own. Those interests inform interpretation alongside sentient interests.” — [Article I-A](../../core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)
 
 **Own rights (comparator):** “Nature, or Pacha Mama, where life is reproduced and occurs, has the right to integral respect for its existence and for the maintenance and regeneration of its life cycles, structure, functions and evolutionary processes.” — Ecuador Constitution Art. 71
 
 **Personhood (comparator):** Te Awa Tupua is “an indivisible and living whole, comprising the Whanganui River from the mountains to the sea,” with legal personality and Te Pou Tupua as human face — Te Awa Tupua Act 2017 ss.12–14.
 
-**No standalone cap (corpus):** “**Article I-B** … by itself does not require footprint reduction. Duties to reduce, cap, or remediate apply only when another constitutional provision, implementation file, or adoption instrument expressly requires them.” — [Article I-B](../../core_06.005_rights_part_a.md#article-i-b-ecological-footprint-and-transparency)
+**No standalone cap (corpus):** “**Article I-B** … by itself does not require footprint reduction. Duties to reduce, cap, or remediate apply only when another constitutional provision, implementation file, or adoption instrument expressly requires them.” — [Article I-B](../../core_06.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency)
 
 **Climate numerics (comparator):** *Neubauer* holds that the Basic Law’s protection of future generations bars the legislature from offloading an “irreversible” share of the carbon budget onto later generations. The ICJ 2025 advisory opinion affirms a due-diligence duty to prevent significant harm to the climate system.
 
 **Anti-offset (corpus):** Primary failure of Ecological Integrity includes “extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.” — [Ecological Integrity](../../core_05.040_band_continuity.md#ecological-integrity)
 
-**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
+**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
 
 ### Steelman
 
@@ -150,7 +150,7 @@ German Art. 79(3) and Brazil Art. 60 §4 are narrower textual eternity locks and
 
 **Non-regression (comparator):** “Amendments to this Basic Law affecting the division of the Federation into Länder, their participation in principle in the legislative process, or the principles laid down in Articles 1 and 20 shall be inadmissible.” — German Basic Law Art. 79(3)
 
-**Certification ≠ standing (corpus):** “A certification record does not apply standing effects” — Chapter Nine owns evaluation/record; Chapter Ten owns standing records; this chapter “may supply verified inputs only.” — [Chapter Nine §10](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)
+**Certification ≠ standing (corpus):** “A certification record does not apply standing effects” — Chapter Nine owns evaluation/record; Chapter Ten owns standing records; this chapter “may supply verified inputs only.” — [Chapter Nine §10](../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)
 
 **Anti-self-judging (corpus):** “A forum family must not be the sole final merits forum for a claim whose primary issue is that same family's own bias, capture, conflict, recusal failure, concealment, process abuse, or comparable integrity breach.” — [Chapter Thirteen §3](../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)
 

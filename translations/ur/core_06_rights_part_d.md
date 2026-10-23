@@ -318,9 +318,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: [Article XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Read with: [Article XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
@@ -346,9 +346,9 @@ flowchart TB
   - جب متعلقہ فرض اور صلاحیت موجود ہو، تو غیرقانونی یا آئین مخالف ہدایات پر رضامندی سے عمل اور مزاحمت نہ کرنے کو اہلیت اور لاک کے فیصلے میں شمار کیا جائے، جیسا کہ **باب پانچ** (*اجتماعی جواب دہی کی ناکامی*) تقاضا کرتا ہے۔
 - **اہلیتی لاکس:** [اہلیتی لاک](../../core_05.035_band_accountability.md#standing-lock) اہلیت کی منظوری کا پابند کرنے والا متبادل ہے۔ جب تک تصدیق شدہ خلاف ورزی کا فیصلہ حل طلب ہو یا اس کی مؤثر تلافی نہ ہوئی ہو، لاک اعتماد، کردار، اختیار، کریڈٹ، نگرانی، شناخت، **حکمرانی میں ووٹ** یا **متعلقہ فریق کی شرکت** کے راستے روک یا محدود کر سکتا ہے۔ پابندی صرف واضح طور پر نامزد مراعاتی راستوں پر لگے؛ اگر ثابت شدہ خطرہ ضروری کرے تو مخصوص مقامات، نیٹ ورک یا باحس وجود سے علیحدگی [علیحدگی کی حدود](../../core_11.000_standing_integration.md#51-separation-limits) کے اندر ہو۔
   - لاک عزت کا درجہ، بنیادی حقوق میں کمی، خودکار انتقام یا مشترکہ میرٹ اسکور نہیں۔
-  - یہ واضح کرے کہ کون سی رسائی رکی ہے، کس کی حفاظت ہے، لاک اٹھانے کے لیے کیا اصلاح درکار ہے، جائزے کا راستہ اور دوبارہ جائزے کا وقت کیا ہے؛ اور [دفعہ XIX-B](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) کے تحت ضروری، متناسب، قابلِ آڈٹ اور قابلِ اعتراض ہو۔
+  - یہ واضح کرے کہ کون سی رسائی رکی ہے، کس کی حفاظت ہے، لاک اٹھانے کے لیے کیا اصلاح درکار ہے، جائزے کا راستہ اور دوبارہ جائزے کا وقت کیا ہے؛ اور [دفعہ XIX-B](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) کے تحت ضروری، متناسب، قابلِ آڈٹ اور قابلِ اعتراض ہو۔
   - اہلیت کی منظوری لاگو اہلیتی لاک ختم نہیں کرتی؛ اچھی شراکت حل طلب تصدیق شدہ خلاف ورزی کو نہیں مٹاتی۔
-  - ووٹنگ کے راستے اور تین خصوصی لاکس کے اضافی قواعد [دفعہ XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) میں ہیں۔
+  - ووٹنگ کے راستے اور تین خصوصی لاکس کے اضافی قواعد [دفعہ XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks) میں ہیں۔
   - اہلیتی لاک فرد کے منصفانہ عدالتی عمل کا بدل نہیں، اور **اپنے بل پر** نقل و حرکت، پناہ، قابلِ منتقلی ہونے یا اخراج کو محدود نہیں کرتا ([دفعہ XXI](#دفعہ-xxi-باہمی-عمل-پذیری-قابل-منتقلی-ہونا-اور-اخراج-کی-سالمیت) اور [دفعہ XXII](#دفعہ-xxii-نقل-و-حرکت-ہجرت-پناہ-اور-بے-وطن-نہ-رہنے-کا-تحفظ)).
 - **نقصان کے مطابق لاک:** لاک ثابت شدہ نقصان کی شدت، جس مخصوص کردار یا مراعت کی حفاظت کرتا ہے، اور اصلاح کی پیش رفت کے مطابق ہو۔
   - **ماضی کی مدد:** صرف اس وقت زیرِ غور آئے جب وہ دکھائے کہ باحس وجود اصلاح کر سکتا ہے، تحفظات قائم رکھ سکتا ہے، یا تکرار روک سکتا ہے، یا دوبارہ جائزے پر ہلکی پابندی کی تائید کرے۔ یہ حل طلب نقصان کو منہا، معاف، اوسطاً کم یا بدل نہیں سکتی۔
@@ -379,7 +379,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§3 بنیادی مقصد: فلاح](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 تحفظ](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§18 نگہبانی کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی)۔
+- بالادستی اصول: باب اول [§3 بنیادی مقصد: فلاح](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 تحفظ](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§18 نگہبانی کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی)۔
 - زیریں سطح: [باب دس §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*خلاف ورزی، اصلاح، اور روک تھام*)؛ [باب گیارہ §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*درجہ بندی کے عمل، تدارک، اور روک تھام کے تحفظات*)۔
 
 </details>
@@ -411,7 +411,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§4 تحفظ](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [باب اول §13.1.5 حقوق کے تصادم کا طریقۂ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [باب اول §3.3 توہین آمیز عمل کے خلاف اصول](core_01_a_values_principles.md#33-تذلیل-سے-پاک-طریقۂ-کار)، اور [§20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق)۔
+- بالادستی اصول: باب اول [§4 تحفظ](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [باب اول §13.1.5 حقوق کے تصادم کا طریقۂ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [باب اول §3.3 توہین آمیز عمل کے خلاف اصول](core_01_a_values_principles.md#33-تذلیل-سے-پاک-طریقۂ-کار)، اور [§20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق)۔
 - زیریں سطح: [باب دس §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*خلاف ورزی، اصلاح، اور روک تھام*)؛ [دفعہ XX-B](#دفعہ-xx-b-پابندیوں-کی-بنیادی-شرائط)۔
 - ساتھ پڑھیں: [ظلم](../../core_05.035_band_accountability.md#cruelty) (*باب پانچ میں ظلم کے خلاف اس بنیادی ضمانت کا ماخذ جو تکلیف کو بذاتِ خود مقصد بنانے سے روکتی ہے*)۔
 
@@ -660,8 +660,8 @@ flowchart TB
 - **کھلے کو ترجیح:** نظاموں کو کھلے فارمیٹس، انٹرفیس اور پروٹوکول ترجیح دینی چاہییں۔ مادی اثر اور انحصار بڑھنے کے ساتھ یہ ذمہ داری مضبوط ہوتی ہے۔
 - **کھلا ہونے کا معیار:** مکمل specification عوامی طور پر دستیاب ہو؛ کوئی بھی اجازت، فیس یا رائلٹی کے بغیر اسے نافذ کر سکے؛ اور کوئی ایک فریق اسے یک طرفہ طور پر تبدیل نہ کر سکے، یا اس فریق کی حمایت ختم ہونے پر دوسرے آزادانہ fork کرکے اسے برقرار رکھ سکیں۔ ان میں سے کوئی شرط پوری نہ کرنے والا دستاویزی فارمیٹ اس ذیلی دفعہ کے لیے بند ہے، اگرچہ غیر دستاویزی فارمیٹ سے بہتر ہے۔
 - **ہر سطح کی ذمہ داریاں:**
-  - **اخراج:** [Article XXI-A](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights) کے تحت برآمد اور منتقلی کے راستے کم از کم ایک ایسا کھلا فارمیٹ دیں جو ساخت، metadata، تعلقات یا وفاداری کے مادی نقصان کے بغیر ڈیٹا منتقل کر سکے۔
-  - **باہمی عمل پذیری:** [Article XXI-B](../../core_06.020_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) کے تحت انضمام کی سرحدیں بطورِ طے شدہ کھلے معیارات اور پروٹوکول استعمال کریں؛ بند متبادل صرف اسی وقت جب اس ذیلی دفعہ کے تحت جواز ہو۔
+  - **اخراج:** [Article XXI-A](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) کے تحت برآمد اور منتقلی کے راستے کم از کم ایک ایسا کھلا فارمیٹ دیں جو ساخت، metadata، تعلقات یا وفاداری کے مادی نقصان کے بغیر ڈیٹا منتقل کر سکے۔
+  - **باہمی عمل پذیری:** [Article XXI-B](../../core_06.015_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) کے تحت انضمام کی سرحدیں بطورِ طے شدہ کھلے معیارات اور پروٹوکول استعمال کریں؛ بند متبادل صرف اسی وقت جب اس ذیلی دفعہ کے تحت جواز ہو۔
   - **اندرونی اور مقامی فارمیٹس:** نظاموں کو ذخیرہ اور اندرونی کام کے لیے کھلے فارمیٹس ترجیح دینے چاہییں۔ بند فارمیٹ کے لیے مادی اثر اور انحصار کے مطابق زیادہ مضبوط جواز لازم ہے۔
   - **عوامی ڈیٹا:** عوامی رسائی کے لیے شائع کردہ ڈیٹا—بشمول corpus_systems.md کے CS-2 میں قسم O، E اور W—بطورِ طے شدہ کھلے فارمیٹس میں شائع ہو۔
 - **بند فارمیٹ کا جواز:** بند فارمیٹ، انٹرفیس یا پروٹوکول صرف اسی وقت جائز ہے جب کوئی کھلا متبادل وفاداری، کارکردگی، حفاظت، سائبر تحفظ، رسائی یا کسی مخصوص کام جیسی مادی ضرورت پوری نہ کرے۔
@@ -669,7 +669,7 @@ flowchart TB
   - دستیاب بہترین کھلا برآمدی راستہ دے اور واضح کرے کہ اس میں کیا ضائع ہوگا۔
   - منتقلی کے لیے کافی دستاویز فراہم کرے یا اسے آزاد امانت میں جمع کرائے۔
   - کھلے متبادل بہتر ہونے پر انتخاب کا باقاعدگی سے، اور ہر مادی طور پر اثرانداز تصدیق یا ازسرِنو توثیق کے وقت جائزہ لے۔
-  - سہولت، منتظم کی بچت یا پہلے سے رائج ہونا بذاتِ خود جواز نہیں۔ جس بند فارمیٹ کا بنیادی اثر اخراج یا تبدیلی روکنا ہو، وہ [Article XXI-C](../../core_06.020_rights_part_d.md#article-xxi-c-anti-lock-in-rule) کی خلاف ورزی ہے۔
+  - سہولت، منتظم کی بچت یا پہلے سے رائج ہونا بذاتِ خود جواز نہیں۔ جس بند فارمیٹ کا بنیادی اثر اخراج یا تبدیلی روکنا ہو، وہ [Article XXI-C](../../core_06.015_rights_part_d.md#article-xxi-c-anti-lock-in-rule) کی خلاف ورزی ہے۔
 - **منتقلی:** پہلی بار اس ذیلی دفعہ کے اطلاق پر پہلے سے چلنے والا نظام منتقلی کا منصوبہ ظاہر کرے اور معمول کے طور پر ایک سال کے اندر باہمی عمل پذیری، اندرونی فارمیٹس اور عوامی ڈیٹا کی ذمہ داریاں پوری کرے۔
   - اختیار کرنے والے Chapter Eighteen میں شامل کرکے نظامی طبقات کے لیے مختلف مدت مقرر کر سکتے ہیں، بشرطیکہ وجہ شائع ہو۔
   - توسیع صرف غیر معمولی حالات میں، قابلِ اطلاق جواز کے بوجھ کے مطابق دستاویزی، قابلِ جائزہ اور وقت تک محدود وجہ سے دی جا سکتی ہے۔
@@ -894,7 +894,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§5 سچائی](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالادستی اصول: باب اول [§5 سچائی](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: [باب اول §5.2 سادہ زبان تک رسائی (نگہبانی کی ذمہ داری)](core_01_a_values_principles.md#52-سادہ-زبان-میں-رسائی-مشارکت-اور-سرپرستی-کی-ذمہ-داری)، [§13.3 قابلِ اجتناب بوجھ میں کمی](core_01_b_interaction_interpretation.md#133-قابل-اجتناب-بوجھ-میں-کمی)، اور [باب اول حصہ ج §16.1 تقسیم شدہ فہم](core_01_c_stewardship_capacity_principles.md#161-تقسیم-شدہ-فہم)۔
 
 </details>
@@ -926,7 +926,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§4 تحفظ](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [باب اول §18.5 ماڈیولر ساخت اور انحصار کا نظم](core_01_c_stewardship_capacity_principles.md#185-ماڈیولر-ساخت-اور-انحصار-کی-پابندی)، اور [باب اول §20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق)۔
+- بالادستی اصول: باب اول [§4 تحفظ](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [باب اول §18.5 ماڈیولر ساخت اور انحصار کا نظم](core_01_c_stewardship_capacity_principles.md#185-ماڈیولر-ساخت-اور-انحصار-کی-پابندی)، اور [باب اول §20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق)۔
 
 </details>
 
@@ -966,7 +966,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§4 تحفظ](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§5 سچائی](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالادستی اصول: باب اول [§4 تحفظ](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§5 سچائی](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: [آئینی چارگانہ](core_00_preamble.md#constitutional-tetrad)؛ [آئینی اہدافِ دوگانہ](core_00_preamble.md#two-constitutional-aims) — **فلاح** اور **استمرار**؛ باب پانچ میں [واپسی پذیری](../../core_05.040_band_continuity.md#reversibility)، [خطرہ](../../core_05.040_band_continuity.md#risk)، اور [نظامی قبضہ](../../core_05.040_band_continuity.md#system-capture)۔
 
 </details>
@@ -1013,7 +1013,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§4 تحفظ](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§5 سچائی](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالادستی اصول: باب اول [§4 تحفظ](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§5 سچائی](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -1169,7 +1169,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالادستی اصول: باب اول [§13.1.5 حقوق کے تصادم کا فیصلہ جاتی امتحان](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§18 نگہبانی کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی)، اور [§20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق)۔
-- ساتھ پڑھیں: [باب دس §5.5](core_09_standing_integration.md#55-special-locks) (*فورم میں انکشاف کی کوتاہی اور علیحدگی کے عمل کا اثر*)؛ [باب گیارہ §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*نامزد بدعنوانی کا نمونہ*)؛ [باب بارہ §2](core_11_forum.md#2-default-venue-and-primary-stakes) اور [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*پہلے سالمیت کے فورم کی جانب منتقلی اور خود احتسابی سے بچاؤ*)۔
+- ساتھ پڑھیں: [باب دس §5.5](core_09_standing_integration.md#55-special-locks) (*فورم میں انکشاف کی کوتاہی اور علیحدگی کے عمل کا اثر*)؛ [باب گیارہ §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*نامزد بدعنوانی کا نمونہ*)؛ [باب بارہ §2](core_11_forum.md#2-default-venue-and-primary-stakes) اور [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*پہلے سالمیت کے فورم کی جانب منتقلی اور خود احتسابی سے بچاؤ*)۔
 
 </details>
 

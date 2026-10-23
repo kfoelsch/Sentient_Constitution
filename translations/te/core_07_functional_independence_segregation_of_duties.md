@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# అధ్యాయం ఏడు: కార్యాత్మక స్వాతంత్ర్యం మరియు విధుల విభజన
+# అధ్యాయం ఏడు: ఫంక్షనల్ స్వతంత్రత మరియు విధుల విభజన
 
 <details>
 <summary><strong><span style="color: #2563eb;">కార్పస్‌లో స్థానం (బాధ్యతలు విధించదు): ఫైలు నిర్మాణం మరియు పఠన నియమాలు</span></strong></summary>
 
-> ఈ ఫైలు **Sentient Constitution** లో భాగం; ఇతర సంఖ్యాక `core_*` ఫైళ్లతో కలిపి ఒకే పత్రంగా చదివినప్పుడే ఇది బద్ధత కలిగిస్తుంది. ఇందులో **అధ్యాయం ఏడు** ఉంది: కార్యాత్మక స్వాతంత్ర్యం మరియు విధుల విభజనకు అన్ని ప్రక్రియల్లో వర్తించే కనీస ప్రమాణం. ఇది అధ్యాయం ఆరు హక్కుల కనీస ప్రమాణం తర్వాత, [అధ్యాయం ఎనిమిది వ్యవస్థ-అనుసరణ ధృవీకరణ](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) తో ప్రారంభమయ్యే రాజ్యాంగ ప్రక్రియ అధ్యాయాలకు ముందు వస్తుంది.
+> ఈ ఫైలు **Sentient Constitution** లో భాగం; ఇతర సంఖ్యాక `core_*` ఫైళ్లతో కలిపి ఒకే పత్రంగా చదివినప్పుడే ఇది బద్ధత కలిగిస్తుంది. ఇందులో **అధ్యాయం ఏడు** ఉంది: కార్యాత్మక స్వాతంత్ర్యం మరియు విధుల విభజనకు అన్ని ప్రక్రియల్లో వర్తించే కనీస ప్రమాణం. ఇది అధ్యాయం ఆరు హక్కుల కనీస ప్రమాణం తర్వాత, [అధ్యాయం ఎనిమిది వ్యవస్థ-అనుసరణ ధృవీకరణ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) తో ప్రారంభమయ్యే రాజ్యాంగ ప్రక్రియ అధ్యాయాలకు ముందు వస్తుంది.
 >
 > - **రాజ్యాంగ యజమాని:** గణనీయంగా బద్ధత కలిగించే చర్యలకు ప్రత్యేక స్థానాల కనీస ప్రమాణం; ప్రతి [గణనీయంగా బద్ధత కలిగించే చర్య రికార్డు](../../core_05_band_accountability.md#materially-binding-act-record) లో ఉండవలసిన సార్వత్రిక కనీస అంశాలు; చర్యకర్త మరియు వారి [భౌతిక నియంత్రణ రేఖ](../../core_05_band_accountability.md#material-control-line) నుంచి స్వాతంత్ర్యం; ముందుగా ప్రచురించిన లేన్ మరియు పాత్ర కేటాయింపు; ప్రయోజన సంఘర్షణ, ఖాళీ, ప్రత్యామ్నాయ నియామకం, తప్పు స్థానానికి వచ్చిన అంశాల మార్గనిర్దేశం; నిష్పత్తికి తగిన విలీన హోస్టింగ్; ఆపాదించగల బాధ్యతతో జరిగే బదిలీలు; ప్రతి తరువాతి రాజ్యాంగ ప్రక్రియ పాటించవలసిన కనీస స్వాతంత్ర్య షరతులు.
 > - **సూత్రాల-స్థాయి మూలం:** [అధ్యాయం ఒకటి §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) పరిపాలన కార్యాత్మక స్వాతంత్ర్యాన్ని కాపాడాలని కోరుతూ, అమలులో ఉండే స్థాన నిర్మాణాన్ని ఇక్కడికి నిర్దేశిస్తుంది.
@@ -20,7 +20,7 @@
 
 - పైస్థాయి: [రాజ్యాంగ చతుష్టయం](../../core_00_preamble.md#constitutional-tetrad) — ముఖ్యంగా **పర్యవేక్షణ** మరియు **జవాబుదారీతనం**; [భౌతిక వాటా](../../core_00_preamble.md#material-stake); [అధ్యాయం ఒకటి §17.1 భాగస్వామ్య సంరక్షకత్వ ప్రమాణం](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [అధ్యాయం ఒకటి §18 సంరక్షకత్వ క్రమశిక్షణలో పరిపాలన](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [ఆర్టికల్ XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*).
 - ఉపవిభాగాలు: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- దిగువస్థాయి: [అధ్యాయం ఎనిమిది](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [అధ్యాయం తొమ్మిది](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [అధ్యాయం పన్నెండు](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [అధ్యాయం పదమూడు](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); పైన పేర్కొన్న నిర్దేశిత అమలు పాఠ్యాలు.
+- దిగువస్థాయి: [అధ్యాయం ఎనిమిది](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [అధ్యాయం తొమ్మిది](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [అధ్యాయం పన్నెండు](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [అధ్యాయం పదమూడు](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); పైన పేర్కొన్న నిర్దేశిత అమలు పాఠ్యాలు.
 - వీటితో కలిపి చదవండి: [అధ్యాయం ఒకటి §19.3 అసమలేఖన గుర్తింపు](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*బహుళ పక్షాల గుర్తింపు మరియు సమీక్ష*); [ఆపాదించగల చర్య](../../core_05_band_accountability.md#attributable-action); [ఆపాదింపు సమగ్రత](../../core_05_band_accountability.md#attribution-integrity); [ఆడిట్ చేయగలగడం](../../core_05_band_oversight.md#auditability); [సవాలు చేయగలగడం](../../core_05_band_accountability.md#contestability); [నిష్పత్తి సముచితత్వం](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -66,7 +66,7 @@
 - నిర్వహణ స్థానాల జాబితాలు, సిబ్బంది పద్ధతులు, లేన్-మ్యాప్ విధానాలను నిర్దేశిత అమలు పాఠ్యాల నుంచి.
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. నాలుగు-స్థానాల రాజ్యాంగ కనీస ప్రమాణం
+### 2. నాలుగు-సీట్ల రాజ్యాంగ ఆవశ్యకత
 
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
@@ -350,7 +350,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
 - పైస్థాయి: [§1](#1-purpose-scope-and-owner-boundary) నుంచి [§8](#8-act-records-and-attributable-handoffs) వరకు.
-- దిగువస్థాయి: [అధ్యాయం ఎనిమిది](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [అధ్యాయం తొమ్మిది](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [అధ్యాయం పన్నెండు](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [అధ్యాయం పదమూడు](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- దిగువస్థాయి: [అధ్యాయం ఎనిమిది](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [అధ్యాయం తొమ్మిది](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [అధ్యాయం పన్నెండు](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [అధ్యాయం పదమూడు](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - వీటితో కలిపి చదవండి: [అధికార శ్రేణి మరియు అంతర్గత క్రమం](../../core_05_band_integrative.md#owner-non-relocation) మరియు [ప్రవేశికలోని యజమాని జాబితా](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>

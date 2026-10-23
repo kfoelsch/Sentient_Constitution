@@ -5,7 +5,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">సంకలనంలో స్థానం (అసంచాలకం): ఫైల్ నిర్మాణం మరియు చదివే నియమాలు</span></strong></summary>
 
-> ఈ ఫైల్ [ఆంగ్ల అధ్యాయం ఏడు చదివే సూచిక](../../core_09_system_alignment_certification.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_07_system_alignment_certification.md`](../../core_09_system_alignment_certification.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
+> ఈ ఫైల్ [ఆంగ్ల అధ్యాయం ఏడు చదివే సూచిక](../../core_09.000_system_alignment_certification_evaluation.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_07_system_alignment_certification.md`](../../core_09.000_system_alignment_certification_evaluation.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
 >
 > **అధ్యాయం ఏడు** రెండు బంధనీయ ఫైళ్ళుగా విభజించబడింది, ఒకే సాధనంగా చదవాలి:
 >
@@ -39,4 +39,4 @@
 
 **తదుపరి ఫైల్ (ఈ భాషలో):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**బంధనీయ మూలం:** [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md)
+**బంధనీయ మూలం:** [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md)

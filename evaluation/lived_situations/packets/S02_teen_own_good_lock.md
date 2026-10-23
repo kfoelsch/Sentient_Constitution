@@ -85,11 +85,11 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article VIII-D](../../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — capability, not a birthday; “for your own good” is not, by itself, a valid lock
-- [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — family relationship is not authority over another sentient’s clinician
-- [Article III-B](../../../core_06.005_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*) where the clinic switch is the price of enrollment
-- [Article III-C](../../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) only if the job lock is used to defeat lawful work Mika can actually do; do not drag the employer into a family-merits case it is not in
-- [Article XIII-A](../../../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) and [Article XXVI-C](../../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) on the six- and eight-day clocks
+- [Article VIII-D](../../../core_06.005_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — capability, not a birthday; “for your own good” is not, by itself, a valid lock
+- [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — family relationship is not authority over another sentient’s clinician
+- [Article III-B](../../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*) where the clinic switch is the price of enrollment
+- [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) only if the job lock is used to defeat lawful work Mika can actually do; do not drag the employer into a family-merits case it is not in
+- [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) and [Article XXVI-C](../../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) on the six- and eight-day clocks
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

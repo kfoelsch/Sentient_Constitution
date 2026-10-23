@@ -11,7 +11,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 2. **Clock lines** are steward procedure. Several repeat the Forbidden move in positive form (Proceed, Remedy, Emergency, Delay). Interpretation's Clock duplicates the interim posture already written in Chapter One §13.1.5 (lines ~329-332: preserve, freeze irreversible steps, do not manufacture a winner). Move the rest to the implementation cards and `implementation/steward_owner_clock_index.json`, which already carry clock notes.
 3. **Forbidden moves** are mostly principles the owning text already states (table below). A handful do not appear to be, and are the real decisions.
 4. **Functional Independence (Ch8)** is not in Owner/Forbidden/Clock form. It is a substantive seat-separation rule ("identify the seat you hold... do not verify your own act... if the needed seat is absent, preserve the record, name the gap, route to the published substitute"). Check whether Chapter Eight's body already says this; if not, promote it into the body rather than remove it.
-5. **Widget gap:** XXVI-C (`core_06.025_rights_part_e.md`) and Chapter Thirteen §6.1 (`core_13.000_forum.md`) are still bare blockquotes; the other 13 are in widgets. `TODO.md` says all were wrapped.
+5. **Widget gap:** XXVI-C (`core_06.020_rights_part_e.md`) and Chapter Thirteen §6.1 (`core_13.000_forum.md`) are still bare blockquotes; the other 13 are in widgets. `TODO.md` says all were wrapped.
 
 ## Per-box diff
 
@@ -49,7 +49,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 
 **What the wider text says.** The Authority Stack (Ch5, `core_05.045_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Sixteen §3.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIII-A the way it is in Article XVI.
 
-**The parallel that exists.** Article XVI (`core_06.015_rights_part_c.md` line 861) states: "**Adopted implementation text applies; it does not replace the floor.** ... They must satisfy layers 1-2. Deadline, secrecy, and local policy are lower-kind limits."
+**The parallel that exists.** Article XVI (`core_06.010_rights_part_c.md` line 861) states: "**Adopted implementation text applies; it does not replace the floor.** ... They must satisfy layers 1-2. Deadline, secrecy, and local policy are lower-kind limits."
 
 **Verdict.** A small real gap. The principle is implied but not written in XIII-A. The "now, not later / no permanent bar while a later process is promised" half of the box is steward procedure, not principle, and belongs in the implementation card (it is already what the JSON `clock_note` style carries).
 
@@ -114,7 +114,7 @@ Note: Proceed and Standing share one added sentence, so there are three drafted 
 
 Decision: the challenge window opens once the system has stakeholders. For high-impact systems there should almost always be a pilot, and the path opens when the pilot goes live.
 
-Note: Chapter Nine Parts A and B do not mention pilots at all (only two passing uses elsewhere: `core_05.040_band_continuity.md` ~3498 and `core_06.015_rights_part_c.md` ~1066). The pilot expectation is therefore new text, not a restatement.
+Note: Chapter Nine Parts A and B do not mention pilots at all (only two passing uses elsewhere: `core_05.040_band_continuity.md` ~3498 and `core_06.010_rights_part_c.md` ~1066). The pilot expectation is therefore new text, not a restatement.
 
 **Draft for Chapter Nine Part A §3.1** (not applied):
 

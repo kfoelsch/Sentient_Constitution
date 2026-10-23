@@ -1138,7 +1138,7 @@ flowchart TB
   - 违法或违宪的命令行为；
   - 隐瞒；
   - 报复；
-  - [妨碍问责](core_08_standing_assessment.md#232-violation-event-types)（资格模型中的事件类型，以及[第十一章 §5.11 妨碍问责：标准交互](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)指定的路由——并非独立的奖励例外）；或
+  - [妨碍问责](core_08_standing_assessment.md#232-violation-event-types)（资格模型中的事件类型，以及[第十一章 §5.11 妨碍问责：标准交互](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)指定的路由——并非独立的奖励例外）；或
   - 拒绝补救经核实的宪制伤害；或
 - 实质上依赖不当行为或其隐瞒的奖励途径，包括：
   - 薪酬、奖金、股权、任命、晋升或任期；
@@ -1308,7 +1308,7 @@ flowchart TB
 - **定期审查与纠正：**[审查与纠正义务](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **强化审查：**[§11.1 市场集中度阈值机制](core_01_a_values_principles.md#111-市场集中阈值机制由采纳方调整)以及 [§11.2 促进竞争与反支配](core_01_a_values_principles.md#112-促进竞争与防止支配)，当市场集中或支配具有重大影响时适用。
 - **资格与违规机制：**[第九章——贡献、违规与资格模型](core_08_standing_assessment.md)，当涉及经核实的认定时适用。
-- **反宪法不当行为：**[第十一章 §5.1 基于集中的颠覆：标准交互](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)，当集中或程序俘获构成反宪法不当行为时适用。
+- **反宪法不当行为：**[第十一章 §5.1 基于集中的颠覆：标准交互](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)，当集中或程序俘获构成反宪法不当行为时适用。
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 错位纠正与系统俘获应对

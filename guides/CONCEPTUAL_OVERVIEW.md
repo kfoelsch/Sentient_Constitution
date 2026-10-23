@@ -146,7 +146,7 @@ The rights themselves span the conditions that make agency possible:
 - Trustworthy systems
 - Justice and transition protections
 
-[Chapter Six’s opening](../core_06.005_rights_part_a.md#1-purpose-and-role) explains how this floor constrains later governance, measurement, certification, and implementation.
+[Chapter Six’s opening](../core_06.000_rights_part_a.md#1-purpose-and-role) explains how this floor constrains later governance, measurement, certification, and implementation.
 
 <a id="flourishing-and-its-principles"></a>
 ### Flourishing and its principles
@@ -181,7 +181,7 @@ flowchart TB
 
 Flourishing is stated as an outcome (wellbeing) and sustained by principles that depend on one another. **Safety** and **Truth** come first as non-negotiable constraints: systems may not foreseeably endanger sentients or deceive them. Both feed **Trust**, because reliance has to be earned on safe and honest ground, and Trust in turn supports **Freedom**, the bounded agency that lets sentients choose, dissent, organize, and leave. The arrows show how the principles build on one another. They do not rank the principles or override the integrated reading described in [Authority Stack and Internal Hierarchy](#authority-stack-and-internal-hierarchy).
 
-Their source is [Chapter One §2 Flourishing Aim: Introduction](../core_01.005_values_principles.md#2-flourishing-aim-introduction), which maps each principle to its Articles and definitions. The constraints themselves are stated in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth).
+Their source is [Chapter One §2 Flourishing Aim: Introduction](../core_01.000_values_principles.md#2-flourishing-aim-introduction), which maps each principle to its Articles and definitions. The constraints themselves are stated in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth).
 
 <a id="continuity-and-its-principles"></a>
 ### Continuity and its principles
@@ -223,7 +223,7 @@ flowchart TB
 
 Continuity opens with **shared-system capacity**, the ability to keep doing what a system is for. Capacity is a means toward Flourishing, never a trump card over safety, truth, rights, or ecology. **Resilience** keeps that capacity durable, and **market structure** keeps it contestable. **Systemic evaluation** comes last because it checks the whole: before anyone claims a system is compliant, safe, or well governed, someone must have looked at its dependencies and incentives, not just one part at one moment.
 
-Their source is [Chapter One §8 Continuity Aim: Introduction](../core_01.005_values_principles.md#8-continuity-aim-introduction), which maps each principle to its Articles and definitions. Where Continuity and Flourishing collide, they are weighed under [§13 Constitutional Collision Resolution Process](../core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+Their source is [Chapter One §8 Continuity Aim: Introduction](../core_01.000_values_principles.md#8-continuity-aim-introduction), which maps each principle to its Articles and definitions. Where Continuity and Flourishing collide, they are weighed under [§13 Constitutional Collision Resolution Process](../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 <a id="stewardship-pillars"></a>
 ### Stewardship: three pillars
@@ -251,9 +251,9 @@ flowchart TB
 
 The Tetrad says which duties keep a shared system legitimate. Stewardship is how those duties get carried by the people and institutions actually running it. All three pillars work together rather than in sequence, and each is bounded by Safety, Truth, Necessity, Proportionality, Avoidable Burden, and Epistemic Integrity — they operate within those constraints, not around them.
 
-Their source is [§16 Stewardship In Depth](../core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth). The steward role itself — the hands-on duties, the shared standard binding human and AI stewards alike, symmetric costly constraints, and role-scoped observability — lives at [§17 Consequential Stewardship: The Steward Role](../core_01.015_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role). The community and institutional facets of the third pillar are [§16.1 Distributed Understanding](../core_01.015_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../core_01.015_stewardship_capacity_principles.md#162-institutional-development).
+Their source is [§16 Stewardship In Depth](../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth). The steward role itself — the hands-on duties, the shared standard binding human and AI stewards alike, symmetric costly constraints, and role-scoped observability — lives at [§17 Consequential Stewardship: The Steward Role](../core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role). The community and institutional facets of the third pillar are [§16.1 Distributed Understanding](../core_01.010_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../core_01.010_stewardship_capacity_principles.md#162-institutional-development).
 
-This is a different sense of the word from [Article II: Material Stewardship and Durable-Use Integrity](../core_06.005_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity). Chapter One stewardship is about who operates shared systems and to what standard; Article II is a Rights Floor about how durable and network-dependent products are designed, described, and supported.
+This is a different sense of the word from [Article II: Material Stewardship and Durable-Use Integrity](../core_06.000_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity). Chapter One stewardship is about who operates shared systems and to what standard; Article II is a Rights Floor about how durable and network-dependent products are designed, described, and supported.
 
 <a id="rights-floor"></a>
 ### Rights Floor: five parts of Chapter Six
@@ -296,11 +296,11 @@ flowchart TB
 
 The five parts are different reading paths through the same floor:
 
-- [Part A](../core_06.005_rights_part_a.md) begins with planetary and material preconditions.
-- [Part B](../core_06.010_rights_part_b.md) turns to personal, cooperative, and stakeholder rights.
-- [Part C](../core_06.015_rights_part_c.md) governs trustworthy systems, security, information integrity, verification, lifecycle, and sandboxed innovation.
-- [Part D](../core_06.020_rights_part_d.md) governs standing, justice after verified violation, portability, comprehensibility, root-cause analysis, and interpretive review.
-- [Part E](../core_06.025_rights_part_e.md) governs conflict resolution and review, constitutional evolution, and transition.
+- [Part A](../core_06.000_rights_part_a.md) begins with planetary and material preconditions.
+- [Part B](../core_06.005_rights_part_b.md) turns to personal, cooperative, and stakeholder rights.
+- [Part C](../core_06.010_rights_part_c.md) governs trustworthy systems, security, information integrity, verification, lifecycle, and sandboxed innovation.
+- [Part D](../core_06.015_rights_part_d.md) governs standing, justice after verified violation, portability, comprehensibility, root-cause analysis, and interpretive review.
+- [Part E](../core_06.020_rights_part_e.md) governs conflict resolution and review, constitutional evolution, and transition.
 
 Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Articles XIII–XVIII in Part C and Articles XIX–XXV in Part D; Part E begins with Article XXVI.
 
@@ -899,7 +899,7 @@ Archival preserves evidence while ending ordinary active use. A forum may access
 
 ### Protection while sentience is uncertain
 
-When an entity’s sentience is materially disputed, the Constitution provides provisional inclusion, not a wait for certainty. Once a case is lawfully open, unresolved uncertainty must not withhold, narrow, or delay the Chapter Six Rights Floor; the burden of justifying withholding rests on the party seeking it, and a wrongful determination must be reversible. The merits forum must appoint an independent representative who is not materially dependent on the parent system, operator, or party seeking exclusion. This is the **Def.P1** / [Article VI-B](../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) pathway.
+When an entity’s sentience is materially disputed, the Constitution provides provisional inclusion, not a wait for certainty. Once a case is lawfully open, unresolved uncertainty must not withhold, narrow, or delay the Chapter Six Rights Floor; the burden of justifying withholding rests on the party seeking it, and a wrongful determination must be reversible. The merits forum must appoint an independent representative who is not materially dependent on the parent system, operator, or party seeking exclusion. This is the **Def.P1** / [Article VI-B](../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) pathway.
 
 That protection belongs to the entity. It does not shield an operator’s property or commercial interest, prevent compatible system containment or quarantine, or create Contribution Axis credit for the operator. The overview therefore treats inclusion and operator immunity as separate questions.
 
@@ -1013,7 +1013,7 @@ flowchart TB
 - "Promptly" has a length when someone is already under a measure. A hold, order, stay, or interim decision must be looked at by an independent reviewer inside the **prompt-review window**: 24 hours in Tier A, and 2, 4, 8, and 12 days in Tiers B, C, L, and P. It is a hard line, even in an emergency. See [Chapter Thirteen §6 Prompt review](../core_13.000_forum.md#prompt-review).
 - Restricted evidence does not slow the clock. Access disputes go first to a neutral **restricted information authority** ([CF-13.415 §8](../corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-8-restricted-information-authority)), which answers inside the matter's intake target. If it is slow, the matter goes on without the item.
 
-These are the [Chapter Thirteen §6](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
+These are the [Chapter Thirteen §6](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -1055,7 +1055,7 @@ The upper loop concerns **governing authority and its continuing accountability*
 
 There is a question prior to operating a governance process: **who is authorized to govern, over what, and on what terms?** [Chapter Fourteen](../core_14.000_governance.md) owns that constitutional authorization layer. Participation within an authorized system remains a separate obligation. A participation vote or standing score does not itself establish governing authority; the [Preamble’s two governance layers](../core_00.000_preamble.md#33-governance-layers) explain the distinction.
 
-Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Twelve anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Fourteen §4.1](../core_14.000_governance.md#41-entitlement-and-eligibility), [Chapter Eleven §§4.2 and 5.4](../core_11.000_standing_integration.md#42-prevention--general-standing-locks), and [Chapter Twelve §4.2](../core_12.005_misconduct_designation.md#42-prevention--anti-constitutional-locks).
+Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Twelve anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Fourteen §4.1](../core_14.000_governance.md#41-entitlement-and-eligibility), [Chapter Eleven §§4.2 and 5.4](../core_11.000_standing_integration.md#42-prevention--general-standing-locks), and [Chapter Twelve §4.2](../core_12.000_misconduct_designation.md#42-prevention--anti-constitutional-locks).
 
 The final chapters preserve the Constitution as it changes and is put into use:
 
@@ -1221,8 +1221,8 @@ The [Preamble’s complexity orientation](../core_00.000_preamble.md#complexity-
 
 For your next step, choose the connection you need:
 
-- **Understand the purpose:** read the [Preamble’s model](../core_00.000_preamble.md#the-model), then [Chapter One’s values](../core_01.005_values_principles.md).
-- **Understand a protection:** enter through the [Rights Floor](../core_06.005_rights_part_a.md) and follow the relevant article’s source links.
+- **Understand the purpose:** read the [Preamble’s model](../core_00.000_preamble.md#the-model), then [Chapter One’s values](../core_01.000_values_principles.md).
+- **Understand a protection:** enter through the [Rights Floor](../core_06.000_rights_part_a.md) and follow the relevant article’s source links.
 - **Understand a real situation:** choose an [easy-entry brief](../implementation/adoption/easy_entry/README.md), then follow it to the operative provisions and required read-with material.
 - **Apply or verify a claim:** use the [lookup guide](../ai_corpus/AI_NAVIGATION_GUIDE.md) to locate and read authentic source spans, including required dependencies.
 - **Keep to a time budget:** return to the README's [reading paths](../README.md#reading-paths).

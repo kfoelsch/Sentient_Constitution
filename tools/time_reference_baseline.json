@@ -3,43 +3,43 @@
   "note": "Time references that predate TIME-REF-01 and do not yet name a bound kind and a tier or class (or a registered fixed period). Shrink this list; do not grow it. Regenerate with --write-baseline only when removing entries.",
   "known": [
     {
-      "key": "core_06.010_rights_part_b.md::duration::6fc701d5e5f0",
+      "key": "core_06.005_rights_part_b.md::duration::6fc701d5e5f0",
       "snippet": "The independent review above must begin inside the prompt-review window ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti"
     },
     {
-      "key": "core_06.015_rights_part_c.md::duration::2b90d6a4fcc4",
+      "key": "core_06.010_rights_part_c.md::duration::2b90d6a4fcc4",
       "snippet": "One ordinary term: Expressive and functional works share the same ordinary outer term: 30 years from the point the work is made public."
     },
     {
-      "key": "core_06.015_rights_part_c.md::duration::3d2c03ed5054",
+      "key": "core_06.010_rights_part_c.md::duration::3d2c03ed5054",
       "snippet": "In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee."
     },
     {
-      "key": "core_06.015_rights_part_c.md::duration::45ffef9ec2a0",
+      "key": "core_06.010_rights_part_c.md::duration::45ffef9ec2a0",
       "snippet": "Exclusive phase: For no more than disclosure+15 years, the right-holder may refuse permission to others."
     },
     {
-      "key": "core_06.015_rights_part_c.md::duration::5038f1e18848",
+      "key": "core_06.010_rights_part_c.md::duration::5038f1e18848",
       "snippet": "A non-commercial draft or unpublished expressive work that has made an initial appearance may receive copyright-like exclusion for no more t"
     },
     {
-      "key": "core_06.015_rights_part_c.md::duration::71f7c3aa3257",
+      "key": "core_06.010_rights_part_c.md::duration::71f7c3aa3257",
       "snippet": "Open-licensing phase: From the end of the exclusive phase until no later than disclosure+30 years, anyone may use the invention without the "
     },
     {
-      "key": "core_06.015_rights_part_c.md::duration::81abb97e1f34",
+      "key": "core_06.010_rights_part_c.md::duration::81abb97e1f34",
       "snippet": "A published work should presumptively receive no more than publication+30 years of exclusion."
     },
     {
-      "key": "core_06.015_rights_part_c.md::duration::8ed67ff323f9",
+      "key": "core_06.010_rights_part_c.md::duration::8ed67ff323f9",
       "snippet": "*In plain terms: creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication —"
     },
     {
-      "key": "core_06.020_rights_part_d.md::duration::084185556035",
+      "key": "core_06.015_rights_part_d.md::duration::084185556035",
       "snippet": "Transition: A system already in operation when this sub-article first applies to it must disclose a migration plan and meet the interoperabi"
     },
     {
-      "key": "core_06.025_rights_part_e.md::duration::c72e411e8f31",
+      "key": "core_06.020_rights_part_e.md::duration::c72e411e8f31",
       "snippet": "Attainment is measured, not asserted: attainment and readiness must be shown by a Rights-Floor attainment ledger that is independently verif"
     },
     {

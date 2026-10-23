@@ -212,9 +212,9 @@ class Ch1Cjs3AlignmentAuditor:
             marker in text
             for marker in (
                 "core_00.000_preamble.md",
-                "core_01.005_values_principles.md",
-                "core_01.010_interaction_interpretation.md",
-                "core_01.015_stewardship_capacity_principles.md",
+                "core_01.000_values_principles.md",
+                "core_01.005_interaction_interpretation.md",
+                "core_01.010_stewardship_capacity_principles.md",
             )
         ):
             refs.add("linked")

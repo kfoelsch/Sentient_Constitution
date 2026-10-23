@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# অধ্যায় সাত: কার্যগত স্বাধীনতা ও দায়িত্বের পৃথকীকরণ
+# অধ্যায় সাত: কার্যগত স্বাধীনতা এবং কর্তব্য পৃথকীকরণ
 
 <details>
 <summary><strong><span style="color: #2563eb;">করপাসে অবস্থান (অপারেশনাল নয়): ফাইলের কাঠামো ও পাঠের নিয়ম</span></strong></summary>
 
-> এই ফাইলটি **Sentient Constitution-এর অংশ** এবং একটিমাত্র দলিল হিসেবে পড়া অন্যান্য নম্বরযুক্ত `core_*` ফাইলের **সঙ্গে একত্রে পড়লেই কেবল বাধ্যতামূলক**। এতে রয়েছে **অধ্যায় সাত**: কার্যগত স্বাধীনতা ও দায়িত্ব পৃথকীকরণের আন্তঃপ্রক্রিয়া ন্যূনতম মান। এটি অধ্যায় ছয়ের অধিকার-ভিত্তির পরে এবং [অধ্যায় আটের সিস্টেম-সামঞ্জস্য প্রত্যয়ন](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) দিয়ে শুরু হওয়া সাংবিধানিক প্রক্রিয়া-অধ্যায়গুলোর আগে আসে।
+> এই ফাইলটি **Sentient Constitution-এর অংশ** এবং একটিমাত্র দলিল হিসেবে পড়া অন্যান্য নম্বরযুক্ত `core_*` ফাইলের **সঙ্গে একত্রে পড়লেই কেবল বাধ্যতামূলক**। এতে রয়েছে **অধ্যায় সাত**: কার্যগত স্বাধীনতা ও কর্তব্য পৃথকীকরণের আন্তঃপ্রক্রিয়া ন্যূনতম মান। এটি অধ্যায় ছয়ের অধিকার-ভিত্তির পরে এবং [অধ্যায় আটের সিস্টেম-সামঞ্জস্য প্রত্যয়ন](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) দিয়ে শুরু হওয়া সাংবিধানিক প্রক্রিয়া-অধ্যায়গুলোর আগে আসে।
 >
 > - **সাংবিধানিক মালিকানা:** বস্তুগতভাবে বাধ্যতামূলক কাজের জন্য পৃথক আসনের ন্যূনতম মান; প্রতিটি [বস্তুগতভাবে বাধ্যতামূলক কাজের নথি](../../core_05_band_accountability.md#materially-binding-act-record)-র সর্বজনীন ন্যূনতম বিষয়বস্তু; কর্তা এবং তার [বস্তুগত নিয়ন্ত্রণ-রেখা](../../core_05_band_accountability.md#material-control-line) থেকে স্বাধীনতা; প্রকাশিত পথ ও ভূমিকা-বিন্যাস; স্বার্থের সংঘাত, শূন্যপদ, বিকল্প নিয়োগ এবং ভুল আসনে প্রেরণ; আনুপাতিক সম্মিলিত ব্যবস্থাপনা; দায় আরোপযোগ্য হস্তান্তর; এবং পরবর্তী প্রতিটি সাংবিধানিক প্রক্রিয়ার প্রয়োগযোগ্য ন্যূনতম স্বাধীনতার শর্ত।
 > - **নীতিস্তরের উৎস:** [অধ্যায় এক §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) শাসনব্যবস্থাকে কার্যগত স্বাধীনতা বজায় রাখতে বলে এবং কার্যকর আসন-স্থাপত্যের নিয়ম এখানে নির্দেশ করে।
@@ -20,14 +20,14 @@
 
 - পূর্বসূত্র: [সাংবিধানিক চতুষ্টয়](../../core_00_preamble.md#constitutional-tetrad) — বিশেষত **তদারকি** ও **জবাবদিহি**; [বস্তুগত স্বার্থ](../../core_00_preamble.md#material-stake); [অধ্যায় এক §17.1 যৌথ তত্ত্বাবধানের মান](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন, অধ্যায় এক §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [অনুচ্ছেদ XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*)।
 - উপধারা: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes)।
-- পরবর্তী: [অধ্যায় আট](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [অধ্যায় নয়](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অধ্যায় বারো](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [অধ্যায় তেরো](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); উপরে উল্লিখিত নির্দিষ্ট বাস্তবায়ন-পাঠ।
+- পরবর্তী: [অধ্যায় আট](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [অধ্যায় নয়](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অধ্যায় বারো](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [অধ্যায় তেরো](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); উপরে উল্লিখিত নির্দিষ্ট বাস্তবায়ন-পাঠ।
 - সঙ্গে পড়ুন: [অসামঞ্জস্য শনাক্তকরণ, অধ্যায় এক §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*বহুপক্ষীয় শনাক্তকরণ ও পর্যালোচনা*); [দায় আরোপযোগ্য কাজ](../../core_05_band_accountability.md#attributable-action); [দায়-আরোপের অখণ্ডতা](../../core_05_band_accountability.md#attribution-integrity); [নিরীক্ষাযোগ্যতা](../../core_05_band_oversight.md#auditability); [আপত্তিযোগ্যতা](../../core_05_band_accountability.md#contestability); [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality)।
 
 </details>
 
 <br>
 
-অধ্যায় সাত হলো **বস্তুগতভাবে বাধ্যতামূলক কাজের জন্য কার্যগত স্বাধীনতা ও দায়িত্ব পৃথকীকরণের ন্যূনতম মানের সাংবিধানিক মালিক**।
+অধ্যায় সাত হলো **বস্তুগতভাবে বাধ্যতামূলক কাজের জন্য কার্যগত স্বাধীনতা ও কর্তব্য পৃথকীকরণের ন্যূনতম মানের সাংবিধানিক মালিক**।
 
 <a id="1-purpose-scope-and-owner-boundary"></a>
 ### 1. উদ্দেশ্য, পরিধি ও মালিকানার সীমানা
@@ -66,7 +66,7 @@
 - নির্দিষ্ট বাস্তবায়ন-পাঠ থেকে অপারেশনাল আসন-তালিকা, কর্মী নিয়োগ-পদ্ধতি ও পথ-মানচিত্রের কার্যপদ্ধতি।
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. চার-আসনের সাংবিধানিক ন্যূনতম মান
+### 2. চার-সিটের সাংবিধানিক প্রয়োজনীয়তা
 
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-অনুসরণ</span></strong></summary>
@@ -350,7 +350,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">সূত্র-অনুসরণ</span></strong></summary>
 
 - পূর্বসূত্র: [§1](#1-purpose-scope-and-owner-boundary) থেকে [§8](#8-act-records-and-attributable-handoffs)।
-- পরবর্তী: [অধ্যায় আট](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [অধ্যায় নয়](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অধ্যায় বারো](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [অধ্যায় তেরো](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)।
+- পরবর্তী: [অধ্যায় আট](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [অধ্যায় নয়](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অধ্যায় বারো](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [অধ্যায় তেরো](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)।
 - সঙ্গে পড়ুন: [কর্তৃত্বের স্তর ও অভ্যন্তরীণ শ্রেণিবিন্যাস](../../core_05_band_integrative.md#owner-non-relocation) এবং [প্রস্তাবনার মালিকানা-তালিকা](../../core_00_preamble.md#4-principles-definitions-and-rights)।
 
 </details>

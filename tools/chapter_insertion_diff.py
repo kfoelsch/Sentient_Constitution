@@ -12,13 +12,13 @@ import re
 
 PATH_RENAMES = {
     "core_08-11_application_vignettes.md": "core_10.005_application_vignettes.md",
-    "core_07_a_system_alignment_certification_evaluation.md": "core_09.005_system_alignment_certification_evaluation.md",
-    "core_07_b_system_alignment_certification_record_process.md": "core_09.010_system_alignment_certification_record_process.md",
-    "core_07_system_alignment_certification.md": "core_09.000_system_alignment_certification.md",
+    "core_07_a_system_alignment_certification_evaluation.md": "core_09.000_system_alignment_certification_evaluation.md",
+    "core_07_b_system_alignment_certification_record_process.md": "core_09.005_system_alignment_certification_record_process.md",
+    "core_07_system_alignment_certification.md": "core_09.000_system_alignment_certification_evaluation.md",
     "core_08_standing_assessment.md": "core_10.000_standing_assessment.md",
     "core_09_standing_integration.md": "core_11.000_standing_integration.md",
-    "core_10_a_misconduct_designation.md": "core_12.005_misconduct_designation.md",
-    "core_10_b_misconduct_pattern_applications.md": "core_12.010_misconduct_pattern_applications.md",
+    "core_10_a_misconduct_designation.md": "core_12.000_misconduct_designation.md",
+    "core_10_b_misconduct_pattern_applications.md": "core_12.005_misconduct_pattern_applications.md",
     "core_11_forum.md": "core_13.000_forum.md",
     "core_12_governance.md": "core_14.000_governance.md",
     "core_13_non_regression.md": "core_15.000_non_regression.md",
@@ -122,7 +122,7 @@ def forward_insert_chapter_seven(text: str) -> str:
     text = _replace_paths(text)
     text = _replace_chapter_references(text)
     text = text.replace(
-        "core_01.015_stewardship_capacity_principles.md#102-separation-of-duties",
+        "core_01.010_stewardship_capacity_principles.md#102-separation-of-duties",
         "core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement",
     )
     text = text.replace(

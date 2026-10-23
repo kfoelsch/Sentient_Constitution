@@ -1135,7 +1135,7 @@ CS-6 (*आकलनक्षमता आणि गुंतागुंती�
 <summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
 - पूर्वस्रोत: तत्त्वे: अध्याय एक [§13.1.5 हक्क-संघर्ष निर्णय कसोटी](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 पालकत्व-अनुशासनांतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-सरकषकत-शसतखलल-शसन), आणि [§20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एकतमक-अनपरयग).
-- यासह वाचा: [अध्याय दहा §5.5](core_09_standing_integration.md#55-special-locks) (*मंचातील हितसंबंध-संघर्ष प्रकटीकरण वगळणे आणि अपात्रता-प्रक्रियेचा परिणाम*); [अध्याय अकरा §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*नामनिर्दिष्ट गैरवर्तन पॅटर्न*); [अध्याय बारा §2](core_11_forum.md#2-default-venue-and-primary-stakes) आणि [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*अखंडता-प्रथम मार्गीकरण आणि स्वतःच न्यायनिवाडा करण्याविरोधी नियम*).
+- यासह वाचा: [अध्याय दहा §5.5](core_09_standing_integration.md#55-special-locks) (*मंचातील हितसंबंध-संघर्ष प्रकटीकरण वगळणे आणि अपात्रता-प्रक्रियेचा परिणाम*); [अध्याय अकरा §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*नामनिर्दिष्ट गैरवर्तन पॅटर्न*); [अध्याय बारा §2](core_11_forum.md#2-default-venue-and-primary-stakes) आणि [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*अखंडता-प्रथम मार्गीकरण आणि स्वतःच न्यायनिवाडा करण्याविरोधी नियम*).
 
 </details>
 

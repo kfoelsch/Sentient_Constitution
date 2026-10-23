@@ -83,7 +83,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§3 هدف اساسی: رفاه](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§ 19 تراز مشوق و جذب سیستم](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه).
+- بالادست: اصول: فصل اول [§3 هدف اساسی: رفاه](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§ 19 تراز مشوق و جذب سیستم](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه).
 
 </details>
 
@@ -144,7 +144,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - بخوانید با: [تتراد مشروطه](core_00_preamble.md#constitutional-tetrad); [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) - **شکوفا شدن** و **تداوم**; [صدور گواهینامه تراز سیستم](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) و **ماده III-A** (*Survival*) که در آن اتکای مداوم به سیستم بر دسترسی ضروری بقا تأثیر می گذارد. [**ماده XIII-B**](#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت) (*حق جبران و درمان*) برای اینکه یک چالش موفق باید به چه چیزی منجر شود.
 
 </details>
@@ -193,7 +193,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§6.1 تصحیح و درمان](core_01_a_values_principles.md#61-correction-and-remedy) (طبقه اصلی)، [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، و [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- بالادست: اصول: فصل اول [§6.1 تصحیح و درمان](core_01_a_values_principles.md#61-correction-and-remedy) (طبقه اصلی)، [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، و [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - بخوانید با: [**ماده XIII-A**](#ماده-xiii-a-پایایی-و-قابلیت-اطمینان) (*پایه قابلیت اطمینان و اعتماد*) - ضمانت رقابت پذیری، حق اعتراض و گزارش محافظت شده که راه را برای جبران باز می کند. **ماده III-A** (*بقا*)؛ [صدور گواهینامه تراز سیستم](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) در جایی که شکست یا عدم همسویی سیستم، دسترسی ضروری بقا را از بین می‌برد. [مقدمه §6.2 چگونه زنجیر کامل با هم قرار می گیرد](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*طبقه بندی تایید شده و درمان به موقع*)؛ [فصل دهم §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*واقع گرایی اجرایی و سیستم های درمان*)؛ [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*سیستم های جبران خسارت و ظرفیت رسیدگی سازمانی*).
 
 </details>
@@ -231,7 +231,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی).
 
 </details>
 
@@ -262,7 +262,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)، و [§19.1.1 آنچه مشوق ها باید انجام دهند](core_01_c_stewardship_capacity_principles.md#1911-مشوقها-باید-چه-کنند) (*اولویت پاداش*).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)، و [§19.1.1 آنچه مشوق ها باید انجام دهند](core_01_c_stewardship_capacity_principles.md#1911-مشوقها-باید-چه-کنند) (*اولویت پاداش*).
 
 </details>
 
@@ -311,7 +311,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 
 </details>
 
@@ -362,7 +362,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [10 طراحی تاب آوری و خوددرمانی](core_01_a_values_principles.md#10-resilience-and-self-healing-design)، [فصل اول §13.3 به حداقل رساندن بار قابل اجتناب](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [10 طراحی تاب آوری و خوددرمانی](core_01_a_values_principles.md#10-resilience-and-self-healing-design)، [فصل اول §13.3 به حداقل رساندن بار قابل اجتناب](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -411,7 +411,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§3 هدف اساسی: رفاه](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
+- بالادست: اصول: فصل اول [§3 هدف اساسی: رفاه](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 
 </details>
 
@@ -462,7 +462,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§7.1 نظم و انضباط محدودیت](core_01_a_values_principles.md#71-limitation-discipline)، و [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§7.1 نظم و انضباط محدودیت](core_01_a_values_principles.md#71-limitation-discipline)، و [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 
 </details>
 
@@ -555,7 +555,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#۱۳۱۱-ضرورت)، [§7.1 نظم و انضباط محدودیت](core_01_a_values_principles.md#71-limitation-discipline)، [§13.1.5 آزمون تصمیم گیری حقوق-برخورد](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§14 ممنوعیت لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#۱۳۱۱-ضرورت)، [§7.1 نظم و انضباط محدودیت](core_01_a_values_principles.md#71-limitation-discipline)، [§13.1.5 آزمون تصمیم گیری حقوق-برخورد](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§14 ممنوعیت لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - پایین دست: **ماده I-A** (*پیش شرط های زیست محیطی و یکپارچگی زیست محیطی*) پیش شرط های زیست محیطی، **ماده I-D** (*خطر وجودی و ظرفیت بازیابی زیست محیطی*) بررسی دقیق خطر وجودی، **ماده VI-A** (*کرامت و جایگاه اخلاقی برابر*) کرامت، **ماده XIV-A** (*امنیتی، اطلاعاتی، و محدودیت های قدرت پنهان*) محدودیت های قدرت پنهان (همتای قدرت آشکار)، **فصل دوازدهم §6.1** (*اقدامات اضطراری و بار ادامه دار*) محدودیت های اقدامات اضطراری، **ماده XXV** (*بررسی گذشته نگر به موقع و تراز ترمیمی*) حل تعارض، **ماده XXVII** (*حکومت گذار، تداوم، و پایه گذاری مجدد*) حکومت گذار. ارجاع متقابل: **ماده XX-B** (*طبقات محدودیت*) و فصل پنجم *[اقدام محرومیت غیر قابل برگشت](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **ماده XIV** (*امنیت، اطلاعات، نیرو، و سیستم های اجباری خودمختار*) نظم *عدم اختلاط* اعمال می شود.
 - بخوانید با: [**Def.A4** *استفاده از زور، اجبار خودمختار، سیستم های مرگبار خودمختار، و سلاح های آسیب انبوه*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (دعای مشترک در مواردی که دخیل مادی باشد)؛ فصل پنجم *استفاده از زور*، *سلاح های آسیب جمعی*، *تمایز رزمنده/غیر رزمنده*، *[اقدام محرومیت غیر قابل برگشت](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*، *ریسک وجودی*، *بازگشت*پذیری*، *رفع و اصلاح*.
 
@@ -621,7 +621,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§13.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-تناسب)، [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#۱۳۱۱-ضرورت)، [§19.1 الزامات تراز](core_01_c_stewardship_capacity_principles.md#191-الزام-همراستایی)، [§14 ممنوعیت لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§13.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-تناسب)، [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#۱۳۱۱-ضرورت)، [§19.1 الزامات تراز](core_01_c_stewardship_capacity_principles.md#191-الزام-همراستایی)، [§14 ممنوعیت لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - پایین دست: **ماده I-D** (*خطر وجودی و ظرفیت بازیابی زیست محیطی*) بررسی دقیق خطر وجودی، **ماده X-A** (*آژانس و آزادی از دستکاری*) آزادی از دستکاری، **ماده XIV-A** (*امنیتی، اطلاعاتی، و محدودیت های قدرت پنهان*) محدودیت های قدرت پنهان، **ماده XIV-B** (*استفاده از نیرو، درگیری های مسلحانه و محدودیت های قدرت نظامی*) طبقه نیروی آشکار، **ماده XIII-A** (*پایه قابلیت اطمینان و اعتماد*) خط پایه قابلیت اطمینان و اعتماد (همتای لایه سیستم)، **ماده XIII-E** (*سیستم های خودمختار بالا و یکپارچگی فرآیند با واسطه ابزار*) خودمختاری- سرپرستی و مقیاس پذیری خودمختاری، **ماده XIII-ف** (*پایه تاب آوری و خود درمانی*) پایه تاب آوری و خوددرمانی. ارجاع متقابل: **ماده XX-B** (*طبقات محدودیت*) و فصل پنجم *[اقدام محرومیت غیر قابل برگشت](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **ماده XIV** (*امنیت، اطلاعات، نیرو، و سیستم های اجباری خودمختار*) نظم *عدم اختلاط* اعمال می شود.
 - بخوانید با: [**Def.A4** *استفاده از زور، اجبار خودمختار، سیستم های مرگبار خودمختار، و سلاح های آسیب انبوه*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (دعای مشترک در مواردی که دخیل مادی باشد)؛ فصل پنجم *سیستم مرگبار خودکار*، *ابزار اجباری خودگردان*، *[اقدام محرومیت غیر قابل برگشت](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*، *اجبار و دستکاری*، *بازگشت*. پیاده سازی لایه سیستم: **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** طبقه بندی
 
@@ -723,7 +723,7 @@ flowchart TB
 *همسایگان مقاله:*
 
 - **با هم بخوانید:** **ماده XIII** (*حق داشتن سیستم های قابل اعتماد و قابل اعتماد*) که در آن سیستم خروجی ها اتکا را شکل می دهد. **ماده XVI** (*حسابرسی، شفافیت و تأیید مستقل*) برای سوابق و تأیید مستقل؛ **ماده XV-D** (*انتشار علمی، بررسی، و یکپارچگی تکرار*) که در آن یکپارچگی با محدوده انتشار به طور مادی دخیل است.
-- **محدودیت حقیقت:** فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint) و [محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی) هر بخش فرعی را در اینجا مقید کنید.
+- **محدودیت حقیقت:** فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) و [محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی) هر بخش فرعی را در اینجا مقید کنید.
 - **طبقه بندی:** **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** تعهدات حوزه اطلاعات دقیق را برای **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها؛ [تاثیر مواد](core_05_band_oversight.md#مادی-impact) در جایی که کلاس نامنظم است، طبقه بندی را آغاز می کند.
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
@@ -731,7 +731,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -766,7 +766,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
@@ -804,7 +804,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -839,7 +839,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
@@ -892,7 +892,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، [§16.1 تفاهم توزیع شده](core_01_c_stewardship_capacity_principles.md#۱۶۱-فهم-توزیعشده)، و [§9 ظرفیت سیستم مشترک](core_01_a_values_principles.md#۹-ظرفیت-سامانه-مشترک).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، [§16.1 تفاهم توزیع شده](core_01_c_stewardship_capacity_principles.md#۱۶۱-فهم-توزیعشده)، و [§9 ظرفیت سیستم مشترک](core_01_a_values_principles.md#۹-ظرفیت-سامانه-مشترک).
 - بخوانید با: [تصویر ممیزی سه لایه](#audit-three-layers) زیر
 
 </details>
@@ -981,7 +981,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
@@ -1007,7 +1007,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول § 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول § 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 
 </details>
 
@@ -1066,7 +1066,7 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، [§16 سرپرستی در عمق](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، و [§12 الزامات ارزیابی سیستمیک](core_01_a_values_principles.md#12-الزام-ارزیابی-نظاممند).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، [§16 سرپرستی در عمق](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، و [§12 الزامات ارزیابی سیستمیک](core_01_a_values_principles.md#12-الزام-ارزیابی-نظاممند).
 
 </details>
 
@@ -1116,7 +1116,7 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
@@ -1144,7 +1144,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1182,7 +1182,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
@@ -1212,7 +1212,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§ 19 تراز مشوق و جذب سیستم](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§ 19 تراز مشوق و جذب سیستم](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه).
 
 </details>
 
@@ -1242,7 +1242,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1275,7 +1275,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه).
 
 </details>
 
@@ -1309,7 +1309,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- بالادست: اصول: فصل اول [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
@@ -1338,7 +1338,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
+- بالادست: اصول: فصل اول [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 
 </details>
 

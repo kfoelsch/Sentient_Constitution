@@ -126,7 +126,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 - Origem: Princípios: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — escalonamento pela [aposta material](core_00_preamble.md#material-stake).
 - Componente de aglomerado: [*Impacto material, determinação de materialidade, governança escalada à classificação, supervisão e exigência de capacidade*](../../core_05.050_band_oversight.md#materiality-semi-independent).
 - Ler com: [Dependência](../../core_05.040_band_continuity.md#dependency), [Impacto material](../../core_05.050_band_oversight.md#material-impact), [Risco](../../core_05.040_band_continuity.md#risk), [Integridade do limite do sistema](../../core_05.040_band_continuity.md#system-boundary-integrity) e [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional).
-- Destino: [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — dever de avaliação do sistema inteiro escalado à classe.
+- Destino: [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — dever de avaliação do sistema inteiro escalado à classe.
 
 </details>
 
@@ -148,7 +148,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 - **Como medir e avaliar**
   - **Medida primária:** [Família de medição Supervisão](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Podem os sencientes ver, verificar e confiar no que os sistemas representam?* Use-a aqui para perguntar se a profundidade de supervisão e a carga de verificação coincidem com a aposta, o impacto, a dependência e o risco reais do sistema — não com uma classe baixa autoatribuída.
 
-    **Avaliação primária:** Use a classe real sob as regras de implementação, lida com a [Determinação de materialidade](../../core_05.050_band_oversight.md#materiality-determination) e a [Integridade do limite do sistema](../../core_05.040_band_continuity.md#system-boundary-integrity). Uma classe baixa autoatribuída ou informal não basta quando os efeitos plenos do sistema pedem [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) ou governança mais fortes. A revisão do sistema inteiro sob [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) escala por classe:
+    **Avaliação primária:** Use a classe real sob as regras de implementação, lida com a [Determinação de materialidade](../../core_05.050_band_oversight.md#materiality-determination) e a [Integridade do limite do sistema](../../core_05.040_band_continuity.md#system-boundary-integrity). Uma classe baixa autoatribuída ou informal não basta quando os efeitos plenos do sistema pedem [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) ou governança mais fortes. A revisão do sistema inteiro sob [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) escala por classe:
     - **Class A**, **Class B** e **Class C** — profundidade plena, obrigatória;
     - **Class L** — obrigatória, mas dimensionada ao impacto; e
     - **Class P** — encorajada enquanto o sistema for validamente **Class P**.
@@ -192,7 +192,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
   - **Responsáveis:** **Artigo VI** (*Direitos Básicos Iguais*), **Artigo X** (*Autodeterminação, Agência e Participação*), **Artigo XII** (*Participação, Representação e Devido Processo no Sistema de Partes Interessadas*) e Capítulo Oito.
 <a id="domain-specific-materiality-livelihood"></a>
 - **Meios de subsistência e condições econômicas:** *Outras pessoas dependem da Parte Operadora para obter renda ou dependem dos preços e condições que ela estabelece para algo de que precisam?*
-  - **É material quando:** a Parte Operadora é uma fonte importante de renda de outras pessoas como empregador, pagador, comprador ou plataforma; define preços ou condições de algo de que outras pessoas precisam e que não podem substituir facilmente; ou detém poder de mercado conforme descrito no [Capítulo Um §11 Estrutura de mercado](../../core_01.005_values_principles.md#11-market-structure).
+  - **É material quando:** a Parte Operadora é uma fonte importante de renda de outras pessoas como empregador, pagador, comprador ou plataforma; define preços ou condições de algo de que outras pessoas precisam e que não podem substituir facilmente; ou detém poder de mercado conforme descrito no [Capítulo Um §11 Estrutura de mercado](../../core_01.000_values_principles.md#11-market-structure).
   - **Não é material:** trocas ocasionais das quais as partes podem sair e comércio comum em que a Parte Operadora não consegue moldar as condições do mercado.
   - **Responsáveis:** **Artigo III-C** (*Trabalho e piso econômico*) e **Artigo V** (*Alocação de recursos, dependências e financiamento de ecossistemas*).
 <a id="domain-specific-materiality-custody"></a>
@@ -286,7 +286,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
     - proteção de fontes;
     - investigação; e
     - publicação.
-    Sencientes que fazem esse trabalho exercem o Piso de Direitos de [Expressão](../../core_05.055_band_participation.md#expression-constitutional) e [Reunião](../../core_05.055_band_participation.md#assembly-constitutional), com proteção de escrutínio elevado sob o [Artigo V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expressão, reunião e imprensa*) contra ações de Estado e de operador feitas para prejudicar essa atividade.
+    Sencientes que fazem esse trabalho exercem o Piso de Direitos de [Expressão](../../core_05.055_band_participation.md#expression-constitutional) e [Reunião](../../core_05.055_band_participation.md#assembly-constitutional), com proteção de escrutínio elevado sob o [Artigo V-H](../../core_06.005_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expressão, reunião e imprensa*) contra ações de Estado e de operador feitas para prejudicar essa atividade.
   - **Fora do âmbito:** credenciais de imprensa, títulos institucionais ou fala comercial ordinária que não seja coleta de notícias, investigação ou publicação que funcione como jornalismo.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Como medir e avaliar**

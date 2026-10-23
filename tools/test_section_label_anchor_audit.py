@@ -71,7 +71,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
                 "**Duty to resist.**\n",
                 encoding="utf-8",
             )
-            citing = root / "core_01.015_stewardship_capacity_principles.md"
+            citing = root / "core_01.010_stewardship_capacity_principles.md"
             citing.write_text(
                 "[Chapter Ten §5.4 Duty to resist]"
                 "(core_11.000_standing_integration.md"
@@ -95,7 +95,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
                 "**Duty to resist.**\n",
                 encoding="utf-8",
             )
-            (root / "core_01.015_stewardship_capacity_principles.md").write_text(
+            (root / "core_01.010_stewardship_capacity_principles.md").write_text(
                 "[Chapter Ten §5.4 Duty to resist]"
                 "(core_11.000_standing_integration.md"
                 "#54-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",

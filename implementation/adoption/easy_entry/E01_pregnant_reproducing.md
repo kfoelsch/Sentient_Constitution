@@ -39,13 +39,13 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The lease ends in days. A relative offers a spare room, food, and rides if you quit the job, switch clinics, and agree in advance that “the family” will decide living arrangements after the birth, including whether the infant stays with you.
 - **With this Constitution:** The spare room, food, and rides cannot be offered only if you quit work, give up the clinician you chose, or agree in advance that “the family” will decide after the birth — including whether the infant stays with you. Using housing or survival help as the price of those decisions is a violation of this protection, not ordinary family terms you can refuse.
 
-See: [Reproductive Autonomy](../../../core_05.055_band_participation.md#reproductive-autonomy); [Article VIII-B](../../../core_06.010_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy).
+See: [Reproductive Autonomy](../../../core_05.055_band_participation.md#reproductive-autonomy); [Article VIII-B](../../../core_06.005_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy).
 
 **Being family is not a title over your body or your future infant.**
 - **Today:** “We’re family” is treated as authority to pick the clinician, the household, and who keeps the child.
 - **With this Constitution:** You own your body and mind. Family relationship is not authority over you or the child. Association has to rest on real consent, not a take-it-or-leave-it survival bargain.
 
-See: [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-F](../../../core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association).
+See: [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-F](../../../core_06.005_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association).
 
 **A concern report is waiting to be looked at, not already a verdict.**
 - **Today:** If you refuse, they say they will report that the baby will not be safe. They file. You dispute it. No neglect has been verified. No independent case is open. Once someone files, you are already “in the system,” and silence or refusal is treated as proof.
@@ -57,11 +57,11 @@ See: [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-
 - **Today:** Work is irregular; the scheduler will not move a shift that collides with the prenatal appointment you chose. The only housing on the clock is the conditioned offer, so “choose” means accept the strings.
 - **With this Constitution:** A body that has agreed to follow this Constitution is supposed to route rest-breaks and reports of pressure without making unpaid care the price of staying housed.
 
-See: [Article III-A](../../../core_06.005_rights_part_a.md#article-iii-a-survival); [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md).
+See: [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival); [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md).
 
 ## What you might reasonably object to
 
-- **“They’ll still take the baby.”** This text does not freeze every later care question in your favor. After a child exists, [Article VIII-D](../../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) attaches to the child — their interests, not only yours and not only the relative’s. What it will not do now is treat your “no” to the spare room’s terms — quit the job, switch clinicians, let “the family” decide who keeps the infant — as proof that the baby is unsafe, or as a reason to take the child. Someone still has to check actual facts. A later verified finding can still change who cares for the child.
+- **“They’ll still take the baby.”** This text does not freeze every later care question in your favor. After a child exists, [Article VIII-D](../../../core_06.005_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) attaches to the child — their interests, not only yours and not only the relative’s. What it will not do now is treat your “no” to the spare room’s terms — quit the job, switch clinicians, let “the family” decide who keeps the infant — as proof that the baby is unsafe, or as a reason to take the child. Someone still has to check actual facts. A later verified finding can still change who cares for the child.
 
 - **“This isn’t law where I live.”** Correct, until a body that can bind its systems records a formal agreement to follow this Constitution. Until then this may guide; it has no independent power against a landlord, clinic, or relative who did not agree ([Chapter Eighteen §4](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority); [Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 

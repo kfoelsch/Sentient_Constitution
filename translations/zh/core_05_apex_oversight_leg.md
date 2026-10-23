@@ -117,7 +117,7 @@
 | 真理与认识完整性 | 主张、记录与披露是否诚实到足以做出安全决定？ | 保护知情参与、救济与纠正 |
 | 可信 | 依赖是否正当，还是信任正在退化？ | 保护感知者免于虚假信心与误导性依赖 |
 
-有约束力的可信、审计或审查要求，在第六章、[第七章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)或并入文书明文要求时产生。
+有约束力的可信、审计或审查要求，在第六章、[第七章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)或并入文书明文要求时产生。
 
 
 ---

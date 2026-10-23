@@ -81,7 +81,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Читать вместе с: [Глава первая §11 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§13 Рыночная структура](core_01_c_stewardship_capacity_principles.md), и [Глава седьмая §3.3 Дисциплина управления, стимулов и оспариваемости](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+- Читать вместе с: [Глава первая §11 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§13 Рыночная структура](core_01_c_stewardship_capacity_principles.md), и [Глава седьмая §3.3 Дисциплина управления, стимулов и оспариваемости](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
 
 </details>
 

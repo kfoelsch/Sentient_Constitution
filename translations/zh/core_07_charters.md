@@ -24,10 +24,10 @@
 - 上游：
   - [宪法四元组](../../core_00.000_preamble.md#constitutional-tetrad)，尤其是**监督**与**问责**；
   - [重大利害](../../core_00.000_preamble.md#material-stake)；
-  - [第一章 §18.1 治理作为获授权的结构](../../core_01.015_stewardship_capacity_principles.md#181-governance-as-authorized-structure)（1.015 §18.1）；
-  - [第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。
+  - [第一章 §18.1 治理作为获授权的结构](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure)（1.015 §18.1）；
+  - [第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。
 - 子节：[§1](#1-何时必须制定系统章程和机构章程)；[§2](#2-组织成立权与四项狭窄限制)；[§3](#3-系统章程和机构章程必须载明的事项)；[§4](#4-章程角色图与地位记录保管)；[§5](#5-成立审查职务持有者的地位与真实性)；[§6](#6-职务持有人未通过成立审查时)；[§7](#7-修订审查与范围不一致)。
-- 下游：[第八章](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)（8.000）；[第九章](../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)（9.000）；[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)（10.000）；[第十三章](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction)（13.000）；[第十四章](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)（14.000），以及上文指定的实施文本。
+- 下游：[第八章](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)（8.000）；[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)（9.000）；[第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)（10.000）；[第十三章](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction)（13.000）；[第十四章](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)（14.000），以及上文指定的实施文本。
 - 一并阅读：[权限层级与内部位阶](../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy)；[系统边界](../../core_05.040_band_continuity.md#system-boundaries)；[系统边界完整性](../../core_05.040_band_continuity.md#system-boundary-integrity)；[系统创设](../../core_05.055_band_participation.md#system-creation)；[企业创设](../../core_05.055_band_participation.md#business-creation)。
 
 </details>
@@ -40,7 +40,7 @@
 
 - **第七章（本章）：**说明[章程方](../../core_05.040_band_continuity.md#chartered-party)声称要做什么，以及其行动时每个席位由谁持有。
 - **[第八章](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)：**规定如何将这些席位彼此分开。
-- **[第九章](../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)：**认证系统，也分别认证机构；每一次认证都是运用这些席位的一项约束行为，并将认定结果反馈至系统章程或机构章程。
+- **[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)：**认证系统，也分别认证机构；每一次认证都是运用这些席位的一项约束行为，并将认定结果反馈至系统章程或机构章程。
 
 其他章节规定本章所引用的定义、席位规则、地位锁和决定规则。**CI-8.205 §6**（*系统与机构章程内容、审查及成立模板*）载有字段模板、成立程序和审查清单。
 
@@ -50,9 +50,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：[§2](#2-组织成立权与四项狭窄限制)；[重大利害](../../core_00.000_preamble.md#material-stake)；[比例原则](../../core_05.035_band_accountability.md#proportionality)及本章开篇所述规范归属；[第一章 §18 受托纪律下的治理](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[监督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)；[问责](../../core_05.005_apex_accountability_leg.md#accountability)。
-- 下游：[§3](#3-系统章程和机构章程必须载明的事项)；[第九章 A 部分 §2 系统类别评估](../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation)（9.005 §2）（*类别和认证深度*）；[第九章 D 部分 §12.1 机构类别](../../core_09.020_institutional_alignment_certification.md#121-institution-class)（9.020 §12.1）（*机构类别*）；类别目录见**CS-9.305（*系统分类机制*）和 CS-9.310**（*系统分类机制*）。
-- 一并阅读：**CI-8.205 §6**（*系统与机构章程内容、审查及成立模板*）；**CF-13.415 §5**（*机构与地方登记员*）；**CI-9.210**（*与分类挂钩的机构义务*）；[第五章 系统章程](../../core_05.040_band_continuity.md#system-charter)；[第五章 机构章程](../../core_05.040_band_continuity.md#institutional-charter)；[第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。
+- 上游：[§2](#2-组织成立权与四项狭窄限制)；[重大利害](../../core_00.000_preamble.md#material-stake)；[比例原则](../../core_05.035_band_accountability.md#proportionality)及本章开篇所述规范归属；[第一章 §18 受托纪律下的治理](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[监督](../../core_05.020_apex_oversight_leg.md#oversight-constitutional)；[问责](../../core_05.005_apex_accountability_leg.md#accountability)。
+- 下游：[§3](#3-系统章程和机构章程必须载明的事项)；[第九章 A 部分 §2 系统类别评估](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)（9.005 §2）（*类别和认证深度*）；[第九章 D 部分 §12.1 机构类别](../../core_09.015_institutional_alignment_certification.md#121-institution-class)（9.020 §12.1）（*机构类别*）；类别目录见**CS-9.305（*系统分类机制*）和 CS-9.310**（*系统分类机制*）。
+- 一并阅读：**CI-8.205 §6**（*系统与机构章程内容、审查及成立模板*）；**CF-13.415 §5**（*机构与地方登记员*）；**CI-9.210**（*与分类挂钩的机构义务*）；[第五章 系统章程](../../core_05.040_band_continuity.md#system-charter)；[第五章 机构章程](../../core_05.040_band_continuity.md#institutional-charter)；[第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。
 
 </details>
 
@@ -105,7 +105,7 @@ L 类或更高类别的系统必须发布并维护[系统章程](../../core_05.0
 
 - **A、B、C 和 L 类：**必须发布。[§1.7 流程一览](#17-流程一览)图展示了应遵循的流程。
 - **P 类：**在以下两种情况之一触发强制要求之前，可自愿发布。[§1.3 P 类是什么](#13-p-类是什么)说明运营方何时属于 P 类，[§1.4 P 类：章程自愿及何时转为强制](#14-p-类章程自愿及何时转为强制)规定该选择和选择结束的时点。
-- **机构类别：**机构采用其运营、受托管理或实质控制的任何系统中的最高类别。若不运营这类系统，则根据机构自身实质影响和依赖关系确定类别；应看其实际决策和控制事项，而非标签或法律形式，详见[第九章 D 部分 §12.1 机构类别](../../core_09.020_institutional_alignment_certification.md#121-institution-class)。
+- **机构类别：**机构采用其运营、受托管理或实质控制的任何系统中的最高类别。若不运营这类系统，则根据机构自身实质影响和依赖关系确定类别；应看其实际决策和控制事项，而非标签或法律形式，详见[第九章 D 部分 §12.1 机构类别](../../core_09.015_institutional_alignment_certification.md#121-institution-class)。
 
 <a id="13-what-class-p-is"></a>
 #### 1.3 P 类是什么
@@ -144,7 +144,7 @@ L 类或更高类别的系统必须发布并维护[系统章程](../../core_05.0
 
 - **新系统或新机构：**开始上线或对他人行使权限之前。
 - **已经运营的系统或机构：**在下一次分类审查或认证时发布；或者在根据[§1.6 系统章程或机构章程缺失时](#16-系统章程或机构章程缺失时)收到请求后的解决期限内发布，以先发生者为准。发布前处于违约状态。
-  - **哪一种认证：**系统须进行系统一致性认证；机构须依照[第九章 D 部分 §11.3 不设许可，也不设门槛](../../core_09.020_institutional_alignment_certification.md#113-no-permission-and-no-gate)进行机构一致性认证。首次认证期限绝不能成为发布机构章程或开始运营的条件。
+  - **哪一种认证：**系统须进行系统一致性认证；机构须依照[第九章 D 部分 §11.3 不设许可，也不设门槛](../../core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate)进行机构一致性认证。首次认证期限绝不能成为发布机构章程或开始运营的条件。
 - **成立审查：**同时完成[§5 成立审查：职务持有者的地位与真实性](#5-成立审查职务持有者的地位与真实性)中的成立审查。
 - **提交地点：**系统章程或机构章程连同章程角色图及成立审查声明，提交给机构登记员；若其活动和受影响的感知者都在本地，则提交给地方登记员（**CF-13.415 §5**，*机构与地方登记员*）：
   - **登记员的职责：**检查是否缺少任何强制内容，并出具注明日期的收据。
@@ -177,7 +177,7 @@ L 类或更高类别的系统必须发布并维护[系统章程](../../core_05.0
   - **“值得审查”的含义：**挑战须指出特定领域中的具体越界，且运营方的书面说明对该越界留下真实疑问。运营方不得自行判断挑战是否值得审查；未提供书面说明的答复不延长截止日。
   - **若确定了类别：**无论是本次挑战还是其他挑战，类别认定日均视为请求日；答复期限和解决期限从该日起按认定类别的 Tier（A、B、C 或 L）计算。
 - **错过期限：**未答复或未在截止日前发布章程，是须记录并纠正的缺陷。请求人可按同一途径将问题提交有管辖权的论坛。该要求绝不是成立或运营的条件。
-- **重复请求：**前次答复或认定仍然有效期间，对同一章程方提出第二次请求，不会重新开始答复或解决期限。章程方可指向前次答复或认定。章程方自行声称活动低于所有界线、且论坛尚未审查的，不构成仍有效的答复。依照[第九章 D 部分 §14.2 重新开启的触发条件](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers)，出现以下情形之前，答复或认定持续有效：
+- **重复请求：**前次答复或认定仍然有效期间，对同一章程方提出第二次请求，不会重新开始答复或解决期限。章程方可指向前次答复或认定。章程方自行声称活动低于所有界线、且论坛尚未审查的，不构成仍有效的答复。依照[第九章 D 部分 §14.2 重新开启的触发条件](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)，出现以下情形之前，答复或认定持续有效：
   - **重大变化：**章程方的活动发生实质变化。
   - **新证据：**出现有关越界的新证据。
 
@@ -244,7 +244,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：[§1](#1-何时必须制定系统章程和机构章程)；[第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。
+- 上游：[§1](#1-何时必须制定系统章程和机构章程)；[第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。
 - 下游：[§1 何时必须制定系统章程和机构章程](#1-何时必须制定系统章程和机构章程)；[§5 成立审查：职务持有者的地位与真实性](#5-成立审查职务持有者的地位与真实性)。
 - 一并阅读：[临时暂缓](../../core_05.035_band_accountability.md#interim-hold)；[第十一章 §4.2 预防——一般地位锁](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks)（11.000 §4.2）；[第十一章 §5.5 特别锁](../../core_11.000_standing_integration.md#55-special-locks)（11.000 §5.5）；[第十三章 §5 对指定感知者路径的临时暂缓](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)（13.000 §5）。
 
@@ -265,11 +265,11 @@ flowchart TB
 <a id="21-the-right-to-form"></a>
 #### 2.1 组织成立权
 
-任何人都可以成立新的系统、机构或企业。[第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)规定了这项权利。本章增加的是随之而来的义务：当运营方在[领域特定实质性](../../core_05.050_band_oversight.md#domain-specific-materiality)的九个领域中，任何一个领域的活动对他人产生实质影响时，它必须事先公开其声称具有的权限（[§1](#1-何时必须制定系统章程和机构章程)）。采纳系统章程或机构章程不得被解释为缩限该组织成立权或任何权利底线保护。
+任何人都可以成立新的系统、机构或企业。[第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)规定了这项权利。本章增加的是随之而来的义务：当运营方在[领域特定实质性](../../core_05.050_band_oversight.md#domain-specific-materiality)的九个领域中，任何一个领域的活动对他人产生实质影响时，它必须事先公开其声称具有的权限（[§1](#1-何时必须制定系统章程和机构章程)）。采纳系统章程或机构章程不得被解释为缩限该组织成立权或任何权利底线保护。
 
 **组织成立权不涵盖的情况。**除[§2.2](#22-第一项限制对某感知者尚未解除的锁)、[§2.3](#23-第二项限制基于特定已核实事实的短期暂缓)和[§2.4](#24-第三项限制对运营方本身施加的锁)中的三项门槛外，**第 XI-E 条**（*机构成立与企业创设*）不保护以下运营方：
 
-- 旨在违反宪法约束、破坏安全或真理，或以[第一章 §11 市场结构](../../core_01.005_values_principles.md#11-market-structure)所禁止的方式集中权力的运营方；或
+- 旨在违反宪法约束、破坏安全或真理，或以[第一章 §11 市场结构](../../core_01.000_values_principles.md#11-market-structure)所禁止的方式集中权力的运营方；或
 - 由创始人设立或运营，但经核实的行为、控制关系和报酬显示其与所声明目的并非真实一致，或创始人意图误导他人有关目的、控制或利益，或意图伤害他人的运营方。
 
 论坛依据该条裁决此类案件，且后果仅限于该条规定的三项门槛：尚未解除的锁、临时暂缓，以及对运营方本身施加的锁。未通过成立审查只是论坛权衡的一项证据；成立审查本身不决定案件结果。
@@ -328,7 +328,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§1](#1-何时必须制定系统章程和机构章程)；[第五章 系统章程](../../core_05.040_band_continuity.md#system-charter)（5.040）；[第五章 机构章程](../../core_05.040_band_continuity.md#institutional-charter)（5.040）。
-- 下游：[§4](#4-章程角色图与地位记录保管)；[§7](#7-修订审查与范围不一致)；[第九章 B 部分 §8.1 最低记录内容](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents)（9.010 §8.1）（*认证记录所依赖的系统章程字段*）；完整字段清单见**CI-8.205 §6**（*系统与机构章程内容、审查及成立模板*）。
+- 下游：[§4](#4-章程角色图与地位记录保管)；[§7](#7-修订审查与范围不一致)；[第九章 B 部分 §8.1 最低记录内容](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents)（9.010 §8.1）（*认证记录所依赖的系统章程字段*）；完整字段清单见**CI-8.205 §6**（*系统与机构章程内容、审查及成立模板*）。
 - 一并阅读：[第十八章 §4 采纳框架与权限范围](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)（18.000 §4）（*以其他名称维护的范围文件*）；[第十四章 §4.3 对具有约束力的利益相关方选择之决定与解决要求](../../core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice)（14.000 §4.3）；**CI-6.205 §1**（*利益相关方监督、通知与约束性治理途径的完整性*）；**CI-6.205 §2**（*反权力集中与参与正当性保障*）。
 
 </details>
@@ -419,8 +419,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：[§3](#3-系统章程和机构章程必须载明的事项)；[第八章 §2 四席宪法底线](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)（8.000 §2）。
-- 下游：[第八章 §5 已发布的席位安排、空缺与替补](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)（8.000 §5）；[第九章 B 部分 §6.1.1 认证中的四个席位](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)（9.010 §6.1.1）；[第十章 §3.7 地位记录保管与开启权限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)（10.000 §3.7）；**CI-8.205 §2**（*功能分离路径*）；**CI-14.205 §5**（*授权角色与问责链*）；**CI-14.205 §6**（*席位目录——流程角色原型及其操作边界*）。
+- 上游：[§3](#3-系统章程和机构章程必须载明的事项)；[第八章 §2 四席宪法要求](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)（8.000 §2）。
+- 下游：[第八章 §5 已发布的席位安排、空缺与替补](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)（8.000 §5）；[第九章 B 部分 §6.1.1 认证中的四个席位](../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)（9.010 §6.1.1）；[第十章 §3.7 地位记录保管与开启权限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)（10.000 §3.7）；**CI-8.205 §2**（*功能分离路径*）；**CI-14.205 §5**（*授权角色与问责链*）；**CI-14.205 §6**（*席位目录——流程角色原型及其操作边界*）。
 - 一并阅读：[实质控制线](../../core_05.035_band_accountability.md#material-control-line)；[地位记录](../../core_05.035_band_accountability.md#standing-record)。
 
 </details>
@@ -443,7 +443,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 席位及其存在理由
 
-每项[实质约束行为](../../core_05.035_band_accountability.md#materially-binding-act)都有四项职能，[第八章 §2 四席宪法底线](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)要求将其分开：
+每项[实质约束行为](../../core_05.035_band_accountability.md#materially-binding-act)都有四项职能，[第八章 §2 四席宪法要求](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)要求将其分开：
 
 - **[发起席](../../core_05.035_band_accountability.md#initiating-seat)：**通过请求、提议、运营或主张该行为来发起它。
 - **[核验或授权席](../../core_05.035_band_accountability.md#verify-or-authorize-seat)：**检查证据和权限，然后核验、授权、附加条件或拒绝该行为。
@@ -596,9 +596,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：[§2](#2-组织成立权与四项狭窄限制)；[§1.5](#15-系统章程或机构章程的到期时间)；[§3](#3-系统章程和机构章程必须载明的事项)；[§4](#4-章程角色图与地位记录保管)；[第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）；[系统奖励什么](../../core_00.000_preamble.md#what-systems-reward)和[两个根本问题](../../core_00.000_preamble.md#two-fundamental-questions)；[第一章 §19.1.4 角色深度与实质责任路径](../../core_01.015_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)（1.015 §19.1.4）；[第一章 §19.4 错位纠正与俘获应对](../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)；[第十一章 §4.2 预防——一般地位锁](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks)、[§5.5 特别锁](../../core_11.000_standing_integration.md#55-special-locks)和[§6.2 能力标准与准入](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)。
-- 下游：[§6 职务持有人未通过成立审查时](#6-职务持有人未通过成立审查时)；[第九章 D 部分 §12.2 机构评估始终适用](../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always)（第7项，*论坛审查声明*）；[第九章 A 部分 §3.3 治理、激励与可争议性纪律](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)；**CI-8.205 §6**（*系统与机构章程内容、审查及成立模板*）中的声明模板。
-- 一并阅读：[实质控制界线](../../core_05.035_band_accountability.md#material-control-line)；[地位记录](../../core_05.035_band_accountability.md#standing-record)；[受保护的报告（举报）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)；[第一章 §17.5 抵制义务](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)；**CI-14.205 §2**（*角色标准、任命标准与撤职路径*）；**CI-8.210**（*利益冲突完整性、反俘获与反腐败*）。
+- 上游：[§2](#2-组织成立权与四项狭窄限制)；[§1.5](#15-系统章程或机构章程的到期时间)；[§3](#3-系统章程和机构章程必须载明的事项)；[§4](#4-章程角色图与地位记录保管)；[第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）；[系统奖励什么](../../core_00.000_preamble.md#what-systems-reward)和[两个根本问题](../../core_00.000_preamble.md#two-fundamental-questions)；[第一章 §19.1.4 角色深度与实质责任路径](../../core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)（1.015 §19.1.4）；[第一章 §19.4 错位纠正与俘获应对](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)；[第十一章 §4.2 预防——一般地位锁](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks)、[§5.5 特别锁](../../core_11.000_standing_integration.md#55-special-locks)和[§6.2 能力标准与准入](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)。
+- 下游：[§6 职务持有人未通过成立审查时](#6-职务持有人未通过成立审查时)；[第九章 D 部分 §12.2 机构评估始终适用](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always)（第7项，*论坛审查声明*）；[第九章 A 部分 §3.3 治理、激励与可争议性纪律](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)；**CI-8.205 §6**（*系统与机构章程内容、审查及成立模板*）中的声明模板。
+- 一并阅读：[实质控制界线](../../core_05.035_band_accountability.md#material-control-line)；[地位记录](../../core_05.035_band_accountability.md#standing-record)；[受保护的报告（举报）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)；[第一章 §17.5 抵制义务](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)；**CI-14.205 §2**（*角色标准、任命标准与撤职路径*）；**CI-8.210**（*利益冲突完整性、反俘获与反腐败*）。
 
 </details>
 
@@ -606,7 +606,7 @@ flowchart TB
 
 *通俗地说：章程方对他人行使权限之前，须对担任关键职务的感知者进行两项审查：他们是否达到该职务公开的标准，且没有地位锁阻碍？他们是否以自身权利、为章程方所述目的担任职务，而非充当门面或代理人？答案取决于谁指挥他们、如何支付报酬，以及他们经过核实的言行；绝不取决于他们相信什么。这是成立审查，不是许可。*
 
-本节规定**成立审查**。它适用[§2 组织成立权与四项狭窄限制](#2-组织成立权与四项狭窄限制)所述三道门槛：针对具名感知者的两项门槛适用于受涵盖职务，第三项适用于本身受到锁定的章程方。本节不缩窄[第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。本节适用于 L 类及以上的章程方（[§1 何时必须制定系统章程和机构章程](#1-何时必须制定系统章程和机构章程)）。
+本节规定**成立审查**。它适用[§2 组织成立权与四项狭窄限制](#2-组织成立权与四项狭窄限制)所述三道门槛：针对具名感知者的两项门槛适用于受涵盖职务，第三项适用于本身受到锁定的章程方。本节不缩窄[第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。本节适用于 L 类及以上的章程方（[§1 何时必须制定系统章程和机构章程](#1-何时必须制定系统章程和机构章程)）。
 
 <a id="51-what-is-covered"></a>
 #### 5.1 适用范围
@@ -635,16 +635,16 @@ flowchart TB
 <a id="53-authenticity-check"></a>
 #### 5.3 真实性审查
 
-受涵盖职务只有在持有者以自身权利、为其系统章程或机构章程所述目的担任，而非为文件未载明的目的充当门面、名义持有人或代理人时，才属**真实持有**。章程方依据四方面证据作出判断。论坛之后也会按相同四方面进行检验（[第九章 D 部分 §12.2 机构评估始终适用](../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always)，第7项）。
+受涵盖职务只有在持有者以自身权利、为其系统章程或机构章程所述目的担任，而非为文件未载明的目的充当门面、名义持有人或代理人时，才属**真实持有**。章程方依据四方面证据作出判断。论坛之后也会按相同四方面进行检验（[第九章 D 部分 §12.2 机构评估始终适用](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always)，第7项）。
 
-- **控制：**谁能在已发布权限范围之内或之外指示、资助、替换或奖励持有者。持有者若按未披露一方的指示行事，或其席位实际由他人代持，就不是真实持有。受益控制途径不透明即属系统俘获（[第一章 §19.4 错位纠正与俘获应对](../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)）。
+- **控制：**谁能在已发布权限范围之内或之外指示、资助、替换或奖励持有者。持有者若按未披露一方的指示行事，或其席位实际由他人代持，就不是真实持有。受益控制途径不透明即属系统俘获（[第一章 §19.4 错位纠正与俘获应对](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)）。
 - **利益与报酬：**持有者从职务中获得什么，以及如何支付报酬。
   - 披露持有者的薪酬、股权、目标和其他奖励，细致程度与其重要性相称，并以[两个根本问题](../../core_00.000_preamble.md#two-fundamental-questions)检视：该结构奖励的是所述目的，还是跨越所述界限、隐瞒问题或把成本转嫁给他人？
   - 若持有者因从事章程已发布限制所禁止的事项而获得奖励，在奖励变更前，其职务就不符合所述目的。
 - **行为：**持有者在相同职能中经核实的作为，包括经核实的隐瞒、报复举报者或规避同类审查记录，也包括[§5.5 持有者曾说过什么](#55-持有者曾说过什么)所述经核实的言论。
   - 持有者没有记录，不等于有不良记录；不得因首次创立组织者没有既往经历而判定其未通过真实性审查。
   - 没有记录意味着无既往经历可供考察，因此成立审查应看持有者当下承诺并采取的行动：书面同意章程方不得采取的行动界限，接受独立方核查，并在不同意针对自己的认定时使用异议途径。
-- **受保护的发声权：**持有者有可用途径拒绝违法或违宪指令（[第一章 §17.5 抵制义务](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)），并就宪法不合规、实质伤害、安全或真实性失误、腐败、俘获、滥用、报复或阻挠强制审查的合理怀疑作出受保护的报告（[受保护的报告（举报）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)）。章程方不得因持有者善意使用任一途径而惩罚其。
+- **受保护的发声权：**持有者有可用途径拒绝违法或违宪指令（[第一章 §17.5 抵制义务](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)），并就宪法不合规、实质伤害、安全或真实性失误、腐败、俘获、滥用、报复或阻挠强制审查的合理怀疑作出受保护的报告（[受保护的报告（举报）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)）。章程方不得因持有者善意使用任一途径而惩罚其。
 
 <a id="54-what-the-formation-check-may-use-as-evidence"></a>
 #### 5.4 成立审查可使用的证据
@@ -652,30 +652,30 @@ flowchart TB
 成立审查绝不询问感知者对章程方的信念、价值观或感受，不裁定信念是否真实或真诚，也不为查明这些内容而收集新的言论。目的是否一致，应从谁指示持有者、因何支付报酬、持有者做了什么，以及持有者曾对他人说过或计划过什么来判断。三项规则确保界限清楚：
 
 - **仅凭信念不够：**持有或宣称某种信念，或属于某种信仰、政党或团体，本身既不构成对持有者有利的证据，也不构成对其不利的证据。持有者的身份、受保护特征或残障也一样。表示热忱或宣誓效忠，绝不能作为有利证据。
-- **标签不能成为护身符：**经核实的言论、呼吁、计划或行为，若表示他人应受伤害，或涉及[第 VI-C 条](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination)（*禁止歧视*）所禁止的差别待遇，无论如何称呼都对持有者不利。某事是否构成伤害或受禁歧视，以及宗教、政治或意识形态标签既不加重也不免除责任的规则，均由[第一章 §7.5 表达与伤害界线](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)规定。判断依据是言论陈述、呼吁或实施的内容，而不是用来辩护的教义。
+- **标签不能成为护身符：**经核实的言论、呼吁、计划或行为，若表示他人应受伤害，或涉及[第 VI-C 条](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination)（*禁止歧视*）所禁止的差别待遇，无论如何称呼都对持有者不利。某事是否构成伤害或受禁歧视，以及宗教、政治或意识形态标签既不加重也不免除责任的规则，均由[第一章 §7.5 表达与伤害界线](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)规定。判断依据是言论陈述、呼吁或实施的内容，而不是用来辩护的教义。
 - **控制不等于成员身份：**属于某个团体不构成证据。无论团体类型为何，谁能指示、资助、替换或奖励持有者，均属于上文“控制”项下的证据。
 
 本节裁定与不裁定的事项：
 
-- 本节仅依据[第一章 §7.5 表达与伤害界线](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)规定的原则，确定成立审查可以使用哪些证据。
-- 禁止事项由[第 VI-C 条](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination)（*禁止歧视*）和**第 XI-F 条**（*结社中的不强加与同意*）规定：
+- 本节仅依据[第一章 §7.5 表达与伤害界线](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)规定的原则，确定成立审查可以使用哪些证据。
+- 禁止事项由[第 VI-C 条](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination)（*禁止歧视*）和**第 XI-F 条**（*结社中的不强加与同意*）规定：
   - 本节不扩大或缩窄其中任何一条。
   - 自愿社群为其成员和实践制定的规则，只要成员接受其条件，仍由这两条规定约束。
 
 <a id="55-what-a-holder-has-said"></a>
 #### 5.5 持有者曾说过什么
 
-有一种言论属于行为并对持有者不利：经核实的言论、呼吁或计划，表示他人应受伤害、应受到[第 VI-C 条](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination)（*禁止歧视*）所禁止的差别待遇，或持有者将造成上述任一结果。
+有一种言论属于行为并对持有者不利：经核实的言论、呼吁或计划，表示他人应受伤害、应受到[第 VI-C 条](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination)（*禁止歧视*）所禁止的差别待遇，或持有者将造成上述任一结果。
 
 - **权重：**
   - 这是意图伤害，以及与章程方或职务所影响对象的公平待遇不一致的证据。
   - 若持有者的职务或章程方赋予其对这些对象的权力，此证据权重更高。
   - 单独一项言论绝不满足签发[临时限制](../../core_05.035_band_accountability.md#interim-hold)的条件；临时限制还需要关于行为、控制或奖励的独立核实事实。
-  - 若言论是申请限制的理由之一，须以清楚且经核实的证据证明；存疑应对限制不利；并须记录适用于言论限制的最高审查标准，即[**第 XI-B 条**（*表达*）](../../core_06.010_rights_part_b.md#article-xi-b-expression)。
-- **不计入的事项：**认为某团体、理念或机构错误的观点、严厉批评、合法异议、讽刺、引述、报道和学术研究均不计入，因为这些都没有陈述或呼吁伤害他人或歧视他人。冒犯或意见分歧本身不构成伤害（[**第 XI-G 条**（*集体伤害边界与执行接口*）](../../core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)）。
+  - 若言论是申请限制的理由之一，须以清楚且经核实的证据证明；存疑应对限制不利；并须记录适用于言论限制的最高审查标准，即[**第 XI-B 条**（*表达*）](../../core_06.005_rights_part_b.md#article-xi-b-expression)。
+- **不计入的事项：**认为某团体、理念或机构错误的观点、严厉批评、合法异议、讽刺、引述、报道和学术研究均不计入，因为这些都没有陈述或呼吁伤害他人或歧视他人。冒犯或意见分歧本身不构成伤害（[**第 XI-G 条**（*集体伤害边界与执行接口*）](../../core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)）。
 - **如何认定：**须核实言论并结合语境阅读。证据来自已经公开的内容、在章程方或职务相关场合所说的话，或受保护的报告。章程方不得监控创立者或持有者的私人言论或交往以寻找此类材料。
 - **答辩与纠正：**持有者可以答辩、说明语境，并以行动证明该言论已不再代表其立场。仅作撤回声明不能抹去该言论。
-- **并非因言论而处罚：**将言论作为证据不构成表达限制（[第一章 §7.5 表达与伤害界线](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)），该言论仍受[**第 XI-B 条**（*表达*）](../../core_06.010_rights_part_b.md#article-xi-b-expression)保护。其唯一影响是由谁对相关对象持有权限。
+- **并非因言论而处罚：**将言论作为证据不构成表达限制（[第一章 §7.5 表达与伤害界线](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)），该言论仍受[**第 XI-B 条**（*表达*）](../../core_06.005_rights_part_b.md#article-xi-b-expression)保护。其唯一影响是由谁对相关对象持有权限。
 
 <a id="56-staff-safeguards-check"></a>
 #### 5.6 员工保障审查
@@ -684,7 +684,7 @@ flowchart TB
 
 - 其任用、薪酬、晋升和解雇规则不会奖励违反章程方所述目的的行为；
 - 存在受保护的报告途径，且没有员工因使用该途径或拒绝违法、违宪指令而受罚；并且
-- [第 III-C 条](../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor)（*劳动与经济底线*）所规定的权利得到保障。
+- [第 III-C 条](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor)（*劳动与经济底线*）所规定的权利得到保障。
 
 本审查检查的是章程方的制度结构，不筛查个别员工。
 
@@ -707,7 +707,7 @@ flowchart TB
   - 若章程方规模较小，且尚未设立独立席位，声明应连同证据以声明书形式发布，并在章程方首次认证时核验。
   - 这段时间内尚未核验，绝不能成为成立或运营的障碍。
 - **虚假声明：**
-  - 虚假声明或隐瞒受涵盖职务控制者身份的声明，属于隐瞒行为及欺诈性证据，可用于认证记录及地位衔接程序（[第九章 D 部分 §15 地位衔接与反规避](../../core_09.020_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion)；[第九章 B 部分 §10 与地位的关系](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)）。
+  - 虚假声明或隐瞒受涵盖职务控制者身份的声明，属于隐瞒行为及欺诈性证据，可用于认证记录及地位衔接程序（[第九章 D 部分 §15 地位衔接与反规避](../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion)；[第九章 B 部分 §10 与地位的关系](../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)）。
   - 若感知者明知声明虚假仍作出、签署或促成该声明，且虚假内容重大并经核实，则无论该声明是否隐瞒控制关系，都构成对该感知者施加机构权限地位锁的理由（[第十一章 §5.5 特别锁](../../core_11.000_standing_integration.md#55-special-locks)）。锁施加于作出或促成声明的感知者，不施加于章程方或未参与其中的持有者。
   - 感知者不知情而导致的错误声明不构成上述理由；它是须依照[§6 职务持有人未通过成立审查时](#6-职务持有人未通过成立审查时)纠正的缺陷。
 
@@ -735,7 +735,7 @@ flowchart TB
 
 成立审查的范围应与其保护目的相称：
 
-- 章程方只收集三项审查各自所需的信息。报复、监控或针对创立者均不符合[第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。
+- 章程方只收集三项审查各自所需的信息。报复、监控或针对创立者均不符合[第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）。
 - 成立审查根据类别和[实质利害](../../core_00.000_preamble.md#material-stake)调整。L 类只需对少数受涵盖职务作简短声明；若只有一名创立者，则简化为披露利益和任何外部控制。额外要求会构成[可避免的负担](../../core_05.040_band_continuity.md#avoidable-burden)。
 
 <a id="6-when-a-holder-fails-the-formation-check"></a>
@@ -758,8 +758,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：[§5](#5-成立审查职务持有者的地位与真实性)；[§2](#2-组织成立权与四项狭窄限制)；[§1.6](#16-系统章程或机构章程缺失时)；[第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）；[第十三章 §5 对具名感知者路径的临时限制](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)（13.000 §5）。
-- 下游：[第九章 D 部分 §13.5 机构补救准备度、拒绝与撤销](../../core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution)（9.020 §13.5）；[第八章 §3 独立性、利益冲突与控制界线](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)；**CI-11.210**（*机构失灵与解散*）；**CI-11.215**（*机构问责与制裁*）；**CJS-5.125 §15**（*问责：结构审查、纠正紧迫性与披露条款*）。
+- 上游：[§5](#5-成立审查职务持有者的地位与真实性)；[§2](#2-组织成立权与四项狭窄限制)；[§1.6](#16-系统章程或机构章程缺失时)；[第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）；[第十三章 §5 对具名感知者路径的临时限制](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)（13.000 §5）。
+- 下游：[第九章 D 部分 §13.5 机构补救准备度、拒绝与撤销](../../core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution)（9.020 §13.5）；[第八章 §3 独立性、利益冲突与控制界线](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)；**CI-11.210**（*机构失灵与解散*）；**CI-11.215**（*机构问责与制裁*）；**CJS-5.125 §15**（*问责：结构审查、纠正紧迫性与披露条款*）。
 - 一并阅读：[临时限制](../../core_05.035_band_accountability.md#interim-hold)；[暂缓](../../core_05.035_band_accountability.md#stay)；**CI-14.205 §2**（*角色标准、任命标准与撤职路径*）。
 
 </details>
@@ -788,7 +788,7 @@ flowchart TB
 
 - **不得担任该职务：**该感知者不得担任该职务。**CI-14.205 §2**（*角色标准、任命标准与撤职路径*）中的职务规则已有此规定；若原因是未解除的锁或临时限制，**第 XI-E 条**（*机构成立与企业创设*）亦作此规定。
 - **填补席位：**由他人或替补担任该职务，并以带日期的新版本角色图记录变更。
-- **没有合法持有人：**若因此导致章程方没有合法的治理职务持有人，且他人依赖章程方，则有管辖权的论坛可指定临时受托管理者，但不会因此停止章程方；[第 XI-E 条](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）对临时限制作了此规定。
+- **没有合法持有人：**若因此导致章程方没有合法的治理职务持有人，且他人依赖章程方，则有管辖权的论坛可指定临时受托管理者，但不会因此停止章程方；[第 XI-E 条](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)（*机构成立与企业创设*）对临时限制作了此规定。
 
 <a id="63-when-the-facts-may-support-an-interim-hold"></a>
 #### 6.3 事实可能支持临时限制时
@@ -828,7 +828,7 @@ flowchart TB
 - **由谁裁定：**有管辖权的论坛依据核实事实裁定该锁是否适用于相关工具；主张适用的一方承担举证责任。
 - **自行声明：**章程方自行声明其为新主体，不足以裁定此事。
 - **其他运营方：**除非事实上与解散主体构成同一项运营活动，否则该锁不适用于其他运营方。
-- **故意规避：**为绕过锁而以其他名称重组、恢复或运营解散的章程方，或通过继受者、受控实体、名义持有人或空壳工具这样做，均属违宪不当行为。论坛可依据核实事实按[第十二章 A 部分](../../core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation)予以指定。
+- **故意规避：**为绕过锁而以其他名称重组、恢复或运营解散的章程方，或通过继受者、受控实体、名义持有人或空壳工具这样做，均属违宪不当行为。论坛可依据核实事实按[第十二章 A 部分](../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation)予以指定。
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 答复期限与解决期限
@@ -884,8 +884,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：[§3](#3-系统章程和机构章程必须载明的事项)；[第一章 §18.4 持续正当化](../../core_01.015_stewardship_capacity_principles.md#184-ongoing-justification)（1.015 §18.4）。
-- 下游：[第九章 B 部分 §9 重新认证与重新开启](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening)（9.010 §9）（*系统章程修订与不一致作为重新开启的触发条件*）；[第十三章 §4.3 机构论坛](../../core_13.000_forum.md#43-institutional-forums)（13.000 §4.3）。
+- 上游：[§3](#3-系统章程和机构章程必须载明的事项)；[第一章 §18.4 持续正当化](../../core_01.010_stewardship_capacity_principles.md#184-ongoing-justification)（1.015 §18.4）。
+- 下游：[第九章 B 部分 §9 重新认证与重新开启](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening)（9.010 §9）（*系统章程修订与不一致作为重新开启的触发条件*）；[第十三章 §4.3 机构论坛](../../core_13.000_forum.md#43-institutional-forums)（13.000 §4.3）。
 - 一并阅读：[系统边界完整性](../../core_05.040_band_continuity.md#system-boundary-integrity)；**CI-8.205 §1**（*不可委派的治理职责*）；**CI-8.205 §6**（*系统与机构章程内容、审查及成立模板*）。
 
 </details>
@@ -948,7 +948,7 @@ flowchart TB
   - 每个受涵盖职务是否仍由声明所列感知者担任；
   - 可指示、资助、替换或奖励每位持有者的感知者是否仍与声明所述相同；
   - 每位持有者的薪酬及其他奖励是否仍与声明所述相符；以及
-  - 每位持有者是否仍有有效途径拒绝违法、违宪指令（[第一章 §17.5 抵制义务](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)），并对宪法不合规、实质伤害、安全或真实性失误、腐败、俘获、滥用、报复或阻挠强制审查的合理怀疑作出受保护的报告（[受保护的报告（举报）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)）。
+  - 每位持有者是否仍有有效途径拒绝违法、违宪指令（[第一章 §17.5 抵制义务](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)），并对宪法不合规、实质伤害、安全或真实性失误、腐败、俘获、滥用、报复或阻挠强制审查的合理怀疑作出受保护的报告（[受保护的报告（举报）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)）。
 
 <a id="74-adding-retiring-or-merging-systems"></a>
 #### 7.4 增加、退役或合并系统
@@ -966,7 +966,7 @@ flowchart TB
 
 - **纠正方式：**修订文件、纠正实际做法（补救）、重新认证，或缩减范围以符合文件。
 - **不被接受的做法：**悄然扩大范围，或让文件原样不变。
-- **认证审查：**重大不一致还会触发论坛重新审查该系统或机构的认证，无须等待下次定期审查。系统适用[第九章 B 部分 §9 重新认证与重新开启](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening)；机构适用[第九章 D 部分 §14.2 重新开启触发条件](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers)。认证会读取所述范围，并与实际边界对照；认证不会重写文件。机构认证须引用纳入的每份系统认证记录，但不重新进行其评估（[第九章 D 部分](../../core_09.020_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)）。
+- **认证审查：**重大不一致还会触发论坛重新审查该系统或机构的认证，无须等待下次定期审查。系统适用[第九章 B 部分 §9 重新认证与重新开启](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening)；机构适用[第九章 D 部分 §14.2 重新开启触发条件](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)。认证会读取所述范围，并与实际边界对照；认证不会重写文件。机构认证须引用纳入的每份系统认证记录，但不重新进行其评估（[第九章 D 部分](../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)）。
 - **争议提交地点：**机构论坛审理有关机构章程范围、机构章程修订权限、机构章程与行为不一致或超出章程范围运营的争议（[第十三章 §4.3 机构论坛](../../core_13.000_forum.md#43-institutional-forums)）。
 
 <a id="76-keeping-old-versions"></a>

@@ -81,7 +81,7 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Baca bersama: [Bab Satu §11 Keselarasan Insentif dan Penguasaan Sistem](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§13 Struktur Pasar](core_01_c_stewardship_capacity_principles.md), dan [Bab Tujuh §3.3 Disiplin tata kelola, insentif, dan dapat-digugat](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+- Baca bersama: [Bab Satu §11 Keselarasan Insentif dan Penguasaan Sistem](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§13 Struktur Pasar](core_01_c_stewardship_capacity_principles.md), dan [Bab Tujuh §3.3 Disiplin tata kelola, insentif, dan dapat-digugat](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
 
 </details>
 

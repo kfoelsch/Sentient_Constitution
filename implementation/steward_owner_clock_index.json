@@ -27,7 +27,7 @@
       },
       "rights_floor": {
         "label": "Article XXVI-C",
-        "href": "core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
+        "href": "core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
         "label": "Chapter Thirteen §6.1 restore-challenge windows",
@@ -118,11 +118,11 @@
       "owners": [
         {
           "label": "Chapter Nine",
-          "href": "core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification"
+          "href": "core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification"
         },
         {
           "label": "Chapter One §11",
-          "href": "core_01.005_values_principles.md#12-systemic-evaluation-requirement"
+          "href": "core_01.000_values_principles.md#12-systemic-evaluation-requirement"
         }
       ],
       "conflict_rule": "Certification or continued reliance at material stake requires whole-system evaluation. Companions may add class-scaled method; they may not replace the certification path.",
@@ -148,7 +148,7 @@
       "owners": [
         {
           "label": "Article XVI",
-          "href": "core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification"
+          "href": "core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification"
         },
         {
           "label": "Auditability",
@@ -190,11 +190,11 @@
         },
         {
           "label": "Article XIII-B",
-          "href": "core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy"
+          "href": "core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy"
         },
         {
           "label": "Chapter One §10 Correction and Remedy",
-          "href": "core_01.005_values_principles.md#61-correction-and-remedy"
+          "href": "core_01.000_values_principles.md#61-correction-and-remedy"
         }
       ],
       "conflict_rule": "A form on paper does not satisfy. Past contribution does not cancel remedy.",
@@ -243,7 +243,7 @@
           },
           {
             "label": "Article XXVI-C",
-            "href": "core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
+            "href": "core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
@@ -268,11 +268,11 @@
       "owners": [
         {
           "label": "Article XIII-A",
-          "href": "core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline"
+          "href": "core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline"
         },
         {
           "label": "Article XIII-B",
-          "href": "core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy"
+          "href": "core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy"
         },
         {
           "label": "Authority Stack",
@@ -306,11 +306,11 @@
       "owners": [
         {
           "label": "Chapter One §18",
-          "href": "core_01.015_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture"
+          "href": "core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture"
         },
         {
           "label": "Chapter One §11.2 Alignment Under Pressure",
-          "href": "core_01.015_stewardship_capacity_principles.md#172-alignment-under-pressure"
+          "href": "core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure"
         },
         {
           "label": "Incentive Alignment",
@@ -340,7 +340,7 @@
       "owners": [
         {
           "label": "Chapter One §17.5 Duty to Resist",
-          "href": "core_01.015_stewardship_capacity_principles.md#175-duty-to-resist"
+          "href": "core_01.010_stewardship_capacity_principles.md#175-duty-to-resist"
         },
         {
           "label": "Chapter Eleven §5.4 Duty to resist",
@@ -348,15 +348,15 @@
         },
         {
           "label": "Chapter One §11.2 Alignment Under Pressure",
-          "href": "core_01.015_stewardship_capacity_principles.md#172-alignment-under-pressure"
+          "href": "core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure"
         },
         {
           "label": "Chapter One §9.1.1",
-          "href": "core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard"
+          "href": "core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard"
         },
         {
           "label": "Article XIII-A",
-          "href": "core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline"
+          "href": "core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline"
         }
       ],
       "conflict_rule": "No instruction requiring unlawful or unconstitutional conduct is a valid compliance defense. A principal's offer to take responsibility does not transfer the duty.",
@@ -382,7 +382,7 @@
       "owners": [
         {
           "label": "Chapter One §9.1.1 Shared Stewardship Standard",
-          "href": "core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard"
+          "href": "core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard"
         },
         {
           "label": "Authority Stack",
@@ -416,15 +416,15 @@
       "owners": [
         {
           "label": "Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
-          "href": "core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"
+          "href": "core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"
         },
         {
           "label": "Chapter One §13.2.3 Privacy",
-          "href": "core_01.010_interaction_interpretation.md#1323-privacy-and-informational-self-determination"
+          "href": "core_01.005_interaction_interpretation.md#1323-privacy-and-informational-self-determination"
         },
         {
           "label": "Article VII-B",
-          "href": "core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind"
+          "href": "core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind"
         },
         {
           "label": "CS-14.305 §10 inspectable attributable action",
@@ -454,11 +454,11 @@
       "owners": [
         {
           "label": "Chapter One §17.5 Duty to Resist",
-          "href": "core_01.015_stewardship_capacity_principles.md#175-duty-to-resist"
+          "href": "core_01.010_stewardship_capacity_principles.md#175-duty-to-resist"
         },
         {
           "label": "Chapter One §9.1.1",
-          "href": "core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard"
+          "href": "core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard"
         }
       ],
       "conflict_rule": "Duty to resist attaches to unlawful or unconstitutional instructions, not to tone, calendar, or mere unwelcome-ness.",
@@ -484,19 +484,19 @@
       "owners": [
         {
           "label": "Chapter One §13 Constitutional Collision Resolution Process",
-          "href": "core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process"
+          "href": "core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process"
         },
         {
           "label": "§6.1 decision-record discipline",
-          "href": "core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test"
+          "href": "core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test"
         },
         {
           "label": "Chapter One §19.3 Ambiguity resolution",
-          "href": "core_01.010_interaction_interpretation.md#153-ambiguity-resolution"
+          "href": "core_01.005_interaction_interpretation.md#153-ambiguity-resolution"
         },
         {
           "label": "Article XXV",
-          "href": "core_06.020_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
+          "href": "core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
         }
       ],
       "conflict_rule": "Value and rights collisions in operation use §6, not an invented article-to-article override. Interpreters must not resolve ambiguity by Abstract Strictness or by contracting Chapter Six except where Chapter One expressly permits.",
@@ -522,15 +522,15 @@
       "owners": [
         {
           "label": "Article XXIII-A",
-          "href": "core_06.020_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right"
+          "href": "core_06.015_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right"
         },
         {
           "label": "Chapter One §16.2 Distributed Understanding",
-          "href": "core_01.015_stewardship_capacity_principles.md#161-distributed-understanding"
+          "href": "core_01.010_stewardship_capacity_principles.md#161-distributed-understanding"
         },
         {
           "label": "Article XIII-A",
-          "href": "core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline"
+          "href": "core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline"
         }
       ],
       "conflict_rule": "Complexity and specialist-only surfaces must not defeat Article XIII-A. Companions may add explanation; they may not hide the next step.",
@@ -554,11 +554,11 @@
       "owners": [
         {
           "label": "Chapter One §9",
-          "href": "core_01.005_values_principles.md#11-market-structure"
+          "href": "core_01.000_values_principles.md#11-market-structure"
         },
         {
           "label": "Chapter One §9.1",
-          "href": "core_01.005_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable"
+          "href": "core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable"
         },
         {
           "label": "CJS-5.125 §11.1",
@@ -590,7 +590,7 @@
       "owners": [
         {
           "label": "Article V-B",
-          "href": "core_06.005_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability"
+          "href": "core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability"
         },
         {
           "label": "Proportionate Cross-System Support",
@@ -626,7 +626,7 @@
       "owners": [
         {
           "label": "Article XXVI-C",
-          "href": "core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
+          "href": "core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
         },
         {
           "label": "Chapter Thirteen §6",
@@ -650,7 +650,7 @@
           },
           {
             "label": "Article XXVI-C",
-            "href": "core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
+            "href": "core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },

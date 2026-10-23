@@ -107,7 +107,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ปลายทาง: ตระกูลการวัดการมีส่วนร่วม — ม้วนรวมแบบลิงก์อย่างเดียว; ชั้นรายคำอยู่ในบทนิยามใบ — ดู [ความเป็นธรรมที่เป็นสาระ](../../core_05.055_band_participation.md#substantive-fairness) [การใช้ตัวแทนลักษณะที่คุ้มครองและผลกระทบที่ไม่เท่า](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact) [การเข้าถึงได้](../../core_05.055_band_participation.md#accessibility) [พลังกระทำการทางการศึกษา](../../core_05.055_band_participation.md#educational-agency) [พลังกระทำการที่มีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) และกลุ่ม [ความเป็นส่วนตัว (เชิงข้อมูล)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) ในแถบความต่อเนื่อง
-- อ่านคู่กับ: บทที่หก [บทที่เจ็ด](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) หรือตราสารที่นำเข้า — ข้อกำหนดที่มีผลผูกพันด้านการห้ามเลือกปฏิบัติ การจัดอำนวยความสะดวก การศึกษา หรือความเป็นส่วนตัว เกิดขึ้นเมื่อตราสารเหล่านั้นกำหนดโดยชัด
+- อ่านคู่กับ: บทที่หก [บทที่เจ็ด](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) หรือตราสารที่นำเข้า — ข้อกำหนดที่มีผลผูกพันด้านการห้ามเลือกปฏิบัติ การจัดอำนวยความสะดวก การศึกษา หรือความเป็นส่วนตัว เกิดขึ้นเมื่อตราสารเหล่านั้นกำหนดโดยชัด
 
 </details>
 

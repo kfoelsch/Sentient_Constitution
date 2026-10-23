@@ -362,7 +362,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 การออกแบบความยืดหยุ่นและการรักษาตนเอง](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 การออกแบบความยืดหยุ่นและการรักษาตนเอง](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -678,7 +678,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](../../core_01.005_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7.1 วินัยด้านข้อจำกัด](../../core_01.005_values_principles.md#71-limitation-discipline) และ [บทที่หนึ่ง §13.1.5 กระบวนการเมื่อสิทธิชนกัน](../../core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test)
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](../../core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7.1 วินัยด้านข้อจำกัด](../../core_01.000_values_principles.md#71-limitation-discipline) และ [บทที่หนึ่ง §13.1.5 กระบวนการเมื่อสิทธิชนกัน](../../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test)
 - อ่านร่วมกับ [มาตรา XIV-A](#มาตรา-xiv-a-การรกษาความปลอดภย-ความฉลาด-และขดจำกดอำนาจแอบแฝง) ซึ่งใช้บังคับทั้งหมด; [บทที่แปด §7 การดำเนินการฉุกเฉินและเร่งด่วน](../../core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action); และ [บทที่สิบสาม §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*)
 
 </details>
@@ -803,7 +803,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -876,7 +876,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -913,7 +913,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
@@ -965,7 +965,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ), [§16.1 ความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#161-ความเขาใจทกระจายทวถง), และ [§9 ความจุของระบบที่ใช้ร่วมกัน](core_01_a_values_principles.md#9-ขดความสามารถของระบบรวม).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ), [§16.1 ความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#161-ความเขาใจทกระจายทวถง), และ [§9 ความจุของระบบที่ใช้ร่วมกัน](core_01_a_values_principles.md#9-ขดความสามารถของระบบรวม).
 - อ่านด้วย: [รูปภาพการตรวจสอบสามชั้น](#audit-three-layers) ด้านล่าง.
 
 </details>
@@ -1000,7 +1000,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 | **2. ทรัพย์สิน** | ความสามารถในการก่อสร้างใหม่ *คือ*: บุคคลภายนอกสามารถสร้างใหม่และตรวจสอบสิ่งที่ระบบทำในช่วงเวลาที่สำคัญ สถานะ และบริบท | [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) (บทที่ห้า) | ไม่ใช่ชั้นสิทธิ ไม่ใช่ว่าจะดำเนินการตรวจสอบอย่างไร/เมื่อใด |
 | **3. กระบวนการ** | อย่างไรและเมื่อใดที่จะตรวจสอบระหว่างระบบ สถาบัน และฟอรัม | [ซีเจเอส-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md) (*หน้าแรกกระบวนการตรวจสอบ*) ภาคผนวกของผู้ประกอบการ: [ซีเจเอส-3.4](../../corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (ระดับการเข้าถึง) [ซีเจเอส-3.5](../../corpus_joint_structure/cjs_05.110_oversight_operations.md) (ตรวจสอบการเคลม) | ไม่ใช่การรับรองการจัดตำแหน่งระบบ ไม่สามารถทดแทนเลเยอร์ 1–2 ได้ |
 
-**บทที่เก้าไม่ใช่ชั้นที่สี่** [การรับรองการจัดตำแหน่งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการขนาดใหญ่ที่ดูแลโดยฟอรัม **การใช้งาน** กองนี้ มันจะต้องเป็นไปตามชั้นที่ 1–2 โหมดพี่น้อง (การตรวจสอบบันทึกการจำแนกประเภท, ประเภทข้อมูล-การตรวจสอบบันทึก, การตรวจสอบการอ้างสิทธิ์, การตรวจสอบอย่างต่อเนื่อง) ก็ใช้สแต็กเช่นกัน ไม่มีพวกเขาเป็นบ้านใหม่
+**บทที่เก้าไม่ใช่ชั้นที่สี่** [การรับรองการจัดตำแหน่งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการขนาดใหญ่ที่ดูแลโดยฟอรัม **การใช้งาน** กองนี้ มันจะต้องเป็นไปตามชั้นที่ 1–2 โหมดพี่น้อง (การตรวจสอบบันทึกการจำแนกประเภท, ประเภทข้อมูล-การตรวจสอบบันทึก, การตรวจสอบการอ้างสิทธิ์, การตรวจสอบอย่างต่อเนื่อง) ก็ใช้สแต็กเช่นกัน ไม่มีพวกเขาเป็นบ้านใหม่
 
 **ข้อความการใช้งานที่นำมาใช้นำไปใช้; มันไม่ได้แทนที่พื้น** ภาคผนวก CS, CI, CF และ CJS-3.3 (*การกำกับดูแล: เงื่อนไขการตรวจสอบและความสามารถในการสร้างใหม่*) ผ่าน CJS-3.5 (*การกำกับดูแล: เงื่อนไขการตรวจสอบอิสระและเงื่อนไขการเรียกร้องความสมบูรณ์*) กล่าวถึงวิธีเรียกใช้เลเยอร์ 3 ในโดเมน พวกเขาจะต้องเป็นไปตามชั้นที่ 1–2 กำหนดเวลา การรักษาความลับ และนโยบายท้องถิ่นถือเป็นขีดจำกัดที่ต่ำกว่า
 
@@ -1035,7 +1035,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 - **การกำกับดูแล → การตรวจสอบ → SAC:** ภายใต้ [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) **การกำกับดูแล** ขา บทความนี้เป็นหน้าแรกของ Rights-Floor สำหรับการตรวจสอบ
   - การดำเนินการข้ามสาย *อย่างไร* / *เมื่อใด* อาศัยอยู่ใน **[หน้าแรกกระบวนการตรวจสอบ CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md)** (อ่านด้วย. **ซีเจเอส-3.4** / **ซีเจเอส-3.5** ภาคผนวก OP)
-  - [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่และเดิมพันสูงเป็นพิเศษกระบวนการหนึ่ง — ภายใต้การดูแลของฟอรัม, หลายโดเมน และได้รับการยอมรับ — ในโหมดการตรวจสอบแบบพี่น้อง:
+  - [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) ภายใต้ [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่และเดิมพันสูงเป็นพิเศษกระบวนการหนึ่ง — ภายใต้การดูแลของฟอรัม, หลายโดเมน และได้รับการยอมรับ — ในโหมดการตรวจสอบแบบพี่น้อง:
     - การตรวจสอบบันทึกการจำแนกระบบ
     - การตรวจสอบบันทึกประเภทข้อมูลระบบ;
     - การตรวจสอบความซับซ้อนและการดูแล
@@ -1045,7 +1045,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 - **อ่านด้วยกัน:**
   - **ข้อ XV** (*ความสมบูรณ์ของขอบเขตข้อมูล*) ซึ่งบันทึกทางญาณและความสามารถในการแข่งขันมีความเกี่ยวข้องอย่างเป็นรูปธรรม
   - **ข้อ XIII-A** (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) สำหรับการท้าทายสิทธิ์ที่การตรวจสอบสนับสนุนแต่ไม่ได้แทนที่
-  - [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) และ [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) โดยที่หลักฐานการจัดตำแหน่งจะต้องสามารถตรวจสอบยืนยันได้โดยอิสระ
+  - [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) และ [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) โดยที่หลักฐานการจัดตำแหน่งจะต้องสามารถตรวจสอบยืนยันได้โดยอิสระ
 - **เครื่องจักรตรวจสอบ:** **บทที่สองถึงสี่** ระบุความสมบูรณ์ของคำจำกัดความ การจัดสรรภาระ ความสามารถในการสังเกต และความสามารถในการตรวจสอบที่บทความนี้นำไปใช้ในเลเยอร์ Rights-Floor
 - **การจำแนกประเภท:** ภาระผูกพันมาตราส่วนด้วย [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) และ **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**; ในกรณีที่ชั้นเรียนไม่แน่นอน ให้ควบคุมในระดับที่เป็นไปได้สูงสุดจนกว่าจะได้รับการแก้ไข
 
@@ -1054,7 +1054,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
@@ -1080,7 +1080,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
 
 </details>
 
@@ -1208,7 +1208,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
@@ -1246,7 +1246,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1283,7 +1283,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
@@ -1348,7 +1348,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1415,7 +1415,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
@@ -1444,7 +1444,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
 
 </details>
 
@@ -1472,7 +1472,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
     - การทำงานร่วมกัน;
     - การตรวจสอบข้อเท็จจริงตามความเป็นจริง
   - รางวัลจะต้องไม่มีโครงสร้างสำหรับตู้ที่ทนทาน
-- **สิทธิพิเศษชั่วคราวและตรวจสอบได้เท่านั้น:** สิทธิ์ในการยกเว้นใดๆ เหนือการประดิษฐ์ การออกแบบ อินเทอร์เฟซ กระบวนการ หรือระบบการแสดงออกที่เป็นประโยชน์อันเป็นประโยชน์จะต้องปฏิบัติตาม [**หลักการจำกัดน้อยที่สุด มีกำหนดเวลา และตรวจสอบได้**](../../core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) และจะต้องเป็น:
+- **สิทธิพิเศษชั่วคราวและตรวจสอบได้เท่านั้น:** สิทธิ์ในการยกเว้นใดๆ เหนือการประดิษฐ์ การออกแบบ อินเทอร์เฟซ กระบวนการ หรือระบบการแสดงออกที่เป็นประโยชน์อันเป็นประโยชน์จะต้องปฏิบัติตาม [**หลักการจำกัดน้อยที่สุด มีกำหนดเวลา และตรวจสอบได้**](../../core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) และจะต้องเป็น:
   - แคบ;
   - กำหนดเวลา;
   - ตรวจสอบได้;
@@ -1541,7 +1541,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 
 ข้อนี้กำหนดกฎการให้รางวัลแก่สิ่งประดิษฐ์ กระบวนการ และระบบเชิงหน้าที่:
 
-- **เปิดเผยก่อน:** จะได้รับรางวัลได้เมื่อเปิดเผยต่อสาธารณะเพียงพอให้เข้าใจ ตรวจสอบ และทำซ้ำได้โดยอิสระ เว้นแต่ข้อจำกัดชั่วคราวที่มีเหตุผลตาม [บทที่หนึ่ง](../../core_01.005_values_principles.md) และ [Article XVII-A](#มาตรา-xvii-a-การกำกบดแลวงจรชวตและการแยกสงแวดลอม) การเปิดเผยต่อสาธารณะคือการเผยแพร่คำอธิบายนั้นแบบไม่เป็นความลับต่อสาธารณะครั้งแรก สิ่งประดิษฐ์ที่เก็บเป็นความลับไม่ได้สิทธิพิเศษตามข้อนี้
+- **เปิดเผยก่อน:** จะได้รับรางวัลได้เมื่อเปิดเผยต่อสาธารณะเพียงพอให้เข้าใจ ตรวจสอบ และทำซ้ำได้โดยอิสระ เว้นแต่ข้อจำกัดชั่วคราวที่มีเหตุผลตาม [บทที่หนึ่ง](../../core_01.000_values_principles.md) และ [Article XVII-A](#มาตรา-xvii-a-การกำกบดแลวงจรชวตและการแยกสงแวดลอม) การเปิดเผยต่อสาธารณะคือการเผยแพร่คำอธิบายนั้นแบบไม่เป็นความลับต่อสาธารณะครั้งแรก สิ่งประดิษฐ์ที่เก็บเป็นความลับไม่ได้สิทธิพิเศษตามข้อนี้
 - **สองช่วงเวลา:** สิทธิพิเศษเหนือผลงานเชิงหน้าที่นับทั้งสองช่วงจากวันเปิดเผย:
   - **ช่วงผูกขาด:** ผู้ถือสิทธิอาจปฏิเสธอนุญาตผู้อื่นได้ไม่เกิน `เปิดเผย+15` ปี
   - **ช่วงอนุญาตใช้แบบเปิด:** ตั้งแต่สิ้นช่วงผูกขาดถึงไม่เกิน `เปิดเผย+30` ปี ทุกคนใช้ได้โดยไม่ต้องขออนุญาต แต่ต้องชำระค่าธรรมเนียมตาม LEQU ผู้ถือสิทธิห้ามปฏิเสธ ชะลอ หรือเพิ่มเงื่อนไขนอกเหนือจากค่าธรรมเนียม

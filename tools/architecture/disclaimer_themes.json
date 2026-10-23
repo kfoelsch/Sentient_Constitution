@@ -14,7 +14,7 @@
         "rest on harm, deception",
         "treating .* as a license"
       ],
-      "canonical_home": "core_01.015_stewardship_capacity_principles.md §11.1.2; core_01.005_values_principles.md §3 Safety/Truth; Proxy Divergence",
+      "canonical_home": "core_01.010_stewardship_capacity_principles.md §11.1.2; core_01.000_values_principles.md §3 Safety/Truth; Proxy Divergence",
       "default_action": "thin",
       "notes": "Fold duplicate negatives into principle layer + Trace; keep at most one enforceable C line per aim/cluster."
     },
@@ -32,7 +32,7 @@
         "distinguish durable .* from proxy",
         "tertiary integrity check"
       ],
-      "canonical_home": "core_05.050_band_oversight.md Proxy Divergence; core_01.015_stewardship_capacity_principles.md §11.1.2",
+      "canonical_home": "core_05.050_band_oversight.md Proxy Divergence; core_01.010_stewardship_capacity_principles.md §11.1.2",
       "default_action": "thin",
       "canonical_terms": ["Proxy Divergence", "Materiality Integrity Constraint"],
       "notes": "Tertiary measurement checks may become single Trace read-with Proxy Divergence."
@@ -46,7 +46,7 @@
         "does not define or substitute",
         "does not rank or substitute"
       ],
-      "canonical_home": "core_01.015_stewardship_capacity_principles.md §11 + §14 Systemic Evaluation",
+      "canonical_home": "core_01.010_stewardship_capacity_principles.md §11 + §14 Systemic Evaluation",
       "default_action": "thin",
       "notes": "O line can stay positive; instrumental frame moves to principle layer."
     },
@@ -82,7 +82,7 @@
         "not an excuse for",
         "does not permanently excuse"
       ],
-      "canonical_home": "core_01.015_stewardship_capacity_principles.md §9; core_01.010_interaction_interpretation.md §6",
+      "canonical_home": "core_01.010_stewardship_capacity_principles.md §9; core_01.005_interaction_interpretation.md §6",
       "default_action": "thin",
       "notes": "Keep where term-specific routing is material; thin generic restatements."
     },
@@ -112,7 +112,7 @@
         "declared intent where",
         "formal classification is relevant evidence but cannot"
       ],
-      "canonical_home": "core_02.000_definition_structure.md Chapter Three §2.2.1; core_01.015_stewardship_capacity_principles.md §11.6 for formal-structure change; term-specific C on gamed entries",
+      "canonical_home": "core_02.000_definition_structure.md Chapter Three §2.2.1; core_01.010_stewardship_capacity_principles.md §11.6 for formal-structure change; term-specific C on gamed entries",
       "default_action": "review",
       "notes": "Pattern is global; instance often must stay on the gamed term."
     },
@@ -171,7 +171,7 @@
         "nominal consultation",
         "substantive from formal"
       ],
-      "canonical_home": "core_01.015_stewardship_capacity_principles.md §11; Participation definition",
+      "canonical_home": "core_01.010_stewardship_capacity_principles.md §11; Participation definition",
       "default_action": "thin",
       "canonical_terms": ["Participation"],
       "notes": "Canonical on Participation O/E/C; thin duplicates on cluster entries."

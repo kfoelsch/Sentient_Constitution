@@ -5,7 +5,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> Este arquivo é um **piloto de idioma de leitura** do [índice de leitura do Capítulo Sete em inglês](../../core_09_system_alignment_certification.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_07_system_alignment_certification.md`](../../core_09_system_alignment_certification.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
+> Este arquivo é um **piloto de idioma de leitura** do [índice de leitura do Capítulo Sete em inglês](../../core_09.000_system_alignment_certification_evaluation.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_07_system_alignment_certification.md`](../../core_09.000_system_alignment_certification_evaluation.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > O **Capítulo Sete** está dividido em dois arquivos vinculantes lidos como um só instrumento:
 >
@@ -39,4 +39,4 @@ Sob a perna de **supervisão** da Tétrade, a supervisão exige auditoria; o Cap
 
 **Próximo arquivo (este idioma):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**Original vinculante:** [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md)
+**Original vinculante:** [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md)

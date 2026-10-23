@@ -69,7 +69,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§15 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§15 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)।
 - সঙ্গে পড়ুন: সময়োচিত নিষ্পত্তিকে সাংবিধানিক পরিমাপ হিসেবে দেখার সময়সীমা-পরিমাপ পরিবার।
 
 </details>
@@ -269,7 +269,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: [অধ্যায় এক §18.4 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#184-চলমন-যকতসমরথন); অধ্যায় এক [§3 মৌলিক লক্ষ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- পূর্ববর্তী ভিত্তি: নীতি: [অধ্যায় এক §18.4 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#184-চলমন-যকতসমরথন); অধ্যায় এক [§3 মৌলিক লক্ষ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 
 </details>
 
@@ -368,7 +368,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), and [Chapter Eight §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter Ten §5.4](core_09_standing_integration.md#54-special-violation-rules) (*misaligned-reward forfeiture and reporting limited during transition by this Article*); [Chapter Eight — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md).
+- Upstream: Principles: Chapter One [§4 Safety](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), and [Chapter Eight §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter Ten §5.4](core_09_standing_integration.md#54-special-violation-rules) (*misaligned-reward forfeiture and reporting limited during transition by this Article*); [Chapter Eight — System Alignment Certification](core_07_a_system_alignment_certification_evaluation.md).
 
 </details>
 
@@ -447,7 +447,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বিনিময়-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [§14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বিনিময়-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [§14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 
 </details>
 
@@ -490,7 +490,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বিনিময়-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বিনিময়-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 - সঙ্গে পড়ুন: [অধ্যায় আট](core_07_a_system_alignment_certification_evaluation.md) (*ব্যবস্থা-সামঞ্জস্য সনদায়ন*); [অধ্যায় নয় থেকে বারো](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*অধিকার-অবস্থান ধারা ও ফোরাম তদারকি*)।
 
 </details>
@@ -527,7 +527,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - সঙ্গে পড়ুন: **অনুচ্ছেদ III-A** (*জীবনরক্ষা*); **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*); **অনুচ্ছেদ XI-G** (*সম্মিলিত ক্ষতির সীমানা ও প্রয়োগ-সংযোগ*); **অধ্যায় নয়**; **অধ্যায় এক**, এর §6 অধিকার-সংঘাত পদ্ধতিসহ; অধ্যায় ছয়ের শুরুতে **ডিফল্ট বিধিনিষেধ স্তর** (*দখল ও প্রতিকারের সংযোগ*); [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*অননুগত সম্পত্তি, জব্দ, স্বেচ্ছামূলক প্রণোদনা*) থেকে **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*রূপান্তর শাসন ও প্রাতিষ্ঠানিক বিবর্তন*) পর্যন্ত।
 
 </details>
@@ -551,7 +551,7 @@ flowchart TB
 - **দখলের ন্যূনতম মান:** আপনি কোনো জিনিসের বৈধ মালিক বা ব্যবহারকারী হলে রূপান্তরের অজুহাতে খেয়ালখুশিমতো তা নেওয়া যাবে না। কিন্তু সম্পদটি চালু রাখলে জানা ও নথিভুক্ত বৃহৎ সাংবিধানিক লঙ্ঘন স্পষ্টভাবে চলতে থাকলে মালিকানা ঢাল নয় — এবং [অধ্যায় নয়](core_08_standing_assessment.md) লঙ্ঘনটি নথিভুক্ত করেছে। তখন ক্ষতি থামাতে রূপান্তর ব্যবস্থা নিতে পারে, তবে কেবল এই অনুচ্ছেদ এবং **CI-14.1** (*অননুগত সম্পত্তি, জব্দ, স্বেচ্ছামূলক প্রণোদনা*) থেকে **CI-14.3** (*রূপান্তর-সীমিত প্রতিকারের কার্যকর শর্ত*)-এর সুরক্ষা মেনে।
 - **সাংবিধানিক-বিরোধী ব্যবহারের ব্যাখ্যা:** দখলের ন্যূনতম মান ধারককে রক্ষা করে, অপব্যবহারকে নয়। **সাংবিধানিক-বিরোধী আচরণ** চালানো, অর্থায়ন, সরঞ্জাম জোগানো, আড়াল বা বজায় রাখতে ব্যবহৃত সম্পত্তি, তহবিল, ব্যবস্থা বা অন্য সম্পদকে এটি রক্ষা করে না। অননুগত্য থেকে এটি আলাদা: সম্পদে ত্রুটি থাকা জরুরি নয়; প্রশ্ন হলো তা কী কাজে ব্যবহৃত হয়। এই ব্যাখ্যা একটি ঢাল সরায়, নতুন জব্দের ক্ষমতা তৈরি করে না; যে কোনো ব্যবস্থার কর্তৃত্ব [অধ্যায় এগারো](core_10_a_misconduct_designation.md) (*সাংবিধানিক-বিরোধী অসদাচরণ*), অধ্যায় দশ এবং **অনুচ্ছেদ XX-B** (*সীমাবদ্ধতার ন্যূনতম মান*) থেকে আসতে হবে।
   - **আগে নথি:** ব্যবহারটি চূড়ান্ত [অধ্যায় এগারো](core_10_a_misconduct_designation.md) (*সাংবিধানিক-বিরোধী অসদাচরণ*) নির্ধারণ বা চূড়ান্ত [অধ্যায় নয়](core_08_standing_assessment.md) (*সম্মতি, লঙ্ঘন ও অধিকার-অবস্থান মডেল*) লঙ্ঘন-অক্ষ s = 7, 8 বা 9 সিদ্ধান্তের সঙ্গে যুক্ত হতে হবে। চূড়ান্ত নথির আগে কেবল বৈধ অন্তর্বর্তী সুরক্ষা — সংরক্ষণ, এসক্রো, অর্থ আটকে রাখা, প্রবেশাধিকার ফিরিয়ে দেওয়া, অথবা [অধ্যায় এগারো §4.1 প্রতিকার ও সংশোধন (সাংবিধানিক-বিরোধী)](core_10_a_misconduct_designation.md#4-1-remedy-and-correction-anti-constitutional)-এর তুলনীয় সুরক্ষা — পাওয়া যাবে। তা নথিবদ্ধ, সময়সীমাবদ্ধ ও পর্যালোচনাযোগ্য হতে হবে এবং কেবল অপেক্ষায় প্রতিকার ব্যর্থ হলে বা ক্ষতি চলতে থাকলে ব্যবহার করা যাবে।
-  - **অবস্থা নয়, প্রকৃত ব্যবহার:** নথিতে আচরণের বাস্তব ব্যবহার, নির্দেশনা বা অর্থায়ন দেখাতে হবে। মালিকানা, সম্পৃক্ততা, মতাদর্শ, সুরক্ষিত ভিন্নমত বা শান্তিপূর্ণ প্রতিবাদ ([ভিন্নমত ও শান্তিপূর্ণ প্রতিবাদের ব্যতিক্রম](../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)) এ পরীক্ষা পূরণ করে না।
+  - **অবস্থা নয়, প্রকৃত ব্যবহার:** নথিতে আচরণের বাস্তব ব্যবহার, নির্দেশনা বা অর্থায়ন দেখাতে হবে। মালিকানা, সম্পৃক্ততা, মতাদর্শ, সুরক্ষিত ভিন্নমত বা শান্তিপূর্ণ প্রতিবাদ ([ভিন্নমত ও শান্তিপূর্ণ প্রতিবাদের ব্যতিক্রম](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)) এ পরীক্ষা পূরণ করে না।
   - **আগে ব্যবহার বন্ধ করুন:** ব্যবস্থার লক্ষ্য অপব্যবহার বন্ধ করা — পরিচালনা স্থগিত, অর্থপ্রবাহ আটক, প্রবেশাধিকার অপসারণ বা সিলমোহরযুক্ত হেফাজত — এবং সর্বনিম্ন কার্যকর সীমাবদ্ধ পদক্ষেপ নেওয়া। স্থায়ীভাবে কেড়ে নেওয়া, ধ্বংস করা বা এর বেশি বাজেয়াপ্তির জন্য **ধ্বংসাত্মক নিষ্পত্তির ন্যূনতম মান**, **অনুচ্ছেদ XX-B** (*সীমাবদ্ধতার ন্যূনতম মান*) এবং **অপরিহার্য প্রবেশাধিকার সুরক্ষা**-ও পূরণ করতে হবে।
   - **অন্যরা সুরক্ষিত:** নির্দোষ সহ-মালিক, ঋণদাতা, নির্ভরশীল ব্যক্তি ও সদ্ভাবী তৃতীয় পক্ষ নিচে বলা ক্ষতিপূরণ ও প্রতিস্থাপন-সুরক্ষা পাবেন। বিশ্বাসযোগ্য সংবেদনশীলতার সূচক নথিতে থাকা যে কোনো ব্যবস্থায় **অনুচ্ছেদ VI-B** (*সংবেদনশীলতার অবস্থা নির্ধারণের ন্যূনতম মান*)-এর সংরক্ষণ-নিয়ম অপরিবর্তিত প্রযোজ্য।
   - **ফাঁকি নয়:** মালিকানা হস্তান্তর, ছদ্ম-ধারক, নামমাত্র মালিকানা, উত্তরসূরি ও নতুন নাম দেওয়া এই ব্যাখ্যাকে ব্যর্থ করতে পারবে না ([অধ্যায় দশ §9.4 ফাঁকি-বিরোধী ও প্রকৃত নিয়ন্ত্রণ পর্যন্ত দেখার ক্ষমতা](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority))।

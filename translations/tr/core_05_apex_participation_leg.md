@@ -107,7 +107,7 @@ Bu bacak altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Aşağı: Katılım ölçüm ailesi — yalnızca-bağlantı özeti; terim başına kademeler yaprak tanımlarda yaşar — bkz. [Maddi adillik](../../core_05.055_band_participation.md#substantive-fairness), [Korunan özellik vekillemesi ve orantısız etki](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Erişilebilirlik](../../core_05.055_band_participation.md#accessibility), [Eğitimsel eylem yetisi](../../core_05.055_band_participation.md#educational-agency), [Anlamlı eylem yetisi](../../core_05.055_band_participation.md#meaningful-agency), ve Süreklilik bantındaki [Mahremiyet (Bilgisel)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) kümesi.
-- Birlikte oku: Altıncı Bölüm, [Yedinci Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), ya da içerilmiş belgeler — bağlayıcı ayrımcılık yasağı, uyarlama, eğitim ya da mahremiyet gerekleri, o belgeler bunları açıkça istediğinde doğar.
+- Birlikte oku: Altıncı Bölüm, [Yedinci Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), ya da içerilmiş belgeler — bağlayıcı ayrımcılık yasağı, uyarlama, eğitim ya da mahremiyet gerekleri, o belgeler bunları açıkça istediğinde doğar.
 
 </details>
 

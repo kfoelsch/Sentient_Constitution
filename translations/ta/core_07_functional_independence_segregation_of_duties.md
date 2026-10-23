@@ -1,12 +1,12 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# அத்தியாயம் ஏழு: செயல்பாட்டு சுதந்திரமும் கடமைகளின் பிரிப்பும்
+# அத்தியாயம் ஏழு: செயல்பாட்டுச் சுதந்திரம் மற்றும் கடமைகளைப் பிரித்தல்
 
 <details>
 <summary><strong><span style="color: #2563eb;">கோர்ப்பஸ் அமைவிடம் (செயற்பாட்டு விதி அல்ல): கோப்பு அமைப்பும் வாசிப்பு விதிகளும்</span></strong></summary>
 
 > கீழ்வரும் உள்ளடக்கம் **வாசகர் வழிகாட்டல் மட்டுமே**. இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ உள்ள கட்டுப்படுத்தும் கடமைகளை இது சேர்க்கவோ நீக்கவோ குறுக்கவோ செய்யாது.
 >
-> இந்தக் கோப்பு **Sentient Constitution-இன் ஒரு பகுதியாகும்**; மற்ற எண்ணிடப்பட்ட `core_*` கோப்புகளுடன் ஒரே ஆவணமாக வாசிக்கப்படும் போதுமே இது கட்டுப்படுத்தும். இதில் **அத்தியாயம் ஏழு** உள்ளது: செயல்பாட்டு சுதந்திரமும் கடமைகள் பிரிப்பும் குறித்த செயல்முறைகள் அனைத்திற்குமான அடித்தளம். இது அத்தியாயம் ஆறின் உரிமைகள் அடித்தளத்திற்குப் பின் வருகிறது; [அத்தியாயம் எட்டு அமைப்பு ஒத்திசைவு சான்றளிப்பு](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) தொடங்கும் அரசியலமைப்பு செயல்முறை அத்தியாயங்களுக்கு முன் வருகிறது.
+> இந்தக் கோப்பு **Sentient Constitution-இன் ஒரு பகுதியாகும்**; மற்ற எண்ணிடப்பட்ட `core_*` கோப்புகளுடன் ஒரே ஆவணமாக வாசிக்கப்படும் போதுமே இது கட்டுப்படுத்தும். இதில் **அத்தியாயம் ஏழு** உள்ளது: செயல்பாட்டு சுதந்திரமும் கடமைகள் பிரிப்பும் குறித்த செயல்முறைகள் அனைத்திற்குமான அடித்தளம். இது அத்தியாயம் ஆறின் உரிமைகள் அடித்தளத்திற்குப் பின் வருகிறது; [அத்தியாயம் எட்டு அமைப்பு ஒத்திசைவு சான்றளிப்பு](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) தொடங்கும் அரசியலமைப்பு செயல்முறை அத்தியாயங்களுக்கு முன் வருகிறது.
 >
 > - **அரசியலமைப்பு உரிமையாளர்:** பொருளளவில் கட்டுப்படுத்தும் செயல்களுக்கான தனித்தனி இருக்கை அடித்தளம்; ஒவ்வொரு [பொருளளவில் கட்டுப்படுத்தும் செயல் பதிவின்](../../core_05_band_accountability.md#materially-binding-act-record) குறைந்தபட்ச உள்ளடக்கம்; செயலைச் செய்பவரிடமிருந்தும் அவரின் [பொருள் கட்டுப்பாட்டுக் கோட்டிலிருந்தும்](../../core_05_band_accountability.md#material-control-line) சுதந்திரம்; வெளியிடப்பட்ட செயல்பாதை மற்றும் பங்கு அமைவிடம்; முரண்பாடு, காலியிடம், மாற்றுப் பொறுப்பு, தவறான இருக்கைக்கான வழிமாற்றம்; விகிதாசாரமான ஒருங்கிணைந்த தங்குமிடம்; பொறுப்பைத் தெளிவுபடுத்தும் ஒப்படைப்புகள்; மேலும் பின்னர் வரும் ஒவ்வொரு அரசியலமைப்பு செயல்முறையும் பின்பற்ற வேண்டிய குறைந்தபட்ச சுதந்திர நிபந்தனைகள்.
 > - **கொள்கை அடுக்கு மூலம்:** [அத்தியாயம் ஒன்று §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) ஆளுகை செயல்பாட்டு சுதந்திரத்தைப் பேண வேண்டும் எனக் கோருகிறது; செயல்பாட்டு இருக்கை அமைப்பை இங்கு வழிமாற்றுகிறது.
@@ -22,7 +22,7 @@
 
 - மேல்நிலை: [அரசியலமைப்பு நாற்கூறு](../../core_00_preamble.md#constitutional-tetrad) — குறிப்பாக **மேற்பார்வை** மற்றும் **பொறுப்புக்கூறல்**; [பொருளளவு பங்கு](../../core_00_preamble.md#material-stake); [அத்தியாயம் ஒன்று §17.1 பகிரப்பட்ட பொறுப்பாளர் தரநிலை](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [அத்தியாயம் ஒன்று §18 பொறுப்பாளர் ஒழுக்கத்தின் கீழான ஆளுகை](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [கட்டுரை XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*).
 - உட்பிரிவுகள்: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- கீழ்நிலை: [அத்தியாயம் எட்டு](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [அத்தியாயம் ஒன்பது](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [அத்தியாயம் பன்னிரண்டு](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [அத்தியாயம் பதின்மூன்று](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); மேலே பெயரிடப்பட்ட செயலாக்க உரை.
+- கீழ்நிலை: [அத்தியாயம் எட்டு](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [அத்தியாயம் ஒன்பது](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [அத்தியாயம் பன்னிரண்டு](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [அத்தியாயம் பதின்மூன்று](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); மேலே பெயரிடப்பட்ட செயலாக்க உரை.
 - இதனுடன் வாசிக்கவும்: [அத்தியாயம் ஒன்று §19.3 ஒத்திசைவின்மை கண்டறிதல்](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*பன்முகக் கண்டறிதலும் மதிப்பாய்வும்*); [பொறுப்புக் கூறக்கூடிய செயல்](../../core_05_band_accountability.md#attributable-action); [கூறப்பட்ட பொறுப்பின் நேர்மை](../../core_05_band_accountability.md#attribution-integrity); [தணிக்கைத்திறன்](../../core_05_band_oversight.md#auditability); [எதிர்வாதம் முன்வைக்கும் திறன்](../../core_05_band_accountability.md#contestability); [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -68,7 +68,7 @@
 - செயலாக்க உரையில் குறிப்பிடப்பட்ட செயல்பாட்டு இருக்கைப் பட்டியல்கள், பணியாளர் முறைகள், செயல்பாதை வரைபட இயக்கவியல்.
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. நான்கு இருக்கை அரசியலமைப்பு அடித்தளம்
+### 2. நான்கு இருக்கை அரசியலமைப்புத் தேவை
 
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
@@ -354,7 +354,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
 - மேல்நிலை: [§1](#1-purpose-scope-and-owner-boundary) முதல் [§8](#8-act-records-and-attributable-handoffs) வரை.
-- கீழ்நிலை: [அத்தியாயம் எட்டு](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [அத்தியாயம் ஒன்பது](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [அத்தியாயம் பன்னிரண்டு](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [அத்தியாயம் பதின்மூன்று](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- கீழ்நிலை: [அத்தியாயம் எட்டு](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [அத்தியாயம் ஒன்பது](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [அத்தியாயம் பன்னிரண்டு](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [அத்தியாயம் பதின்மூன்று](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - இதனுடன் வாசிக்கவும்: [அதிகார அடுக்கு மற்றும் உள் படிநிலை](../../core_05_band_integrative.md#owner-non-relocation) மற்றும் [முன்னுரையின் உரிமையாளர் பதிவேடு](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>

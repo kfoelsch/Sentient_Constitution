@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# 제7장: 기능적 독립성과 직무 분리
+# 제7장: 기능적 독립과 업무 분리
 
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스 내 위치(비작동 규정): 파일 구조 및 읽기 규칙</span></strong></summary>
 
-> 이 파일은 **Sentient Constitution의 일부**이며, 하나의 문서로 함께 읽는 다른 번호가 붙은 `core_*` 파일들과 **함께 읽을 때에만 구속력**을 가집니다. 이 파일에는 **제7장**이 담겨 있습니다. 즉, 기능적 독립성과 직무 분리에 관해 모든 절차에 공통으로 적용되는 기준선입니다. 이 장은 제6장의 권리 기준선 다음에 오며, [제8장 시스템 정렬 인증](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)으로 시작하는 헌법 절차 장들보다 앞섭니다.
+> 이 파일은 **Sentient Constitution의 일부**이며, 하나의 문서로 함께 읽는 다른 번호가 붙은 `core_*` 파일들과 **함께 읽을 때에만 구속력**을 가집니다. 이 파일에는 **제7장**이 담겨 있습니다. 즉, 기능적 독립성과 직무 분리에 관해 모든 절차에 공통으로 적용되는 기준선입니다. 이 장은 제6장의 권리 기준선 다음에 오며, [제8장 시스템 정렬 인증](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)으로 시작하는 헌법 절차 장들보다 앞섭니다.
 >
 > - **헌법상 소관:** 실질적으로 구속력 있는 행위를 위한 별도 좌석 기준선, 모든 [실질적 구속 행위 기록](../../core_05_band_accountability.md#materially-binding-act-record)의 보편적 최소 내용, 행위자와 행위자의 [중요 통제선](../../core_05_band_accountability.md#material-control-line)으로부터의 독립성, 공표된 경로 및 역할 배치, 이해충돌·공석·대체 및 잘못된 좌석으로의 이관, 비례적인 통합 운영, 귀속 가능한 인계, 그리고 이후 모든 헌법 절차가 적용해야 하는 최소 독립 조건.
 > - **원칙 계층의 출처:** [제1장 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)은 통치가 기능적 독립성을 보존하도록 요구하며, 실행 좌석 구조를 이 장에 맡깁니다.
@@ -20,7 +20,7 @@
 
 - 상위 근거: [헌법 4중 구조](../../core_00_preamble.md#constitutional-tetrad) — 특히 **감독**과 **책임성**; [중요 이해관계](../../core_00_preamble.md#material-stake); [제1장 §17.1 공동 책무 기준](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [책무 규율하의 통치, 제1장 §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [제XVI조](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*감사, 투명성 및 독립 검증*).
 - 하위 절: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- 하위 규정: [제8장](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [제9장](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제12장](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [제13장](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); 위에 지정된 이행 문서.
+- 하위 규정: [제8장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제9장](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제12장](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [제13장](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); 위에 지정된 이행 문서.
 - 함께 읽을 문서: [불일치 감지, 제1장 §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*다원적 감지와 검토*); [귀속 가능한 조치](../../core_05_band_accountability.md#attributable-action); [귀속 무결성](../../core_05_band_accountability.md#attribution-integrity); [감사 가능성](../../core_05_band_oversight.md#auditability); [이의제기 가능성](../../core_05_band_accountability.md#contestability); [비례성](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -66,7 +66,7 @@
 - 지정된 이행 문서의 운영 좌석 목록, 인력 배치 방법 및 경로 지도 운영 방식.
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. 4좌석 헌법 기준선
+### 2. 4석 헌법요건
 
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
@@ -350,7 +350,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
 - 상위 근거: [§1](#1-purpose-scope-and-owner-boundary)부터 [§8](#8-act-records-and-attributable-handoffs)까지.
-- 하위 규정: [제8장](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [제9장](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제12장](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [제13장](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- 하위 규정: [제8장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제9장](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제12장](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [제13장](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - 함께 읽을 문서: [권한 체계와 내부 위계](../../core_05_band_integrative.md#owner-non-relocation) 및 [서문 소관 등록부](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>

@@ -1146,7 +1146,7 @@ Insentif tidak boleh memberi imbalan, melindungi, menormalkan, atau membuat hal 
   - tindakan berupa perintah yang melanggar hukum atau Konstitusi;
   - penyembunyian;
   - pembalasan;
-  - [penghalangan akuntabilitas](core_08_standing_assessment.md#232-violation-event-types) (jenis peristiwa dalam model kedudukan dan perutean penetapan [Bab Sebelas §5.11 Penghalangan akuntabilitas: interaksi kriteria](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — bukan pengecualian mandiri untuk pemberian imbalan); atau
+  - [penghalangan akuntabilitas](core_08_standing_assessment.md#232-violation-event-types) (jenis peristiwa dalam model kedudukan dan perutean penetapan [Bab Sebelas §5.11 Penghalangan akuntabilitas: interaksi kriteria](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — bukan pengecualian mandiri untuk pemberian imbalan); atau
   - penolakan untuk memperbaiki kerugian konstitusional yang telah diverifikasi; atau
 - jalur imbalan yang secara material bergantung pada pelanggaran atau penyembunyiannya, termasuk:
   - kompensasi, bonus, ekuitas, pengangkatan, promosi, atau masa jabatan;
@@ -1316,7 +1316,7 @@ Kondisi semacam itu adalah **pemicu eskalasi**, bukan keadaan operasi biasa. Kon
 - **Peninjauan dan koreksi berkala:** [Kewajiban Peninjauan dan Koreksi](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **Peninjauan yang ditingkatkan:** [§11.1 Mekanisme Ambang Konsentrasi Pasar](core_01_a_values_principles.md#111-mekanisme-ambang-konsentrasi-pasar-dapat-disesuaikan-oleh-pengadopsi) dan [§11.2 Pro-Persaingan dan Anti-Dominasi](core_01_a_values_principles.md#112-persaingan-pro-dan-anti-dominasi), jika konsentrasi atau dominasi bersifat material.
 - **Mekanisme kedudukan dan pelanggaran:** [Bab Sembilan — Model Kontribusi, Pelanggaran, dan Kedudukan](core_08_standing_assessment.md), jika temuan terverifikasi dipertaruhkan.
-- **Pelanggaran anti-konstitusional:** [Bab Sebelas §5.1 Subversi berbasis konsentrasi: interaksi kriteria](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), jika konsentrasi atau penangkapan proses merupakan pelanggaran anti-konstitusional.
+- **Pelanggaran anti-konstitusional:** [Bab Sebelas §5.1 Subversi berbasis konsentrasi: interaksi kriteria](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), jika konsentrasi atau penangkapan proses merupakan pelanggaran anti-konstitusional.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 Koreksi Ketidakselarasan dan Tanggapan atas Penangkapan

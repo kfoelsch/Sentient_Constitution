@@ -107,7 +107,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - గమ్యం: పాల్గొనడం కొలత కుటుంబం — లింక్-మాత్రం రోలప్; పదం-వారీ స్థాయిలు ఆకు నిర్వచనాలపై ఉంటాయి — చూడండి [వాస్తవిక న్యాయం](../../core_05.055_band_participation.md#substantive-fairness), [రక్షిత లక్షణ ప్రతినిధి వాడుక మరియు అసమాన ప్రభావం](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [ప్రవేశ్యత](../../core_05.055_band_participation.md#accessibility), [విద్యా కర్తృత్వం](../../core_05.055_band_participation.md#educational-agency), [అర్థవంతమైన కర్తృత్వం](../../core_05.055_band_participation.md#meaningful-agency), మరియు కొనసాగింపు బ్యాండ్‌లో [గోప్యత (సమాచార)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) క్లస్టర్.
-- దీనితో చదవండి: అధ్యాయం ఆరు, [అధ్యాయం ఏడు](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), లేదా సమావేశీకరించిన పత్రాలు — బంధనీయ వివక్షా-నిషేధం, సౌకర్యం, విద్య, లేదా గోప్యత అవసరాలు ఆ పత్రాలు స్పష్టంగా కోరినప్పుడు పుడతాయి.
+- దీనితో చదవండి: అధ్యాయం ఆరు, [అధ్యాయం ఏడు](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), లేదా సమావేశీకరించిన పత్రాలు — బంధనీయ వివక్షా-నిషేధం, సౌకర్యం, విద్య, లేదా గోప్యత అవసరాలు ఆ పత్రాలు స్పష్టంగా కోరినప్పుడు పుడతాయి.
 
 </details>
 

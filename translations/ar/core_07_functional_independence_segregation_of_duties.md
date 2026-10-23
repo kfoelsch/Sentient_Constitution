@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# الفصل السابع: الاستقلال الوظيفي وفصل الواجبات
+# الفصل السابع: الاستقلال الوظيفي والفصل بين الواجبات
 
 <details>
 <summary><strong><span style="color: #2563eb;">موضع المجموعة النصية (غير تشغيلي): بنية الملف وقواعد القراءة</span></strong></summary>
 
-> هذا الملف **جزء من Sentient Constitution**، ويكون **ملزماً فقط معاً** مع ملفات `core_*` المرقمة الأخرى عند قراءتها بوصفها صكاً واحداً. وهو يتضمن **الفصل السابع**: الحد الأدنى المشترك بين العمليات للاستقلال الوظيفي وفصل الواجبات. يأتي بعد أرضية الحقوق في الفصل السادس وقبل فصول الإجراءات الدستورية التي تبدأ بـ[شهادة مواءمة النظام في الفصل الثامن](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index).
+> هذا الملف **جزء من Sentient Constitution**، ويكون **ملزماً فقط معاً** مع ملفات `core_*` المرقمة الأخرى عند قراءتها بوصفها صكاً واحداً. وهو يتضمن **الفصل السابع**: الحد الأدنى المشترك بين العمليات للاستقلال الوظيفي وفصل الواجبات. يأتي بعد أرضية الحقوق في الفصل السادس وقبل فصول الإجراءات الدستورية التي تبدأ بـ[شهادة مواءمة النظام في الفصل الثامن](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 >
 > - **المالك الدستوري:** الحد الأدنى للمقاعد المنفصلة في الأفعال الملزمة مادياً؛ الحد الأدنى الشامل لمحتوى كل [سجل فعل ملزم مادياً](../../core_05_band_accountability.md#materially-binding-act-record)؛ الاستقلال عن الفاعل وعن [خط السيطرة المادية](../../core_05_band_accountability.md#material-control-line) الخاص به؛ نشر توزيع المسارات والأدوار؛ توجيه تضارب المصالح والشواغر والاستبدال والإحالة إلى المقعد الخطأ؛ الاستضافة المدمجة المتناسبة؛ عمليات التسليم القابلة للإسناد؛ والحد الأدنى لشروط الاستقلال التي يجب على كل عملية دستورية لاحقة تطبيقها.
 > - **مصدر طبقة المبادئ:** يقتضي [الفصل الأول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) أن يحافظ الحكم على الاستقلال الوظيفي، ويوجه البنية التشغيلية للمقاعد إلى هذا الموضع.
@@ -20,7 +20,7 @@
 
 - الأساس السابق: [الرباعية الدستورية](../../core_00_preamble.md#constitutional-tetrad) — ولا سيما **الرقابة** و**المساءلة**؛ [المصلحة المادية](../../core_00_preamble.md#material-stake)؛ [معيار الإشراف المشترك في الفصل الأول §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)؛ [الحكم في ظل انضباط الإشراف، الفصل الأول §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [المادة XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*التدقيق والشفافية والتحقق المستقل*).
 - الأقسام الفرعية: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes).
-- اللاحق: [الفصل الثامن](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)؛ [الفصل التاسع](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [الفصل الثاني عشر](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [الفصل الثالث عشر](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ ونصوص التنفيذ المحددة أعلاه.
+- اللاحق: [الفصل الثامن](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [الفصل التاسع](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [الفصل الثاني عشر](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [الفصل الثالث عشر](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ ونصوص التنفيذ المحددة أعلاه.
 - يُقرأ مع: [كشف عدم المواءمة، الفصل الأول §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*الكشف والمراجعة المتعددان*)؛ [الفعل القابل للإسناد](../../core_05_band_accountability.md#attributable-action)؛ [نزاهة الإسناد](../../core_05_band_accountability.md#attribution-integrity)؛ [قابلية التدقيق](../../core_05_band_oversight.md#auditability)؛ [قابلية الاعتراض](../../core_05_band_accountability.md#contestability)؛ [التناسب](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -66,7 +66,7 @@
 - كتالوجات المقاعد التشغيلية وطرق التوظيف وآليات خرائط المسارات من نصوص التنفيذ المحددة.
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. الأرضية الدستورية للمقاعد الأربعة
+### 2. المتطلبات الدستورية المكونة من أربعة مقاعد
 
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
@@ -350,7 +350,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
 - الأساس السابق: من [§1](#1-purpose-scope-and-owner-boundary) إلى [§8](#8-act-records-and-attributable-handoffs).
-- اللاحق: [الفصل الثامن](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)؛ [الفصل التاسع](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [الفصل الثاني عشر](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [الفصل الثالث عشر](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- اللاحق: [الفصل الثامن](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [الفصل التاسع](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [الفصل الثاني عشر](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [الفصل الثالث عشر](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - يُقرأ مع: [تسلسل الصلاحيات والتراتبية الداخلية](../../core_05_band_integrative.md#owner-non-relocation) و[سجل المالكين في الديباجة](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>

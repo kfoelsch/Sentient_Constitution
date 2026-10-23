@@ -12,7 +12,7 @@
 >
 > **Önceki (bu dil):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 >
-> **Sonraki (hâlâ İngilizce):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
+> **Sonraki (hâlâ İngilizce):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 > **Okuma yayı:** ölçüm ailesi evi → Süreklilik bantında yaprak yönlendirmesi.
 
 </details>
@@ -58,12 +58,12 @@ Bu kesişen ölçüler, sistemlerin anayasal sonuçları etkili teslim edip etme
 - İşlemsel ölçüm kademeleri Beşinci Bölüm tanım evlerinde yaşar — bkz. [Anayasal verimlilik](../../core_05.040_band_continuity.md#constitutional-efficiency), [Önlenebilir yük](../../core_05.040_band_continuity.md#avoidable-burden), [Üretken kapasite](../../core_05.040_band_continuity.md#productive-capacity-constitutional) ve [Yük azaltma ödevi](../../core_05.040_band_continuity.md#burden-reduction-duty-constitutional).
 - Performans hedefleri, ödüller ve kaynak ölçüleri yalnızca anayasal sonuçlara izlenebilir kaldıkları ölçüde geçerlidir.
 - Anayasal verimliliğin, [Üretken kapasite](../../core_05.040_band_continuity.md#productive-capacity-constitutional)nin ya da Hak Tabanı uyumunun yerine geçemezler.
-- Bütün-sistem performansının maddi olarak kapsamda olduğu yerde [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ile birlikte okuyun.
+- Bütün-sistem performansının maddi olarak kapsamda olduğu yerde [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ile birlikte okuyun.
 
 ---
 
 **Önceki dosya:** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
+**Sonraki dosya (hâlâ İngilizce):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 
 **Bağlayıcı asıl:** [core_05_band_performance.md](../../core_05.060_band_performance.md)
