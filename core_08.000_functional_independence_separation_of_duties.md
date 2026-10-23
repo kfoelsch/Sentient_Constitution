@@ -419,14 +419,19 @@ A sentient or small practice of Class L or higher may place its seats with a hos
 <a id="65-informal-and-community-work"></a>
 #### 6.5 Informal and community work
 
-Informal, unpaid, mutual-aid, care, repair, teaching, cooperative, and community-stewardship work may use an [independent](core_05.035_band_accountability.md#independence) relying body with published authority for the relevant check. The Constitution does not require institutional formality that the scope cannot reasonably reach where a genuinely independent and accountable route exists.
+Informal, unpaid, mutual-aid, care, repair, teaching, cooperative, and community-stewardship work may use an [independent](core_05.035_band_accountability.md#independence) relying body with published authority for the relevant check. The Constitution does not require such work to build formal offices, staffing, or procedures beyond what its size and means can reasonably support, as long as the check runs through a genuinely independent and accountable route.
 
 <a id="66-stake-class-and-what-does-not-justify-a-merger"></a>
 #### 6.6 Stake, class, and what does not justify a merger
 
-Where the material stake or class is high, the presumption of separate offices and competency redundancy in this section still governs. A group seat does not lower it.
+The higher the stakes, the stronger the starting expectation that each seat sits in its own office and that each job has a qualified backup, meaning more than one sentient able to do it (competency redundancy). Sharing a seat through a group under [§6.3 Seats held in common](#63-seats-held-in-common) does not lower that expectation.
 
-Scarce staffing, speed, convenience, or concentration of expertise does not by itself justify a merger. The class-scaled posture in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement) governs: no departure is available for Class A, and any departure for Class B or Class C must meet the requirements above. The higher the material stake, the stronger the presumption of separate offices, competency redundancy, and independent substitutes.
+Being short of staff, in a hurry, or wanting convenience is not enough to justify putting two seats in one office. Neither is having one expert who knows more than anyone else. The class rules in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement) apply:
+
+- **Class A:** the four seats are never merged.
+- **Class B or Class C:** a merger is allowed only if it meets every condition in this section.
+
+The more harm that could follow and the more others depend on the work, the harder a merger is to justify, and the more the work needs separate offices, backup holders for each job, and independent stand-ins.
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. Emergency and Urgent Action
