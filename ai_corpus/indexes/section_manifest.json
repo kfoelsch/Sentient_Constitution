@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-23T00:35:04+00:00",
+  "generated_at": "2026-10-23T01:08:17+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 526,
@@ -705,9 +705,9 @@
       ]
     },
     "core_08.000_functional_independence_separation_of_duties.md": {
-      "total_lines": 555,
+      "total_lines": 560,
       "sections": [
-        {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES","level":1,"line_start":2,"line_end":555,"anchor":"#chapter-eight-functional-independence-and-separation-of-duties"},
+        {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES","level":1,"line_start":2,"line_end":560,"anchor":"#chapter-eight-functional-independence-and-separation-of-duties"},
         {"header":"1. Purpose, Scope, and Owner Boundary","level":3,"line_start":57,"line_end":90,"anchor":"#1-purpose-scope-and-owner-boundary"},
         {"header":"2. Four-Seat Constitutional Requirement","level":3,"line_start":91,"line_end":188,"anchor":"#2-four-seat-constitutional-requirement"},
         {"header":"3. Independence, Conflict, and Control Lines","level":3,"line_start":189,"line_end":215,"anchor":"#3-independence-conflict-and-control-lines"},
@@ -717,16 +717,16 @@
         {"header":"5.2 Where the map is kept","level":4,"line_start":295,"line_end":303,"anchor":"#52-where-the-map-is-kept"},
         {"header":"5.3 A seat the map leaves unplaced, or a holder who cannot serve","level":4,"line_start":304,"line_end":312,"anchor":"#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve"},
         {"header":"5.4 Delegation","level":4,"line_start":313,"line_end":321,"anchor":"#54-delegation"},
-        {"header":"6. Proportional Scaling and Merged Hosting","level":3,"line_start":322,"line_end":431,"anchor":"#6-proportional-scaling-and-merged-hosting"},
+        {"header":"6. Proportional Scaling and Merged Hosting","level":3,"line_start":322,"line_end":436,"anchor":"#6-proportional-scaling-and-merged-hosting"},
         {"header":"6.1 How separation scales","level":4,"line_start":354,"line_end":358,"anchor":"#61-how-separation-scales"},
         {"header":"6.2 Merging two seats in one office","level":4,"line_start":359,"line_end":370,"anchor":"#62-merging-two-seats-in-one-office"},
         {"header":"6.3 Seats held in common","level":4,"line_start":371,"line_end":406,"anchor":"#63-seats-held-in-common"},
         {"header":"6.4 Joint professional practice","level":4,"line_start":407,"line_end":419,"anchor":"#64-joint-professional-practice"},
         {"header":"6.5 Informal and community work","level":4,"line_start":420,"line_end":424,"anchor":"#65-informal-and-community-work"},
-        {"header":"6.6 Stake, class, and what does not justify a merger","level":4,"line_start":425,"line_end":431,"anchor":"#66-stake-class-and-what-does-not-justify-a-merger"},
-        {"header":"7. Emergency and Urgent Action","level":3,"line_start":432,"line_end":474,"anchor":"#7-emergency-and-urgent-action"},
-        {"header":"8. Act Records and Attributable Handoffs","level":3,"line_start":475,"line_end":515,"anchor":"#8-act-records-and-attributable-handoffs"},
-        {"header":"9. Relationship to Later Processes","level":3,"line_start":516,"line_end":555,"anchor":"#9-relationship-to-later-processes"}
+        {"header":"6.6 Stake, class, and what does not justify a merger","level":4,"line_start":425,"line_end":436,"anchor":"#66-stake-class-and-what-does-not-justify-a-merger"},
+        {"header":"7. Emergency and Urgent Action","level":3,"line_start":437,"line_end":479,"anchor":"#7-emergency-and-urgent-action"},
+        {"header":"8. Act Records and Attributable Handoffs","level":3,"line_start":480,"line_end":520,"anchor":"#8-act-records-and-attributable-handoffs"},
+        {"header":"9. Relationship to Later Processes","level":3,"line_start":521,"line_end":560,"anchor":"#9-relationship-to-later-processes"}
       ]
     },
     "core_09.005_system_alignment_certification_evaluation.md": {
