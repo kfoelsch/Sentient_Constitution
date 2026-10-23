@@ -1898,7 +1898,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제8장 §3 전체 시스템 인증 평가](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §18 책임 있는 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
-- 함께 읽기: [시스템 장악](../../core_05.040_band_continuity.md#system-capture); [장악 방지](../../core_05.040_band_continuity.md#anti-capture); [제7장: 기능적 독립성과 직무 분리](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립성과-직무-분리).
+- 함께 읽기: [시스템 장악](../../core_05.040_band_continuity.md#system-capture); [장악 방지](../../core_05.040_band_continuity.md#anti-capture); [제7장: 기능적 독립성과 직무 분리](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립과-업무-분리).
 
 </details>
 
@@ -1924,8 +1924,8 @@ flowchart TB
   - 구조적 장악.
   
   감사 가능성이나 이의 제기 가능성 없이 영향력이 집중되는 경우 — 숨겨진 통제나 간접 경로를 통한 통제를 포함 — 이는 준수 위반이며 **제XI조**, **제XIV조**, **제XV조**와 관련됩니다.
-- **직무 분리:** [제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립성과-직무-분리)(*기능적 독립성과 직무 분리*)은 실질적으로 구속력 있는 모든 행위에서 직무를 분리하기 위한 최소 기준을 정합니다.
-  - 행위를 개시하고, 승인하고, 기록하고, 이의를 제기하는 자리를 서로 다르게 둡니다([§2 헌법상 네 자리 최소 기준](core_07_functional_independence_segregation_of_duties.md#2-4좌석-헌법-기준선)).
+- **직무 분리:** [제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립과-업무-분리)(*기능적 독립성과 직무 분리*)은 실질적으로 구속력 있는 모든 행위에서 직무를 분리하기 위한 최소 기준을 정합니다.
+  - 행위를 개시하고, 승인하고, 기록하고, 이의를 제기하는 자리를 서로 다르게 둡니다([§2 헌법상 네 자리 최소 기준](core_07_functional_independence_segregation_of_duties.md#2-4석-헌법요건)).
   - 행위자를 통제하는 자로부터 독립성을 확보합니다([§3 독립성, 이해충돌 및 통제선](core_07_functional_independence_segregation_of_duties.md#3-독립성-이해충돌-및-통제선)).
 
   분리되어야 할 자리를 한 감지자, 직책 또는 집단이 함께 보유하거나, 해당 자리를 맡은 사람들을 통제한다면, 이는 본 조항에 따른 구조적 장악의 징후이기도 합니다.
@@ -1937,7 +1937,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 제1장의 원칙 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 책임 있는 관리 아래의 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스), [§19 유인 정렬과 시스템 장악](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획).
-- 함께 읽기: [제XII-D조](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*); [제XII-B조](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*); [제X-A조](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)(*행위 주체성과 조작으로부터의 자유*); [제IX-A조](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)(*초상과 평판의 자기 소유*); [제XIII-E조](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*); [제XV조](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*); [제11장 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)(*여론 공간 범람과 이의 제기 경로 차단*), [§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)(*정보권 여론 공간 범람*), [§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)(*뇌물 및 부당한 이익 교환*); [제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립성과-직무-분리); [제13장 §1.2](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*).
+- 함께 읽기: [제XII-D조](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)(*장악 방지 보호장치*); [제XII-B조](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)(*가중 참여와 형식적 참여 방지 제약*); [제X-A조](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)(*행위 주체성과 조작으로부터의 자유*); [제IX-A조](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)(*초상과 평판의 자기 소유*); [제XIII-E조](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)(*고자율 시스템과 도구 매개 절차의 무결성*); [제XV조](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)(*정보권 무결성*); [제11장 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)(*여론 공간 범람과 이의 제기 경로 차단*), [§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)(*정보권 여론 공간 범람*), [§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)(*뇌물 및 부당한 이익 교환*); [제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립과-업무-분리); [제13장 §1.2](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums)(*자격, 이의가 제기된 선출, 민주주의 최소 기준*).
 
 </details>
 
@@ -1981,7 +1981,7 @@ flowchart TB
 - **적용 범위:** 이 최소 기준은 대상 기관, 그 **임명 권한자**, **채택 기관**에 적용됩니다. 요건은 실질 이해관계에 비례합니다. 사안의 공개 기록에 제출한 문서는 영향 접촉이 아니라 기록 그 자체입니다.
 - **영향 접촉의 경계:** 대상 기관, 그 **임명 권한자**, **채택 기관**은 **영향 접촉** 규칙을 공개해야 합니다. 영향 접촉이란 계류 중이거나 예상 가능한 사안을 공개 기록 밖에서 좌우하려고 [**이해관계자**](../../core_05.035_band_accountability.md#interested-party)가 구성원, 패널 위원, 직원, 진행자 또는 브리핑 제공자에게 접근하는 것입니다. 규칙은 실질 이해관계에 비례해야 하며 최소한 다음을 정해야 합니다.
   - 중요한 영향 접촉마다 접촉자, 시각, 경로, 관련 사안, 요청 또는 제안의 요약을 **기록**한다.
-  - 접촉받은 구성원, 패널 위원 또는 직원으로부터 독립된 자리에서 기록을 보관한다([제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립성과-직무-분리)).
+  - 접촉받은 구성원, 패널 위원 또는 직원으로부터 독립된 자리에서 기록을 보관한다([제7장](core_07_functional_independence_segregation_of_duties.md#제7장-기능적-독립과-업무-분리)).
   - 다른 참여자가 응답할 수 있도록 중요한 접촉을 사안 기록에 제때 **공개**한다.
   - 증거와 주장은 공개 기록에 둔다. 결정의 근거가 되는 증거나 주장을 비공개 접촉으로 제공해서는 안 된다.
   - 선물, 이익, 향후 직책 제안과 모든 위협은 일반 접촉이 아니라 공개하고 거절한 뒤 **CI-5**(*이해충돌 무결성, 장악 방지, 부패 방지*)에 따라 처리할 이해충돌로 다룬다.

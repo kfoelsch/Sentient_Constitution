@@ -209,7 +209,7 @@ def replace_text(root, reg, manifest, mode):
             text=re.sub(r'⟦CHAMBIG:(\d+)⟧',lambda m:list_display(shared_items[int(m.group(1))][1]),text)
             # Restore mapped fragments from the source manifest.
             for source, vals in amap.items():
-                index=next(i for a,b,i in pairs if a==source)
+                index=next(i for a,b,i in pairs if source in (a,b))  # crosswalk uses dotted destination names
                 for j,old_anchor in enumerate(vals):
                     token=f'⟦CHANCHOR:{index}:{j}⟧'; text=text.replace(token,'#'+list(vals.values())[j])
         elif mode == 'placeholder' and not preserve_historical_ids:
@@ -244,7 +244,7 @@ def replace_text(root, reg, manifest, mode):
                 text=re.sub(pattern,repl,text)
             if row_for_file:
                 source=row_for_file['original_file']; vals=amap.get(source,{})
-                index=next(i for a,b,i in pairs if a==source)
+                index=next(i for a,b,i in pairs if source in (a,b))  # crosswalk uses dotted destination names
                 for j,old_anchor in enumerate(vals):
                     text=text.replace(f'](#{old_anchor})',f'](⟦CHANCHOR:{index}:{j}⟧)')
                 original_file=root/source

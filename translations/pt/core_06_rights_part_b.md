@@ -1836,7 +1836,7 @@ Este Artigo estabelece a salvaguarda contra captura e sua relação com a separa
   
   A concentração de influência — inclusive controle oculto ou encaminhado indiretamente — sem auditabilidade ou possibilidade de contestação é incompatível com as normas e envolve os **Artigos XI**, **XIV** e **XV**.
 - **Separação de funções:** O [Capítulo Sete](core_07_functional_independence_segregation_of_duties.md#capítulo-sete-independência-funcional-e-separação-de-deveres) (*Independência funcional e separação de funções*) estabelece o piso para separar funções em todo ato materialmente vinculante:
-  - instâncias distintas para iniciar, aprovar, registrar e contestar o ato ([§2 Piso Constitucional de Quatro Instâncias](core_07_functional_independence_segregation_of_duties.md#2-piso-constitucional-de-quatro-assentos));
+  - instâncias distintas para iniciar, aprovar, registrar e contestar o ato ([§2 Piso Constitucional de Quatro Instâncias](core_07_functional_independence_segregation_of_duties.md#2-requisito-constitucional-de-quatro-assentos));
   - independência em relação a quem controla o agente ([§3 Independência, Conflitos e Linhas de Controle](core_07_functional_independence_segregation_of_duties.md#3-independência-conflito-e-linhas-de-controle)).
 
   Quando um sentiente, cargo ou bloco ocupar funções que devem ser separadas, ou controlar quem as ocupa, isso também é sinal de captura estrutural nos termos deste Artigo.

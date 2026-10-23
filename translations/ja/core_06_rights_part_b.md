@@ -1947,7 +1947,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連根拠</span></strong></summary>
 
 - 上位原則：原則：第1章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第8章 §3 システム全体の認証評価](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、および[第1章 §18 受託責任の規律下における統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
-- 次と併せて読む：[システムの支配](../../core_05.040_band_continuity.md#system-capture)、[支配防止](../../core_05.040_band_continuity.md#anti-capture)、[第7章：機能上の独立性と職務分離](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)。
+- 次と併せて読む：[システムの支配](../../core_05.040_band_continuity.md#system-capture)、[支配防止](../../core_05.040_band_continuity.md#anti-capture)、[第7章：機能上の独立性と職務分離](core_07_functional_independence_segregation_of_duties.md#第七章-機能の独立性と職務の分離)。
 
 </details>
 
@@ -1973,8 +1973,8 @@ flowchart TB
   - 構造的支配
   
   監査可能性または異議申立ての手段がないまま影響力が集中すること（隠れた支配や間接的な経路を通じた支配を含む）は不適合であり、**第XI条、第XIV条、第XV条**に関わります。
-- **職務分離：** [第7章](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)（*機能上の独立性と職務分離*）は、実質的な拘束力を持つすべての行為について、職務を分ける最低基準を定めます。
-  - 行為の開始、承認、記録、異議申立てを別々の担当席に割り当てること（[§2 4担当席の憲法上の最低基準](core_07_functional_independence_segregation_of_duties.md#2-四席の憲法上の最低基準)）
+- **職務分離：** [第7章](core_07_functional_independence_segregation_of_duties.md#第七章-機能の独立性と職務の分離)（*機能上の独立性と職務分離*）は、実質的な拘束力を持つすべての行為について、職務を分ける最低基準を定めます。
+  - 行為の開始、承認、記録、異議申立てを別々の担当席に割り当てること（[§2 4担当席の憲法上の最低基準](core_07_functional_independence_segregation_of_duties.md#2-憲法上の四議席の要件)）
   - 行為者を支配する者から独立していること（[§3 独立性、利益相反、支配関係](core_07_functional_independence_segregation_of_duties.md#3-独立性利益相反および支配ライン)）
 
   ある知性体、役職、または派閥が分離すべき担当席を兼ねる場合、またはその担当者を支配する場合も、本条にいう構造的支配の兆候です。
@@ -1986,7 +1986,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 スチュワードシップの規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)、および[§19 インセンティブの整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#19-インセンティブの整合とシステムの乗っ取り)。
-- あわせて読む：[第XII-D条](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）、[第XII-B条](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）、[第X-A条](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*主体性と操作からの自由*）、[第IX-A条](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像と評判の自己所有*）、[第XIII-E条](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）、[第XV条](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）、[第十一章 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*大量の働きかけによる領域の占拠と異議申立て経路の遮断*）、[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏における領域の占拠*）、[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈収賄と不適切な利益交換*）、[第七章](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)、[第十三章 §1.2](core_12_governance.md#12-適格争われる選出民主的な最低限)（*適格性、異議を伴う選出、民主主義の最低基準*）。
+- あわせて読む：[第XII-D条](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）、[第XII-B条](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）、[第X-A条](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*主体性と操作からの自由*）、[第IX-A条](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像と評判の自己所有*）、[第XIII-E条](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）、[第XV条](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）、[第十一章 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*大量の働きかけによる領域の占拠と異議申立て経路の遮断*）、[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏における領域の占拠*）、[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈収賄と不適切な利益交換*）、[第七章](core_07_functional_independence_segregation_of_duties.md#第七章-機能の独立性と職務の分離)、[第十三章 §1.2](core_12_governance.md#12-適格争われる選出民主的な最低限)（*適格性、異議を伴う選出、民主主義の最低基準*）。
 
 </details>
 
@@ -2030,7 +2030,7 @@ flowchart TB
 - **適用範囲：**これらの最低基準は、対象機関、その**任命権者**、および**採択機関**に適用されます。要件は実質的利害に応じて調整されます。案件の公開記録に提出された文書は影響接触ではなく、それ自体が記録です。
 - **影響接触の境界：**対象機関、その**任命権者**、および**採択機関**は、**影響接触**に関する規則を公開しなければなりません。[**利害関係者**](../../core_05.035_band_accountability.md#interested-party)が、係属中または予見可能な案件をその公開記録の外から形づくるため、構成員、パネリスト、職員、進行役、または説明提供者に接触することを影響接触といいます。規則は実質的利害に応じて調整し、少なくとも次を定めます。
   - 重要な影響接触ごとに、接触者、日時、経路、案件、求めたことや提案したことの概要を**記録**する。
-  - その記録を、接触された構成員、パネリスト、職員から独立した席で保管する（[第七章](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)）。
+  - その記録を、接触された構成員、パネリスト、職員から独立した席で保管する（[第七章](core_07_functional_independence_segregation_of_duties.md#第七章-機能の独立性と職務の分離)）。
   - 他の参加者が応答できる時点までに、案件記録で重要な接触を**開示**する。
   - 証拠と主張を公開記録に置く。非公開接触によって、決定が依拠する証拠や主張を提供してはならない。
   - 贈答、利益、将来の役職の申し出、および脅迫はすべて利益相反として扱い、通常の接触ではなく、開示、拒否のうえ**CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）に従って処理する。

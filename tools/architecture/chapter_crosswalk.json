@@ -1288,7 +1288,7 @@
       "legacy_section_id": "CS-7.11",
       "machine_id": "CS-06320.11",
       "display_id": "CS-6.320 \u00a711",
-      "old_anchor": "cs-711-lived-condition-minimums-continuity-and-re-entry-alignment",
+      "old_anchor": "cs-711-lived-condition-floors-continuity-and-re-entry-alignment",
       "new_anchor": "cs-6320-11-lived-condition-minimums-continuity-and-re-entry-alignment",
       "header": "CS-7.11 Lived-condition minimums, continuity, and re-entry alignment"
     },
@@ -4388,7 +4388,7 @@
       "legacy_section_id": "CI-4.1",
       "machine_id": "CI-14205.1",
       "display_id": "CI-14.205 \u00a71",
-      "old_anchor": "ci-41-shared-staffing-and-competency-requirement",
+      "old_anchor": "ci-41-shared-staffing-and-competency-floor",
       "new_anchor": "ci-14205-1-shared-staffing-and-competency-requirement",
       "header": "CI-4.1: Shared staffing and competency requirement"
     },
@@ -4808,7 +4808,7 @@
       "legacy_section_id": "CJS-2.1.1",
       "machine_id": "CJS-18110.1.1",
       "display_id": "CJS-18.110 \u00a71.1",
-      "old_anchor": "cjs-211-composition-minimum",
+      "old_anchor": "cjs-211-composition-floor",
       "new_anchor": "cjs-18110-11-composition-minimum",
       "header": "CJS-2.1.1 Composition minimum"
     },
@@ -6061,7 +6061,7 @@
         "source_file": "corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md",
         "machine_id": "CS-06320.11",
         "display_id": "CS-6.320 \u00a711",
-        "old_anchor": "cs-711-lived-condition-minimums-continuity-and-re-entry-alignment",
+        "old_anchor": "cs-711-lived-condition-floors-continuity-and-re-entry-alignment",
         "new_anchor": "cs-6320-11-lived-condition-minimums-continuity-and-re-entry-alignment"
       }
     ],
@@ -8840,7 +8840,7 @@
         "source_file": "corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md",
         "machine_id": "CI-14205.1",
         "display_id": "CI-14.205 \u00a71",
-        "old_anchor": "ci-41-shared-staffing-and-competency-requirement",
+        "old_anchor": "ci-41-shared-staffing-and-competency-floor",
         "new_anchor": "ci-14205-1-shared-staffing-and-competency-requirement"
       }
     ],
@@ -9209,7 +9209,7 @@
         "source_file": "corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md",
         "machine_id": "CJS-18110.1.1",
         "display_id": "CJS-18.110 \u00a71.1",
-        "old_anchor": "cjs-211-composition-minimum",
+        "old_anchor": "cjs-211-composition-floor",
         "new_anchor": "cjs-18110-11-composition-minimum"
       }
     ],
@@ -10302,7 +10302,7 @@
           "new_anchor": "cs-6320-10-proportional-compliance-templates-class-scaled"
         },
         {
-          "old_anchor": "cs-711-lived-condition-minimums-continuity-and-re-entry-alignment",
+          "old_anchor": "cs-711-lived-condition-floors-continuity-and-re-entry-alignment",
           "new_anchor": "cs-6320-11-lived-condition-minimums-continuity-and-re-entry-alignment"
         },
         {
@@ -12276,7 +12276,7 @@
           "new_anchor": "ci-14205-appointment-competency-rotation-and-removal"
         },
         {
-          "old_anchor": "ci-41-shared-staffing-and-competency-requirement",
+          "old_anchor": "ci-41-shared-staffing-and-competency-floor",
           "new_anchor": "ci-14205-1-shared-staffing-and-competency-requirement"
         },
         {
@@ -12571,7 +12571,7 @@
           "new_anchor": "cjs-18110-1-hybrid-delegated-authority-delegated-binding-bodies"
         },
         {
-          "old_anchor": "cjs-211-composition-minimum",
+          "old_anchor": "cjs-211-composition-floor",
           "new_anchor": "cjs-18110-11-composition-minimum"
         },
         {

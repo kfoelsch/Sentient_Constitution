@@ -811,7 +811,7 @@ Bu Anayasa ve sınırladığı kamusal yönetişim, kurumsal anlamda sekülerdir
 - Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **gözetim** ayağı (denetleyen, eylemi yapan kişi değildir); **hesap verebilirlik** ayağı (hesap verme yükü yalnızca eylemi yapana yüklenemez); [maddi çıkar](core_00_preamble.md#material-stake) ölçeklendirmesi, [Orantılılık](../../core_05.035_band_accountability.md#proportionality) kapsamında.
 - Birlikte okuyun: [§19.3 Uyumsuzluğun Tespiti](#193-hizalanma-bozukluğunun-tespiti) (*çoğul tespit ve inceleme — bu ikilinin çok-gözlü yarısı*).
 - Birlikte okuyun: [§18.5 Modüler Mimari ve Bağımlılık Disiplini](#185-modüler-mimari-ve-bağımlılık-disiplini) (*mimari karşılığı: ayrılabilir ve atfedilebilir sistem bileşenleri*).
-- Alt dayanak: [Yedinci Bölüm — İşlevsel Bağımsızlık ve Görevlerin Ayrılığı](core_07_functional_independence_segregation_of_duties.md#yedinci-bölüm-işlevsel-bağimsizlik-ve-görevlerin-ayriliği), dört koltuk tabanının ve süreçler arası uygulamasının anayasal sahibidir; belirlenmiş uygulama metinleri ve sonraki süreç bölümleri bu tabanı uygular ve daraltamaz.
+- Alt dayanak: [Yedinci Bölüm — İşlevsel Bağımsızlık ve Görevlerin Ayrılığı](core_07_functional_independence_segregation_of_duties.md#yedinci-bölüm-işlevsel-bağimsizlik-ve-görevler-ayriliği), dört koltuk tabanının ve süreçler arası uygulamasının anayasal sahibidir; belirlenmiş uygulama metinleri ve sonraki süreç bölümleri bu tabanı uygular ve daraltamaz.
 
 </details>
 
@@ -833,7 +833,7 @@ Bu Anayasa ve sınırladığı kamusal yönetişim, kurumsal anlamda sekülerdir
 
 **İşi denetleyen kişi, işi yapan kişi olamaz.**
 
-Gözetim ve hesap verebilirlik, denetimin denetlenen eylemden bağımsız biçimde yapılmasına bağlıdır. Bu nedenle sentient’ları maddi olarak bağlayan her karar veya eylem [Yedinci Bölüm](core_07_functional_independence_segregation_of_duties.md#yedinci-bölüm-işlevsel-bağimsizlik-ve-görevlerin-ayriliği)'deki rol ayrılığı kurallarına uymalıdır. Bu kurallar şunları içerir:
+Gözetim ve hesap verebilirlik, denetimin denetlenen eylemden bağımsız biçimde yapılmasına bağlıdır. Bu nedenle sentient’ları maddi olarak bağlayan her karar veya eylem [Yedinci Bölüm](core_07_functional_independence_segregation_of_duties.md#yedinci-bölüm-işlevsel-bağimsizlik-ve-görevler-ayriliği)'deki rol ayrılığı kurallarına uymalıdır. Bu kurallar şunları içerir:
 
 - “yapma” ve “denetleme” rollerinde farklı sentient’ların (insan veya AI) bulunması;
 - yasaklanmış rol birleşimleri;

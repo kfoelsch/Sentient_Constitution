@@ -178,9 +178,15 @@ def short_topic(topic: str, limit: int = 72) -> str:
     return topic[: limit - 1].rstrip() + "…"
 
 
-def primary_owner_line(row: RouterRow) -> str:
+def _named(item: str, namer) -> str:
+    """Return ``**ID**`` followed by its ``(*title*)`` gloss when a namer is given."""
+    title = namer(item) if namer else None
+    return f"**{item}** (*{title}*)" if title else f"**{item}**"
+
+
+def primary_owner_line(row: RouterRow, namer=None) -> str:
     if len(row.read_with_attach) <= 8:
-        read_with = ", ".join(f"**{item}**" for item in row.read_with_attach)
+        read_with = ", ".join(_named(item, namer) for item in row.read_with_attach)
         suffix = f" Mandatory read-with: {read_with}."
     else:
         suffix = "; see that row for mandatory read-with."
@@ -190,11 +196,11 @@ def primary_owner_line(row: RouterRow) -> str:
     )
 
 
-def read_with_line(row: RouterRow) -> str:
+def read_with_line(row: RouterRow, namer=None) -> str:
     if len(row.primary_attach) == 1:
-        owners = f"primary owner **{row.primary_attach[0]}**"
+        owners = f"primary owner {_named(row.primary_attach[0], namer)}"
     else:
-        owners = "primary owners " + ", ".join(f"**{item}**" for item in row.primary_attach)
+        owners = "primary owners " + ", ".join(_named(item, namer) for item in row.primary_attach)
     return (
         f"Topic routing (mandatory read-with): **{row.row_id}** (*{short_topic(row.topic)}*) "
         f"in **CJS-0.105 §1** (*Topic router*); {owners}."
