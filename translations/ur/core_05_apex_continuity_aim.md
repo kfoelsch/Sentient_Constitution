@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ سادہ زبان کا مقصد [تمہید §1](core_00_preamble.md#continuity) پر۔
-- زیریں: اصول: [باب یکم §4.1 لچک اور خود مرمت ڈیزائن](core_01_a_values_principles.md#41-resilience-and-self-healing-design)؛ [§12 مشترکہ نظام کی صلاحیت](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)؛ [§11.1.5 آئینی نتیجہ دعووں کی ضبط](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [آئینی مقصد کی تحلیل](#continuity-aim-decomposition)؛ استمرار کے موضوع جھرمٹ [core_05_band_continuity.md](../../core_05.040_band_continuity.md) میں۔
+- زیریں: اصول: [باب یکم §4.1 لچک اور خود مرمت ڈیزائن](core_01_a_values_principles.md#10-resilience-and-self-healing-design)؛ [§12 مشترکہ نظام کی صلاحیت](core_01_c_stewardship_capacity_principles.md)؛ [§11.1.5 آئینی نتیجہ دعووں کی ضبط](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)؛ [آئینی مقصد کی تحلیل](#continuity-aim-decomposition)؛ استمرار کے موضوع جھرمٹ [core_05_band_continuity.md](../../core_05.040_band_continuity.md) میں۔
 - ساتھ پڑھیں: [ذمہ دارانہ انتظام](../../core_05.040_band_continuity.md#stewardship)، [ذمہ دارانہ انتظام کا عیب](../../core_05.040_band_continuity.md#stewardship-defect)، [ماحولیاتی دیانت](../../core_05.040_band_continuity.md#ecological-integrity)، [انحصار](../../core_05.040_band_continuity.md#dependency)، [متبادل اشاروں کا انحراف](../../core_05.050_band_oversight.md#proxy-divergence)، [وجودی خطرہ](../../core_05.040_band_continuity.md#existential-risk)، [زنجیری ناکامی](../../core_05.040_band_continuity.md#cascading-failure)، [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional) (جوڑا مقصد — کوئی ایک دوسرے کی قیمت پر نہیں پکڑی جا سکتی؛ قلیل مدتی نفع کا پیچھا جو **شرکت**، **نگرانی**، **جوابدہی**، یا **بروقت کارروائی** کو اس سے نیچے کھوکھلا کرے جو [مادی داؤ](core_00_preamble.md#material-stake) مانگتا ہے **استمرار** ہارتا ہے، چاہے قریب مدتی نتائج بڑھ جائیں)، [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ (استمرار جائز کیسے رہتی ہے — پانچواں تعمیراتی حصہ نہیں)، استمرار پیمائش خاندان، اور [باب پنجم کی حروف تہجی ڈائریکٹری](core_05__definitions_home.md#chapter-five-alphabetical-directory)۔
 
 </details>
@@ -46,14 +46,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [استمرار پیمائش خاندان](#continuity-measurement-family) — *کیا شعوری وجود اور نظام ٹک سکتے ہیں — ماحولیاتی طور پر، قابلِ اعتماد طور پر، اور ناکامی کے پار؟* دیکھیں نیز [آئینی مقصد کی تحلیل](#continuity-aim-decomposition)۔ یہ سطر صرف پیمانوں کی طرف اشارہ کرتی ہے؛ کیسے ناپنے کے قواعد ہر جڑی تعریف پر بیٹھتے ہیں۔
-  - **بنیادی جائزہ:** [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کے تحت جائزہ لیں، [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ۔ پوچھیں کہ نظام مرمت، موافقت، خطرے کا ایمانداری سے سامنا، اور ماحولیاتی حدوں میں رہنے کی پائیدار صلاحیت رکھتے ہیں یا نہیں — آج کے اعداد پرسکون دکھتے ہیں یا نہیں۔ دعویٰ شدہ استمرار نتائج کو [تشکیل دینے والی](#continuity-aim-decomposition) شرائط سے باندھیں، باب چہارم اور [باب یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) کے تحت۔
+  - **بنیادی جائزہ:** [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کے تحت جائزہ لیں، [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ۔ پوچھیں کہ نظام مرمت، موافقت، خطرے کا ایمانداری سے سامنا، اور ماحولیاتی حدوں میں رہنے کی پائیدار صلاحیت رکھتے ہیں یا نہیں — آج کے اعداد پرسکون دکھتے ہیں یا نہیں۔ دعویٰ شدہ استمرار نتائج کو [تشکیل دینے والی](#continuity-aim-decomposition) شرائط سے باندھیں، باب چہارم اور [باب یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) کے تحت۔
 <a id="continuity-aim-constitutional-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:**
     - **استمرار** کو اصلاحیں ہمیشہ کے لیے ٹالنے کے لیے استعمال کرنا؛
     - «استحکام» کو اطاعت سمجھنا جب وہ چھپے خطرے کے انڈیل، ناقابلِ واپسی نقصان، یا ماحولیاتی بوجھ دوسروں پر سرکانے پر کھڑا ہو؛
     - عام «روشنیاں جلائے رکھنا» کی بات سے [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) یا [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution) روکنا؛ یا
-    - **استمرار** اس طرح پکڑنا جو [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional) کو مادی طور پر ہرا دے بغیر واضح اجازت [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) کے تحت۔
+    - **استمرار** اس طرح پکڑنا جو [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional) کو مادی طور پر ہرا دے بغیر واضح اجازت [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md) کے تحت۔
 
 ---
 
@@ -106,7 +106,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - زیریں: استمرار پیمائش خاندان — صرف لنک رول اپ؛ فی اصطلاح درجے نیچے جدول میں جڑی برگ تعریفوں پر رہتے ہیں۔
-- ساتھ پڑھیں: [CS-9 — وسیلہ تقسیم اور فنڈنگ کا ذمہ دارانہ انتظام](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (فنڈنگ اور بین نظامی واپسی میکانکس)۔
+- ساتھ پڑھیں: [CS-9 — وسیلہ تقسیم اور فنڈنگ کا ذمہ دارانہ انتظام](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (فنڈنگ اور بین نظامی واپسی میکانکس)۔
 
 </details>
 

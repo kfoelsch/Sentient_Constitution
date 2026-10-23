@@ -113,14 +113,14 @@ El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional
 Los sintientes tienen derecho a interactuar con sistemas que sean confiables y dignos de confianza, en un grado proporcional a su impacto, dependencia y riesgo. Esa confiabilidad respalda la participación informada, la acción coordinada y la preservación del bienestar. La confiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de dependencia cuando estas afecten materialmente a los resultados.
 
 Dos salvaguardas trabajan juntas para garantizar este derecho: la certificación hace que un sistema sea digno de esa confianza, y los derechos de los sencientes lo mantienen honesto.
-**La certificación genera confianza desde el lado del sistema:** Cuando un sistema importante tiene un efecto real en cómo los sencientes confían en él, se aplica la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) en el [Capítulo ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). Comprueba que los sencientes puedan confiar en:
+**La certificación genera confianza desde el lado del sistema:** Cuando un sistema importante tiene un efecto real en cómo los sencientes confían en él, se aplica la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) en el [Capítulo ocho](core_07_a_system_alignment_certification_evaluation.md). Comprueba que los sencientes puedan confiar en:
 
 - lo que el sistema dice que hace
 - sus límites y riesgos
 - cómo desafiarlo
 - cómo se solucionan los problemas
 
-Si el sistema cumple con el umbral de importancia establecido en **Artículo XIII** (*Derecho a sistemas confiables y dignos de confianza*), la certificación también incluye una revisión de confiabilidad según el [Capítulo Ocho §3.8.6 Evaluación de integridad y confiabilidad del sistema](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+Si el sistema cumple con el umbral de importancia establecido en **Artículo XIII** (*Derecho a sistemas confiables y dignos de confianza*), la certificación también incluye una revisión de confiabilidad según el [Capítulo Ocho §3.8.6 Evaluación de integridad y confiabilidad del sistema](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **La contestabilidad mantiene el sistema honesto desde el lado sensible:** La certificación verifica un sistema; no tiene la última palabra al respecto. Cada sintiente afectado por el sistema mantiene:
 
@@ -132,7 +132,7 @@ Si el sistema cumple con el umbral de importancia establecido en **Artículo XII
 *Artículos relacionados:*
 
 - **Cuando esto se aplica:** Cuando el comportamiento del sistema bloquea o sostiene materialmente **Capítulo Seis** Pisos de derechos, incluidos los elementos esenciales de supervivencia según **Artículo III-A** (*Supervivencia*).
-- **Lean juntos:** [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) y [Capítulo ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), sin sustituir la certificación de los pisos indicados aquí.
+- **Lean juntos:** [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) y [Capítulo ocho](core_07_a_system_alignment_certification_evaluation.md), sin sustituir la certificación de los pisos indicados aquí.
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### Artículo XIII-A: Línea base de confiabilidad y confiabilidad
@@ -187,7 +187,7 @@ Las dos garantías son dos caras de la confianza continua: la garantía de confi
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
 - Fundamento: Principios: Capítulo Uno [§6.1 Corrección y Remedio](core_01_a_values_principles.md#61-correction-and-remedy) (principio básico), [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), y [Capítulo Uno §13.1.5 Colisión de derechos Procedimiento](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Leer con: [**Artículo XIII-A**](#artículo-xiii-a-línea-base-de-confiabilidad-y-confiabilidad) (*Línea de base de confiabilidad y confiabilidad*): la garantía de impugnación, el derecho a impugnar y la presentación de informes protegidos que abren el camino a la reparación; **Artículo III-A** (*Supervivencia*); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la falla o desalineación del sistema anula el acceso esencial para la supervivencia; [Preámbulo §6.2 Cómo encaja toda la cadena](core_00_preamble.md#62-how-the-full-chain-fits-together) (*clasificación verificada y solución oportuna*); [Capítulo Diez §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de aplicación y sistemas de reparación*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Sistemas de reparación y capacidad de reparación institucional*).
+- Leer con: [**Artículo XIII-A**](#artículo-xiii-a-línea-base-de-confiabilidad-y-confiabilidad) (*Línea de base de confiabilidad y confiabilidad*): la garantía de impugnación, el derecho a impugnar y la presentación de informes protegidos que abren el camino a la reparación; **Artículo III-A** (*Supervivencia*); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la falla o desalineación del sistema anula el acceso esencial para la supervivencia; [Preámbulo §6.2 Cómo encaja toda la cadena](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*clasificación verificada y solución oportuna*); [Capítulo Diez §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de aplicación y sistemas de reparación*); [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Sistemas de reparación y capacidad de reparación institucional*).
 
 </details>
 
@@ -335,7 +335,7 @@ Este artículo establece cómo los sistemas de alta autonomía se mantienen suje
   - hacer responsable a un sensible según **Capítulo Once**; y
   - **Artículo XX-B** (*Límites de Restricción*), que rige las restricciones sobre *sentientes*, no *sistemas*, y prohíbe quitarle la vida a un sintiente (consulte [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)).
 
-  Las medidas contra un sistema siguen las mismas reglas de violación y bloqueo que se aplican a todos los seres sencientes. La violación debe verificarse en el registro bajo **Capítulo Nueve**, y cada medida es una cerradura diseñada y calibrada bajo el [Capítulo Diez §5.1](core_10_standing_integration.md#51-definition-and-attachment) (*Definición y adjunto*) y el [Capítulo Diez §5.2](core_10_standing_integration.md#52-proportionality-and-calibration) (*Proporcionalidad y calibración*).
+  Las medidas contra un sistema siguen las mismas reglas de violación y bloqueo que se aplican a todos los seres sencientes. La violación debe verificarse en el registro bajo **Capítulo Nueve**, y cada medida es una cerradura diseñada y calibrada bajo el [Capítulo Diez §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*Definición y adjunto*) y el [Capítulo Diez §5.2](core_09_standing_integration.md#52-proportionality-and-calibration) (*Proporcionalidad y calibración*).
 
   Ambas vías pueden aplicarse a los mismos hechos. Nada en este Artículo convierte el poder de destruir un sistema en poder sobre la vida de un ser sensible.
 - **Lo contrario también es válido:** Afirmar que un sistema implementado es sensible (ya sea que el reclamo sea impugnado o aceptado) no permite que nadie mantenga en ejecución una implementación dañina.
@@ -348,7 +348,7 @@ Este artículo establece cómo los sistemas de alta autonomía se mantienen suje
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Diseño de resiliencia y autocuración](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Capítulo uno §13.3 Minimización de lo evitable Carga](core_01_b_interaction_interpretation.md#133-minimización-de-las-cargas-evitables) y [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Diseño de resiliencia y autocuración](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Capítulo uno §13.3 Minimización de lo evitable Carga](core_01_b_interaction_interpretation.md#133-minimización-de-las-cargas-evitables) y [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 </details>
 
 <details>
@@ -370,7 +370,7 @@ Este artículo establece cómo los sistemas de alta autonomía se mantienen suje
 Este artículo establece la línea base de recuperación, desde la detección hasta el cierre de la causa raíz:
 
 - **Qué requiere esto:** Todos los sistemas cubiertos por este artículo deben poder recuperarse de fallas. Cuanto mayor es el impacto de un sistema, más dependen de él los demás, y cuanto más riesgoso sea, más sólida debe ser su recuperación. Esto sigue a [** 10 Diseño de resiliencia y autorreparación **](core_01_a_values_principles.md#10-resilience-and-self-healing-design) en ** Capítulo uno ** y [** Autocuración **](core_05_band_continuity.md#self-healing-constitutional) en ** Capítulo Cinco**.
-  - Las reglas técnicas detalladas sobre cómo se debe construir la recuperación se encuentran en el texto de implementación: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Sostenibilidad adaptativa y resiliencia del ecosistema*) y [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Continuidad descentralizada y resiliencia de partición*).
+  - Las reglas técnicas detalladas sobre cómo se debe construir la recuperación se encuentran en el texto de implementación: [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*), [**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*Sostenibilidad adaptativa y resiliencia del ecosistema*) y [**CS-12**](../../corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md) (*Continuidad descentralizada y resiliencia de partición*).
   - Ese texto de implementación puede agregar detalles, pero no puede debilitar este artículo.
 - **Notificar problemas a tiempo:** Un sistema debe detectar fallas, desaceleraciones, averías parciales y violaciones de los límites constitucionales con la suficiente rapidez y visibilidad para cumplir con el estándar de mantenimiento de registros establecido en **Artículo XVI-A** (*Auditabilidad y observabilidad). Evidencia*) ([Auditabilidad](core_05_band_oversight.md#auditabilidad)). Esto se aplica al proceso de recuperación en sí, no sólo al funcionamiento normal.
 - **Mantenga el daño contenido:** La recuperación debe limitar hasta qué punto se propaga una falla. Durante la recuperación, un sistema no debe:
@@ -479,7 +479,7 @@ Este artículo establece los límites a la seguridad, la inteligencia y el poder
   - Los medios menos intrusivos no son razonablemente suficientes;
   - el uso sigue siendo necesario, proporcionado, limitado en el tiempo y revisable de forma independiente.
 - **Sin vigilancia poblacional generalizada:** La vigilancia persistente o a escala poblacional, el seguimiento, la extracción de patrones o el vínculo de identidad entre contextos están prohibidos sin una justificación demostrada y extraordinaria.
-  - Cualquier justificación debe cumplir con este capítulo, **Capítulo uno **, ** Capítulo cinco **y**[corpus_systems.md](corpus_systems.md), CS-2 — Tipos de información y manejo ** y**CS-3 — Clasificación y manejo del sistema** cuando corresponda.
+  - Cualquier justificación debe cumplir con este capítulo, **Capítulo uno **, ** Capítulo cinco **y**[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo ** y**CS-3 — Clasificación y manejo del sistema** cuando corresponda.
 - **Escudo de actividad protegida:** Cubiertas de protección aumentadas:
   - participación política;
   - oposición legal;
@@ -544,7 +544,7 @@ El secreto no debe utilizarse para frustrar el recurso cuando se demuestra una v
 - [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional) · [O](core_05_band_accountability.md#use-of-force-constitutional) · [M](core_05_band_accountability.md#use-of-force-constitutional-a) · [A](core_05_band_accountability.md#use-of-force-constitutional-a) · [C](core_05_band_accountability.md#use-of-force-constitutional-c)
 - [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [O](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [M](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [A](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [C](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-c)
 - [Distinción combatiente/no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [O](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [M](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [A](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [C](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
-- [Sin exclusión de sensibilidad](core_05_band_participation.md#no-exclusión-de-la-sentiencia) · [O](core_05_band_participation.md#no-exclusión-de-la-sentiencia) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#no-exclusión-de-la-sentiencia)
+- [Sin exclusión de sensibilidad](core_05_band_participation.md#no-exclusión-de-la-sentiencia) · [O](core_05_band_participation.md#no-exclusión-de-la-sentiencia) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#no-exclusión-de-la-sentiencia)
 - [Necesidad](core_05_band_accountability.md#necesidad) · [O](core_05_band_accountability.md#necesidad) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -598,7 +598,7 @@ La restricción duradera o la implementación que sobrevive a la revisión requi
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 - Fundamento: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 Proporcionalidad](core_01_b_interaction_interpretation.md#1313-proporcionalidad), [§13.1.1 Necesidad](core_01_b_interaction_interpretation.md#1311-necesidad), [§19.1 Alineación Requisito](core_01_c_stewardship_capacity_principles.md#191-requisito-de-alineación), [§14 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) escrutinio de riesgo existencial, **Artículo X-A** (*Agencia y libertad de manipulación*) libertad de manipulación, **Artículo XIV-A** (*Seguridad, inteligencia y límites de poder encubierto*) límites de poder encubierto, **Artículo XIV-B** (*Uso de la fuerza, conflictos armados y límites de poder militar*) piso de fuerza abierta, **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) línea base de confiabilidad y confiabilidad (contraparte de la capa de sistemas), **Artículo XIII-E** (*Sistemas de alta autonomía e integridad de procesos mediada por herramientas*) administración de autonomía y escalamiento de autonomía, **Artículo XIII-F** (*Línea base de resiliencia y autocuración*) línea base de resiliencia y autocuración. Referencia cruzada: **Artículo XX-B** (*Piso de Restricción*) y Capítulo Cinco *[Medida de Privación Irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Artículo XIV** (*Seguridad, Inteligencia, Fuerza y Sistemas Coercitivos Autónomos*) Se aplica la disciplina *No combinación*.
-- Leer con: [**Def.A4** *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (invocación conjunta cuando esté materialmente implicado); Capítulo Cinco *Sistema Letal Autónomo*, *Herramienta de Coerción Autónoma*, *[Medida de Privación Irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Coerción y Manipulación*, *Reversibilidad*. Implementación de la capa de sistemas: **[corpus_systems.md](corpus_systems.md), CS-3: clasificación y manejo del sistemaClasificación **.
+- Leer con: [**Def.A4** *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (invocación conjunta cuando esté materialmente implicado); Capítulo Cinco *Sistema Letal Autónomo*, *Herramienta de Coerción Autónoma*, *[Medida de Privación Irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Coerción y Manipulación*, *Reversibilidad*. Implementación de la capa de sistemas: **[corpus_systems.md](../../corpus_systems.md), CS-3: clasificación y manejo del sistemaClasificación **.
 
 </details>
 
@@ -609,7 +609,7 @@ La restricción duradera o la implementación que sobrevive a la revisión requi
 - [Herramienta de coerción autónoma](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [O](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [M](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [A](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [C](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
 - [Coerción y Manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
 - [Condiciones adversas, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas) · [O](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
-- [Escrutinio intensificado](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
+- [Escrutinio intensificado](../../core_05.050_band_oversight.md#heightened-scrutiny) · [O](../../core_05.050_band_oversight.md#heightened-scrutiny) · [M](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [A](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [C](../../core_05.050_band_oversight.md#heightened-scrutiny-c)
 
 </details>
 
@@ -618,7 +618,7 @@ La restricción duradera o la implementación que sobrevive a la revisión requi
 *En términos sencillos: una máquina no puede decidir por sí sola matar, herir o coaccionar a un ser sensible. "Control humano" significa que un ser humano debe realmente decidir, en tiempo real, con información real, no aprobar un resultado que el sistema ya ha producido. La coerción autónoma no letal también está dentro del alcance.*
 Este artículo establece el piso de mayor escrutinio para los sistemas letales y coercitivos autónomos:
 
-- **Piso de escrutinio intensificado:** Dos clases de sistemas están sujetas a revisión bajo [Escrutinio intensificado](core_05_band_oversight.md#heightened-scrutiny):
+- **Piso de escrutinio intensificado:** Dos clases de sistemas están sujetas a revisión bajo [Escrutinio intensificado](../../core_05.050_band_oversight.md#heightened-scrutiny):
   - **sistemas letales autónomos**: sistemas que seleccionan, atacan o dirigen materialmente la fuerza contra objetivos sin un juicio humano contemporáneo y sustancialmente significativo;
   - **herramientas de coerción autónoma**: sistemas que aplican efectos coercitivos sobre los seres sintientes a través de un comportamiento adaptativo autónomo, incluso cuando los efectos no son letales.
 
@@ -639,9 +639,9 @@ Este artículo establece el piso de mayor escrutinio para los sistemas letales y
 - **Disciplina combatiente/no combatiente:** Los sistemas letales autónomos deben cumplir con el **Artículo XIV-B** (*Uso de la fuerza, conflicto armado y límites de poder militar*) *Distinción combatiente/no combatiente*.
   - Los sistemas cuya precisión de clasificación, solidez en condiciones adversas o escaladas, o comportamiento en modo de falla no satisfacen de forma independiente la bala **Artículo XIV-B** (*Uso de la fuerza, conflictos armados y límites de poder militar*) no cumplen con los requisitos, independientemente de la intención del operador.
   - **Condiciones adversas, escaladas y explotadas** Se aplica la evaluación.
-- **Interacción de riesgo existencial:** Los sistemas letales autónomos en escalas, niveles de capacidad o condiciones de despliegue que impliquen materialmente el escrutinio de riesgo existencial de **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) están sujetos a la [escrutinio más riguroso](core_05_band_oversight.md#highest-scrutiny).
+- **Interacción de riesgo existencial:** Los sistemas letales autónomos en escalas, niveles de capacidad o condiciones de despliegue que impliquen materialmente el escrutinio de riesgo existencial de **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) están sujetos a la [escrutinio más riguroso](../../core_05.050_band_oversight.md#highest-scrutiny).
   - Los marcos que tratan dichos sistemas como objetos de expansión de capacidad ordinaria en lugar de objetos **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) no cumplen con las normas.
-- **Interacción entre sistemas y capa:** Clasificación operativa, confiabilidad y **CS-3 — Clasificación y manejo del sistema** Ruta de gobernanza a escala de clases hacia la capa de sistemas —**Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) línea base y **[corpus_systems.md](corpus_systems.md), CS-3 — Clasificación y manejo del sistema**.
+- **Interacción entre sistemas y capa:** Clasificación operativa, confiabilidad y **CS-3 — Clasificación y manejo del sistema** Ruta de gobernanza a escala de clases hacia la capa de sistemas —**Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) línea base y **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo del sistema**.
   - Los conflictos se resuelven según **Capítulo uno §13.1.5** (*Principio de restricción menos restrictivo, de duración determinada y revisable*) sin reducir el piso de derechos.
 
 <a id="article-xv-info-sphere-integrity"></a>
@@ -695,7 +695,7 @@ Este Artículo establece los límites de la potestad de contraespionaje:
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 - [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Autodeterminación](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
+- [Autodeterminación](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [A](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [C](../../core_05.055_band_participation.md#self-determination-constitutional-c)
 - [Contestabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -729,7 +729,7 @@ La información precisa, relevante y discutible es fundamental para la autodeter
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -799,7 +799,7 @@ Este artículo establece los pisos para la consulta auténtica, la procedencia y
 #### Artículo XV-C: Validación, presentación de informes y gestión epistémica
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
-- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-límites-de-la-divulgación-epistémica) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-límites-de-la-divulgación-epistémica) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -917,8 +917,8 @@ Una pila, tres capas. La supervisión requiere reconstruibilidad. La certificaci
 |---|---|---|---|
 | **1. Floor** | Lo que se les debe a los seres sintientes: auditoría reconstruible, verificación independiente, desafío alcanzable | Este artículo, incluidos XVI-A / XVI-B / XVI-C | No es un proceso. No es una definición. No es una lista de verificación de texto de implementación adoptada. |
 | **2. Propiedad** | Qué *es* la reconstructibilidad: personas externas pueden reconstruir y verificar lo que hizo el sistema en los tiempos, estados y contextos materiales | [Auditabilidad](core_05_band_oversight.md#auditabilidad) (Capítulo cinco) | No es el piso de derechos. No cómo/cuándo realizar una auditoría. |
-| **3. Proceso** | Cómo y cuándo auditar entre sistemas, instituciones y foros | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Inicio del proceso de auditoría*). Anexos del operador: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (niveles de acceso), [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (verificación de reclamo) | Sin certificación de alineación del sistema. No sustituye a las capas 1 y 2. |
-**El Capítulo Ocho no es una cuarta capa.** La [Certificación de alineación del sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) es un proceso amplio, supervisado por un foro, que **usa** esta estructura y debe satisfacer las capas 1 y 2. También la usan otros modos de auditoría: auditorías de registros de clasificación y de tipos de datos, verificación de afirmaciones y auditoría continua. Ninguno constituye una capa nueva. El texto de implementación adoptado explica cómo ejecutar la capa 3 en cada ámbito; no reemplaza el piso. CS, CI, CF y los anexos CJS-3.3 a CJS-3.5 deben satisfacer las capas 1 y 2. Los plazos, el secreto y las políticas locales son límites inferiores.
+| **3. Proceso** | Cómo y cuándo auditar entre sistemas, instituciones y foros | [CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md) (*Inicio del proceso de auditoría*). Anexos del operador: [CJS-3.4](../../corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (niveles de acceso), [CJS-3.5](../../corpus_joint_structure/cjs_05.110_oversight_operations.md) (verificación de reclamo) | Sin certificación de alineación del sistema. No sustituye a las capas 1 y 2. |
+**El Capítulo Ocho no es una cuarta capa.** La [Certificación de alineación del sistema](core_07_a_system_alignment_certification_evaluation.md) es un proceso amplio, supervisado por un foro, que **usa** esta estructura y debe satisfacer las capas 1 y 2. También la usan otros modos de auditoría: auditorías de registros de clasificación y de tipos de datos, verificación de afirmaciones y auditoría continua. Ninguno constituye una capa nueva. El texto de implementación adoptado explica cómo ejecutar la capa 3 en cada ámbito; no reemplaza el piso. CS, CI, CF y los anexos CJS-3.3 a CJS-3.5 deben satisfacer las capas 1 y 2. Los plazos, el secreto y las políticas locales son límites inferiores.
 
 Puntero de administrador (soporte de proceso; no se puede limitar este artículo): [`implementation/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
 
@@ -949,8 +949,8 @@ Operan de manera consistente con **Capítulos dos a cuatro**, incluida la aplica
 *Artículos relacionados:*
 
 - **Supervisión → auditoría → SAC:** En virtud de la **supervisión** dentro de la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), este artículo es el piso de derechos para la auditoría.
-  - Implementación cruzada *cómo*/*cuándo* vive en **[Sede del proceso de auditoría CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (léase junto con los anexos operativos **CJS-3.4** y **CJS-3.5**).
-  - [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) en el [Capítulo ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) es un proceso de auditoría especialmente grande y de alto riesgo (supervisado por foro, multidominio y con reconocimiento) entre los modos de auditoría hermanos:
+  - Implementación cruzada *cómo*/*cuándo* vive en **[Sede del proceso de auditoría CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md)** (léase junto con los anexos operativos **CJS-3.4** y **CJS-3.5**).
+  - [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) en el [Capítulo ocho](core_07_a_system_alignment_certification_evaluation.md) es un proceso de auditoría especialmente grande y de alto riesgo (supervisado por foro, multidominio y con reconocimiento) entre los modos de auditoría hermanos:
     - Auditorías del Registro de Clasificación del Sistema;
     - Auditorías de registros de tipos de datos del sistema;
     - auditorías de complejidad y gestión;
@@ -960,7 +960,7 @@ Operan de manera consistente con **Capítulos dos a cuatro**, incluida la aplica
 - **Leer juntos:**
   - **Artículo XV** (*Integridad de la esfera de la información*), cuando los registros epistémicos y la impugnabilidad estén materialmente implicados;
   - **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) para los derechos de impugnación que la auditoría respalda pero no reemplaza;
-  - [Capítulo ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) y [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la evidencia de alineación debe permanecer verificable de forma independiente.
+  - [Capítulo ocho](core_07_a_system_alignment_certification_evaluation.md) y [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la evidencia de alineación debe permanecer verificable de forma independiente.
 - **Maquinaria de verificación:** **Capítulos dos a cuatro** proporcionan la integridad de la definición, la asignación de cargas, la observabilidad y la accesibilidad de verificación que este artículo implementa en la capa del piso de derechos.
 - **Clasificación:** escala de obligaciones con [Gobernanza escalada en clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) y **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación del sistema y manejo**; cuando la clase sea incierta, gobierne con la clase más alta posible hasta que se resuelva.
 
@@ -994,7 +994,7 @@ Este artículo establece el mínimo para la prueba observable y controvertida:
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), y [Capítulo Uno §18 Gobernanza Bajo Disciplina de Administración](core_01_c_stewardship_capacity_principles.md#18-gobernanza-bajo-la-disciplina-del-stewardship).
+- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), y [Capítulo Uno §18 Gobernanza Bajo Disciplina de Administración](core_01_c_stewardship_capacity_principles.md#18-gobernanza-bajo-la-disciplina-del-stewardship).
 
 </details>
 
@@ -1049,6 +1049,8 @@ Este Artículo establece el mínimo de accesibilidad de la verificación:
 - **Carga de justificación:** Quien usa la barrera debe demostrar que supera la prueba conforme al Capítulo Cuatro §1. Conveniencia, escasez de personal, incomodidad institucional o propiedad no bastan por sí solas.
 
 id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
+<a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
+
 ### Artículo XVII: Ciclo de vida del sistema, entornos y reversibilidad
 
 <details>
@@ -1092,7 +1094,7 @@ Los sintientes tienen derecho a una gestión que preserve la seguridad, la integ
 *Artículos relacionados:*
 
 - **Leer juntos:** ** Artículo XVIII** (*Innovación, experimentación y libertad creativa en un espacio aislado*) donde se aplican reglas más ligeras solo cuando el impacto externo está ausente o se puede demostrar que está contenido; **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) para evidencia reconstruible de implementación y escalamiento; **Artículo XIII-F** (*Línea de base de resiliencia y autocuración*) donde la disciplina de recuperación se cruza con el cambio del ciclo de vida.
-- **Capa de implementación:** [** CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*Clasificación y manejo del sistema*) y [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*). Los sistemas **Class A **, ** Class B **y** Class C **realizan las tareas de ciclo de vida más exigentes; El tratamiento válido** Class P **permanece según** Artículo XVIII** (*Innovación, experimentación y libertad creativa*) solo mientras el impacto externo permanezca ausente o esté demostrablemente contenido.
+- **Capa de implementación:** [** CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) (*Clasificación y manejo del sistema*) y [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*). Los sistemas **Class A **, ** Class B **y** Class C **realizan las tareas de ciclo de vida más exigentes; El tratamiento válido** Class P **permanece según** Artículo XVIII** (*Innovación, experimentación y libertad creativa*) solo mientras el impacto externo permanezca ausente o esté demostrablemente contenido.
 
 Las obligaciones del ciclo de vida dependen de la clase: los sistemas de **clase A**, **B** y **C** requieren separación plena de los entornos de desarrollo, prueba y uso real, además de despliegues por etapas. Los sistemas de **clase L** pueden cambiar con frecuencia en el ámbito local, pero deben avisar a los participantes de los cambios que les afecten, poder corregir pronto los cambios perjudiciales y proteger lo que hayan acumulado. La **clase P** conserva el régimen más ligero del Artículo XVIII mientras permanezca contenida.
 
@@ -1101,7 +1103,7 @@ Las obligaciones del ciclo de vida dependen de la clase: los sistemas de **clase
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 
 </details>
 
@@ -1128,7 +1130,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 #### Artículo XVII-B: Despliegue Progresivo y Reversibilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-principios-fundamentales-de-ponderación) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-principios-fundamentales-de-ponderación) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1155,7 +1157,7 @@ id="article-xvii-c-misclassification-and-evasion-consequences"></a>
 #### Artículo XVII-C: Clasificación errónea y consecuencias de la evasión
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
-- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
+- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 
 </details>
 
@@ -1204,14 +1206,14 @@ El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional
 
 *Artículos relacionados:*
 - **Leer juntos:** ** Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) cuando el impacto, la dependencia o la integración superan las condiciones del espacio aislado; **Artículo XV** (*Integridad de la esfera de información*) y **Artículo XV-D** (*Integridad de publicación, revisión y replicación científica*) donde la integridad del alcance de la publicación esté materialmente implicada; **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) para la divulgación y verificación de afirmaciones de contención y transición.
-- **Capa de implementación:** [** CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*) y [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*Clasificación y manejo del sistema*).
+- **Capa de implementación:** [** CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*) y [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) (*Clasificación y manejo del sistema*).
 
 <a id="article-xviii-a-sandboxed-scope"></a>
 #### Artículo XVIII-A: Alcance en espacio aislado
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 </details>
 
 <details>
@@ -1274,7 +1276,7 @@ Este artículo establece los límites mínimos de contención, divulgación, ace
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 </details>
 
 <details>

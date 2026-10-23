@@ -1,5 +1,7 @@
 <a id="chapter-eight-compliance-violation-and-standing-model"></a>
 <a id="chapter-eight-contribution-violation-and-standing-model--measurement"></a>
+<a id="chapter-ten-compliance-violation-and-standing-model"></a>
+
 # 제8장: 기여, 위반, 궤적 모형 — 측정
 
 <details>
@@ -35,12 +37,12 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); [실질 이해관계](core_00_preamble.md#material-stake); [전문 §5 핵심 실무 과정 사슬](core_00_preamble.md#5-key-practical-process-pipelines) (*제7장부터 제11장까지의 사슬*).
-- 상류: [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*쉬운 말 접근성* — 절 수준의 풀이에 반영된 책임 있는 관리); [제1장 §9 — 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*역량에 묶인, 추적 가능한 궤적의 원칙 층 토대 — 신뢰, 역할, 인정*); [제2장부터 제4장](core_02_definition_structure.md) (*완전성, 기록, 확인*); [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) (*제2장부터 제4장과 함께 읽는 정의와 최상위*).
+- 상류: [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*쉬운 말 접근성* — 절 수준의 풀이에 반영된 책임 있는 관리); [제1장 §9 — 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md) (*역량에 묶인, 추적 가능한 궤적의 원칙 층 토대 — 신뢰, 역할, 인정*); [제2장부터 제4장](core_02_definition_structure.md) (*완전성, 기록, 확인*); [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) (*제2장부터 제4장과 함께 읽는 정의와 최상위*).
 - 상류: [제7장](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*체계 정합 인증*); [B부분 §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*궤적 다리 — 잠재 확인된 입력만*).
 - 궤적 사슬: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [제8장 — 측정](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*세 질문 틀, 질문 1 기록, 질문 2 측정 — **1–7**절*); [제9장 — 궤적 효과와 통합](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) (*질문 3 효과와 통합*); [제10장](../../core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (*자격을 갖춘 위반 축 s = 7–9에 대한 지정만*).
 - 이 파일의 하위 절: [§1](#1-the-three-questions) (*세 질문 틀과 범위*); [§2](#2-standing-records) (*질문 1 — 확인된 사실과 기록*); [§3](#3-standing-record-operational-requirements) (*확인과 기록 요건*); [§4](#4-standing-measurement-evaluation-dimensions) (*질문 2 — 측정 차원*); [§5](#5-slot-grammar-and-lequ-calibration) (*슬롯 문법과 공유 척도*); [§6](#6-constitutional-inputs-to-axis-assignment) (*헌법 원천 라우팅*); [§7](#7-unified-proportional-lequ-scale) (*두 축을 위한 통합 비례 LEQU 척도*).
-- 하류: [제10장](../../core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (*지정만 — 질문 2 측정을 다시 열지 않음*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 감독과 라우팅*); [제 XXV-C조](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*제때 해결*); [제 XXIII조](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*정의 제약*).
-- 함께 읽기: [제5장 *궤적 상태, 기여, 위반*](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster) (*정전 정의 라우팅*).
+- 하류: [제10장](../../core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (*지정만 — 질문 2 측정을 다시 열지 않음*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 감독과 라우팅*); [제 XXV-C조](core_06_rights_part_d.md) (*제때 해결*); [제 XXIII조](core_06_rights_part_d.md) (*정의 제약*).
+- 함께 읽기: [제5장 *궤적 상태, 기여, 위반*](../../core_05.035_band_accountability.md#standing-state-contribution-and-violation-cluster) (*정전 정의 라우팅*).
 - 함께 읽기: [README.md](../../README.md) (*읽기 순서*); [doc_architecture.md](../../doc_architecture.md) (*채택되지 않는 한 구속력 없는 편집 지도*).
 
 </details>
@@ -78,7 +80,7 @@
 <a id="11-purpose-and-scope"></a>
 #### 1.1 목적과 범위
 
-이 장은 **체계**, **감지자**, **제도**를 위한 헌법 기록과 측정 틀을 말합니다 — [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) 아래 분류된 모든 체계를 포함합니다. 이 틀은 소문, 인기, 막연한 평판, 고유한 존엄, 또는 일반 가치를 재지 않습니다; 어느 것도 궤적 평가의 허용되는 대상이 아닙니다.
+이 장은 **체계**, **감지자**, **제도**를 위한 헌법 기록과 측정 틀을 말합니다 — [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) 아래 분류된 모든 체계를 포함합니다. 이 틀은 소문, 인기, 막연한 평판, 고유한 존엄, 또는 일반 가치를 재지 않습니다; 어느 것도 궤적 평가의 허용되는 대상이 아닙니다.
 
 궤적 사슬은, 이전에 확인된 기여가 현재 역량이나 신뢰성을 보이기에는 너무 오래되었을 때, 위반이 미해결로 남을 때, 수리가 비쌀 때, 책임이 국경을 넘을 때, 또는 행위자가 조직 층화나 다시 이름 붙이기를 써서 책무를 막을 때에도 유효해야 합니다.
 
@@ -89,11 +91,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적 · 정의 · 평가 · 준수</span></strong></summary>
 
-- 상류: [제1장 §9 — 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [제2장부터 제4장](core_02_definition_structure.md); [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions).
+- 상류: [제1장 §9 — 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md); [제2장부터 제4장](core_02_definition_structure.md); [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions).
 - 하류: [§2](#2-standing-records) (*질문 1*); [§3](#3-standing-record-operational-requirements) (*확인과 기록 요건*); [§4](#4-standing-measurement-evaluation-dimensions) (*질문 2 측정*); [§5](#5-slot-grammar-and-lequ-calibration) (*슬롯 문법과 공유 척도*); [§6](#6-constitutional-inputs-to-axis-assignment) (*헌법 원천 라우팅*); [§7](#7-unified-proportional-lequ-scale) (*두 축을 위한 통합 비례 LEQU 척도*); [제9장](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) (*질문 3*).
 - [실질성 판단](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [해](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [비례](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [해](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [비례](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -282,7 +284,7 @@
     - 예정된 검토;
 - 측정이 일어나면, 아래에 요구되는 축별 질문 2 측정 칸.
 
-**점검 가능한 귀속 행위.** 핵심 체계 책임 있는 관리 또는 실질 운영 권한을 행사하는 인력/대리인에 대해, 재구성 가능한 귀속-행위 증거는 혼합 승무원을 위한 기본 기록 계약으로 **[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)**에 명시됩니다. 그 증거는 이 기록에 먹일 수 있습니다. 이 기록을 대체하지 않습니다. 모형 가중치와 사적 숙고는, 남은 유일한 귀속 경로가 아닌 한, 궤적 기록 내용이 아닙니다. 프라이버시와 내부 상태 보호는 궤적 측정 면제를 만들지 않습니다.
+**점검 가능한 귀속 행위.** 핵심 체계 책임 있는 관리 또는 실질 운영 권한을 행사하는 인력/대리인에 대해, 재구성 가능한 귀속-행위 증거는 혼합 승무원을 위한 기본 기록 계약으로 **[CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)**에 명시됩니다. 그 증거는 이 기록에 먹일 수 있습니다. 이 기록을 대체하지 않습니다. 모형 가중치와 사적 숙고는, 남은 유일한 귀속 경로가 아닌 한, 궤적 기록 내용이 아닙니다. 프라이버시와 내부 상태 보호는 궤적 측정 면제를 만들지 않습니다.
 
 **단계 경계.** 질문 1은 확인된 사실을 기록합니다; 질문 2는 그것을 측정합니다. 질문 2 측정이 아직 보류여도, 확인된 사실 바탕이 온전하면 기록은 열릴 수 있습니다. 측정이 일어나기 전까지, 질문 2 칸은 슬롯이나 범주를 암시하지 말고 보류라고 말해야 합니다. 기록은 질문 3 **궤적 효과**를 말하거나 적용해서는 안 됩니다.
 
@@ -392,14 +394,14 @@
 
 *쉬운 말로: 포럼은 다툼이 감독되고, 다투어지고, 확인된 결과로 바뀌는 곳입니다 — 그러나 사건을 내거나 이야기 싸움을 이긴다고 궤적이 갱신되지 않습니다. **3.1절**의 확인된 입력 게이트는 여전히 적용됩니다. 포럼이 제2장부터 제4장 아래 사실을 확인하면, 궤적 기록을 **열거나, 갱신하거나, 고칠** 수 있습니다 — 또는 **다툼에서 나쁜 기록을 치울** 수 있습니다. 포럼은 좋음과 나쁨을 하나의 점수로 합치거나, 궤적 범주를 홀로 발명하지 않습니다.*
 
-[제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) 아래 포럼 가족은 구체 다툼이 궤적 사슬을 어떻게 가로지르는지를 **감독**합니다. 그 감독을 위해 포럼이 두는 다툼-단계 철은 [제11장 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) 아래 [**포럼 사건 기록**](core_05_band_accountability.md#forum-case-record)입니다; 그것 **자체는** 궤적 기록이 **아닙니다**. 포럼은 [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)과 [제 XXV-C조](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*) 아래 접근 가능한 다툼, 독립 검토, 포렌식 받침, 시정 순서, 층-기본 시계를 공급하며, 그 소견이 제2장부터 제4장 아래 확인된 입력 게이트를 충족하면 **3.1절** 아래 궤적 기록을 **열거나, 갱신하거나, 고칠** 수 있습니다 — 또는 **다툼에서 나쁜 기록을 치울** 수 있습니다.
+[제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) 아래 포럼 가족은 구체 다툼이 궤적 사슬을 어떻게 가로지르는지를 **감독**합니다. 그 감독을 위해 포럼이 두는 다툼-단계 철은 [제11장 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) 아래 [**포럼 사건 기록**](../../core_05.035_band_accountability.md#forum-case-record)입니다; 그것 **자체는** 궤적 기록이 **아닙니다**. 포럼은 [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)과 [제 XXV-C조](core_06_rights_part_d.md) (*제때 해결과 지연 금지 바닥*) 아래 접근 가능한 다툼, 독립 검토, 포렌식 받침, 시정 순서, 층-기본 시계를 공급하며, 그 소견이 제2장부터 제4장 아래 확인된 입력 게이트를 충족하면 **3.1절** 아래 궤적 기록을 **열거나, 갱신하거나, 고칠** 수 있습니다 — 또는 **다툼에서 나쁜 기록을 치울** 수 있습니다.
 
 포럼의 확인된 사실 소견은 질문 1 궤적 기록의 사실 바탕을 공급할 수 있습니다. 확인된 기여 또는 위반이 얼마나 좋거나 나빴는지의 질문 2 측정을 **정하지 않습니다**. 따라서:
 
 - 포럼 절차는 기여와 위반 자료를 하나의 순점수, 혼합 본안 답, 또는 미분화된 궤적 꼬리표로 **합쳐서는 안 됩니다**; 연결된 기록은 **2.1절**과 **2.2절** 아래 따로 남습니다.
 - 포럼 산출은 다툼 이야기, 라우팅 편의, 또는 패널 선호를, 보일 수 있는 확인된 입력, 따로 난 측정, 또는 [제9장](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)이 주관하는 궤적-효과 기계의 대체로 **써서 안 됩니다**.
 
-이 경계는 [제 XIII-B조](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*다툼, 검토, 구제 권리*), [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), [제 XXV-C조](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*), 또는 관련 정의 조가 요구하는 다툼, 구제, 임시 구제, 또는 절차 보호를 **줄이지 않습니다**. 확인된 포럼 소견이 다른 확인된 입력과 같은 게이트를 통해 — 그것을 돌아서가 아니라 — 궤적에 들어가게 요구합니다.
+이 경계는 [제 XIII-B조](core_06_rights_part_c.md) (*다툼, 검토, 구제 권리*), [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), [제 XXV-C조](core_06_rights_part_d.md) (*제때 해결과 지연 금지 바닥*), 또는 관련 정의 조가 요구하는 다툼, 구제, 임시 구제, 또는 절차 보호를 **줄이지 않습니다**. 확인된 포럼 소견이 다른 확인된 입력과 같은 게이트를 통해 — 그것을 돌아서가 아니라 — 궤적에 들어가게 요구합니다.
 
 <a id="37-record-custody-and-opening-authority"></a>
 
@@ -408,9 +410,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: [제1장 §10.2 *직무 분리*](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) (*이 절이 궤적 기록에 적용하는 원칙 층 바닥; 여기서 좁혀져서는 안 됨*); [제1장 §11.3 *복수 탐지와 검토*](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection); [§2.1](#21-silence-is-the-default) (*확인된 방아쇠; 대상에의 통지*); [§3.1](#31-minimum-record-contents) (*최소 내용과 확인된 입력 게이트*); [§3.4](#34-versioning) (*판본 관리*); [§3.6](#36-forum-boundary) (*포럼은 열거나, 갱신하거나, 고치거나, 치울 수 있음*); [제2장부터 제4장](core_02_definition_structure.md) (*기록, 확인, 추적 가능성*); [증거 보존](core_05_band_oversight.md#evidence-preservation) (*증거의 보관 사슬*).
+- 상류: [제1장 §10.2 *직무 분리*](core_01_c_stewardship_capacity_principles.md) (*이 절이 궤적 기록에 적용하는 원칙 층 바닥; 여기서 좁혀져서는 안 됨*); [제1장 §11.3 *복수 탐지와 검토*](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection); [§2.1](#21-silence-is-the-default) (*확인된 방아쇠; 대상에의 통지*); [§3.1](#31-minimum-record-contents) (*최소 내용과 확인된 입력 게이트*); [§3.4](#34-versioning) (*판본 관리*); [§3.6](#36-forum-boundary) (*포럼은 열거나, 갱신하거나, 고치거나, 치울 수 있음*); [제2장부터 제4장](core_02_definition_structure.md) (*기록, 확인, 추적 가능성*); [증거 보존](core_05_band_oversight.md#evidence-preservation) (*증거의 보관 사슬*).
 - 사원(四元) 다리: **책무** (모든 입력에 명명된 행위자가 답함); **감독** (어느 쪽도 자기 주장을 확인하지 않음). 일차 목적: **번영**과 **연속**.
-- 함께 읽기: [제5장 *범위 증서*](core_05_band_continuity.md#charter) (*증서된 범위를 위한 기록 개방 권한과 보관자를 이름 붙이거나 가리키는 공표된 범위 기구*); **CI-3.6** (*범위 증서 내용 — 궤적 기록 보관 칸*); [**CJS-3.11** *헌법 레인과 기능 분리*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) (*기록 직무가 놓이는 다섯 레인; 직무 분리*); **CI-3.2** (*기능 분리 레인 — 공표된 레인 지도, 범위 증서가 침묵할 때의 예비*); **CI-3.3** (*권한 사슬과 위임 통제*); **CI-4.6** (*좌석 목록 — 네 기록 좌석을 좌석 유형 1–4로, 잘못된-좌석 규칙과 함께*); **CF-9.6** (*자기 조사 금지*)와 **CF-9.8** (*확인된 소견 인계*); [제11장 §2.1](core_11_forum.md#21-lead-default-limits) (*자기 심판 금지 예비*); [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*누가 수권했는지; 로그는 기록이 아님*); [제9장 §5.4](../../core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*멈추고, 거절하고, 문서화하고, 격상*); [제4장 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) (*확인 좌석이 기록자와 당사자 진술에 적용하는 증거 표준*); [선의](core_05_band_accountability.md#good-faith) (*솔직 추정, 정확이 아님*); [다툴 수 있음](core_05_band_accountability.md#contestability)과 [제 XIII-B조](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*기록 위에 제기된 다툼은 제출 전에 기록되고 라우팅됨*); [제11장 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*포럼에 도달한 궤적 기록의 다툼*).
+- 함께 읽기: [제5장 *범위 증서*](../../core_05.040_band_continuity.md) (*증서된 범위를 위한 기록 개방 권한과 보관자를 이름 붙이거나 가리키는 공표된 범위 기구*); **CI-3.6** (*범위 증서 내용 — 궤적 기록 보관 칸*); [**CJS-3.11** *헌법 레인과 기능 분리*](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*기록 직무가 놓이는 다섯 레인; 직무 분리*); **CI-3.2** (*기능 분리 레인 — 공표된 레인 지도, 범위 증서가 침묵할 때의 예비*); **CI-3.3** (*권한 사슬과 위임 통제*); **CI-4.6** (*좌석 목록 — 네 기록 좌석을 좌석 유형 1–4로, 잘못된-좌석 규칙과 함께*); **CF-9.6** (*자기 조사 금지*)와 **CF-9.8** (*확인된 소견 인계*); [제11장 §2.1](core_11_forum.md#21-lead-default-limits) (*자기 심판 금지 예비*); [CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*누가 수권했는지; 로그는 기록이 아님*); [제9장 §5.4](../../core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*멈추고, 거절하고, 문서화하고, 격상*); [제4장 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) (*확인 좌석이 기록자와 당사자 진술에 적용하는 증거 표준*); [선의](../../core_05.035_band_accountability.md#good-faith) (*솔직 추정, 정확이 아님*); [다툴 수 있음](../../core_05.035_band_accountability.md#contestability)과 [제 XIII-B조](core_06_rights_part_c.md) (*기록 위에 제기된 다툼은 제출 전에 기록되고 라우팅됨*); [제11장 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*포럼에 도달한 궤적 기록의 다툼*).
 - 하류: [§4](#4-standing-measurement-evaluation-dimensions) (*질문 2는 이 절 아래 넣어진 기록만 측정*); [제9장](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) (*질문 3 효과는 귀속된 기록으로 추적*).
 
 </details>
@@ -421,9 +423,9 @@
 
 <a id="37-segregation-of-duties"></a>
 
-**직무 분리.** 이것은 [제1장 §10.2 *직무 분리*](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)를 궤적 기록에 적용합니다. 네 직무가 모든 궤적 기록에 닿으며, 같은 기록에서 각각은 따로 난 좌석입니다:
+**직무 분리.** 이것은 [제1장 §10.2 *직무 분리*](core_01_c_stewardship_capacity_principles.md)를 궤적 기록에 적용합니다. 네 직무가 모든 궤적 기록에 닿으며, 같은 기록에서 각각은 따로 난 좌석입니다:
 
-| 직무 | 그것이 무엇인가 | [CJS-3.11 *헌법 레인과 기능 분리*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) 아래 레인 |
+| 직무 | 그것이 무엇인가 | [CJS-3.11 *헌법 레인과 기능 분리*](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) 아래 레인 |
 | --- | --- | --- |
 | **요청** | 기록이 열리거나, 고쳐지거나, 만료되거나, 대체되기를 요청하는 것 — 대상 또는 주장자의 자기 요청을 포함 | 집행 (또는 좌석을 지니지 않는 요청하는 쪽) |
 | **확인** | 제2장부터 제4장 아래 **3.1절** 게이트까지 사실 바탕을 세우는 것 — 기록 개방 권한의 행위 | 보증과 감사 |
@@ -438,7 +440,7 @@
 
 <a id="37-informal-and-small-scope-records"></a>
 
-**비공식과 작은-범위 기록.** 직무 분리는 형식성이 아니라 실질 이해관계에 맞춰 세기 조절됩니다 ([제1장 §10.2 직무 분리](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)). 무급, 동료-조직, 상호 원조, 돌봄, 유지, 수리, 가르침, 공동체-책임 있는 관리 일 — [제9장 §6 기여 결과 둘째](../../core_11_standing_integration.md#6-contribution-consequences-second)가 같은 표준 위에 인정되기를 요구하는 일 — 에 대해, 확인 좌석은 **기록에 의지할 공표된 권한을 지닌 어떤 이해관계 없는 사무소**로 충족됩니다. 흔히 그것을 쓸 기구입니다: 유역 협의회, 자금 또는 연속 기구, **CI-22** (*공유재, 협동, 상호 원조, 비시장 공동체 거버넌스*) 기록-인정 사무소, 또는 포럼. 확인하는 기구의 형식성으로 충족되지 않습니다. 그런 기록에서:
+**비공식과 작은-범위 기록.** 직무 분리는 형식성이 아니라 실질 이해관계에 맞춰 세기 조절됩니다 ([제1장 §10.2 직무 분리](core_01_c_stewardship_capacity_principles.md)). 무급, 동료-조직, 상호 원조, 돌봄, 유지, 수리, 가르침, 공동체-책임 있는 관리 일 — [제9장 §6 기여 결과 둘째](../../core_11_standing_integration.md#6-contribution-consequences-second)가 같은 표준 위에 인정되기를 요구하는 일 — 에 대해, 확인 좌석은 **기록에 의지할 공표된 권한을 지닌 어떤 이해관계 없는 사무소**로 충족됩니다. 흔히 그것을 쓸 기구입니다: 유역 협의회, 자금 또는 연속 기구, **CI-22** (*공유재, 협동, 상호 원조, 비시장 공동체 거버넌스*) 기록-인정 사무소, 또는 포럼. 확인하는 기구의 형식성으로 충족되지 않습니다. 그런 기록에서:
 
 - 참여자는 대상이며, 인정을 구할 때 주장자입니다; **3.3절** 아래 집합 기록에서 각 공동 참여자는 주장자이므로, 한 구성원이 다른 구성원의 몫에 대해 하는 진술은 입력이며, 결코 확인이 아닙니다;
 - 수혜자, 이웃, 다른 비참여자는 **3.1절** 아래 확인 자료로서 증언을 공급합니다; 집단의 자기 로그를 지킨 감지자는 아래 *기록자 진술은 입력입니다* 아래 기록자이자 증인입니다;
@@ -449,7 +451,7 @@
 
 <a id="371-named-record-opening-authority"></a>
 
-**명명된 기록 개방 권한.** 모든 궤적 기록은 **기록 개방 권한**이 열거나, 고치거나, 만료하거나, 대체합니다: 제2장부터 제4장 아래 사실 바탕을 확인하고 기록을 넣을 권한이, 행위하기 전에 공표된 역할, 사무소, 포럼, 또는 기구. 기록이 [범위 증서](core_05_band_continuity.md#charter)를 지닌 체계, 제도, 또는 사업에 관한 것이면, 그 범위 증서는 증서된 범위에 관한 기록을 위한 기록 개방 권한과 기록 보관자를 이름 붙이거나, 그것들을 이름 붙이는 공표된 기구를 가리킵니다 (**CI-3.6** (*범위 증서 내용, 검토, 형성 틀*)). 포럼은 **3.6절**의 조건으로 기록 개방 권한으로 행위합니다; 기록을 확인한 포럼은 그 기록의 다툼을 듣지 않으며, 그것은 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)과 **CF-6** (*불복, 이차 검토, 소진 경로*) 아래 이차 검토로 갑니다. 범위 증서 또는 포럼 지정이 기록에 닿지 않으면, 위의 *범위 증서가 침묵할 때의 예비*가 적용되며, [제15장](../../core_17_amendment_ratification.md) 아래 채택 기구 또는 궤적 사슬을 운영하는 기구의 공표된 규칙이 그다음 하나를 이름 붙여야 합니다. 명명된 권한 없이 이루어진 입력은 **잠정**으로 표시됩니다: **2.1절** 아래 증거와 통지를 보존하나, 명명된 권한이 확인하거나, 고치거나, 치울 때까지 **3.1절** 아래 확인된 입력도 제9장 효과도 공급하지 않습니다.
+**명명된 기록 개방 권한.** 모든 궤적 기록은 **기록 개방 권한**이 열거나, 고치거나, 만료하거나, 대체합니다: 제2장부터 제4장 아래 사실 바탕을 확인하고 기록을 넣을 권한이, 행위하기 전에 공표된 역할, 사무소, 포럼, 또는 기구. 기록이 [범위 증서](../../core_05.040_band_continuity.md)를 지닌 체계, 제도, 또는 사업에 관한 것이면, 그 범위 증서는 증서된 범위에 관한 기록을 위한 기록 개방 권한과 기록 보관자를 이름 붙이거나, 그것들을 이름 붙이는 공표된 기구를 가리킵니다 (**CI-3.6** (*범위 증서 내용, 검토, 형성 틀*)). 포럼은 **3.6절**의 조건으로 기록 개방 권한으로 행위합니다; 기록을 확인한 포럼은 그 기록의 다툼을 듣지 않으며, 그것은 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)과 **CF-6** (*불복, 이차 검토, 소진 경로*) 아래 이차 검토로 갑니다. 범위 증서 또는 포럼 지정이 기록에 닿지 않으면, 위의 *범위 증서가 침묵할 때의 예비*가 적용되며, [제15장](../../core_17_amendment_ratification.md) 아래 채택 기구 또는 궤적 사슬을 운영하는 기구의 공표된 규칙이 그다음 하나를 이름 붙여야 합니다. 명명된 권한 없이 이루어진 입력은 **잠정**으로 표시됩니다: **2.1절** 아래 증거와 통지를 보존하나, 명명된 권한이 확인하거나, 고치거나, 치울 때까지 **3.1절** 아래 확인된 입력도 제9장 효과도 공급하지 않습니다.
 
 <a id="372-record-custodian"></a>
 
@@ -457,7 +459,7 @@
 
 <a id="373-no-self-custody"></a>
 
-**자기 보관 금지.** 다음은 한 기록의 기록 개방 권한 또는 기록 보관자로 행위해서는 안 됩니다: 기록의 대상; 기록이 관한 기여를 주장하거나 위반을 주장하는 쪽; 그리고 그 쪽을 실질로 통제하거나 그 쪽에 실질로 통제되는 권한선 안의 어떤 사무소. 핵심 체계 책임 있는 관리 또는 실질 운영 권한을 행사하는 대상 안의 책임 있는 관리자는 [제9장 §5.4](../../core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)와 [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) 아래 모든 의무를 유지합니다 — 통제하는 것을 멈추고, 재구성 가능한 집합을 기록하고, 쥐는 증거를 보존하고, 통지하고, 격상 — 그리고 그 행위 가운데 어느 것도 사실의 확인이나 기록의 입력이 아닙니다. 보통의 기록 개방 권한이 대상 자신이거나 그 통제선에 앉으면, 기록은 독립 확인으로 라우팅됩니다: **3.6절** 아래 포럼, **CF-9.6** (*자기 조사 금지*) 아래 독립 조사 서비스, 또는 공표된 권한을 지닌 미리 지정된 예비 기구 — 범위 증서 또는 지정이 먼저 이름 붙인 것. 그런 경로가 없음은 책임 있는 관리자가 로그에 이름 붙여야 하는 공백이지, 스스로 기록을 넣을 이유가 아닙니다. 이 규칙은 기록에의 이해관계로 쪽을 배제합니다; 위의 *직무 분리*는 기능으로 좌석을 가릅니다. 둘 다 적용되며, 더 좁은 답이 다스립니다.
+**자기 보관 금지.** 다음은 한 기록의 기록 개방 권한 또는 기록 보관자로 행위해서는 안 됩니다: 기록의 대상; 기록이 관한 기여를 주장하거나 위반을 주장하는 쪽; 그리고 그 쪽을 실질로 통제하거나 그 쪽에 실질로 통제되는 권한선 안의 어떤 사무소. 핵심 체계 책임 있는 관리 또는 실질 운영 권한을 행사하는 대상 안의 책임 있는 관리자는 [제9장 §5.4](../../core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)와 [CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) 아래 모든 의무를 유지합니다 — 통제하는 것을 멈추고, 재구성 가능한 집합을 기록하고, 쥐는 증거를 보존하고, 통지하고, 격상 — 그리고 그 행위 가운데 어느 것도 사실의 확인이나 기록의 입력이 아닙니다. 보통의 기록 개방 권한이 대상 자신이거나 그 통제선에 앉으면, 기록은 독립 확인으로 라우팅됩니다: **3.6절** 아래 포럼, **CF-9.6** (*자기 조사 금지*) 아래 독립 조사 서비스, 또는 공표된 권한을 지닌 미리 지정된 예비 기구 — 범위 증서 또는 지정이 먼저 이름 붙인 것. 그런 경로가 없음은 책임 있는 관리자가 로그에 이름 붙여야 하는 공백이지, 스스로 기록을 넣을 이유가 아닙니다. 이 규칙은 기록에의 이해관계로 쪽을 배제합니다; 위의 *직무 분리*는 기능으로 좌석을 가릅니다. 둘 다 적용되며, 더 좁은 답이 다스립니다.
 
 <a id="37-conflicted-custodian-on-a-single-record"></a>
 
@@ -467,7 +469,7 @@
 
 **기록자 진술은 입력입니다.** 기록을 열거나, 확인하거나, 이전에 쥔 감지자 또는 사무소의 이후 진술 — 주장된 기여, 주장된 누락, 또는 다툼을 받치거나 반박하는 — 은 **3.1절** 아래 확인 자료로 기록에 들어가며, 다른 입력과 같은 확인된 입력 게이트를 통과합니다. 이전 기록자는 기록의 증인이지, 그 심판자가 아닙니다. 그들의 받침은 그 자체로 기여를 확인하지 않습니다; 그들의 반박은 그 자체로 하나를 반증하지 않습니다; 대상 또는 다투는 이와의 합의는 그 자체로 아무것도 결말짓지 않습니다. 그들의 가용 또는 비가용은 기록을 얼리지도 끝내지도 않습니다: 이전 기록자에게 닿을 수 없으면, 기록은 그렇게 말하고 남은 확인된 자료 위에 진행합니다.
 
-기록자 진술이 얼마나 무게를 지니는지는 확인 좌석을 위한 제2장부터 제4장의 질문이지, 보관 질문이 아닙니다. 확인자는 반대 표시가 없으면 [선의](core_05_band_accountability.md#good-faith)로 제안된 대로 읽습니다. 그러나 선의는 솔직에 가며, 정확에 가지 않습니다; 정확은 [제4장 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) 아래 보강으로 세워집니다. 동시 로그, 이전 판, 감사, 또는 독립 확인과 합의하는 진술은 그 자료의 무게를 집니다. 홀로 서는 진술은 증언이며 그 자체로 부담을 지지 않습니다. 주장자, 대상, 다투는 이, 또는 그들의 통제선 안의 사무소에서 온 진술은 그 목적에서 자기 증언입니다. 진술이 기록이 왜 그렇게 남겨졌는지를 설명하면 — 이전 기록자가 항목이 확인되지 않았기 때문에 빠졌다고 말할 때처럼 — 그것은 그 시점의 기록 상태와 그때 미확인이었던 것의 증거입니다; 빠진 사실이 그 이후 확인되었는지를 정하지 않으며, 확인 좌석이 현재 자료 위에 답합니다.
+기록자 진술이 얼마나 무게를 지니는지는 확인 좌석을 위한 제2장부터 제4장의 질문이지, 보관 질문이 아닙니다. 확인자는 반대 표시가 없으면 [선의](../../core_05.035_band_accountability.md#good-faith)로 제안된 대로 읽습니다. 그러나 선의는 솔직에 가며, 정확에 가지 않습니다; 정확은 [제4장 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) 아래 보강으로 세워집니다. 동시 로그, 이전 판, 감사, 또는 독립 확인과 합의하는 진술은 그 자료의 무게를 집니다. 홀로 서는 진술은 증언이며 그 자체로 부담을 지지 않습니다. 주장자, 대상, 다투는 이, 또는 그들의 통제선 안의 사무소에서 온 진술은 그 목적에서 자기 증언입니다. 진술이 기록이 왜 그렇게 남겨졌는지를 설명하면 — 이전 기록자가 항목이 확인되지 않았기 때문에 빠졌다고 말할 때처럼 — 그것은 그 시점의 기록 상태와 그때 미확인이었던 것의 증거입니다; 빠진 사실이 그 이후 확인되었는지를 정하지 않으며, 확인 좌석이 현재 자료 위에 답합니다.
 
 <a id="375-attributed-entry"></a>
 
@@ -475,11 +477,11 @@
 
 <a id="37-challenge-received-on-the-record"></a>
 
-**기록 위에 받은 다툼.** [다툴 수 있음](core_05_band_accountability.md#contestability)은 포럼에서 시작하지 않습니다. 영향받는 쪽이 기록, 판, 또는 그것에서 주장된 효과를 — 보관자에게, 기록 개방 권한에게, 또는 제도의 어떤 사무소에게 — 다툴 때, 보관자는 위의 *귀속된 입력* 아래 받은 순간에 기록에 다툼을 기록하고, **3.1절** 아래 검토 상태를 *다툼 중*으로 두고, 대상과 어떤 주장자에게 통지하고, 다툼 좌석으로 라우팅합니다: **CI-3.2** (*기능 분리 레인*) 아래 다툼-과-검토 레인을 지닌 사무소, 또는 **3.6절**과 [제11장 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*궤적 기록의 다툼*) 아래 적격 포럼 — 기록의 공표된 다툼 경로가 이름 붙인 것. 그 공표된 경로는 [다툼 순서](core_11_forum.md#dispute-sequencing) 아래 보통의 첫 걸음입니다; 그 경로가 아직 다툼 중이거나, 없거나, 포획되었거나, 필요한 구제를 줄 수 없을 때 적격 포럼은 남아 있습니다. 보관자와 권한은 다툼을 정하지 않습니다. *다툼 중*은 상태이지 정지가 아닙니다: 기록은 점검 가능하게 남고, 이전 판은 제자리에 남으며, 제9장 효과를 위한 다툼된 판에의 의지는 다툼 좌석 또는 포럼이 그렇게 명할 때만 멈춥니다. 다툼은 교정 요청이 아니며 하나를 얼리지 않습니다: 다투는 이의 설명은, 주장자의 것과 같이, *기록자 진술은 입력입니다*와 **3.1절** 아래 확인에의 입력이며, 결코 확인이 아니며, 어느 쪽도 보류 중인 다툼을, 기록 개방 권한이 달리 확인한 판을 넣거나 넣기를 거절할 이유로 다루어서는 안 됩니다. [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)과 [제 XXV-C조](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) 아래 층 시계는 접수부터 돕니다. 다툼 좌석이 이름 붙지 않아 라우팅할 수 없는 다툼은 기록에 기록되고 **3.6절** 아래 감독 포럼으로 라우팅되는 **CI-3.6** 칸 11 결함입니다; 거처가 없어 닫히지 않으며, 그 이유로 닫는 것은 [제 XIII-B조](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)와 **2.3.2절** (*책무 방해*) 아래 방해입니다.
+**기록 위에 받은 다툼.** [다툴 수 있음](../../core_05.035_band_accountability.md#contestability)은 포럼에서 시작하지 않습니다. 영향받는 쪽이 기록, 판, 또는 그것에서 주장된 효과를 — 보관자에게, 기록 개방 권한에게, 또는 제도의 어떤 사무소에게 — 다툴 때, 보관자는 위의 *귀속된 입력* 아래 받은 순간에 기록에 다툼을 기록하고, **3.1절** 아래 검토 상태를 *다툼 중*으로 두고, 대상과 어떤 주장자에게 통지하고, 다툼 좌석으로 라우팅합니다: **CI-3.2** (*기능 분리 레인*) 아래 다툼-과-검토 레인을 지닌 사무소, 또는 **3.6절**과 [제11장 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*궤적 기록의 다툼*) 아래 적격 포럼 — 기록의 공표된 다툼 경로가 이름 붙인 것. 그 공표된 경로는 [다툼 순서](core_11_forum.md#dispute-sequencing) 아래 보통의 첫 걸음입니다; 그 경로가 아직 다툼 중이거나, 없거나, 포획되었거나, 필요한 구제를 줄 수 없을 때 적격 포럼은 남아 있습니다. 보관자와 권한은 다툼을 정하지 않습니다. *다툼 중*은 상태이지 정지가 아닙니다: 기록은 점검 가능하게 남고, 이전 판은 제자리에 남으며, 제9장 효과를 위한 다툼된 판에의 의지는 다툼 좌석 또는 포럼이 그렇게 명할 때만 멈춥니다. 다툼은 교정 요청이 아니며 하나를 얼리지 않습니다: 다투는 이의 설명은, 주장자의 것과 같이, *기록자 진술은 입력입니다*와 **3.1절** 아래 확인에의 입력이며, 결코 확인이 아니며, 어느 쪽도 보류 중인 다툼을, 기록 개방 권한이 달리 확인한 판을 넣거나 넣기를 거절할 이유로 다루어서는 안 됩니다. [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)과 [제 XXV-C조](core_06_rights_part_d.md) 아래 층 시계는 접수부터 돕니다. 다툼 좌석이 이름 붙지 않아 라우팅할 수 없는 다툼은 기록에 기록되고 **3.6절** 아래 감독 포럼으로 라우팅되는 **CI-3.6** 칸 11 결함입니다; 거처가 없어 닫히지 않으며, 그 이유로 닫는 것은 [제 XIII-B조](core_06_rights_part_c.md)와 **2.3.2절** (*책무 방해*) 아래 방해입니다.
 
 <a id="376-custody-is-not-delay"></a>
 
-**보관은 지연이 아니며, 보관은 소유가 아닙니다.** 보관 질문은 기다림이 아니라 명명된 또는 독립 권한으로의 라우팅으로 답합니다. 어느 쪽도 보관 다툼, 닿을 수 없는 이전 기록자, 또는 이름 붙지 않은 권한을 써서, [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)과 [제 XXV-C조](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*) 아래 층 시계를 넘어 기록을 열리거나, 닫히거나, 고쳐지지 않은 채로 두어서는 안 됩니다. 기록을 쥐는 것은 질문 2 측정 교정, 제9장 궤적 효과, 또는 대상에 대한 어떤 권한도 주지 않습니다; 효과를 적용하거나, 다툼 경로를 보류하거나, 대상의 협력을 입력의 조건으로 하는 보관자는 그 자체가 **2.3.2절** (*책무 방해*) 아래 따로 난 위반 궤적 기록의 대상입니다.
+**보관은 지연이 아니며, 보관은 소유가 아닙니다.** 보관 질문은 기다림이 아니라 명명된 또는 독립 권한으로의 라우팅으로 답합니다. 어느 쪽도 보관 다툼, 닿을 수 없는 이전 기록자, 또는 이름 붙지 않은 권한을 써서, [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)과 [제 XXV-C조](core_06_rights_part_d.md) (*제때 해결과 지연 금지 바닥*) 아래 층 시계를 넘어 기록을 열리거나, 닫히거나, 고쳐지지 않은 채로 두어서는 안 됩니다. 기록을 쥐는 것은 질문 2 측정 교정, 제9장 궤적 효과, 또는 대상에 대한 어떤 권한도 주지 않습니다; 효과를 적용하거나, 다툼 경로를 보류하거나, 대상의 협력을 입력의 조건으로 하는 보관자는 그 자체가 **2.3.2절** (*책무 방해*) 아래 따로 난 위반 궤적 기록의 대상입니다.
 
 <a id="4-standing-measurement-evaluation-dimensions"></a>
 <a id="4-classification-evaluation-dimensions"></a>
@@ -511,7 +513,7 @@
 
 **전생애-등가 헌법 이익**은 하찮지 않고 권리-정합한 안녕의 한 온전한 감지자 수명을 보존, 복원, 또는 자유롭게 하는 것에 비교할 수 있는 확인된 이익을 뜻합니다. **전생애-등가 헌법 손실**은 하나의 전생애-등가 헌법 이익을 파괴, 부당 소비, 또는 막는 것에 비교할 수 있는 확인된 해, 낭비, 파괴, 봉쇄, 박탈, 또는 위험 실현을 뜻합니다. **수명 등가 단위** (**LEQU**)는 채택된 시행이 숫자 교정을 필요로 할 때 그 전생애-등가 헌법 이익 또는 손실을 위한 약칭 단위입니다. 단위는 기질에 묶이지 않습니다. 현재 채택자는 생물-인간 맥락의 교정 예로 보통 인간 수명을 쓸 수 있으나, 구속력 있는 기준선은 감지자이고 헌법이지, 종에 묶이지 않습니다.
 
-**감지 지위 다리 (제 V-E조와 함께 읽기).** 궤적 측정은 실체가 **감지자**인지를 **정하지 않습니다**. 지위 다툼은 LEQU 점수나 분류 기록이 아니라 [감지 지위 재결](core_05_band_participation.md#sentience-status-adjudication-constitutional)과 [제 V-E조](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*감지 지위 재결 바닥*)로 라우팅됩니다. 지위가 [다툼 중인 감지 생명](core_05_band_participation.md#contested-sentient-life-constitutional) 아래 살아 다툼 중인 동안, 제 V-E조 기본 포함은 재결이 끝날 때까지 궤적 측정 자격과 궤적 기록 제출 역량을 보존합니다 — 운영자는 미해결 지위만으로 궤적 부자격을 다루어서는 안 됩니다. 확인된 [감지자](core_05_band_participation.md#sentient) 지위, 또는 재결 뒤의 검토 가능한 좁힘 또는 복원은, 앞으로의 궤적 기록 대상 정체를 갱신합니다; 부당한 배제는 [구제와 시정](core_05_band_accountability.md#redress-and-remediation-constitutional) 없이 중간 궤적 측정 자격을 지우려고 소급되어서는 안 됩니다.
+**감지 지위 다리 (제 V-E조와 함께 읽기).** 궤적 측정은 실체가 **감지자**인지를 **정하지 않습니다**. 지위 다툼은 LEQU 점수나 분류 기록이 아니라 [감지 지위 재결](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional)과 [제 V-E조](core_06_rights_part_b.md) (*감지 지위 재결 바닥*)로 라우팅됩니다. 지위가 [다툼 중인 감지 생명](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) 아래 살아 다툼 중인 동안, 제 V-E조 기본 포함은 재결이 끝날 때까지 궤적 측정 자격과 궤적 기록 제출 역량을 보존합니다 — 운영자는 미해결 지위만으로 궤적 부자격을 다루어서는 안 됩니다. 확인된 [감지자](../../core_05.055_band_participation.md#sentient) 지위, 또는 재결 뒤의 검토 가능한 좁힘 또는 복원은, 앞으로의 궤적 기록 대상 정체를 갱신합니다; 부당한 배제는 [구제와 시정](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) 없이 중간 궤적 측정 자격을 지우려고 소급되어서는 안 됩니다.
 
 **LEQU 사용의 중요 한도:**
 
@@ -557,7 +559,7 @@
 - 외부화된 해 또는 감춰진 부담은 다툼 중인 명명된 경로에 귀속된 이익을 상한하거나 실격시킵니다;
 - 확인된 포획 위험, 구조 의존, 또는 출구 / 가둠 설계는 책임 있는 관리-긍정 인정을 한정합니다;
 - 확인된 접근성 또는 참여-장벽 수리는 실질성을 높이고 **4.3절** 아래 **접근과 포함** 이익-경로 서술자를 받칠 수 있습니다; 그리고
-- 헌법으로 어긋난 유인 구조, 반헌법 행위, 또는 실질로 결함 있는 과정을 통해 얻은 실질 보상은 기본으로 셀 수 있는 이익이 아닙니다. [제9장 §5.4](../../core_11_standing_integration.md#54-special-violation-rules)와 [제 XXVII-A조](core_06_rights_part_d.md#incentive-alignment-transition-carve-out)의 전환 한도를 적용하십시오.
+- 헌법으로 어긋난 유인 구조, 반헌법 행위, 또는 실질로 결함 있는 과정을 통해 얻은 실질 보상은 기본으로 셀 수 있는 이익이 아닙니다. [제9장 §5.4](../../core_11_standing_integration.md#54-special-violation-rules)와 [제 XXVII-A조](core_06_rights_part_d.md)의 전환 한도를 적용하십시오.
 
 **Q2 산출 (기여 궤적 기록에 기록; 궤적 효과가 아님):**
 
@@ -589,10 +591,10 @@
 - **책무 방해** — 증거 완전성, 확인, 포럼 과정, 궤적 기록, 구제 시계, 또는 다툼과 구제 경로 같은 답할 수 있음 기계에의 확인된 간섭 — 은 따로 기록된 행위-성격 사실로 남습니다; 복합된 명명된-경로 손실은 LEQU 추정에 한 번 들어가며, 방해 꼬리표 자체는 영향 슬롯을 움직이지 않습니다;
 - 기만, 은폐, 회피, 통지 뒤 반복, 무모한 무시, 구조적 가능하게 함, 또는 실질 의존-비대칭 남용은 따로 기록된 행위-성격 사실로 남습니다;
 - 폭력, 강제, 조작, 또는 자유 위험은 따로 기록되며 슬롯과 무관하게 높여진 보호를 요구할 수 있습니다;
-- [잔혹](core_05_band_accountability.md#cruelty) — 그 자체로 목적로서의 확인된 고통, 또는 필요와 비례를 넘는 이유 없거나 비하하는 가함 — 은 따로 기록된 행위-성격 사실로 남습니다; [제9장 §4](../../core_11_standing_integration.md#4-violation-correction-and-prevention) 아래 높여진 보호와 비하하지 않는 구제 제약을 요구할 수 있으며, 영향 슬롯을 움직이지 않습니다;
+- [잔혹](../../core_05.035_band_accountability.md#cruelty) — 그 자체로 목적로서의 확인된 고통, 또는 필요와 비례를 넘는 이유 없거나 비하하는 가함 — 은 따로 기록된 행위-성격 사실로 남습니다; [제9장 §4](../../core_11_standing_integration.md#4-violation-correction-and-prevention) 아래 높여진 보호와 비하하지 않는 구제 제약을 요구할 수 있으며, 영향 슬롯을 움직이지 않습니다;
 - 확산은 분산된 인과 역할, 권한, 통제, 예견 가능성, 이익, 은폐, 또는 실행 가능한 예방 역량에 관한 것입니다; **감지자 범위**의 일부가 아니며 집단 소속에 의한 비난을 허용하지 않습니다;
 - 묵인 참여 또는 저항 실패는 **3.1절과 3.3절**이 요구하는 행위자별 연결이 확인될 때만 의무-기반, 가중, 또는 집합-책무 성격을 받칠 수 있습니다; 그리고
-- 제때 보호된 보고 없이 실질 어긋난 보상을 알면서 받아들이거나 유지하는 것은 [제 XXVII-A조](core_06_rights_part_d.md#incentive-alignment-transition-carve-out)에 따라 [제9장 §5.4](../../core_11_standing_integration.md#54-special-violation-rules) 아래 기록됩니다; 그 확인된 헌법 손실만이 슬롯에 영향을 줍니다.
+- 제때 보호된 보고 없이 실질 어긋난 보상을 알면서 받아들이거나 유지하는 것은 [제 XXVII-A조](core_06_rights_part_d.md)에 따라 [제9장 §5.4](../../core_11_standing_integration.md#54-special-violation-rules) 아래 기록됩니다; 그 확인된 헌법 손실만이 슬롯에 영향을 줍니다.
 
 **어긋난-보상 경계.** 이 장은 확인된 어긋난 보상이 기여 축 또는 위반 축에 어떻게 영향을 주는지만 측정합니다. [제9장 §5.4](../../core_11_standing_integration.md#54-special-violation-rules)가 보고 의무, 배제, 몰수 결과, 교정 의무, 라우팅 규칙을 말합니다.
 
@@ -679,7 +681,7 @@
 | **기만 / 은폐 / 회피** | **§4.2**의 위반 행위-성격 적용 | [제9장 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 은폐 / 회피 격상 잠금 |
 | **책무 방해** | **§4.2**의 위반 행위-성격 적용과 **§4.4**의 **책무 방해 부당행위** | [제9장 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks)와 [§5.4](../../core_11_standing_integration.md#54-special-violation-rules) — 명명된-경로-범위 잠금; [제9장 §10.13](../../core_11_standing_integration.md#1013-obstruction-of-accountability) (*질문 3 패턴*); 제10장 지정은 [제9장 §10.8](../../core_11_standing_integration.md#108-anti-constitutional-misconduct-allegation) 아래 반헌법 부당행위 검토 게이트웨이를 통해서만 |
 | **폭력 / 강제 / 자유 위험** | **§4.2**의 위반 행위-성격 적용과 **§4.4**의 **폭력 부당행위** | [제9장 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 보호와 안전 잠금 |
-| **잔혹** | **§4.2**의 위반 행위-성격 적용; [잔혹](core_05_band_accountability.md#cruelty) | [제9장 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 보호와 안전 잠금; [제9장 §4.3](../../core_11_standing_integration.md#43-voluntary-public-accountability-expression) — 쓰이는 곳의 비하하지 않는 회복 표현 |
+| **잔혹** | **§4.2**의 위반 행위-성격 적용; [잔혹](../../core_05.035_band_accountability.md#cruelty) | [제9장 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 보호와 안전 잠금; [제9장 §4.3](../../core_11_standing_integration.md#43-voluntary-public-accountability-expression) — 쓰이는 곳의 비하하지 않는 회복 표현 |
 | **지속 / 패턴 / 통지 뒤 재발** | **§4.2**의 위반 행위-성격 적용 | [제9장 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 재발-지속 잠금 |
 | **포럼-완전성 상해** | **§4.2**의 위반 행위-성격 적용 | [제9장 §5.5](../../core_11_standing_integration.md#55-special-locks) — 포럼-완전성 궤적-잠금 효과 |
 | **책임 또는 통제의 확산** | **§4.2**의 위반 행위-성격 적용; **§§3.1과 3.3** 아래 행위자별 연결 | [제9장 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 더 넓은 명명된 경로 범위 또는 제도-운반체 고려 |
@@ -800,12 +802,12 @@
 
 <a id="51-standard-contribution-measures"></a>
 
-**표준 기여 측정.** 채택된 시행은 또한 **표준 기여 측정**을 공표할 수 있습니다: 정의된 범위에서 정의된 반복 일의 확인된 수행을 위한 기본 질문 2 추정 — LEQU, 범위, 이익-경로 서술자 — 말한 구간을 따른 쓰레기 줍기, 수로-복원 작업 단위, 토지-회복 구획, 또는 유지 순환 같은. 표준은 [제1장 §2.2](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) (*인정, 강화, 지향*) 아래 일상 책임 있는 관리를 읽을 수 있고 반복할 가치가 있게 하며, 모든 사례에 맞춤 추정을 요구하지 않습니다. 표준은 **3.5절** 아래 측정 도우미이며:
+**표준 기여 측정.** 채택된 시행은 또한 **표준 기여 측정**을 공표할 수 있습니다: 정의된 범위에서 정의된 반복 일의 확인된 수행을 위한 기본 질문 2 추정 — LEQU, 범위, 이익-경로 서술자 — 말한 구간을 따른 쓰레기 줍기, 수로-복원 작업 단위, 토지-회복 구획, 또는 유지 순환 같은. 표준은 [제1장 §2.2](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration) (*인정, 강화, 지향*) 아래 일상 책임 있는 관리를 읽을 수 있고 반복할 가치가 있게 하며, 모든 사례에 맞춤 추정을 요구하지 않습니다. 표준은 **3.5절** 아래 측정 도우미이며:
 
 - **3.7절**을 통해 질문 1 아래 확인된 일에만 적용됩니다; 표준은 일이 말한 범위까지, 명명된 대상에 의해 이루어졌다는 확인을 결코 대체하지 않습니다;
 - **표준 수행의 바닥이지, 상한이 아닙니다**: 확인된 영향이 표준이 가정한 영향을 넘는 일 — 더 나은 방법, 더 내구적인 결과, 덜 외부화된 부담, 더 넓거나 깊은 이익 — 은 **5.2절** 아래 실제 확인된 영향으로 측정되어, 표준보다 일을 더 잘 하려는 유인이 살아 남습니다; 표준이 가정한 범위 또는 내구에 확인 가능하게 못 미치는 일은 꼬리표가 아니라 확인된 것으로 측정됩니다;
 - **공표된 주기로 다시 보고 효율이 개선됨에 따라 재기준선화되어**, 표준이 어제의 노력을 오늘의 인정으로 얼리지 않고 일이 지금 드는 것과 내는 것을 추적합니다; 개정은 앞으로 적용되며, 이미 열린 기록은 기록될 때 그 바탕이 틀리지 않는 한 **3.4절** 아래 측정 바탕을 유지합니다;
-- 개정은 증거-기반이고, 공표되고, 다툴 수 있어야 하며, 일의 부류, 공동체, 또는 집단의 인정을 억압하거나, 그것이 서는 확인된 효율 이득보다 빠르게 표준을 아래로 톱니 돌리는 데 쓰여서는 안 됩니다 ([제1장 §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture));
+- 개정은 증거-기반이고, 공표되고, 다툴 수 있어야 하며, 일의 부류, 공동체, 또는 집단의 인정을 억압하거나, 그것이 서는 확인된 효율 이득보다 빠르게 표준을 아래로 톱니 돌리는 데 쓰여서는 안 됩니다 ([제1장 §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture));
 - 표준은 할당량을, 수행할 의무를, [제9장 §6.2](../../core_11_standing_integration.md#62-competency-bars-and-clearances) 아래 역량 막대를 만들지 않습니다; **2.1절** *침묵이 기본입니다*가 다스리며, 표준 일을 한 번도 수행하지 않은 감지자는 그 이유로 기록이 없습니다;
 - 표준을 정하거나 개정하는 사무소는 **3.7절** *직무 분리* 아래 방향-과-정책 좌석을 집니다; 표준에 대한 수행을 확인하는 사무소가 아니며, 어느 쪽도 표준이 재는 인정의 당사자가 아닙니다.
 
@@ -860,14 +862,14 @@
 
 | 정전 원천 | 기여 축 역할 | 위반 축 역할 |
 | --- | --- | --- |
-| [궤적 상태, 기여, 위반](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster) | 기여 성질, 확인된 입력, 축-순수한 궤적 기록을 위한 공동 정의 인터페이스를 공급합니다. | 위반 성질, 궤적 기록, 반헌법 부당행위 검토 라우팅을 위한 공동 정의 인터페이스를 공급합니다. |
+| [궤적 상태, 기여, 위반](../../core_05.035_band_accountability.md#standing-state-contribution-and-violation-cluster) | 기여 성질, 확인된 입력, 축-순수한 궤적 기록을 위한 공동 정의 인터페이스를 공급합니다. | 위반 성질, 궤적 기록, 반헌법 부당행위 검토 라우팅을 위한 공동 정의 인터페이스를 공급합니다. |
 | [책무](core_05_apex_accountability_leg.md#accountability) | 주장된 책임 있는 관리 또는 수리가 영향에 비례하는 귀속, 답할 수 있음, 검토, 구제, 교정을 보존하는지를 시험합니다. | 귀속과 답할 수 있음 실패를 밝힙니다 — 책임이 조직 또는 형식-구조 변경을 통해 기능으로 남는지를 포함. |
-| [해](core_05_band_accountability.md#harm) | 외부화되거나 감춰진 해는 주장된 이익을 상한하거나 실격시킬 수 있습니다; 해의 확인된 수리는 독립으로 보일 때 이익을 받칠 수 있습니다. | 손실과 심각도 측정에 들어가는 직접, 간접, 지연, 누적, 체계 간, 심리 매개 불리한 효과를 정의합니다. |
-| [실질성 판단](core_05_band_oversight.md#materiality-determination)과 [수명 등가 단위 (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) | 확인된 이익, 범위, 취약, 지속, 적용되는 LEQU 교정을 척도합니다. | 확인된 손실, 위험, 범위, 취약, 지속, 되돌릴 수 없음, 적용되는 LEQU 교정을 척도합니다. |
-| [기여 성질](core_05_band_accountability.md#contribution-nature) | 기여 축 할당에 요구되는 긍정-전용 분류와 보일 수 있는 확인된-기여-기록 바탕을 공급합니다. | 불리한 소견을 분류하거나 위반 심각도를 줄이지 않습니다. |
-| [위반 성질](core_05_band_accountability.md#violation-nature-chapter-six) | 부정 기여가 되지 않으며 관련 없는 확인된 이익을 지우지 않습니다. | 위반 축 할당에 요구되는 불리한 분류와 확인된-위반-소견 바탕을 공급합니다. |
+| [해](../../core_05.035_band_accountability.md#harm) | 외부화되거나 감춰진 해는 주장된 이익을 상한하거나 실격시킬 수 있습니다; 해의 확인된 수리는 독립으로 보일 때 이익을 받칠 수 있습니다. | 손실과 심각도 측정에 들어가는 직접, 간접, 지연, 누적, 체계 간, 심리 매개 불리한 효과를 정의합니다. |
+| [실질성 판단](core_05_band_oversight.md#materiality-determination)과 [수명 등가 단위 (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) | 확인된 이익, 범위, 취약, 지속, 적용되는 LEQU 교정을 척도합니다. | 확인된 손실, 위험, 범위, 취약, 지속, 되돌릴 수 없음, 적용되는 LEQU 교정을 척도합니다. |
+| [기여 성질](../../core_05.035_band_accountability.md#contribution-nature) | 기여 축 할당에 요구되는 긍정-전용 분류와 보일 수 있는 확인된-기여-기록 바탕을 공급합니다. | 불리한 소견을 분류하거나 위반 심각도를 줄이지 않습니다. |
+| [위반 성질](../../core_05.035_band_accountability.md#violation-nature-chapter-six) | 부정 기여가 되지 않으며 관련 없는 확인된 이익을 지우지 않습니다. | 위반 축 할당에 요구되는 불리한 분류와 확인된-위반-소견 바탕을 공급합니다. |
 | [헌법 제약](core_05_band_integrative.md#constitutional-constraint), [권한 더미와 내부 위계](core_05_band_integrative.md#authority-stack), [감사 가능성](core_05_band_oversight.md#auditability) | 주장된 이익이 헌법 패배, 회피, 좁혀진 권리 바닥, 또는 종이뿐인 준수 위에 서지 못하게 합니다. | 실체 심각도에 관련되는 실질 제약, 최상위-효과, 회피 금지, 또는 집행 가능성 패배를 밝힙니다. |
-| [감사 가능성](core_05_band_oversight.md#auditability)과 [다툴 수 있음](core_05_band_accountability.md#contestability) | 보일 수 있고 검토 가능한 이익과 기능하는 다툼 경로를 요구합니다. | 감사 가능하고 다툴 수 있는 소견을 요구하며, 주장 또는 불투명 꼬리표가 심각도를 공급하지 못하게 합니다. |
+| [감사 가능성](core_05_band_oversight.md#auditability)과 [다툴 수 있음](../../core_05.035_band_accountability.md#contestability) | 보일 수 있고 검토 가능한 이익과 기능하는 다툼 경로를 요구합니다. | 감사 가능하고 다툴 수 있는 소견을 요구하며, 주장 또는 불투명 꼬리표가 심각도를 공급하지 못하게 합니다. |
 
 <a id="62-principle-inputs"></a>
 
@@ -876,10 +878,10 @@
 | 원칙 원천 | 축-할당 역할 |
 | --- | --- |
 | [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad), [두 헌법 목적](core_00_preamble.md#two-constitutional-aims), [실질 이해관계](core_00_preamble.md#material-stake) | 참여, 감독, 책무, 적시성 규율; 번영과 연속 결과; 모든 할당을 위한 척도 틀을 세웁니다. |
-| [안녕](core_01_a_values_principles.md#2-foundational-objective-wellbeing)과 [인정, 강화, 지향](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) | 위신이나 보상을 기여의 증명으로 바꾸지 않으면서, 기여 축에서 권리-정합 이익과 비례 인정을 바탕 합니다. |
-| [안전](core_01_a_values_principles.md#31-safety-harm-constraint)과 [진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) | 두 축을 한정합니다: 해 또는 기만을 통해 생산된 이익은 온전히 셀 수 없으며, 확인된 안전 또는 진실 패배는 불리한 크기 또는 성격을 세울 수 있습니다. |
-| [책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)와 [책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) | 확인된 사실이 그 원칙을 방아쇠하는 곳에서 내구 기여, 역할-연결 의무, 제도 수리, 감독, 책임을 알립니다. |
-| [핵심 맞바꾸기 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)과 [헌법 바닥, 안전, 과정-성격 제약](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) | 측정된 행위가 필요, 해 최소화, 비례, 권리 충돌, 또는 제한을 불러일으키는 곳에서 적용됩니다; 그것들은 독립으로 결과를 수권하지 않습니다. |
+| [안녕](core_01_a_values_principles.md)과 [인정, 강화, 지향](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration) | 위신이나 보상을 기여의 증명으로 바꾸지 않으면서, 기여 축에서 권리-정합 이익과 비례 인정을 바탕 합니다. |
+| [안전](core_01_a_values_principles.md#4-safety-harm-constraint)과 [진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) | 두 축을 한정합니다: 해 또는 기만을 통해 생산된 이익은 온전히 셀 수 없으며, 확인된 안전 또는 진실 패배는 불리한 크기 또는 성격을 세울 수 있습니다. |
+| [책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md)와 [책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) | 확인된 사실이 그 원칙을 방아쇠하는 곳에서 내구 기여, 역할-연결 의무, 제도 수리, 감독, 책임을 알립니다. |
+| [핵심 맞바꾸기 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)과 [헌법 바닥, 안전, 과정-성격 제약](core_01_b_interaction_interpretation.md) | 측정된 행위가 필요, 해 최소화, 비례, 권리 충돌, 또는 제한을 불러일으키는 곳에서 적용됩니다; 그것들은 독립으로 결과를 수권하지 않습니다. |
 
 <a id="63-rights-floor-and-article-inputs"></a>
 
@@ -888,10 +890,10 @@
 | 조 원천 | 축-할당 역할 또는 경계 |
 | --- | --- |
 | 사실로 적용되는 [제6장 권리 바닥](core_06_rights_part_a.md#chapter-six-foundational-rights) — 확인된 기록이 실질로 연루하는 모든 조를 포함 | 실체 바닥, 보호되는 이익, 의무, 이익, 또는 위반을 세웁니다. 아래에 따로 나열되지 않았다고 어떤 조도 배제되지 않습니다. |
-| [제 XVIII조 — 궤적과 참여 지위](core_06_rights_part_c.md#article-xix-standing-and-participation-status) | 궤적, 존엄, 권리 바닥 최소, 이해관계자 지위, 평판, 이후 참여-지위 효과 사이의 구별을 보존합니다. |
-| [제 XIII-B조 — 다툼, 검토, 구제 권리](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress), [제 XV-B조 — 투명, 감사 가능성, 다툴 수 있음](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), [제 XV조 — 감사, 투명, 독립 확인](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) | 기록 완전성, 공개, 확인, 다툼 접근, 또는 교정이 확인된 이익 또는 위반의 일부인 곳에서 적용됩니다. |
-| [제 XXI조 — 근본 원인 분석과 적응 응답](core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response) | 인과 귀속, 교정, 재발, 또는 적응 응답이 확인된 행위와 그 헌법 성격에 실질인 곳에서 적용됩니다. |
-| [제 XXIII조 — 충돌 해결, 격상, 비상 비례](core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality)와 [제 XXV-C조 — 제때 해결과 지연 금지 바닥](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) | 사실로 연루된 어떤 과정 또는 지연에도 적용됩니다. 제 XXIII조는 주로 질문 3 결과를 제약하며, 선호하는 응답을 정당화하려고 질문 2 슬롯을 올리거나 내리는 데 쓰여서는 안 됩니다. |
+| [제 XVIII조 — 궤적과 참여 지위](core_06_rights_part_c.md) | 궤적, 존엄, 권리 바닥 최소, 이해관계자 지위, 평판, 이후 참여-지위 효과 사이의 구별을 보존합니다. |
+| [제 XIII-B조 — 다툼, 검토, 구제 권리](core_06_rights_part_c.md), [제 XV-B조 — 투명, 감사 가능성, 다툴 수 있음](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), [제 XV조 — 감사, 투명, 독립 확인](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) | 기록 완전성, 공개, 확인, 다툼 접근, 또는 교정이 확인된 이익 또는 위반의 일부인 곳에서 적용됩니다. |
+| [제 XXI조 — 근본 원인 분석과 적응 응답](core_06_rights_part_c.md) | 인과 귀속, 교정, 재발, 또는 적응 응답이 확인된 행위와 그 헌법 성격에 실질인 곳에서 적용됩니다. |
+| [제 XXIII조 — 충돌 해결, 격상, 비상 비례](core_06_rights_part_d.md)와 [제 XXV-C조 — 제때 해결과 지연 금지 바닥](core_06_rights_part_d.md) | 사실로 연루된 어떤 과정 또는 지연에도 적용됩니다. 제 XXIII조는 주로 질문 3 결과를 제약하며, 선호하는 응답을 정당화하려고 질문 2 슬롯을 올리거나 내리는 데 쓰여서는 안 됩니다. |
 
 **적용 한도.** 이 라우팅 걸음은 질문 1을 다시 열거나, 미확인 사실을 들이거나, 측정 차원 또는 점수를 더하거나, 여러 원천을 통해 한 사실을 두 번 세거나, 축을 합치거나, 나열된 모든 원천을 모든 기록에 적용하게 하지 않습니다. 기여와 위반은 따로 측정됩니다. 제 XXIII조 결과는 질문 2 밖에 남습니다. 제10장 지정 검토는 여기서 할당된 영향 슬롯과 따로 남습니다.
 

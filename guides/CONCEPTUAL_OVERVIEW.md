@@ -18,7 +18,7 @@ Seven questions make those relationships easier to hold in mind:
 3. [How do words and claims become testable?](#definition-categories) The definition stack, traceability, observability, and evidence rules.
 4. [How are information and systems classified?](#data-types-and-system-classifications) Data handling, system impact, dependency, and class-scaled duties.
 5. [What happens when conduct matters?](#processes) Certification, verified standing records, LEQU magnitude, separate contribution and violation tracks, effects, correction, and remedy.
-6. [Who reviews and challenges?](#forums) Forum families, published challenge paths, independent review, and segregation of duties.
+6. [Who reviews and challenges?](#forums) Forum families, published challenge paths, independent review, and separation of duties.
 7. [Who may authorize, change, and implement?](#governance) The Constitutional Contract Layer, non-regression, amendment, adoption, incorporation, and corpus custody.
 
 *The diagrams show selected relationships. They do not establish precedence, replace source provisions, or require every matter to pass through every box. The numbered chapters work together as one text.*
@@ -711,7 +711,7 @@ The [System Data Types Record](../core_05.040_band_continuity.md#system-data-typ
 ```mermaid
 flowchart TB
     K["Chapter Seven<br/><br/>System and Institutional<br/>Charters"]
-    D["Chapter Eight<br/><br/>Functional independence<br/>and segregation of duties"]
+    D["Chapter Eight<br/><br/>Functional independence<br/>and separation of duties"]
     S["Chapter Nine<br/><br/>System alignment certification"]
     subgraph Q["Chapter Ten · standing records"]
         direction LR
@@ -867,7 +867,7 @@ Chapter Ten’s model is deliberately not a single reputation score. It asks wha
 
 The two standing tracks remain separate. The Chapter Twelve branch applies only when its conditions are met; ordinary Chapter Eleven effects continue in parallel. The dotted supervision link represents forum review across the processes, rather than an additional final step.
 
-Chapter Seven requires every system and institution of Class L or above to publish a System Charter or Institutional Charter that states its scope and a seat map naming who holds each role. For Class P a Charter is voluntary. Chapter Eight supplies the functional-independence floor for Chapters Nine through Thirteen, working from that published seat map, which make constitutional requirements consequential. Each has a distinct job within the [practical process chain](../core_00.000_preamble.md#6-key-practical-process-pipelines):
+Chapter Seven requires every system and institution of Class L or above to publish a System Charter or Institutional Charter that states its scope and a seat map naming who holds each role. For Class P a Charter is voluntary. Chapter Eight supplies the separation-of-duties requirement for Chapters Nine through Thirteen, working from that published seat map, which make constitutional requirements consequential. Each has a distinct job within the [practical process chain](../core_00.000_preamble.md#6-key-practical-process-pipelines):
 
 - **Seven: publish the scope and the seats.** The System Charter or Institutional Charter states what a system or institution covers and which seat holds each role, so the later chapters have something to check against.
 - **Eight: separate constitutional authority.** Initiation, verification or authorization, record custody, and challenge review remain functionally independent under a published seat map.
@@ -1007,7 +1007,7 @@ flowchart TB
 - Tier A requires immediate attention, interim protection where needed, and intake, acknowledgment, and evidence preservation within days. Emergency deferral of notice or challenge starts at Tier A unless a lower-urgency showing is documented.
 - Tier B starts with intake and primary-stakes routing within days and reaches a preliminary verified disposition or equivalent merits milestone within weeks.
 - Tier C is a coordination default, not a slower substitute for an A or B finding. Tier L and Tier P support lighter procedures only while their bounded conditions hold.
-- Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-timing-floors).
+- Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds).
 - After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Chapter Thirteen §6.1 (*Emergency measures and continuation burden*) continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Thirteen’s restore-challenge rule](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - A matter's time scale can also be faster. At the **Emergency level** (Tier A only, for imminent loss of life, serious injury, or irreversible rights loss that nobody engineered), the steps that stop the harm must finish within 3 days, and restoring notice and challenge after a deferral takes 3 days, not 7. The finding steps keep the Tier A bound. See [Chapter Thirteen §6 Time-scale levels](../core_13.000_forum.md#time-scale-levels).
 - "Promptly" has a length when someone is already under a measure. A hold, order, stay, or interim decision must be looked at by an independent reviewer inside the **prompt-review window**: 24 hours in Tier A, and 2, 4, 8, and 12 days in Tiers B, C, L, and P. It is a hard line, even in an emergency. See [Chapter Thirteen §6 Prompt review](../core_13.000_forum.md#prompt-review).
@@ -1113,9 +1113,9 @@ This is a reading discipline, not a new precedence rule:
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
-## Segregation of duties
+## Separation of duties
 
-When a decision, release, payment, finding, or official record can materially affect sentients, the sentient or system that acts must not be the only one that checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge its own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter Eight §2](../core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) owns the cross-process floor; [Chapter Ten §3.7](../core_10.000_standing_assessment.md#37-segregation-of-duties) applies it to standing records.
+When a decision, release, payment, finding, or official record can materially affect sentients, the sentient or system that acts must not be the only one that checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge its own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter Eight §2](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) owns the cross-process requirement; [Chapter Ten §3.7](../core_10.000_standing_assessment.md#37-separation-of-duties) applies it to standing records.
 
 ```mermaid
 flowchart TB

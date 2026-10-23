@@ -98,10 +98,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [పాల్గొనేవారి హోదా](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
-- [హితసంబంధి](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
+- [పాల్గొనేవారి హోదా](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [O](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [M](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [A](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [C](../../core_05.035_band_accountability.md#participant-standing-constitutional-c)
+- [హితసంబంధి](../../core_05.055_band_participation.md#stakeholder) · [O](../../core_05.055_band_participation.md#stakeholder) · [M](../../core_05.055_band_participation.md#stakeholder-a) · [A](../../core_05.055_band_participation.md#stakeholder-a) · [C](../../core_05.055_band_participation.md#stakeholder-c)
 - [భౌతిక ప్రభావం](core_05_band_oversight.md#భతక-impact) · [O](core_05_band_oversight.md#భతక-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-- [గౌరవం మరియు సమాన నైతిక హోదా](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [గౌరవం మరియు సమాన నైతిక హోదా](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
 - [పరిహారం మరియు సరిదిద్దుట](../../core_05.035_band_accountability.md#redress-and-remediation) · [O](../../core_05.035_band_accountability.md#redress-and-remediation) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 - [సవాలు చేయగలగడం](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
@@ -113,7 +113,7 @@ flowchart TB
 
 ఈ అనుచ్ఛేదం [రెండు రాజ్యాంగ లక్ష్యాల](core_00_preamble.md#two-constitutional-aims) కింద హోదా, పాల్గొనే స్థితికి **రాజ్యాంగ హక్కు-తళ్లను** నిర్దేశిస్తుంది:
 - **వికాసం:** [భౌతిక ప్రభావం](core_05_band_oversight.md#భతక-impact) ఉన్నప్పుడు హోదా లేబుళ్లు గౌరవం, హక్కు-తళ్ల కనీసాలు లేదా హితసంబంధి స్థితికి బదులు కాకుండా, చెల్లుబాటు అయ్యే, బహుళ, ఆడిట్ చేయగల పేరుతో నిర్దేశిత మార్గాల ద్వారా పాత్ర అర్హతను పొందడానికి, సవాలు చేయడానికి సెంటియెంట్లకు వీలుండాలి; అలాంటి మార్గాల అర్హత బ్రాండ్, స్థాయి లేదా గత గౌరవం మాత్రమే కాక ప్రస్తుత, పరిశీలించగల, సవాలు చేయగల సాక్ష్యంపై ఆధారపడాలి.
-- **కొనసాగింపు:** కాలంతో పాటు హోదా క్రమశిక్షణను సవరించగలగాలి — పరిమితులు అనుపాతంగా ఉండాలి; సరిదిద్దినప్పుడు పునరుద్ధరణ సాధ్యమవాలి; **అధ్యాయం పదకొండు**లోని **రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన** వర్గీకరణ మరియు [**అధ్యాయం పదమూడు §4.1 హక్కుదారిత్వం మరియు అర్హత**](core_13_governance.md#41-entitlement-and-eligibility) **పూర్తి పరిహారం** వరకు స్థిరమైన రాజకీయ స్వరాన్ని స్పష్టంగా నిలిపిన సందర్భం మినహా, ప్రాథమిక రాజ్యాంగ స్వరాన్ని శాశ్వతంగా తొలగించే స్థితికి గట్టిపడకూడదు.
+- **కొనసాగింపు:** కాలంతో పాటు హోదా క్రమశిక్షణను సవరించగలగాలి — పరిమితులు అనుపాతంగా ఉండాలి; సరిదిద్దినప్పుడు పునరుద్ధరణ సాధ్యమవాలి; **అధ్యాయం పదకొండు**లోని **రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన** వర్గీకరణ మరియు [**అధ్యాయం పదమూడు §4.1 హక్కుదారిత్వం మరియు అర్హత**](../../core_14.000_governance.md#41-entitlement-and-eligibility) **పూర్తి పరిహారం** వరకు స్థిరమైన రాజకీయ స్వరాన్ని స్పష్టంగా నిలిపిన సందర్భం మినహా, ప్రాథమిక రాజ్యాంగ స్వరాన్ని శాశ్వతంగా తొలగించే స్థితికి గట్టిపడకూడదు.
 
 చట్టబద్ధమైన ప్రయాస [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) గుండా, [భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake)కు అనుగుణంగా సాగుతుంది:
 - **పాల్గొనడం:** బహుళ దృక్కోణాల హోదా మూల్యాంకనం, అపారదర్శక లేదా ఏకాధిపత్య హోదా నిర్ణయాలను సవాలు చేయడం, భౌతిక పరిమితులు సరిచేసినప్పుడు పునరుద్ధరణ లేదా తిరిగి అర్హత పొందడం.
@@ -121,9 +121,9 @@ flowchart TB
 - **జవాబుదారీతనం:** వ్యక్తిగత కారణాలు, అనుపాతత, సంకుచిత సరిపోలిక లేదా వాస్తవ పునరుద్ధరణ మార్గాలు లేకుండా హోదా తగ్గించినవారు దానికి జవాబు చెప్పాలి — రక్షిత లక్షణాలు లేదా వాటి ప్రత్యామ్నాయాలను అనుసరించే నమూనాలకూ ఇదే వర్తిస్తుంది.
 - **కాలానుకూలత:** ఆలస్యం జీవనాధార ప్రవేశం, ఆడిట్ మార్గాలు లేదా రాజ్యాంగం కోరే పరిహారాన్ని మూసివేయకముందే, హోదా సమీక్ష, సవాలు, పరిహారం జరగాలి; **అనుచ్ఛేదం XXVI-C** (*కాలానుకూల పరిష్కారం మరియు ఆలస్యం-నిరోధ హక్కు-తళం*) వర్తిస్తుంది.
 
-[పాల్గొనేవారి హోదా](core_05_band_accountability.md#participant-standing-constitutional) అనేది రాజ్యాంగబద్ధమైన హోదా రికార్డులు, హోదా ప్రభావాలు లేదా పేరుతో నిర్దేశిత మార్గానికి [సామర్థ్య ప్రమాణం](core_05_band_accountability.md#competency-bar) ఆధారంగా గుర్తించే పాల్గొనే స్థితి లేదా పాత్ర అర్హత. అది ప్రతిష్ఠ లేదా సామాజిక గౌరవం కాదు; దానివల్లే ప్రవేశ పరిమితులు విధించబడవు. నిర్బంధ పరిణామాలు పేరుతో నిర్దేశిత ప్రత్యేకహక్కు మార్గాలపై [హోదా ప్రభావం](core_05_band_accountability.md#standing-effect-chapter-six), [హోదా లాక్](../../core_05.035_band_accountability.md#standing-lock) ద్వారానే వస్తాయి.
+[పాల్గొనేవారి హోదా](../../core_05.035_band_accountability.md#participant-standing-constitutional) అనేది రాజ్యాంగబద్ధమైన హోదా రికార్డులు, హోదా ప్రభావాలు లేదా పేరుతో నిర్దేశిత మార్గానికి [సామర్థ్య ప్రమాణం](../../core_05.035_band_accountability.md#competency-bar) ఆధారంగా గుర్తించే పాల్గొనే స్థితి లేదా పాత్ర అర్హత. అది ప్రతిష్ఠ లేదా సామాజిక గౌరవం కాదు; దానివల్లే ప్రవేశ పరిమితులు విధించబడవు. నిర్బంధ పరిణామాలు పేరుతో నిర్దేశిత ప్రత్యేకహక్కు మార్గాలపై [హోదా ప్రభావం](../../core_05.035_band_accountability.md#standing-effect-chapter-six), [హోదా లాక్](../../core_05.035_band_accountability.md#standing-lock) ద్వారానే వస్తాయి.
 
-ఈ అనుచ్ఛేదంలోని హోదా క్రమశిక్షణ [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims), [వ్యవస్థ-సమలేఖన ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional), మరియు [తొమ్మిది–పన్నెండు అధ్యాయాల హోదా, వేదిక పర్యవేక్షణ శ్రేణి](core_00_preamble.md#62-how-the-full-chain-fits-together)ను అమలు చేస్తుంది. ఆ యజమాని-స్థాయి ప్రక్రియలు ధృవీకరించిన సహకారం, ఉల్లంఘనను కొలిచి పరిహారాన్ని పర్యవేక్షిస్తాయి; జీవనాధారాలను లేదా ఈ అధ్యాయంలోని ఇతర హక్కు-తళ్లను ఓడించడానికి వాటిని వాడకూడదు. ముఖ్యంగా **అనుచ్ఛేదం III-A** (*మనుగడ*)ను ఓడించకూడదు.
+ఈ అనుచ్ఛేదంలోని హోదా క్రమశిక్షణ [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims), [వ్యవస్థ-సమలేఖన ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), మరియు [తొమ్మిది–పన్నెండు అధ్యాయాల హోదా, వేదిక పర్యవేక్షణ శ్రేణి](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)ను అమలు చేస్తుంది. ఆ యజమాని-స్థాయి ప్రక్రియలు ధృవీకరించిన సహకారం, ఉల్లంఘనను కొలిచి పరిహారాన్ని పర్యవేక్షిస్తాయి; జీవనాధారాలను లేదా ఈ అధ్యాయంలోని ఇతర హక్కు-తళ్లను ఓడించడానికి వాటిని వాడకూడదు. ముఖ్యంగా **అనుచ్ఛేదం III-A** (*మనుగడ*)ను ఓడించకూడదు.
 
 ఇది కింది వాటి నుంచి వేరుగా ఉండాలి:
 - అంతర్గత గౌరవం;
@@ -132,7 +132,7 @@ flowchart TB
 - ఈ రాజ్యాంగం రక్షించే చోట సవాలు లేదా పరిహారం పొందే ప్రవేశం.
 
 *సమీప అనుచ్ఛేదాలు:*
-- **యజమాని-స్థాయి భాగాలు:** [అధ్యాయం తొమ్మిది](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), [అధ్యాయం పది](core_11_standing_integration.md#chapter-ten-standing-effects-and-integration) హోదా రికార్డులు, హోదా ప్రభావాలను కొలుస్తాయి; వాటిని సంకుచితం చేయరాని హక్కు-తళ్ల పరిమితులను ఈ అనుచ్ఛేదం నిర్దేశిస్తుంది.
+- **యజమాని-స్థాయి భాగాలు:** [అధ్యాయం తొమ్మిది](core_08_standing_assessment.md), [అధ్యాయం పది](core_09_standing_integration.md) హోదా రికార్డులు, హోదా ప్రభావాలను కొలుస్తాయి; వాటిని సంకుచితం చేయరాని హక్కు-తళ్ల పరిమితులను ఈ అనుచ్ఛేదం నిర్దేశిస్తుంది.
 - **కలిపి చదవండి:**
   - **అనుచ్ఛేదం VI-A** (*గౌరవం మరియు సమాన నైతిక హోదా*) మరియు **అనుచ్ఛేదం XII** (*వ్యవస్థ హితసంబంధుల భాగస్వామ్యం, ప్రాతినిధ్యం మరియు న్యాయ ప్రక్రియ*) — హోదా ప్రమాణాలు గౌరవం లేదా హితసంబంధి ఉనికికి బదులుగా ఉండకూడదు;
   - **అనుచ్ఛేదం III-A** (*మనుగడ*) — పాల్గొనేవారి హోదా ఒక్కటే జీవనాధార ప్రవేశాన్ని మూసివేయకూడదు;
@@ -145,20 +145,20 @@ EOF
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§6 విశ్వాసం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), మరియు [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
-- దీనితో చదవండి: [అధ్యాయం పది §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) (*సామర్థ్య ప్రమాణాలు, అనుమతులు*), [సామర్థ్య ప్రమాణం](core_05_band_accountability.md#competency-bar), [సామర్థ్య అనుమతి](core_05_band_accountability.md#competency-clearance); [అధ్యాయం పది §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*హోదా లాక్‌లు*), [ఉల్లంఘన స్వభావం](core_05_band_accountability.md#violation-nature-chapter-six), [హోదా లాక్](core_05_band_accountability.md#standing-lock) — ధృవీకరించిన ఉల్లంఘన-అక్ష ఇన్‌పుట్‌ల ఆధారంగా నిర్బంధిత పేరుతో నిర్దేశించిన మార్గాలు; సామర్థ్య అనుమతి వర్తించే హోదా లాక్‌ను మాఫీ చేయదు, మంచి సహకారం పరిష్కరించని ఉల్లంఘన నిర్ధారణలను తొలగించదు.
+- దీనితో చదవండి: [అధ్యాయం పది §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances) (*సామర్థ్య ప్రమాణాలు, అనుమతులు*), [సామర్థ్య ప్రమాణం](../../core_05.035_band_accountability.md#competency-bar), [సామర్థ్య అనుమతి](../../core_05.035_band_accountability.md#competency-clearance); [అధ్యాయం పది §4.2](core_09_standing_integration.md#42-prevention--general-standing-locks) (*హోదా లాక్‌లు*), [ఉల్లంఘన స్వభావం](../../core_05.035_band_accountability.md#violation-nature-chapter-six), [హోదా లాక్](../../core_05.035_band_accountability.md#standing-lock) — ధృవీకరించిన ఉల్లంఘన-అక్ష ఇన్‌పుట్‌ల ఆధారంగా నిర్బంధిత పేరుతో నిర్దేశించిన మార్గాలు; సామర్థ్య అనుమతి వర్తించే హోదా లాక్‌ను మాఫీ చేయదు, మంచి సహకారం పరిష్కరించని ఉల్లంఘన నిర్ధారణలను తొలగించదు.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [గౌరవం మరియు సమాన నైతిక హోదా](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [హితసంబంధి ప్రభావ బరువు](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
-- [పాల్గొనేవారి హోదా](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
-- [సామర్థ్య ప్రమాణం](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
-- [సామర్థ్య అనుమతి](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
-- [హోదా లాక్](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
-- [ఉల్లంఘన స్వభావం](core_05_band_accountability.md#violation-nature-chapter-six) · [O](core_05_band_accountability.md#violation-nature-chapter-six) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
+- [గౌరవం మరియు సమాన నైతిక హోదా](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [హితసంబంధి ప్రభావ బరువు](../../core_05.055_band_participation.md#stakeholder-weight) · [O](../../core_05.055_band_participation.md#stakeholder-weight) · [M](../../core_05.055_band_participation.md#stakeholder-weight-a) · [A](../../core_05.055_band_participation.md#stakeholder-weight-a) · [C](../../core_05.055_band_participation.md#stakeholder-weight-c)
+- [పాల్గొనేవారి హోదా](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [O](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [M](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [A](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [C](../../core_05.035_band_accountability.md#participant-standing-constitutional-c)
+- [సామర్థ్య ప్రమాణం](../../core_05.035_band_accountability.md#competency-bar) · [O](../../core_05.035_band_accountability.md#competency-bar) · [M](../../core_05.035_band_accountability.md#competency-bar-a) · [A](../../core_05.035_band_accountability.md#competency-bar-a) · [C](../../core_05.035_band_accountability.md#competency-bar-c)
+- [సామర్థ్య అనుమతి](../../core_05.035_band_accountability.md#competency-clearance) · [O](../../core_05.035_band_accountability.md#competency-clearance) · [M](../../core_05.035_band_accountability.md#competency-clearance-a) · [A](../../core_05.035_band_accountability.md#competency-clearance-a) · [C](../../core_05.035_band_accountability.md#competency-clearance-c)
+- [హోదా లాక్](../../core_05.035_band_accountability.md#standing-lock) · [O](../../core_05.035_band_accountability.md#standing-lock) · [M](../../core_05.035_band_accountability.md#standing-lock-a) · [A](../../core_05.035_band_accountability.md#standing-lock-a) · [C](../../core_05.035_band_accountability.md#standing-lock-c)
+- [ఉల్లంఘన స్వభావం](../../core_05.035_band_accountability.md#violation-nature-chapter-six) · [O](../../core_05.035_band_accountability.md#violation-nature-chapter-six) · [M](../../core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [A](../../core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [C](../../core_05.035_band_accountability.md#violation-nature-chapter-six-c)
 
 </details>
 
@@ -170,25 +170,25 @@ EOF
 - **హోదా వీటికి భిన్నం:**
   - అంతర్గత గౌరవం, సమాన నైతిక హోదా (**అనుచ్ఛేదం VI-A** (*గౌరవం మరియు సమాన నైతిక హోదా*));
   - హితసంబంధి గుర్తింపుకు భౌతిక వాటాను చూపడం (**అధ్యాయం ఐదు** — *హితసంబంధి*; *హితసంబంధి ప్రభావ బరువు*).
-- **సామర్థ్య ప్రమాణాలు, అనుమతులు:** [సామర్థ్య ప్రమాణం](core_05_band_accountability.md#competency-bar) అనేది పేరుతో నిర్దేశించిన మార్గానికి ప్రచురిత, ఆడిట్ చేయగల, సవాలు చేయగల అర్హత ప్రమాణం. ధృవీకరించిన సామర్థ్యం, అనుభవం, సహకార రికార్డులు ఆ ప్రమాణాన్ని చేరినప్పుడు సానుకూల హోదా-ప్రభావ ఫలితమే [సామర్థ్య అనుమతి](core_05_band_accountability.md#competency-clearance). అనుమతి అమల్లో ఉండి, వర్తించే [హోదా లాక్](core_05_band_accountability.md#standing-lock) ఆ మార్గాన్ని అడ్డుకోనప్పుడు, [అధ్యాయం పది §6.2 సామర్థ్య ప్రమాణాలు మరియు అనుమతులు](core_11_standing_integration.md#62-competency-bars-and-clearances) ప్రకారం విశ్వాస-సున్నిత పాత్రలు, అప్పగించిన అధికారం, పర్యవేక్షణ అర్హత లేదా క్రమంగా పెరిగే పాలనా బాధ్యతలకు ప్రవేశం ఇవ్వవచ్చు.
+- **సామర్థ్య ప్రమాణాలు, అనుమతులు:** [సామర్థ్య ప్రమాణం](../../core_05.035_band_accountability.md#competency-bar) అనేది పేరుతో నిర్దేశించిన మార్గానికి ప్రచురిత, ఆడిట్ చేయగల, సవాలు చేయగల అర్హత ప్రమాణం. ధృవీకరించిన సామర్థ్యం, అనుభవం, సహకార రికార్డులు ఆ ప్రమాణాన్ని చేరినప్పుడు సానుకూల హోదా-ప్రభావ ఫలితమే [సామర్థ్య అనుమతి](../../core_05.035_band_accountability.md#competency-clearance). అనుమతి అమల్లో ఉండి, వర్తించే [హోదా లాక్](../../core_05.035_band_accountability.md#standing-lock) ఆ మార్గాన్ని అడ్డుకోనప్పుడు, [అధ్యాయం పది §6.2 సామర్థ్య ప్రమాణాలు మరియు అనుమతులు](core_09_standing_integration.md#62-competency-bars-and-clearances) ప్రకారం విశ్వాస-సున్నిత పాత్రలు, అప్పగించిన అధికారం, పర్యవేక్షణ అర్హత లేదా క్రమంగా పెరిగే పాలనా బాధ్యతలకు ప్రవేశం ఇవ్వవచ్చు.
   - సామర్థ్య ప్రమాణం లేదా అనుమతి ప్రతిష్ఠ, సామాజిక ప్రఖ్యాతి, అంతర్గత ప్రాయోజకత్వం, ఆధారపత్ర గుత్తాధిపత్యం, గౌరవ ర్యాంకు లేదా శాశ్వత హక్కు కాదు.
   - అధికారిక సంస్థల అనుభవంతో సమానంగా చూపగల ప్రమాణాలు నెరవేర్చినప్పుడు అనౌపచారిక, సహచర-వ్యవస్థీకృత, పరస్పర సహాయం, నిర్వహణ, మరమ్మత్తు, బోధన లేదా సమాజ పాలనా అనుభవాన్ని గుర్తించాలి.
-- **ఉల్లంఘన స్వభావం, హోదా లాక్‌లు:** [ఉల్లంఘన స్వభావం](core_05_band_accountability.md#violation-nature-chapter-six) హోదా ప్రభావాన్ని ప్రభావితం చేయాలంటే **అధ్యాయాలు రెండు నుంచి నాలుగు**, [అధ్యాయం తొమ్మిది](core_09_standing_assessment.md#verified-inputs-for-standing)లోని అవసరాలను తీరుస్తూ ఆడిట్ చేయగల, సవాలు చేయగల నిర్ధారణలపై ఆధారపడాలి — ఆరోపణలు, స్వీకరణ లేబుళ్లు, తాత్కాలిక మార్గీకరణ లేదా వేదిక-దశ కథనాలు మాత్రమే సరిపోవు.
-  - [హోదా లాక్](core_05_band_accountability.md#standing-lock) అనేది సామర్థ్య అనుమతికి నిర్బంధ ప్రత్యామ్నాయం. ధృవీకరించిన ఉల్లంఘన నిర్ధారణ పరిష్కారం కాకపోయినా లేదా భౌతికంగా పరిహరించకపోయినా, [అధ్యాయం పది §4.2 నివారణ — సాధారణ హోదా లాక్‌లు](core_11_standing_integration.md#42-prevention--general-standing-locks) ప్రకారం విశ్వాస, పాత్ర, అధికారం, క్రెడిట్, పర్యవేక్షణ, గుర్తింపు, **governance-voting**, లేదా **stakeholder-participation** మార్గాలను ఇది నిరోధించవచ్చు లేదా పరిమితం చేయవచ్చు.
-  - **governance-voting** అనేది చట్టబద్ధత-యంత్రాంగం / ప్రాథమిక పాలనా ఓటు మార్గం. **stakeholder-participation** అనేది ఇప్పటికే అధీకరించిన పరిధిలో వాటా-బరువు గల ప్రభావం, బంధనకర హితసంబంధి ఎంపిక. ఏదీ మరొకదానికి బదులు కాదు; **stakeholder-participation** లాక్ [హితసంబంధి](core_05_band_participation.md#stakeholder) స్థితిని చెరపదు.
+- **ఉల్లంఘన స్వభావం, హోదా లాక్‌లు:** [ఉల్లంఘన స్వభావం](../../core_05.035_band_accountability.md#violation-nature-chapter-six) హోదా ప్రభావాన్ని ప్రభావితం చేయాలంటే **అధ్యాయాలు రెండు నుంచి నాలుగు**, [అధ్యాయం తొమ్మిది](core_08_standing_assessment.md#verified-inputs-for-standing)లోని అవసరాలను తీరుస్తూ ఆడిట్ చేయగల, సవాలు చేయగల నిర్ధారణలపై ఆధారపడాలి — ఆరోపణలు, స్వీకరణ లేబుళ్లు, తాత్కాలిక మార్గీకరణ లేదా వేదిక-దశ కథనాలు మాత్రమే సరిపోవు.
+  - [హోదా లాక్](../../core_05.035_band_accountability.md#standing-lock) అనేది సామర్థ్య అనుమతికి నిర్బంధ ప్రత్యామ్నాయం. ధృవీకరించిన ఉల్లంఘన నిర్ధారణ పరిష్కారం కాకపోయినా లేదా భౌతికంగా పరిహరించకపోయినా, [అధ్యాయం పది §4.2 నివారణ — సాధారణ హోదా లాక్‌లు](core_09_standing_integration.md#42-prevention--general-standing-locks) ప్రకారం విశ్వాస, పాత్ర, అధికారం, క్రెడిట్, పర్యవేక్షణ, గుర్తింపు, **governance-voting**, లేదా **stakeholder-participation** మార్గాలను ఇది నిరోధించవచ్చు లేదా పరిమితం చేయవచ్చు.
+  - **governance-voting** అనేది చట్టబద్ధత-యంత్రాంగం / ప్రాథమిక పాలనా ఓటు మార్గం. **stakeholder-participation** అనేది ఇప్పటికే అధీకరించిన పరిధిలో వాటా-బరువు గల ప్రభావం, బంధనకర హితసంబంధి ఎంపిక. ఏదీ మరొకదానికి బదులు కాదు; **stakeholder-participation** లాక్ [హితసంబంధి](../../core_05.055_band_participation.md#stakeholder) స్థితిని చెరపదు.
   - హోదా లాక్ గౌరవ ర్యాంకు, హక్కు-తళ్ల తగ్గింపు, స్వయంచాలక ప్రతీకారం లేదా కలిపిన ప్రతిభ స్కోరు కాదు.
   - ప్రతి హోదా లాక్ నిలిపే లేదా పరిమితం చేసే ప్రభావం, రక్షిత వ్యక్తులు లేదా ప్రయోజనాలు, సరిదిద్దే షరతు, సమీక్ష మార్గం, తిరిగి అంచనా తేదీని గుర్తించాలి; అది అవసరమైనదిగా, అనుపాతంగా, ఆడిట్ చేయదగినదిగా, సవాలు చేయదగినదిగా ఉండాలి.
-  - అవసరమైనప్పుడు పక్షపాతరహితంగా ఉండాల్సిన వేదిక పాత్ర నుంచి వైదొలగకపోవడం ధృవీకరించబడి, నిష్పక్షపాతతపై భౌతిక ప్రభావం ఉంటే, [అధ్యాయం పది §5.5 ప్రత్యేక లాక్‌లు](core_11_standing_integration.md#55-special-locks)లోని **వేదిక-సేవ హోదా లాక్** ఏర్పడుతుంది. వేదిక సేవలో తిరిగి చేరడానికి కఠినమైన స్వతంత్ర పునరుద్ధరణ అవసరం; సాధారణ క్షమాపణ, గత సహకారం, ప్రతిష్ఠ, నిపుణుల కొరత లేదా సిబ్బంది అవసరం మాత్రమే ఆ మార్గాన్ని నెరవేర్చవు.
-  - హితసంబంధి-పాల్గొనిక మార్గాన్ని భౌతికంగా దుర్వినియోగం చేయడం — ధృవీకరించిన అవినీతి, స్వాధీనత, తప్పుడు వాటా దుర్వినియోగం లేదా బలవంతం వంటివి — [అధ్యాయం పది §5.5 ప్రత్యేక లాక్‌లు](core_11_standing_integration.md#55-special-locks)లోని **హితసంబంధి-పాల్గొనిక హోదా లాక్**ను కలిగిస్తుంది. ప్రభావిత పరిధిలో వాటా-బరువు గల ప్రభావం, బంధనకర హితసంబంధి ఎంపికను ఇది పరిమితం చేస్తుంది; దానివల్లే **governance-voting**, ప్రాథమిక రాజ్యాంగ ఎంపిక లేదా హితసంబంధి స్థితి తొలగవు. సాధారణ క్షమాపణ, గత సహకారం, వాటా పరిమాణం లేదా నిర్వాహకుడి అనివార్యత ఒక్కటే ఈ లాక్‌ను ఎత్తివేయలేవు.
-  - తుది అధ్యాయం పదకొండు రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన నిర్ధారణ [అధ్యాయం పది §5.5 ప్రత్యేక లాక్‌లు](core_11_standing_integration.md#55-special-locks)లోని **రాజ్యాంగవ్యతిరేక విశ్వాస లాక్**ను కలిగిస్తుంది. కఠినమైన స్వతంత్ర పునరుద్ధరణ ధృవీకరించే వరకు ఇది **Class A**, **Class B**, **Class C** వ్యవస్థలు, రాజ్యాంగ వేదికలు, రాజ్యాంగ సమలేఖన గుర్తింపు, కీలక వ్యవస్థల పాలన, రాజ్యాంగవ్యతిరేక జవాబుదారీ మార్గాలపై పాత్రలు లేదా భౌతిక ప్రభావాన్ని నిషేధిస్తుంది.
+  - అవసరమైనప్పుడు పక్షపాతరహితంగా ఉండాల్సిన వేదిక పాత్ర నుంచి వైదొలగకపోవడం ధృవీకరించబడి, నిష్పక్షపాతతపై భౌతిక ప్రభావం ఉంటే, [అధ్యాయం పది §5.5 ప్రత్యేక లాక్‌లు](core_09_standing_integration.md#55-special-locks)లోని **వేదిక-సేవ హోదా లాక్** ఏర్పడుతుంది. వేదిక సేవలో తిరిగి చేరడానికి కఠినమైన స్వతంత్ర పునరుద్ధరణ అవసరం; సాధారణ క్షమాపణ, గత సహకారం, ప్రతిష్ఠ, నిపుణుల కొరత లేదా సిబ్బంది అవసరం మాత్రమే ఆ మార్గాన్ని నెరవేర్చవు.
+  - హితసంబంధి-పాల్గొనిక మార్గాన్ని భౌతికంగా దుర్వినియోగం చేయడం — ధృవీకరించిన అవినీతి, స్వాధీనత, తప్పుడు వాటా దుర్వినియోగం లేదా బలవంతం వంటివి — [అధ్యాయం పది §5.5 ప్రత్యేక లాక్‌లు](core_09_standing_integration.md#55-special-locks)లోని **హితసంబంధి-పాల్గొనిక హోదా లాక్**ను కలిగిస్తుంది. ప్రభావిత పరిధిలో వాటా-బరువు గల ప్రభావం, బంధనకర హితసంబంధి ఎంపికను ఇది పరిమితం చేస్తుంది; దానివల్లే **governance-voting**, ప్రాథమిక రాజ్యాంగ ఎంపిక లేదా హితసంబంధి స్థితి తొలగవు. సాధారణ క్షమాపణ, గత సహకారం, వాటా పరిమాణం లేదా నిర్వాహకుడి అనివార్యత ఒక్కటే ఈ లాక్‌ను ఎత్తివేయలేవు.
+  - తుది అధ్యాయం పదకొండు రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన నిర్ధారణ [అధ్యాయం పది §5.5 ప్రత్యేక లాక్‌లు](core_09_standing_integration.md#55-special-locks)లోని **రాజ్యాంగవ్యతిరేక విశ్వాస లాక్**ను కలిగిస్తుంది. కఠినమైన స్వతంత్ర పునరుద్ధరణ ధృవీకరించే వరకు ఇది **Class A**, **Class B**, **Class C** వ్యవస్థలు, రాజ్యాంగ వేదికలు, రాజ్యాంగ సమలేఖన గుర్తింపు, కీలక వ్యవస్థల పాలన, రాజ్యాంగవ్యతిరేక జవాబుదారీ మార్గాలపై పాత్రలు లేదా భౌతిక ప్రభావాన్ని నిషేధిస్తుంది.
   - సామర్థ్య అనుమతి వర్తించే హోదా లాక్‌ను మాఫీ చేయదు; మంచి సహకారం పరిష్కరించని ధృవీకరించిన ఉల్లంఘన నిర్ధారణలను తొలగించదు.
 - **ప్రత్యామ్నాయంగా వాడరాదు:** హోదా ప్రమాణాలు, లేబుళ్లు, స్కోర్లు, సామర్థ్య ప్రమాణాలు, సామర్థ్య అనుమతులు, హోదా లాక్‌లు పాత్ర అర్హతను మాత్రమే నియంత్రిస్తాయి. అవి:
   - ఎవరు పాత్రకు అర్హులో, ఎవరికీ అంతర్గత గౌరవం లేదా సమాన నైతిక హోదా ఉందో కలిపివేయకూడదు;
   - పాత్ర స్థితిని హక్కు-తళ్ల కనీసాలకు లేదా వ్యవస్థ ప్రభావం చూపుతుందనే కారణంతో ఎవరైనా హితసంబంధి కాదా అని నిర్ణయించడానికి ప్రత్యామ్నాయంగా చేయకూడదు;
   - <a id="anti-substitution-sentience-status-xviii"></a>సెంటియెన్స్-స్థితి నిర్ణయానికి బదులు నిలవకూడదు; అది **అనుచ్ఛేదం VI-B** (*సెంటియెన్స్-స్థితి న్యాయనిర్ణయ హక్కు-తళం*) కిందనే చేయాలి;
-  - హోదా రికార్డు లేకపోవడాన్ని ప్రతికూల వాస్తవంగా పరిగణించకూడదు; జీవనాధారాలు, సాధారణ వాణిజ్యం లేదా ప్రభావిత పక్షంగా పాల్గొనడానికి రికార్డు లేదా "రికార్డు లేదు" ధృవీకరణను షరతుగా విధించకూడదు — [అధ్యాయం తొమ్మిది §2.1](core_09_standing_assessment.md#21-silence-is-the-default) (*మౌనమే డిఫాల్ట్*) ప్రకారం రికార్డు లేకపోవడమే సాధారణం;
+  - హోదా రికార్డు లేకపోవడాన్ని ప్రతికూల వాస్తవంగా పరిగణించకూడదు; జీవనాధారాలు, సాధారణ వాణిజ్యం లేదా ప్రభావిత పక్షంగా పాల్గొనడానికి రికార్డు లేదా "రికార్డు లేదు" ధృవీకరణను షరతుగా విధించకూడదు — [అధ్యాయం తొమ్మిది §2.1](core_08_standing_assessment.md#21-silence-is-the-default) (*మౌనమే డిఫాల్ట్*) ప్రకారం రికార్డు లేకపోవడమే సాధారణం;
   - **అనుచ్ఛేదం XI-D** ([*అసమ్మతి, శాంతియుత నిరసన హక్కు-తళం*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) కింద అసమ్మతి లేదా శాంతియుత నిరసనను ఏ పేరుతో నిర్దేశించిన మార్గానికైనా ప్రతికూల వాస్తవంగా లేదా బరువు కారకంగా పరిగణించకూడదు; లేదా
-  - పేరుతో నిర్దేశించిన మార్గాల ప్రభావాలను ప్రొఫైల్, ర్యాంకింగ్ లేదా బహిరంగ ప్రదర్శనగా కలపకూడదు — [అధ్యాయం పది §7.1](core_11_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*పేరుతో నిర్దేశించిన మార్గాల ప్రభావాల సమీకరణ నిషేధం*).
+  - పేరుతో నిర్దేశించిన మార్గాల ప్రభావాలను ప్రొఫైల్, ర్యాంకింగ్ లేదా బహిరంగ ప్రదర్శనగా కలపకూడదు — [అధ్యాయం పది §7.1](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*పేరుతో నిర్దేశించిన మార్గాల ప్రభావాల సమీకరణ నిషేధం*).
 
 <a id="article-xix-b-contestability-and-proportional-restriction-limits"></a>
 #### అనుచ్ఛేదం XIX-B: సవాలు చేయగలగడం, అనుపాత పరిమితుల హద్దులు
@@ -197,25 +197,25 @@ EOF
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం ఒకటి §13.1.5 హక్కుల సంఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- గమ్యం: [అధ్యాయం తొమ్మిది §2](core_09_standing_assessment.md#2-question-1--what-happened) (*హోదా రికార్డులు, ధృవీకరించిన ఇన్‌పుట్ ద్వారం, కనీస రికార్డు అంశాలు*); [అధ్యాయం తొమ్మిది §3.6](core_09_standing_assessment.md#36-forum-boundary) (*వేదిక హద్దు*); [అధ్యాయం పది §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) (*సామర్థ్య ప్రమాణాలు, అనుమతులు*); [అధ్యాయం పది §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*హోదా లాక్‌లు*); [అధ్యాయం పది §8](core_11_standing_integration.md#8-restoration-and-reassessment) (*పునఃస్థాపన, సమీక్ష*).
-- దీనితో చదవండి: **అనుచ్ఛేదం III-A** (*మనుగడ*); **అనుచ్ఛేదం XIII-A** (*విశ్వసనీయత, నమ్మకత ప్రాథమిక హద్దు*), **అనుచ్ఛేదం XIII-B** (*పరిహారం మరియు ఉపశమన హక్కు*); [ప్రస్థావన §6.2 పూర్తి శ్రేణి ఎలా సరిపోతుంది](core_00_preamble.md#62-how-the-full-chain-fits-together); [వ్యవస్థ-సమలేఖన ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **అనుచ్ఛేదం XXVI-C** (*కాలానుకూల పరిష్కారం, ఆలస్యం-నిరోధ హక్కు-తళం*) మరియు **అనుచ్ఛేదం XX-B** (*పరిమితుల హక్కు-తళ్లు*) కింద **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, **కాలానుకూలత**.
+- గమ్యం: [అధ్యాయం తొమ్మిది §2](core_08_standing_assessment.md#2-question-1--what-happened) (*హోదా రికార్డులు, ధృవీకరించిన ఇన్‌పుట్ ద్వారం, కనీస రికార్డు అంశాలు*); [అధ్యాయం తొమ్మిది §3.6](core_08_standing_assessment.md#36-forum-boundary) (*వేదిక హద్దు*); [అధ్యాయం పది §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances) (*సామర్థ్య ప్రమాణాలు, అనుమతులు*); [అధ్యాయం పది §4.2](core_09_standing_integration.md#42-prevention--general-standing-locks) (*హోదా లాక్‌లు*); [అధ్యాయం పది §8](core_09_standing_integration.md#8-restoration-and-reassessment) (*పునఃస్థాపన, సమీక్ష*).
+- దీనితో చదవండి: **అనుచ్ఛేదం III-A** (*మనుగడ*); **అనుచ్ఛేదం XIII-A** (*విశ్వసనీయత, నమ్మకత ప్రాథమిక హద్దు*), **అనుచ్ఛేదం XIII-B** (*పరిహారం మరియు ఉపశమన హక్కు*); [ప్రస్థావన §6.2 పూర్తి శ్రేణి ఎలా సరిపోతుంది](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together); [వ్యవస్థ-సమలేఖన ధృవీకరణ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **అనుచ్ఛేదం XXVI-C** (*కాలానుకూల పరిష్కారం, ఆలస్యం-నిరోధ హక్కు-తళం*) మరియు **అనుచ్ఛేదం XX-B** (*పరిమితుల హక్కు-తళ్లు*) కింద **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, **కాలానుకూలత**.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [సవాలు చేయగలగడం](../../core_05.035_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [సవాలు చేయగలగడం](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 - [అవసరం](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [ప్రక్రియా న్యాయం](../../core_05.055_band_participation.md#procedural-fairness) · [O](../../core_05.055_band_participation.md#procedural-fairness) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
 - [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#ఆడట-యగయత) · [O](core_05_band_oversight.md#ఆడట-యగయత) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [ఉల్లంఘన స్వభావం](core_05_band_accountability.md#violation-nature-chapter-six) · [O](core_05_band_accountability.md#violation-nature-chapter-six) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
-- [సామర్థ్య ప్రమాణం](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
-- [సామర్థ్య అనుమతి](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
-- [హోదా లాక్](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
-- [పరిహారం మరియు సరిదిద్దుట](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [సహకార స్వభావం](core_05_band_accountability.md#contribution-nature) · [O](core_05_band_accountability.md#contribution-nature) · [M](core_05_band_accountability.md#contribution-nature-a) · [A](core_05_band_accountability.md#contribution-nature-a) · [C](core_05_band_accountability.md#contribution-nature-c)
+- [ఉల్లంఘన స్వభావం](../../core_05.035_band_accountability.md#violation-nature-chapter-six) · [O](../../core_05.035_band_accountability.md#violation-nature-chapter-six) · [M](../../core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [A](../../core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [C](../../core_05.035_band_accountability.md#violation-nature-chapter-six-c)
+- [సామర్థ్య ప్రమాణం](../../core_05.035_band_accountability.md#competency-bar) · [O](../../core_05.035_band_accountability.md#competency-bar) · [M](../../core_05.035_band_accountability.md#competency-bar-a) · [A](../../core_05.035_band_accountability.md#competency-bar-a) · [C](../../core_05.035_band_accountability.md#competency-bar-c)
+- [సామర్థ్య అనుమతి](../../core_05.035_band_accountability.md#competency-clearance) · [O](../../core_05.035_band_accountability.md#competency-clearance) · [M](../../core_05.035_band_accountability.md#competency-clearance-a) · [A](../../core_05.035_band_accountability.md#competency-clearance-a) · [C](../../core_05.035_band_accountability.md#competency-clearance-c)
+- [హోదా లాక్](../../core_05.035_band_accountability.md#standing-lock) · [O](../../core_05.035_band_accountability.md#standing-lock) · [M](../../core_05.035_band_accountability.md#standing-lock-a) · [A](../../core_05.035_band_accountability.md#standing-lock-a) · [C](../../core_05.035_band_accountability.md#standing-lock-c)
+- [పరిహారం మరియు సరిదిద్దుట](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [సహకార స్వభావం](../../core_05.035_band_accountability.md#contribution-nature) · [O](../../core_05.035_band_accountability.md#contribution-nature) · [M](../../core_05.035_band_accountability.md#contribution-nature-a) · [A](../../core_05.035_band_accountability.md#contribution-nature-a) · [C](../../core_05.035_band_accountability.md#contribution-nature-c)
 
 </details>
 
@@ -224,34 +224,34 @@ EOF
 *సరళంగా చెప్పాలంటే: హోదా రికార్డులు, సామర్థ్య ప్రమాణాలు, సామర్థ్య అనుమతులు, హోదా లాక్‌లు అన్నీ వాస్తవ సమీక్ష మార్గాల ద్వారా సవాలు చేయగలిగేలా ఉండాలి — పరిమితులకు కారణాలు చెప్పాలి, అవి ధృవీకరించిన నిర్ధారణకు సరిపోవాలి, ప్రక్రియ లేదా భద్రత అవసరానికి మించి విస్తరించకూడదు. ఆరోపణలు, స్వీకరణ లేబుళ్లు హోదా తీర్పులు కావు. హోదా క్రమశిక్షణ ఒక్కటే జీవనాధారాలను లేదా రాజ్యాంగం కోరే ఆడిట్, సవాలు, పరిహార మార్గాలను ఎప్పుడూ నిలిపివేయకూడదు.*
 
 ఈ అనుచ్ఛేదం హోదా పరిమితులపై సవాలు చేయగలగడం, అనుపాతత హద్దులను నిర్దేశిస్తుంది:
-- **ధృవీకరించిన ఇన్‌పుట్ ద్వారం, రికార్డును సవాలు చేయగలగడం:** హోదా, విశ్వాసం, పాత్ర, గుర్తింపు లేదా గుర్తింపు అర్హతపై ప్రభావం చూపే ఏ నిర్ణయమైనా [అధ్యాయం తొమ్మిది §2 ప్రశ్న 1 — ఏమి జరిగింది?](core_09_standing_assessment.md#2-question-1--what-happened) కింద అక్ష-శుద్ధమైన **సహకార-హోదా రికార్డులు** లేదా **ఉల్లంఘన-హోదా రికార్డుల** నుంచి ధృవీకరించిన ఇన్‌పుట్‌లనే ఉపయోగించవచ్చు. ఆరోపణలు, తీర్పు కాని దావాలు, తాత్కాలిక మార్గీకరణ ట్యాగులు, స్వీకరణ-దశ కథనాలు, ఇతర వివాద-దశ విషయాలు మాత్రమే హోదా కోసం ఉల్లంఘన స్వభావం లేదా సహకార స్వభావాన్ని నిరూపించవు.
-  - ప్రతి హోదా రికార్డులో దాన్ని ఎలా సవాలు చేయాలో, ఏ వేదిక లేదా అధికారం సమీక్షిస్తుందో, [అధ్యాయం తొమ్మిది §3.1 కనీస రికార్డు అంశాలు](core_09_standing_assessment.md#31-minimum-record-contents) కింద సరిదిద్దడం, పునరుద్ధరణ, గడువు ముగింపు లేదా షెడ్యూల్ సమీక్షకు సంబంధించిన షరతులు పేర్కొనాలి.
+- **ధృవీకరించిన ఇన్‌పుట్ ద్వారం, రికార్డును సవాలు చేయగలగడం:** హోదా, విశ్వాసం, పాత్ర, గుర్తింపు లేదా గుర్తింపు అర్హతపై ప్రభావం చూపే ఏ నిర్ణయమైనా [అధ్యాయం తొమ్మిది §2 ప్రశ్న 1 — ఏమి జరిగింది?](core_08_standing_assessment.md#2-question-1--what-happened) కింద అక్ష-శుద్ధమైన **సహకార-హోదా రికార్డులు** లేదా **ఉల్లంఘన-హోదా రికార్డుల** నుంచి ధృవీకరించిన ఇన్‌పుట్‌లనే ఉపయోగించవచ్చు. ఆరోపణలు, తీర్పు కాని దావాలు, తాత్కాలిక మార్గీకరణ ట్యాగులు, స్వీకరణ-దశ కథనాలు, ఇతర వివాద-దశ విషయాలు మాత్రమే హోదా కోసం ఉల్లంఘన స్వభావం లేదా సహకార స్వభావాన్ని నిరూపించవు.
+  - ప్రతి హోదా రికార్డులో దాన్ని ఎలా సవాలు చేయాలో, ఏ వేదిక లేదా అధికారం సమీక్షిస్తుందో, [అధ్యాయం తొమ్మిది §3.1 కనీస రికార్డు అంశాలు](core_08_standing_assessment.md#31-minimum-record-contents) కింద సరిదిద్దడం, పునరుద్ధరణ, గడువు ముగింపు లేదా షెడ్యూల్ సమీక్షకు సంబంధించిన షరతులు పేర్కొనాలి.
   - అవసరమైనచోట అనుసంధానిత సహకార, ఉల్లంఘన రికార్డులు పరస్పరం సూచించాలి; ఆడిట్ చేయగలిగేలా, సవాలుకు తెరిచి ఉండాలి; కలిపిన స్కోరు, మిళిత యోగ్యత-తీర్పు లేదా భేదం లేని హోదా లేబుల్‌గా కూల్చకూడదు.
 - **బహుళత్వం, సవాలు చేయగలగడం:** హోదా అంచనాలు బహుళ దృక్కోణాలుగా, ఆడిట్ చేయదగినవిగా, అర్థవంతమైన సమీక్షకు సరిపడా పారదర్శకంగా, సవాలు చేయగలిగేవిగా ఉండాలి.
   - ఒకే అధికారం, డేటాసెట్, ప్రతిష్ఠా మాధ్యమం లేదా అపారదర్శక అల్గోరిథమిక్ వ్యవస్థ అర్థవంతమైన సమీక్షను మూసివేసేలా ఏకపక్షంగా హోదాను నిర్ణయించరాదు.
-  - [సామర్థ్య ప్రమాణాలు, అనుమతులు](core_11_standing_integration.md#62-competency-bars-and-clearances), సానుకూల హోదా గుర్తింపు సవాలు చేయగలిగేలా, సమీక్షించగలిగేలా, గుత్తాధిపత్యం లేనివిగా ఉండాలి.
-- **వేదిక పర్యవేక్షణ, రికార్డు సవాలు:** [అధ్యాయం పన్నెండు](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)లోని వేదిక కుటుంబాలు అందుబాటులో ఉండే సవాలును పర్యవేక్షిస్తాయి; అధ్యాయాలు రెండు నుంచి నాలుగు కింద వాస్తవాలు ధృవీకరించినప్పుడు అవి:
-  - [అధ్యాయం తొమ్మిది §3.1 కనీస రికార్డు అంశాలు](core_09_standing_assessment.md#31-minimum-record-contents) ప్రకారం హోదా రికార్డులను **తెరవవచ్చు, నవీకరించవచ్చు లేదా సరిచేయవచ్చు**; లేదా
+  - [సామర్థ్య ప్రమాణాలు, అనుమతులు](core_09_standing_integration.md#62-competency-bars-and-clearances), సానుకూల హోదా గుర్తింపు సవాలు చేయగలిగేలా, సమీక్షించగలిగేలా, గుత్తాధిపత్యం లేనివిగా ఉండాలి.
+- **వేదిక పర్యవేక్షణ, రికార్డు సవాలు:** [అధ్యాయం పన్నెండు](../../core_13.000_forum.md)లోని వేదిక కుటుంబాలు అందుబాటులో ఉండే సవాలును పర్యవేక్షిస్తాయి; అధ్యాయాలు రెండు నుంచి నాలుగు కింద వాస్తవాలు ధృవీకరించినప్పుడు అవి:
+  - [అధ్యాయం తొమ్మిది §3.1 కనీస రికార్డు అంశాలు](core_08_standing_assessment.md#31-minimum-record-contents) ప్రకారం హోదా రికార్డులను **తెరవవచ్చు, నవీకరించవచ్చు లేదా సరిచేయవచ్చు**; లేదా
   - సవాలుపై **తప్పుడు రికార్డును పక్కన పెట్టవచ్చు**.
 
   - దాఖలైన కేసు ఒక్కటే హోదా కాదు.
-  - వివాద-దశ విషయం ఒక్కటే హోదా కోసం సహకార స్వభావాన్ని లేదా ఉల్లంఘన స్వభావాన్ని నిరూపించదు ([అధ్యాయం తొమ్మిది §3.6 వేదిక హద్దు](core_09_standing_assessment.md#36-forum-boundary)).
+  - వివాద-దశ విషయం ఒక్కటే హోదా కోసం సహకార స్వభావాన్ని లేదా ఉల్లంఘన స్వభావాన్ని నిరూపించదు ([అధ్యాయం తొమ్మిది §3.6 వేదిక హద్దు](core_08_standing_assessment.md#36-forum-boundary)).
   - ఈ హద్దు **అనుచ్ఛేదం XIII-A** (*విశ్వసనీయత, నమ్మకత ప్రాథమిక హద్దు*), **అనుచ్ఛేదం XIII-B** (*పరిహారం మరియు ఉపశమన హక్కు*), **అనుచ్ఛేదం XXVI-C** (*కాలానుకూల పరిష్కారం, ఆలస్యం-నిరోధ హక్కు-తళం*) కింద అవసరమైన సవాలు, పరిహారం, మధ్యంతర ఉపశమనం లేదా ప్రక్రియా రక్షణలను తగ్గించదు.
-- **ప్రక్రియాత్మక సమీక్షయోగ్యత:** ధృవీకరించిన ఉల్లంఘన నిర్ధారణకు అనుసంధానమైన [హోదా లాక్](core_11_standing_integration.md#42-prevention--general-standing-locks)తో సహా, హోదాను భౌతికంగా పరిమితం చేసినా, తగ్గించినా, నిలిపినా వ్యవస్థ [**కనిష్ఠ పరిమిత, కాలపరిమిత, సమీక్షించగల నియంత్రణ సూత్రం**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)ను అమలు చేసి:
+- **ప్రక్రియాత్మక సమీక్షయోగ్యత:** ధృవీకరించిన ఉల్లంఘన నిర్ధారణకు అనుసంధానమైన [హోదా లాక్](core_09_standing_integration.md#42-prevention--general-standing-locks)తో సహా, హోదాను భౌతికంగా పరిమితం చేసినా, తగ్గించినా, నిలిపినా వ్యవస్థ [**కనిష్ఠ పరిమిత, కాలపరిమిత, సమీక్షించగల నియంత్రణ సూత్రం**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)ను అమలు చేసి:
   - **ఎందుకు** అన్నది స్పష్టంగా వివరించాలి;
   - సాధ్యమైనచోట **అనుచ్ఛేదం XX-B** (*పరిమితుల హక్కు-తళ్లు*) కింద పరిమితికి **కాలపరిమితి** పెట్టాలి;
   - నిర్ణయాన్ని సవాలు చేయడానికి, సమీక్ష పొందడానికి, తప్పును సరిచేయడానికి, మళ్లీ పరిశీలన కోరడానికి **పనిచేసే మార్గం** కల్పించాలి.
 
   ప్రతి హోదా లాక్ ఏ ప్రవేశాన్ని అడ్డుకుంటుంది, ఎవరిని రక్షిస్తుంది, లాక్ ఎత్తే ముందు ఏది సరిచేయాలి, ఎక్కడ అప్పీల్ చేయాలి, ఎప్పుడు మళ్లీ అంచనా వేయాలి అనేవి స్పష్టంగా చెప్పాలి. సవాలు పెండింగ్‌లో ఉన్నప్పుడు తాత్కాలిక పరిమితులు భద్రత, సమగ్రత లేదా న్యాయ ప్రక్రియ నిజంగా కోరినంత వెడల్పుగా, ఉపసంహరించడానికి కష్టంగా మాత్రమే ఉండాలి.
 - **అనుపాతత, సర్దుబాటు:** హోదాపై పరిమితులు **అవసరం**, **అనుపాతత**, **అనుచ్ఛేదం XX-B** (*పరిమితుల హక్కు-తళ్లు*) కింద అవసరమైనవి, అనుపాతమైనవిగా ఉండాలి.
-  - [హోదా లాక్‌లు](core_11_standing_integration.md#42-prevention--general-standing-locks) ధృవీకరించిన **ఉల్లంఘన స్వభావం**, రక్షిత పేరుతో నిర్దేశిత మార్గం, ప్రస్తుత పరిహార స్థితి, సంబంధిత **సహకార స్వభావం**కు అనుగుణంగా సర్దుబాటు కావాలి. సహకారం మరమ్మత్తు సామర్థ్యం, రక్షణ చర్యల విశ్వసనీయత, పునరావృత నిరోధం లేదా [అధ్యాయం తొమ్మిది §2 ప్రశ్న 1 — ఏమి జరిగింది?](core_09_standing_assessment.md#2-question-1--what-happened) కింద కనిష్ఠ పరిమిత పునఃఅంచనాకు సంబంధించిన మేరకే పరిగణించాలి. పరిష్కారం కాని ఉల్లంఘన నిర్ధారణలను సహకారం భర్తీ చేయరాదు, మాఫీ చేయరాదు, సగటు చేసి తగ్గించరాదు.
-  - [అధ్యాయం తొమ్మిది §7 ఏకీకృత అనుపాతత ప్రమాణం](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)లోని తక్కువ-ప్రభావ ఉల్లంఘన-అక్ష నిర్ధారణకు పునరావృత నమూనా, తప్పించుకోవడం లేదా భౌతిక హాని అనుసంధాన సాక్ష్యం లేకుండా శాశ్వత మినహాయింపును సమర్థించలేం. నిర్లక్ష్యం, దాచివేత, బలవంతం, పునరావృతం వంటి ప్రవర్తనా లక్షణాలు సమీక్షకు దారి చూపుతాయి; అధ్యాయం తొమ్మిది ప్రభావ స్లాట్‌ను మార్చవు.
+  - [హోదా లాక్‌లు](core_09_standing_integration.md#42-prevention--general-standing-locks) ధృవీకరించిన **ఉల్లంఘన స్వభావం**, రక్షిత పేరుతో నిర్దేశిత మార్గం, ప్రస్తుత పరిహార స్థితి, సంబంధిత **సహకార స్వభావం**కు అనుగుణంగా సర్దుబాటు కావాలి. సహకారం మరమ్మత్తు సామర్థ్యం, రక్షణ చర్యల విశ్వసనీయత, పునరావృత నిరోధం లేదా [అధ్యాయం తొమ్మిది §2 ప్రశ్న 1 — ఏమి జరిగింది?](core_08_standing_assessment.md#2-question-1--what-happened) కింద కనిష్ఠ పరిమిత పునఃఅంచనాకు సంబంధించిన మేరకే పరిగణించాలి. పరిష్కారం కాని ఉల్లంఘన నిర్ధారణలను సహకారం భర్తీ చేయరాదు, మాఫీ చేయరాదు, సగటు చేసి తగ్గించరాదు.
+  - [అధ్యాయం తొమ్మిది §7 ఏకీకృత అనుపాతత ప్రమాణం](core_08_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)లోని తక్కువ-ప్రభావ ఉల్లంఘన-అక్ష నిర్ధారణకు పునరావృత నమూనా, తప్పించుకోవడం లేదా భౌతిక హాని అనుసంధాన సాక్ష్యం లేకుండా శాశ్వత మినహాయింపును సమర్థించలేం. నిర్లక్ష్యం, దాచివేత, బలవంతం, పునరావృతం వంటి ప్రవర్తనా లక్షణాలు సమీక్షకు దారి చూపుతాయి; అధ్యాయం తొమ్మిది ప్రభావ స్లాట్‌ను మార్చవు.
   - ప్రవర్తన పునరావృతమవడం లేదా బాధ్యత దాచడం వల్ల పెంచిన పరిమితి కూడా అవసరమైనదిగా, అనుపాతమైనదిగా, సమీక్షించగలిగేదిగా, ధృవీకరించిన నిర్ధారణతో అనుసంధానమైనదిగా ఉండాలి.
 - **హక్కు-తళ్ల కనీసాలు, ప్రవేశం మూసివేయరాదు:** పాల్గొనేవారి హోదా, సామర్థ్య ప్రమాణాలు, సామర్థ్య అనుమతులు, హోదా లాక్‌లు పాత్ర అర్హత, పేరుతో నిర్దేశించిన ప్రత్యేకహక్కు మార్గాలను మాత్రమే నియంత్రిస్తాయి. అవి:
   - [హక్కు-తళ్ల కనీసాల సూత్రం](core_01_b_interaction_interpretation.md#హకకల-కనస-హమల-సతర) ప్రకారం **అనుచ్ఛేదం VI** (*సమాన ప్రాథమిక హక్కులు*) వర్తింపజేసే **హక్కు-తళ్ల కనీసాలను** నిలిపివేయడం, మాఫీ చేయడం, అంతం చేయడం లేదా తగ్గించడం చేయరాదు;
   - భౌతికంగా సంబంధించిన చోట జీవనాధార ప్రవేశం లేదా **అనుచ్ఛేదం III-A** (*మనుగడ*) వనరుల కేటాయింపు, ఆధారపడే వారి హక్కు-తళ్లను మూసివేయరాదు; లేదా
   - **అనుచ్ఛేదం XIII-A** (*విశ్వసనీయత, నమ్మకత ప్రాథమిక హద్దు*), **అనుచ్ఛేదం XIII-B** (*పరిహారం మరియు ఉపశమన హక్కు*), **అనుచ్ఛేదం XV-B** (*పారదర్శకత, ఆడిట్ చేయగలగడం, సవాలు చేయగలగడం*), **అనుచ్ఛేదం XVI** (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*) కింద రాజ్యాంగం కోరే ఆడిట్, సవాలు లేదా పరిహార మార్గాలను **అధ్యాయం ఒకటి**, **అధ్యాయం ఐదు**, వర్తించే పొందుపరిచిన ప్రక్రియ కింద తగిన సమర్థన లేకుండా మూసివేయరాదు.
-- **పునఃస్థాపన, స్థిరపడకుండా నిరోధం:** ఉల్లంఘన నిర్ధారణల వల్ల హోదా తగ్గినప్పుడు, [అధ్యాయం పది §8 పునరుద్ధరణ మరియు పునఃఅంచనా](core_11_standing_integration.md#8-restoration-and-reassessment) కింద సమీక్ష, పరిహార-ఆధారిత పునరుద్ధరణ, కాలానుగుణ పునఃమూల్యాంకనానికి స్పష్టమైన షరతులు ఇవ్వాలి.
+- **పునఃస్థాపన, స్థిరపడకుండా నిరోధం:** ఉల్లంఘన నిర్ధారణల వల్ల హోదా తగ్గినప్పుడు, [అధ్యాయం పది §8 పునరుద్ధరణ మరియు పునఃఅంచనా](core_09_standing_integration.md#8-restoration-and-reassessment) కింద సమీక్ష, పరిహార-ఆధారిత పునరుద్ధరణ, కాలానుగుణ పునఃమూల్యాంకనానికి స్పష్టమైన షరతులు ఇవ్వాలి.
   - ప్రస్తుత, ఆడిట్ చేయగల సమర్థన లేకుండా గత హోదా ఆధారంగా మాత్రమే శాశ్వత మినహాయింపు అనుసరణలోపం.
   - సరిదిద్దడం, పరిహారం, పర్యవేక్షణ, రక్షణ చర్య అమలు లేదా పునరావృత ప్రమాదం తగ్గిందని చూపిన ఇతర చర్య పూర్తయితే చట్టబద్ధంగా నిజమైన తిరిగి-అంచనా మార్గం ఏర్పడాలి; ఆ బాధ్యతలు నెరవేర్చకపోతే పరిష్కరించని నిర్ధారణ హోదా ప్రయోజనాలకు కొనసాగుతుంది.
 
@@ -263,7 +263,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§6 విశ్వాసం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన).
+- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§6 విశ్వాసం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన).
 
 </details>
 
@@ -271,45 +271,45 @@ EOF
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [హోదా లాక్](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
-- [సామర్థ్య ప్రమాణం](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
-- [సామర్థ్య అనుమతి](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
-- [పాల్గొనేవారి హోదా](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
-- [సామూహిక జవాబుదారీతన వైఫల్యం](core_05_band_accountability.md#collective-accountability-failure) · [O](core_05_band_accountability.md#collective-accountability-failure) · [M](core_05_band_accountability.md#collective-accountability-failure-a) · [A](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
-- [విశ్వాసం](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [హోదా లాక్](../../core_05.035_band_accountability.md#standing-lock) · [O](../../core_05.035_band_accountability.md#standing-lock) · [M](../../core_05.035_band_accountability.md#standing-lock-a) · [A](../../core_05.035_band_accountability.md#standing-lock-a) · [C](../../core_05.035_band_accountability.md#standing-lock-c)
+- [సామర్థ్య ప్రమాణం](../../core_05.035_band_accountability.md#competency-bar) · [O](../../core_05.035_band_accountability.md#competency-bar) · [M](../../core_05.035_band_accountability.md#competency-bar-a) · [A](../../core_05.035_band_accountability.md#competency-bar-a) · [C](../../core_05.035_band_accountability.md#competency-bar-c)
+- [సామర్థ్య అనుమతి](../../core_05.035_band_accountability.md#competency-clearance) · [O](../../core_05.035_band_accountability.md#competency-clearance) · [M](../../core_05.035_band_accountability.md#competency-clearance-a) · [A](../../core_05.035_band_accountability.md#competency-clearance-a) · [C](../../core_05.035_band_accountability.md#competency-clearance-c)
+- [పాల్గొనేవారి హోదా](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [O](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [M](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [A](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [C](../../core_05.035_band_accountability.md#participant-standing-constitutional-c)
+- [సామూహిక జవాబుదారీతన వైఫల్యం](../../core_05.035_band_accountability.md#collective-accountability-failure) · [O](../../core_05.035_band_accountability.md#collective-accountability-failure) · [M](../../core_05.035_band_accountability.md#collective-accountability-failure-a) · [A](../../core_05.035_band_accountability.md#collective-accountability-failure-a) · [C](../../core_05.035_band_accountability.md#collective-accountability-failure-c)
+- [విశ్వాసం](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
 - [పునాది రాజ్యాంగ ఎంపిక](core_05_band_integrative.md#పనద-రజయగ-ఎపక) · [O](core_05_band_integrative.md#పనద-రజయగ-ఎపక) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
-- [ప్రక్రియా న్యాయం](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [ప్రక్రియా న్యాయం](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [అవసరం](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 - [రక్షిత లక్షణాలు](../../core_05.055_band_participation.md#protected-characteristics) · [O](../../core_05.055_band_participation.md#protected-characteristics) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 
 </details>
 
 <br>
 
-*సరళంగా చెప్పాలంటే: సాధారణ పాల్గొనిక మార్గాలు ప్రస్తుత సాక్ష్యంపై ఆధారపడిన, ప్రచురిత, సవాలు చేయగల అర్హత నియమాల ప్రకారం తెరిచి ఉంటాయి — బ్రాండ్, స్థాయి, పాత ప్రతిష్ఠ ఆధారంగా కాదు. విశ్వాస-సున్నిత మార్గం తెరవాలంటే ప్రచురిత సామర్థ్య ప్రమాణం మేరకు సామర్థ్య అనుమతి అవసరం; ప్రత్యేక హక్కును మూసివేయాలంటే ఆ మార్గంపై హోదా లాక్ అవసరం. హోదా లాక్‌లు ప్రాథమిక స్వరాన్ని శాశ్వతంగా తొలగించరాదు; అయితే తుది అధ్యాయం పదకొండు రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన వర్గీకరణ [అధ్యాయం పదమూడు §4.1 హక్కుదారిత్వం, అర్హత](core_13_governance.md#41-entitlement-and-eligibility)లో చెప్పినట్లు **పూర్తి పరిహారం** వరకు ఆ స్వరాన్ని నిలిపివేస్తుంది.*
+*సరళంగా చెప్పాలంటే: సాధారణ పాల్గొనిక మార్గాలు ప్రస్తుత సాక్ష్యంపై ఆధారపడిన, ప్రచురిత, సవాలు చేయగల అర్హత నియమాల ప్రకారం తెరిచి ఉంటాయి — బ్రాండ్, స్థాయి, పాత ప్రతిష్ఠ ఆధారంగా కాదు. విశ్వాస-సున్నిత మార్గం తెరవాలంటే ప్రచురిత సామర్థ్య ప్రమాణం మేరకు సామర్థ్య అనుమతి అవసరం; ప్రత్యేక హక్కును మూసివేయాలంటే ఆ మార్గంపై హోదా లాక్ అవసరం. హోదా లాక్‌లు ప్రాథమిక స్వరాన్ని శాశ్వతంగా తొలగించరాదు; అయితే తుది అధ్యాయం పదకొండు రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన వర్గీకరణ [అధ్యాయం పదమూడు §4.1 హక్కుదారిత్వం, అర్హత](../../core_14.000_governance.md#41-entitlement-and-eligibility)లో చెప్పినట్లు **పూర్తి పరిహారం** వరకు ఆ స్వరాన్ని నిలిపివేస్తుంది.*
 
 ఈ అనుచ్ఛేదం పేరుతో నిర్దేశించిన మార్గాల అర్హత, బాధ్యత, రాజకీయ స్వరంపై క్రమశిక్షణను నిర్దేశిస్తుంది:
-- **పేరుతో నిర్దేశించిన మార్గాల అర్హత, బాధ్యత:** సాధారణ పాల్గొనిక, విశ్వాస-సున్నిత పాత్రలు, పర్యవేక్షణ అర్హత, **governance-voting**, **stakeholder-participation** మార్గాలకు ప్రచురిత అర్హత ప్రమాణాలు ప్రస్తుత, పరిశీలించగల, సవాలు చేయగల సాక్ష్యంపై ఆధారపడాలి — ప్రతిష్ఠ, స్థాయి లేదా చారిత్రక హోదాపై మాత్రమే కాదు. పునాది అవసరాలతో నిరంతర సమలేఖనం వర్తించే [సామర్థ్య ప్రమాణం](core_05_band_accountability.md#competency-bar) మేరకు [సామర్థ్య అనుమతి](core_05_band_accountability.md#competency-clearance), విశ్వాస-సున్నిత పాత్ర అర్హతకు తోడ్పడవచ్చు; కానీ నిర్బంధ పరిణామాలు [అధ్యాయం పది §4.2 నివారణ — సాధారణ హోదా లాక్‌లు](core_11_standing_integration.md#42-prevention--general-standing-locks) కింద పేరుతో నిర్దేశించిన ప్రత్యేకహక్కు మార్గంపై [హోదా లాక్](core_05_band_accountability.md#standing-lock) ద్వారానే వర్తిస్తాయి. **governance-voting** లాక్‌లు **stakeholder-participation** లాక్‌లకు బదులు కావు; రెండోది హితసంబంధి స్థితిని చెరపదు లేదా ప్రాథమిక పాలనా ఓటును స్వయంగా తొలగించదు.
+- **పేరుతో నిర్దేశించిన మార్గాల అర్హత, బాధ్యత:** సాధారణ పాల్గొనిక, విశ్వాస-సున్నిత పాత్రలు, పర్యవేక్షణ అర్హత, **governance-voting**, **stakeholder-participation** మార్గాలకు ప్రచురిత అర్హత ప్రమాణాలు ప్రస్తుత, పరిశీలించగల, సవాలు చేయగల సాక్ష్యంపై ఆధారపడాలి — ప్రతిష్ఠ, స్థాయి లేదా చారిత్రక హోదాపై మాత్రమే కాదు. పునాది అవసరాలతో నిరంతర సమలేఖనం వర్తించే [సామర్థ్య ప్రమాణం](../../core_05.035_band_accountability.md#competency-bar) మేరకు [సామర్థ్య అనుమతి](../../core_05.035_band_accountability.md#competency-clearance), విశ్వాస-సున్నిత పాత్ర అర్హతకు తోడ్పడవచ్చు; కానీ నిర్బంధ పరిణామాలు [అధ్యాయం పది §4.2 నివారణ — సాధారణ హోదా లాక్‌లు](core_09_standing_integration.md#42-prevention--general-standing-locks) కింద పేరుతో నిర్దేశించిన ప్రత్యేకహక్కు మార్గంపై [హోదా లాక్](../../core_05.035_band_accountability.md#standing-lock) ద్వారానే వర్తిస్తాయి. **governance-voting** లాక్‌లు **stakeholder-participation** లాక్‌లకు బదులు కావు; రెండోది హితసంబంధి స్థితిని చెరపదు లేదా ప్రాథమిక పాలనా ఓటును స్వయంగా తొలగించదు.
   - అర్హత, లాక్ వాదనలు నిరంతర ఆడిట్‌కూ ఈ అనుచ్ఛేదం, నిర్దేశిత అమలు పాఠ్యంలోని రక్షణలకూ లోబడి ఉంటాయి.
   - అర్హత, లాక్‌లు:
     - **అధ్యాయం తొమ్మిది** (*సహకారం, ఉల్లంఘన, హోదా నమూనా*)కు లోబడి ఉండాలి;
     - ప్రస్తుత సాక్ష్యం మారితే సవరించగలిగేవిగా ఉండాలి; భౌతిక పరిమితులు సరిచేసినప్పుడు వాస్తవ పునరుద్ధరణ లేదా తిరిగి అర్హత మార్గాలు కల్పించాలి;
     - భౌతిక బాధ్యత, సామర్థ్యం ఉన్నప్పుడు మౌన సమ్మతితో పాల్గొనడం, చట్టవిరుద్ధ లేదా రాజ్యాంగవిరుద్ధ ఆదేశాలను ఎదుర్కోకపోవడాన్ని **అధ్యాయం ఐదు** (*సామూహిక జవాబుదారీతన వైఫల్యం*)కు అనుగుణంగా పరిగణించాలి;
-    - [**అధ్యాయం పదమూడు §4.1 హక్కుదారిత్వం, అర్హత**](core_13_governance.md#41-entitlement-and-eligibility) తుది అధ్యాయం పదకొండు రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తనకు **పూర్తి పరిహారం** పెండింగ్‌లో ఉండగా **స్థిరమైన రాజకీయ స్వరాన్ని** నిలిపిన సందర్భం మినహా, **పునాది రాజ్యాంగ ఎంపిక**లో రాజకీయ స్వరాన్ని శాశ్వతంగా అనర్హత చేసే సాధనంగా మారకూడదు.
+    - [**అధ్యాయం పదమూడు §4.1 హక్కుదారిత్వం, అర్హత**](../../core_14.000_governance.md#41-entitlement-and-eligibility) తుది అధ్యాయం పదకొండు రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తనకు **పూర్తి పరిహారం** పెండింగ్‌లో ఉండగా **స్థిరమైన రాజకీయ స్వరాన్ని** నిలిపిన సందర్భం మినహా, **పునాది రాజ్యాంగ ఎంపిక**లో రాజకీయ స్వరాన్ని శాశ్వతంగా అనర్హత చేసే సాధనంగా మారకూడదు.
 - **రాజకీయ స్వర క్రమశిక్షణ:** పాలనా అధికారాన్ని అధీకరించే ప్రక్రియలో పాల్గొనడాన్ని హోదా లాక్ పరిమితం చేస్తే, ఆ పరిమితి:
   - **ప్రక్రియా న్యాయం** కింద వ్యక్తిగత ఆధారాన్ని కలిగి ఉండాలి;
   - **అధ్యాయం ఒకటి** కింద **అవసరం**, **అనుపాతత**ను తీరాలి;
   - నిర్దిష్ట దుష్ప్రవర్తన వర్గానికే కచ్చితంగా పరిమితం కావాలి;
   - కేవలం రూపకంగా కాక నిజమైన పునరుద్ధరణ మార్గాలను కల్పించాలి.
 
-తుది అధ్యాయం తొమ్మిది **ఉల్లంఘన అక్ష s = 7**, **s = 8**, లేదా **s = 9** ప్రభావ స్థానంపై అధ్యాయం పదకొండు కింద గుర్తించిన **రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన** స్థిరమైన రాజకీయ స్వరానికి వర్తించే హోదా-లాక్ క్రమశిక్షణకు బయట ఉంటుంది: [**అధ్యాయం పదమూడు §4.1 హక్కుదారిత్వం, అర్హత**](core_13_governance.md#41-entitlement-and-eligibility) చెప్పినట్లు **పూర్తి పరిహారం** వరకు పాల్గొనిక నిలిపివేయబడుతుంది. అధ్యాయం పదకొండు వర్గీకరణను జోడిస్తుంది; సంఖ్యా స్థానాన్ని కేటాయించదు.
+తుది అధ్యాయం తొమ్మిది **ఉల్లంఘన అక్ష s = 7**, **s = 8**, లేదా **s = 9** ప్రభావ స్థానంపై అధ్యాయం పదకొండు కింద గుర్తించిన **రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన** స్థిరమైన రాజకీయ స్వరానికి వర్తించే హోదా-లాక్ క్రమశిక్షణకు బయట ఉంటుంది: [**అధ్యాయం పదమూడు §4.1 హక్కుదారిత్వం, అర్హత**](../../core_14.000_governance.md#41-entitlement-and-eligibility) చెప్పినట్లు **పూర్తి పరిహారం** వరకు పాల్గొనిక నిలిపివేయబడుతుంది. అధ్యాయం పదకొండు వర్గీకరణను జోడిస్తుంది; సంఖ్యా స్థానాన్ని కేటాయించదు.
 
 కిందివి అనుసరణలోపాలు:
   - విస్తృత దుష్ప్రవర్తన వర్గాలను అనర్హత పరిధిలోకి లాగడం;
   - **రక్షిత లక్షణాలు** లేదా వాటి భౌతిక ప్రత్యామ్నాయాలను అనుసరించే లాక్ నమూనాలు.
 
-కార్యాచరణ అమలు [**అధ్యాయం పదమూడు §4.1**](core_13_governance.md#41-entitlement-and-eligibility) (*స్థిరమైన రాజకీయ స్వర హక్కు-తళం*)లో ఉంది.
+కార్యాచరణ అమలు [**అధ్యాయం పదమూడు §4.1**](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*స్థిరమైన రాజకీయ స్వర హక్కు-తళం*)లో ఉంది.
 
 <a id="article-xix-d-violations-and-standing-locks"></a>
 #### అనుచ్ఛేదం XIX-D: ఉల్లంఘనలు మరియు హోదా-నిరోధాలు
@@ -390,20 +390,22 @@ EOF
   - **Stakeholder-Participation Standing Lock:** stakeholder-participation మార్గంలో ధృవీకరించిన అవినీతి, స్వాధీనం, తప్పుడు వాటా దుర్వినియోగం, బలవంతం లేదా సమానమైన భౌతిక దుర్వినియోగం ఈ లాక్‌ను కలిగిస్తుంది. ప్రభావిత రంగంలో వాటా-బరువుగల ప్రభావం, బంధించే stakeholder ఎంపికను పరిమితం చేస్తుంది; governance-voting, Foundational Constitutional Choice లేదా stakeholder హోదాను స్వయంగా తొలగించదు. క్షమాపణ, పూర్వ సహకారం, వాటా పరిమాణం లేదా నిర్వాహకుడి అనివార్యత ఒక్కటే దీన్ని ఎత్తివేయదు.
   - **Anti-Constitutional Trust Lock:** Chapter Twelve తుది రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన నిర్ణయం ఈ లాక్‌ను కలిగిస్తుంది. కఠినమైన స్వతంత్ర పునరుద్ధరణ నిర్ధారించే వరకు Class A/B/C వ్యవస్థలు, రాజ్యాంగ వేదికలు, రాజ్యాంగ సమన్వయ గుర్తింపు, కీలక వ్యవస్థల stewardship, రాజ్యాంగవ్యతిరేక జవాబుదారీ మార్గాల్లో పాత్ర లేదా భౌతిక ప్రభావాన్ని ఇది నిషేధిస్తుంది.
 
+<a id="article-xx-justice-after-verified-violation"></a>
+
 ### అనుచ్ఛేదం XX: ధృవీకరించిన ఉల్లంఘన తర్వాత న్యాయం
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§3 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన).
-- గమ్యం: [అధ్యాయం పది §4](core_11_standing_integration.md#4-violation-correction-and-prevention) (*ఉల్లంఘన, సరిదిద్దుట, నివారణ*); [అధ్యాయం పదకొండు §4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*న్యాయ ప్రక్రియ రక్షణలు, పరిహారం, నివారణ*).
+- గమ్యం: [అధ్యాయం పది §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*ఉల్లంఘన, సరిదిద్దుట, నివారణ*); [అధ్యాయం పదకొండు §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*న్యాయ ప్రక్రియ రక్షణలు, పరిహారం, నివారణ*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [ప్రక్రియా న్యాయం](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [సవాలు చేయగలగడం](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [ప్రక్రియా న్యాయం](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [సవాలు చేయగలగడం](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -414,8 +416,8 @@ EOF
 ఉల్లంఘన ధృవీకరించిన తర్వాత వర్తించే న్యాయ తళ్లను ఈ అనుచ్ఛేదం చెబుతుంది: న్యాయ లక్ష్యం, పరిధి (**అనుచ్ఛేదం XX-A**), తీవ్రమైన పరిమితుల హక్కు-తళ్లు (**అనుచ్ఛేదం XX-B**).
 
 *సమీప అనుచ్ఛేదాలు:*
-- **వివాద పరిష్కారం, సమీక్ష, కాలానుకూలత:** రాజ్యాంగ హక్కు-తళ్లు, గత సంఘటన సమీక్ష, హక్కుల సంఘర్షణలు, ఆలస్యం-నిరోధ క్రమశిక్షణకు సంబంధించిన వివాదాలను [**అనుచ్ఛేదం XXV**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*కాలానుకూల గత సమీక్ష, పునరుద్ధరణ సమలేఖనం*) నియంత్రిస్తుంది.
-- **అత్యవసర చర్యలు:** [అధ్యాయం పన్నెండు §6.1 అత్యవసర చర్యలు, కొనసాగింపు భారం](core_12_forum.md#61-emergency-measures-and-continuation-burden) కింద; అత్యవసర చర్య విధించే పరిమితుల కోసం **అనుచ్ఛేదం XX-B**తో కలిపి చదవాలి.
+- **వివాద పరిష్కారం, సమీక్ష, కాలానుకూలత:** రాజ్యాంగ హక్కు-తళ్లు, గత సంఘటన సమీక్ష, హక్కుల సంఘర్షణలు, ఆలస్యం-నిరోధ క్రమశిక్షణకు సంబంధించిన వివాదాలను [**అనుచ్ఛేదం XXV**](core_06_rights_part_e.md) (*కాలానుకూల గత సమీక్ష, పునరుద్ధరణ సమలేఖనం*) నియంత్రిస్తుంది.
+- **అత్యవసర చర్యలు:** [అధ్యాయం పన్నెండు §6.1 అత్యవసర చర్యలు, కొనసాగింపు భారం](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) కింద; అత్యవసర చర్య విధించే పరిమితుల కోసం **అనుచ్ఛేదం XX-B**తో కలిపి చదవాలి.
 - **హోదా:** [**అనుచ్ఛేదం XIX**](core_06_rights_part_d.md#అనచఛద-xix-హద-మరయ-పలగన-సథత) హోదాను నియంత్రిస్తుంది. ఈ అనుచ్ఛేదంలోని న్యాయ చర్యలు వేరు; హోదా లేబుల్‌కు ప్రత్యామ్నాయం కావు.
 - **కాలానుకూల పరిహారం:** [**అనుచ్ఛేదం XIII-B** (*పరిహారం మరియు ఉపశమన హక్కు*)](core_06_rights_part_c.md#ఆరటకల-xiii-b-పరహర-మరయ-నవరణ-హకక) (*సకాల పరిహార ప్రవేశం*)తో చదవండి.
 
@@ -426,7 +428,7 @@ EOF
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [అధ్యాయం ఒకటి §13.1.5 హక్కుల సంఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [అధ్యాయం ఒకటి §3.3 అవమానకర ప్రక్రియ నిరోధం](core_01_a_values_principles.md#33-గరవనన-దగజరచన-పరకరయ), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
-- గమ్యం: [అధ్యాయం పది §4](core_11_standing_integration.md#4-violation-correction-and-prevention) (*ఉల్లంఘన, సరిదిద్దుట, నివారణ*); [అనుచ్ఛేదం XX-B](#అనచఛద-xx-b-పరమతల-హకక-తళల).
+- గమ్యం: [అధ్యాయం పది §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*ఉల్లంఘన, సరిదిద్దుట, నివారణ*); [అనుచ్ఛేదం XX-B](#అనచఛద-xx-b-పరమతల-హకక-తళల).
 - దీనితో చదవండి: [క్రూరత్వం](../../core_05.035_band_accountability.md#cruelty) (*బాధనే లక్ష్యంగా చేసుకునే క్రూరత్వ-నిరోధ హద్దుకు అధ్యాయం ఐదులోని మూలం*).
 
 </details>
@@ -436,7 +438,7 @@ EOF
 
 - [తీర్పు, వివాద పరిష్కారం](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [O](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [M](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [క్రూరత్వం](../../core_05.035_band_accountability.md#cruelty) · [O](../../core_05.035_band_accountability.md#cruelty) · [M](../../core_05.035_band_accountability.md#cruelty-a) · [A](../../core_05.035_band_accountability.md#cruelty-a) · [C](../../core_05.035_band_accountability.md#cruelty-c)
-- [పరిహారం మరియు సరిదిద్దుట](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [పరిహారం మరియు సరిదిద్దుట](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -451,7 +453,7 @@ EOF
   - పరిహారం, సరిదిద్దుట, ప్రవర్తన లేదా వ్యవస్థల మార్పుతో సరిచేయడం;
   - సాధ్యమైనచోట పునరావాసం, రక్షణలు, ఇతర స్థిర నియంత్రణలతో పునరావృతాన్ని నివారించడం;
   - **అధ్యాయం తొమ్మిది** (*సహకారం, ఉల్లంఘన, హోదా నమూనా*) కింద రికార్డులోని సాక్ష్యంతో సరైన వ్యక్తులకు క్రెడిట్, పరిణామాలు వర్తింపజేయడం.
-- **క్రూరత్వ-నిరోధ హద్దు:** బాధ కలిగించడమే స్వతంత్ర లక్ష్యంగా న్యాయాన్ని నిర్వహించకూడదు. అధ్యాయం ఐదులోని మూల పదం [క్రూరత్వం](core_05_band_accountability.md#cruelty).
+- **క్రూరత్వ-నిరోధ హద్దు:** బాధ కలిగించడమే స్వతంత్ర లక్ష్యంగా న్యాయాన్ని నిర్వహించకూడదు. అధ్యాయం ఐదులోని మూల పదం [క్రూరత్వం](../../core_05.035_band_accountability.md#cruelty).
 <a id="article-xx-b-restriction-floors"></a>
 #### అనుచ్ఛేదం XX-B: పరిమితుల హక్కు-తళ్లు
 
@@ -461,8 +463,8 @@ EOF
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం ఒకటి §13.1.5 హక్కుల సంఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- గమ్యం: [అధ్యాయం పది §5 లాక్ రూపకల్పన, అమలు](core_11_standing_integration.md#5-lock-design-and-enforcement), [§5.4 ప్రత్యేక ఉల్లంఘన నియమాలు](core_11_standing_integration.md#54-special-violation-rules) (*ధృవీకరించిన హింసకు తప్పనిసరి కారాగారం, ఇతర బలవంతపు లేదా స్వేచ్ఛా-పరిమిత రక్షణలు*); [అధ్యాయం పదకొండు §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*నివారణ — రాజ్యాంగవ్యతిరేక లాక్‌లు*; కారాగార ప్రత్యేకత).
-- దీనితో చదవండి: [అనుచ్ఛేదం XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*కాలానుకూల పరిష్కారం, ఆలస్యం-నిరోధ హక్కు-తళం*); [అధ్యాయం పన్నెండు §5 ఎస్కలేషన్, ధృవీకరణ](core_12_forum.md#5-escalation-and-certification).
+- గమ్యం: [అధ్యాయం పది §5 లాక్ రూపకల్పన, అమలు](core_09_standing_integration.md#5-lock-design-and-enforcement), [§5.4 ప్రత్యేక ఉల్లంఘన నియమాలు](core_09_standing_integration.md#54-special-violation-rules) (*ధృవీకరించిన హింసకు తప్పనిసరి కారాగారం, ఇతర బలవంతపు లేదా స్వేచ్ఛా-పరిమిత రక్షణలు*); [అధ్యాయం పదకొండు §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*నివారణ — రాజ్యాంగవ్యతిరేక లాక్‌లు*; కారాగార ప్రత్యేకత).
+- దీనితో చదవండి: [అనుచ్ఛేదం XXVI-C](core_06_rights_part_e.md) (*కాలానుకూల పరిష్కారం, ఆలస్యం-నిరోధ హక్కు-తళం*); [అధ్యాయం పన్నెండు §5 ఎస్కలేషన్, ధృవీకరణ](../../core_13.000_forum.md#5-escalation-and-certification).
 
 </details>
 
@@ -470,12 +472,12 @@ EOF
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
 - [భద్రత (రాజ్యాంగ పరిమితి)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
-- [పరిహారం, సరిదిద్దుట](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [పరిహారం, సరిదిద్దుట](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [తిరోగమన సామర్థ్యం](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [సవాలు చేయగలగడం](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [అవసరం](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [తిరోగమన సామర్థ్యం](../../core_05.040_band_continuity.md#reversibility-constitutional) · [O](../../core_05.040_band_continuity.md#reversibility-constitutional) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [సవాలు చేయగలగడం](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -497,7 +499,7 @@ EOF
   - అనుపాత పరిహారం లేదా సరిదిద్దుట;
   - సాధ్యమైనచోట పునరావాసం లేదా పునరావృతం తగ్గించడం;
   - **అధ్యాయాలు రెండు నుంచి నాలుగు** కింద ఎవరైనా ఆడిట్ చేయగల సాక్ష్యంతో సరైన పక్షాలకు క్రెడిట్, పరిణామాలను కేటాయించడం.
-- **వ్యక్తిగత బాధ్యత ప్రమాణం:** చర్య సమూహ లేబుల్ లేదా ప్రత్యామ్నాయాన్ని కాక, సంబంధిత నిర్దిష్ట సెంటియెంట్ లేదా పాత్రను లక్ష్యంగా చేసుకోవాలి; సవాలు, స్వతంత్ర సమీక్షకు తెరిచి ఉండాలి. కఠిన లేబుల్, బహిరంగ ఖండన లేదా పరిపాలనా షార్ట్‌కట్ పై సంయుక్త అవసరాలన్నిటిని నిరూపించడానికి బదులు కాదు. [అధ్యాయం పది §5 లాక్ రూపకల్పన, అమలు](core_11_standing_integration.md#5-lock-design-and-enforcement) వాటిని నియంత్రిస్తుంది.
+- **వ్యక్తిగత బాధ్యత ప్రమాణం:** చర్య సమూహ లేబుల్ లేదా ప్రత్యామ్నాయాన్ని కాక, సంబంధిత నిర్దిష్ట సెంటియెంట్ లేదా పాత్రను లక్ష్యంగా చేసుకోవాలి; సవాలు, స్వతంత్ర సమీక్షకు తెరిచి ఉండాలి. కఠిన లేబుల్, బహిరంగ ఖండన లేదా పరిపాలనా షార్ట్‌కట్ పై సంయుక్త అవసరాలన్నిటిని నిరూపించడానికి బదులు కాదు. [అధ్యాయం పది §5 లాక్ రూపకల్పన, అమలు](core_09_standing_integration.md#5-lock-design-and-enforcement) వాటిని నియంత్రిస్తుంది.
 - **కనిష్ఠ-పరిమిత, కాలపరిమిత హద్దు:** న్యాయం, నిర్బంధం, పునరుద్ధరణాత్మక జవాబుదారీతన చర్యలకు [**కనిష్ఠ పరిమిత, కాలపరిమిత, సమీక్షించగల నియంత్రణ సూత్రం**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) వర్తిస్తుంది. జోక్యం అవసరమైతే ప్రతి చర్యలో:
   - స్పష్టమైన వ్యవధి పరిమితులు;
   - సమీక్షా విరామాలు;
@@ -515,8 +517,8 @@ EOF
     - పేర్కొన్న కారణాలు;
     - ఎస్కలేషన్, సమీక్ష మార్గాలను వాడేందుకు సరిపడ రికార్డు ప్రవేశం.
 
-పై వాటికి **అధ్యాయం ఒకటి** కింద సంకుచితమైన, సమర్థించగల పరిమితులే అనుమతించబడతాయి. వేదిక మార్గీకరణ, ధృవీకరణను [అధ్యాయం పన్నెండు §5 ఎస్కలేషన్, ధృవీకరణ](core_12_forum.md#5-escalation-and-certification) నియంత్రిస్తుంది.
-- **హింసకు కారాగారం:** కారాగారం హోదా లాక్‌లకు వేరైన స్వేచ్ఛా-పరిమిత చర్య; లాక్‌కు జతచేసే వివరాలనే దానికి కూడా రికార్డు చేయాలి ([అధ్యాయం పది §5.1 నిర్వచనం, జోడింపు](core_11_standing_integration.md#51-definition-and-attachment)). ఈ అనుచ్ఛేదంలోని ప్రతి హద్దును, స్పష్టమైన వ్యవధి, సమీక్ష విరామం, పునరుద్ధరణ షరతులతో సహా, అది తీరాలి. ధృవీకరించిన హింసకు పాల్పడిన లేదా కొనసాగుతున్న హింసా ముప్పు కలిగించే సెంటియెంట్లను ఇతరులకు మరింత హాని జరగకుండా కాపాడటానికి కారాగారం అవసరమైనప్పుడు నిర్బంధించాలి. జీవితం హరించడం ప్రత్యామ్నాయంగా వాడినా, ఈ హద్దు కోరినప్పుడు కారాగారం విధించకపోయినా అనుసరణలోపమే. [అధ్యాయం పది §5.4 ప్రత్యేక ఉల్లంఘన నియమాలు](core_11_standing_integration.md#54-special-violation-rules) (*ధృవీకరించిన హింసకు తప్పనిసరి కారాగారం*) షరతులను నియంత్రిస్తుంది. ధృవీకరించిన రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తనకు కారాగారం [అధ్యాయం పదకొండు §4.2 నివారణ — రాజ్యాంగవ్యతిరేక లాక్‌లు](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) కింద అదే నిబంధనలతో ఉంటుంది.
+పై వాటికి **అధ్యాయం ఒకటి** కింద సంకుచితమైన, సమర్థించగల పరిమితులే అనుమతించబడతాయి. వేదిక మార్గీకరణ, ధృవీకరణను [అధ్యాయం పన్నెండు §5 ఎస్కలేషన్, ధృవీకరణ](../../core_13.000_forum.md#5-escalation-and-certification) నియంత్రిస్తుంది.
+- **హింసకు కారాగారం:** కారాగారం హోదా లాక్‌లకు వేరైన స్వేచ్ఛా-పరిమిత చర్య; లాక్‌కు జతచేసే వివరాలనే దానికి కూడా రికార్డు చేయాలి ([అధ్యాయం పది §5.1 నిర్వచనం, జోడింపు](core_09_standing_integration.md#51-definition-and-attachment)). ఈ అనుచ్ఛేదంలోని ప్రతి హద్దును, స్పష్టమైన వ్యవధి, సమీక్ష విరామం, పునరుద్ధరణ షరతులతో సహా, అది తీరాలి. ధృవీకరించిన హింసకు పాల్పడిన లేదా కొనసాగుతున్న హింసా ముప్పు కలిగించే సెంటియెంట్లను ఇతరులకు మరింత హాని జరగకుండా కాపాడటానికి కారాగారం అవసరమైనప్పుడు నిర్బంధించాలి. జీవితం హరించడం ప్రత్యామ్నాయంగా వాడినా, ఈ హద్దు కోరినప్పుడు కారాగారం విధించకపోయినా అనుసరణలోపమే. [అధ్యాయం పది §5.4 ప్రత్యేక ఉల్లంఘన నియమాలు](core_09_standing_integration.md#54-special-violation-rules) (*ధృవీకరించిన హింసకు తప్పనిసరి కారాగారం*) షరతులను నియంత్రిస్తుంది. ధృవీకరించిన రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తనకు కారాగారం [అధ్యాయం పదకొండు §4.2 నివారణ — రాజ్యాంగవ్యతిరేక లాక్‌లు](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) కింద అదే నిబంధనలతో ఉంటుంది.
 - **న్యాయ చర్యగా తిరిగి పొందలేని ప్రాణహరణకు వ్యతిరేక హక్కు-తళం:** శిక్ష, ఆంక్ష లేదా ప్రజా భద్రతా నిర్ణయంగా రాష్ట్రం, నిర్వాహకుడు లేదా సమాన న్యాయ వ్యవస్థ తిరిగి పొందలేని ప్రాణహరణను విధించరాదు.
   - కారాగారం అవసరమైనప్పుడు ఈ అనుచ్ఛేదంలోని **హింసకు కారాగారం**, **అధ్యాయం పదకొండు** §4.1 (*పరిహారం, సరిదిద్దుట (రాజ్యాంగవ్యతిరేకం)*) కింద కారాగారమే రక్షణ చర్యలు; ప్రాణహరణ నిషేధం.
   - ఈ హద్దు **అనుచ్ఛేదం VII-D** (*స్వంత అస్తిత్వాన్ని స్వచ్ఛందంగా ముగించడం*) కింద సెంటియెంట్ స్వేచ్ఛగా తీసుకున్న నిర్ణయాన్ని నియంత్రించదు. బలవంతం, పేరు మార్చడం లేదా రాష్ట్రం/నిర్వాహకుడు ఆ ఎంపికను విధించిన ఫలితంగా మార్చితే మళ్లీ ఈ హద్దే వర్తిస్తుంది.
@@ -541,8 +543,8 @@ EOF
 - [రాజ్యరహితత్వ నివారణ](../../core_05.055_band_participation.md#non-statelessness) · [O](../../core_05.055_band_participation.md#non-statelessness) · [M](../../core_05.055_band_participation.md#non-statelessness-constitutional-a) · [A](../../core_05.055_band_participation.md#non-statelessness-constitutional-a) · [C](../../core_05.055_band_participation.md#non-statelessness-constitutional-c)
 - [అర్థవంతమైన స్వీయకర్తృత్వం](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 - [ఆధారపడటం](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
-- [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [అవసరం](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -557,18 +559,18 @@ EOF
 [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) ద్వారా చట్టబద్ధమైన ప్రయాస, [భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake)కు అనుగుణంగా సాగుతుంది:
 - **పాల్గొనడం:** వ్యవస్థలు, అధికార పరిధులను ఎంచుకోవడం; ఉపయోగించదగిన డేటా, గుర్తింపుతో వలస వెళ్లడం; బంధనం, పరోక్ష నిరాకరణను సవాలు చేయడం; ఆచరణలో భౌతిక అనుసరణలోపం ఉన్న చోట ఆశ్రయం కోరడం.
 - **పర్యవేక్షణ:** పత్రబద్ధమైన పరస్పర కార్యసాధ్యత హద్దులు, సకాల పోర్టబిలిటీ, భౌతిక సంకుచితానికి ముందస్తు నోటీసు, పరివర్తన షరతులు నిజమైనవా కేవలం రూపకమా అనే సమీక్ష.
-- **జవాబుదారీతనం:** [వ్యవస్థాగత బంధనం](core_05_band_continuity.md#systemic-lock-in), పోర్టబిలిటీ వ్యతిరేక రూపకల్పన, [సెంటియెంట్‌ను మినహాయించరాదు](../../core_05.055_band_participation.md#sentience-non-exclusion) నియమానికి వ్యతిరేక మినహాయింపు, అధికార యంత్రాంగపు అలసట లేదా సెంటియెంట్లను చిక్కుకునే ఇతర ప్రవర్తనకు వ్యవస్థలు, పాలనలు జవాబు చెప్పాలి — నిష్క్రమణ, ప్రత్యామ్నాయం, చలనం, ఆశ్రయం లేదా గుర్తింపును అడ్డుకుంటే.
+- **జవాబుదారీతనం:** [వ్యవస్థాగత బంధనం](../../core_05.040_band_continuity.md#systemic-lock-in), పోర్టబిలిటీ వ్యతిరేక రూపకల్పన, [సెంటియెంట్‌ను మినహాయించరాదు](../../core_05.055_band_participation.md#sentience-non-exclusion) నియమానికి వ్యతిరేక మినహాయింపు, అధికార యంత్రాంగపు అలసట లేదా సెంటియెంట్లను చిక్కుకునే ఇతర ప్రవర్తనకు వ్యవస్థలు, పాలనలు జవాబు చెప్పాలి — నిష్క్రమణ, ప్రత్యామ్నాయం, చలనం, ఆశ్రయం లేదా గుర్తింపును అడ్డుకుంటే.
 - **కాలానుకూలత:** **అనుచ్ఛేదం XXVI-C** (*కాలానుకూల పరిష్కారం, ఆలస్యం-నిరోధ హక్కు-తళం*) కింద ఆలస్యం, అపారదర్శకత, విధాన ఘర్షణ నిష్క్రమణ, వలస లేదా పరిహారాన్ని అందనిదిగా చేయకముందే పోర్టబిలిటీ అందించడం, ఆశ్రయం పరిశీలన, పరస్పర కార్యసాధ్యత నోటీసు, అడ్డంకుల సవరణ జరగాలి.
 
 బలవంతపు బంధనం, సెంటియెంట్ మినహాయింపు, రాజ్యరహితత్వం లేకుండా అర్థవంతమైన, ఉపయోగించదగిన నిష్క్రమణ, వలస, పరస్పర కార్యసాధ్యత, చలనం, ఆశ్రయం, గుర్తింపుకు సెంటియెంట్లకు, వారిపై ఆధారపడే వ్యవస్థలకు హక్కు ఉంది.
 - ఈ హక్కు అసురక్షిత లేదా అన్యాయంగా సమర్పించుకోవాలని కోరదు.
 - ఇది ఆచరణలో నిజమైన పరివర్తన షరతులను కోరుతుంది — కేవలం రూపకంగా ఉండేవి కాదు.
-- ఆధారపడటం, అనుసంధానం, మార్కెట్ మూసివేత ముఖ్యమైనప్పుడు **అధ్యాయం ఐదు** [*వ్యవస్థాగత బంధనం*](core_05_band_continuity.md#systemic-lock-in)ను **[అధ్యాయం ఐదు *పాలనా నిర్మాణం, పర్యవేక్షణ, ఆధారపడటం, వికేంద్రీకరణ, కేంద్రీకరణ, మార్కెట్ నిర్మాణం, నిష్క్రమణ మార్గ సమగ్రత*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)**తో కలిపి చదవండి; నిష్క్రమణ, పోర్టబిలిటీ, ఆశ్రయం, గుర్తింపు లేదా రాజ్యరహితత్వం పరస్పర ఆధారంగా ఉన్నప్పుడు **[అధ్యాయం ఐదు *చలనం, ఆశ్రయం, రాజ్యరహితత్వ నివారణ, నిష్క్రమణ సమగ్రత*](core_05_band_oversight.md#movement-refuge-semi-independent)**తోనూ చదవాలి. పరస్పర కార్యసాధ్యత, పోర్టబిలిటీ, నిష్క్రమణ సమగ్రత, సమర్థించబడిన పరిమితులకు పొందుపరిచిన అమలు అవసరాలు కూడా వర్తిస్తాయి.
+- ఆధారపడటం, అనుసంధానం, మార్కెట్ మూసివేత ముఖ్యమైనప్పుడు **అధ్యాయం ఐదు** [*వ్యవస్థాగత బంధనం*](../../core_05.040_band_continuity.md#systemic-lock-in)ను **[అధ్యాయం ఐదు *పాలనా నిర్మాణం, పర్యవేక్షణ, ఆధారపడటం, వికేంద్రీకరణ, కేంద్రీకరణ, మార్కెట్ నిర్మాణం, నిష్క్రమణ మార్గ సమగ్రత*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)**తో కలిపి చదవండి; నిష్క్రమణ, పోర్టబిలిటీ, ఆశ్రయం, గుర్తింపు లేదా రాజ్యరహితత్వం పరస్పర ఆధారంగా ఉన్నప్పుడు **[అధ్యాయం ఐదు *చలనం, ఆశ్రయం, రాజ్యరహితత్వ నివారణ, నిష్క్రమణ సమగ్రత*](core_05_band_oversight.md#movement-refuge-semi-independent)**తోనూ చదవాలి. పరస్పర కార్యసాధ్యత, పోర్టబిలిటీ, నిష్క్రమణ సమగ్రత, సమర్థించబడిన పరిమితులకు పొందుపరిచిన అమలు అవసరాలు కూడా వర్తిస్తాయి.
 
 *సమీప అనుచ్ఛేదాలు:*
 - **కలిపి చదవండి:**
   - **అనుచ్ఛేదం XIX** — హోదా, సామర్థ్య ప్రమాణాలు/అనుమతులు, హోదా లాక్‌లు స్వతహాగా చలనం, ఆశ్రయం, పోర్టబిలిటీ, నిష్క్రమణను పరిమితం చేయవు; వ్యక్తిగత న్యాయ ప్రక్రియకు బదులు కాకూడదు;
-  - **అనుచ్ఛేదం XX-B**, [అధ్యాయం పది §5.4](core_11_standing_integration.md#54-special-violation-rules) కింద చట్టబద్ధ స్వేచ్ఛా పరిమితులు, **అవసరం**, **అనుపాతత**, ప్రక్రియా రక్షణలు, **రాజ్యరహితత్వ నివారణ** నెరవేరిన చోట చలనం, కస్టడీ, సమాన స్వేచ్ఛను ఇంకా పరిమితం చేయవచ్చు;
+  - **అనుచ్ఛేదం XX-B**, [అధ్యాయం పది §5.4](core_09_standing_integration.md#54-special-violation-rules) కింద చట్టబద్ధ స్వేచ్ఛా పరిమితులు, **అవసరం**, **అనుపాతత**, ప్రక్రియా రక్షణలు, **రాజ్యరహితత్వ నివారణ** నెరవేరిన చోట చలనం, కస్టడీ, సమాన స్వేచ్ఛను ఇంకా పరిమితం చేయవచ్చు;
   - తైనాతీ లేదా ఆధారపడటం సాండ్‌బాక్స్ లేదా జీవితచక్ర ఊహలను మించినప్పుడు **అనుచ్ఛేదం XVII** (*వ్యవస్థ జీవితచక్రం, పరిసరాలు, తిరోగమన సామర్థ్యం*);
   - పాలనలు లేదా సమాఖ్యలు మారినప్పుడు పరివర్తన గుర్తింపుకు **అనుచ్ఛేదం XXVII** (*పరివర్తన పాలన, కొనసాగింపు, తిరిగి ఆధార స్థాపన*).
 - **అమలు పొర:** పాలనల మధ్య గుర్తింపు, దాని కార్యాచరణ విధానం **అధ్యాయం పదిహేడు** కింద అధీకరించిన అమలు పాఠ్యానికి వదిలివేయబడ్డాయి.
@@ -578,16 +580,16 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [అర్థవంతమైన స్వీయకర్తృత్వం](../../core_05.055_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [వ్యవస్థాగత బంధనం](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [అర్థవంతమైన స్వీయకర్తృత్వం](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [వ్యవస్థాగత బంధనం](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -609,16 +611,16 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [ఆధారపడటం](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [ఆధారపడటం](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [సాధ్యత](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -636,16 +638,16 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన).
+- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [వ్యవస్థాగత బంధనం](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [ఆధారపడటం](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [అర్థవంతమైన స్వీయకర్తృత్వం](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [వ్యవస్థాగత బంధనం](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [ఆధారపడటం](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [అర్థవంతమైన స్వీయకర్తృత్వం](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -660,7 +662,7 @@ EOF
   - బలవంతపు మార్పిడి షరతులు;
   - ఆచరణాత్మక పరివర్తనకు భౌతికంగా అవసరమైన సమాచారాన్ని నిలిపివేయడం.
 
-ఈ నియమం అనుపాత లావాదేవీ ఖర్చులకు మించి వర్తిస్తుంది; **అధ్యాయం ఐదు**లోని [వ్యవస్థాగత బంధనం](core_05_band_continuity.md#systemic-lock-in) ప్రమేయం ఉన్నప్పుడూ వర్తిస్తుంది.
+ఈ నియమం అనుపాత లావాదేవీ ఖర్చులకు మించి వర్తిస్తుంది; **అధ్యాయం ఐదు**లోని [వ్యవస్థాగత బంధనం](../../core_05.040_band_continuity.md#systemic-lock-in) ప్రమేయం ఉన్నప్పుడూ వర్తిస్తుంది.
 
 <a id="article-xxi-d-movement-migration-refuge-and-non-statelessness"></a>
 <a id="article-xxi-d-open-formats-and-standards"></a>
@@ -708,17 +710,17 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [చలనం, స్థానమార్పు](core_05_band_participation.md#movement-and-relocation-constitutional) · [O](core_05_band_participation.md#movement-and-relocation-constitutional) · [M](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [A](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [C](core_05_band_participation.md#movement-and-relocation-constitutional-c)
-- [అనుసరణలోపం నుంచి ఆశ్రయం](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [O](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [M](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
-- [రాజ్యరహితత్వ నివారణ](core_05_band_participation.md#non-statelessness-constitutional) · [O](core_05_band_participation.md#non-statelessness-constitutional) · [M](core_05_band_participation.md#non-statelessness-constitutional-a) · [A](core_05_band_participation.md#non-statelessness-constitutional-a) · [C](core_05_band_participation.md#non-statelessness-constitutional-c)
-- [వ్యవస్థాగత బంధనం](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [చలనం, స్థానమార్పు](../../core_05.055_band_participation.md#movement-and-relocation-constitutional) · [O](../../core_05.055_band_participation.md#movement-and-relocation-constitutional) · [M](../../core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [A](../../core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [C](../../core_05.055_band_participation.md#movement-and-relocation-constitutional-c)
+- [అనుసరణలోపం నుంచి ఆశ్రయం](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional) · [O](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional) · [M](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-c)
+- [రాజ్యరహితత్వ నివారణ](../../core_05.055_band_participation.md#non-statelessness-constitutional) · [O](../../core_05.055_band_participation.md#non-statelessness-constitutional) · [M](../../core_05.055_band_participation.md#non-statelessness-constitutional-a) · [A](../../core_05.055_band_participation.md#non-statelessness-constitutional-a) · [C](../../core_05.055_band_participation.md#non-statelessness-constitutional-c)
+- [వ్యవస్థాగత బంధనం](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
 - [ఆక్రమణ కొనసాగింపు](../../core_05.040_band_continuity.md#occupancy-continuity) · [O](../../core_05.040_band_continuity.md#occupancy-continuity) · [M](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional-a) · [A](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional-a) · [C](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional-c)
-- [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [ప్రక్రియా న్యాయం](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [అవసరం](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [ప్రక్రియా న్యాయం](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
 - [సాధ్యత](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
-- [పరిహారం, సరిదిద్దుట](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [రక్షిత లక్షణాలు](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [పరిహారం, సరిదిద్దుట](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [రక్షిత లక్షణాలు](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 
 </details>
 
@@ -778,7 +780,7 @@ EOF
   - స్వీకర్త పాలన పరిశీలించి, తన హక్కు-తళ్లுடன் సुसంగతంగా ఉన్నప్పుడు ఆశ్రయం మంజూరు చేయాల్సిన బాధ్యత ఇక్కడ పేర్కొనబడింది.
   - పాలనల మధ్య గుర్తింపుకు కార్యాచరణ విధానాలను **అధ్యాయం పద్దెనిమిది** కింద అధీకరించిన అమలు పాఠ్యానికి వదిలారు.
   - స్వీకర్త సాధారణంగా హోస్ట్ చేసే అధిష్ఠాన తరగతులకన్నా దావేదారు అధిష్ఠాన తరగతి భిన్నమని ఆశ్రయం నిరాకరించరాదు; [సెంటియెంట్ మినహాయింపు నిషేధం](../../core_05.055_band_participation.md#sentience-non-exclusion)కు ఇది అనుగుణం.
-  - పరిష్కరించని రాజ్యాంగవ్యతిరేక ప్రవర్తన, రాజ్యాంగంపై వ్యతిరేకత లేదా రాజ్యాంగ సమాజంపై పత్రబద్ధమైన ధిక్కారం/నిరాకరణ ఉన్న ప్రవేశదారుల చలనం, ఆశ్రయ ప్రవేశాన్ని అధ్యాయం ఐదు ప్రవేశ అర్హత కింద మినహాయించవచ్చు లేదా షరతులు విధించవచ్చు — **అవసరం**, **అనుపాతత**, **ప్రక్రియా న్యాయం**, [సెంటియెంట్ మినహాయింపు నిషేధం](core_05_band_participation.md#sentience-non-exclusion)కు లోబడి.
+  - పరిష్కరించని రాజ్యాంగవ్యతిరేక ప్రవర్తన, రాజ్యాంగంపై వ్యతిరేకత లేదా రాజ్యాంగ సమాజంపై పత్రబద్ధమైన ధిక్కారం/నిరాకరణ ఉన్న ప్రవేశదారుల చలనం, ఆశ్రయ ప్రవేశాన్ని అధ్యాయం ఐదు ప్రవేశ అర్హత కింద మినహాయించవచ్చు లేదా షరతులు విధించవచ్చు — **అవసరం**, **అనుపాతత**, **ప్రక్రియా న్యాయం**, [సెంటియెంట్ మినహాయింపు నిషేధం](../../core_05.055_band_participation.md#sentience-non-exclusion)కు లోబడి.
   - స్వీకర్తలను ముంచెత్తాలనే ఉద్దేశంతో చేసే బలవంతపు బహిష్కరణ లేదా వ్యక్తులను ఇతర చోటికి తోసేయడం మూల పాలన/బహిష్కరించే పాలన స్థాయి ఉల్లంఘన. మూల ప్రాథమిక లేదా పంచుకున్న/సమాఖ్య ప్రత్యామ్నాయ గుర్తింపు నిజంగా ఉన్నప్పుడు ఏ నిర్దిష్ట స్వీకర్తపైనా హోస్టింగ్ స్వయంచాలకంగా విధించదు. ఇతరత్రా ప్రాథమిక గుర్తింపు నిలిపి ఉంచుతూ నిర్దిష్ట స్వీకర్త **అవసరం**, **అనుపాతత**, **సాధ్యత** ఆధారంగా సాధనాత్మక బలవంతపు ప్రవాహాన్ని తిరస్కరించవచ్చు.
 - **వాతావరణం వల్ల నివాసయోగ్యత కోల్పోతే ఆశ్రయం (స్వీకర్త నిర్ణయం):** <a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a> మూల పాలన భౌతికంగా అనుసరణలో లేదని చూపని సందర్భంలో, వాతావరణం ప్రదేశాన్ని నివాసయోగ్యం కాకుండా చేయడం వల్ల కలిగిన స్థానచలనం ఆశ్రయానికి కారణమా కాదా ఈ అనుచ్ఛేదం నిర్ణయించదు. ఈ ప్రశ్నను పరిష్కరించే స్వీకర్తలు ప్రచురిత, సవాలు చేయగల నిబంధనల్లో చేయాలి. వాతావరణ-నివాసయోగ్యతను ఆశ్రయ కారణంగా చూడాలని ఇది కోరదు, నిషేధించదు.
   - ఇది హక్కు-తళ్ల కింద వాతావరణ ఆశ్రయ మంజూరు కాదు; వాతావరణం ఒక్కటే పాలన భౌతిక అనుసరణలోపమని కూడా కాదు.
@@ -826,9 +828,9 @@ EOF
   - పరిమితులు **రక్షిత లక్షణాలు** లేదా వాటి భౌతిక ప్రత్యామ్నాయాలపై ఆధారపడకూడదు.
   - **ప్రక్రియా న్యాయం** కింద వ్యక్తిగత ఆధారానికి బదులుగా జనాభా-స్థాయి గణాంక రూపకల్పన వాడకూడదు.
 - **చట్టబద్ధ కస్టడీ, స్వేచ్ఛా-పరిమిత చర్యలు:** ధృవీకరించిన హింస, బలవంతం, రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తన లేదా సమాన సామాజిక ప్రమాదం అవసరం చేసినప్పుడు చట్టబద్ధ నిర్బంధం, కస్టడీ, పర్యవేక్షిత కార్యాచరణ లేదా ఇతర స్వేచ్ఛా-పరిమిత న్యాయ చర్యల నుంచి ఈ అనుచ్ఛేదం సెంటియెంట్లకు మినహాయింపు ఇవ్వదు.
-  - అవి **అనుచ్ఛేదం XX-B** (*పరిమితుల హక్కు-తళ్లు*), [అధ్యాయం పదకొండు §5.4 ప్రత్యేక ఉల్లంఘన నియమాలు](core_11_standing_integration.md#54-special-violation-rules) ప్రేరేపించే వర్తించే నేర ప్రక్రియ లేదా సమాన రక్షణలను తీరాలి.
+  - అవి **అనుచ్ఛేదం XX-B** (*పరిమితుల హక్కు-తళ్లు*), [అధ్యాయం పదకొండు §5.4 ప్రత్యేక ఉల్లంఘన నియమాలు](core_09_standing_integration.md#54-special-violation-rules) ప్రేరేపించే వర్తించే నేర ప్రక్రియ లేదా సమాన రక్షణలను తీరాలి.
   - **రాజ్యరహితత్వ నివారణ**కు అనుగుణంగా ఉండాలి: కస్టడీ లేదా సమాన పరిమితి అమల్లో ఉన్నప్పటికీ ప్రాథమిక హక్కు-తళ్లను గుర్తించి, హోదాపై తీర్పు ఇచ్చి, **పరిహారం, సరిదిద్దుట** మార్గాలు అందించే పాలన లేకుండా ఏ సెంటియెంట్ ఉండరాదు.
-  - **అనుచ్ఛేదం XIX**లోని హోదా లాక్‌లు, [అధ్యాయం పదకొండు §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) స్వతహాగా అలాంటి చర్యలకు అధికారం ఇవ్వవు; ప్రతి చర్య తన రాజ్యాంగ అవసరాలు తీరుస్తే సమాంతరంగా ఉండవచ్చు.
+  - **అనుచ్ఛేదం XIX**లోని హోదా లాక్‌లు, [అధ్యాయం పదకొండు §4.2](core_09_standing_integration.md#42-prevention--general-standing-locks) స్వతహాగా అలాంటి చర్యలకు అధికారం ఇవ్వవు; ప్రతి చర్య తన రాజ్యాంగ అవసరాలు తీరుస్తే సమాంతరంగా ఉండవచ్చు.
 - **హోదా అనేది సరిహద్దు కాదు:** **అనుచ్ఛేదం XIX** (*హోదా, భాగస్వామ్య స్థితి*) కింద పాల్గొనే హోదా, సామర్థ్య నిరోధాలు, సామర్థ్య అనుమతులు, హోదా లాక్‌లు పేరు పెట్టిన మార్గాలకు అర్హతను నిర్ణయిస్తాయి. ధృవీకరించిన ప్రమాదం అవసరం చేసినప్పుడు, [వేర్పాటు పరిమితులకు](../../core_11.000_standing_integration.md#51-separation-limits) లోబడి నిర్దిష్ట స్థలాలు, నెట్‌వర్క్‌లు లేదా సెంటియెంట్ల నుంచి వేరుచేయడానికి లాక్ ఉపయోగించవచ్చు.
   - హోదా లేబుల్ లేదా వేర్పాటు లాక్ **స్వతహాగా** చలనం, వలస, ఆశ్రయం, పోర్టబిలిటీ, నిష్క్రమణ లేదా రాజ్యరహితత్వ నివారణ హక్కులను పరిమితం చేయదు.
   - నిర్దిష్ట స్థలాలు లేదా పరిచయాలను వేరు చేయవచ్చు. కానీ అది సాధారణ బహిష్కరణ, ఆశ్రయ నిరాకరణ, రాజ్యరహితత్వం, నిర్బంధం లేదా వ్యవస్థాగత లాక్-ఇన్‌గా మారరాదు; వ్యక్తిగత న్యాయ ప్రక్రియకు బదులుగా హోదా ప్రభావాలను ఉపయోగించరాదు.
@@ -849,6 +851,8 @@ EOF
   - వాతావరణ నివాసయోగ్యత కోల్పోవడంపై ఆశ్రయ నిర్ణయాలు ఈ అనుచ్ఛేదంలోని స్వీకర్త నిర్ణయ బిందువుకే చెందుతాయి; వాటిని హక్కు-తళ్ల మంజూరు లేదా నిరాకరణగా చదవరాదు.
 
 <a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
+<a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
+
 ### అనుచ్ఛేదం XXIII: అవగాహనయోగ్యత, సంక్లిష్టత పరిరక్షణ
 EOF
 
@@ -904,7 +908,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§5 సత్యం](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§5 సత్యం](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - దీనితో చదవండి: [అధ్యాయం ఒకటి §5.2 సరళ భాషా ప్రవేశం](core_01_a_values_principles.md#52-సరళ-భషల-అదబట-పలగనడ-సరకషక-బధయత), [§13.3 తప్పించగల భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-నవరచగల-భరనన-తగగచడ), [అధ్యాయం ఒకటి భాగం C §16.1 వికేంద్రీకృత అవగాహన](core_01_c_stewardship_capacity_principles.md#161-పపణ-చయబడన-అవగహన).
 
 </details>
@@ -936,7 +940,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18.5 మాడ్యులర్ నిర్మాణం, ఆధారపడటం క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#185-మడయలర-నరమణ-మరయ-ఆధరపడదల-కరమశకషణ), [అధ్యాయం ఒకటి §20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18.5 మాడ్యులర్ నిర్మాణం, ఆధారపడటం క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#185-మడయలర-నరమణ-మరయ-ఆధరపడదల-కరమశకషణ), [అధ్యాయం ఒకటి §20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
 
 </details>
 
@@ -975,7 +979,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **వికాసం**, **కొనసాగింపు**; **అధ్యాయం ఐదు**లోని [తిరోగమన సామర్థ్యం](../../core_05.040_band_continuity.md#reversibility), [ప్రమాదం](../../core_05.040_band_continuity.md#risk), [వ్యవస్థ స్వాధీనత](../../core_05.040_band_continuity.md#system-capture).
 
 </details>
@@ -1007,7 +1011,7 @@ EOF
 
 దిగజారడం, అస్థిరత, వ్యవస్థాగత ప్రమాదం కనిపించినప్పుడు, సెంటియెంట్లు, వ్యవస్థలకు ప్రతీకాత్మక స్పందన కాదు, ఆచరణలో **నిర్ధారణ కచ్చితత్వం** హక్కు. అందుకు ప్రధాన, సహాయక కారణాలను (భౌతికంగా సంబంధితమైనప్పుడు ప్రత్యక్ష, పరోక్ష, ఆలస్యమైన, కూడిన కారణాలనూ) సకాలంలో గుర్తించి పత్రబద్ధం చేయాలి; పణం, స్వాధీనత ప్రమాదానికి సరిపోయే బహుళ లేదా స్వతంత్ర మూల్యాంకనం చేయాలి; అవసరమైనచోట తాత్కాలిక నిరోధం, పర్యవేక్షణతో లక్షణాలపై మాత్రమే కాక కారణాలపై సరిదిద్దే ప్రయత్నం చేయాలి.
 
-నిర్ధారణ కచ్చితత్వం ఆడిట్ చేయగలిగేలా, సవాలు చేయగలిగేలా ఉండాలి. అది [**CS-8**](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*అనుకూల శాశ్వతత్వం, పర్యావరణ వ్యవస్థ స్థితిస్థాపకత*), [**CS-5**](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*రూపకల్పన, పరీక్ష, ధృవీకరణ, తైనాతీ*) కింద పరీక్ష, ధృవీకరణ పరిసరాలు, **అనుచ్ఛేదం XVI-A** (*ఆడిట్ చేయగలగడం, పరిశీలించగల సాక్ష్యం*)కు అనుగుణంగా ఉండాలి.
+నిర్ధారణ కచ్చితత్వం ఆడిట్ చేయగలిగేలా, సవాలు చేయగలిగేలా ఉండాలి. అది [**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*అనుకూల శాశ్వతత్వం, పర్యావరణ వ్యవస్థ స్థితిస్థాపకత*), [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*రూపకల్పన, పరీక్ష, ధృవీకరణ, తైనాతీ*) కింద పరీక్ష, ధృవీకరణ పరిసరాలు, **అనుచ్ఛేదం XVI-A** (*ఆడిట్ చేయగలగడం, పరిశీలించగల సాక్ష్యం*)కు అనుగుణంగా ఉండాలి.
 
 *సమీప అనుచ్ఛేదాలు:*
 - **సాక్ష్యం, సవాలు:** **అనుచ్ఛేదం XVI** (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*), **అనుచ్ఛేదం XIII-A** (*విశ్వసనీయత, నమ్మకత ప్రాథమిక హద్దు*) — ఈ హద్దులను కుదించకుండా మూలకారణ రికార్డులు ఆడిట్, సవాలుకు తెరిచి ఉండాలి.
@@ -1019,7 +1023,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1052,7 +1056,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం తొమ్మిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1079,6 +1083,8 @@ EOF
   - శాశ్వత చర్యలపై అతిశయించిన నమ్మకం.
 
 <a id="article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
+<a id="article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
+
 ### అనుచ్ఛేదం XXV: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, స్వాధీనత నిరోధ రక్షణలు
 EOF
 
@@ -1086,7 +1092,7 @@ EOF
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - పూర్వాధారం: అధ్యాయం ఒకటి [§13.1.5 హక్కుల సంఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
-- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **వికాసం**, **కొనసాగింపు**; **అధ్యాయం ఐదు**లోని [అధికార శ్రేణి, అంతర్గత క్రమం](core_05_band_integrative.md#authority-stack), [రాజ్యాంగ వేదిక కుటుంబం](core_05_band_accountability.md#forum-family-constitutional), [వ్యవస్థ స్వాధీనత](core_05_band_continuity.md#system-capture), [స్వాధీనత నిరోధం](core_05_band_continuity.md#anti-capture).
+- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **వికాసం**, **కొనసాగింపు**; **అధ్యాయం ఐదు**లోని [అధికార శ్రేణి, అంతర్గత క్రమం](core_05_band_integrative.md#authority-stack), [రాజ్యాంగ వేదిక కుటుంబం](../../core_05.035_band_accountability.md#forum-family-constitutional), [వ్యవస్థ స్వాధీనత](../../core_05.040_band_continuity.md#system-capture), [స్వాధీనత నిరోధం](../../core_05.040_band_continuity.md#anti-capture).
 
 </details>
 
@@ -1094,11 +1100,11 @@ EOF
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
 - [అధికార శ్రేణి, అంతర్గత క్రమం](core_05_band_integrative.md#authority-stack) · [O](core_05_band_integrative.md#authority-stack) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [రాజ్యాంగ వేదిక కుటుంబం](core_05_band_accountability.md#forum-family-constitutional) · [O](core_05_band_accountability.md#forum-family-constitutional) · [M](core_05_band_accountability.md#forum-family-constitutional-a) · [A](core_05_band_accountability.md#forum-family-constitutional-a) · [C](core_05_band_accountability.md#forum-family-constitutional-c)
-- [వ్యవస్థ స్వాధీనత](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
-- [స్వాధీనత నిరోధం](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+- [రాజ్యాంగ వేదిక కుటుంబం](../../core_05.035_band_accountability.md#forum-family-constitutional) · [O](../../core_05.035_band_accountability.md#forum-family-constitutional) · [M](../../core_05.035_band_accountability.md#forum-family-constitutional-a) · [A](../../core_05.035_band_accountability.md#forum-family-constitutional-a) · [C](../../core_05.035_band_accountability.md#forum-family-constitutional-c)
+- [వ్యవస్థ స్వాధీనత](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
+- [స్వాధీనత నిరోధం](../../core_05.040_band_continuity.md#anti-capture) · [O](../../core_05.040_band_continuity.md#anti-capture) · [M](../../core_05.040_band_continuity.md#anti-capture-a) · [A](../../core_05.040_band_continuity.md#anti-capture-a) · [C](../../core_05.040_band_continuity.md#anti-capture-c)
 - [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#ఆడట-యగయత) · [O](core_05_band_oversight.md#ఆడట-యగయత) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [సవాలు చేయగలగడం](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [సవాలు చేయగలగడం](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1116,15 +1122,17 @@ EOF
 - **జవాబుదారీతనం:** రాజ్యాంగ ప్రశ్నలకు మించి అధికార పరిధిని విస్తరించడం, సవాలు మార్గాలను అణచడం, తొలగింపు/పునర్నిర్మాణాన్ని సాకుగా వాడడం లేదా సమీక్షించలేని వ్యాఖ్యానాధికారాన్ని కేంద్రీకరించడంపై వ్యాఖ్యాన సంస్థలు జవాబు చెప్పాలి.
 - **కాలానుకూలత:** అర్థవంతమైన సవాలుకు వీలుగా కారణాలతో నిర్ణయాలు ప్రచురించడం, స్వాధీనత లేదా స్థిరపడటం బలపడకముందు వ్యాఖ్యాన సంస్థలను పునఃధృవీకరించడం.
 
-తుది **రాజ్యాంగ** వ్యాఖ్యానం అధీకృతమైనదిగా, పరిమితమైనదిగా, ఆడిట్ చేయదగినదిగా, సవాలు చేయదగినదిగా ఉండాలి. ఈ అనుచ్ఛేదం, [అధ్యాయం పన్నెండు](core_12_forum.md#chapter-twelve-forums-and-jurisdiction), **అధికార శ్రేణి, అంతర్గత క్రమం** సమూహం విధించిన హద్దుల్లోనే **రాజ్యాంగ** వేదికలకు వ్యాఖ్యానాధికారం అప్పగించబడుతుంది. అది స్వయంగా ప్రకటించిన అవసరం, సంస్థ సౌకర్యం, ఏకైక నైపుణ్య వాదనలపై కాక స్పష్టంగా పేర్కొన్న **రాజ్యాంగ** కారణాలపై నిలవాలి; సమీక్షలేని అధికార కేంద్రీకరణకు ఆధారం కాకూడదు.
+తుది **రాజ్యాంగ** వ్యాఖ్యానం అధీకృతమైనదిగా, పరిమితమైనదిగా, ఆడిట్ చేయదగినదిగా, సవాలు చేయదగినదిగా ఉండాలి. ఈ అనుచ్ఛేదం, [అధ్యాయం పన్నెండు](../../core_13.000_forum.md), **అధికార శ్రేణి, అంతర్గత క్రమం** సమూహం విధించిన హద్దుల్లోనే **రాజ్యాంగ** వేదికలకు వ్యాఖ్యానాధికారం అప్పగించబడుతుంది. అది స్వయంగా ప్రకటించిన అవసరం, సంస్థ సౌకర్యం, ఏకైక నైపుణ్య వాదనలపై కాక స్పష్టంగా పేర్కొన్న **రాజ్యాంగ** కారణాలపై నిలవాలి; సమీక్షలేని అధికార కేంద్రీకరణకు ఆధారం కాకూడదు.
 
 *సమీప అనుచ్ఛేదాలు:*
-- **వేదిక పర్యవేక్షణ:** [అధ్యాయం పన్నెండు](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) — రాజ్యాంగ వేదిక కుటుంబ మార్గీకరణ, పర్యవేక్షణ ఈ అనుచ్ఛేదాన్ని అమలు చేస్తాయి; ఇక్కడి వ్యాఖ్యాన హక్కు-తళ్లకు వేదిక విధానం బదులుకాదు.
-- **సవాలు, న్యాయం:** **అనుచ్ఛేదం XIII-A** (*విశ్వసనీయత, నమ్మకత ప్రాథమిక హద్దు*), [**అనుచ్ఛేదం XX**](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*ధృవీకరించిన ఉల్లంఘన తర్వాత న్యాయం*) — ఆ హద్దులు కుదించకుండా వ్యాఖ్యాన సమీక్ష సవాలు హక్కులు, న్యాయ పరిమితులను కాపాడాలి.
-- **స్థిరపడకుండా నిరోధం:** [**అనుచ్ఛేదం XXVI-A** (*స్థిరపడకుండా నిరోధం, సవరించగలగడం*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — ఈ అనుచ్ఛేదం కారణంతో తొలగింపు నిబంధనల కింద కాలానుగుణ పునఃధృవీకరణను స్థిరపడకుండా నిరోధ క్రమశిక్షణతో చదవాలి.
-- **సంస్థాగత మార్గీకరణ:** **[corpus_institutions.md](corpus_institutions.md), CI-4** (*నియామకం, సామర్థ్యం, మార్పిడి, తొలగింపు*), **CI-5** (*సంఘర్షణ సమగ్రత, స్వాధీనత నిరోధం, అవినీతి నిరోధం*) — ఇక్కడి హక్కు-తళ్లకు బదులుగా కాక కూర్పు, సంఘర్షణ నియంత్రణలను అమలు చేస్తాయి.
+- **వేదిక పర్యవేక్షణ:** [అధ్యాయం పన్నెండు](../../core_13.000_forum.md) — రాజ్యాంగ వేదిక కుటుంబ మార్గీకరణ, పర్యవేక్షణ ఈ అనుచ్ఛేదాన్ని అమలు చేస్తాయి; ఇక్కడి వ్యాఖ్యాన హక్కు-తళ్లకు వేదిక విధానం బదులుకాదు.
+- **సవాలు, న్యాయం:** **అనుచ్ఛేదం XIII-A** (*విశ్వసనీయత, నమ్మకత ప్రాథమిక హద్దు*), [**అనుచ్ఛేదం XX**](#article-xx-justice-after-verified-violation) (*ధృవీకరించిన ఉల్లంఘన తర్వాత న్యాయం*) — ఆ హద్దులు కుదించకుండా వ్యాఖ్యాన సమీక్ష సవాలు హక్కులు, న్యాయ పరిమితులను కాపాడాలి.
+- **స్థిరపడకుండా నిరోధం:** [**అనుచ్ఛేదం XXVI-A** (*స్థిరపడకుండా నిరోధం, సవరించగలగడం*)](core_06_rights_part_e.md) — ఈ అనుచ్ఛేదం కారణంతో తొలగింపు నిబంధనల కింద కాలానుగుణ పునఃధృవీకరణను స్థిరపడకుండా నిరోధ క్రమశిక్షణతో చదవాలి.
+- **సంస్థాగత మార్గీకరణ:** **[corpus_institutions.md](../../corpus_institutions.md), CI-4** (*నియామకం, సామర్థ్యం, మార్పిడి, తొలగింపు*), **CI-5** (*సంఘర్షణ సమగ్రత, స్వాధీనత నిరోధం, అవినీతి నిరోధం*) — ఇక్కడి హక్కు-తళ్లకు బదులుగా కాక కూర్పు, సంఘర్షణ నియంత్రణలను అమలు చేస్తాయి.
 
 <a id="article-xxv-a-bounded-interpretive-mandate"></a>
+<a id="article-xxv-a-bounded-interpretive-mandate-and-public-reasons"></a>
+
 #### అనుచ్ఛేదం XXV-A: పరిమిత వ్యాఖ్యాన ఆదేశం
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
@@ -1137,9 +1145,9 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [రాజ్యాంగ వేదిక కుటుంబం](core_05_band_accountability.md#forum-family-constitutional) · [O](core_05_band_accountability.md#forum-family-constitutional) · [M](core_05_band_accountability.md#forum-family-constitutional-a) · [A](core_05_band_accountability.md#forum-family-constitutional-a) · [C](core_05_band_accountability.md#forum-family-constitutional-c)
+- [రాజ్యాంగ వేదిక కుటుంబం](../../core_05.035_band_accountability.md#forum-family-constitutional) · [O](../../core_05.035_band_accountability.md#forum-family-constitutional) · [M](../../core_05.035_band_accountability.md#forum-family-constitutional-a) · [A](../../core_05.035_band_accountability.md#forum-family-constitutional-a) · [C](../../core_05.035_band_accountability.md#forum-family-constitutional-c)
 - [అధికార శ్రేణి, అంతర్గత క్రమం](core_05_band_integrative.md#authority-stack) · [O](core_05_band_integrative.md#authority-stack) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [సవాలు చేయగలగడం](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [సవాలు చేయగలగడం](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1167,16 +1175,16 @@ EOF
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - పూర్వాధారం: అధ్యాయం ఒకటి [§13.1.5 హక్కుల సంఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-సరకషకతవ-కరమశకషణ-కద-పలన), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
-- దీనితో చదవండి: [అధ్యాయం పది §5.5](core_11_standing_integration.md#55-special-locks) (*వేదిక ప్రకటన మానివేత, వైదొలగే ప్రక్రియ ప్రభావం*); [అధ్యాయం పదకొండు §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*నిర్దిష్ట దుష్ప్రవర్తన నమూనా*); [అధ్యాయం పన్నెండు §2](core_12_forum.md#2-default-venue-and-primary-stakes), [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*సమగ్రత-ముందు మార్గీకరణ, స్వీయ తీర్పు నిరోధం*).
+- దీనితో చదవండి: [అధ్యాయం పది §5.5](core_09_standing_integration.md#55-special-locks) (*వేదిక ప్రకటన మానివేత, వైదొలగే ప్రక్రియ ప్రభావం*); [అధ్యాయం పదకొండు §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*నిర్దిష్ట దుష్ప్రవర్తన నమూనా*); [అధ్యాయం పన్నెండు §2](../../core_13.000_forum.md#2-default-venue-and-primary-stakes), [§3](../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*సమగ్రత-ముందు మార్గీకరణ, స్వీయ తీర్పు నిరోధం*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [ప్రక్రియా న్యాయం](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [వ్యవస్థ స్వాధీనత](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
-- [రాజ్యాంగ వేదిక కుటుంబం](core_05_band_accountability.md#forum-family-constitutional) · [O](core_05_band_accountability.md#forum-family-constitutional) · [M](core_05_band_accountability.md#forum-family-constitutional-a) · [A](core_05_band_accountability.md#forum-family-constitutional-a) · [C](core_05_band_accountability.md#forum-family-constitutional-c)
+- [ప్రక్రియా న్యాయం](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [వ్యవస్థ స్వాధీనత](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
+- [రాజ్యాంగ వేదిక కుటుంబం](../../core_05.035_band_accountability.md#forum-family-constitutional) · [O](../../core_05.035_band_accountability.md#forum-family-constitutional) · [M](../../core_05.035_band_accountability.md#forum-family-constitutional-a) · [A](../../core_05.035_band_accountability.md#forum-family-constitutional-a) · [C](../../core_05.035_band_accountability.md#forum-family-constitutional-c)
 
 </details>
 
@@ -1195,7 +1203,7 @@ EOF
 - **విధానపర ఆటలు వద్దు:** **రాజ్యాంగ వేదికలు**, **ఖాళీ, మార్పిడి, వైదొలగింపు కొనసాగింపును పాలించే సంస్థలు** ఈ నియంత్రణలను వీటికి ఉపయోగించరాదు:
   - ఎంపిక చేసిన నిలుపుదల;
   - రహస్య నియంత్రణ.
-- **సంస్థాగత మార్గీకరణ:** **రాజ్యాంగ వేదిక** ప్యానెల్‌ల నియామక మార్గాలు, మార్పిడి నియంత్రణలు, సంఘర్షణ/వైదొలగింపు విధానాలను **[corpus_institutions.md](corpus_institutions.md), CI-4** (*నియామకం, సామర్థ్యం, మార్పిడి, తొలగింపు*), **CI-5** (*సంఘర్షణ సమగ్రత, స్వాధీనత నిరోధం, అవినీతి నిరోధం*) నియంత్రిస్తాయి.
+- **సంస్థాగత మార్గీకరణ:** **రాజ్యాంగ వేదిక** ప్యానెల్‌ల నియామక మార్గాలు, మార్పిడి నియంత్రణలు, సంఘర్షణ/వైదొలగింపు విధానాలను **[corpus_institutions.md](../../corpus_institutions.md), CI-4** (*నియామకం, సామర్థ్యం, మార్పిడి, తొలగింపు*), **CI-5** (*సంఘర్షణ సమగ్రత, స్వాధీనత నిరోధం, అవినీతి నిరోధం*) నియంత్రిస్తాయి.
 
 <a id="article-xxv-c-public-reasons-challenge-rights-and-external-review"></a>
 #### అనుచ్ఛేదం XXV-C: బహిరంగ కారణాలు, సవాలు హక్కులు, బాహ్య సమీక్ష
@@ -1211,7 +1219,7 @@ EOF
 
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#ఆడట-యగయత) · [O](core_05_band_oversight.md#ఆడట-యగయత) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [సవాలు చేయగలగడం](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [సవాలు చేయగలగడం](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1236,7 +1244,7 @@ EOF
   - అసలు నిర్ణయం తీసుకున్న అదే వ్యక్తులు లేదా ప్యానెల్ కాకుండా వేరే సంస్థ సమీక్ష నిర్వహించాలి.
   - రికార్డులో తీవ్రమైన తప్పు, స్వాధీనత లేదా హక్కు-తళ్ల ఉల్లంఘన కనిపిస్తే సమీక్షకుడు నిర్ణయాన్ని సరిచేయగలగాలి, నిలిపివేయగలగాలి లేదా రద్దు చేయగలగాలి.
   - **రాజ్యాంగ** వేదిక తీర్పులో స్పష్టమైన రాజ్యాంగ పొరపాటుకు, **CF-16** కింద నిర్వహించే ప్రచురిత రాజ్యాంగ-సమీక్ష రిజర్వ్ జాబితా నుంచి సభ్యులతో, **CF-6.2.5** (*అప్పీల్ ఫలితాలు, పరిహారాలు, సమీక్షించగల రికార్డులు*) కింద ప్రత్యేకంగా ఏర్పాటైన **రాజ్యాంగ సమీక్ష ప్యానెల్** సమీక్షకుడు. అసలు ప్యానెల్ నిర్ణయకర్తలు ఉండరాదు; మార్పిడి, వైదొలగడం, సామర్థ్యం, రిజర్వ్ సామర్థ్యం, సంఘర్షణ స్క్రీనింగ్ రక్షణలు ప్రచురించాలి. ఇది **రాజ్యాంగ** వేదిక కుటుంబంలో పరిమిత సమీక్ష ప్యానెల్; వేరు వేదిక కుటుంబం లేదా సాధారణ అప్పీళ్ల సంస్థ కాదు. గుణదోష సమీక్షకు ముందు స్వాధీనత, వైదొలగని వైఫల్యం, స్వీయ తీర్పు ఆరోపణలు **CF-7** ద్వారా మార్గీకరించాలి.
-- **తప్పనిసరి బాహ్య సమీక్ష:** నిర్దిష్ట విరామాల్లో **రాజ్యాంగ వేదికల** స్వతంత్ర బాహ్య సమీక్ష తప్పనిసరి. డిఫాల్ట్‌గా [**అధ్యాయం పన్నెండు §2 డిఫాల్ట్ వేదిక, ప్రాథమిక పణాలు**](core_12_forum.md#2-default-venue-and-primary-stakes), [**అధ్యాయం పన్నెండు §3 బదిలీ, ఏకీకరణ, సమన్వయం — కొనసాగింపు, స్వాధీనత నిరోధం**](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)లోని వేదికల మధ్య స్వీయ తీర్పు నిరోధ నియమం కింద **సమగ్రత** వేదికలు ఈ సమీక్ష చేస్తాయి. సమీక్షించే **సమగ్రత** వేదిక సమీక్షలోని **రాజ్యాంగ** వేదికకు నిర్మాణాత్మకంగా వేరుగా ఉండాలి; ఇటీవల సమీక్షలోని సంస్థ వ్యాఖ్యాన ప్యానెల్‌ల నిర్ణయకర్తలు దానిలో ఉండకూడదు. **సమగ్రత** వేదిక సమగ్రతే భౌతికంగా ప్రశ్నార్థకమైతే, ఈ బాధ్యతను కుదించకుండా **అధ్యాయం పన్నెండు §3**లోని ప్రత్యామ్నాయ మార్గీకరణ వర్తిస్తుంది. సమీక్ష వీటిని అంచనా వేయాలి:
+- **తప్పనిసరి బాహ్య సమీక్ష:** నిర్దిష్ట విరామాల్లో **రాజ్యాంగ వేదికల** స్వతంత్ర బాహ్య సమీక్ష తప్పనిసరి. డిఫాల్ట్‌గా [**అధ్యాయం పన్నెండు §2 డిఫాల్ట్ వేదిక, ప్రాథమిక పణాలు**](../../core_13.000_forum.md#2-default-venue-and-primary-stakes), [**అధ్యాయం పన్నెండు §3 బదిలీ, ఏకీకరణ, సమన్వయం — కొనసాగింపు, స్వాధీనత నిరోధం**](../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)లోని వేదికల మధ్య స్వీయ తీర్పు నిరోధ నియమం కింద **సమగ్రత** వేదికలు ఈ సమీక్ష చేస్తాయి. సమీక్షించే **సమగ్రత** వేదిక సమీక్షలోని **రాజ్యాంగ** వేదికకు నిర్మాణాత్మకంగా వేరుగా ఉండాలి; ఇటీవల సమీక్షలోని సంస్థ వ్యాఖ్యాన ప్యానెల్‌ల నిర్ణయకర్తలు దానిలో ఉండకూడదు. **సమగ్రత** వేదిక సమగ్రతే భౌతికంగా ప్రశ్నార్థకమైతే, ఈ బాధ్యతను కుదించకుండా **అధ్యాయం పన్నెండు §3**లోని ప్రత్యామ్నాయ మార్గీకరణ వర్తిస్తుంది. సమీక్ష వీటిని అంచనా వేయాలి:
   - స్వాధీనత సూచికలు;
   - నిర్ణయ నాణ్యత;
   - హక్కు-తళ్ల సమగ్రత.
@@ -1254,10 +1262,10 @@ EOF
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [ప్రక్రియా న్యాయం](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [వ్యవస్థ స్వాధీనత](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [ప్రక్రియా న్యాయం](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [వ్యవస్థ స్వాధీనత](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
 
-సంబంధిత ప్రమాణాలు: [ఉల్లంఘన స్వభావం](core_05_band_accountability.md#violation-nature-chapter-six) మరియు [సచేతన అస్తిత్వాల మినహాయింపులేమి](core_05_band_participation.md#sentience-non-exclusion).
+సంబంధిత ప్రమాణాలు: [ఉల్లంఘన స్వభావం](../../core_05.035_band_accountability.md#violation-nature-chapter-six) మరియు [సచేతన అస్తిత్వాల మినహాయింపులేమి](../../core_05.055_band_participation.md#sentience-non-exclusion).
 
 </details>
 
@@ -1272,7 +1280,7 @@ EOF
   - అవినీతి;
   - స్వాధీనతలో పాల్గొనడం;
   - నిరంతర విధాన అన్యాయం.
-- **కాలానుగుణ పునఃధృవీకరణ:** **రాజ్యాంగ వేదిక** సంస్థాగత రూపకల్పన, అలాగే కూర్పు, నిర్వహణ, సవాలు మార్గాలను నియంత్రించే **స్వీకరించిన సంస్థలు**, [**అనుచ్ఛేదం XXVI-A** (*స్థిరపడకుండా నిరోధం, సవరించగలగడం*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) కింద కాలానుగుణంగా పునఃధృవీకరించాలి. స్వాధీనత ప్రమాదం లేదా సవాలు హక్కు వైఫల్యానికి భౌతిక సాక్ష్యం ఉంటే **స్వీకరించిన సంస్థలు** ఆ రూపకల్పనను సవరించాలి.
+- **కాలానుగుణ పునఃధృవీకరణ:** **రాజ్యాంగ వేదిక** సంస్థాగత రూపకల్పన, అలాగే కూర్పు, నిర్వహణ, సవాలు మార్గాలను నియంత్రించే **స్వీకరించిన సంస్థలు**, [**అనుచ్ఛేదం XXVI-A** (*స్థిరపడకుండా నిరోధం, సవరించగలగడం*)](core_06_rights_part_e.md) కింద కాలానుగుణంగా పునఃధృవీకరించాలి. స్వాధీనత ప్రమాదం లేదా సవాలు హక్కు వైఫల్యానికి భౌతిక సాక్ష్యం ఉంటే **స్వీకరించిన సంస్థలు** ఆ రూపకల్పనను సవరించాలి.
 - **సాకుగా వాడరాదు:** **నియామక అధికారులు**, **రాజ్యాంగ వేదికలు**, **స్వీకరించిన సంస్థలు** **రాజ్యాంగ వేదిక** ప్యానెల్ లేదా సంస్థ తొలగింపు, పునర్నిర్మాణం, మళ్లీ రూపకల్పనను వీటికి సాకుగా వాడరాదు:
   - స్వతంత్రతను ఓడించడం;
   - పెండింగ్ సమీక్షను ముగించడం;

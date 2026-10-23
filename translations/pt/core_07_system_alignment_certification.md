@@ -12,10 +12,10 @@
 > | Parte | Arquivo | Governa |
 > |------|------|------|
 > | **Parte A — Avaliação** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: propósito, classe do sistema, avaliação do sistema inteiro (incluindo o alcance da Carta frente a limites funcionais), ganchos de avaliação de domínio, percursos ilustrativos por classe |
-> | **Parte B — Registro e processo** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: registro de certificação (incluindo campos da [Carta](core_05_band_continuity.md#charter) que governa), transparência/impugnabilidade, papéis de fórum, sequência de supervisão, ponte de trajetória, reabertura — numeração contínua do capítulo a partir da Parte A §10 |
+> | **Parte B — Registro e processo** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: registro de certificação (incluindo campos da [Carta](../../core_05.040_band_continuity.md) que governa), transparência/impugnabilidade, papéis de fórum, sequência de supervisão, ponte de trajetória, reabertura — numeração contínua do capítulo a partir da Parte A §10 |
 >
 > As âncoras herdadas do antigo Capítulo Sete de um só arquivo se conservam nos arquivos da Parte A e da Parte B. Os links genéricos ao **Capítulo Sete** em outros arquivos se roteiam à parte adequada pelo número de seção.
-> A formação institucional da Carta, os campos mínimos e os deveres de revisão periódica vivem em [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** — o Capítulo Sete consome esses campos; não os redefine.
+> A formação institucional da Carta, os campos mínimos e os deveres de revisão periódica vivem em [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** — o Capítulo Sete consome esses campos; não os redefine.
 
 >
 > **Anterior (este idioma):** [core_06_rights_part_d.md](core_06_rights_part_d.md)
@@ -30,7 +30,7 @@
 *Em termos simples: o Capítulo Sete está partido em dois — a Parte A para como avaliar, a Parte B para o registro e o processo. Leia-os como um só capítulo.*
 
 Leia primeiro a **Parte A** para os requisitos de avaliação; a **Parte B** para o registro, o processo de fórum e a ponte de trajetória.
-Sob a perna de **supervisão** da Tétrade, a supervisão exige auditoria; o Capítulo Sete é um processo de auditoria especialmente grande e de alta aposta entre outros (revisão de alinhamento supervisionada por fórum com resultados de reconhecimento). Os pisos de auditoria permanecem no **Artigo XVI** e na [Auditabilidade](core_05_band_oversight.md#auditability) do Capítulo Cinco.
+Sob a perna de **supervisão** da Tétrade, a supervisão exige auditoria; o Capítulo Sete é um processo de auditoria especialmente grande e de alta aposta entre outros (revisão de alinhamento supervisionada por fórum com resultados de reconhecimento). Os pisos de auditoria permanecem no **Artigo XVI** e na [Auditabilidade](../../core_05.050_band_oversight.md#auditability) do Capítulo Cinco.
 - [Capítulo Sete, Parte A — Avaliação](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - [Capítulo Sete, Parte B — Registro e processo](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 ---

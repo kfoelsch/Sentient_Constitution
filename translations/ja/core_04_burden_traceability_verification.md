@@ -49,7 +49,7 @@
 | **4 — 安全限度** | 本物の安全保障の限度は許される；口実の遮断は許されない | [§4](#4-安全保障に制約された観測可能性と検証の規則) |
 | **5 — 何が数えるか** | 証拠は本物で、完全で、独立し、持続していなければならない | [§5](#5-遵守証拠の標準) |
 
-**平たい言葉のアクセス。** [第一章 §3.4 — 平たい言葉のアクセス可能性（参加と責務ある管理の義務）](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)は、感知者が権利を行使し、決定に異議を申し立て、または遵守を検証するために用いる統治、裁定、運用の材料に適用される。平たい言葉は、第二から第四章が求めるものを**変えず**、減らさない。平たい言葉の版が、ここでの定義または検証の規則と食い違うなら、それらの規則が統治する。専門用語、積み重ねた複雑さ、または不透明さを用いて[争訟可能性](../../core_05.035_band_accountability.md#contestability)または[Article XVI：監査、透明性、独立検証](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)へのアクセスを遮断することは、本章および**第一章 §3.4**のもとで不遵守である。
+**平たい言葉のアクセス。** [第一章 §3.4 — 平たい言葉のアクセス可能性（参加と責務ある管理の義務）](core_01_a_values_principles.md)は、感知者が権利を行使し、決定に異議を申し立て、または遵守を検証するために用いる統治、裁定、運用の材料に適用される。平たい言葉は、第二から第四章が求めるものを**変えず**、減らさない。平たい言葉の版が、ここでの定義または検証の規則と食い違うなら、それらの規則が統治する。専門用語、積み重ねた複雑さ、または不透明さを用いて[争訟可能性](../../core_05.035_band_accountability.md#contestability)または[Article XVI：監査、透明性、独立検証](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)へのアクセスを遮断することは、本章および**第一章 §3.4**のもとで不遵守である。
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 定義の追跡可能性要件
@@ -122,7 +122,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：[第四章、第 3 節 — 追跡可能性の観測可能性要件](#3-追跡可能性の観測可能性要件)；[第一章、第 8.2 節 — 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)。
+- 上流：原則：[第四章、第 3 節 — 追跡可能性の観測可能性要件](#3-追跡可能性の観測可能性要件)；[第一章、第 8.2 節 — 認識的開示の制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)。
 - 下流：[第四章、第 5 節 — 遵守証拠の標準](#5-遵守証拠の標準)；[corpus_systems.md](../../corpus_systems.md)、**CS-2 — 情報の種類と取扱い**、および **CS-5** — 運用暗号、資格情報、および情報の種類の取扱い。
 - あわせて読む：[第五章のクラスター定義（予見可能性の勤勉）](../../core_05.050_band_oversight.md#foreseeability) — 合理的に予見可能な条件のもとで検証を予測可能に妨げる設計の選択は、述べられた安全保障の根拠にかかわらず不遵守である；[第五章 真理（憲法上の制約）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)および[第五章 安全（制約）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) — 暗号および情報の種類の取扱いは、**第 2** 節、**第 3** 節、または**第 5** 節を置き換えてはならない；環境分離の制約が実質的なところでは **Articles VII-A**、**VII-B**、**XVI-A**、および **XVII-A**。
 
@@ -158,7 +158,7 @@
 
 - 上流：[第四章、第 1 節から第 4 節](#1-排他的執行と負担の割当)；[第二章、§1 — 目的と役割](core_02_definition_structure.md#1-目的と役割)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-定義の誠実性要件)；[第二章、§3 定義スタックを通じた一貫性](core_02_definition_structure.md#3-定義スタックを通じた一貫性)；[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-定義の誠実性と回避防止の制約)；[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](core_03_definition_integrity.md#2-観察可能なシステム振る舞いからの不遵守)；[第三章、§2.6 不確実性の誠実性と非搾取の制約](core_03_definition_integrity.md#26-不確実性の誠実性と非搾取の制約) — 実体的な定義と不遵守の規則；**§4** は証拠層の要件のみを述べ、それらの規則を再述しない。
 - 下流：[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
-- あわせて読む：[第四章、第 2 節 — 定義の追跡可能性要件](#2-定義の追跡可能性要件) — 実質的に求められるいかなる**第五章**定義の呼び出しまたは正しい適用の失敗も、関連する評価、証拠、および遵守判定を全面的に無効にする；[第一章、§6 — 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；尺度合わせが感知者の福祉と長期地平の安定のあいだの取引に影響するところでは[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；[第五章 安全（制約）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[第五章 真理（憲法上の制約）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)、および[第五章 認識的誠実性](../../core_05.050_band_oversight.md#epistemic-integrity) — 経験的、予測的、または因果的主張についての科学に基づく証拠の整合。
+- あわせて読む：[第四章、第 2 節 — 定義の追跡可能性要件](#2-定義の追跡可能性要件) — 実質的に求められるいかなる**第五章**定義の呼び出しまたは正しい適用の失敗も、関連する評価、証拠、および遵守判定を全面的に無効にする；[第一章、§6 — 過程衝突の解決](core_01_b_interaction_interpretation.md)；尺度合わせが感知者の福祉と長期地平の安定のあいだの取引に影響するところでは[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；[第五章 安全（制約）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[第五章 真理（憲法上の制約）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)、および[第五章 認識的誠実性](../../core_05.050_band_oversight.md#epistemic-integrity) — 経験的、予測的、または因果的主張についての科学に基づく証拠の整合。
 
 </details>
 
@@ -174,7 +174,7 @@
 - **観察可能**、**検証可能**、求められる範囲に対して**完全**、時間を通じて**持続**、かつシステム影響、依存、リスクに比例した厳格さにおいて**十分**であり、独立監査と敵対的試験に耐えること
 - 合理的に達成可能なところでは**独立妥当性確認**を用いること；欠如は比例性の制約のもとで正当化されなければならない
 - 証拠の生成、開示、検証についての**第 4 節**の制約を遵守すること。適用されるところでは暗号および情報の種類の取扱いを含む
-- 同じ評価において憲法上の価値または制約が衝突するところでは、[第一章、§6 — 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)と一貫したままでいること
+- 同じ評価において憲法上の価値または制約が衝突するところでは、[第一章、§6 — 過程衝突の解決](core_01_b_interaction_interpretation.md)と一貫したままでいること
 - 遵守、分類、または統治に実質的な**経験的**、**予測的**、または**因果的**主張については、比例するところでは**科学的誠実性**を反映すること — 試験可能または審査可能な方法、文書化された仮定と限界、それらが決定に関わるところでの帰無結果または失敗した再現の抑制なし、および新たな証拠に基づいて改訂可能な結論
 
 **次のものは第 1 節のもとでの証明の負担を満たさない：**

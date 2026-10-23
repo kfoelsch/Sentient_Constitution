@@ -216,7 +216,7 @@ Belirsizlik, maddi olarak ilgili tanım bileşenleri için kesin uyum gösterimi
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [Üçüncü Bölüm, kesit 2 — Gözlemlenebilir sistem davranışından uyumsuzluk](#2-gözlemlenebilir-sistem-davranışından-uyumsuzluk); [İkinci Bölüm, §2 Tanım bütünlüğü gereği](core_02_definition_structure.md#2-tanım-bütünlüğü-gereği).
-- Aşağı: [Dördüncü Bölüm, kesit 2 — Tanım izlenebilirliği gereği](core_04_burden_traceability_verification.md#2-tanım-izlenebilirliği-gereği); [Dokuzuncu Bölüm — Sistem hizalama belgelendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Onuncu Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [On Birinci Bölüm — Güzergâh etkileri ve bütünleştirme](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Anayasal pusula ve küme haritası](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- Aşağı: [Dördüncü Bölüm, kesit 2 — Tanım izlenebilirliği gereği](core_04_burden_traceability_verification.md#2-tanım-izlenebilirliği-gereği); [Dokuzuncu Bölüm — Sistem hizalama belgelendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Onuncu Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [On Birinci Bölüm — Güzergâh etkileri ve bütünleştirme](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Anayasal pusula ve küme haritası](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Birlikte oku: [Uyumsuzluk bulgu profili](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — profil alanları için kanonik O/M/A/C evi; [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@ Bir kurumun güzergâhı, kurum değerlendirilen özne olduğunda ya da uyumsuzl
 <a id="34-operational-constraints"></a>
 #### 3.4 İşlemsel kısıtlar
 
-Uyumsuzluk, ortak uygulama corpusundaki işlemsel kısıtlara karşı da bulunabilir. Varsayılan bulgu profilleri ve onların o bulgulara nasıl bağlandığı orada ele alınır — bu bölümde değil. Bkz. [CJS-3.1 Anayasal pusula ve küme haritası](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+Uyumsuzluk, ortak uygulama corpusundaki işlemsel kısıtlara karşı da bulunabilir. Varsayılan bulgu profilleri ve onların o bulgulara nasıl bağlandığı orada ele alınır — bu bölümde değil. Bkz. [CJS-3.1 Anayasal pusula ve küme haritası](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

@@ -12,10 +12,10 @@
 > | 部 | ファイル | 所管 |
 > |------|------|------|
 > | **A部 — 評価** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10：目的、システムクラス、システム全体の評価（チャーター範囲と機能的境界の対比を含む）、領域評価フック、クラス別の例示的な通読 |
-> | **B部 — 記録と過程** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16：認証記録（統治する[チャーター](core_05_band_continuity.md#charter)の欄を含む）、透明性／争訟可能性、フォーラムの役割、監督系列、軌跡の橋、再開 — A部 §10 からの連続した章番号 |
+> | **B部 — 記録と過程** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16：認証記録（統治する[チャーター](../../core_05.040_band_continuity.md)の欄を含む）、透明性／争訟可能性、フォーラムの役割、監督系列、軌跡の橋、再開 — A部 §10 からの連続した章番号 |
 >
 > かつての単一ファイル第七章からの継承アンカーは、A部および B部のファイルに保存されている。他ファイルの一般的な**第七章**リンクは、節番号によって適切な部へ経路づけられる。
-> 制度的なチャーターの形成、最小欄、および定期審査の義務は [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** に住む — 第七章はそれらの欄を消費する；再定義しない。
+> 制度的なチャーターの形成、最小欄、および定期審査の義務は [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** に住む — 第七章はそれらの欄を消費する；再定義しない。
 
 >
 > **前（本言語）：** [core_06_rights_part_d.md](core_06_rights_part_d.md)

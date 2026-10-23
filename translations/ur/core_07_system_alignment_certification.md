@@ -12,10 +12,10 @@
 > | حصہ | فائل | مالک |
 > |------|------|------|
 > | **حصہ الف — جائزہ** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: مقصد، نظام طبقہ، پورے نظام کا جائزہ (بشمول منشور کے دائرے بمقابلہ عملی سرحدیں)، دائرہ جائزہ کے ہک، طبقہ کے مثالی چکر |
-> | **حصہ ب — ریکارڈ اور عمل** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: سرٹیفیکیشن ریکارڈ (بشمول حاکم [منشور](core_05_band_continuity.md#charter) کے خانے)، شفافیت/چیلنج پذیری، فورم کردار، نگرانی ترتیب، کیفیت کا پل، دوبارہ کھولنا — حصہ الف §10 سے مسلسل باب نمبر |
+> | **حصہ ب — ریکارڈ اور عمل** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: سرٹیفیکیشن ریکارڈ (بشمول حاکم [منشور](../../core_05.040_band_continuity.md) کے خانے)، شفافیت/چیلنج پذیری، فورم کردار، نگرانی ترتیب، کیفیت کا پل، دوبارہ کھولنا — حصہ الف §10 سے مسلسل باب نمبر |
 >
 > پرانے ایک فائل والے باب ہفتم کے وراثتی لنگر حصہ الف اور حصہ ب کی فائلوں پر محفوظ ہیں۔ دیگر فائلوں میں **باب ہفتم** کے عام روابط قطعہ نمبر کے مطابق مناسب حصے کی طرف بھیجے جاتے ہیں۔
-> ادارہ جاتی منشور کی تشکیل، کم از کم خانے، اور وقفہ وار جائزے کے فرائض [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** میں رہتے ہیں — باب ہفتم ان خانوں کو استعمال کرتا ہے؛ انہیں دوبارہ تعریف نہیں کرتا۔
+> ادارہ جاتی منشور کی تشکیل، کم از کم خانے، اور وقفہ وار جائزے کے فرائض [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** میں رہتے ہیں — باب ہفتم ان خانوں کو استعمال کرتا ہے؛ انہیں دوبارہ تعریف نہیں کرتا۔
 
 >
 > **پچھلا (اس لوکیل):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

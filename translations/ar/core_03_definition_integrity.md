@@ -39,7 +39,7 @@
 
 - أعلى: مبادئ: [الفصل الثاني، §1 — الغرض والدور](core_02_definition_structure.md#1-الغرض-والدور)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-متطلب-سلامة-التعريف).
 - أسفل: [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](#2-عدم-الامتثال-من-سلوك-النظام-القابل-للرصد)؛ [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](core_04_burden_traceability_verification.md#2-متطلب-قابلية-تتبع-التعريف)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](core_04_burden_traceability_verification.md#5-معيار-دليل-الامتثال)؛ [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- يُقرأ مع: [الفصل الأول، القسم 4.2 — الحقيقة (قيد النزاهة المعرفية)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — التفسير القائم على السلوك القابل للرصد لا على البنية المعلَنة أو النيّة يشغّل قيد الحقيقة الدستوري في طبقة سلامة التعريف.
+- يُقرأ مع: [الفصل الأول، القسم 4.2 — الحقيقة (قيد النزاهة المعرفية)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) — التفسير القائم على السلوك القابل للرصد لا على البنية المعلَنة أو النيّة يشغّل قيد الحقيقة الدستوري في طبقة سلامة التعريف.
 
 </details>
 
@@ -217,7 +217,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](#2-عدم-الامتثال-من-سلوك-النظام-القابل-للرصد)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-متطلب-سلامة-التعريف).
-- أسفل: [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](core_04_burden_traceability_verification.md#2-متطلب-قابلية-تتبع-التعريف)؛ [الفصل التاسع — تصديق مواءمة النظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [الفصل الحادي عشر — آثار الوضعية والتكامل](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 البوصلة الدستورية وخريطة العناقيد](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- أسفل: [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](core_04_burden_traceability_verification.md#2-متطلب-قابلية-تتبع-التعريف)؛ [الفصل التاسع — تصديق مواءمة النظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [الفصل الحادي عشر — آثار الوضعية والتكامل](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 البوصلة الدستورية وخريطة العناقيد](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - يُقرأ مع: [توصيف إيجاد عدم الامتثال](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — الموطن القانوني O/M/A/C لحقول التوصيف؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -264,7 +264,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 القيود التشغيلية
 
-يجوز كذلك إيجاد عدم الامتثال ضد قيود تشغيلية في متن التنفيذ المشترك. وتُعالَج توصيفات الإيجاد الافتراضية وكيف تتصل بتلك الإيجادات هناك — لا في هذا الفصل. انظر [CJS-3.1 البوصلة الدستورية وخريطة العناقيد](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+يجوز كذلك إيجاد عدم الامتثال ضد قيود تشغيلية في متن التنفيذ المشترك. وتُعالَج توصيفات الإيجاد الافتراضية وكيف تتصل بتلك الإيجادات هناك — لا في هذا الفصل. انظر [CJS-3.1 البوصلة الدستورية وخريطة العناقيد](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

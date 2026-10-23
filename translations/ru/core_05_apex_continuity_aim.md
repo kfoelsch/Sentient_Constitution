@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [Компас Главы пятой](core_05__definitions_home.md#компас-и-карта-определений-главы-пятой); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims); цель простым языком в [Преамбуле §1](core_00_preamble.md#continuity).
-- Назначение: Принципы: [Глава первая §4.1 Устойчивость и самовосстанавливающийся дизайн](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Способность общих систем](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Дисциплина заявлений о конституционных исходах](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Декомпозиция конституционной цели](#continuity-aim-decomposition); тематические группы Преемственности в [core_05_band_continuity.md](../../core_05.040_band_continuity.md).
+- Назначение: Принципы: [Глава первая §4.1 Устойчивость и самовосстанавливающийся дизайн](core_01_a_values_principles.md#10-resilience-and-self-healing-design); [§12 Способность общих систем](core_01_c_stewardship_capacity_principles.md); [§11.1.5 Дисциплина заявлений о конституционных исходах](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Декомпозиция конституционной цели](#continuity-aim-decomposition); тематические группы Преемственности в [core_05_band_continuity.md](../../core_05.040_band_continuity.md).
 - Читать вместе с: [Ответственное управление](../../core_05.040_band_continuity.md#stewardship), [Дефект ответственного управления](../../core_05.040_band_continuity.md#stewardship-defect), [Экологическая целостность](../../core_05.040_band_continuity.md#ecological-integrity), [Зависимость](../../core_05.040_band_continuity.md#dependency), [Расхождение заместительных показателей](../../core_05.050_band_oversight.md#proxy-divergence), [Экзистенциальный риск](../../core_05.040_band_continuity.md#existential-risk), [Каскадный сбой](../../core_05.040_band_continuity.md#cascading-failure), [Расцвет](core_05_apex_flourishing_aim.md#flourishing-constitutional) (парная цель — ни одну нельзя преследовать за счёт другой; преследование краткосрочных выгод, которые выхолащивают **участие**, **надзор**, **подотчётность** или **своевременность** ниже того, что требует [материальная ставка](core_00_preamble.md#material-stake), проваливает **Преемственность**, даже если ближние исходы растут), [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad), масштабированная к [материальной ставке](core_00_preamble.md#material-stake) (как Преемственность остаётся легитимной — не пятый строительный блок), семья измерений Преемственности и [алфавитный каталог Главы пятой](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
@@ -46,14 +46,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **Как измерять и оценивать**
   - **Первичная мера:** [Семья измерений Преемственности](#continuity-measurement-family) — *Могут ли сентенты и системы длиться — экологически, надёжно и сквозь сбой?* См. также [Декомпозицию конституционной цели](#continuity-aim-decomposition). Эта строка только указывает на меры; правила как измерять сидят на каждом связанном определении.
-  - **Первичная оценка:** Оценивайте под [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad), масштабированной к [материальной ставке](core_00_preamble.md#material-stake). Спрашивайте, сохраняют ли системы длящуюся способность чинить, адаптироваться, честно встречать риск и оставаться внутри экологических пределов — не выглядят ли сегодняшние числа спокойными. Свяжите заявленные исходы преемственности с [составляющими](#continuity-aim-decomposition) условиями, под Главой четвёртой и [Главой первой §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - **Первичная оценка:** Оценивайте под [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad), масштабированной к [материальной ставке](core_00_preamble.md#material-stake). Спрашивайте, сохраняют ли системы длящуюся способность чинить, адаптироваться, честно встречать риск и оставаться внутри экологических пределов — не выглядят ли сегодняшние числа спокойными. Свяжите заявленные исходы преемственности с [составляющими](#continuity-aim-decomposition) условиями, под Главой четвёртой и [Главой первой §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="continuity-aim-constitutional-c"></a>
 - **Что должно держаться**
   - **Первичный сбой:**
     - использовать **Преемственность**, чтобы навсегда откладывать исправления;
     - трактовать «стабильность» как соответствие, когда она покоится на скрытом сбросе риска, необратимом вреде или перекладывании экологических нагрузок на других;
     - использовать обычную речь «держать свет включённым», чтобы блокировать [Оспоримость](../../core_05.035_band_accountability.md#contestability) или [Своевременное разрешение](../../core_05.035_band_accountability.md#timely-resolution); или
-    - преследовать **Преемственность** так, что это материально побеждает [Расцвет](core_05_apex_flourishing_aim.md#flourishing-constitutional) без ясного разрешения под [Главой первой §6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+    - преследовать **Преемственность** так, что это материально побеждает [Расцвет](core_05_apex_flourishing_aim.md#flourishing-constitutional) без ясного разрешения под [Главой первой §6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md).
 
 ---
 
@@ -106,7 +106,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Назначение: семья измерений Преемственности — свёртка только-ссылка; ярусы по термину живут на листовых определениях, связанных в таблице ниже.
-- Читать вместе с: [CS-9 — Ответственное управление распределением ресурсов и финансированием](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (механика финансирования и межсистемного возврата).
+- Читать вместе с: [CS-9 — Ответственное управление распределением ресурсов и финансированием](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (механика финансирования и межсистемного возврата).
 
 </details>
 

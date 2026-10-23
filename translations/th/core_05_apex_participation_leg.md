@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: [เข็มทิศของบทที่ห้า](core_05__definitions_home.md#เขมทศและแผนทบทนยามของบททหา); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) (ขาการมีส่วนร่วม; การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake)); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); เป้าประสงค์หลัก [ความเจริญงอกงาม](core_00_preamble.md#flourishing)
-- ปลายทาง: หลักการ: [คำปรารภ §1 แบบจำลอง](core_00_preamble.md#the-model); [บทที่หนึ่ง §5 เสรีภาพ](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 วินัยข้อกล่าวอ้างผลลัพธ์ทางรัฐธรรมนูญ](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#stakeholder-status-and-weight) ที่ชั้นการมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบใช้; [การแยกขาของจตุรภาค](#participation-tetrad-leg-decomposition); บทนิยามใบของแถบการมีส่วนร่วมใน [core_05_band_participation.md](../../core_05.055_band_participation.md)
+- ปลายทาง: หลักการ: [คำปรารภ §1 แบบจำลอง](core_00_preamble.md#the-model); [บทที่หนึ่ง §5 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 การบริหารอย่างรับผิดชอบและความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md); [§11.1.5 วินัยข้อกล่าวอ้างผลลัพธ์ทางรัฐธรรมนูญ](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#stakeholder-status-and-weight) ที่ชั้นการมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบใช้; [การแยกขาของจตุรภาค](#participation-tetrad-leg-decomposition); บทนิยามใบของแถบการมีส่วนร่วมใน [core_05_band_participation.md](../../core_05.055_band_participation.md)
 - อ่านคู่กับ: [พลังกระทำการที่มีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) [ความสามารถในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) (พรมแดนการมีส่วนร่วม/ความรับผิดชอบ) [การเข้าถึงได้](../../core_05.055_band_participation.md#accessibility) [ความเป็นธรรมที่เป็นสาระ](../../core_05.055_band_participation.md#substantive-fairness) [การเลือกที่มีผลผูกพันของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice) [ความทันเวลา](core_05_apex_timeliness_leg.md#timeliness-constitutional) (การมีส่วนร่วมที่ทันเวลา) [การปกครองที่ปรับตามการจำแนก](../../core_05.050_band_oversight.md#classification-scaled-governance) และตระกูลการวัดการมีส่วนร่วม
 
 </details>
@@ -61,7 +61,7 @@
     - [ความเป็นธรรมที่เป็นสาระ](../../core_05.055_band_participation.md#substantive-fairness);
     - [น้ำหนักของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#stakeholder-weight);
     - [การยึดครองระบบ](../../core_05.040_band_continuity.md#system-capture); และ
-    - [บทที่หนึ่ง §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [บทที่หนึ่ง §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: ไม่ปฏิบัติตามเมื่อ:
   - มีการกีดกันเชิงโครงสร้าง;

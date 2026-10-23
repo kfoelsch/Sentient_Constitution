@@ -10,7 +10,7 @@
 >
 > **نوار یکپارچهٔ فصل پنجم** را در بر دارد — تعریف‌های مستقل، نیمه‌مستقل و خوشهٔ وابستهٔ تخصیص‌یافته به نوار قانون اساسی **یکپارچه**. ترتیب خواندن و قطب‌نما در [core_05__definitions_home.md](core_05__definitions_home.md#فصل-پنجم-تعریفهای-بنیادین) زندگی می‌کنند.
 >
-> **قبلی (این زبان):** [core_05_band_continuity.md](core_05_band_continuity.md)
+> **قبلی (این زبان):** [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
 >
 > **بعدی (این زبان):** [core_05_band_oversight.md](core_05_band_oversight.md)
 > **قوس خواندن:** اصطلاح‌های مستقل → نیمه‌مستقل → خوشه‌های وابسته Def.I1
@@ -53,8 +53,8 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [فصل دوم §1 — مقصود و نقش](core_02_definition_structure.md#1-مقصود-و-نقش)؛ [فصل دوم §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-الزام-یکپارچگی-تعریف)؛ [فصل سوم §2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](core_03_definition_integrity.md#2-عدمانطباق-از-رفتار-مشاهدهپذیر-نظام).
-- پایین‌دست: [فصل چهارم §§1 و 4 — اجرای انحصاری و تخصیص بار؛ استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#1-اجرای-انحصاری-و-تخصیص-بار)؛ [فصل هشتم — مدل همیاری، تخلف و ردپا](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [نمایهٔ یافتهٔ عدم‌انطباق](core_05_band_accountability.md#non-compliance-finding-profile).
-- خوانده شود با: [فصل یکم §11.3 کشف ناهم‌راستایی](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) و [§11.4 اصلاح ناهم‌راستایی و پاسخ تسخیر](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) — **ناهم‌راستایی قانون اساسی** واگرایی مدیریت مسئولانه و انگیزه است؛ برچسب جایگزین **عدم‌انطباق** نیست؛ [خطر باقی‌مانده / ناهم‌راستایی](core_05_band_continuity.md#residual-risk--misalignment) — خطر باقی‌ماندهٔ محدود پس از کاهش؛ [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) — پل گواهی در فصل هفتم، نه رأی عمومی عدم‌انطباق.
+- پایین‌دست: [فصل چهارم §§1 و 4 — اجرای انحصاری و تخصیص بار؛ استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#1-اجرای-انحصاری-و-تخصیص-بار)؛ [فصل هشتم — مدل همیاری، تخلف و ردپا](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [نمایهٔ یافتهٔ عدم‌انطباق](../../core_05.035_band_accountability.md#non-compliance-finding-profile).
+- خوانده شود با: [فصل یکم §11.3 کشف ناهم‌راستایی](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) و [§11.4 اصلاح ناهم‌راستایی و پاسخ تسخیر](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **ناهم‌راستایی قانون اساسی** واگرایی مدیریت مسئولانه و انگیزه است؛ برچسب جایگزین **عدم‌انطباق** نیست؛ [خطر باقی‌مانده / ناهم‌راستایی](../../core_05.040_band_continuity.md#residual-risk--misalignment) — خطر باقی‌ماندهٔ محدود پس از کاهش؛ [گواهی هم‌راستایی نظام](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) — پل گواهی در فصل هفتم، نه رأی عمومی عدم‌انطباق.
 
 </details>
 
@@ -71,7 +71,7 @@
     رفتار گریز که معنای کامل، ارزیابی، یا الزامات جهان‌واقعی یک تعریف را تنگ کند، عدم‌انطباق است زیر [فصل سوم](core_03_definition_integrity.md#فصل-سوم-یکپارچگی-تعریف-گریز-و-عدمانطباق). همان انضباط بر تعهدهای قانون اساسی بیرون یک تعریف برگ واحد اعمال می‌شود جایی که فصل‌های دوم تا چهارم بر تفسیر، شاهد و ردگیری‌پذیری حاکم‌اند.
   - **بیرون گستره:**
     - **ناهم‌راستایی قانون اساسی** در لایهٔ مدیریت مسئولانه و انگیزه (فصل یکم §11)؛
-    - [خطر باقی‌مانده / ناهم‌راستایی](core_05_band_continuity.md#residual-risk--misalignment) به‌عنوان حالت خطر محدود پس از کاهش؛
+    - [خطر باقی‌مانده / ناهم‌راستایی](../../core_05.040_band_continuity.md#residual-risk--misalignment) به‌عنوان حالت خطر محدود پس از کاهش؛
     - وضعیت گواهی هم‌راستایی نظام زیر فصل هفتم؛ و
     - برچسب‌های خانهٔ محور تخلف فصل هشتم (آن‌ها یافته‌های راستی‌آزمایی‌شده را طبقه‌بندی می‌کنند و بازتعریف نمی‌کنند که آیا تعریفی برآورده شده است).
 <a id="non-compliance-a"></a>
@@ -101,10 +101,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- پایین‌دست: اصول: [دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-لایههای-حکمرانی)؛ [فصل یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency).
+- پایین‌دست: اصول: [دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-لایههای-حکمرانی)؛ [فصل یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency).
 - کف مالک: [فصل دوازدهم: قرارداد قانون اساسی، مشروعیت، مجوز و مدیریت مسئولانه](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [اصل X-C: مشارکت حکمرانی و استحقاق رأی](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - مؤلفهٔ خوشه: [*لایهٔ قرارداد قانون اساسی و انتخاب بنیادین قانون اساسی*](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی)
-- خوانده شود با: [انتخاب بنیادین قانون اساسی](core_05_band_integrative.md#انتخاب-بنیادین-قانون-اساسی)، [انتخاب الزام‌آور طرف‌های اثرپذیر](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [وضعیت و وزن طرف‌های اثرپذیر](core_05_band_participation.md#stakeholder-status-and-weight-cluster)، [حکمرانی](core_05_band_accountability.md#governance).
+- خوانده شود با: [انتخاب بنیادین قانون اساسی](core_05_band_integrative.md#انتخاب-بنیادین-قانون-اساسی)، [انتخاب الزام‌آور طرف‌های اثرپذیر](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster)، [وضعیت و وزن طرف‌های اثرپذیر](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)، [حکمرانی](../../core_05.035_band_accountability.md#governance).
 - لایه: **لایهٔ قرارداد قانون اساسی (CCL)** — چه کسی می‌تواند حکمرانی کند، با چه سازوکار مشروعیت، زیر چه شروط ماندگار. متمایز از **مشارکت سیستمی طرف‌های اثرپذیر (SSP)**.
 
 </details>
@@ -129,7 +129,7 @@
     - مشارکت عملیاتی؛
     - استفاده از نظام، برندسازی، یا حضور بازار به‌خودی‌خود؛
     - حکمرانی عادی حوزه پس از آنکه ساختارها و فرایندها ازپیش مجاز شده‌اند؛ و
-    - [وزن طرف اثرپذیر](core_05_band_participation.md#stakeholder-weight) عادی — دادن صدای بیشتر به کسانی که بیشتر اثر می‌پذیرند — به‌کاررفته برای تثبیت رأی‌های بنیان‌گذاری یا بازمجوز ([دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-لایههای-حکمرانی)).
+    - [وزن طرف اثرپذیر](../../core_05.055_band_participation.md#stakeholder-weight) عادی — دادن صدای بیشتر به کسانی که بیشتر اثر می‌پذیرند — به‌کاررفته برای تثبیت رأی‌های بنیان‌گذاری یا بازمجوز ([دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-لایههای-حکمرانی)).
   - **خانهٔ عملیاتی:** [فصل دوازدهم](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) قواعد الزام‌آور مجوز، مشروعیت و مدیریت مسئولانهٔ این لایه را بیان می‌کند.
   - **کف حقوق:** [اصل X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*مشارکت حکمرانی و استحقاق رأی*) استحقاق مشارکت برابر را بیان می‌کند که آن قواعد فصل دوازدهم نباید تنگ کنند.
 <a id="constitutional-contract-layer-a"></a>
@@ -138,7 +138,7 @@
 
     **ارزیابی اولیه:**
     - بپرسید آیا موضوع پرسش لایهٔ قرارداد قانون اساسی است: مجوز دادن به اینکه چه کسی حکمرانی کند، با چه سازوکار مشروعیت، و زیر چه شروط ماندگار. آن کارکرد این لایه را نشان می‌گذارد — نه اینکه نظام چقدر بزرگ، پرصدا، یا پرکاربرد است.
-    - هم‌راستایی قانون اساسی آن قرارداد را بیازمایید: اختیار ادعا‌شده باید با یک [سازوکار مشروعیت مستند](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority)، [کف برابری سیاسی](../../core_14.000_governance.md#41-entitlement-and-eligibility) جایی که انتخاب بنیادین اعمال می‌شود، و تکالیف مدیریت مسئولانه و کف حقوق که قدرت حکمرانی را زیر این قانون اساسی جواب‌گو نگه می‌دارند جور درآید ([فصل یکم §11.1 الزام هم‌راستایی](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
+    - هم‌راستایی قانون اساسی آن قرارداد را بیازمایید: اختیار ادعا‌شده باید با یک [سازوکار مشروعیت مستند](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority)، [کف برابری سیاسی](../../core_14.000_governance.md#41-entitlement-and-eligibility) جایی که انتخاب بنیادین اعمال می‌شود، و تکالیف مدیریت مسئولانه و کف حقوق که قدرت حکمرانی را زیر این قانون اساسی جواب‌گو نگه می‌دارند جور درآید ([فصل یکم §11.1 الزام هم‌راستایی](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)).
     - [دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-لایههای-حکمرانی) را اعمال کنید: مجوز بنیان‌گذاری را از مشارکت عادی طرف‌های اثرپذیر درون نظام‌های ازپیش‌مجاز جدا نگه دارید.
     - سکوت، صرف استفاده از یک نظام، حضور بازار، یا برندسازی را قرارداد قانون اساسی یا رضایت به حکمرانی‌شدن ندانید.
 <a id="constitutional-contract-layer-c"></a>
@@ -146,7 +146,7 @@
   - **شکست اولیه:**
     - برخورد با مشورت طرف‌های اثرپذیر، مشارکت عملیاتی، استفاده از نظام، برندسازی، حضور بازار، یا فرایند طرف‌های اثرپذیر وزن‌یافته با اثر به‌عنوان جایگزین مجوز مستند قانون اساسی؛
     - به‌کارگیری رأی‌گیری طرف‌های اثرپذیر وزن‌یافته با اثر برای تشکیل یا بازساختار ماندگار اختیار حکمرانی جایی که [انتخاب بنیادین قانون اساسی](core_05_band_integrative.md#انتخاب-بنیادین-قانون-اساسی) کف برابری سیاسی را می‌خواهد؛ یا
-    - برخورد با مجوز قانون اساسی چنان که مشارکت طرف‌های اثرپذیر، نمایندگی، [قابلیت اعتراض](core_05_band_accountability.md#contestability)، یا تکالیف [فرایند عادلانه](core_05_band_accountability.md#due-process-constitutional) را درون نظام‌های ازپیش‌مجاز یا حوزه‌های تصمیم محدود پاک کند ([دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی)).
+    - برخورد با مجوز قانون اساسی چنان که مشارکت طرف‌های اثرپذیر، نمایندگی، [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability)، یا تکالیف [فرایند عادلانه](../../core_05.035_band_accountability.md#due-process-constitutional) را درون نظام‌های ازپیش‌مجاز یا حوزه‌های تصمیم محدود پاک کند ([دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی)).
 
 ---
 
@@ -157,10 +157,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- پایین‌دست: اصول: [فصل یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)؛ [6. حل تعارض فرایند](#6-process-conflict-resolution).
+- پایین‌دست: اصول: [فصل یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)؛ [6. حل تعارض فرایند](core_05_band_integrative.md).
 - کف مالک: [فصل دوازدهم فصل یکم §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*کف برابری سیاسی برای انتخاب بنیادین قانون اساسی*؛ *کف صدای سیاسی ماندگار*)؛ [اصل X-C: مشارکت حکمرانی و استحقاق رأی](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - مؤلفهٔ خوشه: [*لایهٔ قرارداد قانون اساسی و انتخاب بنیادین قانون اساسی*](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی)
-- خوانده شود با: [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی)، [حدهای نمایندگی و وزن طرف‌های اثرپذیر (انتخاب الزام‌آور طرف‌های اثرپذیر)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)، [انتخاب الزام‌آور طرف‌های اثرپذیر](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [انصاف رویه‌ای](core_05_band_participation.md#procedural-fairness-constitutional).
+- خوانده شود با: [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی)، [حدهای نمایندگی و وزن طرف‌های اثرپذیر (انتخاب الزام‌آور طرف‌های اثرپذیر)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)، [انتخاب الزام‌آور طرف‌های اثرپذیر](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster)، [انصاف رویه‌ای](../../core_05.055_band_participation.md#procedural-fairness-constitutional).
 - لایه: **لایهٔ قرارداد قانون اساسی (CCL)**. متمایز از **مشارکت سیستمی طرف‌های اثرپذیر (SSP)** درون نظام‌های ازپیش‌مجاز.
 
 </details>
@@ -178,9 +178,9 @@
     این به [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی) تعلق دارد.
     - مالک: [فصل دوازدهم فصل یکم §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).
     - اشاره‌گر لایهٔ حقوق: [اصل X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*مشارکت حکمرانی و استحقاق رأی*).
-    - اعمال می‌شود زیر [منع طرد حس‌مندی](core_05_band_participation.md#sentience-non-exclusion).
+    - اعمال می‌شود زیر [منع طرد حس‌مندی](../../core_05.055_band_participation.md#sentience-non-exclusion).
   - **بیرون گستره:**
-    - تصمیم‌های عادی طرف‌های اثرپذیر وزن‌یافته با اثر وقتی حوزه‌ای ازپیش ساختارها و فرایندهای حکمرانی مجاز دارد — حس‌مندانی که اثر می‌پذیرند از راه شناسایی [طرف اثرپذیر](core_05_band_participation.md#stakeholder) و [وزن طرف اثرپذیر](core_05_band_participation.md#stakeholder-weight) صدایی مقیاس‌شده با میزان اثر می‌گیرند (از جمله قیدهای **اصل XII** (*مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه*))، نه از راه قواعد شمارش وزن‌برابر بنیادین؛ و
+    - تصمیم‌های عادی طرف‌های اثرپذیر وزن‌یافته با اثر وقتی حوزه‌ای ازپیش ساختارها و فرایندهای حکمرانی مجاز دارد — حس‌مندانی که اثر می‌پذیرند از راه شناسایی [طرف اثرپذیر](../../core_05.055_band_participation.md#stakeholder) و [وزن طرف اثرپذیر](../../core_05.055_band_participation.md#stakeholder-weight) صدایی مقیاس‌شده با میزان اثر می‌گیرند (از جمله قیدهای **اصل XII** (*مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه*))، نه از راه قواعد شمارش وزن‌برابر بنیادین؛ و
     - گزینش‌های عادی عملیاتی یا سیاستی که آن اختیار را مجوز نمی‌دهند یا بازساختار ماندگار نمی‌کنند.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>
@@ -190,18 +190,18 @@
     **ارزیابی اولیه:**
     - تصمیمی را بنیادین بدانید وقتی دربارهٔ این است که چه کسی می‌تواند حکمرانی کند، با چه سازوکاری، یا زیر چه شروط ماندگاری — نه چون یک رأی یا یک گزینش سیاستی اثر کوتاه‌مدت بزرگی دارد.
     - [دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-لایههای-حکمرانی) را بخوانید.
-    - پرسش‌های بنیادین را نمی‌توان دوباره به‌عنوان گزینش‌های وزن‌یافتهٔ پراثر زیر [حدهای نمایندگی و وزن طرف‌های اثرپذیر (انتخاب الزام‌آور طرف‌های اثرپذیر)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) مسیر داد.
-    - [منع طرد حس‌مندی](core_05_band_participation.md#sentience-non-exclusion) را اعمال کنید.
+    - پرسش‌های بنیادین را نمی‌توان دوباره به‌عنوان گزینش‌های وزن‌یافتهٔ پراثر زیر [حدهای نمایندگی و وزن طرف‌های اثرپذیر (انتخاب الزام‌آور طرف‌های اثرپذیر)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) مسیر داد.
+    - [منع طرد حس‌مندی](../../core_05.055_band_participation.md#sentience-non-exclusion) را اعمال کنید.
     - صدای بنیان‌گذاری بیشتر یا کمتر بر پایهٔ طبقهٔ بستر (گونهٔ زیستی، ساختگی، یا دیجیتال)، سن تقویمی، یا تبار (نسب، گونه، یا اشتقاق) ندهید.
-    - [انصاف رویه‌ای](core_05_band_participation.md#procedural-fairness-constitutional) را بر هر سلب صلاحیتی که علیه مشارکت فراخوانده شود اعمال کنید.
+    - [انصاف رویه‌ای](../../core_05.055_band_participation.md#procedural-fairness-constitutional) را بر هر سلب صلاحیتی که علیه مشارکت فراخوانده شود اعمال کنید.
 <a id="foundational-constitutional-choice-c"></a>
 <a id="foundational-collective-choice-constitutional-c"></a>
 - **چه باید برقرار بماند**
-  - **شکست اولیه:** دوباره مسیر دادن پرسش‌های بنیادین به‌عنوان گزینش‌های وزن‌یافتهٔ پراثر زیر قواعد [حدهای نمایندگی و وزن طرف‌های اثرپذیر (انتخاب الزام‌آور طرف‌های اثرپذیر)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) چنان که مشارکت برابر در لایهٔ مجوز شکست بخورد.
+  - **شکست اولیه:** دوباره مسیر دادن پرسش‌های بنیادین به‌عنوان گزینش‌های وزن‌یافتهٔ پراثر زیر قواعد [حدهای نمایندگی و وزن طرف‌های اثرپذیر (انتخاب الزام‌آور طرف‌های اثرپذیر)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) چنان که مشارکت برابر در لایهٔ مجوز شکست بخورد.
   - **شکست ثانویه:** تودرتو کردن وزن‌دهی اثر درون طراحی سازوکار مشروعیت چنان که سازوکار از کف برابری سیاسی بگریزد.
   - **شکست ثالث:**
     - استفاده از ازدست‌دادن ردپا به‌عنوان بردار سلب صلاحیت صدای سیاسی ماندگار که آزمون‌های *کف صدای سیاسی ماندگار* فصل دوازدهم فصل یکم §8.1 را شکست دهد، مگر نگه‌داشت نهایی سوءرفتار ضدقانون‌اساسی فصل دهم تا استرداد کامل؛ یا
-    - عوامل وزن مشارکت طبقهٔ بستر، سن تقویمی، یا تبار ([منع طرد حس‌مندی](core_05_band_participation.md#sentience-non-exclusion)).
+    - عوامل وزن مشارکت طبقهٔ بستر، سن تقویمی، یا تبار ([منع طرد حس‌مندی](../../core_05.055_band_participation.md#sentience-non-exclusion)).
 
 ---
 
@@ -212,8 +212,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- خوانده شود با: [ظرفیت مولد](core_05_band_continuity.md#productive-capacity-constitutional)، [کارایی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency)، و [بار قابل‌اجتناب](core_05_band_continuity.md#avoidable-burden) — پشتوانهٔ قانون اساسی برای ردگیری مشروع پاداش زیر [فصل یکم §11.1.3 اعمال مدیریت مسئولانه و اپراتور](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)؛ جایی که مدعی انحصار را با سود ظرفیت یا کارایی توجیه می‌کند، آن ادعاها باید زیر [§11.1.5 انضباط ادعاهای پیامد قانون اساسی](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) ردگیری‌پذیر به پیامد بمانند.
-- برای نوآوری‌هایی با اثر مستقیم قانون اساسی، نفع عمومی را می‌توان با [واحد معادل عمر (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) به‌عنوان یک سنجهٔ اندازهٔ همیاری زیر فصل هشتم ارزیابی کرد.
+- خوانده شود با: [ظرفیت مولد](../../core_05.040_band_continuity.md#productive-capacity-constitutional)، [کارایی قانون اساسی](../../core_05.040_band_continuity.md#constitutional-efficiency)، و [بار قابل‌اجتناب](../../core_05.040_band_continuity.md#avoidable-burden) — پشتوانهٔ قانون اساسی برای ردگیری مشروع پاداش زیر [فصل یکم §11.1.3 اعمال مدیریت مسئولانه و اپراتور](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)؛ جایی که مدعی انحصار را با سود ظرفیت یا کارایی توجیه می‌کند، آن ادعاها باید زیر [§11.1.5 انضباط ادعاهای پیامد قانون اساسی](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) ردگیری‌پذیر به پیامد بمانند.
+- برای نوآوری‌هایی با اثر مستقیم قانون اساسی، نفع عمومی را می‌توان با [واحد معادل عمر (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) به‌عنوان یک سنجهٔ اندازهٔ همیاری زیر فصل هشتم ارزیابی کرد.
 
 </details>
 
@@ -223,7 +223,7 @@
 
 - **چیست**
   - **در گستره:** قاعدهٔ قانون اساسی برای پاداش اختراع، پژوهش، ساختن، و آفرینشی که از نظر مادی نو و از نظر اجتماعی سودمند است — بدون آنکه آن پاداش به محصورسازی ماندگار بدل شود.
-    - پشتوانهٔ قانون اساسی: زیر [فصل یکم §11.1.3](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)، پاداش می‌تواند مشروعانه [ظرفیت مولد](core_05_band_continuity.md#productive-capacity-constitutional) و [کارایی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency) را ردگیری کند؛ [بار قابل‌اجتناب](core_05_band_continuity.md#avoidable-burden) در برابر پاداش دادن به کار نمایشی، انبارداری، یا اصطکاک محصورسازی که مقصود قانون اساسی ندارد پاسداری می‌کند.
+    - پشتوانهٔ قانون اساسی: زیر [فصل یکم §11.1.3](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)، پاداش می‌تواند مشروعانه [ظرفیت مولد](../../core_05.040_band_continuity.md#productive-capacity-constitutional) و [کارایی قانون اساسی](../../core_05.040_band_continuity.md#constitutional-efficiency) را ردگیری کند؛ [بار قابل‌اجتناب](../../core_05.040_band_continuity.md#avoidable-burden) در برابر پاداش دادن به کار نمایشی، انبارداری، یا اصطکاک محصورسازی که مقصود قانون اساسی ندارد پاسداری می‌کند.
     - پاداش می‌تواند همیاری، بار توسعه، و افشا را بازشناسد.
     - می‌تواند انحصار موقت را فقط وقتی شامل شود که آن انحصار:
       - تنگ؛
@@ -231,8 +231,8 @@
       - قابل‌بازبینی؛ و
       - توجیه‌شده باشد.
     - انتساب انحصار نیست؛ اعتبار و سابقهٔ منبع می‌توانند پس از پایان هر انحصار بمانند.
-    - اعمال می‌شود جایی که ساختارهای پاداش بتوانند بر [بهزیستی](core_05_band_continuity.md#wellbeing)، [ایمنی (قید)](core_05_band_continuity.md#safety-constraint)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، یا [عاملیت معنادار](core_05_band_participation.md#meaningful-agency) اثر بگذارند.
-  - **وابسته به:** [ضرورت](core_05_band_accountability.md#necessity)، [تناسب](core_05_band_accountability.md#proportionality)، و [قفل‌شدن سیستمی](core_05_band_continuity.md#systemic-lock-in) — حدهای مقوم. هر انحصار باید با ضرورت و تناسب توجیه شود، و کنترل بر استفاده نباید سخت شود به:
+    - اعمال می‌شود جایی که ساختارهای پاداش بتوانند بر [بهزیستی](../../core_05.040_band_continuity.md#wellbeing)، [ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constraint)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، یا [عاملیت معنادار](../../core_05.055_band_participation.md#meaningful-agency) اثر بگذارند.
+  - **وابسته به:** [ضرورت](../../core_05.035_band_accountability.md#necessity)، [تناسب](../../core_05.035_band_accountability.md#proportionality)، و [قفل‌شدن سیستمی](../../core_05.040_band_continuity.md#systemic-lock-in) — حدهای مقوم. هر انحصار باید با ضرورت و تناسب توجیه شود، و کنترل بر استفاده نباید سخت شود به:
     - کمیابی دائمی؛
     - قفل‌شدن سیستمی؛ یا
     - سرکوب تعمیر، هم‌کنش‌پذیری، یادگیری، کار ایمنی، افشای صادقانه، یا آزمایش پایین‌دست.
@@ -250,13 +250,13 @@
     **ارزیابی اولیه:** ادعاهای پاداش نوآوری را به این ترتیب ارزیابی کنید:
     1. **همیاری واقعی را شناسایی کنید:** بار توسعه، کفایت افشا، و نفع عمومی را بسنجید. پاداش همیاری واقعی و افشای کافی برای فهم، حسابرسی و پیاده‌سازی بعدی مستقل را می‌خواهد — فقط زیر حدهای موقت توجیه‌شده.
     2. **انتساب را از انحصار جدا کنید:** مدعی می‌تواند اعتبار، سابقهٔ منبع، و بازشناسی را پس از پایان هر مدت انحصار نگه دارد. این منافع به‌خودی‌خود کنترل بر تعمیر، بازاستفاده، سازگاری، پژوهش، آموزش، مهاجرت، یا پیاده‌سازی نفع‌عمومی را توجیه نمی‌کنند.
-    3. **ضرورت و تناسب را بیازمایید:** بپرسید آیا انحصار اصلاً لازم است. بپرسید آیا همان نفع عمومی یا بیشتر می‌تواند از راه ابزارهای پاداش کم‌محدودکننده‌تر بیاید. هر انحصار باید تنگ، زمان‌مند، و قابل‌بازبینی باشد زیر [ضرورت](core_05_band_accountability.md#necessity) و [تناسب](core_05_band_accountability.md#proportionality).
+    3. **ضرورت و تناسب را بیازمایید:** بپرسید آیا انحصار اصلاً لازم است. بپرسید آیا همان نفع عمومی یا بیشتر می‌تواند از راه ابزارهای پاداش کم‌محدودکننده‌تر بیاید. هر انحصار باید تنگ، زمان‌مند، و قابل‌بازبینی باشد زیر [ضرورت](../../core_05.035_band_accountability.md#necessity) و [تناسب](../../core_05.035_band_accountability.md#proportionality).
     4. **با بافت مقیاس کنید:** تحلیل را تنظیم کنید برای:
        - طبقهٔ نظام؛
-       - [وابستگی](core_05_band_continuity.md#dependency)؛
+       - [وابستگی](../../core_05.040_band_continuity.md#dependency)؛
        - قدرت هماهنگی؛
        - بار هم‌کنش‌پذیری؛ و
-       - [برگشت‌پذیری](core_05_band_continuity.md#reversibility-constitutional).
+       - [برگشت‌پذیری](../../core_05.040_band_continuity.md#reversibility-constitutional).
 
        هرچه وابستگی، اهرم، یا برگشت‌ناپذیری قوی‌تر باشد، اماره علیه انحصار قوی‌تر است.
     5. **سازوکارهای غیرانحصاری را ترجیح دهید:** جایزه، عوارض، مجوز تجمیعی، خرید عمومی، دسترسی اجباری، یا ابزارهای مشابه را به‌کار ببرید جایی که انحصار پیش‌بینی‌پذیر قفل‌شدن، انبارداری ضدرقابت، یا آسیب مادی می‌سازد برای:
@@ -283,12 +283,12 @@
     - پژوهش؛
     - موشکافی صادقانه؛ یا
     - پیاده‌سازی نفع‌عمومی را.
-  - **شکست ثانویه:** ادامهٔ انحصار نوآوری حیاتیِ [وابستگی](core_05_band_continuity.md#dependency) بدون:
+  - **شکست ثانویه:** ادامهٔ انحصار نوآوری حیاتیِ [وابستگی](../../core_05.040_band_continuity.md#dependency) بدون:
     - سخت‌گیری مقیاس‌شده با طبقه؛
     - تبدیل به پاداش حافظ دسترسی؛ یا
     - غروب زیر [corpus_systems.md](../../corpus_systems.md)، CS-3 — طبقه‌بندی و رسیدگی نظام.
   - **شکست ثالث:**
-    - انحصاری که [قفل‌شدن سیستمی](core_05_band_continuity.md#systemic-lock-in)، گلوگاه‌های ضدرقابت، [آسیب](core_05_band_accountability.md#harm) مادی، یا وابستگی قابل‌اجتناب به یک مدعی واحد بسازد جایی که ابزارهای پاداش کم‌محدودکننده‌تر همان‌قدر یا بهتر کار کنند؛ یا
+    - انحصاری که [قفل‌شدن سیستمی](../../core_05.040_band_continuity.md#systemic-lock-in)، گلوگاه‌های ضدرقابت، [آسیب](../../core_05.035_band_accountability.md#harm) مادی، یا وابستگی قابل‌اجتناب به یک مدعی واحد بسازد جایی که ابزارهای پاداش کم‌محدودکننده‌تر همان‌قدر یا بهتر کار کنند؛ یا
     - ادعاهای پاداش متکی بر پنهان‌کاری، افشای ناکافی، یا محدودیت بهانه‌ای فراتر از آنچه فصل یکم و فصل ششم توجیه می‌کنند.
 
 ---
@@ -303,7 +303,7 @@
 
 **بافت نیمه‌مستقل** (تعریف‌های مؤلفه هنوز می‌توانند بیرون گسترهٔ فراخوانی مشترک عمل کنند):
 
-- **فراخوانی مشترک:** جایی که ساختارهای انگیزه، یکپارچگی شاخص جانشین، یا انضباط تسویهٔ مشروط زیر [فصل یکم §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) از نظر مادی است.
+- **فراخوانی مشترک:** جایی که ساختارهای انگیزه، یکپارچگی شاخص جانشین، یا انضباط تسویهٔ مشروط زیر [فصل یکم §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) از نظر مادی است.
 - **گستره:** جایی که فراخوانی مشترک برآورده شود، خانهٔ مشترک خانوادهٔ اندازه‌گیری پاسخگویی برای اینکه آیا پاداش‌ها، هدف‌ها و سیگنال‌های حکمرانی با پیامدهای قانون اساسی هم‌راستا می‌مانند — از جمله یکپارچگی شاخص جانشین و انضباط تسویهٔ مشروط.
 
 **اعضای گروه موضوع.** این گروه شامل است:
@@ -323,12 +323,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- پایین‌دست: خانوادهٔ اندازه‌گیری پاسخگویی (*هم‌راستایی انگیزه و یکپارچگی شاخص جانشین به‌عنوان اندازه‌گیری قانون اساسی*)؛ اصول: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) (انضباط تسخیر چهارگانه زیر [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake))؛ [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) و [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- قاعدهٔ لایهٔ اصول: [فصل یکم §11.1 الزام هم‌راستایی](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) و [فصل یکم §11.2 شاخص‌های جانشین راحت و واگرایی شاخص جانشین](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence)؛ اعمال مدیریت مسئولانه و اپراتور: [فصل یکم §11.1.3 اعمال مدیریت مسئولانه و اپراتور](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) و [§11.1.4 مسیرهای عمق نقش و مسئولیت مادی](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
-- کشف ناهم‌راستایی: [فصل یکم §11.3 کشف ناهم‌راستایی](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
-- اصلاح فعال و تشدید تسخیر: [فصل یکم §11.4 اصلاح ناهم‌راستایی و پاسخ تسخیر](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
+- پایین‌دست: خانوادهٔ اندازه‌گیری پاسخگویی (*هم‌راستایی انگیزه و یکپارچگی شاخص جانشین به‌عنوان اندازه‌گیری قانون اساسی*)؛ اصول: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) (انضباط تسخیر چهارگانه زیر [§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake))؛ [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) و [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- قاعدهٔ لایهٔ اصول: [فصل یکم §11.1 الزام هم‌راستایی](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) و [فصل یکم §11.2 شاخص‌های جانشین راحت و واگرایی شاخص جانشین](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence)؛ اعمال مدیریت مسئولانه و اپراتور: [فصل یکم §11.1.3 اعمال مدیریت مسئولانه و اپراتور](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) و [§11.1.4 مسیرهای عمق نقش و مسئولیت مادی](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways).
+- کشف ناهم‌راستایی: [فصل یکم §11.3 کشف ناهم‌راستایی](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection).
+- اصلاح فعال و تشدید تسخیر: [فصل یکم §11.4 اصلاح ناهم‌راستایی و پاسخ تسخیر](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response).
 - مؤلفهٔ خوشه: [هم‌راستایی انگیزه، یکپارچگی شاخص جانشین و تسویهٔ مشروط](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- خوانده شود با: [*معماری حکمرانی، نظارت، وابستگی، تمرکززدایی، تمرکز، ساختار بازار و یکپارچگی مسیر خروج*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) جایی که وابستگی، تمرکز، انگیزه‌های شکل حکمرانی، یا تحلیل کیفیت خروج از نظر مادی در میان است؛ [فصل پنجم *ادعای مشروط، بازار قرارداد رویداد، بازی بخت و مزیت خودی*](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) جایی که ساختارهای مشروط از نظر مادی در میان‌اند؛ تسخیر نظام، واگرایی شاخص جانشین، حقیقت (قید قانون اساسی)، یکپارچگی معرفتی، و عاملیت معنادار.
+- خوانده شود با: [*معماری حکمرانی، نظارت، وابستگی، تمرکززدایی، تمرکز، ساختار بازار و یکپارچگی مسیر خروج*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) جایی که وابستگی، تمرکز، انگیزه‌های شکل حکمرانی، یا تحلیل کیفیت خروج از نظر مادی در میان است؛ [فصل پنجم *ادعای مشروط، بازار قرارداد رویداد، بازی بخت و مزیت خودی*](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) جایی که ساختارهای مشروط از نظر مادی در میان‌اند؛ تسخیر نظام، واگرایی شاخص جانشین، حقیقت (قید قانون اساسی)، یکپارچگی معرفتی، و عاملیت معنادار.
 
 </details>
 
@@ -353,15 +353,15 @@
   - **سنجهٔ اولیه:** [خانوادهٔ اندازه‌گیری پاسخگویی](core_05_apex_accountability_leg.md#accountability-measurement-family) — *آیا ساختار پاداش، قدرت بازار و جواب‌دهی تکالیف را واقعی نگه می‌دارند؟* اینجا به‌کارش ببرید تا بپرسید آیا پرداخت‌ها، هدف‌ها و سیگنال‌های حکمرانی هنوز به‌سوی پیامدهای واقعی قانون اساسی می‌رانند — نه به‌سوی نمره‌های شاخص جانشین، گریزگاه‌ها، یا تسخیر.
 
     **ارزیابی اولیه:** هم‌راستایی را در سراسر اثرهای تأخیری و تجمیعی بسنجید، نه فقط خروجی‌های فوری یا محلی — از جمله اثرها بر:
-    - [ایمنی (قید)](core_05_band_continuity.md#safety-constraint)؛
-    - [خطر](core_05_band_continuity.md#risk)؛
-    - [آسیب](core_05_band_accountability.md#harm)؛ و
-    - [عاملیت معنادار](core_05_band_participation.md#meaningful-agency).
+    - [ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constraint)؛
+    - [خطر](../../core_05.040_band_continuity.md#risk)؛
+    - [آسیب](../../core_05.035_band_accountability.md#harm)؛ و
+    - [عاملیت معنادار](../../core_05.055_band_participation.md#meaningful-agency).
 
     وقتی موضوع فرزند مشخص‌تری زیر این خوشه از نظر مادی در میان است، مسیر ارزیابی آن فرزند را دنبال کنید.
-  - **سنجهٔ ثانویه:** [بهزیستی](core_05_band_continuity.md#wellbeing)، [ایمنی (قید)](core_05_band_continuity.md#safety-constraint)، [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی)، و [عاملیت معنادار](core_05_band_participation.md#meaningful-agency) — هم‌سنجه‌هایی که می‌توانند هم‌راستایی را شکست دهند حتی وقتی هدف‌های اسمی برآورده به‌نظر می‌رسند.
+  - **سنجهٔ ثانویه:** [بهزیستی](../../core_05.040_band_continuity.md#wellbeing)، [ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constraint)، [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی)، و [عاملیت معنادار](../../core_05.055_band_participation.md#meaningful-agency) — هم‌سنجه‌هایی که می‌توانند هم‌راستایی را شکست دهند حتی وقتی هدف‌های اسمی برآورده به‌نظر می‌رسند.
 
-    **ارزیابی ثانویه:** وقتی سنجهٔ اولیه را می‌آزمایید، بپرسید آیا این هم‌سنجه‌ها هنوز ناهم‌راستایی نشان می‌دهند حتی وقتی نمره‌های رسمی خوب به‌نظر می‌رسند. [تسخیر نظام](core_05_band_continuity.md#system-capture) را بگنجانید (ساختارهای کنترل متمرکز یا پوشیده که اعتراض یا نظارت را شکست می‌دهند جایی که از نظر مادی در میان است).
+    **ارزیابی ثانویه:** وقتی سنجهٔ اولیه را می‌آزمایید، بپرسید آیا این هم‌سنجه‌ها هنوز ناهم‌راستایی نشان می‌دهند حتی وقتی نمره‌های رسمی خوب به‌نظر می‌رسند. [تسخیر نظام](../../core_05.040_band_continuity.md#system-capture) را بگنجانید (ساختارهای کنترل متمرکز یا پوشیده که اعتراض یا نظارت را شکست می‌دهند جایی که از نظر مادی در میان است).
   - **سنجهٔ ثالث:** [واگرایی شاخص جانشین](core_05_band_oversight.md#واگرایی-شاخص-جانشین) — جایی که مسیرهای پاداش، سنجه‌ها، یا سیگنال‌های حکمرانی جای پیامدهای واقعی قانون اساسی را می‌گیرند.
 
     **ارزیابی ثالث:** [واگرایی شاخص جانشین](core_05_band_oversight.md#واگرایی-شاخص-جانشین) را بگنجانید. به‌عنوان ورودی‌های هم‌راستایی انگیزه بشمارید هر مسیر پاداش، هدف، یا سیگنال حکمرانی که از شکاف میان:
@@ -369,7 +369,7 @@
     - سنجه‌ها؛ یا
     - شاخص‌های صوری انطباق
 
-    و پیامدهای واقعی مادی برای [بهزیستی](core_05_band_continuity.md#wellbeing)، [ایمنی (قید)](core_05_band_continuity.md#safety-constraint)، یا [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی) بهره می‌برد.
+    و پیامدهای واقعی مادی برای [بهزیستی](../../core_05.040_band_continuity.md#wellbeing)، [ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constraint)، یا [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی) بهره می‌برد.
 <a id="incentive-alignment-c"></a>
 - **چه باید برقرار بماند**
   - **شکست اولیه:** انگیزه‌های ماندگاری که پیش‌بینی‌پذیر ارزش‌های فصل یکم را تضعیف می‌کنند بدون:
@@ -378,7 +378,7 @@
     - لغو شدنی.
   - **شکست ثانویه:**
     - شکست در کشف، افشا و اصلاح فعال چنین ناهم‌راستایی‌هایی (فصل یکم §11.3–§11.4)؛
-    - [تسخیر نظام](core_05_band_continuity.md#system-capture) (ساختارهای کنترل متمرکز یا پوشیده که اعتراض یا نظارت را شکست می‌دهند)؛ یا
+    - [تسخیر نظام](../../core_05.040_band_continuity.md#system-capture) (ساختارهای کنترل متمرکز یا پوشیده که اعتراض یا نظارت را شکست می‌دهند)؛ یا
     - ادعای هم‌راستایی انگیزهٔ قانون اساسی در حالی که الزامات پیاده‌سازی پذیرفته‌شده‌ای که بر یکپارچگی انگیزه برای نظامِ زیر بازبینی حاکم‌اند نادیده گرفته شوند.
   - **شکست ثالث:** برخورد با برآوردن شاخص جانشین یا شاخص انطباق به‌عنوان قاطع جایی که [واگرایی شاخص جانشین](core_05_band_oversight.md#واگرایی-شاخص-جانشین) به‌طور معقول مشاهده‌پذیر است.
 
@@ -403,7 +403,7 @@
 
 - **چیست**
   - **در گستره:** ساختارهای انگیزه که بر کنشگران، اپراتورها، یا مؤلفه‌های سازنده عمل می‌کنند — مسیرهای پاداش، هدف‌ها، سیگنال‌های حکمرانی، و ساختارهای هم‌ترازی که پیش‌بینی‌پذیر رفتار را در سراسر اثرهای تأخیری و تجمیعی شکل می‌دهند.
-  - **وابسته به:** [ایمنی (قید)](core_05_band_continuity.md#safety-constraint)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، [اعتماد](core_05_band_continuity.md#trust)، و [عاملیت معنادار](core_05_band_participation.md#meaningful-agency) — هدف‌های هم‌راستایی مقوم. ساختارهای انگیزه باید با این حدها و با پایداری سیستمی مساعد برای [اعتماد](core_05_band_continuity.md#trust) توجیه‌شده هم‌راستا شوند.
+  - **وابسته به:** [ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constraint)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، [اعتماد](../../core_05.040_band_continuity.md#trust)، و [عاملیت معنادار](../../core_05.055_band_participation.md#meaningful-agency) — هدف‌های هم‌راستایی مقوم. ساختارهای انگیزه باید با این حدها و با پایداری سیستمی مساعد برای [اعتماد](../../core_05.040_band_continuity.md#trust) توجیه‌شده هم‌راستا شوند.
   - **بیرون گستره:** تنظیم پاداش محلی افق‌کوتاه که رفتار تأخیری یا تجمیعی را علیه حدهای ایمنی، حقیقت، اعتماد، یا عاملیت معنادار شکل نمی‌دهد.
   - **خوانده شود با:** [واگرایی شاخص جانشین](core_05_band_oversight.md#واگرایی-شاخص-جانشین) جایی که نمره‌ها یا سنجه‌ها می‌توانند پیامدهای واقعی را علیه آن حدها بپوشانند — مالک‌شده در سطح ثالث [هم‌راستایی انگیزه](#همراستایی-انگیزه).
 - **چگونه اندازه بگیریم و ارزیابی کنیم**
@@ -458,9 +458,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- پایین‌دست: اصول: [فصل یکم §11.5 ادعاهای مشروط، بازی‌های شانس، و بازارهای قرارداد رویداد](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- پایین‌دست: اصول: [فصل یکم §11.5 ادعاهای مشروط، بازی‌های شانس، و بازارهای قرارداد رویداد](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets).
 - مؤلفهٔ خوشه: [هم‌راستایی انگیزه، یکپارچگی شاخص جانشین و تسویهٔ مشروط](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- خوانده شود با: [هم‌راستایی انگیزه](core_05_band_integrative.md#همراستایی-انگیزه)؛ [ادعای مشروط، بازار قرارداد رویداد، بازی بخت و مزیت خودی](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- خوانده شود با: [هم‌راستایی انگیزه](core_05_band_integrative.md#همراستایی-انگیزه)؛ [ادعای مشروط، بازار قرارداد رویداد، بازی بخت و مزیت خودی](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
 
 </details>
 
@@ -469,7 +469,7 @@
 *به زبان ساده: شرط‌بندی‌ها، بازارهای پیش‌بینی، و پرداخت‌های مبتنی بر بخت نباید آسیب غیرقانونی، قدرت خودی، یا پیچاندن تصمیم‌های عمومی یا امانی را پاداش دهند.*
 
 - **چیست**
-  - **در گستره:** ساختارهای [ادعای مشروط](core_05_band_accountability.md#contingent-claim)، از جمله صورت‌های [بازی بخت](core_05_band_accountability.md#game-of-chance) و [بازار قرارداد رویداد](core_05_band_accountability.md#event-contract-market)، جایی که از نظر مادی مربوط‌اند.
+  - **در گستره:** ساختارهای [ادعای مشروط](../../core_05.035_band_accountability.md#contingent-claim)، از جمله صورت‌های [بازی بخت](../../core_05.035_band_accountability.md#game-of-chance) و [بازار قرارداد رویداد](../../core_05.035_band_accountability.md#event-contract-market)، جایی که از نظر مادی مربوط‌اند.
   - **بیرون گستره:**
     - قراردادها یا مبادله‌های عادی تعهد ثابت که صورت ادعای مشروط، بازی بخت، یا قرارداد رویداد نیستند؛ یا
     - قیمت‌های تسویه یا بخت‌ها به‌عنوان سیگنال بازار به‌تنهایی —
@@ -478,21 +478,21 @@
 - **چگونه اندازه بگیریم و ارزیابی کنیم**
   - **سنجهٔ اولیه:** [خانوادهٔ اندازه‌گیری پاسخگویی](core_05_apex_accountability_leg.md#accountability-measurement-family) — *آیا ساختار پاداش، قدرت بازار و جواب‌دهی تکالیف را واقعی نگه می‌دارند؟* اینجا به‌کارش ببرید تا بپرسید آیا شرط‌بندی‌ها، بازارهای پیش‌بینی، و پرداخت‌های مبتنی بر بخت از پاداش دادن به آسیب غیرقانونی، قدرت خودی، یا پیچاندن تصمیم‌های عمومی یا امانی پرهیز می‌کنند.
 
-    **ارزیابی اولیه:** چنین نظام‌هایی باید [فصل یکم §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets) را برآورند، از جمله:
-    - [ضرورت](core_05_band_accountability.md#necessity) و [تناسب](core_05_band_accountability.md#proportionality) را بر رویدادهای زیربنایی که حس‌مندان می‌توانند روی آن‌ها شرط ببندند یا در برابرشان تسویه کنند اعمال کنید؛
+    **ارزیابی اولیه:** چنین نظام‌هایی باید [فصل یکم §11.5](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) را برآورند، از جمله:
+    - [ضرورت](../../core_05.035_band_accountability.md#necessity) و [تناسب](../../core_05.035_band_accountability.md#proportionality) را بر رویدادهای زیربنایی که حس‌مندان می‌توانند روی آن‌ها شرط ببندند یا در برابرشان تسویه کنند اعمال کنید؛
     - حل پیامد را منصف و مستقل نگه دارید — جایی که شدنی است بیش از یک منبع به‌کار ببرید، و مسیرهای اختلاف را برای اعتراض باز نگه دارید؛
     - حد بگذارید که هر کنشگر چقدر تمرکز، اهرم و درمعرض‌بودن می‌تواند بگیرد، مقیاس‌شده با آسیب‌پذیری حس‌مندان و نظام گسترده‌تر؛
     - سوءاستفاده را زیر شرایط هماهنگی و مقیاس بالا بیازمایید؛ و
     - قیمت‌ها و بخت‌ها را فقط سیگنال بازار بدانید — نه به‌خودی‌خود اثبات حقیقت یا انطباق؛ همان استانداردهای شاهد تصمیم‌های پراثر دیگر را به‌کار ببرید.
-  - **سنجهٔ ثانویه:** [خطر](core_05_band_continuity.md#risk)، [تسخیر مسیرهای حل](core_05_band_accountability.md#capture-of-resolution-pathways)، و [مزیت خودی](core_05_band_accountability.md#insider-advantage) — لایه‌های یکپارچگی رویینی که می‌توانند هم‌راستایی تسویهٔ مشروط را شکست دهند حتی وقتی کنترل‌های طراحی §11.5 برآورده به‌نظر می‌رسند.
+  - **سنجهٔ ثانویه:** [خطر](../../core_05.040_band_continuity.md#risk)، [تسخیر مسیرهای حل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)، و [مزیت خودی](../../core_05.035_band_accountability.md#insider-advantage) — لایه‌های یکپارچگی رویینی که می‌توانند هم‌راستایی تسویهٔ مشروط را شکست دهند حتی وقتی کنترل‌های طراحی §11.5 برآورده به‌نظر می‌رسند.
 
     **ارزیابی ثانویه:** وقتی سنجهٔ اولیه را می‌آزمایید، بپرسید آیا این لایه‌های رویین هنوز ناهم‌راستایی نشان می‌دهند:
-    - [خطر](core_05_band_continuity.md#risk) دستکاری پیامد؛
-    - [تسخیر مسیرهای حل](core_05_band_accountability.md#capture-of-resolution-pathways)؛ یا
-    - [مزیت خودی](core_05_band_accountability.md#insider-advantage) یا دیگر مسیرهای اطلاعات ممتاز.
+    - [خطر](../../core_05.040_band_continuity.md#risk) دستکاری پیامد؛
+    - [تسخیر مسیرهای حل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)؛ یا
+    - [مزیت خودی](../../core_05.035_band_accountability.md#insider-advantage) یا دیگر مسیرهای اطلاعات ممتاز.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
 - **چه باید برقرار بماند**
-  - **شکست اولیه:** ساختارهای تسویه درون [ادعای مشروط](core_05_band_accountability.md#contingent-claim)، [بازی بخت](core_05_band_accountability.md#game-of-chance)، یا [بازار قرارداد رویداد](core_05_band_accountability.md#event-contract-market) که پیش‌بینی‌پذیر پاداش دهند:
+  - **شکست اولیه:** ساختارهای تسویه درون [ادعای مشروط](../../core_05.035_band_accountability.md#contingent-claim)، [بازی بخت](../../core_05.035_band_accountability.md#game-of-chance)، یا [بازار قرارداد رویداد](../../core_05.035_band_accountability.md#event-contract-market) که پیش‌بینی‌پذیر پاداش دهند:
     - آسیب غیرقانونی؛
     - مزیت فاسد از قدرت غیرعمومی؛ یا
     - تحریف مادی تصمیم‌های امانی یا عمومی
@@ -516,7 +516,7 @@
 - چارچوب قانون اساسی: پای **یکپارچه**؛ هدف **شکوفایی** (اولیه)؛ مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake) از راه [تعیین اهمیت مادی](core_05_band_oversight.md#مادیity-determination).
 - یادداشت میان‌پا: **نظارت**، **پاسخگویی** و **مشارکت** — پشتهٔ اختیار همهٔ پاهای چهارگانه را می‌پوشاند.
 - مبنای فصل یکم: فصل یکم §8.1، §4، فصل یکم §6.2، §12.2، §10 (ببینید نقشهٔ [قطب‌نمای فصل پنجم](core_05__definitions_home.md#قطبنما-و-نقشه-تعریف-فصل-پنجم)).
-- خوانده شود با: [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی)، [قابلیت اعتراض](core_05_band_accountability.md#contestability)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، [تعیین اهمیت مادی](core_05_band_oversight.md#مادیity-determination)، و مکانیک فصل سیزدهم / فصل پانزدهم را اعمال کنید جایی که از نظر مادی در میان است.
+- خوانده شود با: [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی)، [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، [تعیین اهمیت مادی](core_05_band_oversight.md#مادیity-determination)، و مکانیک فصل سیزدهم / فصل پانزدهم را اعمال کنید جایی که از نظر مادی در میان است.
 
 </details>
 
@@ -539,7 +539,7 @@
 - **کدام متن‌ها قانون اساسی رسمی شمرده می‌شوند** — پیکرهٔ پذیرفته‌شده و نسخه‌بندی‌شده، نه پیش‌نویس‌ها، یادداشت‌ها، یا رونوشت‌های غیررسمی؛
 - **چگونه اختیار درون آن پیکره رتبه می‌گیرد** — کدام فصل‌ها و لایه‌ها وقتی موضوع‌ها همپوشانی کنند کنترل می‌کنند، از جمله عدم‌جابه‌جایی مالک و اثر برتری زیر [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#authority-stack)؛
 - **کدام منبع پس از پذیرش معتبر برنده است** — تعهدهای الزام‌آور درون گستره‌ای که واقعاً پذیرفته شد چیره‌اند؛ و
-- **آیا تکالیف ادعا‌شده در عمل قابل‌آزمون و اجرایند** — از راه [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](core_05_band_accountability.md#contestability)، نه فقط ادعا‌شده روی کاغذ.
+- **آیا تکالیف ادعا‌شده در عمل قابل‌آزمون و اجرایند** — از راه [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability)، نه فقط ادعا‌شده روی کاغذ.
 
 وقتی هر یک از آن پرسش‌ها در میان است، اعضای خوشه را با هم بخوانید به‌جای آنکه یکی را به‌تنهایی کافی بدانید.
 
@@ -548,7 +548,7 @@
 - [پیکره](core_05_band_integrative.md#پیکره)؛ و
 - [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#authority-stack).
 
-[قید قانون اساسی](core_05_band_integrative.md#قید-قانون-اساسی) در این بخش به‌عنوان تعریف پشتیبان خوانده‌شده با خوشه زندگی می‌کند؛ عضو فراخوانی مشترک اضافی نیست مگر مستقلاً خواسته شود. فهرست مثبت مالکان که کدام فصل مالک کدام حوزهٔ ماهوی است در [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-اصول-تعریفها-و-حقوق) زندگی می‌کند (بخش‌های 4–7). عدم‌جابه‌جایی مالک و اثر برتری زیر [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#authority-stack) بیان شده‌اند. قابلیت اجرای عملی ادعاهای الزام‌آور زیر [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](core_05_band_accountability.md#contestability) مسیر می‌گیرد. ضدجایگزینی لایهٔ حکمرانی (قرارداد قانون اساسی در برابر مشارکت سیستمی طرف‌های اثرپذیر) زیر [دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی) و [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی) زندگی می‌کند.
+[قید قانون اساسی](core_05_band_integrative.md#قید-قانون-اساسی) در این بخش به‌عنوان تعریف پشتیبان خوانده‌شده با خوشه زندگی می‌کند؛ عضو فراخوانی مشترک اضافی نیست مگر مستقلاً خواسته شود. فهرست مثبت مالکان که کدام فصل مالک کدام حوزهٔ ماهوی است در [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-اصول-تعریفها-و-حقوق) زندگی می‌کند (بخش‌های 4–7). عدم‌جابه‌جایی مالک و اثر برتری زیر [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#authority-stack) بیان شده‌اند. قابلیت اجرای عملی ادعاهای الزام‌آور زیر [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability) مسیر می‌گیرد. ضدجایگزینی لایهٔ حکمرانی (قرارداد قانون اساسی در برابر مشارکت سیستمی طرف‌های اثرپذیر) زیر [دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی) و [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی) زندگی می‌کند.
 
 **ضدگریز.** موضوعی درون گسترهٔ پذیرش نباید به پرسش‌های جداگانهٔ:
 
@@ -575,7 +575,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- پایین‌دست: اصول: [15. اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (پیکره خوانده‌شده به‌عنوان کل یکپارچه)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **نظارت**؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **پیوستگی** زیر ادغام و نگهداری؛ [2. تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (شناسایی منبع الزام‌آور).
+- پایین‌دست: اصول: [15. اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (پیکره خوانده‌شده به‌عنوان کل یکپارچه)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **نظارت**؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **پیوستگی** زیر ادغام و نگهداری؛ [2. تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (شناسایی منبع الزام‌آور).
 - پایین‌دست: [فصل شانزدهم — پل ادغام](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*کدام **متن اجرا**ی پذیرفته‌شده الزام‌آور است، قفل ویرایش، زنجیرهٔ نگهداری، و انضباط منع ناهم‌راستایی خاموش*).
 - خوانده شود با: [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#authority-stack) و [قید قانون اساسی](core_05_band_integrative.md#قید-قانون-اساسی).
 - خوانده شود با: [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-اصول-تعریفها-و-حقوق) (*نقشهٔ مثبت حوزه→مالک*، بخش‌های 4–7).
@@ -619,10 +619,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- پایین‌دست: اصول: [2. تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)؛ [15. اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (پشتهٔ اختیار در برابر سلسله‌مراتب درونی خوانده‌شده با فصل یکم).
-- پایین‌دست: [فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (خواندن یکپارچه و سلسله‌مراتب آخرین پناه)؛ [فصل یکم §8.4 حل تعارض معنای قانون اساسی](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*یک رویهٔ تعارض، از جمله لایهٔ ادغام*)؛ [فصل چهاردهم — سلسله‌مراتب درونی برای پذیرندگان](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)؛ [فصل شانزدهم](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*پل ادغام — نگهداری، ویرایش‌ها، پذیرش؛ پشتهٔ دوم یا خانهٔ ترتیب تعارض نیست*).
+- پایین‌دست: اصول: [2. تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)؛ [15. اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (پشتهٔ اختیار در برابر سلسله‌مراتب درونی خوانده‌شده با فصل یکم).
+- پایین‌دست: [فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (خواندن یکپارچه و سلسله‌مراتب آخرین پناه)؛ [فصل یکم §8.4 حل تعارض معنای قانون اساسی](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*یک رویهٔ تعارض، از جمله لایهٔ ادغام*)؛ [فصل چهاردهم — سلسله‌مراتب درونی برای پذیرندگان](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)؛ [فصل شانزدهم](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*پل ادغام — نگهداری، ویرایش‌ها، پذیرش؛ پشتهٔ دوم یا خانهٔ ترتیب تعارض نیست*).
 - پایین‌دست: [فصل ششم — گسترهٔ لایه](../../core_06.005_rights_part_a.md#12-layer-scope)؛ [فصل سیزدهم §4 گسترهٔ لایه](../../core_15.000_non_regression.md#4-layer-scope) و [فصل پانزدهم §12 گسترهٔ لایه](../../core_17.000_amendment_ratification.md#12-layer-scope) (*عدم‌جابه‌جایی مالک اعمال‌شده محلی*)؛ بیان‌های گشایش مالک در سراسر سند شماره‌دار `core_*`.
-- خوانده شود با: [پیکره](core_05_band_integrative.md#پیکره)؛ [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-اصول-تعریفها-و-حقوق) (*نقشهٔ مثبت حوزه→مالک*، بخش‌های 4–7)؛ [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](core_05_band_accountability.md#contestability) (*قابلیت اجرای عملی ادعاهای الزام‌آور*)؛ [دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی) و [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی) (*ضذجایگزینی لایهٔ حکمرانی*)؛ [قید قانون اساسی](core_05_band_integrative.md#قید-قانون-اساسی)؛ **CJS-0.1** (*مسیرگذار موضوع پیاده‌سازی*).
+- خوانده شود با: [پیکره](core_05_band_integrative.md#پیکره)؛ [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-اصول-تعریفها-و-حقوق) (*نقشهٔ مثبت حوزه→مالک*، بخش‌های 4–7)؛ [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability) (*قابلیت اجرای عملی ادعاهای الزام‌آور*)؛ [دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی) و [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی) (*ضذجایگزینی لایهٔ حکمرانی*)؛ [قید قانون اساسی](core_05_band_integrative.md#قید-قانون-اساسی)؛ **CJS-0.1** (*مسیرگذار موضوع پیاده‌سازی*).
 
 </details>
 
@@ -638,7 +638,7 @@
 
     **پشتهٔ اختیار:** چارچوب مرتب منبع‌اختیار که بر تفسیر قانون اساسی، اثر پذیرش، و وضعیت لایه در سراسر لایه‌های قانون اساسی، ادغام‌شده، و پشتیبان حاکم است.
 
-    **سلسله‌مراتب درونی:** قاعدهٔ ترتیب تفسیری آخرین پناه که ناسازگاری باقی‌ماندهٔ واقعی را درون منبع الزام‌آور قانون اساسی پس از به پایان رسیدن خواندن یکپارچه زیر [فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) حل می‌کند. درون آن منبع:
+    **سلسله‌مراتب درونی:** قاعدهٔ ترتیب تفسیری آخرین پناه که ناسازگاری باقی‌ماندهٔ واقعی را درون منبع الزام‌آور قانون اساسی پس از به پایان رسیدن خواندن یکپارچه زیر [فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) حل می‌کند. درون آن منبع:
     - اصول فصل یکم بر جهت سطح بالای قانون اساسی حاکم‌اند؛
     - تعهدهای سطح اصل و کف‌های حقوق بر الزامات عملیاتی مشخص حاکم‌اند؛
     - اصول بر اصل‌ها فقط برای ناسازگاری باقی‌ماندهٔ واقعی کنترل می‌کنند؛ و
@@ -669,7 +669,7 @@
     <a id="supremacy-and-enforceability-c"></a>
     - **برتری:** تعهدهای الزام‌آور پیکره درون گسترهٔ معتبر منبع، پذیرش، و لایهٔ حکمرانی‌شان چیره‌اند. آن اثر برتری پیامد اعمال این مدخل است همراه با [پیکره](core_05_band_integrative.md#پیکره) عملیاتی و سند پذیرش یا ادغام اعمال‌شدنی — از جمله برتری [فصل چهاردهم](../../core_16.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) نسبت به هنجارهای دیگر و عدم‌جابه‌جایی [فصل چهاردهم §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law) قانون بیرونی اعمال‌شدنی. پیاده‌سازی، متن پشتیبان، نظم خصوصی، قاب‌بندی اضطرار، یا رویهٔ عملیاتی نباید آن تعهدهای الزام‌آور را درون گسترهٔ معتبرشان تنگ کنند.
 
-    قابلیت اجرای عملی ادعاهای الزام‌آور — انطباق مشاهده‌پذیر و قابل‌اعتراض به‌جای وعده‌های کاغذی — زیر [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](core_05_band_accountability.md#contestability) ارزیابی می‌شود. ضدجایگزینی لایهٔ حکمرانی (قرارداد قانون اساسی در برابر مشارکت سیستمی طرف‌های اثرپذیر) زیر [دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی) و [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی) زندگی می‌کند.
+    قابلیت اجرای عملی ادعاهای الزام‌آور — انطباق مشاهده‌پذیر و قابل‌اعتراض به‌جای وعده‌های کاغذی — زیر [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability) ارزیابی می‌شود. ضدجایگزینی لایهٔ حکمرانی (قرارداد قانون اساسی در برابر مشارکت سیستمی طرف‌های اثرپذیر) زیر [دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی) و [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#لایه-قرارداد-قانون-اساسی) زندگی می‌کند.
 
     برای پذیرندگان، [سلسله‌مراتب درونی برای پذیرندگان](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) در **فصل چهاردهم** همین قاعدهٔ جفت را در خط میان قانون اساسی الزام‌آور و متن اجرای پذیرفته‌شده اعمال می‌کند:
     - این قانون اساسی و تعریف‌های یکپارچه‌اش کنترل می‌کنند متن چگونه خوانده شود و چه چیزی انطباق بشمرد؛ و
@@ -682,13 +682,13 @@
     **ارزیابی اولیه:**
     - نخست ویرایش عملیاتی / زنجیرهٔ نگهداری و لایهٔ منبع را زیر پشتهٔ اختیار شناسایی کنید.
     - سپس خانهٔ مالک را در [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-اصول-تعریفها-و-حقوق) شناسایی کنید (و ادعای گشایش مالک فصل)؛ ماهیت را فقط از آن خانهٔ مالک اعمال کنید — جای دیگر فقط اشاره‌گر به‌کار ببرید.
-    - سپس خواندن یکپارچه را زیر [فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) اعمال کنید.
+    - سپس خواندن یکپارچه را زیر [فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) اعمال کنید.
     - کامل‌ترین اثر حمایتی قانون اساسی را به‌عنوان کل یکپارچه و پیش‌فرض عدم‌انقباض [فصل ششم](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) را حفظ کنید.
     - سلسله‌مراتب درونی را فقط به‌عنوان قاعدهٔ باقی‌ماندهٔ آخرین پناه به‌کار ببرید؛ از آن برای جایگزینی خواندن یکپارچهٔ عادی یا حل صرف اختلاف بر سر معنای اصطلاح معیار استفاده نکنید.
     - جایی که اختلاف معنای اصطلاح است، تعریف معیار فصل پنجم در هر لایه حاکم است.
     - برای موضوع‌های پیاده‌سازی مسیر داده‌شده در سراسر CS، CI، CF و CJS، **CJS-0.1** (مسیرگذار موضوع) را پس از شناسایی مالک اعمال کنید.
     - تأیید کنید تعهدهای الزام‌آور درون گسترهٔ معتبر پذیرش و لایهٔ حکمرانی چیره‌اند، و پیاده‌سازی، پشتیبان، نظم خصوصی، یا قاب‌بندی اضطرار آن‌ها را تنگ نمی‌کند.
-    - برای قابلیت اجرای عملی آن ادعاها، [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](core_05_band_accountability.md#contestability) را اعمال کنید؛ برای مسیرگذاری قرارداد در برابر طرف اثرپذیر، [دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی) را اعمال کنید.
+    - برای قابلیت اجرای عملی آن ادعاها، [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability) را اعمال کنید؛ برای مسیرگذاری قرارداد در برابر طرف اثرپذیر، [دیباچه §3.3](core_00_preamble.md#33-لایههای-حکمرانی) را اعمال کنید.
     - تفسیرهایی را رد کنید که:
       - تقدم منبع را وارونه کنند؛
       - وضعیت منبع را بپوشانند؛
@@ -706,8 +706,8 @@
     - به‌کارگیری قاب‌بندی فرایند، حکمرانی، یا پیاده‌سازی برای تنگ، بازتعریف، یا جابه‌جایی کف‌های حقوق [فصل ششم](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) خلاف عدم‌عقب‌گرد [فصل سیزدهم](../../core_15.000_non_regression.md) و قرارداد گشایش فصل ششم؛
     - اختراع رده‌بندی‌ها یا گردش‌کارهای موازی در لایه‌های غیرمالک وقتی [فهرست مالکان دیباچه](core_00_preamble.md#4-اصول-تعریفها-و-حقوق) ازپیش خانهٔ معیار تخصیص داده است؛
     - ادعای برتری یا انطباق چنان که سلسله‌مراتب منبع تثبیت‌شده را وارونه کند، یا بگذارد پیاده‌سازی، متن پشتیبان، نظم خصوصی، قاب‌بندی اضطرار، یا رویهٔ عملیاتی تعهدهای الزام‌آور پیکره را درون گسترهٔ معتبرشان جابه‌جا کند؛
-    - به‌کارگیری سلسله‌مراتب درونی به‌عنوان میان‌بر برای برگزیدن خوانش سخت‌تر، برای کوچک کردن حمایت‌های کف حقوق [فصل ششم](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) بیرون آنچه [فصل یکم](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) صریحاً اجازه می‌دهد، یا برای عوض کردن یک لایهٔ منبع با دیگری در خواندن عادی؛
-    - برخورد با تعریف‌های فصل پنجم به‌عنوان پیکرهٔ رقیب قانون که اصول یا اصل‌ها را کنار بزند ([فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation))؛ یا
+    - به‌کارگیری سلسله‌مراتب درونی به‌عنوان میان‌بر برای برگزیدن خوانش سخت‌تر، برای کوچک کردن حمایت‌های کف حقوق [فصل ششم](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) بیرون آنچه [فصل یکم](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) صریحاً اجازه می‌دهد، یا برای عوض کردن یک لایهٔ منبع با دیگری در خواندن عادی؛
+    - برخورد با تعریف‌های فصل پنجم به‌عنوان پیکرهٔ رقیب قانون که اصول یا اصل‌ها را کنار بزند ([فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation))؛ یا
     - برای پذیرندگان، برخورد با متن اجرای پذیرفته‌شده به‌عنوان چیره‌شونده بر این قانون اساسی درون گسترهٔ پذیرش، یا به‌عنوان سست‌کنندهٔ کف‌های عدم‌عقب‌گرد [فصل سیزدهم](../../core_15.000_non_regression.md) ([سلسله‌مراتب درونی برای پذیرندگان](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) در **فصل چهاردهم**).
 
 ---
@@ -719,8 +719,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: [فصل یکم §3 قیدهای اصول غیرقابل‌مذاکره: ایمنی و حقیقت](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth)؛ [فصل یکم §6 حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-- خوانده شود با: [ایمنی (قید)](core_05_band_continuity.md#safety-constraint)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#authority-stack)، و [آسیب](core_05_band_accountability.md#harm).
+- بالادست: اصول: [فصل یکم §3 قیدهای اصول غیرقابل‌مذاکره: ایمنی و حقیقت](core_01_a_values_principles.md)؛ [فصل یکم §6 حل تعارض فرایند](core_01_b_interaction_interpretation.md).
+- خوانده شود با: [ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constraint)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#authority-stack)، و [آسیب](../../core_05.035_band_accountability.md#harm).
 
 </details>
 
@@ -733,9 +733,9 @@
 
     قیدهای قانون اساسی به **گونه‌های** زیر طبقه‌بندی می‌شوند، مرتب از بالاترین نیروی حاکم به پایین‌ترین. گونه‌های بالاتر بر گونه‌های پایین‌تر کنترل می‌کنند: گونهٔ پایین‌تر نباید گونهٔ بالاتر را درون گسترهٔ معتبرش تنگ، بازتعریف، یا جابه‌جا کند. این مدخل گونه‌ها را طبقه‌بندی و مسیر می‌دهد؛ تعهدهای لایهٔ مالک روی خانه‌های معیارشان می‌مانند.
 
-    1. **قیدهای اصول غیرقابل‌مذاکره** — [ایمنی (قید)](core_05_band_continuity.md#safety-constraint) و [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) به‌عنوان مرزهای غیرقابل‌مذاکرهٔ فصل یکم.
+    1. **قیدهای اصول غیرقابل‌مذاکره** — [ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constraint) و [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) به‌عنوان مرزهای غیرقابل‌مذاکرهٔ فصل یکم.
     2. **قیدهای کف حقوق** — کمینه‌ها و قواعد عدم‌انقباض فصل ششم که مانع می‌شوند قاب‌های پیاده‌سازی، فرایند، حکمرانی، اضطرار، گذار، یا نظم خصوصی حقوق حمایت‌شده را تنگ کنند.
-    3. **قیدهای محدودیت و تحدید** — [ضرورت](core_05_band_accountability.md#necessity)، [تناسب](core_05_band_accountability.md#proportionality)، گزینش مؤثر کم‌محدودکننده، زمان‌مندی، قابلیت بازبینی، و انضباط‌های کمینه‌سازی بار که بر محدودیت‌های اثرگذار بر حقوق حاکم‌اند.
+    3. **قیدهای محدودیت و تحدید** — [ضرورت](../../core_05.035_band_accountability.md#necessity)، [تناسب](../../core_05.035_band_accountability.md#proportionality)، گزینش مؤثر کم‌محدودکننده، زمان‌مندی، قابلیت بازبینی، و انضباط‌های کمینه‌سازی بار که بر محدودیت‌های اثرگذار بر حقوق حاکم‌اند.
     4. **قیدهای معرفتی و افشا** — [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی)، حدهای افشا، حدهای انتشار، حدهای دادهٔ حمایت‌شده و حالت درونی، و توازن افشای حساس به امنیت.
     5. **قیدهای ارزیابی** — [قید کامل بودن ارزیابی](core_05_band_oversight.md#قید-کامل-بودن-ارزیابی)، [قید یکپارچگی اهمیت مادی](core_05_band_oversight.md#مادیity-integrity-constraint)، سازگاری زمانی، ابطال واگرایی شاخص جانشین، و الزامات بار، ردگیری‌پذیری و راستی‌آزمایی فصل چهارم.
     6. **قیدهای عملیاتی و پیاده‌سازی** — حدهای ظرفیت، امکان‌پذیری، امنیت، محرمانگی، زمان‌بندی، فنی، یا منبع که فقط درون گسترهٔ معتبر پذیرش و لایهٔ منبع‌شان بازشناخته می‌شوند، و فقط جایی که گونه‌های بالاتر را تنگ نکنند.
@@ -748,7 +748,7 @@
       - نگهداری؛ و
       - انضباط وضعیت منبع.
     - تعهدهای طبقه‌بندی‌شده همچنان مالک خانه‌های معیارشان‌اند زیر [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-اصول-تعریفها-و-حقوق).
-    - قابلیت اجرای عملی ادعاهای قید الزام‌آور زیر [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](core_05_band_accountability.md#contestability) مسیر می‌گیرد.
+    - قابلیت اجرای عملی ادعاهای قید الزام‌آور زیر [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) و [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability) مسیر می‌گیرد.
   - **بیرون گستره:** راهنمایی اختیاری، هنجارهای آرمانی، یا ترجیح‌های سیاستی که اعتبار ادعای قانون اساسی، کنش نظام، یا عمل حکمرانی را تعیین نمی‌کنند.
 <a id="constitutional-constraint-a"></a>
 - **چگونه اندازه بگیریم و ارزیابی کنیم**
@@ -776,7 +776,7 @@
       - دسترسی به جبران؛
     - برخورد با برچسب گونه به‌عنوان جایگزین مدخل مشخص O/M/A/C، اصل کف حقوق، یا قاعدهٔ لایهٔ مالک که بر تصمیم حاکم است؛
     - اعمال یک گونه در حالی که گونهٔ دیگر از نظر مادی اعمال‌شدنی قطعه‌قطعه شود؛
-    - تخریب مادی ایمنی، حقیقت، یا دیگر الزام الزام‌آور قانون اساسی از راه رفتار یا پیامدهای نظام، از جمله اثرهای [آسیب](core_05_band_accountability.md#harm) که:
+    - تخریب مادی ایمنی، حقیقت، یا دیگر الزام الزام‌آور قانون اساسی از راه رفتار یا پیامدهای نظام، از جمله اثرهای [آسیب](../../core_05.035_band_accountability.md#harm) که:
       - مستقیم؛
       - غیرمستقیم؛
       - تأخیری؛ یا
@@ -785,7 +785,7 @@
 
 ---
 
-**پروندهٔ قبلی:** [core_05_band_continuity.md](core_05_band_continuity.md)
+**پروندهٔ قبلی:** [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
 
 **پروندهٔ بعدی (این زبان):** [core_05_band_oversight.md](core_05_band_oversight.md)
 

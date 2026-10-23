@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](#2-قابل-مشاہدہ-نظامی-رویے-سے-عدم-اطاعت)؛ [باب دوم، §2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-تعریف-کی-سالمیت-کا-تقاضا)۔
-- زیریں: [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](core_04_burden_traceability_verification.md#2-تعریف-سراغ-کا-تقاضا)؛ [باب نہم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [باب یازدہم — کیفیت کے اثرات اور انضمام](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 آئینی قطب نما اور جھرمٹ نقشہ](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)۔
+- زیریں: [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](core_04_burden_traceability_verification.md#2-تعریف-سراغ-کا-تقاضا)؛ [باب نہم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [باب یازدہم — کیفیت کے اثرات اور انضمام](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 آئینی قطب نما اور جھرمٹ نقشہ](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)۔
 - ساتھ پڑھیں: [عدمِ اطاعت دریافت پروفائل](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — پروفائل خانوں کا مستند O/M/A/C گھر؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)۔
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 عملی پابندیاں
 
-عدمِ اطاعت مشترکہ نفاذ کارپس میں عملی پابندیوں کے خلاف بھی پائی جا سکتی ہے۔ طے شدہ دریافت پروفائلز اور وہ ان دریافتوں سے کیسے جڑتے ہیں وہیں سنبھالے جاتے ہیں — اس باب میں نہیں۔ دیکھیں [CJS-3.1 آئینی قطب نما اور جھرمٹ نقشہ](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)۔
+عدمِ اطاعت مشترکہ نفاذ کارپس میں عملی پابندیوں کے خلاف بھی پائی جا سکتی ہے۔ طے شدہ دریافت پروفائلز اور وہ ان دریافتوں سے کیسے جڑتے ہیں وہیں سنبھالے جاتے ہیں — اس باب میں نہیں۔ دیکھیں [CJS-3.1 آئینی قطب نما اور جھرمٹ نقشہ](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)۔
 
 ---
 

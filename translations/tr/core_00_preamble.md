@@ -114,9 +114,9 @@ Bu ölçüm kategorileri neyin önemli olduğunu gösterir — ama tek başları
 
 *Yalın dille: meşruiyet Güvenlik, Doğruluk ve Güven ister; artı sizi etkileyen sistemleri öğrenmek ve onları çalışır tutmakta sonuç doğuran roller almak için gerçek fırsatlar.*
 
-Kalıcı meşruiyet [Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) ve [Güven](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)e bağlıdır; ayrıca yasal sorumlu yönetimin, doğrucu işbirliğinin ve sınırlı yönelimin orantılı tanınmasına — yalnızca yaptırım ve kısıtlama değil. Birinci Bölüm bu tanıma boyutunu [Tanıma, pekiştirme ve yönelim](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)de belirtir.
+Kalıcı meşruiyet [Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Doğruluk](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ve [Güven](core_01_a_values_principles.md)e bağlıdır; ayrıca yasal sorumlu yönetimin, doğrucu işbirliğinin ve sınırlı yönelimin orantılı tanınmasına — yalnızca yaptırım ve kısıtlama değil. Birinci Bölüm bu tanıma boyutunu [Tanıma, pekiştirme ve yönelim](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)de belirtir.
 
-Dağıtılmış anlayış ve sorumlu yönetim, algılayanların bizi maddi olarak etkileyen sistemlerin nasıl işlediğini öğrenmek için düzenli, orantılı fırsatlara sahip olmasını gerektirir. Ayrıca bizi bunların bakımında ve iyileştirilmesinde sonuç doğuran roller almaya güçlendirir — böylece yetkinlik, onarım kapasitesi ve meşruiyet Anayasal Topluluğumuzda geniş yayılır; dayanıklılık, sürdürülebilirlik ve toplum-yanlısı yenilik sağlanır. Bu fırsatlar Güvenliği, Doğruluğu, sınırlı eylem yetisini ve [Birinci Bölüm](../../core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)de belirtilen [Önlenebilir yük](../../core_05_band_continuity.md#avoidable-burden) ve orantılılık disiplinini karşılamalıdır.
+Dağıtılmış anlayış ve sorumlu yönetim, algılayanların bizi maddi olarak etkileyen sistemlerin nasıl işlediğini öğrenmek için düzenli, orantılı fırsatlara sahip olmasını gerektirir. Ayrıca bizi bunların bakımında ve iyileştirilmesinde sonuç doğuran roller almaya güçlendirir — böylece yetkinlik, onarım kapasitesi ve meşruiyet Anayasal Topluluğumuzda geniş yayılır; dayanıklılık, sürdürülebilirlik ve toplum-yanlısı yenilik sağlanır. Bu fırsatlar Güvenliği, Doğruluğu, sınırlı eylem yetisini ve [Birinci Bölüm](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)de belirtilen [Önlenebilir yük](../../core_05_band_continuity.md#avoidable-burden) ve orantılılık disiplinini karşılamalıdır.
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 Yönetişimde ölçümleri kullanmak
@@ -169,7 +169,7 @@ Anayasal yetkilendirme ayrıca [Etkilenen Tarafların Sistem Katılımı](../../
 
 Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
 
-**Birinci Bölüm — Değerler, ilkeler ve sorumlu yönetim** ([A Kısmı](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B Kısmı](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C Kısmı](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Birinci Bölüm — Değerler, ilkeler ve sorumlu yönetim** ([A Kısmı](core_01_a_values_principles.md) · [B Kısmı](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C Kısmı](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **Ne sahiplenir:** Anayasanın yol gösteren değerlerini ve kısıtlarını belirtir — esenlik, adillik, Güvenlik, Doğruluk, Güven, sınırlı özgürlük, yasal katkı için tanıma ve orantılı ödül, ilkeler arası çatışma çözümü ve dağıtılmış anlayış, sistemik değerlendirme ve yönetişim disiplini dahil sorumlu yönetim ödevleri.
 - **Ne üretir:** Sonraki her bölüm için yorumsal temel — sistemler, haklar, tanımlar ya da süreç zincirleri okunup uygulanırken üst düzey amaçları işlemsel gerekler haline getiren kurallar.
@@ -227,7 +227,7 @@ Aşağıdaki her adım, bölümün ne sahiplendiğini ve ne ürettiğini belirti
 - **Ne sahiplenir:** Doğrulanmış sınıflamaları ayrı izlerde gerçek dünya **güzergâh etkilerine** bütünleştirir — [**maddi pay**](#material-stake)a ölçeklenmiş, katkı ve ihlali tek net puana katlamadan ve katılımı, gözetimi, hesap verebilirliği ya da zamanındalığı boşaltmadan.
   - **Katkı izi:** Doğrulanmış olumlu sınıflama pratik avantaj üretir:
     - Yetkinlik yayımlanmış yetkinlik eşiğine karşı gösterildiğinde ve uygulanabilir hiçbir [güzergâh kilidi](../../core_11_standing_integration.md#42-prevention--general-standing-locks) adlandırılmış yolu kapatmadığında, güvene duyarlı rolleri, devredilmiş yetkiyi, gözetim elverişliliğini ve giderek sonuç doğuran sorumlu yönetimi açabilen [**yetkinlik izinleri**](../../core_11_standing_integration.md#62-competency-bars-and-clearances)
-    - [Birinci Bölüm](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)ün istediği gibi yasal sorumlu yönetim ve işbirliği için orantılı tanıma ve **maddi ödüller**
+    - [Birinci Bölüm](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)ün istediği gibi yasal sorumlu yönetim ve işbirliği için orantılı tanıma ve **maddi ödüller**
     - Boş övgü değil. Yararlar gerçek, kanıtla destekli ve itiraza açık olmalıdır
   - **İhlal izi:** Doğrulanmış ihlal bulguları pratik dezavantaj üretir:
     - **Güzergâh kilitleri**, rol sınırları, düzeltme emirleri, [zarar görenler için çare](../../core_11_standing_integration.md#41-remedy-and-correction), ek betimleyiciler ve uygulama kancaları

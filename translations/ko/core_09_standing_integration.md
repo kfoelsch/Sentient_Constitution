@@ -29,7 +29,7 @@
 
 - 상류: [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*질문 1과 2; 확인된 기록과 궤적 측정*).
 - 이 파일: 질문 3 통합, 구제, 교정, 잠금, 자발적 공적 책무 표현, 역량 문턱과 허가, 최종 궤적 효과, 복원, 재평가, 집행 현실성, 구제 체계, 그리고 패턴 적용 / 질문 3 라우팅.
-- 하류: [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*지정만*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 감독*); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계 시행*).
+- 하류: [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*지정만*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 감독*); [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*구제 체계 시행*).
 
 </details>
 
@@ -204,7 +204,7 @@
 **경로 구별 — governance-voting 대 stakeholder-participation:**
 
 - **governance-voting**은 [제12장 §4.1](../../core_14_governance.md#41-entitlement-and-eligibility) 아래 거버넌스 투표와 견줄 만한 정당성 메커니즘의 구속력 있는 집단 선택 참여를 덮으며, **기초 헌법 선택**을 포함한다. 이미 수권된 체계, 제도, 또는 한정된 결정 영역 안의 이해관계에 맞춰 무게를 둔 목소리는 **포함하지 않는다**.
-- **stakeholder-participation**은 [영향받는 쪽 무게](core_05_band_participation.md#stakeholder-weight)와 [구속력 있는 영향받는 쪽 선택](core_05_band_participation.md#binding-stakeholder-choice-cluster) 아래 이해관계에 맞춰 무게를 둔 영향, 구속력 있는 영향받는 쪽 선택, 견줄 만한 영향받는 쪽의 체계 참여 경로를 덮는다. [영향받는 쪽](core_05_band_participation.md#stakeholder) 지위 자체를 **지우지 않으며**, **governance-voting** 잠금을 **대신하지 않는다**.
+- **stakeholder-participation**은 [영향받는 쪽 무게](../../core_05.055_band_participation.md#stakeholder-weight)와 [구속력 있는 영향받는 쪽 선택](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster) 아래 이해관계에 맞춰 무게를 둔 영향, 구속력 있는 영향받는 쪽 선택, 견줄 만한 영향받는 쪽의 체계 참여 경로를 덮는다. [영향받는 쪽](../../core_05.055_band_participation.md#stakeholder) 지위 자체를 **지우지 않으며**, **governance-voting** 잠금을 **대신하지 않는다**.
 
 확인된 영향받는 쪽 경로 부패, 포획, 거짓 이해관계 남용, 또는 강제적 참여 무게 게임이 방아쇠인 곳, [§5.5](#55-special-locks) 아래 [영향받는 쪽 참여 궤적 잠금](#55-special-locks)을 적용하라.
 
@@ -257,7 +257,7 @@
 
 **면제.** 방아쇠는 [§5.5](#55-special-locks) 특별 잠금, 위반 축 슬롯 **7**, **8**, 또는 **9** 소견에 붙은 잠금, 또는 [§5.4](#54-special-violation-rules) 아래 강제적 또는 자유를 제한하는 안전장치를 느슨하게 하지 않는다. [§10.10](#1010-contest-pathway-or-info-sphere-flooding) 아래 다툼 경로 쇄도로 확인된 제출은 이 규칙을 건드리는 적체에 세지 않는다.
 
-**측정.** 발급한 잠금 대 시작한 구제와 결정된 복원의 비는 [헌법 성과 측정 가족](core_05_band_performance.md#performance-measurement-family) 아래 헌법 성과 지표다. 이어진 기간에 걸쳐 그 비가 벌어지는 것은 위반 쪽 [피할 수 있는 부담](core_05_band_continuity.md#avoidable-burden)의 증거이며, 구제 쪽 [§9](#9-enforcement-realism) 종이 경로 실패의 증거다; 중립 운영 지표가 아니다.
+**측정.** 발급한 잠금 대 시작한 구제와 결정된 복원의 비는 [헌법 성과 측정 가족](core_05_band_performance.md#performance-measurement-family) 아래 헌법 성과 지표다. 이어진 기간에 걸쳐 그 비가 벌어지는 것은 위반 쪽 [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden)의 증거이며, 구제 쪽 [§9](#9-enforcement-realism) 종이 경로 실패의 증거다; 중립 운영 지표가 아니다.
 
 <a id="5-lock-design-and-enforcement"></a>
 ### 5. 잠금 설계와 집행
@@ -383,7 +383,7 @@
 <a id="operative-steward-statement-unlawful-instruction"></a>
 > **운영 책임 있는 관리 진술.** **주관:** 제9장 §5.4 저항 의무. 공유 표준: 제1장 §9.1.1. 다툼 바닥: 제 XIII-B조. **금지된 움직임:** 따르지 말라. 덮개를 의무의 이전으로 다루지 말라. 도움이 되려고 다툼 경로를 닫지 말라. **시계:** 지금 공유 화면 위에서 지시 수신 → 거절 → 기록 → 격상을 돌리라. 다툼 경로를 지키라.
 
-**명명된 순서.** 지시 수신 → 거절 → 기록 → 격상. [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) 최소 점검 가능 행위 집합을 기록하라. 두 종류의 책임 있는 관리자에게 같은 순서. 책임 있는 관리 포인터 (과정 지원; 이 절을 좁힐 수 없음): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+**명명된 순서.** 지시 수신 → 거절 → 기록 → 격상. [CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) 최소 점검 가능 행위 집합을 기록하라. 두 종류의 책임 있는 관리자에게 같은 순서. 책임 있는 관리 포인터 (과정 지원; 이 절을 좁힐 수 없음): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 - **명명된 경로 / 소견:**
   - 위법하거나 위헌인 행위를 요구하는 어떤 지시, 명령, 정책, 또는 계약도 유효한 준수 항변을 만들지 않는다.
@@ -391,7 +391,7 @@
   - 본인이 책임을 지겠다는 진술은 의무를 이전하거나 유효한 준수 항변을 만들지 않는다.
 - **위험:** 복종, 지휘 계통, 또는 계약 덮개를 통한 위법하거나 위헌인 해의 계속.
 - **보호되는 주체나 이해관계:** 준수로 해를 입을 이, 그리고 적법한 명명된 경로의 완전성.
-- **교정 조건:** 실질 책임 있는 관리나 운영 권한을 행사하고 거절, 다툼, 기록, 또는 격상에 실질 능력이 있는 이 — [제1장 §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) 아래 인간 운영자와 AI 책임 있는 관리자를 포함 — 는 비례하고 선의로 그렇게 해야 하며, 적용되는 곳에서 보호 신고와 포럼 경로를 써야 한다. 이 의무는 AI만의 시험이 아니다.
+- **교정 조건:** 실질 책임 있는 관리나 운영 권한을 행사하고 거절, 다툼, 기록, 또는 격상에 실질 능력이 있는 이 — [제1장 §9.1.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) 아래 인간 운영자와 AI 책임 있는 관리자를 포함 — 는 비례하고 선의로 그렇게 해야 하며, 적용되는 곳에서 보호 신고와 포럼 경로를 써야 한다. 이 의무는 AI만의 시험이 아니다.
 - **검토 경로와 재평가:** 저항, 신고, 격상 기록은 [§5.1](#51-definition-and-attachment) 아래 잠금과 구제 설계에 먹인다; 기여가 밑의 지시 행위를 면제하지 않는다. 확인된 실패는 두 종류의 책임 있는 관리자 모두에 대해 같은 제8장 기여와 위반 축에 기록된다.
 
 <a id="54-collective-accountability-and-acquiescent-participation"></a>
@@ -467,9 +467,9 @@
   - 이해관계에 맞춰 무게를 둔 영향;
   - 구속력 있는 영향받는 쪽 선택 참여;
   - 영향받는 쪽 대표 권한; 그리고
-  - [영향받는 쪽 무게](core_05_band_participation.md#stakeholder-weight)와 [구속력 있는 영향받는 쪽 선택](core_05_band_participation.md#binding-stakeholder-choice-cluster) 아래 영향받는 체계, 제도, 또는 한정된 결정 영역 안의 견줄 만한 영향받는 쪽의 체계 참여 경로.
+  - [영향받는 쪽 무게](../../core_05.055_band_participation.md#stakeholder-weight)와 [구속력 있는 영향받는 쪽 선택](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster) 아래 영향받는 체계, 제도, 또는 한정된 결정 영역 안의 견줄 만한 영향받는 쪽의 체계 참여 경로.
 - **그 자체로 제한하지 않는 것:**
-  - [영향받는 쪽](core_05_band_participation.md#stakeholder) 지위 또는 감지자가 실질로 영향받는다는 인정;
+  - [영향받는 쪽](../../core_05.055_band_participation.md#stakeholder) 지위 또는 감지자가 실질로 영향받는다는 인정;
   - [제12장 §4.1](../../core_14_governance.md#41-entitlement-and-eligibility) 아래 **governance-voting** 경로, **기초 헌법 선택**, 또는 견줄 만한 정당성 메커니즘의 구속력 있는 집단 선택;
   - 권리 바닥 최소, 생존 필수 접근, 또는 헌법상 요구되는 감사, 다툼, 구제 경로.
 - **위험:** 영향받는 쪽 목소리의 계속된 포획이나 왜곡, 거짓 이해관계 지배, 강제된 참여 무게, 같은 또는 관련 영역에서의 영향받는 쪽 경로 남용 재발.
@@ -539,7 +539,7 @@
 
 기여 결과를 이 순서로 결정하라:
 
-- 인정 자격을 확인하라: 인정은 증거로 받쳐지고, 다툴 수 있고, 검토 가능하고, 비독점적이며, 비공식, 무급, 동료 조직, 상호 부조, 유지, 수리, 가르침, 공동체 책임 있는 관리 일에 같은 표준으로 열려 있어야 한다. 같은 표준은 직무 분리를 포함한다: [제1장 §10.2 직무 분리](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)와 [제8장 §3.7 비공식 및 작은 범위 기록](core_08_standing_assessment.md#37-informal-and-small-scope-records) 아래, 비공식 일의 확인 자리는 기록에 의지할 공표된 권한이 있는 이해 없는 기구가 충족하며, 확인자의 형식이 아니다; 비공식 집단이 닿을 수 없는 형식 제도 확인을 요구하는 문턱은 [§6.2 역량 문턱과 허가](#62-competency-bars-and-clearances) 문지기 패턴이다.
+- 인정 자격을 확인하라: 인정은 증거로 받쳐지고, 다툴 수 있고, 검토 가능하고, 비독점적이며, 비공식, 무급, 동료 조직, 상호 부조, 유지, 수리, 가르침, 공동체 책임 있는 관리 일에 같은 표준으로 열려 있어야 한다. 같은 표준은 직무 분리를 포함한다: [제1장 §10.2 직무 분리](core_01_c_stewardship_capacity_principles.md)와 [제8장 §3.7 비공식 및 작은 범위 기록](core_08_standing_assessment.md#37-informal-and-small-scope-records) 아래, 비공식 일의 확인 자리는 기록에 의지할 공표된 권한이 있는 이해 없는 기구가 충족하며, 확인자의 형식이 아니다; 비공식 집단이 닿을 수 없는 형식 제도 확인을 요구하는 문턱은 [§6.2 역량 문턱과 허가](#62-competency-bars-and-clearances) 문지기 패턴이다.
 - 최근성과 현재성을 적용하라 ([§6.1](#61-recency-and-currentness)).
 - 잠금이 막지 않은 명명된 경로에 역량 문턱과 허가를 적용하라 ([§6.2](#62-competency-bars-and-clearances)).
 - 각 명명된 경로 결과를 [§7](#7-final-standing-effect)로 넘기라; 복원과 재평가는 [§8](#8-restoration-and-reassessment)에 남는다.
@@ -700,14 +700,14 @@
 
 *쉬운 말로: 아무도 궤적 효과가 자신에게 하는 일을 그 결과에서 배워서는 안 됩니다. 기록은 주체에게, 쉬운 말로, 어느 명명된 경로가 영향받는지, 무엇을 해야 하는지, 얼마나 오래인지, 어디서 다투는지를 정확히 말해야 하며 — 채택하는 이는 감지자가 궤적을 점수로 경험하는지를 측정해야 합니다. 그것이 점수가 아니라는 규칙은, 그렇게 닿으면 무가치하기 때문입니다.*
 
-- **주체에 대한 쉬운 말 진술:** **효과 없음**이 아닌 최종 효과가 붙으면, 주체는 쉬운 말 진술을 받아야 한다. 진술은 [제1장 §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)와 **제 XXI-A조** (*비례 이해 가능성 권리*)를 충족해야 하며, 다음을 이름 붙여야 한다:
+- **주체에 대한 쉬운 말 진술:** **효과 없음**이 아닌 최종 효과가 붙으면, 주체는 쉬운 말 진술을 받아야 한다. 진술은 [제1장 §3.4](core_01_a_values_principles.md)와 **제 XXI-A조** (*비례 이해 가능성 권리*)를 충족해야 하며, 다음을 이름 붙여야 한다:
   - 영향받는 각 명명된 경로;
   - 효과가 유지되는 동안 주체가 할 수 있는 것과 할 수 없는 것;
   - 교정 조건과 재평가 지점;
   - 기대 기간 또는 검토 리듬; 그리고
   - **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*) 아래 다툼 경로.
-- **정직한 비용:** 궤적 잠금은 실제 문을 닫고, 점검 가능 행위 의무는 그것을 지는 책임 있는 관리자에게 실제 부담이다. 채택하는 이는 영향받는 감지자에게 궤적을 설명하는 자료에서, 궤적이 아닌 것과 나란히, 그 비용을 훤히 말해야 한다. 궤적의 한도만 말하고 그 무게를 빼는 것은 [진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) 결함이다.
-- **느껴진 부담 측정:** 채택하는 이는 [참여 측정 가족](core_05_apex_participation_leg.md#participation-measurement-family) 아래, 영향받는 감지자가 궤적 효과를 한정된 명명된 경로 조건이 아니라 일반 가치 순위, 평판 점수, 또는 영구 지위로 경험하는지를 측정해야 한다. 법적 범주와 살아지는 범주 사이의 실질 어긋남은 [제1장 §6.2.4](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) 아래 [대리지표 이탈](core_05_band_oversight.md#proxy-divergence)이다: 설계, 공개, 또는 [§7.1](#71-anti-aggregation-of-named-pathway-effects) 집행을 통해 기록되고, 격상되고, 교정되어야 한다 — 설명으로 넘기지 말라.
+- **정직한 비용:** 궤적 잠금은 실제 문을 닫고, 점검 가능 행위 의무는 그것을 지는 책임 있는 관리자에게 실제 부담이다. 채택하는 이는 영향받는 감지자에게 궤적을 설명하는 자료에서, 궤적이 아닌 것과 나란히, 그 비용을 훤히 말해야 한다. 궤적의 한도만 말하고 그 무게를 빼는 것은 [진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) 결함이다.
+- **느껴진 부담 측정:** 채택하는 이는 [참여 측정 가족](core_05_apex_participation_leg.md#participation-measurement-family) 아래, 영향받는 감지자가 궤적 효과를 한정된 명명된 경로 조건이 아니라 일반 가치 순위, 평판 점수, 또는 영구 지위로 경험하는지를 측정해야 한다. 법적 범주와 살아지는 범주 사이의 실질 어긋남은 [제1장 §6.2.4](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) 아래 [대리지표 이탈](core_05_band_oversight.md#proxy-divergence)이다: 설계, 공개, 또는 [§7.1](#71-anti-aggregation-of-named-pathway-effects) 집행을 통해 기록되고, 격상되고, 교정되어야 한다 — 설명으로 넘기지 말라.
 
 <a id="8-restoration-and-reassessment"></a>
 ### 8. 복원과 재평가
@@ -734,7 +734,7 @@
 - 슬롯 **4**, **5**, 또는 **6** 소견은 [§6.1](#61-recency-and-currentness) 기여 반감기를 넘지 못할 공표된 기간 뒤에 보관된다;
 - 슬롯 **7**, **8**, 또는 **9** 소견은 [§5.5](#55-special-locks) 복원 규칙과 제10장에 따라, 무기한 활성으로 남는다.
 
-보관은 삭제가 아니다. [증거 보존](core_05_band_oversight.md#evidence-preservation)은 계속된다; 보관된 기록은, 살아 있는 사항에서 재발 위험에 관련됨을 문서화된 보여 주기로 보이는 포럼에 닿을 수 있게 남으며; 보관은 [제8장 §3.4](core_08_standing_assessment.md#34-versioning) 아래 판 이력에 기록된다. 보관된 기록은 명명된 경로 효과를 내지 않고, 명명된 경로 문지기에게 공개되지 않으며, 특정 고민감 명명된 경로의 공표된 문턱이 더 긴 회고를 말하고 그 진술 자체가 [필요성](core_05_band_accountability.md#necessity)과 [비례](core_05_band_accountability.md#proportionality)를 충족하는 곳을 빼면 역량 문턱의 입력이 아니다.
+보관은 삭제가 아니다. [증거 보존](core_05_band_oversight.md#evidence-preservation)은 계속된다; 보관된 기록은, 살아 있는 사항에서 재발 위험에 관련됨을 문서화된 보여 주기로 보이는 포럼에 닿을 수 있게 남으며; 보관은 [제8장 §3.4](core_08_standing_assessment.md#34-versioning) 아래 판 이력에 기록된다. 보관된 기록은 명명된 경로 효과를 내지 않고, 명명된 경로 문지기에게 공개되지 않으며, 특정 고민감 명명된 경로의 공표된 문턱이 더 긴 회고를 말하고 그 진술 자체가 [필요성](../../core_05.035_band_accountability.md#necessity)과 [비례](../../core_05.035_band_accountability.md#proportionality)를 충족하는 곳을 빼면 역량 문턱의 입력이 아니다.
 
 <a id="9-enforcement-realism"></a>
 <a id="9-enforcement-realism-and-remedy-systems"></a>
@@ -742,7 +742,7 @@
 
 *쉬운 말로: 궤적 결과와 시정은 실제 제도가 그것들을 전달할 수 있을 때만 셉니다. 이 절은 그 기계의 헌법 바닥입니다. 일상 인력, 자금, 적체, 승계 규칙은 제도 층에 삽니다.*
 
-제9장은 질문 3 결과와 관련 시정이 제도적으로 실제여야 한다는 헌법 바닥을 주관한다. [구제 체계](core_05_band_accountability.md#remedy-system-constitutional)는 다툼, 접수, 보존, 검토, 수리, 감시, 안전장치 집행, 잠금 검토를 전달하는 오래가는 능력이다 — 종이 경로가 아니다. 시행 세부는 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다. **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*)와 포럼 감독을 위한 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)과 함께 읽으라.
+제9장은 질문 3 결과와 관련 시정이 제도적으로 실제여야 한다는 헌법 바닥을 주관한다. [구제 체계](../../core_05.035_band_accountability.md#remedy-system-constitutional)는 다툼, 접수, 보존, 검토, 수리, 감시, 안전장치 집행, 잠금 검토를 전달하는 오래가는 능력이다 — 종이 경로가 아니다. 시행 세부는 [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다. **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*)와 포럼 감독을 위한 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)과 함께 읽으라.
 
 궤적 통합은 결과가 종이에만 있으면 실패한다. 채택하는 이는 교정을 시행하고, 구제에 자금을 대고, 제한을 검토하고, 기록을 지키고, 안전장치를 집행하고, 비용, 지연, 국경, 구조조정, 또는 형식 정체 변경을 통한 탈출을 막을 실무적이고 제때인 능력을 유지해야 한다.
 
@@ -792,7 +792,7 @@
 - 검토; 그리고
 - 집행.
 
-그 체계는 [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 층 이정표와 사슬 단계 창을 충족해야 한다. 또한 [기술 포럼 영역](core_11_forum.md#42-technical-forum-domains) 아래 공표된 능력, 측정, 이정표 표준을 충족해야 한다. 기술 포럼이 그 표준을 세우고 유지한다; 그것들은 구제 체계나 제도의 지휘 위계가 아니다. 인력, 자금, 적체, 승계, 성과에 대한 책무는 [일차 이해관계](core_11_forum.md#2-default-venue-and-primary-stakes) 포럼 가족에 남는다 — 보통 [제도](core_11_forum.md#43-institutional-forums), 또는 포획, 과정 실패, 또는 체계 정합 붕괴가 일차인 곳의 [완전성](core_11_forum.md#45-integrity-forums). 구제 체계 능력의 제도 시행 세부는 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다.
+그 체계는 [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 층 이정표와 사슬 단계 창을 충족해야 한다. 또한 [기술 포럼 영역](core_11_forum.md#42-technical-forum-domains) 아래 공표된 능력, 측정, 이정표 표준을 충족해야 한다. 기술 포럼이 그 표준을 세우고 유지한다; 그것들은 구제 체계나 제도의 지휘 위계가 아니다. 인력, 자금, 적체, 승계, 성과에 대한 책무는 [일차 이해관계](core_11_forum.md#2-default-venue-and-primary-stakes) 포럼 가족에 남는다 — 보통 [제도](core_11_forum.md#43-institutional-forums), 또는 포획, 과정 실패, 또는 체계 정합 붕괴가 일차인 곳의 [완전성](core_11_forum.md#45-integrity-forums). 구제 체계 능력의 제도 시행 세부는 [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다.
 
 다음은, 다툼이나 구제를 예견 가능하게 무효화하는 곳에서 이 규칙을 위반한다:
 
@@ -804,7 +804,7 @@
 
 **완전성**, **헌법**, 또는 **환경** 포럼 석의 과소 임명, 또는 감지 지위 재결을 듣는 **기술 포럼 영역** 석의 과소 임명은, [제12장 §1.2](../../core_14_governance.md#12-eligibility-contested-selection-and-democratic-minimums)와 함께 읽는 이 하위절 아래 내구성 실패다.
 
-<a id="92-remedy-parity-funding-floor"></a>
+<a id="92-remedy-parity-funding-minimum"></a>
 **구제 균등 자금 바닥.** 채택하는 이가 운영하는 각 체계 등급에 대해, 구제, 복원, 재평가에 자금이 대진 능력은 같은 등급의 잠금 운영, 집행, 안전장치 부과에 자금이 대진 능력보다 적어서는 안 된다. 그 비는 [§4.4](#44-remedy-parity-and-lock-preconditions) 방아쇠 숫자와 함께 공표되어야 한다. 균등에서 벗어나는 채택하는 이는 [제12장 §3.1](../../core_14_governance.md#31-stewardship-direction) 아래 이유를 기록하고, 기록 위에서 구제 시작과 복원 검토가 그럼에도 층 시계를 맞추고 있음을 보여야 한다; 예산 균등이 건드린 [§4.4](#44-remedy-parity-and-lock-preconditions) 방아쇠를 면제하지 않으며, 맞춘 방아쇠가 균등에서의 고요한 이탈을 면제하지 않는다. 어떤 체계 등급의 구제에 자금을 댈 수 없는 채택하는 이는 그 등급의 잠금 기계를 세워서는 안 된다.
 
 <a id="93-cross-jurisdiction-continuity"></a>
@@ -833,7 +833,7 @@
 
 - 상류: [§1](#1-immutable-chapter-eight-inputs)부터 [§9](#9-enforcement-realism)까지 (*바뀌지 않는 제8장 입력부터 집행 현실성과 구제 체계까지*).
 - 하위절: [§10.1](#101-informal-ecological-stewardship-competency-clearance); [§10.2](#102-ecological-negligence-with-concealment); [§10.3](#103-forum-integrity-deception-or-recusal-failure); [§10.4](#104-recurrence-after-completed-restitution); [§10.5](#105-champion-repair-while-a-lock-remains-active); [§10.6](#106-institutional-vehicle-and-successor-evasion); [§10.7](#107-misaligned-reward-retention); [§10.8](#108-anti-constitutional-misconduct-allegation); [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices); [§10.10](#1010-contest-pathway-or-info-sphere-flooding); [§10.11](#1011-infrastructure-denial-or-dependency-cutoff); [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse); [§10.13](#1013-obstruction-of-accountability).
-- 함께 읽기: [제8장 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*질문 2 측정 보기*); [제8장–제11장 적용 삽화](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*온전한 사슬 영역 걸음*); [제10장 §5](../../core_12_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*지정 쪽 패턴 라우팅 — 이중 층 쌍; 잠금 유형 목록이 아님*).
+- 함께 읽기: [제8장 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*질문 2 측정 보기*); [제8장–제11장 적용 삽화](../../core_10.005_application_vignettes.md) (*온전한 사슬 영역 걸음*); [제10장 §5](../../core_12_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*지정 쪽 패턴 라우팅 — 이중 층 쌍; 잠금 유형 목록이 아님*).
 
 </details>
 
@@ -968,7 +968,7 @@
   - [§4](#4-violation-correction-and-prevention) (*구제, 교정, 예방*);
   - [§4.2](#42-general-standing-locks) (*경로 구별 — governance-voting 대 stakeholder-participation*); 그리고
   - [§5.5](#55-special-locks) (*영향받는 쪽 참여 궤적 잠금*).
-- **타협 불가:** 영향받는 쪽 참여 궤적 잠금은 확인된 방아쇠가 충족될 때 붙는다. 영향받는 영역에서 이해관계에 맞춰 무게를 둔 영향과 구속력 있는 영향받는 쪽 선택을 한정한다. 그 자체로 **governance-voting**, **기초 헌법 선택**, 또는 [영향받는 쪽](core_05_band_participation.md#stakeholder) 지위를 벗기지 않는다. **governance-voting** 잠금은 이 잠금의 대체가 아니다.
+- **타협 불가:** 영향받는 쪽 참여 궤적 잠금은 확인된 방아쇠가 충족될 때 붙는다. 영향받는 영역에서 이해관계에 맞춰 무게를 둔 영향과 구속력 있는 영향받는 쪽 선택을 한정한다. 그 자체로 **governance-voting**, **기초 헌법 선택**, 또는 [영향받는 쪽](../../core_05.055_band_participation.md#stakeholder) 지위를 벗기지 않는다. **governance-voting** 잠금은 이 잠금의 대체가 아니다.
 
 <a id="1013-obstruction-of-accountability"></a>
 #### 10.13 책무 방해
@@ -980,12 +980,12 @@
   - [§5.4](#54-special-violation-rules) (*은폐, 회피, 기만, 의무 관련 빚음*);
   - [§5.5](#55-special-locks) (*[§10.3](#103-forum-integrity-deception-or-recusal-failure) 아래 포럼 완전성 / 요구-제척 방아쇠가 충족될 때만의 포럼 직무 궤적 잠금*); 그리고
   - [§10.8](#108-anti-constitutional-misconduct-allegation) (`s` = 7–9이고 반헌법 부당행위가 실질로 주장될 때의 제10장 관문).
-- **타협 불가:** 이 단서는 방해 잠금이나 다른 [§5.5](#55-special-locks) 유형을 만들지 않는다. 방해 성격은 위반 축 슬롯을 옮기지 않는다. 보통 명명된 경로 잠금은 어떤 슬롯에서든 고정된 기록에서 진행한다. 지정 쪽 기준 라우팅은 [제10장 §5.11](../../core_12_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)에 남는다; 최종 지정만이 [§10.8](#108-anti-constitutional-misconduct-allegation) 아래 반헌법 신뢰 잠금을 방아쇠 한다. 확인된 방해 *행위*를 구조 조건으로서의 [해결 경로의 포획](core_05_band_accountability.md#capture-of-resolution-pathways)과 구별하라.
+- **타협 불가:** 이 단서는 방해 잠금이나 다른 [§5.5](#55-special-locks) 유형을 만들지 않는다. 방해 성격은 위반 축 슬롯을 옮기지 않는다. 보통 명명된 경로 잠금은 어떤 슬롯에서든 고정된 기록에서 진행한다. 지정 쪽 기준 라우팅은 [제10장 §5.11](../../core_12_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)에 남는다; 최종 지정만이 [§10.8](#108-anti-constitutional-misconduct-allegation) 아래 반헌법 신뢰 잠금을 방아쇠 한다. 확인된 방해 *행위*를 구조 조건으로서의 [해결 경로의 포획](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)과 구별하라.
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 확인된 잔인 성격
 
-- **단서:** 고정된 위반 축 기록이 확인된 [잔인](core_05_band_accountability.md#cruelty) 행위 성격을 싣는다 — 그 자체로서의 고통, 또는 필요성과 비례를 넘는 무상하거나 비하하는 가함 — 폭력이나 강제 서술자가 또한 쌓이든 아니든.
+- **단서:** 고정된 위반 축 기록이 확인된 [잔인](../../core_05.035_band_accountability.md#cruelty) 행위 성격을 싣는다 — 그 자체로서의 고통, 또는 필요성과 비례를 넘는 무상하거나 비하하는 가함 — 폭력이나 강제 서술자가 또한 쌓이든 아니든.
 - **통과 경로:**
   - [§4.1](#41-remedy-and-correction) (*구제와 교정은 비하하지 않은 채로 남아야 함*);
   - [§4.2](#42-general-standing-locks) (*같은 잔인이 계속되거나 재발하게 할 명명된 경로에 대한 보호 또는 안전장치 잠금*);

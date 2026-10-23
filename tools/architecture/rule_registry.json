@@ -208,7 +208,7 @@
     {
       "id": "CH8-NEST-CANDIDATE",
       "legacy_ref": "Chapter Eight nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Eight functional-independence and segregation-of-duties bullets that would scan better as nested children. Not a regression gate.",
+      "summary": "Advisory ranking of packed Chapter Eight functional-independence and separation-of-duties bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch8-nested-list-candidates",
       "status": "advisory"
     },

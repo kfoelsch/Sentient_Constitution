@@ -15,7 +15,7 @@
 > | **Parte B — Registro y proceso** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: registro de certificación (incluidos campos de la [Carta](core_05_band_continuity.md#charter) que gobierna), transparencia/impugnabilidad, roles de foro, secuencia de supervisión, puente de trayectoria, reapertura — numeración continua del capítulo desde la Parte A §10 |
 >
 > Las anclas heredadas del antiguo Capítulo Siete de un solo archivo se conservan en los archivos de la Parte A y de la Parte B. Los enlaces genéricos al **Capítulo Siete** en otros archivos se enrutan a la parte adecuada por número de sección.
-> La formación institucional de la Carta, los campos mínimos y los deberes de revisión periódica viven en [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** — el Capítulo Siete consume esos campos; no los redefine.
+> La formación institucional de la Carta, los campos mínimos y los deberes de revisión periódica viven en [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** — el Capítulo Siete consume esos campos; no los redefine.
 
 >
 > **Anterior (este idioma):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

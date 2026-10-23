@@ -12,10 +12,10 @@
 > | অংশ | ফাইল | শাসন |
 > |------|------|------|
 > | **অংশ ক — মূল্যায়ন** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: উদ্দেশ্য, ব্যবস্থার শ্রেণি, পুরো-ব্যবস্থা মূল্যায়ন (সনদকৃত পরিসর বনাম কার্যকরী সীমানা সহ), ডোমেইন-মূল্যায়ন হুক, শ্রেণির উদাহরণমূলক চলন |
-> | **অংশ খ — নথি ও প্রক্রিয়া** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: প্রত্যয়ন নথি (শাসক [পরিসর সনদ](core_05_band_continuity.md#charter) ক্ষেত্র সহ), স্বচ্ছতা/চ্যালেঞ্জ-যোগ্যতা, মঞ্চ ভূমিকা, তত্ত্বাবধান ক্রম, প্রস্থিতি সেতু, পুনরায় খোলা — অংশ ক §10 থেকে ধারাবাহিক অধ্যায় ক্রমাঙ্কন |
+> | **অংশ খ — নথি ও প্রক্রিয়া** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: প্রত্যয়ন নথি (শাসক [পরিসর সনদ](../../core_05.040_band_continuity.md) ক্ষেত্র সহ), স্বচ্ছতা/চ্যালেঞ্জ-যোগ্যতা, মঞ্চ ভূমিকা, তত্ত্বাবধান ক্রম, প্রস্থিতি সেতু, পুনরায় খোলা — অংশ ক §10 থেকে ধারাবাহিক অধ্যায় ক্রমাঙ্কন |
 >
 > আগের এক-ফাইল অধ্যায় সাতের উত্তরাধিকার নোঙর অংশ ক ও অংশ খ ফাইলে রক্ষা করা। অন্য ফাইলে সাধারণ **অধ্যায় সাত** লিঙ্ক ধারা সংখ্যা অনুসারে উপযুক্ত অংশে রাউট হয়।
-> প্রাতিষ্ঠানিক পরিসর সনদ গঠন, ন্যূনতম ক্ষেত্র, ও পর্যায়ক্রমিক-পর্যালোচনা কর্তব্য থাকে [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6**-এ — অধ্যায় সাত সেই ক্ষেত্র ব্যবহার করে; পুনরায় সংজ্ঞায়িত করে না।
+> প্রাতিষ্ঠানিক পরিসর সনদ গঠন, ন্যূনতম ক্ষেত্র, ও পর্যায়ক্রমিক-পর্যালোচনা কর্তব্য থাকে [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6**-এ — অধ্যায় সাত সেই ক্ষেত্র ব্যবহার করে; পুনরায় সংজ্ঞায়িত করে না।
 
 >
 > **আগেরটি (এই লোকেল):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

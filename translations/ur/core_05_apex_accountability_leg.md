@@ -19,9 +19,9 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) (جوابدہی ٹانگ؛ [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ بنیادی مقصد [شگفتگی](core_00_preamble.md#flourishing)۔
-- زیریں: اصول: [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)؛ [باب یکم §11.6 جانشین ذمہ داری اور رسمی ڈھانچہ فرار مخالف](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [چوکڑی کی ٹانگ کی تحلیل](#accountability-tetrad-leg-decomposition)؛ جوابدہی پٹی کی برگ تعریفیں [core_05_band_accountability.md](../../core_05.035_band_accountability.md) میں۔
+- زیریں: اصول: [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [باب یکم §11.6 جانشین ذمہ داری اور رسمی ڈھانچہ فرار مخالف](core_01_c_stewardship_capacity_principles.md)؛ [چوکڑی کی ٹانگ کی تحلیل](#accountability-tetrad-leg-decomposition)؛ جوابدہی پٹی کی برگ تعریفیں [core_05_band_accountability.md](../../core_05.035_band_accountability.md) میں۔
 - چوکڑی کی بہن ٹانگ: [بروقت کارروائی](core_05_apex_timeliness_leg.md#timeliness-constitutional)۔
-- ساتھ پڑھیں: [جھرمٹ جوابدہی، چیلنج پذیری، فیصلہ اور تنازعے کا حل، اجتماعی جوابدہی کی ناکامی، اور قاہرہ قوت](../../core_05.045_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)، [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability)، [آڈٹ پذیری](../../core_05.050_band_oversight.md#auditability)، [منسوب عمل](../../core_05.035_band_accountability.md#attributable-action)، [انتساب کی دیانت](../../core_05.035_band_accountability.md#attribution-integrity)، [باب یکم §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)، [باب سوم §2.1.1 رسمی لیبل اور نمائندگی کے کھیل](core_03_definition_integrity.md#211-رسمی-لیبل-اور-نمائندگی-کے-کھیل)، اور [باب نہم §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
+- ساتھ پڑھیں: [جھرمٹ جوابدہی، چیلنج پذیری، فیصلہ اور تنازعے کا حل، اجتماعی جوابدہی کی ناکامی، اور قاہرہ قوت](core_05_band_integrative.md)، [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability)، [آڈٹ پذیری](../../core_05.050_band_oversight.md#auditability)، [منسوب عمل](../../core_05.035_band_accountability.md#attributable-action)، [انتساب کی دیانت](../../core_05.035_band_accountability.md#attribution-integrity)، [باب یکم §11.6](core_01_c_stewardship_capacity_principles.md)، [باب سوم §2.1.1 رسمی لیبل اور نمائندگی کے کھیل](core_03_definition_integrity.md#211-رسمی-لیبل-اور-نمائندگی-کے-کھیل)، اور [باب نہم §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
 
 </details>
 
@@ -81,7 +81,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- ساتھ پڑھیں: [باب یکم §11 محرکات کی ہم آہنگی اور نظام پر قبضہ](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)، [§13 بازار کا ڈھانچہ](core_01_c_stewardship_capacity_principles.md#13-market-structure)، اور [باب ہفتم §3.3 حکمرانی، محرک، اور چیلنج پذیری ضبط](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)۔
+- ساتھ پڑھیں: [باب یکم §11 محرکات کی ہم آہنگی اور نظام پر قبضہ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)، [§13 بازار کا ڈھانچہ](core_01_c_stewardship_capacity_principles.md)، اور [باب ہفتم §3.3 حکمرانی، محرک، اور چیلنج پذیری ضبط](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)۔
 
 </details>
 

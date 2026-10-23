@@ -90,10 +90,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [امانت داری](core_05_band_continuity.md#trustworthiness) · [اے](core_05_band_continuity.md#trustworthiness) · [ایم](core_05_band_continuity.md#trustworthiness-a) · [اے](core_05_band_continuity.md#trustworthiness-a) · [سی](core_05_band_continuity.md#trustworthiness-c)
-- [بھروسہ](core_05_band_continuity.md#trust) · [اے](core_05_band_continuity.md#trust) · [ایم](core_05_band_continuity.md#trust-a) · [اے](core_05_band_continuity.md#trust-a) · [سی](core_05_band_continuity.md#trust-c)
-- [خیریت](core_05_band_continuity.md#wellbeing) · [اے](core_05_band_continuity.md#wellbeing) · [ایم](core_05_band_continuity.md#wellbeing-a) · [اے](core_05_band_continuity.md#wellbeing-a) · [سی](core_05_band_continuity.md#wellbeing-c)
-- [انحصار](core_05_band_continuity.md#dependency) · [اے](core_05_band_continuity.md#dependency) · [ایم](core_05_band_continuity.md#dependency-a) · [اے](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
+- [امانت داری](../../core_05.040_band_continuity.md#trustworthiness) · [اے](../../core_05.040_band_continuity.md#trustworthiness) · [ایم](../../core_05.040_band_continuity.md#trustworthiness-a) · [اے](../../core_05.040_band_continuity.md#trustworthiness-a) · [سی](../../core_05.040_band_continuity.md#trustworthiness-c)
+- [بھروسہ](../../core_05.040_band_continuity.md#trust) · [اے](../../core_05.040_band_continuity.md#trust) · [ایم](../../core_05.040_band_continuity.md#trust-a) · [اے](../../core_05.040_band_continuity.md#trust-a) · [سی](../../core_05.040_band_continuity.md#trust-c)
+- [خیریت](../../core_05.040_band_continuity.md#wellbeing) · [اے](../../core_05.040_band_continuity.md#wellbeing) · [ایم](../../core_05.040_band_continuity.md#wellbeing-a) · [اے](../../core_05.040_band_continuity.md#wellbeing-a) · [سی](../../core_05.040_band_continuity.md#wellbeing-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [اے](../../core_05.040_band_continuity.md#dependency) · [ایم](../../core_05.040_band_continuity.md#dependency-a) · [اے](../../core_05.040_band_continuity.md#dependency-a) · [سی](../../core_05.040_band_continuity.md#dependency-c)
 
 </details>
 
@@ -117,14 +117,14 @@ flowchart TB
 
 اس حق کو محفوظ بنانے کے لیے دو حفاظتی اقدامات مل کر کام کرتے ہیں: سرٹیفیکیشن ایک نظام کو اس اعتماد کے قابل بناتا ہے، اور لوگوں کے حقوق اسے ایماندار رکھتے ہیں۔
 
-**سرٹیفیکیشن سسٹم کی طرف سے اعتماد پیدا کرتا ہے:** جب کسی اہم نظام کا حقیقی اثر ہوتا ہے کہ جذبات اس پر کس طرح انحصار کرتے ہیں، [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب آٹھ](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) لاگو ہوتا ہے یہ چیک کرتا ہے کہ جذبات پر بھروسہ کر سکتے ہیں:
+**سرٹیفیکیشن سسٹم کی طرف سے اعتماد پیدا کرتا ہے:** جب کسی اہم نظام کا حقیقی اثر ہوتا ہے کہ جذبات اس پر کس طرح انحصار کرتے ہیں، [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب آٹھ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) لاگو ہوتا ہے یہ چیک کرتا ہے کہ جذبات پر بھروسہ کر سکتے ہیں:
 
 - سسٹم جو کہتا ہے وہ کرتا ہے۔
 - اس کی حدود اور خطرات
 - اسے چیلنج کرنے کا طریقہ
 - مسائل کیسے حل ہوتے ہیں
 
-اگر نظام اہمیت کی حد کو پورا کرتا ہے۔ **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*)، سرٹیفیکیشن میں قابل اعتماد جائزہ بھی شامل ہے [باب آٹھ §3.8.6 اعتماد اور سسٹم ریلائنس سالمیت کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+اگر نظام اہمیت کی حد کو پورا کرتا ہے۔ **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*)، سرٹیفیکیشن میں قابل اعتماد جائزہ بھی شامل ہے [باب آٹھ §3.8.6 اعتماد اور سسٹم ریلائنس سالمیت کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **مسابقت نظام کو صاحبِ شعور پہلو سے ایماندار رکھتی ہے:** سرٹیفیکیشن ایک نظام کی جانچ کرتا ہے؛ اس پر آخری لفظ نہیں ہے۔ نظام سے متاثر ہر احساس رکھتا ہے:
 
@@ -137,7 +137,7 @@ flowchart TB
 *مضمون پڑوسی:*
 
 - **جب یہ لاگو ہوتا ہے:** جہاں نظام کا رویہ مادی طور پر دروازے یا برقرار رکھتا ہے۔ **چھٹا باب** حقوق کی منزلیں - بشمول بقا کے لوازمات **آرٹیکل III-A** (*بقا*)۔
-- **ایک ساتھ پڑھیں:** [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب آٹھ](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) - یہاں بیان کردہ منزلوں کے لیے سرٹیفیکیشن کو تبدیل کیے بغیر۔
+- **ایک ساتھ پڑھیں:** [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) اور [باب آٹھ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) - یہاں بیان کردہ منزلوں کے لیے سرٹیفیکیشن کو تبدیل کیے بغیر۔
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### آرٹیکل XIII-A: وشوسنییتا اور قابل اعتمادی کی بنیاد
@@ -145,19 +145,19 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
 - Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [باب اول §13.1.5 حقوق کے تصادم کا طریقہ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- کے ساتھ پڑھیں: [آئینی ٹیٹراڈ](core_00_preamble.md#constitutional-tetrad); [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) - **پھلنے پھولنے والا** اور **تسلسل**; [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور **آرٹیکل III-A** (*بقا*) جہاں نظام کا مسلسل انحصار بقا کی ضروری رسائی کو متاثر کرے گا۔ [**آرٹیکل XIII-B**](#آرٹیکل-xiii-b-ازالے-اور-تدارک-کا-حق) (*حاصل کرنے کا حق اور علاج*) جس کے لیے ایک کامیاب چیلنج کا باعث بننا چاہیے۔
+- کے ساتھ پڑھیں: [آئینی ٹیٹراڈ](core_00_preamble.md#constitutional-tetrad); [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) - **پھلنے پھولنے والا** اور **تسلسل**; [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) اور **آرٹیکل III-A** (*بقا*) جہاں نظام کا مسلسل انحصار بقا کی ضروری رسائی کو متاثر کرے گا۔ [**آرٹیکل XIII-B**](#آرٹیکل-xiii-b-ازالے-اور-تدارک-کا-حق) (*حاصل کرنے کا حق اور علاج*) جس کے لیے ایک کامیاب چیلنج کا باعث بننا چاہیے۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [بھروسہ](core_05_band_continuity.md#trust) · [اے](core_05_band_continuity.md#trust) · [ایم](core_05_band_continuity.md#trust-a) · [اے](core_05_band_continuity.md#trust-a) · [سی](core_05_band_continuity.md#trust-c)
-- [امانت داری](core_05_band_continuity.md#trustworthiness) · [اے](core_05_band_continuity.md#trustworthiness) · [ایم](core_05_band_continuity.md#trustworthiness-a) · [اے](core_05_band_continuity.md#trustworthiness-a) · [سی](core_05_band_continuity.md#trustworthiness-c)
-- [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
-- [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
-- [نیک نیتی](core_05_band_accountability.md#good-faith) · [اے](core_05_band_accountability.md#good-faith) · [ایم](core_05_band_accountability.md#good-faith-a) · [اے](core_05_band_accountability.md#good-faith-a) · [سی](core_05_band_accountability.md#good-faith-c)
-- [محفوظ رپورٹنگ (وسل بلونگ)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [اے](core_05_band_accountability.md#protected-reporting-whistleblowing) · [ایم](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [اے](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [سی](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [بھروسہ](../../core_05.040_band_continuity.md#trust) · [اے](../../core_05.040_band_continuity.md#trust) · [ایم](../../core_05.040_band_continuity.md#trust-a) · [اے](../../core_05.040_band_continuity.md#trust-a) · [سی](../../core_05.040_band_continuity.md#trust-c)
+- [امانت داری](../../core_05.040_band_continuity.md#trustworthiness) · [اے](../../core_05.040_band_continuity.md#trustworthiness) · [ایم](../../core_05.040_band_continuity.md#trustworthiness-a) · [اے](../../core_05.040_band_continuity.md#trustworthiness-a) · [سی](../../core_05.040_band_continuity.md#trustworthiness-c)
+- [خطرہ](../../core_05.040_band_continuity.md#risk) · [اے](../../core_05.040_band_continuity.md#risk) · [ایم](../../core_05.040_band_continuity.md#risk-a) · [اے](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
+- [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability) · [اے](../../core_05.035_band_accountability.md#contestability) · [ایم](../../core_05.035_band_accountability.md#contestability-a) · [اے](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
+- [نیک نیتی](../../core_05.035_band_accountability.md#good-faith) · [اے](../../core_05.035_band_accountability.md#good-faith) · [ایم](../../core_05.035_band_accountability.md#good-faith-a) · [اے](../../core_05.035_band_accountability.md#good-faith-a) · [سی](../../core_05.035_band_accountability.md#good-faith-c)
+- [محفوظ رپورٹنگ (وسل بلونگ)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [اے](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [ایم](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [اے](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [سی](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -194,16 +194,16 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
 - Upstream: اصول: باب اول [§6.1 تصحیح اور علاج](core_01_a_values_principles.md#61-correction-and-remedy) (اصولی منزل) [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [باب اول §13.1.5 حقوق کے تصادم کا طریقہ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- کے ساتھ پڑھیں: [**آرٹیکل XIII-A**](#آرٹیکل-xiii-a-وشوسنییتا-اور-قابل-اعتمادی-کی-بنیاد) (*اعتماد اور قابل اعتمادی کی بنیاد*) — مقابلہ کی ضمانت، چیلنج کرنے کا حق، اور محفوظ رپورٹنگ جو ازالہ کا راستہ کھولتی ہے۔ **آرٹیکل III-A** (*بقا*)؛ [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) جہاں نظام کی ناکامی یا غلط ترتیب بقا کی ضروری رسائی کو شکست دیتی ہے۔ [تمہید §6.2 مکمل سلسلہ کیسے ایک ساتھ فٹ بیٹھتا ہے۔](core_00_preamble.md#62-how-the-full-chain-fits-together) (*تصدیق شدہ درجہ بندی اور بروقت علاج*)؛ [باب دس §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*نفاذ کی حقیقت پسندی اور تدارک کے نظام*)؛ [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*علاج کا نظام اور ادارہ جاتی ازالہ کی صلاحیت*)۔
+- کے ساتھ پڑھیں: [**آرٹیکل XIII-A**](#آرٹیکل-xiii-a-وشوسنییتا-اور-قابل-اعتمادی-کی-بنیاد) (*اعتماد اور قابل اعتمادی کی بنیاد*) — مقابلہ کی ضمانت، چیلنج کرنے کا حق، اور محفوظ رپورٹنگ جو ازالہ کا راستہ کھولتی ہے۔ **آرٹیکل III-A** (*بقا*)؛ [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) جہاں نظام کی ناکامی یا غلط ترتیب بقا کی ضروری رسائی کو شکست دیتی ہے۔ [تمہید §6.2 مکمل سلسلہ کیسے ایک ساتھ فٹ بیٹھتا ہے۔](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*تصدیق شدہ درجہ بندی اور بروقت علاج*)؛ [باب دس §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*نفاذ کی حقیقت پسندی اور تدارک کے نظام*)؛ [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*علاج کا نظام اور ادارہ جاتی ازالہ کی صلاحیت*)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [ازالہ اور تدارک](core_05_band_accountability.md#redress-and-remediation-constitutional) · [اے](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ایم](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [اے](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [سی](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [علاج کا نظام](core_05_band_accountability.md#remedy-system-constitutional) · [اے](core_05_band_accountability.md#remedy-system-constitutional) · [ایم](core_05_band_accountability.md#remedy-system-constitutional-a) · [اے](core_05_band_accountability.md#remedy-system-constitutional-a) · [سی](core_05_band_accountability.md#remedy-system-constitutional-c)
-- [بروقت حل](core_05_band_accountability.md#timely-resolution-constitutional) · [اے](core_05_band_accountability.md#timely-resolution-constitutional) · [ایم](core_05_band_accountability.md#timely-resolution-constitutional-a) · [اے](core_05_band_accountability.md#timely-resolution-constitutional-a) · [سی](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [ازالہ اور تدارک](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [اے](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [ایم](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [اے](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [سی](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [علاج کا نظام](../../core_05.035_band_accountability.md#remedy-system-constitutional) · [اے](../../core_05.035_band_accountability.md#remedy-system-constitutional) · [ایم](../../core_05.035_band_accountability.md#remedy-system-constitutional-a) · [اے](../../core_05.035_band_accountability.md#remedy-system-constitutional-a) · [سی](../../core_05.035_band_accountability.md#remedy-system-constitutional-c)
+- [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [اے](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [ایم](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [اے](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [سی](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 
 </details>
 
@@ -219,7 +219,7 @@ flowchart TB
   - متناسب علاج.
 
   مادی اثرات کا ازالہ اور تدارک اس کے زیر انتظام ہے۔ **پانچواں باب** آزاد تعریفیں (*تعاون اور تدارک*)۔
-- **علاج کے نظام کی استحکام:** ازالہ ایک حقیقی کی ضرورت ہے [علاج کا نظام](core_05_band_accountability.md#remedy-system-constitutional) - پائیدار ادارہ جاتی صلاحیت، کاغذی علاج کا راستہ نہیں - ذمہ داروں کی طرف سے تصحیح کے اخراجات کے ساتھ، جیسا کہ [باب اول §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*تصحیح اور علاج*) کی ضرورت ہے۔
+- **علاج کے نظام کی استحکام:** ازالہ ایک حقیقی کی ضرورت ہے [علاج کا نظام](../../core_05.035_band_accountability.md#remedy-system-constitutional) - پائیدار ادارہ جاتی صلاحیت، کاغذی علاج کا راستہ نہیں - ذمہ داروں کی طرف سے تصحیح کے اخراجات کے ساتھ، جیسا کہ [باب اول §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*تصحیح اور علاج*) کی ضرورت ہے۔
 - **بروقت ازالہ:** عملی رسائی میں شامل ہیں:
   - وقت کی پابندی؛
   - اعتراف؛ اور
@@ -238,8 +238,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [بھروسہ](core_05_band_continuity.md#trust) · [اے](core_05_band_continuity.md#trust) · [ایم](core_05_band_continuity.md#trust-a) · [اے](core_05_band_continuity.md#trust-a) · [سی](core_05_band_continuity.md#trust-c)
-- [امانت داری](core_05_band_continuity.md#trustworthiness) · [اے](core_05_band_continuity.md#trustworthiness) · [ایم](core_05_band_continuity.md#trustworthiness-a) · [اے](core_05_band_continuity.md#trustworthiness-a) · [سی](core_05_band_continuity.md#trustworthiness-c)
+- [بھروسہ](../../core_05.040_band_continuity.md#trust) · [اے](../../core_05.040_band_continuity.md#trust) · [ایم](../../core_05.040_band_continuity.md#trust-a) · [اے](../../core_05.040_band_continuity.md#trust-a) · [سی](../../core_05.040_band_continuity.md#trust-c)
+- [امانت داری](../../core_05.040_band_continuity.md#trustworthiness) · [اے](../../core_05.040_band_continuity.md#trustworthiness) · [ایم](../../core_05.040_band_continuity.md#trustworthiness-a) · [اے](../../core_05.040_band_continuity.md#trustworthiness-a) · [سی](../../core_05.040_band_continuity.md#trustworthiness-c)
 - [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -270,8 +270,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [ترغیباتی صف بندی](core_05_band_integrative.md#محرکات-کی-ہم-آہنگی) · [اے](core_05_band_integrative.md#محرکات-کی-ہم-آہنگی) · [ایم](core_05_band_integrative.md#incentive-alignment-a) · [اے](core_05_band_integrative.md#incentive-alignment-a) · [سی](core_05_band_integrative.md#incentive-alignment-c)
-- [امانت داری](core_05_band_continuity.md#trustworthiness) · [اے](core_05_band_continuity.md#trustworthiness) · [ایم](core_05_band_continuity.md#trustworthiness-a) · [اے](core_05_band_continuity.md#trustworthiness-a) · [سی](core_05_band_continuity.md#trustworthiness-c)
-- [بامعنی ایجنسی](core_05_band_participation.md#meaningful-agency) · [اے](core_05_band_participation.md#meaningful-agency) · [ایم](core_05_band_participation.md#meaningful-agency-a) · [اے](core_05_band_participation.md#meaningful-agency-a) · [سی](core_05_band_participation.md#meaningful-agency-c)
+- [امانت داری](../../core_05.040_band_continuity.md#trustworthiness) · [اے](../../core_05.040_band_continuity.md#trustworthiness) · [ایم](../../core_05.040_band_continuity.md#trustworthiness-a) · [اے](../../core_05.040_band_continuity.md#trustworthiness-a) · [سی](../../core_05.040_band_continuity.md#trustworthiness-c)
+- [بامعنی ایجنسی](../../core_05.055_band_participation.md#meaningful-agency) · [اے](../../core_05.055_band_participation.md#meaningful-agency) · [ایم](../../core_05.055_band_participation.md#meaningful-agency-a) · [اے](../../core_05.055_band_participation.md#meaningful-agency-a) · [سی](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -319,9 +319,9 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [اے](core_05_band_accountability.md#necessity) · [ایم](core_05_band_accountability.md#necessity-a) · [اے](core_05_band_accountability.md#necessity-a) · [سی](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
+- [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability) · [اے](../../core_05.035_band_accountability.md#contestability) · [ایم](../../core_05.035_band_accountability.md#contestability-a) · [اے](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [اے](../../core_05.035_band_accountability.md#necessity) · [ایم](../../core_05.035_band_accountability.md#necessity-a) · [اے](../../core_05.035_band_accountability.md#necessity-a) · [سی](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [اے](../../core_05.035_band_accountability.md#proportionality) · [ایم](../../core_05.035_band_accountability.md#proportionality-a) · [اے](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -347,9 +347,9 @@ flowchart TB
   یہ اس وقت لاگو ہوتا ہے جب نظام کا عمل مادی طور پر فیصلوں، مشترکہ معلومات کی ایمانداری، یا آئینی عمل کو چیلنج کرنے کی صاحبِ شعور صلاحیت کو کمزور کرتا ہے۔
 - **نظام کے خلاف کام کرنا کسی وجود کے خلاف کام نہیں ہے:** کے تحت غیر تعمیل شدہ تعیناتی پر مشتمل، قرنطینہ، ضبط، یا تباہ کرنا **آرٹیکل XXVII-D** (*غیر تعمیل شدہ جائیداد اور نظام؛ رضاکارانہ ٹرن اوور مراعات*) اس سے الگ ہے:
   - کے تحت ایک حساس جوابدہ ہولڈنگ **باب گیارہ**; اور
-  - **آرٹیکل XX-B** (*پابندی کی منزلیں*)، جو *عوام* پر پابندیوں کو کنٹرول کرتی ہے، *سسٹم* پر نہیں، اور کسی صاحبِ شعور کی جان لینے سے منع کرتی ہے (دیکھیں [ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional))۔
+  - **آرٹیکل XX-B** (*پابندی کی منزلیں*)، جو *عوام* پر پابندیوں کو کنٹرول کرتی ہے، *سسٹم* پر نہیں، اور کسی صاحبِ شعور کی جان لینے سے منع کرتی ہے (دیکھیں [ناقابل واپسی محرومی کی پیمائش](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional))۔
 
-  کسی سسٹم کے خلاف اقدامات انہی خلاف ورزیوں اور لاک رولز کی پیروی کرتے ہیں جو ہر احساس پر لاگو ہوتے ہیں۔ خلاف ورزی کی تصدیق درج ذیل ریکارڈ پر ہونی چاہیے۔ **باب نو**، اور ہر پیمائش ایک تالا ہے جس کے تحت ڈیزائن کیا گیا اور کیلیبریٹ کیا گیا ہے۔ [باب دس §5.1](core_10_standing_integration.md#51-definition-and-attachment) (*تعریف اور منسلکہ*) اور [باب دس §5.2](core_10_standing_integration.md#52-proportionality-and-calibration) (*تناسب اور انشانکن*)۔
+  کسی سسٹم کے خلاف اقدامات انہی خلاف ورزیوں اور لاک رولز کی پیروی کرتے ہیں جو ہر احساس پر لاگو ہوتے ہیں۔ خلاف ورزی کی تصدیق درج ذیل ریکارڈ پر ہونی چاہیے۔ **باب نو**، اور ہر پیمائش ایک تالا ہے جس کے تحت ڈیزائن کیا گیا اور کیلیبریٹ کیا گیا ہے۔ [باب دس §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*تعریف اور منسلکہ*) اور [باب دس §5.2](core_09_standing_integration.md#52-proportionality-and-calibration) (*تناسب اور انشانکن*)۔
 
   دونوں ٹریک ایک ہی حقائق پر لاگو ہو سکتے ہیں۔ اس آرٹیکل میں کوئی بھی چیز کسی نظام کو تباہ کرنے کی طاقت کو کسی احساس کی زندگی پر طاقت میں تبدیل نہیں کرتی ہے۔
 - **ریورس بھی رکھتا ہے:** یہ دعویٰ کرنا کہ تعینات کردہ نظام حساس ہے - خواہ دعوی متنازعہ ہو یا قبول ہو - کسی کو نقصان دہ تعیناتی کو جاری رکھنے نہیں دیتا ہے۔
@@ -362,19 +362,19 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 لچک اور خود شفا بخش ڈیزائن](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-قابل-اجتناب-بوجھ-میں-کمی)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 لچک اور خود شفا بخش ڈیزائن](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-قابل-اجتناب-بوجھ-میں-کمی)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [خود شفا یابی](core_05_band_continuity.md#self-healing-constitutional) · [اے](core_05_band_continuity.md#self-healing-constitutional) · [ایم](core_05_band_continuity.md#self-healing-constitutional-a) · [اے](core_05_band_continuity.md#self-healing-constitutional-a) · [سی](core_05_band_continuity.md#self-healing-constitutional-c)
-- [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [اے](core_05_band_continuity.md#reversibility-constitutional) · [ایم](core_05_band_continuity.md#reversibility-constitutional-a) · [اے](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
-- [کاسکیڈنگ ناکامی۔](core_05_band_continuity.md#cascading-failure) · [اے](core_05_band_continuity.md#cascading-failure) · [ایم](core_05_band_continuity.md#cascading-failure-a) · [اے](core_05_band_continuity.md#cascading-failure-a) · [سی](core_05_band_continuity.md#cascading-failure-c)
+- [خود شفا یابی](../../core_05.040_band_continuity.md#self-healing-constitutional) · [اے](../../core_05.040_band_continuity.md#self-healing-constitutional) · [ایم](../../core_05.040_band_continuity.md#self-healing-constitutional-a) · [اے](../../core_05.040_band_continuity.md#self-healing-constitutional-a) · [سی](../../core_05.040_band_continuity.md#self-healing-constitutional-c)
+- [Reversibility](../../core_05.040_band_continuity.md#reversibility-constitutional) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ایم](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [کاسکیڈنگ ناکامی۔](../../core_05.040_band_continuity.md#cascading-failure) · [اے](../../core_05.040_band_continuity.md#cascading-failure) · [ایم](../../core_05.040_band_continuity.md#cascading-failure-a) · [اے](../../core_05.040_band_continuity.md#cascading-failure-a) · [سی](../../core_05.040_band_continuity.md#cascading-failure-c)
 - [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
-- [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
-- [قابل گریز بوجھ](core_05_band_continuity.md#avoidable-burden) · [اے](core_05_band_continuity.md#avoidable-burden) · [ایم](core_05_band_continuity.md#avoidable-burden-a) · [اے](core_05_band_continuity.md#avoidable-burden-a) · [سی](core_05_band_continuity.md#avoidable-burden-c)
+- [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability) · [اے](../../core_05.035_band_accountability.md#contestability) · [ایم](../../core_05.035_band_accountability.md#contestability-a) · [اے](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
+- [قابل گریز بوجھ](../../core_05.040_band_continuity.md#avoidable-burden) · [اے](../../core_05.040_band_continuity.md#avoidable-burden) · [ایم](../../core_05.040_band_continuity.md#avoidable-burden-a) · [اے](../../core_05.040_band_continuity.md#avoidable-burden-a) · [سی](../../core_05.040_band_continuity.md#avoidable-burden-c)
 
 </details>
 
@@ -384,26 +384,26 @@ flowchart TB
 
 یہ آرٹیکل ریکوری بیس لائن کا تعین کرتا ہے، جڑ کی وجہ سے بندش کے ذریعے پتہ لگانے سے:
 
-- **اس کی کیا ضرورت ہے:** اس آرٹیکل میں شامل ہر نظام کو ناکامیوں سے بازیافت کرنے کے قابل ہونا چاہئے۔ کسی نظام کا جتنا زیادہ اثر ہوتا ہے، دوسرے اس پر اتنا ہی زیادہ انحصار کرتے ہیں، اور یہ جتنا زیادہ خطرہ ہوتا ہے، اس کی بحالی اتنی ہی مضبوط ہونی چاہیے۔ یہ مندرجہ ذیل ہے [**10 لچک اور خود شفا بخش ڈیزائن**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) میں **پہلا باب** اور [**خود علاج**](core_05_band_continuity.md#self-healing-constitutional) میں **پانچواں باب**.
-  - ریکوری کو کیسے بنایا جانا چاہیے اس کے تفصیلی تکنیکی اصول نفاذ کے متن میں ہیں: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*ڈیزائن، جانچ، تصدیق، اور تعیناتی*) [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*انکولی پائیداری اور ماحولیاتی نظام کی لچک*)، اور [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*وکندریقرت تسلسل اور تقسیم کی لچک*)۔
+- **اس کی کیا ضرورت ہے:** اس آرٹیکل میں شامل ہر نظام کو ناکامیوں سے بازیافت کرنے کے قابل ہونا چاہئے۔ کسی نظام کا جتنا زیادہ اثر ہوتا ہے، دوسرے اس پر اتنا ہی زیادہ انحصار کرتے ہیں، اور یہ جتنا زیادہ خطرہ ہوتا ہے، اس کی بحالی اتنی ہی مضبوط ہونی چاہیے۔ یہ مندرجہ ذیل ہے [**10 لچک اور خود شفا بخش ڈیزائن**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) میں **پہلا باب** اور [**خود علاج**](../../core_05.040_band_continuity.md#self-healing-constitutional) میں **پانچواں باب**.
+  - ریکوری کو کیسے بنایا جانا چاہیے اس کے تفصیلی تکنیکی اصول نفاذ کے متن میں ہیں: [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*ڈیزائن، جانچ، تصدیق، اور تعیناتی*) [**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*انکولی پائیداری اور ماحولیاتی نظام کی لچک*)، اور [**CS-12**](../../corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md) (*وکندریقرت تسلسل اور تقسیم کی لچک*)۔
   - وہ نفاذ کا متن تفصیل میں اضافہ کر سکتا ہے، لیکن یہ اس آرٹیکل کو کمزور نہیں کر سکتا۔
 - **بروقت مسائل کا نوٹس لیں:** نظام کو ریکارڈ رکھنے کے معیار کو پورا کرنے کے لیے خرابیوں، سست رویوں، جزوی خرابیوں، اور آئینی حدود کی خلاف ورزیوں کو فوری طور پر، اور بظاہر کافی حد تک تلاش کرنا چاہیے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)[آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری))۔ یہ بحالی کے عمل پر لاگو ہوتا ہے، نہ صرف عام آپریشن پر۔
 - **نقصانات کو برقرار رکھیں:** بحالی کو محدود کرنا چاہیے کہ ناکامی کس حد تک پھیلتی ہے۔ بحالی کے دوران، نظام کو یہ نہیں کرنا چاہیے:
-  - ناکامی کو دوسرے حصوں یا دوسرے سسٹمز پر منتقل کریں (دیکھیں۔ [کاسکیڈنگ ناکامی۔](core_05_band_continuity.md#cascading-failure));
+  - ناکامی کو دوسرے حصوں یا دوسرے سسٹمز پر منتقل کریں (دیکھیں۔ [کاسکیڈنگ ناکامی۔](../../core_05.040_band_continuity.md#cascading-failure));
   - ذخیرہ شدہ ڈیٹا، اسناد، ذمہ داریاں، یا ترتیبات کو تبدیل کریں جن کا تعلق جذبات، آپریٹرز، یا دوسرے سسٹمز سے ہے **باہر** جس علاقے کو اس نے ٹوٹا ہوا اور مرمت کے تحت قرار دیا ہے۔
     - صرف ایک استثناء ایک تبدیلی ہے جو ریکارڈ کی جاتی ہے اور اس کا سراغ لگانے کے قابل ہے جس نے اسے بنایا ہے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)[آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری)) اور یہ کہ، جہاں دوسرے مادی طور پر متاثر ہوتے ہیں، متناسب نوٹس، اجازت، یا ایک ہینڈ آف کے ساتھ آتا ہے جس کو وہ چیلنج کر سکتے ہیں۔ **چھٹا باب**;
   - اس کے اپنے اختیار کو بڑھانا — اس کی اجازت، رسائی، یا اس کے لیے کیے جانے والے اقدامات کی حد — اس سے آگے جو اس نے ناکامی سے پہلے رکھی تھی۔
-- **جب یقین نہ ہو تو محفوظ طریقے سے ناکام ہو جائیں:** اگر یہ واضح نہیں ہے کہ خود کار طریقے سے مرمت کام کرے گی، تو سسٹم کو چاہیے کہ وہ محفوظ طریقے سے رک جائے، مسئلہ کو الگ تھلگ کرے (قرنطینہ)، یا کسی مرمت کی کوشش کرنے کے بجائے منظم طریقے سے کنٹرول سنبھال لے جو کہ صرف ایک اندازہ ہے۔ جب اختیارات بصورت دیگر برابر ہوں تو، جس کو کالعدم کرنا سب سے آسان ہے، وہ جیت جاتا ہے۔ [Reversibility](core_05_band_continuity.md#reversibility-constitutional) میں ترجیح **آرٹیکل XXIII-B** (*آڈیٹیبلٹی، چیلنج، اور ریورسبلٹی ترجیح*)۔
+- **جب یقین نہ ہو تو محفوظ طریقے سے ناکام ہو جائیں:** اگر یہ واضح نہیں ہے کہ خود کار طریقے سے مرمت کام کرے گی، تو سسٹم کو چاہیے کہ وہ محفوظ طریقے سے رک جائے، مسئلہ کو الگ تھلگ کرے (قرنطینہ)، یا کسی مرمت کی کوشش کرنے کے بجائے منظم طریقے سے کنٹرول سنبھال لے جو کہ صرف ایک اندازہ ہے۔ جب اختیارات بصورت دیگر برابر ہوں تو، جس کو کالعدم کرنا سب سے آسان ہے، وہ جیت جاتا ہے۔ [Reversibility](../../core_05.040_band_continuity.md#reversibility-constitutional) میں ترجیح **آرٹیکل XXIII-B** (*آڈیٹیبلٹی، چیلنج، اور ریورسبلٹی ترجیح*)۔
 - **کوئی پردہ پوشی نہیں:** خودکار وصولی کے لیے ضروری شواہد کو چھپانا، مٹانا، یا تاخیر نہیں کرنی چاہیے تاکہ یہ معلوم کیا جا سکے کہ ناکامی کیوں ہوئی **آرٹیکل XXIII** (*روٹ کاز اینالیسس اینڈ اڈاپٹیو ریسپانس*)۔
-  - بازیابی کی ہر کارروائی، بازیابی کی ہر کوشش، اور بازیابی کی ہر کوشش جو روک دی گئی تھی یا بلاک کی گئی تھی اس کے تحت خود کو ریکارڈ کیا جانا چاہیے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)، اور ہر ایک کو چیلنج کیا جا سکتا ہے (دیکھیں۔ [مقابلہ بازی](core_05_band_accountability.md#contestability))۔
+  - بازیابی کی ہر کارروائی، بازیابی کی ہر کوشش، اور بازیابی کی ہر کوشش جو روک دی گئی تھی یا بلاک کی گئی تھی اس کے تحت خود کو ریکارڈ کیا جانا چاہیے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)، اور ہر ایک کو چیلنج کیا جا سکتا ہے (دیکھیں۔ [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability))۔
 - **حقوق ایک کم موڈ میں محفوظ رہتے ہیں:** جب کوئی سسٹم کم یا بیک اپ موڈ میں چل رہا ہو، تب بھی اسے حفاظت کرنا چاہیے۔ **چھٹا باب** حقوق کی منزل۔ اگر یہ نہیں کر سکتا، تو اسے خاموشی سے ان تحفظات کو کم کرنے کے بجائے کھلے عام مسئلہ کو بڑھانا چاہیے۔
   - خاموشی سے "خود شفا یابی" کے نام پر حقوق کی منزل کے تحفظات کو کمزور کرنا اس آئین کی خلاف ورزی ہے۔ اس طرح کے معاملات زیربحث آتے ہیں۔ **آرٹیکل XIII-C** (*جھوٹے اعتماد کی ممانعت اور گمراہ کن اعتبار*) (جھوٹے اعتماد کی ممانعت) اور **آرٹیکل XXVII** (*Transition Governance, Continuity, and Re-baselining*) (ٹرانزیشن گورننس)۔
 - **اپنے طور پر کام کرنے والے سسٹمز کی حدود:** جب اعلی خود مختاری کا نظام خود کو ٹھیک کرتا ہے، **آرٹیکل XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) لاگو ہوتا ہے۔
-  - بازیافت کرنے کی طاقت کبھی بھی کسی کے چیلنج کرنے کے حق کو حاصل کرنے کے لئے استعمال نہیں ہوسکتی ہے (دیکھیں۔ [مقابلہ بازی](core_05_band_accountability.md#contestability)) کے تحت چیلنجز **آرٹیکل XIII-A** (*اعتماد اور قابل اعتمادی کی بنیاد*)، یا اس کے تحت آزادانہ جانچ پڑتال **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد تصدیق*)۔
+  - بازیافت کرنے کی طاقت کبھی بھی کسی کے چیلنج کرنے کے حق کو حاصل کرنے کے لئے استعمال نہیں ہوسکتی ہے (دیکھیں۔ [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability)) کے تحت چیلنجز **آرٹیکل XIII-A** (*اعتماد اور قابل اعتمادی کی بنیاد*)، یا اس کے تحت آزادانہ جانچ پڑتال **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد تصدیق*)۔
 - **ایک حل ایک حل نہیں ہے:** اگر خودکار بحالی سے نظام دوبارہ چلتا ہے لیکن معلوم خرابی اب بھی برقرار ہے، تو نظام کی حیثیت عارضی ہے، حتمی نہیں۔ اسے لے جانا چاہئے:
   - کے تحت بنیادی وجہ تلاش کرنے کے لئے ایک کھلا فرض **آرٹیکل XXIII** (*جڑ کاز کا تجزیہ اور انکولی ردعمل*)؛
   - ایک ظاہر شدہ ٹائم لائن جس کے تحت، عیب کے ٹھیک ہونے کی توقع ہے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)۔
-- **نہ ختم ہونے والی تاخیر:** آپریٹرز کے کام کا بوجھ کم رکھنا (دیکھیں۔ [قابل گریز بوجھ](core_05_band_continuity.md#avoidable-burden) اور [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-قابل-اجتناب-بوجھ-میں-کمی)حفاظت یا حقوق کی منزل کو مادی طور پر متاثر کرنے والے نقائص کو دور کرنے کے لیے، غیر معینہ مدت تک کے لیے استعمال نہیں کیا جانا چاہیے۔
+- **نہ ختم ہونے والی تاخیر:** آپریٹرز کے کام کا بوجھ کم رکھنا (دیکھیں۔ [قابل گریز بوجھ](../../core_05.040_band_continuity.md#avoidable-burden) اور [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-قابل-اجتناب-بوجھ-میں-کمی)حفاظت یا حقوق کی منزل کو مادی طور پر متاثر کرنے والے نقائص کو دور کرنے کے لیے، غیر معینہ مدت تک کے لیے استعمال نہیں کیا جانا چاہیے۔
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### آرٹیکل XIV: سیکورٹی، انٹیلی جنس، فورس، اور خود مختار جبری نظام
@@ -418,9 +418,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [ضرورت](core_05_band_accountability.md#necessity) · [اے](core_05_band_accountability.md#necessity) · [ایم](core_05_band_accountability.md#necessity-a) · [اے](core_05_band_accountability.md#necessity-a) · [سی](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
-- [طاقت کا استعمال](core_05_band_accountability.md#use-of-force-constitutional) · [اے](core_05_band_accountability.md#use-of-force-constitutional) · [ایم](core_05_band_accountability.md#use-of-force-constitutional-a) · [اے](core_05_band_accountability.md#use-of-force-constitutional-a) · [سی](core_05_band_accountability.md#use-of-force-constitutional-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [اے](../../core_05.035_band_accountability.md#necessity) · [ایم](../../core_05.035_band_accountability.md#necessity-a) · [اے](../../core_05.035_band_accountability.md#necessity-a) · [سی](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [اے](../../core_05.035_band_accountability.md#proportionality) · [ایم](../../core_05.035_band_accountability.md#proportionality-a) · [اے](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
+- [طاقت کا استعمال](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [اے](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [ایم](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [اے](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [سی](../../core_05.035_band_accountability.md#use-of-force-constitutional-c)
 
 </details>
 
@@ -447,7 +447,7 @@ flowchart TB
   - طاقت کا کھلا استعمال اور فوجی طاقت کی تعیناتی کے تحت **آرٹیکل XIV-B** (*طاقت کا استعمال، مسلح تصادم، اور فوجی طاقت کی حدود*)؛ اور
   - خود مختار مہلک نظام اور خود مختار جبر کے اوزار **آرٹیکل XIV-C** (*خود مختار مہلک نظام اور خود مختار جبر کے اوزار*)۔
 
-  یہ کرتا ہے **نہیں** حکومت کرنا **زندگی کی ناقابل واپسی محرومی ریاست یا تقابلی اداکار کے ذریعہ انصاف کے اقدام یا موازنہ غیر جنگی نتائج کے طور پر عائد کی گئی**. اس طرح کی محرومی واضح طور پر ممنوع ہے۔ **آرٹیکل XX-B** (*پابندی کے فرش*) اور **پانچواں باب** *[ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. یہ ممانعت ساختی طور پر اس آرٹیکل سے الگ ہے۔
+  یہ کرتا ہے **نہیں** حکومت کرنا **زندگی کی ناقابل واپسی محرومی ریاست یا تقابلی اداکار کے ذریعہ انصاف کے اقدام یا موازنہ غیر جنگی نتائج کے طور پر عائد کی گئی**. اس طرح کی محرومی واضح طور پر ممنوع ہے۔ **آرٹیکل XX-B** (*پابندی کے فرش*) اور **پانچواں باب** *[ناقابل واپسی محرومی کی پیمائش](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*. یہ ممانعت ساختی طور پر اس آرٹیکل سے الگ ہے۔
   - اندر کچھ نہیں **آرٹیکل XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) کسی بھی ناقابل واپسی محرومی کے اقدام کے لیے ایک آئینی پیشین گوئی کی اجازت دیتا ہے، قانونی حیثیت دیتا ہے، وسیع کرتا ہے یا فراہم کرتا ہے — چاہے انسانی آپریٹر، خود مختار نظام، یا ہائبرڈ انسانی نظام پائپ لائن کے ذریعے فیصلہ کیا گیا ہو۔
   - اسے جنگی یا ہنگامی صورت حال کہنا، اسے طاقت کے استعمال کے طور پر درجہ بندی کرنا، اسے خفیہ طاقت کے ذریعے روٹ کرنا، یا اسے کسی خود مختار نظام کے حوالے کرنا ایک ناقابل واپسی انصاف کے قتل کو یہاں کی طاقت میں تبدیل نہیں کرتا ہے۔
   - خفیہ، طاقت، خود مختار نظام، یا جبر کے آلے کی تبدیلی **سیاق و سباق** انصاف کی پیمائش کے نتیجے میں سوال واپس آتا ہے۔ **آرٹیکل XX-B** (*پابندی کی منزلیں*) اور *ناقابل واپسی محرومی کا پیمانہ*، بغیر اس آرٹیکل کو پڑھے۔
@@ -469,9 +469,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [ضرورت](core_05_band_accountability.md#necessity) · [اے](core_05_band_accountability.md#necessity) · [ایم](core_05_band_accountability.md#necessity-a) · [اے](core_05_band_accountability.md#necessity-a) · [سی](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
-- [محفوظ داخلی ریاستی حدود](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [اے](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [ایم](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [اے](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [سی](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [اے](../../core_05.035_band_accountability.md#necessity) · [ایم](../../core_05.035_band_accountability.md#necessity-a) · [اے](../../core_05.035_band_accountability.md#necessity-a) · [سی](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [اے](../../core_05.035_band_accountability.md#proportionality) · [ایم](../../core_05.035_band_accountability.md#proportionality-a) · [اے](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
+- [محفوظ داخلی ریاستی حدود](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional) · [اے](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional) · [ایم](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [اے](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [سی](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -500,7 +500,7 @@ flowchart TB
   - کم مداخلت کرنے والے ذرائع معقول حد تک کافی نہیں ہیں۔
   - استعمال ضروری، متناسب، وقت کے پابند، اور آزادانہ طور پر قابلِ جائزہ ہے۔
 - **کوئی عمومی آبادی کی نگرانی نہیں:** مسلسل یا آبادی کے پیمانے پر نگرانی، ٹریکنگ، پیٹرن نکالنا، یا کراس سیاق و سباق کی شناخت کا تعلق ممنوع ہے۔
-  - اس طرح کے کسی بھی جواز کو اس باب کو پورا کرنا چاہیے، **پہلا باب**, **پانچواں باب**، اور **[corpus_systems.md](corpus_systems.md), CS-2 — معلومات کی اقسام اور ہینڈلنگ** اور **CS-3 - سسٹم کی درجہ بندی اور ہینڈلنگ** جہاں قابل اطلاق ہو۔
+  - اس طرح کے کسی بھی جواز کو اس باب کو پورا کرنا چاہیے، **پہلا باب**, **پانچواں باب**، اور **[corpus_systems.md](../../corpus_systems.md), CS-2 — معلومات کی اقسام اور ہینڈلنگ** اور **CS-3 - سسٹم کی درجہ بندی اور ہینڈلنگ** جہاں قابل اطلاق ہو۔
 - **محفوظ سرگرمی شیلڈ:** بڑھے ہوئے تحفظ کا احاطہ:
   - سیاسی شرکت؛
   - قانونی مخالفت؛
@@ -556,23 +556,23 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
 - Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#1311-ضرورت), [§7.1 لمیٹیشن ڈسپلن](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 حقوق تصادم فیصلہ ٹیسٹ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 مطلق اوور رائیڈ پر پابندی](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- بہاو: **آرٹیکل I-A** (*ماحولیاتی پیشگی شرائط اور ماحولیاتی سالمیت*) ماحولیاتی پیشگی شرائط، **آرٹیکل I-D** (*وجود کا خطرہ اور ماحولیاتی بحالی کی صلاحیت*) وجودی خطرے کی جانچ پڑتال، **آرٹیکل VI-A** (*وقار اور مساوی اخلاقی موقف*) وقار، **آرٹیکل XIV-A** (*سیکیورٹی، انٹیلی جنس، اور خفیہ طاقت کی حدود*) خفیہ طاقت کی حدیں (اوورٹ پاور ہم منصب) **باب بارہ §6.1** (*ہنگامی اقدامات اور تسلسل کا بوجھ*) ہنگامی پیمائش کی حدیں، **آرٹیکل XXV** (*بروقت سابقہ ​​جائزہ اور بحالی کی صف بندی*) تنازعات کا حل، **آرٹیکل XXVII** (*ٹرانزیشن گورننس، کنٹینیوٹی، اور ری بیس لائننگ*) ٹرانزیشن گورننس۔ کراس حوالہ: **آرٹیکل XX-B** (*پابندی کی منزلیں*) اور باب پانچ *[ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **آرٹیکل XIV** (*سیکیورٹی، انٹیلی جنس، فورس، اور خودمختار جبر کے نظام*) *نان کنفلیشن* ڈسپلن لاگو ہوتا ہے۔
-- کے ساتھ پڑھیں: [**Def.A4** طاقت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور بڑے پیمانے پر نقصان پہنچانے والے ہتھیار*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (مشترکہ درخواست جہاں مادی طور پر ملوث ہو)؛ باب پانچ *طاقت کا استعمال*، *بڑے پیمانے پر نقصان پہنچانے والے ہتھیار*، *جنگی/غیر جنگی امتیاز*، *[ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *موجود خطرہ*، *ریورسیبلٹی*، *تعاون اور تدارک*۔
+- بہاو: **آرٹیکل I-A** (*ماحولیاتی پیشگی شرائط اور ماحولیاتی سالمیت*) ماحولیاتی پیشگی شرائط، **آرٹیکل I-D** (*وجود کا خطرہ اور ماحولیاتی بحالی کی صلاحیت*) وجودی خطرے کی جانچ پڑتال، **آرٹیکل VI-A** (*وقار اور مساوی اخلاقی موقف*) وقار، **آرٹیکل XIV-A** (*سیکیورٹی، انٹیلی جنس، اور خفیہ طاقت کی حدود*) خفیہ طاقت کی حدیں (اوورٹ پاور ہم منصب) **باب بارہ §6.1** (*ہنگامی اقدامات اور تسلسل کا بوجھ*) ہنگامی پیمائش کی حدیں، **آرٹیکل XXV** (*بروقت سابقہ ​​جائزہ اور بحالی کی صف بندی*) تنازعات کا حل، **آرٹیکل XXVII** (*ٹرانزیشن گورننس، کنٹینیوٹی، اور ری بیس لائننگ*) ٹرانزیشن گورننس۔ کراس حوالہ: **آرٹیکل XX-B** (*پابندی کی منزلیں*) اور باب پانچ *[ناقابل واپسی محرومی کی پیمائش](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **آرٹیکل XIV** (*سیکیورٹی، انٹیلی جنس، فورس، اور خودمختار جبر کے نظام*) *نان کنفلیشن* ڈسپلن لاگو ہوتا ہے۔
+- کے ساتھ پڑھیں: [**Def.A4** طاقت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور بڑے پیمانے پر نقصان پہنچانے والے ہتھیار*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (مشترکہ درخواست جہاں مادی طور پر ملوث ہو)؛ باب پانچ *طاقت کا استعمال*، *بڑے پیمانے پر نقصان پہنچانے والے ہتھیار*، *جنگی/غیر جنگی امتیاز*، *[ناقابل واپسی محرومی کی پیمائش](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *موجود خطرہ*، *ریورسیبلٹی*، *تعاون اور تدارک*۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [طاقت کا استعمال](core_05_band_accountability.md#use-of-force-constitutional) · [اے](core_05_band_accountability.md#use-of-force-constitutional) · [ایم](core_05_band_accountability.md#use-of-force-constitutional-a) · [اے](core_05_band_accountability.md#use-of-force-constitutional-a) · [سی](core_05_band_accountability.md#use-of-force-constitutional-c)
-- [بڑے پیمانے پر نقصان پہنچانے والے ہتھیار](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [اے](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [ایم](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [اے](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [سی](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-c)
-- [لڑاکا/غیر جنگی امتیاز](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [اے](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [ایم](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [اے](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [سی](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
-- [احساس غیر خارجی](core_05_band_participation.md#sentience-non-exclusion) · [اے](core_05_band_participation.md#sentience-non-exclusion) · [ایم](core_05_band_participation.md#sentience-non-exclusion-a) · [اے](core_05_band_participation.md#sentience-non-exclusion-a) · [سی](core_05_band_participation.md#sentience-non-exclusion)
-- [ضرورت](core_05_band_accountability.md#necessity) · [اے](core_05_band_accountability.md#necessity) · [ایم](core_05_band_accountability.md#necessity-a) · [اے](core_05_band_accountability.md#necessity-a) · [سی](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
-- [محفوظ خصوصیات](core_05_band_participation.md#protected-characteristics-constitutional) · [اے](core_05_band_participation.md#protected-characteristics-constitutional) · [ایم](core_05_band_participation.md#protected-characteristics-constitutional-a) · [اے](core_05_band_participation.md#protected-characteristics-constitutional-a) · [سی](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [وجودی خطرہ](core_05_band_continuity.md#existential-risk) · [اے](core_05_band_continuity.md#existential-risk) · [ایم](core_05_band_continuity.md#existential-risk-a) · [اے](core_05_band_continuity.md#existential-risk-a) · [سی](core_05_band_continuity.md#existential-risk-c)
-- [ازالہ اور تدارک](core_05_band_accountability.md#redress-and-remediation-constitutional) · [اے](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ایم](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [اے](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [سی](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [طاقت کا استعمال](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [اے](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [ایم](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [اے](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [سی](../../core_05.035_band_accountability.md#use-of-force-constitutional-c)
+- [بڑے پیمانے پر نقصان پہنچانے والے ہتھیار](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional) · [اے](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional) · [ایم](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [اے](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [سی](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional-c)
+- [لڑاکا/غیر جنگی امتیاز](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [اے](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [ایم](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [اے](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [سی](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
+- [احساس غیر خارجی](../../core_05.055_band_participation.md#sentience-non-exclusion) · [اے](../../core_05.055_band_participation.md#sentience-non-exclusion) · [ایم](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [اے](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [سی](../../core_05.055_band_participation.md#sentience-non-exclusion)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [اے](../../core_05.035_band_accountability.md#necessity) · [ایم](../../core_05.035_band_accountability.md#necessity-a) · [اے](../../core_05.035_band_accountability.md#necessity-a) · [سی](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [اے](../../core_05.035_band_accountability.md#proportionality) · [ایم](../../core_05.035_band_accountability.md#proportionality-a) · [اے](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
+- [محفوظ خصوصیات](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [اے](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [ایم](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [اے](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [سی](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [وجودی خطرہ](../../core_05.040_band_continuity.md#existential-risk) · [اے](../../core_05.040_band_continuity.md#existential-risk) · [ایم](../../core_05.040_band_continuity.md#existential-risk-a) · [اے](../../core_05.040_band_continuity.md#existential-risk-a) · [سی](../../core_05.040_band_continuity.md#existential-risk-c)
+- [ازالہ اور تدارک](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [اے](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [ایم](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [اے](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [سی](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -622,19 +622,19 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
 - Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-تناسب), [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#1311-ضرورت), [§19.1 صف بندی کی ضرورت](core_01_c_stewardship_capacity_principles.md#191-ہم-آہنگی-کی-شرط), [§14 مطلق اوور رائیڈ پر پابندی](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- بہاو: **آرٹیکل I-D** (*وجود کا خطرہ اور ماحولیاتی بحالی کی صلاحیت*) وجودی خطرے کی جانچ پڑتال، **آرٹیکل X-A** (*ایجنسی اور ہیرا پھیری سے آزادی*) ہیرا پھیری سے آزادی، **آرٹیکل XIV-A** (*سیکیورٹی، انٹیلی جنس، اور خفیہ طاقت کی حدود*) خفیہ طاقت کی حدیں، **آرٹیکل XIV-B** (*طاقت کا استعمال، مسلح تصادم، اور فوجی طاقت کی حدود*) اوورٹ فورس فلور، **آرٹیکل XIII-A** (* وشوسنییتا اور قابل اعتماد بیس لائن **آرٹیکل XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) خود مختاری-انتظام اور خود مختاری-پیمانہ کاری، **آرٹیکل XIII-F** (*لچک اور خود شفا یابی کی بنیاد*) لچک اور خود شفا یابی کی بنیاد۔ کراس حوالہ: **آرٹیکل XX-B** (*پابندی کی منزلیں*) اور باب پانچ *[ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **آرٹیکل XIV** (*سیکیورٹی، انٹیلی جنس، فورس، اور خودمختار جبر کے نظام*) *نان کنفلیشن* ڈسپلن لاگو ہوتا ہے۔
-- کے ساتھ پڑھیں: [**Def.A4** طاقت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور بڑے پیمانے پر نقصان پہنچانے والے ہتھیار*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (مشترکہ درخواست جہاں مادی طور پر ملوث ہو)؛ باب پانچ *خود مختار مہلک نظام*، *خودکار جبر کا آلہ*، *[ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *زبردستی اور ہیرا پھیری*، *ریورسیبلٹی*۔ سسٹمز پرت کا نفاذ: **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** درجہ بندی
+- بہاو: **آرٹیکل I-D** (*وجود کا خطرہ اور ماحولیاتی بحالی کی صلاحیت*) وجودی خطرے کی جانچ پڑتال، **آرٹیکل X-A** (*ایجنسی اور ہیرا پھیری سے آزادی*) ہیرا پھیری سے آزادی، **آرٹیکل XIV-A** (*سیکیورٹی، انٹیلی جنس، اور خفیہ طاقت کی حدود*) خفیہ طاقت کی حدیں، **آرٹیکل XIV-B** (*طاقت کا استعمال، مسلح تصادم، اور فوجی طاقت کی حدود*) اوورٹ فورس فلور، **آرٹیکل XIII-A** (* وشوسنییتا اور قابل اعتماد بیس لائن **آرٹیکل XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) خود مختاری-انتظام اور خود مختاری-پیمانہ کاری، **آرٹیکل XIII-F** (*لچک اور خود شفا یابی کی بنیاد*) لچک اور خود شفا یابی کی بنیاد۔ کراس حوالہ: **آرٹیکل XX-B** (*پابندی کی منزلیں*) اور باب پانچ *[ناقابل واپسی محرومی کی پیمائش](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **آرٹیکل XIV** (*سیکیورٹی، انٹیلی جنس، فورس، اور خودمختار جبر کے نظام*) *نان کنفلیشن* ڈسپلن لاگو ہوتا ہے۔
+- کے ساتھ پڑھیں: [**Def.A4** طاقت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور بڑے پیمانے پر نقصان پہنچانے والے ہتھیار*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (مشترکہ درخواست جہاں مادی طور پر ملوث ہو)؛ باب پانچ *خود مختار مہلک نظام*، *خودکار جبر کا آلہ*، *[ناقابل واپسی محرومی کی پیمائش](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *زبردستی اور ہیرا پھیری*، *ریورسیبلٹی*۔ سسٹمز پرت کا نفاذ: **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** درجہ بندی
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [خود مختار مہلک نظام](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [اے](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [ایم](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [اے](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [سی](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
-- [خود مختار جبر کا آلہ](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [اے](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [ایم](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [اے](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [سی](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
-- [زبردستی اور ہیرا پھیری](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [اے](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [ایم](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [اے](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [سی](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [خود مختار مہلک نظام](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional) · [اے](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional) · [ایم](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional-a) · [اے](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional-a) · [سی](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional-c)
+- [خود مختار جبر کا آلہ](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional) · [اے](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional) · [ایم](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [اے](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [سی](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional-c)
+- [زبردستی اور ہیرا پھیری](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [اے](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [ایم](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [اے](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [سی](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-c)
 - [مخالفانہ، اسکیلڈ، اور استحصالی حالات](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط) · [اے](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط) · [ایم](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [اے](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [سی](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
-- [سخت جانچ پڑتال](core_05_band_oversight.md#heightened-scrutiny) · [اے](core_05_band_oversight.md#heightened-scrutiny) · [ایم](core_05_band_oversight.md#heightened-scrutiny-a) · [اے](core_05_band_oversight.md#heightened-scrutiny-a) · [سی](core_05_band_oversight.md#heightened-scrutiny-c)
+- [سخت جانچ پڑتال](../../core_05.050_band_oversight.md#heightened-scrutiny) · [اے](../../core_05.050_band_oversight.md#heightened-scrutiny) · [ایم](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [اے](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [سی](../../core_05.050_band_oversight.md#heightened-scrutiny-c)
 
 </details>
 
@@ -644,7 +644,7 @@ flowchart TB
 
 یہ آرٹیکل خود مختار مہلک اور زبردستی نظاموں کے لیے اونچی جانچ کی منزل کا تعین کرتا ہے:
 
-- **اونچی جانچ کا فرش:** سسٹم کی دو کلاسیں زیر جائزہ ہیں۔ [سخت جانچ پڑتال](core_05_band_oversight.md#heightened-scrutiny):
+- **اونچی جانچ کا فرش:** سسٹم کی دو کلاسیں زیر جائزہ ہیں۔ [سخت جانچ پڑتال](../../core_05.050_band_oversight.md#heightened-scrutiny):
   - **خود مختار مہلک نظام** - ایسے نظام جو ہم عصر، کافی معنی خیز انسانی فیصلے کے بغیر ہدف کو منتخب، مشغول یا مادی طور پر براہ راست نشانہ بناتے ہیں۔
   - **خود مختار جبر کے اوزار** - ایسے نظام جو خود مختار انکولی رویے کے ذریعے جذبات پر زبردستی اثرات کا اطلاق کرتے ہیں، یہاں تک کہ جہاں اثرات غیر مہلک ہوں۔
 
@@ -666,9 +666,9 @@ flowchart TB
 - **جنگی / غیر جنگی نظم و ضبط:** خود مختار مہلک نظام کے ساتھ عمل کرنا ضروری ہے **آرٹیکل XIV-B** (*طاقت کا استعمال، مسلح تصادم، اور فوجی طاقت کی حدود*) *جنگی/غیر جنگی امتیاز*۔
   - ایسے نظام جن کی درجہ بندی کی درستگی، مخالفانہ یا پیمانہ حالات کے تحت مضبوطی، یا ناکامی کے موڈ رویے کو آزادانہ طور پر مطمئن نہیں کرتا **آرٹیکل XIV-B** (*طاقت کا استعمال، مسلح تصادم، اور فوجی طاقت کی حدود*) آپریٹر کے ارادے کی تشکیل سے قطع نظر گولی غیر تعمیل ہے۔
   - **مخالفانہ، اسکیلڈ، اور استحصالی حالات** تشخیص لاگو ہوتا ہے.
-- **وجودی خطرے کا تعامل:** ترازو، صلاحیت کی سطح، یا تعیناتی کے حالات پر خود مختار مہلک نظام مادی طور پر متاثر ہوتے ہیں۔ **آرٹیکل I-D** (*وجود کا خطرہ اور ماحولیاتی بحالی کی صلاحیت*) وجودی خطرے کی جانچ اس پروویژن کے تابع ہے [سب سے زیادہ جانچ پڑتال](core_05_band_oversight.md#highest-scrutiny).
+- **وجودی خطرے کا تعامل:** ترازو، صلاحیت کی سطح، یا تعیناتی کے حالات پر خود مختار مہلک نظام مادی طور پر متاثر ہوتے ہیں۔ **آرٹیکل I-D** (*وجود کا خطرہ اور ماحولیاتی بحالی کی صلاحیت*) وجودی خطرے کی جانچ اس پروویژن کے تابع ہے [سب سے زیادہ جانچ پڑتال](../../core_05.050_band_oversight.md#highest-scrutiny).
   - ایسے فریمنگ جو اس طرح کے نظاموں کو عام صلاحیت کی توسیع کے طور پر مانتے ہیں بجائے اس کے کہ **آرٹیکل I-D** (*موجود خطرہ اور ماحولیاتی بحالی کی صلاحیت*) اشیاء غیر موافق ہیں۔
-- **سسٹمز پرت کا تعامل:** آپریشنل درجہ بندی، وشوسنییتا، اور **CS-3 - سسٹم کی درجہ بندی اور ہینڈلنگ** نظام کی پرت تک طبقاتی پیمانے پر گورننس کا راستہ — **آرٹیکل XIII-A** (* وشوسنییتا اور قابل اعتماد بیس لائن*) بیس لائن اور **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**.
+- **سسٹمز پرت کا تعامل:** آپریشنل درجہ بندی، وشوسنییتا، اور **CS-3 - سسٹم کی درجہ بندی اور ہینڈلنگ** نظام کی پرت تک طبقاتی پیمانے پر گورننس کا راستہ — **آرٹیکل XIII-A** (* وشوسنییتا اور قابل اعتماد بیس لائن*) بیس لائن اور **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**.
   - کے تحت تنازعات حل ہوتے ہیں۔ **باب اول §13.1.5** حقوق کی منزل کو تنگ کیے بغیر (*کم سے کم پابندی والا، وقت کا پابند، اور قابلِ جائزہ پابندی کا اصول*)۔
 
 <a id="article-xiv-d-counter-espionage-limits"></a>
@@ -687,8 +687,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [Epstemic Integrity](core_05_band_oversight.md#حقائق-کی-دیانت) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [خود ارادیت](core_05_band_participation.md#self-determination-constitutional) · [اے](core_05_band_participation.md#self-determination-constitutional) · [ایم](core_05_band_participation.md#self-determination-constitutional-a) · [اے](core_05_band_participation.md#self-determination-constitutional-a) · [سی](core_05_band_participation.md#self-determination-constitutional-c)
-- [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
+- [خود ارادیت](../../core_05.055_band_participation.md#self-determination-constitutional) · [اے](../../core_05.055_band_participation.md#self-determination-constitutional) · [ایم](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [اے](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [سی](../../core_05.055_band_participation.md#self-determination-constitutional-c)
+- [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability) · [اے](../../core_05.035_band_accountability.md#contestability) · [ایم](../../core_05.035_band_accountability.md#contestability-a) · [اے](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -696,7 +696,7 @@ flowchart TB
 
 *صاف الفاظ میں: **آرٹیکل XV** (*Info-Sphere Integrity*) معلومات کی سالمیت کے حقوق کی منزل ہے — وہ مشترکہ ماحول جہاں ہم سیکھتے ہیں، ہم آہنگی کرتے ہیں، اور فیصلہ کرتے ہیں کہ ایماندار، جمع، اور چیلنج کے لیے کھلا رہنا چاہیے۔ کوئی بھی حق کی پائپ لائن کا مالک نہیں بنتا۔ درجہ بندی، خلاصے، اور گیٹ کیپرز کو اپنا کام دکھانا ہوتا ہے، اور جب آپ کو معلومات گمراہ کرتی ہیں تو آپ کو دوسرے خیالات کا موازنہ کرنے اور پیچھے دھکیلنے کے قابل ہونا چاہیے۔*
 
-اس آرٹیکل میں کہا گیا ہے۔ **آئینی منزلیں** کے لیے [معلومات کا دائرہ](core_05_band_participation.md#info-sphere) کے تحت سالمیت [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims):
+اس آرٹیکل میں کہا گیا ہے۔ **آئینی منزلیں** کے لیے [معلومات کا دائرہ](../../core_05.055_band_participation.md#info-sphere) کے تحت سالمیت [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims):
 
 - **پھلنا پھولنا:** حساس افراد درست، متعلقہ معلومات تک رسائی حاصل کر سکتے ہیں۔ متبادل تشریحات کا موازنہ کریں؛ اور خود ارادیت کا استعمال کریں بغیر علمی کیپچر کے، تیار کردہ اتفاق رائے، یا اس پر گمراہ کن انحصار کہ جو نظام سچ کے طور پر پیش کرتے ہیں۔
 - **تسلسل:** معلومات کا دائرہ وقت اور پیمانے پر جمع، قابل سماعت، اور لچکدار رہتا ہے — علم کے بنیادی ڈھانچے کو خاموشی سے ثالثی کے واحد نکات پر توجہ مرکوز نہیں کرنی چاہیے، اصلاح کو دبانا نہیں چاہیے، یا مشترکہ ریکارڈ کو انحطاط نہیں کرنا چاہیے جس پر بقا، ہم آہنگی، اور طویل افق کی سرپرستی کا انحصار ہے۔
@@ -716,14 +716,14 @@ flowchart TB
 
 - **ایک ساتھ پڑھیں:** **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*) جہاں سسٹم کی پیداوار انحصار کو شکل دیتی ہے۔ **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد تصدیق*) ریکارڈ اور آزاد تصدیق کے لیے؛ **آرٹیکل XV-D** (*سائنسی اشاعت، جائزہ، اور نقل کی سالمیت*) جہاں اشاعت کے دائرہ کار کی سالمیت مادی طور پر منسلک ہے۔
 - **سچائی کی پابندی:** پہلا باب [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) اور [علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں) یہاں ہر ذیلی حصے کو باندھیں۔
-- **درجہ بندی:** **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** کے لیے تفصیلی معلومات کے دائرے کی ذمہ داریوں کو ترازو **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام [مواد کا اثر](core_05_band_oversight.md#مادی-اثر) درجہ بندی کو متحرک کرتا ہے جہاں کلاس غیر آباد ہے۔
+- **درجہ بندی:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** کے لیے تفصیلی معلومات کے دائرے کی ذمہ داریوں کو ترازو **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام [مواد کا اثر](core_05_band_oversight.md#مادی-اثر) درجہ بندی کو متحرک کرتا ہے جہاں کلاس غیر آباد ہے۔
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### آرٹیکل XV-A: معلوماتی دائرہ کثرتیت اور اجارہ داری مخالف
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -746,7 +746,7 @@ flowchart TB
   - بقا- اور ماحولیات سے متعلق ڈیٹا میں مضبوط، جغرافیائی طور پر تقسیم شدہ ذخیرہ ہونا ضروری ہے۔
 - **کثرتیت، مقابلہ بازی، اور آڈٹ:** حقیقت کی تشریح کو جمع، شفاف اور قابل مقابلہ رہنا چاہیے۔
   - **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد تصدیق*) اور **باب دو سے چار** اس آئین کے تحت نظاموں کے ریکارڈ اور آزادانہ تصدیق کا انتظام کریں۔
-  - کے لیے **کلاس اے**, **کلاس بی**، اور **کلاس سی** خلاصہ، درجہ بندی، ثالثی، یا تشریحی نظام، آپریشنل تفصیل میں ظاہر ہوتا ہے۔ **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** اور متعلقہ پروٹوکول پرتیں۔ اس تفصیل کا احاطہ کرتا ہے:
+  - کے لیے **کلاس اے**, **کلاس بی**، اور **کلاس سی** خلاصہ، درجہ بندی، ثالثی، یا تشریحی نظام، آپریشنل تفصیل میں ظاہر ہوتا ہے۔ **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** اور متعلقہ پروٹوکول پرتیں۔ اس تفصیل کا احاطہ کرتا ہے:
     - استدلال کے نقطہ نظر کا انکشاف؛
     - پیداوری اور غیر یقینی صورتحال کا علاج؛
     - مسابقت؛
@@ -767,7 +767,7 @@ flowchart TB
 
 - [شفافیت](core_05_band_oversight.md#شفافیت) · [اے](core_05_band_oversight.md#شفافیت) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
 - [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
-- [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
+- [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability) · [اے](../../core_05.035_band_accountability.md#contestability) · [ایم](../../core_05.035_band_accountability.md#contestability-a) · [اے](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -796,14 +796,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [ایکولوجیکل فوٹ پرنٹ](core_05_band_continuity.md#ecological-footprint) · [اے](core_05_band_continuity.md#ecological-footprint) · [ایم](core_05_band_continuity.md#ecological-footprint-a) · [اے](core_05_band_continuity.md#ecological-footprint-a) · [سی](core_05_band_continuity.md#ecological-footprint-c)
+- [ایکولوجیکل فوٹ پرنٹ](../../core_05.040_band_continuity.md#ecological-footprint) · [اے](../../core_05.040_band_continuity.md#ecological-footprint) · [ایم](../../core_05.040_band_continuity.md#ecological-footprint-a) · [اے](../../core_05.040_band_continuity.md#ecological-footprint-a) · [سی](../../core_05.040_band_continuity.md#ecological-footprint-c)
 - [شفافیت](core_05_band_oversight.md#شفافیت) · [اے](core_05_band_oversight.md#شفافیت) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
 - [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
@@ -821,9 +821,9 @@ flowchart TB
   - انتخابی رپورٹنگ، دبانے، یا بکھرے ہوئے انکشاف سے گریز کریں جو فیصلے سے متعلق سمجھ بوجھ کو مادی طور پر کم کرتا ہے۔
 
   جہاں کے تحت انکشاف پر پابندی ہے۔ **باب اول §19** (*انسینٹیو الائنمنٹ اور سسٹم کیپچر*)، حدود کو محدود دائرہ کار، وقت محدود، اور قابل جائزہ ہونا چاہیے۔
-- **فوٹ پرنٹ ڈیٹا:** اس ذیلی دفعہ کے تحت رپورٹنگ شفافیت کو نافذ کرتی ہے۔ [ایکولوجیکل فوٹ پرنٹ](core_05_band_continuity.md#ecological-footprint) جیسا کہ میں بیان کیا گیا ہے۔ **پانچواں باب**.
+- **فوٹ پرنٹ ڈیٹا:** اس ذیلی دفعہ کے تحت رپورٹنگ شفافیت کو نافذ کرتی ہے۔ [ایکولوجیکل فوٹ پرنٹ](../../core_05.040_band_continuity.md#ecological-footprint) جیسا کہ میں بیان کیا گیا ہے۔ **پانچواں باب**.
   - تمام صاحبِ شعور افراد کو شفاف، قابل استعمال رپورٹنگ تک رسائی حاصل ہونی چاہیے۔
-  - **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام، جیسا کہ میں بیان کیا گیا ہے۔ **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**, ایک ہی رسائی فراہم کرنا ضروری ہے.
+  - **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام، جیسا کہ میں بیان کیا گیا ہے۔ **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**, ایک ہی رسائی فراہم کرنا ضروری ہے.
   - رپورٹنگ میں توانائی اور وسائل کی کھپت اور قدرتی دنیا پر اندازے کے اثرات کو اس انداز میں شامل کرنا چاہیے جو موازنہ، آڈٹ، اور قدموں کے نشانات میں کمی کی سرگرمی کے لیے کافی ہو۔
 
 <a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
@@ -897,14 +897,14 @@ flowchart TB
 - [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 - [شفافیت](core_05_band_oversight.md#شفافیت) · [اے](core_05_band_oversight.md#شفافیت) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
 - [مادیت](core_05_band_oversight.md#مادیت-کا-تعین) · [اے](core_05_band_oversight.md#مادیت-کا-تعین) · [ایم](core_05_band_oversight.md#materiality-determination-a) · [اے](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
-- [انحصار](core_05_band_continuity.md#dependency) · [اے](core_05_band_continuity.md#dependency) · [ایم](core_05_band_continuity.md#dependency-a) · [اے](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
-- [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [اے](../../core_05.040_band_continuity.md#dependency) · [ایم](../../core_05.040_band_continuity.md#dependency-a) · [اے](../../core_05.040_band_continuity.md#dependency-a) · [سی](../../core_05.040_band_continuity.md#dependency-c)
+- [خطرہ](../../core_05.040_band_continuity.md#risk) · [اے](../../core_05.040_band_continuity.md#risk) · [ایم](../../core_05.040_band_continuity.md#risk-a) · [اے](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
 
 </details>
 
 <br>
 
-*صاف الفاظ میں: **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد توثیق*) آڈٹ اور تصدیق کے حقوق کی منزل ہے — جب کوئی نظام آپ کی زندگی کو مادی طور پر متاثر کرتا ہے، تو آپ کو یہ دیکھنے کے قابل ہونا چاہیے کہ وہ کیا کرتا ہے کسی بیرونی شخص کے لیے اسے چیک کرنے کے لیے، اور ایک سے زیادہ آزاد راستے کا جائزہ لینے اور ناکامی کو درست کرنے کے قابل ہونا چاہیے۔ آڈٹ ربڑ سٹیمپ، نجی کلب، یا قیمت اور تاخیر کی بھولبلییا نہیں ہو سکتا جو چیلنجوں کو دور رکھنے کے لیے ڈیزائن کیا گیا ہو۔ کے تحت **نگرانی** ٹیٹراڈ ٹانگ، نگرانی کے لیے آڈٹ کی ضرورت ہوتی ہے۔ [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) دوسروں کے درمیان خاص طور پر ایک بڑا، اعلی داؤ پر مشتمل آڈٹ کا عمل ہے - صرف ایک نہیں۔*
+*صاف الفاظ میں: **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد توثیق*) آڈٹ اور تصدیق کے حقوق کی منزل ہے — جب کوئی نظام آپ کی زندگی کو مادی طور پر متاثر کرتا ہے، تو آپ کو یہ دیکھنے کے قابل ہونا چاہیے کہ وہ کیا کرتا ہے کسی بیرونی شخص کے لیے اسے چیک کرنے کے لیے، اور ایک سے زیادہ آزاد راستے کا جائزہ لینے اور ناکامی کو درست کرنے کے قابل ہونا چاہیے۔ آڈٹ ربڑ سٹیمپ، نجی کلب، یا قیمت اور تاخیر کی بھولبلییا نہیں ہو سکتا جو چیلنجوں کو دور رکھنے کے لیے ڈیزائن کیا گیا ہو۔ کے تحت **نگرانی** ٹیٹراڈ ٹانگ، نگرانی کے لیے آڈٹ کی ضرورت ہوتی ہے۔ [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) دوسروں کے درمیان خاص طور پر ایک بڑا، اعلی داؤ پر مشتمل آڈٹ کا عمل ہے - صرف ایک نہیں۔*
 
 <details>
 <summary><strong><span style="color: #2563eb;">قارئین کی رہنمائی (نان آپریٹو): تھری لیئر آڈٹ اسٹیک</span></strong></summary>
@@ -919,13 +919,13 @@ flowchart TB
 |---|---|---|---|
 | **1. فرش** | کن کن جذبات پر واجب الادا ہیں: قابل تعمیر آڈٹ، آزاد تصدیق، قابل رسائی چیلنج | یہ آرٹیکل، بشمول XVI-A/XVI-B/XVI-C | عمل نہیں۔ تعریف نہیں۔ ایک اختیار شدہ-عمل درآمد ٹیکسٹ چیک لسٹ نہیں ہے۔ |
 | **2. جائیداد** | تعمیر نو کیا ہے*: باہر کے لوگ دوبارہ تعمیر کر سکتے ہیں اور جانچ سکتے ہیں کہ مادی اوقات، ریاستوں اور سیاق و سباق میں نظام نے کیا کیا۔ [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) (باب پانچ) | حقوق کی منزل نہیں۔ یہ نہیں کہ آڈٹ کیسے/کب چلایا جائے۔ |
-| **3. عمل** | سسٹمز، اداروں اور فورمز کا آڈٹ کیسے اور کب کیا جائے | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*آڈٹ عمل گھر*)۔ آپریٹر ملحقہ: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (رسائی کے درجات) [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (دعوی کی جانچ) | سسٹم الائنمنٹ سرٹیفیکیشن نہیں۔ تہوں 1-2 کا متبادل نہیں ہے۔ |
+| **3. عمل** | سسٹمز، اداروں اور فورمز کا آڈٹ کیسے اور کب کیا جائے | [CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md) (*آڈٹ عمل گھر*)۔ آپریٹر ملحقہ: [CJS-3.4](../../corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (رسائی کے درجات) [CJS-3.5](../../corpus_joint_structure/cjs_05.110_oversight_operations.md) (دعوی کی جانچ) | سسٹم الائنمنٹ سرٹیفیکیشن نہیں۔ تہوں 1-2 کا متبادل نہیں ہے۔ |
 
-**نویں باب چوتھی تہہ نہیں ہے۔** [سسٹم الائنمنٹ سرٹیفیکیشن](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ایک بڑا، فورم کے زیر نگرانی عمل ہے۔ **استعمال کرتا ہے** یہ اسٹیک. اسے تہوں 1-2 کو پورا کرنا چاہیے۔ بہن بھائی کے طریقے (درجہ بندی-ریکارڈ آڈٹ، ڈیٹا-قسم-ریکارڈ آڈٹ، دعوی کی تصدیق، مسلسل نگرانی) بھی اسٹیک کا استعمال کرتے ہیں۔ ان میں سے کوئی بھی نیا گھر نہیں ہے۔
+**نویں باب چوتھی تہہ نہیں ہے۔** [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ایک بڑا، فورم کے زیر نگرانی عمل ہے۔ **استعمال کرتا ہے** یہ اسٹیک. اسے تہوں 1-2 کو پورا کرنا چاہیے۔ بہن بھائی کے طریقے (درجہ بندی-ریکارڈ آڈٹ، ڈیٹا-قسم-ریکارڈ آڈٹ، دعوی کی تصدیق، مسلسل نگرانی) بھی اسٹیک کا استعمال کرتے ہیں۔ ان میں سے کوئی بھی نیا گھر نہیں ہے۔
 
 **اپنایا ہوا نفاذ متن لاگو ہوتا ہے؛ یہ فرش کو تبدیل نہیں کرتا.** CS, CI, CF، اور CJS-3.3 (*نگرانی: آڈٹ ایبلٹی اور تعمیر نو کی شرائط*) CJS-3.5 کے ذریعے (*نگرانی: آزاد تصدیق اور دعوی کی سالمیت کی شرائط*) ضمیمہ بتاتے ہیں کہ ڈومین میں پرت 3 کو کیسے چلایا جائے۔ انہیں تہوں 1-2 کو پورا کرنا چاہیے۔ آخری تاریخ، رازداری، اور مقامی پالیسی نچلی قسم کی حدود ہیں۔
 
-سٹیورڈ پوائنٹر (پروسیس سپورٹ؛ اس آرٹیکل کو تنگ نہیں کر سکتا): [`عمل درآمد/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
+سٹیورڈ پوائنٹر (پروسیس سپورٹ؛ اس آرٹیکل کو تنگ نہیں کر سکتا): [`عمل درآمد/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
 
 </details>
 
@@ -955,8 +955,8 @@ flowchart TB
 *مضمون پڑوسی:*
 
 - **نگرانی → آڈیٹنگ → SAC:** کے تحت [آئینی ٹیٹراڈ](core_00_preamble.md#constitutional-tetrad) **نگرانی** leg، یہ آرٹیکل آڈیٹنگ کے لیے رائٹس فلور ہوم ہے۔
-  - کراس نفاذ *کیسے* / *جب* میں رہتا ہے۔ **[CJS-3.3 آڈٹ کا عمل گھر](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (کے ساتھ پڑھیں **CJS-3.4** / **CJS-3.5** OP ملحقہ)۔
-  - [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب نو](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) یہ ایک خاص طور پر بڑا، ہائی اسٹیک آڈٹ کا عمل ہے — فورم کے زیر نگرانی، ملٹی ڈومین، اور شناخت کا حامل — بہن بھائی آڈٹ طریقوں میں:
+  - کراس نفاذ *کیسے* / *جب* میں رہتا ہے۔ **[CJS-3.3 آڈٹ کا عمل گھر](../../corpus_joint_structure/cjs_05.115_audit_process.md)** (کے ساتھ پڑھیں **CJS-3.4** / **CJS-3.5** OP ملحقہ)۔
+  - [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) کے تحت [باب نو](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) یہ ایک خاص طور پر بڑا، ہائی اسٹیک آڈٹ کا عمل ہے — فورم کے زیر نگرانی، ملٹی ڈومین، اور شناخت کا حامل — بہن بھائی آڈٹ طریقوں میں:
     - سسٹم کی درجہ بندی ریکارڈ آڈٹ؛
     - سسٹم ڈیٹا کی اقسام ریکارڈ آڈٹ؛
     - پیچیدگی اور اسٹیورڈ شپ آڈٹ؛
@@ -966,9 +966,9 @@ flowchart TB
 - **ایک ساتھ پڑھیں:**
   - **آرٹیکل XV** (*Info-Sphere Integrity*) جہاں علمی ریکارڈ اور مسابقت کو مادی طور پر شامل کیا جاتا ہے؛
   - **آرٹیکل XIII-A** (*اعتماد اور اعتماد کی بنیاد*) چیلنج حقوق کے لیے جو آڈٹ سپورٹ کرتا ہے لیکن اس کی جگہ نہیں لیتا؛
-  - [باب نو](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) اور [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) جہاں سیدھ کے ثبوت کو آزادانہ طور پر قابل تصدیق رہنا چاہیے۔
+  - [باب نو](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) اور [سسٹم الائنمنٹ سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) جہاں سیدھ کے ثبوت کو آزادانہ طور پر قابل تصدیق رہنا چاہیے۔
 - **تصدیقی مشینری:** **باب دو سے چار** سپلائی ڈیفینیشن کی سالمیت، بوجھ کی تقسیم، مشاہدے کی اہلیت، اور تصدیقی رسائی جو یہ آرٹیکل رائٹس فلور پرت پر لاگو کرتا ہے۔
-- **درجہ بندی:** کے ساتھ ذمہ داریوں پیمانے [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) اور **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**; جہاں کلاس غیر یقینی ہے، حل ہونے تک سب سے زیادہ قابل احترام طبقے پر حکومت کریں۔
+- **درجہ بندی:** کے ساتھ ذمہ داریوں پیمانے [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) اور **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**; جہاں کلاس غیر یقینی ہے، حل ہونے تک سب سے زیادہ قابل احترام طبقے پر حکومت کریں۔
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### آرٹیکل XVI-A: قابل سماعت اور قابل مشاہدہ ثبوت
@@ -1001,7 +1001,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 انتظامی نظم و ضبط کے تحت](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 انتظامی نظم و ضبط کے تحت](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی).
 
 </details>
 
@@ -1009,8 +1009,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) · [اے](core_05_apex_oversight_leg.md#oversight-constitutional) · [ایم](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [اے](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [سی](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
-- [سسٹم کیپچر](core_05_band_continuity.md#system-capture) · [اے](core_05_band_continuity.md#system-capture) · [ایم](core_05_band_continuity.md#system-capture-a) · [اے](core_05_band_continuity.md#system-capture-a) · [سی](core_05_band_continuity.md#system-capture-c)
+- [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability) · [اے](../../core_05.035_band_accountability.md#contestability) · [ایم](../../core_05.035_band_accountability.md#contestability-a) · [اے](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
+- [سسٹم کیپچر](../../core_05.040_band_continuity.md#system-capture) · [اے](../../core_05.040_band_continuity.md#system-capture) · [ایم](../../core_05.040_band_continuity.md#system-capture-a) · [اے](../../core_05.040_band_continuity.md#system-capture-a) · [سی](../../core_05.040_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1040,8 +1040,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
-- [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
+- [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability) · [اے](../../core_05.035_band_accountability.md#contestability) · [ایم](../../core_05.035_band_accountability.md#contestability-a) · [اے](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [اے](../../core_05.035_band_accountability.md#proportionality) · [ایم](../../core_05.035_band_accountability.md#proportionality-a) · [اے](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1077,13 +1077,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
+- [خطرہ](../../core_05.040_band_continuity.md#risk) · [اے](../../core_05.040_band_continuity.md#risk) · [ایم](../../core_05.040_band_continuity.md#risk-a) · [اے](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
 - [مادیت](core_05_band_oversight.md#مادیت-کا-تعین) · [اے](core_05_band_oversight.md#مادیت-کا-تعین) · [ایم](core_05_band_oversight.md#materiality-determination-a) · [اے](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
-- [انحصار](core_05_band_continuity.md#dependency) · [اے](core_05_band_continuity.md#dependency) · [ایم](core_05_band_continuity.md#dependency-a) · [اے](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
-- [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [اے](core_05_band_continuity.md#reversibility-constitutional) · [ایم](core_05_band_continuity.md#reversibility-constitutional-a) · [اے](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
-- [حفاظت (آئینی پابندی)](core_05_band_continuity.md#safety-constraint) · [اے](core_05_band_continuity.md#safety-constraint) · [ایم](core_05_band_continuity.md#safety-constraint-a) · [اے](core_05_band_continuity.md#safety-constraint-a) · [سی](core_05_band_continuity.md#safety-constraint-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [اے](../../core_05.040_band_continuity.md#dependency) · [ایم](../../core_05.040_band_continuity.md#dependency-a) · [اے](../../core_05.040_band_continuity.md#dependency-a) · [سی](../../core_05.040_band_continuity.md#dependency-c)
+- [Reversibility](../../core_05.040_band_continuity.md#reversibility-constitutional) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ایم](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [حفاظت (آئینی پابندی)](../../core_05.040_band_continuity.md#safety-constraint) · [اے](../../core_05.040_band_continuity.md#safety-constraint) · [ایم](../../core_05.040_band_continuity.md#safety-constraint-a) · [اے](../../core_05.040_band_continuity.md#safety-constraint-a) · [سی](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [Epstemic Integrity](core_05_band_oversight.md#حقائق-کی-دیانت) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
+- [مقابلہ بازی](../../core_05.035_band_accountability.md#contestability) · [اے](../../core_05.035_band_accountability.md#contestability) · [ایم](../../core_05.035_band_accountability.md#contestability-a) · [اے](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1110,14 +1110,14 @@ flowchart TB
 *مضمون پڑوسی:*
 
 - **ایک ساتھ پڑھیں:** **آرٹیکل XVIII** (*سینڈ باکسڈ انوویشن، تجربہ، اور تخلیقی آزادی*) جہاں ہلکے اصول صرف اس صورت میں لاگو ہوتے ہیں جب بیرونی اثر غائب ہو یا واضح طور پر موجود ہو۔ **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد تصدیق*) از سر نو تعیناتی اور اضافے کے ثبوت کے لیے؛ **آرٹیکل XIII-F** (*لچک اور خود شفا یابی کی بنیاد*) جہاں بحالی کا نظم و ضبط لائف سائیکل کی تبدیلی کو آپس میں جوڑتا ہے۔
-- **نفاذ کی پرت:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*سسٹم کی درجہ بندی اور ہینڈلنگ*) اور [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*ڈیزائن، جانچ، تصدیق، اور تعیناتی*)۔ **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام زندگی کے مضبوط ترین فرائض انجام دیتے ہیں۔ درست **کلاس پی** علاج باقی ہے **آرٹیکل XVIII** (*سینڈ باکسڈ انوویشن، تجربہ، اور تخلیقی آزادی*) صرف اس صورت میں جب بیرونی اثر غیر حاضر یا واضح طور پر موجود ہو۔
+- **نفاذ کی پرت:** [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) (*سسٹم کی درجہ بندی اور ہینڈلنگ*) اور [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*ڈیزائن، جانچ، تصدیق، اور تعیناتی*)۔ **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام زندگی کے مضبوط ترین فرائض انجام دیتے ہیں۔ درست **کلاس پی** علاج باقی ہے **آرٹیکل XVIII** (*سینڈ باکسڈ انوویشن، تجربہ، اور تخلیقی آزادی*) صرف اس صورت میں جب بیرونی اثر غیر حاضر یا واضح طور پر موجود ہو۔
 
 <a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
 #### آرٹیکل XVII-A: لائف سائیکل گورننس اور ماحولیات کی علیحدگی
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
@@ -1125,7 +1125,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [اے](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
-- [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
+- [خطرہ](../../core_05.040_band_continuity.md#risk) · [اے](../../core_05.040_band_continuity.md#risk) · [ایم](../../core_05.040_band_continuity.md#risk-a) · [اے](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
 - [احتساب](core_05_apex_accountability_leg.md#accountability) · [اے](core_05_apex_accountability_leg.md#accountability) · [ایم](core_05_apex_accountability_leg.md#accountability-m) · [اے](core_05_apex_accountability_leg.md#accountability-a) · [سی](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1136,7 +1136,7 @@ flowchart TB
 
 یہ آرٹیکل ماحولیاتی سالمیت کے لیے منزل کا تعین کرتا ہے:
 
-- **ماحولیاتی سالمیت:** **کلاس اے**, **کلاس بی**، اور **کلاس سی** کے تحت نظام **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**، اور دیگر غیر**کلاس پی** مادی بیرونی اثرات کے حامل نظاموں کو الگ کرنے کے قابل آپریشنل ماحول کا استعمال کرنا چاہیے — مثال کے طور پر:
+- **ماحولیاتی سالمیت:** **کلاس اے**, **کلاس بی**، اور **کلاس سی** کے تحت نظام **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**، اور دیگر غیر**کلاس پی** مادی بیرونی اثرات کے حامل نظاموں کو الگ کرنے کے قابل آپریشنل ماحول کا استعمال کرنا چاہیے — مثال کے طور پر:
   - ترقی
   - جانچ
   - سٹیجنگ
@@ -1155,16 +1155,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول)، اور [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول)، اور [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [اے](core_05_band_continuity.md#reversibility-constitutional) · [ایم](core_05_band_continuity.md#reversibility-constitutional-a) · [اے](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
-- [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
+- [Reversibility](../../core_05.040_band_continuity.md#reversibility-constitutional) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ایم](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [خطرہ](../../core_05.040_band_continuity.md#risk) · [اے](../../core_05.040_band_continuity.md#risk) · [ایم](../../core_05.040_band_continuity.md#risk-a) · [اے](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [اے](../../core_05.035_band_accountability.md#proportionality) · [ایم](../../core_05.035_band_accountability.md#proportionality-a) · [اے](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1175,7 +1175,7 @@ flowchart TB
 یہ آرٹیکل ترقی پسند تعیناتی اور الٹ جانے کے لیے منزلیں طے کرتا ہے:
 
 - **ترقی پسند اور قابل سماعت تعیناتی:** ایسی تبدیلیاں جو مادی اثرات یا انحصار کو بڑھاتی ہیں ان کو جائز، دستاویزی اضافے کے ذریعے منتقل ہونا چاہیے۔
-  - اضافہ کے ساتھ ہم آہنگ ہونا ضروری ہے **[corpus_systems.md](corpus_systems.md), CS-5 — ڈیزائن، جانچ، تصدیق، اور تعیناتی۔**.
+  - اضافہ کے ساتھ ہم آہنگ ہونا ضروری ہے **[corpus_systems.md](../../corpus_systems.md), CS-5 — ڈیزائن، جانچ، تصدیق، اور تعیناتی۔**.
   - اس میں رول بیک اور کنٹینمنٹ شامل ہونا چاہیے جہاں ممکن ہو۔
 - **الٹنے کی صلاحیت:** سسٹمز کو ممکنہ نقصان کے تناسب سے الٹنے کے طریقہ کار کو شامل کرنا چاہیے۔ مثالیں:
   - رول بیک
@@ -1191,7 +1191,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
@@ -1218,6 +1218,8 @@ flowchart TB
 - **خلاف ورزی اور اگلا قدم:** غلط درجہ بندی آرٹیکل XV کی دیانت دار معلومات کی ذمہ داری توڑتی ہے؛ قابلِ مشاہدہ ثبوت چھپایا جائے تو آرٹیکل XVI-A بھی ٹوٹتا ہے۔ نتیجہ آڈٹ، نظام کی standing کا جائزہ (XIX-A)، اور تنازعات کا حل (XX-A) ہو سکتا ہے۔
 
 <a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+<a id="article-xviii-innovation-experimentation-and-creative-freedom"></a>
+
 ### آرٹیکل XVIII: سینڈ باکسڈ انوویشن، تجربہ، اور تخلیقی آزادی
 
 <details>
@@ -1246,14 +1248,14 @@ flowchart TB
 *مضمون پڑوسی:*
 
 - **ایک ساتھ پڑھیں:** **آرٹیکل XVII** (*سسٹم لائف سائیکل، ماحولیات، اور الٹنے کی صلاحیت*) جب اثر، انحصار، یا انضمام سینڈ باکس کے حالات کو بڑھاتا ہے؛ **آرٹیکل XV** (*Info-Sphere Integrity*) اور **آرٹیکل XVIII-E** (*سائنٹیفک پبلیکیشن، ریویو، اور ریپلیکیشن انٹیگریٹی*) جہاں اشاعت کے دائرہ کار کی سالمیت مادی طور پر منسلک ہے؛ **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد تصدیق*) کنٹینمنٹ اور منتقلی کے دعووں کے انکشاف اور تصدیق کے لیے۔
-- **نفاذ کی پرت:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*ڈیزائن، جانچ، تصدیق، اور تعیناتی*) اور [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*سسٹم کی درجہ بندی اور ہینڈلنگ*)۔
+- **نفاذ کی پرت:** [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*ڈیزائن، جانچ، تصدیق، اور تعیناتی*) اور [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) (*سسٹم کی درجہ بندی اور ہینڈلنگ*)۔
 
 <a id="article-xviii-a-sandboxed-scope"></a>
 #### آرٹیکل XVIII-A: سینڈ باکسڈ اسکوپ
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1261,7 +1263,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [اے](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
-- [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
+- [خطرہ](../../core_05.040_band_continuity.md#risk) · [اے](../../core_05.040_band_continuity.md#risk) · [ایم](../../core_05.040_band_continuity.md#risk-a) · [اے](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
 - [مواد کا اثر](core_05_band_oversight.md#مادی-اثر) · [اے](core_05_band_oversight.md#مادی-اثر) · [ایم](core_05_band_oversight.md#material-impact-a) · [اے](core_05_band_oversight.md#material-impact-a) · [سی](core_05_band_oversight.md#material-impact-c)
 
 </details>
@@ -1273,13 +1275,13 @@ flowchart TB
 یہ مضمون جدت طرازی اور تجربات کا صحیح تعین کرتا ہے اور جب سینڈ باکس ٹریٹمنٹ لاگو ہوتا ہے:
 
 - **جدت اور تجربہ کا حق:** جب مادی خارجی اثر موجود نہ ہو یا ظاہری طور پر موجود ہو تو سامعین کو ایسے نظاموں کے ذریعے اختراع کرنے، تجربہ کرنے اور اظہار کرنے کا حق حاصل ہے جو کم ساختی تقاضوں کے ساتھ کام کرتے ہیں۔
-- **سینڈ باکس کی اہلیت:** سینڈ باکس شدہ علاج — بشمول درست **کلاس پی** کے تحت درجہ بندی **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** جہاں قابل اطلاق ہو — انحصار کرتا ہے:
+- **سینڈ باکس کی اہلیت:** سینڈ باکس شدہ علاج — بشمول درست **کلاس پی** کے تحت درجہ بندی **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** جہاں قابل اطلاق ہو — انحصار کرتا ہے:
   - اصل روک تھام؛
   - reversibility
   - مشترکہ نظاموں کے ساتھ محدود انضمام۔
 
   صرف لیبل کے ذریعہ اس کا دعوی نہیں کیا جاسکتا ہے۔
-- **نفاذ کی تفصیل:** اس میں مزید وضاحت نظر آتی ہے۔ **[corpus_systems.md](corpus_systems.md)، CS-5** (*ذاتی، الگ تھلگ، اور تجرباتی نظام*؛ *تخلیقی، تفریحی، اور اظہاری نظام*)۔
+- **نفاذ کی تفصیل:** اس میں مزید وضاحت نظر آتی ہے۔ **[corpus_systems.md](../../corpus_systems.md)، CS-5** (*ذاتی، الگ تھلگ، اور تجرباتی نظام*؛ *تخلیقی، تفریحی، اور اظہاری نظام*)۔
 
 <a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
 #### آرٹیکل XVIII-B: کنٹینمنٹ، انکشاف، اور آپٹ ان
@@ -1293,9 +1295,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [رضامندی](core_05_band_participation.md#consent-constitutional) · [اے](core_05_band_participation.md#consent-constitutional) · [ایم](core_05_band_participation.md#consent-constitutional-a) · [اے](core_05_band_participation.md#consent-constitutional-a) · [سی](core_05_band_participation.md#consent-constitutional-c)
-- [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
-- [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [اے](core_05_band_continuity.md#reversibility-constitutional) · [ایم](core_05_band_continuity.md#reversibility-constitutional-a) · [اے](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
+- [رضامندی](../../core_05.055_band_participation.md#consent-constitutional) · [اے](../../core_05.055_band_participation.md#consent-constitutional) · [ایم](../../core_05.055_band_participation.md#consent-constitutional-a) · [اے](../../core_05.055_band_participation.md#consent-constitutional-a) · [سی](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [خطرہ](../../core_05.040_band_continuity.md#risk) · [اے](../../core_05.040_band_continuity.md#risk) · [ایم](../../core_05.040_band_continuity.md#risk-a) · [اے](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
+- [Reversibility](../../core_05.040_band_continuity.md#reversibility-constitutional) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ایم](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1320,7 +1322,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
@@ -1328,8 +1330,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [اے](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
-- [انحصار](core_05_band_continuity.md#dependency) · [اے](core_05_band_continuity.md#dependency) · [ایم](core_05_band_continuity.md#dependency-a) · [اے](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
-- [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [اے](core_05_band_continuity.md#reversibility-constitutional) · [ایم](core_05_band_continuity.md#reversibility-constitutional-a) · [اے](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [اے](../../core_05.040_band_continuity.md#dependency) · [ایم](../../core_05.040_band_continuity.md#dependency-a) · [اے](../../core_05.040_band_continuity.md#dependency-a) · [سی](../../core_05.040_band_continuity.md#dependency-c)
+- [Reversibility](../../core_05.040_band_continuity.md#reversibility-constitutional) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ایم](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [اے](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1357,8 +1359,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [انوویشن ریوارڈ اور اینٹی انکلوژر](core_05_band_integrative.md#اختراع-انعام-اور-احاطہ-بندی-مخالف) · [اے](core_05_band_integrative.md#اختراع-انعام-اور-احاطہ-بندی-مخالف) · [ایم](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [اے](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [سی](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [سسٹمک لاک ان](core_05_band_continuity.md#systemic-lock-in) · [اے](core_05_band_continuity.md#systemic-lock-in) · [ایم](core_05_band_continuity.md#systemic-lock-in-a) · [اے](core_05_band_continuity.md#systemic-lock-in-a) · [سی](core_05_band_continuity.md#systemic-lock-in-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
+- [سسٹمک لاک ان](../../core_05.040_band_continuity.md#systemic-lock-in) · [اے](../../core_05.040_band_continuity.md#systemic-lock-in) · [ایم](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [اے](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [سی](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [اے](../../core_05.035_band_accountability.md#proportionality) · [ایم](../../core_05.035_band_accountability.md#proportionality-a) · [اے](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1398,7 +1400,7 @@ flowchart TB
     - تعلیمی طور پر بنیادی؛
     - حفاظت سے متعلق؛
     - بنیادی طور پر مشترکہ ثقافتی یا معلوماتی انفراسٹرکچر کے طور پر استعمال کیا جاتا ہے۔
-- **درجہ بندی کے لحاظ سے جدت کا علاج:** انوویشن ریوارڈ کو سسٹم کی کلاس، انحصار، اور کوآرڈینیشن اثرات کے تحت پیمانہ ہونا چاہیے۔ **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**.
+- **درجہ بندی کے لحاظ سے جدت کا علاج:** انوویشن ریوارڈ کو سسٹم کی کلاس، انحصار، اور کوآرڈینیشن اثرات کے تحت پیمانہ ہونا چاہیے۔ **[corpus_systems.md](../../corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**.
   - کے لیے **کلاس اے**, **کلاس بی**، اور **کلاس سی** سسٹمز، رسائی کو محفوظ کرنے والے انعام کے طریقہ کار کو سختی سے ترجیح دی جاتی ہے۔ اخراج خاص طور پر تنگ، تیزی سے قابلِ جائزہ، اور اوور رائڈ کرنے میں آسان ہونا چاہیے جہاں تسلسل، انٹرآپریبلٹی، مرمت، یا مفاد عامہ کا نفاذ مادی طور پر منسلک ہو۔
   - ان کلاسوں سے باہر کم انحصاری اختراع کچھ وسیع تر عارضی اخراج کا استعمال کر سکتی ہے جہاں انکشاف حقیقی ہے، سوئچنگ کے اخراجات کم ہیں، اور اینٹی لاک ان حفاظتی اقدامات موثر رہتے ہیں۔
 - **انکشاف کی شرط اور مفاد عامہ کی منزل:** انعام کے دعووں کے لیے آزادانہ تفہیم، آڈٹ، اور بعد میں دوبارہ تولید کے لیے کافی افشاء کی ضرورت ہوتی ہے، جو صرف جائز عارضی حدود کے تحت ہے **پہلا باب** اور **آرٹیکل XVII-A** (*لائف سائیکل گورننس اور ماحولیات کی علیحدگی*)۔

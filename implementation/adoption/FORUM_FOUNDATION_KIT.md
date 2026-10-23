@@ -195,7 +195,7 @@ If any box is unchecked, stop. Scaffolding + non-forum banner only.
 
 Use this when first adopters need a Test 4 path and no live CF-13.405 structure exists yet. Existing external reviewers, published backups, and adjudicative bodies the crew does not control belong here. Inventing a two-party “forum” does not.
 
-**Check the route in practice.** A name and an acknowledgment do not establish independence or capacity. For the acts this route will review, trace the [Material Control Line](../../core_05.035_band_accountability.md#material-control-line), including power over funding, removal, credentials, evidence, and records. [Chapter Eight §§3–6](../../core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) supplies the independence, substitution, and hosting rules; [§8](../../core_08.000_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs) supplies the Act Record and handoff floor. Record what the reviewer has actually accepted and can do. Mark missing capacity as missing. A shared service alone does not prove control; separate role names alone do not prove independence.
+**Check the route in practice.** A name and an acknowledgment do not establish independence or capacity. For the acts this route will review, trace the [Material Control Line](../../core_05.035_band_accountability.md#material-control-line), including power over funding, removal, credentials, evidence, and records. [Chapter Eight §§3–6](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) supplies the independence, substitution, and hosting rules; [§8](../../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) supplies the Act Record and handoff minimum. Record what the reviewer has actually accepted and can do. Mark missing capacity as missing. A shared service alone does not prove control; separate role names alone do not prove independence.
 
 The added fields below help test the proposed route; they do not grant authority or set new constitutional deadlines. For an operations-guide arrangement, identify the agreed schedule as such. Where constitutional forum clocks apply, cite their owner and record the matter's urgency tier separately from the system's impact class ([Chapter Thirteen §6](../../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)).
 
@@ -272,7 +272,7 @@ Corpus edition pin: SC-Corpus-2026.10.21 (or later named publication cut)
 Track: B forum-family formation
 Recorded Chapter Seventeen adoption document (where it lives):
 Adopting entity (legal or network identity):
-Classification floor: Class C minimum for every family / chamber
+Classification minimum: Class C for every family / chamber
   (CI-9.210 §3 / CF-13.405 §6). Higher class if governed scope requires it:
 
 For each family below, local titles may differ; the constitutional
@@ -368,7 +368,7 @@ CHAMBER-CREATION DRAFT (not a live adoption document; CF-13.405 §5 wins on conf
 Family this chamber sits in:
 Subject-matter scope:
 Competence profile:
-Institutional design class (Class C floor; A or B if scope requires):
+Institutional design class (Class C minimum; A or B if scope requires):
 How chamber rulings are reviewed:
 Why family-level handling is not enough (CF-13.405 §8, if specialist):
 This chamber is not a separate constitutional forum family.
@@ -388,7 +388,7 @@ Do not restate CF or Chapter Thirteen. Use the owner files. This section is only
 | Published map | [CF-13.405 §2](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-2-family-to-forum-structure-translation-map) | Filers can tell which body handles what. |
 | Intake triage body | [Chapter Thirteen §2](../../core_13.000_forum.md#2-default-venue-and-primary-stakes); [CF-13.415](../../corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md) | First-touch desk sorts; it does not decide merits or become a family. |
 | Lawful panels | [CF-13.410](../../corpus_forum/cf_13.410_panel_formation_disclosure_recusal_bench_constitution.md) | Disclosure, recusal, and bench constitution are published. A named crew is not a panel. |
-| Chamber authority | [CF-13.405 §5](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-5-chamber-creation-identification-and-family-boundary)–[CF-13.405 §8](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-8-specialist-and-technical-chamber-discipline); **CJS-18.110 §1**; [CI-9.210 §3](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-3-delegated-subunits-institutional-design-class-and-attachment-discipline) | Class C floor. Attachment published. Chamber stays inside its family. |
+| Chamber authority | [CF-13.405 §5](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-5-chamber-creation-identification-and-family-boundary)–[CF-13.405 §8](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-8-specialist-and-technical-chamber-discipline); **CJS-18.110 §1**; [CI-9.210 §3](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-3-delegated-subunits-institutional-design-class-and-attachment-discipline) | Class C minimum. Attachment published. Chamber stays inside its family. |
 | Anti-self-judging and capture backup | [Chapter Thirteen §3](../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture); [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) | Own-integrity claims leave that family as sole final merits home. Captured family does not control restoration. |
 | Staffing and reserve | [CF-13.470](../../corpus_forum/cf_13.470_staffing_reserve_capacity_structural_records.md); [CF-13.405 §4](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-4-minimum-structural-availability-by-family) | Enough people to sit without one recurring bench hearing everything. |
 | Appointment independence | [Chapter Thirteen §1](../../core_13.000_forum.md#1-purpose-and-role--participation-architecture); [Chapter Fourteen §1.2](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums); [CI-14.205](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) | Integrity, Constitutional, Environment, and Technical-on-sentience-status are not founding-crew self-appointment. |

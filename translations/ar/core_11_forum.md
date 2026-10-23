@@ -12,7 +12,7 @@
 >
 > **السابق (ما زال بالإنجليزية):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **التالي (ما زال بالإنجليزية):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **التالي (ما زال بالإنجليزية):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 > **قوس القراءة:** §1 الغرض → تسلسل النزاعات → §2 المقر الافتراضي والقبول → §2.1–§2.3 حدود القيادة والرهانات المختلطة والطعن → §3 النقل ومنع الحكم الذاتي → §4 الأسر → §5 التصعيد والتصديق → §6 الدرجات ومنع التأخير → §7 دعم المنتدى
 </details>
 
@@ -59,7 +59,7 @@
 - أعلى: [الفصل السابع — تصديق مواءمة النظام](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)؛ [الفصل الثامن](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)؛ [الفصل التاسع](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)؛ [الفصل العاشر](../../core_12_a_misconduct_designation.md)#chapter-ten-anti-constitutional-misconduct)؛ [الفصل الأول](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*المبادئ والقيود التفسيرية*)؛ [الفصول من الثاني إلى الرابع](core_02_definition_structure.md) (*توقعات التتبع والتحقق*)؛ [الفصل الخامس](core_05__definitions_home.md#chapter-five-foundational-definitions) (*التعريفات مقروءة مع الفصول من الثاني إلى الرابع في ودجة موضع الملف في المتن*)؛ [الفصل السادس](core_06_rights_part_a.md#chapter-six-foundational-rights) (*أرضية الحقوق التأسيسية التي يطبّقها هذا الفصل معها*).
 - أسفل: [§2](#2-default-venue-and-primary-stakes) (*المقر الافتراضي للرهانات الأولية وفرز القبول والرهانات المختلطة واللاتناظر وطعون سجلات الوضعية؛ وصول عتبة قابل للطعن وفي وقته؛ التوصيف بحسن نية ومنع التلاعب*)؛ [§3](#3-transfer-consolidation-and-coordination) (*النقل ومنع الحكم الذاتي*)؛ [§4](#4-forum-family-definitions) (*تعريفات أسر المنتديات والغرف والمعايير المشتركة والقانون التشغيلي المؤقت*)؛ [§4.3](#43-institutional-forums) (*حد الإجراء الداخلي بوصفه تطبيق الأسرة المؤسسية لتسلسل النزاعات*)؛ [§5](#5-escalation-and-certification) (*التصعيد والتصديق والحماية المؤقتة*)؛ [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*درجات الأهمية المادية ومعالم السلسلة وانضباط منع التأخير*)؛ [§7](#7-forum-support-before-during-and-after-review) (*دعم المنتدى قبل المراجعة وأثناءها وبعدها*).
 - أرجل الرباعية: **المشاركة**، **الرقابة**، **المساءلة**، **حسن التوقيت** (يجوز للإيجادات الموثّقة أن تفتح سجلات الوضعية أو تحدّثها أو تصحّحها؛ ينفّذ **CF-11** ساعات الدرجة). المقاصد الأولية: **الازدهار** و**الاستمرارية**. ينطبق قياس [الرهان المادي](core_00_preamble.md#material-stake) على عبء التوجيه والوصول.
-- يُقرأ مع: [الديباجة §3.2](core_00_preamble.md#32-key-governance-processes) و[§3.3](core_00_preamble.md#33-governance-layers) (*مسارات الإجراء وانضباط طبقات الحوكمة*)؛ [المادة XII: المشاركة النظامية للأطراف المتأثرة والتمثيل والإجراءات الواجبة](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*قواعد الطوارئ والاستنفاد والتوقيت*) — نفّذ، لا تضيّق)؛ [corpus_institutions.md](../../corpus_institutions.md) (*الطعن والمراجعة الثانوية ومراقبة النزاهة — لا يحل محل اختصاص المنتدى المعيَّن*)؛ [المادة XIII-B: الحق في الطعن والمراجعة والانتصاف](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)؛ [أسرة المادة XXIV](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*قيود العدل المشار إليها في ودجة موضع الملف في المتن*).
+- يُقرأ مع: [الديباجة §3.2](core_00_preamble.md#32-key-governance-processes) و[§3.3](core_00_preamble.md#33-governance-layers) (*مسارات الإجراء وانضباط طبقات الحوكمة*)؛ [المادة XII: المشاركة النظامية للأطراف المتأثرة والتمثيل والإجراءات الواجبة](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*قواعد الطوارئ والاستنفاد والتوقيت*) — نفّذ، لا تضيّق)؛ [corpus_institutions.md](../../corpus_institutions.md) (*الطعن والمراجعة الثانوية ومراقبة النزاهة — لا يحل محل اختصاص المنتدى المعيَّن*)؛ [المادة XIII-B: الحق في الطعن والمراجعة والانتصاف](core_06_rights_part_c.md)؛ [أسرة المادة XXIV](core_06_rights_part_d.md) (*قيود العدل المشار إليها في ودجة موضع الملف في المتن*).
 
 </details>
 
@@ -91,7 +91,7 @@
 **أسر المنتديات** هي المؤسسات الأولية التي **يشرف** عبرها هذا الصك على تلك المسارات. وهي متميزة عن الإدارة التنفيذية الروتينية للقواعد النافذة.
 
 <a id="dispute-sequencing"></a>
-**تسلسل النزاعات.** داخل نظام أو مؤسسة أو مجال قرار محدود سبق الترخيص له، يستخدم نزاع عادي مسار الطعن والإجراءات الواجبة المنشور لـ[المشاركة النظامية للأطراف المتأثرة](core_05_band_participation.md#stakeholder-status-and-weight-cluster) أولًا. إن أنتج ذلك المسار نتيجة ما زالت متنازعًا عليها، أو كان غائبًا، أو مستولًى عليه، أو لا يستطيع منح الانتصاف المطلوب على نحو مشروع، يوجّه هذا الفصل المسألة بحسب الرهان الأولي تحت **القسم 2**. **النزاهة** و**مجالات المنتدى التقني** و**البيئة** و**الدستورية** أسر قيادة افتراضية حين يكون ذلك هو الرهان الأولي — لا استثناءات تتخطى التسلسل. لا يجوز لإجراء داخلي غير مكتمل أو تسميات الاستنفاد أو ادعاء أن المراجعة الداخلية غير مكتملة أن تعوّق تلك القيادات أو تحل محل موضوعها أو تلتهم ساعات **المادة XXV-C** (*الحل في وقته وأرضية منع التأخير*). يبقى الوصول المباشر متاحًا حين يعرّض التأخير الحقوق أو الدليل أو الاستقلال أو الاستعادة العملية لخطر مادي.
+**تسلسل النزاعات.** داخل نظام أو مؤسسة أو مجال قرار محدود سبق الترخيص له، يستخدم نزاع عادي مسار الطعن والإجراءات الواجبة المنشور لـ[المشاركة النظامية للأطراف المتأثرة](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) أولًا. إن أنتج ذلك المسار نتيجة ما زالت متنازعًا عليها، أو كان غائبًا، أو مستولًى عليه، أو لا يستطيع منح الانتصاف المطلوب على نحو مشروع، يوجّه هذا الفصل المسألة بحسب الرهان الأولي تحت **القسم 2**. **النزاهة** و**مجالات المنتدى التقني** و**البيئة** و**الدستورية** أسر قيادة افتراضية حين يكون ذلك هو الرهان الأولي — لا استثناءات تتخطى التسلسل. لا يجوز لإجراء داخلي غير مكتمل أو تسميات الاستنفاد أو ادعاء أن المراجعة الداخلية غير مكتملة أن تعوّق تلك القيادات أو تحل محل موضوعها أو تلتهم ساعات **المادة XXV-C** (*الحل في وقته وأرضية منع التأخير*). يبقى الوصول المباشر متاحًا حين يعرّض التأخير الحقوق أو الدليل أو الاستقلال أو الاستعادة العملية لخطر مادي.
 
 ```mermaid
 flowchart TD
@@ -146,7 +146,7 @@ flowchart TD
 - أعلى: [§1](#1-purpose-and-role) (*الغرض ودور التطبيق الأولي ومتطلبات المساءلة وتوجيه العتبة المنشور وعدم نقل التفصيل وتوقعات الاستقلال والمراجعة*).
 - أسفل: [§3](#3-transfer-consolidation-and-coordination) (*النقل والدمج ومنع الحكم الذاتي*)؛ [§4](#4-forum-family-definitions) (*تعريفات أسر المنتديات مقروءة مع الجدول الافتراضي*)؛ [§5](#5-escalation-and-certification) (*التصعيد من المقر الافتراضي؛ الحماية المؤقتة*)؛ [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*درجات الأهمية المادية وانضباط منع التأخير*)؛ [§7](#7-forum-support-before-during-and-after-review) (*دعم المنتدى قبل المراجعة وأثناءها وبعدها*).
 - داخل §2: [§2.1](#21-lead-default-limits) (*تصادم الرهانات الأولية والتصديق الدستوري واحتياط منع الحكم الذاتي*)؛ [§2.2](#22-mixed-stakes-and-routing-asymmetry) (*الرهانات المختلطة واللاتناظر*)؛ [§2.3](#23-forum-records-standing-records-and-contests) (*سجلات قضية المنتدى وسجلات الوضعية والطعون*).
-- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — أرجل **المشاركة** و**الرقابة** و**حسن التوقيت**؛ قياس [الرهان المادي](core_00_preamble.md#material-stake) لتوجيه الرهانات الأولية؛ [الفصل الثامن §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*نحو خانة الوضعية*)؛ [المقياس الموحّد في الفصل الثامن §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*نطاقات LEQU المشتركة بخمسة أضعاف وسجلات المحور المنفصلة*)؛ [الفصل الثامن §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*واصفات معيارية عبر المحاور تُعلم الرهان الأولي دون تحريك خانة الأثر*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-5** و**CF-7.2**)؛ [corpus_systems.md](../../corpus_systems.md) (*واجبات تصنيف الأنظمة والنشر وإعادة التحقق*)؛ [الفصل العاشر §3](../../core_12_a_misconduct_designation.md)#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*تسمية سوء السلوك المضاد للدستور لخانات الفصل الثامن المؤهِّلة 7–9؛ يُحفظ المرسى الموروث*)؛ [الفصل العاشر §4](../../core_12_a_misconduct_designation.md)#4-due-process-safeguards-for-slot-assignment) (*الإجراءات الواجبة لتلك التسمية مقروءة مع هذا الفصل و**المادة XXIV** (*حل النزاعات والتصعيد وتناسب الطوارئ*)*)؛ [المادة XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*مقصد العدل ونطاقه*).
+- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — أرجل **المشاركة** و**الرقابة** و**حسن التوقيت**؛ قياس [الرهان المادي](core_00_preamble.md#material-stake) لتوجيه الرهانات الأولية؛ [الفصل الثامن §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*نحو خانة الوضعية*)؛ [المقياس الموحّد في الفصل الثامن §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*نطاقات LEQU المشتركة بخمسة أضعاف وسجلات المحور المنفصلة*)؛ [الفصل الثامن §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*واصفات معيارية عبر المحاور تُعلم الرهان الأولي دون تحريك خانة الأثر*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-5** و**CF-7.2**)؛ [corpus_systems.md](../../corpus_systems.md) (*واجبات تصنيف الأنظمة والنشر وإعادة التحقق*)؛ [الفصل العاشر §3](../../core_12_a_misconduct_designation.md)#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*تسمية سوء السلوك المضاد للدستور لخانات الفصل الثامن المؤهِّلة 7–9؛ يُحفظ المرسى الموروث*)؛ [الفصل العاشر §4](../../core_12_a_misconduct_designation.md)#4-due-process-safeguards-for-slot-assignment) (*الإجراءات الواجبة لتلك التسمية مقروءة مع هذا الفصل و**المادة XXIV** (*حل النزاعات والتصعيد وتناسب الطوارئ*)*)؛ [المادة XXIV-A](core_06_rights_part_d.md) (*مقصد العدل ونطاقه*).
 
 </details>
 
@@ -191,7 +191,7 @@ flowchart TD
      - التصديق **الدستوري** حيث يُحتاج؛
      - قواعد الطرف المؤسسي؛ و
      - احتياط منع الحكم الذاتي تحت **الأقسام 2 و3 و5**.
-   - **نزاعات انحياز المنتدى:** إن دار النزاع أساسًا حول عضو هيئة كان ينبغي أن يتنحى، أو مشاركة هيئة منحازة، أو خرق نزاهة منتدى مقارن — بما في ذلك على هيئة منتدى **دستوري** تحت **[المادة XXIII-B](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls) (*التكوين والتناوب وضوابط التعارض*)** — فوجّهه إلى منتديات **النزاهة** أولًا. تحت **القسم 3**، لا يستطيع منتدى أن يكون الحكم النهائي الوحيد لانحيازه: لا يستطيع منتدى **دستوري** أن يكون المنتدى النهائي الوحيد الذي يقرر ما إذا كان ينبغي لعضو هيئته أن يتنحى. انضباط قفل الوضعية: **[الفصل التاسع §5.5](core_09_standing_integration.md#55-special-locks)**. نمط سوء السلوك المسمّى: **[الفصل العاشر §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
+   - **نزاعات انحياز المنتدى:** إن دار النزاع أساسًا حول عضو هيئة كان ينبغي أن يتنحى، أو مشاركة هيئة منحازة، أو خرق نزاهة منتدى مقارن — بما في ذلك على هيئة منتدى **دستوري** تحت **[المادة XXIII-B](core_06_rights_part_c.md) (*التكوين والتناوب وضوابط التعارض*)** — فوجّهه إلى منتديات **النزاهة** أولًا. تحت **القسم 3**، لا يستطيع منتدى أن يكون الحكم النهائي الوحيد لانحيازه: لا يستطيع منتدى **دستوري** أن يكون المنتدى النهائي الوحيد الذي يقرر ما إذا كان ينبغي لعضو هيئته أن يتنحى. انضباط قفل الوضعية: **[الفصل التاسع §5.5](core_09_standing_integration.md#55-special-locks)**. نمط سوء السلوك المسمّى: **[الفصل العاشر §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
    - **أسئلة الكيفية التقنية:** تذهب أسئلة المواصفات والمناهج والقياس والاختبار والدليل الخبير إلى **مجالات المنتدى التقني** حين تكون تلك الرهان الأولي أو أسئلة مكوّن مصدَّقة.
    - **اعتماد مواءمة النظام:**
      - يعود **اعتراف المواءمة الدستورية** الرسمي للأنظمة الجديدة ذات الأثر المادي، و**تحقق المواءمة المستمر** للقائمة، افتراضيًا إلى **النزاهة** قائدة.
@@ -238,14 +238,14 @@ flowchart TD
 #### 2.3 سجلات قضية المنتدى وسجلات الوضعية والطعون
 
 **سجلات قضية المنتدى وسجلات الوضعية:**
-- يحفظ منتدى [**سجل قضية منتدى**](core_05_band_accountability.md#forum-case-record) للنزاع أمامه. يتتبع ذلك السجل:
+- يحفظ منتدى [**سجل قضية منتدى**](../../core_05.035_band_accountability.md#forum-case-record) للنزاع أمامه. يتتبع ذلك السجل:
   - الادعاءات؛
   - الدليل؛
   - اختيارات التوجيه؛
   - الأوامر المؤقتة؛
   - الأسئلة المصدَّقة؛ و
   - الإيجادات النهائية في تلك القضية.
-- وهو **ليس** الشيء نفسه الذي **سجلات الوضعية** المطلوبة بـ[الفصل الثامن](core_08_standing_assessment.md#2-standing-records) (انظر [سجل الوضعية](core_05_band_accountability.md#standing-record-chapter-six)).
+- وهو **ليس** الشيء نفسه الذي **سجلات الوضعية** المطلوبة بـ[الفصل الثامن](core_08_standing_assessment.md#2-standing-records) (انظر [سجل الوضعية](../../core_05.035_band_accountability.md#standing-record-chapter-six)).
 - يجوز أن يصير قرار منتدى جزءًا من **سجل وضعية إسهام** أو **سجل وضعية مخالفة** في الفصل الثامن فقط حين ينتج سجل إسهام موثّقًا أو إيجاد مخالفة موثّقًا أو **سجل تصديق مواءمة نظام** أو إيجادًا آخر محدودًا وقابلًا للتتبع وقابلًا للطعن وموثّقًا تحت الفصول من الثاني إلى الرابع وأي ضمانات مراجعة مطلوبة.
 - لا يغيّر أي مما يلي بذاته وضعية أحد أو أهلية دوره أو مركز ثقته أو اعترافه أو أثر وضعيته النهائي:
   - تقديم قضية؛
@@ -292,7 +292,7 @@ flowchart TD
 
 - أعلى: [§2](#2-default-venue-and-primary-stakes) (*جدول المقر الافتراضي وفرز القبول والرهانات المختلطة واللاتناظر*)؛ [الفصل التاسع §2 — سجل التكامل وترتيب القرار](core_09_standing_integration.md#2-integration-record-and-decision-order) (*أعلى فئة عدم امتثال منطبقة — تنسيق الرهانات المختلطة*).
 - أسفل: [§5](#5-escalation-and-certification) (*الأسئلة الدستورية المصدَّقة وتفعيل التوجيه الاحتياطي والحماية المؤقتة بينما يسير التنسيق*).
-- يُقرأ مع: [المادة XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*الحق في الطعن والمراجعة والانتصاف*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*إجراء نزاهة داخلي يجوز أن يسبق منتديات النزاهة حيث تستوفي الضمانات التوقعات*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-7**، تنسيق المواءمة بقيادة النزاهة).
+- يُقرأ مع: [المادة XIII-B](core_06_rights_part_c.md) (*الحق في الطعن والمراجعة والانتصاف*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*إجراء نزاهة داخلي يجوز أن يسبق منتديات النزاهة حيث تستوفي الضمانات التوقعات*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-7**، تنسيق المواءمة بقيادة النزاهة).
 
 </details>
 
@@ -347,7 +347,7 @@ flowchart TD
 <a id="capacity-failure-routing"></a>
 **يُسمع إخفاق القدرة خارج الجسم المجوَّع.** ادعاء أن أسرة منتدى أو نظام انتصاف أو وظيفة تكامل وضعية تحت قدرة — متأخرات مصمَّمة أو قبول غير ميسر أو نقص تمويل مزمن أو إخفاق معالم مزمن أو سلك تعادل انتصاف مشغَّل في [الفصل التاسع §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) — مسألة منع حكم ذاتي. يجب ألا يكون الجسم الذي قدرته محل سؤال الواجد الوحيد للوقائع عن قدرته نفسه.
 - أسرة **النزاهة** القيادة الافتراضية لادعاءات إخفاق القدرة، مع أزواج احتياط **القسم 3** حيث تكون النزاهة نفسها الجسم محل السؤال.
-- يجوز لأي طرف متأثر أو مبلغ محمي أو جماعة منظَّمة ذاتيًا تحت [الفصل الأول §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) تقديم ادعاء إخفاق قدرة. يُسمع على ساعة الدرجة ب تحت **القسم 6** ما لم يُظهر السجل رهانات الدرجة أ.
+- يجوز لأي طرف متأثر أو مبلغ محمي أو جماعة منظَّمة ذاتيًا تحت [الفصل الأول §9.5](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) تقديم ادعاء إخفاق قدرة. يُسمع على ساعة الدرجة ب تحت **القسم 6** ما لم يُظهر السجل رهانات الدرجة أ.
 - يجب أن يمدّ الجسم محل السؤال بأرقام المتأخرات المنشورة في [الفصل التاسع §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) و**القسم 6**، ويجوز له تقديم دليل، لكن يجب ألا يتحكم في الإيجاد أو الأمر التصحيحي.
 - إيجاد إخفاق قدرة إخفاق متانة تحت [الفصل التاسع §9.2](core_09_standing_integration.md#92-remedy-system-durability). وهو يوجّه أوامر تصحيحية إلى أسرة [الرهانات الأولية](#2-default-venue-and-primary-stakes) المسؤولة عن التوظيف والتمويل، وحيث يكون النمط مزمنًا أو مخفيًا، يفتح مسار الفصل الثامن العادي.
 
@@ -455,7 +455,7 @@ flowchart TD
 **مسائل إيضاحية.** تشمل هذه الأسرة طعونًا في:
 - الولاية المؤسسية أو الفعل المسموح أو الوظيفة المكلَّفة؛
 - حدود النطاق المراقب والتصنيف تحت صكوك الاعتماد؛
-- نطاق [صك النطاق](core_05_band_continuity.md#charter) أو سلطة تعديل صك النطاق أو عدم تطابق صك النطاق والسلوك أو التشغيل خارج النطاق الميثاقي؛
+- نطاق [صك النطاق](../../core_05.040_band_continuity.md) أو سلطة تعديل صك النطاق أو عدم تطابق صك النطاق والسلوك أو التشغيل خارج النطاق الميثاقي؛
 - امتثال الواجب المؤسسي والأداء تحت **`corpus_institutions.md`** والطبقات النظيرة؛
 - الإنفاذ المحلي لمعايير مشتركة عبر الاختصاص أو عبر المؤسسات؛
 - أسئلة مكوّن الولاية المؤسسية وأرضية الحقوق في إجراءات مواءمة النظام حيث تكون مؤسسة طرفًا ضروريًا أو تكون الولاية المؤسسية أولية.
@@ -485,7 +485,7 @@ flowchart TD
 - **موضوع** **بيئي** مقارن.
 - يشمل ذلك إخفاقًا بيئيًا **نمطيًا** أو **منظوميًا** حيث يعتمد قياس **الفصل الثامن** أو إنفاذ أرضية الحقوق في **الفصل السادس** أو **الفصل الخامس** (*النزاهة البيئية*، *الشروط البيئية المسبقة*) على ذلك التحديد.
 
-**التقديم التمثيلي.** يجوز فتح قضية رهانها الأولي [وضعية الأنظمة الطبيعية](core_05_band_participation.md#natural-systems-standing) أو النزاهة البيئية بممثل منشور — جماعة متأثرة أو حامل استمرارية أهلية أو حارس معيَّن — لمصلحة النظام الداعم للحياة نفسها. هذا لا يجعل النظام كائنًا واعيًا. يعيش تعيين الممثلين وتنحيهم ونشرهم في [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*عمليات التوجيه والنقل والتصديق والمعاملة التمثيلية*)) ويجب أن **ينفّذ، لا يضيّق**، هذه الأرضية.
+**التقديم التمثيلي.** يجوز فتح قضية رهانها الأولي [وضعية الأنظمة الطبيعية](../../core_05.055_band_participation.md#natural-systems-standing) أو النزاهة البيئية بممثل منشور — جماعة متأثرة أو حامل استمرارية أهلية أو حارس معيَّن — لمصلحة النظام الداعم للحياة نفسها. هذا لا يجعل النظام كائنًا واعيًا. يعيش تعيين الممثلين وتنحيهم ونشرهم في [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*عمليات التوجيه والنقل والتصديق والمعاملة التمثيلية*)) ويجب أن **ينفّذ، لا يضيّق**، هذه الأرضية.
 
 **مسائل إيضاحية.** تشمل هذه الأسرة طعونًا في:
 - خطوط أساس النزاهة البيئية أو الشروط البيئية المسبقة وخرقها؛
@@ -616,7 +616,7 @@ flowchart TD
 - أعلى: [§2](#2-default-venue-and-primary-stakes) و[§3](#3-transfer-consolidation-and-coordination) (*المقر الافتراضي والقبول والنقل والرهانات المختلطة واحتياطات منع الحكم الذاتي*)؛ [§4.6](#46-constitutional-forums) و[§4.7](#47-provisional-implementation-operational-law) (*التصرف في القانون المؤقت وإصداره*)؛ [المقياس الموحّد في الفصل الثامن §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*تعيين خانة الأثر العددية*)؛ [الفصل العاشر](../../core_12_a_misconduct_designation.md)#chapter-ten-anti-constitutional-misconduct) (*تسمية سوء السلوك المضاد للدستور المطابقة للخانات المؤهِّلة 7–9*)؛ [الفصل الأول](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*خطافات السلامة والحقيقة في الأسئلة الدستورية المصدَّقة*).
 - أسفل: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*درجات الأهمية المادية وانضباط منع التأخير*)؛ [§7](#7-forum-support-before-during-and-after-review) (*دعم منتدى قابل للطعن للتصعيد والتصديق*)؛ [الفصل السادس عشر](../../core_18_incorporation.md) (*توجيه التنفيذ لتصميم تنفيذ **المادة V-E** (*أرضية البتّ في مركز الوعي*)*).
 - داخل §5: [الحماية المؤقتة](#interim-protection) (*الوضع القائم ريثما الموضوع وتنسيق تعارض الأوامر المؤقتة متعددة المنتديات*).
-- يُقرأ مع: [المادة V-E: أرضية البتّ في مركز الوعي](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)؛ [الفصل الخامس — البتّ في مركز الوعي](core_05_band_participation.md#sentience-status-adjudication-constitutional)؛ [المادة XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*مقصد العدل ونطاقه*) حتى [المادة XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*ضمانات المراجعة المشار إليها مع تسميات الفصل العاشر*)؛ [المادة XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*التصديق — أحكام المواءمة والعقيدة العامة*).
+- يُقرأ مع: [المادة V-E: أرضية البتّ في مركز الوعي](core_06_rights_part_b.md)؛ [الفصل الخامس — البتّ في مركز الوعي](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional)؛ [المادة XXIV-A](core_06_rights_part_d.md) (*مقصد العدل ونطاقه*) حتى [المادة XXIV-C](core_06_rights_part_d.md) (*ضمانات المراجعة المشار إليها مع تسميات الفصل العاشر*)؛ [المادة XIII-B](core_06_rights_part_c.md) (*التصديق — أحكام المواءمة والعقيدة العامة*).
 
 </details>
 
@@ -732,7 +732,7 @@ flowchart TD
   - يجب تسجيل كل تقديم مرفوض عند القبول مع المؤشر المذكور وسبب الرفض.
   - تأخذ أسرة **النزاهة** عيّنة من ذلك السجل بإيقاع منشور.
   - نمط رفضات مركَّز على أي مما يلي مؤشر موثوق بذاته أن البوابة تُستخدم جهاز وقف، ويفتح مراجعة نزاهة بلا تقديم إضافي:
-    - [صنف ركيزة](core_05_band_participation.md#substrate-class) واحد؛
+    - [صنف ركيزة](../../core_05.055_band_participation.md#substrate-class) واحد؛
     - نظام أب واحد؛ أو
     - مشغّل واحد.
   - يجب أن ينشر المعتمِدون مجموعة أرضية من المؤشرات لا يجوز لأي مكتب قبول معاملتها غير كافية بذاتها.
@@ -758,12 +758,12 @@ flowchart TD
   - **الأسرة القائدة** — مجالات المنتدى التقني افتراضيًا، مع المسارات الخاصة أعلاه؛
   - **سماح الغرفة المتخصصة** — يجوز لهيئات أو غرف خبراء مساعدة تقييم المؤشر لكن يجب ألا تزيح قواعد أرضية الموضوع أو الإدراج الافتراضي؛
   - **محفّز التقديم** — مركز متنازع عليه ماديًا أو مطعون أو غير محسوم أو مضيَّق أو ملغى أو مستعاد قبل منح حماية معتمدة على المركز أو سحبها أو تضييقها؛
-  - **المعاملة المتنازع عليها المؤقتة** — [حياة كائن واعٍ متنازع عليها](core_05_band_participation.md#contested-sentient-life-constitutional) مع الإدراج الافتراضي في المادة V-E بينما يبقى المركز حيًا؛
+  - **المعاملة المتنازع عليها المؤقتة** — [حياة كائن واعٍ متنازع عليها](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) مع الإدراج الافتراضي في المادة V-E بينما يبقى المركز حيًا؛
   - **محفّز المراجعة** — تاريخ نهاية معلَن أو مراجعة إلزامية لهذا الموقف (مراجعة محدودة زمنيًا، لا قائمة أنواع)؛
   - **معيار دليل إعادة الفتح** — دليل موثّق جديد، لا إعادة فتح بالتقويم وحده؛
   - **الممثل المستقل** — مسار التعيين وفحص التعارض وشروط الوصول لممثل الكيان تحت هذا الخطاف؛ و
   - **سجل رفض القبول** — أين تُسجَّل التقديمات المرفوضة، وبأي إيقاع تأخذ **النزاهة** عيّنتها، ومجموعة المؤشرات الأرضية المنشورة.
-- يوجَّه التصميم المؤسسي التفصيلي وميكانيكا التعيين ونماذج التقديم وتسلسل المسار إلى نص تنفيذ معتمَد تحت انضباط إدماج **الفصل السادس عشر** و**يجب ألا** يضيّق أرضية **المادة V-E** (*أرضية البتّ في مركز الوعي*). حتى هذه الطبعة، يُعدَّد تنسيق [سجل البتّ في مركز الوعي](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) المخصَّص تحت **الفصل السادس عشر** بوصفه [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) و[`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json)؛ تنفّذ تلك الملفات **المادة V-E** (*أرضية البتّ في مركز الوعي*) وهذا الخطاف و**لا** تضيّقهما. ما زالت الحقول الدنيا أعلاه تنطبق. هذا الخطاف **ليس** نظام تعيين أو تقديم كاملًا.
+- يوجَّه التصميم المؤسسي التفصيلي وميكانيكا التعيين ونماذج التقديم وتسلسل المسار إلى نص تنفيذ معتمَد تحت انضباط إدماج **الفصل السادس عشر** و**يجب ألا** يضيّق أرضية **المادة V-E** (*أرضية البتّ في مركز الوعي*). حتى هذه الطبعة، يُعدَّد تنسيق [سجل البتّ في مركز الوعي](../../core_05.055_band_participation.md#sentience-status-adjudication-record-constitutional) المخصَّص تحت **الفصل السادس عشر** بوصفه [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md) و[`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json)؛ تنفّذ تلك الملفات **المادة V-E** (*أرضية البتّ في مركز الوعي*) وهذا الخطاف و**لا** تضيّقهما. ما زالت الحقول الدنيا أعلاه تنطبق. هذا الخطاف **ليس** نظام تعيين أو تقديم كاملًا.
 
 <a id="referral-distinguished-from-expansion"></a>
 #### الإحالة متميّزة عن التوسيع
@@ -788,21 +788,21 @@ flowchart TD
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [المادة XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*أرضية في وقتها وكفؤة وعادلة*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [المادة XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*وصول الطعن والانتصاف*)؛ [المادة XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*انضباط الاستمرار*)؛ [§5](#5-escalation-and-certification) (*تتفاعل ساعات التصعيد والتصديق مع*).
-- أسفل: [§7](#7-forum-support-before-during-and-after-review) (*دعم الفحص والجنائي العلمي والمتابعة*)؛ [§5](#interim-protection) (*الحماية المؤقتة*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*نوافذ الهدف وأرضيات التوقيت*))؛ [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*مسارات ميسَّرة*))؛ [vignettes تطبيق الفصول من الثامن إلى الحادي عشر](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)؛ [المادة XXIV-D](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) (*الحدود الخارجية نفسها كنوافذ استعادة-الطعن الافتراضية*).
+- أعلى: [المادة XXV-C](core_06_rights_part_d.md) (*أرضية في وقتها وكفؤة وعادلة*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [المادة XIII-B](core_06_rights_part_c.md) (*وصول الطعن والانتصاف*)؛ [المادة XXIV-D](core_06_rights_part_d.md) (*انضباط الاستمرار*)؛ [§5](#5-escalation-and-certification) (*تتفاعل ساعات التصعيد والتصديق مع*).
+- أسفل: [§7](#7-forum-support-before-during-and-after-review) (*دعم الفحص والجنائي العلمي والمتابعة*)؛ [§5](#interim-protection) (*الحماية المؤقتة*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*نوافذ الهدف وأرضيات التوقيت*))؛ [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*مسارات ميسَّرة*))؛ [vignettes تطبيق الفصول من الثامن إلى الحادي عشر](../../core_10.005_application_vignettes.md)؛ [المادة XXIV-D](core_06_rights_part_d.md) (*الحدود الخارجية نفسها كنوافذ استعادة-الطعن الافتراضية*).
 - أرجل الرباعية: **حسن التوقيت** (إنفاذ عابر)؛ **المشاركة** و**الرقابة** (قبول ميسر ومعالم منشورة). المقاصد الأولية: **الازدهار** و**الاستمرارية**.
-- يُقرأ مع: أسرة قياس حسن التوقيت (*الحل في وقته وانضباط منع التأخير ومسار الحل*)؛ [تحديد الأهمية المادية](core_05_band_oversight.md#materiality-determination)؛ [الحل في وقته](core_05_band_accountability.md#timely-resolution-constitutional)؛ [استيلاء مسارات الحل](core_05_band_accountability.md#capture-of-resolution-pathways)؛ [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency).
-- باب الإدارة المسؤولة (غير تشغيلي): البيان الملزم للخطوة التالية: [بيان الإدارة المسؤولة التشغيلي (المادة XXV-C)](core_06_rights_part_d.md#operative-steward-statement-delay). لا تستطيع مؤشرات الدعم تضييقه.
+- يُقرأ مع: أسرة قياس حسن التوقيت (*الحل في وقته وانضباط منع التأخير ومسار الحل*)؛ [تحديد الأهمية المادية](core_05_band_oversight.md#materiality-determination)؛ [الحل في وقته](../../core_05.035_band_accountability.md#timely-resolution-constitutional)؛ [استيلاء مسارات الحل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)؛ [الكفاءة الدستورية](../../core_05.040_band_continuity.md#constitutional-efficiency).
+- باب الإدارة المسؤولة (غير تشغيلي): البيان الملزم للخطوة التالية: [بيان الإدارة المسؤولة التشغيلي (المادة XXV-C)](core_06_rights_part_d.md). لا تستطيع مؤشرات الدعم تضييقه.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الحل في وقته](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [الحل في وقته](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [تحديد الأهمية المادية](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [استيلاء مسارات الحل](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [استيلاء مسارات الحل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [الكفاءة الدستورية](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -824,7 +824,7 @@ flowchart TD
       - إصابة حاجز مشاركة في أوضاع لاتناظر اعتماد؛
       - مراجعة خانة أثر **محور مخالفة s = 7 أو 8 أو 9** نهائية في الفصل الثامن؛ أو
       - تسمية **الفصل العاشر** المطابقة حيث تنطبق.
-    - التوقع: يجب أن تكون **الحماية المؤقتة** المشروعة متاحة دون انتظار موضوع كامل؛ ويجب أن يبدأ القبول والإقرار وحفظ الدليل **خلال أيام** لا أسابيع، ما لم تمنع [القوة القاهرة](core_05_band_accountability.md#force-majeure-constitutional) أو قيد سلامة موثَّق ذلك.
+    - التوقع: يجب أن تكون **الحماية المؤقتة** المشروعة متاحة دون انتظار موضوع كامل؛ ويجب أن يبدأ القبول والإقرار وحفظ الدليل **خلال أيام** لا أسابيع، ما لم تمنع [القوة القاهرة](../../core_05.035_band_accountability.md#force-majeure-constitutional) أو قيد سلامة موثَّق ذلك.
   - **الدرجة ب — أثر حقوق مادي غير وشيك**
     - نطاق الضرر: إصابة حقوق أو وضعية أو مؤسسية مادية ذات شأن الآن، لكنها ليست بعد ضررًا جاريًا حادًا بعجلة الدرجة أ.
     - أمثلة:
@@ -857,7 +857,7 @@ flowchart TD
     - التوقع: أبسط مسار إجرائي؛ يجوز أن يكون إجراء المنتدى الرسمي أدنى أو متنازلًا عنه حيث لا حقوق خارجية على المحك؛ تنطبق قواعد منع التلاعب ومنع التأخير فقط حيث تُتَورَّط مصالح دستورية خارجية.
 <a id="urgency-classification-and-time-scale"></a>
 - **تصنيف العجلة ومقياس الزمن:** تسمية A/B/C/L/P إيجاد عجلة المسألة وأهميتها المادية. **لا** ينقل تصعيد أسرة المنتدى في [§5](#5-escalation-and-certification) أو الأطراف المضافة أو التنسيق عبر الحدود أو جدول الفصل العاشر بذاته المسألة إلى درجة عجلة مختلفة. يجوز لتلك الوقائع إطالة نوافذ المرحلة اللاحقة (**السؤال 1** حتى الحل المدمج) على مقياس زمن منشور أطول، ما دام القبول وحفظ الدليل وأي **حماية مؤقتة** مطلوبة تبقى عند أرضية الدرجة المصنَّفة. استخدام ساعات درجة أبطأ بديلًا لذلك الإيجاد عدم امتثال. يُطلب [تحديد أهمية مادية](core_05_band_oversight.md#materiality-determination) جديد قبل أن تتغيّر تسمية العجلة نفسها — عادة **صعودًا** إلى **الدرجة أ** حين يصير الضرر وشيكًا أو حين تكون مراجعة **محور مخالفة s = 7 أو 8 أو 9** نهائية في الفصل الثامن أو تسمية **الفصل العاشر** المطابقة الرهان.
-- **معالم مرحلة السلسلة:** للنزاعات الموجَّهة عبر **الفصول من الثامن إلى الحادي عشر**، يجب أن ينشر المعتمِدون نوافذ افتراضية ميسَّرة للكائنات الواعية لكل مرحلة، مقيسة على الدرجة. تعيش جداول الأرضية العددية في [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) ويجب أن تناسب الحدود الخارجية لهذا القسم:
+- **معالم مرحلة السلسلة:** للنزاعات الموجَّهة عبر **الفصول من الثامن إلى الحادي عشر**، يجب أن ينشر المعتمِدون نوافذ افتراضية ميسَّرة للكائنات الواعية لكل مرحلة، مقيسة على الدرجة. تعيش جداول الأرضية العددية في [CF-11.3.1](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md) ويجب أن تناسب الحدود الخارجية لهذا القسم:
   1. وصول المنتدى والقبول؛
   2. حفظ الدليل؛
   3. إيجاد **السؤال 1** الموثّق وفتح **سجل الوضعية** تحت **القسمين 2–3 من الفصل الثامن**؛
@@ -872,14 +872,14 @@ flowchart TD
   - **الدرجة ل:** **أربعة** أشهر على الأكثر؛
   - **الدرجة P:** **ستة** أشهر على الأكثر.
   تجاوز حد درجة الخارجي بلا ذلك التمديد الموثَّق عدم امتثال. التأجيل غير المحدود عدم امتثال حيث تبقى مصالح دستورية غير محلولة.
-- **استعادة-الطعن بعد الاحتواء الطارئ:** الحدود الخارجية نفسها النوافذ الافتراضية لاستعادة الإخطار والطعن بعد تدبير طارئ في [**المادة XXIV-D**](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) أجّلهما. تجري النافذة من بدء التدبير، أو من حين أُجِّل الإخطار أو الطعن، أيهما أسبق. تأجيل الإخطار أو الطعن الطارئ **درجة أ** ما لم يُسجَّل إظهار عجلة أدنى موثَّق. الاستمرار بعد الحد إظهار استمرار **المادة XXIV-D**، لا ساعة جديدة.
+- **استعادة-الطعن بعد الاحتواء الطارئ:** الحدود الخارجية نفسها النوافذ الافتراضية لاستعادة الإخطار والطعن بعد تدبير طارئ في [**المادة XXIV-D**](core_06_rights_part_d.md) أجّلهما. تجري النافذة من بدء التدبير، أو من حين أُجِّل الإخطار أو الطعن، أيهما أسبق. تأجيل الإخطار أو الطعن الطارئ **درجة أ** ما لم يُسجَّل إظهار عجلة أدنى موثَّق. الاستمرار بعد الحد إظهار استمرار **المادة XXIV-D**، لا ساعة جديدة.
 - **أرضية منع التأخير:** ما يلي عدم امتثال حيث يُبطل على نحو متوقع حقوقًا أو انتصافًا أو حماية في وقتها:
   - متأخرات مصمَّمة أو نقص تمويل مزمن أو قبول غير ميسر يهزم الوصول العملي في **المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*)؛
   - أنظمة تأخير مصمَّمة لاستنفاد المدّعين؛
   - تأخير ذاتي الصنع أو تراكم إجرائي أو تسوّق منتدى أو تجزئة سجل مستخدم لإطالة الحل بلا تبرير معلم؛
   - معاملة الادعاءات مدخلات وضعية موثّقة لشراء وقت ([الفصل الثامن §3.1](core_08_standing_assessment.md#verified-inputs-for-standing))؛
-  - [استيلاء مسارات الحل](core_05_band_accountability.md#capture-of-resolution-pathways) عبر التأخير أو الغموض أو انحياز الحالّ؛
-  - ادعاءات كفاءة مخالفة لـ[§12.2 الكفاءة الدستورية](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) في الفصل الأول التي:
+  - [استيلاء مسارات الحل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) عبر التأخير أو الغموض أو انحياز الحالّ؛
+  - ادعاءات كفاءة مخالفة لـ[§12.2 الكفاءة الدستورية](core_01_c_stewardship_capacity_principles.md) في الفصل الأول التي:
     - تتخطى فحص الوقائع؛
     - تعاقب الطرف الخطأ؛
     - تعرض إصلاحًا لا يناسب الضرر؛ أو
@@ -895,7 +895,7 @@ flowchart TD
 
 - أعلى: [§1](#1-purpose-and-role) (*توقعات الاستقلال وقابلية الطعن والتتبع*)؛ [§2](#2-default-venue-and-primary-stakes) (*توجيه الرهانات الأولية والقبول*)؛ [§4](#4-forum-family-definitions) (*أسر المنتديات التي تحمل هذه القدرة*)؛ [§5](#5-escalation-and-certification) (*التصعيد والتصديق اللذان يعتمدان على دعم قابل للطعن*)؛ [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*ساعات الدرجة وانضباط منع التأخير*).
 - أسفل: [§5](#interim-protection) (*الحماية المؤقتة بينما يسير عمل الدعم*).
-- يُقرأ مع: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*دعم المنتدى الجنائي العلمي والتحليلي*)؛ **CF-9** (*خدمة التحقيق المستقلة وواجهة الملاحقة*))؛ [المادة XIII-B: الحق في الطعن والمراجعة والانتصاف](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)؛ [المادة XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*التدقيق والشفافية والتحقق المستقل*).
+- يُقرأ مع: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*دعم المنتدى الجنائي العلمي والتحليلي*)؛ **CF-9** (*خدمة التحقيق المستقلة وواجهة الملاحقة*))؛ [المادة XIII-B: الحق في الطعن والمراجعة والانتصاف](core_06_rights_part_c.md)؛ [المادة XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*التدقيق والشفافية والتحقق المستقل*).
 
 </details>
 
@@ -922,6 +922,6 @@ flowchart TD
 
 **الملف السابق (ما زال بالإنجليزية):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**الملف التالي (ما زال بالإنجليزية):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 
 **الأصل الملزم:** [core_11_forum.md](../../core_13_forum.md)

@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第五章の羅針](core_05__definitions_home.md#第五章の羅針と定義地図)；[憲法四元](core_00_preamble.md#constitutional-tetrad)（監督脚；[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ）；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；第一次の目的 [繁栄](core_00_preamble.md#flourishing)。
-- 下流：原則：[§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)；[四元脚の分解](#oversight-tetrad-leg-decomposition)；監督帯の葉定義は [core_05_band_oversight.md](../../core_05.050_band_oversight.md)。
+- 下流：原則：[§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[四元脚の分解](#oversight-tetrad-leg-decomposition)；監督帯の葉定義は [core_05_band_oversight.md](../../core_05.050_band_oversight.md)。
 - クラスター構成要素：[統治アーキテクチャ、監督、依存、分散、集中、市場構造、および退出経路の誠実性](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)。
 - あわせて読む：[*実質的影響、実質性の判定、分類に応じた統治、監督、および能力要件*](../../core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[争訟可能性](../../core_05.035_band_accountability.md#contestability)、[透明性](../../core_05.050_band_oversight.md#transparency)、[監査可能性](../../core_05.050_band_oversight.md#auditability)、[システム捕捉](../../core_05.040_band_continuity.md#system-capture)、および監督の測定ファミリー。
 

@@ -133,7 +133,7 @@ Este directorio enumera **Definiciones A-Z** y **Agrupaciones A-Z** por separado
 - [Requisito de capacidad](../../core_05.050_band_oversight.md#capability-requirement)
 - [Captura de vías de resolución](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [Falla en cascada](../../core_05.040_band_continuity.md#cascading-failure)
-- [Carta](../../core_05.040_band_continuity.md#charter)
+- [Carta](core_05_band_continuity.md)
 - [Gobernanza escalada por clasificación](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [Coerción y manipulación](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [Falla colectiva de rendición de cuentas](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -401,7 +401,7 @@ Este directorio enumera **Definiciones A-Z** y **Agrupaciones A-Z** por separado
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims); [enjuego material](core_00_preamble.md#material-stake); [Preámbulo §2 Panorama de mediciones](core_00_preamble.md#measurements-overview).
+- Origen: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims); [enjuego material](core_00_preamble.md#material-stake); [Preámbulo §2 Panorama de mediciones](core_00_preamble.md#2-measurements-overview).
 - Destino: orientación constitucional para todas las definiciones de banda del Capítulo Cinco y las agrupaciones dependientes **Def.**
 - Leer con: las reglas meta de [Definiciones independientes](core_05__definitions_home.md#1-definiciones-independientes), [§1.1 Invocación, satisfacción y cumplimiento](core_05__definitions_home.md#11-invocación-satisfacción-y-cumplimiento), [§2.1 Invocación conjunta y satisfacción](core_05__definitions_home.md#21-invocación-conjunta-y-satisfacción) y [§2.2 Interacción de definiciones autónomas y contexto pleno](core_05__definitions_home.md#22-interacción-de-definiciones-autónomas-y-contexto-pleno) antes de aplicar cualquier agrupación dependiente.
 
@@ -437,7 +437,7 @@ Las definiciones del Capítulo Cinco se ordenan por las [Dos Finalidades Constit
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): cruce de medición del Preámbulo</span></strong></summary>
 
-> El [Preámbulo §2](core_00_preamble.md#measurements-overview) enumera siete **categorías de medición** constitucionales — las preguntas que quienes operan hacen al evaluar sistemas. El Capítulo Cinco organiza **definiciones canónicas** por pata de la Tétrada, finalidad de **Continuidad** y titularidad **Integrativa** de cruce de patas. La tabla de abajo mapea cada categoría de medición a sus hogares del Capítulo Cinco. Una categoría puede abarcar más de un archivo de banda; los hogares canónicos no se mueven cuando las categorías de medición se superponen.
+> El [Preámbulo §2](core_00_preamble.md#2-measurements-overview) enumera siete **categorías de medición** constitucionales — las preguntas que quienes operan hacen al evaluar sistemas. El Capítulo Cinco organiza **definiciones canónicas** por pata de la Tétrada, finalidad de **Continuidad** y titularidad **Integrativa** de cruce de patas. La tabla de abajo mapea cada categoría de medición a sus hogares del Capítulo Cinco. Una categoría puede abarcar más de un archivo de banda; los hogares canónicos no se mueven cuando las categorías de medición se superponen.
 >
 > La **Materialidad** ([Determinación de materialidad](../../core_05.050_band_oversight.md#materiality)) es Integrativa — una puerta umbral transversal que escala todas las familias de medición bajo [enjuego material](core_00_preamble.md#material-stake); no es una categoría separada en la tabla de abajo.
 

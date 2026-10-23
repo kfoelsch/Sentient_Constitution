@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) (شرکت ٹانگ؛ [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ بنیادی مقصد [شگفتگی](core_00_preamble.md#flourishing)۔
-- زیریں: اصول: [تمہید §1 ماڈل](core_00_preamble.md#the-model)؛ [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)؛ [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)؛ [§11.1.5 آئینی نتیجہ دعووں کی ضبط](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [متاثر فریقوں کی نظامی شرکت](../../core_05.055_band_participation.md#stakeholder-status-and-weight) جہاں متاثر فریقوں کی نظامی شرکت کی تہہ لاگو ہو؛ [چوکڑی کی ٹانگ کی تحلیل](#participation-tetrad-leg-decomposition)؛ شرکت پٹی کی برگ تعریفیں [core_05_band_participation.md](../../core_05.055_band_participation.md) میں۔
+- زیریں: اصول: [تمہید §1 ماڈل](core_00_preamble.md#the-model)؛ [باب یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)؛ [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md)؛ [§11.1.5 آئینی نتیجہ دعووں کی ضبط](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)؛ [متاثر فریقوں کی نظامی شرکت](../../core_05.055_band_participation.md#stakeholder-status-and-weight) جہاں متاثر فریقوں کی نظامی شرکت کی تہہ لاگو ہو؛ [چوکڑی کی ٹانگ کی تحلیل](#participation-tetrad-leg-decomposition)؛ شرکت پٹی کی برگ تعریفیں [core_05_band_participation.md](../../core_05.055_band_participation.md) میں۔
 - ساتھ پڑھیں: [بامعنی فاعلیت](../../core_05.055_band_participation.md#meaningful-agency)، [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) (شرکت/جوابدہی کی سرحد)، [رسائی پذیری](../../core_05.055_band_participation.md#accessibility)، [حقیقی انصاف](../../core_05.055_band_participation.md#substantive-fairness)، [متاثر فریقوں کی پابند پسند](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice)، [بروقت کارروائی](core_05_apex_timeliness_leg.md#timeliness-constitutional) (بروقت شرکت)، [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](../../core_05.050_band_oversight.md#classification-scaled-governance)، اور شرکت پیمائش خاندان۔
 
 </details>
@@ -61,7 +61,7 @@
     - [حقیقی انصاف](../../core_05.055_band_participation.md#substantive-fairness)؛
     - [متاثر فریق وزن](../../core_05.055_band_participation.md#stakeholder-weight)؛
     - [نظام پر قبضہ](../../core_05.040_band_continuity.md#system-capture)؛ اور
-    - [باب یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)۔
+    - [باب یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)۔
 <a id="participation-constitutional-c"></a>
 - C: عدمِ اطاعت جب:
   - ڈھانچہ جاتی اخراج ہو؛

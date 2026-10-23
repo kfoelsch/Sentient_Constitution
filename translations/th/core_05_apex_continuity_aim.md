@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: [เข็มทิศของบทที่ห้า](core_05__definitions_home.md#เขมทศและแผนทบทนยามของบททหา); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); เป้าประสงค์ภาษาเรียบง่ายที่ [คำปรารภ §1](core_00_preamble.md#continuity)
-- ปลายทาง: หลักการ: [บทที่หนึ่ง §4.1 ความยืดหยุ่นคืนตัวและการออกแบบที่ซ่อมตนเอง](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 ขีดความสามารถของระบบร่วม](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 วินัยข้อกล่าวอ้างผลลัพธ์ทางรัฐธรรมนูญ](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [การแยกเป้าประสงค์ทางรัฐธรรมนูญ](#continuity-aim-decomposition); กลุ่มหัวข้อความต่อเนื่องใน [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
+- ปลายทาง: หลักการ: [บทที่หนึ่ง §4.1 ความยืดหยุ่นคืนตัวและการออกแบบที่ซ่อมตนเอง](core_01_a_values_principles.md#10-resilience-and-self-healing-design); [§12 ขีดความสามารถของระบบร่วม](core_01_c_stewardship_capacity_principles.md); [§11.1.5 วินัยข้อกล่าวอ้างผลลัพธ์ทางรัฐธรรมนูญ](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [การแยกเป้าประสงค์ทางรัฐธรรมนูญ](#continuity-aim-decomposition); กลุ่มหัวข้อความต่อเนื่องใน [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
 - อ่านคู่กับ: [การบริหารอย่างรับผิดชอบ](../../core_05.040_band_continuity.md#stewardship) [ข้อบกพร่องการบริหารอย่างรับผิดชอบ](../../core_05.040_band_continuity.md#stewardship-defect) [ความครบถ้วนทางนิเวศ](../../core_05.040_band_continuity.md#ecological-integrity) [การพึ่งพา](../../core_05.040_band_continuity.md#dependency) [ความคลาดของตัวแทนวัด](../../core_05.050_band_oversight.md#proxy-divergence) [ความเสี่ยงดำรงอยู่](../../core_05.040_band_continuity.md#existential-risk) [ความล้มเหลวลูกโซ่](../../core_05.040_band_continuity.md#cascading-failure) [ความเจริญงอกงาม](core_05_apex_flourishing_aim.md#flourishing-constitutional) (เป้าประสงค์คู่ — จะไล่ฝ่ายใดด้วยค่าของอีกฝ่ายไม่ได้; การไล่กำไรระยะสั้นที่ทำให้ **การมีส่วนร่วม** **การกำกับดูแล** **ความรับผิดชอบ** หรือ **ความทันเวลา** กลวงต่ำกว่าที่ [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) กำหนด ทำให้ **ความต่อเนื่อง** ล้ม แม้ผลระยะใกล้จะขึ้น) [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) ที่ปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) (ความต่อเนื่องยังชอบธรรมอย่างไร — ไม่ใช่บล็อกประกอบที่ห้า) ตระกูลการวัดความต่อเนื่อง และ [สารบัญตามลำดับตัวอักษรของบทที่ห้า](core_05__definitions_home.md#chapter-five-alphabetical-directory)
 
 </details>
@@ -46,14 +46,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **วิธีวัดและประเมิน**
   - **การวัดหลัก:** [ตระกูลการวัดความต่อเนื่อง](#continuity-measurement-family) — *ผู้มีความรู้สึกและระบบยืนยาวได้หรือไม่ — ทางนิเวศ อย่างพึ่งได้ และข้ามความล้มเหลว* ดู [การแยกเป้าประสงค์ทางรัฐธรรมนูญ](#continuity-aim-decomposition) ด้วย บรรทัดนี้ชี้ไปที่การวัดเท่านั้น; กฎวิธีวัดอยู่บนแต่ละบทนิยามที่ลิงก์
-  - **การประเมินหลัก:** ตัดสินภายใต้ [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) โดยปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ถามว่าระบบรักษาขีดความสามารถที่ยืนยาวในการซ่อม ปรับ เผชิญความเสี่ยงอย่างซื่อตรง และอยู่ภายในขีดทางนิเวศหรือไม่ — ไม่ใช่ว่าตัวเลขวันนี้ดูสงบ ผูกผลความต่อเนื่องที่กล่าวอ้างกับเงื่อนไข [องค์ประกอบ](#continuity-aim-decomposition) ภายใต้บทที่สี่และ [บทที่หนึ่ง §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)
+  - **การประเมินหลัก:** ตัดสินภายใต้ [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) โดยปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ถามว่าระบบรักษาขีดความสามารถที่ยืนยาวในการซ่อม ปรับ เผชิญความเสี่ยงอย่างซื่อตรง และอยู่ภายในขีดทางนิเวศหรือไม่ — ไม่ใช่ว่าตัวเลขวันนี้ดูสงบ ผูกผลความต่อเนื่องที่กล่าวอ้างกับเงื่อนไข [องค์ประกอบ](#continuity-aim-decomposition) ภายใต้บทที่สี่และ [บทที่หนึ่ง §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)
 <a id="continuity-aim-constitutional-c"></a>
 - **สิ่งที่ต้องคงอยู่**
   - **ความล้มเหลวหลัก:**
     - ใช้ **ความต่อเนื่อง** เพื่อเลื่อนการแก้ไปตลอดกาล;
     - ถือ «เสถียรภาพ» เป็นการปฏิบัติตามเมื่อมันวางบนการทิ้งความเสี่ยงที่ซ่อน ภัยที่ย้อนกลับไม่ได้ หรือการย้ายภาระทางนิเวศไปให้ผู้อื่น;
     - ใช้คำพูดธรรมดาแบบ «ให้ไฟติดไว้» เพื่อปิดกั้น [ความสามารถในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) หรือ [การยุติที่ทันเวลา](../../core_05.035_band_accountability.md#timely-resolution); หรือ
-    - ไล่ **ความต่อเนื่อง** ในทางที่ทำให้ [ความเจริญงอกงาม](core_05_apex_flourishing_aim.md#flourishing-constitutional) พ่ายอย่างเป็นสาระ โดยไม่มีอนุญาตที่ชัดภายใต้ [บทที่หนึ่ง §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)
+    - ไล่ **ความต่อเนื่อง** ในทางที่ทำให้ [ความเจริญงอกงาม](core_05_apex_flourishing_aim.md#flourishing-constitutional) พ่ายอย่างเป็นสาระ โดยไม่มีอนุญาตที่ชัดภายใต้ [บทที่หนึ่ง §6](core_01_b_interaction_interpretation.md)
 
 ---
 
@@ -106,7 +106,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ปลายทาง: ตระกูลการวัดความต่อเนื่อง — ม้วนรวมแบบลิงก์อย่างเดียว; ชั้นรายคำอยู่ในบทนิยามใบที่ลิงก์ในตารางด้านล่าง
-- อ่านคู่กับ: [CS-9 — การจัดสรรทรัพยากรและการบริหารเงินทุนอย่างรับผิดชอบ](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (กลไกเงินทุนและผลตอบข้ามระบบ)
+- อ่านคู่กับ: [CS-9 — การจัดสรรทรัพยากรและการบริหารเงินทุนอย่างรับผิดชอบ](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (กลไกเงินทุนและผลตอบข้ามระบบ)
 
 </details>
 

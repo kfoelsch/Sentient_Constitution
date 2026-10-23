@@ -10,7 +10,7 @@
 > ఇది **అధ్యాయం ఏడు, భాగం బి**ను కలిగి ఉంది — ధృవీకరణ **రికార్డు** విషయాలు, పారదర్శకత మరియు సవాలు-యోగ్యత, వేదిక భాగ పాత్రలు, పర్యవేక్షణ క్రమం, ప్రస్థితి వంతెన, మరియు తిరిగి తెరవడం (**§11–§16**, భాగం ఎ §1–§10 నుండి కొనసాగుతూ). **భాగం ఎ** — అంచనా అవసరాలు — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)లో ఉంది.
 >
 > - **రాజ్యాంగ యజమాని (భాగం ఎతో సంయుక్తం):** వేదిక-పర్యవేక్షిత **వ్యవస్థ అనుగుణత ధృవీకరణ మరియు సంబంధిత రికార్డులు**. చతుష్టయం **పర్యవేక్షణ** కాలు కింద, SAC ఇతరుల్లో ఒక ప్రత్యేకంగా పెద్ద, అధిక-పందెం ఆడిట్ ప్రక్రియ; ఆడిటింగ్ నేలలు **అనుచ్ఛేదం XVI** మరియు అధ్యాయం ఐదు [ఆడిట్-యోగ్యత](core_05_band_oversight.md#auditability)లో ఉంటాయి.
-> - **అంచనా ఇన్‌పుట్‌లు:** [భాగం ఎ §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) ధృవీకరణ రికార్డుపై ప్రతిబింబించే అంచనా అవుట్‌పుట్‌లు ఇస్తాయి.
+> - **అంచనా ఇన్‌పుట్‌లు:** [భాగం ఎ §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) ధృవీకరణ రికార్డుపై ప్రతిబింబించే అంచనా అవుట్‌పుట్‌లు ఇస్తాయి.
 > - **తరలింపు-నిషేధ నియమం:** భాగం బి భాగం ఎ అంచనా యంత్రాంగం, అధ్యాయం ఐదు ప్రామాణిక నిర్వచనాలు, అధ్యాయం ఎనిమిది ప్రస్థితి కొలత, లేదా అధ్యాయం తొమ్మిది ప్రస్థితి ప్రభావాలు తిరిగి చెప్పదు. **§15** ప్రస్థితి వంతెన సరిహద్దును స్పష్టంగా చెబుతుంది. భాగం బి **అనుచ్ఛేదం XVI** / **Def.O1** / **CJS-3.3**–**CJS-3.5** నుండి ఆడిటింగ్ యాజమాన్యాన్ని కూడా తరలించదు.
 >
 > **మూలం:** [భాగం ఎ](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation); అధ్యాయం పదకొండు వేదిక పర్యవేక్షణ; అధ్యాయాలు రెండు నుండి నాలుగు ధృవీకరణ క్రమశిక్షణ.
@@ -27,7 +27,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [భాగం ఎ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*ధృవీకరణ ఉద్దేశం మరియు అంచనా మార్గపటం*); [భాగం ఎ §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*రికార్డుకు అంచనా అవుట్‌పుట్‌లు*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims).
+- మూలం: [భాగం ఎ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*ధృవీకరణ ఉద్దేశం మరియు అంచనా మార్గపటం*); [భాగం ఎ §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*రికార్డుకు అంచనా అవుట్‌పుట్‌లు*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims).
 - గమ్యం: [§11](#11-certification-record) నుండి [§16](#16-reopening-drift-and-non-evasion); [అధ్యాయం ఎనిమిది](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model); [అధ్యాయం పదకొండు](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction).
 - దీనితో చదవండి: [corpus_forum.md](../../corpus_forum.md), **CF-5** మరియు **CF-7**.
 
@@ -35,7 +35,7 @@
 
 <br>
 
-అధ్యాయం ఏడు, **భాగం బి**, వ్యవస్థ అనుగుణత ధృవీకరణకు **ధృవీకరణ రికార్డు**, **వేదిక-పర్యవేక్షిత ప్రక్రియ**, మరియు **ప్రస్థితి వంతెన**కు రాజ్యాంగ యజమాని. అంచనా అవసరాలు **[భాగం ఎ](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)**లో ఉన్నాయి. భాగం ఎ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) వద్ద ముగుస్తుంది; ఈ భాగం అధ్యాయాన్ని **§11** వద్ద కొనసాగిస్తుంది.
+అధ్యాయం ఏడు, **భాగం బి**, వ్యవస్థ అనుగుణత ధృవీకరణకు **ధృవీకరణ రికార్డు**, **వేదిక-పర్యవేక్షిత ప్రక్రియ**, మరియు **ప్రస్థితి వంతెన**కు రాజ్యాంగ యజమాని. అంచనా అవసరాలు **[భాగం ఎ](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)**లో ఉన్నాయి. భాగం ఎ [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) వద్ద ముగుస్తుంది; ఈ భాగం అధ్యాయాన్ని **§11** వద్ద కొనసాగిస్తుంది.
 
 *సాధారణ మాటల్లో: భాగం ఎ ఏమి **అంచనా** వేయాలో చెబుతుంది. భాగం బి ఏమి **రికార్డుపై** ఉండాలో, **వేదికలు** ప్రక్రియను ఎలా నడుపుతాయో, ప్రభావిత సంజ్ఞ ప్రాణులు ఫలితాలను ఎలా **సవాలు** చేస్తారో, ధృవీకరణ **ప్రస్థితి**ని ఎలా పోషించగలదో చెబుతుంది — ధృవీకరణ ప్రస్థితి కొలత లేదా ప్రభావాలకు ప్రత్యామ్నాయం కాకుండా.*
 
@@ -48,7 +48,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [భాగం ఎ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*ధృవీకరణ ఉద్దేశం*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*మొత్తం-వ్యవస్థ అంచనా కారకాలు*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*రికార్డుపై ప్రతిబింబించే డొమైన్ అంచనా అవుట్‌పుట్‌లు*); [వ్యవస్థ ధృవీకరణ రికార్డు](core_05_band_continuity.md#system-certification-record-constitutional) (*అధ్యాయం ఐదు అర్థం*); [§12](#12-transparency-auditability-and-contestability) (*పారదర్శకత, ఆడిట్-యోగ్యత, సవాలు-యోగ్యత*); [§14](#14-supervisory-sequence-and-contestability-chain) (*పర్యవేక్షణ క్రమం మరియు సవాలు-యోగ్యత గొలుసు*).
+- మూలం: [భాగం ఎ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*ధృవీకరణ ఉద్దేశం*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*మొత్తం-వ్యవస్థ అంచనా కారకాలు*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*రికార్డుపై ప్రతిబింబించే డొమైన్ అంచనా అవుట్‌పుట్‌లు*); [వ్యవస్థ ధృవీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-certification-record-constitutional) (*అధ్యాయం ఐదు అర్థం*); [§12](#12-transparency-auditability-and-contestability) (*పారదర్శకత, ఆడిట్-యోగ్యత, సవాలు-యోగ్యత*); [§14](#14-supervisory-sequence-and-contestability-chain) (*పర్యవేక్షణ క్రమం మరియు సవాలు-యోగ్యత గొలుసు*).
 - గమ్యం: [§15](#15-relationship-to-standing) (*ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [అధ్యాయం పదకొండు](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*వేదిక-పర్యవేక్షిత ధృవీకరణ ప్రక్రియ*).
 - ఉపవిభాగాలు: [§11.1](#111-minimum-record-contents) (*కనీస రికార్డు విషయాలు*); [§11.2](#112-cross-section-record-requirements) (*క్రాస్-విభాగ రికార్డు అవసరాలు*); [§11.3](#113-rights-floor-record-evaluation-non-substitution) (*హక్కుల-నేల రికార్డు అంచనా — ప్రత్యామ్నాయం-కాదు*).
 
@@ -56,9 +56,9 @@
 
 <br>
 
-*సాధారణ మాటల్లో: ధృవీకరణ రికార్డు సమీక్షలో ఉన్న ఒక వ్యవస్థకు ఆడిట్ చేయదగిన కేసు ఫైల్ — ఎవరు నడుపుతారు, ఏమి తనిఖీ అయింది, ఏమి దొరికింది, ఏమి నిర్ణయమైంది, ఎలా సవాలు చేయాలి. ఇది మార్కెటింగ్ ప్యాకెట్ లేదా ఒక-పంక్తి ఆమోద ముద్ర కాదు. రికార్డు లోతు, బహిర్గతం, సవాలు భారం [§2.1](core_07_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) కింద వ్యవస్థ వర్గానికి స్కేల్ అవుతాయి — **Class A** మనుగడ-కీలక వ్యవస్థకు **Class C** సమన్వయ పొర కంటే పూర్తి, సవాలు చేయదగిన ఫైల్ కావాలి, అయినా రెండూ వర్గాన్ని నిజాయితీగా చెప్పి అవసరమైన అంచనాలను ప్రతిబింబించాలి.*
+*సాధారణ మాటల్లో: ధృవీకరణ రికార్డు సమీక్షలో ఉన్న ఒక వ్యవస్థకు ఆడిట్ చేయదగిన కేసు ఫైల్ — ఎవరు నడుపుతారు, ఏమి తనిఖీ అయింది, ఏమి దొరికింది, ఏమి నిర్ణయమైంది, ఎలా సవాలు చేయాలి. ఇది మార్కెటింగ్ ప్యాకెట్ లేదా ఒక-పంక్తి ఆమోద ముద్ర కాదు. రికార్డు లోతు, బహిర్గతం, సవాలు భారం [§2.1](core_07_a_system_alignment_certification_evaluation.md) కింద వ్యవస్థ వర్గానికి స్కేల్ అవుతాయి — **Class A** మనుగడ-కీలక వ్యవస్థకు **Class C** సమన్వయ పొర కంటే పూర్తి, సవాలు చేయదగిన ఫైల్ కావాలి, అయినా రెండూ వర్గాన్ని నిజాయితీగా చెప్పి అవసరమైన అంచనాలను ప్రతిబింబించాలి.*
 
-ఒక **వ్యవస్థ ధృవీకరణ రికార్డు** ఒక నిర్దిష్ట వ్యవస్థ, వెర్షన్, ఆపరేటర్ లేదా బాధ్యతాయుత నిర్వాహకుడు, పరిధి, కాల కిటికీ, భౌతిక-ప్రభావ ప్రొఫైల్, నిర్ణయ సందర్భం గురించి పరిమిత, సమీక్షించదగిన రికార్డు — పరిధి-బద్ధం, కాల-బద్ధం, మరియు [వ్యవస్థ ధృవీకరణ రికార్డు](core_05_band_continuity.md#system-certification-record-constitutional)లోని అధ్యాయం ఐదు అర్థం కింద సవాలు-యోగ్యం.
+ఒక **వ్యవస్థ ధృవీకరణ రికార్డు** ఒక నిర్దిష్ట వ్యవస్థ, వెర్షన్, ఆపరేటర్ లేదా బాధ్యతాయుత నిర్వాహకుడు, పరిధి, కాల కిటికీ, భౌతిక-ప్రభావ ప్రొఫైల్, నిర్ణయ సందర్భం గురించి పరిమిత, సమీక్షించదగిన రికార్డు — పరిధి-బద్ధం, కాల-బద్ధం, మరియు [వ్యవస్థ ధృవీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-certification-record-constitutional)లోని అధ్యాయం ఐదు అర్థం కింద సవాలు-యోగ్యం.
 
 <a id="111-minimum-record-contents"></a>
 
@@ -66,28 +66,28 @@
 
 రికార్డు కనీసం వీటిని గుర్తించాలి:
 
-- **వ్యవస్థ గుర్తింపు, పరిధి, స్థితి:** వ్యవస్థ, వెర్షన్, ఆపరేటర్ లేదా బాధ్యతాయుత నిర్వాహకుడు, పరిధి, పాలించే [పరిధి పత్రం](core_05_band_continuity.md#charter) లేదా సమాన ప్రచురించిన పరిధి సాధనం (లేదా అభౌతికమైన చోట కారణీకరించిన లేకపోవడం), ప్రభావిత సముదాయాలు, ఆధారపడటాలు, సమీక్ష స్థితి — పరిధి పత్రం ఉన్న చోట ధృవీకరించిన పరిధి పత్రం చెప్పిన పరిధితో సరిపోతుందా సహా;
-- **మొత్తం-వ్యవస్థ అంచనా కనుగొనడాలు:** [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) కింద భౌతిక కనుగొనడాలు, వ్యవస్థాగత పరిధి, ప్రవేశ్యత, గోప్యత ఉమ్మడి-పిలుపు, నిష్క్రమణ, సమావేశం, కాల-సంగతి, పాలన, ప్రోత్సాహకం, సవాలు-యోగ్యత కనుగొనడాలు ఇమిడిన చోట సహా — మరియు, [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) కింద వ్యవస్థాగత ప్రమాదం పరిధిలో ఉన్న చోట, [ప్రమాద అంచనా](core_05_band_continuity.md#risk-evaluation) కనుగొనడాలు [ప్రమాద బహిర్గతం](core_05_band_oversight.md#risk-disclosure) భంగిమతో (ప్రేక్షకులు లేదా మార్గం, సమయం, నిలుపుదలలు మరియు ప్రత్యామ్నాయాలు, పరిష్కరించని లోపాలు లేదా షరతులు), వేరు పేరుపెట్టిన ప్రమాద-బహిర్గత రికార్డుగా కాక ఈ రికార్డుపై చెప్పబడినవి;
-- **వ్యవస్థ వర్గీకరణ రికార్డు:** [వ్యవస్థ వర్గీకరణ రికార్డు](core_05_band_continuity.md#system-classification-record-constitutional) — లేదా CS-3 కింద అవసరమైన విషయాలు — [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) కోరినట్టు, వీటితో సహా:
+- **వ్యవస్థ గుర్తింపు, పరిధి, స్థితి:** వ్యవస్థ, వెర్షన్, ఆపరేటర్ లేదా బాధ్యతాయుత నిర్వాహకుడు, పరిధి, పాలించే [పరిధి పత్రం](../../core_05.040_band_continuity.md) లేదా సమాన ప్రచురించిన పరిధి సాధనం (లేదా అభౌతికమైన చోట కారణీకరించిన లేకపోవడం), ప్రభావిత సముదాయాలు, ఆధారపడటాలు, సమీక్ష స్థితి — పరిధి పత్రం ఉన్న చోట ధృవీకరించిన పరిధి పత్రం చెప్పిన పరిధితో సరిపోతుందా సహా;
+- **మొత్తం-వ్యవస్థ అంచనా కనుగొనడాలు:** [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) కింద భౌతిక కనుగొనడాలు, వ్యవస్థాగత పరిధి, ప్రవేశ్యత, గోప్యత ఉమ్మడి-పిలుపు, నిష్క్రమణ, సమావేశం, కాల-సంగతి, పాలన, ప్రోత్సాహకం, సవాలు-యోగ్యత కనుగొనడాలు ఇమిడిన చోట సహా — మరియు, [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) కింద వ్యవస్థాగత ప్రమాదం పరిధిలో ఉన్న చోట, [ప్రమాద అంచనా](../../core_05.040_band_continuity.md#risk-evaluation) కనుగొనడాలు [ప్రమాద బహిర్గతం](core_05_band_oversight.md#risk-disclosure) భంగిమతో (ప్రేక్షకులు లేదా మార్గం, సమయం, నిలుపుదలలు మరియు ప్రత్యామ్నాయాలు, పరిష్కరించని లోపాలు లేదా షరతులు), వేరు పేరుపెట్టిన ప్రమాద-బహిర్గత రికార్డుగా కాక ఈ రికార్డుపై చెప్పబడినవి;
+- **వ్యవస్థ వర్గీకరణ రికార్డు:** [వ్యవస్థ వర్గీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-classification-record-constitutional) — లేదా CS-3 కింద అవసరమైన విషయాలు — [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) కోరినట్టు, వీటితో సహా:
   - వ్యవస్థ వర్గ కేటాయింపు;
   - ఆధారపడటం రకం(లు);
   - వర్గీకరణ కారణం; మరియు
   - భౌతిక-ప్రభావ అంచనాలు;
-- **వ్యవస్థ డేటా రకాలు రికార్డు:** [వ్యవస్థ డేటా రకాలు రికార్డు](core_05_band_continuity.md#system-data-types-record-constitutional) — లేదా CS-2 కింద అవసరమైన విషయాలు — [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) కోరినట్టు, వీటితో సహా:
+- **వ్యవస్థ డేటా రకాలు రికార్డు:** [వ్యవస్థ డేటా రకాలు రికార్డు](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) — లేదా CS-2 కింద అవసరమైన విషయాలు — [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) కోరినట్టు, వీటితో సహా:
   - భౌతికంగా పరిధిలో ఉన్న డేటా రకాలు మరియు ఆధారపడిన నిర్వహణ, వేరుపరచడం, జీవితచక్రం, మౌలిక-హామీ అంచనాలు;
-  - ఇటీవలి ఆవర్తన డేటా-రకం పునఃఅంచనా (తేదీ లేదా చక్ర గుర్తింపు, వర్గం మరియు ప్రభావానికి స్కేల్ అయిన లయ, ఏ భౌతిక పునఃరకాలైనా) **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** మరియు **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** కింద;
-  - [ఆపాదించదగిన చర్య](core_05_band_accountability.md#attributable-action-constitutional) మరియు [ఆపాదన సమగ్రత](core_05_band_accountability.md#attribution-integrity-constitutional)కు తగిన ఆపాదన సామర్థ్యం; మరియు
+  - ఇటీవలి ఆవర్తన డేటా-రకం పునఃఅంచనా (తేదీ లేదా చక్ర గుర్తింపు, వర్గం మరియు ప్రభావానికి స్కేల్ అయిన లయ, ఏ భౌతిక పునఃరకాలైనా) **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** మరియు **[CS-2 §8](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-8-system-data-types-record-governance)** కింద;
+  - [ఆపాదించదగిన చర్య](../../core_05.035_band_accountability.md#attributable-action-constitutional) మరియు [ఆపాదన సమగ్రత](../../core_05.035_band_accountability.md#attribution-integrity-constitutional)కు తగిన ఆపాదన సామర్థ్యం; మరియు
   - Type O బేస్‌లైన్ వర్తించే చోట, [బహిరంగ పర్యవేక్షణ బేస్‌లైన్ బహిర్గతం](core_05_band_oversight.md#public-oversight-baseline-disclosure) ధృవీకరించిన పరిధిని ఎలా కవర్ చేస్తుంది (ఆధారపడిన పరిధి పత్రం ఫీల్డులు, సరిహద్దు కనుగొనడాలు, ఏ కవరేజ్ ఖాళీలు లేదా షరతులైనా);
-- **పర్యావరణ పాదముద్ర అంచనా:** ఆపాదించదగిన పర్యావరణ భారాలు, జీవితచక్రం మరియు ఆధారపడటం ఆపాదన అంచనాలు, బహిర్గత భంగిమ, [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) కోరిన పాదముద్ర భాగ కనుగొనడాలు;
-- **వ్యవస్థల మధ్య వనరు బాధ్యతాయుత నిర్వహణ అంచనా:** ఆధారపడిన-వ్యవస్థల-మ్యాప్ మరియు వనరు-ప్రవాహ కనుగొనడాలు, [అనుపాత వ్యవస్థల మధ్య సహకారం](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) సమృద్ధి కనుగొనడాలు, **అనుచ్ఛేదం IV** (*వనరు కేటాయింపు, ఆధారపడటాలు, పర్యావరణ వ్యవస్థ నిధులు*) భౌతికత ట్రిగర్ వర్తించే చోట [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) కోరిన వ్యవస్థల-మధ్య న్యాయం భాగ కనుగొనడాలు;
-- **వివక్షా నిషేధం అంచనా:** భారం-మరియు-లాభం నమూనా కనుగొనడాలు, రక్షిత-లక్షణం మరియు ప్రతినిధి-వివక్ష కనుగొనడాలు, **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) భౌతికత ట్రిగర్ వర్తించే చోట [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) కోరిన వాస్తవిక-న్యాయం భాగ కనుగొనడాలు;
-- **ప్రవేశ్యత అంచనా:** వాస్తవిక-పాల్గొనడం, సదుపాయం, ప్రతినిధి-ద్వారా-తిరస్కరణ-నిషేధం కనుగొనడాలు **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*) భౌతికత ట్రిగర్ వర్తించే చోట [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) కోరినట్టు;
-- **విద్యా సామర్థ్యం మరియు అభ్యాస-వ్యవస్థ సమగ్రత అంచనా:** సామర్థ్య-నిర్మాణం, పునఃశిక్షణ-మార్గం, అంచనా-పారదర్శకత, అభ్యాస-వ్యవస్థ సవాలు-యోగ్యత కనుగొనడాలు **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) కోరినట్టు;
-- **నమ్మదగినతనం మరియు వ్యవస్థ-ఆధారపడటం సమగ్రత అంచనా:** నమ్మదగినతనం, తప్పుడు-విశ్వాసం, విపరీత-ప్రోత్సాహకం, సవాలు-మార్గం, పునరుద్ధరణ-సమగ్రత కనుగొనడాలు **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) కోరినట్టు;
+- **పర్యావరణ పాదముద్ర అంచనా:** ఆపాదించదగిన పర్యావరణ భారాలు, జీవితచక్రం మరియు ఆధారపడటం ఆపాదన అంచనాలు, బహిర్గత భంగిమ, [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) కోరిన పాదముద్ర భాగ కనుగొనడాలు;
+- **వ్యవస్థల మధ్య వనరు బాధ్యతాయుత నిర్వహణ అంచనా:** ఆధారపడిన-వ్యవస్థల-మ్యాప్ మరియు వనరు-ప్రవాహ కనుగొనడాలు, [అనుపాత వ్యవస్థల మధ్య సహకారం](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) సమృద్ధి కనుగొనడాలు, **అనుచ్ఛేదం IV** (*వనరు కేటాయింపు, ఆధారపడటాలు, పర్యావరణ వ్యవస్థ నిధులు*) భౌతికత ట్రిగర్ వర్తించే చోట [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) కోరిన వ్యవస్థల-మధ్య న్యాయం భాగ కనుగొనడాలు;
+- **వివక్షా నిషేధం అంచనా:** భారం-మరియు-లాభం నమూనా కనుగొనడాలు, రక్షిత-లక్షణం మరియు ప్రతినిధి-వివక్ష కనుగొనడాలు, **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) భౌతికత ట్రిగర్ వర్తించే చోట [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) కోరిన వాస్తవిక-న్యాయం భాగ కనుగొనడాలు;
+- **ప్రవేశ్యత అంచనా:** వాస్తవిక-పాల్గొనడం, సదుపాయం, ప్రతినిధి-ద్వారా-తిరస్కరణ-నిషేధం కనుగొనడాలు **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*) భౌతికత ట్రిగర్ వర్తించే చోట [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) కోరినట్టు;
+- **విద్యా సామర్థ్యం మరియు అభ్యాస-వ్యవస్థ సమగ్రత అంచనా:** సామర్థ్య-నిర్మాణం, పునఃశిక్షణ-మార్గం, అంచనా-పారదర్శకత, అభ్యాస-వ్యవస్థ సవాలు-యోగ్యత కనుగొనడాలు **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) కోరినట్టు;
+- **నమ్మదగినతనం మరియు వ్యవస్థ-ఆధారపడటం సమగ్రత అంచనా:** నమ్మదగినతనం, తప్పుడు-విశ్వాసం, విపరీత-ప్రోత్సాహకం, సవాలు-మార్గం, పునరుద్ధరణ-సమగ్రత కనుగొనడాలు **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) కోరినట్టు;
 - **సాంకేతిక సాక్ష్యం మరియు హామీ:** ధృవీకరణ లేదా పునఃధృవీకరణ చక్రానికి సాంకేతిక ప్రమాణాలు, పరీక్షలు, కొలతలు, అనిశ్చితి, భద్రతా అంచులు, వైఫల్య రీతులు, రిగ్రెషన్-పరీక్ష మరియు భద్రతా-పరీక్ష ఫలితాలు, భౌతికంగా ఆధారపడిన సాక్ష్య ఆధారం;
 - **ప్రభావిత పక్షం, పర్యావరణ, సమగ్రత సమీక్ష:**
   - ప్రభావిత పక్షం, హక్కుల-నేల, ప్రవేశ్యత, ఆధారపడటం, పాల్గొనడం పరిగణనలు;
-  - పర్యావరణ బహిర్గతం, [పర్యావరణ పాదముద్ర](core_05_band_continuity.md#ecological-footprint) ఆపాదన, పర్యావరణ-పూర్వషరతు ఆధారపడటం, జీవితచక్ర భారం, పునరుద్ధరణ కర్తవ్యం, భౌతికమైన చోట పర్యావరణ-అనుగుణత భాగ సమీక్ష;
+  - పర్యావరణ బహిర్గతం, [పర్యావరణ పాదముద్ర](../../core_05.040_band_continuity.md#ecological-footprint) ఆపాదన, పర్యావరణ-పూర్వషరతు ఆధారపడటం, జీవితచక్ర భారం, పునరుద్ధరణ కర్తవ్యం, భౌతికమైన చోట పర్యావరణ-అనుగుణత భాగ సమీక్ష;
   - స్వాధీనం, స్వయం-సమీక్ష, ప్రోత్సాహక-అనుగుణత, సాక్ష్య-నియంత్రణ, సవాలు-మార్గ ప్రమాదాలు;
 - **వేదిక పర్యవేక్షణ:** ప్రతి భాగాన్ని జారీ, స్వీకరించే, పంపిన, ధృవీకరించిన, నిలిపిన, లేదా సమీక్షించిన వేదిక కుటుంబం లేదా అధికారం, [§14](#14-supervisory-sequence-and-contestability-chain) కోరిన క్రమంలో చెప్పబడినది;
 - **ధృవీకరణ ఫలితం మరియు ఆధారపడటం పరిమితులు:**
@@ -106,19 +106,19 @@
 
 #### 11.2 క్రాస్-విభాగ రికార్డు అవసరాలు
 
-*సాధారణ మాటల్లో: రికార్డు భాగం ఎ అంచనా విభాగాలు నిజంగా కనుగొన్నదాన్ని ప్రతిబింబించాలి — విభాగ శీర్షికలు జాబితా చేయడం మాత్రమే కాదు. ఇక్కడ, **డొమైన్ అంచనా** [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)లోని అంశ-నిర్దిష్ట భాగం ఎ తనిఖీల్లో ఒకటి — పర్యావరణ పాదముద్ర, వ్యవస్థల-మధ్య మద్దతు, వివక్షా నిషేధం, ప్రవేశ్యత, విద్యా సామర్థ్యం, లేదా నమ్మదగినతనం — ప్రతి ఒక్కటి ఆ అంశం భౌతికత ట్రిగర్ సమీక్షలోని వ్యవస్థకు వర్తించినప్పుడు మాత్రమే అవసరం. అలాంటి తనిఖీ అవసరమైతే, దాని కనుగొనడాలు రికార్డుపై ఉండాలి.*
+*సాధారణ మాటల్లో: రికార్డు భాగం ఎ అంచనా విభాగాలు నిజంగా కనుగొన్నదాన్ని ప్రతిబింబించాలి — విభాగ శీర్షికలు జాబితా చేయడం మాత్రమే కాదు. ఇక్కడ, **డొమైన్ అంచనా** [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation)లోని అంశ-నిర్దిష్ట భాగం ఎ తనిఖీల్లో ఒకటి — పర్యావరణ పాదముద్ర, వ్యవస్థల-మధ్య మద్దతు, వివక్షా నిషేధం, ప్రవేశ్యత, విద్యా సామర్థ్యం, లేదా నమ్మదగినతనం — ప్రతి ఒక్కటి ఆ అంశం భౌతికత ట్రిగర్ సమీక్షలోని వ్యవస్థకు వర్తించినప్పుడు మాత్రమే అవసరం. అలాంటి తనిఖీ అవసరమైతే, దాని కనుగొనడాలు రికార్డుపై ఉండాలి.*
 
 ధృవీకరణ రికార్డు వీటి అంచనా అవుట్‌పుట్‌లను ప్రతిబింబించాలి:
 
 - **మొత్తం-వ్యవస్థ అంచనా** — [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) కింద భౌతిక కనుగొనడాలు మరియు క్రమశిక్షణ, [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) కింద వ్యవస్థాగత ప్రమాదం పరిధిలో ఉన్న చోట ప్రమాద-అంచనా మరియు ప్రమాద-బహిర్గత కనుగొనడాలు సహా;
-- **వ్యవస్థ వర్గం మరియు నిర్వహణ** — [వ్యవస్థ వర్గీకరణ రికార్డు](core_05_band_continuity.md#system-classification-record-constitutional) మరియు [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) కింద వర్గ అంచనా, మరియు [వ్యవస్థ డేటా రకాలు రికార్డు](core_05_band_continuity.md#system-data-types-record-constitutional) మరియు [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) కింద డేటా-రకాల అంచనా;
+- **వ్యవస్థ వర్గం మరియు నిర్వహణ** — [వ్యవస్థ వర్గీకరణ రికార్డు](../../core_05.040_band_continuity.md#system-classification-record-constitutional) మరియు [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) కింద వర్గ అంచనా, మరియు [వ్యవస్థ డేటా రకాలు రికార్డు](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) మరియు [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) కింద డేటా-రకాల అంచనా;
 - **డొమైన్ అంచనాలు:**
-  - ఆపాదించదగిన పర్యావరణ భారాలు భౌతికమైన చోట [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation);
-  - **అనుచ్ఛేదం IV** (*వనరు కేటాయింపు, ఆధారపడటాలు, పర్యావరణ వ్యవస్థ నిధులు*) భౌతికత ట్రిగర్ వర్తించే చోట [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation);
-  - **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) భౌతికత ట్రిగర్ వర్తించే చోట [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation);
-  - **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*) భౌతికత ట్రిగర్ వర్తించే చోట [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation);
-  - **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation);
-  - **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation);
+  - ఆపాదించదగిన పర్యావరణ భారాలు భౌతికమైన చోట [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation);
+  - **అనుచ్ఛేదం IV** (*వనరు కేటాయింపు, ఆధారపడటాలు, పర్యావరణ వ్యవస్థ నిధులు*) భౌతికత ట్రిగర్ వర్తించే చోట [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation);
+  - **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) భౌతికత ట్రిగర్ వర్తించే చోట [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation);
+  - **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*) భౌతికత ట్రిగర్ వర్తించే చోట [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation);
+  - **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation);
+  - **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation);
 - **రికార్డు సమగ్రత** — [§12](#12-transparency-auditability-and-contestability); మరియు
 - **పర్యవేక్షణ క్రమం మరియు సవాలు మార్గాలు** — [§14](#14-supervisory-sequence-and-contestability-chain).
 
@@ -133,23 +133,23 @@
 కింది భౌతికత ట్రిగర్లు **భౌతికంగా ప్రభావవంతమైన వ్యవస్థ**కు వర్తించినప్పుడు, ధృవీకరణ రికార్డు ఆపరేటర్ వాదన లేదా కాగితపు అనుసరణ మాత్రమే కాక **హక్కుల నేల అంచనా** చూపించాలి:
 
 - **మనుగడ ఆవశ్యకాలు, విద్య, సురక్షిత షరతులు:**
-  - వ్యవస్థ మనుగడ ఆవశ్యకాలు, సమాన విద్యా ప్రవేశం, లేదా [**సురక్షిత షరతులు**](core_05_band_continuity.md#safe-conditions-constitutional)కు ప్రవేశం సరఫరా, కేటాయింపు, ధర నిర్ణయం, హోస్ట్, లేదా ముగించినప్పుడు వర్తిస్తుంది;
+  - వ్యవస్థ మనుగడ ఆవశ్యకాలు, సమాన విద్యా ప్రవేశం, లేదా [**సురక్షిత షరతులు**](../../core_05.040_band_continuity.md#safe-conditions-constitutional)కు ప్రవేశం సరఫరా, కేటాయింపు, ధర నిర్ణయం, హోస్ట్, లేదా ముగించినప్పుడు వర్తిస్తుంది;
   - గుర్తింపు లేదా కొనసాగే ఆధారపడటం **అనుచ్ఛేదం III-A** (*మనుగడ*), **అనుచ్ఛేదం III-B** (*సమాన విద్యా ప్రవేశం*), **అనుచ్ఛేదం XIII-A** (*నమ్మదగినతనం మరియు విశ్వసనీయత నేల*), సంబంధిత అధ్యాయం ఆరు నిబంధనల కింద ఆ నేలలను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి;
 - **వ్యవస్థల మధ్య వనరు బాధ్యతాయుత నిర్వహణ:**
   - వ్యవస్థ ఇతర వ్యవస్థలు లేదా సంజ్ఞ ప్రాణులు ఆధారపడే భాగస్వామ్య మౌలిక సదుపాయం లేదా పునాది ఆధారపడటాల నుండి భౌతికంగా కేటాయించినప్పుడు, మార్గం పెట్టినప్పుడు, నిధులు ఇచ్చినప్పుడు, లేదా తీసినప్పుడు వర్తిస్తుంది;
-  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) కోరినట్టు **అనుచ్ఛేదం IV-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) లేదా **అనుచ్ఛేదం IV-B** (*వ్యవస్థల-మధ్య న్యాయం మరియు స్థిరత్వం*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి;
+  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) కోరినట్టు **అనుచ్ఛేదం IV-A** (*ఆధారపడటం మ్యాపింగ్ మరియు వనరు-ప్రవాహ పారదర్శకత*) లేదా **అనుచ్ఛేదం IV-B** (*వ్యవస్థల-మధ్య న్యాయం మరియు స్థిరత్వం*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి;
 - **వివక్షా నిషేధం:**
   - వ్యవస్థ సంజ్ఞ ప్రాణులను భౌతికంగా వర్గీకరించినప్పుడు, ర్యాంక్ చేసినప్పుడు, ధర పెట్టినప్పుడు, గేట్ చేసినప్పుడు, మినహాయించినప్పుడు, లేదా భారాలు మరియు లాభాలు కేటాయించినప్పుడు వర్తిస్తుంది — అర్హత నియమాలు, మోడల్ లక్షణాలు, ర్యాంకింగ్ తర్కం, ప్లాట్‌ఫారమ్ విధానం, లేదా సమాన నిర్ణయ మార్గాల ద్వారా సహా;
-  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) కోరినట్టు **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి;
+  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) కోరినట్టు **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి;
 - **ప్రవేశ్యత మరియు పాల్గొనడం:**
   - వ్యవస్థ రాజ్యాంగపరంగా సంబంధిత డొమైన్లలో వాస్తవిక పాల్గొనడాన్ని భౌతికంగా గేట్ చేసినప్పుడు వర్తిస్తుంది — పాలన, ప్రభావిత పక్ష పాల్గొనడం, తీర్పు, సంచాలనం, మనుగడ-నేల ప్రవేశం, ఆరోగ్య సంరక్షణ ప్రవేశం, వ్యక్తీకరణ, సమావేశం, పత్రికా, లేదా సమాన డొమైన్లు సహా — ఇంటర్‌ఫేస్‌లు, వేదికలు, షెడ్యూలింగ్, ఆధారాలు, కంప్యూట్ ప్రవేశం, సదుపాయ రూపకల్పన, లేదా సమాన పాల్గొనడం మార్గాల ద్వారా;
-  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) కోరినట్టు **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి;
+  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) కోరినట్టు **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి;
 - **విద్యా సామర్థ్యం:**
   - వ్యవస్థ విద్యా లేదా శిక్షణ సందర్భాల్లో సంజ్ఞ ప్రాణులను భౌతికంగా ర్యాంక్, అంచనా, సిఫార్సు, ఉంపు, లేదా ఆధార-గేట్ చేసినప్పుడు వర్తిస్తుంది — లేదా సామర్థ్య అవసరాలు భౌతికంగా మారిన చోట పునఃశిక్షణ, కొనసాగే విద్య, లేదా పరివర్తన-మద్దతు మార్గాలను భౌతికంగా గేట్ చేసినప్పుడు;
-  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) కోరినట్టు **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి;
+  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) కోరినట్టు **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి;
 - **నమ్మదగినతనం మరియు ఆధారపడటం:**
   - వ్యవస్థ ప్రాతినిధ్య ప్రవర్తన, పరిమితులు, ప్రమాదాలు, సవాలు మార్గాలు, లేదా పరిహారంపై సంజ్ఞ ఆధారపడటాన్ని భౌతికంగా రూపొందించినప్పుడు వర్తిస్తుంది — నమ్మదగినతనం వాదనలు, బహిర్గత భంగిమ, ప్రోత్సాహక రూపకల్పన, పునరుద్ధరణ పద్ధతులు, లేదా సమాన ఆధారపడటం మార్గాల ద్వారా సహా;
-  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) కోరినట్టు **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి.
+  - గుర్తింపు లేదా కొనసాగే ఆధారపడటం [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) కోరినట్టు **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*)ను మూసివేస్తుందా లేదా భౌతికంగా తగ్గిస్తుందా రికార్డు అంచనా వేయాలి.
 
 <a id="12-transparency-auditability-and-contestability"></a>
 
@@ -158,9 +158,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [§11](#11-certification-record) (*రికార్డు విషయాలు*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation), మరియు [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*వర్గం, డేటా, పాదముద్ర, వ్యవస్థల-మధ్య మద్దతు, వివక్షా నిషేధం, ప్రవేశ్యత, విద్యా-సామర్థ్యం, నమ్మదగినతనం అంచనా ఇన్‌పుట్‌లు*); పర్యవేక్షణ కొలత కుటుంబం (*రాజ్యాంగ కొలతగా సత్యం మరియు జ్ఞాన సమగ్రత*); సమయబద్ధత కొలత కుటుంబం (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ క్రమశిక్షణ*); అధ్యాయాలు రెండు నుండి నాలుగు (*భారం, జాడ, ధృవీకరణ, సాక్ష్యం సంరక్షణ*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పర్యవేక్షణ**, **జవాబుదారీతనం**, **పాల్గొనడం**, మరియు **సమయబద్ధత**; [**Def.O1** *పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [సవాలు-యోగ్యత](core_05_band_accountability.md#contestability).
+- మూలం: [§11](#11-certification-record) (*రికార్డు విషయాలు*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation), మరియు [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*వర్గం, డేటా, పాదముద్ర, వ్యవస్థల-మధ్య మద్దతు, వివక్షా నిషేధం, ప్రవేశ్యత, విద్యా-సామర్థ్యం, నమ్మదగినతనం అంచనా ఇన్‌పుట్‌లు*); పర్యవేక్షణ కొలత కుటుంబం (*రాజ్యాంగ కొలతగా సత్యం మరియు జ్ఞాన సమగ్రత*); సమయబద్ధత కొలత కుటుంబం (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ క్రమశిక్షణ*); అధ్యాయాలు రెండు నుండి నాలుగు (*భారం, జాడ, ధృవీకరణ, సాక్ష్యం సంరక్షణ*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పర్యవేక్షణ**, **జవాబుదారీతనం**, **పాల్గొనడం**, మరియు **సమయబద్ధత**; [**Def.O1** *పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [సవాలు-యోగ్యత](../../core_05.035_band_accountability.md#contestability).
 - గమ్యం: [§14](#14-supervisory-sequence-and-contestability-chain) (*పర్యవేక్షణ క్రమం మరియు సవాలు-యోగ్యత గొలుసు*); [§15](#15-relationship-to-standing) (*ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [అధ్యాయం పదకొండు §2.3](../../core_13_forum.md#23-forum-case-records-standing-records-and-contests) (*వేదిక కేసు రికార్డులు, ప్రస్థితి-రికార్డు సవాళ్ళు*); [అధ్యాయం పదకొండు §5](../../core_13_forum.md#5-escalation-and-certification) (*ఎస్కలేషన్ మరియు ధృవీకరణ వివరం*).
-- దీనితో చదవండి: [అనుచ్ఛేదం XVI: ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [అనుచ్ఛేదం XIII-B: సవాలు, సమీక్ష, పరిహారం హక్కు](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [సాక్ష్యం సంరక్షణ](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — సమాచార రకాలు మరియు నిర్వహణ** మరియు **CS-3 — వ్యవస్థ వర్గీకరణ మరియు నిర్వహణ**; **CJS-3.4** (*పొరల పారదర్శకత మరియు ఆడిట్-ప్రవేశ నిబంధనలు*).
+- దీనితో చదవండి: [అనుచ్ఛేదం XVI: ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [అనుచ్ఛేదం XIII-B: సవాలు, సమీక్ష, పరిహారం హక్కు](core_06_rights_part_c.md); [సాక్ష్యం సంరక్షణ](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — సమాచార రకాలు మరియు నిర్వహణ** మరియు **CS-3 — వ్యవస్థ వర్గీకరణ మరియు నిర్వహణ**; **CJS-3.4** (*పొరల పారదర్శకత మరియు ఆడిట్-ప్రవేశ నిబంధనలు*).
 
 </details>
 
@@ -169,7 +169,7 @@
 
 - [పారదర్శకత](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [ఆడిట్-యోగ్యత](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [సవాలు-యోగ్యత](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [సవాలు-యోగ్యత](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -177,7 +177,7 @@
 
 *సాధారణ మాటల్లో: ధృవీకరణ రికార్డు సంజ్ఞ ప్రాణులు చదవగలిగితే, ధృవీకరించగలిగితే, తప్పు అయినప్పుడు వెనక్కి నెట్టగలిగితే మాత్రమే పనిచేస్తుంది. ఈ విభాగం ఆ మూడు అవసరాలు — పారదర్శకత, ఆడిట్-యోగ్యత, సవాలు-యోగ్యత —ను నైరూప్య ఆదర్శాలుగా కాక రికార్డు మీదే ఉంచుతుంది. చతుష్టయం **పర్యవేక్షణ** కాలు కింద, పర్యవేక్షణకు ఆడిటింగ్ కావాలి; వ్యవస్థ అనుగుణత ధృవీకరణ ఆ నేలలను ఇక్కడ తీర్చాల్సిన ఒక ప్రత్యేకంగా పెద్ద ఆడిట్ ప్రక్రియ — ఇది **అనుచ్ఛేదం XVI** లేదా సోదర ఆడిట్ మోడ్‌లను సొంతం చేసుకోదు లేదా భర్తీ చేయదు.*
 
-ఈ విభాగం వ్యవస్థ అనుగుణత ధృవీకరణ రికార్డులకు [పారదర్శకత](core_05_band_oversight.md#transparency), [ఆడిట్-యోగ్యత](core_05_band_oversight.md#auditability), మరియు [సవాలు-యోగ్యత](core_05_band_accountability.md#contestability)ను వర్తింపజేస్తుంది. ప్రామాణిక పద ఇళ్ళు మరియు యజమాని సరిహద్దులు [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights) మరియు [అధికార స్టాక్ మరియు అంతర్గత క్రమానుగతం](core_05_band_integrative.md#owner-non-relocation) కింద ఉన్నాయి. [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) కింద:
+ఈ విభాగం వ్యవస్థ అనుగుణత ధృవీకరణ రికార్డులకు [పారదర్శకత](core_05_band_oversight.md#transparency), [ఆడిట్-యోగ్యత](core_05_band_oversight.md#auditability), మరియు [సవాలు-యోగ్యత](../../core_05.035_band_accountability.md#contestability)ను వర్తింపజేస్తుంది. ప్రామాణిక పద ఇళ్ళు మరియు యజమాని సరిహద్దులు [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights) మరియు [అధికార స్టాక్ మరియు అంతర్గత క్రమానుగతం](core_05_band_integrative.md#owner-non-relocation) కింద ఉన్నాయి. [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) కింద:
 
 - **పారదర్శకత** మరియు **ఆడిట్-యోగ్యత** **పర్యవేక్షణ**ను అమలు చేస్తాయి;
 - **సవాలు-యోగ్యత** **జవాబుదారీతనం**ను అమలు చేస్తుంది మరియు సవాలు మార్గాల్లో **పాల్గొనడం**ను కాపాడుతుంది;
@@ -201,7 +201,7 @@
 
 - ధృవీకరణ రికార్డు అధ్యాయాలు రెండు నుండి నాలుగు మరియు [సాక్ష్యం సంరక్షణ](core_05_band_oversight.md#evidence-preservation) కింద ఆపాదించదగినది, పునర్నిర్మించదగినది, స్వతంత్రంగా సమీక్షించదగినది అయి ఉండాలి;
 - ఇది గుర్తించాలి:
-  - ప్రతి భౌతిక భాగాన్ని ఎవరు జారీ, స్వీకరించారు, పంపారు, ధృవీకరించారు, [నిలిపారు](core_05_band_accountability.md#stay), లేదా సమీక్షించారు;
+  - ప్రతి భౌతిక భాగాన్ని ఎవరు జారీ, స్వీకరించారు, పంపారు, ధృవీకరించారు, [నిలిపారు](../../core_05.035_band_accountability.md#stay), లేదా సమీక్షించారు;
   - ఏ సాక్ష్యం భౌతికంగా ఆధారం;
   - వెర్షన్ల మధ్య ఏమి మారింది;
 - ఆడిట్ పరిధి నమోదైన ఫలితం నమోదైన సాక్ష్యం మరియు అంచనాల నుండి వస్తుందా పరీక్షించేంత సరిపోవాలి;
@@ -220,7 +220,7 @@
 - సవాలు యంత్రాంగాలు కార్యాచరణ, ప్రవేశ్యం అయి ఉండాలి, ఆచారం కాదు;
 - సవాలు ఇలా చేయగలగాలి:
   - సమీక్షను తిరిగి తెరవడం;
-  - భౌతిక లోపం లేదా సమగ్రత ప్రమాదం నమ్మదగినట్టు చూపిన చోట ఆధారపడటాన్ని [నిలుపు](core_05_band_accountability.md#stay) లేదా పరిమితం చేయడం;
+  - భౌతిక లోపం లేదా సమగ్రత ప్రమాదం నమ్మదగినట్టు చూపిన చోట ఆధారపడటాన్ని [నిలుపు](../../core_05.035_band_accountability.md#stay) లేదా పరిమితం చేయడం;
   - సవాలు చేయబడిన అంశంపై చట్టబద్ధ మెరిట్ అధికారం ఉన్న వేదిక కుటుంబానికి మార్గం పెట్టడం;
 - సవాలు-యోగ్యత కర్తవ్యాలు వ్యవస్థ వర్గం మరియు భౌతిక ప్రభావానికి స్కేల్ అవుతాయి;
 - భౌతిక ప్రభావం ఉన్న చోట వ్యవస్థను ప్రయోగాత్మకం, అంతర్గతం, వ్యక్తిగతం, విడిగా, లేదా సాంకేతికం-మాత్రమే అని లేబుల్ చేసినందుకు అవి అదృశ్యం కావు.
@@ -260,30 +260,30 @@
 
 - **సాంకేతిక వేదికలు** — సాంకేతిక ముక్క:
   - తమ చట్టబద్ధ పరిధిలో సాంకేతిక స్పెసిఫికేషన్లు, కొలత పద్ధతులు, పరీక్ష ప్రోటోకాల్స్, నిపుణ-సాక్ష్య ప్రమాణాలు, అనిశ్చితి-తగ్గింపు పద్ధతులు, సాంకేతిక సమృద్ధి కనుగొనడాలు నిర్వహించి వర్తింపజేస్తాయి;
-  - ధృవీకరణ రికార్డుకు **భాగ కనుగొనడాలు** ఇస్తాయి, [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) మరియు [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) కింద వర్గ-స్కేల్ హామీ మరియు డేటా-నిర్వహణ మౌలిక కనుగొనడాలు సహా;
-  - ధృవీకరణ హక్కులు, ప్రస్థితి, లేదా రక్షణ ప్రయోజనాలకు ఎవరు **సంజ్ఞ**గా లెక్క అవుతారో భౌతికంగా తాకిన చోట [సంజ్ఞత స్థితి తీర్పు](core_05_band_participation.md#sentience-status-adjudication-constitutional) భాగ పాత్రను పట్టుకుంటాయి — సూచిక అంచనా, నిపుణ సాక్ష్యం, పరిమిత అనిశ్చితి — [అనుచ్ఛేదం V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*సంజ్ఞత-స్థితి తీర్పు నేల*) మరియు [అధ్యాయం పదకొండు §4.2](../../core_13_forum.md#42-technical-forum-domains) / [§5](../../core_13_forum.md#5-escalation-and-certification) (*సంజ్ఞత-స్థితి తీర్పు* హుక్)తో సంగతంగా డిఫాల్ట్ నాయకత్వంగా; అధ్యాయం పదకొండు కోరినప్పుడు ఆ హుక్ కింద సమగ్రత, సంస్థాగత, లేదా రాజ్యాంగ ప్రత్యేక మార్గాలు పంపుతాయి.
+  - ధృవీకరణ రికార్డుకు **భాగ కనుగొనడాలు** ఇస్తాయి, [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) మరియు [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) కింద వర్గ-స్కేల్ హామీ మరియు డేటా-నిర్వహణ మౌలిక కనుగొనడాలు సహా;
+  - ధృవీకరణ హక్కులు, ప్రస్థితి, లేదా రక్షణ ప్రయోజనాలకు ఎవరు **సంజ్ఞ**గా లెక్క అవుతారో భౌతికంగా తాకిన చోట [సంజ్ఞత స్థితి తీర్పు](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) భాగ పాత్రను పట్టుకుంటాయి — సూచిక అంచనా, నిపుణ సాక్ష్యం, పరిమిత అనిశ్చితి — [అనుచ్ఛేదం V-E](core_06_rights_part_b.md) (*సంజ్ఞత-స్థితి తీర్పు నేల*) మరియు [అధ్యాయం పదకొండు §4.2](../../core_13_forum.md#42-technical-forum-domains) / [§5](../../core_13_forum.md#5-escalation-and-certification) (*సంజ్ఞత-స్థితి తీర్పు* హుక్)తో సంగతంగా డిఫాల్ట్ నాయకత్వంగా; అధ్యాయం పదకొండు కోరినప్పుడు ఆ హుక్ కింద సమగ్రత, సంస్థాగత, లేదా రాజ్యాంగ ప్రత్యేక మార్గాలు పంపుతాయి.
 - **సమగ్రత వేదికలు** — డిఫాల్ట్ నాయక సమన్వయం:
   - అధ్యాయం పదకొండు వేరు ప్రాథమిక పందెం కేటాయించనంతవరకు అధికారిక రాజ్యాంగ అనుగుణత గుర్తింపు మరియు నడుస్తున్న అనుగుణత చెల్లుబాటును నడిపిస్తాయి;
   - సాంకేతిక-వేదిక ప్రమాణాలు భౌతికంగా వర్తించే చోట వాడతాయి;
-  - [§14](#14-supervisory-sequence-and-contestability-chain) కోరినట్టు ఇతర వేదిక కుటుంబాలకు చెందిన భాగ ప్రశ్నలను పంపుతాయి, ధృవీకరిస్తాయి, లేదా [నిలుపుతాయి](core_05_band_accountability.md#stay).
+  - [§14](#14-supervisory-sequence-and-contestability-chain) కోరినట్టు ఇతర వేదిక కుటుంబాలకు చెందిన భాగ ప్రశ్నలను పంపుతాయి, ధృవీకరిస్తాయి, లేదా [నిలుపుతాయి](../../core_05.035_band_accountability.md#stay).
 - **పర్యావరణ వేదికలు** — పర్యావరణం ముఖ్యమైనప్పుడు పర్యావరణ అనుగుణత:
   - భౌతిక పర్యావరణ బహిర్గతం, పర్యావరణ-పూర్వషరతు ఆధారపడటం, జీవితచక్ర భారం, పునరుద్ధరణ కర్తవ్యం, లేదా సహేతుకంగా అంచనా వేయదగిన పర్యావరణ ప్రమాదం ఉన్న చోట పర్యావరణ-అనుగుణత భాగ పాత్రను పట్టుకుంటాయి;
-  - ఆపాదించదగిన పర్యావరణ భారాలు భౌతికమైన చోట [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) కింద [పర్యావరణ పాదముద్ర](core_05_band_continuity.md#ecological-footprint) ఆపాదన, బహిర్గతం, పోలిక ఉంచుతాయి.
+  - ఆపాదించదగిన పర్యావరణ భారాలు భౌతికమైన చోట [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) కింద [పర్యావరణ పాదముద్ర](../../core_05.040_band_continuity.md#ecological-footprint) ఆపాదన, బహిర్గతం, పోలిక ఉంచుతాయి.
 - **సంజ్ఞ వేదికలు** — సంస్థాగతం-కాని ప్రభావిత పక్ష ప్రశ్నలు:
   - అధ్యాయం పదకొండు ప్రాథమిక-పందెం మార్గం విషయాన్ని సంజ్ఞ వేదికల్లో ఉంచే చోట మాత్రమే ప్రభావిత-పక్ష ప్రభావం మరియు సముదాయ-కర్తవ్య భాగ పాత్రలు పట్టుకుంటాయి — సాధారణంగా సంజ్ఞ-నుండి-సంజ్ఞ లేదా సముదాయ-పాలన ప్రశ్నలు **ఏ సంస్థ అవసర పక్షం కాని** చోట;
-  - [సంజ్ఞత స్థితి తీర్పు](core_05_band_participation.md#sentience-status-adjudication-constitutional) సాంకేతిక డిఫాల్ట్ నాయకత్వం కింద నడిచే చోట ప్రభావిత-పక్ష పాల్గొనడంపై సహాయం లేదా రిఫరల్ పొందవచ్చు, కానీ ఆ తీర్పు భాగ పాత్రను డిఫాల్ట్‌గా **పట్టుకోవు**;
+  - [సంజ్ఞత స్థితి తీర్పు](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) సాంకేతిక డిఫాల్ట్ నాయకత్వం కింద నడిచే చోట ప్రభావిత-పక్ష పాల్గొనడంపై సహాయం లేదా రిఫరల్ పొందవచ్చు, కానీ ఆ తీర్పు భాగ పాత్రను డిఫాల్ట్‌గా **పట్టుకోవు**;
   - సంస్థ, సంస్థాగత ఆపరేటర్, లేదా సంస్థాగత ఆదేశం అవసర పక్షం లేదా ప్రాథమిక పందెం అయినప్పుడు వ్యవస్థ అనుగుణతకు డిఫాల్ట్ హక్కుల నేల భాగ పాత్రను **పట్టుకోవు**; ఆ ప్రశ్నలు కింద **సంస్థాగత** కింద మార్గం పొందుతాయి.
 - **సంస్థాగత వేదికలు** — సంస్థలు చిత్రంలో ఉన్నప్పుడు సంస్థాగత ఆదేశం మరియు హక్కుల నేల భాగ ప్రశ్నలు:
   - ధృవీకరణలో ఆ పందెాలు లేచిన చోట సంస్థాగత ఆదేశం, పర్యవేక్షిత పరిధి, వర్గీకరణ, సంస్థాగత-కర్తవ్య అనుసరణకు భాగ అధికారం పట్టుకుంటాయి;
   - ఆ నేలలు భౌతికంగా ఇమిడి సంస్థ అవసర పక్షం, ఆపరేటర్ లేదా బాధ్యతాయుత నిర్వాహకుడు సంస్థాగతం, లేదా సంస్థాగత ఆదేశం లేదా పర్యవేక్షిత అనుసరణ ప్రాథమిక పందెం అయినప్పుడు ధృవీకరణ రాజ్యాంగపరంగా రక్షిత నేలలను కాపాడుతుందా లేదా ఓడిస్తుందా నిర్ణయిస్తాయి, వీటితో సహా:
     - **అనుచ్ఛేదం III-A** (*మనుగడ*) కింద **మనుగడ ఆవశ్యకాలు**;
     - **అనుచ్ఛేదం III-B** (*సమాన విద్యా ప్రవేశం*) కింద **విద్యా ప్రవేశం**;
-    - **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*) కింద **సంజ్ఞ-కేంద్రిత విద్య సామర్థ్యం** — ఆ భౌతికత ట్రిగర్ వర్తించే చోట [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) కింద అంచనా సహా;
-    - **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) కింద **వివక్షా నిషేధం నేలలు** — ఆ భౌతికత ట్రిగర్ వర్తించే చోట [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) కింద అంచనా సహా;
-    - **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*) కింద **ప్రవేశ్యత నేలలు** — ఆ భౌతికత ట్రిగర్ వర్తించే చోట [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) కింద అంచనా సహా;
-    - **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) కింద **నమ్మదగిన, విశ్వసనీయ వ్యవస్థ ప్రవర్తన** — ఆ భౌతికత ట్రిగర్ వర్తించే చోట [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) కింద అంచనా సహా;
-    - **అనుచ్ఛేదం IV** (*వనరు కేటాయింపు, ఆధారపడటాలు, పర్యావరణ వ్యవస్థ నిధులు*) కింద **వనరు-కేటాయింపు మరియు ఆధారపడటం నేలలు** — భౌతికంగా ఇమిడిన చోట [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) కింద [అనుపాత వ్యవస్థల మధ్య సహకారం](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) సహా;
-    - **అనుచ్ఛేదం XIII-A** (*నమ్మదగినతనం మరియు విశ్వసనీయత నేల*) మరియు [**సురక్షిత షరతులు**](core_05_band_continuity.md#safe-conditions-constitutional) కింద **భద్రతా-సంబంధ నేలలు** భౌతికంగా ఇమిడిన చోట.
+    - **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*) కింద **సంజ్ఞ-కేంద్రిత విద్య సామర్థ్యం** — ఆ భౌతికత ట్రిగర్ వర్తించే చోట [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) కింద అంచనా సహా;
+    - **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) కింద **వివక్షా నిషేధం నేలలు** — ఆ భౌతికత ట్రిగర్ వర్తించే చోట [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) కింద అంచనా సహా;
+    - **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*) కింద **ప్రవేశ్యత నేలలు** — ఆ భౌతికత ట్రిగర్ వర్తించే చోట [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) కింద అంచనా సహా;
+    - **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) కింద **నమ్మదగిన, విశ్వసనీయ వ్యవస్థ ప్రవర్తన** — ఆ భౌతికత ట్రిగర్ వర్తించే చోట [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) కింద అంచనా సహా;
+    - **అనుచ్ఛేదం IV** (*వనరు కేటాయింపు, ఆధారపడటాలు, పర్యావరణ వ్యవస్థ నిధులు*) కింద **వనరు-కేటాయింపు మరియు ఆధారపడటం నేలలు** — భౌతికంగా ఇమిడిన చోట [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) కింద [అనుపాత వ్యవస్థల మధ్య సహకారం](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) సహా;
+    - **అనుచ్ఛేదం XIII-A** (*నమ్మదగినతనం మరియు విశ్వసనీయత నేల*) మరియు [**సురక్షిత షరతులు**](../../core_05.040_band_continuity.md#safe-conditions-constitutional) కింద **భద్రతా-సంబంధ నేలలు** భౌతికంగా ఇమిడిన చోట.
 - **రాజ్యాంగ** మరియు ఇతర సాధారణ వేదిక కుటుంబాలు — రాజ్యాంగ మరియు అవశిష్ట పందెాలు:
   - రాజ్యాంగ చెల్లుబాటు, అర్థం, వర్గం-వ్యాప్త నిర్మాణ పరిహారం, లేదా అధ్యాయం పదకొండు పై కుటుంబాల బయట కేటాయించిన ఇతర ప్రాథమిక-పందెం ప్రశ్నలకు కేటాయించిన భాగ అధికారం ఉంచుతాయి;
   - ధృవీకరణ ప్రక్రియ సాంకేతిక నైపుణ్యం లేదా సమగ్రత సమన్వయం ఆ కేటాయించిన మెరిట్ పాత్రలను తొలగించనివ్వకూడదు.
@@ -297,7 +297,7 @@
 
 - మూలం: [§11](#11-certification-record) (*రికార్డు విషయాలు*); [§12](#12-transparency-auditability-and-contestability) (*రికార్డు సమగ్రత అవసరాలు*); [§13](#13-forum-supervision-and-component-roles) (*భాగ పాత్ర కేటాయింపులు*); సమయబద్ధత కొలత కుటుంబం (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ క్రమశిక్షణ*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, మరియు **సమయబద్ధత**; [అధ్యాయం పదకొండు §4](../../core_13_forum.md#4-forum-family-definitions--accountability-through-adjudication) (*సమగ్రత-నాయక అనుగుణత గుర్తింపు, భాగ రిఫరల్, చెల్లుబాటు*); [అధ్యాయం పదకొండు §3](../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*సమగ్రత-నాయక అనుగుణత సమన్వయం మరియు స్వయం-తీర్పు నిషేధం*).
 - గమ్యం: [§15](#15-relationship-to-standing) (*ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [§16](#16-reopening-drift-and-non-evasion) (*తిరిగి తెరిచే ట్రిగర్లు*); [అధ్యాయం పదకొండు §5](../../core_13_forum.md#5-escalation-and-certification) (*కుటుంబం-నుండి-కుటుంబం ఎస్కలేషన్ మరియు రాజ్యాంగ ధృవీకరణ*).
-- దీనితో చదవండి: అధ్యాయం పదకొండు §1 కింద [వివాద క్రమం](../../core_13_forum.md#dispute-sequencing); [ప్రస్తావన §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** మరియు **CF-7**; [అనుచ్ఛేదం XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*సవాలు, సమీక్ష, పరిహారం హక్కు*).
+- దీనితో చదవండి: అధ్యాయం పదకొండు §1 కింద [వివాద క్రమం](../../core_13_forum.md#dispute-sequencing); [ప్రస్తావన §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** మరియు **CF-7**; [అనుచ్ఛేదం XIII-B](core_06_rights_part_c.md) (*సవాలు, సమీక్ష, పరిహారం హక్కు*).
 
 </details>
 
@@ -328,12 +328,12 @@
 
 1. **నాయక సమన్వయం:** ఒక **సమగ్రత** వేదిక అధ్యాయం పదకొండు ప్రాథమిక పందెానికి వేరు చట్టబద్ధ నాయకత్వం కేటాయించనంతవరకు అధికారిక రాజ్యాంగ అనుగుణత గుర్తింపు, చెల్లుబాటు, పునఃచెల్లుబాటు, ఉపసంహరణ, లేదా గుర్తింపు-లేదుకు ఒక సమన్వయ ధృవీకరణ రికార్డు ఉంచుతుంది.
 2. **భాగ కనుగొనడాలు:** సాంకేతిక, పర్యావరణం, సంస్థాగత, సంజ్ఞ, రాజ్యాంగ, ఇతర కేటాయించిన వేదిక కుటుంబాలు తమ చట్టబద్ధ మెరిట్ అధికారంలో పరిమిత భాగ కనుగొనడాలు ఉత్పత్తి చేస్తాయి:
-   - **సాంకేతిక వేదికలు** స్పెసిఫికేషన్లు, పద్ధతులు, పరీక్షలు, సాంకేతిక సమృద్ధి కనుగొనడాలు ఇస్తాయి — [§13](#13-forum-supervision-and-component-roles) ఆ పందెం కేటాయించిన చోట [సంజ్ఞత స్థితి తీర్పు](core_05_band_participation.md#sentience-status-adjudication-constitutional) భాగ కనుగొనడాలు సహా;
-   - **పర్యావరణ వేదికలు** భౌతిక పర్యావరణ బహిర్గతం ఉన్న చోట అవసరమైన పర్యావరణ-అనుగుణత భాగ కనుగొనడాలు ఇస్తాయి — ఆపాదించదగిన పర్యావరణ భారాలు భౌతికమైన చోట [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) కింద [పర్యావరణ పాదముద్ర](core_05_band_continuity.md#ecological-footprint) అంచనా సహా;
+   - **సాంకేతిక వేదికలు** స్పెసిఫికేషన్లు, పద్ధతులు, పరీక్షలు, సాంకేతిక సమృద్ధి కనుగొనడాలు ఇస్తాయి — [§13](#13-forum-supervision-and-component-roles) ఆ పందెం కేటాయించిన చోట [సంజ్ఞత స్థితి తీర్పు](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) భాగ కనుగొనడాలు సహా;
+   - **పర్యావరణ వేదికలు** భౌతిక పర్యావరణ బహిర్గతం ఉన్న చోట అవసరమైన పర్యావరణ-అనుగుణత భాగ కనుగొనడాలు ఇస్తాయి — ఆపాదించదగిన పర్యావరణ భారాలు భౌతికమైన చోట [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) కింద [పర్యావరణ పాదముద్ర](../../core_05.040_band_continuity.md#ecological-footprint) అంచనా సహా;
    - **సంస్థాగత వేదికలు** [§13](#13-forum-supervision-and-component-roles) ఆ పందెాలు కేటాయించిన చోట అవసరమైన సంస్థాగత-ఆదేశం మరియు హక్కుల నేల భాగ కనుగొనడాలు ఇస్తాయి;
    - **సంజ్ఞ వేదికలు** అధ్యాయం పదకొండు ఆ పందెాలను సంజ్ఞ వేదికల్లో ఉంచే చోట సంస్థాగతం-కాని ప్రభావిత-పక్ష ప్రభావ కనుగొనడాలు ఇస్తాయి;
    - **రాజ్యాంగ** మరియు ఇతర కేటాయించిన వేదిక కుటుంబాలు అధ్యాయం పదకొండు వాటికి కేటాయించిన పందెాలకు భాగ కనుగొనడాలు ఇస్తాయి.
-3. **రిఫరల్, ధృవీకరణ, నిలుపుదల:** నాయక వేదిక ప్రధానంగా మరో వేదిక కుటుంబానికి చెందిన భాగ ప్రశ్నలను పంపాలి, ధృవీకరించాలి, లేదా [నిలుపాలి](core_05_band_accountability.md#stay). మరో వేదిక కుటుంబం ఇంకా పూర్తికాని కేటాయించిన పని ఉన్నప్పుడు ధృవీకరణ పూర్తయిందని చెప్పలేదు — లేదా షరతులను గణనీయంగా ఎత్తలేదు. ఆ పూర్తికాని పనిలో ఉంటుంది:
+3. **రిఫరల్, ధృవీకరణ, నిలుపుదల:** నాయక వేదిక ప్రధానంగా మరో వేదిక కుటుంబానికి చెందిన భాగ ప్రశ్నలను పంపాలి, ధృవీకరించాలి, లేదా [నిలుపాలి](../../core_05.035_band_accountability.md#stay). మరో వేదిక కుటుంబం ఇంకా పూర్తికాని కేటాయించిన పని ఉన్నప్పుడు ధృవీకరణ పూర్తయిందని చెప్పలేదు — లేదా షరతులను గణనీయంగా ఎత్తలేదు. ఆ పూర్తికాని పనిలో ఉంటుంది:
    - అవసరమైన కనుగొనడం;
    - అభ్యంతరం;
    - పరిహార షరతు; లేదా
@@ -352,7 +352,7 @@
 <a id="142-contestability-paths"></a>
 **సవాలు-యోగ్యత మార్గాలు.** వ్యవస్థ ధృవీకరణ రికార్డు ఈ సవాలు మార్గాలను పేరుపెట్టాలి. అవి ధృవీకరణ రికార్డులకు వివాద క్రమం అమలు చేస్తాయి. అవి వేదిక కుటుంబం కావు, అధ్యాయం పదకొండు మార్గాన్ని భర్తీ చేయవు.
 
-- **ప్రచురించిన రికార్డు సవాలు మార్గం** — ధృవీకరణ రికార్డు గురించి సాధారణ వివాదానికి సాధారణ మొదటి అడుగు. రికార్డు [ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం](core_05_band_participation.md#stakeholder-status-and-weight-cluster) సవాలు సీటు పేరుపెడుతుంది:
+- **ప్రచురించిన రికార్డు సవాలు మార్గం** — ధృవీకరణ రికార్డు గురించి సాధారణ వివాదానికి సాధారణ మొదటి అడుగు. రికార్డు [ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) సవాలు సీటు పేరుపెడుతుంది:
   - సవాలు ఎవరు అందుకుంటారు;
   - ఎలా దాఖలు చేయాలి; మరియు
   - **అనుచ్ఛేదం XXV-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) కింద గడియారాలు స్వీకరణ నుండి నడుస్తాయి.
@@ -367,10 +367,10 @@
 సవాలు-యోగ్యత గొలుసు ఆ మార్గాలను ఈ క్రమంలో వాడుతుంది:
 
 1. **రికార్డు సవాలు** (ప్రచురించిన రికార్డు సవాలు మార్గం). ప్రభావిత పక్షాలు [§12](#12-transparency-auditability-and-contestability) కింద ధృవీకరణ-రికార్డు విషయం, పరిధి, వర్గీకరణ అంచనాలు, సాక్ష్య ఆధారపడటం, ఫలితం, ఆధారపడటం పరిమితులు, లేదా పర్యవేక్షణ సమగ్రతను సవాలు చేయవచ్చు. ఆ మార్గం ఇంకా సవాలులో ఉంటే, లేకపోతే, స్వాధీనమైతే, లేదా అవసరమైన ఉపశమనం ఇవ్వలేకపోతే, అధ్యాయం పదకొండు ప్రాథమిక పందెం ప్రకారం మార్గం పెడుతుంది.
-2. **భాగ సవాలు** (భాగ వేదిక మార్గం). భాగ కనుగొనడానికి పరిమిత సవాలు ఆ భాగంపై మెరిట్ అధికారం ఉన్న వేదిక కుటుంబానికి మార్గం పొందుతుంది. నాయక వేదిక సమయానుకూల సమీక్ష వేచి సవాలు చేయబడిన భాగంపై ఆధారపడటాన్ని [నిలుపవచ్చు](core_05_band_accountability.md#stay).
+2. **భాగ సవాలు** (భాగ వేదిక మార్గం). భాగ కనుగొనడానికి పరిమిత సవాలు ఆ భాగంపై మెరిట్ అధికారం ఉన్న వేదిక కుటుంబానికి మార్గం పొందుతుంది. నాయక వేదిక సమయానుకూల సమీక్ష వేచి సవాలు చేయబడిన భాగంపై ఆధారపడటాన్ని [నిలుపవచ్చు](../../core_05.035_band_accountability.md#stay).
 3. **నాయక-సమన్వయ సవాలు** (నాయక-సమగ్రత మార్గం). నాయక వేదిక ప్రక్రియను ఎలా నడిపిందో గురించిన సవాలు [అధ్యాయం పదకొండు](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) సమగ్రత మరియు స్వయం-తీర్పు నిషేధ నియమాల కింద మార్గం పొందుతుంది. ఇందులో స్వాధీనం, దాచిన సమాచారం, స్వయం-సమీక్ష, దుర్వినియోగ అడుగు-క్రమం, ధృవీకరణను చాలా తొందరగా పూర్తయిందని చెప్పడం, లేదా ఇతర నాయక-వేదిక సమగ్రత సమస్యలు ఉంటాయి. సవాలు ఆ నాయక వేదిక స్వంత పక్షపాతం, స్వాధీనం, సంఘర్షణ, లేదా ప్రక్రియ దుర్వినియోగం లక్ష్యం చేసినప్పుడు, సమీక్ష అదే నాయక వేదికకు పరిమితం కాకుండా ఆ నియమాల కింద బ్యాకప్ మార్గం వర్తిస్తుంది.
 4. **ఎస్కలేషన్ మరియు ధృవీకరణ** (ఎస్కలేషన్ మార్గం). ప్రాథమిక పందెాలు, రాజ్యాంగ చెల్లుబాటు, నిర్మాణ పరిహారం, కుటుంబం డెడ్‌లాక్, లేదా స్వయం-తీర్పు నిషేధ రక్షణ కోరిన చోట, సవాలు మార్గం అధ్యాయం పదకొండు బదిలీ, ధృవీకరణ, బ్యాకప్ మార్గం, కుటుంబం-నుండి-కుటుంబం ఎస్కలేషన్ ద్వారా కొనసాగుతుంది.
-5. **సవాలు సమయంలో ఆధారపడటం పరిమితులు:** భౌతిక మరియు సమయానుకూల సవాలు అంచనా వేయదగిన హాని నివారించడానికి, సాక్ష్యం కాపాడడానికి, లేదా సవాలులో ఉన్న కనుగొనడంపై తిరుగులేని ఆధారపడటం నివారించడానికి అవసరమైనంతవరకు ధృవీకరణ రికార్డుపై ఆధారపడటాన్ని పరిమితం లేదా నిలుపవచ్చు, [అనుచ్ఛేదం XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) కింద త్వరిత సమీక్షకు లోబడి.
+5. **సవాలు సమయంలో ఆధారపడటం పరిమితులు:** భౌతిక మరియు సమయానుకూల సవాలు అంచనా వేయదగిన హాని నివారించడానికి, సాక్ష్యం కాపాడడానికి, లేదా సవాలులో ఉన్న కనుగొనడంపై తిరుగులేని ఆధారపడటం నివారించడానికి అవసరమైనంతవరకు ధృవీకరణ రికార్డుపై ఆధారపడటాన్ని పరిమితం లేదా నిలుపవచ్చు, [అనుచ్ఛేదం XXV-C](core_06_rights_part_d.md) (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) కింద త్వరిత సమీక్షకు లోబడి.
 
 ధృవీకరణ రికార్డు సవాలు-యోగ్యత గొలుసు చెప్పాలి — ప్రభావిత పక్షాలు ప్రతి అడుగు వద్ద ఎలా సవాలు చేయగలరు — మరియు పేరుపెట్టిన సవాలు-యోగ్యత మార్గాలు.
 
@@ -389,7 +389,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [§11](#11-certification-record) నుండి [§13](#13-forum-supervision-and-component-roles) (*ధృవీకరణ రికార్డు మరియు వేదిక పర్యవేక్షణ*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); [ప్రస్థితికి ధృవీకరించిన ఇన్‌పుట్లు](core_05_band_accountability.md#verified-inputs-for-standing).
+- మూలం: [§11](#11-certification-record) నుండి [§13](#13-forum-supervision-and-component-roles) (*ధృవీకరణ రికార్డు మరియు వేదిక పర్యవేక్షణ*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); [ప్రస్థితికి ధృవీకరించిన ఇన్‌పుట్లు](../../core_05.035_band_accountability.md#verified-inputs-for-standing).
 - గమ్యం: [అధ్యాయం ఎనిమిది](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*ప్రస్థితి రికార్డులు మరియు ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [అధ్యాయం తొమ్మిది](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) (*ప్రస్థితి ప్రభావాలు మరియు సమావేశీకరణ*).
 - దీనితో చదవండి: **అనుచ్ఛేదం III-A** (*ధృవీకరణ అందింపును గేట్ చేసే చోట మనుగడ-ఆవశ్యక ప్రవేశం*).
 
@@ -407,13 +407,13 @@
 **ధృవీకరించిన-ఇన్‌పుట్ గేట్.** ధృవీకరణ రికార్డు కింది వాటి కింద పరిమితం, జాడగలది, సవాలు-యోగ్యం, ధృవీకరించబడినప్పుడు మాత్రమే అధ్యాయం ఎనిమిది ప్రస్థితిని పోషించగలదు:
 
 - [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*వ్యవస్థ వర్గం*);
-- [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*డేటా రకాలు మరియు నిర్వహణ*);
-- భౌతికమైన చోట [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation);
-- **అనుచ్ఛేదం IV** (*వనరు కేటాయింపు, ఆధారపడటాలు, పర్యావరణ వ్యవస్థ నిధులు*) భౌతికత ట్రిగర్ వర్తించే చోట [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation);
-- **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) భౌతికత ట్రిగర్ వర్తించే చోట [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation);
-- **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*) భౌతికత ట్రిగర్ వర్తించే చోట [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation);
-- **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation);
-- **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation);
+- [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*డేటా రకాలు మరియు నిర్వహణ*);
+- భౌతికమైన చోట [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation);
+- **అనుచ్ఛేదం IV** (*వనరు కేటాయింపు, ఆధారపడటాలు, పర్యావరణ వ్యవస్థ నిధులు*) భౌతికత ట్రిగర్ వర్తించే చోట [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation);
+- **అనుచ్ఛేదం V-B** (*వివక్షా నిషేధం*) భౌతికత ట్రిగర్ వర్తించే చోట [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation);
+- **అనుచ్ఛేదం V-G** (*ప్రవేశ్యత*) భౌతికత ట్రిగర్ వర్తించే చోట [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation);
+- **అనుచ్ఛేదం VI** (*సంజ్ఞ-కేంద్రిత విద్య హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation);
+- **అనుచ్ఛేదం XIII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*) భౌతికత ట్రిగర్ వర్తించే చోట [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation);
 - [§12](#12-transparency-auditability-and-contestability) మరియు [§14](#14-supervisory-sequence-and-contestability-chain);
 - అధ్యాయాలు రెండు నుండి నాలుగు, మరియు వర్తించే అధ్యాయం పదకొండు ప్రక్రియ.
 
@@ -463,9 +463,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*తప్పు వర్గీకరణ మరియు అసమతుల్యత*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*ప్రమాద-అంచనా మరియు ప్రమాద-బహిర్గత లోపాలు*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*పాదముద్ర తప్పుడు ప్రాతినిధ్యం మరియు అసమతుల్యత*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*వనరు-ప్రవాహ తప్పుడు ప్రాతినిధ్యం, తీసివేత అసమతుల్యత, మద్దతు అసమృద్ధి*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*వివక్ష-నమూనా అసమతుల్యత మరియు ప్రతినిధి తప్పించుకోవడం*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*ప్రవేశ్యత అసమతుల్యత మరియు కాగితం-మాత్రమే సదుపాయం*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*అంచనా-అస్పష్టత అసమతుల్యత, ఆధార గేట్‌కీపింగ్, బలవంతపు-వాడుకలేకపోవడం అసమతుల్యత*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*తప్పుడు-విశ్వాసం అసమతుల్యత, విపరీత-ప్రోత్సాహకం అసమతుల్యత, పునరుద్ధరణ-సమగ్రత అసమతుల్యత*); [§12](#12-transparency-auditability-and-contestability) (*సవాలు-యోగ్యత*); [§14](#14-supervisory-sequence-and-contestability-chain) (*నమ్మదగిన సవాలు మరియు తిరిగి తెరవడం*); [అధ్యాయం మూడు §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) మరియు [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*నిర్వచన సమగ్రత మరియు తప్పించుకోవడం*); [అధ్యాయం మూడు §2.1 సాధారణ తప్పించుకోవడం నమూనాలు](core_03_definition_integrity.md#21-common-evasion-patterns) (*పరిధి-మరియు-సరిహద్దు తప్పించుకోవడం*); [పరిధి పత్రం](core_05_band_continuity.md#charter) (*పరిధి పత్రం–ప్రవర్తన అసంగతి మరియు ఆలస్య సమీక్ష*).
+- మూలం: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*తప్పు వర్గీకరణ మరియు అసమతుల్యత*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*ప్రమాద-అంచనా మరియు ప్రమాద-బహిర్గత లోపాలు*); [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) (*పాదముద్ర తప్పుడు ప్రాతినిధ్యం మరియు అసమతుల్యత*); [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) (*వనరు-ప్రవాహ తప్పుడు ప్రాతినిధ్యం, తీసివేత అసమతుల్యత, మద్దతు అసమృద్ధి*); [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (*వివక్ష-నమూనా అసమతుల్యత మరియు ప్రతినిధి తప్పించుకోవడం*); [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (*ప్రవేశ్యత అసమతుల్యత మరియు కాగితం-మాత్రమే సదుపాయం*); [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) (*అంచనా-అస్పష్టత అసమతుల్యత, ఆధార గేట్‌కీపింగ్, బలవంతపు-వాడుకలేకపోవడం అసమతుల్యత*); [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*తప్పుడు-విశ్వాసం అసమతుల్యత, విపరీత-ప్రోత్సాహకం అసమతుల్యత, పునరుద్ధరణ-సమగ్రత అసమతుల్యత*); [§12](#12-transparency-auditability-and-contestability) (*సవాలు-యోగ్యత*); [§14](#14-supervisory-sequence-and-contestability-chain) (*నమ్మదగిన సవాలు మరియు తిరిగి తెరవడం*); [అధ్యాయం మూడు §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) మరియు [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*నిర్వచన సమగ్రత మరియు తప్పించుకోవడం*); [అధ్యాయం మూడు §2.1 సాధారణ తప్పించుకోవడం నమూనాలు](core_03_definition_integrity.md#21-common-evasion-patterns) (*పరిధి-మరియు-సరిహద్దు తప్పించుకోవడం*); [పరిధి పత్రం](../../core_05.040_band_continuity.md) (*పరిధి పత్రం–ప్రవర్తన అసంగతి మరియు ఆలస్య సమీక్ష*).
 - గమ్యం: [అధ్యాయం పదకొండు](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*తిరిగి తెరిచిన వేదిక పర్యవేక్షణ*); [అధ్యాయం ఎనిమిది](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*వాస్తవాలు ప్రతికూల కనుగొనడాలకు మద్దతు ఇచ్చే చోట ధృవీకరించిన-ఇన్‌పుట్ గేట్*).
-- దీనితో చదవండి: [corpus_systems.md](../../corpus_systems.md) (*సమావేశీకరించిన వ్యవస్థ అమలు కర్తవ్యాలు*), ఆవర్తన డేటా-రకం పునఃఅంచనాకు **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*పునఃవర్గీకరణ మరియు జీవితచక్ర పాలన*) సహా, మరియు వ్యవస్థ-వర్గ పునఃఅంచనా ట్రిగర్లు మరియు SAC ధృవీకరణకు **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*పునఃవర్గీకరణ అవసరం*).
+- దీనితో చదవండి: [corpus_systems.md](../../corpus_systems.md) (*సమావేశీకరించిన వ్యవస్థ అమలు కర్తవ్యాలు*), ఆవర్తన డేటా-రకం పునఃఅంచనాకు **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*పునఃవర్గీకరణ మరియు జీవితచక్ర పాలన*) సహా, మరియు వ్యవస్థ-వర్గ పునఃఅంచనా ట్రిగర్లు మరియు SAC ధృవీకరణకు **[CS-3 §3.5](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*పునఃవర్గీకరణ అవసరం*).
 
 </details>
 
@@ -484,18 +484,18 @@
   - ప్రభావిత పక్ష సాక్ష్యం;
   - [§14](#14-supervisory-sequence-and-contestability-chain) కింద నమ్మదగిన సవాలు;
   - పర్యావరణ అభ్యంతరం;
-  - **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** కింద వ్యవస్థ-వర్గ అసమతుల్యత లేదా ఆలస్య పునఃఅంచనా;
-  - **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** కింద డేటా-రకం లేదా నిర్వహణ అసమతుల్యత, ఆలస్య లేదా దాటవేసిన ఆవర్తన డేటా-రకం పునఃఅంచనా;
+  - **[CS-3 §3.5](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** కింద వ్యవస్థ-వర్గ అసమతుల్యత లేదా ఆలస్య పునఃఅంచనా;
+  - **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** కింద డేటా-రకం లేదా నిర్వహణ అసమతుల్యత, ఆలస్య లేదా దాటవేసిన ఆవర్తన డేటా-రకం పునఃఅంచనా;
   - వర్గీకరణ అసమతుల్యత;
-  - [పరిధి పత్రం](core_05_band_continuity.md#charter) సవరణ, పరిధి పత్రం–ప్రవర్తన అసంగతి, పత్రీకరించిన పరిధి బయట భౌతిక సంచాలనం, లేదా ఆలస్య ఆవర్తన పరిధి పత్రం సమీక్ష;
+  - [పరిధి పత్రం](../../core_05.040_band_continuity.md) సవరణ, పరిధి పత్రం–ప్రవర్తన అసంగతి, పత్రీకరించిన పరిధి బయట భౌతిక సంచాలనం, లేదా ఆలస్య ఆవర్తన పరిధి పత్రం సమీక్ష;
 - **ధృవీకరణ రికార్డుపై ప్రతిబింబించిన డొమైన్ అసమతుల్యత**, వీటితో సహా:
   - [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) కింద భౌతిక ప్రమాద-అంచనా లేదా ప్రమాద-బహిర్గత లోపం లేదా అసమతుల్యత;
-  - [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) కింద భౌతిక పాదముద్ర తప్పుడు ప్రాతినిధ్యం లేదా అసమతుల్యత;
-  - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) కింద భౌతిక వివక్ష-నమూనా అసమతుల్యత లేదా ప్రతినిధి తప్పించుకోవడం;
-  - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) కింద భౌతిక ప్రవేశ్యత అసమతుల్యత లేదా కాగితం-మాత్రమే సదుపాయం;
-  - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) కింద భౌతిక అంచనా-అస్పష్టత, ఆధార-గేట్‌కీపింగ్, లేదా బలవంతపు-వాడుకలేకపోవడం అసమతుల్యత;
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) కింద భౌతిక తప్పుడు-విశ్వాసం, విపరీత-ప్రోత్సాహకం, లేదా పునరుద్ధరణ-సమగ్రత అసమతుల్యత;
-  - సంబంధిత భౌతికత ట్రిగర్ వర్తించే చోట ఇతర భాగం ఎ అంచనా అసమతుల్యత — [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), మరియు [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) సహా.
+  - [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) కింద భౌతిక పాదముద్ర తప్పుడు ప్రాతినిధ్యం లేదా అసమతుల్యత;
+  - [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) కింద భౌతిక వివక్ష-నమూనా అసమతుల్యత లేదా ప్రతినిధి తప్పించుకోవడం;
+  - [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) కింద భౌతిక ప్రవేశ్యత అసమతుల్యత లేదా కాగితం-మాత్రమే సదుపాయం;
+  - [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) కింద భౌతిక అంచనా-అస్పష్టత, ఆధార-గేట్‌కీపింగ్, లేదా బలవంతపు-వాడుకలేకపోవడం అసమతుల్యత;
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) కింద భౌతిక తప్పుడు-విశ్వాసం, విపరీత-ప్రోత్సాహకం, లేదా పునరుద్ధరణ-సమగ్రత అసమతుల్యత;
+  - సంబంధిత భౌతికత ట్రిగర్ వర్తించే చోట ఇతర భాగం ఎ అంచనా అసమతుల్యత — [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), మరియు [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) సహా.
 
 **తిరిగి తెరవడం ఎందుకు ముఖ్యం.** అసమతుల్యత, ఆధారపడటం పెరుగుదల, లేదా నమ్మదగిన సవాలుపై తిరిగి తెరవడం భాగస్వామ్య వ్యవస్థలు మనుగడ ఆవశ్యకాలు, విద్యా ప్రవేశం, సామర్థ్య-నిర్మాణ మార్గాలు, నమ్మదగిన ఆధారపడటం, లేదా భద్రత దీర్ఘకాల సరఫరాను గేట్ చేసే చోట [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) కింద **కొనసాగింపు** లక్ష్యాన్ని కాపాడుతుంది. పాత ధృవీకరణ ప్రస్తుత హక్కుల-నేల అనుసరణకు ప్రత్యామ్నాయం కాకూడదు.
 

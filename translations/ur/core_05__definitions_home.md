@@ -133,7 +133,7 @@
 - [صلاحیت کا تقاضا](../../core_05.050_band_oversight.md#capability-requirement)
 - [حل کے راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [زنجیری ناکامی](../../core_05.040_band_continuity.md#cascading-failure)
-- [منشور](../../core_05.040_band_continuity.md#charter)
+- [منشور](../../core_05.040_band_continuity.md)
 - [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [جبر اور ہیرا پھیری](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [اجتماعی جوابدہی کی ناکامی](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -400,7 +400,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ [مادی داؤ](core_00_preamble.md#material-stake)؛ [تمہید §2 پیمائش کا جائزہ](core_00_preamble.md#measurements-overview)۔
+- بالائی: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ [مادی داؤ](core_00_preamble.md#material-stake)؛ [تمہید §2 پیمائش کا جائزہ](core_00_preamble.md#2-measurements-overview)۔
 - زیریں: باب پنجم کی تمام پٹی تعریفوں اور **Def.** منحصر جھرمٹوں کے لیے آئینی رخ۔
 - ساتھ پڑھیں: کسی بھی منحصر جھرمٹ کو لاگو کرنے سے پہلے [آزاد تعریفیں](core_05__definitions_home.md#1-آزاد-تعریفیں)، [§1.1 استدعا، تکمیل، اور اطاعت](core_05__definitions_home.md#11-استدعا-تکمیل-اور-اطاعت)، [§2.1 مشترکہ استدعا اور تکمیل](core_05__definitions_home.md#21-مشترکہ-استدعا-اور-تکمیل)، اور [§2.2 خود کھڑی تعریفوں کا تعامل اور پورا سیاق](core_05__definitions_home.md#22-خود-کھڑی-تعریفوں-کا-تعامل-اور-پورا-سیاق) کے میٹا قواعد۔
 
@@ -436,7 +436,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">قارئین کی رہنمائی (غیرِ عملی): تمہید پیمائش کراس واک</span></strong></summary>
 
-> [تمہید §2](core_00_preamble.md#measurements-overview) سات آئینی **پیمائش زمرے** فہرست کرتی ہے — وہ سوال جو چلانے والے نظاموں کا جائزہ لیتے وقت پوچھتے ہیں۔ باب پنجم **مستند تعریفیں** چوکڑی کی ٹانگ، **استمرار** مقصد، اور **انضمامی** بین ٹانگ ملکیت کے مطابق منظم کرتا ہے۔ نیچے کا جدول ہر پیمائش زمرے کو اس کے باب پنجم گھروں سے جوڑتا ہے۔ ایک زمرہ ایک سے زیادہ پٹی فائل پر پھیل سکتا ہے؛ مستند گھر نہیں ہلتے جب پیمائش زمرے اوورلیپ کریں۔
+> [تمہید §2](core_00_preamble.md#2-measurements-overview) سات آئینی **پیمائش زمرے** فہرست کرتی ہے — وہ سوال جو چلانے والے نظاموں کا جائزہ لیتے وقت پوچھتے ہیں۔ باب پنجم **مستند تعریفیں** چوکڑی کی ٹانگ، **استمرار** مقصد، اور **انضمامی** بین ٹانگ ملکیت کے مطابق منظم کرتا ہے۔ نیچے کا جدول ہر پیمائش زمرے کو اس کے باب پنجم گھروں سے جوڑتا ہے۔ ایک زمرہ ایک سے زیادہ پٹی فائل پر پھیل سکتا ہے؛ مستند گھر نہیں ہلتے جب پیمائش زمرے اوورلیپ کریں۔
 >
 > **مادیت** ([مادیت کا تعین](../../core_05.050_band_oversight.md#materiality)) انضمامی ہے — ایک عرضی حد گیٹ جو [مادی داؤ](core_00_preamble.md#material-stake) کے تحت تمام پیمائش خاندانوں کو پیمانہ کرتی ہے؛ وہ نیچے جدول میں الگ زمرہ نہیں۔
 

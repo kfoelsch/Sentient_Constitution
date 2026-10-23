@@ -472,7 +472,7 @@ Algumas partes de uma Carta do Sistema ou Carta Institucional variam conforme a 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreio</span></strong></summary>
 
-- Fontes anteriores: [§3](#3-o-que-as-cartas-do-sistema-e-institucional-devem-declarar); [Capítulo Oito §2 Piso Constitucional de Quatro Assentos](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- Fontes anteriores: [§3](#3-o-que-as-cartas-do-sistema-e-institucional-devem-declarar); [Capítulo Oito §2 Piso Constitucional de Quatro Assentos](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - Aplicação posterior:
   - [Capítulo Oito §5 Posicionamento, vacância e substituição publicados](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [Capítulo Nove Parte B §6.1.1 Quatro assentos em uma certificação](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -502,7 +502,7 @@ Toda Carta do Sistema ou Carta Institucional contém um [Mapa de Funções da Ca
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 O que são os assentos e por que existem
 
-Todo [Ato Materialmente Vinculante](../../core_05.035_band_accountability.md#materially-binding-act) envolve quatro funções, que o [Capítulo Oito §2 Piso Constitucional de Quatro Assentos](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) mantém separadas:
+Todo [Ato Materialmente Vinculante](../../core_05.035_band_accountability.md#materially-binding-act) envolve quatro funções, que o [Capítulo Oito §2 Piso Constitucional de Quatro Assentos](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) mantém separadas:
 
 - **[Assento de Iniciativa](../../core_05.035_band_accountability.md#initiating-seat):** inicia o ato ao solicitá-lo, propô-lo, operá-lo ou reivindicá-lo.
 - **[Assento de Verificação ou Autorização](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** verifica as provas e a autoridade, depois verifica, autoriza, condiciona ou recusa o ato.

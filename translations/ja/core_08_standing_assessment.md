@@ -1,5 +1,7 @@
 <a id="chapter-eight-compliance-violation-and-standing-model"></a>
 <a id="chapter-eight-contribution-violation-and-standing-model--measurement"></a>
+<a id="chapter-ten-compliance-violation-and-standing-model"></a>
+
 # 第八章：貢献、違反、軌跡モデル — 測定
 
 <details>
@@ -35,12 +37,12 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[憲法四元](core_00_preamble.md#constitutional-tetrad)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；[実質的利害](core_00_preamble.md#material-stake)；[前文 §5 主要な実務プロセスパイプライン](core_00_preamble.md#5-key-practical-process-pipelines)（*第七章から第十一章の鎖*）。
-- 上流：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)（*平易言語のアクセシビリティ* — 責務ある管理が節級の解説に反映される）；[第一章 §9 — 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)（*能力に結びつき追跡可能な軌跡の原則層の基盤 — 信頼、役割、承認*）；[第二章から第四章](core_02_definition_structure.md)（*誠実性、記録、検証*）；[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)（*定義と最高性を第二章から第四章とあわせて読む*）。
+- 上流：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)（*平易言語のアクセシビリティ* — 責務ある管理が節級の解説に反映される）；[第一章 §9 — 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md)（*能力に結びつき追跡可能な軌跡の原則層の基盤 — 信頼、役割、承認*）；[第二章から第四章](core_02_definition_structure.md)（*誠実性、記録、検証*）；[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)（*定義と最高性を第二章から第四章とあわせて読む*）。
 - 上流：[第七章](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（*システム整合認証*）；[B部 §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)（*軌跡の橋 — 潜在的な検証済み入力のみ*）。
 - 軌跡の鎖：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[第八章 — 測定](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*三つの問いの枠、問い 1 の記録、問い 2 の測定 — 第 **1–7** 節*）；[第九章 — 軌跡効果と統合](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)（*問い 3 の効果と統合*）；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*適格な違反軸 s = 7–9 についての指定のみ*）。
 - 本ファイルの下位節：[§1](#1-the-three-questions)（*三つの問いの枠と範囲*）；[§2](#2-standing-records)（*問い 1 — 検証済み事実と記録*）；[§3](#3-standing-record-operational-requirements)（*検証と記録の要件*）；[§4](#4-standing-measurement-evaluation-dimensions)（*問い 2 — 測定の次元*）；[§5](#5-slot-grammar-and-lequ-calibration)（*箱の文法と共有の尺度合わせ*）；[§6](#6-constitutional-inputs-to-axis-assignment)（*憲法源の経路づけ*）；[§7](#7-unified-proportional-lequ-scale)（*両軸の統一比例 LEQU 尺度*）。
-- 下流：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*指定のみ — 問い 2 の測定を再開しない*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム監督と経路づけ*）；[Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（*適時の解決*）；[Article XXIV](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)（*正義の制約*）。
-- あわせて読む：[第五章 *軌跡状態、貢献、違反*](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)（*典範定義の経路づけ*）。
+- 下流：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*指定のみ — 問い 2 の測定を再開しない*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム監督と経路づけ*）；[Article XXV-C](core_06_rights_part_d.md)（*適時の解決*）；[Article XXIV](core_06_rights_part_d.md)（*正義の制約*）。
+- あわせて読む：[第五章 *軌跡状態、貢献、違反*](../../core_05.035_band_accountability.md#standing-state-contribution-and-violation-cluster)（*典範定義の経路づけ*）。
 - あわせて読む：[README.md](../../README.md)（*読み順*）；[doc_architecture.md](../../doc_architecture.md)（*採択されない限り拘束力のない編集地図*）。
 
 </details>
@@ -78,7 +80,7 @@
 <a id="11-purpose-and-scope"></a>
 #### 1.1 目的と範囲
 
-本章は、**システム**、**感知者**、**制度**についての憲法上の記録と測定の枠を述べる — [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) のもとで分類されるすべてのシステムを含む。これらの枠は、噂、人気、曖昧な評判、固有の尊厳、一般的な値打ちを測らない；いずれも軌跡評価の許容される対象ではない。
+本章は、**システム**、**感知者**、**制度**についての憲法上の記録と測定の枠を述べる — [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) のもとで分類されるすべてのシステムを含む。これらの枠は、噂、人気、曖昧な評判、固有の尊厳、一般的な値打ちを測らない；いずれも軌跡評価の許容される対象ではない。
 
 軌跡の鎖は、以前に検証された貢献が現在の能力や信頼性を示すには古くなり、違反が未解決のまま残り、修復が高価であり、責任が国境を越え、または行為者が組織の層化や再ラベル付けを用いて説明責任を妨げるときにも、有効であり続けなければならない。
 
@@ -89,11 +91,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡 · 定義 · 評価 · 遵守</span></strong></summary>
 
-- 上流：[第一章 §9 — 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)；[第二章から第四章](core_02_definition_structure.md)；[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)。
+- 上流：[第一章 §9 — 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md)；[第二章から第四章](core_02_definition_structure.md)；[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)。
 - 下流：[§2](#2-standing-records)（*問い 1*）；[§3](#3-standing-record-operational-requirements)（*検証と記録の要件*）；[§4](#4-standing-measurement-evaluation-dimensions)（*問い 2 の測定*）；[§5](#5-slot-grammar-and-lequ-calibration)（*箱の文法と共有の尺度合わせ*）；[§6](#6-constitutional-inputs-to-axis-assignment)（*憲法源の経路づけ*）；[§7](#7-unified-proportional-lequ-scale)（*両軸の統一比例 LEQU 尺度*）；[第九章](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)（*問い 3*）。
 - [実質性の決定](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [危害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [危害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -282,7 +284,7 @@
     - 予定された審査；
 - 測定が起きた後に求められる、軸固有の問い 2 測定欄。
 
-**点検可能な帰属行為。** 臨界システムの責務ある管理または実質的運用権限を行使する人員／代理人について、再構成可能な帰属行為の証拠は、混合編成の既定記録契約として **[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)** に指定される。その証拠は本記録に供給してよい。本記録を置き換えない。モデル重みと私的熟議は、残る唯一の帰属経路でない限り、軌跡記録の内容ではない。プライバシーと内部状態の保護は、軌跡測定の免除を作らない。
+**点検可能な帰属行為。** 臨界システムの責務ある管理または実質的運用権限を行使する人員／代理人について、再構成可能な帰属行為の証拠は、混合編成の既定記録契約として **[CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)** に指定される。その証拠は本記録に供給してよい。本記録を置き換えない。モデル重みと私的熟議は、残る唯一の帰属経路でない限り、軌跡記録の内容ではない。プライバシーと内部状態の保護は、軌跡測定の免除を作らない。
 
 **段階の境界。** 問い 1 は検証済み事実を記録し、問い 2 はそれらを測る。問い 2 の測定がなお未了でも、検証済み事実基盤が完了すれば記録は開いてよい。測定が起きるまで、問い 2 の欄は、箱またはカテゴリを含意するのではなく、未了であると述べなければならない。記録は、問い 3 の**軌跡効果**を述べ、または適用してはならない。
 
@@ -392,14 +394,14 @@
 
 *平たい言葉で言えば：フォーラムは、紛争が監督され、異議を唱えられ、検証済み結果へ変わるところである — しかし事件を申し立てること、または物語の争いを勝つことは、軌跡を更新しない。**第 3.1 節**の検証済み入力の門はなお適用される。フォーラムが第二章から第四章のもとで事実を検証するとき、軌跡記録を**開き、更新し、または訂正**してよい — または**異議において悪い記録を脇へ置く**。フォーラムは善と悪を一つの得点に融合せず、軌跡のカテゴリを自ら発明しない。*
 
-[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) のもとでのフォーラム群は、具体的紛争が軌跡の鎖を横断する仕方を**監督**する。その監督のためにフォーラムが保つ紛争段階のファイルは、[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) のもとでの [**フォーラム事件記録**](core_05_band_accountability.md#forum-case-record) である；それ自体は軌跡記録では**ない**。フォーラムは、到達可能な異議、独立審査、鑑識の支え、是正の順序づけ、および [第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) と [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（《適時の解決と遅延防止の床》）のもとでの段階既定の時計を供給し、それらの認定が第二章から第四章のもとでの検証済み入力の門を満たすとき、**第 3.1 節**のもとで軌跡記録を**開き、更新し、または訂正**してよい — または**異議において悪い記録を脇へ置く**。
+[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) のもとでのフォーラム群は、具体的紛争が軌跡の鎖を横断する仕方を**監督**する。その監督のためにフォーラムが保つ紛争段階のファイルは、[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) のもとでの [**フォーラム事件記録**](../../core_05.035_band_accountability.md#forum-case-record) である；それ自体は軌跡記録では**ない**。フォーラムは、到達可能な異議、独立審査、鑑識の支え、是正の順序づけ、および [第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) と [Article XXV-C](core_06_rights_part_d.md)（《適時の解決と遅延防止の床》）のもとでの段階既定の時計を供給し、それらの認定が第二章から第四章のもとでの検証済み入力の門を満たすとき、**第 3.1 節**のもとで軌跡記録を**開き、更新し、または訂正**してよい — または**異議において悪い記録を脇へ置く**。
 
 フォーラムの検証済み事実認定は、問い 1 の軌跡記録の事実基盤を供給してよい。検証済み貢献または違反がどれほど良いか悪いかについての問い 2 の測定を**決めない**。したがって：
 
 - フォーラム手続は、貢献と違反の資料を一つの純得点、混合した本案の答え、または未分化の軌跡ラベルへ**融合してはならない**；結びついた記録は **第 2.1 節**と**第 2.2 節**のもとで分かれたままである。
 - フォーラムの産出は、示しうる検証済み入力、別々の測定、または [第九章](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) が所管する軌跡効果の仕組みの代わりに、紛争物語、経路づけの都合、または合議体の好みを**用いてはならない**。
 
-この境界は、[Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)（《異議、審査、救済への権利》）、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)、[Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（《適時の解決と遅延防止の床》）、または関連する正義の条が求める異議、救済、暫定救済、または手続保護を**減らさない**。検証済みフォーラム認定が、他の検証済み入力と同じ門を通って軌跡に入ることを求める — その回りではない。
+この境界は、[Article XIII-B](core_06_rights_part_c.md)（《異議、審査、救済への権利》）、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)、[Article XXV-C](core_06_rights_part_d.md)（《適時の解決と遅延防止の床》）、または関連する正義の条が求める異議、救済、暫定救済、または手続保護を**減らさない**。検証済みフォーラム認定が、他の検証済み入力と同じ門を通って軌跡に入ることを求める — その回りではない。
 
 <a id="37-record-custody-and-opening-authority"></a>
 
@@ -408,9 +410,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：[第一章 §10.2 *職務の分離*](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)（*本節が軌跡記録に適用する原則層の床；ここで狭めてはならない*）；[第一章 §11.3 *複数の検出と審査*](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)；[§2.1](#21-silence-is-the-default)（*検証済みの引き金；対象への通知*）；[§3.1](#31-minimum-record-contents)（*最小内容と検証済み入力の門*）；[§3.4](#34-versioning)（*版管理*）；[§3.6](#36-forum-boundary)（*フォーラムは開き、更新し、訂正し、または脇へ置いてよい*）；[第二章から第四章](core_02_definition_structure.md)（*記録、検証、追跡可能性*）；[証拠保全](core_05_band_oversight.md#evidence-preservation)（*証拠の保管の鎖*）。
+- 上流：[第一章 §10.2 *職務の分離*](core_01_c_stewardship_capacity_principles.md)（*本節が軌跡記録に適用する原則層の床；ここで狭めてはならない*）；[第一章 §11.3 *複数の検出と審査*](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)；[§2.1](#21-silence-is-the-default)（*検証済みの引き金；対象への通知*）；[§3.1](#31-minimum-record-contents)（*最小内容と検証済み入力の門*）；[§3.4](#34-versioning)（*版管理*）；[§3.6](#36-forum-boundary)（*フォーラムは開き、更新し、訂正し、または脇へ置いてよい*）；[第二章から第四章](core_02_definition_structure.md)（*記録、検証、追跡可能性*）；[証拠保全](core_05_band_oversight.md#evidence-preservation)（*証拠の保管の鎖*）。
 - 四元の脚：**説明責任**（名指された行為者がすべての記入に答える）；**監督**（いかなる当事者も自らの主張を検証しない）。第一次の目的：**繁栄**と**継続**。
-- あわせて読む：[第五章 *チャーター*](core_05_band_continuity.md#charter)（*チャーターされた範囲についての記録開設当局と保管者を名指し、または指す公表された範囲文書*）；**CI-3.6**（*チャーターの内容 — 軌跡記録の保管欄*）；[**CJS-3.11** *憲法上のレーンと機能分離*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)（*記録の義務が置かれる五つのレーン；職務の分離*）；**CI-3.2**（*機能分離レーン — 公表されたレーン地図、チャーターが沈黙するときの予備*）；**CI-3.3**（*権限の鎖と委任の制御*）；**CI-4.6**（*座席カタログ — 四つの記録座席を座席型 1–4 として、誤座席規則とともに*）；**CF-9.6**（*自己調査の禁止*）および **CF-9.8**（*検証済み認定の引き渡し*）；[第十一章 §2.1](core_11_forum.md#21-lead-default-limits)（*自己裁定禁止の予備*）；[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*誰が認可したか；ログは記録ではない*）；[第九章 §5.4](../../core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*停止、拒否、文書化、段階引き上げ*）；[第四章 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)（*検証座席が記録者と当事者の陳述に適用する証拠標準*）；[誠実](core_05_band_accountability.md#good-faith)（*率直さの推定であり、正確さではない*）；[争訟可能性](core_05_band_accountability.md#contestability) および [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)（*記録上で挙げられた異議は、申し立ての前に記録され経路づけられる*）；[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests)（*フォーラムに達した軌跡記録への異議*）。
+- あわせて読む：[第五章 *チャーター*](../../core_05.040_band_continuity.md)（*チャーターされた範囲についての記録開設当局と保管者を名指し、または指す公表された範囲文書*）；**CI-3.6**（*チャーターの内容 — 軌跡記録の保管欄*）；[**CJS-3.11** *憲法上のレーンと機能分離*](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation)（*記録の義務が置かれる五つのレーン；職務の分離*）；**CI-3.2**（*機能分離レーン — 公表されたレーン地図、チャーターが沈黙するときの予備*）；**CI-3.3**（*権限の鎖と委任の制御*）；**CI-4.6**（*座席カタログ — 四つの記録座席を座席型 1–4 として、誤座席規則とともに*）；**CF-9.6**（*自己調査の禁止*）および **CF-9.8**（*検証済み認定の引き渡し*）；[第十一章 §2.1](core_11_forum.md#21-lead-default-limits)（*自己裁定禁止の予備*）；[CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)（*誰が認可したか；ログは記録ではない*）；[第九章 §5.4](../../core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*停止、拒否、文書化、段階引き上げ*）；[第四章 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)（*検証座席が記録者と当事者の陳述に適用する証拠標準*）；[誠実](../../core_05.035_band_accountability.md#good-faith)（*率直さの推定であり、正確さではない*）；[争訟可能性](../../core_05.035_band_accountability.md#contestability) および [Article XIII-B](core_06_rights_part_c.md)（*記録上で挙げられた異議は、申し立ての前に記録され経路づけられる*）；[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests)（*フォーラムに達した軌跡記録への異議*）。
 - 下流：[§4](#4-standing-measurement-evaluation-dimensions)（*問い 2 は本節のもとで入力された記録のみを測る*）；[第九章](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration)（*問い 3 の効果は帰属された記録へたどる*）。
 
 </details>
@@ -421,9 +423,9 @@
 
 <a id="37-segregation-of-duties"></a>
 
-**職務の分離。** これは [第一章 §10.2 *職務の分離*](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) を軌跡記録に適用する。四つの義務がすべての軌跡記録に触れ、各々は同一の記録上の別の座席である：
+**職務の分離。** これは [第一章 §10.2 *職務の分離*](core_01_c_stewardship_capacity_principles.md) を軌跡記録に適用する。四つの義務がすべての軌跡記録に触れ、各々は同一の記録上の別の座席である：
 
-| 義務 | それが何か | [CJS-3.11 *憲法上のレーンと機能分離*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) のもとでのレーン |
+| 義務 | それが何か | [CJS-3.11 *憲法上のレーンと機能分離*](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) のもとでのレーン |
 | --- | --- | --- |
 | **請求** | 記録を開き、訂正し、失効させ、または後継することを求めること。対象または申立人自身の請求を含む | 執行（または座席を持たない請求当事者） |
 | **検証** | 第二章から第四章のもとで **第 3.1 節** の門までの事実基盤を確立すること — 記録開設当局の行為 | 保証と監査 |
@@ -438,7 +440,7 @@
 
 <a id="37-informal-and-small-scope-records"></a>
 
-**非公式で小さな範囲の記録。** 職務の分離は、形式ではなく実質的利害に応じて尺度を合わせる（[第一章 §10.2 職務の分離](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)）。無給、仲間組織、相互扶助、世話、維持、修理、教育、および共同体の責務ある管理の仕事 — [第九章 §6 貢献の帰結は第二](../../core_11_standing_integration.md#6-contribution-consequences-second) が平等な標準で認められることを求める — について、検証座席は、**記録に依拠する公表された権限を持ついかなる利害のない事務所**によって満たされる。通例はそれを用いる機関である：流域評議会、資金または継続の機関、**CI-22**（《コモンズ、協同組合、相互扶助、および非市場の共同体統治》）の記録承認事務所、またはフォーラム。検証する機関の形式によって満たされない。そのような記録では：
+**非公式で小さな範囲の記録。** 職務の分離は、形式ではなく実質的利害に応じて尺度を合わせる（[第一章 §10.2 職務の分離](core_01_c_stewardship_capacity_principles.md)）。無給、仲間組織、相互扶助、世話、維持、修理、教育、および共同体の責務ある管理の仕事 — [第九章 §6 貢献の帰結は第二](../../core_11_standing_integration.md#6-contribution-consequences-second) が平等な標準で認められることを求める — について、検証座席は、**記録に依拠する公表された権限を持ついかなる利害のない事務所**によって満たされる。通例はそれを用いる機関である：流域評議会、資金または継続の機関、**CI-22**（《コモンズ、協同組合、相互扶助、および非市場の共同体統治》）の記録承認事務所、またはフォーラム。検証する機関の形式によって満たされない。そのような記録では：
 
 - 参加者は対象であり、承認を求めるところでは申立人である；**第 3.3 節**のもとでの集団記録では、各共同参加者は申立人であり、したがってある成員の別の成員の分け前についての陳述は入力であり、決して検証ではない；
 - 受益者、隣人、および他の非参加者は、**第 3.1 節**のもとでの検証資料として証明を供給する；集団自身のログを保った感知者は、下の *記録者の陳述は入力である* のもとでの記録者かつ証人である；
@@ -449,7 +451,7 @@
 
 <a id="371-named-record-opening-authority"></a>
 
-**指名された記録開設当局。** すべての軌跡記録は、**記録開設当局**によって開かれ、訂正され、失効され、または後継される：第二章から第四章のもとで事実基盤を検証し記録を入力する権限が、行為する前に公表されている役割、事務所、フォーラム、または機関。記録が [チャーター](core_05_band_continuity.md#charter) を保つシステム、制度、または事業に関するとき、そのチャーターは、チャーターされた範囲に関する記録についての記録開設当局と記録保管者を名指すか、それらを名指す公表された文書を指す（**CI-3.6**（《チャーターの内容、審査、形成ひな型》））。フォーラムは **第 3.6 節** の条件で記録開設当局として行為する；記録を検証したフォーラムは、その記録の異議を聴かない。異議は [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) および **CF-6**（《上訴、二次審査、および尽尽経路》）のもとでの二次審査へ行く。チャーターもフォーラム指定も記録に届かないところでは、上の *チャーターが沈黙するときの予備* が適用され、[第十五章](../../core_17_amendment_ratification.md) のもとでの採択文書または軌跡の鎖を運用する機関の公表規則が、その後に一つを名指さなければならない。指名された当局なしに行われた記入は**暫定**と印される：それは **第 2.1 節** のもとで証拠と通知を保存するが、指名された当局がそれを確認し、訂正し、または脇へ置くまで、**第 3.1 節** のもとでの検証済み入力も第九章の効果も供給しない。
+**指名された記録開設当局。** すべての軌跡記録は、**記録開設当局**によって開かれ、訂正され、失効され、または後継される：第二章から第四章のもとで事実基盤を検証し記録を入力する権限が、行為する前に公表されている役割、事務所、フォーラム、または機関。記録が [チャーター](../../core_05.040_band_continuity.md) を保つシステム、制度、または事業に関するとき、そのチャーターは、チャーターされた範囲に関する記録についての記録開設当局と記録保管者を名指すか、それらを名指す公表された文書を指す（**CI-3.6**（《チャーターの内容、審査、形成ひな型》））。フォーラムは **第 3.6 節** の条件で記録開設当局として行為する；記録を検証したフォーラムは、その記録の異議を聴かない。異議は [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) および **CF-6**（《上訴、二次審査、および尽尽経路》）のもとでの二次審査へ行く。チャーターもフォーラム指定も記録に届かないところでは、上の *チャーターが沈黙するときの予備* が適用され、[第十五章](../../core_17_amendment_ratification.md) のもとでの採択文書または軌跡の鎖を運用する機関の公表規則が、その後に一つを名指さなければならない。指名された当局なしに行われた記入は**暫定**と印される：それは **第 2.1 節** のもとで証拠と通知を保存するが、指名された当局がそれを確認し、訂正し、または脇へ置くまで、**第 3.1 節** のもとでの検証済み入力も第九章の効果も供給しない。
 
 <a id="372-record-custodian"></a>
 
@@ -457,7 +459,7 @@
 
 <a id="373-no-self-custody"></a>
 
-**自己保管の禁止。** 次は、ある記録についての記録開設当局または記録保管者として行為してはならない：記録の対象；記録が関する貢献を主張し、または違反を申し立てる当事者；およびそれらの当事者を実質的に支配し、またはそれらに実質的に支配される権限線上のいかなる事務所。対象の内側で臨界システムの責務ある管理または実質的運用権限を行使する責務ある管理者は、[第九章 §5.4](../../core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) および [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) のもとでのすべての義務を保つ — 制御するものを止め、再構成可能な集合を記録し、保つ証拠を保全し、通知し、段階引き上げする — そしてそれらの行為のいずれも事実の検証でも記録の入力でもない。通常の記録開設当局そのものが対象であるか、その支配線に座るとき、記録は独立検証へ経路づけられる：**第 3.6 節** のもとでのフォーラム、**CF-9.6**（《自己調査の禁止》）のもとでの独立調査サービス、または公表された権限を持つあらかじめ指定された予備機関のうち、チャーターまたは指定が最初に名指すもの。そのような経路の不在は、責務ある管理者がログに名指さなければならない隙間であり、自ら記録を入力する理由ではない。本規則は記録への利害によって当事者を排除する；上の *職務の分離* は機能によって座席を分ける。両方適用され、より狭い答えが統治する。
+**自己保管の禁止。** 次は、ある記録についての記録開設当局または記録保管者として行為してはならない：記録の対象；記録が関する貢献を主張し、または違反を申し立てる当事者；およびそれらの当事者を実質的に支配し、またはそれらに実質的に支配される権限線上のいかなる事務所。対象の内側で臨界システムの責務ある管理または実質的運用権限を行使する責務ある管理者は、[第九章 §5.4](../../core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) および [CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) のもとでのすべての義務を保つ — 制御するものを止め、再構成可能な集合を記録し、保つ証拠を保全し、通知し、段階引き上げする — そしてそれらの行為のいずれも事実の検証でも記録の入力でもない。通常の記録開設当局そのものが対象であるか、その支配線に座るとき、記録は独立検証へ経路づけられる：**第 3.6 節** のもとでのフォーラム、**CF-9.6**（《自己調査の禁止》）のもとでの独立調査サービス、または公表された権限を持つあらかじめ指定された予備機関のうち、チャーターまたは指定が最初に名指すもの。そのような経路の不在は、責務ある管理者がログに名指さなければならない隙間であり、自ら記録を入力する理由ではない。本規則は記録への利害によって当事者を排除する；上の *職務の分離* は機能によって座席を分ける。両方適用され、より狭い答えが統治する。
 
 <a id="37-conflicted-custodian-on-a-single-record"></a>
 
@@ -467,7 +469,7 @@
 
 **記録者の陳述は入力である。** 記録を開き、検証し、または以前に保った感知者または事務所の後の陳述 — 主張された貢献、申し立てられた欠落、または異議を支え、または反駁する — は、**第 3.1 節** のもとでの検証資料として記録に入り、他の入力と同じ検証済み入力の門を通る。先行する記録者は記録の証人であり、その判定者ではない。その支えはそれ自体では貢献を検証せず、その反駁はそれ自体では一つを反証せず、対象または異議者との合意はそれ自体では何も決着しない。その利用可能性または不可能性は、記録を凍結も完成もしない：先行する記録者に到達できないところでは、記録はそう述べ、残る検証済み資料のうえで進む。
 
-記録者の陳述がどれほど重いかは、検証座席についての第二章から第四章の問いであり、保管の問いではない。検証者は、反対の示しがない限り [誠実](core_05_band_accountability.md#good-faith) で提出されたものとして読むが、誠実は率直さに行き、正確さには行かない；正確さは [第四章 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) のもとでの裏付けによって確立される。同時期のログ、先行する版、監査、または独立検証と一致する陳述は、それらの資料の重みを運ぶ。単独で立つ陳述は証明であり、それ自体では負担を運ばない。申立人、対象、異議者、またはその支配線上の事務所からの陳述は、その目的では自己証明である。陳述が記録がなぜそのままであったかを説明するところでは — 先行する記録者が、項目が検証されていなかったから省かれたと言うときのように — それはそのときの記録の状態と、当時未検証であったことの証拠である；省かれた事実がその後検証されたかを決めない。検証座席は現在の資料のうえでそれに答える。
+記録者の陳述がどれほど重いかは、検証座席についての第二章から第四章の問いであり、保管の問いではない。検証者は、反対の示しがない限り [誠実](../../core_05.035_band_accountability.md#good-faith) で提出されたものとして読むが、誠実は率直さに行き、正確さには行かない；正確さは [第四章 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) のもとでの裏付けによって確立される。同時期のログ、先行する版、監査、または独立検証と一致する陳述は、それらの資料の重みを運ぶ。単独で立つ陳述は証明であり、それ自体では負担を運ばない。申立人、対象、異議者、またはその支配線上の事務所からの陳述は、その目的では自己証明である。陳述が記録がなぜそのままであったかを説明するところでは — 先行する記録者が、項目が検証されていなかったから省かれたと言うときのように — それはそのときの記録の状態と、当時未検証であったことの証拠である；省かれた事実がその後検証されたかを決めない。検証座席は現在の資料のうえでそれに答える。
 
 <a id="375-attributed-entry"></a>
 
@@ -475,11 +477,11 @@
 
 <a id="37-challenge-received-on-the-record"></a>
 
-**記録上で受け取られた異議。** [争訟可能性](core_05_band_accountability.md#contestability) はフォーラムで始まらない。影響を受ける側が記録、版、またはそれから主張される効果を争うとき — 保管者へ、記録開設当局へ、または制度のいかなる事務所へ — 保管者は、受け取られた瞬間に上の *帰属された記入* のもとで異議を記録に載せ、**第 3.1 節** のもとでの審査地位を *異議中* に設定し、対象と申立人に通知し、異議座席へ経路づける：**CI-3.2**（《機能分離レーン》）のもとで異議と審査レーンを保つ事務所、または **第 3.6 節** および [第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests)（《軌跡記録への異議》）のもとでの権限あるフォーラムのうち、記録の公表された異議の経路が名指すもの。その公表された経路は、[紛争の順序付け](core_11_forum.md#dispute-sequencing) のもとでの通常の第一歩である；その経路がなお争われ、欠け、捕捉され、または必要な救済を与えられないとき、権限あるフォーラムは利用可能なままである。保管者と当局は異議を決めない。*異議中* は地位であり、停止ではない：記録は点検可能なままであり、先行する版はその場にとどまり、争われた版への第九章の効果の依拠は、異議座席またはフォーラムがそう命じるところでだけ休む。異議は訂正の請求ではなく、訂正を凍結しない：異議者の説明は、申立人の説明と同様、*記録者の陳述は入力である* および **第 3.1 節** のもとでの検証への入力であり、決して検証ではなく、いかなる当事者も、未了の異議を、記録開設当局が他に検証した版を入力する理由、または入力を拒む理由として扱ってはならない。[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) および [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) のもとでの段階の時計は、受領から走る。異議座席が名指されないために経路づけられない異議は、記録に載せられ **第 3.6 節** のもとで監督フォーラムへ経路づけられる **CI-3.6** 欄 11 の欠陥である；会場がないために閉じられず、その理由で閉じることは [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) および **第 2.3.2 節**（《説明責任の妨害》）のもとでの妨害である。
+**記録上で受け取られた異議。** [争訟可能性](../../core_05.035_band_accountability.md#contestability) はフォーラムで始まらない。影響を受ける側が記録、版、またはそれから主張される効果を争うとき — 保管者へ、記録開設当局へ、または制度のいかなる事務所へ — 保管者は、受け取られた瞬間に上の *帰属された記入* のもとで異議を記録に載せ、**第 3.1 節** のもとでの審査地位を *異議中* に設定し、対象と申立人に通知し、異議座席へ経路づける：**CI-3.2**（《機能分離レーン》）のもとで異議と審査レーンを保つ事務所、または **第 3.6 節** および [第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests)（《軌跡記録への異議》）のもとでの権限あるフォーラムのうち、記録の公表された異議の経路が名指すもの。その公表された経路は、[紛争の順序付け](core_11_forum.md#dispute-sequencing) のもとでの通常の第一歩である；その経路がなお争われ、欠け、捕捉され、または必要な救済を与えられないとき、権限あるフォーラムは利用可能なままである。保管者と当局は異議を決めない。*異議中* は地位であり、停止ではない：記録は点検可能なままであり、先行する版はその場にとどまり、争われた版への第九章の効果の依拠は、異議座席またはフォーラムがそう命じるところでだけ休む。異議は訂正の請求ではなく、訂正を凍結しない：異議者の説明は、申立人の説明と同様、*記録者の陳述は入力である* および **第 3.1 節** のもとでの検証への入力であり、決して検証ではなく、いかなる当事者も、未了の異議を、記録開設当局が他に検証した版を入力する理由、または入力を拒む理由として扱ってはならない。[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) および [Article XXV-C](core_06_rights_part_d.md) のもとでの段階の時計は、受領から走る。異議座席が名指されないために経路づけられない異議は、記録に載せられ **第 3.6 節** のもとで監督フォーラムへ経路づけられる **CI-3.6** 欄 11 の欠陥である；会場がないために閉じられず、その理由で閉じることは [Article XIII-B](core_06_rights_part_c.md) および **第 2.3.2 節**（《説明責任の妨害》）のもとでの妨害である。
 
 <a id="376-custody-is-not-delay"></a>
 
-**保管は遅れではなく、保管は所有ではない。** 保管の問いは、待つことではなく、指名されたまたは独立の当局への経路づけによって答えられる。いかなる当事者も、保管の紛争、到達不能な先行記録者、または無名の当局を用いて、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) および [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（《適時の解決と遅延防止の床》）のもとでの段階の時計を超えて、記録を開いたまま、閉じたまま、または未訂正のまま保ってはならない。記録を保つことは、問い 2 の測定較正、第九章の軌跡効果、または対象についての権限を与えない；効果を適用し、異議の経路を差し控え、または対象の協力に入力を条件づける保管者は、それ自体 **第 2.3.2 節**（《説明責任の妨害》）のもとでの別の違反軌跡記録の対象である。
+**保管は遅れではなく、保管は所有ではない。** 保管の問いは、待つことではなく、指名されたまたは独立の当局への経路づけによって答えられる。いかなる当事者も、保管の紛争、到達不能な先行記録者、または無名の当局を用いて、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) および [Article XXV-C](core_06_rights_part_d.md)（《適時の解決と遅延防止の床》）のもとでの段階の時計を超えて、記録を開いたまま、閉じたまま、または未訂正のまま保ってはならない。記録を保つことは、問い 2 の測定較正、第九章の軌跡効果、または対象についての権限を与えない；効果を適用し、異議の経路を差し控え、または対象の協力に入力を条件づける保管者は、それ自体 **第 2.3.2 節**（《説明責任の妨害》）のもとでの別の違反軌跡記録の対象である。
 
 <a id="4-standing-measurement-evaluation-dimensions"></a>
 <a id="4-classification-evaluation-dimensions"></a>
@@ -511,7 +513,7 @@
 
 **一生等価の憲法上の便益**は、一人の感知者の生涯全体の、非瑣末で権利と整合する福祉を保全し、復元し、または解放することに比肩する検証済み便益を意味する。**一生等価の憲法上の損失**は、一生等価の憲法上の便益を破壊し、不正に消費し、または防ぐことに比肩する、検証済みの危害、浪費、破壊、閉鎖、剥奪、またはリスクの実現を意味する。**寿命等価単位**（**LEQU**）は、採択された実施が数値較正を必要とするときの、その一生等価の憲法上の便益または損失の略単位である。単位は基体に中立である。現在の採択者は、生物学的人間の文脈についての較正例として通常の人間の寿命を用いてよいが、拘束力ある基準は感知者かつ憲法上のものであり、種に縛られない。
 
-**感知性地位の橋（Article V-E とあわせて読む）。** 軌跡測定は、実体が**感知者**であるかを**決めない**。地位の紛争は [感知性地位の裁定](core_05_band_participation.md#sentience-status-adjudication-constitutional) および [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)（《感知性地位の裁定の床》）へ経路づけられ、LEQU 得点または分類記録へではない。地位が [争われる感知者の生命](core_05_band_participation.md#contested-sentient-life-constitutional) のもとで生きて争われているあいだ、Article V-E の既定包摂は、裁定待ちの軌跡測定適格と軌跡記録提出能力を保存する — 運用者は、未解決の地位だけを軌跡不適格として扱ってはならない。肯定された [感知者](core_05_band_participation.md#sentient) 地位、または裁定後の審査可能な狭窄または復元は、これから先の軌跡記録の対象同一性を更新する；不正な排除は、[是正と修復](core_05_band_accountability.md#redress-and-remediation-constitutional) なしに、中間の軌跡測定適格を消すために遡及してはならない。
+**感知性地位の橋（Article V-E とあわせて読む）。** 軌跡測定は、実体が**感知者**であるかを**決めない**。地位の紛争は [感知性地位の裁定](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) および [Article V-E](core_06_rights_part_b.md)（《感知性地位の裁定の床》）へ経路づけられ、LEQU 得点または分類記録へではない。地位が [争われる感知者の生命](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) のもとで生きて争われているあいだ、Article V-E の既定包摂は、裁定待ちの軌跡測定適格と軌跡記録提出能力を保存する — 運用者は、未解決の地位だけを軌跡不適格として扱ってはならない。肯定された [感知者](../../core_05.055_band_participation.md#sentient) 地位、または裁定後の審査可能な狭窄または復元は、これから先の軌跡記録の対象同一性を更新する；不正な排除は、[是正と修復](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) なしに、中間の軌跡測定適格を消すために遡及してはならない。
 
 **LEQU を用いるうえでの重要な限度：**
 
@@ -557,7 +559,7 @@
 - 外部化された危害または隠された負担は、争われる指名された経路に帰属される便益を上限し、または失格する；
 - 検証済み捕捉リスク、構造的依存、または退出／囲い込みの設計は、責務ある管理に積極的な信用を限る；
 - 検証済みのアクセス可能性または参加障壁の修復は、実質性を増し、**第 4.3 節** のもとでの **アクセスと包摂** 便益経路記述子を支えてよい；および
-- 憲法上不整合な誘因構造、反憲法的行為、または実質的に欠陥ある過程を通じて得られた実質的報酬は、既定では数えうる便益ではない。[第九章 §5.4](../../core_11_standing_integration.md#54-special-violation-rules) および [Article XXVII-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) の移行限度を適用せよ。
+- 憲法上不整合な誘因構造、反憲法的行為、または実質的に欠陥ある過程を通じて得られた実質的報酬は、既定では数えうる便益ではない。[第九章 §5.4](../../core_11_standing_integration.md#54-special-violation-rules) および [Article XXVII-A](core_06_rights_part_d.md) の移行限度を適用せよ。
 
 **問い 2 の産出（貢献軌跡記録に記録する；軌跡効果ではない）：**
 
@@ -589,10 +591,10 @@
 - **説明責任の妨害** — 証拠の誠実性、検証、フォーラム過程、軌跡記録、救済の時計、または異議と是正の経路などの答える仕組みへの検証済み干渉 — は、別に記録される行為の性格事実のままである；複合された指名された経路の損失は LEQU 見積もりに一度入り、妨害ラベルそのものは影響の箱を動かさない；
 - 欺瞞、隠蔽、回避、通知後の反復、無謀な無視、構造的可能化、または実質的な依存非対称の濫用は、別に記録される行為の性格事実のままである；
 - 暴力、強制、操作、または自由の危険は別に記録されたままであり、箱にかかわらず高められた保障を求めてよい；
-- [残虐](core_05_band_accountability.md#cruelty) — それ自体を目的とする検証済みの苦しみ、または必要性と比例性を超える無益な、または貶める加虐 — は、別に記録される行為の性格事実のままである；[第九章 §4](../../core_11_standing_integration.md#4-violation-correction-and-prevention) のもとで高められた保障と非貶めの救済制約を求めてよく、影響の箱を動かさない；
+- [残虐](../../core_05.035_band_accountability.md#cruelty) — それ自体を目的とする検証済みの苦しみ、または必要性と比例性を超える無益な、または貶める加虐 — は、別に記録される行為の性格事実のままである；[第九章 §4](../../core_11_standing_integration.md#4-violation-correction-and-prevention) のもとで高められた保障と非貶めの救済制約を求めてよく、影響の箱を動かさない；
 - 拡散は、分配された因果的役割、権限、制御、予見可能性、便益、隠蔽、または実行可能な予防能力に関わる；それは **感知者の範囲** の一部ではなく、集団所属による非難を許さない；
 - 黙従する参加または抵抗の失敗は、**第 3.1 節および第 3.3 節** が求める行為者固有の結びつきが検証されるときにのみ、義務に基づく、加重された、または集団説明責任の性格を支えてよい；および
-- 適時の保護された報告なしに実質的な不整合報酬を知りつつ受け入れ、または保持することは、[第九章 §5.4](../../core_11_standing_integration.md#54-special-violation-rules) のもとで記録され、[Article XXVII-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) に服する；その検証済み憲法上の損失のみが箱に影響する。
+- 適時の保護された報告なしに実質的な不整合報酬を知りつつ受け入れ、または保持することは、[第九章 §5.4](../../core_11_standing_integration.md#54-special-violation-rules) のもとで記録され、[Article XXVII-A](core_06_rights_part_d.md) に服する；その検証済み憲法上の損失のみが箱に影響する。
 
 **不整合報酬の境界。** 本章は、検証済みの不整合報酬が貢献軸または違反軸にどう影響するかを測るだけである。[第九章 §5.4](../../core_11_standing_integration.md#54-special-violation-rules) は、報告義務、除外、没収の帰結、訂正義務、経路づけ規則を述べる。
 
@@ -679,7 +681,7 @@
 | **欺瞞／隠蔽／回避** | **§4.2** における違反の行為の性格の適用 | [第九章 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 隠蔽／回避の段階引き上げロック |
 | **説明責任の妨害** | **§4.2** における違反の行為の性格の適用および **§4.4** の **説明責任妨害の不正行為** | [第九章 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) および [§5.4](../../core_11_standing_integration.md#54-special-violation-rules) — 指名された経路に有界なロック；[第九章 §10.13](../../core_11_standing_integration.md#1013-obstruction-of-accountability)（*問い 3 のパターン*）；第十章の指定は [第九章 §10.8](../../core_11_standing_integration.md#108-anti-constitutional-misconduct-allegation) のもとでの反憲法的不正行為審査の門を通じてのみ |
 | **暴力／強制／自由の危険** | **§4.2** における違反の行為の性格の適用および **§4.4** の **暴力的不正行為** | [第九章 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 保護および保障ロック |
-| **残虐** | **§4.2** における違反の行為の性格の適用；[残虐](core_05_band_accountability.md#cruelty) | [第九章 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 保護および保障ロック；[第九章 §4.3](../../core_11_standing_integration.md#43-voluntary-public-accountability-expression) — 用いられるところでの非貶めの修復的表現 |
+| **残虐** | **§4.2** における違反の行為の性格の適用；[残虐](../../core_05.035_band_accountability.md#cruelty) | [第九章 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 保護および保障ロック；[第九章 §4.3](../../core_11_standing_integration.md#43-voluntary-public-accountability-expression) — 用いられるところでの非貶めの修復的表現 |
 | **持続／パターン／通知後の再発** | **§4.2** における違反の行為の性格の適用 | [第九章 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — 再発‐持続ロック |
 | **フォーラム誠実性の損傷** | **§4.2** における違反の行為の性格の適用 | [第九章 §5.5](../../core_11_standing_integration.md#55-special-locks) — フォーラム誠実性の軌跡ロック効果 |
 | **責任または制御の拡散** | **§4.2** における違反の行為の性格の適用；**§§3.1 および 3.3** のもとでの行為者固有の結びつき | [第九章 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) — より広い指名された経路の範囲または制度的乗り物の考慮 |
@@ -800,12 +802,12 @@
 
 <a id="51-standard-contribution-measures"></a>
 
-**標準貢献測定。** 採択された実施はまた、**標準貢献測定**を公表してよい：定義された範囲での定義された反復仕事の検証済み遂行についての、既定の問い 2 見積もり — LEQU、範囲、便益経路記述子 — たとえば述べられた区間に沿ったごみ拾い、水路復元の仕事単位、土地回復区画、または維持の輪番。標準は、[第一章 §2.2](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)（《承認、強化、志向》）のもとで、毎回の事例に特注の見積もりなしに、日常の責務ある管理を読み取り可能で繰り返す価値あるものにする。標準は **第 3.5 節** のもとでの測定補助であり、かつ：
+**標準貢献測定。** 採択された実施はまた、**標準貢献測定**を公表してよい：定義された範囲での定義された反復仕事の検証済み遂行についての、既定の問い 2 見積もり — LEQU、範囲、便益経路記述子 — たとえば述べられた区間に沿ったごみ拾い、水路復元の仕事単位、土地回復区画、または維持の輪番。標準は、[第一章 §2.2](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)（《承認、強化、志向》）のもとで、毎回の事例に特注の見積もりなしに、日常の責務ある管理を読み取り可能で繰り返す価値あるものにする。標準は **第 3.5 節** のもとでの測定補助であり、かつ：
 
 - 問い 1 を通じて **第 3.7 節** のもとで検証された仕事にのみ適用される；標準は、仕事が述べられた範囲で、名指された対象によって行われたことの検証の代わりには決してならない；
 - それは**標準遂行の床であり、上限ではない**：検証済み影響が標準の仮定影響を超える仕事 — より良い方法、より耐久する結果、より少ない外部化負担、より広いまたは深い便益 — は **第 5.2 節** のもとで実際の検証済み影響で測られ、したがって標準より良く仕事をする誘因は生きたままである；標準の仮定範囲または耐久を検証可能に下回る仕事は、ラベルではなく検証されたもので測られる；
 - それは**公表された周期で再訪され、効率が改善するにつれて再基準化される**ので、標準は昨日の努力を今日の信用として凍結するのではなく、仕事がいまどれほど費用をかけ産出するかを追跡する；改訂はこれから先に適用され、すでに開かれた記録は、記録されたときに基盤が誤っていなかった限り **第 3.4 節** のもとで測定基盤を保つ；
-- 改訂は証拠に基づき、公表され、争訟可能でなければならず、仕事の類、共同体、または集団の承認を抑えるため、またはそれが依拠する検証済み効率利得より速く標準を下げるために用いられてはならない（[第一章 §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)）；
+- 改訂は証拠に基づき、公表され、争訟可能でなければならず、仕事の類、共同体、または集団の承認を抑えるため、またはそれが依拠する検証済み効率利得より速く標準を下げるために用いられてはならない（[第一章 §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)）；
 - 標準は割当を作らず、遂行義務を作らず、[第九章 §6.2](../../core_11_standing_integration.md#62-competency-bars-and-clearances) のもとでの能力の閾を作らない；**第 2.1 節** *沈黙が既定である* が統治し、標準仕事を決して遂行しない感知者は、その理由では記録を持たない；
 - 標準を設定または改訂する事務所は、**第 3.7 節** *職務の分離* のもとでの方向と政策の座席を保つ；それは標準に対して遂行を検証する事務所ではなく、標準が測る承認の当事者でもない。
 
@@ -860,14 +862,14 @@
 
 | 典範源 | 貢献軸の役割 | 違反軸の役割 |
 | --- | --- | --- |
-| [軌跡状態、貢献、違反](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster) | 貢献の性質、検証済み入力、軸純粋な軌跡記録についての共同定義界面を供給する。 | 違反の性質、軌跡記録、反憲法的不正行為審査の経路づけについての共同定義界面を供給する。 |
+| [軌跡状態、貢献、違反](../../core_05.035_band_accountability.md#standing-state-contribution-and-violation-cluster) | 貢献の性質、検証済み入力、軸純粋な軌跡記録についての共同定義界面を供給する。 | 違反の性質、軌跡記録、反憲法的不正行為審査の経路づけについての共同定義界面を供給する。 |
 | [説明責任](core_05_apex_accountability_leg.md#accountability) | 主張された責務ある管理または修復が、帰属、答えること、審査、是正、訂正を影響に比例して保つかを試す。 | 帰属と答えることの失敗を識別する。責任が組織または形式構造の変化を通じて機能したままかを含む。 |
-| [危害](core_05_band_accountability.md#harm) | 外部化されたまたは隠された危害は、主張された便益を上限し、または失格してよい；危害の検証済み修復は、独立に示されるとき便益を支えてよい。 | 損失と重大さの測定に入る、直接、間接、遅延、累積、システム横断、心理的に媒介された不利な効果を定義する。 |
-| [実質性の決定](core_05_band_oversight.md#materiality-determination) および [寿命等価単位（LEQU）](core_05_band_participation.md#lifespan-equivalent-unit-lequ) | 検証済み便益、範囲、脆弱性、持続、および適用される LEQU 較正を尺度合わせする。 | 検証済み損失、危険、範囲、脆弱性、持続、不可逆、および適用される LEQU 較正を尺度合わせする。 |
-| [貢献の性質](core_05_band_accountability.md#contribution-nature) | 貢献軸の割当に求められる、積極のみの分類と示しうる検証済み貢献記録の基盤を供給する。 | 不利な認定を分類せず、違反の重大さを減らさない。 |
-| [違反の性質](core_05_band_accountability.md#violation-nature-chapter-six) | 否定的貢献にならず、無関係な検証済み便益を消さない。 | 違反軸の割当に求められる、不利な分類と検証済み違反認定の基盤を供給する。 |
+| [危害](../../core_05.035_band_accountability.md#harm) | 外部化されたまたは隠された危害は、主張された便益を上限し、または失格してよい；危害の検証済み修復は、独立に示されるとき便益を支えてよい。 | 損失と重大さの測定に入る、直接、間接、遅延、累積、システム横断、心理的に媒介された不利な効果を定義する。 |
+| [実質性の決定](core_05_band_oversight.md#materiality-determination) および [寿命等価単位（LEQU）](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) | 検証済み便益、範囲、脆弱性、持続、および適用される LEQU 較正を尺度合わせする。 | 検証済み損失、危険、範囲、脆弱性、持続、不可逆、および適用される LEQU 較正を尺度合わせする。 |
+| [貢献の性質](../../core_05.035_band_accountability.md#contribution-nature) | 貢献軸の割当に求められる、積極のみの分類と示しうる検証済み貢献記録の基盤を供給する。 | 不利な認定を分類せず、違反の重大さを減らさない。 |
+| [違反の性質](../../core_05.035_band_accountability.md#violation-nature-chapter-six) | 否定的貢献にならず、無関係な検証済み便益を消さない。 | 違反軸の割当に求められる、不利な分類と検証済み違反認定の基盤を供給する。 |
 | [憲法上の制約](core_05_band_integrative.md#constitutional-constraint)、[権限スタックと内部階層](core_05_band_integrative.md#authority-stack)、および [監査可能性](core_05_band_oversight.md#auditability) | 主張された便益が憲法上の打ち負け、回避、狭窄された権利の床、または紙だけの遵守に依ることを防ぐ。 | 実質的重大さに関連する、実質的制約、最高性効果、回避防止、または執行可能性の打ち負けを識別する。 |
-| [監査可能性](core_05_band_oversight.md#auditability) および [争訟可能性](core_05_band_accountability.md#contestability) | 示しうる、審査可能な便益と機能する異議の経路を求める。 | 監査可能で争訟可能な認定を求め、申立てまたは不透明なラベルが重大さを供給することを防ぐ。 |
+| [監査可能性](core_05_band_oversight.md#auditability) および [争訟可能性](../../core_05.035_band_accountability.md#contestability) | 示しうる、審査可能な便益と機能する異議の経路を求める。 | 監査可能で争訟可能な認定を求め、申立てまたは不透明なラベルが重大さを供給することを防ぐ。 |
 
 <a id="62-principle-inputs"></a>
 
@@ -876,10 +878,10 @@
 | 原則源 | 軸割当の役割 |
 | --- | --- |
 | [憲法四元](core_00_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、および [実質的利害](core_00_preamble.md#material-stake) | 参加、監督、説明責任、適時性の規律；繁栄と継続の成果；およびすべての割当の尺度合わせの枠を確立する。 |
-| [福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing) および [承認、強化、志向](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) | 名声または報酬を貢献の証明に変えずに、貢献軸上の権利と整合する便益と比例的承認を基礎づける。 |
-| [安全](core_01_a_values_principles.md#31-safety-harm-constraint) および [真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) | 両軸を縛る：危害または欺瞞を通じて産出された便益は完全には数えられず、検証済みの安全または真理の打ち負けは不利な大きさまたは性格を確立してよい。 |
-| [責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) および [責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) | 検証済み事実がそれらの原則を引き起こすところで、耐久する貢献、役割に結びついた義務、制度修復、監督、責任に知らせる。 |
-| [中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) および [憲法の床、安全、過程性格の制約](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) | 測られる行為が必要性、危害最小化、比例性、権利の衝突、または制限を呼び出すところで適用される；それらは独立に帰結を認可しない。 |
+| [福祉](core_01_a_values_principles.md) および [承認、強化、志向](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration) | 名声または報酬を貢献の証明に変えずに、貢献軸上の権利と整合する便益と比例的承認を基礎づける。 |
+| [安全](core_01_a_values_principles.md#4-safety-harm-constraint) および [真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) | 両軸を縛る：危害または欺瞞を通じて産出された便益は完全には数えられず、検証済みの安全または真理の打ち負けは不利な大きさまたは性格を確立してよい。 |
+| [責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md) および [責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) | 検証済み事実がそれらの原則を引き起こすところで、耐久する貢献、役割に結びついた義務、制度修復、監督、責任に知らせる。 |
+| [中核の取引原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) および [憲法の床、安全、過程性格の制約](core_01_b_interaction_interpretation.md) | 測られる行為が必要性、危害最小化、比例性、権利の衝突、または制限を呼び出すところで適用される；それらは独立に帰結を認可しない。 |
 
 <a id="63-rights-floor-and-article-inputs"></a>
 
@@ -888,10 +890,10 @@
 | 条源 | 軸割当の役割または境界 |
 | --- | --- |
 | 事実上適用される [第六章 権利の床](core_06_rights_part_a.md#chapter-six-foundational-rights)。検証済み記録が実質的に関わるすべての条を含む | 実質の床、保護される利害、義務、便益、または違反を確立する。下に別に列挙されないからといって、いかなる条も排除されない。 |
-| [Article XIX — 軌跡と参加地位](core_06_rights_part_c.md#article-xix-standing-and-participation-status) | 軌跡、尊厳、権利の床の最小、影響を受ける側の地位、評判、および後の参加地位の効果の区別を保存する。 |
-| [Article XIII-B — 異議、審査、救済への権利](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)、[Article XV-B — 透明性、監査可能性、争訟可能性](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability)、および [Article XVI — 監査、透明性、独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) | 記録の誠実性、開示、検証、異議アクセス、または訂正が検証済み便益または違反の一部であるところで適用される。 |
-| [Article XXII — 根本原因の診断と適応応答](core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response) | 因果帰属、訂正、再発、または適応応答が、検証済み行為とその憲法上の性格に実質的であるところで適用される。 |
-| [Article XXIV — 衝突解決、段階引き上げ、緊急の比例性](core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality) および [Article XXV-C — 適時の解決と遅延防止の床](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) | 事実上関わるいかなる過程または遅れにも適用される。Article XXIV は主に問い 3 の帰結を制約し、好ましい応答を正当化するためだけに問い 2 の箱を上げ下げするために用いられてはならない。 |
+| [Article XIX — 軌跡と参加地位](core_06_rights_part_c.md) | 軌跡、尊厳、権利の床の最小、影響を受ける側の地位、評判、および後の参加地位の効果の区別を保存する。 |
+| [Article XIII-B — 異議、審査、救済への権利](core_06_rights_part_c.md)、[Article XV-B — 透明性、監査可能性、争訟可能性](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability)、および [Article XVI — 監査、透明性、独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) | 記録の誠実性、開示、検証、異議アクセス、または訂正が検証済み便益または違反の一部であるところで適用される。 |
+| [Article XXII — 根本原因の診断と適応応答](core_06_rights_part_c.md) | 因果帰属、訂正、再発、または適応応答が、検証済み行為とその憲法上の性格に実質的であるところで適用される。 |
+| [Article XXIV — 衝突解決、段階引き上げ、緊急の比例性](core_06_rights_part_d.md) および [Article XXV-C — 適時の解決と遅延防止の床](core_06_rights_part_d.md) | 事実上関わるいかなる過程または遅れにも適用される。Article XXIV は主に問い 3 の帰結を制約し、好ましい応答を正当化するためだけに問い 2 の箱を上げ下げするために用いられてはならない。 |
 
 **適用の限度。** この経路づけの段階は、問い 1 を再開せず、未検証の事実を認めず、測定次元または得点を加えず、一つの事実をいくつかの源を通じて二重に数えず、軸を融合せず、列挙されたすべての源をすべての記録に適用可能にしない。貢献と違反は別に測られたままである。Article XXIV の帰結は問い 2 の外に残る。第十章の指定審査は、ここで割り当てられた影響の箱から分かれたままである。
 

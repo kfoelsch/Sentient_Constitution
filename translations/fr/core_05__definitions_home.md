@@ -138,7 +138,7 @@ Ce répertoire énumère **Définitions A-Z** et **Groupes A-Z** séparément. C
 - [Exigence de capacité](../../core_05.050_band_oversight.md#capability-requirement)
 - [Capture des voies de résolution](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [Défaillance en cascade](../../core_05.040_band_continuity.md#cascading-failure)
-- [Charte](../../core_05.040_band_continuity.md#charter)
+- [Charte](../../core_05.040_band_continuity.md)
 - [Gouvernance mise à l’échelle de la classification](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [Contrainte et manipulation](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [Défaillance collective de reddition de comptes](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -405,7 +405,7 @@ Ce répertoire énumère **Définitions A-Z** et **Groupes A-Z** séparément. C
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [enjeu matériel](core_00_preamble.md#material-stake) ; [Préambule §2 Aperçu des mesures](core_00_preamble.md#measurements-overview).
+- En amont : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [enjeu matériel](core_00_preamble.md#material-stake) ; [Préambule §2 Aperçu des mesures](core_00_preamble.md#2-measurements-overview).
 - En aval : orientation constitutionnelle pour toutes les définitions de bande du Chapitre cinq et les groupes dépendants **Def.**
 - Lire avec : les règles méta de [Définitions indépendantes](core_05__definitions_home.md#1-définitions-indépendantes), [§1.1 Invocation, satisfaction et conformité](core_05__definitions_home.md#11-invocation-satisfaction-et-conformité), [§2.1 Invocation conjointe et satisfaction](core_05__definitions_home.md#21-invocation-conjointe-et-satisfaction) et [§2.2 Interaction des définitions autonomes et contexte plein](core_05__definitions_home.md#22-interaction-des-définitions-autonomes-et-contexte-plein) avant d’appliquer tout groupe dépendant.
 
@@ -443,7 +443,7 @@ Les définitions du Chapitre cinq sont ordonnées par les [Deux fins constitutio
 
 > Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce chapitre ni dans d’autres chapitres.
 >
-> Le [Préambule §2](core_00_preamble.md#measurements-overview) énumère sept **catégories de mesure** constitutionnelles — les questions que celles et ceux qui opèrent posent en évaluant des systèmes. Le Chapitre cinq organise les **définitions canoniques** par jambe de la Tétrade, fin de **Continuité** et titularité **Intégrative** de croisement de jambes. Le tableau ci-dessous mappe chaque catégorie de mesure à ses foyers du Chapitre cinq. Une catégorie peut s’étendre sur plus d’un fichier de bande ; les foyers canoniques ne bougent pas lorsque les catégories de mesure se superposent.
+> Le [Préambule §2](core_00_preamble.md#2-measurements-overview) énumère sept **catégories de mesure** constitutionnelles — les questions que celles et ceux qui opèrent posent en évaluant des systèmes. Le Chapitre cinq organise les **définitions canoniques** par jambe de la Tétrade, fin de **Continuité** et titularité **Intégrative** de croisement de jambes. Le tableau ci-dessous mappe chaque catégorie de mesure à ses foyers du Chapitre cinq. Une catégorie peut s’étendre sur plus d’un fichier de bande ; les foyers canoniques ne bougent pas lorsque les catégories de mesure se superposent.
 >
 > La **Matérialité** ([Détermination de matérialité](../../core_05.050_band_oversight.md#materiality)) est Intégrative — une porte-seuil transversale qui met à l’échelle toutes les familles de mesure sous l’[enjeu matériel](core_00_preamble.md#material-stake) ; ce n’est pas une catégorie séparée dans le tableau ci-dessous.
 

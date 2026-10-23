@@ -16,6 +16,7 @@ Python utilities for this repository. Run from the repo root unless noted.
 | `make translation-terminology-audit` | Counts exact locale-glossary forms and emits possible review flags; it does not assess meaning or morphology |
 | `make translation-manifest-init` | Creates an inventory-only manifest snapshot; no file is marked reviewed |
 | `make translation-manifest-sync` | Adds newly mapped translations without resetting existing hashes or review records |
+| `python3 tools/translation_link_repair.py [--locale xx] [--write]` | Repairs local links that the link audit cannot resolve (dry run by default): maps historical English file names to the current files, points each link at the locale's own translation when it has one and at English otherwise, adds `<a id>` anchors above aligned translated headings, and drops a fragment only when its heading no longer exists. It changes link targets and anchor lines only, never translated text. |
 
 After a fluent reader who did not draft the translation has reviewed it against
 English, record that attestation with

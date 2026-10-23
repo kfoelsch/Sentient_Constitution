@@ -10,8 +10,8 @@
 >
 > - **அரசியலமைப்பு உரிமையாளர்:** பொருளளவில் கட்டுப்படுத்தும் செயல்களுக்கான தனித்தனி இருக்கை அடித்தளம்; ஒவ்வொரு [பொருளளவில் கட்டுப்படுத்தும் செயல் பதிவின்](../../core_05_band_accountability.md#materially-binding-act-record) குறைந்தபட்ச உள்ளடக்கம்; செயலைச் செய்பவரிடமிருந்தும் அவரின் [பொருள் கட்டுப்பாட்டுக் கோட்டிலிருந்தும்](../../core_05_band_accountability.md#material-control-line) சுதந்திரம்; வெளியிடப்பட்ட செயல்பாதை மற்றும் பங்கு அமைவிடம்; முரண்பாடு, காலியிடம், மாற்றுப் பொறுப்பு, தவறான இருக்கைக்கான வழிமாற்றம்; விகிதாசாரமான ஒருங்கிணைந்த தங்குமிடம்; பொறுப்பைத் தெளிவுபடுத்தும் ஒப்படைப்புகள்; மேலும் பின்னர் வரும் ஒவ்வொரு அரசியலமைப்பு செயல்முறையும் பின்பற்ற வேண்டிய குறைந்தபட்ச சுதந்திர நிபந்தனைகள்.
 > - **கொள்கை அடுக்கு மூலம்:** [அத்தியாயம் ஒன்று §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) ஆளுகை செயல்பாட்டு சுதந்திரத்தைப் பேண வேண்டும் எனக் கோருகிறது; செயல்பாட்டு இருக்கை அமைப்பை இங்கு வழிமாற்றுகிறது.
-> - **செயலாக்க உரிமையாளர்:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), மற்றும் [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) இருக்கைகளை அமைத்து செயல்படுத்துகின்றன. அவை மேலும் கடுமையாக இருக்கலாம்; வரையறுக்கப்பட்ட சிறப்பு அதிகார இருக்கை வகைகளையும் சேர்க்கலாம்; ஆனால் இந்த அத்தியாயத்தைச் சுருக்க முடியாது.
-> - **செயல்முறை சார்ந்த பயன்பாடு பின்னர் வரும் பகுதிகளில் உள்ளது:** அத்தியாயம் எட்டு இந்த அடித்தளத்தை அமைப்பு ஒத்திசைவு சான்றளிப்பிற்குப் பயன்படுத்துகிறது; [அத்தியாயம் ஒன்பது §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) நிலைப் பதிவுகளுக்குப் பயன்படுத்துகிறது; அத்தியாயம் பன்னிரண்டும் [corpus_forum.md](../../corpus_forum.md) மன்றச் செயல்முறைக்குப் பயன்படுத்துகின்றன. அந்த அத்தியாயங்கள் தங்கள் பொருளுக்குத் தேவையான பாதுகாப்புகளைச் சேர்க்கலாம்; பலவீனமான மாற்றீட்டை உருவாக்க முடியாது.
+> - **செயலாக்க உரிமையாளர்:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), மற்றும் [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) இருக்கைகளை அமைத்து செயல்படுத்துகின்றன. அவை மேலும் கடுமையாக இருக்கலாம்; வரையறுக்கப்பட்ட சிறப்பு அதிகார இருக்கை வகைகளையும் சேர்க்கலாம்; ஆனால் இந்த அத்தியாயத்தைச் சுருக்க முடியாது.
+> - **செயல்முறை சார்ந்த பயன்பாடு பின்னர் வரும் பகுதிகளில் உள்ளது:** அத்தியாயம் எட்டு இந்த அடித்தளத்தை அமைப்பு ஒத்திசைவு சான்றளிப்பிற்குப் பயன்படுத்துகிறது; [அத்தியாயம் ஒன்பது §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) நிலைப் பதிவுகளுக்குப் பயன்படுத்துகிறது; அத்தியாயம் பன்னிரண்டும் [corpus_forum.md](../../corpus_forum.md) மன்றச் செயல்முறைக்குப் பயன்படுத்துகின்றன. அந்த அத்தியாயங்கள் தங்கள் பொருளுக்குத் தேவையான பாதுகாப்புகளைச் சேர்க்கலாம்; பலவீனமான மாற்றீட்டை உருவாக்க முடியாது.
 >
 > வாசிப்பு வரிசை: §1 நோக்கமும் வரம்பும் → §2 நான்கு இருக்கை அடித்தளம் → §3 சுதந்திரமும் முரண்பாடுகளும் → §4 தவறான இருக்கைக்கான வழிமாற்றம் → §5 வெளியிடப்பட்ட அமைவிடமும் மாற்றுப் பொறுப்பாளர்களும் → §6 விகிதாசார அளவாக்கம் → §7 அவசரநிலைகள் → §8 செயல் பதிவுகளும் பொறுப்புக் கூறக்கூடிய ஒப்படைப்புகளும் → §9 பிந்தைய செயல்முறைகளில் பயன்பாடு.
 
@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
 - மேல்நிலை: [அரசியலமைப்பு நாற்கூறு](../../core_00_preamble.md#constitutional-tetrad) — குறிப்பாக **மேற்பார்வை** மற்றும் **பொறுப்புக்கூறல்**; [பொருளளவு பங்கு](../../core_00_preamble.md#material-stake); [அத்தியாயம் ஒன்று §17.1 பகிரப்பட்ட பொறுப்பாளர் தரநிலை](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [அத்தியாயம் ஒன்று §18 பொறுப்பாளர் ஒழுக்கத்தின் கீழான ஆளுகை](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [கட்டுரை XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*).
-- உட்பிரிவுகள்: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
+- உட்பிரிவுகள்: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
 - கீழ்நிலை: [அத்தியாயம் எட்டு](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [அத்தியாயம் ஒன்பது](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [அத்தியாயம் பன்னிரண்டு](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [அத்தியாயம் பதின்மூன்று](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); மேலே பெயரிடப்பட்ட செயலாக்க உரை.
 - இதனுடன் வாசிக்கவும்: [அத்தியாயம் ஒன்று §19.3 ஒத்திசைவின்மை கண்டறிதல்](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*பன்முகக் கண்டறிதலும் மதிப்பாய்வும்*); [பொறுப்புக் கூறக்கூடிய செயல்](../../core_05_band_accountability.md#attributable-action); [கூறப்பட்ட பொறுப்பின் நேர்மை](../../core_05_band_accountability.md#attribution-integrity); [தணிக்கைத்திறன்](../../core_05_band_oversight.md#auditability); [எதிர்வாதம் முன்வைக்கும் திறன்](../../core_05_band_accountability.md#contestability); [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality).
 
@@ -38,7 +38,7 @@
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
 - மேல்நிலை: அத்தியாயத் தொடக்க உரிமையாளர் கூற்று; [அத்தியாயம் ஒன்று §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [மேற்பார்வை](../../core_05_apex_oversight_leg.md#oversight-constitutional); [பொறுப்புக்கூறல்](../../core_05_apex_accountability_leg.md#accountability).
-- கீழ்நிலை: [§2](#2-four-seat-constitutional-floor) முதல் [§9](#9-relationship-to-later-processes) வரை; பொருளளவில் கட்டுப்படுத்தும் செயலை உருவாக்கும் அல்லது மாற்றும் ஒவ்வொரு பிந்தைய செயல்முறையும்.
+- கீழ்நிலை: [§2](#2-four-seat-constitutional-requirement) முதல் [§9](#9-relationship-to-later-processes) வரை; பொருளளவில் கட்டுப்படுத்தும் செயலை உருவாக்கும் அல்லது மாற்றும் ஒவ்வொரு பிந்தைய செயல்முறையும்.
 - இதனுடன் வாசிக்கவும்: சரிபார்ப்பு அடித்தளத்திற்காக [அத்தியாயம் நான்கு](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); சவால் மற்றும் நிவாரணத்திற்காக [கட்டுரை XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*நம்பகத்தன்மை மற்றும் நம்பத்தகுதிக்கான அடிப்படை*) மற்றும் [கட்டுரை XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*நிவர்த்தி மற்றும் தீர்வுக்கான உரிமை*); சுயாதீன சரிபார்ப்பு உரிமைகள் அடித்தளங்களுக்காக [கட்டுரை XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*).
 
 </details>
@@ -67,14 +67,14 @@
 - செயல்முறை சார்ந்த பதிவு உள்ளடக்கம் — அத்தியாயங்கள் எட்டு முதல் பன்னிரண்டு வரை; அல்லது
 - செயலாக்க உரையில் குறிப்பிடப்பட்ட செயல்பாட்டு இருக்கைப் பட்டியல்கள், பணியாளர் முறைகள், செயல்பாதை வரைபட இயக்கவியல்.
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. நான்கு இருக்கை அரசியலமைப்பு அடித்தளம்
 
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
 - மேல்நிலை: [§1](#1-purpose-scope-and-owner-boundary); [அத்தியாயம் ஒன்று §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties); [அத்தியாயம் ஒன்று §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- கீழ்நிலை: [§3](#3-independence-conflict-and-control-lines) முதல் [§9](#9-relationship-to-later-processes) வரை; [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*இருக்கைப் பட்டியல் — செயல்முறைப் பங்கு முன்மாதிரிகளும் செயல்பாட்டு எல்லைகளும்*).
+- கீழ்நிலை: [§3](#3-independence-conflict-and-control-lines) முதல் [§9](#9-relationship-to-later-processes) வரை; [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*இருக்கைப் பட்டியல் — செயல்முறைப் பங்கு முன்மாதிரிகளும் செயல்பாட்டு எல்லைகளும்*).
 - இதனுடன் வாசிக்கவும்: அனுமதிக்கப்பட்ட ஒரே ஒருங்கிணைந்த தங்குமுறைப் பாதைக்காக [§6](#6-proportional-scaling-and-merged-hosting).
 
 </details>
@@ -167,9 +167,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: [§2](#2-four-seat-constitutional-floor); [அதிகாரத்திற்கேற்ப அளவிடப்படும் பதிலளிப்புப் பொறுப்பு](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [கட்டுரை XXIV](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*அரசியலமைப்பு விளக்கம், மதிப்பாய்வு, கைப்பற்றல் எதிர்ப்பு பாதுகாப்புகள்*).
+- மேல்நிலை: [§2](#2-four-seat-constitutional-requirement); [அதிகாரத்திற்கேற்ப அளவிடப்படும் பதிலளிப்புப் பொறுப்பு](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [கட்டுரை XXIV](core_06_rights_part_d.md) (*அரசியலமைப்பு விளக்கம், மதிப்பாய்வு, கைப்பற்றல் எதிர்ப்பு பாதுகாப்புகள்*).
 - கீழ்நிலை: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); அத்தியாயம் எட்டு சான்றளிப்பு கூறுப் பாத்திரங்கள்; அத்தியாயம் ஒன்பது பதிவுக் காவல்; அத்தியாயம் பன்னிரண்டு மன்றத் தன்னைத்தானே தீர்ப்பளித்தல் எதிர்ப்பு.
-- இதனுடன் வாசிக்கவும்: [பொருள் கட்டுப்பாட்டுக் கோடு](../../core_05_band_accountability.md#material-control-line); செயல்பாட்டு முரண்பாடு மற்றும் தன்னைத்தானே தீர்ப்பளித்தல் எதிர்ப்பு பாதுகாப்புகளுக்காக [CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*முரண்பாட்டு நேர்மை, கைப்பற்றல் எதிர்ப்பு, ஊழல் எதிர்ப்பு*) மற்றும் [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*நேர்மைப் பாதுகாப்புகள், கைப்பற்றல் எதிர்ப்பு செயல்பாடுகள், தன்னைத்தானே தீர்ப்பளிக்காமை ஆதரவு*).
+- இதனுடன் வாசிக்கவும்: [பொருள் கட்டுப்பாட்டுக் கோடு](../../core_05_band_accountability.md#material-control-line); செயல்பாட்டு முரண்பாடு மற்றும் தன்னைத்தானே தீர்ப்பளித்தல் எதிர்ப்பு பாதுகாப்புகளுக்காக [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*முரண்பாட்டு நேர்மை, கைப்பற்றல் எதிர்ப்பு, ஊழல் எதிர்ப்பு*) மற்றும் [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*நேர்மைப் பாதுகாப்புகள், கைப்பற்றல் எதிர்ப்பு செயல்பாடுகள், தன்னைத்தானே தீர்ப்பளிக்காமை ஆதரவு*).
 
 </details>
 
@@ -194,8 +194,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines).
-- கீழ்நிலை: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-4.6 பகிரப்பட்ட இருக்கை விதிகள்](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- மேல்நிலை: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
+- கீழ்நிலை: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-4.6 பகிரப்பட்ட இருக்கை விதிகள்](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - இதனுடன் வாசிக்கவும்: [அத்தியாயம் ஒன்று §17.5 எதிர்த்து நிற்கும் கடமை](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 </details>
@@ -220,9 +220,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [வெளிப்படைத்தன்மை](../../core_05_band_oversight.md#transparency); [தணிக்கைத்திறன்](../../core_05_band_oversight.md#auditability).
-- கீழ்நிலை: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*செயல்பாட்டு பிரிப்பு வழிகள்*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*அங்கீகரிக்கப்பட்ட பங்குகளும் பொறுப்புக்கூறல் சங்கிலிகளும்*); அத்தியாயம் எட்டு மற்றும் அத்தியாயம் ஒன்பது பதிவுகள்.
-- இதனுடன் வாசிக்கவும்: [சாசனம்](../../core_05_band_continuity.md#charter) மற்றும் [அத்தியாயம் பதின்மூன்று §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- மேல்நிலை: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [வெளிப்படைத்தன்மை](../../core_05_band_oversight.md#transparency); [தணிக்கைத்திறன்](../../core_05_band_oversight.md#auditability).
+- கீழ்நிலை: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*செயல்பாட்டு பிரிப்பு வழிகள்*); [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*அங்கீகரிக்கப்பட்ட பங்குகளும் பொறுப்புக்கூறல் சங்கிலிகளும்*); அத்தியாயம் எட்டு மற்றும் அத்தியாயம் ஒன்பது பதிவுகள்.
+- இதனுடன் வாசிக்கவும்: [சாசனம்](../../core_05.040_band_continuity.md) மற்றும் [அத்தியாயம் பதின்மூன்று §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -247,8 +247,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: [§2](#2-four-seat-constitutional-floor); [பொருளளவு பங்கு](../../core_00_preamble.md#material-stake); [தேவையுடைமை](../../core_05_band_accountability.md#necessity); [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality).
-- கீழ்நிலை: [அத்தியாயம் ஒன்பது §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*வகுப்புக்கேற்ப அளவிடப்பட்ட செயல்பாதை பணியமர்த்தலும் திறன் மீள்திறனும்*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*செயல்பாட்டு பிரிப்பு வழிகள்*).
+- மேல்நிலை: [§2](#2-four-seat-constitutional-requirement); [பொருளளவு பங்கு](../../core_00_preamble.md#material-stake); [தேவையுடைமை](../../core_05_band_accountability.md#necessity); [விகிதாசாரம்](../../core_05_band_accountability.md#proportionality).
+- கீழ்நிலை: [அத்தியாயம் ஒன்பது §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*வகுப்புக்கேற்ப அளவிடப்பட்ட செயல்பாதை பணியமர்த்தலும் திறன் மீள்திறனும்*); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*செயல்பாட்டு பிரிப்பு வழிகள்*).
 - இதனுடன் வாசிக்கவும்: [தவிர்க்கக்கூடிய சுமை](../../core_05_band_continuity.md#avoidable-burden) மற்றும் அத்தியாயம் ஒன்று [§3.3 இழிவுபடுத்தாத செயல்முறை](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -270,7 +270,7 @@ flowchart TB
 
 முறைசாரா, ஊதியமற்ற, பரஸ்பர உதவி, பராமரிப்பு, பழுதுபார்ப்பு, கற்பித்தல், கூட்டுறவு, சமூகப் பொறுப்பாளர் பணிகள் ஆகியவற்றில், தொடர்புடைய சரிபார்ப்புக்காக வெளியிடப்பட்ட அதிகாரம் கொண்ட, நலன் முரண்பாடற்ற நம்பிக்கை அமைப்பைப் பயன்படுத்தலாம். உண்மையாகவே நலன் முரண்பாடற்ற, பொறுப்புக்கூறக்கூடிய பாதை இருக்கும்போது, அந்த வரம்பு நியாயமாக எட்ட முடியாத நிறுவனரீதியான முறைப்படுத்தலை அரசியலமைப்பு கோராது.
 
-குறைந்த பணியாளர் எண்ணிக்கை, வேகம், வசதி அல்லது நிபுணத்துவம் ஒரே இடத்தில் குவிந்திருப்பது ஆகியவை மட்டும் ஒருங்கிணைப்பை நியாயப்படுத்தாது. [§2 நான்கு இருக்கை அரசியலமைப்பு அடித்தளத்தில்](#2-four-seat-constitutional-floor) உள்ள வகுப்புக்கேற்ப பாதுகாப்பு நிலையே ஆளும்: வகுப்பு A-க்கு விலகல் அனுமதியில்லை; வகுப்பு B அல்லது C-க்கு எந்த விலகலும் மேலே உள்ள தேவைகளைப் பூர்த்தி செய்ய வேண்டும். பொருளளவு பங்கு உயர உயர, தனித்தனி அலுவலகங்கள், திறன் மீள்திறன், சுயாதீன மாற்றுப் பொறுப்பாளர்கள் ஆகியவற்றுக்கான முன்கணிப்பு வலுவாகும்.
+குறைந்த பணியாளர் எண்ணிக்கை, வேகம், வசதி அல்லது நிபுணத்துவம் ஒரே இடத்தில் குவிந்திருப்பது ஆகியவை மட்டும் ஒருங்கிணைப்பை நியாயப்படுத்தாது. [§2 நான்கு இருக்கை அரசியலமைப்பு அடித்தளத்தில்](#2-four-seat-constitutional-requirement) உள்ள வகுப்புக்கேற்ப பாதுகாப்பு நிலையே ஆளும்: வகுப்பு A-க்கு விலகல் அனுமதியில்லை; வகுப்பு B அல்லது C-க்கு எந்த விலகலும் மேலே உள்ள தேவைகளைப் பூர்த்தி செய்ய வேண்டும். பொருளளவு பங்கு உயர உயர, தனித்தனி அலுவலகங்கள், திறன் மீள்திறன், சுயாதீன மாற்றுப் பொறுப்பாளர்கள் ஆகியவற்றுக்கான முன்கணிப்பு வலுவாகும்.
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. அவசரநிலையும் அவசரச் செயலும்
@@ -278,9 +278,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [அத்தியாயம் பன்னிரண்டு §6.1 அவசர நடவடிக்கைகளும் தொடர்வதற்கான சுமையும்](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [இடைக்கால இயல்புநிலை நிலைப்பாடு](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- மேல்நிலை: [§2](#2-four-seat-constitutional-requirement); [§6](#6-proportional-scaling-and-merged-hosting); [அத்தியாயம் பன்னிரண்டு §6.1 அவசர நடவடிக்கைகளும் தொடர்வதற்கான சுமையும்](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [இடைக்கால இயல்புநிலை நிலைப்பாடு](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - கீழ்நிலை: குறிப்பிடப்பட்ட செயலாக்க உரையிலுள்ள சம்பவம், கட்டுப்படுத்தல், வெளியீடு, தொடர்ச்சி, நிகழ்வுக்குப் பிந்தைய மதிப்பாய்வு செயல்முறைகள்.
-- இதனுடன் வாசிக்கவும்: [காலக்கெடு பொருத்தம்](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [சான்றுப் பாதுகாப்பு](../../core_05_band_oversight.md#evidence-preservation), மற்றும் [CI-4.6 இருக்கைப் பட்டியல் — செயல்முறைப் பங்கு முன்மாதிரிகளும் செயல்பாட்டு எல்லைகளும்](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- இதனுடன் வாசிக்கவும்: [காலக்கெடு பொருத்தம்](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [சான்றுப் பாதுகாப்பு](../../core_05_band_oversight.md#evidence-preservation), மற்றும் [CI-4.6 இருக்கைப் பட்டியல் — செயல்முறைப் பங்கு முன்மாதிரிகளும் செயல்பாட்டு எல்லைகளும்](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -317,8 +317,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: [§2](#2-four-seat-constitutional-floor) முதல் [§7](#7-emergency-and-urgent-action) வரை; [பொருளளவில் கட்டுப்படுத்தும் செயல் பதிவு](../../core_05_band_accountability.md#materially-binding-act-record); [பொறுப்புக் கூறக்கூடிய செயல்](../../core_05_band_accountability.md#attributable-action); [கூறப்பட்ட பொறுப்பின் நேர்மை](../../core_05_band_accountability.md#attribution-integrity).
-- கீழ்நிலை: [CS-4 §10 ஆய்வு செய்யக்கூடிய பொறுப்புக் கூறத்தக்க செயல்](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [CI-4.6 பகிரப்பட்ட இருக்கை விதிகள்](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8 ஆளும் ஒவ்வொரு செயல்முறைப் பதிவும்; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*அடிப்படை இயந்திரச் சரிபார்க்கக்கூடிய வடிவம்; செயல்முறை ஆதரவு, இரண்டாவது வரையறை அல்ல*).
+- மேல்நிலை: [§2](#2-four-seat-constitutional-requirement) முதல் [§7](#7-emergency-and-urgent-action) வரை; [பொருளளவில் கட்டுப்படுத்தும் செயல் பதிவு](../../core_05_band_accountability.md#materially-binding-act-record); [பொறுப்புக் கூறக்கூடிய செயல்](../../core_05_band_accountability.md#attributable-action); [கூறப்பட்ட பொறுப்பின் நேர்மை](../../core_05_band_accountability.md#attribution-integrity).
+- கீழ்நிலை: [CS-4 §10 ஆய்வு செய்யக்கூடிய பொறுப்புக் கூறத்தக்க செயல்](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-4.6 பகிரப்பட்ட இருக்கை விதிகள்](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8 ஆளும் ஒவ்வொரு செயல்முறைப் பதிவும்; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*அடிப்படை இயந்திரச் சரிபார்க்கக்கூடிய வடிவம்; செயல்முறை ஆதரவு, இரண்டாவது வரையறை அல்ல*).
 - இதனுடன் வாசிக்கவும்: [§4 தவறான இருக்கைக்கான வழிமாற்றம்](#4-wrong-seat-routing) மற்றும் [அத்தியாயம் நான்கு §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>

@@ -134,7 +134,7 @@
 - [क्षमता अपेक्षा](../../core_05.050_band_oversight.md#capability-requirement)
 - [निराकरण-मार्गांचा ताबा](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [शृंखलाबद्ध विफलता](../../core_05.040_band_continuity.md#cascading-failure)
-- [व्याप्ती-सनद](../../core_05.040_band_continuity.md#charter)
+- [व्याप्ती-सनद](../../core_05.040_band_continuity.md)
 - [वर्गीकरण-प्रमाणित शासन](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [बळजबरी आणि हाताळणी](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [सामूहिक उत्तरदायित्व अपयश](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -401,7 +401,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); [भौतिक दाव](core_00_preamble.md#material-stake); [प्रस्तावना §2 मापनाचा आढावा](core_00_preamble.md#measurements-overview).
+- वरून: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); [भौतिक दाव](core_00_preamble.md#material-stake); [प्रस्तावना §2 मापनाचा आढावा](core_00_preamble.md#2-measurements-overview).
 - पुढे: अध्याय पाचच्या सर्व पट्टी व्याख्या आणि **Def.** आश्रित समूहांसाठी संवैधानिक दिशा.
 - सोबत वाचा: कोणताही आश्रित समूह लागू करण्यापूर्वी [स्वतंत्र व्याख्या](core_05__definitions_home.md#1-सवततर-वयखय), [§1.1 आह्वान, पूर्ती आणि अनुपालन](core_05__definitions_home.md#11-आहवन-परत-आण-अनपलन), [§2.1 संयुक्त आह्वान आणि पूर्ती](core_05__definitions_home.md#21-सयकत-आहवन-आण-परत) आणि [§2.2 स्वतंत्र व्याख्या परस्परक्रिया आणि पूर्ण संदर्भ](core_05__definitions_home.md#22-सवततर-वयखय-परसपरकरय-आण-परण-सदरभ) मेटा नियम.
 
@@ -437,7 +437,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">वाचक मार्गदर्शन (असंक्रियात्मक): प्रस्तावना मापन क्रॉसवॉक</span></strong></summary>
 
-> [प्रस्तावना §2](core_00_preamble.md#measurements-overview) सात संवैधानिक **मापन वर्ग** सूचीबद्ध करते — प्रणाली मूल्यमापन करताना संचालक विचारतात ते प्रश्न. अध्याय पाच **प्रामाणिक व्याख्या** चतुष्क पाया, **सातत्य** उद्दिष्ट, आणि **एकात्मक** क्रॉस-पाया मालकीनुसार संघटित करतो. खालील तक्ता प्रत्येक मापन वर्ग त्याच्या अध्याय-पाच घरांशी जोडतो. एक वर्ग एकाहून अधिक पट्टी फाइल व्यापू शकतो; मापन वर्ग एकमेकांवर येतात तेव्हा प्रामाणिक घर हलत नाहीत.
+> [प्रस्तावना §2](core_00_preamble.md#2-measurements-overview) सात संवैधानिक **मापन वर्ग** सूचीबद्ध करते — प्रणाली मूल्यमापन करताना संचालक विचारतात ते प्रश्न. अध्याय पाच **प्रामाणिक व्याख्या** चतुष्क पाया, **सातत्य** उद्दिष्ट, आणि **एकात्मक** क्रॉस-पाया मालकीनुसार संघटित करतो. खालील तक्ता प्रत्येक मापन वर्ग त्याच्या अध्याय-पाच घरांशी जोडतो. एक वर्ग एकाहून अधिक पट्टी फाइल व्यापू शकतो; मापन वर्ग एकमेकांवर येतात तेव्हा प्रामाणिक घर हलत नाहीत.
 >
 > **भौतिकता** ([भौतिकता निर्धारण](../../core_05.050_band_oversight.md#materiality)) एकात्मक आहे — [भौतिक दाव](core_00_preamble.md#material-stake) खाली सर्व मापन कुटुंबांना प्रमाणित करणारे आडवे उंबरठा-द्वार; खालील तक्तात तो वेगळा वर्ग नाही.
 

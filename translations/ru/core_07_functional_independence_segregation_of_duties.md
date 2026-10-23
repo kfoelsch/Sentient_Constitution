@@ -8,8 +8,8 @@
 >
 > - **Конституционная компетенция:** минимум раздельных мест для действий, имеющих существенную обязательную силу; универсальный минимальный состав каждой [записи о действии, имеющем обязательную силу](../../core_05_band_accountability.md#materially-binding-act-record); независимость от действующего лица и его [линии существенного контроля](../../core_05_band_accountability.md#material-control-line); опубликованное распределение по направлениям и ролям; конфликты, вакансии, замещение и перенаправление действий в ненадлежащее место; соразмерное совмещение функций; атрибутируемые передачи; и минимальные условия независимости, применяемые каждой последующей конституционной процедурой.
 > - **Источник на уровне принципов:** [Глава первая §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) требует от управления сохранять функциональную независимость и направляет к архитектуре мест, установленной здесь.
-> - **Ответственность за реализацию:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) и [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) распределяют и вводят в действие эти места. Они могут быть строже и добавлять ограниченные виды мест со специальными полномочиями, но не могут сужать эту главу.
-> - **Применение в конкретных процессах описано далее:** Глава восьмая применяет этот минимум к сертификации системного соответствия; [Глава девятая §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) — к записям о статусе; Глава двенадцатая и [corpus_forum.md](../../corpus_forum.md) — к процедурам форума. Эти главы могут добавлять требуемые предметом гарантии, но не могут создавать более слабую замену.
+> - **Ответственность за реализацию:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) и [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) распределяют и вводят в действие эти места. Они могут быть строже и добавлять ограниченные виды мест со специальными полномочиями, но не могут сужать эту главу.
+> - **Применение в конкретных процессах описано далее:** Глава восьмая применяет этот минимум к сертификации системного соответствия; [Глава девятая §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) — к записям о статусе; Глава двенадцатая и [corpus_forum.md](../../corpus_forum.md) — к процедурам форума. Эти главы могут добавлять требуемые предметом гарантии, но не могут создавать более слабую замену.
 >
 > Порядок чтения: §1 цель и сфера действия → §2 минимум четырех мест → §3 независимость и конфликты → §4 перенаправление в ненадлежащее место → §5 опубликованное распределение и замещение → §6 соразмерное масштабирование → §7 чрезвычайные ситуации → §8 записи о действиях и передачи → §9 применение в последующих процессах.
 
@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
 - Предшествующие положения: [Конституционная тетрада](../../core_00_preamble.md#constitutional-tetrad) — особенно **надзор** и **подотчетность**; [существенная доля](../../core_00_preamble.md#material-stake); [Глава первая §17.1 Стандарт совместного попечительства](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [Глава первая §18 Управление в рамках дисциплины попечительства](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Статья XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Аудит, прозрачность и независимая проверка*).
-- Подразделы: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
+- Подразделы: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
 - Последующие положения: [Глава восьмая](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Глава девятая](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Глава двенадцатая](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Глава тринадцатая](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); названные выше тексты реализации.
 - Читать совместно с: [Глава первая §19.3 Выявление несоответствий](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*множественное выявление и проверка*); [Атрибутируемое действие](../../core_05_band_accountability.md#attributable-action); [Целостность атрибуции](../../core_05_band_accountability.md#attribution-integrity); [Аудируемость](../../core_05_band_oversight.md#auditability); [Оспоримость](../../core_05_band_accountability.md#contestability); [Соразмерность](../../core_05_band_accountability.md#proportionality).
 
@@ -36,7 +36,7 @@
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
 - Предшествующие положения: вводное утверждение о компетенции главы; [Глава первая §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Надзор](../../core_05_apex_oversight_leg.md#oversight-constitutional); [Подотчетность](../../core_05_apex_accountability_leg.md#accountability).
-- Последующие положения: от [§2](#2-four-seat-constitutional-floor) до [§9](#9-relationship-to-later-processes); каждый последующий процесс, который создает или изменяет действие, имеющее существенную обязательную силу.
+- Последующие положения: от [§2](#2-four-seat-constitutional-requirement) до [§9](#9-relationship-to-later-processes); каждый последующий процесс, который создает или изменяет действие, имеющее существенную обязательную силу.
 - Читать совместно с: [Главой четвертой](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) — об основе проверки; [Статьей XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Минимум надежности и заслуживающего доверия характера*) и [Статьей XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Право на возмещение и средство правовой защиты*) — об оспаривании и возмещении; [Статьей XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Аудит, прозрачность и независимая проверка*) — о минимальных гарантиях прав на независимую проверку.
 
 </details>
@@ -65,14 +65,14 @@
 - содержание записей, специфичное для процессов Глав с восьмой по двенадцатую; или
 - операционные каталоги мест, методы комплектования персонала и механику карт направлений из назначенных текстов реализации.
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. Конституционный минимум четырех мест
 
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
 - Предшествующие положения: [§1](#1-purpose-scope-and-owner-boundary); [Глава первая §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties); [Глава первая §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- Последующие положения: от [§3](#3-independence-conflict-and-control-lines) до [§9](#9-relationship-to-later-processes); [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Каталог мест — типовые роли процессов и операционные границы*).
+- Последующие положения: от [§3](#3-independence-conflict-and-control-lines) до [§9](#9-relationship-to-later-processes); [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Каталог мест — типовые роли процессов и операционные границы*).
 - Читать совместно с: [§6](#6-proportional-scaling-and-merged-hosting) — единственный разрешенный путь совмещения функций.
 
 </details>
@@ -163,9 +163,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Предшествующие положения: [§2](#2-four-seat-constitutional-floor); [Подотчетность соразмерно полномочиям](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Статья XXIV](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Конституционное толкование, проверка и гарантии против захвата*).
+- Предшествующие положения: [§2](#2-four-seat-constitutional-requirement); [Подотчетность соразмерно полномочиям](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Статья XXIV](core_06_rights_part_d.md) (*Конституционное толкование, проверка и гарантии против захвата*).
 - Последующие положения: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); роли компонентов сертификации Главы восьмой; хранение записей Главы девятой; запрет самооценки форума в Главе двенадцатой.
-- Читать совместно с: [Линия существенного контроля](../../core_05_band_accountability.md#material-control-line); [CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Целостность при конфликте интересов, защита от захвата и коррупции*) и [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*Гарантии целостности, защита от захвата и поддержка запрета самооценки*) — операционные гарантии при конфликтах и против самооценки.
+- Читать совместно с: [Линия существенного контроля](../../core_05_band_accountability.md#material-control-line); [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Целостность при конфликте интересов, защита от захвата и коррупции*) и [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Гарантии целостности, защита от захвата и поддержка запрета самооценки*) — операционные гарантии при конфликтах и против самооценки.
 
 </details>
 
@@ -190,8 +190,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Предшествующие положения: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines).
-- Последующие положения: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-4.6 правила совместного занятия мест](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- Предшествующие положения: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
+- Последующие положения: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-4.6 правила совместного занятия мест](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - Читать совместно с: [Глава первая §17.5 Обязанность сопротивляться](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 </details>
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Предшествующие положения: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [Прозрачность](../../core_05_band_oversight.md#transparency); [Аудируемость](../../core_05_band_oversight.md#auditability).
-- Последующие положения: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Направления функционального разделения*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*Уполномоченные роли и цепочки подотчетности*); записи Глав восьмой и девятой.
-- Читать совместно с: [Устав](../../core_05_band_continuity.md#charter) и [Глава тринадцатая §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- Предшествующие положения: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [Прозрачность](../../core_05_band_oversight.md#transparency); [Аудируемость](../../core_05_band_oversight.md#auditability).
+- Последующие положения: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Направления функционального разделения*); [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*Уполномоченные роли и цепочки подотчетности*); записи Глав восьмой и девятой.
+- Читать совместно с: [Устав](../../core_05.040_band_continuity.md) и [Глава тринадцатая §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -244,8 +244,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Предшествующие положения: [§2](#2-four-seat-constitutional-floor); [существенная доля](../../core_00_preamble.md#material-stake); [Необходимость](../../core_05_band_accountability.md#necessity); [Соразмерность](../../core_05_band_accountability.md#proportionality).
-- Последующие положения: [Глава девятая §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Комплектование направлений и резерв компетенций с учетом класса*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Направления функционального разделения*).
+- Предшествующие положения: [§2](#2-four-seat-constitutional-requirement); [существенная доля](../../core_00_preamble.md#material-stake); [Необходимость](../../core_05_band_accountability.md#necessity); [Соразмерность](../../core_05_band_accountability.md#proportionality).
+- Последующие положения: [Глава девятая §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Комплектование направлений и резерв компетенций с учетом класса*); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Направления функционального разделения*).
 - Читать совместно с: [Предотвратимое бремя](../../core_05_band_continuity.md#avoidable-burden) и [Глава первая §3.3 Процесс без унижения](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -267,7 +267,7 @@ flowchart TB
 
 Неформальная, неоплачиваемая деятельность, взаимопомощь, уход, ремонт, обучение, кооперативная работа и попечительство сообщества могут использовать незаинтересованный доверенный орган с опубликованными полномочиями для соответствующей проверки. Конституция не требует институциональной формальности, недостижимой в разумных пределах для данной сферы, если существует действительно незаинтересованный и подотчетный маршрут.
 
-Нехватка персонала, скорость, удобство или сосредоточение экспертизы сами по себе не оправдывают совмещение. Применяется подход к классам из [§2 Конституционный минимум четырех мест](#2-four-seat-constitutional-floor): для класса A отступление недопустимо, а любое отступление для класса B или C должно отвечать приведенным выше требованиям. Чем выше существенность интереса, тем сильнее презумпция раздельных должностей, резервирования компетенций и независимых заместителей.
+Нехватка персонала, скорость, удобство или сосредоточение экспертизы сами по себе не оправдывают совмещение. Применяется подход к классам из [§2 Конституционный минимум четырех мест](#2-four-seat-constitutional-requirement): для класса A отступление недопустимо, а любое отступление для класса B или C должно отвечать приведенным выше требованиям. Чем выше существенность интереса, тем сильнее презумпция раздельных должностей, резервирования компетенций и независимых заместителей.
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. Чрезвычайные и срочные действия
@@ -275,9 +275,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Предшествующие положения: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Глава двенадцатая §6.1 Чрезвычайные меры и бремя обоснования продолжения](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [стандартное временное положение](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- Предшествующие положения: [§2](#2-four-seat-constitutional-requirement); [§6](#6-proportional-scaling-and-merged-hosting); [Глава двенадцатая §6.1 Чрезвычайные меры и бремя обоснования продолжения](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [стандартное временное положение](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - Последующие положения: процессы реагирования на инциденты, сдерживания, выпуска, продолжения и последующей проверки в назначенных текстах реализации.
-- Читать совместно с: [Своевременность](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Сохранение доказательств](../../core_05_band_oversight.md#evidence-preservation) и [CI-4.6 Каталог мест — типовые роли процессов и операционные границы](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- Читать совместно с: [Своевременность](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Сохранение доказательств](../../core_05_band_oversight.md#evidence-preservation) и [CI-4.6 Каталог мест — типовые роли процессов и операционные границы](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -314,8 +314,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Предшествующие положения: от [§2](#2-four-seat-constitutional-floor) до [§7](#7-emergency-and-urgent-action); [Запись о действии, имеющем обязательную силу](../../core_05_band_accountability.md#materially-binding-act-record); [Атрибутируемое действие](../../core_05_band_accountability.md#attributable-action); [Целостность атрибуции](../../core_05_band_accountability.md#attribution-integrity).
-- Последующие положения: [CS-4 §10 Проверяемое атрибутируемое действие](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [CI-4.6 правила совместного занятия мест](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); каждая процессная запись, регулируемая §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*базовая форма для машинной проверки; вспомогательная для процесса, а не новое определение*).
+- Предшествующие положения: от [§2](#2-four-seat-constitutional-requirement) до [§7](#7-emergency-and-urgent-action); [Запись о действии, имеющем обязательную силу](../../core_05_band_accountability.md#materially-binding-act-record); [Атрибутируемое действие](../../core_05_band_accountability.md#attributable-action); [Целостность атрибуции](../../core_05_band_accountability.md#attribution-integrity).
+- Последующие положения: [CS-4 §10 Проверяемое атрибутируемое действие](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-4.6 правила совместного занятия мест](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); каждая процессная запись, регулируемая §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*базовая форма для машинной проверки; вспомогательная для процесса, а не новое определение*).
 - Читать совместно с: [§4 Перенаправление в ненадлежащее место](#4-wrong-seat-routing) и [Глава четвертая §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>

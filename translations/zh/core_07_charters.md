@@ -419,7 +419,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：[§3](#3-系统章程和机构章程必须载明的事项)；[第八章 §2 四席宪法底线](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor)（8.000 §2）。
+- 上游：[§3](#3-系统章程和机构章程必须载明的事项)；[第八章 §2 四席宪法底线](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)（8.000 §2）。
 - 下游：[第八章 §5 已发布的席位安排、空缺与替补](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)（8.000 §5）；[第九章 B 部分 §6.1.1 认证中的四个席位](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)（9.010 §6.1.1）；[第十章 §3.7 地位记录保管与开启权限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)（10.000 §3.7）；**CI-8.205 §2**（*功能分离路径*）；**CI-14.205 §5**（*授权角色与问责链*）；**CI-14.205 §6**（*席位目录——流程角色原型及其操作边界*）。
 - 一并阅读：[实质控制线](../../core_05.035_band_accountability.md#material-control-line)；[地位记录](../../core_05.035_band_accountability.md#standing-record)。
 
@@ -443,7 +443,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 席位及其存在理由
 
-每项[实质约束行为](../../core_05.035_band_accountability.md#materially-binding-act)都有四项职能，[第八章 §2 四席宪法底线](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor)要求将其分开：
+每项[实质约束行为](../../core_05.035_band_accountability.md#materially-binding-act)都有四项职能，[第八章 §2 四席宪法底线](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)要求将其分开：
 
 - **[发起席](../../core_05.035_band_accountability.md#initiating-seat)：**通过请求、提议、运营或主张该行为来发起它。
 - **[核验或授权席](../../core_05.035_band_accountability.md#verify-or-authorize-seat)：**检查证据和权限，然后核验、授权、附加条件或拒绝该行为。

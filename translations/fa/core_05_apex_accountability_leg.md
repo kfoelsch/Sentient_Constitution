@@ -19,9 +19,9 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [قطب‌نمای فصل پنجم](core_05__definitions_home.md#قطبنما-و-نقشه-تعریف-فصل-پنجم); [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) (پای پاسخگویی؛ مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake)); [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims); هدف اولیه [شکوفایی](core_00_preamble.md#flourishing).
-- پایین‌دست: اصول: [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [فصل یکم §11.6 مسئولیت جانشین و منع گریز با ساختار صوری](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [تجزیهٔ پای چهارگانه](#accountability-tetrad-leg-decomposition); تعریف‌های برگ نوار پاسخگویی در [core_05_band_accountability.md](../../core_05.035_band_accountability.md).
+- پایین‌دست: اصول: [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [فصل یکم §11.6 مسئولیت جانشین و منع گریز با ساختار صوری](core_01_c_stewardship_capacity_principles.md); [تجزیهٔ پای چهارگانه](#accountability-tetrad-leg-decomposition); تعریف‌های برگ نوار پاسخگویی در [core_05_band_accountability.md](../../core_05.035_band_accountability.md).
 - پای خواهر چهارگانه: [به‌هنگامی](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- خوانده شود با: [خوشهٔ پاسخگویی، قابلیت اعتراض، داوری و حل اختلاف، شکست پاسخگویی جمعی، و قوهٔ قاهره](../../core_05.045_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)، [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability)، [قابلیت حسابرسی](../../core_05.050_band_oversight.md#auditability)، [کنش قابل‌انتساب](../../core_05.035_band_accountability.md#attributable-action)، [یکپارچگی انتساب](../../core_05.035_band_accountability.md#attribution-integrity)، [فصل یکم §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)، [فصل سوم §2.1.1 بازی برچسب صوری و بازنمایی](core_03_definition_integrity.md#211-بازی-برچسب-صوری-و-بازنمایی)، و [فصل نهم §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- خوانده شود با: [خوشهٔ پاسخگویی، قابلیت اعتراض، داوری و حل اختلاف، شکست پاسخگویی جمعی، و قوهٔ قاهره](core_05_band_integrative.md)، [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability)، [قابلیت حسابرسی](../../core_05.050_band_oversight.md#auditability)، [کنش قابل‌انتساب](../../core_05.035_band_accountability.md#attributable-action)، [یکپارچگی انتساب](../../core_05.035_band_accountability.md#attribution-integrity)، [فصل یکم §11.6](core_01_c_stewardship_capacity_principles.md)، [فصل سوم §2.1.1 بازی برچسب صوری و بازنمایی](core_03_definition_integrity.md#211-بازی-برچسب-صوری-و-بازنمایی)، و [فصل نهم §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -81,7 +81,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- خوانده شود با: [فصل یکم §11 هم‌راستایی انگیزه و تسخیر نظام](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)، [§13 ساختار بازار](core_01_c_stewardship_capacity_principles.md#13-market-structure)، و [فصل هفتم §3.3 انضباط حکمرانی، انگیزه و قابلیت اعتراض](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+- خوانده شود با: [فصل یکم §11 هم‌راستایی انگیزه و تسخیر نظام](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)، [§13 ساختار بازار](core_01_c_stewardship_capacity_principles.md)، و [فصل هفتم §3.3 انضباط حکمرانی، انگیزه و قابلیت اعتراض](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
 
 </details>
 

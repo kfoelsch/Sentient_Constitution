@@ -114,9 +114,9 @@
 
 *쉬운 말로: 정당성에는 안전, 진실, 신뢰가 필요하고, 더하여 당신에게 영향을 미치는 체계를 배우고 그것을 돌아가게 유지하는 데 결과가 있는 역할을 맡을 실제 기회가 필요합니다.*
 
-오래가는 정당성은 [안전](core_01_a_values_principles.md#31-safety-harm-constraint), [진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)에 달렸고, 또한 적법한 책임 있는 관리, 진실한 협력, 한정된 지향의 비례 인정에도 달렸다 — 제재와 억제만으로는 아니다. 제1장은 이 인정 차원을 [인정, 강화, 지향](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)에서 말한다.
+오래가는 정당성은 [안전](core_01_a_values_principles.md#4-safety-harm-constraint), [진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [신뢰](core_01_a_values_principles.md)에 달렸고, 또한 적법한 책임 있는 관리, 진실한 협력, 한정된 지향의 비례 인정에도 달렸다 — 제재와 억제만으로는 아니다. 제1장은 이 인정 차원을 [인정, 강화, 지향](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)에서 말한다.
 
-분산된 이해와 책임 있는 관리는, 우리에게 실질적으로 영향을 미치는 체계가 어떻게 돌아가는지를 배울 정기적이고 비례하는 기회를 감지자에게 요구한다. 더하여, 유지와 개선에서 결과가 있는 역할을 맡도록 한다 — 그리하여 역량, 수리 능력, 정당성이 우리 헌법 공동체에 넓게 퍼져 회복력, 지속가능성, 친사회적 혁신을 확보하게 한다. 그 기회는 안전, 진실, 한정된 행위주체성, 그리고 [제1장](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)이 말한 [피할 수 있는 부담](../../core_05_band_continuity.md#avoidable-burden)과 비례 규율을 충족해야 한다.
+분산된 이해와 책임 있는 관리는, 우리에게 실질적으로 영향을 미치는 체계가 어떻게 돌아가는지를 배울 정기적이고 비례하는 기회를 감지자에게 요구한다. 더하여, 유지와 개선에서 결과가 있는 역할을 맡도록 한다 — 그리하여 역량, 수리 능력, 정당성이 우리 헌법 공동체에 넓게 퍼져 회복력, 지속가능성, 친사회적 혁신을 확보하게 한다. 그 기회는 안전, 진실, 한정된 행위주체성, 그리고 [제1장](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)이 말한 [피할 수 있는 부담](../../core_05_band_continuity.md#avoidable-burden)과 비례 규율을 충족해야 한다.
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 거버넌스에서 측정 쓰기
@@ -169,7 +169,7 @@
 
 각 요약은 그 장이 무엇을 맡고 무엇을 산출하는지를 말한다.
 
-**제1장 — 가치, 원칙, 책임 있는 관리** ([A부분](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B부분](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C부분](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**제1장 — 가치, 원칙, 책임 있는 관리** ([A부분](core_01_a_values_principles.md) · [B부분](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C부분](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **맡은 일:** 헌법의 지도 가치와 제약을 말한다 — 복지, 공정, 안전, 진실, 신뢰, 한정된 자유, 적법한 기여에 대한 인정과 비례 보상, 원칙 사이 충돌 해결, 그리고 분산된 이해, 체계 평가, 거버넌스 규율을 포함한 책임 있는 관리 의무.
 - **산출:** 이후 각 장의 해석 기초 — 체계, 권리, 정의, 과정 사슬을 읽고 적용해야 할 때, 높은 층의 목적을 운영 요건으로 바꾸는 규칙.
@@ -227,7 +227,7 @@
 - **맡은 일:** 확인된 분류를 실제 세계의 **궤적 효과**로 통합한다, 따로 떨어진 궤도에서 — [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절하고, 기여와 위반을 하나의 순점수로 접지 않으며, 참여, 감독, 책무, 적시성을 비우지 않는다.
   - **기여 궤도:** 확인된 긍정 분류는 실제 상승을 산출한다:
     - [**역량 허가**](../../core_11_standing_integration.md#62-competency-bars-and-clearances)는 공표된 역량 문턱에 대해 역량이 입증되고 적용되는 [궤적 잠금](../../core_11_standing_integration.md#42-prevention--general-standing-locks)이 명명된 경로를 막지 않을 때, 신뢰에 민감한 역할, 위임된 권한, 감독 자격, 점차 결과가 커지는 책임 있는 관리를 열 수 있다
-    - [제1장](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)이 요구하는 대로, 적법한 책임 있는 관리와 협력에 대한 비례 인정과 **실질 보상**
+    - [제1장](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)이 요구하는 대로, 적법한 책임 있는 관리와 협력에 대한 비례 인정과 **실질 보상**
     - 빈 칭찬이 아니다. 이익은 실제여야 하고, 증거로 받쳐져야 하며, 다툼에 열려 있어야 한다
   - **위반 궤도:** 확인된 위반 인정은 실제 하강을 산출한다:
     - **궤적 잠금**, 역할 한도, 시정 명령, [해를 입은 이를 위한 구제](../../core_11_standing_integration.md#41-remedy-and-correction), 보충 서술자, 집행 고리

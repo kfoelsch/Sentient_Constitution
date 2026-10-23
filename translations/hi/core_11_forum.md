@@ -12,7 +12,7 @@
 >
 > **पिछला (अभी अंग्रेज़ी में):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **अगला (अभी अंग्रेज़ी में):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **अगला (अभी अंग्रेज़ी में):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 > **पढ़ने का चाप:** §1 उद्देश्य → विवाद अनुक्रम → §2 तयशुदा स्थान और प्रवेश → §2.1–§2.3 नेतृत्व सीमाएँ, मिश्रित दाँव, चुनौतियाँ → §3 स्थानांतरण और आत्म-निर्णय-निषेध → §4 परिवार → §5 उन्नयन और प्रमाणन → §6 स्तर और देरी-निरोध → §7 मंच सहारा
 </details>
 
@@ -59,7 +59,7 @@
 - ऊर्ध्व: [अध्याय सात — प्रणाली-संरेखण प्रमाणन](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [अध्याय आठ](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [अध्याय नौ](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration); [अध्याय दस](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); [अध्याय एक](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*सिद्धांत और व्याख्यात्मक बंधन*); [अध्याय दो से चार](core_02_definition_structure.md) (*अनुरेख और सत्यापन अपेक्षाएँ*); [अध्याय पाँच](core_05__definitions_home.md#chapter-five-foundational-definitions) (*परिभाषाएँ, संग्रह-स्थान विजेट में अध्याय दो से चार के साथ पढ़ें*); [अध्याय छह](core_06_rights_part_a.md#chapter-six-foundational-rights) (*आधारभूत अधिकार-तल जिसे यह अध्याय साथ लागू करता है*)।
 - अधो: [§2](#2-default-venue-and-primary-stakes) (*प्राथमिक-दाँव तयशुदा स्थान, प्रवेश त्रियाज, मिश्रित दाँव, विषमता, प्रस्थिति-अभिलेख चुनौतियाँ; शीघ्र चुनौती-योग्य दहलीज पहुँच; सद्भाव वर्णन और क्रीड़ा-निषेध*); [§3](#3-transfer-consolidation-and-coordination) (*स्थानांतरण और आत्म-निर्णय-निषेध*); [§4](#4-forum-family-definitions) (*मंच-परिवार परिभाषाएँ, कक्ष, साझा मानक, और अनंतिम संक्रियात्मक विधि*); [§4.3](#43-institutional-forums) (*आंतरिक प्रक्रिया सीमा, विवाद अनुक्रम का संस्थागत-परिवार अनुप्रयोग*); [§5](#5-escalation-and-certification) (*उन्नयन, प्रमाणन, और अंतरिम रक्षा*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*तात्विकता स्तर, शृंखला मीलपत्थर, और देरी-निरोध अनुशासन*); [§7](#7-forum-support-before-during-and-after-review) (*समीक्षा से पहले, दौरान, और बाद मंच सहारा*)।
 - चतुष्क टाँग(एँ): **सहभागिता**, **निगरानी**, **जवाबदेही**, **समयबद्धता** (सत्यापित निष्कर्ष प्रस्थिति अभिलेख खोल, अद्यतन, या सुधार सकते हैं; **CF-11** स्तर घड़ियाँ लागू करता है)। प्राथमिक उद्देश्य: **समुन्नति** और **सातत्य**। [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग मार्गन और पहुँच भार पर लागू होती है।
-- साथ पढ़ें: [प्रस्तावना §3.2](core_00_preamble.md#32-key-governance-processes) और [§3.3](core_00_preamble.md#33-governance-layers) (*प्रक्रिया पथ और शासन-परत अनुशासन*); [अनुच्छेद XII: प्रभावित पक्षों की प्रणालीगत सहभागिता, प्रतिनिधित्व और उचित प्रक्रिया](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*आपात, निःशेषण, और समय नियम*) — लागू करे, संकीर्ण न करे); [corpus_institutions.md](../../corpus_institutions.md) (*चुनौती, द्वितीयक समीक्षा, और अखंडता निगरानी — आवंटित मंच क्षेत्राधिकार का स्थान नहीं लेती*); [अनुच्छेद XIII-B: चुनौती, समीक्षा और उपचार का अधिकार](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [अनुच्छेद XXIV परिवार](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*संग्रह-स्थान विजेट में निर्दिष्ट न्याय बंधन*)।
+- साथ पढ़ें: [प्रस्तावना §3.2](core_00_preamble.md#32-key-governance-processes) और [§3.3](core_00_preamble.md#33-governance-layers) (*प्रक्रिया पथ और शासन-परत अनुशासन*); [अनुच्छेद XII: प्रभावित पक्षों की प्रणालीगत सहभागिता, प्रतिनिधित्व और उचित प्रक्रिया](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*आपात, निःशेषण, और समय नियम*) — लागू करे, संकीर्ण न करे); [corpus_institutions.md](../../corpus_institutions.md) (*चुनौती, द्वितीयक समीक्षा, और अखंडता निगरानी — आवंटित मंच क्षेत्राधिकार का स्थान नहीं लेती*); [अनुच्छेद XIII-B: चुनौती, समीक्षा और उपचार का अधिकार](core_06_rights_part_c.md); [अनुच्छेद XXIV परिवार](core_06_rights_part_d.md) (*संग्रह-स्थान विजेट में निर्दिष्ट न्याय बंधन*)।
 
 </details>
 
@@ -91,7 +91,7 @@
 **मंच-परिवार** प्राथमिक संस्थाएँ हैं जिनसे यह लिखत उन पटरियों का **पर्यवेक्षण** करता है। वे अधिनियमित नियमों के दिन-प्रतिदिन कार्यकारी प्रशासन से भिन्न हैं।
 
 <a id="dispute-sequencing"></a>
-**विवाद अनुक्रम।** पहले से अधिकृत प्रणाली, संस्था, या सीमाबद्ध निर्णय-क्षेत्र के भीतर, साधारण विवाद पहले प्रकाशित [प्रभावित पक्षों की प्रणालीगत सहभागिता](core_05_band_participation.md#stakeholder-status-and-weight-cluster) चुनौती और उचित-प्रक्रिया पथ इस्तेमाल करता है। यदि वह पथ अभी भी विवादित परिणाम दे, गायब हो, कब्ज़ाशुदा हो, या आवश्यक राहत विधिपूर्वक न दे सके, यह अध्याय विषय को **अनुभाग 2** के अधीन प्राथमिक दाँव से मार्गित करता है। **अखंडता**, **तकनीकी मंच डोमेन**, **पर्यावरण**, और **संवैधानिक** तयशुदा नेतृत्व परिवार हैं जब वही प्राथमिक दाँव हो — अनुक्रम छोड़ने वाले अपवाद नहीं। अधूरी आंतरिक प्रक्रिया, निःशेषण लेबल, या यह दावा कि आंतरिक समीक्षा अधूरी है, उन नेतृत्वों को रोक, उनके गुण विस्थापित, या **अनुच्छेद XXV-C** (*समयबद्ध समाधान और देरी-निरोध तल*) घड़ियाँ खा नहीं सकते। प्रत्यक्ष पहुँच तब उपलब्ध रहती है जब देरी अधिकार, साक्ष्य, स्वतंत्रता, या व्यावहारिक पुनर्स्थापना तात्विक रूप से संकट में डाले।
+**विवाद अनुक्रम।** पहले से अधिकृत प्रणाली, संस्था, या सीमाबद्ध निर्णय-क्षेत्र के भीतर, साधारण विवाद पहले प्रकाशित [प्रभावित पक्षों की प्रणालीगत सहभागिता](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) चुनौती और उचित-प्रक्रिया पथ इस्तेमाल करता है। यदि वह पथ अभी भी विवादित परिणाम दे, गायब हो, कब्ज़ाशुदा हो, या आवश्यक राहत विधिपूर्वक न दे सके, यह अध्याय विषय को **अनुभाग 2** के अधीन प्राथमिक दाँव से मार्गित करता है। **अखंडता**, **तकनीकी मंच डोमेन**, **पर्यावरण**, और **संवैधानिक** तयशुदा नेतृत्व परिवार हैं जब वही प्राथमिक दाँव हो — अनुक्रम छोड़ने वाले अपवाद नहीं। अधूरी आंतरिक प्रक्रिया, निःशेषण लेबल, या यह दावा कि आंतरिक समीक्षा अधूरी है, उन नेतृत्वों को रोक, उनके गुण विस्थापित, या **अनुच्छेद XXV-C** (*समयबद्ध समाधान और देरी-निरोध तल*) घड़ियाँ खा नहीं सकते। प्रत्यक्ष पहुँच तब उपलब्ध रहती है जब देरी अधिकार, साक्ष्य, स्वतंत्रता, या व्यावहारिक पुनर्स्थापना तात्विक रूप से संकट में डाले।
 
 ```mermaid
 flowchart TD
@@ -146,7 +146,7 @@ flowchart TD
 - ऊर्ध्व: [§1](#1-purpose-and-role) (*उद्देश्य, प्राथमिक अनुप्रयोग भूमिका, जवाबदेही अपेक्षाएँ, प्रकाशित दहलीज मार्गन, विस्तार का गैर-स्थानांतरण, स्वतंत्रता और समीक्षा अपेक्षाएँ*)।
 - अधो: [§3](#3-transfer-consolidation-and-coordination) (*स्थानांतरण, समेकन, आत्म-निर्णय-निषेध*); [§4](#4-forum-family-definitions) (*मंच-परिवार परिभाषाएँ तयशुदा तालिका के साथ*); [§5](#5-escalation-and-certification) (*तयशुदा स्थान से उन्नयन; अंतरिम रक्षा*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*तात्विकता स्तर और देरी-निरोध अनुशासन*); [§7](#7-forum-support-before-during-and-after-review) (*समीक्षा से पहले, दौरान, और बाद मंच सहारा*)।
 - §2 के भीतर: [§2.1](#21-lead-default-limits) (*प्राथमिक-दाँव टकराव, संवैधानिक प्रमाणन, और आत्म-निर्णय-निषेध बैकअप*); [§2.2](#22-mixed-stakes-and-routing-asymmetry) (*मिश्रित दाँव और विषमता*); [§2.3](#23-forum-records-standing-records-and-contests) (*मंच मामला अभिलेख, प्रस्थिति अभिलेख, और चुनौतियाँ*)।
-- साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभागिता**, **निगरानी**, और **समयबद्धता** टाँगें; प्राथमिक-दाँव मार्गन के लिए [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग; [अध्याय आठ §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*प्रस्थिति-स्लॉट व्याकरण*); [अध्याय आठ §7 एकीकृत पैमाना](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*साझा पाँच-गुना LEQU बैंड और अलग अक्ष अभिलेख*); [अध्याय आठ §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*अंतर-अक्ष सामान्यीकृत वर्णनकर्ता जो प्रभाव स्लॉट हिलाए बिना प्राथमिक दाँव सूचित करें*); [corpus_forum.md](../../corpus_forum.md) (**CF-5** और **CF-7.2**); [corpus_systems.md](../../corpus_systems.md) (*प्रणाली वर्गीकरण, तैनाती, और पुनर्वैधता कर्तव्य*); [अध्याय दस §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*योग्य अध्याय आठ स्लॉट 7–9 के लिए संविधान-विरोधी-दुराचरण नामांकन; विरासत लंगर सुरक्षित*); [अध्याय दस §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*उस नामांकन के लिए उचित प्रक्रिया, इस अध्याय और **अनुच्छेद XXIV** (*संघर्ष समाधान, वृद्धि और आपातकालीन आनुपातिकता*) के साथ*); [अनुच्छेद XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*न्याय का उद्देश्य और दायरा*)।
+- साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभागिता**, **निगरानी**, और **समयबद्धता** टाँगें; प्राथमिक-दाँव मार्गन के लिए [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग; [अध्याय आठ §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*प्रस्थिति-स्लॉट व्याकरण*); [अध्याय आठ §7 एकीकृत पैमाना](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*साझा पाँच-गुना LEQU बैंड और अलग अक्ष अभिलेख*); [अध्याय आठ §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*अंतर-अक्ष सामान्यीकृत वर्णनकर्ता जो प्रभाव स्लॉट हिलाए बिना प्राथमिक दाँव सूचित करें*); [corpus_forum.md](../../corpus_forum.md) (**CF-5** और **CF-7.2**); [corpus_systems.md](../../corpus_systems.md) (*प्रणाली वर्गीकरण, तैनाती, और पुनर्वैधता कर्तव्य*); [अध्याय दस §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*योग्य अध्याय आठ स्लॉट 7–9 के लिए संविधान-विरोधी-दुराचरण नामांकन; विरासत लंगर सुरक्षित*); [अध्याय दस §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*उस नामांकन के लिए उचित प्रक्रिया, इस अध्याय और **अनुच्छेद XXIV** (*संघर्ष समाधान, वृद्धि और आपातकालीन आनुपातिकता*) के साथ*); [अनुच्छेद XXIV-A](core_06_rights_part_d.md) (*न्याय का उद्देश्य और दायरा*)।
 
 </details>
 
@@ -191,7 +191,7 @@ flowchart TD
      - जहाँ चाहिए **संवैधानिक** प्रमाणन;
      - संस्थागत-पक्ष नियम; और
      - **अनुभाग 2, 3, और 5** के अधीन आत्म-निर्णय-निषेध बैकअप।
-   - **मंच-पक्षपात विवाद:** यदि लड़ाई मुख्यतः उस पैनलिस्ट के बारे में है जिसे अलग होना चाहिए था, पक्षपाती पैनल सहभागिता, या तुलनीय मंच-अखंडता भंग — सहित **[अनुच्छेद XXIII-B](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls) (*संरचना, चक्रण, और संघर्ष नियंत्रण*)** के अधीन **संवैधानिक** मंच पैनल पर — पहले **अखंडता** मंचों तक मार्गित करें। **अनुभाग 3** के अधीन कोई मंच अपने पक्षपात का एकमात्र अंतिम निर्णायक नहीं हो सकता: **संवैधानिक** मंच यह तय करने वाला एकमात्र अंतिम मंच नहीं हो सकता कि उसके अपने पैनलिस्ट को परहेज करना चाहिए था। प्रस्थिति-ताला अनुशासन: **[अध्याय नौ §5.5](core_09_standing_integration.md#55-special-locks)**। नामित दुराचरण पैटर्न: **[अध्याय दस §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**।
+   - **मंच-पक्षपात विवाद:** यदि लड़ाई मुख्यतः उस पैनलिस्ट के बारे में है जिसे अलग होना चाहिए था, पक्षपाती पैनल सहभागिता, या तुलनीय मंच-अखंडता भंग — सहित **[अनुच्छेद XXIII-B](core_06_rights_part_c.md) (*संरचना, चक्रण, और संघर्ष नियंत्रण*)** के अधीन **संवैधानिक** मंच पैनल पर — पहले **अखंडता** मंचों तक मार्गित करें। **अनुभाग 3** के अधीन कोई मंच अपने पक्षपात का एकमात्र अंतिम निर्णायक नहीं हो सकता: **संवैधानिक** मंच यह तय करने वाला एकमात्र अंतिम मंच नहीं हो सकता कि उसके अपने पैनलिस्ट को परहेज करना चाहिए था। प्रस्थिति-ताला अनुशासन: **[अध्याय नौ §5.5](core_09_standing_integration.md#55-special-locks)**। नामित दुराचरण पैटर्न: **[अध्याय दस §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**।
    - **तकनीकी कैसे-करें प्रश्न:** विनिर्देश, विधियाँ, मापन, परीक्षण, और विशेषज्ञ-साक्ष्य प्रश्न **तकनीकी मंच डोमेन** जाते हैं जब वे प्राथमिक दाँव या प्रमाणित घटक प्रश्न हों।
    - **प्रणाली-संरेखण हस्ताक्षर:**
      - नए तात्विक रूप से प्रभावशाली प्रणालियों के लिए आधिकारिक **संवैधानिक संरेखण पहचान**, और विद्यमान के लिए **चालू संरेखण वैधीकरण**, तयशुदा **अखंडता** नेतृत्व पर जाते हैं।
@@ -238,14 +238,14 @@ flowchart TD
 #### 2.3 मंच मामला अभिलेख, प्रस्थिति अभिलेख, और चुनौतियाँ
 
 **मंच मामला अभिलेख और प्रस्थिति अभिलेख:**
-- मंच अपने सामने विवाद के लिए [**मंच मामला अभिलेख**](core_05_band_accountability.md#forum-case-record) रखता है। वह अभिलेख अनुरेख करता है:
+- मंच अपने सामने विवाद के लिए [**मंच मामला अभिलेख**](../../core_05.035_band_accountability.md#forum-case-record) रखता है। वह अभिलेख अनुरेख करता है:
   - दावे;
   - साक्ष्य;
   - मार्गन विकल्प;
   - अस्थायी आदेश;
   - प्रमाणित प्रश्न; और
   - उस मामले में अंतिम निष्कर्ष।
-- यह [अध्याय आठ](core_08_standing_assessment.md#2-standing-records) द्वारा अपेक्षित **प्रस्थिति अभिलेखों** के समान वस्तु **नहीं** है (देखें [प्रस्थिति अभिलेख](core_05_band_accountability.md#standing-record-chapter-six))।
+- यह [अध्याय आठ](core_08_standing_assessment.md#2-standing-records) द्वारा अपेक्षित **प्रस्थिति अभिलेखों** के समान वस्तु **नहीं** है (देखें [प्रस्थिति अभिलेख](../../core_05.035_band_accountability.md#standing-record-chapter-six))।
 - मंच निर्णय अध्याय आठ **योगदान प्रस्थिति अभिलेख** या **उल्लंघन प्रस्थिति अभिलेख** का भाग तभी बन सकता है जब वह सत्यापित योगदान अभिलेख, सत्यापित उल्लंघन निष्कर्ष, **प्रणाली संरेखण प्रमाणन अभिलेख**, या अन्य निष्कर्ष पैदा करे जो अध्याय दो से चार और किसी अपेक्षित समीक्षा सुरक्षा के अधीन सीमाबद्ध, पतायोग्य, चुनौती-योग्य, और सत्यापित हो।
 - निम्न में से कोई अपने आप किसी की प्रस्थिति, भूमिका पात्रता, विश्वास स्थिति, मान्यता, या अंतिम प्रस्थिति प्रभाव नहीं बदलता:
   - मामला दायर करना;
@@ -292,7 +292,7 @@ flowchart TD
 
 - ऊर्ध्व: [§2](#2-default-venue-and-primary-stakes) (*तयशुदा स्थान तालिका, प्रवेश त्रियाज, मिश्रित दाँव, और विषमता*); [अध्याय नौ §2 — एकीकरण अभिलेख और निर्णय क्रम](core_09_standing_integration.md#2-integration-record-and-decision-order) (*उच्चतम लागू गैर-अनुपालन श्रेणी — मिश्रित-दाँव समन्वय*)।
 - अधो: [§5](#5-escalation-and-certification) (*प्रमाणित संवैधानिक प्रश्न, बैकअप मार्गन सक्रियण, और समन्वय चलते अंतरिम रक्षा*)।
-- साथ पढ़ें: [अनुच्छेद XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*चुनौती, समीक्षा और उपचार का अधिकार*); [corpus_institutions.md](../../corpus_institutions.md) (*आंतरिक अखंडता प्रक्रिया जो अखंडता मंचों से पहले आ सकती है जहाँ सुरक्षाएँ अपेक्षाएँ पूरी करें*); [corpus_forum.md](../../corpus_forum.md) (**CF-7**, अखंडता-नेतृत्व संरेखण समन्वय)।
+- साथ पढ़ें: [अनुच्छेद XIII-B](core_06_rights_part_c.md) (*चुनौती, समीक्षा और उपचार का अधिकार*); [corpus_institutions.md](../../corpus_institutions.md) (*आंतरिक अखंडता प्रक्रिया जो अखंडता मंचों से पहले आ सकती है जहाँ सुरक्षाएँ अपेक्षाएँ पूरी करें*); [corpus_forum.md](../../corpus_forum.md) (**CF-7**, अखंडता-नेतृत्व संरेखण समन्वय)।
 
 </details>
 
@@ -347,7 +347,7 @@ flowchart TD
 <a id="capacity-failure-routing"></a>
 **क्षमता विफलता भूखे निकाय के बाहर सुनी जाती है।** दावा कि मंच-परिवार, उपचार प्रणाली, या प्रस्थिति-एकीकरण कार्य क्षमता से नीचे है — डिज़ाइन किया बैकलॉग, दुष्कर प्रवेश, चिरकालिक अल्प-वित्तपोषण, चिरकालिक मीलपत्थर विफलता, या ट्रिप हुआ [अध्याय नौ §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) उपचार-समता ट्रिपवायर — आत्म-निर्णय-निषेध विषय है। जिस निकाय की क्षमता प्रश्न में है वह अपनी क्षमता का एकमात्र तथ्य-निर्धारक न हो।
 - **अखंडता** परिवार क्षमता-विफलता दावों का तयशुदा नेतृत्व है, **अनुभाग 3** बैकअप जोड़े लागू होते हुए जहाँ स्वयं अखंडता प्रश्नगत निकाय हो।
-- कोई प्रभावित पक्ष, संरक्षित रिपोर्टर, या [अध्याय एक §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) के अधीन स्व-संगठित समूह क्षमता-विफलता दावा दायर कर सकता है। वह **अनुभाग 6** के अधीन Tier B घड़ी पर सुना जाता है जब तक अभिलेख Tier A दाँव न दिखाए।
+- कोई प्रभावित पक्ष, संरक्षित रिपोर्टर, या [अध्याय एक §9.5](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) के अधीन स्व-संगठित समूह क्षमता-विफलता दावा दायर कर सकता है। वह **अनुभाग 6** के अधीन Tier B घड़ी पर सुना जाता है जब तक अभिलेख Tier A दाँव न दिखाए।
 - प्रश्नगत निकाय अपने प्रकाशित [अध्याय नौ §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) और **अनुभाग 6** बैकलॉग आँकड़े दे, और साक्ष्य दे सकता है, पर निष्कर्ष या सुधारात्मक आदेश नियंत्रित न करे।
 - क्षमता-विफलता निष्कर्ष [अध्याय नौ §9.2](core_09_standing_integration.md#92-remedy-system-durability) टिकाऊपन विफलता है। वह सुधारात्मक आदेश [प्राथमिक-दाँव](#2-default-venue-and-primary-stakes) परिवार को मार्गित करता है जो स्टाफिंग और वित्तपोषण का जिम्मेदार हो, और जहाँ पैटर्न चिरकालिक या छिपा हो साधारण अध्याय आठ पथ खोलता है।
 
@@ -455,7 +455,7 @@ flowchart TD
 **उदाहरण विषय।** इस परिवार में चुनौतियाँ शामिल हैं:
 - संस्थागत अधिदेश, अनुमत क्रिया, या सौंपा कार्य;
 - अंगीकार लिखतों के अधीन पर्यवेक्षित-दायरा सीमाएँ और वर्गीकरण;
-- [चार्टर](core_05_band_continuity.md#charter) दायरा, चार्टर संशोधन प्राधिकार, चार्टर–आचरण बेमेल, या चार्टर्ड दायरे से बाहर संचालन;
+- [चार्टर](../../core_05.040_band_continuity.md) दायरा, चार्टर संशोधन प्राधिकार, चार्टर–आचरण बेमेल, या चार्टर्ड दायरे से बाहर संचालन;
 - **`corpus_institutions.md`** और सजातीय परतों के अधीन संस्थागत-कर्तव्य अनुपालन और प्रदर्शन;
 - साझा अंतर-क्षेत्राधिकार या अंतर-संस्था मानकों का स्थानीय प्रवर्तन;
 - प्रणाली-संरेखण कार्यवाहियों में संस्थागत-अधिदेश और अधिकार-तल घटक प्रश्न जहाँ संस्था आवश्यक पक्ष हो या संस्थागत अधिदेश प्राथमिक हो।
@@ -485,7 +485,7 @@ flowchart TD
 - तुलनीय **पारिस्थितिक** **गुण**।
 - इसमें **पैटर्न** या **प्रणालीगत** पारिस्थितिक विफलता शामिल है जहाँ **अध्याय आठ** मापन, **अध्याय छह** अधिकार-तल प्रवर्तन, या **अध्याय पाँच** (*पारिस्थितिक अखंडता*, *पर्यावरणीय पूर्व शर्तें*) उस निर्धारण पर निर्भर करे।
 
-**प्रतिनिधि दाखिल।** मामला जिसका प्राथमिक दाँव [प्राकृतिक प्रणालियों की प्रस्थिति](core_05_band_participation.md#natural-systems-standing) या पारिस्थितिक अखंडता हो, प्रकाशित प्रतिनिधि — प्रभावित समुदाय, देशज-सातत्य धारक, या नामित संरक्षक — जीवन-समर्थक प्रणाली के अपने हित में खोल सकता है। यह प्रणाली को संज्ञ नहीं बनाता। प्रतिनिधियों की नियुक्ति, परहेज, और प्रकाशन [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*मार्गन संचालन, स्थानांतरण, प्रमाणन, और प्रतिनिधि व्यवहार*)) में रहते हैं और इस तल को **लागू करें, संकीर्ण न करें**।
+**प्रतिनिधि दाखिल।** मामला जिसका प्राथमिक दाँव [प्राकृतिक प्रणालियों की प्रस्थिति](../../core_05.055_band_participation.md#natural-systems-standing) या पारिस्थितिक अखंडता हो, प्रकाशित प्रतिनिधि — प्रभावित समुदाय, देशज-सातत्य धारक, या नामित संरक्षक — जीवन-समर्थक प्रणाली के अपने हित में खोल सकता है। यह प्रणाली को संज्ञ नहीं बनाता। प्रतिनिधियों की नियुक्ति, परहेज, और प्रकाशन [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*मार्गन संचालन, स्थानांतरण, प्रमाणन, और प्रतिनिधि व्यवहार*)) में रहते हैं और इस तल को **लागू करें, संकीर्ण न करें**।
 
 **उदाहरण विषय।** इस परिवार में चुनौतियाँ शामिल हैं:
 - पारिस्थितिक अखंडता या पर्यावरणीय-पूर्वशर्त आधाररेखाएँ और भंग;
@@ -616,7 +616,7 @@ flowchart TD
 - ऊर्ध्व: [§2](#2-default-venue-and-primary-stakes) और [§3](#3-transfer-consolidation-and-coordination) (*तयशुदा स्थान, प्रवेश, स्थानांतरण, मिश्रित दाँव, और आत्म-निर्णय-निषेध बैकअप*); [§4.6](#46-constitutional-forums) और [§4.7](#47-provisional-implementation-operational-law) (*अनंतिम-विधि निपटान और जारीकरण*); [अध्याय आठ §7 एकीकृत पैमाना](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*संख्यात्मक प्रभाव-स्लॉट आवंटन*); [अध्याय दस](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*योग्य स्लॉट 7–9 के लिए मेल खाता संविधान-विरोधी-दुराचरण नामांकन*); [अध्याय एक](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*प्रमाणित संवैधानिक प्रश्नों में सुरक्षा और सत्य हुक*)।
 - अधो: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*तात्विकता स्तर और देरी-निरोध अनुशासन*); [§7](#7-forum-support-before-during-and-after-review) (*उन्नयन और प्रमाणन के लिए चुनौती-योग्य मंच सहारा*); [अध्याय सोलह](../../core_18_incorporation.md) (**अनुच्छेद V-E** (*संज्ञता-स्थिति न्यायनिर्णयन तल*) कार्यान्वयन डिज़ाइन के लिए कार्यान्वयन मार्गन*)।
 - §5 के भीतर: [अंतरिम रक्षा](#interim-protection) (*गुण लंबित यथास्थिति और बहु-मंच अंतरिम-आदेश संघर्ष समन्वय*)।
-- साथ पढ़ें: [अनुच्छेद V-E: संज्ञता-स्थिति न्यायनिर्णयन तल](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [अध्याय पाँच — संज्ञता स्थिति न्यायनिर्णयन](core_05_band_participation.md#sentience-status-adjudication-constitutional); [अनुच्छेद XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*न्याय का उद्देश्य और दायरा*) से [अनुच्छेद XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*अध्याय दस नामांकनों के साथ निर्दिष्ट समीक्षा सुरक्षाएँ*); [अनुच्छेद XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*प्रमाणन — संरेखण निर्णय और सामान्य सिद्धांत*)।
+- साथ पढ़ें: [अनुच्छेद V-E: संज्ञता-स्थिति न्यायनिर्णयन तल](core_06_rights_part_b.md); [अध्याय पाँच — संज्ञता स्थिति न्यायनिर्णयन](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional); [अनुच्छेद XXIV-A](core_06_rights_part_d.md) (*न्याय का उद्देश्य और दायरा*) से [अनुच्छेद XXIV-C](core_06_rights_part_d.md) (*अध्याय दस नामांकनों के साथ निर्दिष्ट समीक्षा सुरक्षाएँ*); [अनुच्छेद XIII-B](core_06_rights_part_c.md) (*प्रमाणन — संरेखण निर्णय और सामान्य सिद्धांत*)।
 
 </details>
 
@@ -732,7 +732,7 @@ flowchart TD
   - प्रवेश पर अस्वीकृत प्रत्येक दाखिल संकेतक और अस्वीकृति कारण के साथ लॉग हो।
   - **अखंडता** परिवार उस लॉग का प्रकाशित लय पर नमूना ले।
   - निम्न में से किसी पर केंद्रित अस्वीकृति पैटर्न स्वयं विश्वसनीय संकेतक है कि द्वार रोक उपकरण के रूप में इस्तेमाल हो रहा है, और बिना और दाखिल अखंडता समीक्षा खोलता है:
-    - एक [आधार-वर्ग](core_05_band_participation.md#substrate-class);
+    - एक [आधार-वर्ग](../../core_05.055_band_participation.md#substrate-class);
     - एक जनक प्रणाली; या
     - एक संचालक।
   - अंगीकारकर्ता संकेतकों का तल समुच्चय प्रकाशित करें जिसे कोई प्रवेश डेस्क अपने आप अपर्याप्त न माने।
@@ -758,12 +758,12 @@ flowchart TD
   - **नेतृत्व परिवार** — तयशुदा तकनीकी मंच डोमेन, ऊपर विशेष मार्गों के साथ;
   - **विशेषज्ञ-कक्ष अनुमति** — विशेषज्ञ पैनल या कक्ष संकेतक आकलन सहायता कर सकते हैं पर गुण-तल नियम या तयशुदा समावेश विस्थापित न करें;
   - **दाखिल चालक** — तात्विक रूप से विवादित, विवादित, अनिर्णीत, संकीर्ण, निरस्त, या पुनर्स्थापित स्थिति — स्थिति-निर्भर रक्षा देने, वापस लेने, या संकीर्ण करने से पहले;
-  - **अंतरिम विवादित व्यवहार** — स्थिति जीवित रहते [विवादित-संज्ञ जीवन](core_05_band_participation.md#contested-sentient-life-constitutional) प्लस अनुच्छेद V-E तयशुदा समावेश;
+  - **अंतरिम विवादित व्यवहार** — स्थिति जीवित रहते [विवादित-संज्ञ जीवन](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) प्लस अनुच्छेद V-E तयशुदा समावेश;
   - **समीक्षा चालक** — इस मुद्रा के लिए घोषित अंत-तिथि या अनिवार्य समीक्षा (समय-बद्ध समीक्षा, प्रजाति सूची नहीं);
   - **पुनर्खोल साक्ष्य मानक** — नया सत्यापित साक्ष्य, केवल-कैलेंडर पुनर्खोल नहीं;
   - **स्वतंत्र प्रतिनिधि** — इस हुक के अधीन सत्ता के प्रतिनिधि के लिए नियुक्ति पथ, संघर्ष जाँच, और पहुँच शर्तें; और
   - **प्रवेश-अस्वीकृति लॉग** — अस्वीकृत दाखिल कहाँ दर्ज हों, **अखंडता** किस लय पर नमूना ले, और संकेतकों का प्रकाशित तल समुच्चय।
-- विस्तृत संस्थागत डिज़ाइन, नियुक्ति यांत्रिकी, दाखिल प्रपत्र, और अनुक्रम **अध्याय सोलह** अंगीकार अनुशासन के अधीन अंगीकृत कार्यान्वयन पाठ तक मार्गित होते हैं और **अनुच्छेद V-E** (*संज्ञता-स्थिति न्यायनिर्णयन तल*) तल **संकीर्ण न** करें। इस संस्करण तक, समर्पित [संज्ञता-स्थिति न्यायनिर्णयन अभिलेख](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) प्रारूप **अध्याय सोलह** के अधीन [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) और [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) के रूप में गणित है; वे फ़ाइलें **अनुच्छेद V-E** (*संज्ञता-स्थिति न्यायनिर्णयन तल*) या इस हुक को लागू करती हैं, **संकीर्ण नहीं** करतीं। ऊपर न्यूनतम क्षेत्र अभी लागू रहते हैं। यह हुक पूर्ण नियुक्ति या दाखिल क़ानून **नहीं** है।
+- विस्तृत संस्थागत डिज़ाइन, नियुक्ति यांत्रिकी, दाखिल प्रपत्र, और अनुक्रम **अध्याय सोलह** अंगीकार अनुशासन के अधीन अंगीकृत कार्यान्वयन पाठ तक मार्गित होते हैं और **अनुच्छेद V-E** (*संज्ञता-स्थिति न्यायनिर्णयन तल*) तल **संकीर्ण न** करें। इस संस्करण तक, समर्पित [संज्ञता-स्थिति न्यायनिर्णयन अभिलेख](../../core_05.055_band_participation.md#sentience-status-adjudication-record-constitutional) प्रारूप **अध्याय सोलह** के अधीन [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md) और [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) के रूप में गणित है; वे फ़ाइलें **अनुच्छेद V-E** (*संज्ञता-स्थिति न्यायनिर्णयन तल*) या इस हुक को लागू करती हैं, **संकीर्ण नहीं** करतीं। ऊपर न्यूनतम क्षेत्र अभी लागू रहते हैं। यह हुक पूर्ण नियुक्ति या दाखिल क़ानून **नहीं** है।
 
 <a id="referral-distinguished-from-expansion"></a>
 #### संदर्भ विस्तार से भिन्न
@@ -788,21 +788,21 @@ flowchart TD
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: [अनुच्छेद XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*समयबद्ध, कुशल, और न्याय तल*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [अनुच्छेद XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*चुनौती और उपचार पहुँच*); [अनुच्छेद XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*निरंतरता अनुशासन*); [§5](#5-escalation-and-certification) (*उन्नयन और प्रमाणन घड़ियाँ अंतःक्रिया करती हैं*)।
-- अधो: [§7](#7-forum-support-before-during-and-after-review) (*निरीक्षण, न्यायिक-वैज्ञानिक, और अनुवर्तन सहारा*); [§5](#interim-protection) (*अंतरिम रक्षा*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*लक्ष्य खिड़कियाँ और समय तल*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*सुगम मार्ग*)); [अध्याय आठ–ग्यारह अनुप्रयोग विग्नेट](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes); [अनुच्छेद XXIV-D](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) (*पुनर्स्थापना-चुनौती तयशुदा के रूप में वही बाहरी सीमाएँ*)।
+- ऊर्ध्व: [अनुच्छेद XXV-C](core_06_rights_part_d.md) (*समयबद्ध, कुशल, और न्याय तल*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [अनुच्छेद XIII-B](core_06_rights_part_c.md) (*चुनौती और उपचार पहुँच*); [अनुच्छेद XXIV-D](core_06_rights_part_d.md) (*निरंतरता अनुशासन*); [§5](#5-escalation-and-certification) (*उन्नयन और प्रमाणन घड़ियाँ अंतःक्रिया करती हैं*)।
+- अधो: [§7](#7-forum-support-before-during-and-after-review) (*निरीक्षण, न्यायिक-वैज्ञानिक, और अनुवर्तन सहारा*); [§5](#interim-protection) (*अंतरिम रक्षा*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*लक्ष्य खिड़कियाँ और समय तल*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*सुगम मार्ग*)); [अध्याय आठ–ग्यारह अनुप्रयोग विग्नेट](../../core_10.005_application_vignettes.md); [अनुच्छेद XXIV-D](core_06_rights_part_d.md) (*पुनर्स्थापना-चुनौती तयशुदा के रूप में वही बाहरी सीमाएँ*)।
 - चतुष्क टाँग(एँ): **समयबद्धता** (अंतःकाट प्रवर्तन); **सहभागिता** और **निगरानी** (सुगम प्रवेश और प्रकाशित मीलपत्थर)। प्राथमिक उद्देश्य: **समुन्नति** और **सातत्य**।
-- साथ पढ़ें: समयबद्धता मापन परिवार (*समयबद्ध समाधान तथा देरी-निरोध और समाधान-मार्ग अनुशासन*); [तात्विकता निर्धारण](core_05_band_oversight.md#materiality-determination); [समयबद्ध समाधान](core_05_band_accountability.md#timely-resolution-constitutional); [समाधान-मार्गों का कब्ज़ा](core_05_band_accountability.md#capture-of-resolution-pathways); [संवैधानिक दक्षता](core_05_band_continuity.md#constitutional-efficiency)।
-- प्रबंधक द्वार (गैर-संक्रियात्मक): बाध्यकारी अगला-कदम कथन: [संक्रियात्मक प्रबंधक कथन (अनुच्छेद XXV-C)](core_06_rights_part_d.md#operative-steward-statement-delay)। सहायक संकेत उसे संकीर्ण नहीं कर सकते।
+- साथ पढ़ें: समयबद्धता मापन परिवार (*समयबद्ध समाधान तथा देरी-निरोध और समाधान-मार्ग अनुशासन*); [तात्विकता निर्धारण](core_05_band_oversight.md#materiality-determination); [समयबद्ध समाधान](../../core_05.035_band_accountability.md#timely-resolution-constitutional); [समाधान-मार्गों का कब्ज़ा](../../core_05.035_band_accountability.md#capture-of-resolution-pathways); [संवैधानिक दक्षता](../../core_05.040_band_continuity.md#constitutional-efficiency)।
+- प्रबंधक द्वार (गैर-संक्रियात्मक): बाध्यकारी अगला-कदम कथन: [संक्रियात्मक प्रबंधक कथन (अनुच्छेद XXV-C)](core_06_rights_part_d.md)। सहायक संकेत उसे संकीर्ण नहीं कर सकते।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
-- [समयबद्ध समाधान](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [समयबद्ध समाधान](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [तात्विकता निर्धारण](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [समाधान-मार्गों का कब्ज़ा](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [संवैधानिक दक्षता](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [समाधान-मार्गों का कब्ज़ा](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [संवैधानिक दक्षता](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -824,7 +824,7 @@ flowchart TD
       - निर्भरता-विषम सेटिंग में सहभागिता-बाधा चोट;
       - अंतिम अध्याय आठ **उल्लंघन अक्ष s = 7, 8, या 9** प्रभाव-स्लॉट समीक्षा; या
       - जहाँ लागू हो मेल खाता **अध्याय दस** नामांकन।
-    - अपेक्षा: विधिपूर्ण **अंतरिम रक्षा** पूर्ण गुण की प्रतीक्षा बिना उपलब्ध हो; प्रवेश, अभिस्वीकृति, और साक्ष्य संरक्षण **दिनों** में शुरू हों, सप्ताहों में नहीं, जब तक [अप्रत्याशित घटना](core_05_band_accountability.md#force-majeure-constitutional) या प्रलेखित सुरक्षा बंधन न रोके।
+    - अपेक्षा: विधिपूर्ण **अंतरिम रक्षा** पूर्ण गुण की प्रतीक्षा बिना उपलब्ध हो; प्रवेश, अभिस्वीकृति, और साक्ष्य संरक्षण **दिनों** में शुरू हों, सप्ताहों में नहीं, जब तक [अप्रत्याशित घटना](../../core_05.035_band_accountability.md#force-majeure-constitutional) या प्रलेखित सुरक्षा बंधन न रोके।
   - **स्तर B — तात्विक अधिकार प्रभाव, गैर-आसन्न**
     - हानि का दायरा: तात्विक अधिकार, प्रस्थिति, या संस्थागत चोट जो अभी मायने रखे, पर अभी स्तर A तात्कालिकता की तीव्र चालू हानि न हो।
     - उदाहरण:
@@ -857,7 +857,7 @@ flowchart TD
     - अपेक्षा: सरलतम प्रक्रिया पथ; औपचारिक मंच प्रक्रिया न्यूनतम या माफ़ हो सकती है जहाँ कोई बाहरी अधिकार दाँव न हो; क्रीड़ा-निषेध और देरी-निरोध नियम केवल वहाँ लागू हों जहाँ बाहरी संवैधानिक हित निहित हों।
 <a id="urgency-classification-and-time-scale"></a>
 - **तात्कालिकता वर्गीकरण और समय-पैमाना:** A/B/C/L/P लेबल विवाद का तात्कालिकता और तात्विकता निष्कर्ष है। [§5](#5-escalation-and-certification) मंच-परिवार उन्नयन, जोड़े पक्ष, सीमा-पार समन्वय, या अध्याय दस सूची **अपने आप** विषय को भिन्न तात्कालिकता स्तर में नहीं ले जाता। वे तथ्य बाद-चरण खिड़कियाँ (**प्रश्न 1** से एकीकृत समाधान) लंबे प्रकाशित समय पैमाने पर बढ़ा सकते हैं, जब तक प्रवेश, साक्ष्य संरक्षण, और कोई अपेक्षित **अंतरिम रक्षा** वर्गीकृत स्तर के तल पर रहें। उस निष्कर्ष के स्थानापन्न के रूप में धीमे स्तर की घड़ियाँ इस्तेमाल करना गैर-अनुपालन है। स्वयं तात्कालिकता लेबल बदलने से पहले नया [तात्विकता निर्धारण](core_05_band_oversight.md#materiality-determination) अपेक्षित है — साधारणतः **स्तर A** तक **ऊपर** जब हानि आसन्न बने या जब अंतिम अध्याय आठ **उल्लंघन अक्ष s = 7, 8, या 9** समीक्षा या मेल खाता **अध्याय दस** नामांकन दाँव हो।
-- **शृंखला-चरण मीलपत्थर:** **अध्याय आठ से ग्यारह** से मार्गित विवादों के लिए, अंगीकारकर्ता प्रत्येक चरण के लिए संज्ञ-सुगम तयशुदा खिड़कियाँ प्रकाशित करें, स्तर से स्केल। संख्यात्मक तल तालिकाएँ [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) में रहती हैं और इस अनुभाग की बाहरी सीमाओं के भीतर फिट हों:
+- **शृंखला-चरण मीलपत्थर:** **अध्याय आठ से ग्यारह** से मार्गित विवादों के लिए, अंगीकारकर्ता प्रत्येक चरण के लिए संज्ञ-सुगम तयशुदा खिड़कियाँ प्रकाशित करें, स्तर से स्केल। संख्यात्मक तल तालिकाएँ [CF-11.3.1](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md) में रहती हैं और इस अनुभाग की बाहरी सीमाओं के भीतर फिट हों:
   1. मंच पहुँच और प्रवेश;
   2. साक्ष्य संरक्षण;
   3. **प्रश्न 1** सत्यापित निष्कर्ष और **अध्याय आठ अनुभाग 2–3** के अधीन **प्रस्थिति अभिलेख** खोलना;
@@ -872,14 +872,14 @@ flowchart TD
   - **स्तर L:** अधिकतम **चार महीने**;
   - **स्तर P:** अधिकतम **छह महीने**।
   उस प्रलेखित विस्तार बिना स्तर की बाहरी सीमा पार करना गैर-अनुपालन है। अनिश्चितकालीन स्थगन गैर-अनुपालन है जहाँ संवैधानिक हित अनसुलझे रहें।
-- **आपात नियंत्रण के बाद पुनर्स्थापना-चुनौती:** वही बाहरी सीमाएँ [**अनुच्छेद XXIV-D**](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) आपातकालीन उपाय के बाद सूचना और चुनौती पुनर्स्थापित करने की तयशुदा खिड़कियाँ हैं जिसने उन्हें स्थगित किया। खिड़की उपाय के आरंभ से, या जब सूचना या चुनौती स्थगित हुई, जो भी पहले हो, चलती है। सूचना या चुनौती का आपातकालीन स्थगन **स्तर A** है जब तक निम्न-तात्कालिकता का प्रलेखित प्रदर्शन अभिलेख पर न हो। सीमा से आगे निरंतरता **अनुच्छेद XXIV-D** निरंतरता प्रदर्शन है, नई घड़ी नहीं।
+- **आपात नियंत्रण के बाद पुनर्स्थापना-चुनौती:** वही बाहरी सीमाएँ [**अनुच्छेद XXIV-D**](core_06_rights_part_d.md) आपातकालीन उपाय के बाद सूचना और चुनौती पुनर्स्थापित करने की तयशुदा खिड़कियाँ हैं जिसने उन्हें स्थगित किया। खिड़की उपाय के आरंभ से, या जब सूचना या चुनौती स्थगित हुई, जो भी पहले हो, चलती है। सूचना या चुनौती का आपातकालीन स्थगन **स्तर A** है जब तक निम्न-तात्कालिकता का प्रलेखित प्रदर्शन अभिलेख पर न हो। सीमा से आगे निरंतरता **अनुच्छेद XXIV-D** निरंतरता प्रदर्शन है, नई घड़ी नहीं।
 - **देरी-निरोध तल:** निम्न गैर-अनुपालन हैं जहाँ वे पूर्वानुमेय रूप से अधिकार, उपचार, या समयबद्ध रक्षा निष्प्रभावी करें:
   - डिज़ाइन किया बैकलॉग, चिरकालिक अल्प-वित्तपोषण, या दुष्कर प्रवेश जो **अनुच्छेद XIII-B** (*चुनौती, समीक्षा और उपचार का अधिकार*) व्यावहारिक पहुँच हराए;
   - दावेदारों को थकाने के लिए डिज़ाइन की गई देरी व्यवस्थाएँ;
   - स्व-निर्मित देरी, प्रक्रिया परत, मंच-खरीद, या अभिलेख विखंडन मीलपत्थर औचित्य बिना समाधान लंबा करने के लिए प्रयुक्त;
   - समय खरीदने के लिए आरोपों को सत्यापित प्रस्थिति निवेश मानना ([अध्याय आठ §3.1](core_08_standing_assessment.md#verified-inputs-for-standing));
-  - देरी, अपारदर्शिता, या निर्णायक पक्षपात से [समाधान-मार्गों का कब्ज़ा](core_05_band_accountability.md#capture-of-resolution-pathways);
-  - अध्याय एक [§12.2 संवैधानिक दक्षता](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) के विरुद्ध दक्षता दावे जो:
+  - देरी, अपारदर्शिता, या निर्णायक पक्षपात से [समाधान-मार्गों का कब्ज़ा](../../core_05.035_band_accountability.md#capture-of-resolution-pathways);
+  - अध्याय एक [§12.2 संवैधानिक दक्षता](core_01_c_stewardship_capacity_principles.md) के विरुद्ध दक्षता दावे जो:
     - तथ्य-जाँच छोड़ें;
     - गलत पक्ष दंड दें;
     - हानि से न मेल खाने वाला सुधार दें; या
@@ -895,7 +895,7 @@ flowchart TD
 
 - ऊर्ध्व: [§1](#1-purpose-and-role) (*स्वतंत्रता, चुनौती-योग्यता, और अनुरेख अपेक्षाएँ*); [§2](#2-default-venue-and-primary-stakes) (*प्राथमिक-दाँव मार्गन और प्रवेश*); [§4](#4-forum-family-definitions) (*मंच-परिवार जो यह क्षमता रखते हैं*); [§5](#5-escalation-and-certification) (*उन्नयन और प्रमाणन जो चुनौती-योग्य सहारे पर निर्भर करें*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*स्तर घड़ियाँ और देरी-निरोध अनुशासन*)।
 - अधो: [§5](#interim-protection) (*सहारा कार्य चलते अंतरिम रक्षा*)।
-- साथ पढ़ें: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*मंच न्यायिक-वैज्ञानिक और विश्लेषणात्मक सहारा*); **CF-9** (*स्वतंत्र जाँच सेवा और अभियोजन इंटरफ़ेस*)); [अनुच्छेद XIII-B: चुनौती, समीक्षा और उपचार का अधिकार](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [अनुच्छेद XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*)।
+- साथ पढ़ें: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*मंच न्यायिक-वैज्ञानिक और विश्लेषणात्मक सहारा*); **CF-9** (*स्वतंत्र जाँच सेवा और अभियोजन इंटरफ़ेस*)); [अनुच्छेद XIII-B: चुनौती, समीक्षा और उपचार का अधिकार](core_06_rights_part_c.md); [अनुच्छेद XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*)।
 
 </details>
 
@@ -922,7 +922,7 @@ flowchart TD
 
 **पिछली फ़ाइल (अभी अंग्रेज़ी में):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**अगली फ़ाइल (अभी अंग्रेज़ी में):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**अगली फ़ाइल (अभी अंग्रेज़ी में):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 
 **बाध्यकारी मूल:** [core_11_forum.md](../../core_13_forum.md)
 

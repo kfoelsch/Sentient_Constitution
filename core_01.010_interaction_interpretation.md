@@ -338,7 +338,7 @@ Harm minimization selects among options that already clear those floors — it d
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** and **oversight** legs (authority-scaled answerability: intensity rises with authorized power or consequential role, never falls); [material stake](core_00.000_preamble.md#material-stake) scaling (the classification floor and the heightened thresholds).
+- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** and **oversight** legs (authority-scaled answerability: intensity rises with authorized power or consequential role, never falls); [material stake](core_00.000_preamble.md#material-stake) scaling (the classification minimum and the heightened thresholds).
 - Read with: [§18.1 Governance as Authorized Structure](core_01.015_stewardship_capacity_principles.md#181-governance-as-authorized-structure).
 
 </details>
@@ -847,7 +847,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
   - [Chapter Sixteen](core_16.000_expansion_supremacy.md#chapter-sixteen-expansion-supremacy-and-external-legal-orders) (16.000) (*non-regression and adopter hierarchy gates under
   - [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution)*).
 - Read with: [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.020_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
-- Read with: [Chapter Eight: Functional Independence and Segregation of Duties](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) (8.000) — the seat-architecture floor that the anti-bypass list in [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) protects (not restated here).
+- Read with: [Chapter Eight: Functional Independence and Separation of Duties](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000) — the seat-architecture floor that the anti-bypass list in [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) protects (not restated here).
 
 </details>
 
@@ -872,7 +872,7 @@ Each principle in this chapter applies together with the [Constitutional Tetrad]
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — the bypass list tracks the four legs: **oversight** leg (ordinary scrutiny and auditability); **participation** leg (contestability, practical access, and public-reason duties); **timeliness** leg (timely resolution, and restoration and rollback paths); **accountability** leg (accountability itself, and functional independence and segregation of duties under [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) (8.000)); [material stake](core_00.000_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — the bypass list tracks the four legs: **oversight** leg (ordinary scrutiny and auditability); **participation** leg (contestability, practical access, and public-reason duties); **timeliness** leg (timely resolution, and restoration and rollback paths); **accountability** leg (accountability itself, and functional independence and separation of duties under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000)); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream: [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle); [§15.1.2 Derived-Information Principle](#1512-derived-information-principle).
 
 </details>
@@ -919,7 +919,7 @@ It must not be used to bypass:
 - practical access;
 - timely resolution;
 - restoration and rollback paths;
-- functional independence and segregation of duties ([Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties)); or
+- functional independence and separation of duties ([Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)); or
 - accountability.
 
 Adopted implementation layers may add detail to these protections. They must not narrow them.

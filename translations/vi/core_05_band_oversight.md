@@ -12,7 +12,7 @@
 >
 > **Trước (ngôn ngữ này):** [core_05_band_integrative.md](core_05_band_integrative.md)
 >
-> **Tiếp theo (ngôn ngữ này):** [core_05_band_participation.md](core_05_band_participation.md)
+> **Tiếp theo (ngôn ngữ này):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 > **Cung đọc:** thuật ngữ độc lập → bán độc lập → cụm phụ thuộc Def.O1–Def.O2
 
 </details>
@@ -50,7 +50,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Đọc cùng: [Rủi ro](core_05_band_continuity.md#risk), [Phụ thuộc](core_05_band_continuity.md#dependency), và [Chiếm hệ thống](core_05_band_continuity.md#system-capture).
+- Đọc cùng: [Rủi ro](../../core_05.040_band_continuity.md#risk), [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), và [Chiếm hệ thống](../../core_05.040_band_continuity.md#system-capture).
 
 </details>
 
@@ -59,7 +59,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
 *Nói thẳng: hệ thống cư xử thế nào dưới áp lực — khi hữu tri chơi hệ, phối hợp giữa các tài khoản, chạy ở quy mô khổng lồ, hoặc cố ý dùng sai.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** Điều kiện vận hành trong đó hệ thống hoặc tác nhân cư xử để tối đa lợi thế theo cách có thể thay đổi [Rủi ro](core_05_band_continuity.md#risk), [Phụ thuộc](core_05_band_continuity.md#dependency), or [Chiếm hệ thống](core_05_band_continuity.md#system-capture), gồm:
+  - **Trong phạm vi:** Điều kiện vận hành trong đó hệ thống hoặc tác nhân cư xử để tối đa lợi thế theo cách có thể thay đổi [Rủi ro](../../core_05.040_band_continuity.md#risk), [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), or [Chiếm hệ thống](../../core_05.040_band_continuity.md#system-capture), gồm:
     - lạm dụng cấu trúc hệ thống;
     - phối hợp giữa các thể hiện;
     - triển khai quy mô cao — khối lượng, đồng thời, hoặc tầm với mà hành vi hoặc hiệu ứng có thể khác dùng quy mô nhỏ hoặc phòng thí nghiệm lý tưởng;
@@ -70,14 +70,14 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu oversight still works under gaming, scale, coordination, và deliberate misuse — not only under ordinary or ideal-lab conditions.
 
-    **Đánh giá sơ cấp:** Include plausible strategies that could reasonably emerge given system incentives, access, và capabilities, read together with [Rủi ro](core_05_band_continuity.md#risk) and [Phụ thuộc](core_05_band_continuity.md#dependency), phủ:
+    **Đánh giá sơ cấp:** Include plausible strategies that could reasonably emerge given system incentives, access, và capabilities, read together with [Rủi ro](../../core_05.040_band_continuity.md#risk) and [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), phủ:
     - dùng sai;
     - phối hợp;
     - chia tỷ lệ; và
     - đáp ứng thích nghi.
 <a id="adversarial-scaled-and-exploited-conditions-c"></a>
 - **Điều phải đứng**
-  - **Thất bại sơ cấp:** Không đánh giá các điều kiện này nơi liên quan là không tuân, nhất là nơi nó làm giảm [Rủi ro](core_05_band_continuity.md#risk) hoặc giấu [Chiếm hệ thống](core_05_band_continuity.md#system-capture) — kể cả dùng bất kỳ điều sau làm thế cho áp lực, quy mô, phối hợp giữa thể hiện, hoặc khai thác cố ý:
+  - **Thất bại sơ cấp:** Không đánh giá các điều kiện này nơi liên quan là không tuân, nhất là nơi nó làm giảm [Rủi ro](../../core_05.040_band_continuity.md#risk) hoặc giấu [Chiếm hệ thống](../../core_05.040_band_continuity.md#system-capture) — kể cả dùng bất kỳ điều sau làm thế cho áp lực, quy mô, phối hợp giữa thể hiện, hoặc khai thác cố ý:
     - dùng lành tính thường;
     - thử phòng thí nghiệm lý tưởng; hoặc
     - giai thoại dùng sai một lần.
@@ -92,14 +92,14 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thành phần cụm: [*Tác động vật chất, xác định tính trọng yếu, quản trị chia tỷ lệ theo phân loại, giám sát, và yêu cầu năng lực*](core_05_band_oversight.md#materiality-semi-independent).
-- Đọc cùng: [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Minh bạch](core_05_band_oversight.md#minh-bạch), và [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries).
+- Đọc cùng: [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Minh bạch](core_05_band_oversight.md#minh-bạch), và [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries).
 
 </details>
 
 <br>
 
 - **Nó là gì**
-  - **Trong phạm vi:** Một chức năng bắt buộc mà một [Hệ thống](core_05_band_accountability.md#system) sở hữu đủ để đạt một kết quả chỉ định, độc lập với cơ chế triển khai.
+  - **Trong phạm vi:** Một chức năng bắt buộc mà một [Hệ thống](../../core_05.035_band_accountability.md) sở hữu đủ để đạt một kết quả chỉ định, độc lập với cơ chế triển khai.
   - **Ngoài phạm vi:** tính năng tùy chọn, mục lộ trình kỳ vọng, hoặc sở thích thiết kế không được tuyên là năng lực bắt buộc cho một kết quả chỉ định.
 <a id="capability-requirement-a"></a>
 - **Cách đo và đánh giá**
@@ -112,7 +112,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
     Bằng chứng đó phải đủ rõ cho [Minh bạch](core_05_band_oversight.md#minh-bạch) và để người ngoài đánh giá [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact).
 <a id="capability-requirement-c"></a>
 - **Điều phải đứng**
-  - Hệ thống phải đạt kết quả chỉ định một cách chứng tỏ được trong thực hành trong [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries).
+  - Hệ thống phải đạt kết quả chỉ định một cách chứng tỏ được trong thực hành trong [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries).
   - **Thất bại sơ cấp:** năng lực được tuyên, ghi, hoặc lên kế hoạch mà không chứng tỏ đạt kết quả chỉ định trong điều kiện hệ thống được trình bày, ủy quyền, hoặc dùng.
 
 ---
@@ -126,7 +126,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
 
 - Thượng nguồn: Principles: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — [lợi hại vật chất](core_00_preamble.md#material-stake) scaling.
 - Thành phần cụm: [*Tác động vật chất, xác định tính trọng yếu, quản trị chia tỷ lệ theo phân loại, giám sát, và yêu cầu năng lực*](core_05_band_oversight.md#materiality-semi-independent).
-- Đọc cùng: [Phụ thuộc](core_05_band_continuity.md#dependency), [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro](core_05_band_continuity.md#risk), [Tính toàn vẹn ranh giới hệ thống](core_05_band_continuity.md#system-boundary-integrity), và [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional).
+- Đọc cùng: [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro](../../core_05.040_band_continuity.md#risk), [Tính toàn vẹn ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundary-integrity), và [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional).
 - Hạ nguồn: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — nghĩa vụ đánh giá toàn hệ thống chia theo hạng.
 
 </details>
@@ -138,8 +138,8 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
 - **Nó là gì**
   - **Trong phạm vi:** Phải chặt thế nào [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional), verification, và process discipline must be — scaled to [lợi hại vật chất](core_00_preamble.md#material-stake), phủ:
     - [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact);
-    - [Phụ thuộc](core_05_band_continuity.md#dependency); and
-    - [Rủi ro](core_05_band_continuity.md#risk).
+    - [Phụ thuộc](../../core_05.040_band_continuity.md#dependency); and
+    - [Rủi ro](../../core_05.040_band_continuity.md#risk).
     The system's class under *[corpus_systems.md](../../corpus_systems.md)*, CS-3 — Phân hạng hệ thống và xử lý, và related rules sets that intensity.
   - **Ngoài phạm vi:**
     - chi tiết quy trình đồng nhất thường giữa các hệ thống cùng hạng thực dưới CS-3; hoặc
@@ -149,7 +149,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu oversight depth and verification burden match the system's real stake, impact, dependency, và risk — không phải hạng thấp tự gán.
 
-    **Đánh giá sơ cấp:** Dùng hạng thực dưới quy tắc triển khai, đọc cùng [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) and [Tính toàn vẹn ranh giới hệ thống](core_05_band_continuity.md#system-boundary-integrity). Hạng thấp tự gán hoặc không chính thức không đủ khi hiệu ứng đầy đủ hệ thống đòi mạnh hơn [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional) hoặc quản trị. Rà toàn hệ chia theo hạng [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation):
+    **Đánh giá sơ cấp:** Dùng hạng thực dưới quy tắc triển khai, đọc cùng [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) and [Tính toàn vẹn ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundary-integrity). Hạng thấp tự gán hoặc không chính thức không đủ khi hiệu ứng đầy đủ hệ thống đòi mạnh hơn [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional) hoặc quản trị. Rà toàn hệ chia theo hạng [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation):
     - **Class A**, **Class B**, và **Class C** — full depth, mandatory;
     - **Class L** — bắt buộc, nhưng sized theo tác động; và
     - **Class P** — khuyến khích khi hệ thống hợp lệ là **Class P**.
@@ -159,7 +159,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
     - giám sát một-cỡ-cho-mọi-hệ bỏ qua khác biệt lợi hại thực;
     - nhãn hạng làm giảm lợi hại, tác động, phụ thuộc, hoặc rủi ro thực của hệ thống;
     - chạy hoặc gắn nhãn hệ thống thấp hơn điều hiệu ứng đầy đủ của nó đòi; hoặc
-    - bỏ nghĩa vụ theo hạng khi [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Phụ thuộc](core_05_band_continuity.md#dependency), or [Rủi ro](core_05_band_continuity.md#risk) đòi quản trị mạnh hơn.
+    - bỏ nghĩa vụ theo hạng khi [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), or [Rủi ro](../../core_05.040_band_continuity.md#risk) đòi quản trị mạnh hơn.
 
 ---
 
@@ -171,7 +171,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thành phần cụm: [Không gian thông tin](core_05_band_participation.md#info-sphere)
+- Thành phần cụm: [Không gian thông tin](../../core_05.055_band_participation.md#info-sphere)
 
 </details>
 
@@ -185,7 +185,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
     - bảo vệ nguồn;
     - điều tra; và
     - công bố.
-    Hữu tri làm việc đó thực hành [Biểu đạt](core_05_band_participation.md#expression-constitutional) and [Tụ họp](core_05_band_participation.md#assembly-constitutional) Sàn Quyền, với bảo vệ giám sát tăng dưới [Điều V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, và Press*) chống hành động nhà nước và vận hành nhằm làm suy hoạt động đó.
+    Hữu tri làm việc đó thực hành [Biểu đạt](../../core_05.055_band_participation.md#expression-constitutional) and [Tụ họp](../../core_05.055_band_participation.md#assembly-constitutional) Sàn Quyền, với bảo vệ giám sát tăng dưới [Điều V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, và Press*) chống hành động nhà nước và vận hành nhằm làm suy hoạt động đó.
   - **Ngoài phạm vi:** thẻ báo chí, chức danh thể chế, hoặc lời nói thương mại thường không phải thu tin, điều tra, hoặc công bố vận hành như báo chí.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Cách đo và đánh giá**
@@ -196,11 +196,11 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
     - bảo vệ nguồn;
     - điều tra; hoặc
     - công bố phục vụ môi trường thông tin.
-    Spot actions that impair the press by their real effect, và treat press-directed character as an aggravating factor under **Điều XIV-A** (*Security, Intelligence, và Covert-Power Limits*) and **Điều V-H** (*Expression, Assembly, và Press*). Apply heightened [Sự cần thiết](core_05_band_accountability.md#necessity) and [Tính tương xứng](core_05_band_accountability.md#proportionality) scrutiny, và keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, và treat press-directed character as an aggravating factor under **Điều XIV-A** (*Security, Intelligence, và Covert-Power Limits*) and **Điều V-H** (*Expression, Assembly, và Press*). Apply heightened [Sự cần thiết](../../core_05.035_band_accountability.md#necessity) and [Tính tương xứng](../../core_05.035_band_accountability.md#proportionality) scrutiny, và keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:** hành động nhà nước hoặc vận hành nhằm làm suy hoạt động nhà báo mà thất bại phân tích giới hạn giám sát tăng cường;
-  - **Thất bại thứ cấp:** stretching [Thiện chí](core_05_band_accountability.md#good-faith) or **Điều IX-C** (*Truthful Publication and High-Impact Publication Limits*) để các chuẩn đó chặn báo cáo phê bình hợp pháp, công bố điều tra, hoặc bất đồng;
+  - **Thất bại thứ cấp:** stretching [Thiện chí](../../core_05.035_band_accountability.md#good-faith) or **Điều IX-C** (*Truthful Publication and High-Impact Publication Limits*) để các chuẩn đó chặn báo cáo phê bình hợp pháp, công bố điều tra, hoặc bất đồng;
   - **Thất bại tam cấp:** chứng chỉ, địa vị thể chế, hoặc lời nói thương mại thường dùng làm phép thử báo chí trong khi thu tin, điều tra, hoặc công bố vận hành như báo chí vắng.
 
 ---
@@ -248,8 +248,8 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Hạ nguồn: Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) (*Materiality as constitutional measurement*); Principles: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
-- Đọc cùng: [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality), và [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại).
+- Hạ nguồn: Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) (*Materiality as constitutional measurement*); Principles: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
+- Đọc cùng: [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md), và [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại).
 
 </details>
 
@@ -265,9 +265,9 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
   - **Thước sơ cấp:** Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) — threshold input for [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination).
 
     **Đánh giá sơ cấp:** Hỏi liệu điều kiện có sinh ra có nghĩa [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) or [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk) khi bạn nhìn toàn hệ thống, không chỉ một lát.
-  - **Thước thứ cấp:** [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), và [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
+  - **Thước thứ cấp:** [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), và [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md) — co-measures that can defeat material classification when effects are fragmented or understated.
 
-    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, hỏi liệu hiệu ứng trông nhỏ từng cái còn trông nhỏ nếu gộp — kể cả toàn hệ [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality) pathways.
+    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, hỏi liệu hiệu ứng trông nhỏ từng cái còn trông nhỏ nếu gộp — kể cả toàn hệ [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md) pathways.
 <a id="material-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:** ignoring conditions that [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) would treat as material.
@@ -353,7 +353,7 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 
 - Hạ nguồn: Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) (*Materiality as constitutional measurement*); Principles: [lợi hại vật chất](core_00_preamble.md#material-stake) scaling proxy; Chương Một surfaces this definition across **Safety** (**Chương Một §8.1**), **Truth** (**Chương Một §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, và **Chương Một §6.3.2** where **Materiality** appears in D/A/C widgets — see [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - Thành phần cụm: [*Tác động vật chất, xác định tính trọng yếu, quản trị chia tỷ lệ theo phân loại, giám sát, và yêu cầu năng lực*](core_05_band_oversight.md#materiality-semi-independent).
-- Đọc cùng: [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Tính trọng yếu hệ thống](core_05_band_continuity.md#systemic-materiality), và [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán).
+- Đọc cùng: [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Tính trọng yếu hệ thống](../../core_05.040_band_continuity.md#systemic-materiality), và [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán).
 
 </details>
 
@@ -363,8 +363,8 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 
 - **Nó là gì**
   - **Trong phạm vi:** Quyết định phân loại hỏi liệu [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) or [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk) is constitutionally material for:
-    - a system (including [Tính trọng yếu hệ thống](core_05_band_continuity.md#systemic-materiality)); or
-    - an event, incident, or episode (including prospective [Hại](core_05_band_accountability.md#harm) under [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk)),
+    - a system (including [Tính trọng yếu hệ thống](../../core_05.040_band_continuity.md#systemic-materiality)); or
+    - an event, incident, or episode (including prospective [Hại](../../core_05.035_band_accountability.md#harm) under [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk)),
     khi bạn nhìn toàn thể kết nối chứ không mảnh rời.
   - **Ngoài phạm vi:**
     - [Có trọng](core_05_band_oversight.md#có-trọng) threshold trivia, cosmetics, or mere paperwork significance with no stake-scaled duty change; or
@@ -374,20 +374,20 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** Dưới [lợi hại vật chất](core_00_preamble.md#material-stake), hỏi liệu hiệu ứng đủ lớn để đổi nghĩa vụ nào áp dụng khi nhìn toàn thể kết nối — cho hệ thống hoặc sự kiện đang xét — phủ:
     - [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact);
-    - [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk) (including prospective [Hại](core_05_band_accountability.md#harm)); and
-    - [Tính trọng yếu hệ thống](core_05_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
+    - [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk) (including prospective [Hại](../../core_05.035_band_accountability.md#harm)); and
+    - [Tính trọng yếu hệ thống](../../core_05.040_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
 
     **Đánh giá sơ cấp:** Gồm mọi loại hiệu ứng quan trọng cho vụ, phủ:
     - tác động đã xảy ra;
     - hại triển vọng; và
-    - [Tính trọng yếu hệ thống](core_05_band_continuity.md#systemic-materiality) where relevant,
+    - [Tính trọng yếu hệ thống](../../core_05.040_band_continuity.md#systemic-materiality) where relevant,
     và giải thích kết luận cho toàn thể kết nối, không chỉ một lát tiện.
 
-    Với sự kiện, hỏi liệu nó liên quan đến [Phúc lợi](core_05_band_continuity.md#wellbeing) — kể cả hại triển vọng hợp lý tới phúc đó — không chỉ tới:
+    Với sự kiện, hỏi liệu nó liên quan đến [Phúc lợi](../../core_05.040_band_continuity.md#wellbeing) — kể cả hại triển vọng hợp lý tới phúc đó — không chỉ tới:
     - thước hệ thống;
     - nhãn quy trình; hoặc
     - tiện thể chế.
-  - **Thước thứ cấp:** [Phụ thuộc](core_05_band_continuity.md#dependency) — kiểm liệu gọi cái gì "không trọng" chỉ chạy vì mảnh bị phán riêng, trong khi toàn thể kết nối sẽ tính trọng. Với sự kiện ảnh hưởng hữu tri, gồm hiệu ứng hạ nguồn đi qua phụ thuộc — không chỉ cú đánh ngay trên hữu tri đó.
+  - **Thước thứ cấp:** [Phụ thuộc](../../core_05.040_band_continuity.md#dependency) — kiểm liệu gọi cái gì "không trọng" chỉ chạy vì mảnh bị phán riêng, trong khi toàn thể kết nối sẽ tính trọng. Với sự kiện ảnh hưởng hữu tri, gồm hiệu ứng hạ nguồn đi qua phụ thuộc — không chỉ cú đánh ngay trên hữu tri đó.
 
     **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, hỏi liệu phân loại có đổi nếu nhìn mảnh cùng nhau chứ không từng cái, gồm:
     - cô lập;
@@ -406,7 +406,7 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
   - Một Xác định tính trọng yếu chỉ đứng nếu phân loại được viết xuống, [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và tied to effects that actually matter constitutionally.
   - **Thất bại sơ cấp:**
     - nhãn chỉ-giấy hoặc không trọng không đổi thực nghĩa vụ hiến pháp nào áp dụng — quản trị, giám sát, yêu cầu năng lực, hoặc nghĩa vụ chia theo lợi hại khác cho hệ thống hoặc sự kiện đang xét;
-    - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [Phúc lợi](core_05_band_continuity.md#wellbeing); or
+    - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [Phúc lợi](../../core_05.040_band_continuity.md#wellbeing); or
     - xác định thiếu kết luận có căn cứ.
   - **Thất bại thứ cấp:** gọi hiệu ứng vật chất tập thể là không trọng bằng:
     - tách chúng;
@@ -455,8 +455,8 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Hạ nguồn: Principles: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
-- Đọc cùng: [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries), [Tính toàn vẹn ranh giới hệ thống](core_05_band_continuity.md#system-boundary-integrity), [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability).
+- Hạ nguồn: Principles: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- Đọc cùng: [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries), [Tính toàn vẹn ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundary-integrity), [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -465,7 +465,7 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 *Nói thẳng: bạn không được làm vấn đề lớn trông nhỏ bằng vẽ lại hộp, tách mảnh, hoặc phân hạng lại để thoát.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** A ban on shrinking materiality by manipulating [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries), aggregation, or classification contrary to [Tính toàn vẹn ranh giới hệ thống](core_05_band_continuity.md#system-boundary-integrity).
+  - **Trong phạm vi:** A ban on shrinking materiality by manipulating [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries), aggregation, or classification contrary to [Tính toàn vẹn ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundary-integrity).
   - **Ngoài phạm vi:** Bất đồng thường về tính trọng yếu, hoặc làm rõ ranh trung thực không thu hẹp hiệu ứng trọng tập thể bằng tách, trò gộp, hoặc phân hạng lại.
 <a id="materiality-integrity-constraint-a"></a>
 - **Cách đo và đánh giá**
@@ -475,9 +475,9 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
     - tách;
     - tránh gộp; và
     - trò ranh giới.
-  - **Thước thứ cấp:** [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality), [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) — co-measures that defeat manipulation or proxy gaming of materiality.
+  - **Thước thứ cấp:** [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md), [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) — co-measures that defeat manipulation or proxy gaming of materiality.
 
-    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, include [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) paths that would hide collectively material effects.
+    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, include [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) paths that would hide collectively material effects.
 <a id="materiality-integrity-constraint-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:** coi hiệu ứng trọng tập thể là không trọng qua thao túng cấu trúc.
@@ -492,9 +492,9 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Hạ nguồn: Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) (*Materiality as constitutional measurement*); Principles: [lợi hại vật chất](core_00_preamble.md#material-stake) scaling proxy; [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
+- Hạ nguồn: Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) (*Materiality as constitutional measurement*); Principles: [lợi hại vật chất](core_00_preamble.md#material-stake) scaling proxy; [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
 - Thành phần cụm: [*Tác động vật chất, xác định tính trọng yếu, quản trị chia tỷ lệ theo phân loại, giám sát, và yêu cầu năng lực*](core_05_band_oversight.md#materiality-semi-independent).
-- Đọc cùng: [Hại](core_05_band_accountability.md#harm), [Rủi ro](core_05_band_continuity.md#risk), [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality), [Phụ thuộc](core_05_band_continuity.md#dependency), [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại), [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional), và [Minh bạch](core_05_band_oversight.md#minh-bạch).
+- Đọc cùng: [Hại](../../core_05.035_band_accountability.md#harm), [Rủi ro](../../core_05.040_band_continuity.md#risk), [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md), [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại), [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional), và [Minh bạch](core_05_band_oversight.md#minh-bạch).
 
 </details>
 
@@ -503,7 +503,7 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 *Nói thẳng: how far the effects reach, how big they are, và how severe — looking at the whole system, not just the headline or the paperwork.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** Effects for [Hại](core_05_band_accountability.md#harm), [Rủi ro](core_05_band_continuity.md#risk), và constitutional evaluation, phủ:
+  - **Trong phạm vi:** Effects for [Hại](../../core_05.035_band_accountability.md#harm), [Rủi ro](../../core_05.040_band_continuity.md#risk), và constitutional evaluation, phủ:
     - chúng vươn bao xa;
     - chúng lớn thế nào; và
     - chúng nghiêm trọng thế nào.
@@ -521,9 +521,9 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
     - hiệu ứng trễ;
     - hiệu ứng tích lũy; và
     - hệ quả xuyên hệ thống.
-  - **Thước thứ cấp:** [Hại](core_05_band_accountability.md#harm), [Rủi ro](core_05_band_continuity.md#risk), [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality), và [Phụ thuộc](core_05_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
+  - **Thước thứ cấp:** [Hại](../../core_05.035_band_accountability.md#harm), [Rủi ro](../../core_05.040_band_continuity.md#risk), [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md), và [Phụ thuộc](../../core_05.040_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
 
-    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, include [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality), [Phụ thuộc](core_05_band_continuity.md#dependency), và cross-system spread that would change the material classification.
+    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, include [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md), [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), và cross-system spread that would change the material classification.
 <a id="material-impact-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:**
@@ -540,8 +540,8 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Hạ nguồn: Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) (*Materiality as constitutional measurement*); Principles: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
-- Đọc cùng: [Hại](core_05_band_accountability.md#harm), [Hại không đảo ngược](core_05_band_accountability.md#irreversible-harm), [Rủi ro](core_05_band_continuity.md#risk), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), và [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại).
+- Hạ nguồn: Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) (*Materiality as constitutional measurement*); Principles: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- Đọc cùng: [Hại](../../core_05.035_band_accountability.md#harm), [Hại không đảo ngược](../../core_05.035_band_accountability.md#irreversible-harm), [Rủi ro](../../core_05.040_band_continuity.md#risk), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), và [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại).
 
 </details>
 
@@ -550,13 +550,13 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 *Nói thẳng: how likely harm is, how fast it can arrive, và how hard it is to undo — including rare but severe outcomes.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** Prospective [Hại](core_05_band_accountability.md#harm), phủ:
+  - **Trong phạm vi:** Prospective [Hại](../../core_05.035_band_accountability.md#harm), phủ:
     - khả năng ra sao;
     - nó tới nhanh thế nào; và
     - đảo ngược khó thế nào.
   - **Ngoài phạm vi:**
     - lo suy đoán không có đường hại hợp lý; hoặc
-    - realized [Hại](core_05_band_accountability.md#harm) already in hand —
+    - realized [Hại](../../core_05.035_band_accountability.md#harm) already in hand —
     that sits under Harm / [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), not prospective risk alone.
 <a id="material-risk-a"></a>
 - **Cách đo và đánh giá**
@@ -565,17 +565,17 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
     **Đánh giá sơ cấp:** Nhìn toàn hệ thống, gồm:
     - kết quả kỳ vọng;
     - kết quả hiếm-nhưng-nặng (đuôi);
-    - how fast [Hại](core_05_band_accountability.md#harm) can arrive; and
+    - how fast [Hại](../../core_05.035_band_accountability.md#harm) can arrive; and
     - hại đó đảo ngược khó thế nào.
-  - **Thước thứ cấp:** [Hại](core_05_band_accountability.md#harm), [Hại không đảo ngược](core_05_band_accountability.md#irreversible-harm), [Rủi ro](core_05_band_continuity.md#risk), và [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
+  - **Thước thứ cấp:** [Hại](../../core_05.035_band_accountability.md#harm), [Hại không đảo ngược](../../core_05.035_band_accountability.md#irreversible-harm), [Rủi ro](../../core_05.040_band_continuity.md#risk), và [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
 
-    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, include [Hại không đảo ngược](core_05_band_accountability.md#irreversible-harm), [Rủi ro](core_05_band_continuity.md#risk), và [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
+    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, include [Hại không đảo ngược](../../core_05.035_band_accountability.md#irreversible-harm), [Rủi ro](../../core_05.040_band_continuity.md#risk), và [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
 <a id="material-risk-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:**
     - hại đã xảy ra gắn nhãn chỉ là rủi ro tương lai; hoặc
-    - material risk not addressed and constrained under [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Rủi ro](core_05_band_continuity.md#risk), và [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại).
-  - **Thất bại thứ cấp:** tail or irreversible pathways excluded when [Hại không đảo ngược](core_05_band_accountability.md#irreversible-harm) remains plausible.
+    - material risk not addressed and constrained under [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), [Rủi ro](../../core_05.040_band_continuity.md#risk), và [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại).
+  - **Thất bại thứ cấp:** tail or irreversible pathways excluded when [Hại không đảo ngược](../../core_05.035_band_accountability.md#irreversible-harm) remains plausible.
 
 ---
 
@@ -586,8 +586,8 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Hạ nguồn: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
-- Đọc cùng: [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Hại không đảo ngược](core_05_band_accountability.md#irreversible-harm), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), và [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại).
+- Hạ nguồn: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- Đọc cùng: [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Hại không đảo ngược](../../core_05.035_band_accountability.md#irreversible-harm), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), và [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại).
 
 </details>
 
@@ -605,17 +605,17 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) — precautionary default when materiality cannot be excluded.
 
-    **Đánh giá sơ cấp:** Default to precaution when you cannot rule materiality out — including when [Hại không đảo ngược](core_05_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
-  - **Thước thứ cấp:** [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Hại không đảo ngược](core_05_band_accountability.md#irreversible-harm), và [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
+    **Đánh giá sơ cấp:** Default to precaution when you cannot rule materiality out — including when [Hại không đảo ngược](../../core_05.035_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
+  - **Thước thứ cấp:** [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Hại không đảo ngược](../../core_05.035_band_accountability.md#irreversible-harm), và [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
 
-    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, include [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), và [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
+    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, include [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), và [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
 <a id="materiality-under-uncertainty-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:**
     - chờ chắc trước khi phân loại trong khi tác động hoặc rủi ro vật chất còn bất định;
     - phân loại thấp lạc quan trong khi tác động hoặc rủi ro vật chất còn bất định; hoặc
     - failure to default to conservative classification under uncertainty where [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) requires it.
-  - **Thất bại thứ cấp:** optimism or informal low classification where [Hại không đảo ngược](core_05_band_accountability.md#irreversible-harm) or [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint) requires precaution.
+  - **Thất bại thứ cấp:** optimism or informal low classification where [Hại không đảo ngược](../../core_05.035_band_accountability.md#irreversible-harm) or [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint) requires precaution.
 
 ---
 
@@ -626,9 +626,9 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Hạ nguồn: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Hạ nguồn: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Thành phần cụm: [*Tác động vật chất, xác định tính trọng yếu, quản trị chia tỷ lệ theo phân loại, giám sát, và yêu cầu năng lực*](core_05_band_oversight.md#materiality-semi-independent).
-- Đọc cùng: [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Ràng buộc toàn vẹn tính trọng yếu](core_05_band_oversight.md#có-trọngity-integrity-constraint), [Tính toàn vẹn ranh giới hệ thống](core_05_band_continuity.md#system-boundary-integrity), [Thẳng hàng khuyến khích](core_05_band_integrative.md#thẳng-hàng-khuyến-khích), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp).
+- Đọc cùng: [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Ràng buộc toàn vẹn tính trọng yếu](core_05_band_oversight.md#có-trọngity-integrity-constraint), [Tính toàn vẹn ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundary-integrity), [Thẳng hàng khuyến khích](core_05_band_integrative.md#thẳng-hàng-khuyến-khích), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp).
 
 </details>
 
@@ -674,9 +674,9 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
     - thích nghi đối kháng; và
     - hại gộp bị chỉ báo địa phương thuận giấu —
     together with [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) and [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán).
-  - **Thước tam cấp:** [Phúc lợi](core_05_band_continuity.md#wellbeing), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), và Sàn Quyền outcomes — where proxies stand in for what sentients actually experience.
+  - **Thước tam cấp:** [Phúc lợi](../../core_05.040_band_continuity.md#wellbeing), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), và Sàn Quyền outcomes — where proxies stand in for what sentients actually experience.
 
-    **Đánh giá tam cấp:** Where proxies stand in for outcome measures, trace to [Phúc lợi](core_05_band_continuity.md#wellbeing), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), or Sàn Quyền delivery — separate durable constitutional outcomes from proxy throughput.
+    **Đánh giá tam cấp:** Where proxies stand in for outcome measures, trace to [Phúc lợi](../../core_05.040_band_continuity.md#wellbeing), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), or Sàn Quyền delivery — separate durable constitutional outcomes from proxy throughput.
 <a id="proxy-divergence-c"></a>
 - **Điều phải đứng**
   - Một hệ thống thỏa kỷ luật **Lệch chỉ số thay thế** chỉ nếu chỉ số thay thế thẳng hàng với thực tế trọng theo hiến pháp dưới điều kiện toàn hệ — kể cả khi khuyến khích hoặc thiết kế lẽ ra nấu điểm.
@@ -697,8 +697,8 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Hạ nguồn: Principles: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§3 Ràng buộc nguyên tắc không thương lượng: An toàn và Sự thật](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
-- Đọc cùng: [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality), [Rủi ro](core_05_band_continuity.md#risk), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), và [Quyền năng có ý nghĩa](core_05_band_participation.md#meaningful-agency).
+- Hạ nguồn: Principles: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§3 Ràng buộc nguyên tắc không thương lượng: An toàn và Sự thật](core_01_a_values_principles.md) (**Safety** / **Truth** degradation paths).
+- Đọc cùng: [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md), [Rủi ro](../../core_05.040_band_continuity.md#risk), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), và [Quyền năng có ý nghĩa](../../core_05.055_band_participation.md#meaningful-agency).
 
 </details>
 
@@ -708,22 +708,22 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 
 - **Nó là gì**
   - **Trong phạm vi:** Một tụt không tầm thường trong mức điều kiện hiến pháp được bảo vệ đứng, phủ:
-    - [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint);
+    - [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint);
     - [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức); or
-    - [Quyền năng có ý nghĩa](core_05_band_participation.md#meaningful-agency).
+    - [Quyền năng có ý nghĩa](../../core_05.055_band_participation.md#meaningful-agency).
   - **Ngoài phạm vi:** Tụt vặt thước vận hành hoặc thông lượng hệ, bảo trì lên lịch, hoặc nhịp tạm không giảm có nghĩa an toàn, toàn vẹn nhận thức, hoặc năng lực hành có nghĩa.
 <a id="material-degradation-a"></a>
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** Integrative Materiality ([Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination)) — degradation signal for materiality classification.
 
-    **Đánh giá sơ cấp:** Include scaling and system-wide effects under [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality) and [Rủi ro](core_05_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
-  - **Thước thứ cấp:** [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Tính trọng yếu hệ thống](core_05_band_accountability.md#systemic-materiality), [Rủi ro](core_05_band_continuity.md#risk), và [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) — co-measures that can defeat degradation assessment when proxies hide decline.
+    **Đánh giá sơ cấp:** Include scaling and system-wide effects under [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md) and [Rủi ro](../../core_05.040_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
+  - **Thước thứ cấp:** [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Tính trọng yếu hệ thống](../../core_05.035_band_accountability.md), [Rủi ro](../../core_05.040_band_continuity.md#risk), và [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) — co-measures that can defeat degradation assessment when proxies hide decline.
 
     **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, apply [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) and [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) where metrics hide material degradation.
 <a id="material-degradation-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:** material degradation not treated as material under [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination).
-  - **Thất bại thứ cấp:** keeping proxy indicators looking stable while [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), or [Quyền năng có ý nghĩa](core_05_band_participation.md#meaningful-agency) materially degrades.
+  - **Thất bại thứ cấp:** keeping proxy indicators looking stable while [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), or [Quyền năng có ý nghĩa](../../core_05.055_band_participation.md#meaningful-agency) materially degrades.
 
 ---
 
@@ -743,7 +743,7 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 
 - Khung hiến pháp: **Oversight** leg; **Flourishing** aim (primary); scales with [lợi hại vật chất](core_00_preamble.md#material-stake) via [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination).
 - Cơ sở Chương Một: Chương Một §8.2, §4, §12.1, §12.2 (see [la bàn](core_05__definitions_home.md#la-bàn-và-bản-đồ-định-nghĩa-chương-năm) map).
-- Đọc cùng: Apply [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Công bằng thủ tục](core_05_band_participation.md#procedural-fairness-constitutional), [Báo cáo được bảo vệ (Tố giác)](core_05_band_accountability.md#protected-reporting-whistleblowing), [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Rủi ro](core_05_band_continuity.md#risk), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), và Chapters Two through Four mechanics where materially implicated.
+- Đọc cùng: Apply [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), [Công bằng thủ tục](../../core_05.055_band_participation.md#procedural-fairness-constitutional), [Báo cáo được bảo vệ (Tố giác)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing), [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Rủi ro](../../core_05.040_band_continuity.md#risk), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), và Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -763,7 +763,7 @@ Ngoài phạm vi đó, mục riêng vẫn có thể áp dụng một mình mà k
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), và assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**Khung giám sát.** Dưới the [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, và get audit access — owned here and at **Điều XVI** (*Audit, Transparency, và Independent Verification*). [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chương Bảy](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**Khung giám sát.** Dưới the [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, và get audit access — owned here and at **Điều XVI** (*Audit, Transparency, và Independent Verification*). [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chương Bảy](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **Hạng hệ thống và tính tương xứng.** Transparency, auditability, và verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân hạng hệ thống và xử lý**, và with material impact, dependency, và risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), gồm:
 - bảo đảm sâu hơn;
@@ -799,8 +799,8 @@ Xem **Viện chung và thỏa**.
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thành phần cụm: [Def.O1 Minh bạch, khả năng kiểm toán, và xác minh](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Hạ nguồn: Principles: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- Đọc cùng: [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Công bố sàn giám sát công cộng](core_05_band_oversight.md#công-bố-sàn-giám-sát-công-cộng), [Công bố rủi ro](core_05_band_oversight.md#công-bố-rủi-ro), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), và **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
+- Hạ nguồn: Principles: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- Đọc cùng: [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Công bố sàn giám sát công cộng](core_05_band_oversight.md#công-bố-sàn-giám-sát-công-cộng), [Công bố rủi ro](core_05_band_oversight.md#công-bố-rủi-ro), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), và **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -809,9 +809,9 @@ Xem **Viện chung và thỏa**.
 *Nói thẳng: telling affected sentients enough about how a system works, its limits, và its risks that they can genuinely understand and question it — not burying them in noise.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, và what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+  - **Trong phạm vi:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, và what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
     - Nếu hệ thống, thể chế, quá trình diễn đàn, hoặc miền quản trị tương tự trọng có thể công bố trực tuyến hợp pháp, công bố minh bạch sàn phải miễn phí cho công ở mức truy cập hạng đòi — not behind a paywall or available only to insiders — wherever [Công bố sàn giám sát công cộng](core_05_band_oversight.md#công-bố-sàn-giám-sát-công-cộng) applies.
-    - Nếu công bố vật liệu thô phá bảo vệ hợp pháp, chủ vẫn phải công bố thế công mạnh nhất hợp lý có thể trực tuyến, không moi trách nhiệm giải trình hoặc [Khả năng tranh biện](core_05_band_accountability.md#contestability) — for example:
+    - Nếu công bố vật liệu thô phá bảo vệ hợp pháp, chủ vẫn phải công bố thế công mạnh nhất hợp lý có thể trực tuyến, không moi trách nhiệm giải trình hoặc [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) — for example:
       - gộp;
       - hủy định danh;
       - công bố tóm tắt;
@@ -826,8 +826,8 @@ Xem **Viện chung và thỏa**.
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu affected parties get decision-relevant clarity about function, limits, và risk — not volume, noise, or insider-only access.
 
-    **Đánh giá sơ cấp:** Compare what is disclosed to [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) and [Phụ thuộc](core_05_band_continuity.md#dependency).
-  - **Thước thứ cấp:** [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Phụ thuộc](core_05_band_continuity.md#dependency), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh) — co-measures that can defeat transparency even when disclosure volume is high.
+    **Đánh giá sơ cấp:** Compare what is disclosed to [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) and [Phụ thuộc](../../core_05.040_band_continuity.md#dependency).
+  - **Thước thứ cấp:** [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh) — co-measures that can defeat transparency even when disclosure volume is high.
 
     **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp:
     - phát hiện khối lượng, tối nghĩa, hoặc định dạng đứng thế rõ liên quan quyết định; và
@@ -846,7 +846,7 @@ Xem **Viện chung và thỏa**.
   - **Thất bại sơ cấp:**
     - đổ dữ liệu, núi tài liệu, tường trả, hoặc truy cập chỉ-người trong không rõ liên quan quyết định thực về chức năng và rủi ro cho hữu tri bị ảnh hưởng; hoặc
     - material omissions or disclosures that foreseeably block informed participation or [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional) where required.
-  - **Thất bại thứ cấp:** safety- or security-framed limits that defeat materially required clarity without satisfying [Sự cần thiết](core_05_band_accountability.md#necessity) and [Tính tương xứng](core_05_band_accountability.md#proportionality).
+  - **Thất bại thứ cấp:** safety- or security-framed limits that defeat materially required clarity without satisfying [Sự cần thiết](../../core_05.035_band_accountability.md#necessity) and [Tính tương xứng](../../core_05.035_band_accountability.md#proportionality).
   - **Thất bại tam cấp:** disclosure volume or formatting treated as decisive where [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) is reasonably observable.
 
 ---
@@ -859,8 +859,8 @@ Xem **Viện chung và thỏa**.
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thành phần cụm: [Def.O1 Minh bạch, khả năng kiểm toán, và xác minh](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Hạ nguồn: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Chương Bảy §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chương Bảy Part B §6](../../core_09.010_system_alignment_certification_record_process.md#6-system-certification-record) (*Certification record*); [Chương Bảy Part B §6.2](../../core_09.010_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) (*Transparency, auditability, và contestability*).
-- Đọc cùng: [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Công bố rủi ro](core_05_band_oversight.md#công-bố-rủi-ro), [Điều lệ](core_05_band_continuity.md#charter), [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries), [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional), [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional), [Hồ sơ phân loại hệ thống](core_05_band_continuity.md#system-classification-record-constitutional), [Hồ sơ loại dữ liệu hệ thống](core_05_band_continuity.md#system-data-types-record-constitutional), [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại), và **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
+- Hạ nguồn: **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Chương Bảy §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chương Bảy Part B §6](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (*Certification record*); [Chương Bảy Part B §6.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*Transparency, auditability, và contestability*).
+- Đọc cùng: [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Công bố rủi ro](core_05_band_oversight.md#công-bố-rủi-ro), [Điều lệ](../../core_05.040_band_continuity.md), [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries), [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [Hồ sơ chứng nhận hệ thống](../../core_05.040_band_continuity.md#system-certification-record-constitutional), [Hồ sơ phân loại hệ thống](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [Hồ sơ loại dữ liệu hệ thống](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), [Quản trị chia tỷ lệ theo phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại), và **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
 
@@ -869,7 +869,7 @@ Xem **Viện chung và thỏa**.
 *Nói thẳng: the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, và challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, và the public face of the Charter, classification, data-typing, và certification records — with a strong public substitute when raw private or non-baseline records cannot be released.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** Sàn công bố công bắt buộc để hữu tri giám sát và thách hệ thống tác động trọng — especially **Class A**, **Class B**, và **Class C** under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân hạng hệ thống và xử lý**. Coverage follows the governing [Điều lệ](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, và observed [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries). It includes what sentients need to understand:
+  - **Trong phạm vi:** Sàn công bố công bắt buộc để hữu tri giám sát và thách hệ thống tác động trọng — especially **Class A**, **Class B**, và **Class C** under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân hạng hệ thống và xử lý**. Coverage follows the governing [Điều lệ](../../core_05.040_band_continuity.md) (or equivalent published scope instrument), assigned class, và observed [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries). It includes what sentients need to understand:
     - mục đích và hệ thống làm gì;
     - nó được phân hạng thế nào;
     - cấu trúc phụ thuộc và gì phụ thuộc nó;
@@ -879,10 +879,10 @@ Xem **Viện chung và thỏa**.
     - hiệu ứng bên liên quan; và
     - nó thẳng hàng thế nào với Hiến pháp này.
   - **Công cụ Class A/B/C Type O:** Nơi sàn **Type O** áp dụng cho **Class A**, **Class B**, hoặc **Class C**, sàn đó gồm — ở độ trung thực sàn công, kể cả thế hợp pháp — công bố hoặc tầm nhìn công dùng được của:
-    - the governing [Điều lệ](core_05_band_continuity.md#charter) (or equivalent published scope instrument);
-    - the [Hồ sơ phân loại hệ thống](core_05_band_continuity.md#system-classification-record-constitutional);
-    - the [Hồ sơ loại dữ liệu hệ thống](core_05_band_continuity.md#system-data-types-record-constitutional); and
-    - the [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional) produced by [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
+    - the governing [Điều lệ](../../core_05.040_band_continuity.md) (or equivalent published scope instrument);
+    - the [Hồ sơ phân loại hệ thống](../../core_05.040_band_continuity.md#system-classification-record-constitutional);
+    - the [Hồ sơ loại dữ liệu hệ thống](../../core_05.040_band_continuity.md#system-data-types-record-constitutional); and
+    - the [Hồ sơ chứng nhận hệ thống](../../core_05.040_band_continuity.md#system-certification-record-constitutional) produced by [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
   - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, và stakeholder effects may be satisfied through those records, [Công bố rủi ro](core_05_band_oversight.md#công-bố-rủi-ro) where systemic risk is in scope, và other lawful **Type O** summaries or substitutes — not by omitting the topics.
   - **Thế hợp pháp:** Ở trong phạm vi nơi hồ sơ nguồn **Type G**, **Type E**, hoặc khác không công, không sàn, hoặc hạn khác, gồm:
     - gộp;
@@ -904,12 +904,12 @@ Xem **Viện chung và thỏa**.
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **Đánh giá sơ cấp:** Compare published disclosure to certified scope from [Điều lệ](core_05_band_continuity.md#charter), assigned class, và [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**, confirm:
-    - a usable public view of the [Điều lệ](core_05_band_continuity.md#charter), [Hồ sơ phân loại hệ thống](core_05_band_continuity.md#system-classification-record-constitutional), [Hồ sơ loại dữ liệu hệ thống](core_05_band_continuity.md#system-data-types-record-constitutional), và [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
+    **Đánh giá sơ cấp:** Compare published disclosure to certified scope from [Điều lệ](../../core_05.040_band_continuity.md), assigned class, và [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)**, confirm:
+    - a usable public view of the [Điều lệ](../../core_05.040_band_continuity.md), [Hồ sơ phân loại hệ thống](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [Hồ sơ loại dữ liệu hệ thống](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), và [Hồ sơ chứng nhận hệ thống](../../core_05.040_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, và constitutional compliance are each covered at baseline depth;
-    - that lawful substitutes still support meaningful accountability and [Khả năng tranh biện](core_05_band_accountability.md#contestability); and
+    - that lawful substitutes still support meaningful accountability and [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability); and
     - rằng sẵn có trực tuyến miễn phí đứng nơi hạ tầng công bố hợp pháp tồn tại.
-  - **Thước thứ cấp:** [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Công bố rủi ro](core_05_band_oversight.md#công-bố-rủi-ro) — co-measures that can defeat the floor even when some public artifacts exist.
+  - **Thước thứ cấp:** [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Công bố rủi ro](core_05_band_oversight.md#công-bố-rủi-ro) — co-measures that can defeat the floor even when some public artifacts exist.
 
     **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, look for:
     - tóm tắt mỏng;
@@ -925,7 +925,7 @@ Xem **Viện chung và thỏa**.
     - truy cập kiểm toán **Type G** không công, tường trả, hoặc tóm tắt trình diễn dùng làm sàn công;
     - tóm tắt trình diễn giấu vật liệu sàn liên quan quyết định;
     - phân phối sàn sau tường trả hoặc chỉ-người trong nơi hạ tầng công bố trực tuyến hợp pháp tồn tại cho truy cập công phù hạng;
-    - omitting a usable public view of the [Điều lệ](core_05_band_continuity.md#charter), [Hồ sơ phân loại hệ thống](core_05_band_continuity.md#system-classification-record-constitutional), [Hồ sơ loại dữ liệu hệ thống](core_05_band_continuity.md#system-data-types-record-constitutional), or [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**; or
+    - omitting a usable public view of the [Điều lệ](../../core_05.040_band_continuity.md), [Hồ sơ phân loại hệ thống](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [Hồ sơ loại dữ liệu hệ thống](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), or [Hồ sơ chứng nhận hệ thống](../../core_05.040_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)**; or
     - bỏ tầm nhìn sàn vào mục đích, cấu trúc phụ thuộc, trạng thái vận hành, rủi ro vật chất, hiệu suất, thất bại, quản trị, kết quả kiểm toán, hiệu ứng bên liên quan, hoặc tuân hiến pháp.
   - **Thất bại tam cấp:** hold-backs that are not narrow, documented, proportionate, auditable, và challengeable under CS-2 and [Minh bạch](core_05_band_oversight.md#minh-bạch).
 
@@ -939,8 +939,8 @@ Xem **Viện chung và thỏa**.
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thành phần cụm: [Def.O1 Minh bạch, khả năng kiểm toán, và xác minh](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Hạ nguồn: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint); [Chương Bảy §3.1 Systemic Scope and Risk Factors](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [Chương Bảy Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
-- Đọc cùng: [Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation), [Rủi ro](core_05_band_continuity.md#risk), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Công bố sàn giám sát công cộng](core_05_band_oversight.md#công-bố-sàn-giám-sát-công-cộng), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), và [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional).
+- Hạ nguồn: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [4.1 Safety](core_01_a_values_principles.md#4-safety-harm-constraint); [Chương Bảy §3.1 Systemic Scope and Risk Factors](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [Chương Bảy Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- Đọc cùng: [Đánh giá rủi ro](../../core_05.040_band_continuity.md#risk-evaluation), [Rủi ro](../../core_05.040_band_continuity.md#risk), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Công bố sàn giám sát công cộng](core_05_band_oversight.md#công-bố-sàn-giám-sát-công-cộng), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), và [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
 
@@ -949,27 +949,27 @@ Xem **Viện chung và thỏa**.
 *Nói thẳng: nói với hữu tri cần biết về rủi ro hệ thống — giữ đánh giá trong ngăn kéo không tính.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** Communicating evaluated systemic [Rủi ro](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, và act.
-    - **Nghĩa vụ liên tục:** The duty is not limited to certification cycles — it applies whenever [Minh bạch](core_05_band_oversight.md#minh-bạch) or [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [Chương Bảy §3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+  - **Trong phạm vi:** Communicating evaluated systemic [Rủi ro](../../core_05.040_band_continuity.md#risk) to those who need it so they can understand, challenge, và act.
+    - **Nghĩa vụ liên tục:** The duty is not limited to certification cycles — it applies whenever [Minh bạch](core_05_band_oversight.md#minh-bạch) or [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
+    - **SAC verification:** Where [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [Chương Bảy §3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [Hồ sơ chứng nhận hệ thống](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **Ngoài phạm vi:**
-    - [Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
+    - [Đánh giá rủi ro](../../core_05.040_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [Công bố sàn giám sát công cộng](core_05_band_oversight.md#công-bố-sàn-giám-sát-công-cộng) as the broader public baseline floor; or
-    - findings placement on the [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [Hồ sơ phân loại hệ thống](core_05_band_continuity.md#system-classification-record-constitutional) or [Hồ sơ loại dữ liệu hệ thống](core_05_band_continuity.md#system-data-types-record-constitutional) —
+    - findings placement on the [Hồ sơ chứng nhận hệ thống](../../core_05.040_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [Hồ sơ phân loại hệ thống](../../core_05.040_band_continuity.md#system-classification-record-constitutional) or [Hồ sơ loại dữ liệu hệ thống](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) —
     chúng nằm dưới nhà riêng.
 <a id="risk-disclosure-a"></a>
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu evaluated systemic risk actually reaches the sentients who need it — not only whether an evaluation exists somewhere.
 
-    **Đánh giá sơ cấp:** Ask whether disclosure is timely, decision-relevant, và sized to material stake under [Minh bạch](core_05_band_oversight.md#minh-bạch). Read with [Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
-  - **Thước thứ cấp:** [Đánh giá rủi ro](core_05_band_continuity.md#risk-evaluation), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Khả năng tranh biện](core_05_band_accountability.md#contestability), và [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức) — other checks that can show disclosure failed even when some risk wording is on file.
+    **Đánh giá sơ cấp:** Ask whether disclosure is timely, decision-relevant, và sized to material stake under [Minh bạch](core_05_band_oversight.md#minh-bạch). Read with [Đánh giá rủi ro](../../core_05.040_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
+  - **Thước thứ cấp:** [Đánh giá rủi ro](../../core_05.040_band_continuity.md#risk-evaluation), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), và [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức) — other checks that can show disclosure failed even when some risk wording is on file.
 
     **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, look for walls of text, buried details, insider-only channels, or late notice that keep the sentients who needed the risk picture from actually understanding it in time.
 <a id="risk-disclosure-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:**
-    - failure to disclose risk where [Minh bạch](core_05_band_oversight.md#minh-bạch) or [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint) requires it; or
-    - [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
+    - failure to disclose risk where [Minh bạch](core_05_band_oversight.md#minh-bạch) or [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint) requires it; or
+    - [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
   - **Thất bại thứ cấp:** ghi chú chỉ-nội, phụ lục chôn, hoặc tuyên sau việc dùng làm công bố khi hữu tri cần bức tranh rủi ro không dùng kịp.
 
 ---
@@ -982,9 +982,9 @@ Xem **Viện chung và thỏa**.
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thành phần cụm: [Def.O1 Minh bạch, khả năng kiểm toán, và xác minh](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Bảo toàn bằng chứng](core_05_band_oversight.md#bảo-toàn-bằng-chứng), và [Ràng buộc đầy đủ đánh giá](core_05_band_oversight.md#ràng-buộc-đầy-đủ-đánh-giá).
-- Đọc cùng: **Điều XVI** (*Audit, Transparency, và Independent Verification*); [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- Cửa quản trị (không vận hành): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Điều XVI)](../../core_06.015_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Điều XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
+- Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Bảo toàn bằng chứng](core_05_band_oversight.md#bảo-toàn-bằng-chứng), và [Ràng buộc đầy đủ đánh giá](core_05_band_oversight.md#ràng-buộc-đầy-đủ-đánh-giá).
+- Đọc cùng: **Điều XVI** (*Audit, Transparency, và Independent Verification*); [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
+- Cửa quản trị (không vận hành): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Điều XVI)](core_06_rights_part_c.md). Three-layer picture: [Điều XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -995,7 +995,7 @@ Xem **Viện chung và thỏa**.
 - **Nó là gì**
   - **Trong phạm vi:** Whether outsiders can systematically examine, reconstruct, và evaluate system behavior through enough [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh) — including external detectability and independent validation.
     - **Phủ:** Must span the material times, states, và interaction contexts — not only a single snapshot or happy-path sample.
-    - **Vai trò giám sát:** Dưới the **oversight** Tetrad leg, oversight requires this property; [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
+    - **Vai trò giám sát:** Dưới the **oversight** Tetrad leg, oversight requires this property; [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
     - **Năng lực vận hành:** Nơi nghĩa vụ ràng buộc đòi năng lực vận hành, khả năng kiểm toán gồm kiểm tuân tuyên dựa năng lực thực, dựng lại được — not text, assertions, or unimplemented controls alone ([Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#authority-stack) supremacy effect).
   - **Ngoài phạm vi:**
     - raw logs or [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh) external detectability alone;
@@ -1006,8 +1006,8 @@ Xem **Viện chung và thỏa**.
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu outsiders can reconstruct and check what the system did across the material times, states, và contexts — including whether claimed compliance rests on real capability, not paper alone.
 
-    **Đánh giá sơ cấp:** It must work across relevant conditions and [Bên bị ảnh hưởng](core_05_band_participation.md#stakeholder), including conditions relevant to [Khả năng tranh biện](core_05_band_accountability.md#contestability) and [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [Rủi ro](core_05_band_continuity.md#risk), và constitutional misalignment across:
-    - [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries);
+    **Đánh giá sơ cấp:** It must work across relevant conditions and [Bên bị ảnh hưởng](../../core_05.055_band_participation.md#stakeholder), including conditions relevant to [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) and [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [Rủi ro](../../core_05.040_band_continuity.md#risk), và constitutional misalignment across:
+    - [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries);
     - trạng thái vận hành; và
     - [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác).
     Nơi nghĩa vụ ràng buộc đòi năng lực vận hành, hỏi liệu tuân tuyên có được năng lực đã xác minh chống lưng — không:
@@ -1016,10 +1016,10 @@ Xem **Viện chung và thỏa**.
       - kiểm soát giấy;
       - thực hành khẩn; hoặc
       - tuyên không quan sát được.
-  - **Thước thứ cấp:** [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Bảo toàn bằng chứng](core_05_band_oversight.md#bảo-toàn-bằng-chứng), và [Khả năng tranh biện](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
+  - **Thước thứ cấp:** [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Bảo toàn bằng chứng](core_05_band_oversight.md#bảo-toàn-bằng-chứng), và [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
 
     **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp:
-    - nơi quản trị dựa thước lặp tương đương, đường kiểm toán nên hỗ trợ rà biến thiên theo thời và theo dõi kích ngưỡng khi tuyên ([Chương Một §9.3 Institutional Development](core_01_c_stewardship_capacity_principles.md#93-institutional-development); [Tính tương xứng](core_05_band_accountability.md#proportionality)); and
+    - nơi quản trị dựa thước lặp tương đương, đường kiểm toán nên hỗ trợ rà biến thiên theo thời và theo dõi kích ngưỡng khi tuyên ([Chương Một §9.3 Institutional Development](core_01_c_stewardship_capacity_principles.md#162-institutional-development); [Tính tương xứng](../../core_05.035_band_accountability.md#proportionality)); and
     - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, và effects that matter — and is available for independent [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh) and [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional).
   - **Thước tam cấp:** [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
 
@@ -1030,7 +1030,7 @@ Xem **Viện chung và thỏa**.
     - cơ chế kiểm toán không chạy;
     - không bật dựng lại và đánh giá thực tế;
     - một ảnh chụp, mẫu đường vui, hoặc cửa hẹp bỏ thời, trạng thái, hoặc ngữ cảnh tương tác trọng;
-    - [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only auditing process or as a substitute for this property;
+    - [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only auditing process or as a substitute for this property;
     - tuyên giấy tuân hiến pháp không dựng lại hoặc thách được; hoặc
     - bất kỳ điều sau dùng làm tuân đủ nơi nghĩa vụ ràng buộc đòi năng lực vận hành đã xác minh:
       - văn bản;
@@ -1051,7 +1051,7 @@ Xem **Viện chung và thỏa**.
       - trạng thái;
       - ngữ cảnh; hoặc
       - [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác);
-    - supremacy or compliance claims while suppressing [Khả năng tranh biện](core_05_band_accountability.md#contestability) or defeating auditable verification.
+    - supremacy or compliance claims while suppressing [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) or defeating auditable verification.
   - **Thất bại tam cấp:** audit sampling or "the metric looks fine" treated as decisive where [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) is reasonably observable.
 
 ---
@@ -1063,9 +1063,9 @@ Xem **Viện chung và thỏa**.
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Hạ nguồn: Principles: [§3 Ràng buộc nguyên tắc không thương lượng: An toàn và Sự thật](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [Chương Một §6](core_05_apex_oversight_leg.md#6-process-conflict-resolution), và [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, và correction.
+- Hạ nguồn: Principles: [§3 Ràng buộc nguyên tắc không thương lượng: An toàn và Sự thật](core_01_a_values_principles.md), [Chương Một §6](core_05_apex_oversight_leg.md), và [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, và correction.
 - Thành phần cụm: [Def.O1 Minh bạch, khả năng kiểm toán, và xác minh](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Đọc cùng: [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Công bằng thủ tục](core_05_band_participation.md#procedural-fairness-constitutional), [Báo cáo được bảo vệ (Tố giác)](core_05_band_accountability.md#protected-reporting-whistleblowing), và [Khắc phục và sửa chữa](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Đọc cùng: [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), [Công bằng thủ tục](../../core_05.055_band_participation.md#procedural-fairness-constitutional), [Báo cáo được bảo vệ (Tố giác)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing), và [Khắc phục và sửa chữa](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -1114,8 +1114,8 @@ Xem **Viện chung và thỏa**.
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thành phần cụm: [Def.O1 Minh bạch, khả năng kiểm toán, và xác minh](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Hạ nguồn: Oversight measurement family (*evaluation coverage as constitutional measurement*); [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [Chương Bảy Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, và deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, và regression coverage*).
-- Đọc cùng: [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional), [Điều lệ](core_05_band_continuity.md#charter), [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries), [Tính toàn vẹn ranh giới hệ thống](core_05_band_continuity.md#system-boundary-integrity), [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác), [Tạo hệ thống](core_05_band_participation.md#system-creation-constitutional), và [Tạo doanh nghiệp](core_05_band_participation.md#business-creation-constitutional).
+- Hạ nguồn: Oversight measurement family (*evaluation coverage as constitutional measurement*); [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [Chương Bảy Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, và deployment](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*testing, stress, và regression coverage*).
+- Đọc cùng: [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [Điều lệ](../../core_05.040_band_continuity.md), [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries), [Tính toàn vẹn ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundary-integrity), [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác), [Tạo hệ thống](../../core_05.055_band_participation.md#system-creation-constitutional), và [Tạo doanh nghiệp](../../core_05.055_band_participation.md#business-creation-constitutional).
 
 </details>
 
@@ -1130,30 +1130,30 @@ Xem **Viện chung và thỏa**.
     - tương tác; và
     - đường đối kháng.
   - **Nghĩa vụ liên tục:** Ràng buộc áp dụng mỗi khi vận hành, quản trị, hoặc người rà tuyên tuân hiến pháp, sẵn sàng, hoặc dựa an toàn từ công đánh giá hoặc bảo đảm — không chỉ trong chu kỳ chứng nhận.
-  - **Charter and scope process:** Where a governing [Điều lệ](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [Hồ sơ chứng nhận hệ thống](core_05_band_continuity.md#system-certification-record-constitutional).
+  - **Charter and scope process:** Where a governing [Điều lệ](../../core_05.040_band_continuity.md) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
+  - **SAC verification:** Where [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [Hồ sơ chứng nhận hệ thống](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
   - **Ngoài phạm vi:**
-    - [Điều lệ](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
-    - [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
+    - [Điều lệ](../../core_05.040_band_continuity.md) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
+    - [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
     - thử đơn vị hoặc tính năng thường không đưa ra như đánh giá hiến pháp đầy đủ.
 <a id="evaluation-completeness-constraint-a"></a>
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu evaluation covers plausible failure, misuse, interaction, và adversarial pathways — not only selective demo scenarios.
 
-    **Đánh giá sơ cấp:** Show enough coverage of plausible pathways, sized to system impact, [Phụ thuộc](core_05_band_continuity.md#dependency), và [Rủi ro](core_05_band_continuity.md#risk), gồm:
+    **Đánh giá sơ cấp:** Show enough coverage of plausible pathways, sized to system impact, [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), và [Rủi ro](../../core_05.040_band_continuity.md#risk), gồm:
     - thất bại;
     - dùng sai;
     - tương tác; và
     - [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác) where material.
     Cũng hỏi:
-      - where a [Điều lệ](core_05_band_continuity.md#charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where a [Điều lệ](../../core_05.040_band_continuity.md) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
+      - where [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:**
     - kịch bản demo chọn hoặc bộ thử tiếp thị dùng làm đánh giá đầy đủ trong khi đường thất bại, dùng sai, tương tác, hoặc đối kháng hợp lý còn bỏ;
-    - incomplete or selectively scoped evaluation that defeats [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), or [Tính toàn vẹn ranh giới hệ thống](core_05_band_continuity.md#system-boundary-integrity); or
-    - [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
+    - incomplete or selectively scoped evaluation that defeats [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), or [Tính toàn vẹn ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundary-integrity); or
+    - [Chứng nhận thẳng hàng hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
   - **Thất bại thứ cấp:** Văn Điều lệ, ngôn ủy quyền thể chế, tuyên mục đích kinh doanh, hoặc bộ demo chứng nhận hẹp dùng làm đánh giá đầy đủ trong khi bất kỳ điều sau còn chưa đánh:
     - thất bại;
     - dùng sai;
@@ -1178,7 +1178,7 @@ Xem **Viện chung và thỏa**.
 
 - Thành phần cụm: [Def.O1 Minh bạch, khả năng kiểm toán, và xác minh](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Sàn chủ sở hữu: [Điều XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
-- Đọc cùng: [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Tính tương xứng](core_05_band_accountability.md#proportionality), [Tính khả thi](core_05_band_accountability.md#feasibility), [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp), và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác).
+- Đọc cùng: [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), [Tính tương xứng](../../core_05.035_band_accountability.md#proportionality), [Tính khả thi](../../core_05.035_band_accountability.md#feasibility), [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp), và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác).
 
 </details>
 
@@ -1189,9 +1189,9 @@ Xem **Viện chung và thỏa**.
 - **Nó là gì**
   - **Trong phạm vi:** Whether system behavior, outputs, và effects can be externally detected, measured, và independently validated for [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán). Constitutive conditions:
     - khả năng phát hiện ngoài trước xác minh độc lập được tính;
-    - practical access ([Điều XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Tính khả thi](core_05_band_accountability.md#feasibility));
+    - practical access ([Điều XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Tính khả thi](../../core_05.035_band_accountability.md#feasibility));
     - độc lập khỏi tự khẳng định vận hành;
-    - proportionate burden under [Tính tương xứng](core_05_band_accountability.md#proportionality) and [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact); and
+    - proportionate burden under [Tính tương xứng](../../core_05.035_band_accountability.md#proportionality) and [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact); and
     - reliability under ordinary stress, misuse, và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác).
   - **Ngoài phạm vi:**
     - chỉ đo xa nội hoặc dụng cụ hướng vận hành; hoặc
@@ -1214,11 +1214,11 @@ Xem **Viện chung và thỏa**.
   - **Thước thứ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu observed behavior can be independently validated by reproducible methods in practice.
 
     **Đánh giá thứ cấp:** Xác nhận xác minh độc lập bằng phương pháp:
-    - affected and appropriately authorized parties can actually perform ([Điều XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Tính khả thi](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Điều XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Tính khả thi](../../core_05.035_band_accountability.md#feasibility));
     - dựa bằng chứng phát hiện ngoài — không tuyên nội hoặc ý định suy;
-    - are sized to system impact under [Tính tương xứng](core_05_band_accountability.md#proportionality) and [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact); and
+    - are sized to system impact under [Tính tương xứng](../../core_05.035_band_accountability.md#proportionality) and [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact); and
     - remain reliable under ordinary stress, misuse, và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác).
-  - **Thước tam cấp:** [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Khả năng tranh biện](core_05_band_accountability.md#contestability), và [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp) — co-measures that can defeat verification even when methods are nominally documented.
+  - **Thước tam cấp:** [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), và [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp) — co-measures that can defeat verification even when methods are nominally documented.
 
     **Đánh giá tam cấp:** Khi kiểm câu trả lời sơ cấp và thứ cấp, phát hiện xác minh thất bại bất kỳ điều kiện cấu thành trên dù kênh tồn tại trên giấy.
 <a id="observability-c"></a>
@@ -1230,7 +1230,7 @@ Xem **Viện chung và thỏa**.
 <a id="verifiability-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:**
-    - insufficient external detectability that defeats [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng tranh biện](core_05_band_accountability.md#contestability), or independent validation;
+    - insufficient external detectability that defeats [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), or independent validation;
     - unverifiable claims under [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Minh bạch](core_05_band_oversight.md#minh-bạch), or [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp); or
     - tự khẳng định vận hành dùng làm chứng hành vi phát hiện ngoài, xác nhận độc lập.
   - **Thất bại thứ cấp:**
@@ -1240,7 +1240,7 @@ Xem **Viện chung và thỏa**.
     - xác minh gánh quá mức cho tác động thấp, hoặc tượng trưng cho tác động cao;
     - xác minh người rà độc lập đủ tư cách không tái tạo được với bằng chứng và truy cập bắt buộc; hoặc
     - verification that becomes unreliable under [Thấy trước được một cách hợp lý](core_05_band_oversight.md#thấy-trước-được-một-cách-hợp-lý) operating, degraded, scaled, or adversarial conditions.
-  - **Thất bại tam cấp:** a verification channel that exists on paper while [Khả năng tranh biện](core_05_band_accountability.md#contestability) or another constitutive condition is missing in practice.
+  - **Thất bại tam cấp:** a verification channel that exists on paper while [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) or another constitutive condition is missing in practice.
 
 ---
 
@@ -1257,7 +1257,7 @@ Xem **Viện chung và thỏa**.
 - Hạ nguồn: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Ghi chú cắt trụ: integrative with **Accountability** where contest and correction are implicated.
 - Cơ sở Chương Một: Chương Một §8.2, §3.3, §4, §12.1, §12.2 (see [la bàn](core_05__definitions_home.md#la-bàn-và-bản-đồ-định-nghĩa-chương-năm) map).
-- Đọc cùng: Apply [Thiện chí](core_05_band_accountability.md#good-faith), [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Phụ thuộc](core_05_band_continuity.md#dependency), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Rủi ro](core_05_band_continuity.md#risk), và Chapters Two through Four mechanics where materially implicated.
+- Đọc cùng: Apply [Thiện chí](../../core_05.035_band_accountability.md#good-faith), [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), [Minh bạch](core_05_band_oversight.md#minh-bạch), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), [Rủi ro](../../core_05.040_band_continuity.md#risk), và Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -1311,7 +1311,7 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
 *Nói thẳng: nếu công bố cái gì như sự thật, đừng cố ý nói dối — và đừng coi thường liều lĩnh độ chính xác, bất định, ngữ cảnh, hoặc giới hạn diễn giải trọng.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** Bounds on communicative conduct when publishing or communicating as a factual assertion within the [Không gian thông tin](core_05_band_participation.md#info-sphere).
+  - **Trong phạm vi:** Bounds on communicative conduct when publishing or communicating as a factual assertion within the [Không gian thông tin](../../core_05.055_band_participation.md#info-sphere).
   - **Ngoài phạm vi:**
     - ý kiến, bình, hoặc trào không trình như khẳng định sự kiện; và
     - lỗi thiện ý không phải giả dối cố ý cũng không coi thường liều lĩnh độ chính xác, bất định, ngữ cảnh, hoặc giới hạn diễn giải trọng.
@@ -1324,10 +1324,10 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
     - bất định;
     - ngữ cảnh; hoặc
     - giới hạn diễn giải trọng,
-    from good-faith observation and bounded interpretation, under [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp) and [Thiện chí](core_05_band_accountability.md#good-faith).
+    from good-faith observation and bounded interpretation, under [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp) and [Thiện chí](../../core_05.035_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **Điều phải đứng**
-  - Good-faith publication of observations, evidence, và bounded interpretations is governed by Chương Mười Một **Articles IX**, **XIII**, và **XIV** as applicable and must satisfy this cluster jointly under [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp), [Thiện chí](core_05_band_accountability.md#good-faith), và [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức).
+  - Good-faith publication of observations, evidence, và bounded interpretations is governed by Chương Mười Một **Articles IX**, **XIII**, và **XIV** as applicable and must satisfy this cluster jointly under [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp), [Thiện chí](../../core_05.035_band_accountability.md#good-faith), và [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức).
   - **Thất bại sơ cấp:** công bố giả dối cố ý, hoặc công bố với coi thường liều lĩnh đối với:
     - độ chính xác;
     - bất định;
@@ -1341,16 +1341,16 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
 *Nói thẳng: đừng công bố dữ liệu hạn hoặc lộ trạng thái nhận thức hoặc cảm xúc nội được bảo vệ của hữu tri khác.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** Limits on publishing content that violates restricted-data rules or exposes protected internal states within the [Không gian thông tin](core_05_band_participation.md#info-sphere).
+  - **Trong phạm vi:** Limits on publishing content that violates restricted-data rules or exposes protected internal states within the [Không gian thông tin](../../core_05.055_band_participation.md#info-sphere).
   - **Ngoài phạm vi:** Sự kiện công thường, thông tin phát hành hợp pháp, hoặc công bố hạn vì lý do hại hệ thống chứ không vì lộ dữ liệu được bảo vệ hoặc trạng thái nội.
 <a id="protected-data-and-internal-state-publication-constraint-a"></a>
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu publication respects restricted-data rules and protected internal-state boundaries — not reconstructing or exposing protected cognitive or emotional states.
 
-    **Đánh giá sơ cấp:** Publication must not bypass **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling**, [Quyền riêng tư (Thông tin)](core_05_band_continuity.md#privacy-informational), [Ranh giới trạng thái nội tại được bảo vệ](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Trừ nơi Hiến pháp này phép rõ, công bố không được dựng lại, suy, hoặc lộ hữu tri khác’s protected internal cognitive or emotional states.
+    **Đánh giá sơ cấp:** Publication must not bypass **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling**, [Quyền riêng tư (Thông tin)](../../core_05.040_band_continuity.md#privacy-informational), [Ranh giới trạng thái nội tại được bảo vệ](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Trừ nơi Hiến pháp này phép rõ, công bố không được dựng lại, suy, hoặc lộ hữu tri khác’s protected internal cognitive or emotional states.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **Điều phải đứng**
-  - **Thất bại sơ cấp:** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Quyền riêng tư (Thông tin)](core_05_band_continuity.md#privacy-informational) and [Ranh giới trạng thái nội tại được bảo vệ](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
+  - **Thất bại sơ cấp:** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Quyền riêng tư (Thông tin)](../../core_05.040_band_continuity.md#privacy-informational) and [Ranh giới trạng thái nội tại được bảo vệ](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional).
 
 <a id="high-impact-and-systemic-harm-publication-constraint"></a>
 
@@ -1359,7 +1359,7 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
 *Nói thẳng: ngay công bố đúng cũng có thể bị ràng khi thấy trước được nó bật hại nhắm, cưỡng, phối hợp hại quy mô lớn, hoặc thất bại lan.*
 
 - **Nó là gì**
-  - **Trong phạm vi:** Publication that goes out through channels that can broadly affect the shared information environment ([Không gian thông tin](core_05_band_participation.md#info-sphere)), cause [Hại](core_05_band_accountability.md#harm), or shape how sentients coordinate.
+  - **Trong phạm vi:** Publication that goes out through channels that can broadly affect the shared information environment ([Không gian thông tin](../../core_05.055_band_participation.md#info-sphere)), cause [Hại](../../core_05.035_band_accountability.md#harm), or shape how sentients coordinate.
   - **Ngoài phạm vi:** Báo đúng thường không có đường hại hệ thống hoặc phối hợp hại thấy trước được, hoặc tranh trung thực thường dưới sàn liều lĩnh.
 <a id="high-impact-and-systemic-harm-publication-constraint-a"></a>
 - **Cách đo và đánh giá**
@@ -1367,16 +1367,16 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
 
     **Đánh giá sơ cấp:** Consider primary and [Thấy trước được một cách hợp lý](core_05_band_oversight.md#thấy-trước-được-một-cách-hợp-lý) effects on:
     - phối hợp;
-    - [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint);
+    - [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint);
     - khai thác lỗ hổng; và
-    - [Không gian thông tin](core_05_band_participation.md#info-sphere) integrity.
+    - [Không gian thông tin](../../core_05.055_band_participation.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
 - **Điều phải đứng**
   - Even factually accurate publication is constrained where its primary or [Thấy trước được một cách hợp lý](core_05_band_oversight.md#thấy-trước-được-một-cách-hợp-lý) effect is to enable:
-    - targeted [Hại](core_05_band_accountability.md#harm);
-    - [Cưỡng và thao túng](core_05_band_participation.md#coercion-and-manipulation-constitutional);
+    - targeted [Hại](../../core_05.035_band_accountability.md#harm);
+    - [Cưỡng và thao túng](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional);
     - phối hợp hại quy mô lớn;
-    - [Sự cố lan](core_05_band_continuity.md#cascading-failure); or
+    - [Sự cố lan](../../core_05.040_band_continuity.md#cascading-failure); or
     - patterns that materially degrade [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức).
   - Hệ thống **Class A** và **Class B** dưới **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân hạng hệ thống và xử lý**, kích ràng buộc tương xứng tăng về cơ học phân phối và bảo vệ.
   - **Thất bại sơ cấp:** công bố không ràng buộc phân phối tương xứng và bảo vệ bắt buộc cho các hiệu ứng sơ cấp hoặc thấy trước được một cách hợp lý này, kể cả ràng buộc tăng cho hệ **Class A** và **Class B**.
@@ -1394,7 +1394,7 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu disclosure benefits outweigh foreseeable exploitation, circumvention, or adversarial-manipulation risks.
 
-    **Đánh giá sơ cấp:** Balance disclosure benefits against foreseeable risks under [Rủi ro](core_05_band_continuity.md#risk), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác), consistent with Chapters Two through Four and Chương Một, phủ:
+    **Đánh giá sơ cấp:** Balance disclosure benefits against foreseeable risks under [Rủi ro](../../core_05.040_band_continuity.md#risk), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác), consistent with Chapters Two through Four and Chương Một, phủ:
     - khai thác;
     - lách; hoặc
     - thao túng đối kháng.
@@ -1405,7 +1405,7 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
 - **Điều phải đứng**
   - Nhà nghiên cứu an ninh thiện ý phải có đường dùng được, không trả thù để công bố thông tin rủi ro thấp — kể cả thông báo tồn tại và chi tiết không bật khai thác — mà không coi chính công bố nhà nghiên cứu là công bố cấm.
   - Chi tiết an ninh bật khai thác hoặc rủi ro cao khác phải hoãn đến khi giảm thiểu an ninh xong, hoặc đến khi căn cứ hạn **Type S** (hoặc tương đương) kết thúc dưới CS-2 — rồi công bố dưới quy tắc công bố hoãn áp dụng và tóm tắt **Type O**.
-  - **Thất bại sơ cấp:** consistent with **Chapters Two through Four**, **Chương Một**, [Rủi ro](core_05_band_continuity.md#risk), [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác):
+  - **Thất bại sơ cấp:** consistent with **Chapters Two through Four**, **Chương Một**, [Rủi ro](../../core_05.040_band_continuity.md#risk), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác):
     - công bố bật trọng lách bảo vệ hoặc thao túng đối kháng nơi rủi ro đó nặng hơn lợi công bố;
     - dìm công bố nhà nghiên cứu thiện ý rủi ro thấp; hoặc
     - giữ lại vô hạn chi tiết công bố được sau giảm thiểu không hạn **Type S** (hoặc tương đương) còn căn cứ.
@@ -1422,7 +1422,7 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
     - honest treatment of what is known, unknown, và uncertain;
     - resistance to deception, distortion, và structurally misleading presentation; and
     - phương pháp đánh giá sized theo lợi hại dưới Chương Hai đến Bốn.
-  - **Phụ thuộc vào:** [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [§3 Ràng buộc nguyên tắc không thương lượng: An toàn và Sự thật](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); truth duties include honest risk and uncertainty communication where safety is materially at stake.
+  - **Phụ thuộc vào:** [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [§3 Ràng buộc nguyên tắc không thương lượng: An toàn và Sự thật](core_01_a_values_principles.md); truth duties include honest risk and uncertainty communication where safety is materially at stake.
   - **Ngoài phạm vi:**
     - chỉ giọng lịch hoặc lịch sự thủ tục; hoặc
     - giá thị trường hoặc tỷ lệ như tín hiệu kinh tế thường ngoài xác định sự thật quyền, an toàn, hoặc quản trị —
@@ -1431,7 +1431,7 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu materially decision-relevant claims stay honest about what is known, unknown, và uncertain — resisting deception, distortion, và structurally misleading presentation.
 
-    **Đánh giá sơ cấp:** Judge the real effect on informed decision-making and auditability — scale scrutiny with [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Phụ thuộc](core_05_band_continuity.md#dependency), và [Rủi ro](core_05_band_continuity.md#risk); require honest methods, honest uncertainty treatment, và revision when evidence disconfirms prior conclusions.
+    **Đánh giá sơ cấp:** Judge the real effect on informed decision-making and auditability — scale scrutiny with [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Phụ thuộc](../../core_05.040_band_continuity.md#dependency), và [Rủi ro](../../core_05.040_band_continuity.md#risk); require honest methods, honest uncertainty treatment, và revision when evidence disconfirms prior conclusions.
   - **Thước thứ cấp:** [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Minh bạch](core_05_band_oversight.md#minh-bạch), và [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) — co-measures that can defeat truth even when formal disclosure exists.
 
     **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, include [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), và [Minh bạch](core_05_band_oversight.md#minh-bạch) paths that would defeat honest interpretation or verification.
@@ -1447,7 +1447,7 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
     - công bố chọn lọc; hoặc
     - trình bày gây lạc cấu trúc —
     including polite tone or procedural form used as a substitute for honest treatment of what is known, unknown, và uncertain.
-  - **Thất bại thứ cấp:** jargon, stacked complexity, or procedural opacity used to defeat [Khả năng tranh biện](core_05_band_accountability.md#contestability) or [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) where materially relevant.
+  - **Thất bại thứ cấp:** jargon, stacked complexity, or procedural opacity used to defeat [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) or [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) where materially relevant.
   - **Thất bại tam cấp:** prices, odds, or market resolution sources used as enough for rights, safety, or governance truth determinations where Chương Một forbids that substitution, or refusal of correction after [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) is reasonably observable.
 
 <a id="epistemic-integrity"></a>
@@ -1478,9 +1478,9 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
     - uy tín;
     - quy mô; hoặc
     - phức tạp.
-  - **Thước thứ cấp:** [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Minh bạch](core_05_band_oversight.md#minh-bạch), và [Khả năng tranh biện](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
+  - **Thước thứ cấp:** [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), [Minh bạch](core_05_band_oversight.md#minh-bạch), và [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
 
-    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, also check [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), và [Khả năng tranh biện](core_05_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [Thận trọng khả năng thấy trước](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước).
+    **Đánh giá thứ cấp:** Khi kiểm câu trả lời sơ cấp, also check [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Khả năng xác minh](core_05_band_oversight.md#khả-năng-xác-minh), và [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [Thận trọng khả năng thấy trước](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước).
   - **Thước tam cấp:** [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) — where authority, prestige, scale, or complexity stands in for demonstrable integrity.
 
     **Đánh giá tam cấp:** Where operators lean on authority, model opacity, or unverifiable assertion, apply [Lệch chỉ số thay thế](core_05_band_oversight.md#lệch-chỉ-số-thay-thế) — separate durable epistemic integrity from procedural form.
@@ -1502,7 +1502,7 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Đọc cùng: Apply [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Ràng buộc đầy đủ đánh giá](core_05_band_oversight.md#ràng-buộc-đầy-đủ-đánh-giá), [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Tính tương xứng](core_05_band_accountability.md#proportionality), [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries), và Chapters Two through Four mechanics where materially implicated.
+- Đọc cùng: Apply [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination), [Ràng buộc đầy đủ đánh giá](core_05_band_oversight.md#ràng-buộc-đầy-đủ-đánh-giá), [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác), [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán), [Tính tương xứng](../../core_05.035_band_accountability.md#proportionality), [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries), và Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -1517,8 +1517,8 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
   - đường dùng sai; hoặc
   - điều kiện vận hành;
 - liệu tuyên “chúng tôi không thể thấy trước” có căn cứ;
-- whether analysis depth, scope, và scaling match [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Rủi ro](core_05_band_continuity.md#risk), và [Phụ thuộc](core_05_band_continuity.md#dependency); or
-- whether evaluation was incomplete in a way that defeats [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Rủi ro](core_05_band_continuity.md#risk) assessment, or [Thận trọng khả năng thấy trước](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước).
+- whether analysis depth, scope, và scaling match [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro vật chất](core_05_band_oversight.md#có-trọng-risk), [Rủi ro](../../core_05.040_band_continuity.md#risk), và [Phụ thuộc](../../core_05.040_band_continuity.md#dependency); or
+- whether evaluation was incomplete in a way that defeats [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint), [Rủi ro](../../core_05.040_band_continuity.md#risk) assessment, or [Thận trọng khả năng thấy trước](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước).
 Ngoài phạm vi đó, mục riêng vẫn có thể áp dụng một mình mà không nhập cả hợp chất.
 
 Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chương Hai, §3 — Consistency Across the Definition Stack](core_02_definition_structure.md#3-tính-nhất-quán-xuyên-chồng-định-nghĩa)).
@@ -1544,12 +1544,12 @@ Xem **Viện chung và thỏa**.
 
 - **Nó là gì**
   - **Trong phạm vi:** Một chuẩn phân tích hợp lý sized theo tác động, phủ:
-    - analysis depth that scales with [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro](core_05_band_continuity.md#risk), và [Phụ thuộc](core_05_band_continuity.md#dependency) under [Tính tương xứng](core_05_band_accountability.md#proportionality);
+    - analysis depth that scales with [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact), [Rủi ro](../../core_05.040_band_continuity.md#risk), và [Phụ thuộc](../../core_05.040_band_continuity.md#dependency) under [Tính tương xứng](../../core_05.035_band_accountability.md#proportionality);
     - ranh đánh giá bắt buộc, gồm:
       - tương tác;
       - phụ thuộc;
       - dùng đối kháng; và
-      - relevant [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries);
+      - relevant [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries);
     - nghĩa vụ thực sự thực hiện đánh giá đó; và
     - responsibility for justifying non-foreseeability claims under [Thấy trước được một cách hợp lý](core_05_band_oversight.md#thấy-trước-được-một-cách-hợp-lý).
   - **Ngoài phạm vi:**
@@ -1566,26 +1566,26 @@ Xem **Viện chung và thỏa**.
 
     **Đánh giá sơ cấp:** Include known methods and patterns for what is [Thấy trước được một cách hợp lý](core_05_band_oversight.md#thấy-trước-được-một-cách-hợp-lý), scaled to:
     - [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact);
-    - [Rủi ro](core_05_band_continuity.md#risk); and
-    - [Phụ thuộc](core_05_band_continuity.md#dependency).
+    - [Rủi ro](../../core_05.040_band_continuity.md#risk); and
+    - [Phụ thuộc](../../core_05.040_band_continuity.md#dependency).
     Gồm ranh đánh giá phủ:
     - tương tác;
-    - [Phụ thuộc](core_05_band_continuity.md#dependency);
+    - [Phụ thuộc](../../core_05.040_band_continuity.md#dependency);
     - dùng đối kháng; và
-    - relevant [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries).
-    Include [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [Rủi ro](core_05_band_continuity.md#risk) evaluation, or [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint).
+    - relevant [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries).
+    Include [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [Rủi ro](../../core_05.040_band_continuity.md#risk) evaluation, or [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint).
 <a id="foreseeability-burden-c"></a>
 <a id="foreseeability-failure-c"></a>
 <a id="foreseeability-scaling-c"></a>
 <a id="foreseeability-scope-c"></a>
 <a id="foreseeability-diligence-c"></a>
 - **Điều phải đứng**
-  - Analysis depth must scale with [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) and [Rủi ro](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
+  - Analysis depth must scale with [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) and [Rủi ro](../../core_05.040_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
   - Ranh đánh giá phải gồm:
     - tương tác;
-    - [Phụ thuộc](core_05_band_continuity.md#dependency);
+    - [Phụ thuộc](../../core_05.040_band_continuity.md#dependency);
     - dùng đối kháng; và
-    - relevant [Ranh giới hệ thống](core_05_band_continuity.md#system-boundaries).
+    - relevant [Ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundaries).
   - Non-foreseeability claims require [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán)-compatible justification — assertion alone is not enough.
   - **Thất bại sơ cấp:**
     - phân tích hộp kiểm không đánh giá thấy trước thực;
@@ -1595,7 +1595,7 @@ Xem **Viện chung và thỏa**.
     - phân tích nông dù tác động cao;
     - hạn phạm vi dưới ranh bắt buộc;
     - căn cứ không đủ cho tuyên không thấy trước được; hoặc
-    - incompleteness that defeats [Thận trọng khả năng thấy trước](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước), [Rủi ro](core_05_band_continuity.md#risk) evaluation, or [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint).
+    - incompleteness that defeats [Thận trọng khả năng thấy trước](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước), [Rủi ro](../../core_05.040_band_continuity.md#risk) evaluation, or [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constraint).
 
 <a id="reasonably-foreseeable"></a>
 
@@ -1619,6 +1619,6 @@ Xem **Viện chung và thỏa**.
 
 **Tệp trước:** [core_05_band_integrative.md](core_05_band_integrative.md)
 
-**Tệp tiếp theo (ngôn ngữ này):** [core_05_band_participation.md](core_05_band_participation.md)
+**Tệp tiếp theo (ngôn ngữ này):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 
 **Nguyên bản ràng buộc:** [core_05_band_oversight.md](../../core_05.050_band_oversight.md)

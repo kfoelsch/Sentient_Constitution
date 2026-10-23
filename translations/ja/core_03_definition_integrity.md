@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](#2-観察可能なシステム振る舞いからの不遵守)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-定義の誠実性要件)。
-- 下流：[第四章、第 2 節 — 定義の追跡可能性要件](core_04_burden_traceability_verification.md#2-定義の追跡可能性要件)；[第九章 — システム整合認証](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十一章 — 軌跡効果と統合](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
+- 下流：[第四章、第 2 節 — 定義の追跡可能性要件](core_04_burden_traceability_verification.md#2-定義の追跡可能性要件)；[第九章 — システム整合認証](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十一章 — 軌跡効果と統合](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
 - あわせて読む：[不遵守所見プロファイル](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — プロファイル欄の典範の O/M/A/C 本拠；[憲法四元](core_00_preamble.md#constitutional-tetrad)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 運用上の制約
 
-不遵守は、共同実施コーパスにおける運用上の制約に対しても見出されうる。既定の所見プロファイルと、それらがそれらの所見にどう付着するかは、そこで扱われる — 本章ではない。[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)を見よ。
+不遵守は、共同実施コーパスにおける運用上の制約に対しても見出されうる。既定の所見プロファイルと、それらがそれらの所見にどう付着するかは、そこで扱われる — 本章ではない。[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)を見よ。
 
 ---
 

@@ -414,7 +414,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- आधीचे आधार: [§3](#3-परणल-सनद-आण-ससथतमक-सनदत-कय-सगव); [अध्याय आठ §2 चार-आसन घटनात्मक तळ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor).
+- आधीचे आधार: [§3](#3-परणल-सनद-आण-ससथतमक-सनदत-कय-सगव); [अध्याय आठ §2 चार-आसन घटनात्मक तळ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement).
 - पुढील वापर: [अध्याय आठ §5 प्रकाशित नेमणूक, रिक्तता व पर्याय](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution); [अध्याय नऊ भाग B §6.1.1 प्रमाणीकरणातील चार आसने](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification); [अध्याय दहा §3.7 अभिलेख अभिरक्षा व उघडण्याचा अधिकार](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority); **CI-8.205 §2**; **CI-14.205 §§5–6**.
 - सोबत वाचा: [भौतिक नियंत्रण-रेषा](../../core_05.035_band_accountability.md#material-control-line); [प्रस्थिति अभिलेख](../../core_05.035_band_accountability.md#standing-record).
 
@@ -438,7 +438,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 आसने काय आहेत आणि ती का आहेत
 
-प्रत्येक [भौतिकदृष्ट्या बंधनकारक कृती](../../core_05.035_band_accountability.md#materially-binding-act) मध्ये चार कामे असतात; [अध्याय आठ §2 चार-आसन घटनात्मक तळ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) ती वेगळी ठेवतो.
+प्रत्येक [भौतिकदृष्ट्या बंधनकारक कृती](../../core_05.035_band_accountability.md#materially-binding-act) मध्ये चार कामे असतात; [अध्याय आठ §2 चार-आसन घटनात्मक तळ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) ती वेगळी ठेवतो.
 
 - **[प्रारंभ आसन](../../core_05.035_band_accountability.md#initiating-seat):** कृतीची विनंती, प्रस्ताव, संचालन किंवा दावा करून ती सुरू करते.
 - **[पडताळणी-किंवा-अधिकारदान आसन](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** पुरावा व अधिकार तपासून कृतीची पडताळणी, अधिकृतता, अटी किंवा नकार ठरवते.

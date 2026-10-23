@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: [บทที่สาม หมวด 2 — การไม่ปฏิบัติตามจากความประพฤติของระบบที่สังเกตได้](#2-การไมปฏบตตามจากความประพฤตของระบบทสงเกตได); [บทที่สอง, §2 ข้อกำหนดความครบถ้วนของบทนิยาม](core_02_definition_structure.md#2-ขอกำหนดความครบถวนของบทนยาม).
-- ปลายทาง: [บทที่สี่ หมวด 2 — ข้อกำหนดความสามารถในการตามรอยบทนิยาม](core_04_burden_traceability_verification.md#2-ขอกำหนดความสามารถในการตามรอยบทนยาม); [บทที่เก้า — การรับรองความสอดคล้องของระบบ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [บทที่สิบ — แบบจำลองการมีส่วนช่วย การละเมิด และร่องรอย](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [บทที่สิบเอ็ด — ผลของร่องรอยและการบูรณาการ](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 เข็มทิศทางรัฐธรรมนูญและแผนที่คลัสเตอร์](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- ปลายทาง: [บทที่สี่ หมวด 2 — ข้อกำหนดความสามารถในการตามรอยบทนิยาม](core_04_burden_traceability_verification.md#2-ขอกำหนดความสามารถในการตามรอยบทนยาม); [บทที่เก้า — การรับรองความสอดคล้องของระบบ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [บทที่สิบ — แบบจำลองการมีส่วนช่วย การละเมิด และร่องรอย](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [บทที่สิบเอ็ด — ผลของร่องรอยและการบูรณาการ](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 เข็มทิศทางรัฐธรรมนูญและแผนที่คลัสเตอร์](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - อ่านคู่กับ: [โปรไฟล์ข้อค้นพบการไม่ปฏิบัติตาม](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — บ้านฉบับหลัก O/M/A/C ของช่องโปรไฟล์; [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 ข้อจำกัดปฏิบัติการ
 
-การไม่ปฏิบัติตามอาจถูกพบต่อข้อจำกัดปฏิบัติการในคลังข้อความร่วมด้านการนำไปใช้ด้วย โปรไฟล์ข้อค้นพบปริยายและวิธีที่พวกมันติดกับข้อค้นพบเหล่านั้น ถูกจัดการที่นั่น — ไม่ใช่ในบทนี้ ดู [CJS-3.1 เข็มทิศทางรัฐธรรมนูญและแผนที่คลัสเตอร์](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)
+การไม่ปฏิบัติตามอาจถูกพบต่อข้อจำกัดปฏิบัติการในคลังข้อความร่วมด้านการนำไปใช้ด้วย โปรไฟล์ข้อค้นพบปริยายและวิธีที่พวกมันติดกับข้อค้นพบเหล่านั้น ถูกจัดการที่นั่น — ไม่ใช่ในบทนี้ ดู [CJS-3.1 เข็มทิศทางรัฐธรรมนูญและแผนที่คลัสเตอร์](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)
 
 ---
 

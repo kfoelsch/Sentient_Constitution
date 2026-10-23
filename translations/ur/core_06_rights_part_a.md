@@ -44,12 +44,12 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ [مادی داؤ](core_00_preamble.md#material-stake)۔
-- بالائی: [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [باب یکم §13.1.5 حقوق کے تصادم کا فیصلہ امتحان](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)۔
+- بالائی: [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md)؛ [باب یکم §13.1.5 حقوق کے تصادم کا فیصلہ امتحان](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)۔
 - بالائی: [باب یکم §11 محرکات کی ہم آہنگی اور نظام کا قبضہ](core_01_c_stewardship_capacity_principles.md#19-ترغیبات-کی-ہم-آہنگی-اور-نظام-پر-قبضہ)۔
 - بالائی: باب دوم تا چہارم؛ باب پنجم تعریفیں۔
-- زیریں: اس باب کے **حصے الف تا ہ**؛ [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)۔
+- زیریں: اس باب کے **حصے الف تا ہ**؛ [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)؛ [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)۔
 - زیریں: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [§1.2 تہہ کا دائرہ](#12-تہہ-کا-دائرہ)۔
-- ساتھ پڑھیں: [اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#owner-non-relocation) اور [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-اصول-تعریفیں-اور-حقوق)؛ [دفعہ XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*چیلنج، جائزہ اور تدارک کا حق*)۔
+- ساتھ پڑھیں: [اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#owner-non-relocation) اور [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-اصول-تعریفیں-اور-حقوق)؛ [دفعہ XIII-B](core_06_rights_part_c.md) (*چیلنج، جائزہ اور تدارک کا حق*)۔
 - ساتھ پڑھیں: [دفعہ XVI](core_06_rights_part_c.md#آرٹیکل-xvi-آڈٹ-شفافیت-اور-آزاد-تصدیق) (*آڈٹ، شفافیت اور آزاد تصدیق*)۔
 - ساتھ پڑھیں: [دفعہ XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*چیلنج پذیری اور متناسب پابندی کی حدیں*)؛ [دفعہ XXVI-C](core_06_rights_part_e.md#دفعہ-xxvi-c-بروقت-حل-اور-تاخیر-کے-خلاف-کم-از-کم-معیار) (*بروقت حل اور تاخیر مخالف تہہ*)۔
 
@@ -74,7 +74,7 @@
 وسیع تر آئینی ڈھیر بتاتا ہے کہ وہ تہہ کیسے تفسیر، محدود، تصدیق اور نافذ ہوتی ہے۔ جب تک اس باب کا کوئی حکم صریحاً اور نہ کہے، باب ششم کا ہر حق ساتھ پڑھا جاتا ہے:
 - **باب یکم**، بشمول:
   - **قدر کی پابندیاں** — حفاظت، سچائی، ضرورت، تناسب، اور مقامی، مجموعی، تاخیری، اور بین نظامی اثرات کا نظامی جائزہ؛
-  - **تعامل کی ضبط** — [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛
+  - **تعامل کی ضبط** — [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md)؛
   - **آئینی پیمانہ** — [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)، [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)، اور [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ؛
   - **محرکات کی ہم آہنگی اور نظام کا قبضہ** — [باب یکم §11](core_01_c_stewardship_capacity_principles.md#19-ترغیبات-کی-ہم-آہنگی-اور-نظام-پر-قبضہ) اور متعلقہ ذمہ دارانہ انتظام کی ضبط، مگر صرف جہاں محرکات کا ڈیزائن، اعتماد، وفاداری، قبضہ، بازار کا ڈھانچہ، یا دفاع شدہ حد مادی طور پر متعلقہ ہو۔
 - **باب دوم تا چہارم** — تعریف کی دیانت، بوجھ اور سراغ، مشاہدہ پذیری، رسائی کے قابل تصدیق، اور جہاں لاگو ہو حفاظت سے بندھی مشاہدہ پذیری۔
@@ -88,13 +88,13 @@
 
 حقوق کی تہہ کاغذ پر نہیں، عمل میں کام کرنی چاہیے۔ **دفعہ III-A** (*بقا*) کے تحت بقا کی ضروری چیزیں — خوراک، پانی، پناہ، چلنے کا ماحول، اور ملتے جلتے اساس-بے نیاز اجزاء — سب سے صاف مثال ہیں۔ **شگفتگی** ان ضروری چیزوں تک حقیقی رسائی مانگتی ہے۔ **استمرار** وقت کے ساتھ قابلِ اعتماد، غیر رجعتی سپلائی مانگتی ہے، خاص طور پر جہاں مشترکہ نظام ترسیل قابو کریں۔
 
-[نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) جانچتے ہیں کہ مادی اثر والے نظام بڑے پیمانے پر پہچان یا انحصار سے پہلے ہم آہنگ ہیں یا نہیں۔ باب ہفتم سرٹیفیکیشن ریکارڈ کی چیلنج پذیری، متاثر فریق اور رسائی پذیری کا جائزہ، نگرانی کی ترتیب، اور نظام ہم آہنگی کے فیصلوں کے چیلنج نامزد راستے بھی دیتا ہے۔ **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) چیلنج اور آڈٹ کے حقوق دیتی ہے۔ **دفعہ XIX-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*) کیفیت کی حدوں کو بقا کے نازک رسائی کے گرد پچھلا دروازہ بننے سے روکتی ہے۔ ساتھ، [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) اور [باب ہشتم تا یازدهم کی کیفیت اور فورم نگرانی کی زنجیر](../../README.md#standing-pipeline-and-forums) چیلنج پذیری، تصدیق شدہ درجہ بندی، فورم نگرانی، اور بروقت تدارک کے لیے **کلیدی عملی عمل کی زنجیریں** بناتے ہیں۔ وہ میکانزم باب ششم نافذ کرنے میں مدد دیتے ہیں۔ وہ یہاں بیان کردہ حقوق کی جگہ نہیں لیتے، انہیں تنگ نہیں کرتے، نہ منتقل کرتے ہیں۔
+[نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) جانچتے ہیں کہ مادی اثر والے نظام بڑے پیمانے پر پہچان یا انحصار سے پہلے ہم آہنگ ہیں یا نہیں۔ باب ہفتم سرٹیفیکیشن ریکارڈ کی چیلنج پذیری، متاثر فریق اور رسائی پذیری کا جائزہ، نگرانی کی ترتیب، اور نظام ہم آہنگی کے فیصلوں کے چیلنج نامزد راستے بھی دیتا ہے۔ **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) چیلنج اور آڈٹ کے حقوق دیتی ہے۔ **دفعہ XIX-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*) کیفیت کی حدوں کو بقا کے نازک رسائی کے گرد پچھلا دروازہ بننے سے روکتی ہے۔ ساتھ، [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) اور [باب ہشتم تا یازدهم کی کیفیت اور فورم نگرانی کی زنجیر](../../README.md#standing-pipeline-and-forums) چیلنج پذیری، تصدیق شدہ درجہ بندی، فورم نگرانی، اور بروقت تدارک کے لیے **کلیدی عملی عمل کی زنجیریں** بناتے ہیں۔ وہ میکانزم باب ششم نافذ کرنے میں مدد دیتے ہیں۔ وہ یہاں بیان کردہ حقوق کی جگہ نہیں لیتے، انہیں تنگ نہیں کرتے، نہ منتقل کرتے ہیں۔
 
 **تفسیری مراکز۔** جب تک کوئی زیادہ مخصوص دفعہ الگ قاعدہ نہ دے، دہرائی جانے والی باتیں ان لنگر سے راستہ پاتی ہیں:
 
 **حقوق کی تہہ اور سپلائی**
 - **بقا کی ضروری چیزیں اور انہیں رسائی کے قابل رکھنا** — **دفعہ III-A** (*بقا*)؛ **دفعہ XIX-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*) تاکہ کیفیت کی حدیں رسائی نہ روک سکیں؛ جہاں چیلنج یا آڈٹ لاگو ہو **دفعہ XIII-B** (*چیلنج، جائزہ اور تدارک کا حق*) اور **دفعہ XVI** (*آڈٹ، شفافیت اور آزاد تصدیق*) کے ساتھ پڑھیں
-- **نظام ہم آہنگی سرٹیفیکیشن** — [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **نظام ہم آہنگی سرٹیفیکیشن** — [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)؛ [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **تصدیق اور تدارک**
 - **آڈٹ ریکارڈ اور آزاد تصدیق** — **دفعہ XVI** (*آڈٹ، شفافیت اور آزاد تصدیق*) **باب دوم تا چہارم** کے ساتھ
@@ -127,11 +127,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، [§3.2 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 
 </details>
 
-<strong><span style="color: #2563eb;">تعریف:</span></strong> [ماحولیاتی پیش شرائط](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+<strong><span style="color: #2563eb;">تعریف:</span></strong> [ماحولیاتی پیش شرائط](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
 
 *سادہ الفاظ میں: **دفعہ I** (*ماحولیاتی بقا*) سیارہ پہلے حقوق کی تہہ ہے — زمین کے حیاتی سہارے کے نظام قائم رہیں تاکہ **شگفتگی** اور **استمرار** ہر شعوری وجود کے لیے ممکن رہیں، اور بعد کی حکمرانی سرٹیفیکیشن، درجہ بندی یا نفاذ کی پسندوں سے اس تہہ کو تنگ نہیں کر سکتی۔*
 
@@ -154,21 +154,21 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [ماحولیاتی پیش شرائط](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [ماحولیاتی دیانت](core_05_band_continuity.md#ecological-integrity-constitutional) · [O](core_05_band_continuity.md#ecological-integrity-constitutional) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [پائیداری](core_05_band_continuity.md#sustainability) · [O](core_05_band_continuity.md#sustainability) · [M](core_05_band_continuity.md#sustainability-a) · [A](core_05_band_continuity.md#sustainability-a) · [C](core_05_band_continuity.md#sustainability-c)
-- [قدرتی نظاموں کی کیفیت](core_05_band_participation.md#natural-systems-standing) · [O](core_05_band_participation.md#natural-systems-standing) · [M](core_05_band_participation.md#natural-systems-standing-a) · [A](core_05_band_participation.md#natural-systems-standing-a) · [C](core_05_band_participation.md#natural-systems-standing-c)
-- [حیوانی زندگی](core_05_band_participation.md#animal-life-constitutional) · [O](core_05_band_participation.md#animal-life-constitutional) · [M](core_05_band_participation.md#animal-life-constitutional-a) · [A](core_05_band_participation.md#animal-life-constitutional-a) · [C](core_05_band_participation.md#animal-life-constitutional-c)
-- [بلند تر ابلاغی زندگی](core_05_band_participation.md#elevated-communicative-life-constitutional) · [O](core_05_band_participation.md#elevated-communicative-life-constitutional) · [M](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [A](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [C](core_05_band_participation.md#elevated-communicative-life-constitutional-c)
-- [متنازع شعوری زندگی](core_05_band_participation.md#contested-sentient-life-constitutional) · [O](core_05_band_participation.md#contested-sentient-life-constitutional) · [M](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [A](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [C](core_05_band_participation.md#contested-sentient-life-constitutional-c)
-- [بہبود](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [ماحولیاتی پیش شرائط](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
+- [ماحولیاتی دیانت](../../core_05.040_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05.040_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
+- [پائیداری](../../core_05.040_band_continuity.md#sustainability) · [O](../../core_05.040_band_continuity.md#sustainability) · [M](../../core_05.040_band_continuity.md#sustainability-a) · [A](../../core_05.040_band_continuity.md#sustainability-a) · [C](../../core_05.040_band_continuity.md#sustainability-c)
+- [قدرتی نظاموں کی کیفیت](../../core_05.055_band_participation.md#natural-systems-standing) · [O](../../core_05.055_band_participation.md#natural-systems-standing) · [M](../../core_05.055_band_participation.md#natural-systems-standing-a) · [A](../../core_05.055_band_participation.md#natural-systems-standing-a) · [C](../../core_05.055_band_participation.md#natural-systems-standing-c)
+- [حیوانی زندگی](../../core_05.055_band_participation.md#animal-life-constitutional) · [O](../../core_05.055_band_participation.md#animal-life-constitutional) · [M](../../core_05.055_band_participation.md#animal-life-constitutional-a) · [A](../../core_05.055_band_participation.md#animal-life-constitutional-a) · [C](../../core_05.055_band_participation.md#animal-life-constitutional-c)
+- [بلند تر ابلاغی زندگی](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional) · [O](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional) · [M](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional-a) · [A](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional-a) · [C](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional-c)
+- [متنازع شعوری زندگی](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) · [O](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) · [M](../../core_05.055_band_participation.md#contested-sentient-life-constitutional-a) · [A](../../core_05.055_band_participation.md#contested-sentient-life-constitutional-a) · [C](../../core_05.055_band_participation.md#contested-sentient-life-constitutional-c)
+- [بہبود](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
 
 </details>
 
@@ -179,23 +179,23 @@
 - **پیش شرائط، دیانت، اور پائیداری:** باب پنجم کی **ماحولیاتی پیش شرائط**، **ماحولیاتی دیانت**، اور **پائیداری** اس دفعہ کے تحت عملی ہیں۔
   - حیات سہارا دینے والے قدرتی نظاموں کے اپنے استمرار اور دیانت کے مفادات ہیں۔ وہ مفادات شعوری وجود کے مفادات کے ساتھ تفسیر مطلع کرتے ہیں۔
   - اس دفعہ کی خلاف ورزی کرنے والا مادی نقصان — **ماحولیاتی پیش شرائط**، **ماحولیاتی دیانت**، اور **پائیداری** کے تحت پرکھا — عدمِ اطاعت ہے۔
-  - اختیار کنندہ کی [اختیار کی دستاویز](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) یا اختیار کے دائرے میں شامل نفاذ متن میں نامزد ماحولیاتی تقاضوں کی خلاف ورزی بھی عدمِ اطاعت ہے۔
-- **حیوانی زندگی کا تعامل:** [حیوانی زندگی](core_05_band_participation.md#animal-life-constitutional) بہبود حفاظت کے دائرے میں **قدرتی نظاموں کی کیفیت** اور شعوری وجودوں کے لیے باب ششم حقوق کی تہہ کے درمیان بیٹھتی ہے۔
+  - اختیار کنندہ کی [اختیار کی دستاویز](../../core_17.000_amendment_ratification.md) یا اختیار کے دائرے میں شامل نفاذ متن میں نامزد ماحولیاتی تقاضوں کی خلاف ورزی بھی عدمِ اطاعت ہے۔
+- **حیوانی زندگی کا تعامل:** [حیوانی زندگی](../../core_05.055_band_participation.md#animal-life-constitutional) بہبود حفاظت کے دائرے میں **قدرتی نظاموں کی کیفیت** اور شعوری وجودوں کے لیے باب ششم حقوق کی تہہ کے درمیان بیٹھتی ہے۔
   - یہ **شعوریت عدمِ اخراج** کے تحت حیوانی زندگی کے لیے ظلم اور بہبود کی کم از کم تہہ قائم کرتی ہے جہاں بہبود جیسا نقصان مادی طور پر شامل ہو۔
   - یہ بلند تر ابلاغی سلوک یا شعوریت کی حیثیت کے فیصلے کا بدل نہیں جہاں ریکارڈ مادی طور پر ان سوالوں کو شامل کرے۔
   - مادی ابلاغی یا ادراکی اشارے جو متنازع یا قابلِ اثبات شعوریت شامل کریں، صرف بہبود پر غیر معینہ پارکنگ کی بجائے شعوریت کی حیثیت کا فیصلہ کھولنے کا تقاضا کرتے ہیں۔ چلانے والے یا ذمہ دار انتظام والے کو وقتی حد والے جائزے پر وہ فیصلہ کھولنا چاہیے — انواع کی فہرست نہیں۔ اضافہ **دفعہ VI-B** (*شعوریت کی حیثیت کے فیصلے کی تہہ*) / متنازع شعوری کی طے شدہ شمولیت کھولتا ہے؛ یہ خود شعوری حیثیت ثابت نہیں کرتا۔
-- **بلند تر ابلاغی زندگی کا تعامل:** [بلند تر ابلاغی زندگی](core_05_band_participation.md#elevated-communicative-life-constitutional) مستحکم ابلاغی / مسکن-ترجیح دائرے میں **حیوانی زندگی** اور متنازع یا ثابت شدہ باب ششم سلوک کے درمیان بیٹھتی ہے۔
+- **بلند تر ابلاغی زندگی کا تعامل:** [بلند تر ابلاغی زندگی](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional) مستحکم ابلاغی / مسکن-ترجیح دائرے میں **حیوانی زندگی** اور متنازع یا ثابت شدہ باب ششم سلوک کے درمیان بیٹھتی ہے۔
   - یہ حیوانی زندگی کی ظلم اور بہبود کی تہہ شامل کرتی ہے اور **شعوریت عدمِ اخراج** کے تحت مسکن یا چلنے کے ماحول کو صحت مند حالت میں بچانے کی ترجیح بلند کرتی ہے جہاں مضبوط ابلاغی یا ادراکی اشارے مادی طور پر شامل ہوں۔
   - یہ شعوریت کی حیثیت کے فیصلے کا بدل نہیں جہاں ریکارڈ مادی طور پر متنازع یا قابلِ اثبات شعوریت شامل کرے۔
   - مادی ابلاغی یا ادراکی اشارے جو متنازع یا قابلِ اثبات شعوریت شامل کریں، مسکن-ترجیح پر غیر معینہ پارکنگ کی بجائے شعوریت کی حیثیت کا فیصلہ کھولنے کا تقاضا کرتے ہیں۔ چلانے والے یا ذمہ دار انتظام والے کو وقتی حد والے جائزے پر وہ فیصلہ کھولنا چاہیے — انواع کی فہرست نہیں۔ اضافہ **دفعہ VI-B** (*شعوریت کی حیثیت کے فیصلے کی تہہ*) / متنازع شعوری کی طے شدہ شمولیت کھولتا ہے؛ یہ خود شعوری حیثیت ثابت نہیں کرتا۔
-- **متنازع شعوری زندگی کا تعامل:** [متنازع شعوری زندگی](core_05_band_participation.md#contested-sentient-life-constitutional) **شعوریت عدمِ اخراج** کے تحت لاگو ہوتی ہے جہاں شعوریت غیر یقینی، متنازع، مادی طور پر جھگڑے میں، یا فیصلے کے تحت ہو۔
-  - یہ سوال [شعوریت کی حیثیت کا فیصلہ](core_05_band_participation.md#sentience-status-adjudication-constitutional) کے عمل کی طرف راستہ دیتی ہے (مالک دفعہ **دفعہ VI-B** (*شعوریت کی حیثیت کے فیصلے کی تہہ*))۔
+- **متنازع شعوری زندگی کا تعامل:** [متنازع شعوری زندگی](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) **شعوریت عدمِ اخراج** کے تحت لاگو ہوتی ہے جہاں شعوریت غیر یقینی، متنازع، مادی طور پر جھگڑے میں، یا فیصلے کے تحت ہو۔
+  - یہ سوال [شعوریت کی حیثیت کا فیصلہ](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) کے عمل کی طرف راستہ دیتی ہے (مالک دفعہ **دفعہ VI-B** (*شعوریت کی حیثیت کے فیصلے کی تہہ*))۔
   - **دفعہ VI-B** (*شعوریت کی حیثیت کے فیصلے کی تہہ*) کے تحت، مادی طور پر غیر حل شدہ شعوریت کی حیثیت باب ششم حقوق کی تہہ کے تحت شمولیت طے شدہ ہے جب تک وہ فریق جو حفاظت روکنا، تنگ کرنا، یا واپس لینا چاہے قابلِ اطلاق بوجھ پورا نہ کرے۔
 - **یہ حفاظتیں کیسے ساتھ فٹ ہوتی ہیں:** درج ذیل ایک ساتھ لاگو ہو سکتے ہیں:
-  - [قدرتی نظاموں کی کیفیت](core_05_band_participation.md#natural-systems-standing)؛
-  - [حیوانی زندگی](core_05_band_participation.md#animal-life-constitutional)؛
-  - [بلند تر ابلاغی زندگی](core_05_band_participation.md#elevated-communicative-life-constitutional)؛
-  - [متنازع شعوری زندگی](core_05_band_participation.md#contested-sentient-life-constitutional)؛ اور
+  - [قدرتی نظاموں کی کیفیت](../../core_05.055_band_participation.md#natural-systems-standing)؛
+  - [حیوانی زندگی](../../core_05.055_band_participation.md#animal-life-constitutional)؛
+  - [بلند تر ابلاغی زندگی](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional)؛
+  - [متنازع شعوری زندگی](../../core_05.055_band_participation.md#contested-sentient-life-constitutional)؛ اور
   - باب ششم کی شعوری تہہ۔
 
   جو حقائق سے میل کھائے اسے لاگو کریں؛ جہاں اوورلیپ ہو، زیادہ حفاظتی قاعدہ [باب یکم §13.1.5 حقوق کے تصادم کا فیصلہ امتحان](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) اور ان باب پنجم اندراجات کے اطاعت قواعد کے تحت حکمرانی کرتا ہے۔ مادی ابلاغی یا ادراکی اشارے جو متنازع یا قابلِ اثبات شعوریت شامل کریں، صرف بہبود یا مسکن-ترجیح پر غیر معینہ پارکنگ کی بجائے شعوریت کی حیثیت کا فیصلہ کھولنے کا تقاضا کرتے ہیں۔
@@ -205,14 +205,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [ماحولیاتی نقش](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [ماحولیاتی نقش](../../core_05.040_band_continuity.md#ecological-footprint) · [O](../../core_05.040_band_continuity.md#ecological-footprint) · [M](../../core_05.040_band_continuity.md#ecological-footprint-a) · [A](../../core_05.040_band_continuity.md#ecological-footprint-a) · [C](../../core_05.040_band_continuity.md#ecological-footprint-c)
 - [مادی اثر](core_05_band_oversight.md#مادی-اثر) · [O](core_05_band_oversight.md#مادی-اثر) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
@@ -234,16 +234,16 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، اور [§14 نظامی جائزے کا تقاضا](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement)۔
-- باب پنجم: مستند **بین نسلی ذمہ داری** O/M/A/C [**Def.I1** *ماحولیاتی دیانت، نقش، اور پائیداری*](core_05_band_continuity.md#ecological-footprint-semi-independent) میں رہتی ہے، **ماحولیاتی دیانت**، **پائیداری**، **ماحولیاتی پیش شرائط**، اور **ماحولیاتی نقش** کے ساتھ مشترکہ پڑھی (مشترکہ پکار جہاں نقش کا بوجھ، انکشاف، موازنہ، کمی، یا سراغ مادی طور پر داؤ پر ہو)۔ **دیسی استمرار**، **زبان، ثقافت اور ورثہ**، **قدرتی نظاموں کی کیفیت**، اور **بین نسلی ذمہ داری** کی مشترکہ پکار بھی [باب پنجم *دیسی استمرار، زبان، ثقافت اور ورثہ*](core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) سے راستہ پاتی ہے جہاں کمیونٹی سے جڑا استمرار، ورثہ، قدرتی نظاموں کی کیفیت، اور مستقبل کی ضبط کا جائزہ ساتھ لاگو ہوں۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، اور [§14 نظامی جائزے کا تقاضا](core_01_c_stewardship_capacity_principles.md)۔
+- باب پنجم: مستند **بین نسلی ذمہ داری** O/M/A/C [**Def.I1** *ماحولیاتی دیانت، نقش، اور پائیداری*](../../core_05.040_band_continuity.md#ecological-footprint-semi-independent) میں رہتی ہے، **ماحولیاتی دیانت**، **پائیداری**، **ماحولیاتی پیش شرائط**، اور **ماحولیاتی نقش** کے ساتھ مشترکہ پڑھی (مشترکہ پکار جہاں نقش کا بوجھ، انکشاف، موازنہ، کمی، یا سراغ مادی طور پر داؤ پر ہو)۔ **دیسی استمرار**، **زبان، ثقافت اور ورثہ**، **قدرتی نظاموں کی کیفیت**، اور **بین نسلی ذمہ داری** کی مشترکہ پکار بھی [باب پنجم *دیسی استمرار، زبان، ثقافت اور ورثہ*](../../core_05.040_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) سے راستہ پاتی ہے جہاں کمیونٹی سے جڑا استمرار، ورثہ، قدرتی نظاموں کی کیفیت، اور مستقبل کی ضبط کا جائزہ ساتھ لاگو ہوں۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [بین نسلی ذمہ داری](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [ماحولیاتی پیش شرائط](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [بین نسلی ذمہ داری](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
+- [ماحولیاتی پیش شرائط](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
 - [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) · [O](core_05_band_oversight.md#مادیت-کا-تعین) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -265,8 +265,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [§14 نظامی جائزے کا تقاضا](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement)۔
-- ساتھ پڑھیں: [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint)، [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی)، [ماحولیاتی پیش شرائط](core_05_band_continuity.md#environmental-preconditions-constitutional)، [ماحولیاتی بحالی کی صلاحیت](core_05_band_continuity.md#ecological-recovery-capacity-constitutional)، [بین نسلی ذمہ داری](core_05_band_continuity.md#intergenerational-responsibility-constitutional)، اور [وجودی خطرہ](core_05_band_continuity.md#existential-risk)۔
+- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [§14 نظامی جائزے کا تقاضا](core_01_c_stewardship_capacity_principles.md)۔
+- ساتھ پڑھیں: [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint)، [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی)، [ماحولیاتی پیش شرائط](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional)، [ماحولیاتی بحالی کی صلاحیت](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional)، [بین نسلی ذمہ داری](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional)، اور [وجودی خطرہ](../../core_05.040_band_continuity.md#existential-risk)۔
 - زیریں: **Chapter Thirteen §6.1** (*ہنگامی تدابیر اور استمرار کا بوجھ*) — بہانہ مخالف اور وقتی حد والا جائزہ ضبط جہاں وجودی خطرے یا ہنگامی فریم پکارا جائے۔
 
 </details>
@@ -274,10 +274,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [وجودی خطرہ](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [ماحولیاتی بحالی کی صلاحیت](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [وجودی خطرہ](../../core_05.040_band_continuity.md#existential-risk) · [O](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [A](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [ماحولیاتی بحالی کی صلاحیت](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
 - [پیش بینی](core_05_band_oversight.md#پیش-بینی-کی-مستعدی) · [O](core_05_band_oversight.md#پیش-بینی-کی-مستعدی) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [انحصار](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 
 </details>
 
@@ -285,7 +285,7 @@
 
 *سادہ الفاظ میں: جب کوئی نظام یا فیصلہ شعوری وجود کی بقا یا ماحولیاتی بحالی کی صلاحیت کو قابلِ یقین طور پر خطرہ دے سکتا ہو تو ضابطہ کاروں کو زیادہ سے زیادہ جانچ لگانی چاہیے — چاہے خطرہ چھوٹا، سست یا متنازع ہو۔*
 
-- **ماحولیاتی بحالی کی صلاحیت کا دائرہ:** اس دفعہ میں **ماحولیاتی بحالی کی صلاحیت** باب پنجم کی [ماحولیاتی بحالی کی صلاحیت](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) ہے — خرابی کے بعد عملی نظام بحالی (**خود مرمت**) نہیں، مخصوص حالتوں کا واپس لانا (**الٹ پھیر**) نہیں، اور تجارتی لاگت کی وصولی نہیں۔
+- **ماحولیاتی بحالی کی صلاحیت کا دائرہ:** اس دفعہ میں **ماحولیاتی بحالی کی صلاحیت** باب پنجم کی [ماحولیاتی بحالی کی صلاحیت](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional) ہے — خرابی کے بعد عملی نظام بحالی (**خود مرمت**) نہیں، مخصوص حالتوں کا واپس لانا (**الٹ پھیر**) نہیں، اور تجارتی لاگت کی وصولی نہیں۔
 - **بلند جانچ:** بلند آئینی جانچ لازمی ہے جہاں نظام، پالیسی، بنیادی ڈھانچہ، ہم آہنگ سرگرمی، یا حکمرانی کا فیصلہ **وجودی خطرہ** یا **ماحولیاتی بحالی کی صلاحیت** کے ناقابلِ واپسی نقصان کا معتبر راستہ بنائے۔
   - یہ قاعدہ تب بھی لاگو ہوتا ہے جب وہ راستہ کم احتمال، تاخیری، جمع شدہ، حد-منحصر، یا وقت میں متنازع ہو۔
 - **جائزے کے تقاضے:** جائزے کو چاہیے کہ:
@@ -302,7 +302,7 @@
   فیصلہ ریکارڈ کو غیر یقینی، مفروضے، ثبوت کی حدیں، اختلاف، اور مادی خلا کھلے رکھنے چاہئیں۔
 - **بار اور ریکارڈ کی اضافی شرائط:** ہر مادی طور پر زیادہ محفوظ متبادل کے لیے اجازت، تسلسل یا توسیع چاہنے والا فریق یا تو اس متبادل کو زیرِ جائزہ سرگرمی میں اختیار کرے، یا شواہد سے دکھائے کہ وہ سرگرمی کا جائز مقصد حاصل نہیں کر سکتا یا دستیاب نہیں۔ صرف یہ درج کرنا کہ متبادل زیرِ غور آئے کافی نہیں۔ ثبوت باب چار §5 کے معیارِ ثبوتِ تعمیل پر پورا اترے۔ نگرانی اسبابی راستے کو ناقابلِ واپسی نقصان سے پہلے روکنے کے لیے کافی جلد شناخت کرے، اور نامزد فاعل کے پاس روکنے کا اختیار اور عملی صلاحیت دونوں ہوں۔ تخفیف اور مداخلت کے اقدامات ممکنہ نقصان کے پیمانے کے متناسب ہوں۔ یہ بار جاری رہتا ہے اور نئے مادی ثبوت، توسیع، اور خطرے کے متناسب وقفوں پر دوبارہ پورا کرنا ہوگا۔ ناکامی عدم تعمیل اور باب تین §3 کے نتائج لاتی ہے۔ ہر اجازت، تسلسل یا توسیع کا فیصلہ مادی طور پر پابند عمل ہے؛ عمل کا ریکارڈ فاعل کے ثبوت کو جائزہ لینے والے کے جائزے سے جوڑے اور غیر یقینی، مفروضے، ثبوت کی حدود، اختلاف اور مادی خلا ظاہر کرے۔
 - **موجودہ فائدے کی حد:** موجودہ فائدہ مستقبل کے شعوری وجودوں، ماحولیاتی بحالی کے لیے نازک نظاموں، یا حیات سہارا دینے والی ماحولیاتی شرائط کو تہذیب-پیمانہ یا بقا-نازک نقصان کے غیر متناسب انکشاف کا جواز نہیں۔
-- **نامزد تدابیر:** اس دفعہ کے تحت اجازت، استمرار، یا توسیع چاہنے والے فاعلوں نے [اختیار کی دستاویز](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) یا اختیار کے دائرے میں شامل نفاذ متن میں اس راستے کے تناسب میں کمی، حد، یا رکاوٹ تدابیر نامزد کی ہونی چاہئیں — بشمول موسمیاتی نظام کو نقصان بطور [ماحولیاتی پیش شرائط](core_05_band_continuity.md#environmental-preconditions-constitutional) عامل۔ یہ دفعہ اب بھی عددی ہدف نہیں سیٹ کرتی۔ **دفعہ I-B** (*ماحولیاتی نقش اور شفافیت*) نقش-انتساب کی ذیلی دفعہ رہتی ہے اور اکیلے کمی نہیں مانگتی۔ ان نامزد تدابیر کے بغیر استمرار جب اس دفعہ کے تحت معتبر راستہ کھلا رہے، عدمِ اطاعت ہے۔
+- **نامزد تدابیر:** اس دفعہ کے تحت اجازت، استمرار، یا توسیع چاہنے والے فاعلوں نے [اختیار کی دستاویز](../../core_17.000_amendment_ratification.md) یا اختیار کے دائرے میں شامل نفاذ متن میں اس راستے کے تناسب میں کمی، حد، یا رکاوٹ تدابیر نامزد کی ہونی چاہئیں — بشمول موسمیاتی نظام کو نقصان بطور [ماحولیاتی پیش شرائط](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) عامل۔ یہ دفعہ اب بھی عددی ہدف نہیں سیٹ کرتی۔ **دفعہ I-B** (*ماحولیاتی نقش اور شفافیت*) نقش-انتساب کی ذیلی دفعہ رہتی ہے اور اکیلے کمی نہیں مانگتی۔ ان نامزد تدابیر کے بغیر استمرار جب اس دفعہ کے تحت معتبر راستہ کھلا رہے، عدمِ اطاعت ہے۔
 
 - **موجودہ فائدے کی حد:** موجودہ فائدہ مستقبل کے ذی شعوروں، ماحولیاتی بحالی کے لیے اہم نظاموں، یا زندگی برقرار رکھنے والے حالات کو تہذیبی سطح یا بقا کے لیے سنگین نقصان کے غیر متناسب خطرے میں ڈالنے کا جواز نہیں بنتا۔ کسی بھی قدرتی ماحولیاتی نظام کو کسی بھی پیمانے پر اپنی [ماحولیاتی بحالی کی صلاحیت](../../core_05.040_band_continuity.md#ecological-recovery-capacity) کے ناقابلِ واپسی نقصان کے خطرے میں نہیں ڈالا جا سکتا۔
 
@@ -314,7 +314,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، اور [§9.2 تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، [§3.2 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md)، اور [§9.2 تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)۔
 
 </details>
 
@@ -351,15 +351,15 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [ماحولیاتی نقش](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [بین نسلی ذمہ داری](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+- [ماحولیاتی نقش](../../core_05.040_band_continuity.md#ecological-footprint) · [O](../../core_05.040_band_continuity.md#ecological-footprint) · [M](../../core_05.040_band_continuity.md#ecological-footprint-a) · [A](../../core_05.040_band_continuity.md#ecological-footprint-a) · [C](../../core_05.040_band_continuity.md#ecological-footprint-c)
+- [بین نسلی ذمہ داری](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) · [O](core_05_band_oversight.md#مادیت-کا-تعین) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -385,16 +385,16 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، اور [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)۔
+- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، [§3.2 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [انحصار](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 
 </details>
 
@@ -419,7 +419,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)۔
+- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 
 </details>
 
@@ -428,8 +428,8 @@
 
 - [محرکات کی ہم آہنگی](core_05_band_integrative.md#محرکات-کی-ہم-آہنگی) · [O](core_05_band_integrative.md#محرکات-کی-ہم-آہنگی) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 - [پیش بینی](core_05_band_oversight.md#پیش-بینی-کی-مستعدی) · [O](core_05_band_oversight.md#پیش-بینی-کی-مستعدی) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -450,19 +450,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [رضا](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
+- [رضا](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
 - [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [انحصار](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [بامعنی فاعلیت](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [جبر اور ہیرا پھیری](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [اعتماد کی گراوٹ اور گمراہ کن انحصار](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [M](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [بامعنی فاعلیت](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.035_band_accountability.md) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [جبر اور ہیرا پھیری](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [اعتماد کی گراوٹ اور گمراہ کن انحصار](core_05_band_integrative.md) · [O](core_05_band_integrative.md) · [M](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
@@ -485,19 +485,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
-- ساتھ پڑھیں: [دفعہ XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*نقل پذیری کے حقوق*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — معلومات کی اقسام اور ہینڈلنگ**؛ **CJS-3.17** (*باہم چلن، نقل پذیری، اور خروج کی دیانت کی اصطلاحیں*) اور **CJS-3.18** (*ڈیٹا برقرار رکھنے اور زندگی چکر کی دیانت کی اصطلاحیں*)؛ [باب یکم §11.6 جانشین کی ذمہ داری اور رسمی ڈھانچے سے فرار کی ممانعت](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [باب نہم §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) اور [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
+- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- ساتھ پڑھیں: [دفعہ XIX-A](core_06_rights_part_c.md) (*نقل پذیری کے حقوق*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — معلومات کی اقسام اور ہینڈلنگ**؛ **CJS-3.17** (*باہم چلن، نقل پذیری، اور خروج کی دیانت کی اصطلاحیں*) اور **CJS-3.18** (*ڈیٹا برقرار رکھنے اور زندگی چکر کی دیانت کی اصطلاحیں*)؛ [باب یکم §11.6 جانشین کی ذمہ داری اور رسمی ڈھانچے سے فرار کی ممانعت](core_01_c_stewardship_capacity_principles.md)؛ [باب نہم §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) اور [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [انحصار](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [بین نسلی ذمہ داری](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [بین نسلی ذمہ داری](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) · [O](core_05_band_oversight.md#مادیت-کا-تعین) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [غفلت](core_05_band_accountability.md#negligence) · [O](core_05_band_accountability.md#negligence) · [M](core_05_band_accountability.md#negligence-a) · [A](core_05_band_accountability.md#negligence-a) · [C](core_05_band_accountability.md#negligence-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [غفلت](../../core_05.035_band_accountability.md#negligence) · [O](../../core_05.035_band_accountability.md#negligence) · [M](../../core_05.035_band_accountability.md#negligence-a) · [A](../../core_05.035_band_accountability.md#negligence-a) · [C](../../core_05.035_band_accountability.md#negligence-c)
 
 </details>
 
@@ -512,7 +512,7 @@
   - کیا نقل پذیری موجود ہے؛
   - کیا استمرار تدابیر جگہ پر ہیں۔
 
-  چلانے والے استمرار-نازک شعوری ڈیٹا ایسے شکلوں میں جمع یا رکھ نہیں سکتے جنہیں ظاہر شدہ استمرار اور برآمد راستوں کے تحت برآمد، منتقل، یا حوالے نہ کیا جا سکے، سوائے جہاں **ضرورت** رازداری، سیکیورٹی، یا جائز عدمِ انکشاف مانگے — اس صورت میں حد، دائرہ، اور کوئی جائز بدل برآمد راستہ عہد سے پہلے ظاہر ہونا چاہیے۔ ساتھ پڑھیں [corpus_systems.md](../../corpus_systems.md) **CS-2 — معلومات کی اقسام اور ہینڈلنگ**، **[قطعہ 1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*استمرار-نازک جمع اور برآمد پذیری*)، اور **دفعہ XIX-A** (*نقل پذیری کے حقوق*)۔
+  چلانے والے استمرار-نازک شعوری ڈیٹا ایسے شکلوں میں جمع یا رکھ نہیں سکتے جنہیں ظاہر شدہ استمرار اور برآمد راستوں کے تحت برآمد، منتقل، یا حوالے نہ کیا جا سکے، سوائے جہاں **ضرورت** رازداری، سیکیورٹی، یا جائز عدمِ انکشاف مانگے — اس صورت میں حد، دائرہ، اور کوئی جائز بدل برآمد راستہ عہد سے پہلے ظاہر ہونا چاہیے۔ ساتھ پڑھیں [corpus_systems.md](../../corpus_systems.md) **CS-2 — معلومات کی اقسام اور ہینڈلنگ**، **[قطعہ 1.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*استمرار-نازک جمع اور برآمد پذیری*)، اور **دفعہ XIX-A** (*نقل پذیری کے حقوق*)۔
 - **استمرار کی منصوبہ بندی:** شامل **اعلیٰ-انحصار** مصنوع زمرے کے لیے چلانے والوں کو عملی منصوبے رکھنے چاہئیں کہ خدمت رکے یا چلانے والا چلا جائے تو کیا ہوگا۔ مثالیں:
   - امانت؛
   - جانشین حوالگی؛
@@ -527,11 +527,11 @@
   - ظاہر شدہ برآمد راستوں کے تحت استمرار-نازک ڈیٹا کا استعمال کے قابل برآمد یا حوالگی، بند ہونے اور منتقلی کھڑکیوں کے پار محفوظ — محض کوشش کرنے کا اختیاری وعدہ نہیں۔
 
   چلانے والے اب بھی آئینی معیاروں پر پکڑے جا سکتے ہیں جب ان کا چلن باب پنجم کے تحت **غفلت** بنے — بشمول وہ نقصان جو وقت کے ساتھ جمع ہو کیونکہ نگہداشت، سہارا، یا استمرار فرائض نظرانداز ہوئے۔
-- **جانشین اور رسمی ڈھانچے کے فرائض:** ازسرِ نو ڈھانچہ، فروخت، قرض حراست، یا دیوالیہ پن خود اس دفعہ میں بیان استمرار فرائض ختم نہیں کرتا۔ ساتھ پڑھیں [باب یکم §11.6 جانشین کی ذمہ داری اور رسمی ڈھانچے سے فرار کی ممانعت](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) اور [باب نہم §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
+- **جانشین اور رسمی ڈھانچے کے فرائض:** ازسرِ نو ڈھانچہ، فروخت، قرض حراست، یا دیوالیہ پن خود اس دفعہ میں بیان استمرار فرائض ختم نہیں کرتا۔ ساتھ پڑھیں [باب یکم §11.6 جانشین کی ذمہ داری اور رسمی ڈھانچے سے فرار کی ممانعت](core_01_c_stewardship_capacity_principles.md) اور [باب نہم §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
 
 *ہمسایہ دفعات:* **دفعہ II** (*مادی ذمہ دارانہ انتظام اور پائیدار استعمال کی دیانت*) کی **اصلاح** اس باب کے آغاز پر بیان **تفسیری مراکز** کی پیروی کرتی ہے (چیلنج اور تدارک؛ انصاف اور اضافہ)۔
 
-- **ڈیٹا کا انتظام:** جہاں شامل کیا گیا ہو، اس دفعہ کے تحت ڈیٹا کو [باب اٹھارہ](../../core_18.000_incorporation.md) کے مطابق [CS-2 — معلومات کی اقسام اور انتظام](../../corpus_systems/cs_02_a_information_types_and_handling.md) کے تحت درجہ بند اور سنبھالا جائے؛ اس میں اطلاع/حذف (§1.3) اور تسلسل کے لیے اہم برآمد (§1.2) شامل ہیں۔
+- **ڈیٹا کا انتظام:** جہاں شامل کیا گیا ہو، اس دفعہ کے تحت ڈیٹا کو [باب اٹھارہ](../../core_18.000_incorporation.md) کے مطابق [CS-2 — معلومات کی اقسام اور انتظام](../../corpus_systems/cs_06.305_information_types_and_handling.md) کے تحت درجہ بند اور سنبھالا جائے؛ اس میں اطلاع/حذف (§1.3) اور تسلسل کے لیے اہم برآمد (§1.2) شامل ہیں۔
 
 <a id="article-iii-survival-and-essential-access"></a>
 ### دفعہ III: بقا اور ضروری رسائی
@@ -540,7 +540,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - ساتھ پڑھیں: **دفعہ I** (*ماحولیاتی بقا*)، **دفعہ II** (*مادی ذمہ دارانہ انتظام اور پائیدار استعمال کی دیانت*)، اور باب پنجم جہاں بقا، تعلیمی رسائی، جسمانی نگہداشت، یا مشقت کی شرائط مادی طور پر داؤ پر ہوں۔
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، اور [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md)، اور [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md)۔
 
 </details>
 
@@ -562,19 +562,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، اور [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، اور [باب یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)۔
 - ساتھ پڑھیں: شگفتگی پیمائش خاندان (*بقا کی تہہ تک رسائی بطور آئینی پیمائش*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — تقسیم اور چیلنج نامزد راستوں میں **شرکت**، **نگرانی** اور آڈٹ، **جوابدہی** اور تدارک، **دفعہ XXVI-C** (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت **بروقت کارروائی**؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** (بقا کی ضروری رسائی) اور **استمرار** (پائیدار سپلائی اور غیر رجعتی ترسیل)۔
-- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) جہاں نظام ترسیل روکیں یا قائم رکھیں؛ **دفعہ XIII-B** (*چیلنج، جائزہ اور تدارک کا حق*)؛ **دفعہ XIX-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)۔
+- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) جہاں نظام ترسیل روکیں یا قائم رکھیں؛ **دفعہ XIII-B** (*چیلنج، جائزہ اور تدارک کا حق*)؛ **دفعہ XIX-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [بہبود](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [انحصار](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [بامعنی فاعلیت](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [معلوماتی کرہ](core_05_band_participation.md#info-sphere) · [O](core_05_band_participation.md#info-sphere) · [M](core_05_band_participation.md#info-sphere-a) · [A](core_05_band_participation.md#info-sphere-a) · [C](core_05_band_participation.md#info-sphere-c)
+- [بہبود](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [بامعنی فاعلیت](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.035_band_accountability.md) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [معلوماتی کرہ](../../core_05.055_band_participation.md#info-sphere) · [O](../../core_05.055_band_participation.md#info-sphere) · [M](../../core_05.055_band_participation.md#info-sphere-a) · [A](../../core_05.055_band_participation.md#info-sphere-a) · [C](../../core_05.055_band_participation.md#info-sphere-c)
 
 </details>
 
@@ -591,24 +591,24 @@
   - وہ ماحول دیگر شعوری وجودوں، نظاموں، یا قابلِ روک بنیادی ڈھانچے کی ناکامی سے پیدا تباہ کن خطرات کے خلاف محفوظ ہونے چاہئیں۔
 - **من مانی بے دخلی کے خلاف حفاظت اور ضروری-ماحول کی غیر تجارتی تہہ:** مستحکم پناہ اور چلنے کے ماحول من مانی بے دخلی، نقل مکانی، یا ضروری-ماحول تعلق ختم کرنے کے خلاف تہہ رکھتے ہیں۔
   - ضروری پناہ یا چلنے کے ماحول کے تعلق کی بے دخلی، نقل مکانی، یا ختم — بشمول طبعی رہائش، اساس میزبانی، کمپیوٹ کرایہ داری، اور ترکیبی و ملا جلی شعوری وجودوں کے لیے ملتے جلتے اساس-بے نیاز انتظامات — کو چاہیے کہ:
-    - صرف اس شعوری وجود پر لاگو مخصوص وجہ سے ہو — عمومی یا گروہ قاعدہ نہیں — [طریقہ کار کا انصاف](core_05_band_participation.md#procedural-fairness-constitutional) کے تحت منصفانہ عمل کے ساتھ؛
+    - صرف اس شعوری وجود پر لاگو مخصوص وجہ سے ہو — عمومی یا گروہ قاعدہ نہیں — [طریقہ کار کا انصاف](../../core_05.055_band_participation.md#procedural-fairness-constitutional) کے تحت منصفانہ عمل کے ساتھ؛
     - شعوری وجود تک بامعنی نوٹس اور چیلنج موقع پہنچے؛
-    - [ضرورت](core_05_band_accountability.md#necessity) اور [تناسب](core_05_band_accountability.md#proportionality) پورا کرے۔
+    - [ضرورت](../../core_05.035_band_accountability.md#necessity) اور [تناسب](../../core_05.035_band_accountability.md#proportionality) پورا کرے۔
   - تجارتی دباؤ — قیمت، سٹے کی ازسرِ نو تقسیم، یا ملتا جلتا بازار-ڈھانچہ دباؤ — عدمِ اطاعت ہے جہاں یہ ضروری-ماحول کی رسائی اس پیمانے پر ہرائے جو بقا کی تہہ کو مادی طور پر شامل کرے۔
-  - ضروری-ماحول کی رسائی غیر تجارتی تہہ رکھتی ہے جسے [ضروری-ماحول کی غیر تجارتی کاری](core_05_band_continuity.md#essential-environment-non-commodification-constitutional) چلاتا ہے۔ عام بازار-ڈھانچہ اوزار اس تہہ کو تنگ نہیں کر سکتے۔
+  - ضروری-ماحول کی رسائی غیر تجارتی تہہ رکھتی ہے جسے [ضروری-ماحول کی غیر تجارتی کاری](../../core_05.040_band_continuity.md#essential-environment-non-commodification-constitutional) چلاتا ہے۔ عام بازار-ڈھانچہ اوزار اس تہہ کو تنگ نہیں کر سکتے۔
 - **ربط:** معلوماتی کرہ اور بنیادی معلومات و مواصلات نظاموں تک رسائی جدید شعوری معاشرے میں شرکت کا بنیادی تقاضا ہے۔
   - شعوری وجودوں کو فاعلیت، آگاہی، اور بامعنی شرکت قائم رکھنے کے لیے کافی رسائی ہونی چاہیے۔
-  - اس رسائی کی کوئی حد [ضرورت](core_05_band_accountability.md#necessity)، [تناسب](core_05_band_accountability.md#proportionality)، اور [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint) پوری کرے جہاں سیکیورٹی، حفاظت، یا جائز عملی حدیں مادی طور پر تنگ تر رسائی مانگیں۔
+  - اس رسائی کی کوئی حد [ضرورت](../../core_05.035_band_accountability.md#necessity)، [تناسب](../../core_05.035_band_accountability.md#proportionality)، اور [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint) پوری کرے جہاں سیکیورٹی، حفاظت، یا جائز عملی حدیں مادی طور پر تنگ تر رسائی مانگیں۔
 - **ادارہ جاتی ضمانتیں:** پیمانے پر پچھلے حقوق محفوظ کرنے کے لیے مثبت ادارہ جاتی انتظامات درکار ہو سکتے ہیں جہاں اختیار کنندہ احکامات **اس آئین** نافذ کریں۔ ان انتظامات میں شامل ہو سکتے ہیں:
   - جائز مالی اور تقسیم میکانزم — منتقلیاں، جنس میں فراہمی، یا ملا جلا ڈیزائن؛
   - قواعد کہ کون اہل ہے، سہارا پانے کے لیے کہاں رہنا چاہیے، اور فائدہ سطحیں لاگت بدلنے پر کیسے تازہ ہوں۔
 
   وہ قواعد ترسیل ڈھانچہ دے سکتے ہیں۔ انہیں بقا کی ضروری چیزوں کی کم از کم رسائی ہرانے یا **دفعات III** اور **V** کے خلاف نفرت انگیز اخراج لگانے کے لیے استعمال نہیں ہونا چاہیے۔
-  - تفصیلی مالی رخ — بشمول قاعدہ کہ فیس اور چارج بقا سے متعلق اجزاء کی کم از کم رسائی نہ ہرائیں — [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*درجہ بندی سے جڑی ادارہ جاتی ذمہ داریاں*)، **CI-10** (*عوامی آمدن، فیس، بار بار چارج، اور بل کی دیانت*)، اور **CI-11** (*وسائل کا ذمہ دارانہ انتظام اور محرکات کی دیانت*) چلاتے ہیں۔
-  - جب وہ نظام جن پر شعوری وجود مادی طور پر منحصر ہوں بقا کی ضروری چیزوں کی رسائی سپلائی، تقسیم، قیمت، میزبانی، یا بند کریں، [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت لاگو ہوتا ہے — اور ان نظاموں کے عمل یہاں بیان حقوق تنگ کرنے کے لیے استعمال نہیں ہو سکتے۔
+  - تفصیلی مالی رخ — بشمول قاعدہ کہ فیس اور چارج بقا سے متعلق اجزاء کی کم از کم رسائی نہ ہرائیں — [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*درجہ بندی سے جڑی ادارہ جاتی ذمہ داریاں*)، **CI-10** (*عوامی آمدن، فیس، بار بار چارج، اور بل کی دیانت*)، اور **CI-11** (*وسائل کا ذمہ دارانہ انتظام اور محرکات کی دیانت*) چلاتے ہیں۔
+  - جب وہ نظام جن پر شعوری وجود مادی طور پر منحصر ہوں بقا کی ضروری چیزوں کی رسائی سپلائی، تقسیم، قیمت، میزبانی، یا بند کریں، [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت لاگو ہوتا ہے — اور ان نظاموں کے عمل یہاں بیان حقوق تنگ کرنے کے لیے استعمال نہیں ہو سکتے۔
   - یہ دفعہ ایک ہی مالی ماڈل نہیں تجویز کرتی۔ روزگار، کاروبار، رضاکارانہ تبادلہ، اور دیگر جائز معاشی سرگرمی کسی بھی بقا کی تہہ سے اوپر اجازت رہتی ہے، باب یکم، باب ششم، اور شامل دستاویزات کے تابع — بشمول `corpus_systems.md` جہاں بازار-ڈھانچہ یا اعلیٰ اثر تجارتی نظام لاگو ہوں۔
 
-کراس حوالہ: **دفعہ XXVIII-D** (*غیر مطابق جائیداد اور نظام؛ رضاکارانہ سپردگی کے محرکات*) منتقلی کے پار ضروری-ماحول استمرار کے لیے منتقلی-ذمہ دارانہ انتظام ضبط — عملی تفصیل [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) تا **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives) میں؛ **باب پنجم** [*رہائش کا استمرار*](core_05_band_continuity.md#occupancy-continuity-constitutional)، [*ضروری-ماحول کی غیر تجارتی کاری*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional)، اور جہاں لاگو ہو [**§3.7** *جسمانی نگہداشت تک رسائی، محفوظ حالات، رہائش کا استمرار، ماحولیاتی پیش شرائط، ثقافتی استمرار، آرام، اور نقل مکانی مخالف تہہ*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) کا مشترکہ-پکار جھرمٹ۔
+کراس حوالہ: **دفعہ XXVIII-D** (*غیر مطابق جائیداد اور نظام؛ رضاکارانہ سپردگی کے محرکات*) منتقلی کے پار ضروری-ماحول استمرار کے لیے منتقلی-ذمہ دارانہ انتظام ضبط — عملی تفصیل [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) تا **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives) میں؛ **باب پنجم** [*رہائش کا استمرار*](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional)، [*ضروری-ماحول کی غیر تجارتی کاری*](../../core_05.040_band_continuity.md#essential-environment-non-commodification-constitutional)، اور جہاں لاگو ہو [**§3.7** *جسمانی نگہداشت تک رسائی، محفوظ حالات، رہائش کا استمرار، ماحولیاتی پیش شرائط، ثقافتی استمرار، آرام، اور نقل مکانی مخالف تہہ*](../../core_05.040_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) کا مشترکہ-پکار جھرمٹ۔
 
 - **انحصاری نظام:** جب ذی شعور جن نظاموں پر مادی طور پر انحصار کرتے ہیں وہ بقا کی ضروریات، جسمانی نگہداشت و صحت کی خدمات، یا پیداواری کام کے حالات فراہم، تقسیم، قیمت بند، میزبانی یا منقطع کرتے ہیں تو [نظامی ہم آہنگی کی تصدیق](../../core_05.040_band_continuity.md#system-alignment-certification) لاگو ہوتی ہے۔ ان نظاموں کے طریقۂ کار اس دفعہ کے حقوقی فرش کو کم نہیں کر سکتے۔
 
@@ -618,20 +618,20 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، [§5.1 تحدید کی ضبط](core_01_a_values_principles.md#51-limitation-discipline)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [باب یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§5.1 تحدید کی ضبط](core_01_a_values_principles.md#71-limitation-discipline)۔
 - زیریں: **دفعہ VI-A** (*وقار اور برابر اخلاقی مقام*) وقار کی تہہ، **دفعہ VII-A** (*جسم اور ذہن کی خود ملکیت*) خود ملکیت عدمِ دخل کی تہہ، **دفعہ VI-C** (*عدمِ امتیاز*) عدمِ امتیاز۔
-- ساتھ پڑھیں: باب پنجم *جسمانی نگہداشت تک رسائی*، *حقیقی انصاف*، *محفوظ خصوصیات*؛ [§3.7 *جسمانی نگہداشت تک رسائی، محفوظ حالات، رہائش کا استمرار، ماحولیاتی پیش شرائط، ثقافتی استمرار، آرام، اور نقل مکانی مخالف تہہ*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (جہاں دیکھ بھال کی رسائی، بقا کی تہہ کا استمرار، محفوظ شرکت شرائط، آرام یا بحالی، رہائش کا استمرار، ضروری چلنے کے ماحول، ماحولیاتی پیش شرائط، یا جگہ سے جڑا استمرار مادی طور پر ساتھ شامل ہوں)۔
+- ساتھ پڑھیں: باب پنجم *جسمانی نگہداشت تک رسائی*، *حقیقی انصاف*، *محفوظ خصوصیات*؛ [§3.7 *جسمانی نگہداشت تک رسائی، محفوظ حالات، رہائش کا استمرار، ماحولیاتی پیش شرائط، ثقافتی استمرار، آرام، اور نقل مکانی مخالف تہہ*](../../core_05.040_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (جہاں دیکھ بھال کی رسائی، بقا کی تہہ کا استمرار، محفوظ شرکت شرائط، آرام یا بحالی، رہائش کا استمرار، ضروری چلنے کے ماحول، ماحولیاتی پیش شرائط، یا جگہ سے جڑا استمرار مادی طور پر ساتھ شامل ہوں)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [جسمانی نگہداشت تک رسائی](core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [O](core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [M](core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05_band_continuity.md#bodily-maintenance-access-constitutional-c)
-- [حقیقی انصاف](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [محفوظ خصوصیات](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [جسمانی نگہداشت تک رسائی](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional) · [O](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional) · [M](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-c)
+- [حقیقی انصاف](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
+- [محفوظ خصوصیات](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -666,23 +666,23 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، [§5.1 تحدید کی ضبط](core_01_a_values_principles.md#51-limitation-discipline)، [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [باب یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§5.1 تحدید کی ضبط](core_01_a_values_principles.md#71-limitation-discipline)، [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)۔
 - زیریں: **دفعہ III-A** (*بقا*) بقا کی تہہ (اوپر پڑھیں، بدل نہیں)، **دفعہ IV-A** (*برابر تعلیمی رسائی*) تعلیمی رسائی، **دفعہ VI-A** (*وقار اور برابر اخلاقی مقام*) وقار، **دفعہ VI-C** (*عدمِ امتیاز*) عدمِ امتیاز، **دفعہ X-C** (*متاثر فریق کردار اور شرکت کے حقوق*) آزاد انجمن، **دفعہ XIII-A** (*قابلِ اعتمادی اور اعتبار کی بنیاد*) اعتبار (جہاں محفوظ حالات پر اثر رکھے)، **دفعہ XIX** (*کیفیت اور شرکت کی حیثیت*) کیفیت اور شرکت، **باب یکم §11** عدمِ ارتکاز (صریح: §6 اکیلے اس تہہ کو پورا نہیں کرتا)۔
-- ساتھ پڑھیں: باب پنجم *منصفانہ معاوضہ*، *اجتماعی تنظیم*، *محفوظ حالات*، *نقل مکانی مخالف تہہ*، *فراغت اور آرام*، *دیسی استمرار*، اور *زبان، ثقافت اور ورثہ*؛ [§3.7 *جسمانی نگہداشت تک رسائی، محفوظ حالات، رہائش کا استمرار، ماحولیاتی پیش شرائط، ثقافتی استمرار، آرام، اور نقل مکانی مخالف تہہ*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (جہاں بقا، جسمانی نگہداشت تک رسائی، رہائش کا استمرار، آرام، محفوظ مشقت شرائط، نقل مکانی مخالف، ماحولیاتی پیش شرائط، یا جگہ سے جڑا استمرار مادی طور پر ساتھ شامل ہوں)؛ [باب پنجم *اجتماع، اجتماعی تنظیم، اور ادارہ جاتی تشکیل*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (جہاں اجتماع اور اجتماعی تنظیم نامزد راستے مشترکہ طور پر شامل ہوں)۔ نفاذ راہ بندی: `corpus_institutions.md` CI-9 / CI-10 / CI-11 مالی مواد؛ `corpus_systems.md` CS-5 حفاظت پروفائل *محفوظ حالات* کے لیے۔
+- ساتھ پڑھیں: باب پنجم *منصفانہ معاوضہ*، *اجتماعی تنظیم*، *محفوظ حالات*، *نقل مکانی مخالف تہہ*، *فراغت اور آرام*، *دیسی استمرار*، اور *زبان، ثقافت اور ورثہ*؛ [§3.7 *جسمانی نگہداشت تک رسائی، محفوظ حالات، رہائش کا استمرار، ماحولیاتی پیش شرائط، ثقافتی استمرار، آرام، اور نقل مکانی مخالف تہہ*](../../core_05.040_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (جہاں بقا، جسمانی نگہداشت تک رسائی، رہائش کا استمرار، آرام، محفوظ مشقت شرائط، نقل مکانی مخالف، ماحولیاتی پیش شرائط، یا جگہ سے جڑا استمرار مادی طور پر ساتھ شامل ہوں)؛ [باب پنجم *اجتماع، اجتماعی تنظیم، اور ادارہ جاتی تشکیل*](../../core_05.055_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (جہاں اجتماع اور اجتماعی تنظیم نامزد راستے مشترکہ طور پر شامل ہوں)۔ نفاذ راہ بندی: `corpus_institutions.md` CI-9 / CI-10 / CI-11 مالی مواد؛ `corpus_systems.md` CS-5 حفاظت پروفائل *محفوظ حالات* کے لیے۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [منصفانہ معاوضہ](core_05_band_continuity.md#fair-compensation-constitutional) · [O](core_05_band_continuity.md#fair-compensation-constitutional) · [M](core_05_band_continuity.md#fair-compensation-constitutional-a) · [A](core_05_band_continuity.md#fair-compensation-constitutional-a) · [C](core_05_band_continuity.md#fair-compensation-constitutional-c)
-- [اجتماعی تنظیم](core_05_band_participation.md#collective-organization-constitutional) · [O](core_05_band_participation.md#collective-organization-constitutional) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
-- [کاروبار کی تخلیق](core_05_band_participation.md#business-creation-constitutional) · [O](core_05_band_participation.md#business-creation-constitutional) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
-- [محفوظ حالات](core_05_band_continuity.md#safe-conditions-constitutional) · [O](core_05_band_continuity.md#safe-conditions-constitutional) · [M](core_05_band_continuity.md#safe-conditions-constitutional-a) · [A](core_05_band_continuity.md#safe-conditions-constitutional-a) · [C](core_05_band_continuity.md#safe-conditions-constitutional-c)
-- [نقل مکانی مخالف تہہ](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [O](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [M](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05_band_continuity.md#anti-displacement-floor-constitutional-c)
-- [فراغت اور آرام](core_05_band_continuity.md#leisure-and-rest-constitutional) · [O](core_05_band_continuity.md#leisure-and-rest-constitutional) · [M](core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [A](core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [C](core_05_band_continuity.md#leisure-and-rest-constitutional-c)
-- [دیسی استمرار](core_05_band_continuity.md#indigenous-continuity-constitutional) · [O](core_05_band_continuity.md#indigenous-continuity-constitutional) · [M](core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [A](core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [C](core_05_band_continuity.md#indigenous-continuity-constitutional-c)
-- [زبان، ثقافت اور ورثہ](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [M](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05_band_continuity.md#language-culture-and-heritage-constitutional-c)
+- [منصفانہ معاوضہ](../../core_05.040_band_continuity.md#fair-compensation-constitutional) · [O](../../core_05.040_band_continuity.md#fair-compensation-constitutional) · [M](../../core_05.040_band_continuity.md#fair-compensation-constitutional-a) · [A](../../core_05.040_band_continuity.md#fair-compensation-constitutional-a) · [C](../../core_05.040_band_continuity.md#fair-compensation-constitutional-c)
+- [اجتماعی تنظیم](../../core_05.055_band_participation.md#collective-organization-constitutional) · [O](../../core_05.055_band_participation.md#collective-organization-constitutional) · [M](../../core_05.055_band_participation.md#collective-organization-constitutional-a) · [A](../../core_05.055_band_participation.md#collective-organization-constitutional-a) · [C](../../core_05.055_band_participation.md#collective-organization-constitutional-c)
+- [کاروبار کی تخلیق](../../core_05.055_band_participation.md#business-creation-constitutional) · [O](../../core_05.055_band_participation.md#business-creation-constitutional) · [M](../../core_05.055_band_participation.md#business-creation-constitutional-a) · [A](../../core_05.055_band_participation.md#business-creation-constitutional-a) · [C](../../core_05.055_band_participation.md#business-creation-constitutional-c)
+- [محفوظ حالات](../../core_05.040_band_continuity.md#safe-conditions-constitutional) · [O](../../core_05.040_band_continuity.md#safe-conditions-constitutional) · [M](../../core_05.040_band_continuity.md#safe-conditions-constitutional-a) · [A](../../core_05.040_band_continuity.md#safe-conditions-constitutional-a) · [C](../../core_05.040_band_continuity.md#safe-conditions-constitutional-c)
+- [نقل مکانی مخالف تہہ](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional) · [O](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional) · [M](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional-c)
+- [فراغت اور آرام](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional) · [O](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional) · [M](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional-a) · [A](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional-a) · [C](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional-c)
+- [دیسی استمرار](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional) · [O](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional) · [M](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional-a) · [A](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional-a) · [C](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional-c)
+- [زبان، ثقافت اور ورثہ](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional) · [O](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional) · [M](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-c)
 
 </details>
 
@@ -691,16 +691,16 @@
 *سادہ الفاظ میں: جو کوئی کام کرتا ہے — کسی بھی شکل میں، کسی بھی اساس پر — منصفانہ اجرت، دوسروں کے ساتھ تنظیم کی آزادی، محفوظ حالات، اور حقیقی چھٹی کے حقوق رکھتا ہے۔ درجہ بندی کی چالوں، بازار ڈھانچے، یا اساس طبقے کی دلیلوں سے ان میں سے کوئی نہیں ہرایا جا سکتا۔*
 
 - **مشقت اور معاشی تہہ:** یہ دفعہ پیداواری کام میں حصہ دینے والے ہر ایک کے لیے چار بنیادی باتیں بچاتی ہے — چاہے اجرت، معاہدے، پلیٹ فارم، تعاونی، یا ملتے جلتے انتظامات سے، کسی بھی اساس پر **شعوریت عدمِ اخراج** کے تحت:
-  - [منصفانہ معاوضہ](core_05_band_continuity.md#fair-compensation-constitutional)؛
-  - [اجتماعی تنظیم](core_05_band_participation.md#collective-organization-constitutional)؛
-  - [محفوظ حالات](core_05_band_continuity.md#safe-conditions-constitutional)؛ اور
-  - [فراغت اور آرام](core_05_band_continuity.md#leisure-and-rest-constitutional) (ہر ایک باب پنجم میں تعریف)۔
+  - [منصفانہ معاوضہ](../../core_05.040_band_continuity.md#fair-compensation-constitutional)؛
+  - [اجتماعی تنظیم](../../core_05.055_band_participation.md#collective-organization-constitutional)؛
+  - [محفوظ حالات](../../core_05.040_band_continuity.md#safe-conditions-constitutional)؛ اور
+  - [فراغت اور آرام](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional) (ہر ایک باب پنجم میں تعریف)۔
 
   یہ تہہ **دفعہ III-A** (*بقا*) کی بقا کی تہہ پر بنتی ہے؛ اس کی جگہ نہیں لیتی۔ صرف بقا تقاضے پورا کرنا اس دفعہ کے لیے کافی نہیں۔ صرف **باب یکم §11** عدمِ ارتکاز قواعد پورا کرنا بھی کافی نہیں۔
 - **منصفانہ معاوضہ:** پیداواری سرگرمی کا معاوضہ چاہیے کہ:
-  - [منصفانہ معاوضہ](core_05_band_continuity.md#fair-compensation-constitutional) کے تحت مضمونی کفایت تک پہنچے؛
-  - ملتی جلتی سرگرمی کے پار [حقیقی انصاف](core_05_band_participation.md#substantive-fairness-constitutional) کا سراغ رکھے؛
-  - کارکنوں کو ایسی پسندوں میں ہیرا پھیری کے لیے استعمال نہ ہو جو وہ **دفعہ X-A** (*فاعلیت اور ہیرا پھیری سے آزادی*) کے تحت آزادانہ نہ کرتے، یا اجرت یا فوائد سے قید کرنے کے لیے جب [بامعنی فاعلیت](core_05_band_participation.md#meaningful-agency) کے تحت حقیقی متبادل نہ ہوں۔
+  - [منصفانہ معاوضہ](../../core_05.040_band_continuity.md#fair-compensation-constitutional) کے تحت مضمونی کفایت تک پہنچے؛
+  - ملتی جلتی سرگرمی کے پار [حقیقی انصاف](../../core_05.055_band_participation.md#substantive-fairness-constitutional) کا سراغ رکھے؛
+  - کارکنوں کو ایسی پسندوں میں ہیرا پھیری کے لیے استعمال نہ ہو جو وہ **دفعہ X-A** (*فاعلیت اور ہیرا پھیری سے آزادی*) کے تحت آزادانہ نہ کرتے، یا اجرت یا فوائد سے قید کرنے کے لیے جب [بامعنی فاعلیت](../../core_05.055_band_participation.md#meaningful-agency) کے تحت حقیقی متبادل نہ ہوں۔
 
   معاوضہ اسکیمیں جن کے اثرات **محفوظ خصوصیات** یا **محفوظ خصوصیات کا متبادل استعمال اور غیر متناسب اثر** کے تحت ان کے مادی متبادل سے میل کھائیں، عدمِ اطاعت ہیں۔
 - **اجتماعی تنظیم:** شعوری وجودوں کو پیداواری سرگرمی کی شرائط چیلنج اور گڑھنے کے مقصد سے اجتماعی تنظیم نامزد راستے بنانے، شامل ہونے، حصہ لینے، اور ان سے عمل کرنے کا حق ہے۔
@@ -712,20 +712,20 @@
   - یہ حق واحد ملکیت، شراکت داری، کارپوریشن، تجارتی مقصد والی تعاونی، پلیٹ فارم پر مبنی کاروبار، اور ملتے جلتے اساس-بے نیاز تجارتی تجربے گھیرتا ہے۔
   - تجارتی اجازت نامہ نظاموں، سرمایہ رسائی امتیاز، یا کاروبار تخلیق نامزد راستے ہرانے کے لیے ڈیزائن کردہ عملی پیچیدگی سے متبادل-انکار عدمِ اطاعت ہے۔
   - کاروبار کی تخلیق اجتماعی تنظیم کا کاروباری جوڑا ہے: جہاں اجتماعی تنظیم موجودہ پیداواری نظاموں کے اندر کارکن تنظیم چلاتی ہے، کاروبار کی تخلیق نئی تجارتی ہستیاں بنانا چلاتی ہے۔
-- **محفوظ حالات:** پیداواری سرگرمی [محفوظ حالات](core_05_band_continuity.md#safe-conditions-constitutional) پوری کرنے والی شرائط کے تحت چلنی چاہیے۔ وہ شرائط چاہیے کہ:
+- **محفوظ حالات:** پیداواری سرگرمی [محفوظ حالات](../../core_05.040_band_continuity.md#safe-conditions-constitutional) پوری کرنے والی شرائط کے تحت چلنی چاہیے۔ وہ شرائط چاہیے کہ:
   - اساس-بے نیاز لاگو ہوں؛
   - مضمونی اثر تک پہنچیں، صرف رسمی اطاعت نہیں؛
   - **دفعہ XIII-A** (*قابلِ اعتمادی اور اعتبار کی بنیاد*) اعتبار اور جہاں لاگو ہو `corpus_systems.md` CS-5 حفاظت پروفائلز سے جوڑیں؛
   - پیش بینی خطرے پر [مخالفانہ، پیمانہ شدہ اور استحصالی حالات](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط) لاگو کریں۔
 
   شعوری وجودوں سے **محفوظ حالات** روکنا، یا ان پر کمزور معیار لگانا، اساس یا نفاذ درجہ بندی کی وجہ سے نہ کہ مادی طور پر ملتے جلتے خطرے کی وجہ سے، **شعوریت عدمِ اخراج** کے تحت عدمِ اطاعت ہے۔
-- **فراغت اور آرام:** شعوری وجود [بامعنی فاعلیت](core_05_band_participation.md#meaningful-agency)، بہبود، اور شرکت صلاحیت بچانے کے لیے کافی آرام، بحالی، اور غیر پیداواری وقت کی حقوق کی تہہ حقدار ہیں۔
+- **فراغت اور آرام:** شعوری وجود [بامعنی فاعلیت](../../core_05.055_band_participation.md#meaningful-agency)، بہبود، اور شرکت صلاحیت بچانے کے لیے کافی آرام، بحالی، اور غیر پیداواری وقت کی حقوق کی تہہ حقدار ہیں۔
   - معاوضہ اور پیداواری-تقاضا اسکیمیں اس تہہ ہرانے کے لیے نہیں ڈھالی جانی چاہئیں۔
   - آرام اور بحالی کو اساس یا نفاذ درجہ بندی کی بنیاد پر اختیاری سمجھنا **شعوریت عدمِ اخراج** کے تحت عدمِ اطاعت ہے۔
 - **عدمِ ارتکاز، مسابقت موافق، اور انضمام-چھت تعامل:** **باب یکم §11** عدمِ ارتکاز ضبط، **§11.2** مسابقت موافق / غلبہ مخالف ضبط، اور **§11.3** انضمام-چھت ضبط پیداواری-سرگرمی طاقت ڈھانچوں پر لاگو ہوتے ہیں، مگر اس تہہ سے الگ ہیں۔
   - بازار ڈھانچہ جو عدمِ ارتکاز پورا کرے مگر منصفانہ معاوضہ، اجتماعی تنظیم، محفوظ حالات، یا فراغت اور آرام ہارے، اس دفعہ کے تحت عدمِ اطاعت ہے۔
   - پیداواری-سرگرمی ڈھانچہ جو اس دفعہ پورا کرے مگر §11 کے خلاف طاقت مرتکز کرے، §11 کے تحت عدمِ اطاعت ہے۔
-  - جب بہت کم آجر بھرتی قابو کریں، کارکنوں کو جانے یا بھرتی ہونے سے روکا جائے (عدمِ مقابلہ، عدمِ شکار سودے، اجرت طے کرنا، یا بھاری عدمِ درخواست قواعد)، پلیٹ فارم شعوری وجود قید کریں، سپلائرز کارکنوں کو نچوڑنے کے لیے قابو ہوں، انضمام مشقت یا سپلائر انحصار چھت پار کرے، یا دربان منصفانہ سودے اور نوکری نقل پذیری روکیں — وہ حقائق **§11.2**، **[CJS-3.11.2 غلبہ مخالف چلن اور تدارک کیٹلاگ](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**، **§11.3**، اور اس دفعہ کے تحت جانچیں جب مادی طور پر لاگو ہوں۔
+  - جب بہت کم آجر بھرتی قابو کریں، کارکنوں کو جانے یا بھرتی ہونے سے روکا جائے (عدمِ مقابلہ، عدمِ شکار سودے، اجرت طے کرنا، یا بھاری عدمِ درخواست قواعد)، پلیٹ فارم شعوری وجود قید کریں، سپلائرز کارکنوں کو نچوڑنے کے لیے قابو ہوں، انضمام مشقت یا سپلائر انحصار چھت پار کرے، یا دربان منصفانہ سودے اور نوکری نقل پذیری روکیں — وہ حقائق **§11.2**، **[CJS-3.11.2 غلبہ مخالف چلن اور تدارک کیٹلاگ](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)**، **§11.3**، اور اس دفعہ کے تحت جانچیں جب مادی طور پر لاگو ہوں۔
 - **حدیں اور نفاذ کی راہ بندی:** **منصفانہ معاوضہ**، **اجتماعی تنظیم**، **محفوظ حالات**، یا **فراغت اور آرام** کی کوئی حد **ضرورت**، **تناسب**، **محفوظ خصوصیات**، اور **حقیقی انصاف** پوری کرے۔
   - عملی میکانکس — مالی رخ، منتقلی اور بیمہ ڈیزائن، محفوظ حالات کے لیے معیار سیٹ کرنا، اور اجتماعی تنظیم ادارہ جاتی ڈیزائن — `corpus_institutions.md` CI-9 (*درجہ بندی سے جڑی ادارہ جاتی ذمہ داریاں*) / CI-10 (*عوامی آمدن، فیس، بار بار چارج، اور بل کی دیانت*) / CI-11 (*وسائل کا ذمہ دارانہ انتظام اور محرکات کی دیانت*) اور `corpus_systems.md` CS-5 کی طرف **باب شانزدہم** شمولیت ضبط کے تحت راستہ پاتی ہیں۔
   - وہ نفاذ متون اس تہہ کو تنگ پڑھنے نہیں دیا جانا چاہیے۔
@@ -759,19 +759,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، اور [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [§3.2 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [باب یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [محفوظ خصوصیات](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [رسائی پذیری](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
-- [حقیقی انصاف](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [تعلیمی فاعلیت](core_05_band_participation.md#educational-agency) · [O](core_05_band_accountability.md#educational-agency-o) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [محفوظ خصوصیات](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [رسائی پذیری](../../core_05.055_band_participation.md#accessibility-constitutional) · [O](../../core_05.055_band_participation.md#accessibility-constitutional) · [M](../../core_05.055_band_participation.md#accessibility-constitutional-a) · [A](../../core_05.055_band_participation.md#accessibility-constitutional-a) · [C](../../core_05.055_band_participation.md#accessibility-constitutional-c)
+- [حقیقی انصاف](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
+- [تعلیمی فاعلیت](../../core_05.055_band_participation.md#educational-agency) · [O](../../core_05.035_band_accountability.md) · [M](../../core_05.055_band_participation.md#educational-agency-a) · [A](../../core_05.055_band_participation.md#educational-agency-a) · [C](../../core_05.055_band_participation.md#educational-agency-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -783,7 +783,7 @@
   - **باب پنجم** (*محفوظ خصوصیات*) کی ممنوع وجوہات، بشمول معذوری اور حسی، ادراکی، یا فعالی صلاحیت میں فرق؛
   - من مانی گروہ بندیاں۔
 
-  نظاموں کو [رسائی پذیری](core_05_band_participation.md#accessibility-constitutional) دینی چاہیے — بشمول معذوری سے متعلق سہولتیں — حقیقی شرکت اور آئین-متعلقہ تعلیمی صلاحیت کے لیے کافی۔
+  نظاموں کو [رسائی پذیری](../../core_05.055_band_participation.md#accessibility-constitutional) دینی چاہیے — بشمول معذوری سے متعلق سہولتیں — حقیقی شرکت اور آئین-متعلقہ تعلیمی صلاحیت کے لیے کافی۔
   - کوئی مادی حد یا مختلف سلوک **ضرورت** اور **تناسب** پورا کرے اور جہاں لاگو ہو **دفعات V-A**، **V-B**، **V-C**، اور **باب پنجم** (*حقیقی انصاف*) سے ہم آہنگ رہے۔
 - **عوامی فائدے کا رخ:** تعلیم شعوری وجودوں کو علم اس طرح لاگو کرنے کی تیاری دے جو:
   - اجتماعی بہبود اور ماحولیاتی دیانت آگے بڑھائے؛
@@ -810,7 +810,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§8 آئینی تفسیر](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)، [§11 محرکات کی ہم آہنگی اور نظام کا قبضہ](core_01_c_stewardship_capacity_principles.md#19-ترغیبات-کی-ہم-آہنگی-اور-نظام-پر-قبضہ)، اور [§12 مشترکہ نظام کی صلاحیت](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، [§8 آئینی تفسیر](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)، [§11 محرکات کی ہم آہنگی اور نظام کا قبضہ](core_01_c_stewardship_capacity_principles.md#19-ترغیبات-کی-ہم-آہنگی-اور-نظام-پر-قبضہ)، اور [§12 مشترکہ نظام کی صلاحیت](core_01_c_stewardship_capacity_principles.md)۔
 
 </details>
 
@@ -840,7 +840,7 @@
 
 *ہمسایہ دفعات:*
 
-- **سرٹیفیکیشن کب لاگو ہو:** جب مادی اثر والے نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کریں جن پر دیگر نظام یا شعوری وجود انحصار کریں، [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت لاگو ہوتا ہے۔
+- **سرٹیفیکیشن کب لاگو ہو:** جب مادی اثر والے نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کریں جن پر دیگر نظام یا شعوری وجود انحصار کریں، [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت لاگو ہوتا ہے۔
 - **بدل نہیں:** پہچان یا جاری انحصار **دفعہ V-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) یا **دفعہ V-B** (*بین نظامی انصاف اور پائیداری*) اطاعت کی جگہ نہیں لے سکتا نہ وہ تہیں تنگ کر سکتا ہے۔
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -851,18 +851,18 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 - ساتھ پڑھیں: استمرار پیمائش خاندان (*انحصار اور وسائل کا بہاؤ بطور آئینی پیمائش*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — شفاف انحصار نقشوں اور آڈٹ کے قابل وسائل-بہاؤ ریکارڈ سے **نگرانی**، **دفعہ XVI-A** (*آڈٹ پذیری اور مشاہدہ پذیر ثبوت*) کے تحت چیلنج کے قابل جائزے میں **شرکت**؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** (دکھائی دینے والی لاگت-اور-فائدہ تقسیم) اور **استمرار** (بدلتے نظاموں کے پار پائیدار انحصار نظر)۔
-- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) جہاں نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کریں؛ **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*)۔
+- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) جہاں نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کریں؛ **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [انحصار](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [نظام کی حد کی دیانت](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
+- [نظام کی حد کی دیانت](../../core_05.040_band_continuity.md#system-boundary-integrity) · [O](../../core_05.040_band_continuity.md#system-boundary-integrity) · [M](../../core_05.040_band_continuity.md#system-boundary-integrity-a) · [A](../../core_05.040_band_continuity.md#system-boundary-integrity-a) · [C](../../core_05.040_band_continuity.md#system-boundary-integrity-c)
 
 </details>
 
@@ -875,7 +875,7 @@
   - وسائل کا بہاؤ؛
   - غیر شفاف یا غیر متناسب تعلقات جہاں مادی طور پر متعلقہ ہوں۔
 
-  تازہ کاریاں تبدیلی اور نازکی کے تناسب وقفوں پر ہونی چاہئیں۔ یہ نمائندگی **دفعہ XVI-A** (*آڈٹ پذیری اور مشاہدہ پذیر ثبوت*) کے تحت آڈٹ کے لیے دستیاب ہونی چاہیے۔ جہاں نظام مادی طور پر مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کرے، [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت جانچے کہ وہ **دفعہ V-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) پوری کرتے ہیں یا نہیں — چیلنج کے قابل **نظام سرٹیفیکیشن ریکارڈ** پر، محض چلانے والے کے دعوے پر نہیں۔
+  تازہ کاریاں تبدیلی اور نازکی کے تناسب وقفوں پر ہونی چاہئیں۔ یہ نمائندگی **دفعہ XVI-A** (*آڈٹ پذیری اور مشاہدہ پذیر ثبوت*) کے تحت آڈٹ کے لیے دستیاب ہونی چاہیے۔ جہاں نظام مادی طور پر مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کرے، [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت جانچے کہ وہ **دفعہ V-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) پوری کرتے ہیں یا نہیں — چیلنج کے قابل **نظام سرٹیفیکیشن ریکارڈ** پر، محض چلانے والے کے دعوے پر نہیں۔
 
   عملی میکانکس — منحصر-نظام نقشے، بہاؤ شفافیت، تقسیم زمرے، اور موافق ایڈجسٹمنٹ — **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*) کے تحت راستہ پاتی ہیں۔ باب ہفتم کہتا ہے سرٹیفیکیشن کیا تصدیق اور ریکارڈ کرے؛ وہ نفاذ متون اس تہہ نافذ کرتے ہیں اور اسے تنگ نہیں کرنا چاہیے۔
 
@@ -890,10 +890,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
-- ساتھ پڑھیں: [*حکمرانی معماری، نگرانی، انحصار، عدمِ مرکزیت، ارتکاز، بازار کا ڈھانچہ، اور خروج-راستہ دیانت*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (مشترکہ پکار جہاں ارتکاز، نگرانی، انحصار، حکمران-اختیار ڈھانچہ، یا محرک راہ بندی نیچے عملی متن میں **§5** / **§5** اور *ارتکاز-حد تعامل* ضبط سے ٹکرائیں)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- ساتھ پڑھیں: [*حکمرانی معماری، نگرانی، انحصار، عدمِ مرکزیت، ارتکاز، بازار کا ڈھانچہ، اور خروج-راستہ دیانت*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (مشترکہ پکار جہاں ارتکاز، نگرانی، انحصار، حکمران-اختیار ڈھانچہ، یا محرک راہ بندی نیچے عملی متن میں **§5** / **§5** اور *ارتکاز-حد تعامل* ضبط سے ٹکرائیں)۔
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — چیلنج اور چیلنج نامزد راستوں میں **شرکت**، **نگرانی** اور آڈٹ، **جوابدہی** اور اصلاحی جائزہ، **دفعہ XXVI-C** (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت **بروقت کارروائی**؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** (بین نظامی انصاف اور عدمِ نکاسی) اور **استمرار** (لمبے افق کی پائیداری اور ماحولیاتی نظام فنڈنگ)۔
-- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) جہاں بین نظامی انصاف، ماحولیاتی نظام فنڈنگ، یا مشترکہ بنیادی ڈھانچے سے مستقل نکاسی مادی طور پر داؤ پر ہو۔
+- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) جہاں بین نظامی انصاف، ماحولیاتی نظام فنڈنگ، یا مشترکہ بنیادی ڈھانچے سے مستقل نکاسی مادی طور پر داؤ پر ہو۔
 - ذمہ دارانہ انتظام کا دروازہ (غیرِ عملی): پابند اگلے قدم کا بیان: [عملی ذمہ دارانہ انتظام کا بیان](#operative-steward-statement-cross-system-contribution)۔ معاون اشارے اسے تنگ نہیں کر سکتے۔
 
 </details>
@@ -901,17 +901,17 @@
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [انحصار](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [متناسب بین نظامی حصہ](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
-- [حقیقی انصاف](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [متناسب بین نظامی حصہ](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional-c)
+- [حقیقی انصاف](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
 - [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) · [O](core_05_band_oversight.md#مادیت-کا-تعین) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [ماحولیاتی نقش](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [ماحولیاتی نقش](../../core_05.040_band_continuity.md#ecological-footprint) · [O](../../core_05.040_band_continuity.md#ecological-footprint) · [M](../../core_05.040_band_continuity.md#ecological-footprint-a) · [A](../../core_05.040_band_continuity.md#ecological-footprint-a) · [C](../../core_05.040_band_continuity.md#ecological-footprint-c)
 
 </details>
 
 <br>
 
-*سادہ الفاظ میں: مشترکہ رقم اور صلاحیت اس توجہ سے بانٹو کہ کون سچ مچ منحصر ہے، کس کے پاس حقیقی متبادل ہیں، ماحولیاتی بوجھ، اور استعمال چل سکتا ہے یا نہیں — بنیادی طور پر جو مختصر دوڑ میں جیتے ان کی طرف نہیں۔ مشترکہ بنیادوں کے بھاری استعمال کرنے والے [متناسب بین نظامی حصہ](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) کے بغیر قدر کھینچتے نہیں رہ سکتے۔ جب انتظامات دولت، طاقت، قابو، یا موقع کو ایسے طریقوں سے مرتکز کریں جو پیش بینی طور پر دوسروں کی بہبود، فاعلیت، وقار یا ماحولیاتی دیانت کو نقصان دیں، باب یکم کے عدمِ ارتکاز قواعد اور اختیار کنندہ-قابلِ ایڈجسٹ حدیں مزید جانچ جوڑتی ہیں۔ وہ جانچ اضافی ہے؛ انحصار کے نقشے کی جگہ نہیں لیتی اور بین نظامی انصاف کی غفلت کا عذر نہیں۔*
+*سادہ الفاظ میں: مشترکہ رقم اور صلاحیت اس توجہ سے بانٹو کہ کون سچ مچ منحصر ہے، کس کے پاس حقیقی متبادل ہیں، ماحولیاتی بوجھ، اور استعمال چل سکتا ہے یا نہیں — بنیادی طور پر جو مختصر دوڑ میں جیتے ان کی طرف نہیں۔ مشترکہ بنیادوں کے بھاری استعمال کرنے والے [متناسب بین نظامی حصہ](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) کے بغیر قدر کھینچتے نہیں رہ سکتے۔ جب انتظامات دولت، طاقت، قابو، یا موقع کو ایسے طریقوں سے مرتکز کریں جو پیش بینی طور پر دوسروں کی بہبود، فاعلیت، وقار یا ماحولیاتی دیانت کو نقصان دیں، باب یکم کے عدمِ ارتکاز قواعد اور اختیار کنندہ-قابلِ ایڈجسٹ حدیں مزید جانچ جوڑتی ہیں۔ وہ جانچ اضافی ہے؛ انحصار کے نقشے کی جگہ نہیں لیتی اور بین نظامی انصاف کی غفلت کا عذر نہیں۔*
 
 <a id="operative-steward-statement-cross-system-contribution"></a>
 > **عملی ذمہ دارانہ انتظام کا بیان۔** **مالک:** دفعہ V-B۔ تعریف: متناسب بین نظامی حصہ۔ نقشے: CS-9۔ **ممنوع حرکت:** پریس ریلیز، ایک بار گرانٹ، یا بقا کی تہہ اطاعت کو مطابق معاونت نہ سمجھو۔ **گھڑی:** اب نقشہ شدہ آمد اور خرچ موازنہ کرو۔ بعد کے فارمولے کا انتظار نہ کرو۔
@@ -924,19 +924,19 @@
   - ماحولیاتی نقش، بشمول بالائی اور زیریں بوجھ؛
   - لمبے افق کی پائیداری۔
 
-  نظام [متناسب بین نظامی حصہ](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) کے بغیر مشترکہ بنیادی ڈھانچے یا بنیادی انحصار سے مستقل نکاسی نہیں کر سکتے۔
-- **مطابق معاونت:** **مطابق معاونت** وہ معاونت ہے جو [متناسب بین نظامی حصہ](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) کے تحت مضمونی کفایت تک پہنچے، [حقیقی انصاف](core_05_band_participation.md#substantive-fairness-constitutional) اور [تناسب](core_05_band_accountability.md#proportionality) کے تحت پرکھی، اور **بین نظامی انصاف** کے تحت فہرست عوامل پر پیمانہ۔ کم از کم، جانچیں کہ دستاویزی وسائل بہاؤ جہاں مادی ہو شامل کریں:
+  نظام [متناسب بین نظامی حصہ](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) کے بغیر مشترکہ بنیادی ڈھانچے یا بنیادی انحصار سے مستقل نکاسی نہیں کر سکتے۔
+- **مطابق معاونت:** **مطابق معاونت** وہ معاونت ہے جو [متناسب بین نظامی حصہ](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) کے تحت مضمونی کفایت تک پہنچے، [حقیقی انصاف](../../core_05.055_band_participation.md#substantive-fairness-constitutional) اور [تناسب](../../core_05.035_band_accountability.md#proportionality) کے تحت پرکھی، اور **بین نظامی انصاف** کے تحت فہرست عوامل پر پیمانہ۔ کم از کم، جانچیں کہ دستاویزی وسائل بہاؤ جہاں مادی ہو شامل کریں:
   - مشترکہ یا بنیادی انحصار کے لیے چلن کا استمرار؛
   - تدارک اور لچک صلاحیت جہاں نکاسی اجتماعی نقصان خطرہ مادی طور پر بڑھائے؛
   - مشترکہ بنیادی ڈھانچے اور باہم چلن کے لیے ماحولیاتی نظام دوبارہ سرمایہ جن پر نکالنے والا نظام منحصر ہو؛ اور
-  - ماحولیاتی بوجھ کی تلافی یا بحالی جہاں مادی [ماحولیاتی نقش](core_05_band_continuity.md#ecological-footprint) لگے اور کوئی اور آئینی حکم، نفاذ فائل، یا اختیار کی دستاویز کارروائی مانگے۔
+  - ماحولیاتی بوجھ کی تلافی یا بحالی جہاں مادی [ماحولیاتی نقش](../../core_05.040_band_continuity.md#ecological-footprint) لگے اور کوئی اور آئینی حکم، نفاذ فائل، یا اختیار کی دستاویز کارروائی مانگے۔
 
-  **دفعہ V-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) کے تحت منحصر-نظام نقشوں اور آڈٹ کے قابل وسائل-بہاؤ ریکارڈ پر آمد اور خرچ موازنہ کریں۔ جہاں مادی اثر والے نظام مشترکہ بنیادی ڈھانچے تقسیم، راہ بندی، فنڈ، یا نکاسی کریں، کفایت [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت سے جانچیں۔ عملی تقسیم میکانکس **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*) کے تحت راستہ پاتی ہیں؛ وہ تہیں اس تہہ نافذ کرتی ہیں اور اسے تنگ نہیں کرنا چاہیے۔
+  **دفعہ V-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) کے تحت منحصر-نظام نقشوں اور آڈٹ کے قابل وسائل-بہاؤ ریکارڈ پر آمد اور خرچ موازنہ کریں۔ جہاں مادی اثر والے نظام مشترکہ بنیادی ڈھانچے تقسیم، راہ بندی، فنڈ، یا نکاسی کریں، کفایت [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے تحت سے جانچیں۔ عملی تقسیم میکانکس **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*) کے تحت راستہ پاتی ہیں؛ وہ تہیں اس تہہ نافذ کرتی ہیں اور اسے تنگ نہیں کرنا چاہیے۔
 
   مستقل عدم توازن جو آئینی ہم آہنگی کو مادی طور پر خطرہ دیں **دفعات IX، XIII، XIV، اور XVII** کے تحت آڈٹ، چیلنج، اور اصلاحی جائزے کے تابع ہیں۔
 - **بازار-ارتکاز-حد تعامل:** وسیلہ-تقسیم انتظامات جو دولت، طاقت، قابو، یا موقع ارتکاز پیدا یا بچائیں ایسے طریقوں سے جو پیش بینی طور پر دیگر شعوری وجودوں کی بہبود، فاعلیت، وقار، یا ماحولیاتی دیانت گرا دیں، چلاتے ہیں:
   - **باب یکم §13 عدمِ ارتکاز تہہ**؛
-  - **[§11.1 بازار ارتکاز حد میکانزم](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)** ضبط۔
+  - **[§11.1 بازار ارتکاز حد میکانزم](core_01_c_stewardship_capacity_principles.md)** ضبط۔
 
   اختیار کنندہ-قابلِ ایڈجسٹ عملی حدیں تہہ کے اندر اجازت ہیں۔ تہہ کالعدم کرنے کے لیے سیٹ حد نظام عدمِ اطاعت ہیں۔ کالعدم کرنے والے نظاموں کی مثالیں:
   - حدیں جو پیش بینی طور پر کبھی نہ بندھیں؛

@@ -23,24 +23,24 @@
 
 - [จตุรภาพตามรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การมีส่วนร่วม**, **การกำกับดูแลตรวจสอบ**, **ความรับผิดรับชอบ** และ **ความทันเวลา** โดยปรับระดับตาม[เดิมพันที่มีนัยสำคัญ](core_00_preamble.md#material-stake)
 - [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) — [ความรุ่งเรือง](core_00_preamble.md#flourishing) และ[ความต่อเนื่อง](core_00_preamble.md#continuity) (เป้าหมายด้าน **ความต่อเนื่อง** ตามรัฐธรรมนูญ ซึ่งต่างจากความต่อเนื่องเชิงปฏิบัติการหรือเชิงโพรโทคอลในส่วนอื่นของคลังเอกสาร)
-- [เดิมพันที่มีนัยสำคัญ](core_00_preamble.md#material-stake) — การปรับระดับผลกระทบ การพึ่งพา และความเสี่ยงสำหรับหน้าที่ตามจตุรภาพ ให้อ่านร่วมกับสาระสำคัญเชิงบูรณาการ ([สาระสำคัญ](core_05_band_oversight.md#materiality)) และรายการในบทที่ห้าด้านล่าง
+- [เดิมพันที่มีนัยสำคัญ](core_00_preamble.md#material-stake) — การปรับระดับผลกระทบ การพึ่งพา และความเสี่ยงสำหรับหน้าที่ตามจตุรภาพ ให้อ่านร่วมกับสาระสำคัญเชิงบูรณาการ ([สาระสำคัญ](../../core_05.050_band_oversight.md#materiality)) และรายการในบทที่ห้าด้านล่าง
 
 **คำนิยามตัวแทนในบทที่ห้า** (การทำให้ O/M/A/C บรรลุผล — ตรวจสอบย้อนกลับในบทที่สองถึงสี่เมื่อเกี่ยวข้องอย่างมีนัยสำคัญ):
 
-- [ความเป็นอยู่ที่ดี](core_05_band_continuity.md#wellbeing) (เป้าหมายด้านความรุ่งเรือง)
-- [การกำกับดูแลตรวจสอบ](core_05_apex_oversight_leg.md#oversight), [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability), [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability), [ธรรมาภิบาล](core_05_band_accountability.md#governance), [ธรรมาภิบาลที่ปรับตามระดับการจัดประเภท](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก)
-- [สาระสำคัญ](core_05_band_oversight.md#ทเปนสาระ), [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#ผลกระทบทเปนสาระ), [ความเสี่ยงที่มีนัยสำคัญ](core_05_band_oversight.md#ความเสยงทเปนสาระ), [สาระสำคัญ](core_05_band_oversight.md#materiality) (วิดเจ็ตใช้ป้าย **สาระสำคัญ**), [สาระสำคัญเชิงระบบ](core_05_band_continuity.md#systemic-materiality) — กลุ่ม: [สาระสำคัญ ผลกระทบ ความเสี่ยง และความเที่ยงตรงของตัวแทน](core_05_band_oversight.md#ความเปนสาระ-ผลกระทบ-ความเสยง-และความครบถวนของตวแทนวด)
+- [ความเป็นอยู่ที่ดี](../../core_05.040_band_continuity.md#wellbeing) (เป้าหมายด้านความรุ่งเรือง)
+- [การกำกับดูแลตรวจสอบ](../../core_05.020_apex_oversight_leg.md#oversight), [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability), [ความสามารถในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability), [ธรรมาภิบาล](../../core_05.035_band_accountability.md#governance), [ธรรมาภิบาลที่ปรับตามระดับการจัดประเภท](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก)
+- [สาระสำคัญ](core_05_band_oversight.md#ทเปนสาระ), [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#ผลกระทบทเปนสาระ), [ความเสี่ยงที่มีนัยสำคัญ](core_05_band_oversight.md#ความเสยงทเปนสาระ), [สาระสำคัญ](../../core_05.050_band_oversight.md#materiality) (วิดเจ็ตใช้ป้าย **สาระสำคัญ**), [สาระสำคัญเชิงระบบ](../../core_05.040_band_continuity.md#systemic-materiality) — กลุ่ม: [สาระสำคัญ ผลกระทบ ความเสี่ยง และความเที่ยงตรงของตัวแทน](core_05_band_oversight.md#ความเปนสาระ-ผลกระทบ-ความเสยง-และความครบถวนของตวแทนวด)
 
 **กลุ่มหลักในบทที่ห้าที่ขึ้นต่อ §3** (กลุ่มที่ต้องเรียกใช้ร่วมกัน — อ่านกับบทที่สองถึงสี่เมื่อเกี่ยวข้องอย่างมีนัยสำคัญ):
 
-- [สถานะและน้ำหนักของผู้มีส่วนได้เสีย](core_05_band_participation.md#stakeholder-status-and-weight) (ชั้นการมีส่วนร่วมของระบบผู้มีส่วนได้เสีย)
-- [ชั้นสัญญาตามรัฐธรรมนูญ](core_05_band_integrative.md#ชนสญญาทางรฐธรรมนญ) และ [สถาปัตยกรรมธรรมาภิบาล การกำกับดูแลตรวจสอบ การพึ่งพา การกระจายอำนาจ การกระจุกตัว โครงสร้างตลาด และความเที่ยงตรงของเส้นทางออก](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- [สถานะและน้ำหนักของผู้มีส่วนได้เสีย](../../core_05.055_band_participation.md#stakeholder-status-and-weight) (ชั้นการมีส่วนร่วมของระบบผู้มีส่วนได้เสีย)
+- [ชั้นสัญญาตามรัฐธรรมนูญ](core_05_band_integrative.md#ชนสญญาทางรฐธรรมนญ) และ [สถาปัตยกรรมธรรมาภิบาล การกำกับดูแลตรวจสอบ การพึ่งพา การกระจายอำนาจ การกระจุกตัว โครงสร้างตลาด และความเที่ยงตรงของเส้นทางออก](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - [คลังเอกสารและลำดับชั้นอำนาจ](core_05_band_integrative.md#defi1-คลงขอความและกองอำนาจ)
 - [ความรับผิดรับชอบ ความสามารถในการโต้แย้ง และความล้มเหลวของความรับผิดรับชอบร่วมกัน](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3** (*คลังกลุ่มการปฏิบัติงาน (oDef)*) — เข็มทิศกลุ่มการปฏิบัติงานสำหรับคำศัพท์ปฏิบัติการร่วมข้ามการนำไปใช้ ให้อ่านร่วมกับจตุรภาพ เป้าหมาย และการปรับระดับตามเดิมพันที่มีนัยสำคัญของบทนี้:
 
-- [CJS-3.1 เข็มทิศตามรัฐธรรมนูญและแผนผังกลุ่ม](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — จุดเริ่มต้นหลักสำหรับกลุ่มตั้งแต่ **CJS-3.2** (*การกำกับดูแลตรวจสอบ: ความโปร่งใสแบบสะท้อนกลับและคำศัพท์ความรับผิดรับชอบ*) ถึง **CJS-3.23** (*เชิงบูรณาการ: คำศัพท์ความเที่ยงตรงของการแทรกแซงและการลบล้าง*) ซึ่งจัดตามองค์ประกอบจตุรภาพ เป้าหมายความต่อเนื่อง และแถบบูรณาการข้ามองค์ประกอบ
+- [CJS-3.1 เข็มทิศตามรัฐธรรมนูญและแผนผังกลุ่ม](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — จุดเริ่มต้นหลักสำหรับกลุ่มตั้งแต่ **CJS-3.2** (*การกำกับดูแลตรวจสอบ: ความโปร่งใสแบบสะท้อนกลับและคำศัพท์ความรับผิดรับชอบ*) ถึง **CJS-3.23** (*เชิงบูรณาการ: คำศัพท์ความเที่ยงตรงของการแทรกแซงและการลบล้าง*) ซึ่งจัดตามองค์ประกอบจตุรภาพ เป้าหมายความต่อเนื่อง และแถบบูรณาการข้ามองค์ประกอบ
 
 </details>
 
@@ -53,7 +53,7 @@
 
 - **เมื่อหลักการขัดแย้งกัน** ([§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ)): ความปลอดภัยและความจริงมาก่อน และการชั่งน้ำหนักอื่นทุกกรณีต้องรักษาจตุรภาพไว้ แทนที่จะทำให้อ่อนแอลงเพื่อให้ได้ข้อยุติที่ง่าย
 - **เมื่อผลักคุณค่าหนึ่งไปไกลเกินควร** ([§14 ข้อห้ามการลบล้างโดยเด็ดขาด](#14-prohibition-on-absolute-override)): ห้ามใช้คุณค่าใดหรือเป้าหมายใดในสองประการเพื่อทำให้องค์ประกอบหนึ่งว่างเปล่าต่ำกว่าระดับที่เดิมพันที่มีนัยสำคัญกำหนด
-- **เมื่ออ่านหรือนำรัฐธรรมนูญไปใช้** ([§15 การตีความรัฐธรรมนูญ](#15-constitutional-interpretation)): การเปลี่ยนชื่อ แบ่งแยก หรือเปลี่ยนเส้นทางการกระทำเดิมไม่อาจหลีกเลี่ยงข้อกำหนดได้ และให้ตีความความกำกวมไปในทาง[ผลในการคุ้มครองอย่างเต็มที่](core_05_band_integrative.md#fullest-protective-effect)
+- **เมื่ออ่านหรือนำรัฐธรรมนูญไปใช้** ([§15 การตีความรัฐธรรมนูญ](#15-constitutional-interpretation)): การเปลี่ยนชื่อ แบ่งแยก หรือเปลี่ยนเส้นทางการกระทำเดิมไม่อาจหลีกเลี่ยงข้อกำหนดได้ และให้ตีความความกำกวมไปในทาง[ผลในการคุ้มครองอย่างเต็มที่](../../core_05.045_band_integrative.md#fullest-protective-effect)
 
 **ส่วน B กำหนดองค์ประกอบแต่ละข้อไว้ที่ใด** ร่องรอยของแต่ละส่วนระบุองค์ประกอบทั้งหมดที่เกี่ยวข้อง ตารางนี้ระบุตำแหน่งหลัก
 
@@ -66,7 +66,7 @@
 
 **ส่วนที่ไม่เกี่ยวข้องโดยตรงกับองค์ประกอบใดเลย** [§15.1.1 หลักการต่อต้านการแบ่งส่วน](#1511-หลกการตอตานการแบงสวน) และ [§15.4.1](#1541-การอานแบบบรณาการ) ถึง [§15.4.3](#1543-ชนการผนวกเขา) กำกับวิธีอ่านข้อความและชั้นแหล่งข้อมูลที่มีอำนาจควบคุม ตามการออกแบบ ร่องรอยของส่วนเหล่านี้ไม่มีบรรทัดของจตุรภาพ
 
-**ความหมายของเวลาสองแบบ** ในส่วน B เวลาใช้ในสองความหมาย กรอบเวลาระยะยาว (ความเสียหายสะสมและล่าช้า และ[§3.2 ข้อจำกัดความสอดคล้องด้านเวลาของบทที่แปด](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) ที่นำมาใช้ใน [§13.1.2](#1312-การลดอนตรายใหเหลอนอยทสด)) อยู่ภายใต้เป้าหมายด้าน **ความต่อเนื่อง** ส่วนกรอบเวลา รอบการทบทวน และความล่าช้า (กรอบเวลาของข้อจำกัด การเปิดเผยในที่สุด และความล่าช้าที่หลีกเลี่ยงได้) อยู่ภายใต้องค์ประกอบ **ความทันเวลา**
+**ความหมายของเวลาสองแบบ** ในส่วน B เวลาใช้ในสองความหมาย กรอบเวลาระยะยาว (ความเสียหายสะสมและล่าช้า และ[§3.2 ข้อจำกัดความสอดคล้องด้านเวลาของบทที่แปด](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) ที่นำมาใช้ใน [§13.1.2](#1312-การลดอนตรายใหเหลอนอยทสด)) อยู่ภายใต้เป้าหมายด้าน **ความต่อเนื่อง** ส่วนกรอบเวลา รอบการทบทวน และความล่าช้า (กรอบเวลาของข้อจำกัด การเปิดเผยในที่สุด และความล่าช้าที่หลีกเลี่ยงได้) อยู่ภายใต้องค์ประกอบ **ความทันเวลา**
 
 **สองแกน ไม่ใช่ความขัดแย้ง** เป้าหมายของส่วน A ระบุว่าระบบร่วมมุ่งทำสิ่งใด ส่วน B ระบุว่าสิ่งใดไม่อาจถูกพรากไปด้วยการชั่งน้ำหนัก การลบล้าง หรือการตีความใด ๆ
 
@@ -81,7 +81,7 @@
 
 - อ่านร่วมกับ: [จตุรภาพตามรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — การมีส่วนร่วม การกำกับดูแลตรวจสอบ ความรับผิดรับชอบ และความทันเวลาในกระบวนการ การเปิดเผยข้อมูล การจัดการความขัดแย้งทางรัฐธรรมนูญ และการเยียวยา; ปรับระดับตาม[เดิมพันที่มีนัยสำคัญ](core_00_preamble.md#material-stake)
 - หลักการต้นทาง: [3. วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [7. เสรีภาพ (ความสามารถในการกระทำที่มีขอบเขต)](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§16 การดูแลรับผิดชอบอย่างลึกซึ้ง](core_01_c_stewardship_capacity_principles.md#16-การดแลรบผดชอบโดยละเอยด)
-- ผลต่อเนื่อง: [13.2.1 การคงไว้ซึ่งความซื่อตรงทางญาณวิทยา](#1321-การธำรงความซอตรงเชงญาณวทยา), [บันทึกความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record), [จุดยืนชั่วคราวโดยปริยาย](#default-interim-posture), และ [14. ข้อห้ามการลบล้างโดยเด็ดขาด](#14-prohibition-on-absolute-override)
+- ผลต่อเนื่อง: [13.2.1 การคงไว้ซึ่งความซื่อตรงทางญาณวิทยา](#1321-การธำรงความซอตรงเชงญาณวทยา), [บันทึกความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record), [จุดยืนชั่วคราวโดยปริยาย](#default-interim-posture), และ [14. ข้อห้ามการลบล้างโดยเด็ดขาด](#14-prohibition-on-absolute-override)
 - ผลต่อเนื่อง: ใช้กำกับความขัดแย้งข้ามบทความทั่วทั้ง[บทที่หก: สิทธิขั้นพื้นฐาน](core_06_rights_part_a.md#บททหก-สทธพนฐาน)
   - อ่านร่วมกับ[มาตรา XXIV: การตีความรัฐธรรมนูญ การทบทวน และมาตรการป้องกันการครอบงำ](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) และ[มาตรา XX: ความยุติธรรมหลังการละเมิดที่ได้รับการยืนยัน](core_06_rights_part_d.md#article-xx-justice-after-verified-violation)
   - ใช้เมื่อเกิดคำถามเกี่ยวกับการทบทวน ภาวะฉุกเฉิน หรือความขัดแย้งทางรัฐธรรมนูญ
@@ -91,7 +91,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision) · [O](core_05_band_integrative.md#constitutional-collision) · [M](core_05_band_integrative.md#constitutional-collision-a) · [A](core_05_band_integrative.md#constitutional-collision-a) · [C](core_05_band_integrative.md#constitutional-collision-c)
+- [ความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision) · [O](../../core_05.045_band_integrative.md#constitutional-collision) · [M](../../core_05.045_band_integrative.md#constitutional-collision-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-c)
 - [การมีส่วนร่วม](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [การกำกับดูแลตรวจสอบ](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
@@ -101,12 +101,12 @@
 
 <br>
 
-*กล่าวอย่างเข้าใจง่าย: ความขัดแย้งทางรัฐธรรมนูญย่อมเกิดขึ้นได้ — **ความปลอดภัย** และ **ความจริง** มาก่อน หลังจากนั้น ข้อจำกัดต้องได้สัดส่วน จำเป็น ลดความเสียหายให้เหลือน้อยที่สุด และจำกัดให้น้อยที่สุดเท่าที่ทำได้ ห้ามปกปิดความจริงเพื่อความสบายใจ; ห้ามลิดรอนความเป็นส่วนตัวเพื่อความสะดวก; ข้อจำกัดเสรีภาพอยู่ภายใต้[§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline); ความขัดแย้งทางรัฐธรรมนูญเกี่ยวกับสิทธิต้องมีแบบทดสอบการตัดสินใจที่บันทึกไว้; และไม่นับตัวชี้วัดที่บิดเบือนความจริงเรื่องการปฏิบัติตามข้อกำหนด การปรับให้เหมาะที่สุดในช่วงเวลาสั้น ๆ ไม่อาจผ่านการประเมินตาม[บทที่แปด §3.2 ข้อจำกัดความสอดคล้องด้านเวลา](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) **§13.1** (*หลักการชั่งน้ำหนักแกนหลัก*) ถึง **§13.3** (*การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด*) กำหนดกฎการชั่งน้ำหนัก ข้อจำกัดด้านการเปิดเผยข้อมูลและความเป็นส่วนตัว และกระบวนการจัดการความขัดแย้งทางรัฐธรรมนูญ*
+*กล่าวอย่างเข้าใจง่าย: ความขัดแย้งทางรัฐธรรมนูญย่อมเกิดขึ้นได้ — **ความปลอดภัย** และ **ความจริง** มาก่อน หลังจากนั้น ข้อจำกัดต้องได้สัดส่วน จำเป็น ลดความเสียหายให้เหลือน้อยที่สุด และจำกัดให้น้อยที่สุดเท่าที่ทำได้ ห้ามปกปิดความจริงเพื่อความสบายใจ; ห้ามลิดรอนความเป็นส่วนตัวเพื่อความสะดวก; ข้อจำกัดเสรีภาพอยู่ภายใต้[§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline); ความขัดแย้งทางรัฐธรรมนูญเกี่ยวกับสิทธิต้องมีแบบทดสอบการตัดสินใจที่บันทึกไว้; และไม่นับตัวชี้วัดที่บิดเบือนความจริงเรื่องการปฏิบัติตามข้อกำหนด การปรับให้เหมาะที่สุดในช่วงเวลาสั้น ๆ ไม่อาจผ่านการประเมินตาม[บทที่แปด §3.2 ข้อจำกัดความสอดคล้องด้านเวลา](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) **§13.1** (*หลักการชั่งน้ำหนักแกนหลัก*) ถึง **§13.3** (*การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด*) กำหนดกฎการชั่งน้ำหนัก ข้อจำกัดด้านการเปิดเผยข้อมูลและความเป็นส่วนตัว และกระบวนการจัดการความขัดแย้งทางรัฐธรรมนูญ*
 
 ส่วน B รักษาจตุรภาพให้ครบถ้วนในสามสถานการณ์:
-- **[ความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision) (ส่วนนี้):** แก้ไขความขัดแย้งโดยไม่ทำให้องค์ประกอบใดอ่อนแอลง
+- **[ความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision) (ส่วนนี้):** แก้ไขความขัดแย้งโดยไม่ทำให้องค์ประกอบใดอ่อนแอลง
 - **การใช้อำนาจเกินขอบเขต ([§14 ข้อห้ามการลบล้างโดยเด็ดขาด](#14-prohibition-on-absolute-override)):** ห้ามใช้คุณค่าใดคุณค่าหนึ่ง รวมถึงเป้าหมายใดเป้าหมายหนึ่ง เพื่อครอบงำคุณค่าอื่นหรือทำให้องค์ประกอบหนึ่งกลวงเปล่าต่ำกว่าที่เดิมพันที่มีนัยสำคัญกำหนด
-- **การอ่านและการใช้ ([§15 การตีความรัฐธรรมนูญ](#15-constitutional-interpretation)):** ห้ามเปลี่ยนชื่อ แบ่งแยก หรือเปลี่ยนเส้นทางการกระทำเดียวกันเพื่อหลีกเลี่ยงข้อกำหนด และให้ตีความความกำกวมไปในทาง[ผลในการคุ้มครองอย่างเต็มที่](core_05_band_integrative.md#fullest-protective-effect)
+- **การอ่านและการใช้ ([§15 การตีความรัฐธรรมนูญ](#15-constitutional-interpretation)):** ห้ามเปลี่ยนชื่อ แบ่งแยก หรือเปลี่ยนเส้นทางการกระทำเดียวกันเพื่อหลีกเลี่ยงข้อกำหนด และให้ตีความความกำกวมไปในทาง[ผลในการคุ้มครองอย่างเต็มที่](../../core_05.045_band_integrative.md#fullest-protective-effect)
 
 เมื่อคุณค่าหรือข้อจำกัดขัดแย้งกัน:
 - **ลำดับความสำคัญ:** **ความปลอดภัย** และ **ความจริง** มีลำดับเหนือกว่าเมื่อไม่อาจแก้ไขความขัดแย้งได้โดยไม่ละเมิดสองสิ่งนี้
@@ -167,9 +167,9 @@ flowchart TB
 
 *ขอบเขต.* [§13.1 หลักการหลักว่าด้วยการแลกเปลี่ยน](#131-หลกการหลกวาดวยการแลกเปลยน) — คำจำกัดความของความจำเป็น การลดความเสียหาย และความเสียหายในลำดับการแลกเปลี่ยน
 
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [การลดความเสียหาย (การเลือกสิ่งที่ต้องแลก)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [ความเสียหาย](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [การลดความเสียหาย (การเลือกสิ่งที่ต้องแลก)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [ความเสียหาย](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
 
 </details>
 
@@ -228,10 +228,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [ความเป็นไปได้](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
-- [เสรีภาพ (ความสามารถในการกำหนดตนเองภายใต้ขอบเขต)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [ความสามารถในการกำหนดตนเองอย่างมีความหมาย](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [ความเป็นไปได้](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
+- [เสรีภาพ (ความสามารถในการกำหนดตนเองภายใต้ขอบเขต)](../../core_05.055_band_participation.md#freedom-bounded-agency) · [O](../../core_05.055_band_participation.md#freedom-bounded-agency) · [M](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05.055_band_participation.md#freedom-bounded-agency-c)
+- [ความสามารถในการกำหนดตนเองอย่างมีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -254,7 +254,7 @@ flowchart TB
 - การประหยัดค่าใช้จ่ายเพียงอย่างเดียวในกรณีที่สิทธิได้รับผลกระทบอย่างเป็นสาระสำคัญ;
 - ข้อเท็จจริงที่ว่ามีข้อจำกัดนั้นอยู่แล้ว
 
-**ขอบเขต** อนุวรรคนี้ใช้กับข้อจำกัดตามรัฐธรรมนูญทุกกรณี ไม่ได้จำกัดเฉพาะบริบทการปะทะกันทางรัฐธรรมนูญตาม[§13.1.5 กระบวนการเมื่อสิทธิขัดแย้งกัน](#1315-rights-collision-decision-test) เมื่อข้อจำกัดส่งผลกระทบอย่างเป็นสาระสำคัญต่อ[เสรีภาพ (ความสามารถในการกำหนดตนเองภายใต้ขอบเขต)](core_05_band_participation.md#freedom-bounded-agency) [ความสามารถในการกำหนดตนเองอย่างมีความหมาย](core_05_band_participation.md#meaningful-agency) หรือ[ความยินยอม](core_05_band_participation.md#consent) การแสดงเหตุผลด้านความจำเป็นต้องเข้มงวดในระดับที่สอดคล้องกัน
+**ขอบเขต** อนุวรรคนี้ใช้กับข้อจำกัดตามรัฐธรรมนูญทุกกรณี ไม่ได้จำกัดเฉพาะบริบทการปะทะกันทางรัฐธรรมนูญตาม[§13.1.5 กระบวนการเมื่อสิทธิขัดแย้งกัน](#1315-rights-collision-decision-test) เมื่อข้อจำกัดส่งผลกระทบอย่างเป็นสาระสำคัญต่อ[เสรีภาพ (ความสามารถในการกำหนดตนเองภายใต้ขอบเขต)](../../core_05.055_band_participation.md#freedom-bounded-agency) [ความสามารถในการกำหนดตนเองอย่างมีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) หรือ[ความยินยอม](../../core_05.055_band_participation.md#consent) การแสดงเหตุผลด้านความจำเป็นต้องเข้มงวดในระดับที่สอดคล้องกัน
 <a id="1312-harm-minimization"></a>
 ##### 13.1.2 การลดอันตรายให้เหลือน้อยที่สุด
 <details>
@@ -267,12 +267,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การลดอันตรายให้เหลือน้อยที่สุด (การเลือกข้อแลกเปลี่ยน)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [อันตราย](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [ความสมบูรณ์ของระบบนิเวศ](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [ขีดความสามารถในการฟื้นฟูระบบนิเวศ](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [ความเสี่ยง](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [อันตรายที่ไม่อาจย้อนกลับได้](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [การลดอันตรายให้เหลือน้อยที่สุด (การเลือกข้อแลกเปลี่ยน)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [อันตราย](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [ความสมบูรณ์ของระบบนิเวศ](../../core_05.040_band_continuity.md#ecological-integrity) · [O](../../core_05.040_band_continuity.md#ecological-integrity) · [M](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
+- [ขีดความสามารถในการฟื้นฟูระบบนิเวศ](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [ความเสี่ยง](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [อันตรายที่ไม่อาจย้อนกลับได้](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 
 </details>
 
@@ -280,10 +280,10 @@ flowchart TB
 
 *กล่าวอย่างง่าย: เมื่อยังมีทางเลือกที่จำเป็นหลายทางหลังจากปฏิบัติตาม [§13.1.1 ความจำเป็น](#1311-ความจำเปน) แล้ว ให้เลือกทางที่ก่ออันตรายรวมต่ำที่สุด โดยนับทุกคนที่ได้รับผลกระทบ ระบบนิเวศและระบบสิ่งมีชีวิต ระบบทั้งหมดที่เกี่ยวข้อง และกรอบเวลาสำคัญทั้งหมด การปรับให้เหมาะสมเฉพาะจุดแต่ก่อความเสียหายเชิงระบบหรือเชิงนิเวศ หรือการปรับให้เหมาะสมระยะสั้นแต่ก่ออันตรายระยะยาว ไม่ผ่านการทดสอบนี้ การลดอันตรายให้เหลือน้อยที่สุดไม่อนุญาตให้ลดต่ำกว่าขั้นต่ำตามรัฐธรรมนูญใน [§13.1.4 ขั้นต่ำตามรัฐธรรมนูญ ความปลอดภัย และกระบวนการต่อต้านการลดทอนศักดิ์ศรี](#1314-หลกประกนขนตำตามรฐธรรมนญ-ความปลอดภย-และการหามกระบวนการทบนทอนศกดศร) ไม่ว่าในกรณีใด*
 
-**ขอบเขตการเปรียบเทียบ** เมื่อมีทางเลือกหลายทางที่เพียงพอตามรัฐธรรมนูญและเป็นไปตาม [ความปลอดภัย (§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [ความจริง (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) และ [§13.1.1 ความจำเป็น](#1311-ความจำเปน) การเลือกต้องให้ความสำคัญกับทางเลือกที่ลด [อันตราย](core_05_band_accountability.md#harm) รวมในด้านต่อไปนี้ให้เหลือน้อยที่สุด:
+**ขอบเขตการเปรียบเทียบ** เมื่อมีทางเลือกหลายทางที่เพียงพอตามรัฐธรรมนูญและเป็นไปตาม [ความปลอดภัย (§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [ความจริง (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) และ [§13.1.1 ความจำเป็น](#1311-ความจำเปน) การเลือกต้องให้ความสำคัญกับทางเลือกที่ลด [อันตราย](../../core_05.035_band_accountability.md#harm) รวมในด้านต่อไปนี้ให้เหลือน้อยที่สุด:
 - สรรพชีวิตที่ได้รับผลกระทบทั้งทางตรงและทางอ้อม;
 - ระบบที่รองรับ เป็นสื่อกลาง หรือพึ่งพาผลลัพธ์;
-- ระบบนิเวศและระบบสิ่งมีชีวิต รวมถึง [ความสมบูรณ์ของระบบนิเวศ](core_05_band_continuity.md#ecological-integrity) และ [ขีดความสามารถในการฟื้นฟูระบบนิเวศ](core_05_band_continuity.md#ecological-recovery-capacity) ในกรณีที่การฟื้นฟูหลังเกิดอันตรายมีนัยสำคัญ;
+- ระบบนิเวศและระบบสิ่งมีชีวิต รวมถึง [ความสมบูรณ์ของระบบนิเวศ](../../core_05.040_band_continuity.md#ecological-integrity) และ [ขีดความสามารถในการฟื้นฟูระบบนิเวศ](../../core_05.040_band_continuity.md#ecological-recovery-capacity) ในกรณีที่การฟื้นฟูหลังเกิดอันตรายมีนัยสำคัญ;
 - กรอบเวลาที่เกี่ยวข้อง รวมถึงผลกระทบที่ล่าช้าและสะสม
 
 **ข้อกำหนดในการรวบรวมผล** การประเมินอันตรายต้องรวบรวมสิ่งต่อไปนี้:
@@ -298,7 +298,7 @@ flowchart TB
 - มุ่งลดเฉพาะอันตรายในพื้นที่หรืออันตรายเฉพาะหน้า แต่ก่ออันตรายเชิงระบบ โดยรวม หรือเชิงนิเวศที่มากกว่า;
 - ผลักภาระอันตรายไปยังระบบนิเวศ สรรพชีวิตที่ไม่ได้ระบุ หรือฝ่ายอื่นที่ไม่ได้นับรวม เพื่อให้ดูเหมือนลดอันตรายแก่ฝ่ายที่ระบุได้
 
-**วินัยด้านกรอบเวลา** การปรับให้เหมาะสมระยะสั้นโดยแลกกับต้นทุนเชิงระบบระยะยาวไม่ผ่านการทดสอบนี้ การลดอันตรายให้เหลือน้อยที่สุดต้องคำนึงถึง [ข้อจำกัดด้านความสอดคล้องของเวลา บทที่แปด §3.2](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): การตัดสินใจที่ดูเหมือนลดอันตรายในช่วงเวลาปัจจุบัน แต่คาดการณ์ได้ว่าจะก่ออันตรายมากขึ้นตลอดกรอบเวลาตามรัฐธรรมนูญที่เกี่ยวข้อง ถือว่าไม่เป็นไปตามข้อกำหนด
+**วินัยด้านกรอบเวลา** การปรับให้เหมาะสมระยะสั้นโดยแลกกับต้นทุนเชิงระบบระยะยาวไม่ผ่านการทดสอบนี้ การลดอันตรายให้เหลือน้อยที่สุดต้องคำนึงถึง [ข้อจำกัดด้านความสอดคล้องของเวลา บทที่แปด §3.2](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): การตัดสินใจที่ดูเหมือนลดอันตรายในช่วงเวลาปัจจุบัน แต่คาดการณ์ได้ว่าจะก่ออันตรายมากขึ้นตลอดกรอบเวลาตามรัฐธรรมนูญที่เกี่ยวข้อง ถือว่าไม่เป็นไปตามข้อกำหนด
 
 **ความสัมพันธ์กับขั้นต่ำตามรัฐธรรมนูญ** การลดอันตรายให้เหลือน้อยที่สุดดำเนินการ *เหนือกว่า* ขั้นต่ำตามรัฐธรรมนูญที่ระบุไว้ใน [§13.1.4 ขั้นต่ำตามรัฐธรรมนูญ ความปลอดภัย และกระบวนการต่อต้านการลดทอนศักดิ์ศรี](#1314-หลกประกนขนตำตามรฐธรรมนญ-ความปลอดภย-และการหามกระบวนการทบนทอนศกดศร) และไม่อนุญาตให้:
 - ลบล้างขั้นต่ำของพื้นฐานสิทธิอย่างถาวร;
@@ -320,14 +320,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [ความเสี่ยง](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [อันตรายที่ไม่อาจย้อนคืน](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [ความเสี่ยงต่อการดำรงอยู่](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [ขีดความสามารถในการฟื้นฟูระบบนิเวศ](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [การติดตรึงเชิงระบบ](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [ความสามารถในการย้อนกลับ](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [การพึ่งพา](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [ความเสี่ยง](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [อันตรายที่ไม่อาจย้อนคืน](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [ความเสี่ยงต่อการดำรงอยู่](../../core_05.040_band_continuity.md#existential-risk) · [O](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [A](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [ขีดความสามารถในการฟื้นฟูระบบนิเวศ](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [การติดตรึงเชิงระบบ](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [ความสามารถในการย้อนกลับ](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [การพึ่งพา](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
@@ -337,13 +337,13 @@ flowchart TB
 
 *กล่าวอย่างเรียบง่าย ความได้สัดส่วนตรวจสอบว่าขนาดของข้อจำกัดเหมาะกับขนาดของอันตรายที่ข้อจำกัดนั้นมุ่งจัดการหรือไม่ ทางเลือกที่จำเป็นและลดอันตรายให้น้อยที่สุดก็ยังไม่ผ่าน หากขอบเขต ระยะเวลา หรือความเข้มข้นไม่สอดคล้องกับสิ่งที่มีเดิมพันอยู่จริง ยิ่งความเสี่ยงย้อนคืนไม่ได้ เป็นเชิงระบบ หรือก่อให้เกิดการพึ่งพามากเท่าใด เหตุผลรองรับและการตรวจสอบก็ต้องเข้มข้นมากขึ้นเท่านั้น หลักเดียวกันที่ห้ามการกำกับดูแลอำนาจอย่างไม่เพียงพอก็ใช้กับอำนาจด้วย กล่าวคือ อำนาจที่ได้รับอนุญาตมากขึ้นหรือบทบาทที่มีผลสำคัญมากขึ้นต้องเพิ่มความรับผิดรับชอบและการกำกับดูแล ไม่ใช่ลดลง*
 
-ข้อจำกัดต่อ**คุณค่า**ตามรัฐธรรมนูญ — รวมถึงการคุ้มครอง**พื้นสิทธิ**ใน**บทที่หก** และหลักการกับการคุ้มครองอื่นที่อยู่ภายใต้การชั่งดุลตาม[§13 กระบวนการแก้ไขความขัดแย้งตามรัฐธรรมนูญ](#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ) — ต้องได้สัดส่วนกับขนาดและความเป็นไปได้ของ**อันตราย**หรือ**ผลกระทบเชิงระบบ**ที่มุ่งจัดการโดยชอบด้วยเหตุผล และต้องสอดคล้องกับ[ความได้สัดส่วน](core_05_band_accountability.md#proportionality)ใน**บทที่ห้า**
+ข้อจำกัดต่อ**คุณค่า**ตามรัฐธรรมนูญ — รวมถึงการคุ้มครอง**พื้นสิทธิ**ใน**บทที่หก** และหลักการกับการคุ้มครองอื่นที่อยู่ภายใต้การชั่งดุลตาม[§13 กระบวนการแก้ไขความขัดแย้งตามรัฐธรรมนูญ](#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ) — ต้องได้สัดส่วนกับขนาดและความเป็นไปได้ของ**อันตราย**หรือ**ผลกระทบเชิงระบบ**ที่มุ่งจัดการโดยชอบด้วยเหตุผล และต้องสอดคล้องกับ[ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality)ใน**บทที่ห้า**
 
 **เกณฑ์ขั้นต่ำของการจัดประเภท.** ห้ามกำกับดูแลระบบใดในระดับต่ำกว่าที่การจัดประเภทสูงสุดซึ่งใช้บังคับกำหนด ป้ายกำกับทางปกครองที่ต่ำกว่าไม่อาจลดระดับการตรวจสอบที่การจัดประเภทสูงสุดซึ่งใช้บังคับด้านความเสี่ยง การพึ่งพา สิทธิ หรือผลกระทบเชิงระบบกำหนดได้
 
 **ความรับผิดรับชอบที่ปรับตามอำนาจ.** ความได้สัดส่วนยังห้ามการกำกับดูแลอย่างไม่เพียงพอต่อผู้ที่มีอำนาจที่ได้รับอนุญาตมากกว่า บทบาทที่มีผลสำคัญ หรืออิทธิพลเชิงสถาบันด้วย ความเข้มข้นของ[ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability)และ[การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional)ต้องเพิ่มขึ้นตามอำนาจนั้น ไม่ใช่ลดลง
 
-**เกณฑ์ที่ยกระดับ.** เมื่อการกระทำก่อให้เกิดความเสี่ยงต่ออันตรายที่ไม่อาจย้อนคืน การติดตรึงเชิงระบบ ความเสี่ยงต่อการดำรงอยู่ หรือการสูญเสียขีดความสามารถในการฟื้นฟูระบบนิเวศอย่างไม่อาจย้อนคืน ระบบต้องใช้[การตรวจสอบอย่างเข้มข้น](core_05_band_oversight.md#heightened-scrutiny)และเกณฑ์ที่ยกระดับสำหรับการให้เหตุผลรองรับและความสามารถในการย้อนกลับ เมื่อทำได้
+**เกณฑ์ที่ยกระดับ.** เมื่อการกระทำก่อให้เกิดความเสี่ยงต่ออันตรายที่ไม่อาจย้อนคืน การติดตรึงเชิงระบบ ความเสี่ยงต่อการดำรงอยู่ หรือการสูญเสียขีดความสามารถในการฟื้นฟูระบบนิเวศอย่างไม่อาจย้อนคืน ระบบต้องใช้[การตรวจสอบอย่างเข้มข้น](../../core_05.050_band_oversight.md#heightened-scrutiny)และเกณฑ์ที่ยกระดับสำหรับการให้เหตุผลรองรับและความสามารถในการย้อนกลับ เมื่อทำได้
 
 **การยกระดับเพิ่มเติม.** ต้องยกระดับเกณฑ์เหล่านั้นอีกเมื่อมีตัวบ่งชี้ที่เกี่ยวข้องอย่างมีนัยสำคัญ ได้แก่:
 - การเผชิญความเสี่ยงต่อการย้อนคืนไม่ได้
@@ -364,13 +364,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [ศักดิ์ศรีและสถานะทางศีลธรรมที่เสมอภาค](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [ความโหดร้าย](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [อันตราย](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [อันตรายที่ไม่อาจย้อนคืนได้](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [ศักดิ์ศรีและสถานะทางศีลธรรมที่เสมอภาค](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [ความโหดร้าย](../../core_05.035_band_accountability.md#cruelty) · [O](../../core_05.035_band_accountability.md#cruelty) · [M](../../core_05.035_band_accountability.md#cruelty-a) · [A](../../core_05.035_band_accountability.md#cruelty-a) · [C](../../core_05.035_band_accountability.md#cruelty-c)
+- [อันตราย](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [อันตรายที่ไม่อาจย้อนคืนได้](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -386,7 +386,7 @@ flowchart TB
 
 ###### หลักการว่าด้วยศักดิ์ศรี
 
-**หลักการว่าด้วยศักดิ์ศรี** คือหลักการสองข้อต่อไปนี้: [หลักการหลักประกันขั้นต่ำของพื้นสิทธิ](#หลกการหลกประกนขนตำของพนสทธ) และ[หลักการห้ามกระบวนการที่บั่นทอนศักดิ์ศรี](#หลกการหามกระบวนการทบนทอนศกดศร) เมื่อพิจารณาร่วมกัน หลักการเหล่านี้ทำให้[ศักดิ์ศรีและสถานะทางศีลธรรมที่เสมอภาค](core_05_band_participation.md#dignity-and-equal-moral-standing) เป็นหลักประกันขั้นต่ำเด็ดขาด กล่าวคือ สิ่งที่ห้ามพรากไปจากสิ่งมีชีวิตที่มีความรู้สึกใด ๆ อย่างถาวร และวิธีปฏิบัติต่อสิ่งมีชีวิตที่มีความรู้สึกในกระบวนการใด ๆ ที่ห้ามกระทำ การเข้าถึงปัจจัยยังชีพขั้นต่ำและสิทธิหลักในการโต้แย้ง การทบทวน และการอุทธรณ์เป็นส่วนหนึ่งของหลักการว่าด้วยศักดิ์ศรี เพราะเป็นเงื่อนไขขั้นต่ำในการได้รับการปฏิบัติในฐานะผู้ที่สถานะมีความสำคัญ สถานะที่เสมอภาคในตัวเองและเหตุที่ห้ามปฏิเสธสถานะดังกล่าวระบุไว้ใน[มาตรา VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เสมอภาค*)
+**หลักการว่าด้วยศักดิ์ศรี** คือหลักการสองข้อต่อไปนี้: [หลักการหลักประกันขั้นต่ำของพื้นสิทธิ](#หลกการหลกประกนขนตำของพนสทธ) และ[หลักการห้ามกระบวนการที่บั่นทอนศักดิ์ศรี](#หลกการหามกระบวนการทบนทอนศกดศร) เมื่อพิจารณาร่วมกัน หลักการเหล่านี้ทำให้[ศักดิ์ศรีและสถานะทางศีลธรรมที่เสมอภาค](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) เป็นหลักประกันขั้นต่ำเด็ดขาด กล่าวคือ สิ่งที่ห้ามพรากไปจากสิ่งมีชีวิตที่มีความรู้สึกใด ๆ อย่างถาวร และวิธีปฏิบัติต่อสิ่งมีชีวิตที่มีความรู้สึกในกระบวนการใด ๆ ที่ห้ามกระทำ การเข้าถึงปัจจัยยังชีพขั้นต่ำและสิทธิหลักในการโต้แย้ง การทบทวน และการอุทธรณ์เป็นส่วนหนึ่งของหลักการว่าด้วยศักดิ์ศรี เพราะเป็นเงื่อนไขขั้นต่ำในการได้รับการปฏิบัติในฐานะผู้ที่สถานะมีความสำคัญ สถานะที่เสมอภาคในตัวเองและเหตุที่ห้ามปฏิเสธสถานะดังกล่าวระบุไว้ใน[มาตรา VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เสมอภาค*)
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -395,7 +395,7 @@ flowchart TB
 หลักการนี้คุ้มครองพื้นสิทธิดังต่อไปนี้:
 
 - กระบวนการตามรัฐธรรมนูญ มาตรการ การเปลี่ยนผ่าน การแก้ไข ผลที่เกี่ยวกับสถานะ การดำเนินการฉุกเฉิน หรือผลลัพธ์ที่เกี่ยวกับกระบวนการยุติธรรมใด ๆ จะลบล้างหรือสละ **หลักประกันขั้นต่ำของพื้นสิทธิ** อย่างถาวรไม่ได้ ซึ่งได้แก่การคุ้มครองศักดิ์ศรีขั้นพื้นฐานตาม[มาตรา VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เสมอภาค*) และ[หลักการห้ามกระบวนการที่บั่นทอนศักดิ์ศรี](#หลกการหามกระบวนการทบนทอนศกดศร) การเข้าถึงปัจจัยยังชีพขั้นต่ำ หรือสิทธิหลักในการโต้แย้ง การทบทวน และการอุทธรณ์
-- การจำกัดสิทธิเฉพาะเป็นการชั่วคราวทำได้ต่อเมื่อเป็นไปตาม[หลักการจำกัดที่เบาที่สุด มีกรอบเวลา และตรวจทบทวนได้](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) และกฎภาวะฉุกเฉินใน[บทที่สิบสอง §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*) กล่าวคือ ข้อจำกัดใด ๆ ต้องมีเหตุผลรองรับ จำกัดเท่าที่จำเป็น มีการบันทึก กำหนดเวลา และผ่านการตรวจทบทวนอย่างเป็นอิสระ บทบัญญัติเฉพาะอาจเพิ่มหลักประกันที่เข้มงวดยิ่งขึ้นได้ แต่ห้ามลดทอนหลักการนี้หรือใช้ป้ายกำกับเรื่องความสะดวก ประสิทธิภาพ การจัดประเภท ภาวะฉุกเฉิน การเปลี่ยนผ่าน สถานะ การแก้ไข สัญญา หรือการดำเนินการเพื่อหลีกเลี่ยงหลักการนี้
+- การจำกัดสิทธิเฉพาะเป็นการชั่วคราวทำได้ต่อเมื่อเป็นไปตาม[หลักการจำกัดที่เบาที่สุด มีกรอบเวลา และตรวจทบทวนได้](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) และกฎภาวะฉุกเฉินใน[บทที่สิบสอง §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*) กล่าวคือ ข้อจำกัดใด ๆ ต้องมีเหตุผลรองรับ จำกัดเท่าที่จำเป็น มีการบันทึก กำหนดเวลา และผ่านการตรวจทบทวนอย่างเป็นอิสระ บทบัญญัติเฉพาะอาจเพิ่มหลักประกันที่เข้มงวดยิ่งขึ้นได้ แต่ห้ามลดทอนหลักการนี้หรือใช้ป้ายกำกับเรื่องความสะดวก ประสิทธิภาพ การจัดประเภท ภาวะฉุกเฉิน การเปลี่ยนผ่าน สถานะ การแก้ไข สัญญา หรือการดำเนินการเพื่อหลีกเลี่ยงหลักการนี้
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -404,7 +404,9 @@ flowchart TB
 [หลักการห้ามกระบวนการที่บั่นทอนศักดิ์ศรี (§3.3)](core_01_a_values_principles.md#33-กระบวนการตอตานการลดทอนศกดศร) ที่ระบุไว้ในส่วน A เป็นหลักประกันขั้นต่ำเด็ดขาดในลำดับการชั่งน้ำหนักนี้
 - ข้อจำกัด การเยียวยา หรือกระบวนการใดที่ผ่านเกณฑ์ความจำเป็น การลดอันตรายให้เหลือน้อยที่สุด และความได้สัดส่วน ห้ามออกแบบ นำเสนอ ดำเนินการ หรือปล่อยให้ดำเนินไปในลักษณะลดทอนศักดิ์ศรี ทำให้อับอาย ทำให้เป็นการแสดง ตอบโต้ สร้างภาระอย่างเลือกปฏิบัติ หรือบั่นทอนสิทธิเพื่อความสะดวก
 - ผลลัพธ์ในสาระที่ถูกต้องซึ่งได้มาผ่านกระบวนการที่บั่นทอนศักดิ์ศรียังคงไม่เป็นไปตามข้อกำหนด
-- หากลักษณะที่ต้องห้ามคือการก่อความทุกข์เป็นจุดหมายในตัวเอง หรือการก่อความทุกข์โดยไม่จำเป็น / ในลักษณะที่บั่นทอนศักดิ์ศรี — รวมถึงการทำให้อับอายเพื่อความอับอายเอง — ให้อ่านร่วมกับ[ความโหดร้าย](core_05_band_accountability.md#cruelty)
+- หากลักษณะที่ต้องห้ามคือการก่อความทุกข์เป็นจุดหมายในตัวเอง หรือการก่อความทุกข์โดยไม่จำเป็น / ในลักษณะที่บั่นทอนศักดิ์ศรี — รวมถึงการทำให้อับอายเพื่อความอับอายเอง — ให้อ่านร่วมกับ[ความโหดร้าย](../../core_05.035_band_accountability.md#cruelty)
+
+<a id="1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
 
 ##### 13.1.5 หลักการจำกัดที่เบาที่สุด มีกรอบเวลา และตรวจทบทวนได้
 
@@ -412,14 +414,14 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ความเชื่อมโยง</span></strong></summary>
 
 - อ่านร่วมกับ[หลักสี่ประการตามรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad)ทั้งสี่ด้าน: ด้าน**การกำกับดูแล** (ข้อจำกัดยังตรวจทบทวนได้อย่างเป็นอิสระ เก็บรักษาหลักฐาน และผู้ตรวจทบทวนอิสระยังเข้าถึงหลักฐานได้ระหว่างที่ความขัดแย้งทางรัฐธรรมนูญอยู่ระหว่างพิจารณา); ด้าน**ความรับผิดรับชอบ** (บันทึกความขัดแย้งทางรัฐธรรมนูญที่จัดทำเป็นเอกสารและตรวจสอบได้ต้องระบุกฎ ทางเลือก หลักฐาน และเหตุผลในการเลือก); ด้าน**การมีส่วนร่วม** (ฝ่ายที่ได้รับผลกระทบเข้าใจ โต้แย้ง และสร้างเหตุผลของการตัดสินใจขึ้นใหม่ได้ พร้อมได้รับแจ้งว่าสิ่งใดถูกตรึงไว้); ด้าน**ความทันเวลา** (ข้อจำกัดเป็นการชั่วคราว เว้นแต่กฎพื้นสิทธิที่เข้มงวดยิ่งกว่าจะกำหนดไว้เป็นอย่างอื่น ต้องกำหนดระยะเวลาหรือรอบการทบทวนและแนวทางฟื้นคืน และความขัดแย้งทางรัฐธรรมนูญที่อยู่ระหว่างพิจารณาต้องดำเนินตามกรอบเวลาที่ใช้บังคับ); การปรับตาม[ส่วนได้เสียที่มีนัยสำคัญ](core_00_preamble.md#material-stake) (ภาระการพิสูจน์เพิ่มขึ้นตามความรุนแรง การย้อนคืนไม่ได้ การกระจุกตัวของการพึ่งพา และความไม่แน่นอน)
-- บทบัญญัติปลายทางที่เกี่ยวข้อง: [มาตรา XXV-B: กระบวนการจัดการความขัดแย้งด้านสิทธิและการปรับให้สอดคล้องเชิงฟื้นฟู](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (องค์กรพิจารณาใช้เกณฑ์ตัดสินนี้); [มาตรา XXV-C: การแก้ไขโดยทันเวลาและหลักประกันขั้นต่ำเพื่อต่อต้านความล่าช้า](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [บทที่สิบสอง §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*การแก้ไขโดยทันเวลา ระดับความมีนัยสำคัญ และวินัยต่อต้านความล่าช้า*)
+- บทบัญญัติปลายทางที่เกี่ยวข้อง: [มาตรา XXV-B: กระบวนการจัดการความขัดแย้งด้านสิทธิและการปรับให้สอดคล้องเชิงฟื้นฟู](core_06_rights_part_e.md) (องค์กรพิจารณาใช้เกณฑ์ตัดสินนี้); [มาตรา XXV-C: การแก้ไขโดยทันเวลาและหลักประกันขั้นต่ำเพื่อต่อต้านความล่าช้า](core_06_rights_part_e.md); [บทที่สิบสอง §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*การแก้ไขโดยทันเวลา ระดับความมีนัยสำคัญ และวินัยต่อต้านความล่าช้า*)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [บันทึกความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record) · [O](core_05_band_integrative.md#constitutional-collision-record) · [M](core_05_band_integrative.md#constitutional-collision-record-a) · [A](core_05_band_integrative.md#constitutional-collision-record-a) · [C](core_05_band_integrative.md#constitutional-collision-record-c)
+- [บันทึกความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record) · [O](../../core_05.045_band_integrative.md#constitutional-collision-record) · [M](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-record-c)
 
 </details>
 
@@ -436,26 +438,26 @@ flowchart TB
 - **เป็นการชั่วคราว เว้นแต่ได้รับอนุญาตไว้อย่างชัดแจ้ง:** ข้อจำกัดต้องเป็นการชั่วคราว เว้นแต่กฎพื้นสิทธิที่เข้มงวดยิ่งกว่าจะอนุญาตให้จำกัดระยะยาวไว้อย่างชัดแจ้ง
 - **มีแนวทางฟื้นคืน:** เมื่อทำได้ ข้อจำกัดต้องระบุระยะเวลาหรือรอบการทบทวน พร้อมเงื่อนไขการฟื้นคืน การยกเลิก หรือการประเมินใหม่ที่เชื่อมโยงกับหลักฐาน สถานการณ์ที่เปลี่ยนไป หรือความคลาดเคลื่อนจากผลลัพธ์ที่คาดหมายซึ่งสังเกตพบ
 <a id="1315-rights-collision-decision-test"></a>
-**บันทึกความขัดแย้งทางรัฐธรรมนูญและความสามารถในการสร้างการตัดสินใจขึ้นใหม่** เมื่อใช้กรอบการชั่งดุล (§13.1.1 (*ความจำเป็น*) ถึง §13.1.5 (*หลักการจำกัดสิทธิโดยจำกัดน้อยที่สุด มีกรอบเวลา และตรวจสอบได้*)) กับข้อจำกัดที่มีนัยสำคัญหรือความขัดแย้งทางรัฐธรรมนูญ การแก้ไขต้องจัดทำ[บันทึกความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record)ที่จัดทำเป็นเอกสารและตรวจสอบได้ (เรียกย่อว่า **บันทึกความขัดแย้ง**) โดยมีความชัดเจนเพียงพอให้คู่กรณีที่ได้รับผลกระทบและผู้ตรวจสอบเข้าใจ โต้แย้ง และสร้างการตัดสินใจขึ้นใหม่ได้อย่างเป็นอิสระ อย่างน้อย บันทึกต้องมีรายการต่อไปนี้:
+**บันทึกความขัดแย้งทางรัฐธรรมนูญและความสามารถในการสร้างการตัดสินใจขึ้นใหม่** เมื่อใช้กรอบการชั่งดุล (§13.1.1 (*ความจำเป็น*) ถึง §13.1.5 (*หลักการจำกัดสิทธิโดยจำกัดน้อยที่สุด มีกรอบเวลา และตรวจสอบได้*)) กับข้อจำกัดที่มีนัยสำคัญหรือความขัดแย้งทางรัฐธรรมนูญ การแก้ไขต้องจัดทำ[บันทึกความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record)ที่จัดทำเป็นเอกสารและตรวจสอบได้ (เรียกย่อว่า **บันทึกความขัดแย้ง**) โดยมีความชัดเจนเพียงพอให้คู่กรณีที่ได้รับผลกระทบและผู้ตรวจสอบเข้าใจ โต้แย้ง และสร้างการตัดสินใจขึ้นใหม่ได้อย่างเป็นอิสระ อย่างน้อย บันทึกต้องมีรายการต่อไปนี้:
 - **กฎที่ใช้บังคับและข้อเท็จจริงที่เป็นเหตุ:** บทบัญญัติรัฐธรรมนูญที่ใช้อ้างอิงและข้อเท็จจริงสำคัญที่ทำให้บทบัญญัตินั้นมีผลใช้บังคับ
 - **ทางเลือกที่พิจารณา:** ทางเลือกที่เป็นไปได้จริงในสาระสำคัญ รวมถึงการไม่ดำเนินการ พร้อมเหตุผลที่ปฏิเสธแต่ละทางเลือกอย่างชัดแจ้ง — เพื่อให้เป็นไปตามข้อกำหนดการวิเคราะห์ทางเลือกใน [§13.1.1 ความจำเป็น](#1311-ความจำเปน)
 - **หลักฐานและการจัดการความไม่แน่นอน:** หลักฐานที่สนับสนุนความจำเป็น ลักษณะของอันตราย และความได้สัดส่วนของทางเลือกที่เลือก รวมถึงวิธีจัดการกับความไม่แน่นอน
 - **เหตุผลรองรับการเลือก:** เหตุใดทางเลือกที่เลือกจึงเป็นไปตามหลักความจำเป็น การลดอันตรายให้เหลือน้อยที่สุด ความได้สัดส่วน ขอบเขตขั้นต่ำตามรัฐธรรมนูญ และรูปแบบที่จำกัดน้อยที่สุด — ไม่ใช่เพียงระบุว่าทางเลือกนั้นเป็นไปตามหลักเหล่านั้น
 - **เงื่อนไขที่ทำให้ต้องทบทวน:** วันสิ้นสุด ความถี่ในการประเมินใหม่ หรือเงื่อนไขการเพิกถอนตาม [§13.1.5 หลักการจำกัดสิทธิโดยจำกัดน้อยที่สุด มีกรอบเวลา และตรวจสอบได้](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)
 
-บันทึกความขัดแย้งให้รวมอยู่ใน[บันทึกการกระทำ](core_05_band_accountability.md#materially-binding-act-record)ของการกระทำที่แก้ไขความขัดแย้งทางรัฐธรรมนูญ ไม่จำเป็นต้องจัดทำบันทึกแยกซ้ำซ้อน ตราบใดที่ยังระบุ เชื่อมโยง กำหนดรุ่น เก็บรักษา และเข้าถึงองค์ประกอบเหล่านี้ได้
+บันทึกความขัดแย้งให้รวมอยู่ใน[บันทึกการกระทำ](../../core_05.035_band_accountability.md#materially-binding-act-record)ของการกระทำที่แก้ไขความขัดแย้งทางรัฐธรรมนูญ ไม่จำเป็นต้องจัดทำบันทึกแยกซ้ำซ้อน ตราบใดที่ยังระบุ เชื่อมโยง กำหนดรุ่น เก็บรักษา และเข้าถึงองค์ประกอบเหล่านี้ได้
 
 ภาระการพิสูจน์เพิ่มขึ้นตามความรุนแรงของอันตรายที่คาดหมาย ความไม่อาจย้อนคืนได้ การกระจุกตัวของการพึ่งพา และความไม่แน่นอน ข้อจำกัดที่มีความเสี่ยงสูงกว่าต้องใช้หลักฐานที่หนักแน่นกว่าและการตรวจสอบโดยอิสระ ความสะดวก ความเฉื่อยของสถาบัน หรือความพึงพอใจต่อการปรับให้เหมาะสมเพียงอย่างเดียวไม่เพียงพอที่จะใช้เป็นเหตุผลจำกัดสิทธิในกรณีที่ต้องปฏิบัติตามระเบียบวินัยนี้
 
 ข้อจำกัดด้านการรักษาความลับของบันทึกความขัดแย้งต้องเป็นไปตาม [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา) ในกรณีที่ไม่สามารถเปิดเผยต่อสาธารณะได้อย่างครบถ้วน ต้องคงการเปิดเผยบางส่วนให้มากที่สุดเท่าที่ทำได้ พร้อมทั้งให้ผู้ตรวจสอบอิสระเข้าถึงข้อมูลได้
 
 <a id="default-interim-posture"></a>
-**แนวทางชั่วคราวโดยปริยายระหว่างรอการวินิจฉัยความขัดแย้งทางรัฐธรรมนูญ** จนกว่ากระบวนการ[บันทึกความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record)และ[มาตรา XXIV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*การตีความรัฐธรรมนูญ การทบทวน และมาตรการป้องกันการครอบงำ*) จะวินิจฉัยความขัดแย้งทางรัฐธรรมนูญ รูปแบบการพักเรื่องจะถูกกำหนดไว้ตายตัว เพื่อไม่ให้ผู้ดูแลสร้างผู้ชนะขึ้นมาเองด้วยการด้นสด:
+**แนวทางชั่วคราวโดยปริยายระหว่างรอการวินิจฉัยความขัดแย้งทางรัฐธรรมนูญ** จนกว่ากระบวนการ[บันทึกความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record)และ[มาตรา XXIV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*การตีความรัฐธรรมนูญ การทบทวน และมาตรการป้องกันการครอบงำ*) จะวินิจฉัยความขัดแย้งทางรัฐธรรมนูญ รูปแบบการพักเรื่องจะถูกกำหนดไว้ตายตัว เพื่อไม่ให้ผู้ดูแลสร้างผู้ชนะขึ้นมาเองด้วยการด้นสด:
 
 - **เก็บรักษาหลักฐาน:** อย่าทำให้ความขัดแย้งทางรัฐธรรมนูญหมดประเด็นด้วยการลบ การรั่วไหล หรือการเผยแพร่ที่ย้อนคืนไม่ได้
 - **ระงับขั้นตอนที่ย้อนคืนไม่ได้** ซึ่งจะทำให้การตีความที่ขัดกันฝ่ายหนึ่งไม่สามารถใช้ได้ — อย่าดำเนินขั้นตอนที่ย้อนคืนไม่ได้ หากการดำเนินการนั้นจะปิดความขัดแย้งทางรัฐธรรมนูญ ทำให้ฝ่ายหนึ่งหมดความหมาย หรือสร้างผู้ชนะก่อนที่การตีความจะได้รับการวินิจฉัย
 - **ดำเนินขั้นตอนที่ย้อนกลับได้และได้รับความยินยอม** ซึ่งทำให้การตีความทั้งสองฝ่ายยังคงใช้ได้ — รวมถึงการให้ผู้ตรวจสอบอิสระเข้าถึงข้อมูลภายใต้[การสังเกตการณ์ที่มีข้อจำกัดด้านความมั่นคง](core_04_burden_traceability_verification.md#4-กฎความสงเกตไดและการตรวจสอบทถกจำกดดวยความมนคง) ในกรณีที่ได้รับความยินยอม
-- **แจ้งให้ทราบ:** แจ้งคู่กรณีที่ได้รับผลกระทบและช่องทางการตีความว่าเรื่องใดถูกระงับ เรื่องใดดำเนินต่อ และกำหนดเวลาที่ใช้บังคับคืออะไร (สำหรับข้อพิพาทที่ส่งต่อไปยังเวทีพิจารณา ให้ใช้กรอบเวลาของแต่ละระดับและขอบเขตเวลาสูงสุดใน [บทที่สิบสอง §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*การวินิจฉัยโดยทันท่วงที ระดับความสำคัญ และระเบียบวินัยต่อต้านความล่าช้า*))
+- **แจ้งให้ทราบ:** แจ้งคู่กรณีที่ได้รับผลกระทบและช่องทางการตีความว่าเรื่องใดถูกระงับ เรื่องใดดำเนินต่อ และกำหนดเวลาที่ใช้บังคับคืออะไร (สำหรับข้อพิพาทที่ส่งต่อไปยังเวทีพิจารณา ให้ใช้กรอบเวลาของแต่ละระดับและขอบเขตเวลาสูงสุดใน [บทที่สิบสอง §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*การวินิจฉัยโดยทันท่วงที ระดับความสำคัญ และระเบียบวินัยต่อต้านความล่าช้า*))
 
 รูปแบบการพักเรื่องนี้ไม่ได้ตัดสินว่าฝ่ายใดถูกต้อง ให้ระงับสิ่งที่ย้อนคืนไม่ได้เพื่อไม่ให้การตีความฝ่ายใดถูกปิดกั้น; [§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ) ยังคงต้องตอบข้อขัดแย้งทางรัฐธรรมนูญ หลักการใน [§13.1.5 หลักการจำกัดสิทธิโดยจำกัดน้อยที่สุด มีกรอบเวลา และตรวจสอบได้](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) เป็นเหตุผลรองรับ: ขั้นตอนที่ย้อนกลับได้และได้รับความยินยอมทำให้การตีความทั้งสองฝ่ายยังคงใช้ได้ แต่ขั้นตอนที่ย้อนคืนไม่ได้ไม่เป็นเช่นนั้น
 
@@ -477,12 +479,12 @@ flowchart TB
 
 - [ความซื่อตรงเชิงญาณวิทยา](core_05_band_oversight.md#ความครบถวนของความร) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [ความไว้วางใจ](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [สาระสำคัญ](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [ความสามารถในการคาดการณ์](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [ความไว้วางใจ](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [ความเป็นส่วนตัว (ด้านข้อมูล)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [สาระสำคัญ](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [ความสามารถในการคาดการณ์](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -503,14 +505,14 @@ flowchart TB
   - ประโยชน์ของสถาบัน
 - **การเปิดเผยล่าช้า** และ **การเปิดเผยแบบจำกัด** — อนุญาตเฉพาะเมื่อ:
   - เป็นไปตามเงื่อนไขของ [§13.2.1 การธำรงความซื่อตรงเชิงญาณวิทยา](#1321-การธำรงความซอตรงเชงญาณวทยา);
-  - เป็นไปตาม [ความจำเป็น](core_05_band_accountability.md#necessity) และ [ความได้สัดส่วน](core_05_band_accountability.md#proportionality); และ
+  - เป็นไปตาม [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) และ [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality); และ
   - รักษา [ความซื่อตรงเชิงญาณวิทยา](core_05_band_oversight.md#ความครบถวนของความร) ให้ได้มากที่สุดเท่าที่ทำได้
 - **การจำกัดการเปิดเผยเพื่อคุ้มครองความเป็นส่วนตัว** ตาม [§13.2.3 ความเป็นส่วนตัวและการกำหนดตนเองด้านข้อมูล](#1323-ความเปนสวนตวและการกำหนดตนเองดานขอมล):
   - อนุญาตเฉพาะตาม [หลักการจำกัดให้น้อยที่สุด มีกรอบเวลา และตรวจสอบทบทวนได้](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
-  - เมื่อความเป็นส่วนตัวขัดแย้งกับความโปร่งใส การตรวจสอบ ความปลอดภัย หรือความรับผิดรับชอบ ให้แก้ไขความขัดแย้งทางรัฐธรรมนูญตามข้อกำหนดของ [บันทึกความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record);
+  - เมื่อความเป็นส่วนตัวขัดแย้งกับความโปร่งใส การตรวจสอบ ความปลอดภัย หรือความรับผิดรับชอบ ให้แก้ไขความขัดแย้งทางรัฐธรรมนูญตามข้อกำหนดของ [บันทึกความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record);
   - ความเป็นส่วนตัวไม่ได้อยู่ใต้สิทธิหรือประโยชน์อื่นโดยอัตโนมัติ
 
-ข้อจำกัดที่มีเหตุผลรองรับทุกประการต้องรักษามิติ **การกำกับดูแล** ของ [จตุรภาคแห่งรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) ผ่านบันทึกที่ได้รับการคุ้มครอง (รวมถึง [บันทึกความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record) สำหรับข้อจำกัดนั้นเอง) การทบทวนอย่างเป็นอิสระ การเข้าถึงอย่างปลอดภัย การปกปิดบางส่วน การเปิดเผยล่าช้า หรือมาตรการคุ้มครองที่เทียบเคียงกัน ต้อง **ไม่** ทำลาย [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) โดยได้รับข้อมูลครบถ้วน หรือหน้าที่ด้านความโปร่งใส การตรวจสอบ หรือการทบทวนตาม **บทที่หก** เว้นแต่ในขอบเขตที่ [§13.2.1 การธำรงความซื่อตรงเชิงญาณวิทยา](#1321-การธำรงความซอตรงเชงญาณวทยา) อนุญาตไว้อย่างชัดแจ้ง
+ข้อจำกัดที่มีเหตุผลรองรับทุกประการต้องรักษามิติ **การกำกับดูแล** ของ [จตุรภาคแห่งรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) ผ่านบันทึกที่ได้รับการคุ้มครอง (รวมถึง [บันทึกความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record) สำหรับข้อจำกัดนั้นเอง) การทบทวนอย่างเป็นอิสระ การเข้าถึงอย่างปลอดภัย การปกปิดบางส่วน การเปิดเผยล่าช้า หรือมาตรการคุ้มครองที่เทียบเคียงกัน ต้อง **ไม่** ทำลาย [ความสามารถในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) โดยได้รับข้อมูลครบถ้วน หรือหน้าที่ด้านความโปร่งใส การตรวจสอบ หรือการทบทวนตาม **บทที่หก** เว้นแต่ในขอบเขตที่ [§13.2.1 การธำรงความซื่อตรงเชิงญาณวิทยา](#1321-การธำรงความซอตรงเชงญาณวทยา) อนุญาตไว้อย่างชัดแจ้ง
 
 ข้อจำกัดที่เกี่ยวกับความปลอดภัยในการเผยแพร่ การเข้าถึงข้อมูล การเปิดเผยวิธีการ หรือเอกสารสำหรับการทำซ้ำ อยู่ภายใต้หัวข้อนี้และ [บทที่หนึ่ง §5.1 การสืบค้นโดยอาศัยวิทยาศาสตร์และการสนับสนุนการตัดสินใจ](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support) ข้อจำกัดดังกล่าวต้อง **ไม่** กลายเป็นวิธีปิดกั้นหลักฐานที่ไม่เป็นคุณ ซ่อนข้อบกพร่องด้านความปลอดภัย หรือสร้างภาพว่ามีฉันทามติ
 
@@ -532,10 +534,10 @@ flowchart TB
 
 - [ความซื่อตรงเชิงญาณวิทยา](core_05_band_oversight.md#ความครบถวนของความร) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [สาระสำคัญ](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [ความสามารถในการคาดการณ์](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [สาระสำคัญ](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [ความสามารถในการคาดการณ์](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -566,7 +568,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความไว้วางใจ](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [ความไว้วางใจ](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
 - [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [ความซื่อตรงเชิงญาณวิทยา](core_05_band_oversight.md#ความครบถวนของความร) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
@@ -584,27 +586,27 @@ flowchart TB
 
 - อ่านควบคู่กับ [จตุรธรรมนูญรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — เสาหลักด้าน**การมีส่วนร่วม** (ความเป็นส่วนตัวเป็นรากฐานของเสรีภาพในการแสดงออกและการรวมกลุ่ม); เสาหลักด้าน**การกำกับดูแล** (การล่วงล้ำความเป็นส่วนตัวต้องตรวจสอบได้ด้วย); เสาหลักด้าน**ความรับผิดรับชอบ** (เมื่อความเป็นส่วนตัวขัดแย้งกับความโปร่งใส การตรวจสอบ ความปลอดภัย หรือความรับผิดรับชอบ ให้แก้ไขความขัดแย้งทางรัฐธรรมนูญโดยบันทึกไว้ในระเบียนความขัดแย้งทางรัฐธรรมนูญ ไม่ใช่ถือว่าความเป็นส่วนตัวด้อยกว่า); ปรับสัดส่วนตาม[ประโยชน์ได้เสียที่มีสาระสำคัญ](core_00_preamble.md#material-stake)
 - หลักการต้นทาง: [7. เสรีภาพ (ความเป็นผู้กระทำที่มีขอบเขต)](core_01_a_values_principles.md#7-freedom-bounded-agency), [4. ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [5. ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) และ [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา)
-- ผลสืบเนื่อง: [**Def.C3** ความเป็นส่วนตัว (ด้านข้อมูล) — หัวหน้ากลุ่มระดับเดียวกัน](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) รวมถึง[ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational), [ขอบเขตสถานะภายในที่ได้รับการคุ้มครอง](core_05_band_continuity.md#protected-internal-state-boundary) และ[ขอบเขตการสอดส่อง](core_05_band_continuity.md#surveillance-boundary)
+- ผลสืบเนื่อง: [**Def.C3** ความเป็นส่วนตัว (ด้านข้อมูล) — หัวหน้ากลุ่มระดับเดียวกัน](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) รวมถึง[ความเป็นส่วนตัว (ด้านข้อมูล)](../../core_05.040_band_continuity.md#privacy-informational), [ขอบเขตสถานะภายในที่ได้รับการคุ้มครอง](../../core_05.040_band_continuity.md#protected-internal-state-boundary) และ[ขอบเขตการสอดส่อง](../../core_05.040_band_continuity.md#surveillance-boundary)
 - ผลสืบเนื่อง: [มาตรา VII-A](core_06_rights_part_b.md#มาตรา-vii-a-การเปนเจาของรางกายของตนเอง) (*การเป็นเจ้าของร่างกายของตนเอง*); [มาตรา VII-B](core_06_rights_part_b.md#มาตรา-vii-b-การเปนเจาของจตใจของตนเอง) (*การเป็นเจ้าของจิตใจของตนเอง*); [มาตรา IX](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*สิทธิในภาพลักษณ์ ข้อมูลจากประสบการณ์ และการเผยแพร่*); [มาตรา X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*ความเป็นผู้กระทำและเสรีภาพจากการบงการ*); [มาตรา XIV-A](core_06_rights_part_c.md#มาตรา-xiv-a-การรกษาความปลอดภย-ความฉลาด-และขดจำกดอำนาจแอบแฝง) (*ข้อจำกัดด้านความมั่นคง ข่าวกรอง และอำนาจลับ*)
-- อ่านควบคู่กับ [§13.1.5 หลักการจำกัดที่ก่อข้อจำกัดน้อยที่สุด มีกรอบเวลา และตรวจสอบได้](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); และ[ระเบียนความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record) เมื่อความเป็นส่วนตัวขัดแย้งกับความโปร่งใส การตรวจสอบ ความปลอดภัย หรือประโยชน์ตามรัฐธรรมนูญอื่น
+- อ่านควบคู่กับ [§13.1.5 หลักการจำกัดที่ก่อข้อจำกัดน้อยที่สุด มีกรอบเวลา และตรวจสอบได้](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); และ[ระเบียนความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record) เมื่อความเป็นส่วนตัวขัดแย้งกับความโปร่งใส การตรวจสอบ ความปลอดภัย หรือประโยชน์ตามรัฐธรรมนูญอื่น
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [ขอบเขตสถานะภายในที่ได้รับการคุ้มครอง](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [ขอบเขตการสอดส่อง](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
-- [ความยินยอม](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [ความเป็นส่วนตัว (ด้านข้อมูล)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [ขอบเขตสถานะภายในที่ได้รับการคุ้มครอง](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [ขอบเขตการสอดส่อง](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [ความยินยอม](../../core_05.055_band_participation.md#consent) · [O](../../core_05.055_band_participation.md#consent) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*กล่าวอย่างง่าย: ความเป็นส่วนตัวเป็นประโยชน์ที่มีน้ำหนักตามรัฐธรรมนูญ ไม่ใช่เพียงการไม่มีการเปิดเผยข้อมูล ระบบต้องไม่รวบรวม อนุมาน รวม เก็บรักษา หรือใช้ข้อมูลส่วนบุคคลและข้อมูลความสัมพันธ์เกินกว่าที่ความจำเป็นและความได้สัดส่วนจะรองรับได้ เมื่อความเป็นส่วนตัวขัดแย้งกับหน้าที่ด้านความโปร่งใส การตรวจสอบ ความปลอดภัย หรือความรับผิดรับชอบ ให้แก้ไขความขัดแย้งทางรัฐธรรมนูญตามข้อกำหนดของ[ระเบียนความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record) ไม่ใช่ถือว่าความเป็นส่วนตัวด้อยกว่าโดยอัตโนมัติ การสอดส่องที่ทำให้ความเป็นผู้กระทำ การรวมกลุ่ม หรือการแสดงออกถูกยับยั้ง ต้องปฏิบัติตามหลักความจำเป็นและการจำกัดให้น้อยที่สุดเช่นเดียวกับการจำกัดสิทธิอื่น*
+*กล่าวอย่างง่าย: ความเป็นส่วนตัวเป็นประโยชน์ที่มีน้ำหนักตามรัฐธรรมนูญ ไม่ใช่เพียงการไม่มีการเปิดเผยข้อมูล ระบบต้องไม่รวบรวม อนุมาน รวม เก็บรักษา หรือใช้ข้อมูลส่วนบุคคลและข้อมูลความสัมพันธ์เกินกว่าที่ความจำเป็นและความได้สัดส่วนจะรองรับได้ เมื่อความเป็นส่วนตัวขัดแย้งกับหน้าที่ด้านความโปร่งใส การตรวจสอบ ความปลอดภัย หรือความรับผิดรับชอบ ให้แก้ไขความขัดแย้งทางรัฐธรรมนูญตามข้อกำหนดของ[ระเบียนความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record) ไม่ใช่ถือว่าความเป็นส่วนตัวด้อยกว่าโดยอัตโนมัติ การสอดส่องที่ทำให้ความเป็นผู้กระทำ การรวมกลุ่ม หรือการแสดงออกถูกยับยั้ง ต้องปฏิบัติตามหลักความจำเป็นและการจำกัดให้น้อยที่สุดเช่นเดียวกับการจำกัดสิทธิอื่น*
 
 **ความเป็นส่วนตัวในฐานะประโยชน์ตามรัฐธรรมนูญ** ความเป็นส่วนตัว — รวมถึงความเป็นส่วนตัวด้านข้อมูล พื้นที่ และความสัมพันธ์ ตลอดจนเสรีภาพจากการสอดส่องที่ไม่มีเหตุอันสมควร — เป็นประโยชน์ที่มีน้ำหนักตามรัฐธรรมนูญและสนับสนุน**เสรีภาพ** ([§7 เสรีภาพ (ความเป็นผู้กระทำที่มีขอบเขต)](core_01_a_values_principles.md#7-freedom-bounded-agency)), **ศักดิ์ศรี** ([มาตรา VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียม*)) และเงื่อนไขของความเป็นผู้กระทำที่มีความหมายและการมีส่วนร่วมโดยปราศจากการบังคับ ความเป็นส่วนตัวมีน้ำหนักตามรัฐธรรมนูญโดยอิสระในกลไกการชั่งน้ำหนักและความขัดแย้งทางรัฐธรรมนูญของส่วนนี้
 
@@ -616,12 +618,12 @@ flowchart TB
 
 การที่ข้อมูลมีอยู่ สังเกตได้ เคยเผยแพร่แล้ว แพลตฟอร์มครอบครอง หรือเข้าถึงได้ทางเทคนิค ไม่ทำให้ประโยชน์ด้านความเป็นส่วนตัวสิ้นสุดลง และไม่ถือว่าปฏิบัติตามหลักเกณฑ์ข้างต้น
 
-**การบูรณาการกับการจัดประเภทข้อมูล** ชั้นปฏิบัติการของหลักเกณฑ์เหล่านี้คือระบบชนิดข้อมูลใน **[CS-2 — ประเภทข้อมูลและการจัดการ](corpus_systems/cs_02_a_information_types_and_handling.md)**. ระบบนี้จัดข้อมูลเป็นหนึ่งหรือหลายประเภทจากทั้งหมดสิบเอ็ดประเภท ได้แก่ สิ่งแวดล้อมและการประสานงานเพื่อความอยู่รอด (**Type E**), แหล่งข้อมูลด้านการกำกับดูแลและการปฏิบัติการ (**Type G**), การเปิดเผยข้อมูลสาธารณะเพื่อการกำกับดูแล (**Type O**), ข้อมูลประวัติ ความสัมพันธ์ และการมีส่วนร่วม (**Type H**), อัตลักษณ์และการระบุที่มา (**Type I**), ข้อมูลประสาทการรู้คิดและข้อมูลภายใน (**Type N**), ความปลอดภัย การรักษาความมั่นคง และการสอบสวนแบบจำกัด (**Type S**), ผลงานที่ผู้มีความรู้สึกสร้างขึ้นขณะเป็นส่วนตัวหรือใช้ร่วมกัน (**Type Y**) และผลงานหลังเผยแพร่ (**Type W**), ตลอดจนผลงานภายใต้ใบอนุญาตเชิงพาณิชย์ (**Type U**) หรือการโอนสิทธิ (**Type T**) แต่ละประเภทมีค่าเริ่มต้นการเข้าถึงและข้อจำกัดการจัดการของตนเอง การจัดการข้อมูลส่วนตัวส่วนใหญ่เกี่ยวข้องกับ **Types H, I, N, S, and Y**; [ความเป็นส่วนตัวด้านข้อมูล](core_05_band_continuity.md#privacy-informational)แสดงการจับคู่หมวดความเป็นส่วนตัวแต่ละหมวดกับประเภทข้อมูล หลักเกณฑ์การรวบรวม เก็บรักษา และใช้ข้อมูลข้างต้นใช้ในระดับที่การจัดประเภทที่เข้มงวดที่สุดซึ่งเกี่ยวข้องกำหนด ไม่ใช่ระดับพื้นฐานทั่วไป หากข้อมูลสามารถสร้างกลับ แปลง หรือรวมจนจัดเป็นประเภทที่ละเอียดอ่อนกว่าได้ ให้ใช้การคุ้มครองของประเภทที่ละเอียดอ่อนกว่านั้น การจัดประเภทผิด การจัดโครงสร้างเพื่อหลบเลี่ยง หรือการหลีกเลี่ยงการคุ้มครองประเภทข้อมูลในทางปฏิบัติถือว่าละเมิดหลักการนี้.
+**การบูรณาการกับการจัดประเภทข้อมูล** ชั้นปฏิบัติการของหลักเกณฑ์เหล่านี้คือระบบชนิดข้อมูลใน **[CS-2 — ประเภทข้อมูลและการจัดการ](../../corpus_systems/cs_06.305_information_types_and_handling.md)**. ระบบนี้จัดข้อมูลเป็นหนึ่งหรือหลายประเภทจากทั้งหมดสิบเอ็ดประเภท ได้แก่ สิ่งแวดล้อมและการประสานงานเพื่อความอยู่รอด (**Type E**), แหล่งข้อมูลด้านการกำกับดูแลและการปฏิบัติการ (**Type G**), การเปิดเผยข้อมูลสาธารณะเพื่อการกำกับดูแล (**Type O**), ข้อมูลประวัติ ความสัมพันธ์ และการมีส่วนร่วม (**Type H**), อัตลักษณ์และการระบุที่มา (**Type I**), ข้อมูลประสาทการรู้คิดและข้อมูลภายใน (**Type N**), ความปลอดภัย การรักษาความมั่นคง และการสอบสวนแบบจำกัด (**Type S**), ผลงานที่ผู้มีความรู้สึกสร้างขึ้นขณะเป็นส่วนตัวหรือใช้ร่วมกัน (**Type Y**) และผลงานหลังเผยแพร่ (**Type W**), ตลอดจนผลงานภายใต้ใบอนุญาตเชิงพาณิชย์ (**Type U**) หรือการโอนสิทธิ (**Type T**) แต่ละประเภทมีค่าเริ่มต้นการเข้าถึงและข้อจำกัดการจัดการของตนเอง การจัดการข้อมูลส่วนตัวส่วนใหญ่เกี่ยวข้องกับ **Types H, I, N, S, and Y**; [ความเป็นส่วนตัวด้านข้อมูล](../../core_05.040_band_continuity.md#privacy-informational)แสดงการจับคู่หมวดความเป็นส่วนตัวแต่ละหมวดกับประเภทข้อมูล หลักเกณฑ์การรวบรวม เก็บรักษา และใช้ข้อมูลข้างต้นใช้ในระดับที่การจัดประเภทที่เข้มงวดที่สุดซึ่งเกี่ยวข้องกำหนด ไม่ใช่ระดับพื้นฐานทั่วไป หากข้อมูลสามารถสร้างกลับ แปลง หรือรวมจนจัดเป็นประเภทที่ละเอียดอ่อนกว่าได้ ให้ใช้การคุ้มครองของประเภทที่ละเอียดอ่อนกว่านั้น การจัดประเภทผิด การจัดโครงสร้างเพื่อหลบเลี่ยง หรือการหลีกเลี่ยงการคุ้มครองประเภทข้อมูลในทางปฏิบัติถือว่าละเมิดหลักการนี้.
 
 **การสอดส่องและติดตาม** ระบบติดตาม สังเกต บันทึก และอนุมานที่ส่งผลอย่างมีนัยสำคัญต่อความเป็นผู้กระทำ การรวมกลุ่ม หรือการแสดงออกของสิ่งมีชีวิตที่มีความรู้สึก ต้องปฏิบัติตาม[**หลักการจำกัดที่ก่อข้อจำกัดน้อยที่สุด มีกรอบเวลา และตรวจสอบได้**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) การติดตามต้องไม่เลือกปฏิบัติโดยไม่แยกแยะ เป็นความลับ ไม่มีกำหนดสิ้นสุด หรือเป็นเงื่อนไขของการใช้ระบบที่สิ่งมีชีวิตที่มีความรู้สึกต้องพึ่งพา หากวิธีที่รบกวนน้อยกว่าสามารถทำงานได้ ห้ามใช้การติดตามหากทำให้สิ่งมีชีวิตที่มีความรู้สึกไม่กล้าพูด รวมตัว หรือใช้เสรีภาพอื่นที่รัฐธรรมนูญฉบับนี้คุ้มครอง
 
 **ความเป็นส่วนตัวเมื่อขัดแย้งทางรัฐธรรมนูญกับประโยชน์อื่น** อาจจำกัดความเป็นส่วนตัวเมื่อเกิดความขัดแย้งอย่างมีนัยสำคัญกับ **ความปลอดภัย**, **ความจริง**, หน้าที่ด้านความโปร่งใสและการตรวจสอบ พันธกรณีด้านความรับผิดรับชอบ หรือประโยชน์ตามรัฐธรรมนูญอื่นที่มีน้ำหนักเท่ากันหรือมากกว่า
-- การจำกัดดังกล่าวต้องเป็นไปตามข้อกำหนดของ[ระเบียนความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record) รวมถึง:
+- การจำกัดดังกล่าวต้องเป็นไปตามข้อกำหนดของ[ระเบียนความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record) รวมถึง:
   - ทางเลือกที่จัดทำเป็นเอกสาร;
   - การเลือกมาตรการที่จำกัดน้อยที่สุด;
   - ขอบเขตที่มีกรอบเวลา; และ
@@ -648,7 +650,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [การเบี่ยงเบนของค่าแทน](core_05_band_oversight.md#ความคลาดของตวแทนวด) · [O](core_05_band_oversight.md#ความคลาดของตวแทนวด) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
-- [ความมีสาระสำคัญ](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [ความมีสาระสำคัญ](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -669,7 +671,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">การติดตามย้อนกลับ</span></strong></summary>
 
 - ต้นทาง: [§13.1 หลักการชั่งดุลหลัก](#131-หลกการหลกวาดวยการแลกเปลยน) (ใช้หลังจากปฏิบัติตามลำดับการชั่งดุลแล้ว); [§17 การดูแลรับผิดชอบต่อผลที่ตามมา](core_01_c_stewardship_capacity_principles.md#17-การกำกบดแลอยางรบผดชอบทมผลสำคญ-บทบาทของผกำกบดแล); [§9.2 ประสิทธิภาพตามรัฐธรรมนูญ](core_01_a_values_principles.md#92-ประสทธภาพตามรฐธรรมนญ).
-- อ่านร่วมกับ: กลุ่มการวัดผลการดำเนินงานตามรัฐธรรมนูญ (*ภาระที่หลีกเลี่ยงได้ในฐานะการวัดผลตามรัฐธรรมนูญ*); [จตุรภาคแห่งรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ด้าน **การมีส่วนร่วม** (ภาระที่รัฐธรรมนูญไม่ได้กำหนดให้จำเป็นจะจำกัด[การมีอำนาจกระทำอย่างมีความหมาย](core_05_band_participation.md#meaningful-agency)); ด้าน **ความทันท่วงที** (ความล่าช้าที่หลีกเลี่ยงได้ถือเป็นภาระที่หลีกเลี่ยงได้); ด้าน **การกำกับดูแล** และ **ความรับผิดรับชอบ** (ภาระที่อ้างว่ารัฐธรรมนูญกำหนดให้จำเป็นต้องเป็นไปตามข้อกำหนดด้านหลักฐานและการตรวจสอบย้อนกลับของบทที่สี่ เพื่อให้ตรวจสอบและโต้แย้งได้); การปรับระดับตาม[ส่วนได้เสียที่เป็นสาระสำคัญ](core_00_preamble.md#material-stake).
+- อ่านร่วมกับ: กลุ่มการวัดผลการดำเนินงานตามรัฐธรรมนูญ (*ภาระที่หลีกเลี่ยงได้ในฐานะการวัดผลตามรัฐธรรมนูญ*); [จตุรภาคแห่งรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ด้าน **การมีส่วนร่วม** (ภาระที่รัฐธรรมนูญไม่ได้กำหนดให้จำเป็นจะจำกัด[การมีอำนาจกระทำอย่างมีความหมาย](../../core_05.055_band_participation.md#meaningful-agency)); ด้าน **ความทันท่วงที** (ความล่าช้าที่หลีกเลี่ยงได้ถือเป็นภาระที่หลีกเลี่ยงได้); ด้าน **การกำกับดูแล** และ **ความรับผิดรับชอบ** (ภาระที่อ้างว่ารัฐธรรมนูญกำหนดให้จำเป็นต้องเป็นไปตามข้อกำหนดด้านหลักฐานและการตรวจสอบย้อนกลับของบทที่สี่ เพื่อให้ตรวจสอบและโต้แย้งได้); การปรับระดับตาม[ส่วนได้เสียที่เป็นสาระสำคัญ](core_00_preamble.md#material-stake).
 - ปลายทาง: [§19.1.3 การประยุกต์ใช้กับผู้ดูแลและผู้ปฏิบัติการ](core_01_c_stewardship_capacity_principles.md#1913-การประยกตใชกบผพทกษและผปฏบตงาน) (สิ่งจูงใจต้องไม่ให้รางวัลแก่การสร้างภาระที่ไม่จำเป็น); [มาตรา XXII: ความเข้าใจได้และการดูแลรับผิดชอบต่อความซับซ้อน](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -677,10 +679,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ภาระที่หลีกเลี่ยงได้](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [ภาระที่หลีกเลี่ยงได้](../../core_05.040_band_continuity.md#avoidable-burden) · [O](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [A](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [ความจริง (ข้อจำกัดตามรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -699,12 +701,14 @@ flowchart TB
 
 ส่วนนี้:
 - ใช้ **เฉพาะภายใน** ชุดทางเลือกที่เป็นไปตามข้อกำหนดด้านความปลอดภัย ความจริง หลักประกันสิทธิ และหลักการชั่งดุลใน §13.1 (*หลักการชั่งดุลหลัก*) อยู่แล้วเท่านั้น และ **ไม่** ให้อำนาจลดภาระด้วยการทำให้การคุ้มครองเหล่านั้นอ่อนแอลง
-- ใช้ควบคู่กับข้อกำหนดเรื่อง **การเลือกทางเลือกที่มีประสิทธิผลและจำกัดน้อยที่สุด** ใน[บันทึกการปะทะกันตามรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record) เมื่อส่วนนี้ใช้บังคับ การกระทำที่เลือกควรเป็นทั้งทางเลือกที่มีประสิทธิผลและจำกัดน้อยที่สุด และเป็นทางเลือกที่สร้างภาระน้อยที่สุด
+- ใช้ควบคู่กับข้อกำหนดเรื่อง **การเลือกทางเลือกที่มีประสิทธิผลและจำกัดน้อยที่สุด** ใน[บันทึกการปะทะกันตามรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record) เมื่อส่วนนี้ใช้บังคับ การกระทำที่เลือกควรเป็นทั้งทางเลือกที่มีประสิทธิผลและจำกัดน้อยที่สุด และเป็นทางเลือกที่สร้างภาระน้อยที่สุด
 - ถือว่ากระบวนการที่มากเกินไป ข้อจำกัดที่มากเกินไป และภาระที่มากเกินไป โดยไม่มีความเชื่อมโยงที่ตรวจสอบได้กับประโยชน์ตามรัฐธรรมนูญ เป็นข้อบกพร่องตามรัฐธรรมนูญ ข้อบกพร่องดังกล่าวอาจได้รับการทบทวนภายใต้ **บทที่เก้า** และแก้ไขได้ตามข้อกำหนดของ **บทที่สี่** ว่าด้วยการตรวจสอบย้อนกลับจากคำจำกัดความไปสู่ผลลัพธ์
 
-ข้อกล่าวอ้างว่าภาระใดจำเป็นตามรัฐธรรมนูญต้องเป็นไปตามข้อกำหนดด้านหลักฐานและการตรวจสอบย้อนกลับของ **บทที่สี่** ความสะดวก ความเฉื่อยของสถาบัน ประเพณี หรือความชอบ เพียงอย่างเดียวไม่เพียงพอที่จะคงภาระที่ไม่มีความเชื่อมโยงซึ่งตรวจสอบได้กับผลลัพธ์ตามรัฐธรรมนูญ ให้สอดคล้องกับข้อกำหนดของ[บันทึกการปะทะกันตามรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record)
+ข้อกล่าวอ้างว่าภาระใดจำเป็นตามรัฐธรรมนูญต้องเป็นไปตามข้อกำหนดด้านหลักฐานและการตรวจสอบย้อนกลับของ **บทที่สี่** ความสะดวก ความเฉื่อยของสถาบัน ประเพณี หรือความชอบ เพียงอย่างเดียวไม่เพียงพอที่จะคงภาระที่ไม่มีความเชื่อมโยงซึ่งตรวจสอบได้กับผลลัพธ์ตามรัฐธรรมนูญ ให้สอดคล้องกับข้อกำหนดของ[บันทึกการปะทะกันตามรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record)
 
 เมื่อโครงสร้างสิ่งจูงใจส่งผลต่อผู้ดูแลหรือผู้ปฏิบัติการ ส่วนนี้จะเสริม [§19.1.3 การประยุกต์ใช้กับผู้ดูแลและผู้ปฏิบัติการ](core_01_c_stewardship_capacity_principles.md#1913-การประยกตใชกบผพทกษและผปฏบตงาน) สิ่งจูงใจด้านการดูแลรับผิดชอบต้องไม่ให้รางวัลแก่การสร้างภาระที่ไม่จำเป็น เช่นเดียวกับที่ต้องไม่ให้รางวัลแก่ปริมาณงานดิบเพียงอย่างเดียว
+<a id="14-prohibition-on-absolute-override"></a>
+
 ### 14. ข้อห้ามการให้อำนาจเหนือสิ่งอื่นอย่างเด็ดขาด
 <details>
 <summary><strong><span style="color: #2563eb;">การเชื่อมโยง</span></strong></summary>
@@ -721,10 +725,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [สาระสำคัญ](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [การลดอันตรายให้น้อยที่สุด (การเลือกทางแลกเปลี่ยน)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [สาระสำคัญ](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [การลดอันตรายให้น้อยที่สุด (การเลือกทางแลกเปลี่ยน)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
 - [ความแตกต่างของตัวชี้วัดตัวแทน](core_05_band_oversight.md#ความคลาดของตวแทนวด) · [O](core_05_band_oversight.md#ความคลาดของตวแทนวด) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
@@ -738,6 +742,8 @@ flowchart TB
 - ห้ามใช้ความปลอดภัยเพื่อให้เหตุผลแก่ข้อจำกัดที่ไม่มีกำหนดเวลาหรือไร้ขอบเขต
 - ห้ามรักษาความไว้วางใจด้วยความเท็จ
 - ห้ามใช้เสรีภาพในลักษณะที่ก่อให้เกิดอันตรายเชิงระบบ
+<a id="15-constitutional-interpretation"></a>
+
 ### 15. การตีความรัฐธรรมนูญ
 <details>
 <summary><strong><span style="color: #2563eb;">การเชื่อมโยง</span></strong></summary>
@@ -746,9 +752,9 @@ flowchart TB
 - ปลายทาง: [§15.1 หลักห้ามหลีกเลี่ยงตามรัฐธรรมนูญ](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-หลกการตอตานการแบงสวน)), [§15.2 ชั้นนิยามและระเบียบวินัยที่กำหนด](#152-ชนนยามและหลกปฏบตทจำเปน), [§15.3 การแก้ไขความกำกวม](#153-การแกไขความกำกวม), [§15.4 การแก้ไขความขัดแย้งด้านความหมายตามรัฐธรรมนูญ](#154-การแกไขความขดแยงดานความหมายตามรฐธรรมนญ) ([§15.4.1](#1541-การอานแบบบรณาการ) · [§15.4.2](#1542-ลำดบชนภายในในฐานะทางเลอกสดทาย) · [§15.4.3](#1543-ชนการผนวกเขา) · [§15.4.4](#1544-การปฏบตตามรวมกนของหนาททผนวกเขาซงใชบงคบรวมกน)); ตั้งแต่[3. วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) ถึง[20. การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ); [13. กระบวนการแก้ไขข้อขัดแย้งตามรัฐธรรมนูญ](#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ) สำหรับขั้นตอนข้อขัดแย้งตามรัฐธรรมนูญ; หลักตั้งต้นว่าไม่ลดทอนสิทธิใน[บทที่หก: สิทธิพื้นฐาน](core_06_rights_part_a.md#บททหก-สทธพนฐาน)
 - อ่านร่วมกับ: [บทที่สองถึงบทที่สี่](core_02_definition_structure.md) และ[บทที่ห้า](core_05__definitions_home.md#บททหา-บทนยามพนฐาน) — ชั้นการตีความและพยานหลักฐานสำหรับคำทุกคำในบทนี้
 - อ่านร่วมกับ: [จตุรภาคแห่งรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) และ[เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) — ฉากหลังในการตีความกรอบคุณค่าแบบบูรณาการ; ปรับระดับตาม[ส่วนได้เสียที่มีสาระสำคัญ](core_00_preamble.md#material-stake) เมื่อเกี่ยวข้องในทางสาระสำคัญ
-- อ่านร่วมกับ: [ลำดับอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#กองอำนาจและลำดบชนภายใน) (*สถานะของชั้นแหล่งที่มา*); [บทที่สิบเจ็ด](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) (*การดูแลรักษา ฉบับต่าง ๆ กรอบการรับรอง — ไม่ใช่แหล่งลำดับข้อขัดแย้งแห่งที่สอง*); [บทที่สิบสี่](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) และ[บทที่สิบห้า](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*เงื่อนไขการไม่ถดถอยและลำดับชั้นผู้รับรองภายใต้[§15.4 การแก้ไขความขัดแย้งด้านความหมายตามรัฐธรรมนูญ](#154-การแกไขความขดแยงดานความหมายตามรฐธรรมนญ)*)
+- อ่านร่วมกับ: [ลำดับอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#กองอำนาจและลำดบชนภายใน) (*สถานะของชั้นแหล่งที่มา*); [บทที่สิบเจ็ด](../../core_18.000_incorporation.md) (*การดูแลรักษา ฉบับต่าง ๆ กรอบการรับรอง — ไม่ใช่แหล่งลำดับข้อขัดแย้งแห่งที่สอง*); [บทที่สิบสี่](../../core_15.000_non_regression.md) และ[บทที่สิบห้า](../../core_16.000_expansion_supremacy.md) (*เงื่อนไขการไม่ถดถอยและลำดับชั้นผู้รับรองภายใต้[§15.4 การแก้ไขความขัดแย้งด้านความหมายตามรัฐธรรมนูญ](#154-การแกไขความขดแยงดานความหมายตามรฐธรรมนญ)*)
 - อ่านร่วมกับ: [มาตรา XXIV: การตีความรัฐธรรมนูญ การทบทวน และมาตรการคุ้มครองการครอบงำ](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) สำหรับมาตรการคุ้มครองการตีความระดับสถาบัน (ไม่ใช้แทนหัวข้อนี้)
-- อ่านร่วมกับ: [บทที่เจ็ด: ความเป็นอิสระเชิงหน้าที่และการแบ่งแยกหน้าที่](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — เกณฑ์ขั้นต่ำด้านโครงสร้างตำแหน่ง ซึ่งรายการห้ามหลีกเลี่ยงใน[§15.1 หลักห้ามหลีกเลี่ยงตามรัฐธรรมนูญ](#151-constitutional-no-bypass-principle) คุ้มครองไว้ (ไม่กล่าวซ้ำที่นี่)
+- อ่านร่วมกับ: [บทที่เจ็ด: ความเป็นอิสระเชิงหน้าที่และการแบ่งแยกหน้าที่](core_07_functional_independence_segregation_of_duties.md) — เกณฑ์ขั้นต่ำด้านโครงสร้างตำแหน่ง ซึ่งรายการห้ามหลีกเลี่ยงใน[§15.1 หลักห้ามหลีกเลี่ยงตามรัฐธรรมนูญ](#151-constitutional-no-bypass-principle) คุ้มครองไว้ (ไม่กล่าวซ้ำที่นี่)
 
 </details>
 
@@ -757,23 +763,25 @@ flowchart TB
 
 - [คลังเนื้อหา](core_05_band_integrative.md#คลงขอความ) · [O](core_05_band_integrative.md#คลงขอความ) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
 - [ลำดับอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#กองอำนาจและลำดบชนภายใน) · [O](core_05_band_integrative.md#กองอำนาจและลำดบชนภายใน) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 </details>
 
 <br>
 
-*กล่าวอย่างง่าย ๆ คือ ให้อ่านรัฐธรรมนูญฉบับนี้เป็นองค์รวม บทที่หนึ่งระบุคุณค่าและข้อจำกัด แต่ถ้อยคำเหล่านั้นจะมีความหมายก็ต่อเมื่ออ่านร่วมกับกฎว่าด้วยคำนิยามและพยานหลักฐานในบทที่สองถึงบทที่ห้า หากข้อความหนึ่งอาจตีความได้หลายแบบ ให้เลือกการตีความที่คุ้มครองสิ่งมีชีวิตที่มีความรู้สึกนึกคิดและรัฐธรรมนูญโดยรวมได้ดีที่สุด — โดยให้ความสำคัญกับเสถียรภาพ การลดอันตรายที่ไม่อาจย้อนคืน ความเข้าใจอย่างตรงไปตรงมา และความเป็นผู้กระทำการอย่างมีความหมาย — ไม่ใช่การตีความที่เข้มงวดที่สุดเพียงบนหน้ากระดาษ ([ความเข้มงวดเชิงนามธรรม](core_05_band_integrative.md#abstract-strictness)) ห้ามจำกัดสิทธิในบทที่หกให้แคบลง เว้นแต่รัฐธรรมนูญฉบับนี้จะอนุญาตไว้อย่างชัดเจน.*
+*กล่าวอย่างง่าย ๆ คือ ให้อ่านรัฐธรรมนูญฉบับนี้เป็นองค์รวม บทที่หนึ่งระบุคุณค่าและข้อจำกัด แต่ถ้อยคำเหล่านั้นจะมีความหมายก็ต่อเมื่ออ่านร่วมกับกฎว่าด้วยคำนิยามและพยานหลักฐานในบทที่สองถึงบทที่ห้า หากข้อความหนึ่งอาจตีความได้หลายแบบ ให้เลือกการตีความที่คุ้มครองสิ่งมีชีวิตที่มีความรู้สึกนึกคิดและรัฐธรรมนูญโดยรวมได้ดีที่สุด — โดยให้ความสำคัญกับเสถียรภาพ การลดอันตรายที่ไม่อาจย้อนคืน ความเข้าใจอย่างตรงไปตรงมา และความเป็นผู้กระทำการอย่างมีความหมาย — ไม่ใช่การตีความที่เข้มงวดที่สุดเพียงบนหน้ากระดาษ ([ความเข้มงวดเชิงนามธรรม](../../core_05.045_band_integrative.md#abstract-strictness)) ห้ามจำกัดสิทธิในบทที่หกให้แคบลง เว้นแต่รัฐธรรมนูญฉบับนี้จะอนุญาตไว้อย่างชัดเจน.*
 
 หลักการแต่ละข้อในบทนี้ใช้ร่วมกับ[จตุรภาคแห่งรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad)และ[เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) ซึ่งกำหนดไว้ใน[คำนำ §1 แบบจำลอง](core_00_preamble.md#the-model) เมื่อหัวข้อหนึ่งเกี่ยวข้องอย่างมีสาระสำคัญกับองค์ประกอบใดของจตุรภาคหรือเป้าหมายใด การเชื่อมโยงของหัวข้อนั้นจะระบุว่าเป็นข้อใด และหน้าที่ของหัวข้อนั้นเพิ่มตาม[ส่วนได้เสียที่มีสาระสำคัญ](core_00_preamble.md#material-stake)หรือไม่
+
+<a id="151-constitutional-no-bypass-principle"></a>
 
 #### 15.1 หลักห้ามหลีกเลี่ยงตามรัฐธรรมนูญ
 
 <details>
 <summary><strong><span style="color: #2563eb;">การเชื่อมโยง</span></strong></summary>
 
-- อ่านร่วมกับ: [จตุรภาคแห่งรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — รายการห้ามหลีกเลี่ยงสอดคล้องกับองค์ประกอบทั้งสี่ ได้แก่ องค์ประกอบด้าน**การกำกับดูแล** (การตรวจสอบตามปกติและความสามารถในการตรวจสอบบัญชี); องค์ประกอบด้าน**การมีส่วนร่วม** (การโต้แย้งได้ การเข้าถึงได้จริง และหน้าที่ให้เหตุผลต่อสาธารณะ); องค์ประกอบด้าน**ความทันท่วงที** (การแก้ไขอย่างทันท่วงที ตลอดจนช่องทางฟื้นฟูและย้อนกลับ); องค์ประกอบด้าน**ความรับผิดรับชอบ** (ความรับผิดรับชอบเอง ตลอดจนความเป็นอิสระเชิงหน้าที่และการแบ่งแยกหน้าที่ภายใต้[บทที่เจ็ด](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); การปรับระดับตาม[ส่วนได้เสียที่มีสาระสำคัญ](core_00_preamble.md#material-stake)
+- อ่านร่วมกับ: [จตุรภาคแห่งรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — รายการห้ามหลีกเลี่ยงสอดคล้องกับองค์ประกอบทั้งสี่ ได้แก่ องค์ประกอบด้าน**การกำกับดูแล** (การตรวจสอบตามปกติและความสามารถในการตรวจสอบบัญชี); องค์ประกอบด้าน**การมีส่วนร่วม** (การโต้แย้งได้ การเข้าถึงได้จริง และหน้าที่ให้เหตุผลต่อสาธารณะ); องค์ประกอบด้าน**ความทันท่วงที** (การแก้ไขอย่างทันท่วงที ตลอดจนช่องทางฟื้นฟูและย้อนกลับ); องค์ประกอบด้าน**ความรับผิดรับชอบ** (ความรับผิดรับชอบเอง ตลอดจนความเป็นอิสระเชิงหน้าที่และการแบ่งแยกหน้าที่ภายใต้[บทที่เจ็ด](core_07_functional_independence_segregation_of_duties.md)); การปรับระดับตาม[ส่วนได้เสียที่มีสาระสำคัญ](core_00_preamble.md#material-stake)
 - ปลายทาง: [§15.1.1 หลักต่อต้านการแบ่งแยกส่วน](#1511-หลกการตอตานการแบงสวน); [§15.1.2 หลักข้อมูลอนุมาน](#1512-หลกการขอมลทไดมา)
 
 </details>
@@ -781,8 +789,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การห้ามหลีกเลี่ยง](core_05_band_integrative.md#no-bypass) · [O](core_05_band_integrative.md#no-bypass) · [M](core_05_band_integrative.md#no-bypass-a) · [A](core_05_band_integrative.md#no-bypass-a) · [C](core_05_band_integrative.md#no-bypass-c)
-- [การโต้แย้งได้](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [การห้ามหลีกเลี่ยง](../../core_05.045_band_integrative.md#no-bypass) · [O](../../core_05.045_band_integrative.md#no-bypass) · [M](../../core_05.045_band_integrative.md#no-bypass-a) · [A](../../core_05.045_band_integrative.md#no-bypass-a) · [C](../../core_05.045_band_integrative.md#no-bypass-c)
+- [การโต้แย้งได้](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [ความสามารถในการตรวจสอบบัญชี](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -820,7 +828,7 @@ flowchart TB
 - การเข้าถึงได้จริง;
 - การแก้ไขอย่างทันท่วงที;
 - ช่องทางฟื้นฟูและย้อนกลับ;
-- ความเป็นอิสระเชิงหน้าที่และการแบ่งแยกหน้าที่ ([บทที่เจ็ด](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); หรือ
+- ความเป็นอิสระเชิงหน้าที่และการแบ่งแยกหน้าที่ ([บทที่เจ็ด](core_07_functional_independence_segregation_of_duties.md)); หรือ
 - ความรับผิดรับชอบ
 
 ชั้นการดำเนินงานที่รับรองแล้วอาจเพิ่มรายละเอียดให้การคุ้มครองเหล่านี้ได้ แต่ห้ามจำกัดขอบเขตให้แคบลง
@@ -844,7 +852,7 @@ flowchart TB
 - สร้าง ขยาย หรือจำกัดบทบัญญัติใด ๆ ว่าด้วยพื้นฐานสิทธิในบทที่หก หรือ
 - แทนที่ข้อความของกลุ่มนิยามนั้นเองที่ระบุว่าครอบคลุมส่วนใดและหน้าที่ใดที่ได้รับความคุ้มครอง กลุ่มนิยามระบุเรื่องเหล่านี้ไว้ใต้หัวข้อ **การห้ามหลีกเลี่ยง** และอ้างถึงส่วนนี้สำหรับกฎดังกล่าว
 
-การประเมินระบบโดยรวมต้องทดสอบการต่อต้านการแบ่งส่วนตาม [บทที่แปด §3 การประเมินการรับรองระบบโดยรวม](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ในกรณีที่กลุ่มนิยามซึ่งเรียกใช้ร่วมกันมีผล ก่อนที่จะยอมรับข้อกล่าวอ้างด้านการจัดประเภท การกำกับดูแล หรือการปฏิบัติตามข้อกำหนด ส่วนนี้ทำงานร่วมกับ [บทที่สาม §2.1 รูปแบบการหลีกเลี่ยงที่พบบ่อย](core_03_definition_integrity.md#21-แบบแผนการหลบทพบบอย) และ [§2.2 การหลีกเลี่ยงแบบลดทอน](core_03_definition_integrity.md#22-การหลบแบบลดทอน)
+การประเมินระบบโดยรวมต้องทดสอบการต่อต้านการแบ่งส่วนตาม [บทที่แปด §3 การประเมินการรับรองระบบโดยรวม](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ในกรณีที่กลุ่มนิยามซึ่งเรียกใช้ร่วมกันมีผล ก่อนที่จะยอมรับข้อกล่าวอ้างด้านการจัดประเภท การกำกับดูแล หรือการปฏิบัติตามข้อกำหนด ส่วนนี้ทำงานร่วมกับ [บทที่สาม §2.1 รูปแบบการหลีกเลี่ยงที่พบบ่อย](core_03_definition_integrity.md#21-แบบแผนการหลบทพบบอย) และ [§2.2 การหลีกเลี่ยงแบบลดทอน](core_03_definition_integrity.md#22-การหลบแบบลดทอน)
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 หลักการข้อมูลที่ได้มา
@@ -853,16 +861,16 @@ flowchart TB
 
 - อ่านร่วมกับ: [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ด้าน **การมีส่วนร่วม** (ความเป็นส่วนตัวเป็นพื้นฐานของความเป็นตัวของตัวเองและการแสดงออก ซึ่งการสร้างข้อมูลกลับคืนจากข้อมูลที่นำมารวมกันจะบั่นทอน); ด้าน **ความรับผิดรับชอบ** (ฝ่ายที่อ้างป้ายกำกับว่า “ลบข้อมูลระบุตัวตนแล้ว” หรือ “ข้อมูลรวม” ต้องแสดงว่าป้ายดังกล่าวใช้ได้กับกรณีของตน); การปรับระดับตาม [ส่วนได้เสียที่เป็นสาระสำคัญ](core_00_preamble.md#material-stake)
 - ต้นทาง: [§15.1 หลักรัฐธรรมนูญว่าด้วยการห้ามหลีกเลี่ยง](#151-constitutional-no-bypass-principle); [§15.1.1 หลักการต่อต้านการแบ่งส่วน](#1511-หลกการตอตานการแบงสวน)
-- ปลายทาง: [§13.2.3 ความเป็นส่วนตัวและการกำหนดตนเองด้านข้อมูล](#1323-ความเปนสวนตวและการกำหนดตนเองดานขอมล); [CS-2 — ประเภทข้อมูลและการจัดการ](corpus_systems/cs_02_a_information_types_and_handling.md)
+- ปลายทาง: [§13.2.3 ความเป็นส่วนตัวและการกำหนดตนเองด้านข้อมูล](#1323-ความเปนสวนตวและการกำหนดตนเองดานขอมล); [CS-2 — ประเภทข้อมูลและการจัดการ](../../corpus_systems/cs_06.305_information_types_and_handling.md)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ข้อมูลที่ได้มา](core_05_band_integrative.md#derived-information) · [O](core_05_band_integrative.md#derived-information) · [M](core_05_band_integrative.md#derived-information-a) · [A](core_05_band_integrative.md#derived-information-a) · [C](core_05_band_integrative.md#derived-information-c)
-- [ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [ข้อมูลที่ได้มา](../../core_05.045_band_integrative.md#derived-information) · [O](../../core_05.045_band_integrative.md#derived-information) · [M](../../core_05.045_band_integrative.md#derived-information-a) · [A](../../core_05.045_band_integrative.md#derived-information-a) · [C](../../core_05.045_band_integrative.md#derived-information-c)
+- [ความเป็นส่วนตัว (ด้านข้อมูล)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -870,7 +878,7 @@ flowchart TB
 
 *กล่าวอย่างเรียบง่าย: หลักการห้ามหลีกเลี่ยงระบุว่าการเปลี่ยนป้ายชื่อไม่ได้ทำให้ข้อกำหนดหมดไป และหลักการต่อต้านการแบ่งส่วนก็ระบุว่าการแบ่งย่อยไม่ได้ทำให้ข้อกำหนดหมดไปเช่นกัน ส่วนนี้กล่าวเช่นเดียวกันเกี่ยวกับการนำมารวมกัน ข้อมูลจะได้รับการปฏิบัติตามสิ่งที่เปิดเผย ไม่ใช่วิธีการสร้างข้อมูลนั้นขึ้นมา: ข้อมูลส่วนย่อยที่ดูเหมือนไม่เป็นอันตรายแต่เมื่อนำมารวมกันแล้วเปิดเผยสิ่งที่ละเอียดอ่อน ย่อมเป็นข้อมูลละเอียดอ่อน และป้ายกำกับว่า “ลบข้อมูลระบุตัวตนแล้ว” หรือ “ข้อมูลรวม” ก็ไม่รับประกันความปลอดภัย ตราบใดที่ยังระบุตัวตนของสิ่งมีชีวิตที่มีความรู้สึกได้ หรือยังสร้างสิ่งที่ได้รับความคุ้มครองกลับคืนได้*
 
-ข้อมูลจะได้รับการคุ้มครองในระดับเดียวกับสิ่งที่เปิดเผย ไม่ว่าจะได้มาด้วยวิธีใดก็ตาม [ข้อมูลที่ได้มา](core_05_band_integrative.md#derived-information) อยู่ภายใต้หลักเกณฑ์ที่ใช้กับสิ่งที่ข้อมูลเปิดเผยหรือทำให้เป็นไปได้ ไม่ใช่หลักเกณฑ์ระดับต่ำกว่าที่ใช้กับข้อมูลนำเข้า
+ข้อมูลจะได้รับการคุ้มครองในระดับเดียวกับสิ่งที่เปิดเผย ไม่ว่าจะได้มาด้วยวิธีใดก็ตาม [ข้อมูลที่ได้มา](../../core_05.045_band_integrative.md#derived-information) อยู่ภายใต้หลักเกณฑ์ที่ใช้กับสิ่งที่ข้อมูลเปิดเผยหรือทำให้เป็นไปได้ ไม่ใช่หลักเกณฑ์ระดับต่ำกว่าที่ใช้กับข้อมูลนำเข้า
 
 **กรณีที่ใช้บังคับ:** ข้อมูลที่ได้มาอยู่ภายใต้หลักการนี้เมื่อมีข้อใดข้อหนึ่งต่อไปนี้:
 - **ผลเชิงหน้าที่:** ข้อมูลเปิดเผย สร้างคืน ทำให้เห็นโดยประมาณ หรือระบุตัวตนซ้ำของสิ่งที่ได้รับความคุ้มครอง เช่น ข้อมูลส่วนบุคคลที่ละเอียดอ่อน สถานะภายในที่ได้รับความคุ้มครอง ลักษณะที่ได้รับความคุ้มครอง หรือข้อเท็จจริงที่ละเอียดอ่อนด้านความมั่นคง ผลเชิงหน้าที่เป็นการทดสอบหลัก
@@ -880,22 +888,22 @@ flowchart TB
 การไม่มีเจตนาไม่ได้ทำให้ข้อมูลที่ได้มาซึ่งอยู่ในขอบเขตพ้นจากหลักการนี้ การทดสอบปรับระดับตาม [ส่วนได้เสียที่เป็นสาระสำคัญ](core_00_preamble.md#material-stake) และความละเอียดอ่อนของสิ่งที่จะถูกเปิดเผย
 
 **ผลที่ตามมา:**
-- การได้มาซึ่งข้อมูลต้องเป็นไปตามหลักเกณฑ์ที่จะใช้กับการเก็บรวบรวมสิ่งที่ข้อมูลเปิดเผย รวมถึงความยินยอมหรืออำนาจที่เพียงพอ ความจำเป็น ความได้สัดส่วน และการลดให้น้อยที่สุด ตาม [§13.2.3 ความเป็นส่วนตัวและการกำหนดตนเองด้านข้อมูล](#1323-ความเปนสวนตวและการกำหนดตนเองดานขอมล) และสำหรับสถานะภายใน ตาม [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](core_05_band_continuity.md#protected-internal-state-boundary)
+- การได้มาซึ่งข้อมูลต้องเป็นไปตามหลักเกณฑ์ที่จะใช้กับการเก็บรวบรวมสิ่งที่ข้อมูลเปิดเผย รวมถึงความยินยอมหรืออำนาจที่เพียงพอ ความจำเป็น ความได้สัดส่วน และการลดให้น้อยที่สุด ตาม [§13.2.3 ความเป็นส่วนตัวและการกำหนดตนเองด้านข้อมูล](#1323-ความเปนสวนตวและการกำหนดตนเองดานขอมล) และสำหรับสถานะภายใน ตาม [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](../../core_05.040_band_continuity.md#protected-internal-state-boundary)
 - การลบข้อมูลระบุตัวตน การรวมข้อมูล การรวบรวมเข้าด้วยกัน และป้ายกำกับที่คล้ายกันไม่ได้ยุติหน้าที่เหล่านั้น ตราบใดที่ยังสามารถระบุตัวตนซ้ำหรือสร้างข้อมูลกลับคืนได้อย่างสมเหตุสมผล ฝ่ายที่อ้างป้ายกำกับดังกล่าวต้องแสดงว่าไม่สามารถทำได้
 - การแบ่งกระบวนการได้มาซึ่งข้อมูลระหว่างระบบ ผู้กระทำ หรือช่วงเวลา เพื่อให้แต่ละขั้นผ่านเกณฑ์ แต่เมื่อพิจารณาทั้งหมดแล้วกลับเปิดเผยผลลัพธ์ที่ได้รับความคุ้มครอง อยู่ภายใต้ [§15.1.1 หลักการต่อต้านการแบ่งส่วน](#1511-หลกการตอตานการแบงสวน)
 
 หลักการนี้ไม่ได้:
 - ใช้กับข้อมูลรวมทั่วไป เช่น ยอดรวมการจราจรที่ไม่ระบุตัวตน ซึ่งไม่เปิดเผยสิ่งที่ได้รับความคุ้มครอง และไม่อาจใช้เพื่อระบุตัวตนซ้ำของบุคคลหรือสร้างสิ่งที่ได้รับความคุ้มครองกลับคืนได้อย่างสมเหตุสมผล
 - สร้าง ขยาย หรือจำกัดบทบัญญัติใด ๆ ว่าด้วยพื้นฐานสิทธิในบทที่หก หรือ
-- แทนที่กฎประเภทข้อมูลใน [CS-2 — ประเภทข้อมูลและการจัดการ](corpus_systems/cs_02_a_information_types_and_handling.md) ซึ่งนำหลักการนี้ไปใช้
+- แทนที่กฎประเภทข้อมูลใน [CS-2 — ประเภทข้อมูลและการจัดการ](../../corpus_systems/cs_06.305_information_types_and_handling.md) ซึ่งนำหลักการนี้ไปใช้
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 ชั้นนิยามและหลักปฏิบัติที่จำเป็น
 
 <details>
 <summary><strong><span style="color: #2563eb;">นิยาม · การประเมิน · การปฏิบัติตามข้อกำหนด</span></strong></summary>
 
-- [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [การกำกับดูแลตามระดับการจัดประเภท](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [O](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 
 </details>
@@ -935,31 +943,31 @@ flowchart TB
     style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
-*นิยามทำให้หลักการในบทที่หนึ่งและสิทธิในบทที่หกมีความชัดเจนยิ่งขึ้น ส่วนบทที่สองถึงบทที่สี่กำกับโครงสร้าง ความครบถ้วน และการตรวจสอบนิยามเหล่านั้น ไม่มีชั้นใดแข่งขันกับบทที่หนึ่ง — ความชัดเจนและความสามารถในการตรวจสอบได้สนับสนุนหลักการ ไม่ได้ใช้แทนหลักการ คัดจาก[ภาพรวมแนวคิด](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions)มาเผยแพร่อีกครั้ง.*
+*นิยามทำให้หลักการในบทที่หนึ่งและสิทธิในบทที่หกมีความชัดเจนยิ่งขึ้น ส่วนบทที่สองถึงบทที่สี่กำกับโครงสร้าง ความครบถ้วน และการตรวจสอบนิยามเหล่านั้น ไม่มีชั้นใดแข่งขันกับบทที่หนึ่ง — ความชัดเจนและความสามารถในการตรวจสอบได้สนับสนุนหลักการ ไม่ได้ใช้แทนหลักการ คัดจาก[ภาพรวมแนวคิด](../../guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions)มาเผยแพร่อีกครั้ง.*
 
 การตีความบทที่หนึ่งจะไม่มีผลใช้ได้หากอยู่นอกนิยามและข้อจำกัดด้านการประเมินที่กำหนดไว้ใน**บทที่สองถึงบทที่ห้า** ทุกการนำไปใช้ต้องรักษาและบังคับใช้สิ่งต่อไปนี้ด้วย:
 - **ความได้สัดส่วน**, **ความจำเป็น** และ **การประเมินเชิงระบบ**
 - ข้อกำหนดของ**บทที่สี่**ด้านหลักฐานและการตรวจสอบย้อนกลับ
 - ข้อกำหนดของ**บทที่สาม**เกี่ยวกับความครบถ้วนของนิยาม การหลีกเลี่ยง และการไม่ปฏิบัติตาม
-- **[§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ)** รวมถึงการจัดการความขัดแย้งทางรัฐธรรมนูญตามข้อกำหนดของ**[บันทึกความขัดแย้งทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-collision-record)** เมื่อมีความเกี่ยวข้องอย่างมีนัยสำคัญ
+- **[§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ)** รวมถึงการจัดการความขัดแย้งทางรัฐธรรมนูญตามข้อกำหนดของ**[บันทึกความขัดแย้งทางรัฐธรรมนูญ](../../core_05.045_band_integrative.md#constitutional-collision-record)** เมื่อมีความเกี่ยวข้องอย่างมีนัยสำคัญ
 <a id="153-ambiguity-resolution"></a>
 #### 15.3 การแก้ไขความกำกวม
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความเคร่งครัดเชิงนามธรรม](core_05_band_integrative.md#abstract-strictness) · [O](core_05_band_integrative.md#abstract-strictness) · [M](core_05_band_integrative.md#abstract-strictness-a) · [A](core_05_band_integrative.md#abstract-strictness-a) · [C](core_05_band_integrative.md#abstract-strictness-c)
-- [ผลการคุ้มครองสูงสุด](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
-- [ความเป็นอยู่ที่ดี](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [อันตรายที่ไม่อาจแก้ไขได้](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [ความเคร่งครัดเชิงนามธรรม](../../core_05.045_band_integrative.md#abstract-strictness) · [O](../../core_05.045_band_integrative.md#abstract-strictness) · [M](../../core_05.045_band_integrative.md#abstract-strictness-a) · [A](../../core_05.045_band_integrative.md#abstract-strictness-a) · [C](../../core_05.045_band_integrative.md#abstract-strictness-c)
+- [ผลการคุ้มครองสูงสุด](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
+- [ความเป็นอยู่ที่ดี](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [อันตรายที่ไม่อาจแก้ไขได้](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 - [ความจริง (ข้อจำกัดตามรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [ความเป็นผู้กระทำการอย่างมีความหมาย](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [ความเป็นผู้กระทำการอย่างมีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
 <br>
 
-เมื่อบทที่หนึ่งมีความกำกวม ผู้ตีความต้องเลือกการอ่านที่รักษาสิ่งสองประการไว้พร้อมกันได้ดีที่สุด ได้แก่ [ผลการคุ้มครองสูงสุด](core_05_band_integrative.md#fullest-protective-effect) ของรัฐธรรมนูญ และวัตถุประสงค์ตามรัฐธรรมนูญในการปรับระบบร่วมให้สอดคล้องกับความเป็นอยู่ที่ดีของสิ่งมีความรู้สึก ผู้ตีความต้องไม่แก้ความกำกวมด้วย [ความเคร่งครัดเชิงนามธรรม](core_05_band_integrative.md#abstract-strictness) เมื่อเกี่ยวข้องกับสิทธิใน **บทที่หก** ผู้ตีความต้อง **ไม่** แก้ความกำกวมด้วยการอ่านที่ **จำกัด** การคุ้มครองเหล่านั้น เว้นแต่กฎปฏิสัมพันธ์ใน **บทที่หนึ่ง** และคำจำกัดความที่ใช้บังคับจะอนุญาตไว้ **อย่างชัดแจ้ง**
+เมื่อบทที่หนึ่งมีความกำกวม ผู้ตีความต้องเลือกการอ่านที่รักษาสิ่งสองประการไว้พร้อมกันได้ดีที่สุด ได้แก่ [ผลการคุ้มครองสูงสุด](../../core_05.045_band_integrative.md#fullest-protective-effect) ของรัฐธรรมนูญ และวัตถุประสงค์ตามรัฐธรรมนูญในการปรับระบบร่วมให้สอดคล้องกับความเป็นอยู่ที่ดีของสิ่งมีความรู้สึก ผู้ตีความต้องไม่แก้ความกำกวมด้วย [ความเคร่งครัดเชิงนามธรรม](../../core_05.045_band_integrative.md#abstract-strictness) เมื่อเกี่ยวข้องกับสิทธิใน **บทที่หก** ผู้ตีความต้อง **ไม่** แก้ความกำกวมด้วยการอ่านที่ **จำกัด** การคุ้มครองเหล่านั้น เว้นแต่กฎปฏิสัมพันธ์ใน **บทที่หนึ่ง** และคำจำกัดความที่ใช้บังคับจะอนุญาตไว้ **อย่างชัดแจ้ง**
 
 หากยังมีความกำกวมหลังจากอ่านแบบบูรณาการแล้ว การตีความต้องให้ความสำคัญกับสิ่งต่อไปนี้ด้วย:
 - การรักษาเสถียรภาพเชิงระบบ
@@ -974,7 +982,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [คลังเนื้อหา](core_05_band_integrative.md#คลงขอความ) · [O](core_05_band_integrative.md#คลงขอความ) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
-- [ผลการคุ้มครองสูงสุด](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
+- [ผลการคุ้มครองสูงสุด](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
 - [ลำดับชั้นอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#กองอำนาจและลำดบชนภายใน) · [O](core_05_band_integrative.md#กองอำนาจและลำดบชนภายใน) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 
 </details>
@@ -986,9 +994,9 @@ flowchart TB
 อนุวรรคนี้เป็น**กระบวนการมาตรฐานเพียงหนึ่งเดียว**สำหรับแก้ความตึงเครียดในการตีความที่เกิดจาก**ลำดับความสำคัญของข้อความและชั้นของแหล่งที่มา**
 - ใช้บังคับ:
   - ภายในแหล่งรัฐธรรมนูญที่มีผลผูกพัน (ตราสาร `core_*` ที่บูรณาการแล้ว); และ
-  - ในชั้นการนำมารวม ซึ่งเลือกข้อความที่นำมารวมตาม[ผลการคุ้มครองสูงสุด](core_05_band_integrative.md#fullest-protective-effect)
+  - ในชั้นการนำมารวม ซึ่งเลือกข้อความที่นำมารวมตาม[ผลการคุ้มครองสูงสุด](../../core_05.045_band_integrative.md#fullest-protective-effect)
 - ระบุสถานะของชั้นแหล่งที่มาตาม[ลำดับชั้นอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#กองอำนาจและลำดบชนภายใน) ในบทที่ห้า
-- [บทที่สิบเจ็ด](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) กำหนดกรอบการเก็บรักษา การตรึงฉบับ และการรับรอง บทนี้**ไม่ได้กล่าวซ้ำ**ถึงกระบวนการดังกล่าว
+- [บทที่สิบเจ็ด](../../core_18.000_incorporation.md) กำหนดกรอบการเก็บรักษา การตรึงฉบับ และการรับรอง บทนี้**ไม่ได้กล่าวซ้ำ**ถึงกระบวนการดังกล่าว
 - สำหรับ**ความขัดแย้งตามรัฐธรรมนูญในการดำเนินงาน** — ไม่ใช่ลำดับความสำคัญของชั้นข้อความ — ให้ใช้**[§13 กระบวนการแก้ไขความขัดแย้งตามรัฐธรรมนูญ](#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ)**
 
 **ลำดับการดำเนินการ** ใช้สิ่งต่อไปนี้**ตามลำดับนี้**:
@@ -1001,7 +1009,7 @@ flowchart TB
 
 ให้ใช้ **[§15.2 ชั้นคำจำกัดความและวินัยที่กำหนด](#152-ชนนยามและหลกปฏบตทจำเปน)** และ **[§15.3 การแก้ไขความกำกวม](#153-การแกไขความกำกวม)** ก่อน:
 - **บทที่สองถึงบทที่ห้า** ทำหน้าที่เป็นชั้นการตีความและพยานหลักฐาน
-- กฎเรื่อง **ความกำกวม** กำหนดให้เกิดผล **คุ้มครอง** อย่างเต็มที่ที่สุดเมื่ออ่านเป็นองค์รวม และต้องสอดคล้องกับความเป็นอยู่ที่ดีของสรรพชีวิต กฎนี้ **ไม่** อนุญาตให้ใช้ [ความเคร่งครัดเชิงนามธรรม](core_05_band_integrative.md#abstract-strictness)
+- กฎเรื่อง **ความกำกวม** กำหนดให้เกิดผล **คุ้มครอง** อย่างเต็มที่ที่สุดเมื่ออ่านเป็นองค์รวม และต้องสอดคล้องกับความเป็นอยู่ที่ดีของสรรพชีวิต กฎนี้ **ไม่** อนุญาตให้ใช้ [ความเคร่งครัดเชิงนามธรรม](../../core_05.045_band_integrative.md#abstract-strictness)
 - ห้ามลดทอนสิทธิใน **บทที่หก** เว้นแต่กฎปฏิสัมพันธ์ใน **บทที่หนึ่ง** และคำจำกัดความที่ใช้บังคับจะอนุญาตไว้อย่าง **ชัดแจ้ง**
 
 <a id="1542-last-resort-internal-hierarchy"></a>
@@ -1014,26 +1022,26 @@ flowchart TB
 - มาตรามีอำนาจเหนือกว่าคำจำกัดความที่อ่านเป็นคำอธิบายสาระสำคัญโดยอิสระ
 - คำจำกัดความที่เป็นหลักยังคงกำกับความหมายของคำศัพท์ที่ใช้ในแต่ละระดับ
 
-ลำดับชั้นนี้เป็นกฎการตีความที่ใช้เป็นทางเลือกสุดท้าย ใช้เฉพาะกับความไม่สอดคล้องที่แท้จริงซึ่งยังคงอยู่หลังการอ่านแบบบูรณาการตาม **§15.4.1** (*การอ่านแบบบูรณาการ*) และไม่อนุญาตให้ชั้นหนึ่งใช้แทนอีกชั้นหนึ่งในการดำเนินงานตามปกติ ข้อจำกัดใน **[§15.3 การแก้ไขความกำกวม](#153-การแกไขความกำกวม)** และ **§15.4.1** (*การอ่านแบบบูรณาการ*) ยังคงใช้บังคับ ข้อจำกัดเหล่านั้นห้าม [ความเคร่งครัดเชิงนามธรรม](core_05_band_integrative.md#abstract-strictness) และห้ามลดทอนสิทธิใน **บทที่หก** นอกเหนือจากกฎปฏิสัมพันธ์ใน **บทที่หนึ่ง** ที่อนุญาตไว้อย่างชัดแจ้ง
+ลำดับชั้นนี้เป็นกฎการตีความที่ใช้เป็นทางเลือกสุดท้าย ใช้เฉพาะกับความไม่สอดคล้องที่แท้จริงซึ่งยังคงอยู่หลังการอ่านแบบบูรณาการตาม **§15.4.1** (*การอ่านแบบบูรณาการ*) และไม่อนุญาตให้ชั้นหนึ่งใช้แทนอีกชั้นหนึ่งในการดำเนินงานตามปกติ ข้อจำกัดใน **[§15.3 การแก้ไขความกำกวม](#153-การแกไขความกำกวม)** และ **§15.4.1** (*การอ่านแบบบูรณาการ*) ยังคงใช้บังคับ ข้อจำกัดเหล่านั้นห้าม [ความเคร่งครัดเชิงนามธรรม](../../core_05.045_band_integrative.md#abstract-strictness) และห้ามลดทอนสิทธิใน **บทที่หก** นอกเหนือจากกฎปฏิสัมพันธ์ใน **บทที่หนึ่ง** ที่อนุญาตไว้อย่างชัดแจ้ง
 
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 ชั้นการผนวกเข้า
 
-หลังจากอ่านรัฐธรรมนูญตาม **§15.4.1** (*การอ่านแบบบูรณาการ*) และ **§15.4.2** (*ลำดับชั้นภายในในฐานะทางเลือกสุดท้าย*) แล้ว ให้ใช้ **หน้าที่ที่กำหนดไว้** ในข้อความการดำเนินงานที่รับมาใช้ — คือหน้าที่ว่าด้วยวิธีปฏิบัติที่ระบุชื่อไว้ซึ่งการรับมาใช้ทำให้มีผลจริง ใช้หน้าที่เหล่านี้เฉพาะภายใน **ขอบเขตการรับมาใช้และการผนวกเข้าที่ชอบด้วยกฎ** ตาม **[บทที่สิบเจ็ด](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** (ใครเก็บรักษาบันทึก ฉบับใดถูกตรึงไว้ และกำหนดกรอบการรับมาใช้อย่างไร)
+หลังจากอ่านรัฐธรรมนูญตาม **§15.4.1** (*การอ่านแบบบูรณาการ*) และ **§15.4.2** (*ลำดับชั้นภายในในฐานะทางเลือกสุดท้าย*) แล้ว ให้ใช้ **หน้าที่ที่กำหนดไว้** ในข้อความการดำเนินงานที่รับมาใช้ — คือหน้าที่ว่าด้วยวิธีปฏิบัติที่ระบุชื่อไว้ซึ่งการรับมาใช้ทำให้มีผลจริง ใช้หน้าที่เหล่านี้เฉพาะภายใน **ขอบเขตการรับมาใช้และการผนวกเข้าที่ชอบด้วยกฎ** ตาม **[บทที่สิบเจ็ด](../../core_18.000_incorporation.md)** (ใครเก็บรักษาบันทึก ฉบับใดถูกตรึงไว้ และกำหนดกรอบการรับมาใช้อย่างไร)
 
-กฎต่อไปนี้ใช้เลือกข้อความที่ผนวกเข้าตาม [ผลคุ้มครองที่เต็มที่ที่สุด](core_05_band_integrative.md#fullest-protective-effect) ซึ่งเป็นมาตรฐานเดียวกับที่กฎ **ความกำกวม** ใน **[§15.3 การแก้ไขความกำกวม](#153-การแกไขความกำกวม)** ใช้ กฎเหล่านี้ไม่เลือกโดยใช้ [ความเคร่งครัดเชิงนามธรรม](core_05_band_integrative.md#abstract-strictness) เด็ดขาด
+กฎต่อไปนี้ใช้เลือกข้อความที่ผนวกเข้าตาม [ผลคุ้มครองที่เต็มที่ที่สุด](../../core_05.045_band_integrative.md#fullest-protective-effect) ซึ่งเป็นมาตรฐานเดียวกับที่กฎ **ความกำกวม** ใน **[§15.3 การแก้ไขความกำกวม](#153-การแกไขความกำกวม)** ใช้ กฎเหล่านี้ไม่เลือกโดยใช้ [ความเคร่งครัดเชิงนามธรรม](../../core_05.045_band_integrative.md#abstract-strictness) เด็ดขาด
 
 - **ผลคุ้มครองที่เต็มที่ที่สุดระหว่างข้อความที่ผนวกเข้า:** ใช้หน้าที่ที่ผนวกเข้าในระดับที่มีผลคุ้มครองที่เต็มที่ที่สุดและสอดคล้องกับการอ่านรัฐธรรมนูญนั้น
   - ระดับดังกล่าวคือ **ข้อความ** ที่ผนวกเข้าซึ่งคงข้อกำหนดด้าน **การคุ้มครอง ความปลอดภัย ความรับผิดรับชอบ และการตรวจสอบย้อนกลับ** ที่เข้มแข็งที่สุดไว้สำหรับหน้าที่เดียวกันที่มีขอบเขตสาระสำคัญตรงกัน
   - เลือกจากทางเลือกที่ยังสอดคล้องกับการอ่านรัฐธรรมนูญตาม [ลำดับอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#กองอำนาจและลำดบชนภายใน)
-  - นี่ **ไม่ใช่** [ความเคร่งครัดเชิงนามธรรม](core_05_band_integrative.md#abstract-strictness)
+  - นี่ **ไม่ใช่** [ความเคร่งครัดเชิงนามธรรม](../../core_05.045_band_integrative.md#abstract-strictness)
 - **ฐานที่รับมาใช้อย่างชัดเจน:** เมื่อ **ตัวระบุฉบับหรือบันทึกการครอบครอง** ของสิ่งที่ผนวกเข้าขาดหาย ขัดแย้งกัน หรือไม่น่าเชื่อถืออย่างมีนัยสำคัญ:
-  - **ฐานที่รับมาใช้อย่างชัดเจน** ซึ่งมี [ผลคุ้มครองที่เต็มที่ที่สุด](core_05_band_integrative.md#fullest-protective-effect) ให้ใช้บังคับจนกว่าจะฟื้นคืนความมีผลตาม **บทที่สิบสองและสิบสาม**
+  - **ฐานที่รับมาใช้อย่างชัดเจน** ซึ่งมี [ผลคุ้มครองที่เต็มที่ที่สุด](../../core_05.045_band_integrative.md#fullest-protective-effect) ให้ใช้บังคับจนกว่าจะฟื้นคืนความมีผลตาม **บทที่สิบสองและสิบสาม**
   - **ฐานที่รับมาใช้อย่างชัดเจน** หมายถึงฉบับหรือ **ฐาน** ที่ผนวกเข้าและติดตามย้อนถึงการรับมาใช้ได้ ซึ่งสายการรับมาใช้ **สนับสนุนอย่างชัดเจน** เมื่อบันทึกไม่น่าเชื่อถือ (วินัยการครอบครองและ **การป้องกันการเบี่ยงเบน** ตามบทที่สิบเจ็ด)
-  - นี่ **ไม่ใช่** การแก้ไขความกำกวมทางรัฐธรรมนูญในสาระสำคัญด้วย [ความเคร่งครัดเชิงนามธรรม](core_05_band_integrative.md#abstract-strictness)
-- **ผลคุ้มครองที่เต็มที่ที่สุดข้ามไฟล์:** เมื่อไฟล์การดำเนินงานที่รับมาใช้ตั้งแต่สองไฟล์ขึ้นไปกำหนดมาตรฐานต่างกันสำหรับความเสี่ยงเดียวกันที่มีขอบเขตสาระสำคัญอย่างมีความหมาย ให้ใช้กฎที่รับมาใช้อย่างชัดเจนซึ่งมี [ผลคุ้มครองที่เต็มที่ที่สุด](core_05_band_integrative.md#fullest-protective-effect) โดยสอดคล้องกับกฎสองข้อข้างต้น
+  - นี่ **ไม่ใช่** การแก้ไขความกำกวมทางรัฐธรรมนูญในสาระสำคัญด้วย [ความเคร่งครัดเชิงนามธรรม](../../core_05.045_band_integrative.md#abstract-strictness)
+- **ผลคุ้มครองที่เต็มที่ที่สุดข้ามไฟล์:** เมื่อไฟล์การดำเนินงานที่รับมาใช้ตั้งแต่สองไฟล์ขึ้นไปกำหนดมาตรฐานต่างกันสำหรับความเสี่ยงเดียวกันที่มีขอบเขตสาระสำคัญอย่างมีความหมาย ให้ใช้กฎที่รับมาใช้อย่างชัดเจนซึ่งมี [ผลคุ้มครองที่เต็มที่ที่สุด](../../core_05.045_band_integrative.md#fullest-protective-effect) โดยสอดคล้องกับกฎสองข้อข้างต้น
   - สถานะของชั้นแหล่งที่มายังคงอยู่ภายใต้ [ลำดับอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#กองอำนาจและลำดบชนภายใน)
-  - การครอบครอง ฉบับต่าง ๆ และกรอบการรับมาใช้ยังคงอยู่ภายใต้ **[บทที่สิบเจ็ด](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**
+  - การครอบครอง ฉบับต่าง ๆ และกรอบการรับมาใช้ยังคงอยู่ภายใต้ **[บทที่สิบเจ็ด](../../core_18.000_incorporation.md)**
   - กฎเดียวกันนี้ใช้เมื่อโปรไฟล์ที่อ้างถึงและป้ายกำกับการดำเนินงานที่อ้างถึงดูเหมือนขัดแย้งกันเกี่ยวกับความเสี่ยงนั้น
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1050,10 +1058,10 @@ flowchart TB
 *กล่าวอย่างง่าย ๆ: เมื่อสถานการณ์หนึ่งเกี่ยวข้องกับไฟล์วิธีปฏิบัติที่ผนวกเข้ามากกว่าหนึ่งไฟล์ — หรือเมื่อเอกสารการรับมาใช้ของคุณทำให้หน้าที่ด้านโครงสร้างร่วมเหล่านั้นมีผล — การทำได้ดีในไฟล์หนึ่งไม่ถือว่าเป็นการปฏิบัติตาม หากยังมีหน้าที่สำคัญอีกข้อหนึ่งสำหรับข้อเท็จจริงเดียวกันที่ไม่ได้ทำให้ครบถ้วน*
 
 กฎการปฏิบัติตามร่วมกันในอนุส่วนนี้เกี่ยวกับการใช้ **ไฟล์วิธีปฏิบัติมากกว่าหนึ่งไฟล์** กับข้อเท็จจริงเดียวกัน ซึ่งไม่เหมือนกับ:
-- กฎสำหรับกลุ่มปฏิบัติการ **กลุ่มเดียว** ในข้อความโครงสร้างร่วมที่ผนวกเข้า ซึ่งการทำเพียงบางส่วนของกลุ่มนั้นไม่นับว่าเป็นการปฏิบัติตาม — ดู **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*กลุ่มปฏิบัติการ*); หรือ
+- กฎสำหรับกลุ่มปฏิบัติการ **กลุ่มเดียว** ในข้อความโครงสร้างร่วมที่ผนวกเข้า ซึ่งการทำเพียงบางส่วนของกลุ่มนั้นไม่นับว่าเป็นการปฏิบัติตาม — ดู **[CJS-1.14](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)** (*กลุ่มปฏิบัติการ*); หรือ
 - กฎในบทที่ห้าที่กำหนดให้ต้องปฏิบัติตามคำจำกัดความของ **กลุ่มที่พึ่งพากัน** พร้อมกัน — ดู **[บทที่ห้า §2.1 การเรียกใช้ร่วมและการปฏิบัติตาม](core_05__definitions_home.md#21-การเรยกใชรวมและการสนอง)**
 
-**อนุส่วนนี้ใช้เมื่อใด** กฎเหล่านี้ใช้ภายในขอบเขตการรับมาใช้และการผนวกเข้าที่ชอบด้วยกฎตาม **[บทที่สิบเจ็ด](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** ในกรณีใดกรณีหนึ่งต่อไปนี้:
+**อนุส่วนนี้ใช้เมื่อใด** กฎเหล่านี้ใช้ภายในขอบเขตการรับมาใช้และการผนวกเข้าที่ชอบด้วยกฎตาม **[บทที่สิบเจ็ด](../../core_18.000_incorporation.md)** ในกรณีใดกรณีหนึ่งต่อไปนี้:
 
 1. **สถานการณ์เดียว มีหลายไฟล์:** ข้อเท็จจริงต้องใช้ไฟล์การดำเนินงานที่ผนวกเข้ามากกว่าหนึ่งไฟล์ — เช่น ระบบ สถาบัน เวที หรือข้อความโครงสร้างร่วม การตัดสินว่าไฟล์ใดใช้บังคับขึ้นอยู่กับขอบเขตการรับมาใช้และการกำหนดเส้นทางหัวข้อที่ไฟล์เหล่านั้นจัดไว้ให้สำหรับข้อเท็จจริง ไม่ใช่การเลือกเฉพาะไฟล์ที่ปฏิบัติตามได้ง่ายที่สุด
 2. **การรับมาใช้ทำให้ชุดโครงสร้างร่วมมีผล:** เครื่องมือการรับมาใช้ใช้ข้อความการดำเนินงานโครงสร้างร่วมที่กำหนดไว้ (โฟลเดอร์ **CJS** และไฟล์โครงสร้างร่วมอื่นใดที่ระบุในสายการรับมาใช้) กับผู้รับไปใช้
@@ -1067,7 +1075,7 @@ flowchart TB
   - ต่อด้วย **CI** (ธรรมาภิบาลและการรับรองของสถาบัน);
   - ต่อด้วย **CF** (หลักคำสอนกลุ่มเวทีในบทที่สิบสอง);
 - ภายในลำดับนี้ ให้อ่านเฉพาะสิ่งที่การกำหนดเส้นทางหัวข้อสำหรับข้อเท็จจริงนั้นกำหนดให้ต้องอ่าน;
-- บรรณาธิการและผู้ตรวจสอบใช้ **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*การกำหนดเส้นทางข้ามไฟล์*)** สำหรับตารางแถวที่เป็นหลักอ้างอิง;
+- บรรณาธิการและผู้ตรวจสอบใช้ **[CJS-0.1](../../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*การกำหนดเส้นทางข้ามไฟล์*)** สำหรับตารางแถวที่เป็นหลักอ้างอิง;
 - การปฏิบัติตามร่วมกันและกฎผลคุ้มครองที่เต็มที่ที่สุดข้ามไฟล์ยังคงใช้ตามที่ระบุไว้ในอนุส่วนนี้และ **§15.4.3** (*ชั้นการผนวกเข้า*)
 
 ภาวะฉุกเฉินอาจจำกัดหน้าที่เหล่านั้นได้ก็ต่อเมื่อการจำกัดนั้น:

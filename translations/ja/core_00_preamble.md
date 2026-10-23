@@ -114,9 +114,9 @@
 
 *平たい言葉で言えば：正当性には安全、真理、信頼が要る。それに加え、自分に影響するシステムを学び、それを動かし続けるうえで結果の伴う役割を取る、実際の機会が要る。*
 
-持続する正当性は、[安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)に依存し、また、適法な責務ある管理、誠実な協力、有界な志向の比例的な承認にも依存する — 制裁と抑制だけではない。第一章はこの承認の次元を、[承認、強化、志向](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)で述べる。
+持続する正当性は、[安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[信頼](core_01_a_values_principles.md)に依存し、また、適法な責務ある管理、誠実な協力、有界な志向の比例的な承認にも依存する — 制裁と抑制だけではない。第一章はこの承認の次元を、[承認、強化、志向](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)で述べる。
 
-分散した理解と責務ある管理は、私たちに実質的に影響するシステムがどう動くかを学ぶ、定期的で比例的な機会を感知者が持つことを求める。さらに、その維持と改善において結果の伴う役割を取る力を私たちに与える — そうして能力、修復能力、正当性が私たちの憲法共同体に広く行き渡り、回復力、持続可能性、向社会的な革新を確保する。それらの機会は、安全、真理、有界な行為主体性、および[第一章](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)に述べられた[回避可能な負担](../../core_05_band_continuity.md#avoidable-burden)と比例性の規律を満たさなければならない。
+分散した理解と責務ある管理は、私たちに実質的に影響するシステムがどう動くかを学ぶ、定期的で比例的な機会を感知者が持つことを求める。さらに、その維持と改善において結果の伴う役割を取る力を私たちに与える — そうして能力、修復能力、正当性が私たちの憲法共同体に広く行き渡り、回復力、持続可能性、向社会的な革新を確保する。それらの機会は、安全、真理、有界な行為主体性、および[第一章](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)に述べられた[回避可能な負担](../../core_05_band_continuity.md#avoidable-burden)と比例性の規律を満たさなければならない。
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 統治における測定の用い方
@@ -169,7 +169,7 @@
 
 各要約は、その章が何を所管し、何を産出するかを述べる。
 
-**第一章 — 価値、原則、責務ある管理**（[A部](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B部](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C部](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance)）
+**第一章 — 価値、原則、責務ある管理**（[A部](core_01_a_values_principles.md) · [B部](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C部](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance)）
 
 - **その職掌：** 憲法の指針となる価値と制約を述べる — 福祉、公正、安全、真理、信頼、有界な自由、適法な貢献に対する承認と比例的報酬、原則間の衝突解決、および責務ある管理の義務（分散した理解、システム評価、統治の規律を含む）。
 - **その産出：** 後続のすべての章の解釈基礎 — システム、権利、定義、プロセスパイプラインを読んで適用しなければならないときに、高次の目的を操作性の要求に変える規則。
@@ -227,7 +227,7 @@
 - **その職掌：** 検証済み分類を、現実世界の**軌跡効果**に、別軌道で統合する — [**実質的利害**](#material-stake)に応じて尺度を合わせ、貢献と違反を一つの純得点に折り畳まず、参加、監督、説明責任、適時性を空洞化しない。
   - **貢献軌道：** 検証済みの肯定分類は、実務上の上側を生む：
     - [**能力許可**](../../core_11_standing_integration.md#62-competency-bars-and-clearances)は、公表された能力の閾に照らして能力が示され、適用される[軌跡ロック](../../core_11_standing_integration.md#42-prevention--general-standing-locks)が指名された経路を塞がないとき、信頼に敏感な役割、委任された権限、監督適格、段階的に結果の伴う責務ある管理を開きうる
-    - [第一章](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)が求める、適法な責務ある管理と協力に対する比例的承認と**実質的報酬**
+    - [第一章](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)が求める、適法な責務ある管理と協力に対する比例的承認と**実質的報酬**
     - 空の称賛ではない。便益は実際であり、証拠に支えられ、異議に開かれていなければならない
   - **違反軌道：** 検証済みの違反認定は、実務上の下側を生む：
     - **軌跡ロック**、役割の制限、是正命令、[危害を受けた者への救済](../../core_11_standing_integration.md#41-remedy-and-correction)、補充記述子、執行フック

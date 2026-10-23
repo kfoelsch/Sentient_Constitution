@@ -20,7 +20,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [بوصلة الفصل الخامس](core_05__definitions_home.md#بوصلة-الفصل-الخامس-وخريطة-التعريفات)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) (رجل المشاركة؛ القياس بـ[الرهان المادي](core_00_preamble.md#material-stake))؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ المقصد الأولي [الازدهار](core_00_preamble.md#flourishing).
-- أسفل: المبادئ: [الديباجة §1 النموذج](core_00_preamble.md#the-model)؛ [الفصل الأول §5 الحرية](core_01_a_values_principles.md#5-freedom-bounded-agency)؛ [§9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)؛ [§11.1.5 انضباط ادعاءات النتائج الدستورية](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [المشاركة النظامية للأطراف المتأثرة](../../core_05.055_band_participation.md#stakeholder-status-and-weight) حيث تنطبق طبقة المشاركة النظامية للأطراف المتأثرة؛ [تفكيك رجل الرباعية](#participation-tetrad-leg-decomposition)؛ التعريفات الطرفية لنطاق المشاركة في [core_05_band_participation.md](../../core_05.055_band_participation.md).
+- أسفل: المبادئ: [الديباجة §1 النموذج](core_00_preamble.md#the-model)؛ [الفصل الأول §5 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)؛ [§9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md)؛ [§11.1.5 انضباط ادعاءات النتائج الدستورية](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)؛ [المشاركة النظامية للأطراف المتأثرة](../../core_05.055_band_participation.md#stakeholder-status-and-weight) حيث تنطبق طبقة المشاركة النظامية للأطراف المتأثرة؛ [تفكيك رجل الرباعية](#participation-tetrad-leg-decomposition)؛ التعريفات الطرفية لنطاق المشاركة في [core_05_band_participation.md](../../core_05.055_band_participation.md).
 - يُقرأ مع: [الوكالة ذات المعنى](../../core_05.055_band_participation.md#meaningful-agency)، [قابلية الطعن](../../core_05.035_band_accountability.md#contestability) (حدود المشاركة/المساءلة)، [تيسير الوصول](../../core_05.055_band_participation.md#accessibility)، [الإنصاف الموضوعي](../../core_05.055_band_participation.md#substantive-fairness)، [الاختيار الملزم للأطراف المتأثرة](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice)، [حسن التوقيت](core_05_apex_timeliness_leg.md#timeliness-constitutional) (مشاركة في وقتها)، [الحوكمة المقاسة على التصنيف](../../core_05.050_band_oversight.md#classification-scaled-governance)، وأسرة قياس المشاركة.
 
 </details>
@@ -62,7 +62,7 @@
     - [الإنصاف الموضوعي](../../core_05.055_band_participation.md#substantive-fairness)؛
     - [وزن الطرف المتأثر](../../core_05.055_band_participation.md#stakeholder-weight)؛
     - [استيلاء النظام](../../core_05.040_band_continuity.md#system-capture)؛ و
-    - [الفصل الأول §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [الفصل الأول §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: غير ممتثل عندما:
   - يوجد إقصاء هيكلي؛

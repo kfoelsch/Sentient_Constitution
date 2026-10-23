@@ -122,16 +122,16 @@ def forward_insert_chapter_seven(text: str) -> str:
     text = _replace_paths(text)
     text = _replace_chapter_references(text)
     text = text.replace(
-        "core_01.015_stewardship_capacity_principles.md#102-segregation-of-duties",
-        "core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor",
+        "core_01.015_stewardship_capacity_principles.md#102-separation-of-duties",
+        "core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement",
     )
     text = text.replace(
-        "Chapter One §10.2 Segregation of Duties",
-        "Chapter Seven §2 Four-Seat Constitutional Floor",
+        "Chapter One §10.2 Separation of Duties",
+        "Chapter Seven §2 Four-Seat Constitutional Requirement",
     )
     text = text.replace(
-        "Chapter One §10.2 *Segregation of duties*",
-        "Chapter Seven §2 *Four-seat constitutional floor*",
+        "Chapter One §10.2 *Separation of duties*",
+        "Chapter Seven §2 *Four-Seat Constitutional Requirement*",
     )
     return text
 

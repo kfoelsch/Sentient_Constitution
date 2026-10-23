@@ -63,9 +63,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: [제1장 §5 자유](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. 과정 충돌 해소](#6-process-conflict-resolution); [제12장 §0](#0-layer-boundary-for-this-chapter).
+- 상류: 원칙: [제1장 §5 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md), [5. 과정 충돌 해소](core_12_governance.md); [제12장 §0](#0-layer-boundary-for-this-chapter).
 - 하위절: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*메커니즘 가족, 감사 가능성, 다원*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*자격, 경합 선정, 민주 최소*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*소환-급 명명된 경로와 주기 중 이전 난간*).
-- 하류: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) 아래 완전성, 전략, 투표, 역할 의무; [제15장](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) 아래 채택과 비준; 제6장의 정당성, 참여, 다툴 수 있음 — 특히 [제 XII-C조: 정당성 문과 토큰 참여 금지](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status), 그리고 아래 운영 글머리에 열쇠 달린 표현, 집회, 절차 공정 조.
+- 하류: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) 아래 완전성, 전략, 투표, 역할 의무; [제15장](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) 아래 채택과 비준; 제6장의 정당성, 참여, 다툴 수 있음 — 특히 [제 XII-C조: 정당성 문과 토큰 참여 금지](core_06_rights_part_b.md), [제 XVIII조: 궤적과 참여 지위](core_06_rights_part_c.md), 그리고 아래 운영 글머리에 열쇠 달린 표현, 집회, 절차 공정 조.
 - 함께 읽기: 이 절이 이름 붙인 지정 **코퍼스**와 **[corpus_systems.md](../../corpus_systems.md)** 고리([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -179,7 +179,7 @@
 - [**완전성**](core_11_forum.md#45-integrity-forums), [**헌법**](core_11_forum.md#46-constitutional-forums), [**환경**](core_11_forum.md#44-environment-forums) 포럼, 그리고 감지 지위 재결을 들을 때의 [**기술 포럼 영역**](core_11_forum.md#42-technical-forum-domains)은 **공표되고**, **경합되며**, **순환 가능한** 임명 또는 동등한 독립 점검(추첨, 연방 지정, 또는 견줄 만한 것)을 통해 채워져야 한다.
 - 이 바닥은 **메커니즘 중립**이다: 단일한 정치체 유형이나 단일한 임명 방법을 강제하지 않는다.
 - 그 벤치를 [제9장 §9.2](core_09_standing_integration.md#92-remedy-system-durability) 구제 체계 지속 바닥까지 임명하거나 재정을 대지 못하는 것은 정당성과 구제 실패이지, 시행이 열어 둘 수 있는 공백이 아니다.
-- 임명, 역량, 순환, 해임 기계는 [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*임명, 역량, 순환, 해임*)가 다스린다; **CI-4**는 이 바닥을 좁혀서는 안 된다.
+- 임명, 역량, 순환, 해임 기계는 [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*임명, 역량, 순환, 해임*)가 다스린다; **CI-4**는 이 바닥을 좁혀서는 안 된다.
 
 <a id="13-recall-class-pathways-and-mid-cycle-transfer-guardrails"></a>
 #### 1.3 소환-급 명명된 경로와 주기 중 이전 난간
@@ -236,8 +236,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: [3. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4. 타협 불가 제약: 안전과 진실](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [제12장 §1](#1-authorization-and-legitimacy-of-governing-authority) 규칙 만들기 권력 안의 책임 있는 관리를 위한 수권 범위.
-- 하류: 하위절 [3.1](#31-stewardship-direction)과 [3.2](#32-ecosystem-value-orientation); [*전략적 책임 있는 관리 의무*](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional), [*검토와 시정 의무*](../../core_05_band_continuity.md#review-and-correction-duty-constitutional), [*부담 감축 의무*](../../core_05_band_continuity.md#burden-reduction-duty-constitutional), [*책임 있는 관리 결함*](../../core_05_band_continuity.md#stewardship-defect-constitutional)의 책임 있는 관리 요건에 대한 정전 정의, [**Def.C2** 책임 있는 관리 복합 무리](../../core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)를 통해 읽으며, 적용되는 곳에서 [제1장 §6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)과 ([*피할 수 있는 부담*](../../core_05_band_continuity.md#avoidable-burden); [*생산 능력*](../../core_05_band_continuity.md#productive-capacity-constitutional); [*헌법 효율*](../../core_05_band_continuity.md#constitutional-efficiency))로의 상호 참조를 포함.
+- 상류: 원칙: [3. 기초 목표: 복지](core_01_a_values_principles.md), [4. 타협 불가 제약: 안전과 진실](core_01_a_values_principles.md); [제12장 §1](#1-authorization-and-legitimacy-of-governing-authority) 규칙 만들기 권력 안의 책임 있는 관리를 위한 수권 범위.
+- 하류: 하위절 [3.1](#31-stewardship-direction)과 [3.2](#32-ecosystem-value-orientation); [*전략적 책임 있는 관리 의무*](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional), [*검토와 시정 의무*](../../core_05_band_continuity.md#review-and-correction-duty-constitutional), [*부담 감축 의무*](../../core_05_band_continuity.md#burden-reduction-duty-constitutional), [*책임 있는 관리 결함*](../../core_05_band_continuity.md#stewardship-defect-constitutional)의 책임 있는 관리 요건에 대한 정전 정의, [**Def.C2** 책임 있는 관리 복합 무리](../../core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)를 통해 읽으며, 적용되는 곳에서 [제1장 §6.3](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)과 ([*피할 수 있는 부담*](../../core_05_band_continuity.md#avoidable-burden); [*생산 능력*](../../core_05_band_continuity.md#productive-capacity-constitutional); [*헌법 효율*](../../core_05_band_continuity.md#constitutional-efficiency))로의 상호 참조를 포함.
 - 함께 읽기: [제6장](core_06_rights_part_a.md#chapter-six-foundational-rights) 권리 바닥; 본문이 이름 붙인 [*생산 능력*](../../core_05_band_continuity.md#productive-capacity-constitutional), [*헌법 효율*](../../core_05_band_continuity.md#constitutional-efficiency), [*피할 수 있는 부담*](../../core_05_band_continuity.md#avoidable-burden), 책임 있는 관리 의무 정의를 위한 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
@@ -281,7 +281,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [제1장 §12.1](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (*수단적 선으로서의 생산 능력*).
+- 상류: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [제1장 §12.1](core_01_c_stewardship_capacity_principles.md) (*수단적 선으로서의 생산 능력*).
 - 하류: 결과와 대리지표 규율은 [§4](#4-voting-and-binding-collective-choice-protocols)–[§5](#5-authorized-roles-competency-development-and-contribution)를 통해 이어진다; 운영 텍스트가 이름 붙인 제5장 (*대리지표 이탈*; *헌법 효율*; *피할 수 있는 부담*).
 - 함께 읽기: [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions)의 [*생산 능력*](../../core_05_band_continuity.md#productive-capacity-constitutional)과 관련 경계 정의.
 
@@ -320,8 +320,8 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§4](#4-voting-and-binding-collective-choice-protocols) 집단 선택 틀; [§1](#1-authorization-and-legitimacy-of-governing-authority) 구속력 있는 선택 절차를 위한 정당성 메커니즘.
-- 하류: [제 X-C조: 거버넌스 참여와 투표 자격](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status)의 거버넌스 참여와 궤적; [제5장 — 기초 헌법 선택](core_05_band_integrative.md#foundational-constitutional-choice)과 운영 텍스트가 라우팅하는 관련 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) 항목의 기초 헌법 선택과 영향받는 쪽 기계; 자격을 갖춘 **위반 축 s = 7, 8, 또는 9** 소견에 대한 **최종 반헌법 부당행위 지정**과 이 하위절의 **반헌법 부당행위 — 원상회복 선행 조건** 조항에 묶인 적법절차 안전장치를 위한 **제10장** (*반헌법 부당행위*).
-- 함께 읽기: [§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice); 고영향 정당성 문을 위한 [제 XII-C조: 정당성 문과 토큰 참여 금지](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation); 자격을 갖춘 **위반 축 s = 7, 8, 또는 9** 소견에 대한 최종 **반헌법 부당행위 지정**을 위한 [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
+- 하류: [제 X-C조: 거버넌스 참여와 투표 자격](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement), [제 XVIII조: 궤적과 참여 지위](core_06_rights_part_c.md)의 거버넌스 참여와 궤적; [제5장 — 기초 헌법 선택](core_05_band_integrative.md#foundational-constitutional-choice)과 운영 텍스트가 라우팅하는 관련 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) 항목의 기초 헌법 선택과 영향받는 쪽 기계; 자격을 갖춘 **위반 축 s = 7, 8, 또는 9** 소견에 대한 **최종 반헌법 부당행위 지정**과 이 하위절의 **반헌법 부당행위 — 원상회복 선행 조건** 조항에 묶인 적법절차 안전장치를 위한 **제10장** (*반헌법 부당행위*).
+- 함께 읽기: [§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice); 고영향 정당성 문을 위한 [제 XII-C조: 정당성 문과 토큰 참여 금지](core_06_rights_part_b.md); 자격을 갖춘 **위반 축 s = 7, 8, 또는 9** 소견에 대한 최종 **반헌법 부당행위 지정**을 위한 [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
 
 </details>
 
@@ -418,7 +418,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§4.1](#41-entitlement-and-eligibility)–[§4.2](#42-records-gates-and-method-neutrality) 자격, 기록, 정당성 문 요건.
-- 하류: [제 XXV-B조: 권리 충돌 절차와 회복적 정합](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)과 참조된 [제1장 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 아래 권리 충돌 규율; 제6장의 다툼과 재개방 명명된 경로.
+- 하류: [제 XXV-B조: 권리 충돌 절차와 회복적 정합](core_06_rights_part_d.md)과 참조된 [제1장 §6.1.5](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) 아래 권리 충돌 규율; 제6장의 다툼과 재개방 명명된 경로.
 - 함께 읽기: [Def.P2 구속력 있는 영향받는 쪽 선택](../../core_05_band_participation.md#binding-stakeholder-choice-cluster), [구속력 있는 영향받는 쪽 선택 — 결정 해소 요건](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process), [영향받는 쪽 대표와 무게 한도 (구속력 있는 영향받는 쪽 선택)](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [영향받는 쪽 권리 충돌 기록 (구속력 있는 영향받는 쪽 선택)](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice)을 포함; 권리에 실질로 영향을 미치는 과정 설계를 위한 [제6장: 기초 권리](core_06_rights_part_a.md#chapter-six-foundational-rights)와 [비상 사전 심의 행위 (구속력 있는 집단 선택)](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice)과도 읽으라.
 
 </details>
@@ -431,14 +431,14 @@
 
 - **구조화된 순서, 먼저 국소 심의, 다원 평가, 재개방:** [구속력 있는 영향받는 쪽 선택 — 결정 해소 요건](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process).
 - **영향받는 쪽 대표와 무게 한도:** [영향받는 쪽 대표와 무게 한도 (구속력 있는 영향받는 쪽 선택)](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) ([§4.1](#41-entitlement-and-eligibility)에서도 상호 참조).
-- **영향받는 쪽 권리 충돌 규율:** [영향받는 쪽 권리 충돌 기록 (구속력 있는 영향받는 쪽 선택)](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — **제 XXV-B조** (*권리 충돌 절차와 회복적 정합*)와 [제1장 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)와 함께 읽으라.
+- **영향받는 쪽 권리 충돌 규율:** [영향받는 쪽 권리 충돌 기록 (구속력 있는 영향받는 쪽 선택)](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — **제 XXV-B조** (*권리 충돌 절차와 회복적 정합*)와 [제1장 §6.1.5](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)와 함께 읽으라.
 - **비상 예외:** [비상 사전 심의 행위 (구속력 있는 집단 선택)](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — 다음과 함께 읽으라:
   - [영향받는 쪽 비상과 비상사태](../../core_05_band_continuity.md#stakeholder-emergency-and-contingency);
   - 통치 권한의 수권이 걸리는 곳의 [헌법 비상과 비상사태](../../core_05_band_continuity.md#constitutional-emergency-and-contingency);
   - [비상과 비상사태](../../core_05_band_continuity.md#emergency-and-contingency-constitutional); 그리고
   - **제 XXIV-D조** (*비상 조치와 계속 부담*).
 
-**범위 증서 포인터 규칙.** 주관하는 [범위 증서](../../core_05_band_continuity.md#charter)는 운영되는 범위를 말하며, Def.P2 인정 범위가 적용되는 곳, 이 절을 충족하는 공표된 과정 규칙을 **가리켜야** 한다. 범위 증서는 결정 순서, 무게 모형, 또는 권리 충돌 기록을 싣지 않는다. 그 자료의 제도 공표는 **CI-8.1** / **CI-8.2** 아래 살며, 범위 증서 포인터는 **CI-3.6** 칸 10이 요구한다.
+**범위 증서 포인터 규칙.** 주관하는 [범위 증서](../../core_05.040_band_continuity.md)는 운영되는 범위를 말하며, Def.P2 인정 범위가 적용되는 곳, 이 절을 충족하는 공표된 과정 규칙을 **가리켜야** 한다. 범위 증서는 결정 순서, 무게 모형, 또는 권리 충돌 기록을 싣지 않는다. 그 자료의 제도 공표는 **CI-8.1** / **CI-8.2** 아래 살며, 범위 증서 포인터는 **CI-3.6** 칸 10이 요구한다.
 
 **상호 참조 (4절):** 하위절 **4.1–4.2**는 **제6장**, **제 X-C조** (*거버넌스 참여와 투표 자격*)와 함께 투표 요건을 말한다. 채택된 거버넌스, 체계, 제도 시행 텍스트는 투표의 **기술** 시행이 분류된 체계, 데이터 취급, 책임 있는 관리자 의무, 또는 지정된 제도 절차에 닿는 곳에서 적용되는 규칙을 제공한다.
 
@@ -450,8 +450,8 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols) 권한이 집단 선택에서 어떻게 수권되고, 기록되고, 행사되는가.
-- 하류: [제 XII-D조: 내부 역할, 책무, 적법절차 요건](../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements)의 역할 완전성과 적법절차 요건; 아래 인용된 [corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md), [corpus_joint_structure.md](../../corpus_joint_structure.md)의 **코퍼스** 설계와 레인 고리.
-- 함께 읽기: 운영 텍스트가 참조하는 시행 코퍼스의 **[corpus_systems.md](../../corpus_systems.md)** (**CS-4 — 핵심 체계 책임 있는 관리**, CS-9)와 **CI-4** / **CI-11** / **CI-12**; [제1장 §9.1.1 공유 책임 있는 관리 표준](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) (*기반에 무관한 의무; 동반은 기록, 귀속, 능력 한도를 더할 수 있다 — 더 부드러운 내부 규범이 아님*); [§9.1.2 대칭 비용 제약](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
+- 하류: [제 XII-D조: 내부 역할, 책무, 적법절차 요건](core_06_rights_part_b.md)의 역할 완전성과 적법절차 요건; 아래 인용된 [corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md), [corpus_joint_structure.md](../../corpus_joint_structure.md)의 **코퍼스** 설계와 레인 고리.
+- 함께 읽기: 운영 텍스트가 참조하는 시행 코퍼스의 **[corpus_systems.md](../../corpus_systems.md)** (**CS-4 — 핵심 체계 책임 있는 관리**, CS-9)와 **CI-4** / **CI-11** / **CI-12**; [제1장 §9.1.1 공유 책임 있는 관리 표준](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*기반에 무관한 의무; 동반은 기록, 귀속, 능력 한도를 더할 수 있다 — 더 부드러운 내부 규범이 아님*); [§9.1.2 대칭 비용 제약](core_01_c_stewardship_capacity_principles.md).
 
 </details>
 
@@ -461,7 +461,7 @@
 
 실질 책임 있는 관리와 운영은, 종이 위에 그것을 나누는 **구조**만이 아니라, 권한을 **능숙하게** **행사**할 수 있는 **감지자**를 요구한다.
 
-- **수권된 역할과 역량 바닥:** 채택 주체는 영향과 분류에 비례하는, 문서화되고, 감사 가능하고, 다툴 수 있는 역할 정의와 역량 또는 승계 능력을 유지해야 한다. 역할 정의는 행위마다 [제1장 §10.2 직무 분리](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) 아래 그 역할이 쥐는 좌석을 말하고, 운영 경계를 말한다. 그 좌석은 누가 다음을 할 수 있는가다:
+- **수권된 역할과 역량 바닥:** 채택 주체는 영향과 분류에 비례하는, 문서화되고, 감사 가능하고, 다툴 수 있는 역할 정의와 역량 또는 승계 능력을 유지해야 한다. 역할 정의는 행위마다 [제1장 §10.2 직무 분리](core_01_c_stewardship_capacity_principles.md) 아래 그 역할이 쥐는 좌석을 말하고, 운영 경계를 말한다. 그 좌석은 누가 다음을 할 수 있는가다:
   - 요청;
   - 확인;
   - 기록;
@@ -471,8 +471,8 @@
   - 증거를 공개.
   좌석 유형과 경계는 **CI-4.6** (*좌석 목록*)에 고정되며, 국소 역할 정의가 그것을 구현하고 넓혀서는 안 된다. 헌법 의무는 감지자 수준의 단일 실패점에 의존해서는 안 된다. **`corpus_systems.md`** 분류 프로필과 **`corpus_institutions.md`** 레인 설계를 결합하는 등급에 맞춰 세기 조절된 레인 인력과 역량 중복 연동은 **CJS-2.4** (*등급에 맞춰 세기 조절된 레인 인력과 역량 중복*)와 그 라우팅된 주관 고리를 통해 적용된다.
 - **열린 책임 있는 관리 개발 명명된 경로와 유인 완전성 바닥:** 자격 있는 감지자는 점차 더 중대한 책임 있는 관리 책임으로의 자의적이지 않은 책임 있는 관리 개발 명명된 경로를 가져야 하며, 책임 있는 관리 유인은 선의의 안전 또는 완전성 격상에 부담을 지우지 않고 헌법 돌봄을 보상해야 한다.
-- **상징 금지 규칙:** 실질로 구속력 있는 결정에 실제 권한과 역량이 요구되는 곳에서, 직함이나 자문 포럼은 이 절을 충족하지 않는다. 세부 역할 분류, 자격/승계 통제, 책임 있는 관리 개발 명명된 경로 접근 시행, 유인 거버넌스 기계는 [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*임명, 역량, 순환, 해임*), **CI-11** (*자원 책임 있는 관리와 유인 완전성*), **CI-12** (*투명, 참여, 접근 가능한 명명된 경로*)가 다스린다.
-- **공유 책임 있는 관리 표준:** 이 절 아래 역할 정의와 역량 규칙은 **제1장 §9.1.1**의 [공유 책임 있는 관리 표준](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)과 [§9.1.2 대칭 비용 제약](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)을 적용한다. 기반 특정 의무 스택을 만들어서는 안 되며, AI 책임 있는 관리자를 묶는 비용 있는 사례에서 인간 운영자를 면제해서는 안 된다. 확인된 실패는 같은 제8장 축에 기록된다; [제9장 §5.4 저항 의무](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)는 둘을 묶는다.
+- **상징 금지 규칙:** 실질로 구속력 있는 결정에 실제 권한과 역량이 요구되는 곳에서, 직함이나 자문 포럼은 이 절을 충족하지 않는다. 세부 역할 분류, 자격/승계 통제, 책임 있는 관리 개발 명명된 경로 접근 시행, 유인 거버넌스 기계는 [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*임명, 역량, 순환, 해임*), **CI-11** (*자원 책임 있는 관리와 유인 완전성*), **CI-12** (*투명, 참여, 접근 가능한 명명된 경로*)가 다스린다.
+- **공유 책임 있는 관리 표준:** 이 절 아래 역할 정의와 역량 규칙은 **제1장 §9.1.1**의 [공유 책임 있는 관리 표준](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)과 [§9.1.2 대칭 비용 제약](core_01_c_stewardship_capacity_principles.md)을 적용한다. 기반 특정 의무 스택을 만들어서는 안 되며, AI 책임 있는 관리자를 묶는 비용 있는 사례에서 인간 운영자를 면제해서는 안 된다. 확인된 실패는 같은 제8장 축에 기록된다; [제9장 §5.4 저항 의무](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)는 둘을 묶는다.
 
 **상호 참조 (5절):** **제 XII-D조** (*내부 역할, 책무, 적법절차 요건*); 역할 완전성에 관한 채택된 거버넌스 시행; **[corpus_systems.md](../../corpus_systems.md), CS-4 — 핵심 체계 책임 있는 관리**와 **CS-9**; 그리고 **corpus_institutions.md** (**CI-4** (*임명, 역량, 순환, 해임*), **CI-11** (*자원 책임 있는 관리와 유인 완전성*), **CI-12** (*투명, 참여, 접근 가능한 명명된 경로*), 적용되는 관련 절).
 

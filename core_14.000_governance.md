@@ -95,7 +95,7 @@ Recognized mechanism families include:
   - patronage;
   - factional gatekeeping; or
   - pre-selection bribery.
-- **Integrity floor:** A sortition mechanism that exercises or materially shapes **governing authority** must publish:
+- **Integrity requirement:** A sortition mechanism that exercises or materially shapes **governing authority** must publish:
   - auditable selection rules;
   - eligibility boundaries;
   - exclusion grounds;
@@ -171,7 +171,7 @@ Recognized mechanism families include:
 
 **Selection-funding boundaries**
 
-- **Scope:** These boundaries apply where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment. They do not apply to sortition, which has its own integrity floor above, or to the ratification votes of member bodies in federated or treaty designs.
+- **Scope:** These boundaries apply where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment. They do not apply to sortition, which has its own integrity requirement above, or to the ratification votes of member bodies in federated or treaty designs.
 - **Disclosure:** Material money, in-kind support, or organized campaigning by an [**interested party**](core_05.035_band_accountability.md#interested-party) for a candidate, nominee, or appointer must be disclosed publicly before the selection is decided, in time for the authorizing community to weigh it.
     - The disclosure must name the real source, not only the intermediary, and must be published in a public, searchable, machine-readable register.
     - A donor who shows a credible risk of retaliation may use a **protected-identity route**. The amount and the fact of the gift stay public.
@@ -203,12 +203,12 @@ Recognized mechanism families include:
 - **Mechanism-neutral:** These boundaries set no spending limit and require no public financing. A design in which undisclosed or ineligible funding can decide a selection fails the **contested selection** check above. Where external law forbids a boundary, the adopter applies it as far as that law allows and publishes the gap, as [Chapter Sixteen](core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law) provides.
 - **Opposition protection:** These rules must not be used to deter the organizing, communication, and dissent protected by **opposition protection** above.
 
-**Forum appointment independence floor**
+**Forum appointment independence requirement**
 
 - [**Integrity**](core_13.000_forum.md#45-integrity-forums), [**Constitutional**](core_13.000_forum.md#46-constitutional-forums), and [**Environment**](core_13.000_forum.md#44-environment-forums) forums, and [**Technical Forum Domains**](core_13.000_forum.md#42-technical-forum-domains) when they hear sentience-status adjudication, must be staffed through **published**, **contested**, **rotatable** appointment or an equivalent independence check (sortition, federated designation, or comparable).
-- This floor is **mechanism-neutral**: it does not mandate a single polity type or a single appointment method.
-- Failure to appoint or fund those benches to the [Chapter Eleven §9.2 Remedy-system durability](core_11.000_standing_integration.md#92-remedy-system-durability) remedy-system durability floor is a legitimacy and remedy failure, not a gap that implementation may leave open.
-- Appointment, competency, rotation, and removal mechanics are governed by [**CI-14.205**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*); **CI-14.205** (*Appointment, competency, rotation, and removal*) must not narrow this floor.
+- This requirement is **mechanism-neutral**: it does not mandate a single polity type or a single appointment method.
+- Failure to appoint or fund those benches to the [Chapter Eleven §9.2 Remedy-system durability](core_11.000_standing_integration.md#92-remedy-system-durability) remedy-system durability minimum is a legitimacy and remedy failure, not a gap that implementation may leave open.
+- Appointment, competency, rotation, and removal mechanics are governed by [**CI-14.205 §1**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement) (*Shared staffing and competency requirement*) through [**CI-14.205 §5**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*Authorized roles and accountability chains*); they must not narrow this requirement.
 
 #### 1.3 Recall-class pathways and mid-cycle transfer guardrails
 
@@ -443,7 +443,7 @@ This subsection sets out the record, gate, and method-neutrality requirements fo
   - electorate or weighting model; and
   - quorum or threshold logic.
   They should identify the method for recording assent before the decision event where feasible.
-- **Integrity and verifiability floor:** Outcome records must support independent verification proportionate to impact. Material integrity defects must trigger review under Chapter Six and owner-layer procedures. Those defects include:
+- **Integrity and verifiability requirement:** Outcome records must support independent verification proportionate to impact. Material integrity defects must trigger review under Chapter Six and owner-layer procedures. Those defects include:
   - eligibility;
   - custody;
   - tally; and
@@ -527,7 +527,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 Material stewardship and operation require **sentients** who can **exercise** authority **competently**, not only **structures** that distribute it on paper.
 
-- **Authorized-role and competency floor:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. A role definition states, act by act, which seats the role holds under [Chapter Eight §2 Four-Seat Constitutional Floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor), and states its operational boundary. Those seats are who may:
+- **Authorized-role and competency requirement:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. A role definition states, act by act, which seats the role holds under [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement), and states its operational boundary. Those seats are who may:
   - request;
   - verify;
   - record;
@@ -536,9 +536,9 @@ Material stewardship and operation require **sentients** who can **exercise** au
   - set participation terms; or
   - release evidence.
   The seat types and boundaries are fixed in **CI-14.205 §6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine **`corpus_systems.md`** classification profile with **`corpus_institutions.md`** lane design are applied through **CJS-18.110 §4** (*Class-scaled lane staffing and competency redundancy*) and its routed owner hooks.
-- **Open stewardship-development pathways and incentive integrity floor:** Qualified sentients must have non-arbitrary stewardship-development pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
+- **Open stewardship-development pathways and incentive integrity requirement:** Qualified sentients must have non-arbitrary stewardship-development pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
 - **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, stewardship-development pathway access implementation, and incentive-governance mechanics are governed by [**CI-14.205**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-6.215** (*Resource stewardship and incentive integrity*).
-- **Portable competence:** The no-single-point-of-failure floor above carries out [Chapter One §17.6 Portable Competence](core_01.015_stewardship_capacity_principles.md#176-portable-competence). Coverage, exercised handoffs, and cross-functional understanding are scaled to impact and classification; rotation is a tool, not a duty.
+- **Portable competence:** The no-single-point-of-failure requirement above carries out [Chapter One §17.6 Portable Competence](core_01.015_stewardship_capacity_principles.md#176-portable-competence). Coverage, exercised handoffs, and cross-functional understanding are scaled to impact and classification; rotation is a tool, not a duty.
 - **Shared stewardship standard:** Role definitions and competency rules under this section apply the [shared stewardship standard](core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard) in **Chapter One §17.1** (*Shared Stewardship Standard*) and [Chapter One §17.2 Alignment Under Pressure](core_01.015_stewardship_capacity_principles.md#172-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Ten axes; [Chapter One §17.5 Duty to Resist](core_01.015_stewardship_capacity_principles.md#175-duty-to-resist) binds both.
 
 **Cross-reference (section 5):** **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*); adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), CS-14.305 — Critical system stewardship** and **CS-6.335** (*Resource allocation and funding stewardship*); and **corpus_institutions.md** (**CI-14.205** (*Appointment, competency, rotation, and removal*), **CI-6.215** (*Resource stewardship and incentive integrity*), and related sections as applicable).

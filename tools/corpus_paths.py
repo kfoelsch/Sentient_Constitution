@@ -29,7 +29,7 @@ CORE_FILES = (
     "core_05.055_band_participation.md",
     "core_05.060_band_performance.md",
     "core_07.000_charters.md",
-    "core_08.000_functional_independence_segregation_of_duties.md",
+    "core_08.000_functional_independence_separation_of_duties.md",
     "core_09.005_system_alignment_certification_evaluation.md",
     "core_09.010_system_alignment_certification_record_process.md",
     "core_09.015_system_alignment_certification_illustrations.md",

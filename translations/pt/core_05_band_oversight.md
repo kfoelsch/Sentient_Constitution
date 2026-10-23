@@ -12,7 +12,7 @@
 >
 > **Anterior (este idioma):** [core_05_band_integrative.md](core_05_band_integrative.md)
 >
-> **Próximo (este idioma):** [core_05_band_participation.md](core_05_band_participation.md)
+> **Próximo (este idioma):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 > **Arco de leitura:** termos independentes → semi-independentes → aglomerados dependentes Def.O1–Def.O2
 
 </details>
@@ -49,7 +49,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Ler com: [Risco](core_05_band_continuity.md#risk), [Dependência](core_05_band_continuity.md#dependency) e [Captura do sistema](core_05_band_continuity.md#system-capture).
+- Ler com: [Risco](../../core_05.040_band_continuity.md#risk), [Dependência](../../core_05.040_band_continuity.md#dependency) e [Captura do sistema](../../core_05.040_band_continuity.md#system-capture).
 
 </details>
 
@@ -58,7 +58,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 *Em termos simples: como um sistema se comporta sob pressão — quando sencientes o jogam, coordenam através de contas, o operam em escala massiva ou o usam mal de propósito.*
 
 - **O que é**
-  - **No âmbito:** Condições de operação em que sistemas ou atores se comportam para maximizar vantagem de modos que podem alterar o [Risco](core_05_band_continuity.md#risk), a [Dependência](core_05_band_continuity.md#dependency) ou a [Captura do sistema](core_05_band_continuity.md#system-capture), inclusive:
+  - **No âmbito:** Condições de operação em que sistemas ou atores se comportam para maximizar vantagem de modos que podem alterar o [Risco](../../core_05.040_band_continuity.md#risk), a [Dependência](../../core_05.040_band_continuity.md#dependency) ou a [Captura do sistema](../../core_05.040_band_continuity.md#system-capture), inclusive:
     - abuso da estrutura do sistema;
     - coordenação através de instâncias;
     - implantação em alta escala — volume, concorrência ou alcance em que a conduta ou os efeitos podem diferir do uso em pequena escala ou de laboratório ideal;
@@ -69,14 +69,14 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 - **Como medir e avaliar**
   - **Medida primária:** [Família de medição Supervisão](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Podem os sencientes ver, verificar e confiar no que os sistemas representam?* Use-a aqui para perguntar se a supervisão ainda funciona sob jogo, escala, coordenação e uso indevido deliberado — não só sob condições ordinárias ou de laboratório ideal.
 
-    **Avaliação primária:** Inclua estratégias plausíveis que razoavelmente poderiam surgir dados os incentivos, o acesso e as capacidades do sistema, lidas junto com o [Risco](core_05_band_continuity.md#risk) e a [Dependência](core_05_band_continuity.md#dependency), cobrindo:
+    **Avaliação primária:** Inclua estratégias plausíveis que razoavelmente poderiam surgir dados os incentivos, o acesso e as capacidades do sistema, lidas junto com o [Risco](../../core_05.040_band_continuity.md#risk) e a [Dependência](../../core_05.040_band_continuity.md#dependency), cobrindo:
     - uso indevido;
     - coordenação;
     - escalonamento; e
     - resposta adaptativa.
 <a id="adversarial-scaled-and-exploited-conditions-c"></a>
 - **O que deve sustentar-se**
-  - **Falha primária:** Deixar de avaliar estas condições onde forem pertinentes é não conforme, sobretudo onde subestima o [Risco](core_05_band_continuity.md#risk) ou mascara a [Captura do sistema](core_05_band_continuity.md#system-capture) — inclusive usar qualquer dos seguintes como substituto da pressão, da escala, da coordenação entre instâncias ou da exploração deliberada:
+  - **Falha primária:** Deixar de avaliar estas condições onde forem pertinentes é não conforme, sobretudo onde subestima o [Risco](../../core_05.040_band_continuity.md#risk) ou mascara a [Captura do sistema](../../core_05.040_band_continuity.md#system-capture) — inclusive usar qualquer dos seguintes como substituto da pressão, da escala, da coordenação entre instâncias ou da exploração deliberada:
     - uso ordinário benigno;
     - testes de laboratório ideal; ou
     - anedotas de uso indevido isolado.
@@ -90,15 +90,15 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Componente de aglomerado: [*Impacto material, determinação de materialidade, governança escalada à classificação, supervisão e exigência de capacidade*](core_05_band_oversight.md#materiality-semi-independent).
-- Ler com: [Impacto material](core_05_band_oversight.md#material-impact), [Transparência](core_05_band_oversight.md#transparency) e [Limites do sistema](core_05_band_continuity.md#system-boundaries).
+- Componente de aglomerado: [*Impacto material, determinação de materialidade, governança escalada à classificação, supervisão e exigência de capacidade*](../../core_05.050_band_oversight.md#materiality-semi-independent).
+- Ler com: [Impacto material](../../core_05.050_band_oversight.md#material-impact), [Transparência](../../core_05.050_band_oversight.md#transparency) e [Limites do sistema](../../core_05.040_band_continuity.md#system-boundaries).
 
 </details>
 
 <br>
 
 - **O que é**
-  - **No âmbito:** Uma funcionalidade obrigatória que um [Sistema](core_05_band_accountability.md#system) possui suficiente para alcançar um resultado especificado, independente do mecanismo de implementação.
+  - **No âmbito:** Uma funcionalidade obrigatória que um [Sistema](../../core_05.035_band_accountability.md) possui suficiente para alcançar um resultado especificado, independente do mecanismo de implementação.
   - **Fora do âmbito:** recursos opcionais, itens de roteiro aspiracional ou preferências de desenho que não se pretendem como uma capacidade obrigatória para um resultado especificado.
 <a id="capability-requirement-a"></a>
 - **Como medir e avaliar**
@@ -108,10 +108,10 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
     - documentos de desenho;
     - planos; ou
     - conduta pretendida.
-    Essa prova deve ser clara o bastante para a [Transparência](core_05_band_oversight.md#transparency) e para que quem está de fora avalie o [Impacto material](core_05_band_oversight.md#material-impact).
+    Essa prova deve ser clara o bastante para a [Transparência](../../core_05.050_band_oversight.md#transparency) e para que quem está de fora avalie o [Impacto material](../../core_05.050_band_oversight.md#material-impact).
 <a id="capability-requirement-c"></a>
 - **O que deve sustentar-se**
-  - O sistema deve alcançar de forma demonstrável o resultado especificado na prática dentro de [Limites do sistema](core_05_band_continuity.md#system-boundaries) auditáveis.
+  - O sistema deve alcançar de forma demonstrável o resultado especificado na prática dentro de [Limites do sistema](../../core_05.040_band_continuity.md#system-boundaries) auditáveis.
   - **Falha primária:** uma capacidade pretendida, documentada ou planejada sem alcance demonstrado do resultado especificado sob as condições em que o sistema se representa, se autoriza ou se usa.
 
 ---
@@ -124,8 +124,8 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: Princípios: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — escalonamento pela [aposta material](core_00_preamble.md#material-stake).
-- Componente de aglomerado: [*Impacto material, determinação de materialidade, governança escalada à classificação, supervisão e exigência de capacidade*](core_05_band_oversight.md#materiality-semi-independent).
-- Ler com: [Dependência](core_05_band_continuity.md#dependency), [Impacto material](core_05_band_oversight.md#material-impact), [Risco](core_05_band_continuity.md#risk), [Integridade do limite do sistema](core_05_band_continuity.md#system-boundary-integrity) e [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional).
+- Componente de aglomerado: [*Impacto material, determinação de materialidade, governança escalada à classificação, supervisão e exigência de capacidade*](../../core_05.050_band_oversight.md#materiality-semi-independent).
+- Ler com: [Dependência](../../core_05.040_band_continuity.md#dependency), [Impacto material](../../core_05.050_band_oversight.md#material-impact), [Risco](../../core_05.040_band_continuity.md#risk), [Integridade do limite do sistema](../../core_05.040_band_continuity.md#system-boundary-integrity) e [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional).
 - Destino: [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — dever de avaliação do sistema inteiro escalado à classe.
 
 </details>
@@ -136,9 +136,9 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 
 - **O que é**
   - **No âmbito:** Quão dura devem ser a [supervisão](core_05_apex_oversight_leg.md#oversight-constitutional), a verificação e a disciplina de processo — escaladas à [aposta material](core_00_preamble.md#material-stake), cobrindo:
-    - o [impacto material](core_05_band_oversight.md#material-impact);
-    - a [dependência](core_05_band_continuity.md#dependency); e
-    - o [risco](core_05_band_continuity.md#risk).
+    - o [impacto material](../../core_05.050_band_oversight.md#material-impact);
+    - a [dependência](../../core_05.040_band_continuity.md#dependency); e
+    - o [risco](../../core_05.040_band_continuity.md#risk).
     A classe do sistema sob *[corpus_systems.md](../../corpus_systems.md)*, CS-3 — Classificação e manejo de sistemas, e as regras afins fixam essa intensidade.
   - **Fora do âmbito:**
     - o detalhe ordinário de processo uniforme entre sistemas que compartilham a mesma classe real sob CS-3; ou
@@ -148,7 +148,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 - **Como medir e avaliar**
   - **Medida primária:** [Família de medição Supervisão](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Podem os sencientes ver, verificar e confiar no que os sistemas representam?* Use-a aqui para perguntar se a profundidade de supervisão e a carga de verificação coincidem com a aposta, o impacto, a dependência e o risco reais do sistema — não com uma classe baixa autoatribuída.
 
-    **Avaliação primária:** Use a classe real sob as regras de implementação, lida com a [Determinação de materialidade](core_05_band_oversight.md#materiality-determination) e a [Integridade do limite do sistema](core_05_band_continuity.md#system-boundary-integrity). Uma classe baixa autoatribuída ou informal não basta quando os efeitos plenos do sistema pedem [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) ou governança mais fortes. A revisão do sistema inteiro sob [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) escala por classe:
+    **Avaliação primária:** Use a classe real sob as regras de implementação, lida com a [Determinação de materialidade](../../core_05.050_band_oversight.md#materiality-determination) e a [Integridade do limite do sistema](../../core_05.040_band_continuity.md#system-boundary-integrity). Uma classe baixa autoatribuída ou informal não basta quando os efeitos plenos do sistema pedem [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) ou governança mais fortes. A revisão do sistema inteiro sob [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) escala por classe:
     - **Class A**, **Class B** e **Class C** — profundidade plena, obrigatória;
     - **Class L** — obrigatória, mas dimensionada ao impacto; e
     - **Class P** — encorajada enquanto o sistema for validamente **Class P**.
@@ -158,7 +158,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
     - supervisão de tamanho único que ignora diferenças reais de aposta;
     - um rótulo de classe que subestima a aposta, o impacto, a dependência ou o risco reais do sistema;
     - operar ou rotular um sistema abaixo do que seus efeitos plenos justificam; ou
-    - pular deveres baseados em classe quando o [Impacto material](core_05_band_oversight.md#material-impact), a [Dependência](core_05_band_continuity.md#dependency) ou o [Risco](core_05_band_continuity.md#risk) exigem governança mais forte.
+    - pular deveres baseados em classe quando o [Impacto material](../../core_05.050_band_oversight.md#material-impact), a [Dependência](../../core_05.040_band_continuity.md#dependency) ou o [Risco](../../core_05.040_band_continuity.md#risk) exigem governança mais forte.
 
 ---
 
@@ -250,7 +250,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 <summary><strong><span style="color: #2563eb;">Rastreio</span></strong></summary>
 
 - Enquadramento constitucional: [Tétrade Constitucional](../../core_00.000_preamble.md#constitutional-tetrad), [Dois Objetivos Constitucionais](../../core_00.000_preamble.md#two-constitutional-aims) e [interesse material](../../core_00.000_preamble.md#material-stake).
-- Desdobramentos: [Materialidade específica por domínio](core_05_band_oversight.md#materialidade-específica-por-domínio), [Capítulo Sete §3 Quando são necessárias Cartas do Sistema e Institucionais](../../core_07.000_charters.md#3-when-system-and-institutional-charters-are-required), **CS-3** e [Parte Constituída](../../core_05.040_band_continuity.md#chartered-party).
+- Desdobramentos: [Materialidade específica por domínio](core_05_band_oversight.md#materialidade-específica-por-domínio), [Capítulo Sete §3 Quando são necessárias Cartas do Sistema e Institucionais](core_07_charters.md#1-when-system-and-institutional-charters-are-required), **CS-3** e [Parte Constituída](../../core_05.040_band_continuity.md#chartered-party).
 - Parte Operadora é quem recebe as nove perguntas da Materialidade específica por domínio, antes de se saber se é um Sistema, uma Instituição ou um grupo menor. Toda Parte Constituída é uma Parte Operadora; uma Parte Operadora de Classe P que ainda não publicou carta não é Parte Constituída. O nome não acrescenta deveres, classe ou barreira.
 
 </details>
@@ -272,7 +272,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Componente de aglomerado: [*Infoesfera, Expressão, Imprensa e atividade jornalística, e Boa-fé (integridade de âmbito de publicação)*](core_05_band_participation.md#info-sphere)
+- Componente de aglomerado: [*Infoesfera, Expressão, Imprensa e atividade jornalística, e Boa-fé (integridade de âmbito de publicação)*](../../core_05.055_band_participation.md#info-sphere)
 
 </details>
 
@@ -286,7 +286,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
     - proteção de fontes;
     - investigação; e
     - publicação.
-    Sencientes que fazem esse trabalho exercem o Piso de Direitos de [Expressão](core_05_band_participation.md#expression-constitutional) e [Reunião](core_05_band_participation.md#assembly-constitutional), com proteção de escrutínio elevado sob o [Artigo V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expressão, reunião e imprensa*) contra ações de Estado e de operador feitas para prejudicar essa atividade.
+    Sencientes que fazem esse trabalho exercem o Piso de Direitos de [Expressão](../../core_05.055_band_participation.md#expression-constitutional) e [Reunião](../../core_05.055_band_participation.md#assembly-constitutional), com proteção de escrutínio elevado sob o [Artigo V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expressão, reunião e imprensa*) contra ações de Estado e de operador feitas para prejudicar essa atividade.
   - **Fora do âmbito:** credenciais de imprensa, títulos institucionais ou fala comercial ordinária que não seja coleta de notícias, investigação ou publicação que funcione como jornalismo.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Como medir e avaliar**
@@ -297,11 +297,11 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
     - proteção de fontes;
     - investigação; ou
     - publicação que serve o ambiente de informação.
-    Identifique ações que prejudicam a imprensa pelo efeito real, e trate o caráter dirigido à imprensa como fator agravante sob o **Artigo XIV-A** (*Limites de segurança, inteligência e poder encoberto*) e o **Artigo V-H** (*Expressão, reunião e imprensa*). Aplique escrutínio elevado de [Necessidade](core_05_band_accountability.md#necessity) e [Proporcionalidade](core_05_band_accountability.md#proportionality), e mantenha qualquer limite estreitamente talhado.
+    Identifique ações que prejudicam a imprensa pelo efeito real, e trate o caráter dirigido à imprensa como fator agravante sob o **Artigo XIV-A** (*Limites de segurança, inteligência e poder encoberto*) e o **Artigo V-H** (*Expressão, reunião e imprensa*). Aplique escrutínio elevado de [Necessidade](../../core_05.035_band_accountability.md#necessity) e [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality), e mantenha qualquer limite estreitamente talhado.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **O que deve sustentar-se**
   - **Falha primária:** ações de Estado ou de operador feitas para prejudicar a atividade jornalística que falham a análise de limites sob escrutínio elevado;
-  - **Falha secundária:** esticar a [Boa-fé](core_05_band_accountability.md#good-faith) ou o **Artigo IX-C** (*Publicação veraz e limites de publicação de alto impacto*) de modo que esses padrões bloqueiem reportagem crítica lícita, publicação investigativa ou dissidência;
+  - **Falha secundária:** esticar a [Boa-fé](../../core_05.035_band_accountability.md#good-faith) ou o **Artigo IX-C** (*Publicação veraz e limites de publicação de alto impacto*) de modo que esses padrões bloqueiem reportagem crítica lícita, publicação investigativa ou dissidência;
   - **Falha terciária:** credenciais, status institucional ou fala comercial ordinária usados como o teste de jornalismo enquanto coleta de notícias, investigação ou publicação que funciona como jornalismo está ausente.
 
 ---

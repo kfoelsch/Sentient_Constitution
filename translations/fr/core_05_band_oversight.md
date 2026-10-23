@@ -12,7 +12,7 @@
 >
 > **Précédent (cette langue) :** [core_05_band_integrative.md](core_05_band_integrative.md)
 >
-> **Suivant (cette langue) :** [core_05_band_participation.md](core_05_band_participation.md)
+> **Suivant (cette langue) :** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 > **Arc de lecture :** termes indépendants → semi-indépendants → groupes dépendants Def.O1–Def.O2
 
 </details>
@@ -51,7 +51,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Lire avec : [Risque](core_05_band_continuity.md#risk), [Dépendance](core_05_band_continuity.md#dependency), and [Capture du système](core_05_band_continuity.md#system-capture).
+- Lire avec : [Risque](../../core_05.040_band_continuity.md#risk), [Dépendance](../../core_05.040_band_continuity.md#dependency), and [Capture du système](../../core_05.040_band_continuity.md#system-capture).
 
 </details>
 
@@ -60,7 +60,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
 *En termes simples : how a system behaves under pressure — when sentients game it, coordinate across accounts, run it at massive scale, or deliberately misuse it.*
 
 - **Ce que c’est**
-  - **Dans la portée :** Operating conditions in which systems or actors behave to maximize advantage in ways that can alter [Risque](core_05_band_continuity.md#risk), [Dépendance](core_05_band_continuity.md#dependency), or [Capture du système](core_05_band_continuity.md#system-capture), including:
+  - **Dans la portée :** Operating conditions in which systems or actors behave to maximize advantage in ways that can alter [Risque](../../core_05.040_band_continuity.md#risk), [Dépendance](../../core_05.040_band_continuity.md#dependency), or [Capture du système](../../core_05.040_band_continuity.md#system-capture), including:
     - abus de la structure du système ;
     - coordination entre instances ;
     - high-scale deployment — volume, concurrency, or reach at which behavior or effects can differ from small-scale or ideal-lab use;
@@ -71,14 +71,14 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si oversight still works under gaming, scale, coordination, and deliberate misuse — not only under ordinary or ideal-lab conditions.
 
-    **Évaluation primaire :** Include plausible strategies that could reasonably emerge given system incentives, access, and capabilities, read together with [Risque](core_05_band_continuity.md#risk) and [Dépendance](core_05_band_continuity.md#dependency), covering:
+    **Évaluation primaire :** Include plausible strategies that could reasonably emerge given system incentives, access, and capabilities, read together with [Risque](../../core_05.040_band_continuity.md#risk) and [Dépendance](../../core_05.040_band_continuity.md#dependency), covering:
     - mésusage ;
     - coordination ;
     - mise à l’échelle ; et
     - réponse adaptative.
 <a id="adversarial-scaled-and-exploited-conditions-c"></a>
 - **Ce qui doit tenir**
-  - **Défaillance primaire :** Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [Risque](core_05_band_continuity.md#risk) or masks [Capture du système](core_05_band_continuity.md#system-capture) — including using any of the following as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation:
+  - **Défaillance primaire :** Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [Risque](../../core_05.040_band_continuity.md#risk) or masks [Capture du système](../../core_05.040_band_continuity.md#system-capture) — including using any of the following as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation:
     - usage bénin ordinaire ;
     - tests de laboratoire idéal ; ou
     - anecdotes de mésusage ponctuel.
@@ -93,14 +93,14 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Composante de groupe : [Matérialité, impact, risque et intégrité des indicateurs substituts](core_05_band_oversight.md#materiality-semi-independent).
-- Lire avec : [Impact matériel](core_05_band_oversight.md#impact-matériel), [Transparence](core_05_band_oversight.md#transparence), and [Limites du système](core_05_band_continuity.md#system-boundaries).
+- Lire avec : [Impact matériel](core_05_band_oversight.md#impact-matériel), [Transparence](core_05_band_oversight.md#transparence), and [Limites du système](../../core_05.040_band_continuity.md#system-boundaries).
 
 </details>
 
 <br>
 
 - **Ce que c’est**
-  - **Dans la portée :** A mandatory functionality that a [Système](core_05_band_accountability.md#system) possesses sufficient to achieve a specified outcome, independent of implementation mechanism.
+  - **Dans la portée :** A mandatory functionality that a [Système](../../core_05.035_band_accountability.md) possesses sufficient to achieve a specified outcome, independent of implementation mechanism.
   - **Hors portée :** optional features, aspirational roadmap items, or design preferences that are not claimed as a mandatory capability for a specified outcome.
 <a id="capability-requirement-a"></a>
 - **Comment mesurer et évaluer**
@@ -113,7 +113,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
     That proof must be clear enough for [Transparence](core_05_band_oversight.md#transparence) and for outsiders to evaluate [Impact matériel](core_05_band_oversight.md#impact-matériel).
 <a id="capability-requirement-c"></a>
 - **Ce qui doit tenir**
-  - The system must demonstrably achieve the specified outcome in practice within auditable [Limites du système](core_05_band_continuity.md#system-boundaries).
+  - The system must demonstrably achieve the specified outcome in practice within auditable [Limites du système](../../core_05.040_band_continuity.md#system-boundaries).
   - **Défaillance primaire :** a claimed, documented, or planned capability with no demonstrated achievement of the specified outcome under the conditions in which the system is represented, authorized, or used.
 
 ---
@@ -127,7 +127,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
 
 - En amont : Principes : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — [enjeu matériel](core_00_preamble.md#material-stake) scaling.
 - Composante de groupe : [Matérialité, impact, risque et intégrité des indicateurs substituts](core_05_band_oversight.md#materiality-semi-independent).
-- Lire avec : [Dépendance](core_05_band_continuity.md#dependency), [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque](core_05_band_continuity.md#risk), [Intégrité de la limite du système](core_05_band_continuity.md#system-boundary-integrity), and [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional).
+- Lire avec : [Dépendance](../../core_05.040_band_continuity.md#dependency), [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque](../../core_05.040_band_continuity.md#risk), [Intégrité de la limite du système](../../core_05.040_band_continuity.md#system-boundary-integrity), and [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional).
 - En aval : [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — class-scaled whole-system evaluation duty.
 
 </details>
@@ -139,8 +139,8 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
 - **Ce que c’est**
   - **Dans la portée :** How hard [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional), verification, and process discipline must be — scaled to [enjeu matériel](core_00_preamble.md#material-stake), covering:
     - [Impact matériel](core_05_band_oversight.md#impact-matériel);
-    - [Dépendance](core_05_band_continuity.md#dependency); and
-    - [Risque](core_05_band_continuity.md#risk).
+    - [Dépendance](../../core_05.040_band_continuity.md#dependency); and
+    - [Risque](../../core_05.040_band_continuity.md#risk).
     The system's class under *[corpus_systems.md](../../corpus_systems.md)*, CS-3 — Classification et traitement des systèmes, and related rules sets that intensity.
   - **Hors portée :**
     - ordinary uniform process detail among systems that share the same real class under CS-3; or
@@ -150,7 +150,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si oversight depth and verification burden match the system's real stake, impact, dependency, and risk — not a self-assigned low class.
 
-    **Évaluation primaire :** Use the real class under the implementation rules, read with [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité) and [Intégrité de la limite du système](core_05_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
+    **Évaluation primaire :** Use the real class under the implementation rules, read with [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité) and [Intégrité de la limite du système](../../core_05.040_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
     - **Class A**, **Class B**, and **Class C** — full depth, mandatory;
     - **Class L** — mandatory, but sized to the impact; and
     - **Class P** — encouraged while the system is validly **Class P**.
@@ -160,7 +160,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
     - one-size-fits-all oversight that ignores real stake differences;
     - a class label that understates the system's real stake, impact, dependency, or risk;
     - running or labeling a system below what its full effects warrant; or
-    - skipping class-based duties when [Impact matériel](core_05_band_oversight.md#impact-matériel), [Dépendance](core_05_band_continuity.md#dependency), or [Risque](core_05_band_continuity.md#risk) require stronger governance.
+    - skipping class-based duties when [Impact matériel](core_05_band_oversight.md#impact-matériel), [Dépendance](../../core_05.040_band_continuity.md#dependency), or [Risque](../../core_05.040_band_continuity.md#risk) require stronger governance.
 
 ---
 
@@ -172,7 +172,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Composante de groupe : [Info-sphère](core_05_band_participation.md#info-sphere)
+- Composante de groupe : [Info-sphère](../../core_05.055_band_participation.md#info-sphere)
 
 </details>
 
@@ -186,7 +186,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
     - protection des sources ;
     - enquête ; et
     - publication.
-    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assemblée](core_05_band_participation.md#assembly-constitutional) Plancher des droits, with heightened-scrutiny protection under [Article V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Expression](../../core_05.055_band_participation.md#expression-constitutional) and [Assemblée](../../core_05.055_band_participation.md#assembly-constitutional) Plancher des droits, with heightened-scrutiny protection under [Article V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Hors portée :** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Comment mesurer et évaluer**
@@ -197,11 +197,11 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
     - protection des sources ;
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Nécessité](core_05_band_accountability.md#necessity) and [Proportionnalité](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Nécessité](../../core_05.035_band_accountability.md#necessity) and [Proportionnalité](../../core_05.035_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
-  - **Défaillance secondaire :** stretching [Bonne foi](core_05_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
+  - **Défaillance secondaire :** stretching [Bonne foi](../../core_05.035_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **Défaillance tertiaire :** credentials, institutional status, or ordinary commercial speech used as the journalism test while newsgathering, investigation, or publication that functions as journalism is absent.
 
 ---
@@ -249,8 +249,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En aval : Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) (*Materiality as constitutional measurement*); Principes : [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 Principes d’arbitrage centraux](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
-- Lire avec : [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Matérialité systémique](core_05_band_accountability.md#systemic-materiality), and [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification).
+- En aval : Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) (*Materiality as constitutional measurement*); Principes : [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 Principes d’arbitrage centraux](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
+- Lire avec : [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Matérialité systémique](../../core_05.035_band_accountability.md), and [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification).
 
 </details>
 
@@ -266,9 +266,9 @@ Implication can exist without misalignment. Misalignment always implies material
   - **Mesure primaire :** Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) — threshold input for [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité).
 
     **Évaluation primaire :** Ask whether the conditions can produce meaningful [Impact matériel](core_05_band_oversight.md#impact-matériel) or [Risque matériel](core_05_band_oversight.md#risque-matériel) when you look at the whole system, not just a slice.
-  - **Mesure secondaire :** [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), and [Matérialité systémique](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
+  - **Mesure secondaire :** [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), and [Matérialité systémique](../../core_05.035_band_accountability.md) — co-measures that can defeat material classification when effects are fragmented or understated.
 
-    **Évaluation secondaire :** En vérifiant la mesure primaire, ask whether effects that look small one by one would still look small if you put them together — including system-wide [Matérialité systémique](core_05_band_accountability.md#systemic-materiality) pathways.
+    **Évaluation secondaire :** En vérifiant la mesure primaire, ask whether effects that look small one by one would still look small if you put them together — including system-wide [Matérialité systémique](../../core_05.035_band_accountability.md) pathways.
 <a id="material-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :** ignoring conditions that [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité) would treat as material.
@@ -285,7 +285,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - En aval : Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) (*Materiality as constitutional measurement*); Principes : [enjeu matériel](core_00_preamble.md#material-stake) scaling proxy; Chapitre un surfaces this definition across **Safety** (**Chapitre un §8.1**), **Truth** (**Chapitre un §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapitre un §6.3.2** where **Materiality** appears in D/A/C widgets — see [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - Composante de groupe : [Matérialité, impact, risque et intégrité des indicateurs substituts](core_05_band_oversight.md#materiality-semi-independent).
-- Lire avec : [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Matérialité systémique](core_05_band_continuity.md#systemic-materiality), and [Auditabilité](core_05_band_oversight.md#auditabilité).
+- Lire avec : [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Matérialité systémique](../../core_05.040_band_continuity.md#systemic-materiality), and [Auditabilité](core_05_band_oversight.md#auditabilité).
 
 </details>
 
@@ -295,8 +295,8 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - **Ce que c’est**
   - **Dans la portée :** Classification decisions that ask whether [Impact matériel](core_05_band_oversight.md#impact-matériel) or [Risque matériel](core_05_band_oversight.md#risque-matériel) is constitutionally material for:
-    - a system (including [Matérialité systémique](core_05_band_continuity.md#systemic-materiality)); or
-    - an event, incident, or episode (including prospective [Préjudice](core_05_band_accountability.md#harm) under [Risque matériel](core_05_band_oversight.md#risque-matériel)),
+    - a system (including [Matérialité systémique](../../core_05.040_band_continuity.md#systemic-materiality)); or
+    - an event, incident, or episode (including prospective [Préjudice](../../core_05.035_band_accountability.md#harm) under [Risque matériel](core_05_band_oversight.md#risque-matériel)),
     when you look at the connected whole rather than isolated pieces.
   - **Hors portée :**
     - [Matériel](core_05_band_oversight.md#matériel) threshold trivia, cosmetics, or mere paperwork significance with no stake-scaled duty change; or
@@ -306,20 +306,20 @@ Implication can exist without misalignment. Misalignment always implies material
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** Under [enjeu matériel](core_00_preamble.md#material-stake), ask whether effects are big enough to change which duties apply when you look at the connected whole — for the system or event at issue — covering:
     - [Impact matériel](core_05_band_oversight.md#impact-matériel);
-    - [Risque matériel](core_05_band_oversight.md#risque-matériel) (including prospective [Préjudice](core_05_band_accountability.md#harm)); and
-    - [Matérialité systémique](core_05_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
+    - [Risque matériel](core_05_band_oversight.md#risque-matériel) (including prospective [Préjudice](../../core_05.035_band_accountability.md#harm)); and
+    - [Matérialité systémique](../../core_05.040_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
 
     **Évaluation primaire :** Include all kinds of effects that matter for the case, covering:
     - realized impact;
     - prospective harm; and
-    - [Matérialité systémique](core_05_band_continuity.md#systemic-materiality) where relevant,
+    - [Matérialité systémique](../../core_05.040_band_continuity.md#systemic-materiality) where relevant,
     and explain the conclusion for the connected whole, not just a convenient slice.
 
-    For an event, ask whether it is relevant to a sentient's [Bien-être](core_05_band_continuity.md#wellbeing) — including plausible prospective harm to that wellbeing — not only to:
+    For an event, ask whether it is relevant to a sentient's [Bien-être](../../core_05.040_band_continuity.md#wellbeing) — including plausible prospective harm to that wellbeing — not only to:
     - system métriques ;
     - process labels; or
     - institutional convenience.
-  - **Mesure secondaire :** [Dépendance](core_05_band_continuity.md#dependency) — check whether calling something "not material" only works because the pieces were judged separately, while the connected whole would count as material. For an event affecting a sentient, include downstream effects that travel through dependency — not only the immediate hit on that sentient.
+  - **Mesure secondaire :** [Dépendance](../../core_05.040_band_continuity.md#dependency) — check whether calling something "not material" only works because the pieces were judged separately, while the connected whole would count as material. For an event affecting a sentient, include downstream effects that travel through dependency — not only the immediate hit on that sentient.
 
     **Évaluation secondaire :** En vérifiant la mesure primaire, ask whether the classification would change if you looked at the pieces together instead of one by one, including:
     - isolation;
@@ -338,7 +338,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - A Materiality Determination holds only if the classification is written down, [Auditabilité](core_05_band_oversight.md#auditabilité), and tied to effects that actually matter constitutionally.
   - **Défaillance primaire :**
     - paper-only or immaterial labels with no real change to which constitutional duties apply — governance, oversight, capability requirements, or other stake-scaled duties for the system or event at issue;
-    - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [Bien-être](core_05_band_continuity.md#wellbeing); or
+    - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [Bien-être](../../core_05.040_band_continuity.md#wellbeing); or
     - determinations that lack a justified conclusion.
   - **Défaillance secondaire :** calling collectively material effects immaterial by:
     - splitting them up;
@@ -409,7 +409,7 @@ Implication can exist without misalignment. Misalignment always implies material
     - Les Parties exploitantes forment une seule opération si les mêmes sentients, un même bureau ou une même Partie exploitante peuvent diriger ou annuler l’activité de chacune (ce qu’elle fournit, à qui, à quelles conditions ou si elle continue), ou si elles accomplissent la même activité comme éléments d’un seul service. Ce test reprend l’idée de contrôle pratique commun de la [Ligne de contrôle matériel](../../core_05.035_band_accountability.md#material-control-line), mais constitue un test distinct portant sur l’activité des Parties exploitantes, et non sur l’indépendance des sièges dans un même acte. Le seul financement, des locaux ou fournisseurs partagés, un chevauchement des membres ou l’adoption de l’instrument du même hôte dans une pratique professionnelle conjointe (**CI-4.7**) ne suffit pas à en faire une seule opération. Un financeur n’en fait partie que si son financement lui donne le pouvoir de diriger ou d’annuler l’activité ; et
     - Lorsque plusieurs Parties exploitantes sollicitent la même rivière, le même marché ou le même réseau partagé, déjà sous tension, évaluer chacune selon sa contribution marginale à la tension totale. Une contribution significative est matérielle ; une contribution négligeable ne l’est pas, même si le système entier dépasse son seuil.
 <a id="domain-specific-materiality-c"></a>
-- **Voie de contestation :** les voies existantes s’appliquent ; cette entrée ne crée ni service, ni forum, ni frais. Pour un système : [§7.4 Contester le dossier de classification du système](../../corpus_systems/cs_03_a_system_classification_machinery.md#74-challenge-and-contestability) ; pour une institution : [chapitre neuf, partie D, §14.2](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers) et [§14.4](../../core_09.020_institutional_alignment_certification.md#144-challenge-path). La contestation nomme un franchissement précis dans un domaine ; l’Partie exploitante répond avec ses motifs écrits.
+- **Voie de contestation :** les voies existantes s’appliquent ; cette entrée ne crée ni service, ni forum, ni frais. Pour un système : [§7.4 Contester le dossier de classification du système](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability) ; pour une institution : [chapitre neuf, partie D, §14.2](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers) et [§14.4](../../core_09.020_institutional_alignment_certification.md#144-challenge-path). La contestation nomme un franchissement précis dans un domaine ; l’Partie exploitante répond avec ses motifs écrits.
   - L’Partie exploitante répond d’abord par sa voie publiée, dans le délai de l’[Article XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor). Le forum intervient si la réponse ne règle pas l’affaire ou n’arrive pas, et directement si le délai menace des droits, des preuves ou l’indépendance.
   - Une contestation sans franchissement précis est retournée pour complément ; ce n’est pas une décision au fond, elle ne consomme pas le délai du contestataire et peut être redéposée. Au forum, elle relève de la classe d’admission ordinaire et n’est pas rejetée à l’accueil.
   - Les contestations du même franchissement contre le même Partie exploitante, ou des Parties exploitantes comptés comme une seule opération, sont entendues ensemble.
@@ -454,8 +454,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En aval : Principes : [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Invalidation par divergence d’indicateurs substituts](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
-- Lire avec : [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Limites du système](../../core_05.040_band_continuity.md#system-boundaries), [Intégrité de la limite du système](../../core_05.040_band_continuity.md#system-boundary-integrity), [Matérialité systémique](core_05_band_accountability.md#systemic-materiality), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Reddition de comptes](core_05_apex_accountability_leg.md#accountability).
+- En aval : Principes : [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Invalidation par divergence d’indicateurs substituts](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- Lire avec : [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Limites du système](../../core_05.040_band_continuity.md#system-boundaries), [Intégrité de la limite du système](../../core_05.040_band_continuity.md#system-boundary-integrity), [Matérialité systémique](../../core_05.035_band_accountability.md), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Reddition de comptes](core_05_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -474,9 +474,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - splitting;
     - aggregation avoidance; and
     - boundary games.
-  - **Mesure secondaire :** [Matérialité systémique](core_05_band_accountability.md#systemic-materiality), [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) — co-measures that defeat manipulation or proxy gaming of materiality.
+  - **Mesure secondaire :** [Matérialité systémique](../../core_05.035_band_accountability.md), [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) — co-measures that defeat manipulation or proxy gaming of materiality.
 
-    **Évaluation secondaire :** En vérifiant la mesure primaire, include [Matérialité systémique](core_05_band_accountability.md#systemic-materiality), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) paths that would hide collectively material effects.
+    **Évaluation secondaire :** En vérifiant la mesure primaire, include [Matérialité systémique](../../core_05.035_band_accountability.md), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) paths that would hide collectively material effects.
 <a id="materiality-integrity-constraint-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :** treating collectively material effects as immaterial through structural manipulation.
@@ -491,9 +491,9 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En aval : Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) (*Materiality as constitutional measurement*); Principes : [enjeu matériel](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 Proportionnalité](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
+- En aval : Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) (*Materiality as constitutional measurement*); Principes : [enjeu matériel](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 Proportionnalité](core_01_b_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
 - Composante de groupe : [Matérialité, impact, risque et intégrité des indicateurs substituts](core_05_band_oversight.md#materiality-semi-independent).
-- Lire avec : [Préjudice](core_05_band_accountability.md#harm), [Risque](core_05_band_continuity.md#risk), [Matérialité systémique](core_05_band_accountability.md#systemic-materiality), [Dépendance](core_05_band_continuity.md#dependency), [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification), [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional), and [Transparence](core_05_band_oversight.md#transparence).
+- Lire avec : [Préjudice](../../core_05.035_band_accountability.md#harm), [Risque](../../core_05.040_band_continuity.md#risk), [Matérialité systémique](../../core_05.035_band_accountability.md), [Dépendance](../../core_05.040_band_continuity.md#dependency), [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification), [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional), and [Transparence](core_05_band_oversight.md#transparence).
 
 </details>
 
@@ -502,7 +502,7 @@ Implication can exist without misalignment. Misalignment always implies material
 *En termes simples : how far the effects reach, how big they are, and how severe — looking at the whole system, not just the headline or the paperwork.*
 
 - **Ce que c’est**
-  - **Dans la portée :** Effects for [Préjudice](core_05_band_accountability.md#harm), [Risque](core_05_band_continuity.md#risk), and constitutional evaluation, covering:
+  - **Dans la portée :** Effects for [Préjudice](../../core_05.035_band_accountability.md#harm), [Risque](../../core_05.040_band_continuity.md#risk), and constitutional evaluation, covering:
     - how far they reach;
     - how large they are; and
     - how severe they are.
@@ -520,9 +520,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - delayed effets ;
     - cumulative effets ; and
     - cross-system consequences.
-  - **Mesure secondaire :** [Préjudice](core_05_band_accountability.md#harm), [Risque](core_05_band_continuity.md#risk), [Matérialité systémique](core_05_band_accountability.md#systemic-materiality), and [Dépendance](core_05_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
+  - **Mesure secondaire :** [Préjudice](../../core_05.035_band_accountability.md#harm), [Risque](../../core_05.040_band_continuity.md#risk), [Matérialité systémique](../../core_05.035_band_accountability.md), and [Dépendance](../../core_05.040_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
 
-    **Évaluation secondaire :** En vérifiant la mesure primaire, include [Matérialité systémique](core_05_band_accountability.md#systemic-materiality), [Dépendance](core_05_band_continuity.md#dependency), and cross-system spread that would change the material classification.
+    **Évaluation secondaire :** En vérifiant la mesure primaire, include [Matérialité systémique](../../core_05.035_band_accountability.md), [Dépendance](../../core_05.040_band_continuity.md#dependency), and cross-system spread that would change the material classification.
 <a id="material-impact-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :**
@@ -539,8 +539,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En aval : Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) (*Materiality as constitutional measurement*); Principes : [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 Proportionnalité](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
-- Lire avec : [Préjudice](core_05_band_accountability.md#harm), [Préjudice irréversible](core_05_band_accountability.md#irreversible-harm), [Risque](core_05_band_continuity.md#risk), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), and [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification).
+- En aval : Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) (*Materiality as constitutional measurement*); Principes : [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 Proportionnalité](core_01_b_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- Lire avec : [Préjudice](../../core_05.035_band_accountability.md#harm), [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm), [Risque](../../core_05.040_band_continuity.md#risk), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), and [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification).
 
 </details>
 
@@ -549,13 +549,13 @@ Implication can exist without misalignment. Misalignment always implies material
 *En termes simples : how likely harm is, how fast it can arrive, and how hard it is to undo — including rare but severe outcomes.*
 
 - **Ce que c’est**
-  - **Dans la portée :** Prospective [Préjudice](core_05_band_accountability.md#harm), covering:
+  - **Dans la portée :** Prospective [Préjudice](../../core_05.035_band_accountability.md#harm), covering:
     - how likely it is;
     - how fast it can arrive; and
     - how hard it is to undo.
   - **Hors portée :**
     - speculative worry without a plausible harm pathway; or
-    - realized [Préjudice](core_05_band_accountability.md#harm) already in hand —
+    - realized [Préjudice](../../core_05.035_band_accountability.md#harm) already in hand —
     that sits under Harm / [Impact matériel](core_05_band_oversight.md#impact-matériel), not prospective risk alone.
 <a id="material-risk-a"></a>
 - **Comment mesurer et évaluer**
@@ -564,17 +564,17 @@ Implication can exist without misalignment. Misalignment always implies material
     **Évaluation primaire :** Looking at the whole system, include:
     - expected outcomes;
     - rare-but-severe (tail) outcomes;
-    - how fast [Préjudice](core_05_band_accountability.md#harm) can arrive; and
+    - how fast [Préjudice](../../core_05.035_band_accountability.md#harm) can arrive; and
     - how irreversible that harm can be.
-  - **Mesure secondaire :** [Préjudice](core_05_band_accountability.md#harm), [Préjudice irréversible](core_05_band_accountability.md#irreversible-harm), [Risque](core_05_band_continuity.md#risk), and [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
+  - **Mesure secondaire :** [Préjudice](../../core_05.035_band_accountability.md#harm), [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm), [Risque](../../core_05.040_band_continuity.md#risk), and [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
 
-    **Évaluation secondaire :** En vérifiant la mesure primaire, include [Préjudice irréversible](core_05_band_accountability.md#irreversible-harm), [Risque](core_05_band_continuity.md#risk), and [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
+    **Évaluation secondaire :** En vérifiant la mesure primaire, include [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm), [Risque](../../core_05.040_band_continuity.md#risk), and [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
 <a id="material-risk-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :**
     - realized harm labeled as only future risk; or
-    - material risk not addressed and constrained under [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), [Risque](core_05_band_continuity.md#risk), and [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification).
-  - **Défaillance secondaire :** tail or irreversible pathways excluded when [Préjudice irréversible](core_05_band_accountability.md#irreversible-harm) remains plausible.
+    - material risk not addressed and constrained under [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), [Risque](../../core_05.040_band_continuity.md#risk), and [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification).
+  - **Défaillance secondaire :** tail or irreversible pathways excluded when [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm) remains plausible.
 
 ---
 
@@ -585,8 +585,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En aval : Principes : [6.1.3 Proportionnalité](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
-- Lire avec : [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Préjudice irréversible](core_05_band_accountability.md#irreversible-harm), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), and [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification).
+- En aval : Principes : [6.1.3 Proportionnalité](core_01_b_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- Lire avec : [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), and [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification).
 
 </details>
 
@@ -604,17 +604,17 @@ Implication can exist without misalignment. Misalignment always implies material
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) — precautionary default when materiality cannot be excluded.
 
-    **Évaluation primaire :** Default to precaution when you cannot rule materiality out — including when [Préjudice irréversible](core_05_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
-  - **Mesure secondaire :** [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Préjudice irréversible](core_05_band_accountability.md#irreversible-harm), and [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
+    **Évaluation primaire :** Default to precaution when you cannot rule materiality out — including when [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
+  - **Mesure secondaire :** [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm), and [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
 
-    **Évaluation secondaire :** En vérifiant la mesure primaire, include [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), and [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
+    **Évaluation secondaire :** En vérifiant la mesure primaire, include [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), and [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
 <a id="materiality-under-uncertainty-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :**
     - waiting for certainty before classifying while material impact or risk remains uncertain;
     - optimistic low classification while material impact or risk remains uncertain; or
     - failure to default to conservative classification under uncertainty where [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification) requires it.
-  - **Défaillance secondaire :** optimism or informal low classification where [Préjudice irréversible](core_05_band_accountability.md#irreversible-harm) or [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint) requires precaution.
+  - **Défaillance secondaire :** optimism or informal low classification where [Préjudice irréversible](../../core_05.035_band_accountability.md#irreversible-harm) or [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint) requires precaution.
 
 ---
 
@@ -625,9 +625,9 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En aval : Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principes : [§6.2.4 Invalidation par divergence d’indicateurs substituts](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 Gouvernance sous discipline d’administration responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- En aval : Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principes : [§6.2.4 Invalidation par divergence d’indicateurs substituts](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 Gouvernance sous discipline d’administration responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Composante de groupe : [Matérialité, impact, risque et intégrité des indicateurs substituts](core_05_band_oversight.md#materiality-semi-independent).
-- Lire avec : [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Contrainte d’intégrité de la matérialité](core_05_band_oversight.md#contrainte-dintégrité-de-la-matérialité), [Intégrité de la limite du système](core_05_band_continuity.md#system-boundary-integrity), [Alignement des incitations](core_05_band_integrative.md#alignement-des-incitations), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle).
+- Lire avec : [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Contrainte d’intégrité de la matérialité](core_05_band_oversight.md#contrainte-dintégrité-de-la-matérialité), [Intégrité de la limite du système](../../core_05.040_band_continuity.md#system-boundary-integrity), [Alignement des incitations](core_05_band_integrative.md#alignement-des-incitations), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle).
 
 </details>
 
@@ -673,9 +673,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - adversarial adaptation; and
     - aggregate harms hidden by favorable local indicators —
     together with [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité) and [Auditabilité](core_05_band_oversight.md#auditabilité).
-  - **Mesure tertiaire :** [Bien-être](core_05_band_continuity.md#wellbeing), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), and Plancher des droits outcomes — where proxies stand in for what sentients actually experience.
+  - **Mesure tertiaire :** [Bien-être](../../core_05.040_band_continuity.md#wellbeing), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), and Plancher des droits outcomes — where proxies stand in for what sentients actually experience.
 
-    **Évaluation tertiaire :** Where proxies stand in for outcome measures, trace to [Bien-être](core_05_band_continuity.md#wellbeing), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), or Plancher des droits delivery — separate durable constitutional outcomes from proxy throughput.
+    **Évaluation tertiaire :** Where proxies stand in for outcome measures, trace to [Bien-être](../../core_05.040_band_continuity.md#wellbeing), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), or Plancher des droits delivery — separate durable constitutional outcomes from proxy throughput.
 <a id="proxy-divergence-c"></a>
 - **Ce qui doit tenir**
   - A system satisfies **Proxy Divergence** discipline only if proxies stay aligned with constitutionally material reality under full-system conditions — including when incentives or design would otherwise cook the score.
@@ -696,8 +696,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En aval : Principes : [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapitre un §3 Contraintes de principe non négociables : Sécurité et Vérité](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
-- Lire avec : [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Matérialité systémique](core_05_band_accountability.md#systemic-materiality), [Risque](core_05_band_continuity.md#risk), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), and [Agence significative](core_05_band_participation.md#meaningful-agency).
+- En aval : Principes : [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapitre un §3 Contraintes de principe non négociables : Sécurité et Vérité](core_01_a_values_principles.md) (**Safety** / **Truth** degradation paths).
+- Lire avec : [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Matérialité systémique](../../core_05.035_band_accountability.md), [Risque](../../core_05.040_band_continuity.md#risk), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), and [Agence significative](../../core_05.055_band_participation.md#meaningful-agency).
 
 </details>
 
@@ -707,22 +707,22 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - **Ce que c’est**
   - **Dans la portée :** A non-trivial drop in how well a protected constitutional condition holds, covering:
-    - [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint);
+    - [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint);
     - [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique); or
-    - [Agence significative](core_05_band_participation.md#meaningful-agency).
+    - [Agence significative](../../core_05.055_band_participation.md#meaningful-agency).
   - **Hors portée :** Trivial dips in operational metrics or system throughput, planned maintenance, or temporary blips that do not meaningfully reduce safety, epistemic integrity, or meaningful agency.
 <a id="material-degradation-a"></a>
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** Matérialité Intégrative ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) — degradation signal for materiality classification.
 
-    **Évaluation primaire :** Include scaling and system-wide effects under [Matérialité systémique](core_05_band_accountability.md#systemic-materiality) and [Risque](core_05_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
-  - **Mesure secondaire :** [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Matérialité systémique](core_05_band_accountability.md#systemic-materiality), [Risque](core_05_band_continuity.md#risk), and [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) — co-measures that can defeat degradation assessment when proxies hide decline.
+    **Évaluation primaire :** Include scaling and system-wide effects under [Matérialité systémique](../../core_05.035_band_accountability.md) and [Risque](../../core_05.040_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
+  - **Mesure secondaire :** [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Matérialité systémique](../../core_05.035_band_accountability.md), [Risque](../../core_05.040_band_continuity.md#risk), and [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) — co-measures that can defeat degradation assessment when proxies hide decline.
 
     **Évaluation secondaire :** En vérifiant la mesure primaire, apply [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité) and [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) where metrics hide material degradation.
 <a id="material-degradation-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :** material degradation not treated as material under [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité).
-  - **Défaillance secondaire :** keeping proxy indicators looking stable while [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), or [Agence significative](core_05_band_participation.md#meaningful-agency) materially degrades.
+  - **Défaillance secondaire :** keeping proxy indicators looking stable while [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), or [Agence significative](../../core_05.055_band_participation.md#meaningful-agency) materially degrades.
 
 ---
 
@@ -742,7 +742,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [enjeu matériel](core_00_preamble.md#material-stake) via [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité).
 - Chapitre un basis: Chapitre un §8.2, §4, §12.1, §12.2 (see [boussole](core_05__definitions_home.md#boussole-et-carte-des-définitions-du-chapitre-cinq) map).
-- Lire avec : Apply [Reddition de comptes](core_05_apex_accountability_leg.md#accountability), [Contestabilité](core_05_band_accountability.md#contestability), [Équité procédurale](core_05_band_participation.md#procedural-fairness-constitutional), [Signalement protégé (alerte)](core_05_band_accountability.md#protected-reporting-whistleblowing), [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Risque](core_05_band_continuity.md#risk), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), and Chapitres deux à quatre mechanics where matériellement impliqué.
+- Lire avec : Apply [Reddition de comptes](core_05_apex_accountability_leg.md#accountability), [Contestabilité](../../core_05.035_band_accountability.md#contestability), [Équité procédurale](../../core_05.055_band_participation.md#procedural-fairness-constitutional), [Signalement protégé (alerte)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing), [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Risque](../../core_05.040_band_continuity.md#risk), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), and Chapitres deux à quatre mechanics where matériellement impliqué.
 
 </details>
 
@@ -762,7 +762,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Chapitres deux à quatre require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**Cadre de supervision.** Under the [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapitre sept](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**Cadre de supervision.** Under the [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapitre sept](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **Classe du système et proportionnalité.** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - assurance plus profonde ;
@@ -798,8 +798,8 @@ Voir **Invocation conjointe et satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Composante de groupe : [Def.O1 Transparence, auditabilité et vérification](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- En aval : Principes : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Administration responsable et compréhension distribuée](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.2.1 Préservation de l’intégrité épistémique](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- Lire avec : [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), [Contestabilité](core_05_band_accountability.md#contestability), [Auditabilité](core_05_band_oversight.md#auditabilité), [Divulgation de base de supervision publique](core_05_band_oversight.md#divulgation-de-base-de-supervision-publique), [Divulgation du risque](core_05_band_oversight.md#divulgation-du-risque), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — Types d’information et traitement** (**Type O** — open public oversight baseline disclosure data).
+- En aval : Principes : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Administration responsable et compréhension distribuée](core_01_c_stewardship_capacity_principles.md), [6.2.1 Préservation de l’intégrité épistémique](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- Lire avec : [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), [Contestabilité](../../core_05.035_band_accountability.md#contestability), [Auditabilité](core_05_band_oversight.md#auditabilité), [Divulgation de base de supervision publique](core_05_band_oversight.md#divulgation-de-base-de-supervision-publique), [Divulgation du risque](core_05_band_oversight.md#divulgation-du-risque), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — Types d’information et traitement** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -808,9 +808,9 @@ Voir **Invocation conjointe et satisfaction**.
 *En termes simples : telling affected sentients enough about how a system works, its limits, and its risks that they can genuinely understand and question it — not burying them in noise.*
 
 - **Ce que c’est**
-  - **Dans la portée :** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique) and [6.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+  - **Dans la portée :** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique) and [6.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
     - If a material system, institution, forum process, or similar governed domain can lawfully publish online, its baseline transparency disclosure must be free to the public at the access level its class requires — not behind a paywall or available only to insiders — wherever [Divulgation de base de supervision publique](core_05_band_oversight.md#divulgation-de-base-de-supervision-publique) applies.
-    - If publishing the raw material would break lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [Contestabilité](core_05_band_accountability.md#contestability) — for example:
+    - If publishing the raw material would break lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [Contestabilité](../../core_05.035_band_accountability.md#contestability) — for example:
       - aggregation;
       - de-identification;
       - summary disclosure;
@@ -825,8 +825,8 @@ Voir **Invocation conjointe et satisfaction**.
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si affected parties get decision-relevant clarity about function, limits, and risk — not volume, noise, or insider-only access.
 
-    **Évaluation primaire :** Compare what is disclosed to [Impact matériel](core_05_band_oversight.md#impact-matériel) and [Dépendance](core_05_band_continuity.md#dependency).
-  - **Mesure secondaire :** [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Impact matériel](core_05_band_oversight.md#impact-matériel), [Dépendance](core_05_band_continuity.md#dependency), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Vérifiabilité](core_05_band_oversight.md#vérifiabilité) — co-measures that can defeat transparency even when disclosure volume is high.
+    **Évaluation primaire :** Compare what is disclosed to [Impact matériel](core_05_band_oversight.md#impact-matériel) and [Dépendance](../../core_05.040_band_continuity.md#dependency).
+  - **Mesure secondaire :** [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Impact matériel](core_05_band_oversight.md#impact-matériel), [Dépendance](../../core_05.040_band_continuity.md#dependency), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Vérifiabilité](core_05_band_oversight.md#vérifiabilité) — co-measures that can defeat transparency even when disclosure volume is high.
 
     **Évaluation secondaire :** When checking the primary answer:
     - spot volume, obscurity, or formatting standing in for decision-relevant clarity; and
@@ -845,7 +845,7 @@ Voir **Invocation conjointe et satisfaction**.
   - **Défaillance primaire :**
     - a data dump, mountain of documents, paywall, or insider-only access with no real decision-relevant clarity about function and risk for affected sentients; or
     - material omissions or disclosures that foreseeably block informed participation or [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional) where required.
-  - **Défaillance secondaire :** safety- or security-framed limits that defeat materially required clarity without satisfying [Nécessité](core_05_band_accountability.md#necessity) and [Proportionnalité](core_05_band_accountability.md#proportionality).
+  - **Défaillance secondaire :** safety- or security-framed limits that defeat materially required clarity without satisfying [Nécessité](../../core_05.035_band_accountability.md#necessity) and [Proportionnalité](../../core_05.035_band_accountability.md#proportionality).
   - **Défaillance tertiaire :** disclosure volume or formatting treated as decisive where [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) is reasonably observable.
 
 ---
@@ -858,8 +858,8 @@ Voir **Invocation conjointe et satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Composante de groupe : [Def.O1 Transparence, auditabilité et vérification](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- En aval : **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§6](../../core_09.010_system_alignment_certification_record_process.md#6-system-certification-record) (*Certification record*); [§6.2](../../core_09.010_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) (*Transparency, auditability, and contestability*).
-- Lire avec : [Transparence](core_05_band_oversight.md#transparence), [Contestabilité](core_05_band_accountability.md#contestability), [Auditabilité](core_05_band_oversight.md#auditabilité), [Divulgation du risque](core_05_band_oversight.md#divulgation-du-risque), [Charte](core_05_band_continuity.md#charter), [Limites du système](core_05_band_continuity.md#system-boundaries), [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional), [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional), [Registre de classification du système](core_05_band_continuity.md#system-classification-record-constitutional), [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record-constitutional), [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — Types d’information et traitement** (**Type O**).
+- En aval : **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§6](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (*Certification record*); [§6.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*Transparency, auditability, and contestability*).
+- Lire avec : [Transparence](core_05_band_oversight.md#transparence), [Contestabilité](../../core_05.035_band_accountability.md#contestability), [Auditabilité](core_05_band_oversight.md#auditabilité), [Divulgation du risque](core_05_band_oversight.md#divulgation-du-risque), [Charte](../../core_05.040_band_continuity.md), [Limites du système](../../core_05.040_band_continuity.md#system-boundaries), [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [Registre de certification du système](../../core_05.040_band_continuity.md#system-certification-record-constitutional), [Registre de classification du système](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [Registre des types de données du système](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), [Gouvernance mise à l’échelle de la classification](core_05_band_oversight.md#gouvernance-mise-à-léchelle-de-la-classification), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — Types d’information et traitement** (**Type O**).
 
 </details>
 
@@ -868,7 +868,7 @@ Voir **Invocation conjointe et satisfaction**.
 *En termes simples : le minimum de divulgation publique que les systèmes à fort impact doivent publier pour que les êtres sentients puissent les comprendre, les superviser et les contester — y compris le but, la classe, les dépendances, le statut, le risque, la performance, les défaillances, la gouvernance, les effets sur les parties affectées, l’alignement constitutionnel, et la face publique de la Charte, de la classification, du typage des données et des registres de certification — avec un substitut public fort lorsque les registres bruts privés ou hors-base ne peuvent pas être publiés.*
 
 - **Ce que c’est**
-  - **Dans la portée :** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**. Coverage follows the governing [Charte](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [Limites du système](core_05_band_continuity.md#system-boundaries). It includes what sentients need to understand:
+  - **Dans la portée :** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**. Coverage follows the governing [Charte](../../core_05.040_band_continuity.md) (or equivalent published scope instrument), assigned class, and observed [Limites du système](../../core_05.040_band_continuity.md#system-boundaries). It includes what sentients need to understand:
     - purpose and what the system does;
     - how it is classified;
     - dependency structure and what depends on it;
@@ -878,10 +878,10 @@ Voir **Invocation conjointe et satisfaction**.
     - stakeholder effets ; and
     - how aligned it is with this Constitution.
   - **Class A/B/C Type O instruments:** Where the **Type O** baseline applies for **Class A**, **Class B**, or **Class C**, that floor includes — at public-baseline fidelity, including lawful substitutes — publication or a usable public view of:
-    - the governing [Charte](core_05_band_continuity.md#charter) (or equivalent published scope instrument);
-    - the [Registre de classification du système](core_05_band_continuity.md#system-classification-record-constitutional);
-    - the [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record-constitutional); and
-    - the [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional) produced by [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
+    - the governing [Charte](../../core_05.040_band_continuity.md) (or equivalent published scope instrument);
+    - the [Registre de classification du système](../../core_05.040_band_continuity.md#system-classification-record-constitutional);
+    - the [Registre des types de données du système](../../core_05.040_band_continuity.md#system-data-types-record-constitutional); and
+    - the [Registre de certification du système](../../core_05.040_band_continuity.md#system-certification-record-constitutional) produced by [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
   - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, and stakeholder effects may be satisfied through those records, [Divulgation du risque](core_05_band_oversight.md#divulgation-du-risque) where systemic risk is in scope, and other lawful **Type O** summaries or substitutes — not by omitting the topics.
   - **Lawful substitutes:** Stay in scope where **Type G**, **Type E**, or other source records stay non-public, non-baseline, or otherwise restricted, including:
     - aggregation;
@@ -903,12 +903,12 @@ Voir **Invocation conjointe et satisfaction**.
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **Évaluation primaire :** Compare published disclosure to certified scope from [Charte](core_05_band_continuity.md#charter), assigned class, and [Limites du système](core_05_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**, confirm:
-    - a usable public view of the [Charte](core_05_band_continuity.md#charter), [Registre de classification du système](core_05_band_continuity.md#system-classification-record-constitutional), [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record-constitutional), and [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
+    **Évaluation primaire :** Compare published disclosure to certified scope from [Charte](../../core_05.040_band_continuity.md), assigned class, and [Limites du système](../../core_05.040_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)**, confirm:
+    - a usable public view of the [Charte](../../core_05.040_band_continuity.md), [Registre de classification du système](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [Registre des types de données du système](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), and [Registre de certification du système](../../core_05.040_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance are each covered at baseline depth;
-    - that lawful substitutes still support meaningful accountability and [Contestabilité](core_05_band_accountability.md#contestability); and
+    - that lawful substitutes still support meaningful accountability and [Contestabilité](../../core_05.035_band_accountability.md#contestability); and
     - that free online availability holds where lawful publication infrastructure exists.
-  - **Mesure secondaire :** [Transparence](core_05_band_oversight.md#transparence), [Contestabilité](core_05_band_accountability.md#contestability), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Divulgation du risque](core_05_band_oversight.md#divulgation-du-risque) — co-measures that can defeat the floor even when some public artifacts exist.
+  - **Mesure secondaire :** [Transparence](core_05_band_oversight.md#transparence), [Contestabilité](../../core_05.035_band_accountability.md#contestability), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Divulgation du risque](core_05_band_oversight.md#divulgation-du-risque) — co-measures that can defeat the floor even when some public artifacts exist.
 
     **Évaluation secondaire :** En vérifiant la mesure primaire, look for:
     - thin summaries;
@@ -924,7 +924,7 @@ Voir **Invocation conjointe et satisfaction**.
     - non-public **Type G** audit access, paywalls, or performative summaries used as the public floor;
     - performative summaries that withhold decision-relevant baseline material;
     - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access;
-    - omitting a usable public view of the [Charte](core_05_band_continuity.md#charter), [Registre de classification du système](core_05_band_continuity.md#system-classification-record-constitutional), [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record-constitutional), or [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**; or
+    - omitting a usable public view of the [Charte](../../core_05.040_band_continuity.md), [Registre de classification du système](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [Registre des types de données du système](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), or [Registre de certification du système](../../core_05.040_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)**; or
     - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
   - **Défaillance tertiaire :** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 and [Transparence](core_05_band_oversight.md#transparence).
 
@@ -938,8 +938,8 @@ Voir **Invocation conjointe et satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Composante de groupe : [Def.O1 Transparence, auditabilité et vérification](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- En aval : Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principes : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint); [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
-- Lire avec : [Évaluation du risque](core_05_band_continuity.md#risk-evaluation), [Risque](core_05_band_continuity.md#risk), [Transparence](core_05_band_oversight.md#transparence), [Divulgation de base de supervision publique](core_05_band_oversight.md#divulgation-de-base-de-supervision-publique), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), [Contestabilité](core_05_band_accountability.md#contestability), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), and [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional).
+- En aval : Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principes : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§3.1 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint); [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- Lire avec : [Évaluation du risque](../../core_05.040_band_continuity.md#risk-evaluation), [Risque](../../core_05.040_band_continuity.md#risk), [Transparence](core_05_band_oversight.md#transparence), [Divulgation de base de supervision publique](core_05_band_oversight.md#divulgation-de-base-de-supervision-publique), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), [Contestabilité](../../core_05.035_band_accountability.md#contestability), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), and [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
 
@@ -948,27 +948,27 @@ Voir **Invocation conjointe et satisfaction**.
 *En termes simples : tell the sentients who need to know about systemic risk — keeping the evaluation in a drawer does not count.*
 
 - **Ce que c’est**
-  - **Dans la portée :** Communicating evaluated systemic [Risque](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
-    - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [Transparence](core_05_band_oversight.md#transparence) or [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+  - **Dans la portée :** Communicating evaluated systemic [Risque](../../core_05.040_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
+    - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [Transparence](core_05_band_oversight.md#transparence) or [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
+    - **SAC verification:** Where [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [Registre de certification du système](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **Hors portée :**
-    - [Évaluation du risque](core_05_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
+    - [Évaluation du risque](../../core_05.040_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [Divulgation de base de supervision publique](core_05_band_oversight.md#divulgation-de-base-de-supervision-publique) as the broader public baseline floor; or
-    - findings placement on the [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [Registre de classification du système](core_05_band_continuity.md#system-classification-record-constitutional) or [Registre des types de données du système](core_05_band_continuity.md#system-data-types-record-constitutional) —
+    - findings placement on the [Registre de certification du système](../../core_05.040_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [Registre de classification du système](../../core_05.040_band_continuity.md#system-classification-record-constitutional) or [Registre des types de données du système](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) —
     ceux-là relèvent de leurs propres foyers.
 <a id="risk-disclosure-a"></a>
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si evaluated systemic risk actually reaches the sentients who need it — not only whether an evaluation exists somewhere.
 
-    **Évaluation primaire :** Ask whether disclosure is timely, decision-relevant, and sized to enjeu matériel under [Transparence](core_05_band_oversight.md#transparence). Read with [Évaluation du risque](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
-  - **Mesure secondaire :** [Évaluation du risque](core_05_band_continuity.md#risk-evaluation), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), [Contestabilité](core_05_band_accountability.md#contestability), and [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique) — other checks that can show disclosure failed even when some risk wording is on file.
+    **Évaluation primaire :** Ask whether disclosure is timely, decision-relevant, and sized to enjeu matériel under [Transparence](core_05_band_oversight.md#transparence). Read with [Évaluation du risque](../../core_05.040_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
+  - **Mesure secondaire :** [Évaluation du risque](../../core_05.040_band_continuity.md#risk-evaluation), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), [Contestabilité](../../core_05.035_band_accountability.md#contestability), and [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique) — other checks that can show disclosure failed even when some risk wording is on file.
 
     **Évaluation secondaire :** En vérifiant la mesure primaire, look for walls of text, buried details, insider-only channels, or late notice that keep the sentients who needed the risk picture from actually understanding it in time.
 <a id="risk-disclosure-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :**
-    - failure to disclose risk where [Transparence](core_05_band_oversight.md#transparence) or [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint) requires it; or
-    - [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
+    - failure to disclose risk where [Transparence](core_05_band_oversight.md#transparence) or [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint) requires it; or
+    - [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
   - **Défaillance secondaire :** an internal-only note, buried appendix, or after-the-fact statement used as disclosure when the sentients who needed the risk picture could not use it in time.
 
 ---
@@ -981,9 +981,9 @@ Voir **Invocation conjointe et satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Composante de groupe : [Def.O1 Transparence, auditabilité et vérification](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Reddition de comptes](core_05_apex_accountability_leg.md#accountability), [Contestabilité](core_05_band_accountability.md#contestability), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Transparence](core_05_band_oversight.md#transparence), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Préservation de la preuve](core_05_band_oversight.md#préservation-de-la-preuve), and [Contrainte de complétude de l’évaluation](core_05_band_oversight.md#contrainte-de-complétude-de-lévaluation).
-- Lire avec : **Article XVI** (*Audit, Transparency, and Independent Verification*); [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapitres deux à quatre.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](../../core_06.015_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
+- Lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Reddition de comptes](core_05_apex_accountability_leg.md#accountability), [Contestabilité](../../core_05.035_band_accountability.md#contestability), [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Transparence](core_05_band_oversight.md#transparence), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Préservation de la preuve](core_05_band_oversight.md#préservation-de-la-preuve), and [Contrainte de complétude de l’évaluation](core_05_band_oversight.md#contrainte-de-complétude-de-lévaluation).
+- Lire avec : **Article XVI** (*Audit, Transparency, and Independent Verification*); [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapitres deux à quatre.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](core_06_rights_part_c.md). Three-layer picture: [Article XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -994,7 +994,7 @@ Voir **Invocation conjointe et satisfaction**.
 - **Ce que c’est**
   - **Dans la portée :** Whether outsiders can systematically examine, reconstruct, and evaluate system behavior through enough [Vérifiabilité](core_05_band_oversight.md#vérifiabilité) — including external detectability and independent validation.
     - **Coverage:** Must span the material times, states, and interaction contexts — not only a single snapshot or happy-path sample.
-    - **Oversight role:** Under the **oversight** Tetrad leg, oversight requires this property; [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
+    - **Oversight role:** Under the **oversight** Tetrad leg, oversight requires this property; [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
     - **Operational capability:** Where binding duties require operational capability, auditability includes checking that claimed compliance rests on real, reconstructable capability — not text, assertions, or unimplemented controls alone ([Pile d’autorité et hiérarchie interne](core_05_band_integrative.md#authority-stack) supremacy effect).
   - **Hors portée :**
     - raw logs or [Vérifiabilité](core_05_band_oversight.md#vérifiabilité) external detectability alone;
@@ -1005,8 +1005,8 @@ Voir **Invocation conjointe et satisfaction**.
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si outsiders can reconstruct and check what the system did across the material times, states, and contexts — including whether claimed compliance rests on real capability, not paper alone.
 
-    **Évaluation primaire :** It must work across relevant conditions and [Partie affectée](core_05_band_participation.md#stakeholder), including conditions relevant to [Contestabilité](core_05_band_accountability.md#contestability) and [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [Risque](core_05_band_continuity.md#risk), and désalignement constitutionnel across:
-    - [Limites du système](core_05_band_continuity.md#system-boundaries);
+    **Évaluation primaire :** It must work across relevant conditions and [Partie affectée](../../core_05.055_band_participation.md#stakeholder), including conditions relevant to [Contestabilité](../../core_05.035_band_accountability.md#contestability) and [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [Risque](../../core_05.040_band_continuity.md#risk), and désalignement constitutionnel across:
+    - [Limites du système](../../core_05.040_band_continuity.md#system-boundaries);
     - operating états ; and
     - [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées).
     Where a binding duty requires operational capability, ask whether claimed compliance is backed by verified capability — not:
@@ -1015,10 +1015,10 @@ Voir **Invocation conjointe et satisfaction**.
       - paper controls;
       - emergency practice; or
       - unobservable claims.
-  - **Mesure secondaire :** [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Préservation de la preuve](core_05_band_oversight.md#préservation-de-la-preuve), and [Contestabilité](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
+  - **Mesure secondaire :** [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Préservation de la preuve](core_05_band_oversight.md#préservation-de-la-preuve), and [Contestabilité](../../core_05.035_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
 
     **Évaluation secondaire :** When checking the primary answer:
-    - where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([§9.3 Développement institutionnel](core_01_c_stewardship_capacity_principles.md#93-institutional-development); [Proportionnalité](core_05_band_accountability.md#proportionality)); and
+    - where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([§9.3 Développement institutionnel](core_01_c_stewardship_capacity_principles.md#162-institutional-development); [Proportionnalité](../../core_05.035_band_accountability.md#proportionality)); and
     - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, and effects that matter — and is available for independent [Vérifiabilité](core_05_band_oversight.md#vérifiabilité) and [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional).
   - **Mesure tertiaire :** [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
 
@@ -1029,7 +1029,7 @@ Voir **Invocation conjointe et satisfaction**.
     - audit mechanisms that do not work;
     - failure to enable practical reconstruction and evaluation;
     - a single snapshot, happy-path sample, or narrow window that leaves out material times, states, or interaction contexts;
-    - [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only auditing process or as a substitute for this property;
+    - [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only auditing process or as a substitute for this property;
     - paper claims of constitutional compliance that cannot be reconstructed or challenged; or
     - any of the following used as enough compliance where binding duties require verified operational capability:
       - text;
@@ -1050,7 +1050,7 @@ Voir **Invocation conjointe et satisfaction**.
       - états ;
       - contexts; or
       - [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées);
-    - supremacy or compliance claims while suppressing [Contestabilité](core_05_band_accountability.md#contestability) or defeating auditable verification.
+    - supremacy or compliance claims while suppressing [Contestabilité](../../core_05.035_band_accountability.md#contestability) or defeating auditable verification.
   - **Défaillance tertiaire :** audit sampling or "the metric looks fine" treated as decisive where [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) is reasonably observable.
 
 ---
@@ -1062,9 +1062,9 @@ Voir **Invocation conjointe et satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En aval : Principes : [Chapitre un §3 Contraintes de principe non négociables : Sécurité et Vérité](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [§6 Résolution des conflits de processus](core_05_apex_oversight_leg.md#6-process-conflict-resolution), and [6.2.1 Préservation de l’intégrité épistémique](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
+- En aval : Principes : [Chapitre un §3 Contraintes de principe non négociables : Sécurité et Vérité](core_01_a_values_principles.md), [§6 Résolution des conflits de processus](core_05_apex_oversight_leg.md), and [6.2.1 Préservation de l’intégrité épistémique](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
 - Composante de groupe : [Def.O1 Transparence, auditabilité et vérification](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Lire avec : [Auditabilité](core_05_band_oversight.md#auditabilité), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Transparence](core_05_band_oversight.md#transparence), [Reddition de comptes](core_05_apex_accountability_leg.md#accountability), [Contestabilité](core_05_band_accountability.md#contestability), [Équité procédurale](core_05_band_participation.md#procedural-fairness-constitutional), [Signalement protégé (alerte)](core_05_band_accountability.md#protected-reporting-whistleblowing), and [Réparation et remédiation](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Lire avec : [Auditabilité](core_05_band_oversight.md#auditabilité), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Transparence](core_05_band_oversight.md#transparence), [Reddition de comptes](core_05_apex_accountability_leg.md#accountability), [Contestabilité](../../core_05.035_band_accountability.md#contestability), [Équité procédurale](../../core_05.055_band_participation.md#procedural-fairness-constitutional), [Signalement protégé (alerte)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing), and [Réparation et remédiation](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -1113,8 +1113,8 @@ Voir **Invocation conjointe et satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Composante de groupe : [Def.O1 Transparence, auditabilité et vérification](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- En aval : Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
-- Lire avec : [Auditabilité](core_05_band_oversight.md#auditabilité), [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional), [Charte](core_05_band_continuity.md#charter), [Limites du système](core_05_band_continuity.md#system-boundaries), [Intégrité de la limite du système](core_05_band_continuity.md#system-boundary-integrity), [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées), [Création de systèmes](core_05_band_participation.md#system-creation-constitutional), and [Création d’entreprises](core_05_band_participation.md#business-creation-constitutional).
+- En aval : Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
+- Lire avec : [Auditabilité](core_05_band_oversight.md#auditabilité), [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [Charte](../../core_05.040_band_continuity.md), [Limites du système](../../core_05.040_band_continuity.md#system-boundaries), [Intégrité de la limite du système](../../core_05.040_band_continuity.md#system-boundary-integrity), [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées), [Création de systèmes](../../core_05.055_band_participation.md#system-creation-constitutional), and [Création d’entreprises](../../core_05.055_band_participation.md#business-creation-constitutional).
 
 </details>
 
@@ -1129,30 +1129,30 @@ Voir **Invocation conjointe et satisfaction**.
     - interaction; and
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
-  - **Charter and scope process:** Where a governing [Charte](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [Limites du système](core_05_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [Registre de certification du système](core_05_band_continuity.md#system-certification-record-constitutional).
+  - **Charter and scope process:** Where a governing [Charte](../../core_05.040_band_continuity.md) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [Limites du système](../../core_05.040_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
+  - **SAC verification:** Where [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [Registre de certification du système](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
   - **Hors portée :**
-    - [Charte](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
-    - [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
+    - [Charte](../../core_05.040_band_continuity.md) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
+    - [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
     - ordinary unit or feature tests that are not offered as complete constitutional evaluation.
 <a id="evaluation-completeness-constraint-a"></a>
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si evaluation covers plausible failure, misuse, interaction, and adversarial pathways — not only selective demo scenarios.
 
-    **Évaluation primaire :** Show enough coverage of plausible pathways, sized to system impact, [Dépendance](core_05_band_continuity.md#dependency), and [Risque](core_05_band_continuity.md#risk), including:
+    **Évaluation primaire :** Show enough coverage of plausible pathways, sized to system impact, [Dépendance](../../core_05.040_band_continuity.md#dependency), and [Risque](../../core_05.040_band_continuity.md#risk), including:
     - défaillance ;
     - mésusage ;
     - interaction; and
     - [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées) where material.
     Also ask:
-      - where a [Charte](core_05_band_continuity.md#charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where a [Charte](../../core_05.040_band_continuity.md) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
+      - where [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :**
     - selective demo scenarios or marketing test suites used as complete evaluation while plausible failure, misuse, interaction, or adversarial pathways remain skipped;
-    - incomplete or selectively scoped evaluation that defeats [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Auditabilité](core_05_band_oversight.md#auditabilité), or [Intégrité de la limite du système](core_05_band_continuity.md#system-boundary-integrity); or
-    - [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
+    - incomplete or selectively scoped evaluation that defeats [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Auditabilité](core_05_band_oversight.md#auditabilité), or [Intégrité de la limite du système](../../core_05.040_band_continuity.md#system-boundary-integrity); or
+    - [Certification d’alignement du système](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
   - **Défaillance secondaire :** Charter text, institutional mandate language, business-purpose statements, or a narrow certification demo suite used as complete evaluation while any of the following remain unevaluated:
     - défaillance ;
     - mésusage ;
@@ -1177,7 +1177,7 @@ Voir **Invocation conjointe et satisfaction**.
 
 - Composante de groupe : [Def.O1 Transparence, auditabilité et vérification](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Owner floor: [Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
-- Lire avec : [Auditabilité](core_05_band_oversight.md#auditabilité), [Transparence](core_05_band_oversight.md#transparence), [Contestabilité](core_05_band_accountability.md#contestability), [Proportionnalité](core_05_band_accountability.md#proportionality), [Faisabilité](core_05_band_accountability.md#feasibility), [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées).
+- Lire avec : [Auditabilité](core_05_band_oversight.md#auditabilité), [Transparence](core_05_band_oversight.md#transparence), [Contestabilité](../../core_05.035_band_accountability.md#contestability), [Proportionnalité](../../core_05.035_band_accountability.md#proportionality), [Faisabilité](../../core_05.035_band_accountability.md#feasibility), [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées).
 
 </details>
 
@@ -1188,9 +1188,9 @@ Voir **Invocation conjointe et satisfaction**.
 - **Ce que c’est**
   - **Dans la portée :** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [Auditabilité](core_05_band_oversight.md#auditabilité). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Faisabilité](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Faisabilité](../../core_05.035_band_accountability.md#feasibility));
     - independence from operator self-assertion;
-    - proportionate burden under [Proportionnalité](core_05_band_accountability.md#proportionality) and [Impact matériel](core_05_band_oversight.md#impact-matériel); and
+    - proportionate burden under [Proportionnalité](../../core_05.035_band_accountability.md#proportionality) and [Impact matériel](core_05_band_oversight.md#impact-matériel); and
     - reliability under ordinary stress, misuse, and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées).
   - **Hors portée :**
     - internal telemetry or operator-facing instrumentation alone; or
@@ -1213,11 +1213,11 @@ Voir **Invocation conjointe et satisfaction**.
   - **Mesure secondaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si observed behavior can be independently validated by reproducible methods in practice.
 
     **Évaluation secondaire :** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Faisabilité](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Faisabilité](../../core_05.035_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
-    - are sized to system impact under [Proportionnalité](core_05_band_accountability.md#proportionality) and [Impact matériel](core_05_band_oversight.md#impact-matériel); and
+    - are sized to system impact under [Proportionnalité](../../core_05.035_band_accountability.md#proportionality) and [Impact matériel](core_05_band_oversight.md#impact-matériel); and
     - remain reliable under ordinary stress, misuse, and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées).
-  - **Mesure tertiaire :** [Auditabilité](core_05_band_oversight.md#auditabilité), [Impact matériel](core_05_band_oversight.md#impact-matériel), [Contestabilité](core_05_band_accountability.md#contestability), and [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle) — co-measures that can defeat verification even when methods are nominally documented.
+  - **Mesure tertiaire :** [Auditabilité](core_05_band_oversight.md#auditabilité), [Impact matériel](core_05_band_oversight.md#impact-matériel), [Contestabilité](../../core_05.035_band_accountability.md#contestability), and [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle) — co-measures that can defeat verification even when methods are nominally documented.
 
     **Évaluation tertiaire :** When checking the primary and secondary answers, spot verification that fails any constitutive condition above even when a channel exists on paper.
 <a id="observability-c"></a>
@@ -1229,7 +1229,7 @@ Voir **Invocation conjointe et satisfaction**.
 <a id="verifiability-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :**
-    - insufficient external detectability that defeats [Auditabilité](core_05_band_oversight.md#auditabilité), [Contestabilité](core_05_band_accountability.md#contestability), or independent validation;
+    - insufficient external detectability that defeats [Auditabilité](core_05_band_oversight.md#auditabilité), [Contestabilité](../../core_05.035_band_accountability.md#contestability), or independent validation;
     - unverifiable claims under [Auditabilité](core_05_band_oversight.md#auditabilité), [Transparence](core_05_band_oversight.md#transparence), or [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle); or
     - operator self-assertion used as proof of externally detectable, independently validated behavior.
   - **Défaillance secondaire :**
@@ -1239,7 +1239,7 @@ Voir **Invocation conjointe et satisfaction**.
     - verification whose burden is excessive for low impact, or token for high impact;
     - verification that an independent qualified reviewer cannot reproduce with the required evidence and access; or
     - verification that becomes unreliable under [Raisonnablement prévisible](core_05_band_oversight.md#raisonnablement-prévisible) operating, degraded, scaled, or adversarial conditions.
-  - **Défaillance tertiaire :** a verification channel that exists on paper while [Contestabilité](core_05_band_accountability.md#contestability) or another constitutive condition is missing in practice.
+  - **Défaillance tertiaire :** a verification channel that exists on paper while [Contestabilité](../../core_05.035_band_accountability.md#contestability) or another constitutive condition is missing in practice.
 
 ---
 
@@ -1256,7 +1256,7 @@ Voir **Invocation conjointe et satisfaction**.
 - En aval : Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
 - Chapitre un basis: Chapitre un §8.2, §3.3, §4, §12.1, §12.2 (see [boussole](core_05__definitions_home.md#boussole-et-carte-des-définitions-du-chapitre-cinq) map).
-- Lire avec : Apply [Bonne foi](core_05_band_accountability.md#good-faith), [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Dépendance](core_05_band_continuity.md#dependency), [Transparence](core_05_band_oversight.md#transparence), [Auditabilité](core_05_band_oversight.md#auditabilité), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Contestabilité](core_05_band_accountability.md#contestability), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), [Risque](core_05_band_continuity.md#risk), and Chapitres deux à quatre mechanics where matériellement impliqué.
+- Lire avec : Apply [Bonne foi](../../core_05.035_band_accountability.md#good-faith), [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Dépendance](../../core_05.040_band_continuity.md#dependency), [Transparence](core_05_band_oversight.md#transparence), [Auditabilité](core_05_band_oversight.md#auditabilité), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Contestabilité](../../core_05.035_band_accountability.md#contestability), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), [Risque](../../core_05.040_band_continuity.md#risk), and Chapitres deux à quatre mechanics where matériellement impliqué.
 
 </details>
 
@@ -1310,7 +1310,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *En termes simples : if you publish something as fact, do not knowingly lie — and do not recklessly ignore accuracy, uncertainty, context, or material interpretive limits.*
 
 - **Ce que c’est**
-  - **Dans la portée :** Bounds on communicative conduct when publishing or communicating as a factual assertion within the [Info-sphère](core_05_band_participation.md#info-sphere).
+  - **Dans la portée :** Bounds on communicative conduct when publishing or communicating as a factual assertion within the [Info-sphère](../../core_05.055_band_participation.md#info-sphere).
   - **Hors portée :**
     - opinion, commentary, or satire that is not presented as a factual assertion; and
     - good-faith error that is neither knowing falsity nor reckless disregard for accuracy, uncertainty, context, or material interpretive limits.
@@ -1323,10 +1323,10 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - uncertainty;
     - context; or
     - material interpretive limits,
-    from good-faith observation and bounded interpretation, under [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle) and [Bonne foi](core_05_band_accountability.md#good-faith).
+    from good-faith observation and bounded interpretation, under [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle) and [Bonne foi](../../core_05.035_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **Ce qui doit tenir**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapitre onze **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), [Bonne foi](core_05_band_accountability.md#good-faith), and [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapitre onze **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle), [Bonne foi](../../core_05.035_band_accountability.md#good-faith), and [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique).
   - **Défaillance primaire :** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;
@@ -1340,16 +1340,16 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *En termes simples : do not publish restricted data or expose another sentient's protected inner cognitive or emotional states.*
 
 - **Ce que c’est**
-  - **Dans la portée :** Limits on publishing content that violates restricted-data rules or exposes protected internal states within the [Info-sphère](core_05_band_participation.md#info-sphere).
+  - **Dans la portée :** Limits on publishing content that violates restricted-data rules or exposes protected internal states within the [Info-sphère](../../core_05.055_band_participation.md#info-sphere).
   - **Hors portée :** Ordinary public facts, lawfully released information, or publication limited for systemic-harm reasons rather than for protected data or internal-state exposure.
 <a id="protected-data-and-internal-state-publication-constraint-a"></a>
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si publication respects restricted-data rules and protected internal-state boundaries — not reconstructing or exposing protected cognitive or emotional states.
 
-    **Évaluation primaire :** Publication must not bypass **[corpus_systems.md](../../corpus_systems.md), CS-2 — Types d’information et traitement**, [Vie privée (informationnelle)](core_05_band_continuity.md#privacy-informational), [Frontière de l’état interne protégé](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
+    **Évaluation primaire :** Publication must not bypass **[corpus_systems.md](../../corpus_systems.md), CS-2 — Types d’information et traitement**, [Vie privée (informationnelle)](../../core_05.040_band_continuity.md#privacy-informational), [Frontière de l’état interne protégé](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **Ce qui doit tenir**
-  - **Défaillance primaire :** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Vie privée (informationnelle)](core_05_band_continuity.md#privacy-informational) and [Frontière de l’état interne protégé](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
+  - **Défaillance primaire :** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Vie privée (informationnelle)](../../core_05.040_band_continuity.md#privacy-informational) and [Frontière de l’état interne protégé](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional).
 
 <a id="high-impact-and-systemic-harm-publication-constraint"></a>
 
@@ -1358,7 +1358,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *En termes simples : even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure.*
 
 - **Ce que c’est**
-  - **Dans la portée :** Publication that goes out through channels that can broadly affect the shared information environment ([Info-sphère](core_05_band_participation.md#info-sphere)), cause [Préjudice](core_05_band_accountability.md#harm), or shape how sentients coordinate.
+  - **Dans la portée :** Publication that goes out through channels that can broadly affect the shared information environment ([Info-sphère](../../core_05.055_band_participation.md#info-sphere)), cause [Préjudice](../../core_05.035_band_accountability.md#harm), or shape how sentients coordinate.
   - **Hors portée :** Ordinary true reporting without a foreseeable systemic-harm or harmful-coordination pathway, or ordinary truthfulness disputes under the recklessness floor.
 <a id="high-impact-and-systemic-harm-publication-constraint-a"></a>
 - **Comment mesurer et évaluer**
@@ -1366,16 +1366,16 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 
     **Évaluation primaire :** Consider primary and [Raisonnablement prévisible](core_05_band_oversight.md#raisonnablement-prévisible) effects on:
     - coordination ;
-    - [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint);
+    - [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint);
     - exploitation of vulnerabilities; and
-    - [Info-sphère](core_05_band_participation.md#info-sphere) integrity.
+    - [Info-sphère](../../core_05.055_band_participation.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
 - **Ce qui doit tenir**
   - Even factually accurate publication is constrained where its primary or [Raisonnablement prévisible](core_05_band_oversight.md#raisonnablement-prévisible) effect is to enable:
-    - targeted [Préjudice](core_05_band_accountability.md#harm);
-    - [Contrainte et manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional);
+    - targeted [Préjudice](../../core_05.035_band_accountability.md#harm);
+    - [Contrainte et manipulation](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional);
     - large-scale harmful coordination ;
-    - [Défaillance en cascade](core_05_band_continuity.md#cascading-failure); or
+    - [Défaillance en cascade](../../core_05.040_band_continuity.md#cascading-failure); or
     - patterns that materially degrade [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique).
   - **Class A** and **Class B** systems under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**, trigger heightened proportional constraints on distribution mechanics and safeguards.
   - **Défaillance primaire :** publishing without the proportional distribution constraints and safeguards required for these primary or reasonably foreseeable effects, including the heightened constraints for **Class A** and **Class B** systems.
@@ -1393,7 +1393,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si disclosure benefits outweigh foreseeable exploitation, circumvention, or adversarial-manipulation risks.
 
-    **Évaluation primaire :** Balance disclosure benefits against foreseeable risks under [Risque](core_05_band_continuity.md#risk), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées), consistent with Chapitres deux à quatre and Chapitre un, covering:
+    **Évaluation primaire :** Balance disclosure benefits against foreseeable risks under [Risque](../../core_05.040_band_continuity.md#risk), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées), consistent with Chapitres deux à quatre and Chapitre un, covering:
     - exploitation;
     - circumvention; or
     - adversarial manipulation.
@@ -1404,7 +1404,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **Ce qui doit tenir**
   - Good-faith security researchers must have a usable, non-retaliatory route to publish low-risk information — including existence notice and non-exploit-enabling detail — without treating researcher publication itself as prohibited disclosure.
   - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under CS-2 — then disclosed under applicable deferred-disclosure and **Type O** summary rules.
-  - **Défaillance primaire :** consistent with **Chapitres deux à quatre**, **Chapitre un**, [Risque](core_05_band_continuity.md#risk), [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées):
+  - **Défaillance primaire :** consistent with **Chapitres deux à quatre**, **Chapitre un**, [Risque](../../core_05.040_band_continuity.md#risk), [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées):
     - publication that materially enables circumvention of safeguards or adversarial manipulation where those risks outweigh the benefits of disclosure;
     - suppressing low-risk good-faith researcher publication; or
     - indefinite hold-back of discloseable detail after mitigation without a still-justified **Type S** (or equivalent) restriction.
@@ -1421,7 +1421,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - honest treatment of what is known, unknown, and uncertain;
     - resistance to deception, distortion, and structurally misleading presentation; and
     - assessment methods sized to the stakes under Chapitres deux à quatre.
-  - **Depends on:** [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [Chapitre un §3 Contraintes de principe non négociables : Sécurité et Vérité](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); truth duties include honest risk and uncertainty communication where safety is materially at stake.
+  - **Depends on:** [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [Chapitre un §3 Contraintes de principe non négociables : Sécurité et Vérité](core_01_a_values_principles.md); truth duties include honest risk and uncertainty communication where safety is materially at stake.
   - **Hors portée :**
     - polite tone or procedural courtesy alone; or
     - market prices or odds as ordinary economic signals outside rights, safety, or governance truth determinations —
@@ -1430,7 +1430,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si materially decision-relevant claims stay honest about what is known, unknown, and uncertain — resisting deception, distortion, and structurally misleading presentation.
 
-    **Évaluation primaire :** Judge the real effect on informed decision-making and auditability — scale scrutiny with [Impact matériel](core_05_band_oversight.md#impact-matériel), [Dépendance](core_05_band_continuity.md#dependency), and [Risque](core_05_band_continuity.md#risk); require honest methods, honest uncertainty treatment, and revision when evidence disconfirms prior conclusions.
+    **Évaluation primaire :** Judge the real effect on informed decision-making and auditability — scale scrutiny with [Impact matériel](core_05_band_oversight.md#impact-matériel), [Dépendance](../../core_05.040_band_continuity.md#dependency), and [Risque](../../core_05.040_band_continuity.md#risk); require honest methods, honest uncertainty treatment, and revision when evidence disconfirms prior conclusions.
   - **Mesure secondaire :** [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Auditabilité](core_05_band_oversight.md#auditabilité), [Transparence](core_05_band_oversight.md#transparence), and [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité) — co-measures that can defeat truth even when formal disclosure exists.
 
     **Évaluation secondaire :** En vérifiant la mesure primaire, include [Intégrité épistémique](core_05_band_oversight.md#intégrité-épistémique), [Auditabilité](core_05_band_oversight.md#auditabilité), and [Transparence](core_05_band_oversight.md#transparence) paths that would defeat honest interpretation or verification.
@@ -1446,7 +1446,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - selective disclosure; or
     - structurally misleading presentation —
     including polite tone or procedural form used as a substitute for honest treatment of what is known, unknown, and uncertain.
-  - **Défaillance secondaire :** jargon, stacked complexity, or procedural opacity used to defeat [Contestabilité](core_05_band_accountability.md#contestability) or [Auditabilité](core_05_band_oversight.md#auditabilité) where materially relevant.
+  - **Défaillance secondaire :** jargon, stacked complexity, or procedural opacity used to defeat [Contestabilité](../../core_05.035_band_accountability.md#contestability) or [Auditabilité](core_05_band_oversight.md#auditabilité) where materially relevant.
   - **Défaillance tertiaire :** prices, odds, or market resolution sources used as enough for rights, safety, or governance truth determinations where Chapitre un forbids that substitution, or refusal of correction after [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) is reasonably observable.
 
 <a id="epistemic-integrity"></a>
@@ -1477,9 +1477,9 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - prestige;
     - scale; or
     - complexity.
-  - **Mesure secondaire :** [Auditabilité](core_05_band_oversight.md#auditabilité), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Transparence](core_05_band_oversight.md#transparence), and [Contestabilité](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
+  - **Mesure secondaire :** [Auditabilité](core_05_band_oversight.md#auditabilité), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), [Transparence](core_05_band_oversight.md#transparence), and [Contestabilité](../../core_05.035_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
 
-    **Évaluation secondaire :** En vérifiant la mesure primaire, also check [Auditabilité](core_05_band_oversight.md#auditabilité), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), and [Contestabilité](core_05_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [Diligence de prévisibilité](core_05_band_oversight.md#diligence-de-prévisibilité).
+    **Évaluation secondaire :** En vérifiant la mesure primaire, also check [Auditabilité](core_05_band_oversight.md#auditabilité), [Vérifiabilité](core_05_band_oversight.md#vérifiabilité), and [Contestabilité](../../core_05.035_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [Diligence de prévisibilité](core_05_band_oversight.md#diligence-de-prévisibilité).
   - **Mesure tertiaire :** [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) — where authority, prestige, scale, or complexity stands in for demonstrable integrity.
 
     **Évaluation tertiaire :** Where operators lean on authority, model opacity, or unverifiable assertion, apply [Divergence d’indicateurs substituts](core_05_band_oversight.md#divergence-dindicateurs-substituts) — separate durable epistemic integrity from procedural form.
@@ -1501,7 +1501,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Lire avec : Apply [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Contrainte de complétude de l’évaluation](core_05_band_oversight.md#contrainte-de-complétude-de-lévaluation), [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées), [Auditabilité](core_05_band_oversight.md#auditabilité), [Proportionnalité](core_05_band_accountability.md#proportionality), [Limites du système](core_05_band_continuity.md#system-boundaries), and Chapitres deux à quatre mechanics where matériellement impliqué.
+- Lire avec : Apply [Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité), [Contrainte de complétude de l’évaluation](core_05_band_oversight.md#contrainte-de-complétude-de-lévaluation), [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#conditions-adversaires-mises-à-léchelle-et-exploitées), [Auditabilité](core_05_band_oversight.md#auditabilité), [Proportionnalité](../../core_05.035_band_accountability.md#proportionality), [Limites du système](../../core_05.040_band_continuity.md#system-boundaries), and Chapitres deux à quatre mechanics where matériellement impliqué.
 
 </details>
 
@@ -1516,8 +1516,8 @@ This nested sub-block is the joint home for publication-conduct floors and inter
   - misuse pathways; or
   - operating conditions;
 - whether “we could not have foreseen it” claims are justified;
-- whether analysis depth, scope, and scaling match [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Risque](core_05_band_continuity.md#risk), and [Dépendance](core_05_band_continuity.md#dependency); or
-- whether evaluation was incomplete in a way that defeats [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint), [Risque](core_05_band_continuity.md#risk) assessment, or [Diligence de prévisibilité](core_05_band_oversight.md#diligence-de-prévisibilité).
+- whether analysis depth, scope, and scaling match [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque matériel](core_05_band_oversight.md#risque-matériel), [Risque](../../core_05.040_band_continuity.md#risk), and [Dépendance](../../core_05.040_band_continuity.md#dependency); or
+- whether evaluation was incomplete in a way that defeats [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint), [Risque](../../core_05.040_band_continuity.md#risk) assessment, or [Diligence de prévisibilité](core_05_band_oversight.md#diligence-de-prévisibilité).
 Outside that scope, individual entries may still apply on their own without importing the full compound.
 
 Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapitres deux à quatre** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapitre deux, §3 — Cohérence à travers la pile de définitions](core_02_definition_structure.md#3-cohérence-à-travers-la-pile-de-définitions)).
@@ -1543,12 +1543,12 @@ Voir **Invocation conjointe et satisfaction**.
 
 - **Ce que c’est**
   - **Dans la portée :** A standard of reasonable analysis sized to impact, covering:
-    - analysis depth that scales with [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque](core_05_band_continuity.md#risk), and [Dépendance](core_05_band_continuity.md#dependency) under [Proportionnalité](core_05_band_accountability.md#proportionality);
+    - analysis depth that scales with [Impact matériel](core_05_band_oversight.md#impact-matériel), [Risque](../../core_05.040_band_continuity.md#risk), and [Dépendance](../../core_05.040_band_continuity.md#dependency) under [Proportionnalité](../../core_05.035_band_accountability.md#proportionality);
     - required evaluation boundaries, including:
       - interactions;
       - dependency;
       - adversarial use; and
-      - relevant [Limites du système](core_05_band_continuity.md#system-boundaries);
+      - relevant [Limites du système](../../core_05.040_band_continuity.md#system-boundaries);
     - the duty to actually perform that evaluation; and
     - responsibility for justifying non-foreseeability claims under [Raisonnablement prévisible](core_05_band_oversight.md#raisonnablement-prévisible).
   - **Hors portée :**
@@ -1565,26 +1565,26 @@ Voir **Invocation conjointe et satisfaction**.
 
     **Évaluation primaire :** Include known methods and patterns for what is [Raisonnablement prévisible](core_05_band_oversight.md#raisonnablement-prévisible), scaled to:
     - [Impact matériel](core_05_band_oversight.md#impact-matériel);
-    - [Risque](core_05_band_continuity.md#risk); and
-    - [Dépendance](core_05_band_continuity.md#dependency).
+    - [Risque](../../core_05.040_band_continuity.md#risk); and
+    - [Dépendance](../../core_05.040_band_continuity.md#dependency).
     Include evaluation boundaries covering:
     - interactions;
-    - [Dépendance](core_05_band_continuity.md#dependency);
+    - [Dépendance](../../core_05.040_band_continuity.md#dependency);
     - adversarial use; and
-    - relevant [Limites du système](core_05_band_continuity.md#system-boundaries).
-    Include [Auditabilité](core_05_band_oversight.md#auditabilité)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [Risque](core_05_band_continuity.md#risk) evaluation, or [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint).
+    - relevant [Limites du système](../../core_05.040_band_continuity.md#system-boundaries).
+    Include [Auditabilité](core_05_band_oversight.md#auditabilité)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [Risque](../../core_05.040_band_continuity.md#risk) evaluation, or [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint).
 <a id="foreseeability-burden-c"></a>
 <a id="foreseeability-failure-c"></a>
 <a id="foreseeability-scaling-c"></a>
 <a id="foreseeability-scope-c"></a>
 <a id="foreseeability-diligence-c"></a>
 - **Ce qui doit tenir**
-  - Analysis depth must scale with [Impact matériel](core_05_band_oversight.md#impact-matériel) and [Risque](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
+  - Analysis depth must scale with [Impact matériel](core_05_band_oversight.md#impact-matériel) and [Risque](../../core_05.040_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
   - Evaluation boundaries must include:
     - interactions;
-    - [Dépendance](core_05_band_continuity.md#dependency);
+    - [Dépendance](../../core_05.040_band_continuity.md#dependency);
     - adversarial use; and
-    - relevant [Limites du système](core_05_band_continuity.md#system-boundaries).
+    - relevant [Limites du système](../../core_05.040_band_continuity.md#system-boundaries).
   - Non-foreseeability claims require [Auditabilité](core_05_band_oversight.md#auditabilité)-compatible justification — assertion alone is not enough.
   - **Défaillance primaire :**
     - checkbox analysis with no real foreseeability evaluation;
@@ -1594,7 +1594,7 @@ Voir **Invocation conjointe et satisfaction**.
     - superficial analysis despite high impact;
     - scope limitation below required boundaries;
     - insufficient justification for a non-foreseeability claim; or
-    - incompleteness that defeats [Diligence de prévisibilité](core_05_band_oversight.md#diligence-de-prévisibilité), [Risque](core_05_band_continuity.md#risk) evaluation, or [Sécurité (contrainte)](core_05_band_continuity.md#safety-constraint).
+    - incompleteness that defeats [Diligence de prévisibilité](core_05_band_oversight.md#diligence-de-prévisibilité), [Risque](../../core_05.040_band_continuity.md#risk) evaluation, or [Sécurité (contrainte)](../../core_05.040_band_continuity.md#safety-constraint).
 
 <a id="reasonably-foreseeable"></a>
 
@@ -1618,6 +1618,6 @@ Voir **Invocation conjointe et satisfaction**.
 
 **Fichier précédent :** [core_05_band_integrative.md](core_05_band_integrative.md)
 
-**Fichier suivant (cette langue) :** [core_05_band_participation.md](core_05_band_participation.md)
+**Fichier suivant (cette langue) :** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 
 **Original contraignant :** [core_05_band_oversight.md](../../core_05.050_band_oversight.md)

@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [Beşinci Bölüm pusulası](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); ilke-katmanı açıklaması [Önsöz §1](core_00_preamble.md#flourishing)de.
-- Aşağı: İlkeler: [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 Pazarlığa kapalı ilke kısıtları: Güvenlik ve Doğruluk](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 Güven](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 Anayasal sonuç iddiaları disiplini](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Anayasal amaç ayrıştırması](#flourishing-aim-decomposition); [Beşinci Bölüm pusulası](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası)na göre **Gelişim**in birincil amaç olduğu Dörtlü bant dosyaları.
+- Aşağı: İlkeler: [§2 Temel hedef: Esenlik](core_01_a_values_principles.md); [§3 Pazarlığa kapalı ilke kısıtları: Güvenlik ve Doğruluk](core_01_a_values_principles.md); [§4 Güven](core_01_a_values_principles.md); [§11.1.5 Anayasal sonuç iddiaları disiplini](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Anayasal amaç ayrıştırması](#flourishing-aim-decomposition); [Beşinci Bölüm pusulası](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası)na göre **Gelişim**in birincil amaç olduğu Dörtlü bant dosyaları.
 - Birlikte oku: [Esenlik](../../core_05.040_band_continuity.md#wellbeing), [Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Doğruluk (Anayasal kısıt)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Güvenilirlik](../../core_05.040_band_continuity.md#trustworthiness), [Anlamlı eylem yetisi](../../core_05.055_band_participation.md#meaningful-agency), [Vekil sapması](../../core_05.050_band_oversight.md#proxy-divergence), [Sistem ele geçirmesi](../../core_05.040_band_continuity.md#system-capture), [Süreklilik (Anayasal Amaç)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (eşlenik amaç — hiçbiri diğerinin pahasına izlenemez), [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) [maddi pay](core_00_preamble.md#material-stake)a ölçeklenmiş (bu amacın meşruiyet çerçevesi — beşinci bir kurucu öğe değil), ve Gelişim ölçüm ailesi.
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) altında, [maddi pay](core_00_preamble.md#material-stake)a ölçeklenerek yargılayın.
-  - İddia edilen gelişim sonuçlarını [kurucu öğe](#flourishing-aim-decomposition) koşullarına ve algılayanların gerçekten deneyimlediği sonuçlara bağlayın, Dördüncü Bölüm ve [Birinci Bölüm §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) altında.
+  - İddia edilen gelişim sonuçlarını [kurucu öğe](#flourishing-aim-decomposition) koşullarına ve algılayanların gerçekten deneyimlediği sonuçlara bağlayın, Dördüncü Bölüm ve [Birinci Bölüm §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) altında.
   - Her zaman [Süreklilik (Anayasal Amaç)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) ile okuyun: uzun vadeli istikrarı, dayanıklılığı ya da ekolojik bütünlüğü öngörülebilir biçimde zayıflatan kısa vadeli kazançlar, iki amaç birlikte yargılandığında **Gelişimi** başarısız kılar.
 <a id="flourishing-constitutional-c"></a>
 - C: Uyumsuz olduğunda:
   - bir yapı taşı eniyilenirken doğruluk, güvenlik, güvenilirlik ya da eylem yetisi oyuklaştırılır;
   - gelişim iddiaları Dördüncü Bölüm altında anayasal sonuçlara izlenemez; ya da
-  - **Gelişim**, [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) altında açık izin olmaksızın [Süreklilik (Anayasal Amaç)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)ı maddi olarak boşa çıkaran bir yolda izlenir.
+  - **Gelişim**, [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md) altında açık izin olmaksızın [Süreklilik (Anayasal Amaç)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)ı maddi olarak boşa çıkaran bir yolda izlenir.
 
 ---
 

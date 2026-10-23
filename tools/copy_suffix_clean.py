@@ -64,7 +64,11 @@ def main(argv: list[str] | None = None) -> int:
         elif not orig.exists():
             print(f"KEEP (original missing): {rel}")
         else:
-            differs = path.read_bytes() != orig.read_bytes()
+            try:
+                differs = path.read_bytes() != orig.read_bytes()
+            except OSError:
+                # A sync-conflict copy can be locked or unreadable; fall back to comparing sizes.
+                differs = path.stat().st_size != orig.stat().st_size
             print(f"{'REMOVE' if args.write else 'would remove'}{' (differs from original)' if differs else ''}: {rel}")
             removable.append(path)
 

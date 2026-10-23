@@ -68,7 +68,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
   - **CI-14.205** (*Appointment, competency, rotation, and removal*),
   - **CI-6.215** (*Resource stewardship and incentive integrity*),
   - **CI-13.210** (*Cross-institution coordination and escalation*).
-- Topic routing (mandatory read-with): **CJS-R22** (*Standing-record custody, opening authority, and segregation of duties*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.205** (*Institutional design, separation of powers, and authority custody*).
+- Topic routing (mandatory read-with): **CJS-R22** (*Standing-record custody, opening authority, and separation of duties*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.205** (*Institutional design, separation of powers, and authority custody*).
 - Topic routing (mandatory read-with): **CJS-R23** (*Seat types, local role maps, and wrong-seat routing*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-14.205** (*Appointment, competency, rotation, and removal*).
 
 </details>
@@ -93,7 +93,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 
 Use this rule when legitimate governance, participation, concentration control, or system-wide review depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, dependencies, or implementation layers work together.
 
-One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because distributed-authority failures often surface only when authority, oversight, and verification are judged together; a sub-rule can look satisfied in isolation while capture, monopoly, or illegitimacy remains in the combined claim. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) as a whole: authority, oversight, and verification must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because distributed-authority failures often surface only when authority, oversight, and verification are judged together; a sub-rule can look satisfied in isolation while capture, monopoly, or illegitimacy remains in the combined claim. It states the integrated obligation, evaluation, and compliance minimum for **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) as a whole: authority, oversight, and verification must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 <a id="distributed-and-proportional-authority-terms"></a>
 distributed and proportional authority terms
@@ -112,7 +112,7 @@ distributed and proportional authority terms
 - **What must hold**
   - **Primary failure:** Governance legitimacy if any material component is missing, unevaluated, or bypassed.
 
-The sub-rules below apply that cluster floor to specific anti-concentration, distribution, accountability, classification, lane, systemic, formation, oversight, participation, and stewardship dimensions. Read them together with the cluster floor and the CJS read-with chain.
+The sub-rules below apply that cluster minimum to specific anti-concentration, distribution, accountability, classification, lane, systemic, formation, oversight, participation, and stewardship dimensions. Read them together with the cluster minimum and the CJS read-with chain.
 
 
 
@@ -141,7 +141,7 @@ The sub-rules below apply that cluster floor to specific anti-concentration, dis
 
 Adopters must define [Market Concentration Threshold](../core_05.035_band_accountability.md#market-concentration-threshold) indicators and activate mitigation when thresholds are crossed or credibly approached. Threshold-setting must follow this discipline:
 
-- **Floor preservation:** No adopter-set threshold may sit above a level at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that level is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
+- **Requirement preservation:** No adopter-set threshold may sit above a level at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that level is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
 - **Substance over form:** Thresholds judge substantive concentration, not headcount of legal entities. In scope where they produce concentrated material effect without formal concentration: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, and comparable indirection. Aggregation through federated structures to evade the threshold is non-compliant.
 - **Anti-nullification:** Adopter-tunable does **not** mean adopter-optional. Non-compliant nullifications of the floor under [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation) include:
   - thresholds set so high they foreseeably never bind;
@@ -158,16 +158,16 @@ Market-concentration threshold activation
 *In plain terms: define real concentration indicators, and act when they are crossed or clearly about to be — not after harm is locked in.*
 
 - **What it is**
-  - **In scope:** Systems must define concentration indicators and thresholds, and activate mitigation when thresholds are crossed or credibly approached, under the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above.
+  - **In scope:** Systems must define concentration indicators and thresholds, and activate mitigation when thresholds are crossed or credibly approached, under the requirement-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above.
   - **Out of scope:** ordinary market-share commentary or competitive analysis with no adopter threshold, mitigation trigger, or concentration-floor stake.
 <a id="market-concentration-threshold-activation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** lasting control, dependency concentration, and interface-gatekeeping metrics, available mitigation options, and the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above
+  - **Primary measure:** lasting control, dependency concentration, and interface-gatekeeping metrics, available mitigation options, and the requirement-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above
 
-    **Primary assessment:** Reviewers must verify metrics such as lasting control, dependency concentration, and interface gatekeeping, along with available mitigation options, together with the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above.
+    **Primary assessment:** Reviewers must verify metrics such as lasting control, dependency concentration, and interface gatekeeping, along with available mitigation options, together with the requirement-preservation, substance-over-form, anti-nullification, and heightened-scrutiny discipline above.
 <a id="market-concentration-threshold-activation-c"></a>
 - **What must hold**
-  - **Primary failure:** Persistent concentration without effective mitigation; threshold regimes that nullify the constitutional floor.
+  - **Primary failure:** Persistent concentration without effective mitigation; threshold regimes that nullify the constitutional requirements.
 
 
 
@@ -194,7 +194,7 @@ Market-concentration threshold activation
 
 *In plain terms: this is the operational checklist for domination-shaped conduct and the remedy toolbox that restores contestability — not a ban on being large or innovative.*
 
-When market-structuring arrangements cross the [Chapter One §11 Market Structure](../core_01.005_values_principles.md#11-market-structure) floor or produce durable domination under **§11.2** (*Pro-Competition and Anti-Domination*), evaluators must reach substantive conduct — not formal entity count or nominal market openness. Illustrative prohibited domination patterns include:
+When market-structuring arrangements breach the [Chapter One §11 Market Structure](../core_01.005_values_principles.md#11-market-structure) requirements or produce durable domination under **§11.2** (*Pro-Competition and Anti-Domination*), evaluators must reach substantive conduct — not formal entity count or nominal market openness. Illustrative prohibited domination patterns include:
 
 - exclusionary dealing, predatory foreclosure, discriminatory access, or retaliatory dependency cutoff;
 - tying, bundling, ranking, reputation, identity, credentialing, or payment practices that defeat meaningful choice or market entry without **Necessity** and **Proportionality**;
@@ -260,7 +260,7 @@ Crossing an adopted consolidation ceiling creates a rebuttable presumption of no
 
 Remedies for crossing a consolidation ceiling must be proportionate under **CJS-5.125 §11.2** (*Anti-domination conduct and remediation catalog*), including where applicable merger limits, acquisition standstill, and structural separation tailored to consolidation-ceiling breach.
 
-Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the [Chapter One §11 Market Structure](../core_01.005_values_principles.md#11-market-structure) floor, the **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*) threshold mechanism, or **§11.2** (*Pro-Competition and Anti-Domination*) anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices stay low is non-compliant under **Proxy-Divergence Invalidation**.
+Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the [Chapter One §11 Market Structure](../core_01.005_values_principles.md#11-market-structure) requirements, the **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*) threshold mechanism, or **§11.2** (*Pro-Competition and Anti-Domination*) anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices stay low is non-compliant under **Proxy-Divergence Invalidation**.
 
 <a id="consolidation-ceiling-setting-discipline-adopter-tunable"></a>
 consolidation ceiling-setting discipline (adopter-tunable)
@@ -277,22 +277,22 @@ consolidation ceiling-setting discipline (adopter-tunable)
     **Primary assessment:** Reviewers must verify horizontal and vertical trigger design, crossing presumption handling, rebuttal evidence, and available remedies together with the anti-nullification discipline above.
 <a id="consolidation-ceiling-setting-discipline-adopter-tunable-c"></a>
 - **What must hold**
-  - **Primary failure:** Ceiling regimes that nullify the constitutional floor, produce no actual review or intervention, or ignore substantive control.
+  - **Primary failure:** Ceiling regimes that nullify the constitutional requirements, produce no actual review or intervention, or ignore substantive control.
 
-<a id="authority-distribution-and-anti-monopoly-floor"></a>
-Authority distribution and anti-monopoly floor
+<a id="authority-distribution-and-anti-monopoly-minimum"></a>
+Authority distribution and anti-monopoly minimum
 
 *In plain terms: no single entity may monopolize interpretation, validation, or enforcement where plural authority is required.*
 
 - **What it is**
   - **In scope:** No single entity may monopolize interpretation, validation, or enforcement where plural authority is required.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authority distribution and anti-monopoly floor.
-<a id="authority-distribution-and-anti-monopoly-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authority distribution and anti-monopoly minimum.
+<a id="authority-distribution-and-anti-monopoly-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** independent verification paths and auditable governance operations
 
     **Primary assessment:** Reviewers must verify independent verification paths and auditable governance operations.
-<a id="authority-distribution-and-anti-monopoly-floor-c"></a>
+<a id="authority-distribution-and-anti-monopoly-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Effective monopoly control.
 
@@ -333,10 +333,10 @@ Classification-scaled governance burden
 <a id="constitutional-lane-and-functional-separation"></a>
 Constitutional lane and functional separation
 
-*In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties. Splitting the lanes is also the corpus's **segregation of duties** rule: the office that asks for something, the office that checks it, the office that records it, and the office that hears a challenge to it are different seats.*
+*In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties. Splitting the lanes is also the corpus's **separation of duties** rule: the office that asks for something, the office that checks it, the office that records it, and the office that hears a challenge to it are different seats.*
 
 - **What it is**
-  - **In scope:** A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable. **Segregation of duties** is the transaction-level form of the same rule, stated at principle layer in [Chapter Eight §2 Four-Seat Constitutional Floor](../core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and not narrowable here: for any single [materially binding act](../core_05.035_band_accountability.md#materially-binding-act) or record, the request, the verification, the entry and custody, and the contest are held by different seats, and no seat both verifies and enters, or both verifies and hears the contest. The [Chapter Ten §3.7 Segregation of duties](../core_10.000_standing_assessment.md#37-segregation-of-duties) standing-record lifecycle (request → verify → enter and hold → contest) is one duty set every lane map must place; it is the reference instance of this rule, and the lane map is the fallback when a [System Charter](../core_05.040_band_continuity.md#system-charter) or [Institutional Charter](../core_05.040_band_continuity.md#institutional-charter) is silent on record custody. The seat types a lane hosts — the four core seats plus the containment, participation-terms, release-control, and direction seats — and what each may and may not do are fixed in [CI-14.205 §6](../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*); a lane map places seats, it does not redefine them.
+  - **In scope:** A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable. **Separation of duties** is the transaction-level form of the same rule, stated at principle layer in [Chapter Eight §2 Four-Seat Constitutional Requirement](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and not narrowable here: for any single [materially binding act](../core_05.035_band_accountability.md#materially-binding-act) or record, the request, the verification, the entry and custody, and the contest are held by different seats, and no seat both verifies and enters, or both verifies and hears the contest. The [Chapter Ten §3.7 Separation of duties](../core_10.000_standing_assessment.md#37-separation-of-duties) standing-record lifecycle (request → verify → enter and hold → contest) is one duty set every lane map must place; it is the reference instance of this rule, and the lane map is the fallback when a [System Charter](../core_05.040_band_continuity.md#system-charter) or [Institutional Charter](../core_05.040_band_continuity.md#institutional-charter) is silent on record custody. The seat types a lane hosts — the four core seats plus the containment, participation-terms, release-control, and direction seats — and what each may and may not do are fixed in [CI-14.205 §6](../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*); a lane map places seats, it does not redefine them.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in constitutional lane and functional separation.
 <a id="constitutional-lane-and-functional-separation-a"></a>
 - **How to measure and assess**
@@ -364,20 +364,20 @@ Contextual and systemic evaluation discipline
 - **What must hold**
   - **Primary failure:** Isolated review that ignores material dependencies.
 
-<a id="formation-and-authorization-proportionality-floor"></a>
-Formation and authorization proportionality floor
+<a id="formation-and-authorization-proportionality-minimum"></a>
+Formation and authorization proportionality minimum
 
 *In plain terms: formation, authorization, registration, pre-authorization, and ongoing compliance burdens must scale with the implementation scope's system class, stewardship tier, dependency footprint, and irreversibility risk.*
 
 - **What it is**
   - **In scope:** Formation, authorization, registration, pre-authorization, and ongoing compliance burdens must scale with the implementation scope's system class, stewardship tier, dependency footprint, and irreversibility risk. Low-impact or planned **Class P** contexts should have low-friction formation paths, while **Class A** and comparable high-dependency contexts require due diligence proportionate to impact before authorization.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in formation and authorization proportionality floor.
-<a id="formation-and-authorization-proportionality-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in formation and authorization proportionality minimum.
+<a id="formation-and-authorization-proportionality-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** authorization burden, evidence burden, audit cadence, publication depth, continuity planning depth, compliance cost, and contest-integrity monitoring as one proportional package. Owner-file publication duties and local institutional formation mechanics remain with the applicable **CI** section. [Institutional Charter](../core_05.040_band_continuity.md#institutional-charter) contents, periodic review, and formation-template fields are owned by **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*)
 
     **Primary assessment:** Reviewers must verify authorization burden, evidence burden, audit cadence, publication depth, continuity planning depth, compliance cost, and contest-integrity monitoring as one proportional package. Owner-file publication duties and local institutional formation mechanics remain with the applicable **CI** section. [Institutional Charter](../core_05.040_band_continuity.md#institutional-charter) contents, periodic review, and formation-template fields are owned by **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*).
-<a id="formation-and-authorization-proportionality-floor-c"></a>
+<a id="formation-and-authorization-proportionality-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Formation design if it imposes arbitrary friction on low-impact organization, under-scrutinizes high-impact or high-dependency authority, hides compliance cost, separates authorization from the classification, stewardship, dependency, and contest-integrity facts that determine burden, or authorizes an institution without a published System Charter or Institutional Charter meeting **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) where institutional formation applies.
 
@@ -482,7 +482,7 @@ Stewardship-role depth and non-symbolic governance boundary
 
 Use this rule when restrictions, least-restrictive choices, or revalidation depend on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
-One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because restriction claims can look necessary, proportional, or well-documented in separate pieces while the material restriction as a whole remains unjustified, non-least-restrictive, or unlawfully persistent. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*) as a whole: burden of justification and constraint must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because restriction claims can look necessary, proportional, or well-documented in separate pieces while the material restriction as a whole remains unjustified, non-least-restrictive, or unlawfully persistent. It states the integrated obligation, evaluation, and compliance minimum for **CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*) as a whole: burden of justification and constraint must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 <a id="burden-of-justification-and-constraint-terms"></a>
 burden-of-justification and constraint terms
@@ -501,39 +501,39 @@ burden-of-justification and constraint terms
 - **What must hold**
   - **Primary failure:** Impose or maintain a material restriction when any material component, dependency, institutional role, or implementation-layer interaction has not been fully evaluated under the same review record.
 
-The sub-rules below apply that cluster floor to specific revenue and access-burden, collective-health support, disclosure, incentive-alignment, anti-enclosure, mechanism-integrity, burden-assignment, rights-collision, least-restrictive, survival-access, and revalidation dimensions. Read them together with the cluster floor and the CJS read-with chain.
+The sub-rules below apply that cluster minimum to specific revenue and access-burden, collective-health support, disclosure, incentive-alignment, anti-enclosure, mechanism-integrity, burden-assignment, rights-collision, least-restrictive, survival-access, and revalidation dimensions. Read them together with the cluster minimum and the CJS read-with chain.
 
-<a id="class-aligned-revenue-and-access-burden-floor"></a>
-Class-aligned revenue and access-burden floor
+<a id="class-aligned-revenue-and-access-burden-minimum"></a>
+Class-aligned revenue and access-burden minimum
 
 *In plain terms: taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with…*
 
 - **What it is**
   - **In scope:** Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class-aligned revenue and access-burden floor.
-<a id="class-aligned-revenue-and-access-burden-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class-aligned revenue and access-burden minimum.
+<a id="class-aligned-revenue-and-access-burden-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** reviewers must evaluate classification, essentiality, dependency, fee basis, disclosure, contestability, priority rules, externalized costs, commercial-scale use, concentration or gatekeeper rents, and reclassification evidence together. Commercial API, compute, bandwidth, queue-priority, model-access, or high-volume interface charges should be assessed against whether they place costs on discretionary, commercial, bulk, premium, externality-generating, or revenue-generating use rather than on baseline participation or protected access. Where a **Class C** system becomes de facto necessary for **Class A** or **Class B** dependents, fiscal treatment must be reviewed with classification
 
     **Primary assessment:** Reviewers must evaluate classification, essentiality, dependency, fee basis, disclosure, contestability, priority rules, externalized costs, commercial-scale use, concentration or gatekeeper rents, and reclassification evidence together. Commercial API, compute, bandwidth, queue-priority, model-access, or high-volume interface charges should be assessed against whether they place costs on discretionary, commercial, bulk, premium, externality-generating, or revenue-generating use rather than on baseline participation or protected access. Where a **Class C** system becomes de facto necessary for **Class A** or **Class B** dependents, fiscal treatment must be reviewed with classification.
-<a id="class-aligned-revenue-and-access-burden-floor-c"></a>
+<a id="class-aligned-revenue-and-access-burden-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** A revenue or charge structure if it uses survival-relevant, normal-operation-critical, baseline rights-pathway, or infrastructure-like coordination access as the primary extraction point; makes essential-like access prohibitively costly or administratively exclusionary; hides or mislabels the burden; lacks a usable contest route; discriminates outside lawful and disclosed use categories; or fails to re-evaluate classification and charge treatment when dependence or essentiality materially changes.
 
-<a id="collective-health-and-emergency-support-bundle-floor"></a>
-Collective-health and emergency support-bundle floor
+<a id="collective-health-and-emergency-support-bundle-minimum"></a>
+Collective-health and emergency support-bundle minimum
 
 *In plain terms: public-health, contagion, environmental-exposure, population-level harm, addiction-response, and comparable collective-care restrictions must pair any material liberty, movement, association, access, disclosure, or participation limit…*
 
 - **What it is**
   - **In scope:** Public-health, contagion, environmental-exposure, population-level harm, addiction-response, and comparable collective-care restrictions must pair any material liberty, movement, association, access, disclosure, or participation limit with the support needed to make the restriction necessary and proportionate, including housing, subsistence, care access, accessibility, ventilation or filtration, treatment, or stabilization support where material.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in collective-health and emergency support-bundle floor.
-<a id="collective-health-and-emergency-support-bundle-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in collective-health and emergency support-bundle minimum.
+<a id="collective-health-and-emergency-support-bundle-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** reviewers must evaluate the restriction, support bundle, stigma risk, care-first alternative, externality evidence, emergency duration, secrecy predicate, and sunset rule together. Owner-file public-health programs, addiction-informed routing, and local institutional controls remain with **CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*) and other applicable **CI** sections
 
     **Primary assessment:** Reviewers must evaluate the restriction, support bundle, stigma risk, care-first alternative, externality evidence, emergency duration, secrecy predicate, and sunset rule together. Owner-file public-health programs, addiction-informed routing, and local institutional controls remain with **CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*) and other applicable **CI** sections.
-<a id="collective-health-and-emergency-support-bundle-floor-c"></a>
+<a id="collective-health-and-emergency-support-bundle-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** A collective-health restriction if it uses emergency or public-health framing to impose unsupported quarantine, stigma-driven enforcement, indefinite opaque continuity, or coercive treatment where a less restrictive care or stabilization pathway can satisfy the stated protective need.
 
@@ -588,37 +588,37 @@ Innovation-exclusivity anti-enclosure application
 - **What must hold**
   - **Primary failure:** Using exclusivity as a categorical bypass.
 
-<a id="mechanism-integrity-and-incentive-alignment-floor"></a>
-Mechanism-integrity and incentive-alignment floor
+<a id="mechanism-integrity-and-incentive-alignment-minimum"></a>
+Mechanism-integrity and incentive-alignment minimum
 
 *In plain terms: any economic, reputational, governance, access, standing, credentialing, interface, settlement, market, or interaction mechanism that materially affects constitutional outcomes must make constitutionally aligned behavior the expected,…*
 
 - **What it is**
   - **In scope:** Any economic, reputational, governance, access, standing, credentialing, interface, settlement, market, or interaction mechanism that materially affects constitutional outcomes must make constitutionally aligned behavior the expected, sustainable path under ordinary, scaled, adversarial, and degraded conditions.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in mechanism-integrity and incentive-alignment floor.
-<a id="mechanism-integrity-and-incentive-alignment-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in mechanism-integrity and incentive-alignment minimum.
+<a id="mechanism-integrity-and-incentive-alignment-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** evaluation must test whether the mechanism foreseeably rewards harmful, deceptive, exploitative, anti-correction, or Rights-Floor-violating conduct through delay, aggregation, opacity, proxy gaming, externalized burden, or similar structure
 
     **Primary assessment:** Evaluation must test whether the mechanism foreseeably rewards harmful, deceptive, exploitative, anti-correction, or Rights-Floor-violating conduct through delay, aggregation, opacity, proxy gaming, externalized burden, or similar structure.
-<a id="mechanism-integrity-and-incentive-alignment-floor-c"></a>
+<a id="mechanism-integrity-and-incentive-alignment-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** A mechanism where enforcement, post-hoc correction, participant vigilance, goodwill, ignorance, cognitive overload, information asymmetry, or undisclosed operator intent is used as the main control while the mechanism itself predictably rewards constitutional misalignment.
 
-<a id="restriction-burden-assignment-floor"></a>
-Restriction-burden assignment floor
+<a id="restriction-burden-assignment-minimum"></a>
+Restriction-burden assignment minimum
 
 *In plain terms: the party proposing or implementing a restriction bears the burden of justification.*
 
 - **What it is**
   - **In scope:** The party proposing or implementing a restriction bears the burden of justification.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in restriction-burden assignment floor.
-<a id="restriction-burden-assignment-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in restriction-burden assignment minimum.
+<a id="restriction-burden-assignment-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** the burden is explicit and not shifted onto affected sentients through opacity, cost, or procedure
 
     **Primary assessment:** Evaluation must verify the burden is explicit and not shifted onto affected sentients through opacity, cost, or procedure.
-<a id="restriction-burden-assignment-floor-c"></a>
+<a id="restriction-burden-assignment-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Hidden, reversed, or displaced burden.
 
@@ -671,7 +671,7 @@ Survival-critical access and voluntary-market interface
     **Primary assessment:** Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) and **CS-14.305 — Critical system stewardship**.
 <a id="survival-critical-access-and-voluntary-market-interface-c"></a>
 - **What must hold**
-  - **Primary failure:** An arrangement if survival-level access effectively requires work or market participation; if published floor amounts ignore real place-based necessity without justification; if market infrastructure evades classification-scaled stewardship; or if revenue design shifts the primary cost onto indispensable access in violation of the class-aligned revenue floor.
+  - **Primary failure:** An arrangement if survival-level access effectively requires work or market participation; if published floor amounts ignore real place-based necessity without justification; if market infrastructure evades classification-scaled stewardship; or if revenue design shifts the primary cost onto indispensable access in violation of the class-aligned revenue minimum.
 
 <a id="temporal-discipline-and-revalidation"></a>
 Temporal discipline and revalidation
@@ -744,7 +744,7 @@ Temporal discipline and revalidation
 
 Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on a standalone system, institution, forum, or bounded decision domain, or on combined forum, institutional, system, or implementation-layer behavior.
 
-One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because procedural failures often surface only when due process, review independence, enforcement proportionality, and restoration are judged together; a sub-rule can look satisfied in isolation while the procedural pathway as a whole remains unfair, unchallengeable, or practically unreachable. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.125 §13** (*Accountability: procedural integrity and adjudication terms*) as a whole: procedural integrity and adjudication must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because procedural failures often surface only when due process, review independence, enforcement proportionality, and restoration are judged together; a sub-rule can look satisfied in isolation while the procedural pathway as a whole remains unfair, unchallengeable, or practically unreachable. It states the integrated obligation, evaluation, and compliance minimum for **CJS-5.125 §13** (*Accountability: procedural integrity and adjudication terms*) as a whole: procedural integrity and adjudication must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 <a id="procedural-integrity-and-adjudication-terms"></a>
 procedural integrity and adjudication terms
@@ -763,7 +763,7 @@ procedural integrity and adjudication terms
 - **What must hold**
   - **Primary failure:** Claim procedural integrity when a material component has not been tested and evaluated in practice.
 
-The sub-rules below apply that cluster floor to specific backup routing, burden and proportionality, delegated bodies, deposition, due process, forum formation, representative treatment, restoration, review independence, sanction validity, class scaling, and uncertainty-safeguard dimensions. Read them together with the cluster floor and the CJS read-with chain.
+The sub-rules below apply that cluster minimum to specific backup routing, burden and proportionality, delegated bodies, deposition, due process, forum formation, representative treatment, restoration, review independence, sanction validity, class scaling, and uncertainty-safeguard dimensions. Read them together with the cluster minimum and the CJS read-with chain.
 
 <a id="backup-activation"></a>
 Backup activation
@@ -958,20 +958,20 @@ System-class and joint-read scaling
 - **What must hold**
   - **Primary failure:** Downscoping below the combined implementation chain.
 
-<a id="uncertainty-safeguards-and-anti-abuse-floor"></a>
-Uncertainty safeguards and anti-abuse floor
+<a id="uncertainty-safeguards-and-anti-abuse-minimum"></a>
+Uncertainty safeguards and anti-abuse minimum
 
 *In plain terms: probabilistic or inference-based processes must show uncertainty, avoid treating protected or inferred internal states as fact, and increase safeguards when uncertainty or irreversibility is high.*
 
 - **What it is**
   - **In scope:** Probabilistic or inference-based processes must show uncertainty, avoid treating protected or inferred internal states as fact, and increase safeguards when uncertainty or irreversibility is high.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in uncertainty safeguards and anti-abuse floor.
-<a id="uncertainty-safeguards-and-anti-abuse-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in uncertainty safeguards and anti-abuse minimum.
+<a id="uncertainty-safeguards-and-anti-abuse-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** model-facing and procedure-facing uncertainty controls are active and auditable
 
     **Primary assessment:** Evaluation must verify model-facing and procedure-facing uncertainty controls are active and auditable.
-<a id="uncertainty-safeguards-and-anti-abuse-floor-c"></a>
+<a id="uncertainty-safeguards-and-anti-abuse-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Hidden uncertainty or procedure designed to exhaust challengers.
 
@@ -1021,7 +1021,7 @@ Uncertainty safeguards and anti-abuse floor
 
 Use this rule when governance-level intervention or override authorization depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, or implementation layers work together.
 
-One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because intervention paths can look authorized, sequenced, or well-recorded in separate pieces while the governance intervention as a whole remains unbounded, unchallengeable, or disproportionate. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.125 §14** (*Accountability: intervention governance and override-authorization terms*) as a whole: governance intervention and override authorization must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because intervention paths can look authorized, sequenced, or well-recorded in separate pieces while the governance intervention as a whole remains unbounded, unchallengeable, or disproportionate. It states the integrated obligation, evaluation, and compliance minimum for **CJS-5.125 §14** (*Accountability: intervention governance and override-authorization terms*) as a whole: governance intervention and override authorization must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 <a id="intervention-governance-and-override-authorization-terms"></a>
 intervention governance and override-authorization terms
@@ -1040,7 +1040,7 @@ intervention governance and override-authorization terms
 - **What must hold**
   - **Primary failure:** A claim of intervention-governance validity if any material component is missing, unevaluated, or bypassed.
 
-The sub-rules below apply that cluster floor to specific authorization, emergency-limit, quorum, necessity-coupling, proportional-scaling, and records-transparency-challenge dimensions. Read them together with the cluster floor and the CJS read-with chain.
+The sub-rules below apply that cluster minimum to specific authorization, emergency-limit, quorum, necessity-coupling, proportional-scaling, and records-transparency-challenge dimensions. Read them together with the cluster minimum and the CJS read-with chain.
 
 <a id="authorization-and-role-scope-discipline"></a>
 Authorization and role-scope discipline
@@ -1093,20 +1093,20 @@ Governance quorum and emergency-sequencing requirements
 - **What must hold**
   - **Primary failure:** Omitting required sequencing or misuse safeguards.
 
-<a id="joint-necessity-and-technical-governance-coupling-floor"></a>
-Joint necessity and technical-governance coupling floor
+<a id="joint-necessity-and-technical-governance-coupling-minimum"></a>
+Joint necessity and technical-governance coupling minimum
 
 *In plain terms: governance procedures must preserve timely technical intervention when harm can move faster than ordinary process.*
 
 - **What it is**
   - **In scope:** Governance procedures must preserve timely technical intervention when harm can move faster than ordinary process.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in joint necessity and technical-governance coupling floor.
-<a id="joint-necessity-and-technical-governance-coupling-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in joint necessity and technical-governance coupling minimum.
+<a id="joint-necessity-and-technical-governance-coupling-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** procedures do not disable required intervention paths
 
     **Primary assessment:** Reviewers must verify that procedures do not disable required intervention paths.
-<a id="joint-necessity-and-technical-governance-coupling-floor-c"></a>
+<a id="joint-necessity-and-technical-governance-coupling-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Procedure that makes timely intervention practically unavailable.
 
@@ -1217,7 +1217,7 @@ Correction Urgency Level (CUL) discipline
 *In plain terms: structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. Each level borrows the timing of a tier, and the top level, CUL-1, runs at the Emergency level when the emergency conditions are met.*
 
 - **What it is**
-  - **In scope:** Structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. The levels take the scope of harm and the column of the matching tier in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), applied to a structural issue and not to a dispute: **CUL-1** matches Tier A, **CUL-2** Tier B, **CUL-3** Tier C, and **CUL-4** Tier L (Tier P for an issue contained in a private unit). A level borrows that column's figures and is not a tier classification. The **containment window** is the column's intake target: containment, or a documented decision not to contain, is made inside it. The **correction window** is the column's outer bound: the correction, or a safeguard that holds, is in place inside it, and going past it needs a documented extension under Continuation discipline ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)). Both are compliance lines. The slower complexity levels do not apply. **CUL-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible. "Where feasible" qualifies the coupling and never the time of containment. Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, **CUL-1** runs at the **Emergency level** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#time-scale-levels) (*Time-scale levels*)): containment screening starts inside its 6-hour intake target and the protective steps finish inside its 3-day bound ([CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-timing-floors) (*Stage targets and timing floors*)). Where the containment is a measure in force against someone, notice, restore-challenge, and prompt review run as for any emergency measure ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)). Where a CUL issue is also before a forum, that matter's tier window governs, and a CUL level never changes a dispute's tier.
+  - **In scope:** Structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. The levels take the scope of harm and the column of the matching tier in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), applied to a structural issue and not to a dispute: **CUL-1** matches Tier A, **CUL-2** Tier B, **CUL-3** Tier C, and **CUL-4** Tier L (Tier P for an issue contained in a private unit). A level borrows that column's figures and is not a tier classification. The **containment window** is the column's intake target: containment, or a documented decision not to contain, is made inside it. The **correction window** is the column's outer bound: the correction, or a safeguard that holds, is in place inside it, and going past it needs a documented extension under Continuation discipline ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)). Both are compliance lines. The slower complexity levels do not apply. **CUL-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible. "Where feasible" qualifies the coupling and never the time of containment. Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, **CUL-1** runs at the **Emergency level** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#time-scale-levels) (*Time-scale levels*)): containment screening starts inside its 6-hour intake target and the protective steps finish inside its 3-day bound ([CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)). Where the containment is a measure in force against someone, notice, restore-challenge, and prompt review run as for any emergency measure ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)). Where a CUL issue is also before a forum, that matter's tier window governs, and a CUL level never changes a dispute's tier.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in correction Urgency Level (CUL) discipline.
 <a id="correction-urgency-level-cul-discipline-a"></a>
 - **How to measure and assess**
@@ -1248,9 +1248,9 @@ Feedback integration and effectiveness verification
 <a id="cjs-315-material-classification-record-honesty"></a>
 Material classification-record honesty (correction, precautionary default, and no quiet lowering)
 
-*In plain terms: when a material class, type, or status file is wrong or incomplete, fix it honestly — default protectively under uncertainty, and do not quietly dial protections down without evidence and review. This shared discipline applies across owner-layer classification files; CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*), CS-9.305 (*System classification machinery*) and CS-9.310 (*System classification machinery*), and peers keep domain-specific anti-evasion lists and field contents.*
+*In plain terms: when a material class, type, or status file is wrong or incomplete, fix it honestly — default protectively under uncertainty, and do not quietly dial protections down without evidence and review. This shared discipline applies across owner-layer classification files; CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*), CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*), and peers keep domain-specific anti-evasion lists and field contents.*
 
-Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive — including the [System Classification Record](../core_05.040_band_continuity.md#system-classification-record), the [System Data Types Record](../core_05.040_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-6.305 (*Information types and handling*) and CS-6.310** (*Information types and handling*), **CS-9.305 (*System classification machinery*) and CS-9.310** (*System classification machinery*), and peers). How System Alignment Certification treats resulting defects lives under **Chapter Nine** and **[Part B §7](../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)**.
+Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive — including the [System Classification Record](../core_05.040_band_continuity.md#system-classification-record), the [System Data Types Record](../core_05.040_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*), **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*), and peers). How System Alignment Certification treats resulting defects lives under **Chapter Nine** and **[Part B §7](../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)**.
 
 - **What it is**
   - **In scope:** Operators must keep material classification records honest. When understatement, evasion, or misclassification is found, **correct** the record, apply proportional requirements **retroactively** where appropriate, and take corrective action for resulting harm or exposure. Do **not** split, modularize, fragment, re-label, or otherwise restructure just to dodge a stronger applicable classification. Where the record is incomplete, ambiguous, or contested, apply the owner-layer **rights-protective / highest-plausible** default, and state any precautionary finding and pending conditions **in the record**. **Lowering** a protective classification, dropping certification conditions, or claiming lighter duties requires evidence, documentation, and successful review — an internal self-clear alone does **not** defeat a timely contest (**CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*)).
@@ -1264,20 +1264,20 @@ Use this sub-rule when a material **classification, typing, or status record** o
 - **What must hold**
   - **Primary failure:** Leave known misclassification or evasion uncorrected, to game boundaries or labels to dodge stronger duties, to fill uncertainty with an optimistic understatement, or to lower protective findings by assertion or internal self-clear without the required evidence and review.
 
-<a id="realignment-resistance-and-dissolution-review-trigger-floor"></a>
-Realignment resistance and dissolution-review trigger floor
+<a id="realignment-resistance-and-dissolution-review-trigger-minimum"></a>
+Realignment resistance and dissolution-review trigger minimum
 
 *In plain terms: repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent…*
 
 - **What it is**
   - **In scope:** Repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent owner-layer consequence where lesser measures cannot protect constitutional obligations. Returning a Chartered Party to below Class L by a contraction order is an equivalent consequence. The steps, clocks, findings, and enforcement for these measures are in **CI-11.210** (*Institutional failure and dissolution*) and **CI-11.215** (*Institutional accountability and sanctions*).
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in realignment resistance and dissolution-review trigger floor.
-<a id="realignment-resistance-and-dissolution-review-trigger-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in realignment resistance and dissolution-review trigger minimum.
+<a id="realignment-resistance-and-dissolution-review-trigger-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** whether obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround persists after a reasonable opportunity for good-faith resolution, and whether continuity-transfer safeguards preserve rights, services, records, and active challenge pathways during any escalation
 
     **Primary assessment:** Evaluation must verify whether obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround persists after a reasonable opportunity for good-faith resolution, and whether continuity-transfer safeguards preserve rights, services, records, and active challenge pathways during any escalation.
-<a id="realignment-resistance-and-dissolution-review-trigger-floor-c"></a>
+<a id="realignment-resistance-and-dissolution-review-trigger-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Treat persistent realignment resistance as ordinary delay, to use dissolution review as a substitute for the owner-file anti-constitutional-misconduct designation or personal accountability process, or to dissolve or disband a structure without continuity safeguards for affected rights, services, records, and challenge pathways, or to order dissolution or disbandment where a contraction order or structural separation under **CI-11.215** (*Institutional accountability and sanctions*) would protect others.
 

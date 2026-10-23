@@ -470,7 +470,7 @@ High-vulnerability personal-service pathway integrity
     **Primary assessment:** Evaluation must compare labor, safety, contract, consumer, platform, payment, licensing, housing, data, reputation, reporting, dispute, and transition pathways together. Reviewers must verify that heightened controls rest on documented risk rather than stigma, moral disapproval, stereotype, blanket exclusion, or functional prohibition through fines, zoning, licensing, platform visibility, payment denial, housing exclusion, or data practices; that fraud, coercion, consent defects, exploitation, harassment, privacy injury, and unfair terms remain enforceable through accessible routes; and that intermediaries or financial plumbing do not use generic risk categories to suppress lawful activity without proportionate justification.
 <a id="high-vulnerability-personal-service-pathway-integrity-c"></a>
 - **What must hold**
-  - **Primary failure:** A personal-service pathway if it makes lawful participation functionally unavailable through fines, fees, zoning, licensing, platform visibility, payment denial, housing exclusion, data practices, or reporting design whose primary practical effect is prohibition or harassment without a lawful risk predicate; if decriminalization or non-penal treatment is used to deprioritize exploitation response; or if transition rules preserve obsolete penalties, records, or training norms after the governing floor has changed.
+  - **Primary failure:** A personal-service pathway if it makes lawful participation functionally unavailable through fines, fees, zoning, licensing, platform visibility, payment denial, housing exclusion, data practices, or reporting design whose primary practical effect is prohibition or harassment without a lawful risk predicate; if decriminalization or non-penal treatment is used to deprioritize exploitation response; or if transition rules preserve obsolete penalties, records, or training norms after the governing rule has changed.
 
 <a id="innovation-reward-boundary-and-anti-enclosure-controls"></a>
 Innovation reward boundary and anti-enclosure controls
@@ -672,20 +672,20 @@ data-retention and lifecycle-integrity terms
 - **What must hold**
   - **Primary failure:** A retention-integrity claim if those lifecycle elements cannot be reviewed together, if an important element has not been fully evaluated or is unusable, or if one element defeats another.
 
-<a id="accountability-preserving-record-floor"></a>
-Accountability-preserving record floor
+<a id="accountability-preserving-record-minimum"></a>
+Accountability-preserving record minimum
 
 *In plain terms: where required, retention must keep enough Type **E**, **G**, **O**, **H**, **I**, or **S** records to reconstruct material events, audit conduct, verify claims, support challenge and redress, preserve continuity, and recover from failure.*
 
 - **What it is**
   - **In scope:** Where required, retention must keep enough Type **E**, **G**, **O**, **H**, **I**, or **S** records to reconstruct material events, audit conduct, verify claims, support challenge and redress, preserve continuity, and recover from failure.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in accountability-preserving record floor.
-<a id="accountability-preserving-record-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in accountability-preserving record minimum.
+<a id="accountability-preserving-record-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** data minimization does not block investigations or hide responsibility
 
     **Primary assessment:** Reviewers must verify that data minimization does not block investigations or hide responsibility.
-<a id="accountability-preserving-record-floor-c"></a>
+<a id="accountability-preserving-record-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Invoking minimization to defeat accountability.
 
@@ -723,20 +723,20 @@ Classification and information-type alignment
 - **What must hold**
   - **Primary failure:** Continuing to use lower-type or lower-class handling after sensitivity has increased.
 
-<a id="justification-and-bounded-retention-floor"></a>
-Justification and bounded-retention floor
+<a id="justification-and-bounded-retention-minimum"></a>
+Justification and bounded-retention minimum
 
 *In plain terms: retention must remain justified over time.*
 
 - **What it is**
   - **In scope:** Retention must remain justified over time. When the justification ends, the data must be reduced, deleted, de-identified, or otherwise removed from use.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in justification and bounded-retention floor.
-<a id="justification-and-bounded-retention-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in justification and bounded-retention minimum.
+<a id="justification-and-bounded-retention-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** the amount of data kept, and the time it is kept for, fit the S1 data type or types, purpose, legal obligations, impact, rights, safety, and accountability needs
 
     **Primary assessment:** Reviewers must verify that the amount of data kept, and the time it is kept for, fit the S1 data type or types, purpose, legal obligations, impact, rights, safety, and accountability needs.
-<a id="justification-and-bounded-retention-floor-c"></a>
+<a id="justification-and-bounded-retention-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Keeping data because it might be useful later, is convenient to keep, or gives an institution leverage.
 
@@ -974,37 +974,37 @@ Fail-soft within constraints and non-externalization
 - **What must hold**
   - **Primary failure:** Fail-soft mode may not justify out-of-bounds operation or undisclosed harm to dependents.
 
-<a id="failure-integrity-floor"></a>
-Failure-integrity floor
+<a id="failure-integrity-minimum"></a>
+Failure-integrity minimum
 
 *In plain terms: failure, degradation, and stress are expected operating conditions.*
 
 - **What it is**
   - **In scope:** Failure, degradation, and stress are expected operating conditions. When full functionality cannot be maintained, systems must degrade in a controlled, bounded, observable, and non-escalatory manner that preserves [Constitutional Constraints](../core_05.045_band_integrative.md#constitutional-constraint).
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in failure-integrity floor.
-<a id="failure-integrity-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in failure-integrity minimum.
+<a id="failure-integrity-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** degradation does not conceal or distort system condition, that cascading or cross-system propagation is prevented where feasible, and that transparency remains sufficient to preserve epistemic integrity
 
     **Primary assessment:** Evaluation must verify that degradation does not conceal or distort system condition, that cascading or cross-system propagation is prevented where feasible, and that transparency remains sufficient to preserve epistemic integrity.
-<a id="failure-integrity-floor-c"></a>
+<a id="failure-integrity-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Nominal operation, silent degradation, or performance-preserving behavior that hides capability loss, disables accountability, or relaxes Safety or Truth non-negotiable principle constraints.
 
-<a id="graceful-degradation-floor-and-defined-failure-mode-coverage"></a>
-Graceful degradation floor and defined failure-mode coverage
+<a id="graceful-degradation-minimum-and-defined-failure-mode-coverage"></a>
+Graceful degradation minimum and defined failure-mode coverage
 
 *In plain terms: systems must degrade in controlled, visible, non-deceptive ways and avoid silent degradation or disproportionate harm.*
 
 - **What it is**
   - **In scope:** Systems must degrade in controlled, visible, non-deceptive ways and avoid silent degradation or disproportionate harm.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in graceful degradation floor and defined failure-mode coverage.
-<a id="graceful-degradation-floor-and-defined-failure-mode-coverage-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in graceful degradation minimum and defined failure-mode coverage.
+<a id="graceful-degradation-minimum-and-defined-failure-mode-coverage-a"></a>
 - **How to measure and assess**
   - **Primary measure:** defined failure modes, including component loss, data problems, dependency instability, adversarial compromise, and excessive uncertainty
 
     **Primary assessment:** Evaluation must verify defined failure modes, including component loss, data problems, dependency instability, adversarial compromise, and excessive uncertainty.
-<a id="graceful-degradation-floor-and-defined-failure-mode-coverage-c"></a>
+<a id="graceful-degradation-minimum-and-defined-failure-mode-coverage-c"></a>
 - **What must hold**
   - **Primary failure:** Relying on undefined failure behavior where definition is required.
 
@@ -1174,20 +1174,20 @@ Higher-impact tested-recovery requirement
 - **What must hold**
   - **Primary failure:** For higher-impact systems, relying on untested recovery assumptions.
 
-<a id="irreversibility-limitation-floor"></a>
-Irreversibility-limitation floor
+<a id="irreversibility-limitation-minimum"></a>
+Irreversibility-limitation minimum
 
 *In plain terms: systems must prevent irreversible harm where feasible and minimize it where full prevention is infeasible.*
 
 - **What it is**
   - **In scope:** Systems must prevent irreversible harm where feasible and minimize it where full prevention is infeasible.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in irreversibility-limitation floor.
-<a id="irreversibility-limitation-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in irreversibility-limitation minimum.
+<a id="irreversibility-limitation-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** foreseeable irreversible risks were identified before action and paired with practical limits, safeguards, or stop conditions
 
     **Primary assessment:** Reviewers must verify that foreseeable irreversible risks were identified before action and paired with practical limits, safeguards, or stop conditions.
-<a id="irreversibility-limitation-floor-c"></a>
+<a id="irreversibility-limitation-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** In materially impactful contexts, proceeding without feasible safeguards against irreversible harm.
 
@@ -1274,20 +1274,20 @@ adversarial robustness and abuse-resistance terms
 - **What must hold**
   - **Primary failure:** A robustness or abuse-resistance claim if an important part of that chain is missing, stale, ineffective, or inconsistent with another part.
 
-<a id="adversarial-robustness-floor"></a>
-Adversarial robustness floor
+<a id="adversarial-robustness-minimum"></a>
+Adversarial robustness minimum
 
 *In plain terms: material systems must not assume all participants act in good faith.*
 
 - **What it is**
   - **In scope:** Material systems must not assume all participants act in good faith.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in adversarial robustness floor.
-<a id="adversarial-robustness-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in adversarial robustness minimum.
+<a id="adversarial-robustness-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** resilience under bad-faith participation, partial compromise, and active subversion
 
     **Primary assessment:** Reviewers must verify resilience under bad-faith participation, partial compromise, and active subversion.
-<a id="adversarial-robustness-floor-c"></a>
+<a id="adversarial-robustness-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Good-faith-only design for consequential decision pathways.
 

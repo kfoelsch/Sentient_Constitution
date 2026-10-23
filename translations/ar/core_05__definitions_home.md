@@ -137,7 +137,7 @@
 - [متطلب القدرة](../../core_05.050_band_oversight.md#capability-requirement)
 - [استيلاء مسارات الحل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [الإخفاق المتسلسل](../../core_05.040_band_continuity.md#cascading-failure)
-- [صك النطاق](../../core_05.040_band_continuity.md#charter)
+- [صك النطاق](../../core_05.040_band_continuity.md)
 - [الحوكمة المقاسة على التصنيف](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [الإكراه والتلاعب](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [فشل المساءلة الجماعية](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -409,7 +409,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الرهان المادي](core_00_preamble.md#material-stake)؛ [الديباجة §2 نظرة عامة على القياسات](core_00_preamble.md#measurements-overview).
+- أعلى: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الرهان المادي](core_00_preamble.md#material-stake)؛ [الديباجة §2 نظرة عامة على القياسات](core_00_preamble.md#2-measurements-overview).
 - أسفل: توجيه دستوري لجميع تعريفات نطاق الفصل الخامس والعناقيد التابعة **Def.**
 - يُقرأ مع: القواعد الفوقية لـ[التعريفات المستقلة](core_05__definitions_home.md#1-التعريفات-المستقلة)، و[§1.1 الاستدعاء والاستيفاء والامتثال](core_05__definitions_home.md#11-الاستدعاء-والاستيفاء-والامتثال)، و[§2.1 الاستدعاء المشترك والاستيفاء](core_05__definitions_home.md#21-الاستدعاء-المشترك-والاستيفاء)، و[§2.2 تفاعل التعريفات القائمة بذاتها والسياق الكامل](core_05__definitions_home.md#22-تفاعل-التعريفات-القائمة-بذاتها-والسياق-الكامل) قبل تطبيق أي عنقود تابع.
 
@@ -446,7 +446,7 @@
 <summary><strong><span style="color: #2563eb;">توجيه للقارئ (غير تشغيلي): معبر قياسات الديباجة</span></strong></summary>
 
 > لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الفصل أو في فصول أخرى.
-> تسرد [الديباجة §2](core_00_preamble.md#measurements-overview) سبع **فئات قياس** دستورية — الأسئلة التي يطرحها من يشغّلون الأنظمة عند تقييمها. ينظّم الفصل الخامس **التعريفات القانونية** بحسب رجل الرباعية ومقصد **الاستمرارية** والملكية **التكاملية** العابرة للأرجل. يربط الجدول أدناه كل فئة قياس بمواطنها في الفصل الخامس. يجوز لفئة أن تمتد عبر أكثر من ملف نطاق؛ ولا تنتقل المواطن القانونية حين تتداخل فئات القياس.
+> تسرد [الديباجة §2](core_00_preamble.md#2-measurements-overview) سبع **فئات قياس** دستورية — الأسئلة التي يطرحها من يشغّلون الأنظمة عند تقييمها. ينظّم الفصل الخامس **التعريفات القانونية** بحسب رجل الرباعية ومقصد **الاستمرارية** والملكية **التكاملية** العابرة للأرجل. يربط الجدول أدناه كل فئة قياس بمواطنها في الفصل الخامس. يجوز لفئة أن تمتد عبر أكثر من ملف نطاق؛ ولا تنتقل المواطن القانونية حين تتداخل فئات القياس.
 >
 > **الأهمية المادية** ([تحديد الأهمية المادية](../../core_05.050_band_oversight.md#materiality)) تكاملية — بوابة عتبة عابرة تُقاس بها جميع أسر القياس تحت [الرهان المادي](core_00_preamble.md#material-stake)؛ وهي ليست فئة منفصلة في الجدول أدناه.
 

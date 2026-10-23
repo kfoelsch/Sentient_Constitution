@@ -461,7 +461,7 @@ Sebagian isi Piagam Sistem atau Piagam Institusi disesuaikan dengan kelas, sebag
 <details>
 <summary><strong><span style="color: #2563eb;">Pelacakan</span></strong></summary>
 
-- Hulu: [§3](#3-hal-yang-wajib-dinyatakan-piagam-sistem-dan-piagam-institusi); [Bab Delapan §2 Lantai Konstitusional Empat Kursi](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- Hulu: [§3](#3-hal-yang-wajib-dinyatakan-piagam-sistem-dan-piagam-institusi); [Bab Delapan §2 Lantai Konstitusional Empat Kursi](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - Hilir:
   - [Bab Delapan §5 Penempatan Terbitan, Kekosongan, dan Penggantian](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [Bab Sembilan Bagian B §6.1.1 Empat kursi dalam sertifikasi](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -491,7 +491,7 @@ Setiap Piagam Sistem atau Piagam Institusi memuat [Peta Peran Piagam](../../core
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 Kursi dan tujuannya
 
-Setiap [Tindakan yang Mengikat secara Material](../../core_05.035_band_accountability.md#materially-binding-act) memiliki empat fungsi, dan [Bab Delapan §2 Lantai Konstitusional Empat Kursi](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) memisahkannya:
+Setiap [Tindakan yang Mengikat secara Material](../../core_05.035_band_accountability.md#materially-binding-act) memiliki empat fungsi, dan [Bab Delapan §2 Lantai Konstitusional Empat Kursi](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) memisahkannya:
 
 - **[Kursi Pemrakarsa](../../core_05.035_band_accountability.md#initiating-seat):** memulai tindakan dengan meminta, mengusulkan, menjalankan, atau mengklaimnya.
 - **[Kursi Verifikasi atau Otorisasi](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** memeriksa bukti dan kewenangan, lalu memverifikasi, mengotorisasi, memberi syarat, atau menolak tindakan.

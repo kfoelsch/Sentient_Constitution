@@ -408,20 +408,20 @@ High-impact drill-down and assisted evaluation
 - **What must hold**
   - **Primary failure:** High-impact comprehensibility cannot be claimed without drill-down and non-exclusive evaluation paths.
 
-<a id="institutional-participation-and-challenge-pathway-accessibility-floor"></a>
-Institutional participation and challenge-pathway accessibility floor
+<a id="institutional-participation-and-challenge-pathway-accessibility-minimum"></a>
+Institutional participation and challenge-pathway accessibility minimum
 
 *In plain terms: governance, review, and challenge pathways must be understandable and practically accessible to materially affected participants, including accessibility accommodations sufficient for substantive use and protected escalation with…*
 
 - **What it is**
   - **In scope:** Governance, review, and challenge pathways must be understandable and practically accessible to materially affected participants, including accessibility accommodations sufficient for substantive use and protected escalation with anti-retaliation safeguards.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in institutional participation and challenge-pathway accessibility floor.
-<a id="institutional-participation-and-challenge-pathway-accessibility-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in institutional participation and challenge-pathway accessibility minimum.
+<a id="institutional-participation-and-challenge-pathway-accessibility-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** practical access to participation, review, and challenge channels, including whether affected participants can use those participation, review, and challenge pathways without symbolic substitutes, inaccessible format, or retaliation-linked chill
 
     **Primary assessment:** Evaluation must verify practical access to participation, review, and challenge channels, including whether affected participants can use those participation, review, and challenge pathways without symbolic substitutes, inaccessible format, or retaliation-linked chill.
-<a id="institutional-participation-and-challenge-pathway-accessibility-floor-c"></a>
+<a id="institutional-participation-and-challenge-pathway-accessibility-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Claim accessible participation when participation and challenge pathways are formally open but practically unusable, when protected escalation is absent, or when anti-retaliation safeguards are too weak to make escalation credible.
 
@@ -459,20 +459,20 @@ Layering and access
 - **What must hold**
   - **Primary failure:** A single layer that excludes affected stakeholders from real understanding.
 
-<a id="meaningful-transparency-floor"></a>
-Meaningful transparency floor
+<a id="meaningful-transparency-minimum"></a>
+Meaningful transparency minimum
 
 *In plain terms: disclosure for this scope must let qualified stakeholders follow purpose, operation, impact, and key decision paths — not drown them in volume.*
 
 - **What it is**
   - **In scope:** Apply [Transparency](../core_05.050_band_oversight.md#transparency) by testing whether disclosed materials let qualified stakeholders understand purpose, operation, impact, and key decision paths for this scope.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in meaningful transparency floor; the constitutional meaning of Transparency itself.
-<a id="meaningful-transparency-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in meaningful transparency minimum; the constitutional meaning of Transparency itself.
+<a id="meaningful-transparency-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** whether qualified stakeholders can understand purpose, operation, impact, and key decision paths from the disclosed materials
 
     **Primary assessment:** Evaluation must test whether qualified stakeholders can understand purpose, operation, impact, and key decision paths from the disclosed materials.
-<a id="meaningful-transparency-floor-c"></a>
+<a id="meaningful-transparency-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Treat volume of disclosure alone as sufficient when purpose, operation, impact, or key decision paths remain practically unusable.
 
@@ -687,20 +687,20 @@ Proportional application
 - **What must hold**
   - **Primary failure:** Simplified rules when they still allow material misunderstanding, manipulation, or barriers to informed participation.
 
-<a id="salience-integrity-floor"></a>
-Salience integrity floor
+<a id="salience-integrity-minimum"></a>
+Salience integrity minimum
 
 *In plain terms: ranking, filtering, recommending, and prioritizing information must preserve accuracy, context, and the ability to choose.*
 
 - **What it is**
   - **In scope:** Ranking, filtering, recommending, and prioritizing information must preserve accuracy, context, and the ability to choose.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in salience integrity floor.
-<a id="salience-integrity-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in salience integrity minimum.
+<a id="salience-integrity-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** what gets shown, hidden, emphasized, delayed, repeated, or placed first
 
     **Primary assessment:** Reviewers must check what gets shown, hidden, emphasized, delayed, repeated, or placed first.
-<a id="salience-integrity-floor-c"></a>
+<a id="salience-integrity-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Defaults or rules that predictably mislead sentients or narrow their real choices.
 

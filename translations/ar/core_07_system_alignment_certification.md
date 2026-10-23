@@ -12,10 +12,10 @@
 > | الجزء | الملف | يحكم |
 > |------|------|------|
 > | **الجزء أ — التقييم** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: الغرض، صنف النظام، تقييم النظام كاملًا (بما في ذلك نطاق صك النطاق مقابل الحدود الوظيفية)، خطافات تقييم المجال، جولات توضيحية حسب الصنف |
-> | **الجزء ب — السجل والعملية** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: سجل التصديق (بما في ذلك حقول [صك النطاق](core_05_band_continuity.md#charter) الحاكم)، الشفافية/قابلية الطعن، أدوار المنتدى، تسلسل الإشراف، جسر الوضعية، إعادة الفتح — ترقيم متواصل للفصل من الجزء أ §10 |
+> | **الجزء ب — السجل والعملية** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: سجل التصديق (بما في ذلك حقول [صك النطاق](../../core_05.040_band_continuity.md) الحاكم)، الشفافية/قابلية الطعن، أدوار المنتدى، تسلسل الإشراف، جسر الوضعية، إعادة الفتح — ترقيم متواصل للفصل من الجزء أ §10 |
 >
 > تُحفظ المرسِيات الموروثة من الفصل السابع السابق ذي الملف الواحد على ملفي الجزء أ والجزء ب. تُوجَّه روابط **الفصل السابع** العامة في ملفات أخرى إلى الجزء المناسب برقم القسم.
-> تعيش تشكيلة صك النطاق المؤسسية والحقول الدنيا وواجبات المراجعة الدورية في [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** — يستهلك الفصل السابع تلك الحقول؛ ولا يعيد تعريفها.
+> تعيش تشكيلة صك النطاق المؤسسية والحقول الدنيا وواجبات المراجعة الدورية في [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** — يستهلك الفصل السابع تلك الحقول؛ ولا يعيد تعريفها.
 
 >
 > **السابق (هذه اللغة):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

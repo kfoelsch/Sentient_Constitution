@@ -132,7 +132,7 @@ Mục lục này liệt kê **Định nghĩa A-Z** và **Cụm A-Z** riêng. M�
 - [Yêu cầu năng lực](../../core_05.050_band_oversight.md#capability-requirement)
 - [Chiếm đường dẫn giải quyết](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [Sự cố lan](../../core_05.040_band_continuity.md#cascading-failure)
-- [Điều lệ](../../core_05.040_band_continuity.md#charter)
+- [Điều lệ](../../core_05.040_band_continuity.md)
 - [Quản trị chia tỷ lệ theo phân loại](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [Cưỡng và thao túng](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [Thất bại trách nhiệm giải trình tập thể](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -400,7 +400,7 @@ Mục lục này liệt kê **Định nghĩa A-Z** và **Cụm A-Z** riêng. M�
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [lợi hại vật chất](core_00_preamble.md#material-stake); [Lời nói đầu §2 Tổng quan đo lường](core_00_preamble.md#measurements-overview).
+- Thượng nguồn: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [lợi hại vật chất](core_00_preamble.md#material-stake); [Lời nói đầu §2 Tổng quan đo lường](core_00_preamble.md#2-measurements-overview).
 - Hạ nguồn: định hướng hiến pháp cho mọi định nghĩa dải Chương Năm và các cụm phụ thuộc **Def.**
 - Đọc cùng: các quy tắc meta của [Định nghĩa độc lập](core_05__definitions_home.md#1-định-nghĩa-độc-lập), [§1.1 Viện, thỏa, và tuân thủ](core_05__definitions_home.md#11-viện-thỏa-và-tuân-thủ), [§2.1 Viện chung và thỏa](core_05__definitions_home.md#21-viện-chung-và-thỏa) và [§2.2 Tương tác định nghĩa tự đứng và ngữ cảnh đầy](core_05__definitions_home.md#22-tương-tác-định-nghĩa-tự-đứng-và-ngữ-cảnh-đầy) trước khi áp dụng bất kỳ cụm phụ thuộc nào.
 
@@ -436,7 +436,7 @@ Các định nghĩa Chương Năm được sắp theo [Hai Mục tiêu Hiến ph
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn cho người đọc (không vận hành): đối chiếu đo lường Lời nói đầu</span></strong></summary>
 
-> [Lời nói đầu §2](core_00_preamble.md#measurements-overview) liệt kê bảy **nhóm đo lường** hiến pháp — các câu hỏi người vận hành hỏi khi đánh giá hệ thống. Chương Năm tổ chức **định nghĩa chuẩn** theo trụ Tứ diện, mục tiêu **Liên tục**, và chủ sở hữu **Tích hợp** cắt ngang trụ. Bảng dưới ánh xạ mỗi nhóm đo lường tới các nhà Chương Năm của nó. Một nhóm có thể trải hơn một tệp dải; nhà chuẩn không dời khi các nhóm đo lường chồng nhau.
+> [Lời nói đầu §2](core_00_preamble.md#2-measurements-overview) liệt kê bảy **nhóm đo lường** hiến pháp — các câu hỏi người vận hành hỏi khi đánh giá hệ thống. Chương Năm tổ chức **định nghĩa chuẩn** theo trụ Tứ diện, mục tiêu **Liên tục**, và chủ sở hữu **Tích hợp** cắt ngang trụ. Bảng dưới ánh xạ mỗi nhóm đo lường tới các nhà Chương Năm của nó. Một nhóm có thể trải hơn một tệp dải; nhà chuẩn không dời khi các nhóm đo lường chồng nhau.
 >
 > **Tính trọng yếu** ([Xác định tính trọng yếu](../../core_05.050_band_oversight.md#materiality)) là Tích hợp — một cửa ngưỡng cắt ngang chia tỷ lệ mọi gia đình đo lường dưới [lợi hại vật chất](core_00_preamble.md#material-stake); nó không phải một nhóm riêng trong bảng dưới.
 

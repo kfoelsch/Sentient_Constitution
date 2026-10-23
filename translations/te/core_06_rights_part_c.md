@@ -117,14 +117,14 @@ flowchart TB
 
 ఈ హక్కును భద్రపరచడానికి రెండు రక్షణలు కలిసి పనిచేస్తాయి: ధృవీకరణ ఆ నమ్మకానికి తగిన వ్యవస్థను చేస్తుంది మరియు జ్ఞానుల హక్కులు దానిని నిజాయితీగా ఉంచుతాయి.
 
-**సర్టిఫికేషన్ సిస్టమ్ వైపు నుండి నమ్మకాన్ని పెంచుతుంది:** ఒక ముఖ్యమైన వ్యవస్థ సెంటింట్స్ ఎలా ఆధారపడుతుంది అనే దానిపై నిజమైన ప్రభావం చూపినప్పుడు, [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) కింద [ఎనిమిదవ అధ్యాయం](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) వర్తిస్తుంది. ఇది సెంటింట్స్‌పై ఆధారపడగలదని తనిఖీ చేస్తుంది:
+**సర్టిఫికేషన్ సిస్టమ్ వైపు నుండి నమ్మకాన్ని పెంచుతుంది:** ఒక ముఖ్యమైన వ్యవస్థ సెంటింట్స్ ఎలా ఆధారపడుతుంది అనే దానిపై నిజమైన ప్రభావం చూపినప్పుడు, [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) కింద [ఎనిమిదవ అధ్యాయం](core_07_a_system_alignment_certification_evaluation.md) వర్తిస్తుంది. ఇది సెంటింట్స్‌పై ఆధారపడగలదని తనిఖీ చేస్తుంది:
 
 - వ్యవస్థ ఏమి చెబుతుంది
 - దాని పరిమితులు మరియు నష్టాలు
 - దానిని ఎలా సవాలు చేయాలి
 - సమస్యలు ఎలా పరిష్కరించబడతాయి
 
-సిస్టమ్ ప్రాముఖ్యత థ్రెషోల్డ్‌ను చేరుకుంటే **ఆర్టికల్ XIII** (*విశ్వసనీయ మరియు విశ్వసనీయ వ్యవస్థల హక్కు*), ధృవీకరణలో విశ్వసనీయత సమీక్ష కూడా ఉంటుంది [చాప్టర్ ఎనిమిది §3.8.6 విశ్వసనీయత మరియు సిస్టమ్-రిలయన్స్ సమగ్రత మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+సిస్టమ్ ప్రాముఖ్యత థ్రెషోల్డ్‌ను చేరుకుంటే **ఆర్టికల్ XIII** (*విశ్వసనీయ మరియు విశ్వసనీయ వ్యవస్థల హక్కు*), ధృవీకరణలో విశ్వసనీయత సమీక్ష కూడా ఉంటుంది [చాప్టర్ ఎనిమిది §3.8.6 విశ్వసనీయత మరియు సిస్టమ్-రిలయన్స్ సమగ్రత మూల్యాంకనం](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **పోటీతత్వం వ్యవస్థను సెంటింట్ వైపు నుండి నిజాయితీగా ఉంచుతుంది:** ధృవీకరణ వ్యవస్థను తనిఖీ చేస్తుంది; దానిపై చివరి పదం లేదు. సిస్టమ్ ద్వారా ప్రభావితమైన ప్రతి సెంటింట్ ఉంచుతుంది:
 
@@ -137,7 +137,7 @@ flowchart TB
 *వ్యాసం పొరుగువారు:*
 
 - **ఇది వర్తించినప్పుడు:** సిస్టమ్ ప్రవర్తన మెటీరియల్‌గా గేట్స్ లేదా నిలకడగా ఉండే చోట **అధ్యాయం ఆరు** హక్కుల అంతస్తులు - మనుగడ అవసరాలతో సహా **ఆర్టికల్ III-A** (*మనుగడ*).
-- **కలిసి చదవండి:** [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) మరియు [ఎనిమిదవ అధ్యాయం](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) - ఇక్కడ పేర్కొన్న అంతస్తులకు సర్టిఫికేషన్ ప్రత్యామ్నాయం లేకుండా.
+- **కలిసి చదవండి:** [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) మరియు [ఎనిమిదవ అధ్యాయం](core_07_a_system_alignment_certification_evaluation.md) - ఇక్కడ పేర్కొన్న అంతస్తులకు సర్టిఫికేషన్ ప్రత్యామ్నాయం లేకుండా.
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### ఆర్టికల్ XIII-A: విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్
@@ -155,9 +155,9 @@ flowchart TB
 - [నమ్మండి](../../core_05.040_band_continuity.md#trust) · [ఓ](../../core_05.040_band_continuity.md#trust) · [ఎం](../../core_05.040_band_continuity.md#trust-a) · [ఎ](../../core_05.040_band_continuity.md#trust-a) · [సి](../../core_05.040_band_continuity.md#trust-c)
 - [విశ్వసనీయత](../../core_05.040_band_continuity.md#trustworthiness) · [ఓ](../../core_05.040_band_continuity.md#trustworthiness) · [ఎం](../../core_05.040_band_continuity.md#trustworthiness-a) · [ఎ](../../core_05.040_band_continuity.md#trustworthiness-a) · [సి](../../core_05.040_band_continuity.md#trustworthiness-c)
 - [ప్రమాదం](../../core_05.040_band_continuity.md#risk) · [ఓ](../../core_05.040_band_continuity.md#risk) · [ఎం](../../core_05.040_band_continuity.md#risk-a) · [ఎ](../../core_05.040_band_continuity.md#risk-a) · [సి](../../core_05.040_band_continuity.md#risk-c)
-- [పోటీతత్వం](core_05_band_accountability.md#contestability) · [ఓ](core_05_band_accountability.md#contestability) · [ఎం](core_05_band_accountability.md#contestability-a) · [ఎ](core_05_band_accountability.md#contestability-a) · [సి](core_05_band_accountability.md#contestability-c)
-- [మంచి విశ్వాసం](core_05_band_accountability.md#good-faith) · [ఓ](core_05_band_accountability.md#good-faith) · [ఎం](core_05_band_accountability.md#good-faith-a) · [ఎ](core_05_band_accountability.md#good-faith-a) · [సి](core_05_band_accountability.md#good-faith-c)
-- [రక్షిత రిపోర్టింగ్ (విజిల్‌బ్లోయింగ్)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [ఓ](core_05_band_accountability.md#protected-reporting-whistleblowing) · [ఎం](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [ఎ](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [సి](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability) · [ఓ](../../core_05.035_band_accountability.md#contestability) · [ఎం](../../core_05.035_band_accountability.md#contestability-a) · [ఎ](../../core_05.035_band_accountability.md#contestability-a) · [సి](../../core_05.035_band_accountability.md#contestability-c)
+- [మంచి విశ్వాసం](../../core_05.035_band_accountability.md#good-faith) · [ఓ](../../core_05.035_band_accountability.md#good-faith) · [ఎం](../../core_05.035_band_accountability.md#good-faith-a) · [ఎ](../../core_05.035_band_accountability.md#good-faith-a) · [సి](../../core_05.035_band_accountability.md#good-faith-c)
+- [రక్షిత రిపోర్టింగ్ (విజిల్‌బ్లోయింగ్)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [ఓ](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [ఎం](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [ఎ](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [సి](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -194,16 +194,16 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
 - అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§6.1 దిద్దుబాటు మరియు నివారణ](core_01_a_values_principles.md#61-correction-and-remedy) (సూత్రం అంతస్తు), [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), మరియు [అధ్యాయం 1 §13.1.5 హక్కులు-కొలిజన్ విధానం](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- దీనితో చదవండి: [**ఆర్టికల్ XIII-A**](#ఆరటకల-xiii-a-వశవసనయత-మరయ-వశవసనయత-బసలన) (*విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్*) — పోటీతత్వం హామీ, సవాలు చేసే హక్కు మరియు పరిహారానికి మార్గం తెరిచే రక్షిత రిపోర్టింగ్; **ఆర్టికల్ III-A** (*మనుగడ*); [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) సిస్టమ్ వైఫల్యం లేదా తప్పుడు అమరిక మనుగడ-అవసరమైన ప్రాప్యతను ఓడిస్తుంది; [ఉపోద్ఘాతం §6.2 పూర్తి గొలుసు ఎలా కలిసి ఉంటుంది](core_00_preamble.md#62-how-the-full-chain-fits-together) (*ధృవీకరించబడిన వర్గీకరణ మరియు సకాలంలో నివారణ*); [అధ్యాయం పది §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*నిబంధన వాస్తవికత మరియు నివారణ వ్యవస్థలు*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*పరిహార వ్యవస్థలు మరియు సంస్థాగత పరిష్కార సామర్థ్యం*).
+- దీనితో చదవండి: [**ఆర్టికల్ XIII-A**](#ఆరటకల-xiii-a-వశవసనయత-మరయ-వశవసనయత-బసలన) (*విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్*) — పోటీతత్వం హామీ, సవాలు చేసే హక్కు మరియు పరిహారానికి మార్గం తెరిచే రక్షిత రిపోర్టింగ్; **ఆర్టికల్ III-A** (*మనుగడ*); [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) సిస్టమ్ వైఫల్యం లేదా తప్పుడు అమరిక మనుగడ-అవసరమైన ప్రాప్యతను ఓడిస్తుంది; [ఉపోద్ఘాతం §6.2 పూర్తి గొలుసు ఎలా కలిసి ఉంటుంది](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*ధృవీకరించబడిన వర్గీకరణ మరియు సకాలంలో నివారణ*); [అధ్యాయం పది §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*నిబంధన వాస్తవికత మరియు నివారణ వ్యవస్థలు*); [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*పరిహార వ్యవస్థలు మరియు సంస్థాగత పరిష్కార సామర్థ్యం*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
-- [పరిహారం మరియు నివారణ](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ఓ](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ఎం](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [ఎ](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [సి](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [నివారణ వ్యవస్థ](core_05_band_accountability.md#remedy-system-constitutional) · [ఓ](core_05_band_accountability.md#remedy-system-constitutional) · [ఎం](core_05_band_accountability.md#remedy-system-constitutional-a) · [ఎ](core_05_band_accountability.md#remedy-system-constitutional-a) · [సి](core_05_band_accountability.md#remedy-system-constitutional-c)
-- [సమయానుకూల రిజల్యూషన్](core_05_band_accountability.md#timely-resolution-constitutional) · [ఓ](core_05_band_accountability.md#timely-resolution-constitutional) · [ఎం](core_05_band_accountability.md#timely-resolution-constitutional-a) · [ఎ](core_05_band_accountability.md#timely-resolution-constitutional-a) · [సి](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [పరిహారం మరియు నివారణ](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [ఓ](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [ఎం](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [సి](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [నివారణ వ్యవస్థ](../../core_05.035_band_accountability.md#remedy-system-constitutional) · [ఓ](../../core_05.035_band_accountability.md#remedy-system-constitutional) · [ఎం](../../core_05.035_band_accountability.md#remedy-system-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#remedy-system-constitutional-a) · [సి](../../core_05.035_band_accountability.md#remedy-system-constitutional-c)
+- [సమయానుకూల రిజల్యూషన్](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [ఓ](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [ఎం](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [సి](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 
 </details>
 
@@ -219,7 +219,7 @@ flowchart TB
   - దామాషా నివారణ.
 
   వస్తుపరమైన ప్రభావాలకు పరిష్కారం మరియు పరిష్కారం దీని ద్వారా నిర్వహించబడుతుంది **అధ్యాయం ఐదు** స్వతంత్ర నిర్వచనాలు (*పరిహారం మరియు నివారణ*).
-- **నివారణ-వ్యవస్థ మన్నిక:** పరిష్కారానికి నిజమైన అవసరం [నివారణ వ్యవస్థ](core_05_band_accountability.md#remedy-system-constitutional) - మన్నికైన సంస్థాగత సామర్థ్యం, ​​పేపర్ రెమెడీ మార్గం కాదు - బాధ్యులు భరించే దిద్దుబాటు ఖర్చులతో, [మొదటి అధ్యాయం §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*దిద్దుబాటు మరియు నివారణ*) అవసరం.
+- **నివారణ-వ్యవస్థ మన్నిక:** పరిష్కారానికి నిజమైన అవసరం [నివారణ వ్యవస్థ](../../core_05.035_band_accountability.md#remedy-system-constitutional) - మన్నికైన సంస్థాగత సామర్థ్యం, ​​పేపర్ రెమెడీ మార్గం కాదు - బాధ్యులు భరించే దిద్దుబాటు ఖర్చులతో, [మొదటి అధ్యాయం §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*దిద్దుబాటు మరియు నివారణ*) అవసరం.
 - **సకాలంలో పరిహారం:** ప్రాక్టికల్ యాక్సెస్ వీటిని కలిగి ఉంటుంది:
   - సమయ పరిమిత తీసుకోవడం;
   - రసీదు; మరియు
@@ -271,7 +271,7 @@ flowchart TB
 
 - [ప్రోత్సాహక అమరిక](core_05_band_integrative.md#పరతసహక-అనగణత) · [ఓ](core_05_band_integrative.md#పరతసహక-అనగణత) · [ఎం](core_05_band_integrative.md#incentive-alignment-a) · [ఎ](core_05_band_integrative.md#incentive-alignment-a) · [సి](core_05_band_integrative.md#incentive-alignment-c)
 - [విశ్వసనీయత](../../core_05.040_band_continuity.md#trustworthiness) · [ఓ](../../core_05.040_band_continuity.md#trustworthiness) · [ఎం](../../core_05.040_band_continuity.md#trustworthiness-a) · [ఎ](../../core_05.040_band_continuity.md#trustworthiness-a) · [సి](../../core_05.040_band_continuity.md#trustworthiness-c)
-- [అర్థవంతమైన ఏజెన్సీ](core_05_band_participation.md#meaningful-agency) · [ఓ](core_05_band_participation.md#meaningful-agency) · [ఎం](core_05_band_participation.md#meaningful-agency-a) · [ఎ](core_05_band_participation.md#meaningful-agency-a) · [సి](core_05_band_participation.md#meaningful-agency-c)
+- [అర్థవంతమైన ఏజెన్సీ](../../core_05.055_band_participation.md#meaningful-agency) · [ఓ](../../core_05.055_band_participation.md#meaningful-agency) · [ఎం](../../core_05.055_band_participation.md#meaningful-agency-a) · [ఎ](../../core_05.055_band_participation.md#meaningful-agency-a) · [సి](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -319,9 +319,9 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
 - [నిజం (రాజ్యాంగ నిర్బంధం)](core_05_band_oversight.md#సతయ-రజయగ-పరమత) · [ఓ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ఎం](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ఎ](core_05_band_oversight.md#truth-constitutional-constraint-a) · [సి](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [పోటీతత్వం](core_05_band_accountability.md#contestability) · [ఓ](core_05_band_accountability.md#contestability) · [ఎం](core_05_band_accountability.md#contestability-a) · [ఎ](core_05_band_accountability.md#contestability-a) · [సి](core_05_band_accountability.md#contestability-c)
-- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [ఓ](core_05_band_accountability.md#necessity) · [ఎం](core_05_band_accountability.md#necessity-a) · [ఎ](core_05_band_accountability.md#necessity-a) · [సి](core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [ఓ](core_05_band_accountability.md#proportionality) · [ఎం](core_05_band_accountability.md#proportionality-a) · [ఎ](core_05_band_accountability.md#proportionality-a) · [సి](core_05_band_accountability.md#proportionality-c)
+- [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability) · [ఓ](../../core_05.035_band_accountability.md#contestability) · [ఎం](../../core_05.035_band_accountability.md#contestability-a) · [ఎ](../../core_05.035_band_accountability.md#contestability-a) · [సి](../../core_05.035_band_accountability.md#contestability-c)
+- [ఆవశ్యకత](../../core_05.035_band_accountability.md#necessity) · [ఓ](../../core_05.035_band_accountability.md#necessity) · [ఎం](../../core_05.035_band_accountability.md#necessity-a) · [ఎ](../../core_05.035_band_accountability.md#necessity-a) · [సి](../../core_05.035_band_accountability.md#necessity-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [ఓ](../../core_05.035_band_accountability.md#proportionality) · [ఎం](../../core_05.035_band_accountability.md#proportionality-a) · [ఎ](../../core_05.035_band_accountability.md#proportionality-a) · [సి](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -347,9 +347,9 @@ flowchart TB
   సిస్టమ్ యొక్క ఆపరేషన్ నిర్ణయాలను సవాలు చేసే వ్యక్తుల సామర్థ్యాన్ని, భాగస్వామ్య సమాచారం యొక్క నిజాయితీని లేదా రాజ్యాంగ ప్రక్రియను భౌతికంగా బలహీనపరిచినప్పుడల్లా ఇది వర్తిస్తుంది.
 - **వ్యవస్థకు వ్యతిరేకంగా పని చేయడం జీవికి వ్యతిరేకంగా పని చేయడం కాదు:** నిబంధనలకు అనుగుణంగా లేని విస్తరణను కలిగి ఉండటం, నిర్బంధించడం, నిర్బంధించడం లేదా నాశనం చేయడం **ఆర్టికల్ XXVII-D** (*నాన్-కంప్లైంట్ ప్రాపర్టీ అండ్ సిస్టమ్స్; వాలంటరీ టర్నోవర్ ఇన్సెంటివ్స్*) దీని నుండి వేరుగా ఉంటుంది:
   - కింద ఒక సెంటింట్ జవాబుదారీగా పట్టుకోవడం **అధ్యాయం పదకొండు**; మరియు
-  - **ఆర్టికల్ XX-B** (*నియంత్రణ అంతస్తులు*), ఇది *వ్యవస్థల*పై కాకుండా *సెంటియంట్స్*పై పరిమితులను నియంత్రిస్తుంది మరియు ఒక సెంటింట్ యొక్క ప్రాణాలను తీయడాన్ని ఎప్పుడూ నిషేధిస్తుంది (చూడండి [కోలుకోలేని లేమి కొలత](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional))
+  - **ఆర్టికల్ XX-B** (*నియంత్రణ అంతస్తులు*), ఇది *వ్యవస్థల*పై కాకుండా *సెంటియంట్స్*పై పరిమితులను నియంత్రిస్తుంది మరియు ఒక సెంటింట్ యొక్క ప్రాణాలను తీయడాన్ని ఎప్పుడూ నిషేధిస్తుంది (చూడండి [కోలుకోలేని లేమి కొలత](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional))
 
-  సిస్టమ్‌కు వ్యతిరేకంగా చర్యలు ప్రతి సెంటింట్‌కు వర్తించే అదే ఉల్లంఘన మరియు లాక్ నియమాలను అనుసరిస్తాయి. ఉల్లంఘన కింద ఉన్న రికార్డ్‌లో ధృవీకరించబడాలి **అధ్యాయం తొమ్మిది**, మరియు ప్రతి కొలత ఒక తాళం కింద రూపొందించబడింది మరియు క్రమాంకనం చేయబడుతుంది [అధ్యాయం పది §5.1](core_10_standing_integration.md#51-definition-and-attachment) (*నిర్వచనం మరియు అనుబంధం*) మరియు [అధ్యాయం పది §5.2](core_10_standing_integration.md#52-proportionality-and-calibration) (*అనుపాతత మరియు క్రమాంకనం*).
+  సిస్టమ్‌కు వ్యతిరేకంగా చర్యలు ప్రతి సెంటింట్‌కు వర్తించే అదే ఉల్లంఘన మరియు లాక్ నియమాలను అనుసరిస్తాయి. ఉల్లంఘన కింద ఉన్న రికార్డ్‌లో ధృవీకరించబడాలి **అధ్యాయం తొమ్మిది**, మరియు ప్రతి కొలత ఒక తాళం కింద రూపొందించబడింది మరియు క్రమాంకనం చేయబడుతుంది [అధ్యాయం పది §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*నిర్వచనం మరియు అనుబంధం*) మరియు [అధ్యాయం పది §5.2](core_09_standing_integration.md#52-proportionality-and-calibration) (*అనుపాతత మరియు క్రమాంకనం*).
 
   రెండు ట్రాక్‌లు ఒకే వాస్తవాలకు వర్తించవచ్చు. ఈ ఆర్టికల్‌లో ఏదీ వ్యవస్థను నాశనం చేసే శక్తిని ఒక జ్ఞాని జీవితంపై అధికారంగా మార్చలేదు.
 - **రివర్స్ కూడా కలిగి ఉంది:** క్లెయిమ్ వివాదాస్పదమైనా లేదా ఆమోదించబడినా - అమలు చేయబడిన సిస్టమ్ సెంటిమెంట్ అని క్లెయిమ్ చేయడం వలన హానికరమైన విస్తరణ అమలులో ఉంచడానికి ఎవరినీ అనుమతించదు.
@@ -373,7 +373,7 @@ flowchart TB
 - [రివర్సిబిలిటీ](../../core_05.040_band_continuity.md#reversibility) · [ఓ](../../core_05.040_band_continuity.md#reversibility) · [ఎం](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ఎ](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [సి](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 - [క్యాస్కేడింగ్ వైఫల్యం](../../core_05.040_band_continuity.md#cascading-failure) · [ఓ](../../core_05.040_band_continuity.md#cascading-failure) · [ఎం](../../core_05.040_band_continuity.md#cascading-failure-a) · [ఎ](../../core_05.040_band_continuity.md#cascading-failure-a) · [సి](../../core_05.040_band_continuity.md#cascading-failure-c)
 - [ఆడిటబిలిటీ](core_05_band_oversight.md#ఆడట-యగయత) · [ఓ](core_05_band_oversight.md#ఆడట-యగయత) · [ఎం](core_05_band_oversight.md#auditability-a) · [ఎ](core_05_band_oversight.md#auditability-a) · [సి](core_05_band_oversight.md#auditability-c)
-- [పోటీతత్వం](core_05_band_accountability.md#contestability) · [ఓ](core_05_band_accountability.md#contestability) · [ఎం](core_05_band_accountability.md#contestability-a) · [ఎ](core_05_band_accountability.md#contestability-a) · [సి](core_05_band_accountability.md#contestability-c)
+- [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability) · [ఓ](../../core_05.035_band_accountability.md#contestability) · [ఎం](../../core_05.035_band_accountability.md#contestability-a) · [ఎ](../../core_05.035_band_accountability.md#contestability-a) · [సి](../../core_05.035_band_accountability.md#contestability-c)
 - [తప్పించుకోదగిన భారం](../../core_05.040_band_continuity.md#avoidable-burden) · [ఓ](../../core_05.040_band_continuity.md#avoidable-burden) · [ఎం](../../core_05.040_band_continuity.md#avoidable-burden-a) · [ఎ](../../core_05.040_band_continuity.md#avoidable-burden-a) · [సి](../../core_05.040_band_continuity.md#avoidable-burden-c)
 
 </details>
@@ -385,7 +385,7 @@ flowchart TB
 ఈ ఆర్టికల్ రికవరీ బేస్‌లైన్‌ను నిర్దేశిస్తుంది, గుర్తించడం నుండి మూల కారణాన్ని మూసివేయడం ద్వారా:
 
 - **దీనికి ఏమి అవసరం:** ఈ ఆర్టికల్ ద్వారా కవర్ చేయబడిన ప్రతి సిస్టమ్ తప్పనిసరిగా వైఫల్యాల నుండి తిరిగి పొందగలగాలి. సిస్టమ్ ఎంత ఎక్కువ ప్రభావం చూపుతుందో, ఇతరులు దానిపై ఎక్కువ ఆధారపడతారు మరియు అది ఎంత ప్రమాదకరమైతే, దాని పునరుద్ధరణ అంత బలంగా ఉండాలి. ఇది అనుసరిస్తుంది [**10 స్థితిస్థాపకత మరియు స్వీయ-స్వస్థత డిజైన్**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) లో **మొదటి అధ్యాయం** మరియు [**స్వీయ స్వస్థత**](../../core_05.040_band_continuity.md#self-healing) లో **అధ్యాయం ఐదు**.
-  - రికవరీ ఎలా నిర్మించబడాలి అనేదానికి సంబంధించిన వివరణాత్మక సాంకేతిక నియమాలు అమలు టెక్స్ట్‌లో ఉన్నాయి: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*డిజైన్, టెస్టింగ్, వెరిఫికేషన్ మరియు డిప్లాయ్‌మెంట్*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*అడాప్టివ్ సస్టైనబిలిటీ మరియు ఎకోసిస్టమ్ రెసిలెన్స్*), మరియు [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*వికేంద్రీకృత కొనసాగింపు మరియు విభజన స్థితిస్థాపకత*).
+  - రికవరీ ఎలా నిర్మించబడాలి అనేదానికి సంబంధించిన వివరణాత్మక సాంకేతిక నియమాలు అమలు టెక్స్ట్‌లో ఉన్నాయి: [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*డిజైన్, టెస్టింగ్, వెరిఫికేషన్ మరియు డిప్లాయ్‌మెంట్*), [**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*అడాప్టివ్ సస్టైనబిలిటీ మరియు ఎకోసిస్టమ్ రెసిలెన్స్*), మరియు [**CS-12**](../../corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md) (*వికేంద్రీకృత కొనసాగింపు మరియు విభజన స్థితిస్థాపకత*).
   - ఆ అమలు టెక్స్ట్ వివరాలను జోడించవచ్చు, కానీ అది ఈ కథనాన్ని బలహీనపరచదు.
 - **సకాలంలో సమస్యలను గమనించండి:** ఒక వ్యవస్థ లోపాలను, మందగమనాలను, పాక్షిక విచ్ఛిన్నాలను మరియు రాజ్యాంగ పరిమితుల ఉల్లంఘనలను త్వరగా గుర్తించాలి, మరియు తగినంత దృశ్యమానంగా, రికార్డు కీపింగ్ ప్రమాణాన్ని చేరుకోవాలి. **ఆర్టికల్ XVI-A** (*ఆడిటబిలిటీ మరియు పరిశీలించదగిన సాక్ష్యం*) ([ఆడిటబిలిటీ](core_05_band_oversight.md#ఆడట-యగయత)) ఇది సాధారణ ఆపరేషన్‌కు మాత్రమే కాకుండా, రికవరీ ప్రక్రియకు కూడా వర్తిస్తుంది.
 - **నష్టాన్ని కలిగి ఉండండి:** రికవరీ వైఫల్యం ఎంతవరకు వ్యాపిస్తుందో పరిమితం చేయాలి. కోలుకుంటున్నప్పుడు, సిస్టమ్ తప్పక:
@@ -395,11 +395,11 @@ flowchart TB
   - వైఫల్యానికి ముందు దాని స్వంత అధికారాన్ని - దాని అనుమతులు, యాక్సెస్ లేదా అది తీసుకోగల చర్యల పరిధిని విస్తరించండి.
 - **ఖచ్చితంగా తెలియనప్పుడు, సురక్షితంగా విఫలం:** స్వయంచాలక మరమ్మత్తు పని చేస్తుందని స్పష్టంగా తెలియకపోతే, సిస్టమ్ సురక్షితంగా ఆగిపోవాలి, సమస్యను వేరుచేయాలి (దిగ్బంధం), లేదా ఒక క్రమమైన మార్గంలో నియంత్రణను అప్పగించాలి, బదులుగా కేవలం ఊహాత్మకమైన మరమ్మత్తును ప్రయత్నించాలి. ఆప్షన్‌లు సమానంగా ఉన్నప్పుడు, అన్‌డూ చేయడానికి సులభమైనది గెలుస్తుంది [రివర్సిబిలిటీ](../../core_05.040_band_continuity.md#reversibility) లో ప్రాధాన్యత **ఆర్టికల్ XXIII-B** (*ఆడిటబిలిటీ, ఛాలెంజ్ మరియు రివర్సిబిలిటీ ప్రాధాన్యత*).
 - **కప్పిపుచ్చడం లేదు:** స్వయంచాలక పునరుద్ధరణలో వైఫల్యం ఎందుకు జరిగిందో తెలుసుకోవడానికి అవసరమైన సాక్ష్యాలను దాచకూడదు, తొలగించకూడదు లేదా ఆలస్యం చేయకూడదు **ఆర్టికల్ XXIII** (*మూల కారణ విశ్లేషణ మరియు అనుకూల ప్రతిస్పందన*).
-  - ప్రతి పునరుద్ధరణ చర్య, ప్రతి పునరుద్ధరణ ప్రయత్నం మరియు వెనుకబడిన లేదా నిరోధించబడిన ప్రతి పునరుద్ధరణ ప్రయత్నం తప్పనిసరిగా కింద రికార్డ్ చేయబడాలి **ఆర్టికల్ XVI-A** (*ఆడిటబిలిటీ మరియు పరిశీలించదగిన సాక్ష్యం*), మరియు ప్రతి ఒక్కటి సవాలు చేయవచ్చు (చూడండి [పోటీతత్వం](core_05_band_accountability.md#contestability))
+  - ప్రతి పునరుద్ధరణ చర్య, ప్రతి పునరుద్ధరణ ప్రయత్నం మరియు వెనుకబడిన లేదా నిరోధించబడిన ప్రతి పునరుద్ధరణ ప్రయత్నం తప్పనిసరిగా కింద రికార్డ్ చేయబడాలి **ఆర్టికల్ XVI-A** (*ఆడిటబిలిటీ మరియు పరిశీలించదగిన సాక్ష్యం*), మరియు ప్రతి ఒక్కటి సవాలు చేయవచ్చు (చూడండి [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability))
 - **తగ్గించబడిన మోడ్‌లో హక్కులు రక్షించబడతాయి:** సిస్టమ్ తగ్గించబడిన లేదా బ్యాకప్ మోడ్‌లో రన్ అవుతున్నప్పుడు, అది తప్పనిసరిగా రక్షించబడాలి **అధ్యాయం ఆరు** హక్కుల అంతస్తు. అది కుదరకపోతే, ఆ రక్షణలను నిశ్శబ్దంగా తగ్గించుకోవడం కంటే బహిరంగంగా సమస్యను తీవ్రతరం చేయాలి.
   - "స్వీయ-స్వస్థత" పేరుతో హక్కుల అంతస్తుల రక్షణలను నిశ్శబ్దంగా బలహీనపరచడం ఈ రాజ్యాంగాన్ని ఉల్లంఘించడమే. అలాంటి కేసులు కిందకు వస్తాయి **ఆర్టికల్ XIII-C** (*తప్పుడు విశ్వాసం మరియు తప్పుదారి పట్టించే రిలయన్స్ నిషేధం*) (తప్పుడు విశ్వాసం యొక్క నిషేధం) మరియు **ఆర్టికల్ XXVII** (*ట్రాన్సిషన్ గవర్నెన్స్, కంటిన్యుటీ మరియు రీ-బేస్‌లైనింగ్*) (ట్రాన్సిషన్ గవర్నెన్స్).
 - **సొంతంగా పనిచేసే సిస్టమ్‌లపై పరిమితులు:** అధిక-స్వయంప్రతిపత్తి వ్యవస్థ స్వయంగా మరమ్మతులు చేసినప్పుడు, **ఆర్టికల్ XIII-E** (*హై-అటానమీ సిస్టమ్స్ మరియు టూల్-మెడియేటెడ్ ప్రాసెస్ ఇంటెగ్రిటీ*) వర్తిస్తుంది.
-  - తిరిగి పొందే శక్తి ఎవరికీ సవాలు చేసే హక్కును అధిగమించడానికి ఉపయోగించబడదు (చూడండి [పోటీతత్వం](core_05_band_accountability.md#contestability)), కింద సవాళ్లు **ఆర్టికల్ XIII-A** (*విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్*), లేదా కింద స్వతంత్ర తనిఖీ **ఆర్టికల్ XVI** (*ఆడిట్, పారదర్శకత మరియు స్వతంత్ర ధృవీకరణ*).
+  - తిరిగి పొందే శక్తి ఎవరికీ సవాలు చేసే హక్కును అధిగమించడానికి ఉపయోగించబడదు (చూడండి [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability)), కింద సవాళ్లు **ఆర్టికల్ XIII-A** (*విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్*), లేదా కింద స్వతంత్ర తనిఖీ **ఆర్టికల్ XVI** (*ఆడిట్, పారదర్శకత మరియు స్వతంత్ర ధృవీకరణ*).
 - **ప్రత్యామ్నాయం పరిష్కారం కాదు:** స్వయంచాలక పునరుద్ధరణ సిస్టమ్ మళ్లీ అమలులోకి వచ్చినప్పటికీ, తెలిసిన లోపం ఇప్పటికీ స్థానంలో ఉంటే, సిస్టమ్ యొక్క స్థితి తాత్కాలికంగా ఉంటుంది, అంతిమమైనది కాదు. ఇది తప్పనిసరిగా తీసుకువెళ్లాలి:
   - కింద ఉన్న మూల కారణాన్ని కనుగొనడం బహిరంగ విధి **ఆర్టికల్ XXIII** (*మూల కారణ విశ్లేషణ మరియు అనుకూల ప్రతిస్పందన*);
   - లోపం ఎప్పుడు పరిష్కరించబడుతుందనే దాని కోసం బహిర్గతం చేయబడిన కాలక్రమం, కింద **ఆర్టికల్ XVI-A** (*ఆడిటబిలిటీ మరియు పరిశీలించదగిన సాక్ష్యం*).
@@ -418,9 +418,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
-- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [ఓ](core_05_band_accountability.md#necessity) · [ఎం](core_05_band_accountability.md#necessity-a) · [ఎ](core_05_band_accountability.md#necessity-a) · [సి](core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [ఓ](core_05_band_accountability.md#proportionality) · [ఎం](core_05_band_accountability.md#proportionality-a) · [ఎ](core_05_band_accountability.md#proportionality-a) · [సి](core_05_band_accountability.md#proportionality-c)
-- [బలాన్ని ఉపయోగించడం](core_05_band_accountability.md#use-of-force-constitutional) · [ఓ](core_05_band_accountability.md#use-of-force-constitutional) · [ఎం](core_05_band_accountability.md#use-of-force-constitutional-a) · [ఎ](core_05_band_accountability.md#use-of-force-constitutional-a) · [సి](core_05_band_accountability.md#use-of-force-constitutional-c)
+- [ఆవశ్యకత](../../core_05.035_band_accountability.md#necessity) · [ఓ](../../core_05.035_band_accountability.md#necessity) · [ఎం](../../core_05.035_band_accountability.md#necessity-a) · [ఎ](../../core_05.035_band_accountability.md#necessity-a) · [సి](../../core_05.035_band_accountability.md#necessity-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [ఓ](../../core_05.035_band_accountability.md#proportionality) · [ఎం](../../core_05.035_band_accountability.md#proportionality-a) · [ఎ](../../core_05.035_band_accountability.md#proportionality-a) · [సి](../../core_05.035_band_accountability.md#proportionality-c)
+- [బలాన్ని ఉపయోగించడం](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [ఓ](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [ఎం](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [సి](../../core_05.035_band_accountability.md#use-of-force-constitutional-c)
 
 </details>
 
@@ -447,7 +447,7 @@ flowchart TB
   - బలాన్ని బహిరంగంగా ఉపయోగించడం మరియు సైనిక-శక్తి విస్తరణ కింద **ఆర్టికల్ XIV-B** (*బలాన్ని ఉపయోగించడం, సాయుధ సంఘర్షణ మరియు సైనిక-శక్తి పరిమితులు*); మరియు
   - స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థలు మరియు స్వయంప్రతిపత్త బలవంతపు సాధనాలు **ఆర్టికల్ XIV-C** (*అటానమస్ లెథల్ సిస్టమ్స్ మరియు అటానమస్ బలవంతపు సాధనాలు*).
 
-  ఇది చేస్తుంది **కాదు** పాలించు **న్యాయపరమైన చర్యగా లేదా పోల్చదగిన పోరాట రహిత ఫలితంగా రాష్ట్రం లేదా పోల్చదగిన నటుడు విధించిన జీవితాన్ని కోలుకోలేని నష్టం**. అటువంటి లేమి కింద వర్గీకరణపరంగా నిషేధించబడింది **ఆర్టికల్ XX-B** (*పరిమితి అంతస్తులు*) మరియు **అధ్యాయం ఐదు** *[కోలుకోలేని లేమి కొలత](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. ఆ నిషేధం ఈ ఆర్టికల్ నుండి నిర్మాణాత్మకంగా భిన్నంగా ఉంటుంది.
+  ఇది చేస్తుంది **కాదు** పాలించు **న్యాయపరమైన చర్యగా లేదా పోల్చదగిన పోరాట రహిత ఫలితంగా రాష్ట్రం లేదా పోల్చదగిన నటుడు విధించిన జీవితాన్ని కోలుకోలేని నష్టం**. అటువంటి లేమి కింద వర్గీకరణపరంగా నిషేధించబడింది **ఆర్టికల్ XX-B** (*పరిమితి అంతస్తులు*) మరియు **అధ్యాయం ఐదు** *[కోలుకోలేని లేమి కొలత](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*. ఆ నిషేధం ఈ ఆర్టికల్ నుండి నిర్మాణాత్మకంగా భిన్నంగా ఉంటుంది.
   - ఏమీ లేదు **ఆర్టికల్ XIV** (*సెక్యూరిటీ, ఇంటెలిజెన్స్, ఫోర్స్ మరియు అటానమస్ బలవంతపు వ్యవస్థలు*) మానవ ఆపరేటర్, స్వయంప్రతిపత్త వ్యవస్థ లేదా హైబ్రిడ్ హ్యూమన్-సిస్టమ్ పైప్‌లైన్ ద్వారా నిర్ణయించబడినా - ఏదైనా కోలుకోలేని లేమి కొలత కోసం రాజ్యాంగపరమైన సూచనను అధికారం, చట్టబద్ధం, విస్తృతం లేదా సరఫరా చేస్తుంది.
   - దీనిని పోరాట లేదా అత్యవసర పరిస్థితి అని పిలవడం, బలప్రయోగం అని వర్గీకరించడం, రహస్య శక్తి ద్వారా దానిని రూట్ చేయడం లేదా స్వయంప్రతిపత్తి గల వ్యవస్థకు అప్పగించడం వంటివి తిరుగులేని న్యాయం-కొలత హత్యను ఇక్కడ పాలించే అధికారంగా మార్చదు.
   - రహస్య, శక్తి, స్వయంప్రతిపత్త వ్యవస్థలు లేదా బలవంతపు సాధనం యొక్క మార్పిడి **సందర్భం** న్యాయం-కొలత ఫలితంలోకి ప్రశ్న తిరిగి వస్తుంది **ఆర్టికల్ XX-B** (*నియంత్రణ అంతస్తులు*) మరియు *ఇర్రివర్సిబుల్ డిప్రివేషన్ మెజర్*, ఈ ఆర్టికల్ నుండి చదవకుండానే.
@@ -469,8 +469,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
-- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [ఓ](core_05_band_accountability.md#necessity) · [ఎం](core_05_band_accountability.md#necessity-a) · [ఎ](core_05_band_accountability.md#necessity-a) · [సి](core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [ఓ](core_05_band_accountability.md#proportionality) · [ఎం](core_05_band_accountability.md#proportionality-a) · [ఎ](core_05_band_accountability.md#proportionality-a) · [సి](core_05_band_accountability.md#proportionality-c)
+- [ఆవశ్యకత](../../core_05.035_band_accountability.md#necessity) · [ఓ](../../core_05.035_band_accountability.md#necessity) · [ఎం](../../core_05.035_band_accountability.md#necessity-a) · [ఎ](../../core_05.035_band_accountability.md#necessity-a) · [సి](../../core_05.035_band_accountability.md#necessity-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [ఓ](../../core_05.035_band_accountability.md#proportionality) · [ఎం](../../core_05.035_band_accountability.md#proportionality-a) · [ఎ](../../core_05.035_band_accountability.md#proportionality-a) · [సి](../../core_05.035_band_accountability.md#proportionality-c)
 - [రక్షిత అంతర్గత-రాష్ట్ర సరిహద్దు](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [ఓ](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [ఎం](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [ఎ](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [సి](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
@@ -556,23 +556,23 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
 - అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 అవసరం](core_01_b_interaction_interpretation.md#1311-అవసర), [§7.1 పరిమితి క్రమశిక్షణ](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 రైట్స్-కొలిజన్ డెసిషన్ టెస్ట్](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 సంపూర్ణ ఓవర్‌రైడ్‌పై నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- దిగువ: **ఆర్టికల్ I-A** (*పర్యావరణ ముందస్తు షరతులు మరియు పర్యావరణ సమగ్రత*) పర్యావరణ ముందస్తు షరతులు, **ఆర్టికల్ I-D** (*అస్తిత్వ ప్రమాదం మరియు పర్యావరణ పునరుద్ధరణ కెపాసిటీ*) అస్తిత్వ-ప్రమాద పరిశీలన, **ఆర్టికల్ VI-A** (*డిగ్నిటీ అండ్ ఈక్వల్ మోరల్ స్టాండింగ్*) గౌరవం, **ఆర్టికల్ XIV-A** (*భద్రత, మేధస్సు మరియు రహస్య-శక్తి పరిమితులు*) రహస్య-శక్తి పరిమితులు (ఓవర్ట్-పవర్ కౌంటర్), **పన్నెండవ అధ్యాయం §6.1** (*అత్యవసర చర్యలు మరియు కొనసాగింపు భారం*) అత్యవసర-కొలత పరిమితులు, **ఆర్టికల్ XXV** (*సకాలంలో పునరాలోచన మరియు పునరుద్ధరణ అమరిక*) వైరుధ్య పరిష్కారం, **ఆర్టికల్ XXVII** (*ట్రాన్సిషన్ గవర్నెన్స్, కంటిన్యుటీ మరియు రీ-బేస్‌లైనింగ్*) పరివర్తన పాలన. క్రాస్-రిఫరెన్స్: **ఆర్టికల్ XX-B** (*పరిమితి అంతస్తులు*) మరియు అధ్యాయం ఐదు *[కోలుకోలేని లేమి కొలత](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **ఆర్టికల్ XIV** (*భద్రత, ఇంటెలిజెన్స్, ఫోర్స్ మరియు అటానమస్ బలవంతపు వ్యవస్థలు*) *నాన్-కాన్ఫ్లేషన్* క్రమశిక్షణ వర్తిస్తుంది.
-- దీనితో చదవండి: [**Def.A4** *బలాన్ని ఉపయోగించడం, స్వయంప్రతిపత్త బలవంతం, స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థలు మరియు భారీ హానిని కలిగించే ఆయుధాలు*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (పదార్థపరంగా చిక్కుకున్న చోట ఉమ్మడి ఆహ్వానం); ఐదవ అధ్యాయం *బలాన్ని ఉపయోగించడం*, *సామూహిక హాని యొక్క ఆయుధాలు*, *పోరాట / నాన్-కాంబాటెంట్ వ్యత్యాసం*, *[కోలుకోలేని లేమి కొలత](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *ఎక్సిస్టెన్షియల్ రిస్క్*, *రివర్సిబిలిటీ*, *రిడ్రెస్ అండ్ రెమిడియేషన్*.
+- దిగువ: **ఆర్టికల్ I-A** (*పర్యావరణ ముందస్తు షరతులు మరియు పర్యావరణ సమగ్రత*) పర్యావరణ ముందస్తు షరతులు, **ఆర్టికల్ I-D** (*అస్తిత్వ ప్రమాదం మరియు పర్యావరణ పునరుద్ధరణ కెపాసిటీ*) అస్తిత్వ-ప్రమాద పరిశీలన, **ఆర్టికల్ VI-A** (*డిగ్నిటీ అండ్ ఈక్వల్ మోరల్ స్టాండింగ్*) గౌరవం, **ఆర్టికల్ XIV-A** (*భద్రత, మేధస్సు మరియు రహస్య-శక్తి పరిమితులు*) రహస్య-శక్తి పరిమితులు (ఓవర్ట్-పవర్ కౌంటర్), **పన్నెండవ అధ్యాయం §6.1** (*అత్యవసర చర్యలు మరియు కొనసాగింపు భారం*) అత్యవసర-కొలత పరిమితులు, **ఆర్టికల్ XXV** (*సకాలంలో పునరాలోచన మరియు పునరుద్ధరణ అమరిక*) వైరుధ్య పరిష్కారం, **ఆర్టికల్ XXVII** (*ట్రాన్సిషన్ గవర్నెన్స్, కంటిన్యుటీ మరియు రీ-బేస్‌లైనింగ్*) పరివర్తన పాలన. క్రాస్-రిఫరెన్స్: **ఆర్టికల్ XX-B** (*పరిమితి అంతస్తులు*) మరియు అధ్యాయం ఐదు *[కోలుకోలేని లేమి కొలత](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **ఆర్టికల్ XIV** (*భద్రత, ఇంటెలిజెన్స్, ఫోర్స్ మరియు అటానమస్ బలవంతపు వ్యవస్థలు*) *నాన్-కాన్ఫ్లేషన్* క్రమశిక్షణ వర్తిస్తుంది.
+- దీనితో చదవండి: [**Def.A4** *బలాన్ని ఉపయోగించడం, స్వయంప్రతిపత్త బలవంతం, స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థలు మరియు భారీ హానిని కలిగించే ఆయుధాలు*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (పదార్థపరంగా చిక్కుకున్న చోట ఉమ్మడి ఆహ్వానం); ఐదవ అధ్యాయం *బలాన్ని ఉపయోగించడం*, *సామూహిక హాని యొక్క ఆయుధాలు*, *పోరాట / నాన్-కాంబాటెంట్ వ్యత్యాసం*, *[కోలుకోలేని లేమి కొలత](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *ఎక్సిస్టెన్షియల్ రిస్క్*, *రివర్సిబిలిటీ*, *రిడ్రెస్ అండ్ రెమిడియేషన్*.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
-- [బలాన్ని ఉపయోగించడం](core_05_band_accountability.md#use-of-force-constitutional) · [ఓ](core_05_band_accountability.md#use-of-force-constitutional) · [ఎం](core_05_band_accountability.md#use-of-force-constitutional-a) · [ఎ](core_05_band_accountability.md#use-of-force-constitutional-a) · [సి](core_05_band_accountability.md#use-of-force-constitutional-c)
-- [మాస్ హాని యొక్క ఆయుధాలు](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [ఓ](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [ఎం](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [ఎ](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [సి](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-c)
-- [పోరాట / నాన్-కాంబాటెంట్ వ్యత్యాసం](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [ఓ](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [ఎం](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [ఎ](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [సి](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
-- [సెంటిన్స్ నాన్-ఎక్స్‌క్లూజన్](core_05_band_participation.md#sentience-non-exclusion) · [ఓ](core_05_band_participation.md#sentience-non-exclusion) · [ఎం](core_05_band_participation.md#sentience-non-exclusion-a) · [ఎ](core_05_band_participation.md#sentience-non-exclusion-a) · [సి](core_05_band_participation.md#sentience-non-exclusion)
-- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [ఓ](core_05_band_accountability.md#necessity) · [ఎం](core_05_band_accountability.md#necessity-a) · [ఎ](core_05_band_accountability.md#necessity-a) · [సి](core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [ఓ](core_05_band_accountability.md#proportionality) · [ఎం](core_05_band_accountability.md#proportionality-a) · [ఎ](core_05_band_accountability.md#proportionality-a) · [సి](core_05_band_accountability.md#proportionality-c)
-- [రక్షిత లక్షణాలు](core_05_band_participation.md#protected-characteristics-constitutional) · [ఓ](core_05_band_participation.md#protected-characteristics-constitutional) · [ఎం](core_05_band_participation.md#protected-characteristics-constitutional-a) · [ఎ](core_05_band_participation.md#protected-characteristics-constitutional-a) · [సి](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [బలాన్ని ఉపయోగించడం](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [ఓ](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [ఎం](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [సి](../../core_05.035_band_accountability.md#use-of-force-constitutional-c)
+- [మాస్ హాని యొక్క ఆయుధాలు](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional) · [ఓ](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional) · [ఎం](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [సి](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional-c)
+- [పోరాట / నాన్-కాంబాటెంట్ వ్యత్యాసం](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [ఓ](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [ఎం](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [సి](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
+- [సెంటిన్స్ నాన్-ఎక్స్‌క్లూజన్](../../core_05.055_band_participation.md#sentience-non-exclusion) · [ఓ](../../core_05.055_band_participation.md#sentience-non-exclusion) · [ఎం](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [ఎ](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [సి](../../core_05.055_band_participation.md#sentience-non-exclusion)
+- [ఆవశ్యకత](../../core_05.035_band_accountability.md#necessity) · [ఓ](../../core_05.035_band_accountability.md#necessity) · [ఎం](../../core_05.035_band_accountability.md#necessity-a) · [ఎ](../../core_05.035_band_accountability.md#necessity-a) · [సి](../../core_05.035_band_accountability.md#necessity-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [ఓ](../../core_05.035_band_accountability.md#proportionality) · [ఎం](../../core_05.035_band_accountability.md#proportionality-a) · [ఎ](../../core_05.035_band_accountability.md#proportionality-a) · [సి](../../core_05.035_band_accountability.md#proportionality-c)
+- [రక్షిత లక్షణాలు](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [ఓ](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [ఎం](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [ఎ](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [సి](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 - [అస్తిత్వ ప్రమాదం](../../core_05.040_band_continuity.md#existential-risk) · [ఓ](../../core_05.040_band_continuity.md#existential-risk) · [ఎం](../../core_05.040_band_continuity.md#existential-risk-a) · [ఎ](../../core_05.040_band_continuity.md#existential-risk-a) · [సి](../../core_05.040_band_continuity.md#existential-risk-c)
-- [పరిహారం మరియు నివారణ](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ఓ](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ఎం](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [ఎ](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [సి](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [పరిహారం మరియు నివారణ](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [ఓ](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [ఎం](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [సి](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -622,19 +622,19 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
 - అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 నమ్మకం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 అనుపాతత](core_01_b_interaction_interpretation.md#1313-అనపతత), [§13.1.1 అవసరం](core_01_b_interaction_interpretation.md#1311-అవసర), [§19.1 అమరిక అవసరం](core_01_c_stewardship_capacity_principles.md#191-సమలఖన-అవసర), [§14 సంపూర్ణ ఓవర్‌రైడ్‌పై నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- దిగువ: **ఆర్టికల్ I-D** (*అస్తిత్వ ప్రమాదం మరియు పర్యావరణ పునరుద్ధరణ కెపాసిటీ*) అస్తిత్వ-ప్రమాద పరిశీలన, **ఆర్టికల్ X-A** (*ఏజెన్సీ మరియు మానిప్యులేషన్ నుండి స్వేచ్ఛ*) తారుమారు నుండి స్వేచ్ఛ, **ఆర్టికల్ XIV-A** (*భద్రత, మేధస్సు మరియు రహస్య-శక్తి పరిమితులు*) రహస్య-శక్తి పరిమితులు, **ఆర్టికల్ XIV-B** (*బలాన్ని ఉపయోగించడం, సాయుధ సంఘర్షణ మరియు సైనిక-అధికార పరిమితులు*) బహిరంగ-శక్తి అంతస్తు, **ఆర్టికల్ XIII-A** (*విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్*) విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్ (సిస్టమ్స్-లేయర్ కౌంటర్), **ఆర్టికల్ XIII-E** (*హై-అటానమీ సిస్టమ్స్ మరియు టూల్-మెడియేటెడ్ ప్రాసెస్ ఇంటెగ్రిటీ*) స్వయంప్రతిపత్తి-స్టీవార్డ్‌షిప్ మరియు స్వయంప్రతిపత్తి-స్కేలింగ్, **ఆర్టికల్ XIII-F** (*రెసిలెన్స్ మరియు సెల్ఫ్-హీలింగ్ బేస్‌లైన్*) స్థితిస్థాపకత మరియు స్వీయ-స్వస్థత బేస్‌లైన్. క్రాస్-రిఫరెన్స్: **ఆర్టికల్ XX-B** (*పరిమితి అంతస్తులు*) మరియు అధ్యాయం ఐదు *[కోలుకోలేని లేమి కొలత](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **ఆర్టికల్ XIV** (*భద్రత, ఇంటెలిజెన్స్, ఫోర్స్ మరియు అటానమస్ బలవంతపు వ్యవస్థలు*) *నాన్-కాన్ఫ్లేషన్* క్రమశిక్షణ వర్తిస్తుంది.
-- దీనితో చదవండి: [**Def.A4** *బలాన్ని ఉపయోగించడం, స్వయంప్రతిపత్త బలవంతం, స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థలు మరియు భారీ హానిని కలిగించే ఆయుధాలు*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (పదార్థపరంగా చిక్కుకున్న చోట ఉమ్మడి ఆహ్వానం); ఐదవ అధ్యాయం *స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థ*, *స్వయంప్రతిపత్తి బలవంతపు సాధనం*, *[కోలుకోలేని లేమి కొలత](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *బలవంతం మరియు మానిప్యులేషన్*, *రివర్సిబిలిటీ*. సిస్టమ్స్-లేయర్ అమలు: **[corpus_systems.md](../../corpus_systems.md), CS-3 — సిస్టమ్ వర్గీకరణ మరియు నిర్వహణ** వర్గీకరణ.
+- దిగువ: **ఆర్టికల్ I-D** (*అస్తిత్వ ప్రమాదం మరియు పర్యావరణ పునరుద్ధరణ కెపాసిటీ*) అస్తిత్వ-ప్రమాద పరిశీలన, **ఆర్టికల్ X-A** (*ఏజెన్సీ మరియు మానిప్యులేషన్ నుండి స్వేచ్ఛ*) తారుమారు నుండి స్వేచ్ఛ, **ఆర్టికల్ XIV-A** (*భద్రత, మేధస్సు మరియు రహస్య-శక్తి పరిమితులు*) రహస్య-శక్తి పరిమితులు, **ఆర్టికల్ XIV-B** (*బలాన్ని ఉపయోగించడం, సాయుధ సంఘర్షణ మరియు సైనిక-అధికార పరిమితులు*) బహిరంగ-శక్తి అంతస్తు, **ఆర్టికల్ XIII-A** (*విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్*) విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్ (సిస్టమ్స్-లేయర్ కౌంటర్), **ఆర్టికల్ XIII-E** (*హై-అటానమీ సిస్టమ్స్ మరియు టూల్-మెడియేటెడ్ ప్రాసెస్ ఇంటెగ్రిటీ*) స్వయంప్రతిపత్తి-స్టీవార్డ్‌షిప్ మరియు స్వయంప్రతిపత్తి-స్కేలింగ్, **ఆర్టికల్ XIII-F** (*రెసిలెన్స్ మరియు సెల్ఫ్-హీలింగ్ బేస్‌లైన్*) స్థితిస్థాపకత మరియు స్వీయ-స్వస్థత బేస్‌లైన్. క్రాస్-రిఫరెన్స్: **ఆర్టికల్ XX-B** (*పరిమితి అంతస్తులు*) మరియు అధ్యాయం ఐదు *[కోలుకోలేని లేమి కొలత](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **ఆర్టికల్ XIV** (*భద్రత, ఇంటెలిజెన్స్, ఫోర్స్ మరియు అటానమస్ బలవంతపు వ్యవస్థలు*) *నాన్-కాన్ఫ్లేషన్* క్రమశిక్షణ వర్తిస్తుంది.
+- దీనితో చదవండి: [**Def.A4** *బలాన్ని ఉపయోగించడం, స్వయంప్రతిపత్త బలవంతం, స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థలు మరియు భారీ హానిని కలిగించే ఆయుధాలు*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (పదార్థపరంగా చిక్కుకున్న చోట ఉమ్మడి ఆహ్వానం); ఐదవ అధ్యాయం *స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థ*, *స్వయంప్రతిపత్తి బలవంతపు సాధనం*, *[కోలుకోలేని లేమి కొలత](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *బలవంతం మరియు మానిప్యులేషన్*, *రివర్సిబిలిటీ*. సిస్టమ్స్-లేయర్ అమలు: **[corpus_systems.md](../../corpus_systems.md), CS-3 — సిస్టమ్ వర్గీకరణ మరియు నిర్వహణ** వర్గీకరణ.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
-- [అటానమస్ లెథల్ సిస్టమ్](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [ఓ](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [ఎం](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [ఎ](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [సి](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
-- [అటానమస్ బలవంతపు సాధనం](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [ఓ](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [ఎం](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [ఎ](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [సి](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
-- [బలవంతం మరియు మానిప్యులేషన్](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [ఓ](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [ఎం](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [ఎ](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [సి](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [అటానమస్ లెథల్ సిస్టమ్](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional) · [ఓ](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional) · [ఎం](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional-a) · [సి](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional-c)
+- [అటానమస్ బలవంతపు సాధనం](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional) · [ఓ](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional) · [ఎం](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [ఎ](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [సి](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional-c)
+- [బలవంతం మరియు మానిప్యులేషన్](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [ఓ](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [ఎం](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [ఎ](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [సి](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-c)
 - [విరోధి, స్కేల్ మరియు దోపిడీ పరిస్థితులు](core_05_band_oversight.md#పరతకల-సకల-మరయ-దపడ-షరతల) · [ఓ](core_05_band_oversight.md#పరతకల-సకల-మరయ-దపడ-షరతల) · [ఎం](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [ఎ](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [సి](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
-- [ఉన్నతమైన పరిశీలన](core_05_band_oversight.md#heightened-scrutiny) · [ఓ](core_05_band_oversight.md#heightened-scrutiny) · [ఎం](core_05_band_oversight.md#heightened-scrutiny-a) · [ఎ](core_05_band_oversight.md#heightened-scrutiny-a) · [సి](core_05_band_oversight.md#heightened-scrutiny-c)
+- [ఉన్నతమైన పరిశీలన](../../core_05.050_band_oversight.md#heightened-scrutiny) · [ఓ](../../core_05.050_band_oversight.md#heightened-scrutiny) · [ఎం](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [ఎ](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [సి](../../core_05.050_band_oversight.md#heightened-scrutiny-c)
 
 </details>
 
@@ -644,7 +644,7 @@ flowchart TB
 
 ఈ ఆర్టికల్ స్వయంప్రతిపత్త ప్రాణాంతక మరియు బలవంతపు వ్యవస్థల కోసం ఉన్నత-పరిశీలన అంతస్తును నిర్దేశిస్తుంది:
 
-- **ఎత్తైన-పరిశీలన అంతస్తు:** రెండు సిస్టమ్ తరగతులు క్రింద సమీక్షించబడతాయి [ఉన్నతమైన పరిశీలన](core_05_band_oversight.md#heightened-scrutiny):
+- **ఎత్తైన-పరిశీలన అంతస్తు:** రెండు సిస్టమ్ తరగతులు క్రింద సమీక్షించబడతాయి [ఉన్నతమైన పరిశీలన](../../core_05.050_band_oversight.md#heightened-scrutiny):
   - **స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థలు** - సమకాలీన, గణనీయమైన అర్థవంతమైన మానవ తీర్పు లేకుండా లక్ష్యాన్ని ఎంచుకునే, నిమగ్నం చేసే లేదా భౌతికంగా ప్రత్యక్ష శక్తినిచ్చే వ్యవస్థలు;
   - **స్వయంప్రతిపత్త బలవంతపు సాధనాలు** — స్వయంప్రతిపత్త అనుకూల ప్రవర్తన ద్వారా భావులపై బలవంతపు ప్రభావాలను వర్తించే వ్యవస్థలు, ప్రభావాలు ప్రాణాంతకం కాని చోట కూడా.
 
@@ -666,7 +666,7 @@ flowchart TB
 - **పోరాట / పోరాటేతర క్రమశిక్షణ:** స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థలు తప్పనిసరిగా పాటించాలి **ఆర్టికల్ XIV-B** (*బలాన్ని ఉపయోగించడం, సాయుధ సంఘర్షణ మరియు సైనిక-శక్తి పరిమితులు*) *పోరాట / నాన్-కాంబాటెంట్ వ్యత్యాసం*.
   - వర్గీకరణ ఖచ్చితత్వం, విరోధి లేదా స్కేల్డ్ పరిస్థితులలో పటిష్టత లేదా వైఫల్యం-మోడ్ ప్రవర్తన స్వతంత్రంగా సంతృప్తి చెందని వ్యవస్థలు **ఆర్టికల్ XIV-B** (*బలాన్ని ఉపయోగించడం, సాయుధ సంఘర్షణ మరియు మిలిటరీ-అధికార పరిమితులు*) బుల్లెట్ ఆపరేటర్-ఉద్దేశం ఫ్రేమింగ్‌తో సంబంధం లేకుండా కట్టుబడి ఉండదు.
   - **విరోధి, స్కేల్ మరియు దోపిడీ పరిస్థితులు** మూల్యాంకనం వర్తిస్తుంది.
-- **అస్తిత్వ-ప్రమాద పరస్పర చర్య:** ప్రమాణాల వద్ద స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థలు, సామర్థ్య స్థాయిలు లేదా విస్తరణ పరిస్థితులు భౌతికంగా సూచించబడతాయి **ఆర్టికల్ I-D** (*అస్తిత్వ ప్రమాదం మరియు పర్యావరణ పునరుద్ధరణ కెపాసిటీ*) అస్తిత్వ-ప్రమాద పరిశీలన ఆ నిబంధనకు లోబడి ఉంటుంది [అత్యధిక పరిశీలన](core_05_band_oversight.md#highest-scrutiny).
+- **అస్తిత్వ-ప్రమాద పరస్పర చర్య:** ప్రమాణాల వద్ద స్వయంప్రతిపత్త ప్రాణాంతక వ్యవస్థలు, సామర్థ్య స్థాయిలు లేదా విస్తరణ పరిస్థితులు భౌతికంగా సూచించబడతాయి **ఆర్టికల్ I-D** (*అస్తిత్వ ప్రమాదం మరియు పర్యావరణ పునరుద్ధరణ కెపాసిటీ*) అస్తిత్వ-ప్రమాద పరిశీలన ఆ నిబంధనకు లోబడి ఉంటుంది [అత్యధిక పరిశీలన](../../core_05.050_band_oversight.md#highest-scrutiny).
   - అటువంటి వ్యవస్థలను సాధారణ సామర్థ్యం-విస్తరణగా కాకుండా సాధారణ సామర్థ్యంగా పరిగణించే ఫ్రేములు **ఆర్టికల్ I-D** (*ఎక్సిస్టెన్షియల్ రిస్క్ మరియు ఎకోలాజికల్ రికవరీ కెపాసిటీ*) ఆబ్జెక్ట్‌లు కంప్లైంట్ చేయవు.
 - **సిస్టమ్స్-లేయర్ ఇంటరాక్షన్:** కార్యాచరణ వర్గీకరణ, విశ్వసనీయత మరియు **CS-3 — సిస్టమ్ వర్గీకరణ మరియు నిర్వహణ** సిస్టమ్స్ లేయర్‌కు క్లాస్-స్కేల్డ్ గవర్నెన్స్ రూట్ - **ఆర్టికల్ XIII-A** (*విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్*) బేస్‌లైన్ మరియు **[corpus_systems.md](../../corpus_systems.md), CS-3 — సిస్టమ్ వర్గీకరణ మరియు నిర్వహణ**.
   - వివాదాలు కింద పరిష్కరించబడతాయి **మొదటి అధ్యాయం §13.1.5** (*తక్కువ-నియంత్రణ, సమయ-పరిమితి మరియు సమీక్షించదగిన పరిమితి సూత్రం*) హక్కుల అంతస్తును తగ్గించకుండా.
@@ -698,8 +698,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
 - [ఎపిస్టెమిక్ సమగ్రత](core_05_band_oversight.md#జఞన-సమగరత) · [ఓ](core_05_band_oversight.md#epistemic-integrity-o) · [ఎం](core_05_band_oversight.md#epistemic-integrity-a) · [ఎ](core_05_band_oversight.md#epistemic-integrity-a) · [సి](core_05_band_oversight.md#epistemic-integrity-c)
-- [స్వీయ నిర్ణయం](core_05_band_participation.md#self-determination-constitutional) · [ఓ](core_05_band_participation.md#self-determination-constitutional) · [ఎం](core_05_band_participation.md#self-determination-constitutional-a) · [ఎ](core_05_band_participation.md#self-determination-constitutional-a) · [సి](core_05_band_participation.md#self-determination-constitutional-c)
-- [పోటీతత్వం](core_05_band_accountability.md#contestability) · [ఓ](core_05_band_accountability.md#contestability) · [ఎం](core_05_band_accountability.md#contestability-a) · [ఎ](core_05_band_accountability.md#contestability-a) · [సి](core_05_band_accountability.md#contestability-c)
+- [స్వీయ నిర్ణయం](../../core_05.055_band_participation.md#self-determination-constitutional) · [ఓ](../../core_05.055_band_participation.md#self-determination-constitutional) · [ఎం](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [ఎ](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [సి](../../core_05.055_band_participation.md#self-determination-constitutional-c)
+- [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability) · [ఓ](../../core_05.035_band_accountability.md#contestability) · [ఎం](../../core_05.035_band_accountability.md#contestability-a) · [ఎ](../../core_05.035_band_accountability.md#contestability-a) · [సి](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -707,7 +707,7 @@ flowchart TB
 
 *సాధారణ పరంగా: **ఆర్టికల్ XV** (*సమాచార పరిధి సమగ్రత*) అనేది సమాచార-సమగ్రత హక్కుల అంతస్తు — మనం నేర్చుకునే, సమన్వయం చేసే మరియు నిర్ణయించుకునే భాగస్వామ్య వాతావరణం నిజాయితీగా, బహువచనంగా మరియు సవాలుకు సిద్ధంగా ఉండాలి. సత్యం యొక్క పైప్‌లైన్‌ను ఎవరూ స్వంతం చేసుకోలేరు. ర్యాంకింగ్‌లు, సారాంశాలు మరియు గేట్‌కీపర్‌లు వారి పనిని చూపించాలి మరియు మీరు ఇతర వీక్షణలను సరిపోల్చగలరు మరియు సమాచారం మిమ్మల్ని తప్పుదారి పట్టించినప్పుడు వెనక్కి నెట్టగలరు.*
 
-ఈ ఆర్టికల్ పేర్కొంది **రాజ్యాంగ అంతస్తులు** కోసం [ఇన్ఫో-స్పియర్](core_05_band_participation.md#info-sphere) కింద సమగ్రత [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims):
+ఈ ఆర్టికల్ పేర్కొంది **రాజ్యాంగ అంతస్తులు** కోసం [ఇన్ఫో-స్పియర్](../../core_05.055_band_participation.md#info-sphere) కింద సమగ్రత [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims):
 
 - **వర్ధిల్లుతోంది:** వ్యక్తులు ఖచ్చితమైన, సంబంధిత సమాచారాన్ని యాక్సెస్ చేయగలరు; ప్రత్యామ్నాయ వివరణలను సరిపోల్చండి; మరియు ఎపిస్టెమిక్ క్యాప్చర్ లేకుండా స్వీయ-నిర్ణయాన్ని నిర్వహించడం, ఏకాభిప్రాయం రూపొందించడం లేదా ఏ సిస్టమ్‌లు నిజమని చూపుతున్నాయో తప్పుదారి పట్టించే ఆధారపడటం.
 - **కొనసాగింపు:** సమాచారం-గోళం బహువచనం, ఆడిట్ చేయదగినది మరియు సమయం మరియు స్కేల్ అంతటా స్థితిస్థాపకంగా ఉంటుంది - జ్ఞాన మౌలిక సదుపాయాలు నిశ్శబ్దంగా మధ్యవర్తిత్వం, దిద్దుబాటును అణచివేయకూడదు లేదా మనుగడ, సమన్వయం మరియు దీర్ఘ-హోరిజోన్ స్టీవార్డ్‌షిప్ ఆధారపడిన భాగస్వామ్య రికార్డును దిగజార్చకూడదు.
@@ -778,7 +778,7 @@ flowchart TB
 
 - [పారదర్శకత](core_05_band_oversight.md#పరదరశకత) · [ఓ](core_05_band_oversight.md#పరదరశకత) · [ఎం](core_05_band_oversight.md#transparency-a) · [ఎ](core_05_band_oversight.md#transparency-a) · [సి](core_05_band_oversight.md#transparency-c)
 - [ఆడిటబిలిటీ](core_05_band_oversight.md#ఆడట-యగయత) · [ఓ](core_05_band_oversight.md#ఆడట-యగయత) · [ఎం](core_05_band_oversight.md#auditability-a) · [ఎ](core_05_band_oversight.md#auditability-a) · [సి](core_05_band_oversight.md#auditability-c)
-- [పోటీతత్వం](core_05_band_accountability.md#contestability) · [ఓ](core_05_band_accountability.md#contestability) · [ఎం](core_05_band_accountability.md#contestability-a) · [ఎ](core_05_band_accountability.md#contestability-a) · [సి](core_05_band_accountability.md#contestability-c)
+- [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability) · [ఓ](../../core_05.035_band_accountability.md#contestability) · [ఎం](../../core_05.035_band_accountability.md#contestability-a) · [ఎ](../../core_05.035_band_accountability.md#contestability-a) · [సి](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -839,6 +839,8 @@ flowchart TB
 
 <a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
 <a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
+<a id="article-xv-d-scientific-publication-review-and-replication-integrity"></a>
+
 #### ఆర్టికల్ XV-D: సైంటిఫిక్ పబ్లికేషన్, రివ్యూ మరియు రెప్లికేషన్ ఇంటెగ్రిటీ
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
@@ -928,13 +930,13 @@ flowchart TB
 |---|---|---|---|
 | **1. అంతస్తు** | ఏ సెంటింట్స్ బాకీలు: పునర్నిర్మించదగిన ఆడిట్, స్వతంత్ర ధృవీకరణ, చేరుకోగల సవాలు | XVI-A / XVI-B / XVI-C | సహా ఈ కథనం ప్రక్రియ కాదు. నిర్వచనం కాదు. అడాప్టెడ్-ఇంప్లిమెంటేషన్-టెక్స్ట్ చెక్‌లిస్ట్ కాదు. |
 | **2. ఆస్తి** | పునర్నిర్మాణం *అంటే*: బయటి వ్యక్తులు పునర్నిర్మించగలరు మరియు భౌతిక సమయాలు, రాష్ట్రాలు మరియు సందర్భాలలో సిస్టమ్ ఏమి చేసిందో తనిఖీ చేయవచ్చు | [ఆడిటబిలిటీ](core_05_band_oversight.md#ఆడట-యగయత) (అధ్యాయం ఐదు) | రైట్స్ ఫ్లోర్ కాదు. ఆడిట్‌ను ఎలా/ఎప్పుడు అమలు చేయాలో కాదు. |
-| **3. ప్రక్రియ** | సిస్టమ్‌లు, సంస్థలు మరియు ఫోరమ్‌లలో ఎలా మరియు ఎప్పుడు ఆడిట్ చేయాలి | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*ఆడిట్ ప్రాసెస్ హోమ్*). ఆపరేటర్ అనుబంధాలు: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (యాక్సెస్ శ్రేణులు), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (క్లెయిమ్ చెక్) | సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్ కాదు. 1-2 లేయర్‌లకు ప్రత్యామ్నాయం కాదు. |
+| **3. ప్రక్రియ** | సిస్టమ్‌లు, సంస్థలు మరియు ఫోరమ్‌లలో ఎలా మరియు ఎప్పుడు ఆడిట్ చేయాలి | [CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md) (*ఆడిట్ ప్రాసెస్ హోమ్*). ఆపరేటర్ అనుబంధాలు: [CJS-3.4](../../corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (యాక్సెస్ శ్రేణులు), [CJS-3.5](../../corpus_joint_structure/cjs_05.110_oversight_operations.md) (క్లెయిమ్ చెక్) | సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్ కాదు. 1-2 లేయర్‌లకు ప్రత్యామ్నాయం కాదు. |
 
-**ఎనిమిదవ అధ్యాయం నాల్గవ పొర కాదు.** [సిస్టమ్ అమరిక ధృవీకరణ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) అనేది ఒక పెద్ద, ఫోరమ్-పర్యవేక్షించే ప్రక్రియ **ఉపయోగిస్తుంది** ఈ స్టాక్. ఇది తప్పనిసరిగా 1-2 పొరలను సంతృప్తి పరచాలి. తోబుట్టువుల మోడ్‌లు (వర్గీకరణ-రికార్డ్ ఆడిట్, డేటా-రకాలు-రికార్డ్ ఆడిట్, దావా ధృవీకరణ, నిరంతర పర్యవేక్షణ) కూడా స్టాక్‌ను ఉపయోగిస్తాయి. వాటిలో ఏవీ కొత్త ఇల్లు కాదు.
+**ఎనిమిదవ అధ్యాయం నాల్గవ పొర కాదు.** [సిస్టమ్ అమరిక ధృవీకరణ](core_07_a_system_alignment_certification_evaluation.md) అనేది ఒక పెద్ద, ఫోరమ్-పర్యవేక్షించే ప్రక్రియ **ఉపయోగిస్తుంది** ఈ స్టాక్. ఇది తప్పనిసరిగా 1-2 పొరలను సంతృప్తి పరచాలి. తోబుట్టువుల మోడ్‌లు (వర్గీకరణ-రికార్డ్ ఆడిట్, డేటా-రకాలు-రికార్డ్ ఆడిట్, దావా ధృవీకరణ, నిరంతర పర్యవేక్షణ) కూడా స్టాక్‌ను ఉపయోగిస్తాయి. వాటిలో ఏవీ కొత్త ఇల్లు కాదు.
 
 **ఆమోదించబడిన అమలు వచనం వర్తిస్తుంది; అది నేలను భర్తీ చేయదు.** CS, CI, CF మరియు CJS-3.3 (*పర్యవేక్షణ: ఆడిటబిలిటీ మరియు పునర్నిర్మాణ నిబంధనలు*) CJS-3.5 (*పర్యవేక్షణ: స్వతంత్ర ధృవీకరణ మరియు దావా-సమగ్రత నిబంధనలు*) అనుబంధాలు డొమైన్‌లో లేయర్ 3ని ఎలా అమలు చేయాలో చెబుతాయి. వారు తప్పనిసరిగా 1-2 పొరలను సంతృప్తి పరచాలి. గడువు, గోప్యత మరియు స్థానిక విధానం తక్కువ రకమైన పరిమితులు.
 
-స్టీవార్డ్ పాయింటర్ (ప్రాసెస్ సపోర్ట్; ఈ ఆర్టికల్‌ను తగ్గించలేము): [`అమలు చేయడం/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
+స్టీవార్డ్ పాయింటర్ (ప్రాసెస్ సపోర్ట్; ఈ ఆర్టికల్‌ను తగ్గించలేము): [`అమలు చేయడం/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
 
 </details>
 
@@ -964,8 +966,8 @@ flowchart TB
 *వ్యాసం పొరుగువారు:*
 
 - **పర్యవేక్షణ → ఆడిటింగ్ → SAC:** కింద [రాజ్యాంగ టెట్రాడ్](core_00_preamble.md#constitutional-tetrad) **పర్యవేక్షణ** లెగ్, ఈ ఆర్టికల్ ఆడిటింగ్ కోసం హక్కుల అంతస్తు.
-  - క్రాస్-ఇంప్లిమెంటేషన్ *ఎలా* / *ఎప్పుడు* నివసిస్తున్నారు **[CJS-3.3 ఆడిట్ ప్రాసెస్ హోమ్](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (తో చదవండి **CJS-3.4** / **CJS-3.5** OP అనుబంధాలు).
-  - [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) కింద [ఎనిమిదవ అధ్యాయం](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ఇది ఒక ప్రత్యేకించి పెద్దది, అధిక-ఆడిట్ ప్రక్రియ - ఫోరమ్-పర్యవేక్షించబడిన, బహుళ-డొమైన్ మరియు గుర్తింపు-బేరింగ్ - తోబుట్టువుల ఆడిట్ మోడ్‌లలో:
+  - క్రాస్-ఇంప్లిమెంటేషన్ *ఎలా* / *ఎప్పుడు* నివసిస్తున్నారు **[CJS-3.3 ఆడిట్ ప్రాసెస్ హోమ్](../../corpus_joint_structure/cjs_05.115_audit_process.md)** (తో చదవండి **CJS-3.4** / **CJS-3.5** OP అనుబంధాలు).
+  - [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) కింద [ఎనిమిదవ అధ్యాయం](core_07_a_system_alignment_certification_evaluation.md) ఇది ఒక ప్రత్యేకించి పెద్దది, అధిక-ఆడిట్ ప్రక్రియ - ఫోరమ్-పర్యవేక్షించబడిన, బహుళ-డొమైన్ మరియు గుర్తింపు-బేరింగ్ - తోబుట్టువుల ఆడిట్ మోడ్‌లలో:
     - సిస్టమ్ వర్గీకరణ రికార్డ్ ఆడిట్‌లు;
     - సిస్టమ్ డేటా రకాలు రికార్డ్ ఆడిట్‌లు;
     - సంక్లిష్టత మరియు స్టీవార్డ్‌షిప్ ఆడిట్‌లు;
@@ -975,7 +977,7 @@ flowchart TB
 - **కలిసి చదవండి:**
   - **ఆర్టికల్ XV** (*సమాచార-గోళ సమగ్రత*) ఇక్కడ ఎపిస్టెమిక్ రికార్డ్‌లు మరియు పోటీతత్వం వస్తుగతంగా సూచించబడతాయి;
   - **ఆర్టికల్ XIII-A** (*విశ్వసనీయత మరియు విశ్వసనీయత బేస్‌లైన్*) సవాలు హక్కుల కోసం ఆడిట్ మద్దతు ఇస్తుంది కానీ భర్తీ చేయదు;
-  - [ఎనిమిదవ అధ్యాయం](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) మరియు [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) ఇక్కడ అమరిక సాక్ష్యం స్వతంత్రంగా ధృవీకరించదగినదిగా ఉండాలి.
+  - [ఎనిమిదవ అధ్యాయం](core_07_a_system_alignment_certification_evaluation.md) మరియు [సిస్టమ్ అలైన్‌మెంట్ సర్టిఫికేషన్](../../core_05.040_band_continuity.md#system-alignment-certification) ఇక్కడ అమరిక సాక్ష్యం స్వతంత్రంగా ధృవీకరించదగినదిగా ఉండాలి.
 - **ధృవీకరణ యంత్రాలు:** **రెండు నుండి నాలుగు అధ్యాయాలు** ఈ ఆర్టికల్ రైట్స్-ఫ్లోర్ లేయర్‌లో అమలు చేసే సరఫరా నిర్వచనం సమగ్రత, భారం కేటాయింపు, పరిశీలన మరియు ధృవీకరణ ప్రాప్యత.
 - **వర్గీకరణ:** తో బాధ్యతలు స్కేల్ [వర్గీకరణ-స్కేల్డ్ గవర్నెన్స్](core_05_band_oversight.md#వరగకరణ-సకల-పలన) మరియు **[corpus_systems.md](../../corpus_systems.md), CS-3 — సిస్టమ్ వర్గీకరణ మరియు నిర్వహణ**; తరగతి అనిశ్చితంగా ఉన్న చోట, పరిష్కరించబడే వరకు అత్యధిక ఆమోదయోగ్యమైన తరగతిలో పాలించండి.
 
@@ -1018,7 +1020,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
 - [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) · [ఓ](core_05_apex_oversight_leg.md#oversight-constitutional) · [ఎం](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [ఎ](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [సి](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [పోటీతత్వం](core_05_band_accountability.md#contestability) · [ఓ](core_05_band_accountability.md#contestability) · [ఎం](core_05_band_accountability.md#contestability-a) · [ఎ](core_05_band_accountability.md#contestability-a) · [సి](core_05_band_accountability.md#contestability-c)
+- [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability) · [ఓ](../../core_05.035_band_accountability.md#contestability) · [ఎం](../../core_05.035_band_accountability.md#contestability-a) · [ఎ](../../core_05.035_band_accountability.md#contestability-a) · [సి](../../core_05.035_band_accountability.md#contestability-c)
 - [సిస్టమ్ క్యాప్చర్](../../core_05.040_band_continuity.md#system-capture) · [ఓ](../../core_05.040_band_continuity.md#system-capture) · [ఎం](../../core_05.040_band_continuity.md#system-capture-a) · [ఎ](../../core_05.040_band_continuity.md#system-capture-a) · [సి](../../core_05.040_band_continuity.md#system-capture-c)
 
 </details>
@@ -1050,8 +1052,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
 - [ఆడిటబిలిటీ](core_05_band_oversight.md#ఆడట-యగయత) · [ఓ](core_05_band_oversight.md#ఆడట-యగయత) · [ఎం](core_05_band_oversight.md#auditability-a) · [ఎ](core_05_band_oversight.md#auditability-a) · [సి](core_05_band_oversight.md#auditability-c)
-- [పోటీతత్వం](core_05_band_accountability.md#contestability) · [ఓ](core_05_band_accountability.md#contestability) · [ఎం](core_05_band_accountability.md#contestability-a) · [ఎ](core_05_band_accountability.md#contestability-a) · [సి](core_05_band_accountability.md#contestability-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [ఓ](core_05_band_accountability.md#proportionality) · [ఎం](core_05_band_accountability.md#proportionality-a) · [ఎ](core_05_band_accountability.md#proportionality-a) · [సి](core_05_band_accountability.md#proportionality-c)
+- [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability) · [ఓ](../../core_05.035_band_accountability.md#contestability) · [ఎం](../../core_05.035_band_accountability.md#contestability-a) · [ఎ](../../core_05.035_band_accountability.md#contestability-a) · [సి](../../core_05.035_band_accountability.md#contestability-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [ఓ](../../core_05.035_band_accountability.md#proportionality) · [ఎం](../../core_05.035_band_accountability.md#proportionality-a) · [ఎ](../../core_05.035_band_accountability.md#proportionality-a) · [సి](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1091,7 +1093,7 @@ flowchart TB
 - [రివర్సిబిలిటీ](../../core_05.040_band_continuity.md#reversibility) · [ఓ](../../core_05.040_band_continuity.md#reversibility) · [ఎం](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ఎ](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [సి](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 - [భద్రత (రాజ్యాంగ నిర్బంధం)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [ఓ](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [ఎం](../../core_05.040_band_continuity.md#safety-constraint-a) · [ఎ](../../core_05.040_band_continuity.md#safety-constraint-a) · [సి](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [ఎపిస్టెమిక్ సమగ్రత](core_05_band_oversight.md#జఞన-సమగరత) · [ఓ](core_05_band_oversight.md#epistemic-integrity-o) · [ఎం](core_05_band_oversight.md#epistemic-integrity-a) · [ఎ](core_05_band_oversight.md#epistemic-integrity-a) · [సి](core_05_band_oversight.md#epistemic-integrity-c)
-- [పోటీతత్వం](core_05_band_accountability.md#contestability) · [ఓ](core_05_band_accountability.md#contestability) · [ఎం](core_05_band_accountability.md#contestability-a) · [ఎ](core_05_band_accountability.md#contestability-a) · [సి](core_05_band_accountability.md#contestability-c)
+- [పోటీతత్వం](../../core_05.035_band_accountability.md#contestability) · [ఓ](../../core_05.035_band_accountability.md#contestability) · [ఎం](../../core_05.035_band_accountability.md#contestability-a) · [ఎ](../../core_05.035_band_accountability.md#contestability-a) · [సి](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1118,7 +1120,7 @@ flowchart TB
 *వ్యాసం పొరుగువారు:*
 
 - **కలిసి చదవండి:** **ఆర్టికల్ XVIII** (*శాండ్‌బాక్స్‌డ్ ఇన్నోవేషన్, ఎక్స్‌పెరిమెంటేషన్ మరియు క్రియేటివ్ ఫ్రీడమ్*) ఇక్కడ బాహ్య ప్రభావం లేనప్పుడు లేదా ప్రదర్శించదగిన విధంగా ఉన్నప్పుడు మాత్రమే తేలికైన నియమాలు వర్తిస్తాయి; **ఆర్టికల్ XVI** (*ఆడిట్, పారదర్శకత మరియు స్వతంత్ర ధృవీకరణ*) పునర్నిర్మించదగిన విస్తరణ మరియు పెరుగుదల సాక్ష్యం కోసం; **ఆర్టికల్ XIII-F** (*రెసిలెన్స్ మరియు సెల్ఫ్-హీలింగ్ బేస్‌లైన్*) ఇక్కడ రికవరీ క్రమశిక్షణ జీవితచక్ర మార్పును కలుస్తుంది.
-- **అమలు పొర:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*సిస్టమ్ వర్గీకరణ మరియు నిర్వహణ*) మరియు [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*డిజైన్, టెస్టింగ్, వెరిఫికేషన్ మరియు డిప్లాయ్‌మెంట్*). **క్లాస్ ఎ**, **క్లాస్ బి**, మరియు **క్లాస్ సి** వ్యవస్థలు బలమైన జీవితచక్ర విధులను కలిగి ఉంటాయి; చెల్లుతుంది **తరగతి పి** చికిత్స కింద ఉంది **ఆర్టికల్ XVIII** (*శాండ్‌బాక్స్‌డ్ ఇన్నోవేషన్, ఎక్స్‌పెరిమెంటేషన్ మరియు క్రియేటివ్ ఫ్రీడమ్*) బాహ్య ప్రభావం లేనప్పుడు లేదా ప్రదర్శించదగిన విధంగా ఉన్నప్పుడు మాత్రమే.
+- **అమలు పొర:** [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) (*సిస్టమ్ వర్గీకరణ మరియు నిర్వహణ*) మరియు [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*డిజైన్, టెస్టింగ్, వెరిఫికేషన్ మరియు డిప్లాయ్‌మెంట్*). **క్లాస్ ఎ**, **క్లాస్ బి**, మరియు **క్లాస్ సి** వ్యవస్థలు బలమైన జీవితచక్ర విధులను కలిగి ఉంటాయి; చెల్లుతుంది **తరగతి పి** చికిత్స కింద ఉంది **ఆర్టికల్ XVIII** (*శాండ్‌బాక్స్‌డ్ ఇన్నోవేషన్, ఎక్స్‌పెరిమెంటేషన్ మరియు క్రియేటివ్ ఫ్రీడమ్*) బాహ్య ప్రభావం లేనప్పుడు లేదా ప్రదర్శించదగిన విధంగా ఉన్నప్పుడు మాత్రమే.
 
 <a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
 #### ఆర్టికల్ XVII-A: లైఫ్‌సైకిల్ గవర్నెన్స్ అండ్ ఎన్విరాన్‌మెంట్ సెపరేషన్
@@ -1172,7 +1174,7 @@ flowchart TB
 
 - [రివర్సిబిలిటీ](../../core_05.040_band_continuity.md#reversibility) · [ఓ](../../core_05.040_band_continuity.md#reversibility) · [ఎం](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ఎ](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [సి](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 - [ప్రమాదం](../../core_05.040_band_continuity.md#risk) · [ఓ](../../core_05.040_band_continuity.md#risk) · [ఎం](../../core_05.040_band_continuity.md#risk-a) · [ఎ](../../core_05.040_band_continuity.md#risk-a) · [సి](../../core_05.040_band_continuity.md#risk-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [ఓ](core_05_band_accountability.md#proportionality) · [ఎం](core_05_band_accountability.md#proportionality-a) · [ఎ](core_05_band_accountability.md#proportionality-a) · [సి](core_05_band_accountability.md#proportionality-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [ఓ](../../core_05.035_band_accountability.md#proportionality) · [ఎం](../../core_05.035_band_accountability.md#proportionality-a) · [ఎ](../../core_05.035_band_accountability.md#proportionality-a) · [సి](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1228,6 +1230,8 @@ flowchart TB
 - **పరిణామాలు:** **ఆర్టికల్ XVI-A** కింద ఆడిట్, **ఆర్టికల్ XIX-A** కింద స్టాండింగ్ సమీక్ష, **ఆర్టికల్ XX-A** కింద సంఘర్షణ పరిష్కారం జరగవచ్చు.
 
 <a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+<a id="article-xviii-innovation-experimentation-and-creative-freedom"></a>
+
 ### ఆర్టికల్ XVIII: శాండ్‌బాక్స్డ్ ఇన్నోవేషన్, ఎక్స్‌పెరిమెంటేషన్ మరియు క్రియేటివ్ ఫ్రీడం
 
 <details>
@@ -1256,7 +1260,7 @@ flowchart TB
 *వ్యాసం పొరుగువారు:*
 
 - **కలిసి చదవండి:** **ఆర్టికల్ XVII** (*సిస్టమ్ లైఫ్‌సైకిల్, ఎన్విరాన్‌మెంట్స్ మరియు రివర్సిబిలిటీ*) ప్రభావం, డిపెండెన్సీ లేదా ఇంటిగ్రేషన్ శాండ్‌బాక్స్ పరిస్థితులను అధిగమించినప్పుడు; **ఆర్టికల్ XV** (*సమాచార-గోళ సమగ్రత*) మరియు **ఆర్టికల్ XV-D** (*సైంటిఫిక్ పబ్లికేషన్, రివ్యూ మరియు రెప్లికేషన్ ఇంటెగ్రిటీ*) ఇక్కడ పబ్లికేషన్-స్కోప్డ్ ఇంటెగ్రిటీ భౌతికంగా సూచించబడుతుంది; **ఆర్టికల్ XVI** (*ఆడిట్, పారదర్శకత మరియు స్వతంత్ర ధృవీకరణ*) నియంత్రణ మరియు పరివర్తన క్లెయిమ్‌ల బహిర్గతం మరియు ధృవీకరణ కోసం.
-- **అమలు పొర:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*డిజైన్, టెస్టింగ్, వెరిఫికేషన్ మరియు డిప్లాయ్‌మెంట్*) మరియు [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*సిస్టమ్ వర్గీకరణ మరియు నిర్వహణ*).
+- **అమలు పొర:** [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*డిజైన్, టెస్టింగ్, వెరిఫికేషన్ మరియు డిప్లాయ్‌మెంట్*) మరియు [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) (*సిస్టమ్ వర్గీకరణ మరియు నిర్వహణ*).
 
 <a id="article-xviii-a-sandboxed-scope"></a>
 #### ఆర్టికల్ XVIII-A: శాండ్‌బాక్స్డ్ స్కోప్
@@ -1303,7 +1307,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · వర్తింపు</span></strong></summary>
 
-- [సమ్మతి](core_05_band_participation.md#consent-constitutional) · [ఓ](core_05_band_participation.md#consent-constitutional) · [ఎం](core_05_band_participation.md#consent-constitutional-a) · [ఎ](core_05_band_participation.md#consent-constitutional-a) · [సి](core_05_band_participation.md#consent-constitutional-c)
+- [సమ్మతి](../../core_05.055_band_participation.md#consent-constitutional) · [ఓ](../../core_05.055_band_participation.md#consent-constitutional) · [ఎం](../../core_05.055_band_participation.md#consent-constitutional-a) · [ఎ](../../core_05.055_band_participation.md#consent-constitutional-a) · [సి](../../core_05.055_band_participation.md#consent-constitutional-c)
 - [ప్రమాదం](../../core_05.040_band_continuity.md#risk) · [ఓ](../../core_05.040_band_continuity.md#risk) · [ఎం](../../core_05.040_band_continuity.md#risk-a) · [ఎ](../../core_05.040_band_continuity.md#risk-a) · [సి](../../core_05.040_band_continuity.md#risk-c)
 - [రివర్సిబిలిటీ](../../core_05.040_band_continuity.md#reversibility) · [ఓ](../../core_05.040_band_continuity.md#reversibility) · [ఎం](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ఎ](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [సి](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
@@ -1368,7 +1372,7 @@ flowchart TB
 
 - [ఇన్నోవేషన్ రివార్డ్ మరియు యాంటీ-ఎన్‌క్లోజర్](core_05_band_integrative.md#ఆవషకరణ-బహమత-మరయ-మసవత-నరధ) · [ఓ](core_05_band_integrative.md#ఆవషకరణ-బహమత-మరయ-మసవత-నరధ) · [ఎం](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [ఎ](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [సి](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [దైహిక లాక్-ఇన్](../../core_05.040_band_continuity.md#systemic-lock-in) · [ఓ](../../core_05.040_band_continuity.md#systemic-lock-in) · [ఎం](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [ఎ](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [సి](../../core_05.040_band_continuity.md#systemic-lock-in-c)
-- [అనుపాతత](core_05_band_accountability.md#proportionality) · [ఓ](core_05_band_accountability.md#proportionality) · [ఎం](core_05_band_accountability.md#proportionality-a) · [ఎ](core_05_band_accountability.md#proportionality-a) · [సి](core_05_band_accountability.md#proportionality-c)
+- [అనుపాతత](../../core_05.035_band_accountability.md#proportionality) · [ఓ](../../core_05.035_band_accountability.md#proportionality) · [ఎం](../../core_05.035_band_accountability.md#proportionality-a) · [ఎ](../../core_05.035_band_accountability.md#proportionality-a) · [సి](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 

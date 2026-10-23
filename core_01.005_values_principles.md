@@ -1732,18 +1732,18 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <br>
 
-*In plain terms: this section draws the floor against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twelve judges that — and only after Chapter Ten has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
+*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twelve judges that — and only after Chapter Ten has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
 
 **What this subsection does:**
 
-- **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) floor.
+- **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
 - **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
 - **When concentration is used to undermine this Constitution:** that misconduct is judged under [Chapter Twelve §5.1 Concentration-based subversion](core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- **Creating, maintaining, or exploiting concentration above the floor:** this can go to Chapter Twelve for misconduct designation review, but only in two steps. First, [Chapter Ten §4 Question 2 — how good or bad was it?](core_10.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Twelve checks whether the concentration meets criterion 3 (a workaround that rolls back protections), criterion 4 (damage to Rights Floor protections or blocked challenges), or criterion 6 (constitutional process made unusable in practice).
+- **Creating, maintaining, or exploiting concentration that breaches the requirements:** this can go to Chapter Twelve for misconduct designation review, but only in two steps. First, [Chapter Ten §4 Question 2 — how good or bad was it?](core_10.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Twelve checks whether the concentration meets criterion 3 (a workaround that rolls back protections), criterion 4 (damage to Rights Floor protections or blocked challenges), or criterion 6 (constitutional process made unusable in practice).
 
-**Constitutional floor:**
+**Constitutional requirements:**
 
-- **What it is:** the non-concentration discipline in [§11 Market Structure](#11-market-structure) sets a **constitutional floor**.
+- **What it is:** the non-concentration discipline in [§11 Market Structure](#11-market-structure) sets **constitutional requirements**.
 - **What it blocks:** concentration of:
   - wealth;
   - power;
@@ -1774,9 +1774,9 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <br>
 
-*In plain terms: adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the floor still holds. The detailed threshold-setting rules live in CJS-5.125 §11.1 (*Market concentration threshold-setting discipline (adopter-tunable)*) (market concentration threshold-setting discipline).*
+*In plain terms: adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the requirements still hold. The detailed threshold-setting rules live in CJS-5.125 §11.1 (*Market concentration threshold-setting discipline (adopter-tunable)*) (market concentration threshold-setting discipline).*
 
-**Concentration thresholds** are quantitative triggers that mark when concentration has reached a level requiring heightened review, intervention, or structural remedy. They cover material, jurisdictional, capability, platform, and information-sphere concentration. Adopters may tune these triggers **within the constitutional floor**.
+**Concentration thresholds** are quantitative triggers that mark when concentration has reached a level requiring heightened review, intervention, or structural remedy. They cover material, jurisdictional, capability, platform, and information-sphere concentration. Adopters may tune these triggers **within the constitutional requirements**.
 
 Adopters may set different thresholds by:
 - domain (material, jurisdictional, capability, platform, information-sphere);
@@ -1784,9 +1784,9 @@ Adopters may set different thresholds by:
 - dependency density;
 - other context-appropriate factors.
 
-This provision does not impose one global number. Different constitutional federations may set different thresholds without that alone constituting non-compliance, provided the floor holds. See [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) for the definitional anchor.
+This provision does not impose one global number. Different constitutional federations may set different thresholds without that alone constituting non-compliance, provided the requirements hold. See [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold) for the definitional anchor.
 
-Operative threshold-setting discipline — floor preservation, substance-over-form review, anti-nullification, and heightened-scrutiny triggers — lives in **CJS-5.125 §11.1 — Concentration threshold-setting discipline (adopter-tunable)**.
+Operative threshold-setting discipline — requirement preservation, substance-over-form review, anti-nullification, and heightened-scrutiny triggers — lives in **CJS-5.125 §11.1 — Concentration threshold-setting discipline (adopter-tunable)**.
 
 <a id="112-pro-competition-and-anti-domination"></a>
 #### 11.2 Pro-Competition and Anti-Domination
@@ -2130,7 +2130,7 @@ Adopters must define [Market Concentration Threshold](core_05.035_band_accountab
 
 - **From real flows:** base the levels on the dependency maps and resource-flow records that [Article V-A](core_06.005_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) requires, not on operator labels or one-off transfers.
 - **By context:** levels may differ by domain, population size, and dependency density, as in [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
-- **Under the same discipline:** the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny rules of **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** apply in full. No level may be set so high that it never bites, and concentration hidden behind shell, federated, or split-up structures still counts.
+- **Under the same discipline:** the requirement-preservation, substance-over-form, anti-nullification, and heightened-scrutiny rules of **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** apply in full. No level may be set so high that it never bites, and concentration hidden behind shell, federated, or split-up structures still counts.
 - **In the open:** the levels, and the reasons for them, must be written down and open to challenge, in line with [Article V](core_06.005_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*), which requires resource flows to be visible, checkable, and open to challenge.
 
 **When a level is crossed:**
@@ -2173,7 +2173,7 @@ Crossing a level calls for heightened review and mitigation under [§11.1.1 Conc
 
 <br>
 
-*In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Nine** and **CS-9.305 (*System classification machinery*) and CS-9.310** (*System classification machinery*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05.050_band_oversight.md#auditability)).*
+*In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Nine** and **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05.050_band_oversight.md#auditability)).*
 
 Any claim about the matters below must be checked against what the whole system actually does over time. A slogan or a snapshot of one part at one moment is not enough:
 

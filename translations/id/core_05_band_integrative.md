@@ -10,7 +10,7 @@
 >
 > Berisi **pita Integratif Bab Lima** — definisi mandiri, semi-mandiri, dan klaster dependen yang ditugaskan ke pita konstitusional **Integratif**. Urutan baca dan kompas hidup di [core_05__definitions_home.md](core_05__definitions_home.md#bab-lima-definisi-fondasional).
 >
-> **Sebelumnya (lokal ini):** [core_05_band_continuity.md](core_05_band_continuity.md)
+> **Sebelumnya (lokal ini):** [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
 >
 > **Berikutnya (bahasa ini):** [core_05_band_oversight.md](core_05_band_oversight.md)
 > **Alur baca:** istilah mandiri → semi-mandiri → klaster dependen Def.I1
@@ -53,8 +53,8 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [Bab Dua §1 — Tujuan dan Peran](core_02_definition_structure.md#1-tujuan-dan-peran); [Bab Dua §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-persyaratan-integritas-definisi); [Bab Tiga §2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](core_03_definition_integrity.md#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati).
-- Hilir: [Bab Empat §§1 dan 4 — Penegakan Eksklusif dan Alokasi Beban; Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#1-penegakan-eksklusif-dan-alokasi-beban); [Bab Delapan — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Profil Temuan Ketidakpatuhan](core_05_band_accountability.md#non-compliance-finding-profile).
-- Baca bersama: [Bab Satu §11.3 Deteksi Ketidakselarasan](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) dan [§11.4 Koreksi Ketidakselarasan dan Respons Penguasaan](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) — **ketidakselarasan konstitusional** adalah divergensi pengelolaan bertanggung jawab dan insentif; ia bukan label pengganti bagi **ketidakpatuhan**; [Risiko residual / ketidakselarasan](core_05_band_continuity.md#residual-risk--misalignment) — risiko residual terbatas setelah mitigasi; [Sertifikasi keselarasan sistem](core_05_band_continuity.md#system-alignment-certification-constitutional) — jembatan sertifikasi di Bab Tujuh, bukan vonis ketidakpatuhan umum.
+- Hilir: [Bab Empat §§1 dan 4 — Penegakan Eksklusif dan Alokasi Beban; Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#1-penegakan-eksklusif-dan-alokasi-beban); [Bab Delapan — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Profil Temuan Ketidakpatuhan](../../core_05.035_band_accountability.md#non-compliance-finding-profile).
+- Baca bersama: [Bab Satu §11.3 Deteksi Ketidakselarasan](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) dan [§11.4 Koreksi Ketidakselarasan dan Respons Penguasaan](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **ketidakselarasan konstitusional** adalah divergensi pengelolaan bertanggung jawab dan insentif; ia bukan label pengganti bagi **ketidakpatuhan**; [Risiko residual / ketidakselarasan](../../core_05.040_band_continuity.md#residual-risk--misalignment) — risiko residual terbatas setelah mitigasi; [Sertifikasi keselarasan sistem](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) — jembatan sertifikasi di Bab Tujuh, bukan vonis ketidakpatuhan umum.
 
 </details>
 
@@ -71,7 +71,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     Perilaku mengelak yang mempersempit makna penuh, penilaian, atau persyaratan dunia nyata suatu definisi dihitung sebagai ketidakpatuhan di bawah [Bab Tiga](core_03_definition_integrity.md#bab-tiga-integritas-definisi-pengelakan-dan-ketidakpatuhan). Disiplin yang sama berlaku pada kewajiban konstitusional di luar satu definisi daun di mana Bab Dua sampai Empat mengatur tafsir, bukti, dan ketelusuran.
   - **Di luar cakupan:**
     - **ketidakselarasan konstitusional** pada lapisan pengelolaan bertanggung jawab dan insentif (Bab Satu §11);
-    - [Risiko residual / ketidakselarasan](core_05_band_continuity.md#residual-risk--misalignment) sebagai keadaan risiko terbatas setelah mitigasi;
+    - [Risiko residual / ketidakselarasan](../../core_05.040_band_continuity.md#residual-risk--misalignment) sebagai keadaan risiko terbatas setelah mitigasi;
     - status sertifikasi keselarasan sistem di bawah Bab Tujuh; dan
     - label slot sumbu pelanggaran Bab Delapan (itu mengklasifikasi temuan terverifikasi dan tidak mendefinisikan ulang apakah suatu definisi terpenuhi).
 <a id="non-compliance-a"></a>
@@ -101,10 +101,10 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hilir: Prinsip: [Pembukaan §3.3 disiplin lapisan tata kelola](core_00_preamble.md#33-lapisan-tata-kelola); [Bab Satu §5 Kebebasan](core_01_a_values_principles.md#5-freedom-bounded-agency).
+- Hilir: Prinsip: [Pembukaan §3.3 disiplin lapisan tata kelola](core_00_preamble.md#33-lapisan-tata-kelola); [Bab Satu §5 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency).
 - Lantai pemilik: [Bab Dua Belas: Kontrak Konstitusional, Keabsahan, Izin, dan Pengelolaan Bertanggung Jawab](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Pasal X-C: Partisipasi Tata Kelola dan Hak Suara](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Komponen klaster: [*Lapisan Kontrak Konstitusional dan Pilihan konstitusional fondasional*](core_05_band_integrative.md#lapisan-kontrak-konstitusional)
-- Baca bersama: [Pilihan konstitusional fondasional](core_05_band_integrative.md#pilihan-konstitusional-fondasional), [Pilihan mengikat pihak terdampak](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Status dan bobot pihak terdampak](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Tata kelola](core_05_band_accountability.md#governance).
+- Baca bersama: [Pilihan konstitusional fondasional](core_05_band_integrative.md#pilihan-konstitusional-fondasional), [Pilihan mengikat pihak terdampak](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [Status dan bobot pihak terdampak](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster), [Tata kelola](../../core_05.035_band_accountability.md#governance).
 - Lapisan: **Lapisan Kontrak Konstitusional (CCL)** — siapa boleh memerintah, dengan mekanisme keabsahan apa, di bawah syarat tahan apa. Berbeda dari **Partisipasi Sistemik Pihak Terdampak (SSP)**.
 
 </details>
@@ -129,7 +129,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     - partisipasi operasional;
     - pemakaian sistem, merek, atau kehadiran pasar sebagai demikian;
     - tata kelola ranah biasa setelah struktur dan proses sudah diizinkan; dan
-    - [Bobot pihak terdampak](core_05_band_participation.md#stakeholder-weight) biasa — memberi lebih banyak suara kepada yang lebih terdampak — yang dipakai untuk menetapkan suara pendirian atau izin ulang ([Pembukaan §3.3 disiplin lapisan tata kelola](core_00_preamble.md#33-lapisan-tata-kelola)).
+    - [Bobot pihak terdampak](../../core_05.055_band_participation.md#stakeholder-weight) biasa — memberi lebih banyak suara kepada yang lebih terdampak — yang dipakai untuk menetapkan suara pendirian atau izin ulang ([Pembukaan §3.3 disiplin lapisan tata kelola](core_00_preamble.md#33-lapisan-tata-kelola)).
   - **Rumah operatif:** [Bab Dua Belas](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) menyatakan aturan izin, keabsahan, dan pengelolaan bertanggung jawab yang mengikat bagi lapisan ini.
   - **Lantai Hak:** [Pasal X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Partisipasi Tata Kelola dan Hak Suara*) menyatakan hak partisipasi setara yang tidak boleh dipersempit aturan Bab Dua Belas itu.
 <a id="constitutional-contract-layer-a"></a>
@@ -138,7 +138,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 
     **Penilaian primer:**
     - Tanyakan apakah perkara ini pertanyaan Lapisan Kontrak Konstitusional: mengizinkan siapa memerintah, dengan mekanisme keabsahan apa, dan di bawah syarat tahan apa. Fungsi itu menandai lapisan ini — bukan seberapa besar, keras, atau luas dipakai sistemnya.
-    - Periksa keselarasan konstitusional kontrak itu: wewenang yang diklaim harus cocok dengan [mekanisme keabsahan terdokumentasi](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority), [lantai kesetaraan politik](../../core_14.000_governance.md#41-entitlement-and-eligibility) di mana pilihan fondasional berlaku, dan kewajiban pengelolaan bertanggung jawab serta Lantai Hak yang menjaga kuasa memerintah tetap wajib menjawab di bawah Konstitusi ini ([Bab Satu §11.1 Kewajiban Keselarasan](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
+    - Periksa keselarasan konstitusional kontrak itu: wewenang yang diklaim harus cocok dengan [mekanisme keabsahan terdokumentasi](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority), [lantai kesetaraan politik](../../core_14.000_governance.md#41-entitlement-and-eligibility) di mana pilihan fondasional berlaku, dan kewajiban pengelolaan bertanggung jawab serta Lantai Hak yang menjaga kuasa memerintah tetap wajib menjawab di bawah Konstitusi ini ([Bab Satu §11.1 Kewajiban Keselarasan](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)).
     - Terapkan [Pembukaan §3.3 disiplin lapisan tata kelola](core_00_preamble.md#33-lapisan-tata-kelola): jaga izin pendirian terpisah dari partisipasi pihak terdampak biasa di dalam sistem yang sudah diizinkan.
     - Jangan perlakukan keheningan, semata memakai suatu sistem, kehadiran pasar, atau merek sebagai Kontrak Konstitusional atau sebagai persetujuan untuk diperintah.
 <a id="constitutional-contract-layer-c"></a>
@@ -146,7 +146,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
   - **Kegagalan primer:**
     - memperlakukan konsultasi pihak terdampak, partisipasi operasional, pemakaian sistem, merek, kehadiran pasar, atau proses pihak terdampak berbobot-dampak sebagai pengganti izin konstitusional terdokumentasi;
     - memakai pemungutan suara pihak terdampak berbobot-dampak untuk membentuk atau merestrukturisasi secara tahan kewenangan memerintah di mana [Pilihan konstitusional fondasional](core_05_band_integrative.md#pilihan-konstitusional-fondasional) menuntut lantai kesetaraan politik; atau
-    - memperlakukan izin konstitusional sebagai menghapus kewajiban partisipasi pihak terdampak, perwakilan, [Dapat digugat](core_05_band_accountability.md#contestability), atau [proses yang semestinya](core_05_band_accountability.md#due-process-constitutional) di dalam sistem yang sudah diizinkan atau ranah keputusan terbatas ([Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola)).
+    - memperlakukan izin konstitusional sebagai menghapus kewajiban partisipasi pihak terdampak, perwakilan, [Dapat digugat](../../core_05.035_band_accountability.md#contestability), atau [proses yang semestinya](../../core_05.035_band_accountability.md#due-process-constitutional) di dalam sistem yang sudah diizinkan atau ranah keputusan terbatas ([Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola)).
 
 ---
 
@@ -157,10 +157,10 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hilir: Prinsip: [Bab Satu §5 Kebebasan](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Penyelesaian Konflik Proses](#6-process-conflict-resolution).
+- Hilir: Prinsip: [Bab Satu §5 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency); [6. Penyelesaian Konflik Proses](core_05_band_integrative.md).
 - Lantai pemilik: [Bab Dua Belas Bab Satu §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*Lantai kesetaraan politik bagi pilihan konstitusional fondasional*; *Lantai suara politik tahan*); [Pasal X-C: Partisipasi Tata Kelola dan Hak Suara](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Komponen klaster: [*Lapisan Kontrak Konstitusional dan Pilihan konstitusional fondasional*](core_05_band_integrative.md#lapisan-kontrak-konstitusional)
-- Baca bersama: [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#lapisan-kontrak-konstitusional), [Batas perwakilan dan bobot pihak terdampak (pilihan mengikat pihak terdampak)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Pilihan mengikat pihak terdampak](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Keadilan prosedural](core_05_band_participation.md#procedural-fairness-constitutional).
+- Baca bersama: [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#lapisan-kontrak-konstitusional), [Batas perwakilan dan bobot pihak terdampak (pilihan mengikat pihak terdampak)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Pilihan mengikat pihak terdampak](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [Keadilan prosedural](../../core_05.055_band_participation.md#procedural-fairness-constitutional).
 - Lapisan: **Lapisan Kontrak Konstitusional (CCL)**. Berbeda dari **Partisipasi Sistemik Pihak Terdampak (SSP)** di dalam sistem yang sudah diizinkan.
 
 </details>
@@ -178,9 +178,9 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     Ini milik [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#lapisan-kontrak-konstitusional).
     - Pemilik: [Bab Dua Belas Bab Satu §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).
     - Penunjuk lapisan hak: [Pasal X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Partisipasi Tata Kelola dan Hak Suara*).
-    - Berlaku di bawah [Non-pengecualian kesadaran](core_05_band_participation.md#sentience-non-exclusion).
+    - Berlaku di bawah [Non-pengecualian kesadaran](../../core_05.055_band_participation.md#sentience-non-exclusion).
   - **Di luar cakupan:**
-    - keputusan pihak terdampak biasa yang berbobot-dampak setelah suatu ranah sudah punya struktur dan proses memerintah yang diizinkan — makhluk sadar yang terdampak mendapat suara yang diskalakan ke seberapa besar mereka terdampak lewat identifikasi [Pihak terdampak](core_05_band_participation.md#stakeholder) dan [Bobot pihak terdampak](core_05_band_participation.md#stakeholder-weight) (termasuk batasan **Pasal XII** (*Partisipasi Sistemik Pihak Terdampak, Perwakilan, dan Proses yang Semestinya*)), bukan lewat aturan hitung pendirian berbobot-setara; dan
+    - keputusan pihak terdampak biasa yang berbobot-dampak setelah suatu ranah sudah punya struktur dan proses memerintah yang diizinkan — makhluk sadar yang terdampak mendapat suara yang diskalakan ke seberapa besar mereka terdampak lewat identifikasi [Pihak terdampak](../../core_05.055_band_participation.md#stakeholder) dan [Bobot pihak terdampak](../../core_05.055_band_participation.md#stakeholder-weight) (termasuk batasan **Pasal XII** (*Partisipasi Sistemik Pihak Terdampak, Perwakilan, dan Proses yang Semestinya*)), bukan lewat aturan hitung pendirian berbobot-setara; dan
     - pilihan operasional atau kebijakan rutin yang tidak mengizinkan atau merestrukturisasi secara tahan wewenang itu.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>
@@ -190,18 +190,18 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     **Penilaian primer:**
     - Perlakukan suatu keputusan sebagai fondasional ketika ia tentang siapa boleh memerintah, dengan mekanisme apa, atau di bawah syarat tahan apa — bukan karena satu suara atau satu pilihan kebijakan punya akibat jangka-pendek yang besar.
     - Baca [Pembukaan §3.3 disiplin lapisan tata kelola](core_00_preamble.md#33-lapisan-tata-kelola).
-    - Pertanyaan fondasional tidak dapat dialihkan-rute sebagai pilihan berbobot berdampak-tinggi di bawah [Batas perwakilan dan bobot pihak terdampak (pilihan mengikat pihak terdampak)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
-    - Terapkan [Non-pengecualian kesadaran](core_05_band_participation.md#sentience-non-exclusion).
+    - Pertanyaan fondasional tidak dapat dialihkan-rute sebagai pilihan berbobot berdampak-tinggi di bawah [Batas perwakilan dan bobot pihak terdampak (pilihan mengikat pihak terdampak)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+    - Terapkan [Non-pengecualian kesadaran](../../core_05.055_band_participation.md#sentience-non-exclusion).
     - Jangan memberi lebih banyak atau lebih sedikit suara pendirian berdasarkan kelas substrat (jenis biologis, sintetis, atau digital), usia kalender, atau silsilah (leluhur, spesies, atau turunan).
-    - Terapkan [Keadilan prosedural](core_05_band_participation.md#procedural-fairness-constitutional) pada setiap diskualifikasi yang diundang terhadap partisipasi.
+    - Terapkan [Keadilan prosedural](../../core_05.055_band_participation.md#procedural-fairness-constitutional) pada setiap diskualifikasi yang diundang terhadap partisipasi.
 <a id="foundational-constitutional-choice-c"></a>
 <a id="foundational-collective-choice-constitutional-c"></a>
 - **Apa yang harus berlaku**
-  - **Kegagalan primer:** mengalihkan-rute pertanyaan fondasional sebagai pilihan berbobot berdampak-tinggi di bawah aturan [Batas perwakilan dan bobot pihak terdampak (pilihan mengikat pihak terdampak)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) sehingga mengalahkan partisipasi setara pada lapisan izin.
+  - **Kegagalan primer:** mengalihkan-rute pertanyaan fondasional sebagai pilihan berbobot berdampak-tinggi di bawah aturan [Batas perwakilan dan bobot pihak terdampak (pilihan mengikat pihak terdampak)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) sehingga mengalahkan partisipasi setara pada lapisan izin.
   - **Kegagalan sekunder:** menyarangkan pembobotan-dampak di dalam rancangan mekanisme keabsahan sehingga mekanisme itu lolos dari lantai kesetaraan politik.
   - **Kegagalan tersier:**
     - pemakaian kehilangan-jejak sebagai vektor diskualifikasi suara-politik-tahan yang gagal uji *Lantai suara politik tahan* Bab Dua Belas Bab Satu §8.1, kecuali penahanan akhir Bab Sepuluh atas salah laku anti-konstitusi sambil menunggu restitusi penuh; atau
-    - faktor bobot partisipasi kelas-substrat, usia-kalender, atau silsilah ([Non-pengecualian kesadaran](core_05_band_participation.md#sentience-non-exclusion)).
+    - faktor bobot partisipasi kelas-substrat, usia-kalender, atau silsilah ([Non-pengecualian kesadaran](../../core_05.055_band_participation.md#sentience-non-exclusion)).
 
 ---
 
@@ -212,8 +212,8 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Baca bersama: [Kapasitas produktif](core_05_band_continuity.md#productive-capacity-constitutional), [Efisiensi konstitusional](core_05_band_continuity.md#constitutional-efficiency), dan [Beban yang dapat dihindari](core_05_band_continuity.md#avoidable-burden) — dasar konstitusional bagi pelacakan imbalan yang sah di bawah [Bab Satu §11.1.3 Penerapan Pengelolaan Bertanggung Jawab dan Operator](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); di mana suatu penggugat membenarkan eksklusivitas dengan keuntungan kapasitas atau efisiensi, klaim itu harus tetap tertelusuri ke hasil di bawah [§11.1.5 Disiplin Klaim Hasil Konstitusional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
-- Bagi inovasi dengan dampak konstitusional langsung, manfaat publik boleh dinilai memakai [Unit setara masa hidup (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) sebagai satu ukuran magnitudo kontribusi di bawah Bab Delapan.
+- Baca bersama: [Kapasitas produktif](../../core_05.040_band_continuity.md#productive-capacity-constitutional), [Efisiensi konstitusional](../../core_05.040_band_continuity.md#constitutional-efficiency), dan [Beban yang dapat dihindari](../../core_05.040_band_continuity.md#avoidable-burden) — dasar konstitusional bagi pelacakan imbalan yang sah di bawah [Bab Satu §11.1.3 Penerapan Pengelolaan Bertanggung Jawab dan Operator](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application); di mana suatu penggugat membenarkan eksklusivitas dengan keuntungan kapasitas atau efisiensi, klaim itu harus tetap tertelusuri ke hasil di bawah [§11.1.5 Disiplin Klaim Hasil Konstitusional](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
+- Bagi inovasi dengan dampak konstitusional langsung, manfaat publik boleh dinilai memakai [Unit setara masa hidup (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) sebagai satu ukuran magnitudo kontribusi di bawah Bab Delapan.
 
 </details>
 
@@ -223,7 +223,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 
 - **Apa itu**
   - **Dalam cakupan:** Aturan konstitusional untuk mengimbali penemuan, penelitian, pembangunan, dan penciptaan yang secara material baru dan berguna secara sosial — tanpa membiarkan imbalan itu menjadi penutupan tahan.
-    - Dasar konstitusional: di bawah [Bab Satu §11.1.3](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application), imbalan boleh secara sah menelusuri [Kapasitas produktif](core_05_band_continuity.md#productive-capacity-constitutional) dan [Efisiensi konstitusional](core_05_band_continuity.md#constitutional-efficiency); [Beban yang dapat dihindari](core_05_band_continuity.md#avoidable-burden) menjaga agar tidak mengimbali kerja semu, penimbunan, atau gesekan penutupan yang tidak melayani tujuan konstitusional apa pun.
+    - Dasar konstitusional: di bawah [Bab Satu §11.1.3](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application), imbalan boleh secara sah menelusuri [Kapasitas produktif](../../core_05.040_band_continuity.md#productive-capacity-constitutional) dan [Efisiensi konstitusional](../../core_05.040_band_continuity.md#constitutional-efficiency); [Beban yang dapat dihindari](../../core_05.040_band_continuity.md#avoidable-burden) menjaga agar tidak mengimbali kerja semu, penimbunan, atau gesekan penutupan yang tidak melayani tujuan konstitusional apa pun.
     - Imbalan boleh mengakui kontribusi, beban pengembangan, dan pengungkapan.
     - Ia boleh mencakup pengecualian sementara hanya ketika pengecualian itu:
       - sempit;
@@ -231,8 +231,8 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
       - dapat ditinjau; dan
       - beralasan.
     - Atribusi bukan pengecualian; kredit dan sejarah sumber boleh bertahan setelah pengecualian apa pun berakhir.
-    - Berlaku di mana struktur imbalan dapat memengaruhi [Kesejahteraan](core_05_band_continuity.md#wellbeing), [Keselamatan (batasan)](core_05_band_continuity.md#safety-constraint), [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), atau [Keagenan bermakna](core_05_band_participation.md#meaningful-agency).
-  - **Bergantung pada:** [Keperluan](core_05_band_accountability.md#necessity), [Proporsionalitas](core_05_band_accountability.md#proportionality), dan [Penguncian sistemik](core_05_band_continuity.md#systemic-lock-in) — batas penyusun. Setiap pengecualian harus beralasan menurut keperluan dan proporsionalitas, dan kendali atas pemakaian tidak boleh mengeras menjadi:
+    - Berlaku di mana struktur imbalan dapat memengaruhi [Kesejahteraan](../../core_05.040_band_continuity.md#wellbeing), [Keselamatan (batasan)](../../core_05.040_band_continuity.md#safety-constraint), [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), atau [Keagenan bermakna](../../core_05.055_band_participation.md#meaningful-agency).
+  - **Bergantung pada:** [Keperluan](../../core_05.035_band_accountability.md#necessity), [Proporsionalitas](../../core_05.035_band_accountability.md#proportionality), dan [Penguncian sistemik](../../core_05.040_band_continuity.md#systemic-lock-in) — batas penyusun. Setiap pengecualian harus beralasan menurut keperluan dan proporsionalitas, dan kendali atas pemakaian tidak boleh mengeras menjadi:
     - kelangkaan tetap;
     - Penguncian sistemik; atau
     - penekanan perbaikan, interoperabilitas, pembelajaran, kerja keselamatan, pengungkapan jujur, atau eksperimen hilir.
@@ -250,13 +250,13 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     **Penilaian primer:** Nilai klaim imbalan inovasi dalam urutan ini:
     1. **Identifikasi kontribusi aktual:** Nilai beban pengembangan, kecukupan pengungkapan, dan manfaat publik. Imbalan menuntut kontribusi nyata dan pengungkapan cukup bagi pemahaman mandiri, audit, dan implementasi kemudian — tunduk hanya pada batas sementara yang beralasan.
     2. **Pisahkan atribusi dari pengecualian:** Seorang penggugat boleh mempertahankan kredit, provenans, dan pengakuan setelah jangka pengecualian apa pun berakhir. Kepentingan itu tidak dengan sendirinya membenarkan kendali atas perbaikan, pemakaian ulang, kompatibilitas, penelitian, pendidikan, migrasi, atau implementasi kepentingan publik.
-    3. **Uji keperluan dan proporsionalitas:** Tanyakan apakah eksklusivitas dibutuhkan sama sekali. Tanyakan apakah manfaat publik yang sama atau lebih besar dapat datang lewat alat imbalan yang lebih tidak-membatasi. Setiap pengecualian harus sempit, berbatas waktu, dan dapat ditinjau di bawah [Keperluan](core_05_band_accountability.md#necessity) dan [Proporsionalitas](core_05_band_accountability.md#proportionality).
+    3. **Uji keperluan dan proporsionalitas:** Tanyakan apakah eksklusivitas dibutuhkan sama sekali. Tanyakan apakah manfaat publik yang sama atau lebih besar dapat datang lewat alat imbalan yang lebih tidak-membatasi. Setiap pengecualian harus sempit, berbatas waktu, dan dapat ditinjau di bawah [Keperluan](../../core_05.035_band_accountability.md#necessity) dan [Proporsionalitas](../../core_05.035_band_accountability.md#proportionality).
     4. **Skalakan ke konteks:** Sesuaikan analisis untuk:
        - kelas sistem;
-       - [Ketergantungan](core_05_band_continuity.md#dependency);
+       - [Ketergantungan](../../core_05.040_band_continuity.md#dependency);
        - kuasa koordinasi;
        - beban interoperabilitas; dan
-       - [Kebalikan](core_05_band_continuity.md#reversibility-constitutional).
+       - [Kebalikan](../../core_05.040_band_continuity.md#reversibility-constitutional).
 
        Semakin kuat ketergantungan, tuas, atau ketidakbolehan-dibalik, semakin kuat praduga menentang pengecualian.
     5. **Utamakan mekanisme non-monopoli:** Pakai hadiah, pungutan, lisensi bersama, pembelian publik, akses wajib, atau alat serupa di mana eksklusivitas secara terduga akan menciptakan penguncian, penimbunan anti-kompetitif, atau bahaya material bagi:
@@ -283,12 +283,12 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     - penelitian;
     - pemeriksaan jujur; atau
     - implementasi kepentingan publik.
-  - **Kegagalan sekunder:** Pengecualian berkelanjutan atas inovasi kritis-[Ketergantungan](core_05_band_continuity.md#dependency) tanpa:
+  - **Kegagalan sekunder:** Pengecualian berkelanjutan atas inovasi kritis-[Ketergantungan](../../core_05.040_band_continuity.md#dependency) tanpa:
     - penyempitan berskala-kelas;
     - konversi ke imbalan yang menjaga akses; atau
     - matahari terbenam di bawah [corpus_systems.md](../../corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem.
   - **Kegagalan tersier:**
-    - pengecualian yang menciptakan [Penguncian sistemik](core_05_band_continuity.md#systemic-lock-in), hambatan anti-kompetitif, [Bahaya](core_05_band_accountability.md#harm) material, atau ketergantungan yang dapat dihindari pada satu penggugat di mana alat imbalan yang lebih tidak-membatasi akan bekerja sama baik atau lebih baik; atau
+    - pengecualian yang menciptakan [Penguncian sistemik](../../core_05.040_band_continuity.md#systemic-lock-in), hambatan anti-kompetitif, [Bahaya](../../core_05.035_band_accountability.md#harm) material, atau ketergantungan yang dapat dihindari pada satu penggugat di mana alat imbalan yang lebih tidak-membatasi akan bekerja sama baik atau lebih baik; atau
     - klaim imbalan yang bertumpu pada penyembunyian, pengungkapan tidak memadai, atau pembatasan berpura-pura di luar apa yang dibenarkan Bab Satu dan Bab Enam.
 
 ---
@@ -303,7 +303,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 
 **Konteks semi-mandiri** (definisi komponen masih boleh beroperasi di luar cakupan pemanggilan bersama):
 
-- **Pemanggilan bersama:** di mana struktur insentif, integritas indikator pengganti, atau disiplin penyelesaian kontingen bersifat material di bawah [Bab Satu §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+- **Pemanggilan bersama:** di mana struktur insentif, integritas indikator pengganti, atau disiplin penyelesaian kontingen bersifat material di bawah [Bab Satu §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
 - **Cakupan:** di mana pemanggilan bersama terpenuhi, rumah bersama keluarga pengukuran Pertanggungjawaban bagi apakah imbalan, target, dan sinyal tata kelola tetap selaras dengan hasil konstitusional — termasuk integritas indikator pengganti dan disiplin penyelesaian kontingen.
 
 **Anggota kelompok topik.** Kelompok ini terdiri dari:
@@ -323,12 +323,12 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hilir: keluarga pengukuran Pertanggungjawaban (*Keselarasan insentif dan integritas indikator pengganti sebagai pengukuran konstitusional*); Prinsip: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) (disiplin penguasaan tetrad di bawah [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); penskalaan [taruhan material](core_00_preamble.md#material-stake)); [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) dan [§10 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Aturan lapisan prinsip: [Bab Satu §11.1 Kewajiban Keselarasan](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) dan [Bab Satu §11.2 Indikator Pengganti yang Nyaman dan Divergensi Indikator Pengganti](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence); penerapan pengelolaan bertanggung jawab dan operator: [Bab Satu §11.1.3 Penerapan Pengelolaan Bertanggung Jawab dan Operator](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) dan [§11.1.4 Jalur Kedalaman Peran dan Tanggung Jawab Material](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
-- Deteksi ketidakselarasan: [Bab Satu §11.3 Deteksi Ketidakselarasan](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
-- Koreksi aktif dan eskalasi penguasaan: [Bab Satu §11.4 Koreksi Ketidakselarasan dan Respons Penguasaan](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
+- Hilir: keluarga pengukuran Pertanggungjawaban (*Keselarasan insentif dan integritas indikator pengganti sebagai pengukuran konstitusional*); Prinsip: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) (disiplin penguasaan tetrad di bawah [§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); penskalaan [taruhan material](core_00_preamble.md#material-stake)); [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) dan [§10 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Aturan lapisan prinsip: [Bab Satu §11.1 Kewajiban Keselarasan](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) dan [Bab Satu §11.2 Indikator Pengganti yang Nyaman dan Divergensi Indikator Pengganti](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence); penerapan pengelolaan bertanggung jawab dan operator: [Bab Satu §11.1.3 Penerapan Pengelolaan Bertanggung Jawab dan Operator](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) dan [§11.1.4 Jalur Kedalaman Peran dan Tanggung Jawab Material](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways).
+- Deteksi ketidakselarasan: [Bab Satu §11.3 Deteksi Ketidakselarasan](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection).
+- Koreksi aktif dan eskalasi penguasaan: [Bab Satu §11.4 Koreksi Ketidakselarasan dan Respons Penguasaan](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response).
 - Komponen klaster: [Keselarasan insentif, integritas indikator pengganti, dan penyelesaian kontingen](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- Baca bersama: [*Arsitektur Tata Kelola, Pengawasan, Ketergantungan, Desentralisasi, Konsentrasi, Struktur Pasar, dan Integritas Jalur Keluar*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) di mana ketergantungan, konsentrasi, insentif bentuk tata kelola, atau analisis mutu keluar terlibat secara material; [Bab Lima *Klaim Kontingen, Pasar Kontrak Peristiwa, Permainan Peluang, dan Keuntungan Orang Dalam*](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) di mana struktur kontingen terlibat secara material; Penguasaan sistem, Divergensi indikator pengganti, Kebenaran (batasan konstitusional), Integritas epistemik, dan Keagenan bermakna.
+- Baca bersama: [*Arsitektur Tata Kelola, Pengawasan, Ketergantungan, Desentralisasi, Konsentrasi, Struktur Pasar, dan Integritas Jalur Keluar*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) di mana ketergantungan, konsentrasi, insentif bentuk tata kelola, atau analisis mutu keluar terlibat secara material; [Bab Lima *Klaim Kontingen, Pasar Kontrak Peristiwa, Permainan Peluang, dan Keuntungan Orang Dalam*](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) di mana struktur kontingen terlibat secara material; Penguasaan sistem, Divergensi indikator pengganti, Kebenaran (batasan konstitusional), Integritas epistemik, dan Keagenan bermakna.
 
 </details>
 
@@ -353,15 +353,15 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
   - **Ukuran primer:** [Keluarga pengukuran Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Apakah struktur imbalan, kuasa pasar, dan kewajiban menjawab menjaga kewajiban tetap nyata?* Pakai di sini untuk menanyakan apakah bayaran, target, dan sinyal tata kelola masih mendorong menuju hasil konstitusional nyata — bukan menuju skor indikator pengganti, celah, atau penguasaan.
 
     **Penilaian primer:** Nilai keselarasan lintas akibat tertunda dan teragregasi, bukan hanya keluaran segera atau lokal — termasuk akibat pada:
-    - [Keselamatan (batasan)](core_05_band_continuity.md#safety-constraint);
-    - [Risiko](core_05_band_continuity.md#risk);
-    - [Bahaya](core_05_band_accountability.md#harm); dan
-    - [Keagenan bermakna](core_05_band_participation.md#meaningful-agency).
+    - [Keselamatan (batasan)](../../core_05.040_band_continuity.md#safety-constraint);
+    - [Risiko](../../core_05.040_band_continuity.md#risk);
+    - [Bahaya](../../core_05.035_band_accountability.md#harm); dan
+    - [Keagenan bermakna](../../core_05.055_band_participation.md#meaningful-agency).
 
     Ketika topik anak yang lebih spesifik di bawah klaster ini secara material dipertaruhkan, ikuti jalur penilaian anak itu.
-  - **Ukuran sekunder:** [Kesejahteraan](core_05_band_continuity.md#wellbeing), [Keselamatan (batasan)](core_05_band_continuity.md#safety-constraint), [Integritas epistemik](core_05_band_oversight.md#integritas-epistemik), dan [Keagenan bermakna](core_05_band_participation.md#meaningful-agency) — ukuran bersama yang dapat mengalahkan keselarasan bahkan ketika target nominal tampak terpenuhi.
+  - **Ukuran sekunder:** [Kesejahteraan](../../core_05.040_band_continuity.md#wellbeing), [Keselamatan (batasan)](../../core_05.040_band_continuity.md#safety-constraint), [Integritas epistemik](core_05_band_oversight.md#integritas-epistemik), dan [Keagenan bermakna](../../core_05.055_band_participation.md#meaningful-agency) — ukuran bersama yang dapat mengalahkan keselarasan bahkan ketika target nominal tampak terpenuhi.
 
-    **Penilaian sekunder:** Ketika memeriksa ukuran primer, tanyakan apakah ukuran bersama ini masih menunjukkan ketidakselarasan bahkan ketika skor resmi tampak baik. Sertakan [Penguasaan sistem](core_05_band_continuity.md#system-capture) (struktur kendali terpusat atau tersembunyi yang mengalahkan gugatan atau pengawasan di mana terlibat secara material).
+    **Penilaian sekunder:** Ketika memeriksa ukuran primer, tanyakan apakah ukuran bersama ini masih menunjukkan ketidakselarasan bahkan ketika skor resmi tampak baik. Sertakan [Penguasaan sistem](../../core_05.040_band_continuity.md#system-capture) (struktur kendali terpusat atau tersembunyi yang mengalahkan gugatan atau pengawasan di mana terlibat secara material).
   - **Ukuran tersier:** [Divergensi indikator pengganti](core_05_band_oversight.md#penyimpangan-proksi) — di mana jalur imbalan, metrik, atau sinyal tata kelola menggantikan hasil konstitusional nyata.
 
     **Penilaian tersier:** Masukkan [Divergensi indikator pengganti](core_05_band_oversight.md#penyimpangan-proksi). Hitung sebagai masukan Keselarasan insentif setiap jalur imbalan, target, atau sinyal tata kelola yang mengeksploitasi celah antara:
@@ -369,7 +369,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     - metrik; atau
     - indikator kepatuhan formal
 
-    dan hasil nyata yang material bagi [Kesejahteraan](core_05_band_continuity.md#wellbeing), [Keselamatan (batasan)](core_05_band_continuity.md#safety-constraint), atau [Integritas epistemik](core_05_band_oversight.md#integritas-epistemik).
+    dan hasil nyata yang material bagi [Kesejahteraan](../../core_05.040_band_continuity.md#wellbeing), [Keselamatan (batasan)](../../core_05.040_band_continuity.md#safety-constraint), atau [Integritas epistemik](core_05_band_oversight.md#integritas-epistemik).
 <a id="incentive-alignment-c"></a>
 - **Apa yang harus berlaku**
   - **Kegagalan primer:** insentif berkelanjutan yang secara terduga merusak nilai Bab Satu tanpa:
@@ -378,7 +378,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     - penimpaan yang dapat dikerjakan.
   - **Kegagalan sekunder:**
     - gagal secara aktif mendeteksi, mengungkapkan, dan mengoreksi ketidakselarasan itu (Bab Satu §11.3–§11.4);
-    - [Penguasaan sistem](core_05_band_continuity.md#system-capture) (struktur kendali terpusat atau tersembunyi yang mengalahkan gugatan atau pengawasan); atau
+    - [Penguasaan sistem](../../core_05.040_band_continuity.md#system-capture) (struktur kendali terpusat atau tersembunyi yang mengalahkan gugatan atau pengawasan); atau
     - mengklaim Keselarasan insentif konstitusional sambil mengabaikan persyaratan implementasi yang diadopsi yang mengatur integritas insentif bagi sistem yang ditinjau.
   - **Kegagalan tersier:** memperlakukan pemenuhan indikator pengganti atau indikator kepatuhan sebagai menentukan di mana [Divergensi indikator pengganti](core_05_band_oversight.md#penyimpangan-proksi) secara wajar dapat diamati.
 
@@ -403,7 +403,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 
 - **Apa itu**
   - **Dalam cakupan:** Struktur insentif yang bekerja pada agen, operator, atau komponen penyusun — jalur imbalan, target, sinyal tata kelola, dan struktur sebanding yang secara terduga membentuk perilaku lintas akibat tertunda dan teragregasi.
-  - **Bergantung pada:** [Keselamatan (batasan)](core_05_band_continuity.md#safety-constraint), [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), [Kepercayaan](core_05_band_continuity.md#trust), dan [Keagenan bermakna](core_05_band_participation.md#meaningful-agency) — target keselarasan penyusun. Struktur insentif harus selaras dengan batas ini dan dengan kestabilan sistemik yang menopang [Kepercayaan](core_05_band_continuity.md#trust) yang beralasan.
+  - **Bergantung pada:** [Keselamatan (batasan)](../../core_05.040_band_continuity.md#safety-constraint), [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), [Kepercayaan](../../core_05.040_band_continuity.md#trust), dan [Keagenan bermakna](../../core_05.055_band_participation.md#meaningful-agency) — target keselarasan penyusun. Struktur insentif harus selaras dengan batas ini dan dengan kestabilan sistemik yang menopang [Kepercayaan](../../core_05.040_band_continuity.md#trust) yang beralasan.
   - **Di luar cakupan:** Penyetelan imbalan lokal berhorizon-pendek yang tidak membentuk perilaku tertunda atau teragregasi menentang batas Keselamatan, Kebenaran, Kepercayaan, atau Keagenan bermakna.
   - **Baca bersama:** [Divergensi indikator pengganti](core_05_band_oversight.md#penyimpangan-proksi) di mana skor atau metrik dapat menyembunyikan hasil nyata menentang batas itu — dimiliki pada tingkatan tersier [Keselarasan insentif](#keselarasan-insentif).
 - **Cara mengukur dan menilai**
@@ -458,9 +458,9 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hilir: Prinsip: [Bab Satu §11.5 Klaim Kontingen, Permainan Peluang, dan Pasar Kontrak Peristiwa](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- Hilir: Prinsip: [Bab Satu §11.5 Klaim Kontingen, Permainan Peluang, dan Pasar Kontrak Peristiwa](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets).
 - Komponen klaster: [Keselarasan insentif, integritas indikator pengganti, dan penyelesaian kontingen](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- Baca bersama: [Keselarasan insentif](core_05_band_integrative.md#keselarasan-insentif); [Klaim Kontingen, Pasar Kontrak Peristiwa, Permainan Peluang, dan Keuntungan Orang Dalam](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- Baca bersama: [Keselarasan insentif](core_05_band_integrative.md#keselarasan-insentif); [Klaim Kontingen, Pasar Kontrak Peristiwa, Permainan Peluang, dan Keuntungan Orang Dalam](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
 
 </details>
 
@@ -469,7 +469,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 *Dalam bahasa sederhana: taruhan, pasar prediksi, dan pembayaran berbasis-peluang tidak boleh mengimbali bahaya melawan hukum, kuasa orang dalam, atau pembelokan keputusan publik atau fidusia.*
 
 - **Apa itu**
-  - **Dalam cakupan:** Struktur [Klaim kontingen](core_05_band_accountability.md#contingent-claim), termasuk bentuk [Permainan peluang](core_05_band_accountability.md#game-of-chance) dan [Pasar kontrak peristiwa](core_05_band_accountability.md#event-contract-market), di mana relevan secara material.
+  - **Dalam cakupan:** Struktur [Klaim kontingen](../../core_05.035_band_accountability.md#contingent-claim), termasuk bentuk [Permainan peluang](../../core_05.035_band_accountability.md#game-of-chance) dan [Pasar kontrak peristiwa](../../core_05.035_band_accountability.md#event-contract-market), di mana relevan secara material.
   - **Di luar cakupan:**
     - kontrak atau pertukaran kewajiban-tetap biasa yang bukan bentuk klaim-kontingen, permainan-peluang, atau kontrak-peristiwa; atau
     - harga penyelesaian atau odds sebagai sinyal pasar semata —
@@ -478,21 +478,21 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 - **Cara mengukur dan menilai**
   - **Ukuran primer:** [Keluarga pengukuran Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Apakah struktur imbalan, kuasa pasar, dan kewajiban menjawab menjaga kewajiban tetap nyata?* Pakai di sini untuk menanyakan apakah taruhan, pasar prediksi, dan pembayaran berbasis-peluang menghindari mengimbali bahaya melawan hukum, kuasa orang dalam, atau pembelokan keputusan publik atau fidusia.
 
-    **Penilaian primer:** Sistem semacam itu harus memenuhi [Bab Satu §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), termasuk:
-    - terapkan [Keperluan](core_05_band_accountability.md#necessity) dan [Proporsionalitas](core_05_band_accountability.md#proportionality) pada peristiwa dasar yang boleh dipertaruhkan atau diselesaikan makhluk sadar;
+    **Penilaian primer:** Sistem semacam itu harus memenuhi [Bab Satu §11.5](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets), termasuk:
+    - terapkan [Keperluan](../../core_05.035_band_accountability.md#necessity) dan [Proporsionalitas](../../core_05.035_band_accountability.md#proportionality) pada peristiwa dasar yang boleh dipertaruhkan atau diselesaikan makhluk sadar;
     - jaga resolusi hasil adil dan mandiri — pakai lebih dari satu sumber di mana dapat dikerjakan, dan jaga jalur sengketa terbuka untuk digugat;
     - batasi seberapa banyak konsentrasi, tuas, dan paparan yang dapat diambil pelaku mana pun, diskalakan ke seberapa rentan makhluk sadar dan sistem yang lebih luas;
     - periksa penyalahgunaan di bawah kondisi koordinasi dan berskala tinggi; dan
     - perlakukan harga dan odds hanya sebagai sinyal pasar — bukan, dengan sendirinya, sebagai bukti kebenaran atau kepatuhan; pakai standar bukti yang sama seperti keputusan berdampak-tinggi lain.
-  - **Ukuran sekunder:** [Risiko](core_05_band_continuity.md#risk), [Penguasaan jalur resolusi](core_05_band_accountability.md#capture-of-resolution-pathways), dan [Keuntungan orang dalam](core_05_band_accountability.md#insider-advantage) — lapisan integritas yang dapat mengalahkan keselarasan penyelesaian kontingen bahkan ketika kontrol rancangan §11.5 tampak terpenuhi.
+  - **Ukuran sekunder:** [Risiko](../../core_05.040_band_continuity.md#risk), [Penguasaan jalur resolusi](../../core_05.035_band_accountability.md#capture-of-resolution-pathways), dan [Keuntungan orang dalam](../../core_05.035_band_accountability.md#insider-advantage) — lapisan integritas yang dapat mengalahkan keselarasan penyelesaian kontingen bahkan ketika kontrol rancangan §11.5 tampak terpenuhi.
 
     **Penilaian sekunder:** Ketika memeriksa ukuran primer, tanyakan apakah lapisan ini masih menunjukkan ketidakselarasan:
-    - [Risiko](core_05_band_continuity.md#risk) manipulasi hasil;
-    - [Penguasaan jalur resolusi](core_05_band_accountability.md#capture-of-resolution-pathways); atau
-    - [Keuntungan orang dalam](core_05_band_accountability.md#insider-advantage) atau jalur informasi istimewa lain.
+    - [Risiko](../../core_05.040_band_continuity.md#risk) manipulasi hasil;
+    - [Penguasaan jalur resolusi](../../core_05.035_band_accountability.md#capture-of-resolution-pathways); atau
+    - [Keuntungan orang dalam](../../core_05.035_band_accountability.md#insider-advantage) atau jalur informasi istimewa lain.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
 - **Apa yang harus berlaku**
-  - **Kegagalan primer:** Struktur penyelesaian di dalam [Klaim kontingen](core_05_band_accountability.md#contingent-claim), [Permainan peluang](core_05_band_accountability.md#game-of-chance), atau [Pasar kontrak peristiwa](core_05_band_accountability.md#event-contract-market) yang secara terduga mengimbali:
+  - **Kegagalan primer:** Struktur penyelesaian di dalam [Klaim kontingen](../../core_05.035_band_accountability.md#contingent-claim), [Permainan peluang](../../core_05.035_band_accountability.md#game-of-chance), atau [Pasar kontrak peristiwa](../../core_05.035_band_accountability.md#event-contract-market) yang secara terduga mengimbali:
     - bahaya melawan hukum;
     - keuntungan korup dari kuasa non-publik; atau
     - distorsi material atas keputusan fidusia atau publik
@@ -516,7 +516,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 - Kerangka konstitusional: pita **Integratif**; tujuan **Berkembang** (primer); diskalakan dengan [taruhan material](core_00_preamble.md#material-stake) lewat [Penentuan materialitas](core_05_band_oversight.md#materiality-determination).
 - Catatan silang-kaki: **Pengawasan**, **Pertanggungjawaban**, dan **Partisipasi** — tumpukan wewenang merentang semua kaki Tetrad.
 - Dasar Bab Satu: Bab Satu §8.1, §4, Bab Satu §6.2, §12.2, §10 (lihat peta [Kompas Bab Lima](core_05__definitions_home.md#kompas-dan-peta-definisi-bab-lima)).
-- Baca bersama: Terapkan [Dapat diaudit](core_05_band_oversight.md#keter-auditan), [Dapat digugat](core_05_band_accountability.md#contestability), [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), [Penentuan materialitas](core_05_band_oversight.md#materiality-determination), dan mekanika Bab Tiga Belas / Bab Lima Belas di mana terlibat secara material.
+- Baca bersama: Terapkan [Dapat diaudit](core_05_band_oversight.md#keter-auditan), [Dapat digugat](../../core_05.035_band_accountability.md#contestability), [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), [Penentuan materialitas](core_05_band_oversight.md#materiality-determination), dan mekanika Bab Tiga Belas / Bab Lima Belas di mana terlibat secara material.
 
 </details>
 
@@ -539,7 +539,7 @@ Di mana cakupan penerimaan terpenuhi, klaster ini adalah tempat pertanyaan itu h
 - **teks mana yang dihitung sebagai Konstitusi resmi** — korpus yang diadopsi dan berversi, bukan draf, catatan, atau salinan tidak resmi;
 - **bagaimana wewenang berjenjang di dalam korpus itu** — bab dan lapisan mana yang mengendalikan ketika topik tumpang tindih, termasuk tidak-pindah pemilik dan akibat supremasi di bawah [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack);
 - **sumber mana yang menang setelah adopsi sah** — kewajiban mengikat menang di dalam cakupan yang benar-benar diadopsi; dan
-- **apakah kewajiban yang diklaim dapat diperiksa dan ditegakkan dalam praktik** — lewat [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](core_05_band_accountability.md#contestability), bukan diklaim di kertas semata.
+- **apakah kewajiban yang diklaim dapat diperiksa dan ditegakkan dalam praktik** — lewat [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](../../core_05.035_band_accountability.md#contestability), bukan diklaim di kertas semata.
 
 Ketika salah satu pertanyaan itu dipertaruhkan, baca anggota klaster bersama alih-alih memperlakukan satu sebagai cukup sendirian.
 
@@ -548,7 +548,7 @@ Ketika salah satu pertanyaan itu dipertaruhkan, baca anggota klaster bersama ali
 - [Korpus](core_05_band_integrative.md#korpus); dan
 - [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack).
 
-[Batasan konstitusional](core_05_band_integrative.md#batasan-konstitusional) hidup di bagian ini sebagai definisi penunjang yang dibaca bersama klaster; ia bukan anggota pemanggilan-bersama tambahan kecuali dituntut secara mandiri. Daftar pemilik positif bab mana yang memiliki ranah substantif mana hidup di [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-prinsip-definisi-dan-hak) (bagian 4–7). Tidak-pindah pemilik dan akibat supremasi dinyatakan di bawah [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack). Keberlakuan praktis klaim mengikat diarahkan di bawah [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](core_05_band_accountability.md#contestability). Anti-substitusi lapisan tata kelola (Kontrak Konstitusional vs Partisipasi Sistemik Pihak Terdampak) hidup di bawah [Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola) dan [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#lapisan-kontrak-konstitusional).
+[Batasan konstitusional](core_05_band_integrative.md#batasan-konstitusional) hidup di bagian ini sebagai definisi penunjang yang dibaca bersama klaster; ia bukan anggota pemanggilan-bersama tambahan kecuali dituntut secara mandiri. Daftar pemilik positif bab mana yang memiliki ranah substantif mana hidup di [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-prinsip-definisi-dan-hak) (bagian 4–7). Tidak-pindah pemilik dan akibat supremasi dinyatakan di bawah [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack). Keberlakuan praktis klaim mengikat diarahkan di bawah [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](../../core_05.035_band_accountability.md#contestability). Anti-substitusi lapisan tata kelola (Kontrak Konstitusional vs Partisipasi Sistemik Pihak Terdampak) hidup di bawah [Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola) dan [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#lapisan-kontrak-konstitusional).
 
 **Anti-elusi.** Suatu perkara di dalam cakupan penerimaan tidak boleh disegmentasi menjadi pertanyaan terpisah tentang:
 
@@ -575,7 +575,7 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hilir: Prinsip: [15. Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (korpus dibaca sebagai keseluruhan terpadu); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — kaki **pengawasan**; [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — tujuan **Kesinambungan** di bawah inkorporasi dan kustodi; [2. Tafsir Konstitusional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (identifikasi sumber mengikat).
+- Hilir: Prinsip: [15. Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (korpus dibaca sebagai keseluruhan terpadu); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — kaki **pengawasan**; [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — tujuan **Kesinambungan** di bawah inkorporasi dan kustodi; [2. Tafsir Konstitusional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (identifikasi sumber mengikat).
 - Hilir: [Bab Enam Belas — Jembatan inkorporasi](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*teks **implementasi** yang diadopsi mana yang mengikat, penyematan edisi, rantai kustodi, dan disiplin anti-ketidakselarasan senyap*).
 - Baca bersama: [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack) dan [Batasan konstitusional](core_05_band_integrative.md#batasan-konstitusional).
 - Baca bersama: [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-prinsip-definisi-dan-hak) (*peta positif ranah→pemilik*, bagian 4–7).
@@ -619,10 +619,10 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hilir: Prinsip: [2. Tafsir Konstitusional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [15. Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (Tumpukan wewenang vs Hierarki internal dibaca bersama Bab Satu).
-- Hilir: [Bab Satu — §8 Tafsir Konstitusional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (bacaan terpadu dan hierarki jalan terakhir); [Bab Satu §8.4 Penyelesaian Konflik Makna Konstitusional](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*prosedur konflik tunggal, termasuk lapisan inkorporasi*); [Bab Empat Belas — Hierarki internal bagi pihak yang mengadopsi](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [Bab Enam Belas](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*jembatan inkorporasi — kustodi, edisi, adopsi; bukan rumah tumpukan kedua atau urutan-konflik*).
+- Hilir: Prinsip: [2. Tafsir Konstitusional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); [15. Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (Tumpukan wewenang vs Hierarki internal dibaca bersama Bab Satu).
+- Hilir: [Bab Satu — §8 Tafsir Konstitusional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (bacaan terpadu dan hierarki jalan terakhir); [Bab Satu §8.4 Penyelesaian Konflik Makna Konstitusional](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*prosedur konflik tunggal, termasuk lapisan inkorporasi*); [Bab Empat Belas — Hierarki internal bagi pihak yang mengadopsi](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [Bab Enam Belas](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*jembatan inkorporasi — kustodi, edisi, adopsi; bukan rumah tumpukan kedua atau urutan-konflik*).
 - Hilir: [Bab Enam — Cakupan lapisan](../../core_06.005_rights_part_a.md#12-layer-scope); [Bab Tiga Belas §4 Cakupan lapisan](../../core_15.000_non_regression.md#4-layer-scope) dan [Bab Lima Belas §12 Cakupan lapisan](../../core_17.000_amendment_ratification.md#12-layer-scope) (*tidak-pindah pemilik diterapkan secara lokal*); pernyataan pemilik pembuka bab lintas instrumen `core_*` bernomor.
-- Baca bersama: [Korpus](core_05_band_integrative.md#korpus); [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-prinsip-definisi-dan-hak) (*peta positif ranah→pemilik*, bagian 4–7); [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](core_05_band_accountability.md#contestability) (*keberlakuan praktis klaim mengikat*); [Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola) dan [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#lapisan-kontrak-konstitusional) (*anti-substitusi lapisan tata kelola*); [Batasan konstitusional](core_05_band_integrative.md#batasan-konstitusional); **CJS-0.1** (*perute topik implementasi*).
+- Baca bersama: [Korpus](core_05_band_integrative.md#korpus); [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-prinsip-definisi-dan-hak) (*peta positif ranah→pemilik*, bagian 4–7); [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](../../core_05.035_band_accountability.md#contestability) (*keberlakuan praktis klaim mengikat*); [Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola) dan [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#lapisan-kontrak-konstitusional) (*anti-substitusi lapisan tata kelola*); [Batasan konstitusional](core_05_band_integrative.md#batasan-konstitusional); **CJS-0.1** (*perute topik implementasi*).
 
 </details>
 
@@ -638,7 +638,7 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
 
     **Tumpukan wewenang:** kerangka sumber-wewenang berurut yang mengatur tafsir konstitusional, akibat adopsi, dan status lapisan lintas lapisan konstitusional, terinkorporasi, dan penunjang.
 
-    **Hierarki internal:** aturan pengurutan tafsir jalan-terakhir yang menyelesaikan ketidakcocokan residual yang sungguh-sungguh di dalam sumber konstitusional mengikat setelah bacaan terpadu di bawah [Bab Satu — §8 Tafsir Konstitusional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) telah habis. Di dalam sumber itu:
+    **Hierarki internal:** aturan pengurutan tafsir jalan-terakhir yang menyelesaikan ketidakcocokan residual yang sungguh-sungguh di dalam sumber konstitusional mengikat setelah bacaan terpadu di bawah [Bab Satu — §8 Tafsir Konstitusional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) telah habis. Di dalam sumber itu:
     - prinsip Bab Satu mengatur arah konstitusional tingkat tinggi;
     - kewajiban tingkat-pasal dan Lantai Hak mengatur persyaratan operatif spesifik;
     - prinsip mengendalikan atas pasal hanya bagi ketidakcocokan residual yang sungguh-sungguh; dan
@@ -669,7 +669,7 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
     <a id="supremacy-and-enforceability-c"></a>
     - **Supremasi:** Kewajiban korpus mengikat menang di dalam cakupan sumber, adopsi, dan lapisan tata kelola yang sah. Akibat supremasi itu adalah hasil menerapkan entri ini bersama [Korpus](core_05_band_integrative.md#korpus) operatif dan instrumen adopsi atau inkorporasi yang berlaku — termasuk supremasi [Bab Empat Belas](../../core_16.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) relatif terhadap norma lain dan tidak-menggeser hukum luar yang berlaku di [Bab Empat Belas §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law). Implementasi, teks penunjang, tatanan privat, kerangka darurat, atau praktik operasional tidak boleh mempersempit kewajiban mengikat itu di dalam cakupan sahnya.
 
-    Keberlakuan praktis klaim mengikat — kepatuhan yang dapat diamati dan dapat digugat, bukan janji kertas — dinilai di bawah [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](core_05_band_accountability.md#contestability). Anti-substitusi lapisan tata kelola (Kontrak Konstitusional vs Partisipasi Sistemik Pihak Terdampak) hidup di bawah [Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola) dan [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#lapisan-kontrak-konstitusional).
+    Keberlakuan praktis klaim mengikat — kepatuhan yang dapat diamati dan dapat digugat, bukan janji kertas — dinilai di bawah [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](../../core_05.035_band_accountability.md#contestability). Anti-substitusi lapisan tata kelola (Kontrak Konstitusional vs Partisipasi Sistemik Pihak Terdampak) hidup di bawah [Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola) dan [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#lapisan-kontrak-konstitusional).
 
     Bagi pihak yang mengadopsi, [Hierarki internal bagi pihak yang mengadopsi](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) di **Bab Empat Belas** menerapkan aturan berpasangan yang sama pada garis antara Konstitusi yang mengikat dan teks implementasi yang diadopsi:
     - Konstitusi ini dan definisi terpadunya mengendalikan bagaimana teks dibaca dan apa yang dihitung sebagai kepatuhan; dan
@@ -682,13 +682,13 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
     **Penilaian primer:**
     - Pertama identifikasi rantai edisi/kustodi operatif dan lapisan sumber di bawah Tumpukan wewenang.
     - Lalu identifikasi rumah pemilik di [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-prinsip-definisi-dan-hak) (dan klaim pemilik pembuka bab); terapkan substansi hanya dari rumah pemilik itu — di tempat lain pakai penunjuk saja.
-    - Lalu terapkan bacaan terpadu di bawah [Bab Satu — §8 Tafsir Konstitusional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
+    - Lalu terapkan bacaan terpadu di bawah [Bab Satu — §8 Tafsir Konstitusional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
     - Jaga akibat pelindung paling penuh Konstitusi sebagai keseluruhan terpadu dan bawaan tidak-kontraksi [Bab Enam](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights).
     - Pakai Hierarki internal hanya sebagai aturan residual jalan-terakhir; jangan memakainya untuk mengganti bacaan terpadu biasa atau untuk menyelesaikan semata ketidaksetujuan atas makna kanonik suatu istilah.
     - Di mana sengketa adalah makna istilah, definisi kanonik Bab Lima mengatur pada setiap lapisan.
     - Bagi topik implementasi yang diarahkan lintas CS, CI, CF, dan CJS, terapkan **CJS-0.1** (Perute topik) setelah identifikasi pemilik.
     - Pastikan kewajiban mengikat menang di dalam cakupan adopsi dan lapisan tata kelola yang sah, dan bahwa kerangka implementasi, penunjang, privat, atau darurat tidak mempersempitnya.
-    - Bagi keberlakuan praktis klaim itu, terapkan [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](core_05_band_accountability.md#contestability); bagi perutean Kontrak vs Pihak Terdampak, terapkan [Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola).
+    - Bagi keberlakuan praktis klaim itu, terapkan [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](../../core_05.035_band_accountability.md#contestability); bagi perutean Kontrak vs Pihak Terdampak, terapkan [Pembukaan §3.3](core_00_preamble.md#33-lapisan-tata-kelola).
     - Tolak tafsir yang:
       - membalik presedensi sumber;
       - mengaburkan status sumber;
@@ -706,8 +706,8 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
     - memakai kerangka proses, tata kelola, atau implementasi untuk mempersempit, mendefinisikan ulang, atau memindahkan Lantai Hak [Bab Enam](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) yang bertentangan dengan tidak-regresi [Bab Tiga Belas](../../core_15.000_non_regression.md) dan kontrak pembuka Bab Enam;
     - mengada-adakan taksonomi atau alur kerja paralel di lapisan non-pemilik ketika [daftar pemilik Pembukaan](core_00_preamble.md#4-prinsip-definisi-dan-hak) sudah menugaskan rumah kanonik;
     - mengklaim supremasi atau kepatuhan dengan cara yang membalik hierarki sumber yang mapan, atau membiarkan implementasi, teks penunjang, tatanan privat, kerangka darurat, atau praktik operasional menggeser kewajiban korpus mengikat di dalam cakupan sahnya;
-    - memakai Hierarki internal sebagai jalan pintas untuk memilih bacaan yang lebih keras, untuk menyusutkan perlindungan Lantai Hak [Bab Enam](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) di luar apa yang [Bab Satu](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) secara tegas izinkan, atau untuk menukar satu lapisan sumber dengan yang lain dalam bacaan biasa;
-    - memperlakukan definisi Bab Lima sebagai tubuh hukum saingan yang menimpa prinsip atau pasal ([Bab Satu — §8 Tafsir Konstitusional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); atau
+    - memakai Hierarki internal sebagai jalan pintas untuk memilih bacaan yang lebih keras, untuk menyusutkan perlindungan Lantai Hak [Bab Enam](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) di luar apa yang [Bab Satu](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) secara tegas izinkan, atau untuk menukar satu lapisan sumber dengan yang lain dalam bacaan biasa;
+    - memperlakukan definisi Bab Lima sebagai tubuh hukum saingan yang menimpa prinsip atau pasal ([Bab Satu — §8 Tafsir Konstitusional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)); atau
     - bagi pihak yang mengadopsi, memperlakukan teks implementasi yang diadopsi sebagai menimpa Konstitusi ini di dalam cakupan adopsi, atau sebagai melonggarkan lantai tidak-regresi [Bab Tiga Belas](../../core_15.000_non_regression.md) ([Hierarki internal bagi pihak yang mengadopsi](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) di **Bab Empat Belas**).
 
 ---
@@ -719,8 +719,8 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §3 Batasan Prinsip yang Tidak Bisa Ditawar: Keselamatan dan Kebenaran](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Bab Satu §6 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-- Baca bersama: [Keselamatan (batasan)](core_05_band_continuity.md#safety-constraint), [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack), dan [Bahaya](core_05_band_accountability.md#harm).
+- Hulu: Prinsip: [Bab Satu §3 Batasan Prinsip yang Tidak Bisa Ditawar: Keselamatan dan Kebenaran](core_01_a_values_principles.md); [Bab Satu §6 Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md).
+- Baca bersama: [Keselamatan (batasan)](../../core_05.040_band_continuity.md#safety-constraint), [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack), dan [Bahaya](../../core_05.035_band_accountability.md#harm).
 
 </details>
 
@@ -733,9 +733,9 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
 
     Batasan Konstitusional diklasifikasi ke dalam **jenis** berikut, diurut dari daya kendali tertinggi ke terendah. Jenis lebih tinggi mengendalikan jenis lebih rendah: jenis lebih rendah tidak boleh mempersempit, mendefinisikan ulang, atau menggeser jenis lebih tinggi di dalam cakupan sahnya. Entri ini mengklasifikasi dan mengarahkan jenis; kewajiban lapisan-pemilik tetap pada rumah kanoniknya.
 
-    1. **Batasan prinsip yang tidak bisa ditawar** — [Keselamatan (batasan)](core_05_band_continuity.md#safety-constraint) dan [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional) sebagai batas tidak-bisa-ditawar Bab Satu.
+    1. **Batasan prinsip yang tidak bisa ditawar** — [Keselamatan (batasan)](../../core_05.040_band_continuity.md#safety-constraint) dan [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional) sebagai batas tidak-bisa-ditawar Bab Satu.
     2. **Batasan Lantai Hak** — minimum Bab Enam dan aturan tidak-kontraksi yang mencegah kerangka implementasi, proses, tata kelola, darurat, transisi, atau tatanan privat mempersempit hak yang dilindungi.
-    3. **Batasan pembatasan dan limitasi** — [Keperluan](core_05_band_accountability.md#necessity), [Proporsionalitas](core_05_band_accountability.md#proportionality), pemilihan efektif paling-tidak-membatasi, keberbatasan waktu, dapat-ditinjau, dan disiplin minimalisasi beban yang mengatur pembatasan yang memengaruhi hak.
+    3. **Batasan pembatasan dan limitasi** — [Keperluan](../../core_05.035_band_accountability.md#necessity), [Proporsionalitas](../../core_05.035_band_accountability.md#proportionality), pemilihan efektif paling-tidak-membatasi, keberbatasan waktu, dapat-ditinjau, dan disiplin minimalisasi beban yang mengatur pembatasan yang memengaruhi hak.
     4. **Batasan epistemik dan pengungkapan** — [Kebenaran (batasan konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional), [Integritas epistemik](core_05_band_oversight.md#integritas-epistemik), batas pengungkapan, batas publikasi, batas data-dilindungi dan keadaan-internal, dan keseimbangan pengungkapan peka-keamanan.
     5. **Batasan penilaian** — [Batasan kelengkapan penilaian](core_05_band_oversight.md#kendala-kelengkapan-evaluasi), [Batasan integritas materialitas](core_05_band_oversight.md#kendala-integritas-materialitas), konsistensi waktu, pembatalan divergensi indikator pengganti, dan persyaratan beban, ketelusuran, dan verifikasi Bab Empat.
     6. **Batasan operasional dan implementasi** — batas kapasitas, kelayakan, keamanan, kerahasiaan, waktu, teknis, atau sumber daya yang diakui hanya di dalam cakupan adopsi dan lapisan-sumber yang sah, dan hanya di mana mereka tidak mempersempit jenis lebih tinggi.
@@ -748,7 +748,7 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
       - kustodi; dan
       - disiplin status sumber.
     - Kewajiban yang diklasifikasi tetap dimiliki rumah pemilik kanoniknya di bawah [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-prinsip-definisi-dan-hak).
-    - Keberlakuan praktis klaim batasan mengikat diarahkan di bawah [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](core_05_band_accountability.md#contestability).
+    - Keberlakuan praktis klaim batasan mengikat diarahkan di bawah [Dapat diaudit](core_05_band_oversight.md#keter-auditan) dan [Dapat digugat](../../core_05.035_band_accountability.md#contestability).
   - **Di luar cakupan:** Panduan opsional, norma aspirasional, atau preferensi kebijakan yang tidak menentukan keabsahan suatu klaim konstitusional, tindakan sistem, atau tindakan tata kelola.
 <a id="constitutional-constraint-a"></a>
 - **Cara mengukur dan menilai**
@@ -776,7 +776,7 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
       - akses pemulihan;
     - memperlakukan label jenis sebagai pengganti entri O/M/A/C spesifik, pasal Lantai Hak, atau aturan lapisan-pemilik yang mengatur keputusan;
     - menerapkan satu jenis sambil mensegmentasi jenis lain yang berlaku secara material;
-    - secara material mendegradasi Keselamatan, Kebenaran, atau persyaratan konstitusional mengikat lain lewat perilaku atau hasil sistem, termasuk akibat [Bahaya](core_05_band_accountability.md#harm) yang:
+    - secara material mendegradasi Keselamatan, Kebenaran, atau persyaratan konstitusional mengikat lain lewat perilaku atau hasil sistem, termasuk akibat [Bahaya](../../core_05.035_band_accountability.md#harm) yang:
       - langsung;
       - tidak langsung;
       - tertunda; atau
@@ -785,7 +785,7 @@ Lihat **Pemanggilan bersama dan pemenuhan**.
 
 ---
 
-**Berkas sebelumnya:** [core_05_band_continuity.md](core_05_band_continuity.md)
+**Berkas sebelumnya:** [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
 
 **Berkas berikutnya (bahasa ini):** [core_05_band_oversight.md](core_05_band_oversight.md)
 

@@ -381,7 +381,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 *In plain terms: a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.*
 
 - **What it is**
-  - **In scope:** A constitutional requirement attaches to the substantive act. It cannot be avoided by changing the label, route, owner, forum, document, or timing of that same act, and packaging the act as a special process does not skip it. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, and comparable framings are allowed only if the step itself follows this Constitution. They may not be used to bypass Rights-Floor minimums, the rules for lawfully changing the Constitution, [Contestability](core_05.035_band_accountability.md#contestability), [Auditability](core_05.050_band_oversight.md#auditability), [Accountability](core_05.005_apex_accountability_leg.md#accountability), or functional independence and segregation of duties.
+  - **In scope:** A constitutional requirement attaches to the substantive act. It cannot be avoided by changing the label, route, owner, forum, document, or timing of that same act, and packaging the act as a special process does not skip it. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, and comparable framings are allowed only if the step itself follows this Constitution. They may not be used to bypass Rights-Floor minimums, the rules for lawfully changing the Constitution, [Contestability](core_05.035_band_accountability.md#contestability), [Auditability](core_05.050_band_oversight.md#auditability), [Accountability](core_05.005_apex_accountability_leg.md#accountability), or functional independence and separation of duties.
   - **Out of scope:** an ordinary choice of form, route, or timing that leaves every constitutional requirement for the act in force.
 <a id="no-bypass-a"></a>
 - **How to measure and assess**
@@ -875,7 +875,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 - Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05.045_band_integrative.md#incentive-alignment-semi-independent)
 - Read with:
   - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment);
-  - [Chapter One §18.3 Segregation of Duties](core_01.015_stewardship_capacity_principles.md#183-segregation-of-duties) (1.015 §18.3) (*the other half of the pair*);
+  - [Chapter One §18.3 Separation of Duties](core_01.015_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3) (*the other half of the pair*);
   - [Auditability](core_05.050_band_oversight.md#auditability);
   - [Contestability](core_05.035_band_accountability.md#contestability).
 
@@ -891,7 +891,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - **What they may not monopolize:** the practical ability to detect, review, correct, or interpret material constitutional failure.
     - **What must remain available:** plural and structurally independent oversight pathways where [material stake](core_00.000_preamble.md#material-stake) requires them.
     - **Limits:** lawful security and confidentiality limits still apply; they must preserve maximum feasible [Auditability](core_05.050_band_oversight.md#auditability) and [Contestability](core_05.035_band_accountability.md#contestability).
-    - **Paired rule:** this is the many-eyes half of a pair with [Chapter One §18.3 Segregation of Duties](core_01.015_stewardship_capacity_principles.md#183-segregation-of-duties): plurality keeps oversight from being cornered by one actor; segregation keeps it from being performed by the actor under review.
+    - **Paired rule:** this is the many-eyes half of a pair with [Chapter One §18.3 Separation of Duties](core_01.015_stewardship_capacity_principles.md#183-separation-of-duties): plurality keeps oversight from being cornered by one actor; separation of duties keeps it from being performed by the actor under review.
   - **Out of scope:**
     - capture that has already taken hold — that is [System Capture](core_05.040_band_continuity.md#system-capture) and [Chapter One §19.3.1 Capture Escalation Triggers](core_01.015_stewardship_capacity_principles.md#1931-capture-escalation-triggers); and
     - correction once a failure is verified — that is [Chapter One §19.4 Misalignment Correction and Capture Response](core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response).

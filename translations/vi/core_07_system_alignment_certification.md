@@ -12,10 +12,10 @@
 > | Phần | Tệp | Nắm |
 > |------|------|------|
 > | **Phần A — Đánh giá** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: mục đích, hạng hệ thống, đánh giá toàn hệ thống (gồm phạm vi Điều lệ đối ranh giới chức năng), móc đánh giá lĩnh vực, đi qua minh họa theo hạng |
-> | **Phần B — Hồ sơ và quá trình** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: hồ sơ chứng nhận (gồm các trường [Điều lệ](core_05_band_continuity.md#charter) đang quản trị), minh bạch/khả năng tranh biện, vai trò diễn đàn, chuỗi giám sát, cầu quỹ đạo, mở lại — đánh số chương liên tục từ Phần A §10 |
+> | **Phần B — Hồ sơ và quá trình** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: hồ sơ chứng nhận (gồm các trường [Điều lệ](../../core_05.040_band_continuity.md) đang quản trị), minh bạch/khả năng tranh biện, vai trò diễn đàn, chuỗi giám sát, cầu quỹ đạo, mở lại — đánh số chương liên tục từ Phần A §10 |
 >
 > Neo kế thừa từ Chương Bảy một tệp cũ được giữ trên các tệp Phần A và Phần B. Liên kết **Chương Bảy** chung trong tệp khác được định tuyến tới phần thích hợp theo số mục.
-> Hình thành Điều lệ thể chế, trường tối thiểu, và nghĩa vụ rà định kỳ sống ở [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** — Chương Bảy dùng các trường đó; nó không định nghĩa lại chúng.
+> Hình thành Điều lệ thể chế, trường tối thiểu, và nghĩa vụ rà định kỳ sống ở [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** — Chương Bảy dùng các trường đó; nó không định nghĩa lại chúng.
 
 >
 > **Trước (ngôn ngữ này):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

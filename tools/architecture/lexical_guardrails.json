@@ -91,6 +91,18 @@
       "prefer": "the specific thing it names (System Charter, Institutional Charter, rule set, record, act); otherwise document or text"
     },
     {
+      "avoid": "segregation",
+      "prefer": "separation of duties for the seat rule; separate holding (funds, weights, keys), isolation (information, data), or separation otherwise"
+    },
+    {
+      "avoid": "four-seat floor",
+      "prefer": "Four-Seat Constitutional Requirement (Chapter Eight §2), or Four-Seat Requirement for the short form; floor is reserved for the Chapter Six Rights Floor"
+    },
+    {
+      "avoid": "disinterested",
+      "prefer": "independent (defined in Chapter Five, Independence), usually independent of the party or act; impartial only when the sense is unbiased"
+    },
+    {
       "avoid": "Definition map",
       "prefer": "integrate term relationships in plain prose; use *In plain terms* for reader orientation"
     },

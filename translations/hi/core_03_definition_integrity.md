@@ -38,7 +38,7 @@
 
 - ऊर्ध्व: सिद्धांत: [अध्याय दो, §1 — उद्देश्य और भूमिका](core_02_definition_structure.md#1-उददशय-और-भमक); [अध्याय दो, §2 परिभाषा अखंडता अपेक्षा](core_02_definition_structure.md#2-परभष-अखडत-अपकष)।
 - अधो: [अध्याय तीन, अनुभाग 2 — प्रेक्षणीय प्रणाली आचरण से गैर-अनुपालन](#2-परकषणय-परणल-आचरण-स-गर-अनपलन); [अध्याय चार, अनुभाग 2 — परिभाषा पता-योग्यता अपेक्षा](core_04_burden_traceability_verification.md#2-परभष-पत-यगयत-अपकष); [अध्याय चार, अनुभाग 5 — अनुपालन साक्ष्य मानक](core_04_burden_traceability_verification.md#5-अनपलन-सकषय-मनक); [अध्याय दस — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)।
-- साथ पढ़ें: [अध्याय एक, अनुभाग 4.2 — सत्य (ज्ञानमीमांसीय अखंडता बंधन)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — प्रेक्षणीय आचरण पर आधारित व्याख्या, कथित संरचना या आशय पर नहीं, परिभाषा-अखंडता परत पर संवैधानिक सत्य बंधन को संक्रियात्मक बनाती है।
+- साथ पढ़ें: [अध्याय एक, अनुभाग 4.2 — सत्य (ज्ञानमीमांसीय अखंडता बंधन)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) — प्रेक्षणीय आचरण पर आधारित व्याख्या, कथित संरचना या आशय पर नहीं, परिभाषा-अखंडता परत पर संवैधानिक सत्य बंधन को संक्रियात्मक बनाती है।
 
 </details>
 
@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [अध्याय तीन, अनुभाग 2 — प्रेक्षणीय प्रणाली आचरण से गैर-अनुपालन](#2-परकषणय-परणल-आचरण-स-गर-अनपलन); [अध्याय दो, §2 परिभाषा अखंडता अपेक्षा](core_02_definition_structure.md#2-परभष-अखडत-अपकष)।
-- अधो: [अध्याय चार, अनुभाग 2 — परिभाषा पता-योग्यता अपेक्षा](core_04_burden_traceability_verification.md#2-परभष-पत-यगयत-अपकष); [अध्याय नौ — प्रणाली-संरेखण प्रमाणन](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [अध्याय दस — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय ग्यारह — प्रस्थिति प्रभाव और एकीकरण](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 संवैधानिक दिक्सूचक और समूह मानचित्र](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
+- अधो: [अध्याय चार, अनुभाग 2 — परिभाषा पता-योग्यता अपेक्षा](core_04_burden_traceability_verification.md#2-परभष-पत-यगयत-अपकष); [अध्याय नौ — प्रणाली-संरेखण प्रमाणन](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [अध्याय दस — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय ग्यारह — प्रस्थिति प्रभाव और एकीकरण](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 संवैधानिक दिक्सूचक और समूह मानचित्र](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
 - साथ पढ़ें: [गैर-अनुपालन निष्कर्ष प्रोफ़ाइल](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — प्रोफ़ाइल क्षेत्रों का प्रामाणिक O/M/A/C घर; [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims)।
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 संक्रियात्मक बंधन
 
-गैर-अनुपालन संयुक्त कार्यान्वयन संग्रह में संक्रियात्मक बंधनों के विरुद्ध भी पाया जा सकता है। तयशुदा निष्कर्ष प्रोफ़ाइल और वे उन निष्कर्षों से कैसे जुड़ती हैं वहाँ सँभाली जाती हैं — इस अध्याय में नहीं। देखें [CJS-3.1 संवैधानिक दिक्सूचक और समूह मानचित्र](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
+गैर-अनुपालन संयुक्त कार्यान्वयन संग्रह में संक्रियात्मक बंधनों के विरुद्ध भी पाया जा सकता है। तयशुदा निष्कर्ष प्रोफ़ाइल और वे उन निष्कर्षों से कैसे जुड़ती हैं वहाँ सँभाली जाती हैं — इस अध्याय में नहीं। देखें [CJS-3.1 संवैधानिक दिक्सूचक और समूह मानचित्र](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
 
 ---
 

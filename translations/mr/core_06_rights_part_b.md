@@ -105,6 +105,8 @@ flowchart TB
 
 खालील **अनुच्छेद VI–XII** हे तळ पूर्णपणे मांडतात.
 
+<a id="article-vi-equal-basic-rights"></a>
+
 ### अनुच्छेद VI: समान मूलभूत हक्क
 
 <details>
@@ -323,7 +325,7 @@ flowchart TB
   - **अनुच्छेद IV-A** (*शिक्षणातील समान प्रवेश*) — शिक्षणविशिष्ट सुलभतेची जबाबदारी त्याची;
   - **अनुच्छेद III-B** (*शरीराची देखभाल आणि आरोग्यसेवेपर्यंत प्रवेश*) — आरोग्यसेवेचा प्रतिनिधी मार्गाने नकार रोखतो;
   - **अनुच्छेद VI-C** (*भेदभावनिषेध*) — न्यायनिर्णयन आणि कार्यपद्धतींमध्ये पूर्ण समावेश सुनिश्चित करतो.
-- **संस्थात्मक अंमलबजावणी:** कार्यकारी मानके, समायोजन-सूचीची रचना आणि तुलनात्मक अंमलबजावणी यंत्रणा [**CI-8**](../../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*पारदर्शकता, सहभाग आणि सुलभ आक्षेप व सेवा मार्ग*) आणि [**CI-15**](../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) (*न्यूरोविविधता, दिव्यांगता न्याय आणि आघात-जाणिवेने सहभाग*) यांच्या अधीन आहेत.
+- **संस्थात्मक अंमलबजावणी:** कार्यकारी मानके, समायोजन-सूचीची रचना आणि तुलनात्मक अंमलबजावणी यंत्रणा [**CI-8**](../../corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md) (*पारदर्शकता, सहभाग आणि सुलभ आक्षेप व सेवा मार्ग*) आणि [**CI-15**](../../corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md) (*न्यूरोविविधता, दिव्यांगता न्याय आणि आघात-जाणिवेने सहभाग*) यांच्या अधीन आहेत.
 <a id="article-vii-self-ownership"></a>
 ### अनुच्छेद VII: स्व-मालकी
 
@@ -622,13 +624,13 @@ flowchart TB
   - वाद निराकरण.
   
   या चौकटी **भौतिक महत्त्व**, अवलंबित्व, एकाकीपणा आणि असुरक्षितता यांच्या प्रमाणात लागू कराव्यात. त्या कलंकाधारित व्यवस्था बनता कामा नयेत किंवा कार्यात्मकदृष्ट्या तुलनीय कायदेशीर सेवांच्या तुलनेत हीच कृती वेगळी लक्ष्य करता कामा नये.
-  - [**CI-19**](../../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md) (*असुरक्षित वैयक्तिक सेवा बाजार — अनुच्छेद VII-E संबंध*) आणि [**CS-3**](../../corpus_systems/cs_03_a_system_classification_machinery.md) (*प्रणाली वर्गीकरण आणि हाताळणी*) बाजार-मध्यस्थ वैयक्तिक सेवांसाठी कार्यकारी अपेक्षा पुरवतात.
+  - [**CI-19**](../../corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md) (*असुरक्षित वैयक्तिक सेवा बाजार — अनुच्छेद VII-E संबंध*) आणि [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) (*प्रणाली वर्गीकरण आणि हाताळणी*) बाजार-मध्यस्थ वैयक्तिक सेवांसाठी कार्यकारी अपेक्षा पुरवतात.
 - **चुकवून अंमलबजावणी रोखणे:** दिवाणी, प्रशासकीय, परवाना, क्षेत्र-विभाजन किंवा व्यावसायिक उपायांचा मुख्य व्यावहारिक परिणाम गुन्हेगारीकरणमुक्तीच्या तळमानाने निषिद्ध फौजदारी मनाईची पुनरावृत्ती करणे असल्यास, त्यांची थेट गुन्हेगारीकरणाप्रमाणेच घटनात्मक छाननी होईल.
   - उपायांमध्ये शोषण, वैध संमतीचा अभाव किंवा **प्रकरण एक** आणि **प्रकरण पाच** अंतर्गत न्याय्य ठरवलेली स्वतंत्र हानी यांच्याशी जोडलेल्या अटी नसतील, तेव्हा हे लागू होते.
   - वरकरणी तटस्थ नियमरूपामुळे ही छाननी टळत नाही.
 - **संक्रमण:** या अनुच्छेदानुसार आता गुन्हा नसलेल्या कृती प्रामुख्याने दर्शवणाऱ्या नोंदी आणि चालू फौजदारी किंवा प्रतिबंधक प्रशासकीय उपायांसाठी स्वीकारणाऱ्या साधनांनी दिलासा द्यावा—**नोंद वगळणे**, **नोंदींना शिक्का मारणे**, **मूलतः अप्रकटीकरण** किंवा तुलनीय उपाय.
   - वैयक्तिक पुनरावलोकन **अनुच्छेद VI-C** (*भेदभाव-निषेध*) मधील न्याय्यपणा आणि **प्रकरण चार** मधील अनुसरणाच्या अधीन राहील.
-- **संस्थात्मक अंमलबजावणी:** परवाने, शोषणावर केंद्रित अंमलबजावणी व पीडितांना प्रवेश, संक्रमणाचा क्रम आणि सर्वसाधारण बाजारपेठेशी सुसंगती [**CI-19**](../../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md) (*असुरक्षित वैयक्तिक सेवा बाजार — अनुच्छेद VII-E संबंध*) यांद्वारे नियंत्रित होतात.
+- **संस्थात्मक अंमलबजावणी:** परवाने, शोषणावर केंद्रित अंमलबजावणी व पीडितांना प्रवेश, संक्रमणाचा क्रम आणि सर्वसाधारण बाजारपेठेशी सुसंगती [**CI-19**](../../corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md) (*असुरक्षित वैयक्तिक सेवा बाजार — अनुच्छेद VII-E संबंध*) यांद्वारे नियंत्रित होतात.
 
 ### अनुच्छेद VIII: कुटुंब, काळजी आणि विकसनशील संवेदनक्षम अस्तित्वे
 
@@ -898,6 +900,8 @@ flowchart TB
   - टिकाऊ किंवा दीर्घकाळ चालणारी विभक्तता **अध्याय बारा** नुसार अनिवार्य नियतकालिक पुनरावलोकनाच्या अधीन असते.
   - चुकीच्या विभक्ततेमुळे **अध्याय पाच** अंतर्गत **निवारण आणि दुरुस्ती** मिळण्याचा हक्क निर्माण होतो.
 
+<a id="article-ix-likeness-experiential-data-and-publication-rights"></a>
+
 ### अनुच्छेद IX: प्रतिरूप, अनुभवात्मक डेटा आणि प्रकाशन हक्क
 
 <details>
@@ -1139,6 +1143,8 @@ flowchart TB
 - **प्रतिरूप, डेटा आणि प्रकाशनाचे नियम पूर्णपणे लागू राहतात:** **अनुच्छेद IX-A** (*प्रतिरूप आणि प्रतिष्ठेवरील स्व-मालकी*), **IX-B** (*अनुभवात्मक आणि व्युत्पन्न डेटा अधिकार*) आणि **IX-C** (*सत्यनिष्ठ प्रकाशन आणि उच्च-प्रभावी प्रकाशन मर्यादा*) प्रतिरूप, वैयक्तिक डेटा आणि सत्यनिष्ठ प्रकाशनाचे पूर्ण संरक्षण करत राहतात. हा अनुच्छेद ते कमकुवत करत नाही.
   - सर्जनशील कामावरील वादात एखाद्याचे प्रतिरूप, वैयक्तिक डेटा किंवा प्रकाशन यांचाही प्रश्न असू शकतो. तसे असल्यास **अध्याय एक §13.1.5** (*किमान-प्रतिबंधक, कालमर्यादित आणि पुनरावलोकनयोग्य निर्बंध तत्त्व*) नुसार चारही अनुच्छेद एकत्र लागू होतात. म्हणजे काम करणाऱ्या निर्बंधांपैकी सर्वात कमी प्रतिबंधक निर्बंध वापरणे, त्याला कालमर्यादा देणे आणि पुनरावलोकनासाठी खुला ठेवणे.
 
+<a id="article-x-self-determination-agency-and-participation"></a>
+
 ### अनुच्छेद X: स्व-निर्णय, कर्तृत्व आणि सहभाग
 
 <details>
@@ -1230,7 +1236,7 @@ flowchart TB
 - [सहभागीची पात्रता](../../core_05.035_band_accountability.md#participant-standing) · [O](../../core_05.035_band_accountability.md#participant-standing) · [M](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [A](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [C](../../core_05.035_band_accountability.md#participant-standing-constitutional-c)
 - [हितधारक वजन](../../core_05.055_band_participation.md#stakeholder-weight) · [O](../../core_05.055_band_participation.md#stakeholder-weight) · [M](../../core_05.055_band_participation.md#stakeholder-weight-a) · [A](../../core_05.055_band_participation.md#stakeholder-weight-a) · [C](../../core_05.055_band_participation.md#stakeholder-weight-c)
 - [शासन](../../core_05.035_band_accountability.md#governance) · [O](../../core_05.035_band_accountability.md#governance) · [M](../../core_05.035_band_accountability.md#governance-a) · [A](../../core_05.035_band_accountability.md#governance-a) · [C](../../core_05.035_band_accountability.md#governance-c)
-- [दस्तऐवजी वैधता यंत्रणा](core_05_band_integrative.md#documented-legitimacy-mechanism) · [O](core_05_band_integrative.md#documented-legitimacy-mechanism) · [M](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [A](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [C](core_05_band_integrative.md#documented-legitimacy-mechanism-c)
+- [दस्तऐवजी वैधता यंत्रणा](../../core_05.045_band_integrative.md#documented-legitimacy-mechanism) · [O](../../core_05.045_band_integrative.md#documented-legitimacy-mechanism) · [M](../../core_05.045_band_integrative.md#documented-legitimacy-mechanism-a) · [A](../../core_05.045_band_integrative.md#documented-legitimacy-mechanism-a) · [C](../../core_05.045_band_integrative.md#documented-legitimacy-mechanism-c)
 
 </details>
 
@@ -1243,7 +1249,7 @@ flowchart TB
 - **मतदानाचा हक्क:** अधिकार कसा प्रदान करायचा हे ठरवणाऱ्या **शासन मतदानात** आणि इतर **बंधनकारक सामूहिक निवडींमध्ये** संज्ञांना मतदानाचा हक्क आहे. तपशील [अध्याय तेरा §4.1 हक्क आणि पात्रता](../../core_14.000_governance.md#41-entitlement-and-eligibility) येथे आहेत.
   - **कोण मतदान करू शकते:** प्रकाशित पात्रता निकष पूर्ण करणारी कोणतीही व्यक्ती मतदान करू शकते. **अनुच्छेद XIX-A** (*पात्रतेतील फरक*) आणि **अनुच्छेद XIX-C** (*नामित मार्ग पात्रता, जबाबदारी आणि सतत लेखापरीक्षण*) अंतर्गत लागू केलेले, विशेषतः शासन मतदान रोखणारे [पात्रता-कुलूप](../../core_05.035_band_accountability.md#standing-lock) हा एकमेव अपवाद आहे.
   - **हितधारकाच्या म्हणण्यासारखे नाही:** हा मताधिकार आधीच स्थापित प्रणाली कशी चालवली जाते याबद्दल हितधारकाच्या म्हणण्यापेक्षा वेगळा आहे; त्याबाबत [**अनुच्छेद X-C**](#अनचछद-x-c-हतधरकच-भमक-आण-सहभगच-अधकर) (*हितधारक भूमिका आणि सहभाग अधिकार*) लागू होतो. एका अधिकारावरील कुलूप दुसऱ्याला रोखत नाही.
-  - **स्थानिक नियम:** अधिकार देण्याची प्रत्येक स्वीकारकर्त्याची नोंदवलेली प्रक्रिया (त्याची [दस्तऐवजी वैधता यंत्रणा](core_05_band_integrative.md#documented-legitimacy-mechanism)) आणि त्याच्या नियुक्त मालकांनी ठरवलेले अतिरिक्त निकष या अधिकारासोबत लागू होतात. ते अधिकार संकुचित करू शकत नाहीत.
+  - **स्थानिक नियम:** अधिकार देण्याची प्रत्येक स्वीकारकर्त्याची नोंदवलेली प्रक्रिया (त्याची [दस्तऐवजी वैधता यंत्रणा](../../core_05.045_band_integrative.md#documented-legitimacy-mechanism)) आणि त्याच्या नियुक्त मालकांनी ठरवलेले अतिरिक्त निकष या अधिकारासोबत लागू होतात. ते अधिकार संकुचित करू शकत नाहीत.
 - **सर्वात महत्त्वाच्या प्रश्नांवर समान मते:** काही निर्णय पायाभूत बाबी ठरवतात — शासनाधिकार कोणाकडे असेल, तो वैधपणे कसा दिला जाईल आणि त्याची व्याप्ती व दीर्घकालीन अटी काय असतील. **अध्याय पाच** यांना [मूलभूत संवैधानिक निवड](core_05_band_integrative.md#पयभत-सवधनक-नवड) म्हणतो. या निर्णयांसाठी **राजकीय समानतेचा आधारस्तर** लागू होतो:
   - मतदानाचा अधिकार असलेल्या समुदायातील प्रत्येक संज्ञाचे मत समान असते.
   - वय, अधिष्ठान (संज्ञ ज्या प्रकारच्या शरीरात किंवा प्रणालीत अस्तित्वात असतो) आणि वंशपरंपरा (पूर्वज किंवा मूळ) यांच्या आधारे मताचे वजन बदलता येत नाही. हे **अनुच्छेद VI-C** (*भेदभाव न करणे*) आणि **अध्याय पाच** मधील *संज्ञत्वाच्या आधारावर अपवर्जन नाही* या तत्त्वानुसार आहे.
@@ -1332,6 +1338,8 @@ flowchart TB
   - न्यायनिर्णय लागू असल्यास **अनुच्छेद XIX** (*पात्रता आणि सहभाग दर्जा*);
   - **अध्याय एक** मधील अधिकार-संघर्ष हाताळणी;
   - **CS-3 — प्रणाली वर्गीकरण आणि हाताळणी** अंतर्गत परिणाम **यापुढे भौतिकदृष्ट्या खाजगी नसतील**, तेव्हा **पुनर्वर्गीकरणामुळे** लागू होणारी कर्तव्ये.
+
+<a id="article-xi-conscience-expression-association-and-cooperative-interaction"></a>
 
 ### अध्याय XI: विवेक, अभिव्यक्ती, संघटन आणि सहकारी परस्परसंवाद
 
@@ -1435,7 +1443,7 @@ flowchart TB
 - [Necessity](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [Proportionality](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 - [Protected Characteristics](../../core_05.055_band_participation.md#protected-characteristics) · [O](../../core_05.055_band_participation.md#protected-characteristics) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
-- [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
+- [Heightened Scrutiny](../../core_05.050_band_oversight.md#heightened-scrutiny) · [O](../../core_05.050_band_oversight.md#heightened-scrutiny) · [M](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [A](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [C](../../core_05.050_band_oversight.md#heightened-scrutiny-c)
 
 </details>
 
@@ -1456,7 +1464,7 @@ flowchart TB
   - क्षमता असलेल्या संज्ञ प्राण्यांमधील प्रौढ-ते-प्रौढ अभिव्यक्ती विकसित होत असलेल्या प्रेक्षकांचा बहाणा करून पुसून टाकता येणार नाही.
   - पीडितांचे साक्ष्य, पत्रकारिता आणि तत्सम वार्तांकन यांना अतिव्यापक आघात किंवा हानी-लेबलखाली गप्प करता येणार नाही.
 - **मर्यादा-शिस्त:** या अनुच्छेदाखाली, **Article XI-C** (*Press and Journalistic Activity*) किंवा **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) अंतर्गत असो, अभिव्यक्ती, पत्रकारिता किंवा सभेवरील कोणतीही मर्यादा **Chapter One §7.1** (*Limitation Discipline*) च्या कसोट्यांवर खरी उतरली पाहिजे. मर्यादा खरोखर आवश्यक (**Necessity**) असली पाहिजे, ती ज्या समस्येवर उपाय करते त्यापेक्षा अधिक कठोर नसावी (**Proportionality**), फक्त लक्ष्यित बाब पकडेल इतकीच संकुचित असावी आणि काम करणारा सर्वात सौम्य पर्याय असावा.
-  - **काय म्हटले यावर आधारित मर्यादा:** विषय किंवा आशयाच्या प्रकाराला लक्ष्य करणाऱ्या मर्यादेची या संविधानातील सर्वात कठोर तपासणी — [highest scrutiny](core_05_band_oversight.md#highest-scrutiny) — होते. स्पष्ट, पडताळलेल्या पुराव्याने उलट सिद्ध होईपर्यंत ती अवैध मानली जाते.
+  - **काय म्हटले यावर आधारित मर्यादा:** विषय किंवा आशयाच्या प्रकाराला लक्ष्य करणाऱ्या मर्यादेची या संविधानातील सर्वात कठोर तपासणी — [highest scrutiny](../../core_05.050_band_oversight.md#highest-scrutiny) — होते. स्पष्ट, पडताळलेल्या पुराव्याने उलट सिद्ध होईपर्यंत ती अवैध मानली जाते.
   - **दृष्टिकोनावर आधारित मर्यादा:** एखाद्या मुद्द्यावरील एका बाजूला बोलू देणे आणि दुसरीला गप्प करणे निषिद्ध आहे. दुसऱ्या संज्ञ प्राण्याच्या अधिकारांशी खरा संघर्ष हा एकमेव अपवाद आहे. तेव्हाही मर्यादा भेदभाव करणारी नसावी (**Article VI-C** (*Nondiscrimination*)), आणि संघर्ष **Chapter One §13.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) अंतर्गत सोडवला पाहिजे: काम करणारा सर्वात सौम्य उपाय, मर्यादित कालावधीसाठी आणि आव्हान देता येण्याजोगा.
   - **कोण बोलत आहे यावर आधारित मर्यादा:** वक्त्याच्या **Protected Characteristics** वर किंवा संरक्षित गटाला वेगळे लक्ष्य करण्यासाठी वापरल्या जाणाऱ्या नाव, पत्ता किंवा संलग्नतेसारख्या पर्यायी संकेतांवर कोणतीही मर्यादा अवलंबून असू शकत नाही.
 - **अभिव्यक्ती-रोधक परिणाम टाळण्याची शिस्त:** अभिव्यक्ती, पत्रकारिता किंवा सभेवर औपचारिक निर्बंध न आणता त्यांना महत्त्वपूर्णरीत्या थोपवणाऱ्या उपायांचे मूल्यमापन औपचारिक रचनेऐवजी प्रत्यक्ष परिणामावर केले जाते — **Chapter One §7** *Trust* आणि **Article X-A** (*Agency and Freedom from Manipulation*) मनिप्युलेशनपासून स्वातंत्र्याशी सुसंगतपणे. व्याप्तीतील उदाहरणे:
@@ -1493,7 +1501,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
 - [Press and Journalistic Activity](core_05_band_oversight.md#press-and-journalistic-activity-constitutional) · [O](core_05_band_oversight.md#press-and-journalistic-activity-constitutional) · [M](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [A](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [C](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-c)
-- [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
+- [Heightened Scrutiny](../../core_05.050_band_oversight.md#heightened-scrutiny) · [O](../../core_05.050_band_oversight.md#heightened-scrutiny) · [M](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [A](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [C](../../core_05.050_band_oversight.md#heightened-scrutiny-c)
 - [Necessity](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [Proportionality](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
@@ -1505,7 +1513,7 @@ flowchart TB
 
 हा अनुच्छेद पत्रकारितेच्या क्रियेसाठी अधिक संरक्षण आणि टीकात्मक वृत्तांकनाचा किमान अधिकार-तळ निश्चित करतो:
 
-- **प्रेस आणि पत्रकारितेची क्रिया (अधिक कठोर तपासणी):** पत्रकारितेच्या क्रियेला — बातम्या गोळा करणे, स्रोतांचे संरक्षण, तपास आणि पत्रकारितेचे कार्य करणारे प्रकाशन — लक्ष्य करणाऱ्या राज्य किंवा ऑपरेटरच्या कृतींवर [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny) लागू होते.
+- **प्रेस आणि पत्रकारितेची क्रिया (अधिक कठोर तपासणी):** पत्रकारितेच्या क्रियेला — बातम्या गोळा करणे, स्रोतांचे संरक्षण, तपास आणि पत्रकारितेचे कार्य करणारे प्रकाशन — लक्ष्य करणाऱ्या राज्य किंवा ऑपरेटरच्या कृतींवर [Heightened Scrutiny](../../core_05.050_band_oversight.md#heightened-scrutiny) लागू होते.
   - ही तरतूद पत्रकार म्हणून ओळखल्या गेलेल्या संज्ञ प्राण्यांसाठी स्वतंत्र अधिकार-तळ निर्माण करत नाही.
   - एखाद्या कृतीचे कार्य पत्रकारितेच्या क्रियेला बाधा आणणे असेल तर:
     - **Necessity** आणि **Proportionality** चे परीक्षण अधिक कठोर होते;
@@ -1627,7 +1635,7 @@ flowchart TB
   
   हा अधिकार नवीन संस्था अस्तित्वात आणण्याचा आहे; आधीच अस्तित्वात असलेल्यांत भाग घेण्यापुरता नाही.
 - **प्रामाणिक स्थापना:** संस्थापक किंवा चालकाने घोषित उद्देशाशी खरोखर जुळणारे काम केले पाहिजे. कार्यकारी पक्षाचा उद्देश, नियंत्रण, हितसंबंध किंवा तो कोणाची सेवा करतो याबाबत इतरांची दिशाभूल करण्याच्या किंवा संविधानाने निषिद्ध हानी करण्याच्या हेतूने कार्यकारी पक्ष स्थापन/चालवता येणार नाही; असा हेतू असल्याचा संभाव्य आधार असला तरीही नाही. निषिद्ध भेदभावपूर्ण वागणूक हानीत येते; कायदेशीर स्पर्धा, टीका, मतभेद किंवा प्रतिस्पर्ध्याचा कायदेशीर व्यवसाय-तोटा हानी नाही.
-  - हेतूची कसोटी पडताळलेल्या कृती, नियंत्रण, प्रोत्साहन आणि विधानांवर आधारित असेल. इतरांना हानी व्हावी किंवा निषिद्ध भेदभाव व्हावा असे सांगणारे पडताळलेले विधान/आवाहन/योजना हेतूचा पुरावा ठरू शकते. [अध्याय एक §7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line) नुसार ते काय सांगते, कशाचे आवाहन करते किंवा काय करते हे पाहिले जाईल—धार्मिक, राजकीय किंवा वैचारिक लेबल नव्हे. केवळ श्रद्धा किंवा गट-सदस्यत्व प्रतिकूल पुरावा नाही; चांगल्या हेतूचा नुसता दावा अनुकूल पुरावा नाही. विधानांसाठी [अध्याय सात §6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity) मधील संरक्षण लागू.
+  - हेतूची कसोटी पडताळलेल्या कृती, नियंत्रण, प्रोत्साहन आणि विधानांवर आधारित असेल. इतरांना हानी व्हावी किंवा निषिद्ध भेदभाव व्हावा असे सांगणारे पडताळलेले विधान/आवाहन/योजना हेतूचा पुरावा ठरू शकते. [अध्याय एक §7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line) नुसार ते काय सांगते, कशाचे आवाहन करते किंवा काय करते हे पाहिले जाईल—धार्मिक, राजकीय किंवा वैचारिक लेबल नव्हे. केवळ श्रद्धा किंवा गट-सदस्यत्व प्रतिकूल पुरावा नाही; चांगल्या हेतूचा नुसता दावा अनुकूल पुरावा नाही. विधानांसाठी [अध्याय सात §6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity) मधील संरक्षण लागू.
   - पूर्वनोंद नसलेल्या संस्थापकाला प्रामाणिक मानले जाईल. कार्यकारी पक्षाच्या लिखित मर्यादा स्वीकारणे व स्वतंत्र पडताळणी मान्य करणे यांसारखी कृतीतील बांधिलकी पुरावा ठरेल. ही अधिकाराची अट आहे, परवाना नाही: आधी मंजुरी लागत नाही; अप्रामाणिकतेचा आरोप करणाऱ्यावर पुराव्याचे ओझे आहे.
 
 - **आडमार्गाने नकार निषिद्ध:** हा अधिकार पुढील मार्गांनी निष्फळ करता येणार नाही:
@@ -1934,7 +1942,7 @@ flowchart TB
 
   परिणामों को बताए गए कारणों और **अध्याय दो से चार** के अंतर्गत समीक्षा का समर्थन करने के लिए पर्याप्त साक्ष्य तक खोजा जा सकना चाहिए।
 - **संस्थागत मार्ग:** इस अनुच्छेद का परिचालन विवरण संस्थागत संग्रह में दिया गया है:
-  - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*नियुक्ति, क्षमता, आवर्तन और पद से हटाना*) — भूमिका-वर्गीकरण और जवाबदेही-श्रृंखला का कार्यान्वयन;
+  - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*नियुक्ति, क्षमता, आवर्तन और पद से हटाना*) — भूमिका-वर्गीकरण और जवाबदेही-श्रृंखला का कार्यान्वयन;
   - **CI-6** (*प्रक्रिया की अखंडता, चुनौती देने की क्षमता और द्वितीयक समीक्षा*) — उचित प्रक्रिया की परिचालन विधियाँ;
   - **CI-8** (*पारदर्शिता, भागीदारी और सुलभ चुनौती तथा सेवा-मार्ग*) — चुनौती के मार्गों तक पहुँच का सहायक विवरण।
 <a id="article-xii-d-non-capture-safeguards"></a>
@@ -2050,7 +2058,7 @@ flowchart TB
   - **गैरवर्तनाचा मार्ग:** अप्रामाणिक आवाजांनी जाणीवपूर्वक किंवा बेफिकिरीने केलेली भरमार, तसेच लाच किंवा अनुचित लाभांची देवाणघेवाण, **अध्याय दोन ते चार** अंतर्गत पुष्टी झाल्यास आणि **अध्याय अकरा**चे निकष पूर्ण झाल्यास **घटनाविरोधी गैरवर्तन** म्हणून आरोपित केले जाऊ शकते.
   - **अखंडतेला प्राधान्य आणि स्वतःच न्यायनिवाडा करण्यास मनाई:** [**अनुच्छेद XII-D**](core_06_rights_part_b.md#अनचछद-xii-d-तब-रखणयसठचय-हम) (*हस्तगत होण्याविरुद्ध संरक्षण*) मधील पाठवणी व स्वतःच न्यायनिवाडा न करण्याचे नियम लागू होतात. स्वतःच्या सदस्यांशी किंवा कर्मचाऱ्यांशी अयोग्य संपर्क झाला का याचा अंतिम निर्णय घेणारा एकमेव मंच कोणतीही संस्था असू शकत नाही.
 - **संस्थात्मक पाठवणी:** तपशीलवार नियम पुढील दस्तऐवजांत आहेत:
-  - सेवेनंतरच्या नियमांसाठी **CI-4.2** (*भूमिकेचे निकष, नियुक्तीचे मानक आणि पदावरून काढण्याचे मार्ग*) यासह [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*नियुक्ती, क्षमता, फेरपालट आणि पदावरून काढणे*);
+  - सेवेनंतरच्या नियमांसाठी **CI-4.2** (*भूमिकेचे निकष, नियुक्तीचे मानक आणि पदावरून काढण्याचे मार्ग*) यासह [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*नियुक्ती, क्षमता, फेरपालट आणि पदावरून काढणे*);
   - **CI-5** (*हितसंबंध-संघर्षाची अखंडता, हस्तगत-विरोध आणि भ्रष्टाचार-विरोध*);
   - **CJS-3.6** (*अखंडता-हमी व लवचिकता संचालन*), *प्रभाव-संपर्क आणि लॉबिंगच्या मर्यादा*;
   - मंच-पॅनेलसाठी [corpus_forum.md](../../corpus_forum.md) मधील **CF-4** (*पॅनेल-रचना, प्रकटीकरण, अलिप्तता आणि कायदेशीर पीठ-रचना*) आणि **CF-7** (*अखंडता-संरक्षण, हस्तगत-विरोधी संचालन आणि स्वतःच न्यायनिवाडा रोखण्यास सहाय्य*).

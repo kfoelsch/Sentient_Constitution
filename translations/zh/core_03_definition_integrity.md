@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第三章，第 2 节 — 来自可观察系统行为的不合规](#2-来自可观察系统行为的不合规)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-定义完整性要求)。
-- 下游：[第四章，第 2 节 — 定义可追溯性要求](core_04_burden_traceability_verification.md#2-定义可追溯性要求)；[第九章 — 系统对齐认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十一章 — 轨迹效果与整合](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
+- 下游：[第四章，第 2 节 — 定义可追溯性要求](core_04_burden_traceability_verification.md#2-定义可追溯性要求)；[第九章 — 系统对齐认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十一章 — 轨迹效果与整合](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)；[CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
 - 一并阅读：[不合规认定画像](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — 画像字段的典范 O/M/A/C 家园；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 操作性约束
 
-不合规也可以针对联合实施文本库中的操作性约束而被认定。默认认定画像以及它们如何附着于那些认定，在那里处理 — 不在本章。见 [CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
+不合规也可以针对联合实施文本库中的操作性约束而被认定。默认认定画像以及它们如何附着于那些认定，在那里处理 — 不在本章。见 [CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
 
 ---
 

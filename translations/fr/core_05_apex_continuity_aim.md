@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : [Boussole du Chapitre cinq](core_05__definitions_home.md#boussole-et-carte-des-définitions-du-chapitre-cinq) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; fin en langage simple au [Préambule §1](core_00_preamble.md#continuity).
-- En aval : Principes : [Chapitre un §4.1 Résilience et conception d’auto-guérison](core_01_a_values_principles.md#41-resilience-and-self-healing-design) ; [§12 Capacité des systèmes partagés](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity) ; [§11.1.5 Discipline des revendications de résultats constitutionnels](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) ; [Décomposition de la Fin constitutionnelle](#continuity-aim-decomposition) ; groupes de thèmes de Continuité dans [core_05_band_continuity.md](../../core_05.040_band_continuity.md).
+- En aval : Principes : [Chapitre un §4.1 Résilience et conception d’auto-guérison](core_01_a_values_principles.md#10-resilience-and-self-healing-design) ; [§12 Capacité des systèmes partagés](core_01_c_stewardship_capacity_principles.md) ; [§11.1.5 Discipline des revendications de résultats constitutionnels](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) ; [Décomposition de la Fin constitutionnelle](#continuity-aim-decomposition) ; groupes de thèmes de Continuité dans [core_05_band_continuity.md](../../core_05.040_band_continuity.md).
 - Lire avec : [Administration responsable](../../core_05.040_band_continuity.md#stewardship), [Défaut d’administration responsable](../../core_05.040_band_continuity.md#stewardship-defect), [Intégrité écologique](../../core_05.040_band_continuity.md#ecological-integrity), [Dépendance](../../core_05.040_band_continuity.md#dependency), [Divergence d’indicateurs substituts](../../core_05.050_band_oversight.md#proxy-divergence), [Risque existentiel](../../core_05.040_band_continuity.md#existential-risk), [Défaillance en cascade](../../core_05.040_band_continuity.md#cascading-failure), [Épanouissement](core_05_apex_flourishing_aim.md#flourishing-constitutional) (la fin jumelée — aucune ne peut être poursuivie aux dépens de l’autre ; poursuivre des gains à court terme qui vident la **participation**, la **supervision**, la **reddition de comptes** ou l’**action en temps** au-dessous de ce qu’exige l’[enjeu matériel](core_00_preamble.md#material-stake) échoue à la **Continuité**, même si les résultats de court terme montent), [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake) (comment la Continuité reste légitime — pas un cinquième bloc de construction), famille de mesure Continuité, et [répertoire alphabétique du Chapitre cinq](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
@@ -48,14 +48,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **Comment mesurer et évaluer**
   - **Mesure primaire :** [Famille de mesure Continuité](#continuity-measurement-family) — *Les êtres sentients et les systèmes peuvent-ils durer — écologiquement, de façon fiable, et à travers l’échec ?* Voir aussi [Décomposition de la Fin constitutionnelle](#continuity-aim-decomposition). Cette ligne pointe seulement vers les mesures ; les règles de comment mesurer siègent sur chaque définition liée.
-  - **Évaluation primaire :** Jugez sous la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake). Demandez si les systèmes conservent une capacité durable de réparer, de s’adapter, d’affronter le risque avec honnêteté et de rester dans les limites écologiques — non si les chiffres d’aujourd’hui ont l’air calmes. Liez les résultats de continuité revendiqués aux conditions [constituantes](#continuity-aim-decomposition), sous le Chapitre quatre et le [Chapitre un §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - **Évaluation primaire :** Jugez sous la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), mise à l’échelle de l’[enjeu matériel](core_00_preamble.md#material-stake). Demandez si les systèmes conservent une capacité durable de réparer, de s’adapter, d’affronter le risque avec honnêteté et de rester dans les limites écologiques — non si les chiffres d’aujourd’hui ont l’air calmes. Liez les résultats de continuité revendiqués aux conditions [constituantes](#continuity-aim-decomposition), sous le Chapitre quatre et le [Chapitre un §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="continuity-aim-constitutional-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :**
     - utiliser la **Continuité** pour ajourner les corrections pour toujours ;
     - traiter la « stabilité » comme conforme lorsqu’elle repose sur un déversement caché de risque, un préjudice irréversible, ou le déplacement de charges écologiques sur d’autres ;
     - utiliser le parler ordinaire de « garder les lumières allumées » pour bloquer la [Contestabilité](../../core_05.035_band_accountability.md#contestability) ou la [Résolution en temps](../../core_05.035_band_accountability.md#timely-resolution) ; ou
-    - poursuivre la **Continuité** d’une façon qui fasse matériellement échec à l’[Épanouissement](core_05_apex_flourishing_aim.md#flourishing-constitutional) sans permission claire sous le [Chapitre un §6 Résolution des conflits de processus](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+    - poursuivre la **Continuité** d’une façon qui fasse matériellement échec à l’[Épanouissement](core_05_apex_flourishing_aim.md#flourishing-constitutional) sans permission claire sous le [Chapitre un §6 Résolution des conflits de processus](core_01_b_interaction_interpretation.md).
 
 ---
 
@@ -108,7 +108,7 @@ Les définitions sous cette fin héritent de sa portée à moins qu’elles ne l
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En aval : famille de mesure Continuité — rollup en lien seul ; les paliers par terme vivent dans les définitions feuille liées dans le tableau ci-dessous.
-- Lire avec : [CS-9 — Administration responsable de l’allocation des ressources et du financement](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (mécanique de financement et de retour inter-systèmes).
+- Lire avec : [CS-9 — Administration responsable de l’allocation des ressources et du financement](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (mécanique de financement et de retour inter-systèmes).
 
 </details>
 

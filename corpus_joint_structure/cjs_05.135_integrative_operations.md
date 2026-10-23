@@ -84,7 +84,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 
 Use this rule when secrecy, protected investigations, oversight, or delayed release depends on standalone system behavior or combined institutional, governance, system, or implementation-layer behavior.
 
-One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because lawful-secrecy failures often surface only when authorization, minimization, oversight, reconstruction, and release review are judged together; a sub-rule can look satisfied in isolation while secrecy still blocks audit, challenge, or timely disclosure. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.135 §22** (*Integrative: constrained-secrecy and protected-investigation terms*) as a whole: constrained secrecy and protected investigation must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because lawful-secrecy failures often surface only when authorization, minimization, oversight, reconstruction, and release review are judged together; a sub-rule can look satisfied in isolation while secrecy still blocks audit, challenge, or timely disclosure. It states the integrated obligation, evaluation, and compliance minimum for **CJS-5.135 §22** (*Integrative: constrained-secrecy and protected-investigation terms*) as a whole: constrained secrecy and protected investigation must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 <a id="constrained-secrecy-and-protected-investigation-terms"></a>
 constrained-secrecy and protected-investigation terms
@@ -103,22 +103,22 @@ constrained-secrecy and protected-investigation terms
 - **What must hold**
   - **Primary failure:** Claim lawful secrecy when a material component has not been fully evaluated, cannot be independently reviewed, or is used to bypass audit or challenge.
 
-The sub-rules below apply that cluster floor to specific authorization, reconstruction, oversight, minimization, and anti-normalization dimensions. Read them together with the cluster floor and the CJS read-with chain.
+The sub-rules below apply that cluster minimum to specific authorization, reconstruction, oversight, minimization, and anti-normalization dimensions. Read them together with the cluster minimum and the CJS read-with chain.
 
-<a id="authorization-and-predicate-floor"></a>
-Authorization and predicate floor
+<a id="authorization-and-predicate-minimum"></a>
+Authorization and predicate minimum
 
 *In plain terms: disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review that starts inside the prompt-review window.*
 
 - **What it is**
   - **In scope:** Disclosure or participation limits require documented, auditable authorization before implementation, except immediate emergencies with post-action review begun inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#prompt-review) (*Prompt review*)).
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authorization and predicate floor.
-<a id="authorization-and-predicate-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in authorization and predicate minimum.
+<a id="authorization-and-predicate-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** secrecy is tied to imminent harm prevention, investigation integrity, or exploitation prevention, not convenience or embarrassment
 
     **Primary assessment:** Evaluation must verify secrecy is tied to imminent harm prevention, investigation integrity, or exploitation prevention, not convenience or embarrassment.
-<a id="authorization-and-predicate-floor-c"></a>
+<a id="authorization-and-predicate-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Secrecy without a valid predicate or timely review.
 
@@ -340,20 +340,20 @@ Intervention behavior priorities and safe-state handling
 - **What must hold**
   - **Primary failure:** Concealing secondary effects, disabling auditability, or allowing uncontrolled spread.
 
-<a id="intervention-timeliness-and-practical-control-floor"></a>
-Intervention timeliness and practical control floor
+<a id="intervention-timeliness-and-practical-control-minimum"></a>
+Intervention timeliness and practical control minimum
 
 *In plain terms: intervention must be timely, proportionate, accountable, and practical under failure, uncertainty, and adversarial conditions.*
 
 - **What it is**
   - **In scope:** Intervention must be timely, proportionate, accountable, and practical under failure, uncertainty, and adversarial conditions.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in intervention timeliness and practical control floor.
-<a id="intervention-timeliness-and-practical-control-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in intervention timeliness and practical control minimum.
+<a id="intervention-timeliness-and-practical-control-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** response time matches harm speed and severity
 
     **Primary assessment:** Evaluation must verify response time matches harm speed and severity.
-<a id="intervention-timeliness-and-practical-control-floor-c"></a>
+<a id="intervention-timeliness-and-practical-control-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Systems that cannot be meaningfully intervened in required prevention timeframes.
 

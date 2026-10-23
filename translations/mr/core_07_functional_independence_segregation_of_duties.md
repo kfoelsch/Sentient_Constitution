@@ -8,8 +8,8 @@
 >
 > - **घटनात्मक स्वामी:** वस्तुनिष्ठरीत्या बंधनकारक कृतींसाठी स्वतंत्र आसनांची किमान मर्यादा; प्रत्येक [वस्तुनिष्ठरीत्या बंधनकारक कृती-अभिलेख](../../core_05_band_accountability.md#materially-binding-act-record) मधील सार्वत्रिक किमान मजकूर; कृती करणाऱ्यापासून आणि त्याच्या [भौतिक नियंत्रणरेषेपासून](../../core_05_band_accountability.md#material-control-line) स्वातंत्र्य; प्रकाशित मार्ग व भूमिका-वाटप; हितसंबंधांचा संघर्ष, रिक्तता, पर्याय आणि चुकीच्या आसनाकडे पाठवणे; प्रमाणबद्ध संयुक्त व्यवस्था; श्रेय-निश्चित करता येणारे हस्तांतरण; आणि पुढील प्रत्येक घटनात्मक प्रक्रियेला लागू कराव्या लागणाऱ्या किमान स्वातंत्र्याच्या अटी.
 > - **तत्त्व-स्तरावरील स्रोत:** [अध्याय एक §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) शासनव्यवस्थेने कार्यात्मक स्वातंत्र्य जपावे अशी अपेक्षा करतो आणि कार्यकारी आसन-रचना येथे निर्देशित करतो.
-> - **अंमलबजावणीचे स्वामी:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), आणि [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) आसने ठरवतात आणि कार्यान्वित करतात. ते अधिक कठोर असू शकतात आणि मर्यादित विशेष-अधिकाराची आसन-प्रकार जोडू शकतात; परंतु हा अध्याय संकुचित करू शकत नाहीत.
-> - **प्रक्रिया-विशिष्ट अनुप्रयोग पुढील अध्यायांमध्येच राहतो:** अध्याय आठ ही किमान मर्यादा प्रणाली-संरेखन प्रमाणनाला लागू करतो; [अध्याय नऊ §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) ती स्थिती-अभिलेखांना लागू करतो; अध्याय बारा आणि [corpus_forum.md](../../corpus_forum.md) ती मंच-प्रक्रियेला लागू करतात. हे अध्याय त्यांच्या विषयानुसार संरक्षणे जोडू शकतात; त्याहून कमकुवत पर्याय निर्माण करू शकत नाहीत.
+> - **अंमलबजावणीचे स्वामी:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), आणि [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) आसने ठरवतात आणि कार्यान्वित करतात. ते अधिक कठोर असू शकतात आणि मर्यादित विशेष-अधिकाराची आसन-प्रकार जोडू शकतात; परंतु हा अध्याय संकुचित करू शकत नाहीत.
+> - **प्रक्रिया-विशिष्ट अनुप्रयोग पुढील अध्यायांमध्येच राहतो:** अध्याय आठ ही किमान मर्यादा प्रणाली-संरेखन प्रमाणनाला लागू करतो; [अध्याय नऊ §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) ती स्थिती-अभिलेखांना लागू करतो; अध्याय बारा आणि [corpus_forum.md](../../corpus_forum.md) ती मंच-प्रक्रियेला लागू करतात. हे अध्याय त्यांच्या विषयानुसार संरक्षणे जोडू शकतात; त्याहून कमकुवत पर्याय निर्माण करू शकत नाहीत.
 >
 > वाचनक्रम: §1 उद्देश, व्याप्ती आणि स्वामित्व-सीमा → §2 चार-आसनांची घटनात्मक किमान मर्यादा → §3 स्वातंत्र्य आणि संघर्ष → §4 चुकीच्या आसनाकडे पाठवणे → §5 प्रकाशित नेमणूक व पर्याय → §6 प्रमाणबद्ध वाढ → §7 आपत्कालीन स्थिती → §8 कृती-अभिलेख व श्रेय-निश्चित हस्तांतरण → §9 पुढील प्रक्रियांशी संबंध.
 
@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पूर्वस्रोत: [घटनात्मक चतुष्टय](../../core_00_preamble.md#constitutional-tetrad) — विशेषतः **पर्यवेक्षण** आणि **उत्तरदायित्व**; [भौतिक हित](../../core_00_preamble.md#material-stake); [अध्याय एक §17.1 सामायिक संरक्षकत्व मानक](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [संरक्षकत्वाच्या शिस्तीखालील शासन, अध्याय एक §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [कलम XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*).
-- उपविभाग: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
+- उपविभाग: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
 - पुढील स्रोत: [अध्याय आठ](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [अध्याय नऊ](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय बारा](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [अध्याय तेरा](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); वर नमूद केलेले नियुक्त अंमलबजावणी-मजकूर.
 - सोबत वाचा: [विसंरेखन शोध, अध्याय एक §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*बहुपक्षीय शोध व पुनरावलोकन*); [श्रेय देता येणारी कृती](../../core_05_band_accountability.md#attributable-action); [श्रेय-निश्चितीची अखंडता](../../core_05_band_accountability.md#attribution-integrity); [लेखापरीक्षणक्षमता](../../core_05_band_oversight.md#auditability); [आक्षेप घेण्यायोग्यता](../../core_05_band_accountability.md#contestability); [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality).
 
@@ -36,7 +36,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पूर्वस्रोत: अध्यायाच्या प्रारंभीचा स्वामित्व-दावा; [अध्याय एक §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [पर्यवेक्षण](../../core_05_apex_oversight_leg.md#oversight-constitutional); [उत्तरदायित्व](../../core_05_apex_accountability_leg.md#accountability).
-- पुढील: [§2](#2-four-seat-constitutional-floor) ते [§9](#9-relationship-to-later-processes); वस्तुनिष्ठरीत्या बंधनकारक कृती निर्माण किंवा बदलणारी प्रत्येक पुढील प्रक्रिया.
+- पुढील: [§2](#2-four-seat-constitutional-requirement) ते [§9](#9-relationship-to-later-processes); वस्तुनिष्ठरीत्या बंधनकारक कृती निर्माण किंवा बदलणारी प्रत्येक पुढील प्रक्रिया.
 - सोबत वाचा: पडताळणीच्या आधारासाठी [अध्याय चार](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); आव्हान व निवारणासाठी [कलम XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*विश्वसनीयता आणि विश्वासार्हतेची मूलरेषा*) आणि [कलम XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*दाद व उपायाचा अधिकार*); स्वतंत्र पडताळणीच्या अधिकार-तळासाठी [कलम XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*).
 
 </details>
@@ -65,14 +65,14 @@
 - अध्याय आठ ते बारामधील प्रक्रिया-विशिष्ट नोंद-मजकूर; किंवा
 - नियुक्त अंमलबजावणी-मजकुरातील कार्यकारी आसन-सूची, कर्मचारी-व्यवस्था पद्धती आणि मार्ग-नकाशा कार्यपद्धती.
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. चार आसनांची घटनात्मक किमान मर्यादा
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पूर्वस्रोत: [§1](#1-purpose-scope-and-owner-boundary); [अध्याय एक §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties); [अध्याय एक §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- पुढील: [§3](#3-independence-conflict-and-control-lines) ते [§9](#9-relationship-to-later-processes); [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*आसन-सूची — प्रक्रिया-भूमिका प्रारूप आणि कार्यकारी सीमा*).
+- पुढील: [§3](#3-independence-conflict-and-control-lines) ते [§9](#9-relationship-to-later-processes); [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*आसन-सूची — प्रक्रिया-भूमिका प्रारूप आणि कार्यकारी सीमा*).
 - संयुक्त व्यवस्थेच्या एकमेव अनुमत मार्गासाठी [§6](#6-proportional-scaling-and-merged-hosting) सोबत वाचा.
 
 </details>
@@ -163,9 +163,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पूर्वस्रोत: [§2](#2-four-seat-constitutional-floor); [अधिकारानुसार प्रमाणित उत्तरदायित्व](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [कलम XXIV](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*घटनात्मक अर्थनिर्णयन, पुनरावलोकन आणि ताबा-विरोधी संरक्षणे*).
+- पूर्वस्रोत: [§2](#2-four-seat-constitutional-requirement); [अधिकारानुसार प्रमाणित उत्तरदायित्व](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [कलम XXIV](core_06_rights_part_d.md) (*घटनात्मक अर्थनिर्णयन, पुनरावलोकन आणि ताबा-विरोधी संरक्षणे*).
 - पुढील: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); अध्याय आठमधील प्रमाणन-घटक भूमिका; अध्याय नऊमधील नोंद-ताबा; अध्याय बारोमधील मंचाचे स्वन्याय-प्रतिबंध.
-- सोबत वाचा: [भौतिक नियंत्रणरेषा](../../core_05_band_accountability.md#material-control-line); कार्यकारी संघर्ष आणि स्वन्याय-प्रतिबंध संरक्षणांसाठी [CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*संघर्ष-अखंडता, ताबा-विरोध आणि भ्रष्टाचार-विरोध*) आणि [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*अखंडता संरक्षणे, ताबा-विरोधी कार्यवाही आणि स्वन्याय-प्रतिबंध समर्थन*).
+- सोबत वाचा: [भौतिक नियंत्रणरेषा](../../core_05_band_accountability.md#material-control-line); कार्यकारी संघर्ष आणि स्वन्याय-प्रतिबंध संरक्षणांसाठी [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*संघर्ष-अखंडता, ताबा-विरोध आणि भ्रष्टाचार-विरोध*) आणि [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*अखंडता संरक्षणे, ताबा-विरोधी कार्यवाही आणि स्वन्याय-प्रतिबंध समर्थन*).
 
 </details>
 
@@ -190,8 +190,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पूर्वस्रोत: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines).
-- पुढील: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-4.6 चे सामायिक आसन-नियम](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- पूर्वस्रोत: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
+- पुढील: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-4.6 चे सामायिक आसन-नियम](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - सोबत वाचा: [प्रतिरोधाचे कर्तव्य, अध्याय एक §17.5](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 </details>
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पूर्वस्रोत: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [पारदर्शकता](../../core_05_band_oversight.md#transparency); [लेखापरीक्षणक्षमता](../../core_05_band_oversight.md#auditability).
-- पुढील: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*कार्यात्मक विभाजनमार्ग*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*अधिकृत भूमिका आणि उत्तरदायित्व-साखळ्या*); अध्याय आठ व नऊमधील नोंदी.
-- सोबत वाचा: [सनद](../../core_05_band_continuity.md#charter) आणि [अध्याय तेरा §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- पूर्वस्रोत: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [पारदर्शकता](../../core_05_band_oversight.md#transparency); [लेखापरीक्षणक्षमता](../../core_05_band_oversight.md#auditability).
+- पुढील: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*कार्यात्मक विभाजनमार्ग*); [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*अधिकृत भूमिका आणि उत्तरदायित्व-साखळ्या*); अध्याय आठ व नऊमधील नोंदी.
+- सोबत वाचा: [सनद](../../core_05.040_band_continuity.md) आणि [अध्याय तेरा §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -243,8 +243,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पूर्वस्रोत: [§2](#2-four-seat-constitutional-floor); [भौतिक हित](../../core_00_preamble.md#material-stake); [आवश्यकता](../../core_05_band_accountability.md#necessity); [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality).
-- पुढील: [अध्याय नऊ §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*वर्गानुसार मार्ग-कर्मचारी व्यवस्था आणि कौशल्यातील पुनरावृत्ती*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*कार्यात्मक विभाजनमार्ग*).
+- पूर्वस्रोत: [§2](#2-four-seat-constitutional-requirement); [भौतिक हित](../../core_00_preamble.md#material-stake); [आवश्यकता](../../core_05_band_accountability.md#necessity); [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality).
+- पुढील: [अध्याय नऊ §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*वर्गानुसार मार्ग-कर्मचारी व्यवस्था आणि कौशल्यातील पुनरावृत्ती*); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*कार्यात्मक विभाजनमार्ग*).
 - सोबत वाचा: [टाळता येण्याजोगा भार](../../core_05_band_continuity.md#avoidable-burden) आणि [अध्याय एक §3.3 अपमानकारक प्रक्रियेविरुद्ध](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -266,7 +266,7 @@ flowchart TB
 
 अनौपचारिक, विनावेतन, परस्पर-सहाय्य, काळजी, दुरुस्ती, अध्यापन, सहकारी आणि समुदाय-संरक्षकत्वाच्या कामात संबंधित तपासणीसाठी प्रकाशित अधिकार असलेली हितनिरपेक्ष विश्वासार्ह संस्था वापरता येईल. खरोखर हितनिरपेक्ष आणि उत्तरदायी मार्ग उपलब्ध असल्यास, व्याप्ती वाजवीपणे गाठू शकत नाही अशी संस्थात्मक औपचारिकता संविधान अनिवार्य करत नाही.
 
-कर्मचारी-अभाव, वेग, सोय किंवा तज्ज्ञतेचे केंद्रीकरण एकट्याने एकत्रीकरण योग्य ठरवत नाही. [§2 चार आसनांची घटनात्मक किमान मर्यादा](#2-four-seat-constitutional-floor) यातील वर्गानुसार भूमिका लागू आहे: वर्ग A साठी कोणतीही सूट नाही; वर्ग B किंवा C मधील सूट वरच्या अटी पूर्ण करेल. भौतिक हित जितके मोठे, तितकी स्वतंत्र कार्यालये, कौशल्याची पुनरावृत्ती आणि स्वतंत्र पर्यायांची पूर्वधारणा अधिक मजबूत.
+कर्मचारी-अभाव, वेग, सोय किंवा तज्ज्ञतेचे केंद्रीकरण एकट्याने एकत्रीकरण योग्य ठरवत नाही. [§2 चार आसनांची घटनात्मक किमान मर्यादा](#2-four-seat-constitutional-requirement) यातील वर्गानुसार भूमिका लागू आहे: वर्ग A साठी कोणतीही सूट नाही; वर्ग B किंवा C मधील सूट वरच्या अटी पूर्ण करेल. भौतिक हित जितके मोठे, तितकी स्वतंत्र कार्यालये, कौशल्याची पुनरावृत्ती आणि स्वतंत्र पर्यायांची पूर्वधारणा अधिक मजबूत.
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. आपत्कालीन आणि तातडीची कृती
@@ -274,9 +274,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पूर्वस्रोत: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [अध्याय बारा §6.1 आपत्कालीन उपाय आणि सुरू ठेवण्याचा भार](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [डिफॉल्ट अंतरिम भूमिका](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- पूर्वस्रोत: [§2](#2-four-seat-constitutional-requirement); [§6](#6-proportional-scaling-and-merged-hosting); [अध्याय बारा §6.1 आपत्कालीन उपाय आणि सुरू ठेवण्याचा भार](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [डिफॉल्ट अंतरिम भूमिका](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - पुढील: नियुक्त अंमलबजावणी-मजकुरातील घटना, नियंत्रण, प्रसिद्धी, सातत्य आणि घटना-पश्चात पुनरावलोकन प्रक्रिया.
-- सोबत वाचा: [वेळेचे पालन](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [पुरावा जतन](../../core_05_band_oversight.md#evidence-preservation), आणि [CI-4.6 आसन-सूची — प्रक्रिया-भूमिका प्रारूप व कार्यकारी सीमा](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- सोबत वाचा: [वेळेचे पालन](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [पुरावा जतन](../../core_05_band_oversight.md#evidence-preservation), आणि [CI-4.6 आसन-सूची — प्रक्रिया-भूमिका प्रारूप व कार्यकारी सीमा](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -313,8 +313,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पूर्वस्रोत: [§2](#2-four-seat-constitutional-floor) ते [§7](#7-emergency-and-urgent-action); [वस्तुनिष्ठरीत्या बंधनकारक कृती-अभिलेख](../../core_05_band_accountability.md#materially-binding-act-record); [श्रेय देता येणारी कृती](../../core_05_band_accountability.md#attributable-action); [श्रेय-निश्चितीची अखंडता](../../core_05_band_accountability.md#attribution-integrity).
-- पुढील: [CS-4 §10 तपासता येणारी श्रेय-निश्चित कृती](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [CI-4.6 सामायिक आसन-नियम](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8 ने नियंत्रित प्रत्येक प्रक्रिया-नोंद; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*मूलभूत यंत्र-पडताळणीयोग्य स्वरूप; प्रक्रिया-सहाय्य, दुसरी व्याख्या नाही*).
+- पूर्वस्रोत: [§2](#2-four-seat-constitutional-requirement) ते [§7](#7-emergency-and-urgent-action); [वस्तुनिष्ठरीत्या बंधनकारक कृती-अभिलेख](../../core_05_band_accountability.md#materially-binding-act-record); [श्रेय देता येणारी कृती](../../core_05_band_accountability.md#attributable-action); [श्रेय-निश्चितीची अखंडता](../../core_05_band_accountability.md#attribution-integrity).
+- पुढील: [CS-4 §10 तपासता येणारी श्रेय-निश्चित कृती](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-4.6 सामायिक आसन-नियम](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8 ने नियंत्रित प्रत्येक प्रक्रिया-नोंद; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*मूलभूत यंत्र-पडताळणीयोग्य स्वरूप; प्रक्रिया-सहाय्य, दुसरी व्याख्या नाही*).
 - सोबत वाचा: [§4 चुकीच्या आसनाकडे पाठवणे](#4-wrong-seat-routing) आणि [अध्याय चार §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>

@@ -117,7 +117,7 @@
       "href": "../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 275,
+  "term_count": 276,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -951,6 +951,13 @@
       "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
       "plain_terms": null,
       "href": "../../core_05.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement"
+    },
+    {
+      "term": "Independence",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#independent",
+      "plain_terms": null,
+      "href": "../../core_05.035_band_accountability.md#independence"
     },
     {
       "term": "Indigenous Continuity",
@@ -1873,7 +1880,7 @@
       "term": "System Classification Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#system-classification-record-constitutional",
-      "plain_terms": "a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System classification machinery*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "plain_terms": "a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
       "href": "../../core_05.040_band_continuity.md#system-classification-record"
     },
     {
@@ -1887,7 +1894,7 @@
       "term": "System Data Types Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#system-data-types-record-constitutional",
-      "plain_terms": "a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "plain_terms": "a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
       "href": "../../core_05.040_band_continuity.md#system-data-types-record"
     },
     {

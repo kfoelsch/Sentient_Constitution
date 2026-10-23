@@ -10,7 +10,7 @@
 >
 > Beşinci Bölüm **Bütünleştirici bantını** içerir — **Bütünleştirici** anayasal banta atanmış Bağımsız, Yarı-bağımsız ve bağımlı küme tanımları. Okuma sırası ve pusula [core_05__definitions_home.md](core_05__definitions_home.md#beşinci-bölüm-temel-tanimlar)de yaşar.
 >
-> **Önceki (bu dil):** [core_05_band_continuity.md](core_05_band_continuity.md)
+> **Önceki (bu dil):** [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
 >
 > **Sonraki (bu dil):** [core_05_band_oversight.md](core_05_band_oversight.md)
 > **Okuma yayı:** bağımsız terimler → yarı-bağımsız terimler → bağımlı kümeler Def.I1
@@ -53,8 +53,8 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [İkinci Bölüm §1 — Amaç ve rol](core_02_definition_structure.md#1-amaç-ve-rol); [İkinci Bölüm §2 Tanım bütünlüğü gereği](core_02_definition_structure.md#2-tanım-bütünlüğü-gereği); [Üçüncü Bölüm §2 — Gözlemlenebilir sistem davranışından uyumsuzluk](core_03_definition_integrity.md#2-gözlemlenebilir-sistem-davranışından-uyumsuzluk).
-- Aşağı: [Dördüncü Bölüm §§1 ve 4 — Münhasır yaptırım ve yük tahsisi; Uyum kanıtı standardı](core_04_burden_traceability_verification.md#1-münhasır-yaptırım-ve-yük-tahsisi); [Sekizinci Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Uyumsuzluk bulgu profili](core_05_band_accountability.md#non-compliance-finding-profile).
-- Birlikte oku: [Birinci Bölüm §11.3 Yanlış hizalanma saptaması](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) ve [§11.4 Yanlış hizalanma düzeltmesi ve ele geçirme yanıtı](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) — **anayasal yanlış hizalanma** sorumlu yönetim ve teşvik sapmasıdır; **uyumsuzluk** için bir yedek etiket değildir; [Artık risk / yanlış hizalanma](core_05_band_continuity.md#residual-risk--misalignment) — azaltmadan sonra sınırlı artık risk; [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) — Yedinci Bölümdeki belgelendirme köprüsü, genel uyumsuzluk hükmü değil.
+- Aşağı: [Dördüncü Bölüm §§1 ve 4 — Münhasır yaptırım ve yük tahsisi; Uyum kanıtı standardı](core_04_burden_traceability_verification.md#1-münhasır-yaptırım-ve-yük-tahsisi); [Sekizinci Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Uyumsuzluk bulgu profili](../../core_05.035_band_accountability.md#non-compliance-finding-profile).
+- Birlikte oku: [Birinci Bölüm §11.3 Yanlış hizalanma saptaması](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) ve [§11.4 Yanlış hizalanma düzeltmesi ve ele geçirme yanıtı](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **anayasal yanlış hizalanma** sorumlu yönetim ve teşvik sapmasıdır; **uyumsuzluk** için bir yedek etiket değildir; [Artık risk / yanlış hizalanma](../../core_05.040_band_continuity.md#residual-risk--misalignment) — azaltmadan sonra sınırlı artık risk; [Sistem hizalama belgelendirmesi](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) — Yedinci Bölümdeki belgelendirme köprüsü, genel uyumsuzluk hükmü değil.
 
 </details>
 
@@ -71,7 +71,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     Bir tanımın tam anlamını, değerlendirmesini ya da gerçek-dünya gereklerini daraltan kaçınmacı davranış, [Üçüncü Bölüm](core_03_definition_integrity.md#üçüncü-bölüm-tanim-bütünlüğü-kaçinma-ve-uyumsuzluk) altında uyumsuzluk sayılır. Aynı disiplin, yorum, kanıt ve izlenebilirliği İkinci Bölümden Dördüncü Bölümün yönettiği yerde, tek bir yaprak tanımın dışındaki anayasal yükümlülüklere de uygulanır.
   - **Kapsam dışında:**
     - sorumlu yönetim ve teşvik katmanındaki **anayasal yanlış hizalanma** (Birinci Bölüm §11);
-    - azaltmadan sonra sınırlı bir risk durumu olarak [Artık risk / yanlış hizalanma](core_05_band_continuity.md#residual-risk--misalignment);
+    - azaltmadan sonra sınırlı bir risk durumu olarak [Artık risk / yanlış hizalanma](../../core_05.040_band_continuity.md#residual-risk--misalignment);
     - Yedinci Bölüm altında sistem hizalama belgelendirme statüsü; ve
     - Sekizinci Bölüm ihlal-ekseni yuva etiketleri (bunlar doğrulanmış bulguları sınıflar ve bir tanımın karşılanıp karşılanmadığını yeniden tanımlamaz).
 <a id="non-compliance-a"></a>
@@ -101,10 +101,10 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: İlkeler: [Önsöz §3.3 yönetişim katmanları](core_00_preamble.md#33-yönetişim-katmanları); [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency).
+- Aşağı: İlkeler: [Önsöz §3.3 yönetişim katmanları](core_00_preamble.md#33-yönetişim-katmanları); [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency).
 - Sahip tabanı: [On İkinci Bölüm: Anayasal sözleşme, meşruiyet, yetkilendirme ve sorumlu yönetim](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Madde X-C: Yönetişim katılımı ve oy hakkı](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Küme bileşeni: [*Anayasal Sözleşme Katmanı ve Temel anayasal seçim*](core_05_band_integrative.md#anayasal-sözleşme-katmanı)
-- Birlikte oku: [Temel anayasal seçim](core_05_band_integrative.md#temel-anayasal-seçim), [Bağlayıcı etkilenen taraf seçimi](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Etkilenen taraf statüsü ve ağırlığı](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Yönetişim](core_05_band_accountability.md#governance).
+- Birlikte oku: [Temel anayasal seçim](core_05_band_integrative.md#temel-anayasal-seçim), [Bağlayıcı etkilenen taraf seçimi](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [Etkilenen taraf statüsü ve ağırlığı](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster), [Yönetişim](../../core_05.035_band_accountability.md#governance).
 - Katman: **Anayasal Sözleşme Katmanı (CCL)** — kim yönetebilir, hangi meşruiyet mekanizmasıyla, hangi kalıcı koşullar altında. **Etkilenen Tarafların Sistem Katılımı (SSP)**nden ayrıdır.
 
 </details>
@@ -129,7 +129,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     - işletimsel katılım;
     - sistem kullanımı, marka ya da piyasa varlığı olarak böyle;
     - yapılar ve süreçler zaten yetkilendirildikten sonra sıradan alan yönetişimi; ve
-    - kurucu ya da yeniden yetkilendirme oylarını belirlemek için kullanılan sıradan [Etkilenen taraf ağırlığı](core_05_band_participation.md#stakeholder-weight) — daha çok etkilenenlere daha çok söz vermek ([Önsöz §3.3 yönetişim katmanları](core_00_preamble.md#33-yönetişim-katmanları)).
+    - kurucu ya da yeniden yetkilendirme oylarını belirlemek için kullanılan sıradan [Etkilenen taraf ağırlığı](../../core_05.055_band_participation.md#stakeholder-weight) — daha çok etkilenenlere daha çok söz vermek ([Önsöz §3.3 yönetişim katmanları](core_00_preamble.md#33-yönetişim-katmanları)).
   - **İşlemsel ev:** [On İkinci Bölüm](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) bu katman için bağlayıcı yetkilendirme, meşruiyet ve sorumlu yönetim kurallarını belirtir.
   - **Hak Tabanı:** [Madde X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Yönetişim katılımı ve oy hakkı*), o On İkinci Bölüm kurallarının daraltmaması gereken eşit-katılım hakkını belirtir.
 <a id="constitutional-contract-layer-a"></a>
@@ -138,7 +138,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 
     **Birincil değerlendirme:**
     - Meselenin bir Anayasal Sözleşme Katmanı sorusu olup olmadığını sorun: kim yönetir, hangi meşruiyet mekanizmasıyla ve hangi kalıcı koşullar altında yetkilendirilir. Bu katmanı işaretleyen odur — sistemin ne kadar büyük, gürültülü ya da yaygın kullanıldığı değil.
-    - O sözleşmenin anayasal hizalamasını kontrol edin: iddia edilen yetki, bir [belgelenmiş meşruiyet mekanizması](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) ile, temel seçimin uygulandığı yerde [siyasi-eşitlik tabanı](../../core_14.000_governance.md#41-entitlement-and-eligibility) ile ve yönetme gücünü bu Anayasa altında yanıt verebilir tutan sorumlu yönetim ve Hak Tabanı ödevleriyle örtüşmelidir ([Birinci Bölüm §11.1 Hizalama gereği](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
+    - O sözleşmenin anayasal hizalamasını kontrol edin: iddia edilen yetki, bir [belgelenmiş meşruiyet mekanizması](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) ile, temel seçimin uygulandığı yerde [siyasi-eşitlik tabanı](../../core_14.000_governance.md#41-entitlement-and-eligibility) ile ve yönetme gücünü bu Anayasa altında yanıt verebilir tutan sorumlu yönetim ve Hak Tabanı ödevleriyle örtüşmelidir ([Birinci Bölüm §11.1 Hizalama gereği](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)).
     - [Önsöz §3.3 yönetişim katmanları](core_00_preamble.md#33-yönetişim-katmanları)nı uygulayın: kurucu yetkilendirmeyi, zaten yetkilendirilmiş sistemlerin içindeki sıradan etkilenen taraf katılımından ayrı tutun.
     - Sessizliği, bir sistemi yalnızca kullanmayı, piyasa varlığını ya da markayı Anayasal Sözleşme ya da yönetilmeye rıza olarak ele almayın.
 <a id="constitutional-contract-layer-c"></a>
@@ -146,7 +146,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
   - **Birincil başarısızlık:**
     - etkilenen taraf danışmasını, işletimsel katılımı, sistem kullanımını, markayı, piyasa varlığını ya da etkiye göre ağırlıklandırılmış etkilenen taraf sürecini belgelenmiş anayasal yetkilendirmenin yerine koymak;
     - [Temel anayasal seçim](core_05_band_integrative.md#temel-anayasal-seçim)in siyasi-eşitlik tabanını istediği yerde, yönetme yetkisini kurmak ya da kalıcı biçimde yeniden yapılandırmak için etkiye göre ağırlıklandırılmış etkilenen taraf oylamasını kullanmak; ya da
-    - anayasal yetkilendirmeyi, zaten yetkilendirilmiş sistemler ya da sınırlı karar alanları içinde etkilenen taraf katılımı, temsil, [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) ya da [usul güvencesi](core_05_band_accountability.md#due-process-constitutional) ödevlerini ortadan kaldırıyormuş gibi ele almak ([Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları)).
+    - anayasal yetkilendirmeyi, zaten yetkilendirilmiş sistemler ya da sınırlı karar alanları içinde etkilenen taraf katılımı, temsil, [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) ya da [usul güvencesi](../../core_05.035_band_accountability.md#due-process-constitutional) ödevlerini ortadan kaldırıyormuş gibi ele almak ([Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları)).
 
 ---
 
@@ -157,10 +157,10 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: İlkeler: [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Süreç çatışması çözümü](#6-process-conflict-resolution).
+- Aşağı: İlkeler: [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency); [6. Süreç çatışması çözümü](core_05_band_integrative.md).
 - Sahip tabanı: [On İkinci Bölüm Birinci Bölüm §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*Temel anayasal seçim için siyasi-eşitlik tabanı*; *Kalıcı siyasi-ses tabanı*); [Madde X-C: Yönetişim katılımı ve oy hakkı](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Küme bileşeni: [*Anayasal Sözleşme Katmanı ve Temel anayasal seçim*](core_05_band_integrative.md#anayasal-sözleşme-katmanı)
-- Birlikte oku: [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı), [Etkilenen taraf temsili ve ağırlık sınırları (bağlayıcı etkilenen taraf seçimi)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Bağlayıcı etkilenen taraf seçimi](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Usul adilliği](core_05_band_participation.md#procedural-fairness-constitutional).
+- Birlikte oku: [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı), [Etkilenen taraf temsili ve ağırlık sınırları (bağlayıcı etkilenen taraf seçimi)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Bağlayıcı etkilenen taraf seçimi](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [Usul adilliği](../../core_05.055_band_participation.md#procedural-fairness-constitutional).
 - Katman: **Anayasal Sözleşme Katmanı (CCL)**. Zaten yetkilendirilmiş sistemlerin içindeki **Etkilenen Tarafların Sistem Katılımı (SSP)**nden ayrıdır.
 
 </details>
@@ -178,9 +178,9 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     Bu, [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı)na aittir.
     - Sahip: [On İkinci Bölüm Birinci Bölüm §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).
     - Hak-katmanı işaretçisi: [Madde X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Yönetişim katılımı ve oy hakkı*).
-    - [Algılama dışlamama](core_05_band_participation.md#sentience-non-exclusion) altında uygulanır.
+    - [Algılama dışlamama](../../core_05.055_band_participation.md#sentience-non-exclusion) altında uygulanır.
   - **Kapsam dışında:**
-    - bir alanın zaten yetkilendirilmiş yönetme yapıları ve süreçleri olduğunda sıradan etkiye göre ağırlıklandırılmış etkilenen taraf kararları — etkilenen algılayanlar, [Etkilenen taraf](core_05_band_participation.md#stakeholder) saptaması ve [Etkilenen taraf ağırlığı](core_05_band_participation.md#stakeholder-weight) yoluyla ( **Madde XII** (*Etkilenen Tarafların Sistem Katılımı, temsil ve usul güvencesi*) kısıtları dahil) ne kadar etkilendiklerine ölçeklenmiş bir söz alır, eşit-ağırlıklı kurucu sayım kuralları yoluyla değil; ve
+    - bir alanın zaten yetkilendirilmiş yönetme yapıları ve süreçleri olduğunda sıradan etkiye göre ağırlıklandırılmış etkilenen taraf kararları — etkilenen algılayanlar, [Etkilenen taraf](../../core_05.055_band_participation.md#stakeholder) saptaması ve [Etkilenen taraf ağırlığı](../../core_05.055_band_participation.md#stakeholder-weight) yoluyla ( **Madde XII** (*Etkilenen Tarafların Sistem Katılımı, temsil ve usul güvencesi*) kısıtları dahil) ne kadar etkilendiklerine ölçeklenmiş bir söz alır, eşit-ağırlıklı kurucu sayım kuralları yoluyla değil; ve
     - o yetkiyi yetkilendirmeyen ya da kalıcı biçimde yeniden yapılandırmayan rutin işletim ya da politika seçimleri.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>
@@ -190,18 +190,18 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     **Birincil değerlendirme:**
     - Bir kararı, kim yönetebilir, hangi mekanizmayla ya da hangi kalıcı koşullar altında olduğuna dair olduğunda temel sayın — bir oyun ya da bir politika seçiminin büyük kısa-dönem etkisi olduğu için değil.
     - [Önsöz §3.3 yönetişim katmanları](core_00_preamble.md#33-yönetişim-katmanları)nı okuyun.
-    - Temel sorular, [Etkilenen taraf temsili ve ağırlık sınırları (bağlayıcı etkilenen taraf seçimi)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) altında yüksek-etkili ağırlıklandırılmış seçimler olarak yeniden yönlendirilemez.
-    - [Algılama dışlamama](core_05_band_participation.md#sentience-non-exclusion) uygulayın.
+    - Temel sorular, [Etkilenen taraf temsili ve ağırlık sınırları (bağlayıcı etkilenen taraf seçimi)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) altında yüksek-etkili ağırlıklandırılmış seçimler olarak yeniden yönlendirilemez.
+    - [Algılama dışlamama](../../core_05.055_band_participation.md#sentience-non-exclusion) uygulayın.
     - Alttaş sınıfına (biyolojik, sentetik ya da dijital tür), takvim yaşına ya da soya (ata, tür ya da türetim) göre daha çok ya da daha az kurucu ses vermeyin.
-    - Katılıma karşı çağrılan herhangi bir diskalifiyeye [Usul adilliği](core_05_band_participation.md#procedural-fairness-constitutional) uygulayın.
+    - Katılıma karşı çağrılan herhangi bir diskalifiyeye [Usul adilliği](../../core_05.055_band_participation.md#procedural-fairness-constitutional) uygulayın.
 <a id="foundational-constitutional-choice-c"></a>
 <a id="foundational-collective-choice-constitutional-c"></a>
 - **Neyin geçerli kalması gerekir**
-  - **Birincil başarısızlık:** temel soruları, yetkilendirme katmanındaki eşit katılımı bozacak biçimde [Etkilenen taraf temsili ve ağırlık sınırları (bağlayıcı etkilenen taraf seçimi)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) kuralları altında yüksek-etkili ağırlıklandırılmış seçimler olarak yeniden yönlendirmek.
+  - **Birincil başarısızlık:** temel soruları, yetkilendirme katmanındaki eşit katılımı bozacak biçimde [Etkilenen taraf temsili ve ağırlık sınırları (bağlayıcı etkilenen taraf seçimi)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) kuralları altında yüksek-etkili ağırlıklandırılmış seçimler olarak yeniden yönlendirmek.
   - **İkincil başarısızlık:** etki-ağırlıklandırmasını meşruiyet-mekanizması tasarımının içine yuvalamak, böylece mekanizma siyasi-eşitlik tabanından kaçsın.
   - **Üçüncül başarısızlık:**
     - On İkinci Bölüm Birinci Bölüm §8.1 *Kalıcı siyasi-ses tabanı* testlerini geçmeyen, kalıcı-siyasi-ses elendirme vektörü olarak güzergâh kaybı kullanımı — tam iade beklerken nihai Onuncu Bölüm anayasa karşıtı kötü davranış alıkoyması hariç; ya da
-    - alttaş-sınıfı, takvim-yaşı ya da soy katılım-ağırlığı etkenleri ([Algılama dışlamama](core_05_band_participation.md#sentience-non-exclusion)).
+    - alttaş-sınıfı, takvim-yaşı ya da soy katılım-ağırlığı etkenleri ([Algılama dışlamama](../../core_05.055_band_participation.md#sentience-non-exclusion)).
 
 ---
 
@@ -212,8 +212,8 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Birlikte oku: [Üretken kapasite](core_05_band_continuity.md#productive-capacity-constitutional), [Anayasal verimlilik](core_05_band_continuity.md#constitutional-efficiency) ve [Önlenebilir yük](core_05_band_continuity.md#avoidable-burden) — [Birinci Bölüm §11.1.3 Sorumlu yönetim ve işletici uygulaması](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) altında meşru ödül izlemesi için anayasal dayanak; bir talepçi münhasırlığı kapasite ya da verimlilik kazançlarıyla gerekçelendiriyorsa, o iddialar [§11.1.5 Anayasal sonuç iddiaları disiplini](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) altında sonuca izlenebilir kalmalıdır.
-- Doğrudan anayasal etkisi olan yenilikler için kamusal yarar, Sekizinci Bölüm altında katkı büyüklüğünün bir ölçüsü olarak [Yaşam süresi eşdeğer birimi (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) kullanılarak değerlendirilebilir.
+- Birlikte oku: [Üretken kapasite](../../core_05.040_band_continuity.md#productive-capacity-constitutional), [Anayasal verimlilik](../../core_05.040_band_continuity.md#constitutional-efficiency) ve [Önlenebilir yük](../../core_05.040_band_continuity.md#avoidable-burden) — [Birinci Bölüm §11.1.3 Sorumlu yönetim ve işletici uygulaması](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) altında meşru ödül izlemesi için anayasal dayanak; bir talepçi münhasırlığı kapasite ya da verimlilik kazançlarıyla gerekçelendiriyorsa, o iddialar [§11.1.5 Anayasal sonuç iddiaları disiplini](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) altında sonuca izlenebilir kalmalıdır.
+- Doğrudan anayasal etkisi olan yenilikler için kamusal yarar, Sekizinci Bölüm altında katkı büyüklüğünün bir ölçüsü olarak [Yaşam süresi eşdeğer birimi (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) kullanılarak değerlendirilebilir.
 
 </details>
 
@@ -223,7 +223,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 
 - **Nedir**
   - **Kapsamda:** Maddeten yeni ve toplumsal olarak yararlı icat, araştırma, inşa ve yaratımı ödüllendirmek için anayasal kural — o ödülün kalıcı kapatmaya dönüşmesine izin vermeden.
-    - Anayasal dayanak: [Birinci Bölüm §11.1.3](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) altında ödül, meşru olarak [Üretken kapasite](core_05_band_continuity.md#productive-capacity-constitutional) ve [Anayasal verimlilik](core_05_band_continuity.md#constitutional-efficiency)i izleyebilir; [Önlenebilir yük](core_05_band_continuity.md#avoidable-burden), anayasal bir amaca hizmet etmeyen meşguliyet işini, stoklamayı ya da kapatma sürtünmesini ödüllendirmeye karşı korur.
+    - Anayasal dayanak: [Birinci Bölüm §11.1.3](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) altında ödül, meşru olarak [Üretken kapasite](../../core_05.040_band_continuity.md#productive-capacity-constitutional) ve [Anayasal verimlilik](../../core_05.040_band_continuity.md#constitutional-efficiency)i izleyebilir; [Önlenebilir yük](../../core_05.040_band_continuity.md#avoidable-burden), anayasal bir amaca hizmet etmeyen meşguliyet işini, stoklamayı ya da kapatma sürtünmesini ödüllendirmeye karşı korur.
     - Ödül katkı, geliştirme yükü ve açıklamayı tanıyabilir.
     - Yalnızca o dışlama şu olduğunda geçici dışlama içerebilir:
       - dar;
@@ -231,8 +231,8 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
       - incelenebilir; ve
       - gerekçeli.
     - Atıf dışlama değildir; kredi ve kaynak geçmişi herhangi bir dışlama bittikten sonra sürebilir.
-    - Ödül yapılarının [Esenlik](core_05_band_continuity.md#wellbeing), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) ya da [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency)ni etkileyebileceği yerde uygulanır.
-  - **Bağlıdır:** [Gereklilik](core_05_band_accountability.md#necessity), [Orantılılık](core_05_band_accountability.md#proportionality) ve [Sistemik kilitlenme](core_05_band_continuity.md#systemic-lock-in) — kurucu sınırlar. Herhangi bir dışlama gereklilik- ve orantılılık-gerekçeli olmalıdır ve kullanım üzerindeki denetim şunlara sertleşmemelidir:
+    - Ödül yapılarının [Esenlik](../../core_05.040_band_continuity.md#wellbeing), [Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) ya da [Anlamlı eylem yetisi](../../core_05.055_band_participation.md#meaningful-agency)ni etkileyebileceği yerde uygulanır.
+  - **Bağlıdır:** [Gereklilik](../../core_05.035_band_accountability.md#necessity), [Orantılılık](../../core_05.035_band_accountability.md#proportionality) ve [Sistemik kilitlenme](../../core_05.040_band_continuity.md#systemic-lock-in) — kurucu sınırlar. Herhangi bir dışlama gereklilik- ve orantılılık-gerekçeli olmalıdır ve kullanım üzerindeki denetim şunlara sertleşmemelidir:
     - kalıcı kıtlık;
     - Sistemik kilitlenme; ya da
     - onarımın, birlikte işlerliğin, öğrenmenin, güvenlik çalışmasının, doğru açıklamanın ya da aşağı-akış deneyinin baskılanması.
@@ -250,13 +250,13 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     **Birincil değerlendirme:** Yenilik-ödülü iddialarını bu sırada değerlendirin:
     1. **Gerçek katkıyı saptayın:** Geliştirme yükünü, açıklama yeterliliğini ve kamusal yararı değerlendirin. Ödül, gerçek bir katkı ve bağımsız anlama, denetim ve sonraki uygulama için yeterli açıklama ister — yalnızca gerekçeli geçici sınırlara tabi.
     2. **Atfı dışlamadan ayırın:** Bir talepçi, herhangi bir dışlama süresi bittikten sonra krediyi, kökeni ve tanımayı tutabilir. Bu çıkarlar tek başına onarım, yeniden kullanım, uyumluluk, araştırma, eğitim, göç ya da kamu-yararı uygulama üzerindeki denetimi gerekçelendirmez.
-    3. **Gereklilik ve orantılılığı sınayın:** Münhasırlığın hiç gerekip gerekmediğini sorun. Aynı ya da daha büyük kamusal yararın daha az kısıtlayıcı ödül araçlarından gelip gelemeyeceğini sorun. Herhangi bir dışlama [Gereklilik](core_05_band_accountability.md#necessity) ve [Orantılılık](core_05_band_accountability.md#proportionality) altında dar, süreyle sınırlı ve incelenebilir olmalıdır.
+    3. **Gereklilik ve orantılılığı sınayın:** Münhasırlığın hiç gerekip gerekmediğini sorun. Aynı ya da daha büyük kamusal yararın daha az kısıtlayıcı ödül araçlarından gelip gelemeyeceğini sorun. Herhangi bir dışlama [Gereklilik](../../core_05.035_band_accountability.md#necessity) ve [Orantılılık](../../core_05.035_band_accountability.md#proportionality) altında dar, süreyle sınırlı ve incelenebilir olmalıdır.
     4. **Bağlama ölçekleyin:** Analizi şunlar için ayarlayın:
        - sistem sınıfı;
-       - [Bağımlılık](core_05_band_continuity.md#dependency);
+       - [Bağımlılık](../../core_05.040_band_continuity.md#dependency);
        - eşgüdüm gücü;
        - birlikte işlerlik yükü; ve
-       - [Geri döndürülebilirlik](core_05_band_continuity.md#reversibility-constitutional).
+       - [Geri döndürülebilirlik](../../core_05.040_band_continuity.md#reversibility-constitutional).
 
        Bağımlılık, kaldıraç ya da geri döndürülemezlik ne kadar güçlüyse, dışlamaya karşı karine o kadar güçlüdür.
     5. **Tekel-olmayan mekanizmaları tercih edin:** Münhasırlığın öngörülebilir biçimde kilitlenme, rekabet karşıtı stoklama ya da maddi zarar yaratacağı yerde ödül, harç, havuzlanmış lisans, kamusal satın alma, zorunlu erişim ya da benzer araçlar kullanın:
@@ -283,12 +283,12 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     - araştırma;
     - doğru inceleme; ya da
     - kamu-yararı uygulama.
-  - **İkincil başarısızlık:** Bir [Bağımlılık](core_05_band_continuity.md#dependency)-kritik yeniliğin, şunlar olmadan süren dışlanması:
+  - **İkincil başarısızlık:** Bir [Bağımlılık](../../core_05.040_band_continuity.md#dependency)-kritik yeniliğin, şunlar olmadan süren dışlanması:
     - sınıfa ölçeklenmiş sıkılaştırma;
     - erişimi koruyan ödüle dönüştürme; ya da
     - [corpus_systems.md](../../corpus_systems.md), CS-3 — Sistem sınıflaması ve ele alma altında süre sonu.
   - **Üçüncül başarısızlık:**
-    - [Sistemik kilitlenme](core_05_band_continuity.md#systemic-lock-in), rekabet karşıtı darboğazlar, maddi [Zarar](core_05_band_accountability.md#harm) ya da daha az kısıtlayıcı ödül araçlarının eşit ya da daha iyi işleyeceği yerde tek bir talepçiye önlenebilir bağımlılık yaratan dışlama; ya da
+    - [Sistemik kilitlenme](../../core_05.040_band_continuity.md#systemic-lock-in), rekabet karşıtı darboğazlar, maddi [Zarar](../../core_05.035_band_accountability.md#harm) ya da daha az kısıtlayıcı ödül araçlarının eşit ya da daha iyi işleyeceği yerde tek bir talepçiye önlenebilir bağımlılık yaratan dışlama; ya da
     - gizlemeye, yetersiz açıklamaya ya da Birinci Bölüm ve Altıncı Bölümün gerekçelendirdiğinin ötesinde bahaneli kısıtlamaya dayanan ödül iddiaları.
 
 ---
@@ -303,7 +303,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 
 **Yarı-bağımsız bağlam** (bileşen tanımlar yine de ortak-çağrı kapsamı dışında işleyebilir):
 
-- **Ortak çağrı:** teşvik yapıları, vekil bütünlüğü ya da koşullu-tasfiye disiplininin [Birinci Bölüm §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) altında maddi olduğu yerde.
+- **Ortak çağrı:** teşvik yapıları, vekil bütünlüğü ya da koşullu-tasfiye disiplininin [Birinci Bölüm §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) altında maddi olduğu yerde.
 - **Kapsam:** ortak çağrı karşılandığında, ödüllerin, hedeflerin ve yönetişim sinyallerinin anayasal sonuçlarla hizalı kalıp kalmadığı için Hesap verebilirlik ölçüm ailesinin ortak evi — vekil bütünlüğü ve koşullu-tasfiye disiplini dahil.
 
 **Konu grubu üyeleri.** Bu grup şunları kapsar:
@@ -323,12 +323,12 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: Hesap verebilirlik ölçüm ailesi (*Anayasal ölçüm olarak teşvik hizalaması ve vekil bütünlüğü*); İlkeler: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) altında dörtlü ele geçirme disiplini; [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi); [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- İlke-katmanı kuralı: [Birinci Bölüm §11.1 Hizalama gereği](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) ve [Birinci Bölüm §11.2 Elverişli vekiller ve vekil sapması](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence); sorumlu yönetim ve işletici uygulaması: [Birinci Bölüm §11.1.3 Sorumlu yönetim ve işletici uygulaması](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) ve [§11.1.4 Rol-derinliği ve maddi-sorumluluk yolları](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
-- Yanlış hizalanma saptaması: [Birinci Bölüm §11.3 Yanlış hizalanma saptaması](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
-- Etkin düzeltme ve ele geçirme yükseltmesi: [Birinci Bölüm §11.4 Yanlış hizalanma düzeltmesi ve ele geçirme yanıtı](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
+- Aşağı: Hesap verebilirlik ölçüm ailesi (*Anayasal ölçüm olarak teşvik hizalaması ve vekil bütünlüğü*); İlkeler: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) altında dörtlü ele geçirme disiplini; [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi); [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- İlke-katmanı kuralı: [Birinci Bölüm §11.1 Hizalama gereği](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) ve [Birinci Bölüm §11.2 Elverişli vekiller ve vekil sapması](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence); sorumlu yönetim ve işletici uygulaması: [Birinci Bölüm §11.1.3 Sorumlu yönetim ve işletici uygulaması](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) ve [§11.1.4 Rol-derinliği ve maddi-sorumluluk yolları](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways).
+- Yanlış hizalanma saptaması: [Birinci Bölüm §11.3 Yanlış hizalanma saptaması](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection).
+- Etkin düzeltme ve ele geçirme yükseltmesi: [Birinci Bölüm §11.4 Yanlış hizalanma düzeltmesi ve ele geçirme yanıtı](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response).
 - Küme bileşeni: [Teşvik hizalaması, vekil bütünlüğü ve koşullu tasfiye](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- Birlikte oku: [*Yönetişim mimarisi, gözetim, bağımlılık, merkezsizleşme, yoğunlaşma, piyasa yapısı ve çıkış yolu bütünlüğü*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) bağımlılık, yoğunlaşma, yönetişim-biçimi teşvikleri ya da çıkış-niteliği analizinin maddeten içerildiği yerde; [Beşinci Bölüm *Koşullu talep, olay-sözleşme piyasası, şans oyunu ve içeriden avantaj*](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) koşullu yapıların maddeten içerildiği yerde; Sistem ele geçirmesi, Vekil sapması, Doğruluk (Anayasal kısıt), Epistemik bütünlük ve Anlamlı eylem yetisi.
+- Birlikte oku: [*Yönetişim mimarisi, gözetim, bağımlılık, merkezsizleşme, yoğunlaşma, piyasa yapısı ve çıkış yolu bütünlüğü*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) bağımlılık, yoğunlaşma, yönetişim-biçimi teşvikleri ya da çıkış-niteliği analizinin maddeten içerildiği yerde; [Beşinci Bölüm *Koşullu talep, olay-sözleşme piyasası, şans oyunu ve içeriden avantaj*](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) koşullu yapıların maddeten içerildiği yerde; Sistem ele geçirmesi, Vekil sapması, Doğruluk (Anayasal kısıt), Epistemik bütünlük ve Anlamlı eylem yetisi.
 
 </details>
 
@@ -353,15 +353,15 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
   - **Birincil ölçü:** [Hesap verebilirlik ölçüm ailesi](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Ödül yapıları, piyasa gücü ve yanıt verebilirlik ödevleri gerçek tutuyor mu?* Bunu burada, getirilerin, hedeflerin ve yönetişim sinyallerinin hâlâ gerçek anayasal sonuçlara itip itmediğini sormak için kullanın — vekil skorlarına, boşluklara ya da ele geçirmeye değil.
 
     **Birincil değerlendirme:** Hizalamayı yalnızca ivedi ya da yerel çıktılar üzerinden değil, gecikmiş ve toplanmış etkiler boyunca değerlendirin — şunlar üzerindeki etkiler dahil:
-    - [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint);
-    - [Risk](core_05_band_continuity.md#risk);
-    - [Zarar](core_05_band_accountability.md#harm); ve
-    - [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency).
+    - [Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constraint);
+    - [Risk](../../core_05.040_band_continuity.md#risk);
+    - [Zarar](../../core_05.035_band_accountability.md#harm); ve
+    - [Anlamlı eylem yetisi](../../core_05.055_band_participation.md#meaningful-agency).
 
     Bu küme altında daha özgül bir çocuk konu maddeten söz konusu olduğunda, o çocuğun değerlendirme yolunu izleyin.
-  - **İkincil ölçü:** [Esenlik](core_05_band_continuity.md#wellbeing), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük) ve [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency) — nominal hedefler karşılanmış görünse bile hizalamayı bozabilen eş-ölçüler.
+  - **İkincil ölçü:** [Esenlik](../../core_05.040_band_continuity.md#wellbeing), [Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constraint), [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük) ve [Anlamlı eylem yetisi](../../core_05.055_band_participation.md#meaningful-agency) — nominal hedefler karşılanmış görünse bile hizalamayı bozabilen eş-ölçüler.
 
-    **İkincil değerlendirme:** Birincil ölçüyü denetlerken, resmi skorlar iyi görünse bile bu eş-ölçülerin hâlâ yanlış hizalanma gösterip göstermediğini sorun. [Sistem ele geçirmesi](core_05_band_continuity.md#system-capture)ni dahil edin (maddeten içerildiği yerde itirazı ya da gözetimi bozan yoğunlaşmış ya da gizlenmiş denetim yapıları).
+    **İkincil değerlendirme:** Birincil ölçüyü denetlerken, resmi skorlar iyi görünse bile bu eş-ölçülerin hâlâ yanlış hizalanma gösterip göstermediğini sorun. [Sistem ele geçirmesi](../../core_05.040_band_continuity.md#system-capture)ni dahil edin (maddeten içerildiği yerde itirazı ya da gözetimi bozan yoğunlaşmış ya da gizlenmiş denetim yapıları).
   - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — ödül yollarının, metriklerin ya da yönetişim sinyallerinin gerçek anayasal sonuçların yerine geçtiği yerde.
 
     **Üçüncül değerlendirme:** [Vekil sapması](core_05_band_oversight.md#vekil-sapması)nı dahil edin. Şunlar arasındaki boşlukları sömüren herhangi bir ödül yolunu, hedefi ya da yönetişim sinyalini Teşvik hizalaması girdileri sayın:
@@ -369,7 +369,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     - metrikler; ya da
     - biçimsel uyum göstergeleri
 
-    ve [Esenlik](core_05_band_continuity.md#wellbeing), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) ya da [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük) için maddi gerçek sonuçlar.
+    ve [Esenlik](../../core_05.040_band_continuity.md#wellbeing), [Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constraint) ya da [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük) için maddi gerçek sonuçlar.
 <a id="incentive-alignment-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:** şunlar olmadan Birinci Bölüm değerlerini öngörülebilir biçimde zayıflatan süren teşvikler:
@@ -378,7 +378,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     - uygulanabilir geçersiz kılma.
   - **İkincil başarısızlık:**
     - böyle yanlış hizalanmaları etkin biçimde saptamama, açıklamama ve düzeltmeme (Birinci Bölüm §11.3–§11.4);
-    - [Sistem ele geçirmesi](core_05_band_continuity.md#system-capture) (itirazı ya da gözetimi bozan yoğunlaşmış ya da gizlenmiş denetim yapıları); ya da
+    - [Sistem ele geçirmesi](../../core_05.040_band_continuity.md#system-capture) (itirazı ya da gözetimi bozan yoğunlaşmış ya da gizlenmiş denetim yapıları); ya da
     - inceleme altındaki sistem için teşvik bütünlüğünü yöneten benimsenmiş uygulama gereklerini yok sayarken anayasal Teşvik hizalaması iddia etmek.
   - **Üçüncül başarısızlık:** [Vekil sapması](core_05_band_oversight.md#vekil-sapması)nın makul biçimde gözlemlenebilir olduğu yerde vekil ya da uyum-göstergesi karşılanmasını kesin saymak.
 
@@ -403,7 +403,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 
 - **Nedir**
   - **Kapsamda:** Aracılar, işleticiler ya da kurucu bileşenler üzerinde işleyen teşvik yapıları — gecikmiş ve toplanmış etkiler boyunca davranışı öngörülebilir biçimde şekillendiren ödül yolları, hedefler, yönetişim sinyalleri ve karşılaştırılabilir yapılar.
-  - **Bağlıdır:** [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Güven](core_05_band_continuity.md#trust) ve [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency) — kurucu hizalama hedefleri. Teşvik yapıları bu sınırlarla ve gerekçeli [Güven](core_05_band_continuity.md#trust)e elverişli sistemik istikrarla hizalanmalıdır.
+  - **Bağlıdır:** [Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Güven](../../core_05.040_band_continuity.md#trust) ve [Anlamlı eylem yetisi](../../core_05.055_band_participation.md#meaningful-agency) — kurucu hizalama hedefleri. Teşvik yapıları bu sınırlarla ve gerekçeli [Güven](../../core_05.040_band_continuity.md#trust)e elverişli sistemik istikrarla hizalanmalıdır.
   - **Kapsam dışında:** Güvenlik, Doğruluk, Güven ya da Anlamlı eylem yetisi sınırlarına karşı gecikmiş ya da toplanmış davranışı şekillendirmeyen kısa-ufuklu yerel ödül ayarı.
   - **Birlikte oku:** skorların ya da metriklerin o sınırlara karşı gerçek sonuçları maskeleyebildiği yerde [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — [Teşvik hizalaması](#teşvik-hizalaması) üçüncül kademesinde sahiplenilir.
 - **Nasıl ölçülür ve değerlendirilir**
@@ -458,9 +458,9 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: İlkeler: [Birinci Bölüm §11.5 Koşullu talepler, şans oyunları ve olay-sözleşme piyasaları](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- Aşağı: İlkeler: [Birinci Bölüm §11.5 Koşullu talepler, şans oyunları ve olay-sözleşme piyasaları](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets).
 - Küme bileşeni: [Teşvik hizalaması, vekil bütünlüğü ve koşullu tasfiye](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- Birlikte oku: [Teşvik hizalaması](core_05_band_integrative.md#teşvik-hizalaması); [Koşullu talep, olay-sözleşme piyasası, şans oyunu ve içeriden avantaj](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- Birlikte oku: [Teşvik hizalaması](core_05_band_integrative.md#teşvik-hizalaması); [Koşullu talep, olay-sözleşme piyasası, şans oyunu ve içeriden avantaj](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
 
 </details>
 
@@ -469,7 +469,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 *Yalın dille: bahisler, tahmin piyasaları ve şansa dayalı ödemeler hukuka aykırı zararı, içeriden gücü ya da kamusal veya emanet-ödevi kararlarının çarpıtılmasını ödüllendirmemelidir.*
 
 - **Nedir**
-  - **Kapsamda:** Maddeten ilgili olduğu yerde [Şans oyunu](core_05_band_accountability.md#game-of-chance) ve [Olay-sözleşme piyasası](core_05_band_accountability.md#event-contract-market) biçimleri dahil [Koşullu talep](core_05_band_accountability.md#contingent-claim) yapıları.
+  - **Kapsamda:** Maddeten ilgili olduğu yerde [Şans oyunu](../../core_05.035_band_accountability.md#game-of-chance) ve [Olay-sözleşme piyasası](../../core_05.035_band_accountability.md#event-contract-market) biçimleri dahil [Koşullu talep](../../core_05.035_band_accountability.md#contingent-claim) yapıları.
   - **Kapsam dışında:**
     - koşullu-talep, şans-oyunu ya da olay-sözleşme biçimleri olmayan sıradan sabit-yükümlülük sözleşmeleri ya da değiş-tokuşlar; ya da
     - tek başına piyasa sinyalleri olarak tasfiye fiyatları ya da oranlar —
@@ -478,21 +478,21 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Hesap verebilirlik ölçüm ailesi](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Ödül yapıları, piyasa gücü ve yanıt verebilirlik ödevleri gerçek tutuyor mu?* Bunu burada, bahislerin, tahmin piyasalarının ve şansa dayalı ödemelerin hukuka aykırı zararı, içeriden gücü ya da kamusal veya emanet-ödevi kararlarının çarpıtılmasını ödüllendirmekten kaçınıp kaçınmadığını sormak için kullanın.
 
-    **Birincil değerlendirme:** Böyle sistemler [Birinci Bölüm §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)i karşılamalıdır, şunlar dahil:
-    - algılayanların bahis oynayabileceği ya da karşısında tasfiye edebileceği altta yatan olaylara [Gereklilik](core_05_band_accountability.md#necessity) ve [Orantılılık](core_05_band_accountability.md#proportionality) uygulayın;
+    **Birincil değerlendirme:** Böyle sistemler [Birinci Bölüm §11.5](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets)i karşılamalıdır, şunlar dahil:
+    - algılayanların bahis oynayabileceği ya da karşısında tasfiye edebileceği altta yatan olaylara [Gereklilik](../../core_05.035_band_accountability.md#necessity) ve [Orantılılık](../../core_05.035_band_accountability.md#proportionality) uygulayın;
     - sonuç-çözümünü adil ve bağımsız tutun — olanaklıysa birden çok kaynak kullanın ve uyuşmazlık yollarını itiraza açık tutun;
     - herhangi bir aktörün üstlenebileceği yoğunlaşma, kaldıraç ve maruziyeti, algılayanların ve daha geniş sistemin ne kadar kırılgan olduğuna ölçekleyerek sınırlayın;
     - eşgüdüm ve yüksek-ölçek koşulları altında kötüye kullanımı denetleyin; ve
     - fiyatları ve oranları yalnızca piyasa sinyalleri olarak ele alın — tek başlarına doğruluk ya da uyum kanıtı olarak değil; diğer yüksek-etkili kararlarla aynı kanıt standartlarını kullanın.
-  - **İkincil ölçü:** [Risk](core_05_band_continuity.md#risk), [Çözüm yollarının ele geçirilmesi](core_05_band_accountability.md#capture-of-resolution-pathways) ve [İçeriden avantaj](core_05_band_accountability.md#insider-advantage) — §11.5 tasarım denetimleri karşılanmış görünse bile koşullu-tasfiye hizalamasını bozabilen bütünlük katmanları.
+  - **İkincil ölçü:** [Risk](../../core_05.040_band_continuity.md#risk), [Çözüm yollarının ele geçirilmesi](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) ve [İçeriden avantaj](../../core_05.035_band_accountability.md#insider-advantage) — §11.5 tasarım denetimleri karşılanmış görünse bile koşullu-tasfiye hizalamasını bozabilen bütünlük katmanları.
 
     **İkincil değerlendirme:** Birincil ölçüyü denetlerken, bu katmanların hâlâ yanlış hizalanma gösterip göstermediğini sorun:
-    - sonuç-manipülasyonu [Risk](core_05_band_continuity.md#risk)i;
-    - [Çözüm yollarının ele geçirilmesi](core_05_band_accountability.md#capture-of-resolution-pathways); ya da
-    - [İçeriden avantaj](core_05_band_accountability.md#insider-advantage) ya da diğer ayrıcalıklı-bilgi yolları.
+    - sonuç-manipülasyonu [Risk](../../core_05.040_band_continuity.md#risk)i;
+    - [Çözüm yollarının ele geçirilmesi](../../core_05.035_band_accountability.md#capture-of-resolution-pathways); ya da
+    - [İçeriden avantaj](../../core_05.035_band_accountability.md#insider-advantage) ya da diğer ayrıcalıklı-bilgi yolları.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
 - **Neyin geçerli kalması gerekir**
-  - **Birincil başarısızlık:** [Koşullu talep](core_05_band_accountability.md#contingent-claim), [Şans oyunu](core_05_band_accountability.md#game-of-chance) ya da [Olay-sözleşme piyasası](core_05_band_accountability.md#event-contract-market) içindeki, öngörülebilir biçimde şunları ödüllendiren tasfiye yapıları:
+  - **Birincil başarısızlık:** [Koşullu talep](../../core_05.035_band_accountability.md#contingent-claim), [Şans oyunu](../../core_05.035_band_accountability.md#game-of-chance) ya da [Olay-sözleşme piyasası](../../core_05.035_band_accountability.md#event-contract-market) içindeki, öngörülebilir biçimde şunları ödüllendiren tasfiye yapıları:
     - hukuka aykırı zarar;
     - kamuya açık olmayan güçten gelen yoz avantaj; ya da
     - emanet-ödevi ya da kamusal kararların maddi çarpıtılması
@@ -516,7 +516,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 - Anayasal çerçeve: **Bütünleştirici** bacak; **Gelişim** amacı (birincil); [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) aracılığıyla [maddi pay](core_00_preamble.md#material-stake) ile ölçeklenir.
 - Bacaklar arası not: **Gözetim**, **Hesap verebilirlik** ve **Katılım** — yetki yığını tüm Dörtlü bacaklarını kaplar.
 - Birinci Bölüm temeli: Birinci Bölüm §8.1, §4, Birinci Bölüm §6.2, §12.2, §10 (bkz. [Beşinci Bölüm pusulası](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası) haritası).
-- Birlikte oku: Maddeten içerildiği yerde [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) ve On Üçüncü Bölüm / On Beşinci Bölüm mekaniğini uygulayın.
+- Birlikte oku: Maddeten içerildiği yerde [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) ve On Üçüncü Bölüm / On Beşinci Bölüm mekaniğini uygulayın.
 
 </details>
 
@@ -539,7 +539,7 @@ Kabul kapsamı karşılandığında, bu küme o soruların birlikte yanıtlanmas
 - **hangi metinlerin resmi Anayasa sayıldığı** — benimsenmiş, sürümlendirilmiş corpus; taslaklar, notlar ya da resmi olmayan kopyalar değil;
 - **yetkinin o corpus içinde nasıl sıralandığı** — konular örtüştüğünde hangi bölümlerin ve katmanların yönettiği, [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack) altında sahip yer-değiştirmeme ve üstünlük etkisi dahil;
 - **geçerli bir benimseme sonrası hangi kaynağın kazandığı** — bağlayıcı yükümlülükler gerçekten benimsenen kapsam içinde üstün gelir; ve
-- **iddia edilen ödevlerin pratikte denetlenip yaptırılıp yaptırılamadığı** — [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) yoluyla, yalnızca kâğıtta iddia edilerek değil.
+- **iddia edilen ödevlerin pratikte denetlenip yaptırılıp yaptırılamadığı** — [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) yoluyla, yalnızca kâğıtta iddia edilerek değil.
 
 O sorulardan herhangi biri söz konusu olduğunda, küme üyelerini birlikte okuyun; birini tek başına yeterli saymayın.
 
@@ -548,7 +548,7 @@ O sorulardan herhangi biri söz konusu olduğunda, küme üyelerini birlikte oku
 - [Corpus](core_05_band_integrative.md#corpus); ve
 - [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack).
 
-[Anayasal kısıt](core_05_band_integrative.md#anayasal-kısıt) bu kesitte küme ile birlikte okunan bir destek tanım olarak yaşar; bağımsız olarak istenmedikçe ek bir ortak-çağrı üyesi değildir. Hangi bölümün hangi maddi alana sahip olduğunun olumlu sahip sicili [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar)nde yaşar (4–7. kesitler). Sahip yer-değiştirmeme ve üstünlük etkisi [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack) altında belirtilir. Bağlayıcı taleplerin pratik yaptırılabilirliği [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) altında yönlendirilir. Yönetişim-katmanı yerine-geçme karşıtı (Anayasal Sözleşme vs Etkilenen Tarafların Sistem Katılımı) [Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları) ve [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı) altında yaşar.
+[Anayasal kısıt](core_05_band_integrative.md#anayasal-kısıt) bu kesitte küme ile birlikte okunan bir destek tanım olarak yaşar; bağımsız olarak istenmedikçe ek bir ortak-çağrı üyesi değildir. Hangi bölümün hangi maddi alana sahip olduğunun olumlu sahip sicili [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar)nde yaşar (4–7. kesitler). Sahip yer-değiştirmeme ve üstünlük etkisi [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack) altında belirtilir. Bağlayıcı taleplerin pratik yaptırılabilirliği [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) altında yönlendirilir. Yönetişim-katmanı yerine-geçme karşıtı (Anayasal Sözleşme vs Etkilenen Tarafların Sistem Katılımı) [Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları) ve [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı) altında yaşar.
 
 **Atlatma karşıtı.** Kabul kapsamı içindeki bir mesele ayrı şu sorulara bölünmemelidir:
 
@@ -575,7 +575,7 @@ Bkz. **Ortak çağrı ve karşılama**.
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: İlkeler: [15. Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (corpus bütünleşik bir bütün olarak okunur); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **gözetim** bacağı; [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — dahil etme ve emanet altında **Süreklilik** amacı; [2. Anayasal yorum](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (bağlayıcı kaynak saptaması).
+- Aşağı: İlkeler: [15. Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (corpus bütünleşik bir bütün olarak okunur); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **gözetim** bacağı; [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — dahil etme ve emanet altında **Süreklilik** amacı; [2. Anayasal yorum](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (bağlayıcı kaynak saptaması).
 - Aşağı: [On Altıncı Bölüm — Dahil etme köprüsü](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*hangi benimsenmiş **uygulama metni** metninin bağlayıcı olduğu, baskı sabitleme, emanet zinciri ve anti-drift disiplini*).
 - Birlikte oku: [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack) ve [Anayasal kısıt](core_05_band_integrative.md#anayasal-kısıt).
 - Birlikte oku: [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar) (*olumlu alan→sahip haritası*, 4–7. kesitler).
@@ -619,10 +619,10 @@ Bkz. **Ortak çağrı ve karşılama**.
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: İlkeler: [2. Anayasal yorum](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [15. Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (Yetki yığını vs İç hiyerarşi, Birinci Bölüm ile birlikte okunur).
-- Aşağı: [Birinci Bölüm — §8 Anayasal yorum](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (bütünleşik okuma ve son-çare hiyerarşi); [Birinci Bölüm §8.4 Anayasal anlam çatışması çözümü](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*dahil etme katmanı dahil tek çatışma usulü*); [On Dördüncü Bölüm — Benimseyenler için iç hiyerarşi](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [On Altıncı Bölüm](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*dahil etme köprüsü — emanet, baskılar, benimseme; ikinci bir yığın ya da çatışma-düzeni evi değil*).
+- Aşağı: İlkeler: [2. Anayasal yorum](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); [15. Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (Yetki yığını vs İç hiyerarşi, Birinci Bölüm ile birlikte okunur).
+- Aşağı: [Birinci Bölüm — §8 Anayasal yorum](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (bütünleşik okuma ve son-çare hiyerarşi); [Birinci Bölüm §8.4 Anayasal anlam çatışması çözümü](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*dahil etme katmanı dahil tek çatışma usulü*); [On Dördüncü Bölüm — Benimseyenler için iç hiyerarşi](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [On Altıncı Bölüm](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*dahil etme köprüsü — emanet, baskılar, benimseme; ikinci bir yığın ya da çatışma-düzeni evi değil*).
 - Aşağı: [Altıncı Bölüm — Katman kapsamı](../../core_06.005_rights_part_a.md#12-layer-scope); [On Üçüncü Bölüm §4 Katman kapsamı](../../core_15.000_non_regression.md#4-layer-scope) ve [On Beşinci Bölüm §12 Katman kapsamı](../../core_17.000_amendment_ratification.md#12-layer-scope) (*yerel uygulanan sahip yer-değiştirmeme*); numaralı `core_*` aracı boyunca bölüm açılış sahip bildirimleri.
-- Birlikte oku: [Corpus](core_05_band_integrative.md#corpus); [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar) (*olumlu alan→sahip haritası*, 4–7. kesitler); [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) (*bağlayıcı taleplerin pratik yaptırılabilirliği*); [Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları) ve [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı) (*yönetişim-katmanı yerine-geçme karşıtı*); [Anayasal kısıt](core_05_band_integrative.md#anayasal-kısıt); **CJS-0.1** (*uygulama konu yönlendirici*).
+- Birlikte oku: [Corpus](core_05_band_integrative.md#corpus); [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar) (*olumlu alan→sahip haritası*, 4–7. kesitler); [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) (*bağlayıcı taleplerin pratik yaptırılabilirliği*); [Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları) ve [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı) (*yönetişim-katmanı yerine-geçme karşıtı*); [Anayasal kısıt](core_05_band_integrative.md#anayasal-kısıt); **CJS-0.1** (*uygulama konu yönlendirici*).
 
 </details>
 
@@ -638,7 +638,7 @@ Bkz. **Ortak çağrı ve karşılama**.
 
     **Yetki yığını:** anayasal, dahil edilmiş ve destek katmanları boyunca anayasal yorumu, benimseme etkisini ve katman statüsünü yöneten sıralı yetki-kaynağı çerçevesi.
 
-    **İç hiyerarşi:** [Birinci Bölüm — §8 Anayasal yorum](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) altında bütünleşik okuma tüketildikten sonra, bağlayıcı anayasal kaynak içindeki gerçek artık bağdaşmazlığı çözen son-çare yorumsal sıralama kuralı. O kaynak içinde:
+    **İç hiyerarşi:** [Birinci Bölüm — §8 Anayasal yorum](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) altında bütünleşik okuma tüketildikten sonra, bağlayıcı anayasal kaynak içindeki gerçek artık bağdaşmazlığı çözen son-çare yorumsal sıralama kuralı. O kaynak içinde:
     - Birinci Bölüm ilkeleri üst düzey anayasal yönü yönetir;
     - madde-düzeyi yükümlülükler ve Hak Tabanları belirli işlemsel gerekleri yönetir;
     - ilkeler maddeler üzerinde yalnızca gerçek artık bağdaşmazlık için yönetir; ve
@@ -669,7 +669,7 @@ Bkz. **Ortak çağrı ve karşılama**.
     <a id="supremacy-and-enforceability-c"></a>
     - **Üstünlük:** Bağlayıcı corpus yükümlülükleri geçerli kaynak, benimseme ve yönetişim-katmanı kapsamları içinde üstün gelir. O üstünlük etkisi, bu girdiyi işlemsel [Corpus](core_05_band_integrative.md#corpus) ve uygulanan benimseme ya da dahil etme aracıyla birlikte uygulamanın sonucudur — diğer normlara göreli [On Dördüncü Bölüm](../../core_16.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) üstünlüğü ve uygulanan dış hukukun yerinden edilmemesi [On Dördüncü Bölüm §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law) dahil. Uygulama, destek metni, özel düzenleme, acil durum çerçevelemesi ya da işletim uygulaması, o bağlayıcı yükümlülükleri geçerli kapsamları içinde daraltmamalıdır.
 
-    Bağlayıcı taleplerin pratik yaptırılabilirliği — kâğıt vaatler değil gözlemlenebilir, itiraz edilebilir uyum — [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) altında değerlendirilir. Yönetişim-katmanı yerine-geçme karşıtı (Anayasal Sözleşme vs Etkilenen Tarafların Sistem Katılımı) [Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları) ve [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı) altında yaşar.
+    Bağlayıcı taleplerin pratik yaptırılabilirliği — kâğıt vaatler değil gözlemlenebilir, itiraz edilebilir uyum — [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) altında değerlendirilir. Yönetişim-katmanı yerine-geçme karşıtı (Anayasal Sözleşme vs Etkilenen Tarafların Sistem Katılımı) [Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları) ve [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı) altında yaşar.
 
     Benimseyenler için, **On Dördüncü Bölüm**deki [Benimseyenler için iç hiyerarşi](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) bu aynı eşleşik kuralı bağlayıcı Anayasa ile benimsenmiş uygulama metni arasındaki hatta uygular:
     - bu Anayasa ve bütünleşik tanımları, metnin nasıl okunduğunu ve neyin uyum sayıldığını yönetir; ve
@@ -682,13 +682,13 @@ Bkz. **Ortak çağrı ve karşılama**.
     **Birincil değerlendirme:**
     - Önce Yetki yığını altında işlemsel baskı/emanet zincirini ve kaynak katmanını saptayın.
     - Sonra [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar)nde (ve bölüm açılış sahip iddiasında) sahip evi saptayın; maddeyi yalnızca o sahip evinden uygulayın — başka yerde yalnızca işaretçi kullanın.
-    - Sonra [Birinci Bölüm — §8 Anayasal yorum](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) altında bütünleşik okuma uygulayın.
+    - Sonra [Birinci Bölüm — §8 Anayasal yorum](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) altında bütünleşik okuma uygulayın.
     - Anayasanın bütünleşik bir bütün olarak en dolu koruyucu etkisini ve [Altıncı Bölüm](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) daralmama varsayılanını koruyun.
     - İç hiyerarşiyi yalnızca son-çare artık kural olarak kullanın; onu sıradan bütünleşik okumanın yerine ya da kanonik terim anlamı üzerindeki salt anlaşmazlığı çözmek için kullanmayın.
     - Uyuşmazlık terim anlamıysa, Beşinci Bölüm kanonik tanımı her katmanda yönetir.
     - CS, CI, CF ve CJS boyunca yönlendirilen uygulama konuları için, sahip saptamasından sonra **CJS-0.1** (Konu yönlendirici) uygulayın.
     - Bağlayıcı yükümlülüklerin geçerli benimseme ve yönetişim-katmanı kapsamı içinde üstün geldiğini ve uygulama, destek, özel ya da acil durum çerçevelemesinin onları daraltmadığını doğrulayın.
-    - O taleplerin pratik yaptırılabilirliği için [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) uygulayın; Sözleşme vs Etkilenen taraf yönlendirmesi için [Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları) uygulayın.
+    - O taleplerin pratik yaptırılabilirliği için [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) uygulayın; Sözleşme vs Etkilenen taraf yönlendirmesi için [Önsöz §3.3](core_00_preamble.md#33-yönetişim-katmanları) uygulayın.
     - Şu yorumları reddedin:
       - kaynak önceliğini tersine çeviren;
       - kaynak statüsünü gizleyen;
@@ -706,8 +706,8 @@ Bkz. **Ortak çağrı ve karşılama**.
     - [On Üçüncü Bölüm](../../core_15.000_non_regression.md) gerilememesine ve Altıncı Bölüm açılış sözleşmesine aykırı olarak [Altıncı Bölüm](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) Hak Tabanlarını daraltmak, yeniden tanımlamak ya da yerini değiştirmek için süreç, yönetişim ya da uygulama çerçevelemesini kullanmak;
     - [Önsöz sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar) zaten kanonik bir ev atadığında sahip-olmayan katmanlarda paralel taksonomiler ya da iş akışları icat etmek;
     - yerleşik kaynak hiyerarşisini tersine çevirecek ya da uygulama, destek metni, özel düzenleme, acil durum çerçevelemesi veya işletim uygulamasının bağlayıcı corpus yükümlülüklerini geçerli kapsamları içinde yerinden etmesine izin verecek biçimde üstünlük ya da uyum iddia etmek;
-    - daha sert bir okumayı seçmek, [Altıncı Bölüm](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) Hak Tabanı korumalarını [Birinci Bölüm](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)ün açıkça izin verdiğinin dışında daraltmak ya da sıradan okumada bir kaynak katmanını diğeriyle değiştirmek için İç hiyerarşiyi kestirme olarak kullanmak;
-    - Beşinci Bölüm tanımlarını ilkeleri ya da maddeleri geçersiz kılan rakip bir hukuk gövdesi saymak ([Birinci Bölüm — §8 Anayasal yorum](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); ya da
+    - daha sert bir okumayı seçmek, [Altıncı Bölüm](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) Hak Tabanı korumalarını [Birinci Bölüm](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)ün açıkça izin verdiğinin dışında daraltmak ya da sıradan okumada bir kaynak katmanını diğeriyle değiştirmek için İç hiyerarşiyi kestirme olarak kullanmak;
+    - Beşinci Bölüm tanımlarını ilkeleri ya da maddeleri geçersiz kılan rakip bir hukuk gövdesi saymak ([Birinci Bölüm — §8 Anayasal yorum](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)); ya da
     - benimseyenler için, benimsenmiş uygulama metnini benimseme kapsamı içinde bu Anayasayı geçersiz kılıyor ya da [On Üçüncü Bölüm](../../core_15.000_non_regression.md) gerilememe tabanlarını gevşetiyor saymak (**On Dördüncü Bölüm**de [Benimseyenler için iç hiyerarşi](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)).
 
 ---
@@ -719,8 +719,8 @@ Bkz. **Ortak çağrı ve karşılama**.
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: [Birinci Bölüm §3 Pazarlığa kapalı ilke kısıtları: Güvenlik ve Doğruluk](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-- Birlikte oku: [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack) ve [Zarar](core_05_band_accountability.md#harm).
+- Yukarı: İlkeler: [Birinci Bölüm §3 Pazarlığa kapalı ilke kısıtları: Güvenlik ve Doğruluk](core_01_a_values_principles.md); [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md).
+- Birlikte oku: [Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack) ve [Zarar](../../core_05.035_band_accountability.md#harm).
 
 </details>
 
@@ -733,9 +733,9 @@ Bkz. **Ortak çağrı ve karşılama**.
 
     Anayasal Kısıtlar, en yüksek denetim gücünden en düşüğe sıralanan şu **türlere** sınıflanır. Daha yüksek türler daha düşük türleri yönetir: daha düşük bir tür, geçerli kapsamı içinde daha yüksek bir türü daraltamaz, yeniden tanımlayamaz ya da yerinden edemez. Bu girdi türleri sınıflar ve yönlendirir; sahip-katmanı yükümlülükler kanonik evlerinde kalır.
 
-    1. **Pazarlığa kapalı ilke kısıtları** — Birinci Bölümün pazarlığa kapalı sınırları olarak [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) ve [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt).
+    1. **Pazarlığa kapalı ilke kısıtları** — Birinci Bölümün pazarlığa kapalı sınırları olarak [Güvenlik (Kısıt)](../../core_05.040_band_continuity.md#safety-constraint) ve [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt).
     2. **Hak Tabanı kısıtları** — uygulama, süreç, yönetişim, acil durum, geçiş ya da özel-düzenleme çerçevelerinin korunan hakları daraltmasını önleyen Altıncı Bölüm asgari ve daralmama kuralları.
-    3. **Kısıtlama ve sınırlama kısıtları** — hakları etkileyen kısıtlamaları yöneten [Gereklilik](core_05_band_accountability.md#necessity), [Orantılılık](core_05_band_accountability.md#proportionality), en az kısıtlayıcı etkili seçim, süreyle sınırlılık, incelenebilirlik ve yük-en-aza-indirme disiplinleri.
+    3. **Kısıtlama ve sınırlama kısıtları** — hakları etkileyen kısıtlamaları yöneten [Gereklilik](../../core_05.035_band_accountability.md#necessity), [Orantılılık](../../core_05.035_band_accountability.md#proportionality), en az kısıtlayıcı etkili seçim, süreyle sınırlılık, incelenebilirlik ve yük-en-aza-indirme disiplinleri.
     4. **Epistemik ve açıklama kısıtları** — [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), açıklama sınırları, yayımlama sınırları, korunan-veri ve iç-durum sınırları ve güvenlik-duyarlı açıklama dengesi.
     5. **Değerlendirme kısıtları** — [Değerlendirme tamlığı kısıtı](core_05_band_oversight.md#değerlendirme-tamamlama-kısıtı), [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#maddiity-integrity-constraint), zaman-tutarlılığı, vekil-sapması geçersiz kılma ve Dördüncü Bölüm yük, izlenebilirlik ve doğrulama gerekleri.
     6. **İşletim ve uygulama kısıtları** — yalnızca geçerli benimseme ve kaynak-katmanı kapsamları içinde ve yalnızca daha yüksek türleri daraltmadıkları yerde tanınan kapasite, uygulanabilirlik, güvenlik, gizlilik, zamanlama, teknik ya da kaynak sınırları.
@@ -748,7 +748,7 @@ Bkz. **Ortak çağrı ve karşılama**.
       - emanet; ve
       - kaynak-statüsü disiplini.
     - Sınıflanmış yükümlülükler [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar) altında kanonik sahip evlerine ait kalır.
-    - Bağlayıcı kısıt iddialarının pratik yaptırılabilirliği [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) altında yönlendirilir.
+    - Bağlayıcı kısıt iddialarının pratik yaptırılabilirliği [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) ve [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) altında yönlendirilir.
   - **Kapsam dışında:** Bir anayasal iddianın, sistem eyleminin ya da yönetişim fiilinin geçerliliğini belirlemeyen isteğe bağlı rehber, yönelimsel normlar ya da politika tercihleri.
 <a id="constitutional-constraint-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
@@ -776,7 +776,7 @@ Bkz. **Ortak çağrı ve karşılama**.
       - çare erişimi;
     - bir tür etiketini, kararı yöneten özgül O/M/A/C girdisinin, Hak Tabanı maddesinin ya da sahip-katmanı kuralının yerine koymak;
     - maddeten uygulanan başka bir türü ayırırken bir türü uygulamak;
-    - sistem davranışı ya da sonuçları yoluyla Güvenliği, Doğruluğu ya da başka bir bağlayıcı anayasal gereği maddeten bozmak, şu olan [Zarar](core_05_band_accountability.md#harm) etkileri dahil:
+    - sistem davranışı ya da sonuçları yoluyla Güvenliği, Doğruluğu ya da başka bir bağlayıcı anayasal gereği maddeten bozmak, şu olan [Zarar](../../core_05.035_band_accountability.md#harm) etkileri dahil:
       - doğrudan;
       - dolaylı;
       - gecikmiş; ya da
@@ -785,7 +785,7 @@ Bkz. **Ortak çağrı ve karşılama**.
 
 ---
 
-**Önceki dosya:** [core_05_band_continuity.md](core_05_band_continuity.md)
+**Önceki dosya:** [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
 
 **Sonraki dosya (bu dilde):** [core_05_band_oversight.md](core_05_band_oversight.md)
 

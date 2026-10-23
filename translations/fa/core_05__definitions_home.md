@@ -133,7 +133,7 @@
 - [الزام قابلیت](../../core_05.050_band_oversight.md#capability-requirement)
 - [تسخیر مسیرهای حل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [شکست آبشاری](../../core_05.040_band_continuity.md#cascading-failure)
-- [منشور](../../core_05.040_band_continuity.md#charter)
+- [منشور](../../core_05.040_band_continuity.md)
 - [حکمرانی مقیاس‌شده با طبقه‌بندی](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [اجبار و دستکاری](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [شکست پاسخگویی جمعی](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -401,7 +401,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)؛ [منافع مادی](core_00_preamble.md#material-stake)؛ [دیباچه §2 نمای کلی اندازه‌گیری‌ها](core_00_preamble.md#measurements-overview).
+- بالادست: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)؛ [منافع مادی](core_00_preamble.md#material-stake)؛ [دیباچه §2 نمای کلی اندازه‌گیری‌ها](core_00_preamble.md#2-measurements-overview).
 - پایین‌دست: جهت‌گیری قانون اساسی برای همهٔ تعریف‌های نوار فصل پنجم و خوشه‌های وابستهٔ **Def.**
 - خوانده شود با: فراقاعده‌های [تعریف‌های مستقل](core_05__definitions_home.md#1-تعریفهای-مستقل)، [§1.1 فراخوانی، برآوردن و انطباق](core_05__definitions_home.md#11-فراخوانی-برآوردن-و-انطباق)، [§2.1 فراخوانی و برآوردن مشترک](core_05__definitions_home.md#21-فراخوانی-و-برآوردن-مشترک) و [§2.2 تعامل تعریف‌های خودایستا و بافت کامل](core_05__definitions_home.md#22-تعامل-تعریفهای-خودایستا-و-بافت-کامل) پیش از اعمال هر خوشهٔ وابسته.
 
@@ -437,7 +437,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">راهنمای خواننده (غیرعملیاتی): جدول تقاطع اندازه‌گیری دیباچه</span></strong></summary>
 
-> [دیباچه §2](core_00_preamble.md#measurements-overview) هفت **ردهٔ اندازه‌گیری** قانون اساسی را فهرست می‌کند — پرسش‌هایی که گردانندگان هنگام ارزیابی نظام‌ها می‌پرسند. فصل پنجم **تعریف‌های معیار** را بر پایهٔ پای چهارگانه، هدف **پیوستگی**، و مالکیت **یکپارچهٔ** میان‌پا سازمان می‌دهد. جدول زیر هر ردهٔ اندازه‌گیری را به خانه‌های فصل پنجمش می‌نگارد. یک رده می‌تواند بیش از یک پروندهٔ نوار را بپوشاند؛ خانه‌های معیار وقتی رده‌های اندازه‌گیری همپوشانی کنند جابه‌جا نمی‌شوند.
+> [دیباچه §2](core_00_preamble.md#2-measurements-overview) هفت **ردهٔ اندازه‌گیری** قانون اساسی را فهرست می‌کند — پرسش‌هایی که گردانندگان هنگام ارزیابی نظام‌ها می‌پرسند. فصل پنجم **تعریف‌های معیار** را بر پایهٔ پای چهارگانه، هدف **پیوستگی**، و مالکیت **یکپارچهٔ** میان‌پا سازمان می‌دهد. جدول زیر هر ردهٔ اندازه‌گیری را به خانه‌های فصل پنجمش می‌نگارد. یک رده می‌تواند بیش از یک پروندهٔ نوار را بپوشاند؛ خانه‌های معیار وقتی رده‌های اندازه‌گیری همپوشانی کنند جابه‌جا نمی‌شوند.
 >
 > **اهمیت مادی** ([تعیین اهمیت مادی](../../core_05.050_band_oversight.md#materiality)) یکپارچه است — دروازهٔ آستانهٔ عرضی که همهٔ خانواده‌های اندازه‌گیری را زیر [منافع مادی](core_00_preamble.md#material-stake) مقیاس می‌کند؛ ردهٔ جدا در جدول زیر نیست.
 

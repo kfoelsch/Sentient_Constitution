@@ -12,10 +12,10 @@
 > | 부분 | 파일 | 주관 |
 > |------|------|------|
 > | **A부분 — 평가** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: 목적, 체계 등급, 전체 체계 평가(증서된 범위 대 기능 경계 포함), 영역 평가 고리, 등급별 예시 훑기 |
-> | **B부분 — 기록과 과정** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: 인증 기록(지배하는 [범위 증서](core_05_band_continuity.md#charter) 칸 포함), 투명/다툴 수 있음, 포럼 역할, 감독 순서, 궤적 다리, 재개 — A부분 §10부터의 연속 장 번호 |
+> | **B부분 — 기록과 과정** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: 인증 기록(지배하는 [범위 증서](../../core_05.040_band_continuity.md) 칸 포함), 투명/다툴 수 있음, 포럼 역할, 감독 순서, 궤적 다리, 재개 — A부분 §10부터의 연속 장 번호 |
 >
 > 옛 단일 파일 제7장의 유산 앵커는 A부분과 B부분 파일에 보존됩니다. 다른 파일의 일반 **제7장** 링크는 절 번호로 알맞은 부분으로 갑니다.
-> 제도 범위 증서 형성, 최소 칸, 주기 검토 의무는 [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6**에 삽니다 — 제7장은 그 칸을 쓰며, 다시 정의하지 않습니다.
+> 제도 범위 증서 형성, 최소 칸, 주기 검토 의무는 [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6**에 삽니다 — 제7장은 그 칸을 쓰며, 다시 정의하지 않습니다.
 
 >
 > **이전(이 언어):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

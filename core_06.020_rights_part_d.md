@@ -617,12 +617,12 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
   - works the sentient created or provided (Type Y, or Type W once the sentient has made them public), records of the sentient's own participation, exchanges, and activity (Type H), and material inferences or classifications derived from them that affect rights, standing, or opportunities are portable to that sentient, as are copies of works others released to that sentient, within the scope of that release;
   - identity and attribution data (Type I), including the sentient's own credentials and keys, is portable with revocation, rotation, correction, and recoverability preserved;
   - internal-state data (Type N), including inferences, reconstructions, or approximations of internal states, is portable at the sentient's explicit, informed direction and must remain marked as inferred rather than observed where it is inferred;
-  - where records also carry other sentients' data, those parts are withheld, redacted, or transferred only with their consent or a justified override; works with more than one contributor follow the shared-works rules in CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*), under which each contributor may keep a full copy of a work they helped make, within the scope it was already shared;
+  - where records also carry other sentients' data, those parts are withheld, redacted, or transferred only with their consent or a justified override; works with more than one contributor follow the shared-works rules in CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*), under which each contributor may keep a full copy of a work they helped make, within the scope it was already shared;
   - Type S material may be withheld only while its restriction remains justified, time-bound, and review-bound, and the existence and scope of the hold-back must be disclosed wherever that disclosure does not itself create material risk; and
   - this right does not convert Type G governance and operational source records into export entitlements, which remain reachable through audit and Type O disclosure, and does not narrow Type E or Type O accessibility.
 - It does require that exit, migration, and transition work in practice, not only on paper. Portable data must be delivered through continuity and export paths disclosed before commitment, in documented formats and interfaces that a receiving system can use and that:
   - preserve the data's structure, metadata, relationships, and fidelity, together with traceability of its origin and transformations;
-  - carry its CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*) type, so the receiving system can apply the same protections; and
+  - carry its CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) type, so the receiving system can apply the same protections; and
   - do not change its type or lower its protections through conversion, export, or transfer.
 - It is consistent with **Chapter Five** [*Systemic Lock-In*](core_05.040_band_continuity.md#systemic-lock-in) read with **[Chapter Five *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
 
@@ -758,7 +758,7 @@ This Article sets out the anti-lock-in rule:
   - [Article XXI-B](#article-xxi-b-reciprocal-interoperability-boundaries) (*Reciprocal Interoperability Boundaries*);
   - [Article XXI-C](#article-xxi-c-anti-lock-in-rule) (*Anti-Lock-In Rule*);
   - [Article XXIII](#article-xxiii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*);
-  - [corpus_systems.md](corpus_systems.md) **CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*) — Information types and handling**;
+  - [corpus_systems.md](corpus_systems.md) **CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) — Information types and handling**;
   - **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*).
 
 </details>
@@ -803,7 +803,7 @@ This Article sets out the open-formats floor for systems:
   - The exit duty is not subject to transition.
 - **Scope and limits:**
   - This sub-article binds systems. It does not direct individual sentients which formats to use for their own works, though they are encouraged to prefer open ones. Systems must not require individuals to use closed formats where an open format meets their needs.
-  - Open formats do not mean open content. Confidentiality, encryption, and the handling protections of every CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*) data type are unaffected.
+  - Open formats do not mean open content. Confidentiality, encryption, and the handling protections of every CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) data type are unaffected.
   - Openness does not outrank **Safety**, **Truth**, justified confidentiality, or security constraints, consistent with **Chapter One §16.3** (*Openness Aspiration*).
 
 <a id="article-xxii-movement-migration-refuge-and-non-statelessness"></a>

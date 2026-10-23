@@ -991,7 +991,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - require disclosure and monitoring;
     - require an independent co-holder or second key;
     - require step-aside from one matter;
-    - require escrow or segregation of the contested weight, funds, or keys; or
+    - require escrow or separate holding of the contested weight, funds, or keys; or
     - restrain the exercise of the named authority.
 
     An Interim Hold controls who may use one authority while the merits are decided. It never decides the merits.
@@ -1684,7 +1684,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7); Chapter Thirteen forum anti-self-judging;
   - **CI-8.205 §2** (*Functional separation lanes*);
   - **CI-14.205 §6** (*Seat catalog*);
@@ -1742,7 +1742,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - [Article XII-E](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries and post-service and prospective-role conflicts;
   - [Chapter Fourteen §1.2](core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (14.000 §1.2) (*Eligibility, contested selection, and democratic minimums*) for selection-funding boundaries;
   - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
@@ -1775,7 +1775,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - an affected sentient whose rights or position the outcome materially changes.
 
     Interested-party status is decided matter by matter. A sentient can be interested in one matter and not in another.
-  - **Out of scope:** A general interest in the outcome shared with the public, expertise, advice, advocacy for a cause with no stake of the advocate's own, professional association, or ordinary participation does not by itself make a sentient an interested party. The stake must be material to the particular matter. Interested-party status never removes a right to participate, be heard, or contest. It governs how the party may contact the sentients deciding the matter and which seats it may hold. Those rules are stated in [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties), [Article XII-E](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*), and the implementation text listed above; this entry is the Chapter Five meaning only.
+  - **Out of scope:** A general interest in the outcome shared with the public, expertise, advice, advocacy for a cause with no stake of the advocate's own, professional association, or ordinary participation does not by itself make a sentient an interested party. The stake must be material to the particular matter. Interested-party status never removes a right to participate, be heard, or contest. It governs how the party may contact the sentients deciding the matter and which seats it may hold. Those rules are stated in [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties), [Article XII-E](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*), and the implementation text listed above; this entry is the Chapter Five meaning only.
   - **Depends on:** [Materiality](core_05.050_band_oversight.md#materiality); [Dependency](core_05.040_band_continuity.md#dependency); [Material Control Line](core_05.035_band_accountability.md#material-control-line).
 <a id="interested-party-a"></a>
 - **How to measure and assess**
@@ -1792,6 +1792,67 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 ---
 
+<a id="independence"></a>
+<a id="independent"></a>
+
+#### Independence
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream:
+  - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7); Chapter Thirteen forum anti-self-judging;
+  - **CI-8.205 §2** (*Functional separation lanes*);
+  - **CI-14.205 §6** (*Seat catalog*);
+  - **CI-8.210** (*Conflict, integrity, anti-capture, and anti-corruption*); and
+  - **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+- Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
+- Read with:
+  - [Material Control Line](core_05.035_band_accountability.md#material-control-line),
+  - [Interested Party](core_05.035_band_accountability.md#interested-party),
+  - [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat),
+  - [Record Seat](core_05.035_band_accountability.md#record-seat),
+  - [Contest Seat](core_05.035_band_accountability.md#contest-seat),
+  - [Contestability](core_05.035_band_accountability.md#contestability), and
+  - [Verifiability](core_05.050_band_oversight.md#verifiability) (independence from operator self-assertion).
+- Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00.000_preamble.md#33-governance-layers).
+
+</details>
+
+<br>
+
+*In plain terms: a seat, body, or system is independent of an act when the party seeking the result cannot control it on that act and it has no stake of its own in how the act comes out. A different title, signature, or company does not make a check independent.*
+
+- **What it is**
+  - **In scope:** For a particular act or matter, a sentient, office, body, or system is **independent** of the party whose act is at issue when both hold:
+    - it is outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of that party and of every [Interested Party](core_05.035_band_accountability.md#interested-party) in the matter; and
+    - it is not itself an Interested Party in the matter.
+
+    Independence is judged act by act, on actual power and stake, not on titles, legal entities, signatures, or nominal recusal. A sentient can be independent on one act and not on another. An independent check is also one that can be carried out: the holder has authority to apply the governing standard, access to the evidence, and the practical ability to decline or condition the act and to route a challenge.
+  - **Out of scope:**
+    - Expertise, advice, professional association, shared infrastructure, administrative support, appointment history, or ordinary coordination does not by itself defeat independence. Practical control or a material stake in the particular act does.
+    - Independence is not indifference. An independent holder may hold views, work in the same field, or belong to the same community.
+    - Which seats exist, who may hold them, and how a map places them are Chapter Eight questions, not part of this definition.
+    - "Independent term" and "semi-independent term" in this chapter are labels for how a definition stands. They do not use this meaning.
+  - **Depends on:** [Material Control Line](core_05.035_band_accountability.md#material-control-line); [Interested Party](core_05.035_band_accountability.md#interested-party).
+<a id="independence-a"></a>
+<a id="independent-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether a check is independent of the act it checks.
+
+    **Primary assessment:** For the particular act, evaluate whether:
+    1. the holder sits outside the Material Control Line of the party whose act is at issue and of each interested party;
+    2. the holder is not itself an interested party in the matter; and
+    3. the holder has the authority, evidence access, and practical ability to decline, condition, and route.
+<a id="independence-c"></a>
+<a id="independent-c"></a>
+- **What must hold**
+  - **Primary failure:** Treat a seat, body, system, or tool as independent because of a different title, office, employer, legal entity, signature, committee, internal label, nominal recusal, or tool-generated attestation, when it sits inside the Material Control Line of the party whose act is at issue or is itself an interested party. A second signature does not resolve the failure.
+  - **Secondary failure:** Assert that a holder is not independent from expertise, advice, professional association, shared infrastructure, or appointment history alone, without showing practical control or a material stake in the particular act.
+
+---
+
 <a id="initiating-seat"></a>
 
 #### Initiating Seat
@@ -1800,8 +1861,8 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-seat constitutional floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2) (*operative separation and incompatibility rules*);
-  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
+  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7); and
   - **CI-14.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -1847,8 +1908,8 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-seat constitutional floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2) (*operative separation and incompatibility rules*);
-  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
+  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7); and
   - **CI-14.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -1896,7 +1957,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Downstream:
   - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
   - [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4);
-  - [Chapter Eight §2 Four-seat constitutional floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2);
+  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*); and
   - **CF-13.415 §7** (*Backup Record Authority*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -1943,8 +2004,8 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-seat constitutional floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2) (*operative separation and incompatibility rules*);
-  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
+  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7); and
   - **CI-14.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2036,8 +2097,8 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-seat constitutional floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2) (*operative separation and incompatibility rules*);
-  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
+  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
+  - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
   - [Chapter Thirteen Forums and Jurisdiction](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000); and
   - **CI-14.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
@@ -2063,7 +2124,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - **Out of scope:** A general help desk, intake channel, or complaint log that cannot review, preserve, mark, correct, limit, or route the challenged act. The seat does not gain authority over issues assigned to another forum or decision-maker.
 <a id="contest-seat-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or routing inside the **intake target** of the matching tier ([CF-13.445 §3.1](corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-timing-floors) (*Stage targets and timing floors*)) rather than a procedural dead end.
+  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or routing inside the **intake target** of the matching tier ([CF-13.445 §3.1](corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) rather than a procedural dead end.
 
     **Primary assessment:** Identify the published challenge path, holder, authority, clock, available corrective or limiting action, and required routing. Test whether the holder is independent of the challenged verification and outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of any materially interested party.
   - **Secondary measure:** [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — co-measures for access, fairness, evidence integrity, and reconstructability.
@@ -2084,10 +2145,10 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Preamble §5 System and Institutional Charters, Functional Independence, and Segregation of Duties](core_00.000_preamble.md#5-system-and-institutional-charters-functional-independence-and-segregation-of-duties);
-  - [Chapter One §18.3 Segregation of Duties](core_01.015_stewardship_capacity_principles.md#183-segregation-of-duties) (1.015 §18.3);
-  - [Chapter Eight §1 Purpose, Scope, and Owner Boundary](core_08.000_functional_independence_segregation_of_duties.md#1-purpose-scope-and-owner-boundary) (8.000 §1) (*application list*) through
-  - [§9 Relationship to Later Processes](core_08.000_functional_independence_segregation_of_duties.md#9-relationship-to-later-processes); Chapters Nine through Fourteen process-specific acts; and
+  - [Preamble §5 System and Institutional Charters, Functional Independence, and Separation of Duties](core_00.000_preamble.md#5-system-and-institutional-charters-functional-independence-and-separation-of-duties);
+  - [Chapter One §18.3 Separation of Duties](core_01.015_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3);
+  - [Chapter Eight §1 Purpose, Scope, and Owner Boundary](core_08.000_functional_independence_separation_of_duties.md#1-purpose-scope-and-owner-boundary) (8.000 §1) (*application list*) through
+  - [§9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes); Chapters Nine through Fourteen process-specific acts; and
   - **CI-14.205 §6** (*seat catalog*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
@@ -2110,7 +2171,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 *In plain terms: a materially binding act is an official step that settles something that matters — a decision, approval, finding, record change, release, payment, or ruling on a challenge — so that others must follow it or may rely on it. Because it binds, starting it, checking it, recording it, and hearing a challenge to it must stay in separate hands. Advice, drafts, and raw logs are not binding acts; the step that adopts them or gives them effect is.*
 
 - **What it is**
-  - **In scope:** An attributable act, taken or given effect under constitutional, adopted, or delegated authority, that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state of a sentient, system, institution, or shared resource, where that effect is [Material](core_05.050_band_oversight.md#material) in at least one domain under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and others must follow it or may rely on it as settled until it is corrected, superseded, or overturned. Covered acts include those listed in [Chapter Eight §1 Purpose, Scope, and Owner Boundary](core_08.000_functional_independence_segregation_of_duties.md#1-purpose-scope-and-owner-boundary): a decision; an authorization or certification; a finding; a record entry or material version change; a release, deployment, continuation, or withdrawal; a disbursement or allocation; and a disposition of a challenge.
+  - **In scope:** An attributable act, taken or given effect under constitutional, adopted, or delegated authority, that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state of a sentient, system, institution, or shared resource, where that effect is [Material](core_05.050_band_oversight.md#material) in at least one domain under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and others must follow it or may rely on it as settled until it is corrected, superseded, or overturned. Covered acts include those listed in [Chapter Eight §1 Purpose, Scope, and Owner Boundary](core_08.000_functional_independence_separation_of_duties.md#1-purpose-scope-and-owner-boundary): a decision; an authorization or certification; a finding; a record entry or material version change; a release, deployment, continuation, or withdrawal; a disbursement or allocation; and a disposition of a challenge.
   - How strong the duties on a qualifying act are still follows [Materiality](core_05.050_band_oversight.md#materiality). An act is materially binding because of what it does, not what it is called or who performs it. The same test applies whether a sentient, an office, an AI system, or an automated process takes the act, and whether it is taken under ordinary or emergency procedure. An output labeled advisory, provisional, or automated is a materially binding act when it is given effect without a separate adopting act, or when others must, or in practice do, act on it as settled.
   - Where one process step produces several materially binding acts, each is a separate act for seat placement and [Act Record](core_05.035_band_accountability.md#materially-binding-act-record) purposes. Where several steps together make one act, the act is the step that fixes its effect.
   - **Out of scope:** Deliberation, drafts, proposals, recommendations, analyses, and advisory opinions that bind no one until separately adopted (the adopting act is the materially binding act); raw telemetry, logs, attestations, and other evidence inputs; clerical steps that carry out an already recorded act without changing its effect; and acts whose effect is not material in any domain under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality). Conduct that materially affects sentients or shared systems without being an official act — such as the ongoing operation of a system, product, or service — is governed by [Attributable Action](core_05.035_band_accountability.md#attributable-action) and the substantive rule that applies to it, not narrowed by this definition. The act that authorizes, deploys, continues, or withdraws that operation is a materially binding act.
@@ -2118,7 +2179,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — used to test whether every act that meets this definition is identified as one, placed under the four seats, and carried by an Act Record.
 
-    **Primary assessment:** For each process, identify every step that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state. Test its effect under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality). Check that each qualifying step is named as a materially binding act on the published placement map required by [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) and has an identifiable [Act Record](core_05.035_band_accountability.md#materially-binding-act-record).
+    **Primary assessment:** For each process, identify every step that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state. Test its effect under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality). Check that each qualifying step is named as a materially binding act on the published placement map required by [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) and has an identifiable [Act Record](core_05.035_band_accountability.md#materially-binding-act-record).
   - **Secondary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family), [Materiality](core_05.050_band_oversight.md#materiality), and [Attributable Action](core_05.035_band_accountability.md#attributable-action) — co-measures for materiality, label-based evasion, and the boundary between official acts and ongoing conduct.
 
     **Secondary assessment:** Sample outputs described as advisory, provisional, automated, or clerical and test whether they are in practice given effect without a separate adopting act. Check that splitting or bundling process steps does not leave the step that fixes an effect without distinct seats or an Act Record.
@@ -2138,9 +2199,9 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eight §2 Four-Seat Constitutional Floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2) and
-  - [§4 Wrong-Seat Routing](core_08.000_functional_independence_segregation_of_duties.md#4-wrong-seat-routing) and
-  - [§8 Act Records and Attributable Handoffs](core_08.000_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs) (*universal minimum contents and routing requirements*); Chapters Nine through Fourteen process-specific records;
+  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) and
+  - [§4 Wrong-Seat Routing](core_08.000_functional_independence_separation_of_duties.md#4-wrong-seat-routing) and
+  - [§8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) (*universal minimum contents and routing requirements*); Chapters Nine through Fourteen process-specific records;
   - **CI-14.205 §6** (*seat catalog*); and
   - [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2166,14 +2227,14 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 The short form for **Materially Binding Act Record** in this Constitution is **Act Record**.
 
 - **What it is**
-  - **In scope:** The attributable, versioned official record for a particular [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), maintained under the authority and responsibility of the [Record Seat](core_05.035_band_accountability.md#record-seat). It identifies and preserves the act, governing authority, required seats, determination, material handoffs and departures, clocks, challenge route and status, and the links needed to reconstruct the act under [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
+  - **In scope:** The attributable, versioned official record for a particular [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), maintained under the authority and responsibility of the [Record Seat](core_05.035_band_accountability.md#record-seat). It identifies and preserves the act, governing authority, required seats, determination, material handoffs and departures, clocks, challenge route and status, and the links needed to reconstruct the act under [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs).
   - An Act Record may be embodied in one applicable process-specific official record or in an attributable, integrity-preserving linked set of official records. A System Certification Record, Standing Record, Forum Case Record, or another named process record may satisfy or extend the Act Record requirements for the act it records. No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path.
   - **Out of scope:** Raw telemetry, a self-generated log, signature, checklist, model trace, attestation, clerical copy, unverified claim, or evidence bundle alone is not an Act Record. Those materials may be inputs or links. An Act Record does not become a [Standing Record](core_05.035_band_accountability.md#standing-record), merits determination, certification, or forum record unless the applicable process independently makes it one.
 <a id="materially-binding-act-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether the act and its authority, seats, determination, custody, routing, and challenge posture remain reconstructable and independently reviewable.
 
-    **Primary assessment:** Apply the minimum-content requirements in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs). Check stable identity, attribution, version integrity, preservation, material timestamps and clocks, the governing standard and determination, each required seat and authority, every material handoff or departure, current challenge status, and links to evidence and any process-specific record that carries part of the official trail.
+    **Primary assessment:** Apply the minimum-content requirements in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). Check stable identity, attribution, version integrity, preservation, material timestamps and clocks, the governing standard and determination, each required seat and authority, every material handoff or departure, current challenge status, and links to evidence and any process-specific record that carries part of the official trail.
   - **Secondary measure:** [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), [Auditability](core_05.050_band_oversight.md#auditability), [Contestability](core_05.035_band_accountability.md#contestability), and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) — co-measures for reliable identity, custody, reconstruction, challenge, and clocks.
 
     **Secondary assessment:** Test whether linked records resolve to the same act without contradiction or silent gaps, whether superseded versions and corrections remain traceable, and whether an outsider with lawful access can follow the act from initiation through determination, record entry, challenge, and correction without treating a log or recorder statement as proof of the merits.
@@ -2351,7 +2412,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
 <a id="market-structure-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** A market-structuring arrangement foreseeably degrades wellbeing, meaningful agency, dignity, ecological integrity, Contestability, or constitutional review. A market-structure label or formal arrangement that has no real effect in the situation being evaluated is also non-compliant.
-  - **Secondary failure:** Concentration or domination is defended only by claims about efficiency, competitiveness, emergency, security, or productive capacity without traceable constitutional outcomes; or a threshold or ceiling regime nullifies the [Chapter One §11 Market Structure](core_01.005_values_principles.md#11-market-structure) floor.
+  - **Secondary failure:** Concentration or domination is defended only by claims about efficiency, competitiveness, emergency, security, or productive capacity without traceable constitutional outcomes; or a threshold or ceiling regime nullifies the [Chapter One §11 Market Structure](core_01.005_values_principles.md#11-market-structure) requirements.
   - **Tertiary failure:** An arrangement passes non-concentration tests on paper but fails applicable Rights-Floor protections, or proxy satisfaction is treated as decisive when [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) is reasonably observable.
 
 ---
@@ -2392,7 +2453,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
     - **Controlling principles:** The threshold remains subject to the [Chapter One §11 Market Structure](core_01.005_values_principles.md#11-market-structure) non-concentration rule, the [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.005_values_principles.md#112-pro-competition-and-anti-domination) pro-competition and anti-domination discipline, and the [Chapter One §11.3 Consolidation Ceiling](core_01.005_values_principles.md#113-consolidation-ceiling) consolidation-ceiling trigger.
     - **Operational discipline:** **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)**.
     - **Rights-layer pointer:** [Article V](core_06.005_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*).
-    - **Anti-nullification:** Adopter-tunable thresholds and ceilings cannot nullify the Chapter One §11 (*Market Structure*) floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity.
+    - **Anti-nullification:** Adopter-tunable thresholds and ceilings cannot nullify the Chapter One §11 (*Market Structure*) requirements against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity.
     - **Application:** This definition applies across substrates and jurisdictions.
   - **Out of scope:** ordinary firm size, temporary innovation lead, or lawful scale below the operational trigger for heightened review.
 <a id="market-concentration-threshold-constitutional-a"></a>
@@ -3782,7 +3843,7 @@ See **Anti-Segmentation Principle**.
       - the record-opening authority that verified it; and
       - the record custodian that entered and holds it.
 
-      Segregation of duties covers:
+      Separation of duties covers:
       - request;
       - verify;
       - enter and hold; and

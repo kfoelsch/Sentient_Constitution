@@ -470,7 +470,7 @@ Một số phần của Điều lệ Hệ thống hoặc Điều lệ Tổ chứ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§3](#3-điều-lệ-thể-chế-và-hệ-thống-nào-phải-nêu-rõ); [Chương 8 §2 Tầng Hiến pháp bốn chỗ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- Thượng nguồn: [§3](#3-điều-lệ-thể-chế-và-hệ-thống-nào-phải-nêu-rõ); [Chương 8 §2 Tầng Hiến pháp bốn chỗ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - Hạ lưu:
   - [Chương Tám §5 Vị trí được công bố, vị trí tuyển dụng và sự thay thế](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [Chương Chín Phần B §6.1.1 Bốn ghế trong một chứng nhận](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -500,7 +500,7 @@ Mọi Điều lệ Hệ thống hoặc Điều lệ Tổ chức đều có một
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 Ghế là gì và tại sao chúng tồn tại
 
-Mọi [Đạo luật ràng buộc vật chất](../../core_05.035_band_accountability.md#materially-binding-act) có bốn công việc, và [Chương 8 §2 Tầng Hiến pháp bốn chỗ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) giữ họ xa nhau:
+Mọi [Đạo luật ràng buộc vật chất](../../core_05.035_band_accountability.md#materially-binding-act) có bốn công việc, và [Chương 8 §2 Tầng Hiến pháp bốn chỗ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) giữ họ xa nhau:
 
 - **[Chỗ ngồi bắt đầu](../../core_05.035_band_accountability.md#initiating-seat):** bắt đầu hành động bằng cách yêu cầu, đề xuất, thực hiện hoặc yêu cầu nó.
 - **[Xác minh hoặc ủy quyền chỗ ngồi](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** kiểm tra bằng chứng và thẩm quyền, sau đó xác minh, cho phép, điều kiện hoặc từ chối hành động.

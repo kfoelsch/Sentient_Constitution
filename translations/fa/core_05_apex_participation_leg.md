@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [قطب‌نمای فصل پنجم](core_05__definitions_home.md#قطبنما-و-نقشه-تعریف-فصل-پنجم)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) (پای مشارکت؛ مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake))؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)؛ هدف اولیه [شکوفایی](core_00_preamble.md#flourishing).
-- پایین‌دست: اصول: [دیباچه §1 مدل](core_00_preamble.md#the-model)؛ [فصل یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)؛ [§9 مدیریت مسئولانه و فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)؛ [§11.1.5 انضباط ادعاهای پیامد قانون اساسی](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [مشارکت سیستمی طرف‌های اثرپذیر](../../core_05.055_band_participation.md#stakeholder-status-and-weight) جایی که لایهٔ مشارکت سیستمی طرف‌های اثرپذیر اعمال می‌شود؛ [تجزیهٔ پای چهارگانه](#participation-tetrad-leg-decomposition)؛ تعریف‌های برگ نوار مشارکت در [core_05_band_participation.md](../../core_05.055_band_participation.md).
+- پایین‌دست: اصول: [دیباچه §1 مدل](core_00_preamble.md#the-model)؛ [فصل یکم §5 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)؛ [§9 مدیریت مسئولانه و فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md)؛ [§11.1.5 انضباط ادعاهای پیامد قانون اساسی](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)؛ [مشارکت سیستمی طرف‌های اثرپذیر](../../core_05.055_band_participation.md#stakeholder-status-and-weight) جایی که لایهٔ مشارکت سیستمی طرف‌های اثرپذیر اعمال می‌شود؛ [تجزیهٔ پای چهارگانه](#participation-tetrad-leg-decomposition)؛ تعریف‌های برگ نوار مشارکت در [core_05_band_participation.md](../../core_05.055_band_participation.md).
 - خوانده شود با: [عاملیت معنادار](../../core_05.055_band_participation.md#meaningful-agency)، [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability) (مرز مشارکت/پاسخگویی)، [دسترس‌پذیری](../../core_05.055_band_participation.md#accessibility)، [انصاف ماهوی](../../core_05.055_band_participation.md#substantive-fairness)، [انتخاب الزام‌آور طرف‌های اثرپذیر](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice)، [به‌هنگامی](core_05_apex_timeliness_leg.md#timeliness-constitutional) (مشارکت به‌هنگام)، [حکمرانی مقیاس‌شده با طبقه‌بندی](../../core_05.050_band_oversight.md#classification-scaled-governance)، و خانوادهٔ اندازه‌گیری مشارکت.
 
 </details>
@@ -61,7 +61,7 @@
     - [انصاف ماهوی](../../core_05.055_band_participation.md#substantive-fairness)؛
     - [وزن طرف اثرپذیر](../../core_05.055_band_participation.md#stakeholder-weight)؛
     - [تسخیر نظام](../../core_05.040_band_continuity.md#system-capture)؛ و
-    - [فصل یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [فصل یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: غیرمنطبق وقتی:
   - طرد ساختاری هست؛

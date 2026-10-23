@@ -84,7 +84,7 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
 - It satisfies **criterion 4** where concentration materially contributes to **Rights-Floor degradation**, delayed correction, or blocked challenge rights.
 - It satisfies **criterion 6** where concentration makes constitutional process or remedies unusable in practice. This can occur through capture, coercive dependency, or usurpation of operative authority, even without overt force.
 
-The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct designation where prohibited concentration, durable domination, or unrebutted consolidation-ceiling breach produces the equivalent constitutional effect. Quantitative threshold-setting and ceiling-setting for concentration remain owned by **Chapter One §11** (*Market Structure*), **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*), and **§11.3** (*Consolidation Ceiling*) and are not relitigated here; this chapter evaluates the **conduct** that creates, maintains, exploits, conceals, or restructures around concentration, consolidation, or domination that has crossed the **§11** (*Market Structure*) floor.
+The absence of overt deception or forcible act does **not** defeat anti-constitutional misconduct designation where prohibited concentration, durable domination, or unrebutted consolidation-ceiling breach produces the equivalent constitutional effect. Quantitative threshold-setting and ceiling-setting for concentration remain owned by **Chapter One §11** (*Market Structure*), **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*), and **§11.3** (*Consolidation Ceiling*) and are not relitigated here; this chapter evaluates the **conduct** that creates, maintains, exploits, conceals, or restructures around concentration, consolidation, or domination that has breached the **§11** (*Market Structure*) requirements.
 
 <a id="52-rights-floor-waivers-and-unconstitutional-contract-terms"></a>
 
@@ -692,7 +692,7 @@ The following are non-exhaustive in-scope reward or protection forms where mater
 
 Where proportionate and lawful, disputed rewards must be subject to any of the following while preserving due process, third-party reliance limits, and **Article XX** (*Justice After Verified Violation*) safeguards:
 - suspension;
-- segregation;
+- separate holding;
 - clawback;
 - correction; or
 - independent review.

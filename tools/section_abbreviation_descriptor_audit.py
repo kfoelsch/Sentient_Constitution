@@ -112,7 +112,9 @@ def has_descriptor(text_after_id: str) -> bool:
             if close >= 0:
                 tail = tail[close + 1 :].lstrip()
                 tail = re.sub(r"^\*+", "", tail).lstrip()
-        if re.match(r"(?:\(\*[^)]+\*\)|\*[^*]+\*|[A-Za-z][^.;,\n]{2,})", tail):
+        # A descriptor may hold nested parentheses, e.g. ``(*Hybrid delegated authority (delegated binding bodies)*)``,
+        # and a list or summary line may use a dash or colon: ``**CI-14.205 §7** — practice licence``.
+        if re.match(r"(?:\(\*.+?\*\)|\*[^*]+\*|[A-Za-z][^.;,\n]{2,}|(?:—|-|:)\s*[A-Za-z])", tail):
             return True
     if re.match(r"[A-Za-z][^]\n]{2,}\]", text_after_id):
         return True

@@ -8,8 +8,8 @@
 >
 > - **เจ้าของตามรัฐธรรมนูญ:** เกณฑ์ขั้นต่ำเรื่องที่นั่งแยกจากกันสำหรับการกระทำที่มีผลผูกพันในสาระสำคัญ; เนื้อหาขั้นต่ำทั่วไปของ[บันทึกการกระทำที่มีผลผูกพันในสาระสำคัญ](../../core_05_band_accountability.md#materially-binding-act-record) แต่ละฉบับ; ความเป็นอิสระจากผู้กระทำและ[สายการควบคุมสาระสำคัญ](../../core_05_band_accountability.md#material-control-line) ของผู้กระทำ; การกำหนดช่องทางและบทบาทที่เผยแพร่แล้ว; การจัดการความขัดแย้ง ตำแหน่งว่าง การทดแทน และการส่งเรื่องไปยังที่นั่งที่ไม่ถูกต้อง; การรองรับหน้าที่ร่วมกันอย่างได้สัดส่วน; การส่งมอบที่ระบุผู้รับผิดชอบได้; และเงื่อนไขขั้นต่ำด้านความเป็นอิสระที่กระบวนการตามรัฐธรรมนูญภายหลังทุกกระบวนการต้องนำไปใช้
 > - **แหล่งที่มาระดับหลักการ:** [บทที่หนึ่ง §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) กำหนดให้การปกครองรักษาความเป็นอิสระเชิงหน้าที่ และส่งโครงสร้างที่นั่งเชิงปฏิบัติการมายังบทนี้
-> - **เจ้าของการนำไปใช้:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) และ [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) จัดวางและทำให้ที่นั่งใช้งานได้จริง อาจกำหนดให้เข้มงวดกว่าและเพิ่มประเภทที่นั่งซึ่งมีอำนาจพิเศษแบบจำกัดได้ แต่ห้ามลดทอนบทนี้
-> - **การใช้กับกระบวนการเฉพาะยังคงอยู่ในบทภายหลัง:** บทที่แปดใช้เกณฑ์ขั้นต่ำนี้กับการรับรองความสอดคล้องของระบบ; [บทที่เก้า §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) ใช้กับบันทึกสถานะ; บทที่สิบสองและ [corpus_forum.md](../../corpus_forum.md) ใช้กับกระบวนการของเวที บทเหล่านั้นอาจเพิ่มมาตรการคุ้มครองตามเรื่องที่เกี่ยวข้อง แต่ห้ามสร้างสิ่งทดแทนที่อ่อนกว่า
+> - **เจ้าของการนำไปใช้:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) และ [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) จัดวางและทำให้ที่นั่งใช้งานได้จริง อาจกำหนดให้เข้มงวดกว่าและเพิ่มประเภทที่นั่งซึ่งมีอำนาจพิเศษแบบจำกัดได้ แต่ห้ามลดทอนบทนี้
+> - **การใช้กับกระบวนการเฉพาะยังคงอยู่ในบทภายหลัง:** บทที่แปดใช้เกณฑ์ขั้นต่ำนี้กับการรับรองความสอดคล้องของระบบ; [บทที่เก้า §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) ใช้กับบันทึกสถานะ; บทที่สิบสองและ [corpus_forum.md](../../corpus_forum.md) ใช้กับกระบวนการของเวที บทเหล่านั้นอาจเพิ่มมาตรการคุ้มครองตามเรื่องที่เกี่ยวข้อง แต่ห้ามสร้างสิ่งทดแทนที่อ่อนกว่า
 >
 > ลำดับการอ่าน: §1 วัตถุประสงค์ ขอบเขต และขอบเขตความเป็นเจ้าของ → §2 เกณฑ์ขั้นต่ำตามรัฐธรรมนูญสี่ที่นั่ง → §3 ความเป็นอิสระและความขัดแย้ง → §4 การส่งเรื่องไปยังที่นั่งที่ไม่ถูกต้อง → §5 การจัดวางที่เผยแพร่และผู้ทดแทน → §6 การปรับขนาดตามสัดส่วน → §7 ภาวะฉุกเฉิน → §8 บันทึกการกระทำและการส่งมอบที่ระบุผู้รับผิดชอบได้ → §9 ความสัมพันธ์กับกระบวนการภายหลัง
 
@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
 - ต้นทาง: [จตุรภาคตามรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad) — โดยเฉพาะ **การกำกับดูแล** และ **ความรับผิดรับชอบ**; [ส่วนได้เสียที่เป็นสาระสำคัญ](../../core_00_preamble.md#material-stake); [มาตรฐานการพิทักษ์ร่วม บทที่หนึ่ง §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [การปกครองภายใต้ระเบียบวินัยการพิทักษ์ บทที่หนึ่ง §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [มาตรา XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*การตรวจสอบ ความโปร่งใส และการยืนยันโดยอิสระ*)
-- หัวข้อย่อย: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes)
+- หัวข้อย่อย: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes)
 - ปลายทาง: [บทที่แปด](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [บทที่เก้า](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [บทที่สิบสอง](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [บทที่สิบสาม](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); ข้อความการนำไปใช้ที่ระบุไว้ข้างต้น
 - อ่านร่วมกับ: [การตรวจจับความไม่สอดคล้อง บทที่หนึ่ง §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*การตรวจจับและทบทวนโดยหลายฝ่าย*); [การกระทำที่ระบุผู้รับผิดชอบได้](../../core_05_band_accountability.md#attributable-action); [ความครบถ้วนของการระบุผู้รับผิดชอบ](../../core_05_band_accountability.md#attribution-integrity); [ความสามารถในการตรวจสอบ](../../core_05_band_oversight.md#auditability); [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability); [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality)
 
@@ -36,7 +36,7 @@
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
 - ต้นทาง: ข้ออ้างเรื่องความเป็นเจ้าของในตอนเปิดบท; [บทที่หนึ่ง §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [การกำกับดูแล](../../core_05_apex_oversight_leg.md#oversight-constitutional); [ความรับผิดรับชอบ](../../core_05_apex_accountability_leg.md#accountability)
-- ปลายทาง: ตั้งแต่ [§2](#2-four-seat-constitutional-floor) ถึง [§9](#9-relationship-to-later-processes); ทุกกระบวนการภายหลังที่ก่อให้เกิดหรือเปลี่ยนแปลงการกระทำที่มีผลผูกพันในสาระสำคัญ
+- ปลายทาง: ตั้งแต่ [§2](#2-four-seat-constitutional-requirement) ถึง [§9](#9-relationship-to-later-processes); ทุกกระบวนการภายหลังที่ก่อให้เกิดหรือเปลี่ยนแปลงการกระทำที่มีผลผูกพันในสาระสำคัญ
 - อ่านร่วมกับ [บทที่สี่](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) สำหรับฐานการยืนยัน; [มาตรา XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*พื้นฐานด้านความน่าเชื่อถือและความไว้วางใจได้*) และ [มาตรา XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*สิทธิในการแก้ไขเยียวยา*) สำหรับการโต้แย้งและการเยียวยา; [มาตรา XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*การตรวจสอบ ความโปร่งใส และการยืนยันโดยอิสระ*) สำหรับพื้นฐานสิทธิในการยืนยันโดยอิสระ
 
 </details>
@@ -65,14 +65,14 @@
 - เนื้อหาบันทึกเฉพาะกระบวนการจากบทที่แปดถึงสิบสอง; หรือ
 - รายการที่นั่งเชิงปฏิบัติการ วิธีจัดบุคลากร และกลไกแผนผังช่องทางจากข้อความการนำไปใช้ที่กำหนดไว้
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. เกณฑ์ขั้นต่ำตามรัฐธรรมนูญสี่ที่นั่ง
 
 <details>
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
 - ต้นทาง: [§1](#1-purpose-scope-and-owner-boundary); [บทที่หนึ่ง §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties); [บทที่หนึ่ง §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)
-- ปลายทาง: ตั้งแต่ [§3](#3-independence-conflict-and-control-lines) ถึง [§9](#9-relationship-to-later-processes); [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*รายการที่นั่ง — แบบจำลองบทบาทตามกระบวนการและขอบเขตการปฏิบัติงาน*)
+- ปลายทาง: ตั้งแต่ [§3](#3-independence-conflict-and-control-lines) ถึง [§9](#9-relationship-to-later-processes); [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*รายการที่นั่ง — แบบจำลองบทบาทตามกระบวนการและขอบเขตการปฏิบัติงาน*)
 - อ่านร่วมกับ [§6](#6-proportional-scaling-and-merged-hosting) เพื่อดูแนวทางเดียวที่อนุญาตสำหรับการรองรับหน้าที่ร่วมกัน
 
 </details>
@@ -163,9 +163,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
-- ต้นทาง: [§2](#2-four-seat-constitutional-floor); [ความรับผิดที่ปรับตามอำนาจ](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [มาตรา XXIV](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*การตีความตามรัฐธรรมนูญ การทบทวน และมาตรการป้องกันการเข้าครอบงำ*)
+- ต้นทาง: [§2](#2-four-seat-constitutional-requirement); [ความรับผิดที่ปรับตามอำนาจ](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [มาตรา XXIV](core_06_rights_part_d.md) (*การตีความตามรัฐธรรมนูญ การทบทวน และมาตรการป้องกันการเข้าครอบงำ*)
 - ปลายทาง: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); บทบาทส่วนประกอบการรับรองในบทที่แปด; การเก็บรักษาบันทึกในบทที่เก้า; การป้องกันการตัดสินตนเองในเวทีบทที่สิบสอง
-- อ่านร่วมกับ [สายการควบคุมสาระสำคัญ](../../core_05_band_accountability.md#material-control-line); [CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*ความสุจริตของความขัดแย้ง การป้องกันการเข้าครอบงำ และการต่อต้านการทุจริต*) และ [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*มาตรการคุ้มครองความสุจริต การปฏิบัติการป้องกันการเข้าครอบงำ และการสนับสนุนเพื่อป้องกันการตัดสินตนเอง*) เพื่อดูมาตรการเชิงปฏิบัติการด้านความขัดแย้งและการห้ามตัดสินตนเอง
+- อ่านร่วมกับ [สายการควบคุมสาระสำคัญ](../../core_05_band_accountability.md#material-control-line); [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*ความสุจริตของความขัดแย้ง การป้องกันการเข้าครอบงำ และการต่อต้านการทุจริต*) และ [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*มาตรการคุ้มครองความสุจริต การปฏิบัติการป้องกันการเข้าครอบงำ และการสนับสนุนเพื่อป้องกันการตัดสินตนเอง*) เพื่อดูมาตรการเชิงปฏิบัติการด้านความขัดแย้งและการห้ามตัดสินตนเอง
 
 </details>
 
@@ -190,8 +190,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
-- ต้นทาง: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines)
-- ปลายทาง: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [กฎที่นั่งร่วม CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)
+- ต้นทาง: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines)
+- ปลายทาง: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [กฎที่นั่งร่วม CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)
 - อ่านร่วมกับ [หน้าที่ในการต่อต้าน บทที่หนึ่ง §17.5](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)
 
 </details>
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
-- ต้นทาง: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [ความโปร่งใส](../../core_05_band_oversight.md#transparency); [ความสามารถในการตรวจสอบ](../../core_05_band_oversight.md#auditability)
-- ปลายทาง: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*ช่องทางแยกหน้าที่*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*บทบาทที่ได้รับอนุญาตและสายความรับผิด*); บันทึกบทที่แปดและเก้า
-- อ่านร่วมกับ [กฎบัตร](../../core_05_band_continuity.md#charter) และ [บทที่สิบสาม §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution)
+- ต้นทาง: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [ความโปร่งใส](../../core_05_band_oversight.md#transparency); [ความสามารถในการตรวจสอบ](../../core_05_band_oversight.md#auditability)
+- ปลายทาง: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ช่องทางแยกหน้าที่*); [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*บทบาทที่ได้รับอนุญาตและสายความรับผิด*); บันทึกบทที่แปดและเก้า
+- อ่านร่วมกับ [กฎบัตร](../../core_05.040_band_continuity.md) และ [บทที่สิบสาม §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution)
 
 </details>
 
@@ -243,8 +243,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
-- ต้นทาง: [§2](#2-four-seat-constitutional-floor); [ส่วนได้เสียที่เป็นสาระสำคัญ](../../core_00_preamble.md#material-stake); [ความจำเป็น](../../core_05_band_accountability.md#necessity); [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality)
-- ปลายทาง: [บทที่เก้า §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*การจัดบุคลากรตามช่องทางและความซ้ำซ้อนด้านสมรรถนะตามระดับชั้น*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*ช่องทางแยกหน้าที่*)
+- ต้นทาง: [§2](#2-four-seat-constitutional-requirement); [ส่วนได้เสียที่เป็นสาระสำคัญ](../../core_00_preamble.md#material-stake); [ความจำเป็น](../../core_05_band_accountability.md#necessity); [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality)
+- ปลายทาง: [บทที่เก้า §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*การจัดบุคลากรตามช่องทางและความซ้ำซ้อนด้านสมรรถนะตามระดับชั้น*); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ช่องทางแยกหน้าที่*)
 - อ่านร่วมกับ [ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden) และ [บทที่หนึ่ง §3.3 กระบวนการต่อต้านการลดทอนศักดิ์ศรี](../../core_01_a_values_principles.md#33-anti-degrading-process)
 
 </details>
@@ -266,7 +266,7 @@ flowchart TB
 
 งานช่วยเหลือเกื้อกูล การดูแล ซ่อมแซม การสอน สหกรณ์ และการพิทักษ์ชุมชนที่ไม่เป็นทางการและไม่ได้รับค่าตอบแทนอาจใช้หน่วยงานที่เป็นกลางและได้รับความไว้วางใจ ซึ่งมีอำนาจที่เผยแพร่ไว้สำหรับการตรวจสอบที่เกี่ยวข้อง รัฐธรรมนูญไม่กำหนดรูปแบบสถาบันที่ขอบเขตงานไม่อาจทำได้อย่างสมเหตุสมผล หากมีช่องทางที่เป็นกลางจริงและรับผิดรับชอบได้
 
-การขาดบุคลากร ความเร็ว ความสะดวก หรือการรวมความเชี่ยวชาญไว้ที่เดียว ไม่เพียงพอที่จะทำให้การรวมหน้าที่ชอบธรรม เกณฑ์ตามระดับชั้นใน[§2 เกณฑ์ขั้นต่ำตามรัฐธรรมนูญสี่ที่นั่ง](#2-four-seat-constitutional-floor) เป็นหลัก: ชั้น A ไม่มีข้อยกเว้น และข้อยกเว้นสำหรับชั้น B หรือ C ต้องเป็นไปตามข้อกำหนดข้างต้น ยิ่งส่วนได้เสียที่เป็นสาระสำคัญสูงเท่าใด ข้อสันนิษฐานให้แยกสำนักงาน มีสมรรถนะสำรอง และมีผู้ทดแทนอิสระก็ยิ่งหนักแน่นขึ้น
+การขาดบุคลากร ความเร็ว ความสะดวก หรือการรวมความเชี่ยวชาญไว้ที่เดียว ไม่เพียงพอที่จะทำให้การรวมหน้าที่ชอบธรรม เกณฑ์ตามระดับชั้นใน[§2 เกณฑ์ขั้นต่ำตามรัฐธรรมนูญสี่ที่นั่ง](#2-four-seat-constitutional-requirement) เป็นหลัก: ชั้น A ไม่มีข้อยกเว้น และข้อยกเว้นสำหรับชั้น B หรือ C ต้องเป็นไปตามข้อกำหนดข้างต้น ยิ่งส่วนได้เสียที่เป็นสาระสำคัญสูงเท่าใด ข้อสันนิษฐานให้แยกสำนักงาน มีสมรรถนะสำรอง และมีผู้ทดแทนอิสระก็ยิ่งหนักแน่นขึ้น
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. การดำเนินการฉุกเฉินและเร่งด่วน
@@ -274,9 +274,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
-- ต้นทาง: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [มาตรการฉุกเฉินและภาระในการดำเนินต่อ บทที่สิบสอง §6.1](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [แนวทางชั่วคราวเริ่มต้น](../../core_01_b_interaction_interpretation.md#default-interim-posture)
+- ต้นทาง: [§2](#2-four-seat-constitutional-requirement); [§6](#6-proportional-scaling-and-merged-hosting); [มาตรการฉุกเฉินและภาระในการดำเนินต่อ บทที่สิบสอง §6.1](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [แนวทางชั่วคราวเริ่มต้น](../../core_01_b_interaction_interpretation.md#default-interim-posture)
 - ปลายทาง: กระบวนการจัดการเหตุการณ์ การควบคุม การเผยแพร่ การดำเนินต่อ และการทบทวนหลังเหตุการณ์ในข้อความการนำไปใช้ที่กำหนด
-- อ่านร่วมกับ [ความทันเวลา](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [การเก็บรักษาหลักฐาน](../../core_05_band_oversight.md#evidence-preservation) และ [รายการที่นั่ง CI-4.6 — แบบจำลองบทบาทตามกระบวนการและขอบเขตการปฏิบัติงาน](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment)
+- อ่านร่วมกับ [ความทันเวลา](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [การเก็บรักษาหลักฐาน](../../core_05_band_oversight.md#evidence-preservation) และ [รายการที่นั่ง CI-4.6 — แบบจำลองบทบาทตามกระบวนการและขอบเขตการปฏิบัติงาน](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment)
 
 </details>
 
@@ -313,8 +313,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">เส้นทางอ้างอิง</span></strong></summary>
 
-- ต้นทาง: ตั้งแต่ [§2](#2-four-seat-constitutional-floor) ถึง [§7](#7-emergency-and-urgent-action); [บันทึกการกระทำที่มีผลผูกพันในสาระสำคัญ](../../core_05_band_accountability.md#materially-binding-act-record); [การกระทำที่ระบุผู้รับผิดชอบได้](../../core_05_band_accountability.md#attributable-action); [ความครบถ้วนของการระบุผู้รับผิดชอบ](../../core_05_band_accountability.md#attribution-integrity)
-- ปลายทาง: [การกระทำที่ตรวจสอบและระบุผู้รับผิดชอบได้ CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [กฎที่นั่งร่วม CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); บันทึกกระบวนการทุกฉบับที่อยู่ภายใต้ §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*รูปแบบพื้นฐานที่เครื่องตรวจสอบได้; สนับสนุนกระบวนการ ไม่ใช่นิยามที่สอง*)
+- ต้นทาง: ตั้งแต่ [§2](#2-four-seat-constitutional-requirement) ถึง [§7](#7-emergency-and-urgent-action); [บันทึกการกระทำที่มีผลผูกพันในสาระสำคัญ](../../core_05_band_accountability.md#materially-binding-act-record); [การกระทำที่ระบุผู้รับผิดชอบได้](../../core_05_band_accountability.md#attributable-action); [ความครบถ้วนของการระบุผู้รับผิดชอบ](../../core_05_band_accountability.md#attribution-integrity)
+- ปลายทาง: [การกระทำที่ตรวจสอบและระบุผู้รับผิดชอบได้ CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [กฎที่นั่งร่วม CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); บันทึกกระบวนการทุกฉบับที่อยู่ภายใต้ §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*รูปแบบพื้นฐานที่เครื่องตรวจสอบได้; สนับสนุนกระบวนการ ไม่ใช่นิยามที่สอง*)
 - อ่านร่วมกับ [§4 การส่งเรื่องไปยังที่นั่งที่ไม่ถูกต้อง](#4-wrong-seat-routing) และ [บทที่สี่ §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)
 
 </details>

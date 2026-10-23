@@ -88,7 +88,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 
 Use this rule when legitimacy depends on authorities holding themselves to equal or stronger standards than they apply to others.
 
-One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because reflexive-accountability failures usually appear only when authorities are held to the same or stronger standards they impose; meeting transparency or audit sub-rules for subjects does not by itself prove equal treatment for the authority. It states the integrated obligation, evaluation, and compliance floor for **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) as a whole: reflexive transparency and accountability must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because reflexive-accountability failures usually appear only when authorities are held to the same or stronger standards they impose; meeting transparency or audit sub-rules for subjects does not by itself prove equal treatment for the authority. It states the integrated obligation, evaluation, and compliance minimum for **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) as a whole: reflexive transparency and accountability must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 <a id="reflexive-transparency-and-accountability-terms"></a>
 reflexive transparency and accountability terms
@@ -107,7 +107,7 @@ reflexive transparency and accountability terms
 - **What must hold**
   - **Primary failure:** Reflexive accountability when authorities use weaker standards for themselves than for subjects.
 
-The sub-rules below apply that cluster floor to specific anti-corruption, enforcement-capacity, misrepresentation, revalidation, opaque-enforcement, parity, pluralistic-validation, and transparency-audit dimensions. Read them together with the cluster floor and the CJS read-with chain.
+The sub-rules below apply that cluster minimum to specific anti-corruption, enforcement-capacity, misrepresentation, revalidation, opaque-enforcement, parity, pluralistic-validation, and transparency-audit dimensions. Read them together with the cluster minimum and the CJS read-with chain.
 
 <a id="anti-corruption-and-undue-influence-auditability-controls"></a>
 Anti-corruption and undue-influence auditability controls
@@ -194,20 +194,20 @@ Opaque-enforcement limits and constrained-disclosure handling
 - **What must hold**
   - **Primary failure:** Secrecy used as a practical bypass of safeguards.
 
-<a id="parity-and-non-exemption-floor"></a>
-Parity and non-exemption floor
+<a id="parity-and-non-exemption-minimum"></a>
+Parity and non-exemption minimum
 
 *In plain terms: oversight, governance, adjudication, and enforcement actors must meet standards equal to or stricter than those they impose on others.*
 
 - **What it is**
   - **In scope:** Oversight, governance, adjudication, and enforcement actors must meet standards equal to or stricter than those they impose.
   - **Out of scope:** role-design talk or org-chart labels with no verification, challenge, or accountability standard being applied to an authority.
-<a id="parity-and-non-exemption-floor-a"></a>
+<a id="parity-and-non-exemption-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** whether authorities are exempt from verification, challenge, or accountability
 
     **Primary assessment:** Reviewers must verify that authorities are not exempt from verification, challenge, or accountability.
-<a id="parity-and-non-exemption-floor-c"></a>
+<a id="parity-and-non-exemption-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Self-rules weaker than imposed rules.
 
@@ -325,20 +325,20 @@ auditability and reconstructability terms
 - **What must hold**
   - **Primary failure:** Invoking internal-state protection in a way that conceals accountability-relevant system behavior or prevents lawful reconstruction of external facts.
 
-<a id="auditability-floor-and-record-sufficiency"></a>
-Auditability floor and record sufficiency
+<a id="auditability-minimum-and-record-sufficiency"></a>
+Auditability minimum and record sufficiency
 
 *In plain terms: keep records with enough scope, provenance, intelligibility, continuity, and retention that a qualified reviewer can check compliance and reconstruct material behavior.*
 
 - **What it is**
   - **In scope:** Apply [Auditability](../core_05.050_band_oversight.md#auditability) by retaining records whose scope, provenance, intelligibility, continuity, and retention support compliance evaluation, reconstruction of material behavior, and verification of material claims.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in auditability floor and record sufficiency; the constitutional meaning of Auditability itself.
-<a id="auditability-floor-and-record-sufficiency-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in auditability minimum and record sufficiency; the constitutional meaning of Auditability itself.
+<a id="auditability-minimum-and-record-sufficiency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** record scope, quality, and retention in practice
 
     **Primary assessment:** Evaluation must verify record scope, quality, and retention in practice.
-<a id="auditability-floor-and-record-sufficiency-c"></a>
+<a id="auditability-minimum-and-record-sufficiency-c"></a>
 - **What must hold**
   - **Primary failure:** Recordkeeping when records lack the scope, provenance, intelligibility, continuity, or retention needed for a qualified reviewer to evaluate compliance, reconstruct material behavior, or verify material claims.
 
@@ -459,7 +459,7 @@ Audit process output disclosure preference
 *In plain terms: material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability.*
 
 - **What it is**
-  - **In scope:** Material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability. Disclose those outputs at the **most open feasible** tier under **CS-6.305 (*Information types and handling*) and CS-6.310** (*Information types and handling*):
+  - **In scope:** Material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability. Disclose those outputs at the **most open feasible** tier under **CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*):
   1. publish as **Type O** — including the strongest feasible **Type O** public substitute — where [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) or another public-baseline duty applies, or where the output can lawfully be public;
   2. otherwise provide **structured or qualified audit access** to **Type G** or other non-public source under this cluster and **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
   3. escalate to **forensic** or more-restricted tiers (**Type H**, **Type I**, **Type S**, **Type N**, or justified hold-backs) only when required by the applicable type, necessity, and constraint rules — and only while preserving maximum feasible visibility into the existence and character of the audit and its material results.
@@ -665,22 +665,22 @@ Anti-single-authority verification constraint
 - **What must hold**
   - **Primary failure:** Claims if they are monopoly-gated when independent verification is technically feasible.
 
-<a id="class-scaled-template-floor-mapping"></a>
-Class-scaled template floor mapping
+<a id="class-scaled-template-minimum-mapping"></a>
+Class-scaled template minimum mapping
 
 *In plain terms: class-scaled templates must preserve reconstructable audit records, qualified deeper audit access, and at least one independent verification path for material claims.*
 
 - **What it is**
   - **In scope:** Class-scaled templates must preserve reconstructable audit records, qualified deeper audit access, and at least one independent verification path for material claims.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class-scaled template floor mapping.
-<a id="class-scaled-template-floor-mapping-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class-scaled template minimum mapping.
+<a id="class-scaled-template-minimum-mapping-a"></a>
 - **How to measure and assess**
   - **Primary measure:** simplification changes only volume, format, or cadence, not the required verification capability
 
     **Primary assessment:** Evaluation must verify that simplification changes only volume, format, or cadence, not the required verification capability.
-<a id="class-scaled-template-floor-mapping-c"></a>
+<a id="class-scaled-template-minimum-mapping-c"></a>
 - **What must hold**
-  - **Primary failure:** A simplified template if it removes a required verification floor.
+  - **Primary failure:** A simplified template if it removes a required verification minimum.
 
 <a id="material-claim-verification-scope"></a>
 Material-claim verification scope
@@ -733,20 +733,20 @@ Structured claim-testing, reliance, and correction integrity
 - **What must hold**
   - **Primary failure:** Give durable implementation reliance to material claims that are opaque, unverifiable where verification is feasible, stripped of correction history, protected by prestige or ranking proxies instead of evidence quality, or shielded from good-faith replication, reanalysis, methodological critique, or adversarial review.
 
-<a id="structured-review-and-incentive-integrity-floor"></a>
-Structured review and incentive-integrity floor
+<a id="structured-review-and-incentive-integrity-minimum"></a>
+Structured review and incentive-integrity minimum
 
 *In plain terms: review processes for material claims must distinguish evidence quality from prestige, revenue, ranking, political pressure, or institutional convenience.*
 
 - **What it is**
   - **In scope:** Review processes for material claims must distinguish evidence quality from prestige, revenue, ranking, political pressure, or institutional convenience. Review dimensions must be explicit enough to separate method quality, data integrity, inferential validity, uncertainty, reproducibility, conflict exposure, interpretive restraint, and fit between evidence and conclusion. Publication, review, curation, funding, archival custody, reputation, and reliance functions should remain separable unless bundling is justified and reviewable.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in structured review and incentive-integrity floor.
-<a id="structured-review-and-incentive-integrity-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in structured review and incentive-integrity minimum.
+<a id="structured-review-and-incentive-integrity-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** review records distinguish verified criticism, unresolved concern, requested clarification, value judgment, and reliance consequence; that signed, pseudonymous, confidential, or specialist review modes remain auditable where used; that bundled prestige, revenue, ranking, curation, or funding structures do not control access, correction, or reliance without independent audit; and that incentives for hiring, promotion, grantmaking, procurement, ranking, adoption, or standing do not primarily reward opaque prestige proxies, selective-publication bias, hype inflation, citation cartels, suppression of competing results, or concealment of correction history
 
     **Primary assessment:** Evaluation must verify that review records distinguish verified criticism, unresolved concern, requested clarification, value judgment, and reliance consequence; that signed, pseudonymous, confidential, or specialist review modes remain auditable where used; that bundled prestige, revenue, ranking, curation, or funding structures do not control access, correction, or reliance without independent audit; and that incentives for hiring, promotion, grantmaking, procurement, ranking, adoption, or standing do not primarily reward opaque prestige proxies, selective-publication bias, hype inflation, citation cartels, suppression of competing results, or concealment of correction history.
-<a id="structured-review-and-incentive-integrity-floor-c"></a>
+<a id="structured-review-and-incentive-integrity-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** A claim-review pathway if it treats a single opaque accept/reject decision as sufficient for material reliance, lets prestige or closed ranking substitute for evidence quality, suppresses good-faith replication or critique, hides reviewer conflicts or editorial overrides from qualified audit, or punishes correction while rewarding concealment.
 
@@ -928,37 +928,37 @@ Cross-institution coordination and escalation chain
 - **What must hold**
   - **Primary failure:** Leave shared jurisdiction without a usable escalation path, to resolve deadlock through the body whose independence is materially contested, to transfer matters without a reasoned record, or to let emergency incapacity, concentration, capture indicators, local enforcement involvement, security-service involvement, private-contractor involvement, or parallel-body involvement defeat independent backup routing.
 
-<a id="external-assurance-trigger-floor"></a>
-External assurance trigger floor
+<a id="external-assurance-trigger-minimum"></a>
+External assurance trigger minimum
 
 *In plain terms: independent external assurance must be triggered when class or tier exposure, severe incident, repeated control failure, integrity failure, or structural change creates credible doubt that ordinary internal review is sufficient.*
 
 - **What it is**
   - **In scope:** Independent external assurance must be triggered when class or tier exposure, severe incident, repeated control failure, integrity failure, or structural change creates credible doubt that ordinary internal review is sufficient.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in external assurance trigger floor.
-<a id="external-assurance-trigger-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in external assurance trigger minimum.
+<a id="external-assurance-trigger-minimum-a"></a>
 - **How to measure and assess**
   - **Primary measure:** the published trigger criteria, maximum commissioning time, authorized invokers, minimum engagement scope, affected records, outcome-publication expectations, unresolved exceptions, and escalation route where the local commissioning authority is conflicted, captured, unavailable, or non-responsive
 
     **Primary assessment:** Evaluation must verify the published trigger criteria, maximum commissioning time, authorized invokers, minimum engagement scope, affected records, outcome-publication expectations, unresolved exceptions, and escalation route where the local commissioning authority is conflicted, captured, unavailable, or non-responsive.
-<a id="external-assurance-trigger-floor-c"></a>
+<a id="external-assurance-trigger-minimum-c"></a>
 - **What must hold**
   - **Primary failure:** Rely on discretionary internal assurance alone after a qualifying trigger, to leave commissioning authority self-judging, to omit affected records from the engagement scope, or to suppress unresolved exceptions needed for lawful escalation or contestability.
 
-<a id="incident-and-assurance-notification-urgency-floor"></a>
-Incident and assurance notification urgency floor
+<a id="incident-and-assurance-notification-urgency-levels"></a>
+Incident and assurance notification urgency levels
 
 *In plain terms: material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and…*
 
 - **What it is**
   - **In scope:** Material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and class. Routine annual or other baseline attestations do not replace incident-driven notice. Institutions must publish default **Notification Urgency Levels** (**NUL**) aligned with Correction Urgency Level (**CUL**) discipline in **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) where both apply: **NUL-1** through **NUL-3** take the same tier columns as **CUL-1** through **CUL-3**.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in incident and assurance notification urgency floor.
-<a id="incident-and-assurance-notification-urgency-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in incident and assurance notification urgency levels.
+<a id="incident-and-assurance-notification-urgency-levels-a"></a>
 - **How to measure and assess**
   - **Primary measure:** published default notice windows for each **NUL** band, affected-party notice routes, independent-challenge and independent-assurance notice routes, evidence-preservation steps, delay justification where Type S or protected-investigation constraints narrow immediate public detail, and escalation when notice is suppressed or deferred beyond the published window
 
     **Primary assessment:** Evaluation must verify published default notice windows for each **NUL** band, affected-party notice routes, independent-challenge and independent-assurance notice routes, evidence-preservation steps, delay justification where Type S or protected-investigation constraints narrow immediate public detail, and escalation when notice is suppressed or deferred beyond the published window.
-<a id="incident-and-assurance-notification-urgency-floor-c"></a>
+<a id="incident-and-assurance-notification-urgency-levels-c"></a>
 - **What must hold**
   - **Primary failure:** Wait for the next routine attestation when an incident requires immediate or expedited notice, to hide breach or corruption discovery, or to publish urgency labels that do not change actual notice timing.
 
@@ -1104,7 +1104,7 @@ Default **NUL** bands (adopting documents may tighten but must not weaken withou
 - **NUL-3 (standard):** Material control weakness or integrity finding requiring resolution but not active ongoing exposure — notice inside the notice window and inclusion in the next required control declaration if not resolved.
 - **NUL-4 (routine):** Baseline controls attestation and non-urgent assurance reporting only — published annual or other routine cadence.
 
-**NUL windows.** **NUL-1** takes the column of Tier A, **NUL-2** Tier B, and **NUL-3** Tier C in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). **NUL-4** takes no tier: it is the routine attestation interval the institution publishes. The **notice window** of a band is its column's intake target, counted from discovery or, where the band requires a verified trigger, from verification. The **declaration window** of **NUL-1** is its column's outer bound. Where the Emergency level's conditions are met, **NUL-1** notice uses the Emergency level's intake target. Both windows are compliance lines. An institution's published windows may be shorter than these and never longer. A band borrows the column's figures and is not a tier classification. The figures are in [CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-timing-floors) (*Stage targets and timing floors*).
+**NUL windows.** **NUL-1** takes the column of Tier A, **NUL-2** Tier B, and **NUL-3** Tier C in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). **NUL-4** takes no tier: it is the routine attestation interval the institution publishes. The **notice window** of a band is its column's intake target, counted from discovery or, where the band requires a verified trigger, from verification. The **declaration window** of **NUL-1** is its column's outer bound. Where the Emergency level's conditions are met, **NUL-1** notice uses the Emergency level's intake target. Both windows are compliance lines. An institution's published windows may be shorter than these and never longer. A band borrows the column's figures and is not a tier classification. The figures are in [CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
 
 **NUL** assignment must govern who is notified, in what order, and by when. **NUL-1** and **NUL-2** events must invoke **CI-8.215 §2** (*External assurance triggers*) external-assurance review when published triggers are met. **Type N** breaches default to at least **NUL-2** and to **NUL-1** while unlawful access, exposure, or reconstruction risk is ongoing.
 

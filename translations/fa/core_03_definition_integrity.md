@@ -38,7 +38,7 @@
 
 - بالادست: اصول: [فصل دوم، §1 — مقصود و نقش](core_02_definition_structure.md#1-مقصود-و-نقش)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-الزام-یکپارچگی-تعریف).
 - پایین‌دست: [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](#2-عدمانطباق-از-رفتار-مشاهدهپذیر-نظام)؛ [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](core_04_burden_traceability_verification.md#2-الزام-ردگیریپذیری-تعریف)؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#5-استاندارد-شاهد-انطباق)؛ [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- خوانده شود با: [فصل یکم، بخش 4.2 — حقیقت (قید یکپارچگی معرفتی)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — تفسیر بر پایهٔ رفتار مشاهده‌پذیر به‌جای ساختار یا قصد اعلام‌شده، قید حقیقت قانون اساسی را در لایهٔ یکپارچگی تعریف عملیاتی می‌کند.
+- خوانده شود با: [فصل یکم، بخش 4.2 — حقیقت (قید یکپارچگی معرفتی)](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint) — تفسیر بر پایهٔ رفتار مشاهده‌پذیر به‌جای ساختار یا قصد اعلام‌شده، قید حقیقت قانون اساسی را در لایهٔ یکپارچگی تعریف عملیاتی می‌کند.
 
 </details>
 
@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](#2-عدمانطباق-از-رفتار-مشاهدهپذیر-نظام)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-الزام-یکپارچگی-تعریف).
-- پایین‌دست: [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](core_04_burden_traceability_verification.md#2-الزام-ردگیریپذیری-تعریف)؛ [فصل نهم — گواهی هم‌راستایی نظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل یازدهم — آثار ردپا و ادغام](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 قطب‌نمای قانون اساسی و نقشهٔ خوشه](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- پایین‌دست: [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](core_04_burden_traceability_verification.md#2-الزام-ردگیریپذیری-تعریف)؛ [فصل نهم — گواهی هم‌راستایی نظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل یازدهم — آثار ردپا و ادغام](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)؛ [CJS-3.1 قطب‌نمای قانون اساسی و نقشهٔ خوشه](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - خوانده شود با: [نمایهٔ یافتهٔ عدم‌انطباق](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — خانهٔ قانونی O/M/A/C برای میدان‌های نمایه؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 قیدهای عملیاتی
 
-عدم‌انطباق همچنین می‌تواند علیه قیدهای عملیاتی در پیکرهٔ اجرای مشترک یافته شود. نمایه‌های یافتهٔ پیش‌فرض و اینکه چگونه به آن یافته‌ها می‌چسبند آنجا اداره می‌شوند — نه در این فصل. ببینید [CJS-3.1 قطب‌نمای قانون اساسی و نقشهٔ خوشه](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+عدم‌انطباق همچنین می‌تواند علیه قیدهای عملیاتی در پیکرهٔ اجرای مشترک یافته شود. نمایه‌های یافتهٔ پیش‌فرض و اینکه چگونه به آن یافته‌ها می‌چسبند آنجا اداره می‌شوند — نه در این فصل. ببینید [CJS-3.1 قطب‌نمای قانون اساسی و نقشهٔ خوشه](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

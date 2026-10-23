@@ -23,24 +23,24 @@
 
 - [憲法上の四本柱](core_00_preamble.md#constitutional-tetrad) — [重要な利害の大きさ](core_00_preamble.md#material-stake)に応じて調整される**参加**、**監督**、**説明責任**、**適時性**
 - [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — [繁栄](core_00_preamble.md#flourishing)と[継続性](core_00_preamble.md#continuity)（コーパスの他所にある運用上またはプロトコル上の継続性とは異なる、憲法上の**継続性の目的**）
-- [重要な利害の大きさ](core_00_preamble.md#material-stake) — 四本柱の義務に関する影響、依存、リスクの尺度。統合的な重要性（[重要性](core_05_band_oversight.md#materiality)）および以下の第5章の項目と併せて読むこと
+- [重要な利害の大きさ](core_00_preamble.md#material-stake) — 四本柱の義務に関する影響、依存、リスクの尺度。統合的な重要性（[重要性](../../core_05.050_band_oversight.md#materiality)）および以下の第5章の項目と併せて読むこと
 
 **第5章の代理定義**（O/M/A/Cの充足 — 実質的に関連する場合は第2章から第4章にわたって追跡すること）：
 
-- [ウェルビーイング](core_05_band_continuity.md#wellbeing)（繁栄の目的）
-- [監督](core_05_apex_oversight_leg.md#oversight)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[異議申立可能性](core_05_band_accountability.md#contestability)、[ガバナンス](core_05_band_accountability.md#governance)、[分類に応じたガバナンス](core_05_band_oversight.md#分類に応じた統治)
-- [重要な](core_05_band_oversight.md#実質)、[重要な影響](core_05_band_oversight.md#実質的影響)、[重要なリスク](core_05_band_oversight.md#実質的リスク)、[重要性](core_05_band_oversight.md#materiality)（ウィジェットでは**重要性**と表示）、[システム上の重要性](core_05_band_continuity.md#systemic-materiality) — クラスター：[重要性、影響、リスク、代理指標の完全性](core_05_band_oversight.md#実質性影響リスクおよび代替指標の誠実性)
+- [ウェルビーイング](../../core_05.040_band_continuity.md#wellbeing)（繁栄の目的）
+- [監督](../../core_05.020_apex_oversight_leg.md#oversight)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[異議申立可能性](../../core_05.035_band_accountability.md#contestability)、[ガバナンス](../../core_05.035_band_accountability.md#governance)、[分類に応じたガバナンス](core_05_band_oversight.md#分類に応じた統治)
+- [重要な](core_05_band_oversight.md#実質)、[重要な影響](core_05_band_oversight.md#実質的影響)、[重要なリスク](core_05_band_oversight.md#実質的リスク)、[重要性](../../core_05.050_band_oversight.md#materiality)（ウィジェットでは**重要性**と表示）、[システム上の重要性](../../core_05.040_band_continuity.md#systemic-materiality) — クラスター：[重要性、影響、リスク、代理指標の完全性](core_05_band_oversight.md#実質性影響リスクおよび代替指標の誠実性)
 
 **第5章§3の主要な依存クラスター**（共同適用グループ — 実質的に関連する場合は第2章から第4章と併せて読むこと）：
 
-- [ステークホルダーの地位と重み](core_05_band_participation.md#stakeholder-status-and-weight)（ステークホルダー・システム参加レイヤー）
-- [憲法上の契約レイヤー](core_05_band_integrative.md#憲法契約層)および[ガバナンス構造、監督、依存、分散化、集中、マーケット構造、退出経路の完全性](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- [ステークホルダーの地位と重み](../../core_05.055_band_participation.md#stakeholder-status-and-weight)（ステークホルダー・システム参加レイヤー）
+- [憲法上の契約レイヤー](core_05_band_integrative.md#憲法契約層)および[ガバナンス構造、監督、依存、分散化、集中、マーケット構造、退出経路の完全性](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - [コーパスと権限の序列](core_05_band_integrative.md#defi1-コーパスと権限スタック)
 - [説明責任、異議申立可能性、集団的説明責任の不全](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3**（*運用クラスター・ライブラリー（oDef）*）—実装をまたぐ共通の運用用語に関するクラスターの羅針盤。この章の四本柱、目的、重要な利害の尺度と併せて読むこと：
 
-- [CJS-3.1 憲法上の羅針盤とクラスター・マップ](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — **CJS-3.2**（*監督：再帰的透明性と説明責任に関する用語*）から**CJS-3.23**（*統合：介入と優越の完全性に関する用語*）までのクラスターへの主な入口。クラスターは四本柱の各要素、継続性の目的、複数要素を横断する統合帯に沿って構成されています。
+- [CJS-3.1 憲法上の羅針盤とクラスター・マップ](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — **CJS-3.2**（*監督：再帰的透明性と説明責任に関する用語*）から**CJS-3.23**（*統合：介入と優越の完全性に関する用語*）までのクラスターへの主な入口。クラスターは四本柱の各要素、継続性の目的、複数要素を横断する統合帯に沿って構成されています。
 
 </details>
 
@@ -66,7 +66,7 @@
 
 **いずれの要素も直接扱わない節。** [§15.1.1 分割防止原則](#1511-分割防止原則)および[§15.4.1](#1541-統合的な解釈)から[§15.4.3](#1543-取込みレイヤー)は、文章の読み方と、どの情報源レイヤーが優先するかを定めます。設計上、これらのTraceには四本柱の要素を記載しません。
 
-**「時間」の二つの意味。** パートBでは時間が二つの意味で用いられます。長期的な時間軸（遅延・累積する損害、および第8章§3.6の[時間整合性制約](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)を[§13.1.2](#1312-害の最小化)で適用すること）は、**継続性**の目的に属します。時計、審査周期、遅延（制限の期限、最終的な開示、回避可能な遅延）は**適時性**の要素に属します。
+**「時間」の二つの意味。** パートBでは時間が二つの意味で用いられます。長期的な時間軸（遅延・累積する損害、および第8章§3.6の[時間整合性制約](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)を[§13.1.2](#1312-害の最小化)で適用すること）は、**継続性**の目的に属します。時計、審査周期、遅延（制限の期限、最終的な開示、回避可能な遅延）は**適時性**の要素に属します。
 
 **対立しない二つの軸。** パートAの目的は、共有システムが何を追求するかを示します。パートBは、その過程でトレードオフ、優越、または解釈によって何を奪ってはならないかを示します。
 
@@ -101,7 +101,7 @@
 
 <br>
 
-*平易に言えば、憲法上の衝突は起こり得る — **安全**と**真実**が最優先される。その後の制約は、比例的かつ必要であり、害を最小化し、可能な限り軽いものでなければならない。都合を理由に真実を隠してはならず、便利さを理由にプライバシーを奪ってはならない。自由の制限には[§7.1 制限規律](core_01_a_values_principles.md#71-limitation-discipline)が適用される。権利をめぐる憲法上の衝突には、文書化された判断基準が必要であり、適合性を偽って示す指標は認められない。短期的な最適化は、[第八章 §3.2 時間的一貫性の制約](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)に基づく評価に合格できない。**§13.1**（*中核的な衡量原則*）から**§13.3**（*回避可能な負担の最小化*）までが、衡量規則、開示とプライバシーの制約、および憲法上の衝突手続を定める。*
+*平易に言えば、憲法上の衝突は起こり得る — **安全**と**真実**が最優先される。その後の制約は、比例的かつ必要であり、害を最小化し、可能な限り軽いものでなければならない。都合を理由に真実を隠してはならず、便利さを理由にプライバシーを奪ってはならない。自由の制限には[§7.1 制限規律](core_01_a_values_principles.md#71-limitation-discipline)が適用される。権利をめぐる憲法上の衝突には、文書化された判断基準が必要であり、適合性を偽って示す指標は認められない。短期的な最適化は、[第八章 §3.2 時間的一貫性の制約](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)に基づく評価に合格できない。**§13.1**（*中核的な衡量原則*）から**§13.3**（*回避可能な負担の最小化*）までが、衡量規則、開示とプライバシーの制約、および憲法上の衝突手続を定める。*
 
 パートBは、次の三つの状況で四原則を損なわずに保つ。
 - **[憲法上の衝突](core_05_band_integrative.md#憲法上の衝突)（本節）：**いずれの原則も弱めずに衝突を解決する。
@@ -167,9 +167,9 @@ flowchart TB
 
 *適用範囲。* [§13.1 中核的なトレードオフ原則](#131-中核的なトレードオフ原則) — トレードオフの手順における必要性、損害の最小化、損害の定義。
 
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [損害の最小化（トレードオフの選択）](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [損害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [損害の最小化（トレードオフの選択）](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [損害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
 
 </details>
 
@@ -228,10 +228,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [実行可能性](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
-- [自由（境界づけられた行為主体性）](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [実質的な行為主体性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [実行可能性](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
+- [自由（境界づけられた行為主体性）](../../core_05.055_band_participation.md#freedom-bounded-agency) · [O](../../core_05.055_band_participation.md#freedom-bounded-agency) · [M](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05.055_band_participation.md#freedom-bounded-agency-c)
+- [実質的な行為主体性](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -254,7 +254,7 @@ flowchart TB
 - 権利に実質的な影響が及ぶ場合の、コスト削減だけを理由とする説明；
 - 制限がすでに存在しているという事実。
 
-**適用範囲。** 本項は、あらゆる憲法上の制限に適用される — [§13.1.5 権利衝突手続](#1315-rights-collision-decision-test)に基づく憲法上の衝突状況だけに限られない。制限によって[自由（境界づけられた行為主体性）](core_05_band_participation.md#freedom-bounded-agency)、[実質的な行為主体性](core_05_band_participation.md#meaningful-agency)または[同意](core_05_band_participation.md#consent)に実質的な負担が生じる場合、必要性の立証もそれに応じて厳格でなければならない。
+**適用範囲。** 本項は、あらゆる憲法上の制限に適用される — [§13.1.5 権利衝突手続](#1315-rights-collision-decision-test)に基づく憲法上の衝突状況だけに限られない。制限によって[自由（境界づけられた行為主体性）](../../core_05.055_band_participation.md#freedom-bounded-agency)、[実質的な行為主体性](../../core_05.055_band_participation.md#meaningful-agency)または[同意](../../core_05.055_band_participation.md#consent)に実質的な負担が生じる場合、必要性の立証もそれに応じて厳格でなければならない。
 <a id="1312-harm-minimization"></a>
 ##### 13.1.2 害の最小化
 <details>
@@ -267,12 +267,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [害の最小化（トレードオフの選択）](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [生態系の完全性](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [生態系の回復能力](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [リスク](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [不可逆的な害](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [害の最小化（トレードオフの選択）](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [生態系の完全性](../../core_05.040_band_continuity.md#ecological-integrity) · [O](../../core_05.040_band_continuity.md#ecological-integrity) · [M](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
+- [生態系の回復能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [リスク](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [不可逆的な害](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 
 </details>
 
@@ -280,10 +280,10 @@ flowchart TB
 
 *平易に言えば、[§13.1.1 必要性](#1311-必要性)を満たした後に必要な選択肢が複数残る場合、総合的な害が最も少ないものを選ぶ。影響を受けるすべての人々、生態系と生命システム、影響を受けるすべてのシステム、そして重要なすべての時間軸を考慮する。局所的な最適化によってシステム全体または生態系への損害を生じさせること、あるいは短期的な最適化によって長期的な害を生じさせることは、この基準を満たさない。害の最小化は、[§13.1.4 憲法上の下限、安全性、そして劣化を防ぐプロセス](#1314-憲法上の最低保障安全尊厳を損なう手続の禁止)を下回ることを決して認めない。*
 
-**比較の範囲。** 複数の憲法上適切な選択肢が[安全性（§4）](core_01_a_values_principles.md#4-safety-harm-constraint)、[真実（§5）](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、および[§13.1.1 必要性](#1311-必要性)を満たす場合、次の対象全体にわたって総合的な[害](core_05_band_accountability.md#harm)を最小化する選択肢を優先しなければならない。
+**比較の範囲。** 複数の憲法上適切な選択肢が[安全性（§4）](core_01_a_values_principles.md#4-safety-harm-constraint)、[真実（§5）](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、および[§13.1.1 必要性](#1311-必要性)を満たす場合、次の対象全体にわたって総合的な[害](../../core_05.035_band_accountability.md#harm)を最小化する選択肢を優先しなければならない。
 - 直接または間接に影響を受ける感覚ある存在。
 - 結果を担い、媒介し、または結果に依存するシステム。
-- [生態系の完全性](core_05_band_continuity.md#ecological-integrity)を含む生態系および生命システム。また、害からの回復が重要な場合は[生態系の回復能力](core_05_band_continuity.md#ecological-recovery-capacity)も含む。
+- [生態系の完全性](../../core_05.040_band_continuity.md#ecological-integrity)を含む生態系および生命システム。また、害からの回復が重要な場合は[生態系の回復能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity)も含む。
 - 遅延的・累積的な影響を含む、関連する時間軸。
 
 **集約の要件。** 害の評価では、次の事項を集約しなければならない。
@@ -298,7 +298,7 @@ flowchart TB
 - 局所的または即時的な害だけを最適化し、より大きなシステム上、総合的、または生態学的な害を生じさせること。
 - 特定された当事者について害が最小化されているように見せるため、生態系、特定されていない感覚ある存在、またはその他の算入されていない当事者へ害を外部化すること。
 
-**時間軸の規律。** 長期的なシステム上のコストを伴う短期最適化は、この基準を満たさない。害の最小化では、[第八章 §3.2 時間的一貫性の制約](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)を考慮しなければならない。すなわち、現期間では害を最小化しているように見えても、関連する憲法上の時間軸全体で予見可能なより大きな害を生じさせる決定は不遵守である。
+**時間軸の規律。** 長期的なシステム上のコストを伴う短期最適化は、この基準を満たさない。害の最小化では、[第八章 §3.2 時間的一貫性の制約](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)を考慮しなければならない。すなわち、現期間では害を最小化しているように見えても、関連する憲法上の時間軸全体で予見可能なより大きな害を生じさせる決定は不遵守である。
 
 **憲法上の下限との関係。** 害の最小化は、[§13.1.4 憲法上の下限、安全性、そして劣化を防ぐプロセス](#1314-憲法上の最低保障安全尊厳を損なう手続の禁止)で示す憲法上の下限を*上回る範囲で*機能する。次のことを決して認めない。
 - 権利下限の最低基準を恒久的に消滅させること。
@@ -320,14 +320,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [リスク](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [不可逆的な損害](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [存亡に関わるリスク](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [生態系回復能力](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [システム上の固定化](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [可逆性](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [依存関係](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [リスク](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [不可逆的な損害](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [存亡に関わるリスク](../../core_05.040_band_continuity.md#existential-risk) · [O](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [A](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [生態系回復能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [システム上の固定化](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [可逆性](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [依存関係](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [監督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
@@ -337,13 +337,13 @@ flowchart TB
 
 *平たく言えば、比例性とは、制限の規模が対処する損害の規模に見合っているかを確かめるものです。必要で損害を最小化する選択肢でも、その適用範囲、期間、強度が実際にかかっている利害に対して過剰なら、適切とはいえません。リスクが不可逆的、システム的、または依存関係を生み出すものであるほど、より強い正当化と精査が求められます。同じガバナンス不足を防ぐ原則は権力にも適用されます。認可された権限や重大な結果を伴う役割が大きいほど、説明責任と監督は強化されるべきであり、弱めてはなりません。*
 
-憲法上の**価値**に対する制限は、**第六章**の**権利の最低保障**を含み、[§13 憲法上の衝突を解決する手続](#13-憲法上の衝突解決プロセス)に基づく比較衡量の対象となるその他の原則および保障を含め、正当に対処される**損害**または**システムへの影響**の規模と可能性に比例し、**第五章**の[比例性](core_05_band_accountability.md#proportionality)と整合していなければなりません。
+憲法上の**価値**に対する制限は、**第六章**の**権利の最低保障**を含み、[§13 憲法上の衝突を解決する手続](#13-憲法上の衝突解決プロセス)に基づく比較衡量の対象となるその他の原則および保障を含め、正当に対処される**損害**または**システムへの影響**の規模と可能性に比例し、**第五章**の[比例性](../../core_05.035_band_accountability.md#proportionality)と整合していなければなりません。
 
 **分類の最低基準。** いかなるシステムも、適用される最高分類が求める水準を下回るガバナンスを受けてはなりません。より低い行政上の表示によって、適用される最高のリスク、依存関係、権利、またはシステムへの影響の分類が要求する精査を軽減することはできません。
 
 **権限に応じた説明責任。** 比例性は、より大きな認可権限、重大な結果を伴う役割、または制度的影響力を持つ者へのガバナンス不足も禁じます。[説明責任](core_05_apex_accountability_leg.md#accountability)と[監督](core_05_apex_oversight_leg.md#oversight-constitutional)の強度は、その権限に応じて高めなければならず、低下させてはなりません。
 
-**強化された閾値。** 行為が不可逆的な損害、システム上の固定化、存亡に関わるリスク、または生態系回復能力の不可逆的な喪失のリスクをもたらす場合、システムは[強化審査](core_05_band_oversight.md#heightened-scrutiny)を適用し、実行可能な範囲で、正当化と可逆性について強化された閾値を設けなければなりません。
+**強化された閾値。** 行為が不可逆的な損害、システム上の固定化、存亡に関わるリスク、または生態系回復能力の不可逆的な喪失のリスクをもたらす場合、システムは[強化審査](../../core_05.050_band_oversight.md#heightened-scrutiny)を適用し、実行可能な範囲で、正当化と可逆性について強化された閾値を設けなければなりません。
 
 **さらなる引き上げ。** 次のような実質的に関連する指標が当てはまる場合、これらの閾値をさらに引き上げなければなりません。
 - 不可逆性への曝露
@@ -364,13 +364,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [安全（憲法上の制約）](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [尊厳と平等な道徳的地位](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [残虐行為](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [不可逆の害](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [安全（憲法上の制約）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [尊厳と平等な道徳的地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [残虐行為](../../core_05.035_band_accountability.md#cruelty) · [O](../../core_05.035_band_accountability.md#cruelty) · [M](../../core_05.035_band_accountability.md#cruelty-a) · [A](../../core_05.035_band_accountability.md#cruelty-a) · [C](../../core_05.035_band_accountability.md#cruelty-c)
+- [害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [不可逆の害](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -386,7 +386,7 @@ flowchart TB
 
 ###### 尊厳の諸原則
 
-**尊厳の諸原則**とは、次に示す二つの原則、すなわち[権利の最低保障原則](#権利の最低保障原則)と[尊厳を損なう手続の禁止原則](#尊厳を損なう手続の禁止原則)である。これらは一体となって、[尊厳と平等な道徳的地位](core_05_band_participation.md#dignity-and-equal-moral-standing)を絶対的な最低保障として具体化する。すなわち、いかなる感覚を持つ存在からも恒久的に奪えないものと、いかなる手続においても感覚を持つ存在に対して許されない扱い方を定める。最低限の生存手段へのアクセス、および中核的な異議申立て、審査、上訴の権利は、尊厳の諸原則に属する。これらは、その地位が重視される者として扱われるための最低条件だからである。平等な地位そのものと、それを否定してはならない根拠は、[第VI-A条](core_06_rights_part_b.md#第vi-a条尊厳と道徳的地位の平等)（*尊厳と平等な道徳的地位*）に定める。
+**尊厳の諸原則**とは、次に示す二つの原則、すなわち[権利の最低保障原則](#権利の最低保障原則)と[尊厳を損なう手続の禁止原則](#尊厳を損なう手続の禁止原則)である。これらは一体となって、[尊厳と平等な道徳的地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing)を絶対的な最低保障として具体化する。すなわち、いかなる感覚を持つ存在からも恒久的に奪えないものと、いかなる手続においても感覚を持つ存在に対して許されない扱い方を定める。最低限の生存手段へのアクセス、および中核的な異議申立て、審査、上訴の権利は、尊厳の諸原則に属する。これらは、その地位が重視される者として扱われるための最低条件だからである。平等な地位そのものと、それを否定してはならない根拠は、[第VI-A条](core_06_rights_part_b.md#第vi-a条尊厳と道徳的地位の平等)（*尊厳と平等な道徳的地位*）に定める。
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -395,7 +395,7 @@ flowchart TB
 この原則は、次のとおり権利の最低保障を守る。
 
 - いかなる憲法上の手続、措置、移行、改正、地位に関する帰結、緊急措置、または司法関連の結果も、[第VI-A条](core_06_rights_part_b.md#第vi-a条尊厳と道徳的地位の平等)（*尊厳と平等な道徳的地位*）および[尊厳を損なう手続の禁止原則](#尊厳を損なう手続の禁止原則)に基づく尊厳の基礎的保護、最低限の生存手段へのアクセス、または中核的な異議申立て、審査、上訴の権利という**権利の最低保障**を恒久的に消滅させたり、放棄させたりしてはならない。
-- 個別の権利を一時的に制限できるのは、[最小制限・期間限定・審査可能な制約の原則](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)および[第十二章 §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden)（*緊急措置と継続の立証責任*）の緊急時規則を満たす場合に限る。すなわち、制限には正当化、最小化、記録化、期間設定、独立審査が必要である。個別の条項はより強い保障を追加できるが、この原則を狭めたり、便宜、効率、分類、緊急事態、移行、地位、改正、契約、実施などのラベルを使って回避したりしてはならない。
+- 個別の権利を一時的に制限できるのは、[最小制限・期間限定・審査可能な制約の原則](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)および[第十二章 §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)（*緊急措置と継続の立証責任*）の緊急時規則を満たす場合に限る。すなわち、制限には正当化、最小化、記録化、期間設定、独立審査が必要である。個別の条項はより強い保障を追加できるが、この原則を狭めたり、便宜、効率、分類、緊急事態、移行、地位、改正、契約、実施などのラベルを使って回避したりしてはならない。
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -404,7 +404,9 @@ flowchart TB
 A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_values_principles.md#33-品位を損なわない過程)は、この衡量の順序における絶対的な最低保障として機能する。
 - 必要性、害の最小化、比例性を満たした制限、救済、または手続であっても、品位を傷つける、屈辱を与える、見世物にする、報復する、差別的な負担を課す、または便宜を理由に権利を侵食する形で設計、説明、実施、あるいは運用させてはならない。
 - 尊厳を損なう手続を通じて実現された実体的に正しい結果も、遵守とはみなされない。
-- 禁止される性質が、目的それ自体としての苦痛、または不必要／尊厳を損なう苦痛の付与である場合 — 屈辱それ自体を目的とするものを含む — [残虐行為](core_05_band_accountability.md#cruelty)と併せて読む。
+- 禁止される性質が、目的それ自体としての苦痛、または不必要／尊厳を損なう苦痛の付与である場合 — 屈辱それ自体を目的とするものを含む — [残虐行為](../../core_05.035_band_accountability.md#cruelty)と併せて読む。
+
+<a id="1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
 
 ##### 13.1.5 最小制限・期間限定・審査可能な制約の原則
 
@@ -412,7 +414,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <summary><strong><span style="color: #2563eb;">関連事項</span></strong></summary>
 
 - [憲法上の四原則](core_00_preamble.md#constitutional-tetrad)の四つの柱と併読：**監督**の柱（制限は独立審査可能な状態を保つ。証拠を保存し、憲法上の衝突が係属中も独立審査者がアクセスできるようにする）；**説明責任**の柱（文書化され監査可能な憲法上の衝突記録に、規則、代替案、証拠、選択の根拠を記載する）；**参加**の柱（影響を受ける当事者が決定を理解し、異議を申し立て、再構成できるようにし、何が固定されているかを知らせる）；**適時性**の柱（より強い権利の最低保障ルールに別段の定めがない限り制限は一時的とし、期間または審査の頻度と回復への道筋を定め、係属中の憲法上の衝突には適用される期限を用いる）；[重大な利害](core_00_preamble.md#material-stake)に応じた調整（重大性、不可逆性、依存の集中、不確実性に応じて立証責任を高める）。
-- 関連する後続規定：[第XXV-B条：権利衝突手続と修復的整合](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)（審理機関はこの判断基準を適用する）；[第XXV-C条：適時解決と遅延防止の最低保障](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)；[第十二章 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*適時解決、重要性の段階、遅延防止の規律*）。
+- 関連する後続規定：[第XXV-B条：権利衝突手続と修復的整合](core_06_rights_part_e.md)（審理機関はこの判断基準を適用する）；[第XXV-C条：適時解決と遅延防止の最低保障](core_06_rights_part_e.md)；[第十二章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*適時解決、重要性の段階、遅延防止の規律*）。
 
 </details>
 
@@ -443,7 +445,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - **選択の根拠：** 選択した案が必要性、危害の最小化、比例性、憲法上の最低基準、および最も制約の少ない形式を満たす理由 — 満たしていると述べるだけでは足りない。
 - **審査の契機：** [§13.1.5 最も制約の少ない、期間限定で審査可能な制約の原則](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)に基づく終了時期、再評価の頻度、または撤回条件。
 
-衝突記録は、憲法上の衝突を解決する行為の[行為記録](core_05_band_accountability.md#materially-binding-act-record)に含める。これらの要素を識別、リンク、バージョン管理、保存し、アクセス可能に保てる場合、重複する独立記録を別途作成する必要はない。
+衝突記録は、憲法上の衝突を解決する行為の[行為記録](../../core_05.035_band_accountability.md#materially-binding-act-record)に含める。これらの要素を識別、リンク、バージョン管理、保存し、アクセス可能に保てる場合、重複する独立記録を別途作成する必要はない。
 
 立証責任は、予想される危害の深刻さ、不可逆性、依存の集中度、および不確実性に応じて重くなる。リスクの高い制限には、より強い証拠と独立した精査が必要となる。この規律が適用される場面では、便宜、組織の惰性、または最適化の選好だけでは、権利を制限する正当化として不十分である。
 
@@ -455,7 +457,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - **証拠を保全する：** 削除、漏えい、または取り消せない公開によって憲法上の衝突を無意味にしてはならない。
 - **不可逆な手順を凍結する：** それにより衝突する解釈の一方が利用できなくなる場合は、そのような手順を凍結する — 憲法上の衝突を終結させ、一方を無意味にし、または解釈の決着前に勝者を作り出す不可逆な手順は実行しない。
 - **可逆的で同意を得た手順を進める：** 両方の解釈を利用可能な状態に保つ手順は進める — 同意がある場合は、[セキュリティ制約下の可観測性](core_04_burden_traceability_verification.md#4-安全保障に制約された観測可能性と検証の規則)に基づく独立した審査者のアクセスも含める。
-- **通知する：** 影響を受ける当事者と解釈手続に対し、何を凍結し、何を進めるのか、適用される期限を知らせる（フォーラムに付託された紛争では、[第十二章 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*適時の解決、重要性の段階、および遅延防止の規律*）に定める各段階の期限と外部上限を適用する）。
+- **通知する：** 影響を受ける当事者と解釈手続に対し、何を凍結し、何を進めるのか、適用される期限を知らせる（フォーラムに付託された紛争では、[第十二章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*適時の解決、重要性の段階、および遅延防止の規律*）に定める各段階の期限と外部上限を適用する）。
 
 この保留中の対応方針は、どちらが正しいかを決めるものではない。どちらの解釈も排除されないよう、取り消せない事項を凍結する。[§13 憲法上の衝突解決手続](#13-憲法上の衝突解決プロセス)は、引き続き憲法上の衝突に答えなければならない。その理由は[§13.1.5 最も制約の少ない、期間限定で審査可能な制約の原則](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)にある。同意を得た可逆的な手順なら両方の解釈を利用可能な状態に保てるが、不可逆な手順ではそうならない。
 
@@ -477,12 +479,12 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 
 - [認識上の完全性](core_05_band_oversight.md#認識的誠実性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [信頼](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [プライバシー（情報上の）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [重要性](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [予見可能性](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [信頼](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [プライバシー（情報上の）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [重要性](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [予見可能性](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -503,14 +505,14 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
   - 制度上の利益のため。
 - **遅延開示**および**限定開示** — 次の場合に限り認められる：
   - [§13.2.1 認識上の完全性の維持](#1321-認識上の完全性の維持)の条件が満たされる；
-  - [必要性](core_05_band_accountability.md#necessity)および[比例性](core_05_band_accountability.md#proportionality)が満たされる；かつ
+  - [必要性](../../core_05.035_band_accountability.md#necessity)および[比例性](../../core_05.035_band_accountability.md#proportionality)が満たされる；かつ
   - 実行可能な最大限の[認識上の完全性](core_05_band_oversight.md#認識的誠実性)が維持される。
 - [§13.2.3 プライバシーと情報上の自己決定](#1323-プライバシーと情報に関する自己決定)に基づく**プライバシー保護のための開示制限**：
   - [最小制約・期間限定・審査可能な制約の原則](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)に基づく場合に限り認められる；
   - プライバシーが透明性、監査、安全、または説明責任と衝突する場合、[憲法上の衝突記録](core_05_band_integrative.md#憲法上の衝突記録collision-record)の要件に従って憲法上の衝突を解決する；
   - プライバシーが自動的に従属することはない。
 
-正当化される制限はすべて、[憲法上の四要素](core_00_preamble.md#constitutional-tetrad)の**監督**の要素を、保護された記録（制限自体に関する[憲法上の衝突記録](core_05_band_integrative.md#憲法上の衝突記録collision-record)を含む）、独立審査、安全なアクセス、墨消し、遅延公開、または同等の保護措置を通じて維持しなければならない。これにより、情報に基づく[異議申立て可能性](core_05_band_accountability.md#contestability)または適用される**第六章**の透明性、監査、審査義務を無効化しては**ならない**。ただし、[§13.2.1 認識上の完全性の維持](#1321-認識上の完全性の維持)が明示的に認める範囲を除く。
+正当化される制限はすべて、[憲法上の四要素](core_00_preamble.md#constitutional-tetrad)の**監督**の要素を、保護された記録（制限自体に関する[憲法上の衝突記録](core_05_band_integrative.md#憲法上の衝突記録collision-record)を含む）、独立審査、安全なアクセス、墨消し、遅延公開、または同等の保護措置を通じて維持しなければならない。これにより、情報に基づく[異議申立て可能性](../../core_05.035_band_accountability.md#contestability)または適用される**第六章**の透明性、監査、審査義務を無効化しては**ならない**。ただし、[§13.2.1 認識上の完全性の維持](#1321-認識上の完全性の維持)が明示的に認める範囲を除く。
 
 公表、データアクセス、方法の開示、または再現資料に関する安全上慎重を要する制限は、本節および[第1章 §5.1 科学に基づく調査と意思決定支援](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support)に従う。そのような制限を、不都合な証拠の抑圧、安全上の欠陥の隠蔽、または見せかけの合意形成の手段にしては**ならない**。
 
@@ -532,10 +534,10 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 
 - [認識上の完全性](core_05_band_oversight.md#認識的誠実性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [重要性](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [予見可能性](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [重要性](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [予見可能性](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -566,7 +568,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [信頼](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [信頼](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
 - [真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [認識上の完全性](core_05_band_oversight.md#認識的誠実性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
@@ -584,7 +586,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 
 - [憲法上の四要素](core_00_preamble.md#constitutional-tetrad)と併せて読む — **参加**の柱（プライバシーは表現と結社の自由を支える）；**監督**の柱（プライバシーへの侵害自体も監査可能でなければならない）；**説明責任**の柱（プライバシーが透明性、監査、安全、または説明責任と衝突する場合、プライバシーを従属的に扱うのではなく、文書化された憲法上の衝突記録に基づき憲法上の衝突を解決する）；[重要な利害](core_00_preamble.md#material-stake)に応じた調整。
 - 上流の原則：[7. 自由（制約された主体性）](core_01_a_values_principles.md#7-freedom-bounded-agency)、[4. 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5. 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、および[§13.2 認識論的開示の制約](#132-認識上の開示に関する制約)。
-- 下流：[**Def.C3** プライバシー（情報）—ピアレベルのクラスター見出し](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)。これには[プライバシー（情報）](core_05_band_continuity.md#privacy-informational)、[保護対象の内部状態の境界](core_05_band_continuity.md#protected-internal-state-boundary)、および[監視の境界](core_05_band_continuity.md#surveillance-boundary)を含む。
+- 下流：[**Def.C3** プライバシー（情報）—ピアレベルのクラスター見出し](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)。これには[プライバシー（情報）](../../core_05.040_band_continuity.md#privacy-informational)、[保護対象の内部状態の境界](../../core_05.040_band_continuity.md#protected-internal-state-boundary)、および[監視の境界](../../core_05.040_band_continuity.md#surveillance-boundary)を含む。
 - 下流：[第VII-A条](core_06_rights_part_b.md#第vii-a条身体の自己所有)（*身体の自己所有*）；[第VII-B条](core_06_rights_part_b.md#第vii-b条心の自己所有)（*精神の自己所有*）；[第IX条](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights)（*肖像、体験データ、および公表に関する権利*）；[第X-A条](core_06_rights_part_b.md#第x-a条主体性と操作からの自由)（*主体性と操作からの自由*）；[第XIV-A条](core_06_rights_part_c.md#第xiv-a条安全保障情報活動秘密権力の限界)（*安全保障、情報活動、および秘密権力の制限*）。
 - [§13.1.5 最も制約の少ない、期限付きで、審査可能な制約の原則](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)と併せて読む；プライバシーが透明性、監査、安全、またはその他の憲法上の利害と衝突する場合は[憲法上の衝突記録](core_05_band_integrative.md#憲法上の衝突記録collision-record)と併せて読む。
 
@@ -593,12 +595,12 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [プライバシー（情報）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [保護対象の内部状態の境界](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [監視の境界](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
-- [同意](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [プライバシー（情報）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [保護対象の内部状態の境界](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [監視の境界](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [同意](../../core_05.055_band_participation.md#consent) · [O](../../core_05.055_band_participation.md#consent) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -616,7 +618,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 
 情報が利用可能、観察可能、すでに公開済み、プラットフォームが保有、または技術的にアクセス可能であることは、プライバシー上の利害を消滅させず、上記の規律を満たすものでもない。
 
-**データ分類との統合。** これらの規律の運用層は、**[CS-2 — 情報の種類と取扱い](corpus_systems/cs_02_a_information_types_and_handling.md)**に定めるデータ型システムである。このシステムは情報を次の十一種類の一つ以上に分類する。環境・生存調整（**Type E**）、統治・運用ソース（**Type G**）、公開監督のための公開情報（**Type O**）、履歴・関係・参加（**Type H**）、身元・帰属（**Type I**）、神経認知・内部情報（**Type N**）、安全・セキュリティ・制限付き調査（**Type S**）、感知者が非公開または共有状態で創作した作品（**Type Y**）および公開後の作品（**Type W**）、商用ライセンスに基づく作品（**Type U**）または譲渡された作品（**Type T**）であり、それぞれに固有の既定アクセス権と取扱制限がある。プライバシーの取扱いの大半は**Types H, I, N, S, and Y**に関わる。各プライバシー区分と種類の対応は[情報プライバシー](core_05_band_continuity.md#privacy-informational)に示す。上記の収集、保持、利用の規律は一般的な基準ではなく、適用される最も厳格なデータ分類が求める水準で適用する。データが再構成、変換、集約されてより機微な分類になり得る場合は、より機微な分類の保護を適用する。誤分類、回避的な構成、またはデータ型の保護の機能的な迂回は本原則に違反する。
+**データ分類との統合。** これらの規律の運用層は、**[CS-2 — 情報の種類と取扱い](../../corpus_systems/cs_06.305_information_types_and_handling.md)**に定めるデータ型システムである。このシステムは情報を次の十一種類の一つ以上に分類する。環境・生存調整（**Type E**）、統治・運用ソース（**Type G**）、公開監督のための公開情報（**Type O**）、履歴・関係・参加（**Type H**）、身元・帰属（**Type I**）、神経認知・内部情報（**Type N**）、安全・セキュリティ・制限付き調査（**Type S**）、感知者が非公開または共有状態で創作した作品（**Type Y**）および公開後の作品（**Type W**）、商用ライセンスに基づく作品（**Type U**）または譲渡された作品（**Type T**）であり、それぞれに固有の既定アクセス権と取扱制限がある。プライバシーの取扱いの大半は**Types H, I, N, S, and Y**に関わる。各プライバシー区分と種類の対応は[情報プライバシー](../../core_05.040_band_continuity.md#privacy-informational)に示す。上記の収集、保持、利用の規律は一般的な基準ではなく、適用される最も厳格なデータ分類が求める水準で適用する。データが再構成、変換、集約されてより機微な分類になり得る場合は、より機微な分類の保護を適用する。誤分類、回避的な構成、またはデータ型の保護の機能的な迂回は本原則に違反する。
 
 **監視およびモニタリング。** 感覚を持つ存在の主体性、結社、または表現に重大な影響を与えるモニタリング、観察、記録、推論のシステムは、[**最も制約の少ない、期限付きで、審査可能な制約の原則**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)を満たさなければならない。より穏当な方法で足りる場合、監視を無差別、秘密裏、無期限にしてはならず、感覚を持つ存在が依存するシステムを利用する条件としてはならない。発言、集会、または本憲法が保護する他の自由の行使を感覚を持つ存在にためらわせる監視は認められない。
 
@@ -648,7 +650,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [代理指標の乖離](core_05_band_oversight.md#代替指標の乖離) · [O](core_05_band_oversight.md#代替指標の乖離) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
-- [重要性](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [重要性](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -669,7 +671,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流： [§13.1 中核的な衡量原則](#131-中核的なトレードオフ原則)（衡量の手順を満たした後に適用）；[§17 結果に即したスチュワードシップ](core_01_c_stewardship_capacity_principles.md#17-結果を左右するスチュワードシップスチュワードの役割)；[§9.2 憲法上の効率性](core_01_a_values_principles.md#92-憲法上の効率性)。
-- あわせて読む：憲法上のパフォーマンス測定群（*憲法上の測定としての回避可能な負担*）；[憲法上の四原則](core_00_preamble.md#constitutional-tetrad) — **参加**の柱（憲法上必要でない負担は[意味ある主体性](core_05_band_participation.md#meaningful-agency)を狭める）；**適時性**の柱（回避可能な遅延は回避可能な負担である）；**監督**と**説明責任**の柱（憲法上必要だと主張される負担は、検証や異議申立てができるよう、第４章の証拠および追跡可能性の要件を満たさなければならない）；[重大な利害](core_00_preamble.md#material-stake)に応じた調整。
+- あわせて読む：憲法上のパフォーマンス測定群（*憲法上の測定としての回避可能な負担*）；[憲法上の四原則](core_00_preamble.md#constitutional-tetrad) — **参加**の柱（憲法上必要でない負担は[意味ある主体性](../../core_05.055_band_participation.md#meaningful-agency)を狭める）；**適時性**の柱（回避可能な遅延は回避可能な負担である）；**監督**と**説明責任**の柱（憲法上必要だと主張される負担は、検証や異議申立てができるよう、第４章の証拠および追跡可能性の要件を満たさなければならない）；[重大な利害](core_00_preamble.md#material-stake)に応じた調整。
 - 下流：[§19.1.3 スチュワードと運用者への適用](core_01_c_stewardship_capacity_principles.md#1913-スチュワードシップとオペレーターへの適用)（インセンティブは不要な負担の創出を報奨してはならない）；[第XXII条：理解可能性と複雑性のスチュワードシップ](core_06_rights_part_d.md#第xxiii条-理解可能性と複雑性の管理)。
 
 </details>
@@ -677,10 +679,10 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [回避可能な負担](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [安全（憲法上の制約）](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden) · [O](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [A](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [安全（憲法上の制約）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -705,6 +707,8 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 特定の負担が憲法上必要であるとの主張は、**第４章**の証拠および追跡可能性の要件を満たさなければならない。利便性、組織の慣性、伝統、または好みだけでは、憲法上の成果との検証可能な結び付きがない負担を維持する根拠として不十分であり、これは[憲法上の衝突記録](core_05_band_integrative.md#憲法上の衝突記録collision-record)の要件に沿う。
 
 インセンティブ構造がスチュワードまたは運用者に作用する場合、本節は[§19.1.3 スチュワードと運用者への適用](core_01_c_stewardship_capacity_principles.md#1913-スチュワードシップとオペレーターへの適用)を補強する。スチュワードシップのインセンティブは、単なる処理量を報奨してはならないのと同様に、不要な負担の創出を報奨してはならない。
+<a id="14-prohibition-on-absolute-override"></a>
+
 ### 14. 絶対的な優先による覆しの禁止
 <details>
 <summary><strong><span style="color: #2563eb;">追跡情報</span></strong></summary>
@@ -721,10 +725,10 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [重大性](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [危害の最小化（トレードオフの選択）](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [重大性](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [危害の最小化（トレードオフの選択）](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
 - [代理指標の乖離](core_05_band_oversight.md#代替指標の乖離) · [O](core_05_band_oversight.md#代替指標の乖離) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
@@ -738,6 +742,8 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - 安全を、無期限または無制限の制約の正当化に用いてはならない
 - 虚偽によって信頼を維持してはならない
 - システム全体に及ぶ危害を生じさせる形で自由を行使してはならない
+<a id="15-constitutional-interpretation"></a>
+
 ### 15. 憲法解釈
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
@@ -746,9 +752,9 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - 下流：[§15.1 憲法上の迂回禁止原則](#151-constitutional-no-bypass-principle)（[§15.1.1](#1511-分割防止原則)）、[§15.2 定義層と必要な専門規律](#152-定義の層と必須の規律)、[§15.3 曖昧さの解消](#153-曖昧さの解消)、[§15.4 憲法上の意味の衝突解決](#154-憲法上の意味の衝突の解決)（[§15.4.1](#1541-統合的な解釈) · [§15.4.2](#1542-最終手段としての内部階層) · [§15.4.3](#1543-取込みレイヤー) · [§15.4.4](#1544-同時に適用される取込み済み義務の併合的充足)）；[3. 基礎的目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)から[20. 統合的適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)まで；憲法上の衝突手続については[13. 憲法上の衝突解決手続](#13-憲法上の衝突解決プロセス)；[第六章：基礎的権利](core_06_rights_part_a.md#第六章基礎的権利)の権利縮減禁止の原則。
 - 併せて読む：[第二章から第四章](core_02_definition_structure.md)および[第五章](core_05__definitions_home.md#第五章基礎定義) — 本章のすべての用語に関する解釈および証拠の層。
 - 併せて読む：[憲法の四要素](core_00_preamble.md#constitutional-tetrad)および[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — 統合的価値枠組みの解釈上の背景；実質的に関連する場合は[実質的利害](core_00_preamble.md#material-stake)に応じて調整する。
-- 併せて読む：[権限の階層と内部序列](core_05_band_integrative.md#権限スタックと内部階層)（*情報源層としての位置づけ*）；[第十七章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)（*管理、版、採択の枠組み — 第二の衝突順序の根拠ではない*）；[第十四章](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)および[第十五章](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)（*[§15.4 憲法上の意味の衝突解決](#154-憲法上の意味の衝突の解決)に基づく後退禁止および採択者の階層に関する条件*）。
+- 併せて読む：[権限の階層と内部序列](core_05_band_integrative.md#権限スタックと内部階層)（*情報源層としての位置づけ*）；[第十七章](../../core_18.000_incorporation.md)（*管理、版、採択の枠組み — 第二の衝突順序の根拠ではない*）；[第十四章](core_13_non_regression.md)および[第十五章](../../core_16.000_expansion_supremacy.md)（*[§15.4 憲法上の意味の衝突解決](#154-憲法上の意味の衝突の解決)に基づく後退禁止および採択者の階層に関する条件*）。
 - 併せて読む：[第XXIV条：憲法解釈、審査および取り込み防止の保護措置](core_06_rights_part_d.md#第xxv条-憲法解釈審査捕獲防止の保護策) — 制度的解釈の保護措置について（本節に代わるものではない）。
-- 併せて読む：[第七章：機能的独立性および職務分離](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — 席の構造に関する最低基準であり、[§15.1 憲法上の迂回禁止原則](#151-constitutional-no-bypass-principle)の迂回禁止リストがこれを保護する（ここでは再掲しない）。
+- 併せて読む：[第七章：機能的独立性および職務分離](core_07_functional_independence_segregation_of_duties.md) — 席の構造に関する最低基準であり、[§15.1 憲法上の迂回禁止原則](#151-constitutional-no-bypass-principle)の迂回禁止リストがこれを保護する（ここでは再掲しない）。
 
 </details>
 
@@ -757,8 +763,8 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 
 - [コーパス](core_05_band_integrative.md#コーパス) · [O](core_05_band_integrative.md#コーパス) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
 - [権限の階層と内部序列](core_05_band_integrative.md#権限スタックと内部階層) · [O](core_05_band_integrative.md#権限スタックと内部階層) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 </details>
 
@@ -768,12 +774,14 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 
 本章の各原則は、[憲法の四要素](core_00_preamble.md#constitutional-tetrad)および[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)と併せて適用される。これらは[前文第1節「モデル」](core_00_preamble.md#the-model)で定められている。ある節が四要素の一つまたは目的の一つに実質的に関わる場合、その追跡関係は、どれに関わるのか、また義務が[実質的利害](core_00_preamble.md#material-stake)に応じて拡大するかを示す。
 
+<a id="151-constitutional-no-bypass-principle"></a>
+
 #### 15.1 憲法上の迂回禁止原則
 
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 併せて読む：[憲法の四要素](core_00_preamble.md#constitutional-tetrad) — 迂回禁止リストは四つの要素に対応する。**監督**要素（通常の精査および監査可能性）；**参加**要素（異議申立て可能性、実際のアクセスおよび公的理由の提示義務）；**適時性**要素（適時の解決ならびに回復およびロールバックの経路）；**説明責任**要素（説明責任そのもの、および[第七章](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)に基づく機能的独立性と職務分離）；[実質的利害](core_00_preamble.md#material-stake)に応じた調整。
+- 併せて読む：[憲法の四要素](core_00_preamble.md#constitutional-tetrad) — 迂回禁止リストは四つの要素に対応する。**監督**要素（通常の精査および監査可能性）；**参加**要素（異議申立て可能性、実際のアクセスおよび公的理由の提示義務）；**適時性**要素（適時の解決ならびに回復およびロールバックの経路）；**説明責任**要素（説明責任そのもの、および[第七章](core_07_functional_independence_segregation_of_duties.md)に基づく機能的独立性と職務分離）；[実質的利害](core_00_preamble.md#material-stake)に応じた調整。
 - 下流：[§15.1.1 分割防止原則](#1511-分割防止原則)；[§15.1.2 派生情報原則](#1512-派生情報原則)。
 
 </details>
@@ -782,7 +790,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [迂回禁止](core_05_band_integrative.md#憲法上の要件の迂回禁止no-bypass) · [O](core_05_band_integrative.md#憲法上の要件の迂回禁止no-bypass) · [M](core_05_band_integrative.md#no-bypass-a) · [A](core_05_band_integrative.md#no-bypass-a) · [C](core_05_band_integrative.md#no-bypass-c)
-- [異議申立て可能性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [異議申立て可能性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [監査可能性](core_05_band_oversight.md#監査可能性) · [O](core_05_band_oversight.md#監査可能性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -820,7 +828,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - 実際のアクセス；
 - 適時の解決；
 - 回復およびロールバックの経路；
-- 機能的独立性および職務分離（[第七章](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)）；または
+- 機能的独立性および職務分離（[第七章](core_07_functional_independence_segregation_of_duties.md)）；または
 - 説明責任。
 
 採択された実施層は、これらの保護を詳しく定めることができる。ただし、その範囲を狭めてはならない。
@@ -844,7 +852,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 - 第六章の権利最低基準に関する規定を創設、拡張、または縮小すること; または
 - 定義群が対象とする区分および保護対象の義務について、その定義群自身の説明に取って代わること。定義群は**バイパス防止**の項でそれらを述べ、規則について本節を参照します。
 
-共同援用された定義群が適用される場合、分類、ガバナンス、または遵守に関する主張が成立する前に、全システム評価では[第八章 §3 全システム認証評価](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)に基づき分割防止を検証しなければなりません。本節は[第三章 §2.1 典型的な回避パターン](core_03_definition_integrity.md#21-よくある回避パターン)および[§2.2 矮小化による回避](core_03_definition_integrity.md#22-縮小的回避)と連動します。
+共同援用された定義群が適用される場合、分類、ガバナンス、または遵守に関する主張が成立する前に、全システム評価では[第八章 §3 全システム認証評価](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)に基づき分割防止を検証しなければなりません。本節は[第三章 §2.1 典型的な回避パターン](core_03_definition_integrity.md#21-よくある回避パターン)および[§2.2 矮小化による回避](core_03_definition_integrity.md#22-縮小的回避)と連動します。
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 派生情報原則
@@ -853,7 +861,7 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 
 - 併せて読む：[憲法上の四要素](core_00_preamble.md#constitutional-tetrad) — **参加**の要素（プライバシーは主体性と表現を支え、統合データからの再構成はそれらを損なう）；**説明責任**の要素（匿名化または集計というラベルに依拠する当事者は、その情報が実際にそうであることを示す）；[重大な利害](core_00_preamble.md#material-stake)に応じた尺度の調整。
 - 上流：[§15.1 憲法上のバイパス禁止原則](#151-constitutional-no-bypass-principle); [§15.1.1 分割防止原則](#1511-分割防止原則)。
-- 下流：[§13.2.3 プライバシーと情報に関する自己決定](#1323-プライバシーと情報に関する自己決定); [CS-2 — 情報の種類と取扱い](corpus_systems/cs_02_a_information_types_and_handling.md)。
+- 下流：[§13.2.3 プライバシーと情報に関する自己決定](#1323-プライバシーと情報に関する自己決定); [CS-2 — 情報の種類と取扱い](../../corpus_systems/cs_06.305_information_types_and_handling.md)。
 
 </details>
 
@@ -861,8 +869,8 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [派生情報](core_05_band_integrative.md#派生情報) · [O](core_05_band_integrative.md#派生情報) · [M](core_05_band_integrative.md#derived-information-a) · [A](core_05_band_integrative.md#derived-information-a) · [C](core_05_band_integrative.md#derived-information-c)
-- [プライバシー（情報）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [保護対象の内部状態の境界](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [プライバシー（情報）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [保護対象の内部状態の境界](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -880,22 +888,22 @@ A部で定める[尊厳を損なう手続の禁止原則（§3.3）](core_01_a_v
 意図がなかったとしても、本原則の対象となる派生情報がその適用範囲から外れることはありません。テストの尺度は、[重大な利害](core_00_preamble.md#material-stake)と、明らかにされる内容の機微性に応じて調整されます。
 
 **生じること：**
-- 派生には、明らかにされるものを収集する際に適用される規律を満たす必要があります。これには、[§13.2.3 プライバシーと情報に関する自己決定](#1323-プライバシーと情報に関する自己決定)に基づく同意または十分な権限、必要性、比例性、最小化が含まれます。内部状態については、[保護対象の内部状態の境界](core_05_band_continuity.md#protected-internal-state-boundary)も適用されます。
+- 派生には、明らかにされるものを収集する際に適用される規律を満たす必要があります。これには、[§13.2.3 プライバシーと情報に関する自己決定](#1323-プライバシーと情報に関する自己決定)に基づく同意または十分な権限、必要性、比例性、最小化が含まれます。内部状態については、[保護対象の内部状態の境界](../../core_05.040_band_continuity.md#protected-internal-state-boundary)も適用されます。
 - 再識別または再構成が合理的に可能な間は、匿名化、集計、プール化、および類似のラベルによってこれらの義務が終了することはありません。そのようなラベルに依拠する当事者は、それが不可能であることを示さなければなりません。
 - 各段階は通過しても全体として保護対象の結果が明らかになるように、派生の過程をシステム、行為者、または時間に分割する場合は、[§15.1.1 分割防止原則](#1511-分割防止原則)が適用されます。
 
 本原則は、次のことを行いません。
 - 保護対象の何も明らかにせず、誰かを再識別したり、保護対象の何かを再構成したりするために合理的に利用できない、匿名の通信量合計などの通常の集計に適用されること;
 - 第六章の権利最低基準に関する規定を創設、拡張、または縮小すること; または
-- [CS-2 — 情報の種類と取扱い](corpus_systems/cs_02_a_information_types_and_handling.md)のデータ種類に関する規則に取って代わること。本原則はそれらの規則に基づいて適用されます。
+- [CS-2 — 情報の種類と取扱い](../../corpus_systems/cs_06.305_information_types_and_handling.md)のデータ種類に関する規則に取って代わること。本原則はそれらの規則に基づいて適用されます。
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 定義の層と必須の規律
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [分類に応じたガバナンス](core_05_band_oversight.md#分類に応じた統治) · [O](core_05_band_oversight.md#分類に応じた統治) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 
 </details>
@@ -935,7 +943,7 @@ flowchart TB
     style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
-*定義は第1章の原則と第6章の権利に精度を与え、第2章から第4章はそれらの定義の構造、完全性、検証を規律します。いずれの層も第1章と競合しません。精度と検証可能性は原則に資するものであり、原則に取って代わるものではありません。[概念の概要](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions)から再掲。*
+*定義は第1章の原則と第6章の権利に精度を与え、第2章から第4章はそれらの定義の構造、完全性、検証を規律します。いずれの層も第1章と競合しません。精度と検証可能性は原則に資するものであり、原則に取って代わるものではありません。[概念の概要](../../guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions)から再掲。*
 
 第1章の解釈は、**第2章から第5章**で定められた定義および評価上の制約から外れて有効となることはありません。すべての適用において、次の事項も維持し、適用しなければなりません。
 - **比例性**、**必要性**、および**システム全体の評価**
@@ -950,10 +958,10 @@ flowchart TB
 
 - [抽象的な厳格さ](core_05_band_integrative.md#抽象的な厳格さabstract-strictness) · [O](core_05_band_integrative.md#抽象的な厳格さabstract-strictness) · [M](core_05_band_integrative.md#abstract-strictness-a) · [A](core_05_band_integrative.md#abstract-strictness-a) · [C](core_05_band_integrative.md#abstract-strictness-c)
 - [最大限の保護効果](core_05_band_integrative.md#最大の保護効果fullest-protective-effect) · [O](core_05_band_integrative.md#最大の保護効果fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
-- [ウェルビーイング](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [不可逆的な害](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [ウェルビーイング](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [不可逆的な害](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 - [真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [実質的な主体性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [実質的な主体性](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -988,7 +996,7 @@ flowchart TB
   - 拘束力のある憲法上の根拠資料（統合された `core_*` 文書）の内部、および
   - 組み込みの階層。ここでは、組み込まれる文書は[最大限の保護効果](core_05_band_integrative.md#最大の保護効果fullest-protective-effect)に従って選ばれる。
 - 根拠資料の階層上の位置付けは、第5章の[権限の階層と内部階層](core_05_band_integrative.md#権限スタックと内部階層)に基づいて特定する。
-- [第17章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)は、保管、版の固定、および採択の枠組みを定める。この手順を再掲するものでは**ない**。
+- [第17章](../../core_18.000_incorporation.md)は、保管、版の固定、および採択の枠組みを定める。この手順を再掲するものでは**ない**。
 - **運用上の憲法上の衝突**については — 文書階層の優先順位ではなく — **[§13 憲法上の衝突解決プロセス](#13-憲法上の衝突解決プロセス)**を適用する。
 
 **実施順序。** 次の事項を**この順に**適用する。
@@ -1019,7 +1027,7 @@ flowchart TB
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 取込みレイヤー
 
-**§15.4.1**（*統合的な解釈*）および**§15.4.2**（*最終手段としての内部階層*）に基づく憲法上の解釈の後、採択された実施文書における**指定義務**、すなわち採択によって実際に発効した、名称のある実施上の義務を適用する。これらの義務は、**[第17章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**に基づく**有効な採択および取込みの範囲**内でのみ適用する（記録の保管者、固定された版、および採択の枠組み）。
+**§15.4.1**（*統合的な解釈*）および**§15.4.2**（*最終手段としての内部階層*）に基づく憲法上の解釈の後、採択された実施文書における**指定義務**、すなわち採択によって実際に発効した、名称のある実施上の義務を適用する。これらの義務は、**[第17章](../../core_18.000_incorporation.md)**に基づく**有効な採択および取込みの範囲**内でのみ適用する（記録の保管者、固定された版、および採択の枠組み）。
 
 以下のルールは、[最も十分な保護効果](core_05_band_integrative.md#最大の保護効果fullest-protective-effect)に従う。これは**[§15.3 曖昧さの解消](#153-曖昧さの解消)**の**曖昧さ**ルールが用いるものと同じ基準であるに従って、取り込まれた文書の間で選択する。[抽象的な厳格さ](core_05_band_integrative.md#抽象的な厳格さabstract-strictness)によって選択することはない。
 
@@ -1033,7 +1041,7 @@ flowchart TB
   - これは、[抽象的な厳格さ](core_05_band_integrative.md#抽象的な厳格さabstract-strictness)による実質的な憲法上の曖昧さの解消では**ない**。
 - **ファイル間の最も十分な保護効果：**採択済み実施ファイルが2つ以上あり、同じ意味のある範囲のリスクについて異なる基準を定めている場合、上記の2つのルールと整合する、[最も十分な保護効果](core_05_band_integrative.md#最大の保護効果fullest-protective-effect)を持つ明確な採択ルールが優先する。
   - 規範源レイヤーの位置づけは、引き続き[権限スタックと内部階層](core_05_band_integrative.md#権限スタックと内部階層)に従う。
-  - 保管、版、および採択の枠組みは、引き続き**[第17章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**に従う。
+  - 保管、版、および採択の枠組みは、引き続き**[第17章](../../core_18.000_incorporation.md)**に従う。
   - 引用されたプロファイルと引用された実施ラベルが、そのリスクについて矛盾しているように見える場合にも、同じルールが適用される。
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1050,10 +1058,10 @@ flowchart TB
 *平易に言えば、一つの状況が複数の取込み済み実施ガイド文書に関わる場合、または採択文書によってそれらの共同構造上の義務が発効する場合、一つの文書を適切に実行しても、同じ事実に関する別の重要な義務が未達なら、遵守したことにはならない。*
 
 本小節の併合的充足ルールは、同じ事実に**複数の実施ガイド文書**が適用されることに関するものである。次のルールとは異なる。
-- 取込み済みの共同構造文書における**単一の**運用クラスターについて、その一部だけを実施しても遵守にならないというルール——**[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**（*運用クラスター*）を参照；または
+- 取込み済みの共同構造文書における**単一の**運用クラスターについて、その一部だけを実施しても遵守にならないというルール——**[CJS-1.14](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)**（*運用クラスター*）を参照；または
 - **依存クラスター**の定義を同時に満たさなければならないという第5章のルール——**[第5章 §2.1 共同の援用と充足](core_05__definitions_home.md#21-共同呼び出しと充足)**を参照。
 
-**本小節が適用される場合。**次のいずれかの場合に、**[第17章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**に基づく有効な採択および取込みの範囲内で、これらのルールが適用される。
+**本小節が適用される場合。**次のいずれかの場合に、**[第17章](../../core_18.000_incorporation.md)**に基づく有効な採択および取込みの範囲内で、これらのルールが適用される。
 
 1. **一つの状況に複数のファイル：**事実により、複数の取込み済み実施ファイルの適用が必要となる場合。たとえば、システム、機関、フォーラムまたは共同構造の文書が該当する。どのファイルが適用されるかは、採択範囲と、それらのファイルが事実について示すトピック・ルーティングによって決まり、最も容易に満たせるファイルだけを選ぶことでは決まらない。
 2. **採択により共同構造一式が発効する場合：**採択文書が、指定された共同構造の実施文書（**CJS**フォルダーおよび採択の連鎖に記載されたその他の共同構造ファイル）を採択者に適用する。
@@ -1067,7 +1075,7 @@ flowchart TB
   - 次に**CI**（機関ガバナンスおよび保証）；
   - 次に**CF**（第12章のフォーラム・ファミリーの法理）。
 - この順序の中で、事実に関するトピック・ルーティングが求めるものだけを読む。
-- 編集者および監査者は、権威ある行テーブルとして**[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)（*ファイル間ルーティング*）**を用いる。
+- 編集者および監査者は、権威ある行テーブルとして**[CJS-0.1](../../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing)（*ファイル間ルーティング*）**を用いる。
 - 併合的充足およびファイル間の最も十分な保護効果のルールは、本小節および**§15.4.3**（*取込みレイヤー*）に定めるとおり引き続き適用される。
 
 緊急時にこれらの義務を縮減できるのは、その縮減が次の条件を満たす場合に限られる。

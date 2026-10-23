@@ -8,8 +8,8 @@
 >
 > - **Chủ thể phụ trách theo Hiến pháp:** chuẩn nền về các vị trí riêng biệt đối với hành vi có hiệu lực ràng buộc trọng yếu; nội dung tối thiểu áp dụng cho mọi [Hồ sơ Hành vi Ràng buộc Trọng yếu](../../core_05_band_accountability.md#materially-binding-act-record); sự độc lập với chủ thể hành động và [Tuyến Kiểm soát Trọng yếu](../../core_05_band_accountability.md#material-control-line) của chủ thể đó; việc công bố phân công làn và vai trò; định tuyến xung đột, vị trí khuyết, thay thế và phân công sai vị trí; việc bố trí chung theo tỷ lệ; bàn giao có thể quy trách nhiệm; và các điều kiện độc lập tối thiểu mà mọi quy trình hiến pháp về sau phải áp dụng.
 > - **Nguồn ở tầng nguyên tắc:** [Chương Một §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) yêu cầu quản trị duy trì tính độc lập chức năng và định tuyến kiến trúc vị trí vận hành đến đây.
-> - **Chủ thể triển khai:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) và [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) phân công và vận hành các vị trí. Các văn bản đó có thể đặt chuẩn nghiêm ngặt hơn và bổ sung các loại vị trí thẩm quyền đặc biệt có giới hạn; chúng không được thu hẹp chương này.
-> - **Việc áp dụng riêng cho từng quy trình vẫn thuộc các chương sau:** Chương Tám áp dụng chuẩn nền này cho chứng nhận sự phù hợp của hệ thống; [Chương Chín §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) áp dụng cho hồ sơ tư cách; Chương Mười Hai và [corpus_forum.md](../../corpus_forum.md) áp dụng cho quy trình diễn đàn. Các chương đó có thể bổ sung biện pháp bảo vệ cần thiết theo lĩnh vực của mình; chúng không được tạo ra một phương án thay thế yếu hơn.
+> - **Chủ thể triển khai:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) và [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) phân công và vận hành các vị trí. Các văn bản đó có thể đặt chuẩn nghiêm ngặt hơn và bổ sung các loại vị trí thẩm quyền đặc biệt có giới hạn; chúng không được thu hẹp chương này.
+> - **Việc áp dụng riêng cho từng quy trình vẫn thuộc các chương sau:** Chương Tám áp dụng chuẩn nền này cho chứng nhận sự phù hợp của hệ thống; [Chương Chín §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) áp dụng cho hồ sơ tư cách; Chương Mười Hai và [corpus_forum.md](../../corpus_forum.md) áp dụng cho quy trình diễn đàn. Các chương đó có thể bổ sung biện pháp bảo vệ cần thiết theo lĩnh vực của mình; chúng không được tạo ra một phương án thay thế yếu hơn.
 >
 > Thứ tự đọc: §1 mục đích và phạm vi → §2 chuẩn nền bốn vị trí → §3 tính độc lập và xung đột → §4 định tuyến sai vị trí → §5 phân công được công bố và người thay thế → §6 điều chỉnh theo tỷ lệ → §7 tình huống khẩn cấp → §8 Hồ sơ Hành vi và bàn giao có thể quy trách nhiệm → §9 áp dụng ở các quy trình sau.
 
@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [Tứ trụ Hiến pháp](../../core_00_preamble.md#constitutional-tetrad) — đặc biệt là **giám sát** và **trách nhiệm giải trình**; [lợi ích trọng yếu](../../core_00_preamble.md#material-stake); [Chuẩn mực Quản trị Chung §17.1 Chương Một](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [Quản trị dưới Kỷ luật Quản trị §18 Chương Một](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Điều XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Kiểm toán, Minh bạch và Xác minh Độc lập*).
-- Các mục: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
+- Các mục: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
 - Hạ nguồn: [Chương Tám](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Chương Chín](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chương Mười Hai](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Chương Mười Ba](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); các văn bản triển khai được chỉ định ở trên.
 - Đọc cùng: [Phát hiện Sai lệch §19.3 Chương Một](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*phát hiện và rà soát nhiều bên*); [Hành động Có thể Quy trách nhiệm](../../core_05_band_accountability.md#attributable-action); [Tính Toàn vẹn của Quy trách nhiệm](../../core_05_band_accountability.md#attribution-integrity); [Khả năng Kiểm toán](../../core_05_band_oversight.md#auditability); [Khả năng Khiếu nại](../../core_05_band_accountability.md#contestability); [Tính Tương xứng](../../core_05_band_accountability.md#proportionality).
 
@@ -36,7 +36,7 @@ Chương Bảy là chủ thể phụ trách theo Hiến pháp về **chuẩn n�
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: tuyên bố về chủ thể phụ trách ở phần mở đầu chương; [Chương Một §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Giám sát](../../core_05_apex_oversight_leg.md#oversight-constitutional); [Trách nhiệm giải trình](../../core_05_apex_accountability_leg.md#accountability).
-- Hạ nguồn: từ [§2](#2-four-seat-constitutional-floor) đến [§9](#9-relationship-to-later-processes); mọi quy trình về sau tạo ra hoặc thay đổi hành vi có hiệu lực ràng buộc trọng yếu.
+- Hạ nguồn: từ [§2](#2-four-seat-constitutional-requirement) đến [§9](#9-relationship-to-later-processes); mọi quy trình về sau tạo ra hoặc thay đổi hành vi có hiệu lực ràng buộc trọng yếu.
 - Đọc cùng: [Chương Bốn](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) về nền tảng xác minh; [Điều XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Chuẩn nền Độ tin cậy và Tính đáng tin*) và [Điều XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Quyền được Khắc phục và Biện pháp khắc phục*) về khiếu nại và khắc phục; [Điều XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Kiểm toán, Minh bạch và Xác minh Độc lập*) về các Tầng quyền Xác minh độc lập.
 
 </details>
@@ -65,14 +65,14 @@ Chương này quy định chuẩn nền phân tách nhiệm vụ xuyên quy trì
 - nội dung hồ sơ riêng của quy trình khỏi các Chương Tám đến Mười Hai; hoặc
 - danh mục vị trí vận hành, phương pháp bố trí nhân sự và cơ chế bản đồ làn khỏi văn bản triển khai được chỉ định.
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. Chuẩn nền Hiến pháp bốn vị trí
 
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§1](#1-purpose-scope-and-owner-boundary); [Chương Một §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties); [Chương Một §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- Hạ nguồn: từ [§3](#3-independence-conflict-and-control-lines) đến [§9](#9-relationship-to-later-processes); [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Danh mục vị trí — kiểu vai trò quy trình và ranh giới vận hành*).
+- Hạ nguồn: từ [§3](#3-independence-conflict-and-control-lines) đến [§9](#9-relationship-to-later-processes); [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Danh mục vị trí — kiểu vai trò quy trình và ranh giới vận hành*).
 - Đọc cùng: [§6](#6-proportional-scaling-and-merged-hosting) về lộ trình duy nhất cho phép bố trí chung.
 
 </details>
@@ -163,9 +163,9 @@ Chuẩn nền chức năng bốn vị trí áp dụng ở mọi loại lớp. C�
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§2](#2-four-seat-constitutional-floor); [Trách nhiệm giải trình theo thẩm quyền §18.1](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Điều XXIV](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Biện pháp bảo vệ về Giải thích Hiến pháp, Rà soát và Chống chi phối*).
+- Thượng nguồn: [§2](#2-four-seat-constitutional-requirement); [Trách nhiệm giải trình theo thẩm quyền §18.1](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Điều XXIV](core_06_rights_part_d.md) (*Biện pháp bảo vệ về Giải thích Hiến pháp, Rà soát và Chống chi phối*).
 - Hạ nguồn: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); vai trò bộ phận chứng nhận ở Chương Tám; quyền lưu giữ hồ sơ ở Chương Chín; chống tự xét xử ở diễn đàn Chương Mười Hai.
-- Đọc cùng: [Tuyến Kiểm soát Trọng yếu](../../core_05_band_accountability.md#material-control-line); [CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Tính toàn vẹn về xung đột, chống chi phối và chống tham nhũng*) và [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*Biện pháp bảo vệ tính toàn vẹn, hoạt động chống chi phối và hỗ trợ chống tự xét xử*) về biện pháp vận hành xử lý xung đột và chống tự xét xử.
+- Đọc cùng: [Tuyến Kiểm soát Trọng yếu](../../core_05_band_accountability.md#material-control-line); [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Tính toàn vẹn về xung đột, chống chi phối và chống tham nhũng*) và [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Biện pháp bảo vệ tính toàn vẹn, hoạt động chống chi phối và hỗ trợ chống tự xét xử*) về biện pháp vận hành xử lý xung đột và chống tự xét xử.
 
 </details>
 
@@ -190,8 +190,8 @@ Chữ ký thứ hai, ủy ban trên danh nghĩa, nhãn nội bộ hoặc xác nh
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines).
-- Hạ nguồn: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [quy tắc vị trí dùng chung CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- Thượng nguồn: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
+- Hạ nguồn: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [quy tắc vị trí dùng chung CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - Đọc cùng: [Nghĩa vụ Kháng cự §17.5 Chương Một](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 </details>
@@ -216,9 +216,9 @@ Cách ứng xử đó là thực hiện nghĩa vụ, không phải bỏ mặc h�
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [Minh bạch](../../core_05_band_oversight.md#transparency); [Khả năng Kiểm toán](../../core_05_band_oversight.md#auditability).
-- Hạ nguồn: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Làn phân tách chức năng*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*Vai trò được cho phép và chuỗi trách nhiệm giải trình*); hồ sơ Chương Tám và Chương Chín.
-- Đọc cùng: [Hiến chương](../../core_05_band_continuity.md#charter) và [Chương Mười Ba §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- Thượng nguồn: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [Minh bạch](../../core_05_band_oversight.md#transparency); [Khả năng Kiểm toán](../../core_05_band_oversight.md#auditability).
+- Hạ nguồn: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Làn phân tách chức năng*); [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*Vai trò được cho phép và chuỗi trách nhiệm giải trình*); hồ sơ Chương Tám và Chương Chín.
+- Đọc cùng: [Hiến chương](../../core_05.040_band_continuity.md) và [Chương Mười Ba §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -244,8 +244,8 @@ Việc ủy quyền duy trì cùng ranh giới vị trí, nghĩa vụ chứng c�
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§2](#2-four-seat-constitutional-floor); [lợi ích trọng yếu](../../core_00_preamble.md#material-stake); [Tính Cần thiết](../../core_05_band_accountability.md#necessity); [Tính Tương xứng](../../core_05_band_accountability.md#proportionality).
-- Hạ nguồn: [Chương Chín §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Bố trí nhân sự theo làn và dự phòng năng lực theo loại lớp*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Làn phân tách chức năng*).
+- Thượng nguồn: [§2](#2-four-seat-constitutional-requirement); [lợi ích trọng yếu](../../core_00_preamble.md#material-stake); [Tính Cần thiết](../../core_05_band_accountability.md#necessity); [Tính Tương xứng](../../core_05_band_accountability.md#proportionality).
+- Hạ nguồn: [Chương Chín §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Bố trí nhân sự theo làn và dự phòng năng lực theo loại lớp*); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Làn phân tách chức năng*).
 - Đọc cùng: [Gánh nặng Có thể Tránh](../../core_05_band_continuity.md#avoidable-burden) và [Quy trình Chống Hạ thấp Nhân phẩm §3.3 Chương Một](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -267,7 +267,7 @@ Bên tiếp nhận nhỏ hoặc phi chính thức chỉ có thể bố trí hai 
 
 Công việc phi chính thức, không trả công, tương trợ, chăm sóc, sửa chữa, giảng dạy, hợp tác và quản trị cộng đồng có thể sử dụng một cơ quan tiếp nhận tín nhiệm không có lợi ích, được công bố thẩm quyền thực hiện khâu kiểm tra liên quan. Hiến pháp không đòi hỏi hình thức thể chế mà phạm vi không thể đạt tới một cách hợp lý nếu đã có lộ trình thực sự không có lợi ích và có trách nhiệm giải trình.
 
-Thiếu nhân sự, tốc độ, sự tiện lợi hoặc việc tập trung chuyên môn tự chúng không biện minh cho việc gộp vị trí. Lộ trình theo loại lớp tại [§2 Chuẩn nền Hiến pháp Bốn Vị trí](#2-four-seat-constitutional-floor) được áp dụng: không có ngoại lệ nào cho Lớp A, và mọi ngoại lệ đối với Lớp B hoặc C phải đáp ứng các yêu cầu trên. Lợi ích trọng yếu càng lớn thì giả định về chức vụ riêng biệt, dự phòng năng lực và người thay thế độc lập càng mạnh.
+Thiếu nhân sự, tốc độ, sự tiện lợi hoặc việc tập trung chuyên môn tự chúng không biện minh cho việc gộp vị trí. Lộ trình theo loại lớp tại [§2 Chuẩn nền Hiến pháp Bốn Vị trí](#2-four-seat-constitutional-requirement) được áp dụng: không có ngoại lệ nào cho Lớp A, và mọi ngoại lệ đối với Lớp B hoặc C phải đáp ứng các yêu cầu trên. Lợi ích trọng yếu càng lớn thì giả định về chức vụ riêng biệt, dự phòng năng lực và người thay thế độc lập càng mạnh.
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. Hành động khẩn cấp và cấp bách
@@ -275,9 +275,9 @@ Thiếu nhân sự, tốc độ, sự tiện lợi hoặc việc tập trung chu
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [Biện pháp khẩn cấp và gánh nặng tiếp tục §6.1 Chương Mười Hai](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [tư thế tạm thời mặc định](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- Thượng nguồn: [§2](#2-four-seat-constitutional-requirement); [§6](#6-proportional-scaling-and-merged-hosting); [Biện pháp khẩn cấp và gánh nặng tiếp tục §6.1 Chương Mười Hai](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [tư thế tạm thời mặc định](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - Hạ nguồn: quy trình xử lý sự cố, ngăn chặn, phát hành, tiếp tục và rà soát sau sự kiện trong văn bản triển khai được chỉ định.
-- Đọc cùng: [Tính Kịp thời](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Bảo toàn Chứng cứ](../../core_05_band_oversight.md#evidence-preservation) và [CI-4.6 Danh mục vị trí — kiểu vai trò quy trình và ranh giới vận hành](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- Đọc cùng: [Tính Kịp thời](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Bảo toàn Chứng cứ](../../core_05_band_oversight.md#evidence-preservation) và [CI-4.6 Danh mục vị trí — kiểu vai trò quy trình và ranh giới vận hành](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -314,8 +314,8 @@ Tự thân những điều sau đây không phải là tình huống khẩn cấ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: từ [§2](#2-four-seat-constitutional-floor) đến [§7](#7-emergency-and-urgent-action); [Hồ sơ Hành vi Ràng buộc Trọng yếu](../../core_05_band_accountability.md#materially-binding-act-record); [Hành động Có thể Quy trách nhiệm](../../core_05_band_accountability.md#attributable-action); [Tính Toàn vẹn của Quy trách nhiệm](../../core_05_band_accountability.md#attribution-integrity).
-- Hạ nguồn: [hành động có thể quy trách nhiệm và kiểm tra được CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [quy tắc vị trí dùng chung CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); mọi hồ sơ quy trình chịu sự điều chỉnh của §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*mẫu cơ sở có thể kiểm tra bằng máy; hỗ trợ quy trình, không phải định nghĩa thứ hai*).
+- Thượng nguồn: từ [§2](#2-four-seat-constitutional-requirement) đến [§7](#7-emergency-and-urgent-action); [Hồ sơ Hành vi Ràng buộc Trọng yếu](../../core_05_band_accountability.md#materially-binding-act-record); [Hành động Có thể Quy trách nhiệm](../../core_05_band_accountability.md#attributable-action); [Tính Toàn vẹn của Quy trách nhiệm](../../core_05_band_accountability.md#attribution-integrity).
+- Hạ nguồn: [hành động có thể quy trách nhiệm và kiểm tra được CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [quy tắc vị trí dùng chung CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); mọi hồ sơ quy trình chịu sự điều chỉnh của §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*mẫu cơ sở có thể kiểm tra bằng máy; hỗ trợ quy trình, không phải định nghĩa thứ hai*).
 - Đọc cùng: [§4 Định tuyến Sai Vị trí](#4-wrong-seat-routing) và [Chương Bốn §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>

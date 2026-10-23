@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Bússola do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); fim em linguagem simples no [Preâmbulo §1](core_00_preamble.md#continuity).
-- Destino: Princípios: [Capítulo Um §4.1 Resiliência e desenho de autorreparo](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Capacidade de sistemas compartilhados](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Decomposição do Fim constitucional](#continuity-aim-decomposition); grupos de temas de Continuidade em [core_05_band_continuity.md](../../core_05.040_band_continuity.md).
+- Destino: Princípios: [Capítulo Um §4.1 Resiliência e desenho de autorreparo](core_01_a_values_principles.md#10-resilience-and-self-healing-design); [§12 Capacidade de sistemas compartilhados](core_01_c_stewardship_capacity_principles.md); [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Decomposição do Fim constitucional](#continuity-aim-decomposition); grupos de temas de Continuidade em [core_05_band_continuity.md](../../core_05.040_band_continuity.md).
 - Ler com: [Administração responsável](../../core_05.040_band_continuity.md#stewardship), [Defeito de administração responsável](../../core_05.040_band_continuity.md#stewardship-defect), [Integridade ecológica](../../core_05.040_band_continuity.md#ecological-integrity), [Dependência](../../core_05.040_band_continuity.md#dependency), [Divergência de indicadores substitutos](../../core_05.050_band_oversight.md#proxy-divergence), [Risco existencial](../../core_05.040_band_continuity.md#existential-risk), [Falha em cascata](../../core_05.040_band_continuity.md#cascading-failure), [Florescimento](core_05_apex_flourishing_aim.md#flourishing-constitutional) (o fim emparelhado — nenhum pode ser perseguido à custa do outro; perseguir ganhos de curto prazo que esvaziem a **participação**, a **supervisão**, a **prestação de contas** ou a **atuação em tempo** abaixo do que exige a [aposta material](core_00_preamble.md#material-stake) incumpre a **Continuidade**, embora subam os resultados de curto prazo), [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) escalada à [aposta material](core_00_preamble.md#material-stake) (como a Continuidade continua legítima — não um quinto bloco de construção), família de medição de Continuidade, e [diretório alfabético do Capítulo Cinco](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
@@ -46,14 +46,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **Como medir e avaliar**
   - **Medida primária:** [Família de medição Continuidade](#continuity-measurement-family) — *Podem sencientes e sistemas durar — de forma ecológica, confiável e através da falha?* Veja também a [Decomposição do Fim constitucional](#continuity-aim-decomposition). Esta linha só aponta às medidas; as regras de como medir estão em cada definição ligada.
-  - **Avaliação primária:** Julgue sob a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad), escalada à [aposta material](core_00_preamble.md#material-stake). Pergunte se os sistemas conservam capacidade duradoura para reparar, adaptar-se, enfrentar o risco com honestidade e permanecer dentro de limites ecológicos — não se os números de hoje se veem calmos. Ate os resultados de continuidade pretendidos às condições [constituintes](#continuity-aim-decomposition), sob o Capítulo Quatro e o [Capítulo Um §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - **Avaliação primária:** Julgue sob a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad), escalada à [aposta material](core_00_preamble.md#material-stake). Pergunte se os sistemas conservam capacidade duradoura para reparar, adaptar-se, enfrentar o risco com honestidade e permanecer dentro de limites ecológicos — não se os números de hoje se veem calmos. Ate os resultados de continuidade pretendidos às condições [constituintes](#continuity-aim-decomposition), sob o Capítulo Quatro e o [Capítulo Um §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="continuity-aim-constitutional-c"></a>
 - **O que deve sustentar-se**
   - **Falha primária:**
     - usar a **Continuidade** para adiar as correções para sempre;
     - tratar a «estabilidade» como conformidade quando descansa em despejo oculto de risco, dano irreversível ou deslocar cargas ecológicas sobre outros;
     - usar a fala ordinária de «manter as luzes acesas» para bloquear a [Impugnabilidade](../../core_05.035_band_accountability.md#contestability) ou a [Resolução oportuna](../../core_05.035_band_accountability.md#timely-resolution); ou
-    - perseguir a **Continuidade** de um modo que derrote de forma material o [Florescimento](core_05_apex_flourishing_aim.md#flourishing-constitutional) sem permissão clara sob o [Capítulo Um §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+    - perseguir a **Continuidade** de um modo que derrote de forma material o [Florescimento](core_05_apex_flourishing_aim.md#flourishing-constitutional) sem permissão clara sob o [Capítulo Um §6](core_01_b_interaction_interpretation.md).
 
 ---
 
@@ -106,7 +106,7 @@ As definições sob este fim herdam o seu âmbito a menos que o estreitem ou o a
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: família de medição Continuidade — rollup só-enlace; os níveis por termo vivem nas definições-folha ligadas na tabela abaixo.
-- Ler com: [CS-9 — Administração responsável da alocação de recursos e do financiamento](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (mecânica de financiamento e de retorno transistêmico).
+- Ler com: [CS-9 — Administração responsável da alocação de recursos e do financiamento](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (mecânica de financiamento e de retorno transistêmico).
 
 </details>
 

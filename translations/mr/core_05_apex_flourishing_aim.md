@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); तत्त्व-स्तराची टीप [प्रस्तावना §1](core_00_preamble.md#flourishing) वर.
-- पुढे: तत्त्वे: [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 अहस्तांतरणीय तत्त्व-बंधन: सुरक्षा आणि सत्य](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 संवैधानिक निकाल-दावा शिस्त](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [संवैधानिक उद्दिष्ट विघटन](#flourishing-aim-decomposition); [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश) नुसार **समुन्नती** प्राथमिक उद्दिष्ट असलेल्या चतुष्क पट्टी फाइल.
+- पुढे: तत्त्वे: [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md); [§3 अहस्तांतरणीय तत्त्व-बंधन: सुरक्षा आणि सत्य](core_01_a_values_principles.md); [§4 विश्वास](core_01_a_values_principles.md); [§11.1.5 संवैधानिक निकाल-दावा शिस्त](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [संवैधानिक उद्दिष्ट विघटन](#flourishing-aim-decomposition); [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश) नुसार **समुन्नती** प्राथमिक उद्दिष्ट असलेल्या चतुष्क पट्टी फाइल.
 - सोबत वाचा: [कल्याण](../../core_05.040_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [सत्य (संवैधानिक बंधन)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [विश्वासार्हता](../../core_05.040_band_continuity.md#trustworthiness), [अर्थपूर्ण कर्तृत्व](../../core_05.055_band_participation.md#meaningful-agency), [प्रतिनिधी-सूचक विचलन](../../core_05.050_band_oversight.md#proxy-divergence), [प्रणाली ताबा](../../core_05.040_band_continuity.md#system-capture), [सातत्य (संवैधानिक उद्दिष्ट)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (जोडीचे उद्दिष्ट — कोणतेही दुसऱ्याच्या किंमतीने साधता येत नाही), [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित (या उद्दिष्टाची वैधता चौकट — पाचवा घटक नाही), आणि समुन्नती मापन कुटुंब.
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली, [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित करून ठरवा.
-  - दावा केलेले समुन्नती निकाल [घटक](#flourishing-aim-decomposition) अटींना आणि संज्ञ प्राणी खरे अनुभवतात त्या निकालांना बांधा, अध्याय चार आणि [अध्याय एक §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) खाली.
+  - दावा केलेले समुन्नती निकाल [घटक](#flourishing-aim-decomposition) अटींना आणि संज्ञ प्राणी खरे अनुभवतात त्या निकालांना बांधा, अध्याय चार आणि [अध्याय एक §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) खाली.
   - नेहमी [सातत्य (संवैधानिक उद्दिष्ट)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) सोबत वाचा: दीर्घकालीन स्थैर्य, लवचिकता, किंवा पारिस्थितिक अखंडता पूर्वदृश्याने कमकुवत करणारे अल्पकालीन लाभ, दोन उद्दिष्टे एकत्र ठरवली जातात तेव्हा **समुन्नती** अपयशी ठरतात.
 <a id="flourishing-constitutional-c"></a>
 - C: अनुपालन-भंग जेव्हा:
   - एक बांधकाम घटक अधिकतम केला जातो आणि सत्य, सुरक्षा, विश्वासार्हता, किंवा कर्तृत्व पोकळ होते;
   - समुन्नती दावे अध्याय चारखाली संवैधानिक निकालांपर्यंत माग काढता येत नाहीत; किंवा
-  - **समुन्नती** [अध्याय एक §6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) खाली स्पष्ट परवानगीशिवाय [सातत्य (संवैधानिक उद्दिष्ट)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) ला भौतिक रीतीने पराभूत करणाऱ्या रीतीने साधली जाते.
+  - **समुन्नती** [अध्याय एक §6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md) खाली स्पष्ट परवानगीशिवाय [सातत्य (संवैधानिक उद्दिष्ट)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) ला भौतिक रीतीने पराभूत करणाऱ्या रीतीने साधली जाते.
 
 ---
 

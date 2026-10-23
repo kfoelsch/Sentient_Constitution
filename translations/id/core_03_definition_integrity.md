@@ -216,7 +216,7 @@ Di mana ketidakpastian mencegah demonstrasi kepatuhan yang definitif bagi kompon
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-persyaratan-integritas-definisi).
-- Hilir: [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](core_04_burden_traceability_verification.md#2-persyaratan-ketelusuran-definisi); [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Bab Sebelas — Akibat Jejak dan Integrasi](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Kompas konstitusional dan peta klaster](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- Hilir: [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](core_04_burden_traceability_verification.md#2-persyaratan-ketelusuran-definisi); [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Bab Sebelas — Akibat Jejak dan Integrasi](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Kompas konstitusional dan peta klaster](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Baca bersama: [Profil Temuan Ketidakpatuhan](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — rumah O/M/A/C kanonik bagi ruas profil; [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@ Jejak suatu lembaga terdampak ketika lembaga itu adalah subjek yang dinilai, ata
 <a id="34-operational-constraints"></a>
 #### 3.4 Batasan Operasional
 
-Ketidakpatuhan juga boleh ditemukan terhadap batasan operasional di korpus implementasi bersama. Profil temuan bawaan dan cara mereka menempel pada temuan itu ditangani di sana — bukan di bab ini. Lihat [CJS-3.1 Kompas konstitusional dan peta klaster](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+Ketidakpatuhan juga boleh ditemukan terhadap batasan operasional di korpus implementasi bersama. Profil temuan bawaan dan cara mereka menempel pada temuan itu ditangani di sana — bukan di bab ini. Lihat [CJS-3.1 Kompas konstitusional dan peta klaster](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

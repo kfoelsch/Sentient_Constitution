@@ -2,6 +2,8 @@
 <a id="chapter-ten-anti-constitutional-misconduct"></a>
 <a id="chapter-ten-part-a-anti-constitutional-misconduct-designation"></a>
 <a id="chapter-ten-part-a-anti-constitutional-misconduct--designation"></a>
+<a id="chapter-twelve-part-a-anti-constitutional-misconduct--designation"></a>
+
 # باب دہم، حصہ الف: آئین مخالف بدسلوکی — نامزدگی
 
 <details>
@@ -9,7 +11,7 @@
 
 > یہ فائل [انگریزی باب دہم، حصہ الف](../../core_12_a_misconduct_designation.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_10_a_misconduct_designation.md`](../../core_12_a_misconduct_designation.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
-> اس میں **باب دہم، حصہ الف** ہے — نامزدگی فیصلے کا ڈھانچہ، معیار مجموعہ، خلاف ورزی محور `s = 7–9` نامزدگی منسلکہ، واجب العمل کارروائی کی ضمانتیں، تدارک، روک تھام تالے، اور رضاکارانہ عوامی جوابدہی اظہار۔ **حصہ ب** — نامزد نمونہ اطلاقات اور معیار رخ بندی — [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) میں ہے۔
+> اس میں **باب دہم، حصہ الف** ہے — نامزدگی فیصلے کا ڈھانچہ، معیار مجموعہ، خلاف ورزی محور `s = 7–9` نامزدگی منسلکہ، واجب العمل کارروائی کی ضمانتیں، تدارک، روک تھام تالے، اور رضاکارانہ عوامی جوابدہی اظہار۔ **حصہ ب** — نامزد نمونہ اطلاقات اور معیار رخ بندی — [`core_10_b_misconduct_pattern_applications.md`](../../core_12.010_misconduct_pattern_applications.md) میں ہے۔
 >
 > - **آئینی مالک (حصہ ب کے ساتھ مشترکہ):** خلاف ورزی محور `s = 7`، `s = 8`، یا `s = 9` دریافتوں کے لیے حتمی آئین مخالف-بدسلوکی نامزدگی۔ حصہ الف نامزدگی فیصلے کے ماڈل کا مالک ہے؛ حصہ ب نامزد نمونوں کو اس ماڈل میں رخ دیتا ہے بغیر معیار بڑھائے۔
 > - **پیمائش کی حد:** صرف باب ہشتم اپنے متحد متناسب LEQU پیمانے کے تحت عددی اثر خانہ تفویض کرتا ہے۔ یہ باب اس پیمائش کی **جگہ نہیں لیتا** نہ اسے بدلتا ہے۔
@@ -18,13 +20,13 @@
 > **s = 7، 8، یا 9** پر آئین مخالف بدسلوکی پیمانے پر **چوکڑی قبضہ** ہے — [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) کے تحت [استمرار مقصد](core_00_preamble.md#continuity) کے ساتھ پڑھو۔ تبدیلی-راستہ صحت تعامل [باب سیزدہم تا پانزدہم](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) میں جاری رہتے ہیں؛ انصاف پابندیاں [باب ششم حصہ د](core_06_rights_part_d.md) میں رہتی ہیں۔
 >
 > **بالائی:** باب ہشتم کیفیت پیمائش؛ باب نہم نامزدگی اشارہ۔
-> **زیریں:** [حصہ ب](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*نمونہ اطلاقات*)؛ حتمی نامزدگی کے بعد باب نہم اعتماد تالا اور کیفیت-اثر انضمام؛ باب یازدهم فورم رخ بندی؛ باب دوازدہم حکمرانی مشروعیت نتائج۔
+> **زیریں:** [حصہ ب](../../core_12.010_misconduct_pattern_applications.md) (*نمونہ اطلاقات*)؛ حتمی نامزدگی کے بعد باب نہم اعتماد تالا اور کیفیت-اثر انضمام؛ باب یازدهم فورم رخ بندی؛ باب دوازدہم حکمرانی مشروعیت نتائج۔
 
 
 >
 > **پچھلا (اس زبان میں):** [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
 >
-> **اگلا (اس زبان میں):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
+> **اگلا (اس زبان میں):** [core_10_b_misconduct_pattern_applications.md](../../core_12.010_misconduct_pattern_applications.md)
 > **پڑھنے کا قوس:** §1 فیصلہ ڈھانچہ → §2 معیار مجموعہ → §3 نامزدگی منسلکہ → §4 واجب العمل کارروائی → §4.1 تدارک/اصلاح → §4.2 روک تھام تالے → §4.3 رضاکارانہ اظہار
 </details>
 
@@ -68,7 +70,7 @@
 
 - بالائی: [باب ہشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*سوال 1 اور 2؛ تصدیق شدہ ریکارڈ اور کیفیت پیمائش*)۔
 - بالائی اشارہ: [باب نہم §2](core_09_standing_integration.md#2-integration-record-and-decision-order) اہل خلاف ورزی محور خانہ 7–9 دریافتیں یہاں صرف نامزدگی کے لیے رخ دیتا ہے۔
-- یہ فائل: خلاف ورزی محور `s` = 7–9 کے لیے حتمی آئین مخالف-بدسلوکی نامزدگی؛ نامزدگی معیار؛ واجب العمل کارروائی ضمانتیں؛ باب سیزدہم تا پانزدہم حد۔ نامزد-نمونہ رخ بندی [حصہ ب](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) میں جاری رہتی ہے۔
+- یہ فائل: خلاف ورزی محور `s` = 7–9 کے لیے حتمی آئین مخالف-بدسلوکی نامزدگی؛ نامزدگی معیار؛ واجب العمل کارروائی ضمانتیں؛ باب سیزدہم تا پانزدہم حد۔ نامزد-نمونہ رخ بندی [حصہ ب](../../core_12.010_misconduct_pattern_applications.md) میں جاری رہتی ہے۔
 - زیریں: [باب نہم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*حتمی نامزدگی کے بعد اعتماد تالا اور کیفیت-اثر انضمام*)؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*فورم رخ بندی اور سرٹیفیکیشن*)؛ [باب دوازدہم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*حکمرانی مشروعیت نتائج*)۔
 - ساتھ پڑھیں: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [باب سیزدہم تا پانزدہم](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) (*تبدیلی-راستہ رویہ معیار 1–4 جگا سکتا ہے*)۔
 
@@ -76,7 +78,7 @@
 
 <br>
 
-باب دہم، **حصہ الف**، **خلاف ورزی محور s = 7، 8، اور 9 دریافتوں کے لیے حتمی آئین مخالف-بدسلوکی نامزدگی، نامزدگی معیار، واجب العمل کارروائی ضمانتیں، اور باب سیزدہم تا پانزدہم نامزدگی حد** کا آئینی مالک ہے۔ نامزد نمونہ اطلاقات **[حصہ ب](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)** میں ہیں۔
+باب دہم، **حصہ الف**، **خلاف ورزی محور s = 7، 8، اور 9 دریافتوں کے لیے حتمی آئین مخالف-بدسلوکی نامزدگی، نامزدگی معیار، واجب العمل کارروائی ضمانتیں، اور باب سیزدہم تا پانزدہم نامزدگی حد** کا آئینی مالک ہے۔ نامزد نمونہ اطلاقات **[حصہ ب](../../core_12.010_misconduct_pattern_applications.md)** میں ہیں۔
 
 یہ باب صرف تب استعمال ہوتا ہے جب تصدیق شدہ خلاف ورزی پہلے ہی خلاف ورزی محور `s` = 7، 8، یا 9 پر ہو اور آئین مخالف بدسلوکی مادی طور پر الزام ہو۔ یہ صرف یہ فیصلہ کرتا ہے کہ مماثل نامزدگی لگتی ہے یا نہیں؛ یہ الگ اثر پیمانہ نہیں بناتا، دریافت کو خانوں کے درمیان نہیں ہلاتا، اور باب ہشتم پیمائش یا باب نہم کیفیت انضمام کی جگہ نہیں لیتا۔
 *سادہ الفاظ میں: [استمرار مقصد](core_00_preamble.md#continuity) کے تحت، یہ باب فیصلہ کرتا ہے کہ اعلیٰ ترین اثر خانے میں پہلے ہی ناپی گئی خلاف ورزی پیمانے پر **چوکڑی قبضہ** بھی بنتی ہے یا نہیں۔ یہ خانہ نہیں چنتا۔*
@@ -94,7 +96,7 @@
 - بالائی اشارہ: [باب نہم §2](core_09_standing_integration.md#2-integration-record-and-decision-order) اہل خلاف ورزی محور خانہ 7–9 دریافتیں یہاں صرف نامزدگی کے لیے رخ دیتا ہے۔
 - زیریں: [§2](#2-criteria-set-for-slot-assignment) (*نامزدگی معیار مجموعہ*)؛ [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*خلاف ورزی محور s = 7–9 نامزدگی*)۔
 - ضمانتیں اور ضبط: [§4](#4-due-process-safeguards-for-slot-assignment) (*واجب العمل کارروائی ضمانتیں، تدارک، اور روک تھام*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*تدارک اور اصلاح (آئین مخالف)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)۔
-- نمونہ اطلاقات: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*نامزد نمونے اسی نامزدگی معیار میں رخ پاتے ہیں*)۔
+- نمونہ اطلاقات: [§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*نامزد نمونے اسی نامزدگی معیار میں رخ پاتے ہیں*)۔
 - تبدیلی-راستہ حد: [§1](#1-cross-chapter-discipline) (*باب سیزدہم تا پانزدہم حد*)۔
 - ساتھ پڑھیں: [باب سیزدہم تا پانزدہم](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) جہاں **رجعتی دھوکا** اور تبدیلی-راستہ رویہ **معیار 1–4** جگا سکتا ہے۔
 - چوکڑی ٹانگ(یں): **شرکت**، **نگرانی**، **جوابدہی**، **بروقت کارروائی** (پیمانے پر چوکڑی قبضہ)۔ بنیادی مقصد: **استمرار** (بنیادی)، **شگفتگی**۔ ضمانتوں اور سنگینی پر [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ لاگو ہوتا ہے۔
@@ -143,16 +145,16 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§1](#1-decision-framework-scope-and-authority) (*نامزدگی فیصلے کیسے کام کرتے ہیں*)۔
-- ہنگامی اختیار: [باب یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) ہنگامی اور ضرورت ضبط؛ [دفعہ XXIV-D: ہنگامی تدابیر اور استمرار کا بوجھ](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) جہاں **معیار 5** اور **6** محدود ہنگامی اختیار کے خلاف پڑھے جائیں۔
+- ہنگامی اختیار: [باب یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) ہنگامی اور ضرورت ضبط؛ [دفعہ XXIV-D: ہنگامی تدابیر اور استمرار کا بوجھ](core_06_rights_part_d.md) جہاں **معیار 5** اور **6** محدود ہنگامی اختیار کے خلاف پڑھے جائیں۔
 - زیریں نامزدگی فیصلہ: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)۔
 - زیریں ضمانتیں اور ضبط: [§4](#4-due-process-safeguards-for-slot-assignment)۔
 - یہ قطعہ: نامزدگی معیار مجموعہ؛ متحد-واقعہ قاعدہ؛ تبدیلی یا ریکارڈ غلطیوں کے لیے علاج شدہ معیار 1–4 کا **نیک نیتی مسودہ استثنیٰ**۔
-- زیریں نمونہ اطلاقات اور معیار رخ بندی: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)، بشمول [§5.1](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)، [§5.2](core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)، [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)، [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)، [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)، [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)، [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)، [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)، [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)، [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)، اور [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)۔
+- زیریں نمونہ اطلاقات اور معیار رخ بندی: [§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)، بشمول [§5.1](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)، [§5.2](../../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)، [§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)، [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)، [§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)، [§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)، [§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)، [§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)، [§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)، [§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)، اور [§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)۔
 - ساتھ پڑھیں: **معیار 1–4** سے جڑی ریکارڈ، حراست، اور تصدیق توقعات کے لیے [باب دوم تا چہارم](core_02_definition_structure.md)؛ [§1](#1-cross-chapter-discipline) (*باب سیزدہم تا پانزدہم حد*)۔
 
 </details>
 
-<strong><span style="color: #2563eb;">تعریف:</span></strong> [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+<strong><span style="color: #2563eb;">تعریف:</span></strong> [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 *سادہ الفاظ میں: جائزہ لینے والے پہلے باب ہشتم اثر خانہ قبول کرتے ہیں، پھر جو ہوا اس کی ایک مربوط تصویر بناتے ہیں: ایک قسط، ایک مسلسل مہم، یا دوسرا متحد واقعہ۔ وہ چھ جانچ استعمال کرتے ہیں—ارادہ، ریکارڈ، واپسی اثر، حقیقی رکاوٹ، جبری قبضہ، اور تدارک کی عملی کالعدمیت—تاکہ فیصلہ کریں آئین مخالف نامزدگی لاگو ہوتی ہے یا نہیں۔ حقیقی مسودہ غلطی جو فوری ٹھیک ہو کچھ تبدیلی یا ریکارڈ مقدمات میں نامزدگی ہرا سکتی ہے، مگر حقیقی بغاوت راستے کو معاف نہیں کرتی۔ وہ نامزدگی کھیلنے کے لیے ایک اسکیم نہیں توڑ سکتے۔*
 
@@ -213,7 +215,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§2](#2-criteria-set-for-slot-assignment) (*معیار مجموعہ*)۔
-- معیار تعامل: [§5.1](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)؛ [§5.2](core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)؛ [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)؛ [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)؛ [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)؛ [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)؛ [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)؛ [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)؛ [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)؛ [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)؛ [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)۔
+- معیار تعامل: [§5.1](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)؛ [§5.2](../../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)؛ [§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)؛ [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)؛ [§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)؛ [§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)؛ [§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)؛ [§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)؛ [§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)؛ [§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)؛ [§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)۔
 - زیریں: [§4](#4-due-process-safeguards-for-slot-assignment) (*واجب العمل کارروائی ضمانتیں، تدارک، اور روک تھام*)، [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*تدارک اور اصلاح (آئین مخالف)*)، [§4.2](#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*)، اور [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)۔
 - زیریں فورم: [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) [§2](core_11_forum.md#2-default-venue-and-primary-stakes) وہاں سالمیت طے شدہ قیادت دیتا ہے جہاں حتمی بابِ دہم نامزدگی بنیادی داؤ ہو۔ [باب یازدهم §5](core_11_forum.md#5-escalation-and-certification) حتمی نامزدگی کے لیے فورم سرٹیفیکیشن اور آزاد جائزہ گھیرتا ہے۔
 - ساتھ پڑھیں: [باب ہشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) — باب ہشتم کا متحد متناسب LEQU پیمانہ ثابت اثر خانہ دیتا ہے، جبکہ یہ قطعہ صرف نامزدگی دیتا ہے؛ [§1](#1-cross-chapter-discipline) (*باب سیزدہم تا پانزدہم حد*)۔
@@ -269,10 +271,10 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*خلاف ورزی محور s = 7–9 نامزدگی*)؛ [§2](#2-criteria-set-for-slot-assignment) (*معیار مجموعہ*)، بشمول **نیک نیتی مسودہ استثنیٰ**۔
-- نمونہ اطلاقات: [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*زون بھر مار*)؛ [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*معلوماتی کرہ زون بھر مار*)؛ [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*رشوت اور ناجائز فائدہ تبادلہ*)؛ [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct) (*غیر قانونی یا غیر آئینی حکم رویہ*)؛ [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct) (*آئین مخالف رویے کا انعام، حفاظت، یا معمول بنانا*)؛ [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct) (*نفاذ انکار، دبانا، یا عدمِ تعاقب رویہ*)؛ [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*بنیادی ڈھانچہ انکار، تباہی، یا انحصار کٹ آف رویہ*)؛ [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*فورم دستبرداری ناکامی اور جانب دار پینل شرکت*)؛ [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) (*جوابدہی میں رکاوٹ*)۔
+- نمونہ اطلاقات: [§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*زون بھر مار*)؛ [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*معلوماتی کرہ زون بھر مار*)؛ [§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*رشوت اور ناجائز فائدہ تبادلہ*)؛ [§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct) (*غیر قانونی یا غیر آئینی حکم رویہ*)؛ [§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct) (*آئین مخالف رویے کا انعام، حفاظت، یا معمول بنانا*)؛ [§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct) (*نفاذ انکار، دبانا، یا عدمِ تعاقب رویہ*)؛ [§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*بنیادی ڈھانچہ انکار، تباہی، یا انحصار کٹ آف رویہ*)؛ [§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*فورم دستبرداری ناکامی اور جانب دار پینل شرکت*)؛ [§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) (*جوابدہی میں رکاوٹ*)۔
 - زیریں: [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*تدارک اور اصلاح (آئین مخالف)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)۔
 - فورم ضبط: [باب یازدهم §2](core_11_forum.md#2-default-venue-and-primary-stakes) تا [§5](core_11_forum.md#5-escalation-and-certification) طے شدہ سالمیت قیادت، واجب العمل کارروائی کا فورم-خاندان اطلاق، منتقلی، اور سرٹیفیکیشن گھیرتے ہیں۔ **قطعہ 4** کو **باب ششم** میں **دفعہ XXIV** (*تنازعے کا حل، اضافہ، اور ہنگامی تناسب*) کے ساتھ پڑھو۔
-- ساتھ پڑھیں: جائزہ اور اشاعت ضمانتوں کے لیے [دفعہ XXIV-A: انصاف کا مقصد اور دائرہ](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)؛ اشاعت کے لیے سراغ معیار [باب دوم تا چہارم](core_02_definition_structure.md)؛ عام تدارک → تالے → اظہار گرامر جسے یہ قطعہ تخصیص کرتا ہے کے لیے [باب نہم §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*خلاف ورزی، اصلاح، اور روک تھام*)۔
+- ساتھ پڑھیں: جائزہ اور اشاعت ضمانتوں کے لیے [دفعہ XXIV-A: انصاف کا مقصد اور دائرہ](core_06_rights_part_d.md)؛ اشاعت کے لیے سراغ معیار [باب دوم تا چہارم](core_02_definition_structure.md)؛ عام تدارک → تالے → اظہار گرامر جسے یہ قطعہ تخصیص کرتا ہے کے لیے [باب نہم §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*خلاف ورزی، اصلاح، اور روک تھام*)۔
 
 </details>
 
@@ -293,17 +295,17 @@
 
 - بالائی: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*خلاف ورزی محور s = 7–9 نامزدگی*)؛ [§4](#4-due-process-safeguards-for-slot-assignment) (*واجب العمل کارروائی ضمانتیں، تدارک، اور روک تھام*)۔
 - زیریں: [§4.2](#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)؛ [باب نہم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) کیفیت-اثر اور کیفیت-تالا انضمام؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) فورم رخ بندی اور سرٹیفیکیشن۔
-- ساتھ پڑھیں: [باب نہم §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*تدارک اور اصلاح*)؛ [دفعہ XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*انصاف کا مقصد اور دائرہ*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*تلافی، تدارک، بحالی، اور جوابدہ انتساب*)؛ [دفعہ XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*مدت، جائزہ، اور بحالی*)؛ [دفعہ XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*بروقت حل اور تدارک آغاز*)۔
+- ساتھ پڑھیں: [باب نہم §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*تدارک اور اصلاح*)؛ [دفعہ XXIV-A](core_06_rights_part_d.md) (*انصاف کا مقصد اور دائرہ*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md) (*تلافی، تدارک، بحالی، اور جوابدہ انتساب*)؛ [دفعہ XXIV-C](core_06_rights_part_d.md) (*مدت، جائزہ، اور بحالی*)؛ [دفعہ XXV-C](core_06_rights_part_d.md) (*بروقت حل اور تدارک آغاز*)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [تدارک اور اصلاح](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [بحالی انصاف](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
+- [تدارک اور اصلاح](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [بحالی انصاف](../../core_05.035_band_accountability.md#restorative-justice) · [O](../../core_05.035_band_accountability.md#restorative-justice) · [M](../../core_05.035_band_accountability.md#restorative-justice-a) · [A](../../core_05.035_band_accountability.md#restorative-justice-a) · [C](../../core_05.035_band_accountability.md#restorative-justice-c)
 - [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -367,7 +369,7 @@
 
 - بالائی: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*خلاف ورزی محور s = 7–9 نامزدگی*)؛ [§4](#4-due-process-safeguards-for-slot-assignment) (*واجب العمل کارروائی ضمانتیں، تدارک، اور روک تھام*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*تدارک اور اصلاح (آئین مخالف)*)۔
 - زیریں: [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)؛ [باب نہم §5.5](core_09_standing_integration.md#55-special-locks) (*آئین مخالف اعتماد تالا*)۔
-- ساتھ پڑھیں: [باب نہم §4.2](core_09_standing_integration.md#42-general-standing-locks) (*روک تھام — عمومی کیفیت تالے*)؛ [باب نہم §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*تعریف اور منسلکہ*)؛ [باب نہم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*جبری یا آزادی محدود کرنے والی ضمانتیں*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*مشترکہ تقاضے اور **تشدد کے لیے قید***)؛ [دفعہ XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*مدت، جائزہ، بحالی، اور دوبارہ جائزہ ضبط*)۔
+- ساتھ پڑھیں: [باب نہم §4.2](core_09_standing_integration.md#42-general-standing-locks) (*روک تھام — عمومی کیفیت تالے*)؛ [باب نہم §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*تعریف اور منسلکہ*)؛ [باب نہم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*جبری یا آزادی محدود کرنے والی ضمانتیں*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md) (*مشترکہ تقاضے اور **تشدد کے لیے قید***)؛ [دفعہ XXIV-C](core_06_rights_part_d.md) (*مدت، جائزہ، بحالی، اور دوبارہ جائزہ ضبط*)۔
 
 </details>
 
@@ -405,8 +407,8 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*خلاف ورزی محور s = 7–9 نامزدگی*)؛ [§4](#4-due-process-safeguards-for-slot-assignment) (*واجب العمل کارروائی ضمانتیں، تدارک، اور روک تھام*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*تدارک اور اصلاح (آئین مخالف)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*)۔
-- زیریں: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*نمونہ اطلاقات اور معیار رخ بندی*)۔
-- ساتھ پڑھیں: [باب نہم §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*مشترکہ تقاضے*)؛ [دفعہ XXV-B](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*حقوق تصادم طریقہ اور بحالی ہم آہنگی*)۔
+- زیریں: [§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*نمونہ اطلاقات اور معیار رخ بندی*)۔
+- ساتھ پڑھیں: [باب نہم §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md) (*مشترکہ تقاضے*)؛ [دفعہ XXV-B](core_06_rights_part_d.md) (*حقوق تصادم طریقہ اور بحالی ہم آہنگی*)۔
 
 </details>
 
@@ -426,6 +428,6 @@
 
 **پچھلی فائل (اس زبان میں):** [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
 
-**اگلی فائل (اس زبان میں):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
+**اگلی فائل (اس زبان میں):** [core_10_b_misconduct_pattern_applications.md](../../core_12.010_misconduct_pattern_applications.md)
 
 **پابند اصل:** [core_10_a_misconduct_designation.md](../../core_12_a_misconduct_designation.md)

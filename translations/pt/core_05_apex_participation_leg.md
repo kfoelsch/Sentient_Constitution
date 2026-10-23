@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Bússola do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) (perna de participação; escalonamento pela [aposta material](core_00_preamble.md#material-stake)); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); fim primário [Florescimento](core_00_preamble.md#flourishing).
-- Destino: Princípios: [Preâmbulo §1 O modelo](core_00_preamble.md#the-model); [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Administração responsável e compreensão distribuída](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Participação Sistêmica das Partes Afetadas](../../core_05.055_band_participation.md#stakeholder-status-and-weight) onde se aplica a camada de Participação Sistêmica das Partes Afetadas; [Decomposição da perna da Tétrade](#participation-tetrad-leg-decomposition); definições-folha da faixa Participação em [core_05_band_participation.md](../../core_05.055_band_participation.md).
+- Destino: Princípios: [Preâmbulo §1 O modelo](core_00_preamble.md#the-model); [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 Administração responsável e compreensão distribuída](core_01_c_stewardship_capacity_principles.md); [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Participação Sistêmica das Partes Afetadas](../../core_05.055_band_participation.md#stakeholder-status-and-weight) onde se aplica a camada de Participação Sistêmica das Partes Afetadas; [Decomposição da perna da Tétrade](#participation-tetrad-leg-decomposition); definições-folha da faixa Participação em [core_05_band_participation.md](../../core_05.055_band_participation.md).
 - Ler com: [Agência significativa](../../core_05.055_band_participation.md#meaningful-agency), [Impugnabilidade](../../core_05.035_band_accountability.md#contestability) (fronteira participação/prestação de contas), [Acessibilidade](../../core_05.055_band_participation.md#accessibility), [Equidade substantiva](../../core_05.055_band_participation.md#substantive-fairness), [Escolha vinculante das partes afetadas](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-constitutional) (participação em tempo), [Governança escalada à classificação](../../core_05.050_band_oversight.md#classification-scaled-governance), e família de medição de Participação.
 
 </details>
@@ -61,7 +61,7 @@
     - [Equidade substantiva](../../core_05.055_band_participation.md#substantive-fairness);
     - [Peso das partes afetadas](../../core_05.055_band_participation.md#stakeholder-weight);
     - [Captura do sistema](../../core_05.040_band_continuity.md#system-capture); e
-    - [Capítulo Um §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [Capítulo Um §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: Não conforme quando:
   - há exclusão estrutural;

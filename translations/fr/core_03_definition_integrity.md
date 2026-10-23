@@ -40,7 +40,7 @@ Le Chapitre trois est le titulaire constitutionnel de l’**intégrité de la d�
 
 - En amont : Principes : [Chapitre deux, §1 — Objet et rôle](core_02_definition_structure.md#1-objet-et-rôle) ; [Chapitre deux, §2 Exigence d’intégrité de la définition](core_02_definition_structure.md#2-exigence-dintégrité-de-la-définition).
 - En aval : [Chapitre trois, section 2 — Non-conformité à partir de la conduite observable du système](#2-non-conformité-à-partir-de-la-conduite-observable-du-système) ; [Chapitre quatre, section 2 — Exigence de traçabilité de la définition](core_04_burden_traceability_verification.md#2-exigence-de-traçabilité-de-la-définition) ; [Chapitre quatre, section 5 — Norme de preuve de conformité](core_04_burden_traceability_verification.md#5-norme-de-preuve-de-conformité) ; [Chapitre dix — Modèle de contribution, d’infraction et de trajectoire](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Lire avec : [Chapitre un, section 4.2 — Vérité (contrainte d’intégrité épistémique)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — l’interprétation fondée sur la conduite observable plutôt que sur la structure ou l’intention déclarées opérationnalise la contrainte constitutionnelle de vérité à la couche d’intégrité de la définition.
+- Lire avec : [Chapitre un, section 4.2 — Vérité (contrainte d’intégrité épistémique)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) — l’interprétation fondée sur la conduite observable plutôt que sur la structure ou l’intention déclarées opérationnalise la contrainte constitutionnelle de vérité à la couche d’intégrité de la définition.
 
 </details>
 
@@ -218,7 +218,7 @@ Lorsque l’incertitude empêche une démonstration définitive de la conformit�
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : [Chapitre trois, section 2 — Non-conformité à partir de la conduite observable du système](#2-non-conformité-à-partir-de-la-conduite-observable-du-système) ; [Chapitre deux, §2 Exigence d’intégrité de la définition](core_02_definition_structure.md#2-exigence-dintégrité-de-la-définition).
-- En aval : [Chapitre quatre, section 2 — Exigence de traçabilité de la définition](core_04_burden_traceability_verification.md#2-exigence-de-traçabilité-de-la-définition) ; [Chapitre neuf — Certification d’alignement du système](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; [Chapitre dix — Modèle de contribution, d’infraction et de trajectoire](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) ; [Chapitre onze — Effets de trajectoire et intégration](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) ; [CJS-3.1 Boussole constitutionnelle et carte des groupes](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- En aval : [Chapitre quatre, section 2 — Exigence de traçabilité de la définition](core_04_burden_traceability_verification.md#2-exigence-de-traçabilité-de-la-définition) ; [Chapitre neuf — Certification d’alignement du système](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ; [Chapitre dix — Modèle de contribution, d’infraction et de trajectoire](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) ; [Chapitre onze — Effets de trajectoire et intégration](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) ; [CJS-3.1 Boussole constitutionnelle et carte des groupes](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Lire avec : [Profil de constatation de non-conformité](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — foyer canonique O/M/A/C pour les champs de profil ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -265,7 +265,7 @@ La trajectoire d’une institution est affectée lorsque l’institution est le 
 <a id="34-operational-constraints"></a>
 #### 3.4 Contraintes opérationnelles
 
-Une non-conformité peut aussi être constatée contre des contraintes opérationnelles dans le corpus conjoint de mise en œuvre. Les profils de constatation par défaut et la façon dont ils s’attachent à ces constatations sont traités là — non dans ce chapitre. Voir [CJS-3.1 Boussole constitutionnelle et carte des groupes](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+Une non-conformité peut aussi être constatée contre des contraintes opérationnelles dans le corpus conjoint de mise en œuvre. Les profils de constatation par défaut et la façon dont ils s’attachent à ces constatations sont traités là — non dans ce chapitre. Voir [CJS-3.1 Boussole constitutionnelle et carte des groupes](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

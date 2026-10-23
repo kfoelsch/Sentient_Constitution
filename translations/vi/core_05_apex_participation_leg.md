@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [La bàn Chương Năm](core_05__definitions_home.md#la-bàn-và-bản-đồ-định-nghĩa-chương-năm); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) (trụ tham gia; chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake)); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); mục tiêu sơ cấp [Hưng thịnh](core_00_preamble.md#flourishing).
-- Hạ nguồn: Nguyên tắc: [Lời nói đầu §1 Mô hình](core_00_preamble.md#the-model); [Chương Một §5 Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 Kỷ luật tuyên bố kết quả hiến pháp](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Tham gia hệ thống của bên bị ảnh hưởng](../../core_05.055_band_participation.md#stakeholder-status-and-weight) nơi tầng Tham gia hệ thống của bên bị ảnh hưởng áp dụng; [Phân rã trụ Tứ diện](#participation-tetrad-leg-decomposition); định nghĩa lá dải Tham gia ở [core_05_band_participation.md](../../core_05.055_band_participation.md).
+- Hạ nguồn: Nguyên tắc: [Lời nói đầu §1 Mô hình](core_00_preamble.md#the-model); [Chương Một §5 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md); [§11.1.5 Kỷ luật tuyên bố kết quả hiến pháp](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Tham gia hệ thống của bên bị ảnh hưởng](../../core_05.055_band_participation.md#stakeholder-status-and-weight) nơi tầng Tham gia hệ thống của bên bị ảnh hưởng áp dụng; [Phân rã trụ Tứ diện](#participation-tetrad-leg-decomposition); định nghĩa lá dải Tham gia ở [core_05_band_participation.md](../../core_05.055_band_participation.md).
 - Đọc cùng: [Quyền năng có ý nghĩa](../../core_05.055_band_participation.md#meaningful-agency), [Khả năng tranh biện](../../core_05.035_band_accountability.md#contestability) (ranh giới tham gia/trách nhiệm giải trình), [Khả năng tiếp cận](../../core_05.055_band_participation.md#accessibility), [Công bằng nội dung](../../core_05.055_band_participation.md#substantive-fairness), [Lựa chọn ràng buộc của bên bị ảnh hưởng](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [Kịp thời](core_05_apex_timeliness_leg.md#timeliness-constitutional) (tham gia kịp thời), [Quản trị chia tỷ lệ theo phân loại](../../core_05.050_band_oversight.md#classification-scaled-governance), và gia đình đo lường Tham gia.
 
 </details>
@@ -61,7 +61,7 @@
     - [Công bằng nội dung](../../core_05.055_band_participation.md#substantive-fairness);
     - [Trọng số bên bị ảnh hưởng](../../core_05.055_band_participation.md#stakeholder-weight);
     - [Chiếm hệ thống](../../core_05.040_band_continuity.md#system-capture); và
-    - [Chương Một §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [Chương Một §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: Không tuân thủ khi:
   - có loại trừ cấu trúc;

@@ -24,7 +24,7 @@ _INSTRUMENT_SCOPE = frozenset({"core_07.000_charters.md"})
 _INSTRUMENT_SCOPE_PREFIXES = (
     "core_", "corpus_", "implementation/", "README", "START_HERE", "guides/", "docs/", "evaluation/", "project/",
 )
-_DATED_RECORD = re.compile(r"_20\d\d-\d\d-\d\d(?:\.|_)|(?:^|/)20\d\d-\d\d-\d\d_|_20\d\d-\d\d/")
+_DATED_RECORD = re.compile(r"_20\d\d-\d\d-\d\d(?:\.|_)|(?:^|/)20\d\d-\d\d-\d\d_|_20\d\d-\d\d-\d\d/|_20\d\d-\d\d/")
 # The move log names the banned word when it records the ban itself, so it is exempt (as it is for the bare-pathway rule).
 _INSTRUMENT_EXEMPT_PREFIXES = ("project/translation_drafts/", "project/MEMLOG.md")
 
@@ -36,6 +36,21 @@ def _in_instrument_scope(rel_path: str) -> bool:
 
 
 _INSTRUMENT_WORD = re.compile(r"(?<![A-Za-z0-9-])instruments?(?![A-Za-z0-9-])", re.IGNORECASE)
+
+# Ban the word **segregation** and its forms (segregate, segregated, segregating) (custodian decision, 2026-10-22). The seat rule is **separation
+# of duties**; for holding things apart say **separate holding** (funds, weights, keys), **isolation** (information, data), or **separation**.
+# Enforced on the same files as the instrument ban.
+_SEGREGATION_WORD = re.compile(r"(?<![A-Za-z0-9-])segregat(?:e|es|ed|ing|ion|ions)(?![A-Za-z0-9-])", re.IGNORECASE)
+
+# Ban the word **disinterested** (custodian decision, 2026-10-22). The corpus word is **independent**, defined in Chapter Five
+# (Independence): outside the Material Control Line of the party whose act is at issue and of every Interested Party. Say **independent of** the
+# party or act, or **impartial** when the sense is unbiased. Enforced on the same files as the instrument ban.
+_DISINTERESTED_WORD = re.compile(r"(?<![A-Za-z0-9-])disinterested(?![A-Za-z0-9-])", re.IGNORECASE)
+
+# Ban **four-seat floor** and **four-seat constitutional floor** (custodian decision, 2026-10-22). The Chapter Eight section is the **Four-Seat
+# Constitutional Requirement** (short form **Four-Seat Requirement**); "floor" is reserved for the Chapter Six **Rights Floor** so the two cannot be confused.
+# Enforced on the same files as the instrument ban.
+_FOUR_SEAT_FLOOR = re.compile(r"(?<![A-Za-z0-9-])(?:four[- ]seat(?: constitutional)?|chapter eight seat) floors?(?![A-Za-z0-9-])", re.IGNORECASE)
 
 # Ban the noun **verifier** / **verifiers** (custodian decision, 2026-10-19; TERM-BODY-01). A body or sentient that verifies, authorizes, or
 # decides is an **authority**: say **verifying authority**. Enforced on the files the instrument ban covers, except `evaluation/` and `project/`
@@ -410,7 +425,7 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: bare check was not flagged or qualified forms broke.",
         )
-    if scan_avoid_bare_check("core_08.000_functional_independence_segregation_of_duties.md", "The check scales.\n"):
+    if scan_avoid_bare_check("core_08.000_functional_independence_separation_of_duties.md", "The check scales.\n"):
         raise RuntimeError("Internal regression failed: bare-check scope leaked outside its scoped files.")
     recheck_findings = scan_avoid_bare_recheck(
         "core_07.000_charters.md",
@@ -424,7 +439,7 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: bare re-check was not flagged or the formation re-check form broke.",
         )
-    if scan_avoid_bare_recheck("core_08.000_functional_independence_segregation_of_duties.md", "A re-check is due.\n"):
+    if scan_avoid_bare_recheck("core_08.000_functional_independence_separation_of_duties.md", "A re-check is due.\n"):
         raise RuntimeError("Internal regression failed: bare-re-check scope leaked outside its scoped files.")
     layer_findings = scan_avoid_governance_layer_labels(
         "internal-regression.md",
@@ -488,6 +503,43 @@ def run_internal_regression_checks() -> None:
     if len(cure_findings) != 6:
         raise RuntimeError(
             "Internal regression failed: 'cure' / 'cured' / 'uncured' / 'curing' / 'cure-window' was not flagged, or secure/accurate/procure/obscure was flagged wrongly.",
+        )
+    segregation_findings = scan_avoid_segregation(
+        "internal-regression.md",
+        "Segregation of duties binds the record.\n"
+        "The funds are segregated and the keys are held apart.\n"
+        "Segregating the data takes a new version.\n"
+        "Separation of duties binds the record.\n"
+        "See [the chapter](core_08.000_functional_independence_separation_of_duties.md) and `segregation` in code.\n"
+        "An anchor id=\"old-segregation\" is not prose.\n",
+    )
+    if len(segregation_findings) != 3:
+        raise RuntimeError(
+            "Internal regression failed: 'segregation' / 'segregated' / 'segregating' was not flagged, or 'separation of duties', a link target, code, or an id was flagged wrongly.",
+        )
+    disinterested_findings = scan_avoid_disinterested(
+        "internal-regression.md",
+        "A disinterested relying body verifies.\n"
+        "Disinterested in the repair.\n"
+        "An independent relying body verifies.\n"
+        "See [the chapter](core_08.000_disinterested.md) and `disinterested` in code.\n"
+        "An anchor id=\"old-disinterested\" is not prose.\n",
+    )
+    if len(disinterested_findings) != 2:
+        raise RuntimeError(
+            "Internal regression failed: 'disinterested' was not flagged, or 'independent', a link target, code, or an id was flagged wrongly.",
+        )
+    four_seat_findings = scan_avoid_four_seat_floor(
+        "internal-regression.md",
+        "The four-seat floor applies here.\n"
+        "See §2 Four-seat constitutional floor.\n"
+        "The Four-Seat Requirement applies, and so does the Rights Floor.\n"
+        "See [the section](core_08.000.md#2-four-seat-constitutional-floor) and `four-seat floor` in code.\n"
+        "An anchor id=\"2-four-seat-constitutional-floor\" is not prose.\n",
+    )
+    if len(four_seat_findings) != 2:
+        raise RuntimeError(
+            "Internal regression failed: 'four-seat floor' was not flagged, or 'Four-Seat Requirement', the Rights Floor, a link target, code, or an id was flagged wrongly.",
         )
 
 
@@ -812,6 +864,87 @@ def scan_avoid_instrument(rel_path: str, text: str) -> list[Finding]:
                     file=rel_path,
                     line=idx,
                     rule="avoid-instrument",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def scan_avoid_segregation(rel_path: str, text: str) -> list[Finding]:
+    """Reject **segregation** and its forms (the seat rule is **separation of duties**; otherwise **separate holding**, **isolation**, or **separation**)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        prose = re.sub(r"`[^`]*`", "", raw)
+        prose = re.sub(r"\]\([^)]*\)", "]", prose)  # link targets
+        prose = re.sub(r'id="[^"]*"', "", prose)
+        if _SEGREGATION_WORD.search(prose):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-segregation",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def scan_avoid_disinterested(rel_path: str, text: str) -> list[Finding]:
+    """Reject **disinterested** (the corpus word is **independent**, defined in Chapter Five; say **independent of** the party or act)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        prose = re.sub(r"`[^`]*`", "", raw)
+        prose = re.sub(r"\]\([^)]*\)", "]", prose)  # link targets
+        prose = re.sub(r'id="[^"]*"', "", prose)
+        if _DISINTERESTED_WORD.search(prose):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-disinterested",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def scan_avoid_four_seat_floor(rel_path: str, text: str) -> list[Finding]:
+    """Reject **four-seat floor** (the Chapter Eight name is **Four-Seat Constitutional Requirement**, short form **Four-Seat Requirement**; "floor" belongs to the Rights Floor)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        prose = re.sub(r"`[^`]*`", "", raw)
+        prose = re.sub(r"\]\([^)]*\)", "]", prose)  # link targets
+        prose = re.sub(r'id="[^"]*"', "", prose)
+        if _FOUR_SEAT_FLOOR.search(prose):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-four-seat-floor",
                     text=raw.strip(),
                 ),
             )
@@ -1305,6 +1438,9 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05.050_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
         "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
+        "- **`avoid-segregation`:** reject **segregation** / **segregate** / **segregated** / **segregating** → the seat rule is **separation of duties**; for holding things apart say **separate holding** (funds, weights, keys), **isolation** (information, data), or **separation**. *Enforced on the same files as `avoid-instrument`.*",
+        "- **`avoid-disinterested`:** reject **disinterested** → say **independent** (defined in Chapter Five, *Independence*: outside the Material Control Line of the party whose act is at issue and of every Interested Party), usually **independent of** the party or act; use **impartial** only when the sense is unbiased. *Enforced on the same files as `avoid-instrument`.*",
+        "- **`avoid-four-seat-floor`:** reject **four-seat floor** / **four-seat constitutional floor** → say **Four-Seat Constitutional Requirement** (Chapter Eight §2) or **Four-Seat Requirement** for the short form; \"floor\" is reserved for the Chapter Six **Rights Floor**. *Enforced on the same files as the instrument ban.*",
         "- **`avoid-verifier`:** reject **verifier** / **verifiers** → say **verifying authority** (a body or sentient that verifies, authorizes, or decides is an authority; TERM-BODY-01 in `doc_architecture.md`). *Enforced on the same files as `avoid-instrument`, except `evaluation/` and `project/`.*",
         "- **`avoid-exculpatory-family`:** reject **exculpatory** / **inculpatory** → say what the material shows: that a sentient is not at fault, is less at fault, or is at fault. *Enforced on the same files as `avoid-cure-family`; write the words in backticks when a record must quote them.*",
         "- **`review-in-tier-window`:** reject review of a measure, order, hold, stay, or interim decision \"inside the (matching) tier window\" → say **prompt-review window** (the tier window is the matter's outer limit, not when review of a measure in force begins). *Enforced on the same files as `avoid-cure-family`, except the dated move log in `doc_architecture.md`.*",
@@ -1406,6 +1542,10 @@ def main() -> int:
             findings.extend(scan_avoid_breach_family(rel_path, text))
         if _in_instrument_scope(rel_path):
             findings.extend(scan_avoid_instrument(rel_path, text))
+        if _in_instrument_scope(rel_path):
+            findings.extend(scan_avoid_segregation(rel_path, text))
+            findings.extend(scan_avoid_disinterested(rel_path, text))
+            findings.extend(scan_avoid_four_seat_floor(rel_path, text))
         if _in_verifier_scope(rel_path):
             findings.extend(scan_avoid_verifier(rel_path, text))
 
@@ -1417,6 +1557,9 @@ def main() -> int:
                 if rel_path in scope or not _in_instrument_scope(rel_path):
                     continue
                 findings.extend(scan_avoid_instrument(rel_path, load_text(extra)))
+                findings.extend(scan_avoid_segregation(rel_path, load_text(extra)))
+                findings.extend(scan_avoid_disinterested(rel_path, load_text(extra)))
+                findings.extend(scan_avoid_four_seat_floor(rel_path, load_text(extra)))
                 if _in_verifier_scope(rel_path):
                     findings.extend(scan_avoid_verifier(rel_path, load_text(extra)))
 

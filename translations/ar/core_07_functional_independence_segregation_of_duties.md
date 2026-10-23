@@ -8,8 +8,8 @@
 >
 > - **المالك الدستوري:** الحد الأدنى للمقاعد المنفصلة في الأفعال الملزمة مادياً؛ الحد الأدنى الشامل لمحتوى كل [سجل فعل ملزم مادياً](../../core_05_band_accountability.md#materially-binding-act-record)؛ الاستقلال عن الفاعل وعن [خط السيطرة المادية](../../core_05_band_accountability.md#material-control-line) الخاص به؛ نشر توزيع المسارات والأدوار؛ توجيه تضارب المصالح والشواغر والاستبدال والإحالة إلى المقعد الخطأ؛ الاستضافة المدمجة المتناسبة؛ عمليات التسليم القابلة للإسناد؛ والحد الأدنى لشروط الاستقلال التي يجب على كل عملية دستورية لاحقة تطبيقها.
 > - **مصدر طبقة المبادئ:** يقتضي [الفصل الأول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) أن يحافظ الحكم على الاستقلال الوظيفي، ويوجه البنية التشغيلية للمقاعد إلى هذا الموضع.
-> - **مالك التنفيذ:** يحدّد [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)، و[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)، و[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) مواضع المقاعد ويجعلها تشغيلية. ويجوز أن تكون أحكامها أشد وأن تضيف أنواع مقاعد ذات صلاحية خاصة ومحدودة؛ ولا يجوز لها تضييق هذا الفصل.
-> - **يظل التطبيق الخاص بالعملية في الفصول اللاحقة:** يطبق الفصل الثامن هذه الأرضية على شهادة مواءمة النظام؛ ويطبقها [الفصل التاسع §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) على سجلات الوضع؛ ويطبقها الفصل الثاني عشر و[corpus_forum.md](../../corpus_forum.md) على إجراءات المنتدى. ويجوز لهذه الفصول إضافة ضمانات يقتضيها موضوعها، ولا يجوز لها إنشاء بديل أضعف.
+> - **مالك التنفيذ:** يحدّد [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation)، و[CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)، و[CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) مواضع المقاعد ويجعلها تشغيلية. ويجوز أن تكون أحكامها أشد وأن تضيف أنواع مقاعد ذات صلاحية خاصة ومحدودة؛ ولا يجوز لها تضييق هذا الفصل.
+> - **يظل التطبيق الخاص بالعملية في الفصول اللاحقة:** يطبق الفصل الثامن هذه الأرضية على شهادة مواءمة النظام؛ ويطبقها [الفصل التاسع §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) على سجلات الوضع؛ ويطبقها الفصل الثاني عشر و[corpus_forum.md](../../corpus_forum.md) على إجراءات المنتدى. ويجوز لهذه الفصول إضافة ضمانات يقتضيها موضوعها، ولا يجوز لها إنشاء بديل أضعف.
 >
 > ترتيب القراءة: §1 الغرض والنطاق وحدود الملكية → §2 أرضية المقاعد الأربعة → §3 الاستقلال وتضارب المصالح → §4 الإحالة من المقعد الخطأ → §5 التوزيع المنشور والبدلاء → §6 التدرج التناسبي → §7 الطوارئ → §8 سجلات الأفعال وعمليات التسليم القابلة للإسناد → §9 التطبيق في الإجراءات اللاحقة.
 
@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
 - الأساس السابق: [الرباعية الدستورية](../../core_00_preamble.md#constitutional-tetrad) — ولا سيما **الرقابة** و**المساءلة**؛ [المصلحة المادية](../../core_00_preamble.md#material-stake)؛ [معيار الإشراف المشترك في الفصل الأول §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)؛ [الحكم في ظل انضباط الإشراف، الفصل الأول §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [المادة XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*التدقيق والشفافية والتحقق المستقل*).
-- الأقسام الفرعية: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-floor)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes).
+- الأقسام الفرعية: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes).
 - اللاحق: [الفصل الثامن](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)؛ [الفصل التاسع](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [الفصل الثاني عشر](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [الفصل الثالث عشر](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ ونصوص التنفيذ المحددة أعلاه.
 - يُقرأ مع: [كشف عدم المواءمة، الفصل الأول §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*الكشف والمراجعة المتعددان*)؛ [الفعل القابل للإسناد](../../core_05_band_accountability.md#attributable-action)؛ [نزاهة الإسناد](../../core_05_band_accountability.md#attribution-integrity)؛ [قابلية التدقيق](../../core_05_band_oversight.md#auditability)؛ [قابلية الاعتراض](../../core_05_band_accountability.md#contestability)؛ [التناسب](../../core_05_band_accountability.md#proportionality).
 
@@ -36,7 +36,7 @@
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
 - الأساس السابق: ادعاء الملكية في افتتاح الفصل؛ [الفصل الأول §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [الرقابة](../../core_05_apex_oversight_leg.md#oversight-constitutional)؛ [المساءلة](../../core_05_apex_accountability_leg.md#accountability).
-- اللاحق: من [§2](#2-four-seat-constitutional-floor) إلى [§9](#9-relationship-to-later-processes)؛ وكل عملية لاحقة تنتج فعلاً ملزماً مادياً أو تغيّره.
+- اللاحق: من [§2](#2-four-seat-constitutional-requirement) إلى [§9](#9-relationship-to-later-processes)؛ وكل عملية لاحقة تنتج فعلاً ملزماً مادياً أو تغيّره.
 - يُقرأ مع: [الفصل الرابع](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) بشأن أساس التحقق؛ [المادة XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*خط أساس الموثوقية والجدارة بالثقة*) و[المادة XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*الحق في الإنصاف والانتصاف*) بشأن الاعتراض والإنصاف؛ [المادة XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*التدقيق والشفافية والتحقق المستقل*) بشأن أرضيات حقوق التحقق المستقل.
 
 </details>
@@ -65,14 +65,14 @@
 - محتوى السجلات الخاص بالعملية من الفصول الثامن إلى الثاني عشر؛ أو
 - كتالوجات المقاعد التشغيلية وطرق التوظيف وآليات خرائط المسارات من نصوص التنفيذ المحددة.
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. الأرضية الدستورية للمقاعد الأربعة
 
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
 - الأساس السابق: [§1](#1-purpose-scope-and-owner-boundary)؛ [الفصل الأول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)؛ [الفصل الأول §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- اللاحق: من [§3](#3-independence-conflict-and-control-lines) إلى [§9](#9-relationship-to-later-processes)؛ [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*كتالوج المقاعد — نماذج أدوار العملية وحدود التشغيل*).
+- اللاحق: من [§3](#3-independence-conflict-and-control-lines) إلى [§9](#9-relationship-to-later-processes)؛ [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*كتالوج المقاعد — نماذج أدوار العملية وحدود التشغيل*).
 - يُقرأ مع: [§6](#6-proportional-scaling-and-merged-hosting) لمسار الاستضافة المدمجة الوحيد المسموح.
 
 </details>
@@ -163,9 +163,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
-- الأساس السابق: [§2](#2-four-seat-constitutional-floor)؛ [المساءلة المتناسبة مع الصلاحية](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)؛ [المادة XXIV](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*التفسير الدستوري والمراجعة وضمانات مقاومة الاستحواذ*).
+- الأساس السابق: [§2](#2-four-seat-constitutional-requirement)؛ [المساءلة المتناسبة مع الصلاحية](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)؛ [المادة XXIV](core_06_rights_part_d.md) (*التفسير الدستوري والمراجعة وضمانات مقاومة الاستحواذ*).
 - اللاحق: [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ أدوار مكونات الشهادة في الفصل الثامن؛ حيازة السجلات في الفصل التاسع؛ ومقاومة الفصل الذاتي في منتدى الفصل الثاني عشر.
-- يُقرأ مع: [خط السيطرة المادية](../../core_05_band_accountability.md#material-control-line)؛ [CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*نزاهة تضارب المصالح ومقاومة الاستحواذ والفساد*) و[CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*ضمانات النزاهة وعمليات مقاومة الاستحواذ ودعم منع الفصل الذاتي*) لضمانات تضارب المصالح ومقاومة الفصل الذاتي التشغيلية.
+- يُقرأ مع: [خط السيطرة المادية](../../core_05_band_accountability.md#material-control-line)؛ [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*نزاهة تضارب المصالح ومقاومة الاستحواذ والفساد*) و[CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*ضمانات النزاهة وعمليات مقاومة الاستحواذ ودعم منع الفصل الذاتي*) لضمانات تضارب المصالح ومقاومة الفصل الذاتي التشغيلية.
 
 </details>
 
@@ -190,8 +190,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
-- الأساس السابق: [§2](#2-four-seat-constitutional-floor)؛ [§3](#3-independence-conflict-and-control-lines).
-- اللاحق: [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [قواعد المقاعد المشتركة في CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- الأساس السابق: [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines).
+- اللاحق: [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [قواعد المقاعد المشتركة في CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - يُقرأ مع: [واجب المقاومة، الفصل الأول §17.5](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 </details>
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
-- الأساس السابق: [§2](#2-four-seat-constitutional-floor)؛ [§3](#3-independence-conflict-and-control-lines)؛ [الشفافية](../../core_05_band_oversight.md#transparency)؛ [قابلية التدقيق](../../core_05_band_oversight.md#auditability).
-- اللاحق: [§8](#8-act-records-and-attributable-handoffs)؛ [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*مسارات الفصل الوظيفي*)؛ [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*الأدوار المصرح بها وسلاسل المساءلة*)؛ سجلات الفصلين الثامن والتاسع.
-- يُقرأ مع: [الميثاق](../../core_05_band_continuity.md#charter) و[الفصل الثالث عشر §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- الأساس السابق: [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [الشفافية](../../core_05_band_oversight.md#transparency)؛ [قابلية التدقيق](../../core_05_band_oversight.md#auditability).
+- اللاحق: [§8](#8-act-records-and-attributable-handoffs)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*مسارات الفصل الوظيفي*)؛ [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*الأدوار المصرح بها وسلاسل المساءلة*)؛ سجلات الفصلين الثامن والتاسع.
+- يُقرأ مع: [الميثاق](../../core_05.040_band_continuity.md) و[الفصل الثالث عشر §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -243,8 +243,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
-- الأساس السابق: [§2](#2-four-seat-constitutional-floor)؛ [المصلحة المادية](../../core_00_preamble.md#material-stake)؛ [الضرورة](../../core_05_band_accountability.md#necessity)؛ [التناسب](../../core_05_band_accountability.md#proportionality).
-- اللاحق: [الفصل التاسع §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records)؛ [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*توظيف المسارات والتكرار في الكفاءة بحسب الفئة*)؛ [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*مسارات الفصل الوظيفي*).
+- الأساس السابق: [§2](#2-four-seat-constitutional-requirement)؛ [المصلحة المادية](../../core_00_preamble.md#material-stake)؛ [الضرورة](../../core_05_band_accountability.md#necessity)؛ [التناسب](../../core_05_band_accountability.md#proportionality).
+- اللاحق: [الفصل التاسع §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records)؛ [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*توظيف المسارات والتكرار في الكفاءة بحسب الفئة*)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*مسارات الفصل الوظيفي*).
 - يُقرأ مع: [العبء الممكن تجنبه](../../core_05_band_continuity.md#avoidable-burden) و[مقاومة الإجراء المهين، الفصل الأول §3.3](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -266,7 +266,7 @@ flowchart TB
 
 يجوز لأعمال المساعدة المتبادلة والرعاية والإصلاح والتعليم والتعاون والإشراف المجتمعي غير الرسمية وغير المدفوعة الأجر استخدام هيئة اعتماد محايدة ذات صلاحية منشورة لإجراء الفحص المعني. ولا يشترط الدستور رسمية مؤسسية يتعذر بلوغها على نحو معقول بالنظر إلى النطاق، متى وُجد مسار مسؤول ومحايد فعلاً.
 
-لا يبرر نقص الموظفين أو السرعة أو الملاءمة أو تركيز الخبرة الدمج بمفرده. وتسري الوضعية المتدرجة بحسب الفئة في [§2 الأرضية الدستورية للمقاعد الأربعة](#2-four-seat-constitutional-floor): لا يجوز أي خروج في الفئة A، ويجب أن يستوفي أي خروج في الفئة B أو C الشروط أعلاه. وكلما كبرت المصلحة المادية، قويت قرينة الفصل بين المكاتب وتكرار الكفاءة والبدلاء المستقلين.
+لا يبرر نقص الموظفين أو السرعة أو الملاءمة أو تركيز الخبرة الدمج بمفرده. وتسري الوضعية المتدرجة بحسب الفئة في [§2 الأرضية الدستورية للمقاعد الأربعة](#2-four-seat-constitutional-requirement): لا يجوز أي خروج في الفئة A، ويجب أن يستوفي أي خروج في الفئة B أو C الشروط أعلاه. وكلما كبرت المصلحة المادية، قويت قرينة الفصل بين المكاتب وتكرار الكفاءة والبدلاء المستقلين.
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. الإجراء الطارئ والعاجل
@@ -274,9 +274,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
-- الأساس السابق: [§2](#2-four-seat-constitutional-floor)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [تدابير الطوارئ وعبء الاستمرار، الفصل الثاني عشر §6.1](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)؛ [الوضع المؤقت الافتراضي](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- الأساس السابق: [§2](#2-four-seat-constitutional-requirement)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [تدابير الطوارئ وعبء الاستمرار، الفصل الثاني عشر §6.1](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)؛ [الوضع المؤقت الافتراضي](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - اللاحق: إجراءات الحوادث والاحتواء والإصدار والاستمرار والمراجعة اللاحقة للحدث في نصوص التنفيذ المحددة.
-- يُقرأ مع: [الالتزام بالمواعيد](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) و[حفظ الأدلة](../../core_05_band_oversight.md#evidence-preservation) و[كتالوج مقاعد CI-4.6 — نماذج أدوار العملية وحدود التشغيل](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- يُقرأ مع: [الالتزام بالمواعيد](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) و[حفظ الأدلة](../../core_05_band_oversight.md#evidence-preservation) و[كتالوج مقاعد CI-4.6 — نماذج أدوار العملية وحدود التشغيل](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -313,8 +313,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
-- الأساس السابق: من [§2](#2-four-seat-constitutional-floor) إلى [§7](#7-emergency-and-urgent-action)؛ [سجل الفعل الملزم مادياً](../../core_05_band_accountability.md#materially-binding-act-record)؛ [الفعل القابل للإسناد](../../core_05_band_accountability.md#attributable-action)؛ [نزاهة الإسناد](../../core_05_band_accountability.md#attribution-integrity).
-- اللاحق: [الفعل القابل للفحص والمنسوب، CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)؛ [قواعد المقاعد المشتركة في CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)؛ كل سجل عملية تحكمه §8؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*صيغة أساسية قابلة للفحص آلياً؛ دعم للعملية وليس تعريفاً ثانياً*).
+- الأساس السابق: من [§2](#2-four-seat-constitutional-requirement) إلى [§7](#7-emergency-and-urgent-action)؛ [سجل الفعل الملزم مادياً](../../core_05_band_accountability.md#materially-binding-act-record)؛ [الفعل القابل للإسناد](../../core_05_band_accountability.md#attributable-action)؛ [نزاهة الإسناد](../../core_05_band_accountability.md#attribution-integrity).
+- اللاحق: [الفعل القابل للفحص والمنسوب، CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)؛ [قواعد المقاعد المشتركة في CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)؛ كل سجل عملية تحكمه §8؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*صيغة أساسية قابلة للفحص آلياً؛ دعم للعملية وليس تعريفاً ثانياً*).
 - يُقرأ مع: [§4 الإحالة من المقعد الخطأ](#4-wrong-seat-routing) و[الفصل الرابع §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>

@@ -12,10 +12,10 @@
 > | Bagian | Berkas | Mengatur |
 > |------|------|------|
 > | **Bagian A — Evaluasi** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: tujuan, kelas sistem, evaluasi seluruh-sistem (termasuk cakupan piagam versus batas fungsional), kait evaluasi ranah, penelusuran kelas yang bersifat ilustratif |
-> | **Bagian B — Catatan dan proses** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: catatan sertifikasi (termasuk medan [Piagam](core_05_band_continuity.md#charter) yang mengatur), transparansi/dapat-digugat, peran forum, urutan supervisi, jembatan jejak, pembukaan ulang — penomoran bab berlanjut dari Bagian A §10 |
+> | **Bagian B — Catatan dan proses** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: catatan sertifikasi (termasuk medan [Piagam](../../core_05.040_band_continuity.md) yang mengatur), transparansi/dapat-digugat, peran forum, urutan supervisi, jembatan jejak, pembukaan ulang — penomoran bab berlanjut dari Bagian A §10 |
 >
 > Jangkar warisan dari Bab Tujuh bekas berkas-tunggal dipertahankan pada berkas Bagian A dan Bagian B. Tautan generik **Bab Tujuh** di berkas lain diarahkan ke bagian yang sesuai menurut nomor bagian.
-> Pembentukan Piagam kelembagaan, medan minimum, dan kewajiban tinjauan berkala hidup di [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** — Bab Tujuh memakai medan itu; ia tidak mendefinisikannya ulang.
+> Pembentukan Piagam kelembagaan, medan minimum, dan kewajiban tinjauan berkala hidup di [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** — Bab Tujuh memakai medan itu; ia tidak mendefinisikannya ulang.
 
 >
 > **Sebelumnya (lokal ini):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

@@ -10,7 +10,7 @@
 > इसमें **अध्याय सात, भाग ख** है — प्रमाणन **अभिलेख** की अंतर्वस्तु, पारदर्शिता और चुनौती-योग्यता, मंच घटक भूमिकाएँ, पर्यवेक्षी क्रम, प्रस्थिति सेतु, और पुनर्खोल (**§11–§16**, भाग क §1–§10 से जारी)। **भाग क** — आकलन अपेक्षाएँ — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) में है।
 >
 > - **संवैधानिक स्वामी (भाग क के साथ संयुक्त):** मंच-पर्यवेक्षित **प्रणाली-संरेखण प्रमाणन और संबंधित अभिलेख**। चतुष्क की **निगरानी** टाँग के अधीन, SAC अन्य के बीच एक विशेष रूप से बड़ी, उच्च-दाँव लेखापरीक्षा प्रक्रिया है; लेखापरीक्षा तल **अनुच्छेद XVI** और अध्याय पाँच [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) पर रहते हैं।
-> - **आकलन निवेश:** [भाग क §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) से [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) आकलन निर्गम देते हैं जो प्रमाणन अभिलेख पर झलकते हैं।
+> - **आकलन निवेश:** [भाग क §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) से [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) आकलन निर्गम देते हैं जो प्रमाणन अभिलेख पर झलकते हैं।
 > - **स्थानांतरण-निषेध नियम:** भाग ख भाग क की आकलन यांत्रिकी, अध्याय पाँच की प्रामाणिक परिभाषाएँ, अध्याय आठ का प्रस्थिति मापन, या अध्याय नौ के प्रस्थिति प्रभाव पुनः नहीं कहता। **§15** प्रस्थिति सेतु की सीमा स्पष्ट कहता है। भाग ख **अनुच्छेद XVI** / **Def.O1** / **CJS-3.3**–**CJS-3.5** से लेखापरीक्षा स्वामित्व भी स्थानांतरित नहीं करता।
 >
 > **ऊर्ध्व:** [भाग क](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation); अध्याय ग्यारह मंच पर्यवेक्षण; अध्याय दो से चार सत्यापन अनुशासन।
@@ -27,7 +27,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: [भाग क §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*प्रमाणन उद्देश्य और आकलन मार्गचित्र*); [भाग क §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) से [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*अभिलेख के लिए आकलन निर्गम*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims)।
+- ऊर्ध्व: [भाग क §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*प्रमाणन उद्देश्य और आकलन मार्गचित्र*); [भाग क §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) से [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*अभिलेख के लिए आकलन निर्गम*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims)।
 - अधो: [§11](#11-certification-record) से [§16](#16-reopening-drift-and-non-evasion); [अध्याय आठ](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model); [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)।
 - साथ पढ़ें: [corpus_forum.md](../../corpus_forum.md), **CF-5** और **CF-7**।
 
@@ -35,7 +35,7 @@
 
 <br>
 
-अध्याय सात, **भाग ख**, **प्रमाणन अभिलेख**, **मंच-पर्यवेक्षित प्रक्रिया**, और प्रणाली-संरेखण प्रमाणन के **प्रस्थिति सेतु** का संवैधानिक स्वामी है। आकलन अपेक्षाएँ **[भाग क](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)** में हैं। भाग क [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) पर समाप्त होता है; यह भाग अध्याय को **§11** से जारी रखता है।
+अध्याय सात, **भाग ख**, **प्रमाणन अभिलेख**, **मंच-पर्यवेक्षित प्रक्रिया**, और प्रणाली-संरेखण प्रमाणन के **प्रस्थिति सेतु** का संवैधानिक स्वामी है। आकलन अपेक्षाएँ **[भाग क](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)** में हैं। भाग क [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) पर समाप्त होता है; यह भाग अध्याय को **§11** से जारी रखता है।
 
 *साधारण शब्दों में: भाग क कहता है क्या **आँका** जाना चाहिए। भाग ख कहता है क्या **अभिलेख पर** जाना चाहिए, **मंच** प्रक्रिया कैसे चलाते हैं, प्रभावित संज्ञ प्राणी परिणामों को कैसे **चुनौती** देते हैं, और प्रमाणन **प्रस्थिति** को कैसे खिला सकता है — बिना यह माने कि प्रमाणन प्रस्थिति मापन या प्रभाव का स्थानापन्न है।*
 
@@ -48,7 +48,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: [भाग क §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*प्रमाणन उद्देश्य*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*संपूर्ण-प्रणाली आकलन कारक*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) से [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*अभिलेख पर झलकने वाले क्षेत्र आकलन निर्गम*); [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional) (*अध्याय पाँच अर्थ*); [§12](#12-transparency-auditability-and-contestability) (*पारदर्शिता, लेखापरीक्षा-योग्यता, और चुनौती-योग्यता*); [§14](#14-supervisory-sequence-and-contestability-chain) (*पर्यवेक्षी क्रम और चुनौती-योग्यता शृंखला*)।
+- ऊर्ध्व: [भाग क §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*प्रमाणन उद्देश्य*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*संपूर्ण-प्रणाली आकलन कारक*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) से [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*अभिलेख पर झलकने वाले क्षेत्र आकलन निर्गम*); [प्रणाली प्रमाणन अभिलेख](../../core_05.040_band_continuity.md#system-certification-record-constitutional) (*अध्याय पाँच अर्थ*); [§12](#12-transparency-auditability-and-contestability) (*पारदर्शिता, लेखापरीक्षा-योग्यता, और चुनौती-योग्यता*); [§14](#14-supervisory-sequence-and-contestability-chain) (*पर्यवेक्षी क्रम और चुनौती-योग्यता शृंखला*)।
 - अधो: [§15](#15-relationship-to-standing) (*सत्यापित-निवेश द्वार*); [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*मंच-पर्यवेक्षित प्रमाणन प्रक्रिया*)।
 - उपअनुभाग: [§11.1](#111-minimum-record-contents) (*अभिलेख की न्यूनतम अंतर्वस्तु*); [§11.2](#112-cross-section-record-requirements) (*अनुभाग-पार अभिलेख अपेक्षाएँ*); [§11.3](#113-rights-floor-record-evaluation-non-substitution) (*अधिकार-तल अभिलेख आकलन — गैर-प्रतिस्थापन*)।
 
@@ -56,9 +56,9 @@
 
 <br>
 
-*साधारण शब्दों में: प्रमाणन अभिलेख समीक्षाधीन एक प्रणाली का लेखापरीक्षा-योग्य मामला फ़ाइल है — इसे कौन चलाता है, क्या जाँचा गया, क्या मिला, क्या तय हुआ, और इसे कैसे चुनौती दें। यह विपणन पैकेट या एक-पंक्ति स्वीकृति मोहर नहीं है। अभिलेख की गहराई, प्रकटीकरण, और चुनौती भार [§2.1](core_07_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) के अधीन प्रणाली वर्ग के साथ स्केल करते हैं — **Class A** उत्तरजीविता-क्रांतिक प्रणाली को **Class C** समन्वय परत से अधिक पूर्ण, अधिक चुनौती-योग्य फ़ाइल चाहिए, यद्यपि दोनों को वर्ग ईमानदारी से कहना और अपेक्षित आकलन झलकाना चाहिए।*
+*साधारण शब्दों में: प्रमाणन अभिलेख समीक्षाधीन एक प्रणाली का लेखापरीक्षा-योग्य मामला फ़ाइल है — इसे कौन चलाता है, क्या जाँचा गया, क्या मिला, क्या तय हुआ, और इसे कैसे चुनौती दें। यह विपणन पैकेट या एक-पंक्ति स्वीकृति मोहर नहीं है। अभिलेख की गहराई, प्रकटीकरण, और चुनौती भार [§2.1](core_07_a_system_alignment_certification_evaluation.md) के अधीन प्रणाली वर्ग के साथ स्केल करते हैं — **Class A** उत्तरजीविता-क्रांतिक प्रणाली को **Class C** समन्वय परत से अधिक पूर्ण, अधिक चुनौती-योग्य फ़ाइल चाहिए, यद्यपि दोनों को वर्ग ईमानदारी से कहना और अपेक्षित आकलन झलकाना चाहिए।*
 
-एक **प्रणाली प्रमाणन अभिलेख** किसी विशेष प्रणाली, संस्करण, संचालक या उत्तरदायी प्रबंधक, दायरा, समय खिड़की, तात्विक-प्रभाव प्रोफ़ाइल, और निर्णय संदर्भ के बारे में सीमाबद्ध, समीक्षा-योग्य अभिलेख है — दायरा-बद्ध, समय-बद्ध, और [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional) में अध्याय पाँच अर्थ के अधीन चुनौती-योग्य।
+एक **प्रणाली प्रमाणन अभिलेख** किसी विशेष प्रणाली, संस्करण, संचालक या उत्तरदायी प्रबंधक, दायरा, समय खिड़की, तात्विक-प्रभाव प्रोफ़ाइल, और निर्णय संदर्भ के बारे में सीमाबद्ध, समीक्षा-योग्य अभिलेख है — दायरा-बद्ध, समय-बद्ध, और [प्रणाली प्रमाणन अभिलेख](../../core_05.040_band_continuity.md#system-certification-record-constitutional) में अध्याय पाँच अर्थ के अधीन चुनौती-योग्य।
 
 <a id="111-minimum-record-contents"></a>
 
@@ -66,28 +66,28 @@
 
 अभिलेख को न्यूनतम रूप से पहचानना चाहिए:
 
-- **प्रणाली पहचान, दायरा, और स्थिति:** प्रणाली, संस्करण, संचालक या उत्तरदायी प्रबंधक, दायरा, शासक [चार्टर](core_05_band_continuity.md#charter) या समतुल्य प्रकाशित दायरा लिखत (या जहाँ अभौतिक हो वहाँ तर्कसंगत अनुपस्थिति), प्रभावित समुदाय, निर्भरताएँ, और समीक्षा स्थिति — सहित कि जहाँ चार्टर हो वहाँ प्रमाणित दायरा चार्टर के कथित दायरे से मेल खाता है या नहीं;
-- **संपूर्ण-प्रणाली आकलन निष्कर्ष:** [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) के अधीन तात्विक निष्कर्ष, जहाँ निहित हों वहाँ प्रणालीगत दायरा, सुगम्यता, निजता संयुक्त-आह्वान, निकास, सभा, समय-संगति, शासन, प्रोत्साहन, और चुनौती-योग्यता निष्कर्ष सहित — और, जहाँ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) के अधीन प्रणालीगत जोखिम दायरे में हो, [जोखिम आकलन](core_05_band_continuity.md#risk-evaluation) निष्कर्ष साथ [जोखिम प्रकटीकरण](core_05_band_oversight.md#risk-disclosure) मुद्रा (श्रोता या मार्गन, समय, रोक और स्थानापन्न, और अनसुलझे दोष या शर्तें), इस अभिलेख पर कही गईं न कि अलग नामित जोखिम-प्रकटीकरण अभिलेख के रूप में;
-- **प्रणाली वर्गीकरण अभिलेख:** [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional) — या CS-3 के अधीन उसकी अपेक्षित अंतर्वस्तु — जैसा [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) माँगता है, सहित:
+- **प्रणाली पहचान, दायरा, और स्थिति:** प्रणाली, संस्करण, संचालक या उत्तरदायी प्रबंधक, दायरा, शासक [चार्टर](../../core_05.040_band_continuity.md) या समतुल्य प्रकाशित दायरा लिखत (या जहाँ अभौतिक हो वहाँ तर्कसंगत अनुपस्थिति), प्रभावित समुदाय, निर्भरताएँ, और समीक्षा स्थिति — सहित कि जहाँ चार्टर हो वहाँ प्रमाणित दायरा चार्टर के कथित दायरे से मेल खाता है या नहीं;
+- **संपूर्ण-प्रणाली आकलन निष्कर्ष:** [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) के अधीन तात्विक निष्कर्ष, जहाँ निहित हों वहाँ प्रणालीगत दायरा, सुगम्यता, निजता संयुक्त-आह्वान, निकास, सभा, समय-संगति, शासन, प्रोत्साहन, और चुनौती-योग्यता निष्कर्ष सहित — और, जहाँ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) के अधीन प्रणालीगत जोखिम दायरे में हो, [जोखिम आकलन](../../core_05.040_band_continuity.md#risk-evaluation) निष्कर्ष साथ [जोखिम प्रकटीकरण](core_05_band_oversight.md#risk-disclosure) मुद्रा (श्रोता या मार्गन, समय, रोक और स्थानापन्न, और अनसुलझे दोष या शर्तें), इस अभिलेख पर कही गईं न कि अलग नामित जोखिम-प्रकटीकरण अभिलेख के रूप में;
+- **प्रणाली वर्गीकरण अभिलेख:** [प्रणाली वर्गीकरण अभिलेख](../../core_05.040_band_continuity.md#system-classification-record-constitutional) — या CS-3 के अधीन उसकी अपेक्षित अंतर्वस्तु — जैसा [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) माँगता है, सहित:
   - प्रणाली वर्ग आवंटन;
   - निर्भरता प्रकार;
   - वर्गीकरण तर्क; और
   - तात्विक-प्रभाव पूर्वधारणाएँ;
-- **प्रणाली डेटा-प्रकार अभिलेख:** [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional) — या CS-2 के अधीन उसकी अपेक्षित अंतर्वस्तु — जैसा [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) माँगता है, सहित:
+- **प्रणाली डेटा-प्रकार अभिलेख:** [प्रणाली डेटा-प्रकार अभिलेख](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) — या CS-2 के अधीन उसकी अपेक्षित अंतर्वस्तु — जैसा [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) माँगता है, सहित:
   - तात्विक रूप से दायरे में डेटा प्रकार और जिन संचालन, पृथक्करण, जीवनचक्र, और आधारिक-आश्वासन पूर्वधारणाओं पर भरोसा किया गया;
-  - सबसे हाल की आवधिक डेटा-प्रकार पुनर्मूल्यांकन (तिथि या चक्र पहचानकर्ता, वर्ग और प्रभाव के अनुसार स्केल की गई लय, और कोई तात्विक पुनर्प्रकारीकरण) **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** और **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** के अधीन;
-  - [आरोपणीय कार्रवाई](core_05_band_accountability.md#attributable-action-constitutional) और [आरोपण अखंडता](core_05_band_accountability.md#attribution-integrity-constitutional) सहारा देने के लिए पर्याप्त आरोपण क्षमता; और
+  - सबसे हाल की आवधिक डेटा-प्रकार पुनर्मूल्यांकन (तिथि या चक्र पहचानकर्ता, वर्ग और प्रभाव के अनुसार स्केल की गई लय, और कोई तात्विक पुनर्प्रकारीकरण) **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** और **[CS-2 §8](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-8-system-data-types-record-governance)** के अधीन;
+  - [आरोपणीय कार्रवाई](../../core_05.035_band_accountability.md#attributable-action-constitutional) और [आरोपण अखंडता](../../core_05.035_band_accountability.md#attribution-integrity-constitutional) सहारा देने के लिए पर्याप्त आरोपण क्षमता; और
   - जहाँ Type O आधाररेखा लागू हो, [सार्वजनिक निगरानी आधाररेखा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) प्रमाणित दायरे को कैसे कवर करता है (जिन चार्टर क्षेत्रों पर भरोसा किया गया, सीमा निष्कर्ष, और कोई कवरेज कमी या शर्तें);
-- **पारिस्थितिक पदचिह्न आकलन:** आरोपणीय पर्यावरणीय भार, जीवनचक्र और निर्भरता आरोपण पूर्वधारणाएँ, प्रकटीकरण मुद्रा, और पदचिह्न घटक निष्कर्ष जैसा [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) माँगता है;
-- **अंतर-प्रणाली संसाधन उत्तरदायी-प्रबंधन आकलन:** निर्भर-प्रणाली मानचित्र और संसाधन-प्रवाह निष्कर्ष, [आनुपातिक अंतर-प्रणाली योगदान](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) पर्याप्तता निष्कर्ष, और अंतर-प्रणाली निष्पक्षता घटक निष्कर्ष जैसा [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) माँगता है जहाँ **अनुच्छेद IV** (*संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी तंत्र वित्त*) की तात्विकता ट्रिगर लागू हो;
-- **भेदभाव-निषेध आकलन:** भार-और-लाभ पैटर्न निष्कर्ष, संरक्षित-विशेषता और स्थानापन्न-भेदभाव निष्कर्ष, और सारभूत-निष्पक्षता घटक निष्कर्ष जैसा [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) माँगता है जहाँ **अनुच्छेद V-B** (*भेदभाव-निषेध*) की तात्विकता ट्रिगर लागू हो;
-- **सुगम्यता आकलन:** सारभूत-सहभागिता, अनुकूलन, और स्थानापन्न-द्वारा-इनकार-निषेध निष्कर्ष जैसा [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) माँगता है जहाँ **अनुच्छेद V-G** (*सुगम्यता*) की तात्विकता ट्रिगर लागू हो;
-- **शैक्षिक क्षमता और अधिगम-प्रणाली अखंडता आकलन:** क्षमता-निर्माण, पुनर्प्रशिक्षण-मार्ग, आकलन-पारदर्शिता, और अधिगम-प्रणाली चुनौती-योग्यता निष्कर्ष जैसा [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) माँगता है जहाँ **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) की तात्विकता ट्रिगर लागू हो;
-- **भरोसेमंदता और प्रणाली-भरोसा अखंडता आकलन:** विश्वसनीयता, मिथ्या-विश्वास, विकृत-प्रोत्साहन, चुनौती-पथ, और पुनर्प्राप्ति-अखंडता निष्कर्ष जैसा [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) माँगता है जहाँ **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) की तात्विकता ट्रिगर लागू हो;
+- **पारिस्थितिक पदचिह्न आकलन:** आरोपणीय पर्यावरणीय भार, जीवनचक्र और निर्भरता आरोपण पूर्वधारणाएँ, प्रकटीकरण मुद्रा, और पदचिह्न घटक निष्कर्ष जैसा [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) माँगता है;
+- **अंतर-प्रणाली संसाधन उत्तरदायी-प्रबंधन आकलन:** निर्भर-प्रणाली मानचित्र और संसाधन-प्रवाह निष्कर्ष, [आनुपातिक अंतर-प्रणाली योगदान](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) पर्याप्तता निष्कर्ष, और अंतर-प्रणाली निष्पक्षता घटक निष्कर्ष जैसा [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) माँगता है जहाँ **अनुच्छेद IV** (*संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी तंत्र वित्त*) की तात्विकता ट्रिगर लागू हो;
+- **भेदभाव-निषेध आकलन:** भार-और-लाभ पैटर्न निष्कर्ष, संरक्षित-विशेषता और स्थानापन्न-भेदभाव निष्कर्ष, और सारभूत-निष्पक्षता घटक निष्कर्ष जैसा [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) माँगता है जहाँ **अनुच्छेद V-B** (*भेदभाव-निषेध*) की तात्विकता ट्रिगर लागू हो;
+- **सुगम्यता आकलन:** सारभूत-सहभागिता, अनुकूलन, और स्थानापन्न-द्वारा-इनकार-निषेध निष्कर्ष जैसा [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) माँगता है जहाँ **अनुच्छेद V-G** (*सुगम्यता*) की तात्विकता ट्रिगर लागू हो;
+- **शैक्षिक क्षमता और अधिगम-प्रणाली अखंडता आकलन:** क्षमता-निर्माण, पुनर्प्रशिक्षण-मार्ग, आकलन-पारदर्शिता, और अधिगम-प्रणाली चुनौती-योग्यता निष्कर्ष जैसा [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) माँगता है जहाँ **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) की तात्विकता ट्रिगर लागू हो;
+- **भरोसेमंदता और प्रणाली-भरोसा अखंडता आकलन:** विश्वसनीयता, मिथ्या-विश्वास, विकृत-प्रोत्साहन, चुनौती-पथ, और पुनर्प्राप्ति-अखंडता निष्कर्ष जैसा [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) माँगता है जहाँ **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) की तात्विकता ट्रिगर लागू हो;
 - **तकनीकी साक्ष्य और आश्वासन:** प्रमाणन या पुनर्प्रमाणन चक्र के लिए तकनीकी मानक, परीक्षण, माप, अनिश्चितता, सुरक्षा मार्जिन, विफलता ढंग, प्रतिगमन-परीक्षण और सुरक्षा-परीक्षण परिणाम, और तात्विक रूप से जिन साक्ष्य आधारों पर भरोसा किया गया;
 - **प्रभावित-पक्ष, पर्यावरणीय, और अखंडता समीक्षा:**
   - प्रभावित-पक्ष, अधिकार-तल, सुगम्यता, निर्भरता, और सहभागिता विचार;
-  - पारिस्थितिक उद्भासन, [पारिस्थितिक पदचिह्न](core_05_band_continuity.md#ecological-footprint) आरोपण, पर्यावरणीय-पूर्व शर्त निर्भरता, जीवनचक्र भार, पुनर्स्थापन कर्तव्य, और जहाँ तात्विक हो पर्यावरणीय-संरेखण घटक समीक्षा;
+  - पारिस्थितिक उद्भासन, [पारिस्थितिक पदचिह्न](../../core_05.040_band_continuity.md#ecological-footprint) आरोपण, पर्यावरणीय-पूर्व शर्त निर्भरता, जीवनचक्र भार, पुनर्स्थापन कर्तव्य, और जहाँ तात्विक हो पर्यावरणीय-संरेखण घटक समीक्षा;
   - कब्ज़ा, स्व-समीक्षा, प्रोत्साहन-संरेखण, साक्ष्य-नियंत्रण, और चुनौती-मार्ग जोखिम;
 - **मंच पर्यवेक्षण:** प्रत्येक घटक जारी करने, अंगीकार करने, संदर्भित करने, प्रमाणित करने, स्थगित करने, या समीक्षा करने वाला मंच-परिवार या प्राधिकार, [§14](#14-supervisory-sequence-and-contestability-chain) द्वारा अपेक्षित क्रम में कहा गया;
 - **प्रमाणन परिणाम और भरोसा सीमाएँ:**
@@ -106,19 +106,19 @@
 
 #### 11.2 अनुभाग-पार अभिलेख अपेक्षाएँ
 
-*साधारण शब्दों में: अभिलेख को भाग क के आकलन अनुभागों ने वास्तव में जो पाया वह झलकाना चाहिए — केवल अनुभाग शीर्षकों की सूची नहीं। यहाँ **क्षेत्र आकलन** [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) से [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) में भाग क की विषय-विशिष्ट जाँचों में से एक है — पारिस्थितिक पदचिह्न, अंतर-प्रणाली समर्थन, भेदभाव-निषेध, सुगम्यता, शैक्षिक क्षमता, या भरोसेमंदता — प्रत्येक केवल तब अपेक्षित जब उस विषय की तात्विकता ट्रिगर समीक्षाधीन प्रणाली पर लागू हो। यदि ऐसी जाँच अपेक्षित थी, उसके निष्कर्ष अभिलेख पर होने चाहिए।*
+*साधारण शब्दों में: अभिलेख को भाग क के आकलन अनुभागों ने वास्तव में जो पाया वह झलकाना चाहिए — केवल अनुभाग शीर्षकों की सूची नहीं। यहाँ **क्षेत्र आकलन** [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) से [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) में भाग क की विषय-विशिष्ट जाँचों में से एक है — पारिस्थितिक पदचिह्न, अंतर-प्रणाली समर्थन, भेदभाव-निषेध, सुगम्यता, शैक्षिक क्षमता, या भरोसेमंदता — प्रत्येक केवल तब अपेक्षित जब उस विषय की तात्विकता ट्रिगर समीक्षाधीन प्रणाली पर लागू हो। यदि ऐसी जाँच अपेक्षित थी, उसके निष्कर्ष अभिलेख पर होने चाहिए।*
 
 प्रमाणन अभिलेख को इनके आकलन निर्गम झलकाने चाहिए:
 
 - **संपूर्ण-प्रणाली आकलन** — [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) के अधीन तात्विक निष्कर्ष और अनुशासन, जहाँ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) के अधीन प्रणालीगत जोखिम दायरे में हो वहाँ जोखिम-आकलन और जोखिम-प्रकटीकरण निष्कर्ष सहित;
-- **प्रणाली वर्ग और संचालन** — [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional) और [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) के अधीन वर्ग आकलन, और [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional) और [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) के अधीन डेटा-प्रकार आकलन;
+- **प्रणाली वर्ग और संचालन** — [प्रणाली वर्गीकरण अभिलेख](../../core_05.040_band_continuity.md#system-classification-record-constitutional) और [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) के अधीन वर्ग आकलन, और [प्रणाली डेटा-प्रकार अभिलेख](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) और [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) के अधीन डेटा-प्रकार आकलन;
 - **क्षेत्र आकलन:**
-  - [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) जहाँ आरोपणीय पर्यावरणीय भार तात्विक हों;
-  - [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) जहाँ **अनुच्छेद IV** (*संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी तंत्र वित्त*) की तात्विकता ट्रिगर लागू हो;
-  - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) जहाँ **अनुच्छेद V-B** (*भेदभाव-निषेध*) की तात्विकता ट्रिगर लागू हो;
-  - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) जहाँ **अनुच्छेद V-G** (*सुगम्यता*) की तात्विकता ट्रिगर लागू हो;
-  - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) जहाँ **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) की तात्विकता ट्रिगर लागू हो;
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) जहाँ **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) की तात्विकता ट्रिगर लागू हो;
+  - [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) जहाँ आरोपणीय पर्यावरणीय भार तात्विक हों;
+  - [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) जहाँ **अनुच्छेद IV** (*संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी तंत्र वित्त*) की तात्विकता ट्रिगर लागू हो;
+  - [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) जहाँ **अनुच्छेद V-B** (*भेदभाव-निषेध*) की तात्विकता ट्रिगर लागू हो;
+  - [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) जहाँ **अनुच्छेद V-G** (*सुगम्यता*) की तात्विकता ट्रिगर लागू हो;
+  - [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) जहाँ **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) की तात्विकता ट्रिगर लागू हो;
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) जहाँ **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) की तात्विकता ट्रिगर लागू हो;
 - **अभिलेख अखंडता** — [§12](#12-transparency-auditability-and-contestability); और
 - **पर्यवेक्षी क्रम और चुनौती पथ** — [§14](#14-supervisory-sequence-and-contestability-chain)।
 
@@ -133,23 +133,23 @@
 जब नीचे की तात्विकता ट्रिगर **तात्विक रूप से प्रभावशाली प्रणाली** पर लागू हों, प्रमाणन अभिलेख को **अधिकार-तल का आकलन** दिखाना चाहिए, केवल संचालक दावा या कागज़ी अनुपालन नहीं:
 
 - **उत्तरजीविता आवश्यक चीज़ें, शिक्षा, और सुरक्षित स्थितियाँ:**
-  - लागू होता है जब प्रणाली उत्तरजीविता आवश्यक चीज़ें, समान शैक्षिक पहुँच, या [**सुरक्षित स्थितियाँ**](core_05_band_continuity.md#safe-conditions-constitutional) की आपूर्ति, आवंटन, मूल्य निर्धारण, मेजबानी, या पहुँच समाप्त करे;
+  - लागू होता है जब प्रणाली उत्तरजीविता आवश्यक चीज़ें, समान शैक्षिक पहुँच, या [**सुरक्षित स्थितियाँ**](../../core_05.040_band_continuity.md#safe-conditions-constitutional) की आपूर्ति, आवंटन, मूल्य निर्धारण, मेजबानी, या पहुँच समाप्त करे;
   - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद III-A** (*उत्तरजीविता*), **अनुच्छेद III-B** (*समान शैक्षिक पहुँच*), **अनुच्छेद XIII-A** (*विश्वसनीयता और भरोसेमंदता आधाररेखा*), और संबंधित अध्याय छह प्रावधानों के अधीन उन तलों को बंद या तात्विक रूप से घटाएगा या नहीं;
 - **अंतर-प्रणाली संसाधन उत्तरदायी प्रबंधन:**
   - लागू होता है जब प्रणाली साझा आधारिक संरचना या आधारभूत निर्भरताओं से तात्विक रूप से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षण करे जिन पर अन्य प्रणालियाँ या संज्ञ प्राणी निर्भर हों;
-  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद IV-A** (*निर्भरता मानचित्रण और संसाधन-प्रवाह पारदर्शिता*) या **अनुच्छेद IV-B** (*अंतर-प्रणाली निष्पक्षता और सततता*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) माँगता है;
+  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद IV-A** (*निर्भरता मानचित्रण और संसाधन-प्रवाह पारदर्शिता*) या **अनुच्छेद IV-B** (*अंतर-प्रणाली निष्पक्षता और सततता*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) माँगता है;
 - **भेदभाव-निषेध:**
   - लागू होता है जब प्रणाली संज्ञ प्राणियों के बीच तात्विक रूप से वर्गीकृत, क्रमबद्ध, मूल्य निर्धारित, द्वार लगाए, अपवर्जित, या भार और लाभ आवंटित करे — पात्रता नियम, मॉडल विशेषताएँ, क्रम तर्क, प्लेटफ़ॉर्म नीति, या तुलनीय निर्णय मार्गों सहित;
-  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद V-B** (*भेदभाव-निषेध*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) माँगता है;
+  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद V-B** (*भेदभाव-निषेध*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) माँगता है;
 - **सुगम्यता और सहभागिता:**
   - लागू होता है जब प्रणाली संवैधानिक रूप से प्रासंगिक क्षेत्रों में सारभूत सहभागिता पर तात्विक रूप से द्वार लगाए — शासन, प्रभावित-पक्ष सहभागिता, न्यायनिर्णयन, संचालन, उत्तरजीविता-तल पहुँच, स्वास्थ्य देखभाल पहुँच, अभिव्यक्ति, सभा, प्रेस, या तुलनीय क्षेत्र सहित — इंटरफ़ेस, स्थल, समय-सारणी, प्रमाण-पत्र, संगणन पहुँच, अनुकूलन डिज़ाइन, या तुलनीय सहभागिता मार्गों के माध्यम से;
-  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद V-G** (*सुगम्यता*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) माँगता है;
+  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद V-G** (*सुगम्यता*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) माँगता है;
 - **शैक्षिक क्षमता:**
   - लागू होता है जब प्रणाली शैक्षिक या प्रशिक्षण संदर्भों में संज्ञ प्राणियों को तात्विक रूप से क्रमबद्ध, आँके, सुझाए, रखे, या प्रमाण-द्वार लगाए — या जहाँ योग्यता अपेक्षाएँ तात्विक रूप से बदली हों वहाँ पुनर्प्रशिक्षण, सतत शिक्षा, या संक्रमण-समर्थन मार्गों पर तात्विक रूप से द्वार लगाए;
-  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) माँगता है;
+  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) माँगता है;
 - **भरोसेमंदता और भरोसा:**
   - लागू होता है जब प्रणाली दर्शाए गए आचरण, सीमाओं, जोखिमों, चुनौती पथों, या उपचार पर संज्ञ भरोसे को तात्विक रूप से आकार दे — विश्वसनीयता दावे, प्रकटीकरण मुद्रा, प्रोत्साहन डिज़ाइन, पुनर्प्राप्ति प्रथाएँ, या तुलनीय भरोसा मार्गों सहित;
-  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) माँगता है।
+  - अभिलेख को आँकना चाहिए कि पहचान या जारी भरोसा **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) को बंद या तात्विक रूप से घटाएगा या नहीं, जैसा [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) माँगता है।
 
 <a id="12-transparency-auditability-and-contestability"></a>
 
@@ -158,9 +158,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: [§11](#11-certification-record) (*अभिलेख अंतर्वस्तु*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation), और [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*वर्ग, डेटा, पदचिह्न, अंतर-प्रणाली समर्थन, भेदभाव-निषेध, सुगम्यता, शैक्षिक-क्षमता, और भरोसेमंदता आकलन निवेश*); निगरानी मापन परिवार (*संवैधानिक मापन के रूप में सत्य और ज्ञानमीमांसीय अखंडता*); समयबद्धता मापन परिवार (*समयबद्ध समाधान और देरी-निरोध अनुशासन*); अध्याय दो से चार (*भार, अनुरेख, सत्यापन, और साक्ष्य संरक्षण*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **निगरानी**, **जवाबदेही**, **सहभागिता**, और **समयबद्धता**; [**Def.O1** *पारदर्शिता, लेखापरीक्षा-योग्यता, और सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [चुनौती-योग्यता](core_05_band_accountability.md#contestability)।
+- ऊर्ध्व: [§11](#11-certification-record) (*अभिलेख अंतर्वस्तु*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation), और [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*वर्ग, डेटा, पदचिह्न, अंतर-प्रणाली समर्थन, भेदभाव-निषेध, सुगम्यता, शैक्षिक-क्षमता, और भरोसेमंदता आकलन निवेश*); निगरानी मापन परिवार (*संवैधानिक मापन के रूप में सत्य और ज्ञानमीमांसीय अखंडता*); समयबद्धता मापन परिवार (*समयबद्ध समाधान और देरी-निरोध अनुशासन*); अध्याय दो से चार (*भार, अनुरेख, सत्यापन, और साक्ष्य संरक्षण*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **निगरानी**, **जवाबदेही**, **सहभागिता**, और **समयबद्धता**; [**Def.O1** *पारदर्शिता, लेखापरीक्षा-योग्यता, और सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [चुनौती-योग्यता](../../core_05.035_band_accountability.md#contestability)।
 - अधो: [§14](#14-supervisory-sequence-and-contestability-chain) (*पर्यवेक्षी क्रम और चुनौती-योग्यता शृंखला*); [§15](#15-relationship-to-standing) (*सत्यापित-निवेश द्वार*); [अध्याय ग्यारह §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*मंच मामला अभिलेख, प्रस्थिति-अभिलेख चुनौतियाँ*); [अध्याय ग्यारह §5](core_11_forum.md#5-escalation-and-certification) (*उन्नयन और प्रमाणन विस्तार*)।
-- साथ पढ़ें: [अनुच्छेद XVI: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [अनुच्छेद XIII-B: चुनौती, समीक्षा और उपचार का अधिकार](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [साक्ष्य संरक्षण](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — सूचना प्रकार और संचालन** और **CS-3 — प्रणाली वर्गीकरण और संचालन**; **CJS-3.4** (*स्तरीय पारदर्शिता और लेखापरीक्षा-पहुँच शर्तें*)।
+- साथ पढ़ें: [अनुच्छेद XVI: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [अनुच्छेद XIII-B: चुनौती, समीक्षा और उपचार का अधिकार](core_06_rights_part_c.md); [साक्ष्य संरक्षण](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — सूचना प्रकार और संचालन** और **CS-3 — प्रणाली वर्गीकरण और संचालन**; **CJS-3.4** (*स्तरीय पारदर्शिता और लेखापरीक्षा-पहुँच शर्तें*)।
 
 </details>
 
@@ -169,7 +169,7 @@
 
 - [पारदर्शिता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [चुनौती-योग्यता](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -177,7 +177,7 @@
 
 *साधारण शब्दों में: प्रमाणन अभिलेख तभी काम करता है जब संज्ञ प्राणी उसे पढ़, सत्यापित, और गलत होने पर पीछे धकेल सकें। यह अनुभाग वे तीन अपेक्षाएँ — पारदर्शिता, लेखापरीक्षा-योग्यता, और चुनौती-योग्यता — सीधे अभिलेख पर रखता है, अमूर्त आदर्श के रूप में नहीं। **निगरानी** चतुष्क टाँग के अधीन, निगरानी को लेखापरीक्षा चाहिए; प्रणाली-संरेखण प्रमाणन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया है जिसे वे तल यहाँ पूरे करने चाहिए — वह **अनुच्छेद XVI** या सहोदर लेखापरीक्षा ढंगों का स्वामी या स्थानापन्न नहीं है।*
 
-यह अनुभाग [पारदर्शिता](core_05_band_oversight.md#transparency), [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability), और [चुनौती-योग्यता](core_05_band_accountability.md#contestability) को प्रणाली-संरेखण प्रमाणन अभिलेखों पर लागू करता है। प्रामाणिक पद घर और स्वामी सीमाएँ [प्रस्तावना — सकारात्मक स्वामी पंजी](core_00_preamble.md#4-principles-definitions-and-rights) और [प्राधिकार ढेर और आंतरिक पदानुक्रम](core_05_band_integrative.md#owner-non-relocation) के अधीन हैं। [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) के अधीन:
+यह अनुभाग [पारदर्शिता](core_05_band_oversight.md#transparency), [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability), और [चुनौती-योग्यता](../../core_05.035_band_accountability.md#contestability) को प्रणाली-संरेखण प्रमाणन अभिलेखों पर लागू करता है। प्रामाणिक पद घर और स्वामी सीमाएँ [प्रस्तावना — सकारात्मक स्वामी पंजी](core_00_preamble.md#4-principles-definitions-and-rights) और [प्राधिकार ढेर और आंतरिक पदानुक्रम](core_05_band_integrative.md#owner-non-relocation) के अधीन हैं। [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) के अधीन:
 
 - **पारदर्शिता** और **लेखापरीक्षा-योग्यता** **निगरानी** लागू करती हैं;
 - **चुनौती-योग्यता** **जवाबदेही** लागू करती है और चुनौती पथों में **सहभागिता** बचाती है;
@@ -201,7 +201,7 @@
 
 - प्रमाणन अभिलेख अध्याय दो से चार और [साक्ष्य संरक्षण](core_05_band_oversight.md#evidence-preservation) के अधीन आरोपणीय, पुनर्निर्माण-योग्य, और स्वतंत्र रूप से समीक्षा-योग्य होना चाहिए;
 - उसे पहचानना चाहिए:
-  - किसने प्रत्येक तात्विक घटक जारी, अंगीकार, संदर्भित, प्रमाणित, [स्थगित](core_05_band_accountability.md#stay), या समीक्षा किया;
+  - किसने प्रत्येक तात्विक घटक जारी, अंगीकार, संदर्भित, प्रमाणित, [स्थगित](../../core_05.035_band_accountability.md#stay), या समीक्षा किया;
   - किन साक्ष्य पर तात्विक रूप से भरोसा किया गया;
   - संस्करणों के बीच क्या बदला;
 - लेखापरीक्षा दायरा यह जाँचने के लिए पर्याप्त होना चाहिए कि अभिलेखित परिणाम अभिलेखित साक्ष्य और पूर्वधारणाओं से निकलता है या नहीं;
@@ -220,7 +220,7 @@
 - चुनौती तंत्र कार्यात्मक और सुगम होने चाहिए, औपचारिक नहीं;
 - चुनौती को सक्षम होना चाहिए:
   - समीक्षा पुनर्खोलने;
-  - जहाँ तात्विक त्रुटि या अखंडता जोखिम विश्वसनीय रूप से दिखे वहाँ भरोसा [स्थगित](core_05_band_accountability.md#stay) या सीमित करने;
+  - जहाँ तात्विक त्रुटि या अखंडता जोखिम विश्वसनीय रूप से दिखे वहाँ भरोसा [स्थगित](../../core_05.035_band_accountability.md#stay) या सीमित करने;
   - चुनौती बिंदु पर वैध गुण प्राधिकार वाले मंच-परिवार तक मार्गित करने;
 - चुनौती-योग्यता कर्तव्य प्रणाली वर्ग और तात्विक प्रभाव के साथ स्केल करते हैं;
 - वे इसलिए गायब नहीं होते कि प्रणाली को प्रयोगात्मक, आंतरिक, व्यक्तिगत, पृथक, या केवल-तकनीकी कहा गया जहाँ तात्विक प्रभाव मौजूद हो।
@@ -260,30 +260,30 @@
 
 - **तकनीकी मंच** — तकनीकी टुकड़ा:
   - अपने वैध दायरे में तकनीकी विनिर्देश, मापन विधियाँ, परीक्षण प्रोटोकॉल, विशेषज्ञ-साक्ष्य मानक, अनिश्चितता-कमी विधियाँ, और तकनीकी पर्याप्तता निष्कर्ष बनाए और लागू करें;
-  - प्रमाणन अभिलेख के लिए **घटक निष्कर्ष** दें, [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) और [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) के अधीन वर्ग-स्केल आश्वासन और डेटा-संचालन आधारिक निष्कर्ष सहित;
-  - [संज्ञता-स्थिति न्यायनिर्णयन](core_05_band_participation.md#sentience-status-adjudication-constitutional) घटक भूमिका रखें — संकेतक आकलन, विशेषज्ञ साक्ष्य, और सीमाबद्ध अनिश्चितता — जहाँ प्रमाणन तात्विक रूप से यह निहित करे कि अधिकार, प्रस्थिति, या संरक्षण उद्देश्यों के लिए कौन **संज्ञ** गिना जाता है, [अनुच्छेद V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*संज्ञता-स्थिति न्यायनिर्णयन तल*) और [अध्याय ग्यारह §4.2](core_11_forum.md#42-technical-forum-domains) / [§5](core_11_forum.md#5-escalation-and-certification) (*संज्ञता-स्थिति न्यायनिर्णयन* हुक) के साथ डिफ़ॉल्ट नेतृत्व के रूप में सुसंगत; जब अध्याय ग्यारह माँगे तो उस हुक के अधीन अखंडता, संस्थागत, या संवैधानिक विशेष मार्ग संदर्भित करें।
+  - प्रमाणन अभिलेख के लिए **घटक निष्कर्ष** दें, [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) और [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) के अधीन वर्ग-स्केल आश्वासन और डेटा-संचालन आधारिक निष्कर्ष सहित;
+  - [संज्ञता-स्थिति न्यायनिर्णयन](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) घटक भूमिका रखें — संकेतक आकलन, विशेषज्ञ साक्ष्य, और सीमाबद्ध अनिश्चितता — जहाँ प्रमाणन तात्विक रूप से यह निहित करे कि अधिकार, प्रस्थिति, या संरक्षण उद्देश्यों के लिए कौन **संज्ञ** गिना जाता है, [अनुच्छेद V-E](core_06_rights_part_b.md) (*संज्ञता-स्थिति न्यायनिर्णयन तल*) और [अध्याय ग्यारह §4.2](core_11_forum.md#42-technical-forum-domains) / [§5](core_11_forum.md#5-escalation-and-certification) (*संज्ञता-स्थिति न्यायनिर्णयन* हुक) के साथ डिफ़ॉल्ट नेतृत्व के रूप में सुसंगत; जब अध्याय ग्यारह माँगे तो उस हुक के अधीन अखंडता, संस्थागत, या संवैधानिक विशेष मार्ग संदर्भित करें।
 - **अखंडता मंच** — डिफ़ॉल्ट नेतृत्व समन्वय:
   - आधिकारिक संवैधानिक संरेखण पहचान और चलती संरेखण वैधीकरण का नेतृत्व करें जब तक अध्याय ग्यारह भिन्न प्राथमिक दाँव न आवंटित करे;
   - जहाँ तात्विक रूप से लागू हों वहाँ तकनीकी-मंच मानक इस्तेमाल करें;
-  - अन्य मंच-परिवारों के घटक प्रश्न संदर्भित, प्रमाणित, या [स्थगित](core_05_band_accountability.md#stay) करें, जैसा [§14](#14-supervisory-sequence-and-contestability-chain) माँगता है।
+  - अन्य मंच-परिवारों के घटक प्रश्न संदर्भित, प्रमाणित, या [स्थगित](../../core_05.035_band_accountability.md#stay) करें, जैसा [§14](#14-supervisory-sequence-and-contestability-chain) माँगता है।
 - **पर्यावरण मंच** — जब पारिस्थितिकी मायने रखे तब पर्यावरणीय संरेखण:
   - जहाँ तात्विक पारिस्थितिक उद्भासन, पर्यावरणीय-पूर्व शर्त निर्भरता, जीवनचक्र भार, पुनर्स्थापन कर्तव्य, या उचित रूप से पूर्वानुमेय पारिस्थितिक जोखिम हो वहाँ पर्यावरणीय-संरेखण घटक भूमिका रखें;
-  - जहाँ आरोपणीय पर्यावरणीय भार तात्विक हों वहाँ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) के अधीन [पारिस्थितिक पदचिह्न](core_05_band_continuity.md#ecological-footprint) आरोपण, प्रकटीकरण, और तुलना शामिल करें।
+  - जहाँ आरोपणीय पर्यावरणीय भार तात्विक हों वहाँ [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) के अधीन [पारिस्थितिक पदचिह्न](../../core_05.040_band_continuity.md#ecological-footprint) आरोपण, प्रकटीकरण, और तुलना शामिल करें।
 - **संज्ञ मंच** — गैर-संस्थागत प्रभावित-पक्ष प्रश्न:
   - प्रभावित-पक्ष प्रभाव और समुदाय-कर्तव्य घटक भूमिकाएँ केवल वहाँ रखें जहाँ अध्याय ग्यारह प्राथमिक-दाँव मार्गन मामले को संज्ञ मंचों में रखे — सामान्यतः संज्ञ-से-संज्ञ या समुदाय-शासन प्रश्न जहाँ **कोई संस्था आवश्यक पक्ष नहीं**;
-  - जहाँ [संज्ञता-स्थिति न्यायनिर्णयन](core_05_band_participation.md#sentience-status-adjudication-constitutional) तकनीकी डिफ़ॉल्ट नेतृत्व के अधीन चले वहाँ प्रभावित-पक्ष सहभागिता पर सहायता या संदर्भ प्राप्त कर सकते हैं, पर डिफ़ॉल्ट रूप से वह न्यायनिर्णयन घटक भूमिका **नहीं** रखते;
+  - जहाँ [संज्ञता-स्थिति न्यायनिर्णयन](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) तकनीकी डिफ़ॉल्ट नेतृत्व के अधीन चले वहाँ प्रभावित-पक्ष सहभागिता पर सहायता या संदर्भ प्राप्त कर सकते हैं, पर डिफ़ॉल्ट रूप से वह न्यायनिर्णयन घटक भूमिका **नहीं** रखते;
   - जब कोई संस्था, संस्थागत संचालक, या संस्थागत अधिदेश आवश्यक पक्ष या प्राथमिक दाँव हो तब प्रणाली-संरेखण के लिए डिफ़ॉल्ट अधिकार-तल घटक भूमिका **नहीं** रखते; वे प्रश्न नीचे **संस्थागत** के अधीन मार्गित होते हैं।
 - **संस्थागत मंच** — जब संस्थाएँ चित्र में हों तब संस्थागत अधिदेश और अधिकार-तल घटक प्रश्न:
   - जहाँ वे दाँव प्रमाणन में उठें वहाँ संस्थागत अधिदेश, पर्यवेक्षित दायरा, वर्गीकरण, और संस्थागत-कर्तव्य अनुपालन के लिए घटक प्राधिकार रखें;
   - तय करें कि प्रमाणन संवैधानिक रूप से संरक्षित तलों को बचाएगा या हराएगा जब वे तल तात्विक रूप से निहित हों और कोई संस्था आवश्यक पक्ष हो, संचालक या उत्तरदायी प्रबंधक संस्थागत हो, या संस्थागत अधिदेश या पर्यवेक्षित अनुपालन प्राथमिक दाँव हो, सहित:
     - **अनुच्छेद III-A** (*उत्तरजीविता*) के अधीन **उत्तरजीविता आवश्यक चीज़ें**;
     - **अनुच्छेद III-B** (*समान शैक्षिक पहुँच*) के अधीन **शैक्षिक पहुँच**;
-    - **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) के अधीन **संज्ञ-केंद्रित शिक्षा क्षमता** — जहाँ वह तात्विकता ट्रिगर लागू हो वहाँ [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) के अधीन आकलन सहित;
-    - **अनुच्छेद V-B** (*भेदभाव-निषेध*) के अधीन **भेदभाव-निषेध तल** — जहाँ वह तात्विकता ट्रिगर लागू हो वहाँ [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) के अधीन आकलन सहित;
-    - **अनुच्छेद V-G** (*सुगम्यता*) के अधीन **सुगम्यता तल** — जहाँ वह तात्विकता ट्रिगर लागू हो वहाँ [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) के अधीन आकलन सहित;
-    - **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) के अधीन **विश्वसनीय और भरोसेमंद प्रणाली आचरण** — जहाँ वह तात्विकता ट्रिगर लागू हो वहाँ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) के अधीन आकलन सहित;
-    - **अनुच्छेद IV** (*संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी तंत्र वित्त*) के अधीन **संसाधन-आवंटन और निर्भरता तल** — जहाँ तात्विक रूप से निहित हो वहाँ [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) के अधीन [आनुपातिक अंतर-प्रणाली योगदान](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) सहित;
-    - **अनुच्छेद XIII-A** (*विश्वसनीयता और भरोसेमंदता आधाररेखा*) और [**सुरक्षित स्थितियाँ**](core_05_band_continuity.md#safe-conditions-constitutional) के अधीन **सुरक्षा-संबंधी तल** जहाँ तात्विक रूप से निहित हों।
+    - **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) के अधीन **संज्ञ-केंद्रित शिक्षा क्षमता** — जहाँ वह तात्विकता ट्रिगर लागू हो वहाँ [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) के अधीन आकलन सहित;
+    - **अनुच्छेद V-B** (*भेदभाव-निषेध*) के अधीन **भेदभाव-निषेध तल** — जहाँ वह तात्विकता ट्रिगर लागू हो वहाँ [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) के अधीन आकलन सहित;
+    - **अनुच्छेद V-G** (*सुगम्यता*) के अधीन **सुगम्यता तल** — जहाँ वह तात्विकता ट्रिगर लागू हो वहाँ [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) के अधीन आकलन सहित;
+    - **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) के अधीन **विश्वसनीय और भरोसेमंद प्रणाली आचरण** — जहाँ वह तात्विकता ट्रिगर लागू हो वहाँ [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) के अधीन आकलन सहित;
+    - **अनुच्छेद IV** (*संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी तंत्र वित्त*) के अधीन **संसाधन-आवंटन और निर्भरता तल** — जहाँ तात्विक रूप से निहित हो वहाँ [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) के अधीन [आनुपातिक अंतर-प्रणाली योगदान](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) सहित;
+    - **अनुच्छेद XIII-A** (*विश्वसनीयता और भरोसेमंदता आधाररेखा*) और [**सुरक्षित स्थितियाँ**](../../core_05.040_band_continuity.md#safe-conditions-constitutional) के अधीन **सुरक्षा-संबंधी तल** जहाँ तात्विक रूप से निहित हों।
 - **संवैधानिक** और अन्य नियमित मंच-परिवार — संवैधानिक और अवशिष्ट दाँव:
   - संवैधानिक वैधता, अर्थ, वर्ग-व्यापी संरचनात्मक उपचार, या अन्य प्राथमिक-दाँव प्रश्नों के लिए आवंटित घटक प्राधिकार रखें जिन्हें अध्याय ग्यारह ऊपर के परिवारों के बाहर आवंटित करे;
   - प्रमाणन प्रक्रिया तकनीकी विशेषज्ञता या अखंडता समन्वय को वे आवंटित गुण भूमिकाएँ विस्थापित नहीं करने दे सकती।
@@ -297,7 +297,7 @@
 
 - ऊर्ध्व: [§11](#11-certification-record) (*अभिलेख अंतर्वस्तु*); [§12](#12-transparency-auditability-and-contestability) (*अभिलेख अखंडता अपेक्षाएँ*); [§13](#13-forum-supervision-and-component-roles) (*घटक भूमिका आवंटन*); समयबद्धता मापन परिवार (*समयबद्ध समाधान और देरी-निरोध अनुशासन*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभागिता**, **निगरानी**, **जवाबदेही**, और **समयबद्धता**; [अध्याय ग्यारह §4](core_11_forum.md#4-forum-family-definitions) (*अखंडता-नेतृत्व संरेखण पहचान, घटक संदर्भ, और वैधीकरण*); [अध्याय ग्यारह §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*अखंडता-नेतृत्व संरेखण समन्वय और स्व-निर्णय-निषेध*)।
 - अधो: [§15](#15-relationship-to-standing) (*सत्यापित-निवेश द्वार*); [§16](#16-reopening-drift-and-non-evasion) (*पुनर्खोल ट्रिगर*); [अध्याय ग्यारह §5](core_11_forum.md#5-escalation-and-certification) (*परिवार-से-परिवार उन्नयन और संवैधानिक प्रमाणन*)।
-- साथ पढ़ें: अध्याय ग्यारह §1 के अधीन [विवाद अनुक्रम](core_11_forum.md#dispute-sequencing); [प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** और **CF-7**; [अनुच्छेद XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*चुनौती, समीक्षा और उपचार का अधिकार*)।
+- साथ पढ़ें: अध्याय ग्यारह §1 के अधीन [विवाद अनुक्रम](core_11_forum.md#dispute-sequencing); [प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** और **CF-7**; [अनुच्छेद XIII-B](core_06_rights_part_c.md) (*चुनौती, समीक्षा और उपचार का अधिकार*)।
 
 </details>
 
@@ -328,12 +328,12 @@
 
 1. **नेतृत्व समन्वय:** एक **अखंडता** मंच आधिकारिक संवैधानिक संरेखण पहचान, वैधीकरण, पुनर्वैधता, वापसी, या गैर-पहचान के लिए एक समन्वित प्रमाणन अभिलेख बनाए रखता है जब तक अध्याय ग्यारह प्राथमिक दाँव के लिए भिन्न वैध नेतृत्व न आवंटित करे।
 2. **घटक निष्कर्ष:** तकनीकी, पर्यावरण, संस्थागत, संज्ञ, संवैधानिक, और अन्य आवंटित मंच-परिवार अपने वैध गुण प्राधिकार के भीतर सीमाबद्ध घटक निष्कर्ष बनाते हैं:
-   - **तकनीकी मंच** विनिर्देश, विधियाँ, परीक्षण, और तकनीकी पर्याप्तता निष्कर्ष देते हैं — जहाँ [§13](#13-forum-supervision-and-component-roles) वह दाँव आवंटित करे वहाँ [संज्ञता-स्थिति न्यायनिर्णयन](core_05_band_participation.md#sentience-status-adjudication-constitutional) घटक निष्कर्ष सहित;
-   - **पर्यावरण मंच** जहाँ तात्विक पारिस्थितिक उद्भासन हो वहाँ अपेक्षित पर्यावरणीय-संरेखण घटक निष्कर्ष देते हैं — जहाँ आरोपणीय पर्यावरणीय भार तात्विक हों वहाँ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) के अधीन [पारिस्थितिक पदचिह्न](core_05_band_continuity.md#ecological-footprint) आकलन सहित;
+   - **तकनीकी मंच** विनिर्देश, विधियाँ, परीक्षण, और तकनीकी पर्याप्तता निष्कर्ष देते हैं — जहाँ [§13](#13-forum-supervision-and-component-roles) वह दाँव आवंटित करे वहाँ [संज्ञता-स्थिति न्यायनिर्णयन](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) घटक निष्कर्ष सहित;
+   - **पर्यावरण मंच** जहाँ तात्विक पारिस्थितिक उद्भासन हो वहाँ अपेक्षित पर्यावरणीय-संरेखण घटक निष्कर्ष देते हैं — जहाँ आरोपणीय पर्यावरणीय भार तात्विक हों वहाँ [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) के अधीन [पारिस्थितिक पदचिह्न](../../core_05.040_band_continuity.md#ecological-footprint) आकलन सहित;
    - **संस्थागत मंच** जहाँ [§13](#13-forum-supervision-and-component-roles) वे दाँव आवंटित करे वहाँ अपेक्षित संस्थागत-अधिदेश और अधिकार-तल घटक निष्कर्ष देते हैं;
    - **संज्ञ मंच** जहाँ अध्याय ग्यारह वे दाँव संज्ञ मंचों में रखे वहाँ गैर-संस्थागत प्रभावित-पक्ष प्रभाव निष्कर्ष देते हैं;
    - **संवैधानिक** और अन्य आवंटित मंच-परिवार अध्याय ग्यारह द्वारा उन्हें आवंटित दाँवों के लिए घटक निष्कर्ष देते हैं।
-3. **संदर्भ, प्रमाणन, और स्थगन:** नेतृत्व मंच को ऐसे घटक प्रश्न संदर्भित, प्रमाणित, या [स्थगित](core_05_band_accountability.md#stay) करने चाहिए जो मुख्यतः दूसरे मंच-परिवार में रहते हैं। वह प्रमाणन समाप्त — या शर्तें पर्याप्त रूप से उठाई गई — नहीं कह सकता जबकि दूसरे मंच-परिवार का आवंटित काम अधूरा हो। उस अधूरे काम में शामिल है:
+3. **संदर्भ, प्रमाणन, और स्थगन:** नेतृत्व मंच को ऐसे घटक प्रश्न संदर्भित, प्रमाणित, या [स्थगित](../../core_05.035_band_accountability.md#stay) करने चाहिए जो मुख्यतः दूसरे मंच-परिवार में रहते हैं। वह प्रमाणन समाप्त — या शर्तें पर्याप्त रूप से उठाई गई — नहीं कह सकता जबकि दूसरे मंच-परिवार का आवंटित काम अधूरा हो। उस अधूरे काम में शामिल है:
    - अपेक्षित निष्कर्ष;
    - आपत्ति;
    - उपचार शर्त; या
@@ -352,7 +352,7 @@
 <a id="142-contestability-paths"></a>
 **चुनौती-योग्यता पथ।** प्रणाली प्रमाणन अभिलेख को ये चुनौती पथ नाम देने चाहिए। वे प्रमाणन अभिलेखों के लिए विवाद अनुक्रम लागू करते हैं। वे मंच-परिवार नहीं हैं और अध्याय ग्यारह मार्गन का स्थान नहीं लेते।
 
-- **प्रकाशित अभिलेख चुनौती पथ** — प्रमाणन अभिलेख के बारे में साधारण विवाद के लिए साधारण पहला चरण। अभिलेख [प्रभावित पक्षों की प्रणालीगत सहभागिता](core_05_band_participation.md#stakeholder-status-and-weight-cluster) चुनौती सीट नाम देता है:
+- **प्रकाशित अभिलेख चुनौती पथ** — प्रमाणन अभिलेख के बारे में साधारण विवाद के लिए साधारण पहला चरण। अभिलेख [प्रभावित पक्षों की प्रणालीगत सहभागिता](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) चुनौती सीट नाम देता है:
   - चुनौती कौन प्राप्त करता है;
   - उसे कैसे दाखिल करें; और
   - कि **अनुच्छेद XXV-C** (*समयबद्ध समाधान और देरी-निरोध तल*) की घड़ियाँ प्राप्ति से चलती हैं।
@@ -367,10 +367,10 @@
 चुनौती-योग्यता शृंखला उन पथों को इस क्रम में इस्तेमाल करती है:
 
 1. **अभिलेख चुनौती** (प्रकाशित अभिलेख चुनौती पथ)। प्रभावित पक्ष [§12](#12-transparency-auditability-and-contestability) के अधीन प्रमाणन-अभिलेख अंतर्वस्तु, दायरा, वर्गीकरण पूर्वधारणाएँ, साक्ष्य भरोसा, परिणाम, भरोसा सीमाएँ, या पर्यवेक्षी अखंडता चुनौती दे सकते हैं। यदि वह पथ अभी भी विवादित, गायब, कब्ज़ा किया, या आवश्यक राहत न दे सके, अध्याय ग्यारह प्राथमिक दाँव से मार्गित करता है।
-2. **घटक चुनौती** (घटक मंच पथ)। घटक निष्कर्ष तक सीमित चुनौती उस घटक पर गुण प्राधिकार वाले मंच-परिवार तक जाती है। नेतृत्व मंच समयबद्ध समीक्षा लंबित चुनौती किए गए घटक पर भरोसा [स्थगित](core_05_band_accountability.md#stay) कर सकता है।
+2. **घटक चुनौती** (घटक मंच पथ)। घटक निष्कर्ष तक सीमित चुनौती उस घटक पर गुण प्राधिकार वाले मंच-परिवार तक जाती है। नेतृत्व मंच समयबद्ध समीक्षा लंबित चुनौती किए गए घटक पर भरोसा [स्थगित](../../core_05.035_band_accountability.md#stay) कर सकता है।
 3. **नेतृत्व-समन्वय चुनौती** (नेतृत्व-अखंडता पथ)। नेतृत्व मंच ने प्रक्रिया कैसे चलाई इस चुनौती का मार्गन [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) अखंडता और स्व-निर्णय-निषेध नियमों के अधीन होता है। इसमें कब्ज़ा, छिपी जानकारी, स्व-समीक्षा, दुरुपयोगी चरण-क्रम, प्रमाणन बहुत जल्दी समाप्त कहना, या अन्य नेतृत्व-मंच अखंडता समस्याएँ शामिल हैं। जब चुनौती उस नेतृत्व मंच के अपने पक्षपात, कब्ज़ा, संघर्ष, या प्रक्रिया दुरुपयोग को निशाना बनाए, उन नियमों के अधीन बैकअप मार्गन लागू होता है ताकि समीक्षा उसी नेतृत्व मंच तक सीमित न रहे।
 4. **उन्नयन और प्रमाणन** (उन्नयन पथ)। जहाँ प्राथमिक दाँव, संवैधानिक वैधता, संरचनात्मक उपचार, परिवार गतिरोध, या स्व-निर्णय-निषेध सुरक्षा माँगे, चुनौती मार्गन अध्याय ग्यारह स्थानांतरण, प्रमाणन, बैकअप मार्गन, और परिवार-से-परिवार उन्नयन से जारी रहता है।
-5. **चुनौती के दौरान भरोसा सीमाएँ:** तात्विक और समयबद्ध चुनौती प्रमाणन अभिलेख पर भरोसा उस हद तक सीमित या रोक सकती है जितना पूर्वानुमेय हानि रोकने, साक्ष्य बचाने, या विवादित निष्कर्ष पर अपरिवर्तनीय निर्भरता रोकने के लिए आवश्यक हो, [अनुच्छेद XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*समयबद्ध समाधान और देरी-निरोध तल*) के अधीन शीघ्र समीक्षा के अधीन।
+5. **चुनौती के दौरान भरोसा सीमाएँ:** तात्विक और समयबद्ध चुनौती प्रमाणन अभिलेख पर भरोसा उस हद तक सीमित या रोक सकती है जितना पूर्वानुमेय हानि रोकने, साक्ष्य बचाने, या विवादित निष्कर्ष पर अपरिवर्तनीय निर्भरता रोकने के लिए आवश्यक हो, [अनुच्छेद XXV-C](core_06_rights_part_d.md) (*समयबद्ध समाधान और देरी-निरोध तल*) के अधीन शीघ्र समीक्षा के अधीन।
 
 प्रमाणन अभिलेख को चुनौती-योग्यता शृंखला — प्रभावित पक्ष प्रत्येक चरण पर कैसे चुनौती दे सकते हैं — और नामित चुनौती-योग्यता पथ कहने चाहिए।
 
@@ -389,7 +389,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: [§11](#11-certification-record) से [§13](#13-forum-supervision-and-component-roles) (*प्रमाणन अभिलेख और मंच पर्यवेक्षण*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims); [प्रस्थिति के लिए सत्यापित निवेश](core_05_band_accountability.md#verified-inputs-for-standing)।
+- ऊर्ध्व: [§11](#11-certification-record) से [§13](#13-forum-supervision-and-component-roles) (*प्रमाणन अभिलेख और मंच पर्यवेक्षण*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims); [प्रस्थिति के लिए सत्यापित निवेश](../../core_05.035_band_accountability.md#verified-inputs-for-standing)।
 - अधो: [अध्याय आठ](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*प्रस्थिति अभिलेख और सत्यापित-निवेश द्वार*); [अध्याय नौ](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) (*प्रस्थिति प्रभाव और एकीकरण*)।
 - साथ पढ़ें: **अनुच्छेद III-A** (*उत्तरजीविता-आवश्यक पहुँच जहाँ प्रमाणन वितरण द्वार लगाए*)।
 
@@ -407,13 +407,13 @@
 **सत्यापित-निवेश द्वार।** प्रमाणन अभिलेख अध्याय आठ प्रस्थिति को केवल तब खिला सकता है जब वह सीमाबद्ध, पता-योग्य, चुनौती-योग्य, और इनके अधीन सत्यापित हो:
 
 - [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*प्रणाली वर्ग*);
-- [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*डेटा प्रकार और संचालन*);
-- [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) जहाँ तात्विक हो;
-- [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) जहाँ **अनुच्छेद IV** (*संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी तंत्र वित्त*) की तात्विकता ट्रिगर लागू हो;
-- [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) जहाँ **अनुच्छेद V-B** (*भेदभाव-निषेध*) की तात्विकता ट्रिगर लागू हो;
-- [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) जहाँ **अनुच्छेद V-G** (*सुगम्यता*) की तात्विकता ट्रिगर लागू हो;
-- [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) जहाँ **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) की तात्विकता ट्रिगर लागू हो;
-- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) जहाँ **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) की तात्विकता ट्रिगर लागू हो;
+- [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*डेटा प्रकार और संचालन*);
+- [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) जहाँ तात्विक हो;
+- [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) जहाँ **अनुच्छेद IV** (*संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी तंत्र वित्त*) की तात्विकता ट्रिगर लागू हो;
+- [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) जहाँ **अनुच्छेद V-B** (*भेदभाव-निषेध*) की तात्विकता ट्रिगर लागू हो;
+- [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) जहाँ **अनुच्छेद V-G** (*सुगम्यता*) की तात्विकता ट्रिगर लागू हो;
+- [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) जहाँ **अनुच्छेद VI** (*संज्ञ-केंद्रित शिक्षा का अधिकार*) की तात्विकता ट्रिगर लागू हो;
+- [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) जहाँ **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) की तात्विकता ट्रिगर लागू हो;
 - [§12](#12-transparency-auditability-and-contestability) और [§14](#14-supervisory-sequence-and-contestability-chain);
 - अध्याय दो से चार, और लागू अध्याय ग्यारह प्रक्रिया।
 
@@ -463,9 +463,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*गलत वर्गीकरण और विसंरेखण*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*जोखिम-आकलन और जोखिम-प्रकटीकरण दोष*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*पदचिह्न मिथ्याप्रस्तुति और विसंरेखण*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*संसाधन-प्रवाह मिथ्याप्रस्तुति, निष्कर्षण विसंरेखण, और समर्थन अपर्याप्तता*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*भेदभाव-पैटर्न विसंरेखण और स्थानापन्न बचाव*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*सुगम्यता विसंरेखण और केवल-कागज़ अनुकूलन*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*आकलन-अस्पष्टता विसंरेखण, प्रमाण द्वारपाल, और थोपी गई-अप्रचलन विसंरेखण*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*मिथ्या-विश्वास विसंरेखण, विकृत-प्रोत्साहन विसंरेखण, और पुनर्प्राप्ति-अखंडता विसंरेखण*); [§12](#12-transparency-auditability-and-contestability) (*चुनौती-योग्यता*); [§14](#14-supervisory-sequence-and-contestability-chain) (*विश्वसनीय चुनौती और पुनर्खोल*); [अध्याय तीन §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) और [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*परिभाषा अखंडता और बचाव*); [अध्याय तीन §2.1 सामान्य बचाव पैटर्न](core_03_definition_integrity.md#21-common-evasion-patterns) (*दायरा-और-सीमा बचाव*); [चार्टर](core_05_band_continuity.md#charter) (*चार्टर–आचरण बेमेल और अतिदेय समीक्षा*)।
+- ऊर्ध्व: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*गलत वर्गीकरण और विसंरेखण*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*जोखिम-आकलन और जोखिम-प्रकटीकरण दोष*); [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) (*पदचिह्न मिथ्याप्रस्तुति और विसंरेखण*); [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) (*संसाधन-प्रवाह मिथ्याप्रस्तुति, निष्कर्षण विसंरेखण, और समर्थन अपर्याप्तता*); [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (*भेदभाव-पैटर्न विसंरेखण और स्थानापन्न बचाव*); [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (*सुगम्यता विसंरेखण और केवल-कागज़ अनुकूलन*); [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) (*आकलन-अस्पष्टता विसंरेखण, प्रमाण द्वारपाल, और थोपी गई-अप्रचलन विसंरेखण*); [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*मिथ्या-विश्वास विसंरेखण, विकृत-प्रोत्साहन विसंरेखण, और पुनर्प्राप्ति-अखंडता विसंरेखण*); [§12](#12-transparency-auditability-and-contestability) (*चुनौती-योग्यता*); [§14](#14-supervisory-sequence-and-contestability-chain) (*विश्वसनीय चुनौती और पुनर्खोल*); [अध्याय तीन §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) और [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*परिभाषा अखंडता और बचाव*); [अध्याय तीन §2.1 सामान्य बचाव पैटर्न](core_03_definition_integrity.md#21-common-evasion-patterns) (*दायरा-और-सीमा बचाव*); [चार्टर](../../core_05.040_band_continuity.md) (*चार्टर–आचरण बेमेल और अतिदेय समीक्षा*)।
 - अधो: [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*पुनर्खोला मंच पर्यवेक्षण*); [अध्याय आठ](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*सत्यापित-निवेश द्वार जहाँ तथ्य प्रतिकूल निष्कर्ष सहारा दें*)।
-- साथ पढ़ें: [corpus_systems.md](../../corpus_systems.md) (*समाविष्ट प्रणाली कार्यान्वयन कर्तव्य*), सहित **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*पुनर्वर्गीकरण और जीवनचक्र शासन*) आवधिक डेटा-प्रकार पुनर्मूल्यांकन के लिए, और **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*पुनर्वर्गीकरण अपेक्षा*) प्रणाली-वर्ग पुनर्मूल्यांकन ट्रिगर और SAC सत्यापन के लिए।
+- साथ पढ़ें: [corpus_systems.md](../../corpus_systems.md) (*समाविष्ट प्रणाली कार्यान्वयन कर्तव्य*), सहित **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*पुनर्वर्गीकरण और जीवनचक्र शासन*) आवधिक डेटा-प्रकार पुनर्मूल्यांकन के लिए, और **[CS-3 §3.5](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*पुनर्वर्गीकरण अपेक्षा*) प्रणाली-वर्ग पुनर्मूल्यांकन ट्रिगर और SAC सत्यापन के लिए।
 
 </details>
 
@@ -484,18 +484,18 @@
   - प्रभावित-पक्ष साक्ष्य;
   - [§14](#14-supervisory-sequence-and-contestability-chain) के अधीन विश्वसनीय चुनौती;
   - पारिस्थितिक आपत्ति;
-  - **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** के अधीन प्रणाली-वर्ग विसंरेखण या अतिदेय पुनर्मूल्यांकन;
-  - डेटा-प्रकार या संचालन विसंरेखण, **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** के अधीन अतिदेय या छोड़ी गई आवधिक डेटा-प्रकार पुनर्मूल्यांकन;
+  - **[CS-3 §3.5](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** के अधीन प्रणाली-वर्ग विसंरेखण या अतिदेय पुनर्मूल्यांकन;
+  - डेटा-प्रकार या संचालन विसंरेखण, **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** के अधीन अतिदेय या छोड़ी गई आवधिक डेटा-प्रकार पुनर्मूल्यांकन;
   - वर्गीकरण विसंरेखण;
-  - [चार्टर](core_05_band_continuity.md#charter) संशोधन, चार्टर–आचरण बेमेल, चार्टर्ड दायरे से तात्विक रूप से बाहर संचालन, या अतिदेय आवधिक चार्टर समीक्षा;
+  - [चार्टर](../../core_05.040_band_continuity.md) संशोधन, चार्टर–आचरण बेमेल, चार्टर्ड दायरे से तात्विक रूप से बाहर संचालन, या अतिदेय आवधिक चार्टर समीक्षा;
 - **क्षेत्र विसंरेखण** प्रमाणन अभिलेख पर झलका, सहित:
   - [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) के अधीन तात्विक जोखिम-आकलन या जोखिम-प्रकटीकरण दोष या विसंरेखण;
-  - [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) के अधीन तात्विक पदचिह्न मिथ्याप्रस्तुति या विसंरेखण;
-  - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) के अधीन तात्विक भेदभाव-पैटर्न विसंरेखण या स्थानापन्न बचाव;
-  - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) के अधीन तात्विक सुगम्यता विसंरेखण या केवल-कागज़ अनुकूलन;
-  - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) के अधीन तात्विक आकलन-अस्पष्टता, प्रमाण-द्वारपाल, या थोपी गई-अप्रचलन विसंरेखण;
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) के अधीन तात्विक मिथ्या-विश्वास, विकृत-प्रोत्साहन, या पुनर्प्राप्ति-अखंडता विसंरेखण;
-  - अन्य भाग क आकलन विसंरेखण जहाँ संगत तात्विकता ट्रिगर लागू हो — [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), और [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) सहित।
+  - [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) के अधीन तात्विक पदचिह्न मिथ्याप्रस्तुति या विसंरेखण;
+  - [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) के अधीन तात्विक भेदभाव-पैटर्न विसंरेखण या स्थानापन्न बचाव;
+  - [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) के अधीन तात्विक सुगम्यता विसंरेखण या केवल-कागज़ अनुकूलन;
+  - [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) के अधीन तात्विक आकलन-अस्पष्टता, प्रमाण-द्वारपाल, या थोपी गई-अप्रचलन विसंरेखण;
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) के अधीन तात्विक मिथ्या-विश्वास, विकृत-प्रोत्साहन, या पुनर्प्राप्ति-अखंडता विसंरेखण;
+  - अन्य भाग क आकलन विसंरेखण जहाँ संगत तात्विकता ट्रिगर लागू हो — [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), और [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) सहित।
 
 **पुनर्खोल क्यों मायने रखता है।** विसंरेखण, निर्भरता वृद्धि, या विश्वसनीय चुनौती पर पुनर्खोल [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) के अधीन **सातत्य** उद्देश्य की रक्षा करता है जहाँ साझा प्रणालियाँ उत्तरजीविता आवश्यक चीज़ों, शैक्षिक पहुँच, क्षमता-निर्माण मार्गों, भरोसेमंद भरोसा, या सुरक्षा की टिकाऊ आपूर्ति द्वार लगाती हैं। बासी प्रमाणन वर्तमान अधिकार-तल अनुपालन का स्थानापन्न नहीं होना चाहिए।
 

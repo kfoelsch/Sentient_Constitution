@@ -137,7 +137,7 @@ Bu dizin **Tanımlar A-Z** ve **Kümeler A-Z**yi ayrı listeler. Her görünür 
 - [Yetenek gereği](../../core_05.050_band_oversight.md#capability-requirement)
 - [Çözüm yollarının ele geçirilmesi](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [Zincirleme arıza](../../core_05.040_band_continuity.md#cascading-failure)
-- [Kapsam belgesi](../../core_05.040_band_continuity.md#charter)
+- [Kapsam belgesi](../../core_05.040_band_continuity.md)
 - [Sınıflamaya ölçeklenmiş yönetişim](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [Zorlama ve manipülasyon](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [Kolektif hesap verebilirlik başarısızlığı](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -404,7 +404,7 @@ Bu dizin **Tanımlar A-Z** ve **Kümeler A-Z**yi ayrı listeler. Her görünür 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [maddi pay](core_00_preamble.md#material-stake); [Önsöz §2 Ölçümler genel bakışı](core_00_preamble.md#measurements-overview).
+- Yukarı: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [maddi pay](core_00_preamble.md#material-stake); [Önsöz §2 Ölçümler genel bakışı](core_00_preamble.md#2-measurements-overview).
 - Aşağı: tüm Beşinci Bölüm bant tanımları ve **Def.** bağımlı kümeleri için anayasal yönelim
 - Birlikte oku: herhangi bir bağımlı kümeyi uygulamadan önce [Bağımsız tanımlar](core_05__definitions_home.md#1-bağımsız-tanımlar), [§1.1 Çağrı, karşılama ve uyum](core_05__definitions_home.md#11-çağrı-karşılama-ve-uyum), [§2.1 Ortak çağrı ve karşılama](core_05__definitions_home.md#21-ortak-çağrı-ve-karşılama) ve [§2.2 Özerk tanımların etkileşimi ve tam bağlam](core_05__definitions_home.md#22-özerk-tanımların-etkileşimi-ve-tam-bağlam) meta kuralları.
 
@@ -442,7 +442,7 @@ Beşinci Bölüm tanımları [İki Anayasal Amaç](core_00_preamble.md#two-const
 
 
 >
-> [Önsöz §2](core_00_preamble.md#measurements-overview) yedi anayasal **ölçüm kategorisi** listeler — işletenlerin sistemleri değerlendirirken sorduğu sorular. Beşinci Bölüm **kanonik tanımları** Dörtlü bacağı, **Süreklilik** amacı ve **Bütünleştirici** bacaklar arası sahiplik ile düzenler. Aşağıdaki tablo her ölçüm kategorisini Beşinci Bölüm evlerine haritalar. Bir kategori birden çok bant dosyasını kapsayabilir; ölçüm kategorileri örtüştüğünde kanonik evler yer değiştirmez.
+> [Önsöz §2](core_00_preamble.md#2-measurements-overview) yedi anayasal **ölçüm kategorisi** listeler — işletenlerin sistemleri değerlendirirken sorduğu sorular. Beşinci Bölüm **kanonik tanımları** Dörtlü bacağı, **Süreklilik** amacı ve **Bütünleştirici** bacaklar arası sahiplik ile düzenler. Aşağıdaki tablo her ölçüm kategorisini Beşinci Bölüm evlerine haritalar. Bir kategori birden çok bant dosyasını kapsayabilir; ölçüm kategorileri örtüştüğünde kanonik evler yer değiştirmez.
 >
 > **Maddilik** ([Maddilik belirlemesi](../../core_05.050_band_oversight.md#materiality)) Bütünleştiricidir — [maddi pay](core_00_preamble.md#material-stake) altında tüm ölçüm ailelerini ölçekleyen kesişen bir eşik kapısı; aşağıdaki tabloda ayrı bir kategori değildir.
 

@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [Beşinci Bölüm pusulası](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); yalın-dil amaç [Önsöz §1](core_00_preamble.md#continuity)de.
-- Aşağı: İlkeler: [Birinci Bölüm §4.1 Dayanıklılık ve kendini onarma tasarımı](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Paylaşılan-sistem kapasitesi](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Anayasal sonuç iddiaları disiplini](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Anayasal amaç ayrıştırması](#continuity-aim-decomposition); Süreklilik konu grupları [core_05_band_continuity.md](../../core_05.040_band_continuity.md)de.
+- Aşağı: İlkeler: [Birinci Bölüm §4.1 Dayanıklılık ve kendini onarma tasarımı](core_01_a_values_principles.md#10-resilience-and-self-healing-design); [§12 Paylaşılan-sistem kapasitesi](core_01_c_stewardship_capacity_principles.md); [§11.1.5 Anayasal sonuç iddiaları disiplini](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Anayasal amaç ayrıştırması](#continuity-aim-decomposition); Süreklilik konu grupları [core_05_band_continuity.md](../../core_05.040_band_continuity.md)de.
 - Birlikte oku: [Sorumlu yönetim](../../core_05.040_band_continuity.md#stewardship), [Sorumlu yönetim kusuru](../../core_05.040_band_continuity.md#stewardship-defect), [Ekolojik bütünlük](../../core_05.040_band_continuity.md#ecological-integrity), [Bağımlılık](../../core_05.040_band_continuity.md#dependency), [Vekil sapması](../../core_05.050_band_oversight.md#proxy-divergence), [Varoluşsal risk](../../core_05.040_band_continuity.md#existential-risk), [Zincirleme arıza](../../core_05.040_band_continuity.md#cascading-failure), [Gelişim](core_05_apex_flourishing_aim.md#flourishing-constitutional) (eşlenik amaç — hiçbiri diğerinin pahasına izlenemez; [maddi pay](core_00_preamble.md#material-stake)ın gerektirdiğinin altına **katılımı**, **gözetimi**, **hesap verebilirliği** ya da **zamanındalığı** oyuklaştıran kısa vadeli kazançları izlemek **Sürekliliği** başarısız kılar, yakın dönem çıktılar yükselse bile), [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) [maddi pay](core_00_preamble.md#material-stake)a ölçeklenmiş (Sürekliliğin nasıl meşru kaldığı — beşinci bir yapı taşı değil), Süreklilik ölçüm ailesi ve [Beşinci Bölüm alfabetik dizini](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
@@ -46,14 +46,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Süreklilik ölçüm ailesi](#continuity-measurement-family) — *Algılayanlar ve sistemler — ekolojik, güvenilir ve arıza boyunca — dayanabilir mi?* Ayrıca [Anayasal amaç ayrıştırması](#continuity-aim-decomposition)na bakın. Bu satır yalnızca ölçülere işaret eder; nasıl-ölçüleceği kuralları her bağlı tanımda oturur.
-  - **Birincil değerlendirme:** [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) altında, [maddi pay](core_00_preamble.md#material-stake)a ölçeklenerek yargılayın. Sistemlerin onarma, uyum sağlama, riskle dürüstçe yüzleşme ve ekolojik sınırlar içinde kalma için kalıcı kapasite tutup tutmadığını sorun — bugünün sayılarının sakin görünüp görünmediğini değil. İddia edilen süreklilik sonuçlarını [kurucu](#continuity-aim-decomposition) koşullara bağlayın, Dördüncü Bölüm ve [Birinci Bölüm §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) altında.
+  - **Birincil değerlendirme:** [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) altında, [maddi pay](core_00_preamble.md#material-stake)a ölçeklenerek yargılayın. Sistemlerin onarma, uyum sağlama, riskle dürüstçe yüzleşme ve ekolojik sınırlar içinde kalma için kalıcı kapasite tutup tutmadığını sorun — bugünün sayılarının sakin görünüp görünmediğini değil. İddia edilen süreklilik sonuçlarını [kurucu](#continuity-aim-decomposition) koşullara bağlayın, Dördüncü Bölüm ve [Birinci Bölüm §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) altında.
 <a id="continuity-aim-constitutional-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
     - **Sürekliliği** düzeltmeleri sonsuza dek ertelemek için kullanmak;
     - «istikrarı» gizli risk boşaltmaya, geri döndürülemez zarara ya da ekolojik yükleri başkalarına kaydırmaya dayandığında uyum saymak;
     - sıradan «ışıkları açık tutmak» konuşmasını [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability)i ya da [Zamanında çözüm](../../core_05.035_band_accountability.md#timely-resolution)ü engellemek için kullanmak; ya da
-    - **Sürekliliği**, [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) altında açık izin olmaksızın [Gelişimi](core_05_apex_flourishing_aim.md#flourishing-constitutional) maddi olarak bozan bir yolda izlemek.
+    - **Sürekliliği**, [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md) altında açık izin olmaksızın [Gelişimi](core_05_apex_flourishing_aim.md#flourishing-constitutional) maddi olarak bozan bir yolda izlemek.
 
 ---
 
@@ -106,7 +106,7 @@ Bu amaç altındaki tanımlar, açıkça daraltmadıkça ya da genişletmedikçe
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Aşağı: Süreklilik ölçüm ailesi — yalnızca-bağlantı özeti; terim başına kademeler aşağıdaki tabloda bağlı yaprak tanımlarda yaşar.
-- Birlikte oku: [CS-9 — Kaynak tahsisi ve finansman sorumlu yönetimi](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (finansman ve sistemler arası getiri mekaniği).
+- Birlikte oku: [CS-9 — Kaynak tahsisi ve finansman sorumlu yönetimi](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (finansman ve sistemler arası getiri mekaniği).
 
 </details>
 

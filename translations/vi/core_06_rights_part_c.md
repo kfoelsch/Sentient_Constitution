@@ -90,10 +90,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Độ tin cậy](core_05_band_continuity.md#trustworthiness) · [ồ](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [MỘT](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [Lòng tin](core_05_band_continuity.md#trust) · [ồ](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [MỘT](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [sức khỏe](core_05_band_continuity.md#wellbeing) · [ồ](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [MỘT](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [phụ thuộc](core_05_band_continuity.md#dependency) · [ồ](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [MỘT](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Độ tin cậy](../../core_05.040_band_continuity.md#trustworthiness) · [ồ](../../core_05.040_band_continuity.md#trustworthiness) · [M](../../core_05.040_band_continuity.md#trustworthiness-a) · [MỘT](../../core_05.040_band_continuity.md#trustworthiness-a) · [C](../../core_05.040_band_continuity.md#trustworthiness-c)
+- [Lòng tin](../../core_05.040_band_continuity.md#trust) · [ồ](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [MỘT](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [sức khỏe](../../core_05.040_band_continuity.md#wellbeing) · [ồ](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [MỘT](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [phụ thuộc](../../core_05.040_band_continuity.md#dependency) · [ồ](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [MỘT](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 
 </details>
 
@@ -117,14 +117,14 @@ Người dùng có quyền tương tác với các hệ thống đáng tin cậy
 
 Hai biện pháp bảo vệ phối hợp với nhau để đảm bảo quyền này: chứng nhận giúp hệ thống xứng đáng với sự tin cậy đó và quyền của người sử dụng giúp hệ thống luôn trung thực.
 
-**Chứng nhận tạo dựng niềm tin từ phía hệ thống:** Khi một hệ thống quan trọng có ảnh hưởng thực sự đến cách mọi người dựa vào nó, [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Tám](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) áp dụng. Nó kiểm tra xem người nhận có thể dựa vào:
+**Chứng nhận tạo dựng niềm tin từ phía hệ thống:** Khi một hệ thống quan trọng có ảnh hưởng thực sự đến cách mọi người dựa vào nó, [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Tám](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) áp dụng. Nó kiểm tra xem người nhận có thể dựa vào:
 
 - hệ thống nói nó làm gì
 - giới hạn và rủi ro của nó
 - làm thế nào để thử thách nó
 - vấn đề được khắc phục như thế nào
 
-Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*), chứng nhận cũng bao gồm đánh giá về độ tin cậy theo [Chương Tám §3.8.6 Đánh giá độ tin cậy và tính toàn vẹn của hệ thống](core_09_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*), chứng nhận cũng bao gồm đánh giá về độ tin cậy theo [Chương Tám §3.8.6 Đánh giá độ tin cậy và tính toàn vẹn của hệ thống](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Khả năng cạnh tranh giữ cho hệ thống trung thực từ phía người nhận:** Chứng nhận kiểm tra một hệ thống; nó không có lời cuối cùng về nó. Mỗi người bị ảnh hưởng bởi hệ thống sẽ giữ:
 
@@ -137,7 +137,7 @@ Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Q
 *Bài viết hàng xóm:*
 
 - **Khi điều này được áp dụng:** Nơi mà hành vi của hệ thống cản trở hoặc duy trì một cách vật chất **Chương Sáu** Tầng Quyền - bao gồm các yếu tố cần thiết cho sự sống còn theo **Điều III-A** (*Sống sót*).
-- **Cùng đọc:** [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) Và [Chương Tám](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — không có chứng nhận thay thế cho các tầng được nêu ở đây.
+- **Cùng đọc:** [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) Và [Chương Tám](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — không có chứng nhận thay thế cho các tầng được nêu ở đây.
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### Điều XIII-A: Đường cơ sở về độ tin cậy và độ tin cậy
@@ -145,19 +145,19 @@ Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Q
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), Và [Chương Một §13.1.5 Thủ tục xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Đọc với: [Bộ tứ hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims) — **hưng thịnh** Và **Tính liên tục**; [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) Và **Điều III-A** (*Sống sót*) khi việc tiếp tục phụ thuộc vào hệ thống sẽ ảnh hưởng đến khả năng tiếp cận thiết yếu để sinh tồn; [**Điều XIII-B**](#điều-xiii-b-quyền-được-khắc-phục-và-khắc-phục) (*Quyền được khắc phục và khắc phục*) đối với kết quả mà một thử thách thành công phải dẫn đến.
+- Đọc với: [Bộ tứ hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims) — **hưng thịnh** Và **Tính liên tục**; [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) Và **Điều III-A** (*Sống sót*) khi việc tiếp tục phụ thuộc vào hệ thống sẽ ảnh hưởng đến khả năng tiếp cận thiết yếu để sinh tồn; [**Điều XIII-B**](#điều-xiii-b-quyền-được-khắc-phục-và-khắc-phục) (*Quyền được khắc phục và khắc phục*) đối với kết quả mà một thử thách thành công phải dẫn đến.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Lòng tin](core_05_band_continuity.md#trust) · [ồ](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [MỘT](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Độ tin cậy](core_05_band_continuity.md#trustworthiness) · [ồ](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [MỘT](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [Rủi ro](core_05_band_continuity.md#risk) · [ồ](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [MỘT](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Khả năng cạnh tranh](core_05_band_accountability.md#contestability) · [ồ](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [MỘT](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [đức tin tốt](core_05_band_accountability.md#good-faith) · [ồ](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [MỘT](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [Báo cáo được bảo vệ (Tố giác)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [ồ](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [MỘT](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Lòng tin](../../core_05.040_band_continuity.md#trust) · [ồ](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [MỘT](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [Độ tin cậy](../../core_05.040_band_continuity.md#trustworthiness) · [ồ](../../core_05.040_band_continuity.md#trustworthiness) · [M](../../core_05.040_band_continuity.md#trustworthiness-a) · [MỘT](../../core_05.040_band_continuity.md#trustworthiness-a) · [C](../../core_05.040_band_continuity.md#trustworthiness-c)
+- [Rủi ro](../../core_05.040_band_continuity.md#risk) · [ồ](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [MỘT](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability) · [ồ](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [MỘT](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [đức tin tốt](../../core_05.035_band_accountability.md#good-faith) · [ồ](../../core_05.035_band_accountability.md#good-faith) · [M](../../core_05.035_band_accountability.md#good-faith-a) · [MỘT](../../core_05.035_band_accountability.md#good-faith-a) · [C](../../core_05.035_band_accountability.md#good-faith-c)
+- [Báo cáo được bảo vệ (Tố giác)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [ồ](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [M](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [MỘT](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [C](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -194,16 +194,16 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§6.1 Sửa chữa và khắc phục](core_01_a_values_principles.md#61-correction-and-remedy) (tầng nguyên tắc), [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), Và [Chương Một §13.1.5 Thủ tục xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Đọc với: [**Điều XIII-A**](#điều-xiii-a-đường-cơ-sở-về-độ-tin-cậy-và-độ-tin-cậy) (*Đường cơ sở về Độ tin cậy và Độ tin cậy*) — đảm bảo về khả năng cạnh tranh, quyền thách thức và báo cáo được bảo vệ mở ra con đường khắc phục; **Điều III-A** (*Sống sót*); [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) trong đó lỗi hoặc sai lệch hệ thống làm mất khả năng tiếp cận thiết yếu cho sự sống còn; [Lời nói đầu §6.2 Làm thế nào toàn bộ chuỗi khớp với nhau](core_00_preamble.md#62-how-the-full-chain-fits-together) (*phân loại đã được xác minh và biện pháp khắc phục kịp thời*); [Chương 10 §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Hệ thống thực thi và khắc phục hiện thực*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Hệ thống khắc phục và năng lực khắc phục thể chế*).
+- Đọc với: [**Điều XIII-A**](#điều-xiii-a-đường-cơ-sở-về-độ-tin-cậy-và-độ-tin-cậy) (*Đường cơ sở về Độ tin cậy và Độ tin cậy*) — đảm bảo về khả năng cạnh tranh, quyền thách thức và báo cáo được bảo vệ mở ra con đường khắc phục; **Điều III-A** (*Sống sót*); [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) trong đó lỗi hoặc sai lệch hệ thống làm mất khả năng tiếp cận thiết yếu cho sự sống còn; [Lời nói đầu §6.2 Làm thế nào toàn bộ chuỗi khớp với nhau](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*phân loại đã được xác minh và biện pháp khắc phục kịp thời*); [Chương 10 §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Hệ thống thực thi và khắc phục hiện thực*); [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Hệ thống khắc phục và năng lực khắc phục thể chế*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Khắc phục và khắc phục](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ồ](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [MỘT](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Hệ thống khắc phục](core_05_band_accountability.md#remedy-system-constitutional) · [ồ](core_05_band_accountability.md#remedy-system-constitutional) · [M](core_05_band_accountability.md#remedy-system-constitutional-a) · [MỘT](core_05_band_accountability.md#remedy-system-constitutional-a) · [C](core_05_band_accountability.md#remedy-system-constitutional-c)
-- [Giải quyết kịp thời](core_05_band_accountability.md#timely-resolution-constitutional) · [ồ](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [MỘT](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [Khắc phục và khắc phục](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [ồ](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Hệ thống khắc phục](../../core_05.035_band_accountability.md#remedy-system-constitutional) · [ồ](../../core_05.035_band_accountability.md#remedy-system-constitutional) · [M](../../core_05.035_band_accountability.md#remedy-system-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#remedy-system-constitutional-a) · [C](../../core_05.035_band_accountability.md#remedy-system-constitutional-c)
+- [Giải quyết kịp thời](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [ồ](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 
 </details>
 
@@ -219,7 +219,7 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
   - cách khắc phục tương xứng.
 
   Việc khắc phục và khắc phục các tác động trọng yếu được điều chỉnh bởi **Chương năm** Các định nghĩa độc lập (*Khắc phục và khắc phục*).
-- **Độ bền của hệ thống khắc phục:** Việc khắc phục đòi hỏi phải thực sự [Hệ thống khắc phục](core_05_band_accountability.md#remedy-system-constitutional) — năng lực thể chế bền vững, không phải con đường khắc phục trên giấy tờ — với chi phí khắc phục do những người chịu trách nhiệm chịu, cũng như [Chương Một §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*Sửa chữa và khắc phục*) yêu cầu.
+- **Độ bền của hệ thống khắc phục:** Việc khắc phục đòi hỏi phải thực sự [Hệ thống khắc phục](../../core_05.035_band_accountability.md#remedy-system-constitutional) — năng lực thể chế bền vững, không phải con đường khắc phục trên giấy tờ — với chi phí khắc phục do những người chịu trách nhiệm chịu, cũng như [Chương Một §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*Sửa chữa và khắc phục*) yêu cầu.
 - **Khắc phục kịp thời:** Quyền truy cập thực tế bao gồm:
   - lượng tiêu thụ có giới hạn thời gian;
   - sự thừa nhận; Và
@@ -238,8 +238,8 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Lòng tin](core_05_band_continuity.md#trust) · [ồ](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [MỘT](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Độ tin cậy](core_05_band_continuity.md#trustworthiness) · [ồ](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [MỘT](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [Lòng tin](../../core_05.040_band_continuity.md#trust) · [ồ](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [MỘT](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [Độ tin cậy](../../core_05.040_band_continuity.md#trustworthiness) · [ồ](../../core_05.040_band_continuity.md#trustworthiness) · [M](../../core_05.040_band_continuity.md#trustworthiness-a) · [MỘT](../../core_05.040_band_continuity.md#trustworthiness-a) · [C](../../core_05.040_band_continuity.md#trustworthiness-c)
 - [Sự thật (Ràng buộc Hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp) · [ồ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [MỘT](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -270,8 +270,8 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Liên kết khuyến khích](core_05_band_integrative.md#thẳng-hàng-khuyến-khích) · [ồ](core_05_band_integrative.md#thẳng-hàng-khuyến-khích) · [M](core_05_band_integrative.md#incentive-alignment-a) · [MỘT](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
-- [Độ tin cậy](core_05_band_continuity.md#trustworthiness) · [ồ](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [MỘT](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [Cơ quan có ý nghĩa](core_05_band_participation.md#meaningful-agency) · [ồ](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [MỘT](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Độ tin cậy](../../core_05.040_band_continuity.md#trustworthiness) · [ồ](../../core_05.040_band_continuity.md#trustworthiness) · [M](../../core_05.040_band_continuity.md#trustworthiness-a) · [MỘT](../../core_05.040_band_continuity.md#trustworthiness-a) · [C](../../core_05.040_band_continuity.md#trustworthiness-c)
+- [Cơ quan có ý nghĩa](../../core_05.055_band_participation.md#meaningful-agency) · [ồ](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [MỘT](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -319,9 +319,9 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Sự thật (Ràng buộc Hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp) · [ồ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [MỘT](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Khả năng cạnh tranh](core_05_band_accountability.md#contestability) · [ồ](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [MỘT](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [sự cần thiết](core_05_band_accountability.md#necessity) · [ồ](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [MỘT](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Tỷ lệ](core_05_band_accountability.md#proportionality) · [ồ](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [MỘT](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability) · [ồ](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [MỘT](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [sự cần thiết](../../core_05.035_band_accountability.md#necessity) · [ồ](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [MỘT](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Tỷ lệ](../../core_05.035_band_accountability.md#proportionality) · [ồ](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [MỘT](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -347,9 +347,9 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
   Điều này áp dụng bất cứ khi nào hoạt động của hệ thống làm suy yếu nghiêm trọng khả năng của người dân trong việc thách thức các quyết định, tính trung thực của thông tin được chia sẻ hoặc quy trình hiến pháp.
 - **Hành động chống lại một hệ thống không phải là hành động chống lại một sinh vật:** Chứa, cách ly, tạm giữ hoặc hủy bỏ hoạt động triển khai không tuân thủ theo **Điều XXVII-D** (*Tài sản và hệ thống không tuân thủ; Khuyến khích doanh thu tự nguyện*) tách biệt với:
   - giữ một người có tri giác chịu trách nhiệm theo **Chương Mười Một**; Và
-  - **Điều XX-B** (*Tầng hạn chế*), quản lý các hạn chế đối với *có tri giác*, không phải *hệ thống* và cấm lấy đi mạng sống của một sinh vật (xem [Biện pháp tước đoạt không thể đảo ngược](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)).
+  - **Điều XX-B** (*Tầng hạn chế*), quản lý các hạn chế đối với *có tri giác*, không phải *hệ thống* và cấm lấy đi mạng sống của một sinh vật (xem [Biện pháp tước đoạt không thể đảo ngược](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)).
 
-  Các biện pháp chống lại hệ thống đều tuân theo các quy tắc khóa và vi phạm tương tự áp dụng cho mọi sinh vật. Hành vi vi phạm phải được xác minh trong hồ sơ theo **Chương Chín**và mỗi biện pháp là một khóa được thiết kế và hiệu chỉnh theo [Chương Mười §5.1](core_10_standing_integration.md#51-definition-and-attachment) (*Định nghĩa và đính kèm*) và [Chương Mười §5.2](core_10_standing_integration.md#52-proportionality-and-calibration) (*Tỷ lệ và hiệu chuẩn*).
+  Các biện pháp chống lại hệ thống đều tuân theo các quy tắc khóa và vi phạm tương tự áp dụng cho mọi sinh vật. Hành vi vi phạm phải được xác minh trong hồ sơ theo **Chương Chín**và mỗi biện pháp là một khóa được thiết kế và hiệu chỉnh theo [Chương Mười §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*Định nghĩa và đính kèm*) và [Chương Mười §5.2](core_09_standing_integration.md#52-proportionality-and-calibration) (*Tỷ lệ và hiệu chuẩn*).
 
   Cả hai bài hát đều có thể áp dụng cho cùng một sự kiện. Không có điều nào trong Điều này biến sức mạnh phá hủy một hệ thống thành sức mạnh đối với cuộc sống của một sinh vật.
 - **Điều ngược lại cũng đúng:** Tuyên bố rằng hệ thống được triển khai là có tri giác — cho dù khiếu nại đó bị tranh chấp hay được chấp nhận — không cho phép bất kỳ ai tiếp tục triển khai có hại.
@@ -362,19 +362,19 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Thiết kế có khả năng phục hồi và tự phục hồi](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh được](core_01_b_interaction_interpretation.md#133-giảm-thiểu-gánh-nặng-có-thể-tránh), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Thiết kế có khả năng phục hồi và tự phục hồi](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh được](core_01_b_interaction_interpretation.md#133-giảm-thiểu-gánh-nặng-có-thể-tránh), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Tự chữa bệnh](core_05_band_continuity.md#self-healing-constitutional) · [ồ](core_05_band_continuity.md#self-healing-constitutional) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [MỘT](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
-- [Khả năng đảo ngược](core_05_band_continuity.md#reversibility-constitutional) · [ồ](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [MỘT](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [Thất bại xếp tầng](core_05_band_continuity.md#cascading-failure) · [ồ](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [MỘT](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
+- [Tự chữa bệnh](../../core_05.040_band_continuity.md#self-healing-constitutional) · [ồ](../../core_05.040_band_continuity.md#self-healing-constitutional) · [M](../../core_05.040_band_continuity.md#self-healing-constitutional-a) · [MỘT](../../core_05.040_band_continuity.md#self-healing-constitutional-a) · [C](../../core_05.040_band_continuity.md#self-healing-constitutional-c)
+- [Khả năng đảo ngược](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ồ](../../core_05.040_band_continuity.md#reversibility-constitutional) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [MỘT](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [Thất bại xếp tầng](../../core_05.040_band_continuity.md#cascading-failure) · [ồ](../../core_05.040_band_continuity.md#cascading-failure) · [M](../../core_05.040_band_continuity.md#cascading-failure-a) · [MỘT](../../core_05.040_band_continuity.md#cascading-failure-a) · [C](../../core_05.040_band_continuity.md#cascading-failure-c)
 - [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) · [ồ](core_05_band_oversight.md#khả-năng-kiểm-toán) · [M](core_05_band_oversight.md#auditability-a) · [MỘT](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Khả năng cạnh tranh](core_05_band_accountability.md#contestability) · [ồ](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [MỘT](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Gánh nặng có thể tránh được](core_05_band_continuity.md#avoidable-burden) · [ồ](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [MỘT](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability) · [ồ](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [MỘT](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [Gánh nặng có thể tránh được](../../core_05.040_band_continuity.md#avoidable-burden) · [ồ](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [MỘT](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
 
 </details>
 
@@ -384,26 +384,26 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
 
 Điều này đặt ra đường cơ sở phục hồi, từ khi phát hiện đến khi xác định được nguyên nhân gốc rễ:
 
-- **Điều này đòi hỏi gì:** Mọi hệ thống được đề cập trong Điều này phải có khả năng phục hồi sau lỗi. Một hệ thống càng có nhiều tác động thì những người khác càng phụ thuộc vào nó nhiều hơn và hệ thống đó càng rủi ro thì khả năng phục hồi của nó càng mạnh mẽ hơn. Điều này theo sau [**10 Thiết kế có khả năng phục hồi và tự phục hồi**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) TRONG **Chương một** Và [**Tự chữa lành**](core_05_band_continuity.md#self-healing-constitutional) TRONG **Chương năm**.
-  - Các quy tắc kỹ thuật chi tiết về cách khôi phục phải được xây dựng trong văn bản triển khai: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Thiết kế, thử nghiệm, xác minh và triển khai*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Tính bền vững thích ứng và khả năng phục hồi của hệ sinh thái*), và [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Tính liên tục phi tập trung và khả năng phục hồi phân vùng*).
+- **Điều này đòi hỏi gì:** Mọi hệ thống được đề cập trong Điều này phải có khả năng phục hồi sau lỗi. Một hệ thống càng có nhiều tác động thì những người khác càng phụ thuộc vào nó nhiều hơn và hệ thống đó càng rủi ro thì khả năng phục hồi của nó càng mạnh mẽ hơn. Điều này theo sau [**10 Thiết kế có khả năng phục hồi và tự phục hồi**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) TRONG **Chương một** Và [**Tự chữa lành**](../../core_05.040_band_continuity.md#self-healing-constitutional) TRONG **Chương năm**.
+  - Các quy tắc kỹ thuật chi tiết về cách khôi phục phải được xây dựng trong văn bản triển khai: [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*Thiết kế, thử nghiệm, xác minh và triển khai*), [**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*Tính bền vững thích ứng và khả năng phục hồi của hệ sinh thái*), và [**CS-12**](../../corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md) (*Tính liên tục phi tập trung và khả năng phục hồi phân vùng*).
   - Văn bản triển khai đó có thể bổ sung thêm chi tiết nhưng không thể làm suy yếu Điều khoản này.
 - **Thông báo vấn đề kịp thời:** Một hệ thống phải phát hiện ra các lỗi, sự chậm lại, hỏng hóc một phần và vi phạm các giới hạn hiến pháp đủ nhanh và đủ rõ ràng để đáp ứng tiêu chuẩn lưu giữ hồ sơ trong **Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*) ([Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán)). Điều này áp dụng cho chính quá trình khôi phục, không chỉ cho hoạt động bình thường.
 - **Giữ thiệt hại trong giới hạn:** Việc khôi phục phải hạn chế mức độ lan rộng của lỗi. Trong khi khôi phục, hệ thống không được:
-  - chuyển lỗi sang các bộ phận khác hoặc hệ thống khác (xem [Thất bại xếp tầng](core_05_band_continuity.md#cascading-failure));
+  - chuyển lỗi sang các bộ phận khác hoặc hệ thống khác (xem [Thất bại xếp tầng](../../core_05.040_band_continuity.md#cascading-failure));
   - thay đổi dữ liệu được lưu trữ, thông tin xác thực, nghĩa vụ hoặc cài đặt thuộc về người nhận, người vận hành hoặc hệ thống khác **ngoài** khu vực được thông báo là bị hỏng và đang được sửa chữa;
     - Ngoại lệ duy nhất là thay đổi được ghi lại và có thể truy nguyên được đối với người thực hiện thay đổi đó **Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*) ([Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán)) và rằng, trong trường hợp những người khác bị ảnh hưởng về mặt vật chất, họ sẽ phải nhận được thông báo, sự cho phép hoặc chuyển giao tương ứng mà họ có thể thách thức, phù hợp với **Chương Sáu**;
   - mở rộng quyền hạn của chính nó - các quyền, quyền truy cập hoặc phạm vi hành động mà nó có thể thực hiện - vượt xa những gì nó nắm giữ trước khi thất bại.
-- **Khi không chắc chắn, hãy thất bại một cách an toàn:** Nếu không rõ liệu việc sửa chữa tự động có hoạt động hay không thì hệ thống phải dừng lại một cách an toàn, cách ly sự cố (cách ly) hoặc tự tay kiểm soát một cách có trật tự, thay vì cố gắng sửa chữa chỉ là phỏng đoán. Khi các tùy chọn bằng nhau, tùy chọn nào dễ hoàn tác nhất sẽ thắng, theo [Khả năng đảo ngược](core_05_band_continuity.md#reversibility-constitutional) ưu tiên trong **Điều XXIII-B** (*Ưu tiên về khả năng kiểm toán, thách thức và khả năng đảo ngược*).
+- **Khi không chắc chắn, hãy thất bại một cách an toàn:** Nếu không rõ liệu việc sửa chữa tự động có hoạt động hay không thì hệ thống phải dừng lại một cách an toàn, cách ly sự cố (cách ly) hoặc tự tay kiểm soát một cách có trật tự, thay vì cố gắng sửa chữa chỉ là phỏng đoán. Khi các tùy chọn bằng nhau, tùy chọn nào dễ hoàn tác nhất sẽ thắng, theo [Khả năng đảo ngược](../../core_05.040_band_continuity.md#reversibility-constitutional) ưu tiên trong **Điều XXIII-B** (*Ưu tiên về khả năng kiểm toán, thách thức và khả năng đảo ngược*).
 - **Không che đậy:** Việc khôi phục tự động không được che giấu, xóa hoặc trì hoãn các bằng chứng cần thiết để tìm ra lý do xảy ra lỗi theo **Điều XXIII** (*Phân tích nguyên nhân gốc rễ và ứng phó thích ứng*).
-  - Mọi hành động khôi phục, mọi nỗ lực khôi phục và mọi nỗ lực khôi phục bị giữ lại hoặc bị chặn đều phải được ghi lại trong **Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*), và mỗi loại đều có thể bị thách thức (xem [Khả năng cạnh tranh](core_05_band_accountability.md#contestability)).
+  - Mọi hành động khôi phục, mọi nỗ lực khôi phục và mọi nỗ lực khôi phục bị giữ lại hoặc bị chặn đều phải được ghi lại trong **Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*), và mỗi loại đều có thể bị thách thức (xem [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability)).
 - **Quyền được bảo vệ ở chế độ giảm:** Khi một hệ thống đang chạy ở chế độ giảm thiểu hoặc sao lưu, nó vẫn phải bảo vệ **Chương Sáu** Tầng quyền. Nếu không thể, họ phải giải quyết vấn đề một cách công khai thay vì lặng lẽ cắt giảm các biện pháp bảo vệ đó.
   - Việc âm thầm làm suy yếu các biện pháp bảo vệ của Tầng Quyền dưới danh nghĩa "tự phục hồi" là vi phạm Hiến pháp này. Những trường hợp như vậy thuộc **Điều XIII-C** (*Cấm tin tưởng sai lầm và tin cậy sai lầm*) (cấm tin tưởng sai lầm) và **Điều XXVII** (*Quản trị chuyển đổi, tính liên tục và tái lập cơ sở*) (quản trị chuyển đổi).
 - **Giới hạn đối với các hệ thống tự hoạt động:** Khi một hệ thống có quyền tự chủ cao tự sửa chữa, **Điều XIII-E** (*Áp dụng Hệ thống tự chủ cao và Tính toàn vẹn của quy trình qua trung gian công cụ*).
-  - Sức mạnh phục hồi có thể không bao giờ được sử dụng để lách quyền thách thức của bất kỳ ai (xem [Khả năng cạnh tranh](core_05_band_accountability.md#contestability)), những thách thức dưới **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) hoặc kiểm tra độc lập theo **Điều XVI** (*Kiểm toán, tính minh bạch và xác minh độc lập*).
+  - Sức mạnh phục hồi có thể không bao giờ được sử dụng để lách quyền thách thức của bất kỳ ai (xem [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability)), những thách thức dưới **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) hoặc kiểm tra độc lập theo **Điều XVI** (*Kiểm toán, tính minh bạch và xác minh độc lập*).
 - **Cách giải quyết không phải là cách khắc phục:** Nếu quá trình khôi phục tự động khiến hệ thống chạy lại nhưng lỗi đã biết vẫn còn tồn tại thì trạng thái của hệ thống là tạm thời chứ không phải cuối cùng. Nó phải mang:
   - một nhiệm vụ mở để tìm ra nguyên nhân gốc rễ **Điều XXIII** (*Phân tích nguyên nhân gốc rễ và ứng phó thích ứng*);
   - một mốc thời gian được tiết lộ về thời điểm lỗi dự kiến ​​sẽ được khắc phục, theo **Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*).
-- **Không có sự chậm trễ vô tận:** Giảm khối lượng công việc của người vận hành (xem [Gánh nặng có thể tránh được](core_05_band_continuity.md#avoidable-burden) Và [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh được](core_01_b_interaction_interpretation.md#133-giảm-thiểu-gánh-nặng-có-thể-tránh)) không được sử dụng làm lý do để trì hoãn vô thời hạn việc sửa chữa các khiếm khuyết ảnh hưởng nghiêm trọng đến sự an toàn hoặc Tầng Quyền.
+- **Không có sự chậm trễ vô tận:** Giảm khối lượng công việc của người vận hành (xem [Gánh nặng có thể tránh được](../../core_05.040_band_continuity.md#avoidable-burden) Và [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh được](core_01_b_interaction_interpretation.md#133-giảm-thiểu-gánh-nặng-có-thể-tránh)) không được sử dụng làm lý do để trì hoãn vô thời hạn việc sửa chữa các khiếm khuyết ảnh hưởng nghiêm trọng đến sự an toàn hoặc Tầng Quyền.
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### Điều XIV: Các hệ thống an ninh, tình báo, vũ lực và tự trị
@@ -418,9 +418,9 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [sự cần thiết](core_05_band_accountability.md#necessity) · [ồ](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [MỘT](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Tỷ lệ](core_05_band_accountability.md#proportionality) · [ồ](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [MỘT](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Sử dụng vũ lực](core_05_band_accountability.md#use-of-force-constitutional) · [ồ](core_05_band_accountability.md#use-of-force-constitutional) · [M](core_05_band_accountability.md#use-of-force-constitutional-a) · [MỘT](core_05_band_accountability.md#use-of-force-constitutional-a) · [C](core_05_band_accountability.md#use-of-force-constitutional-c)
+- [sự cần thiết](../../core_05.035_band_accountability.md#necessity) · [ồ](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [MỘT](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Tỷ lệ](../../core_05.035_band_accountability.md#proportionality) · [ồ](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [MỘT](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Sử dụng vũ lực](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [ồ](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [M](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [C](../../core_05.035_band_accountability.md#use-of-force-constitutional-c)
 
 </details>
 
@@ -447,7 +447,7 @@ Những tầng đó áp dụng cho **quyền lực thể chế đặc biệt** t
   - sử dụng vũ lực và triển khai sức mạnh quân sự một cách công khai theo **Điều XIV-B** (*Sử dụng vũ lực, xung đột vũ trang và giới hạn sức mạnh quân sự*); Và
   - hệ thống gây chết người tự động và các công cụ cưỡng chế tự động theo **Điều XIV-C** (*Hệ thống sát thương tự động và công cụ cưỡng chế tự động*).
 
-  Nó có **không** cai trị **sự tước đoạt mạng sống không thể đảo ngược được áp đặt bởi một nhà nước hoặc chủ thể tương đương như một biện pháp công lý hoặc kết quả phi chiến đấu tương đương**. Sự tước đoạt như vậy bị nghiêm cấm theo **Điều XX-B** (*Tầng hạn chế*) và **Chương năm** *[Biện pháp tước đoạt không thể đảo ngược](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. Sự cấm đoán đó có cấu trúc khác biệt với Điều khoản này.
+  Nó có **không** cai trị **sự tước đoạt mạng sống không thể đảo ngược được áp đặt bởi một nhà nước hoặc chủ thể tương đương như một biện pháp công lý hoặc kết quả phi chiến đấu tương đương**. Sự tước đoạt như vậy bị nghiêm cấm theo **Điều XX-B** (*Tầng hạn chế*) và **Chương năm** *[Biện pháp tước đoạt không thể đảo ngược](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*. Sự cấm đoán đó có cấu trúc khác biệt với Điều khoản này.
   - Không có gì trong **Điều XIV** (*Các hệ thống cưỡng chế an ninh, tình báo, vũ lực và tự trị*) ủy quyền, hợp pháp hóa, mở rộng hoặc cung cấp cơ sở hiến pháp cho bất kỳ biện pháp tước đoạt không thể đảo ngược nào - cho dù được quyết định bởi người điều hành con người, hệ thống tự trị hay quy trình hệ thống-con người lai.
   - Gọi nó là chiến đấu hay tình trạng khẩn cấp, phân loại nó là sử dụng vũ lực, định tuyến nó thông qua sức mạnh bí mật hoặc giao nó cho một hệ thống tự trị không biến việc giết người theo biện pháp công lý không thể đảo ngược thành quyền lực được quản lý ở đây.
   - Chuyển đổi công cụ bí mật, vũ lực, hệ thống tự trị hoặc cưỡng bức **bối cảnh** vào một kết quả đo lường công lý trả lại câu hỏi cho **Điều XX-B** (*Tầng hạn chế*) và *Biện pháp tước đoạt không thể đảo ngược* mà không cần đọc kỹ Điều khoản này.
@@ -469,9 +469,9 @@ Những tầng đó áp dụng cho **quyền lực thể chế đặc biệt** t
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [sự cần thiết](core_05_band_accountability.md#necessity) · [ồ](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [MỘT](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Tỷ lệ](core_05_band_accountability.md#proportionality) · [ồ](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [MỘT](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Biên giới nội bộ-nhà nước được bảo vệ](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [ồ](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [MỘT](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [sự cần thiết](../../core_05.035_band_accountability.md#necessity) · [ồ](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [MỘT](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Tỷ lệ](../../core_05.035_band_accountability.md#proportionality) · [ồ](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [MỘT](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Biên giới nội bộ-nhà nước được bảo vệ](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional) · [ồ](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [MỘT](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -500,7 +500,7 @@ Những tầng đó áp dụng cho **quyền lực thể chế đặc biệt** t
   - các phương tiện ít xâm phạm hơn là không đủ hợp lý;
   - việc sử dụng vẫn cần thiết, tương xứng, có giới hạn thời gian và có thể xem xét độc lập.
 - **Không có giám sát dân số tổng quát:** Việc giám sát, theo dõi, trích xuất mẫu hoặc liên kết nhận dạng liên tục hoặc quy mô dân số đều bị cấm nếu không có lý do chính đáng và đặc biệt được chứng minh.
-  - Bất kỳ sự biện minh nào như vậy phải đáp ứng chương này, **Chương một**, **Chương năm**, Và **[corpus_systems.md](corpus_systems.md), CS-2 — Các loại thông tin và cách xử lý** Và **CS-3 — Phân loại và xử lý hệ thống** nếu có thể áp dụng.
+  - Bất kỳ sự biện minh nào như vậy phải đáp ứng chương này, **Chương một**, **Chương năm**, Và **[corpus_systems.md](../../corpus_systems.md), CS-2 — Các loại thông tin và cách xử lý** Và **CS-3 — Phân loại và xử lý hệ thống** nếu có thể áp dụng.
 - **Lá chắn hoạt động được bảo vệ:** Vỏ bảo vệ nâng cao:
   - tham gia chính trị;
   - phản đối hợp pháp;
@@ -556,23 +556,23 @@ Những tầng đó áp dụng cho **quyền lực thể chế đặc biệt** t
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Sự cần thiết](core_01_b_interaction_interpretation.md#1311-tính-cần-thiết), [§7.1 Kỷ luật giới hạn](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Kiểm tra quyết định xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Cấm ghi đè tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Hạ lưu: **Điều I-A** (*Điều kiện tiên quyết về môi trường và tính toàn vẹn sinh thái*) điều kiện tiên quyết về môi trường, **Điều I-D** (*Rủi ro hiện hữu và khả năng phục hồi sinh thái*) giám sát rủi ro hiện hữu, **Điều VI-A** (*Nhân phẩm và vị thế đạo đức bình đẳng*) nhân phẩm, **Điều XIV-A** (*Giới hạn an ninh, thông minh và quyền lực bí mật*) giới hạn quyền lực bí mật (đối tác quyền lực quá mức), **Chương 12 §6.1** (*Các biện pháp khẩn cấp và gánh nặng tiếp tục*) các giới hạn của biện pháp khẩn cấp, **Điều XXV** (*Đánh giá hồi cứu kịp thời và điều chỉnh phục hồi*) giải quyết xung đột, **Điều XXVII** (*Quản trị chuyển đổi, tính liên tục và tái cơ sở hóa*) quản trị chuyển đổi. Tham khảo chéo: **Điều XX-B** (*Tầng hạn chế*) và Chương Năm *[Biện pháp tước đoạt không thể đảo ngược](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Điều XIV** (*Các hệ thống cưỡng chế an ninh, thông minh, vũ lực và tự trị*) *Không kết hợp* áp dụng kỷ luật.
-- Đọc với: [**Def.A4** *Sử dụng vũ lực, ép buộc tự trị, hệ thống sát thương tự động và vũ khí gây hại hàng loạt*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (lời kêu gọi chung khi liên quan đến vật chất); Chương Năm *Sử dụng vũ lực*, *Vũ khí gây hại hàng loạt*, *Sự phân biệt chiến binh / không chiến đấu*, *[Biện pháp tước đoạt không thể đảo ngược](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Rủi ro hiện hữu*, *Khả năng đảo ngược*, *Khắc phục và khắc phục*.
+- Hạ lưu: **Điều I-A** (*Điều kiện tiên quyết về môi trường và tính toàn vẹn sinh thái*) điều kiện tiên quyết về môi trường, **Điều I-D** (*Rủi ro hiện hữu và khả năng phục hồi sinh thái*) giám sát rủi ro hiện hữu, **Điều VI-A** (*Nhân phẩm và vị thế đạo đức bình đẳng*) nhân phẩm, **Điều XIV-A** (*Giới hạn an ninh, thông minh và quyền lực bí mật*) giới hạn quyền lực bí mật (đối tác quyền lực quá mức), **Chương 12 §6.1** (*Các biện pháp khẩn cấp và gánh nặng tiếp tục*) các giới hạn của biện pháp khẩn cấp, **Điều XXV** (*Đánh giá hồi cứu kịp thời và điều chỉnh phục hồi*) giải quyết xung đột, **Điều XXVII** (*Quản trị chuyển đổi, tính liên tục và tái cơ sở hóa*) quản trị chuyển đổi. Tham khảo chéo: **Điều XX-B** (*Tầng hạn chế*) và Chương Năm *[Biện pháp tước đoạt không thể đảo ngược](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Điều XIV** (*Các hệ thống cưỡng chế an ninh, thông minh, vũ lực và tự trị*) *Không kết hợp* áp dụng kỷ luật.
+- Đọc với: [**Def.A4** *Sử dụng vũ lực, ép buộc tự trị, hệ thống sát thương tự động và vũ khí gây hại hàng loạt*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (lời kêu gọi chung khi liên quan đến vật chất); Chương Năm *Sử dụng vũ lực*, *Vũ khí gây hại hàng loạt*, *Sự phân biệt chiến binh / không chiến đấu*, *[Biện pháp tước đoạt không thể đảo ngược](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Rủi ro hiện hữu*, *Khả năng đảo ngược*, *Khắc phục và khắc phục*.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Sử dụng vũ lực](core_05_band_accountability.md#use-of-force-constitutional) · [ồ](core_05_band_accountability.md#use-of-force-constitutional) · [M](core_05_band_accountability.md#use-of-force-constitutional-a) · [MỘT](core_05_band_accountability.md#use-of-force-constitutional-a) · [C](core_05_band_accountability.md#use-of-force-constitutional-c)
-- [Vũ khí gây hại hàng loạt](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [ồ](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [M](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [MỘT](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [C](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-c)
-- [Sự phân biệt chiến binh/không chiến đấu](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [ồ](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [M](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [MỘT](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [C](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
-- [Tình cảm không loại trừ](core_05_band_participation.md#sentience-non-exclusion) · [ồ](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [MỘT](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
-- [sự cần thiết](core_05_band_accountability.md#necessity) · [ồ](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [MỘT](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Tỷ lệ](core_05_band_accountability.md#proportionality) · [ồ](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [MỘT](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Đặc điểm được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional) · [ồ](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [MỘT](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [Rủi ro hiện sinh](core_05_band_continuity.md#existential-risk) · [ồ](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [MỘT](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [Khắc phục và khắc phục](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ồ](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [MỘT](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Sử dụng vũ lực](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [ồ](../../core_05.035_band_accountability.md#use-of-force-constitutional) · [M](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#use-of-force-constitutional-a) · [C](../../core_05.035_band_accountability.md#use-of-force-constitutional-c)
+- [Vũ khí gây hại hàng loạt](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional) · [ồ](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional) · [M](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [C](../../core_05.035_band_accountability.md#weapons-of-mass-harm-constitutional-c)
+- [Sự phân biệt chiến binh/không chiến đấu](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [ồ](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [M](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [C](../../core_05.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
+- [Tình cảm không loại trừ](../../core_05.055_band_participation.md#sentience-non-exclusion) · [ồ](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [MỘT](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion)
+- [sự cần thiết](../../core_05.035_band_accountability.md#necessity) · [ồ](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [MỘT](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Tỷ lệ](../../core_05.035_band_accountability.md#proportionality) · [ồ](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [MỘT](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Đặc điểm được bảo vệ](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [ồ](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [MỘT](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [Rủi ro hiện sinh](../../core_05.040_band_continuity.md#existential-risk) · [ồ](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [MỘT](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [Khắc phục và khắc phục](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [ồ](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -622,19 +622,19 @@ Những tầng đó áp dụng cho **quyền lực thể chế đặc biệt** t
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 Tính cân xứng](core_01_b_interaction_interpretation.md#1313-tính-tương-xứng), [§13.1.1 Sự cần thiết](core_01_b_interaction_interpretation.md#1311-tính-cần-thiết), [§19.1 Yêu cầu căn chỉnh](core_01_c_stewardship_capacity_principles.md#191-yêu-cầu-về-sự-phù-hợp), [§14 Cấm ghi đè tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Hạ lưu: **Điều I-D** (*Rủi ro hiện hữu và khả năng phục hồi sinh thái*) giám sát rủi ro hiện hữu, **Điều X-A** (*Quyền tự do và quyền tự do khỏi bị thao túng*) không bị thao túng, **Điều XIV-A** (*Giới hạn an ninh, thông minh và quyền lực bí mật*) giới hạn quyền lực bí mật, **Điều XIV-B** (*Sử dụng vũ lực, xung đột vũ trang và giới hạn sức mạnh quân sự*) sàn vũ lực công khai, **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) đường cơ sở về độ tin cậy và độ tin cậy (đối tác ở lớp hệ thống), **Điều XIII-E** (*Hệ thống tự chủ cao và tính toàn vẹn của quy trình qua trung gian công cụ*) quyền tự chủ-quản lý và quyền tự chủ mở rộng quy mô, **Điều XIII-F** (*Đường cơ sở về khả năng phục hồi và tự phục hồi*) Đường cơ sở về khả năng phục hồi và tự phục hồi. Tham khảo chéo: **Điều XX-B** (*Tầng hạn chế*) và Chương Năm *[Biện pháp tước đoạt không thể đảo ngược](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Điều XIV** (*Các hệ thống cưỡng chế an ninh, thông minh, vũ lực và tự trị*) *Không kết hợp* áp dụng kỷ luật.
-- Đọc với: [**Def.A4** *Sử dụng vũ lực, ép buộc tự trị, hệ thống sát thương tự động và vũ khí gây hại hàng loạt*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (lời kêu gọi chung khi liên quan đến vật chất); Chương 5 *Hệ thống sát thương tự trị*, *Công cụ cưỡng chế tự trị*, *[Biện pháp tước đoạt không thể đảo ngược](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Ép buộc và thao túng*, *Khả năng đảo ngược*. Triển khai lớp hệ thống: **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống** phân loại.
+- Hạ lưu: **Điều I-D** (*Rủi ro hiện hữu và khả năng phục hồi sinh thái*) giám sát rủi ro hiện hữu, **Điều X-A** (*Quyền tự do và quyền tự do khỏi bị thao túng*) không bị thao túng, **Điều XIV-A** (*Giới hạn an ninh, thông minh và quyền lực bí mật*) giới hạn quyền lực bí mật, **Điều XIV-B** (*Sử dụng vũ lực, xung đột vũ trang và giới hạn sức mạnh quân sự*) sàn vũ lực công khai, **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) đường cơ sở về độ tin cậy và độ tin cậy (đối tác ở lớp hệ thống), **Điều XIII-E** (*Hệ thống tự chủ cao và tính toàn vẹn của quy trình qua trung gian công cụ*) quyền tự chủ-quản lý và quyền tự chủ mở rộng quy mô, **Điều XIII-F** (*Đường cơ sở về khả năng phục hồi và tự phục hồi*) Đường cơ sở về khả năng phục hồi và tự phục hồi. Tham khảo chéo: **Điều XX-B** (*Tầng hạn chế*) và Chương Năm *[Biện pháp tước đoạt không thể đảo ngược](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Điều XIV** (*Các hệ thống cưỡng chế an ninh, thông minh, vũ lực và tự trị*) *Không kết hợp* áp dụng kỷ luật.
+- Đọc với: [**Def.A4** *Sử dụng vũ lực, ép buộc tự trị, hệ thống sát thương tự động và vũ khí gây hại hàng loạt*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (lời kêu gọi chung khi liên quan đến vật chất); Chương 5 *Hệ thống sát thương tự trị*, *Công cụ cưỡng chế tự trị*, *[Biện pháp tước đoạt không thể đảo ngược](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Ép buộc và thao túng*, *Khả năng đảo ngược*. Triển khai lớp hệ thống: **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống** phân loại.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Hệ thống sát thương tự trị](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [ồ](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [M](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [MỘT](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [C](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
-- [Công cụ cưỡng chế tự trị](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [ồ](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [M](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [MỘT](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [C](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
-- [Cưỡng bức và thao túng](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [ồ](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [MỘT](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Hệ thống sát thương tự trị](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional) · [ồ](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional) · [M](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional-a) · [C](../../core_05.035_band_accountability.md#autonomous-lethal-system-constitutional-c)
+- [Công cụ cưỡng chế tự trị](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional) · [ồ](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional) · [M](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [MỘT](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [C](../../core_05.035_band_accountability.md#autonomous-coercion-tool-constitutional-c)
+- [Cưỡng bức và thao túng](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [ồ](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [MỘT](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-c)
 - [Điều kiện đối nghịch, quy mô và bị lợi dụng](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác) · [ồ](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [MỘT](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
-- [Kiểm tra nâng cao](core_05_band_oversight.md#heightened-scrutiny) · [ồ](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [MỘT](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
+- [Kiểm tra nâng cao](../../core_05.050_band_oversight.md#heightened-scrutiny) · [ồ](../../core_05.050_band_oversight.md#heightened-scrutiny) · [M](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [MỘT](../../core_05.050_band_oversight.md#heightened-scrutiny-a) · [C](../../core_05.050_band_oversight.md#heightened-scrutiny-c)
 
 </details>
 
@@ -644,7 +644,7 @@ Những tầng đó áp dụng cho **quyền lực thể chế đặc biệt** t
 
 Điều này đặt ra mức độ giám sát cao đối với các hệ thống cưỡng chế và gây chết người tự động:
 
-- **Sàn được nâng cao kiểm tra:** Hai lớp hệ thống có thể được xem xét theo [Kiểm tra nâng cao](core_05_band_oversight.md#heightened-scrutiny):
+- **Sàn được nâng cao kiểm tra:** Hai lớp hệ thống có thể được xem xét theo [Kiểm tra nâng cao](../../core_05.050_band_oversight.md#heightened-scrutiny):
   - **hệ thống gây chết người tự động** — các hệ thống lựa chọn, tham gia hoặc chỉ đạo lực lượng nhắm mục tiêu một cách vật chất mà không có sự phán xét đồng thời, có ý nghĩa thực chất của con người;
   - **công cụ cưỡng chế tự trị** — các hệ thống áp dụng các tác động cưỡng chế lên người có tri giác thông qua hành vi thích ứng tự chủ, ngay cả khi các tác động đó không gây chết người.
 
@@ -666,9 +666,9 @@ Những tầng đó áp dụng cho **quyền lực thể chế đặc biệt** t
 - **Kỷ luật chiến đấu / không chiến đấu:** Các hệ thống gây chết người tự động phải tuân thủ các quy định **Điều XIV-B** (*Sử dụng vũ lực, xung đột vũ trang và giới hạn sức mạnh quân sự*) *Sự phân biệt chiến binh / không chiến đấu*.
   - Các hệ thống có độ chính xác phân loại, độ bền trong điều kiện đối nghịch hoặc điều kiện mở rộng hoặc hành vi ở chế độ lỗi không đáp ứng một cách độc lập các **Điều XIV-B** (*Sử dụng vũ lực, xung đột vũ trang và giới hạn sức mạnh quân sự*) không tuân thủ bất kể việc định khung mục đích của người điều hành.
   - **Điều kiện đối nghịch, quy mô và bị lợi dụng** đánh giá được áp dụng.
-- **Tương tác rủi ro hiện sinh:** Các hệ thống gây sát thương tự động ở quy mô, mức năng lực hoặc điều kiện triển khai có liên quan nghiêm trọng **Điều I-D** (*Rủi ro hiện hữu và khả năng phục hồi sinh thái*) việc giám sát rủi ro hiện sinh phải tuân theo điều khoản đó [sự giám sát cao nhất](core_05_band_oversight.md#highest-scrutiny).
+- **Tương tác rủi ro hiện sinh:** Các hệ thống gây sát thương tự động ở quy mô, mức năng lực hoặc điều kiện triển khai có liên quan nghiêm trọng **Điều I-D** (*Rủi ro hiện hữu và khả năng phục hồi sinh thái*) việc giám sát rủi ro hiện sinh phải tuân theo điều khoản đó [sự giám sát cao nhất](../../core_05.050_band_oversight.md#highest-scrutiny).
   - Các khung coi các hệ thống như vậy là mở rộng năng lực thông thường hơn là **Điều I-D** Các đối tượng (*Rủi ro hiện hữu và Năng lực phục hồi sinh thái*) không tuân thủ.
-- **Tương tác lớp hệ thống:** Phân loại hoạt động, độ tin cậy và **CS-3 — Phân loại và xử lý hệ thống** lộ trình quản trị theo quy mô lớp đến lớp hệ thống — **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) và đường cơ sở **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**.
+- **Tương tác lớp hệ thống:** Phân loại hoạt động, độ tin cậy và **CS-3 — Phân loại và xử lý hệ thống** lộ trình quản trị theo quy mô lớp đến lớp hệ thống — **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) và đường cơ sở **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**.
   - Mâu thuẫn được giải quyết theo **Chương Một §13.1.5** (*Nguyên tắc ràng buộc ít hạn chế nhất, có giới hạn thời gian và có thể xem xét lại*) mà không thu hẹp Tầng quyền.
 
 <a id="article-xiv-d-counter-espionage-limits"></a>
@@ -687,8 +687,8 @@ Người bị nghi vẫn giữ đầy đủ quyền: cấm tra tấn, đe dọa,
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Tính toàn vẹn về mặt nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức) · [ồ](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [MỘT](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Quyền tự quyết](core_05_band_participation.md#self-determination-constitutional) · [ồ](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [MỘT](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
-- [Khả năng cạnh tranh](core_05_band_accountability.md#contestability) · [ồ](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [MỘT](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Quyền tự quyết](../../core_05.055_band_participation.md#self-determination-constitutional) · [ồ](../../core_05.055_band_participation.md#self-determination-constitutional) · [M](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [MỘT](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [C](../../core_05.055_band_participation.md#self-determination-constitutional-c)
+- [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability) · [ồ](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [MỘT](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -696,7 +696,7 @@ Người bị nghi vẫn giữ đầy đủ quyền: cấm tra tấn, đe dọa,
 
 *Nói một cách dễ hiểu: **Điều XV** (*Tính toàn vẹn của không gian thông tin*) là Tầng Quyền về tính toàn vẹn của thông tin — môi trường chia sẻ nơi chúng ta học hỏi, phối hợp và quyết định phải luôn trung thực, đa dạng và cởi mở với thách thức. Không ai có thể sở hữu được nguồn gốc của sự thật. Việc xếp hạng, tóm tắt và người gác cổng phải thể hiện được công việc của mình, đồng thời bạn phải có khả năng so sánh các quan điểm khác và phản bác khi thông tin đánh lừa bạn.*
 
-Điều này nêu rõ **tầng hiến pháp** vì [Thông tin-Sphere](core_05_band_participation.md#info-sphere) tính toàn vẹn dưới [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims):
+Điều này nêu rõ **tầng hiến pháp** vì [Thông tin-Sphere](../../core_05.055_band_participation.md#info-sphere) tính toàn vẹn dưới [Hai mục tiêu hiến pháp](core_00_preamble.md#two-constitutional-aims):
 
 - **Khởi sắc:** người dùng có thể truy cập thông tin chính xác, phù hợp; so sánh các cách giải thích khác nhau; và thực hiện quyền tự quyết mà không nắm bắt được nhận thức, sự đồng thuận được tạo ra hoặc sự phụ thuộc sai lầm vào những gì hệ thống cho là đúng.
 - **Tính liên tục:** lĩnh vực thông tin vẫn ở dạng số nhiều, có thể kiểm tra và linh hoạt theo thời gian và quy mô - cơ sở hạ tầng tri thức không được tập trung âm thầm vào các điểm hòa giải duy nhất, ngăn chặn việc sửa chữa hoặc làm suy giảm hồ sơ chung mà sự tồn tại, phối hợp và quản lý tầm nhìn dài hạn phụ thuộc vào.
@@ -716,14 +716,14 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
 
 - **Cùng đọc:** **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*) trong đó kết quả đầu ra của hệ thống định hình sự tin cậy; **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) đối với hồ sơ và xác minh độc lập; **Điều XV-D** (*Tính toàn vẹn của xuất bản, đánh giá và nhân rộng khoa học*) trong đó tính toàn vẹn trong phạm vi xuất bản có liên quan nghiêm trọng.
 - **Hạn chế về sự thật:** Chương một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) Và [Những hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-các-giới-hạn-đối-với-việc-tiết-lộ-tri-thức) liên kết mọi tiểu mục ở đây.
-- **Phân loại:** **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống** cân nhắc các nghĩa vụ chi tiết trong phạm vi thông tin đối với **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống; [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) kích hoạt phân loại trong đó lớp không được giải quyết.
+- **Phân loại:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống** cân nhắc các nghĩa vụ chi tiết trong phạm vi thông tin đối với **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống; [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) kích hoạt phân loại trong đó lớp không được giải quyết.
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### Điều XV-A: Tính đa dạng của lĩnh vực thông tin và chống độc quyền
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -746,7 +746,7 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
   - Dữ liệu liên quan đến sinh tồn và sinh thái phải được lưu trữ mạnh mẽ, phân bổ theo địa lý.
 - **Tính đa nguyên, khả năng cạnh tranh và kiểm toán:** Việc giải thích hiện thực phải duy trì ở dạng số nhiều, minh bạch và có thể tranh cãi.
   - **Điều XVI** (*Kiểm toán, tính minh bạch và xác minh độc lập*) và **Chương hai đến chương bốn** quản lý hồ sơ và xác minh độc lập cho các hệ thống theo Hiến pháp này.
-  - Vì **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống tóm tắt, xếp hạng, hòa giải hoặc giải thích, chi tiết hoạt động xuất hiện trong **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống** và các lớp giao thức liên quan. Chi tiết đó bao gồm:
+  - Vì **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống tóm tắt, xếp hạng, hòa giải hoặc giải thích, chi tiết hoạt động xuất hiện trong **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống** và các lớp giao thức liên quan. Chi tiết đó bao gồm:
     - bộc lộ cách tiếp cận lý luận;
     - xử lý xuất xứ và sự không chắc chắn;
     - khả năng cạnh tranh;
@@ -767,7 +767,7 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
 
 - [Minh bạch](core_05_band_oversight.md#minh-bạch) · [ồ](core_05_band_oversight.md#minh-bạch) · [M](core_05_band_oversight.md#transparency-a) · [MỘT](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) · [ồ](core_05_band_oversight.md#khả-năng-kiểm-toán) · [M](core_05_band_oversight.md#auditability-a) · [MỘT](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Khả năng cạnh tranh](core_05_band_accountability.md#contestability) · [ồ](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [MỘT](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability) · [ồ](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [MỘT](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -796,14 +796,14 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-các-giới-hạn-đối-với-việc-tiết-lộ-tri-thức), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-các-giới-hạn-đối-với-việc-tiết-lộ-tri-thức), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) · [ồ](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [MỘT](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [Dấu chân sinh thái](../../core_05.040_band_continuity.md#ecological-footprint) · [ồ](../../core_05.040_band_continuity.md#ecological-footprint) · [M](../../core_05.040_band_continuity.md#ecological-footprint-a) · [MỘT](../../core_05.040_band_continuity.md#ecological-footprint-a) · [C](../../core_05.040_band_continuity.md#ecological-footprint-c)
 - [Minh bạch](core_05_band_oversight.md#minh-bạch) · [ồ](core_05_band_oversight.md#minh-bạch) · [M](core_05_band_oversight.md#transparency-a) · [MỘT](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Sự thật (Ràng buộc Hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp) · [ồ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [MỘT](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
@@ -821,9 +821,9 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
   - tránh báo cáo có chọn lọc, ngăn chặn hoặc tiết lộ rời rạc làm giảm đáng kể sự hiểu biết liên quan đến quyết định.
 
   Trường hợp việc tiết lộ bị hạn chế theo **Chương Một §19** (*Điều chỉnh khuyến khích và nắm bắt hệ thống*), các giới hạn phải được duy trì trong phạm vi hẹp, có giới hạn thời gian và có thể xem xét được.
-- **Dữ liệu dấu chân:** Báo cáo theo tiểu mục này thực hiện tính minh bạch cho [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) như được định nghĩa trong **Chương năm**.
+- **Dữ liệu dấu chân:** Báo cáo theo tiểu mục này thực hiện tính minh bạch cho [Dấu chân sinh thái](../../core_05.040_band_continuity.md#ecological-footprint) như được định nghĩa trong **Chương năm**.
   - Tất cả người nhận phải có quyền truy cập vào báo cáo minh bạch, có thể sử dụng để đưa ra quyết định.
-  - **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống, như được định nghĩa trong **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**, phải cung cấp quyền truy cập tương tự.
+  - **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống, như được định nghĩa trong **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**, phải cung cấp quyền truy cập tương tự.
   - Báo cáo phải bao gồm mức tiêu thụ năng lượng và tài nguyên cũng như các tác động ước tính đến thế giới tự nhiên theo cách đủ để so sánh, kiểm toán và hoạt động giảm dấu chân.
 
 <a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
@@ -897,14 +897,14 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
 - [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) · [ồ](core_05_band_oversight.md#khả-năng-kiểm-toán) · [M](core_05_band_oversight.md#auditability-a) · [MỘT](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Minh bạch](core_05_band_oversight.md#minh-bạch) · [ồ](core_05_band_oversight.md#minh-bạch) · [M](core_05_band_oversight.md#transparency-a) · [MỘT](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) · [ồ](core_05_band_oversight.md#có-trọngity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [MỘT](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [phụ thuộc](core_05_band_continuity.md#dependency) · [ồ](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [MỘT](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Rủi ro](core_05_band_continuity.md#risk) · [ồ](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [MỘT](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [phụ thuộc](../../core_05.040_band_continuity.md#dependency) · [ồ](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [MỘT](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [Rủi ro](../../core_05.040_band_continuity.md#risk) · [ồ](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [MỘT](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
 
 </details>
 
 <br>
 
-*Nói một cách dễ hiểu: **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) là Tầng Quyền kiểm tra và xác minh — khi một hệ thống ảnh hưởng nghiêm trọng đến cuộc sống của bạn, bạn phải có khả năng thấy đủ những gì nó làm để người ngoài kiểm tra và nhiều đường dẫn độc lập phải có khả năng xem xét và khắc phục lỗi. Kiểm toán không thể là một con dấu cao su, một câu lạc bộ tư nhân hay một mê cung về chi phí và sự chậm trễ được thiết kế để loại bỏ những thách thức. Dưới **giám sát** Chân tứ giác, giám sát yêu cầu kiểm toán; [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) là một quy trình kiểm toán đặc biệt lớn, có tính rủi ro cao trong số những quy trình khác - không phải là quy trình duy nhất.*
+*Nói một cách dễ hiểu: **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) là Tầng Quyền kiểm tra và xác minh — khi một hệ thống ảnh hưởng nghiêm trọng đến cuộc sống của bạn, bạn phải có khả năng thấy đủ những gì nó làm để người ngoài kiểm tra và nhiều đường dẫn độc lập phải có khả năng xem xét và khắc phục lỗi. Kiểm toán không thể là một con dấu cao su, một câu lạc bộ tư nhân hay một mê cung về chi phí và sự chậm trễ được thiết kế để loại bỏ những thách thức. Dưới **giám sát** Chân tứ giác, giám sát yêu cầu kiểm toán; [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) là một quy trình kiểm toán đặc biệt lớn, có tính rủi ro cao trong số những quy trình khác - không phải là quy trình duy nhất.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Hướng dẫn người đọc (không hoạt động): ngăn xếp kiểm tra ba lớp</span></strong></summary>
@@ -919,13 +919,13 @@ Một chồng, ba lớp. Giám sát đòi hỏi khả năng tái tạo. Chứng 
 |---|---|---|---|
 | **1. Tầng** | Những gì chúng ta nợ: kiểm toán có thể tái tạo, xác minh độc lập, thách thức có thể tiếp cận | Điều này, bao gồm XVI-A / XVI-B / XVI-C | Không phải là một quá trình. Không phải là một định nghĩa. Không phải là danh sách kiểm tra văn bản triển khai được thông qua. |
 | **2. Tài sản** | Khả năng tái tạo *là*: người ngoài có thể tái tạo và kiểm tra những gì hệ thống đã làm qua thời gian, trạng thái và bối cảnh vật chất | [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) (Chương Năm) | Không phải Tầng Quyền. Không phải cách thức/thời điểm thực hiện kiểm toán. |
-| **3. Quy trình** | Cách thức và thời điểm kiểm toán trên các hệ thống, tổ chức và diễn đàn | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Quy trình kiểm toán tại nhà*). Phụ lục của nhà điều hành: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (cấp truy cập), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (kiểm tra yêu cầu) | Không phải chứng nhận liên kết hệ thống. Không thay thế cho lớp 1–2. |
+| **3. Quy trình** | Cách thức và thời điểm kiểm toán trên các hệ thống, tổ chức và diễn đàn | [CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md) (*Quy trình kiểm toán tại nhà*). Phụ lục của nhà điều hành: [CJS-3.4](../../corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (cấp truy cập), [CJS-3.5](../../corpus_joint_structure/cjs_05.110_oversight_operations.md) (kiểm tra yêu cầu) | Không phải chứng nhận liên kết hệ thống. Không thay thế cho lớp 1–2. |
 
-**Chương chín không phải là lớp thứ tư.** [Chứng nhận liên kết hệ thống](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình lớn, được giám sát bởi diễn đàn **công dụng** ngăn xếp này. Nó phải đáp ứng các lớp 1–2. Các chế độ anh chị em (kiểm tra hồ sơ phân loại, kiểm tra hồ sơ loại dữ liệu, xác minh khiếu nại, giám sát liên tục) cũng sử dụng ngăn xếp. Không ai trong số họ là một ngôi nhà mới.
+**Chương chín không phải là lớp thứ tư.** [Chứng nhận liên kết hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình lớn, được giám sát bởi diễn đàn **công dụng** ngăn xếp này. Nó phải đáp ứng các lớp 1–2. Các chế độ anh chị em (kiểm tra hồ sơ phân loại, kiểm tra hồ sơ loại dữ liệu, xác minh khiếu nại, giám sát liên tục) cũng sử dụng ngăn xếp. Không ai trong số họ là một ngôi nhà mới.
 
 **Áp dụng văn bản triển khai đã được thông qua; nó không thay thế sàn nhà.** Các phụ lục CS, CI, CF và CJS-3.3 (*Giám sát: các thuật ngữ về khả năng kiểm tra và tái tạo*) thông qua CJS-3.5 (*Giám sát: các thuật ngữ xác minh độc lập và tính toàn vẹn của yêu cầu*) cho biết cách chạy lớp 3 trong một miền. Chúng phải đáp ứng các lớp 1–2. Thời hạn, bí mật và chính sách địa phương là những giới hạn cấp thấp hơn.
 
-Con trỏ tiếp viên (hỗ trợ quy trình; không thể thu hẹp bài viết này): [`triển khai/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
+Con trỏ tiếp viên (hỗ trợ quy trình; không thể thu hẹp bài viết này): [`triển khai/STEWARD_ENTRY_DOORS.md`](../../implementation/STEWARD_ENTRY_DOORS.md#audit).
 
 </details>
 
@@ -955,8 +955,8 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 *Bài viết hàng xóm:*
 
 - **Giám sát → kiểm toán → SAC:** Dưới [Bộ tứ hiến pháp](core_00_preamble.md#constitutional-tetrad) **giám sát** chân, Điều khoản này là nơi kiểm tra của Tầng Quyền.
-  - Triển khai chéo *như thế nào* / *khi* tồn tại trong **[Trang chủ quy trình kiểm toán CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (đọc với **CJS-3.4** / **CJS-3.5** phụ lục OP).
-  - [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình kiểm toán đặc biệt lớn, có tính rủi ro cao — được giám sát bởi diễn đàn, đa miền và được công nhận — trong số các chế độ kiểm toán tương tự:
+  - Triển khai chéo *như thế nào* / *khi* tồn tại trong **[Trang chủ quy trình kiểm toán CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md)** (đọc với **CJS-3.4** / **CJS-3.5** phụ lục OP).
+  - [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) là một quy trình kiểm toán đặc biệt lớn, có tính rủi ro cao — được giám sát bởi diễn đàn, đa miền và được công nhận — trong số các chế độ kiểm toán tương tự:
     - Kiểm tra hồ sơ phân loại hệ thống;
     - Các loại dữ liệu hệ thống Ghi lại kiểm tra;
     - các cuộc đánh giá về tính phức tạp và quản lý;
@@ -966,9 +966,9 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 - **Cùng đọc:**
   - **Điều XV** (*Tính toàn vẹn của không gian thông tin*) trong đó các bản ghi nhận thức và khả năng cạnh tranh có liên quan đáng kể;
   - **Điều XIII-A** (*Đường cơ sở về độ tin cậy và độ tin cậy*) đối với các quyền thách thức mà hoạt động kiểm toán hỗ trợ nhưng không thay thế;
-  - [Chương Chín](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) Và [Chứng nhận căn chỉnh hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) trong đó bằng chứng liên kết phải được xác minh độc lập.
+  - [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) Và [Chứng nhận căn chỉnh hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) trong đó bằng chứng liên kết phải được xác minh độc lập.
 - **Máy móc xác minh:** **Chương hai đến chương bốn** cung cấp tính toàn vẹn của định nghĩa, phân bổ gánh nặng, khả năng quan sát và khả năng tiếp cận xác minh mà Điều khoản này triển khai ở lớp Tầng Quyền.
-- **Phân loại:** quy mô nghĩa vụ với [Quản trị theo quy mô phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) Và **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**; khi giai cấp không chắc chắn, hãy quản lý ở giai cấp hợp lý nhất cho đến khi được giải quyết.
+- **Phân loại:** quy mô nghĩa vụ với [Quản trị theo quy mô phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) Và **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**; khi giai cấp không chắc chắn, hãy quản lý ở giai cấp hợp lý nhất cho đến khi được giải quyết.
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### Điều XVI-A: Khả năng kiểm toán và bằng chứng quan sát được
@@ -1001,7 +1001,7 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §18 Quản trị theo Kỷ luật Quản lý](core_01_c_stewardship_capacity_principles.md#18-quản-trị-dưới-kỷ-luật-quản-thủ).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §18 Quản trị theo Kỷ luật Quản lý](core_01_c_stewardship_capacity_principles.md#18-quản-trị-dưới-kỷ-luật-quản-thủ).
 
 </details>
 
@@ -1009,8 +1009,8 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional) · [ồ](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [MỘT](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Khả năng cạnh tranh](core_05_band_accountability.md#contestability) · [ồ](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [MỘT](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Chụp hệ thống](core_05_band_continuity.md#system-capture) · [ồ](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [MỘT](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability) · [ồ](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [MỘT](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [Chụp hệ thống](../../core_05.040_band_continuity.md#system-capture) · [ồ](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [MỘT](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1040,8 +1040,8 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) · [ồ](core_05_band_oversight.md#khả-năng-kiểm-toán) · [M](core_05_band_oversight.md#auditability-a) · [MỘT](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Khả năng cạnh tranh](core_05_band_accountability.md#contestability) · [ồ](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [MỘT](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Tỷ lệ](core_05_band_accountability.md#proportionality) · [ồ](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [MỘT](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability) · [ồ](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [MỘT](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [Tỷ lệ](../../core_05.035_band_accountability.md#proportionality) · [ồ](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [MỘT](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1077,13 +1077,13 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Rủi ro](core_05_band_continuity.md#risk) · [ồ](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [MỘT](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Rủi ro](../../core_05.040_band_continuity.md#risk) · [ồ](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [MỘT](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
 - [Tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) · [ồ](core_05_band_oversight.md#có-trọngity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [MỘT](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [phụ thuộc](core_05_band_continuity.md#dependency) · [ồ](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [MỘT](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Khả năng đảo ngược](core_05_band_continuity.md#reversibility-constitutional) · [ồ](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [MỘT](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [An toàn (Ràng buộc Hiến pháp)](core_05_band_continuity.md#safety-constraint) · [ồ](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [MỘT](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [phụ thuộc](../../core_05.040_band_continuity.md#dependency) · [ồ](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [MỘT](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [Khả năng đảo ngược](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ồ](../../core_05.040_band_continuity.md#reversibility-constitutional) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [MỘT](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [An toàn (Ràng buộc Hiến pháp)](../../core_05.040_band_continuity.md#safety-constraint) · [ồ](../../core_05.040_band_continuity.md#safety-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [MỘT](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [Tính toàn vẹn về mặt nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức) · [ồ](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [MỘT](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Khả năng cạnh tranh](core_05_band_accountability.md#contestability) · [ồ](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [MỘT](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Khả năng cạnh tranh](../../core_05.035_band_accountability.md#contestability) · [ồ](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [MỘT](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1110,14 +1110,14 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 *Bài viết hàng xóm:*
 
 - **Cùng đọc:** **Điều XVIII** (*Đổi mới, thử nghiệm và tự do sáng tạo trong hộp cát*) trong đó các quy tắc nhẹ hơn chỉ áp dụng khi không có tác động bên ngoài hoặc được ngăn chặn một cách rõ ràng; **Điều XVI** (*Kiểm tra, Minh bạch và Xác minh Độc lập*) để có bằng chứng triển khai và leo thang có thể tái tạo; **Điều XIII-F** (*Đường cơ sở về khả năng phục hồi và tự phục hồi*) trong đó kỷ luật phục hồi giao thoa với sự thay đổi trong vòng đời.
-- **Lớp thực hiện:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Phân loại và xử lý hệ thống*) và [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Thiết kế, thử nghiệm, xác minh và triển khai*). **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống thực hiện các nhiệm vụ vòng đời mạnh mẽ nhất; có hiệu lực **Lớp P** việc điều trị vẫn đang được thực hiện **Điều XVIII** (*Đổi mới, thử nghiệm và tự do sáng tạo trong hộp cát*) chỉ khi không có tác động bên ngoài hoặc được ngăn chặn một cách rõ ràng.
+- **Lớp thực hiện:** [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) (*Phân loại và xử lý hệ thống*) và [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*Thiết kế, thử nghiệm, xác minh và triển khai*). **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống thực hiện các nhiệm vụ vòng đời mạnh mẽ nhất; có hiệu lực **Lớp P** việc điều trị vẫn đang được thực hiện **Điều XVIII** (*Đổi mới, thử nghiệm và tự do sáng tạo trong hộp cát*) chỉ khi không có tác động bên ngoài hoặc được ngăn chặn một cách rõ ràng.
 
 <a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
 #### Điều XVII-A: Quản trị vòng đời và tách biệt môi trường
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
 
 </details>
 
@@ -1125,7 +1125,7 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Quản trị theo quy mô phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) · [ồ](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [MỘT](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [Rủi ro](core_05_band_continuity.md#risk) · [ồ](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [MỘT](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Rủi ro](../../core_05.040_band_continuity.md#risk) · [ồ](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [MỘT](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
 - [Trách nhiệm](core_05_apex_accountability_leg.md#accountability) · [ồ](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [MỘT](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1136,7 +1136,7 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 
 Điều này đặt ra nền tảng cho sự toàn vẹn môi trường:
 
-- **Tính toàn vẹn của môi trường:** **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống thuộc **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**, và những thứ khác không**Lớp P** các hệ thống có tác động quan trọng từ bên ngoài, phải sử dụng các môi trường vận hành có thể tách rời - ví dụ:
+- **Tính toàn vẹn của môi trường:** **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống thuộc **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**, và những thứ khác không**Lớp P** các hệ thống có tác động quan trọng từ bên ngoài, phải sử dụng các môi trường vận hành có thể tách rời - ví dụ:
   - phát triển;
   - thử nghiệm;
   - dàn dựng;
@@ -1155,16 +1155,16 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-các-nguyên-tắc-cốt-lõi-về-đánh-đổi), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-các-nguyên-tắc-cốt-lõi-về-đánh-đổi), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Khả năng đảo ngược](core_05_band_continuity.md#reversibility-constitutional) · [ồ](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [MỘT](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [Rủi ro](core_05_band_continuity.md#risk) · [ồ](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [MỘT](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Tỷ lệ](core_05_band_accountability.md#proportionality) · [ồ](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [MỘT](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Khả năng đảo ngược](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ồ](../../core_05.040_band_continuity.md#reversibility-constitutional) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [MỘT](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [Rủi ro](../../core_05.040_band_continuity.md#risk) · [ồ](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [MỘT](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [Tỷ lệ](../../core_05.035_band_accountability.md#proportionality) · [ồ](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [MỘT](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1175,7 +1175,7 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 Điều này đặt ra các mức sàn cho việc triển khai lũy tiến và khả năng đảo ngược:
 
 - **Triển khai tiến bộ và có thể kiểm tra được:** Những thay đổi làm tăng tác động hoặc sự phụ thuộc quan trọng phải được thực hiện thông qua việc leo thang hợp lý và được ghi chép.
-  - Việc nâng cấp phải phù hợp với **[corpus_systems.md](corpus_systems.md), CS-5 — Thiết kế, thử nghiệm, xác minh và triển khai**.
+  - Việc nâng cấp phải phù hợp với **[corpus_systems.md](../../corpus_systems.md), CS-5 — Thiết kế, thử nghiệm, xác minh và triển khai**.
   - Nó phải bao gồm việc khôi phục và ngăn chặn nếu khả thi.
 - **Khả năng đảo ngược:** Các hệ thống phải kết hợp các cơ chế đảo ngược tương xứng với tác hại tiềm tàng. Ví dụ:
   - quay trở lại;
@@ -1191,7 +1191,7 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
 
 </details>
 
@@ -1218,6 +1218,8 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 - **Vi phạm và biện pháp:** Phân loại sai vi phạm yêu cầu thông tin trung thực của Điều XV; nếu che giấu chứng cứ phải quan sát được thì còn vi phạm Điều XVI-A. Có thể phải kiểm toán, xem xét standing của hệ thống theo XIX-A và giải quyết xung đột theo XX-A.
 
 <a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+<a id="article-xviii-innovation-experimentation-and-creative-freedom"></a>
+
 ### Điều XVIII: Đổi mới, thử nghiệm và tự do sáng tạo trong hộp cát
 
 <details>
@@ -1246,14 +1248,14 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 *Bài viết hàng xóm:*
 
 - **Cùng đọc:** **Điều XVII** (*Vòng đời hệ thống, Môi trường và Khả năng đảo ngược*) khi tác động, sự phụ thuộc hoặc tích hợp vượt quá các điều kiện hộp cát; **Điều XV** (*Tính toàn vẹn của thông tin*) và **Điều XV-D** (*Tính toàn vẹn của xuất bản, phản biện và tái lập khoa học*) trong đó tính toàn vẹn trong phạm vi xuất bản có liên quan nghiêm trọng; **Điều XVI** (*Kiểm toán, Minh bạch và Xác minh Độc lập*) để tiết lộ và xác minh các yêu cầu ngăn chặn và chuyển đổi.
-- **Lớp thực hiện:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Thiết kế, thử nghiệm, xác minh và triển khai*) và [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*Phân loại và xử lý hệ thống*).
+- **Lớp thực hiện:** [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*Thiết kế, thử nghiệm, xác minh và triển khai*) và [**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md) (*Phân loại và xử lý hệ thống*).
 
 <a id="article-xviii-a-sandboxed-scope"></a>
 #### Điều XVIII-A: Phạm vi hộp cát
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §7 Tự Do](core_01_a_values_principles.md#7-freedom-bounded-agency), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §7 Tự Do](core_01_a_values_principles.md#7-freedom-bounded-agency), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1261,7 +1263,7 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Quản trị theo quy mô phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) · [ồ](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [MỘT](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [Rủi ro](core_05_band_continuity.md#risk) · [ồ](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [MỘT](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Rủi ro](../../core_05.040_band_continuity.md#risk) · [ồ](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [MỘT](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
 - [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) · [ồ](core_05_band_oversight.md#có-trọng-impact) · [M](core_05_band_oversight.md#material-impact-a) · [MỘT](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
@@ -1273,13 +1275,13 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 Điều này quy định quyền đổi mới và thử nghiệm cũng như thời điểm áp dụng phương pháp xử lý hộp cát:
 
 - **Quyền đổi mới và thử nghiệm:** Mọi người có quyền đổi mới, thử nghiệm và thể hiện bản thân thông qua các hệ thống hoạt động với yêu cầu cấu trúc giảm bớt khi không có tác động vật chất bên ngoài hoặc được ngăn chặn một cách rõ ràng.
-- **Tính đủ điều kiện của hộp cát:** Xử lý bằng hộp cát - bao gồm cả hợp lệ **Lớp P** phân loại theo **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống** nếu có thể - phụ thuộc vào:
+- **Tính đủ điều kiện của hộp cát:** Xử lý bằng hộp cát - bao gồm cả hợp lệ **Lớp P** phân loại theo **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống** nếu có thể - phụ thuộc vào:
   - ngăn chặn thực tế;
   - khả năng đảo ngược;
   - tích hợp hạn chế với các hệ thống dùng chung.
 
   Nó có thể không được tuyên bố chỉ bởi nhãn hiệu.
-- **Chi tiết triển khai:** Việc xây dựng thêm xuất hiện trong **[corpus_systems.md](corpus_systems.md), CS-5** (*Hệ thống cá nhân, biệt lập và thử nghiệm*; *Hệ thống sáng tạo, giải trí và biểu cảm*).
+- **Chi tiết triển khai:** Việc xây dựng thêm xuất hiện trong **[corpus_systems.md](../../corpus_systems.md), CS-5** (*Hệ thống cá nhân, biệt lập và thử nghiệm*; *Hệ thống sáng tạo, giải trí và biểu cảm*).
 
 <a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
 #### Điều XVIII-B: Ngăn chặn, tiết lộ và chọn tham gia
@@ -1293,9 +1295,9 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Bằng lòng](core_05_band_participation.md#consent-constitutional) · [ồ](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [MỘT](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [Rủi ro](core_05_band_continuity.md#risk) · [ồ](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [MỘT](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Khả năng đảo ngược](core_05_band_continuity.md#reversibility-constitutional) · [ồ](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [MỘT](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [Bằng lòng](../../core_05.055_band_participation.md#consent-constitutional) · [ồ](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [MỘT](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [Rủi ro](../../core_05.040_band_continuity.md#risk) · [ồ](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [MỘT](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [Khả năng đảo ngược](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ồ](../../core_05.040_band_continuity.md#reversibility-constitutional) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [MỘT](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1320,7 +1322,7 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
 
 </details>
 
@@ -1328,8 +1330,8 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Quản trị theo quy mô phân loại](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) · [ồ](core_05_band_oversight.md#quản-trị-chia-tỷ-lệ-theo-phân-loại) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [MỘT](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [phụ thuộc](core_05_band_continuity.md#dependency) · [ồ](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [MỘT](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Khả năng đảo ngược](core_05_band_continuity.md#reversibility-constitutional) · [ồ](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [MỘT](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [phụ thuộc](../../core_05.040_band_continuity.md#dependency) · [ồ](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [MỘT](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [Khả năng đảo ngược](../../core_05.040_band_continuity.md#reversibility-constitutional) · [ồ](../../core_05.040_band_continuity.md#reversibility-constitutional) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [MỘT](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1357,8 +1359,8 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Phần thưởng đổi mới và chống bao vây](core_05_band_integrative.md#thưởng-đổi-mới-và-chống-bao-chiếm) · [ồ](core_05_band_integrative.md#thưởng-đổi-mới-và-chống-bao-chiếm) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [MỘT](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [Khóa hệ thống](core_05_band_continuity.md#systemic-lock-in) · [ồ](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [MỘT](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [Tỷ lệ](core_05_band_accountability.md#proportionality) · [ồ](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [MỘT](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Khóa hệ thống](../../core_05.040_band_continuity.md#systemic-lock-in) · [ồ](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [MỘT](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [Tỷ lệ](../../core_05.035_band_accountability.md#proportionality) · [ồ](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [MỘT](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1398,7 +1400,7 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
     - nền tảng giáo dục;
     - liên quan đến an toàn;
     - chủ yếu được sử dụng làm cơ sở hạ tầng văn hóa hoặc thông tin dùng chung.
-- **Xử lý đổi mới theo quy mô phân loại:** Phần thưởng đổi mới phải mở rộng theo lớp hệ thống, sự phụ thuộc và hiệu ứng phối hợp theo **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**.
+- **Xử lý đổi mới theo quy mô phân loại:** Phần thưởng đổi mới phải mở rộng theo lớp hệ thống, sự phụ thuộc và hiệu ứng phối hợp theo **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**.
   - Vì **Lớp A**, **Lớp B**, Và **Lớp C** hệ thống, cơ chế khen thưởng bảo toàn quyền truy cập được ưu tiên mạnh mẽ. Việc loại trừ phải đặc biệt ở phạm vi hẹp, có thể xem xét nhanh chóng và dễ dàng loại bỏ khi tính liên tục, khả năng tương tác, sửa chữa hoặc việc triển khai vì lợi ích công cộng có liên quan đáng kể.
   - Sự đổi mới có mức độ phụ thuộc thấp hơn bên ngoài các nhóm đó có thể sử dụng loại trừ tạm thời rộng hơn một chút khi việc tiết lộ là có thật, chi phí chuyển đổi thấp và các biện pháp bảo vệ chống khóa vẫn có hiệu quả.
 - **Điều kiện công bố và mức lợi ích công chúng:** Yêu cầu về phần thưởng yêu cầu tiết lộ đầy đủ để hiểu, kiểm toán và sao chép độc lập sau này, chỉ tuân theo các giới hạn tạm thời hợp lý theo **Chương một** Và **Điều XVII-A** (*Quản trị vòng đời và tách biệt môi trường*).

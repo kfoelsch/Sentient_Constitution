@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第五章の羅針](core_05__definitions_home.md#第五章の羅針と定義地図)；[憲法四元](core_00_preamble.md#constitutional-tetrad)（参加脚；[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ）；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；第一次の目的 [繁栄](core_00_preamble.md#flourishing)。
-- 下流：原則：[前文 §1 モデル](core_00_preamble.md#the-model)；[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)；[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)；[§11.1.5 憲法上の成果主張の規律](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)；[影響を受ける側のシステム参加](../../core_05.055_band_participation.md#stakeholder-status-and-weight)が適用されるところ；[四元脚の分解](#participation-tetrad-leg-decomposition)；参加帯の葉定義は [core_05_band_participation.md](../../core_05.055_band_participation.md)。
+- 下流：原則：[前文 §1 モデル](core_00_preamble.md#the-model)；[第一章 §5 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)；[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md)；[§11.1.5 憲法上の成果主張の規律](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)；[影響を受ける側のシステム参加](../../core_05.055_band_participation.md#stakeholder-status-and-weight)が適用されるところ；[四元脚の分解](#participation-tetrad-leg-decomposition)；参加帯の葉定義は [core_05_band_participation.md](../../core_05.055_band_participation.md)。
 - あわせて読む：[意味ある行為主体性](../../core_05.055_band_participation.md#meaningful-agency)、[争訟可能性](../../core_05.035_band_accountability.md#contestability)（参加／説明責任の境界）、[アクセス可能性](../../core_05.055_band_participation.md#accessibility)、[実質的公正](../../core_05.055_band_participation.md#substantive-fairness)、[拘束力ある影響を受ける側の選択](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice)、[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)（適時の参加）、[分類に応じた統治](../../core_05.050_band_oversight.md#classification-scaled-governance)、および参加の測定ファミリー。
 
 </details>
@@ -61,7 +61,7 @@
     - [実質的公正](../../core_05.055_band_participation.md#substantive-fairness)；
     - [影響を受ける側の重み](../../core_05.055_band_participation.md#stakeholder-weight)；
     - [システム捕捉](../../core_05.040_band_continuity.md#system-capture)；および
-    - [第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)。
+    - [第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)。
 <a id="participation-constitutional-c"></a>
 - C: 不遵守であるとき：
   - 構造的排除がある；

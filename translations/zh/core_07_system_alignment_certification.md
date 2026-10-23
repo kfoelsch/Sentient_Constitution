@@ -12,10 +12,10 @@
 > | 部分 | 文件 | 统管 |
 > |------|------|------|
 > | **A 部分 — 评价** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10：宗旨、系统类别、整系统评价（包括章程范围对照功能边界）、领域评价挂钩、按类别的示例走查 |
-> | **B 部分 — 记录与过程** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16：认证记录（包括统管[章程](core_05_band_continuity.md#charter)字段）、透明/可质疑性、评议所角色、监督序列、轨迹桥接、重开 — 自 A 部分 §10 起的连续章节编号 |
+> | **B 部分 — 记录与过程** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16：认证记录（包括统管[章程](../../core_05.040_band_continuity.md)字段）、透明/可质疑性、评议所角色、监督序列、轨迹桥接、重开 — 自 A 部分 §10 起的连续章节编号 |
 >
 > 原单文件第七章的遗留锚点保留在 A 部分与 B 部分文件上。其他文件中的泛指 **第七章** 链接按节号路由到相应部分。
-> 机构章程形成、最低字段与定期审查义务住在 [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** — 第七章取用那些字段；它不重新定义它们。
+> 机构章程形成、最低字段与定期审查义务住在 [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** — 第七章取用那些字段；它不重新定义它们。
 
 >
 > **上一篇（本语种）：** [core_06_rights_part_d.md](core_06_rights_part_d.md)

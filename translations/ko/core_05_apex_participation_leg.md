@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제5장 나침반](core_05__definitions_home.md#제5장-나침반과-정의-지도); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) (참여 다리; [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); 일차 목적 [번영](core_00_preamble.md#flourishing).
-- 하류: 원칙: [전문 §1 모형](core_00_preamble.md#the-model); [제1장 §5 자유](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 헌법 결과 주장 규율](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [영향받는 쪽의 체계 참여](../../core_05.055_band_participation.md#stakeholder-status-and-weight)가 적용되는 곳; [사원(四元) 다리 분해](#participation-tetrad-leg-decomposition); [core_05_band_participation.md](../../core_05.055_band_participation.md)의 참여 띠 잎 정의.
+- 하류: 원칙: [전문 §1 모형](core_00_preamble.md#the-model); [제1장 §5 자유](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md); [§11.1.5 헌법 결과 주장 규율](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [영향받는 쪽의 체계 참여](../../core_05.055_band_participation.md#stakeholder-status-and-weight)가 적용되는 곳; [사원(四元) 다리 분해](#participation-tetrad-leg-decomposition); [core_05_band_participation.md](../../core_05.055_band_participation.md)의 참여 띠 잎 정의.
 - 함께 읽기: [의미 있는 행위주체성](../../core_05.055_band_participation.md#meaningful-agency), [다툴 수 있음](../../core_05.035_band_accountability.md#contestability) (참여/책무 경계), [접근성](../../core_05.055_band_participation.md#accessibility), [실체 공정](../../core_05.055_band_participation.md#substantive-fairness), [구속력 있는 영향받는 쪽 선택](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional) (제때 참여), [분류에 맞춰 세기 조절된 거버넌스](../../core_05.050_band_oversight.md#classification-scaled-governance), 그리고 참여 측정 가족.
 
 </details>
@@ -61,7 +61,7 @@
     - [실체 공정](../../core_05.055_band_participation.md#substantive-fairness);
     - [영향받는 쪽 무게](../../core_05.055_band_participation.md#stakeholder-weight);
     - [체계 포획](../../core_05.040_band_continuity.md#system-capture); 그리고
-    - [제1장 §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [제1장 §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: 비준수일 때:
   - 구조적 배제가 있고;
