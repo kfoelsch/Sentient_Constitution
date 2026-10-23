@@ -87,6 +87,35 @@ This chapter does not apply to a Class P Operating Party. Its acts stay inside i
 
 The seats in this chapter define who may do what for a particular act; they are not job titles. The same sentient, office, or system may hold different seats for different acts. A title, delegation, technical capability, or ability to perform a step does not enlarge the seat held for that act.
 
+<a id="11-why-the-jobs-are-separated"></a>
+#### 1.1 Why the jobs are separated
+
+*In plain terms: the same lesson has been learned again and again in business, government, and nuclear security. When one party can start an act, approve it, write it down, and judge any complaint about it, no one else is in a position to catch a mistake or a lie.*
+
+This subsection explains the reasons for the requirement. It is non-operative: the binding rules are in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement) through [§9 Relationship to Later Processes](#9-relationship-to-later-processes).
+
+Several fields reached the same idea on their own:
+
+- **Accounting and internal control:** Businesses and auditors have long divided the work of authorizing a transaction, recording it, holding the assets, and reconciling the books, so that no single clerk can both take money and hide the taking. Internal-control frameworks such as COSO list separation of duties among their basic control activities.
+- **Separation of powers in government:** Montesquieu argued in *The Spirit of the Laws* (1748) that liberty is in danger when one body makes, carries out, and judges the laws. James Madison, in *Federalist No. 51* (1788), defended a design in which each branch has the means to resist the others. Many constitutions since have divided power in similar ways.
+- **Two-person rules:** The United States military requires two authorized crew members to act together before certain nuclear weapons can be launched or accessed, so that no single one can act alone (Air Force Instruction 91-104). Banks have long put dual keys on vaults for the same reason. A two-person rule confirms who is acting and whether the order is genuine, not whether the order is sound. That is why this chapter asks for an independent check, not just a second signature.
+- **What happens without separation:** At Barings Bank in 1995, Nick Leeson ran both the Singapore trading desk and the back office that settled and recorded its trades. He hid losses in a secret account. An internal audit in 1994 had flagged the combined role as a major risk, but management left it in place. The bank, then more than two centuries old, collapsed in February 1995 with losses of about S$2.2 billion and was sold to ING.
+
+These examples do not show that any one system is flawless. They show that the idea is old and widely used, and that missing separation is a recurring cause of failure. They are reasons, not authority.
+
+<a id="12-why-four-seats"></a>
+#### 1.2 Why four seats
+
+*In plain terms: two jobs are too few and three leave a gap. Four jobs cover starting the act, checking it, keeping the official record, and hearing a challenge.*
+
+This subsection explains the reasons for the number four. It is non-operative: the seats and their rules are in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement).
+
+- **Two is too few:** A maker-and-checker pair stops one party from approving its own act. It leaves no one to keep the official record or hear a complaint, so whoever holds the record can quietly change what happened, and the pair ends up judging complaints about its own work.
+- **Three powers fit government, not every act:** Making, carrying out, and judging suit a government. A single act also needs a record that outlives it and a route for challenge that does not run through the actor or the approver.
+- **Four matches the points of failure:** One seat starts the act, one checks and authorizes it, one keeps the official record, and one hears challenges. This echoes the divisions in accounting between authorizing, recording, and reviewing.
+- **Automation makes the gap easy to open:** One system can act, sign off, and log its own work in a single step, and its log then looks like proof. [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement) treats that as holding three seats at once.
+- **Small adopters can still comply:** [§6 Proportional Scaling and Merged Hosting](#6-proportional-scaling-and-merged-hosting) lets a small adopter place a seat with an independent body or, on conditions, put two seats in one office. The verify-or-authorize seat is never merged with the record seat or the contest seat.
+
 <a id="2-four-seat-constitutional-requirement"></a>
 ### 2. Four-Seat Constitutional Requirement
 
@@ -510,7 +539,9 @@ The Act Record must identify, at a minimum:
 - every delegation, recusal, substitution, permitted merger, or emergency departure; and
 - the material evidence and record links, handoffs, refusals, conditions, unresolved objections, clocks, superseded versions, and corrections needed to reconstruct the act.
 
-Process-specific records may add stricter or domain-specific fields. They may not omit, contradict, or make unreconstructable this minimum. Lawful privacy, confidentiality, and security controls govern how protected material is accessed or disclosed; they do not permit the official trail to be erased or made unusable for authorized verification, challenge, correction, or remedy.
+A process may require more than this minimum, such as extra or stricter fields for its own kind of work. It may not leave out an item above, contradict one, or keep the record in a form that no longer lets the act be reconstructed.
+
+Lawful privacy, confidentiality, and security rules decide who may see protected material and how it is shared. They never justify erasing the official trail or making it unusable when an authorized reviewer needs it to check the act, challenge it, correct it, or seek a remedy.
 
 Logs show who did what, but they do not by themselves prove that the action was valid. A log, signature, model trace, checklist, or attestation created by the sentient or system taking the action has a limited role:
 
@@ -544,14 +575,7 @@ Every later constitutional process must explain how it assigns and uses all four
 - A separate duplicate record is not required when the official record path remains complete and traceable.
 - Giving a process a different name does not exempt it from [§4 Wrong-Seat Routing](#4-wrong-seat-routing) or [§8 Act Records and Attributable Handoffs](#8-act-records-and-attributable-handoffs), including their handoff and wrong-seat rules.
 
-In particular:
-
-- **Chapter Nine — system alignment certification and institutional alignment certification:** the system operator, the institution's governing authority, or the certification proponent is an initiating seat, not its own verifying authority; bounded component findings, integration of the certification record, custody, and challenges must remain within their lawful seats and anti-self-judging routes.
-- **Chapter Ten — standing records:** the requester, record-opening authority, record custodian, and contest route meet the separation-of-duties requirement through the four seats, together with Chapter Ten's stricter custody, claimant, informal-record, and no-self-custody rules.
-- **Chapter Thirteen — forums:** filing, investigation, merits review, record custody, appeal, and review of a forum's own alleged bias or process abuse must preserve the applicable seat and anti-self-judging boundaries.
-- **Chapter Fourteen — governance:** role definitions, competency plans, delegation, succession, and institutional design must place and sustain the seats rather than merely repeat their names.
-
-A later chapter may impose stronger independence, recusal, separation, custody, panel, or review requirements because its process carries a higher or different risk. It may not narrow this requirement, treat a process-specific label as an exemption, or infer that silence transfers a seat to the actor.
+A later chapter may add stronger independence, recusal, separation, custody, panel, or review requirements because its process carries a higher or different risk. It may not narrow this chapter's requirements, and a seat that is unplaced does not pass to the actor under [§5.3 A seat the map leaves unplaced, or a holder who cannot serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve).
 
 ---
 
