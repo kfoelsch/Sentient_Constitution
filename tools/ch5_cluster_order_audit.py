@@ -35,7 +35,6 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Remedy System",
         "Restorative Justice",
         "Force Majeure",
-        "Capture of Resolution Pathways",
     ],
     "#### Assembly, collective organization, and institutional formation": [
         "Assembly",

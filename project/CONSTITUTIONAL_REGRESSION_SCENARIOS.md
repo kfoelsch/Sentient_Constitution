@@ -726,7 +726,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow
 - **Summary:** Forum maintains formal structures but pipeline milestones chronically overrun without extension — **timeliness** leg hollowed while O·P·A forms persist; may escalate to **tetrad capture** under Chapter Twelve at scale. Vignette: [core_10.005_application_vignettes.md](../core_10.005_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums).
-- **Read with:** [Timeliness](../core_05.030_apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](../core_05.035_band_accountability.md#capture-of-resolution-pathways); [Chapter Twelve](../core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct); **CF-13.445 §3.1**.
+- **Read with:** [Timeliness](../core_05.030_apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](../core_05.040_band_continuity.md#capture-of-resolution-pathways); [Chapter Twelve](../core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct); **CF-13.445 §3.1**.
 
 ### Scenario ID: RS-CH5-GW-001
 - **Class:** implementation / catalog seed (reinstatement)

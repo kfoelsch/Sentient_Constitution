@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-23T04:21:08+00:00
+Generated: 2026-10-23T13:41:08+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **275/275** terms pass tier audit.
+Approved progress: **274/274** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -93,7 +93,7 @@ Approved progress: **275/275** terms pass tier audit.
 | System Alignment Certification | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | System Boundaries | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | System Boundary Integrity | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
-| System Capture | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| System Capture | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | System Certification Record | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | System Charter | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | System Classification Record | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
@@ -304,7 +304,6 @@ Approved progress: **275/275** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
-| Capture of Resolution Pathways | approved | full | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Timeliness | approved | primary_only | tetrad_leg_head | `core_05.030_apex_timeliness_leg.md` | yes | pass |
 | Timely Resolution | approved | full | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 

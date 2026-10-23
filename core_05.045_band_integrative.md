@@ -847,11 +847,11 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - limit how much concentration, leverage, and exposure any actor can take on, scaled to how vulnerable sentients and the wider system are;
     - check for misuse under coordination and high-scale conditions; and
     - treat prices and odds as market signals only — not, by themselves, as proof of truth or compliance; use the same evidence standards as other high-impact decisions.
-  - **Secondary measure:** [Risk](core_05.040_band_continuity.md#risk), [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), and [Insider Advantage](core_05.035_band_accountability.md#insider-advantage) — integrity overlays that can defeat contingent-settlement alignment even when the [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) design controls look satisfied.
+  - **Secondary measure:** [Risk](core_05.040_band_continuity.md#risk), [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), and [Insider Advantage](core_05.035_band_accountability.md#insider-advantage) — integrity overlays that can defeat contingent-settlement alignment even when the [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) design controls look satisfied.
 
     **Secondary assessment:** When checking the primary measure, ask whether these overlays still show misalignment:
     - outcome-manipulation [Risk](core_05.040_band_continuity.md#risk);
-    - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways); or
+    - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways); or
     - [Insider Advantage](core_05.035_band_accountability.md#insider-advantage) or other privileged-information pathways.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
 - **What must hold**

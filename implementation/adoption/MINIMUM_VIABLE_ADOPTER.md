@@ -171,7 +171,7 @@ Do not skip a row because it is expensive. Skipping a row and still claiming the
 First adopters use §10.1–§10.2. There are no published existing-adopter joining rules yet.
 
 <a id="41-first-operating-goal-reusable-standard-processes"></a>
-### 4.1 First operating goal: recognize reusable standard processes
+### 4.1 First operating goal: Standard Process Recognition
 
 *In plain terms: once certification and forums are really running, the cheapest way to cut repeat work is to assess a shared process once and let many systems rely on it. Make that the first reuse project of the first certification cycle. It is a goal, not a step on the ladder above, and it cannot start earlier.*
 
@@ -181,19 +181,19 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 
 - Repeated processes are where certification work repeats most: appeal and complaint intake, change records, outage and hazard notices, hardship and reconnection intake, access requests, incident reporting.
 - [Chapter One §18.6 Standardization](../../core_01.010_stewardship_capacity_principles.md#186-standardization) already makes the common, published form the default. This goal makes that default cheaper to review.
-- CS-9.305 and CS-9.310 §7.10 settles first how a part of a system is bounded, shown to be decoupled, and disclosed. The standard-process work reuses those habits.
+- CS-9.305 and CS-9.310 §7.10 settles first how a part of a system is bounded, shown to be decoupled, and disclosed. The Standard Process Recognition reuses those habits.
 
 **Start only when all four hold.**
 
 1. Steps 5 to 8 above are live: adoption document recorded, certification steward function named, forum families mapped and staffed.
 2. At least one certification cycle has used component findings under CS-9.305 and CS-9.310 §7.10, with decoupling verified on the record at least once.
-3. Chapter Five defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this recognition has a name that is neither "system alignment certification" nor the forum-to-forum sense in [Chapter Thirteen §5](../../core_13.000_forum.md#5-escalation-and-certification).
+3. Chapter Five defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this name, Standard Process Recognition, is distinct from "system alignment certification" and the forum-to-forum sense in [Chapter Thirteen §5](../../core_13.000_forum.md#5-escalation-and-certification).
 4. The four seats of [Chapter Eight](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) are filled, so the owner of a standard is never its recognizer or the hearer of challenges to it.
 
 **Outline of the mechanism (to be settled).**
 
 - **What is recognized.** A published standard process: a repeatable set of steps, decisions, records, clocks, and handoffs. Not a system, and not one operator's running instance of it. The standard must meet §18.6: published, versioned, open to inspection, contestable, and usable without a fee or dependency that gives its owner control over others.
-- **How.** The owner files the standard, its version, and the floors it touches. A forum recognizes it once, against those floors, at the **highest** class of any system that will adopt it. Recognition is scope-bound and time-bound, and states a ceiling on adopter class.
+- **How.** The owner files the standard, its version, and the floors it touches. A forum recognizes the standard once, against those floors, at the **highest** class of any system that will adopt it. Recognition is scope-bound and time-bound, and states a ceiling on adopter class.
 - **How adopters use it.**
   - The adopting system carries a conformity statement and a **local-delta note** (local data, staffing, clocks, tools, and every difference from the standard).
   - Its own certification treats the recognition as evidence about the **design** of the process.

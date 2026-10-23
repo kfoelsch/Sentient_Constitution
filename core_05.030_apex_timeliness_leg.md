@@ -29,7 +29,7 @@
   - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
   - [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4).
 - Read with:
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways),
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency),
   - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden),
@@ -61,7 +61,7 @@ Chapter Five, Timeliness Tetrad leg, is the constitutional owner of the **Timeli
     in the constitutional coordination lifecycle.
   - **Depends on:** the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition):
     - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution);
-    - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways);
+    - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways);
     - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency); and
     - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden).
   - **Out of scope:** leaf-definition details, measurement tiers, and implementation mechanics owned by [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), sibling leaves, and CJS.
@@ -97,7 +97,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 **Timeliness measurement family leaves** — operative measurement tiers:
 
 - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution)
-- [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways)
+- [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways)
 
 **Cross-cutting.** Timeliness runs through participation, oversight, and accountability; those legs must happen in time to be useful.
 
@@ -112,7 +112,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
 - Read with: [Participation](core_05.025_apex_participation_leg.md#participation-constitutional), [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05.005_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
 - Read with: [Chapter Thirteen §6](core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (13.000 §6).
 
@@ -127,7 +127,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
 | [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) | Are disputes resolved while remedy still matters? | Prevents delay from hollowing rights |
-| Anti-delay and resolution-pathway discipline | Do incentives and structures avoid designed backlog, capture, and hollow deadlines? | Detects delay regimes and [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) |
+| Anti-delay and resolution-pathway discipline | Do incentives and structures avoid designed backlog, capture, and hollow deadlines? | Detects delay regimes and [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) |
 
 These measures ask whether process clocks, resolution pathways, and repair velocity keep the **timeliness** leg of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) real in practice — not merely present on paper.
 

@@ -265,7 +265,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - [Event-Contract Market](core_05.035_band_accountability.md#event-contract-market) — a kind of Contingent Claim: external-event settlement venues.
 - [Game of Chance](core_05.035_band_accountability.md#game-of-chance) — a kind of Contingent Claim: chance-based payouts.
 - [Insider Advantage](core_05.035_band_accountability.md#insider-advantage) — the integrity overlay for non-public or role-based edges in staking, trading, settlement, or influence over those structures.
-- [Outcome-Resolution Source](core_05.035_band_accountability.md#outcome-resolution-source) — whoever or whatever decides whether and how those structures settle.
+- [Outcome-Resolution Source](core_05.035_band_accountability.md#outcome-resolution-source) — whoever or whatever decides whether and how those structures settle; [Capture of Resolution Pathways (named form)](core_05.040_band_continuity.md#capture-of-resolution-pathways) — the System Capture form addressing bias in those sources.
 
 *Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Contingent Claim](core_05.035_band_accountability.md#contingent-claim), [Event-Contract Market](core_05.035_band_accountability.md#event-contract-market), [Game of Chance](core_05.035_band_accountability.md#game-of-chance), [Insider Advantage](core_05.035_band_accountability.md#insider-advantage), and [Outcome-Resolution Source](core_05.035_band_accountability.md#outcome-resolution-source) below.
 
@@ -283,7 +283,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Read with:
   - [Game of Chance](core_05.035_band_accountability.md#game-of-chance),
   - [Event-Contract Market](core_05.035_band_accountability.md#event-contract-market),
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways),
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
   - [Insider Advantage](core_05.035_band_accountability.md#insider-advantage),
   - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment),
   - [Risk](core_05.040_band_continuity.md#risk),
@@ -303,10 +303,10 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
-    **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_05.040_band_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment), [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation), [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05.035_band_accountability.md#insider-advantage), and [System Capture](core_05.040_band_continuity.md#system-capture).
+    **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_05.040_band_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment), [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation), [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), [Insider Advantage](core_05.035_band_accountability.md#insider-advantage), and [System Capture](core_05.040_band_continuity.md#system-capture).
 <a id="contingent-claim-c"></a>
 - **What must hold**
-  - **Primary failure:** Structures that reliably pay for unlawful [Harm](core_05.035_band_accountability.md#harm), for twisting rights-relevant decisions, or for [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) — without proportionate safeguards — are non-compliant. A contingent-claim label or paperwork when the structure does not actually work that way for the matter this Constitution governs is also non-compliant.
+  - **Primary failure:** Structures that reliably pay for unlawful [Harm](core_05.035_band_accountability.md#harm), for twisting rights-relevant decisions, or for [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) — without proportionate safeguards — are non-compliant. A contingent-claim label or paperwork when the structure does not actually work that way for the matter this Constitution governs is also non-compliant.
 
 ---
 
@@ -321,7 +321,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05.035_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage)
 - Read with:
   - [Contingent Claim](core_05.035_band_accountability.md#contingent-claim),
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways),
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
   - [Insider Advantage](core_05.035_band_accountability.md#insider-advantage),
   - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint),
   - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment), and
@@ -349,7 +349,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - that whoever decides the outcome (the outcome-resolution source) is independent;
     - that more than one source is used where feasible;
     - privileged-information pathways, [Insider Advantage](core_05.035_band_accountability.md#insider-advantage), and coordination risk; and
-    - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
     Do not treat settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) — under [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets), prices or odds alone are not enough evidence for rights, safety, or governance decisions.
 <a id="event-contract-market-c"></a>
@@ -372,7 +372,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation),
   - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment),
   - [Dependency](core_05.040_band_continuity.md#dependency),
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), and
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), and
   - [Insider Advantage](core_05.035_band_accountability.md#insider-advantage).
 
 </details>
@@ -391,7 +391,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     **Primary assessment:** Check whether the random process is honest, whether the source that decides the outcome is independent, whether stakes are concentrated, whether the design exploits vulnerability, and whether it creates [Dependency](core_05.040_band_continuity.md#dependency). Addictive designs or designs that target vulnerable sentients trigger [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation) review under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="game-of-chance-c"></a>
 - **What must hold**
-  - **Primary failure:** A design is non-compliant if it exploits vulnerability, falsifies randomness, or produces [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways). A game-of-chance label or paperwork when the structure does not actually work that way for the matter this Constitution governs is also non-compliant.
+  - **Primary failure:** A design is non-compliant if it exploits vulnerability, falsifies randomness, or produces [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways). A game-of-chance label or paperwork when the structure does not actually work that way for the matter this Constitution governs is also non-compliant.
 
 ---
 
@@ -408,7 +408,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Contingent Claim](core_05.035_band_accountability.md#contingent-claim),
   - [Event-Contract Market](core_05.035_band_accountability.md#event-contract-market),
   - [Game of Chance](core_05.035_band_accountability.md#game-of-chance),
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways),
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
   - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment),
   - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint),
   - [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity),
@@ -435,7 +435,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - timing leverage such as timed pressure or selective disclosure; and
     - closeness to the source that decides the outcome.
 
-    Check whether disclosure, cooling-off periods, trading restrictions, blind procedures, or resolution by multiple sources reduce the advantage. Separate lawful skill and public information from an edge based on non-public power. Read with [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), [Event-Contract Market](core_05.035_band_accountability.md#event-contract-market) evaluation discipline, [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation), [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity), and [Contestability](core_05.035_band_accountability.md#contestability) under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    Check whether disclosure, cooling-off periods, trading restrictions, blind procedures, or resolution by multiple sources reduce the advantage. Separate lawful skill and public information from an edge based on non-public power. Read with [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), [Event-Contract Market](core_05.035_band_accountability.md#event-contract-market) evaluation discipline, [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation), [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity), and [Contestability](core_05.035_band_accountability.md#contestability) under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="insider-advantage-c"></a>
 - **What must hold**
   - **Primary failure:** A structure is non-compliant if it allows [Insider Advantage](core_05.035_band_accountability.md#insider-advantage) based on non-public power without proportionate safeguards. An insider-advantage label or paperwork when no such advantage actually affects the matter this Constitution governs is also non-compliant.
@@ -453,7 +453,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05.035_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage)
 - Read with:
   - [Contingent Claim](core_05.035_band_accountability.md#contingent-claim),
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways),
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
   - [Insider Advantage](core_05.035_band_accountability.md#insider-advantage),
   - [Contestability](core_05.035_band_accountability.md#contestability).
 
@@ -478,7 +478,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - independence from parties with a material stake;
     - more than one source where feasible;
     - contestable dispute pathways; and
-    - resistance to [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) and [Insider Advantage](core_05.035_band_accountability.md#insider-advantage) where materially relevant.
+    - resistance to [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) and [Insider Advantage](core_05.035_band_accountability.md#insider-advantage) where materially relevant.
 <a id="outcome-resolution-source-c"></a>
 - **What must hold**
   - **Primary failure:** Authorization, design, or operation leaves the source:
@@ -515,9 +515,9 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - [Remedy System](core_05.035_band_accountability.md#remedy-system) — the lasting capacity that makes those dispute-resolution pathways work.
 - [Restorative Justice](core_05.035_band_accountability.md#restorative-justice) — restorative priority where required.
 - [Force Majeure](core_05.035_band_accountability.md#force-majeure) — exceptional external disruptions.
-- [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) — protection against capture of outcome-determination mechanisms.
+- [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) — named form of System Capture addressing outcome-determination mechanisms.
 
-*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Accountability](core_05.005_apex_accountability_leg.md#accountability), [Attributable Action](core_05.035_band_accountability.md#attributable-action), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Negligence](core_05.035_band_accountability.md#negligence), [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Remedy System](core_05.035_band_accountability.md#remedy-system), [Restorative Justice](core_05.035_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) below.
+*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Accountability](core_05.005_apex_accountability_leg.md#accountability), [Attributable Action](core_05.035_band_accountability.md#attributable-action), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Negligence](core_05.035_band_accountability.md#negligence), [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Remedy System](core_05.035_band_accountability.md#remedy-system), [Restorative Justice](core_05.035_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) below.
 
 ---
 
@@ -782,7 +782,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution),
   - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency),
   - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden),
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways),
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness),
   - [Materiality](core_05.050_band_oversight.md#materiality), and
   - [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together).
@@ -801,9 +801,9 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - **Primary measure:** [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
 
     **Primary assessment:** Apply the materiality tiers and pipeline-stage milestones in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Measure timely access and verification, not just the number of matters processed.
-  - **Secondary measure:** [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution), [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), and [Contestability](core_05.035_band_accountability.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
+  - **Secondary measure:** [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution), [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), and [Contestability](core_05.035_band_accountability.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
 
-    **Secondary assessment:** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution), [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden), and [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness). Speed does not excuse skipping checked facts under [Chapters Two through Four](core_02.000_definition_structure.md), the joint requirements of **Article XX-B** (*Restriction Floors*), or core challenge and appeal rights.
+    **Secondary assessment:** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution), [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden), and [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness). Speed does not excuse skipping checked facts under [Chapters Two through Four](core_02.000_definition_structure.md), the joint requirements of **Article XX-B** (*Restriction Floors*), or core challenge and appeal rights.
   - **Tertiary measure:** [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) — where throughput, milestone, or deadline metrics substitute for remedy while harm persists.
 
     **Tertiary assessment:** When operators rely on throughput or completed milestones, apply [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence). Separate lasting Timely Resolution from speed that produces no real remedy.
@@ -1378,47 +1378,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 <a id="capture-of-resolution-pathways"></a>
 
-#### Capture of Resolution Pathways
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Timeliness measurement family (*Anti-delay and resolution-pathway discipline as constitutional measurement*); Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.010 §19.5).
-- Read with:
-  - [System Capture](core_05.040_band_continuity.md#system-capture),
-  - [Anti-Capture](core_05.040_band_continuity.md#anti-capture),
-  - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment),
-  - [Insider Advantage](core_05.035_band_accountability.md#insider-advantage),
-  - [Contingent Claim](core_05.035_band_accountability.md#contingent-claim),
-  - [Event-Contract Market](core_05.035_band_accountability.md#event-contract-market),
-  - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional), and
-  - [Contestability](core_05.035_band_accountability.md#contestability).
-
-</details>
-
-<br>
-
-*In plain terms: parties with money, control, privileged information, or a stake in the result must not be able to bias who or what decides a settlement or another rights-relevant outcome.*
-
-- **What it is**
-  - **In scope:** A form of [System Capture](core_05.040_band_continuity.md#system-capture). Concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities that decide [Contingent Claim](core_05.035_band_accountability.md#contingent-claim) settlements or similar rights-relevant outcomes. Chapter One §19.5 (*Contingent Claims, Games of Chance, and Event-Contract Markets*) calls these decision-makers "outcome-resolution sources."
-  - **Out of scope:** ordinary market competition, disclosed advocacy, or non-controlling participation without bias of outcome-resolution sources.
-<a id="capture-of-resolution-pathways-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — checks whether control or interference causes delay, obstruction, or unfair influence over how disputes are resolved.
-
-    **Primary assessment:** Check whether whoever resolves the outcome is independent from parties with a material stake. Use multiple sources where feasible, provide contestable dispute pathways, and separate market-making, settlement, and adjudication roles when conflicts could distort outcomes.
-  - **Secondary measure:** [System Capture](core_05.040_band_continuity.md#system-capture), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Contestability](core_05.035_band_accountability.md#contestability), and [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) — co-measures that can defeat pathway integrity even when formal dispute channels exist.
-
-    **Secondary assessment:** When evaluating the primary trace, apply [System Capture](core_05.040_band_continuity.md#system-capture) and [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
-  - **Tertiary measure:** [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) — where settlement prices, odds, or resolution metrics substitute for independent resolution-pathway discipline.
-
-    **Tertiary assessment:** When operators rely on prices, odds, or the authority of an outcome-resolution source, apply [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence). Separate lasting resolution-pathway integrity from a captured outcome-resolution source.
-<a id="capture-of-resolution-pathways-c"></a>
-- **What must hold**
-  - **Primary failure:** Parties with a material stake control, bias, or make the resolution system impossible to audit. A capture label that does not reflect actual bias or control in the matter this Constitution governs is also non-compliant.
-  - **Secondary failure:** The system does not satisfy all [System Capture](core_05.040_band_continuity.md#system-capture) obligations when Capture of Resolution Pathways is materially implicated.
-  - **Tertiary failure:** The system treats settlement prices, odds, or resolution metrics as decisive when [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) is reasonably observable.
+This legacy anchor now points to the named form within [System Capture](core_05.040_band_continuity.md#system-capture).
 
 ---
 

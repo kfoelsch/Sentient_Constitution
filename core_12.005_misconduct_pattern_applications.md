@@ -1143,7 +1143,7 @@ It routes evaluation of the named pattern into the existing designation criteria
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Contestability](core_05.035_band_accountability.md#contestability),
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways),
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
   - [Auditability](core_05.050_band_oversight.md#auditability),
   - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and
   - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution).
@@ -1155,7 +1155,7 @@ It routes evaluation of the named pattern into the existing designation criteria
 
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability) · [O](core_05.005_apex_accountability_leg.md#accountability) · [M](core_05.005_apex_accountability_leg.md#accountability-m) · [A](core_05.005_apex_accountability_leg.md#accountability-a) · [C](core_05.005_apex_accountability_leg.md#accountability-c)
 - [Contestability](core_05.035_band_accountability.md#contestability) · [O](core_05.035_band_accountability.md#contestability) · [M](core_05.035_band_accountability.md#contestability-a) · [A](core_05.035_band_accountability.md#contestability-a) · [C](core_05.035_band_accountability.md#contestability-c)
-- [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) · [O](core_05.040_band_continuity.md#capture-of-resolution-pathways) · [M](core_05.040_band_continuity.md#capture-of-resolution-pathways-a) · [A](core_05.040_band_continuity.md#capture-of-resolution-pathways-a) · [C](core_05.040_band_continuity.md#capture-of-resolution-pathways-c)
 - [Auditability](core_05.050_band_oversight.md#auditability) · [O](core_05.050_band_oversight.md#auditability) · [M](core_05.050_band_oversight.md#auditability-a) · [A](core_05.050_band_oversight.md#auditability-a) · [C](core_05.050_band_oversight.md#auditability-c)
 - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) · [O](core_05.050_band_oversight.md#evidence-preservation) · [M](core_05.050_band_oversight.md#evidence-preservation-a) · [A](core_05.050_band_oversight.md#evidence-preservation-a) · [C](core_05.050_band_oversight.md#evidence-preservation-c)
 - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) · [O](core_05.035_band_accountability.md#timely-resolution) · [M](core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05.035_band_accountability.md#timely-resolution-constitutional-c)
@@ -1166,7 +1166,7 @@ It routes evaluation of the named pattern into the existing designation criteria
 
 *In plain terms: attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Ten and Ten.*
 
-**Obstruction of accountability** is not a separate designation criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), which often names a structural condition; this subsection evaluates the conduct that produces, maintains, or exploits that disablement.
+**Obstruction of accountability** is not a separate designation criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), which often names a structural condition; this subsection evaluates the conduct that produces, maintains, or exploits that disablement.
 
 Where a Violation Axis finding already occupies `s` = 7, 8, or 9 and anti-constitutional misconduct is materially alleged, obstruction is reached through the existing **section 2** criteria where it produces the equivalent constitutional effect:
 

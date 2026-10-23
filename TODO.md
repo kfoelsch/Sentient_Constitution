@@ -96,15 +96,12 @@ The signoffs and lifted-hold reference are in [TODO_RESOLVED_2026-10-19.md](arch
 
 The completed Option A review and process definitions are in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 
-- [ ] Name Option B so it is distinct from system alignment certification and forum-to-forum certification.
 - [ ] Draft the Lane D core proposal for Chapter Nine Part B §8.1 and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise.
 - [ ] Connect the process-ownership draft's floor-touching test and certification terminology to the Option B guardrail and naming decision.
 
 ### Chapter One structure and principle alignment
 
-- [ ] Decide the primary aim of §13 and generate Part A map tables from the traceability matrix; see [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md).
-- [ ] Decide the Chapter One widget row-keeping rule, child-widget inheritance, placement of Necessity and Proportionality, heading parentheticals, and §12.5 vocabulary nesting.
-- [ ] Consider the optional principle-to-definitions map using the traceability matrix.
+The 2026-10-23 signoffs and completed edits are archived in [TODO_RESOLVED_2026-10-23.md](archive/TODO_RESOLVED_2026-10-23.md). The generated principle-to-definitions map is at [PRINCIPLE_TO_DEFINITIONS_MAP.md](project/plain_language/PRINCIPLE_TO_DEFINITIONS_MAP.md).
 
 ### Process, system, and institution — potential follow-ups
 
@@ -131,7 +128,7 @@ See the [conceptual overview and corpus alignment review](evidence/2026-09-16/co
 - [ ] Test affordable, accessible remedy capacity using the [minimum viable adopter profiles](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md), including actual staffing, cost, delay, and claimant burden.
 - [ ] Demonstrate a protected route to replace an institution under capture; test Article XXVI and Chapter Fifteen together.
 - [ ] Complete and document the eight ordinary-life and failure exercises in the review's “The world I would endorse” section.
-- [ ] Complete I1 human evidence: an operator with real operational authority sits scenarios 4, 5, 6, and 10; file results under `evaluation/results/`.
+- [ ] Complete the redesigned human operator sitting and independent review under [evaluation/HUMAN_SITTING_PROTOCOL.md](evaluation/HUMAN_SITTING_PROTOCOL.md); file results under `evaluation/results/`.
 
 ### Translation resync after English cleanup
 
@@ -147,6 +144,7 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
+- **2026-10-23 resolved work:** [archive/TODO_RESOLVED_2026-10-23.md](archive/TODO_RESOLVED_2026-10-23.md)
 - **2026-10-21 resolved work:** [archive/TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md)
 - **2026-10-21 pre-cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md)
 - **2026-10-20 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md)

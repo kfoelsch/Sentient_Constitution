@@ -957,7 +957,7 @@ This subsection sets out how Chapter Twelve designation relates to independent r
 - Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*);
   - [Materiality](core_05.050_band_oversight.md#materiality);
   - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution);
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways);
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways);
   - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency).
 - Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay).
 
@@ -968,7 +968,7 @@ This subsection sets out how Chapter Twelve designation relates to independent r
 
 - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) · [O](core_05.035_band_accountability.md#timely-resolution) · [M](core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
-- [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) · [O](core_05.040_band_continuity.md#capture-of-resolution-pathways) · [M](core_05.040_band_continuity.md#capture-of-resolution-pathways-a) · [A](core_05.040_band_continuity.md#capture-of-resolution-pathways-a) · [C](core_05.040_band_continuity.md#capture-of-resolution-pathways-c)
 - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) · [O](core_05.040_band_continuity.md#constitutional-efficiency) · [M](core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](core_05.040_band_continuity.md#constitutional-efficiency-c)
 
 </details>
@@ -1063,7 +1063,7 @@ This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Fl
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Ten §3.1 Verified-input gate](core_10.000_standing_assessment.md#verified-inputs-for-standing));
   - treating restricted-evidence status, or a dispute about access to restricted information, as a reason for a slower column, a longer window, or a continuation (restricted evidence does not slow the clock; see [CF-13.445 §3.3](corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-33-restricted-evidence-timing) (*Restricted-evidence timing*));
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
   - treating a met throughput, closure, or docket target as timely resolution while the harm the matter concerns continues;
   - efficiency claims contrary to Chapter One [§9.2 Constitutional Efficiency](core_01.000_values_principles.md#92-constitutional-efficiency) that:
     - skip fact-checking;

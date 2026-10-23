@@ -306,6 +306,9 @@ ch1-ch5-alignment-audit:
 	$(PYTHON) tools/ch1_ch5_alignment_audit.py --repo-root .
 	@$(PYTHON) tools/prune_audit_evidence.py --root . --quiet
 
+ch1-principle-definition-map: ch1-ch5-alignment-audit
+	$(PYTHON) tools/generate_ch1_principle_definition_map.py --root .
+
 ch10-trace-audit:
 	$(PYTHON) tools/ch10_trace_audit.py --root .
 
