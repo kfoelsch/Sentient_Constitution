@@ -16,6 +16,7 @@ from router_table_lib import (
     load_router_rows,
     primary_owner_line,
     read_with_line,
+    section_title,
     strip_legacy_router_read_labels,
     strip_routing_annotations,
 )
@@ -68,13 +69,23 @@ def main() -> int:
     root = Path(args.root).resolve()
     rows = load_router_rows(root)
     index = build_section_index(root)
+    title_cache: dict[str, str | None] = {}
+
+    def namer(section_id: str) -> str | None:
+        """Section or file title for the ``(*title*)`` gloss after a cited ID."""
+        if section_id not in title_cache:
+            path = index.get(section_id)
+            title_cache[section_id] = (
+                section_title(path.read_text(encoding="utf-8"), section_id) if path else None
+            )
+        return title_cache[section_id]
 
     primary_lines: dict[str, list[str]] = defaultdict(list)
     read_with_lines: dict[str, list[str]] = defaultdict(list)
 
     for row in rows:
         for attach in row.primary_attach:
-            line = primary_owner_line(row)
+            line = primary_owner_line(row, namer)
             if line not in primary_lines[attach]:
                 primary_lines[attach].append(line)
         primary_label = (
@@ -83,7 +94,7 @@ def main() -> int:
         for attach in row.read_with_attach:
             if attach in row.primary_attach:
                 continue
-            line = read_with_line(row)
+            line = read_with_line(row, namer)
             if line not in read_with_lines[attach]:
                 read_with_lines[attach].append(line)
 

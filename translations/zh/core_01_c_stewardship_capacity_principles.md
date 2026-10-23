@@ -811,7 +811,7 @@ flowchart TB
 - 配合阅读：[宪章四元](core_00_preamble.md#constitutional-tetrad)——**监督**支柱（检查者不能是行动者）；**问责**支柱（问责不能只落在行动者身上）；根据[实质利害](core_00_preamble.md#material-stake)进行调整，并遵循[比例性](../../core_05.035_band_accountability.md#proportionality)。
 - 配合阅读：[§19.3 失配检测](#193-错位检测)（*多元检测与审查——“多双眼睛”组合中的一半*）。
 - 配合阅读：[§18.5 模块化架构与依赖纪律](#185-模块化架构与依赖纪律)（*对应的架构原则：系统组件可分离、可归因*）。
-- 下游：[第七章——职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)，是四席底线及其跨流程适用的宪章责任主体；指定的实施文本及后续流程章节适用该底线，不得缩限它。
+- 下游：[第七章——职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md#第七章-职能独立和职责分离)，是四席底线及其跨流程适用的宪章责任主体；指定的实施文本及后续流程章节适用该底线，不得缩限它。
 
 </details>
 
@@ -833,7 +833,7 @@ flowchart TB
 
 **检查工作的人不能同时是完成工作的人。**
 
-只有当检查独立于被检查的行动时，监督与问责才有效。因此，任何对 sentient 产生实质约束的决定或行动，都必须遵守[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)的角色分离规则。这些规则包括：
+只有当检查独立于被检查的行动时，监督与问责才有效。因此，任何对 sentient 产生实质约束的决定或行动，都必须遵守[第七章](core_07_functional_independence_segregation_of_duties.md#第七章-职能独立和职责分离)的角色分离规则。这些规则包括：
 
 - “执行”和“检查”角色由不同的 sentient（人类或 AI）担任；
 - 禁止的角色组合；

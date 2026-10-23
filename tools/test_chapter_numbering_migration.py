@@ -18,6 +18,9 @@ def main() -> int:
     crosswalk = json.loads((root / "tools/architecture/chapter_crosswalk.json").read_text())
     rows = registry["chapters"]
     by_source = {row["original_file"]: row for row in rows}
+    # The crosswalk names corpus files by their dotted destination names (the
+    # "dot chapter numbers" fix), core files by their original names; accept both.
+    by_source.update({row["destination_file"]: row for row in rows})
     assert len(rows) == 116
     assert len({row["machine_id"] for row in rows}) == len(rows)
     assert len({row["destination_file"] for row in rows}) == len(rows)
@@ -39,7 +42,7 @@ def main() -> int:
         row = by_source[source]
         if source not in baseline_anchors:
             original_text = subprocess.check_output(
-                ["git", "show", f"pre-chapter-numbering-2026-10-21:{source}"],
+                ["git", "show", f"pre-chapter-numbering-2026-10-21:{row['original_file']}"],
                 cwd=root, text=True,
             )
             baseline_anchors[source] = anchor_info(original_text)[0]
@@ -136,7 +139,7 @@ def main() -> int:
         shared_item = next(iter(shared.items()))
         anchor_source = next(item for item in crosswalk["anchor_maps"] if item["anchors"])
         row_index = next(i for i, row in enumerate(rows)
-                         if row["original_file"] == anchor_source["source_file"])
+                         if anchor_source["source_file"] in (row["original_file"], row["destination_file"]))
         expected_anchor = anchor_source["anchors"][0]["new_anchor"]
         probe = temp_root / "finalize_probe.md"
         marker = lambda value: "⟦CH" + value + "⟧"

@@ -811,7 +811,7 @@ Hiến pháp này và hoạt động quản trị công chịu sự ràng buộc
 - Đọc cùng: [Tứ trụ Hiến pháp](core_00_preamble.md#constitutional-tetrad) — trụ **giám sát** (người kiểm tra không phải người hành động); trụ **trách nhiệm giải trình** (trách nhiệm không thể dồn hết cho người hành động); phân cấp theo [lợi ích trọng yếu](core_00_preamble.md#material-stake) dưới [Tính tương xứng](../../core_05.035_band_accountability.md#proportionality).
 - Đọc cùng: [§19.3 Phát hiện sự lệch hướng](#193-phát-hiện-sự-không-phù-hợp) (*Phát hiện và rà soát đa nguyên — nửa “nhiều con mắt” của cặp này*).
 - Đọc cùng: [§18.5 Kiến trúc Mô-đun và Kỷ luật Phụ thuộc](#185-kiến-trúc-mô-đun-và-kỷ-luật-phụ-thuộc) (*đối ứng về kiến trúc: các thành phần hệ thống có thể tách rời và quy trách nhiệm được*).
-- Nội dung tiếp nối: [Chương Bảy — Độc lập Chức năng và Phân tách Nhiệm vụ](core_07_functional_independence_segregation_of_duties.md#chương-bảy-tính-độc-lập-chức-năng-và-phân-tách-nhiệm-vụ), chủ thể hiến định quy định mức sàn bốn vị trí và việc áp dụng xuyên quy trình; văn bản triển khai được chỉ định và các chương quy trình về sau áp dụng mức sàn đó và không được thu hẹp nó.
+- Nội dung tiếp nối: [Chương Bảy — Độc lập Chức năng và Phân tách Nhiệm vụ](core_07_functional_independence_segregation_of_duties.md#chương-bảy-độc-lập-chức-năng-và-phân-biệt-nhiệm-vụ), chủ thể hiến định quy định mức sàn bốn vị trí và việc áp dụng xuyên quy trình; văn bản triển khai được chỉ định và các chương quy trình về sau áp dụng mức sàn đó và không được thu hẹp nó.
 
 </details>
 
@@ -833,7 +833,7 @@ Hiến pháp này và hoạt động quản trị công chịu sự ràng buộc
 
 **Người kiểm tra công việc không thể là người đã làm công việc đó.**
 
-Giám sát và trách nhiệm giải trình chỉ có hiệu lực nếu việc kiểm tra độc lập với hành động được kiểm tra. Vì vậy, mọi quyết định hoặc hành động ràng buộc trọng yếu các hữu thể có tri giác phải tuân theo các quy tắc phân tách vai trò tại [Chương Bảy](core_07_functional_independence_segregation_of_duties.md#chương-bảy-tính-độc-lập-chức-năng-và-phân-tách-nhiệm-vụ). Các quy tắc đó bao gồm:
+Giám sát và trách nhiệm giải trình chỉ có hiệu lực nếu việc kiểm tra độc lập với hành động được kiểm tra. Vì vậy, mọi quyết định hoặc hành động ràng buộc trọng yếu các hữu thể có tri giác phải tuân theo các quy tắc phân tách vai trò tại [Chương Bảy](core_07_functional_independence_segregation_of_duties.md#chương-bảy-độc-lập-chức-năng-và-phân-biệt-nhiệm-vụ). Các quy tắc đó bao gồm:
 
 - các hữu thể có tri giác khác nhau (người hoặc AI) trong vai trò “thực hiện” và “kiểm tra”;
 - những cách kết hợp vai trò bị cấm;

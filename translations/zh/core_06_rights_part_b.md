@@ -1813,7 +1813,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
 - 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
-- 配合阅读：[系统俘获](../../core_05.040_band_continuity.md#system-capture)；[反俘获](../../core_05.040_band_continuity.md#anti-capture)；[第七章：职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)。
+- 配合阅读：[系统俘获](../../core_05.040_band_continuity.md#system-capture)；[反俘获](../../core_05.040_band_continuity.md#anti-capture)；[第七章：职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md#第七章-职能独立和职责分离)。
 
 </details>
 
@@ -1839,8 +1839,8 @@ flowchart TB
   - 结构性俘获。
 
   影响力集中——包括隐蔽或间接转移的控制——若缺乏可审计性或质疑途径，即属不合规，并涉及**第十一、十四和十五条**。
-- **职责分离：**[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)（*职能独立与职责分离*）为每项实质约束性行为规定职责分离底线：
-  - 启动、批准、记录与质疑该行为的席位须彼此不同（[§2 四席宪法底线](core_07_functional_independence_segregation_of_duties.md#2-四席宪法底线)）；
+- **职责分离：**[第七章](core_07_functional_independence_segregation_of_duties.md#第七章-职能独立和职责分离)（*职能独立与职责分离*）为每项实质约束性行为规定职责分离底线：
+  - 启动、批准、记录与质疑该行为的席位须彼此不同（[§2 四席宪法底线](core_07_functional_independence_segregation_of_duties.md#2-四席宪法要求)）；
   - 席位须独立于控制行为主体者（[§3 独立性、利益冲突与控制关系](core_07_functional_independence_segregation_of_duties.md#3-独立利益冲突与控制线)）。
 
 若同一有感知者、职务或集团占据本应分离的席位，或控制占据这些席位者，也构成本条所指结构性俘获的迹象。
@@ -1851,7 +1851,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游依据：原则：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 管护纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)和[§19 激励协调与系统俘获](core_01_c_stewardship_capacity_principles.md#19-激励协调与系统俘获)。
-- 联读：[第十二条-D](#article-xii-d-non-capture-safeguards)（*防俘获保障*）；[第十二条-B](#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）；[第十条-A](#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵*）；[第九条-A](#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像与声誉的自我所有权*）；[第十三条-E](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）；[第十五条](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）；[第十一章 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*信息空间泛滥与封堵争议途径*）、[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域泛滥*）和[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)；[第十三章 §1.2](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）。
+- 联读：[第十二条-D](#article-xii-d-non-capture-safeguards)（*防俘获保障*）；[第十二条-B](#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）；[第十条-A](#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵*）；[第九条-A](#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像与声誉的自我所有权*）；[第十三条-E](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）；[第十五条](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）；[第十一章 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*信息空间泛滥与封堵争议途径*）、[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域泛滥*）和[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[第七章](core_07_functional_independence_segregation_of_duties.md#第七章-职能独立和职责分离)；[第十三章 §1.2](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）。
 
 </details>
 
@@ -1895,7 +1895,7 @@ flowchart TB
 - **范围：**这些底线适用于受涵盖机构、其**任命机关**及**采纳机构**。要求按实质利害相称调整。提交至某事项公开记录的文件不属于影响接触；它本身就是记录。
 - **影响接触边界：**受涵盖机构、其**任命机关**及**采纳机构**必须公布**影响接触**规则。影响接触是指[**利害关系方**](../../core_05.035_band_accountability.md#interested-party)为影响待决或可预见事项，在该事项公开记录之外接触成员、委员、工作人员、主持人或简报信息来源。规则按实质利害相称调整，且至少必须：
   - **记录**每次重要影响接触：接触者、时间、渠道、涉及事项，以及所请求或提议内容的摘要；
-  - 将记录存放在独立于被接触成员、委员或工作人员的席位中（[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)）；
+  - 将记录存放在独立于被接触成员、委员或工作人员的席位中（[第七章](core_07_functional_independence_segregation_of_duties.md#第七章-职能独立和职责分离)）；
   - **披露**事项记录中的重要接触，且留出其他参与者回应的时间；
   - 将证据和论点保留在公开记录中：决策不得依赖私人接触所提供的证据或论点；
   - 将任何礼物、利益或未来职位提议，以及任何威胁，视为必须披露、拒绝并依照**CI-5**（*利益冲突完整性、反俘获与反腐败*）转交处理的利益冲突，而非普通接触；并且

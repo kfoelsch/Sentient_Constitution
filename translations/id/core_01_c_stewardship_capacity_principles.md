@@ -819,7 +819,7 @@ Konstitusi ini dan tata kelola publik yang dibatasinya bersifat sekuler dalam ar
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — unsur **pengawasan** (pemeriksa bukan pelaku); unsur **akuntabilitas** (pertanggungjawaban tidak boleh dibebankan hanya kepada pelaku); peningkatan [kepentingan material](core_00_preamble.md#material-stake) berdasarkan [Proporsionalitas](../../core_05.035_band_accountability.md#proportionality).
 - Baca bersama: [§19.3 Deteksi Ketidakselarasan](#193-deteksi-ketidakselarasan) (*Deteksi dan peninjauan jamak—bagian banyak mata dari pasangan ini*).
 - Baca bersama: [§18.5 Arsitektur Modular dan Disiplin Ketergantungan](#185-arsitektur-modular-dan-disiplin-ketergantungan) (*padanan arsitektural: komponen sistem yang dapat dipisahkan dan diatribusikan*).
-- Hilir: [Bab Tujuh — Kemandirian Fungsional dan Pemisahan Tugas](core_07_functional_independence_segregation_of_duties.md#bab-tujuh-kemandirian-fungsional-dan-pemisahan-tugas), pemilik konstitusional atas batas minimum empat kursi dan penerapannya lintas proses; teks implementasi yang ditetapkan serta bab-bab proses berikutnya menerapkan batas minimum itu dan tidak boleh mempersempitnya.
+- Hilir: [Bab Tujuh — Kemandirian Fungsional dan Pemisahan Tugas](core_07_functional_independence_segregation_of_duties.md#bab-tujuh-independensi-fungsional-dan-pemisahan-tugas), pemilik konstitusional atas batas minimum empat kursi dan penerapannya lintas proses; teks implementasi yang ditetapkan serta bab-bab proses berikutnya menerapkan batas minimum itu dan tidak boleh mempersempitnya.
 
 </details>
 
@@ -841,7 +841,7 @@ Konstitusi ini dan tata kelola publik yang dibatasinya bersifat sekuler dalam ar
 
 **Siapa pun yang memeriksa pekerjaan tidak boleh menjadi orang yang mengerjakannya.**
 
-Pengawasan dan akuntabilitas hanya berfungsi jika pemeriksaan dilakukan secara independen dari tindakan yang diperiksa. Karena itu, setiap keputusan atau tindakan yang mengikat makhluk sentien secara material harus mengikuti aturan pemisahan peran dalam [Bab Tujuh](core_07_functional_independence_segregation_of_duties.md#bab-tujuh-kemandirian-fungsional-dan-pemisahan-tugas). Aturan tersebut mencakup:
+Pengawasan dan akuntabilitas hanya berfungsi jika pemeriksaan dilakukan secara independen dari tindakan yang diperiksa. Karena itu, setiap keputusan atau tindakan yang mengikat makhluk sentien secara material harus mengikuti aturan pemisahan peran dalam [Bab Tujuh](core_07_functional_independence_segregation_of_duties.md#bab-tujuh-independensi-fungsional-dan-pemisahan-tugas). Aturan tersebut mencakup:
 
 - makhluk sentien yang berbeda (manusia atau AI) dalam peran "melakukan" dan "memeriksa";
 - kombinasi peran yang dilarang;
