@@ -1114,7 +1114,7 @@ The right to this correction is stated in [Article XIII-B](core_06.010_rights_pa
 - Read with: [§11 Market Structure](#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination), and [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with:
   - [§7.1 Limitation Discipline](#71-limitation-discipline) and
-  - [Chapter Nine §3.2 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#32-time-consistency-constraint) (9.000 §3.2) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
+  - [Chapter Nine §3.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint) (9.000 §3.3) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
   - [§13.1](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles) through
   - [§13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles:

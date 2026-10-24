@@ -667,7 +667,7 @@ The same clock applies to certification seats. If the map does not name who star
 - Downstream:
   - [§6 When a Holder Fails the Formation Check](#6-when-a-holder-fails-the-formation-check);
   - [Chapter Nine Part D §12.2 Institutional evaluation, always](core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.015 §12.2) (item 7, *the forums test the statement*);
-  - [Chapter Nine Part A §3.3 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline) (9.000 §3.3);
+  - [Chapter Nine Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) (9.000 §3.1);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) for the statement template.
 - Read with:
   - [Material Control Line](core_05.035_band_accountability.md#material-control-line);
