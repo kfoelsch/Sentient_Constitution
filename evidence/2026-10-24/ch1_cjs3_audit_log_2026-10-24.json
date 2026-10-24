@@ -264,17 +264,17 @@
     },
     "15.2": {
       "title": "Definitional layer and required disciplines",
-      "line": 1275,
+      "line": 1277,
       "file": "core_01.005_interaction_interpretation.md"
     },
     "15.3": {
       "title": "Ambiguity resolution",
-      "line": 1343,
+      "line": 1345,
       "file": "core_01.005_interaction_interpretation.md"
     },
     "15.4": {
       "title": "Constitutional Meaning Conflict Resolution",
-      "line": 1372,
+      "line": 1374,
       "file": "core_01.005_interaction_interpretation.md"
     },
     "16": {
@@ -606,6 +606,7 @@
         "CI",
         "CS",
         "Chapter Five",
+        "Chapter Thirteen",
         "corpus_systems.md"
       ],
       "op_rules": [
