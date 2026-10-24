@@ -1189,7 +1189,7 @@ Adopted implementation layers may add detail to these protections. They must not
 <a id="1511-anti-segmentation-principle"></a>
 ##### 15.1.1 Anti-Segmentation Principle
 
-*In plain terms: No-Bypass says changing the label does not lift a requirement. This section says the same about chopping. If the questions in one matter belong together, you cannot split them into separate boxes, tracks, or records so that each box passes while the whole matter fails.*
+*In plain terms: No-Bypass says changing the label does not lift a requirement. This section says the same about chopping. If the questions in one matter belong together, you cannot split them into separate boxes, tracks, or records so that each box passes while the whole matter fails. Putting the pieces back together does not lower any of them: each keeps its own standard.*
 
 Where the questions a matter raises materially travel together, assess the matter as one. This applies to jointly invoked definition clusters under [Chapter Five §2.1 Joint invocation and satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction), and to any other matter whose duties are materially interdependent.
 
@@ -1200,6 +1200,8 @@ A matter inside that scope must not be divided into any of the following in a wa
 - separate actors, owners, forums, or time periods.
 
 Meeting one part is not compliance with the whole. Where the matter's duties interlock, the assessment must test them together and give the result for the whole matter.
+
+**No relaxation by read-across.** Assessing a matter as one adds duties; it never lowers one. Each part's own standard controls within its own scope and may not be loosened by importing a laxer standard from another part.
 
 This principle does not:
 - pull unrelated definitions or duties into a matter because one term appears;
