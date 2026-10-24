@@ -159,7 +159,7 @@ flowchart TB
     C["§2 Phase I, Frame<br/>Classify honestly<br/><br/>Class sets depth and re-check schedule"]
     subgraph W["§3–§5 Phase II, Evaluate — Whole-system evaluation"]
         direction LR
-        Al["§3.1–§3.4 IIa — Always<br/><br/>Systemic risk: evaluated, and disclosed<br/>to those who need it; time horizon;<br/>governance; data types"]
+        Al["§3.1–§3.4 IIa — Always<br/><br/>Governance; systemic risk: evaluated,<br/>and disclosed to those who need it;<br/>time horizon; data types"]
         Im["§4 IIb — When implicated<br/><br/>Privacy loci, exit rights,<br/>assembly and dissent"]
         Tr["§5 IIc — When triggered<br/><br/>Applicable Rights-Floor checks<br/>and six domain evaluations"]
         Al ~~~ Im ~~~ Tr
@@ -434,17 +434,17 @@ A **[pilot](core_05.040_band_continuity.md#pilot)** is a [go-live](core_05.040_b
   - [§19](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture);
   - [Chapter One §7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_01.000_values_principles.md#74-voluntary-discontinuation-and-exit-rights) (1.000 §7.4);
   - [Chapter One §7.2 Assembly, Collective Organization, and Institutional Formation](core_01.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation) (1.000 §7.2); **Article XVI** (*Audit, Transparency, and Independent Verification*) where audit, transparency, or independent-verification Rights Floors are materially at stake; Continuity measurement family (
-  - [§3.1](#31-systemic-scope-and-risk-factors) — resilience, reversibility, and systemic risk);
+  - [§3.2](#32-systemic-scope-and-risk-factors) — resilience, reversibility, and systemic risk);
   - [Risk Evaluation](core_05.040_band_continuity.md#risk-evaluation);
   - [Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure);
   - [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure); Participation measurement family (
   - [§4.1](#41-privacy-informational-joint-invocation) — privacy and data stewardship); Accountability measurement family (
-  - [§3.3](#33-governance-incentive-and-contestability-discipline) — incentive alignment and market contestability);
+  - [§3.1](#31-governance-incentive-and-contestability-discipline) — incentive alignment and market contestability);
   - [System Boundaries](core_05.040_band_continuity.md#system-boundaries);
   - [System Charter](core_05.040_band_continuity.md#system-charter).
 - Subsections:
-  - [§3.1](#31-systemic-scope-and-risk-factors) through
-  - [§3.4](#34-data-types-and-handling-evaluation) (*always: systemic factors, time horizon, governance, and data types and handling*). Phase II continues in
+  - [§3.1](#31-governance-incentive-and-contestability-discipline) through
+  - [§3.4](#34-data-types-and-handling-evaluation) (*always: governance, systemic factors, time horizon, and data types and handling*). Phase II continues in
   - [§4 Evaluations Where Implicated](#4-evaluations-where-implicated) (*when implicated: privacy loci, exit rights, and assembly and dissent*) and
   - [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) (*when triggered*).
 
@@ -456,15 +456,9 @@ A **[pilot](core_05.040_band_continuity.md#pilot)** is a [go-live](core_05.040_b
 
 *Worked examples: [Part C](core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) shows how this section plays out in practice. It takes three sample systems, one for each system class, and walks each through the checks above.*
 
-A system alignment certification evaluation is incomplete if it considers only immediate or local effects; whole-system evaluation (Phase II), which closes that gap, has three sub-phases, each in its own section and set out in the table below. This section states the first sub-phase, **IIa**; [§4 Evaluations Where Implicated](#4-evaluations-where-implicated) states **IIb** and [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) states **IIc**. The table orients the reader; it does not add to, narrow, or reorder what any section or subsection requires.
+A certification evaluation must confirm that the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (Participation, Oversight, Accountability, and Timeliness) will be strong enough to meet the [material stake](core_00.000_preamble.md#material-stake) of the system under review.
 
-| When | Sub-phase | Sections | Applies |
-|------|-----------|----------|---------|
-| **Always** | IIa | [§3.1 Systemic Scope and Risk Factors](#31-systemic-scope-and-risk-factors); [§3.2 Time-Consistency Constraint](#32-time-consistency-constraint); [§3.3 Governance, Incentive, and Contestability Discipline](#33-governance-incentive-and-contestability-discipline); [§3.4 Data Types and Handling Evaluation](#34-data-types-and-handling-evaluation) | every materially impactful certification record |
-| **When implicated** | IIb | [§4.1 Privacy (Informational) Joint Invocation](#41-privacy-informational-joint-invocation); [§4.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](#42-voluntary-discontinuation-major-self-modification-and-exit-rights); [§4.3 Assembly, Collective Organization, and Institutional Formation](#43-assembly-collective-organization-and-institutional-formation), including [§4.3.1](#431-dissent-and-peaceful-protest) | where the certification matter materially implicates the locus or principle the subsection names |
-| **When triggered** | IIc | [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) | where a trigger in the §5 table is met |
-
-Certification records must show that the evaluation considered the factors below wherever they are material to:
+Certification records must show that the evaluation considered each factor in this section, in [§4 Evaluations Where Implicated](#4-evaluations-where-implicated), and in [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) wherever it is material to any of the following:
 
 - certification;
 - validation;
@@ -473,61 +467,117 @@ Certification records must show that the evaluation considered the factors below
 - deployment; or
 - lifting a condition placed on a certification.
 
-The evaluation must also confirm that the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) will meet [material stake](core_00.000_preamble.md#material-stake) scaling for the system under review.
+Evaluating only a system's immediate or local effects isn't enough. Phase II, the whole-system evaluation, fills that gap in three parts, listed in the table below. This section covers part **IIa**. [§4 Evaluations Where Implicated](#4-evaluations-where-implicated) covers **IIb**, and [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) covers **IIc**. The table is just a guide; it doesn't change what any section requires.
 
-<a id="31-systemic-scope-and-risk-factors"></a>
-#### 3.1 Systemic Scope and Risk Factors
+| When | Sub-phase | Sections | Applies |
+|------|-----------|----------|---------|
+| **Always** | IIa | [§3.1 Governance, Incentive, and Contestability Discipline](#31-governance-incentive-and-contestability-discipline); [§3.2 Systemic Scope and Risk Factors](#32-systemic-scope-and-risk-factors); [§3.3 Time-Consistency Constraint](#33-time-consistency-constraint); [§3.4 Data Types and Handling Evaluation](#34-data-types-and-handling-evaluation) | every materially impactful certification record |
+| **When implicated** | IIb | [§4.1 Privacy (Informational) Joint Invocation](#41-privacy-informational-joint-invocation); [§4.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](#42-voluntary-discontinuation-major-self-modification-and-exit-rights); [§4.3 Assembly, Collective Organization, and Institutional Formation](#43-assembly-collective-organization-and-institutional-formation), including [§4.3.1](#431-dissent-and-peaceful-protest) | where the certification matter materially implicates the locus or principle the subsection names |
+| **When triggered** | IIc | [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) | where a trigger in the §5 table is met |
+
+<a id="31-governance-incentive-and-contestability-discipline"></a>
+#### 3.1 Governance, Incentive, and Contestability Discipline
+
+*In plain terms: the review is not finished unless reviewers ask whether the four legs of the [Tetrad](core_00.000_preamble.md#constitutional-tetrad) will still hold at the level of risk involved — participation (whether sentients can actually take part), oversight (whether the work can be watched and checked), accountability (whether wrongdoing can be answered for), and timeliness (whether decisions will move fast enough when it matters). Reviewers also need to know who actually holds material authority and who answers for what — not a vague "the team" or a blame-shifting shell. Those questions must be answered for a valid certification.*
+
+Certification evaluation is incomplete if it does not assess whether each of the following will meet [material stake](core_00.000_preamble.md#material-stake) scaling for the system under review:
+
+- **oversight**;
+- **accountability**;
+- **participation**; and
+- **timeliness**.
+
+That assessment must also check that each of the following kinds of material role is **formally assigned, documented, and traceable** well enough that sentients can tell who is answerable and can actually challenge decisions:
+
+- stewardship roles;
+- governance roles; and
+- accountability roles.
+
+This is scaled to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**.
+
+To assess governance, incentives, and contestability, certification must apply the following:
+
+- **[Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth)** — distributed understanding, transparency, auditability, and contestable observability;
+- **[Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — authorized governance and answerability;
+- **[Chapter One §19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — proxy integrity, short-horizon defect correction, and capture response, including:
+  - **[Chapter One §19.1.4 Role-Depth and Material-Responsibility Pathways](core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — roles that carry real consequence, and safeguards against symbolic participation;
+- **[Chapter Fourteen §5 Authorized Roles, Competency Development, and Contribution](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution)** and **[corpus_systems.md](corpus_systems.md), CS-14.305 — Critical system stewardship** — operative role-definition, competency, and traceability requirements where material;
+- **[Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** where audit, transparency, or independent-verification Rights Floors are materially at stake.
+
+**Institutional facts.** This section asks about the governance and incentives of the system's operator or steward. Where that operator or steward is an [Institution](core_05.040_band_continuity.md#institution), those facts are found once, in its Institutional Certification Record, rather than again for every system it runs. The following facts about the Institution may be taken by link from its current record under [Part D §12.2 Institutional evaluation, always](core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always):
+
+- its own governance;
+- its accountable offices; and
+- its reward structures.
+
+Part D does not take these facts on the Institution's word. It tests them against evidence and observed operation, and each finding states what it rests on. Where there is no current Institutional Certification Record, these facts are evaluated directly under this section.
+
+For these facts, the forums for this system:
+
+- still decide whether the facts are enough for this system; and
+- may not find the same institutional fact differently without saying why on the System Certification Record.
+
+A system's own governance, incentives, and contestability are still evaluated here. See [Part D §11.1 Relation to System Alignment Certification](core_09.015_institutional_alignment_certification.md#111-relation-to-system-alignment-certification).
+
+<a id="32-systemic-scope-and-risk-factors"></a>
+#### 3.2 Systemic Scope and Risk Factors
 
 Certification evaluations must consider:
 
-- **dependency relationships and cascading effects** — what fails downstream when something upstream breaks;
-- **aggregation and scale effects** — what changes when many small actions combine;
-- **delayed, cumulative, and probabilistic impacts** — harms that show up later, stack up, or depend on chance;
-- **adversarial conditions and misuse potential** — how bad actors or predictable abuse could exploit the system;
-- **chartered scope versus functional boundaries** — whether the governing [System Charter](core_05.040_band_continuity.md#system-charter), where one exists or is required, matches observed [System Boundaries](core_05.040_band_continuity.md#system-boundaries), and whether stated scope understates material impact or dependency;
-- **ecological recovery capacity** — whether the system could damage the [Ecological Recovery Capacity](core_05.040_band_continuity.md#ecological-recovery-capacity) of any natural ecosystem, at any scale, so that it can no longer regenerate after harm;
-- **existential risks** — outcomes that could threaten sentient survival at civilization scale.
+- **Harms at the largest scales:**
+  - **ecological recovery capacity** — whether the system could damage the [Ecological Recovery Capacity](core_05.040_band_continuity.md#ecological-recovery-capacity) of any natural ecosystem, at any scale, so that it can no longer regenerate after harm;
+  - **existential risks** — outcomes that could threaten sentient survival at civilization scale;
+- **How effects spread and build up:**
+  - **dependency relationships and cascading effects** — what fails downstream when something upstream breaks;
+  - **aggregation and scale effects** — what changes when many small actions combine;
+  - **delayed, cumulative, and probabilistic impacts** — harms that show up later, stack up, or depend on chance;
+- **How the system could be misused or mis-scoped:**
+  - **adversarial conditions and misuse potential** — how bad actors or predictable abuse could exploit the system;
+  - **chartered scope versus functional boundaries** — whether the governing [System Charter](core_05.040_band_continuity.md#system-charter), where one exists or is required, matches observed [System Boundaries](core_05.040_band_continuity.md#system-boundaries), and whether stated scope understates material impact or dependency.
 
-**Risk evaluation and disclosure bridge.** Where systemic [Risk](core_05.040_band_continuity.md#risk) is in scope under the factors above, certification must verify both halves of the Chapter Five pair — not invent a separate named risk-disclosure record species:
+<a id="321-risk-evaluation-and-disclosure-bridge"></a>
+##### 3.2.1 Risk Evaluation and Disclosure Bridge
 
-- **[Risk Evaluation](core_05.040_band_continuity.md#risk-evaluation)** — whether systemic risk was actually evaluated under the conditions that matter (dependency, time horizons, and [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions)), sized to system class and [material stake](core_00.000_preamble.md#material-stake); and
-- **[Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure)** — whether evaluated risk reached the sentients who need it in time to understand, challenge, and act.
+Where systemic [Risk](core_05.040_band_continuity.md#risk) is in scope under the factors above, certification must verify both halves of the Chapter Five pair — not invent a separate named risk-disclosure record species:
 
-Doing only one of these fails:
+- **[Risk Evaluation](core_05.040_band_continuity.md#risk-evaluation)** — whether systemic risk was actually evaluated:
+  - under the conditions that matter (dependency, time horizons, and [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions)); and
+  - at a level sized to system class and [material stake](core_00.000_preamble.md#material-stake).
+- **[Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure)** — whether evaluated risk:
+  - reached the sentients who need it; and
+  - reached them in time to understand, challenge, and act.
+
+<a id="322-defects-and-misalignment"></a>
+##### 3.2.2 Defects and Misalignment
+
+Doing only one of the two halves above fails:
 
 - risk that was evaluated but never shared does not pass; and
 - risk that was shared but never properly evaluated does not pass.
 
-**Defects and misalignment.** The following must be treated as certification defects:
+An internal note, buried appendix, checklist, or after-the-fact statement counts as neither risk evaluation nor risk disclosure.
 
-- treating an internal note, buried appendix, checklist, or after-the-fact statement as either evaluation or disclosure;
+Each of the following must be treated as a certification defect:
+
 - failing to disclose evaluated systemic risk to those who need it where [Transparency](core_05.050_band_oversight.md#transparency) or [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) requires it; or
 - signing off on continued reliance on the system while known risks go undocumented, undisclosed, and unaddressed.
 
 Their consequences are set in [§7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-<a id="32-time-consistency-constraint"></a>
-#### 3.2 Time-Consistency Constraint
+<a id="33-time-consistency-constraint"></a>
+#### 3.3 Time-Consistency Constraint
 
-Certification may not treat near-term metrics, local compliance, or short-horizon efficiency as sufficient where foreseeable medium- or long-horizon violations remain unaddressed. Short-horizon optimization is invalid where it foreseeably produces medium- or long-horizon violations of **Safety**, **Truth**, or **wellbeing** constraints under cumulative, delayed, or cross-system conditions.
+Certification may not treat any of the following as sufficient where foreseeable medium- or long-horizon violations remain unaddressed:
 
-<a id="33-governance-incentive-and-contestability-discipline"></a>
-#### 3.3 Governance, Incentive, and Contestability Discipline
+- near-term metrics;
+- local compliance; or
+- short-horizon efficiency.
 
-*In plain terms: the review is not finished unless reviewers ask whether the four legs of the [Tetrad](core_00.000_preamble.md#constitutional-tetrad) will still hold at the level of risk involved — participation (whether sentients can actually take part), oversight (whether the work can be watched and checked), accountability (whether wrongdoing can be answered for), and timeliness (whether decisions will move fast enough when it matters). Reviewers also need to know who actually holds material authority and who answers for what — not a vague "the team" or a blame-shifting shell. Those questions must be answered for a valid certification.*
+Short-horizon optimization is invalid where it foreseeably produces medium- or long-horizon violations of any of the following constraints under cumulative, delayed, or cross-system conditions:
 
-Certification evaluation is incomplete if it does not assess whether **oversight**, **accountability**, **participation**, and **timeliness** will meet [material stake](core_00.000_preamble.md#material-stake) scaling for the system under review. That assessment must include whether material stewardship, governance, and accountability roles are **formally assigned, documented, and traceable** enough for answerability and practicable contest paths to function — scaled to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**.
-
-For that discipline, certification must read:
-
-- **[Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth)** — distributed understanding, transparency, auditability, and contestable observability;
-- **[Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)** — authorized governance and answerability under stewardship discipline;
-- **[Chapter One §19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)** — incentive alignment, proxy integrity, short-horizon defect correction, and capture response;
-- **[Chapter One §19.1.4 Role-Depth and Material-Responsibility Pathways](core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)** — consequential role pathways and anti-symbolic-participation discipline;
-- **[Chapter Fourteen §5 Authorized Roles, Competency Development, and Contribution](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution)** and **[corpus_systems.md](corpus_systems.md), CS-14.305 — Critical system stewardship** — operative role-definition, competency, and traceability requirements where material;
-- **[Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** where audit, transparency, or independent-verification Rights Floors are materially at stake.
-
-**Institutional facts.** Where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution), the facts about its own governance, accountable offices, and reward structures may be taken by link from its current Institutional Certification Record under [Part D §12.2 Institutional evaluation, always](core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always). The forums for this system still decide whether those facts are enough for this system, and they may not find the same institutional fact differently without saying why on the System Certification Record. A system's own governance, incentives, and contestability are still evaluated here. See [Part D §11.1 Relation to System Alignment Certification](core_09.015_institutional_alignment_certification.md#111-relation-to-system-alignment-certification).
+- **Safety**;
+- **Truth**; or
+- **wellbeing**.
 
 <a id="34-data-types-and-handling-evaluation"></a>
 

@@ -460,7 +460,7 @@ A condition cannot defer a protection that the authorized scope needs in order t
 Certification defects found under any Part A evaluation are not minor paperwork mistakes. They include:
 
 - misclassification under [§2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation);
-- risk-evaluation and risk-disclosure defects under [§3.1 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors);
+- risk-evaluation and risk-disclosure defects under [§3.2.2 Defects and Misalignment](core_09.000_system_alignment_certification_evaluation.md#322-defects-and-misalignment);
 - data-handling defects under [§3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation); and
 - the domain defects named in [§5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) through [§5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
 
@@ -637,7 +637,7 @@ The record must identify, at minimum:
   - uncertainty;
   - the certification interval scaled to system class, stated for each certification status; and
   - where classification is uncertain or contested, the precautionary system class relied on and any conditions pending resolution;
-- **Whole-system evaluation findings:** the material findings under [Part A §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) and [§4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), including findings on systemic scope, privacy joint-invocation, exit, assembly and dissent, time-consistency, governance, incentive, and contestability where implicated. Where systemic risk is in scope under [§3.1 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors), these findings must include:
+- **Whole-system evaluation findings:** the material findings under [Part A §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) and [§4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), including findings on systemic scope, privacy joint-invocation, exit, assembly and dissent, time-consistency, governance, incentive, and contestability where implicated. Where systemic risk is in scope under [§3.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors), these findings must include:
   - [Risk Evaluation](core_05.040_band_continuity.md#risk-evaluation) findings and the assumptions relied on;
   - [Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure) posture: who the disclosure is meant for or how it is routed, its timing relative to material decisions, and any justified hold-backs paired with usable substitutes; and
   - defects or conditions where evaluation or disclosure remains incomplete.
@@ -844,7 +844,7 @@ A **System Certification Record** is **scope-bound** and **time-bound**. It must
   - classification misalignment;
   - a [System Charter](core_05.040_band_continuity.md#system-charter) amendment, a mismatch between the System Charter and behavior, operation materially outside chartered scope, or an overdue periodic System Charter review; and
   - a failed or withdrawn Institutional Certification Record of the operator or steward, where the finding bears on this system ([Part D §14.2 Reopening triggers](core_09.015_institutional_alignment_certification.md#142-reopening-triggers)).
-- **Evaluation misalignment:** misalignment or a defect reflected on the certification record under any Part A evaluation that applied, from [§2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). That includes risk-evaluation or risk-disclosure defects under [§3.1 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors).
+- **Evaluation misalignment:** misalignment or a defect reflected on the certification record under any Part A evaluation that applied, from [§2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). That includes risk-evaluation or risk-disclosure defects under [§3.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors).
 
 **Why reopening matters.** Reopening on misalignment, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). This matters where shared systems gate the durable supply of survival essentials, educational access, capability-building pathways, trustworthy reliance, or safety. An out-of-date certification must not substitute for current Rights-Floor compliance.
 
@@ -1051,7 +1051,7 @@ A system that has never held certification supplies none through this chapter's 
 - infrastructure fragility inappropriate for the system class; and
 - a material defect found under a Part A evaluation that was required, including:
   - a data-handling defect under [§3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
-  - a risk-evaluation or risk-disclosure defect where systemic risk was in scope under [§3.1 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors);
+  - a risk-evaluation or risk-disclosure defect where systemic risk was in scope under [§3.2.2 Defects and Misalignment](core_09.000_system_alignment_certification_evaluation.md#322-defects-and-misalignment);
   - footprint misrepresentation where disclosure was required under [§5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation);
   - a nondiscrimination or proxy-discrimination defect under [§5.4 Nondiscrimination Evaluation](core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation);
   - an accessibility or substantive-participation defect under [§5.5 Accessibility Evaluation](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation);

@@ -740,7 +740,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
        - scope;
        - the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) (or its required dual-axis contents) under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) and [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation);
        - the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) (or its required contents) under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) and [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
-       - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Nine §3.1 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — stated on this record, not as a separate named risk-disclosure record;
+       - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Nine §3.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge) — stated on this record, not as a separate named risk-disclosure record;
        - ecological footprint evaluation where material;
        - cross-system resource stewardship evaluation under [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
        - technical and stakeholder review components;
@@ -1096,7 +1096,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint); [Chapter Nine §3.1 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (9.000 §3.1) (*SAC risk-evaluation half of the evaluation-and-disclosure bridge*); [Chapter Nine Part B §8.1](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*findings on the System Certification Record*).
+- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint); [Chapter Nine §3.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge) (9.000 §3.2.1) (*SAC risk-evaluation half of the evaluation-and-disclosure bridge*); [Chapter Nine Part B §8.1](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*findings on the System Certification Record*).
 - Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (5.040)
 - Read with:
   - [Risk](core_05.040_band_continuity.md#risk),
@@ -1679,7 +1679,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [Proportionality](core_05.035_band_accountability.md#proportionality);
     - [Necessity](core_05.035_band_accountability.md#necessity); and
     - [Harm Minimization (Tradeoff Selection)](core_05.035_band_accountability.md#harm-minimization-tradeoff-selection).
-  - Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Nine §3.2 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#32-time-consistency-constraint).
+  - Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Nine §3.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint).
   - **Tertiary measure:** [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) — where proxies substitute for constitutional outcomes, including:
     - raw throughput;
     - utilization;

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **718** of **1110** headings carry a gloss (65%).
+Coverage: **718** of **1112** headings carry a gloss (65%).
 
 ## Contents
 
@@ -32,7 +32,7 @@ Coverage: **718** of **1110** headings carry a gloss (65%).
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
-- [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (16/60 glossed)
+- [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (16/62 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (13/25 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09.010_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/23 glossed)
@@ -487,7 +487,7 @@ Source file: [`core_01.005_interaction_interpretation.md`](../../core_01.005_int
 
 #### 13. Constitutional Collision Resolution Process
 
-Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](../../core_01.000_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Nine §3.2 Time-Consistency Constraint](../../core_09.000_system_alignment_certification_evaluation.md#32-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.
+Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](../../core_01.000_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Nine §3.3 Time-Consistency Constraint](../../core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.
 
 [Source](../../core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)
 
@@ -1669,7 +1669,7 @@ a Forum Case Record is the case file for a dispute. It is not a Standing Record,
 
 ##### Non-Compliance Finding Profile
 
-an optional profile can describe a material non-compliance finding by Tetrad leg, aim, governance layer, failure character, and severity tier. It helps routing and audit but does not change the underlying verdict.
+an optional profile can describe a material non-compliance finding by Tetrad leg, aim, governance layer, failure character, and severity level. It helps routing and audit but does not change the underlying verdict.
 
 [Source](../../core_05.035_band_accountability.md#non-compliance-finding-profile)
 
@@ -3107,7 +3107,7 @@ a minimum [Cruelty](../../core_05.035_band_accountability.md#cruelty) and welfar
 
 ###### Elevated Communicative Life
 
-a stable protection tier above the Animal Life cruelty / welfare floor for entities with strong communicative or cognitive indicators — including complex shared language systems such as those observed in whales and orcas — that raises the priority of keeping their habitat or operating environment healthy. It does not by itself attach the full Chapter Six Rights Floor. Colloquial labels such as "semi-sentient" do not replace this entry.
+a stable protection level above the Animal Life cruelty / welfare floor for entities with strong communicative or cognitive indicators — including complex shared language systems such as those observed in whales and orcas — that raises the priority of keeping their habitat or operating environment healthy. It does not by itself attach the full Chapter Six Rights Floor. Colloquial labels such as "semi-sentient" do not replace this entry.
 
 [Source](../../core_05.055_band_participation.md#elevated-communicative-life)
 
@@ -3725,7 +3725,7 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 ## CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 16/60 headings glossed
+Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 16/62 headings glossed
 
 #### 1. Purpose and Role
 
@@ -3775,23 +3775,35 @@ you cannot green-light one piece of a system and ignore the rest. Reviewers need
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
-##### 3.1 Systemic Scope and Risk Factors
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors)
-
-##### 3.2 Time-Consistency Constraint
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#32-time-consistency-constraint)
-
-##### 3.3 Governance, Incentive, and Contestability Discipline
+##### 3.1 Governance, Incentive, and Contestability Discipline
 
 the review is not finished unless reviewers ask whether the four legs of the [Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) will still hold at the level of risk involved — participation (whether sentients can actually take part), oversight (whether the work can be watched and checked), accountability (whether wrongdoing can be answered for), and timeliness (whether decisions will move fast enough when it matters). Reviewers also need to know who actually holds material authority and who answers for what — not a vague "the team" or a blame-shifting shell. Those questions must be answered for a valid certification.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline)
+
+##### 3.2 Systemic Scope and Risk Factors
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors)
+
+###### 3.2.1 Risk Evaluation and Disclosure Bridge
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge)
+
+###### 3.2.2 Defects and Misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#322-defects-and-misalignment)
+
+##### 3.3 Time-Consistency Constraint
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint)
 
 ##### 3.4 Data Types and Handling Evaluation
 
@@ -4247,7 +4259,7 @@ system class is not a badge operators choose — it is how much harm, reliance, 
 
 #### Illustrative Whole-System Application by System Class (Non-Exhaustive)
 
-[§3.1 Systemic Scope and Risk Factors](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) through [§4.3 Assembly, Collective Organization, and Institutional Formation](../../core_09.000_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation) list what a whole-system review must consider. This subsection shows how those factors apply to one illustrative system per system class — dependency chains, participation, privacy, exit, assembly, time horizon, and governance discipline — and what must appear on the record. The systems match [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive); [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) walks the same systems through data-handling detail.
+[§3.1 Governance, Incentive, and Contestability Discipline](../../core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) through [§4.3 Assembly, Collective Organization, and Institutional Formation](../../core_09.000_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation) list what a whole-system review must consider. This subsection shows how those factors apply to one illustrative system per system class — dependency chains, participation, privacy, exit, assembly, time horizon, and governance discipline — and what must appear on the record. The systems match [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive); [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) walks the same systems through data-handling detail.
 
 [Source](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive)
 
@@ -5591,7 +5603,7 @@ Part B states Rights Floors for equal standing, self-ownership, family and care,
 
 ##### Article VI-A: Dignity and Equal Moral Standing
 
-every sentient is equal in dignity and standing — origin, form, capability, function, association, or status cannot ground a lesser tier.
+every sentient is equal in dignity and standing — origin, form, capability, function, association, or status cannot ground a lesser level.
 
 [Source](../../core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)
 
@@ -5741,7 +5753,7 @@ if a system materially affects a sentient — directly or through dependency —
 
 ##### Article X-D: Inclusion and Exclusion Challenge Rights
 
-when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
+when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
 
 [Source](../../core_06.005_rights_part_b.md#article-x-d-inclusion-and-exclusion-challenge-rights)
 
@@ -6363,7 +6375,7 @@ the point is good outcomes for sentients — not protecting an institution's com
 
 #### 4. Voting and Binding Collective Choice Protocols
 
-when binding votes or similar choices are used, this section sets the floor — implementation owns ballot mechanics, but cannot slip below these requirements.
+when binding votes or similar choices are used, this section sets the requirements — implementation owns ballot mechanics, but cannot slip below them.
 
 [Source](../../core_14.000_governance.md#4-voting-and-binding-collective-choice-protocols)
 
