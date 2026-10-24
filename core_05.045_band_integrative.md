@@ -352,7 +352,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
   - **Secondary failure:** Continued exclusion of a [Dependency](core_05.040_band_continuity.md#dependency)-critical innovation without:
     - class-scaled tightening;
     - conversion to access-preserving reward; or
-    - sunset under [corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications.
+    - sunset under [CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications).
   - **Tertiary failure:**
     - exclusion that creates [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05.035_band_accountability.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better; or
     - reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter One and Chapter Six justify.
@@ -705,7 +705,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - mere proxy-score or compliance-indicator satisfaction when incentives still undermine constitutional outcomes; and
     - ordinary compensation or targets that do not predictably shape agent, operator, or component behavior.
   - **Implementation routing:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, adopted under Chapter Seventeen and incorporated via Chapter Eighteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer — it does not restate or relocate those operational rules. Operational expectations for materially impactful venues appear in:
-    - `corpus_systems.md` (CS-14.305 — Critical system stewardship, including incentive-scaled governance); and
+    - **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)**, including incentive-scaled governance; and
     - `corpus_institutions.md` (institutional stewardship and incentive alignment requirements).
 <a id="incentive-alignment-a"></a>
 - **How to measure and assess**
@@ -935,7 +935,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - **When it applies:** where [material stake](core_00.000_preamble.md#material-stake) calls for it and the applicable information-type rules permit it.
     - **What must stay available:** governance-relevant data, audit paths, and review tools, accessible to materially affected sentients. They must not be locked inside a single operator, vendor, or oversight bloc.
     - **What this default favors:** inspectable processes, contestable records, and independent verification, consistent with [Chapter One §16.3 Openness Aspiration](core_01.010_stewardship_capacity_principles.md#163-openness-aspiration).
-    - **Subject to:** [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) and [corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling. These include Type N (data that is non-accessible by default) and other classification limits on what may be collected, published, retained, or reconstructed.
+    - **Subject to:** [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) and [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications). These include Type N (data that is non-accessible by default) and other classification limits on what may be collected, published, retained, or reconstructed.
   - **Out of scope:** disclosure that information-type rules forbid. Openness is a default that yields to those limits, not a way around them.
 <a id="open-systems-data-and-auditing-a"></a>
 - **How to measure and assess**

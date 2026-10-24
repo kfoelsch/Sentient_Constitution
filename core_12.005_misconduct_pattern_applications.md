@@ -228,7 +228,7 @@ This subsection does **not** add an additional designation criterion beyond the 
   - [Transparency](core_05.050_band_oversight.md#transparency) in
   - **Chapter Five**.
 - Rights and verification: [Article XI-B: Expression](core_06.005_rights_part_b.md#article-xi-b-expression) and [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) in **Chapter Six**. These supply Rights Floors and verification discipline without relocating designation review.
-- Implementation context: adopted **[corpus_systems.md](corpus_systems.md)** and institutional implementation under **Chapter Eighteen** where materially relevant.
+- Implementation context: adopted **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** and institutional implementation under **Chapter Eighteen** where materially relevant.
 
 </details>
 
@@ -287,7 +287,7 @@ The following are non-exhaustive examples of in-scope means:
 **Operational response** remains governed by those documents and adopted owner layers, including:
 - Rights-Floor implementation under **Chapter Six**;
 - **Article XVI** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline;
-- **[corpus_systems.md](corpus_systems.md)** handling where designated; and
+- **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** handling where designated; and
 - institutional governance under **Chapter Eighteen**.
 
 This subsection states when such conduct may implicate final anti-constitutional-misconduct designation under this chapter; it does not relocate operational rules to this chapter.
@@ -316,7 +316,7 @@ This subsection does **not** add an additional designation criterion beyond the 
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional),
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), and
   - [System Capture](core_05.040_band_continuity.md#system-capture).
-- Implementation context: adopted [corpus_joint_structure.md](corpus_joint_structure.md) anti-corruption and undue-influence auditability controls and adopted [corpus_systems.md](corpus_systems.md) incentive-governance and funding-stewardship controls where materially relevant.
+- Implementation context: adopted [corpus_joint_structure.md](corpus_joint_structure.md) anti-corruption and undue-influence auditability controls and adopted **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)** and **[CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*) incentive-governance and funding-stewardship controls where materially relevant.
 
 </details>
 
@@ -880,7 +880,7 @@ It routes evaluation of the named pattern into the existing designation criteria
   - [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*),
   - [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*),
   - [Article XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*), and adopted
-  - [corpus_systems.md](corpus_systems.md) infrastructure, dependency, reliability, and classification controls where materially relevant.
+  - **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** infrastructure, dependency, reliability, and classification controls where materially relevant.
 - Related patterns: [§5.1](#51-concentration-based-subversion-criteria-interaction) where infrastructure control produces capture or dependency abuse; [§5.6](#56-unlawful-or-unconstitutional-command-conduct) where the conduct is ordered, automated, or technically enforced; [§5.8](#58-enforcement-refusal-suppression-or-non-prosecution-conduct) where accountability for the infrastructure conduct is suppressed.
 - Topic routing (mandatory read-with): [Chapter Eleven §10.11](core_11.000_standing_integration.md#1011-infrastructure-denial-or-dependency-cutoff) (11.000 §10.11) (*Question 3 named-pathway lock routing for infrastructure denial or dependency cutoff — general locks only*).
 - Read with:

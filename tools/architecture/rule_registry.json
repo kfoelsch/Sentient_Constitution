@@ -28,7 +28,9 @@
       "summary": "Trace placement under owning unit; Chapter Six default owner is subarticle.",
       "make_target": "ch9-trace-audit",
       "status": "blocking",
-      "related_targets": ["widget-top-placement-audit"]
+      "related_targets": [
+        "widget-top-placement-audit"
+      ]
     },
     {
       "id": "NAV-TRACE-10",
@@ -308,6 +310,13 @@
       "legacy_ref": "section 7 companion family cites",
       "summary": "Adopted implementation family cites link the authoritative subfile, not the layer wrapper; CJS chapter ids are assigned by the chapter registry.",
       "make_target": "adopted-implementation-cite-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "REF-WRAPPER-01",
+      "legacy_ref": "section 7 companion family cites (wrapper files)",
+      "summary": "Do not cite a layer wrapper such as corpus_systems.md as a source: no link to it and no file-name mention in body prose, Trace lines, or Read with lines. Cite the CS / CI / CJS / CF subfile that owns the rule, by id and title. Navigation lines (file-top notes, Previous/Next file, landing-page pointers, tables, registry annexes) and the incorporation inventories in the Preamble and Chapter Eighteen are exempt. make regression runs it; --all-wrappers checks the other three wrappers on demand.",
+      "make_target": "wrapper-cite-audit",
       "status": "blocking"
     },
     {

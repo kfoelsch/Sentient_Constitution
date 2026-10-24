@@ -26,7 +26,7 @@
 - Read with: **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** (**Type O**, **Type G**, access-posture bands)
+- Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).

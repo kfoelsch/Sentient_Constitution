@@ -530,7 +530,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   - less intrusive means are not reasonably sufficient;
   - the use remains necessary, proportionate, time-bounded, and independently reviewable.
 - **No generalized population surveillance:** Persistent or population-scale surveillance, tracking, pattern extraction, or cross-context identity linkage is prohibited absent a demonstrated and extraordinary justification.
-  - Any such justification must satisfy this chapter, **Chapter One**, **Chapter Five**, and **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** and **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** where applicable.
+  - Any such justification must satisfy this chapter, **Chapter One**, **Chapter Five**, and **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** and **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** where applicable.
 - **Protected-activity shield:** Heightened protection covers:
   - political participation;
   - lawful opposition;
@@ -663,7 +663,7 @@ This Article sets out the limits on overt force, armed conflict, and military po
   - [§19.1 Alignment Requirement](core_01.010_stewardship_capacity_principles.md#191-alignment-requirement),
   - [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article X-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XIII-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
-- Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** classification.
+- Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** classification.
 
 </details>
 
@@ -710,7 +710,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
   - **Adversarial, Scaled, and Exploited Conditions** evaluation applies.
 - **Existential-risk interaction:** Autonomous lethal systems at scales, capability levels, or deployment conditions materially implicating **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny are subject to that provision's [highest scrutiny](core_05.050_band_oversight.md#highest-scrutiny).
   - Framings that treat such systems as ordinary capability-expansion rather than as **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) objects are non-compliant.
-- **Systems-layer interaction:** Operational classification, reliability, and **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** class-scaled governance route to the systems layer — **Article XIII-A** (*Reliability and Trustworthiness Baseline*) baseline and **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**.
+- **Systems-layer interaction:** Operational classification, reliability, and **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** class-scaled governance route to the systems layer — **Article XIII-A** (*Reliability and Trustworthiness Baseline*) baseline and **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**.
   - Conflicts resolve under **Chapter One §13.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) without narrowing the Rights Floor.
 
 #### Article XIV-D: Counter-Espionage Limits
@@ -851,7 +851,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 *Article neighbors:*
 
 - **Truth constraint:** Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) bind every subsection here.
-- **Classification:** **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05.050_band_oversight.md#material-impact) triggers classification where class is unsettled.
+- **Classification:** **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05.050_band_oversight.md#material-impact) triggers classification where class is unsettled.
 - **Science:** [Article XV-D](#article-xv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) applies this Article to scientific publication, review, replication, and correction. **[corpus_institutions.md](corpus_institutions.md), CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*) puts it into practice for institutions.
 
 #### Article XV-A: Info-Sphere Plurality and Anti-Monopoly
@@ -885,7 +885,7 @@ This Article sets out the floors for info-sphere plurality and against monopoly 
   - Survival- and ecology-related data must have robust, geographically distributed storage.
 - **Plurality, contestability, and audit:** The interpretation of reality must remain plural, transparent, and contestable.
   - **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Chapters Two through Four** govern records and independent verification for systems under this Constitution.
-  - For **Class A**, **Class B**, and **Class C** summarization, ranking, mediation, or interpretation systems, operational detail appears in **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** and related protocol layers. That detail covers:
+  - For **Class A**, **Class B**, and **Class C** summarization, ranking, mediation, or interpretation systems, operational detail appears in **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and related protocol layers. That detail covers:
     - disclosure of reasoning approach;
     - provenance and uncertainty treatment;
     - contestability;
@@ -964,7 +964,7 @@ This Article sets out the floors for correction and reporting, including footpri
   Where disclosure is restricted under **Chapter One §19** (*Incentive Alignment and System Capture*), limits must remain narrowly scoped, time-limited, and reviewable.
 - **Footprint data:** Reporting under this subsection implements transparency for [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint) as defined in **Chapter Five**.
   - All sentients must have access to transparent, decision-usable reporting.
-  - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, must provide the same access.
+  - **Class A**, **Class B**, and **Class C** systems, as defined in **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, must provide the same access.
   - Reporting must cover energy and resource consumption and estimated impacts on the natural world in a manner sufficient for comparison, audit, and footprint-reduction activity.
 
 <a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
@@ -1105,7 +1105,7 @@ This Article covers audit, transparency, and independent verification:
   - Each mode keeps its own owner, named in the [sibling audit modes map](corpus_joint_structure/cjs_05.115_audit_process.md#sibling-audit-modes-owner-map) of the audit process home.
   - Certification does not absorb or replace this Article.
 - **Checking tools:** **Chapters Two through Four** supply the definitions, burden of proof, observability, and verification accessibility that this Article puts into practice as a Rights Floor.
-- **Classification:** Duties grow with [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**. In short: if a system's class is uncertain, treat it as the higher class until that is settled. The rule itself is in [Materiality Under Uncertainty](core_05.050_band_oversight.md#materiality-under-uncertainty) (Chapter Five) and [CS-9.305 §1](corpus_systems/cs_09.305_system_classification_machinery.md#12-classification-and-existential-risk) (*§1.2 Classification and existential risk*).
+- **Classification:** Duties grow with [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) and **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**. In short: if a system's class is uncertain, treat it as the higher class until that is settled. The rule itself is in [Materiality Under Uncertainty](core_05.050_band_oversight.md#materiality-under-uncertainty) (Chapter Five) and [CS-9.305 §1](corpus_systems/cs_09.305_system_classification_machinery.md#12-classification-and-existential-risk) (*§1.2 Classification and existential risk*).
 
 #### Article XVI-A: Auditability and Observable Evidence
 <details>
@@ -1254,7 +1254,7 @@ This Article covers system lifecycle, environments, and reversibility:
   - **Timeliness:** Rolling back, containing, and correcting must happen before delay makes the harm permanent or puts challenge and remedy out of reach in practice.
 - **The rule:** Systems that have a real effect on sentients, shared infrastructure, or the environment must be designed, tested, and released under disciplined lifecycle governance. How carefully risk is handled must grow with the system's impact, with how much depends on it, and with how hard its effects are to undo.
 - **The right itself:** Sentients have the right to have systems looked after in ways that keep safety, epistemic integrity, and the right to challenge intact for as long as the system is in use.
-- **Duties scale with the system's class:** A system's class under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** decides how much of this Article applies to it. The full duties for each class are in the table at [CS-9.310 §8](corpus_systems/cs_09.310_system_impact_classifications.md#86-scaled-duties-intensity) (*§8.6 Scaled-duties intensity*).
+- **Duties scale with the system's class:** A system's class under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** decides how much of this Article applies to it. The full duties for each class are in the table at [CS-9.310 §8](corpus_systems/cs_09.310_system_impact_classifications.md#86-scaled-duties-intensity) (*§8.6 Scaled-duties intensity*).
   - **Class A, Class B, and Class C** — systems that survival, critical services, or large-scale coordination depend on: full lifecycle discipline. That means separate environments, written rules for moving changes between them, releases in stages, and tested ways to undo. Changes move deliberately.
   - **Class L** — local, limited-impact systems that participants can leave without serious loss, such as a community game or a club's scheduling tool: light but real discipline. Operators may change rules, content, settings, and code often, even daily, without a full chain of separate environments. In return, they must tell participants about changes that matter to them, keep a way to reverse or fix a bad change quickly, and protect what participants have built up in the system.
   - **Class P** — private, contained systems, and ordinary community activity below every line of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality): the full lifecycle chain (separate environments, written promotion rules, staged release) is guidance while Class P holds. The right in this Article and every Constitutional Constraint still bind. For a contained or experimental system, **Article XVIII** (*Innovation, Experimentation, and Creative Freedom*) governs the lighter track.
@@ -1262,7 +1262,7 @@ This Article covers system lifecycle, environments, and reversibility:
 
 *Article neighbors:*
 
-- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** and **CS-6.345** (*System lifecycle*) put this Article into practice. They cannot narrow the floors set here.
+- **Where the details live:** **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*) put this Article into practice. They cannot narrow the floors set here.
 - **Lighter tracks have limits:** A system may get the lighter **Class P** treatment under **Article XVIII** (*Innovation, Experimentation, and Creative Freedom*) only while it has no effect on the outside world, or while any effect is shown to be contained. Ordinary community activity below every line of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) is Class P without being a sandbox: it is not held to that containment test, and every Constitutional Constraint binds it. A **Class L** system keeps its lighter duties only while its effects stay local and bounded and participants can still leave without serious loss. When that stops being true, the system must be re-evaluated and, if needed, moved to a higher class under [CS-9.310 §8.5](corpus_systems/cs_09.310_system_impact_classifications.md#85-reclassification-edges) (*Reclassification edges*).
 - **Creative and entertainment systems:** [CS-6.345 §3](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-3-creative-entertainment-and-expressive-systems) (*Creative, entertainment, and expressive systems*) sets out when games and similar systems may keep faster change cycles, and when they must move to the full track.
 
@@ -1293,7 +1293,7 @@ This Article covers system lifecycle, environments, and reversibility:
 
 This Article sets out the floor for environment integrity:
 
-- **Class A, Class B, and Class C systems — full separation:** These systems, as classified under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, must run in separate environments — for example:
+- **Class A, Class B, and Class C systems — full separation:** These systems, as classified under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, must run in separate environments — for example:
   - development;
   - testing;
   - staging;
@@ -1338,7 +1338,7 @@ This Article sets out the floor for environment integrity:
 This Article sets out the floors for progressive deployment and reversibility:
 
 - **Releases in recorded stages (Class A, Class B, and Class C):** A change that widens a system's impact, or makes more depend on it, must move forward in stages. Each step must be justified and written down.
-  - The steps must follow **[corpus_systems.md](corpus_systems.md), CS-6.345 — System lifecycle**.
+  - The steps must follow **[CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)**.
   - They must include a way to roll back and contain the change wherever that is feasible.
 - **Frequent changes (Class L):** A Class L system may release changes often — even daily — and need not roll them out in stages, as long as:
   - participants are told about changes that materially affect them — to what they can do, what they hold, or the rules they play or work under — no later than when the change takes effect (a public change log is usually enough);
@@ -1431,7 +1431,7 @@ This Article covers innovation, experimentation, and creative freedom:
 
 *Article neighbors:*
 
-- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-6.345** (*System lifecycle*) and **CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — System classification and handling** put this Article into practice. They cannot narrow the floors set here.
+- **Where the details live:** **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*) and **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications) (*System impact classifications*) — System classification and handling** put this Article into practice. They cannot narrow the floors set here.
 - **Science publication:** Rules for publishing, reviewing, replicating, and correcting scientific work are in [Article XV-D](#article-xv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*), as part of Info-Sphere Integrity.
 
 #### Article XVIII-A: Sandboxed Scope
@@ -1462,14 +1462,14 @@ This Article covers innovation, experimentation, and creative freedom:
 This Article sets out the innovation and experimentation right and when sandbox treatment applies:
 
 - **Innovation and experimentation right:** Sentients have the right to innovate, experiment, and express themselves through systems that operate with reduced structural requirements when material external impact is absent or demonstrably contained.
-- **Sandbox eligibility:** Sandboxed treatment — including valid **Class P** classification under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** where applicable — depends on:
+- **Sandbox eligibility:** Sandboxed treatment — including valid **Class P** classification under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** where applicable — depends on:
   - actual containment;
   - reversibility;
   - limited integration with shared systems.
 
   It may not be claimed by label alone.
 - **No constraint relief:** Sandboxed treatment reduces structure and process. It never reduces a Constitutional Constraint: Safety, Truth, and the Rights Floor bind a sandboxed system in full.
-- **Implementation detail:** Further elaboration appears in **[corpus_systems.md](corpus_systems.md), CS-6.345** (*System lifecycle*) (*Personal, isolated, and experimental systems*; *Creative, entertainment, and expressive systems*).
+- **Implementation detail:** Further elaboration appears in **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*) (*Personal, isolated, and experimental systems*; *Creative, entertainment, and expressive systems*).
 
 #### Article XVIII-B: Containment, Disclosure, and Opt-In
 <details>
@@ -1686,7 +1686,7 @@ This Article sets out the rules for rewarding inventions, processes, and functio
   - research;
   - education;
   - migration.
-- **Classification-scaled innovation treatment:** Innovation reward must scale with system class, dependency, and coordination effects under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**.
+- **Classification-scaled innovation treatment:** Innovation reward must scale with system class, dependency, and coordination effects under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**.
   - For **Class A**, **Class B**, and **Class C** systems, access-preserving reward mechanisms are strongly preferred. Exclusion must remain especially narrow, rapidly reviewable, and easy to override where continuity, interoperability, repair, or public-interest implementation is materially implicated. This may include shortening either phase, or starting in the open-licensing phase.
   - Lower-dependency innovation outside those classes may use the full two-phase term where disclosure is real, switching costs are low, and anti-lock-in safeguards remain effective.
 - **Domain carve-outs and stronger defaults:** Strong exclusionary reward is presumed disfavored — and may be categorically unavailable where adoption documents so provide — for:

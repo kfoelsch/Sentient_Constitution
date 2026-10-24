@@ -66,7 +66,7 @@ Chapter One, Part C, is the constitutional owner of **stewardship, governance, i
     - [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity),
     - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), and
     - [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - Read with: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5) and **[corpus_systems.md](corpus_systems.md), CS-14.305 — Critical system stewardship** for operative role pathways and stewardship-development pathways.
+  - Read with: [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5) and **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)** for operative role pathways and stewardship-development pathways.
 - Subsections (reading order):
   - [§16.1 Distributed understanding](#161-distributed-understanding) (community facet of competence at scale) ·
   - [§16.2 Institutional development](#162-institutional-development) (organizational facet) ·
@@ -263,7 +263,7 @@ Distributed understanding is the community-facing facet of **Pillar 3** under **
 
 - **What it requires:** proportionate, structured access to how shared systems that materially affect sentients operate — their purposes, constraints, uncertainties, and materially relevant effects.
 - **What makes it workable:** [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) must supply documentation, education, transparency, role pathways, and comprehensibility stewardship. The obligation stands whether or not every sentient uses every path.
-- **Online public baseline:** where lawful online infrastructure exists, the online [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) — including the paywall prohibition and maximum-feasible public-substitute rule — is governed by [Transparency](core_05.050_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and is implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*).
+- **Online public baseline:** where lawful online infrastructure exists, the online [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) — including the paywall prohibition and maximum-feasible public-substitute rule — is governed by [Transparency](core_05.050_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and is implemented as **Type O** data under **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*Data classifications*).
 - **What the access supports:**
   - the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** leg (informed [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) and contestability)
   - the **oversight** leg, including auditing under [Auditability](core_05.050_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*), of which [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large process among sibling audit modes
@@ -1608,7 +1608,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 - Downstream: [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) and [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5); **[corpus_systems.md](corpus_systems.md), CS-14.305 — Critical system stewardship**.
+- Downstream: [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5); **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)**.
 - Downstream: Targets the rights surface for agency, participation, incentive alignment, info-sphere integrity, standing, and anti-capture review across
   - [Chapter Six: Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000); especially
   - [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation),
@@ -1909,7 +1909,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 
 - Where [material stake](core_00.000_preamble.md#material-stake) calls for it and information-type rules permit it, governance-relevant data, audit paths, and review tools must stay available to materially affected sentients. They must not be locked inside a single operator, vendor, or oversight bloc.
 - The default favors inspectable processes, contestable records, and independent verification, consistent with [§16.3 Openness Aspiration](#163-openness-aspiration).
-- It stays subject to [§13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) and **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, including Type N and other classification limits on what may be collected, published, retained, or reconstructed.
+- It stays subject to [§13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) and **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, including Type N and other classification limits on what may be collected, published, retained, or reconstructed.
 
 <a id="1931-capture-escalation-triggers"></a>
 ##### 19.3.1 Capture Escalation Triggers
@@ -2022,7 +2022,7 @@ Concentrated or obscured control structures that materially undermine any of the
   - [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response);
   - [§13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints);
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); `corpus_systems.md` classification and stewardship scaling; `corpus_institutions.md` conflict and integrity expectations.
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)** (classification and stewardship scaling); `corpus_institutions.md` conflict and integrity expectations.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (durable, contestable resolution pathways and systemic stability where contingent settlement is materially impactful).
 - Read with:
   - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways),
@@ -2161,7 +2161,7 @@ This subsection sets out why market signals are not constitutional proof:
 - Downstream:
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations);
-  - [corpus_systems.md](corpus_systems.md) (*classifying and scaling stewardship of materially impactful systems*);
+  - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)** (*classifying and scaling stewardship of materially impactful systems*);
   - [corpus_institutions.md](corpus_institutions.md) (*conflict and procedure rules where institutions supervise such activity*).
 
 </details>
@@ -2190,7 +2190,7 @@ Authorization, design, and operation must do four things:
 - **What this chapter states:** constitutional direction.
 - **What it does not write:** the detailed licensing, criminal, tax, or cross-border enforcement rules for gambling and contingent settlement.
 - **Where those details belong:** adopting law and designated incorporated documents, including:
-  - [corpus_systems.md](corpus_systems.md) for classifying and scaling stewardship of materially impactful systems; and
+  - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)** for classifying and scaling stewardship of materially impactful systems; and
   - [corpus_institutions.md](corpus_institutions.md) for conflict and procedure rules where institutions supervise or constitutionally govern such activity.
 
 <a id="196-keeping-responsibility-when-ownership-or-structure-changes"></a>
@@ -2203,7 +2203,7 @@ Authorization, design, and operation must do four things:
   - [Chapter Eleven §9.1](core_11.000_standing_integration.md#91-remediation-capacity-and-funding) (11.000 §9.1) and
   - [§9.4](core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority);
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability);
-  - [corpus_systems.md](corpus_systems.md) **CS-6.320 — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*).
+  - **[CS-6.320 — Justice safeguards, restitution, and rehabilitation](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Entity continuity checks*).
 - Read with: [Attributable Action](core_05.035_band_accountability.md#attributable-action) and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — successor and formal-structure changes must not defeat reliable attribution of remaining duties.
 
 </details>

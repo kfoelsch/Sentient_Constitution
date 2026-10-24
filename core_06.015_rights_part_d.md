@@ -613,7 +613,7 @@ This Article sets the floors for restrictions. The operating rules live in the c
 
 Sentients and dependent systems have the right to meaningful, usable exit, migration between systems, and interoperability without coercive lock-in.
 
-- The right does not require disclosures or transfers that would create unjustified risk to safety, security, or the rights of others. What must be released follows each dataset's type and handling posture under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, and where more than one type applies, the most protective applicable type governs:
+- The right does not require disclosures or transfers that would create unjustified risk to safety, security, or the rights of others. What must be released follows each dataset's type and handling posture under **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, and where more than one type applies, the most protective applicable type governs:
   - works the sentient created or provided (Type Y, or Type W once the sentient has made them public), records of the sentient's own participation, exchanges, and activity (Type H), and material inferences or classifications derived from them that affect rights, standing, or opportunities are portable to that sentient, as are copies of works others released to that sentient, within the scope of that release;
   - identity and attribution data (Type I), including the sentient's own credentials and keys, is portable with revocation, rotation, correction, and recoverability preserved;
   - internal-state data (Type N), including inferences, reconstructions, or approximations of internal states, is portable at the sentient's explicit, informed direction and must remain marked as inferred rather than observed where it is inferred;
@@ -758,7 +758,7 @@ This Article sets out the anti-lock-in rule:
   - [Article XXI-B](#article-xxi-b-reciprocal-interoperability-boundaries) (*Reciprocal Interoperability Boundaries*);
   - [Article XXI-C](#article-xxi-c-anti-lock-in-rule) (*Anti-Lock-In Rule*);
   - [Article XXIII](#article-xxiii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*);
-  - [corpus_systems.md](corpus_systems.md) **CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) — Information types and handling**;
+  - **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications) (*Data classifications*) — Information types and handling**;
   - **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*).
 
 </details>
@@ -789,7 +789,7 @@ This Article sets out the open-formats floor for systems:
   - **Exit:** Export and migration paths under **Article XXI-A** (*Portability Rights*) must offer at least one open format wherever an open format can carry the data without material loss of structure, metadata, relationships, or fidelity.
   - **Interoperability:** Integration boundaries under **Article XXI-B** (*Reciprocal Interoperability Boundaries*) must use open standards and protocols by default, and closed ones only where justified under this sub-article.
   - **Internal and native formats:** Systems should prefer open formats for storage and native working formats. A closed format needs a justification that grows stronger with material impact and dependency.
-  - **Public-facing data:** Data published for public access — including Type O, Type E, and Type W under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** — must be published in open formats by default.
+  - **Public-facing data:** Data published for public access — including Type O, Type E, and Type W under **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** — must be published in open formats by default.
 - **Justified closed formats:** A closed format, interface, or protocol is justified only where no open alternative meets a material requirement, such as fidelity, performance, safety, security, accessibility, or a specialized function. Where one is used, the system must:
   - record the justification in auditable form;
   - still offer the best available open export, and disclose what that export loses;
@@ -1194,7 +1194,7 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
 - **Modular architecture:** Critical systems **must** be structured so that their components, the responsibilities of each, and the dependencies between components can be identified and examined independently. Dependencies must be declared at interfaces, kept no broader than function requires, and mapped to the same boundaries that are audited. Responsibility and observability must be preserved across every internal boundary. Modular structure that conceals responsibility or defeats whole-system audit is anti-layering under the next bullet, and does not satisfy this requirement. Read with [§18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
 - **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction. This is the Rights Floor for the principle-layer discipline in [Chapter One §5.2.4 (*Complexity-as-Defeat Discipline*)](core_01.000_values_principles.md#524-complexity-as-defeat-discipline).
 - **Protocol alignment:** Evaluation must be consistent with:
-  - **[corpus_systems.md](corpus_systems.md), CS-6.315 (*Comprehensibility and complexity stewardship*) — *Comprehensibility and complexity stewardship***;
+  - **[CS-6.315](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and complexity stewardship*) — *Comprehensibility and complexity stewardship***;
   - adopted presentation and architecture implementation requirements.
 
   Where CS-6.315 (*Comprehensibility and complexity stewardship*) and incorporated implementation conflict, the applicable requirement with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) governs.
@@ -1261,13 +1261,13 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - **Accountability:** responders must answer for treating symptoms alone, suppressing root-cause inquiry, overstating confidence, or failing to apply proportionate correction once causes are known.
 - **Timeliness:** in opening diagnosis, interim containment, monitoring, and corrective work before delay would let harm spread, evidence degrade, or the same failure repeat.
 
-Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[corpus_systems.md](corpus_systems.md), CS-6.325** (*Adaptive sustainability and ecosystem resilience*), and with testing and verification environments under **CS-6.345** (*System lifecycle*) and **Article XVI-A** (*Auditability and Observable Evidence*).
+Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[CS-6.325](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience)** (*Adaptive sustainability and ecosystem resilience*), and with testing and verification environments under **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*) and **Article XVI-A** (*Auditability and Observable Evidence*).
 
 *Article neighbors:*
 
 - **Evidence and challenge:** **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XIII-A** (*Reliability and Trustworthiness Baseline*) — root-cause records must remain open to audit and contest without narrowing those floors.
 - **Lifecycle and recovery:** **Article XVII** (*System Lifecycle, Environments, and Reversibility*) — automatic recovery must not suppress evidence needed for root-cause analysis, consistent with this Article's preference for reversibility.
-- **Implementation routing:** **[corpus_systems.md](corpus_systems.md), CS-6.325** (*Adaptive sustainability and ecosystem resilience*) and **CS-6.345** (*System lifecycle*) — implement adaptive response without substituting for the Rights Floors stated here.
+- **Implementation routing:** **[CS-6.325](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience)** (*Adaptive sustainability and ecosystem resilience*) and **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*) — implement adaptive response without substituting for the Rights Floors stated here.
 #### Article XXIV-A: Diagnostic Rigor and Causal Attribution
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
