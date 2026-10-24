@@ -5,7 +5,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part A** — certification purpose, the process overview, and the first two phases of the process — **Frame** (system class) and **Evaluate** (whole-system evaluation in three sub-phases: the always-applicable evaluations, including data types and handling, in **§3**; the evaluations that apply where implicated in **§4**; and the Rights-Floor and domain evaluations that apply where triggered in **§5**) — **§1–§5**. The worked **Class A / B / C illustrations** (the system class profiles, §3.4.8, §5.1.5, §5.2.5, §5.3.8, §5.4.5, §5.5.6, and §5.6.5), including each one's **Reading across system classes** paragraph, are in [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md); each keeps its Part A section number. The binding system-class-scaling and escalation rules those paragraphs illustrate stay in this file: system class scaling, including participation and proportionality, in §2.2; data-handling scaling in §3.4; and the **System class scaling and escalation** paragraph in each of §5.1–§5.6. The files of the whole chapter are listed in the table below.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part A** — certification purpose, the process overview, and the first two phases of the process — **Frame** (system class) and **Evaluate** (whole-system evaluation in three sub-phases: the always-applicable evaluations, including data types and handling, in **§3**; the evaluations that apply where implicated in **§4**; and the Rights-Floor and domain evaluations that apply where triggered in **§5**) — **§1–§5**. The worked **Class A / B / C illustrations** (the system class profiles, §3.4.8, §5.1.5, §5.2.4, §5.3.8, §5.4.5, §5.5.6, and §5.6.5), including each one's **Reading across system classes** paragraph, are in [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md); each keeps its Part A section number. The binding system-class-scaling and escalation rules those paragraphs illustrate stay in this file: system class scaling, including participation and proportionality, in §2.2; data-handling scaling in §3.4; and the **System class scaling and escalation** paragraph in each of §5.1–§5.6. The files of the whole chapter are listed in the table below.
 >
 > **Chapter Nine files.** Chapter Nine is split across four binding files read as one text. Part A, this file, opens the chapter; there is no separate index file.
 >
@@ -13,7 +13,7 @@
 > |------|------|------|
 > | **Part A — Evaluation** | [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md) | §1–§5: purpose and process overview (with a chart of the whole certification process in its six phases), **Phase I Frame** (system class, how system class scales every evaluation, and pilot certification) and **Phase II Evaluate** (whole-system evaluation in three sub-phases: **IIa** always, in §3, including chartered scope versus functional boundaries and data types and handling; **IIb** where implicated, in §4; and **IIc** where triggered, the Rights-Floor and domain evaluations, in §5) |
 > | **Part B — Record and process** | [`core_09.005_system_alignment_certification_record_process.md`](core_09.005_system_alignment_certification_record_process.md) | §6–§10: **Phase III Review** (forum roles, supervisory sequence, and the contestability chain), **Phase IV Decide** (certification outcomes, including the go-live gate), **Phase V Record** (the certification record and its integrity, including governing [System Charter](core_05.040_band_continuity.md#system-charter) fields), and **Phase VI Operate** (the challenge path; recertification and reopening; the standing bridge) — continuous chapter numbering from Part A §5 |
-> | **Part C — Illustrations** | [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md) | the illustrative system class profiles, §3.4, §3.4.8, §5.1.5, §5.2.5, §5.3.8, §5.4.5, §5.5.6, and §5.6.5: worked Class A / B / C walkthroughs for each Part A evaluation area, numbered to match Part A and linked both ways |
+> | **Part C — Illustrations** | [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md) | the illustrative system class profiles, §3.4, §3.4.8, §5.1.5, §5.2.4, §5.3.8, §5.4.5, §5.5.6, and §5.6.5: worked Class A / B / C walkthroughs for each Part A evaluation area, numbered to match Part A and linked both ways |
 > | **Part D — Institutional alignment certification** | [`core_09.015_institutional_alignment_certification.md`](core_09.015_institutional_alignment_certification.md) | §11–§15: the same six phases for an **Institution** rather than a System — the institution class and the institutional evaluation (**Phases I and II**, §12), the forum roles, outcome, and **Institutional Certification Record** (**Phases III to V**, §13), and recertification, reopening, the cascade from System certifications, and the standing bridge (**Phase VI**, §14–§15). It cites each System's certification by link and does not repeat it, and it is not a licence — continuous chapter numbering from Part B §10 |
 >
 > **How the two certifications relate.** System Alignment Certification (Parts A to C) is the certification of a System. Institutional alignment certification (Part D) is the certification of an Institution, which may run Systems or none. Part D cites each System's certification record by link and does not redo it; [Part D §11.1](core_09.015_institutional_alignment_certification.md#111-relation-to-system-alignment-certification) states the relation and [Part D §11.3](core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate) states that it is not a licence.
@@ -67,7 +67,7 @@ Chapter Nine, **Part A**, is the constitutional owner of **system alignment cert
   - [Part C whole-system walkthroughs](core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (9.010) (*worked whole-system examples by system class*);
   - [§3.4.8](core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*worked data-handling examples by system class*);
   - [§5.1.5](core_09.010_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*worked ecological-footprint examples by system class*);
-  - [§5.2.5](core_09.010_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*worked educational-capability examples by system class*);
+  - [§5.2.4](core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*worked educational-capability examples by system class*);
   - [§5.3.8](core_09.010_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*worked cross-system-support examples by system class*);
   - [§5.4.5](core_09.010_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*worked nondiscrimination examples by system class*);
   - [§5.5.6](core_09.010_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*worked accessibility examples by system class*);
@@ -273,7 +273,7 @@ flowchart TB
   - [Part C whole-system walkthroughs](core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) (9.010) (*worked whole-system examples by system class*);
   - [§3.4.8](core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) (*worked data-handling examples by system class*);
   - [§5.1.5](core_09.010_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) (*worked ecological-footprint examples by system class*);
-  - [§5.2.5](core_09.010_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*worked educational-capability examples by system class*);
+  - [§5.2.4](core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*worked educational-capability examples by system class*);
   - [§5.3.8](core_09.010_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive) (*worked cross-system-support examples by system class*);
   - [§5.4.5](core_09.010_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) (*worked nondiscrimination examples by system class*);
   - [§5.5.6](core_09.010_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive) (*worked accessibility examples by system class*);
@@ -881,12 +881,28 @@ When a materially impactful system meets a trigger in the table below, certifica
 
 Each domain evaluation in [§5.1 Ecological Footprint Evaluation](#51-ecological-footprint-evaluation) through [§5.6 Trustworthiness and System-Reliance Integrity Evaluation](#56-trustworthiness-and-system-reliance-integrity-evaluation):
 
-- applies only where its own materiality trigger is met, and does not require a full audit on every certification record;
+- applies only where its own materiality trigger is met, so a certification record includes only the domain evaluations its system triggers, not an audit of all six domains on every record;
 - is scaled to system class under [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation);
 - puts its findings on the certification record under [Part B §8.1](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents); and
 - treats the defects it names as certification defects, with consequences under [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-Each domain evaluation states what certification must verify, and no more. Its canonical meaning, evaluation factors, and non-compliance discipline live in Chapter Five and the Article it names. Accounting methods, catalogs, metrics, disclosure formats, numeric targets, and other operational mechanics live in incorporated documents where applicable. A domain evaluation does not restate or prescribe them.
+Each domain evaluation:
+
+- states what certification must verify, and no more;
+- takes its canonical meaning, evaluation factors, and non-compliance discipline from Chapter Five and the Article it names; and
+- leaves accounting methods, catalogs, metrics, disclosure formats, numeric targets, and other operational mechanics to incorporated documents where applicable.
+
+**Principles that apply.** In every domain evaluation, reviewers must check that the following hold, so that significant burdens and defects are not hidden:
+
+- [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) and [§15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle) — a requirement follows the act, not its label, owner, or framing, and is judged on checkable evidence;
+- [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity) — boundaries are not drawn to leave out material impacts;
+- [Chapter One §5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) — including no selective reporting; and
+- [Chapter One §6 Trust and Trustworthiness](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) — reliance is not endorsed or continued while documented problems threaten alignment or cause misalignment.
+
+**Defects that apply.** In every domain evaluation, each of the following counts as a certification defect:
+
+- breaching any of the principles above; and
+- hiding, misstating, breaking up, or handing off information that the Article the domain evaluation names requires to be disclosed.
 
 <a id="51-ecological-footprint-evaluation"></a>
 
@@ -940,13 +956,7 @@ The certification process must determine whether attributable environmental flow
 - evaluated under [Material Impact](core_05.050_band_oversight.md#material-impact); and
 - disclosed or withheld only as [Transparency](core_05.050_band_oversight.md#transparency), [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity), and applicable transparency obligations permit.
 
-Evaluation must reflect functional effect and system boundaries, not nominal scope, marketing labels, or partial lifecycle framing alone.
-
-Where practical, reviewers must compare the system's significant environmental harms against realistic alternatives. They must also check that those harms are not being hidden by:
-
-- **drawing the lines narrowly** — setting the system's boundaries so the worst impacts fall outside them;
-- **passing the burden along** — pushing the harmful work onto suppliers or partners so it doesn't count as the system's own; or
-- **sharing only the good news** — reporting the favorable numbers and leaving out the unfavorable ones.
+The principles in [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) apply to this evaluation, as to every domain evaluation: it must reflect functional effect and system boundaries, not nominal scope, marketing labels, or partial lifecycle framing alone. Where practical, reviewers must also compare the system's significant environmental harms against realistic alternatives.
 
 <a id="513-system-class-scaling-and-escalation"></a>
 ##### 5.1.3 System Class Scaling and Escalation
@@ -960,11 +970,7 @@ A system's class decides how deeply its environmental harm must be traced and ho
 <a id="514-defects-and-misalignment"></a>
 ##### 5.1.4 Defects and Misalignment
 
-Each of the following counts as a certification defect:
-
-- hiding, misstating, breaking up, or handing off significant footprint information that certification rules, or **Article I-B** (*Ecological Footprint and Transparency*), require to be disclosed;
-- reviewing only the parts of the system's lifecycle the operator chose to show, when a wider view matters; and
-- accepting footprint claims on the operator's say-so, with no evidence that can be checked.
+The principles and defects in [§5](#5-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including to footprint information that **Article I-B** (*Ecological Footprint and Transparency*) requires to be disclosed. This evaluation adds no further defects.
 
 <a id="52-educational-capability-and-learning-system-integrity-evaluation"></a>
 
@@ -986,26 +992,22 @@ Each of the following counts as a certification defect:
   - [Materiality](core_05.050_band_oversight.md#materiality), and
   - [Dependency](core_05.040_band_continuity.md#dependency) (Chapter Five).
 - Downstream:
-  - [§5.2.5](core_09.010_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*illustrative educational-capability walkthroughs*);
+  - [§5.2.4](core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*illustrative educational-capability walkthroughs*);
   - [Part B §8.2](core_09.005_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (9.005 §8.2) (*record integrity*);
   - [Part B §10](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing) (9.005 §10) (*verified-input gate*);
   - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*assessment-opacity misalignment, credential gatekeeping, and imposed-obsolescence misalignment*).
 - Read with: **Article IV-A** (*Equal Educational Access*) where equal access or educational accessibility is implicated — equal access and educational accessibility remain owned there; **Article VI-C** (*Nondiscrimination*) and [§5.4](#54-nondiscrimination-evaluation) where ranking or placement patterns implicate protected-characteristic burdening; **Article X-A** (*Agency and Freedom from Manipulation*) where coercive or manipulative learning design is materially implicated; [Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16) (*distributed understanding and capability-building read-with*).
 - Subsections:
-  - [§5.2.1](#521-materiality-trigger-and-governing-rules) (*materiality trigger and governing rules*);
-  - [§5.2.2](#522-evaluation-requirement) (*evaluation requirement*);
-  - [§5.2.3](#523-system-class-scaling-and-escalation) (*system class scaling and escalation*);
-  - [§5.2.4](#524-defects-and-misalignment) (*defects and misalignment*);
-  - [§5.2.5](core_09.010_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*illustrative educational-capability application by system class*).
+  - [§5.2.1](#521-evaluation-requirement) (*evaluation requirement*);
+  - [§5.2.2](#522-system-class-scaling-and-escalation) (*system class scaling and escalation*);
+  - [§5.2.3](#523-defects-and-misalignment) (*defects and misalignment*);
+  - [§5.2.4](core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*illustrative educational-capability application by system class*).
 
 </details>
 
 <br>
 
-*In plain terms: some schools, platforms, and training systems can shape a sentient's future through grades, rankings, recommendations, placement, or credentials that open or close doors. Where that is true, certification has to check three things: whether sentients can actually build real skills there, whether they can retrain when the skills the world needs change, and whether they can see how decisions about them are made, check those decisions, and push back on them. This section doesn't say what to teach, how to grade, or how to pay for it; other documents cover that. It only checks that skill-building and the fairness of the learning system were actually looked at when this section applies. Worked examples: [§5.2.5 Illustrative educational-capability application by system class (non-exhaustive)](core_09.010_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive).*
-
-<a id="521-materiality-trigger-and-governing-rules"></a>
-##### 5.2.1 Materiality Trigger and Governing Rules
+*In plain terms: some schools, platforms, and training systems can shape a sentient's future through grades, rankings, recommendations, placement, or credentials that open or close doors. Where that is true, certification has to check three things: whether sentients can actually build real skills there, whether they can retrain when the skills the world needs change, and whether they can see how decisions about them are made, check those decisions, and push back on them. This section doesn't say what to teach, how to grade, or how to pay for it; other documents cover that. It only checks that skill-building and the fairness of the learning system were actually looked at when this section applies. Worked examples: [§5.2.4 Illustrative educational-capability application by system class (non-exhaustive)](core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive).*
 
 This section applies when a system with a major effect on sentients' lives does either of the following in education or training:
 
@@ -1022,8 +1024,8 @@ Where the materiality trigger applies, certification must evaluate **educational
 
 This section does not set the rules for how education itself works. Decisions about what to teach, which credentials exist, how work is graded, and how schools are funded are made in other documents that may be incorporated, and certification does not pick a curriculum, a credential format, or a grading method.
 
-<a id="522-evaluation-requirement"></a>
-##### 5.2.2 Evaluation Requirement
+<a id="521-evaluation-requirement"></a>
+##### 5.2.1 Evaluation Requirement
 
 Certification must check whether the learning and credential paths sentients actually rely on give them a real way to build skills — not just a certificate that looks good on paper — and whether sentients still have workable ways to retrain, keep learning, and get through transitions when the skills they need change significantly.
 
@@ -1032,32 +1034,32 @@ Reviewers must also test whether the system's ranking, grading, recommendation, 
 Reviewers must watch for:
 
 - scores or rankings built on hidden stand-ins (proxies) that nobody can review;
-- credential gatekeeping that stops sentients from actually learning the skill;
-- forced obsolescence or lock-in that strips sentients of their say over their own path;
+- credential gatekeeping that blocks sentients from building real skills;
+- forced obsolescence or lock-in that takes away sentients' real choice over their own learning path — for example, by making their skills obsolete with no workable way to retrain, or by trapping them in a track or provider they cannot leave;
 - coercive or manipulative learning design; and
 - sorting sentients into tracks in ways that take away their ability to challenge decisions or keep adapting, where **Article IV** (*Right to Sentient-Centered Education*) also applies.
 
-Reviewers must judge by what the system actually does — not by its access labels, what its designers say they intend, or whether the paperwork looks right.
+Reviewers judge by what the system actually does, not by its labels, stated intent, or paperwork, as [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) and [Chapter Three §2 Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#2-non-compliance-from-observable-system-behavior) require.
 
-<a id="523-system-class-scaling-and-escalation"></a>
-##### 5.2.3 System Class Scaling and Escalation
+<a id="522-system-class-scaling-and-escalation"></a>
+##### 5.2.2 System Class Scaling and Escalation
 
 How deep the review goes depends on the system's class. Whenever the materiality trigger is met:
 
 - If the system tests or licenses the operators of infrastructure that sentients need to survive, and its decisions could keep that infrastructure from running safely, the record must show the strongest proof that the system builds real skills, offers retraining, and can be challenged. A general training policy is not enough.
-- If the system's privileges, placement, or continuing-education rules decide who can work in clinical roles, the record must show how its assessments can be inspected and how sentients can retrain. The more critical the work, the more detail is needed.
-- A short paragraph about education is not enough when the system's training-slot, recommendation, or credential-routing logic significantly ranks or shuts out participants.
+- If the system's privileges, placement, or continuing-education rules decide who can work in roles where mistakes could cause significant harm to others (clinical roles, for example), the record must show how its assessments can be inspected and how sentients can retrain. The more critical the work, the more detail is needed.
+- If the system's training-slot, recommendation, or credential-routing logic significantly ranks or shuts out participants, the record must show how that logic works and how sentients can challenge it. A short general description of the education offered is not enough.
 - If the system becomes something sentients must go through to do the work or get licensed, certification must review it more closely and reconsider its system class under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). That includes moving it up toward **Class A** when credentials for survival-essential staffing are gated.
 
-<a id="524-defects-and-misalignment"></a>
-##### 5.2.4 Defects and Misalignment
+<a id="523-defects-and-misalignment"></a>
+##### 5.2.3 Defects and Misalignment
 
-Each of the following counts as a certification defect:
+The defects in [§5](#5-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including where the information at issue is the logic behind significant rankings, assessments, recommendations, or placements that **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) requires to be open to review. In addition, each of the following counts as a certification defect:
 
-- hiding, misstating, scattering, or handing off to someone else the logic behind significant rankings, assessments, recommendations, or placements, where **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) requires that logic to be open to review;
-- accepting credentials, overall completion rates, or the operator's word as proof that sentients are learning, without checking whether they are actually building skills;
-- certifying that sentients can keep relying on a system when documented problems, such as opaque assessments, credential gatekeeping, forced obsolescence, or manipulative learning design, significantly threaten its alignment with the Constitution; and
+- accepting credentials, overall completion rates, or the operator's word as proof that sentients are learning, without checking whether they are actually building skills; and
 - using efficiency, personalization, or scale as an excuse to deny retraining or the ability to challenge decisions, when the system has not met the skill-building requirements of **Article IV** (*Right to Sentient-Centered Education*) and the transparency requirements of **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*).
+
+Documented problems that count under [Chapter One §6 Trust and Trustworthiness](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) include opaque assessments, credential gatekeeping, forced obsolescence, and manipulative learning design.
 
 <a id="53-proportionate-cross-system-support-evaluation"></a>
 
@@ -1189,17 +1191,17 @@ A system's class decides how deep the review goes and how closely adequacy is ju
 <a id="537-defects-and-misalignment"></a>
 ##### 5.3.7 Defects and Misalignment
 
-Each of the following counts as a certification defect:
+The defects in [§5](#5-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including to dependency or resource-flow information that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires to be disclosed. In addition, each of the following counts as a certification defect:
 
-- hiding, misstating, breaking up, or shifting away significant dependency or resource-flow information that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires to be disclosed;
 - treating any of the following as enough to satisfy [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support):
   - symbolic, opaque, off-map, or one-off transfers;
   - the fact that a system meets the survival floor in **Article III-A** (*Survival*); or
   - the fact that a system stays within the market-concentration limits in [Chapter One §11 Market Structure](core_01.000_values_principles.md#11-market-structure);
 - repeatedly taking from shared foundations without giving back in proportion, where the materiality trigger applies;
-- support that mainly entrenches capture or concentration;
-- support with strings attached that defeat the transparency **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires; and
-- certifying continued reliance while documented gaps in support significantly threaten constitutional alignment.
+- support that mainly entrenches capture or concentration; and
+- support with strings attached that defeat the transparency **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires.
+
+Documented gaps in support count under [Chapter One §6 Trust and Trustworthiness](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 
 <a id="54-nondiscrimination-evaluation"></a>
 
@@ -1260,12 +1262,12 @@ System class changes evaluation depth, not permission to treat ranking or burden
 <a id="544-defects-and-misalignment"></a>
 ##### 5.4.4 Defects and Misalignment
 
-Each of the following must be treated as a certification defect:
+The defects in [§5](#5-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including to material classification, ranking, or burden-allocation logic where **Article VI-C** (*Nondiscrimination*) requires review. In addition, each of the following must be treated as a certification defect:
 
-- obscuring, misrepresenting, fragmenting, or offloading material classification, ranking, or burden-allocation logic where **Article VI-C** (*Nondiscrimination*) requires review;
-- treating facial neutrality, aggregate convenience metrics, or operator self-report as sufficient without evaluable burden-and-benefit analysis;
-- certifying continued reliance while documented proxy discrimination or substantive unfairness materially threatens constitutional alignment; and
+- treating facial neutrality, aggregate convenience metrics, or operator self-report as sufficient without evaluable burden-and-benefit analysis; and
 - using homogenization, interoperability, or efficiency framings to defeat language, culture, or heritage protections without satisfying **Article VI-C** (*Nondiscrimination*)'s **Necessity** and **Proportionality** tests.
+
+Documented proxy discrimination or substantive unfairness counts under [Chapter One §6 Trust and Trustworthiness](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 
 <a id="55-accessibility-evaluation"></a>
 
@@ -1370,12 +1372,13 @@ System class changes how deep the evaluation goes. It never permits treating pap
 <a id="555-defects-and-misalignment"></a>
 ##### 5.5.5 Defects and Misalignment
 
-Each of the following must be treated as a certification defect:
+The defects in [§5](#5-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation. In addition, each of the following must be treated as a certification defect:
 
 - treating formal affordances, default interfaces, or paper accommodations as sufficient without evaluable substantive-participation analysis;
-- certifying continued reliance while documented participation barriers materially threaten constitutional alignment;
 - using cost, design-choice, substrate-class, or operational-scale framings to defeat the participation floor without satisfying **Article VI-D** (*Accessibility*)'s **Necessity** and **Proportionality** tests; and
 - operational design whose effect is to defeat accessibility where a less-burdensome option is feasible.
+
+Documented participation barriers count under [Chapter One §6 Trust and Trustworthiness](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 
 <a id="56-trustworthiness-and-system-reliance-integrity-evaluation"></a>
 
@@ -1473,12 +1476,12 @@ How deep the review goes depends on the system's class. Wherever the materiality
 <a id="564-defects-and-misalignment"></a>
 ##### 5.6.4 Defects and Misalignment
 
-Each of the following must be treated as a certification defect:
+The defects in [§5](#5-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including to material limits, risks, or failure history where **Article XIII** (*Right to Reliable and Trustworthy Systems*) requires review. In addition, each of the following must be treated as a certification defect:
 
-- obscuring, misrepresenting, fragmenting, or offloading material limits, risks, or failure history where **Article XIII** (*Right to Reliable and Trustworthy Systems*) requires review;
-- treating reputation, endorsement, scale, or operator self-report as sufficient without evaluable [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) analysis;
-- certifying continued reliance while documented false trust, perverse incentives, inaccessible challenge paths, or recovery practices that hide failure materially threaten constitutional alignment; and
+- treating reputation, endorsement, scale, or operator self-report as sufficient without evaluable [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) analysis; and
 - using efficiency, innovation, or security framings to defeat disclosure, contestability, or redress without satisfying **Article XIII** (*Right to Reliable and Trustworthy Systems*)'s reliability and **Article XIII-A** (*Reliability and Trustworthiness Baseline*) challenge disciplines.
+
+Documented false trust, perverse incentives, inaccessible challenge paths, and recovery practices that hide failure count under [Chapter One §6 Trust and Trustworthiness](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 
 <br>
 

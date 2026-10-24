@@ -378,10 +378,10 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 
 <br>
 
-*In plain terms: a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.*
+*In plain terms: a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution. Whether a requirement was met is judged on checkable evidence of what the act does, not on its own label or paperwork.*
 
 - **What it is**
-  - **In scope:** A constitutional requirement attaches to the substantive act. It cannot be avoided by changing the label, route, owner, forum, document, or timing of that same act, and packaging the act as a special process does not skip it. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, administrative convenience, and comparable framings are allowed only if the step itself follows this Constitution. They may not be used to bypass Rights-Floor minimums, the rules for lawfully changing the Constitution, [Contestability](core_05.035_band_accountability.md#contestability), [Auditability](core_05.050_band_oversight.md#auditability), [Accountability](core_05.005_apex_accountability_leg.md#accountability), or functional independence and separation of duties.
+  - **In scope:** A constitutional requirement attaches to the substantive act. It cannot be avoided by changing the label, route, owner (including a supplier, partner, or other system that performs or bears the act), forum, document, or timing of that same act, and packaging the act as a special process does not skip it. Whether a requirement was met is judged on what the act substantively is and does, shown by evidence that can be checked, not on the actor's own label, self-report, or paperwork. Emergency designation, transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, efficiency, cost, innovation, or scale justification, administrative convenience, and comparable framings are allowed only if the step itself follows this Constitution. They may not be used to bypass Rights-Floor minimums, the rules for lawfully changing the Constitution, [Contestability](core_05.035_band_accountability.md#contestability), [Auditability](core_05.050_band_oversight.md#auditability), [Accountability](core_05.005_apex_accountability_leg.md#accountability), or functional independence and separation of duties.
   - **Out of scope:** an ordinary choice of form, route, or timing that leaves every constitutional requirement for the act in force.
 <a id="no-bypass-a"></a>
 - **How to measure and assess**
@@ -390,7 +390,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
     **Primary assessment:** Compare the act as framed with the act as it substantively is. A requirement counts as bypassed if it would have applied under the plain framing and does not apply under the chosen one, with no change in what the act does.
 <a id="no-bypass-c"></a>
 - **What must hold**
-  - **Primary failure:** Avoiding a constitutional requirement by changing the label, route, owner, forum, document, or timing of the same act, or by using an allowed framing whose own step does not follow this Constitution. A no-bypass statement or review step that leaves the act's actual treatment unchanged is also non-compliant.
+  - **Primary failure:** Avoiding a constitutional requirement by changing the label, route, owner, forum, document, or timing of the same act, or by using an allowed framing whose own step does not follow this Constitution. A no-bypass statement or review step that leaves the act's actual treatment unchanged is also non-compliant, as is accepting the actor's own label, self-report, or paperwork as proof that a requirement was met.
 
 ---
 
