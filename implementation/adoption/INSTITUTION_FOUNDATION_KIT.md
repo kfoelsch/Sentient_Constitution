@@ -226,7 +226,7 @@ If Track B, function (pick one; same kit — §1.1):
    “not yet classified — auditability still proportionate”:
 7. Amendment authority — who may amend; what is material; notice and
    contest paths; material amendment remains non-delegable (CI-8.205 §1):
-8. Periodic-review cadence — next review date or interval:
+8. Scheduled review — next review date or interval:
 9. Alignment and contest hooks — internal correction; Chapter Nine
    reopening if certification applies; Chapter Thirteen §4.3 Institutional
    forums:

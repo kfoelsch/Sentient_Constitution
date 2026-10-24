@@ -432,7 +432,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - the first [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) of a system;
     - reopening — review that does not wait for the schedule because a trigger has fired (material change, concealed behavior, dependency growth, incident, or credible challenge), which is stated in [Chapter Nine Part B §9](core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening);
-    - reclassification under **CS-9.305 (*System classification machinery*) and CS-9.310 §3.5** (*Reclassification requirement*) or periodic data-type re-evaluation under **CS-6.305 (*Information types and handling*) and CS-6.310 §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
+    - reclassification under **CS-9.305 (*System classification machinery*) and CS-9.310 §3.5** (*Reclassification requirement*) or scheduled data-type re-evaluation under **CS-6.305 (*Information types and handling*) and CS-6.310 §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
     - periodic revalidation of other things, such as stewardship claims under [Review and Correction Duty](#review-and-correction-duty) or governance mechanisms under **Article XXVII-B** (*Periodic Revalidation and Transparent Change*) —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
@@ -892,7 +892,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - separation and cross-domain-linkage controls relied on;
     - retention and lifecycle posture;
     - attribution capability sufficient to support [Attributable Action](core_05.035_band_accountability.md#attributable-action) and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity);
-    - the most recent periodic data-type re-evaluation (date or cycle identifier, cadence, and any material retypes);
+    - the most recent scheduled data-type re-evaluation (date or cycle identifier, cadence, and any material retypes);
     - any justified restrictions on disclosure or audit access together with their public substitutes where CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) requires them; and
     - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope:
       - [System Charter](core_05.040_band_continuity.md#system-charter) fields relied on;
@@ -914,7 +914,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     **Primary assessment:** Evaluate whether:
     1. the record states the data types materially in scope; the purpose, recipients, and basis for each; the derived or inferred data the system produces; and the handling, separation, lifecycle, and attribution posture required by CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*);
     2. typing follows functional effect under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) and [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), not declared intent, [System Charter](core_05.040_band_continuity.md#system-charter) text alone, or self-description alone;
-    3. rationale for ambiguous or multi-type data, the most recent periodic re-evaluation, justified disclosure restrictions with public substitutes, and Type O coverage where applicable are stated and independently reviewable; and
+    3. rationale for ambiguous or multi-type data, the most recent scheduled re-evaluation, justified disclosure restrictions with public substitutes, and Type O coverage where applicable are stated and independently reviewable; and
     4. where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, the System Data Types Record is included in the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) under [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Part B §8.1](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents).
 <a id="system-data-types-record-constitutional-c"></a>
 - **What must hold**
@@ -928,7 +928,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - omitting the System Data Types Record from a materially impactful [System Certification Record](core_05.040_band_continuity.md#system-certification-record) when SAC runs;
   - **Tertiary failure:**
     - concealed, non-contestable, or non-inspectable type findings;
-    - overdue or skipped periodic data-type re-evaluation stated as current; or
+    - overdue or skipped scheduled data-type re-evaluation stated as current; or
     - treating the System Data Types Record as a [Standing Record](core_05.035_band_accountability.md#standing-record), standing effect, or the full System Certification Record.
 
 ---
@@ -3198,7 +3198,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity) — accuracy and stability in boundary definition against manipulation or silent exclusion;
 - [Process](core_05.040_band_continuity.md#process) — a repeatable sequence of steps, decisions, records, clocks, or handoffs by which a duty is carried out, judged as part of its system;
 - [Institution](core_05.040_band_continuity.md#institution) — a durable holder of authority or of an organized role, defined by function and continuing through turnover of its occupants;
-- [System Charter](core_05.040_band_continuity.md#system-charter) — the published, amendable scope document of one system, stating what it claims authority to do, subject to periodic alignment review;
+- [System Charter](core_05.040_band_continuity.md#system-charter) — the published, amendable scope document of one system, stating what it claims authority to do, subject to scheduled alignment review;
 - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) — the published, amendable scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them;
 - [Constitutional Charter](core_05.040_band_continuity.md#constitutional-charter) — the founding document by which a political community authorizes those who govern it, adopted with recorded assent;
 - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) — the published, versioned placement of seats kept with a System Charter or Institutional Charter, naming who may hold each seat, who substitutes, and the independent route;
@@ -3458,7 +3458,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.*
+*In plain terms: a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and scheduled review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.*
 
 - **What it is**
   - **In scope:** The published, amendable scope document for one [System](core_05.040_band_continuity.md#system), including a business or other stewarded organizational form that is itself a System. A System Charter states:
@@ -3493,7 +3493,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary failure:**
     - operating materially outside chartered scope while the System Charter is offered as current authorization; or
     - System Charter text offered as a substitute for [System Boundaries](core_05.040_band_continuity.md#system-boundaries) or as proof of classification under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*);
-  - **Secondary failure:** a required System Charter that has not been published, an overdue periodic review, silent scope expansion, amendment without recorded authority, a record-opening authority or record custodian that is missing, dead, or inside the entity's own control line for records about itself, a missing, dead, or stale Charter Role Map, or — where Def.P2 admission scope applies — missing or dead [Charter Pointers](core_05.040_band_continuity.md#charter-pointer) to the published binding stakeholder-choice process rules;
+  - **Secondary failure:** a required System Charter that has not been published, an overdue scheduled review, silent scope expansion, amendment without recorded authority, a record-opening authority or record custodian that is missing, dead, or inside the entity's own control line for records about itself, a missing, dead, or stale Charter Role Map, or — where Def.P2 admission scope applies — missing or dead [Charter Pointers](core_05.040_band_continuity.md#charter-pointer) to the published binding stakeholder-choice process rules;
   - **Tertiary failure:** System Charter text used to defeat [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity), understate class, narrow [System Creation](core_05.055_band_participation.md#system-creation) / [Business Creation](core_05.055_band_participation.md#business-creation) floors, or stand in for the Def.P2 decision sequence, weighting model, or rights-collision record.
 
 ---
@@ -3560,7 +3560,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary failure:**
     - operating a System that no System Charter in force covers, while the Institutional Charter is offered as current authorization; or
     - Institutional Charter text offered as a substitute for [System Boundaries](core_05.040_band_continuity.md#system-boundaries) or as proof of classification under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*);
-  - **Secondary failure:** a required Institutional Charter that has not been published, a missing or stale included System Charter, a portfolio rationale that is absent or no longer explains the Systems actually run, a System added or retired without amending the Institutional Charter, an overdue periodic review, a missing, dead, or stale Charter Role Map, or a record-opening authority or record custodian inside the Institution's own control line for records about itself;
+  - **Secondary failure:** a required Institutional Charter that has not been published, a missing or stale included System Charter, a portfolio rationale that is absent or no longer explains the Systems actually run, a System added or retired without amending the Institutional Charter, an overdue scheduled review, a missing, dead, or stale Charter Role Map, or a record-opening authority or record custodian inside the Institution's own control line for records about itself;
   - **Tertiary failure:** Institutional Charter text used to defeat [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity), understate class, or narrow [Business Creation](core_05.055_band_participation.md#business-creation) floors.
 
 ---
@@ -3741,7 +3741,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - **What must hold**
   - A Charter Pointer reaches the current published version of what it names. A dead or stale Charter Pointer counts as a missing item.
   - **Primary failure:** relying on a dead or stale Charter Pointer as the statement of a required item in a System Charter or Institutional Charter; or offering that text as a substitute for the rules it points to.
-  - **Secondary failure:** a Charter Pointer so general that a reader cannot tell which document or provision it names; or one that periodic review does not recheck.
+  - **Secondary failure:** a Charter Pointer so general that a reader cannot tell which document or provision it names; or one that scheduled review does not recheck.
 
 ---
 

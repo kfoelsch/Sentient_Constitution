@@ -381,7 +381,7 @@ When a forum-supervised challenge is required, internal operator review, vendor 
   - [§10](#10-relationship-to-standing) (*verified-input gate where facts support adverse findings*);
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) (*forum supervision*);
   - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
-- Read with: [corpus_systems.md](corpus_systems.md) (*incorporated system implementation duties*), including **[CS-6.305 §5.2](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for periodic data-type re-evaluation, and **[CS-9.305 §3.5](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
+- Read with: [corpus_systems.md](corpus_systems.md) (*incorporated system implementation duties*), including **[CS-6.305 §5.2](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[CS-9.305 §3.5](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
 - Subsections: [§7.1](#71-remediation-readiness-willingness-and-capacity-to-correct) (*remediation readiness: willingness and capacity to correct*); [§7.2](#72-denial-and-revocation) (*denial and revocation*).
 
 </details>
@@ -649,7 +649,7 @@ The record must identify, at minimum:
   - the separation and cross-domain-linkage controls relied on;
   - the handling, retention, lifecycle, and infrastructure-assurance posture;
   - enough attribution capability to support [Attributable Action](core_05.035_band_accountability.md#attributable-action) and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity);
-  - the most recent periodic data-type re-evaluation, under **[CS-6.305 §5.2 reclassification and lifecycle governance](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** and **[CS-6.305 §8 System Data Types Record governance](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-8-system-data-types-record-governance)**:
+  - the most recent scheduled data-type re-evaluation, under **[CS-6.305 §5.2 reclassification and lifecycle governance](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** and **[CS-6.305 §8 System Data Types Record governance](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-8-system-data-types-record-governance)**:
     - its date or cycle identifier;
     - its cadence (scaled to system class and impact); and
     - any material retypes;
@@ -766,6 +766,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
   - conditions;
   - outcomes; and
   - limits on reliance;
+- A System Certification Record is **Type O** certification data for every system class. It is published at public-baseline fidelity, with lawful substitutes, under [CS-6.310 Part B §9.3 Type O](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data);
 - Limits on disclosure justified by safety or security are permitted only where they are consistent with [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity) and Chapter One disclosure constraints;
 - Volume, formatting, or technical obscurity must not stand in for decision-relevant clarity; and
 - The online-publication baseline, the paywall prohibition for [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Transparency](core_05.050_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, read with **CJS-5.110 §4** (*transparency levels and audit-access terms*).
@@ -840,9 +841,9 @@ A **System Certification Record** is **scope-bound** and **time-bound**. It must
   - a credible challenge under [§9.1 Challenging a Certification](#91-challenging-a-certification);
   - an ecological objection;
   - system-class misalignment, or overdue reassessment, under **[CS-9.305 §3.5 reclassification requirement](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)**;
-  - data-type or handling misalignment, or an overdue or skipped periodic data-type re-evaluation, under **[CS-6.305 §5.2 reclassification and lifecycle governance](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**;
+  - data-type or handling misalignment, or an overdue or skipped scheduled data-type re-evaluation, under **[CS-6.305 §5.2 reclassification and lifecycle governance](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**;
   - classification misalignment;
-  - a [System Charter](core_05.040_band_continuity.md#system-charter) amendment, a mismatch between the System Charter and behavior, operation materially outside chartered scope, or an overdue periodic System Charter review; and
+  - a [System Charter](core_05.040_band_continuity.md#system-charter) amendment, a mismatch between the System Charter and behavior, operation materially outside chartered scope, or an overdue scheduled System Charter review; and
   - a failed or withdrawn Institutional Certification Record of the operator or steward, where the finding bears on this system ([Part D §14.2 Reopening triggers](core_09.015_institutional_alignment_certification.md#142-reopening-triggers)).
 - **Evaluation misalignment:** misalignment or a defect reflected on the certification record under any Part A evaluation that applied, from [§2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). That includes risk-evaluation or risk-disclosure defects under [§3.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors).
 
