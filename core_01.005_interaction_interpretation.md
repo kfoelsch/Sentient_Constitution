@@ -1154,7 +1154,7 @@ Each principle in this chapter applies together with the [Constitutional Tetrad]
 A constitutional requirement cannot be avoided by changing any of the following for the same substantive act:
 - label;
 - route;
-- owner;
+- owner (including a supplier, partner, or other system that performs or bears the act);
 - forum;
 - document; or
 - timing.
@@ -1168,6 +1168,7 @@ Packaging the same act as a special process does not skip the requirement. Using
 - contract (a private agreement, including contracting the work out);
 - standing consequence;
 - institutional restructuring;
+- efficiency, cost, innovation, or scale justification;
 - administrative convenience; or
 - comparable procedural framing.
 
@@ -1183,6 +1184,8 @@ It must not be used to bypass:
 - restoration and rollback paths;
 - functional independence and separation of duties ([Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)); or
 - accountability.
+
+Whether a requirement was met is judged on what the act substantively is and does, shown by evidence that can be checked, not on the actor's own label, self-report, or paperwork.
 
 Adopted implementation layers may add detail to these protections. They must not narrow them.
 
