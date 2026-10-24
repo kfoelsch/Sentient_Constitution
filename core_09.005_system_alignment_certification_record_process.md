@@ -7,7 +7,7 @@
 >
 > - **Constitutional owner (joint with Part A):** forum-supervised **system alignment certification and related records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
 > - **Evaluation inputs:** [Part A §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) supply evaluation outputs reflected on the certification record.
-> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Ten standing measurement, or Chapter Eleven standing effects. **§10** states the standing bridge boundary explicitly. Part B also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*auditability and reconstructability terms*)–**CJS-5.110 §5**.
+> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Ten standing measurement, or Chapter Eleven standing effects. **§10** states the standing bridge boundary explicitly. Part B also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
 >
 > **Upstream:** [Part A](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation); [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Thirteen forum supervision; Chapters Two through Four verification discipline.
 > **Downstream:** Chapter Ten standing records and verified inputs; Chapter Eleven standing effects.
@@ -43,7 +43,7 @@ Chapter Nine, **Part B**, is the constitutional owner of these parts of system a
 - **Phase VIa, Operate and recertify:** **recertification and reopening** ([§9 Recertification and Reopening](#9-recertification-and-reopening)); and
 - **Phase VIb, Standing bridge:** the **standing bridge** ([§10 Relationship to Standing](#10-relationship-to-standing)).
 
-Evaluation requirements are in **[Part A](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**), which ends at [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). This Part continues the chapter at **§6** (*Forum Process*). [Part A §1.1 Certification at a glance](core_09.000_system_alignment_certification_evaluation.md#11-certification-at-a-glance) charts the whole process.
+Evaluation requirements are in **[Part A](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**), which ends at [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). This Part continues the chapter at **§6** (*Forum Process*). [Part A §1.2 Certification at a glance](core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance) charts the whole process.
 
 *In plain terms: Part A explains how to **frame** and **evaluate** a system. Part B explains what happens next. Forums review the findings and reach an **outcome**, and nothing goes live until the system is certified. The findings and the decision go on the **record**. Sentients (the beings the Constitution covers) can **challenge** the outcome. The certification is kept current, and review **reopens** when it needs to. Certification can also feed **standing**, but it never replaces standing measurement or standing effects.*
 
@@ -56,7 +56,7 @@ Certification under this Part:
 
 It may supply verified inputs to Chapter Ten only through [§10 Relationship to Standing](#10-relationship-to-standing).
 
-The chart below is the Part B portion of the process chart in [Part A §1.1 Certification at a glance](core_09.000_system_alignment_certification_evaluation.md#11-certification-at-a-glance): **Phase III Review** through **Phase VI Operate** ([§6 Forum Process](#6-forum-process) to [§10 Relationship to Standing](#10-relationship-to-standing)). It starts from the framing and evaluation work in Part A, and each new review pass returns there at connector A.
+The chart below is the Part B portion of the process chart in [Part A §1.2 Certification at a glance](core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance): **Phase III Review** through **Phase VI Operate** ([§6 Forum Process](#6-forum-process) to [§10 Relationship to Standing](#10-relationship-to-standing)). It starts from the framing and evaluation work in Part A, and each new review pass returns there at connector A.
 
 ```mermaid
 flowchart TB
@@ -419,7 +419,7 @@ Provisional certification and full certification are the two **statuses** of cer
 
 A system that is Not Certified, including one whose certification is deferred or refused, may not go live.
 
-The rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own record, scaled under [Part A §2.2 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#22-pilot-certification). Its certification covers only the scope, population, and duration stated on that record. Full deployment needs its own certification, which may draw on the pilot's record.
+The rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own record, scaled under [Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification). Its certification covers only the scope, population, and duration stated on that record. Full deployment needs its own certification, which may draw on the pilot's record.
 
 **Publication and opportunity for challenge.** Before a first go-live or a material expansion, the deciding forum must set two things on the record:
 
@@ -596,9 +596,9 @@ The forum may not meet any of these by certifying, or by continuing certificatio
 - Read with:
   - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification);
   - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation);
-  - [corpus_systems.md](corpus_systems.md), **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**, **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling**, and
+  - [corpus_systems.md](corpus_systems.md), **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, and
   - **CS-6.345** (*System lifecycle*);
-  - **CJS-5.110 §4** (*tiered transparency and audit-access terms*).
+  - **CJS-5.110 §4** (*transparency levels and audit-access terms*).
 - Subsections: [§8.1](#81-minimum-record-contents) (*minimum record contents*); [§8.2](#82-record-integrity-transparency-and-auditability) (*record integrity: transparency and auditability*).
 
 </details>
@@ -758,7 +758,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 
 **Transparency** — sentients must be able to see what matters:
 
-- A certification record must disclose decision-relevant facts, at a level proportionate to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling**, including what [§8 System Certification Record](#8-system-certification-record) requires:
+- A certification record must disclose decision-relevant facts, at a level proportionate to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, including what [§8 System Certification Record](#8-system-certification-record) requires:
   - scope;
   - assumptions;
   - evidence basis;
@@ -768,7 +768,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
   - limits on reliance;
 - Limits on disclosure justified by safety or security are permitted only where they are consistent with [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity) and Chapter One disclosure constraints;
 - Volume, formatting, or technical obscurity must not stand in for decision-relevant clarity; and
-- The online-publication baseline, the paywall prohibition for [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Transparency](core_05.050_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**, read with **CJS-5.110 §4** (*tiered transparency and audit-access terms*).
+- The online-publication baseline, the paywall prohibition for [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Transparency](core_05.050_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, read with **CJS-5.110 §4** (*transparency levels and audit-access terms*).
 
 **Auditability** — sentients must be able to reconstruct and check the record:
 

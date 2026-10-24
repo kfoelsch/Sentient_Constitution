@@ -280,7 +280,7 @@ family name stays. Do not add a seventh family.
 
 1. SENTIENT forums
    Body / bench / set that performs this family’s work:
-   Organization (single standing / regional / tiered / other lawful):
+   Organization (single standing / regional / multi-level / other lawful):
    Chambers, divisions, or designated panels (or “none yet”):
    What starts at family level vs chamber:
    Authorized adjudicators (distinct from intake / clerical / support):

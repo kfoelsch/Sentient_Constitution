@@ -79,7 +79,7 @@ Assess those arrangements for the particular act under [Chapter Eight §3 Indepe
 
 *In plain terms: supervision papers must use the system classification that actual operation warrants, so a lower label cannot reduce the duties that apply.*
 
-Apply **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
+Apply **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and stewardship-level scaling rule.
 
 When an institution supervises systems under [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) or **CS-14.305 — Critical system stewardship**, its published maps under **CI-9.210 §2** (*Published industry and domain mapping*) and related **CI-9.210** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including when reclassification is required.
 

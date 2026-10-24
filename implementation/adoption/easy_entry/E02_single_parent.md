@@ -47,7 +47,7 @@ See: [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_supp
 
 See: [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival); [CI-9.210 §4](../../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) as CI-6.225 names it.
 
-**Family form is not a lesser tier.**
+**Family form is not a lesser level.**
 - **Today:** Someone hints that a single-parent home is already a risk. Single parent, chosen family, or non-marital care is treated as incomplete and therefore easier to override.
 - **With this Constitution:** You may form, keep, and leave family and care relationships of your choosing. A one-parent home is not itself a reason to take the child. A lasting split from a child you care for is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again.
 

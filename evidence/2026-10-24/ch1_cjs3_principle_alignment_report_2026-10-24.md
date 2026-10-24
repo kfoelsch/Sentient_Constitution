@@ -1,6 +1,6 @@
 # Chapter 01 -> CJS operational cluster Principle Alignment Audit Report
 
-**Date:** 2026-10-22
+**Date:** 2026-10-24
 **Workflow:** CH1_CJS3_PRINCIPLE_ALIGNMENT_CHECK
 **Auditor:** Automated static extraction with manual-review flags
 
@@ -25,7 +25,7 @@ CJS operational cluster is operationally aligned with Chapter 01 at the structur
 |---|---|---|---|---|---|---|
 | CJS-5.110 §2 | Oversight: reflexive transparency and accountability terms | `corpus_joint_structure/cjs_05.110_oversight_operations.md` | 15.2, 6, 13.2, 19.1, 19.2 | 13.2, 15.2, 19.1, 19.2, 6, linked | Article XVI, Article XVI-A, CS, corpus_systems.md | complete |
 | CJS-5.110 §3 | Oversight: auditability and reconstructability terms (annex) | `corpus_joint_structure/cjs_05.110_oversight_operations.md` | 15.2, 6, 19.1, 19.2 | 15.2, 19.1, 19.2, 6, linked | Article VII-B, Article XIII-A, Article XIII-B, Article XIX-B, Article XIX-C, Article XVI (+9) | complete |
-| CJS-5.110 §4 | Oversight: tiered transparency and audit-access terms | `corpus_joint_structure/cjs_05.110_oversight_operations.md` | 15.2, 18.2, 18, 19.1, 15 | 13.1.5, 15, 15.2, 18, 18.2, 19.1, linked | Article VII-B, Article XVI, Article XVI-A, CF, CS, corpus_forum.md (+1) | complete |
+| CJS-5.110 §4 | Oversight: transparency levels and audit-access terms | `corpus_joint_structure/cjs_05.110_oversight_operations.md` | 15.2, 18.2, 18, 19.1, 15 | 13.1.5, 15, 15.2, 18, 18.2, 19.1, linked | Article VII-B, Article XVI, Article XVI-A, CF, CS, corpus_forum.md (+1) | complete |
 | CJS-5.110 §5 | Oversight: independent verification and claim-integrity terms | `corpus_joint_structure/cjs_05.110_oversight_operations.md` | 15.2, 5.1, 6, 19.1, 19.2 | 15.2, 19.1, 19.2, 5.1, 6, linked | Article XVI, Article XVI-A, CS, corpus_systems.md | complete |
 | CJS-5.110 §6 | Oversight: integrity assurance and resilience operations | `corpus_joint_structure/cjs_05.110_oversight_operations.md` | 15.1, 15.2, 19.1, 19.2 | 15.1, 15.2, 19.1, 19.2, linked | CF, CI, CS, Chapter Ten, Chapter Thirteen, Core definitions (+1) | complete |
 | CJS-5.120 §7 | Participation: quorum and participatory legitimacy terms | `corpus_joint_structure/cjs_05.120_participation_operations.md` | 15.1, 6, 13.2, 18, 15, 17 | 13.2, 15, 15.1, 17, 18, 6, linked | Article X-B, Article XII, Article XII-A, Chapter Six | complete |

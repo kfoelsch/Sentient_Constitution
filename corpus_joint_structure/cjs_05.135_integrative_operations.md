@@ -42,7 +42,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
+  - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*);
   - **CJS-5.135 §22** (*Integrative: constrained-secrecy and protected-investigation terms*);
@@ -198,7 +198,7 @@ No permanent secrecy and anti-normalization discipline
 
 - Read with:
   - **CJS-5.135 §23** (*Integrative: intervention and override integrity terms*);
-  - **CJS-5.130 §19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
+  - **CJS-5.130 §19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.130 §21** (*Continuity: adversarial robustness and abuse-resistance terms*);
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*);

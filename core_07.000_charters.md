@@ -407,7 +407,7 @@ A System Charter states, in plain language that affected sentients and auditors 
 4. **Out-of-scope limits:** the material activities, authorities, and domains it is not authorized to exercise.
 5. **Affected communities and dependencies:** who relies on the Chartered Party, and which systems or infrastructure it depends on or gates, where material.
    - **Not an opt-out:** Leaving a group off this list does not take it out of scope. A sentient the Chartered Party materially affects keeps every Rights Floor protection whether or not the document names it, and a list narrower than the real reliance is read against the real reliance.
-6. **Classification assumptions:** the class or stewardship tier relied on, with a [Charter Pointer](core_05.040_band_continuity.md#charter-pointer) to **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*) and **CS-14.305** (*Critical system stewardship*) where they apply.
+6. **Classification assumptions:** the class or stewardship level relied on, with a [Charter Pointer](core_05.040_band_continuity.md#charter-pointer) to **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*) and **CS-14.305** (*Critical system stewardship*) where they apply.
 7. **Charter Role Map:** the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), or a Charter Pointer to the published document that is the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
 8. **Binding stakeholder-choice Charter Pointers:**
    - **When it applies:** when a real disagreement among affected sentients requires a binding stakeholder choice inside the system. [Def.P2 Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice) calls this its admission scope.
@@ -614,7 +614,7 @@ If something nobody could have foreseen leaves one of those seats without a qual
 - **When the substitution lapses:** An emergency substitute is a stopgap. It ends when its check window ends, unless it has by then become a regular holder change under [§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders).
   - **Who sets the window:** The System Charter or Institutional Charter sets the length of that window, but it can't be longer than the maximum for your Tier.
   - **The maximums:** 7 days for Tier A, 14 for Tier B, 30 for Tier C, and 60 for Tier L (the resolution windows in the [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing) table).
-  - **Tier A emergency:** In a Tier A emergency where a life or serious rights are at stake, the default check window is 3 days, the protective-step bound in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#time-scale-levels) (*Time-scale levels*).
+  - **Tier A emergency:** In a Tier A emergency where a life or serious rights are at stake, the default check window is 3 days, the protective-step bound in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#time-scale-settings) (*Time-scale settings*).
   - **Until the formation check is done:** The substitute cannot take any binding action alone.
 
 <a id="474-certification-seats"></a>

@@ -580,7 +580,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
   - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4);
   - [Chapter Nine Part B §8](core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (9.005 §8); and **
-  - [corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** where attributable action or audit-level responsibility is materially implicated.
+  - [corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** where attributable action or audit-level responsibility is materially implicated.
 - Read with:
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -1009,7 +1009,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     **Primary assessment:** Identify:
     - the named sentient and the one authority, pathway, or matter limited;
     - the issuing forum, and whether it stands outside the subject's control line;
-    - the showing of the grounds and the evidence tier relied on;
+    - the showing of the grounds and the evidence level relied on;
     - the risk, and why it could not wait for verification;
     - the lightest measure used and why a lighter one would not do; and
     - the lapse date and the review route.
@@ -2816,7 +2816,7 @@ The following limits also apply:
     - fails, by one who holds care, custody, or control, to meet an animal's basic needs (food, water, shelter, space, relief of pain or illness) where the failure was known or reasonably should have been known, and suffering results that [Necessity](core_05.035_band_accountability.md#necessity) does not justify.
     "Suffering" here means physical pain, fear, distress, or serious deprivation of basic needs.
   - **In scope — who:** Coverage follows the [Animal Life](core_05.055_band_participation.md#animal-life) floor on [substrate-agnostic](core_05.055_band_participation.md#substrate-class) terms under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion). It is not a species, taxonomy, or ownership test. The word "animal" labels the floor; it does not limit it.
-  - **In scope — higher tiers:** Where [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life), [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life), or [Sentient](core_05.055_band_participation.md#sentient) treatment applies, Animal Cruelty is the minimum, not the ceiling. The same facts may also engage [Cruelty](core_05.035_band_accountability.md#cruelty) and Chapter Six directly, and the more protective rule governs.
+  - **In scope — higher protection levels:** Where [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life), [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life), or [Sentient](core_05.055_band_participation.md#sentient) treatment applies, Animal Cruelty is the minimum, not the ceiling. The same facts may also engage [Cruelty](core_05.035_band_accountability.md#cruelty) and Chapter Six directly, and the more protective rule governs.
   - **Boundary — not a lower bar:** Animal Cruelty does not add elements that make [Cruelty](core_05.035_band_accountability.md#cruelty) harder to find for animals. Where the facts meet the base Cruelty test, they are Animal Cruelty whether or not the custody or neglect limb applies.
   - **Boundary — justifications:** Veterinary treatment, euthanasia to end suffering, defense against imminent harm, and food, research, population, or pest-control practices are tested under [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality). None is excluded by category, and none is excused by label. Cost, convenience, tradition, legality, or property status alone does not establish necessity.
   - **Out of scope:**
@@ -3394,17 +3394,17 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: an optional profile can describe a material non-compliance finding by Tetrad leg, aim, governance layer, failure character, and severity tier. It helps routing and audit but does not change the underlying verdict.*
+*In plain terms: an optional profile can describe a material non-compliance finding by Tetrad leg, aim, governance layer, failure character, and severity level. It helps routing and audit but does not change the underlying verdict.*
 
 - **What it is**
-  - **In scope:** Optional orientation and routing metadata attached to a material [Non-Compliance](core_05.045_band_integrative.md#non-compliance) finding. For audits, routing, and cross-implementation work, the profile names the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg, [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation, governance layer, **failure character**, and **severity tier** (**T1**–**T4**) that best describe the finding.
+  - **In scope:** Optional orientation and routing metadata attached to a material [Non-Compliance](core_05.045_band_integrative.md#non-compliance) finding. For audits, routing, and cross-implementation work, the profile names the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg, [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation, governance layer, **failure character**, and **severity level** (**T1**–**T4**) that best describe the finding.
   - **Out of scope:** parallel verdict documents; [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) contribution or violation measurement; optional routing metadata without a material non-compliance finding.
   - **Depends on:** a material non-compliance finding under [Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) or an invoked Chapter Five definition.
 <a id="non-compliance-finding-profile-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?*
 
-    **Primary assessment:** Use the default **Tetrad·Aim·Layer** code from the [CJS-5.105 §1 cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) unless the facts require a documented change. Where material, add a **failure character**—for example formal, substantive, evasive, structural, or stewardship—and a **severity tier** from **T1** through **T4** for each finding.
+    **Primary assessment:** Use the default **Tetrad·Aim·Layer** code from the [CJS-5.105 §1 cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) unless the facts require a documented change. Where material, add a **failure character**—for example formal, substantive, evasive, structural, or stewardship—and a **severity level** from **T1** through **T4** for each finding.
 <a id="non-compliance-finding-profile-c"></a>
 - **What must hold**
   - **Primary failure:** treating the profile as deciding whether the underlying definition is met;
@@ -4831,7 +4831,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (scaled / adversarial deployment scrutiny).
-- Owner floor: [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and *[corpus_systems.md](corpus_systems.md)*, CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling classification.
+- Owner floor: [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and *[corpus_systems.md](corpus_systems.md)*, CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications classification.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
   - [Autonomous Lethal System](core_05.035_band_accountability.md#autonomous-lethal-system),

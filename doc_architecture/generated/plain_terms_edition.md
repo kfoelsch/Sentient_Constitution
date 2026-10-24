@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **718** of **1108** headings carry a gloss (65%).
+Coverage: **718** of **1110** headings carry a gloss (65%).
 
 ## Contents
 
@@ -32,7 +32,7 @@ Coverage: **718** of **1108** headings carry a gloss (65%).
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
-- [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (16/58 glossed)
+- [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (16/60 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (13/25 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09.010_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/23 glossed)
@@ -3725,19 +3725,25 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 ## CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 16/58 headings glossed
+Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 16/60 headings glossed
 
 #### 1. Purpose and Role
 
-When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once its effects reach beyond a private unit or its operator claims constitutional compliance.
+When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once it is reclassified to Class L or higher (that is, its effects reach beyond a private unit) or its operator claims constitutional compliance.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role)
 
-##### 1.1 Certification at a glance
+##### 1.1 Certification as an audit process, scaled by class
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#11-certification-as-an-audit-process-scaled-by-class)
+
+##### 1.2 Certification at a glance
 
 classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its conditions. Each review pass uses a new record linked to the last.
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#11-certification-at-a-glance)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance)
 
 #### 2. System Class Evaluation
 
@@ -3745,17 +3751,23 @@ certification has to check whether the system is classified honestly — not by 
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)
 
-##### 2.1 How System Class Scales Every Evaluation
+##### 2.1 Certification, recertification, and defects
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#21-how-system-class-scales-every-evaluation)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#21-certification-recertification-and-defects)
 
-##### 2.2 Pilot certification
+##### 2.2 How System Class Scales Every Evaluation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#22-pilot-certification)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation)
+
+##### 2.3 Pilot certification
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification)
 
 #### 3. Whole-System Certification Evaluation
 

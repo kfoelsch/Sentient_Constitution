@@ -5,7 +5,7 @@
 
 ## Publication cadence
 
-- Annual / quarterly / event-triggered: (pick; justify by class/tier)
+- Annual / quarterly / event-triggered: (pick; justify by class/stewardship level)
 
 ## Required fields (recurring report)
 

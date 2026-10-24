@@ -35,7 +35,7 @@ Purpose: summarize the system as a governed operational unit.
 Minimum fields:
 
 - system name, edition/version, owner, accountable steward, and publication date;
-- constitutional scope and claimed class / steward tier;
+- constitutional scope and claimed class / steward level;
 - purpose, user groups, and materially affected stakeholder classes;
 - critical dependencies, external integrations, and shared infrastructure reliance;
 - material data formats, schemas, APIs, and interchange protocols, including any CJS-5.130 §17 exception record where a Class A / B / C system uses a closed, proprietary, unstable, or non-standard choice;
@@ -75,7 +75,7 @@ Minimum fields:
 
 - monitored dimension;
 - accountable owner;
-- class/tier basis for cadence;
+- class/stewardship-level basis for cadence;
 - collection or review cadence;
 - threshold for alert, escalation, rollback, or mandatory revalidation;
 - evidence artifact produced;
@@ -122,7 +122,7 @@ This packet should be publishable as a stand-alone update or as part of an insti
 Minimum fields:
 
 - reporting period, accountable publisher, and publication date;
-- affected system, class/tier, steward tier if applicable, and affected control family;
+- affected system, class/stewardship level, steward level if applicable, and affected control family;
 - failure state: ongoing, contained, remediated, reopened;
 - failure description in plain language;
 - affected services, decisions, rights pathways, evidence custody, continuity duties, or supervised systems;

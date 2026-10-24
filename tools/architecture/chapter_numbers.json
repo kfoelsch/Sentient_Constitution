@@ -1804,6 +1804,22 @@
       ]
     },
     {
+      "old_id": "CS-9.315",
+      "original_file": "corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md",
+      "machine_id": "CS-09315",
+      "display_id": "CS-9.315",
+      "layer": "CS",
+      "core_home": "09",
+      "title": "system alignment certification run sheet",
+      "destination_file": "corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md",
+      "status": "active",
+      "machine_number": "09315",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-9.315",
+      "legacy_section_ids": [],
+      "legacy_chapter_ids": []
+    },
+    {
       "old_id": "CI-27",
       "original_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
       "machine_id": "CI-11205",

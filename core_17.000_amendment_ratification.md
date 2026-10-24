@@ -204,7 +204,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 - Upstream: [§5](#5-test-3--authority-chain-and-custody-validity) custody validity; [Chapter Sixteen §3.1](core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) (16.000 §3.1) internal hierarchy for adopters.
 - Subsections: [§10.1](#101-deliberate-adoption)–[§10.3](#103-joining-by-additional-parties).
 - Downstream: [§11](#11-amendment-procedure-requirements) notice and recorded effectiveness.
-- Read with: **[corpus_systems.md](corpus_systems.md)**, **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling** classification referenced in §10.1; [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045).
+- Read with: **[corpus_systems.md](corpus_systems.md)**, **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** classification referenced in §10.1; [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (5.045).
 
 </details>
 
@@ -226,7 +226,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 
 *In plain terms: binding adoption has to be explicit, recorded, and auditable to the scale of the system — quiet or partial "we kind of follow it" does not let an operator claim constitutional protection while dodging obligations, and a steward's own-conduct note is not adoption.*
 
-This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
+This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
 
 A steward is bound when a qualifying adopter records a valid adoption document under this section and [Chapter Eighteen §4](core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority); listing a steward as a party bound by adoption does not make that steward themselves a qualifying adopter.
 

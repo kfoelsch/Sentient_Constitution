@@ -222,7 +222,7 @@ If Track B, function (pick one; same kit — §1.1):
 4. Out-of-scope limits — material activities, authorities, or domains
    this body is not authorized to exercise:
 5. Affected communities and dependencies:
-6. Classification assumptions — CS-9.305 and CS-9.310 class, CS-14.305 stewardship tier, or
+6. Classification assumptions — CS-9.305 and CS-9.310 class, CS-14.305 stewardship level, or
    “not yet classified — auditability still proportionate”:
 7. Amendment authority — who may amend; what is material; notice and
    contest paths; material amendment remains non-delegable (CI-8.205 §1):

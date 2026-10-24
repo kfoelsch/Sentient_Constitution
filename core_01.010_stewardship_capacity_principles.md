@@ -1909,7 +1909,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 
 - Where [material stake](core_00.000_preamble.md#material-stake) calls for it and information-type rules permit it, governance-relevant data, audit paths, and review tools must stay available to materially affected sentients. They must not be locked inside a single operator, vendor, or oversight bloc.
 - The default favors inspectable processes, contestable records, and independent verification, consistent with [§16.3 Openness Aspiration](#163-openness-aspiration).
-- It stays subject to [§13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) and **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**, including Type N and other classification limits on what may be collected, published, retained, or reconstructed.
+- It stays subject to [§13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) and **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, including Type N and other classification limits on what may be collected, published, retained, or reconstructed.
 
 <a id="1931-capture-escalation-triggers"></a>
 ##### 19.3.1 Capture Escalation Triggers

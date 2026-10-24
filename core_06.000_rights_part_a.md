@@ -65,7 +65,7 @@ The rest of the Constitution explains how this floor is understood, where its li
   - **incentive alignment and system capture** — [Chapter One §19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) and related stewardship rules, but only where incentives, trust, fidelity, capture, market structure, or a defended limit actually matter to the situation.
 - **Chapters Two through Four** — keeping definitions honest, tracking who bears what burden, being able to see what is happening, verifying claims in ways sentients can use, and limiting observation where security requires it.
 - **Chapter Five** — definitions that actually matter to the right, behavior, system, or limit being judged.
-- **Classification and scale rules** — **Materiality**, [Dependency](core_05.040_band_continuity.md#dependency), and any class, tier, or timing rule added by the adopting body.
+- **Classification and scale rules** — **Materiality**, [Dependency](core_05.040_band_continuity.md#dependency), and any class, stewardship level, or timing rule added by the adopting body.
 
 These background rules apply to every article in this chapter unless a specific article says otherwise.
 
@@ -627,7 +627,7 @@ This Article sets out the floors for post-sale access and subscriptions:
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 - Read with: [Article XXI-A](core_06.015_rights_part_d.md#article-xxi-a-portability-rights) (*Portability Rights*).
-- Read with: [corpus_systems.md](corpus_systems.md) **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**, especially [§1.2](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
+- Read with: [corpus_systems.md](corpus_systems.md) **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, especially [§1.2](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
 - Read with: **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*) and **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Article IX-B](core_06.005_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*) — data ownership and other sentients' shares in the same data.
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) — records that deletion must not defeat.

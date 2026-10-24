@@ -803,7 +803,7 @@ This subsection sets out who may see named-pathway effects and what aggregation 
     - a profile;
     - a composite;
     - a ranking;
-    - a tier;
+    - a grade;
     - a badge;
     - a public display; or
     - a comparable artifact;

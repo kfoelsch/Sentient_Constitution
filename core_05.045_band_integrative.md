@@ -352,7 +352,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
   - **Secondary failure:** Continued exclusion of a [Dependency](core_05.040_band_continuity.md#dependency)-critical innovation without:
     - class-scaled tightening;
     - conversion to access-preserving reward; or
-    - sunset under [corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling.
+    - sunset under [corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications.
   - **Tertiary failure:**
     - exclusion that creates [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_05.035_band_accountability.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better; or
     - reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter One and Chapter Six justify.
@@ -621,7 +621,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - the ambiguity rule in [Chapter One §15.3 Ambiguity resolution](core_01.005_interaction_interpretation.md#153-ambiguity-resolution);
     - the incorporation-layer rules in [Chapter One §15.4.3 Incorporation layer](core_01.005_interaction_interpretation.md#1543-incorporation-layer), including the choice among incorporated texts, the clearly adopted baseline when custody records are unreliable, and the choice between adopted implementation files; and
     - every implementation-file rule that says which of two overlapping requirements, profiles, or classes governs.
-  - **Out of scope:** [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness), which is severity with no added protection. Also out of scope are the tiers of review in [Heightened Scrutiny](core_05.050_band_oversight.md#heightened-scrutiny), and the relation between this Constitution and stricter external law, which [Chapter Sixteen §3.2 Stricter External Protections](core_16.000_expansion_supremacy.md#32-stricter-external-protections) governs.
+  - **Out of scope:** [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness), which is severity with no added protection. Also out of scope are the levels of review in [Heightened Scrutiny](core_05.050_band_oversight.md#heightened-scrutiny), and the relation between this Constitution and stricter external law, which [Chapter Sixteen §3.2 Stricter External Protections](core_16.000_expansion_supremacy.md#32-stricter-external-protections) governs.
 <a id="fullest-protective-effect-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the party who chose between readings or rules can show that the choice protects sentients most.
@@ -763,7 +763,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **In scope:** Incentive structures acting on agents, operators, or constituent components — reward paths, targets, governance signals, and comparable structures that predictably shape behavior across delayed and aggregated effects.
   - **Depends on:** [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint), [Trust](core_05.040_band_continuity.md#trust), and [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) — constitutive alignment targets. Incentive structures must align with these bounds and with systemic stability conducive to justified [Trust](core_05.040_band_continuity.md#trust).
   - **Out of scope:** Short-horizon local reward tuning that does not shape delayed or aggregated behavior against Safety, Truth, Trust, or Meaningful Agency bounds.
-  - **Read with:** [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) where scores or metrics can mask real outcomes against those bounds — owned on the [Incentive Alignment](#incentive-alignment) tertiary tier.
+  - **Read with:** [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) where scores or metrics can mask real outcomes against those bounds — owned on the [Incentive Alignment](#incentive-alignment) tertiary layer.
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether incentives stay aligned with safety, truth, trust, and meaningful agency over time — not only when short-term scores look good.
 

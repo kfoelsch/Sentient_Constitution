@@ -64,7 +64,7 @@ Chapter Five, Timeliness Tetrad leg, is the constitutional owner of the **Timeli
     - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways);
     - [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency); and
     - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden).
-  - **Out of scope:** leaf-definition details, measurement tiers, and implementation mechanics owned by [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), sibling leaves, and CJS.
+  - **Out of scope:** leaf-definition details, measurement layers, and implementation mechanics owned by [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), sibling leaves, and CJS.
 <a id="timeliness-constitutional-m"></a>
 <a id="timeliness-constitutional-a"></a>
 - **How to measure and assess**
@@ -94,7 +94,7 @@ Chapter Five, Timeliness Tetrad leg, is the constitutional owner of the **Timeli
 
 Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
 
-**Timeliness measurement family leaves** — operative measurement tiers:
+**Timeliness measurement family leaves** — operative measurement layers:
 
 - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution)
 - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways)
@@ -112,7 +112,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Timeliness measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
+- Downstream: Timeliness measurement family — link-only rollup; per-term layers live on leaf definitions — see [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
 - Read with: [Participation](core_05.025_apex_participation_leg.md#participation-constitutional), [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05.005_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
 - Read with: [Chapter Thirteen §6](core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (13.000 §6).
 

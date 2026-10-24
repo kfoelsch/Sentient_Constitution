@@ -3889,7 +3889,7 @@
       "machine_id": "CF-13445.2.3",
       "display_id": "CF-13.445 \u00a72.3",
       "old_anchor": "cf-1123-minimum-urgency-levels",
-      "new_anchor": "cf-13445-23-minimum-urgency-levels",
+      "new_anchor": "cf-13445-23-minimum-urgency-categories",
       "header": "CF-11.2.3 Minimum urgency levels"
     },
     {
@@ -8391,7 +8391,7 @@
         "machine_id": "CF-13445.2.3",
         "display_id": "CF-13.445 \u00a72.3",
         "old_anchor": "cf-1123-minimum-urgency-levels",
-        "new_anchor": "cf-13445-23-minimum-urgency-levels"
+        "new_anchor": "cf-13445-23-minimum-urgency-categories"
       }
     ],
     "CF-11.2.4": [
@@ -12039,7 +12039,7 @@
         },
         {
           "old_anchor": "cf-1123-minimum-urgency-levels",
-          "new_anchor": "cf-13445-23-minimum-urgency-levels"
+          "new_anchor": "cf-13445-23-minimum-urgency-categories"
         },
         {
           "old_anchor": "cf-1124-cross-layer-requirements-and-escalation",

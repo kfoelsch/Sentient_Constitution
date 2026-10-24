@@ -45,7 +45,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
+  - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*);
   - **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) and
@@ -58,7 +58,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
 - Read with: [**CS-14.305**](../corpus_systems/cs_14.305_critical_system_stewardship.md) (*Critical system stewardship*)
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
-- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) (3.000)).
+- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity level** **T1**–**T4** per finding ([Chapter Three, section 3](../core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) (3.000)).
 - Chapter One basis: §15.1, §6, §13.2, §19.2, §17 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*).
 - Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.205** (*Institutional design, separation of powers, and authority custody*).
@@ -316,10 +316,10 @@ Baseline governance accountability conditions
 <a id="classification-scaled-governance-burden"></a>
 Classification-scaled governance burden
 
-*In plain terms: where an institution's duties depend on [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) classes or **CS-14.305 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and…*
+*In plain terms: where an institution's duties depend on [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes or **CS-14.305 — Critical system stewardship** stewardship levels, governance burden must scale with the applicable class and…*
 
 - **What it is**
-  - **In scope:** Where an institution's duties depend on [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) classes or **CS-14.305 — Critical system stewardship** stewardship tiers, governance burden must scale with the applicable class and tier profile.
+  - **In scope:** Where an institution's duties depend on [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes or **CS-14.305 — Critical system stewardship** stewardship levels, governance burden must scale with the applicable class and stewardship level profile.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in classification-scaled governance burden.
 <a id="classification-scaled-governance-burden-a"></a>
 - **How to measure and assess**
@@ -328,7 +328,7 @@ Classification-scaled governance burden
     **Primary assessment:** Evaluation must verify that formation, authorization, oversight, assurance, mapping, delegated-subunit, and related institutional duties reflect the operative classification profile for affected scope.
 <a id="classification-scaled-governance-burden-c"></a>
 - **What must hold**
-  - **Primary failure:** Apply a lower institutional burden than the highest applicable class or tier for affected duties, or to treat multiple classes or tiers as if the lowest burden governs when a burden with the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) applies.
+  - **Primary failure:** Apply a lower institutional burden than the highest applicable class or stewardship level for affected duties, or to treat multiple classes or stewardship levels as if the lowest burden governs when a burden with the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) applies.
 
 <a id="constitutional-lane-and-functional-separation"></a>
 Constitutional lane and functional separation
@@ -340,9 +340,9 @@ Constitutional lane and functional separation
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in constitutional lane and functional separation.
 <a id="constitutional-lane-and-functional-separation-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) or **CS-14.305 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-8.205** (*Institutional design, separation of powers, and authority custody*)
+  - **Primary measure:** each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-14.305 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-8.205** (*Institutional design, separation of powers, and authority custody*)
 
-    **Primary assessment:** Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) or **CS-14.305 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-8.205** (*Institutional design, separation of powers, and authority custody*).
+    **Primary assessment:** Reviewers must verify each lane's published function, host institution, binding duties, independence safeguards, accountable roles, and relationship to any system-class or stewardship burden under [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-14.305 — Critical system stewardship**. Institution-specific authority custody, non-delegable duties, and local delegation controls remain with **CI-8.205** (*Institutional design, separation of powers, and authority custody*).
 <a id="constitutional-lane-and-functional-separation-c"></a>
 - **What must hold**
   - **Primary failure:** A lane if it is undefined, merged, or staffed in a way that defeats required separation, auditability, challenge, succession, or binding role accountability; or a lane map that does not place the standing-record request / verify / enter-and-hold / contest seats, or places verification and entry, or verification and contest, in one seat, even under a published merged-hosting safeguard.
@@ -367,10 +367,10 @@ Contextual and systemic evaluation discipline
 <a id="formation-and-authorization-proportionality-minimum"></a>
 Formation and authorization proportionality minimum
 
-*In plain terms: formation, authorization, registration, pre-authorization, and ongoing compliance burdens must scale with the implementation scope's system class, stewardship tier, dependency footprint, and irreversibility risk.*
+*In plain terms: formation, authorization, registration, pre-authorization, and ongoing compliance burdens must scale with the implementation scope's system class, stewardship level, dependency footprint, and irreversibility risk.*
 
 - **What it is**
-  - **In scope:** Formation, authorization, registration, pre-authorization, and ongoing compliance burdens must scale with the implementation scope's system class, stewardship tier, dependency footprint, and irreversibility risk. Low-impact or planned **Class P** contexts should have low-friction formation paths, while **Class A** and comparable high-dependency contexts require due diligence proportionate to impact before authorization.
+  - **In scope:** Formation, authorization, registration, pre-authorization, and ongoing compliance burdens must scale with the implementation scope's system class, stewardship level, dependency footprint, and irreversibility risk. Low-impact or planned **Class P** contexts should have low-friction formation paths, while **Class A** and comparable high-dependency contexts require due diligence proportionate to impact before authorization.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in formation and authorization proportionality minimum.
 <a id="formation-and-authorization-proportionality-minimum-a"></a>
 - **How to measure and assess**
@@ -440,7 +440,7 @@ Stewardship-role depth and non-symbolic governance boundary
 
 - Read with:
   - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*);
-  - **CJS-5.130 §17** (*Continuity: interoperability, portability, and exit-integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
+  - **CJS-5.130 §17** (*Continuity: interoperability, portability, and exit-integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*);
   - **CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*);
@@ -456,7 +456,7 @@ Stewardship-role depth and non-symbolic governance boundary
 - Read with: **`corpus_forum.md` CF-13.450 (*Forum continuity*) through CF-13.460 (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
-- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **substantive** or **evasive** **failure character** when restrictions persist without revalidation; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) (3.000)).
+- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **substantive** or **evasive** **failure character** when restrictions persist without revalidation; add **severity level** **T1**–**T4** per finding ([Chapter Three, section 3](../core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) (3.000)).
 - Chapter One basis: §18.1, §18.3, §18, §19.1, §15, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*).
 
@@ -509,7 +509,7 @@ Class-aligned revenue and access-burden minimum
 *In plain terms: taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with…*
 
 - **What it is**
-  - **In scope:** Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
+  - **In scope:** Taxes, fees, subscriptions, user charges, commercial-use surcharges, priority fees, or similar revenue measures that materially affect access to a governed system, institution, forum pathway, or implementation interface must align with [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) system class, dependency, and rights-pathway risk. General extraction must not make **Class A** survival access, **Class B** normal-operation-critical access, baseline rights pathways, or ordinary access to infrastructure-like **Class C** coordination practically unavailable.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class-aligned revenue and access-burden minimum.
 <a id="class-aligned-revenue-and-access-burden-minimum-a"></a>
 - **How to measure and assess**
@@ -666,9 +666,9 @@ Survival-critical access and voluntary-market interface
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in survival-critical access and voluntary-market.
 <a id="survival-critical-access-and-voluntary-market-interface-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) and **CS-14.305 — Critical system stewardship**
+  - **Primary measure:** reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and **CS-14.305 — Critical system stewardship**
 
-    **Primary assessment:** Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) and **CS-14.305 — Critical system stewardship**.
+    **Primary assessment:** Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and **CS-14.305 — Critical system stewardship**.
 <a id="survival-critical-access-and-voluntary-market-interface-c"></a>
 - **What must hold**
   - **Primary failure:** An arrangement if survival-level access effectively requires work or market participation; if published floor amounts ignore real place-based necessity without justification; if market infrastructure evades classification-scaled stewardship; or if revenue design shifts the primary cost onto indispensable access in violation of the class-aligned revenue minimum.
@@ -706,13 +706,13 @@ Temporal discipline and revalidation
 - Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
-- Read with: **CJS-5.110 §4 — Tiered Transparency and Audit Access**
+- Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.125 §14 — Intervention governance and override authorization**
-- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling**
+- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**
 - Read with: `corpus_institutions.md`
 - Read with: `corpus_forum.md`
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
-- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **formal** **failure character** for challenge-pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) (3.000)).
+- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **formal** **failure character** for challenge-pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity level** **T1**–**T4** per finding ([Chapter Three, section 3](../core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) (3.000)).
 - Chapter One basis: §15.1, §5.2, §18, §19.1, §15, §17 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*).
 - Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Thirteen fami…*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-13.405 §5** (*Chamber creation, identification, and family boundary*), **CF-13.405 §8** (*Specialist and technical chamber discipline*).
@@ -982,7 +982,7 @@ Uncertainty safeguards and anti-abuse minimum
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.135 §23** (*Integrative: intervention and override integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
+  - **CJS-5.135 §23** (*Integrative: intervention and override integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*);
   - **CJS-5.125 §14** (*Accountability: intervention governance and override-authorization terms*);
@@ -1164,7 +1164,7 @@ Records, transparency, and challenge pathway duties
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling**
+- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**
 - Read with: **CJS-5.125 §12** (*burden-of-justification and constraint terms*) where lowering a protective classification finding is at issue.
 - Read with: Owner-layer-specific monitoring or publication duties.
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
@@ -1192,7 +1192,7 @@ Records, transparency, and challenge pathway duties
 
 *In plain terms: spot the pattern behind repeated failures, rank how urgently it must be fixed, actually fix it, and tell the affected sentients and stakeholders who need to know — without quietly downgrading a record along the way.*
 
-Use this rule when recurring failures, Correction Urgency Level (**CUL**) assignment, structural transparency, or **material classification-record honesty** (correction, precautionary default, and no quiet lowering across owner-layer class/type/status files) depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
+Use this rule when recurring failures, Correction Urgency (**CU**) assignment, structural transparency, or **material classification-record honesty** (correction, precautionary default, and no quiet lowering across owner-layer class/type/status files) depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
 <a id="structural-review-correction-urgency-and-disclosure-terms"></a>
 structural review, correction urgency, and disclosure terms
@@ -1211,20 +1211,20 @@ structural review, correction urgency, and disclosure terms
 - **What must hold**
   - **Primary failure:** Claim adequate structural correction when a material component has not been fully evaluated, remains unused, or is disconnected from remediation.
 
-<a id="correction-urgency-level-cul-discipline"></a>
-Correction Urgency Level (CUL) discipline
+<a id="correction-urgency-cu-discipline"></a>
+Correction Urgency (CU) discipline
 
-*In plain terms: structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. Each level borrows the timing of a tier, and the top level, CUL-1, runs at the Emergency level when the emergency conditions are met.*
+*In plain terms: structural issues must receive auditable urgency categories based on impact, propagation risk, and irreversibility. Each category borrows the timing of a tier, and the top category, CU-1, runs at the Emergency setting when the emergency conditions are met.*
 
 - **What it is**
-  - **In scope:** Structural issues must receive auditable urgency levels based on impact, propagation risk, and irreversibility. The levels take the scope of harm and the column of the matching tier in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), applied to a structural issue and not to a dispute: **CUL-1** matches Tier A, **CUL-2** Tier B, **CUL-3** Tier C, and **CUL-4** Tier L (Tier P for an issue contained in a private unit). A level borrows that column's figures and is not a tier classification. The **containment window** is the column's intake target: containment, or a documented decision not to contain, is made inside it. The **correction window** is the column's outer bound: the correction, or a safeguard that holds, is in place inside it, and going past it needs a documented extension under Continuation discipline ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)). Both are compliance lines. The slower complexity levels do not apply. **CUL-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible. "Where feasible" qualifies the coupling and never the time of containment. Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, **CUL-1** runs at the **Emergency level** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#time-scale-levels) (*Time-scale levels*)): containment screening starts inside its 6-hour intake target and the protective steps finish inside its 3-day bound ([CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)). Where the containment is a measure in force against someone, notice, restore-challenge, and prompt review run as for any emergency measure ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)). Where a CUL issue is also before a forum, that matter's tier window governs, and a CUL level never changes a dispute's tier.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in correction Urgency Level (CUL) discipline.
-<a id="correction-urgency-level-cul-discipline-a"></a>
+  - **In scope:** Structural issues must receive auditable urgency categories based on impact, propagation risk, and irreversibility. The categories take the scope of harm and the column of the matching tier in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), applied to a structural issue and not to a dispute: **CU-1** matches Tier A, **CU-2** Tier B, **CU-3** Tier C, and **CU-4** Tier L (Tier P for an issue contained in a private unit). A category borrows that column's figures and is not a tier classification. The **containment window** is the column's intake target: containment, or a documented decision not to contain, is made inside it. The **correction window** is the column's outer bound: the correction, or a safeguard that holds, is in place inside it, and going past it needs a documented extension under Continuation discipline ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)). Both are compliance lines. The slower complexity settings do not apply. **CU-1** requires immediate containment and safe-mode or graceful-degradation coupling where feasible. "Where feasible" qualifies the coupling and never the time of containment. Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, **CU-1** runs at the **Emergency setting** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#time-scale-settings) (*Time-scale settings*)): containment screening starts inside its 6-hour intake target and the protective steps finish inside its 3-day bound ([CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)). Where the containment is a measure in force against someone, notice, restore-challenge, and prompt review run as for any emergency measure ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)). Where a CU issue is also before a forum, that matter's tier window governs, and a CU category never changes a dispute's tier.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in correction urgency (CU) discipline.
+<a id="correction-urgency-cu-discipline-a"></a>
 - **How to measure and assess**
   - **Primary measure:** urgency labels actually change response speed, safeguards, and oversight
 
     **Primary assessment:** Evaluation must verify urgency labels actually change response speed, safeguards, and oversight.
-<a id="correction-urgency-level-cul-discipline-c"></a>
+<a id="correction-urgency-cu-discipline-c"></a>
 - **What must hold**
   - **Primary failure:** Serious issues without timely containment, or urgency labels that do not govern action,.
 
@@ -1284,10 +1284,10 @@ Realignment resistance and dissolution-review trigger minimum
 <a id="stakeholder-scope-and-targeted-transparency"></a>
 Stakeholder scope and targeted transparency
 
-*In plain terms: systems must define clear, contestable stakeholder criteria for disclosure, audit access, and accountability, expanding scope as class, impact, dependency, CUL level, or propagation risk rises.*
+*In plain terms: systems must define clear, contestable stakeholder criteria for disclosure, audit access, and accountability, expanding scope as class, impact, dependency, CU category, or propagation risk rises.*
 
 - **What it is**
-  - **In scope:** Systems must define clear, contestable stakeholder criteria for disclosure, audit access, and accountability, expanding scope as class, impact, dependency, CUL level, or propagation risk rises.
+  - **In scope:** Systems must define clear, contestable stakeholder criteria for disclosure, audit access, and accountability, expanding scope as class, impact, dependency, CU category, or propagation risk rises.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in stakeholder scope and targeted transparency.
 <a id="stakeholder-scope-and-targeted-transparency-a"></a>
 - **How to measure and assess**

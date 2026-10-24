@@ -61,8 +61,8 @@ A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guid
 
 That format uses a titled entry (optionally preceded by an HTML anchor whose `id` is the entry slug), an optional italic `*In plain terms: …*` gloss, then:
 - `- **What it is**` — Ontological (O) scope, with mandatory `**In scope:**` and `**Out of scope:**` sub-bullets (optional `**Depends on:**` only when constitutive prerequisites must be separated),
-- `- **How to measure and assess**` — Measurement (M) interwoven with Assessment (A), introduced by an HTML anchor whose `id` is the entry slug plus `-a`, with tiered `**Primary measure:**` / `**Primary assessment:**` pairing (and secondary/tertiary tiers only when the entry states them),
-- `- **What must hold**` — Compliance (C), introduced by an HTML anchor whose `id` is the entry slug plus `-c`, with `**Primary failure:**` (and secondary/tertiary failure labels when tiers apply).
+- `- **How to measure and assess**` — Measurement (M) interwoven with Assessment (A), introduced by an HTML anchor whose `id` is the entry slug plus `-a`, with layered `**Primary measure:**` / `**Primary assessment:**` pairing (and secondary/tertiary layers only when the entry states them),
+- `- **What must hold**` — Compliance (C), introduced by an HTML anchor whose `id` is the entry slug plus `-c`, with `**Primary failure:**` (and secondary/tertiary failure labels when layers apply).
 
 **Primary measure** on an **oDef** names the auditable control, record, evidence object, or operational check the term turns on. It does not invent Preamble or Chapter Five measurement-family leads unless the entry already points there.
 

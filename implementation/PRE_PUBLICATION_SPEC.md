@@ -82,7 +82,7 @@ Results should be **as consistent as possible across agents and models** (see §
 
 | Mode | What it is | When “adoption claim” matters |
 |---|---|---|
-| **Operations-guide use** | Pick up stacks / pieces for real-world problem solving without claiming full constitutional adoption | Stack quality and owner routing matter; partial-pack “adoption tiers” are secondary |
+| **Operations-guide use** | Pick up stacks / pieces for real-world problem solving without claiming full constitutional adoption | Stack quality and owner routing matter; partial-pack “adoption levels” are secondary |
 | **Full adoption** | Bind this Constitution as governing law / custody under Chapters Seventeen–Seventeen | Spine, Rights Floor, incorporation, and amendment life-cycle matter as a whole |
 
 Working stance (from interview): modular pickup is primarily an **operations guide**; honest **adoption** language is reserved for **full adoption** cases unless later evidence shows partial-adoption claims are needed in the wild.
