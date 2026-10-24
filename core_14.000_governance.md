@@ -353,7 +353,7 @@ Proxy indicators (financial or otherwise) may inform decisions only where they r
 
 <br>
 
-*In plain terms: when binding votes or similar choices are used, this section sets the floor — implementation owns ballot mechanics, but cannot slip below these requirements.*
+*In plain terms: when binding votes or similar choices are used, this section sets the requirements — implementation owns ballot mechanics, but cannot slip below them.*
 
 Where an adopter's legitimacy mechanism includes collective voting or an analogous binding collective choice, this section states constitutional requirements only. Detailed election or tally design belongs to owner layers.
 

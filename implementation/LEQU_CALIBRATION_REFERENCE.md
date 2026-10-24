@@ -248,7 +248,7 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 <a id="64-standard-contribution-measures"></a>
 ### 6.4 Standard contribution measures (adopter-set schedules)
 
-*In plain terms: for tasks a community does over and over — litter pickups, creek restoration work units, recovering a plot of degraded land — an adopter may publish a default measurement so the work is credited without a fresh estimate each time. The default is the floor for doing the task the ordinary way. Do it better and the record measures what you actually did. As people get better at the task, the default is re-baselined so the credit tracks real effort and real result — which is what keeps it worth finding a smarter way.*
+*In plain terms: for tasks a community does over and over — litter pickups, creek restoration work units, recovering a plot of degraded land — an adopter may publish a default measurement so the work is credited without a fresh estimate each time. The default is the minimum credit for doing the task the ordinary way. Do it better and the record measures what you actually did. As people get better at the task, the default is re-baselined so the credit tracks real effort and real result — which is what keeps it worth finding a smarter way.*
 
 Binding home: [Chapter Ten §5.1 *Standard contribution measures*](../core_10.000_standing_assessment.md#51-standard-contribution-measures). This section is method and a worked schedule. It cannot assign a live record and cannot narrow that section.
 
