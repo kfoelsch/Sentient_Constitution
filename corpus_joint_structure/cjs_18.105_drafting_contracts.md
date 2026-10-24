@@ -17,7 +17,7 @@
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
   - [Chapter Eighteen](../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Downstream: [CJS-18.105 §7](#cjs-18105-7-intentional-overlap-non-duplication-discipline) (*CJS-18.105 §8.1: Drafting contracts and owner-to-CJS seam*); [CJS-18.105 §8](#cjs-18105-8-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-18.105 §8.1](#cjs-18105-81-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*).
+- Downstream: [CJS-18.105 §7](#cjs-18105-7-intentional-overlap-non-duplication-discipline) (*CJS-18.105 §8.1: Drafting contracts and owner-to-CJS seam*); [CJS-18.105 §8](#cjs-18105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-layer definition contract (binding abstraction + owner detail)*); [CJS-18.105 §8.1](#cjs-18105-81-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*).
 - Read with: [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*); [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); [Chapter One §15.4.3](../core_01.005_interaction_interpretation.md#1543-incorporation-layer) (1.005 §15.4.3) (*cross-file Fullest Protective Effect rule*).
 
 </details>
@@ -26,7 +26,7 @@
 
 Core home: 18
 
-This file is the joint-structure implementation home for **CJS-18.105 §7** (*Intentional overlap (non-duplication discipline)*), **CJS-18.105 §8** (*Two-tier definition contract (binding abstraction + owner detail)*), and **CJS-18.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*).
+This file is the joint-structure implementation home for **CJS-18.105 §7** (*Intentional overlap (non-duplication discipline)*), **CJS-18.105 §8** (*Two-layer definition contract (binding abstraction + owner detail)*), and **CJS-18.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*).
 
 *In plain terms: these sections are for editors and auditors. They say how to split a topic across files without writing two competing rulebooks, and how to keep **CJS** as a connector rather than a second owner.*
 
@@ -52,14 +52,14 @@ Some topics are **deliberately** split across implementation files — for examp
 
 Domain-layer overlap discipline: apply [Institutions overlap discipline](../corpus_institutions/ci_00.205_registry_and_reading_rules.md#institutions-overlap-discipline), [Forums overlap discipline](../corpus_forum/cf_00.405_registry_and_reading_rules.md#forums-overlap-discipline), and [Systems overlap discipline](../corpus_systems/cs_00.305_registry_and_reading_rules.md#systems-overlap-discipline) in the respective registry annexes.
 
-## CJS-18.105 §8: Two-tier definition contract (binding abstraction + owner detail)
+## CJS-18.105 §8: Two-layer definition contract (binding abstraction + owner detail)
 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-18.105 §8** (*Two-tier definition contract (binding abstraction + owner detail)*);
+  - **CJS-18.105 §8** (*Two-layer definition contract (binding abstraction + owner detail)*);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*);
   - **CJS-18.105 §7** (*Intentional overlap (non-duplication discipline)*);
   - **CJS-18.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*);
@@ -74,8 +74,8 @@ The CJS folder may adopt **binding high-level joint abstractions** only where a 
 
 For this contract:
 
-- **Tier 1 (CJS abstraction):** state only shared admission scope, cross-implementation trigger conditions, and minimum joint consequences needed to avoid contradiction or silent gaps.
-- **Tier 2 (owner detail):** retain all operational tests, thresholds, procedures, and implementation mechanics in the **primary owner** section(s) named in **CJS-0.105 §1** (*Cross-file routing*).
+- **Layer 1 (CJS abstraction):** state only shared admission scope, cross-implementation trigger conditions, and minimum joint consequences needed to avoid contradiction or silent gaps.
+- **Layer 2 (owner detail):** retain all operational tests, thresholds, procedures, and implementation mechanics in the **primary owner** section(s) named in **CJS-0.105 §1** (*Cross-file routing*).
 - **No parallel canon:** CJS abstractions must not become a second full taxonomy for domains owned by **CJS**, **CS**, **CI**, or **CF**.
 - **Specialize, do not redefine:** owner files may specialize a CJS abstraction for their domain scope but must not redefine it incompatibly.
 
@@ -85,7 +85,7 @@ When that boundary does not resolve the conflict, use this order:
 
 1. The Sentient Constitution and core definitions, including **Chapter Eighteen**.
 2. The canonical owner meaning in **CJS**, **CS**, **CI**, or **CF**, as routed by **CJS-0.105 §1** (*Topic router (stable IDs)*) and the [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights).
-3. The **Tier 1** CJS abstraction stated in this section.
+3. The **Layer 1** CJS abstraction stated in this section.
 4. Local shorthand, examples, summaries, or other drafting convenience text, as described in **CJS-0.110 §3** (*Shared implementation-corpus preamble contract*).
 
 Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.105 §1** (*Cross-file routing*), including the forum owner in **CF** where forum routing, forum authority, or Chapter Thirteen procedure is affected, and update the CJS pointer once the owner clarifies it. For the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) rule between two adopted implementation standards on the same risk, read [Chapter One §15.4.3 Incorporation layer](../core_01.005_interaction_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
@@ -98,7 +98,7 @@ Domain-layer read-with contracts: apply [Institutions read-with pointers](../cor
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [CJS-18.105 §8](#cjs-18105-8-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*);
+  - [CJS-18.105 §8](#cjs-18105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-layer definition contract (binding abstraction + owner detail)*);
   - [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section identifiers and article references*);
   - [CJS-18.105 §7](#cjs-18105-7-intentional-overlap-non-duplication-discipline) (*CJS-18.105 §8.1: Drafting contracts and owner-to-CJS seam*);
   - [Chapter One §15.4.4](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4).
@@ -106,7 +106,7 @@ Domain-layer read-with contracts: apply [Institutions read-with pointers](../cor
   - **CJS-18.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*);
   - **CJS-0.110 §1** (*Section identifiers and article references*);
   - **CJS-18.105 §7** (*Intentional overlap (non-duplication discipline)*);
-  - **CJS-18.105 §8** (*Two-tier definition contract (binding abstraction + owner detail)*);
+  - **CJS-18.105 §8** (*Two-layer definition contract (binding abstraction + owner detail)*);
   - **CJS-0.105 §3** (*Stable identifiers, edition alignment, and drafting notes*);
   - [Chapter One §15.4.4](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4);
   - [Chapter One §15.4.3](../core_01.005_interaction_interpretation.md#1543-incorporation-layer) (1.005 §15.4.3) (*cross-file Fullest Protective Effect rule*).

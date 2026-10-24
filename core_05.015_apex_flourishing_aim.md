@@ -50,7 +50,7 @@ Chapter Five, Flourishing aim, is the constitutional owner of the **Flourishing*
     - [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint);
     - [Trustworthiness](core_05.040_band_continuity.md#trustworthiness); and
     - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency).
-  - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
+  - **Out of scope:** the leaf-definition details, measurement layers, and implementation mechanics owned by band files and CJS.
 <a id="flourishing-constitutional-m"></a>
 <a id="flourishing-constitutional-a"></a>
 - **How to measure and assess**
@@ -106,7 +106,7 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Downstream: Flourishing measurement family — link-only rollup; per-term layers live on leaf definitions linked in the table below.
 - Read with: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
 
 </details>
@@ -123,7 +123,7 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 | Safety, harm, and risk | Is foreseeable harm prevented, contained, and honestly assessed? | [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint); [Harm](core_05.035_band_accountability.md#harm) |
 | Survival-floor access | Can sentients reach essentials — food, water, shelter, care, stable environment? | [Bodily-Maintenance Access](core_05.040_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](core_05.040_band_continuity.md#occupancy-continuity), [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions); **Article III-A** (*Survival*) |
 
-Operative measurement tiers live on those definition homes.
+Operative measurement layers live on those definition homes.
 
 ---
 

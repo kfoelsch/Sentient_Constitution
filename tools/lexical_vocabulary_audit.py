@@ -441,6 +441,22 @@ def run_internal_regression_checks() -> None:
         )
     if scan_avoid_bare_recheck("core_08.000_functional_independence_separation_of_duties.md", "A re-check is due.\n"):
         raise RuntimeError("Internal regression failed: bare-re-check scope leaked outside its scoped files.")
+    level_findings = scan_avoid_bare_level(
+        "core_05.055_band_participation.md",
+        "The level applies to every entity.\n"
+        "Higher protection levels include this floor; the protection level is set once.\n"
+        "Level 2 includes Animal Life, and Level 4 includes Level 3.\n"
+        "A level of detail is not a scale, and a required level is a qualified form.\n"
+        "Keep the protections of those levels.\n"
+        "See [Treatment of Life by Status](core_05.055_band_participation.md#treatment-of-life-by-status) and `the level` in code.\n"
+        "Levels differ by stewardship.\n",
+    )
+    if len(level_findings) != 3:
+        raise RuntimeError(
+            "Internal regression failed: bare level was not flagged or qualified forms broke.",
+        )
+    if scan_avoid_bare_level("core_08.000_functional_independence_separation_of_duties.md", "The level applies.\n"):
+        raise RuntimeError("Internal regression failed: bare-level scope leaked outside its scoped files.")
     layer_findings = scan_avoid_governance_layer_labels(
         "internal-regression.md",
         "Remain subject to stakeholder governance.\n"
@@ -787,6 +803,59 @@ def scan_avoid_bare_recheck(rel_path: str, text: str) -> list[Finding]:
             if _pathway_preceding_word(check_line, match.start()) != "formation":
                 findings.append(
                     Finding(file=rel_path, line=idx, rule="avoid-bare-recheck", text=raw.strip()),
+                )
+                break
+    return findings
+
+
+# Bare **level** (custodian decision, 2026-10-23): a level is always a named level. "Tier" now names only the forum urgency tiers
+# (Tier A/B/C/L/P), so the scales that used to say "tier" say **protection level** (Treatment of Life by Status, Level 1 to Level 4),
+# **stewardship level** (CSS-A to CSS-C), **access level** / **disclosure level** (transparency and audit access), **severity level**,
+# **evidence level**, and **verification level**. "The level" alone does not say which scale it is. Numbered forms (Level 1) and
+# "level of ..." are not matched. Enforced only on the files that own a leveled scale in `_BARE_LEVEL_SCOPE`; expand as other files are
+# swept (elsewhere a bare "level" is often an ordinary threshold, as in "at the level required by ...").
+_BARE_LEVEL_SCOPE = frozenset(
+    {
+        "core_05.055_band_participation.md",
+        "corpus_systems/cs_14.305_critical_system_stewardship.md",
+        "corpus_joint_structure/cjs_05.110_oversight_operations.md",
+        "corpus_joint_structure/cjs_05.115_audit_process.md",
+        "corpus_systems/cs_06.305_information_types_and_handling.md",
+        "corpus_systems/cs_06.310_data_classifications.md",
+    }
+)
+_LEVEL_WORD = re.compile(r"(?<![A-Za-z0-9-])(levels?)(?![A-Za-z0-9-])", re.IGNORECASE)
+# Determiners and generic words that leave the level unnamed. "Level" after a qualifier ("protection level", "the required level") is not matched.
+_LEVEL_BARE_PRECEDERS = frozenset(
+    """
+    a an the this that these those such each every any all some no other another its their our same one next top upper
+    """.split()
+)
+
+
+def scan_avoid_bare_level(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare **level** / **levels**: every use must say which scale it is (protection level, stewardship level, access level, ...)."""
+    if rel_path not in _BARE_LEVEL_SCOPE:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        for match in _LEVEL_WORD.finditer(check_line):
+            following = check_line[match.end() : match.end() + 4].lower()
+            if re.match(r"\s*\d", check_line[match.end() :]) or following.startswith(" of"):
+                continue
+            word = _pathway_preceding_word(check_line, match.start())
+            if word in _LEVEL_BARE_PRECEDERS or word == "^":
+                findings.append(
+                    Finding(file=rel_path, line=idx, rule="avoid-bare-level", text=raw.strip()),
                 )
                 break
     return findings
@@ -1452,6 +1521,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Eleven §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
         "- **`avoid-bare-check`:** in scoped files (`core_07.000_charters.md`), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing check, authenticity check, staff safeguards check). **Allowed:** verb uses (**the Chartered Party checks and records**), qualified compounds (**formation check**, **standing check**, **authenticity check**, **staff safeguards check**), and **check window**.",
         "- **`avoid-bare-recheck`:** in scoped files (`core_07.000_charters.md`), reject the noun **re-check** / **re-checks** / **recheck** / **rechecks** unless it follows **formation** → say **formation re-check**. **Allowed:** the verb forms (**re-checked**, **re-checking**) and **formation re-check**.",
+        "- **`avoid-bare-level`:** in scoped files (the owners of a leveled scale: `core_05.055_band_participation.md`, `cs_14.305`, `cjs_05.110`, `cjs_05.115`, `cs_06.305`, `cs_06.310`), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, and any qualified compound. \"Tier\" names only the forum urgency tiers.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
@@ -1527,6 +1597,7 @@ def main() -> int:
         findings.extend(scan_avoid_bare_pathway(rel_path, text))
         findings.extend(scan_avoid_bare_check(rel_path, text))
         findings.extend(scan_avoid_bare_recheck(rel_path, text))
+        findings.extend(scan_avoid_bare_level(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
         findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))
         findings.extend(scan_avoid_definition_map_label(rel_path, text))

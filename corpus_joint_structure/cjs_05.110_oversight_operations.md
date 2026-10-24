@@ -25,7 +25,7 @@
 
 Core home: 05
 
-This file is the joint-structure implementation home for **Oversight leg (CJS-5.110 §2 (*Oversight: reflexive transparency and accountability terms*)–CJS-5.110 §6 (*Oversight: integrity assurance and resilience operations*) / oDef.2–oDef.6)**. **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*) is held here as the annex; its audit process home is [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home).
+This file is the joint-structure implementation home for **Oversight leg (CJS-5.110 §2 (*Oversight: reflexive transparency and accountability terms*)–CJS-5.110 §6 (*Oversight: integrity assurance and resilience operations*) / oDef.2–oDef.6)**. **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*) is held here as the annex; its audit process home is [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home).
 
 *In plain terms: These clusters carry the **Oversight** leg into working terms: making a system explain itself, keeping enough record to reconstruct what happened, scaling who may see what, verifying claims independently, and keeping assurance itself resilient. They must be read together, because one strong control cannot rescue a weak link elsewhere.*
 
@@ -34,7 +34,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 |---|---|
 | **CJS-5.110 §2** / **oDef.2** | Oversight: reflexive transparency and accountability terms |
 | **CJS-5.110 §3 and CJS-5.115 §3** / **oDef.3** | Oversight: auditability and reconstructability terms (**OP annex** — process home is [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)) |
-| **CJS-5.110 §4** / **oDef.4** | Oversight: tiered transparency and audit-access terms (annex — including audit-process output disclosure) |
+| **CJS-5.110 §4** / **oDef.4** | Oversight: transparency levels and audit-access terms (annex — including audit-process output disclosure) |
 | **CJS-5.110 §5** / **oDef.5** | Oversight: independent verification and claim-integrity terms (annex) |
 | **CJS-5.110 §6** / **oDef.6** | Oversight: integrity assurance and resilience operations |
 **Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)**. This file keeps the machine-facing Oversight OP clusters.
@@ -46,8 +46,8 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
-  - **CJS-5.110 §4** (*Oversight: tiered transparency and audit-access terms*);
+  - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
+  - **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*);
   - **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*);
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*);
@@ -56,7 +56,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** (*audit process home*)
-- Read with: **CJS-5.110 §4 — Tiered Transparency and Audit Access**
+- Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) and **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
@@ -64,7 +64,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-5.135 §22 — Integrative: constrained-secrecy and protected-investigation terms**
 - Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
-- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**
+- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §13.2, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -255,14 +255,14 @@ Transparency, audit, and verification-integrity duties
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)**).
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-5.110 §4** (*Oversight: tiered transparency and audit-access terms*); **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*); **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*).
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*); **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*); **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*); **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*).
 - Read with: **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** — what / why / how / when; this section is the machine-facing annex only
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
-- Read with: **CJS-5.110 §4** (*Oversight: tiered transparency and audit-access terms*) (*tiered transparency and audit-access terms* — annex for access tiers and audit-output disclosure)
+- Read with: **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*) (*transparency levels and audit-access terms* — annex for access levels and audit-output disclosure)
 - Read with: **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
+- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -289,7 +289,7 @@ Transparency, audit, and verification-integrity duties
 
 *In plain terms: this is the machine-facing auditability checklist for **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** — Oversight: auditability and reconstructability terms (annex). Start at the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** for what / why / how / when.*
 
-The guidepost **oDef** rules below are the compliance checklist for the process home. They do not replace the what / why / how / when guide. Tiered access and audit-output disclosure continue in **CJS-5.110 §4** (*Oversight: tiered transparency and audit-access terms*); independent claim verification continues in **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*).
+The guidepost **oDef** rules below are the compliance checklist for the process home. They do not replace the what / why / how / when guide. Access levels and audit-output disclosure continue in **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*); independent claim verification continues in **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*).
 
 <a id="auditability-and-reconstructability-terms"></a>
 auditability and reconstructability terms
@@ -378,24 +378,24 @@ Operational transparency and structured logging requirements
 
 ---
 
-## CJS-5.110 §4 Oversight: tiered transparency and audit-access terms
+## CJS-5.110 §4 Oversight: transparency levels and audit-access terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.110 §4** (*Oversight: tiered transparency and audit-access terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
+  - **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*);
   - **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and
   - **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*).
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*) (*audit process home* — what / why / how / when in [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home); this cluster is the access-tier and output-disclosure annex)
-- Read with: **CJS-5.110 §4 — Tiered Transparency and Audit Access**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*) (*audit process home* — what / why / how / when in [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home); this cluster is the access-level and output-disclosure annex)
+- Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5)**
 - Read with: **`corpus_forum.md` CF-13.450 (*Forum continuity*) through CF-13.460 (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_06.305_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems))
+- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_06.305_information_types_and_handling.md#53-transparency-levels-and-audit-access) / [§7](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems))
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §18.2, §18, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -415,26 +415,26 @@ Operational transparency and structured logging requirements
 
 <br>
 
-*In plain terms: this cluster is the access-tier and audit-output annex to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** — not the process home itself.*
+*In plain terms: this cluster is the access-level and audit-output annex to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** — not the process home itself.*
 
 Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home) (*Oversight: auditability and reconstructability terms (annex)*)**.
 
-<a id="tiered-transparency-and-audit-access-terms"></a>
-tiered transparency and audit-access terms
+<a id="transparency-levels-and-audit-access-terms"></a>
+transparency levels and audit-access terms
 
-*In plain terms: access to information must be tiered so systems can be transparent, auditable, protective of lawful internal-state boundaries, and open to challenge.*
+*In plain terms: access to information must come in levels so systems can be transparent, auditable, protective of lawful internal-state boundaries, and open to challenge.*
 
 - **What it is**
-  - **In scope:** Access to information must be tiered so systems can be transparent, auditable, protective of lawful internal-state boundaries, and open to challenge.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in tiered transparency and audit-access.
-<a id="tiered-transparency-and-audit-access-terms-a"></a>
+  - **In scope:** Access to information must come in levels so systems can be transparent, auditable, protective of lawful internal-state boundaries, and open to challenge.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in transparency levels and audit-access.
+<a id="transparency-levels-and-audit-access-terms-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** evaluation must review the access tiers, audit routes, protection limits, and challenge paths together
+  - **Primary measure:** evaluation must review the access levels, audit routes, protection limits, and challenge paths together
 
-    **Primary assessment:** Evaluation must review the access tiers, audit routes, protection limits, and challenge paths together.
-<a id="tiered-transparency-and-audit-access-terms-c"></a>
+    **Primary assessment:** Evaluation must review the access levels, audit routes, protection limits, and challenge paths together.
+<a id="transparency-levels-and-audit-access-terms-c"></a>
 - **What must hold**
-  - **Primary failure:** A system cannot claim tiered transparency if a required part is missing, unreachable, or too unclear to use.
+  - **Primary failure:** A system cannot claim to offer transparency levels if a required part is missing, unreachable, or too unclear to use.
 
 <a id="access-control-integrity-and-anti-concealment"></a>
 Access-control integrity and anti-concealment
@@ -459,16 +459,16 @@ Audit process output disclosure preference
 *In plain terms: material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability.*
 
 - **What it is**
-  - **In scope:** Material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability. Disclose those outputs at the **most open feasible** tier under **CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*):
+  - **In scope:** Material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability. Disclose those outputs at the **most open feasible** level under **CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*):
   1. publish as **Type O** — including the strongest feasible **Type O** public substitute — where [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) or another public-baseline duty applies, or where the output can lawfully be public;
-  2. otherwise provide **structured or qualified audit access** to **Type G** or other non-public source under this cluster and **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
-  3. escalate to **forensic** or more-restricted tiers (**Type H**, **Type I**, **Type S**, **Type N**, or justified hold-backs) only when required by the applicable type, necessity, and constraint rules — and only while preserving maximum feasible visibility into the existence and character of the audit and its material results.
+  2. otherwise provide **structured or qualified audit access** to **Type G** or other non-public source under this cluster and **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
+  3. escalate to **forensic** or more-restricted levels (**Type H**, **Type I**, **Type S**, **Type N**, or justified hold-backs) only when required by the applicable type, necessity, and constraint rules — and only while preserving maximum feasible visibility into the existence and character of the audit and its material results.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in audit process output disclosure.
 <a id="audit-process-output-disclosure-preference-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** the disclosure tier chosen, the **Type O** / **Type G** (or other) typing, any public substitute used, that restricted tiers do not replace required public-baseline disclosure, and that outputs remain reconstructable and challengeable
+  - **Primary measure:** the disclosure level chosen, the **Type O** / **Type G** (or other) typing, any public substitute used, that restricted levels do not replace required public-baseline disclosure, and that outputs remain reconstructable and challengeable
 
-    **Primary assessment:** Evaluation must verify the disclosure tier chosen, the **Type O** / **Type G** (or other) typing, any public substitute used, that restricted tiers do not replace required public-baseline disclosure, and that outputs remain reconstructable and challengeable.
+    **Primary assessment:** Evaluation must verify the disclosure level chosen, the **Type O** / **Type G** (or other) typing, any public substitute used, that restricted levels do not replace required public-baseline disclosure, and that outputs remain reconstructable and challengeable.
 <a id="audit-process-output-disclosure-preference-c"></a>
 - **What must hold**
   - **Primary failure:** Treat "audit happened" as sufficient when material outputs are missing, unreachable, typed more restrictively than justified, or when non-public **Type G** (or other) audit access is used as a substitute for required **Type O** publication.
@@ -476,10 +476,10 @@ Audit process output disclosure preference
 <a id="audit-output-anti-concealment"></a>
 Audit-output anti-concealment
 
-*In plain terms: audit-process outputs must remain sufficient, at the applicable tier, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and…*
+*In plain terms: audit-process outputs must remain sufficient, at the applicable level, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and…*
 
 - **What it is**
-  - **In scope:** Audit-process outputs must remain sufficient, at the applicable tier, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and unreported material behavior change.
+  - **In scope:** Audit-process outputs must remain sufficient, at the applicable level, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and unreported material behavior change.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in audit-output anti-concealment.
 <a id="audit-output-anti-concealment-a"></a>
 - **How to measure and assess**
@@ -536,9 +536,9 @@ Independent and third-party audit-path availability
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in independent and third-party audit-path availability.
 <a id="independent-and-third-party-audit-path-availability-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** independent or third-party reviewers can realistically enter those paths, obtain outputs at the required tier, and that no single actor controls access unfairly
+  - **Primary measure:** independent or third-party reviewers can realistically enter those paths, obtain outputs at the required level, and that no single actor controls access unfairly
 
-    **Primary assessment:** Evaluation must verify that independent or third-party reviewers can realistically enter those paths, obtain outputs at the required tier, and that no single actor controls access unfairly.
+    **Primary assessment:** Evaluation must verify that independent or third-party reviewers can realistically enter those paths, obtain outputs at the required level, and that no single actor controls access unfairly.
 <a id="independent-and-third-party-audit-path-availability-c"></a>
 - **What must hold**
   - **Primary failure:** Qualification or availability rules if they hide exclusion, make independent audit unreachable in practice, or leave material audit paths soft-optional where class or impact requires them.
@@ -570,29 +570,29 @@ Restriction scope and justification discipline
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in restriction scope and justification discipline.
 <a id="restriction-scope-and-justification-discipline-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, the forum-review route where required, and whether less restrictive access tiers were considered
+  - **Primary measure:** the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, the forum-review route where required, and whether less restrictive access levels were considered
 
-    **Primary assessment:** Evaluation must verify the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, the forum-review route where required, and whether less restrictive access tiers were considered.
+    **Primary assessment:** Evaluation must verify the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, the forum-review route where required, and whether less restrictive access levels were considered.
 <a id="restriction-scope-and-justification-discipline-c"></a>
 - **What must hold**
   - **Primary failure:** Access restrictions when they are broad, indefinite, shielded from qualified or forum review, or maintained by convenience, institutional discomfort, ownership claims, or unresolved migration work.
 
-<a id="tier-structure-and-baseline-accessibility"></a>
-Tier structure and baseline accessibility
+<a id="access-level-structure-and-baseline-accessibility"></a>
+Access-level structure and baseline accessibility
 
 *In plain terms: baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.*
 
 - **What it is**
   - **In scope:** Baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in tier structure and baseline accessibility.
-<a id="tier-structure-and-baseline-accessibility-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in access-level structure and baseline accessibility.
+<a id="access-level-structure-and-baseline-accessibility-a"></a>
 - **How to measure and assess**
   - **Primary measure:** baseline access works for ordinary use, not only in theory
 
     **Primary assessment:** Evaluation must verify that baseline access works for ordinary use, not only in theory.
-<a id="tier-structure-and-baseline-accessibility-c"></a>
+<a id="access-level-structure-and-baseline-accessibility-c"></a>
 - **What must hold**
-  - **Primary failure:** Access tiers if the baseline is too thin for meaningful participation or risk review.
+  - **Primary failure:** Access levels if the baseline is too thin for meaningful participation or risk review.
 
 ---
 
@@ -600,12 +600,12 @@ Tier structure and baseline accessibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-5.110 §4** (*Oversight: tiered transparency and audit-access terms*).
+- Read with: **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*); **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*).
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** (*audit process home*)
-- Read with: **CJS-5.110 §4 — Tiered Transparency and Audit Access**
+- Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
-- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**
+- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
@@ -826,20 +826,20 @@ Adversarial response and revalidation non-entrenchment
 - **What must hold**
   - **Primary failure:** Preserve legacy structures by inertia when material risk, misalignment, or known vulnerabilities require correction, reauthorization, or replacement.
 
-<a id="audit-reconstruction-and-tiered-access-continuity"></a>
-Audit reconstruction and tiered access continuity
+<a id="audit-reconstruction-and-access-level-continuity"></a>
+Audit reconstruction and access-level continuity
 
-*In plain terms: records, disclosure tiers, qualified audit access, and forensic reconstruction must work together when harm, dispute, or credible risk requires deeper inspection.*
+*In plain terms: records, disclosure levels, qualified audit access, and forensic reconstruction must work together when harm, dispute, or credible risk requires deeper inspection.*
 
 - **What it is**
-  - **In scope:** Records, disclosure tiers, qualified audit access, and forensic reconstruction must work together when harm, dispute, or credible risk requires deeper inspection.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in audit reconstruction and tiered access continuity.
-<a id="audit-reconstruction-and-tiered-access-continuity-a"></a>
+  - **In scope:** Records, disclosure levels, qualified audit access, and forensic reconstruction must work together when harm, dispute, or credible risk requires deeper inspection.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in audit reconstruction and access-level continuity.
+<a id="audit-reconstruction-and-access-level-continuity-a"></a>
 - **How to measure and assess**
   - **Primary measure:** records, access gates, qualification routes, and challenge routes support independent review and root-cause reconstruction
 
     **Primary assessment:** Evaluation must verify that records, access gates, qualification routes, and challenge routes support independent review and root-cause reconstruction.
-<a id="audit-reconstruction-and-tiered-access-continuity-c"></a>
+<a id="audit-reconstruction-and-access-level-continuity-c"></a>
 - **What must hold**
   - **Primary failure:** Keep records that cannot practically be reconstructed, or to publish audit-access criteria that block a real path to qualified independent audit.
 
@@ -853,9 +853,9 @@ Class-scaled contest-monitor independence and mandate
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class-scaled contest-monitor independence and mandate.
 <a id="class-scaled-contest-monitor-independence-and-mandate-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** monitor appointment authority, conflicts and recusal controls, reporting line, cadence scaled to class or tier, exclusions from binding merits decisions, access to contest-pathway and evidence records, and escalation routes for structural contest failure
+  - **Primary measure:** monitor appointment authority, conflicts and recusal controls, reporting line, cadence scaled to class or stewardship level, exclusions from binding merits decisions, access to contest-pathway and evidence records, and escalation routes for structural contest failure
 
-    **Primary assessment:** Evaluation must verify monitor appointment authority, conflicts and recusal controls, reporting line, cadence scaled to class or tier, exclusions from binding merits decisions, access to contest-pathway and evidence records, and escalation routes for structural contest failure.
+    **Primary assessment:** Evaluation must verify monitor appointment authority, conflicts and recusal controls, reporting line, cadence scaled to class or stewardship level, exclusions from binding merits decisions, access to contest-pathway and evidence records, and escalation routes for structural contest failure.
 <a id="class-scaled-contest-monitor-independence-and-mandate-c"></a>
 - **What must hold**
   - **Primary failure:** A monitoring arrangement if the contested operational owner controls the monitoring path without an independence safeguard, if the mandate is unpublished or ambiguous, if monitoring silently becomes case-specific merits adjudication, or if Class A scope lacks independent or functionally independent participation where feasible.
@@ -904,9 +904,9 @@ Control-failure declaration chain
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in control-failure declaration chain.
 <a id="control-failure-declaration-chain-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** the declaration identifies reporting period, accountable publisher, affected scope, affected class or tier where relevant, operating status, detection and onset dates where known, containment actions, review invocation, remediation owner, target dates, dependency risks, and recurrence against prior commitments
+  - **Primary measure:** the declaration identifies reporting period, accountable publisher, affected scope, affected class or stewardship level where relevant, operating status, detection and onset dates where known, containment actions, review invocation, remediation owner, target dates, dependency risks, and recurrence against prior commitments
 
-    **Primary assessment:** Evaluation must verify the declaration identifies reporting period, accountable publisher, affected scope, affected class or tier where relevant, operating status, detection and onset dates where known, containment actions, review invocation, remediation owner, target dates, dependency risks, and recurrence against prior commitments.
+    **Primary assessment:** Evaluation must verify the declaration identifies reporting period, accountable publisher, affected scope, affected class or stewardship level where relevant, operating status, detection and onset dates where known, containment actions, review invocation, remediation owner, target dates, dependency risks, and recurrence against prior commitments.
 <a id="control-failure-declaration-chain-c"></a>
 - **What must hold**
   - **Primary failure:** Use a control declaration as reputational narration, to omit ongoing failure status, to hide delayed detection or concealment, or to publish remediation claims that cannot be compared against prior commitments and supporting records.
@@ -931,10 +931,10 @@ Cross-institution coordination and escalation chain
 <a id="external-assurance-trigger-minimum"></a>
 External assurance trigger minimum
 
-*In plain terms: independent external assurance must be triggered when class or tier exposure, severe incident, repeated control failure, integrity failure, or structural change creates credible doubt that ordinary internal review is sufficient.*
+*In plain terms: independent external assurance must be triggered when class or stewardship-level exposure, severe incident, repeated control failure, integrity failure, or structural change creates credible doubt that ordinary internal review is sufficient.*
 
 - **What it is**
-  - **In scope:** Independent external assurance must be triggered when class or tier exposure, severe incident, repeated control failure, integrity failure, or structural change creates credible doubt that ordinary internal review is sufficient.
+  - **In scope:** Independent external assurance must be triggered when class or stewardship-level exposure, severe incident, repeated control failure, integrity failure, or structural change creates credible doubt that ordinary internal review is sufficient.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in external assurance trigger minimum.
 <a id="external-assurance-trigger-minimum-a"></a>
 - **How to measure and assess**
@@ -945,20 +945,20 @@ External assurance trigger minimum
 - **What must hold**
   - **Primary failure:** Rely on discretionary internal assurance alone after a qualifying trigger, to leave commissioning authority self-judging, to omit affected records from the engagement scope, or to suppress unresolved exceptions needed for lawful escalation or contestability.
 
-<a id="incident-and-assurance-notification-urgency-levels"></a>
-Incident and assurance notification urgency levels
+<a id="incident-and-assurance-notification-urgency-nu"></a>
+Incident and assurance notification urgency (NU)
 
 *In plain terms: material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and…*
 
 - **What it is**
-  - **In scope:** Material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and class. Routine annual or other baseline attestations do not replace incident-driven notice. Institutions must publish default **Notification Urgency Levels** (**NUL**) aligned with Correction Urgency Level (**CUL**) discipline in **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) where both apply: **NUL-1** through **NUL-3** take the same tier columns as **CUL-1** through **CUL-3**.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in incident and assurance notification urgency levels.
-<a id="incident-and-assurance-notification-urgency-levels-a"></a>
+  - **In scope:** Material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and class. Routine annual or other baseline attestations do not replace incident-driven notice. Institutions must publish default **Notification Urgency** (**NU**) aligned with Correction Urgency (**CU**) discipline in **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) where both apply: **NU-1** through **NU-3** take the same tier columns as **CU-1** through **CU-3**.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in incident and assurance notification urgency (NU).
+<a id="incident-and-assurance-notification-urgency-nu-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** published default notice windows for each **NUL** band, affected-party notice routes, independent-challenge and independent-assurance notice routes, evidence-preservation steps, delay justification where Type S or protected-investigation constraints narrow immediate public detail, and escalation when notice is suppressed or deferred beyond the published window
+  - **Primary measure:** published default notice windows for each **NU** band, affected-party notice routes, independent-challenge and independent-assurance notice routes, evidence-preservation steps, delay justification where Type S or protected-investigation constraints narrow immediate public detail, and escalation when notice is suppressed or deferred beyond the published window
 
-    **Primary assessment:** Evaluation must verify published default notice windows for each **NUL** band, affected-party notice routes, independent-challenge and independent-assurance notice routes, evidence-preservation steps, delay justification where Type S or protected-investigation constraints narrow immediate public detail, and escalation when notice is suppressed or deferred beyond the published window.
-<a id="incident-and-assurance-notification-urgency-levels-c"></a>
+    **Primary assessment:** Evaluation must verify published default notice windows for each **NU** band, affected-party notice routes, independent-challenge and independent-assurance notice routes, evidence-preservation steps, delay justification where Type S or protected-investigation constraints narrow immediate public detail, and escalation when notice is suppressed or deferred beyond the published window.
+<a id="incident-and-assurance-notification-urgency-nu-c"></a>
 - **What must hold**
   - **Primary failure:** Wait for the next routine attestation when an incident requires immediate or expedited notice, to hide breach or corruption discovery, or to publish urgency labels that do not change actual notice timing.
 
@@ -1070,7 +1070,7 @@ Sortition and civic-lottery integrity controls
 *In plain terms: where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must…*
 
 - **What it is**
-  - **In scope:** Where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must protect randomization integrity, eligibility and exclusion rules, replacement and rotation rules, participant access supports, briefing-source independence, facilitator and staff separation, contact and lobbying boundaries (the strictest tier of Influence-contact and lobbying boundaries), intimidation safeguards, post-service benefit controls, and contest routes for selection failure, manipulation, capture, or procedural distortion.
+  - **In scope:** Where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must protect randomization integrity, eligibility and exclusion rules, replacement and rotation rules, participant access supports, briefing-source independence, facilitator and staff separation, contact and lobbying boundaries (the strictest level of Influence-contact and lobbying boundaries), intimidation safeguards, post-service benefit controls, and contest routes for selection failure, manipulation, capture, or procedural distortion.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in sortition and civic-lottery integrity.
 <a id="sortition-and-civic-lottery-integrity-controls-a"></a>
 - **How to measure and assess**
@@ -1098,15 +1098,15 @@ Three-lines assurance model
 - **What must hold**
   - **Primary failure:** Treat assurance as satisfied when the challenged operational owner also controls the only review or assurance path without an independence safeguard, or when record custody cannot support reconstruction across transfers.
 
-Default **NUL** bands (adopting documents may tighten but must not weaken without lawful authority):
-- **NUL-1 (immediate):** Active ongoing harm; unlawful **Type N** access, exposure, or reconstruction risk under [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md) (*Information types and handling*); active corruption, fraud, or capture in progress; or control collapse affecting rights pathways — internal escalation and affected-party notice inside the notice window; supervisory, assurance-line, and public declaration inside the declaration window, where **Type S** or protected-investigation constraints may narrow what the declaration says to protect lawful investigation integrity and never when it is made.
-- **NUL-2 (expedited):** Confirmed breach, integrity failure, or verified **CI-8.210 §3** (*Integrity trigger taxonomy and cross-layer routing (control package)*) corruption or fraud trigger with material but contained impact — notice to affected parties and the independent assurance line inside the notice window, which is materially shorter than routine reporting.
-- **NUL-3 (standard):** Material control weakness or integrity finding requiring resolution but not active ongoing exposure — notice inside the notice window and inclusion in the next required control declaration if not resolved.
-- **NUL-4 (routine):** Baseline controls attestation and non-urgent assurance reporting only — published annual or other routine cadence.
+Default **NU** bands (adopting documents may tighten but must not weaken without lawful authority):
+- **NU-1 (immediate):** Active ongoing harm; unlawful **Type N** access, exposure, or reconstruction risk under [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*); active corruption, fraud, or capture in progress; or control collapse affecting rights pathways — internal escalation and affected-party notice inside the notice window; supervisory, assurance-line, and public declaration inside the declaration window, where **Type S** or protected-investigation constraints may narrow what the declaration says to protect lawful investigation integrity and never when it is made.
+- **NU-2 (expedited):** Confirmed breach, integrity failure, or verified **CI-8.210 §3** (*Integrity trigger taxonomy and cross-layer routing (control package)*) corruption or fraud trigger with material but contained impact — notice to affected parties and the independent assurance line inside the notice window, which is materially shorter than routine reporting.
+- **NU-3 (standard):** Material control weakness or integrity finding requiring resolution but not active ongoing exposure — notice inside the notice window and inclusion in the next required control declaration if not resolved.
+- **NU-4 (routine):** Baseline controls attestation and non-urgent assurance reporting only — published annual or other routine cadence.
 
-**NUL windows.** **NUL-1** takes the column of Tier A, **NUL-2** Tier B, and **NUL-3** Tier C in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). **NUL-4** takes no tier: it is the routine attestation interval the institution publishes. The **notice window** of a band is its column's intake target, counted from discovery or, where the band requires a verified trigger, from verification. The **declaration window** of **NUL-1** is its column's outer bound. Where the Emergency level's conditions are met, **NUL-1** notice uses the Emergency level's intake target. Both windows are compliance lines. An institution's published windows may be shorter than these and never longer. A band borrows the column's figures and is not a tier classification. The figures are in [CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
+**NU windows.** **NU-1** takes the column of Tier A, **NU-2** Tier B, and **NU-3** Tier C in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). **NU-4** takes no tier: it is the routine attestation interval the institution publishes. The **notice window** of a band is its column's intake target, counted from discovery or, where the band requires a verified trigger, from verification. The **declaration window** of **NU-1** is its column's outer bound. Where the Emergency setting's conditions are met, **NU-1** notice uses the Emergency setting's intake target. Both windows are compliance lines. An institution's published windows may be shorter than these and never longer. A band borrows the column's figures and is not a tier classification. The figures are in [CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
 
-**NUL** assignment must govern who is notified, in what order, and by when. **NUL-1** and **NUL-2** events must invoke **CI-8.215 §2** (*External assurance triggers*) external-assurance review when published triggers are met. **Type N** breaches default to at least **NUL-2** and to **NUL-1** while unlawful access, exposure, or reconstruction risk is ongoing.
+**NU** assignment must govern who is notified, in what order, and by when. **NU-1** and **NU-2** events must invoke **CI-8.215 §2** (*External assurance triggers*) external-assurance review when published triggers are met. **Type N** breaches default to at least **NU-2** and to **NU-1** while unlawful access, exposure, or reconstruction risk is ongoing.
 
 ---
 

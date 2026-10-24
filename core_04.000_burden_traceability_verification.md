@@ -70,7 +70,7 @@ Read in order. Each step builds on the last; skip none.
 This section requires a **structured trace map**. For every definition that materially applies to system behavior — including every materially required **Chapter Five** definition — the map must link each part to **observable** behavior and real-world effects:
 
 - **what it is (O)** — what the term is about
-- **how it is measured (M)** — which measure applies at each tier
+- **how it is measured (M)** — which measure applies at each layer
 - **how it is judged (A)** — how the term must be assessed
 - **what must hold (C)** — what must be true in practice
 
@@ -123,7 +123,7 @@ Where verification is technically possible but not practically achievable, treat
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005).
-- Downstream: [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard); [corpus_systems.md](corpus_systems.md), **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**, and **CS-6.340** (*System requirements*) — user-facing capability surfaces, credentials, and information-type handling.
+- Downstream: [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard); [corpus_systems.md](corpus_systems.md), **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, and **CS-6.340** (*System requirements*) — user-facing capability surfaces, credentials, and information-type handling.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability)](core_05.050_band_oversight.md#foreseeability) (5.050) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Five Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) (5.050) and [Chapter Five Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) (5.040) — cryptographic and information-type handling must not replace **sections 2**, **3**, or **5**; **Articles VII-A**, **VII-B**, **XVI-A**, and **XVII-A** where environment-separation constraints are material.
 
 </details>
@@ -149,7 +149,7 @@ Where a limit blocks meaningful independent validation, the associated complianc
 - that determination is independently justified and auditable
 - the remaining method preserves sufficient epistemic integrity for compliance determination
 
-Cryptography and information-type handling must align with the Constitution and **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) or [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint), or the duties in **sections 2**, **3**, or **5**.
+Cryptography and information-type handling must align with the Constitution and **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) or [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint), or the duties in **sections 2**, **3**, or **5**.
 
 ### 5. Compliance Evidence Standard
 <details>

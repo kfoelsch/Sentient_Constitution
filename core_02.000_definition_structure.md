@@ -64,7 +64,7 @@ Chapter Two is the constitutional owner of **definition structure and component 
 
 Every constitutional definition MUST be built from linked parts, each with exactly one job:
 - **Ontological (O)** — what the term is about.
-- **Measurement (M)** — which measure applies at each tier. Measurement routing points assessment toward the right evidence; it does not set pass/fail outcomes.
+- **Measurement (M)** — which measure applies at each layer. Measurement routing points assessment toward the right evidence; it does not set pass/fail outcomes.
 - **Assessment (A)** — how the term must be assessed. On Chapter Five leaf definitions, the **Measurement (M)** register is woven into the **Assessment (A)** component. See [§1.3 Assessment Components](#13-assessment-components-a--how-it-must-be-assessed).
 - **Compliance (C)** — what must be true in practice.
 
@@ -98,15 +98,15 @@ Chapter Five leaf definitions must carry those O requirements using the Ontologi
 
 *In plain terms: the M part answers one simple question — **what should we look at to judge this term?** It names the measures that apply. It does not say whether the term passes or fails; that comes later.*
 
-The Measurement part (M) says which measure applies to a term at each tier. It points assessment toward the right evidence. It must not say what counts as passing or failing — that belongs only in the Compliance part (C).
+The Measurement part (M) says which measure applies to a term at each layer. It points assessment toward the right evidence. It must not say what counts as passing or failing — that belongs only in the Compliance part (C).
 
-On Chapter Five leaf definitions, M is woven into the Assessment part (A) under the reader-facing header **How to measure and assess**. Each tier names its measure first, then its matching assessment on the line directly beneath. The fields work like this:
+On Chapter Five leaf definitions, M is woven into the Assessment part (A) under the reader-facing header **How to measure and assess**. Each layer names its measure first, then its matching assessment on the line directly beneath. The fields work like this:
 
 - **Primary measure:** the main thing to look at first — the first evidence trail evaluators should follow for this term in this context.
 - **Secondary measure:** *(used when it applies)* additional measures that must be included alongside the primary one — not optional extras. They widen the check so a problem cannot hide behind a narrow slice of evidence.
 - **Tertiary measure:** *(used when it applies)* integrity checks on the measures themselves — especially where numbers, labels, self-reports, or formal categories might stand in for real outcomes.
 
-Not every definition needs all three tiers. Some terms declare a primary measure only; others add secondary or tertiary measures when the term needs a wider or deeper check.
+Not every definition needs all three layers. Some terms declare a primary measure only; others add secondary or tertiary measures when the term needs a wider or deeper check.
 
 A few things deliberately do **not** go in the M part:
 
@@ -136,13 +136,13 @@ The Assessment part (A) says how a definition must be assessed. It must not say 
 
 On individual term definitions in Chapter Five, measurement (M) and assessment (A) appear together in one section titled **How to measure and assess**.
 
-Within that section, each tier is a pair: the measure comes first, and the assessment for that measure sits on the line directly beneath it. The assessment fields are:
+Within that section, each layer is a pair: the measure comes first, and the assessment for that measure sits on the line directly beneath it. The assessment fields are:
 
 - **Primary assessment:** how to judge the primary measure — what evaluators must assess first, and what that check must actually reach (substance, not just labels or paperwork).
 - **Secondary assessment:** *(used when it applies)* how to judge the secondary measures — what must be included when the primary measure looks fine but wider evidence still matters.
 - **Tertiary assessment:** *(used when it applies)* how to judge the tertiary measures — checks on whether proxies, metrics, or formal categories still track real outcomes.
 
-Across all tiers, the A part must:
+Across all layers, the A part must:
 
 - say what must be assessed;
 - say under what conditions assessment must happen;
@@ -152,7 +152,7 @@ A few things deliberately do **not** go in the A part:
 
 - what counts as meeting or violating the term — that belongs in C;
 - what the term is about — that belongs in O;
-- which measure applies at each tier on its own — that belongs in M (though each measure is paired with its assessment on the line beneath it).
+- which measure applies at each layer on its own — that belongs in M (though each measure is paired with its assessment on the line beneath it).
 
 Chapter Five leaf definitions must carry those A requirements using the Assessment component shape stated in this section.
 
@@ -166,13 +166,13 @@ The Compliance part (C) states the real-world conditions that must hold for a te
 
 On individual term definitions in Chapter Five, the Compliance part (C) appears under the heading **What must hold**. The fields work like this:
 
-- **Primary failure:** when the term is violated at the primary tier — for example when the main measure is hollow, untraceable, or contradicted by how the system actually works.
-- **Secondary failure:** *(used when it applies)* when the term is violated at the secondary tier — for example when the primary check looks stable but something wider still defeats the term, such as a breakdown in a system it depends on or a connected system it interacts with.
-- **Tertiary failure:** *(used when it applies)* when the term is violated at the tertiary tier — for example when a proxy or metric is treated as enough on its own, or when known divergence is ignored or left uncorrected.
+- **Primary failure:** when the term is violated at the primary layer — for example when the main measure is hollow, untraceable, or contradicted by how the system actually works.
+- **Secondary failure:** *(used when it applies)* when the term is violated at the secondary layer — for example when the primary check looks stable but something wider still defeats the term, such as a breakdown in a system it depends on or a connected system it interacts with.
+- **Tertiary failure:** *(used when it applies)* when the term is violated at the tertiary layer — for example when a proxy or metric is treated as enough on its own, or when known divergence is ignored or left uncorrected.
 
-Not every definition lists all three failure tiers. Some terms declare a primary failure only; others add secondary or tertiary failures when the term needs tier-aligned breach conditions.
+Not every definition lists all three failure layers. Some terms declare a primary failure only; others add secondary or tertiary failures when the term needs layer-aligned breach conditions.
 
-Across all tiers, the C part must:
+Across all layers, the C part must:
 
 - state outcomes that can be observed and enforced;
 - state when the definition is met or violated;

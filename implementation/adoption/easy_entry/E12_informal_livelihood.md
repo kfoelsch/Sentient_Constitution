@@ -42,7 +42,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 See: [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 **Poverty is not a lawful gate on survival.**
-- **Today:** Being poor is treated as proof you can be priced out of water, shelter, or a clinic. “Unbanked” is used as a lesser tier.
+- **Today:** Being poor is treated as proof you can be priced out of water, shelter, or a clinic. “Unbanked” is used as a lesser level.
 - **With this Constitution:** How poor or rich you are, what you own, or your social standing cannot be used to close the Rights Floor minimums.
 
 See: [Protected Characteristics](../../../core_05.055_band_participation.md#protected-characteristics); [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival).

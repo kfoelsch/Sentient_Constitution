@@ -56,7 +56,7 @@ Chapter Five, Continuity aim, is the constitutional owner of the **Continuity** 
     - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility);
     - [Dependency](core_05.040_band_continuity.md#dependency); and
     - [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support).
-  - **Out of scope:** [Indigenous Continuity](core_05.040_band_continuity.md#indigenous-continuity) unless the text expressly brings it in; the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
+  - **Out of scope:** [Indigenous Continuity](core_05.040_band_continuity.md#indigenous-continuity) unless the text expressly brings it in; the leaf-definition details, measurement layers, and implementation mechanics owned by band files and CJS.
 <a id="continuity-aim-constitutional-m"></a>
 <a id="continuity-aim-constitutional-a"></a>
 - **How to measure and assess**
@@ -119,7 +119,7 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Continuity measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
+- Downstream: Continuity measurement family — link-only rollup; per-term layers live on leaf definitions linked in the table below.
 - Read with: [CS-6.335 — Resource allocation and funding stewardship](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
 
 </details>

@@ -156,7 +156,7 @@ Foundational constitutional choice equality floor
 - **What must hold**
   - **Primary failure:** Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
 
-<a id="two-tier-governance-layer-assignment"></a>
+<a id="governance-layer-assignment"></a>
 Governance-layer assignment (Constitutional Contract Layer vs Stakeholder System Participation)
 
 *In plain terms: participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of…*
@@ -164,12 +164,12 @@ Governance-layer assignment (Constitutional Contract Layer vs Stakeholder System
 - **What it is**
   - **In scope:** Participation rules must distinguish **Foundational Constitutional Choice** in the **Constitutional Contract Layer** from **Stakeholder System Participation** decisions within already-authorized **Governance** structures, rules, allocation of authority, and processes for a specified system, institution, or bounded decision domain.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in assigning the Constitutional Contract Layer versus Stakeholder System Participation.
-<a id="two-tier-governance-layer-assignment-a"></a>
+<a id="governance-layer-assignment-a"></a>
 - **How to measure and assess**
   - **Primary measure:** whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain
 
     **Primary assessment:** Evaluation must verify whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain.
-<a id="two-tier-governance-layer-assignment-c"></a>
+<a id="governance-layer-assignment-c"></a>
 - **What must hold**
   - **Primary failure:** Treating foundational authorization as ordinary Stakeholder System Participation, or treating an internal stakeholder decision as if it could alter the Constitutional Contract Layer without satisfying that layer.
 

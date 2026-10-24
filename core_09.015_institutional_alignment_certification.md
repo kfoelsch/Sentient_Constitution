@@ -124,7 +124,7 @@ Institutional alignment certification is an independent check. It is not permiss
 
 - Upstream:
   - [Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) and
-  - [§2.1 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#21-how-system-class-scales-every-evaluation);
+  - [§2.2 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation);
   - [Part A §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3);
   - [Chapter Seven §3 What System and Institutional Charters Must State](core_07.000_charters.md#3-what-system-and-institutional-charters-must-state) (7.000 §3) and
   - [§7 Amendment and Review](core_07.000_charters.md#7-amendment-review-and-scope-misalignment);
@@ -146,7 +146,7 @@ This section is **Phase I, Frame** and **Phase II, Evaluate** for an Institution
 
 #### 12.1 Institution class
 
-**Institution class** is decided by what the Institution actually decides, holds, and controls, and not by its label, legal form, or the list in its Institutional Charter. The class governs the depth of the evaluation and the clocks, as [Part A §2.1 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#21-how-system-class-scales-every-evaluation) does for a System.
+**Institution class** is decided by what the Institution actually decides, holds, and controls, and not by its label, legal form, or the list in its Institutional Charter. The class governs the depth of the evaluation and the clocks, as [Part A §2.2 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation) does for a System.
 
 1. **Portfolio rule:** An Institution takes the highest class of any System it operates, stewards, or materially controls ([Chapter Seven §1 When System and Institutional Charters Are Required](core_07.000_charters.md#1-when-system-and-institutional-charters-are-required)). The Systems are found from observed operation. A System missing from the Institutional Charter still counts.
 2. **Own impact:** An Institution that runs no such System is classified by its own material impact and dependency. The class definitions of **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*) are applied to the Institution's own decisions and holdings, using these factors:
@@ -184,7 +184,7 @@ Where an Institution's own conduct implicates a Rights Floor or a domain covered
 
 #### 12.4 Scaling by class
 
-The institution class scales the depth of evidence, the independence of the review, the default certification interval, and the disclosure on the record, in the way [Part A §2.1 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#21-how-system-class-scales-every-evaluation) does. The certification intervals are in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#review-cadence) (*Review cadence*); the adopting document may set shorter intervals and sets the number of clean provisional recertifications.
+The institution class scales the depth of evidence, the independence of the review, the default certification interval, and the disclosure on the record, in the way [Part A §2.2 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation) does. The certification intervals are in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#review-cadence) (*Review cadence*); the adopting document may set shorter intervals and sets the number of clean provisional recertifications.
 
 - **Class A, B, and C:** all seven items in [§12.2 Institutional evaluation, always](#122-institutional-evaluation-always), with evidence and independence in proportion to the class.
 - **Class L:** the same seven items, simplified, with simpler records and a lower default cadence where [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) allows. The core of a Class L pass is the Institutional Charter against practice, the Role Map, the formation check statement, and the currency of the cited System certifications. No item may be omitted, and an item with nothing to find is stated in a line.

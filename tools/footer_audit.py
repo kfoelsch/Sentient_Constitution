@@ -82,6 +82,7 @@ CS_CHAIN = tuple(
         "cs_06.310_data_classifications.md",
         "cs_09.305_system_classification_machinery.md",
         "cs_09.310_system_impact_classifications.md",
+        "cs_09.315_system_alignment_certification_run_sheet.md",
         "cs_14.305_critical_system_stewardship.md",
         "cs_06.345_design_testing_verification_deployment.md",
         "cs_06.340_system_requirements.md",

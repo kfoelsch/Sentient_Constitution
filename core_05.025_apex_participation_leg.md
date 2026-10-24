@@ -67,7 +67,7 @@ Chapter Five, Participation Tetrad leg, is the constitutional owner of the **Par
     - [Accessibility](core_05.055_band_participation.md#accessibility);
     - [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness); and
     - [Contestability](core_05.035_band_accountability.md#contestability).
-  - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
+  - **Out of scope:** the leaf-definition details, measurement layers, and implementation mechanics owned by leaf entries and CJS.
 <a id="participation-constitutional-m"></a>
 <a id="participation-constitutional-a"></a>
 - **How to measure and assess**
@@ -123,7 +123,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see
+- Downstream: Participation measurement family — link-only rollup; per-term layers live on leaf definitions — see
   - [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness),
   - [Protected Characteristic Proxying and Disparate Impact](core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
   - [Accessibility](core_05.055_band_participation.md#accessibility),

@@ -22,7 +22,7 @@ Order follows the Makefile `regression` list.
 |-------------|--------|------|------------|-------|
 | `reference-audit` | **L** | `tools/reference_audit.py` | REF-ARTICLES | Chapter Six article map from part-file headings; every `Article …` cite must resolve |
 | `measurement-anchor-audit` | **L** | `tools/measurement_anchor_audit.py` | MEAS-ANCHOR | Fails on links to removed Preamble `#measuring-*` category anchors |
-| `ch5-measurement-tier-audit` | S | `tools/ch5_measurement_tier_audit.py` | MEAS-DEF-01 | Enforces `*Measurements:*` and tier-aligned E/C for approved seeds |
+| `ch5-measurement-tier-audit` | S | `tools/ch5_measurement_tier_audit.py` | MEAS-DEF-01 | Enforces `*Measurements:*` and layer-aligned E/C for approved seeds |
 | `ch5-measurement-coverage-audit` | **L** | `tools/ch5_measurement_coverage_audit.py` | MEAS-COVERAGE | Seed ↔ hierarchy sync and bidirectional Ch00 §3 owner links |
 | `doc-architecture-section-audit` | C | `tools/architecture/doc_architecture_section_audit.py` | — | No letter-suffixed `##` sections in doc_architecture |
 | `support-doc-pointer-audit` | **L** | `tools/support_doc_pointer_audit.py` | SUPPORT-DOC-POINTER-01 | Binding corpus must not cite `doc_architecture` for meaning/routing (non-binding classifications and reading-chain footers allowed) |

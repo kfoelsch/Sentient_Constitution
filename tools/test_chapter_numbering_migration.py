@@ -21,7 +21,7 @@ def main() -> int:
     # The crosswalk names corpus files by their dotted destination names (the
     # "dot chapter numbers" fix), core files by their original names; accept both.
     by_source.update({row["destination_file"]: row for row in rows})
-    assert len(rows) == 116
+    assert len(rows) == 117
     assert len({row["machine_id"] for row in rows}) == len(rows)
     assert len({row["destination_file"] for row in rows}) == len(rows)
     assert len({row["original_file"] for row in rows}) == len(rows)

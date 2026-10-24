@@ -138,7 +138,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - Canonical owner: [Chapter Nine Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*the go-live gate: what must hold before a system goes live*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
-- Downstream: [Chapter Nine Part A §2.2 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#22-pilot-certification) (9.000 §2.2) (*a pilot is a go-live*).
+- Downstream: [Chapter Nine Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification) (9.000 §2.3) (*a pilot is a go-live*).
 - Read with:
   - [Pilot](core_05.040_band_continuity.md#pilot),
   - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification),
@@ -308,7 +308,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part A §2.2 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#22-pilot-certification) (9.000 §2.2) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Nine Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*the go-live gate*).
+- Canonical owner: [Chapter Nine Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification) (9.000 §2.3) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Nine Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*the go-live gate*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*progressive deployment*).
 - Read with:
@@ -331,10 +331,10 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
     - full deployment, which needs its own certification and may draw on the pilot's record; or
-    - the sequencing rules in [**CS-6.350**](corpus_systems/cs_06.350_transition_constitution_migration_governance.md) (*Transition constitution and migration governance*) and [**CI-6.275**](corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*Transitional governance and institutional evolution*), under which lower-tier systems or institutions may precede higher-tier ones to lower risk — a system sequenced that way which then goes live is a pilot under this entry only where it meets the meaning above —
+    - the sequencing rules in [**CS-6.350**](corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-transition-constitution-and-migration-governance) (*Transition constitution and migration governance*) and [**CI-6.275**](corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md#ci-6275-transitional-governance-and-institutional-evolution) (*Transitional governance and institutional evolution*), under which lower-exposure systems or institutions may precede higher-exposure ones to lower risk — a system sequenced that way which then goes live is a pilot under this entry only where it meets the meaning above —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Go-Live](core_05.040_band_continuity.md#go-live); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
-  - How deeply a pilot is evaluated, and the expectation that a system at any class runs a pilot before full deployment or records why it did not, are stated in [Chapter Nine Part A §2.2](core_09.000_system_alignment_certification_evaluation.md#22-pilot-certification); this entry is the Chapter Five meaning only.
+  - How deeply a pilot is evaluated, and the expectation that a system at any class runs a pilot before full deployment or records why it did not, are stated in [Chapter Nine Part A §2.3](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification); this entry is the Chapter Five meaning only.
 <a id="pilot-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -542,7 +542,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - **Joint invocation:** wherever certification, conditional certification, validation, recertification, continued reliance, deployment, or material release from conditions is at issue; wherever a material-impact [System Classification Record](core_05.040_band_continuity.md#system-classification-record) is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*); and wherever a material-impact [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*).
 - **Scope:** where joint invocation is met, the Continuity home for the Chapter Nine gate that checks whether a [System](core_05.040_band_continuity.md#system) is constitutionally aligned before sentients rely on it at scale, including the CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) [System Classification Record](core_05.040_band_continuity.md#system-classification-record) and the CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI** (*Audit, Transparency, and Independent Verification*) and [Auditability](core_05.050_band_oversight.md#auditability) remain).
-- **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in [corpus_systems.md](corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling**; System Data Types Record contents, disclosure, challenge, and retyping live in **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**; these entries provide the Chapter Five meanings only.
+- **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in [corpus_systems.md](corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**; System Data Types Record contents, disclosure, challenge, and retyping live in **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**; these entries provide the Chapter Five meanings only.
 - **Cluster boundary:** [Dependency and cross-system support](core_05.040_band_continuity.md#dependency-and-cross-system-support) remains outside this group — certification may check **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) duties when shared-infrastructure reliance is in scope, but it is not a member of that **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) pair.
 
 **Topic group members.** This group comprises:
@@ -586,7 +586,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [System Boundaries](core_05.040_band_continuity.md#system-boundaries),
   - [System Charter](core_05.040_band_continuity.md#system-charter),
   - [System Capture](core_05.040_band_continuity.md#system-capture), and
-  - [corpus_systems.md](corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling**, and
+  - [corpus_systems.md](corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, and
   - [Recertification](core_05.040_band_continuity.md#recertification).
 
 </details>
@@ -780,7 +780,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical content owner: [corpus_systems.md](corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
+- Canonical content owner: [corpus_systems.md](corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
 - Canonical incorporation owner: [Chapter Nine §2 — System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) and [Part B §8.1](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
@@ -856,7 +856,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical content owner: [corpus_systems.md](corpus_systems.md) **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
+- Canonical content owner: [corpus_systems.md](corpus_systems.md) **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
 - Canonical incorporation owner: [Chapter Nine §3.4 — Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) and [Part B §8.1](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
@@ -5419,7 +5419,7 @@ See **Anti-Segmentation Principle**.
   - [Proportionality](core_05.035_band_accountability.md#proportionality),
   - [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary),
   - [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary), and **
-  - [corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** where Type H, Type I, Type N, Type S, Type Y, or comparable handling is implicated.
+  - [corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** where Type H, Type I, Type N, Type S, Type Y, or comparable handling is implicated.
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_05.050_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Participation** and **Oversight**.
@@ -5547,7 +5547,7 @@ See **Anti-Segmentation Principle**.
 
     **Secondary assessment:** When evaluating the primary trace, evaluate whether:
     - the practice reconstructs or pressures protected states even if it avoids direct recording; and
-    - Type N is implicated — if so, apply **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**.
+    - Type N is implicated — if so, apply **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**.
 <a id="protected-internal-state-boundary-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** obtaining or exploiting protected internal states without the required narrow predicate, safeguards, and contestability, by means including:
@@ -5574,7 +5574,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:** Check whether identity-linked records, credentials, or attribution chains are used to infer, score, or reconstruct protected internal states, and whether any such linkage rests on explicit consent or a justified override under **CJS-5.125 §12** (*burden-of-justification and constraint terms*).
   - **Secondary measure:** [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary), [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational), and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — co-measures that can defeat the restricted-linkage ban even when nominal domain separation exists.
 
-    **Secondary assessment:** When evaluating the primary trace, apply **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** domain-separation mechanics and ask whether Type H/I → Type N linkage is blocked in practice.
+    **Secondary assessment:** When evaluating the primary trace, apply **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** domain-separation mechanics and ask whether Type H/I → Type N linkage is blocked in practice.
 <a id="identity-data-protection-c"></a>
 - **What must hold**
   - **Primary failure:** using identity or attribution data to expose, infer, or reconstruct Type N internal states without explicit consent or a justified override under **CJS-5.125 §12** (*burden-of-justification and constraint terms*).

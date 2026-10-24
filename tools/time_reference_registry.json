@@ -32,8 +32,8 @@
     "(?i:by class)",
     "(?i:tier window)",
     "(?i:tier outer bound)",
-    "CUL-[1-4]",
-    "NUL-[1-3]",
+    "CU-[1-4]",
+    "NU-[1-3]",
     "Emergency level",
     "CSS-[ABC]\\b"
   ],

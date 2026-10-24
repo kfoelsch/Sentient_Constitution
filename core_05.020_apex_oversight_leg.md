@@ -63,7 +63,7 @@ Chapter Five, Oversight Tetrad leg, is the constitutional owner of the **Oversig
     - [Transparency](core_05.050_band_oversight.md#transparency); and
     - [Auditability](core_05.050_band_oversight.md#auditability).
   - **Out of scope:**
-    - leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS; or
+    - leaf-definition details, measurement layers, and implementation mechanics owned by leaf entries and CJS; or
     - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) as one high-stakes audit process among others —
     those sit under their own homes; this leg is not the leaf stack, and SAC is not the sole content of oversight.
 <a id="oversight-constitutional-m"></a>
@@ -114,7 +114,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Oversight measurement family — link-only rollup; per-term tiers live on leaf definitions — see
+- Downstream: Oversight measurement family — link-only rollup; per-term layers live on leaf definitions — see
   - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint),
   - [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity),
   - [Transparency](core_05.050_band_oversight.md#transparency),

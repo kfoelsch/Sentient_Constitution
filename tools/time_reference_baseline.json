@@ -167,6 +167,10 @@
       "snippet": "After 50 years, a contribution remains in the historical record but supplies no current clearance weight."
     },
     {
+      "key": "core_13.000_forum.md::duration::0c289b6c761a",
+      "snippet": "It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§6 Timely resolution, materiality tiers, a"
+    },
+    {
       "key": "core_13.000_forum.md::duration::3aa98e88dc91",
       "snippet": "Tier L: at most 60 days (two months);"
     },
@@ -203,8 +207,8 @@
       "snippet": "Independent review of the measure must begin sooner, inside the prompt-review window of 24 hours (see Prompt review below)."
     },
     {
-      "key": "core_13.000_forum.md::duration::b6754ca0e511",
-      "snippet": "At the Emergency level (see Time-scale levels above) the window is 3 days, not 7."
+      "key": "core_13.000_forum.md::duration::aec435434051",
+      "snippet": "At the Emergency setting (see Time-scale settings above) the window is 3 days, not 7."
     },
     {
       "key": "core_13.000_forum.md::duration::d97f407f08fd",
@@ -239,10 +243,6 @@
       "snippet": "Incomplete lodging: The date of first lodging stands if the missing items are supplied within the time the registrar states, which is never "
     },
     {
-      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::04aa218800b2",
-      "snippet": "At the Emergency level it stays at the Tier A figure of 24 hours."
-    },
-    {
       "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::1f24f5b20505",
       "snippet": "In Tiers C, L, and P, intake, Question 2, and remedy commencement take 4, 8, and 12 days, and Question 1 and Question 3 each take half of th"
     },
@@ -255,12 +255,20 @@
       "snippet": "They must finish within 3 calendar days of the start of the measure or of the deferral, whichever is earlier."
     },
     {
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::73e747084a39",
+      "snippet": "The restricted information authority (CF-13.415 §8 (*Restricted information authority*)) answers an access question in an Emergency-setting "
+    },
+    {
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::895a8e06d4f8",
+      "snippet": "At the Emergency setting the default restore-challenge window is 3 calendar days."
+    },
+    {
       "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::ad88a551471f",
       "snippet": "Independent review of the measure must begin sooner, inside the prompt-review window of 24 hours (see Prompt review below)."
     },
     {
-      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::ce476753051e",
-      "snippet": "The restricted information authority (CF-13.415 §8 (*Restricted information authority*)) answers an access question in an Emergency-level ma"
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::b590baa8728b",
+      "snippet": "At the Emergency setting it stays at the Tier A figure of 24 hours."
     },
     {
       "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::vague::94477bea6beb",

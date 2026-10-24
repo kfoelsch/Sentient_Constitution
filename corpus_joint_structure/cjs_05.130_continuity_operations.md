@@ -48,7 +48,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00.000_p
 - Read with:
   - **CJS-5.130 §16** (*Continuity: dependency integrity and disclosure terms*);
   - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*);
-  - **CJS-5.130 §17** (*Continuity: interoperability, portability, and exit-integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
+  - **CJS-5.130 §17** (*Continuity: interoperability, portability, and exit-integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*);
   - **CI-6.215** (*Resource stewardship and incentive integrity*).
@@ -156,10 +156,10 @@ Dependency identification and disclosure content
 <a id="domain-and-sector-classification-mapping"></a>
 Domain and sector classification mapping
 
-*In plain terms: where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*)…*
+*In plain terms: where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*)…*
 
 - **What it is**
-  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) classes and **CS-14.305 — Critical system stewardship** stewardship tiers using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or tiers, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
+  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes and **CS-14.305 — Critical system stewardship** stewardship levels using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or stewardship levels, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in domain and sector classification mapping.
 <a id="domain-and-sector-classification-mapping-a"></a>
 - **How to measure and assess**
@@ -270,7 +270,7 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md) (*Information types and handling*)
-- Read with: [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*)
+- Read with: [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*)
 - Read with: [**CS-14.305**](../corpus_systems/cs_14.305_critical_system_stewardship.md) (*Critical system stewardship*)
 - Read with: **Article XXI** (*Interoperability, Portability, and Exit Integrity*)
 - Read with: **Article II-E** (*Data Handling and Network Dependency*)
@@ -373,10 +373,10 @@ Collection-time exportability and continuity-critical data integrity
 <a id="commitment-renewal-and-charge-exit-integrity"></a>
 Commitment, renewal, and charge-exit integrity
 
-*In plain terms: paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid tiers, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing,…*
+*In plain terms: paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid plans, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing,…*
 
 - **What it is**
-  - **In scope:** Paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid tiers, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing, renewal, bundled entitlements, and exit consequences before commitment, and must honor a valid cancellation, downgrade, or withdrawal instruction through the published self-service pathway.
+  - **In scope:** Paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid plans, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing, renewal, bundled entitlements, and exit consequences before commitment, and must honor a valid cancellation, downgrade, or withdrawal instruction through the published self-service pathway.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in commitment, renewal, and charge-exit integrity.
 <a id="commitment-renewal-and-charge-exit-integrity-a"></a>
 - **How to measure and assess**
@@ -615,15 +615,15 @@ Right-to-exit pathway integrity
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-8.105 §11** (*Classification alignment for supervised scope*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
-  - **CJS-5.110 §4** (*Oversight: tiered transparency and audit-access terms*);
+  - **CJS-8.105 §11** (*Classification alignment for supervised scope*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
+  - **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*);
   - **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*);
   - **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and
   - **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*);
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*).
 - Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
-- Read with: **CJS-5.110 §4 — Tiered Transparency and Audit Access**
+- Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
@@ -709,16 +709,16 @@ Anti-surveillance and anti-coercion accumulation limits
 <a id="classification-and-information-type-alignment"></a>
 Classification and information-type alignment
 
-*In plain terms: if accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** data type or becomes more sensitive in practice, stricter protections apply.*
+*In plain terms: if accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** data type or becomes more sensitive in practice, stricter protections apply.*
 
 - **What it is**
-  - **In scope:** If accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** data type or becomes more sensitive in practice, stricter protections apply.
+  - **In scope:** If accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** data type or becomes more sensitive in practice, stricter protections apply.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in classification and information-type alignment.
 <a id="classification-and-information-type-alignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** alignment with **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** data-type duties and **CJS-8.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap
+  - **Primary measure:** alignment with **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** data-type duties and **CJS-8.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap
 
-    **Primary assessment:** Reviewers must verify alignment with **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** data-type duties and **CJS-8.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap.
+    **Primary assessment:** Reviewers must verify alignment with **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** data-type duties and **CJS-8.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap.
 <a id="classification-and-information-type-alignment-c"></a>
 - **What must hold**
   - **Primary failure:** Continuing to use lower-type or lower-class handling after sensitivity has increased.
@@ -1086,14 +1086,14 @@ Signaling integrity and anti-silent-failure controls
   - **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and
   - **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*);
   - **CJS-5.130 §16** (*Continuity: dependency integrity and disclosure terms*);
-  - **CJS-5.130 §19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
-  - **CJS-5.110 §4** (*Oversight: tiered transparency and audit-access terms*);
+  - **CJS-5.130 §19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
+  - **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*);
   - **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*).
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.130 §19 — Graceful Degradation and Failure Mode Integrity**
 - Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
-- Read with: **CJS-5.110 §4 — Tiered Transparency and Audit Access**
+- Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*System lifecycle*)
 - Read with: **Article XVII** (*System Lifecycle, Environments, and Reversibility*) and **Article XIII-F** (*Resilience and Self-Healing Baseline*)
@@ -1218,7 +1218,7 @@ Rollback and containment capability
   - **CJS-5.130 §21** (*Continuity: adversarial robustness and abuse-resistance terms*);
   - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*);
   - **CJS-5.130 §16** (*Continuity: dependency integrity and disclosure terms*);
-  - **CJS-5.130 §19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Oversight: auditability and reconstructability terms (annex)*);
+  - **CJS-5.130 §19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*);
   - **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*).
 - Read with: **CJS-5.130 §21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**

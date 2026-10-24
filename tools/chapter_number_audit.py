@@ -121,8 +121,8 @@ def run(root: Path, fail: bool) -> int:
                 tail = body[link.end():]
                 if not tail.lstrip().startswith(expected):
                     problems.append(f"{source_rel}: Trace link to {rel_target} must carry {expected}")
-    if len(rows) != 116:
-        problems.append(f"registry has {len(rows)} rows; expected 116 (42 core + 74 corpus)")
+    if len(rows) != 117:
+        problems.append(f"registry has {len(rows)} rows; expected 117 (42 core + 75 corpus)")
     print(f"CHAPTER-NUMBER-01: {len(rows)} registry rows; {len(problems)} findings")
     for problem in problems:
         print(f"  {problem}")

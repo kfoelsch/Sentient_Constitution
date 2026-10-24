@@ -197,6 +197,10 @@
       "prefer": "formation check, or the named part of it (standing check, authenticity check, staff safeguards check); verb uses (the Chartered Party checks and records) and qualified compounds (formation check, standing check, authenticity check, staff safeguards check) stay; the check window clock is allowed; enforced by avoid-bare-check"
     },
     {
+      "avoid": "level / levels (bare noun in the files that own a leveled scale: the level, that level, those levels)",
+      "prefer": "the named scale: protection level (Treatment of Life by Status), stewardship level (CSS-A to CSS-C), access level or disclosure level (transparency and audit access), severity level, evidence level, verification level; numbered forms (Level 1 to Level 4) and 'level of ...' stay; 'tier' names only the forum urgency tiers (Tier A/B/C/L/P); enforced by avoid-bare-level"
+    },
+    {
       "avoid": "re-check / re-checks / recheck / rechecks (bare noun in Chapter Seven: a re-check, the re-check, what triggers a re-check)",
       "prefer": "formation re-check; the verb forms (re-checked, re-checking) stay; enforced by avoid-bare-recheck"
     },

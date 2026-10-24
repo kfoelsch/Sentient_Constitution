@@ -37,7 +37,7 @@ School, a clinic, a job, or who you may see is being decided for you. You can ex
 
 If a body that actually runs the systems in your life adopted this Constitution:
 
-**Still growing is not a lesser tier.**
+**Still growing is not a lesser level.**
 - **Today:** Until a birthday, dignity, body, and voice are treated as provisional. The reason given is that you are not old enough, or that adults know better.
 - **With this Constitution:** You hold the full Chapter Six Rights Floor while your capability is still emerging.
 

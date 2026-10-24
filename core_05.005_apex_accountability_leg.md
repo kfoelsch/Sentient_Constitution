@@ -56,7 +56,7 @@ Chapter Five, Accountability Tetrad leg, is the constitutional owner of the **Ac
   - Hold actors answerable — the Tetrad leg this entry names.
   - **In scope:** Material decisions, failures, and behaviors can be attributed to identifiable actors, roles, or system components, who can be answered for through review, [redress](core_05.035_band_accountability.md#redress-and-remediation), or correction proportional to impact.
   - **Depends on:** [Contestability](core_05.035_band_accountability.md#contestability), [Auditability](core_05.050_band_oversight.md#auditability), [Attributable Action](core_05.035_band_accountability.md#attributable-action), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), and [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
-  - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
+  - **Out of scope:** the leaf-definition details, measurement layers, and implementation mechanics owned by leaf entries and CJS.
 <a id="accountability-m"></a>
 <a id="accountability-a"></a>
 - **How to measure and assess**
@@ -122,7 +122,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 These measures ask whether reward structures, market power, and answerability keep the **accountability** leg of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) real in practice — not merely present on paper.
 
-Operative measurement tiers live on Chapter Five definition homes:
+Operative measurement layers live on Chapter Five definition homes:
 
 - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment)
 - [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence)

@@ -131,7 +131,7 @@ Recognized mechanism families include:
   - scope;
   - renewal or reauthorization cadence; and
   - material limits on delegated power.
-  Auditability must be proportionate to **[corpus_systems.md](corpus_systems.md)**, the classification under CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling, and to **material impact** under Chapter Five ([*Material*](core_05.050_band_oversight.md#material), [*Dependency*](core_05.040_band_continuity.md#dependency), [*Stakeholder*](core_05.055_band_participation.md#stakeholder)).
+  Auditability must be proportionate to **[corpus_systems.md](corpus_systems.md)**, the classification under CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications, and to **material impact** under Chapter Five ([*Material*](core_05.050_band_oversight.md#material), [*Dependency*](core_05.040_band_continuity.md#dependency), [*Stakeholder*](core_05.055_band_participation.md#stakeholder)).
 - **Non-Usurpation:** Governing bodies may not treat silence, usage alone, or **marketing alignment** as substitute authorization. Deliberate adoption remains governed by [**Chapter Seventeen §10** (*Ratification and Adoption*)](core_17.000_amendment_ratification.md#10-ratification-and-adoption).
 
 **Contestation, correction, and pluralism**
@@ -235,7 +235,7 @@ Recognized mechanism families include:
   - material misalignment or capture of authorization;
   - denial of the peaceful-succession pathway; or
   - **Rights-Floor** threat addressed through **Chapter Six** and adopted implementation procedure.
-  Escalating tiers keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](core_05.055_band_participation.md#substantive-fairness), [**Necessity**](core_05.035_band_accountability.md#necessity), and [**Proportionality**](core_05.035_band_accountability.md#proportionality) under **Chapter One** and **Chapters Two through Five**.
+  Escalating levels keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](core_05.055_band_participation.md#substantive-fairness), [**Necessity**](core_05.035_band_accountability.md#necessity), and [**Proportionality**](core_05.035_band_accountability.md#proportionality) under **Chapter One** and **Chapters Two through Five**.
 - **Procedural fairness:** Recall-class procedures must satisfy applicable **Chapter Six** requirements (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) family, including **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies). They must not substitute for individualized **removal-for-cause** or discipline channels where **corpus_institutions.md** **CI-14.205** (*Appointment, competency, rotation, and removal*) or incorporated procedure is the appropriate venue for the underlying conduct.
 - **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and **[corpus_systems.md](corpus_systems.md)** classification so recall-class mechanisms cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XX-A** (*Justice Objective and Scope*).
 - **High-impact alignment:** Recall-class votes that would change **Foundational Constitutional Choice** outcomes or the legitimacy mechanism itself remain subject to the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gate and **§2** (*Ethical Culture and Integrity (Federated Scale)*) requirements where applicable.
@@ -296,7 +296,7 @@ This constitution does not adopt **shareholder primacy** or any single financial
 
 Those commitments include the **Foundational Objective: Wellbeing** (Chapter One, section 3 — Foundational Objective: Wellbeing), **Safety** and **Truth** constraints (Chapter One, section 4 — Non-Negotiable Constraints: Safety and Truth), and Rights Floor protections in **Chapter Six**.
 
-That alignment applies across time, classification tiers, and federated boundaries, **within the scope of authorized rule-making** under section 1 of this chapter.
+That alignment applies across time, classification levels, and federated boundaries, **within the scope of authorized rule-making** under section 1 of this chapter.
 
 Stewardship requirements for this section are stated in **Chapter Five** under the following titles; they are binding here for stewards within that authorized scope. **Strategic Stewardship Obligation** and **Stewardship Defect** are read together through the [Stewardship, Governance Discipline, and Shared-System Capacity](core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity) compound cluster.
 

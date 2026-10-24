@@ -68,6 +68,7 @@
 | CS-6.310, Part B — Data classifications (§9) | [cs_06.310_data_classifications.md](corpus_systems/cs_06.310_data_classifications.md) |
 | CS-9.305, Part A — Classification machinery (§1–§7) | [cs_09.305_system_classification_machinery.md](corpus_systems/cs_09.305_system_classification_machinery.md) |
 | CS-9.310, Part B — System impact classifications (§8–§13) | [cs_09.310_system_impact_classifications.md](corpus_systems/cs_09.310_system_impact_classifications.md) |
+| CS-9.315 — System alignment certification run sheet | [cs_09.315_system_alignment_certification_run_sheet.md](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md) |
 | CS-14.305 — Critical system stewardship | [cs_14.305_critical_system_stewardship.md](corpus_systems/cs_14.305_critical_system_stewardship.md) |
 
 ### Engineering protocols
