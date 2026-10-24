@@ -796,7 +796,7 @@ The statement is published once and then kept current:
 - **Publication:** The statement is published with the System Charter or Institutional Charter ([§1.5 When a System Charter or Institutional Charter is due](#15-when-a-system-charter-or-institutional-charter-is-due) and [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)).
 - **New holder:** A new holder of a covered office is checked before taking the seat.
 - **Emergency substitution:** The formation check is completed inside the short window that **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) sets, and the substitute takes no materially binding act alone before it is done.
-- **Formation re-check:** The statement is re-checked at each periodic review ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)) and on a trigger:
+- **Formation re-check:** The statement is re-checked at each scheduled review ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)) and on a trigger:
   - a verified finding about a holder;
   - a change in who controls a covered office;
   - a change to a reward structure the statement relied on;

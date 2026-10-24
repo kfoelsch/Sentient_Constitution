@@ -1796,6 +1796,9 @@ This Article sets out the floors for non-imposition and consent in association:
 - **Informed consent in association:** All cooperative ventures — economic, social, or creative — must be entered into through informed and voluntary consent for the specific association.
   - The terms of conjoined efforts must be transparent and auditable.
   - Participation must remain revocable without unjustified penalty where **Feasibility** permits under **Chapter Five**.
+- **No surrender of rights through general terms:** No system or institution may require a sentient to give up or waive a right as part of its general terms of service, user agreement, or similar standard terms, or as the price of using it.
+  - Accepting those terms is not consent to the surrender. Licensing or sharing something of one's own needs its own separate, informed consent under **Chapter Five** (*Consent*), not bundled with access.
+  - A term that purports to waive a Rights-Floor protection is not binding under [Chapter Sixteen §4.2](core_16.000_expansion_supremacy.md#42-preserved-internal-review-pathways) (*Preserved Internal Review Pathways*) and may be anti-constitutional misconduct under [Chapter Twelve §5.2](core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) (*Rights-Floor waivers and unconstitutional contract terms*).
 
 #### Article XI-G: Collective Harm Boundary and Enforcement Interface
 <details>

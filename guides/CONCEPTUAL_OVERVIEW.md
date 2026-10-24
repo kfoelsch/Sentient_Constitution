@@ -631,7 +631,7 @@ flowchart TB
 - Type O is the public oversight baseline. It may be a lawful public substitute drawn from Type G, Type E, or another restricted source; that does not change the underlying source type.
 - Type Y and Type W cover works sentients create. A work is Type Y while private or shared and Type W once its creator makes it public. Either way the creator stays in control, and a public work is still deleted on the creator's request. Public availability does not make a work Type O.
 - Type U and Type T cover works under a commercial grant. Type U is a licence to one named party that cannot be passed on and returns to the creator when it ends. Type T is a sale of the commercial rights that the buyer may resell, limited to the term in Article XVIII-E or XVIII-F. Under both, the creator keeps credit, control of their identity, likeness, and inner life, and the choice about training use. Only works can be licensed or sold this way, never personal records or identity data.
-- The record is periodically re-evaluated, audited, challengeable, and updated. Handling scales with the most restrictive applicable type and with system class.
+- The record is re-evaluated on schedule, audited, challengeable, and updated. Handling scales with the most restrictive applicable type and with system class.
 
 ### System classifications: how much governance a system needs
 

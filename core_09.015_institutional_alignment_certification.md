@@ -295,6 +295,8 @@ The record must identify, at minimum:
 
 A System Certification Record, or an Institution's own report or attestation, offered in place of this record does not satisfy this section.
 
+**Type O.** The completed Institutional Certification Record is **Type O** certification data. It is published at public-baseline fidelity, with lawful substitutes, under [CS-6.310 Part B §9.3 Type O](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data).
+
 <a id="135-remediation-readiness-denial-and-revocation-for-an-institution"></a>
 
 #### 13.5 Remediation readiness, denial, and revocation for an Institution
@@ -368,7 +370,7 @@ A first Institutional Certification Record is provisional. Full certification is
 An Institutional Certification Record is recertified on the cadence set for the Institution's class in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#review-cadence) (*Review cadence*), and the Institution is audited at the midpoint of that cadence. Review also reopens when any of the following is material:
 
 - **General triggers,** as [Part B §9 Recertification and Reopening](core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) lists them, applied to the Institution: material change in its activity or context, concealed behavior, dependency growth, new risk, incident history, stakeholder evidence, a credible challenge, and misclassification or overdue reassessment of its class;
-- **Institutional Charter events:** an Institutional Charter amendment, a mismatch between the Institutional Charter and observed operation, operation materially outside chartered scope, or an overdue periodic Institutional Charter review;
+- **Institutional Charter events:** an Institutional Charter amendment, a mismatch between the Institutional Charter and observed operation, operation materially outside chartered scope, or an overdue scheduled Institutional Charter review;
 - **Portfolio change:** a System added, retired, merged, split, or transferred to or from the Institution, or a change in who controls one;
 - **Change of ownership, control, or structure,** including any change that moves authority outside the line that was evaluated ([Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes));
 - **Reward and incentive change:** a material change to the Institution's pay, promotion, target, or reward structure;

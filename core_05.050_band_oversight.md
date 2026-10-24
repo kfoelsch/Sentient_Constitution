@@ -1225,7 +1225,8 @@ See **Anti-Segmentation Principle**.
     - dependency structure and what depends on it;
     - operational status and how it is running;
     - material risks, performance, and failures;
-    - how it is governed and material audit outcomes;
+    - how it is governed, including who holds material authority and answers for what, and the incentives and reward structures behind it;
+    - material audit outcomes;
     - stakeholder effects; and
     - how aligned it is with this Constitution.
   - **Class A/B/C Type O publications:** Where the **Type O** baseline applies for **Class A**, **Class B**, or **Class C**, that floor includes — at public-baseline fidelity, including lawful substitutes — publication or a usable public view of:
@@ -1233,6 +1234,7 @@ See **Anti-Segmentation Principle**.
     - the [System Classification Record](core_05.040_band_continuity.md#system-classification-record);
     - the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record); and
     - the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) produced by [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification), including material governance and audit outcomes required for baseline visibility.
+  - **Certification data, all classes:** The published content of every [System Certification Record](core_05.040_band_continuity.md#system-certification-record) and [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) is **Type O** for every system class, at public-baseline fidelity including lawful substitutes. This does not extend the full disclosure floor above to Class L or Class P systems.
   - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, and stakeholder effects may be satisfied through those records, [Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure) where systemic risk is in scope, and other lawful **Type O** summaries or substitutes — not by omitting the topics.
   - **Lawful substitutes:** Stay in scope where **Type G**, **Type E**, or other source records stay non-public, non-baseline, or otherwise restricted, including:
     - aggregation;

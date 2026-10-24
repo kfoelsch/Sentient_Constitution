@@ -493,7 +493,7 @@ That assessment must also check that each of the following kinds of material rol
 - governance roles; and
 - accountability roles.
 
-This is scaled to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**.
+This is scaled to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**. The class also sets the schedule on which it is checked again ([§2 System Class Evaluation](#2-system-class-evaluation)).
 
 To assess governance, incentives, and contestability, certification must apply the following:
 
@@ -518,6 +518,16 @@ For these facts, the forums for this system:
 - may not find the same institutional fact differently without saying why on the System Certification Record.
 
 A system's own governance, incentives, and contestability are still evaluated here. See [Part D §11.1 Relation to System Alignment Certification](core_09.015_institutional_alignment_certification.md#111-relation-to-system-alignment-certification).
+
+**Publication as Type O.** What this section establishes is certification data, and certification data is **Type O** for every system class under [CS-6.310 Part B §9.3 Type O](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data). It is not a private finding. That covers:
+
+- the oversight, accountability, participation, and timeliness assessment;
+- the assigned stewardship, governance, and accountability roles, and who holds material authority and answers for what; and
+- the Institutional facts relied on, including its governance, accountable offices, and reward structures.
+
+It is published through the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) at public-baseline fidelity, under the substitute and hold-back rules of the **[CS-6.305 Part A §7 Type O baseline](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)**. For **Class A**, **Class B**, and **Class C** systems it is also part of the [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and [§3.4.1 Type O Baseline Disclosure](#341-type-o-baseline-disclosure) verifies that it is actually published.
+
+For **Class L** and **Class P** systems the full Public Oversight Baseline Disclosure does not apply, but this certification data is still **Type O**. How much detail it carries follows the class's transparency duty under [CS-9.310 §8.6 Scaled-duties intensity](corpus_systems/cs_09.310_system_impact_classifications.md#86-scaled-duties-intensity). If a Class L or Class P system is reclassified to Class C or higher, the full baseline applies from reclassification.
 
 <a id="32-systemic-scope-and-risk-factors"></a>
 #### 3.2 Systemic Scope and Risk Factors
@@ -573,7 +583,7 @@ Certification may not treat any of the following as sufficient where foreseeable
 - local compliance; or
 - short-horizon efficiency.
 
-Short-horizon optimization is invalid where it foreseeably produces medium- or long-horizon violations of any of the following constraints under cumulative, delayed, or cross-system conditions:
+Chasing short-term results is not acceptable if it can reasonably be expected to break any of the following down the road, even when the damage builds up slowly, shows up late, or spreads across different systems:
 
 - **Safety**;
 - **Truth**; or
@@ -615,7 +625,7 @@ Short-horizon optimization is invalid where it foreseeably produces medium- or l
   - [§3.4.1](#341-type-o-baseline-disclosure) (*Type O baseline disclosure*);
   - [§3.4.2](#342-privacy-discipline) (*privacy discipline*);
   - [§3.4.3](#343-protective-storage-and-key-custody) (*protective storage and key custody*);
-  - [§3.4.4](#344-periodic-data-type-re-evaluation) (*periodic data-type re-evaluation*);
+  - [§3.4.4](#344-scheduled-data-type-re-evaluation) (*scheduled data-type re-evaluation*);
   - [§3.4.5](#345-system-class-scaled-infrastructure-assurance) (*system-class-scaled infrastructure assurance*);
   - [§3.4.6](#346-infrastructure-robustness-for-data) (*infrastructure robustness for data*);
   - [§3.4.7](#347-defects-and-misalignment) (*defects and misalignment*);
@@ -650,6 +660,10 @@ Where the **[CS-6.305 Part A §7 Type O baseline](corpus_systems/cs_06.305_infor
 - the assigned system class; and
 - the observed [System Boundaries](core_05.040_band_continuity.md#system-boundaries).
 
+That coverage must include the governance, incentive, and contestability findings and the assigned roles established under [§3.1 Governance, Incentive, and Contestability Discipline](#31-governance-incentive-and-contestability-discipline).
+
+For every system class, including Class L and Class P, certification must also verify that the System Certification Record is published as **Type O** certification data under [CS-6.310 Part B §9.3 Type O](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data). That check does not require the full Public Oversight Baseline Disclosure outside Class A, B, and C.
+
 Sharing evaluated risk can also count toward this baseline where systemic risk is in play. The public's baseline right is broader than certification, and it does not call for a separate record alongside the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) or [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record).
 
 Each justified hold-back must be accompanied by the strongest public substitute reasonably possible ([§3.4.5 System-Class-Scaled Infrastructure Assurance](#345-system-class-scaled-infrastructure-assurance) gives examples). Chapter Five owns the term; CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) owns baseline content and release mechanics.
@@ -666,7 +680,7 @@ Certification must hold data handling to the following privacy discipline:
   - withdrawal of a public release under [CS-6.310 Part B §9.9](corpus_systems/cs_06.310_data_classifications.md#99-type-w-works-published) (*Type W: Works, published*);
   - the limits of each recorded grant under [CS-6.310 Part B §9.13](corpus_systems/cs_06.310_data_classifications.md#913-commercial-grants) (*Commercial grants*); and
   - the creator's [reserved rights](corpus_systems/cs_06.310_data_classifications.md#9133-reserved-rights).
-- *No implied consent.* No grant may be treated as consent to a use it does not name.
+- *No implied consent.* A grant covers only the uses it names, within the scope, term, territory, and medium it states. Anything it does not name stays with the creator. Certification must not treat a default setting, bundled terms, silence, or a broader grant as consent to a use the grant does not name. For example, a general licence to publish or sell a work is not consent to use it as training data, which needs the creator's own specific consent (see the [reserved rights](corpus_systems/cs_06.310_data_classifications.md#9133-reserved-rights)).
 
 <a id="343-protective-storage-and-key-custody"></a>
 ##### 3.4.3 Protective Storage and Key Custody
@@ -678,15 +692,16 @@ For data in the restricted-by-default and non-accessible bands, certification mu
 
 A claim of encryption without that evidence does not satisfy this check.
 
+<a id="344-scheduled-data-type-re-evaluation"></a>
 <a id="344-periodic-data-type-re-evaluation"></a>
-##### 3.4.4 Periodic Data-Type Re-evaluation
+##### 3.4.4 Scheduled Data-Type Re-evaluation
 
-On every materially impactful certification or recertification cycle, the process must verify that material datasets in scope were:
+Each time a system with material impact is certified or recertified, the review must check that its important datasets were:
 
-- **periodically re-evaluated** for appropriate classification under **[CS-6.305 §5.2](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*); and
+- **re-evaluated** for appropriate classification under **[CS-6.305 §5.2](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*); and
 - **reclassified** where that review required it.
 
-Cadence must scale with system class and material impact under [§2 System Class Evaluation](#2-system-class-evaluation). Event-triggered retyping under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) does not replace this periodic certification check.
+Event-triggered retyping under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) does not replace this scheduled certification check.
 
 <a id="345-system-class-scaled-infrastructure-assurance"></a>
 ##### 3.4.5 System-Class-Scaled Infrastructure Assurance
@@ -724,9 +739,9 @@ Each of the following must be treated as a certification defect:
 - misclassification of data;
 - evasive restructuring;
 - unsafe cross-domain linkage;
-- handling that matches its type label but fails the privacy homes that type names;
-- missing attribution where material harm could not be investigated;
-- **overdue or skipped periodic data-type re-evaluation**;
+- handling that carries the right type label but still breaks the privacy protections that type requires;
+- no record of who accessed, processed, or changed data, so a significant harm could not be investigated;
+- **overdue or skipped scheduled data-type re-evaluation**;
 - restricted data held as plaintext in storage or beyond its authorized processing boundary, or keys reachable by processes that do not need them; and
 - infrastructure fragility that foreseeably defeats CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) protections.
 
