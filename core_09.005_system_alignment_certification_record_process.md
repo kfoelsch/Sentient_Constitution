@@ -163,7 +163,11 @@ flowchart TB
   - [§6.1.1 Four seats in a certification](#611-four-seats-in-a-certification) and
   - [§6.1.2 Technical Forums](#612-technical-forums) through
   - [§6.1.7 Constitutional and other regular forum families](#617-constitutional-and-other-regular-forum-families), one for each forum family);
-  - [§6.2](#62-supervisory-sequence) (*supervisory sequence*);
+  - [§6.2](#62-supervisory-sequence) (*supervisory sequence*, with
+  - [§6.2.1 Challenge path first](#621-challenge-path-first),
+  - [§6.2.2 Default sequence](#622-default-sequence),
+  - [§6.2.3 Urgent protection](#623-urgent-protection), and
+  - [§6.2.4 Participation during review](#624-participation-during-review));
   - [§6.3](#63-contestability-chain) (*contestability chain*);
   - [§6.4](#64-anti-bypass) (*anti-bypass*); read with
   - [§9.1](#91-challenging-a-certification) (*challenging a certification*) and
@@ -233,7 +237,7 @@ A forum family may hold different seats on different acts. It may not use its fa
 
 **Lead forum and record holder:**
 
-- The lead forum holds the verify-or-authorize seat for the outcome, and each component authority holds it for its own finding.
+- The lead forum holds the verify-or-authorize seat for the outcome, and each forum or authority that gives a component finding holds it for that finding.
 - The lead forum directs the sequence, but it does not hold the record seat on the same act.
 - The record holder named in the Charter Role Map opens, versions, preserves, and publishes the record. It enters what the deciding forums determined and does not decide anything itself.
 - The "one coordinated record" duty in Chapter Thirteen is a duty of the lead forum to coordinate the record, not to keep it.
@@ -317,7 +321,15 @@ A forum family may hold different seats on different acts. It may not use its fa
 
 *In plain terms: a **stay** is a temporary pause. It holds off final approval, reliance, or the next review step until the right forum finishes its review. A stay is not a final yes or no.*
 
-**Challenge path first.** Before any forum signs off on a certification record, the record must name the [published record challenge path](#911-contestability-paths) under [§9.1 Challenging a Certification](#91-challenging-a-certification). That means saying who receives challenges, how to file them, and what the windows are. The path opens when the outcome is published. Where the system is already operating, it is already open (see [§9.1.1 Contestability paths](#911-contestability-paths)). A record that does not name the path cannot be signed off. A system with stakeholders cannot hold certification while it has no open, contestable path, whatever the component findings say.
+<a id="621-challenge-path-first"></a>
+
+##### 6.2.1 Challenge path first
+
+Before any forum signs off on a certification record, the record must name the [published record challenge path](#911-contestability-paths) under [§9.1 Challenging a Certification](#91-challenging-a-certification). That means saying who receives challenges, how to file them, and what the windows are. The path opens when the outcome is published. Where the system is already operating, it is already open (see [§9.1.1 Contestability paths](#911-contestability-paths)). A record that does not name the path cannot be signed off. A system with stakeholders cannot hold certification while it has no open, contestable path, whatever the component findings say.
+
+<a id="622-default-sequence"></a>
+
+##### 6.2.2 Default sequence
 
 The **supervisory sequence** is the step-by-step order in which forums supervise a certification record. Chapter Thirteen may require a different lawful order when primary stakes, anti-self-judging protection, or certification routing applies. Otherwise, the default sequence is:
 
@@ -328,22 +340,49 @@ The **supervisory sequence** is the step-by-step order in which forums supervise
    - **Institutional Forums** supply required institutional-mandate and Rights Floor component findings where [§6.1 Forum Supervision and Component Roles](#61-forum-supervision-and-component-roles) assigns those stakes;
    - **Sentient Forums** supply community-governance findings where the system materially affects how a community governs itself, and the Rights Floor component for community-level stakes, with Institutional Forums having the final say where the two conflict ([§6.1.5 Sentient Forums](#615-sentient-forums)); and
    - **Constitutional** and other assigned forum families supply component findings for stakes that Chapter Thirteen assigns to them.
-3. **Referral, certification, and stay:** The lead forum must refer, certify, or [stay](core_05.035_band_accountability.md#stay) any component question that belongs primarily in another forum family. It cannot authorize the affected scope or substantially lift its conditions while required component work supporting that authorization remains unfinished. A component authority may instead issue a completed finding that supports bounded operation under specified continuing conditions or corrective work (see [§7 Certification Outcomes](#7-certification-outcomes)). Such a finding must state why the permitted scope preserves the applicable Rights Floors and what remains to be verified. Unanswered objections, missing findings, and component silence do not supply that authorization. Required component work here includes:
-   - a required finding;
-   - the disposition of a material objection;
-   - verification of a condition required before authorization; and
-   - a certified question whose resolution that authorization needs.
-4. **Integration for decision:** The lead forum integrates the component findings for decision. The record seat holder enters them in the one certification record opened at step 1. The record then states each component authority, finding, unresolved item, condition, and limit on reliance, as they stand when the decision is made.
+3. **Referral, certification, and stay:** The lead forum must refer, certify, or [stay](core_05.035_band_accountability.md#stay) any component question that belongs mainly to another forum family. Until the required component work behind an authorization is finished, the lead forum cannot authorize the affected scope, and it cannot remove or significantly loosen the scope's conditions. Required component work includes:
+   - any finding a component forum is required to give;
+   - a decision on any material objection (one that could affect the outcome);
+   - verification that any condition required before authorization has been met; and
+   - the answer to any question sent to another forum (a certified question), if the authorization depends on that answer.
+
+   Two rules keep this from being bypassed or from stalling the process:
+   - **Limited operation needs a completed finding:** A component authority may issue a completed finding that supports operation within set limits, under stated continuing conditions or corrective work (see [§7 Certification Outcomes](#7-certification-outcomes)). The finding must say why the permitted scope still protects the applicable Rights Floors, and what remains to be verified.
+   - **Silence is not approval:** An unanswered objection, a missing finding, or a component's silence never counts as authorization.
+4. **Integration for decision:** The lead forum integrates the component findings for decision. The record seat holder enters them in the one certification record opened at step 1. The record then states, as things stand when the decision is made: which forum or authority gave each component finding, what each finding says, every unresolved item, every condition, and every limit on reliance.
 5. **Constitutional disposition:** If constitutional meaning, validity, or class-wide structural remedy is materially at issue, the lead forum must certify or escalate under Chapter Thirteen before treating the matter as finally resolved on that point.
 6. **Hand-off to Phase IV and Phase V:** The lead forum states the outcome under [§7 Certification Outcomes](#7-certification-outcomes) (Phase IV, Decide). The record seat holder then completes the record under [§8 System Certification Record](#8-system-certification-record) (Phase V, Record) by entering the outcome and the concerns raised in reaching it. No second record is opened for the decision.
 
-**Urgent protection does not wait for the sequence.** A stay, interim protection, or reliance limit may be ordered before the sequence finishes, including before a withdrawal is decided. [§7 Certification Outcomes](#7-certification-outcomes), [§6.3 Contestability chain](#63-contestability-chain), and Chapter Thirteen [Interim protection](core_13.000_forum.md#interim-protection) and [§6.1 Emergency measures and continuation burden](core_13.000_forum.md#61-emergency-measures-and-continuation-burden) govern those measures. The sequence still runs, and the measure is entered on the record.
+<a id="623-urgent-protection"></a>
 
-**Participation during review.** The assigned forums must give affected sentients practicable, accessible ways to submit evidence and concerns during evaluation and forum review, scaled to system class and material impact.
+##### 6.2.3 Urgent protection
+
+Urgent protection does not wait for the sequence. A stay, interim protection, or reliance limit may be ordered before the sequence finishes, including before a withdrawal is decided. These sections govern such measures:
+
+- [§7 Certification Outcomes](#7-certification-outcomes);
+- [§6.3 Contestability chain](#63-contestability-chain);
+- Chapter Thirteen [Interim protection](core_13.000_forum.md#interim-protection); and
+- Chapter Thirteen [§6.1 Emergency measures and continuation burden](core_13.000_forum.md#61-emergency-measures-and-continuation-burden).
+
+The sequence still runs, and the measure is entered on the record.
+
+<a id="624-participation-during-review"></a>
+
+##### 6.2.4 Participation during review
+
+The assigned forums must give affected sentients practicable, accessible ways to submit evidence and concerns during evaluation and forum review, scaled to system class and material impact.
 
 - Evaluation identifies affected sentients through actual and reasonably foreseeable effects and dependency, including before deployment. A system that is not yet operating does not show that no one is affected.
 - The component, lead-integrity, and escalation paths under [§6.3 Contestability chain](#63-contestability-chain) stay available throughout review.
 - Opening the ordinary published record challenge path with the outcome does not postpone these participation and review paths.
+
+Every submission made during review goes into one **review submissions log**, kept by the record seat holder as part of the System Certification Record. The log works this way:
+
+- **Where to send a submission:** to the record seat holder or to any assigned forum. A forum that receives one passes it to the record seat holder inside the intake target of the Tier that matches the system's class ([CF-13.445 §3.1](corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)).
+- **What the record seat holder does:** it logs the submission with its date, its source, and the forum it bears on. It tells the submitter it was received, sends it to that forum, and later enters what the forum did with it.
+- **No gatekeeping:** the record seat holder does not judge a submission's relevance or weight, and may not refuse, drop, or delay it.
+- **Anonymous and confidential submissions:** a submitter may ask to stay anonymous or confidential. Until the lead forum decides, the submitter's identity, and anything in the submission that would reveal it, is withheld from everyone, the operator included. If the lead forum finds confidentiality warranted, in the way [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing) protects a reporter, the identity stays withheld and the submission is still logged and sent on. If it finds confidentiality not warranted, it tells the submitter before anything is disclosed, and the submitter may withdraw the submission. Retaliation against a submitter, or interference with submitting, is [Protected Reporting Retaliation and Access Interference](core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference).
+- **Who can see the log:** anyone. The log is published with the record, and the disclosure rules in [§8.2 Record integrity: transparency and auditability](#82-record-integrity-transparency-and-auditability) apply, so only a limit justified by safety or security may keep an entry from view.
 
 <a id="63-contestability-chain"></a>
 
@@ -710,10 +749,11 @@ The record must identify, at minimum:
   - every recusal, delegation, substitute, permitted merger, or emergency departure; and
   - enough control-line information to show that the operator or proponent did not verify its own certification claim or control the challenge to it;
 - **Challenge paths:** the named [contestability paths](#911-contestability-paths) under [§9.1 Challenging a Certification](#91-challenging-a-certification) and the contestability chain under [§6.3 Contestability chain](#63-contestability-chain), showing how affected parties can challenge at each step;
-- **Concerns raised in review and decision:** every objection, dissent, concern, and challenge raised during forum review or in reaching the outcome. It does not matter whether it came from a forum component, a member of the deciding body, a steward or operator, or an affected party through a challenge path. For each, the record states:
-  - who raised it and what was raised;
+- **Concerns raised in review and decision:** every objection, dissent, concern, and challenge raised during forum review or in reaching the outcome. It does not matter whether it came from a forum component, a member of the deciding body, a steward or operator, or an affected party, whether through a challenge path or a review submission under [§6.2.4 Participation during review](#624-participation-during-review). For each, the record states:
+  - who raised it (or that the submitter is anonymous or confidential) and what was raised;
   - how it was resolved, or why it remains open; and
   - any condition, reliance limit, or reopening trigger it produced;
+- **Review submissions log:** the log kept under [§6.2.4 Participation during review](#624-participation-during-review), published with the record;
 - **Cause finding:** where the review, a recertification, or a reopened review found misalignment or a defect (see [§9.2 Provisional and full certification](#92-provisional-and-full-certification)):
   - whether its cause is design, operation, or not yet determined; and
   - the evidence relied on;
