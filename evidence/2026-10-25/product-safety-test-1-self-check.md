@@ -16,4 +16,4 @@
 
 **Indirect-narrowing check.** The one place a reader could worry is Commercial Compliance as a general label that lets any market-entry condition escape XI-B scrutiny. It does not: a rule qualifies only if it answers yes to Offer, Fact, Risk, and Least, and the failure list in the entry names relabeling a rule that demands opinion or affiliation as a failure.
 
-**Result.** No weakening found. Settled in the 136th move: the XI-B bullet uses the highest-scrutiny standard instead of an absolute bar. One judgment remains for the steward to confirm: the "safe to consume" carve-out in Article III-A, as worded above, does not excuse a supplier from the safe-supply duty.
+**Result.** No weakening found. Settled in the 136th move: the XI-B bullet uses the highest-scrutiny standard instead of an absolute bar. The custodian also confirmed the "safe to consume" carve-out in Article III-A as worded above (2026-10-25): it does not excuse a supplier from the safe-supply duty. No judgment remains open.
