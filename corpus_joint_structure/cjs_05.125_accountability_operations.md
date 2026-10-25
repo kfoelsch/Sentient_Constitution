@@ -1332,6 +1332,23 @@ Systemic-pattern detection and escalation
 - **What must hold**
   - **Primary failure:** Treating repeated patterns as isolated events to avoid review.
 
+<a id="harm-reports-and-corrective-notices"></a>
+Harm reports and corrective notices
+
+*In plain terms: when sentients report harm from a product or service, such as an allergic reaction, an injury, an illness, or a wrong label, the reports must be collected and acted on, and when information is found wrong or a product unsafe, everyone who relied on it must be told inside the notice window for the urgency of the harm (NU-1 to NU-3) and reached where they are, and the problem must be contained and fixed inside the windows for that urgency (CU-1 to CU-4).*
+
+- **What it is**
+  - **In scope:** Reports of harm from a product or service must be taken in without suppression (**Article XIII-A** (*Reliability and Trustworthiness Baseline*)), looked at together with other reports, and acted on. Serious or repeated reports must trigger review under the thresholds in Systemic-pattern detection and escalation. When information is found wrong or a product is found unsafe, the notice must reach everyone who relied on it inside the notice window of the matching band (NU-1 to NU-3 of [Incident and assurance notification urgency (NU)](cjs_05.110_oversight_operations.md#incident-and-assurance-notification-urgency-nu)), including those who do not respond, through more than one channel and with follow-up while it goes unacknowledged ([Chapter One §3.1.5 Present Capability and Proactive Help](../core_01.000_values_principles.md#315-present-capability-and-proactive-help)). The notice must say what is wrong, what to do, and how to get a remedy (**Article XIII-B** (*Right to Redress and Remedy*)), and the information must be corrected everywhere it appears, including labels, listings, apps, and reseller channels. The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). **Article III-F** (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../core_05.055_band_participation.md#commercial-compliance).
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in harm reports and corrective notices.
+<a id="harm-reports-and-corrective-notices-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** time from first report to review, time from finding to notice, share of relying sentients actually reached, and whether wrong information is still live in any channel
+
+    **Primary assessment:** Evaluation must verify time from first report to review, time from finding to notice, the share of relying sentients actually reached, and whether wrong information is still live in any channel.
+<a id="harm-reports-and-corrective-notices-c"></a>
+- **What must hold**
+  - **Primary failure:** Closing harm reports as isolated events, delaying a notice while review continues, notifying only those who respond, or leaving wrong information live in some channel.
+
 ---
 
 **Previous file:** [cjs_05.120_participation_operations.md](cjs_05.120_participation_operations.md)

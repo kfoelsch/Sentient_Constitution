@@ -383,12 +383,14 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity),
   - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
-  - [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) where precedence and allocation choices must remain coherent and reviewable.
+  - [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) where precedence and allocation choices must remain coherent and reviewable, and
+  - [Chapter Nine §5.5.3 System Class Scaling and Escalation](core_09.000_system_alignment_certification_evaluation.md#553-system-class-scaling-and-escalation) (9.000 §5.5.3) (*non-response safeguards under §3.1.5*).
 - Subsections (reading order):
   - [§3.1.1](#311-access-and-opportunity) ·
   - [§3.1.2](#312-benefits-and-burdens) ·
   - [§3.1.3](#313-fair-treatment) ·
-  - [§3.1.4](#314-unfair-treatment).
+  - [§3.1.4](#314-unfair-treatment) ·
+  - [§3.1.5](#315-present-capability-and-proactive-help).
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
   - Especially
     - [Article VI: Equal Basic Rights](core_06.005_rights_part_b.md#article-vi-equal-basic-rights),
@@ -438,7 +440,7 @@ Fairness helps make [Participation](core_05.025_apex_participation_leg.md#partic
 
 It is not enough for a system to show a good average result. One headline metric, average, ranking, or efficiency claim does not prove fairness by itself. A system can look successful in the aggregate while still being unfair to sentients who are excluded, misclassified, underpaid, overburdened, or denied a meaningful chance to object.
 
-This section has **four working parts**. They guide this section but do not replace Chapter Five definitions or the Chapter Six Rights Floor.
+This section has **five working parts**. They guide this section but do not replace Chapter Five definitions or the Chapter Six Rights Floor.
 
 <a id="311-access-and-opportunity"></a>
 ##### 3.1.1 Access and Opportunity
@@ -480,7 +482,24 @@ Unfair treatment creates exclusion and inconsistency. Systems must not hide unfa
 - deny jobs, housing, banking, licenses, standing, or similar access **mainly because** of any lawful form of employment, lawful past employment, lawful perceived employment, or lack of employment;
 - create material disadvantage through licensing, zoning, fees, platform rules, or other neutral-looking requirements that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without the justification this Constitution requires.
 
-These four parts also support [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
+<a id="315-present-capability-and-proactive-help"></a>
+##### 3.1.5 Present Capability and Proactive Help
+
+This subsection sets out how systems must treat what sentients can do now, and what they must do when a sentient cannot respond:
+
+- **Present capability:** A system judges what a sentient can do now, for the task or decision at hand. It does not rely on what the sentient could do before, on a diagnosis or label, or on what the average sentient can do. Capability can fall, come back, or change from day to day. Years of on-time payment do not prove present capacity, and one past finding of limited capacity does not make it permanent.
+- **Survival does not depend on a reply:** Keeping survival essentials must not depend on a sentient's being able to answer, ask for help, or follow a process they cannot follow now. How much this requires grows with [material stake](core_00.000_preamble.md#material-stake) and [Dependency](core_05.040_band_continuity.md#dependency).
+- **Reaching out:** When a sentient who relies on a system for something material stops responding, the system must try to reach them and connect them with help, by the least intrusive means, without needing to know why they are silent.
+- **Support before substitution:** A system offers supports and accommodations before it replaces the sentient's own decisions. The decision stays theirs and returns to them as soon as they are able. A sentient's Rights Floor does not shrink because their capability has, and any limit on their choices must meet [§7.1 Limitation Discipline](#71-limitation-discipline).
+- **No guessing at inner states:** Outreach rests on what the system can observe, such as unanswered contacts and what is at stake. It does not rest on guesses about health or state of mind, which the [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary) protects.
+
+These limits apply:
+- **Connecting is not treating:** The system's duty is to try to reach the sentient and hand them to help, such as a contact they chose, a support or care service, or the route under **Article III-B** (*Bodily-Maintenance and Healthcare Access*). Anything done without the sentient's consent stays under **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*).
+- **Contacts and data:** A trusted contact is used only if the sentient chose it in advance, and only the information needed to get a response is shared. Outreach uses contact details the system already holds for that purpose and is not a reason to collect more data.
+
+This builds on [§3.1.1 Access and Opportunity](#311-access-and-opportunity) and [§3.1.3 Fair Treatment](#313-fair-treatment), and it applies [§16 Pillar 2 — Proactive stewardship](core_01.010_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship) to the sentients a system affects. For developing sentients it works with [Graduated Capability](core_05.055_band_participation.md#graduated-capability), which judges growth by what a sentient can actually do.
+
+These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
 
 #### 3.2 Recognition, Reinforcement, and Aspiration
 <details>
@@ -696,6 +715,7 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
   - [13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
 - Downstream: Shapes the rights surface for reliable systems, info-sphere integrity, audit and review, lifecycle controls, experimentation boundaries, comprehensibility, adaptive response, and emergency handling.
   - Especially
+    - [Article III-F: Safe Products and Health Information](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information),
     - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
     - [Article XV: Info-Sphere Integrity](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity),
     - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
@@ -756,6 +776,7 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
   - [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: Anchors the rights surface for truthful evidence, auditability, scientific integrity, retrospective review, and contestable disclosure.
   - Especially
+    - [Article III-F: Safe Products and Health Information](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information),
     - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
     - [Article XV: Info-Sphere Integrity](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity),
     - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
@@ -996,6 +1017,7 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
 - Downstream: Shapes the rights surface for agency, reliable reliance, transparency, standing, and anti-capture review.
   - Especially
     - [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation),
+    - [Article III-F: Safe Products and Health Information](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information),
     - [Article XIII: Right to Reliable and Trustworthy Systems](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems),
     - [Article XV: Info-Sphere Integrity](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity),
     - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),

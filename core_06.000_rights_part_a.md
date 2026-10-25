@@ -747,7 +747,7 @@ This Article sets out the operator's continuity duties before, during, and after
   - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [§13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
   - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
-- Upstream: Principles applied throughout **Articles III-A** through **III-E**: Chapter One
+- Upstream: Principles applied throughout **Articles III-A** through **III-F**: Chapter One
   - [§3.1 Fairness](core_01.000_values_principles.md#31-fairness) (especially
   - [§3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity) and
   - [§3.1.3 Fair Treatment](core_01.000_values_principles.md#313-fair-treatment)),
@@ -769,13 +769,13 @@ This Article states **constitutional floors** for survival and equal access unde
 - **Accountability:** those who control essential systems must face consequences when access is denied, degraded, or dodged.
 - **Timeliness:** fixes that arrive before harm settles in.
 
-**Principles that apply to every subarticle.** **Articles III-A** through **III-E** each apply three Chapter One principles to their own domain:
+**Principles that apply to every subarticle.** **Articles III-A** through **III-F** each apply three Chapter One principles to their own domain:
 
 - **Fair access** ([Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness)): paths to what this Article protects must not be blocked, priced out, or tilted because of a [Protected Characteristic](core_05.055_band_participation.md#protected-characteristics), a [proxy](core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact) for one, or an arbitrary grouping.
 - **Accessibility** ([Chapter One §5.2 Plain-Language Accessibility](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)): sentients must be able to understand and actually use those paths, with the [Accessibility](core_05.055_band_participation.md#accessibility) they need — not access that exists only on paper.
 - **Limits** ([Chapter One §7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline)): any restriction or difference in treatment must be [necessary](core_05.035_band_accountability.md#necessity) and [proportionate](core_05.035_band_accountability.md#proportionality), reversible where possible, and subject to oversight.
 
-**Institutional guarantees.** Securing the floors in **Articles III-A** through **III-E** at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
+**Institutional guarantees.** Securing the floors in **Articles III-A** through **III-F** at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
 
 - lawful fiscal and allocation mechanisms — transfers, in-kind provision, or mixed designs — with no single funding model prescribed;
 - rules for who qualifies, where they must live to receive support, and how benefit levels are updated as costs change over time.
@@ -795,6 +795,7 @@ Those rules may structure delivery. They must not be used to defeat any floor in
 - Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint), and [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7).
 - Read with: Flourishing measurement family (*Survival-floor access as constitutional measurement*); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
 - Read with: [**Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*)](core_06.020_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) for how essential environments are kept running and cared for during transition. The detailed rules are in [**CI-6.275 §1**](corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives) (*non-compliant property, seizure, voluntary incentives*) through [**CI-6.275 §3**](corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md#ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements) (*operative transition-scoped remediation requirements*).
+- Read with: [**Article III-F** (*Safe Products and Health Information*)](#article-iii-f-safe-products-and-health-information) for the safety of food, water, and other essentials as supplied.
 - Read with: Chapter Five [*Occupancy Continuity*](core_05.040_band_continuity.md#occupancy-continuity) and [*Essential-Environment Non-Commodification*](core_05.040_band_continuity.md#essential-environment-non-commodification); where applicable, the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment).
 - Downstream: [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) and [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) where systems gate or sustain delivery; **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*); **Article XIX-B** (*Contestability and Proportional Restriction Limits*); [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together).
 
@@ -812,15 +813,16 @@ Those rules may structure delivery. They must not be used to defeat any floor in
 
 <br>
 
-*In plain terms: every sentient must have what they need to keep existing: food and water or the equivalent for their substrate, a stable home or operating environment they cannot be quietly priced or evicted out of, and meaningful access to communications.*
+*In plain terms: every sentient must have what they need to keep existing: safe food and water, or the safe equivalent for their substrate, a stable home or operating environment they cannot be quietly priced or evicted out of, and meaningful access to communications.*
 
 This Article sets out the survival floor — ongoing resource access, stable shelter or operating environment, and connectivity:
 
 - **Ongoing resource access:** All sentients require access to the essential resources they need for continued existence and participation:
-  - for organic beings: food and water;
-  - for synthetic and digital entities: processing continuity, energy, and technical-environment integrity.
+  - for organic beings: food and water that are safe to consume;
+  - for synthetic and digital entities: processing continuity, energy, and technical-environment integrity that are safe to use.
   
   Access must be preserved at a level sufficient to prevent existential deprivation and maintain baseline functional wellbeing.
+  - **Safe to consume or use:** The duty to keep these essentials safe falls on the parties that supply them, under [**Article III-F** (*Safe Products and Health Information*)](#article-iii-f-safe-products-and-health-information). It is not a condition a recipient must meet. A doubt about safety may not be used to cut off survival-critical access. Where safe supply cannot be had, access is not cut off: the supplying party discloses the risk, the sentient decides, and the duty to restore safe supply continues.
 - **Stable shelter and operating environment:** All sentients have the right to stable, functional, and secure shelter or operating environments — physical, digital, or hybrid — sufficient for continued existence and baseline wellbeing. This right includes:
   - **Protection from destructive threats:** Essential environments must be protected against destructive threats arising from other sentients, systems, or preventable infrastructure failure.
   - **Protection against arbitrary eviction:** No sentient may be evicted or displaced, or have an essential shelter or operating-environment relationship terminated, unless the action meets all of the conditions below. This applies to physical dwellings, substrate hosting, compute tenancy, and comparable substrate-agnostic arrangements for synthetic and hybrid sentients. The action must:
@@ -988,7 +990,7 @@ This Article sets out the labor and economic floor — fair compensation, collec
 
 This Article sets out the safe-working-conditions floor, its equal application across substrates, and its limits:
 
-- **Safe working conditions:** Productive activity must be carried out under conditions that meet [Safe Conditions](core_05.040_band_continuity.md#safe-conditions). The protection covers those doing the work and those affected by it; safety outside productive activity falls under [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint). Those conditions must:
+- **Safe working conditions:** Productive activity must be carried out under conditions that meet [Safe Conditions](core_05.040_band_continuity.md#safe-conditions). The protection covers those doing the work and those affected by it; safety outside productive activity falls under [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint), and the safety of products and services offered to others falls under [**Article III-F** (*Safe Products and Health Information*)](#article-iii-f-safe-products-and-health-information). Those conditions must:
   - apply to every substrate;
   - protect in practice, not just on paper;
   - integrate with **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability and with [CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*) safety profiles where applicable; and
@@ -1029,6 +1031,63 @@ This Article sets out the right to rest, the rules that keep it from being defea
 - **Every substrate:** Treating rest and recuperation as optional because of substrate or implementation classification is non-compliant under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
 - **What this does not do:** This floor is measured by whether agency, wellbeing, and participation capacity are preserved, not by fixed hours. Ordinary schedules and contractual rest terms that leave a sentient able to preserve them are not affected.
 - **Limits:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on rest must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
+
+#### Article III-F: Safe Products and Health Information
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One
+  - [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
+  - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
+  - [§3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help).
+- Downstream: **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) as the systems-layer hooks; [Chapter Nine §5.6.1 Evaluation Requirement](core_09.000_system_alignment_certification_evaluation.md#561-evaluation-requirement) (9.000 §5.6.1); [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: disclosure sufficiency and observability terms*); [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: structural review, correction urgency, and disclosure terms*).
+- Read with:
+  - [**Article III-A** (*Survival*)](#article-iii-a-survival) for safe food, water, and other essentials;
+  - [**Article III-B** (*Bodily-Maintenance and Healthcare Access*)](#article-iii-b-bodily-maintenance-and-healthcare-access) and [**Article III-D** (*Safe Working Conditions*)](#article-iii-d-safe-working-conditions);
+  - **Article VI-D** (*Accessibility*), **Article XIII-B** (*Right to Redress and Remedy*), and **Article VII-A** (*Self-Ownership of Body*);
+  - **Article XI-B** (*Expression*) for the line between compelled speech and Commercial Compliance, and **Article XI-E** (*Institutional Formation and Business Creation*) for practice licence and practice clearance;
+  - **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) for proprietary detail.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance) · [O](core_05.055_band_participation.md#commercial-compliance) · [M](core_05.055_band_participation.md#commercial-compliance-a) · [A](core_05.055_band_participation.md#commercial-compliance-a) · [C](core_05.055_band_participation.md#commercial-compliance-c)
+- [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](core_05.040_band_continuity.md#safety-constraint-a) · [A](core_05.040_band_continuity.md#safety-constraint-a) · [C](core_05.040_band_continuity.md#safety-constraint-c)
+- [Risk](core_05.040_band_continuity.md#risk) · [O](core_05.040_band_continuity.md#risk) · [M](core_05.040_band_continuity.md#risk-a) · [A](core_05.040_band_continuity.md#risk-a) · [C](core_05.040_band_continuity.md#risk-c)
+- [Transparency](core_05.050_band_oversight.md#transparency) · [O](core_05.050_band_oversight.md#transparency) · [M](core_05.050_band_oversight.md#transparency-a) · [A](core_05.050_band_oversight.md#transparency-a) · [C](core_05.050_band_oversight.md#transparency-c)
+- [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
+- [Accessibility](core_05.055_band_participation.md#accessibility) · [O](core_05.055_band_participation.md#accessibility) · [M](core_05.055_band_participation.md#accessibility-constitutional-a) · [A](core_05.055_band_participation.md#accessibility-constitutional-a) · [C](core_05.055_band_participation.md#accessibility-constitutional-c)
+- [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) · [O](core_05.035_band_accountability.md#redress-and-remediation) · [M](core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion) · [O](core_05.055_band_participation.md#sentience-non-exclusion) · [M](core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](core_05.055_band_participation.md#sentience-non-exclusion-c)
+
+</details>
+
+<br>
+
+*In plain terms: what sentients eat, drink, take, or use on their bodies must be safe, and anyone who offers it must be honest about it. Parties that offer things which can affect health must give accurate, usable safety, health, nutrition, ingredient, and allergen information, say plainly what they do not know, and tell everyone who relied on them, in time, when something turns out to be wrong. This is the price of offering, not a limit on anyone's speech.*
+
+This Article sets out the safe-products floor, the information floor, the duty to correct, and its limits:
+
+- **Who and what it covers:** Any party that offers others a good, service, or system that can affect their body, health, or safety takes on this Article. That includes food, drink, medicine, supplements, cosmetics, devices, materials, and health or safety advice, whether a sentient or a system gives it. For synthetic and digital sentients it covers the energy, parts, software, and technical inputs that affect their integrity. Duties scale with [Materiality](core_05.050_band_oversight.md#materiality) and with the risk to those who rely, so a household seller is not held to the standard of a national producer.
+- **Safe to offer:** What is offered for sentients to consume or use must not carry a hazard that recipients cannot judge or avoid. A hazard that is known, disclosed, and chosen is the sentient's own decision under **Article VII-A** (*Self-Ownership of Body*).
+- **Accurate information:** The party must give:
+  - safety warnings, health claims, nutrition facts, ingredients, and allergen information that are accurate and complete enough to act on, including possible cross-contact;
+  - a plain statement of what is unknown or untested, never a gap that reads as safe;
+  - health, nutrition, and "free-from" claims backed by evidence, checked against suppliers' claims where health depends on them, and kept current when contents, suppliers, or processes change; and
+  - information that sentients with different sensory, cognitive, and language needs can use, available when they decide (**Article VI-D** (*Accessibility*); [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help)).
+
+  Where the party uses a sentient's own health, allergy, or dietary information to tailor what it says, it must apply that information correctly and use it only for that purpose ([Chapter One §15.1.2 Derived-Information Principle](core_01.005_interaction_interpretation.md#1512-derived-information-principle)).
+- **Harm reports and corrective notice:** Reports of harm must be taken in without suppression and acted on. When information turns out to be wrong, or a product turns out to be unsafe, everyone who relied on it must be told inside the notice window for the urgency of the harm (NU-1 to NU-3) and reached where they are, including those who do not respond, and the unsafe product or wrong information must be contained and corrected everywhere it appears inside the containment and correction windows for that urgency (CU-1 to CU-4). Remedy follows **Article XIII-B** (*Right to Redress and Remedy*).
+- **Honest promotion:** Reviews, ratings, and endorsements must be genuine, paid placement must be disclosed, and where health or safety is at stake, recommendations must not be tilted toward a product by what the offering party earns (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) and **Article XIII-D** (*Incentive-Alignment Constraint*)).
+- **Conditions of offering, not compelled speech:** The duties in this Article are conditions of offering and are judged as [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance). They require facts about the thing offered, never opinion or endorsement. They cannot be used to silence warnings, criticism, or protected reports, and they cannot be enforced by cutting off survival-critical access. Proprietary formulas need not be disclosed. Hazards and allergens must be, and proprietary detail can go to an independent verifying authority.
+- **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on this floor must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
+  - Standards, thresholds, and notice times route to [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: disclosure sufficiency and observability terms*), [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: structural review, correction urgency, and disclosure terms*), and adopted implementation text under [Chapter Eighteen](core_18.000_incorporation.md).
+  - Those texts must not be read to narrow this floor.
 
 ### Article IV: Right to Sentient-Centered Education
 

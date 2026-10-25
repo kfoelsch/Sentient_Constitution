@@ -89,6 +89,12 @@ Work, school, and unpaid adult care (roles, not types):
 | E17 | A student whose school, training, or credential is being used as a lever | [E17_student.md](E17_student.md) |
 | E18 | Unpaid care for an adult, without becoming their owner | [E18_caregiver_of_adult.md](E18_caregiver_of_adult.md) |
 
+Food, medicine, and products (a label or listing is all you have):
+
+| ID | For you, if this is close | File |
+|---|---|---|
+| E19 | You rely on a label for what you eat, take, or give to someone | [E19_label_reliance.md](E19_label_reliance.md) |
+
 When the path itself is missing (not a legal type):
 
 | ID | For you, if this is close | File |
@@ -135,6 +141,7 @@ Each brief opens with a thesis headline, then three figures. The figures are app
 | E16 | ~**54 in 100** workers are employees, not owners | wages are most households’ main income; no employee GDP line | most working lives, as someone else’s worker |
 | E17 | ~**21 in 100** enrolled (primary + secondary + higher ed) | not a production line; already in schools | nearly everyone who lives through childhood; many return |
 | E18 | ~**13 in 100** of ages 50+ (OECD informal long-term care) | same ILO **9%** analog; no adult-carer slice | nearly everyone as helper of an adult, for a stretch |
+| E19 | almost **1 in 9** fell ill from contaminated food in 2021 (WHO); ~**1 in 9** US adults has a confirmed food allergy | no clean share; food, medicine, and supplements already run on labels | everyone eats; nearly everyone takes a medicine or feeds someone who depends on a label |
 
 <a id="do-not-use-in-these-briefs"></a>
 ## Do not use in these briefs

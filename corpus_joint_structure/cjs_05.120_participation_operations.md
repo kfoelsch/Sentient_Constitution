@@ -842,6 +842,40 @@ Verification and comparative interpretation enablement
 - **What must hold**
   - **Primary failure:** A disclosure if it sounds informative but cannot actually be used to verify what happened, compare options, find errors, or assign responsibility.
 
+<a id="product-and-service-health-and-safety-information"></a>
+Product and service health and safety information
+
+*In plain terms: when a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, what it says about safety, health, nutrition, ingredients, and allergens must be true, backed up, kept current, and usable by the sentients who need it.*
+
+- **What it is**
+  - **In scope:** Where a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, the safety warnings, health claims, nutrition facts, ingredients, and allergen information it gives, on a label, listing, app, voice answer, or recommendation, must be accurate and complete enough to act on. It must say plainly when something is unknown, untested, or possibly present through shared production, instead of leaving a gap that reads as safe. Health, nutrition, and "free-from" claims must be backed by evidence. Supplier and other third-party claims must be checked before they are passed on when health or safety depends on them. The information must stay current when ingredients, suppliers, or processes change, and must be usable in forms that sentients with different sensory, cognitive, and language needs can use at the point of decision (**Article VI-D** (*Accessibility*)). Where the system uses a sentient's own health, allergy, or dietary information to tailor what it says, it must apply that information correctly and use it only for that purpose ([Chapter One §15.1.2 Derived-Information Principle](../core_01.005_interaction_interpretation.md#1512-derived-information-principle)). Those profiles are **Type I** data ([CS-6.310 Part B §9.5 Type I: Identity and attribution data](../corpus_systems/cs_06.310_data_classifications.md#95-type-i-identity-and-attribution-data)). **Article III-F** (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../core_05.055_band_participation.md#commercial-compliance).
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in product and service health and safety information.
+<a id="product-and-service-health-and-safety-information-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** what the system says in every channel it uses, compared with actual contents, supplier records, test results, and change records, including channels run by resellers and other third parties
+
+    **Primary assessment:** Reviewers must compare what the system says in every channel it uses with actual contents, supplier records, test results, and change records, including channels run by resellers and other third parties, and must check that sentients who depend on the information can find and use it.
+<a id="product-and-service-health-and-safety-information-c"></a>
+- **What must hold**
+  - **Primary failure:** A system if it states or implies that a product is safe, healthy, or free of an allergen or ingredient without having checked; leaves out a known hazard or allergen; buries safety information where the sentients who need it will not see it; passes along supplier claims it has reason to doubt; or lets old information stay live after the product has changed.
+
+<a id="ratings-rankings-and-paid-promotion"></a>
+Ratings, rankings, and paid promotion
+
+*In plain terms: reviews, ratings, rankings, and recommendations must be genuine, and paid or incentive-driven placement must be disclosed, so that sentients are not steered toward a product by what the system earns.*
+
+- **What it is**
+  - **In scope:** Reviews, ratings, and endorsements the system shows must be real and must not be written, bought, or filtered to look better than the experience behind them. Paid placement and commercial relationships must be disclosed to the sentients relying on the result. Where health or safety is at stake, recommendations and rankings must not favor a product because of what the system earns when a safer or more suitable option is available (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) and **Article XIII-D** (*Incentive-Alignment Constraint*)). This is part of the information floor in **Article III-F** (*Safe Products and Health Information*).
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in ratings, rankings, and paid promotion.
+<a id="ratings-rankings-and-paid-promotion-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** how reviews are collected and filtered, how rankings and recommendations are produced, and what commercial terms apply, compared with what is disclosed
+
+    **Primary assessment:** Reviewers must compare how reviews are collected and filtered, how rankings and recommendations are produced, and what commercial terms apply with what the system discloses, and must check whether health or safety information is outranked by commercial interest.
+<a id="ratings-rankings-and-paid-promotion-c"></a>
+- **What must hold**
+  - **Primary failure:** Presenting fabricated, bought, or selectively filtered reviews as genuine; hiding paid placement; or ranking a product above a safer or more suitable option because of what the system earns.
+
 ---
 
 **Previous file:** [cjs_05.110_oversight_operations.md](cjs_05.110_oversight_operations.md)

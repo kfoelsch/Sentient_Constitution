@@ -138,6 +138,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Collective Harm Boundary](core_05.035_band_accountability.md#collective-harm-boundary)
 - [Collective Organization](core_05.055_band_participation.md#collective-organization)
 - [Combatant / Non-Combatant Distinction](core_05.035_band_accountability.md#combatant--non-combatant-distinction)
+- [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance)
 - [Competency Bar](core_05.035_band_accountability.md#competency-bar)
 - [Competency Clearance](core_05.035_band_accountability.md#competency-clearance)
 - [Consent](core_05.055_band_participation.md#consent)

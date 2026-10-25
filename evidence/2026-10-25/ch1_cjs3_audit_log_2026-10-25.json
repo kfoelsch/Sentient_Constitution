@@ -104,127 +104,127 @@
     },
     "3.2": {
       "title": "Recognition, Reinforcement, and Aspiration",
-      "line": 485,
+      "line": 504,
       "file": "core_01.000_values_principles.md"
     },
     "3.3": {
       "title": "Anti-Degrading Process",
-      "line": 600,
+      "line": 619,
       "file": "core_01.000_values_principles.md"
     },
     "4": {
       "title": "Safety (Harm Constraint)",
-      "line": 684,
+      "line": 703,
       "file": "core_01.000_values_principles.md"
     },
     "5": {
       "title": "Truth (Epistemic Integrity Constraint)",
-      "line": 743,
+      "line": 763,
       "file": "core_01.000_values_principles.md"
     },
     "5.1": {
       "title": "Science-Informed Inquiry and Decision Support",
-      "line": 797,
+      "line": 818,
       "file": "core_01.000_values_principles.md"
     },
     "5.2": {
       "title": "Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "line": 872,
+      "line": 893,
       "file": "core_01.000_values_principles.md"
     },
     "6": {
       "title": "Trust and Trustworthiness (Coordination Integrity)",
-      "line": 982,
+      "line": 1003,
       "file": "core_01.000_values_principles.md"
     },
     "6.1": {
       "title": "Correction and Remedy",
-      "line": 1048,
+      "line": 1070,
       "file": "core_01.000_values_principles.md"
     },
     "7": {
       "title": "Freedom (Bounded Agency)",
-      "line": 1105,
+      "line": 1127,
       "file": "core_01.000_values_principles.md"
     },
     "7.1": {
       "title": "Limitation Discipline",
-      "line": 1200,
+      "line": 1222,
       "file": "core_01.000_values_principles.md"
     },
     "7.2": {
       "title": "Assembly, Collective Organization, and Institutional Formation",
-      "line": 1268,
+      "line": 1290,
       "file": "core_01.000_values_principles.md"
     },
     "7.3": {
       "title": "Dissent and Peaceful Protest",
-      "line": 1356,
+      "line": 1378,
       "file": "core_01.000_values_principles.md"
     },
     "7.4": {
       "title": "Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
-      "line": 1411,
+      "line": 1433,
       "file": "core_01.000_values_principles.md"
     },
     "7.5": {
       "title": "Expression and the Harm Line",
-      "line": 1475,
+      "line": 1497,
       "file": "core_01.000_values_principles.md"
     },
     "8": {
       "title": "Continuity Aim: Introduction",
-      "line": 1530,
+      "line": 1552,
       "file": "core_01.000_values_principles.md"
     },
     "9": {
       "title": "Shared-System Capacity",
-      "line": 1624,
+      "line": 1646,
       "file": "core_01.000_values_principles.md"
     },
     "9.1": {
       "title": "Productive Capacity (Instrumental Good)",
-      "line": 1710,
+      "line": 1732,
       "file": "core_01.000_values_principles.md"
     },
     "9.2": {
       "title": "Constitutional Efficiency",
-      "line": 1815,
+      "line": 1837,
       "file": "core_01.000_values_principles.md"
     },
     "10": {
       "title": "Resilience and Self-Healing Design",
-      "line": 1876,
+      "line": 1898,
       "file": "core_01.000_values_principles.md"
     },
     "11": {
       "title": "Market Structure",
-      "line": 1940,
+      "line": 1962,
       "file": "core_01.000_values_principles.md"
     },
     "11.1": {
       "title": "Market Concentration Threshold Mechanism (Adopter-Tunable)",
-      "line": 2009,
+      "line": 2031,
       "file": "core_01.000_values_principles.md"
     },
     "11.2": {
       "title": "Pro-Competition and Anti-Domination",
-      "line": 2112,
+      "line": 2134,
       "file": "core_01.000_values_principles.md"
     },
     "11.3": {
       "title": "Consolidation Ceiling",
-      "line": 2276,
+      "line": 2298,
       "file": "core_01.000_values_principles.md"
     },
     "11.4": {
       "title": "Resource and Dependency Concentration (Adopter-Tunable)",
-      "line": 2437,
+      "line": 2459,
       "file": "core_01.000_values_principles.md"
     },
     "12": {
       "title": "Systemic Evaluation Requirement",
-      "line": 2510,
+      "line": 2532,
       "file": "core_01.000_values_principles.md"
     },
     "13": {
@@ -1633,10 +1633,11 @@
       "title": "Participation: disclosure sufficiency and observability terms",
       "file": "corpus_joint_structure/cjs_05.120_participation_operations.md",
       "start_line": 726,
-      "end_line": 849,
+      "end_line": 883,
       "read_with": [],
       "direct_ch1_refs": [
         "15",
+        "15.1.2",
         "15.2",
         "18.2",
         "19.1",
@@ -1649,8 +1650,13 @@
         "15"
       ],
       "owner_refs": [
+        "Article III-F",
+        "Article VI-D",
         "Article VII-B",
-        "Article XVI-A"
+        "Article XIII-C",
+        "Article XIII-D",
+        "Article XVI-A",
+        "CS"
       ],
       "op_rules": [
         {
@@ -1700,6 +1706,28 @@
         {
           "label": "Verification and comparative interpretation enablement",
           "line": 829,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Product and service health and safety information",
+          "line": 846,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Ratings, rankings, and paid promotion",
+          "line": 863,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2367,7 +2395,7 @@
       "title": "Accountability: structural review, correction urgency, and disclosure terms",
       "file": "corpus_joint_structure/cjs_05.125_accountability_operations.md",
       "start_line": 1149,
-      "end_line": 1339,
+      "end_line": 1356,
       "read_with": [],
       "direct_ch1_refs": [
         "13.2",
@@ -2375,6 +2403,7 @@
         "15.2",
         "19.1",
         "19.2",
+        "3.1.5",
         "linked"
       ],
       "inferred_principles": [
@@ -2385,6 +2414,9 @@
         "19.2"
       ],
       "owner_refs": [
+        "Article III-F",
+        "Article XIII-A",
+        "Article XIII-B",
         "CF",
         "CI",
         "CS",
@@ -2471,6 +2503,17 @@
         {
           "label": "Systemic-pattern detection and escalation",
           "line": 1319,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Harm reports and corrective notices",
+          "line": 1336,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,

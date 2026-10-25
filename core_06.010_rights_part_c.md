@@ -149,6 +149,7 @@ If the system meets the importance threshold in **Article XIII** (*Right to Reli
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
+  - [**Article III-F** (*Safe Products and Health Information*)](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) — the floor for accurate product safety and health information; this Article is its systems-layer hook;
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) and **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access;
   - [**Article XIII-B** (*Right to Redress and Remedy*)](#article-xiii-b-right-to-redress-and-remedy) for what a successful challenge must lead to.
 

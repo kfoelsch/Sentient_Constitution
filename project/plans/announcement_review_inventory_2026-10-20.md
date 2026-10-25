@@ -330,6 +330,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [implementation/adoption/easy_entry/E16_worker_not_owner.md](../../implementation/adoption/easy_entry/E16_worker_not_owner.md) | Pending |
 | [implementation/adoption/easy_entry/E17_student.md](../../implementation/adoption/easy_entry/E17_student.md) | Pending |
 | [implementation/adoption/easy_entry/E18_caregiver_of_adult.md](../../implementation/adoption/easy_entry/E18_caregiver_of_adult.md) | Pending |
+| [implementation/adoption/easy_entry/E19_label_reliance.md](../../implementation/adoption/easy_entry/E19_label_reliance.md) | Pending |
 | [implementation/adoption/easy_entry/G01_challenge_review_redress.md](../../implementation/adoption/easy_entry/G01_challenge_review_redress.md) | Pending |
 | [implementation/adoption/easy_entry/G02_independent_review.md](../../implementation/adoption/easy_entry/G02_independent_review.md) | Pending |
 | [implementation/adoption/easy_entry/G03_certification.md](../../implementation/adoption/easy_entry/G03_certification.md) | Pending |
