@@ -32,8 +32,14 @@ class WrapperCiteTests(unittest.TestCase):
         line = "[CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md)"
         self.assertEqual(self._kinds(line), [])
 
-    def test_ignores_other_wrappers_by_default(self) -> None:
+    def test_narrowed_wrapper_list_ignores_other_wrappers(self) -> None:
         self.assertEqual(self._kinds("[corpus_institutions.md](corpus_institutions.md)"), [])
+
+    def test_default_checks_every_layer_wrapper(self) -> None:
+        rel = "core_05.040_band_continuity.md"
+        for name in ALL_WRAPPERS:
+            findings = scan_text(rel, f"Body cites [{name}]({name}) here.\n")
+            self.assertEqual([f.kind for f in findings], ["link"], name)
 
     def test_all_wrappers_flags_institutions(self) -> None:
         self.assertEqual(

@@ -10,9 +10,10 @@ subfile, not the wrapper. This audit finds every place the wrapper is cited as
 a source: a Markdown link whose target is the wrapper, or the file name written
 in prose or in backticks.
 
-Default wrapper: ``corpus_systems.md``. ``--wrapper NAME`` (repeatable) or
-``--all-wrappers`` adds the other layer wrappers (``corpus_institutions.md``,
-``corpus_joint_structure.md``, ``corpus_forum.md``).
+Default wrappers: all four (``corpus_systems.md``, ``corpus_institutions.md``,
+``corpus_joint_structure.md``, ``corpus_forum.md``). ``--wrapper NAME``
+(repeatable) narrows the check to the named wrapper(s); ``--all-wrappers`` is
+kept as an explicit spelling of the default.
 
 Out of scope (navigation, not citation):
 
@@ -52,7 +53,7 @@ ALL_WRAPPERS = (
     "corpus_joint_structure.md",
     "corpus_forum.md",
 )
-DEFAULT_WRAPPERS = ("corpus_systems.md",)
+DEFAULT_WRAPPERS = ALL_WRAPPERS
 
 # Files that incorporate the layers: a list entry opening with the wrapper link
 # is an inventory entry, not a citation.
@@ -93,12 +94,12 @@ def parse_args() -> argparse.Namespace:
         "--wrapper",
         action="append",
         dest="wrappers",
-        help="Wrapper file name to check (repeatable). Default: corpus_systems.md.",
+        help="Wrapper file name to check (repeatable). Default: all four layer wrappers.",
     )
     parser.add_argument(
         "--all-wrappers",
         action="store_true",
-        help="Check all four layer wrappers.",
+        help="Check all four layer wrappers (the default).",
     )
     parser.add_argument(
         "--paths",

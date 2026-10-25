@@ -1750,7 +1750,7 @@ This Article sets out the right to form institutions and enterprises, the condit
   - gathering and association are covered by **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*);
   - organizing workers within existing productive systems is covered by [Collective Organization](core_05.055_band_participation.md#collective-organization) under **Article III-C** (*Labor and Economic Floor*); and
   - once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), the stakeholder rights in **Articles X-C** and **XII** apply to it.
-- **Implementation:** Registration, [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Eighteen** incorporation discipline. The issuers, equivalent routes, fees, and review of a practice licence or practice clearance, and the joint professional practice route, route there too (**CI-14.205 §7** (*Practice licence, practice clearance, and joint professional practice*)). That text must not be read to narrow this right beyond the two narrow gates and the practice licence and practice clearance.
+- **Implementation:** Registration, [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*), [CI-6.210](corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-6210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*), and [CI-11.210](corpus_institutions/ci_11.210_institutional_failure_dissolution.md#ci-11210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) under **Chapter Eighteen** incorporation discipline. The issuers, equivalent routes, fees, and review of a practice licence or practice clearance, and the joint professional practice route, route there too (**CI-14.205 §7** (*Practice licence, practice clearance, and joint professional practice*)). That text must not be read to narrow this right beyond the two narrow gates and the practice licence and practice clearance.
 
 #### Article XI-F: Non-Imposition and Consent in Association
 <details>
@@ -2152,7 +2152,7 @@ This Article sets out the non-capture safeguards for every body that decides for
 - **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures are governed by:
   - [**CI-14.205**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
   - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
-  - for forum panels, **CF-13.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*) in [corpus_forum.md](corpus_forum.md).
+  - for forum panels, **CF-13.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 
 #### Article XII-E: Influence-Contact and Lobbying Boundaries
 
@@ -2243,7 +2243,7 @@ This Article sets out the following floors:
   - [**CI-14.205**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*), including **CI-14.205 §2** (*Role criteria, appointment standards, and removal pathways*) for post-service rules;
   - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - **CJS-5.110 §6** (*integrity assurance and resilience operations*), *Influence-contact and lobbying boundaries*;
-  - for forum panels, **CF-13.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) in [corpus_forum.md](corpus_forum.md).
+  - for forum panels, **CF-13.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 ---
 

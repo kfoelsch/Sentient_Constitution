@@ -674,7 +674,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Merits Determination](core_05.035_band_accountability.md#merits-determination),
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), and
   - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation).
-- Read with: owner layers in [core_13.000_forum.md](core_13.000_forum.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_forum.md](corpus_forum.md).
+- Read with: owner layers in [core_13.000_forum.md](core_13.000_forum.md), [CF-13.420](corpus_forum/cf_13.420_appeal_secondary_review_exhaustion_pathways.md#cf-13420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*), [CI-13.205](corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md#ci-13205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), and [CI-11.205](corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md#ci-11205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -837,8 +837,8 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), the
   - [Chapter Ten §7 unified scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (10.000 §7) (*numeric Violation Axis slot assignment from verified impact*),
   - [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in
-  - [corpus_forum.md](corpus_forum.md) and
-  - [corpus_institutions.md](corpus_institutions.md).
+  - [CF-13.425](corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-13425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and
+  - [CI-11.215](corpus_institutions/ci_11.215_institutional_accountability_sanctions.md#ci-11215-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
 
 </details>
 
@@ -3165,7 +3165,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Thirteen §4.3](core_13.000_forum.md#43-institutional-forums) (13.000 §4.3); read with [corpus_institutions.md](corpus_institutions.md) supervised-scope language.
+- Owner: [Chapter Thirteen §4.3](core_13.000_forum.md#43-institutional-forums) (13.000 §4.3); read with [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) supervised-scope language.
 
 </details>
 
