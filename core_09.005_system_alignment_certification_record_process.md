@@ -832,7 +832,7 @@ A **System Certification Record** is **scope-bound** and **time-bound**. It must
 - **General triggers:**
   - a material change in the system, its use, or its operating context;
   - concealed behavior;
-  - dependency growth, including growing reliance on the system and growing extraction from shared foundations;
+  - dependency growth, including growing reliance on the system and growing extraction from shared foundations, and including concentration past a level an adopter has set under [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) (the step-up does not wait for a level: [Part A §2.2](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation));
   - a significant fall in the system's return flows (what it puts back into those foundations), under [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support);
   - new risk;
   - incident history;
