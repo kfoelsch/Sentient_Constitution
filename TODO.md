@@ -2,16 +2,12 @@
 
 **2026-10-21 cleanup:** Completed work moved to [TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md). The complete pre-cleanup file is preserved in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md). Older TODO/MEMLOG snapshots removed 2026-06-17 can be retrieved from Git history. Canonical architecture archives remain under [README.md](README.md) *Binding vs support* and [doc_architecture.md](doc_architecture.md).
 
-**2026-10-23 closeout:** The five chart conversions are complete; the audit and policy follow-up remain open. See [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
-
 ## Announcement preparation — 2026-10-20
 
 The [working announcement plan](project/plans/announcement_readiness_2026-10-20.md) records the schedule through December 31, [review inventory](project/plans/announcement_review_inventory_2026-10-20.md), batch evidence, and decision queue. It does not waive the publication spec or authorize release.
 
 - [ ] Execute the [case packet](project/trials/agent_cooperative_2026-10-20/CASE_PACKET.md) in a fresh session without the preparer's analysis; retain outputs, assistance, effort, missed gates, and retest results. Human-operator evidence remains separate.
 - [ ] Complete the non-core review batches and reopen affected portions when governing core changes.
-
-The desk walkthrough and decision D01 are archived in [TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md).
 
 ## Current Chapter Map
 
@@ -69,7 +65,6 @@ Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md]
 
 ### Chapter Nine Part D — open follow-ups
 
-- The Preamble owner-register and process-map entries and current CS-9.305 institution-class pointer are complete; see [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 - [ ] Sync translations after wording settles.
 
@@ -77,20 +72,17 @@ Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md]
 
 The signoffs and lifted-hold reference are in [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md); see also [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md).
 
-Chapter Five Formation Check and Remediation Readiness entries and Chapter Thirteen routing are complete; see [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
 - [ ] Sync translations after wording settles.
 
 ### Article XI-E gates and Institutional Authority Standing Lock — open follow-ups
 
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
-- The Chapter Five Institutional Authority Standing Lock entry is complete. Chapter Eleven already routes the lock in its operative prose and contains no integration table to extend; see [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
 - [ ] Sync translations after wording settles.
 
 ### Interim Hold standard — open follow-ups
 
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 - [ ] Revisit deferred applications after the first three applications run in practice: stakeholder-weight escrow, and holds on holders of authority over Class A, B, or C systems on grave anti-constitutional allegations.
-- The Preamble owner-register Interim Hold pointer and current CS-6.355 §4.1 pointer are complete; see [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
 - [ ] Sync translations after wording settles.
 
 ### Process-level granularity — Option B
@@ -99,10 +91,6 @@ The completed Option A review and process definitions are in [TODO_RESOLVED_2026
 
 - [ ] Draft the Lane D core proposal for Chapter Nine Part B §8.1 and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise.
 - [ ] Connect the process-ownership draft's floor-touching test and certification terminology to the Option B guardrail and naming decision.
-
-### Chapter One structure and principle alignment
-
-The 2026-10-23 signoffs and completed edits are archived in [TODO_RESOLVED_2026-10-23.md](archive/TODO_RESOLVED_2026-10-23.md). The generated principle-to-definitions map is at [PRINCIPLE_TO_DEFINITIONS_MAP.md](project/plain_language/PRINCIPLE_TO_DEFINITIONS_MAP.md).
 
 ### Process, system, and institution — potential follow-ups
 

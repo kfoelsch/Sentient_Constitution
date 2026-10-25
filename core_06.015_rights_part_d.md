@@ -323,7 +323,7 @@ This Article sets out how contribution, competency bars, and named-pathway eligi
     - published periodic retesting;
     - a verified material change in the capacity the role actually requires; or
     - an applicable standing lock ([Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*)).
-  - **Capacity reassessments:** A reassessment must look at the capacity the role needs, not at disability or health status as such. Accommodation, support, or a narrower role must be considered before clearance is withdrawn.
+  - **Capacity reassessments:** A reassessment must look at the capacity the role needs now, not at disability or health status as such, under [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help). Accommodation, support, or a narrower role must be considered before clearance is withdrawn.
   - **Not a finding of wrongdoing:** Limiting or withdrawing clearance after retesting or a capacity change says nothing about misconduct. The review rules in [Article XIX-B](#article-xix-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*) apply.
   - **Clearance never overrides a lock:** Holding a clearance does not lift or waive a standing lock on the same named pathway.
   - **What a bar or clearance is not:** reputation, social prestige, insider sponsorship, a credential monopoly, a rank in dignity, or a permanent entitlement.

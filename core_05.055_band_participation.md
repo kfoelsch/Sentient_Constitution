@@ -45,7 +45,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 
 - Owner floor: [Article VI-D](core_06.005_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*). Cross-cutting evaluation-factor hook: [Chapter Nine §5.5](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (9.000 §5.5). Education-specific accessibility remains governed by [Article IV-A](core_06.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*) and is not narrowed by this entry.
 - Downstream: Participation measurement family (*Accessibility as constitutional measurement*); [Chapter Nine §5.5](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (9.000 §5.5) (*accessibility evaluation where certification gates substantive participation*).
-- Upstream: Principles: [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness) (1.000 §3.1) — especially [Chapter One §3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity) (1.000 §3.1.1).
+- Upstream: Principles: [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness) (1.000 §3.1) — especially [Chapter One §3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity) (1.000 §3.1.1) and [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help) (1.000 §3.1.5) (*needs that change; reaching sentients who cannot respond*).
 - Read with:
   - [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics),
   - [Protected Characteristic Proxying and Disparate Impact](core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
@@ -453,14 +453,15 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** where assembly, collective organization, system creation, or business creation is material.
-- **Scope:** where joint invocation is met, the Participation home for two questions — can sentients gather and organize together, and can they form new institutions and enterprises? These Rights-Floor definitions implement [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency) through substrate-agnostic collective and institutional capacity.
+- **Joint invocation:** where assembly, collective organization, system creation, business creation, or the conditions on offering things that can injure others is material.
+- **Scope:** where joint invocation is met, the Participation home for three questions — can sentients gather and organize together, can they form new institutions and enterprises, and on what conditions may they offer others things that can injure them? These Rights-Floor definitions implement [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency) through substrate-agnostic collective and institutional capacity.
 
 **Topic group members.** This group comprises:
 - [Assembly](core_05.055_band_participation.md#assembly) — gathering and association for expressive, political, and community purposes.
 - [Collective Organization](core_05.055_band_participation.md#collective-organization) — worker organizing and collective bargaining within productive activity.
 - [System Creation](core_05.055_band_participation.md#system-creation) — establishing non-commercial institutions (educational, cultural, scientific, mutual aid, and comparable forms).
 - [Business Creation](core_05.055_band_participation.md#business-creation) — entrepreneurial and commercial enterprise formation.
+- [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance) — conditions a party accepts by offering others something that can injure them; not compelled speech.
 
 <a id="creation-rights-limits"></a>
 
@@ -756,6 +757,69 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
     - retaliation, surveillance, or targeting against sentients engaged in constitutionally protected business creation;
     - authorization regimes whose primary effect is to privilege incumbent commercial entities while chilling novel or competing entrepreneurial forms; or
     - shutting a business out of the basic tools it needs to operate — infrastructure, capital markets, fiscal tools, or legal recognition as a business — while comparable businesses doing similar work can get them.
+
+---
+
+#### Commercial Compliance
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles:
+  - [Chapter One §4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint);
+  - [Chapter One §5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+  - [Chapter One §7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline).
+- Owner floor:
+  - [Article XI-B](core_06.005_rights_part_b.md#article-xi-b-expression) (*Expression*) for the line between compelled speech and Commercial Compliance;
+  - [Article III-F](core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*) for conditions on offering things that can affect body or health;
+  - [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) for practice licence and practice clearance.
+- Cluster component: [the Assembly, Collective Organization, and Institutional Formation cluster](core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation).
+- Read with:
+  - [Expression](core_05.055_band_participation.md#expression),
+  - [Business Creation](core_05.055_band_participation.md#business-creation),
+  - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden),
+  - [Competency Clearance](core_05.035_band_accountability.md#competency-clearance),
+  - [Risk](core_05.040_band_continuity.md#risk),
+  - [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality),
+  - [Contestability](core_05.035_band_accountability.md#contestability),
+  - [Necessity](core_05.035_band_accountability.md#necessity), and
+  - [Proportionality](core_05.035_band_accountability.md#proportionality).
+
+</details>
+
+<br>
+
+*In plain terms: Commercial Compliance is the price of offering others something that can hurt them. A sentient who offers a product, service, or system to others, where they cannot easily judge or avoid the risk, accepts conditions that match the risk: telling the verifiable facts about it, meeting a safety standard, keeping records, and reporting and fixing harm. It is not compelled speech. It is tied to the offer, it asks for facts and never for opinion, and it cannot be used to silence anyone or to cut off what someone needs to live.*
+
+- **What it is**
+  - **In scope:**
+    - A condition on offering others a good, service, or system whose use can cause credible bodily harm, or comparably serious harm, to recipients who cannot easily judge or avoid the risk.
+    - "Offering" covers selling, supplying, listing, recommending, and giving away as part of an activity that reaches others, whether or not a price is charged.
+    - Conditions can include meeting a stated safety standard, disclosing verifiable facts about the thing offered (contents, hazards, test results, known defects), registration or certification, keeping records, taking in harm reports, and giving notice of defects and correcting them.
+    - Known cases: practice licence and practice clearance (**Article XI-E** (*Institutional Formation and Business Creation*)); certification before go-live; lifecycle records and up-front disclosure of operator dependencies (**Article II-A** (*Material Stewardship and Lifecycle Honesty*) and **Article II-D** (*Post-Sale Access and Subscription Integrity*)); and safety and health information (**Article III-F** (*Safe Products and Health Information*)).
+  - **Out of scope:**
+    - compelled speech, which is any requirement to state, endorse, or carry a message of opinion, belief, identity, or affiliation, and is judged under [Expression](core_05.055_band_participation.md#expression) and **Article XI-B** (*Expression*);
+    - any condition on forming, running, joining, or being served by an enterprise, which stays under [Business Creation](core_05.055_band_participation.md#business-creation); or
+    - private, personal sharing that is not part of an activity offered to others at large.
+<a id="commercial-compliance-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* Use it here to ask whether a condition on offering protects recipients from harm they cannot judge or avoid, without reaching into what anyone may say or into what recipients need to live.
+
+    **Primary assessment:** Sort the rule with four questions. Each must be answered yes:
+    - **Offer:** does it attach to the act of offering something to others, and not to a sentient as a speaker, believer, or member of a group?
+    - **Fact:** does it require only verifiable facts about the thing offered, and never opinion, praise, belief, or affiliation?
+    - **Risk:** is it tied to a published finding that the thing offered carries a credible route to bodily or comparably serious harm for recipients who cannot easily judge or avoid it?
+    - **Least:** is there no lighter measure that would protect them, is it the same rule for every party making that kind of offer, and can it be contested and reviewed, with the burden on the party that imposes it ([Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden), [Necessity](core_05.035_band_accountability.md#necessity), and [Proportionality](core_05.035_band_accountability.md#proportionality))?
+
+    Two further checks apply. The condition leaves a sentient free to say anything else about the thing offered, and it is not enforced by cutting off survival-critical access.
+<a id="commercial-compliance-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant to:
+    - call a rule Commercial Compliance when it requires opinion, endorsement, or affiliation, or when it attaches to who someone is rather than what they offer;
+    - use a condition to silence warnings, criticism, or protected reports, or to require silence about a hazard;
+    - enforce a condition by cutting off survival-critical access;
+    - impose a condition where a lighter measure would protect recipients, or apply it to some parties and not to others making the same offer; or
+    - use a condition against dissenters, reporters, or worker organizers, to block a sentient from forming or running an enterprise, or to privilege incumbents.
 
 ---
 
@@ -3440,7 +3504,7 @@ See **Anti-Segmentation Principle**.
   - **Out of scope:**
     - mere assembly logistics;
     - commercial spam; or
-    - compelled speech —
+    - compelled speech (a rule that makes a sentient state, endorse, or carry a message of opinion, belief, identity, or affiliation; a condition that meets [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance) is a different thing and is not compelled speech) —
     those are not protected expression under this home.
 <a id="expression-constitutional-a"></a>
 - **How to measure and assess**
@@ -3808,7 +3872,8 @@ See **Anti-Segmentation Principle**.
 - Read with:
   - [Developing Sentient](core_05.055_band_participation.md#developing-sentient),
   - [Best-Interest Standard](core_05.055_band_participation.md#best-interest-standard),
-  - [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight), and
+  - [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight),
+  - [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help) (*judged by present ability, whether it grows or falls*), and
   - [Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility) (14.000 §4.1) no-age-proxy discipline.
 - Boundary: this entry is the scaling rule for how a [Developing Sentient](core_05.055_band_participation.md#developing-sentient) takes part and exercises rights. It does not define who counts as developing, and it does not replace [Best-Interest Standard](core_05.055_band_participation.md#best-interest-standard) for decisions made about them.
 </details>

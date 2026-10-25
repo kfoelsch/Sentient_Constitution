@@ -43,6 +43,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Collective Organization",
         "System Creation",
         "Business Creation",
+        "Commercial Compliance",
     ],
     "#### Constitutional efficiency, productive capacity, avoidable burden, and burden-reduction duty": [
         "Shared-System Capacity",

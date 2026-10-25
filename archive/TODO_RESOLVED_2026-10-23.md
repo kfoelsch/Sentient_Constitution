@@ -33,3 +33,13 @@ The D02 evidence dependency remains active in [TODO.md](../TODO.md) and the [ann
 - **Interim Hold:** Added the Preamble owner-register pointer and a CS-6.355 §4.1 cross-reference distinguishing system-level node exclusion from a hold on a named sentient's authority.
 
 Related adoption and translation work remains open in [TODO.md](../TODO.md). Deferred Interim Hold applications remain conditional on the first three applications running in practice.
+
+## Numbering and terminology passes (custodian, 2026-10-22 to 2026-10-23)
+
+Wording, structure, and numbering only; no rule, clock, or duty changed. Full entries are in [doc_architecture.md](../doc_architecture.md) (moves 109–116).
+
+- **Chapter Nine reading index (move 109):** the Chapter Nine pointer file was removed and its useful content folded into Part A.
+- **Core numbering (moves 110–111):** Chapter Nine Part A is now the chapter home at `.000`; Chapters One, Six, and Twelve were renumbered so each starts at `.000`. Live references moved in one pass.
+- **Chapter Nine Part A (moves 112–113):** restructured §1 and §2 (new §1.1, §1.2, and §2.1), and moved the run sheet to a new CS-9.315.
+- **"Level" and "tier" (moves 114–115):** forum time-scale levels are now settings; Notification and Correction Urgency became NU-1 to NU-4 and CU-1 to CU-4. "Tier" now names only the forum urgency tiers (Tier A/B/C/L/P) and is replaced elsewhere by layer, a named-scale level, exposure group, or paid plan. The new `avoid-bare-level` lexical rule is in the guardrail list.
+- **Bare "floor" (move 116):** 11 wording changes outside Chapters Zero, One, Five, and Six; uses that name the Rights Floor stay.
