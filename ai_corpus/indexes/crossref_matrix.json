@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-25T02:27:30+00:00",
+  "generated_at": "2026-10-25T06:57:48+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "format": "interned-v1",
   "layout": {"nodes": "[id, type]", "anchors": "distinct anchor strings", "edges": "[source_index, [[target_index, count, [anchor_index, ...]], ...]]"},
@@ -1195,7 +1195,7 @@
     "#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive",
     "#524-illustrative-educational-capability-application-by-system-class-non-exhaustive",
     "#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
-    "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
+    "#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
     "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
     "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
     "#chapter-nine-part-c-system-alignment-certification--illustrations",

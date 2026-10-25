@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **718** of **1110** headings carry a gloss (65%).
+Coverage: **719** of **1109** headings carry a gloss (65%).
 
 ## Contents
 
@@ -32,7 +32,7 @@ Coverage: **718** of **1110** headings carry a gloss (65%).
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
-- [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (16/60 glossed)
+- [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/59 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (13/25 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09.010_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/23 glossed)
@@ -3725,7 +3725,7 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 ## CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 16/60 headings glossed
+Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../core_09.000_system_alignment_certification_evaluation.md) · 17/59 headings glossed
 
 #### 1. Purpose and Role
 
@@ -3987,33 +3987,27 @@ some systems depend on shared foundations — infrastructure, services, and reso
 
 ##### 5.4 Nondiscrimination Evaluation
 
-when a system materially decides who gets in, who pays more, who ranks lower, or who bears worse burdens, certification has to check whether that pattern loads harm onto protected characteristics or their proxies — not whether the operator says the rules are neutral. Inclusion quotas and specific fairness algorithms may live in other documents, later corpus additions, or adoption documents; certification checks that burden-and-benefit patterns and proxy risk were actually evaluated where the trigger applies. Worked examples: [§5.4.5 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).
+some systems decide who gets in. Some decide who pays more. Some decide who ranks lower or carries the heavier burden. When a system makes decisions like these in a way that matters, certification asks one question. Does the harm fall mostly on sentients with protected characteristics, or on traits that stand in for them? An operator saying its rules are neutral does not answer that question. Worked examples: [§5.4.4 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)
 
-###### 5.4.1 Materiality Trigger and Governing Rules
+###### 5.4.1 Evaluation Requirement
+
+this chapter does not set inclusion quotas. It does not pick a fairness formula. Other documents may cover those. So may later additions to the corpus, or the documents an adopter writes. Certification only checks that someone actually looked at who gets the benefits, who bears the burdens, and whether stand-ins for protected traits are at work. That check applies wherever the trigger applies.
+
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#541-evaluation-requirement)
+
+###### 5.4.2 System Class Scaling and Escalation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#541-materiality-trigger-and-governing-rules)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#542-system-class-scaling-and-escalation)
 
-###### 5.4.2 Evaluation Requirement
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#542-evaluation-requirement)
-
-###### 5.4.3 System Class Scaling and Escalation
+###### 5.4.3 Defects and Misalignment
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#543-system-class-scaling-and-escalation)
-
-###### 5.4.4 Defects and Misalignment
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#544-defects-and-misalignment)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#543-defects-and-misalignment)
 
 ##### 5.5 Accessibility Evaluation
 
@@ -4235,7 +4229,7 @@ Source file: [`core_09.010_system_alignment_certification_illustrations.md`](../
 
 #### Illustrative System Class Profiles (Non-Exhaustive)
 
-system class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per system class; [Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive), [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), [§5.2.4 Illustrative educational-capability application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive), [§5.3.7 Illustrative cross-system support application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive), [§5.4.5 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), [§5.5.6 Illustrative accessibility application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive), and [§5.6.5 Illustrative trustworthiness application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, educational-capability, cross-system-support, nondiscrimination, accessibility, and trustworthiness evaluation apply to each.
+system class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per system class; [Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive), [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), [§5.2.4 Illustrative educational-capability application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive), [§5.3.7 Illustrative cross-system support application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive), [§5.4.4 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), [§5.5.6 Illustrative accessibility application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive), and [§5.6.5 Illustrative trustworthiness application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, educational-capability, cross-system-support, nondiscrimination, accessibility, and trustworthiness evaluation apply to each.
 
 [Source](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)
 
@@ -4275,15 +4269,15 @@ the system class table in [Illustrative System Class Profiles (Non-Exhaustive)](
 
 [Source](../../core_09.010_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive)
 
-#### 5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)
+#### 5.4.4. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)
 
 [Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.3.7 Illustrative cross-system support application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article VI-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive)
+[Source](../../core_09.010_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive)
 
 #### 5.5.6. Illustrative Accessibility Application by System Class (Non-Exhaustive)
 
-[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.4.5 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article VI-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Educational accessibility remains owned by **Article IV-A** (*Equal Educational Access*) and is not narrowed here.
+[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.4.4 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article VI-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Educational accessibility remains owned by **Article IV-A** (*Equal Educational Access*) and is not narrowed here.
 
 [Source](../../core_09.010_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive)
 
