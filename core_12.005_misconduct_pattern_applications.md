@@ -1051,7 +1051,7 @@ It routes evaluation of the named pattern into the existing designation criteria
 
 - Upstream:
   - [Chapter Eleven §5.5](core_11.000_standing_integration.md#55-special-locks) (11.000 §5.5) (*forum disclosure omission and recusal-process impact*);
-  - [Article XXV-C](core_06.015_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional forum recusal and enforcement routing*), applying the general floor in
+  - [Article XXV-C](core_06.015_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum recusal and enforcement routing*), applying the general floor in
   - [Article XII-D](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*);
   - **CF-13.410** (*panel formation, disclosure, recusal, and lawful bench constitution*).
 - Forum routing: [Chapter Thirteen §2](core_13.000_forum.md#2-default-venue-and-primary-stakes) (13.000 §2) (*Integrity default lead*); [Chapter Thirteen §3](core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (13.000 §3) (*cross-forum anti-self-judging rule*).
@@ -1094,12 +1094,12 @@ It routes evaluation of the named pattern into the existing designation criteria
   - backup routing; or
   - practical contestability.
 
-The pattern is especially heightened where the panelist sits on a **Constitutional forum** under **Article XXV-C** (*Constitutional Forum Independence and External Review*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
+The pattern is especially heightened where the panelist sits on a **Constitutional Forum** under **Article XXV-C** (*Constitutional Forum Independence and External Review*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
 - constitutional meaning;
 - validity review; or
 - class-wide structural remedy.
 
-**Forum routing.** Allegations whose **primary stake** is any of the following on a **Constitutional forum** panel default to **Integrity** forums under **Chapter Thirteen §2** (*Default venue and primary stakes*) and the **cross-forum anti-self-judging rule** in **Chapter Thirteen §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*):
+**Forum routing.** Allegations whose **primary stake** is any of the following on a **Constitutional Forum** panel default to **Integrity** forums under **Chapter Thirteen §2** (*Default venue and primary stakes*) and the **cross-forum anti-self-judging rule** in **Chapter Thirteen §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*):
 - **recusal failure**; or
 - **biased panel participation**.
 
@@ -1108,7 +1108,7 @@ A **Constitutional** forum must not be the sole final merits forum for its own *
 **Criteria routing.** Evaluators assess these patterns as follows:
 - **Criteria 1 and 2** — where deception, concealment, material omission, or conflict nondisclosure is implicated.
 - **Criterion 3** — where the failure produces material rollback or an equivalent structural workaround.
-- **Criterion 4** — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, unlawful constitutional effect, or selectively weakened enforcement or remedy — including where compromised **Constitutional forum** participation distorts interpretive outcomes.
+- **Criterion 4** — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, unlawful constitutional effect, or selectively weakened enforcement or remedy — including where compromised **Constitutional Forum** participation distorts interpretive outcomes.
 - **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through biased panel participation, capture of interpretive authority, or nullification of lawful recusal challenge.
 
 This subsection does **not**:

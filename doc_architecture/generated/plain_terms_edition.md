@@ -1633,37 +1633,37 @@ route a case to the forum family responsible for what is really at stake, not th
 
 ###### Forum Family, Sentient
 
-Sentient forums handle disputes between sentients about private or community duties, civil harm, restoration, or local norms when institutional power or constitutional validity is not the main question.
+Sentient Forums handle disputes between sentients about private or community duties, civil harm, restoration, or local norms when institutional power or constitutional validity is not the main question.
 
 [Source](../../core_05.035_band_accountability.md#forum-family-sentient)
 
 ###### Forum Family, Technical
 
-Technical forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.
+Technical Forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.
 
 [Source](../../core_05.035_band_accountability.md#forum-family-technical)
 
 ###### Forum Family, Institutional
 
-Institutional forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.
+Institutional Forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.
 
 [Source](../../core_05.035_band_accountability.md#forum-family-institutional)
 
 ###### Forum Family, Environment
 
-Environment forums handle disputes mainly about ecological integrity, environmental conditions, shared-system restoration, or environmental burdens.
+Environment Forums handle disputes mainly about ecological integrity, environmental conditions, shared-system restoration, or environmental burdens.
 
 [Source](../../core_05.035_band_accountability.md#forum-family-environment)
 
 ###### Forum Family, Integrity
 
-Integrity forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.
+Integrity Forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.
 
 [Source](../../core_05.035_band_accountability.md#forum-family-integrity)
 
 ###### Forum Family, Constitutional
 
-Constitutional forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.
+Constitutional Forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.
 
 [Source](../../core_05.035_band_accountability.md#forum-family-constitutional)
 
@@ -2867,7 +2867,7 @@ a shared unit for expressing full-life-equivalent benefit or loss when Chapter T
 
 ##### Natural Systems Standing
 
-life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must give material weight. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.
+life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must give material weight. They are not only raw materials to extract. A published representative may bring those interests to an Environment Forum in the system's own interest.
 
 [Source](../../core_05.055_band_participation.md#natural-systems-standing)
 
@@ -4081,7 +4081,7 @@ Source file: [`core_09.005_system_alignment_certification_record_process.md`](..
 
 #### 6. Forum Process
 
-certification is not a pile of opinions from different corners. Each kind of forum handles a defined piece of the work. One lawful review order decides what counts and in what order. A matching set of challenge routes lets affected parties push back at each step, without getting lost in internal bureaucracy or bounced between forums.
+certification is not a pile of opinions from different corners. The evaluation work can run side by side, but from here the record moves in order: review, then decision, then the published record. Each kind of forum handles a defined piece of the review, and one lead forum brings the pieces together. Affected parties can challenge at the level where the dispute lives, without getting lost in internal bureaucracy or bounced between forums.
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#6-forum-process)
 
@@ -4097,31 +4097,31 @@ certifying that a system meets constitutional alignment requires an independent 
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)
 
-###### 6.1.2 Technical forums
+###### 6.1.2 Technical Forums
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#612-technical-forums)
 
-###### 6.1.3 Integrity forums
+###### 6.1.3 Integrity Forums
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#613-integrity-forums)
 
-###### 6.1.4 Environment forums
+###### 6.1.4 Environment Forums
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#614-environment-forums)
 
-###### 6.1.5 Sentient forums
+###### 6.1.5 Sentient Forums
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#615-sentient-forums)
 
-###### 6.1.6 Institutional forums
+###### 6.1.6 Institutional Forums
 
 *(no plain-terms gloss in source)*
 
@@ -5021,7 +5021,7 @@ this section assigns constitutional **participation** and **oversight** through 
 
 #### 2. Default venue and primary stakes
 
-each family's **first-touch desk** — the **intake triage body** — asks what the fight is really about, not what the caption says, then uses the default table to pick the lead forum. Technical forums maintain the system-alignment specifications, methods, and evidence standards; **Integrity** forums make the official alignment-certification and ongoing-validation judgment unless a component question belongs elsewhere. Sorting does not substitute for lawfully constituted merits panels; mixed stakes, asymmetry, and standing-record contests are in the subsections below.
+each family's **first-touch desk** — the **intake triage body** — asks what the fight is really about, not what the caption says, then uses the default table to pick the lead forum. Technical Forums maintain the system-alignment specifications, methods, and evidence standards; **Integrity** forums make the official alignment-certification and ongoing-validation judgment unless a component question belongs elsewhere. Sorting does not substitute for lawfully constituted merits panels; mixed stakes, asymmetry, and standing-record contests are in the subsections below.
 
 [Source](../../core_13.000_forum.md#2-default-venue-and-primary-stakes)
 
@@ -5051,11 +5051,11 @@ when many **affected** **parties** share the same underlying harm pattern, forum
 
 #### 4. Forum family definitions — accountability through adjudication
 
-adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§4.2** (*Technical Forum Domains*) and **§4.7** (*Provisional implementation operational law*)); Constitutional disposition is in **§4.6** (*Constitutional forums*); certification when stakes merge is in **section 5**.
+adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§4.2** (*Technical Forum Domains*) and **§4.7** (*Provisional implementation operational law*)); Constitutional disposition is in **§4.6** (*Constitutional Forums*); certification when stakes merge is in **section 5**.
 
 [Source](../../core_13.000_forum.md#4-forum-family-definitions--accountability-through-adjudication)
 
-##### 4.1 Sentient forums
+##### 4.1 Sentient Forums
 
 *(no plain-terms gloss in source)*
 
@@ -5067,25 +5067,25 @@ adopters keep six genuinely different forum tracks — sentient, technical, inst
 
 [Source](../../core_13.000_forum.md#42-technical-forum-domains)
 
-##### 4.3 Institutional forums
+##### 4.3 Institutional Forums
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_13.000_forum.md#43-institutional-forums)
 
-##### 4.4 Environment forums
+##### 4.4 Environment Forums
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_13.000_forum.md#44-environment-forums)
 
-##### 4.5 Integrity forums
+##### 4.5 Integrity Forums
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_13.000_forum.md#45-integrity-forums)
 
-##### 4.6 Constitutional forums
+##### 4.6 Constitutional Forums
 
 *(no plain-terms gloss in source)*
 
@@ -6193,13 +6193,13 @@ when you are not sure, pick the fix you can walk back. Uncertainty cannot be use
 
 #### Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards
 
-**Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.
+**Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional Forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.
 
 [Source](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)
 
 ##### Article XXV-A: Bounded Interpretive Mandate and Public Reasons
 
-Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways. Every binding ruling must be published in time to challenge, with real reasons and the evidence behind them.
+Constitutional Forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways. Every binding ruling must be published in time to challenge, with real reasons and the evidence behind them.
 
 [Source](../../core_06.015_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons)
 
@@ -6211,13 +6211,13 @@ if a ruling affects you, you can ask a different body to look at it again — no
 
 ##### Article XXV-C: Constitutional Forum Independence and External Review
 
-the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.
+the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) apply to every decision-making body. **Constitutional Forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.
 
 [Source](../../core_06.015_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review)
 
 ##### Article XXV-D: Removal for Cause and Non-Entrenchment
 
-**Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards). For the bodies that interpret the Constitution, the ban on using "removal," "restructuring," or "redesign" as a weapon against independence or dissent is applied with special force.
+**Constitutional Forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards). For the bodies that interpret the Constitution, the ban on using "removal," "restructuring," or "redesign" as a weapon against independence or dissent is applied with special force.
 
 [Source](../../core_06.015_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment)
 

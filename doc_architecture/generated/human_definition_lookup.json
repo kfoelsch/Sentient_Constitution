@@ -117,7 +117,7 @@
       "href": "../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 278,
+  "term_count": 279,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -349,6 +349,13 @@
       "anchor": "#combatant-non-combatant-distinction-constitutional",
       "plain_terms": "combatant status depends on what an individual is doing at the time of the force decision. It cannot be assigned from demographic groups, protected characteristics, proxies, or convenient labels.",
       "href": "../../core_05.035_band_accountability.md#combatant--non-combatant-distinction"
+    },
+    {
+      "term": "Commercial Compliance",
+      "file": "core_05.055_band_participation.md",
+      "anchor": "#commercial-compliance",
+      "plain_terms": "Commercial Compliance is the price of offering others something that can hurt them. A sentient who offers a product, service, or system to others, where they cannot easily judge or avoid the risk, accepts conditions that match the risk: telling the verifiable facts about it, meeting a safety standard, keeping records, and reporting and fixing harm. It is not compelled speech. It is tied to the offer, it asks for facts and never for opinion, and it cannot be used to silence anyone or to cut off what someone needs to live.",
+      "href": "../../core_05.055_band_participation.md#commercial-compliance"
     },
     {
       "term": "Competency Bar",
@@ -753,42 +760,42 @@
       "term": "Forum Family, Constitutional",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-constitutional",
-      "plain_terms": "Constitutional forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.",
+      "plain_terms": "Constitutional Forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.",
       "href": "../../core_05.035_band_accountability.md#forum-family-constitutional"
     },
     {
       "term": "Forum Family, Environment",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-environment",
-      "plain_terms": "Environment forums handle disputes mainly about ecological integrity, environmental conditions, shared-system restoration, or environmental burdens.",
+      "plain_terms": "Environment Forums handle disputes mainly about ecological integrity, environmental conditions, shared-system restoration, or environmental burdens.",
       "href": "../../core_05.035_band_accountability.md#forum-family-environment"
     },
     {
       "term": "Forum Family, Institutional",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-institutional",
-      "plain_terms": "Institutional forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.",
+      "plain_terms": "Institutional Forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.",
       "href": "../../core_05.035_band_accountability.md#forum-family-institutional"
     },
     {
       "term": "Forum Family, Integrity",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-integrity",
-      "plain_terms": "Integrity forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.",
+      "plain_terms": "Integrity Forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.",
       "href": "../../core_05.035_band_accountability.md#forum-family-integrity"
     },
     {
       "term": "Forum Family, Sentient",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-sentient",
-      "plain_terms": "Sentient forums handle disputes between sentients about private or community duties, civil harm, restoration, or local norms when institutional power or constitutional validity is not the main question.",
+      "plain_terms": "Sentient Forums handle disputes between sentients about private or community duties, civil harm, restoration, or local norms when institutional power or constitutional validity is not the main question.",
       "href": "../../core_05.035_band_accountability.md#forum-family-sentient"
     },
     {
       "term": "Forum Family, Technical",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-technical",
-      "plain_terms": "Technical forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.",
+      "plain_terms": "Technical Forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.",
       "href": "../../core_05.035_band_accountability.md#forum-family-technical"
     },
     {
@@ -1243,7 +1250,7 @@
       "term": "Natural Systems Standing",
       "file": "core_05.055_band_participation.md",
       "anchor": "#natural-systems-standing",
-      "plain_terms": "life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must give material weight. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.",
+      "plain_terms": "life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must give material weight. They are not only raw materials to extract. A published representative may bring those interests to an Environment Forum in the system's own interest.",
       "href": "../../core_05.055_band_participation.md#natural-systems-standing"
     },
     {

@@ -326,7 +326,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Thirteen §4.4 Environment forums](core_13.000_forum.md#44-environment-forums) (13.000 §4.4) (*representative filing for continuity and integrity interests*).
+- Downstream: [Chapter Thirteen §4.4 Environment Forums](core_13.000_forum.md#44-environment-forums) (13.000 §4.4) (*representative filing for continuity and integrity interests*).
 - Read with:
   - [Indigenous Continuity](core_05.040_band_continuity.md#indigenous-continuity) (*indigenous-continuity holder as a published-representative class*);
   - [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity);
@@ -337,16 +337,16 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 
 <br>
 
-*In plain terms: life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must give material weight. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.*
+*In plain terms: life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must give material weight. They are not only raw materials to extract. A published representative may bring those interests to an Environment Forum in the system's own interest.*
 
 - **What it is**
-  - **In scope:** Life-supporting natural systems — including Earth's biosphere as described in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) — have continuity and integrity interests of their own. Interpretation and governance must weigh those interests alongside sentient interests, and must not treat natural systems only as raw materials to extract. Those continuity and integrity interests may be brought to an Environment forum by a published representative acting for the system, not only as a private sentient harm claim.
+  - **In scope:** Life-supporting natural systems — including Earth's biosphere as described in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) — have continuity and integrity interests of their own. Interpretation and governance must weigh those interests alongside sentient interests, and must not treat natural systems only as raw materials to extract. Those continuity and integrity interests may be brought to an Environment Forum by a published representative acting for the system, not only as a private sentient harm claim.
   - **Out of scope:** pretty scenery, raw-material stockpiles, or private land title alone — when no life-supporting continuity interest is at stake. This recognition does not make the system a sentient or a Chapter Six rights-holder.
 <a id="natural-systems-standing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether life-supporting natural systems' continuity and integrity interests are counted in interpretation and governance — not dismissed as scenery or stockpile — and whether a published representative may bring those interests to an Environment forum in the system's own interest.
+  - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether life-supporting natural systems' continuity and integrity interests are counted in interpretation and governance — not dismissed as scenery or stockpile — and whether a published representative may bring those interests to an Environment Forum in the system's own interest.
 
-    **Primary assessment:** Align with [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity), [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions), [Harm](core_05.035_band_accountability.md#harm), and [Risk](core_05.040_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition. [Chapter Thirteen §4.4 Environment forums](core_13.000_forum.md#44-environment-forums) states the Environment-forum filing floor; **CF-13.415** — Routing operations, transfer, certification, and representative treatment, recusal, and publication rules must implement, not narrow, that floor.
+    **Primary assessment:** Align with [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity), [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions), [Harm](core_05.035_band_accountability.md#harm), and [Risk](core_05.040_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition. [Chapter Thirteen §4.4 Environment Forums](core_13.000_forum.md#44-environment-forums) states the Environment-forum filing floor; **CF-13.415** — Routing operations, transfer, certification, and representative treatment, recusal, and publication rules must implement, not narrow, that floor.
 <a id="natural-systems-standing-c"></a>
 - **What must hold**
   - **Primary failure:**

@@ -3107,7 +3107,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Sentient forums handle disputes between sentients about private or community duties, civil harm, restoration, or local norms when institutional power or constitutional validity is not the main question.*
+*In plain terms: Sentient Forums handle disputes between sentients about private or community duties, civil harm, restoration, or local norms when institutional power or constitutional validity is not the main question.*
 
 - **What it is**
   - **In scope:** The forum family for sentient-versus-sentient disputes whose main stake concerns private or community obligations, civil harms, restoration, or local norms. It does not finally decide constitutional validity or, as the primary question, what an institution may or is charged to do.
@@ -3136,7 +3136,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Technical forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.*
+*In plain terms: Technical Forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.*
 
 - **What it is**
   - **In scope:** The forum family, including specialized chambers or panels within other families, for matters whose main stake is:
@@ -3171,7 +3171,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Institutional forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.*
+*In plain terms: Institutional Forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.*
 
 - **What it is**
   - **In scope:** The forum family for disputes where an institution is a necessary party or the main stake is what the institution may do, what it must do, how it is supervised, how adopted documents classify it, or whether it met its institutional duties.
@@ -3200,7 +3200,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Environment forums handle disputes mainly about ecological integrity, environmental conditions, shared-system restoration, or environmental burdens.*
+*In plain terms: Environment Forums handle disputes mainly about ecological integrity, environmental conditions, shared-system restoration, or environmental burdens.*
 
 - **What it is**
   - **In scope:** The forum family for matters whose main stake is ecological integrity, environmental preconditions, lifecycle or system-wide ecological harm, restoration or remediation of shared systems, attributable environmental burdens, or a pattern of ecological failure material to classification or Rights-Floor enforcement.
@@ -3229,7 +3229,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Integrity forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.*
+*In plain terms: Integrity Forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.*
 
 - **What it is**
   - **In scope:** The forum family for disputes whose main stake is:
@@ -3243,7 +3243,7 @@ See **Anti-Segmentation Principle**.
     - Chapter Ten impact measurement;
     - a corresponding Chapter Twelve anti-constitutional-misconduct designation; or
     - Rights-Floor enforcement.
-  - It includes the alignment rulings and coordinated records described in Chapter Thirteen §4.5 (*Integrity forums*).
+  - It includes the alignment rulings and coordinated records described in Chapter Thirteen §4.5 (*Integrity Forums*).
   - **Out of scope:**
     - Constitutional certification questions for structural validity or class-wide remedy; or
     - independent-family lead when Chapter Thirteen §3 (*Transfer, consolidation, and coordination — continuity and anti-capture*) requires anti-self-judging backup because the main accusation is that the same family is biased, captured, conflicted, or concealing material facts.
@@ -3273,7 +3273,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Constitutional forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.*
+*In plain terms: Constitutional Forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.*
 
 - **What it is**
   - **In scope:** The forum family that decides:
@@ -3291,7 +3291,7 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:**
     - Preserve **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*)-class review safeguards and Chapter Twelve due-process hooks when a lower family certifies or escalates a matter.
-    - Distinguish certified constitutional questions from provisional implementation rulings on operational law under Chapter Thirteen §4.6 (*Constitutional forums*), §4.7 (*Provisional implementation operational law*), and §5 (*Escalation and certification*).
+    - Distinguish certified constitutional questions from provisional implementation rulings on operational law under Chapter Thirteen §4.6 (*Constitutional Forums*), §4.7 (*Provisional implementation operational law*), and §5 (*Escalation and certification*).
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to treat temporary how-to-implement rulings or day-to-day operational detail as a final answer about constitutional meaning, validity, or a class-wide structural remedy. It is also non-compliant to weaken Chapter Thirteen §5 (*Escalation and certification*) certification so a family can skip it when those constitutional stakes are really present.

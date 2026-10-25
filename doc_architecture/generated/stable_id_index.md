@@ -67,7 +67,7 @@ Full router: [corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md](.
 | CJS-R06 | Forum integrity operations, anti-capture, anti-self-judging support | [**CF-13.425**](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) |
 | CJS-R07 | Forum forensic and analytical support | [**CF-13.430**](../../corpus_forum/cf_13.430_forum_forensic_analytical_support.md) |
 | CJS-R08 | Independent investigative service and prosecution interface | [**CF-13.435**](../../corpus_forum/cf_13.435_independent_investigative_service_prosecution_interface.md) |
-| CJS-R09 | Technical forums and specialist chambers | [**CF-13.440**](../../corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md) |
+| CJS-R09 | Technical Forums and specialist chambers | [**CF-13.440**](../../corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md) |
 | CJS-R10 | Forum performance, backlog requirements, publication timeliness, accessibility | [**CF-13.445**](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md) |
 | CJS-R11 | Forum continuity | [**CF-13.450**](../../corpus_forum/cf_13.450_forum_continuity.md) |
 | CJS-R11A | Fallback operation | [**CF-13.455**](../../corpus_forum/cf_13.455_fallback_operation.md) |

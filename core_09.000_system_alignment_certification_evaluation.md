@@ -163,7 +163,7 @@ flowchart TB
         Tr["§5 IIc — When triggered<br/><br/>Applicable Rights-Floor checks<br/>and six domain evaluations"]
         Al ~~~ Im ~~~ Tr
     end
-    F["§6 Phase III, Review<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>review challenge paths remain available"]
+    F["§6 Phase III, Review<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>challenge paths stay open"]
     Rec["§8 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, conditions, and operating plan"]
     S[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
     O{"§7 Phase IV, Decide<br/><br/>What outcome and status<br/>does the evidence support?"}
@@ -380,7 +380,7 @@ Participation and proportionality requirements scale the same way:
 - **Class A** systems require the strongest practicable participation paths, because errors can foreclose survival essentials before remedy is possible. These include:
   - accessible challenge;
   - stakeholder review; and
-  - findings from the forum family assigned the affected stake under [Part B §6.1 Forum supervision and component roles](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles), including Institutional or Sentient forums as that section requires.
+  - findings from the forum family assigned the affected stake under [Part B §6.1 Forum supervision and component roles](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles), including Institutional or Sentient Forums as that section requires.
 - **Class B** systems require robust participation where the system gates:
   - healthcare;
   - education;
