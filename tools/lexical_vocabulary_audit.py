@@ -182,6 +182,10 @@ _PATHWAY_BARE_PRECEDERS = frozenset(
 )
 _RIGHTS_FLOOR_CASING = re.compile(r"\b(?:rights floor|rights floors|rights-floor)\b")
 _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational rights)\b")
+# Forum family names are proper names (custodian decision, 2026-10-25): **Sentient Forums**, **Technical Forums**, **Institutional Forums**,
+# **Environment Forums**, **Integrity Forums**, **Constitutional Forums** (and the singular **Forum**) when the family is meant. Generic
+# uses stay lowercase: forum family, lead forum, the forum, forum process. Only a capitalized family name followed by lowercase forum(s) is flagged.
+_FORUM_FAMILY_CASING = re.compile(r"\b(?:Sentient|Technical|Institutional|Environment|Integrity|Constitutional) (?:forum|forums)\b")
 _SHOULD_NOT_PROHIBITION = re.compile(r"\bshould\s+not\b", re.IGNORECASE)
 _DEFINITION_MAP_LABEL = re.compile(r"\*\*Definition map\.\*\*|\bDefinition map\.", re.IGNORECASE)
 _ROUTER_READ_LABEL = re.compile(r"^\*\*Router read:\*\*", re.IGNORECASE)
@@ -556,6 +560,22 @@ def run_internal_regression_checks() -> None:
     if len(four_seat_findings) != 2:
         raise RuntimeError(
             "Internal regression failed: 'four-seat floor' was not flagged, or 'Four-Seat Requirement', the Rights Floor, a link target, code, or an id was flagged wrongly.",
+        )
+
+    forum_casing_findings = scan_load_bearing_capitalization(
+        "internal-regression.md",
+        "Sentient forums hear community disputes.\n"
+        "An Integrity forum leads the pass.\n"
+        "**Technical forums** supply findings.\n"
+        "The Environment forum family reviews ecology.\n"
+        "Sentient Forums, Technical Forum Domains, and Institutional Forums are correct.\n"
+        "Each forum family and the lead forum keep lowercase forum.\n"
+        "See [the section](core_13.000_forum.md#41-sentient-forums) and `Sentient forums` in code.\n"
+        "An anchor id=\"41-sentient-forums\" is not prose.\n",
+    )
+    if len(forum_casing_findings) != 4:
+        raise RuntimeError(
+            "Internal regression failed: a lowercase 'forum(s)' after a forum family name was not flagged, or a capitalized name, generic 'forum', a link target, code, or an id was flagged wrongly.",
         )
 
 
@@ -1351,7 +1371,7 @@ def _mask_inline_code_and_link_targets(line: str) -> str:
 
 
 def scan_load_bearing_capitalization(rel_path: str, text: str) -> list[Finding]:
-    """Require load-bearing **Rights Floor** / **Foundational Rights** casing outside links, code, and HTML ids."""
+    """Require load-bearing **Rights Floor** / **Foundational Rights** / forum-family-name casing outside links, code, and HTML ids."""
     findings: list[Finding] = []
     lines = text.splitlines()
     in_fence = False
@@ -1379,6 +1399,15 @@ def scan_load_bearing_capitalization(rel_path: str, text: str) -> list[Finding]:
                     file=rel_path,
                     line=idx,
                     rule="load-bearing-foundational-rights-casing",
+                    text=raw.strip(),
+                ),
+            )
+        if _FORUM_FAMILY_CASING.search(check_line):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="load-bearing-forum-family-casing",
                     text=raw.strip(),
                 ),
             )
@@ -1524,6 +1553,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-bare-level`:** in scoped files (the owners of a leveled scale: `core_05.055_band_participation.md`, `cs_14.305`, `cjs_05.110`, `cjs_05.115`, `cs_06.305`, `cs_06.310`), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, and any qualified compound. \"Tier\" names only the forum urgency tiers.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
+        "- **`load-bearing-forum-family-casing`:** reject lowercase **forum** / **forums** after a forum family name (**Sentient**, **Technical**, **Institutional**, **Environment**, **Integrity**, **Constitutional**) outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Sentient Forums**, **Technical Forums**, and so on when the family is meant. Generic uses (forum family, lead forum) stay lowercase.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
         "- **`avoid-definition-map-label`:** reject **Definition map.** → integrate term relationships in plain prose; use *In plain terms* for reader orientation.",
         "- **`avoid-router-read-label`:** reject **Router read:** in implementation-corpus body prose → use `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block.",

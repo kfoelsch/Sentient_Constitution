@@ -2107,7 +2107,7 @@ This Article sets out the non-capture safeguards for every body that decides for
     - the **appointing authorities** and **adopting institutions** that design, seat, rotate, and remove their members.
   - **How requirements scale:** Requirements scale with [material stake](core_00.000_preamble.md#material-stake) and dependency.
   - **Floors that apply to every such body:** disclosure, recusal, procedural gaming, and pretextual removal.
-  - **Constitutional forums:** Held to these safeguards at their most stringent under [**Article XXV-C**](core_06.015_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*) and [**Article XXV-D**](core_06.015_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment) (*Removal for Cause and Non-Entrenchment*).
+  - **Constitutional Forums:** Held to these safeguards at their most stringent under [**Article XXV-C**](core_06.015_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*) and [**Article XXV-D**](core_06.015_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment) (*Removal for Cause and Non-Entrenchment*).
 - **Composition and conflict-control floor:**
   - **Structure:** Covered bodies must be structured to:
     - preserve impartiality;

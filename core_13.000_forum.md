@@ -203,7 +203,7 @@ Institutional contest, secondary review, and integrity monitoring in the institu
 
 <br>
 
-*In plain terms: each family's **first-touch desk** — the **intake triage body** — asks what the fight is really about, not what the caption says, then uses the default table to pick the lead forum. Technical forums maintain the system-alignment specifications, methods, and evidence standards; **Integrity** forums make the official alignment-certification and ongoing-validation judgment unless a component question belongs elsewhere. Sorting does not substitute for lawfully constituted merits panels; mixed stakes, asymmetry, and standing-record contests are in the subsections below.*
+*In plain terms: each family's **first-touch desk** — the **intake triage body** — asks what the fight is really about, not what the caption says, then uses the default table to pick the lead forum. Technical Forums maintain the system-alignment specifications, methods, and evidence standards; **Integrity** forums make the official alignment-certification and ongoing-validation judgment unless a component question belongs elsewhere. Sorting does not substitute for lawfully constituted merits panels; mixed stakes, asymmetry, and standing-record contests are in the subsections below.*
 
 **Primary-stakes routing** assigns a matter to the forum family responsible for the main legal, remedial, coercive-safeguard, constitutional-floor, or practical stake in the **claim** or **defense**. It follows what the dispute is really about, not the caption or the party's preferred outcome.
 
@@ -258,7 +258,7 @@ At filing, **default** venue follows these rules unless **section 3** transfers 
 | **Technical Forum Domains** | Any party pattern, but **primary** stake is technical-governance procedure, system-alignment specifications, expert-evidence standards, scientific / engineering / medical administration, comparable knowledge-governance within adopted scope, **or** **Article VI-B** (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators / expert evidence / bounded uncertainty | **Technical** standards, system-alignment specifications, measurement and testing methods, expert administrative procedure, evidence stewardship, textbook or curriculum integrity, standards governance, bounded uncertainty-reduction relevant to adjudication, regulation, or alignment certification, **or** sentience-status indicator adjudication under **Article VI-B** (*Sentience-Status Adjudication Floor*) |
 | **Institutional** | Any **institution** is a **necessary** party **or** the main fight is about what an institution is allowed to do, what it is charged to do, or whether it followed the rules that govern it | What an institution may do, what it is charged to do, the scope it is supervised under, how it is classified, or whether it followed its duties |
 | **Environment** | Any party pattern; required component role where system alignment materially implicates ecological exposure | **Ecological integrity**, **environmental preconditions**, restoration or remediation of shared ecological systems, attributable environmental burdens, lifecycle or systemic ecological harm, environmental-alignment component review for systems with material ecological exposure, or **pattern** or **systemic** ecological failure where classification, alignment certification, recertification, or Rights-Floor enforcement depends on that determination |
-| **Integrity** | **Integrity** as **the** main issue (including **grave** breach of conflict, procedure, or capture controls), official **constitutional alignment certification** or **ongoing alignment validation** for systems and institutions, **or** a **Chapter Twelve** anti-constitutional-misconduct designation for a Chapter Ten **s = 7, 8, or 9** impact slot as **the** **primary** stake | **Integrity** of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, official system-alignment certification, validation, and recertification using technical-forum inputs and Environment forum environmental-alignment component determinations where material (**including** **pattern** or **systemic** failure **across** institutions or systems where **Chapter Ten** measurement, a corresponding **Chapter Twelve** designation, or **Rights-Floor** enforcement depends on that determination) |
+| **Integrity** | **Integrity** as **the** main issue (including **grave** breach of conflict, procedure, or capture controls), official **constitutional alignment certification** or **ongoing alignment validation** for systems and institutions, **or** a **Chapter Twelve** anti-constitutional-misconduct designation for a Chapter Ten **s = 7, 8, or 9** impact slot as **the** **primary** stake | **Integrity** of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, official system-alignment certification, validation, and recertification using technical-forum inputs and Environment Forum environmental-alignment component determinations where material (**including** **pattern** or **systemic** failure **across** institutions or systems where **Chapter Ten** measurement, a corresponding **Chapter Twelve** designation, or **Rights-Floor** enforcement depends on that determination) |
 | **Constitutional** | **Structural** constitutional validity, **norm** meaning for **all** interpreters, or remedy that **restructures** governance **by constitutional requirement** | **Constitutional** validity or meaning, action **beyond lawful authority**, supremacy, or **class-wide** **structural** remedy |
 
 <a id="21-lead-default-limits"></a>
@@ -378,7 +378,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 **Integrity-led alignment coordination:**
 - Where an **Integrity** forum issues an **alignment** ruling under **section** **4**, it **remains** the **lead** coordinating forum for **that** proceeding's **record**, as **section** **4** provides.
 - Where an **Integrity** forum conducts **constitutional alignment certification** for a new system or an Institution, or **ongoing alignment review** for an existing system or Institution, it remains the official lead forum for the alignment record unless primary-stakes routing, anti-self-judging protection, or certification assigns a component question elsewhere.
-- Where material ecological exposure exists, **Environment** forum environmental-alignment review is a required component of that lead record. Lead **Integrity** coordination must not finalize certification, validation, recertification, or material release from environmental conditions while a timely Environment forum objection, remediation condition, or certified environmental question remains unresolved.
+- Where material ecological exposure exists, **Environment** forum environmental-alignment review is a required component of that lead record. Lead **Integrity** coordination must not finalize certification, validation, recertification, or material release from environmental conditions while a timely Environment Forum objection, remediation condition, or certified environmental question remains unresolved.
 - **Component** matters **referred** or **certified** to **other** families **remain** with those forums for **primary-stakes** **merits**.
 - Lead **Integrity** coordination must not preempt final merits on non-integrity primary questions reserved to **Constitutional**, **Institutional**, **Environment**, **specialized technical**, or **Sentient** forums.
 - **Conflicting** **simultaneous** orders **must** be **resolved** through **published** **coordination** rules — **including** **stays** and **sequencing** in the **alignment** ruling or **implementation** text — **consistent** with **section** **7** and **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
@@ -438,7 +438,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 
 <br>
 
-*In plain terms: adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§4.2** (*Technical Forum Domains*) and **§4.7** (*Provisional implementation operational law*)); Constitutional disposition is in **§4.6** (*Constitutional forums*); certification when stakes merge is in **section 5**.*
+*In plain terms: adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§4.2** (*Technical Forum Domains*) and **§4.7** (*Provisional implementation operational law*)); Constitutional disposition is in **§4.6** (*Constitutional Forums*); certification when stakes merge is in **section 5**.*
 
 Operational family inventory, local title flexibility, and non-collapse mechanics live in [**CF-13.405**](corpus_forum/cf_13.405_forum_formation_chamber_structure.md) (*Forum formation, forum-structure mapping, and chamber structure*). Local titles may vary, but they do not change **section 2**’s default venue table.
 
@@ -450,9 +450,9 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 
 <a id="41-sentient-forums"></a>
 
-#### 4.1 Sentient forums
+#### 4.1 Sentient Forums
 
-**Primary stakes.** **Sentient forums** hear disputes whose **primary** character is:
+**Primary stakes.** **Sentient Forums** hear disputes whose **primary** character is:
 - **private** or **community** obligations;
 - **civil** harms;
 - **restoration**;
@@ -472,7 +472,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - comparable community self-governance records where the matter remains primarily interpersonal, community-restorative, or locally normative.
 
 **Community governance boundary.** Community governance bodies themselves are not a separate **forum family** under this chapter.
-- Their records, recommendations, delegated decisions, or omissions become matters for **Sentient forums** only where the **primary** stake fits this subsection, under [Dispute sequencing](#dispute-sequencing).
+- Their records, recommendations, delegated decisions, or omissions become matters for **Sentient Forums** only where the **primary** stake fits this subsection, under [Dispute sequencing](#dispute-sequencing).
 
 <a id="42-technical-forum-domains"></a>
 
@@ -513,9 +513,9 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 
 <a id="43-institutional-forums"></a>
 
-#### 4.3 Institutional forums
+#### 4.3 Institutional Forums
 
-**Primary stakes.** **Institutional forums** hear disputes in which **at least one institution** is a **necessary party**, or in which the **primary** stake is:
+**Primary stakes.** **Institutional Forums** hear disputes in which **at least one institution** is a **necessary party**, or in which the **primary** stake is:
 - what an institution is allowed to do;
 - what it is charged to do;
 - the scope it is supervised under;
@@ -531,15 +531,15 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - local enforcement of shared cross-jurisdiction or cross-institution standards;
 - institutional-mandate and Rights-Floor component questions in system-alignment proceedings where an institution is a necessary party or institutional mandate is primary.
 
-**Local enforcement.** Where shared cross-jurisdiction or cross-institution standards apply, **Institutional forums** are the default **local enforcement** forum unless primary-stakes routing places the matter elsewhere.
+**Local enforcement.** Where shared cross-jurisdiction or cross-institution standards apply, **Institutional Forums** are the default **local enforcement** forum unless primary-stakes routing places the matter elsewhere.
 
-**Alignment components.** **Institutional forums** hold reviewable institutional-mandate and Rights-Floor component authority in system-alignment certification and related proceedings where an institution is a necessary party, the operator or steward is institutional, or institutional mandate or supervised compliance is the primary stake.
+**Alignment components.** **Institutional Forums** hold reviewable institutional-mandate and Rights-Floor component authority in system-alignment certification and related proceedings where an institution is a necessary party, the operator or steward is institutional, or institutional mandate or supervised compliance is the primary stake.
 - **Integrity** forums remain the default official lead for whole-system and institutional constitutional alignment certification and validation.
 - Component detail for those proceedings lives in [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
-When a certification review finds misalignment or a defect, the **Integrity** lead routes the remediation-readiness finding through [Chapter Nine Part B §7.1](core_09.005_system_alignment_certification_record_process.md#71-remediation-readiness-willingness-and-capacity-to-correct) and, for an Institution, [Part D §13.5](core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution). The lead forum decides readiness; Technical forums supply capacity evidence and Institutional forums supply governance and incentive evidence where the cause lies there. The operator or steward supplies evidence but does not decide its own readiness. The finding, proof step, and any denial or revocation remain on the certification record and follow the Part B or Part D process; this creates no separate standing or merits track.
+When a certification review finds misalignment or a defect, the **Integrity** lead routes the remediation-readiness finding through [Chapter Nine Part B §7.1](core_09.005_system_alignment_certification_record_process.md#71-remediation-readiness-willingness-and-capacity-to-correct) and, for an Institution, [Part D §13.5](core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution). The lead forum decides readiness; Technical Forums supply capacity evidence and Institutional Forums supply governance and incentive evidence where the cause lies there. The operator or steward supplies evidence but does not decide its own readiness. The finding, proof step, and any denial or revocation remain on the certification record and follow the Part B or Part D process; this creates no separate standing or merits track.
 
-**Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Institutional forums** within their lawful scope.
+**Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Institutional Forums** within their lawful scope.
 
 **Internal process boundary.** This subsection applies [**Dispute sequencing**](#dispute-sequencing) under **section 1** to **Institutional** forums. A lawful institutional internal integrity process may precede **Integrity** forums under **section 3** where independence and contest safeguards hold.
 - Internal process labels do **not** displace **Institutional** forum merits on mandate, supervised scope, classification, or duty-compliance stakes.
@@ -547,9 +547,9 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 
 <a id="44-environment-forums"></a>
 
-#### 4.4 Environment forums
+#### 4.4 Environment Forums
 
-**Primary stakes.** **Environment forums** hear disputes whose **primary** stake is:
+**Primary stakes.** **Environment Forums** hear disputes whose **primary** stake is:
 - **ecological integrity**;
 - **environmental preconditions**;
 - **lifecycle** or **systemic** ecological **harm**;
@@ -568,7 +568,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 - pattern or systemic ecological failure material to classification, alignment certification, recertification, or Rights-Floor enforcement;
 - environmental-alignment component review for systems with material ecological exposure.
 
-**Alignment components.** **Environment forums** hold the reviewable environmental-alignment component for systems whose operation, dependency map, resource use, lifecycle effects, emissions, land or water impacts, biodiversity effects, waste streams, remediation obligations, or failure modes materially implicate ecological integrity or environmental preconditions — including where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk is present.
+**Alignment components.** **Environment Forums** hold the reviewable environmental-alignment component for systems whose operation, dependency map, resource use, lifecycle effects, emissions, land or water impacts, biodiversity effects, waste streams, remediation obligations, or failure modes materially implicate ecological integrity or environmental preconditions — including where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk is present.
 - Within ecological merits authority, they may issue:
   - environmental-alignment approval;
   - conditional approval;
@@ -576,16 +576,16 @@ When a certification review finds misalignment or a defect, the **Integrity** le
   - remediation requirements; or
   - release-from-condition findings.
 - **Integrity** forums remain the default official lead for whole-system and institutional constitutional alignment certification and validation.
-- Where material ecological exposure exists, timely Environment forum environmental-alignment findings are required component determinations; sequencing with Integrity lead coordination is governed by **section 3**.
+- Where material ecological exposure exists, timely Environment Forum environmental-alignment findings are required component determinations; sequencing with Integrity lead coordination is governed by **section 3**.
 - Component detail for those proceedings lives in [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
-**Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Environment forums** within their lawful scope.
+**Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Environment Forums** within their lawful scope.
 
 <a id="45-integrity-forums"></a>
 
-#### 4.5 Integrity forums
+#### 4.5 Integrity Forums
 
-**Primary stakes.** **Integrity forums** hear disputes whose **primary** stake is:
+**Primary stakes.** **Integrity Forums** hear disputes whose **primary** stake is:
 - integrity of office;
 - process;
 - contest pathways;
@@ -604,11 +604,11 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 - Chapter Twelve anti-constitutional-misconduct designation where that designation is the primary stake;
 - official system-alignment and institutional-alignment certification, validation, and recertification.
 
-**Alignment rulings.** Where necessary to resolve a matter within this family's jurisdiction, **Integrity forums** may issue **alignment rulings** that:
+**Alignment rulings.** Where necessary to resolve a matter within this family's jurisdiction, **Integrity Forums** may issue **alignment rulings** that:
 - diagnose interlocking **misalignment** among processes, systems, institutions, or contest pathways — including dependencies, choke-points, concealment or capture risk, and remedial sequencing;
 - state binding integrity findings on those points on the record before that forum.
 
-**Constitutional alignment certification and validation.** **Integrity forums** are the default official forum for certifying whether a new materially impactful system is constitutionally aligned enough to operate within its claimed scope, and for periodically validating whether existing systems remain aligned as their behavior, scale, dependency, incentives, or risk profile changes. They hold the same role for an Institution under [Chapter Nine Part D](core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification), where the forum body itself is an Institution and the anti-self-judging rules of **section 3** apply to it ([Chapter Nine Part D §14.5 Forums, certifiers, and record offices as institutions](core_09.015_institutional_alignment_certification.md#145-forums-certifiers-and-record-offices-as-institutions)).
+**Constitutional alignment certification and validation.** **Integrity Forums** are the default official forum for certifying whether a new materially impactful system is constitutionally aligned enough to operate within its claimed scope, and for periodically validating whether existing systems remain aligned as their behavior, scale, dependency, incentives, or risk profile changes. They hold the same role for an Institution under [Chapter Nine Part D](core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification), where the forum body itself is an Institution and the anti-self-judging rules of **section 3** apply to it ([Chapter Nine Part D §14.5 Forums, certifiers, and record offices as institutions](core_09.015_institutional_alignment_certification.md#145-forums-certifiers-and-record-offices-as-institutions)).
 - They apply technical-forum specifications, methods, and expert evidence where material, but their judgment also includes constitutional, institutional, ecological, rights, anti-capture, and remediation considerations.
 - Where material ecological exposure exists, the **Environment** forum family's environmental-alignment component determination is required before final certification, validation, recertification, or material release from environmental conditions; sequencing is governed by **section 3**.
 - Certification and validation must be evidence-based, contestable, and traceable under **Chapters Two through Four**, **Chapter Ten**, **Chapter Six**, and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*).
@@ -641,9 +641,9 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 
 <a id="46-constitutional-forums"></a>
 
-#### 4.6 Constitutional forums
+#### 4.6 Constitutional Forums
 
-**Primary stakes.** **Constitutional forums** hear disputes whose **primary** stake is:
+**Primary stakes.** **Constitutional Forums** hear disputes whose **primary** stake is:
 - the validity and meaning of **constitutional** provisions;
 - **structural** remedies that alter governance for **classes** of actors or systems;
 - **certified** questions from other families;
@@ -655,7 +655,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 - certified questions escalated from other forum families under **section 5**;
 - beyond-lawful-authority or supremacy determinations where constitutional text alone decides the issue.
 
-**Provisional-law disposition.** **Constitutional forums** dispose of provisional implementation-operational-law rulings issued under **section 4.7** by:
+**Provisional-law disposition.** **Constitutional Forums** dispose of provisional implementation-operational-law rulings issued under **section 4.7** by:
 - **accepting** them (giving **registered** or **precedential** effect as provided);
 - **rejecting** them (withdrawing **general** effect except as **fairness** to **parties** may require); or
 - **hearing** the question on **full** merits.
@@ -669,14 +669,14 @@ Granular publication, docketing, and effect **pending** disposition remain in **
 <a id="51-provisional-implementation-operational-law"></a>
 <a id="5-shared-family-architecture"></a>
 
-The following **single** framework applies to **Institutional forums**, **Environment forums**, and **specialized technical forums** within each type's lawful scope. It does not replace **Integrity** alignment rulings under **section 4.5**.
+The following **single** framework applies to **Institutional Forums**, **Environment Forums**, and **specialized technical forums** within each type's lawful scope. It does not replace **Integrity** alignment rulings under **section 4.5**.
 
 Where **necessary** to resolve a matter within jurisdiction, the forum may issue **provisional** rulings on **implementation operational law** — interpretation, coordination, or orderly application of **adopted** implementation documents — as **general** operational doctrine. **Subject matter** depends on the forum type:
-- **Institutional forums:** **institutional** duties under **[CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody)** (*Institutional design, separation of powers, and authority custody*), **[CI-9.210](corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-classification-linked-institutional-obligations)** (*Classification-linked institutional obligations*), and cognate layers, together with related implementation documents.
-- **Environment forums:** **environmental** operational rules in cognate layers governing **ecological integrity**, **environmental preconditions**, **restoration**, **remediation**, **attribution**, and comparable **environmental** **merits**.
+- **Institutional Forums:** **institutional** duties under **[CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody)** (*Institutional design, separation of powers, and authority custody*), **[CI-9.210](corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-classification-linked-institutional-obligations)** (*Classification-linked institutional obligations*), and cognate layers, together with related implementation documents.
+- **Environment Forums:** **environmental** operational rules in cognate layers governing **ecological integrity**, **environmental preconditions**, **restoration**, **remediation**, **attribution**, and comparable **environmental** **merits**.
 - **Specialized technical forums:** **scientific**, **technical**, **clinical**, **engineering**, **medical**, or **knowledge-governance** standards and procedures, **cross-family** technical administration, and related implementation documents.
 
-**Constitutional disposition** of these rulings is owned by **Constitutional forums** under **section 4.6**. **Certification** when operational and constitutional stakes merge is governed by **section 5**.
+**Constitutional disposition** of these rulings is owned by **Constitutional Forums** under **section 4.6**. **Certification** when operational and constitutional stakes merge is governed by **section 5**.
 
 <a id="5-escalation-and-certification"></a>
 
@@ -1044,7 +1044,7 @@ This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Fl
 <a id="prompt-review"></a>
 - **Prompt review:** Where this Constitution requires a measure, order, hold, stay, or interim decision to be reviewed promptly, or a request to stay or limit reliance to be acted on promptly, a reviewer or deciding authority outside the control line of the body whose measure, order, or record is in question must **begin** the review, or act, no later than the **intake target** of the matching tier in [CF-13.445 §3.1](corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*): 24 hours for Tier A, and 2, 4, 8, and 12 calendar days for Tiers B, C, L, and P. That span is the **prompt-review window**. It runs from the day the measure takes effect. Unlike a stage target, it is a compliance line, because the measure is already in force against someone. The review must also be decided before the measure lapses. To **begin** the review means that a reviewer is assigned, the grounds are delivered to the sentient whose measure it is, and a decision date is published. The window counts from the docket entry that records the act setting the measure, which the body whose measure it is files and the reviewer keeps time against. Where a lawful restriction bars even the marker, the lead record goes to the reviewer on the day the measure takes effect. Where the measure belongs to no classified matter, the window is Tier A's unless a documented lower-urgency showing is recorded. At the **Emergency setting** the window is still Tier A's 24 hours, inside the 3-day protective-step bound. The window times the start of review only. It does not shorten any time given to a party to respond, and it borrows the intake figures and adds no second table of windows.
 <a id="review-cadence"></a>
-- **Review cadence:** A Class A, B, C, L, or P system or Institution is checked on a calendar interval set by its class. The **Integrity forum** that holds its certification under [§4.5 Integrity forums](#45-integrity-forums) enforces two checks, evenly spaced by default:
+- **Review cadence:** A Class A, B, C, L, or P system or Institution is checked on a calendar interval set by its class. The **Integrity Forum** that holds its certification under [§4.5 Integrity Forums](#45-integrity-forums) enforces two checks, evenly spaced by default:
   - **Certification interval:** full certification or recertification at least every **3 months** for Class A, **6 months** for Class B, **1 year** for Class C, **2 years** for Class L, and **3 years** for Class P, counted from the last completed certification pass.
   - **Audit midpoint:** a financial, resource, or special audit, enforced by the forum, falls halfway through the interval after the last certification pass. The audit must be completed no later than that midpoint: 45 days for Class A, 3 months for Class B, 6 months for Class C, 1 year for Class L, and 18 months for Class P. A body may bring the audit earlier under the next item, and never later.
   - **Audit advance allowance:** a system or Institution may move its audit date earlier for its own convenience, by up to a quarter of the certification interval before the midpoint: 22 days for Class A, 45 days for Class B, 3 months for Class C, 6 months for Class L, and 9 months for Class P. A shift needs a published notice with reasons, given to the forum before the audit would otherwise have been due. A shift moves the audit earlier and nothing else: the audit still happens in that cycle, it is never moved later than the midpoint, and the certification dates do not move. A shift covers one cycle, so the next audit returns to the midpoint, and a body may use a shift in at most one cycle out of every three. It is not available while a reopened or fresh review is open, or while a finding from an earlier audit is unremedied.

@@ -3,7 +3,7 @@
   "effective_date": "2026-10-21",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "article_count": 140,
+  "article_count": 141,
   "articles": [
     {
       "title": "Article I: Environmental Survival",
@@ -114,14 +114,14 @@
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-a-survival",
       "line": 791,
-      "plain_terms": "every sentient must have what they need to keep existing: food and water or the equivalent for their substrate, a stable home or operating environment they cannot be quietly priced or evicted out of, and meaningful access to communications.",
+      "plain_terms": "every sentient must have what they need to keep existing: safe food and water, or the safe equivalent for their substrate, a stable home or operating environment they cannot be quietly priced or evicted out of, and meaningful access to communications.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-a-survival"
     },
     {
       "title": "Article III-B: Bodily-Maintenance and Healthcare Access",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-b-bodily-maintenance-and-healthcare-access",
-      "line": 837,
+      "line": 839,
       "plain_terms": "everyone has the right to the care that keeps their body — or, for a synthetic sentient, its substrate — working. That care cannot be quietly withheld through coverage rules, paperwork, or delays, and this right is not itself a license to force treatment on anyone. Required care — such as vaccination or crisis mental-health care — must meet strict limits set elsewhere in this Constitution.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access"
     },
@@ -129,7 +129,7 @@
       "title": "Article III-C: Labor and Economic Floor",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-c-labor-and-economic-floor",
-      "line": 890,
+      "line": 892,
       "plain_terms": "anyone who works — in any form, on any substrate — has the right to fair pay in real, spendable money, the freedom to organize with others, and the freedom to change jobs. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor"
     },
@@ -137,7 +137,7 @@
       "title": "Article III-D: Safe Working Conditions",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-d-safe-working-conditions",
-      "line": 959,
+      "line": 961,
       "plain_terms": "anyone who works must be protected from foreseeable harm while they do it — in practice, not just on paper — and no one gets weaker protection because of what kind of body or substrate they have.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-d-safe-working-conditions"
     },
@@ -145,15 +145,23 @@
       "title": "Article III-E: Rest and Recuperation",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iii-e-rest-and-recuperation",
-      "line": 1001,
+      "line": 1003,
       "plain_terms": "every sentient needs real time to rest and recover — not only workers, and not only biological bodies. Pay schemes, productivity demands, and claims that a synthetic sentient \"doesn't need rest\" cannot take that time away.",
       "href": "../../core_06.000_rights_part_a.md#article-iii-e-rest-and-recuperation"
+    },
+    {
+      "title": "Article III-F: Safe Products and Health Information",
+      "file": "core_06.000_rights_part_a.md",
+      "anchor": "article-iii-f-safe-products-and-health-information",
+      "line": 1035,
+      "plain_terms": "what sentients eat, drink, take, or use on their bodies must be safe, and anyone who offers it must be honest about it. Parties that offer things which can affect health must give accurate, usable safety, health, nutrition, ingredient, and allergen information, say plainly what they do not know, and tell everyone who relied on them, in time, when something turns out to be wrong. This is the price of offering, not a limit on anyone's speech.",
+      "href": "../../core_06.000_rights_part_a.md#article-iii-f-safe-products-and-health-information"
     },
     {
       "title": "Article IV: Right to Sentient-Centered Education",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iv-right-to-sentient-centered-education",
-      "line": 1033,
+      "line": 1092,
       "plain_terms": "**Article IV** (*Right to Sentient-Centered Education*) is the education Rights Floor — no one can be shut out of education, and everyone needs practical paths to learn, retrain, and challenge high-stakes learning systems, not credential theater that leaves them unable to steer their own lives or use shared systems competently.",
       "href": "../../core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education"
     },
@@ -161,7 +169,7 @@
       "title": "Article IV-A: Equal Educational Access",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iv-a-equal-educational-access",
-      "line": 1091,
+      "line": 1150,
       "plain_terms": "education should prepare everyone to live well, communicate honestly, take part in governing, and avoid harm — no one can be shut out of it because of a disability, another protected characteristic, or an arbitrary rule, and schools must give disabled learners the support they need to take part as equals.",
       "href": "../../core_06.000_rights_part_a.md#article-iv-a-equal-educational-access"
     },
@@ -169,7 +177,7 @@
       "title": "Article IV-B: Capability-Building Education Right",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iv-b-capability-building-education-right",
-      "line": 1128,
+      "line": 1187,
       "plain_terms": "every sentient has a practical path to build the skills they need to steer their own life and use shared systems competently and safely — not just a paper credential on the wall.",
       "href": "../../core_06.000_rights_part_a.md#article-iv-b-capability-building-education-right"
     },
@@ -177,7 +185,7 @@
       "title": "Article IV-C: Lifelong and Adaptive Learning and Contestability",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-iv-c-lifelong-and-adaptive-learning-and-contestability",
-      "line": 1163,
+      "line": 1222,
       "plain_terms": "when the world and the tools change, sentients are not left quietly obsolete — they get fair paths to retrain.",
       "href": "../../core_06.000_rights_part_a.md#article-iv-c-lifelong-and-adaptive-learning-and-contestability"
     },
@@ -185,7 +193,7 @@
       "title": "Article V: Resource Allocation, Dependencies, and Ecosystem Funding",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-v-resource-allocation-dependencies-and-ecosystem-funding",
-      "line": 1199,
+      "line": 1258,
       "plain_terms": "**Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is about sharing the load fairly. Many systems lean on the same underlying infrastructure — networks, open tools, public services, shared data and computing power. Everyone who relies on that infrastructure should be able to see where the money and resources go, and those who take a lot from it should help keep it running. This is the Rights Floor for shared resources.",
       "href": "../../core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding"
     },
@@ -193,7 +201,7 @@
       "title": "Article V-A: Dependency Mapping and Resource-Flow Transparency",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-v-a-dependency-mapping-and-resource-flow-transparency",
-      "line": 1249,
+      "line": 1308,
       "plain_terms": "systems must keep an honest, up-to-date picture of what they rely on, who relies on them, where resources, goods, services, labor, information, and money flow, and where relationships are one-sided or hidden. System Alignment Certification is where that picture is checked, so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.",
       "href": "../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency"
     },
@@ -201,7 +209,7 @@
       "title": "Article V-B: Cross-System Fairness and Sustainability",
       "file": "core_06.000_rights_part_a.md",
       "anchor": "article-v-b-cross-system-fairness-and-sustainability",
-      "line": 1299,
+      "line": 1358,
       "plain_terms": "systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](../../core_05.040_band_continuity.md#system-alignment-certification) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.",
       "href": "../../core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability"
     },
@@ -449,7 +457,7 @@
       "title": "Article XI-C: Press and Journalistic Activity",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xi-c-press-and-journalistic-activity",
-      "line": 1555,
+      "line": 1557,
       "plain_terms": "journalism gets extra protection because of what it does, not who holds a press card. Actions aimed at newsgathering, sources, investigation, or publication face heightened scrutiny, and good-faith publishing standards cannot be turned into a shield against critical reporting, satire, or dissent.",
       "href": "../../core_06.005_rights_part_b.md#article-xi-c-press-and-journalistic-activity"
     },
@@ -457,7 +465,7 @@
       "title": "Article XI-D: Assembly, Dissent, and Peaceful Protest",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xi-d-assembly-dissent-and-peaceful-protest",
-      "line": 1592,
+      "line": 1594,
       "plain_terms": "every sentient may gather, associate, and act together — in physical, digital, or shared-compute spaces — and may disagree and protest peacefully, including open, nonviolent civil disobedience. Doing so can never cost them standing, a vote, an office, certification, or their job, and surveillance, retaliation, or access-gating that quietly silences protest is not allowed.",
       "href": "../../core_06.005_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest"
     },
@@ -465,7 +473,7 @@
       "title": "Article XI-E: Institutional Formation and Business Creation",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xi-e-institutional-formation-and-business-creation",
-      "line": 1673,
+      "line": 1675,
       "plain_terms": "anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test. The right is for founders who mean what they say: forming an Operating Party to mislead others about what it is for, who controls it, or whom it serves, or to harm others, is not covered. Only three narrow gates stand, and none is a licence to form or run an Operating Party. Two attach to a sentient: one who is under an unresolved lock on authority, or whom a forum has found on specific facts to be probably misaligned, may be kept for a time from holding control of an Operating Party. The third attaches to an Operating Party that is itself under a lock: one that a forum has dissolved stays barred from coming back under any name or form, for good where the dissolution rests on pervasive anti-constitutional conduct or on harm that cannot be undone and has not been remedied. No gate stops any other Operating Party, and everyone else may still form and run one, including one that does the same kind of work. Two further rules cover acts that can hurt someone who cannot judge the risk. A technical forum can list a family of such acts, and a sentient may then be required to hold a practice licence, for acts that can cause severe or irreversible injury, or a practice clearance, for acts with a lesser but real risk such as cosmetology or food handling, before performing one for others. Those rules attach to the act and never to forming or running an Operating Party.",
       "href": "../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation"
     },
@@ -473,7 +481,7 @@
       "title": "Article XI-F: Non-Imposition and Consent in Association",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xi-f-non-imposition-and-consent-in-association",
-      "line": 1755,
+      "line": 1758,
       "plain_terms": "no one may push their beliefs or unwanted contact on others, and cooperative ventures must rest on real consent. Persistent harassment, manipulation, and designed attention-capture inside relationships are violations even without a classic coercive act.",
       "href": "../../core_06.005_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association"
     },
@@ -481,7 +489,7 @@
       "title": "Article XI-G: Collective Harm Boundary and Enforcement Interface",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xi-g-collective-harm-boundary-and-enforcement-interface",
-      "line": 1803,
+      "line": 1806,
       "plain_terms": "freedom of action stops where verifiable material harm begins. Offense or disagreement alone is not enough; harm must run through a real material-impact pathway — including cumulative hostile-environment patterns that degrade participation, and especially where dependency, exit cost, or power asymmetry make the environment hard to leave.",
       "href": "../../core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface"
     },
@@ -489,7 +497,7 @@
       "title": "Article XII: Stakeholder System Participation, Representation, and Due Process",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xii-stakeholder-system-participation-representation-and-due-process",
-      "line": 1854,
+      "line": 1857,
       "plain_terms": "**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.",
       "href": "../../core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process"
     },
@@ -497,7 +505,7 @@
       "title": "Article XII-A: Stakeholder System Participation and Representation",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xii-a-stakeholder-system-participation-and-representation",
-      "line": 1907,
+      "line": 1910,
       "plain_terms": "decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power. High-impact decisions also need a recorded legitimacy check before they bind anyone.",
       "href": "../../core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation"
     },
@@ -505,7 +513,7 @@
       "title": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xii-b-weighted-participation-and-anti-token-constraints",
-      "line": 1962,
+      "line": 1965,
       "plain_terms": "participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition — and \"consulting\" stakeholders whose input is ignored or unreachable does not count.",
       "href": "../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints"
     },
@@ -513,7 +521,7 @@
       "title": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xii-c-internal-roles-accountability-and-due-process-requirements",
-      "line": 2008,
+      "line": 2011,
       "plain_terms": "roles must carry real responsibility, not just titles — and anyone facing a material decision gets notice, a real chance to be heard, impartial decision-making, and a way to contest the outcome.",
       "href": "../../core_06.005_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements"
     },
@@ -521,7 +529,7 @@
       "title": "Article XII-D: Non-Capture Safeguards",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xii-d-non-capture-safeguards",
-      "line": 2051,
+      "line": 2054,
       "plain_terms": "every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing. Keeping key duties in separate hands is one of the main defenses.",
       "href": "../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards"
     },
@@ -529,7 +537,7 @@
       "title": "Article XII-E: Influence-Contact and Lobbying Boundaries",
       "file": "core_06.005_rights_part_b.md",
       "anchor": "article-xii-e-influence-contact-and-lobbying-boundaries",
-      "line": 2157,
+      "line": 2160,
       "plain_terms": "**Article XII-E** (*Influence-Contact and Lobbying Boundaries*) is the floor for how sentients with a stake may approach those who decide. Open advocacy is protected. Private, unrecorded, bought, faked, or machine-multiplied influence is not: contact is recorded and disclosed, offers and threats are conflicts, a later job from a party you decided on waits out a cooling-off period, and a system's contact must say what it is and who it acts for.",
       "href": "../../core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries"
     },
@@ -553,7 +561,7 @@
       "title": "Article XIII-B: Right to Redress and Remedy",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiii-b-right-to-redress-and-remedy",
-      "line": 196,
+      "line": 197,
       "plain_terms": "a trustworthy system fixes what it gets wrong. When a system fails a sentient, the sentient must be made whole — through a real remedy system that answers in time, not a remedy that exists only on paper. The right to challenge lives in **Article XIII-A** (*Reliability and Trustworthiness Baseline*); this Article covers what the challenge must lead to.",
       "href": "../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy"
     },
@@ -561,7 +569,7 @@
       "title": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiii-c-prohibition-of-false-trust-and-misleading-reliance",
-      "line": 242,
+      "line": 243,
       "plain_terms": "a system may not manufacture trust it has not earned. Misleading claims, omissions, or presentation choices that make unsafe reliance look warranted are violations — regardless of how useful or popular the system is.",
       "href": "../../core_06.010_rights_part_c.md#article-xiii-c-prohibition-of-false-trust-and-misleading-reliance"
     },
@@ -569,7 +577,7 @@
       "title": "Article XIII-D: Incentive-Alignment Constraint",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiii-d-incentive-alignment-constraint",
-      "line": 272,
+      "line": 273,
       "plain_terms": "if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge. Incentives should reward keeping a system open to challenge and fixing what goes wrong — and reward heading off problems before they happen most of all.",
       "href": "../../core_06.010_rights_part_c.md#article-xiii-d-incentive-alignment-constraint"
     },
@@ -577,7 +585,7 @@
       "title": "Article XIII-E: High-Autonomy Systems and Tool-Mediated Process Integrity",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity",
-      "line": 324,
+      "line": 325,
       "plain_terms": "an AI or other automated system that can act on its own — filing papers, sending messages, running checks, using tools — must follow the same honesty and accountability rules as everyone else. Shutting down or seizing a harmful system is not the same as punishing a being, and it can never become a way to harm one. The reverse also holds: saying a system might be a sentient being does not let its operator keep a harmful system running.",
       "href": "../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"
     },
@@ -585,7 +593,7 @@
       "title": "Article XIII-F: Resilience and Self-Healing Baseline",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiii-f-resilience-and-self-healing-baseline",
-      "line": 374,
+      "line": 375,
       "plain_terms": "when something goes wrong, a system must notice it, stop the damage from spreading, and recover. But \"fixing itself\" can never be used to hide what went wrong, quietly take away anyone's rights, or skip finding out why it broke. If a system is not sure a repair will work, it should stop safely rather than guess.",
       "href": "../../core_06.010_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline"
     },
@@ -593,7 +601,7 @@
       "title": "Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiv-security-intelligence-force-and-autonomous-coercive-systems",
-      "line": 428,
+      "line": 429,
       "plain_terms": "spying, secret security work, armed force, and machines that can hurt or pressure sentients on their own are dangerous powers. They are not everyday tools of government. They may be used only rarely, for narrow reasons, with approval from someone independent, and with a real way to check and challenge them afterward — and real remedies when the rules are broken. No secret police, no emergency that never ends, and no machine deciding to hurt anyone without a real human actually in charge.",
       "href": "../../core_06.010_rights_part_c.md#article-xiv-security-intelligence-force-and-autonomous-coercive-systems"
     },
@@ -601,7 +609,7 @@
       "title": "Article XIV-A: Security, Intelligence, and Covert-Power Limits",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiv-a-security-intelligence-and-covert-power-limits",
-      "line": 491,
+      "line": 492,
       "plain_terms": "no secret police. Covert power — surveillance, intelligence collection, infiltration — is the exception, not the rule. It requires independent authorization, narrow scope, outside review, and real remedies when misused. Secrecy may not be used to escape accountability, and routine political and protected activity must never be its target.",
       "href": "../../core_06.010_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits"
     },
@@ -609,7 +617,7 @@
       "title": "Article XIV-B: Use of Force, Armed Conflict, and Military-Power Limits",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiv-b-use-of-force-armed-conflict-and-military-power-limits",
-      "line": 583,
+      "line": 584,
       "plain_terms": "armed force is an exception, not a default. It must be authorized, narrow, proportionate, and reviewable. It must never be used as a back door to an irreversible deprivation measure, and it cannot be dressed up as emergency to escape review.",
       "href": "../../core_06.010_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits"
     },
@@ -617,7 +625,7 @@
       "title": "Article XIV-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
-      "line": 653,
+      "line": 654,
       "plain_terms": "a machine may not decide to kill, injure, or coerce a sentient on its own. \"Human control\" means a human must actually decide, in real time, with real information — not rubber-stamp a result the system has already produced. Non-lethal autonomous coercion is in scope too.",
       "href": "../../core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools"
     },
@@ -625,7 +633,7 @@
       "title": "Article XIV-D: Counter-Espionage Limits",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xiv-d-counter-espionage-limits",
-      "line": 716,
+      "line": 717,
       "plain_terms": "when an institution suspects spying, the pressure to do whatever it takes is at its highest — and that is exactly when mistakes and abuses happen. So the lines are drawn here, in advance. Hunting spies is covert power, and every limit in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) still applies. On top of that: the response rules must be written and independently approved before any crisis; suspicion must rest on what someone did and whom they actually serve — including ties to hostile states and organizations — not on their birth, heritage, or beliefs; whistleblowers and journalists are not spies; no torture, no secret detention, no killing as punishment; and anyone investigated and cleared gets that on the record.",
       "href": "../../core_06.010_rights_part_c.md#article-xiv-d-counter-espionage-limits"
     },
@@ -633,7 +641,7 @@
       "title": "Article XV: Info-Sphere Integrity",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xv-info-sphere-integrity",
-      "line": 809,
+      "line": 810,
       "plain_terms": "**Article XV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you. Science, as the main way we check what is true together, must stay open to publication, replication, and correction (**Article XV-D** (*Scientific Publication, Review, and Replication Integrity*)).",
       "href": "../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity"
     },
@@ -641,7 +649,7 @@
       "title": "Article XV-A: Info-Sphere Plurality and Anti-Monopoly",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xv-a-info-sphere-plurality-and-anti-monopoly",
-      "line": 857,
+      "line": 858,
       "plain_terms": "no one may monopolize the mediation of truth. Ranking, summarization, and mediation systems must stay open to alternative interpretation, and market prices or betting odds cannot be used as a shortcut for deciding what is true.",
       "href": "../../core_06.010_rights_part_c.md#article-xv-a-info-sphere-plurality-and-anti-monopoly"
     },
@@ -649,7 +657,7 @@
       "title": "Article XV-B: Transparency, Auditability, and Contestability",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xv-b-transparency-auditability-and-contestability",
-      "line": 895,
+      "line": 896,
       "plain_terms": "information that materially affects decisions or reliance must disclose its sources, methods, and limits, and sentients must have a real ability to compare alternative interpretations and contest misleading outputs.",
       "href": "../../core_06.010_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability"
     },
@@ -657,7 +665,7 @@
       "title": "Article XV-C: Validation, Reporting, and Epistemic Stewardship",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xv-c-validation-reporting-and-epistemic-stewardship",
-      "line": 932,
+      "line": 933,
       "plain_terms": "public-facing information with material external impact must correct errors, show where it came from, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.",
       "href": "../../core_06.010_rights_part_c.md#article-xv-c-validation-reporting-and-epistemic-stewardship"
     },
@@ -665,7 +673,7 @@
       "title": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvii-e-scientific-publication-review-and-replication-integrity",
-      "line": 972,
+      "line": 973,
       "plain_terms": "science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.",
       "href": "../../core_06.010_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity"
     },
@@ -673,7 +681,7 @@
       "title": "Article XVI: Audit, Transparency, and Independent Verification",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvi-audit-transparency-and-independent-verification",
-      "line": 1022,
+      "line": 1023,
       "plain_terms": "when a system has a real effect on your life, you have the right to see enough of what it does for an outsider to check it. More than one independent reviewer must be able to look for problems and get them fixed. An audit cannot be a rubber stamp, a private club, or a maze of cost and delay that keeps challenges out. Checking systems is part of oversight. [System Alignment Certification](../../core_05.040_band_continuity.md#system-alignment-certification) is one large, high-stakes kind of audit, but it is not the only one.",
       "href": "../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification"
     },
@@ -681,7 +689,7 @@
       "title": "Article XVI-A: Auditability and Observable Evidence",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvi-a-auditability-and-observable-evidence",
-      "line": 1110,
+      "line": 1111,
       "plain_terms": "systems must keep enough honest evidence of what they do that someone outside can piece together what happened and challenge it — within lawful security limits.",
       "href": "../../core_06.010_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence"
     },
@@ -689,7 +697,7 @@
       "title": "Article XVI-B: Distributed Oversight and Anti-Monopoly Review",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvi-b-distributed-oversight-and-anti-monopoly-review",
-      "line": 1135,
+      "line": 1136,
       "plain_terms": "no single actor, public or private, may corner oversight. Several independent reviewers must be able to find, review, and fix failures, or a system that has been captured by narrow interests. And no one may check their own work: whoever acted, or runs the system being reviewed, cannot be the one who checks it.",
       "href": "../../core_06.010_rights_part_c.md#article-xvi-b-distributed-oversight-and-anti-monopoly-review"
     },
@@ -697,7 +705,7 @@
       "title": "Article XVI-C: Verification Accessibility",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvi-c-verification-accessibility",
-      "line": 1175,
+      "line": 1176,
       "plain_terms": "you must be able to actually get an audit or a challenge. Making checking too expensive, too slow, too hidden, or too hard to qualify for breaks this rule. A barrier can stay only if it passes the same strict test as a security limit on what can be observed — and whoever relies on the barrier has to prove it passes.",
       "href": "../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility"
     },
@@ -705,7 +713,7 @@
       "title": "Article XVII: System Lifecycle, Environments, and Reversibility",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvii-system-lifecycle-environments-and-reversibility",
-      "line": 1213,
+      "line": 1214,
       "plain_terms": "when a system can affect sentients or the world outside it, it has to be built, tested, and released in careful steps. Experiments must be kept apart from the live system. And there must be a way to undo the harm, or at least contain it, if something goes wrong. Calling a system \"experimental\" or \"low-impact\" does not let anyone skip these safeguards while it is actually affecting the outside world.",
       "href": "../../core_06.010_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility"
     },
@@ -713,7 +721,7 @@
       "title": "Article XVII-A: Lifecycle Governance and Environment Separation",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvii-a-lifecycle-governance-and-environment-separation",
-      "line": 1269,
+      "line": 1270,
       "plain_terms": "the more a system matters, the more strictly the versions being built, tested, and used for real must be kept apart. For the most important systems, that means a full chain of separate environments. For small local systems, it means enough separation that a bad change cannot wreck what participants have in the system. Either way, nothing running outside the live version may be used to slip past its safeguards.",
       "href": "../../core_06.010_rights_part_c.md#article-xvii-a-lifecycle-governance-and-environment-separation"
     },
@@ -721,7 +729,7 @@
       "title": "Article XVII-B: Progressive Deployment and Reversibility",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvii-b-progressive-deployment-and-reversibility",
-      "line": 1313,
+      "line": 1314,
       "plain_terms": "important systems must release changes in stages, write down each step, and keep a way to undo them. Small local systems may change often and all at once, as long as participants are told, bad changes can be reversed quickly, and participants do not lose what they have built up without warning. Where a full undo is not possible, there must be a plan to contain the harm or make up for it.",
       "href": "../../core_06.010_rights_part_c.md#article-xvii-b-progressive-deployment-and-reversibility"
     },
@@ -729,7 +737,7 @@
       "title": "Article XVII-C: Misclassification and Evasion Consequences",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvii-c-misclassification-and-evasion-consequences",
-      "line": 1356,
+      "line": 1357,
       "plain_terms": "a system cannot call itself \"experimental,\" **Class P**, **Class L**, or \"low-impact\" to dodge its duties while it is actually affecting the outside world more than that label allows.",
       "href": "../../core_06.010_rights_part_c.md#article-xvii-c-misclassification-and-evasion-consequences"
     },
@@ -737,7 +745,7 @@
       "title": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
-      "line": 1395,
+      "line": 1396,
       "plain_terms": "you are free to experiment, invent, and create. Projects that affect only you and others who chose to take part may run under lighter rules — but calling something a \"sandbox\" does not make it one. Once a project starts affecting others, or others start depending on it, the full rules apply. Inventors and creators can be rewarded for their work, but only in ways that are narrow and temporary, and never by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or check the facts.",
       "href": "../../core_06.010_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom"
     },
@@ -745,7 +753,7 @@
       "title": "Article XVIII-A: Sandboxed Scope",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xviii-a-sandboxed-scope",
-      "line": 1437,
+      "line": 1438,
       "plain_terms": "experimentation and creative work can operate under lighter rules — but only when real external impact is either absent or demonstrably contained. The \"sandbox\" label alone is not enough.",
       "href": "../../core_06.010_rights_part_c.md#article-xviii-a-sandboxed-scope"
     },
@@ -753,7 +761,7 @@
       "title": "Article XVIII-B: Containment, Disclosure, and Opt-In",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xviii-b-containment-disclosure-and-opt-in",
-      "line": 1474,
+      "line": 1475,
       "plain_terms": "experimental systems must be honest about being experimental, must not dump risk onto outsiders, and must not conscript non-participants through design defaults or hidden dependencies.",
       "href": "../../core_06.010_rights_part_c.md#article-xviii-b-containment-disclosure-and-opt-in"
     },
@@ -761,7 +769,7 @@
       "title": "Article XVIII-C: Transition to Higher-Obligation Regimes",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xviii-c-transition-to-higher-obligation-regimes",
-      "line": 1507,
+      "line": 1508,
       "plain_terms": "once a sandbox system starts mattering in the real world, it must graduate to real-world obligations within the outer bound of the tier that matches the system's class, from 7 days to 90, not at the operator's convenience.",
       "href": "../../core_06.010_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes"
     },
@@ -769,7 +777,7 @@
       "title": "Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xviii-d-innovation-reward-disclosure-and-anti-enclosure",
-      "line": 1539,
+      "line": 1540,
       "plain_terms": "inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVIII-E** (*Creative and Expressive Works*)) from a working invention (**Article XVIII-F** (*Inventions, Processes, and Functional Systems*)). Game rules and mechanics belong to everyone and cannot be owned.",
       "href": "../../core_06.010_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"
     },
@@ -777,7 +785,7 @@
       "title": "Article XVIII-E: Creative and Expressive Works",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xviii-e-creative-and-expressive-works",
-      "line": 1591,
+      "line": 1592,
       "plain_terms": "creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.",
       "href": "../../core_06.010_rights_part_c.md#article-xviii-e-creative-and-expressive-works"
     },
@@ -785,7 +793,7 @@
       "title": "Article XVIII-F: Inventions, Processes, and Functional Systems",
       "file": "core_06.010_rights_part_c.md",
       "anchor": "article-xviii-f-inventions-processes-and-functional-systems",
-      "line": 1630,
+      "line": 1631,
       "plain_terms": "inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.",
       "href": "../../core_06.010_rights_part_c.md#article-xviii-f-inventions-processes-and-functional-systems"
     },
@@ -994,7 +1002,7 @@
       "file": "core_06.015_rights_part_d.md",
       "anchor": "article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards",
       "line": 1344,
-      "plain_terms": "**Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
+      "plain_terms": "**Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional Forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
       "href": "../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
     },
     {
@@ -1002,7 +1010,7 @@
       "file": "core_06.015_rights_part_d.md",
       "anchor": "article-xxv-a-bounded-interpretive-mandate-and-public-reasons",
       "line": 1402,
-      "plain_terms": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways. Every binding ruling must be published in time to challenge, with real reasons and the evidence behind them.",
+      "plain_terms": "Constitutional Forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways. Every binding ruling must be published in time to challenge, with real reasons and the evidence behind them.",
       "href": "../../core_06.015_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons"
     },
     {
@@ -1018,7 +1026,7 @@
       "file": "core_06.015_rights_part_d.md",
       "anchor": "article-xxv-c-constitutional-forum-independence-and-external-review",
       "line": 1481,
-      "plain_terms": "the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.",
+      "plain_terms": "the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) apply to every decision-making body. **Constitutional Forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.",
       "href": "../../core_06.015_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review"
     },
     {
@@ -1026,7 +1034,7 @@
       "file": "core_06.015_rights_part_d.md",
       "anchor": "article-xxv-d-removal-for-cause-and-non-entrenchment",
       "line": 1519,
-      "plain_terms": "**Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards). For the bodies that interpret the Constitution, the ban on using \"removal,\" \"restructuring,\" or \"redesign\" as a weapon against independence or dissent is applied with special force.",
+      "plain_terms": "**Constitutional Forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards). For the bodies that interpret the Constitution, the ban on using \"removal,\" \"restructuring,\" or \"redesign\" as a weapon against independence or dissent is applied with special force.",
       "href": "../../core_06.015_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment"
     },
     {

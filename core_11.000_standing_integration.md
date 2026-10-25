@@ -568,7 +568,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 
 - **Named pathway:**
   - Direct or indirect influence over Class A/B/C systems.
-  - Constitutional forums.
+  - Constitutional Forums.
   - Alignment certification.
   - Critical-system stewardship.
   - Audit, evidence, safety, access-continuity, investigation, enforcement, restitution, and protected-reporting pathways.
@@ -809,7 +809,7 @@ This subsection sets out who may see named-pathway effects and what aggregation 
     - a comparable artifact;
   - transferring an effect to a named pathway that did not produce it; or
   - inferring general trustworthiness, worth, or risk from the set of a subject's effects.
-- **Bounded exceptions:** [Integrity forums](core_13.000_forum.md#45-integrity-forums) examining capture or pattern claims, [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) designation review, and [§9.4 Anti-evasion and look-through authority](#94-anti-evasion-and-look-through-authority) look-through may view cross-pathway records, under recusal rules and the [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) clocks, for that proceeding only. [Chapter Ten §3.2 Related record cross-references](core_10.000_standing_assessment.md#32-related-record-cross-references) cross-references between linked records remain; they are record links, not a composite.
+- **Bounded exceptions:** [Integrity Forums](core_13.000_forum.md#45-integrity-forums) examining capture or pattern claims, [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) designation review, and [§9.4 Anti-evasion and look-through authority](#94-anti-evasion-and-look-through-authority) look-through may view cross-pathway records, under recusal rules and the [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) clocks, for that proceeding only. [Chapter Ten §3.2 Related record cross-references](core_10.000_standing_assessment.md#32-related-record-cross-references) cross-references between linked records remain; they are record links, not a composite.
 - **Public LEQU display:** Violation Axis and Contribution Axis slots are not published as a general attribute of a sentient. They appear in the record, in forum proceedings, and in the disclosure to the named-pathway gatekeeper where the slot is a lawful input to that named pathway.
 
 <a id="72-plain-statement-of-effect-and-burden"></a>
@@ -917,7 +917,7 @@ Child protection, environmental enforcement, benefits administration, detention 
 - review; and
 - enforcement.
 
-Those systems must meet [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows. They must also meet published capacity, measurement, and milestone standards under [Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains). Technical forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions. Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](core_13.000_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](core_13.000_forum.md#43-institutional-forums), or [Integrity](core_13.000_forum.md#45-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Institutional implementation detail for remedy-system capacity is owned by [CI-11.205](corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+Those systems must meet [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows. They must also meet published capacity, measurement, and milestone standards under [Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains). Technical Forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions. Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](core_13.000_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](core_13.000_forum.md#43-institutional-forums), or [Integrity](core_13.000_forum.md#45-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Institutional implementation detail for remedy-system capacity is owned by [CI-11.205](corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
 The following violate this rule where they foreseeably nullify challenge or remedy:
 
