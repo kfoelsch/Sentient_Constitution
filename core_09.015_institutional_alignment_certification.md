@@ -38,9 +38,7 @@
 - Read with:
   - [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification) and
   - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) (*Chapter Five meanings*);
-  - [corpus_institutions.md](corpus_institutions.md),
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*);
-  - [corpus_forum.md](corpus_forum.md),
   - **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 </details>
@@ -178,7 +176,7 @@ Every pass evaluates these seven items, which are the institutional counterpart 
 
 #### 12.3 Evaluations where implicated
 
-Where an Institution's own conduct implicates a Rights Floor or a domain covered by [Part A §4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated) or [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), the matching evaluation runs on the Institution's own conduct, with the same triggers. The institutional duties themselves are owned by [corpus_institutions](corpus_institutions.md), including **CI-8.210** (*Conflict integrity, anti-capture, anti-corruption*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-6.215** (*Resource stewardship and incentive integrity*), and **CI-11.205** (*Remedy systems and institutional redress capacity*). Part D cites them and does not restate them. An evaluation already made on a cited System Certification Record is not made again.
+Where an Institution's own conduct implicates a Rights Floor or a domain covered by [Part A §4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated) or [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), the matching evaluation runs on the Institution's own conduct, with the same triggers. The institutional duties themselves are owned by adopted institutional text, including **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-6.215** (*Resource stewardship and incentive integrity*), and **CI-11.205** (*Remedy systems and institutional redress capacity*). Part D cites them and does not restate them. An evaluation already made on a cited System Certification Record is not made again.
 
 <a id="124-scaling-by-class"></a>
 
@@ -214,7 +212,6 @@ The institution class scales the depth of evidence, the independence of the revi
 - Read with:
   - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record);
   - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map);
-  - [corpus_forum.md](corpus_forum.md),
   - **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*) and
   - **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
@@ -344,7 +341,6 @@ An Institution that is Not Certified may continue to exist, publish its Institut
   - [Recertification](core_05.040_band_continuity.md#recertification);
   - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification);
   - [Full Certification](core_05.040_band_continuity.md#full-certification);
-  - [corpus_forum.md](corpus_forum.md),
   - **CF-13.435 §6** (*no self-investigation*).
 
 </details>

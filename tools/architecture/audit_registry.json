@@ -814,11 +814,6 @@
       "run": "auto",
       "writes": false
     },
-    "wrapper-cite-audit-all-wrappers": {
-      "category": "links",
-      "run": "never",
-      "writes": false
-    },
     "wrapper-cite-audit-test": {
       "category": "tests",
       "run": "auto",

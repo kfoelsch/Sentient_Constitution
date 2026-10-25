@@ -189,7 +189,7 @@ This Article sets out the trust guarantee for systems that materially affect sen
   - make **protected reports** within the meaning of **Chapter Five** (*Protected Reporting (Whistleblowing)*) concerning systems that materially affect them, consistent with **Safety (Constitutional Constraint)** and **Truth (Constraint)** in **Chapter Five**.
 - **No suppression:** Good-faith challenges (*Good Faith*, **Chapter Five**), review requests, and protected reports must not be suppressed, obstructed, or penalized.
 - **No retaliation:** Retaliation against such reporting, within the meaning of that definition, is incompatible with the protections in this Article.
-  - Protected escalation and anti-retaliation implementation requirements are stated in **`corpus_institutions.md`** **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*).
+  - Protected escalation and anti-retaliation implementation requirements are stated in **[CI-6.205](corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md#ci-6205-transparency-participation-and-accessible-challenge-and-service-pathways)** (*Transparency, participation, and accessible challenge and service pathways*).
 
 The two guarantees are two sides of ongoing trust: the trust guarantee makes reliance warranted — including by fixing what the system gets wrong — and the contestability guarantee keeps it warranted over time. Neither satisfies the other.
 
@@ -852,7 +852,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 - **Truth constraint:** Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) bind every subsection here.
 - **Classification:** **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05.050_band_oversight.md#material-impact) triggers classification where class is unsettled.
-- **Science:** [Article XV-D](#article-xv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) applies this Article to scientific publication, review, replication, and correction. **[corpus_institutions.md](corpus_institutions.md), CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*) puts it into practice for institutions.
+- **Science:** [Article XV-D](#article-xv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) applies this Article to scientific publication, review, replication, and correction. [CI-6.270](corpus_institutions/ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md#ci-6270-scientific-publication-peer-review-replication-and-evidence-stewardship)** (*Scientific publication, peer review, replication, and evidence stewardship*) puts it into practice for institutions.
 
 #### Article XV-A: Info-Sphere Plurality and Anti-Monopoly
 <details>

@@ -316,7 +316,7 @@ This subsection does **not** add an additional designation criterion beyond the 
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional),
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), and
   - [System Capture](core_05.040_band_continuity.md#system-capture).
-- Implementation context: adopted [corpus_joint_structure.md](corpus_joint_structure.md) anti-corruption and undue-influence auditability controls and adopted **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)** and **[CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*) incentive-governance and funding-stewardship controls where materially relevant.
+- Implementation context: adopted [CJS-5.110 §6 — integrity assurance and resilience operations](corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-5110-6-oversight-integrity-assurance-and-resilience-operations) anti-corruption and undue-influence auditability controls and adopted **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)** and **[CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*) incentive-governance and funding-stewardship controls where materially relevant.
 
 </details>
 
@@ -721,7 +721,7 @@ This subsection does **not** add an additional designation criterion beyond the 
   - [§4](core_12.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*);
   - [§5.7](#57-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, protection, or normalization of anti-constitutional conduct*);
   - [§5.11](#511-obstruction-of-accountability-criteria-interaction) (*Obstruction of accountability — umbrella criteria interaction; this subsection is the enforcement-mode accountability-obstruction pathway*).
-- Forum and investigation interface: [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) for Integrity-family routing, anti-self-judging backup, transfer, and certification; [corpus_forum.md](corpus_forum.md) **CF-13.435** (*Independent investigative service and prosecution interface*) for independent investigative service and prosecution-interface requirements.
+- Forum and investigation interface: [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) for Integrity-family routing, anti-self-judging backup, transfer, and certification; **[CF-13.435](corpus_forum/cf_13.435_independent_investigative_service_prosecution_interface.md#cf-13435-independent-investigative-service-and-prosecution-interface)** (*Independent investigative service and prosecution interface*) for independent investigative service and prosecution-interface requirements.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Auditability](core_05.050_band_oversight.md#auditability),
@@ -1053,7 +1053,6 @@ It routes evaluation of the named pattern into the existing designation criteria
   - [Chapter Eleven §5.5](core_11.000_standing_integration.md#55-special-locks) (11.000 §5.5) (*forum disclosure omission and recusal-process impact*);
   - [Article XXV-C](core_06.015_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional forum recusal and enforcement routing*), applying the general floor in
   - [Article XII-D](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*);
-  - [corpus_forum.md](corpus_forum.md)
   - **CF-13.410** (*panel formation, disclosure, recusal, and lawful bench constitution*).
 - Forum routing: [Chapter Thirteen §2](core_13.000_forum.md#2-default-venue-and-primary-stakes) (13.000 §2) (*Integrity default lead*); [Chapter Thirteen §3](core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (13.000 §3) (*cross-forum anti-self-judging rule*).
 - Read with:

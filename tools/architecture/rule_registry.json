@@ -315,7 +315,7 @@
     {
       "id": "REF-WRAPPER-01",
       "legacy_ref": "section 7 companion family cites (wrapper files)",
-      "summary": "Do not cite a layer wrapper such as corpus_systems.md as a source: no link to it and no file-name mention in body prose, Trace lines, or Read with lines. Cite the CS / CI / CJS / CF subfile that owns the rule, by id and title. Navigation lines (file-top notes, Previous/Next file, landing-page pointers, tables, registry annexes) and the incorporation inventories in the Preamble and Chapter Eighteen are exempt. make regression runs it; --all-wrappers checks the other three wrappers on demand.",
+      "summary": "Do not cite a layer wrapper (corpus_systems.md, corpus_institutions.md, corpus_joint_structure.md, corpus_forum.md) as a source: no link to it and no file-name mention in body prose, Trace lines, or Read with lines. Cite the CS / CI / CJS / CF subfile that owns the rule, by id and title. Navigation lines (file-top notes, Previous/Next file, landing-page pointers, tables, registry annexes) and the incorporation inventories in the Preamble and Chapter Eighteen are exempt. make regression runs it and checks all four wrappers; --wrapper NAME narrows it.",
       "make_target": "wrapper-cite-audit",
       "status": "blocking"
     },

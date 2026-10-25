@@ -278,7 +278,7 @@ It is non-compliant to treat a body or route as valid if the records do not make
 
 It is also non-compliant to use common-question procedures to suppress material sentient-specific contest rights required by owner rules.
 
-Owner detail remains in `corpus_institutions.md` including **CI-13.205** (*Procedure integrity, contestability, and secondary review*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*), and `corpus_forum.md` including **CF-13.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*), and **CF-13.420** (*Appeal, secondary review, and exhaustion pathways*).
+Owner detail remains in the institutional family, including **CI-13.205** (*Procedure integrity, contestability, and secondary review*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*), and the forum family, including **CF-13.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*), and **CF-13.420** (*Appeal, secondary review, and exhaustion pathways*).
 
 ---
 

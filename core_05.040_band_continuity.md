@@ -786,7 +786,6 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream:
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record);
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) and
-  - [corpus_forum.md](corpus_forum.md)
   - **CF-13.425 §2** (*Constitutional alignment certification and review*).
 - Read with:
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification);
@@ -862,7 +861,6 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream:
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record);
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) and
-  - [corpus_forum.md](corpus_forum.md)
   - **CF-13.425 §2** (*Constitutional alignment certification and review*).
 - Read with:
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification);
@@ -3372,7 +3370,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
-- Downstream: [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6) (*duties follow the work through reorganization*); [corpus_institutions.md](corpus_institutions.md) (*institutional design, authority, and redress mechanics*).
+- Downstream: [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6) (*duties follow the work through reorganization*); [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) and [CI-11.205](corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md#ci-11205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*), for institutional design, authority, and redress mechanics.
 - Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
 - Read with:
   - [System](core_05.040_band_continuity.md#system),
@@ -3385,7 +3383,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Business Creation](core_05.055_band_participation.md#business-creation),
   - [Material Control Line](core_05.035_band_accountability.md#material-control-line), and
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action).
-- Distinguish: an Institution is defined here by its function, not by legal form or name. [Chapter Fourteen](core_14.000_governance.md) (14.000) treaty, compact, or Constitutional Charter documents that found a political community are a different matter. The mechanics of forming, staffing, supervising, and dissolving Institutions live in [corpus_institutions.md](corpus_institutions.md), not in this entry.
+- Distinguish: an Institution is defined here by its function, not by legal form or name. [Chapter Fourteen](core_14.000_governance.md) (14.000) treaty, compact, or Constitutional Charter documents that found a political community are a different matter. The mechanics of forming, staffing, supervising, and dissolving Institutions live in [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (formation), [CI-14.205](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) (staffing), [CI-8.215](corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md#ci-8215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervision), and [CI-11.210](corpus_institutions/ci_11.210_institutional_failure_dissolution.md#ci-11210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) (dissolution), not in this entry.
 
 </details>
 
@@ -3434,7 +3432,6 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*when a System Charter is required, what it states, and how it changes*);
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*certification record scope and reopening*);
   - [Chapter Ten §3.7](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7) (*the System Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*);
-  - [corpus_institutions.md](corpus_institutions.md)
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*); institutional publication of binding-governance and weighting rules under
   - **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) /
   - **CI-6.205 §2** (*Anti-concentration and participation-legitimacy safeguards*).
@@ -3472,7 +3469,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - the **record-opening authority** and **record custodian** for [Standing Records](core_05.035_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, which the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) carries as its entries for standing records ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), together with the independent route that applies when the [Chartered Party](core_05.040_band_continuity.md#chartered-party) is itself the subject ([Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)); and
     - where [Def.P2 Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, [Charter Pointers](core_05.040_band_continuity.md#charter-pointer) to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) participation-window / decision-path materials and the **CI-6.205 §2** (*Anti-concentration and participation-legitimacy safeguards*) weighting publication file).
 
-    Where an Institution operates, stewards, or materially controls exactly one System that needs a System Charter, that System Charter names the Institution as steward and also serves as the Institution's [Institutional Charter](core_05.040_band_continuity.md#institutional-charter): one document covers both. It supports institutional creation under [System Creation](core_05.055_band_participation.md#system-creation) and [Business Creation](core_05.055_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. A System Charter is required at Class L or higher and voluntary at Class P. The duty to publish a System Charter, its minimum contents, and its amendment and review rules are stated in [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters). Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Eighteen** incorporation discipline.
+    Where an Institution operates, stewards, or materially controls exactly one System that needs a System Charter, that System Charter names the Institution as steward and also serves as the Institution's [Institutional Charter](core_05.040_band_continuity.md#institutional-charter): one document covers both. It supports institutional creation under [System Creation](core_05.055_band_participation.md#system-creation) and [Business Creation](core_05.055_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. A System Charter is required at Class L or higher and voluntary at Class P. The duty to publish a System Charter, its minimum contents, and its amendment and review rules are stated in [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters). Adopt, amend, and supervise mechanics route to [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (adopt and amend) and [CI-8.215](corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md#ci-8215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervise) under **Chapter Eighteen** incorporation discipline.
   - **Out of scope:**
     - an [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), which gathers the System Charters of an Institution that runs more than one System and states why it runs them;
     - a [Constitutional Charter](core_05.040_band_continuity.md#constitutional-charter), the founding document of a political community; or
@@ -3511,7 +3508,6 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*when an Institutional Charter is required, what it states, and how it changes*);
   - [Chapter Ten §3.7](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7) (*the Institutional Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*);
   - [Chapter Thirteen §4.3](core_13.000_forum.md#43-institutional-forums) (13.000 §4.3) (*institutional mandate and supervised-scope disputes*);
-  - [corpus_institutions.md](corpus_institutions.md)
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*); institutional publication of binding-governance and weighting rules under
   - **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) /
   - **CI-6.205 §2** (*Anti-concentration and participation-legitimacy safeguards*).
@@ -3625,7 +3621,6 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.005 §6.1.1) and
   - [§8.1 Minimum record contents](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*certification seats and the record of them*);
   - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
-  - [corpus_institutions.md](corpus_institutions.md)
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*),
   - **CI-14.205 §5** (*Authorized roles and accountability chains*), and
   - **CI-14.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
@@ -3644,7 +3639,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action),
   - [Auditability](core_05.050_band_oversight.md#auditability), and
   - [Contestability](core_05.035_band_accountability.md#contestability).
-- Distinguish: a Charter Role Map is not an organization chart or a list of job titles. A title carries no authority over a materially binding act unless the map places it in a seat. The seat types and their boundaries live in [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) and **CI-14.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*), not in this entry. The mechanics of keeping the map current live in [corpus_institutions.md](corpus_institutions.md), not here.
+- Distinguish: a Charter Role Map is not an organization chart or a list of job titles. A title carries no authority over a materially binding act unless the map places it in a seat. The seat types and their boundaries live in [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) and **CI-14.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*), not in this entry. The mechanics of keeping the map current live in [CI-14.205](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), not here.
 
 </details>
 
@@ -3699,9 +3694,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream:
   - [Chapter Seven §3 What System and Institutional Charters Must State](core_07.000_charters.md#3-what-system-and-institutional-charters-must-state) (7.000 §3) (*what a System Charter or Institutional Charter may point to, and the duty that each pointer resolve*);
   - [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (14.000 §4.3) (*the Charter Pointer rule for binding stakeholder choice*);
-  - [corpus_institutions.md](corpus_institutions.md)
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*);
-  - [corpus_forum.md](corpus_forum.md)
   - **CF-13.415 §5** (*Institutional and local registrars*) (*the completeness check that each pointer resolves*).
 - Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
 - Read with:

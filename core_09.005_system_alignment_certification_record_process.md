@@ -29,7 +29,7 @@
   - [§10](#10-relationship-to-standing);
   - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000).
-- Read with: [corpus_forum.md](corpus_forum.md), **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*) and **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+- Read with: **[CF-13.415](corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-routing-operations-transfer-certification-and-representative-treatment)** (*Routing operations, transfer, certification, and representative treatment*) and **[CF-13.425](corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-13425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 </details>
 
@@ -153,7 +153,6 @@ flowchart TB
 - Read with:
   - [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) under Chapter Thirteen §1;
   - [Preamble §3.3](core_00.000_preamble.md#33-governance-layers);
-  - [corpus_forum.md](corpus_forum.md),
   - **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*),
   - **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*), and
   - **CF-13.440** (*Technical specialist forums and specialist chambers*);
@@ -200,14 +199,14 @@ Detailed forum process stays with the **Forums and jurisdiction** owner layer ([
 
 *In plain terms: certifying that a system meets constitutional alignment requires an independent look at the evidence and at stakeholders' concerns. Different kinds of forums each handle an assigned piece of that work. Affected sentients can add evidence and challenge the review before the outcome is published, through the component and integrity challenge routes. No single specialty can run the whole process alone, not even technical review or Integrity coordination.*
 
-This section gives each forum family its **component role** in system alignment certification. That covers every pass of certification, validation, or recertification, including a pass that ends in withdrawal or non-certification, and the related records under [§8 System Certification Record](#8-system-certification-record). Those roles feed the supervisory sequence in [§6.2 Supervisory sequence](#62-supervisory-sequence). Full forum definitions and routing detail stay in [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md). Here, each family gets only its bounded role in producing, supervising, or challenging a certification record.
+This section gives each forum family its **component role** in system alignment certification. That covers every pass of certification, validation, or recertification, including a pass that ends in withdrawal or non-certification, and the related records under [§8 System Certification Record](#8-system-certification-record). Those roles feed the supervisory sequence in [§6.2 Supervisory sequence](#62-supervisory-sequence). Full forum definitions and routing detail stay in [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) and [CF-13.405](corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*) and [CF-13.415](corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-routing-operations-transfer-certification-and-representative-treatment) (*Routing operations, transfer, certification, and representative treatment*). Here, each family gets only its bounded role in producing, supervising, or challenging a certification record.
 
 - **What this section does:**
   - Names which forum family owns which piece of the certification job;
   - Keeps each family's authority limited to its lawful scope; and
   - Prevents any one forum from absorbing work that belongs elsewhere.
 - **What this section does not do:**
-  - Redefine forum families or routing rules. Those remain in [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) and [corpus_forum.md](corpus_forum.md).
+  - Redefine forum families or routing rules. Those remain in [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) and [CF-13.405](corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*) and [CF-13.415](corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-routing-operations-transfer-certification-and-representative-treatment) (*Routing operations, transfer, certification, and representative treatment*).
 
 <a id="611-four-seats-in-a-certification"></a>
 

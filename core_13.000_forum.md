@@ -45,7 +45,7 @@
   - [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline);
   - [§7](#7-forum-support-before-during-and-after-review--oversight-architecture).
 - Read with: [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together).
-- Downstream: [corpus_forum.md](corpus_forum.md) (*operational forum doctrine*); [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000) where governance legitimacy interacts with adjudication role; [Chapter Eighteen](core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) (*incorporation discipline* for adopted procedure layers).
+- Downstream: [CF-13.405](corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*), [CF-13.415](corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-routing-operations-transfer-certification-and-representative-treatment) (*Routing operations, transfer, certification, and representative treatment*), and [CF-13.420](corpus_forum/cf_13.420_appeal_secondary_review_exhaustion_pathways.md#cf-13420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) for operational forum doctrine; [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000) where governance legitimacy interacts with adjudication role; [Chapter Eighteen](core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) (*incorporation discipline* for adopted procedure layers).
 - Read with: [Chapter Ten §5.1](core_10.000_standing_assessment.md#5-slot-grammar-and-display-labels) (10.000 §5.1) (*standing-slot grammar*); [Chapter Ten §§4.3–4.4](core_10.000_standing_assessment.md#43-route-descriptor-measurement-roles) (10.000 §4.3) (*cross-axis normalized Contribution Axis and Violation Axis descriptors*).
 - Read also with: [Chapter Eleven §3 Descriptor integration and attachment normalization](core_11.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (11.000 §3), together with its section 2 routing by primary stakes; [README.md](README.md) (*reading order and how the corpus is organized*); [doc_architecture.md](doc_architecture.md) (*editorial maps that do not bind unless adopted*).
 
@@ -85,9 +85,8 @@ Chapter Thirteen is the constitutional owner of **forum families, default venue,
   - [Preamble §3.2](core_00.000_preamble.md#32-key-governance-processes) and
   - [§3.3](core_00.000_preamble.md#33-governance-layers) (*process paths and governance-layer discipline*);
   - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process);
-  - [corpus_forum.md](corpus_forum.md) (
-  - **CF-13.420 §2.2** (*Emergency, Exhaustion, and Timing Rules*));
-  - [corpus_institutions.md](corpus_institutions.md) (*contest, secondary review, and integrity monitoring — does not replace assigned forum jurisdiction*);
+  - **CF-13.420 §2.2** (*Emergency, Exhaustion, and Timing Rules*);
+  - [CI-13.205](corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md#ci-13205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) and [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) for contest, secondary review, and integrity monitoring, which does not replace assigned forum jurisdiction;
   - [Article XIII-A: Reliability and Trustworthiness Baseline](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and
   - [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy);
   - [Article XX family](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*justice constraints referenced in the Corpus placement widget*).
@@ -98,7 +97,7 @@ Chapter Thirteen is the constitutional owner of **forum families, default venue,
 
 *In plain terms: this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — the **standing pipeline** (Chapters Ten–Twelve disputes and record effects) and **System Alignment Certification** (Chapter Nine certification and review) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.*
 
-This chapter states which **forum families** **supervise** which primary questions through **participation** (sentient-accessible challenge, representative treatment, and proportionate access) and **oversight** (independence, forensic support, and traceable merits review). It does **not** specify docket rules, staffing, budgets, granular procedure, or operational escalation mechanics. Those details belong in adopted implementation text. **Forum families** must state legal and regulatory boundaries for threshold placement, primary-stakes routing, and system-alignment review in a predictable, published way that follows **section 2** and **`corpus_forum.md`**.
+This chapter states which **forum families** **supervise** which primary questions through **participation** (sentient-accessible challenge, representative treatment, and proportionate access) and **oversight** (independence, forensic support, and traceable merits review). It does **not** specify docket rules, staffing, budgets, granular procedure, or operational escalation mechanics. Those details belong in adopted implementation text. **Forum families** must state legal and regulatory boundaries for threshold placement, primary-stakes routing, and system-alignment review in a predictable, published way that follows **section 2** and [CF-13.415](corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-routing-operations-transfer-certification-and-representative-treatment) (*Routing operations, transfer, certification, and representative treatment*).
 
 **Forum families supervise:**
 
@@ -171,7 +170,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 
 <a id="9-relation-to-implementation-files"></a>
 
-Institutional contest, secondary review, and integrity monitoring in **`corpus_institutions.md`** (including **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) through **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-13.210** (*Cross-institution coordination and escalation*), and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, without displacing primary-stakes routing or merits authority this chapter assigns.
+Institutional contest, secondary review, and integrity monitoring in the institutional family (including **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) through **[CI-6.205](corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md#ci-6205-transparency-participation-and-accessible-challenge-and-service-pathways)** (*Transparency, participation, and accessible challenge and service pathways*), **[CI-13.210](corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md#ci-13210-cross-institution-coordination-and-escalation)** (*Cross-institution coordination and escalation*), and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, without displacing primary-stakes routing or merits authority this chapter assigns.
 
 <a id="2-default-venue-and-primary-stakes"></a>
 
@@ -193,9 +192,8 @@ Institutional contest, secondary review, and integrity monitoring in **`corpus_i
   - [Chapter Ten §5.1](core_10.000_standing_assessment.md#5-slot-grammar-and-display-labels) (10.000 §5.1) (*standing-slot grammar*);
   - [Chapter Ten §7 unified scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (10.000 §7) (*shared five-times LEQU bands and separate axis records*);
   - [Chapter Ten §§4.3–4.4](core_10.000_standing_assessment.md#43-route-descriptor-measurement-roles) (10.000 §4.3) (*cross-axis normalized descriptors informing primary stake without moving the impact slot*);
-  - [corpus_forum.md](corpus_forum.md) (
-  - **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*) and
-  - **CF-13.425 §2** (*Constitutional alignment certification and review*));
+  - **[CF-13.415](corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-routing-operations-transfer-certification-and-representative-treatment)** (*Routing operations, transfer, certification, and representative treatment*) and
+  - **CF-13.425 §2** (*Constitutional alignment certification and review*);
   - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
   - [Chapter Twelve §3](core_12.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (12.000 §3) (*anti-constitutional-misconduct designation for qualifying Chapter Ten slots 7–9; legacy anchor preserved*);
   - [Chapter Twelve §4](core_12.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (12.000 §4) (*due process for that designation read with this chapter and **Article XX** (*Justice After Verified Violation*)*);
@@ -221,7 +219,7 @@ Institutional contest, secondary review, and integrity monitoring in **`corpus_i
 <a id="good-faith-characterization-and-anti-gaming"></a>
 **Good-faith characterization and anti-gaming.** Forum characterization must be **good-faith** and **warranted** by **primary stakes**. **Knowing** mischaracterization **may** trigger **costs**, **dismissal**, or **referral** under adopting law. Incentive devices must not be structured or applied to reward forum shopping, opaque threshold sorting, or routing inconsistent with primary-stakes discipline in **this section** and **section 3**.
 
-Operational requirements — including **published intake classes**, attributable intake records, independence and **contest** expectations, and review of **contested** routing inside the **intake target** — are stated in **`corpus_forum.md`** (**CF-13.415** (*Routing operations, transfer, certification, and representative treatment*)).
+Operational requirements — including **published intake classes**, attributable intake records, independence and **contest** expectations, and review of **contested** routing inside the **intake target** — are stated in **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*).
 
 **Initial access** to each forum family must come inside the **intake target** of the matching tier ([CF-13.445 §3.1](corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) and be contestable enough that:
 - primary-stakes routing under this section remains meaningful;
@@ -232,7 +230,7 @@ Time expectations for forum access must:
 - be calibrated to harm urgency and matter complexity under **section 6** and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*);
 - favor real threshold access and lawful interim relief under **section 5** (*Interim protection*) over administrative convenience.
 
-The **intake triage body** under this section, together with **`corpus_forum.md`** (**CF-13.415** (*Routing operations, transfer, certification, and representative treatment*)), satisfies this obligation and must implement **section 6** tier-default windows within incorporation scope.
+The **intake triage body** under this section, together with **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*), satisfies this obligation and must implement **section 6** tier-default windows within incorporation scope.
 
 **Routing map from Chapter Ten §3 (*Verification and record requirements*).** Chapter Ten tells forums how to *measure* what happened. It does **not** by itself pick which forum hears the case. At filing, the family's **intake triage body** (first-touch desk) works through this sequence:
 
@@ -353,9 +351,8 @@ This subsection sets out the records a forum keeps and how they may be contested
 - Read with:
   - [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
   - [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
-  - [corpus_institutions.md](corpus_institutions.md) (*internal integrity process that may precede integrity forums where safeguards meet expectations*);
-  - [corpus_forum.md](corpus_forum.md) (
-  - **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*), integrity-led alignment coordination).
+  - [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CI-13.205](corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md#ci-13205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) for the internal integrity process that may precede integrity forums where safeguards meet expectations;
+  - **[CF-13.425](corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-13425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*), integrity-led alignment coordination.
 
 </details>
 
@@ -376,7 +373,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 
 **Family sequencing and alignment lead.** Related matters may start in the nearest track with jurisdiction, use a lawful institutional internal integrity process first where safeguards hold, and keep one **Integrity** lead record for **alignment** coordination — without displacing other families' **primary-stakes** merits.
 - **Sentient** first may apply when peer disputes can be fully resolved without final institutional or constitutional determination; institutional or constitutional aspects may be stayed or split with explicit preclusion rules.
-- **Institutional** internal integrity process may precede **Integrity** forums where independence and contest safeguards meet **Chapter Ten**, **Chapter Six** (Foundational Rights), and **`corpus_institutions.md`** expectations; **Integrity** forums remain available for final integrity determinations, cross-institution deadlock, and pattern claims.
+- **Institutional** internal integrity process may precede **Integrity** forums where independence and contest safeguards meet **Chapter Ten**, **Chapter Six** (Foundational Rights), and **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) and **[CI-13.205](corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md#ci-13205-procedure-integrity-contestability-and-secondary-review)** (*Procedure integrity, contestability, and secondary review*) expectations; **Integrity** forums remain available for final integrity determinations, cross-institution deadlock, and pattern claims.
 
 **Integrity-led alignment coordination:**
 - Where an **Integrity** forum issues an **alignment** ruling under **section** **4**, it **remains** the **lead** coordinating forum for **that** proceeding's **record**, as **section** **4** provides.
@@ -384,7 +381,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 - Where material ecological exposure exists, **Environment** forum environmental-alignment review is a required component of that lead record. Lead **Integrity** coordination must not finalize certification, validation, recertification, or material release from environmental conditions while a timely Environment forum objection, remediation condition, or certified environmental question remains unresolved.
 - **Component** matters **referred** or **certified** to **other** families **remain** with those forums for **primary-stakes** **merits**.
 - Lead **Integrity** coordination must not preempt final merits on non-integrity primary questions reserved to **Constitutional**, **Institutional**, **Environment**, **specialized technical**, or **Sentient** forums.
-- **Conflicting** **simultaneous** orders **must** be **resolved** through **published** **coordination** rules — **including** **stays** and **sequencing** in the **alignment** ruling or **implementation** text — **consistent** with **section** **7** and **`corpus_forum.md`** (**CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+- **Conflicting** **simultaneous** orders **must** be **resolved** through **published** **coordination** rules — **including** **stays** and **sequencing** in the **alignment** ruling or **implementation** text — **consistent** with **section** **7** and **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 **Cross-forum anti-self-judging rule.** A **forum** family **must not** be the **sole** **final** **merits** forum for a claim whose **primary** issue is that same family's own **bias**, **capture**, **conflict**, **recusal failure**, **concealment**, **process abuse**, or comparable **integrity** breach.
 - Primary-stakes routing still governs. The **independent** lead family for such claims is assigned as follows unless a more specific constitutional rule controls:
@@ -424,10 +421,9 @@ This subsection sets out the records a forum keeps and how they may be contested
 - Downstream: [§5](#5-escalation-and-certification) (*family-to-family escalation; certification when operational and constitutional stakes merge; alignment rulings and general doctrine*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review*).
 - Read with:
   - [Preamble §3.1](core_00.000_preamble.md#31-using-measurements-in-governance) (*measurement standards custody and governance bridge*);
-  - [corpus_forum.md](corpus_forum.md) (
-  - **CF-13.405** (*Forum formation, forum-structure mapping, and chamber structure*);
-  - **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) alignment rulings);
-  - [corpus_institutions.md](corpus_institutions.md) (*institution duties and supervised-scope language mirrored in the institutional family*);
+  - **[CF-13.405](corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-forum-formation-forum-structure-mapping-and-chamber-structure)** (*Forum formation, forum-structure mapping, and chamber structure*);
+  - **[CF-13.425](corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-13425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) alignment rulings;
+  - [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) for institution duties and supervised-scope language mirrored in the institutional family;
   - [Chapter Five — Corpus](core_05.045_band_integrative.md#corpus) (5.045) (*implementation-file designation and custody terms for incorporated institution rules*).
 - Within §4:
   - [§4.1](#41-sentient-forums);
@@ -450,7 +446,7 @@ Operational family inventory, local title flexibility, and non-collapse mechanic
 
 Each family may use **internal chambers**, divisions, or designated panels; **family** boundaries still govern **appeal**, **certification**, and **primary-stakes** routing under **sections 2 and 5**.
 
-The **subsections** **below** **follow** **section** **2**’s **default** **venue** **table** **order**. Local **titles** **may** **differ** under **`corpus_forum.md`** (**CF-13.405** (*Forum formation, forum-structure mapping, and chamber structure*)); **function** must not. When the **primary** stake leaves a family's allocation, **sections 2, 3, and 5** govern routing, transfer, consolidation, certification, and backup — family definitions do not restate that matrix.
+The **subsections** **below** **follow** **section** **2**’s **default** **venue** **table** **order**. Local **titles** **may** **differ** under **CF-13.405** (*Forum formation, forum-structure mapping, and chamber structure*); **function** must not. When the **primary** stake leaves a family's allocation, **sections 2, 3, and 5** govern routing, transfer, consolidation, certification, and backup — family definitions do not restate that matrix.
 
 <a id="41-sentient-forums"></a>
 
@@ -525,13 +521,13 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - the scope it is supervised under;
 - how it is classified under adopted documents;
 - measurement under adopted documents;
-- whether it followed its institutional duties under **`corpus_institutions.md`** and cognate layers.
+- whether it followed its institutional duties under **[CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody)** (*Institutional design, separation of powers, and authority custody*), **[CI-9.210](corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-classification-linked-institutional-obligations)** (*Classification-linked institutional obligations*), and cognate layers.
 
 **Illustrative matters.** This family includes contests over:
 - institutional mandate, permitted action, or charged function;
 - supervised-scope boundaries and classification under adopted documents;
 - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) scope, Institutional Charter amendment authority, Institutional Charter–behavior mismatch, or operation outside chartered scope;
-- institutional-duty compliance and performance under **`corpus_institutions.md`** and cognate layers;
+- institutional-duty compliance and performance under **[CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody)** (*Institutional design, separation of powers, and authority custody*), **[CI-9.210](corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-classification-linked-institutional-obligations)** (*Classification-linked institutional obligations*), and cognate layers;
 - local enforcement of shared cross-jurisdiction or cross-institution standards;
 - institutional-mandate and Rights-Floor component questions in system-alignment proceedings where an institution is a necessary party or institutional mandate is primary.
 
@@ -664,7 +660,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 - **rejecting** them (withdrawing **general** effect except as **fairness** to **parties** may require); or
 - **hearing** the question on **full** merits.
 
-Granular publication, docketing, and effect **pending** disposition remain in **[corpus_forum.md](corpus_forum.md)**. Where the operational question cannot be separated from constitutional validity, meaning, or structural remedy, **section 5** governs certification and escalation.
+Granular publication, docketing, and effect **pending** disposition remain in **[CF-13.445](corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-forum-performance-backlog-requirements-publication-timeliness-and-accessibility)** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) (publication and timeliness) and **[CF-13.465](corpus_forum/cf_13.465_standard_records_forms_evidence_artifacts.md#cf-13465-standard-records-forms-and-evidence-artifacts)** (*Standard records, forms, and evidence artifacts*) (standard records, forms, and evidence artifacts). Where the operational question cannot be separated from constitutional validity, meaning, or structural remedy, **section 5** governs certification and escalation.
 
 <a id="47-provisional-implementation-operational-law"></a>
 
@@ -676,7 +672,7 @@ Granular publication, docketing, and effect **pending** disposition remain in **
 The following **single** framework applies to **Institutional forums**, **Environment forums**, and **specialized technical forums** within each type's lawful scope. It does not replace **Integrity** alignment rulings under **section 4.5**.
 
 Where **necessary** to resolve a matter within jurisdiction, the forum may issue **provisional** rulings on **implementation operational law** — interpretation, coordination, or orderly application of **adopted** implementation documents — as **general** operational doctrine. **Subject matter** depends on the forum type:
-- **Institutional forums:** **institutional** duties under **`corpus_institutions.md`** and cognate layers, together with related implementation documents.
+- **Institutional forums:** **institutional** duties under **[CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody)** (*Institutional design, separation of powers, and authority custody*), **[CI-9.210](corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-classification-linked-institutional-obligations)** (*Classification-linked institutional obligations*), and cognate layers, together with related implementation documents.
 - **Environment forums:** **environmental** operational rules in cognate layers governing **ecological integrity**, **environmental preconditions**, **restoration**, **remediation**, **attribution**, and comparable **environmental** **merits**.
 - **Specialized technical forums:** **scientific**, **technical**, **clinical**, **engineering**, **medical**, or **knowledge-governance** standards and procedures, **cross-family** technical administration, and related implementation documents.
 
@@ -949,10 +945,8 @@ This subsection sets out how Chapter Twelve designation relates to independent r
 - Downstream:
   - [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*inspection, forensic, and follow-through support*);
   - [§5](#interim-protection) (*Interim protection*);
-  - [corpus_forum.md](corpus_forum.md) (
-  - **CF-13.445 §3.1** (*stage targets and outer bounds*));
-  - [corpus_institutions.md](corpus_institutions.md) (
-  - **CI-6.205** (*accessible challenge and service pathways*));
+  - **CF-13.445 §3.1** (*stage targets and outer bounds*);
+  - **[CI-6.205](corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md#ci-6205-transparency-participation-and-accessible-challenge-and-service-pathways)** (*accessible challenge and service pathways*);
   - [Chapters Ten–Thirteen application vignettes](core_10.005_application_vignettes.md#chapters-tenthirteen-pipeline-application-vignettes);
   - [§6.1 Emergency measures and continuation burden](#61-emergency-measures-and-continuation-burden) (*same outer bounds as default restore-challenge windows*).
 - Tetrad leg(s): **timeliness** (cross-cutting enforcement); **participation** and **oversight** (accessible intake and published milestones). Primary aim(s): **Flourishing** and **Continuity**.
@@ -1122,9 +1116,8 @@ This subsection sets the requirements and the operating rules for emergency meas
   - [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tier windows and anti-delay discipline*).
 - Downstream: [§5](#interim-protection) (*Interim protection while support work proceeds*).
 - Read with:
-  - [corpus_forum.md](corpus_forum.md) (
-  - **CF-13.430** (*Forum forensic and analytical support*);
-  - **CF-13.435** (*Independent investigative service and prosecution interface*));
+  - **[CF-13.430](corpus_forum/cf_13.430_forum_forensic_analytical_support.md#cf-13430-forum-forensic-and-analytical-support)** (*Forum forensic and analytical support*);
+  - **[CF-13.435](corpus_forum/cf_13.435_independent_investigative_service_prosecution_interface.md#cf-13435-independent-investigative-service-and-prosecution-interface)** (*Independent investigative service and prosecution interface*);
   - [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy);
   - [Article XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 

@@ -815,7 +815,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
     - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.010_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
     - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), and
     - [Article XXVI-A: Retrospective Review and Disclosure](core_06.020_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
-- Read with: [Chapter Thirteen §4.2 — Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains) (13.000 §4.2) (*including shared standards and anti-displacement*) where expert-evidence standards, certified technical questions, or evidence-stewardship disputes are material; [corpus_forum.md CF-13.440](corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
+- Read with: [Chapter Thirteen §4.2 — Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains) (13.000 §4.2) (*including shared standards and anti-displacement*) where expert-evidence standards, certified technical questions, or evidence-stewardship disputes are material; [CF-13.440](corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md#cf-13440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
 
 </details>
 

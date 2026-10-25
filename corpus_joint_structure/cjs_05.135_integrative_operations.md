@@ -211,7 +211,7 @@ No permanent secrecy and anti-normalization discipline
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.125 §14 — Intervention governance and override authorization**
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5)**
-- Read with: **`corpus_forum.md` CF-13.450 (*Forum continuity*) through CF-13.460 (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
+- Read with: [CF-13.450](../corpus_forum/cf_13.450_forum_continuity.md#cf-13450-forum-continuity) (*Forum continuity*) through [CF-13.460](../corpus_forum/cf_13.460_emergency_adjudication.md#cf-13460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: Constitutional hooks in **Articles X, XIII, and XIV**
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-5.125 §14** (*Accountability: intervention governance and override-authorization terms*) governance authorization.
