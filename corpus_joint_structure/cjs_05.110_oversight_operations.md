@@ -64,7 +64,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-5.135 §22 — Integrative: constrained-secrecy and protected-investigation terms**
 - Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
-- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**
+- Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §13.2, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -262,7 +262,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** (**Type O**, **Type G**, access-posture bands)
+- Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -395,7 +395,7 @@ Operational transparency and structured logging requirements
 - Read with: **`corpus_forum.md` CF-13.450 (*Forum continuity*) through CF-13.460 (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_06.305_information_types_and_handling.md#53-transparency-levels-and-audit-access) / [§7](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems))
+- Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_06.305_information_types_and_handling.md#53-transparency-levels-and-audit-access) / [§7](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems))
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §18.2, §18, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -496,7 +496,7 @@ Class A/B/C public-interest visibility
 *In plain terms: for Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational…*
 
 - **What it is**
-  - **In scope:** For Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance — including, at public-baseline fidelity, a usable public view of the governing System Charter, [System Classification Record](../core_05.040_band_continuity.md#system-classification-record), [System Data Types Record](../core_05.040_band_continuity.md#system-data-types-record), and [System Certification Record](../core_05.040_band_continuity.md#system-certification-record) — subject to `corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications data handling. **Type O** is the publication posture for that floor; **Type E** and **Type G** are source domains, not substitutes for it.
+  - **In scope:** For Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance — including, at public-baseline fidelity, a usable public view of the governing System Charter, [System Classification Record](../core_05.040_band_continuity.md#system-classification-record), [System Data Types Record](../core_05.040_band_continuity.md#system-data-types-record), and [System Certification Record](../core_05.040_band_continuity.md#system-certification-record) — subject to [CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications) data handling. **Type O** is the publication posture for that floor; **Type E** and **Type G** are source domains, not substitutes for it.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class A/B/C public-interest visibility.
 <a id="class-a-b-c-public-interest-visibility-a"></a>
 - **How to measure and assess**
@@ -605,7 +605,7 @@ Access-level structure and baseline accessibility
 - Read with: **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** (*audit process home*)
 - Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
-- Read with: **`corpus_systems.md` CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**
+- Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).

@@ -192,7 +192,7 @@ Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad)
 - the supervisory sequence puts **oversight** and **accountability** into practice across forum families; and
 - the contestability chain puts **participation** and **timeliness** into practice, so affected sentients can challenge a certification before their reliance becomes irreversible on systems that gate survival essentials, education, or safety.
 
-Detailed forum process stays with the **Forums and jurisdiction** owner layer ([Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction)). Operational detail is routed under [corpus_systems.md](corpus_systems.md), per the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation).
+Detailed forum process stays with the **Forums and jurisdiction** owner layer ([Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction)). Operational detail is routed under **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) and the systems rules it points to, per the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation).
 
 <a id="61-forum-supervision-and-component-roles"></a>
 
@@ -381,7 +381,7 @@ When a forum-supervised challenge is required, internal operator review, vendor 
   - [§10](#10-relationship-to-standing) (*verified-input gate where facts support adverse findings*);
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) (*forum supervision*);
   - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
-- Read with: [corpus_systems.md](corpus_systems.md) (*incorporated system implementation duties*), including **[CS-6.305 §5.2](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[CS-9.305 §3.5](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
+- Read with: **[CS-6.305 §5](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[CS-9.305 §3](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
 - Subsections: [§7.1](#71-remediation-readiness-willingness-and-capacity-to-correct) (*remediation readiness: willingness and capacity to correct*); [§7.2](#72-denial-and-revocation) (*denial and revocation*).
 
 </details>
@@ -596,7 +596,7 @@ The forum may not meet any of these by certifying, or by continuing certificatio
 - Read with:
   - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification);
   - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation);
-  - [corpus_systems.md](corpus_systems.md), **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, and
+  - **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, and
   - **CS-6.345** (*System lifecycle*);
   - **CJS-5.110 §4** (*transparency levels and audit-access terms*).
 - Subsections: [§8.1](#81-minimum-record-contents) (*minimum record contents*); [§8.2](#82-record-integrity-transparency-and-auditability) (*record integrity: transparency and auditability*).
@@ -758,7 +758,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 
 **Transparency** — sentients must be able to see what matters:
 
-- A certification record must disclose decision-relevant facts, at a level proportionate to system class and material impact under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, including what [§8 System Certification Record](#8-system-certification-record) requires:
+- A certification record must disclose decision-relevant facts, at a level proportionate to system class and material impact under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, including what [§8 System Certification Record](#8-system-certification-record) requires:
   - scope;
   - assumptions;
   - evidence basis;
@@ -769,7 +769,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 - A System Certification Record is **Type O** certification data for every system class. It is published at public-baseline fidelity, with lawful substitutes, under [CS-6.310 Part B §9.3 Type O](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data);
 - Limits on disclosure justified by safety or security are permitted only where they are consistent with [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity) and Chapter One disclosure constraints;
 - Volume, formatting, or technical obscurity must not stand in for decision-relevant clarity; and
-- The online-publication baseline, the paywall prohibition for [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Transparency](core_05.050_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, read with **CJS-5.110 §4** (*transparency levels and audit-access terms*).
+- The online-publication baseline, the paywall prohibition for [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Transparency](core_05.050_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, read with **CJS-5.110 §4** (*transparency levels and audit-access terms*).
 
 **Auditability** — sentients must be able to reconstruct and check the record:
 
@@ -802,7 +802,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
   - [§2](core_03.000_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
   - [System Charter](core_05.040_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
 - Downstream: [§10](#10-relationship-to-standing) (*verified-input gate where facts support adverse findings*); [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) (*reopened forum supervision*); [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
-- Read with: [corpus_systems.md](corpus_systems.md) (*incorporated system implementation duties*), including **[CS-6.305 §5.2](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-9.305 §3.5](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*).
+- Read with: **[CS-6.305 §5](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-9.305 §3](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*).
 - Subsections:
   - [§9.1](#91-challenging-a-certification) (*challenging a certification*, with
   - [§9.1.1](#911-contestability-paths) *contestability paths*);

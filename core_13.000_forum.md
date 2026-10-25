@@ -161,7 +161,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 - reviewing cost, sanction, contest and reporting pathways
 - remediating sequencing hooks, and comparable adjudication-adjacent alignment.
 
-**System-wide** budgets, cross-cutting research funding, and governance-scale programs remain subject to [Chapter Fourteen — Governance](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship), **[corpus_systems.md](corpus_systems.md)**, and other supremacy rules where applicable. Payoffs, cost rules, and similar incentive tools must **not** take the place of:
+**System-wide** budgets, cross-cutting research funding, and governance-scale programs remain subject to [Chapter Fourteen — Governance](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship), **[CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*), and other supremacy rules where applicable. Payoffs, cost rules, and similar incentive tools must **not** take the place of:
 
 - proper forum routing
 - a real merits decision by a lawfully constituted panel
@@ -196,7 +196,7 @@ Institutional contest, secondary review, and integrity monitoring in **`corpus_i
   - [corpus_forum.md](corpus_forum.md) (
   - **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*) and
   - **CF-13.425 §2** (*Constitutional alignment certification and review*));
-  - [corpus_systems.md](corpus_systems.md) (*system classification, deployment, and recertification duties*);
+  - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
   - [Chapter Twelve §3](core_12.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (12.000 §3) (*anti-constitutional-misconduct designation for qualifying Chapter Ten slots 7–9; legacy anchor preserved*);
   - [Chapter Twelve §4](core_12.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (12.000 §4) (*due process for that designation read with this chapter and **Article XX** (*Justice After Verified Violation*)*);
   - [Article XX-A](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*justice objective and scope*).
@@ -615,7 +615,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 **Constitutional alignment certification and validation.** **Integrity forums** are the default official forum for certifying whether a new materially impactful system is constitutionally aligned enough to operate within its claimed scope, and for periodically validating whether existing systems remain aligned as their behavior, scale, dependency, incentives, or risk profile changes. They hold the same role for an Institution under [Chapter Nine Part D](core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification), where the forum body itself is an Institution and the anti-self-judging rules of **section 3** apply to it ([Chapter Nine Part D §14.5 Forums, certifiers, and record offices as institutions](core_09.015_institutional_alignment_certification.md#145-forums-certifiers-and-record-offices-as-institutions)).
 - They apply technical-forum specifications, methods, and expert evidence where material, but their judgment also includes constitutional, institutional, ecological, rights, anti-capture, and remediation considerations.
 - Where material ecological exposure exists, the **Environment** forum family's environmental-alignment component determination is required before final certification, validation, recertification, or material release from environmental conditions; sequencing is governed by **section 3**.
-- Certification and validation must be evidence-based, contestable, and traceable under **Chapters Two through Four**, **Chapter Ten**, **Chapter Six**, and **`corpus_systems.md`**.
+- Certification and validation must be evidence-based, contestable, and traceable under **Chapters Two through Four**, **Chapter Ten**, **Chapter Six**, and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*).
 - Outcomes may include:
   - certification;
   - conditional certification;
@@ -760,7 +760,7 @@ This subsection sets out when matters are certified to **Constitutional** forums
   - review cadence;
   - contest path; and
   - any referred or certified questions.
-  Certification is not permanent authorization: material change, misalignment, concealed behavior, new dependency, new risk, or credible challenge reopens review under this chapter and **`corpus_systems.md`**.
+  Certification is not permanent authorization: material change, misalignment, concealed behavior, new dependency, new risk, or credible challenge reopens review under this chapter and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*).
 
 #### Technical support and preserved **Integrity** escalation
 

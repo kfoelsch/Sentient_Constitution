@@ -134,7 +134,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
     - [material impact](core_05.050_band_oversight.md#material-impact);
     - [dependency](core_05.040_band_continuity.md#dependency); and
     - [risk](core_05.040_band_continuity.md#risk).
-    The system's class under *[corpus_systems.md](corpus_systems.md)*, CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications, and related rules sets that intensity.
+    The system's class under [CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications), and related rules sets that intensity.
   - **Out of scope:**
     - ordinary uniform process detail among systems that share the same real class under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*); or
     - implementation typing and class-assignment mechanics owned by CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) —
@@ -1089,7 +1089,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 **Oversight frame.** Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others (forum-supervised alignment review with certification outcomes under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
-**System class and proportionality.** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
+**System class and proportionality.** Transparency, auditability, and verification duties scale with system class under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - deeper assurance;
 - finer records;
 - stronger independent verification; and
@@ -1132,7 +1132,7 @@ See **Anti-Segmentation Principle**.
   - [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure),
   - [Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure),
   - [Verifiability](core_05.050_band_oversight.md#verifiability), and **
-  - [corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** (**Type O** — open public oversight baseline disclosure data).
+  - [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -1210,7 +1210,7 @@ See **Anti-Segmentation Principle**.
   - [System Classification Record](core_05.040_band_continuity.md#system-classification-record),
   - [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record),
   - [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance), and **
-  - [corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** (**Type O**).
+  - [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O**).
 
 </details>
 
@@ -1219,7 +1219,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.*
 
 - **What it is**
-  - **In scope:** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**. Coverage follows the governing [System Charter](core_05.040_band_continuity.md#system-charter), assigned class, and observed [System Boundaries](core_05.040_band_continuity.md#system-boundaries). It includes what sentients need to understand:
+  - **In scope:** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**. Coverage follows the governing [System Charter](core_05.040_band_continuity.md#system-charter), assigned class, and observed [System Boundaries](core_05.040_band_continuity.md#system-boundaries). It includes what sentients need to understand:
     - purpose and what the system does;
     - how it is classified;
     - dependency structure and what depends on it;
@@ -1246,7 +1246,7 @@ See **Anti-Segmentation Principle**.
     - **Type E** holds survival- and coordination-critical content streams; **Type G** holds audit-accessible governance and operational source that is not public by default.
     - Neither **Type E** nor **Type G** is itself the public floor.
     - Published baseline artifacts drawn from them — including substitutes — are **Type O**; underlying streams may remain under their original type.
-    - Systems-layer typing, substitute mechanics, and holding-back limits are owned by **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** as **Type O**.
+    - Systems-layer typing, substitute mechanics, and holding-back limits are owned by **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** as **Type O**.
   - **Out of scope:**
     - raw **Type G**, **Type E**, or other restricted source records — publishing a public substitute derived from them does not bring those raw records into this disclosure floor;
     - [Auditability](core_05.050_band_oversight.md#auditability) structured or qualified audit access as such — that is not itself the public floor; or
@@ -1755,7 +1755,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether publication respects restricted-data rules and protected internal-state boundaries — not reconstructing or exposing protected cognitive or emotional states.
 
-    **Primary assessment:** Publication must not bypass **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
+    **Primary assessment:** Publication must not bypass **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **What must hold**
   - **Primary failure:** publication that violates restricted-data rules, bypasses CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) handling, or exposes protected internal states contrary to [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary).
@@ -1786,7 +1786,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - large-scale harmful coordination;
     - [Cascading Failure](core_05.040_band_continuity.md#cascading-failure); or
     - patterns that materially degrade [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity).
-  - **Class A** and **Class B** systems under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, trigger heightened proportional constraints on distribution mechanics and safeguards.
+  - **Class A** and **Class B** systems under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, trigger heightened proportional constraints on distribution mechanics and safeguards.
   - **Primary failure:** publishing without the proportional distribution constraints and safeguards required for these primary or reasonably foreseeable effects, including the heightened constraints for **Class A** and **Class B** systems.
 
 <a id="security-sensitive-disclosure-balance"></a>
@@ -1808,7 +1808,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - adversarial manipulation.
   - **Secondary measure:** Good-faith researcher publication routes and deferred exploit-detail timing — co-measures under **Type S** deferred disclosure and **CJS-5.135 §22** (*constrained-secrecy and protected-investigation terms*).
 
-    **Secondary assessment:** Assess whether low-risk findings can be published through a usable route, and whether exploit-enabling detail is deferred until security mitigation is complete, consistent with **Type S** deferred disclosure under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, and **CJS-5.135 §22** (*constrained-secrecy and protected-investigation terms*).
+    **Secondary assessment:** Assess whether low-risk findings can be published through a usable route, and whether exploit-enabling detail is deferred until security mitigation is complete, consistent with **Type S** deferred disclosure under **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, and **CJS-5.135 §22** (*constrained-secrecy and protected-investigation terms*).
 <a id="security-sensitive-disclosure-balance-c"></a>
 - **What must hold**
   - Good-faith security researchers must have a usable, non-retaliatory route to publish low-risk information — including existence notice and non-exploit-enabling detail — without treating researcher publication itself as prohibited disclosure.

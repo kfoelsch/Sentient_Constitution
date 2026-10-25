@@ -417,7 +417,7 @@ This Article protects each sentient's ownership of their own body and their gene
   - For biological sentients, this means their DNA and similar inherited or family-line data.
   - For other kinds of sentients, it means whatever information plays the same defining role for them.
   - No one may collect, use, change, synthesize, sell, or reveal this information without the sentient's **Consent** or another basis this Constitution accepts under **Chapter One** and **Chapter Five**.
-  - This protection works together with **Privacy (Informational)**, **Article VII-B** (*Self-Ownership of Mind*) where it applies, and **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**.
+  - This protection works together with **Privacy (Informational)**, **Article VII-B** (*Self-Ownership of Mind*) where it applies, and **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**.
   - If this information is used to pressure, block, or force choices about having or creating children, **Article VIII-B** (*Reproductive and Lineage Autonomy*) applies as well.
 - **Public-health requirements:** A vaccination requirement — or a similar requirement to get preventive treatment or testing — limits the right to refuse care. Such a requirement is allowed only if it passes [Chapter One §7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline) and meets every one of these conditions:
   - it responds to a specific, evidence-based risk of significant harm to others or to society as a whole — not to a risk that falls only on the sentient themselves;
@@ -452,7 +452,7 @@ This Article protects each sentient's ownership of their own body and their gene
 
 *In plain terms: every sentient's thoughts, feelings, and attention belong to them. Everyday sensing of how others feel, and reading someone with their consent (as in therapy), are fine — but no one may monitor or analyze a sentient, including by piecing together what they do, say, or click, to work out their inner states, expose what they have kept private, or hijack their attention. Any analysis results that do reveal inner states get the same strict protection as the thoughts and feelings themselves.*
 
-This Article protects each sentient's inner life — their thoughts, feelings, and other internal states — and their attention. Chapter Five defines the line around inner states under [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary). The detailed rules for labeling and handling this kind of information are in **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**.
+This Article protects each sentient's inner life — their thoughts, feelings, and other internal states — and their attention. Chapter Five defines the line around inner states under [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary). The detailed rules for labeling and handling this kind of information are in **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**.
 
 - **Self-ownership of mind:** Every sentient has the right to keep their thoughts, feelings, and inner mental life private and secure.
   - **Allowed under this Article:** ordinary, everyday sensing of how others seem to feel, and reading someone with their consent — as a therapist, doctor, or coach does.
@@ -521,7 +521,7 @@ This Article sets out the floor for anything done without a sentient's consent d
 - **No crisis-framing substitute:** Calling something a "crisis" does not relax the ordinary limits on restricting rights in **Chapter One §7.1** (*Limitation Discipline*).
   - An ongoing restriction presented as a continuing crisis is not allowed unless the facts behind the crisis claim can be independently reviewed, it has an end date, and it is regularly re-reviewed.
 - **No backdoor into the mind:** A crisis does not permit anyone to reconstruct or reliably estimate a sentient's protected inner states from their behavior, interactions, or circumstances, contrary to **Article VII-B** (*Self-Ownership of Mind*).
-  - Where analysis of such data produces results that effectively estimate inner states, those results remain Type N data under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** and keep all of their handling restrictions.
+  - Where analysis of such data produces results that effectively estimate inner states, those results remain Type N data under **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** and keep all of their handling restrictions.
 - **Developing sentients:** When the sentient is still developing, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*)'s *Best-Interest Standard* and *Graduated Capability* govern the reasoning behind the intervention.
   - Carers, family members, and parent-system actors are bound by **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*), **Article VIII-A** (*Family and Care Relationships*), and **Article VIII-E** (*Non-Separation*) and may not use a crisis to override the sentient's own preferences where those can be ascertained.
 - **Review and remedy:** Long or ongoing interventions must be independently re-reviewed at regular intervals by a designated forum family (**Chapter Thirteen**).
@@ -1004,7 +1004,7 @@ This Article sets out self-ownership of reputation and likeness and the limits o
 - **Limits on the factual-reporting exception:** Factual reporting and documentary depiction must remain materially tied to an accurate account of observable events. They do not create general authority for unrelated identity-linked reuse.
   - Such use must not substitute gratuitous intimate or irrelevant personal exposure where it is not materially relevant to the reported facts.
   - Such use must not rely on deceptive editing, misattribution, or synthetic likeness held out as authentic beyond what the truth claim supports.
-- **Where the detailed rules live:** How likeness and reputation information is sorted, labeled, and handled day to day is spelled out in **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**.
+- **Where the detailed rules live:** How likeness and reputation information is sorted, labeled, and handled day to day is spelled out in **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**.
 
 #### Article IX-B: Experiential and Derived Data Rights
 <details>
@@ -1034,7 +1034,7 @@ This Article sets out ownership of experience and derived data:
   - their observations of interactions;
   - data derived from their own perception, participation, and internal processes.
   
-  This ownership remains subject to the constraints of this Article, **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**, and **Sentient Constitution Chapters Two through Five** where definitional or verification standards apply.
+  This ownership remains subject to the constraints of this Article, **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, and **Sentient Constitution Chapters Two through Five** where definitional or verification standards apply.
 
 In interactions involving multiple sentients:
 - each participant retains ownership over their own experience of the interaction;
@@ -1044,13 +1044,13 @@ In interactions involving multiple sentients:
 That ownership does not authorize any participant to erase, monopolize, or falsely preempt another participant's good-faith account of shared observable events.
 
 Ownership of experiential or interaction-derived data does not grant the right to:
-- bypass data-classification constraints defined in **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**;
-- access, infer, reconstruct, or approximate another sentient's internal states (Type N data as defined in **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**);
+- bypass data-classification constraints defined in **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**;
+- access, infer, reconstruct, or approximate another sentient's internal states (Type N data as defined in **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**);
 - misattribute shared events or portray inferred internal states as observed fact;
 - violate consent, privacy, or informational-integrity protections under **Article VII-A** (*Self-Ownership of Body*), **Article VII-B** (*Self-Ownership of Mind*), **Article IX-A** (*Self-Ownership of Likeness and Reputation*), **Article X-A** (*Agency and Freedom from Manipulation*), **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), or **Article XV** (*Info-Sphere Integrity*).
 
 All use, storage, transformation, and disclosure of such data must remain subject to:
-- the data-classification requirements in **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**;
+- the data-classification requirements in **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**;
 - proportionality (**Chapter One**, *Constitutional Collision Resolution Process*; and adopted governance implementation);
 - publication truthfulness, attribution, and context-preservation duties under **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) where the data enters the info-sphere;
 - auditability and accountability constraints in adopted implementation text and **Chapter Eighteen** incorporation rules.
@@ -1102,8 +1102,8 @@ This Article sets out the freedom to publish in good faith and its limits:
   - cascading failure;
   - patterns that materially degrade epistemic integrity.
   
-  High-impact distribution channels, and **Class A** or **Class B** systems where **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** applies, trigger heightened proportional constraints on distribution mechanics and safeguards.
-  - These limits operate jointly with **Privacy (Informational)**, **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** and **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** where referenced there, and the **interpretive hubs** at the opening of this chapter.
+  High-impact distribution channels, and **Class A** or **Class B** systems where **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** applies, trigger heightened proportional constraints on distribution mechanics and safeguards.
+  - These limits operate jointly with **Privacy (Informational)**, **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** and **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** where referenced there, and the **interpretive hubs** at the opening of this chapter.
 
 #### Article IX-D: Creative Work, Training-Data Use, and Anti-Displacement
 <details>
@@ -1356,7 +1356,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5), and [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
-- Read with: **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
+- Read with: **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
 
 </details>
 
@@ -1379,7 +1379,7 @@ This Article sets out the rights to challenge inclusion in and exclusion from pa
 - **Auditability:** Material impact and stakeholder-status determinations must remain auditable, challengeable, and explainable through the **interpretive hubs** at the opening of this chapter and through adopted governance implementation, **except** as provided under **Class P** below.
   - No single system or authority may exclusively resolve such determinations, **except** as provided under **Class P** below.
 - **Dispute pathways:** Disputes follow **Article XIX** (*Standing and Participation Status*) where adjudication applies, and designated escalation pathways otherwise.
-- **Class P proportionality:** For systems that **validly** remain **Class P** under **[corpus_systems.md](corpus_systems.md), CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, the preceding bullets **do not** require:
+- **Class P proportionality:** For systems that **validly** remain **Class P** under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, the preceding bullets **do not** require:
   - **external** stakeholder-boundary challenge;
   - **interpretive-hub** routing for purely **intra-unit** participation decisions; or
   - a prohibition on **exclusive** resolution of inclusion and exclusion **among voluntary participants and the operator within the Class P boundary**.

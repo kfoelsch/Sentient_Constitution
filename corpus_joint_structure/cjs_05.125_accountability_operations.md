@@ -944,10 +944,10 @@ Sanction validity and restoration conditions
 <a id="system-class-and-joint-read-scaling"></a>
 System-class and joint-read scaling
 
-*In plain terms: procedural rigor scales with `corpus_systems.md` class and any institution or forum duties on the same facts.*
+*In plain terms: procedural rigor scales with system class under **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and any institution or forum duties on the same facts.*
 
 - **What it is**
-  - **In scope:** Procedural rigor scales with `corpus_systems.md` class and any institution or forum duties on the same facts.
+  - **In scope:** Procedural rigor scales with system class under **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** and any institution or forum duties on the same facts.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in system-class and joint-read scaling.
 <a id="system-class-and-joint-read-scaling-a"></a>
 - **How to measure and assess**

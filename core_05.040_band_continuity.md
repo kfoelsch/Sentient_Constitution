@@ -542,7 +542,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - **Joint invocation:** wherever certification, conditional certification, validation, recertification, continued reliance, deployment, or material release from conditions is at issue; wherever a material-impact [System Classification Record](core_05.040_band_continuity.md#system-classification-record) is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*); and wherever a material-impact [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*).
 - **Scope:** where joint invocation is met, the Continuity home for the Chapter Nine gate that checks whether a [System](core_05.040_band_continuity.md#system) is constitutionally aligned before sentients rely on it at scale, including the CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) [System Classification Record](core_05.040_band_continuity.md#system-classification-record) and the CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI** (*Audit, Transparency, and Independent Verification*) and [Auditability](core_05.050_band_oversight.md#auditability) remain).
-- **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in [corpus_systems.md](corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**; System Data Types Record contents, disclosure, challenge, and retyping live in **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**; these entries provide the Chapter Five meanings only.
+- **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**; System Data Types Record contents, disclosure, challenge, and retyping live in **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**; these entries provide the Chapter Five meanings only.
 - **Cluster boundary:** [Dependency and cross-system support](core_05.040_band_continuity.md#dependency-and-cross-system-support) remains outside this group — certification may check **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) duties when shared-infrastructure reliance is in scope, but it is not a member of that **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) pair.
 
 **Topic group members.** This group comprises:
@@ -586,7 +586,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [System Boundaries](core_05.040_band_continuity.md#system-boundaries),
   - [System Charter](core_05.040_band_continuity.md#system-charter),
   - [System Capture](core_05.040_band_continuity.md#system-capture), and
-  - [corpus_systems.md](corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, and
+  - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, and
   - [Recertification](core_05.040_band_continuity.md#recertification).
 
 </details>
@@ -780,7 +780,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical content owner: [corpus_systems.md](corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
+- Canonical content owner: **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
 - Canonical incorporation owner: [Chapter Nine §2 — System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) and [Part B §8.1](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
@@ -856,7 +856,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical content owner: [corpus_systems.md](corpus_systems.md) **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
+- Canonical content owner: **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
 - Canonical incorporation owner: [Chapter Nine §3.4 — Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) and [Part B §8.1](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
@@ -1410,7 +1410,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [Dependency](core_05.040_band_continuity.md#dependency) and [Cascading Failure](core_05.040_band_continuity.md#cascading-failure) propagation;
     - [Accountability](core_05.005_apex_accountability_leg.md#accountability) for recovery decisions; and
     - autonomy-scaling of the recovering system under **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*), consistent with [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) and [Contestability](core_05.035_band_accountability.md#contestability).
-  - Detailed recovery architecture requirements appear in incorporated implementation text, including [corpus_systems.md](corpus_systems.md) CS-6.345 (*System lifecycle*), CS-6.325 (*Adaptive sustainability and ecosystem resilience*), and CS-6.330 (*Decentralized continuity and partition resilience*), and must not narrow this constitutional requirement.
+  - Detailed recovery architecture requirements appear in incorporated implementation text, including [CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*), [CS-6.325](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*), and [CS-6.330](corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md#cs-6330-decentralized-continuity-and-partition-resilience) (*Decentralized continuity and partition resilience*), and must not narrow this constitutional requirement.
 <a id="self-healing-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** automatic recovery that:
@@ -2638,7 +2638,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 **Topic group members.** This group comprises:
 - [Dependency](core_05.040_band_continuity.md#dependency) — how much a sentient or system relies on another for survival, function, stability, or participation, including chained, asymmetric, and hard-to-see relationships;
-- [Cross-System Extraction](core_05.040_band_continuity.md#cross-system-extraction) — drawing money, compute, maintenance labor, or other shared resource flows from infrastructure others also need, without putting proportionate support back;
+- [Cross-System Extraction](core_05.040_band_continuity.md#cross-system-extraction) — drawing money, goods, services, labor, compute, shared information, or other shared resource flows from infrastructure others also need, without putting proportionate support back;
 - [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support) — the duty of systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable.
 
 *Measurements (family routing):* Measured under the Continuity measurement family (*Dependency and resource flows*; *Cross-system support*). Find the concrete measures on the member definitions below. Read with [CS-6.335 — Resource allocation and funding stewardship](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md).
@@ -2752,13 +2752,15 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: taking from shared infrastructure that others also need — money, compute, connectivity, upkeep work, or capacity — without putting back enough to keep it working. It asks who benefits from shared foundations and who pays to sustain them, not what a system does with data.*
+*In plain terms: taking from shared infrastructure that others also need — money, goods, services, labor, compute, connectivity, shared information, or capacity — without putting back enough to keep it working. It asks who benefits from shared foundations and who pays to sustain them, not what a system does with data.*
 
 - **What it is**
   - **In scope:** Drawing shared resource flows from infrastructure or foundational dependencies that other systems or sentients also rely on, without returning [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support) adequate to keep that shared substrate working. Those flows include:
     - money, fees, and public funding;
+    - goods and services supplied through the shared substrate;
+    - labor, including maintenance, upkeep, and support work, and source capacity;
     - compute and connectivity;
-    - maintenance labor and source capacity; and
+    - information that is itself a shared foundation others rely on, such as a shared registry, directory, or reference dataset, counted for who maintains it and who pays for it and not for how data about sentients is handled; and
     - other shared resource flows.
 
     Includes draw that is:
@@ -2802,9 +2804,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor:
-  - [Article V-B](core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing: **
-  - [corpus_systems.md](corpus_systems.md)**,
-  - **CS-6.335** (*Resource allocation and funding stewardship*);
+  - [Article V-B](core_06.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing:
+  - **[CS-6.335](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*);
   - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000)
   - [§5.3](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
 - Downstream: [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Preamble §2 *Measurements Overview*](core_00.000_preamble.md#2-measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
@@ -4338,7 +4339,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Nine §5.5 Accessibility Evaluation](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (9.000 §5.5) (substantive participation and materiality under **accessibility** evaluation); [2.1. Non-Negotiable Constraints: Safety](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
-- Owner floor: [Article III-D](core_06.000_rights_part_a.md#article-iii-d-safe-working-conditions) (*Safe Working Conditions*). Systems-layer implementation: [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: `corpus_systems.md` CS-6.345 (*System lifecycle*) safety profiles where applicable.
+- Owner floor: [Article III-D](core_06.000_rights_part_a.md#article-iii-d-safe-working-conditions) (*Safe Working Conditions*). Systems-layer implementation: [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: [CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*) safety profiles where applicable.
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
   - [Fair Compensation](core_05.040_band_continuity.md#fair-compensation),
@@ -4759,7 +4760,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - efficiency claims or voluntary-redeployment branding offered in place of mitigation; or
     - pilot programs that leave population-scale labor displacement without the Rights-Floor transition protections.
   - **Secondary failure:** nominal mitigation — token compensation, unused transition programs, or inaccessible attribution schemes.
-  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion); treating the implementation pointer to `corpus_systems.md` (operational detail only) as scope-closing.
+  - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion); treating a pointer to implementation text (operational detail only) as scope-closing.
 
 ---
 
@@ -4962,7 +4963,7 @@ See **Anti-Segmentation Principle**.
     - comprehensibility stewardship.
 
     The obligation stands whether or not every sentient uses every path.
-  - **In scope — online public baseline:** Where lawful online infrastructure exists, the access includes the online [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), including its paywall prohibition and maximum-feasible public-substitute rule. [Transparency](core_05.050_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) govern that baseline; **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*) implements it as **Type O** data.
+  - **In scope — online public baseline:** Where lawful online infrastructure exists, the access includes the online [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), including its paywall prohibition and maximum-feasible public-substitute rule. [Transparency](core_05.050_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) govern that baseline; **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*Data classifications*) implements it as **Type O** data.
   - **In scope — what the access supports:**
     - the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** leg — informed [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) and [Contestability](core_05.035_band_accountability.md#contestability); and
     - the **oversight** leg — auditing under [Auditability](core_05.050_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*), of which [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large process among sibling audit modes.
@@ -5419,7 +5420,7 @@ See **Anti-Segmentation Principle**.
   - [Proportionality](core_05.035_band_accountability.md#proportionality),
   - [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary),
   - [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary), and **
-  - [corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** where Type H, Type I, Type N, Type S, Type Y, or comparable handling is implicated.
+  - [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** where Type H, Type I, Type N, Type S, Type Y, or comparable handling is implicated.
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_05.050_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Participation** and **Oversight**.
@@ -5432,7 +5433,7 @@ See **Anti-Segmentation Principle**.
 
 - **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
 - **Scope:** where admission scope is met, the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, **Identity Data Protection**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [§2.1 Joint invocation and satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction).
-- **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*), which is the systems-layer rulebook for this cluster (see the [privacy paragraph](corpus_systems/cs_06.305_information_types_and_handling.md#privacy-owner-link) in its purpose and scope). The restricted and non-accessible types name their privacy homes in its [privacy link](corpus_systems/cs_06.310_data_classifications.md#privacy-link): **Type H** and **Type I** for personal, relational, behavioral, likeness, and metadata information; **Type N** for internal states; **Type S** for protected-party data during justified investigations; and **Type Y** for a creator's private and shared works, whose protections carry into **Type W**, **Type U**, and **Type T**. Proportional safeguards apply to all CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) data types, and personal content inside open or audit-accessible material keeps its protective type.
+- **Operational alignment:** data handling must align with **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*Data classifications*), which is the systems-layer rulebook for this cluster (see the [privacy paragraph](corpus_systems/cs_06.305_information_types_and_handling.md#privacy-owner-link) in its purpose and scope). The restricted and non-accessible types name their privacy homes in its [privacy link](corpus_systems/cs_06.310_data_classifications.md#privacy-link): **Type H** and **Type I** for personal, relational, behavioral, likeness, and metadata information; **Type N** for internal states; **Type S** for protected-party data during justified investigations; and **Type Y** for a creator's private and shared works, whose protections carry into **Type W**, **Type U**, and **Type T**. Proportional safeguards apply to all [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications) (*Data classifications*) data types, and personal content inside open or audit-accessible material keeps its protective type.
 - **Anti-bypass:** privacy analysis must not be separated across articles or definitions, or from internal-state-boundary or surveillance-boundary assessment, where that satisfies one standard while evading another materially implicated discipline (see [§15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle)). No member's standard is loosened by importing a laxer standard from another member (same section, *No relaxation by read-across*).
 
 See **Anti-Segmentation Principle**.
@@ -5547,7 +5548,7 @@ See **Anti-Segmentation Principle**.
 
     **Secondary assessment:** When evaluating the primary trace, evaluate whether:
     - the practice reconstructs or pressures protected states even if it avoids direct recording; and
-    - Type N is implicated — if so, apply **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications**.
+    - Type N is implicated — if so, apply **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**.
 <a id="protected-internal-state-boundary-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** obtaining or exploiting protected internal states without the required narrow predicate, safeguards, and contestability, by means including:
@@ -5574,7 +5575,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:** Check whether identity-linked records, credentials, or attribution chains are used to infer, score, or reconstruct protected internal states, and whether any such linkage rests on explicit consent or a justified override under **CJS-5.125 §12** (*burden-of-justification and constraint terms*).
   - **Secondary measure:** [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary), [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational), and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — co-measures that can defeat the restricted-linkage ban even when nominal domain separation exists.
 
-    **Secondary assessment:** When evaluating the primary trace, apply **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** domain-separation mechanics and ask whether Type H/I → Type N linkage is blocked in practice.
+    **Secondary assessment:** When evaluating the primary trace, apply **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** domain-separation mechanics and ask whether Type H/I → Type N linkage is blocked in practice.
 <a id="identity-data-protection-c"></a>
 - **What must hold**
   - **Primary failure:** using identity or attribution data to expose, infer, or reconstruct Type N internal states without explicit consent or a justified override under **CJS-5.125 §12** (*burden-of-justification and constraint terms*).

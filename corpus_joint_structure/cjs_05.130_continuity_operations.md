@@ -129,9 +129,9 @@ Criticality and impact classification
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in criticality and impact classification.
 <a id="criticality-and-impact-classification-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** dependency classification aligns with `corpus_systems.md` dependency classes and is useful for real decisions, including mitigation, audit, oversight, purchasing, participation, and exit planning
+  - **Primary measure:** dependency classification aligns with the dependency classes in [CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and is useful for real decisions, including mitigation, audit, oversight, purchasing, participation, and exit planning
 
-    **Primary assessment:** Reviewers must verify that dependency classification aligns with `corpus_systems.md` dependency classes and is useful for real decisions, including mitigation, audit, oversight, purchasing, participation, and exit planning.
+    **Primary assessment:** Reviewers must verify that dependency classification aligns with the dependency classes in [CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and is useful for real decisions, including mitigation, audit, oversight, purchasing, participation, and exit planning.
 <a id="criticality-and-impact-classification-c"></a>
 - **What must hold**
   - **Primary failure:** **Class A, Class B, and Class C** mission-impacting dependencies must be clearly identified, monitored, audited, and periodically reviewed. Dependencies that are critical to safety, rights, access, continuity, or systemic stability may not be left unclassified or treated as ordinary vendor or interface choices.
