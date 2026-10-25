@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **721** of **1110** headings carry a gloss (65%).
+Coverage: **721** of **1114** headings carry a gloss (65%).
 
 ## Contents
 
@@ -33,7 +33,7 @@ Coverage: **721** of **1110** headings carry a gloss (65%).
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
-- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (13/25 glossed)
+- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (13/29 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09.010_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/23 glossed)
 - [CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-ten-contribution-violation-and-standing-model--measurement) — `core_10.000_standing_assessment.md` (13/33 glossed)
@@ -4077,7 +4077,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 
-Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 13/25 headings glossed
+Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 13/29 headings glossed
 
 #### 6. Forum Process
 
@@ -4138,6 +4138,30 @@ certifying that a system meets constitutional alignment requires an independent 
 a **stay** is a temporary pause. It holds off final approval, reliance, or the next review step until the right forum finishes its review. A stay is not a final yes or no.
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence)
+
+###### 6.2.1 Challenge path first
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#621-challenge-path-first)
+
+###### 6.2.2 Default sequence
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#622-default-sequence)
+
+###### 6.2.3 Urgent protection
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#623-urgent-protection)
+
+###### 6.2.4 Participation during review
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#624-participation-during-review)
 
 ##### 6.3 Contestability chain
 
