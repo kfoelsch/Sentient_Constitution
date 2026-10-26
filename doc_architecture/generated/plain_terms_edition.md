@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **724** of **1119** headings carry a gloss (65%).
+Coverage: **726** of **1132** headings carry a gloss (64%).
 
 ## Contents
 
@@ -25,7 +25,7 @@ Coverage: **724** of **1119** headings carry a gloss (65%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (85/97 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (40/101 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (42/103 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (54/69 glossed)
@@ -33,7 +33,7 @@ Coverage: **724** of **1119** headings carry a gloss (65%).
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
-- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (15/33 glossed)
+- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (15/44 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09.010_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/23 glossed)
 - [CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-ten-contribution-violation-and-standing-model--measurement) — `core_10.000_standing_assessment.md` (13/33 glossed)
@@ -1819,7 +1819,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 40/101 headings glossed
+Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 42/103 headings glossed
 
 #### Continuity: Independent terms
 
@@ -1832,6 +1832,18 @@ Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuit
 the **Adoption Transition** is the stretch of time after a community adopts this Constitution, while its legacy systems and institutions are still being brought into constitutional operation. It is phased, time-bounded, and open to review. What the adopter must not do binds from the first day. What it must deliver becomes enforceable step by step, as the means to enforce it are built.
 
 [Source](../../core_05.040_band_continuity.md#adoption-transition)
+
+##### Certification Denial
+
+**certification denial** is the refusal to certify a system that does not yet hold certification, because its operator has not shown that it is both willing and able to put a problem right. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.
+
+[Source](../../core_05.040_band_continuity.md#certification-denial)
+
+##### Certification Revocation
+
+**certification revocation** is taking certification back from a system that holds it, because its operator has not shown that it is both willing and able to put a problem right, or has been dishonest or has broken a condition. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.
+
+[Source](../../core_05.040_band_continuity.md#certification-revocation)
 
 ##### Essential-Environment Non-Commodification
 
@@ -4083,7 +4095,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 
-Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 15/33 headings glossed
+Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 15/44 headings glossed
 
 #### 6. Forum Process
 
@@ -4217,11 +4229,77 @@ when a review finds that something is misaligned, the next question is whether t
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct)
 
+###### 7.3.1 Willingness
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#731-willingness)
+
+###### 7.3.2 Capacity
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#732-capacity)
+
+###### 7.3.3 Proof step
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#733-proof-step)
+
+###### 7.3.4 Findings
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#734-findings)
+
+###### 7.3.5 Same terms for every operator
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#735-same-terms-for-every-operator)
+
 ##### 7.4 Denial and Revocation
 
 denial and revocation are real outcomes and not threats. If a system is not yet certified and its operator will not or cannot put the problem right, certification is refused. If a system holds certification and its operator will not or cannot put the problem right, certification is taken back. In both cases affected sentients are told, reliance is limited, and no one is cut off from survival essentials before there is a substitute.
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation)
+
+###### 7.4.1 What denial and revocation are
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#741-what-denial-and-revocation-are)
+
+###### 7.4.2 When denial or revocation is required
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#742-when-denial-or-revocation-is-required)
+
+###### 7.4.3 Protection first
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#743-protection-first)
+
+###### 7.4.4 Process
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#744-process)
+
+###### 7.4.5 Effect
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#745-effect)
+
+###### 7.4.6 Not a permanent bar
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#746-not-a-permanent-bar)
 
 #### 8. System Certification Record
 

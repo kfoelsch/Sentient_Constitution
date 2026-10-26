@@ -86,6 +86,108 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 ---
 
+<a id="certification-denial"></a>
+
+#### Certification Denial
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part B §7.4 Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation) (9.005 §7.4) (*refusing or taking back certification*).
+- Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Read with:
+  - [Certification Revocation](core_05.040_band_continuity.md#certification-revocation),
+  - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification),
+  - [Full Certification](core_05.040_band_continuity.md#full-certification),
+  - [Recertification](core_05.040_band_continuity.md#recertification),
+  - [Remediation Readiness](core_05.035_band_accountability.md#remediation-readiness), and
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: **certification denial** is the refusal to certify a system that does not yet hold certification, because its operator has not shown that it is both willing and able to put a problem right. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.*
+
+- **What it is**
+  - **In scope:** The outcome non-certification, reached by refusing certification to a system that holds no certification status, at a first certification, a fresh review, or another pass, because the remediation readiness check does not show the operator both willing and able to correct a misalignment or certification defect.
+  - **Out of scope:**
+    - [Certification Revocation](core_05.040_band_continuity.md#certification-revocation), which takes back a certification already held;
+    - deferred certification, which postpones the decision for a bounded period and refuses nothing;
+    - an order to stop operating, which is decided separately under the survival-essential protection in [Chapter Nine Part B §9.2](core_09.005_system_alignment_certification_record_process.md#92-provisional-and-full-certification); and
+    - a standing effect or violation finding — [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) alone decides standing —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification).
+  - The conditions, process, and effects are stated in [Chapter Nine Part B §7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation); this entry is the Chapter Five meaning only.
+<a id="certification-denial-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. a denial rests on a finding on the record that the operator was not shown willing and able to correct, and not on the operator's size, age, wealth, or competing interest;
+    2. interim protection and reliance limits were stated before the denial took effect, and the sentients who rely on the system were told; and
+    3. the operator had notice of the finding and a chance to answer or to show the proof step before the denial was decided.
+<a id="certification-denial-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - refusing certification without a readiness finding on the record, or for a reason unrelated to correction;
+    - granting conditional certification where the readiness finding requires denial;
+    - treating a denial as an order to cut off survival essentials before substitutes exist; or
+    - denying certification and leaving those who rely on the system uninformed.
+
+---
+
+<a id="certification-revocation"></a>
+
+#### Certification Revocation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part B §7.4 Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation) (9.005 §7.4) (*refusing or taking back certification*).
+- Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Read with:
+  - [Certification Denial](core_05.040_band_continuity.md#certification-denial),
+  - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification),
+  - [Full Certification](core_05.040_band_continuity.md#full-certification),
+  - [Recertification](core_05.040_band_continuity.md#recertification),
+  - [Remediation Readiness](core_05.035_band_accountability.md#remediation-readiness), and
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: **certification revocation** is taking certification back from a system that holds it, because its operator has not shown that it is both willing and able to put a problem right, or has been dishonest or has broken a condition. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.*
+
+- **What it is**
+  - **In scope:** The outcome withdrawal, reached by taking back a certification already held, at a recertification or a reopened review, when the remediation readiness check does not show the operator both willing and able to correct a misalignment or certification defect, or when a condition is repeatedly missed or materially violated, or when evidence offered for readiness, correction, or release from a condition is shown to be false, fabricated, or concealed.
+  - **Out of scope:**
+    - [Certification Denial](core_05.040_band_continuity.md#certification-denial), which refuses certification to a system that holds none;
+    - deferred certification, which postpones the decision for a bounded period and takes nothing back;
+    - the cascade to an Institution that cites the certification, which is governed by [Part D §14.3 Cascade from System certifications](core_09.015_institutional_alignment_certification.md#143-cascade-from-system-certifications); and
+    - a standing effect or violation finding — [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) alone decides standing —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [Recertification](core_05.040_band_continuity.md#recertification).
+  - The conditions, process, and effects are stated in [Chapter Nine Part B §7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation); this entry is the Chapter Five meaning only.
+<a id="certification-revocation-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. a revocation rests on a finding on the record, made after notice and a chance to answer, and not on the operator's size, age, wealth, or competing interest;
+    2. interim protection and reliance limits were stated before the revocation took effect, and the sentients who rely on the system were told; and
+    3. a system whose interruption would cut off survival essentials before substitutes exist changed status at once but kept operating only as separately authorized interim reliance.
+<a id="certification-revocation-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - revoking without notice of the finding and the evidence, or without a chance to answer;
+    - continuing certification subject to conditions where the record requires revocation;
+    - treating a revocation as an order to cut off survival essentials before substitutes exist; or
+    - revoking certification and leaving those who rely on the system uninformed.
+
+---
+
 <a id="essential-environment-non-commodification-constitutional"></a>
 
 #### Essential-Environment Non-Commodification

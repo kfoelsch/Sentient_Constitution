@@ -958,6 +958,16 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Certification Denial": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Certification Revocation": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Full Certification": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",
@@ -1395,6 +1405,11 @@
     },
     "Remediation Readiness": {
       "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Commercial Compliance": {
+      "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
     }
