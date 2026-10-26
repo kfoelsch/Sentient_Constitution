@@ -547,13 +547,13 @@ A condition cannot defer a protection that the authorized scope needs in order t
 
 ##### 7.1.1 Systems already operating
 
-A system that is already operating when an adopter's adopting document takes effect is not barred by this rule while the Adoption Transition window published for it runs.
+If a system was already running when an organization adopted this constitution, it doesn't break the "certify before going live" rule while its published grace period lasts.
 
 - [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) sets that Adoption Transition window, scaled to the system's class, to bring the system within this chapter.
-- The restraint duties in that Article apply from the effective date. The Adoption Transition window defers delivery work, not restraint or preservation.
+- The restraint duties in that Article apply from the effective date. The grace period only delays the building work, like getting certified. It does not delay the "must not" rules, and it does not delay the ban on deleting or destroying a possibly sentient system.
 - The exception covers the Adoption Transition period only.
-- A new system, or a material expansion of an operating one, is new conduct and must meet the rule above.
-- A system that reaches the end of its Adoption Transition window without provisional or full certification is handled as that Article states.
+- A new system, or a material expansion of an operating one, gets no grace period. It must be certified before it goes live, like any other new system (the Go-Live Gate above).
+- If a system's Adoption Transition window ends and it still has neither provisional nor full certification, it has missed its deadline. Unless it has a documented reauthorization showing under [Article XXVIII-B](core_06.020_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization) (*Adoption Transition Authority Limits and Reauthorization*), that is an Adoption Transition milestone failure, and the ordinary compliance and violation path in [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) opens. The gap does not become the new normal by lasting.
 
 <a id="712-pilots"></a>
 
