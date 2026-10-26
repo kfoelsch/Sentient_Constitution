@@ -47,6 +47,11 @@ _SEGREGATION_WORD = re.compile(r"(?<![A-Za-z0-9-])segregat(?:e|es|ed|ing|ion|ion
 # party or act, or **impartial** when the sense is unbiased. Enforced on the same files as the instrument ban.
 _DISINTERESTED_WORD = re.compile(r"(?<![A-Za-z0-9-])disinterested(?![A-Za-z0-9-])", re.IGNORECASE)
 
+# Ban **merits authority** (and merits-authority, merits authorities) (custodian decision, 2026-10-26). The phrase was undefined jargon for a forum
+# family's power to decide the substance of a dispute. Say **jurisdiction** (a forum family's scope under Chapter Thirteen), or **decision-making
+# authority** for what a role may decide. Related words (merits forum, merits decision) are not banned. Enforced on the same files as the instrument ban.
+_MERITS_AUTHORITY_PHRASE = re.compile(r"(?<![A-Za-z0-9-])merits[ -]authorit(?:y|ies)(?![A-Za-z0-9-])", re.IGNORECASE)
+
 # Ban **four-seat floor** and **four-seat constitutional floor** (custodian decision, 2026-10-22). The Chapter Eight section is the **Four-Seat
 # Constitutional Requirement** (short form **Four-Seat Requirement**); "floor" is reserved for the Chapter Six **Rights Floor** so the two cannot be confused.
 # Enforced on the same files as the instrument ban.
@@ -549,6 +554,18 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: 'disinterested' was not flagged, or 'independent', a link target, code, or an id was flagged wrongly.",
         )
+    merits_authority_findings = scan_avoid_merits_authority(
+        "internal-regression.md",
+        "The forum has merits authority over the point.\n"
+        "Technical support must not displace Merits Authorities.\n"
+        "The forum has jurisdiction over the point, and the merits forum decides.\n"
+        "See [the chapter](core_13.000_merits-authority.md) and `merits authority` in code.\n"
+        "An anchor id=\"old-merits-authority\" is not prose.\n",
+    )
+    if len(merits_authority_findings) != 2:
+        raise RuntimeError(
+            "Internal regression failed: 'merits authority' / 'merits authorities' was not flagged, or 'jurisdiction', 'merits forum', a link target, code, or an id was flagged wrongly.",
+        )
     four_seat_findings = scan_avoid_four_seat_floor(
         "internal-regression.md",
         "The four-seat floor applies here.\n"
@@ -1007,6 +1024,33 @@ def scan_avoid_disinterested(rel_path: str, text: str) -> list[Finding]:
                     file=rel_path,
                     line=idx,
                     rule="avoid-disinterested",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def scan_avoid_merits_authority(rel_path: str, text: str) -> list[Finding]:
+    """Reject **merits authority** (say **jurisdiction** for a forum family's scope, or **decision-making authority** for what a role may decide)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        prose = re.sub(r"`[^`]*`", "", raw)
+        prose = re.sub(r"\]\([^)]*\)", "]", prose)  # link targets
+        prose = re.sub(r'id="[^"]*"', "", prose)
+        if _MERITS_AUTHORITY_PHRASE.search(prose):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-merits-authority",
                     text=raw.strip(),
                 ),
             )
@@ -1538,6 +1582,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-segregation`:** reject **segregation** / **segregate** / **segregated** / **segregating** → the seat rule is **separation of duties**; for holding things apart say **separate holding** (funds, weights, keys), **isolation** (information, data), or **separation**. *Enforced on the same files as `avoid-instrument`.*",
         "- **`avoid-disinterested`:** reject **disinterested** → say **independent** (defined in Chapter Five, *Independence*: outside the Material Control Line of the party whose act is at issue and of every Interested Party), usually **independent of** the party or act; use **impartial** only when the sense is unbiased. *Enforced on the same files as `avoid-instrument`.*",
+        "- **`avoid-merits-authority`:** reject **merits authority** / **merits authorities** → say **jurisdiction** (a forum family's scope under Chapter Thirteen) or **decision-making authority** (what a role may decide). Related words such as *merits forum* and *merits decision* are not banned. *Enforced on the same files as `avoid-instrument`.*",
         "- **`avoid-four-seat-floor`:** reject **four-seat floor** / **four-seat constitutional floor** → say **Four-Seat Constitutional Requirement** (Chapter Eight §2) or **Four-Seat Requirement** for the short form; \"floor\" is reserved for the Chapter Six **Rights Floor**. *Enforced on the same files as the instrument ban.*",
         "- **`avoid-verifier`:** reject **verifier** / **verifiers** → say **verifying authority** (a body or sentient that verifies, authorizes, or decides is an authority; TERM-BODY-01 in `doc_architecture.md`). *Enforced on the same files as `avoid-instrument`, except `evaluation/` and `project/`.*",
         "- **`avoid-exculpatory-family`:** reject **exculpatory** / **inculpatory** → say what the material shows: that a sentient is not at fault, is less at fault, or is at fault. *Enforced on the same files as `avoid-cure-family`; write the words in backticks when a record must quote them.*",
@@ -1646,6 +1691,7 @@ def main() -> int:
         if _in_instrument_scope(rel_path):
             findings.extend(scan_avoid_segregation(rel_path, text))
             findings.extend(scan_avoid_disinterested(rel_path, text))
+            findings.extend(scan_avoid_merits_authority(rel_path, text))
             findings.extend(scan_avoid_four_seat_floor(rel_path, text))
         if _in_verifier_scope(rel_path):
             findings.extend(scan_avoid_verifier(rel_path, text))
@@ -1660,6 +1706,7 @@ def main() -> int:
                 findings.extend(scan_avoid_instrument(rel_path, load_text(extra)))
                 findings.extend(scan_avoid_segregation(rel_path, load_text(extra)))
                 findings.extend(scan_avoid_disinterested(rel_path, load_text(extra)))
+                findings.extend(scan_avoid_merits_authority(rel_path, load_text(extra)))
                 findings.extend(scan_avoid_four_seat_floor(rel_path, load_text(extra)))
                 if _in_verifier_scope(rel_path):
                     findings.extend(scan_avoid_verifier(rel_path, load_text(extra)))

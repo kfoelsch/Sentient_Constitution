@@ -170,7 +170,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 
 <a id="9-relation-to-implementation-files"></a>
 
-Institutional contest, secondary review, and integrity monitoring in the institutional family (including **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) through **[CI-6.205](corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md#ci-6205-transparency-participation-and-accessible-challenge-and-service-pathways)** (*Transparency, participation, and accessible challenge and service pathways*), **[CI-13.210](corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md#ci-13210-cross-institution-coordination-and-escalation)** (*Cross-institution coordination and escalation*), and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, without displacing primary-stakes routing or merits authority this chapter assigns.
+Institutional contest, secondary review, and integrity monitoring in the institutional family (including **[CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) through **[CI-6.205](corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md#ci-6205-transparency-participation-and-accessible-challenge-and-service-pathways)** (*Transparency, participation, and accessible challenge and service pathways*), **[CI-13.210](corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md#ci-13210-cross-institution-coordination-and-escalation)** (*Cross-institution coordination and escalation*), and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, without displacing primary-stakes routing or jurisdiction this chapter assigns.
 
 <a id="2-default-venue-and-primary-stakes"></a>
 
@@ -569,7 +569,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 - environmental-alignment component review for systems with material ecological exposure.
 
 **Alignment components.** **Environment Forums** hold the reviewable environmental-alignment component for systems whose operation, dependency map, resource use, lifecycle effects, emissions, land or water impacts, biodiversity effects, waste streams, remediation obligations, or failure modes materially implicate ecological integrity or environmental preconditions — including where material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk is present.
-- Within ecological merits authority, they may issue:
+- Within their ecological jurisdiction, they may issue:
   - environmental-alignment approval;
   - conditional approval;
   - objection;
@@ -623,7 +623,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 
 **Supervisory coordination.** An **Integrity** forum that issues an **alignment** ruling retains lead responsibility for one coordinated record for that proceeding and must manage neutral coordination — including stays, sequencing, status review, and implementation milestones — until alignment remediation is achieved or the forum lawfully closes supervision.
 - Coordination must not convert the forum into party advocacy.
-- Coordination must not displace other forums' merits authority on non-integrity primary issues.
+- Coordination must not displace other forums' jurisdiction on non-integrity primary issues.
 
 **Component referral.** Discrete sub-issues that belong primarily in another forum family under primary-stakes routing must be referred, certified, or stayed as adopting documents provide.
 - Order among competing component issues follows published priority criteria, without opaque threshold sorting, that must account for:
@@ -634,7 +634,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
   - practical resolution sequence.
 
 **Remediation framing.** An alignment ruling may establish a reasoned remediation menu, implementation options, or sequencing requirements within lawful scope.
-- Such elements are binding only to the extent the ruling expressly states they are binding and they are consistent with assigned merits authority elsewhere.
+- Such elements are binding only to the extent the ruling expressly states they are binding and they are consistent with assigned jurisdiction elsewhere.
 
 **Boundary with provisional operational law.** Alignment rulings do not substitute for provisional implementation operational law under **section 4.7** for **Institutional**, **Environment**, or **specialized technical** forums.
 - Where general normative effect beyond case-specific or pattern-specific integrity remediation is materially at stake, **section 5** governs certification, escalation, and constitutional disposition.
@@ -767,7 +767,7 @@ This subsection sets out technical support for existential-risk matters and the 
   - a designated panel;
   - a certified findings process; or
   - an equivalent reviewable mechanism.
-  Technical support must **not** silently displace merits authority.
+  Technical support must **not** silently displace a forum's jurisdiction.
 - **Integrity escalation preserved:** Where the claim includes concealment, suppression of tail-risk evidence, manipulation of safety records, strategic uncertainty laundering, or comparable integrity breach, **Integrity** routing and escalation remain available under this chapter.
 
 <a id="interim-protection"></a>

@@ -1307,7 +1307,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - a dignity rank;
     - a reputation score;
     - a forum family; or
-    - a replacement for primary-stakes merits authority.
+    - a replacement for primary-stakes jurisdiction.
   - **Out of scope:**
     - ordinary customer-service desk, private help desk, or technical standards catalog not charged with executable redress; or
     - dignity rank, reputation score, or forum-family assignment alone.
@@ -1619,7 +1619,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 - **Joint invocation:** where governance architecture, functional independence, material control relationships, interested-party relationships, decentralization scale, market structure, or material concentration of authority is material.
 - **Scope:** where joint invocation is met, the Accountability home for how authority is organized, constrained, and separated through distributed, accountable authority structures.
 - **Owner floor:** implements [Chapter One §11 Market Structure](core_01.000_values_principles.md#11-market-structure) and constrains [System Capture](core_05.040_band_continuity.md#system-capture).
-- **Principle-layer interface:** read with [Chapter One §17.4 Aligned Self-Organization](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or merits authority and is not an additional definition in this group.
+- **Principle-layer interface:** read with [Chapter One §17.4 Aligned Self-Organization](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or decision-making authority and is not an additional definition in this group.
 
 **Topic group members.** This group comprises:
 - [Governance](core_05.035_band_accountability.md#governance) — structures, rules, and processes by which systems are directed and held accountable.
@@ -3154,7 +3154,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:** Separate technical-administration stakes from rights, mandate, or ecological merits that Chapter Thirteen §2 (*Default venue and primary stakes*) assigns to another family. Preserve cross-family certification; technical specialization must not displace ordinary routing (Chapter Thirteen §4.2 (*Technical Forum Domains*)).
 <a id="forum-family-technical-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to let a technical label automatically override primary-stakes routing or to use a technical panel to displace the lawfully assigned merits authority for a non-technical primary question.
+  - **Primary failure:** It is non-compliant to let a technical label automatically override primary-stakes routing or to use a technical panel to displace the lawfully assigned jurisdiction over a non-technical primary question.
 
 ---
 

@@ -235,9 +235,9 @@ Local enforcement role
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in local enforcement role.
 <a id="local-enforcement-role-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** local jurisdiction or adopted scope, lawful trigger, proportionality, necessity, recordkeeping, affected-person notice or later notice where lawful, escalation path, and separation from independent investigation and final merits authority
+  - **Primary measure:** local jurisdiction or adopted scope, lawful trigger, proportionality, necessity, recordkeeping, affected-person notice or later notice where lawful, escalation path, and separation from independent investigation and final decision-making authority
 
-    **Primary assessment:** Reviewers must verify local jurisdiction or adopted scope, lawful trigger, proportionality, necessity, recordkeeping, affected-person notice or later notice where lawful, escalation path, and separation from independent investigation and final merits authority.
+    **Primary assessment:** Reviewers must verify local jurisdiction or adopted scope, lawful trigger, proportionality, necessity, recordkeeping, affected-person notice or later notice where lawful, escalation path, and separation from independent investigation and final decision-making authority.
 <a id="local-enforcement-role-c"></a>
 - **What must hold**
   - **Primary failure:** Local enforcement when it becomes private coercive command, routine detention authority without lawful basis, retaliatory security practice, evidence suppression, selective enforcement, or a substitute for independent investigative, forum-review, or Rights-Floor safeguards.
@@ -286,9 +286,9 @@ Oversight or support role
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in oversight or support role.
 <a id="oversight-or-support-role-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** independence, reporting line, information access, exclusions from merits authority, escalation route, and protected challenge path
+  - **Primary measure:** independence, reporting line, information access, exclusions from decision-making authority, escalation route, and protected challenge path
 
-    **Primary assessment:** Reviewers must verify independence, reporting line, information access, exclusions from merits authority, escalation route, and protected challenge path.
+    **Primary assessment:** Reviewers must verify independence, reporting line, information access, exclusions from decision-making authority, escalation route, and protected challenge path.
 <a id="oversight-or-support-role-c"></a>
 - **What must hold**
   - **Primary failure:** Support or oversight when it becomes merits decision-making without separate authority, lacks the independence needed for the task, or cannot escalate material findings.
