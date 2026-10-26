@@ -99,6 +99,10 @@
       "prefer": "Four-Seat Constitutional Requirement (Chapter Eight §2), or Four-Seat Requirement for the short form; floor is reserved for the Chapter Six Rights Floor"
     },
     {
+      "avoid": "merits authority (also merits authorities)",
+      "prefer": "jurisdiction (a forum family's scope under Chapter Thirteen); decision-making authority for what a role may decide; merits forum and merits decision are not banned"
+    },
+    {
       "avoid": "disinterested",
       "prefer": "independent (defined in Chapter Five, Independence), usually independent of the party or act; impartial only when the sense is unbiased"
     },

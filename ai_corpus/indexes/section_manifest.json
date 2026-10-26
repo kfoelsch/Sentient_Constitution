@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-25T23:28:17+00:00",
+  "generated_at": "2026-10-26T08:35:31+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 533,
@@ -798,10 +798,10 @@
       ]
     },
     "core_09.005_system_alignment_certification_record_process.md": {
-      "total_lines": 1136,
+      "total_lines": 1162,
       "sections": [
-        {"header":"CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS","level":1,"line_start":2,"line_end":1136,"anchor":"#chapter-nine-part-b-certification-record-and-process"},
-        {"header":"6. Forum Process","level":3,"line_start":130,"line_end":417,"anchor":"#6-forum-process"},
+        {"header":"CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS","level":1,"line_start":2,"line_end":1162,"anchor":"#chapter-nine-part-b-certification-record-and-process"},
+        {"header":"6. Forum Process","level":3,"line_start":130,"line_end":443,"anchor":"#6-forum-process"},
         {"header":"6.1 Forum supervision and component roles","level":4,"line_start":202,"line_end":319,"anchor":"#61-forum-supervision-and-component-roles"},
         {"header":"6.1.1 Four seats in a certification","level":5,"line_start":210,"line_end":246,"anchor":"#611-four-seats-in-a-certification"},
         {"header":"6.1.2 Technical Forums","level":5,"line_start":247,"line_end":261,"anchor":"#612-technical-forums"},
@@ -815,20 +815,20 @@
         {"header":"6.2.2 Default sequence","level":5,"line_start":332,"line_end":357,"anchor":"#622-default-sequence"},
         {"header":"6.2.3 Urgent protection","level":5,"line_start":358,"line_end":370,"anchor":"#623-urgent-protection"},
         {"header":"6.2.4 Participation during review","level":5,"line_start":371,"line_end":388,"anchor":"#624-participation-during-review"},
-        {"header":"6.3 Contestability chain","level":4,"line_start":389,"line_end":403,"anchor":"#63-contestability-chain"},
-        {"header":"6.4 Anti-bypass","level":4,"line_start":404,"line_end":417,"anchor":"#64-anti-bypass"},
-        {"header":"7. Certification Outcomes","level":3,"line_start":418,"line_end":633,"anchor":"#7-certification-outcomes"},
-        {"header":"7.1 Remediation Readiness: Willingness and Capacity to Correct","level":4,"line_start":552,"line_end":593,"anchor":"#71-remediation-readiness-willingness-and-capacity-to-correct"},
-        {"header":"7.2 Denial and Revocation","level":4,"line_start":594,"line_end":633,"anchor":"#72-denial-and-revocation"},
-        {"header":"8. System Certification Record","level":3,"line_start":634,"line_end":844,"anchor":"#8-system-certification-record"},
-        {"header":"8.1 Minimum record contents","level":4,"line_start":673,"line_end":795,"anchor":"#81-minimum-record-contents"},
-        {"header":"8.2 Record integrity: transparency and auditability","level":4,"line_start":796,"line_end":844,"anchor":"#82-record-integrity-transparency-and-auditability"},
-        {"header":"9. Recertification and Reopening","level":3,"line_start":845,"line_end":1048,"anchor":"#9-recertification-and-reopening"},
-        {"header":"9.1 Challenging a Certification","level":4,"line_start":918,"line_end":979,"anchor":"#91-challenging-a-certification"},
-        {"header":"9.1.1 Contestability paths","level":5,"line_start":953,"line_end":979,"anchor":"#911-contestability-paths"},
-        {"header":"9.2 Provisional and full certification","level":4,"line_start":980,"line_end":1038,"anchor":"#92-provisional-and-full-certification"},
-        {"header":"9.3 Non-evasion","level":4,"line_start":1039,"line_end":1048,"anchor":"#93-non-evasion"},
-        {"header":"10. Relationship to Standing","level":3,"line_start":1049,"line_end":1136,"anchor":"#10-relationship-to-standing"}
+        {"header":"6.3 Contestability chain","level":4,"line_start":389,"line_end":429,"anchor":"#63-contestability-chain"},
+        {"header":"6.4 Anti-bypass","level":4,"line_start":430,"line_end":443,"anchor":"#64-anti-bypass"},
+        {"header":"7. Certification Outcomes","level":3,"line_start":444,"line_end":659,"anchor":"#7-certification-outcomes"},
+        {"header":"7.1 Remediation Readiness: Willingness and Capacity to Correct","level":4,"line_start":578,"line_end":619,"anchor":"#71-remediation-readiness-willingness-and-capacity-to-correct"},
+        {"header":"7.2 Denial and Revocation","level":4,"line_start":620,"line_end":659,"anchor":"#72-denial-and-revocation"},
+        {"header":"8. System Certification Record","level":3,"line_start":660,"line_end":870,"anchor":"#8-system-certification-record"},
+        {"header":"8.1 Minimum record contents","level":4,"line_start":699,"line_end":821,"anchor":"#81-minimum-record-contents"},
+        {"header":"8.2 Record integrity: transparency and auditability","level":4,"line_start":822,"line_end":870,"anchor":"#82-record-integrity-transparency-and-auditability"},
+        {"header":"9. Recertification and Reopening","level":3,"line_start":871,"line_end":1074,"anchor":"#9-recertification-and-reopening"},
+        {"header":"9.1 Challenging a Certification","level":4,"line_start":944,"line_end":1005,"anchor":"#91-challenging-a-certification"},
+        {"header":"9.1.1 Contestability paths","level":5,"line_start":979,"line_end":1005,"anchor":"#911-contestability-paths"},
+        {"header":"9.2 Provisional and full certification","level":4,"line_start":1006,"line_end":1064,"anchor":"#92-provisional-and-full-certification"},
+        {"header":"9.3 Non-evasion","level":4,"line_start":1065,"line_end":1074,"anchor":"#93-non-evasion"},
+        {"header":"10. Relationship to Standing","level":3,"line_start":1075,"line_end":1162,"anchor":"#10-relationship-to-standing"}
       ]
     },
     "core_09.010_system_alignment_certification_illustrations.md": {
