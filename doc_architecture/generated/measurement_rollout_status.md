@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-26T11:02:48+00:00
+Generated: 2026-10-26T16:10:50+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **278/278** terms pass tier audit.
+Approved progress: **281/281** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -48,6 +48,8 @@ Approved progress: **278/278** terms pass tier audit.
 | Adoption Transition | approved | primary_only | independent | `core_05.040_band_continuity.md` | yes | pass |
 | Anti-Capture | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Cascading Failure | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Certification Denial | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Certification Revocation | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Charter Pointer | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Charter Role Map | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Chartered Party | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
@@ -116,6 +118,7 @@ Approved progress: **278/278** terms pass tier audit.
 | Business Creation | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Coercion and Manipulation | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Collective Organization | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
+| Commercial Compliance | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Consent | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Consent, Sexual | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |
 | Constitutional Community | approved | primary_only | cluster_member | `core_05.055_band_participation.md` | yes | pass |

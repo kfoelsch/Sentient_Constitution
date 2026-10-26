@@ -130,6 +130,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Business Creation](core_05.055_band_participation.md#business-creation)
 - [Capability Requirement](core_05.050_band_oversight.md#capability-requirement)
 - [Cascading Failure](core_05.040_band_continuity.md#cascading-failure)
+- [Certification Denial](core_05.040_band_continuity.md#certification-denial)
+- [Certification Revocation](core_05.040_band_continuity.md#certification-revocation)
 - [Charter Pointer](core_05.040_band_continuity.md#charter-pointer)
 - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map)
 - [Chartered Party](core_05.040_band_continuity.md#chartered-party)
