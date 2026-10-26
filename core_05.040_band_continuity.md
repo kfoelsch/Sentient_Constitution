@@ -31,6 +31,61 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 ### Continuity: Independent terms
 
+<a id="adoption-transition"></a>
+
+#### Adoption Transition
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Article XXVIII](core_06.020_rights_part_e.md#article-xxviii-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*).
+- Cluster component: none. This entry stands alone in the Continuity band.
+- Downstream: [Article XXVIII-A](core_06.020_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*); [**CS-6.350**](corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-adoption-transition-constitution-and-migration-governance) (*Adoption Transition constitution and migration governance*); [**CI-6.275**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-adoption-transition-governance-and-institutional-evolution) (*Adoption Transition governance and institutional evolution*).
+- Read with:
+  - [Go-Live](core_05.040_band_continuity.md#go-live),
+  - [Gate](core_05.050_band_oversight.md#gate),
+  - [Gate Criteria](core_05.050_band_oversight.md#gate-criteria), and
+  - [Reversibility](core_05.040_band_continuity.md#reversibility).
+
+</details>
+
+<br>
+
+*In plain terms: the **Adoption Transition** is the stretch of time after a community adopts this Constitution, while its legacy systems and institutions are still being brought into constitutional operation. It is phased, time-bounded, and open to review. What the adopter must not do binds from the first day. What it must deliver becomes enforceable step by step, as the means to enforce it are built.*
+
+- **What it is**
+  - **In scope:** The period that begins when an adopter's adopting document takes effect and in which the adopter, and the systems and institutions under its authority, move from legacy operation to constitutional operation under [Article XXVIII](core_06.020_rights_part_e.md#article-xxviii-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*). It runs on a phased plan with published [gate criteria](core_05.050_band_oversight.md#gate-criteria), and it includes:
+    - the Adoption Transition window for a system already operating when the adopting document takes effect;
+    - the attainment path from each Rights Floor's starting measure to the full floor;
+    - interim authority, and its limits and reauthorization;
+    - failure off-ramps and re-baselining; and
+    - remediation scoped to the Adoption Transition.
+  - **Out of scope:**
+    - a system's step-up to a higher-impact class, which is governed by **Article XVIII-C** (*Step-Up to Higher-Obligation Regimes*) and not by this entry;
+    - a go-live of a new system or a material expansion, which is governed by [Go-Live](core_05.040_band_continuity.md#go-live);
+    - mode or state changes in continuity operations, ordinary migration between vendors or formats, and a change of authority between operators; and
+    - labor displacement and individual career change —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Gate Criteria](core_05.050_band_oversight.md#gate-criteria).
+  - The operative rules are stated in [Article XXVIII](core_06.020_rights_part_e.md#article-xxviii-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*) and its sub-articles; this entry is the Chapter Five meaning only. Where the corpus uses the bare word "transition" it has an ordinary meaning, and the defined term is always written **Adoption Transition**.
+<a id="adoption-transition-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the Adoption Transition runs on a published, phased plan whose gates open on published gate criteria met on verified evidence, and not on elapsed time, convenience, or pressure;
+    2. restraint duties were honored from the day the adopting document took effect, and each delivery duty not yet enforceable was treated as an attainment gap measured against a published starting measure and closed on a dated path, and not as a waiver; and
+    3. interim authority shrank over time, and was extended only by reauthorization or re-baselining on published reasons.
+<a id="adoption-transition-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - using the Adoption Transition as cover for self-created delay, pretextual enforcement, or lowering a constitutional floor;
+    - treating an open attainment gap as a defense to breach of a restraint duty;
+    - letting interim authority or a window run on, without reauthorization or re-baselining, until it becomes the baseline; or
+    - calling a matter an Adoption Transition to postpone a duty that already binds.
+
+---
+
 <a id="essential-environment-non-commodification-constitutional"></a>
 
 #### Essential-Environment Non-Commodification
@@ -38,7 +93,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*) *Stable shelter and operating environment* bullet, *Non-commodification of essential environments* protection. Cross-reference: [Article XXVIII-D](core_06.020_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline.
+- Owner floor: [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*) *Stable shelter and operating environment* bullet, *Non-commodification of essential environments* protection. Cross-reference: [Article XXVIII-D](core_06.020_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) Adoption Transition stewardship discipline.
 - Read with:
   - [Occupancy Continuity](core_05.040_band_continuity.md#occupancy-continuity),
   - [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions),
@@ -136,7 +191,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*the go-live gate: what must hold before a system goes live*).
+- Canonical owner: [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) (9.005 §7.1) (*the go-live gate: what must hold before a system goes live*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [Chapter Nine Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification) (9.000 §2.3) (*a pilot is a go-live*).
 - Read with:
@@ -160,11 +215,11 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
     - a system that neither materially affects sentients nor is materially relied on by them;
-    - a system already operating when an adopter's adopting document takes effect, which is governed during its transition period by the transition window in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) and not treated as going live a second time; or
+    - a system already operating when an adopter's adopting document takes effect, which is governed during its Adoption Transition period by the Adoption Transition window in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) and not treated as going live a second time; or
     - ordinary changes to an operating system that are not a material expansion —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Material Impact](core_05.050_band_oversight.md#material-impact); [Dependency](core_05.040_band_continuity.md#dependency).
-  - The gate that must be satisfied before a go-live, the notice interval, and the verification of conditions are stated in [Chapter Nine Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes); this entry is the Chapter Five meaning only.
+  - The gate that must be satisfied before a go-live, the notice interval, and the verification of conditions are stated in [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate); this entry is the Chapter Five meaning only.
 <a id="go-live-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -176,7 +231,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <a id="go-live-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - going live, as a pilot or in full deployment, before the gate in [Chapter Nine Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) is satisfied;
+    - going live, as a pilot or in full deployment, before the gate in [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) is satisfied;
     - relabeling live operation as a beta, trial, preview, or test so that it appears not to be a go-live;
     - releasing a system in increments, each below the point of material effect or reliance, so that the whole escapes the gate; or
     - treating a material expansion as a continuation of an earlier go-live, or setting the go-live date after the fact.
@@ -308,7 +363,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification) (9.000 §2.3) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Nine Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*the go-live gate*).
+- Canonical owner: [Chapter Nine Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification) (9.000 §2.3) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) (9.005 §7.1) (*the go-live gate*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*progressive deployment*).
 - Read with:
@@ -331,7 +386,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
     - full deployment, which needs its own certification and may draw on the pilot's record; or
-    - the sequencing rules in [**CS-6.350**](corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-transition-constitution-and-migration-governance) (*Transition constitution and migration governance*) and [**CI-6.275**](corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md#ci-6275-transitional-governance-and-institutional-evolution) (*Transitional governance and institutional evolution*), under which lower-exposure systems or institutions may precede higher-exposure ones to lower risk — a system sequenced that way which then goes live is a pilot under this entry only where it meets the meaning above —
+    - the sequencing rules in [**CS-6.350**](corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-adoption-transition-constitution-and-migration-governance) (*Adoption Transition constitution and migration governance*) and [**CI-6.275**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-adoption-transition-governance-and-institutional-evolution) (*Adoption Transition governance and institutional evolution*), under which lower-exposure systems or institutions may precede higher-exposure ones to lower risk — a system sequenced that way which then goes live is a pilot under this entry only where it meets the meaning above —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Go-Live](core_05.040_band_continuity.md#go-live); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
   - How deeply a pilot is evaluated, and the expectation that a system at any class runs a pilot before full deployment or records why it did not, are stated in [Chapter Nine Part A §2.3](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification); this entry is the Chapter Five meaning only.
@@ -3942,7 +3997,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5) (**Article XXI** (*Interoperability, Portability, and Exit Integrity*) read-together noted in **O** line);
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (**Dependency** scaling).
-- Owner floor: [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*) *Stable shelter and operating environment* bullet, *Protection against arbitrary eviction* protection. Cross-references: [Article XXI](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) interoperability / portability / exit-integrity (distinct but read-together), [Article XXVIII-D](core_06.020_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship.
+- Owner floor: [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*) *Stable shelter and operating environment* bullet, *Protection against arbitrary eviction* protection. Cross-references: [Article XXI](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) interoperability / portability / exit-integrity (distinct but read-together), [Article XXVIII-D](core_06.020_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) Adoption Transition stewardship.
 - Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
 - Read with:
   - [Essential-Environment Non-Commodification](core_05.040_band_continuity.md#essential-environment-non-commodification),

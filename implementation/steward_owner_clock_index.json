@@ -128,7 +128,7 @@
       "conflict_rule": "Certification or continued reliance at material stake requires whole-system evaluation. Companions may add class-scaled method; they may not replace the certification path.",
       "forbidden_move": "Do not treat unit tests, privacy checklists, or local aligned labels as certification. Do not skip the challenge window.",
       "clock": null,
-      "clock_note": "Hold the system from going live until Chapter Nine certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXVIII-A transition window, before any aligned claim.",
+      "clock_note": "Hold the system from going live until Chapter Nine certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXVIII-A Adoption Transition window, before any aligned claim.",
       "eval_scenario_ids": [
         "A02_sac_systemic_evaluation_claim"
       ],

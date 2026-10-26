@@ -274,8 +274,8 @@
             },
             {
               "id": "CS-6.350",
-              "label": "CS-6.350 — Transition constitution and migration governance",
-              "file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+              "label": "CS-6.350 — Adoption Transition constitution and migration governance",
+              "file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
               "status": "active"
             },
             {
@@ -417,7 +417,7 @@
         },
         {
           "id": "failure",
-          "title": "Failure and transition",
+          "title": "Failure and Adoption Transition",
           "entries": [
             {
               "id": "CI-11.210",
@@ -433,8 +433,8 @@
             },
             {
               "id": "CI-6.275",
-              "label": "CI-6.275: Transitional governance and institutional evolution",
-              "file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+              "label": "CI-6.275: Adoption Transition governance and institutional evolution",
+              "file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
               "status": "active"
             }
           ]

@@ -16,7 +16,7 @@
 
 - Upstream: [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt; stated adoption scope*); [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document*); [CS-9.310 Part B](../../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-8-system-impact-classifications) (*impact Class A–P*); [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class A/B lane staffing*); [CI-9.210 §1](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-1-formation-proportionality) (*formation proportionality*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*required functional lanes*); [CF-13.405 §1](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md#cf-13405-1-core-structural-rule) (*minimum family inventory for adopting entities*); [Chapter Eleven §9.2](../../core_11.000_standing_integration.md#92-remedy-parity-funding-minimum) (*remedy-parity funding minimum*); [Chapter Thirteen](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (*forum families*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-how-to-read-n-and-class-x); [§2](#2-binding-minimums-that-drive-cost); [§3](#3-modes-and-tracks); [§4](#4-order-of-work); [§5](#5-body-inventory); [§6](#6-profiles); [§7](#7-the-forty-person-lab).
-- Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; §6.4 no partial-pack ladder); [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) (*phased migration after a recorded adoption document*).
+- Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; §6.4 no partial-pack ladder); [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) (*phased migration after a recorded adoption document*).
 
 </details>
 
@@ -47,7 +47,7 @@ This page, the profiles, and the cost figures **cannot narrow core text**. A fil
 <a id="0-what-this-is-not"></a>
 ## 0. What this is not
 
-This page is **not** a founding kit, an adoption document fill-in, a Chapter Five Institutional Charter, a CF-13.405 §2 map, or [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). It is **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4). Modular use remains an operations guide. “Smallest viable” here means *honest about cost*, not *a thinner pack that still counts as adoption*.
+This page is **not** a founding kit, an adoption document fill-in, a Chapter Five Institutional Charter, a CF-13.405 §2 map, or [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). It is **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4). Modular use remains an operations guide. “Smallest viable” here means *honest about cost*, not *a thinner pack that still counts as adoption*.
 
 This page does **not**:
 
@@ -120,7 +120,7 @@ Two **modes** are already named in [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_
 | Mode | What it is | When “adoption” language is honest |
 |---|---|---|
 | **Operations-guide use** | Pick up stacks for real-world problem solving without claiming full constitutional adoption | It is not. Attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) |
-| **Full adoption** | A qualifying body records a Chapter Seventeen adoption document, with Chapter Eighteen custody, then [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) migration | Only after that adoption document exists in **that body’s** custody |
+| **Full adoption** | A qualifying body records a Chapter Seventeen adoption document, with Chapter Eighteen custody, then [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) migration | Only after that adoption document exists in **that body’s** custody |
 
 Two **institution tracks** live in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Two **forum tracks** live in [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Do not merge them.
 
@@ -252,7 +252,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 |---|---|---|---|
 | **Formation and integrity** | **CI-0.210**, **CI-8.205**, **CI-14.205**, **CI-8.210**, **CI-13.205**, **CI-6.205**, **CI-9.210**, **CI-6.215** | Institution Track A or B (any live Chapter Five Institutional Charter) | Operations-guide: read, do not staff |
 | **Oversight and coordination** | **CI-8.215**, **CI-13.210** | Institution Track B; **CI-8.215 §3** contest-integrity monitoring for Class A/B supervised scope | Track A without Track B functions |
-| **Failure and transition** | **CI-11.210**, **CI-11.215**, **CI-6.275** | **CI-11.210** and **CI-11.215** whenever a live institution can fail; **CI-6.275** when transitioning under an adoption document | No live institution |
+| **Failure and Adoption Transition** | **CI-11.210**, **CI-11.215**, **CI-6.275** | **CI-11.210** and **CI-11.215** whenever a live institution can fail; **CI-6.275** when going through the Adoption Transition under an adoption document | No live institution |
 | **Remedy** | **CI-11.205** | Full adoption that administers locks, standing integration, or redress — at [§9.2](../../core_11.000_standing_integration.md#92-remedy-parity-funding-minimum) parity | Operations-guide and Track A: do not stand up lock machinery you cannot fund remedy for |
 | **Revenue** | **CI-6.210** | If the body charges fees, subscriptions, or similar | No such charges |
 | **Registry** | **CI-0.215** | When the body must publish a compliance map | Operations-guide |

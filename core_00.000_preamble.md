@@ -249,7 +249,7 @@ Each summary below states what the chapter owns and what it produces.
   - challenge and remedy;
   - justice constraints;
   - timeliness under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*); and
-  - transition rules.
+  - Adoption Transition rules.
   The four parts organize these protections for planet-first reading.
 - **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Thirteen, forums, governance, and amendment rules must respect and not narrow, bypass, or hollow through procedure or proxy metrics.
 

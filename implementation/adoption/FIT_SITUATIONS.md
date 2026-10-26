@@ -16,7 +16,7 @@
 
 - Upstream: [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document, joining*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*); [Chapter Fourteen §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-fit-tests); [§2](#2-two-modes); [§3](#3-how-to-route); [§4](#4-ranked-situations-near-term-first); [§5](#5-honest-non-fits); [§6](#6-kit-routing).
-- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*); [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) (*phased migration after a recorded adoption document*).
+- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*); [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) (*phased migration after a recorded adoption document*).
 
 </details>
 
@@ -44,7 +44,7 @@ This page, the sketches, and the routing table **cannot narrow core text**. A fi
 <a id="0-what-this-is-not"></a>
 ## 0. What this is not
 
-This page is **not** a founding kit, an adoption document fill-in, a Institutional Charter, a forum-structure map, or [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). CS-6.350 sequences migration **after** a recorded Chapter Seventeen adoption document.
+This page is **not** a founding kit, an adoption document fill-in, a Institutional Charter, a forum-structure map, or [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). CS-6.350 sequences migration **after** a recorded Chapter Seventeen adoption document.
 
 This page does **not**:
 
@@ -86,7 +86,7 @@ Two modes of use are already named in [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATI
 | Mode | What it is | When “adoption” language is honest |
 |---|---|---|
 | **Operations-guide use** | Pick up stacks for real-world problem solving without claiming full constitutional adoption | It is not. Attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) when that is the actual situation |
-| **Full adoption** | A qualifying body records a Chapter Seventeen adoption document, with Chapter Eighteen custody, then [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) migration | Only after that adoption document exists in **that body’s** custody |
+| **Full adoption** | A qualifying body records a Chapter Seventeen adoption document, with Chapter Eighteen custody, then [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) migration | Only after that adoption document exists in **that body’s** custody |
 
 Track A in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) lets a cooperative, research body, commons, or commercial form publish a [Chapter Five Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) **without** a Chapter Seventeen adoption document. Track B (oversight, certification steward, standing-record admin, amendment admin) waits on that adoption document. A Institutional Charter draft is not the adoption document, and the kit fill-in is not a live Institutional Charter.
 
@@ -134,7 +134,7 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 **In-house mixed-crew ops inside one lab.** A system operator binds *its* deploy stack: refuse unlawful or unconstitutional instructions, keep reconstructable logs, no “model internals” veto over standing measurement, no human exemption from the costly cases. Kit door: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging); if a qualifying body will record an adoption document, [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md).
 
-**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded adoption document (Track B under [Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) oversight.
+**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded adoption document (Track B under [Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) oversight.
 
 <a id="42-high-impact-system-operators"></a>
 ### 4.2 High-impact system operators (deploy, platform, product)
@@ -220,7 +220,7 @@ If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_
 | Naming independent review, or founding forum families after an adoption document | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | A markdown panel; staffing Track A from the cooperating crew |
 | Fitness screen plus own-conduct | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Adoption |
 | Day-to-day next step at 2 a.m. | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | A standing record or a parallel morals stack |
-| Phased migration **after** a recorded adoption document | [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Using this page, or a Institutional Charter draft, as phase entry |
+| Phased migration **after** a recorded adoption document | [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Using this page, or a Institutional Charter draft, as phase entry |
 
 Filling any row is not adoption. Opening this folder is not adoption.
 

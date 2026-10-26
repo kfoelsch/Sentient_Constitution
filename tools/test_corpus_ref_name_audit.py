@@ -16,7 +16,7 @@ CS_LINK = "../corpus_systems/cs_06.350_demo.md"
 
 def make_index() -> dict[str, Section]:
     return {
-        "CS-6.350": Section({CS_FILE}, "Transition constitution and migration governance", {"cs-6350"}),
+        "CS-6.350": Section({CS_FILE}, "Adoption Transition constitution and migration governance", {"cs-6350"}),
         "CS-6.350 §3": Section({CS_FILE}, "Gate criteria and advancement rules", {"cs-6350-3-gate"}),
         "CS-6.355": Section({CS_FILE}, "Escalation and review", {"cs-6355"}),
         "CS-6.355 §10": Section({CS_FILE}, "Competency", {"cs-6355-10", "10-inspectable-attributable-action"}),
@@ -68,16 +68,16 @@ class CorpusRefNameTests(unittest.TestCase):
 
     def test_accepts_named_bare_reference(self) -> None:
         self.assertEqual(
-            self.details("Governed by **CS-6.350** (*Transition constitution and migration governance*)."),
+            self.details("Governed by **CS-6.350** (*Adoption Transition constitution and migration governance*)."),
             [],
         )
 
     def test_flags_each_range_endpoint(self) -> None:
-        out = self.details("See **CS-6.350** (*Transition constitution and migration governance*) through **CS-6.350 §3**.")
+        out = self.details("See **CS-6.350** (*Adoption Transition constitution and migration governance*) through **CS-6.350 §3**.")
         self.assertEqual(len(out), 1)
 
     def test_flags_wrong_name(self) -> None:
-        out = self.details("See **CS-6.350 §3** (*Transitional governance*).")
+        out = self.details("See **CS-6.350 §3** (*Adoption Transition governance*).")
         self.assertIn("does not match", out[0])
 
     def test_accepts_short_name_for_long_heading(self) -> None:
@@ -109,7 +109,7 @@ class CorpusRefNameTests(unittest.TestCase):
         self.assertTrue(any("is defined in" in d for d in out))
 
     def test_flags_missing_target_file(self) -> None:
-        out = self.details("See [**CS-6.350**](corpus_systems/gone.md) (*Transition constitution and migration governance*).")
+        out = self.details("See [**CS-6.350**](corpus_systems/gone.md) (*Adoption Transition constitution and migration governance*).")
         self.assertTrue(any("does not exist" in d for d in out))
 
     def test_list_label_entry_is_exempt(self) -> None:
@@ -151,7 +151,7 @@ class CorpusRefNameTests(unittest.TestCase):
 
     def test_accepts_dash_name_after_bold_id(self) -> None:
         self.assertEqual(
-            self.details("Scale: **CS-6.350 — Transition constitution and migration governance** applies."),
+            self.details("Scale: **CS-6.350 — Adoption Transition constitution and migration governance** applies."),
             [],
         )
 

@@ -1234,7 +1234,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part B §7.1 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#71-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Part D §13.5](core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (institutions).
+- Canonical owner: [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Part D §13.5](core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (institutions).
 - Forum routing: [Chapter Thirteen §4.5 Constitutional alignment certification and validation](core_13.000_forum.md#45-integrity-forums) and [§5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification).
 - Read with: [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Proportionality](core_05.035_band_accountability.md#proportionality), and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution).
 
@@ -4747,7 +4747,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with **Article XX-B** (*Restriction Floors*)).
-- Owner floor: [Article XX-B](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: the least-restrictive and time-bounded floor in the same Article (durable-containment discipline); [Article XXVII](core_06.020_rights_part_e.md#article-xxvii-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*) non-entrenchment; [Article XXVIII](core_06.020_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) transition governance and "no durable exception authority" rule.
+- Owner floor: [Article XX-B](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: the least-restrictive and time-bounded floor in the same Article (durable-containment discipline); [Article XXVII](core_06.020_rights_part_e.md#article-xxvii-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*) non-entrenchment; [Article XXVIII](core_06.020_rights_part_e.md#article-xxviii-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance and "no durable exception authority" rule.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
   - [Reversibility](core_05.040_band_continuity.md#reversibility),
@@ -4791,7 +4791,7 @@ See **Anti-Segmentation Principle**.
     - re-introduction framings that route the prohibited measure through:
       - Chapter Ten impact slots or Chapter Twelve designation ("final s = 8 / s = 9" predicates);
       - **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency measures;
-      - **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition or re-baselining governance;
+      - **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition or re-baselining governance;
       - adopter-document custody; or
       - comparable mechanisms;
     - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the prohibited measure past the categorical prohibition in **Article XX-B** (*Restriction Floors*);
@@ -4816,7 +4816,7 @@ See **Anti-Segmentation Principle**.
 - **What must hold**
   - **Primary failure:** A state, operator, or comparable actor imposes irreversible deprivation of life as a justice measure — non-compliant without exception under revised **Article XX-B** (*Restriction Floors*).
   - **Secondary failure:**
-    - routing the prohibited measure through Chapter Ten impact assignment, Chapter Twelve designation, emergency framing, transition or re-baselining governance, or adopter-document custody to reintroduce it;
+    - routing the prohibited measure through Chapter Ten impact assignment, Chapter Twelve designation, emergency framing, Adoption Transition or re-baselining governance, or adopter-document custody to reintroduce it;
     - using lasting but reversible containment under **Article XX-B** (*Restriction Floors*) as a stepping-stone or justification for the prohibited measure; or
     - re-labelling an involuntarily-imposed outcome as "voluntary discontinuation" to route into **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*).
   - **Tertiary failure:** Substrate-class narrowings on taxonomy grounds alone ([Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion)).

@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-25T23:28:20+00:00
+Generated: 2026-10-26T11:02:48+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **277/277** terms pass tier audit.
+Approved progress: **278/278** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -45,6 +45,7 @@ Approved progress: **277/277** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
+| Adoption Transition | approved | primary_only | independent | `core_05.040_band_continuity.md` | yes | pass |
 | Anti-Capture | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Cascading Failure | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Charter Pointer | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
@@ -60,7 +61,7 @@ Approved progress: **277/277** terms pass tier audit.
 | Ecological Recovery Capacity | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Emergency and Contingency | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Emergency Pre-Deliberation Action (Binding Collective Choice) | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
-| Essential-Environment Non-Commodification | approved | primary_only | independent | `core_05.040_band_continuity.md` | yes | pass |
+| Essential-Environment Non-Commodification | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Existential Risk | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Full Certification | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Go-Live | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |

@@ -75,7 +75,7 @@ LINE_FILES = {
     "corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md": {76},
     "corpus_systems/cs_06.305_information_types_and_handling.md": {686},
     "corpus_systems/cs_06.345_design_testing_verification_deployment.md": {62, 69, 78, 109, 162, 319, 321, 332},
-    "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md": {325},
+    "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md": {325},
     "corpus_joint_structure/cjs_05.115_audit_process.md": {142},
     "corpus_joint_structure/cjs_05.125_accountability_operations.md": {1196, 1197},
     "guides/CONCEPTUAL_OVERVIEW.md": {963},

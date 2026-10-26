@@ -169,7 +169,7 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not this sitting. Not adoption. |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Invite for two parties plus Option A routing compare |
 | [CS-0.310](../../corpus_systems/cs_00.310_scope_purpose_identifier_rules.md#operates-in-conjunction-with) | Systems-layer front door. Points here as process support; this sitting is not a second CS landing and not adoption. |
-| [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Phased migration **after** a recorded Chapter Seventeen adoption document. A declaration is not phase entry or gate evidence. |
+| [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Phased migration **after** a recorded Chapter Seventeen adoption document. A declaration is not phase entry or gate evidence. |
 | [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) | Only path to enforceable adoption |
 | [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
 

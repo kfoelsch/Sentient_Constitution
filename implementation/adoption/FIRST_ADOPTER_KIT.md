@@ -16,7 +16,7 @@
 
 - Upstream: [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt*); [Chapter Fourteen §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-three-substeps-do-not-collapse); [§2](#2-two-party-sitting-protocol); [§4](#4-adoption-document-fill-in).
-- Read with: [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) (*institution foundation after this path*); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation after this path*); [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) (*phased migration after a recorded adoption document*).
+- Read with: [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) (*institution foundation after this path*); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation after this path*); [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) (*phased migration after a recorded adoption document*).
 
 </details>
 
@@ -39,7 +39,7 @@ This page, the fill-in document, and the two-party protocol **cannot narrow core
 
 ## 0. What this is not
 
-This page is **not** [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). CS-6.350 sequences migration **after** a recorded Chapter Seventeen adoption document. A 2026-04 planning annex is archived and is not that path: [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) (*n*-party sitting, handoff gates, labeled-not-live §10.3 template). That page does not replace this kit’s two-party protocol or adoption document fill-in. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Institutional Charter is not this kit’s adoption document. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-13.405 §2 map is not this kit’s adoption document.
+This page is **not** [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). CS-6.350 sequences migration **after** a recorded Chapter Seventeen adoption document. A 2026-04 planning annex is archived and is not that path: [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md). More than two parties: [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) (*n*-party sitting, handoff gates, labeled-not-live §10.3 template). That page does not replace this kit’s two-party protocol or adoption document fill-in. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Institutional Charter is not this kit’s adoption document. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-13.405 §2 map is not this kit’s adoption document.
 
 This kit does **not**:
 
@@ -246,7 +246,7 @@ non-adopters. See Chapter Eighteen §4 and Chapter Sixteen §5.
 | [`evaluation/self_application/`](../../evaluation/self_application/) | Invite for each party’s sitting |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Two-party invite and Option A compare sheet |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” points here |
-| [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Phased migration **after** a recorded adoption document |
+| [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Phased migration **after** a recorded adoption document |
 | [`TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md`](../../archive/TRANSITION_FRAMEWORK_2026_ARCHIVED_2026-08-31.md) | Archived 2026-04 annex; do not use as the current path |
 | [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) | Only path to enforceable adoption |
 | [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; model-constitution framing |

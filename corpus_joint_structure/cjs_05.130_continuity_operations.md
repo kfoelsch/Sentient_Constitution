@@ -241,10 +241,10 @@ Resource and continuity dependency adequacy
 <a id="substitutability-exit-constraints-and-mitigation-duties"></a>
 Substitutability, exit constraints, and mitigation duties
 
-*In plain terms: for important dependencies, disclosures must explain the practical alternatives, the cost and risk of switching, what transition would require, and any limits on exit, repair, portability, or interoperability.*
+*In plain terms: for important dependencies, disclosures must explain the practical alternatives, the cost and risk of switching, what a handoff would require, and any limits on exit, repair, portability, or interoperability.*
 
 - **What it is**
-  - **In scope:** For important dependencies, disclosures must explain the practical alternatives, the cost and risk of switching, what transition would require, and any limits on exit, repair, portability, or interoperability.
+  - **In scope:** For important dependencies, disclosures must explain the practical alternatives, the cost and risk of switching, what a handoff would require, and any limits on exit, repair, portability, or interoperability.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in substitutability, exit constraints, and mitigation.
 <a id="substitutability-exit-constraints-and-mitigation-duties-a"></a>
 - **How to measure and assess**
@@ -329,29 +329,29 @@ Access-preserving reward and anti-warehousing controls
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in access-preserving reward and anti-warehousing.
 <a id="access-preserving-reward-and-anti-warehousing-controls-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** whether compulsory license, access order, buyout, sunset acceleration, interface condition, interoperability condition, reward conversion, or equivalent corrective path is available where a claim is materially necessary for survival-relevant systems, standards-setting interfaces, public-interest implementation, or high-dependency transition and continuity
+  - **Primary measure:** whether compulsory license, access order, buyout, sunset acceleration, interface condition, interoperability condition, reward conversion, or equivalent corrective path is available where a claim is materially necessary for survival-relevant systems, standards-setting interfaces, public-interest implementation, or high-dependency handoff and continuity
 
-    **Primary assessment:** Evaluation must verify whether compulsory license, access order, buyout, sunset acceleration, interface condition, interoperability condition, reward conversion, or equivalent corrective path is available where a claim is materially necessary for survival-relevant systems, standards-setting interfaces, public-interest implementation, or high-dependency transition and continuity.
+    **Primary assessment:** Evaluation must verify whether compulsory license, access order, buyout, sunset acceleration, interface condition, interoperability condition, reward conversion, or equivalent corrective path is available where a claim is materially necessary for survival-relevant systems, standards-setting interfaces, public-interest implementation, or high-dependency handoff and continuity.
 <a id="access-preserving-reward-and-anti-warehousing-controls-c"></a>
 - **What must hold**
   - **Primary failure:** Warehouse, withhold, shelf, overbundle, or strategically maintain an innovation claim in a way that produces artificial scarcity, coercive lock-in, suppressed implementation, repair obstruction, migration obstruction, or public-interest access failure without proportionate justification.
 
-<a id="closed-format-justification-and-open-format-transition-controls"></a>
-Closed-format justification and open-format transition controls
+<a id="closed-format-justification-and-open-format-adoption-transition-controls"></a>
+Closed-format justification and open-format Adoption Transition controls
 
 *In plain terms: when a system uses a closed format, interface, or protocol, it must show that no open option meets a real requirement, still offer an open way out, and review the choice over time. Systems already running have one year by default to move to open formats, apart from the way out, which applies at once.*
 
 - **What it is**
-  - **In scope:** Justification, disclosure, and transition duties for closed formats, interfaces, and protocols under [Article XXI-D](../core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*). A closed choice is justified only where no open alternative meets a material requirement — such as fidelity, performance, safety, security, accessibility, or a specialized function. Where one is used, the system must record the justification in auditable form, offer the best available open export and disclose what it loses, document the closed format enough to enable migration or deposit that documentation with an independent escrow, and review the choice periodically and at each materially impactful certification or revalidation. Systems already in operation when the sub-article first applies must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within one year by default. Adopters may set a different period for classes of systems with published justification, and individual extensions require documented, reviewable, time-bound justification. The exit duty is not subject to transition.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in closed-format justification and open-format transition.
-<a id="closed-format-justification-and-open-format-transition-controls-a"></a>
+  - **In scope:** Justification, disclosure, and Adoption Transition duties for closed formats, interfaces, and protocols under [Article XXI-D](../core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards) (*Open Formats and Standards*). A closed choice is justified only where no open alternative meets a material requirement — such as fidelity, performance, safety, security, accessibility, or a specialized function. Where one is used, the system must record the justification in auditable form, offer the best available open export and disclose what it loses, document the closed format enough to enable migration or deposit that documentation with an independent escrow, and review the choice periodically and at each materially impactful certification or revalidation. Systems already in operation when the sub-article first applies must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within one year by default. Adopters may set a different period for classes of systems with published justification, and individual extensions require documented, reviewable, time-bound justification. The exit duty is not subject to transition.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in closed-format justification and open-format Adoption Transition.
+<a id="closed-format-justification-and-open-format-adoption-transition-controls-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** the recorded justification for each material closed format, interface, or protocol, the open alternatives considered, the open export offered and its disclosed losses, format documentation or escrow, review dates, and migration-plan milestones against the applicable transition period
+  - **Primary measure:** the recorded justification for each material closed format, interface, or protocol, the open alternatives considered, the open export offered and its disclosed losses, format documentation or escrow, review dates, and migration-plan milestones against the applicable Adoption Transition period
 
-    **Primary assessment:** Evaluation must verify the recorded justification for each material closed format, interface, or protocol, the open alternatives considered, the open export offered and its disclosed losses, format documentation or escrow, review dates, and migration-plan milestones against the applicable transition period.
-<a id="closed-format-justification-and-open-format-transition-controls-c"></a>
+    **Primary assessment:** Evaluation must verify the recorded justification for each material closed format, interface, or protocol, the open alternatives considered, the open export offered and its disclosed losses, format documentation or escrow, review dates, and migration-plan milestones against the applicable Adoption Transition period.
+<a id="closed-format-justification-and-open-format-adoption-transition-controls-c"></a>
 - **What must hold**
-  - **Primary failure:** A closed format, interface, or protocol kept without a current justification, justified only by convenience, operator cost savings, or incumbency, left without an open export where one can carry the data, or maintained past the applicable transition period without a documented, reviewed extension.
+  - **Primary failure:** A closed format, interface, or protocol kept without a current justification, justified only by convenience, operator cost savings, or incumbency, left without an open export where one can carry the data, or maintained past the applicable Adoption Transition period without a documented, reviewed extension.
 
 <a id="collection-time-exportability-and-continuity-critical-data-integrity"></a>
 Collection-time exportability and continuity-critical data integrity
@@ -387,20 +387,20 @@ Commitment, renewal, and charge-exit integrity
 - **What must hold**
   - **Primary failure:** A charge pathway if it relies on obscured defaults, preselected paid options, trial conversion without informed commitment, renewal notice that hides amount or timing, continued charges after valid exit except for a previously disclosed lawful notice period, bundled structures whose primary effect is to block proportionate exit, or post-cancel billing cycles that make users monitor for charges after the operator has accepted exit.
 
-<a id="continuity-preserving-transition-safeguards"></a>
-Continuity-preserving transition safeguards
+<a id="continuity-preserving-handoff-safeguards"></a>
+Continuity-preserving handoff safeguards
 
 *In plain terms: exit and migration should preserve identity, participation, and recoverable state where feasible.*
 
 - **What it is**
   - **In scope:** Exit and migration should preserve identity, participation, and recoverable state where feasible.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in continuity-preserving transition safeguards.
-<a id="continuity-preserving-transition-safeguards-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in continuity-preserving handoff safeguards.
+<a id="continuity-preserving-handoff-safeguards-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** safe transition paths, rollback or recovery options, and advance disclosure of unavoidable loss
+  - **Primary measure:** safe handoff paths, rollback or recovery options, and advance disclosure of unavoidable loss
 
-    **Primary assessment:** Evaluation must verify safe transition paths, rollback or recovery options, and advance disclosure of unavoidable loss.
-<a id="continuity-preserving-transition-safeguards-c"></a>
+    **Primary assessment:** Evaluation must verify safe handoff paths, rollback or recovery options, and advance disclosure of unavoidable loss.
+<a id="continuity-preserving-handoff-safeguards-c"></a>
 - **What must hold**
   - **Primary failure:** Forcing avoidable discontinuity.
 
@@ -465,12 +465,12 @@ High-vulnerability personal-service pathway integrity
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in high-vulnerability personal-service pathway integrity.
 <a id="high-vulnerability-personal-service-pathway-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** labor, safety, contract, consumer, platform, payment, licensing, housing, data, reputation, reporting, dispute, and transition pathways together. Reviewers must verify that heightened controls rest on documented risk rather than stigma, moral disapproval, stereotype, blanket exclusion, or functional prohibition through fines, zoning, licensing, platform visibility, payment denial, housing exclusion, or data practices; that fraud, coercion, consent defects, exploitation, harassment, privacy injury, and unfair terms remain enforceable through accessible routes; and that intermediaries or financial plumbing do not use generic risk categories to suppress lawful activity without proportionate justification
+  - **Primary measure:** labor, safety, contract, consumer, platform, payment, licensing, housing, data, reputation, reporting, dispute, and Adoption Transition pathways together. Reviewers must verify that heightened controls rest on documented risk rather than stigma, moral disapproval, stereotype, blanket exclusion, or functional prohibition through fines, zoning, licensing, platform visibility, payment denial, housing exclusion, or data practices; that fraud, coercion, consent defects, exploitation, harassment, privacy injury, and unfair terms remain enforceable through accessible routes; and that intermediaries or financial plumbing do not use generic risk categories to suppress lawful activity without proportionate justification
 
-    **Primary assessment:** Evaluation must compare labor, safety, contract, consumer, platform, payment, licensing, housing, data, reputation, reporting, dispute, and transition pathways together. Reviewers must verify that heightened controls rest on documented risk rather than stigma, moral disapproval, stereotype, blanket exclusion, or functional prohibition through fines, zoning, licensing, platform visibility, payment denial, housing exclusion, or data practices; that fraud, coercion, consent defects, exploitation, harassment, privacy injury, and unfair terms remain enforceable through accessible routes; and that intermediaries or financial plumbing do not use generic risk categories to suppress lawful activity without proportionate justification.
+    **Primary assessment:** Evaluation must compare labor, safety, contract, consumer, platform, payment, licensing, housing, data, reputation, reporting, dispute, and Adoption Transition pathways together. Reviewers must verify that heightened controls rest on documented risk rather than stigma, moral disapproval, stereotype, blanket exclusion, or functional prohibition through fines, zoning, licensing, platform visibility, payment denial, housing exclusion, or data practices; that fraud, coercion, consent defects, exploitation, harassment, privacy injury, and unfair terms remain enforceable through accessible routes; and that intermediaries or financial plumbing do not use generic risk categories to suppress lawful activity without proportionate justification.
 <a id="high-vulnerability-personal-service-pathway-integrity-c"></a>
 - **What must hold**
-  - **Primary failure:** A personal-service pathway if it makes lawful participation functionally unavailable through fines, fees, zoning, licensing, platform visibility, payment denial, housing exclusion, data practices, or reporting design whose primary practical effect is prohibition or harassment without a lawful risk predicate; if decriminalization or non-penal treatment is used to deprioritize exploitation response; or if transition rules preserve obsolete penalties, records, or training norms after the governing rule has changed.
+  - **Primary failure:** A personal-service pathway if it makes lawful participation functionally unavailable through fines, fees, zoning, licensing, platform visibility, payment denial, housing exclusion, data practices, or reporting design whose primary practical effect is prohibition or harassment without a lawful risk predicate; if decriminalization or non-penal treatment is used to deprioritize exploitation response; or if Adoption Transition rules preserve obsolete penalties, records, or training norms after the governing rule has changed.
 
 <a id="innovation-reward-boundary-and-anti-enclosure-controls"></a>
 Innovation reward boundary and anti-enclosure controls
@@ -808,22 +808,22 @@ Review, revalidation, and prohibited patterns
 - **What must hold**
   - **Primary failure:** Stale, unreviewed, or evasive retention regimes.
 
-<a id="transition-continuity-and-authority-transfer-lifecycle-integrity"></a>
-Transition continuity and authority-transfer lifecycle integrity
+<a id="handoff-continuity-and-authority-transfer-lifecycle-integrity"></a>
+Handoff continuity and authority-transfer lifecycle integrity
 
-*In plain terms: material redesign, consolidation, dissolution, migration, or authority transfer must preserve continuity for rights, services, records, active challenge pathways, and accountable governance while the transition is underway.*
+*In plain terms: material redesign, consolidation, dissolution, migration, or authority transfer must preserve continuity for rights, services, records, active challenge pathways, and accountable governance while the handoff is underway.*
 
 - **What it is**
-  - **In scope:** Material redesign, consolidation, dissolution, migration, or authority transfer must preserve continuity for rights, services, records, active challenge pathways, and accountable governance while the transition is underway.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in transition continuity and authority-transfer lifecycle integrity.
-<a id="transition-continuity-and-authority-transfer-lifecycle-integrity-a"></a>
+  - **In scope:** Material redesign, consolidation, dissolution, migration, or authority transfer must preserve continuity for rights, services, records, active challenge pathways, and accountable governance while the handoff is underway.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in handoff continuity and authority-transfer lifecycle integrity.
+<a id="handoff-continuity-and-authority-transfer-lifecycle-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** authority custody, review authority, evidence custody, interim scope, sunset and reauthorization records, unresolved-risk explanations, rollback or recovery options, and whether the transition prevents governance vacuum, unmanaged authority transfer, or anti-constitutional lock-in
+  - **Primary measure:** authority custody, review authority, evidence custody, interim scope, sunset and reauthorization records, unresolved-risk explanations, rollback or recovery options, and whether the handoff prevents governance vacuum, unmanaged authority transfer, or anti-constitutional lock-in
 
-    **Primary assessment:** Reviewers must verify authority custody, review authority, evidence custody, interim scope, sunset and reauthorization records, unresolved-risk explanations, rollback or recovery options, and whether the transition prevents governance vacuum, unmanaged authority transfer, or anti-constitutional lock-in.
-<a id="transition-continuity-and-authority-transfer-lifecycle-integrity-c"></a>
+    **Primary assessment:** Reviewers must verify authority custody, review authority, evidence custody, interim scope, sunset and reauthorization records, unresolved-risk explanations, rollback or recovery options, and whether the handoff prevents governance vacuum, unmanaged authority transfer, or anti-constitutional lock-in.
+<a id="handoff-continuity-and-authority-transfer-lifecycle-integrity-c"></a>
 - **What must hold**
-  - **Primary failure:** A transition lifecycle if interim authority becomes indefinite without recorded reauthorization, if evidence or challenge pathways are lost during transfer, if unresolved risks are concealed, or if redesign creates a governance gap that makes rights, services, records, or remedies unusable in practice.
+  - **Primary failure:** A handoff lifecycle if interim authority becomes indefinite without recorded reauthorization, if evidence or challenge pathways are lost during transfer, if unresolved risks are concealed, or if redesign creates a governance gap that makes rights, services, records, or remedies unusable in practice.
 
 <a id="transparency-disclosures-and-stakeholder-legibility"></a>
 Transparency disclosures and stakeholder legibility

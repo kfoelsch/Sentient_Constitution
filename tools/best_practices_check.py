@@ -186,7 +186,7 @@ REVIEWS = [
         evidence=3,
         performance=3,
         current_state=(
-            "Continuity, emergency discipline, restoration, and transition governance are unusually mature, with dedicated drill artifacts already present in evidence."
+            "Continuity, emergency discipline, restoration, and Adoption Transition governance are unusually mature, with dedicated drill artifacts already present in evidence."
         ),
         gap="The strongest remaining close is presentation rather than substance: one concise continuity evidence dashboard would make the maturity easier to demonstrate.",
         proposed_close="Add a quarterly continuity dashboard summarizing drills, findings, remediation status, and unresolved transition risks.",

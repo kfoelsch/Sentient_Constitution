@@ -833,17 +833,17 @@
       "header": "CI-25.5: Ombuds, escalation, and technical forum referral"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14",
       "machine_id": "CI-06275",
       "display_id": "CI-6.275",
       "old_anchor": "ci-14-transitional-governance-and-institutional-evolution",
-      "new_anchor": "ci-6275-transitional-governance-and-institutional-evolution",
+      "new_anchor": "ci-6275-adoption-transition-governance-and-institutional-evolution",
       "header": "CI-14: Transitional governance and institutional evolution"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.1",
       "machine_id": "CI-06275.1",
@@ -853,7 +853,7 @@
       "header": "CI-14.1: Interface \u2014 **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.2",
       "machine_id": "CI-06275.2",
@@ -863,17 +863,17 @@
       "header": "CI-14.2: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) \u2014 trigger catalog, anti-abuse metrics, and publication requirements"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.3",
       "machine_id": "CI-06275.3",
       "display_id": "CI-6.275 \u00a73",
       "old_anchor": "ci-143-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements",
-      "new_anchor": "ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements",
+      "new_anchor": "ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-adoption-transition-scoped-remediation-requirements",
       "header": "CI-14.3: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) \u2014 operative transition-scoped remediation requirements"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4",
       "machine_id": "CI-06275.4",
@@ -883,7 +883,7 @@
       "header": "CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) \u2014 Rights-Floor attainment ledger: measures, verification, and publication"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.1",
       "machine_id": "CI-06275.4.1",
@@ -893,7 +893,7 @@
       "header": "CI-14.4.1: Ledger structure"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.2",
       "machine_id": "CI-06275.4.2",
@@ -903,7 +903,7 @@
       "header": "CI-14.4.2: Minimum measure families"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.3",
       "machine_id": "CI-06275.4.3",
@@ -913,7 +913,7 @@
       "header": "CI-14.4.3: Measurement rules"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.4",
       "machine_id": "CI-06275.4.4",
@@ -923,7 +923,7 @@
       "header": "CI-14.4.4: Enforcement-readiness declarations"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.5",
       "machine_id": "CI-06275.4.5",
@@ -933,7 +933,7 @@
       "header": "CI-14.4.5: Interim enforcement of restraint duties"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.6",
       "machine_id": "CI-06275.4.6",
@@ -943,7 +943,7 @@
       "header": "CI-14.4.6: Interim safeguards for gap-affected sentients"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.7",
       "machine_id": "CI-06275.4.7",
@@ -953,7 +953,7 @@
       "header": "CI-14.4.7: Verification (scaled to material stake)"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.8",
       "machine_id": "CI-06275.4.8",
@@ -963,7 +963,7 @@
       "header": "CI-14.4.8: Indicators that verification is unreliable"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.9",
       "machine_id": "CI-06275.4.9",
@@ -973,7 +973,7 @@
       "header": "CI-14.4.9: Status and consequences"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.10",
       "machine_id": "CI-06275.4.10",
@@ -983,7 +983,7 @@
       "header": "CI-14.4.10: Publication"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.11",
       "machine_id": "CI-06275.4.11",
@@ -993,7 +993,7 @@
       "header": "CI-14.4.11: Use in gates, reauthorization, and re-baselining"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.4.12",
       "machine_id": "CI-06275.4.12",
@@ -1003,13 +1003,13 @@
       "header": "CI-14.4.12: Implementation custody (local publication required)"
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "legacy_id": "CI-14",
       "legacy_section_id": "CI-14.5",
       "machine_id": "CI-06275.5",
       "display_id": "CI-6.275 \u00a75",
       "old_anchor": "ci-145-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets",
-      "new_anchor": "ci-6275-5-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets",
+      "new_anchor": "ci-6275-5-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-adoption-transition-targets",
       "header": "CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) \u2014 prioritizing institutional transition targets"
     },
     {
@@ -1829,7 +1829,7 @@
       "machine_id": "CS-06345.5",
       "display_id": "CS-6.345 \u00a75",
       "old_anchor": "cs-55-transition-to-higher-impact-systems",
-      "new_anchor": "cs-6345-5-transition-to-higher-impact-systems",
+      "new_anchor": "cs-6345-5-step-up-to-higher-impact-systems",
       "header": "CS-5.5 Transition to higher-impact systems"
     },
     {
@@ -1883,17 +1883,17 @@
       "header": "CS-5.10 Recertification, regression testing, and certification defects"
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "legacy_id": "CS-10",
       "legacy_section_id": "CS-10",
       "machine_id": "CS-06350",
       "display_id": "CS-6.350",
       "old_anchor": "cs-10-transition-constitution-and-migration-governance",
-      "new_anchor": "cs-6350-transition-constitution-and-migration-governance",
+      "new_anchor": "cs-6350-adoption-transition-constitution-and-migration-governance",
       "header": "CS-10: Transition constitution and migration governance"
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "legacy_id": "CS-10",
       "legacy_section_id": "CS-10.1",
       "machine_id": "CS-06350.1",
@@ -1903,17 +1903,17 @@
       "header": "CS-10.1 Purpose and role"
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "legacy_id": "CS-10",
       "legacy_section_id": "CS-10.2",
       "machine_id": "CS-06350.2",
       "display_id": "CS-6.350 \u00a72",
       "old_anchor": "cs-102-phased-transition-structure",
-      "new_anchor": "cs-6350-2-phased-transition-structure",
+      "new_anchor": "cs-6350-2-phased-adoption-transition-structure",
       "header": "CS-10.2 Phased transition structure"
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "legacy_id": "CS-10",
       "legacy_section_id": "CS-10.3",
       "machine_id": "CS-06350.3",
@@ -1923,7 +1923,7 @@
       "header": "CS-10.3 Gate criteria and advancement rules"
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "legacy_id": "CS-10",
       "legacy_section_id": "CS-10.4",
       "machine_id": "CS-06350.4",
@@ -1933,7 +1933,7 @@
       "header": "CS-10.4 Transitional authority constraints"
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "legacy_id": "CS-10",
       "legacy_section_id": "CS-10.5",
       "machine_id": "CS-06350.5",
@@ -1943,7 +1943,7 @@
       "header": "CS-10.5 Failure handling, off-ramps, and re-baselining"
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "legacy_id": "CS-10",
       "legacy_section_id": "CS-10.6",
       "machine_id": "CS-06350.6",
@@ -1953,23 +1953,23 @@
       "header": "CS-10.6 Transition audit, disclosure, and challenge"
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "legacy_id": "CS-10",
       "legacy_section_id": "CS-10.7",
       "machine_id": "CS-06350.7",
       "display_id": "CS-6.350 \u00a77",
       "old_anchor": "cs-107-prioritizing-system-transition-targets",
-      "new_anchor": "cs-6350-7-prioritizing-system-transition-targets",
+      "new_anchor": "cs-6350-7-prioritizing-system-adoption-transition-targets",
       "header": "CS-10.7 Prioritizing system transition targets"
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "legacy_id": "CS-10",
       "legacy_section_id": "CS-10.8",
       "machine_id": "CS-06350.8",
       "display_id": "CS-6.350 \u00a78",
       "old_anchor": "cs-108-preservation-during-transition",
-      "new_anchor": "cs-6350-8-preservation-during-transition",
+      "new_anchor": "cs-6350-8-preservation-during-adoption-transition",
       "header": "CS-10.8 Preservation during transition"
     },
     {
@@ -5655,16 +5655,16 @@
     ],
     "CI-14": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275",
         "display_id": "CI-6.275",
         "old_anchor": "ci-14-transitional-governance-and-institutional-evolution",
-        "new_anchor": "ci-6275-transitional-governance-and-institutional-evolution"
+        "new_anchor": "ci-6275-adoption-transition-governance-and-institutional-evolution"
       }
     ],
     "CI-14.1": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.1",
         "display_id": "CI-6.275 \u00a71",
         "old_anchor": "ci-141-interface--article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
@@ -5673,7 +5673,7 @@
     ],
     "CI-14.2": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.2",
         "display_id": "CI-6.275 \u00a72",
         "old_anchor": "ci-142-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--trigger-catalog-anti-abuse-metrics-and-publication-requirements",
@@ -5682,16 +5682,16 @@
     ],
     "CI-14.3": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.3",
         "display_id": "CI-6.275 \u00a73",
         "old_anchor": "ci-143-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements",
-        "new_anchor": "ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements"
+        "new_anchor": "ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-adoption-transition-scoped-remediation-requirements"
       }
     ],
     "CI-14.4": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4",
         "display_id": "CI-6.275 \u00a74",
         "old_anchor": "ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication",
@@ -5700,7 +5700,7 @@
     ],
     "CI-14.4.1": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.1",
         "display_id": "CI-6.275 \u00a74.1",
         "old_anchor": "ci-1441-ledger-structure",
@@ -5709,7 +5709,7 @@
     ],
     "CI-14.4.2": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.2",
         "display_id": "CI-6.275 \u00a74.2",
         "old_anchor": "ci-1442-minimum-measure-families",
@@ -5718,7 +5718,7 @@
     ],
     "CI-14.4.3": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.3",
         "display_id": "CI-6.275 \u00a74.3",
         "old_anchor": "ci-1443-measurement-rules",
@@ -5727,7 +5727,7 @@
     ],
     "CI-14.4.4": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.4",
         "display_id": "CI-6.275 \u00a74.4",
         "old_anchor": "ci-1444-enforcement-readiness-declarations",
@@ -5736,7 +5736,7 @@
     ],
     "CI-14.4.5": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.5",
         "display_id": "CI-6.275 \u00a74.5",
         "old_anchor": "ci-1445-interim-enforcement-of-restraint-duties",
@@ -5745,7 +5745,7 @@
     ],
     "CI-14.4.6": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.6",
         "display_id": "CI-6.275 \u00a74.6",
         "old_anchor": "ci-1446-interim-safeguards-for-gap-affected-sentients",
@@ -5754,7 +5754,7 @@
     ],
     "CI-14.4.7": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.7",
         "display_id": "CI-6.275 \u00a74.7",
         "old_anchor": "ci-1447-verification-scaled-to-material-stake",
@@ -5763,7 +5763,7 @@
     ],
     "CI-14.4.8": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.8",
         "display_id": "CI-6.275 \u00a74.8",
         "old_anchor": "ci-1448-indicators-that-verification-is-unreliable",
@@ -5772,7 +5772,7 @@
     ],
     "CI-14.4.9": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.9",
         "display_id": "CI-6.275 \u00a74.9",
         "old_anchor": "ci-1449-status-and-consequences",
@@ -5781,7 +5781,7 @@
     ],
     "CI-14.4.10": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.10",
         "display_id": "CI-6.275 \u00a74.10",
         "old_anchor": "ci-14410-publication",
@@ -5790,7 +5790,7 @@
     ],
     "CI-14.4.11": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.11",
         "display_id": "CI-6.275 \u00a74.11",
         "old_anchor": "ci-14411-use-in-gates-reauthorization-and-re-baselining",
@@ -5799,7 +5799,7 @@
     ],
     "CI-14.4.12": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.4.12",
         "display_id": "CI-6.275 \u00a74.12",
         "old_anchor": "ci-14412-implementation-custody-local-publication-required",
@@ -5808,11 +5808,11 @@
     ],
     "CI-14.5": [
       {
-        "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+        "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "machine_id": "CI-06275.5",
         "display_id": "CI-6.275 \u00a75",
         "old_anchor": "ci-145-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets",
-        "new_anchor": "ci-6275-5-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets"
+        "new_anchor": "ci-6275-5-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-adoption-transition-targets"
       }
     ],
     "CS-2": [
@@ -6548,7 +6548,7 @@
         "machine_id": "CS-06345.5",
         "display_id": "CS-6.345 \u00a75",
         "old_anchor": "cs-55-transition-to-higher-impact-systems",
-        "new_anchor": "cs-6345-5-transition-to-higher-impact-systems"
+        "new_anchor": "cs-6345-5-step-up-to-higher-impact-systems"
       }
     ],
     "CS-5.6": [
@@ -6598,16 +6598,16 @@
     ],
     "CS-10": [
       {
-        "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+        "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
         "machine_id": "CS-06350",
         "display_id": "CS-6.350",
         "old_anchor": "cs-10-transition-constitution-and-migration-governance",
-        "new_anchor": "cs-6350-transition-constitution-and-migration-governance"
+        "new_anchor": "cs-6350-adoption-transition-constitution-and-migration-governance"
       }
     ],
     "CS-10.1": [
       {
-        "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+        "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
         "machine_id": "CS-06350.1",
         "display_id": "CS-6.350 \u00a71",
         "old_anchor": "cs-101-purpose-and-role",
@@ -6616,16 +6616,16 @@
     ],
     "CS-10.2": [
       {
-        "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+        "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
         "machine_id": "CS-06350.2",
         "display_id": "CS-6.350 \u00a72",
         "old_anchor": "cs-102-phased-transition-structure",
-        "new_anchor": "cs-6350-2-phased-transition-structure"
+        "new_anchor": "cs-6350-2-phased-adoption-transition-structure"
       }
     ],
     "CS-10.3": [
       {
-        "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+        "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
         "machine_id": "CS-06350.3",
         "display_id": "CS-6.350 \u00a73",
         "old_anchor": "cs-103-gate-criteria-and-advancement-rules",
@@ -6634,7 +6634,7 @@
     ],
     "CS-10.4": [
       {
-        "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+        "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
         "machine_id": "CS-06350.4",
         "display_id": "CS-6.350 \u00a74",
         "old_anchor": "cs-104-transitional-authority-constraints",
@@ -6643,7 +6643,7 @@
     ],
     "CS-10.5": [
       {
-        "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+        "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
         "machine_id": "CS-06350.5",
         "display_id": "CS-6.350 \u00a75",
         "old_anchor": "cs-105-failure-handling-off-ramps-and-re-baselining",
@@ -6652,7 +6652,7 @@
     ],
     "CS-10.6": [
       {
-        "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+        "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
         "machine_id": "CS-06350.6",
         "display_id": "CS-6.350 \u00a76",
         "old_anchor": "cs-106-transition-audit-disclosure-and-challenge",
@@ -6661,20 +6661,20 @@
     ],
     "CS-10.7": [
       {
-        "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+        "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
         "machine_id": "CS-06350.7",
         "display_id": "CS-6.350 \u00a77",
         "old_anchor": "cs-107-prioritizing-system-transition-targets",
-        "new_anchor": "cs-6350-7-prioritizing-system-transition-targets"
+        "new_anchor": "cs-6350-7-prioritizing-system-adoption-transition-targets"
       }
     ],
     "CS-10.8": [
       {
-        "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+        "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
         "machine_id": "CS-06350.8",
         "display_id": "CS-6.350 \u00a78",
         "old_anchor": "cs-108-preservation-during-transition",
-        "new_anchor": "cs-6350-8-preservation-during-transition"
+        "new_anchor": "cs-6350-8-preservation-during-adoption-transition"
       }
     ],
     "CS-11": [
@@ -9895,11 +9895,11 @@
       ]
     },
     {
-      "source_file": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md",
+      "source_file": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
       "anchors": [
         {
           "old_anchor": "ci-14-transitional-governance-and-institutional-evolution",
-          "new_anchor": "ci-6275-transitional-governance-and-institutional-evolution"
+          "new_anchor": "ci-6275-adoption-transition-governance-and-institutional-evolution"
         },
         {
           "old_anchor": "ci-141-interface--article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
@@ -9911,7 +9911,7 @@
         },
         {
           "old_anchor": "ci-143-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements",
-          "new_anchor": "ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements"
+          "new_anchor": "ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-adoption-transition-scoped-remediation-requirements"
         },
         {
           "old_anchor": "ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication",
@@ -9967,11 +9967,11 @@
         },
         {
           "old_anchor": "ci-145-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets",
-          "new_anchor": "ci-6275-5-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets"
+          "new_anchor": "ci-6275-5-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-adoption-transition-targets"
         },
         {
           "old_anchor": "ci-143-article-xxviii-d-operative-transition-scoped-remediation-requirements",
-          "new_anchor": "ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements"
+          "new_anchor": "ci-6275-3-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-adoption-transition-scoped-remediation-requirements"
         },
         {
           "old_anchor": "ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication",
@@ -9979,7 +9979,7 @@
         },
         {
           "old_anchor": "ci-145-article-xxviii-a-prioritizing-institutional-transition-targets",
-          "new_anchor": "ci-6275-5-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets"
+          "new_anchor": "ci-6275-5-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-adoption-transition-targets"
         }
       ]
     },
@@ -10784,7 +10784,7 @@
         },
         {
           "old_anchor": "cs-55-transition-to-higher-impact-systems",
-          "new_anchor": "cs-6345-5-transition-to-higher-impact-systems"
+          "new_anchor": "cs-6345-5-step-up-to-higher-impact-systems"
         },
         {
           "old_anchor": "cs-56-experimental-substrate-features-and-systems",
@@ -10824,7 +10824,7 @@
         },
         {
           "old_anchor": "cs-5-5-transition-to-higher-impact-systems",
-          "new_anchor": "cs-6345-5-transition-to-higher-impact-systems"
+          "new_anchor": "cs-6345-5-step-up-to-higher-impact-systems"
         },
         {
           "old_anchor": "cs-5-6-experimental-substrate-features-and-systems",
@@ -10849,11 +10849,11 @@
       ]
     },
     {
-      "source_file": "corpus_systems/cs_06.350_transition_constitution_migration_governance.md",
+      "source_file": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
       "anchors": [
         {
           "old_anchor": "cs-10-transition-constitution-and-migration-governance",
-          "new_anchor": "cs-6350-transition-constitution-and-migration-governance"
+          "new_anchor": "cs-6350-adoption-transition-constitution-and-migration-governance"
         },
         {
           "old_anchor": "cs-101-purpose-and-role",
@@ -10861,7 +10861,7 @@
         },
         {
           "old_anchor": "cs-102-phased-transition-structure",
-          "new_anchor": "cs-6350-2-phased-transition-structure"
+          "new_anchor": "cs-6350-2-phased-adoption-transition-structure"
         },
         {
           "old_anchor": "cs-103-gate-criteria-and-advancement-rules",
@@ -10881,11 +10881,11 @@
         },
         {
           "old_anchor": "cs-107-prioritizing-system-transition-targets",
-          "new_anchor": "cs-6350-7-prioritizing-system-transition-targets"
+          "new_anchor": "cs-6350-7-prioritizing-system-adoption-transition-targets"
         },
         {
           "old_anchor": "cs-108-preservation-during-transition",
-          "new_anchor": "cs-6350-8-preservation-during-transition"
+          "new_anchor": "cs-6350-8-preservation-during-adoption-transition"
         },
         {
           "old_anchor": "cs-10-1-purpose-and-role",
@@ -10893,7 +10893,7 @@
         },
         {
           "old_anchor": "cs-10-2-phased-transition-structure",
-          "new_anchor": "cs-6350-2-phased-transition-structure"
+          "new_anchor": "cs-6350-2-phased-adoption-transition-structure"
         },
         {
           "old_anchor": "cs-10-3-gate-criteria-and-advancement-rules",
@@ -10913,11 +10913,11 @@
         },
         {
           "old_anchor": "cs-10-7-prioritizing-system-transition-targets",
-          "new_anchor": "cs-6350-7-prioritizing-system-transition-targets"
+          "new_anchor": "cs-6350-7-prioritizing-system-adoption-transition-targets"
         },
         {
           "old_anchor": "cs-10-8-preservation-during-transition",
-          "new_anchor": "cs-6350-8-preservation-during-transition"
+          "new_anchor": "cs-6350-8-preservation-during-adoption-transition"
         }
       ]
     },

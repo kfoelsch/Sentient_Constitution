@@ -16,7 +16,7 @@
 
 - Upstream: [CI-8.205 §6](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter contents, review, and formation template*); [Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) and [System Charter](../../core_05.040_band_continuity.md#system-charter) (*Chapter Five scope documents*); [System Creation](../../core_05.055_band_participation.md#system-creation); [Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization) (*aligned self-organization; no self-appointment*); [Chapter Fourteen §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption); [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-two-tracks-do-not-merge); [§1.1](#11-track-b-function-pointers-same-kit); [§4](#4-formation-cliffs-not-a-slope); [§5](#5-institutional-charter-fill-in-not-a-live-institutional-charter).
-- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation — not this kit*); [CI-8.205](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md); [CI-14.205](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md); [CI-13.205](../../corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md); [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md); [CI-9.210 §1](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-1-formation-proportionality); [CI-6.275](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md); [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role); [CF-13.405](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md) (*binding forum formation*).
+- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation — not this kit*); [CI-8.205](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md); [CI-14.205](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md); [CI-13.205](../../corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md); [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md); [CI-9.210 §1](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-1-formation-proportionality); [CI-6.275](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md); [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role); [CF-13.405](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md) (*binding forum formation*).
 
 </details>
 
@@ -46,7 +46,7 @@ This page, the Institutional Charter fill-in, and the non-institution banner **c
 Go to the owner files for the real rules. This page does not replace them:
 
 - **What a Institutional Charter must say** — [CI-8.205 §6](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) is the rulebook for a published [Chapter Five Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter): purpose, limits, who is affected, how it can change, and how often it is re-checked. This page helps you fill those fields. It does not rewrite them.
-- **Moving systems over later** — [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) sequences that move **after** a body records a Chapter Seventeen adoption document. A Institutional Charter draft is not that move.
+- **Moving systems over later** — [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) sequences that move **after** a body records a Chapter Seventeen adoption document. A Institutional Charter draft is not that move.
 - **Dispute forums** — [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) is the process path; [CF-13.405](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md) is how forum families are formed. A forum hears disputes. It is not the institution you are founding here. Name the forum route on the Institutional Charter; do not found the forum with this kit.
 
 This kit also does **not**:
@@ -76,7 +76,7 @@ This kit also does **not**:
 | Track | What you are founding | What it still is not | When it can go live |
 |---|---|---|---|
 | **A. Ordinary formation** | A cooperative, mutual-aid network, research body, commons body, or other non-commercial institution under [System Creation](../../core_05.055_band_participation.md#system-creation); or a commercial form under [Business Creation](../../core_05.055_band_participation.md#business-creation). Cooperatives and commons also read [CI-6.255](../../corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md). | Not governing authority over non-consenters. Not a forum family. Not CS-6.350 phase entry. | A qualifying body can bind the named scope, publishes a Chapter Five Institutional Charter meeting [CI-8.205 §6](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) in **its** custody, and passes the [§4](#4-formation-cliffs-not-a-slope) cliffs. A Chapter Seventeen adoption document is **not** required to exist as an ordinary institution. |
-| **B. Constitutional-function machinery** | Oversight, standing and challenge routes, amendment and oversight machinery, and other ordinary constitutional operations named in [Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization). Name the function in [§1.1](#11-track-b-function-pointers-same-kit). | Not headcount of cooperating parties. Not interim authority dressed up as maturity. Not forums (those are [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) / [CF-13.405](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md) / [Chapter Thirteen](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction)). Not a new kit per function. | A qualifying adopter already holds a recorded [§10.1–§10.2](../../core_17.000_amendment_ratification.md#101-deliberate-adoption) adoption document. Then the same Institutional Charter / lane / cliff path as Track A, scaled to the function’s class. Drafting Track B before an adoption document is scaffolding only. |
+| **B. Constitutional-function machinery** | Oversight, standing and challenge routes, amendment and oversight machinery, and other ordinary constitutional operations named in [Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization). Name the function in [§1.1](#11-track-b-function-pointers-same-kit). | Not headcount of cooperating parties. Not interim authority dressed up as maturity. Not forums (those are [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) / [CF-13.405](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md) / [Chapter Thirteen](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction)). Not a new kit per function. | A qualifying adopter already holds a recorded [§10.1–§10.2](../../core_17.000_amendment_ratification.md#101-deliberate-adoption) adoption document. Then the same Institutional Charter / lane / cliff path as Track A, scaled to the function’s class. Drafting Track B before an adoption document is scaffolding only. |
 
 **Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
@@ -100,7 +100,7 @@ Track B (constitutional-function machinery)
         Institutional Charter + cliffs for the function (this kit)
                 ↓
         CS-6.350 for systems under that adoption document
-        CI-6.275 for institutional transition
+        CI-6.275 for institutional Adoption Transition
         Article XXVIII-B: shrink interim authority as the machinery actually works
 ```
 
@@ -109,7 +109,7 @@ Track B (constitutional-function machinery)
 
 *In plain terms: if you are founding constitutional-function machinery, you still use this kit’s Institutional Charter and cliffs. Naming the function only tells you which owner file to read. It does not mint a new kit, and a filled row is not Article XXVIII-B progress.*
 
-[Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) lists forums, standing and challenge routes, amendment and oversight machinery, and other ordinary operations. Forums leave this kit. The rest stay here. Do not open a standing kit, an amendment kit, an oversight kit, or a certification kit.
+[Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization) lists forums, standing and challenge routes, amendment and oversight machinery, and other ordinary operations. Forums leave this kit. The rest stay here. Do not open a standing kit, an amendment kit, an oversight kit, or a certification kit.
 
 | Function | Owner (wins on conflict) | This kit still does | Stop / leave if |
 |---|---|---|---|
@@ -278,9 +278,9 @@ Do not staff a forum family from the cooperating crew and call that independent 
 
 A live Chapter Five Institutional Charter is still not Chapter Seventeen adoption, not CS-6.350 phase entry, and not certification.
 
-- **Systems under a recorded adoption document** migrate under [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). Do not reuse CS-6.350 phase names (preparation, limited adoption, expanded adoption, steady state) as a metaphor for “we founded a body.” Do not use a 2026-04 planning annex as a CS-6.350 substitute.
-- **Institutional redesign, merger, or handoff** uses [CI-6.275](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md). “We are in transition” is not a license to skip named interim authority, sunset, or contest paths.
-- **Progress** under [Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
+- **Systems under a recorded adoption document** migrate under [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role). Do not reuse CS-6.350 phase names (preparation, limited adoption, expanded adoption, steady state) as a metaphor for “we founded a body.” Do not use a 2026-04 planning annex as a CS-6.350 substitute.
+- **Institutional redesign, merger, or handoff** uses [CI-6.275](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md). “We are in the Adoption Transition” is not a license to skip named interim authority, sunset, or contest paths.
+- **Progress** under [Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
 
 ---
 
@@ -335,7 +335,7 @@ If the file is also not a Chapter Seventeen adoption document, attach the first-
 | [CI-13.205](../../corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md) | Track B contest-route owner. Same kit |
 | [CI-8.215](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) | Track B oversight owner. Same kit |
 | [CI-9.210 §1](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-1-formation-proportionality) | Formation burden scales with impact |
-| [CI-6.275](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) | Institutional transition after a live body exists |
+| [CI-6.275](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md) | Institutional Adoption Transition after a live body exists |
 | [CI-6.255](../../corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md) | Commons, cooperatives, mutual aid |
 | [Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) | Track B certification-steward owner. Same kit. Certification is not standing |
 | [Chapter Ten](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) | Track B standing-record owner. Same kit. A filed case is not standing by itself |
@@ -344,11 +344,11 @@ If the file is also not a Chapter Seventeen adoption document, attach the first-
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation — leave this kit |
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not a founding kit |
 | [CF-13.405](../../corpus_forum/cf_13.405_forum_formation_chamber_structure.md) | Binding forum-structure fields. The forum kit cannot narrow them |
-| [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | System migration **after** a recorded adoption document |
+| [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | System migration **after** a recorded adoption document |
 | [Chapter Five Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) | Meaning of the scope document |
 | [System Creation](../../core_05.055_band_participation.md#system-creation) | Right to found non-commercial institutions |
 | [Chapter Fourteen §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) | Legitimacy mechanism if the body will govern |
-| [Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
+| [Article XXVIII-B](../../core_06.020_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them |
 
 ---

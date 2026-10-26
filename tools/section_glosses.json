@@ -29,7 +29,7 @@
     "Personal, isolated, and experimental systems": "The reduced-requirement track: sandboxed operation, no shared-infrastructure dependencies, and no material effect on anyone else.",
     "Creative, entertainment, and expressive systems": "Creative and expressive systems get wider latitude on features, subject to containment, disclosure, and opt-in.",
     "Misclassification and evasion": "Claiming the light track while exerting real outside impact. The tell-tale signs are concealed dependencies, concealed stakeholders, and 'experimental' labels used as cover.",
-    "Transition to higher-impact systems": "When a system's impact, dependency, or shared-infrastructure integration grows, it must move up to the full track — openly and on time.",
+    "Step-up to higher-impact systems": "When a system's impact, dependency, or shared-infrastructure integration grows, it must move up to the full track — openly and on time.",
     "Experimental substrate features and systems": "Experiments close to foundational infrastructure carry stricter containment, rollback, and opt-in requirements than ordinary experiments.",
     "Non-experimental systems": "The default track for everything that does not qualify above. Requirements scale with impact: a system affecting only its builder may stay simple.",
     "Governance continuity, crisis communications, and exercises (high-impact systems)": "For Class A and Class B systems and the stewards behind them: keep governance running through a crisis, and rehearse it before you need it.",
@@ -95,11 +95,11 @@
     "Conflict-free remuneration processes": "Where someone would personally profit from a decision they control, disclose it and manage it through recusal, split authority, or independent review.",
     "Observability of alignment": "Keep auditable documentation of compensation policy, sufficient to detect a systematic gap between stated obligations and actual incentives."
   },
-  "cs_06.350_transition_constitution_migration_governance.md": {
-    "Phased transition structure": "Every transition runs through at least four named phases, from preparation to steady state, with defined entry and exit for each.",
+  "cs_06.350_adoption_transition_constitution_migration_governance.md": {
+    "Phased Adoption Transition structure": "Every Adoption Transition runs through at least four named phases, from preparation to steady state, with defined entry and exit for each.",
     "Gate criteria and advancement rules": "Moving to the next phase requires auditable evidence that the criteria set in advance were actually met.",
-    "Transitional authority constraints": "Temporary transition powers are scope-limited, expire on a date, and are independently reviewable. Extensions must be justified in writing.",
-    "Failure handling, off-ramps, and re-baselining": "Decide in advance what counts as failure and what happens then, so that a stalled transition has a way out rather than drifting.",
-    "Transition audit, disclosure, and challenge": "Decisions, delays, reversals, and gate outcomes go on the record and are disclosed to those affected, subject to justified confidentiality limits."
+    "Adoption Transition authority constraints": "Temporary Adoption Transition powers are scope-limited, expire on a date, and are independently reviewable. Extensions must be justified in writing.",
+    "Failure handling, off-ramps, and re-baselining": "Decide in advance what counts as failure and what happens then, so that a stalled Adoption Transition has a way out rather than drifting.",
+    "Adoption Transition audit, disclosure, and challenge": "Decisions, delays, reversals, and gate outcomes go on the record and are disclosed to those affected, subject to justified confidentiality limits."
   }
 }

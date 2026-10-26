@@ -144,7 +144,7 @@ The rights themselves span the conditions that make agency possible:
 - Environment and survival essentials
 - Personal and cooperative rights
 - Trustworthy systems
-- Justice and transition protections
+- Justice and Adoption Transition protections
 
 [Chapter Six’s opening](../core_06.000_rights_part_a.md#1-purpose-and-role) explains how this floor constrains later governance, measurement, certification, and implementation.
 
@@ -270,7 +270,7 @@ flowchart TB
         B["Part B · Articles VI–XII<br/><br/>Equal standing, self-ownership, family,<br/>data, agency, cooperation, stakeholder participation"]
         C["Part C · Articles XIII–XVIII<br/><br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation"]
         D["Part D · Articles XIX–XXV<br/><br/>Standing, justice, portability, movement and refuge,<br/>comprehensibility, root cause, interpretation"]
-        E["Part E · Articles XXVI–XXVIII<br/><br/>Conflict resolution and review,<br/>constitutional evolution, transition"]
+        E["Part E · Articles XXVI–XXVIII<br/><br/>Conflict resolution and review,<br/>constitutional evolution, Adoption Transition"]
     end
     P[["Later governance, measurement, certification,<br/>forums, remedy, and implementation<br/><br/>Outside this chapter; must respect the Rights Floor"]]
     T -->|rights are read with| R
@@ -300,7 +300,7 @@ The five parts are different reading paths through the same floor:
 - [Part B](../core_06.005_rights_part_b.md) turns to personal, cooperative, and stakeholder rights.
 - [Part C](../core_06.010_rights_part_c.md) governs trustworthy systems, security, information integrity, verification, lifecycle, and sandboxed innovation.
 - [Part D](../core_06.015_rights_part_d.md) governs standing, justice after verified violation, portability, comprehensibility, root-cause analysis, and interpretive review.
-- [Part E](../core_06.020_rights_part_e.md) governs conflict resolution and review, constitutional evolution, and transition.
+- [Part E](../core_06.020_rights_part_e.md) governs conflict resolution and review, constitutional evolution, and Adoption Transition.
 
 Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Articles XIII–XVIII in Part C and Articles XIX–XXV in Part D; Part E begins with Article XXVI.
 
@@ -410,7 +410,7 @@ flowchart TB
         subgraph Crow3["Articles XVII–XVIII"]
             direction LR
             C5["Article XVII · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
-            C6["Article XVIII · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Creative and expressive works<br/>• Inventions, processes, and functional systems"]
+            C6["Article XVIII · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Step-up to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Creative and expressive works<br/>• Inventions, processes, and functional systems"]
         end
     end
     C0 ~~~ Cgrid
@@ -472,13 +472,13 @@ flowchart TB
     style D7 fill:none,stroke:#ea580c,color:#ffffff
 ```
 
-#### Part E · Conflict resolution, review, evolution, and transition
+#### Part E · Conflict resolution, review, evolution, and Adoption Transition
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
 ```mermaid
 flowchart TB
-    E0["Part E<br/><br/>Conflict resolution, review, constitutional evolution, and transition"]
+    E0["Part E<br/><br/>Conflict resolution, review, constitutional evolution, and Adoption Transition"]
     subgraph Egrid[" "]
         direction TB
         subgraph Erow1["Articles XXVI–XXVII"]
@@ -488,7 +488,7 @@ flowchart TB
         end
         subgraph Erow2["Article XXVIII"]
             direction LR
-            E3["Article XXVIII · Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Transitional authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
+            E3["Article XXVIII · Adoption Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Adoption Transition authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
         end
     end
     E0 ~~~ Egrid

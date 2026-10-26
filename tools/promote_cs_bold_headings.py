@@ -37,7 +37,7 @@ TARGETS = (
     "cs_06.355_subversion_response_replacement_reconstitution.md",
     "cs_06.325_adaptive_sustainability_ecosystem_resilience.md",
     "cs_06.335_resource_allocation_funding_stewardship.md",
-    "cs_06.350_transition_constitution_migration_governance.md",
+    "cs_06.350_adoption_transition_constitution_migration_governance.md",
 )
 
 
