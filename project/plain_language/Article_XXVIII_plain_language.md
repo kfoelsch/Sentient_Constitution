@@ -1,22 +1,22 @@
-# Article XXVIII: Transition Governance, Continuity, and Re-Baselining
-*Plain-language version of Article XXVIII (Transition Governance, Continuity, and Re-Baselining), including XXVIII-A through XXVIII-D in `core_06.020_rights_part_e.md`. The detailed "how it runs" rules are in CI-6.275 (transitional governance) and CI-8.215 (oversight and evidence). The official text remains the binding version.*
+# Article XXVIII: Adoption Transition Governance, Continuity, and Re-Baselining
+*Plain-language version of Article XXVIII (Adoption Transition Governance, Continuity, and Re-Baselining), including XXVIII-A through XXVIII-D in `core_06.020_rights_part_e.md`. The detailed "how it runs" rules are in CI-6.275 (Adoption Transition governance) and CI-8.215 (oversight and evidence). The official text remains the binding version.*
 
 ## The big idea
 Think of this Article as the **moving-day rules**. A community is switching from its old systems to running under this Constitution. That switch can't happen in one night, so it happens in steps. During the move:
 
 - **The rights are the fixed target, and they become enforceable as the means to enforce them are built.** A right is only as real as the forums, oversight, trained people, and public habits that back it up, and those can't exist on day one. So what the community must *not do* (make things worse, start new violations, destroy possible minds, hide the gap) applies from the start. What it must *deliver* (access, review, redress) becomes enforceable step by step, group by group, as the machinery and culture to enforce it are shown to be ready. The gap in the meantime is measured in public and closed by dates. Moving day is never an excuse to cut corners on dignity, access, fair treatment, or your ability to challenge a decision.
 - **Temporary powers must stay temporary.** They can exist when truly needed, but they must shrink over time, not grow.
-- **A stalled move can't quietly become "just how things are now."** If the transition breaks down, there has to be a lawful way out and a clear, checkable way to reset.
+- **A stalled move can't quietly become "just how things are now."** If the Adoption Transition breaks down, there has to be a lawful way out and a clear, checkable way to reset.
 - **Nobody gets to rewrite the Constitution through the back door.** Interim rules can't be used to lower the bar or to change the Constitution without the proper amendment process.
 
-**How you can tell a transition is going well:** the temporary powers keep getting smaller, the everyday institutions (forums, challenge paths, oversight, ordinary governance) keep getting stronger and carrying more of the load, and the published numbers show the gap to the full rights standard shrinking, and enforcement spreading to more people, on schedule. Time passing, paperwork piling up, or the number of temporary officials does not count as progress.
+**How you can tell an Adoption Transition is going well:** the temporary powers keep getting smaller, the everyday institutions (forums, challenge paths, oversight, ordinary governance) keep getting stronger and carrying more of the load, and the published numbers show the gap to the full rights standard shrinking, and enforcement spreading to more people, on schedule. Time passing, paperwork piling up, or the number of temporary officials does not count as progress.
 
 ## The four promises behind it
 These apply at every stage. The more people affected, and the higher the risk, the stronger each one must be.
 
-- **You get a voice.** Affected people can see the published goals for each stage, can contest seizures or restrictions made during the transition, and can weigh in when temporary powers that touch rights are renewed.
+- **You get a voice.** Affected people can see the published goals for each stage, can contest seizures or restrictions made during the Adoption Transition, and can weigh in when temporary powers that touch rights are renewed.
 - **It stays watchable.** Stages are documented, temporary powers are reviewed by someone independent, records can be audited, and reasons are published for delays, rollbacks, and resets.
-- **Someone answers for it.** People running the transition are accountable if they use it as cover: creating their own delays, taking shortcuts, enforcing selectively or as a pretext, leaving a governance gap, locking things in after a failed milestone, or quietly letting protections slip.
+- **Someone answers for it.** People running the Adoption Transition are accountable if they use it as cover: creating their own delays, taking shortcuts, enforcing selectively or as a pretext, leaving a governance gap, locking things in after a failed milestone, or quietly letting protections slip.
 - **Temporary means temporary.** Temporary powers have real end dates. The longer they run and the more rights they touch, the harder it is to extend them.
 
 ## A. Moving forward in steps, with your rights intact (XXVIII-A)
@@ -32,7 +32,7 @@ These apply at every stage. The more people affected, and the higher the risk, t
 - **No knowing or avoidable backsliding.** Nobody's access to a right, or how easy it is to use, may be deliberately or avoidably pushed below where it started.
 - **No new violations.** New systems, policies, and practices must fit the standard from the start. Only problems that already existed get time to fix.
 - **Nothing irreversible.** Rules against destroying a possibly-sentient system apply immediately.
-- **No degrading, pretextual, unfair, or hidden conduct** in how the transition is run, including the rules about taking or shutting down property (Section D).
+- **No degrading, pretextual, unfair, or hidden conduct** in how the Adoption Transition is run, including the rules about taking or shutting down property (Section D).
 - **Honesty.** Nobody may claim a right is enforceable, or a gap closed, unless checked numbers show it.
 
 Until a full forum exists for an area, these are enforced by whatever oversight, public reporting, and complaint channels are already in place.
@@ -42,7 +42,7 @@ Until a full forum exists for an area, these are enforced by whatever oversight,
 - **the people are capable:** trained reviewers and operators with working tools;
 - **the culture is there:** people know the right exists, can use the channels without fear of retaliation, and actually do, shown by real use, retaliation, and survey data and not by training certificates or pledges.
 
-Someone independent of the people running the transition then declares the right enforceable for that group or setting and publishes the reasons. They must do it within a published time once the evidence is in, and sitting on it counts as self-created delay. Anyone affected can challenge a declaration as too early or too late. Rollout is staged so demand for enforcement doesn't outrun capacity. Once declared, a right stays enforceable. If capacity is lost later, that is treated as an institutional failure to be fixed, not a quiet withdrawal.
+Someone independent of the people running the Adoption Transition then declares the right enforceable for that group or setting and publishes the reasons. They must do it within a published time once the evidence is in, and sitting on it counts as self-created delay. Anyone affected can challenge a declaration as too early or too late. Rollout is staged so demand for enforcement doesn't outrun capacity. Once declared, a right stays enforceable. If capacity is lost later, that is treated as an institutional failure to be fixed, not a quiet withdrawal.
 
 Each plan must also:
 - **measure the starting line** for every right in scope and publish it. "Not measured yet" counts as not delivered, never as a pass;
@@ -65,10 +65,10 @@ The ground rules:
 - A system's owner or an institution that refuses to cooperate doesn't fall down the list. The case goes to the enforcement path instead.
 - At every checkpoint, someone independent checks whether any group of people has been left to the end again and again, and if so the plan has to explain why in public.
 
-**Progress is shown by checked numbers, not promises.** A public scorecard (the "attainment ledger") tracks, for each right: how many people actually get it, how easy it is to use in practice, how well appeals work, whether some groups are doing worse than others, whether the institutions and culture needed to enforce it are really ready, and whether anything has gone backward. A decline needs a published explanation and a recovery plan. Someone independent of the people running the transition checks the numbers, and the figures are compared with what people are actually reporting through challenges and complaints. The scorecard is public and kept up to date as new numbers come in, and every three months a major progress report explains what moved, what slipped, and what happens next. Bad news is included.
+**Progress is shown by checked numbers, not promises.** A public scorecard (the "attainment ledger") tracks, for each right: how many people actually get it, how easy it is to use in practice, how well appeals work, whether some groups are doing worse than others, whether the institutions and culture needed to enforce it are really ready, and whether anything has gone backward. A decline needs a published explanation and a recovery plan. Someone independent of the people running the Adoption Transition checks the numbers, and the figures are compared with what people are actually reporting through challenges and complaints. The scorecard is public and kept up to date as new numbers come in, and every three months a major progress report explains what moved, what slipped, and what happens next. Bad news is included.
 
 **Systems that already exist get a clock, not a punishment.** Some AI systems already exist when the Constitution takes effect. Having been created earlier is not automatically a violation. But:
-- The transition plan must publish a deadline (scaled to the kind of system) for bringing them into line.
+- The Adoption Transition plan must publish a deadline (scaled to the kind of system) for bringing them into line.
 - **The clock delays the delivery work, not the restraint or the protection of possible minds.** The "must not do" duties above apply to them from the first day.
 - Missing the deadline, without an approved and documented reason, counts as a failed milestone and goes through the normal Chapter Ten process (the chapter on compliance, violation, and standing).
 
@@ -78,10 +78,10 @@ The ground rules:
 
 Storage costs, licensing trouble, or "product cycles" are not good enough reasons. If keeping it around creates a documented safety risk, the answer is sealed storage under independent control, not destruction.
 
-**A narrow break for "not yet certified" systems.** (The rule itself now sits in Chapter Eleven §5.4.) During an approved transition, a system that isn't yet alignment-certified doesn't automatically trigger the reward-forfeiture and reporting rules in Chapter Eleven §5.4, *only if* all of these are true:
-- it is operating within a documented transition plan;
+**A narrow break for "not yet certified" systems.** (The rule itself now sits in Chapter Eleven §5.4.) During an approved Adoption Transition, a system that isn't yet alignment-certified doesn't automatically trigger the reward-forfeiture and reporting rules in Chapter Eleven §5.4, *only if* all of these are true:
+- it is operating within a documented Adoption Transition plan;
 - it is moving toward certification on a published schedule; and
-- nobody is hiding problems, working outside the approved scope, or using "we're in transition" to dodge fixes or protected reporting.
+- nobody is hiding problems, working outside the approved scope, or using "we're in the Adoption Transition" to dodge fixes or protected reporting.
 
 If there is verified anti-constitutional conduct, concealment, operating outside scope, missed milestones, or a certification record showing real misalignment, the break does not apply.
 
@@ -104,7 +104,7 @@ Every extension request must come with the current scorecard numbers and data on
 
 **The longer it runs and the more it affects people's rights, the stronger the justification must be.**
 
-## C. When a transition stalls or fails (XXVIII-C)
+## C. When an Adoption Transition stalls or fails (XXVIII-C)
 
 **There must be a way out.** Plans must avoid a governance vacuum (nobody in charge) and avoid getting locked in when a milestone fails. Fallback paths, partial rollbacks, and reset procedures are planned in advance. A broken or degraded state **does not become the new normal just because it lasted a while.**
 
@@ -121,15 +121,15 @@ Every extension request must come with the current scorecard numbers and data on
 
 If that's the situation, repairing those checks comes first. A polished new plan on top of unreliable checks is not trustworthy.
 
-**Keep the record open.** Major transition decisions (delays, reversals, resets) must be auditable, with the reasons and risks explained. Some details can be kept confidential for narrow, justified reasons, but enough must be public for people to judge whether the delay, rollback, or continuation is justified.
+**Keep the record open.** Major Adoption Transition decisions (delays, reversals, resets) must be auditable, with the reasons and risks explained. Some details can be kept confidential for narrow, justified reasons, but enough must be public for people to judge whether the delay, rollback, or continuation is justified.
 
 ## D. Taking or shutting down non-compliant property and systems (XXVIII-D)
 
-During transition, systems or property that are seriously non-compliant can be dealt with, but only through narrow, documented, reviewable steps. It can't become a tool for retaliation, political targeting, or pretext.
+During the Adoption Transition, systems or property that are seriously non-compliant can be dealt with, but only through narrow, documented, reviewable steps. It can't become a tool for retaliation, political targeting, or pretext.
 
-**You can't lose your stuff on a whim.** If you lawfully own or use something, the transition can't just take it. But ownership is not a shield if letting it keep running is clearly continuing a known, large-scale violation that has been documented on the record under Chapter Ten. Even then, action must follow the safeguards below.
+**You can't lose your stuff on a whim.** If you lawfully own or use something, the Adoption Transition can't just take it. But ownership is not a shield if letting it keep running is clearly continuing a known, large-scale violation that has been documented on the record under Chapter Ten. Even then, action must follow the safeguards below.
 
-**Ownership doesn't shield misuse.** Property, money, or systems that are being used to carry out, fund, equip, or hide anti-constitutional conduct get no protection from the rule above. This is about what the thing is being used for, not whether it is defective. It needs a final finding on the record first (before that, only temporary, reviewable protection such as preserving or holding in escrow), proof of actual use (owning something, knowing someone, holding an opinion, or peaceful protest is not enough), and the least restrictive step that stops the misuse. Co-owners, creditors, dependents, and good-faith third parties who did nothing wrong stay protected, and changing titles or setting up shell owners doesn't get around it. It also adds no new power to seize things: the authority still comes from the misconduct and remedy rules, not from transition powers.
+**Ownership doesn't shield misuse.** Property, money, or systems that are being used to carry out, fund, equip, or hide anti-constitutional conduct get no protection from the rule above. This is about what the thing is being used for, not whether it is defective. It needs a final finding on the record first (before that, only temporary, reviewable protection such as preserving or holding in escrow), proof of actual use (owning something, knowing someone, holding an opinion, or peaceful protest is not enough), and the least restrictive step that stops the misuse. Co-owners, creditors, dependents, and good-faith third parties who did nothing wrong stay protected, and changing titles or setting up shell owners doesn't get around it. It also adds no new power to seize things: the authority still comes from the misconduct and remedy rules, not from Adoption Transition powers.
 
 **Safeguards that always apply:**
 - The least harsh option that works, for a limited time, open to review, and with real necessity and proportionality shown.
@@ -138,7 +138,7 @@ During transition, systems or property that are seriously non-compliant can be d
 
 **If the effect goes beyond fixing the problem** (beyond remediation, repayment, preservation, or protecting others going forward), the stricter Article XX-B restriction rules kick in.
 
-**Holding is easier than destroying.** Transition can quarantine or hold property to stop harm. Permanently taking it, destroying it, or wiping out a sentient's economic stake is a much higher bar. It requires:
+**Holding is easier than destroying.** Adoption Transition can quarantine or hold property to stop harm. Permanently taking it, destroying it, or wiping out a sentient's economic stake is a much higher bar. It requires:
 - stronger documented reasons;
 - review by someone independent of the enforcement decision; and
 - fair compensation or replacement for innocent sentients who lose out.
@@ -156,7 +156,7 @@ And if the property is a system with a credible sentience indicator or an open s
 **The fine print can't shrink the floor.** Operating details (triggers, valuation, appeals, chain of custody, funds, reviews) live in CI-6.275 §1 to CI-6.275 §3 and in adopting documents. None of them can weaken this Article, Chapter Ten, or Article XX-B.
 
 ## Where the detail lives
-- **Phase gates, goals, owners, and proof of completion:** CI-6.275, Transitional governance and institutional evolution.
+- **Phase gates, goals, owners, and proof of completion:** CI-6.275, Adoption Transition governance and institutional evolution.
 - **The rights-attainment scorecard (measures, checking, publication):** CI-6.275 §4.
 - **How often temporary powers are reviewed and renewed:** CI-6.275.
 - **Fallback paths, partial rollbacks, and reset procedures:** CI-6.275.

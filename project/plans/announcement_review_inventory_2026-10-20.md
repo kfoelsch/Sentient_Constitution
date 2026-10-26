@@ -156,7 +156,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md](../../corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md) | Pending |
 | [corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md](../../corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md) | Pending |
 | [corpus_institutions/ci_11.210_institutional_failure_dissolution.md](../../corpus_institutions/ci_11.210_institutional_failure_dissolution.md) | Pending |
-| [corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) | Pending |
+| [corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md](../../corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md) | Pending |
 | [corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md](../../corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md) | Pending |
 | [corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md](../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) | Pending |
 | [corpus_institutions/ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md](../../corpus_institutions/ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md) | Pending |
@@ -207,7 +207,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md](../../corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md) | Pending |
 | [corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) | Pending |
 | [corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) | Pending full review; B03 corrects §17 gloss only |
-| [corpus_systems/cs_06.350_transition_constitution_migration_governance.md](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md) | Pending |
+| [corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md) | Pending |
 | [corpus_systems/cs_06.355_subversion_response_replacement_reconstitution.md](../../corpus_systems/cs_06.355_subversion_response_replacement_reconstitution.md) | Pending |
 | [corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md](../../corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md) | Pending |
 | [corpus_systems/cs_06.340_system_requirements.md](../../corpus_systems/cs_06.340_system_requirements.md) | Pending |

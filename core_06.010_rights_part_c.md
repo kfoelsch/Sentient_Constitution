@@ -47,7 +47,7 @@ flowchart TB
         end
         subgraph Crow3["Articles XVII–XVIII"]
             C5["**Article XVII** (*System Lifecycle, Environments, and Reversibility*) · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
-            C6["**Article XVIII** (*Innovation, Experimentation, and Creative Freedom*) · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Creative and expressive works<br/>• Inventions, processes, and functional systems"]
+            C6["**Article XVIII** (*Innovation, Experimentation, and Creative Freedom*) · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Step-up to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Creative and expressive works<br/>• Inventions, processes, and functional systems"]
         end
     end
     %% Invisible links force a two-wide grid: each link puts its target one level down.
@@ -418,7 +418,7 @@ This Article sets out the recovery baseline, from detection through root-cause c
 - **No covering up:** Automatic recovery must not hide, erase, or delay the evidence needed to work out why the failure happened under **Article XXIV** (*Root Cause Analysis and Adaptive Response*).
   - Every recovery action, every recovery attempt, and every recovery attempt that was held back or blocked must itself be recorded under **Article XVI-A** (*Auditability and Observable Evidence*), and each can be challenged (see [Contestability](core_05.035_band_accountability.md#contestability)).
 - **Rights stay protected in a reduced mode:** When a system is running in a reduced or backup mode, it must still protect the **Chapter Six** Rights Floor. If it cannot, it must escalate the problem openly rather than quietly cut back those protections.
-  - Quietly weakening Rights Floor protections in the name of "self-healing" is a violation of this Constitution. Such cases fall under **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) (prohibition of false trust) and **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) (transition governance).
+  - Quietly weakening Rights Floor protections in the name of "self-healing" is a violation of this Constitution. Such cases fall under **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) (prohibition of false trust) and **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) (Adoption Transition governance).
 - **Limits on systems that act on their own:** When a high-autonomy system repairs itself, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) applies.
   - The power to recover may never be used to get around anyone's right to challenge (see [Contestability](core_05.035_band_accountability.md#contestability)), challenges under **Article XIII-A** (*Reliability and Trustworthiness Baseline*), or independent checking under **Article XVI** (*Audit, Transparency, and Independent Verification*).
 - **A workaround is not a fix:** If automatic recovery gets the system running again but a known defect is still in place, the system's status is provisional, not final. It must carry:
@@ -592,7 +592,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline),
   - [§13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test),
   - [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
+- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
 - Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
 </details>
@@ -1407,7 +1407,7 @@ This Article sets out the consequences of misclassification and evasion:
   - [Article XVII](#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions;
   - [Article IX-D](core_06.005_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' rights that sit alongside the copyright-like rules in **Article XVIII-E** (*Creative and Expressive Works*);
   - [Article XXI-C](core_06.015_rights_part_d.md#article-xxi-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in;
-  - [Article XVI](#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment, transition, and reward claims.
+  - [Article XVI](#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment, step-up, and reward claims.
 
 </details>
 
@@ -1505,7 +1505,7 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 - **Opt-in and rollback:** Participation in elevated-risk or substrate-proximate experimentation must be genuinely opt-in where feasible.
   - Non-participating affected parties must not be involuntarily enrolled by design, default, or opaque dependency.
   - Stakeholders must retain practicable rollback or restoration pathways proportionate to risk.
-#### Article XVIII-C: Transition to Higher-Obligation Regimes
+#### Article XVIII-C: Step-Up to Higher-Obligation Regimes
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -1532,11 +1532,11 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 
 This Article sets out when a sandboxed system moves to higher obligations:
 
-- **Transition to higher obligations:** When impact, dependency, irreversibility, or integration with shared systems grows, systems must transition transparently and without opportunistic delay.
-  - The transition must move toward the full requirements of **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-6.345 §7** (*Non-experimental systems*).
-  - Interim safeguards proportionate to current risk apply during transition.
+- **Step-up to higher obligations:** When impact, dependency, irreversibility, or integration with shared systems grows, systems must step up transparently and without opportunistic delay.
+  - The step-up must move toward the full requirements of **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-6.345 §7** (*Non-experimental systems*).
+  - Interim safeguards proportionate to current risk apply during the step-up.
   - Sandbox treatment may not continue for functions whose real-world effects materially exceed sandbox conditions.
-  - The transition must be completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), taking the more critical of the class the system holds and any class a challenger or forum shows on a prima facie basis, or **14 days**, the Tier B outer bound, where the system holds no class, where its class is disputed, or where it has outgrown the class it holds ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
+  - The step-up must be completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), taking the more critical of the class the system holds and any class a challenger or forum shows on a prima facie basis, or **14 days**, the Tier B outer bound, where the system holds no class, where its class is disputed, or where it has outgrown the class it holds ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
 #### Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

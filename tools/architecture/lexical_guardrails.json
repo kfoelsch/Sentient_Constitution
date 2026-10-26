@@ -251,6 +251,26 @@
     {
       "avoid": "seriously",
       "prefer": "materially / material (the defined Materiality threshold); do not use an intensity adverb in place of the defined threshold"
+    },
+    {
+      "avoid": "transition (bare, in the named adoption phrases: transition window, period, plan, governance, authority, phase, milestone, target, exception, carve-out, scoped, rules, status; transitional governance or authority; lowercase 'adoption transition')",
+      "prefer": "Adoption Transition, the defined Chapter Five term for the period in which an adopter moves from legacy to constitutional operation, written with both words capitalized (Adoption Transition window, Adoption Transition plan, Adoption Transition authority); other senses of transition (class change, labor displacement, mode or state transitions, vendor or format migration, authority transfer) stay as ordinary words; enforced by avoid-bare-adoption-transition"
+    },
+    {
+      "avoid": "transition to higher / transition to full / transition toward / transition triggers / sandbox transition (a system moving to a higher-obligation track)",
+      "prefer": "step-up (Article XVIII-C Step-Up to Higher-Obligation Regimes, CS-6.345 §5 Step-up to higher-impact systems, step-up floors, step-up triggers, the sandbox step-up); enforced by avoid-transition-senses"
+    },
+    {
+      "avoid": "transitional recognition / transitional arrangements / transitional regimes (a stopgap recognizing arrangement for a sentient)",
+      "prefer": "interim recognition, interim recognition arrangements, interim recognition regimes (Article XXII-C Non-Statelessness); enforced by avoid-transition-senses"
+    },
+    {
+      "avoid": "transitional steps / transitional measures (a stopgap during amendment)",
+      "prefer": "interim steps, interim measures (Chapter Sixteen §2); enforced by avoid-transition-senses"
+    },
+    {
+      "avoid": "transition continuity / continuity-preserving transition / safe transition paths / transition lifecycle (control or operation passing to another party: exit, migration, consolidation, dissolution, authority transfer)",
+      "prefer": "handoff (CJS-5.130 §18 Handoff continuity and authority-transfer lifecycle integrity, continuity-preserving handoff safeguards, safe handoff paths); mode or state transitions stay; enforced by avoid-transition-senses"
     }
   ],
   "co_gloss_registry": [

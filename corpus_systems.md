@@ -7,7 +7,7 @@
 - How systems and data are typed and handled when they affect sentients, dependencies, or the info-sphere
 - How design, testing, deployment, and ongoing operation stay auditable, challengeable, and aligned with the Constitution
 - How complexity and funding are stewarded in ordinary operation without rewriting Rights Floors
-- How transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
+- How Adoption Transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
 - Named **CS-6.345** (*System lifecycle*)–**CS-6.340** (*System requirements*) families and **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data classifications*)–**CS-14.305** (*Critical system stewardship*) families carry the detail — expand **Systems index** below when you need a specific file
 
 **Does not:**
@@ -81,7 +81,7 @@
 | CS-6.320 — Justice safeguards, restitution, and rehabilitation | [cs_06.320_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md) |
 | CS-6.325 — Adaptive sustainability and ecosystem resilience | [cs_06.325_adaptive_sustainability_ecosystem_resilience.md](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) |
 | CS-6.335 — Resource allocation and funding stewardship | [cs_06.335_resource_allocation_funding_stewardship.md](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) |
-| CS-6.350 — Transition constitution and migration governance | [cs_06.350_transition_constitution_migration_governance.md](corpus_systems/cs_06.350_transition_constitution_migration_governance.md) |
+| CS-6.350 — Adoption Transition constitution and migration governance | [cs_06.350_adoption_transition_constitution_migration_governance.md](corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md) |
 | CS-6.355 — Subversion response, replacement, and reconstitution | [cs_06.355_subversion_response_replacement_reconstitution.md](corpus_systems/cs_06.355_subversion_response_replacement_reconstitution.md) |
 | CS-6.330 — Decentralized continuity and partition resilience | [cs_06.330_decentralized_continuity_partition_resilience.md](corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md) |
 <!-- END GENERATED FAMILY INDEX -->

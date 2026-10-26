@@ -606,7 +606,7 @@ This subsection does **not** add an additional designation criterion beyond the 
   - [System Capture](core_05.040_band_continuity.md#system-capture), and
   - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint);
   - [Chapter Eleven §5.4](core_11.000_standing_integration.md#54-special-violation-rules) (11.000 §5.4), subject to
-  - [Article XXVIII-A](core_06.020_rights_part_e.md#incentive-alignment-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment transition carve-out during constitutional transition.
+  - [Article XXVIII-A](core_06.020_rights_part_e.md#incentive-alignment-adoption-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment Adoption Transition carve-out during the Adoption Transition.
 
 </details>
 

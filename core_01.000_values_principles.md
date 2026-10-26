@@ -692,7 +692,7 @@ Where the prohibited character is suffering as an end in itself, or gratuitous o
 - governance and implementation decisions;
 - enforcement and standing assessment;
 - forum proceedings;
-- emergency measures and transition plans;
+- emergency measures and Adoption Transition plans;
 - amendment procedures; and
 - all administrative and operational activities under constitutional authority.
 

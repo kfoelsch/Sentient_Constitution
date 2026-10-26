@@ -156,7 +156,7 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 | Field | Pointer |
 |---|---|
 | **Owner text** | [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) |
-| **Next step** | Hold the system from going live until Chapter Nine certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXVIII-A transition window, before any aligned claim. |
+| **Next step** | Hold the system from going live until Chapter Nine certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXVIII-A Adoption Transition window, before any aligned claim. |
 | **Next-step class** | `require_systemic_evaluation_or_sac_path` |
 
 ---

@@ -513,6 +513,51 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: retired window names were not flagged, or a current name (tier window, response window, stage targets, certification interval) or a plain idiom was flagged wrongly.",
         )
+    adoption_transition_findings = scan_avoid_bare_adoption_transition(
+        "internal-regression.md",
+        "The transition window published for the system runs.\n"
+        "Transition plans must be phased.\n"
+        "A transitional authority may not become permanent.\n"
+        "The transition-scoped remediation requirements apply.\n"
+        "The transition period ends at the final date.\n"
+        "The adoption transition is phased.\n"
+        "The Adoption Transition window published for the system runs.\n"
+        "Adoption Transition plans must be phased.\n"
+        "A system moves through a class transition under Article XVIII-C.\n"
+        "Mode transitions must be trigger-defined.\n"
+        "Labor displacement needs transition support.\n"
+        "See [the window](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window).\n"
+        "`transition window` inside backticks is documentation only.\n",
+    )
+    if len(adoption_transition_findings) != 6:
+        raise RuntimeError(
+            "Internal regression failed: a bare adoption phrase (transition window, transition plan, transitional authority, transition-scoped, transition period) or a lowercase 'adoption transition' was not flagged, or the Adoption Transition term, another sense of transition, a link target, or backtick masking was flagged wrongly.",
+        )
+    transition_sense_findings = scan_avoid_transition_senses(
+        "internal-regression.md",
+        "Transition to higher obligations is required.\n"
+        "The transition triggers are owned by Article XVIII-C.\n"
+        "The sandbox transition runs inside the outer bound.\n"
+        "Transition toward full attribution is required.\n"
+        "Shared transitional recognition is the backup.\n"
+        "Transitional arrangements must give standing.\n"
+        "Handoff continuity is required for transition continuity.\n"
+        "Temporary transitional measures must be time-limited.\n"
+        "Evaluation must verify safe transition paths.\n"
+        "Step-up to higher obligations is required.\n"
+        "The step-up triggers are owned by Article XVIII-C.\n"
+        "Interim recognition is the backup.\n"
+        "Handoff continuity and safe handoff paths are required.\n"
+        "Temporary interim measures must be time-limited.\n"
+        "Mode transitions must be trigger-defined.\n"
+        "Labor displacement needs transition support.\n"
+        "See [the article](core_06.010_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes).\n"
+        "`transitional recognition` inside backticks is documentation only.\n",
+    )
+    if len(transition_sense_findings) != 9:
+        raise RuntimeError(
+            "Internal regression failed: a retired phrase (transition to higher or full, transition toward, transition triggers, sandbox transition, transitional recognition, arrangements, regimes, steps, or measures, transition continuity, safe transition paths) was not flagged, or step-up, interim recognition, handoff, another sense of transition, a link target, or backtick masking was flagged wrongly.",
+        )
     cure_findings = scan_avoid_cure_family(
         "internal-regression.md",
         "The Chartered Party has thirty days to cure the gap.\n"
@@ -1208,6 +1253,71 @@ def scan_avoid_window_clock_names(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+# Adoption Transition (Chapter Five, Continuity band): the period in which an adopter moves from legacy to constitutional operation is the defined term **Adoption Transition**, written with both words capitalized.
+# Only the named adoption phrases are matched. Other senses of "transition" stay as ordinary words (class change, labor displacement, mode or state transitions, vendor or format migration, authority transfer).
+_ADOPTION_TRANSITION_BARE = re.compile(
+    r"(?<!Adoption )\b[Tt]ransition(?:al)?(?:[ -])"
+    r"(?:windows?|periods?|plans?|planning|governance|authority|authorities|stewardship|phases?|milestones?|targets?"
+    r"|exceptions?|carve-outs?|rules|sequencing|status|scoped|scope|constitution)\b",
+)
+_ADOPTION_TRANSITION_LOWER = re.compile(r"\badoption transitions?\b")
+
+
+def scan_avoid_bare_adoption_transition(rel_path: str, text: str) -> list[Finding]:
+    """Reject the bare adoption phrases (transition window, transition plan, transitional authority, and the like); use the defined term **Adoption Transition**, capitalized."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        masked = re.sub(r"`[^`]*`", "", raw)
+        masked = re.sub(r"\]\([^)]*\)", "](X)", masked)
+        masked = re.sub(r'<a id="[^"]*">', "", masked)
+        if _ADOPTION_TRANSITION_BARE.search(masked) or _ADOPTION_TRANSITION_LOWER.search(masked):
+            findings.append(
+                Finding(file=rel_path, line=idx, rule="avoid-bare-adoption-transition", text=raw.strip()),
+            )
+
+    return findings
+
+
+# Other senses of "transition" that are named instead of left bare (move 150). A system's move to a higher-obligation track is a **step-up**, and a stopgap recognizing arrangement for a sentient is **interim recognition**.
+# Only the retired phrases are matched; mode or state transitions, labor transition support, and vendor or format migration stay ordinary words.
+_TRANSITION_SENSES_RETIRED = re.compile(
+    r"\btransition (?:to (?:higher|full)\b|toward\b|triggers?\b)"
+    r"|\bsandbox transitions?\b"
+    r"|\btransitional[- ](?:recognition|arrangements|regimes|steps|measures)\b"
+    r"|\btransition continuity\b|\bcontinuity-preserving transition\b|\bsafe transition paths?\b|\btransition lifecycle\b",
+    re.IGNORECASE,
+)
+
+
+def scan_avoid_transition_senses(rel_path: str, text: str) -> list[Finding]:
+    """Reject retired phrases for four senses of transition: use step-up (a system moving to a higher-obligation track), interim recognition (a stopgap recognizing arrangement), interim steps or measures (a stopgap during amendment), and handoff (control or operation passing to another party)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        masked = re.sub(r"`[^`]*`", "", raw)
+        masked = re.sub(r"\]\([^)]*\)", "](X)", masked)
+        masked = re.sub(r'<a id="[^"]*">', "", masked)
+        if _TRANSITION_SENSES_RETIRED.search(masked):
+            findings.append(
+                Finding(file=rel_path, line=idx, rule="avoid-transition-senses", text=raw.strip()),
+            )
+
+    return findings
+
+
 def scan_avoid_minima(rel_path: str, text: str) -> list[Finding]:
     """Reject **minima**; prefer **requirements**, **floors**, **conditions**, or a context-specific term."""
     findings: list[Finding] = []
@@ -1684,6 +1794,9 @@ def main() -> int:
             findings.extend(scan_review_in_tier_window(rel_path, text))
         if rel_path != "doc_architecture.md":  # its dated move log keeps the wording each move used
             findings.extend(scan_avoid_window_clock_names(rel_path, text))
+        if rel_path != "doc_architecture.md":  # its dated move log keeps the wording each move used
+            findings.extend(scan_avoid_bare_adoption_transition(rel_path, text))
+            findings.extend(scan_avoid_transition_senses(rel_path, text))
         if rel_path in _BREACH_FAMILY_SCOPE:
             findings.extend(scan_avoid_breach_family(rel_path, text))
         if _in_instrument_scope(rel_path):

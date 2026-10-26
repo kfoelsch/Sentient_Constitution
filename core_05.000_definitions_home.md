@@ -108,6 +108,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Accessibility](core_05.055_band_participation.md#accessibility)
 - [Accountability](core_05.005_apex_accountability_leg.md#accountability)
 - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution)
+- [Adoption Transition](core_05.040_band_continuity.md#adoption-transition)
 - [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions)
 - [Animal Cruelty](core_05.035_band_accountability.md#animal-cruelty)
 - [Animal Life](core_05.055_band_participation.md#animal-life)

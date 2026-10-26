@@ -396,7 +396,7 @@ Participation and proportionality requirements scale the same way:
 
 #### 2.3 Pilot certification
 
-A **[pilot](core_05.040_band_continuity.md#pilot)** is a [go-live](core_05.040_band_continuity.md#go-live), so it needs its own certification before it starts, under the go-live rule in [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
+A **[pilot](core_05.040_band_continuity.md#pilot)** is a [go-live](core_05.040_band_continuity.md#go-live), so it needs its own certification before it starts, under the go-live rule in [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate).
 
 - A system at any system class is expected to run a pilot before full deployment; one that does not records why.
 - A pilot still needs an honest classification and every evaluation whose trigger applies, and its scope, population, and duration are stated on its record.

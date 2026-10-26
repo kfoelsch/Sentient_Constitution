@@ -347,7 +347,7 @@ The **supervisory sequence** is the step-by-step order in which forums supervise
    - the answer to any question sent to another forum (a certified question), if the authorization depends on that answer.
 
    Two rules keep this from being bypassed or from stalling the process:
-   - **Limited operation needs a completed finding:** A component authority may issue a completed finding that supports operation within set limits, under stated continuing conditions or corrective work (see [§7 Certification Outcomes](#7-certification-outcomes)). The finding must say why the permitted scope still protects the applicable Rights Floors, and what remains to be verified.
+   - **Limited operation needs a completed finding:** A component authority may issue a completed finding that supports operation within set limits, under stated continuing conditions or corrective work (see [§7.1 Go-Live Gate](#71-go-live-gate)). The finding must say why the permitted scope still protects the applicable Rights Floors, and what remains to be verified.
    - **Silence is not approval:** An unanswered objection, a missing finding, or a component's silence never counts as authorization.
 4. **Integration for decision:** The lead forum integrates the component findings for decision. The record seat holder enters them in the one certification record opened at step 1. The record then states, as things stand when the decision is made: which forum or authority gave each component finding, what each finding says, every unresolved item, every condition, and every limit on reliance.
 5. **Constitutional disposition:** If constitutional meaning, validity, or class-wide structural remedy is materially at issue, the lead forum must certify or escalate under Chapter Thirteen before treating the matter as finally resolved on that point.
@@ -463,7 +463,13 @@ When a forum-supervised challenge is required, internal operator review, vendor 
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) (*forum supervision*);
   - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
 - Read with: **[CS-6.305 §5](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[CS-9.305 §3](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
-- Subsections: [§7.1](#71-remediation-readiness-willingness-and-capacity-to-correct) (*remediation readiness: willingness and capacity to correct*); [§7.2](#72-denial-and-revocation) (*denial and revocation*).
+- Subsections:
+  - [§7.1](#71-go-live-gate) (*go-live gate*, with
+  - [§7.1.1 Systems already operating](#711-systems-already-operating) and
+  - [§7.1.2 Pilots](#712-pilots));
+  - [§7.2](#72-certification-defects-and-correction) (*certification defects and correction*);
+  - [§7.3](#73-remediation-readiness-willingness-and-capacity-to-correct) (*remediation readiness: willingness and capacity to correct*);
+  - [§7.4](#74-denial-and-revocation) (*denial and revocation*).
 
 </details>
 
@@ -471,11 +477,7 @@ When a forum-supervised challenge is required, internal operator review, vendor 
 
 *In plain terms: every certification review ends in a stated outcome, backed by evidence and by the concerns raised along the way. Nothing goes live until it is certified, the published outcome has given affected sentients a practicable chance to challenge it, and the protections required before go-live have been checked.*
 
-*Going live is a permission, not a separate stage of work. It is granted when the system is certified, the notice interval has run, and the conditions required before go-live have been independently verified. Conditions say what must be done before operation, what must hold during operation, and what corrective work may follow within a bounded scope.*
-
-*Defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or release from conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct), [§7.2 Denial and Revocation](#72-denial-and-revocation)).*
-
-This section is **Phase IV, Decide**, after [§6 Forum Process](#6-forum-process) (**Phase III, Review**). It covers the outcome the forums reach and the go-live gate.
+This section is **Phase IV, Decide**, after [§6 Forum Process](#6-forum-process) (**Phase III, Review**). It covers the outcome the forums reach. [§7.1 Go-Live Gate](#71-go-live-gate) states the go-live gate, and [§7.2 Certification Defects and Correction](#72-certification-defects-and-correction) states what follows when a defect is found.
 
 A certification decision must state its outcome on the record under [§8.1 Minimum record contents](#81-minimum-record-contents), together with the concerns raised in reaching it. The outcome is one of:
 
@@ -488,7 +490,20 @@ A certification decision must state its outcome on the record under [§8.1 Minim
 - expiration; or
 - release from conditions.
 
-Provisional certification and full certification are the two **statuses** of certification. [§9.2 Provisional and full certification](#92-provisional-and-full-certification) explains how a system earns, keeps, and loses each. Conditions under conditional certification may attach to either status. A system that holds neither status is **Not Certified**. That is the case when certification is deferred or refused, or has been withdrawn or has expired.
+A system that holds neither provisional nor full certification is **Not Certified**. That is the case when certification is:
+
+- deferred;
+- refused;
+- withdrawn; or
+- expired.
+
+Provisional certification and full certification are the two **statuses** of certification. [§9.2 Provisional and full certification](#92-provisional-and-full-certification) explains how a system earns, keeps, and loses each. Conditions under conditional certification may attach to either status.
+
+<a id="71-go-live-gate"></a>
+
+#### 7.1 Go-Live Gate
+
+*In plain terms: going live is a permission, not a separate stage of work. It is granted when the system is certified, the notice interval has run, and the conditions required before go-live have been independently verified. Conditions say what must be done before operation, what must hold during operation, and what corrective work may follow within a bounded scope.*
 
 **No [go-live](core_05.040_band_continuity.md#go-live) before certification.** A system that would materially affect sentients, or that sentients would materially rely on, does not go live until all of these are true:
 
@@ -499,8 +514,6 @@ Provisional certification and full certification are the two **statuses** of cer
 - **No bar from a stay or limit:** any applicable stay or reliance limit is satisfied.
 
 A system that is Not Certified, including one whose certification is deferred or refused, may not go live.
-
-The rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own record, scaled under [Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification). Its certification covers only the scope, population, and duration stated on that record. Full deployment needs its own certification, which may draw on the pilot's record.
 
 **Publication and opportunity for challenge.** Before a first go-live or a material expansion, the deciding forum must set two things on the record:
 
@@ -530,13 +543,29 @@ For every condition or corrective task, the record must name:
 
 A condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Releasing a condition requires independent verification of the evidence supporting release, under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and [§6.2 Supervisory sequence](#62-supervisory-sequence).
 
-**Systems already operating.** A system that is already operating when an adopter's adopting document takes effect is not barred by this rule while the transition window published for it runs.
+<a id="711-systems-already-operating"></a>
 
-- [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-transition-window) (*Phased Adoption and Rights-Floor Continuity*) sets that transition window, scaled to the system's class, to bring the system within this chapter.
-- The restraint duties in that Article apply from the effective date. The transition window defers delivery work, not restraint or preservation.
-- The exception covers the transition period only.
+##### 7.1.1 Systems already operating
+
+A system that is already operating when an adopter's adopting document takes effect is not barred by this rule while the Adoption Transition window published for it runs.
+
+- [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) sets that Adoption Transition window, scaled to the system's class, to bring the system within this chapter.
+- The restraint duties in that Article apply from the effective date. The Adoption Transition window defers delivery work, not restraint or preservation.
+- The exception covers the Adoption Transition period only.
 - A new system, or a material expansion of an operating one, is new conduct and must meet the rule above.
-- A system that reaches the end of its transition window without provisional or full certification is handled as that Article states.
+- A system that reaches the end of its Adoption Transition window without provisional or full certification is handled as that Article states.
+
+<a id="712-pilots"></a>
+
+##### 7.1.2 Pilots
+
+The go-live rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own record, scaled under [Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification). Its certification covers only the scope, population, and duration stated on that record. Full deployment needs its own certification, which may draw on the pilot's record.
+
+<a id="72-certification-defects-and-correction"></a>
+
+#### 7.2 Certification Defects and Correction
+
+*In plain terms: defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or release from conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct), [§7.4 Denial and Revocation](#74-denial-and-revocation)).*
 
 Certification defects found under any Part A evaluation are not minor paperwork mistakes. They include:
 
@@ -554,7 +583,7 @@ Where such a defect is found, forums may:
 - change the certification interval; or
 - reopen review under [§9 Recertification and Reopening](#9-recertification-and-reopening) or order a fresh review.
 
-Which of these the forum chooses turns on whether the operator or steward is willing and able to correct the defect. [§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct) states that check, and [§7.2 Denial and Revocation](#72-denial-and-revocation) states when refusal or withdrawal is required.
+Which of these the forum chooses turns on whether the operator or steward is willing and able to correct the defect. [§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct) states that check, and [§7.4 Denial and Revocation](#74-denial-and-revocation) states when refusal or withdrawal is required.
 
 **Protection, correction, and verification.** Where a defect is found, the forum must state:
 
@@ -573,9 +602,9 @@ A promise of correction, or an operator's declaration that the work is complete,
 
 A system that is Not Certified cannot begin new operation. If an operating system keeps being relied on in the meantime, that is decided separately under the applicable forum process and the survival-essential protection in [§9.2 Provisional and full certification](#92-provisional-and-full-certification).
 
-<a id="71-remediation-readiness-willingness-and-capacity-to-correct"></a>
+<a id="73-remediation-readiness-willingness-and-capacity-to-correct"></a>
 
-#### 7.1 Remediation Readiness: Willingness and Capacity to Correct
+#### 7.3 Remediation Readiness: Willingness and Capacity to Correct
 
 *In plain terms: when a review finds that something is misaligned, the next question is whether the operator will and can put it right. A promise is not an answer. The forums look at what the operator has actually done since it was told, whether it is changing what caused the problem, and whether it has the authority, skill, money, and time to do the work. If the honest answer is no, the outcome is denial or revocation. It is not a longer list of conditions.*
 
@@ -606,18 +635,18 @@ A good-faith dispute is not unwillingness. An operator that contests a finding t
 
 **Findings.** The forum states one of:
 
-- **Ready:** willing and able. Conditions and bounded authorization proceed as [§7 Certification Outcomes](#7-certification-outcomes) states.
+- **Ready:** willing and able. Conditions and bounded authorization proceed as [§7.1 Go-Live Gate](#71-go-live-gate) states.
 - **Ready with support:** willing, but short in one capacity that outside support can close. The conditions name the support, who gives it, and by when.
-- **Willing, not able:** willing, but the correction cannot be done inside the clock or at all, because the cause is outside the operator's control or the means are not there. This is not misconduct and supplies no violation input. The forum considers scope contraction, handover to a capable steward, or step-down before it reaches [§7.2 Denial and Revocation](#72-denial-and-revocation).
+- **Willing, not able:** willing, but the correction cannot be done inside the clock or at all, because the cause is outside the operator's control or the means are not there. This is not misconduct and supplies no violation input. The forum considers scope contraction, handover to a capable steward, or step-down before it reaches [§7.4 Denial and Revocation](#74-denial-and-revocation).
 - **Able, not willing:** capable, but declines, delays, or works against the correction.
 - **Neither willing nor able:** the operator will not and cannot.
-- **Not yet shown:** the evidence does not yet decide it. The forum may defer once, for a bounded period set by class, with interim protection in force. The matter then returns to [§7.2 Denial and Revocation](#72-denial-and-revocation).
+- **Not yet shown:** the evidence does not yet decide it. The forum may defer once, for a bounded period set by class, with interim protection in force. The matter then returns to [§7.4 Denial and Revocation](#74-denial-and-revocation).
 
 A conditional certification may not rest on a plan that the check did not find ready or ready with support.
 
-<a id="72-denial-and-revocation"></a>
+<a id="74-denial-and-revocation"></a>
 
-#### 7.2 Denial and Revocation
+#### 7.4 Denial and Revocation
 
 *In plain terms: denial and revocation are real outcomes and not threats. If a system is not yet certified and its operator will not or cannot put the problem right, certification is refused. If a system holds certification and its operator will not or cannot put the problem right, certification is taken back. In both cases affected sentients are told, reliance is limited, and no one is cut off from survival essentials before there is a substitute.*
 
@@ -627,7 +656,7 @@ A conditional certification may not rest on a plan that the check did not find r
 
 1. the check finds the operator able and not willing, or neither willing nor able;
 2. the check finds it willing and not able, and no scope contraction, support, or handover closes the gap inside the longest window the class allows; or
-3. the one deferral under [§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct) has run and the finding is still not yet shown.
+3. the one deferral under [§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct) has run and the finding is still not yet shown.
 
 **Revocation is required** for a system that holds certification, at a recertification or a reopened review, when:
 
@@ -639,7 +668,7 @@ A conditional certification may not rest on a plan that the check did not find r
 
 The forum may not meet any of these by certifying, or by continuing certification, subject to conditions.
 
-**Protection first.** Denial and revocation act on the certification status. They do not by themselves shut a system down. Before either takes effect the forum states the interim protection and the reliance limits ([§7 Certification Outcomes](#7-certification-outcomes), *Protection, correction, and verification*). For a Class A system whose interruption would cut off survival essentials before substitutes exist, the status changes at once, and operation continues only as separately authorized interim reliance under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) (*Class A reliance*), with a dated plan for substitutes or a capable steward.
+**Protection first.** Denial and revocation act on the certification status. They do not by themselves shut a system down. Before either takes effect the forum states the interim protection and the reliance limits ([§7.2 Certification Defects and Correction](#72-certification-defects-and-correction), *Protection, correction, and verification*). For a Class A system whose interruption would cut off survival essentials before substitutes exist, the status changes at once, and operation continues only as separately authorized interim reliance under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) (*Class A reliance*), with a dated plan for substitutes or a capable steward.
 
 **Process.** Before a denial or revocation the operator is given notice of the finding and the evidence, a stated short window to answer or to show the proof step (set from the tier in [§9.2 Provisional and full certification](#92-provisional-and-full-certification)), and the contestability chain in [§6.3 Contestability chain](#63-contestability-chain). The decision states its reasons on the record, including the willingness and capacity findings ([§8.1 Minimum record contents](#81-minimum-record-contents)). Urgent protection does not wait for any of this ([§6.2 Supervisory sequence](#62-supervisory-sequence)).
 
@@ -783,11 +812,11 @@ The record must identify, at minimum:
 - **Cause finding:** where the review, a recertification, or a reopened review found misalignment or a defect (see [§9.2 Provisional and full certification](#92-provisional-and-full-certification)):
   - whether its cause is design, operation, or not yet determined; and
   - the evidence relied on;
-- **Remediation readiness:** where misalignment or a defect was found ([§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct)):
+- **Remediation readiness:** where misalignment or a defect was found ([§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct)):
   - the willingness and capacity findings and the evidence for each;
   - the proof step required, its window, and its independent verification;
   - the finding stated under that subsection; and
-  - where the outcome is denial or revocation, the reasons, the interim protection, and the reliance limits under [§7.2 Denial and Revocation](#72-denial-and-revocation);
+  - where the outcome is denial or revocation, the reasons, the interim protection, and the reliance limits under [§7.4 Denial and Revocation](#74-denial-and-revocation);
 - **Outcome and reliance limits:**
   - the certification outcome under [§7 Certification Outcomes](#7-certification-outcomes);
   - whether the system holds provisional or full certification under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) or is Not Certified;
@@ -799,8 +828,8 @@ The record must also contain a concise **operating plan**, scaled to system clas
 
 - the scope, population, and duration of any authorized operation;
 - where the system is certified, the certification expiry and the next recertification due date;
-- for a first go-live or material expansion, the earliest permitted go-live, the notice interval, and its justification under [§7 Certification Outcomes](#7-certification-outcomes);
-- each condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of breach under [§7 Certification Outcomes](#7-certification-outcomes);
+- for a first go-live or material expansion, the earliest permitted go-live, the notice interval, and its justification under [§7.1 Go-Live Gate](#71-go-live-gate);
+- each condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of breach under [§7.1 Go-Live Gate](#71-go-live-gate);
 - who monitors actual outcomes and safeguards, what evidence and indicators they use, how often they check, and which material findings or thresholds require action or reopened review;
 - who responds to incidents, challenges, and unmet conditions, the applicable tier windows, and the authority for interim protection, containment, rollback, or limits on reliance where required; and
 - for defects found, the corrective work, the verification criteria and findings, any remaining uncertainty, and any permitted interim reliance.
@@ -908,7 +937,7 @@ This section is sub-phase **VIa** of Phase VI (Operate), operate and recertify. 
 - route challenges to the assigned authority; and
 - carry out required interim protection and corrective work.
 
-An incident, unmet condition, missed proof step under [§7.1 Remediation Readiness: Willingness and Capacity to Correct](#71-remediation-readiness-willingness-and-capacity-to-correct), false readiness evidence, or credible challenge that materially calls alignment into question requires timely forum review under this section and must not wait for the next scheduled recertification. Correction and release of conditions follow the independent-verification requirements in [§7 Certification Outcomes](#7-certification-outcomes).
+An incident, unmet condition, missed proof step under [§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct), false readiness evidence, or credible challenge that materially calls alignment into question requires timely forum review under this section and must not wait for the next scheduled recertification. Correction and release of conditions follow the independent-verification requirements in [§7 Certification Outcomes](#7-certification-outcomes).
 
 A **System Certification Record** is **scope-bound** and **time-bound**. It must be recertified on the cadence set for its system class in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#review-cadence) (*Review cadence*), and audited at the midpoint of that cadence. Review also reopens under Chapter Thirteen and incorporated system implementation duties when any of the following is material:
 
@@ -980,8 +1009,8 @@ Affected parties must have real ways to challenge the record:
 
 **When the path opens:**
 
-- For a system that is not yet operating, the published record challenge path opens when the system's first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, before the system goes live under [§7 Certification Outcomes](#7-certification-outcomes).
-- A system that is already operating already has stakeholders. So its path is already open, or it opens when the system's record opens. That covers a system under an [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-transition-window) (*Phased Adoption and Rights-Floor Continuity*) transition window, a recertification, and a reopened or fresh review.
+- For a system that is not yet operating, the published record challenge path opens when the system's first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, before the system goes live under [§7.1 Go-Live Gate](#71-go-live-gate).
+- A system that is already operating already has stakeholders. So its path is already open, or it opens when the system's record opens. That covers a system under an [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) Adoption Transition window, a recertification, and a reopened or fresh review.
 - **Stakeholders** are sentients the system materially affects or who materially rely on it, as found in evaluation and not as identified by the operator.
 - Until the path opens for a system not yet operating, the record still names it ([§6.2 Supervisory sequence](#62-supervisory-sequence)). The component, lead-integrity, and escalation paths below are available throughout review.
 - The path stays open while the system has stakeholders. A system that gains stakeholders after certification reopens review under [§9 Recertification and Reopening](#9-recertification-and-reopening).

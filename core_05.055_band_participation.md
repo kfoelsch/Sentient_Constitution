@@ -2109,7 +2109,7 @@ Constitutional communities may exclude or condition entry for such sentients whe
 
 Exclusion from a particular adopter's admission or hosting does **not** violate [Non-Statelessness](core_05.055_band_participation.md#non-statelessness) when real recognition remains available through:
 - origin-primary recognition duty; or
-- shared / federation transitional recognition backup.
+- shared / federation interim recognition backup.
 
 Anti-constitutional conduct, constitutional hostility, and contempt or repudiation may bar or condition **entry**. They do not by themselves erase baseline recognition elsewhere in the system.
 
@@ -2300,7 +2300,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XXII-C](core_06.015_rights_part_d.md#article-xxii-c-non-statelessness) (*Non-Statelessness*); transitional-recognition mechanics route to **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
+- Owner floor: [Article XXII-C](core_06.015_rights_part_d.md#article-xxii-c-non-statelessness) (*Non-Statelessness*); interim recognition is arranged consistent with **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*), with the roles named under [**CI-6.275 §6**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with:
   - [Movement and Relocation](core_05.055_band_participation.md#movement-and-relocation),
@@ -2311,7 +2311,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <br>
 
-*In plain terms: no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup.*
+*In plain terms: no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared interim recognition as backup.*
 
 - **What it is**
   - **In scope — guarantee:** No sentient may be left without a regime that will:
@@ -2325,7 +2325,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - comparable structural discontinuity.
   - **Boundary — recognition duty ladder:**
     - **First in line:** The regime that originated, expelled, collapsed, withdrew, or exited keeps primary recognition duty if it still exists and can still recognize the sentient.
-    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation transitional recognition must fill it — under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) — so the sentient never hits zero recognition.
+    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation interim recognition must fill it — under **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) — so the sentient never hits zero recognition.
     - **Not a hosting mandate:** Recognition is not the same as a right to be hosted by a particular adopter. Weaponized outflow and particular-adopter refusal rules live at cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - **Non-exclusion:** Applies under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
   - **Boundary — restricted-status recognition:** Where documented:
@@ -2350,7 +2350,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
     **Primary assessment:** Test whether a sentient facing structural discontinuity has real, not merely formal, recognition and standing-adjudication access through origin-primary duty or shared / federation backup.
     - Detect arrangements under which no regime claims recognition responsibility.
-    - Apply [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) and [Reversibility](core_05.040_band_continuity.md#reversibility) to transitional arrangements.
+    - Apply [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) and [Reversibility](core_05.040_band_continuity.md#reversibility) to interim recognition arrangements.
     - Where the sentient carries documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community, evaluate whether restricted-status recognition — including:
       - conditions;
       - monitoring; or
@@ -2362,7 +2362,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - **Primary failure:** arrangements leaving a sentient without any recognizing regime.
   - **Secondary failure:** denial of recognition or standing-adjudication access contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
   - **Tertiary failure:**
-    - transitional regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
+    - interim recognition regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
     - using anti-constitutional conduct, constitutional hostility, or contempt-or-repudiation claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), or [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness); or
     - fabricating or mislabeling restricted status as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present.
 

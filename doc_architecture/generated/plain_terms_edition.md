@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **721** of **1114** headings carry a gloss (65%).
+Coverage: **724** of **1119** headings carry a gloss (65%).
 
 ## Contents
 
@@ -25,7 +25,7 @@ Coverage: **721** of **1114** headings carry a gloss (65%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (85/97 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (39/100 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (40/101 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (54/69 glossed)
@@ -33,7 +33,7 @@ Coverage: **721** of **1114** headings carry a gloss (65%).
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
-- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (13/29 glossed)
+- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (15/33 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09.010_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/23 glossed)
 - [CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-ten-contribution-violation-and-standing-model--measurement) — `core_10.000_standing_assessment.md` (13/33 glossed)
@@ -1819,13 +1819,19 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 39/100 headings glossed
+Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 40/101 headings glossed
 
 #### Continuity: Independent terms
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_05.040_band_continuity.md#continuity-independent-terms)
+
+##### Adoption Transition
+
+the **Adoption Transition** is the stretch of time after a community adopts this Constitution, while its legacy systems and institutions are still being brought into constitutional operation. It is phased, time-bounded, and open to review. What the adopter must not do binds from the first day. What it must deliver becomes enforceable step by step, as the means to enforce it are built.
+
+[Source](../../core_05.040_band_continuity.md#adoption-transition)
 
 ##### Essential-Environment Non-Commodification
 
@@ -2605,13 +2611,13 @@ bigger stake means harder oversight — how closely a system is watched and chec
 
 ##### Gate
 
-a gate is a checkpoint in a transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.
+a gate is a checkpoint in an Adoption Transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.
 
 [Source](../../core_05.050_band_oversight.md#gate)
 
 ##### Gate Criteria
 
-gate criteria are the specific tests a transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.
+gate criteria are the specific tests an Adoption Transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.
 
 [Source](../../core_05.050_band_oversight.md#gate-criteria)
 
@@ -3077,7 +3083,7 @@ if the regime you are in is materially non-compliant with this Constitution, you
 
 ##### Non-Statelessness
 
-no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup.
+no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared interim recognition as backup.
 
 [Source](../../core_05.055_band_participation.md#non-statelessness)
 
@@ -4077,7 +4083,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 
-Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 13/29 headings glossed
+Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 15/33 headings glossed
 
 #### 6. Forum Process
 
@@ -4181,17 +4187,41 @@ every certification review ends in a stated outcome, backed by evidence and by t
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)
 
-##### 7.1 Remediation Readiness: Willingness and Capacity to Correct
+##### 7.1 Go-Live Gate
+
+going live is a permission, not a separate stage of work. It is granted when the system is certified, the notice interval has run, and the conditions required before go-live have been independently verified. Conditions say what must be done before operation, what must hold during operation, and what corrective work may follow within a bounded scope.
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#71-go-live-gate)
+
+###### 7.1.1 Systems already operating
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#711-systems-already-operating)
+
+###### 7.1.2 Pilots
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#712-pilots)
+
+##### 7.2 Certification Defects and Correction
+
+defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or release from conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.3 Remediation Readiness: Willingness and Capacity to Correct](../../core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct), [§7.4 Denial and Revocation](../../core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation)).
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction)
+
+##### 7.3 Remediation Readiness: Willingness and Capacity to Correct
 
 when a review finds that something is misaligned, the next question is whether the operator will and can put it right. A promise is not an answer. The forums look at what the operator has actually done since it was told, whether it is changing what caused the problem, and whether it has the authority, skill, money, and time to do the work. If the honest answer is no, the outcome is denial or revocation. It is not a longer list of conditions.
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#71-remediation-readiness-willingness-and-capacity-to-correct)
+[Source](../../core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct)
 
-##### 7.2 Denial and Revocation
+##### 7.4 Denial and Revocation
 
 denial and revocation are real outcomes and not threats. If a system is not yet certified and its operator will not or cannot put the problem right, certification is refused. If a system holds certification and its operator will not or cannot put the problem right, certification is taken back. In both cases affected sentients are told, reliance is limited, and no one is cut off from survival essentials before there is a substitute.
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#72-denial-and-revocation)
+[Source](../../core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation)
 
 #### 8. System Certification Record
 
@@ -6031,11 +6061,11 @@ experimental systems must be honest about being experimental, must not dump risk
 
 [Source](../../core_06.010_rights_part_c.md#article-xviii-b-containment-disclosure-and-opt-in)
 
-##### Article XVIII-C: Transition to Higher-Obligation Regimes
+##### Article XVIII-C: Step-Up to Higher-Obligation Regimes
 
 once a sandbox system starts mattering in the real world, it must graduate to real-world obligations within the outer bound of the tier that matches the system's class, from 7 days to 90, not at the operator's convenience.
 
-[Source](../../core_06.010_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes)
+[Source](../../core_06.010_rights_part_c.md#article-xviii-c-step-up-to-higher-obligation-regimes)
 
 ##### Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure
 
@@ -6249,11 +6279,11 @@ the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards
 
 Source file: [`core_06.020_rights_part_e.md`](../../core_06.020_rights_part_e.md) · 13/14 headings glossed
 
-#### Part E: Conflict resolution, review, constitutional evolution, and transition
+#### Part E: Conflict resolution, review, constitutional evolution, and Adoption Transition
 
-Part E covers conflict resolution, review-and-resolution discipline, constitutional evolution, and transition — Articles XXVI through XXVIII, including re-baselining under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*).
+Part E covers conflict resolution, review-and-resolution discipline, constitutional evolution, and Adoption Transition — Articles XXVI through XXVIII, including re-baselining under **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*).
 
-[Source](../../core_06.020_rights_part_e.md#part-e-conflict-resolution-review-constitutional-evolution-and-transition)
+[Source](../../core_06.020_rights_part_e.md#part-e-conflict-resolution-review-constitutional-evolution-and-adoption-transition)
 
 #### Article XXVI: Timely Retrospective Review and Restorative Alignment
 
@@ -6297,33 +6327,33 @@ constitutional change must happen in the open, with stated reasons — not throu
 
 [Source](../../core_06.020_rights_part_e.md#article-xxvii-b-periodic-revalidation-and-transparent-change)
 
-#### Article XXVIII: Transition Governance, Continuity, and Re-Baselining
+#### Article XXVIII: Adoption Transition Governance, Continuity, and Re-Baselining
 
-**Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. Nobody can run a full set of Rights Floors on day one, because a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those have to be built. So when a community shifts from legacy systems to constitutional operation, this Article asks for two different things. What the adopter must **not do** — make things worse, start new violations, destroy possible minds, hide the gap — binds from the start. What it must **deliver** — access, review, remedy — becomes enforceable step by step, scope by scope, as the institutions and culture that enforce it are verified ready. The Rights Floors are the fixed target the whole way, and the gap to them is measured, published, and shrinking on a dated path. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.
+**Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. Nobody can run a full set of Rights Floors on day one, because a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those have to be built. So when a community shifts from legacy systems to constitutional operation, this Article asks for two different things. What the adopter must **not do** — make things worse, start new violations, destroy possible minds, hide the gap — binds from the start. What it must **deliver** — access, review, remedy — becomes enforceable step by step, scope by scope, as the institutions and culture that enforce it are verified ready. The Rights Floors are the fixed target the whole way, and the gap to them is measured, published, and shrinking on a dated path. Temporary Adoption Transition powers are allowed when truly needed, but they must stay temporary. A Adoption Transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed Adoption Transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.
 
-[Source](../../core_06.020_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining)
+[Source](../../core_06.020_rights_part_e.md#article-xxviii-adoption-transition-governance-continuity-and-re-baselining)
 
 ##### Article XXVIII-A: Phased Adoption and Rights-Floor Continuity
 
-transitions move forward by meeting real gates, not by clocks or pressure. What the adopter must not do binds from day one. What it must deliver becomes enforceable as the forums, oversight, capability, and culture to enforce it are verified ready — scope by scope, on a dated path. The gap, and the data showing it closing, are public.
+Adoption Transitions move forward by meeting real gates, not by clocks or pressure. What the adopter must not do binds from day one. What it must deliver becomes enforceable as the forums, oversight, capability, and culture to enforce it are verified ready — scope by scope, on a dated path. The gap, and the data showing it closing, are public.
 
 [Source](../../core_06.020_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity)
 
-##### Article XXVIII-B: Transitional Authority Limits and Reauthorization
+##### Article XXVIII-B: Adoption Transition Authority Limits and Reauthorization
 
-temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load, and the measured gap to the full Rights Floors getting smaller on schedule. Extending temporary authority requires real reasons and real data — and the longer it runs, the higher the bar.
+temporary authority really is temporary — and an Adoption Transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load, and the measured gap to the full Rights Floors getting smaller on schedule. Extending temporary authority requires real reasons and real data — and the longer it runs, the higher the bar.
 
-[Source](../../core_06.020_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization)
+[Source](../../core_06.020_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization)
 
 ##### Article XXVIII-C: Failure Off-Ramps, Re-Baselining, and Traceability
 
-when a transition stalls or fails, there must be a real off-ramp — and a stalled state cannot quietly become the new normal. Resetting the plan is allowed, but only through lawful process, with reasons anyone can check — and never by lowering basic Rights Floors. A reset is not trustworthy if alignment certification keeps blessing misaligned systems or standing review keeps misreading real harm; fix that truth-telling machinery first, or governance is structurally unreliable no matter how polished the new plan looks.
+when an Adoption Transition stalls or fails, there must be a real off-ramp — and a stalled state cannot quietly become the new normal. Resetting the plan is allowed, but only through lawful process, with reasons anyone can check — and never by lowering basic Rights Floors. A reset is not trustworthy if alignment certification keeps blessing misaligned systems or standing review keeps misreading real harm; fix that truth-telling machinery first, or governance is structurally unreliable no matter how polished the new plan looks.
 
 [Source](../../core_06.020_rights_part_e.md#article-xxviii-c-failure-off-ramps-re-baselining-and-traceability)
 
 ##### Article XXVIII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives
 
-non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. Ownership also does not shield property that is being used to carry out anti-constitutional conduct, though that case runs through the anti-constitutional misconduct chapter, not through transition powers. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-6.275 §1** (*non-compliant property, seizure, voluntary incentives*) through **CI-6.275 §3** (*operative transition-scoped remediation requirements*).
+non-compliant systems and property can be remediated during Adoption Transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. Ownership also does not shield property that is being used to carry out anti-constitutional conduct, though that case runs through the anti-constitutional misconduct chapter, not through Adoption Transition powers. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-6.275 §1** (*non-compliant property, seizure, voluntary incentives*) through **CI-6.275 §3** (*operative Adoption Transition-scoped remediation requirements*).
 
 [Source](../../core_06.020_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives)
 
@@ -6455,7 +6485,7 @@ forward is fine — new rights, stronger safeguards, and broader inclusion are w
 
 #### 2. Continuity of Supremacy and Challenge Rights During Amendment
 
-while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short transitional steps have to be bounded, reversible where possible, and honest.
+while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short interim steps have to be bounded, reversible where possible, and honest.
 
 [Source](../../core_16.000_expansion_supremacy.md#2-continuity-of-supremacy-and-challenge-rights-during-amendment)
 

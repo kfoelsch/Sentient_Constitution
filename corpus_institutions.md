@@ -7,7 +7,7 @@
 - How conflict, procedure, oversight, transparency, and participation duties scale with material impact once a body is operating
 - How revenue, resources, and incentives are stewarded without capture or silent exclusion
 - How institutional rules land in domain interfaces (care, health, markets, commons, place, science, and related)
-- How institutions coordinate, fail, correct, dissolve, or transition — and how remedy capacity is kept real
+- How institutions coordinate, fail, correct, dissolve, or go through the Adoption Transition — and how remedy capacity is kept real
 - Section families **CI-0.210** (*Scope, purpose, and legitimacy interface*) and **CI-8.205** (*Institutional design, separation of powers, and authority custody*)–**CI-11.215** (*Institutional accountability and sanctions*) carry the detail (**CI-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Institutions index** below when you need a specific file.
 
 **Does not:**
@@ -92,13 +92,13 @@
 | CI-6.215: Resource stewardship and incentive integrity | [ci_06.215_resource_stewardship_incentive_integrity.md](corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md) |
 | CI-13.210: Cross-institution coordination and escalation | [ci_13.210_cross_institution_coordination_escalation.md](corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md) |
 
-### Failure and transition
+### Failure and Adoption Transition
 
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-11.210: Institutional failure and dissolution | [ci_11.210_institutional_failure_dissolution.md](corpus_institutions/ci_11.210_institutional_failure_dissolution.md) |
 | CI-11.215: Institutional accountability and sanctions | [ci_11.215_institutional_accountability_sanctions.md](corpus_institutions/ci_11.215_institutional_accountability_sanctions.md) |
-| CI-6.275: Transitional governance and institutional evolution | [ci_06.275_transitional_governance_institutional_evolution.md](corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) |
+| CI-6.275: Adoption Transition governance and institutional evolution | [ci_06.275_adoption_transition_governance_institutional_evolution.md](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md) |
 
 ### Domain interfaces — care and sentients
 

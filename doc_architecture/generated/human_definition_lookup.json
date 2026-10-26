@@ -117,7 +117,7 @@
       "href": "../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 279,
+  "term_count": 280,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -139,6 +139,13 @@
       "anchor": "#adjudication-and-dispute-resolution-constitutional",
       "plain_terms": "accessible and impartial ways to resolve claims that rights or constitutional requirements were violated, with fair process, reasoned decisions, timely outcomes, and remedies that fit the findings.",
       "href": "../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution"
+    },
+    {
+      "term": "Adoption Transition",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#adoption-transition",
+      "plain_terms": "the **Adoption Transition** is the stretch of time after a community adopts this Constitution, while its legacy systems and institutions are still being brought into constitutional operation. It is phased, time-bounded, and open to review. What the adopter must not do binds from the first day. What it must deliver becomes enforceable step by step, as the means to enforce it are built.",
+      "href": "../../core_05.040_band_continuity.md#adoption-transition"
     },
     {
       "term": "Adversarial, Scaled, and Exploited Conditions",
@@ -837,14 +844,14 @@
       "term": "Gate",
       "file": "core_05.050_band_oversight.md",
       "anchor": "#gate",
-      "plain_terms": "a gate is a checkpoint in a transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.",
+      "plain_terms": "a gate is a checkpoint in an Adoption Transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.",
       "href": "../../core_05.050_band_oversight.md#gate"
     },
     {
       "term": "Gate Criteria",
       "file": "core_05.050_band_oversight.md",
       "anchor": "#gate-criteria",
-      "plain_terms": "gate criteria are the specific tests a transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.",
+      "plain_terms": "gate criteria are the specific tests an Adoption Transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.",
       "href": "../../core_05.050_band_oversight.md#gate-criteria"
     },
     {
@@ -1306,7 +1313,7 @@
       "term": "Non-Statelessness",
       "file": "core_05.055_band_participation.md",
       "anchor": "#non-statelessness-constitutional",
-      "plain_terms": "no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup.",
+      "plain_terms": "no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared interim recognition as backup.",
       "href": "../../core_05.055_band_participation.md#non-statelessness"
     },
     {

@@ -165,7 +165,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Rights-Floor: **[Article XXVIII-A](core_06.020_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)**.
-- Canonical owner: this definition states what a gate is. [Gate Criteria](core_05.050_band_oversight.md#gate-criteria) states what must be shown for it to open. Implementation detail lives in **CS-6.350 §3** (*Gate criteria and advancement rules*) and **CI-6.275** (*Transitional governance and institutional evolution*).
+- Canonical owner: this definition states what a gate is. [Gate Criteria](core_05.050_band_oversight.md#gate-criteria) states what must be shown for it to open. Implementation detail lives in **CS-6.350 §3** (*Gate criteria and advancement rules*) and **CI-6.275** (*Adoption Transition governance and institutional evolution*).
 - Read with:
   - [Gate Criteria](core_05.050_band_oversight.md#gate-criteria),
   - [Auditability](core_05.050_band_oversight.md#auditability),
@@ -176,10 +176,10 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
 
 <br>
 
-*In plain terms: a gate is a checkpoint in a transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.*
+*In plain terms: a gate is a checkpoint in an Adoption Transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.*
 
 - **What it is**
-  - **In scope:** The checkpoint between two phases of a transition plan under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), or before the plan widens the scope of adoption, at which the plan either meets its [Gate Criteria](#gate-criteria) and advances, or does not meet them and holds.
+  - **In scope:** The checkpoint between two phases of an Adoption Transition plan under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), or before the plan widens the scope of adoption, at which the plan either meets its [Gate Criteria](#gate-criteria) and advances, or does not meet them and holds.
   - **Out of scope:**
     - ordinary project milestones that do not open or widen constitutional operation; and
     - approval steps decided by discretion alone, with no published criteria to meet.
@@ -205,8 +205,8 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Rights-Floor: **[Article XXVIII-A](core_06.020_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)**; **[Article XXVIII-B](core_06.020_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) (*Transitional Authority Limits and Reauthorization*)**.
-- Canonical owner: this definition states what gate criteria are. The contents of any particular plan's criteria stay with that plan under **CS-6.350 §3** (*Gate criteria and advancement rules*) and **CI-6.275** (*Transitional governance and institutional evolution*), and may not narrow this definition.
+- Downstream: Rights-Floor: **[Article XXVIII-A](core_06.020_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*)**; **[Article XXVIII-B](core_06.020_rights_part_e.md#article-xxviii-b-adoption-transition-authority-limits-and-reauthorization) (*Adoption Transition Authority Limits and Reauthorization*)**.
+- Canonical owner: this definition states what gate criteria are. The contents of any particular plan's criteria stay with that plan under **CS-6.350 §3** (*Gate criteria and advancement rules*) and **CI-6.275** (*Adoption Transition governance and institutional evolution*), and may not narrow this definition.
 - Read with:
   - [Gate](core_05.050_band_oversight.md#gate),
   - [Auditability](core_05.050_band_oversight.md#auditability),
@@ -218,10 +218,10 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
 
 <br>
 
-*In plain terms: gate criteria are the specific tests a transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.*
+*In plain terms: gate criteria are the specific tests an Adoption Transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.*
 
 - **What it is**
-  - **In scope:** The specific, measurable conditions that a transition plan publishes before a phase begins and that must be shown met, on verified evidence, before a [Gate](core_05.050_band_oversight.md#gate) opens. Each criterion states:
+  - **In scope:** The specific, measurable conditions that an Adoption Transition plan publishes before a phase begins and that must be shown met, on verified evidence, before a [Gate](core_05.050_band_oversight.md#gate) opens. Each criterion states:
     - what is measured;
     - the threshold;
     - who owns it; and
@@ -234,7 +234,7 @@ Chapter Five, Oversight band, is the constitutional owner of the **leaf definiti
   - **Out of scope:**
     - goals or aspirations that cannot be measured;
     - the contents of a particular plan's criteria, which stay with that plan; and
-    - criteria for decisions that are not transition gates.
+    - criteria for decisions that are not Adoption Transition gates.
 <a id="gate-criteria-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*

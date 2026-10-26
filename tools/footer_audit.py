@@ -90,7 +90,7 @@ CS_CHAIN = tuple(
         "cs_06.320_justice_safeguards_restitution_rehabilitation.md",
         "cs_06.325_adaptive_sustainability_ecosystem_resilience.md",
         "cs_06.335_resource_allocation_funding_stewardship.md",
-        "cs_06.350_transition_constitution_migration_governance.md",
+        "cs_06.350_adoption_transition_constitution_migration_governance.md",
         "cs_06.355_subversion_response_replacement_reconstitution.md",
         "cs_06.330_decentralized_continuity_partition_resilience.md",
     )
@@ -114,7 +114,7 @@ CI_CHAIN = tuple(
         "ci_13.210_cross_institution_coordination_escalation.md",
         "ci_11.210_institutional_failure_dissolution.md",
         "ci_11.215_institutional_accountability_sanctions.md",
-        "ci_06.275_transitional_governance_institutional_evolution.md",
+        "ci_06.275_adoption_transition_governance_institutional_evolution.md",
         "ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md",
         "ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md",
         "ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md",

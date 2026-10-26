@@ -797,10 +797,10 @@ This Article sets out the open-formats floor for systems:
   - review the choice periodically, and at each materially impactful certification or revalidation, as open alternatives mature.
 
   Convenience, operator cost savings, or incumbency do not by themselves justify a closed format. A closed format whose primary effect is to foreclose exit or switching contravenes **Article XXI-C** (*Anti-Lock-In Rule*).
-- **Transition:** A system already in operation when this sub-article first applies to it must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within **one year** by default.
-  - Adopters may set a different transition period for classes of systems, with published justification, through **Chapter Eighteen** incorporation.
+- **Adoption Transition:** A system already in operation when this sub-article first applies to it must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within **one year** by default.
+  - Adopters may set a different Adoption Transition period for classes of systems, with published justification, through **Chapter Eighteen** incorporation.
   - A system may receive an extension in extenuating circumstances only through documented, reviewable, time-bound justification under applicable burden-of-justification requirements.
-  - The exit duty is not subject to transition.
+  - The exit duty is not subject to the Adoption Transition.
 - **Scope and limits:**
   - This sub-article binds systems. It does not direct individual sentients which formats to use for their own works, though they are encouraged to prefer open ones. Systems must not require individuals to use closed formats where an open format meets their needs.
   - Open formats do not mean open content. Confidentiality, encryption, and the handling protections of every CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) data type are unaffected.
@@ -818,13 +818,13 @@ This Article sets out the open-formats floor for systems:
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
   - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
   - [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*) standing and participation-status routing, **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*) standing and participation-status routing, **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance.
 - Read with:
   - [Article XXI](#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) where movement runs through substrate portability or system exit;
   - [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05.050_band_oversight.md#oversight-dependent-clusters) (5.050);
   - [Article XX-B](#article-xx-b-restriction-floors) (*Restriction Floors*) and
   - [Chapter Eleven §5.4](core_11.000_standing_integration.md#54-special-violation-rules) (11.000 §5.4) (*coercive or liberty-restricting safeguard character*);
-  - [Article XXVIII](core_06.020_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) for transitional recognition when regimes or federations change; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
+  - [**CI-6.275 §6**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*) for interim recognition when regimes or federations change; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
 
 </details>
 
@@ -953,7 +953,7 @@ This Article sets out the grounds for refuge and the duties of receiving regimes
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint) (1.000 §4) and [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7).
-- Downstream: **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transitional recognition.
+- Downstream: [**CI-6.275 §6**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*) for interim recognition.
 
 </details>
 
@@ -982,8 +982,8 @@ This Article sets out the non-statelessness floor:
 - **Recognition is not hosting or citizenship:** Recognition means a regime answers for the three functions above. It does not by itself entitle the sentient to reside in, be hosted by, or hold full political franchise in that regime, consistent with Chapter Five [recognition vs hosting](core_05.055_band_participation.md#movement-refuge-recognition-vs-hosting).
 - **Order of responsibility:**
   - **First in line:** Where an origin, expelling, collapsing, withdrawing, or exiting regime still exists and can recognize the sentient, that regime keeps **primary** recognition responsibility.
-  - **Backup:** Where that regime is gone, refuses, or otherwise leaves a gap, shared or federation transitional recognition must be arranged consistent with **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) so the sentient never hits zero recognition.
-  - **Protection in the gap:** Until durable recognition is in place, transitional arrangements must provide real standing, adjudication, and remedy access. A sentient awaiting backup recognition is not treated as having none.
+  - **Backup:** Where that regime is gone, refuses, or otherwise leaves a gap, shared or federation interim recognition must be arranged consistent with **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*), with the roles named under [**CI-6.275 §6**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*), so the sentient never hits zero recognition.
+  - **Protection in the gap:** Until durable recognition is in place, interim recognition arrangements must provide real standing, adjudication, and remedy access. A sentient awaiting backup recognition is not treated as having none.
 - **Survives structural breaks:** Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection.
 - **Restricted-status recognition:** Where documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community is present, regimes may impose conditions, monitoring, or restricted status on recognition.
   - These must not extinguish core Rights-Floor, **Redress and Remediation**, and **Procedural Fairness** protections.
