@@ -382,7 +382,7 @@ Every submission made during review goes into one **review submissions log**, ke
 - **What the record seat holder does:** it logs the submission with its date, its source, and the forum it bears on. It tells the submitter it was received, sends it to that forum, and later enters what the forum did with it.
 - **No gatekeeping:** the record seat holder does not judge a submission's relevance or weight, and may not refuse, drop, or delay it.
 - **Anonymous and confidential submissions:** a submitter may ask to stay anonymous or confidential. Until the lead forum decides, the submitter's identity, and anything in the submission that would reveal it, is withheld from everyone, the operator included. If the lead forum finds confidentiality warranted, in the way [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing) protects a reporter, the identity stays withheld and the submission is still logged and sent on. If it finds confidentiality not warranted, it tells the submitter before anything is disclosed, and the submitter may withdraw the submission. Retaliation against a submitter, or interference with submitting, is [Protected Reporting Retaliation and Access Interference](core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference).
-- **Who can see the log:** anyone. The log is published with the record, and the disclosure rules in [§8.2 Record integrity: transparency and auditability](#82-record-integrity-transparency-and-auditability) apply, so only a limit justified by safety or security may keep an entry from view.
+- **Who can see the log:** anyone. The log is published with the record, and the disclosure rules in [§8.2 Transparency and auditability of the record](#82-transparency-and-auditability-of-the-record) apply, so only a limit justified by safety or security may keep an entry from view.
 
 <a id="63-contestability-chain"></a>
 
@@ -785,6 +785,7 @@ A denied or revoked operator may apply again.
   - [Chapters Two through Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (*definition, burden, traceability, and verification substrate*);
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record) (*Chapter Five meaning*);
   - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record);
+  - [Record Integrity](core_05.035_band_accountability.md#record-integrity) (*the reliability rule this section applies to the certification record*);
   - [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) (8.000 §8); Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*);
   - [**Def.O1** *Transparency, Auditability, and Verification*](core_05.050_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: [§9](#9-recertification-and-reopening) (*recertification and reopening*); [§10](#10-relationship-to-standing) (*verified-input gate*); [Chapter Thirteen §2.3](core_13.000_forum.md#23-forum-case-records-standing-records-and-contests) (13.000 §2.3) (*forum case records, standing-record contests*).
@@ -794,7 +795,18 @@ A denied or revoked operator may apply again.
   - **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, and
   - **CS-6.345** (*System lifecycle*);
   - **CJS-5.110 §4** (*transparency levels and audit-access terms*).
-- Subsections: [§8.1](#81-minimum-record-contents) (*minimum record contents*); [§8.2](#82-record-integrity-transparency-and-auditability) (*record integrity: transparency and auditability*).
+- Subsections:
+  - [§8.1](#81-minimum-record-contents) (*minimum record contents*, with
+  - [§8.1.1 System identity, scope, and prior record](#811-system-identity-scope-and-prior-record),
+  - [§8.1.2 Classification and whole-system findings](#812-classification-and-whole-system-findings),
+  - [§8.1.3 System Data Types Record](#813-system-data-types-record),
+  - [§8.1.4 Rights-Floor and domain findings](#814-rights-floor-and-domain-findings),
+  - [§8.1.5 Technical evidence and review findings](#815-technical-evidence-and-review-findings),
+  - [§8.1.6 Supervision, independence, and challenge paths](#816-supervision-independence-and-challenge-paths),
+  - [§8.1.7 Concerns, cause, and remediation readiness](#817-concerns-cause-and-remediation-readiness),
+  - [§8.1.8 Outcome, reliance limits, and operating plan](#818-outcome-reliance-limits-and-operating-plan), and
+  - [§8.1.9 Completeness](#819-completeness));
+  - [§8.2](#82-transparency-and-auditability-of-the-record) (*transparency and auditability of the record*).
 
 </details>
 
@@ -804,25 +816,57 @@ A denied or revoked operator may apply again.
 
 This section is **Phase V, Record**, after [§7 Certification Outcomes](#7-certification-outcomes) (**Phase IV, Decide**). The record is opened for forum review in Phase III and completed here with the outcome.
 
-A **System Certification Record** is a bounded, reviewable record about one particular system, version, operator or steward, scope, record span, material-impact profile, and decision context. It is scope-bound, time-bound, and contestable, as the Chapter Five meaning in [System Certification Record](core_05.040_band_continuity.md#system-certification-record) says.
+A **System Certification Record** is a bounded, reviewable record about one particular:
+
+- system;
+- version;
+- operator or steward;
+- scope;
+- record span;
+- material-impact profile; and
+- decision context.
+
+It is scope-bound, time-bound, and contestable, as the Chapter Five meaning in [System Certification Record](core_05.040_band_continuity.md#system-certification-record) says.
 
 This section is the single home for what goes on the record. The evaluations in Part A say what must be checked, and the findings they produce are recorded here. The record is the one opened at [§6.2 Supervisory sequence](#62-supervisory-sequence) step 1 and kept through review and decision. This section completes it, and no separate record is made for the decision. A later recertification, or a reopened or fresh review, opens a new record under [§9 Recertification and Reopening](#9-recertification-and-reopening).
+
+The record must also meet [Record Integrity](core_05.035_band_accountability.md#record-integrity). For this record:
+
+- **Who keeps it:** the [Record Seat](core_05.035_band_accountability.md#record-seat) opens, enters, versions, preserves, and publishes it ([§6.1.1 Four seats in a certification](#611-four-seats-in-a-certification)). The operator, steward, or proponent may submit evidence and ask for a change, but may not enter or change the record. Each request is logged, whether or not it is acted on.
+- **Open and completed:** the record is open from step 1 of [§6.2 Supervisory sequence](#62-supervisory-sequence) until the Record Seat enters the outcome and operating plan under [§8.1.8 Outcome, reliance limits, and operating plan](#818-outcome-reliance-limits-and-operating-plan) and publishes it. While it is open, each amendment is a new version that shows what changed. Once it is completed, its existing entries are not changed in place.
+- **Changes to a completed record:** a correction or a later finding is a new version of the same record. It states what changed, who made the change, under what authority, on what verification materials, and at whose request. The version that was relied on stays reachable and is marked as corrected or superseded. Operating evidence is added as linked entries under [§8.1.8 Outcome, reliance limits, and operating plan](#818-outcome-reliance-limits-and-operating-plan).
+- **A new pass is a new record, not a new version:** a recertification, or a reopened or fresh review, opens a new record that links back to the completed one ([§9 Recertification and Reopening](#9-recertification-and-reopening)).
+- **Challenge:** a challenge does not freeze or erase the record. It stays inspectable, its prior versions stay, and its status shows that it is under challenge ([§6.3 Contestability chain](#63-contestability-chain); [§9.1 Challenging a Certification](#91-challenging-a-certification)).
+- **Care scales:** how strong the custody and version trail must be scales with system class and material impact, as detail and disclosure do. No class removes attribution, the version trail, or the rule against editing a completed record in place.
 
 <a id="81-minimum-record-contents"></a>
 
 #### 8.1 Minimum record contents
 
-For the materially binding certification act, the System Certification Record satisfies and extends the requirements of the [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) and [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). It may carry those elements directly, or keep attributable, integrity-protected links to them. It does not need a duplicate parallel record.
+Certifying a system is a materially binding act. So the System Certification Record has to meet the rules for a [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) and for [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs), and then add to them. It can hold those items itself, or link to them under those rules: each link must show who made it, and its version history must stay intact. It does not need a second, parallel record.
+
+The subsections below set out what the record must contain. The last one, [§8.1.9 Completeness](#819-completeness), says when a record counts as incomplete.
+
+<a id="811-system-identity-scope-and-prior-record"></a>
+
+##### 8.1.1 System identity, scope, and prior record
 
 The record must identify, at minimum:
 
 - **System identity, scope, and status:**
   - the system, its version, its operator or steward, and its scope;
   - the governing [System Charter](core_05.040_band_continuity.md#system-charter) (or the reasoned absence of one, where that is immaterial);
-  - affected communities and dependencies; and
-  - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists;
+  - affected communities and dependencies;
+  - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists; and
   - where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Part D §11.1 Relation to System Alignment Certification](core_09.015_institutional_alignment_certification.md#111-relation-to-system-alignment-certification));
-- **Prior record:** for a recertification, or a reopened or fresh review, an attributable, integrity-protected link to the completed record it follows, and what has changed since;
+- **Prior record:** for a recertification, or a reopened or fresh review, a link to the completed record it follows, kept under the Act Record rules in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs), and what has changed since.
+
+<a id="812-classification-and-whole-system-findings"></a>
+
+##### 8.1.2 Classification and whole-system findings
+
+The record must identify, at minimum:
+
 - **System Classification Record:** the [System Classification Record](core_05.040_band_continuity.md#system-classification-record), or its required contents under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*), reflecting the evaluation under [Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation), stating:
   - the assigned system class;
   - the classification rationale;
@@ -837,38 +881,56 @@ The record must identify, at minimum:
   - [Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure) posture: who the disclosure is meant for or how it is routed, its timing relative to material decisions, and any justified hold-backs paired with usable substitutes; and
   - defects or conditions where evaluation or disclosure remains incomplete.
 
-  These risk findings live on this record. They are not a separate named risk-disclosure record or a fifth mandatory named component record;
-- **System Data Types Record:** the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record), or its required contents under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*), produced or verified under [Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), stating:
-  - the data types materially in scope;
-  - the classification rationale for ambiguous or multi-type data;
-  - the separation and cross-domain-linkage controls relied on;
-  - the handling, retention, lifecycle, and infrastructure-assurance posture;
-  - enough attribution capability to support [Attributable Action](core_05.035_band_accountability.md#attributable-action) and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity);
-  - the most recent scheduled data-type re-evaluation, under **[CS-6.305 §5.2 reclassification and lifecycle governance](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** and **[CS-6.305 §8 System Data Types Record governance](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-8-system-data-types-record-governance)**:
-    - its date or cycle identifier;
-    - its cadence (scaled to system class and impact); and
-    - any material retypes;
-  - any justified restrictions on disclosure or audit access, with their public substitutes where CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) requires them; and
-  - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) covers the certified scope: the System Charter fields relied on, boundary findings, and any coverage gaps or conditions;
-- **Rights-Floor and domain findings:** for each protection in the [Part A §5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) table whose trigger applies:
-  - the materiality trigger relied on and the evaluation scope;
-  - the findings for that protection:
-    - **survival essentials, educational access, and Safe Conditions** — whether certification or continued reliance would shut out or materially weaken those floors;
-    - **ecological footprint** ([§5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation)) — the attribution assumptions; the lifecycle and dependency boundaries relied on; the material burdens found; the disclosure posture; and Environment-forum component findings where required;
-    - **cross-system support** ([§5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)):
-      - the scope of the dependent-systems map and resource flows;
-      - findings on the integrity of the map and record (completeness, currency, and audit availability);
-      - findings on extraction and return flows;
-      - support-adequacy findings under [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support); and
-      - allocation-fairness findings;
-    - **nondiscrimination** ([§5.4 Nondiscrimination Evaluation](core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)) — burden-and-benefit pattern findings; protected-characteristic and proxy-discrimination findings; and substantive-fairness findings;
-    - **accessibility** ([§5.5 Accessibility Evaluation](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation)) — substantive-participation, accommodation, and anti-denial-by-proxy findings;
-    - **educational capability** ([§5.2 Educational Capability and Learning-System Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation)) — capability-building and retraining findings; assessment-transparency and contestability findings; and anti-proxy and anti-manipulation findings where material;
-    - **trustworthiness** ([§5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation)) — trustworthiness and false-trust findings; and perverse-incentive, challenge-path, and recovery-integrity findings where material;
-  - uncertainty;
-  - Sentient-forum or other assigned component findings where required;
-  - any justified limits on disclosure, with their public substitutes where applicable transparency rules require them; and
-  - any conditions, reliance limits, or reopening triggers tied to persistent harm the evaluation found;
+  These risk findings live on this record. They are not a separate named risk-disclosure record or a fifth mandatory named component record.
+
+<a id="813-system-data-types-record"></a>
+
+##### 8.1.3 System Data Types Record
+
+The record must identify, at minimum, the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record), or its required contents under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*), produced or verified under [Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), stating:
+- the data types materially in scope;
+- the classification rationale for ambiguous or multi-type data;
+- the separation and cross-domain-linkage controls relied on;
+- the handling, retention, lifecycle, and infrastructure-assurance posture;
+- enough attribution capability to support [Attributable Action](core_05.035_band_accountability.md#attributable-action) and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity);
+- the most recent scheduled data-type re-evaluation, under **[CS-6.305 §5](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-6.305 §8 System Data Types Record governance](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-8-system-data-types-record-governance)**:
+  - its date or cycle identifier;
+  - its cadence (scaled to system class and impact); and
+  - any material retypes;
+- any justified restrictions on disclosure or audit access, with their public substitutes where CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) requires them; and
+- where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) covers the certified scope: the System Charter fields relied on, boundary findings, and any coverage gaps or conditions.
+
+<a id="814-rights-floor-and-domain-findings"></a>
+
+##### 8.1.4 Rights-Floor and domain findings
+
+For each protection in the [Part A §5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) table whose trigger applies, the record must identify, at minimum:
+
+- the materiality trigger relied on and the evaluation scope;
+- the findings for that protection:
+  - **survival essentials, educational access, and Safe Conditions** — whether certification or continued reliance would shut out or materially weaken those floors;
+  - **ecological footprint** ([§5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation)) — the attribution assumptions; the lifecycle and dependency boundaries relied on; the material burdens found; the disclosure posture; and Environment-forum component findings where required;
+  - **cross-system support** ([§5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)):
+    - the scope of the dependent-systems map and resource flows;
+    - findings on the integrity of the map and record (completeness, currency, and audit availability);
+    - findings on extraction and return flows;
+    - support-adequacy findings under [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support); and
+    - allocation-fairness findings;
+  - **nondiscrimination** ([§5.4 Nondiscrimination Evaluation](core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)) — burden-and-benefit pattern findings; protected-characteristic and proxy-discrimination findings; and substantive-fairness findings;
+  - **accessibility** ([§5.5 Accessibility Evaluation](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation)) — substantive-participation, accommodation, and anti-denial-by-proxy findings;
+  - **educational capability** ([§5.2 Educational Capability and Learning-System Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation)) — capability-building and retraining findings; assessment-transparency and contestability findings; and anti-proxy and anti-manipulation findings where material;
+  - **trustworthiness** ([§5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation)) — trustworthiness and false-trust findings; and perverse-incentive, challenge-path, and recovery-integrity findings where material;
+- uncertainty;
+- Sentient-forum or other assigned component findings where required;
+- any justified limits on disclosure, with their public substitutes where applicable transparency rules require them; and
+- any conditions, reliance limits, or reopening triggers tied to persistent harm the evaluation found.
+
+<a id="815-technical-evidence-and-review-findings"></a>
+
+##### 8.1.5 Technical evidence and review findings
+
+The record must identify, at minimum:
+
 - **Technical evidence and assurance:** the technical standards, tests, measurements, uncertainty, safety margins, failure modes, security-test results, and evidence basis materially relied on, together with:
   - the regression-testing results for each recertification, as CS-6.345 (*System lifecycle*) requires: regression scope; standard and custom test suites run; results; known failures; remediations; and accepted residual risk with justification; and
   - the certification-and-review evidence package for the certification cycle, as CS-6.345 (*System lifecycle*) *Forum certification and lifecycle review* requires, covering:
@@ -882,13 +944,27 @@ The record must identify, at minimum:
 - **Stakeholder, environmental, and integrity review:**
   - stakeholder, Rights-Floor, accessibility, dependency, and participation considerations;
   - ecological exposure, [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint) attribution, environmental-precondition dependency, lifecycle burden, restoration duty, and environmental-alignment component review where material; and
-  - risks of capture, self-review, misaligned incentives, evidence control, and obstructed challenge;
+  - risks of capture, self-review, misaligned incentives, evidence control, and obstructed challenge.
+
+<a id="816-supervision-independence-and-challenge-paths"></a>
+
+##### 8.1.6 Supervision, independence, and challenge paths
+
+The record must identify, at minimum:
+
 - **Forum supervision:** the forum family or authority that issued, adopted, referred, certified, stayed, or reviewed each component, and the supervisory sequence (who oversees what, and in what order) under [§6.2 Supervisory sequence](#62-supervisory-sequence);
 - **Functional-independence record:**
   - the four seats required by [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (initiating, verify-or-authorize, record, and contest), including each holder and authority, and the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) version in force when each seat was held;
   - every recusal, delegation, substitute, permitted merger, or emergency departure; and
   - enough control-line information to show that the operator or proponent did not verify its own certification claim or control the challenge to it;
-- **Challenge paths:** the named [contestability paths](#911-contestability-paths) under [§9.1 Challenging a Certification](#91-challenging-a-certification) and the contestability chain under [§6.3 Contestability chain](#63-contestability-chain), showing how affected parties can challenge at each step;
+- **Challenge paths:** the named [contestability paths](#911-contestability-paths) under [§9.1 Challenging a Certification](#91-challenging-a-certification) and the contestability chain under [§6.3 Contestability chain](#63-contestability-chain), showing how affected parties can challenge at each step.
+
+<a id="817-concerns-cause-and-remediation-readiness"></a>
+
+##### 8.1.7 Concerns, cause, and remediation readiness
+
+The record must identify, at minimum:
+
 - **Concerns raised in review and decision:** every objection, dissent, concern, and challenge raised during forum review or in reaching the outcome. It does not matter whether it came from a forum component, a member of the deciding body, a steward or operator, or an affected party, whether through a challenge path or a review submission under [§6.2.4 Participation during review](#624-participation-during-review). For each, the record states:
   - who raised it (or that the submitter is anonymous or confidential) and what was raised;
   - how it was resolved, or why it remains open; and
@@ -901,13 +977,19 @@ The record must identify, at minimum:
   - the willingness and capacity findings and the evidence for each;
   - the proof step required, its window, and its independent verification;
   - the finding stated under that subsection; and
-  - where the outcome is denial or revocation, the reasons, the interim protection, and the reliance limits under [§7.4 Denial and Revocation](#74-denial-and-revocation);
-- **Outcome and reliance limits:**
-  - the certification outcome under [§7 Certification Outcomes](#7-certification-outcomes);
-  - whether the system holds provisional or full certification under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) or is Not Certified;
-  - the certification interval where applicable;
-  - reopening triggers; and
-  - limits on reliance.
+  - where the outcome is denial or revocation, the reasons, the interim protection, and the reliance limits under [§7.4 Denial and Revocation](#74-denial-and-revocation).
+
+<a id="818-outcome-reliance-limits-and-operating-plan"></a>
+
+##### 8.1.8 Outcome, reliance limits, and operating plan
+
+The record must identify, at minimum:
+
+- the certification outcome under [§7 Certification Outcomes](#7-certification-outcomes);
+- whether the system holds provisional or full certification under [§9.2 Provisional and full certification](#92-provisional-and-full-certification) or is Not Certified;
+- the certification interval where applicable;
+- reopening triggers; and
+- limits on reliance.
 
 The record must also contain a concise **operating plan**, scaled to system class and material impact. The plan summarizes requirements on the same record, and no separate document is required. It must state:
 
@@ -921,9 +1003,13 @@ The record must also contain a concise **operating plan**, scaled to system clas
 
 For a system that is Not Certified, the operating plan states the prohibited go-live, any separately authorized interim continued reliance, the corrective requirements, and the conditions for fresh review. It must not imply certified operating permission.
 
-Operating evidence and later findings that conditions were completed are preserved through attributable, integrity-protected links. They do not edit a completed certification record in place. Detailed testing and monitoring methods remain with their incorporated owners, including [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md).
+Operating evidence and later findings that conditions were completed are added as links kept under the Act Record rules in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). They do not edit a completed certification record in place. Detailed testing and monitoring methods remain with their incorporated owners, including [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle).
 
-**Completeness.** A certification record is incomplete if it omits the findings of any evaluation that applied:
+<a id="819-completeness"></a>
+
+##### 8.1.9 Completeness
+
+A certification record is incomplete if it omits the findings of any evaluation that applied:
 
 - [Part A §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), for every materially impactful system;
 - each [§4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated) subsection whose locus or principle is implicated; and
@@ -931,9 +1017,9 @@ Operating evidence and later findings that conditions were completed are preserv
 
 Those findings must reflect what the evaluation actually found, not section titles or the operator's own attestation. A record is also incomplete if it omits a concern, objection, or dissent raised in review or in reaching the outcome, including one that did not change the outcome.
 
-<a id="82-record-integrity-transparency-and-auditability"></a>
+<a id="82-transparency-and-auditability-of-the-record"></a>
 
-#### 8.2 Record integrity: transparency and auditability
+#### 8.2 Transparency and auditability of the record
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -947,7 +1033,7 @@ Those findings must reflect what the evaluation actually found, not section titl
 
 *In plain terms: a certification record only works if sentients can read it and check it. This section puts transparency and auditability on the record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§9.1 Challenging a Certification](#91-challenging-a-certification).*
 
-This section applies [Transparency](core_05.050_band_oversight.md#transparency) and [Auditability](core_05.050_band_oversight.md#auditability) to system alignment certification records. Canonical term homes and owner boundaries are in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
+This section applies [Transparency](core_05.050_band_oversight.md#transparency) and [Auditability](core_05.050_band_oversight.md#auditability) to system alignment certification records. They are the "reachable" and "reconstructable" parts of [Record Integrity](core_05.035_band_accountability.md#record-integrity), which covers the whole record ([§8 System Certification Record](#8-system-certification-record)). Canonical term homes and owner boundaries are in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
 
 - **Transparency** and **auditability** put **oversight** into practice; and
 - Record clarity under [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) puts **timeliness** into practice, scaled to system class and [material stake](core_00.000_preamble.md#material-stake).
@@ -969,11 +1055,11 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 
 **Auditability** — sentients must be able to reconstruct and check the record:
 
-- A certification record must be attributable, reconstructable, and independently reviewable under Chapters Two through Four and [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation);
+- A certification record must be attributable, reconstructable, and independently reviewable under Chapters Two through Four, [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [Record Integrity](core_05.035_band_accountability.md#record-integrity);
 - It must identify:
   - who issued, adopted, referred, certified, [stayed](core_05.035_band_accountability.md#stay), or reviewed each material component;
   - what evidence was materially relied on; and
-  - what changed between versions of the open record and, for a new record, since the completed record it follows;
+  - what changed between versions of the record, who made each change, under what authority, and at whose request, and, for a new record, what has changed since the completed record it follows;
 - Audit scope must be enough to test whether the recorded outcome follows from the recorded evidence and assumptions; and
 - Operators, stewards, and forums must not fragment, relabel, or conceal certification-relevant behavior in a way that defeats practical reconstructability.
 
@@ -1224,7 +1310,7 @@ A system that has never held certification supplies none through this chapter's 
 
 - [Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*system class*) and [§3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*data types and handling*);
 - each [Part A §5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) domain evaluation whose materiality trigger applies;
-- [§8.2 Record integrity](#82-record-integrity-transparency-and-auditability) and [§6 Forum Process](#6-forum-process); and
+- [§8.2 Transparency and auditability of the record](#82-transparency-and-auditability-of-the-record) and [§6 Forum Process](#6-forum-process); and
 - Chapters Two through Four, and the applicable Chapter Thirteen process.
 
 **Contribution standing record.** Positive certification, validation, recertification, remediation completion, or condition release may supply verified input for a **contribution standing record** where it demonstrates:

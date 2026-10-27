@@ -1348,6 +1348,11 @@
       "tier_depth": "primary_secondary",
       "status": "approved"
     },
+    "Record Integrity": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
     "Cruelty": {
       "ch00_category": "3.2 Flourishing",
       "tier_depth": "primary_only",

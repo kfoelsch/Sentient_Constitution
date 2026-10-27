@@ -1196,7 +1196,7 @@ See **Anti-Segmentation Principle**.
   - [CS-6.310 Part B §9.3 Type O (open, public oversight baseline disclosure data)](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*);
   - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) (*Data Types and Handling Evaluation*);
   - [Chapter Nine Part B §8](core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (9.005 §8) (*Certification record*);
-  - [Chapter Nine Part B §8.2](core_09.005_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (9.005 §8.2) (*Record integrity: transparency and auditability*) and
+  - [Chapter Nine Part B §8.2](core_09.005_system_alignment_certification_record_process.md#82-transparency-and-auditability-of-the-record) (9.005 §8.2) (*Transparency and auditability of the record*) and
   - [§9.1](core_09.005_system_alignment_certification_record_process.md#91-challenging-a-certification) (*Challenging a certification*).
 - Read with:
   - [Transparency](core_05.050_band_oversight.md#transparency),
@@ -1439,6 +1439,7 @@ See **Anti-Segmentation Principle**.
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05.050_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Read with:
   - [Auditability](core_05.050_band_oversight.md#auditability),
+  - [Record Integrity](core_05.035_band_accountability.md#record-integrity),
   - [Verifiability](core_05.050_band_oversight.md#verifiability),
   - [Transparency](core_05.050_band_oversight.md#transparency),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),

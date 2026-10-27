@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **726** of **1132** headings carry a gloss (64%).
+Coverage: **727** of **1142** headings carry a gloss (64%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **726** of **1132** headings carry a gloss (64%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05.020_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (85/97 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (86/98 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (42/103 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
@@ -33,7 +33,7 @@ Coverage: **726** of **1132** headings carry a gloss (64%).
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
-- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (15/44 glossed)
+- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (15/53 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09.010_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/23 glossed)
 - [CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-ten-contribution-violation-and-standing-model--measurement) — `core_10.000_standing_assessment.md` (13/33 glossed)
@@ -1239,7 +1239,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 85/97 headings glossed
+Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 86/98 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1342,6 +1342,12 @@ when an action materially affects sentients or shared systems, it must be possib
 attribution has integrity only when responsibility cannot be hidden, denied, tampered with, or blurred into ambiguity.
 
 [Source](../../core_05.035_band_accountability.md#attribution-integrity)
+
+##### Record Integrity
+
+a record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the sentients entitled to check it can reach it. A completed record is never rewritten. Changes are added as new versions, and the old ones stay.
+
+[Source](../../core_05.035_band_accountability.md#record-integrity)
 
 ##### Contestability
 
@@ -4095,7 +4101,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 
-Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 15/44 headings glossed
+Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 15/53 headings glossed
 
 #### 6. Forum Process
 
@@ -4313,11 +4319,65 @@ a certification record is the auditable case file for one system under review. I
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents)
 
-##### 8.2 Record integrity: transparency and auditability
+###### 8.1.1 System identity, scope, and prior record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#811-system-identity-scope-and-prior-record)
+
+###### 8.1.2 Classification and whole-system findings
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#812-classification-and-whole-system-findings)
+
+###### 8.1.3 System Data Types Record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#813-system-data-types-record)
+
+###### 8.1.4 Rights-Floor and domain findings
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#814-rights-floor-and-domain-findings)
+
+###### 8.1.5 Technical evidence and review findings
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#815-technical-evidence-and-review-findings)
+
+###### 8.1.6 Supervision, independence, and challenge paths
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#816-supervision-independence-and-challenge-paths)
+
+###### 8.1.7 Concerns, cause, and remediation readiness
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#817-concerns-cause-and-remediation-readiness)
+
+###### 8.1.8 Outcome, reliance limits, and operating plan
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#818-outcome-reliance-limits-and-operating-plan)
+
+###### 8.1.9 Completeness
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.005_system_alignment_certification_record_process.md#819-completeness)
+
+##### 8.2 Transparency and auditability of the record
 
 a certification record only works if sentients can read it and check it. This section puts transparency and auditability on the record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§9.1 Challenging a Certification](../../core_09.005_system_alignment_certification_record_process.md#91-challenging-a-certification).
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability)
+[Source](../../core_09.005_system_alignment_certification_record_process.md#82-transparency-and-auditability-of-the-record)
 
 #### 9. Recertification and Reopening
 

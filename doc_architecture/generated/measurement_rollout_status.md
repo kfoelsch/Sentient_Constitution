@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-26T16:10:50+00:00
+Generated: 2026-10-27T15:01:00+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **281/281** terms pass tier audit.
+Approved progress: **282/282** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -287,6 +287,7 @@ Approved progress: **281/281** terms pass tier audit.
 | Protected Reporting (Whistleblowing) | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Protected Reporting Retaliation and Access Interference | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Record Custodian | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Record Integrity | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Record Seat | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Record-Opening Authority | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Redress and Remediation | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
