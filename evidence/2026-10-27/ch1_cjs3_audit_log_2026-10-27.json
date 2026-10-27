@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25",
+  "timestamp": "2026-10-27",
   "workflow": "CH1_CJS3_PRINCIPLE_ALIGNMENT_CHECK",
   "principles": {
     "Preamble \u00a71": {
@@ -2723,7 +2723,7 @@
           "missing": []
         },
         {
-          "label": "Closed-format justification and open-format transition controls",
+          "label": "Closed-format justification and open-format Adoption Transition controls",
           "line": 340,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2756,7 +2756,7 @@
           "missing": []
         },
         {
-          "label": "Continuity-preserving transition safeguards",
+          "label": "Continuity-preserving handoff safeguards",
           "line": 391,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3029,7 +3029,7 @@
           "missing": []
         },
         {
-          "label": "Transition continuity and authority-transfer lifecycle integrity",
+          "label": "Handoff continuity and authority-transfer lifecycle integrity",
           "line": 812,
           "has_what_it_is": true,
           "has_how_to_measure": true,

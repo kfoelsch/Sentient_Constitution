@@ -310,6 +310,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Reasonably Foreseeable](core_05.050_band_oversight.md#reasonably-foreseeable)
 - [Recertification](core_05.040_band_continuity.md#recertification)
 - [Record Custodian](core_05.035_band_accountability.md#record-custodian)
+- [Record Integrity](core_05.035_band_accountability.md#record-integrity)
 - [Record Seat](core_05.035_band_accountability.md#record-seat)
 - [Record-Opening Authority](core_05.035_band_accountability.md#record-opening-authority)
 - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation)

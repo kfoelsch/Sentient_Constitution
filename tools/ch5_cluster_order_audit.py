@@ -22,6 +22,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         # Accountability and Timeliness leg heads live in core_05.005_apex_accountability_leg.md
         "Attributable Action",
         "Attribution Integrity",
+        "Record Integrity",
         "Contestability",
         "Adjudication and Dispute Resolution",
         "Due Process",

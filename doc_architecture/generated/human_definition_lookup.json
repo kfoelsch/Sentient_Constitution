@@ -117,7 +117,7 @@
       "href": "../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 280,
+  "term_count": 283,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -293,6 +293,20 @@
       "anchor": "#cascading-failure",
       "plain_terms": "a breakdown in one system that spreads through the systems it is connected to, ending up bigger than where it started.",
       "href": "../../core_05.040_band_continuity.md#cascading-failure"
+    },
+    {
+      "term": "Certification Denial",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#certification-denial",
+      "plain_terms": "**certification denial** is the refusal to certify a system that does not yet hold certification, because its operator has not shown that it is both willing and able to put a problem right. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.",
+      "href": "../../core_05.040_band_continuity.md#certification-denial"
+    },
+    {
+      "term": "Certification Revocation",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#certification-revocation",
+      "plain_terms": "**certification revocation** is taking certification back from a system that holds it, because its operator has not shown that it is both willing and able to put a problem right, or has been dishonest or has broken a condition. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.",
+      "href": "../../core_05.040_band_continuity.md#certification-revocation"
     },
     {
       "term": "Charter Pointer",
@@ -1539,6 +1553,13 @@
       "anchor": "#record-custodian",
       "plain_terms": "the Record Custodian is the body that enters, keeps, and versions a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.",
       "href": "../../core_05.035_band_accountability.md#record-custodian"
+    },
+    {
+      "term": "Record Integrity",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#record-integrity-constitutional",
+      "plain_terms": "a record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the sentients entitled to check it can reach it. A completed record is never rewritten. Changes are added as new versions, and the old ones stay.",
+      "href": "../../core_05.035_band_accountability.md#record-integrity"
     },
     {
       "term": "Record Seat",

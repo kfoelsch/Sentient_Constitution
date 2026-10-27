@@ -510,6 +510,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - [Formation Check](core_05.035_band_accountability.md#formation-check) — verified standing and authenticity checks for covered office-holders.
 - [Attributable Action](core_05.035_band_accountability.md#attributable-action) — materially relevant action traceable to identifiable responsible actors.
 - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — attribution chains resistant to obscuring, ambiguity, tampering, and repudiation.
+- [Record Integrity](core_05.035_band_accountability.md#record-integrity) — official records that stay attributable, versioned, preserved, reconstructable, reachable, and independent of the sentient or system whose act they record.
 - [Negligence](core_05.035_band_accountability.md#negligence) — reasonably avoidable failures of care that produce material harm.
 - [Collective Accountability Failure](core_05.035_band_accountability.md#collective-accountability-failure) — care failures under diffused or collective responsibility.
 - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) — acknowledgment and proportionate correction.
@@ -519,7 +520,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - [Force Majeure](core_05.035_band_accountability.md#force-majeure) — exceptional external disruptions.
 - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) — named form of System Capture addressing outcome-determination mechanisms.
 
-*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Accountability](core_05.005_apex_accountability_leg.md#accountability), [Attributable Action](core_05.035_band_accountability.md#attributable-action), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Formation Check](core_05.035_band_accountability.md#formation-check), [Negligence](core_05.035_band_accountability.md#negligence), [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Remediation Readiness](core_05.035_band_accountability.md#remediation-readiness), [Remedy System](core_05.035_band_accountability.md#remedy-system), [Restorative Justice](core_05.035_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) below.
+*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Accountability](core_05.005_apex_accountability_leg.md#accountability), [Attributable Action](core_05.035_band_accountability.md#attributable-action), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Record Integrity](core_05.035_band_accountability.md#record-integrity), [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Formation Check](core_05.035_band_accountability.md#formation-check), [Negligence](core_05.035_band_accountability.md#negligence), [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Remediation Readiness](core_05.035_band_accountability.md#remediation-readiness), [Remedy System](core_05.035_band_accountability.md#remedy-system), [Restorative Justice](core_05.035_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) below.
 
 ---
 
@@ -585,6 +586,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Auditability](core_05.050_band_oversight.md#auditability),
+  - [Record Integrity](core_05.035_band_accountability.md#record-integrity),
   - [Transparency](core_05.050_band_oversight.md#transparency),
   - [Contestability](core_05.035_band_accountability.md#contestability), and
   - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint).
@@ -611,6 +613,73 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **What must hold**
   - **Primary failure:** It is non-compliant to obscure responsibility through indirection, delegation, or system complexity, or to create conditions where materially significant actions cannot be reliably attributed.
   - **Secondary failure:** Attribution records or mechanisms are present but vulnerable to tampering, repudiation, or unresolved ambiguity such that reliable review, correction, or remedy cannot depend on them.
+
+---
+
+<a id="record-integrity-constitutional"></a>
+
+#### Record Integrity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles:
+  - [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the act makes its own record*);
+  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
+  - [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) (8.000 §8);
+  - [Chapter Nine Part B §8](core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (9.005 §8);
+  - [Chapter Ten §3.4 Versioning](core_10.000_standing_assessment.md#34-versioning) (10.000 §3.4) and [§3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7); and
+  - [Chapter Thirteen §2.3 Forum case records, standing records, and contests](core_13.000_forum.md#23-forum-case-records-standing-records-and-contests) (13.000 §2.3).
+- Read with:
+  - [Attributable Action](core_05.035_band_accountability.md#attributable-action),
+  - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity),
+  - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record),
+  - [Record Seat](core_05.035_band_accountability.md#record-seat),
+  - [Record Custodian](core_05.035_band_accountability.md#record-custodian),
+  - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation),
+  - [Auditability](core_05.050_band_oversight.md#auditability),
+  - [Transparency](core_05.050_band_oversight.md#transparency), and
+  - [Contestability](core_05.035_band_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*In plain terms: a record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the sentients entitled to check it can reach it. A completed record is never rewritten. Changes are added as new versions, and the old ones stay.*
+
+- **What it is**
+  - **In scope:** The requirement that an official record a constitutional process relies on to decide, review, challenge, or correct a materially significant matter stays reliable as a record. That covers an Act Record, a System Certification Record, a Standing Record, a Forum Case Record, and any other process record. It has six parts:
+    - **Attributable:** each entry and each change shows who made it, in what role, and under what authority.
+    - **Versioned:** every change is a new version, and nothing is changed in place (see *Not edited in place* below).
+    - **Preserved:** the record and its prior versions are kept for as long as review, contest, remedy, or standing assessment can need them.
+    - **Reconstructable:** the act or decision, the evidence relied on, the handoffs, refusals, and objections, and the clocks can be rebuilt from the record and its links.
+    - **Reachable:** authorized reviewers can get to it through the official record path, and the public can as disclosure rules require. Privacy, confidentiality, and security rules decide who sees what. They never justify erasing the trail or making it unusable.
+    - **Independent:** the sentient or system whose act is recorded does not control the record of that act. Its own logs, signatures, and attestations are inputs, not the record.
+  - A process may keep the record as one record or as a linked set. No duplicate record is required.
+  - **Care scales** with the materiality of the act and, for a System, its class ([Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)). A record behind a materially binding act, or behind a higher-class System, needs custody and a version trail that a reviewer can trust without taking the operator's word. A record behind a low-materiality matter may use a simpler trail, such as a plain change log. No scale removes attribution, the version trail, or the rule against editing a completed record in place, for any record a materially binding act rests on.
+  - **Out of scope:** A demand for one technical mechanism, for records that can never change, for identity exposure in every context, or for disclosure beyond what the disclosure rules require. A correction made as a visible new version is not alteration. What a given record must contain stays with its owner (for an Act Record, [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)). Evidence that is not itself a record stays with [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation).
+- **Not edited in place**
+  - **Open and completed:** While the process that keeps a record is still running, the record may be amended, and each amendment is a new version that shows what changed. The record is completed when the process enters its decision or closing entry. From then on the existing entries are not changed.
+  - **Four kinds of later version:** A later version may update the record going forward, correct it back to when it was wrong, expire it for a completed decision context, or supersede it for a new decision context. Standing records already work this way ([Chapter Ten §3.4 Versioning](core_10.000_standing_assessment.md#34-versioning)).
+  - **What a later version states:** It says what changed, who made the change, under what authority, on what verification materials, and at whose request.
+  - **Old versions stay:** The version that was relied on remains reachable, marked as corrected or superseded, with the dates it was in force. A correction does not hide the error it corrects.
+  - **New events are added, not written over:** Operating evidence, a later finding, a challenge and its result, and a later review attach to the completed record as linked entries or as a new record that links back to it.
+  - **True dates:** Each version carries the date it was made. A version is never back-dated to look as if it was there earlier.
+  - **Who may make a version:** Only the office that holds the record, acting under published authority ([Record Seat](core_05.035_band_accountability.md#record-seat); [Record Custodian](core_05.035_band_accountability.md#record-custodian)). The sentient or system whose act is recorded, and anyone in its control line, may ask for a change but cannot make it. The request is logged whether or not it is acted on.
+  - **Limits on what is shown apply to the view, not the record:** Privacy, safety, or security limits change what a reader sees. The full version is kept for authorized reviewers, and the shown version says that something is withheld and why. Where a higher rule requires material to be removed, the removal is itself recorded: what kind of material, under what authority, and when.
+  - **A challenge does not freeze or erase the record:** It stays inspectable, its prior versions stay, and its status shows that it is under challenge ([Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)).
+<a id="record-integrity-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether an official record can still be relied on by someone who is not its keeper.
+
+    **Primary assessment:** Ask whether a reviewer who is not the operator can rebuild, from the record and its links alone, what was decided, by whom, on what evidence, and what changed between versions. Check who can enter or change the record, whether a change leaves a visible trace, whether prior versions are kept and reachable, whether custody is clear, and whether the record is tamper-evident where feasible. Read the answer against the materiality of the act and, for a System, its class.
+  - **Secondary measure:** [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence), [Auditability](core_05.050_band_oversight.md#auditability), and [Contestability](core_05.035_band_accountability.md#contestability) — co-measures that expose integrity that exists on paper only.
+
+    **Secondary assessment:** Tell real integrity from paper-only integrity: a log that can be edited without trace, a version label with no kept prior version, a fingerprint or hash with no clear custody, or a record split across places so that no one can rebuild it.
+<a id="record-integrity-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** To alter in place, back-date, replace, delete, withhold, split, relabel, or make unreachable an official record or any prior version of it, so that a reviewer cannot rebuild what was decided, by whom, and on what basis; or to let the subject of an act control the record of that act.
+  - **Secondary failure:** Records exist, but their integrity is nominal: they can change without a visible trace, prior versions are not kept, authorship or custody is unclear, or they can be reached only through the subject of the act.
 
 ---
 
@@ -2238,6 +2307,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat),
   - [Record Seat](core_05.035_band_accountability.md#record-seat),
   - [Contest Seat](core_05.035_band_accountability.md#contest-seat),
+  - [Record Integrity](core_05.035_band_accountability.md#record-integrity),
   - [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation),
   - [Auditability](core_05.050_band_oversight.md#auditability), and
   - [Contestability](core_05.035_band_accountability.md#contestability).
