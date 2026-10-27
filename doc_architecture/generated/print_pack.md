@@ -333,7 +333,7 @@ Each **Materially Binding Act** must observe these same-act safeguards:
 flowchart TB
     I["Initiating seat<br/><br/>Requests, proposes, operates,<br/>claims, or begins the act"]
     V["Verify-or-authorize seat<br/><br/>Checks evidence and authority;<br/>verifies, authorizes, declines, or conditions"]
-    R["Official record-custody seat<br/><br/>Enters, versions, preserves,<br/>and publishes the Act Record"]
+    R["Official record-custody seat<br/><br/>Enters, amends, preserves,<br/>and publishes the Act Record"]
     C["Challenge-review seat<br/><br/>Receives and reviews challenges;<br/>corrects, limits, or routes"]
     I -->|act or request| V
     V -->|determination| R
@@ -352,7 +352,7 @@ flowchart TB
 
 [Chapter Seven](../../core_07.000_charters.md#chapter-seven-system-and-institutional-charters) publishes the scope and the seat map of each system and institution of Class L or higher. [Chapter Eight](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) supplies the separation-of-duties requirement that makes every act in this chain validly checkable. It requires the functions of initiation, verification or authorization, official record custody, and challenge review to be assigned and kept distinct under the applicable scaling and independence rules. Chapters Nine through Thirteen then apply that architecture in sequence:
 
-- **Chapter Nine** uses independent verification to decide whether a materially impactful system or institution is aligned within its stated scope and record span. Parts A and B govern system certification; Part D governs institutional certification, including the institution's own class, evaluation, record, and remediation outcome.
+- **Chapter Nine** uses independent verification to decide whether a materially impactful system or institution is aligned within its stated scope and record span. Parts A to C govern system certification; Part E governs institutional certification, including the institution's own class, evaluation, record, and remediation outcome.
 - **Chapter Ten** takes the verified facts and records them on separate Contribution and Violation axes. Verified contribution toward flourishing does not offset, cancel, or reduce a separately verified harm or accountability failure; each remains recorded and subject to its own consequences.
 - **Chapter Eleven** converts those classifications into proportionate standing effects, including competency clearances and recognition on the contribution track and standing locks, correction, and remedy on the violation track.
 - **Chapter Twelve** applies only after Chapter Ten has assigned a high-level violation. It decides whether the conduct independently meets the criteria for a final anti-constitutional-misconduct designation, after due-process safeguards.
@@ -372,8 +372,8 @@ The chapter summaries in Sections 4 through 9 make the division of labor explici
 flowchart TB
     H["Chapter Seven<br/><br/>System and Institutional<br/>Charters"]
     D["Chapter Eight<br/><br/>Functional independence<br/>and separation of duties"]
-    S["Chapter Nine, Parts A–B<br/><br/>System alignment certification"]
-    I["Chapter Nine, Part D<br/><br/>Institutional alignment certification"]
+    S["Chapter Nine, Parts A–C<br/><br/>System alignment certification"]
+    I["Chapter Nine, Part E<br/><br/>Institutional alignment certification"]
     subgraph Q["Chapter Ten · standing records"]
         direction LR
         E["Evidence about conduct or outcomes<br/><br/>Verified under Chapters Two–Four"]
@@ -434,7 +434,7 @@ Together, these rules turn constitutional duties into records and decisions that
 The full chain runs in the following order:
 
 1. **Separate the seats for every materially binding act** ([Chapter Eight](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)) — identify who initiates, who verifies or authorizes, who holds the official record, and who hears a challenge. Apply the prohibited combinations, independence rules, and published substitute route before treating the act as validly checked. Where a System Charter or Institutional Charter is required ([Chapter Seven](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), its Charter Role Map publishes who holds each seat.
-2. **Certify systems and institutions when impact is serious enough** — before a high-impact System is trusted at scale, obtain a contestable System Certification Record ([Chapter Nine Parts A–B](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); evaluate an Institution on its own class, conduct, governance, and portfolio under [Chapter Nine Part D](../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification) and record the result in an Institutional Certification Record.
+2. **Certify systems and institutions when impact is serious enough** — before a high-impact System is trusted at scale, obtain a contestable System Certification Record ([Chapter Nine Parts A–B](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); evaluate an Institution on its own class, conduct, governance, and portfolio under [Chapter Nine Part E](../../core_09.020_institutional_alignment_certification.md#chapter-nine-part-e-institutional-alignment-certification) and record the result in an Institutional Certification Record.
 3. **Measure standing on separate tracks** ([Chapter Ten](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)) — when help or harm is serious enough to matter constitutionally, Chapter Ten must open formal case files, admit only **verified inputs** (including system-alignment certification evidence from Chapter Nine when that evidence is material), and classify what was verified. Rumors, reputations, and dispute stories are not enough.
    - **Contribution nature:** Open a **contribution standing record** — a bounded, challengeable case file for verified help toward flourishing — and classify **contribution nature** on the Contribution Axis.
    - **Violation nature:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Help and harm never fold into one net score; linked records cross-reference but stay separate.
@@ -463,7 +463,7 @@ Each step below states what the chapter owns and what it produces, filling in th
     - other constitutional floors.
   - Sentients with standing must be able to challenge the result.
   - High-risk systems must be recertified on a regular schedule. Certification is never permanent.
-- **What it produces:** A **System Certification Record** for each system pass and an **Institutional Certification Record** for each institution pass — bounded, contestable findings on the subject's alignment within its stated scope and record span. Part D reuses the forum process without re-running system evaluation, and institutional certification is not a licence or a gate on forming or operating an institution.
+- **What it produces:** A **System Certification Record** for each system pass and an **Institutional Certification Record** for each institution pass — bounded, contestable findings on the subject's alignment within its stated scope and record span. Part E reuses the forum process without re-running system evaluation, and institutional certification is not a licence or a gate on forming or operating an institution.
 
 **Chapter Ten — [Standing measurement](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)**
 

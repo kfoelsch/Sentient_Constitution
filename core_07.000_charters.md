@@ -8,7 +8,7 @@
 > - **Constitutional owner:** when a system must publish a System Charter and when an institution must publish an Institutional Charter (required at Class L or higher, voluntary at Class P), the minimum each must state, how each changes and is reviewed, and the formation check on the standing and authenticity of the holders of covered offices.
 > - **Definition home:** [System Charter](core_05.040_band_continuity.md#system-charter), [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), [Chartered Party](core_05.040_band_continuity.md#chartered-party), and [Operating Party](core_05.050_band_oversight.md#operating-party) are defined in Chapter Five. This chapter applies them and does not redefine them.
 > - **Implementation owner:** [CI-8.205 §6](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter contents, review, and formation template*) holds the full field template, the review checklist, the formation procedure, and the formation check statement template. It may be stricter and may add fields. It may not narrow this chapter. Its text binds as incorporated implementation text only within valid adoption scope ([Chapter Eighteen §4 Adoption framing and scope of authority](core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); the requirements in this chapter bind as core text.
-> - **Downstream consumers:** [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Nine Part D tests the formation check statement for an Institution. [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) applies it to standing records. [Chapter Thirteen §4.3 Institutional Forums](core_13.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
+> - **Downstream consumers:** [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Nine Part E tests the formation check statement for an Institution. [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) applies it to standing records. [Chapter Thirteen §4.3 Institutional Forums](core_13.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
 >
 > Reading order: §1 when System and Institutional Charters are required, with the chart that maps the process → §2 the right to form and four narrow limits → §3 what they must state → §4 the Charter Role Map and standing-record custody → §5 the formation check on office-holder standing and authenticity → §6 when a holder fails the formation check → §7 amendment, review, and scope misalignment.
 
@@ -71,7 +71,7 @@ Other chapters own the definitions, the seat rules, the standing locks, and the 
   - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional);
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability).
-- Downstream: [§3](#3-what-system-and-institutional-charters-must-state); [Chapter Nine Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) (*class and certification depth*); [Chapter Nine Part D §12.1 Institution class](core_09.015_institutional_alignment_certification.md#121-institution-class) (9.015 §12.1) (*the class of an Institution*); **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*) for the class catalog.
+- Downstream: [§3](#3-what-system-and-institutional-charters-must-state); [Chapter Nine Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) (*class and certification depth*); [Chapter Nine Part E §12.1 Institution class](core_09.020_institutional_alignment_certification.md#121-institution-class) (9.020 §12.1) (*the class of an Institution*); **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*) for the class catalog.
 - Read with:
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*);
   - **CF-13.415 §5** (*Institutional and local registrars*);
@@ -131,7 +131,7 @@ The class of the Chartered Party decides whether publishing is required or a cho
 
 - **Classes A, B, C, and L:** required. The chart in [§1.7 The process at a glance](#17-the-process-at-a-glance) shows the process they follow.
 - **Class P:** a choice, until one of two events makes it required. [§1.3 What Class P is](#13-what-class-p-is) says what makes an Operating Party Class P, and [§1.4 Class P: optional charters, and when they become required](#14-class-p-optional-charters-and-when-they-become-required) sets out the choice and when it ends.
-- **Class of an Institution:** An Institution takes the highest class of any System it operates, stewards, or materially controls. An Institution that runs no such System is classified by its own material impact and dependency, judged by what it actually decides and holds and not by its label or legal form, under [Chapter Nine Part D §12.1 Institution class](core_09.015_institutional_alignment_certification.md#121-institution-class).
+- **Class of an Institution:** An Institution takes the highest class of any System it operates, stewards, or materially controls. An Institution that runs no such System is classified by its own material impact and dependency, judged by what it actually decides and holds and not by its label or legal form, under [Chapter Nine Part E §12.1 Institution class](core_09.020_institutional_alignment_certification.md#121-institution-class).
 
 <a id="13-what-class-p-is"></a>
 #### 1.3 What Class P is
@@ -170,7 +170,7 @@ A covered System or Institution publishes its [System Charter](core_05.040_band_
 
 - **A new System or Institution:** before it goes live or begins to exercise authority over others.
 - **One that already operates:** at its next classification review or certification, or within the resolution window after a request under [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing), whichever comes first. It is in default until it does.
-  - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Nine Part D §11.3 No permission and no gate](core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate), whose first-certification window is never a condition of publishing the Institutional Charter or of operating.
+  - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Nine Part E §11.3 No permission and no gate](core_09.020_institutional_alignment_certification.md#113-no-permission-and-no-gate), whose first-certification window is never a condition of publishing the Institutional Charter or of operating.
 - **The formation check:** It also completes the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) at the same moment.
 - **Where it is lodged:** It lodges the System Charter or Institutional Charter, with its Charter Role Map and formation check statement, with the Institutional registrar, or with the local registrar where its activity and the sentients it affects are local (**CF-13.415 §5** (*Institutional and local registrars*)):
   - **What the registrar does:** It checks that nothing required is missing and gives a dated receipt.
@@ -203,7 +203,7 @@ The windows work like this:
   - **What review-worthy means:** A challenge is review-worthy when it names a specific crossing in a named domain and the Operating Party's written showing leaves a real question about that crossing. The Operating Party does not judge this for itself, and a response that gives no written showing does not extend the date.
   - **If a class is found:** On that challenge or on any other, the date of the finding counts as the date of a request: the response window and the resolution window run from it, at the Tier of the class found (Class A, B, C, or L).
 - **If it is missed:** No response, or no System Charter or Institutional Charter by the due date, is a defect to log and correct. The asker may take it to the forum with jurisdiction on the same route. It is never a condition of forming or operating.
-- **A repeat request:** A second request about the same Chartered Party, made while its earlier response or a finding on it still stands, starts no new response or resolution window. The Chartered Party answers by pointing to that response or finding. Its own showing that it is below every line, not yet reviewed by the forum, does not count as a response that stands. The response or finding stands until one of these happens, as the reopening triggers in [Chapter Nine Part D §14.2 Reopening triggers](core_09.015_institutional_alignment_certification.md#142-reopening-triggers) describe:
+- **A repeat request:** A second request about the same Chartered Party, made while its earlier response or a finding on it still stands, starts no new response or resolution window. The Chartered Party answers by pointing to that response or finding. Its own showing that it is below every line, not yet reviewed by the forum, does not count as a response that stands. The response or finding stands until one of these happens, as the reopening triggers in [Chapter Nine Part E §14.2 Reopening triggers](core_09.020_institutional_alignment_certification.md#142-reopening-triggers) describe:
   - **A material change:** The Chartered Party's activity changes materially.
   - **New evidence:** New evidence about a crossing is shown.
 
@@ -372,7 +372,7 @@ The fourth limit works on a named act, not on forming an Operating Party:
 - Downstream:
   - [§4](#4-the-charter-role-map-and-standing-record-custody);
   - [§7](#7-amendment-review-and-scope-misalignment);
-  - [Chapter Nine Part B §8.1 Minimum record contents](core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*the System Charter fields a certification record relies on*);
+  - [Chapter Nine Part C §8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents) (9.010 §8.1) (*the System Charter fields a certification record relies on*);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) for the full field list.
 - Read with:
   - [Chapter Eighteen §4 Adoption framing and scope of authority](core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*a scope document kept under another name*);
@@ -666,7 +666,7 @@ The same clock applies to certification seats. If the map does not name who star
   - [§6.2 Competency bars and clearances](core_11.000_standing_integration.md#62-competency-bars-and-clearances).
 - Downstream:
   - [§6 When a Holder Fails the Formation Check](#6-when-a-holder-fails-the-formation-check);
-  - [Chapter Nine Part D §12.2 Institutional evaluation, always](core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.015 §12.2) (item 7, *the forums test the statement*);
+  - [Chapter Nine Part E §12.2 Institutional evaluation, always](core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.020 §12.2) (item 7, *the forums test the statement*);
   - [Chapter Nine Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) (9.000 §3.1);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) for the statement template.
 - Read with:
@@ -712,7 +712,7 @@ Only verified standing records count, and only through the [Verified Inputs for 
 <a id="53-authenticity-check"></a>
 #### 5.3 Authenticity check
 
-A covered office is **authentic** when its holder holds it in their own right and for the purpose its System Charter or Institutional Charter states, and not as a front, a nominee, or a proxy for a purpose that document does not state. The Chartered Party finds this from evidence on four things. A forum later tests the same four ([Chapter Nine Part D §12.2 Institutional evaluation, always](core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7).
+A covered office is **authentic** when its holder holds it in their own right and for the purpose its System Charter or Institutional Charter states, and not as a front, a nominee, or a proxy for a purpose that document does not state. The Chartered Party finds this from evidence on four things. A forum later tests the same four ([Chapter Nine Part E §12.2 Institutional evaluation, always](core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7).
 
 - **Control:** who can instruct, fund, replace, or reward the holder, inside or outside the published authority. A holder who acts on the instruction of an undisclosed party, or whose seat is held for another, is not authentic. Opaque routes of beneficial control are system capture ([Chapter One §19.4 Misalignment Correction and Capture Response](core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
 - **Interests and rewards:** what the holder gains from the office and how it is paid.
@@ -784,7 +784,7 @@ A holder may be identified by office and dated Role Map version where naming wou
   - Where a Chartered Party is small and no independent seat is yet in place, the statement is a declaration with its evidence, and it is verified at the Chartered Party's first certification.
   - Being unverified for that interval is never a bar to forming or operating.
 - **False statement:**
-  - A statement that is false, or that hides who controls a covered office, is concealment and fraudulent evidence for the certification record and for the standing bridge ([Chapter Nine Part D §15 Standing Bridge and Non-Evasion](core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Chapter Nine Part B §10 Relationship to Standing](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)).
+  - A statement that is false, or that hides who controls a covered office, is concealment and fraudulent evidence for the certification record and for the standing bridge ([Chapter Nine Part E §15 Standing Bridge and Non-Evasion](core_09.020_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Chapter Nine Part C §10 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing)).
   - Where a sentient knowingly made the statement, signed it, or caused it to be made, and the falsity is material and verified, it is also a ground for the Institutional Authority Standing Lock on that sentient ([Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks)), whether or not it hides control. The lock attaches to the sentient who made or caused the statement, and not to the Chartered Party or to a holder who did not.
   - A statement that is wrong without the sentient's knowledge is not that ground. It is a defect to correct under [§6 When a Holder Fails the Formation Check](#6-when-a-holder-fails-the-formation-check).
 
@@ -842,7 +842,7 @@ The formation check is kept in proportion to what it protects:
   - [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
   - [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
 - Downstream:
-  - [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.015 §13.5);
+  - [Chapter Nine Part E §13.5 Remediation readiness, denial, and revocation for an Institution](core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.020 §13.5);
   - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - **CI-11.210** (*Institutional failure and dissolution*);
   - **CI-11.215** (*Institutional accountability and sanctions*);
@@ -972,7 +972,7 @@ A holder who receives an adverse finding is protected as follows:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-what-system-and-institutional-charters-must-state); [Chapter One §18.4 Ongoing Justification](core_01.010_stewardship_capacity_principles.md#184-ongoing-justification) (1.010 §18.4).
-- Downstream: [Chapter Nine Part B §9 Recertification and Reopening](core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.005 §9) (*System Charter amendment and mismatch as reopening triggers*); [Chapter Thirteen §4.3 Institutional Forums](core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
+- Downstream: [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (9.010 §9) (*System Charter amendment and mismatch as reopening triggers*); [Chapter Thirteen §4.3 Institutional Forums](core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
 - Read with: [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity); **CI-8.205 §1** (*Non-delegable governing duties*); **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*).
 
 </details>
@@ -1053,7 +1053,7 @@ When a System Charter or Institutional Charter and what the Chartered Party actu
 
 - **Ways to close it:** Amend the document, fix the practice (remediation), recertify, or cut back the scope to fit the document.
 - **Ways that do not count:** Quietly widening the scope, or leaving the paper as it is.
-- **Certification review:** A material mismatch also sets off a new forum review of that System's or Institution's certification. The review does not wait for the next scheduled one. For a System, see [Chapter Nine Part B §9 Recertification and Reopening](core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening). For an Institution, see [Chapter Nine Part D §14.2 Reopening triggers](core_09.015_institutional_alignment_certification.md#142-reopening-triggers). Certification reads the stated scope and compares it with the real boundaries. It does not rewrite the document, and an institutional certification cites each included System Certification Record without redoing it ([Chapter Nine Part D](core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
+- **Certification review:** A material mismatch also sets off a new forum review of that System's or Institution's certification. The review does not wait for the next scheduled one. For a System, see [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening). For an Institution, see [Chapter Nine Part E §14.2 Reopening triggers](core_09.020_institutional_alignment_certification.md#142-reopening-triggers). Certification reads the stated scope and compares it with the real boundaries. It does not rewrite the document, and an institutional certification cites each included System Certification Record without redoing it ([Chapter Nine Part E](core_09.020_institutional_alignment_certification.md#chapter-nine-part-e-institutional-alignment-certification)).
 - **Where a dispute goes:** Institutional Forums hear disputes about Institutional Charter scope, Institutional Charter amendment authority, a mismatch between an Institutional Charter and behavior, and operation outside chartered scope ([Chapter Thirteen §4.3 Institutional Forums](core_13.000_forum.md#43-institutional-forums)).
 
 <a id="76-keeping-old-versions"></a>

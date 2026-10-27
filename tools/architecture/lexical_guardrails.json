@@ -103,6 +103,10 @@
       "prefer": "jurisdiction (a forum family's scope under Chapter Thirteen); decision-making authority for what a role may decide; merits forum and merits decision are not banned"
     },
     {
+      "avoid": "versions (as a verb, in a list of record duties)",
+      "prefer": "amends (the office that makes each new Record Version) or tracks versions of (custody that keeps a version history); the plural noun, as in prior versions or Record Versions, is not banned"
+    },
+    {
       "avoid": "disinterested",
       "prefer": "independent (defined in Chapter Five, Independence), usually independent of the party or act; impartial only when the sense is unbiased"
     },

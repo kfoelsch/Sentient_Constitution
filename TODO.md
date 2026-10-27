@@ -19,7 +19,7 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - **Ch 6:** [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md) through [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md)
 - **Ch 7:** [core_07.000_charters.md](core_07.000_charters.md)
 - **Ch 8:** [core_08.000_functional_independence_separation_of_duties.md](core_08.000_functional_independence_separation_of_duties.md)
-- **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_illustrations.md](core_09.010_system_alignment_certification_illustrations.md); Part D [core_09.015_institutional_alignment_certification.md](core_09.015_institutional_alignment_certification.md)
+- **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md); Part D [core_09.015_system_alignment_certification_illustrations.md](core_09.015_system_alignment_certification_illustrations.md); Part E [core_09.020_institutional_alignment_certification.md](core_09.020_institutional_alignment_certification.md)
 - **Ch 10:** [core_10.000_standing_assessment.md](core_10.000_standing_assessment.md)
 - **Ch 11:** [core_11.000_standing_integration.md](core_11.000_standing_integration.md)
 - **Ch 12:** Part A [core_12.000_misconduct_designation.md](core_12.000_misconduct_designation.md); Part B [core_12.005_misconduct_pattern_applications.md](core_12.005_misconduct_pattern_applications.md)
@@ -63,7 +63,7 @@ Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md]
 - [ ] Complete announcement adoption and contest steps after the heightened review; fixes were not independently re-reviewed.
 - [ ] Sync translations for the edited passages after wording settles.
 
-### Chapter Nine Part D — open follow-ups
+### Chapter Nine Part E — open follow-ups
 
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 - [ ] Sync translations after wording settles.
@@ -89,7 +89,7 @@ The signoffs and lifted-hold reference are in [TODO_RESOLVED_2026-10-19.md](arch
 
 The completed Option A review and process definitions are in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 
-- [ ] Draft the Lane D core proposal for Chapter Nine Part B §8.1 and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise.
+- [ ] Draft the Lane D core proposal for Chapter Nine Part C §8.1 and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise.
 - [ ] Connect the process-ownership draft's floor-touching test and certification terminology to the Option B guardrail and naming decision.
 
 ### Process, system, and institution — potential follow-ups
