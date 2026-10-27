@@ -52,6 +52,16 @@ _DISINTERESTED_WORD = re.compile(r"(?<![A-Za-z0-9-])disinterested(?![A-Za-z0-9-]
 # authority** for what a role may decide. Related words (merits forum, merits decision) are not banned. Enforced on the same files as the instrument ban.
 _MERITS_AUTHORITY_PHRASE = re.compile(r"(?<![A-Za-z0-9-])merits[ -]authorit(?:y|ies)(?![A-Za-z0-9-])", re.IGNORECASE)
 
+# Ban **versions** used as a verb (custodian decision, 2026-10-27). In a list of record duties ("enters, versions, preserves, and publishes") it hides what
+# is done. Say **amends** for the office that makes each new Record Version (Chapter Nine Part B §8), or **tracks versions of** for custody that keeps a version history. The plural noun (prior versions,
+# Record Versions) is fine. The rule catches "versions" sitting in a list of record verbs, which is how the verb shows up. Enforced on the same files as the
+# instrument ban.
+_RECORD_VERBS = r"(?:enters|opens|keeps|holds|files|stores|receives|preserves|publishes|honors)"
+_VERSIONS_VERB = re.compile(
+    r"(?<![A-Za-z0-9-])(?:" + _RECORD_VERBS + r"(?:,\s*(?:and\s+)?|\s+and\s+)versions|versions(?:,\s*(?:and\s+)?|\s+and\s+)" + _RECORD_VERBS + r")(?![A-Za-z0-9-])",
+    re.IGNORECASE,
+)
+
 # Ban **four-seat floor** and **four-seat constitutional floor** (custodian decision, 2026-10-22). The Chapter Eight section is the **Four-Seat
 # Constitutional Requirement** (short form **Four-Seat Requirement**); "floor" is reserved for the Chapter Six **Rights Floor** so the two cannot be confused.
 # Enforced on the same files as the instrument ban.
@@ -611,6 +621,18 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: 'merits authority' / 'merits authorities' was not flagged, or 'jurisdiction', 'merits forum', a link target, code, or an id was flagged wrongly.",
         )
+    versions_verb_findings = scan_avoid_versions_verb(
+        "internal-regression.md",
+        "The office that opens, enters, versions, preserves, and publishes the record.\n"
+        "The custodian enters, keeps, and versions a Standing Record.\n"
+        "The office opens, enters, amends, preserves, and publishes the record, and prior versions stay.\n"
+        "A custodian who keeps entering versions on the view that the conflict is only formal.\n"
+        "See [the record](core_05.035_enters-versions-holds.md) and `enters, versions, holds` in code.\n",
+    )
+    if len(versions_verb_findings) != 2:
+        raise RuntimeError(
+            "Internal regression failed: 'versions' as a verb in a list of record duties was not flagged, or 'amends', the plural noun, a link target, or code was flagged wrongly.",
+        )
     four_seat_findings = scan_avoid_four_seat_floor(
         "internal-regression.md",
         "The four-seat floor applies here.\n"
@@ -1096,6 +1118,34 @@ def scan_avoid_merits_authority(rel_path: str, text: str) -> list[Finding]:
                     file=rel_path,
                     line=idx,
                     rule="avoid-merits-authority",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def scan_avoid_versions_verb(rel_path: str, text: str) -> list[Finding]:
+    """Reject **versions** used as a verb in a list of record duties (say **amends** or **tracks versions of**; the plural noun is fine)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        prose = re.sub(r"`[^`]*`", "", raw)
+        prose = re.sub(r"\]\([^)]*\)", "]", prose)  # link targets
+        prose = re.sub(r'id="[^"]*"', "", prose)
+        prose = re.sub(r"\*\*|__", "", prose)
+        if _VERSIONS_VERB.search(prose):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-versions-verb",
                     text=raw.strip(),
                 ),
             )
@@ -1693,6 +1743,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-segregation`:** reject **segregation** / **segregate** / **segregated** / **segregating** → the seat rule is **separation of duties**; for holding things apart say **separate holding** (funds, weights, keys), **isolation** (information, data), or **separation**. *Enforced on the same files as `avoid-instrument`.*",
         "- **`avoid-disinterested`:** reject **disinterested** → say **independent** (defined in Chapter Five, *Independence*: outside the Material Control Line of the party whose act is at issue and of every Interested Party), usually **independent of** the party or act; use **impartial** only when the sense is unbiased. *Enforced on the same files as `avoid-instrument`.*",
         "- **`avoid-merits-authority`:** reject **merits authority** / **merits authorities** → say **jurisdiction** (a forum family's scope under Chapter Thirteen) or **decision-making authority** (what a role may decide). Related words such as *merits forum* and *merits decision* are not banned. *Enforced on the same files as `avoid-instrument`.*",
+        "- **`avoid-versions-verb`:** reject **versions** used as a verb in a list of record duties (*enters, versions, preserves*) → say **amends** (the office that makes each new Record Version, Chapter Nine Part B §8) or **tracks versions of** (custody that keeps a version history). The plural noun (*prior versions*, *Record Versions*) is not banned. *Enforced on the same files as `avoid-instrument`.*\n"
         "- **`avoid-four-seat-floor`:** reject **four-seat floor** / **four-seat constitutional floor** → say **Four-Seat Constitutional Requirement** (Chapter Eight §2) or **Four-Seat Requirement** for the short form; \"floor\" is reserved for the Chapter Six **Rights Floor**. *Enforced on the same files as the instrument ban.*",
         "- **`avoid-verifier`:** reject **verifier** / **verifiers** → say **verifying authority** (a body or sentient that verifies, authorizes, or decides is an authority; TERM-BODY-01 in `doc_architecture.md`). *Enforced on the same files as `avoid-instrument`, except `evaluation/` and `project/`.*",
         "- **`avoid-exculpatory-family`:** reject **exculpatory** / **inculpatory** → say what the material shows: that a sentient is not at fault, is less at fault, or is at fault. *Enforced on the same files as `avoid-cure-family`; write the words in backticks when a record must quote them.*",
@@ -1805,6 +1856,7 @@ def main() -> int:
             findings.extend(scan_avoid_segregation(rel_path, text))
             findings.extend(scan_avoid_disinterested(rel_path, text))
             findings.extend(scan_avoid_merits_authority(rel_path, text))
+            findings.extend(scan_avoid_versions_verb(rel_path, text))
             findings.extend(scan_avoid_four_seat_floor(rel_path, text))
         if _in_verifier_scope(rel_path):
             findings.extend(scan_avoid_verifier(rel_path, text))
@@ -1820,6 +1872,7 @@ def main() -> int:
                 findings.extend(scan_avoid_segregation(rel_path, load_text(extra)))
                 findings.extend(scan_avoid_disinterested(rel_path, load_text(extra)))
                 findings.extend(scan_avoid_merits_authority(rel_path, load_text(extra)))
+                findings.extend(scan_avoid_versions_verb(rel_path, load_text(extra)))
                 findings.extend(scan_avoid_four_seat_floor(rel_path, load_text(extra)))
                 if _in_verifier_scope(rel_path):
                     findings.extend(scan_avoid_verifier(rel_path, load_text(extra)))

@@ -192,7 +192,7 @@ Every materially binding act has four functionally distinct seats. Chapter Five 
 
 1. **[Initiating Seat](core_05.035_band_accountability.md#initiating-seat)** — requests, proposes, operates, claims, or otherwise begins the act.
 2. **[Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat)** — checks the evidence and authority against the governing standard and verifies, authorizes, declines, or conditions the act.
-3. **[Record Seat](core_05.035_band_accountability.md#record-seat)** — enters, versions, holds, preserves, and publishes the [Act Record](core_05.035_band_accountability.md#materially-binding-act-record) of what the Verify-or-Authorize Seat determined.
+3. **[Record Seat](core_05.035_band_accountability.md#record-seat)** — enters, amends, holds, preserves, and publishes the [Act Record](core_05.035_band_accountability.md#materially-binding-act-record) of what the Verify-or-Authorize Seat determined.
 4. **[Contest Seat](core_05.035_band_accountability.md#contest-seat)** — receives and reviews a challenge, orders correction or limits where authorized, and routes any issue outside its authority.
 
 These seats apply to human and AI stewards alike. If a system carries out an act, signs off on it, and then uses its own log as the proof, it is sitting in the initiating, verifying, and record seats at once. Automating the process doesn't make the check independent.

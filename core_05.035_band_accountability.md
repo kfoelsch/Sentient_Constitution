@@ -535,7 +535,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
   - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6);
   - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) and
-  - [Chapter Nine Part B §8](core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (9.005 §8) where attribution capability is materially required.
+  - [Chapter Nine Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (9.010 §8) where attribution capability is materially required.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity),
@@ -580,7 +580,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Downstream: Principles:
   - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
   - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4);
-  - [Chapter Nine Part B §8](core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (9.005 §8); and **
+  - [Chapter Nine Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (9.010 §8); and **
   - [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** where attributable action or audit-level responsibility is materially implicated.
 - Read with:
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action),
@@ -627,7 +627,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the act makes its own record*);
   - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
   - [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) (8.000 §8);
-  - [Chapter Nine Part B §8](core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (9.005 §8);
+  - [Chapter Nine Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (9.010 §8);
   - [Chapter Ten §3.4 Versioning](core_10.000_standing_assessment.md#34-versioning) (10.000 §3.4) and [§3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7); and
   - [Chapter Thirteen §2.3 Forum case records, standing records, and contests](core_13.000_forum.md#23-forum-case-records-standing-records-and-contests) (13.000 §2.3).
 - Read with:
@@ -1107,7 +1107,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) (7.000 §5) (*covered offices, standing and authenticity checks, and staff safeguards*).
-- Forum test: [Chapter Nine Part D §12.2 Institutional evaluation, always](core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (item 7).
+- Forum test: [Chapter Nine Part E §12.2 Institutional evaluation, always](core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always) (item 7).
 - Read with: [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*), [Material Control Line](core_05.035_band_accountability.md#material-control-line), and [Interim Hold](core_05.035_band_accountability.md#interim-hold).
 
 </details>
@@ -1123,7 +1123,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **How to measure and assess**
   - **Primary measure:** Accountability and Oversight measurement families, scaled to the office's material authority and the Chartered Party's class.
 
-    **Primary assessment:** Apply Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity using verified records. Check the standing limb against locks, any applicable Interim Hold, competency requirements, and disclosed conflicts; check authenticity from control, interests and rewards, conduct, and protected voice. Chapter Nine Part D tests the published statement against observed operation.
+    **Primary assessment:** Apply Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity using verified records. Check the standing limb against locks, any applicable Interim Hold, competency requirements, and disclosed conflicts; check authenticity from control, interests and rewards, conduct, and protected voice. Chapter Nine Part E tests the published statement against observed operation.
 <a id="formation-check-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to accept an unsupported attestation, use protected belief or association as a finding, treat the check as a gate on forming or operating an institution, or label the check complete when the published evidence does not support it.
@@ -1303,7 +1303,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Part D §13.5](core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (institutions).
+- Canonical owner: [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Part E §13.5](core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (institutions).
 - Forum routing: [Chapter Thirteen §4.5 Constitutional alignment certification and validation](core_13.000_forum.md#45-integrity-forums) and [§5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification).
 - Read with: [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Proportionality](core_05.035_band_accountability.md#proportionality), and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution).
 
@@ -1696,7 +1696,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 - [Interested Party](core_05.035_band_accountability.md#interested-party) — for a particular matter, a sentient, institution, or system with a material stake in the outcome, and anyone, or any system, acting for it or inside its Material Control Line.
 - [Initiating Seat](core_05.035_band_accountability.md#initiating-seat) — the role that requests, proposes, operates, claims, or otherwise begins a particular act.
 - [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat) — the role that checks evidence and authority against the governing standard and determines whether the act may proceed.
-- [Record Seat](core_05.035_band_accountability.md#record-seat) — the role that enters, versions, holds, preserves, and publishes the official record of the determination.
+- [Record Seat](core_05.035_band_accountability.md#record-seat) — the role that enters, amends, holds, preserves, and publishes the official record of the determination.
 - [Contest Seat](core_05.035_band_accountability.md#contest-seat) — the role that receives and reviews a challenge, orders correction or limits where authorized, and routes issues outside its authority.
 - [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act) — an attributable act under constitutional, adopted, or delegated authority that materially creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state, and that others must follow or may rely on as settled.
 - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) — the attributable, versioned official record for a materially binding act; short form: **Act Record**.
@@ -2163,7 +2163,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 
 <br>
 
-*In plain terms: the Record Custodian is the body that enters, keeps, and versions a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.*
+*In plain terms: the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.*
 
 - **What it is**
   - **In scope:** The body that holds the [Record Seat](core_05.035_band_accountability.md#record-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the record's continuity. It may be placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), be a substitute holder for one record, or be the Backup Record Custodian (**CF-13.415 §9** (*Backup Record Custodian*)).
@@ -4187,7 +4187,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks).
-- Formation and institutional certification interfaces: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) and [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution).
+- Formation and institutional certification interfaces: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) and [Chapter Nine Part E §13.5 Remediation readiness, denial, and revocation for an Institution](core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution).
 - Read with: [Standing Lock](core_05.035_band_accountability.md#standing-lock), [Interim Hold](core_05.035_band_accountability.md#interim-hold), and [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 
 </details>

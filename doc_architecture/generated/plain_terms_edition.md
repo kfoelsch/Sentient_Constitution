@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **727** of **1142** headings carry a gloss (64%).
+Coverage: **728** of **1143** headings carry a gloss (64%).
 
 ## Contents
 
@@ -33,9 +33,10 @@ Coverage: **727** of **1142** headings carry a gloss (64%).
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
-- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.005_system_alignment_certification_record_process.md` (15/53 glossed)
-- [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09.010_system_alignment_certification_illustrations.md` (10/11 glossed)
-- [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/23 glossed)
+- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (9/35 glossed)
+- [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (7/19 glossed)
+- [CHAPTER NINE, PART D: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-d-system-alignment-certification--illustrations) — `core_09.015_system_alignment_certification_illustrations.md` (10/11 glossed)
+- [CHAPTER NINE, PART E: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-e-institutional-alignment-certification) — `core_09.020_institutional_alignment_certification.md` (8/23 glossed)
 - [CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-ten-contribution-violation-and-standing-model--measurement) — `core_10.000_standing_assessment.md` (13/33 glossed)
 - [CHAPTER ELEVEN: STANDING EFFECTS AND INTEGRATION](#chapter-eleven-standing-effects-and-integration) — `core_11.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER TWELVE, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-twelve-part-a-anti-constitutional-misconduct--designation) — `core_12.000_misconduct_designation.md` (8/8 glossed)
@@ -1519,7 +1520,7 @@ the Record Seat is the role that makes and keeps the official record of what the
 
 ##### Record Custodian
 
-the Record Custodian is the body that enters, keeps, and versions a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.
+the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.
 
 [Source](../../core_05.035_band_accountability.md#record-custodian)
 
@@ -3783,7 +3784,7 @@ classify the system honestly, run the evaluations that apply, have forums indepe
 
 #### 2. System Class Evaluation
 
-certification has to check whether the system is classified honestly — not by what the operator calls it, but by what it actually does, what depends on it, and what could go wrong. Higher system classes mean stricter proof, faster re-checks, and stronger resilience expectations. See [Part C — Illustrations](../../core_09.010_system_alignment_certification_illustrations.md#chapter-nine-part-c-system-alignment-certification--illustrations) for one example system per system class and how evaluation applies to each of them.
+certification has to check whether the system is classified honestly — not by what the operator calls it, but by what it actually does, what depends on it, and what could go wrong. Higher system classes mean stricter proof, faster re-checks, and stronger resilience expectations. See [Part D — Illustrations](../../core_09.015_system_alignment_certification_illustrations.md#chapter-nine-part-d-system-alignment-certification--illustrations) for one example system per system class and how evaluation applies to each of them.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)
 
@@ -3927,7 +3928,7 @@ some systems have a big effect on whether sentients get their basic protections 
 
 ##### 5.1 Ecological Footprint Evaluation
 
-if a system does real damage to the environment, certification has to look at that damage honestly — including damage that happens through its suppliers and through what happens after sentients use it. Reviewers can't just take the operator's word that the system is "green." This section doesn't explain how to measure a footprint or how much it must shrink; other documents cover that. It only requires that, where the damage is significant, someone actually worked out how much of it belongs to this system, disclosed it, and compared it to alternatives. Worked examples: [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive).
+if a system does real damage to the environment, certification has to look at that damage honestly — including damage that happens through its suppliers and through what happens after sentients use it. Reviewers can't just take the operator's word that the system is "green." This section doesn't explain how to measure a footprint or how much it must shrink; other documents cover that. It only requires that, where the damage is significant, someone actually worked out how much of it belongs to this system, disclosed it, and compared it to alternatives. Worked examples: [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation)
 
@@ -3957,7 +3958,7 @@ if a system does real damage to the environment, certification has to look at th
 
 ##### 5.2 Educational Capability and Learning-System Integrity Evaluation
 
-some schools, platforms, and training systems can shape a sentient's future through grades, rankings, recommendations, placement, or credentials that open or close doors. Where that is true, certification has to check three things: whether sentients can actually build real skills there, whether they can retrain when the skills the world needs change, and whether they can see how decisions about them are made, check those decisions, and push back on them. This section doesn't say what to teach, how to grade, or how to pay for it; other documents cover that. It only checks that skill-building and the fairness of the learning system were actually looked at when this section applies. Worked examples: [§5.2.4 Illustrative educational-capability application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive).
+some schools, platforms, and training systems can shape a sentient's future through grades, rankings, recommendations, placement, or credentials that open or close doors. Where that is true, certification has to check three things: whether sentients can actually build real skills there, whether they can retrain when the skills the world needs change, and whether they can see how decisions about them are made, check those decisions, and push back on them. This section doesn't say what to teach, how to grade, or how to pay for it; other documents cover that. It only checks that skill-building and the fairness of the learning system were actually looked at when this section applies. Worked examples: [§5.2.4 Illustrative educational-capability application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation)
 
@@ -3981,7 +3982,7 @@ some schools, platforms, and training systems can shape a sentient's future thro
 
 ##### 5.3 Proportionate Cross-System Support Evaluation
 
-some systems depend on shared foundations — infrastructure, services, and resources that many other systems and sentients rely on. When a system draws heavily on those foundations, certification has to check what it takes — resources, goods, services, labor, information, or money — and whether it puts enough back to keep them going, and whether the records show that clearly enough for anyone to trace. The operator's word that "the books balance" is not enough. This section doesn't set allocation formulas or numeric targets; other documents do that. It checks that the system's dependencies, what it takes, what it gives back, and whether the arrangement is fair to others were actually evaluated when this section applies. Worked examples: [§5.3.7 Illustrative cross-system support application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive).
+some systems depend on shared foundations — infrastructure, services, and resources that many other systems and sentients rely on. When a system draws heavily on those foundations, certification has to check what it takes — resources, goods, services, labor, information, or money — and whether it puts enough back to keep them going, and whether the records show that clearly enough for anyone to trace. The operator's word that "the books balance" is not enough. This section doesn't set allocation formulas or numeric targets; other documents do that. It checks that the system's dependencies, what it takes, what it gives back, and whether the arrangement is fair to others were actually evaluated when this section applies. Worked examples: [§5.3.7 Illustrative cross-system support application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)
 
@@ -4023,7 +4024,7 @@ some systems depend on shared foundations — infrastructure, services, and reso
 
 ##### 5.4 Nondiscrimination Evaluation
 
-some systems decide who gets in. Some decide who pays more. Some decide who ranks lower or carries the heavier burden. When a system makes decisions like these in a way that matters, certification asks one question. Does the harm fall mostly on sentients with protected characteristics, or on traits that stand in for them? An operator saying its rules are neutral does not answer that question. Worked examples: [§5.4.4 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).
+some systems decide who gets in. Some decide who pays more. Some decide who ranks lower or carries the heavier burden. When a system makes decisions like these in a way that matters, certification asks one question. Does the harm fall mostly on sentients with protected characteristics, or on traits that stand in for them? An operator saying its rules are neutral does not answer that question. Worked examples: [§5.4.4 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)
 
@@ -4047,7 +4048,7 @@ this chapter does not set inclusion quotas. It does not pick a fairness formula.
 
 ##### 5.5 Accessibility Evaluation
 
-when a system materially controls whether sentients can actually take part — not just whether a door is labeled "open" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other documents, later corpus additions, or adoption documents; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples: [§5.5.5 Illustrative accessibility application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#555-illustrative-accessibility-application-by-system-class-non-exhaustive).
+when a system materially controls whether sentients can actually take part — not just whether a door is labeled "open" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other documents, later corpus additions, or adoption documents; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples: [§5.5.5 Illustrative accessibility application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#555-illustrative-accessibility-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation)
 
@@ -4077,7 +4078,7 @@ when a system materially controls whether sentients can actually take part — n
 
 ##### 5.6 Trustworthiness and System-Reliance Integrity Evaluation
 
-when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other documents; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples: [§5.6.4 Illustrative trustworthiness application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#564-illustrative-trustworthiness-application-by-system-class-non-exhaustive).
+when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other documents; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples: [§5.6.4 Illustrative trustworthiness application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#564-illustrative-trustworthiness-application-by-system-class-non-exhaustive).
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation)
 
@@ -4099,9 +4100,9 @@ when a system materially affects whether sentients can trust what it says and do
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#563-defects-and-misalignment)
 
-## CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
+## CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES
 
-Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 15/53 headings glossed
+Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 9/35 headings glossed
 
 #### 6. Forum Process
 
@@ -4307,313 +4308,317 @@ denial and revocation are real outcomes and not threats. If a system is not yet 
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#746-not-a-permanent-bar)
 
+## CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING
+
+Source file: [`core_09.010_system_alignment_certification_record_recertification.md`](../../core_09.010_system_alignment_certification_record_recertification.md) · 7/19 headings glossed
+
 #### 8. System Certification Record
 
-a certification record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.
+a certification record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)
 
 ##### 8.1 Minimum record contents
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents)
 
 ###### 8.1.1 System identity, scope, and prior record
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#811-system-identity-scope-and-prior-record)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#811-system-identity-scope-and-prior-record)
 
 ###### 8.1.2 Classification and whole-system findings
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#812-classification-and-whole-system-findings)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#812-classification-and-whole-system-findings)
 
 ###### 8.1.3 System Data Types Record
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#813-system-data-types-record)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#813-system-data-types-record)
 
 ###### 8.1.4 Rights-Floor and domain findings
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#814-rights-floor-and-domain-findings)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#814-rights-floor-and-domain-findings)
 
 ###### 8.1.5 Technical evidence and review findings
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#815-technical-evidence-and-review-findings)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#815-technical-evidence-and-review-findings)
 
 ###### 8.1.6 Supervision, independence, and challenge paths
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#816-supervision-independence-and-challenge-paths)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#816-supervision-independence-and-challenge-paths)
 
 ###### 8.1.7 Concerns, cause, and remediation readiness
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#817-concerns-cause-and-remediation-readiness)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#817-concerns-cause-and-remediation-readiness)
 
 ###### 8.1.8 Outcome, reliance limits, and operating plan
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#818-outcome-reliance-limits-and-operating-plan)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#818-outcome-reliance-limits-and-operating-plan)
 
 ###### 8.1.9 Completeness
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#819-completeness)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#819-completeness)
 
 ##### 8.2 Transparency and auditability of the record
 
-a certification record only works if sentients can read it and check it. This section puts transparency and auditability on the record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§9.1 Challenging a Certification](../../core_09.005_system_alignment_certification_record_process.md#91-challenging-a-certification).
+a certification record only works if sentients can read it and check it. This section puts transparency and auditability on the record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§9.1 Challenging a Certification](../../core_09.010_system_alignment_certification_record_recertification.md#91-challenging-a-certification).
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#82-transparency-and-auditability-of-the-record)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#82-transparency-and-auditability-of-the-record)
 
 #### 9. Recertification and Reopening
 
 no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the conditions on the record. A certified system is checked again on schedule. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last, and a new record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening)
 
 ##### 9.1 Challenging a Certification
 
 a certification record only works if sentients can push back when it is wrong. A challenge has to be real: able to reopen review, pause reliance, and reach the forum with authority over the point in dispute. A complaints box that changes nothing does not count.
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#91-challenging-a-certification)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#91-challenging-a-certification)
 
 ###### 9.1.1 Contestability paths
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#911-contestability-paths)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths)
 
 ##### 9.2 Provisional and full certification
 
 a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval. Failing a check sends it back to the short leash.
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#92-provisional-and-full-certification)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification)
 
 ##### 9.3 Non-evasion
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#93-non-evasion)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#93-non-evasion)
 
 #### 10. Relationship to Standing
 
 certification can feed standing, but it is not standing. The record of a certified system, good or bad, may supply verified facts to Chapter Ten, but only through a strict gate. Chapters Ten and Eleven alone decide standing records and their effects.
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing)
 
-## CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS
+## CHAPTER NINE, PART D: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS
 
-Source file: [`core_09.010_system_alignment_certification_illustrations.md`](../../core_09.010_system_alignment_certification_illustrations.md) · 10/11 headings glossed
+Source file: [`core_09.015_system_alignment_certification_illustrations.md`](../../core_09.015_system_alignment_certification_illustrations.md) · 10/11 headings glossed
 
 #### Illustrative System Class Profiles (Non-Exhaustive)
 
-system class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per system class; [Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive), [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), [§5.2.4 Illustrative educational-capability application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive), [§5.3.7 Illustrative cross-system support application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive), [§5.4.4 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), [§5.5.5 Illustrative accessibility application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#555-illustrative-accessibility-application-by-system-class-non-exhaustive), and [§5.6.4 Illustrative trustworthiness application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#564-illustrative-trustworthiness-application-by-system-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, educational-capability, cross-system-support, nondiscrimination, accessibility, and trustworthiness evaluation apply to each.
+system class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per system class; [Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive), [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive), [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive), [§5.2.4 Illustrative educational-capability application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive), [§5.3.7 Illustrative cross-system support application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive), [§5.4.4 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive), [§5.5.5 Illustrative accessibility application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#555-illustrative-accessibility-application-by-system-class-non-exhaustive), and [§5.6.4 Illustrative trustworthiness application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#564-illustrative-trustworthiness-application-by-system-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, educational-capability, cross-system-support, nondiscrimination, accessibility, and trustworthiness evaluation apply to each.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)
 
 #### Reclassification
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#reclassification)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#reclassification)
 
 #### Illustrative Whole-System Application by System Class (Non-Exhaustive)
 
-[§3.1 Governance, Incentive, and Contestability Discipline](../../core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) through [§4.3 Assembly, Collective Organization, and Institutional Formation](../../core_09.000_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation) list what a whole-system review must consider. This subsection shows how those factors apply to one illustrative system per system class — dependency chains, participation, privacy, exit, assembly, time horizon, and governance discipline — and what must appear on the record. The systems match [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive); [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) walks the same systems through data-handling detail.
+[§3.1 Governance, Incentive, and Contestability Discipline](../../core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) through [§4.3 Assembly, Collective Organization, and Institutional Formation](../../core_09.000_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation) list what a whole-system review must consider. This subsection shows how those factors apply to one illustrative system per system class — dependency chains, participation, privacy, exit, assembly, time horizon, and governance discipline — and what must appear on the record. The systems match [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive); [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) walks the same systems through data-handling detail.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive)
 
 #### 3.4.8. Illustrative Data-Handling Application by System Class (Non-Exhaustive)
 
-the system class table in [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) says higher system classes need tougher review. [Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) shows what that means for **whole-system evaluation** on the same three systems; [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) continues the series for **ecological footprint**. This subsection shows what it means for **data types and handling** — what types are in scope, what certification must check, and what must appear on the record.
+the system class table in [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) says higher system classes need tougher review. [Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) shows what that means for **whole-system evaluation** on the same three systems; [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) continues the series for **ecological footprint**. This subsection shows what it means for **data types and handling** — what types are in scope, what certification must check, and what must appear on the record.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive)
 
 #### 5.1.5. Illustrative Ecological-Footprint Application by System Class (Non-Exhaustive)
 
-[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) and [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) walk the same three systems through whole-system and data-handling review. This subsection shows what **ecological footprint** evaluation means for each — which environmental burdens count, what certification must check, and what must appear on the record.
+[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) and [§3.4.8 Illustrative data-handling application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive) walk the same three systems through whole-system and data-handling review. This subsection shows what **ecological footprint** evaluation means for each — which environmental burdens count, what certification must check, and what must appear on the record.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)
 
 #### 5.2.4. Illustrative Educational-Capability Application by System Class (Non-Exhaustive)
 
-[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.5.5 Illustrative accessibility application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#555-illustrative-accessibility-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article IV** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Equal access and educational accessibility remain owned by **Article IV-A** (*Equal Educational Access*) and are not narrowed here.
+[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.5.5 Illustrative accessibility application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#555-illustrative-accessibility-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article IV** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Equal access and educational accessibility remain owned by **Article IV-A** (*Equal Educational Access*) and are not narrowed here.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive)
 
 #### 5.3.7. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)
 
-[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§5.3 Proportionate Cross-System Support Evaluation](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties.
+[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.1.5 Illustrative ecological-footprint application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§5.3 Proportionate Cross-System Support Evaluation](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive)
 
 #### 5.4.4. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)
 
-[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.3.7 Illustrative cross-system support application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article VI-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record.
+[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.3.7 Illustrative cross-system support application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#537-illustrative-cross-system-support-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article VI-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive)
 
 #### 5.5.5. Illustrative Accessibility Application by System Class (Non-Exhaustive)
 
-[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.4.4 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article VI-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Educational accessibility remains owned by **Article IV-A** (*Equal Educational Access*) and is not narrowed here.
+[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.4.4 Illustrative nondiscrimination application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#544-illustrative-nondiscrimination-application-by-system-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article VI-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Educational accessibility remains owned by **Article IV-A** (*Equal Educational Access*) and is not narrowed here.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#555-illustrative-accessibility-application-by-system-class-non-exhaustive)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#555-illustrative-accessibility-application-by-system-class-non-exhaustive)
 
 #### 5.6.4. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)
 
-[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.2.4 Illustrative educational-capability application by system class (non-exhaustive)](../../core_09.010_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*Illustrative educational-capability application by system class*) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Challenge and audit rights remain owned by **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.
+[Illustrative Whole-System Application by System Class (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive) through [§5.2.4 Illustrative educational-capability application by system class (non-exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#524-illustrative-educational-capability-application-by-system-class-non-exhaustive) (*Illustrative educational-capability application by system class*) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Challenge and audit rights remain owned by **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.
 
-[Source](../../core_09.010_system_alignment_certification_illustrations.md#564-illustrative-trustworthiness-application-by-system-class-non-exhaustive)
+[Source](../../core_09.015_system_alignment_certification_illustrations.md#564-illustrative-trustworthiness-application-by-system-class-non-exhaustive)
 
-## CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION
+## CHAPTER NINE, PART E: INSTITUTIONAL ALIGNMENT CERTIFICATION
 
-Source file: [`core_09.015_institutional_alignment_certification.md`](../../core_09.015_institutional_alignment_certification.md) · 8/23 headings glossed
+Source file: [`core_09.020_institutional_alignment_certification.md`](../../core_09.020_institutional_alignment_certification.md) · 8/23 headings glossed
 
 #### 11. Purpose, Relation to System Alignment Certification, and Scope
 
 a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#11-purpose-relation-to-system-alignment-certification-and-scope)
+[Source](../../core_09.020_institutional_alignment_certification.md#11-purpose-relation-to-system-alignment-certification-and-scope)
 
 ##### 11.1 Relation to System Alignment Certification
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#111-relation-to-system-alignment-certification)
+[Source](../../core_09.020_institutional_alignment_certification.md#111-relation-to-system-alignment-certification)
 
 ##### 11.2 Who is certified
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#112-who-is-certified)
+[Source](../../core_09.020_institutional_alignment_certification.md#112-who-is-certified)
 
 ##### 11.3 No permission and no gate
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate)
+[Source](../../core_09.020_institutional_alignment_certification.md#113-no-permission-and-no-gate)
 
 #### 12. Institution Class and Institutional Evaluation
 
 first work out how much the institution matters, by what it actually does and holds. Then check the things that belong to the institution and not to any one of its systems: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the checks on it work.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#12-institution-class-and-institutional-evaluation)
+[Source](../../core_09.020_institutional_alignment_certification.md#12-institution-class-and-institutional-evaluation)
 
 ##### 12.1 Institution class
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#121-institution-class)
+[Source](../../core_09.020_institutional_alignment_certification.md#121-institution-class)
 
 ##### 12.2 Institutional evaluation, always
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always)
+[Source](../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always)
 
 ##### 12.3 Evaluations where implicated
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#123-evaluations-where-implicated)
+[Source](../../core_09.020_institutional_alignment_certification.md#123-evaluations-where-implicated)
 
 ##### 12.4 Scaling by class
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#124-scaling-by-class)
+[Source](../../core_09.020_institutional_alignment_certification.md#124-scaling-by-class)
 
 #### 13. Review, Decision, and Record
 
 the same independent forums, in the same order, review the institution, with the institution never choosing its own reviewer. The result is a stated outcome on a record kept by an office the institution does not control. It can be challenged, and it is not a pass or fail that decides whether the institution may exist.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#13-review-decision-and-record)
+[Source](../../core_09.020_institutional_alignment_certification.md#13-review-decision-and-record)
 
 ##### 13.1 Four seats in an institutional certification
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#131-four-seats-in-an-institutional-certification)
+[Source](../../core_09.020_institutional_alignment_certification.md#131-four-seats-in-an-institutional-certification)
 
 ##### 13.2 Forum roles and sequence
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#132-forum-roles-and-sequence)
+[Source](../../core_09.020_institutional_alignment_certification.md#132-forum-roles-and-sequence)
 
 ##### 13.3 Outcomes and effect
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#133-outcomes-and-effect)
+[Source](../../core_09.020_institutional_alignment_certification.md#133-outcomes-and-effect)
 
 ##### 13.4 Institutional Certification Record
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#134-institutional-certification-record)
+[Source](../../core_09.020_institutional_alignment_certification.md#134-institutional-certification-record)
 
 ##### 13.5 Remediation readiness, denial, and revocation for an Institution
 
 when a review finds a problem in an institution, the same question is asked of it as of a system: does it want to fix the problem, and can it? If not, its certification is denied or taken back. That cannot stop the institution from existing or operating. It takes away its claim to be certified, warns those who rely on it, weakens what its systems can borrow from its standing, and keeps it out of the seats that certify others.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution)
+[Source](../../core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution)
 
 #### 14. Operating, Reopening, and the Cascade
 
 an institution's certification is checked again on a schedule and whenever something material changes. If one of its systems loses its certification, the institution answers for what that says about the institution, and no more than that. And the bodies that do the certifying are institutions too, so they cannot certify each other in a circle.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#14-operating-reopening-and-the-cascade)
+[Source](../../core_09.020_institutional_alignment_certification.md#14-operating-reopening-and-the-cascade)
 
 ##### 14.1 Monitoring, recertification, and status
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#141-monitoring-recertification-and-status)
+[Source](../../core_09.020_institutional_alignment_certification.md#141-monitoring-recertification-and-status)
 
 ##### 14.2 Reopening triggers
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers)
+[Source](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers)
 
 ##### 14.3 Cascade from System certifications
 
 a failed system certification is a warning light for the institution, and sometimes an alarm. It is an alarm only if the institution's own governance caused it.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#143-cascade-from-system-certifications)
+[Source](../../core_09.020_institutional_alignment_certification.md#143-cascade-from-system-certifications)
 
 ##### 14.4 Challenge path
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#144-challenge-path)
+[Source](../../core_09.020_institutional_alignment_certification.md#144-challenge-path)
 
 ##### 14.5 Forums, certifiers, and record offices as institutions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#145-forums-certifiers-and-record-offices-as-institutions)
+[Source](../../core_09.020_institutional_alignment_certification.md#145-forums-certifiers-and-record-offices-as-institutions)
 
 #### 15. Standing Bridge and Non-Evasion
 
 like a system's certification, an institution's can feed standing through a strict gate and never replaces standing. And no one gets out of this Part by dividing, renaming, or reshaping an institution.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion)
+[Source](../../core_09.020_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion)
 
 ## CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT
 

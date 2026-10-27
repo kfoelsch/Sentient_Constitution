@@ -33,7 +33,7 @@
   - [Chapter One §16 — Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*);
   - [Chapters Two through Four](core_02.000_definition_structure.md) (*integrity, records, and verification*);
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) (*definitions and supremacy read with Chapters Two through Four*).
-- Upstream: [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*system alignment certification*); [Part B §10](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing) (9.005 §10) (*standing bridge — potential verified inputs only*).
+- Upstream: [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*system alignment certification*); [Part C §10](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing) (9.010 §10) (*standing bridge — potential verified inputs only*).
 - Standing pipeline:
   - [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
   - [Chapter Ten — Measurement](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) (*three-question frame, Question 1 records, and Question 2 measurement — sections **1–7***);
@@ -1055,6 +1055,6 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 
 ---
 
-**Previous file:** [core_09.015_institutional_alignment_certification.md](core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)
+**Previous file:** [core_09.020_institutional_alignment_certification.md](core_09.020_institutional_alignment_certification.md#chapter-nine-part-e-institutional-alignment-certification)
 
 **Next file:** [core_11.000_standing_integration.md](core_11.000_standing_integration.md)

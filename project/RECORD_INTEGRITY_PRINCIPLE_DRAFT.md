@@ -26,7 +26,7 @@ Proposed place: `core_05.050_band_oversight.md`, a cluster component of Def.O1 *
 #### Record Integrity
 
 - Cluster component: Def.O1 *Transparency, Auditability, and Verification*.
-- Downstream: [Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs); [Chapter Nine Part B §8](../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record); Chapter Nine Part D; Chapter Ten standing records; [Chapter Thirteen §2.3](../core_13.000_forum.md#23-forum-case-records-standing-records-and-contests).
+- Downstream: [Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs); [Chapter Nine Part B §8](../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record); Chapter Nine Part D; Chapter Ten standing records; [Chapter Thirteen §2.3](../core_13.000_forum.md#23-forum-case-records-standing-records-and-contests).
 - Read with: Attribution Integrity, Attributable Action, Evidence Preservation, Auditability, Transparency, Contestability, Materially Binding Act Record, Record Seat.
 
 *In plain terms: a record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the people entitled to check it can reach it.*
