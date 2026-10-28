@@ -1107,7 +1107,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) (7.000 §5) (*covered offices, standing and authenticity checks, and staff safeguards*).
-- Forum test: [Chapter Nine Part E §12.2 Institutional evaluation, always](core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always) (item 7).
+- Forum test: [Chapter Nine Part E §13.2 Institutional evaluation, always](core_09.020_institutional_alignment_certification.md#132-institutional-evaluation-always) (item 7).
 - Read with: [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*), [Material Control Line](core_05.035_band_accountability.md#material-control-line), and [Interim Hold](core_05.035_band_accountability.md#interim-hold).
 
 </details>
@@ -1303,7 +1303,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Part E §13.5](core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (institutions).
+- Canonical owner: [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Part E §14.5](core_09.020_institutional_alignment_certification.md#145-remediation-readiness-denial-and-revocation-for-an-institution) (institutions).
 - Forum routing: [Chapter Thirteen §4.5 Constitutional alignment certification and validation](core_13.000_forum.md#45-integrity-forums) and [§5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification).
 - Read with: [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Proportionality](core_05.035_band_accountability.md#proportionality), and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution).
 
@@ -4187,7 +4187,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks).
-- Formation and institutional certification interfaces: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) and [Chapter Nine Part E §13.5 Remediation readiness, denial, and revocation for an Institution](core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution).
+- Formation and institutional certification interfaces: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) and [Chapter Nine Part E §14.5 Remediation readiness, denial, and revocation for an Institution](core_09.020_institutional_alignment_certification.md#145-remediation-readiness-denial-and-revocation-for-an-institution).
 - Read with: [Standing Lock](core_05.035_band_accountability.md#standing-lock), [Interim Hold](core_05.035_band_accountability.md#interim-hold), and [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 
 </details>
