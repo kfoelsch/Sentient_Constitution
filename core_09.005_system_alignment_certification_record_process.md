@@ -170,8 +170,9 @@ flowchart TB
   - [§6.2.4 Participation during review](#624-participation-during-review));
   - [§6.3](#63-contestability-chain) (*contestability chain*);
   - [§6.4](#64-anti-bypass) (*anti-bypass*); read with
-  - [Part C §10](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification) (*challenging a certification*) and
-  - [Part C §10.1](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths) (*contestability paths*).
+  - [Part C §10](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification) (*challenging a certification*),
+  - [Part C §10.1](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens) (*when the path opens*), and
+  - [Part C §10.2](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) (*contestability paths*).
 
 </details>
 
@@ -216,7 +217,7 @@ For the certification act, the seats are held as follows:
 - **[Initiating Seat](core_05.035_band_accountability.md#initiating-seat):** the system operator, steward, vendor, or other proponent seeking certification. It requests, operates, or claims alignment.
 - **[Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat):** the forum or bounded component authority that checks the evidence and authority against the governing standard and issues its finding, within that authority.
 - **[Record Seat](core_05.035_band_accountability.md#record-seat):** the office that opens, enters, amends, preserves, and publishes the coordinated System Certification Record. That record is the Act Record for the certification act (see [Part C §8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents)).
-- **[Contest Seat](core_05.035_band_accountability.md#contest-seat):** the published record challenge path, together with the competent review or backup forum, for the challenged act (see [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths)).
+- **[Contest Seat](core_05.035_band_accountability.md#contest-seat):** the published record challenge path, together with the competent review or backup forum, for the challenged act (see [Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths)).
 
 **Where the seats are placed:**
 
@@ -325,7 +326,7 @@ Where an institution is involved, Institutional Forums:
 
 ##### 6.2.1 Challenge path first
 
-Before any forum signs off on a certification record, the record must name the [published record challenge path](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths) under [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification). That means saying who receives challenges, how to file them, and what the windows are. The path opens when the outcome is published. Where the system is already operating, it is already open (see [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths)). A record that does not name the path cannot be signed off. A system with stakeholders cannot hold certification while it has no open, contestable path, whatever the component findings say.
+Before any forum signs off on a certification record, the record must name the [published record challenge path](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) under [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification). That means saying who receives challenges, how to file them, and what the windows are. The path opens when the outcome is published. Where the system is already operating, it is already open (see [Part C §10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens)). A record that does not name the path cannot be signed off. A system with stakeholders cannot hold certification while it has no open, contestable path, whatever the component findings say.
 
 <a id="622-default-sequence"></a>
 
@@ -395,9 +396,9 @@ The **contestability chain** is how affected parties can challenge a certificati
 - **Ordinary first step:** [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) under Chapter Thirteen §1 (*Purpose and role — participation architecture*) explains the ordinary first step and when a forum (a formal body that hears disputes) takes over.
 - **Emergency exits:** The larger Chapter Thirteen tools remain available when needed: transfer, certification, backup routing, and escalation from one forum family to another. Don't start with these. Start with the ordinary first step above, and use these only when it can't resolve the dispute.
 
-There are four paths, which [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths) names for the record. The paths are:
+There are four paths, which [Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) names for the record. The paths are:
 
-1. **Published record challenge path:** Affected parties may challenge a certification record's content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity. See [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification). For a system not yet operating, this step opens with the outcome (see [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths)).
+1. **Published record challenge path:** Affected parties may challenge a certification record's content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity. See [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification). For a system not yet operating, this step opens with the outcome (see [Part C §10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens)).
 2. **Component forum path:** A challenge confined to one component finding goes to the forum family with jurisdiction over that component. The lead forum may [stay](core_05.035_band_accountability.md#stay) reliance on the challenged component while timely review is pending.
 3. **Lead-integrity path:** A challenge about how the lead forum ran the process goes under the integrity and anti-self-judging rules of [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction). That includes:
    - capture;
@@ -415,7 +416,7 @@ There are four paths, which [Part C §10.1 Contestability paths](core_09.010_sys
 - **Start with path 1:** Begin with the published record challenge path.
 - **When path 1 falls short:** If the record challenge path is still contested, is missing, has been captured, or cannot grant the needed relief, Chapter Thirteen routes the challenge by primary stake.
 - **Pick the path that fits:** Paths 2 to 4 each fit a particular kind of problem, and they stay open for the whole time the review is under way.
-- **Shortcut when delay is dangerous:** You may go straight to a forum path, under [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths), if waiting would materially endanger rights, evidence, independence, or the practical ability to put things right.
+- **Shortcut when delay is dangerous:** You may go straight to a forum path, under [Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths), if waiting would materially endanger rights, evidence, independence, or the practical ability to put things right.
 
 **Reliance limits during contest.** A material and timely challenge may limit or pause reliance on the certification record, to the extent necessary to:
 
@@ -436,7 +437,7 @@ Actors must not defeat the supervisory sequence or contestability chain by:
 - letting a challenge end at the lowest administrative layer; or
 - treating component silence as final approval where a required component finding was never lawfully issued.
 
-When a forum-supervised challenge is required, internal operator review, vendor attestation, or technical sign-off cannot substitute for it. Affected parties must still have a real forum path under [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) and the named [contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths).
+When a forum-supervised challenge is required, internal operator review, vendor attestation, or technical sign-off cannot substitute for it. Affected parties must still have a real forum path under [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) and the named [contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths).
 
 
 <a id="7-certification-outcomes"></a>
