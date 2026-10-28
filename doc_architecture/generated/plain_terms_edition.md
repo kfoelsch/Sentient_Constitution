@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **728** of **1143** headings carry a gloss (64%).
+Coverage: **728** of **1144** headings carry a gloss (64%).
 
 ## Contents
 
@@ -34,7 +34,7 @@ Coverage: **728** of **1143** headings carry a gloss (64%).
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (9/35 glossed)
-- [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (7/19 glossed)
+- [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (7/20 glossed)
 - [CHAPTER NINE, PART D: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-d-system-alignment-certification--illustrations) — `core_09.015_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER NINE, PART E: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-e-institutional-alignment-certification) — `core_09.020_institutional_alignment_certification.md` (8/23 glossed)
 - [CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-ten-contribution-violation-and-standing-model--measurement) — `core_10.000_standing_assessment.md` (13/33 glossed)
@@ -4310,7 +4310,7 @@ denial and revocation are real outcomes and not threats. If a system is not yet 
 
 ## CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING
 
-Source file: [`core_09.010_system_alignment_certification_record_recertification.md`](../../core_09.010_system_alignment_certification_record_recertification.md) · 7/19 headings glossed
+Source file: [`core_09.010_system_alignment_certification_record_recertification.md`](../../core_09.010_system_alignment_certification_record_recertification.md) · 7/20 headings glossed
 
 #### 8. System Certification Record
 
@@ -4366,17 +4366,23 @@ a certification record is the auditable case file for one system under review. I
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#817-concerns-cause-and-remediation-readiness)
 
-###### 8.1.8 Outcome, reliance limits, and operating plan
+###### 8.1.8 Outcome and reliance limits
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.010_system_alignment_certification_record_recertification.md#818-outcome-reliance-limits-and-operating-plan)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#818-outcome-and-reliance-limits)
 
-###### 8.1.9 Completeness
+###### 8.1.9 Operating plan
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.010_system_alignment_certification_record_recertification.md#819-completeness)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#819-operating-plan)
+
+###### 8.1.10 Completeness
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#8110-completeness)
 
 ##### 8.2 Transparency and auditability of the record
 
