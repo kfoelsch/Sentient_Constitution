@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-27T22:57:50+00:00",
+  "generated_at": "2026-10-28T00:27:20+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 533,
@@ -842,27 +842,28 @@
       ]
     },
     "core_09.010_system_alignment_certification_record_recertification.md": {
-      "total_lines": 649,
+      "total_lines": 669,
       "sections": [
-        {"header":"CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING","level":1,"line_start":2,"line_end":649,"anchor":"#chapter-nine-part-c-certification-record-recertification-and-standing"},
-        {"header":"8. System Certification Record","level":3,"line_start":58,"line_end":358,"anchor":"#8-system-certification-record"},
-        {"header":"8.1 Minimum record contents","level":4,"line_start":132,"line_end":309,"anchor":"#81-minimum-record-contents"},
-        {"header":"8.1.1 System identity, scope, and prior record","level":5,"line_start":140,"line_end":153,"anchor":"#811-system-identity-scope-and-prior-record"},
-        {"header":"8.1.2 Classification and whole-system findings","level":5,"line_start":154,"line_end":175,"anchor":"#812-classification-and-whole-system-findings"},
-        {"header":"8.1.3 System Data Types Record","level":5,"line_start":176,"line_end":192,"anchor":"#813-system-data-types-record"},
-        {"header":"8.1.4 Rights-Floor and domain findings","level":5,"line_start":193,"line_end":217,"anchor":"#814-rights-floor-and-domain-findings"},
-        {"header":"8.1.5 Technical evidence and review findings","level":5,"line_start":218,"line_end":238,"anchor":"#815-technical-evidence-and-review-findings"},
-        {"header":"8.1.6 Supervision, independence, and challenge paths","level":5,"line_start":239,"line_end":251,"anchor":"#816-supervision-independence-and-challenge-paths"},
-        {"header":"8.1.7 Concerns, cause, and remediation readiness","level":5,"line_start":252,"line_end":271,"anchor":"#817-concerns-cause-and-remediation-readiness"},
-        {"header":"8.1.8 Outcome, reliance limits, and operating plan","level":5,"line_start":272,"line_end":297,"anchor":"#818-outcome-reliance-limits-and-operating-plan"},
-        {"header":"8.1.9 Completeness","level":5,"line_start":298,"line_end":309,"anchor":"#819-completeness"},
-        {"header":"8.2 Transparency and auditability of the record","level":4,"line_start":310,"line_end":358,"anchor":"#82-transparency-and-auditability-of-the-record"},
-        {"header":"9. Recertification and Reopening","level":3,"line_start":359,"line_end":562,"anchor":"#9-recertification-and-reopening"},
-        {"header":"9.1 Challenging a Certification","level":4,"line_start":432,"line_end":493,"anchor":"#91-challenging-a-certification"},
-        {"header":"9.1.1 Contestability paths","level":5,"line_start":467,"line_end":493,"anchor":"#911-contestability-paths"},
-        {"header":"9.2 Provisional and full certification","level":4,"line_start":494,"line_end":552,"anchor":"#92-provisional-and-full-certification"},
-        {"header":"9.3 Non-evasion","level":4,"line_start":553,"line_end":562,"anchor":"#93-non-evasion"},
-        {"header":"10. Relationship to Standing","level":3,"line_start":563,"line_end":649,"anchor":"#10-relationship-to-standing"}
+        {"header":"CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING","level":1,"line_start":2,"line_end":669,"anchor":"#chapter-nine-part-c-certification-record-recertification-and-standing"},
+        {"header":"8. System Certification Record","level":3,"line_start":58,"line_end":378,"anchor":"#8-system-certification-record"},
+        {"header":"8.1 Minimum record contents","level":4,"line_start":148,"line_end":329,"anchor":"#81-minimum-record-contents"},
+        {"header":"8.1.1 System identity, scope, and prior record","level":5,"line_start":156,"line_end":169,"anchor":"#811-system-identity-scope-and-prior-record"},
+        {"header":"8.1.2 Classification and whole-system findings","level":5,"line_start":170,"line_end":191,"anchor":"#812-classification-and-whole-system-findings"},
+        {"header":"8.1.3 System Data Types Record","level":5,"line_start":192,"line_end":208,"anchor":"#813-system-data-types-record"},
+        {"header":"8.1.4 Rights-Floor and domain findings","level":5,"line_start":209,"line_end":233,"anchor":"#814-rights-floor-and-domain-findings"},
+        {"header":"8.1.5 Technical evidence and review findings","level":5,"line_start":234,"line_end":254,"anchor":"#815-technical-evidence-and-review-findings"},
+        {"header":"8.1.6 Supervision, independence, and challenge paths","level":5,"line_start":255,"line_end":267,"anchor":"#816-supervision-independence-and-challenge-paths"},
+        {"header":"8.1.7 Concerns, cause, and remediation readiness","level":5,"line_start":268,"line_end":287,"anchor":"#817-concerns-cause-and-remediation-readiness"},
+        {"header":"8.1.8 Outcome and reliance limits","level":5,"line_start":288,"line_end":299,"anchor":"#818-outcome-and-reliance-limits"},
+        {"header":"8.1.9 Operating plan","level":5,"line_start":300,"line_end":317,"anchor":"#819-operating-plan"},
+        {"header":"8.1.10 Completeness","level":5,"line_start":318,"line_end":329,"anchor":"#8110-completeness"},
+        {"header":"8.2 Transparency and auditability of the record","level":4,"line_start":330,"line_end":378,"anchor":"#82-transparency-and-auditability-of-the-record"},
+        {"header":"9. Recertification and Reopening","level":3,"line_start":379,"line_end":582,"anchor":"#9-recertification-and-reopening"},
+        {"header":"9.1 Challenging a Certification","level":4,"line_start":452,"line_end":513,"anchor":"#91-challenging-a-certification"},
+        {"header":"9.1.1 Contestability paths","level":5,"line_start":487,"line_end":513,"anchor":"#911-contestability-paths"},
+        {"header":"9.2 Provisional and full certification","level":4,"line_start":514,"line_end":572,"anchor":"#92-provisional-and-full-certification"},
+        {"header":"9.3 Non-evasion","level":4,"line_start":573,"line_end":582,"anchor":"#93-non-evasion"},
+        {"header":"10. Relationship to Standing","level":3,"line_start":583,"line_end":669,"anchor":"#10-relationship-to-standing"}
       ]
     },
     "core_09.015_system_alignment_certification_illustrations.md": {
