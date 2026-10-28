@@ -330,8 +330,8 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-5.105 (*operational cluster
 | **Notice window** | window | Notice to affected parties and the independent assurance line after an incident; the mapped tier's intake length | [CJS-5.110 §6](cjs_05.110_oversight_operations.md#incident-and-assurance-notification-urgency-nu) (*Oversight: integrity assurance and resilience operations*); CI-8.215 §1 |
 | **Declaration window** | window | The supervisory, assurance-line, and public declaration for a NU-1 event; the mapped tier's outer-bound length | CJS-5.110 §6 |
 | **Hold lapse date** | bound | The day an [Interim Hold](../core_05.035_band_accountability.md#interim-hold) ends on its own, set from the merits matter's tier window | [Chapter Thirteen, Interim hold](../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) |
-| **Certification interval** | interval | Between full certifications or recertifications | Review cadence; [Chapter Nine Part C §9.2](../core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification) |
-| **Provisional interval** | interval | Between recertifications while certification is provisional | Review cadence; Chapter Nine Part C §9.2 |
+| **Certification interval** | interval | Between full certifications or recertifications | Review cadence; [Chapter Nine Part C §9.3](../core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) |
+| **Provisional interval** | interval | Between recertifications while certification is provisional | Review cadence; Chapter Nine Part C §9.3 |
 | **Audit midpoint** | interval | The audit that falls half-way between certification passes | Review cadence |
 | **Audit advance allowance** | interval | How far a body may move its own audit earlier | Review cadence |
 

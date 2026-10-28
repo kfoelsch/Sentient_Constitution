@@ -114,7 +114,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - [Certification Revocation](core_05.040_band_continuity.md#certification-revocation), which takes back a certification already held;
     - deferred certification, which postpones the decision for a bounded period and refuses nothing;
-    - an order to stop operating, which is decided separately under the survival-essential protection in [Chapter Nine Part C §9.2](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification); and
+    - an order to stop operating, which is decided separately under the survival-essential protection in [Chapter Nine Part C §9.3.5](core_09.010_system_alignment_certification_record_recertification.md#935-class-a-reliance); and
     - a standing effect or violation finding — [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification).
@@ -165,7 +165,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - [Certification Denial](core_05.040_band_continuity.md#certification-denial), which refuses certification to a system that holds none;
     - deferred certification, which postpones the decision for a bounded period and takes nothing back;
-    - the cascade to an Institution that cites the certification, which is governed by [Part E §14.3 Cascade from System certifications](core_09.020_institutional_alignment_certification.md#143-cascade-from-system-certifications); and
+    - the cascade to an Institution that cites the certification, which is governed by [Part E §15.3 Cascade from System certifications](core_09.020_institutional_alignment_certification.md#153-cascade-from-system-certifications); and
     - a standing effect or violation finding — [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [Recertification](core_05.040_band_continuity.md#recertification).
@@ -244,7 +244,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification) (9.010 §9.2) (*earning, keeping, and losing certification status*).
+- Canonical owner: [Chapter Nine Part C §9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) (9.010 §9.3) (*earning, keeping, and losing certification status*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
   - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification),
@@ -267,7 +267,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - a permanent permission slip, reputation score, or standing effect — [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Provisional Certification](core_05.040_band_continuity.md#provisional-certification); [Recertification](core_05.040_band_continuity.md#recertification).
-  - The clean-recertification minimum, step-down, and tier windows are stated in [Chapter Nine Part C §9.2](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification); this entry is the Chapter Five meaning only.
+  - The clean-recertification minimum, step-down, and tier windows are stated in [Chapter Nine Part C §9.3](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification); this entry is the Chapter Five meaning only.
 <a id="full-certification-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -414,7 +414,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part E §13.4 Institutional Certification Record](core_09.020_institutional_alignment_certification.md#134-institutional-certification-record) (9.020 §13.4) (*minimum contents and integrity*).
+- Canonical owner: [Chapter Nine Part E §14.4 Institutional Certification Record](core_09.020_institutional_alignment_certification.md#144-institutional-certification-record) (9.020 §14.4) (*minimum contents and integrity*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
   - [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification),
@@ -439,7 +439,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - an Institution's own annual report, audit statement, or attestation offered in place of the record —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
-  - The minimum contents and the integrity rules are stated in [Chapter Nine Part E §13.4](core_09.020_institutional_alignment_certification.md#134-institutional-certification-record); this entry is the Chapter Five meaning only.
+  - The minimum contents and the integrity rules are stated in [Chapter Nine Part E §14.4](core_09.020_institutional_alignment_certification.md#144-institutional-certification-record); this entry is the Chapter Five meaning only.
 <a id="institutional-certification-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -517,7 +517,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification) (9.010 §9.2) (*earning, keeping, and losing certification status*).
+- Canonical owner: [Chapter Nine Part C §9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) (9.010 §9.3) (*earning, keeping, and losing certification status*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
   - [Full Certification](core_05.040_band_continuity.md#full-certification),
@@ -539,7 +539,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - deferred certification or non-certification, where no certification is granted —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Recertification](core_05.040_band_continuity.md#recertification).
-  - The entry and exit rules, the interval relationship, and the tier windows are stated in [Chapter Nine Part C §9.2](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification); this entry is the Chapter Five meaning only.
+  - The entry and exit rules, the interval relationship, and the tier windows are stated in [Chapter Nine Part C §9.3](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification); this entry is the Chapter Five meaning only.
 <a id="provisional-certification-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -588,7 +588,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** The scheduled renewal of a [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) for a system that already holds a [System Certification Record](core_05.040_band_continuity.md#system-certification-record). The evaluations the record requires are carried out again, at the depth the system's class requires, on the cadence the record states, with regression testing, so that continued reliance rests on current evidence and not on an earlier finding. A recertification ends in an outcome stated on the record, including the certification status — [Provisional Certification](core_05.040_band_continuity.md#provisional-certification) or [Full Certification](core_05.040_band_continuity.md#full-certification) — that the findings support.
   - **Out of scope:**
     - the first [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) of a system;
-    - reopening — review that does not wait for the schedule because a trigger has fired (material change, concealed behavior, dependency growth, incident, or credible challenge), which is stated in [Chapter Nine Part C §9](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening);
+    - reopening — review that does not wait for the schedule because a trigger has fired (material change, concealed behavior, dependency growth, incident, or credible challenge), which is stated in [Chapter Nine Part C §9.2](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers);
     - reclassification under **CS-9.305 (*System classification machinery*) and CS-9.310 §3.5** (*Reclassification requirement*) or scheduled data-type re-evaluation under **CS-6.305 (*Information types and handling*) and CS-6.310 §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
     - periodic revalidation of other things, such as stewardship claims under [Review and Correction Duty](#review-and-correction-duty) or governance mechanisms under **Article XXVII-B** (*Periodic Revalidation and Transparent Change*) —
     those sit under their own homes, not under this entry.
@@ -844,7 +844,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Chapter Nine Part A §5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (9.000 §5) (*Rights-Floor non-substitution*),
   - [Part B §6](core_09.005_system_alignment_certification_record_process.md#6-forum-process) (9.005 §6) (*forum process, supervisory sequence, and contestability chain*),
   - [§7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*outcomes, reopening, and non-evasion*), and
-  - [§10](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing) (*standing-record bridge*).
+  - [§11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (*standing-record bridge*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05.040_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream: [Chapter Ten — Standing records and verified-input gate](core_10.000_standing_assessment.md#2-question-1--what-happened) (10.000); [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) (*forum supervision and reopening*).
 - Read with:
@@ -905,7 +905,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
        - outcome;
        - reliance limits;
        - certification interval; and
-       - contestability chain and named contestability paths under [Chapter Nine Part C §9.1.1](core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths);
+       - contestability chain and named contestability paths under [Chapter Nine Part C §10.1](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths);
     3. where a Chapter Nine evaluation was required by an applicable materiality trigger, the record states the actual findings from that evaluation — not section titles or checkmarks alone — under [Chapter Nine Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents); and
     4. the record remains separately traceable from standing records and standing effects.
 <a id="system-certification-record-constitutional-c"></a>

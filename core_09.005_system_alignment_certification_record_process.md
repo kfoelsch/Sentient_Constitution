@@ -3,11 +3,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part B** — the **forum process** (component roles, supervisory sequence, and the contestability chain) and the certification **outcomes** with the go-live gate (**§6–§7**, continuing from Part A §1–§5). **Part A** — purpose, framing (system class), and evaluation requirements — is in [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md). **Part C** — the certification **record** and its integrity, the **challenge path** with **recertification and reopening**, and the **standing bridge** (**§8–§10**) — is in [`core_09.010_system_alignment_certification_record_recertification.md`](core_09.010_system_alignment_certification_record_recertification.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part B** — the **forum process** (component roles, supervisory sequence, and the contestability chain) and the certification **outcomes** with the go-live gate (**§6–§7**, continuing from Part A §1–§5). **Part A** — purpose, framing (system class), and evaluation requirements — is in [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md). **Part C** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**§8–§11**) — is in [`core_09.010_system_alignment_certification_record_recertification.md`](core_09.010_system_alignment_certification_record_recertification.md).
 >
 > - **Constitutional owner (joint with Parts A and C):** forum-supervised **system alignment certification and related records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
 > - **Evaluation inputs:** [Part A §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) supply evaluation outputs that the forums review and that the outcome rests on.
-> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Ten standing measurement, or Chapter Eleven standing effects. The standing bridge boundary is stated in [Part C §10](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing). Part B also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
+> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Ten standing measurement, or Chapter Eleven standing effects. The standing bridge boundary is stated in [Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing). Part B also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
 >
 > **Upstream:** [Part A](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation); [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Thirteen forum supervision; Chapters Two through Four verification discipline.
 > **Downstream:** [Part C](core_09.010_system_alignment_certification_record_recertification.md#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing); Chapter Ten standing records and verified inputs; Chapter Eleven standing effects.
@@ -28,7 +28,7 @@
   - [§6](#6-forum-process) and
   - [§7](#7-certification-outcomes);
   - [Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) through
-  - [§10](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing) (*record, recertification, and standing bridge*);
+  - [§11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (*record, recertification, and standing bridge*);
   - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000).
 - Read with: **[CF-13.415](corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-routing-operations-transfer-certification-and-representative-treatment)** (*Routing operations, transfer, certification, and representative treatment*) and **[CF-13.425](corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-13425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
@@ -42,7 +42,7 @@ Chapter Nine, **Part B**, is the constitutional owner of these parts of system a
 - **Phase III, Review:** the **forum-supervised process** ([§6 Forum Process](#6-forum-process)); and
 - **Phase IV, Decide:** the **outcomes** ([§7 Certification Outcomes](#7-certification-outcomes)).
 
-**Part C** continues with **Phase V, Record**, **Phase VI, Operate** (recertification and reopening, and the standing bridge): [Part C §8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record), [§9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening), and [§10 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing).
+**Part C** continues with **Phase V, Record**, **Phase VI, Operate** (recertification and reopening, the challenge path, and the standing bridge): [Part C §8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record), [§9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening), [§10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification), and [§11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing).
 
 Evaluation requirements are in **[Part A](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**), which ends at [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). This Part continues the chapter at **§6** (*Forum Process*), and Part C continues it at **§8** (*System Certification Record*). [Part A §1.2 Certification at a glance](core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance) charts the whole process.
 
@@ -50,12 +50,12 @@ Evaluation requirements are in **[Part A](core_09.000_system_alignment_certifica
 
 Certification under this Part:
 
-- is supervised by forums and open to challenge under [§6 Forum Process](#6-forum-process), and the published record challenge path opens under [Part C §9.1 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#91-challenging-a-certification); and
+- is supervised by forums and open to challenge under [§6 Forum Process](#6-forum-process), and the published record challenge path opens under [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification); and
 - ends in a stated outcome under [§7 Certification Outcomes](#7-certification-outcomes), and no system goes live before it is certified.
 
-The outcome goes on one bounded **System Certification Record** under [Part C §8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record), is kept current under [Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening), and may supply verified inputs to Chapter Ten only through [Part C §10 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing).
+The outcome goes on one bounded **System Certification Record** under [Part C §8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record), is kept current under [Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening), and may supply verified inputs to Chapter Ten only through [Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing).
 
-The chart below is the Part B and Part C portion of the process chart in [Part A §1.2 Certification at a glance](core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance): **Phase III Review** through **Phase VI Operate** ([§6 Forum Process](#6-forum-process) to [Part C §10 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing)). Part B owns the review and decision nodes ([§6 Forum Process](#6-forum-process) and [§7 Certification Outcomes](#7-certification-outcomes)). Part C owns the record, recertification, and standing-bridge nodes ([§8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) to [§10 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing)). The chart starts from the framing and evaluation work in Part A, and each new review pass returns there at connector A.
+The chart below is the Part B and Part C portion of the process chart in [Part A §1.2 Certification at a glance](core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance): **Phase III Review** through **Phase VI Operate** ([§6 Forum Process](#6-forum-process) to [Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)). Part B owns the review and decision nodes ([§6 Forum Process](#6-forum-process) and [§7 Certification Outcomes](#7-certification-outcomes)). Part C owns the record, recertification, and standing-bridge nodes ([§8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) to [§11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)). The chart starts from the framing and evaluation work in Part A, and each new review pass returns there at connector A.
 
 ```mermaid
 flowchart TB
@@ -64,14 +64,14 @@ flowchart TB
     Rec["§8 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, conditions, and operating plan"]
     S[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
     O{"§7 Phase IV, Decide<br/><br/>What outcome and status<br/>does the evidence support?"}
-    Fc["§7, §9.2 Full Certification<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; conditions may apply"]
-    Pc["§7, §9.2 Provisional Certification<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; conditions may apply"]
+    Fc["§7, §9.3 Full Certification<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; conditions may apply"]
+    Pc["§7, §9.3 Provisional Certification<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; conditions may apply"]
     Nc["§7 Not Certified<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
-    Pub["§7, §9.1 Publish the completed record<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
+    Pub["§7, §10 Publish the completed record<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
     G{"§7 Go-live gate<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
     Hold["§7 Meet go-live prerequisites<br/><br/>Complete notice and independently verify<br/>conditions required before go-live"]
-    Rm["§7, §9.2 Protect and correct<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
-    Ch["§9–§9.2 Phase VIa, Operate and recertify<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and conditions;<br/>monitor outcomes and respond to incidents and challenges"]
+    Rm["§7, §9.3 Protect and correct<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
+    Ch["§9–§10 Phase VIa, Operate and recertify<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and conditions;<br/>monitor outcomes and respond to incidents and challenges"]
     S2[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
     Re["§9 Next review pass<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new record linked to the last"]
     Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
@@ -86,7 +86,7 @@ flowchart TB
     Fc --> Rec
     Pc --> Rec
     Nc --> Rec
-    Rec -.->|VIb, §10 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
+    Rec -.->|VIb, §11 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
     Rec --> Pub
     Rec ~~~ Sp
     Pub --> G
@@ -97,7 +97,7 @@ flowchart TB
     Hold --> G
     Ch -->|Material defect:<br/>protect and correct| Rm
     Ch -->|On schedule, or<br/>material change or<br/>credible challenge<br/>requires review| Re
-    Ch -.->|VIb, §10 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
+    Ch -.->|VIb, §11 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
     Rm -->|Correction evidence<br/>is checked in the<br/>next review pass| Re
     S2 ~~~~ SpA
     SpA ~~~ Re
@@ -146,8 +146,9 @@ flowchart TB
 - Downstream:
   - [§7](#7-certification-outcomes) (*outcomes and the go-live gate*);
   - [Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (*record contents and integrity*);
-  - [Part C §9](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (*recertification, reopening, and the challenge path*);
-  - [Part C §10](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing) (*verified-input gate*);
+  - [Part C §9](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (*recertification and reopening*);
+  - [Part C §10](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification) (*the challenge path*);
+  - [Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (*verified-input gate*);
   - [Chapter Thirteen §5](core_13.000_forum.md#5-escalation-and-certification) (13.000 §5) (*family-to-family escalation and constitutional certification*).
 - Read with:
   - [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) under Chapter Thirteen §1;
@@ -169,8 +170,8 @@ flowchart TB
   - [§6.2.4 Participation during review](#624-participation-during-review));
   - [§6.3](#63-contestability-chain) (*contestability chain*);
   - [§6.4](#64-anti-bypass) (*anti-bypass*); read with
-  - [Part C §9.1](core_09.010_system_alignment_certification_record_recertification.md#91-challenging-a-certification) (*challenging a certification*) and
-  - [Part C §9.1.1](core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths) (*contestability paths*).
+  - [Part C §10](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification) (*challenging a certification*) and
+  - [Part C §10.1](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths) (*contestability paths*).
 
 </details>
 
@@ -185,7 +186,7 @@ For materially impactful systems, a forum-supervised process under Chapter Thirt
 - **Phase III, Review** (this section): independent review of the evidence and stakeholder concerns, on every pass;
 - **Phase IV, Decide** ([§7 Certification Outcomes](#7-certification-outcomes)): the outcome. That is official constitutional alignment **certification** (provisional or full, with or without conditions), deferral, **non-certification**, **withdrawal**, or release from conditions;
 - **Phase V, Record** ([Part C §8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)): completing and publishing the one System Certification Record; and
-- **Phase VIa, Operate and recertify** ([Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening)): **recertification**, **validation** of an existing system, and reopened or fresh review. Each starts a new pass that returns to Phase I.
+- **Phase VIa, Operate and recertify** ([Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening)): **recertification**, **validation** of an existing system, and reopened or fresh review. Each starts a new pass that returns to Phase I. The challenge path that stays open during operation is in [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification).
 
 Expiration ends a certification by the clock. It needs no forum act, but it is still stated on the record under [Part C §8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record).
 
@@ -215,7 +216,7 @@ For the certification act, the seats are held as follows:
 - **[Initiating Seat](core_05.035_band_accountability.md#initiating-seat):** the system operator, steward, vendor, or other proponent seeking certification. It requests, operates, or claims alignment.
 - **[Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat):** the forum or bounded component authority that checks the evidence and authority against the governing standard and issues its finding, within that authority.
 - **[Record Seat](core_05.035_band_accountability.md#record-seat):** the office that opens, enters, amends, preserves, and publishes the coordinated System Certification Record. That record is the Act Record for the certification act (see [Part C §8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents)).
-- **[Contest Seat](core_05.035_band_accountability.md#contest-seat):** the published record challenge path, together with the competent review or backup forum, for the challenged act (see [Part C §9.1.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths)).
+- **[Contest Seat](core_05.035_band_accountability.md#contest-seat):** the published record challenge path, together with the competent review or backup forum, for the challenged act (see [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths)).
 
 **Where the seats are placed:**
 
@@ -324,7 +325,7 @@ Where an institution is involved, Institutional Forums:
 
 ##### 6.2.1 Challenge path first
 
-Before any forum signs off on a certification record, the record must name the [published record challenge path](core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths) under [Part C §9.1 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#91-challenging-a-certification). That means saying who receives challenges, how to file them, and what the windows are. The path opens when the outcome is published. Where the system is already operating, it is already open (see [Part C §9.1.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths)). A record that does not name the path cannot be signed off. A system with stakeholders cannot hold certification while it has no open, contestable path, whatever the component findings say.
+Before any forum signs off on a certification record, the record must name the [published record challenge path](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths) under [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification). That means saying who receives challenges, how to file them, and what the windows are. The path opens when the outcome is published. Where the system is already operating, it is already open (see [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths)). A record that does not name the path cannot be signed off. A system with stakeholders cannot hold certification while it has no open, contestable path, whatever the component findings say.
 
 <a id="622-default-sequence"></a>
 
@@ -394,9 +395,9 @@ The **contestability chain** is how affected parties can challenge a certificati
 - **Ordinary first step:** [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) under Chapter Thirteen §1 (*Purpose and role — participation architecture*) explains the ordinary first step and when a forum (a formal body that hears disputes) takes over.
 - **Emergency exits:** The larger Chapter Thirteen tools remain available when needed: transfer, certification, backup routing, and escalation from one forum family to another. Don't start with these. Start with the ordinary first step above, and use these only when it can't resolve the dispute.
 
-There are four paths, which [Part C §9.1.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths) names for the record. The paths are:
+There are four paths, which [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths) names for the record. The paths are:
 
-1. **Published record challenge path:** Affected parties may challenge a certification record's content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity. See [Part C §9.1 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#91-challenging-a-certification). For a system not yet operating, this step opens with the outcome (see [Part C §9.1.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths)).
+1. **Published record challenge path:** Affected parties may challenge a certification record's content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity. See [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification). For a system not yet operating, this step opens with the outcome (see [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths)).
 2. **Component forum path:** A challenge confined to one component finding goes to the forum family with jurisdiction over that component. The lead forum may [stay](core_05.035_band_accountability.md#stay) reliance on the challenged component while timely review is pending.
 3. **Lead-integrity path:** A challenge about how the lead forum ran the process goes under the integrity and anti-self-judging rules of [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction). That includes:
    - capture;
@@ -414,7 +415,7 @@ There are four paths, which [Part C §9.1.1 Contestability paths](core_09.010_sy
 - **Start with path 1:** Begin with the published record challenge path.
 - **When path 1 falls short:** If the record challenge path is still contested, is missing, has been captured, or cannot grant the needed relief, Chapter Thirteen routes the challenge by primary stake.
 - **Pick the path that fits:** Paths 2 to 4 each fit a particular kind of problem, and they stay open for the whole time the review is under way.
-- **Shortcut when delay is dangerous:** You may go straight to a forum path, under [Part C §9.1.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths), if waiting would materially endanger rights, evidence, independence, or the practical ability to put things right.
+- **Shortcut when delay is dangerous:** You may go straight to a forum path, under [Part C §10.1 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths), if waiting would materially endanger rights, evidence, independence, or the practical ability to put things right.
 
 **Reliance limits during contest.** A material and timely challenge may limit or pause reliance on the certification record, to the extent necessary to:
 
@@ -435,7 +436,7 @@ Actors must not defeat the supervisory sequence or contestability chain by:
 - letting a challenge end at the lowest administrative layer; or
 - treating component silence as final approval where a required component finding was never lawfully issued.
 
-When a forum-supervised challenge is required, internal operator review, vendor attestation, or technical sign-off cannot substitute for it. Affected parties must still have a real forum path under [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) and the named [contestability paths](core_09.010_system_alignment_certification_record_recertification.md#911-contestability-paths).
+When a forum-supervised challenge is required, internal operator review, vendor attestation, or technical sign-off cannot substitute for it. Affected parties must still have a real forum path under [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) and the named [contestability paths](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths).
 
 
 <a id="7-certification-outcomes"></a>
@@ -456,9 +457,9 @@ When a forum-supervised challenge is required, internal operator review, vendor 
   - [System Charter](core_05.040_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
 - Downstream:
   - [Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (*the outcome is stated on the record*);
-  - [Part C §9.1](core_09.010_system_alignment_certification_record_recertification.md#91-challenging-a-certification) (*the challenge path opens with the outcome*);
+  - [Part C §10](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification) (*the challenge path opens with the outcome*);
   - [Part C §9](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (*recertification and reopening*);
-  - [Part C §10](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing) (*verified-input gate where facts support adverse findings*);
+  - [Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (*verified-input gate where facts support adverse findings*);
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) (*forum supervision*);
   - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
 - Read with: **[CS-6.305 §5](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[CS-9.305 §3](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
@@ -507,7 +508,7 @@ A system that holds neither provisional nor full certification is **Not Certifie
 - withdrawn; or
 - expired.
 
-Provisional certification and full certification are the two **statuses** of certification. [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification) explains how a system earns, keeps, and loses each. Conditions under conditional certification may attach to either status.
+Provisional certification and full certification are the two **statuses** of certification. [Part C §9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) explains how a system earns, keeps, and loses each. Conditions under conditional certification may attach to either status.
 
 <a id="71-go-live-gate"></a>
 
@@ -518,7 +519,7 @@ Provisional certification and full certification are the two **statuses** of cer
 **No [go-live](core_05.040_band_continuity.md#go-live) before certification.** A system that would materially affect sentients, or that sentients would materially rely on, does not go live until all of these are true:
 
 - **Certified:** its System Certification Record carries provisional or full certification, with or without conditions;
-- **Published, with the challenge path open:** the completed outcome has been accessibly published, and the published record challenge path under [Part C §9.1 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#91-challenging-a-certification) is open. Go-live follows the outcome. So the path opens when the outcome is published, in time for a challenge to be filed, and reliance stayed, before the system goes live;
+- **Published, with the challenge path open:** the completed outcome has been accessibly published, and the published record challenge path under [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification) is open. Go-live follows the outcome. So the path opens when the outcome is published, in time for a challenge to be filed, and reliance stayed, before the system goes live;
 - **Notice interval elapsed:** the notice interval set on the record, as explained below, has run;
 - **Conditions verified:** every condition required before go-live has been independently verified; and
 - **No bar from a stay or limit:** any applicable stay or reliance limit is satisfied.
@@ -601,7 +602,7 @@ Which of these the forum chooses turns on whether the operator or steward is wil
 - interim protection and reliance limits; and
 - the corrective work required.
 
-It uses the cause finding and tier windows in [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification).
+It uses the cause finding and tier windows in [Part C §9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification).
 
 The operator or steward supplies evidence of correction. The assigned authority independently verifies it before it supports authorization of that scope or release from its conditions. Correction must:
 
@@ -610,7 +611,7 @@ The operator or steward supplies evidence of correction. The assigned authority 
 
 A promise of correction, or an operator's declaration that the work is complete, is not enough. The operator must produce verified evidence that each correction directly addresses the specific problem identified. Evidence that the operator did work, or that the system now runs, does not satisfy this unless it shows the identified problem is actually resolved.
 
-A system that is Not Certified cannot begin new operation. If an operating system keeps being relied on in the meantime, that is decided separately under the applicable forum process and the survival-essential protection in [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification).
+A system that is Not Certified cannot begin new operation. If an operating system keeps being relied on in the meantime, that is decided separately under the applicable forum process and the survival-essential protection in [Part C §9.3.5 Class A reliance](core_09.010_system_alignment_certification_record_recertification.md#935-class-a-reliance).
 
 <a id="73-remediation-readiness-willingness-and-capacity-to-correct"></a>
 
@@ -618,14 +619,14 @@ A system that is Not Certified cannot begin new operation. If an operating syste
 
 *In plain terms: when a review finds that something is misaligned, the next question is whether the operator will and can put it right. A promise is not an answer. The forums look at what the operator has actually done since it was told, whether it is changing what caused the problem, and whether it has the authority, skill, money, and time to do the work. If the honest answer is no, the outcome is denial or revocation. It is not a longer list of conditions.*
 
-This is the **remediation readiness check**. It happens in Phase IV, Decide, once the Phase III component findings are in. It runs whenever an evaluation, a recertification, or a reopened or fresh review finds misalignment or a certification defect, and only after the cause has been found, or marked "not yet determined," under [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification). It asks one question: **is the operator or steward both willing and able to correct this inside the tier window?** It answers from conduct and evidence, and never from professed intent.
+This is the **remediation readiness check**. It happens in Phase IV, Decide, once the Phase III component findings are in. It runs whenever an evaluation, a recertification, or a reopened or fresh review finds misalignment or a certification defect, and only after the cause has been found, or marked "not yet determined," under [Part C §9.3.3 Cause of misalignment](core_09.010_system_alignment_certification_record_recertification.md#933-cause-of-misalignment). It asks one question: **is the operator or steward both willing and able to correct this inside the tier window?** It answers from conduct and evidence, and never from professed intent.
 
 Who does what:
 
 - **Operator or steward:** the proponent. It supplies the evidence. It does not judge its own readiness ([§6.1.1 Four seats in a certification](#611-four-seats-in-a-certification)).
 - **Lead forum:** decides the finding.
 - **Technical Forums:** hold the capacity evidence.
-- **Institutional Forums:** hold the governance and incentive evidence where the cause lies there. For an Institution, the check runs as [Part E §13.5 Remediation readiness, denial, and revocation for an Institution](core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) states.
+- **Institutional Forums:** hold the governance and incentive evidence where the cause lies there. For an Institution, the check runs as [Part E §14.5 Remediation readiness, denial, and revocation for an Institution](core_09.020_institutional_alignment_certification.md#145-remediation-readiness-denial-and-revocation-for-an-institution) states.
 - **Affected sentients:** may submit evidence through the route in [§6.2 Supervisory sequence](#62-supervisory-sequence).
 
 <a id="731-willingness"></a>
@@ -634,7 +635,7 @@ Who does what:
 
 The forum finds from the record:
 
-- **Conduct since notice:** whether the operator stopped or contained the harm, put interim protection in place, preserved the evidence, and told affected sentients, inside the windows in [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification), or instead delayed, minimized, or concealed.
+- **Conduct since notice:** whether the operator stopped or contained the harm, put interim protection in place, preserved the evidence, and told affected sentients, inside the windows in [Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows), or instead delayed, minimized, or concealed.
 - **Fit between the fix and the cause:** whether the proposed correction addresses the cause finding, or only a symptom, a metric, or the appearance of a fix ([Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence)).
 - **Incentives:** whether the reward structure that produced the misalignment is being changed or still pays for it. A fix that costs the operator something its own structure rewards, and that leaves the structure alone, is not credible ([Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions)).
 - **History:** whether earlier findings on this system, or on others under common control, were corrected and verified or came back.
@@ -653,13 +654,13 @@ The forum finds whether:
 - **Resources:** the work is funded and scheduled, and its cost is not pushed onto affected sentients ([Chapter Eleven §9.1 Remediation capacity and funding](core_11.000_standing_integration.md#91-remediation-capacity-and-funding); **CI-11.205** (*Remedy systems and institutional redress capacity*)).
 - **Dependencies:** where the cause sits with a third party, such as a vendor, an upstream system, or a parent institution, someone can compel or replace it, and by when.
 - **Verifiability:** an independent verifying authority can test the fix with the access and the time given. A correction nobody can verify is not capacity.
-- **Time:** the plan fits the tier window in [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification).
+- **Time:** the plan fits the tier window in [Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows).
 
 <a id="733-proof-step"></a>
 
 ##### 7.3.3 Proof step
 
-Readiness is shown by a **proof step**: a first piece of correction or interim protection that has been done and independently verified inside a window the forum sets from the tier in [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification). How far a plan can count depends on the system class:
+Readiness is shown by a **proof step**: a first piece of correction or interim protection that has been done and independently verified inside a window the forum sets from the tier in [Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows). How far a plan can count depends on the system class:
 
 - **Class A and Class B systems:** no finding of ready rests on a plan alone.
 - **Class C and Class L systems:** the forum may accept a dated plan whose first verifiable step falls inside its window.
@@ -727,7 +728,7 @@ The forum may not meet any of these by certifying, or by continuing certificatio
 Denial and revocation act on the certification status. They do not by themselves shut a system down.
 
 - **Before either takes effect:** the forum states the interim protection and the reliance limits ([§7.2 Certification Defects and Correction](#72-certification-defects-and-correction), *Protection, correction, and verification*).
-- **Class A system whose interruption would cut off survival essentials before substitutes exist:** the status changes at once. Operation continues only as separately authorized interim reliance under [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification) (*Class A reliance*), with a dated plan for substitutes or a capable steward.
+- **Class A system whose interruption would cut off survival essentials before substitutes exist:** the status changes at once. Operation continues only as separately authorized interim reliance under [Part C §9.3.5](core_09.010_system_alignment_certification_record_recertification.md#935-class-a-reliance) (*Class A reliance*), with a dated plan for substitutes or a capable steward.
 
 <a id="744-process"></a>
 
@@ -736,7 +737,7 @@ Denial and revocation act on the certification status. They do not by themselves
 Before a denial or revocation the operator is given:
 
 - notice of the finding and the evidence;
-- a stated short window to answer or to show the proof step (set from the tier in [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification)); and
+- a stated short window to answer or to show the proof step (set from the tier in [Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows)); and
 - the chance to contest the finding through the [contestability chain](#63-contestability-chain), the paths for challenging a certification record.
 
 The decision states its reasons on the record, including the willingness and capacity findings ([Part C §8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents)). Urgent protection does not wait for any of this ([§6.2 Supervisory sequence](#62-supervisory-sequence)).
@@ -749,9 +750,9 @@ A denial or revocation has these effects:
 
 - **Status:** the system is Not Certified. It may not go live or materially expand, and it may not describe itself as certified.
 - **Notice:** those who rely on the system, and each Institution that operates or stewards it, are told.
-- **Operation:** continued reliance is decided separately under the survival-essential protection in [Part C §9.2 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#92-provisional-and-full-certification).
-- **Institution:** a revocation of a certification that an Institution cites is a withdrawn certification for the cascade in [Part E §14.3 Cascade from System certifications](core_09.020_institutional_alignment_certification.md#143-cascade-from-system-certifications).
-- **Standing:** a denial or revocation does not itself change anyone's standing. [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) and [Chapter Eleven](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) alone decide that. The facts behind it can feed a violation standing record, but only through [Part C §10 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#10-relationship-to-standing) and its verified-input gate:
+- **Operation:** continued reliance is decided separately under the survival-essential protection in [Part C §9.3.5 Class A reliance](core_09.010_system_alignment_certification_record_recertification.md#935-class-a-reliance).
+- **Institution:** a revocation of a certification that an Institution cites is a withdrawn certification for the cascade in [Part E §15.3 Cascade from System certifications](core_09.020_institutional_alignment_certification.md#153-cascade-from-system-certifications).
+- **Standing:** a denial or revocation does not itself change anyone's standing. [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) and [Chapter Eleven](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) alone decide that. The facts behind it can feed a violation standing record, but only through [Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) and its verified-input gate:
   - Revocation for concealment, fraudulent evidence, a material condition violation, or operation outside certified scope may supply that input.
   - A finding of willing and not able supplies none.
   - A denial of a system that never held certification supplies none through this chapter.
@@ -765,7 +766,7 @@ A denied or revoked operator may apply again.
 - **What the new application must show:** what changed.
   - a new readiness showing, with the proof step already done and verified; and
   - where the cause was governance or incentive, the changed structure in operation.
-- **What is not new:** a successor, renamed, split, or transferred vehicle that carries the same operator, control, or system ([Part C §9.3 Non-evasion](core_09.010_system_alignment_certification_record_recertification.md#93-non-evasion); [Chapter Three §2.1 Common Evasion Patterns](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
+- **What is not new:** a successor, renamed, split, or transferred vehicle that carries the same operator, control, or system ([Part C §9.4 Non-evasion](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion); [Chapter Three §2.1 Common Evasion Patterns](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
 - **Waiting periods:** a forum may not set a waiting period for its own sake.
 
 ---
