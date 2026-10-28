@@ -1195,7 +1195,7 @@ See **Anti-Segmentation Principle**.
   - [CS-6.305 Part A §7](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)** (*Type O baseline for Class A/B/C systems*); **
   - [CS-6.310 Part B §9.3 Type O (open, public oversight baseline disclosure data)](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*);
   - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) (*Data Types and Handling Evaluation*);
-  - [Chapter Nine Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (9.010 §8) (*Certification record*);
+  - [Chapter Nine Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (9.010 §8) (*System Certification Record*);
   - [Chapter Nine Part C §8.2](core_09.010_system_alignment_certification_record_recertification.md#82-transparency-and-auditability-of-the-record) (9.010 §8.2) (*Transparency and auditability of the record*) and
   - [§10](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification) (*Challenging a certification*).
 - Read with:
@@ -1216,7 +1216,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.*
+*In plain terms: the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and System Certification Records — with a strong public substitute when raw private or non-baseline records cannot be released.*
 
 - **What it is**
   - **In scope:** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**. Coverage follows the governing [System Charter](core_05.040_band_continuity.md#system-charter), assigned class, and observed [System Boundaries](core_05.040_band_continuity.md#system-boundaries). It includes what sentients need to understand:
@@ -1267,7 +1267,7 @@ See **Anti-Segmentation Principle**.
     - thin summaries;
     - audit-only substitution;
     - coverage gaps against certified scope;
-    - missing or non-usable public views of required System Charter, classification, data-types, or certification records;
+    - missing or non-usable public views of required System Charter, classification, data-types, or System Certification Records;
     - missing baseline visibility into performance, failures, stakeholder effects, or material risk; and
     - hold-backs that hide systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
 <a id="public-oversight-baseline-disclosure-c"></a>

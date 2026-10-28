@@ -2585,7 +2585,7 @@ Any claim about the matters below must be checked against what the whole system 
 - deployment;
 - release-from-conditions.
 
-The detailed evaluation factors and certification records are owned by:
+The detailed evaluation factors and System Certification Records are owned by:
 - **[Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)**;
 - **[Chapter Nine §8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)**;
 - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**.

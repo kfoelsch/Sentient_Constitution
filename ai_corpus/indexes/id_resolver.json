@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-28T21:05:17+00:00",
+  "generated_at": "2026-10-28T23:04:09+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -65,7 +65,7 @@
     "CF-13.425 §2": {"file":"corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-13425-2-constitutional-alignment-certification-and-review","heading":"CF-13.425 §2 Constitutional alignment certification and review","line":152,"kind":"section","gloss":"How a system gets officially recognized as constitutionally aligned within a stated scope, and how that recognition is rechecked later. Recognition is contestable and does not expire into a permanent seal of approval."},
     "CF-13.425 §2.1": {"file":"corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-13425-21-technical-specification-and-environmental-component-separation","heading":"CF-13.425 §2.1 Technical-Specification and Environmental-Component Separation","line":166,"kind":"section"},
     "CF-13.425 §2.2": {"file":"corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-13425-22-triggering-events","heading":"CF-13.425 §2.2 Triggering Events","line":180,"kind":"section"},
-    "CF-13.425 §2.3": {"file":"corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-13425-23-minimum-certification-record","heading":"CF-13.425 §2.3 Minimum Certification Record","line":190,"kind":"section"},
+    "CF-13.425 §2.3": {"file":"corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-13425-23-minimum-system-certification-record","heading":"CF-13.425 §2.3 Minimum System Certification Record","line":190,"kind":"section"},
     "CF-13.425 §2.4": {"file":"corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-13425-24-permitted-dispositions","heading":"CF-13.425 §2.4 Permitted Dispositions","line":211,"kind":"section"},
     "CF-13.425 §2.5": {"file":"corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-13425-25-environmental-sign-off-effect","heading":"CF-13.425 §2.5 Environmental Sign-Off Effect","line":220,"kind":"section"},
     "CF-13.425 §2.6": {"file":"corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-13425-26-component-referrals-and-certification","heading":"CF-13.425 §2.6 Component Referrals and Certification","line":224,"kind":"section"},

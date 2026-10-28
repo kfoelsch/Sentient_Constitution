@@ -1320,7 +1320,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **How to measure and assess**
   - **Primary measure:** Accountability, Oversight, and Timeliness measurement families, scaled to class and material stake.
 
-    **Primary assessment:** The lead forum weighs conduct since notice and fit to the cause; the assigned technical and institutional components supply capacity, governance, and incentive evidence within their roles. Verify authority, skill, resources, dependencies, schedule, and proof independently; state the finding on the certification record.
+    **Primary assessment:** The lead forum weighs conduct since notice and fit to the cause; the assigned technical and institutional components supply capacity, governance, and incentive evidence within their roles. Verify authority, skill, resources, dependencies, schedule, and proof independently; state the finding on the System Certification Record.
 <a id="remediation-readiness-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to let a subject determine its own readiness, condition certification on a plan not found ready, defer the check beyond the bounded process, or use readiness to replace the denial or revocation outcomes required by Chapter Nine.
@@ -3407,7 +3407,7 @@ See **Anti-Segmentation Principle**.
     - recording an unresolved allegation;
     - discussing settlement; or
     - applying a provisional routing label.
-  - A forum decision may enter a Chapter Ten **contribution standing record** or **violation standing record** only if it produces a verified contribution record under [Contribution Nature](core_05.035_band_accountability.md#contribution-nature), a verified violation finding under [Violation Nature](core_05.035_band_accountability.md#violation-nature), **system alignment certification record**, or another finding that is:
+  - A forum decision may enter a Chapter Ten **contribution standing record** or **violation standing record** only if it produces a verified contribution record under [Contribution Nature](core_05.035_band_accountability.md#contribution-nature), a verified violation finding under [Violation Nature](core_05.035_band_accountability.md#violation-nature), **System or Institutional Certification Record**, or another finding that is:
     - bounded;
     - traceable;
     - contestable; and

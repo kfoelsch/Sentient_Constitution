@@ -392,7 +392,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
     **Primary assessment:** Evaluate whether:
     1. an Institution of Class L or higher holds a current Institutional Certification Record, or is inside the window the record states for a first certification;
-    2. each finding about a System the Institution runs rests on that System's own certification record, cited by link, and not on a second evaluation of the System;
+    2. each finding about a System the Institution runs rests on that System's own System Certification Record, cited by link, and not on a second evaluation of the System;
     3. the evaluation tested the Institutional Charter against observed operation and not only against the text of the Institutional Charter;
     4. a failed, withdrawn, or expired System certification was carried into the Institution's status as the cascade rule requires; and
     5. no part of the process worked as a precondition to forming or running the Institution.
@@ -429,7 +429,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System certification records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.*
+*In plain terms: an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System Certification Records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.*
 
 - **What it is**
   - **In scope:** The bounded, reviewable record produced by [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification). It is the [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) for the institutional certification act. It identifies the Institution, the version of its Institutional Charter and Charter Role Map in force, its class, its findings, the System Certification Records it cites, the outcome and any conditions, and the challenge paths. It is scope-bound, time-bound, and contestable.
@@ -828,7 +828,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - delay [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) where materially implicated;
   - **Tertiary failure:**
     - feeding [Chapter Ten](core_10.000_standing_assessment.md#2-question-1--what-happened) standing measurement from unverified, uncontested, or dispute-phase material; or
-    - treating a certification record as a standing record, standing effect, or merged merit score.
+    - treating a System Certification Record as a standing record, standing effect, or merged merit score.
 
 ---
 
@@ -870,7 +870,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - scope-bound;
     - time-bound; and
     - contestable.
-  - It incorporates the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) and the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) as components of every materially impactful certification record.
+  - It incorporates the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) and the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) as components of every materially impactful System Certification Record.
   - It is not:
     - a reputation score;
     - a permanent permission slip;
@@ -918,9 +918,9 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
       - internal sign-off; or
     - offering the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) or [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) alone as the full System Certification Record;
   - **Secondary failure:**
-    - certification records that are not scope-bound, not time-bound, not contestable, or concealed;
+    - System Certification Records that are not scope-bound, not time-bound, not contestable, or concealed;
     - records finished while required component findings remain unresolved; or
-    - missing or incomplete [System Classification Record](core_05.040_band_continuity.md#system-classification-record) or [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) on a materially impactful certification record;
+    - missing or incomplete [System Classification Record](core_05.040_band_continuity.md#system-classification-record) or [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) on a materially impactful System Certification Record;
   - **Tertiary failure:**
     - using the record as a shortcut around:
       - Rights-Floor review;
@@ -961,7 +961,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.*
+*In plain terms: a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.*
 
 - **What it is**
   - **In scope:** The bounded, reviewable record of system classification under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*). A **System Classification Record** states:
@@ -980,7 +980,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [System Charter](core_05.040_band_continuity.md#system-charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this dual-axis classification record.
-  - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*); incorporation into certification records is stated in [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents); this entry is the Chapter Five meaning only.
+  - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*); incorporation into System Certification Records is stated in [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents); this entry is the Chapter Five meaning only.
 <a id="system-classification-record-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1035,7 +1035,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.*
+*In plain terms: a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.*
 
 - **What it is**
   - **In scope:** The bounded, reviewable record of data types and handling under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*). A **System Data Types Record** is **material audited information** — data that auditing processes require. It states:
@@ -1061,7 +1061,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [System Charter](core_05.040_band_continuity.md#system-charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this data-types record.
-  - Canonical type inventory, handling posture, disclosure, challenge, and retyping are stated in CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*); incorporation into certification records is stated in [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents); this entry is the Chapter Five meaning only.
+  - Canonical type inventory, handling posture, disclosure, challenge, and retyping are stated in CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*); incorporation into System Certification Records is stated in [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents); this entry is the Chapter Five meaning only.
 <a id="system-data-types-record-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -3587,7 +3587,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
 - Downstream:
   - [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*when a System Charter is required, what it states, and how it changes*);
-  - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*certification record scope and reopening*);
+  - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System and Institutional Certification Record scope and reopening*);
   - [Chapter Ten §3.7](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7) (*the System Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*); institutional publication of binding-governance and weighting rules under
   - **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) /

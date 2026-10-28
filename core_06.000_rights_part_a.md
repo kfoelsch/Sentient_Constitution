@@ -1301,7 +1301,7 @@ These requirements keep shared infrastructure, and everyone who depends on it, f
   - **Growth means reclassification:** If others come to depend on the system more heavily, it must be reclassified and certified again at the higher class.
 - **Staying certified:** Certification is not a permanent pass. To keep it, a system must keep meeting **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*).
   - **What it must keep doing:** Keep its maps of who depends on it and its records of where resources flow up to date, and keep giving back fairly for what it uses.
-  - **Proof, not promises:** Each certification record must show that this was actually [checked, not just claimed](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - **Proof, not promises:** Each System Certification Record must show that this was actually [checked, not just claimed](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
   - **No substitutes:** Being officially recognized, or having been relied on for a long time, does not take the place of meeting these requirements.
   - **Consequences:** If a system hides or misstates its resource flows, or keeps taking more than it gives back, its certification can be made conditional, reopened, or withdrawn under [Chapter Nine §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 

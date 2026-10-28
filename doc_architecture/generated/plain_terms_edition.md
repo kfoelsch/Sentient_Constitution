@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **732** of **1153** headings carry a gloss (63%).
+Coverage: **732** of **1158** headings carry a gloss (63%).
 
 ## Contents
 
@@ -34,7 +34,7 @@ Coverage: **732** of **1153** headings carry a gloss (63%).
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (9/35 glossed)
-- [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/29 glossed)
+- [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
 - [CHAPTER NINE, PART D: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-d-system-alignment-certification--illustrations) — `core_09.015_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER NINE, PART E: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-e-institutional-alignment-certification) — `core_09.020_institutional_alignment_certification.md` (8/23 glossed)
 - [CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-ten-contribution-violation-and-standing-model--measurement) — `core_10.000_standing_assessment.md` (13/33 glossed)
@@ -1878,7 +1878,7 @@ a **go-live** is the moment a system stops being something that is being built o
 
 ##### Institutional Certification Record
 
-an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System certification records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.
+an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System Certification Records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.
 
 [Source](../../core_05.040_band_continuity.md#institutional-certification-record)
 
@@ -1938,13 +1938,13 @@ a **System Certification Record** is the auditable case file for one system unde
 
 ##### System Classification Record
 
-a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
+a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
 
 [Source](../../core_05.040_band_continuity.md#system-classification-record)
 
 ##### System Data Types Record
 
-a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
+a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
 
 [Source](../../core_05.040_band_continuity.md#system-data-types-record)
 
@@ -2744,7 +2744,7 @@ telling affected sentients enough about how a system works, its limits, and its 
 
 ###### Public Oversight Baseline Disclosure
 
-the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.
+the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and System Certification Records — with a strong public substitute when raw private or non-baseline records cannot be released.
 
 [Source](../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure)
 
@@ -3766,7 +3766,7 @@ Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../
 
 #### 1. Purpose and Role
 
-When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once it is reclassified to Class L or higher (that is, its effects reach beyond a private unit) or its operator claims constitutional compliance.
+When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a System Certification Record, and require re-checks on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once it is reclassified to Class L or higher (that is, its effects reach beyond a private unit) or its operator claims constitutional compliance.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role)
 
@@ -4310,11 +4310,11 @@ denial and revocation are real outcomes and not threats. If a system is not yet 
 
 ## CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING
 
-Source file: [`core_09.010_system_alignment_certification_record_recertification.md`](../../core_09.010_system_alignment_certification_record_recertification.md) · 11/29 headings glossed
+Source file: [`core_09.010_system_alignment_certification_record_recertification.md`](../../core_09.010_system_alignment_certification_record_recertification.md) · 11/34 headings glossed
 
 #### 8. System Certification Record
 
-a certification record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.
+a System Certification Record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [Illustrative System Class Profiles (Non-Exhaustive)](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)
 
@@ -4386,7 +4386,7 @@ a certification record is the auditable case file for one system under review. I
 
 ##### 8.2 Transparency and auditability of the record
 
-a certification record only works if sentients can read it and check it. This section puts transparency and auditability on the record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§10 Challenging a Certification](../../core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification).
+a System Certification Record only works if sentients can read it and check it. This section puts transparency and auditability on the record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§10 Challenging a Certification](../../core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification).
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#82-transparency-and-auditability-of-the-record)
 
@@ -4458,7 +4458,7 @@ a system earns trust in steps. New systems, and systems that have failed a check
 
 #### 10. Challenging a Certification
 
-a certification record only works if sentients can push back when it is wrong. A challenge has to be real: able to reopen review, pause reliance, and reach the forum with authority over the point in dispute. A complaints box that changes nothing does not count.
+a System Certification Record only works if sentients can push back when it is wrong. A challenge has to be real: able to reopen review, pause reliance, and reach the forum with authority over the point in dispute. A complaints box that changes nothing does not count.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification)
 
@@ -4476,9 +4476,39 @@ a record has to say where to push back. There is one ordinary first step, then r
 
 #### 11. Relationship to Standing
 
-certification can feed standing, but it is not standing. The record of a certified system, good or bad, may supply verified facts to Chapter Ten, but only through a strict gate. Chapters Ten and Eleven alone decide standing records and their effects.
+certification can feed standing, but it is not standing. The System Certification Record of a certified system, good or bad, may supply verified facts to Chapter Ten, but only through a strict gate. Chapters Ten and Eleven alone decide standing records and their effects.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)
+
+##### 11.1 What a System Certification Record can pass on to standing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#111-what-a-system-certification-record-can-pass-on-to-standing)
+
+##### 11.2 Certified systems only
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#112-certified-systems-only)
+
+##### 11.3 Verified-input gate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#113-verified-input-gate)
+
+##### 11.4 Contribution standing record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#114-contribution-standing-record)
+
+##### 11.5 Violation standing record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#115-violation-standing-record)
 
 ## CHAPTER NINE, PART D: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS
 
