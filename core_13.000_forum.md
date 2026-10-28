@@ -109,7 +109,7 @@ This chapter states which **forum families** **supervise** which primary questio
    - Application of **Chapters One through Six** and designated [corpus](core_05.045_band_integrative.md#corpus) implementation layers as the norms those disputes apply.
 
 2. **System Alignment Certification and Institutional Alignment Certification** ([Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
-   - Forum-supervised certification, conditional certification, validation, recertification, withdrawal, and related certification-record outcomes under [Chapter Nine Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) and [Chapter Nine Part C](core_09.010_system_alignment_certification_record_recertification.md#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing).
+   - Forum-supervised certification, conditional certification, validation, recertification, withdrawal, and related System or Institutional Certification Record outcomes under [Chapter Nine Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) and [Chapter Nine Part C](core_09.010_system_alignment_certification_record_recertification.md#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing).
    - Institutional alignment certification of an Institution, with the same outcomes, under [Chapter Nine Part E](core_09.020_institutional_alignment_certification.md#chapter-nine-part-e-institutional-alignment-certification). **Institutional** forums hold the institutional mandate and duty-compliance components, an **Integrity** forum leads, and the System Certification Records the Institution runs are cited and not redone.
    - Component roles under [Part B §6.1](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles):
      - **Technical** — specifications, methods, and evidence standards
@@ -297,7 +297,7 @@ This subsection sets out the records a forum keeps and how they may be contested
   - certified questions; and
   - final findings in that case.
 - It is **not** the same thing as the **standing records** required by [Chapter Ten](core_10.000_standing_assessment.md#2-question-1--what-happened) (see [Standing Record](core_05.035_band_accountability.md#standing-record)).
-- A forum decision may become part of a Chapter Ten **contribution standing record** or **violation standing record** only when it produces a verified contribution record, verified violation finding, **system alignment certification record**, or other finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and any required review safeguards.
+- A forum decision may become part of a Chapter Ten **contribution standing record** or **violation standing record** only when it produces a verified contribution record, verified violation finding, **System or Institutional Certification Record**, or other finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and any required review safeguards.
 - None of the following by itself changes anyone's standing, role eligibility, trust status, recognition, or final standing effect:
   - filing a case;
   - assigning it to a forum family;
@@ -497,7 +497,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - technical specifications;
 - evidentiary thresholds;
 - domain-specific standards.
-- They may answer certified technical questions for a **system alignment certification record**.
+- They may answer certified technical questions for a **System or Institutional Certification Record**.
 - They do **not** issue the final official constitutional alignment determination or ongoing validation unless another provision independently assigns that primary stake to them.
 
 <a id="42-shared-standards-and-anti-displacement"></a>
@@ -537,7 +537,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - **Integrity** forums remain the default official lead for whole-system and institutional constitutional alignment certification and validation.
 - Component detail for those proceedings lives in [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
-When a certification review finds misalignment or a defect, the **Integrity** lead routes the remediation-readiness finding through [Chapter Nine Part B §7.3](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) and, for an Institution, [Part E §14.5](core_09.020_institutional_alignment_certification.md#145-remediation-readiness-denial-and-revocation-for-an-institution). The lead forum decides readiness; Technical Forums supply capacity evidence and Institutional Forums supply governance and incentive evidence where the cause lies there. The operator or steward supplies evidence but does not decide its own readiness. The finding, proof step, and any denial or revocation remain on the certification record and follow the Part B or Part E process; this creates no separate standing or merits track.
+When a certification review finds misalignment or a defect, the **Integrity** lead routes the remediation-readiness finding through [Chapter Nine Part B §7.3](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) and, for an Institution, [Part E §14.5](core_09.020_institutional_alignment_certification.md#145-remediation-readiness-denial-and-revocation-for-an-institution). The lead forum decides readiness; Technical Forums supply capacity evidence and Institutional Forums supply governance and incentive evidence where the cause lies there. The operator or steward supplies evidence but does not decide its own readiness. The finding, proof step, and any denial or revocation remain on the System or Institutional Certification Record and follow the Part B or Part E process; this creates no separate standing or merits track.
 
 **Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Institutional Forums** within their lawful scope.
 

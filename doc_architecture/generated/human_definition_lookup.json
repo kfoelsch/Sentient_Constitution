@@ -1054,7 +1054,7 @@
       "term": "Institutional Certification Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#institutional-certification-record",
-      "plain_terms": "an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System certification records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.",
+      "plain_terms": "an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System Certification Records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.",
       "href": "../../core_05.040_band_continuity.md#institutional-certification-record"
     },
     {
@@ -1523,7 +1523,7 @@
       "term": "Public Oversight Baseline Disclosure",
       "file": "core_05.050_band_oversight.md",
       "anchor": "#public-oversight-baseline-disclosure",
-      "plain_terms": "the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.",
+      "plain_terms": "the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the System Charter, classification, data-typing, and System Certification Records — with a strong public substitute when raw private or non-baseline records cannot be released.",
       "href": "../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure"
     },
     {
@@ -1929,7 +1929,7 @@
       "term": "System Classification Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#system-classification-record-constitutional",
-      "plain_terms": "a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "plain_terms": "a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
       "href": "../../core_05.040_band_continuity.md#system-classification-record"
     },
     {
@@ -1943,7 +1943,7 @@
       "term": "System Data Types Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#system-data-types-record-constitutional",
-      "plain_terms": "a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "plain_terms": "a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the System Certification Record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
       "href": "../../core_05.040_band_continuity.md#system-data-types-record"
     },
     {

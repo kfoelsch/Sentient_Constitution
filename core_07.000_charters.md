@@ -372,7 +372,7 @@ The fourth limit works on a named act, not on forming an Operating Party:
 - Downstream:
   - [§4](#4-the-charter-role-map-and-standing-record-custody);
   - [§7](#7-amendment-review-and-scope-misalignment);
-  - [Chapter Nine Part C §8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents) (9.010 §8.1) (*the System Charter fields a certification record relies on*);
+  - [Chapter Nine Part C §8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents) (9.010 §8.1) (*the System Charter fields a System Certification Record relies on*);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) for the full field list.
 - Read with:
   - [Chapter Eighteen §4 Adoption framing and scope of authority](core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*a scope document kept under another name*);
@@ -784,7 +784,7 @@ A holder may be identified by office and dated Role Map version where naming wou
   - Where a Chartered Party is small and no independent seat is yet in place, the statement is a declaration with its evidence, and it is verified at the Chartered Party's first certification.
   - Being unverified for that interval is never a bar to forming or operating.
 - **False statement:**
-  - A statement that is false, or that hides who controls a covered office, is concealment and fraudulent evidence for the certification record and for the standing bridge ([Chapter Nine Part E §16 Standing Bridge and Non-Evasion](core_09.020_institutional_alignment_certification.md#16-standing-bridge-and-non-evasion); [Chapter Nine Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)).
+  - A statement that is false, or that hides who controls a covered office, is concealment and fraudulent evidence for the Institutional Certification Record and for the standing bridge ([Chapter Nine Part E §16 Standing Bridge and Non-Evasion](core_09.020_institutional_alignment_certification.md#16-standing-bridge-and-non-evasion); [Chapter Nine Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)).
   - Where a sentient knowingly made the statement, signed it, or caused it to be made, and the falsity is material and verified, it is also a ground for the Institutional Authority Standing Lock on that sentient ([Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks)), whether or not it hides control. The lock attaches to the sentient who made or caused the statement, and not to the Chartered Party or to a holder who did not.
   - A statement that is wrong without the sentient's knowledge is not that ground. It is a defect to correct under [§6 When a Holder Fails the Formation Check](#6-when-a-holder-fails-the-formation-check).
 

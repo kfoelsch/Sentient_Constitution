@@ -3359,7 +3359,7 @@
       "machine_id": "CF-13425.2.3",
       "display_id": "CF-13.425 \u00a72.3",
       "old_anchor": "cf-723-minimum-certification-record",
-      "new_anchor": "cf-13425-23-minimum-certification-record",
+      "new_anchor": "cf-13425-23-minimum-system-certification-record",
       "header": "CF-7.2.3 Minimum Certification Record"
     },
     {
@@ -7914,7 +7914,7 @@
         "machine_id": "CF-13425.2.3",
         "display_id": "CF-13.425 \u00a72.3",
         "old_anchor": "cf-723-minimum-certification-record",
-        "new_anchor": "cf-13425-23-minimum-certification-record"
+        "new_anchor": "cf-13425-23-minimum-system-certification-record"
       }
     ],
     "CF-7.2.4": [
@@ -11807,7 +11807,7 @@
         },
         {
           "old_anchor": "cf-723-minimum-certification-record",
-          "new_anchor": "cf-13425-23-minimum-certification-record"
+          "new_anchor": "cf-13425-23-minimum-system-certification-record"
         },
         {
           "old_anchor": "cf-724-permitted-dispositions",
