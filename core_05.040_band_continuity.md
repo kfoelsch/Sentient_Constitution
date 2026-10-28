@@ -905,7 +905,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
        - outcome;
        - reliance limits;
        - certification interval; and
-       - contestability chain and named contestability paths under [Chapter Nine Part C §10.1](core_09.010_system_alignment_certification_record_recertification.md#101-contestability-paths);
+       - contestability chain and named contestability paths under [Chapter Nine Part C §10.2](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths);
     3. where a Chapter Nine evaluation was required by an applicable materiality trigger, the record states the actual findings from that evaluation — not section titles or checkmarks alone — under [Chapter Nine Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents); and
     4. the record remains separately traceable from standing records and standing effects.
 <a id="system-certification-record-constitutional-c"></a>

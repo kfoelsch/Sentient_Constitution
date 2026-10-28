@@ -262,7 +262,7 @@ The record must identify, at minimum:
   - the four seats required by [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (initiating, verify-or-authorize, record, and contest), including each holder and authority, and the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) version in force when each seat was held;
   - every recusal, delegation, substitute, permitted merger, or emergency departure; and
   - enough control-line information to show that the operator or proponent did not verify its own certification claim or control the challenge to it;
-- **Challenge paths:** the named [contestability paths](#101-contestability-paths) under [§10 Challenging a Certification](#10-challenging-a-certification) and the contestability chain under [Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain), showing how affected parties can challenge at each step.
+- **Challenge paths:** the named [contestability paths](#102-contestability-paths) under [§10 Challenging a Certification](#10-challenging-a-certification) and the contestability chain under [Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain), showing how affected parties can challenge at each step.
 
 <a id="817-concerns-cause-and-remediation-readiness"></a>
 
@@ -611,7 +611,9 @@ Evasion of this chapter's obligations is governed by Chapter Three — this chap
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 - Downstream: [§9](#9-recertification-and-reopening) (*a credible challenge reopens review*); [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) (*the forum paths for a challenged point*).
-- Subsections: [§10.1](#101-contestability-paths) (*contestability paths*).
+- Subsections:
+  - [§10.1](#101-when-the-path-opens) (*when the path opens*); and
+  - [§10.2](#102-contestability-paths) (*contestability paths*).
 
 </details>
 
@@ -626,13 +628,13 @@ Evasion of this chapter's obligations is governed by Chapter Three — this chap
 
 *In plain terms: a certification record only works if sentients can push back when it is wrong. A challenge has to be real: able to reopen review, pause reliance, and reach the forum with authority over the point in dispute. A complaints box that changes nothing does not count.*
 
-This section is part of sub-phase **VIa** of Phase VI (Operate), with [§9 Recertification and Reopening](#9-recertification-and-reopening). It covers how affected parties challenge a certification record. The published record challenge path opens when the outcome is published, as [§10.1 Contestability paths](#101-contestability-paths) says.
+This section is part of sub-phase **VIa** of Phase VI (Operate), with [§9 Recertification and Reopening](#9-recertification-and-reopening). It covers how affected parties challenge a certification record. The published record challenge path opens when the outcome is published, as [§10.1 When the path opens](#101-when-the-path-opens) says.
 
 Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Contestability](core_05.035_band_accountability.md#contestability) puts **accountability** into practice and keeps **participation** open in challenge paths. Contest windows under [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) put **timeliness** into practice.
 
 Affected parties must have real ways to challenge the record:
 
-- A certification record must state the [contestability paths](#101-contestability-paths) defined in §10.1 Contestability paths. They must be enough for affected parties to contest:
+- A certification record must state the [contestability paths](#102-contestability-paths) defined in §10.2 Contestability paths. They must be enough for affected parties to contest:
   - record content;
   - scope;
   - classification assumptions;
@@ -648,20 +650,28 @@ Affected parties must have real ways to challenge the record:
 - Contestability obligations scale with system class and material impact; and
 - They do not disappear because a system is labeled experimental, internal, personal, isolated, or technical-only, where material impact is present.
 
-<a id="101-contestability-paths"></a>
+<a id="101-when-the-path-opens"></a>
 
-#### 10.1 Contestability paths
+#### 10.1 When the path opens
 
-**When the path opens:**
+*In plain terms: the challenge path has to be open before anyone is asked to rely on a certification. For a system that is not yet running, it opens with the first outcome. For a system already running, it is already open.*
+
+When the path opens, and how long it stays open:
 
 - For a system that is not yet operating, the published record challenge path opens when the system's first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, before the system goes live under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate).
 - A system that is already operating already has stakeholders. So its path is already open, or it opens when the system's record opens. That covers a system under an [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) Adoption Transition window, a recertification, and a reopened or fresh review.
 - **Stakeholders** are sentients the system materially affects or who materially rely on it, as found in evaluation and not as identified by the operator.
-- Until the path opens for a system not yet operating, the record still names it ([Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence)). The component, lead-integrity, and escalation paths below are available throughout review.
+- Until the path opens for a system not yet operating, the record still names it ([Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence)). The component, lead-integrity, and escalation paths in [§10.2 Contestability paths](#102-contestability-paths) are available throughout review.
 - The path stays open while the system has stakeholders. A system that gains stakeholders after certification reopens review under [§9 Recertification and Reopening](#9-recertification-and-reopening).
 - An aligned claim is not supported while a system with stakeholders has no open, contestable path.
 
-A System Certification Record must name these challenge paths. They put Dispute sequencing into practice for certification records. They are not a forum family and do not replace Chapter Thirteen routing. The order they run in is in [Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain).
+<a id="102-contestability-paths"></a>
+
+#### 10.2 Contestability paths
+
+*In plain terms: a record has to say where to push back. There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalation. Where waiting would do harm, a challenger can go straight to a forum.*
+
+A certification record must name the four challenge paths below, so anyone affected knows where to take a dispute. The paths apply Chapter Thirteen's [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) to certification records. They are routes into the forums, not a new forum, and Chapter Thirteen still decides which forum has authority. The order they run in is in [Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain).
 
 - **Published record challenge path** — the ordinary first step for an ordinary dispute about the certification record. The record names the [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight) contest seat:
   - who receives the challenge;
@@ -669,9 +679,9 @@ A System Certification Record must name these challenge paths. They put Dispute 
   - that windows under [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
 
   Internal operator review, vendor attestation, or technical sign-off is not this path.
-- **Component forum path** — the Chapter Thirteen forum family with jurisdiction over a challenged component finding.
-- **Lead-integrity path** — Integrity routing and anti-self-judging backup, when the challenge is about how the lead forum ran the process. That includes capture, hidden information, self-review, or calling certification finished too soon.
-- **Escalation path** — Chapter Thirteen transfer, certification, backup routing, and family-to-family escalation, when primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it.
+- **Component forum path** — for a challenge to one finding in the record. It goes to the Chapter Thirteen forum family that has authority over that finding.
+- **Lead-integrity path** — for a challenge to how the lead forum ran the process, such as capture, hidden information, reviewing its own work, or calling certification finished too soon. It goes through Integrity routing, with a backup forum so the lead forum does not judge itself.
+- **Escalation path** — for a dispute that needs to move to a different forum or a higher one under Chapter Thirteen. That means transfer, certifying a question to another forum, backup routing, or escalation from one forum family to another. It applies when the main stakes belong elsewhere, constitutional validity is in question, a structural fix is needed, two forum families are deadlocked, or a forum would otherwise be judging itself.
 
 Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or use up [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) windows.
 
