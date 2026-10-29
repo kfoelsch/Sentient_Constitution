@@ -225,6 +225,12 @@
               "status": "active"
             },
             {
+              "id": "CS-9.320",
+              "label": "CS-9.320 — System alignment certification illustrations",
+              "file": "corpus_systems/cs_09.320_system_alignment_certification_illustrations.md",
+              "status": "active"
+            },
+            {
               "id": "CS-14.305",
               "label": "CS-14.305 — Critical system stewardship",
               "file": "corpus_systems/cs_14.305_critical_system_stewardship.md",

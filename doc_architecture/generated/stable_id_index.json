@@ -126,12 +126,7 @@
       "status": "present"
     },
     {
-      "file": "core_09.015_system_alignment_certification_illustrations.md",
-      "label": "core",
-      "status": "present"
-    },
-    {
-      "file": "core_09.020_institutional_alignment_certification.md",
+      "file": "core_09.015_institutional_alignment_certification.md",
       "label": "core",
       "status": "present"
     },

@@ -98,7 +98,7 @@ Certification under this Part:
 
 <br>
 
-*In plain terms: a System Certification Record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [Illustrative System Class Profiles (Non-Exhaustive)](core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.*
+*In plain terms: a System Certification Record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [CS-9.320 §2 Illustrative system class profiles](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-2-illustrative-system-class-profiles) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.*
 
 This section is **Phase V, Record**, after [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (**Phase IV, Decide**). The record is opened for forum review in Phase III and completed here with the outcome.
 
@@ -165,7 +165,7 @@ The record must identify, at minimum:
   - the governing [System Charter](core_05.040_band_continuity.md#system-charter) (or the reasoned absence of one, where that is immaterial);
   - affected communities and dependencies;
   - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists; and
-  - where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Part E §12.1 Relation to System Alignment Certification](core_09.020_institutional_alignment_certification.md#121-relation-to-system-alignment-certification));
+  - where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Part D §12.1 Relation to System Alignment Certification](core_09.015_institutional_alignment_certification.md#121-relation-to-system-alignment-certification));
 - **Prior record:** for a recertification, or a reopened or fresh review, a link to the completed record it follows, kept under the Act Record rules in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs), and what has changed since.
 
 <a id="812-classification-and-whole-system-findings"></a>
@@ -475,7 +475,7 @@ Review reopens under Chapter Thirteen and incorporated system implementation dut
   - classification misalignment.
 - **System Charter and Institutional Certification Record:**
   - a [System Charter](core_05.040_band_continuity.md#system-charter) amendment, a mismatch between the System Charter and behavior, operation materially outside chartered scope, or an overdue scheduled System Charter review;
-  - a failed or withdrawn Institutional Certification Record of the operator or steward, where the finding bears on this system ([Part E §15.2 Reopening triggers](core_09.020_institutional_alignment_certification.md#152-reopening-triggers)).
+  - a failed or withdrawn Institutional Certification Record of the operator or steward, where the finding bears on this system ([Part D §15.2 Reopening triggers](core_09.015_institutional_alignment_certification.md#152-reopening-triggers)).
 - **Evaluation misalignment:** misalignment or a defect reflected on the System Certification Record under any Part A evaluation that applied, from [§2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations). That includes risk-evaluation or risk-disclosure defects under [§3.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors).
 
 **Why reopening matters.** Reopening on misalignment, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). This matters where shared systems gate the durable supply of survival essentials, educational access, capability-building pathways, trustworthy reliance, or safety. An out-of-date certification must not substitute for current Rights-Floor compliance.
@@ -790,4 +790,4 @@ These items, in the System Certification Record of a certified system, may suppl
 
 **Previous file:** [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-certification-forum-process-and-outcomes)
 
-**Next file:** [core_09.015_system_alignment_certification_illustrations.md](core_09.015_system_alignment_certification_illustrations.md#chapter-nine-part-d-certification-illustrations)
+**Next file:** [core_09.015_institutional_alignment_certification.md](core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)

@@ -50,7 +50,6 @@ CHAPTER_WORDS = {
 
 # Files that add no rule: they must say so instead of claiming ownership.
 CORE_NON_OWNER = {
-    "core_09.015_system_alignment_certification_illustrations.md",
     "core_10.005_application_vignettes.md",
 }
 # Chapter Six Part A carries the chapter-level claim and does not name "Part A".

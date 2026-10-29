@@ -1,13 +1,13 @@
-<a id="chapter-nine-part-e-institutional-alignment-certification"></a>
-# CHAPTER NINE, PART E: INSTITUTIONAL ALIGNMENT CERTIFICATION
+<a id="chapter-nine-part-d-institutional-alignment-certification"></a>
+# CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part E** — **institutional alignment certification**: how an [Institution](core_05.040_band_continuity.md#institution), as distinct from any System it runs, is classified, evaluated, reviewed, decided, recorded, kept current, and reopened (**§12–§16**, continuing the numbering of Part C **§8–§11**). **Parts A, B, and C** own the System Alignment Certification process that this Part reuses. **Part D** holds the worked system illustrations and is not extended here.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part D** — **institutional alignment certification**: how an [Institution](core_05.040_band_continuity.md#institution), as distinct from any System it runs, is classified, evaluated, reviewed, decided, recorded, kept current, and reopened (**§12–§16**, continuing the numbering of Part C **§8–§11**). **Parts A, B, and C** own the System Alignment Certification process that this Part reuses. The worked system illustrations are in [CS-9.320](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-system-alignment-certification-illustrations) (*System alignment certification illustrations*) and are not extended here.
 >
-> - **Constitutional owner (joint with Parts A, B, and C):** forum-supervised alignment certification and related records. Part E adds the institutional subject. It adds no new forum family, no new seat, and no new outcome word.
-> - **Reuse, not repetition:** Phases III to VI run as [Part B §6](core_09.005_system_alignment_certification_record_process.md#6-forum-process) to [Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) provide. Part E states only what changes when the subject is an Institution.
-> - **Anti-relocation rule:** Part E does not restate Part A evaluation mechanics for a System, the Chapter Seven System Charter and Institutional Charter fields, the Chapter Eight Four-Seat Requirement, the institutional duties in [corpus_institutions](corpus_institutions.md), Chapter Ten standing measurement, or Chapter Eleven standing effects.
+> - **Constitutional owner (joint with Parts A, B, and C):** forum-supervised alignment certification and related records. Part D adds the institutional subject. It adds no new forum family, no new seat, and no new outcome word.
+> - **Reuse, not repetition:** Phases III to VI run as [Part B §6](core_09.005_system_alignment_certification_record_process.md#6-forum-process) to [Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) provide. Part D states only what changes when the subject is an Institution.
+> - **Anti-relocation rule:** Part D does not restate Part A evaluation mechanics for a System, the Chapter Seven System Charter and Institutional Charter fields, the Chapter Eight Four-Seat Requirement, the institutional duties in [corpus_institutions](corpus_institutions.md), Chapter Ten standing measurement, or Chapter Eleven standing effects.
 >
 > **Upstream:** [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) Charters; [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence; [Part A](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation), [Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes), and [Part C](core_09.010_system_alignment_certification_record_recertification.md#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing); Chapter Thirteen forum supervision.
 > **Downstream:** Chapter Ten standing records and verified inputs; Chapter Eleven standing effects.
@@ -45,13 +45,13 @@
 
 <br>
 
-Chapter Nine, **Part E**, is the constitutional owner of **institutional alignment certification**. It extends the process of Parts A to D from a System to an Institution:
+Chapter Nine, **Part D**, is the constitutional owner of **institutional alignment certification**. It extends the process of Parts A to C from a System to an Institution:
 
 - **Phase I, Frame** and **Phase II, Evaluate:** the institution class and the institutional evaluation ([§13 Institution Class and Institutional Evaluation](#13-institution-class-and-institutional-evaluation));
 - **Phase III, Review**, **Phase IV, Decide**, and **Phase V, Record:** the forum roles, the outcome, the Institutional Certification Record, and remediation readiness with denial and revocation ([§14 Review, Decision, and Record](#14-review-decision-and-record)); and
 - **Phase VI, Operate:** recertification, reopening, the cascade from System certifications, and the forums that certify ([§15 Operating, Reopening, and the Cascade](#15-operating-reopening-and-the-cascade)), with the standing bridge ([§16 Standing Bridge and Non-Evasion](#16-standing-bridge-and-non-evasion)).
 
-*In plain terms: Parts A to D ask whether a **system** is aligned. Part E asks the same of the **institution** that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse. So the institution is checked on what only it controls: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the checks on it can actually be used. It relies on each system's certification and does not redo it. It is not a licence: nobody needs its permission to start or run an institution.*
+*In plain terms: Parts A to C ask whether a **system** is aligned. Part D asks the same of the **institution** that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse. So the institution is checked on what only it controls: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the checks on it can actually be used. It relies on each system's certification and does not redo it. It is not a licence: nobody needs its permission to start or run an institution.*
 
 <a id="12-purpose-relation-to-system-alignment-certification-and-scope"></a>
 
@@ -85,9 +85,9 @@ Chapter Nine, **Part E**, is the constitutional owner of **institutional alignme
 
 Institutional alignment certification and System Alignment Certification are two certifications joined by a link. The relation is **composition by link**, not containment:
 
-- **The System Certification Record belongs to the System:** An Institutional Certification Record cites it by link and names its version. Part E never re-runs a System evaluation, never re-decides a System's class, and never changes a System's outcome, status, or conditions.
+- **The System Certification Record belongs to the System:** An Institutional Certification Record cites it by link and names its version. Part D never re-runs a System evaluation, never re-decides a System's class, and never changes a System's outcome, status, or conditions.
 - **One System Certification Record may be cited by several Institutions:** A System can be operated, stewarded, or materially controlled by more than one Institution under [Chapter Seven §1 When System and Institutional Charters Are Required](core_07.000_charters.md#1-when-system-and-institutional-charters-are-required). Each cites the same record.
-- **A System need not sit under any Institution:** A single sentient is not an Institution, so a System may have none. Its certification is complete without Part E.
+- **A System need not sit under any Institution:** A single sentient is not an Institution, so a System may have none. Its certification is complete without Part D.
 - **The Institution's certification cannot lift a System's:** A System that is Not Certified stays Not Certified whatever the Institution's status. A System that holds certification gains no protection from an Institution's finding.
 - **Institutional facts are found once:** Where [Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) asks about the operator's governance and incentives, a current Institutional Certification Record for the operator may supply those facts by link. The System's forums still decide whether those facts are enough for that System. They may not find the same institutional fact differently without saying why on the System Certification Record.
 
@@ -95,7 +95,7 @@ Institutional alignment certification and System Alignment Certification are two
 
 #### 12.2 Who is certified
 
-An Institution of Class L or higher is within this Part, with the class decided under [§13.1 Institution class](#131-institution-class). That includes an Institution that runs no System that needs a System Charter, which has no certification of any kind under Parts A to D.
+An Institution of Class L or higher is within this Part, with the class decided under [§13.1 Institution class](#131-institution-class). That includes an Institution that runs no System that needs a System Charter, which has no certification of any kind under Parts A to C.
 
 - **Class A, B, C, and L:** the process applies, scaled by class under [§13.4 Scaling by class](#134-scaling-by-class).
 - **Class P:** the process is encouraged and may be used voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the Institution voluntarily asserts constitutional compliance. This mirrors [Part A §1 Purpose and Role](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role).
@@ -176,7 +176,7 @@ Every pass evaluates these seven items, which are the institutional counterpart 
 
 #### 13.3 Evaluations where implicated
 
-Where an Institution's own conduct implicates a Rights Floor or a domain covered by [Part A §4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated) or [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), the matching evaluation runs on the Institution's own conduct, with the same triggers. The institutional duties themselves are owned by adopted institutional text, including **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-6.215** (*Resource stewardship and incentive integrity*), and **CI-11.205** (*Remedy systems and institutional redress capacity*). Part E cites them and does not restate them. An evaluation already made on a cited System Certification Record is not made again.
+Where an Institution's own conduct implicates a Rights Floor or a domain covered by [Part A §4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated) or [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), the matching evaluation runs on the Institution's own conduct, with the same triggers. The institutional duties themselves are owned by adopted institutional text, including **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-6.215** (*Resource stewardship and incentive integrity*), and **CI-11.205** (*Remedy systems and institutional redress capacity*). Part D cites them and does not restate them. An evaluation already made on a cited System Certification Record is not made again.
 
 <a id="134-scaling-by-class"></a>
 
@@ -227,7 +227,7 @@ This section is **Phase III, Review**, **Phase IV, Decide**, and **Phase V, Reco
 
 #### 14.1 Four seats in an institutional certification
 
-This subsection is how Part E applies the [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement), and it is the statement [Chapter Eight §9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes) requires of this process. An institutional certification is a [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), so every pass has the four seats. This Part adds no seat and relaxes no rule of Chapter Eight. [Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) applies with these substitutions:
+This subsection is how Part D applies the [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement), and it is the statement [Chapter Eight §9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes) requires of this process. An institutional certification is a [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), so every pass has the four seats. This Part adds no seat and relaxes no rule of Chapter Eight. [Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) applies with these substitutions:
 
 - **[Initiating Seat](core_05.035_band_accountability.md#initiating-seat):** the Institution's governing authority, which requests certification or is the proponent who must supply the evidence. A pass opened on a trigger is opened by the lead forum's order, and the governing authority remains the proponent.
 - **[Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat):** the lead forum for the outcome, and each component authority for its own finding, assigned under [§14.2 Forum roles and sequence](#142-forum-roles-and-sequence) and Chapter Thirteen. The [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) does not place this seat. The Institution cannot choose, appoint, fund through a channel it controls, or remove its own verifying authority. No one who works for the Institution, is owned by it, or answers to it may hold this seat for its certification, and everyone who holds it must have no interest that the outcome decides. The same rule applies to a system certification ([Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification), *Outside the operator*).
@@ -403,7 +403,7 @@ When a System Certification Record the Institution cites **fails** (a recertific
 
 #### 15.5 Forums, certifiers, and record offices as institutions
 
-A forum host, a certifying body, a record office, a verifying authority, or any other body that takes part in certifications is an [Institution](core_05.040_band_continuity.md#institution) where it meets that definition, and Part E applies to it as to any other Institution of its class.
+A forum host, a certifying body, a record office, a verifying authority, or any other body that takes part in certifications is an [Institution](core_05.040_band_continuity.md#institution) where it meets that definition, and Part D applies to it as to any other Institution of its class.
 
 - **No self-judging:** Its own pass is led and reviewed by a forum outside it and outside its [Material Control Line](core_05.035_band_accountability.md#material-control-line). Where the question is the forum family's own bias, capture, conflict, or process abuse, the backup routing of the [Chapter Thirteen §3 Transfer, consolidation, and coordination](core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) cross-forum anti-self-judging rule and **CF-13.435 §6** (*no self-investigation*) applies.
 - **No circle:** A body does not hold a seat in the certification of a body that holds a seat in its own, directly or through a chain of bodies that returns to the first within one recertification cycle. A pass that would close a circle routes to a body outside it.
@@ -445,6 +445,6 @@ A forum host, a certifying body, a record office, a verifying authority, or any 
 
 ---
 
-**Previous file:** [core_09.015_system_alignment_certification_illustrations.md](core_09.015_system_alignment_certification_illustrations.md#chapter-nine-part-d-certification-illustrations)
+**Previous file:** [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md#chapter-nine-part-c-certification-record-recertification-and-standing)
 
 **Next file:** [core_10.000_standing_assessment.md](core_10.000_standing_assessment.md)
