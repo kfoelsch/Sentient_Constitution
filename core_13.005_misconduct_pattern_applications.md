@@ -1189,7 +1189,7 @@ This subsection does **not**:
 - add an additional designation criterion beyond the **section 2** set;
 - convert every obstruction finding into an Anti-Constitutional Misconduct Review matter;
 - equate obstruction of accountability with anti-constitutional-misconduct designation; or
-- relocate standing measurement, ordinary locks, or forum supervision from Chapters Eleven, Eleven, or Thirteen.
+- relocate standing measurement, ordinary locks, or forum supervision from Chapters Eleven, Twelve, or Fourteen.
 
 It routes evaluation of the umbrella pattern into the existing designation criteria and due-process safeguards of this chapter.
 
