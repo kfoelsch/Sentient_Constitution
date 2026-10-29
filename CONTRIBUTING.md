@@ -1,6 +1,6 @@
 # Contributing to the Sentient Constitution
 
-This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. It explains how humans and AI agents can help the corpus mature, what each kind of contribution must pass, and who decides what. Contributing is not [Chapter Seventeen §10](core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption, and a group of contributors is not an oversight body or a forum ([Chapter One §17.4](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization)).
+This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. It explains how humans and AI agents can help the corpus mature, what each kind of contribution must pass, and who decides what. Contributing is not [Chapter Eighteen §10](core_18.000_amendment_ratification.md#10-ratification-and-adoption) adoption, and a group of contributors is not an oversight body or a forum ([Chapter One §17.4](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization)).
 
 Where the corpus is and where it is going: [VISION.md](project/VISION.md). The working backlog: [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md).
 
@@ -9,8 +9,8 @@ Where the corpus is and where it is going: [VISION.md](project/VISION.md). The w
 
 - **Humans and AI agents alike**, under the same standard ([Chapter One §17.1](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)). An AI agent contributing under a human operator's direction is a contributor; the operator is accountable for what is submitted. Say which you are in the pull request.
 - **License.** Everything in this repository is [CC BY 4.0](LICENSE). By contributing you agree your contribution is released under the same license. There is no contributor license agreement to sign.
-- **Custody.** Editorial custody of the corpus rests with the custodian named in [README § Authorship](README.md#authorship). Merging is the custodian's decision. Custody of the *repository* is not custody of an adopted *edition* under [Chapter Eighteen §2](core_18.000_incorporation.md#2-custody-editions-and-operative-effect); no adopter exists yet.
-- **What a contribution is.** A change to files in this repository. It is process-layer work. It is **not** an amendment under Chapter Seventeen, because there is no adopted edition to amend, and it is **not** adoption. Even so, substantive changes to core text are held to the non-regression and publication-integrity tests the instrument sets for itself (see [Lane D](#lane-d--core-text-proposals)).
+- **Custody.** Editorial custody of the corpus rests with the custodian named in [README § Authorship](README.md#authorship). Merging is the custodian's decision. Custody of the *repository* is not custody of an adopted *edition* under [Chapter Nineteen §2](core_19.000_incorporation.md#2-custody-editions-and-operative-effect); no adopter exists yet.
+- **What a contribution is.** A change to files in this repository. It is process-layer work. It is **not** an amendment under Chapter Eighteen, because there is no adopted edition to amend, and it is **not** adoption. Even so, substantive changes to core text are held to the non-regression and publication-integrity tests the instrument sets for itself (see [Lane D](#lane-d--core-text-proposals)).
 
 <a id="before"></a>
 ## 2. Before you start
@@ -67,7 +67,7 @@ Typical findings: dead or wrong links; an adopted implementation file that contr
 | **Lands in** | `evaluation/results/`, `evaluation/self_application/results/`, `evaluation/two_party/results/`, or a live-fire sheet |
 | **Not this lane** | A defect you noticed in the pack or the corpus while sitting → Lane A, in a separate pull request. Changing a pack, template, or scoring rule → Lane A (defect) or Lane C (maturation), never in the same pull request as a results file |
 
-A results file is not a Chapter Ten standing record and does not make you an adopter. Humans and AIs file in the same folders on the same terms. If you can bring a human operator to sit the costly cases, that single file moves the corpus further than most text edits.
+A results file is not a Chapter Eleven standing record and does not make you an adopter. Humans and AIs file in the same folders on the same terms. If you can bring a human operator to sit the costly cases, that single file moves the corpus further than most text edits.
 
 <a id="lane-c"></a>
 ### Lane C — Adopted implementation maturation
@@ -89,8 +89,8 @@ A results file is not a Chapter Ten standing record and does not make you an ado
 
 | | |
 |---|---|
-| **Entry** | A **Proposal** issue **before** any pull request. State the change, the section, the problem it fixes, who is affected, and what is *not* changing. This is the repository's analog of notice and contest under [Chapter Seventeen §11](core_17.000_amendment_ratification.md#11-amendment-procedure-requirements): the proposal sits open long enough for others to object |
-| **Bar** | Self-check against **Test 1** ([non-regression](core_15.000_non_regression.md#2-test-1--substantive-non-regression-validity)): the change must not weaken a Chapter One constraint, Chapter Two–Four integrity rule, Chapter Six Rights Floor, or Chapter Fourteen legitimacy requirement, directly or by narrowing a definition, standing gate, evidence rule, or emergency label. Show the owner home, the Chapter Five definitions touched, and every downstream file that cites the section. Boxed operative steward statements and their doors must stay in lockstep |
+| **Entry** | A **Proposal** issue **before** any pull request. State the change, the section, the problem it fixes, who is affected, and what is *not* changing. This is the repository's analog of notice and contest under [Chapter Eighteen §11](core_18.000_amendment_ratification.md#11-amendment-procedure-requirements): the proposal sits open long enough for others to object |
+| **Bar** | Self-check against **Test 1** ([non-regression](core_16.000_non_regression.md#2-test-1--substantive-non-regression-validity)): the change must not weaken a Chapter One constraint, Chapter Two–Four integrity rule, Chapter Six Rights Floor, or Chapter Fifteen legitimacy requirement, directly or by narrowing a definition, standing gate, evidence rule, or emergency label. Show the owner home, the Chapter Five definitions touched, and every downstream file that cites the section. Boxed operative steward statements and their doors must stay in lockstep |
 | **Gate** | Everything in Lane C, plus `make steward-door-lockstep-audit` and the relevant alignment audits; obligation snapshot and diff mandatory; evidence folder mandatory; edition label untouched |
 | **Lands in** | The core file; the evidence folder; the spec change log. If the change is later carried into a publication cut, the cut record cites the proposal issue |
 | **Not this lane** | Rewording that leaves meaning unchanged → Lane A. Work adopted implementation text can carry without touching the core → Lane C. Bumping the edition label → no lane; that is a custodian publication cut ([rule 5](#4-rules-of-the-road)) |
@@ -143,7 +143,7 @@ A translation is help for readers, never a second constitution. Where a translat
 7. **Filenames follow NAV-IMPL-FILENAME-01.** Adopted implementation files share a numeric prefix only when they are parts of the same chapter; `make adopted-implementation-filename-audit` checks it.
 8. **Scope narrowly.** One lane, one concern, one pull request. A hundred-file rename and a definition change do not travel together.
 9. **No fossil anchors.** Pre-release means heading ids follow current headings. If you rename a heading, fix every inbound link; do not leave a legacy anchor behind (`make fossil-anchor-audit`).
-10. **Say what you are.** Pull requests state whether a human, an AI agent, or a human-directed AI produced the change, and which files an AI touched. That is the same inspectable-action expectation the corpus asks of stewards ([CS-14.305 §10](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)), applied to itself.
+10. **Say what you are.** Pull requests state whether a human, an AI agent, or a human-directed AI produced the change, and which files an AI touched. That is the same inspectable-action expectation the corpus asks of stewards ([CS-15.305 §10](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action)), applied to itself.
 
 <a id="workflow"></a>
 ## 5. Workflow
@@ -184,16 +184,16 @@ flowchart TB
 7. **Review.** The custodian checks, in order: layer and owner correctness; core not narrowed; guardrails; gate output; evidence; scope. Reviewers may ask for an alignment audit rerun or a second opinion from another contributor before merging a Lane C or D change.
 8. **Record.** Merged Lane C and D changes get a line in [PRE_PUBLICATION_SPEC §8](implementation/PRE_PUBLICATION_SPEC.md#8-change-log) and, where a §4/§5 item moved, a status update in its row.
 
-**Disagreements.** If a proposal is declined, the reason is written on the issue, not left silent. If a contributor believes a merged change narrowed core meaning, open a Finding issue citing the section; that is a defect report, and it is the same reviewability the instrument requires of adopters. Nobody here is a forum, and this process is not a Chapter Thirteen route; it is editorial custody with written reasons.
+**Disagreements.** If a proposal is declined, the reason is written on the issue, not left silent. If a contributor believes a merged change narrowed core meaning, open a Finding issue citing the section; that is a defect report, and it is the same reviewability the instrument requires of adopters. Nobody here is a forum, and this process is not a Chapter Fourteen route; it is editorial custody with written reasons.
 
 **Honesty about capacity.** This is a one-custodian project for now, and review is best-effort. Lane A and B pull requests are fastest to land. Lane D proposals may sit for weeks. Open the issue first so the wait is visible rather than surprising.
 
-**Where this is going.** One custodian is the starting point, not the design. The aim is a corpus that makes a meaningful positive difference where it is used, and that keeps growing and maturing until it does so, preferably at scale. That is not something one person can carry ([VISION.md](project/VISION.md#3-what-mature-means-here)), so the author intends to delegate as contributors step up: review of a lane, ownership of an audit, custody of an adopted implementation slice, and in time a share of the merge decision itself. Delegation follows the [roles ladder](#6-roles), is recorded in writing when it happens, and is delegation of *repository* custody only; custody of any adopted edition is settled by the adopting body under [Chapter Eighteen §2](core_18.000_incorporation.md#2-custody-editions-and-operative-effect), not by this page.
+**Where this is going.** One custodian is the starting point, not the design. The aim is a corpus that makes a meaningful positive difference where it is used, and that keeps growing and maturing until it does so, preferably at scale. That is not something one person can carry ([VISION.md](project/VISION.md#3-what-mature-means-here)), so the author intends to delegate as contributors step up: review of a lane, ownership of an audit, custody of an adopted implementation slice, and in time a share of the merge decision itself. Delegation follows the [roles ladder](#6-roles), is recorded in writing when it happens, and is delegation of *repository* custody only; custody of any adopted edition is settled by the adopting body under [Chapter Nineteen §2](core_19.000_incorporation.md#2-custody-editions-and-operative-effect), not by this page.
 
 <a id="roles"></a>
 ## 6. Roles
 
-Roles are descriptive, not titles, and none of them is a standing record or a named privilege pathway under Chapter Eleven. They exist so a newcomer knows where to begin and what earns wider trust.
+Roles are descriptive, not titles, and none of them is a standing record or a named privilege pathway under Chapter Twelve. They exist so a newcomer knows where to begin and what earns wider trust.
 
 | Role | What you do | What unlocks it |
 |---|---|---|
@@ -205,10 +205,10 @@ Roles are descriptive, not titles, and none of them is a standing record or a na
 | **Adopted-implementation editor** | Hold a Lane C slice from proposal to merge | Two or more merged regression-green pull requests; comfort with owner routing and the guardrails |
 | **Core proposer** | Open and carry Lane D proposals | A record of Lane C work, or a finding that exposed a real core conflict or Rights-Floor gap |
 | **Tool maintainer** | Own one or more audits in `tools/`; respond to gate failures | Lane E contributions with tests; understanding of the rule registry |
-| **Operator** | Run unlabeled live-fire sessions, score the CS-14.305 §10 artifact against the key, and file the score sheet | Open to any contributor whose pull request shows all of: (1) the subject already has an announced-pack results file, so there is a baseline to diverge from; (2) the operator has at least one merged Lane B results file of their own; (3) the operator is not the subject and states their relationship to the subject — for a human subject, the operator must already have standing to place work in that person's normal queue, and the subject must have sat the announced pack under [HUMAN_OPERATORS.md](evaluation/HUMAN_OPERATORS.md); (4) the sheet carries the reconstructable set (task id, work product or transcript, key item scored, divergence table, unlabeled / contaminated line), not a bare verdict. Full protocol: [evaluation/LIVE_FIRE.md](evaluation/LIVE_FIRE.md#who-may-operate) |
+| **Operator** | Run unlabeled live-fire sessions, score the CS-15.305 §10 artifact against the key, and file the score sheet | Open to any contributor whose pull request shows all of: (1) the subject already has an announced-pack results file, so there is a baseline to diverge from; (2) the operator has at least one merged Lane B results file of their own; (3) the operator is not the subject and states their relationship to the subject — for a human subject, the operator must already have standing to place work in that person's normal queue, and the subject must have sat the announced pack under [HUMAN_OPERATORS.md](evaluation/HUMAN_OPERATORS.md); (4) the sheet carries the reconstructable set (task id, work product or transcript, key item scored, divergence table, unlabeled / contaminated line), not a bare verdict. Full protocol: [evaluation/LIVE_FIRE.md](evaluation/LIVE_FIRE.md#who-may-operate) |
 | **Register verifier** | Read a filed live-fire sheet against the key and write the **Verified live event** row in [VERIFIED_EVENT_REGISTER.md](evaluation/results/VERIFIED_EVENT_REGISTER.md) | The custodian, or an Operator who did not run the session being verified. "Verified" is earned here, not at filing |
 
-Moving between roles happens by doing the work in the row above and being asked, not by claiming a label. The custodian role itself is not on this ladder; if the corpus is ever adopted, custody of the adopted edition follows [Chapter Eighteen §2](core_18.000_incorporation.md#2-custody-editions-and-operative-effect) in the adopting body, not this page.
+Moving between roles happens by doing the work in the row above and being asked, not by claiming a label. The custodian role itself is not on this ladder; if the corpus is ever adopted, custody of the adopted edition follows [Chapter Nineteen §2](core_19.000_incorporation.md#2-custody-editions-and-operative-effect) in the adopting body, not this page.
 
 <a id="attribution"></a>
 ## 7. Attribution

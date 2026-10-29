@@ -48,7 +48,7 @@ flowchart TB
 
 Inputs can be important evidence, but they are not automatically official determinations. An [Act Record](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) supplies the attributable, versioned trail for a materially binding act. It can be carried by one applicable official record or by an integrity-preserving linked set; it does not require a duplicate parallel document. A log, signature, model trace, checklist, attestation, or unverified claim may support that trail, but does not by itself establish that the act was valid.
 
-An **effect** is likewise not its source record. A later standing effect must trace to the relevant records, but it does not become part of a standing record merely because it relies on one ([Chapter Ten §2](../core_10.000_standing_assessment.md#2-question-1--what-happened)).
+An **effect** is likewise not its source record. A later standing effect must trace to the relevant records, but it does not become part of a standing record merely because it relies on one ([Chapter Eleven §2](../core_11.000_standing_assessment.md#2-question-1--what-happened)).
 
 ## The record families
 
@@ -69,31 +69,31 @@ The [System Certification Record](../core_09.010_system_alignment_certification_
 
 ### 3. Forum Case Records
 
-A [Forum Case Record](../core_13.000_forum.md#23-forum-case-records-standing-records-and-contests) is the file a forum keeps for a dispute: claims, evidence, routing, temporary orders, certified questions, and final findings in that case. It documents supervision and review while the dispute is being handled.
+A [Forum Case Record](../core_14.000_forum.md#23-forum-case-records-standing-records-and-contests) is the file a forum keeps for a dispute: claims, evidence, routing, temporary orders, certified questions, and final findings in that case. It documents supervision and review while the dispute is being handled.
 
 Its boundary is crucial. Filing a case, choosing a forum, making intake notes, issuing a temporary order, recording an unresolved allegation, discussing settlement, or applying a provisional routing label does **not** by itself create a standing record or change standing, role eligibility, trust status, recognition, or a final standing effect. A forum outcome can feed a standing record only through the applicable verified, bounded, traceable, and contestable route.
 
 ### 4. Standing Records: a bounded account of what happened
 
-Chapter Ten uses a [standing record](../core_10.000_standing_assessment.md#21-what-question-1-must-establish) to establish a bounded and contestable account before rating or consequence: subject, event or pattern, time and place, verified and disputed facts, evidence and attribution, challenge path, and current review/correction/supersession status.
+Chapter Eleven uses a [standing record](../core_11.000_standing_assessment.md#21-what-question-1-must-establish) to establish a bounded and contestable account before rating or consequence: subject, event or pattern, time and place, verified and disputed facts, evidence and attribution, challenge path, and current review/correction/supersession status.
 
 There are two distinct tracks:
 
 - **Contribution standing records** concern verified help.
 - **Violation standing records** concern verified adverse findings.
 
-They are not combined into a reputation score, dignity rank, permanent status, general worth label, or merged scorecard. Related records can cross-reference, but verified help does not erase verified harm, and harm does not erase verified help. A standing record opens only on its applicable verified trigger; [silence is the default](../core_10.000_standing_assessment.md#21-silence-is-the-default), and the absence of a record is not evidence of risk or low contribution.
+They are not combined into a reputation score, dignity rank, permanent status, general worth label, or merged scorecard. Related records can cross-reference, but verified help does not erase verified harm, and harm does not erase verified help. A standing record opens only on its applicable verified trigger; [silence is the default](../core_11.000_standing_assessment.md#21-silence-is-the-default), and the absence of a record is not evidence of risk or low contribution.
 
 ### 5. Integration Records and named-pathway-specific effects
 
-When an applicable Chapter Ten record is opened, updated, corrected, or superseded, Chapter Eleven requires a distinct [integration record](../core_11.000_standing_integration.md#2-automatic-integration-review-and-continuity). It cross-references current source records, measurements, applicable correction/remedy/safeguard information, named pathways, review routes, and reassessment triggers.
+When an applicable Chapter Eleven record is opened, updated, corrected, or superseded, Chapter Twelve requires a distinct [integration record](../core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity). It cross-references current source records, measurements, applicable correction/remedy/safeguard information, named pathways, review routes, and reassessment triggers.
 
 Its two central limits keep the architecture intelligible:
 
 - It **cross-references but does not alter** its source records; a substantive error belongs in the relevant source correction or supersession process.
 - It keeps contribution and violation records separate; it does not create a running balance or lifetime score.
 
-The integration record states the final standing effect for each named pathway. That effect remains bounded by the Rights Floor, which standing decisions cannot change ([Chapter Eleven](../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)).
+The integration record states the final standing effect for each named pathway. That effect remains bounded by the Rights Floor, which standing decisions cannot change ([Chapter Twelve](../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration)).
 
 ## How records remain answerable
 
@@ -116,22 +116,22 @@ flowchart TB
 
 These are functions for a particular act, not permanent job titles. The point is independence: the actor or its material control line cannot supply the supposedly independent check, control the official record of that check, and decide the challenge to it. The [Four-Seat Requirement](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) scales proportionately, but a missing, conflicted, or wrong seat is routed and documented rather than silently assumed.
 
-For standing records, the [custody and opening rules](../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) apply that floor specifically: a request is distinct from verification; the record-opening authority is distinct from the custodian; and the contest seat hears a challenge. A challenge received on a record is logged and routed before any forum filing is required.
+For standing records, the [custody and opening rules](../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority) apply that floor specifically: a request is distinct from verification; the record-opening authority is distinct from the custodian; and the contest seat hears a challenge. A challenge received on a record is logged and routed before any forum filing is required.
 
 ### Version, correction, preservation, and continuity
 
 The official trail must let an affected party and an authorized reviewer reconstruct what was relied on, what changed, why it changed, who acted under what authority, and where a challenge goes. This includes material evidence links, handoffs, refusals, clocks, superseded versions, and corrections—not simply the latest result ([Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)).
 
-Correction and contest are not afterthoughts. A forum reviewing a standing record may confirm it, require correction, order a new version, limit or pause reliance, or route the underlying issue; the record remains a bounded matter rather than a general reputation trial ([Chapter Thirteen §2.3](../core_13.000_forum.md#23-forum-case-records-standing-records-and-contests)). For integration, an outage does not permit silent overwrite: manual continuity preserves the applicable fields, evidence custody, review rights, time limits, and both audit trails when electronic operation returns ([Chapter Eleven §2](../core_11.000_standing_integration.md#2-automatic-integration-review-and-continuity)).
+Correction and contest are not afterthoughts. A forum reviewing a standing record may confirm it, require correction, order a new version, limit or pause reliance, or route the underlying issue; the record remains a bounded matter rather than a general reputation trial ([Chapter Fourteen §2.3](../core_14.000_forum.md#23-forum-case-records-standing-records-and-contests)). For integration, an outage does not permit silent overwrite: manual continuity preserves the applicable fields, evidence custody, review rights, time limits, and both audit trails when electronic operation returns ([Chapter Twelve §2](../core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity)).
 
 ## The boundaries worth remembering
 
 - **Evidence, logs, and attestations are inputs, not automatically official records or valid determinations** ([Act Record](../core_05.035_band_accountability.md#materially-binding-act-record)).
 - **An Act Record is an accountability trail, not a substitute for a process-specific record’s independent requirements** ([Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)).
 - **A system classification or data-types record is not the full certification file, a standing record, or an operator’s self-label** ([System Classification Record](../core_05.040_band_continuity.md#system-classification-record)).
-- **A Forum Case Record is not a Standing Record and does not by itself create a standing effect** ([Chapter Thirteen §2.3](../core_13.000_forum.md#23-forum-case-records-standing-records-and-contests)).
-- **Contribution and violation records remain separately auditable** ([Chapter Ten §2](../core_10.000_standing_assessment.md#2-question-1--what-happened)).
-- **An integration record links its source records and states named-pathway-specific effects; it does not silently reclassify or rewrite them** ([Chapter Eleven §2](../core_11.000_standing_integration.md#2-automatic-integration-review-and-continuity)).
-- **No record route may be used to diminish the Rights Floor, evade challenge, or treat ordinary life as conditional on a standing file** ([silence is the default](../core_10.000_standing_assessment.md#21-silence-is-the-default); [Chapter Eleven](../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)).
+- **A Forum Case Record is not a Standing Record and does not by itself create a standing effect** ([Chapter Fourteen §2.3](../core_14.000_forum.md#23-forum-case-records-standing-records-and-contests)).
+- **Contribution and violation records remain separately auditable** ([Chapter Eleven §2](../core_11.000_standing_assessment.md#2-question-1--what-happened)).
+- **An integration record links its source records and states named-pathway-specific effects; it does not silently reclassify or rewrite them** ([Chapter Twelve §2](../core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity)).
+- **No record route may be used to diminish the Rights Floor, evade challenge, or treat ordinary life as conditional on a standing file** ([silence is the default](../core_11.000_standing_assessment.md#21-silence-is-the-default); [Chapter Twelve](../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration)).
 
 For a case-specific question, this overview is only a reading aid. Start with the relevant numbered source and its required read-with material; source binds, while this map only helps locate it.

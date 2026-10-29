@@ -13,7 +13,7 @@ from dataclasses import dataclass
 from corpus_paths import binding_corpus_scope
 
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
-_BREACH_FAMILY_SCOPE = frozenset({"core_10.000_standing_assessment.md", "core_11.000_standing_integration.md"})
+_BREACH_FAMILY_SCOPE = frozenset({"core_11.000_standing_assessment.md", "core_12.000_standing_integration.md"})
 
 # Ban the word **instrument** / **instruments** (custodian decision, 2026-10-19). Name the thing: System Charter, Institutional Charter,
 # rule set, record, act; otherwise **document** or **text**. Enforced only on files in `_INSTRUMENT_SCOPE`; expand as other files are swept.
@@ -48,7 +48,7 @@ _SEGREGATION_WORD = re.compile(r"(?<![A-Za-z0-9-])segregat(?:e|es|ed|ing|ion|ion
 _DISINTERESTED_WORD = re.compile(r"(?<![A-Za-z0-9-])disinterested(?![A-Za-z0-9-])", re.IGNORECASE)
 
 # Ban **merits authority** (and merits-authority, merits authorities) (custodian decision, 2026-10-26). The phrase was undefined jargon for a forum
-# family's power to decide the substance of a dispute. Say **jurisdiction** (a forum family's scope under Chapter Thirteen), or **decision-making
+# family's power to decide the substance of a dispute. Say **jurisdiction** (a forum family's scope under Chapter Fourteen), or **decision-making
 # authority** for what a role may decide. Related words (merits forum, merits decision) are not banned. Enforced on the same files as the instrument ban.
 _MERITS_AUTHORITY_PHRASE = re.compile(r"(?<![A-Za-z0-9-])merits[ -]authorit(?:y|ies)(?![A-Za-z0-9-])", re.IGNORECASE)
 
@@ -95,7 +95,7 @@ _CURE_FAMILY = re.compile(
 _CLOUD_WORD = re.compile(r"(?<![A-Za-z0-9])cloud(?![A-Za-z0-9])", re.IGNORECASE)
 
 # Prefer **constitutional** / **this Constitution** for Corpus sense; keep **charter** for allowlisted legal-instrument senses
-# (the Chapter Five terms System Charter, Institutional Charter, Constitutional Charter, Charter Role Map, and Charter Pointer; the Chapter Fourteen
+# (the Chapter Five terms System Charter, Institutional Charter, Constitutional Charter, Charter Role Map, and Charter Pointer; the Chapter Fifteen
 # treaty, compact, or Constitutional Charter family; corporate charter; verb forms). A bare **Charter** is not allowed:
 # name which Charter is meant.
 _CHARTER_WORD = re.compile(r"(?<![A-Za-z0-9])charter(?![A-Za-z0-9])", re.IGNORECASE)
@@ -399,7 +399,7 @@ def run_internal_regression_checks() -> None:
     standing_calculus_findings = scan_avoid_standing_calculus(
         "internal-regression.md",
         "Forums must not run standing calculus.\n"
-        "Use standing-record classification under Chapter Ten instead.\n"
+        "Use standing-record classification under Chapter Eleven instead.\n"
         "`standing calculus` inside backticks is documentation only.\n",
     )
     if len(standing_calculus_findings) != 1:
@@ -614,7 +614,7 @@ def run_internal_regression_checks() -> None:
         "The forum has merits authority over the point.\n"
         "Technical support must not displace Merits Authorities.\n"
         "The forum has jurisdiction over the point, and the merits forum decides.\n"
-        "See [the chapter](core_13.000_merits-authority.md) and `merits authority` in code.\n"
+        "See [the chapter](core_14.000_merits-authority.md) and `merits authority` in code.\n"
         "An anchor id=\"old-merits-authority\" is not prose.\n",
     )
     if len(merits_authority_findings) != 2:
@@ -654,7 +654,7 @@ def run_internal_regression_checks() -> None:
         "The Environment forum family reviews ecology.\n"
         "Sentient Forums, Technical Forum Domains, and Institutional Forums are correct.\n"
         "Each forum family and the lead forum keep lowercase forum.\n"
-        "See [the section](core_13.000_forum.md#41-sentient-forums) and `Sentient forums` in code.\n"
+        "See [the section](core_14.000_forum.md#41-sentient-forums) and `Sentient forums` in code.\n"
         "An anchor id=\"41-sentient-forums\" is not prose.\n",
     )
     if len(forum_casing_findings) != 4:
@@ -664,7 +664,7 @@ def run_internal_regression_checks() -> None:
 
 
 def scan_avoid_standing_calculus(rel_path: str, text: str) -> list[Finding]:
-    """Reject undefined **standing calculus** jargon; prefer Chapter Ten standing-record classification wording."""
+    """Reject undefined **standing calculus** jargon; prefer Chapter Eleven standing-record classification wording."""
     findings: list[Finding] = []
     lines = text.splitlines()
     in_fence = False
@@ -921,7 +921,7 @@ def scan_avoid_bare_recheck(rel_path: str, text: str) -> list[Finding]:
 _BARE_LEVEL_SCOPE = frozenset(
     {
         "core_05.055_band_participation.md",
-        "corpus_systems/cs_14.305_critical_system_stewardship.md",
+        "corpus_systems/cs_15.305_critical_system_stewardship.md",
         "corpus_joint_structure/cjs_05.110_oversight_operations.md",
         "corpus_joint_structure/cjs_05.115_audit_process.md",
         "corpus_systems/cs_06.305_information_types_and_handling.md",
@@ -1736,13 +1736,13 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).",
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
-        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Ten typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
+        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Eleven typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05.050_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
         "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-segregation`:** reject **segregation** / **segregate** / **segregated** / **segregating** → the seat rule is **separation of duties**; for holding things apart say **separate holding** (funds, weights, keys), **isolation** (information, data), or **separation**. *Enforced on the same files as `avoid-instrument`.*",
         "- **`avoid-disinterested`:** reject **disinterested** → say **independent** (defined in Chapter Five, *Independence*: outside the Material Control Line of the party whose act is at issue and of every Interested Party), usually **independent of** the party or act; use **impartial** only when the sense is unbiased. *Enforced on the same files as `avoid-instrument`.*",
-        "- **`avoid-merits-authority`:** reject **merits authority** / **merits authorities** → say **jurisdiction** (a forum family's scope under Chapter Thirteen) or **decision-making authority** (what a role may decide). Related words such as *merits forum* and *merits decision* are not banned. *Enforced on the same files as `avoid-instrument`.*",
+        "- **`avoid-merits-authority`:** reject **merits authority** / **merits authorities** → say **jurisdiction** (a forum family's scope under Chapter Fourteen) or **decision-making authority** (what a role may decide). Related words such as *merits forum* and *merits decision* are not banned. *Enforced on the same files as `avoid-instrument`.*",
         "- **`avoid-versions-verb`:** reject **versions** used as a verb in a list of record duties (*enters, versions, preserves*) → say **amends** (the office that makes each new Record Version, Chapter Nine Part B §8) or **tracks versions of** (custody that keeps a version history). The plural noun (*prior versions*, *Record Versions*) is not banned. *Enforced on the same files as `avoid-instrument`.*\n"
         "- **`avoid-four-seat-floor`:** reject **four-seat floor** / **four-seat constitutional floor** → say **Four-Seat Constitutional Requirement** (Chapter Eight §2) or **Four-Seat Requirement** for the short form; \"floor\" is reserved for the Chapter Six **Rights Floor**. *Enforced on the same files as the instrument ban.*",
         "- **`avoid-verifier`:** reject **verifier** / **verifiers** → say **verifying authority** (a body or sentient that verifies, authorizes, or decides is an authority; TERM-BODY-01 in `doc_architecture.md`). *Enforced on the same files as `avoid-instrument`, except `evaluation/` and `project/`.*",
@@ -1750,10 +1750,10 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`review-in-tier-window`:** reject review of a measure, order, hold, stay, or interim decision \"inside the (matching) tier window\" → say **prompt-review window** (the tier window is the matter's outer limit, not when review of a measure in force begins). *Enforced on the same files as `avoid-cure-family`, except the dated move log in `doc_architecture.md`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
-        "- **`avoid-tribunal-family`:** reject internal Chapter Thirteen / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
-        "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Ten**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Ten wording.",
+        "- **`avoid-tribunal-family`:** reject internal Chapter Fourteen / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
+        "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Eleven**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Eleven wording.",
         "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
-        "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Eleven §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
+        "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Twelve §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
         "- **`avoid-bare-check`:** in scoped files (`core_07.000_charters.md`), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing check, authenticity check, staff safeguards check). **Allowed:** verb uses (**the Chartered Party checks and records**), qualified compounds (**formation check**, **standing check**, **authenticity check**, **staff safeguards check**), and **check window**.",
         "- **`avoid-bare-recheck`:** in scoped files (`core_07.000_charters.md`), reject the noun **re-check** / **re-checks** / **recheck** / **rechecks** unless it follows **formation** → say **formation re-check**. **Allowed:** the verb forms (**re-checked**, **re-checking**) and **formation re-check**.",
         "- **`avoid-bare-level`:** in scoped files (the owners of a leveled scale: `core_05.055_band_participation.md`, `cs_14.305`, `cjs_05.110`, `cjs_05.115`, `cs_06.305`, `cs_06.310`), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, and any qualified compound. \"Tier\" names only the forum urgency tiers.",

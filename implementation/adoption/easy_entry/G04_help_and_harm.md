@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_18.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -25,19 +25,19 @@ Someone claims you are trusted, or unsafe, because of a story, a flag, or a sing
 - **Today:** A dashboard folds praise and harm into one number. The “good” side wipes the harm.
 - **With this Constitution:** Help and harm stay separate. Verified good conduct does not erase verified harm.
 
-See: [Chapter Ten](../../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+See: [Chapter Eleven](../../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement).
 
 **Rumors are not the record. A filed case is not the record either.**
 - **Today:** Gossip, a relative’s letter, or “we filed” is treated as the finding.
 - **With this Constitution:** Only verified facts enter the official record of verified help or harm. A report waiting to be looked at is not already a verdict. Filing a case, by itself, does not change how trusted you are.
 
-See: [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-is-the-default); [Chapter Ten §3.6](../../../core_10.000_standing_assessment.md#36-forum-boundary).
+See: [Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default); [Chapter Eleven §3.6](../../../core_11.000_standing_assessment.md#36-forum-boundary).
 
 **What follows has to be real on each track.**
 - **Today:** A badge with no extra authority, or a punishment with no repair for the one who was hurt.
 - **With this Constitution:** Verified help can open real clearance to take on more. Verified harm can limit what you may do, require correction, and require those harmed to be made whole — on its own track.
 
-See: [Chapter Eleven](../../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration).
+See: [Chapter Twelve](../../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration).
 
 ## What to open next
 
@@ -52,10 +52,10 @@ See: [Chapter Eleven](../../../core_11.000_standing_integration.md#chapter-eleve
 
 - A score of how trusted you are that you can spend like money, or that decides whether you count ([Article XIX-A](../../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction)).
 - A finding, in this handbook, that anyone was helped or harmed in the world. This page is not that record.
-- A way for the subject of a record to verify or enter it on their own ([Chapter Ten §3.7](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)).
+- A way for the subject of a record to verify or enter it on their own ([Chapter Eleven §3.7](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority)).
 
 ## If you want to look further
 
 - Sibling guides: [`README.md`](README.md#process-guides)
 - Public door: [`../../../README.md`](../../../README.md)
-- Worked stories (not extra duties): [`../../../core_10.005_application_vignettes.md`](../../../core_10.005_application_vignettes.md)
+- Worked stories (not extra duties): [`../../../core_11.005_application_vignettes.md`](../../../core_11.005_application_vignettes.md)

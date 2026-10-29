@@ -2,7 +2,7 @@
 """Validate a Sentience-Status Adjudication Record against the dedicated schema.
 
 The schema is machine-checkable form, not who-counts and not a standing record.
-This tool asks a mechanical question: does the file carry the Chapter Thirteen
+This tool asks a mechanical question: does the file carry the Chapter Fourteen
 minimum fields — including independent representative and intake-decline log —
 plus the review trigger, without extra keys?
 

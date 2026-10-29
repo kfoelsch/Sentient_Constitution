@@ -14,8 +14,8 @@
 >
 > - **المالك الدستوري:** شرط الفصل بين الواجبات بالنسبة للأعمال الملزمة ماديًا، والذي يتم استيفاؤه من خلال مقاعد متميزة؛ الحد الأدنى العالمي لمحتويات كل منها [سجل القانون الملزم ماديًا](../../core_05.035_band_accountability.md#materially-binding-act-record); الاستقلال عن الفاعل والفاعل [خط مراقبة المواد](../../core_05.035_band_accountability.md#material-control-line); المسار المنشور وموضع الدور ؛ الصراع، والشغور، والاستبدال، وتوجيه المقعد الخطأ؛ استضافة مدمجة متناسبة؛ عمليات التسليم المنسوبة؛ والحد الأدنى من شروط الاستقلال التي يجب أن تطبقها كل عملية دستورية لاحقة.
 > - **مصدر الطبقة الأساسية:** [الفصل الأول §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) يتطلب الحوكمة الحفاظ على الاستقلال الوظيفي وتوجيه بنية المقعد التشغيلي هنا.
-> - **صاحب التنفيذ:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*الممر الدستوري والفصل الوظيفي*)، [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)، و [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) وضع وتشغيل المقاعد. قد تكون أكثر صرامة وقد تضيف أنواع مقاعد ذات سلطة خاصة محدودة؛ ولا يجوز لهم تضييق هذا الفصل.
-> - **يظل التطبيق الخاص بالعملية في اتجاه مجرى النهر:** يطبق الفصل التاسع هذا المطلب على شهادة محاذاة النظام وشهادة المحاذاة المؤسسية؛ [الفصل العاشر §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) يطبقه على السجلات الدائمة؛ الفصل الثالث عشر و [مجموعة_forum.md](../../corpus_forum.md) تطبيقه على عملية المنتدى. وقد تضيف هذه الفصول ضمانات يتطلبها موضوعها؛ ولا يجوز لهم إنشاء بديل أضعف.
+> - **صاحب التنفيذ:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*الممر الدستوري والفصل الوظيفي*)، [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)، و [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) وضع وتشغيل المقاعد. قد تكون أكثر صرامة وقد تضيف أنواع مقاعد ذات سلطة خاصة محدودة؛ ولا يجوز لهم تضييق هذا الفصل.
+> - **يظل التطبيق الخاص بالعملية في اتجاه مجرى النهر:** يطبق الفصل التاسع هذا المطلب على شهادة محاذاة النظام وشهادة المحاذاة المؤسسية؛ [الفصل العاشر §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) يطبقه على السجلات الدائمة؛ الفصل الثالث عشر و [مجموعة_forum.md](../../corpus_forum.md) تطبيقه على عملية المنتدى. وقد تضيف هذه الفصول ضمانات يتطلبها موضوعها؛ ولا يجوز لهم إنشاء بديل أضعف.
 >
 > ترتيب القراءة: §1 الغرض والنطاق → §2 متطلبات الأربعة مقاعد → §3 الاستقلال والصراعات → §4 توجيه المقعد الخاطئ → §5 النشر المنشور والبدائل والتفويض → §6 القياس النسبي → §7 حالات الطوارئ → §8 سجلات القانون وعمليات التسليم → §9 التطبيق النهائي.
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - المصب:
   - [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000)؛
-  - [الفصل العاشر](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000)؛
-  - [الفصل الثالث عشر](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000)؛
-  - [الفصل الرابع عشر](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)؛ نص التنفيذ المعين المذكور أعلاه.
+  - [الفصل العاشر](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000)؛
+  - [الفصل الثالث عشر](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000)؛
+  - [الفصل الرابع عشر](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)؛ نص التنفيذ المعين المذكور أعلاه.
 - اقرأ مع:
   - [الفصل الأول §19.3 اكتشاف المحاذاة غير الصحيحة](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*كشف ومراجعة متعددة*);
   - [الإجراء المنسوب](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@
 <summary><strong><span style="color: #2563eb;">يتعقب</span></strong></summary>
 
 - المنبع: [§1](#1-purpose-scope-and-owner-boundary); [الفصل الأول §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3)؛ [الفصل الأول §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1).
-- المصب: [§3](#3-independence-conflict-and-control-lines) خلال [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*كتالوج المقاعد - النماذج الأولية لدور العملية والحدود التشغيلية*).
+- المصب: [§3](#3-independence-conflict-and-control-lines) خلال [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*كتالوج المقاعد - النماذج الأولية لدور العملية والحدود التشغيلية*).
 - اقرأ مع: [§6](#6-proportional-scaling-and-merged-hosting) لمسار الاستضافة المدمجة الوحيد المسموح به.
 
 </details>
@@ -229,7 +229,7 @@ flowchart TB
 
 - المنبع: [§2](#2-four-seat-constitutional-requirement); [المسؤولية على نطاق السلطة](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [المادة الخامسة والعشرون](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*التفسير الدستوري والمراجعة والضمانات ضد الاستيلاء*).
 - المصب: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); الفصل التاسع أدوار مكونات الشهادة؛ الفصل العاشر سجل الحضانة الفصل الثالث عشر منتدى مكافحة الحكم على الذات.
-- اقرأ مع: [خط مراقبة المواد](../../core_05.035_band_accountability.md#material-control-line); [سي آي-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*نزاهة الصراع، ومكافحة الاستيلاء، ومكافحة الفساد*) و [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*ضمانات النزاهة، وعمليات مكافحة الاستيلاء، ودعم مكافحة الحكم الذاتي*) للصراع التشغيلي والضمانات المناهضة للحكم الذاتي.
+- اقرأ مع: [خط مراقبة المواد](../../core_05.035_band_accountability.md#material-control-line); [سي آي-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*نزاهة الصراع، ومكافحة الاستيلاء، ومكافحة الفساد*) و [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*ضمانات النزاهة، وعمليات مكافحة الاستيلاء، ودعم مكافحة الحكم الذاتي*) للصراع التشغيلي والضمانات المناهضة للحكم الذاتي.
 
 </details>
 
@@ -255,7 +255,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">يتعقب</span></strong></summary>
 
 - المنبع: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- المصب: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 قواعد المقعد المشترك](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- المصب: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 قواعد المقعد المشترك](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - اقرأ مع: [الفصل الأول §17.5 واجب المقاومة](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5).
 
 </details>
@@ -302,12 +302,12 @@ flowchart TB
   - [§3](#3-independence-conflict-and-control-lines);
   - [الشفافية](../../core_05.050_band_oversight.md#transparency);
   - [قابلية التدقيق](../../core_05.050_band_oversight.md#auditability).
-- المصب: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ممرات الفصل الوظيفية*); [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*الأدوار المعتمدة وسلاسل المساءلة*); سجلات الفصل التاسع والفصل العاشر.
+- المصب: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ممرات الفصل الوظيفية*); [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*الأدوار المعتمدة وسلاسل المساءلة*); سجلات الفصل التاسع والفصل العاشر.
 - اقرأ مع:
   - [ميثاق النظام](../../core_05.040_band_continuity.md#system-charter),
   - [الميثاق المؤسسي](../../core_05.040_band_continuity.md#institutional-charter);
   - [الفصل السابع §4 خريطة دور الميثاق وحفظ السجلات الدائمة](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4)؛ و
-  - [الفصل الرابع عشر §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
+  - [الفصل الرابع عشر §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
 
 </details>
 
@@ -377,7 +377,7 @@ flowchart TB
   - [حصة مادية](../../core_00.000_preamble.md#material-stake);
   - [ضرورة](../../core_05.035_band_accountability.md#necessity);
   - [التناسب](../../core_05.035_band_accountability.md#proportionality).
-- المصب: [الفصل العاشر §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7)؛ [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*التوظيف على مستوى الفصل وتكرار الكفاءة*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ممرات الفصل الوظيفية*).
+- المصب: [الفصل العاشر §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7)؛ [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*التوظيف على مستوى الفصل وتكرار الكفاءة*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ممرات الفصل الوظيفية*).
 - اقرأ مع: [العبء الذي يمكن تجنبه](../../core_05.040_band_continuity.md#avoidable-burden) والفصل الأول [§3.3 عملية مكافحة التدهور](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ flowchart TB
 - المنبع:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [الفصل الثالث عشر §6.1 تدابير الطوارئ وعبء الاستمرار](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1)؛
+  - [الفصل الثالث عشر §6.1 تدابير الطوارئ وعبء الاستمرار](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1)؛
   - [الوضع المؤقت الافتراضي](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - المصب: عمليات الحادث والاحتواء والإفراج والاستمرار ومراجعة ما بعد الحدث في نص التنفيذ المحدد.
-- اقرأ مع: [حسن التوقيت](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [حفظ الأدلة](../../core_05.050_band_oversight.md#evidence-preservation)، و [CI-14.205 §6 كتالوج المقاعد - النماذج الأولية لدور العملية والحدود التشغيلية](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- اقرأ مع: [حسن التوقيت](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [حفظ الأدلة](../../core_05.050_band_oversight.md#evidence-preservation)، و [CI-14.205 §6 كتالوج المقاعد - النماذج الأولية لدور العملية والحدود التشغيلية](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ flowchart TB
   - [سجل القانون الملزم ماديًا](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [الإجراء المنسوب](../../core_05.035_band_accountability.md#attributable-action);
   - [سلامة الإسناد](../../core_05.035_band_accountability.md#attribution-integrity).
-- المصب: [CS-14.305 §10 الإجراء المنسوب القابل للفحص](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 قواعد المقعد المشترك](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); كل سجل عملية تحكمه المادة 8؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*النموذج الأساسي الذي يمكن فحصه آليًا؛ دعم العملية، وليس التعريف الثاني*).
+- المصب: [CS-14.305 §10 الإجراء المنسوب القابل للفحص](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 قواعد المقعد المشترك](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); كل سجل عملية تحكمه المادة 8؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*النموذج الأساسي الذي يمكن فحصه آليًا؛ دعم العملية، وليس التعريف الثاني*).
 - اقرأ مع: [§4 توجيه المقعد الخاطئ](#4-wrong-seat-routing) و [الفصل الرابع §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5).
 
 </details>
@@ -564,9 +564,9 @@ flowchart TB
 - المنبع: [§1](#1-purpose-scope-and-owner-boundary) خلال [§8](#8-act-records-and-attributable-handoffs).
 - المصب:
   - [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000)؛
-  - [الفصل العاشر](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000)؛
-  - [الفصل الثالث عشر](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000)؛
-  - [الفصل الرابع عشر](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
+  - [الفصل العاشر](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000)؛
+  - [الفصل الثالث عشر](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000)؛
+  - [الفصل الرابع عشر](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
 - اقرأ مع: [مكدس السلطة والتسلسل الهرمي الداخلي](../../core_05.045_band_integrative.md#owner-non-relocation) و [سجل مالك الديباجة](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

@@ -50,7 +50,7 @@ lane-specific targets    →  (steward-door-lockstep-audit, obligation-diff, ali
 
 ## Lane D — Test 1 self-check
 
-<!-- Delete this section unless Lane D. State what the change does NOT weaken: Chapter One constraints, Chapter Two–Four integrity, Chapter Six Rights Floor, Chapter Fourteen legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels. List downstream files that cite the changed section. -->
+<!-- Delete this section unless Lane D. State what the change does NOT weaken: Chapter One constraints, Chapter Two–Four integrity, Chapter Six Rights Floor, Chapter Fifteen legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels. List downstream files that cite the changed section. -->
 
 ## Attribution
 

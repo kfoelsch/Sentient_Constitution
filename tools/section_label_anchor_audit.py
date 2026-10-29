@@ -2,7 +2,7 @@
 """Map prose section labels to resolved anchors and flag numbering divergences.
 
 When a Markdown link's text contains a section label (``§5.4``,
-``Chapter Ten §5.4 Duty to resist``), or is only a dotted number
+``Chapter Eleven §5.4 Duty to resist``), or is only a dotted number
 (``4.1``), the resolved heading's current number must be that label or a
 dotted parent/child of it. The fragment must exist. When the numbers are
 related, the heading must carry a current-numbering id whose prefix
@@ -81,7 +81,7 @@ BOLD_NUM_RE = re.compile(r"^\*\*(\d+(?:\.\d+)*)\.?\s+")
 ID_NUM_RE = re.compile(r"^(\d+(?:-\d+)*)-")
 SECTION_IN_TEXT_RE = re.compile(
     r"(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|"
-    r"Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|\d+)\s+)?"
+    r"Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|\d+)\s+)?"
     r"§+\s*(\d+(?:\.\d+)*)",
     re.I,
 )

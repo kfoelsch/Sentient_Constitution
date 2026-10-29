@@ -60,12 +60,12 @@ class WrapperCiteTests(unittest.TestCase):
 
     def test_inventory_entry_allowed_only_in_incorporating_files(self) -> None:
         line = "  - [corpus_systems.md](corpus_systems.md) (*systems implementation file*)"
-        self.assertEqual(self._kinds(line, rel="core_18.000_incorporation.md"), [])
+        self.assertEqual(self._kinds(line, rel="core_19.000_incorporation.md"), [])
         self.assertEqual(self._kinds(line, rel="core_05.040_band_continuity.md"), ["link"])
 
     def test_citation_inside_incorporating_file_still_flagged(self) -> None:
         line = "Custody records follow *[corpus_systems.md](corpus_systems.md)*, CS-9.305."
-        self.assertEqual(self._kinds(line, rel="core_18.000_incorporation.md"), ["link"])
+        self.assertEqual(self._kinds(line, rel="core_19.000_incorporation.md"), ["link"])
 
     def test_fenced_code_is_skipped(self) -> None:
         text = "```\n[corpus_systems.md](corpus_systems.md)\n```\n"

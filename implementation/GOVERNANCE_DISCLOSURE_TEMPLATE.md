@@ -21,8 +21,8 @@
 
 ## Comparison fields (period-over-period)
 
-- Participation rate, contest outcomes, backlog against **CF-13.445** targets where forums are in scope.
-- Integrity incidents and closure status (**CI-8.210** / **CI-11.210**).
+- Participation rate, contest outcomes, backlog against **CF-14.445** targets where forums are in scope.
+- Integrity incidents and closure status (**CI-8.210** / **CI-12.210**).
 
 ## Model flexibility
 

@@ -18,11 +18,11 @@ GROUPS = (
     ("Chapter Five definition stack", ("core_05",)),
     ("Chapter Six Rights Floor", ("core_06",)),
     (
-        "Chapter Eight independence and Chapters Nine–Thirteen pipelines",
+        "Chapter Eight independence and Chapters Nine–Fourteen pipelines",
         ("core_07", "core_08", "core_09", "core_10", "core_11", "core_12"),
     ),
     (
-        "Chapters Fourteen–Eighteen",
+        "Chapters Fifteen–Nineteen",
         ("core_13", "core_14", "core_15", "core_16", "core_17"),
     ),
 )

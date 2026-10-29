@@ -68,10 +68,10 @@ def part_a_header_block() -> str:
 > - **Constitutional owner (joint with Part B):** forum-supervised **system alignment certification and related records** — evaluation domains (Part A); certification-record duties, recognition outcomes, revalidation cadence, supervisory sequence, contestability chain, and verified-input bridge to Chapter Nine (Part B).
 > - **Verification substrate owner:** [Chapter Four — Burden of Proof, Traceability, and Verification](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (within Chapters Two through Four) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Eight **applies** that discipline to system alignment certification records; it does **not** restate Chapter Four sections **1** through **5**.
 > - **Implementation owner:** system-class handling, CS-6.345, and forum-process detail in designated implementation files must remain consistent with Chapter Eight and may be stricter where the corpus already provides stricter-rule logic.
-> - **Anti-relocation rule:** Part A does not restate Chapter Five canonical definitions, Chapter Three anti-evasion discipline (see [Part B §16](core_09.010_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)), Chapter Nine contribution or standing classification, or Chapter Ten standing effects. **[Part B §15](core_09.010_system_alignment_certification_record_process.md#15-relationship-to-standing)** states the standing bridge boundary explicitly.
+> - **Anti-relocation rule:** Part A does not restate Chapter Five canonical definitions, Chapter Three anti-evasion discipline (see [Part B §16](core_09.010_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)), Chapter Nine contribution or standing classification, or Chapter Eleven standing effects. **[Part B §15](core_09.010_system_alignment_certification_record_process.md#15-relationship-to-standing)** states the standing bridge boundary explicitly.
 >
 > **Upstream:** Chapter Five definitions and Chapters Two through Four record, verification, burden, and tracing discipline.
-> **Downstream:** [Part B](core_09.010_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process) (*record, forum process, and standing bridge*); Chapter Nine standing records and verified inputs; Chapter Ten standing effects; Chapter Twelve forum supervision and system alignment certification pathways.
+> **Downstream:** [Part B](core_09.010_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process) (*record, forum process, and standing bridge*); Chapter Nine standing records and verified inputs; Chapter Eleven standing effects; Chapter Thirteen forum supervision and system alignment certification pathways.
 
 </details>
 
@@ -94,10 +94,10 @@ def part_b_header_block() -> str:
 >
 > - **Constitutional owner (joint with Part A):** forum-supervised **system alignment certification and related records**.
 > - **Evaluation inputs:** [Part A §2](core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_09.005_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) supply evaluation outputs reflected on the certification record.
-> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Nine standing classification, or Chapter Ten standing effects. **§15** states the standing bridge boundary explicitly.
+> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Nine standing classification, or Chapter Eleven standing effects. **§15** states the standing bridge boundary explicitly.
 >
-> **Upstream:** [Part A](core_09.005_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation); Chapter Twelve forum supervision; Chapters Two through Four verification discipline.
-> **Downstream:** Chapter Nine standing records and verified inputs; Chapter Ten standing effects.
+> **Upstream:** [Part A](core_09.005_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation); Chapter Thirteen forum supervision; Chapters Two through Four verification discipline.
+> **Downstream:** Chapter Nine standing records and verified inputs; Chapter Eleven standing effects.
 
 </details>
 
@@ -113,8 +113,8 @@ Chapter Eight, **Part B**, is the constitutional owner of the **certification re
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Part A §1](core_09.005_system_alignment_certification_evaluation.md#1-purpose-and-role) (*certification purpose and evaluation roadmap*); [Part A §2](core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_09.005_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*evaluation outputs for the record*); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
-- Downstream: [§11](#11-certification-record) through [§16](#16-reopening-drift-and-non-evasion); [Chapter Nine](core_10.000_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Chapter Twelve](core_13.000_forum.md#chapter-twelve-forums-and-jurisdiction).
-- Read with: [corpus_forum.md](corpus_forum.md), **CF-13.415** and **CF-13.425**.
+- Downstream: [§11](#11-certification-record) through [§16](#16-reopening-drift-and-non-evasion); [Chapter Nine](core_11.000_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Chapter Thirteen](core_14.000_forum.md#chapter-thirteen-forums-and-jurisdiction).
+- Read with: [corpus_forum.md](corpus_forum.md), **CF-14.415** and **CF-14.425**.
 
 </details>
 

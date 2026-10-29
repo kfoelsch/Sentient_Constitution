@@ -26,7 +26,7 @@ from definition_separator_format import audit_separator_lines
 
 CJS1_FILES = (
     "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
-    "corpus_joint_structure/cjs_18.105_drafting_contracts.md",
+    "corpus_joint_structure/cjs_19.105_drafting_contracts.md",
     "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
     "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
 )

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five through Chapter Fourteen nested-list candidate finder."""
+"""Tests for the Chapter Five through Chapter Fifteen nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -340,7 +340,7 @@ class NestedListCandidateTests(unittest.TestCase):
     def test_ch8_labeled_semicolon_list_is_flagged(self) -> None:
         text = """#### 3.1 Minimum record contents
 
-- **Violation standing records must also state:** the Question 2 violation measurement; shared-violation actor-specific basis; forum-disclosure omission basis; and the measurement basis later Chapter Ten effects must use.
+- **Violation standing records must also state:** the Question 2 violation measurement; shared-violation actor-specific basis; forum-disclosure omission basis; and the measurement basis later Chapter Eleven effects must use.
 """
         hits = scan_text(text, chapter=9)
         self.assertEqual(self._lines(text, min_score=8), [3])
@@ -353,7 +353,7 @@ class NestedListCandidateTests(unittest.TestCase):
 - **Contribution standing records must also state:**
   - the Question 2 contribution measurement;
   - how shared credit was allocated; and
-  - the measurement basis later Chapter Ten effects must use.
+  - the measurement basis later Chapter Eleven effects must use.
 """
         self.assertEqual(scan_text(text, chapter=9), [])
 
@@ -376,7 +376,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "9",
                     "--file",
-                    "core_10.000_standing_assessment.md",
+                    "core_11.000_standing_assessment.md",
                     "--top",
                     "3",
                 ]
@@ -427,13 +427,13 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "10",
                     "--file",
-                    "core_11.000_standing_integration.md",
+                    "core_12.000_standing_integration.md",
                     "--top",
                     "3",
                 ]
             )
         self.assertEqual(code, 0)
-        self.assertIn("CH10-NEST-CANDIDATE", buf.getvalue())
+        self.assertIn("CH11-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
@@ -479,18 +479,18 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "11",
                     "--file",
-                    "core_12.000_misconduct_designation.md",
+                    "core_13.000_misconduct_designation.md",
                     "--top",
                     "3",
                 ]
             )
         self.assertEqual(code, 0)
-        self.assertIn("CH11-NEST-CANDIDATE", buf.getvalue())
+        self.assertIn("CH12-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
-        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
 
     def test_ch11_labeled_semicolon_list_is_flagged(self) -> None:
         text = """#### 2.3 Forum case records, standing records, and contests
@@ -531,19 +531,19 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "12",
                     "--file",
-                    "core_13.000_forum.md",
+                    "core_14.000_forum.md",
                     "--top",
                     "3",
                 ]
             )
         self.assertEqual(code, 0)
-        self.assertIn("CH12-NEST-CANDIDATE", buf.getvalue())
+        self.assertIn("CH13-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
-        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH12-NEST-CANDIDATE", buf.getvalue())
 
     def test_ch12_labeled_semicolon_list_is_flagged(self) -> None:
         text = """#### 1.1 Mechanism families, auditability, and pluralism
@@ -584,20 +584,20 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "13",
                     "--file",
-                    "core_14.000_governance.md",
+                    "core_15.000_governance.md",
                     "--top",
                     "3",
                 ]
             )
         self.assertEqual(code, 0)
-        self.assertIn("CH13-NEST-CANDIDATE", buf.getvalue())
+        self.assertIn("CH14-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
-        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH12-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH13-NEST-CANDIDATE", buf.getvalue())
 
     def test_ch13_labeled_semicolon_list_is_flagged(self) -> None:
         text = """#### 2. Test 1 — Substantive Non-Regression Validity
@@ -638,21 +638,21 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "14",
                     "--file",
-                    "core_15.000_non_regression.md",
+                    "core_16.000_non_regression.md",
                     "--top",
                     "3",
                 ]
             )
         self.assertEqual(code, 0)
-        self.assertIn("CH14-NEST-CANDIDATE", buf.getvalue())
+        self.assertIn("CH15-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
-        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH12-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH13-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH14-NEST-CANDIDATE", buf.getvalue())
 
     def test_remaining_numbered_chapters_are_supported(self) -> None:
         cases = {

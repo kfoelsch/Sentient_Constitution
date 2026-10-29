@@ -54,7 +54,7 @@ class ExternalLinkAuditTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
             write(root, "README.md", f"[README]({VSCODE_PREVIEW})\n")
-            write(root, "core_13.000_forum.md", f"[README]({VSCODE_PREVIEW})\n")
+            write(root, "core_14.000_forum.md", f"[README]({VSCODE_PREVIEW})\n")
             findings, _ = audit(root)
             self.assertEqual(len(findings), 2, msg="\n".join(findings))
             self.assertTrue(all("editor preview URL" in item for item in findings), findings)

@@ -101,7 +101,7 @@ FIXUPS = [
     ("§§1–5", "§§1–10"),
     ("Part A (Values Principles, §§1–5)", "Part A (Values Principles, §§1–10)"),
     ("Part B (Stewardship and Governance, §§11–13)", "Part B (Stewardship and Governance, §§11–14)"),
-    # Ch14 amendment internal anchors (not Chapter One)
+    # Ch15 amendment internal anchors (not Chapter One)
     ("[§12.1](#111-notice", "[§12.1](#121-notice"),
     ("[§12.2](#112-recorded", "[§12.2](#122-recorded"),
     ("#111-notice-and-contest", "#121-notice-and-contest"),

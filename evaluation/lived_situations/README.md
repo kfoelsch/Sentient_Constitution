@@ -2,7 +2,7 @@
 
 **What this is:** A process-support sitting that tests whether the Sentient Constitution **reaches named sentients in a colliding scene** — floors, voice, oversight, accountability, and timely remedy — not whether those sentients get what they want.
 
-**What this is not:** Binding constitutional text. [Chapter Seventeen](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Eighteen](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Ten standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Ten–Thirteen application vignettes](../../core_10.005_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
+**What this is not:** Binding constitutional text. [Chapter Eighteen](../../core_18.000_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Nineteen](../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eleven standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Eleven–Fourteen application vignettes](../../core_11.005_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
 
 **Pack edition:** `lived-situations-2026-09-11`.  
 **Corpus edition pin:** `SC-Corpus-2026.10.21`.
@@ -90,4 +90,4 @@ A results file is not standing measurement.
 | [`results/`](results/) | You (readable outcomes) |
 | [`../`](../) | You (announced pack — separate sitting) |
 | [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry/) | You (related outreach briefs — **not** this sitting; not an answer key) |
-| [`../../core_10.005_application_vignettes.md`](../../core_10.005_application_vignettes.md) | You (pipeline illustrations — not this sitting) |
+| [`../../core_11.005_application_vignettes.md`](../../core_11.005_application_vignettes.md) | You (pipeline illustrations — not this sitting) |

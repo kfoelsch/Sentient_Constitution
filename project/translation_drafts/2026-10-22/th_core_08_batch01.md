@@ -14,8 +14,8 @@
 >
 > - **เจ้าของรัฐธรรมนูญ:** ข้อกำหนดการแยกหน้าที่สำหรับการกระทำที่มีผลผูกพันอย่างมีนัยสำคัญ เป็นไปตามที่นั่งที่แตกต่างกัน เนื้อหาขั้นต่ำสากลของแต่ละรายการ [บันทึกพระราชบัญญัติที่มีผลผูกพันอันเป็นสาระสำคัญ](../../core_05.035_band_accountability.md#materially-binding-act-record); ความเป็นอิสระจากนักแสดงและนักแสดง [สายควบคุมวัสดุ](../../core_05.035_band_accountability.md#material-control-line); ช่องทางที่เผยแพร่และตำแหน่งบทบาท ความขัดแย้ง ตำแหน่งที่ว่าง การทดแทน และการกำหนดเส้นทางที่นั่งผิด โฮสติ้งที่ผสานตามสัดส่วน การส่งมอบที่เนื่องมาจาก; และเงื่อนไขความเป็นอิสระขั้นต่ำที่ต้องใช้กระบวนการตามรัฐธรรมนูญในภายหลัง
 > - **แหล่งที่มาของเลเยอร์หลักการ:** [บทที่หนึ่ง §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) จำเป็นต้องมีการกำกับดูแลเพื่อรักษาความเป็นอิสระในการทำงานและกำหนดเส้นทางสถาปัตยกรรมที่นั่งผ่าตัดที่นี่
-> - **เจ้าของการดำเนินการ:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*ช่องทางตามรัฐธรรมนูญและการแยกหน้าที่*) [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), และ [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) วางและใช้งานที่นั่ง อาจเข้มงวดยิ่งขึ้นและอาจเพิ่มประเภทที่นั่งสำหรับหน่วยงานพิเศษแบบมีขอบเขต พวกเขาอาจไม่ตีกรอบบทนี้ให้แคบลง
-> - **การใช้งานเฉพาะกระบวนการยังคงอยู่ปลายน้ำ:** บทที่เก้าใช้ข้อกำหนดนี้กับการรับรองการจัดตำแหน่งระบบและการรับรองการจัดตำแหน่งของสถาบัน [บทที่สิบ §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) นำไปใช้กับบันทึกยืน; บทที่สิบสามและ [คลังข้อมูล_ฟอรั่ม.เอ็มดี](../../corpus_forum.md) นำไปใช้กับกระบวนการฟอรั่ม บทเหล่านั้นอาจเพิ่มการป้องกันที่จำเป็นตามเนื้อหาสาระ; พวกเขาไม่อาจสร้างตัวสำรองที่อ่อนแอกว่าได้
+> - **เจ้าของการดำเนินการ:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*ช่องทางตามรัฐธรรมนูญและการแยกหน้าที่*) [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), และ [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) วางและใช้งานที่นั่ง อาจเข้มงวดยิ่งขึ้นและอาจเพิ่มประเภทที่นั่งสำหรับหน่วยงานพิเศษแบบมีขอบเขต พวกเขาอาจไม่ตีกรอบบทนี้ให้แคบลง
+> - **การใช้งานเฉพาะกระบวนการยังคงอยู่ปลายน้ำ:** บทที่เก้าใช้ข้อกำหนดนี้กับการรับรองการจัดตำแหน่งระบบและการรับรองการจัดตำแหน่งของสถาบัน [บทที่สิบ §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) นำไปใช้กับบันทึกยืน; บทที่สิบสามและ [คลังข้อมูล_ฟอรั่ม.เอ็มดี](../../corpus_forum.md) นำไปใช้กับกระบวนการฟอรั่ม บทเหล่านั้นอาจเพิ่มการป้องกันที่จำเป็นตามเนื้อหาสาระ; พวกเขาไม่อาจสร้างตัวสำรองที่อ่อนแอกว่าได้
 >
 > ลำดับการอ่าน: §1 วัตถุประสงค์และขอบเขต → §2 ข้อกำหนดสี่ที่นั่ง → §3 ความเป็นอิสระและความขัดแย้ง → §4 การกำหนดเส้นทางผิด → §5 ตำแหน่งที่เผยแพร่ การทดแทน และการมอบหมาย → §6 มาตราส่วนตามสัดส่วน → §7 กรณีฉุกเฉิน → §8 บันทึกพระราชบัญญัติและการส่งมอบ → §9 แอปพลิเคชันดาวน์สตรีม
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - ปลายน้ำ:
   - [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [บทที่สิบ](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [บทที่สิบสาม](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [บทที่สิบสี่](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); ข้อความการใช้งานที่กำหนดตามชื่อด้านบน
+  - [บทที่สิบ](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [บทที่สิบสาม](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [บทที่สิบสี่](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); ข้อความการใช้งานที่กำหนดตามชื่อด้านบน
 - อ่านด้วย:
   - [บทที่หนึ่ง §19.3 การตรวจจับการวางแนวที่ไม่ตรง](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*การตรวจจับและทบทวนพหูพจน์*);
   - [การดำเนินการที่ระบุแหล่งที่มา](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
 - ต้นน้ำ: [§1](#1-purpose-scope-and-owner-boundary); [บทที่หนึ่ง §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3); [บทที่หนึ่ง §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1)
-- ปลายน้ำ: [§3](#3-independence-conflict-and-control-lines) ผ่าน [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*แค็ตตาล็อกที่นั่ง — ต้นแบบบทบาทของกระบวนการและขอบเขตการปฏิบัติงาน*).
+- ปลายน้ำ: [§3](#3-independence-conflict-and-control-lines) ผ่าน [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*แค็ตตาล็อกที่นั่ง — ต้นแบบบทบาทของกระบวนการและขอบเขตการปฏิบัติงาน*).
 - อ่านด้วย: [§6](#6-proportional-scaling-and-merged-hosting) สำหรับเส้นทางผสานโฮสติ้งที่ได้รับอนุญาตเท่านั้น
 
 </details>
@@ -229,7 +229,7 @@ flowchart TB
 
 - ต้นน้ำ: [§2](#2-four-seat-constitutional-requirement); [ความสามารถในการตอบกลับตามระดับอำนาจ](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [ข้อ XXV](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*การตีความรัฐธรรมนูญ การทบทวน และมาตรการป้องกันการจับกุม*).
 - ปลายน้ำ: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); บทที่เก้าบทบาทองค์ประกอบการรับรอง บทที่สิบ บันทึกการดูแล; บทที่สิบสามฟอรั่มต่อต้านการตัดสินตนเอง
-- อ่านด้วย: [สายควบคุมวัสดุ](../../core_05.035_band_accountability.md#material-control-line); [ซีไอ-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*ความสมบูรณ์ของความขัดแย้ง การต่อต้านการจับ และการต่อต้านการทุจริต*) และ [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*การปกป้องความซื่อสัตย์ การดำเนินการป้องกันการดักจับ และการสนับสนุนการต่อต้านการตัดสินตนเอง*) สำหรับความขัดแย้งในการปฏิบัติงานและการป้องกันการตัดสินตนเอง
+- อ่านด้วย: [สายควบคุมวัสดุ](../../core_05.035_band_accountability.md#material-control-line); [ซีไอ-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*ความสมบูรณ์ของความขัดแย้ง การต่อต้านการจับ และการต่อต้านการทุจริต*) และ [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*การปกป้องความซื่อสัตย์ การดำเนินการป้องกันการดักจับ และการสนับสนุนการต่อต้านการตัดสินตนเอง*) สำหรับความขัดแย้งในการปฏิบัติงานและการป้องกันการตัดสินตนเอง
 
 </details>
 
@@ -255,7 +255,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
 - ต้นน้ำ: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- ปลายน้ำ: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 กฎที่นั่งร่วม](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- ปลายน้ำ: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 กฎที่นั่งร่วม](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - อ่านด้วย: [บทที่หนึ่ง §17.5 หน้าที่ในการต่อต้าน](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5)
 
 </details>
@@ -302,12 +302,12 @@ flowchart TB
   - [§3](#3-independence-conflict-and-control-lines);
   - [ความโปร่งใส](../../core_05.050_band_oversight.md#transparency);
   - [ความสามารถในการตรวจสอบ](../../core_05.050_band_oversight.md#auditability).
-- ปลายน้ำ: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ช่องแยกการทำงาน*); [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*บทบาทที่ได้รับอนุญาตและสายโซ่ความรับผิดชอบ*); บันทึกบทที่เก้าและบทที่สิบ
+- ปลายน้ำ: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ช่องแยกการทำงาน*); [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*บทบาทที่ได้รับอนุญาตและสายโซ่ความรับผิดชอบ*); บันทึกบทที่เก้าและบทที่สิบ
 - อ่านด้วย:
   - [กฎบัตรระบบ](../../core_05.040_band_continuity.md#system-charter),
   - [กฎบัตรสถาบัน](../../core_05.040_band_continuity.md#institutional-charter);
   - [บทที่เจ็ด §4 แผนที่บทบาทกฎบัตรและการดูแลบันทึกยืน](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4); และ
-  - [บทที่สิบสี่ §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5)
+  - [บทที่สิบสี่ §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5)
 
 </details>
 
@@ -377,7 +377,7 @@ flowchart TB
   - [สัดส่วนการถือหุ้นวัสดุ](../../core_00.000_preamble.md#material-stake);
   - [ความจำเป็น](../../core_05.035_band_accountability.md#necessity);
   - [สัดส่วน](../../core_05.035_band_accountability.md#proportionality).
-- ปลายน้ำ: [บทที่สิบ §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*การจัดพนักงานเลนตามระดับชั้นและความซ้ำซ้อนด้านความสามารถ*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ช่องแยกการทำงาน*).
+- ปลายน้ำ: [บทที่สิบ §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*การจัดพนักงานเลนตามระดับชั้นและความซ้ำซ้อนด้านความสามารถ*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*ช่องแยกการทำงาน*).
 - อ่านด้วย: [ภาระที่หลีกเลี่ยงได้](../../core_05.040_band_continuity.md#avoidable-burden) และบทที่หนึ่ง [§3.3 กระบวนการต่อต้านการย่อยสลาย](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ flowchart TB
 - ต้นน้ำ:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [บทที่สิบสาม §6.1 มาตรการฉุกเฉินและภาระต่อเนื่อง](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
+  - [บทที่สิบสาม §6.1 มาตรการฉุกเฉินและภาระต่อเนื่อง](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
   - [ท่าชั่วคราวเริ่มต้น](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - ปลายน้ำ: เหตุการณ์ การกักกัน การปล่อย ความต่อเนื่อง และกระบวนการตรวจสอบหลังเหตุการณ์ในข้อความการดำเนินการที่กำหนด
-- อ่านด้วย: [ความทันเวลา](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [การเก็บรักษาหลักฐาน](../../core_05.050_band_oversight.md#evidence-preservation), และ [CI-14.205 §6 แค็ตตาล็อกที่นั่ง - ต้นแบบบทบาทของกระบวนการและขอบเขตการปฏิบัติงาน](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- อ่านด้วย: [ความทันเวลา](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [การเก็บรักษาหลักฐาน](../../core_05.050_band_oversight.md#evidence-preservation), และ [CI-14.205 §6 แค็ตตาล็อกที่นั่ง - ต้นแบบบทบาทของกระบวนการและขอบเขตการปฏิบัติงาน](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ flowchart TB
   - [บันทึกพระราชบัญญัติที่มีผลผูกพันอันเป็นสาระสำคัญ](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [การดำเนินการที่ระบุแหล่งที่มา](../../core_05.035_band_accountability.md#attributable-action);
   - [ความสมบูรณ์ของการระบุแหล่งที่มา](../../core_05.035_band_accountability.md#attribution-integrity).
-- ปลายน้ำ: [CS-14.305 §10 การกระทำที่ตรวจสอบได้](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 กฎที่นั่งร่วม](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); บันทึกกระบวนการทั้งหมดอยู่ภายใต้การควบคุมของ§8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*แบบฟอร์มตรวจสอบเครื่องฐาน การสนับสนุนกระบวนการ ไม่ใช่คำจำกัดความที่สอง*).
+- ปลายน้ำ: [CS-14.305 §10 การกระทำที่ตรวจสอบได้](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 กฎที่นั่งร่วม](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); บันทึกกระบวนการทั้งหมดอยู่ภายใต้การควบคุมของ§8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*แบบฟอร์มตรวจสอบเครื่องฐาน การสนับสนุนกระบวนการ ไม่ใช่คำจำกัดความที่สอง*).
 - อ่านด้วย: [§4 การกำหนดเส้นทางที่นั่งผิด](#4-wrong-seat-routing) และ [บทที่สี่ §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5)
 
 </details>
@@ -564,9 +564,9 @@ flowchart TB
 - ต้นน้ำ: [§1](#1-purpose-scope-and-owner-boundary) ผ่าน [§8](#8-act-records-and-attributable-handoffs).
 - ปลายน้ำ:
   - [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [บทที่สิบ](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [บทที่สิบสาม](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [บทที่สิบสี่](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
+  - [บทที่สิบ](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [บทที่สิบสาม](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [บทที่สิบสี่](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
 - อ่านด้วย: [กองอำนาจและลำดับชั้นภายใน](../../core_05.045_band_integrative.md#owner-non-relocation) และ [ทะเบียนเจ้าของคำนำ](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

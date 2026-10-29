@@ -8,7 +8,7 @@
 - How revenue, resources, and incentives are stewarded without capture or silent exclusion
 - How institutional rules land in domain interfaces (care, health, markets, commons, place, science, and related)
 - How institutions coordinate, fail, correct, dissolve, or go through the Adoption Transition — and how remedy capacity is kept real
-- Section families **CI-0.210** (*Scope, purpose, and legitimacy interface*) and **CI-8.205** (*Institutional design, separation of powers, and authority custody*)–**CI-11.215** (*Institutional accountability and sanctions*) carry the detail (**CI-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Institutions index** below when you need a specific file.
+- Section families **CI-0.210** (*Scope, purpose, and legitimacy interface*) and **CI-8.205** (*Institutional design, separation of powers, and authority custody*)–**CI-12.215** (*Institutional accountability and sanctions*) carry the detail (**CI-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Institutions index** below when you need a specific file.
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
@@ -19,8 +19,8 @@
 - [Chapter One](core_01.000_values_principles.md) principles ([Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
 - [Chapter Five](core_05.000_definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapter Six](core_06.000_rights_part_a.md) Rights Floor themes where institutions must deliver accessible challenge and service pathways, remedy, care, health, and related floors
-- [Chapter Eleven](core_11.000_standing_integration.md) remedy and enforcement realism where **CI-11.205** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
-- [Chapter Fourteen](core_14.000_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
+- [Chapter Twelve](core_12.000_standing_integration.md) remedy and enforcement realism where **CI-12.205** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
+- [Chapter Fifteen](core_15.000_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
 
 **Siblings:**
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
@@ -28,7 +28,7 @@
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Eighteen](core_18.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Nineteen](core_19.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Institutions index** below. Identifier rules remain in the [institutions registry](corpus_institutions/ci_00.205_registry_and_reading_rules.md).
 
@@ -39,7 +39,7 @@
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the institutions implementation file. Substantive CI text lives in the `corpus_institutions/` subfiles. Broad references to `corpus_institutions.md` continue to mean the institutions implementation file as a whole.
 >
-> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Eighteen. This wrapper is an index.
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Nineteen. This wrapper is an index.
 
 </details>
 
@@ -67,14 +67,14 @@
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-8.205: Institutional design, separation of powers, and authority custody | [ci_08.205_institutional_design_separation_of_powers.md](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) |
-| CI-14.205: Appointment, competency, rotation, and removal | [ci_14.205_appointment_competency_rotation_removal.md](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) |
+| CI-15.205: Appointment, competency, rotation, and removal | [ci_15.205_appointment_competency_rotation_removal.md](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) |
 
 ### Integrity and procedure
 
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-8.210: Conflict integrity, anti-capture, and anti-corruption | [ci_08.210_conflict_integrity_anti_capture_anti_corruption.md](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) |
-| CI-13.205: Procedure integrity, contestability, and secondary review | [ci_13.205_procedure_integrity_contestability_secondary_review.md](corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md) |
+| CI-14.205: Procedure integrity, contestability, and secondary review | [ci_14.205_procedure_integrity_contestability_secondary_review.md](corpus_institutions/ci_14.205_procedure_integrity_contestability_secondary_review.md) |
 
 ### Oversight and participation
 
@@ -90,14 +90,14 @@
 |---|---|
 | CI-6.210: Public revenue, fees, recurring charges, and billing integrity | [ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md](corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md) |
 | CI-6.215: Resource stewardship and incentive integrity | [ci_06.215_resource_stewardship_incentive_integrity.md](corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md) |
-| CI-13.210: Cross-institution coordination and escalation | [ci_13.210_cross_institution_coordination_escalation.md](corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md) |
+| CI-14.210: Cross-institution coordination and escalation | [ci_14.210_cross_institution_coordination_escalation.md](corpus_institutions/ci_14.210_cross_institution_coordination_escalation.md) |
 
 ### Failure and Adoption Transition
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CI-11.210: Institutional failure and dissolution | [ci_11.210_institutional_failure_dissolution.md](corpus_institutions/ci_11.210_institutional_failure_dissolution.md) |
-| CI-11.215: Institutional accountability and sanctions | [ci_11.215_institutional_accountability_sanctions.md](corpus_institutions/ci_11.215_institutional_accountability_sanctions.md) |
+| CI-12.210: Institutional failure and dissolution | [ci_12.210_institutional_failure_dissolution.md](corpus_institutions/ci_12.210_institutional_failure_dissolution.md) |
+| CI-12.215: Institutional accountability and sanctions | [ci_12.215_institutional_accountability_sanctions.md](corpus_institutions/ci_12.215_institutional_accountability_sanctions.md) |
 | CI-6.275: Adoption Transition governance and institutional evolution | [ci_06.275_adoption_transition_governance_institutional_evolution.md](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md) |
 
 ### Domain interfaces — care and sentients
@@ -131,7 +131,7 @@
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-0.215: Compliance mapping and stable registry | [ci_00.215_compliance_mapping_stable_registry.md](corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md) |
-| CI-11.205: Remedy systems and institutional redress capacity | [ci_11.205_remedy_systems_institutional_redress_capacity.md](corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) |
+| CI-12.205: Remedy systems and institutional redress capacity | [ci_12.205_remedy_systems_institutional_redress_capacity.md](corpus_institutions/ci_12.205_remedy_systems_institutional_redress_capacity.md) |
 <!-- END GENERATED FAMILY INDEX -->
 
 </details>

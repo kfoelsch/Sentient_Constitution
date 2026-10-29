@@ -7,8 +7,8 @@
 >
 > - **Constitutional owner:** the separation-of-duties requirement for materially binding acts, met through distinct seats; the universal minimum contents of each [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_05.035_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; and the minimum independence conditions that every later constitutional process must apply.
 > - **Principle-layer source:** [Chapter One §18.3](core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
-> - **Implementation owner:** [CJS-5.125 §11](corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Constitutional lane and functional separation*), [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), and [CI-14.205 §6](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
-> - **Process-specific application remains downstream:** Chapter Nine applies this requirement to system alignment certification and to institutional alignment certification; [Chapter Ten §3.7](core_10.000_standing_assessment.md#37-separation-of-duties) applies it to standing records; Chapter Thirteen and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
+> - **Implementation owner:** [CJS-5.125 §11](corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Constitutional lane and functional separation*), [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), and [CI-15.205 §6](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
+> - **Process-specific application remains downstream:** Chapter Nine applies this requirement to system alignment certification and to institutional alignment certification; [Chapter Eleven §3.7](core_11.000_standing_assessment.md#37-separation-of-duties) applies it to standing records; Chapter Fourteen and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
 >
 > Reading order: §1 purpose and scope → §2 Four-Seat Requirement → §3 independence and conflicts → §4 wrong-seat routing → §5 published placement, substitutes, and delegation → §6 proportional scaling → §7 emergencies → §8 Act Records and handoffs → §9 downstream application.
 
@@ -35,9 +35,9 @@
   - [§9](#9-relationship-to-later-processes).
 - Downstream:
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); designated implementation text named above.
+  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000);
+  - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000);
+  - [Chapter Fifteen](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (15.000); designated implementation text named above.
 - Read with:
   - [Chapter One §19.3 Misalignment Detection](core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.010 §19.3) (*plural detection and review*);
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action);
@@ -123,7 +123,7 @@ This subsection explains the reasons for the number four. It is non-operative: t
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-purpose-scope-and-owner-boundary); [Chapter One §18.3](core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.010 §18.3); [Chapter One §17.1](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.010 §17.1).
-- Downstream: [§3](#3-independence-conflict-and-control-lines) through [§9](#9-relationship-to-later-processes); [CI-14.205 §6](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog — process-role archetypes and operational boundaries*).
+- Downstream: [§3](#3-independence-conflict-and-control-lines) through [§9](#9-relationship-to-later-processes); [CI-15.205 §6](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog — process-role archetypes and operational boundaries*).
 - Read with: [§6](#6-proportional-scaling-and-merged-hosting) for the only permitted merged-hosting path.
 
 </details>
@@ -221,8 +221,8 @@ Where scope is mixed or classification is uncertain, apply the highest applicabl
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-four-seat-constitutional-requirement); [Authority-scaled answerability](core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Article XXV](core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
-- Downstream: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); Chapter Nine certification component roles; Chapter Ten record custody; Chapter Thirteen forum anti-self-judging.
-- Read with: [Material Control Line](core_05.035_band_accountability.md#material-control-line); [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-13.425](corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
+- Downstream: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); Chapter Nine certification component roles; Chapter Eleven record custody; Chapter Fourteen forum anti-self-judging.
+- Read with: [Material Control Line](core_05.035_band_accountability.md#material-control-line); [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-14.425](corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
 
 </details>
 
@@ -248,7 +248,7 @@ Independence is not satisfied by a second signature, a nominal committee, an int
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- Downstream: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 shared seat rules](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- Downstream: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-15.205 §6 shared seat rules](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - Read with: [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.010 §17.5).
 
 </details>
@@ -295,12 +295,12 @@ That response is performance of duty, not abandonment of the act. The act procee
   - [§3](#3-independence-conflict-and-control-lines);
   - [Transparency](core_05.050_band_oversight.md#transparency);
   - [Auditability](core_05.050_band_oversight.md#auditability).
-- Downstream: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*); [CI-14.205 §5](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*Authorized roles and accountability chains*); Chapter Nine and Chapter Ten records.
+- Downstream: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*); [CI-15.205 §5](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*Authorized roles and accountability chains*); Chapter Nine and Chapter Eleven records.
 - Read with:
   - [System Charter](core_05.040_band_continuity.md#system-charter),
   - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter);
   - [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4); and
-  - [Chapter Fourteen §5](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
+  - [Chapter Fifteen §5](core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (15.000 §5).
 
 </details>
 
@@ -370,7 +370,7 @@ A holder may use staff or tools to help with the seat's work, such as gathering 
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Necessity](core_05.035_band_accountability.md#necessity);
   - [Proportionality](core_05.035_band_accountability.md#proportionality).
-- Downstream: [Chapter Ten §3.7](core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*).
+- Downstream: [Chapter Eleven §3.7](core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (11.000 §3.7); [CJS-19.110 §4](corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*).
 - Read with: [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) and Chapter One [§3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -442,7 +442,7 @@ A sentient or small practice of Class L or higher may place its seats with a hos
 - **Any work:** This route is open for all of the practice's acts, whether or not they need a practice licence or practice clearance, so a practice with both kinds of work can use one host for all of it.
 - **The same rules:** The rules in [§6.3 Seats held in common](#63-seats-held-in-common) apply to the host and the practice, including the host's independence from the practice, the four seats and an independent route for the host's own acts, published admission limits, and the rule for a member that leaves.
 - **Listed acts:** For an act listed for a practice licence or practice clearance under [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*), the host's standards also come from a technical forum finding, the host checks that each practitioner holds the licence or clearance, and a public host of last resort admits any holder. For other work, the host admits and refuses only on the grounds in [§6.3 Seats held in common](#63-seats-held-in-common), and it may not write competence criteria that keep a sentient out of work the Constitution does not gate.
-- **The host's added duties:** **CI-14.205 §7** (*Practice licence, practice clearance, and joint professional practice*) states the host's added duties and the safeguards against capture.
+- **The host's added duties:** **CI-15.205 §7** (*Practice licence, practice clearance, and joint professional practice*) states the host's added duties and the safeguards against capture.
 - **Meets the requirement:** Joining a host this way meets the separation-of-duties requirement in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement) for the acts the host's documents cover.
 
 <a id="65-informal-and-community-work"></a>
@@ -471,10 +471,10 @@ The more harm that could follow and the more others depend on the work, the hard
 - Upstream:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [Chapter Thirteen §6.1 Emergency measures and continuation burden](core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
+  - [Chapter Fourteen §6.1 Emergency measures and continuation burden](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (14.000 §6.1);
   - [default interim posture](core_01.005_interaction_interpretation.md#default-interim-posture).
 - Downstream: incident, containment, release, continuation, and post-event review processes in designated implementation text.
-- Read with: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [CI-14.205 §6 Seat catalog — process-role archetypes and operational boundaries](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- Read with: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [CI-15.205 §6 Seat catalog — process-role archetypes and operational boundaries](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -518,7 +518,7 @@ None of the following is by itself an emergency:
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action);
   - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity);
   - [Record Integrity](core_05.035_band_accountability.md#record-integrity).
-- Downstream: [CS-14.305 §10 inspectable attributable action](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 shared seat rules](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §8; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
+- Downstream: [CS-15.305 §10 inspectable attributable action](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-15.205 §6 shared seat rules](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §8; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Read with: [§4 Wrong-Seat Routing](#4-wrong-seat-routing) and [Chapter Four §5](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5).
 
 </details>
@@ -558,9 +558,9 @@ Logs show who did what, but they do not by themselves prove that the action was 
 - Upstream: [§1](#1-purpose-scope-and-owner-boundary) through [§8](#8-act-records-and-attributable-handoffs).
 - Downstream:
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
+  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000);
+  - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000);
+  - [Chapter Fifteen](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (15.000).
 - Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

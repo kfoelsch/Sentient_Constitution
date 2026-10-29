@@ -77,7 +77,7 @@ class ChartSectionNumberTests(unittest.TestCase):
 
     def test_ignores_cites_qualified_by_another_document(self) -> None:
         text = chart(
-            'D["2. Document<br/><br/>• Minimum record of the refusal<br/>(CS-14.305 §10)"]',
+            'D["2. Document<br/><br/>• Minimum record of the refusal<br/>(CS-15.305 §10)"]',
             'E["Outside — Chapter Nine §3<br/><br/>Checks scope"]',
         )
         self.assertEqual(self._kinds(text), [])

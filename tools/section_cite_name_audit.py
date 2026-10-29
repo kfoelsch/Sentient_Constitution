@@ -35,7 +35,7 @@ RULE = "SECTION-CITE-NAME-01"
 
 CHAPTER_PREFIX = (
     r"(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|"
-    r"Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|\d+)\s+)?"
+    r"Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|\d+)\s+)?"
     r"(?:Preamble\s+)?"
 )
 SECTION_TOKEN_RE = re.compile(

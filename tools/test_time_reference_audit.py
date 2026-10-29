@@ -124,7 +124,7 @@ class Structure(unittest.TestCase):
         self.assertEqual(findings(text), [])
 
     def test_link_targets_are_not_scanned(self) -> None:
-        text = "See [the rule](core_13.000_forum.md#7-timely-resolution-90-days).\n"
+        text = "See [the rule](core_14.000_forum.md#7-timely-resolution-90-days).\n"
         self.assertEqual(findings(text), [])
 
     def test_calibration_context_is_exempt(self) -> None:

@@ -2,7 +2,7 @@
 
 Changed-line audits use this narrow equivalence rule while the insertion is an
 uncommitted repository-wide migration. It does not exempt new prose or any
-change beyond the enumerated filename and explicit Chapter 7–16 shifts.
+change beyond the enumerated filename and explicit Chapter 7–17 shifts.
 """
 
 from __future__ import annotations
@@ -11,20 +11,20 @@ import re
 
 
 PATH_RENAMES = {
-    "core_08-11_application_vignettes.md": "core_10.005_application_vignettes.md",
+    "core_08-11_application_vignettes.md": "core_11.005_application_vignettes.md",
     "core_07_a_system_alignment_certification_evaluation.md": "core_09.000_system_alignment_certification_evaluation.md",
     "core_07_b_system_alignment_certification_record_process.md": "core_09.005_system_alignment_certification_record_process.md",
     "core_07_system_alignment_certification.md": "core_09.000_system_alignment_certification_evaluation.md",
-    "core_08_standing_assessment.md": "core_10.000_standing_assessment.md",
-    "core_09_standing_integration.md": "core_11.000_standing_integration.md",
-    "core_10_a_misconduct_designation.md": "core_12.000_misconduct_designation.md",
-    "core_10_b_misconduct_pattern_applications.md": "core_12.005_misconduct_pattern_applications.md",
-    "core_11_forum.md": "core_13.000_forum.md",
-    "core_12_governance.md": "core_14.000_governance.md",
-    "core_13_non_regression.md": "core_15.000_non_regression.md",
-    "core_14_expansion_supremacy.md": "core_16.000_expansion_supremacy.md",
-    "core_15_amendment_ratification.md": "core_17.000_amendment_ratification.md",
-    "core_16_incorporation.md": "core_18.000_incorporation.md",
+    "core_08_standing_assessment.md": "core_11.000_standing_assessment.md",
+    "core_09_standing_integration.md": "core_12.000_standing_integration.md",
+    "core_10_a_misconduct_designation.md": "core_13.000_misconduct_designation.md",
+    "core_10_b_misconduct_pattern_applications.md": "core_13.005_misconduct_pattern_applications.md",
+    "core_11_forum.md": "core_14.000_forum.md",
+    "core_12_governance.md": "core_15.000_governance.md",
+    "core_13_non_regression.md": "core_16.000_non_regression.md",
+    "core_14_expansion_supremacy.md": "core_17.000_expansion_supremacy.md",
+    "core_15_amendment_ratification.md": "core_18.000_amendment_ratification.md",
+    "core_16_incorporation.md": "core_19.000_incorporation.md",
 }
 
 NUMBER_WORDS = {

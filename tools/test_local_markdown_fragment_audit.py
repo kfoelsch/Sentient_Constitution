@@ -19,23 +19,23 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
     def test_default_scope_includes_implementation_and_generated_docs(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            target = root / "core_11.000_standing_integration.md"
+            target = root / "core_12.000_standing_integration.md"
             target.write_text(
-                '<a id="present"></a>\n# Chapter Ten\n',
+                '<a id="present"></a>\n# Chapter Eleven\n',
                 encoding="utf-8",
             )
 
             implementation = root / "implementation" / "guide.md"
             implementation.parent.mkdir()
             implementation.write_text(
-                "[broken](../core_11.000_standing_integration.md#missing-implementation)\n",
+                "[broken](../core_12.000_standing_integration.md#missing-implementation)\n",
                 encoding="utf-8",
             )
 
             generated = root / "doc_architecture" / "generated" / "index.md"
             generated.parent.mkdir(parents=True)
             generated.write_text(
-                "[broken](../../core_11.000_standing_integration.md#missing-generated)\n",
+                "[broken](../../core_12.000_standing_integration.md#missing-generated)\n",
                 encoding="utf-8",
             )
 

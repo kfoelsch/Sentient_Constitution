@@ -19,7 +19,7 @@ Use `python3 tools/corpus_lookup.py`. Do not open `id_resolver.json` for meaning
    - Do not treat card prose as a duty
 
 2. **ID, topic, or term** → `python3 tools/corpus_lookup.py resolve QUERY`
-   - `CF-13.440`, `CJS-5.125 §13`, `CS-14.305`, `CI-13.210`, `Def.P1`
+   - `CF-14.440`, `CJS-5.125 §13`, `CS-15.305`, `CI-14.210`, `Def.P1`
    - CJS-0.105 §1 topic rows (`CJS-R09` and the topic string) via `topic-route`
    - Chapter Five terms (file + line range; hydrate the source block)
    - Current heading anchors only — `validity --file FILE --anchor '#fragment'`
@@ -132,7 +132,7 @@ python3 tools/corpus_lookup.py validity --file FILE --anchor '#fragment'
 
 ## Current corpus shape (do not use retired filenames)
 
-Chapter Five lives in **band and apex files** (`core_05.0*_band_*.md`, `core_05.0*_apex_*.md`), with Part A compass in `core_05.000_definitions_home.md`. Adopted implementation text lives in **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06.0*_rights_part_*.md`). Standing measurement is **Chapter Nine**; standing effects are **Chapter Ten**.
+Chapter Five lives in **band and apex files** (`core_05.0*_band_*.md`, `core_05.0*_apex_*.md`), with Part A compass in `core_05.000_definitions_home.md`. Adopted implementation text lives in **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06.0*_rights_part_*.md`). Standing measurement is **Chapter Nine**; standing effects are **Chapter Eleven**.
 
 Inventory of current files: `ai_corpus/visualization/dependency_map.mmd` (generated file list, not a citation-weight graph). Citation edges: `crossref_matrix.json` and `section_crossref.json`.
 

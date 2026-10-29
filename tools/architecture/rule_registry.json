@@ -222,51 +222,44 @@
       "status": "advisory"
     },
     {
-      "id": "CH10-NEST-CANDIDATE",
-      "legacy_ref": "Chapter Ten nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Ten labeled record, custody, and measurement bullets that would scan better as nested children. Not a regression gate.",
-      "make_target": "ch10-nested-list-candidates",
-      "status": "advisory"
-    },
-    {
       "id": "CH11-NEST-CANDIDATE",
       "legacy_ref": "Chapter Eleven nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Eleven labeled integration, lock, remedy, and routing bullets that would scan better as nested children. Not a regression gate.",
+      "summary": "Advisory ranking of packed Chapter Eleven labeled record, custody, and measurement bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch11-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH12-NEST-CANDIDATE",
       "legacy_ref": "Chapter Twelve nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Twelve labeled designation, safeguard, and named-pattern bullets that would scan better as nested children. Not a regression gate.",
+      "summary": "Advisory ranking of packed Chapter Twelve labeled integration, lock, remedy, and routing bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch12-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH13-NEST-CANDIDATE",
       "legacy_ref": "Chapter Thirteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Thirteen labeled routing, forum-family, escalation, and support bullets that would scan better as nested children. Not a regression gate.",
+      "summary": "Advisory ranking of packed Chapter Thirteen labeled designation, safeguard, and named-pattern bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch13-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH14-NEST-CANDIDATE",
       "legacy_ref": "Chapter Fourteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Fourteen labeled legitimacy, stewardship, collective-choice, and role bullets that would scan better as nested children. Not a regression gate.",
+      "summary": "Advisory ranking of packed Chapter Fourteen labeled routing, forum-family, escalation, and support bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch14-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH15-NEST-CANDIDATE",
       "legacy_ref": "Chapter Fifteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Fifteen labeled non-regression, amendment-validity, anti-evasion, and layer-scope bullets that would scan better as nested children. Not a regression gate.",
+      "summary": "Advisory ranking of packed Chapter Fifteen labeled legitimacy, stewardship, collective-choice, and role bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch15-nested-list-candidates",
       "status": "advisory"
     },
     {
       "id": "CH16-NEST-CANDIDATE",
       "legacy_ref": "Chapter Sixteen nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Sixteen bullets that would scan better as nested children. Not a regression gate.",
+      "summary": "Advisory ranking of packed Chapter Sixteen labeled non-regression, amendment-validity, anti-evasion, and layer-scope bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch16-nested-list-candidates",
       "status": "advisory"
     },
@@ -282,6 +275,13 @@
       "legacy_ref": "Chapter Eighteen nested list readability candidates",
       "summary": "Advisory ranking of packed Chapter Eighteen bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch18-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH19-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Nineteen nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Nineteen bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch19-nested-list-candidates",
       "status": "advisory"
     },
     {
@@ -315,7 +315,7 @@
     {
       "id": "REF-WRAPPER-01",
       "legacy_ref": "section 7 companion family cites (wrapper files)",
-      "summary": "Do not cite a layer wrapper (corpus_systems.md, corpus_institutions.md, corpus_joint_structure.md, corpus_forum.md) as a source: no link to it and no file-name mention in body prose, Trace lines, or Read with lines. Cite the CS / CI / CJS / CF subfile that owns the rule, by id and title. Navigation lines (file-top notes, Previous/Next file, landing-page pointers, tables, registry annexes) and the incorporation inventories in the Preamble and Chapter Eighteen are exempt. make regression runs it and checks all four wrappers; --wrapper NAME narrows it.",
+      "summary": "Do not cite a layer wrapper (corpus_systems.md, corpus_institutions.md, corpus_joint_structure.md, corpus_forum.md) as a source: no link to it and no file-name mention in body prose, Trace lines, or Read with lines. Cite the CS / CI / CJS / CF subfile that owns the rule, by id and title. Navigation lines (file-top notes, Previous/Next file, landing-page pointers, tables, registry annexes) and the incorporation inventories in the Preamble and Chapter Nineteen are exempt. make regression runs it and checks all four wrappers; --wrapper NAME narrows it.",
       "make_target": "wrapper-cite-audit",
       "status": "blocking"
     },

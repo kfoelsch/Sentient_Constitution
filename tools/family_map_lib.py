@@ -28,7 +28,7 @@ def iter_entries(data: dict[str, Any]) -> Iterator[dict[str, Any]]:
 
 
 def family_files(data: dict[str, Any]) -> dict[str, str]:
-    """Map canonical family IDs (CI-13.210, CS-14.305, CJS-18.110, CF-13.405) to repo-relative files."""
+    """Map canonical family IDs (CI-14.210, CS-15.305, CJS-19.110, CF-14.405) to repo-relative files."""
     mapping: dict[str, str] = dict(CS_PART_DEFAULTS)
     for entry in iter_entries(data):
         if entry.get("status") == "reserved":
@@ -77,7 +77,7 @@ def cs_section_home(data: dict[str, Any], section_id: str) -> str | None:
 
 
 def resolve_section_file(data: dict[str, Any], section_id: str) -> str | None:
-    """Resolve CI-9.210 §3 / CJS-5.120 §8 / CS-6.345 §8 / CF-13.450 to a subfile."""
+    """Resolve CI-9.210 §3 / CJS-5.120 §8 / CS-6.345 §8 / CF-14.450 to a subfile."""
     text = section_id.strip().strip("*")
     files = family_files(data)
     # Exact map ids such as CS-5A are not dotted reader-facing chapter numbers.

@@ -14,8 +14,8 @@
 >
 > - **संवैधानिक स्वामी:** भौतिक रूप से बाध्यकारी कृत्यों के लिए कर्तव्यों को अलग करने की आवश्यकता, अलग-अलग सीटों के माध्यम से पूरी की गई; प्रत्येक की सार्वभौमिक न्यूनतम सामग्री [भौतिक रूप से बाध्यकारी अधिनियम रिकॉर्ड](../../core_05.035_band_accountability.md#materially-binding-act-record); अभिनेता और अभिनेता से स्वतंत्रता [सामग्री नियंत्रण रेखा](../../core_05.035_band_accountability.md#material-control-line); प्रकाशित लेन और भूमिका प्लेसमेंट; संघर्ष, रिक्ति, प्रतिस्थापन, और गलत सीट रूटिंग; आनुपातिक मर्ज की गई होस्टिंग; जिम्मेदार हैंडऑफ़; और न्यूनतम स्वतंत्रता की शर्तें जो हर बाद की संवैधानिक प्रक्रिया पर लागू होनी चाहिए।
 > - **सिद्धांत-परत स्रोत:** [अध्याय एक §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) कार्यात्मक स्वतंत्रता को बनाए रखने के लिए शासन की आवश्यकता है और यहां ऑपरेटिव सीट आर्किटेक्चर को रूट करना है।
-> - **कार्यान्वयन स्वामी:** [सीजेएस-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*संवैधानिक लेन और कार्यात्मक पृथक्करण*), [सीआई-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), और [सीआई-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) सीटें लगाएं और चालू करें। वे सख्त हो सकते हैं और सीमित विशेष-प्राधिकरण सीट प्रकार जोड़ सकते हैं; वे इस अध्याय को छोटा नहीं कर सकते।
-> - **प्रक्रिया-विशिष्ट अनुप्रयोग डाउनस्ट्रीम रहता है:** अध्याय नौ इस आवश्यकता को सिस्टम संरेखण प्रमाणन और संस्थागत संरेखण प्रमाणन पर लागू करता है; [अध्याय दस §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) इसे स्थायी रिकॉर्ड पर लागू करता है; अध्याय तेरह और [कोर्पस_फोरम.एमडी](../../corpus_forum.md) इसे फ़ोरम प्रक्रिया पर लागू करें. उन अध्यायों में उनकी विषय वस्तु के लिए आवश्यक सुरक्षा उपाय शामिल हो सकते हैं; वे कोई कमज़ोर विकल्प नहीं बना सकते।
+> - **कार्यान्वयन स्वामी:** [सीजेएस-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*संवैधानिक लेन और कार्यात्मक पृथक्करण*), [सीआई-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), और [सीआई-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) सीटें लगाएं और चालू करें। वे सख्त हो सकते हैं और सीमित विशेष-प्राधिकरण सीट प्रकार जोड़ सकते हैं; वे इस अध्याय को छोटा नहीं कर सकते।
+> - **प्रक्रिया-विशिष्ट अनुप्रयोग डाउनस्ट्रीम रहता है:** अध्याय नौ इस आवश्यकता को सिस्टम संरेखण प्रमाणन और संस्थागत संरेखण प्रमाणन पर लागू करता है; [अध्याय दस §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) इसे स्थायी रिकॉर्ड पर लागू करता है; अध्याय तेरह और [कोर्पस_फोरम.एमडी](../../corpus_forum.md) इसे फ़ोरम प्रक्रिया पर लागू करें. उन अध्यायों में उनकी विषय वस्तु के लिए आवश्यक सुरक्षा उपाय शामिल हो सकते हैं; वे कोई कमज़ोर विकल्प नहीं बना सकते।
 >
 > पढ़ने का क्रम: §1 उद्देश्य और दायरा → §2 चार-सीट की आवश्यकता → §3 स्वतंत्रता और संघर्ष → §4 गलत-सीट रूटिंग → §5 प्रकाशित प्लेसमेंट, विकल्प, और प्रतिनिधिमंडल → §6 आनुपातिक स्केलिंग → §7 आपात स्थिति → §8 अधिनियम रिकॉर्ड और हैंडऑफ़ → §9 डाउनस्ट्रीम आवेदन.
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - डाउनस्ट्रीम:
   - [अध्याय नौ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [अध्याय दस](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10,000);
-  - [अध्याय तेरह](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13,000);
-  - [अध्याय चौदह](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14,000); उपरोक्त निर्दिष्ट कार्यान्वयन पाठ।
+  - [अध्याय दस](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10,000);
+  - [अध्याय तेरह](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13,000);
+  - [अध्याय चौदह](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14,000); उपरोक्त निर्दिष्ट कार्यान्वयन पाठ।
 - इसके साथ पढ़ें:
   - [अध्याय एक §19.3 मिसलिग्न्मेंट का पता लगाना](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*बहुवचन पहचान और समीक्षा*);
   - [जिम्मेदार कार्रवाई](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@
 <summary><strong><span style="color: #2563eb;">पता लगाना</span></strong></summary>
 
 - अपस्ट्रीम: [§1](#1-purpose-scope-and-owner-boundary); [अध्याय एक §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3); [अध्याय एक §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1).
-- डाउनस्ट्रीम: [§3](#3-independence-conflict-and-control-lines) के माध्यम से [§9](#9-relationship-to-later-processes); [सीआई-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*सीट कैटलॉग - प्रक्रिया-भूमिका आदर्श और परिचालन सीमाएँ*).
+- डाउनस्ट्रीम: [§3](#3-independence-conflict-and-control-lines) के माध्यम से [§9](#9-relationship-to-later-processes); [सीआई-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*सीट कैटलॉग - प्रक्रिया-भूमिका आदर्श और परिचालन सीमाएँ*).
 - इसके साथ पढ़ें: [§6](#6-proportional-scaling-and-merged-hosting) एकमात्र अनुमत मर्ज-होस्टिंग पथ के लिए।
 
 </details>
@@ -229,7 +229,7 @@ flowchart TB
 
 - अपस्ट्रीम: [§2](#2-four-seat-constitutional-requirement); [प्राधिकार-स्तरीय उत्तरदायित्व](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [अनुच्छेद XXV](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*संवैधानिक व्याख्या, समीक्षा, और कब्जा-विरोधी सुरक्षा उपाय*).
 - डाउनस्ट्रीम: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); अध्याय नौ प्रमाणन घटक भूमिकाएँ; अध्याय दस रिकॉर्ड हिरासत; अध्याय तेरह मंच आत्म-निर्णय विरोधी।
-- इसके साथ पढ़ें: [सामग्री नियंत्रण रेखा](../../core_05.035_band_accountability.md#material-control-line); [सीआई-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*संघर्ष अखंडता, कब्जा-विरोधी, और भ्रष्टाचार-विरोधी*) और [सीएफ-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*सत्यनिष्ठा सुरक्षा उपाय, कब्जा-विरोधी कार्रवाई, और आत्म-निर्णय-विरोधी समर्थन*) परिचालन संघर्ष और आत्म-निर्णय विरोधी सुरक्षा उपायों के लिए।
+- इसके साथ पढ़ें: [सामग्री नियंत्रण रेखा](../../core_05.035_band_accountability.md#material-control-line); [सीआई-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*संघर्ष अखंडता, कब्जा-विरोधी, और भ्रष्टाचार-विरोधी*) और [सीएफ-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*सत्यनिष्ठा सुरक्षा उपाय, कब्जा-विरोधी कार्रवाई, और आत्म-निर्णय-विरोधी समर्थन*) परिचालन संघर्ष और आत्म-निर्णय विरोधी सुरक्षा उपायों के लिए।
 
 </details>
 
@@ -255,7 +255,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">पता लगाना</span></strong></summary>
 
 - अपस्ट्रीम: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- डाउनस्ट्रीम: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [सीआई-14.205 §6 साझा सीट नियम](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- डाउनस्ट्रीम: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [सीआई-14.205 §6 साझा सीट नियम](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - इसके साथ पढ़ें: [अध्याय एक §17.5 विरोध करने का कर्तव्य](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5).
 
 </details>
@@ -302,12 +302,12 @@ flowchart TB
   - [§3](#3-independence-conflict-and-control-lines);
   - [पारदर्शिता](../../core_05.050_band_oversight.md#transparency);
   - [लेखापरीक्षा](../../core_05.050_band_oversight.md#auditability).
-- डाउनस्ट्रीम: [§8](#8-act-records-and-attributable-handoffs); [सीआई-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*कार्यात्मक पृथक्करण लेन*); [सीआई-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*अधिकृत भूमिकाएँ और जवाबदेही श्रृंखलाएँ*); अध्याय नौ और अध्याय दस के रिकॉर्ड।
+- डाउनस्ट्रीम: [§8](#8-act-records-and-attributable-handoffs); [सीआई-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*कार्यात्मक पृथक्करण लेन*); [सीआई-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*अधिकृत भूमिकाएँ और जवाबदेही श्रृंखलाएँ*); अध्याय नौ और अध्याय दस के रिकॉर्ड।
 - इसके साथ पढ़ें:
   - [सिस्टम चार्टर](../../core_05.040_band_continuity.md#system-charter),
   - [संस्थागत चार्टर](../../core_05.040_band_continuity.md#institutional-charter);
   - [अध्याय सात §4 चार्टर रोल मैप और स्थायी-रिकॉर्ड कस्टडी](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4); और
-  - [अध्याय चौदह §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
+  - [अध्याय चौदह §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
 
 </details>
 
@@ -377,7 +377,7 @@ flowchart TB
   - [सामग्री हिस्सेदारी](../../core_00.000_preamble.md#material-stake);
   - [ज़रूरत](../../core_05.035_band_accountability.md#necessity);
   - [समानता](../../core_05.035_band_accountability.md#proportionality).
-- डाउनस्ट्रीम: [अध्याय दस §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [सीजेएस-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*क्लास-स्केल लेन स्टाफिंग और योग्यता अतिरेक*); [सीआई-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*कार्यात्मक पृथक्करण लेन*).
+- डाउनस्ट्रीम: [अध्याय दस §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [सीजेएस-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*क्लास-स्केल लेन स्टाफिंग और योग्यता अतिरेक*); [सीआई-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*कार्यात्मक पृथक्करण लेन*).
 - इसके साथ पढ़ें: [टालने योग्य बोझ](../../core_05.040_band_continuity.md#avoidable-burden) और अध्याय एक [§3.3 एंटी-डिग्रेडिंग प्रक्रिया](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ flowchart TB
 - अपस्ट्रीम:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [अध्याय तेरह §6.1 आपातकालीन उपाय और निरंतरता का बोझ](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
+  - [अध्याय तेरह §6.1 आपातकालीन उपाय और निरंतरता का बोझ](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
   - [डिफ़ॉल्ट अंतरिम मुद्रा](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - डाउनस्ट्रीम: निर्दिष्ट कार्यान्वयन पाठ में घटना, रोकथाम, रिहाई, निरंतरता और घटना के बाद की समीक्षा प्रक्रियाएं।
-- इसके साथ पढ़ें: [सामयिकता](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [साक्ष्य संरक्षण](../../core_05.050_band_oversight.md#evidence-preservation), और [सीआई-14.205 §6 सीट कैटलॉग - प्रक्रिया-भूमिका आदर्श और परिचालन सीमाएं](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- इसके साथ पढ़ें: [सामयिकता](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [साक्ष्य संरक्षण](../../core_05.050_band_oversight.md#evidence-preservation), और [सीआई-14.205 §6 सीट कैटलॉग - प्रक्रिया-भूमिका आदर्श और परिचालन सीमाएं](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ flowchart TB
   - [भौतिक रूप से बाध्यकारी अधिनियम रिकॉर्ड](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [जिम्मेदार कार्रवाई](../../core_05.035_band_accountability.md#attributable-action);
   - [एट्रिब्यूशन सत्यनिष्ठा](../../core_05.035_band_accountability.md#attribution-integrity).
-- डाउनस्ट्रीम: [सीएस-14.305 §10 निरीक्षण योग्य जिम्मेदार कार्रवाई](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [सीआई-14.205 §6 साझा सीट नियम](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); प्रत्येक प्रक्रिया रिकॉर्ड §8 द्वारा शासित होता है; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*आधार मशीन-चेक करने योग्य प्रपत्र; प्रक्रिया समर्थन, दूसरी परिभाषा नहीं*).
+- डाउनस्ट्रीम: [सीएस-14.305 §10 निरीक्षण योग्य जिम्मेदार कार्रवाई](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [सीआई-14.205 §6 साझा सीट नियम](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); प्रत्येक प्रक्रिया रिकॉर्ड §8 द्वारा शासित होता है; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*आधार मशीन-चेक करने योग्य प्रपत्र; प्रक्रिया समर्थन, दूसरी परिभाषा नहीं*).
 - इसके साथ पढ़ें: [§4 गलत-सीट रूटिंग](#4-wrong-seat-routing) और [अध्याय चार §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5).
 
 </details>
@@ -564,9 +564,9 @@ flowchart TB
 - अपस्ट्रीम: [§1](#1-purpose-scope-and-owner-boundary) के माध्यम से [§8](#8-act-records-and-attributable-handoffs).
 - डाउनस्ट्रीम:
   - [अध्याय नौ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [अध्याय दस](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10,000);
-  - [अध्याय तेरह](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13,000);
-  - [अध्याय चौदह](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
+  - [अध्याय दस](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10,000);
+  - [अध्याय तेरह](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13,000);
+  - [अध्याय चौदह](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
 - इसके साथ पढ़ें: [प्राधिकरण स्टैक और आंतरिक पदानुक्रम](../../core_05.045_band_integrative.md#owner-non-relocation) और यह [प्रस्तावना स्वामी रजिस्टर](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

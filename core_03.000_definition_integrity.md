@@ -36,7 +36,7 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
   - [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior);
   - [Chapter Four, section 2 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement) (4.000);
   - [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000);
-  - [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
+  - [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000).
 - Read with: [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) (1.000) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
@@ -94,7 +94,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
   - [Chapter Four, section 5 — Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000);
   - [Chapter Four, section 3 — Observability of Traceability Requirement](core_04.000_burden_traceability_verification.md#3-observability-of-traceability-requirement) (4.000);
   - [Chapter Nine §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*system alignment certification reopening and anti-evasion pointer*);
-  - [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
+  - [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000).
 - Read with:
   - [Chapter Two, §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1) for the joint-satisfaction rule under full functional system conditions;
   - [Chapter Two, §2.4 Interpretation Rule Under Ambiguity](core_02.000_definition_structure.md#24-interpretation-rule-under-ambiguity) (2.000 §2.4) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid;
@@ -220,8 +220,8 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 - Downstream:
   - [Chapter Four, section 2 — Definition Traceability Requirement](core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement) (4.000);
   - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Chapter Eleven — Standing Effects and Integration](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) (11.000);
+  - [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000);
+  - [Chapter Twelve — Standing Effects and Integration](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000);
   - [CJS-5.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Read with: [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile) — canonical O/M/A/C home for profile fields; [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
@@ -236,13 +236,13 @@ Material **non-compliance** findings under this chapter or under invoked **Chapt
 - may name which [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation best describe the failure — for example Oversight, Participation, or Accountability crossed with Flourishing or Continuity
 - does not change whether the underlying definition is met
 - does not create a second verdict label
-- does not replace [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) contribution or violation measurement
+- does not replace [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) contribution or violation measurement
 
 Standing effects depend on who is being assessed and on whether the system is already certified. The subsections below set those cases.
 
 #### 3.1 Standing Effects for Already-Certified Systems
 
-If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_10.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); apply its integration and effects under [Chapter Eleven](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement); apply its integration and effects under [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
 
 #### 3.2 Standing Effects at First Certification
 
@@ -261,7 +261,7 @@ A sentient's standing is affected only when a verified link to that sentient is 
 - concealment
 - feasible prevention capacity
 
-An institution's standing is affected when the institution is the subject being assessed, or when it is verified as the vehicle of the non-compliance pattern. Institution records remain separately traceable from individual sentient records. Apply those cases under [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) and [Chapter Eleven](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). The finding profile helps route and audit. It does not itself set standing outcomes, slots, locks, gates, or remedies.
+An institution's standing is affected when the institution is the subject being assessed, or when it is verified as the vehicle of the non-compliance pattern. Institution records remain separately traceable from individual sentient records. Apply those cases under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) and [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). The finding profile helps route and audit. It does not itself set standing outcomes, slots, locks, gates, or remedies.
 
 #### 3.4 Operational Constraints
 

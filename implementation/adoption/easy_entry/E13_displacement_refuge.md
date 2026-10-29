@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_18.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -47,7 +47,7 @@ See: [Article XXII-A](../../../core_06.015_rights_part_d.md#article-xxii-a-movem
 - **Today:** A score, a watchlist, or “no record on file” is treated as a reason to refuse movement. A dropped record, a lock, or “unrated” becomes exile.
 - **With this Constitution:** A score of how trusted you are, or a lock on a record, is not, by itself, a reason to refuse movement, refuge, taking your records with you, or leaving. Accusations that have not been decided are not a border. If conduct that violates this Constitution has been checked and found, a host may still refuse or condition admission, or use detention or other limits, when those steps are needed, not bigger than the harm, and done through a real process. Those steps still cannot leave you with no country or body that counts you.
 
-See: [Article XXII-D](../../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline); [Article XXII-C](../../../core_06.015_rights_part_d.md#article-xxii-c-non-statelessness); [Article XX-B](../../../core_06.015_rights_part_d.md#article-xx-b-restriction-floors); [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-is-the-default).
+See: [Article XXII-D](../../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline); [Article XXII-C](../../../core_06.015_rights_part_d.md#article-xxii-c-non-statelessness); [Article XX-B](../../../core_06.015_rights_part_d.md#article-xx-b-restriction-floors); [Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default).
 
 **Exit has to work in practice.**
 - **Today:** You can leave if you abandon data, credentials, and proof of what was done to you.
@@ -69,7 +69,7 @@ See: [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-surviva
 
 ## What you might reasonably object to
 
-- **“No country has adopted this. I need a visa, not a PDF.”** Correct as to present enforcement. This is a model constitution. It does not override refugee, migration, or border law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). The case is what a host, carrier, or identity operator that agreed would owe — including that they may not use this text to shrink duties they already bear.
+- **“No country has adopted this. I need a visa, not a PDF.”** Correct as to present enforcement. This is a model constitution. It does not override refugee, migration, or border law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). The case is what a host, carrier, or identity operator that agreed would owe — including that they may not use this text to shrink duties they already bear.
 
 - **“You will dump everyone on the first host that meets the rule.”** Article XXII-B says a particular body that has agreed is not required to take in everyone who is fleeing at once; the place you left keeps the first duty to recognize you, with shared temporary recognition as backup. That is an honest limit, not a closed door dressed as capacity.
 

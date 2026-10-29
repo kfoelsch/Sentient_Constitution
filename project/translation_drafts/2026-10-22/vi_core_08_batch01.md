@@ -14,8 +14,8 @@
 >
 > - **Chủ sở hữu hợp pháp:** yêu cầu phân chia nhiệm vụ đối với các hành vi ràng buộc vật chất, được đáp ứng thông qua các ghế riêng biệt; nội dung tối thiểu chung của mỗi [Hồ sơ hành động ràng buộc vật chất](../../core_05.035_band_accountability.md#materially-binding-act-record); sự độc lập khỏi diễn viên và của diễn viên [Dây chuyền kiểm soát vật liệu](../../core_05.035_band_accountability.md#material-control-line); vị trí làn đường và vai trò được công bố; xung đột, chỗ trống, thay thế và định tuyến sai chỗ ngồi; lưu trữ hợp nhất tương ứng; sự chuyển giao có thể quy cho; và những điều kiện độc lập tối thiểu mà mọi quy trình lập hiến sau này phải áp dụng.
 > - **Nguồn lớp nguyên tắc:** [Chương Một §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) yêu cầu quản trị để duy trì sự độc lập về mặt chức năng và định tuyến kiến ​​trúc trụ sở hoạt động ở đây.
-> - **Chủ thực hiện:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Làn đường hiến pháp và sự phân chia chức năng*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), Và [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) đặt và vận hành ghế. Chúng có thể chặt chẽ hơn và có thể bổ sung thêm các loại ghế dành cho cơ quan có thẩm quyền đặc biệt; họ có thể không thu hẹp chương này.
-> - **Ứng dụng dành riêng cho quy trình vẫn ở phía dưới:** Chương Chín áp dụng yêu cầu này cho chứng nhận liên kết hệ thống và chứng nhận liên kết tổ chức; [Chương Mười §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) áp dụng nó cho các hồ sơ thường trực; Chương mười ba và [tử thi_diễn đàn.md](../../corpus_forum.md) áp dụng nó vào quá trình diễn đàn. Các chương đó có thể bổ sung các biện pháp bảo vệ theo yêu cầu của chủ đề; họ có thể không tạo ra một sự thay thế yếu hơn.
+> - **Chủ thực hiện:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Làn đường hiến pháp và sự phân chia chức năng*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), Và [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) đặt và vận hành ghế. Chúng có thể chặt chẽ hơn và có thể bổ sung thêm các loại ghế dành cho cơ quan có thẩm quyền đặc biệt; họ có thể không thu hẹp chương này.
+> - **Ứng dụng dành riêng cho quy trình vẫn ở phía dưới:** Chương Chín áp dụng yêu cầu này cho chứng nhận liên kết hệ thống và chứng nhận liên kết tổ chức; [Chương Mười §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) áp dụng nó cho các hồ sơ thường trực; Chương mười ba và [tử thi_diễn đàn.md](../../corpus_forum.md) áp dụng nó vào quá trình diễn đàn. Các chương đó có thể bổ sung các biện pháp bảo vệ theo yêu cầu của chủ đề; họ có thể không tạo ra một sự thay thế yếu hơn.
 >
 > Thứ tự đọc: §1 mục đích và phạm vi → §2 Yêu cầu bốn chỗ → §3 tính độc lập và xung đột → §4 định tuyến sai chỗ → §5 vị trí được công bố, người thay thế và ủy quyền → §6 chia tỷ lệ theo tỷ lệ → §7 trường hợp khẩn cấp → §8 Hồ sơ hành động và chuyển giao → §9 ứng dụng xuôi dòng.
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - Hạ lưu:
   - [Chương Chín](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Chương Mười](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Chương mười ba](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [Chương mười bốn](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); văn bản thực hiện được chỉ định có tên ở trên.
+  - [Chương Mười](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [Chương mười ba](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [Chương mười bốn](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); văn bản thực hiện được chỉ định có tên ở trên.
 - Đọc với:
   - [Chương Một §19.3 Phát hiện sai lệch](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*phát hiện và đánh giá số nhiều*);
   - [Hành động có thể phân bổ](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@ Tiểu mục này giải thích lý do cho số bốn. Nó không hoạt động
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§1](#1-purpose-scope-and-owner-boundary); [Chương Một §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3); [Chương Một §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1).
-- Hạ lưu: [§3](#3-independence-conflict-and-control-lines) bởi vì [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Danh mục chỗ ngồi - nguyên mẫu vai trò quy trình và ranh giới hoạt động*).
+- Hạ lưu: [§3](#3-independence-conflict-and-control-lines) bởi vì [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Danh mục chỗ ngồi - nguyên mẫu vai trò quy trình và ranh giới hoạt động*).
 - Đọc với: [§6](#6-proportional-scaling-and-merged-hosting) cho đường dẫn lưu trữ hợp nhất được phép duy nhất.
 
 </details>
@@ -229,7 +229,7 @@ Khi phạm vi bị trộn lẫn hoặc việc phân loại không chắc chắn,
 
 - Thượng nguồn: [§2](#2-four-seat-constitutional-requirement); [Khả năng trả lời theo quy mô thẩm quyền](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Điều XXV](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Các biện pháp bảo vệ giải thích, đánh giá và chống chiếm đoạt hiến pháp*).
 - Hạ lưu: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); Chương Chín vai trò của thành phần chứng nhận; Chương mười ghi chép quyền nuôi con; Chương mười ba diễn đàn chống tự phán xét.
-- Đọc với: [Dây chuyền kiểm soát vật liệu](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Liêm chính xung đột, chống nắm bắt và chống tham nhũng*) Và [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Các biện pháp bảo vệ tính toàn vẹn, hoạt động chống nắm bắt và hỗ trợ chống tự đánh giá*) để bảo vệ xung đột trong hoạt động và chống tự phán xét.
+- Đọc với: [Dây chuyền kiểm soát vật liệu](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Liêm chính xung đột, chống nắm bắt và chống tham nhũng*) Và [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Các biện pháp bảo vệ tính toàn vẹn, hoạt động chống nắm bắt và hỗ trợ chống tự đánh giá*) để bảo vệ xung đột trong hoạt động và chống tự phán xét.
 
 </details>
 
@@ -255,7 +255,7 @@ Tính độc lập không được thỏa mãn bởi chữ ký thứ hai, ủy b
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- Hạ lưu: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 quy tắc chỗ ngồi chung](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- Hạ lưu: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 quy tắc chỗ ngồi chung](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - Đọc với: [Chương Một §17.5 Nghĩa vụ chống cự](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5).
 
 </details>
@@ -302,12 +302,12 @@ Phản ứng đó là thực hiện nghĩa vụ chứ không phải từ bỏ h�
   - [§3](#3-independence-conflict-and-control-lines);
   - [Minh bạch](../../core_05.050_band_oversight.md#transparency);
   - [Khả năng kiểm toán](../../core_05.050_band_oversight.md#auditability).
-- Hạ lưu: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Làn đường phân cách chức năng*); [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*Vai trò được ủy quyền và chuỗi trách nhiệm*); Hồ sơ chương Chín và chương Mười.
+- Hạ lưu: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Làn đường phân cách chức năng*); [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*Vai trò được ủy quyền và chuỗi trách nhiệm*); Hồ sơ chương Chín và chương Mười.
 - Đọc với:
   - [Điều lệ hệ thống](../../core_05.040_band_continuity.md#system-charter),
   - [Điều lệ tổ chức](../../core_05.040_band_continuity.md#institutional-charter);
   - [Chương Bảy §4 Bản đồ vai trò điều lệ và hồ sơ lưu giữ thường trực](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4); Và
-  - [Chương Mười Bốn §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
+  - [Chương Mười Bốn §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
 
 </details>
 
@@ -377,7 +377,7 @@ Người nắm giữ có thể sử dụng nhân viên hoặc công cụ để h
   - [cổ phần vật chất](../../core_00.000_preamble.md#material-stake);
   - [sự cần thiết](../../core_05.035_band_accountability.md#necessity);
   - [Tỷ lệ](../../core_05.035_band_accountability.md#proportionality).
-- Hạ lưu: [Chương Mười §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Nhân sự làn đường theo cấp độ và dự phòng năng lực*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Làn đường phân cách chức năng*).
+- Hạ lưu: [Chương Mười §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Nhân sự làn đường theo cấp độ và dự phòng năng lực*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Làn đường phân cách chức năng*).
 - Đọc với: [Gánh nặng có thể tránh được](../../core_05.040_band_continuity.md#avoidable-burden) và Chương Một [§3.3 Quy trình chống xuống cấp](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ Càng có nhiều tác hại có thể xảy ra và những người khác càng
 - Thượng nguồn:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [Chương mười ba §6.1 Các biện pháp khẩn cấp và gánh nặng tiếp tục](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
+  - [Chương mười ba §6.1 Các biện pháp khẩn cấp và gánh nặng tiếp tục](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
   - [tư thế tạm thời mặc định](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - Hạ nguồn: các quy trình đánh giá sự cố, ngăn chặn, giải phóng, tiếp tục và sau sự kiện trong văn bản triển khai được chỉ định.
-- Đọc với: [Tính kịp thời](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Bảo quản bằng chứng](../../core_05.050_band_oversight.md#evidence-preservation), Và [CI-14.205 §6 Danh mục chỗ ngồi - nguyên mẫu vai trò quy trình và ranh giới hoạt động](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- Đọc với: [Tính kịp thời](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Bảo quản bằng chứng](../../core_05.050_band_oversight.md#evidence-preservation), Và [CI-14.205 §6 Danh mục chỗ ngồi - nguyên mẫu vai trò quy trình và ranh giới hoạt động](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ Không có trường hợp nào sau đây tự nó là trường hợp khẩn c�
   - [Hồ sơ hành động ràng buộc vật chất](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [Hành động có thể phân bổ](../../core_05.035_band_accountability.md#attributable-action);
   - [Tính toàn vẹn của thuộc tính](../../core_05.035_band_accountability.md#attribution-integrity).
-- Hạ lưu: [CS-14.305 §10 hành động có thể quy cho có thể kiểm tra](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 quy tắc chỗ ngồi chung](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); mọi bản ghi quy trình được điều chỉnh bởi §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*dạng cơ bản có thể kiểm tra bằng máy; hỗ trợ quy trình, không phải định nghĩa thứ hai*).
+- Hạ lưu: [CS-14.305 §10 hành động có thể quy cho có thể kiểm tra](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 quy tắc chỗ ngồi chung](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); mọi bản ghi quy trình được điều chỉnh bởi §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*dạng cơ bản có thể kiểm tra bằng máy; hỗ trợ quy trình, không phải định nghĩa thứ hai*).
 - Đọc với: [§4 Định tuyến sai chỗ ngồi](#4-wrong-seat-routing) Và [Chương 4 §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5).
 
 </details>
@@ -564,9 +564,9 @@ Nhật ký cho thấy ai đã làm gì, nhưng bản thân chúng không chứng
 - Thượng nguồn: [§1](#1-purpose-scope-and-owner-boundary) bởi vì [§8](#8-act-records-and-attributable-handoffs).
 - Hạ lưu:
   - [Chương Chín](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Chương Mười](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Chương mười ba](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [Chương mười bốn](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
+  - [Chương Mười](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [Chương mười ba](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [Chương mười bốn](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
 - Đọc với: [Ngăn xếp quyền hạn và hệ thống phân cấp nội bộ](../../core_05.045_band_integrative.md#owner-non-relocation) và [Lời nói đầu đăng ký chủ sở hữu](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

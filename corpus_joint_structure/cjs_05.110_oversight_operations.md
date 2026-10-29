@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Oversight leg (CJS-5.110 §2–CJS-5.110 §6 / oDef.2–oDef.6)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Oversight leg (CJS-5.110 §2–CJS-5.110 §6 / oDef.2–oDef.6)**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
-  - [Chapter Eighteen](../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline and
+  - [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: [CJS-5.105 §1](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional compass and cluster map*) constitutional compass.
 
@@ -266,7 +266,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*).
 
 </details>
@@ -392,7 +392,7 @@ Operational transparency and structured logging requirements
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5)**
-- Read with: [CF-13.450](../corpus_forum/cf_13.450_forum_continuity.md#cf-13450-forum-continuity) (*Forum continuity*) through [CF-13.460](../corpus_forum/cf_13.460_emergency_adjudication.md#cf-13460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
+- Read with: [CF-14.450](../corpus_forum/cf_14.450_forum_continuity.md#cf-14450-forum-continuity) (*Forum continuity*) through [CF-14.460](../corpus_forum/cf_14.460_emergency_adjudication.md#cf-14460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_06.305_information_types_and_handling.md#53-transparency-levels-and-audit-access) / [§7](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems))
@@ -608,7 +608,7 @@ Access-level structure and baseline accessibility
 - Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -768,8 +768,8 @@ Structured review and incentive-integrity minimum
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*),
   - **CI-8.215 §3** (*Contest-integrity monitoring (Class A and Class B)*),
   - **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*),
-  - **CI-13.210** (*Cross-institution coordination and escalation*),
-  - **CF-13.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
+  - **CI-14.210** (*Cross-institution coordination and escalation*),
+  - **CF-14.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 
 </details>
 
@@ -921,9 +921,9 @@ Cross-institution coordination and escalation chain
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in cross-institution coordination and escalation chain.
 <a id="cross-institution-coordination-and-escalation-chain-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-13.435**](../corpus_forum/cf_13.435_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_13.000_forum.md` **Chapter Thirteen**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation
+  - **Primary measure:** conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-14.435**](../corpus_forum/cf_14.435_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_14.000_forum.md` **Chapter Fourteen**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation
 
-    **Primary assessment:** Evaluation must verify conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-13.435**](../corpus_forum/cf_13.435_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_13.000_forum.md` **Chapter Thirteen**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation.
+    **Primary assessment:** Evaluation must verify conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-14.435**](../corpus_forum/cf_14.435_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_14.000_forum.md` **Chapter Fourteen**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation.
 <a id="cross-institution-coordination-and-escalation-chain-c"></a>
 - **What must hold**
   - **Primary failure:** Leave shared jurisdiction without a usable escalation path, to resolve deadlock through the body whose independence is materially contested, to transfer matters without a reasoned record, or to let emergency incapacity, concentration, capture indicators, local enforcement involvement, security-service involvement, private-contractor involvement, or parallel-body involvement defeat independent backup routing.
@@ -1011,7 +1011,7 @@ Integrity-trigger routing chain
     **Primary assessment:** Evaluation must verify that intake, triage, evidence custody, independence review, recusal or anti-self-judging controls, cross-institution escalation, forum or specialist support, remediation, disclosure, and referral duties are assigned to the correct owner sections and remain auditable across transfers.
 <a id="integrity-trigger-routing-chain-c"></a>
 - **What must hold**
-  - **Primary failure:** Resolve an integrity trigger by local institutional narration alone when system, forum, assurance, or classification owners are materially implicated, or to use a CJS routing label as a substitute for Chapter Ten measurement, Chapter Twelve designation proceedings, CI sanctions, or CF forum procedure.
+  - **Primary failure:** Resolve an integrity trigger by local institutional narration alone when system, forum, assurance, or classification owners are materially implicated, or to use a CJS routing label as a substitute for Chapter Eleven measurement, Chapter Thirteen designation proceedings, CI sanctions, or CF forum procedure.
 
 <a id="property-custody-and-incentive-separation-control-chain"></a>
 Property-custody and incentive-separation control chain
@@ -1104,7 +1104,7 @@ Default **NU** bands (adopting documents may tighten but must not weaken without
 - **NU-3 (standard):** Material control weakness or integrity finding requiring resolution but not active ongoing exposure — notice inside the notice window and inclusion in the next required control declaration if not resolved.
 - **NU-4 (routine):** Baseline controls attestation and non-urgent assurance reporting only — published annual or other routine cadence.
 
-**NU windows.** **NU-1** takes the column of Tier A, **NU-2** Tier B, and **NU-3** Tier C in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). **NU-4** takes no tier: it is the routine attestation interval the institution publishes. The **notice window** of a band is its column's intake target, counted from discovery or, where the band requires a verified trigger, from verification. The **declaration window** of **NU-1** is its column's outer bound. Where the Emergency setting's conditions are met, **NU-1** notice uses the Emergency setting's intake target. Both windows are compliance lines. An institution's published windows may be shorter than these and never longer. A band borrows the column's figures and is not a tier classification. The figures are in [CF-13.445 §3.1](../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
+**NU windows.** **NU-1** takes the column of Tier A, **NU-2** Tier B, and **NU-3** Tier C in [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). **NU-4** takes no tier: it is the routine attestation interval the institution publishes. The **notice window** of a band is its column's intake target, counted from discovery or, where the band requires a verified trigger, from verification. The **declaration window** of **NU-1** is its column's outer bound. Where the Emergency setting's conditions are met, **NU-1** notice uses the Emergency setting's intake target. Both windows are compliance lines. An institution's published windows may be shorter than these and never longer. A band borrows the column's figures and is not a tier classification. The figures are in [CF-14.445 §3.1](../corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md#cf-14445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
 
 **NU** assignment must govern who is notified, in what order, and by when. **NU-1** and **NU-2** events must invoke **CI-8.215 §2** (*External assurance triggers*) external-assurance review when published triggers are met. **Type N** breaches default to at least **NU-2** and to **NU-1** while unlawful access, exposure, or reconstruction risk is ongoing.
 

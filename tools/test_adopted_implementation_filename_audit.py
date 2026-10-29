@@ -10,10 +10,10 @@ from adopted_implementation_filename_audit import audit_filenames, parse_adopted
 
 class ParseTests(unittest.TestCase):
     def test_undifferenced_home(self) -> None:
-        item = parse_adopted_implementation_filename("cjs_18.110_specific_joint_interlocks.md")
+        item = parse_adopted_implementation_filename("cjs_19.110_specific_joint_interlocks.md")
         assert item is not None
         self.assertEqual(item.layer, "cjs")
-        self.assertEqual(item.number, "18110")
+        self.assertEqual(item.number, "19110")
         self.assertEqual(item.part, "")
 
     def test_five_digit_chapter_number(self) -> None:
@@ -36,7 +36,7 @@ class AuditTests(unittest.TestCase):
     def test_same_chapter_parts_ok(self) -> None:
         findings = audit_filenames(
             [
-                "cjs_18.110_specific_joint_interlocks.md",
+                "cjs_19.110_specific_joint_interlocks.md",
                 "cjs_05.105_cross_implementation_operational_terms.md",
                 "cjs_05.110_oversight_operations.md",
                 "cs_06.305_information_types_and_handling.md",
@@ -57,8 +57,8 @@ class AuditTests(unittest.TestCase):
     def test_duplicate_number_collision(self) -> None:
         findings = audit_filenames(
             [
-                "cjs_18.110_specific_joint_interlocks.md",
-                "cjs_18.110_hybrid_delegated_authority.md",
+                "cjs_19.110_specific_joint_interlocks.md",
+                "cjs_19.110_hybrid_delegated_authority.md",
             ]
         )
         self.assertTrue(any("duplicate chapter number" in item for item in findings))

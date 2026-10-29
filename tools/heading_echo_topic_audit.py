@@ -8,8 +8,8 @@ to the heading's own fragment.
 
 Unnumbered heading-echo run-ins (``**Symmetric costly constraints:**``)
 remain MD-LIST-INTRO-01's colon rule and are out of scope here.
-Cross-chapter cites that happen to share a number (``Chapter Ten §4.3``
-under Chapter Eleven §4.3) are out of scope.
+Cross-chapter cites that happen to share a number (``Chapter Eleven §4.3``
+under Chapter Twelve §4.3) are out of scope.
 
 Rule ID: MD-HEADING-TOPIC-01
 """
@@ -42,7 +42,7 @@ MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 LEADING_CITE_RE = re.compile(
     r"^(?:(?P<preamble>Preamble)\s+|"
     r"(?:Chapter\s+(?P<chapter>One|Two|Three|Four|Five|Six|Seven|Eight|"
-    r"Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|\d+)\s+))?"
+    r"Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|\d+)\s+))?"
     r"§+\s*(?P<num>\d+(?:\.\d+)*)\b",
     re.I,
 )

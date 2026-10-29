@@ -11,8 +11,8 @@
 >
 > - **Pemilik konstitusional:** kapan sistem wajib menerbitkan Piagam Sistem dan kapan institusi wajib menerbitkan Piagam Institusi (wajib untuk Kelas L atau lebih tinggi, sukarela untuk Kelas P), isi minimum masing-masing, cara mengubah dan meninjaunya, serta pemeriksaan pembentukan atas status dan keaslian pemegang jabatan yang tercakup.
 > - **Rumah definisi:** [Piagam Sistem](../../../core_05.040_band_continuity.md#system-charter), [Piagam Institusi](../../../core_05.040_band_continuity.md#institutional-charter), [Peta Peran Piagam](../../../core_05.040_band_continuity.md#charter-role-map), [Pihak Berpiagam](../../../core_05.040_band_continuity.md#chartered-party), dan [Pihak Pengoperasi](../../../core_05.050_band_oversight.md#operating-party) didefinisikan di Bab Lima. Bab ini menerapkan istilah-istilah tersebut tanpa mendefinisikannya ulang.
-> - **Pemilik implementasi:** [CI-8.205 §6](../../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*Isi Piagam Sistem dan Piagam Institusi, tinjauan, dan templat pembentukan*) memuat templat bidang lengkap, daftar periksa tinjauan, prosedur pembentukan, dan templat pernyataan pemeriksaan pembentukan. Ketentuannya boleh lebih ketat dan menambah bidang, tetapi tidak boleh mempersempit bab ini. Teksnya mengikat sebagai teks implementasi terinkorporasi hanya dalam lingkup adopsi yang sah ([Bab Delapan Belas §4 Kerangka adopsi dan lingkup kewenangan](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); lantai di bab ini mengikat sebagai teks inti.
-> - **Pengguna lanjutan:** [Bab Delapan §5 Penempatan, Kekosongan Jabatan, dan Penggantian yang Dipublikasikan](../../../core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) mewajibkan Peta Peran Piagam. Bab Sembilan membaca Piagam Sistem untuk temuan lingkup dan batas, sedangkan Bagian D Bab Sembilan menguji pernyataan pemeriksaan pembentukan bagi Institusi. [Bab Sepuluh §3.7 Penitipan Catatan dan Kewenangan Pembukaan](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) menerapkannya pada catatan status. [Bab Tiga Belas §4.3 Forum Institusional](../../../core_13.000_forum.md#43-institutional-forums) mengadili perselisihan tentang Piagam Institusi.
+> - **Pemilik implementasi:** [CI-8.205 §6](../../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*Isi Piagam Sistem dan Piagam Institusi, tinjauan, dan templat pembentukan*) memuat templat bidang lengkap, daftar periksa tinjauan, prosedur pembentukan, dan templat pernyataan pemeriksaan pembentukan. Ketentuannya boleh lebih ketat dan menambah bidang, tetapi tidak boleh mempersempit bab ini. Teksnya mengikat sebagai teks implementasi terinkorporasi hanya dalam lingkup adopsi yang sah ([Bab Delapan Belas §4 Kerangka adopsi dan lingkup kewenangan](../../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); lantai di bab ini mengikat sebagai teks inti.
+> - **Pengguna lanjutan:** [Bab Delapan §5 Penempatan, Kekosongan Jabatan, dan Penggantian yang Dipublikasikan](../../../core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) mewajibkan Peta Peran Piagam. Bab Sembilan membaca Piagam Sistem untuk temuan lingkup dan batas, sedangkan Bagian D Bab Sembilan menguji pernyataan pemeriksaan pembentukan bagi Institusi. [Bab Sepuluh §3.7 Penitipan Catatan dan Kewenangan Pembukaan](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority) menerapkannya pada catatan status. [Bab Tiga Belas §4.3 Forum Institusional](../../../core_14.000_forum.md#43-institutional-forums) mengadili perselisihan tentang Piagam Institusi.
 >
 > Urutan baca: §1 kapan Piagam Sistem dan Piagam Institusi diwajibkan, beserta diagram proses → §2 hak untuk membentuk dan empat batas sempit → §3 hal yang wajib dinyatakan → §4 Peta Peran Piagam dan penitipan catatan status → §5 pemeriksaan pembentukan atas status dan keaslian pemegang jabatan → §6 ketika pemegang jabatan gagal dalam pemeriksaan pembentukan → §7 amendemen, tinjauan, dan ketidakselarasan lingkup.
 
@@ -37,9 +37,9 @@
 - Hilir:
   - [Bab Delapan](../../../core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) (8.000);
   - [Bab Sembilan](../../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Bab Sepuluh](../../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Bab Tiga Belas](../../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [Bab Empat Belas](../../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); teks implementasi yang ditetapkan di atas.
+  - [Bab Sepuluh](../../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [Bab Tiga Belas](../../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [Bab Empat Belas](../../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); teks implementasi yang ditetapkan di atas.
 - Baca bersama:
   - [Tumpukan Kewenangan dan Hierarki Internal](../../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [Batas Sistem](../../../core_05.040_band_continuity.md#system-boundaries);
@@ -165,7 +165,7 @@ Penerbitan berhenti menjadi opsional apabila salah satu hal berikut terjadi:
 
 Pihak Pengoperasi kemudian wajib menerbitkan Piagam Sistem atau Piagam Institusi yang sesuai menurut jadwal di [§1.5](#15-kapan-piagam-sistem-atau-piagam-institusi-harus-diterbitkan).
 
-**Pengakuan tidak bergantung pada dokumen lingkup.** Kelompok, dengan atau tanpa Piagam Sistem atau Piagam Institusi dan apa pun kelasnya, tidak menghalangi pengakuan terhadap anggotanya. Setiap anggota dapat meminta catatan kontribusi sebagai pengaju perorangan atas pekerjaan yang dilakukan di dalam ataupun di luar kelompok; catatan itu menyangkut kontribusi anggota, bukan status kelompok ([Bab Sepuluh §3.7 Catatan informal dan lingkup kecil](../../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records)). Pemberian bantuan, barang, tenaga, atau jasa yang tidak wajib diterima siapa pun bukan tindakan yang mengikat secara material. Karena itu, lingkaran saling bantu yang memberikan selimut kepada pengungsi tidak memerlukan piagam agar para anggotanya diakui.
+**Pengakuan tidak bergantung pada dokumen lingkup.** Kelompok, dengan atau tanpa Piagam Sistem atau Piagam Institusi dan apa pun kelasnya, tidak menghalangi pengakuan terhadap anggotanya. Setiap anggota dapat meminta catatan kontribusi sebagai pengaju perorangan atas pekerjaan yang dilakukan di dalam ataupun di luar kelompok; catatan itu menyangkut kontribusi anggota, bukan status kelompok ([Bab Sepuluh §3.7 Catatan informal dan lingkup kecil](../../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records)). Pemberian bantuan, barang, tenaga, atau jasa yang tidak wajib diterima siapa pun bukan tindakan yang mengikat secara material. Karena itu, lingkaran saling bantu yang memberikan selimut kepada pengungsi tidak memerlukan piagam agar para anggotanya diakui.
 
 <a id="15-when-a-system-charter-or-institutional-charter-is-due"></a>
 #### 1.5 Kapan Piagam Sistem atau Piagam Institusi harus diterbitkan
@@ -278,9 +278,9 @@ flowchart TB
 - Hilir: [§1](#1-kapan-piagam-sistem-dan-piagam-institusi-diwajibkan); [§5 Pemeriksaan Pembentukan: Status dan Keaslian Pemegang Jabatan](#5-pemeriksaan-pembentukan-status-dan-keaslian-pemegang-jabatan).
 - Baca bersama:
   - [Penahanan Sementara](../../../core_05.035_band_accountability.md#interim-hold);
-  - [Bab Sebelas §4.2 Pencegahan — kunci status umum](../../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2);
-  - [Bab Sebelas §5.5 Kunci khusus](../../../core_11.000_standing_integration.md#55-special-locks) (11.000 §5.5);
-  - [Bab Tiga Belas §5 Penahanan sementara pada jalur makhluk sadar tertentu](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
+  - [Bab Sebelas §4.2 Pencegahan — kunci status umum](../../../core_12.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2);
+  - [Bab Sebelas §5.5 Kunci khusus](../../../core_12.000_standing_integration.md#55-special-locks) (11.000 §5.5);
+  - [Bab Tiga Belas §5 Penahanan sementara pada jalur makhluk sadar tertentu](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
 
 </details>
 
@@ -311,7 +311,7 @@ Forum memutus perkara tersebut berdasarkan Pasal itu. Konsekuensi yang diperbole
 <a id="22-first-limit-an-outstanding-lock-on-a-sentient"></a>
 #### 2.2 Batas pertama: kunci yang masih berlaku atas makhluk sadar
 
-[Kunci status](../../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) atau [kunci khusus](../../../core_11.000_standing_integration.md#55-special-locks) yang ditetapkan setelah pelanggaran terverifikasi dan belum dicabut melarang satu makhluk sadar yang disebutkan memegang kewenangan atas Institusi atau usaha sejenis ini.
+[Kunci status](../../../core_12.000_standing_integration.md#42-prevention--general-standing-locks) atau [kunci khusus](../../../core_12.000_standing_integration.md#55-special-locks) yang ditetapkan setelah pelanggaran terverifikasi dan belum dicabut melarang satu makhluk sadar yang disebutkan memegang kewenangan atas Institusi atau usaha sejenis ini.
 
 - **Yang dilarang:** memperoleh atau menjalankan kewenangan untuk mengatur, mengendalikan, atau memiliki Pihak Pengoperasi.
 - **Cakupannya:** hanya sejauh yang ditetapkan kunci. Larangan berakhir ketika kunci dicabut atau dipersempit.
@@ -320,15 +320,15 @@ Forum memutus perkara tersebut berdasarkan Pasal itu. Konsekuensi yang diperbole
 <a id="23-second-limit-a-short-hold-on-specific-verified-facts"></a>
 #### 2.3 Batas kedua: penahanan singkat atas fakta tertentu yang terverifikasi
 
-Batas ini berlaku ketika forum berwenang memerintahkan [Penahanan Sementara](../../../core_05.035_band_accountability.md#interim-hold) berdasarkan fakta terverifikasi tertentu yang membuat kemungkinan pemegang jabatan tidak selaras dengan tujuan Pihak Berpiagam lebih besar daripada kemungkinan sebaliknya. Hanya forum tersebut yang boleh memerintahkannya ([Bab Tiga Belas §5](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)). Pihak Berpiagam tidak boleh memutuskan sendiri untuk melarang seseorang dari jabatan karena itu akan menjadikannya hakim atas anggotanya sendiri. Dasar lengkapnya tercantum dalam [Bab Tiga Belas §5 Penahanan sementara pada jalur makhluk sadar tertentu](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway); ringkasan ini tidak menggantikannya.
+Batas ini berlaku ketika forum berwenang memerintahkan [Penahanan Sementara](../../../core_05.035_band_accountability.md#interim-hold) berdasarkan fakta terverifikasi tertentu yang membuat kemungkinan pemegang jabatan tidak selaras dengan tujuan Pihak Berpiagam lebih besar daripada kemungkinan sebaliknya. Hanya forum tersebut yang boleh memerintahkannya ([Bab Tiga Belas §5](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway)). Pihak Berpiagam tidak boleh memutuskan sendiri untuk melarang seseorang dari jabatan karena itu akan menjadikannya hakim atas anggotanya sendiri. Dasar lengkapnya tercantum dalam [Bab Tiga Belas §5 Penahanan sementara pada jalur makhluk sadar tertentu](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway); ringkasan ini tidak menggantikannya.
 
 <a id="24-third-limit-a-lock-on-the-operating-party-itself"></a>
 #### 2.4 Batas ketiga: kunci atas Pihak Pengoperasi itu sendiri
 
 Kunci dapat dikenakan pada Pihak Pengoperasi, bukan hanya pada makhluk sadar. Gerbang itu melarang hal-hal yang disebutkan pada jalur kunci tersebut, baik pada Pihak Pengoperasi maupun penerus, entitas yang dikendalikan, dan wahana yang menggunakan nominee atau kedok. Larangan itu tidak berlaku bagi Pihak Pengoperasi lainnya.
 
-- **Kunci berdasarkan penetapan final:** [Kunci Kepercayaan Anti-Konstitusional](../../../core_11.000_standing_integration.md#55-special-locks) berlaku demikian jika penetapan final menyebut Institusi, wahana penerus, atau entitas yang dikendalikan. Gerbang itu melarang hal-hal yang disebutkan jalur kunci pada Pihak Berpiagam, penerus, entitas terkendali, dan wahana nominee atau kedoknya.
-- **Pihak Berpiagam yang dibubarkan:** perintah pembubaran final berdasarkan **CI-11.210 §4** (*Pembubaran*) menetapkan [Kunci Pembentukan Kembali setelah Pembubaran](../../../core_11.000_standing_integration.md#55-special-locks). Selama kunci berlaku, Pihak Berpiagam yang dibubarkan, penerus, entitas terkendali, wahana nominee atau kedoknya, serta Pihak Pengoperasi mana pun yang merupakan satu operasi dengan mereka tidak boleh dibentuk kembali, dihidupkan kembali, atau dijalankan dengan nama atau bentuk apa pun. Jika perintah menemukan perilaku anti-konstitusional yang meluas atau Kerugian yang Tidak Dapat Dipulihkan dan belum diperbaiki ([Bab Sebelas §8 Pemulihan dan penilaian ulang](../../../core_11.000_standing_integration.md#8-restoration-and-reassessment)), kunci itu permanen: berjalannya waktu, penyelesaian penyebab, atau pergantian pemegang jabatan tidak mencabutnya. Kunci hanya berakhir jika perintah pembubaran dibatalkan dalam peninjauan atau fakta baru material yang terverifikasi membuktikan temuan itu keliru. Dalam keadaan lain, kunci berakhir setelah penetapan independen bahwa penyebab telah diselesaikan, pemulihan telah diberikan, dan pengembalian lebih aman daripada pengucilan berkelanjutan. Kunci tidak melarang makhluk sadar membentuk Pihak Pengoperasi yang berbeda.
+- **Kunci berdasarkan penetapan final:** [Kunci Kepercayaan Anti-Konstitusional](../../../core_12.000_standing_integration.md#55-special-locks) berlaku demikian jika penetapan final menyebut Institusi, wahana penerus, atau entitas yang dikendalikan. Gerbang itu melarang hal-hal yang disebutkan jalur kunci pada Pihak Berpiagam, penerus, entitas terkendali, dan wahana nominee atau kedoknya.
+- **Pihak Berpiagam yang dibubarkan:** perintah pembubaran final berdasarkan **CI-11.210 §4** (*Pembubaran*) menetapkan [Kunci Pembentukan Kembali setelah Pembubaran](../../../core_12.000_standing_integration.md#55-special-locks). Selama kunci berlaku, Pihak Berpiagam yang dibubarkan, penerus, entitas terkendali, wahana nominee atau kedoknya, serta Pihak Pengoperasi mana pun yang merupakan satu operasi dengan mereka tidak boleh dibentuk kembali, dihidupkan kembali, atau dijalankan dengan nama atau bentuk apa pun. Jika perintah menemukan perilaku anti-konstitusional yang meluas atau Kerugian yang Tidak Dapat Dipulihkan dan belum diperbaiki ([Bab Sebelas §8 Pemulihan dan penilaian ulang](../../../core_12.000_standing_integration.md#8-restoration-and-reassessment)), kunci itu permanen: berjalannya waktu, penyelesaian penyebab, atau pergantian pemegang jabatan tidak mencabutnya. Kunci hanya berakhir jika perintah pembubaran dibatalkan dalam peninjauan atau fakta baru material yang terverifikasi membuktikan temuan itu keliru. Dalam keadaan lain, kunci berakhir setelah penetapan independen bahwa penyebab telah diselesaikan, pemulihan telah diberikan, dan pengembalian lebih aman daripada pengucilan berkelanjutan. Kunci tidak melarang makhluk sadar membentuk Pihak Pengoperasi yang berbeda.
 
 Tidak satu pun dari tiga gerbang itu menghentikan Pihak Pengoperasi baru untuk dibentuk, menerbitkan Piagam Sistem atau Piagam Institusi, atau mulai bekerja. Yang dihentikan hanyalah pihak yang terkena kunci, seperti Pihak Berpiagam yang dibubarkan dan berusaha kembali. Ketiga gerbang diterapkan dalam pemeriksaan pembentukan ([§5](#5-pemeriksaan-pembentukan-status-dan-keaslian-pemegang-jabatan)).
 
@@ -368,8 +368,8 @@ Batas keempat berlaku pada tindakan yang disebutkan, bukan pada pembentukan Piha
   - [Bab Sembilan Bagian B §8.1 Isi minimum catatan](../../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*butir Piagam Sistem yang menjadi dasar catatan sertifikasi*);
   - **CI-8.205 §6** (*Isi Piagam Sistem dan Piagam Institusi, tinjauan, dan templat pembentukan*) untuk daftar bidang lengkap.
 - Baca bersama:
-  - [Bab Delapan Belas §4 Kerangka adopsi dan lingkup kewenangan](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*dokumen lingkup dengan nama lain*);
-  - [Bab Empat Belas §4.3 Persyaratan penyelesaian keputusan untuk pilihan pemangku kepentingan yang mengikat](../../../core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (14.000 §4.3);
+  - [Bab Delapan Belas §4 Kerangka adopsi dan lingkup kewenangan](../../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*dokumen lingkup dengan nama lain*);
+  - [Bab Empat Belas §4.3 Persyaratan penyelesaian keputusan untuk pilihan pemangku kepentingan yang mengikat](../../../core_15.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (14.000 §4.3);
   - **CI-6.205 §1** (*Integritas jalur pengawasan pemangku kepentingan, pemberitahuan, dan tata kelola yang mengikat*);
   - **CI-6.205 §2** (*Perlindungan anti-pemusatan dan legitimasi partisipasi*).
 
@@ -396,7 +396,7 @@ Piagam Sistem menyatakan hal-hal berikut dalam bahasa lugas yang dapat dibaca ma
 1. **Identitas dan versi:** nama, pengelola atau badan pengatur, versi, tanggal berlaku, dan riwayat perubahan.
 2. **Tujuan:** hal yang hendak dilakukan Pihak Berpiagam.
 3. **Kegiatan dalam lingkup:** fungsi, layanan, kewenangan, dan ranah yang diklaim.
-   - **Klaim, bukan pemberian:** dokumen menyatakan kewenangan yang telah dimiliki Pihak Berpiagam dan tidak memberinya kewenangan baru. Legitimasi kewenangan itu, termasuk jika bersumber pada Piagam Konstitusional, diputus menurut [Bab Empat Belas §1 Otorisasi dan legitimasi kewenangan pengatur](../../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority).
+   - **Klaim, bukan pemberian:** dokumen menyatakan kewenangan yang telah dimiliki Pihak Berpiagam dan tidak memberinya kewenangan baru. Legitimasi kewenangan itu, termasuk jika bersumber pada Piagam Konstitusional, diputus menurut [Bab Empat Belas §1 Otorisasi dan legitimasi kewenangan pengatur](../../../core_15.000_governance.md#1-authorization-and-legitimacy-of-governing-authority).
 4. **Batas di luar lingkup:** kegiatan, kewenangan, dan ranah material yang tidak diizinkan untuk dijalankan.
 5. **Komunitas terdampak dan ketergantungan:** pihak yang mengandalkan Pihak Berpiagam serta sistem atau infrastruktur yang menjadi ketergantungan atau gerbang baginya, jika material.
    - **Bukan cara untuk mengecualikan:** tidak mencantumkan suatu kelompok tidak mengeluarkannya dari lingkup. Makhluk sadar yang terdampak secara material tetap mendapatkan seluruh perlindungan Ambang Hak meski tidak disebutkan; daftar yang lebih sempit daripada ketergantungan nyata ditafsirkan sesuai ketergantungan nyata.
@@ -465,7 +465,7 @@ Sebagian isi Piagam Sistem atau Piagam Institusi disesuaikan dengan kelas, sebag
 - Hilir:
   - [Bab Delapan §5 Penempatan Terbitan, Kekosongan, dan Penggantian](../../../core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [Bab Sembilan Bagian B §6.1.1 Empat kursi dalam sertifikasi](../../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.005 §6.1.1);
-  - [Bab Sepuluh §3.7 Penitipan catatan dan kewenangan pembukaan](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
+  - [Bab Sepuluh §3.7 Penitipan catatan dan kewenangan pembukaan](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
   - **CI-8.205 §2** (*Jalur pemisahan fungsional*);
   - **CI-14.205 §5** (*Peran yang diotorisasi dan rantai pertanggungjawaban*);
   - **CI-14.205 §6** (*Katalog kursi — pola peran proses dan batas operasional*).
@@ -535,7 +535,7 @@ Peta dapat diubah dengan dua cara, masing-masing melalui jalurnya sendiri:
 - **Pihak yang boleh memegang kursi:** menentukan kantor mana yang boleh memegang kursi, menjadi pengganti, atau berbagi penempatan merupakan perubahan aturan peta. Perubahan ini hanya boleh dilakukan melalui proses amendemen yang ditetapkan dalam Piagam Sistem atau Piagam Institusi ([§7](#7-amendemen-tinjauan-dan-ketidakselarasan-lingkup)).
 - **Pemegang kursi saat ini:** mengganti pemegang saat ini merupakan pembaruan, bukan amendemen. Perubahan dilakukan dengan menerbitkan versi peta baru yang bertanggal.
   - **Pemberitahuan dan kesempatan mengajukan keberatan:** untuk kursi pencatatan, kursi keberatan, dan setiap kursi verifikasi atau otorisasi yang ditempatkan dalam peta, versi baru baru berlaku setelah pemberitahuan dan kesempatan mengajukan keberatan. Pemberitahuan segera diberikan kepada subjek, setiap pengaju, dan setiap penantang pada semua catatan terbuka yang disentuh kursi itu.
-  - **Tujuan keberatan:** keberatan dibawa ke forum menurut [Bab Sepuluh §3.6 Batas forum](../../../core_10.000_standing_assessment.md#36-forum-boundary), bukan hanya melalui jalur amendemen yang ditetapkan piagam. Selama keberatan menunggu putusan, perubahan ditangguhkan dan pemegang saat ini tetap menduduki kursi.
+  - **Tujuan keberatan:** keberatan dibawa ke forum menurut [Bab Sepuluh §3.6 Batas forum](../../../core_11.000_standing_assessment.md#36-forum-boundary), bukan hanya melalui jalur amendemen yang ditetapkan piagam. Selama keberatan menunggu putusan, perubahan ditangguhkan dan pemegang saat ini tetap menduduki kursi.
   - **Hal yang harus dibuktikan pemegang baru:** Pihak Berpiagam wajib menunjukkan bahwa pemegang baru memenuhi setiap uji dalam bidang 10 **CI-8.205 §6** (*Isi Piagam Sistem dan Piagam Institusi, tinjauan, dan templat pembentukan*). Tujuan uji tersebut adalah memastikan bahwa pemegang kursi tidak dapat ditekan atau memihak subjek, pengaju, maupun penantang, serta menjaga catatan tetap aman dan terbuka untuk ditantang. Karena itu, pemegang baru harus berada di luar [Garis Kendali Material](../../../core_05.035_band_accountability.md#material-control-line) para pihak tersebut; tidak boleh memegang dua kursi untuk catatan yang sama atau menjadi tuan rumah dalam susunan timbal balik atau melingkar; wajib menjaga catatan dan jejak auditnya tetap utuh; meneruskan tantangan pada hari diterima; tidak memungut biaya; serta mengungkapkan pihak yang mendanai dan mengaturnya.
   - **Kursi kosong:** kursi yang benar-benar kosong ditangani menurut [§4.7 Kekosongan dalam peta catatan status operator](#47-kekosongan-dalam-peta-catatan-status-operator), bukan butir ini.
 
@@ -544,7 +544,7 @@ Peta dapat diubah dengan dua cara, masing-masing melalui jalurnya sendiri:
 <a id="46-standing-record-custody"></a>
 #### 4.6 Penitipan catatan status
 
-Isi peta yang diwajibkan bergantung pada jenis [Catatan Status](../../../core_05.035_band_accountability.md#standing-record), karena kedua jenisnya menghadapi konflik kepentingan yang berbeda ([Bab Sepuluh §3.7 Penitipan catatan dan kewenangan pembukaan](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority), *Dua jenis catatan status berdasarkan subjek*). Bab Sepuluh menerapkan lantai empat kursi pada catatan itu sendiri.
+Isi peta yang diwajibkan bergantung pada jenis [Catatan Status](../../../core_05.035_band_accountability.md#standing-record), karena kedua jenisnya menghadapi konflik kepentingan yang berbeda ([Bab Sepuluh §3.7 Penitipan catatan dan kewenangan pembukaan](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority), *Dua jenis catatan status berdasarkan subjek*). Bab Sepuluh menerapkan lantai empat kursi pada catatan itu sendiri.
 
 <a id="461-operator-standing-records"></a>
 ##### 4.6.1 Catatan status operator
@@ -569,7 +569,7 @@ Catatan status pemangku kepentingan menyangkut makhluk sadar dan Institusi yang 
 
 - **Kepentingan Pihak Berpiagam:** Pihak Berpiagam mungkin menjadi pengaju klaim atau tuduhan dalam catatan tersebut.
 - **Kantornya sendiri:** kantor Pihak Berpiagam hanya boleh memegang kursi dalam catatan jika Pihak Berpiagam tidak berkepentingan di dalamnya. Jika berkepentingan, catatan dialihkan ke kantor di luar kendalinya atau ke proses verifikasi independen.
-- **Tidak ada kantor yang disebutkan dan Pihak Berpiagam berkepentingan:** catatan dialihkan kepada Otoritas Cadangan Catatan (**CF-13.415 §7**) dan Penitip Cadangan Catatan (**CF-13.415 §9**), atau ke forum, sesuai [Bab Sepuluh §3.7 Penitipan catatan dan kewenangan pembukaan](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (*Larangan penitipan sendiri*).
+- **Tidak ada kantor yang disebutkan dan Pihak Berpiagam berkepentingan:** catatan dialihkan kepada Otoritas Cadangan Catatan (**CF-13.415 §7**) dan Penitip Cadangan Catatan (**CF-13.415 §9**), atau ke forum, sesuai [Bab Sepuluh §3.7 Penitipan catatan dan kewenangan pembukaan](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority) (*Larangan penitipan sendiri*).
 - **Penamaan kantor bersifat opsional:** peta boleh menyebutkan sebelumnya kantor untuk catatan ini, tetapi tidak diwajibkan. Peta yang tidak menyebutkan satu pun tetap sah.
 
 <a id="47-gaps-in-the-map-for-operator-standing-records"></a>
@@ -591,7 +591,7 @@ Peta yang memiliki kekosongan membuat Piagam Sistem atau Piagam Institusi tidak 
 
 Sampai kekosongan diatasi, kantor Pihak Berpiagam sendiri tidak dapat menerbitkan Catatan Status yang sah untuk lingkup terdampak.
 
-- **Tujuan pengalihan catatan:** catatan dialihkan kepada Otoritas Cadangan Catatan (**CF-13.415 §7**) untuk diverifikasi dan Penitip Cadangan Catatan (**CF-13.415 §9**) untuk disimpan, atau dialihkan kepada forum, agar catatan siapa pun tidak tertunda karena perbaikan oleh Pihak Berpiagam ([Bab Sepuluh §3.7 Penitipan catatan dan kewenangan pembukaan](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority), *Larangan penitipan sendiri*).
+- **Tujuan pengalihan catatan:** catatan dialihkan kepada Otoritas Cadangan Catatan (**CF-13.415 §7**) untuk diverifikasi dan Penitip Cadangan Catatan (**CF-13.415 §9**) untuk disimpan, atau dialihkan kepada forum, agar catatan siapa pun tidak tertunda karena perbaikan oleh Pihak Berpiagam ([Bab Sepuluh §3.7 Penitipan catatan dan kewenangan pembukaan](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority), *Larangan penitipan sendiri*).
 - **Kapan penitipan dikembalikan:** Otoritas Cadangan Catatan dan Penitip Cadangan Catatan terus menangani catatan sampai ketiga hal berikut terpenuhi. Setelah itu, penitipan kembali kepada pemegang yang disebutkan dalam peta.
   - **Semua kursi terisi:** setiap kursi yang diwajibkan peta kembali memiliki pemegang bernama.
   - **Pemegang lulus uji:** Otoritas Cadangan Catatan atau forum mengonfirmasi setiap pemegang memenuhi uji pada bidang 10 **CI-8.205 §6** (*Isi Piagam Sistem dan Piagam Institusi, tinjauan, dan templat pembentukan*).
@@ -607,7 +607,7 @@ Jika suatu hal yang tidak dapat diperkirakan sebelumnya menyebabkan salah satu k
 - **Kapan penggantian berakhir:** pengganti darurat hanya penanggulangan sementara. Penggantian berakhir ketika tenggat pemeriksaannya habis, kecuali sebelum itu pengangkatan telah menjadi perubahan pemegang biasa sesuai [§4.5](#45-mengubah-aturan-kursi-dan-pemegangnya).
   - **Pihak yang menentukan tenggat:** Piagam Sistem atau Piagam Institusi menentukan lamanya, tetapi tidak boleh melebihi batas maksimum Tier.
   - **Batas maksimum:** 7 hari untuk Tier A, 14 hari untuk Tier B, 30 hari untuk Tier C, dan 60 hari untuk Tier L (tenggat penyelesaian dalam tabel [§1.6](#16-jika-piagam-sistem-atau-piagam-institusi-tidak-ada)).
-  - **Keadaan darurat Tier A:** jika nyawa atau hak serius terancam, tenggat pemeriksaan bawaan adalah 3 hari, yaitu batas langkah perlindungan dalam [Bab Tiga Belas §6 Penyelesaian tepat waktu, tier materialitas, dan disiplin anti-penundaan](../../../core_13.000_forum.md#time-scale-levels) (*Tingkat skala waktu*).
+  - **Keadaan darurat Tier A:** jika nyawa atau hak serius terancam, tenggat pemeriksaan bawaan adalah 3 hari, yaitu batas langkah perlindungan dalam [Bab Tiga Belas §6 Penyelesaian tepat waktu, tier materialitas, dan disiplin anti-penundaan](../../../core_14.000_forum.md#time-scale-levels) (*Tingkat skala waktu*).
   - **Sebelum pemeriksaan pembentukan selesai:** pengganti tidak boleh mengambil tindakan mengikat sendirian.
 
 <a id="474-certification-seats"></a>
@@ -654,9 +654,9 @@ Tenggat yang sama berlaku bagi kursi sertifikasi. Jika peta tidak menyebutkan pi
   - [Dua Pertanyaan Mendasar](../../../core_00.000_preamble.md#two-fundamental-questions);
   - [Bab Satu §19.1.4 Jalur Kedalaman Peran dan Tanggung Jawab Material](../../../core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4);
   - [Bab Satu §19.4 Koreksi Ketidakselarasan dan Tanggapan terhadap Penguasaan](../../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4);
-  - [Bab Sebelas §4.2 Pencegahan — kunci status umum](../../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2);
-  - [Bab Sebelas §5.5 Kunci khusus](../../../core_11.000_standing_integration.md#55-special-locks); dan
-  - [Bab Sebelas §6.2 Ambang dan izin kompetensi](../../../core_11.000_standing_integration.md#62-competency-bars-and-clearances).
+  - [Bab Sebelas §4.2 Pencegahan — kunci status umum](../../../core_12.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2);
+  - [Bab Sebelas §5.5 Kunci khusus](../../../core_12.000_standing_integration.md#55-special-locks); dan
+  - [Bab Sebelas §6.2 Ambang dan izin kompetensi](../../../core_12.000_standing_integration.md#62-competency-bars-and-clearances).
 - Hilir:
   - [§6 Jika pemegang gagal dalam pemeriksaan pembentukan](#6-jika-pemegang-jabatan-gagal-dalam-pemeriksaan-pembentukan);
   - [Bab Sembilan Bagian D §12.2 Penilaian Institusi, selalu](../../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.015 §12.2) (butir 7, *forum menguji pernyataan tersebut*);
@@ -695,9 +695,9 @@ Pemeriksaan pembentukan menetapkan jabatan yang dicakup, pihak yang tidak dicaku
 
 Sebelum makhluk sadar menduduki jabatan tercakup, Pihak Berpiagam memeriksa dan mencatat bahwa:
 
-- tidak ada [kunci status](../../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) atau [kunci khusus](../../../core_11.000_standing_integration.md#55-special-locks), termasuk [Kunci Status Kewenangan Institusional](../../../core_11.000_standing_integration.md#55-special-locks), yang sedang berlaku dan menghalangi jalur yang disebutkan untuk jabatan tersebut (gerbang kunci yang masih berlaku dalam **Pasal XI-E** (*Pembentukan Institusi dan Pendirian Usaha*));
+- tidak ada [kunci status](../../../core_12.000_standing_integration.md#42-prevention--general-standing-locks) atau [kunci khusus](../../../core_12.000_standing_integration.md#55-special-locks), termasuk [Kunci Status Kewenangan Institusional](../../../core_12.000_standing_integration.md#55-special-locks), yang sedang berlaku dan menghalangi jalur yang disebutkan untuk jabatan tersebut (gerbang kunci yang masih berlaku dalam **Pasal XI-E** (*Pembentukan Institusi dan Pendirian Usaha*));
 - tidak ada [Penahanan Sementara](../../../core_05.035_band_accountability.md#interim-hold) (**Pasal XI-E**) yang sedang berlaku atas makhluk sadar itu untuk jabatan tersebut;
-- ambang [kompetensi](../../../core_11.000_standing_integration.md#62-competency-bars-and-clearances) yang diterbitkan untuk jalur itu terpenuhi, termasuk izin kompetensi jika jalur tersebut mewajibkannya; dan
+- ambang [kompetensi](../../../core_12.000_standing_integration.md#62-competency-bars-and-clearances) yang diterbitkan untuk jalur itu terpenuhi, termasuk izin kompetensi jika jalur tersebut mewajibkannya; dan
 - setiap konflik diungkapkan menurut **CI-8.210** (*Integritas konflik, anti-penguasaan, dan anti-korupsi*) dan diselesaikan oleh kursi yang independen dari pemegangnya, serta masa jeda menurut **CI-14.205 §2** (*Kriteria peran, standar pengangkatan, dan jalur pemberhentian*) dipatuhi.
 
 Hanya Catatan Status terverifikasi yang diperhitungkan, dan hanya melalui gerbang [Masukan Terverifikasi untuk Status](../../../core_05.035_band_accountability.md#verified-inputs-for-standing). Tuduhan yang belum diverifikasi, rumor, reputasi, prestise sosial, atau identitas, latar belakang, kesehatan, maupun disabilitas pemegang jabatan sebagai hal itu sendiri bukan status dan tidak dipertimbangkan. Bagian ini tidak menciptakan kunci, penahanan, ambang, atau Catatan Status.
@@ -778,7 +778,7 @@ Pemegang jabatan boleh diidentifikasi berdasarkan jabatan dan versi Peta Peran b
   - Status yang belum diverifikasi selama masa tersebut tidak pernah menghalangi pembentukan atau pengoperasian.
 - **Pernyataan palsu:**
   - Pernyataan palsu atau yang menyembunyikan pengendali jabatan tercakup merupakan penyembunyian dan bukti curang untuk catatan sertifikasi serta jembatan status ([Bab Sembilan Bagian D §15 Jembatan Status dan Larangan Pengelakan](../../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Bab Sembilan Bagian B §10 Hubungan dengan Status](../../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)).
-  - Jika makhluk sadar dengan sengaja membuat, menandatangani, atau menyebabkan pernyataan itu dibuat dan kepalsuannya bersifat material serta terverifikasi, hal itu juga menjadi dasar Kunci Status Kewenangan Institusional atas makhluk sadar tersebut ([Bab Sebelas §5.5 Kunci khusus](../../../core_11.000_standing_integration.md#55-special-locks)), baik kendali disembunyikan maupun tidak. Kunci melekat pada makhluk sadar yang membuat atau menyebabkan pernyataan itu, bukan pada Pihak Berpiagam ataupun pemegang jabatan yang tidak terlibat.
+  - Jika makhluk sadar dengan sengaja membuat, menandatangani, atau menyebabkan pernyataan itu dibuat dan kepalsuannya bersifat material serta terverifikasi, hal itu juga menjadi dasar Kunci Status Kewenangan Institusional atas makhluk sadar tersebut ([Bab Sebelas §5.5 Kunci khusus](../../../core_12.000_standing_integration.md#55-special-locks)), baik kendali disembunyikan maupun tidak. Kunci melekat pada makhluk sadar yang membuat atau menyebabkan pernyataan itu, bukan pada Pihak Berpiagam ataupun pemegang jabatan yang tidak terlibat.
   - Pernyataan yang keliru tanpa sepengetahuan makhluk sadar bukan dasar tersebut. Itu merupakan cacat yang harus diperbaiki menurut [§6 Jika pemegang gagal dalam pemeriksaan pembentukan](#6-jika-pemegang-jabatan-gagal-dalam-pemeriksaan-pembentukan).
 
 <a id="58-timing-and-formation-re-check"></a>
@@ -833,7 +833,7 @@ Pemeriksaan pembentukan dibatasi secara proporsional dengan hal yang dilindungin
   - [§2](#2-hak-untuk-membentuk-dan-empat-batas-sempit);
   - [§1.6](#16-jika-piagam-sistem-atau-piagam-institusi-tidak-ada);
   - [Pasal XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Pembentukan Institusi dan Pendirian Usaha*); dan
-  - [Bab Tiga Belas §5 Penahanan sementara pada jalur makhluk sadar tertentu](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
+  - [Bab Tiga Belas §5 Penahanan sementara pada jalur makhluk sadar tertentu](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
 - Hilir:
   - [Bab Sembilan Bagian D §13.5 Kesiapan pemulihan, penolakan, dan pencabutan bagi Institusi](../../../core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution);
   - [Bab Delapan §3 Kemandirian, Konflik, dan Garis Kendali](../../../core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines);
@@ -876,9 +876,9 @@ Jika makhluk sadar gagal dalam pemeriksaan status:
 Pemeriksaan pembentukan dapat menemukan fakta yang mendukung Penahanan Sementara. Penanganannya sebagai berikut:
 
 - **Rujukan:** jika fakta spesifik dan terverifikasi serta menunjukkan kemungkinan lebih besar bahwa pemegang jabatan tidak selaras dengan tujuan Pihak Berpiagam, Pihak Berpiagam merujuknya kepada forum berwenang.
-- **Pihak yang boleh memerintahkan penahanan:** hanya forum itu yang boleh memerintahkan [Penahanan Sementara](../../../core_05.035_band_accountability.md#interim-hold) berdasarkan [Bab Tiga Belas §5](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway). Forum dapat memerintahkannya kepada pemegang jabatan tercakup kapan saja, bukan hanya pada saat pembentukan.
+- **Pihak yang boleh memerintahkan penahanan:** hanya forum itu yang boleh memerintahkan [Penahanan Sementara](../../../core_05.035_band_accountability.md#interim-hold) berdasarkan [Bab Tiga Belas §5](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway). Forum dapat memerintahkannya kepada pemegang jabatan tercakup kapan saja, bukan hanya pada saat pembentukan.
 - **Bukan keputusan Pihak Berpiagam:** Pihak Berpiagam tidak boleh melarang seseorang menjabat atas keputusannya sendiri karena tindakan itu akan menjadikannya hakim atas anggotanya.
-- **Syarat forum:** forum hanya boleh memerintahkan penahanan jika fakta spesifik dan terverifikasi, risikonya lebih mungkin nyata daripada tidak, fakta menunjukkan risiko kerugian serius terhadap pihak lain atau penggagalan pengawasan badan, forum, atau sertifikasi yang tidak dapat menunggu, dan perlindungan yang lebih sempit tidak memadai. Uji lengkap tercantum dalam [Bab Tiga Belas §5 Penahanan sementara pada jalur makhluk sadar tertentu](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway).
+- **Syarat forum:** forum hanya boleh memerintahkan penahanan jika fakta spesifik dan terverifikasi, risikonya lebih mungkin nyata daripada tidak, fakta menunjukkan risiko kerugian serius terhadap pihak lain atau penggagalan pengawasan badan, forum, atau sertifikasi yang tidak dapat menunggu, dan perlindungan yang lebih sempit tidak memadai. Uji lengkap tercantum dalam [Bab Tiga Belas §5 Penahanan sementara pada jalur makhluk sadar tertentu](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway).
 
 <a id="64-when-the-authenticity-check-fails"></a>
 #### 6.4 Jika pemeriksaan keaslian gagal
@@ -898,17 +898,17 @@ Jika jabatan tercakup gagal dalam pemeriksaan keaslian:
 
 Jika Pihak Berpiagam yang dibubarkan kembali, penanganannya sebagai berikut:
 
-- **Kapan kunci berlaku:** Kunci Pembentukan Kembali setelah Pembubaran menurut [Bab Sebelas §5.5 Kunci khusus](../../../core_11.000_standing_integration.md#55-special-locks) berlaku pada Pihak Berpiagam yang menurut pemeriksaan pembentukan, otoritas verifikasi, atau forum merupakan salah satu dari berikut:
+- **Kapan kunci berlaku:** Kunci Pembentukan Kembali setelah Pembubaran menurut [Bab Sebelas §5.5 Kunci khusus](../../../core_12.000_standing_integration.md#55-special-locks) berlaku pada Pihak Berpiagam yang menurut pemeriksaan pembentukan, otoritas verifikasi, atau forum merupakan salah satu dari berikut:
   - Pihak Berpiagam yang dibubarkan dan dibentuk kembali;
   - penerusnya;
   - entitas yang dikendalikannya;
   - wahana yang menggunakan nominee atau perusahaan kedok; atau
   - satu operasi dengannya.
-- **Perubahan pemegang:** mengganti pemegang jabatan tidak menyelesaikan persoalan, karena kunci mengikuti kegiatan dan kendali, bukan nama atau pemegang ([Bab Sebelas §9.4 Kewenangan Anti-Pengelakan dan Pemeriksaan Tembus](../../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)).
+- **Perubahan pemegang:** mengganti pemegang jabatan tidak menyelesaikan persoalan, karena kunci mengikuti kegiatan dan kendali, bukan nama atau pemegang ([Bab Sebelas §9.4 Kewenangan Anti-Pengelakan dan Pemeriksaan Tembus](../../../core_12.000_standing_integration.md#94-anti-evasion-and-look-through-authority)).
 - **Pihak yang memutuskan:** berdasarkan fakta terverifikasi, forum berwenang memutuskan apakah kunci mencakup wahana tersebut; pihak yang menyatakan bahwa kunci berlaku memikul beban pembuktian.
 - **Pernyataan sendiri:** pernyataan Pihak Berpiagam bahwa dirinya baru tidak menentukan hasil.
 - **Pihak Pengoperasi lain:** kunci tidak mencakup Pihak Pengoperasi yang berbeda, kecuali pada kenyataannya pihak itu satu operasi dengan pihak yang dibubarkan.
-- **Pengelakan yang disengaja:** membentuk kembali, menghidupkan, atau menjalankan Pihak Berpiagam yang telah dibubarkan dengan nama lain atau melalui penerus, entitas terkendali, atau wahana nominee atau perusahaan kedok untuk menghindari kunci merupakan bentuk pelanggaran anti-konstitusional. Berdasarkan fakta terverifikasi, forum boleh menetapkannya menurut [Bab Dua Belas Bagian A](../../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation).
+- **Pengelakan yang disengaja:** membentuk kembali, menghidupkan, atau menjalankan Pihak Berpiagam yang telah dibubarkan dengan nama lain atau melalui penerus, entitas terkendali, atau wahana nominee atau perusahaan kedok untuk menghindari kunci merupakan bentuk pelanggaran anti-konstitusional. Berdasarkan fakta terverifikasi, forum boleh menetapkannya menurut [Bab Dua Belas Bagian A](../../../core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct--designation).
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 Tenggat tanggapan dan penyelesaian
@@ -965,7 +965,7 @@ Perlindungan bagi pemegang jabatan yang menerima temuan merugikan:
 <summary><strong><span style="color: #2563eb;">Pelacakan</span></strong></summary>
 
 - Hulu: [§3](#3-hal-yang-wajib-dinyatakan-piagam-sistem-dan-piagam-institusi); [Bab Satu §18.4 Justifikasi Berkelanjutan](../../../core_01.010_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
-- Hilir: [Bab Sembilan Bagian B §9 Sertifikasi ulang dan Pembukaan Kembali](../../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.005 §9); [Bab Tiga Belas §4.3 Forum Institusional](../../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
+- Hilir: [Bab Sembilan Bagian B §9 Sertifikasi ulang dan Pembukaan Kembali](../../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.005 §9); [Bab Tiga Belas §4.3 Forum Institusional](../../../core_14.000_forum.md#43-institutional-forums) (13.000 §4.3).
 - Baca bersama: [Integritas Batas Sistem](../../../core_05.040_band_continuity.md#system-boundary-integrity); **CI-8.205 §1** (*Kewajiban pengaturan yang tidak dapat didelegasikan*); **CI-8.205 §6** (*Isi Piagam Sistem dan Piagam Institusi, tinjauan, dan templat pembentukan*).
 
 </details>
@@ -1008,7 +1008,7 @@ Pihak Berpiagam tetap berada dalam lingkup Piagam Sistem atau Piagam Institusi y
 
 Pihak Berpiagam meninjau Piagam Sistem atau Piagam Institusinya sesuai jadwal, dan lebih cepat jika terjadi masalah:
 
-- **Frekuensi:** mengikuti irama yang ditetapkan kelas dalam [Bab Tiga Belas §6 Penyelesaian tepat waktu, tier materialitas, dan disiplin anti-penundaan](../../../core_13.000_forum.md#review-cadence) (*Irama tinjauan*).
+- **Frekuensi:** mengikuti irama yang ditetapkan kelas dalam [Bab Tiga Belas §6 Penyelesaian tepat waktu, tier materialitas, dan disiplin anti-penundaan](../../../core_14.000_forum.md#review-cadence) (*Irama tinjauan*).
 - **Tinjauan lebih awal dipicu oleh:**
   - insiden material, yakni peristiwa atau rangkaian peristiwa terkait yang kerugiannya, nyata atau mungkin terjadi, cukup besar untuk mengubah kewajiban yang berlaku ([Materialitas](../../../core_05.050_band_oversight.md#materiality));
   - pertumbuhan ketergantungan;
@@ -1047,7 +1047,7 @@ Jika Piagam Sistem atau Piagam Institusi berbeda secara material dari kegiatan n
 - **Cara menutupnya:** amendemen dokumen, perbaikan praktik, sertifikasi ulang, atau pengurangan lingkup agar sesuai dengan dokumen.
 - **Hal yang tidak dihitung:** memperluas lingkup secara diam-diam atau membiarkan dokumen tetap seperti semula.
 - **Tinjauan sertifikasi:** ketidakselarasan material juga memicu tinjauan forum baru atas sertifikasi Sistem atau Institusi. Tinjauan tidak menunggu jadwal berikutnya. Untuk Sistem, lihat [Bab Sembilan Bagian B §9 Sertifikasi ulang dan Pembukaan Kembali](../../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening). Untuk Institusi, lihat [Bab Sembilan Bagian D §14.2 Pemicu pembukaan kembali](../../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers). Sertifikasi membaca lingkup tertulis dan membandingkannya dengan batas nyata; sertifikasi tidak menulis ulang dokumen. Sertifikasi Institusi mengutip setiap Catatan Sertifikasi Sistem yang disertakan tanpa mengulang sertifikasinya ([Bab Sembilan Bagian D](../../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
-- **Jalur sengketa:** forum Institusional mengadili sengketa tentang lingkup Piagam Institusi, otoritas amendemennya, ketidakcocokan antara piagam dan perilaku, serta kegiatan di luar lingkup piagam ([Bab Tiga Belas §4.3 Forum Institusional](../../../core_13.000_forum.md#43-institutional-forums)).
+- **Jalur sengketa:** forum Institusional mengadili sengketa tentang lingkup Piagam Institusi, otoritas amendemennya, ketidakcocokan antara piagam dan perilaku, serta kegiatan di luar lingkup piagam ([Bab Tiga Belas §4.3 Forum Institusional](../../../core_14.000_forum.md#43-institutional-forums)).
 
 <a id="76-keeping-old-versions"></a>
 #### 7.6 Menyimpan versi lama
