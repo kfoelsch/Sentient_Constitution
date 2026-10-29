@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **722** of **1147** headings carry a gloss (63%).
+Coverage: **722** of **1148** headings carry a gloss (63%).
 
 ## Contents
 
@@ -35,7 +35,7 @@ Coverage: **722** of **1147** headings carry a gloss (63%).
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (9/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
-- [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/23 glossed)
+- [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/24 glossed)
 - [CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-ten-contribution-violation-and-standing-model--measurement) — `core_10.000_standing_assessment.md` (13/33 glossed)
 - [CHAPTER ELEVEN: STANDING EFFECTS AND INTEGRATION](#chapter-eleven-standing-effects-and-integration) — `core_11.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER TWELVE, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-twelve-part-a-anti-constitutional-misconduct--designation) — `core_12.000_misconduct_designation.md` (8/8 glossed)
@@ -4511,7 +4511,7 @@ certification can feed standing, but it is not standing. The System Certificatio
 
 ## CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION
 
-Source file: [`core_09.015_institutional_alignment_certification.md`](../../core_09.015_institutional_alignment_certification.md) · 8/23 headings glossed
+Source file: [`core_09.015_institutional_alignment_certification.md`](../../core_09.015_institutional_alignment_certification.md) · 8/24 headings glossed
 
 #### 12. Purpose, Relation to System Alignment Certification, and Scope
 
@@ -4536,6 +4536,12 @@ a system's certification belongs to the system. An institution's certification c
 *(no plain-terms gloss in source)*
 
 [Source](../../core_09.015_institutional_alignment_certification.md#123-no-permission-and-no-gate)
+
+##### 12.4 Window for the first certification
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_09.015_institutional_alignment_certification.md#124-window-for-the-first-certification)
 
 #### 13. Institution Class and Institutional Evaluation
 

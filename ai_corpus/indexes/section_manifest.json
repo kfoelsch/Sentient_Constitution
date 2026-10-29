@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-28T23:43:05+00:00",
+  "generated_at": "2026-10-29T07:59:04+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 533,
@@ -881,31 +881,32 @@
       ]
     },
     "core_09.015_institutional_alignment_certification.md": {
-      "total_lines": 450,
+      "total_lines": 468,
       "sections": [
-        {"header":"CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION","level":1,"line_start":2,"line_end":450,"anchor":"#chapter-nine-part-d-institutional-alignment-certification"},
-        {"header":"12. Purpose, Relation to System Alignment Certification, and Scope","level":3,"line_start":58,"line_end":117,"anchor":"#12-purpose-relation-to-system-alignment-certification-and-scope"},
+        {"header":"CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION","level":1,"line_start":2,"line_end":468,"anchor":"#chapter-nine-part-d-institutional-alignment-certification"},
+        {"header":"12. Purpose, Relation to System Alignment Certification, and Scope","level":3,"line_start":58,"line_end":135,"anchor":"#12-purpose-relation-to-system-alignment-certification-and-scope"},
         {"header":"12.1 Relation to System Alignment Certification","level":4,"line_start":84,"line_end":95,"anchor":"#121-relation-to-system-alignment-certification"},
         {"header":"12.2 Who is certified","level":4,"line_start":96,"line_end":107,"anchor":"#122-who-is-certified"},
-        {"header":"12.3 No permission and no gate","level":4,"line_start":108,"line_end":117,"anchor":"#123-no-permission-and-no-gate"},
-        {"header":"13. Institution Class and Institutional Evaluation","level":3,"line_start":118,"line_end":194,"anchor":"#13-institution-class-and-institutional-evaluation"},
-        {"header":"13.1 Institution class","level":4,"line_start":145,"line_end":162,"anchor":"#131-institution-class"},
-        {"header":"13.2 Institutional evaluation, always","level":4,"line_start":163,"line_end":176,"anchor":"#132-institutional-evaluation-always"},
-        {"header":"13.3 Evaluations where implicated","level":4,"line_start":177,"line_end":182,"anchor":"#133-evaluations-where-implicated"},
-        {"header":"13.4 Scaling by class","level":4,"line_start":183,"line_end":194,"anchor":"#134-scaling-by-class"},
-        {"header":"14. Review, Decision, and Record","level":3,"line_start":195,"line_end":325,"anchor":"#14-review-decision-and-record"},
-        {"header":"14.1 Four seats in an institutional certification","level":4,"line_start":228,"line_end":242,"anchor":"#141-four-seats-in-an-institutional-certification"},
-        {"header":"14.2 Forum roles and sequence","level":4,"line_start":243,"line_end":254,"anchor":"#142-forum-roles-and-sequence"},
-        {"header":"14.3 Outcomes and effect","level":4,"line_start":255,"line_end":272,"anchor":"#143-outcomes-and-effect"},
-        {"header":"14.4 Institutional Certification Record","level":4,"line_start":273,"line_end":300,"anchor":"#144-institutional-certification-record"},
-        {"header":"14.5 Remediation readiness, denial, and revocation for an Institution","level":4,"line_start":301,"line_end":325,"anchor":"#145-remediation-readiness-denial-and-revocation-for-an-institution"},
-        {"header":"15. Operating, Reopening, and the Cascade","level":3,"line_start":326,"line_end":413,"anchor":"#15-operating-reopening-and-the-cascade"},
-        {"header":"15.1 Monitoring, recertification, and status","level":4,"line_start":358,"line_end":365,"anchor":"#151-monitoring-recertification-and-status"},
-        {"header":"15.2 Reopening triggers","level":4,"line_start":366,"line_end":383,"anchor":"#152-reopening-triggers"},
-        {"header":"15.3 Cascade from System certifications","level":4,"line_start":384,"line_end":397,"anchor":"#153-cascade-from-system-certifications"},
-        {"header":"15.4 Challenge path","level":4,"line_start":398,"line_end":403,"anchor":"#154-challenge-path"},
-        {"header":"15.5 Forums, certifiers, and record offices as institutions","level":4,"line_start":404,"line_end":413,"anchor":"#155-forums-certifiers-and-record-offices-as-institutions"},
-        {"header":"16. Standing Bridge and Non-Evasion","level":3,"line_start":414,"line_end":450,"anchor":"#16-standing-bridge-and-non-evasion"}
+        {"header":"12.3 No permission and no gate","level":4,"line_start":108,"line_end":123,"anchor":"#123-no-permission-and-no-gate"},
+        {"header":"12.4 Window for the first certification","level":4,"line_start":124,"line_end":135,"anchor":"#124-window-for-the-first-certification"},
+        {"header":"13. Institution Class and Institutional Evaluation","level":3,"line_start":136,"line_end":212,"anchor":"#13-institution-class-and-institutional-evaluation"},
+        {"header":"13.1 Institution class","level":4,"line_start":163,"line_end":180,"anchor":"#131-institution-class"},
+        {"header":"13.2 Institutional evaluation, always","level":4,"line_start":181,"line_end":194,"anchor":"#132-institutional-evaluation-always"},
+        {"header":"13.3 Evaluations where implicated","level":4,"line_start":195,"line_end":200,"anchor":"#133-evaluations-where-implicated"},
+        {"header":"13.4 Scaling by class","level":4,"line_start":201,"line_end":212,"anchor":"#134-scaling-by-class"},
+        {"header":"14. Review, Decision, and Record","level":3,"line_start":213,"line_end":343,"anchor":"#14-review-decision-and-record"},
+        {"header":"14.1 Four seats in an institutional certification","level":4,"line_start":246,"line_end":260,"anchor":"#141-four-seats-in-an-institutional-certification"},
+        {"header":"14.2 Forum roles and sequence","level":4,"line_start":261,"line_end":272,"anchor":"#142-forum-roles-and-sequence"},
+        {"header":"14.3 Outcomes and effect","level":4,"line_start":273,"line_end":290,"anchor":"#143-outcomes-and-effect"},
+        {"header":"14.4 Institutional Certification Record","level":4,"line_start":291,"line_end":318,"anchor":"#144-institutional-certification-record"},
+        {"header":"14.5 Remediation readiness, denial, and revocation for an Institution","level":4,"line_start":319,"line_end":343,"anchor":"#145-remediation-readiness-denial-and-revocation-for-an-institution"},
+        {"header":"15. Operating, Reopening, and the Cascade","level":3,"line_start":344,"line_end":431,"anchor":"#15-operating-reopening-and-the-cascade"},
+        {"header":"15.1 Monitoring, recertification, and status","level":4,"line_start":376,"line_end":383,"anchor":"#151-monitoring-recertification-and-status"},
+        {"header":"15.2 Reopening triggers","level":4,"line_start":384,"line_end":401,"anchor":"#152-reopening-triggers"},
+        {"header":"15.3 Cascade from System certifications","level":4,"line_start":402,"line_end":415,"anchor":"#153-cascade-from-system-certifications"},
+        {"header":"15.4 Challenge path","level":4,"line_start":416,"line_end":421,"anchor":"#154-challenge-path"},
+        {"header":"15.5 Forums, certifiers, and record offices as institutions","level":4,"line_start":422,"line_end":431,"anchor":"#155-forums-certifiers-and-record-offices-as-institutions"},
+        {"header":"16. Standing Bridge and Non-Evasion","level":3,"line_start":432,"line_end":468,"anchor":"#16-standing-bridge-and-non-evasion"}
       ]
     },
     "core_10.000_standing_assessment.md": {

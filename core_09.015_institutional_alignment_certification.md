@@ -107,11 +107,29 @@ An Institution of Class L or higher is within this Part, with the class decided 
 
 #### 12.3 No permission and no gate
 
-Institutional alignment certification is an independent check. It is not permission.
+Institutional alignment certification is a check on an Institution, made by forums independent of it. It does not grant or withhold the right to form, to publish an Institutional Charter, to begin to exercise authority, or to keep operating, and no Institution has to hold it first.
 
-- **No gate on forming or operating:** No Institution needs an institutional certification to be formed, to publish its Institutional Charter, to begin to exercise authority, or to keep operating. The go-live gate in [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) stays with Systems. A new System, or a material expansion of one, goes live only through its own certification, whatever the Institution's status. The only gates in the area are the three narrow gates in **Article XI-E** (*Institutional Formation and Business Creation*): an outstanding lock and an Interim Hold on specific verified facts of misalignment, which attach to a named sentient's authority, and a lock on an Operating Party itself, which attaches to an Institution only where a lock sits on that Institution, as one does on a dissolved Institution under **CI-11.210 §4** (*Dissolution*). This Part supplies facts to them without being one.
-- **No back door:** Nothing in this Part may be used, by a forum, an adopter, or an incumbent, as an authorization threshold that shuts out founders or protects incumbents. That would defeat [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) applies to the cost of the process, and [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) to its depth.
-- **A window for the first certification:** A first Institutional Certification Record is due within a window the adopting document sets for the Institution's class. For a new Institution, the window runs from the day it begins to exercise authority over others, and its first certification is provisional. For one already operating, the window is the Adoption Transition window under [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), consistent with the default in [Chapter Seven §1.5 When a System Charter or Institutional Charter is due](core_07.000_charters.md#15-when-a-system-charter-or-institutional-charter-is-due). An Institution that lets the window run out without a first pass has a default to log and correct. The default opens a pass. It does not stop the Institution.
+- **Systems keep their own go-live gate:** The go-live gate in [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) stays with Systems. A new System, or a material expansion of one, goes live only through its own certification, whatever the Institution's status.
+- **The only gates in this area:** There are three narrow gates, all in **Article XI-E** (*Institutional Formation and Business Creation*):
+  - an outstanding lock and an Interim Hold on specific verified facts of misalignment, which attach to a named sentient's authority;
+  - a lock on an Operating Party itself, which attaches to an Institution only where a lock sits on that Institution, as one does on a dissolved Institution under **CI-11.210 §4** (*Dissolution*).
+
+  A certification finding can be referred to the forum that decides one of these gates, as evidence under [§14.5 Remediation readiness, denial, and revocation for an Institution](#145-remediation-readiness-denial-and-revocation-for-an-institution). A certification outcome is not itself a gate and does not open or close one.
+- **No back door:** Nothing in this Part may be used, by a forum, an adopter, or an incumbent, as an authorization threshold that shuts out founders or protects incumbents. That would defeat [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
+  - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) applies to the cost of the process.
+  - [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) applies to its depth.
+
+<a id="124-window-for-the-first-certification"></a>
+
+#### 12.4 Window for the first certification
+
+A first Institutional Certification Record is due within a window the adopting document sets for the Institution's class.
+
+- **A new Institution:** The window runs from the day it begins to exercise authority over others, and its first certification is provisional.
+- **One already operating:** The window is the Adoption Transition window under [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), consistent with the default in [Chapter Seven §1.5 When a System Charter or Institutional Charter is due](core_07.000_charters.md#15-when-a-system-charter-or-institutional-charter-is-due).
+- **A missed window:** An Institution that lets the window run out without a first pass has a defect to log and correct, and the missed window opens that pass. The Institution is not stopped or barred from operating, since there is no gate ([§12.3 No permission and no gate](#123-no-permission-and-no-gate)).
+  - **The pass:** It is decided like any other. It can end in any outcome in [§14.3 Outcomes and effect](#143-outcomes-and-effect), including Not Certified, with the effects in [§14.5 Remediation readiness, denial, and revocation for an Institution](#145-remediation-readiness-denial-and-revocation-for-an-institution).
+  - **Sanctions and dissolution:** This Part creates none. Suspension, receivership, structural separation, and dissolution stay with the forum with jurisdiction under **CI-11.210** (*Institutional failure and dissolution*) and **CI-11.215** (*Institutional accountability and sanctions*). That forum receives a referral only on the grounds in §14.5 (*Referral*).
 
 <a id="13-institution-class-and-institutional-evaluation"></a>
 
