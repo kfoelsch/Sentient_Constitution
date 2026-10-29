@@ -134,8 +134,12 @@ def chapter_and_part(name: str) -> tuple[int | None, str | None]:
                 rows = json.loads(registry.read_text(encoding="utf-8"))["chapters"]
                 row = next((r for r in rows if r.get("destination_file") == name), None)
                 original = row.get("original_file", "") if row else ""
-                original_match = re.match(r"core_\d+_([a-e])_", original)
-                part = original_match.group(1) if original_match else None
+                original_match = re.match(r"core_(\d+)_([a-e])_", original)
+                part = (
+                    original_match.group(2)
+                    if original_match and int(original_match.group(1)) == int(m.group(1))
+                    else None
+                )
             except (OSError, KeyError, ValueError):
                 pass
     return int(m.group(1)), part.upper() if part else None

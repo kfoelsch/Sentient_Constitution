@@ -627,7 +627,7 @@ Who does what:
 - **Operator or steward:** the proponent. It supplies the evidence. It does not judge its own readiness ([§6.1.1 Four seats in a certification](#611-four-seats-in-a-certification)).
 - **Lead forum:** decides the finding.
 - **Technical Forums:** hold the capacity evidence.
-- **Institutional Forums:** hold the governance and incentive evidence where the cause lies there. For an Institution, the check runs as [Part D §14.5 Remediation readiness, denial, and revocation for an Institution](core_09.015_institutional_alignment_certification.md#145-remediation-readiness-denial-and-revocation-for-an-institution) states.
+- **Institutional Forums:** hold the governance and incentive evidence where the cause lies there. For an Institution, the check runs as [Chapter Ten §7.3 Remediation readiness for an Institution](core_10.000_institutional_alignment_certification.md#73-remediation-readiness-for-an-institution) states.
 - **Affected sentients:** may submit evidence through the route in [§6.2 Supervisory sequence](#62-supervisory-sequence).
 
 <a id="731-willingness"></a>
@@ -752,7 +752,7 @@ A denial or revocation has these effects:
 - **Status:** the system is Not Certified. It may not go live or materially expand, and it may not describe itself as certified.
 - **Notice:** those who rely on the system, and each Institution that operates or stewards it, are told.
 - **Operation:** continued reliance is decided separately under the survival-essential protection in [Part C §9.3.5 Class A reliance](core_09.010_system_alignment_certification_record_recertification.md#935-class-a-reliance).
-- **Institution:** a revocation of a certification that an Institution cites is a withdrawn certification for the cascade in [Part D §15.3 Cascade from System certifications](core_09.015_institutional_alignment_certification.md#153-cascade-from-system-certifications).
+- **Institution:** a revocation of a certification that an Institution cites is a withdrawn certification for the cascade in [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications).
 - **Standing:** a denial or revocation does not itself change anyone's standing. [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) and [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) alone decide that. The facts behind it can feed a violation standing record, but only through [Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) and its [§11.3 Verified-input gate](core_09.010_system_alignment_certification_record_recertification.md#113-verified-input-gate):
   - Revocation for concealment, fraudulent evidence, a material condition violation, or operation outside certified scope may supply that input.
   - A finding of willing and not able supplies none.

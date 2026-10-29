@@ -165,7 +165,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - [Certification Denial](core_05.040_band_continuity.md#certification-denial), which refuses certification to a system that holds none;
     - deferred certification, which postpones the decision for a bounded period and takes nothing back;
-    - the cascade to an Institution that cites the certification, which is governed by [Part D §15.3 Cascade from System certifications](core_09.015_institutional_alignment_certification.md#153-cascade-from-system-certifications); and
+    - the cascade to an Institution that cites the certification, which is governed by [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications); and
     - a standing effect or violation finding — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [Recertification](core_05.040_band_continuity.md#recertification).
@@ -347,7 +347,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part D — Institutional Alignment Certification](core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification) (9.015) (*institution class, institutional evaluation, forum roles, record, cascade from system certifications, and reopening*).
+- Canonical owner: [Chapter Ten — Institutional Alignment Certification](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification) (10.000) (*institution class, institutional evaluation, forum roles, record, cascade from system certifications, and reopening*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [Chapter Seven §1 When System and Institutional Charters Are Required](core_07.000_charters.md#1-when-system-and-institutional-charters-are-required) (7.000 §1) (*an Institution's certification point*); [Chapter Fourteen §4.3 Institutional Forums](core_14.000_forum.md#43-institutional-forums) (14.000 §4.3) (*institutional mandate and duty-compliance components*).
 - Read with:
@@ -385,7 +385,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - a [Standing Record](core_05.035_band_accountability.md#standing-record) or any standing effect —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Institution](core_05.040_band_continuity.md#institution); [Institutional Charter](core_05.040_band_continuity.md#institutional-charter); [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification).
-  - Who must be certified, what is evaluated, who holds each seat, how a failed System certification reaches the Institution, and when review reopens are stated in [Chapter Nine Part D](core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification); this entry is the Chapter Five meaning only.
+  - Who must be certified, what is evaluated, who holds each seat, how a failed System certification reaches the Institution, and when review reopens are stated in [Chapter Ten](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification); this entry is the Chapter Five meaning only.
 <a id="institutional-alignment-certification-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -414,7 +414,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part D §14.4 Institutional Certification Record](core_09.015_institutional_alignment_certification.md#144-institutional-certification-record) (9.015 §14.4) (*minimum contents and integrity*).
+- Canonical owner: [Chapter Ten §8 Institutional Certification Record](core_10.000_institutional_alignment_certification.md#8-institutional-certification-record) (10.000 §8) (*minimum contents and integrity*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
   - [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification),
@@ -439,7 +439,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - an Institution's own annual report, audit statement, or attestation offered in place of the record —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
-  - The minimum contents and the integrity rules are stated in [Chapter Nine Part D §14.4](core_09.015_institutional_alignment_certification.md#144-institutional-certification-record); this entry is the Chapter Five meaning only.
+  - The minimum contents and the integrity rules are stated in [Chapter Ten §8 Institutional Certification Record](core_10.000_institutional_alignment_certification.md#8-institutional-certification-record); this entry is the Chapter Five meaning only.
 <a id="institutional-certification-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*

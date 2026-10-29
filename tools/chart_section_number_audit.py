@@ -64,7 +64,7 @@ BR_RE = re.compile(r"<br\s*/?>", re.IGNORECASE)
 
 SECTION_REF_RE = re.compile(r"§\d")
 # A section cite qualified by the document it belongs to: ``CS-15.305 §10``,
-# ``Chapter Nine §3``, ``Part D §14``, ``Article XI-E §2``.
+# ``Chapter Nine §3``, ``Chapter Ten §7``, ``Article XI-E §2``.
 QUALIFIER_BEFORE_RE = re.compile(
     r"(?:\b[A-Z]{1,3}-\d+(?:\.\d+)*|\bChapter [A-Z][a-z]+|\bPart [A-Z]"
     r"|\bArticle [IVXL]+(?:-[A-Z])?)\s*$"

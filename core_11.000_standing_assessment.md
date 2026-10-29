@@ -1055,6 +1055,6 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 
 ---
 
-**Previous file:** [core_09.015_institutional_alignment_certification.md](core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)
+**Previous file:** [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification)
 
 **Next file:** [core_12.000_standing_integration.md](core_12.000_standing_integration.md)

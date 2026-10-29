@@ -19,7 +19,8 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - **Ch 6:** [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md) through [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md)
 - **Ch 7:** [core_07.000_charters.md](core_07.000_charters.md)
 - **Ch 8:** [core_08.000_functional_independence_separation_of_duties.md](core_08.000_functional_independence_separation_of_duties.md)
-- **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md); Part D [core_09.015_institutional_alignment_certification.md](core_09.015_institutional_alignment_certification.md); worked illustrations (systems family) [cs_09.320_system_alignment_certification_illustrations.md](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md)
+- **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md); worked illustrations (systems family) [cs_09.320_system_alignment_certification_illustrations.md](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md)
+- **Ch 10:** [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md)
 - **Ch 11:** [core_11.000_standing_assessment.md](core_11.000_standing_assessment.md)
 - **Ch 12:** [core_12.000_standing_integration.md](core_12.000_standing_integration.md)
 - **Ch 13:** Part A [core_13.000_misconduct_designation.md](core_13.000_misconduct_designation.md); Part B [core_13.005_misconduct_pattern_applications.md](core_13.005_misconduct_pattern_applications.md)
@@ -63,7 +64,7 @@ Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md]
 - [ ] Complete announcement adoption and contest steps after the heightened review; fixes were not independently re-reviewed.
 - [ ] Sync translations for the edited passages after wording settles.
 
-### Chapter Nine Part D — open follow-ups
+### Chapter Ten — open follow-ups
 
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 - [ ] Sync translations after wording settles.

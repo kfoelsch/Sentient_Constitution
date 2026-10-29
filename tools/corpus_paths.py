@@ -33,7 +33,7 @@ CORE_FILES = (
     "core_09.000_system_alignment_certification_evaluation.md",
     "core_09.005_system_alignment_certification_record_process.md",
     "core_09.010_system_alignment_certification_record_recertification.md",
-    "core_09.015_institutional_alignment_certification.md",
+    "core_10.000_institutional_alignment_certification.md",
     "core_11.000_standing_assessment.md",
     "core_12.000_standing_integration.md",
     "core_13.000_misconduct_designation.md",

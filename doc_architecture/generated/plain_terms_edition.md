@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **722** of **1148** headings carry a gloss (63%).
+Coverage: **729** of **1159** headings carry a gloss (63%).
 
 ## Contents
 
@@ -35,7 +35,7 @@ Coverage: **722** of **1148** headings carry a gloss (63%).
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (9/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
-- [CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-part-d-institutional-alignment-certification) — `core_09.015_institutional_alignment_certification.md` (8/24 glossed)
+- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (15/35 glossed)
 - [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/33 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
@@ -4509,147 +4509,213 @@ certification can feed standing, but it is not standing. The System Certificatio
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#115-violation-standing-record)
 
-## CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION
+## CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION
 
-Source file: [`core_09.015_institutional_alignment_certification.md`](../../core_09.015_institutional_alignment_certification.md) · 8/24 headings glossed
+Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 15/35 headings glossed
 
-#### 12. Purpose, Relation to System Alignment Certification, and Scope
+#### 1. Purpose and Role
 
 a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#12-purpose-relation-to-system-alignment-certification-and-scope)
+[Source](../../core_10.000_institutional_alignment_certification.md#1-purpose-and-role)
 
-##### 12.1 Relation to System Alignment Certification
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.015_institutional_alignment_certification.md#121-relation-to-system-alignment-certification)
-
-##### 12.2 Who is certified
+##### 1.1 Relation to System Alignment Certification
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#122-who-is-certified)
+[Source](../../core_10.000_institutional_alignment_certification.md#11-relation-to-system-alignment-certification)
 
-##### 12.3 No permission and no gate
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.015_institutional_alignment_certification.md#123-no-permission-and-no-gate)
-
-##### 12.4 Window for the first certification
+##### 1.2 Who is certified
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#124-window-for-the-first-certification)
+[Source](../../core_10.000_institutional_alignment_certification.md#12-who-is-certified)
 
-#### 13. Institution Class and Institutional Evaluation
-
-first work out how much the institution matters, by what it actually does and holds. Then check the things that belong to the institution and not to any one of its systems: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the checks on it work.
-
-[Source](../../core_09.015_institutional_alignment_certification.md#13-institution-class-and-institutional-evaluation)
-
-##### 13.1 Institution class
+##### 1.3 No permission and no gate
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#131-institution-class)
+[Source](../../core_10.000_institutional_alignment_certification.md#13-no-permission-and-no-gate)
 
-##### 13.2 Institutional evaluation, always
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.015_institutional_alignment_certification.md#132-institutional-evaluation-always)
-
-##### 13.3 Evaluations where implicated
+##### 1.4 Window for the first certification
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#133-evaluations-where-implicated)
+[Source](../../core_10.000_institutional_alignment_certification.md#14-window-for-the-first-certification)
 
-##### 13.4 Scaling by class
+#### 2. Institution Class Evaluation
 
-*(no plain-terms gloss in source)*
+first work out how much the institution matters, by what it actually does and holds.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#134-scaling-by-class)
+[Source](../../core_10.000_institutional_alignment_certification.md#2-institution-class-evaluation)
 
-#### 14. Review, Decision, and Record
-
-the same independent forums, in the same order, review the institution, with the institution never choosing its own reviewer. The result is a stated outcome on a record kept by an office the institution does not control. It can be challenged, and it is not a pass or fail that decides whether the institution may exist.
-
-[Source](../../core_09.015_institutional_alignment_certification.md#14-review-decision-and-record)
-
-##### 14.1 Four seats in an institutional certification
+##### 2.1 Institution class
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#141-four-seats-in-an-institutional-certification)
+[Source](../../core_10.000_institutional_alignment_certification.md#21-institution-class)
 
-##### 14.2 Forum roles and sequence
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.015_institutional_alignment_certification.md#142-forum-roles-and-sequence)
-
-##### 14.3 Outcomes and effect
+##### 2.2 Scaling by class
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#143-outcomes-and-effect)
+[Source](../../core_10.000_institutional_alignment_certification.md#22-scaling-by-class)
 
-##### 14.4 Institutional Certification Record
+#### 3. Whole-Institution Certification Evaluation
+
+check the things that belong to the institution and not to any one of its systems: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the checks on it work.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation)
+
+#### 4. Evaluations Where Implicated
+
+where the institution's own conduct touches one of the areas a system is checked on when it is implicated, the same check is made on the institution, once.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#4-evaluations-where-implicated)
+
+#### 5. Rights-Floor and Domain Evaluations
+
+the same rule as in the section before: a Rights-Floor or domain check runs on the institution's own conduct where it is triggered, and is not repeated where a cited system certification already made it.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#5-rights-floor-and-domain-evaluations)
+
+#### 6. Forum Process
+
+the same independent forums, in the same order, review the institution, with the institution never choosing its own reviewer.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#6-forum-process)
+
+##### 6.1 Four seats in an institutional certification
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#144-institutional-certification-record)
+[Source](../../core_10.000_institutional_alignment_certification.md#61-four-seats-in-an-institutional-certification)
 
-##### 14.5 Remediation readiness, denial, and revocation for an Institution
+##### 6.2 Forum roles and sequence
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#62-forum-roles-and-sequence)
+
+##### 6.3 Forums, certifiers, and record offices as institutions
+
+the bodies that do the certifying are institutions too, so they cannot certify each other in a circle.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#63-forums-certifiers-and-record-offices-as-institutions)
+
+#### 7. Certification Outcomes
+
+the result is a stated outcome. It is not a pass or fail that decides whether the institution may exist.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#7-certification-outcomes)
+
+##### 7.1 No go-live gate: the effect of an outcome
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#71-no-go-live-gate-the-effect-of-an-outcome)
+
+##### 7.2 Certification defects and correction
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#72-certification-defects-and-correction)
+
+##### 7.3 Remediation readiness for an Institution
 
 when a review finds a problem in an institution, the same question is asked of it as of a system: does it want to fix the problem, and can it? If not, its certification is denied or taken back. That cannot stop the institution from existing or operating. It takes away its claim to be certified, warns those who rely on it, weakens what its systems can borrow from its standing, and keeps it out of the seats that certify others.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#145-remediation-readiness-denial-and-revocation-for-an-institution)
+[Source](../../core_10.000_institutional_alignment_certification.md#73-remediation-readiness-for-an-institution)
 
-#### 15. Operating, Reopening, and the Cascade
-
-an institution's certification is checked again on a schedule and whenever something material changes. If one of its systems loses its certification, the institution answers for what that says about the institution, and no more than that. And the bodies that do the certifying are institutions too, so they cannot certify each other in a circle.
-
-[Source](../../core_09.015_institutional_alignment_certification.md#15-operating-reopening-and-the-cascade)
-
-##### 15.1 Monitoring, recertification, and status
+##### 7.4 Denial and revocation for an Institution
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#151-monitoring-recertification-and-status)
+[Source](../../core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution)
 
-##### 15.2 Reopening triggers
+#### 8. Institutional Certification Record
+
+the stated outcome is kept on a record held by an office the institution does not control, and the record can be challenged.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#8-institutional-certification-record)
+
+##### 8.1 Minimum record contents
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#152-reopening-triggers)
+[Source](../../core_10.000_institutional_alignment_certification.md#81-minimum-record-contents)
 
-##### 15.3 Cascade from System certifications
+##### 8.2 Transparency and auditability of the record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#82-transparency-and-auditability-of-the-record)
+
+#### 9. Recertification and Reopening
+
+an institution's certification is checked again on a schedule and whenever something material changes. If one of its systems loses its certification, the institution answers for what that says about the institution, and no more than that.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#9-recertification-and-reopening)
+
+##### 9.1 Monitoring, recertification, and status
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#91-monitoring-recertification-and-status)
+
+##### 9.2 Reopening triggers
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#92-reopening-triggers)
+
+##### 9.3 Provisional and full certification
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#93-provisional-and-full-certification)
+
+##### 9.4 Non-evasion
+
+no one gets out of this Chapter by dividing, renaming, or reshaping an institution.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#94-non-evasion)
+
+##### 9.5 Cascade from System certifications
 
 a failed system certification is a warning light for the institution, and sometimes an alarm. It is an alarm only if the institution's own governance caused it.
 
-[Source](../../core_09.015_institutional_alignment_certification.md#153-cascade-from-system-certifications)
+[Source](../../core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications)
 
-##### 15.4 Challenge path
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_09.015_institutional_alignment_certification.md#154-challenge-path)
-
-##### 15.5 Forums, certifiers, and record offices as institutions
+#### 10. Challenging a Certification
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#155-forums-certifiers-and-record-offices-as-institutions)
+[Source](../../core_10.000_institutional_alignment_certification.md#10-challenging-a-certification)
 
-#### 16. Standing Bridge and Non-Evasion
+##### 10.1 When the path opens
 
-like a system's certification, an institution's can feed standing through a strict gate and never replaces standing. And no one gets out of this Part by dividing, renaming, or reshaping an institution.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_09.015_institutional_alignment_certification.md#16-standing-bridge-and-non-evasion)
+[Source](../../core_10.000_institutional_alignment_certification.md#101-when-the-path-opens)
+
+##### 10.2 Contestability paths
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#102-contestability-paths)
+
+#### 11. Relationship to Standing
+
+like a system's certification, an institution's can feed standing through a strict gate and never replaces standing.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#11-relationship-to-standing)
+
+##### 11.1 What may pass to standing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#111-what-may-pass-to-standing)
 
 ## CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT
 

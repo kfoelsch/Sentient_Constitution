@@ -36,7 +36,7 @@ CORE_CHAIN = (
     "core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation",
     "core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-certification-forum-process-and-outcomes",
     "core_09.010_system_alignment_certification_record_recertification.md#chapter-nine-part-c-certification-record-recertification-and-standing",
-    "core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification",
+    "core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification",
     "core_11.000_standing_assessment.md",
     "core_12.000_standing_integration.md",
     "core_13.000_misconduct_designation.md",

@@ -1107,7 +1107,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) (7.000 §5) (*covered offices, standing and authenticity checks, and staff safeguards*).
-- Forum test: [Chapter Nine Part D §13.2 Institutional evaluation, always](core_09.015_institutional_alignment_certification.md#132-institutional-evaluation-always) (item 7).
+- Forum test: [Chapter Ten §3 Whole-Institution Certification Evaluation](core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation) (item 7).
 - Read with: [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*), [Material Control Line](core_05.035_band_accountability.md#material-control-line), and [Interim Hold](core_05.035_band_accountability.md#interim-hold).
 
 </details>
@@ -1123,7 +1123,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **How to measure and assess**
   - **Primary measure:** Accountability and Oversight measurement families, scaled to the office's material authority and the Chartered Party's class.
 
-    **Primary assessment:** Apply Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity using verified records. Check the standing limb against locks, any applicable Interim Hold, competency requirements, and disclosed conflicts; check authenticity from control, interests and rewards, conduct, and protected voice. Chapter Nine Part D tests the published statement against observed operation.
+    **Primary assessment:** Apply Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity using verified records. Check the standing limb against locks, any applicable Interim Hold, competency requirements, and disclosed conflicts; check authenticity from control, interests and rewards, conduct, and protected voice. Chapter Ten tests the published statement against observed operation.
 <a id="formation-check-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to accept an unsupported attestation, use protected belief or association as a finding, treat the check as a gate on forming or operating an institution, or label the check complete when the published evidence does not support it.
@@ -1303,7 +1303,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Part D §14.5](core_09.015_institutional_alignment_certification.md#145-remediation-readiness-denial-and-revocation-for-an-institution) (institutions).
+- Canonical owner: [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Chapter Ten §7.4](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution) (institutions).
 - Forum routing: [Chapter Fourteen §4.5 Constitutional alignment certification and validation](core_14.000_forum.md#45-integrity-forums) and [§5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification).
 - Read with: [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Proportionality](core_05.035_band_accountability.md#proportionality), and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution).
 
@@ -4187,7 +4187,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Twelve §5.5 Special locks](core_12.000_standing_integration.md#55-special-locks).
-- Formation and institutional certification interfaces: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) and [Chapter Nine Part D §14.5 Remediation readiness, denial, and revocation for an Institution](core_09.015_institutional_alignment_certification.md#145-remediation-readiness-denial-and-revocation-for-an-institution).
+- Formation and institutional certification interfaces: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) and [Chapter Ten §7.4 Denial and revocation for an Institution](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution).
 - Read with: [Standing Lock](core_05.035_band_accountability.md#standing-lock), [Interim Hold](core_05.035_band_accountability.md#interim-hold), and [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 
 </details>
