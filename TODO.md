@@ -19,17 +19,18 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - **Ch 6:** [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md) through [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md)
 - **Ch 7:** [core_07.000_charters.md](core_07.000_charters.md)
 - **Ch 8:** [core_08.000_functional_independence_separation_of_duties.md](core_08.000_functional_independence_separation_of_duties.md)
-- **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md); Part D [core_09.015_institutional_alignment_certification.md](core_09.015_institutional_alignment_certification.md); worked illustrations (systems family) [cs_09.320_system_alignment_certification_illustrations.md](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md)
-- **Ch 10:** [core_10.000_standing_assessment.md](core_10.000_standing_assessment.md)
-- **Ch 11:** [core_11.000_standing_integration.md](core_11.000_standing_integration.md)
-- **Ch 12:** Part A [core_12.000_misconduct_designation.md](core_12.000_misconduct_designation.md); Part B [core_12.005_misconduct_pattern_applications.md](core_12.005_misconduct_pattern_applications.md)
-- **Ch 13:** [core_13.000_forum.md](core_13.000_forum.md)
-- **Ch 14:** [core_14.000_governance.md](core_14.000_governance.md)
-- **Ch 15:** [core_15.000_non_regression.md](core_15.000_non_regression.md)
-- **Ch 16:** [core_16.000_expansion_supremacy.md](core_16.000_expansion_supremacy.md)
-- **Ch 17:** [core_17.000_amendment_ratification.md](core_17.000_amendment_ratification.md)
-- **Ch 18:** [core_18.000_incorporation.md](core_18.000_incorporation.md)
-- **Ch 10–13 vignettes (non-operative):** [core_10.005_application_vignettes.md](core_10.005_application_vignettes.md)
+- **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md); worked illustrations (systems family) [cs_09.320_system_alignment_certification_illustrations.md](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md)
+- **Ch 10:** [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md)
+- **Ch 11:** [core_11.000_standing_assessment.md](core_11.000_standing_assessment.md)
+- **Ch 12:** [core_12.000_standing_integration.md](core_12.000_standing_integration.md)
+- **Ch 13:** Part A [core_13.000_misconduct_designation.md](core_13.000_misconduct_designation.md); Part B [core_13.005_misconduct_pattern_applications.md](core_13.005_misconduct_pattern_applications.md)
+- **Ch 14:** [core_14.000_forum.md](core_14.000_forum.md)
+- **Ch 15:** [core_15.000_governance.md](core_15.000_governance.md)
+- **Ch 16:** [core_16.000_non_regression.md](core_16.000_non_regression.md)
+- **Ch 17:** [core_17.000_expansion_supremacy.md](core_17.000_expansion_supremacy.md)
+- **Ch 18:** [core_18.000_amendment_ratification.md](core_18.000_amendment_ratification.md)
+- **Ch 19:** [core_19.000_incorporation.md](core_19.000_incorporation.md)
+- **Ch 11–14 vignettes (non-operative):** [core_11.005_application_vignettes.md](core_11.005_application_vignettes.md)
 - **Adopted corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
 
 ## Open Backlog
@@ -63,7 +64,7 @@ Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md]
 - [ ] Complete announcement adoption and contest steps after the heightened review; fixes were not independently re-reviewed.
 - [ ] Sync translations for the edited passages after wording settles.
 
-### Chapter Nine Part D — open follow-ups
+### Chapter Ten — open follow-ups
 
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 - [ ] Sync translations after wording settles.

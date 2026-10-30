@@ -14,8 +14,8 @@
 >
 > - **헌법상의 소유자:** 별도의 의석을 통해 충족되는 실질적 구속력 있는 행위에 대한 직무 분리 요건 각각의 보편적인 최소 함량 [실질적으로 구속력 있는 행위 기록](../../core_05.035_band_accountability.md#materially-binding-act-record); 배우와 배우로부터의 독립 [자재 관리 라인](../../core_05.035_band_accountability.md#material-control-line); 공개된 레인 및 역할 배치; 갈등, 공석, 교체 및 잘못된 좌석 배치; 비례적인 병합 호스팅; 귀속성 핸드오프; 그리고 이후의 모든 헌법 절차가 적용되어야 하는 최소한의 독립성 조건도 포함됩니다.
 > - **원리층 소스:** [1장 §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) 기능적 독립성을 유지하고 수술석 아키텍처를 여기로 전달하려면 거버넌스가 필요합니다.
-> - **구현 소유자:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*헌법적 차선과 기능적 분리*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), 그리고 [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) 좌석을 배치하고 조작합니다. 이는 더 엄격할 수 있으며 제한된 특별 권한 좌석 유형을 추가할 수 있습니다. 이 장의 범위를 좁힐 수는 없습니다.
-> - **프로세스별 애플리케이션은 다운스트림으로 유지됩니다.** 9장에서는 이 요구 사항을 시스템 정렬 인증 및 기관 정렬 인증에 적용합니다. [10장 §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) 이를 스탠딩 레코드에 적용합니다. 13장 및 [신체_forum.md](../../corpus_forum.md) 포럼 프로세스에 적용하십시오. 해당 장에는 해당 주제에 필요한 보호 장치가 추가될 수 있습니다. 그들은 더 약한 대체물을 만들지 못할 수도 있습니다.
+> - **구현 소유자:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*헌법적 차선과 기능적 분리*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), 그리고 [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) 좌석을 배치하고 조작합니다. 이는 더 엄격할 수 있으며 제한된 특별 권한 좌석 유형을 추가할 수 있습니다. 이 장의 범위를 좁힐 수는 없습니다.
+> - **프로세스별 애플리케이션은 다운스트림으로 유지됩니다.** 9장에서는 이 요구 사항을 시스템 정렬 인증 및 기관 정렬 인증에 적용합니다. [10장 §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) 이를 스탠딩 레코드에 적용합니다. 13장 및 [신체_forum.md](../../corpus_forum.md) 포럼 프로세스에 적용하십시오. 해당 장에는 해당 주제에 필요한 보호 장치가 추가될 수 있습니다. 그들은 더 약한 대체물을 만들지 못할 수도 있습니다.
 >
 > 읽기 순서: §1 목적 및 범위 → §2 4석 요건 → §3 독립 및 갈등 → §4 잘못된 좌석 라우팅 → §5 게시된 배치, 대체 및 위임 → §6 비례 배분 → §7 긴급 상황 → §8 법 기록 및 전달 → §9 다운스트림 적용.
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - 하류:
   - [9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9,000);
-  - [10장](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10,000);
-  - [13장](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13,000);
-  - [14장](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14,000); 위에 명명된 지정된 구현 텍스트입니다.
+  - [10장](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10,000);
+  - [13장](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13,000);
+  - [14장](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14,000); 위에 명명된 지정된 구현 텍스트입니다.
 - 함께 읽어보세요:
   - [제1장 §19.3 정렬 불량 감지](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*복수형 탐지 및 검토*);
   - [귀속 조치](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
 - 업스트림: [§1](#1-purpose-scope-and-owner-boundary); [1장 §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3); [제1장 §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1).
-- 하류: [§3](#3-independence-conflict-and-control-lines) ~을 통해 [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*좌석 카탈로그 - 프로세스 역할 원형 및 운영 경계*).
+- 하류: [§3](#3-independence-conflict-and-control-lines) ~을 통해 [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*좌석 카탈로그 - 프로세스 역할 원형 및 운영 경계*).
 - 함께 읽어보세요: [§6](#6-proportional-scaling-and-merged-hosting) 허용되는 유일한 병합 호스팅 경로에 대해.
 
 </details>
@@ -229,7 +229,7 @@ flowchart TB
 
 - 업스트림: [§2](#2-four-seat-constitutional-requirement); [권한 규모에 따른 응답성](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [제25조](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*헌법 해석, 검토 및 압수 방지 보호 장치*).
 - 하류: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); 9장 인증 구성요소 역할; 제10장 기록 보관; 13장 반자기판단 포럼.
-- 함께 읽어보세요: [자재 관리 라인](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*갈등 청렴, 포획 방지, 부패 방지*) 그리고 [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*무결성 보호, 캡처 방지 작업 및 자기 판단 방지 지원*) 운영상 충돌 및 자기 판단 방지 보호 장치를 위해 사용됩니다.
+- 함께 읽어보세요: [자재 관리 라인](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*갈등 청렴, 포획 방지, 부패 방지*) 그리고 [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*무결성 보호, 캡처 방지 작업 및 자기 판단 방지 지원*) 운영상 충돌 및 자기 판단 방지 보호 장치를 위해 사용됩니다.
 
 </details>
 
@@ -255,7 +255,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
 - 업스트림: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- 하류: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 공유 좌석 규칙](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- 하류: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 공유 좌석 규칙](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - 함께 읽어보세요: [제1장 §17.5 저항 의무](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5).
 
 </details>
@@ -302,12 +302,12 @@ flowchart TB
   - [§3](#3-independence-conflict-and-control-lines);
   - [투명도](../../core_05.050_band_oversight.md#transparency);
   - [감사 가능성](../../core_05.050_band_oversight.md#auditability).
-- 하류: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*기능적 분리 차선*); [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*승인된 역할 및 책임 체인*); 9장과 10장 기록입니다.
+- 하류: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*기능적 분리 차선*); [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*승인된 역할 및 책임 체인*); 9장과 10장 기록입니다.
 - 함께 읽어보세요:
   - [시스템헌장](../../core_05.040_band_continuity.md#system-charter),
   - [기관헌장](../../core_05.040_band_continuity.md#institutional-charter);
   - [7장 §4 헌장 역할 계획 및 기록 보관](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4); 그리고
-  - [제14장 §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
+  - [제14장 §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
 
 </details>
 
@@ -377,7 +377,7 @@ flowchart TB
   - [물질적 지분](../../core_00.000_preamble.md#material-stake);
   - [필요성](../../core_05.035_band_accountability.md#necessity);
   - [비례](../../core_05.035_band_accountability.md#proportionality).
-- 하류: [10장 §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*클래스 규모의 레인 인력 배치 및 역량 중복*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*기능적 분리 차선*).
+- 하류: [10장 §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*클래스 규모의 레인 인력 배치 및 역량 중복*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*기능적 분리 차선*).
 - 함께 읽어보세요: [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden) 그리고 1장 [§3.3 품질 저하 방지 프로세스](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ flowchart TB
 - 업스트림:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [제13장 §6.1 긴급조치 및 지속부담](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
+  - [제13장 §6.1 긴급조치 및 지속부담](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
   - [기본 임시 자세](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - 다운스트림: 지정된 구현 텍스트의 사건, 봉쇄, 해제, 지속 및 사건 후 검토 프로세스.
-- 함께 읽어보세요: [적시](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [증거보존](../../core_05.050_band_oversight.md#evidence-preservation), 그리고 [CI-14.205 §6 좌석 카탈로그 - 프로세스 역할 원형 및 운영 경계](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- 함께 읽어보세요: [적시](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [증거보존](../../core_05.050_band_oversight.md#evidence-preservation), 그리고 [CI-14.205 §6 좌석 카탈로그 - 프로세스 역할 원형 및 운영 경계](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ flowchart TB
   - [실질적으로 구속력 있는 행위 기록](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [귀속 조치](../../core_05.035_band_accountability.md#attributable-action);
   - [기여 무결성](../../core_05.035_band_accountability.md#attribution-integrity).
-- 하류: [CS-14.305 §10 검사 가능한 귀속 조치](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 공유 좌석 규칙](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8이 적용되는 모든 프로세스 기록; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*기본 기계 확인 가능 양식; 두 번째 정의가 아닌 프로세스 지원*).
+- 하류: [CS-14.305 §10 검사 가능한 귀속 조치](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 공유 좌석 규칙](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8이 적용되는 모든 프로세스 기록; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*기본 기계 확인 가능 양식; 두 번째 정의가 아닌 프로세스 지원*).
 - 함께 읽어보세요: [§4 잘못된 좌석 배정](#4-wrong-seat-routing) 그리고 [제4장 §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5).
 
 </details>
@@ -564,9 +564,9 @@ flowchart TB
 - 업스트림: [§1](#1-purpose-scope-and-owner-boundary) ~을 통해 [§8](#8-act-records-and-attributable-handoffs).
 - 하류:
   - [9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9,000);
-  - [10장](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10,000);
-  - [13장](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13,000);
-  - [14장](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
+  - [10장](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10,000);
+  - [13장](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13,000);
+  - [14장](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
 - 함께 읽어보세요: [권한 스택 및 내부 계층](../../core_05.045_band_integrative.md#owner-non-relocation) 그리고 [프리앰블 소유자 등록](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

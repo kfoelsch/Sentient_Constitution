@@ -42,11 +42,11 @@ The source changed in these files after the baseline; only terminology edits sho
 - [`core_09.005_system_alignment_certification_record_process.md`](../../../core_09.005_system_alignment_certification_record_process.md)
 - [`core_09.010_system_alignment_certification_illustrations.md`](../../../core_09.010_system_alignment_certification_illustrations.md)
 - [`core_09.015_institutional_alignment_certification.md`](../../../core_09.015_institutional_alignment_certification.md)
-- [`core_10.000_standing_assessment.md`](../../../core_10.000_standing_assessment.md)
-- [`core_10.005_application_vignettes.md`](../../../core_10.005_application_vignettes.md)
-- [`core_11.000_standing_integration.md`](../../../core_11.000_standing_integration.md)
-- [`core_12.005_misconduct_pattern_applications.md`](../../../core_12.005_misconduct_pattern_applications.md)
-- [`core_13.000_forum.md`](../../../core_13.000_forum.md)
-- [`core_14.000_governance.md`](../../../core_14.000_governance.md)
+- [`core_10.000_standing_assessment.md`](../../../core_11.000_standing_assessment.md)
+- [`core_10.005_application_vignettes.md`](../../../core_11.005_application_vignettes.md)
+- [`core_11.000_standing_integration.md`](../../../core_12.000_standing_integration.md)
+- [`core_12.005_misconduct_pattern_applications.md`](../../../core_13.005_misconduct_pattern_applications.md)
+- [`core_13.000_forum.md`](../../../core_14.000_forum.md)
+- [`core_14.000_governance.md`](../../../core_15.000_governance.md)
 
 This supplement is a terminology aid, not a complete retranslation of the affected chapters. See the Chapter Eight draft for the full newly ready chapter.

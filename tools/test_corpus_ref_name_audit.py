@@ -206,14 +206,14 @@ class CorpusRefNameTests(unittest.TestCase):
     def test_index_attaches_deep_body_anchors_to_section(self) -> None:
         d = self.root / "corpus_systems"
         (d / "cs_04_demo.md").write_text(
-            "# CS-14.305: Demo\n\n## CS-14.305 §10 Competency\n\nBody.\n\nMore body.\n\n"
+            "# CS-15.305: Demo\n\n## CS-15.305 §10 Competency\n\nBody.\n\nMore body.\n\n"
             "<a id=\"10-inspectable-attributable-action\"></a>\n\n**Inspectable.**\n\n"
-            "## CS-14.305 §11 Next\n",
+            "## CS-15.305 §11 Next\n",
             encoding="utf-8",
         )
         index = build_index(self.root)
-        self.assertIn("10-inspectable-attributable-action", index["CS-14.305 §10"].anchors)
-        self.assertNotIn("10-inspectable-attributable-action", index["CS-14.305 §11"].anchors)
+        self.assertIn("10-inspectable-attributable-action", index["CS-15.305 §10"].anchors)
+        self.assertNotIn("10-inspectable-attributable-action", index["CS-15.305 §11"].anchors)
 
 
 if __name__ == "__main__":

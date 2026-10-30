@@ -45,12 +45,12 @@ CHAPTER_WORDS = {
     0: "Preamble", 1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six",
     7: "Seven", 8: "Eight", 9: "Nine", 10: "Ten", 11: "Eleven", 12: "Twelve",
     13: "Thirteen", 14: "Fourteen", 15: "Fifteen", 16: "Sixteen",
-    17: "Seventeen", 18: "Eighteen",
+    17: "Seventeen", 18: "Eighteen", 19: "Nineteen",
 }
 
 # Files that add no rule: they must say so instead of claiming ownership.
 CORE_NON_OWNER = {
-    "core_10.005_application_vignettes.md",
+    "core_11.005_application_vignettes.md",
 }
 # Chapter Six Part A carries the chapter-level claim and does not name "Part A".
 CORE_PART_OPTIONAL = {"core_06.000_rights_part_a.md"}
@@ -68,7 +68,7 @@ IMPL_EXEMPT = {
         r"reader guidance only",
         "reader guide: says it adds no duty",
     ),
-    "corpus_forum/cf_13.475_sentience_status_record.md": (
+    "corpus_forum/cf_14.475_sentience_status_record.md": (
         r"^This file is the designated implementation text for ",
         "Chapter Five's definition names it the designated implementation text",
     ),
@@ -134,8 +134,12 @@ def chapter_and_part(name: str) -> tuple[int | None, str | None]:
                 rows = json.loads(registry.read_text(encoding="utf-8"))["chapters"]
                 row = next((r for r in rows if r.get("destination_file") == name), None)
                 original = row.get("original_file", "") if row else ""
-                original_match = re.match(r"core_\d+_([a-e])_", original)
-                part = original_match.group(1) if original_match else None
+                original_match = re.match(r"core_(\d+)_([a-e])_", original)
+                part = (
+                    original_match.group(2)
+                    if original_match and int(original_match.group(1)) == int(m.group(1))
+                    else None
+                )
             except (OSError, KeyError, ValueError):
                 pass
     return int(m.group(1)), part.upper() if part else None

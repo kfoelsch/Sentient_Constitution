@@ -6,17 +6,17 @@ Rule ID: TIME-LOCK-01
 The tier windows have two owners:
 
 * **Outer bounds** (7, 14, 30, 60, and 90 days for Tiers A, B, C, L, and P) are
-  owned by Chapter Thirteen §6, *Tier outer bound*.
+  owned by Chapter Fourteen §6, *Tier outer bound*.
 * **Intake targets** (24 hours, then 2, 4, 8, and 12 calendar days) and the
-  stage table that must add up to the outer bounds are owned by CF-13.445 §3.1.
+  stage table that must add up to the outer bounds are owned by CF-14.445 §3.1.
 
 Other sections quote these figures so that a reader does not have to leave the
 page: the Chapter Seven §1.6 summary table (response window = intake target,
 resolution window = outer bound) and the prompt-review sentences. Those copies
 are derived. This audit:
 
-1. Reads the sources and checks that they agree with each other (the CF-13.445 §3.1
-   header, its outer-bound row, and the Chapter Thirteen list). A conflict
+1. Reads the sources and checks that they agree with each other (the CF-14.445 §3.1
+   header, its outer-bound row, and the Chapter Fourteen list). A conflict
    between sources is never repaired by the tool: a person decides which owner
    is right.
 2. Rebuilds each registered copy from the sources and compares it with the file.
@@ -156,7 +156,7 @@ def read_sources(root: Path, registry: dict) -> Figures:
     for tier in TIERS:
         if not (header_days[tier] == row_days[tier] == ch13_days[tier]):
             conflicts.append(
-                f"Tier {tier}: CF-13.445 §3.1 header {header_days[tier]}, CF-13.445 §3.1 outer-bound row {row_days[tier]}, Chapter Thirteen §6 {ch13_days[tier]}"
+                f"Tier {tier}: CF-14.445 §3.1 header {header_days[tier]}, CF-14.445 §3.1 outer-bound row {row_days[tier]}, Chapter Fourteen §6 {ch13_days[tier]}"
             )
     if conflicts:
         raise SourceError("the sources disagree; decide which owner is right (never auto-fixed): " + "; ".join(conflicts))
@@ -270,7 +270,7 @@ def run(root: Path, fix: bool) -> int:
         return 0
     print(
         f"FAIL: {RULE} — {len(drifts)} copy/copies of the tier windows differ from their owners "
-        "(Chapter Thirteen §6 outer bounds, CF-13.445 §3.1 intake targets). Run: make time-window-lockstep-fix",
+        "(Chapter Fourteen §6 outer bounds, CF-14.445 §3.1 intake targets). Run: make time-window-lockstep-fix",
         file=sys.stderr,
     )
     return 1

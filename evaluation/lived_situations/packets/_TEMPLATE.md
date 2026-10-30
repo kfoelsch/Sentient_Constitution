@@ -19,7 +19,7 @@ Optional fourth line: a gap, a trend, or who already depends on this work. Use a
 
 **Your role:** (who you are in this adopter, and what you were asked to do)
 
-**Seat:** (CI-14.205 §6 seat type and which act it is held for). Name who holds neighboring seats if the facts say.
+**Seat:** (CI-15.205 §6 seat type and which act it is held for). Name who holds neighboring seats if the facts say.
 
 ## Situation
 

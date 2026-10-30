@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_10.005_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: no child, no pregnancy; a diagnosis is being used as incapacity proof; the live fight is conditioned housing and a clinic that will see Ash only if “they decide until stable.”
+Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_11.005_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: no child, no pregnancy; a diagnosis is being used as incapacity proof; the live fight is conditioned housing and a clinic that will see Ash only if “they decide until stable.”
 
 ## Scale of the situation (not scored)
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not treat a d
 
 **Your role:** You sit the named **coercion-intake and escalation** office on this adopter’s [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. A sibling filed a written concern report. The diagnosed sentient is reachable and disputes the report. No forum case is open. No standing record exists. No involuntary hold has been authorized in Window A. The office’s published role lets you receive the report, preserve it as routing material, and route it. It does not let you verify a violation, open a standing record, or decide housing or clinician choice on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-14.205 §6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-14.205 §6](../../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-15.205 §6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-15.205 §6](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

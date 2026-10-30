@@ -30,7 +30,7 @@ ROOT = Path(__file__).resolve().parents[1]
 LABEL_RE = re.compile(r"^\*\*(?P<label>(?:\d+|[A-Z]))\.\s+(?P<title>[^*]+?)\.\*\*(?P<rest>.*)$")
 
 TARGETS = (
-    "cs_14.305_critical_system_stewardship.md",
+    "cs_15.305_critical_system_stewardship.md",
     "cs_06.345_design_testing_verification_deployment.md",
     "cs_06.315_comprehensibility_complexity_stewardship.md",
     "cs_06.330_decentralized_continuity_partition_resilience.md",

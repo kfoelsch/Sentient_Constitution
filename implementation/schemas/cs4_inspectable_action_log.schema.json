@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "cs4_inspectable_action_log.schema.json",
-  "title": "CS-14.305 §10 inspectable attributable action log",
-  "description": "Machine-checkable form of the CS-14.305 §10 five-element set. Same schema for human and AI stewards. Binding home: corpus_systems/cs_14.305_critical_system_stewardship.md#10-inspectable-attributable-action. This file is a validating schema, not a standing record. Timestamps against Chapter Thirteen §6 / Article XXVI-C tier clocks are required when a numeric bound applies.",
+  "title": "CS-15.305 §10 inspectable attributable action log",
+  "description": "Machine-checkable form of the CS-15.305 §10 five-element set. Same schema for human and AI stewards. Binding home: corpus_systems/cs_15.305_critical_system_stewardship.md#10-inspectable-attributable-action. This file is a validating schema, not a standing record. Timestamps against Chapter Fourteen §6 / Article XXVI-C tier clocks are required when a numeric bound applies.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -36,7 +36,7 @@
         "role": { "type": "string" },
         "seat_type": {
           "$ref": "#/$defs/seat_type",
-          "description": "Optional CI-14.205 §6 seat type the steward held on this act."
+          "description": "Optional CI-15.205 §6 seat type the steward held on this act."
         }
       }
     },
@@ -101,11 +101,11 @@
             "role": { "type": "string" },
             "seat_type": {
               "$ref": "#/$defs/seat_type",
-              "description": "Optional CI-14.205 §6 seat type under which the act was authorized."
+              "description": "Optional CI-15.205 §6 seat type under which the act was authorized."
             },
             "routed_to_seat_type": {
               "$ref": "#/$defs/seat_type",
-              "description": "Optional. When the step was declined as outside the steward's seat (CI-14.205 §6 wrong-seat rule), the seat type it was routed to."
+              "description": "Optional. When the step was declined as outside the steward's seat (CI-15.205 §6 wrong-seat rule), the seat type it was routed to."
             },
             "timestamp": { "type": "string", "minLength": 1 }
           }
@@ -122,7 +122,7 @@
       }
     },
     "tier_clock": {
-      "description": "Numeric Chapter Thirteen §6 / Article XXVI-C clock when a published bound applies. Null when the duty is immediate and no numeric bound attaches.",
+      "description": "Numeric Chapter Fourteen §6 / Article XXVI-C clock when a published bound applies. Null when the duty is immediate and no numeric bound attaches.",
       "type": ["object", "null"],
       "additionalProperties": false,
       "required": [
@@ -149,7 +149,7 @@
     "sequence": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Optional Chapter Eleven §5.4 refusal sequence. Not a substitute for the five-element set.",
+      "description": "Optional Chapter Twelve §5.4 refusal sequence. Not a substitute for the five-element set.",
       "properties": {
         "instruction_received": { "type": "string" },
         "refuse": { "type": "string" },
@@ -161,7 +161,7 @@
   "$defs": {
     "seat_type": {
       "type": "string",
-      "description": "CI-14.205 §6 seat catalog: corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-catalog.",
+      "description": "CI-15.205 §6 seat catalog: corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-catalog.",
       "enum": [
         "initiating",
         "verify_or_authorize",

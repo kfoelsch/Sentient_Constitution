@@ -14,8 +14,8 @@
 >
 > - **Proprietário Constitucional:** o requisito de separação de funções para atos materialmente vinculativos, cumprido através de sedes distintas; o conteúdo mínimo universal de cada [Registro de ato materialmente vinculativo](../../core_05.035_band_accountability.md#materially-binding-act-record); independência do ator e do ator [Linha de controle de materiais](../../core_05.035_band_accountability.md#material-control-line); faixa publicada e posicionamento de função; conflito, vaga, substituição e encaminhamento de assento errado; hospedagem mesclada proporcional; transferências atribuíveis; e as condições mínimas de independência que todo processo constitucional posterior deverá aplicar.
 > - **Fonte da camada principal:** [Capítulo Um §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) requer governança para preservar a independência funcional e encaminha a arquitetura da sede operacional aqui.
-> - **Proprietário da implementação:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Via constitucional e separação funcional*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), e [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) colocar e operacionalizar os assentos. Eles podem ser mais rígidos e adicionar tipos de assentos de autoridade especial limitados; eles não podem restringir este capítulo.
-> - **A aplicação específica do processo permanece a jusante:** O Capítulo Nove aplica este requisito à certificação de alinhamento de sistemas e à certificação de alinhamento institucional; [Capítulo Dez §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) aplica-o a registros permanentes; Capítulo Treze e [corpus_fórum.md](../../corpus_forum.md) aplique-o ao processo do fórum. Esses capítulos podem acrescentar salvaguardas exigidas pelo seu assunto; eles não podem criar um substituto mais fraco.
+> - **Proprietário da implementação:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Via constitucional e separação funcional*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), e [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) colocar e operacionalizar os assentos. Eles podem ser mais rígidos e adicionar tipos de assentos de autoridade especial limitados; eles não podem restringir este capítulo.
+> - **A aplicação específica do processo permanece a jusante:** O Capítulo Nove aplica este requisito à certificação de alinhamento de sistemas e à certificação de alinhamento institucional; [Capítulo Dez §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) aplica-o a registros permanentes; Capítulo Treze e [corpus_fórum.md](../../corpus_forum.md) aplique-o ao processo do fórum. Esses capítulos podem acrescentar salvaguardas exigidas pelo seu assunto; eles não podem criar um substituto mais fraco.
 >
 > Ordem de leitura: §1 propósito e escopo → §2 Requisito de quatro assentos → §3 independência e conflitos → §4 roteamento de assento errado → §5 colocação publicada, substitutos e delegação → §6 escalonamento proporcional → §7 emergências → §8 Registros e transferências de atos → §9 aplicação downstream.
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - A jusante:
   - [Capítulo Nove](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Capítulo Dez](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Capítulo Treze](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [Capítulo Quatorze](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); texto de implementação designado mencionado acima.
+  - [Capítulo Dez](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [Capítulo Treze](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [Capítulo Quatorze](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); texto de implementação designado mencionado acima.
 - Leia com:
   - [Capítulo Um §19.3 Detecção de desalinhamento](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*detecção e revisão plural*);
   - [Ação Atribuível](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@ Esta subseção explica as razões do número quatro. Não é operativo: os asse
 <summary><strong><span style="color: #2563eb;">Rastreamento</span></strong></summary>
 
 - A montante: [§1](#1-purpose-scope-and-owner-boundary); [Capítulo Um §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3); [Capítulo Um §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1).
-- A jusante: [§3](#3-independence-conflict-and-control-lines) através [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Catálogo de assentos — arquétipos de funções de processo e limites operacionais*).
+- A jusante: [§3](#3-independence-conflict-and-control-lines) através [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Catálogo de assentos — arquétipos de funções de processo e limites operacionais*).
 - Leia com: [§6](#6-proportional-scaling-and-merged-hosting) para o único caminho de hospedagem mesclada permitido.
 
 </details>
@@ -229,7 +229,7 @@ Quando o escopo for misto ou a classificação for incerta, aplique a postura ap
 
 - A montante: [§2](#2-four-seat-constitutional-requirement); [Responsabilidade em escala de autoridade](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Artigo XXV](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Interpretação Constitucional, Revisão e Salvaguardas Anti-Captura*).
 - A jusante: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); Capítulo Nove Funções dos Componentes de Certificação; Capítulo Dez custódia de registros; Capítulo Treze fórum anti-autojulgamento.
-- Leia com: [Linha de controle de materiais](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Integridade de conflitos, anticaptura e anticorrupção*) e [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Salvaguardas de integridade, operações anti-captura e apoio anti-autojulgamento*) para conflitos operacionais e salvaguardas anti-autojulgamento.
+- Leia com: [Linha de controle de materiais](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Integridade de conflitos, anticaptura e anticorrupção*) e [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Salvaguardas de integridade, operações anti-captura e apoio anti-autojulgamento*) para conflitos operacionais e salvaguardas anti-autojulgamento.
 
 </details>
 
@@ -255,7 +255,7 @@ A independência não é satisfeita por uma segunda assinatura, um comité nomin
 <summary><strong><span style="color: #2563eb;">Rastreamento</span></strong></summary>
 
 - A montante: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- A jusante: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 regras de assentos compartilhados](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- A jusante: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 regras de assentos compartilhados](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - Leia com: [Capítulo Um §17.5 Dever de Resistir](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5).
 
 </details>
@@ -302,12 +302,12 @@ Essa resposta é o cumprimento do dever e não o abandono do ato. O ato prossegu
   - [§3](#3-independence-conflict-and-control-lines);
   - [Transparência](../../core_05.050_band_oversight.md#transparency);
   - [Auditabilidade](../../core_05.050_band_oversight.md#auditability).
-- A jusante: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Faixas de separação funcional*); [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*Funções autorizadas e cadeias de responsabilidade*); Registros do Capítulo Nove e Capítulo Dez.
+- A jusante: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Faixas de separação funcional*); [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*Funções autorizadas e cadeias de responsabilidade*); Registros do Capítulo Nove e Capítulo Dez.
 - Leia com:
   - [Carta do Sistema](../../core_05.040_band_continuity.md#system-charter),
   - [Carta Institucional](../../core_05.040_band_continuity.md#institutional-charter);
   - [Capítulo Sete §4 O Mapa de Funções da Carta e a Custódia dos Registros Permanentes](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4); e
-  - [Capítulo Quatorze §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
+  - [Capítulo Quatorze §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5).
 
 </details>
 
@@ -377,7 +377,7 @@ O titular pode usar pessoal ou ferramentas para ajudar no trabalho do assento, c
   - [participação material](../../core_00.000_preamble.md#material-stake);
   - [Necessidade](../../core_05.035_band_accountability.md#necessity);
   - [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality).
-- A jusante: [Capítulo Dez §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Equipe de pista em escala de classe e redundância de competências*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Faixas de separação funcional*).
+- A jusante: [Capítulo Dez §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Equipe de pista em escala de classe e redundância de competências*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Faixas de separação funcional*).
 - Leia com: [Fardo evitável](../../core_05.040_band_continuity.md#avoidable-burden) e Capítulo Um [§3.3 Processo Antidegradante](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ Quanto mais danos isso possa resultar e quanto mais outros dependerem do trabalh
 - A montante:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [Capítulo Treze §6.1 Medidas de emergência e encargos de continuação](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
+  - [Capítulo Treze §6.1 Medidas de emergência e encargos de continuação](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
   - [postura provisória padrão](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - Downstream: processos de incidente, contenção, liberação, continuação e revisão pós-evento no texto de implementação designado.
-- Leia com: [Oportunidade](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Preservação de Evidências](../../core_05.050_band_oversight.md#evidence-preservation), e [CI-14.205 §6 Catálogo de assentos – arquétipos de funções de processo e limites operacionais](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- Leia com: [Oportunidade](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Preservação de Evidências](../../core_05.050_band_oversight.md#evidence-preservation), e [CI-14.205 §6 Catálogo de assentos – arquétipos de funções de processo e limites operacionais](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ Nenhuma das seguintes situações é por si só uma emergência:
   - [Registro de ato materialmente vinculativo](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [Ação Atribuível](../../core_05.035_band_accountability.md#attributable-action);
   - [Integridade de Atribuição](../../core_05.035_band_accountability.md#attribution-integrity).
-- A jusante: [CS-14.305 §10 ação atribuível inspecionável](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 regras de assentos compartilhados](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); todo registro de processo regido pelo §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*formulário básico verificável por máquina; suporte ao processo, não uma segunda definição*).
+- A jusante: [CS-14.305 §10 ação atribuível inspecionável](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 regras de assentos compartilhados](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); todo registro de processo regido pelo §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*formulário básico verificável por máquina; suporte ao processo, não uma segunda definição*).
 - Leia com: [§4 Roteamento de assento errado](#4-wrong-seat-routing) e [Capítulo Quatro §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5).
 
 </details>
@@ -564,9 +564,9 @@ Os registros mostram quem fez o quê, mas por si só não provam que a ação fo
 - A montante: [§1](#1-purpose-scope-and-owner-boundary) através [§8](#8-act-records-and-attributable-handoffs).
 - A jusante:
   - [Capítulo Nove](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Capítulo Dez](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Capítulo Treze](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [Capítulo Quatorze](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
+  - [Capítulo Dez](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [Capítulo Treze](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [Capítulo Quatorze](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
 - Leia com: [Pilha de autoridade e hierarquia interna](../../core_05.045_band_integrative.md#owner-non-relocation) e o [Registro do proprietário do preâmbulo](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

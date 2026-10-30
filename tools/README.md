@@ -58,12 +58,12 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 | Chapter Five nested-list readability candidates (advisory) | `make ch5-nested-list-candidates` |
 | Chapter Six nested-list readability candidates (advisory) | `make ch6-nested-list-candidates` |
 | Chapter Nine nested-list readability candidates (advisory) | `make ch8-nested-list-candidates` |
-| Chapter Ten nested-list readability candidates (advisory) | `make ch9-nested-list-candidates` |
-| Chapter Eleven nested-list readability candidates (advisory) | `make ch10-nested-list-candidates` |
+| Chapter Eleven nested-list readability candidates (advisory) | `make ch9-nested-list-candidates` |
 | Chapter Twelve nested-list readability candidates (advisory) | `make ch11-nested-list-candidates` |
 | Chapter Thirteen nested-list readability candidates (advisory) | `make ch12-nested-list-candidates` |
 | Chapter Fourteen nested-list readability candidates (advisory) | `make ch13-nested-list-candidates` |
 | Chapter Fifteen nested-list readability candidates (advisory) | `make ch14-nested-list-candidates` |
+| Chapter Sixteen nested-list readability candidates (advisory) | `make ch15-nested-list-candidates` |
 | Chapter One D/A/C functional ordering | `make ch1-dac-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-terms edition (generated, non-binding gloss digest of the core files) | `make plain-terms-edition` / `make plain-terms-edition-check` |
@@ -85,7 +85,7 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 
 `section_cite_name_audit.py` requires a human-readable title on body-prose `§` / `§§` cites (title in the link text, immediately after an unlinked token, or a following `(*title*)` gloss). It does not replace `section_label_anchor_audit.py`. `make section-cite-name-audit` uses `--changed-only`; omit the flag for a full binding-corpus scan.
 
-`wrapper_cite_audit.py` (REF-WRAPPER-01) flags citations of any of the four layer wrappers (`corpus_systems.md`, `corpus_institutions.md`, `corpus_joint_structure.md`, `corpus_forum.md`): a link to it or its file name in body prose, Trace, or Read with lines. Cite the subfile that owns the rule instead. Navigation lines and the Preamble and Chapter Eighteen incorporation lists are exempt. `make wrapper-cite-audit` (blocking, in `make regression`; `--wrapper NAME` to narrow to one wrapper, `--summary` for counts); unit test `make wrapper-cite-audit-test`.
+`wrapper_cite_audit.py` (REF-WRAPPER-01) flags citations of any of the four layer wrappers (`corpus_systems.md`, `corpus_institutions.md`, `corpus_joint_structure.md`, `corpus_forum.md`): a link to it or its file name in body prose, Trace, or Read with lines. Cite the subfile that owns the rule instead. Navigation lines and the Preamble and Chapter Nineteen incorporation lists are exempt. `make wrapper-cite-audit` (blocking, in `make regression`; `--wrapper NAME` to narrow to one wrapper, `--summary` for counts); unit test `make wrapper-cite-audit-test`.
 
 `heading_echo_topic_audit.py` flags a numbered section whose first body-prose line (after widgets and `*In plain terms*` gloss) restates that heading as a topic sentence — a self-cite such as `**[§13.2 Title](#…):**`. Unnumbered heading-echo run-ins (`**Symmetric costly constraints:**`) stay under MD-LIST-INTRO-01.
 
@@ -115,7 +115,7 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](archi
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
 
-`ch5_nested_list_candidate_audit.py` ranks packed list items that would scan better as nested grandchild lists. Chapter Five targets **In scope** / assessment / failure bullets; Chapters Six through Fifteen target labeled operative run-ins (`**Label:**` / `**Label** —`) and packed covers/includes lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, short Tetrad aim/leg glosses, and bullets that already have nested children. Limit with `--file` or `--chapter 5` / `--chapter 6` / `--chapter 9` / `--chapter 10` / `--chapter 11` / `--chapter 12` / `--chapter 13` / `--chapter 14` / `--chapter 15`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
+`ch5_nested_list_candidate_audit.py` ranks packed list items that would scan better as nested grandchild lists. Chapter Five targets **In scope** / assessment / failure bullets; Chapters Six through Sixteen target labeled operative run-ins (`**Label:**` / `**Label** —`) and packed covers/includes lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, short Tetrad aim/leg glosses, and bullets that already have nested children. Limit with `--file` or `--chapter 5` / `--chapter 6` / `--chapter 9` / `--chapter 11` / `--chapter 12` / `--chapter 13` / `--chapter 14` / `--chapter 15` / `--chapter 16`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
 
 `ch4_ch9_pointer_audit.py` is an advisory checker for Chapter Nine pointer discipline against Chapter Four. It flags places where Chapter Nine restates Chapter Four's verification rules (burden, trace artifact, security-constrained verification, and similar phrases) without citing Chapters Two through Four. It also checks that the corpus-placement widget names Chapter Four as the owner of verification. Run after edits to [`core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation`](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) or [`core_04.000_burden_traceability_verification.md`](../core_04.000_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
 

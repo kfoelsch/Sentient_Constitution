@@ -15,7 +15,7 @@ heading would generate, and most of that is deliberate:
 
 None of those are defects. What this audit catches is narrower: a **single**
 anchor on a numbered section whose number still matches the heading but whose
-*name* no longer does — an id reading `345-chapter-eleven-floor-boundary` on a
+*name* no longer does — an id reading `345-chapter-twelve-floor-boundary` on a
 heading that has since been retitled "3.4.5 Rights-Floor Boundary". Nothing
 breaks, so no link audit sees it, but the anchor asserts something false about
 where it points, and it is what a reader copies into the next cross-reference.

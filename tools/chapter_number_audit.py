@@ -17,7 +17,7 @@ PREFIX_DIR = {"CJS": "corpus_joint_structure", "CI": "corpus_institutions", "CS"
 TRACE_RE = re.compile(r'<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>\s*\n(.*?)\n</details>', re.S)
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 CORE_FILE_RE = re.compile(r"core_\d{2}\.\d{3}_[^/]+\.md$")
-CHAPTER_OR_PART_RE = re.compile(r"\b(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|\d+)|Part\s+[A-E])\b", re.I)
+CHAPTER_OR_PART_RE = re.compile(r"\b(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|\d+)|Part\s+[A-E])\b", re.I)
 D14_REFERENCE_RE = re.compile(r"\[[^\]]+\]\([^)]+\)|\*\*(?:Chapter\s+[A-Za-z0-9]+|(?:CF|CI|CJS|CS)-\d+(?:\.\d+)?(?:\s+§\s*\d+(?:\.\d+)*)?)\*\*", re.I)
 
 

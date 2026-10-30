@@ -296,7 +296,7 @@ class ChapterTests(Fixture):
         self.assertRule("FRONT-DOOR-CHAPTERS-01")
 
     def test_digit_range_in_readme(self) -> None:
-        self.edit("README.md", "Chapters 1–6", "Chapters 1–16")
+        self.edit("README.md", "Chapters 1–6", "Chapters 1–17")
         self.assertRule("FRONT-DOOR-CHAPTERS-01")
 
     def test_other_ranges_are_not_core_claims(self) -> None:

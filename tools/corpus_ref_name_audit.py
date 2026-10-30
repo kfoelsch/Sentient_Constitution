@@ -259,7 +259,7 @@ def check_reference(
         fragment_forms = (fragment, *ids_for_fragment(link_path, fragment))
     subsection = SUBSECTION_NAME_RE.match(name) if name else None
     if subsection is not None:
-        # ``CS-14.305 §10 inspectable attributable action``: the name after the
+        # ``CS-15.305 §10 inspectable attributable action``: the name after the
         # ``§N`` token names a subsection inside the ID's section, so it is
         # checked against the heading title or the linked anchor, not the
         # section title alone.
@@ -312,8 +312,8 @@ def check_reference(
     target, _, fragment = href.partition("#")
     valid_anchors = set(section.anchors)
     if subsection is not None:
-        # ``CS-14.305 §10`` points inside CS-14.305 at a subsection that lives under a
-        # numbered descendant (CS-14.305 §10), so descendant anchors are valid too.
+        # ``CS-15.305 §10`` points inside CS-15.305 at a subsection that lives under a
+        # numbered descendant (CS-15.305 §10), so descendant anchors are valid too.
         prefix = f"{ident}."
         for key, child in index.items():
             if key.startswith(prefix):
@@ -418,7 +418,7 @@ def scan_line(
             continue
         name = gloss_after(re.sub(r"^[*_]+", "", after))
         if name is None and not re.match(r"[*_]*\s+[—–-]\s+§", after):
-            # ``**CS-14.305 — Critical system stewardship**``: a dash name counts.
+            # ``**CS-15.305 — Critical system stewardship**``: a dash name counts.
             dash = DASH_NAME_RE.match(after)
             if dash is not None:
                 name = dash.group(1)

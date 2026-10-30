@@ -3,7 +3,7 @@
 
 README.md and START_HERE.md (with AGENTS.md, llms.txt, docs/index.md,
 CONTRIBUTING.md and the announcement copy) make claims that the corpus can
-quietly stop supporting: an edition string, "Chapters 1-17", "28 articles", a
+quietly stop supporting: an edition string, "Chapters 1-18", "28 articles", a
 language list, a fit ranking, the wording of the Two Fundamental Questions, a
 `make` target. Each check below derives the true value from the corpus itself
 and compares it with what the front doors say, so a change in one place fails

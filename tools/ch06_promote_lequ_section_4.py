@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_10.000_standing_assessment.md"
+CH06 = ROOT / "core_11.000_standing_assessment.md"
 
 # Visible heading / section-number renames (longest match first in application order)
 CH06_HEADINGS = [
@@ -60,7 +60,7 @@ CH06_PROSE = [
     ("[Chapter One §8.2](#32-constitutional-outcome-baseline-for-slots)", "[§2](#32-constitutional-outcome-baseline-for-slots)"),
     ("[§11.3](#33-primary-category-defaults-and-lequ-slot-baseline)", "[§4](#33-primary-category-defaults-and-lequ-slot-baseline)"),
     ("[§3.4, ", "[§6, "),
-    ("under **section 4.2**", "under **Chapter Ten section 4.2**"),
+    ("under **section 4.2**", "under **Chapter Eleven section 4.2**"),
     ("For this subsection,", "For this section,"),
     ("subordinate to this subsection,", "subordinate to this section,"),
     ("Apply the highest **section 6** level", "Apply the highest **section 6** level"),
@@ -70,13 +70,13 @@ CH06_PROSE = [
 ]
 
 CH7_GUARDS = [
-    ("Chapter Ten section 4.3", "@@CH7-S43@@"),
-    ("Chapter Ten section 4.2", "@@CH7-S42@@"),
-    ("Chapter Ten section 4", "@@CH7-S4@@"),
-    ("Chapter Ten §3.3", "@@CH7-43@@"),
-    ("Chapter Ten Chapter One §8.2", "@@CH7-42@@"),
-    ("Chapter Ten Chapter One §8.1", "@@CH7-41@@"),
-    ("Chapter Ten §4", "@@CH7-4@@"),
+    ("Chapter Eleven section 4.3", "@@CH7-S43@@"),
+    ("Chapter Eleven section 4.2", "@@CH7-S42@@"),
+    ("Chapter Eleven section 4", "@@CH7-S4@@"),
+    ("Chapter Eleven §3.3", "@@CH7-43@@"),
+    ("Chapter Eleven Chapter One §8.2", "@@CH7-42@@"),
+    ("Chapter Eleven Chapter One §8.1", "@@CH7-41@@"),
+    ("Chapter Eleven §4", "@@CH7-4@@"),
     ("§Chapter One §8.1–4.3", "@@CH7-SS413@@"),
 ]
 
@@ -111,12 +111,12 @@ CROSS_FILE = [
     ("**section 3.4** severity typing", "**section 6** severity typing"),
     ("(*sections **1–3**, including", "(*sections **1–6**, including"),
     ("Chapter Nine **§§2–3**", "Chapter Nine **§§2–6**"),
-    ("[§11.3](core_10.000_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "[§4](core_10.000_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)"),
-    ("[§3.4](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[§5](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
-    ("[Chapter One §8.2](core_10.000_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)", "[§2](core_10.000_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)"),
+    ("[§11.3](core_11.000_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "[§4](core_11.000_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)"),
+    ("[§3.4](core_11.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[§5](core_11.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("[Chapter One §8.2](core_11.000_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)", "[§2](core_11.000_standing_assessment.md#32-constitutional-outcome-baseline-for-slots)"),
     ("[§3.4, Formal Non-Compliance]", "[§6, Formal Non-Compliance]"),
     ("[§3.4, Duty-Based or Negligent-Harm Violation]", "[§6, Duty-Based or Negligent-Harm Violation]"),
-    ("Chapter Nine §Chapter One §8.1–3.3 read with Chapter Ten", "Chapter Nine §§3–5 read with Chapter Ten"),
+    ("Chapter Nine §Chapter One §8.1–3.3 read with Chapter Eleven", "Chapter Nine §§3–5 read with Chapter Eleven"),
     ("**section 3.1** standing-slot grammar and **section 3.3** primary slot defaults", "**section 3.1** standing-slot grammar and **section 5** primary slot defaults"),
     ("the Chapter Nine **section 3.4** severity ladder", "the Chapter Nine **section 6** severity ladder"),
     ("[§§3–5](#3-slot-grammar-and-display-labels)", "[§§3–5](#3-slot-grammar-and-display-labels)"),

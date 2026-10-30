@@ -11,8 +11,8 @@
 >
 > - **Responsável constitucional:** quando um sistema deve publicar uma Carta do Sistema e quando uma instituição deve publicar uma Carta Institucional (obrigatória na Classe L ou superior, voluntária na Classe P), o conteúdo mínimo de cada uma, como são alteradas e revisadas, e a verificação de formação sobre a posição e a autenticidade de quem ocupa cargos abrangidos.
 > - **Sede das definições:** [Carta do Sistema](../../../core_05.040_band_continuity.md#system-charter), [Carta Institucional](../../../core_05.040_band_continuity.md#institutional-charter), [Mapa de Funções da Carta](../../../core_05.040_band_continuity.md#charter-role-map), [Parte Constituída](../../../core_05.040_band_continuity.md#chartered-party) e [Parte Operadora](../../../core_05.050_band_oversight.md#operating-party) são definidas no Capítulo Cinco. Este capítulo as aplica, sem redefini-las.
-> - **Responsável pela implementação:** [CI-8.205 §6](../../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*) contém o modelo completo dos campos, a lista de revisão, o procedimento de formação e o modelo da declaração de verificação de formação. Pode ser mais rigoroso e acrescentar campos. Não pode reduzir o piso deste capítulo. Seu texto vincula como texto de implementação incorporado apenas dentro do escopo válido de adoção ([Capítulo Dezoito §4 Enquadramento da adoção e escopo da autoridade](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); o piso deste capítulo vincula como texto central.
-> - **Capítulos que aplicam estas regras:** o [Capítulo Oito §5 Posicionamento, vacância e substituição publicados](../../../core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) exige o Mapa de Funções da Carta. O Capítulo Nove consulta a Carta do Sistema para determinar escopo e limites, e a Parte D do Capítulo Nove testa a declaração de verificação de formação de uma Instituição. O [Capítulo Dez §3.7 Custódia de registros e autoridade para abri-los](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) a aplica aos registros de posição. O [Capítulo Treze §4.3 Fóruns institucionais](../../../core_13.000_forum.md#43-institutional-forums) julga controvérsias sobre a Carta Institucional.
+> - **Responsável pela implementação:** [CI-8.205 §6](../../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*) contém o modelo completo dos campos, a lista de revisão, o procedimento de formação e o modelo da declaração de verificação de formação. Pode ser mais rigoroso e acrescentar campos. Não pode reduzir o piso deste capítulo. Seu texto vincula como texto de implementação incorporado apenas dentro do escopo válido de adoção ([Capítulo Dezoito §4 Enquadramento da adoção e escopo da autoridade](../../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); o piso deste capítulo vincula como texto central.
+> - **Capítulos que aplicam estas regras:** o [Capítulo Oito §5 Posicionamento, vacância e substituição publicados](../../../core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) exige o Mapa de Funções da Carta. O Capítulo Nove consulta a Carta do Sistema para determinar escopo e limites, e a Parte D do Capítulo Nove testa a declaração de verificação de formação de uma Instituição. O [Capítulo Dez §3.7 Custódia de registros e autoridade para abri-los](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority) a aplica aos registros de posição. O [Capítulo Treze §4.3 Fóruns institucionais](../../../core_14.000_forum.md#43-institutional-forums) julga controvérsias sobre a Carta Institucional.
 >
 > Ordem de leitura: §1 quando as Cartas do Sistema e Institucional são exigidas, com o diagrama do processo → §2 o direito de formar e quatro limites estritos → §3 o que devem declarar → §4 o Mapa de Funções da Carta e a custódia de registros de posição → §5 a verificação de formação da posição e autenticidade de titulares de cargos → §6 quando um titular não passa na verificação de formação → §7 alteração, revisão e desalinhamento de escopo.
 
@@ -37,9 +37,9 @@
 - Aplicação posterior:
   - [Capítulo Oito](../../../core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) (8.000);
   - [Capítulo Nove](../../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Capítulo Dez](../../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Capítulo Treze](../../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [Capítulo Quatorze](../../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); o texto de implementação designado acima.
+  - [Capítulo Dez](../../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [Capítulo Treze](../../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [Capítulo Quatorze](../../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); o texto de implementação designado acima.
 - Ler em conjunto com:
   - [Hierarquia interna e pilha de autoridade](../../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [Limites dos sistemas](../../../core_05.040_band_continuity.md#system-boundaries);
@@ -165,7 +165,7 @@ Se ocorrer qualquer uma destas situações, a publicação deixa de ser facultat
 
 Então, a Parte Operadora deve publicar a Carta do Sistema ou Carta Institucional adequada, segundo o cronograma de [§1.5 Quando vence o prazo para a Carta do Sistema ou Carta Institucional](#15-quando-vence-o-prazo-para-a-carta-do-sistema-ou-carta-institucional).
 
-**O reconhecimento não depende de um documento de escopo.** Um grupo, tenha ou não uma Carta do Sistema ou Carta Institucional e qualquer que seja sua classe, não se interpõe entre seus membros e o reconhecimento. Cada membro pode solicitar um registro de contribuição como requerente individual, pelo trabalho realizado dentro ou fora do grupo; o registro trata da contribuição do membro, não da posição do grupo ([Capítulo Dez §3.7 Registros informais e de escopo limitado](../../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records)). Prestar ajuda, fornecer bens, trabalho ou serviços cuja aceitação não seja obrigatória não é um ato materialmente vinculante; por isso, um círculo de ajuda mútua que doa colchas a refugiados não precisa de Carta do Sistema nem de Carta Institucional para que seus membros sejam reconhecidos.
+**O reconhecimento não depende de um documento de escopo.** Um grupo, tenha ou não uma Carta do Sistema ou Carta Institucional e qualquer que seja sua classe, não se interpõe entre seus membros e o reconhecimento. Cada membro pode solicitar um registro de contribuição como requerente individual, pelo trabalho realizado dentro ou fora do grupo; o registro trata da contribuição do membro, não da posição do grupo ([Capítulo Dez §3.7 Registros informais e de escopo limitado](../../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records)). Prestar ajuda, fornecer bens, trabalho ou serviços cuja aceitação não seja obrigatória não é um ato materialmente vinculante; por isso, um círculo de ajuda mútua que doa colchas a refugiados não precisa de Carta do Sistema nem de Carta Institucional para que seus membros sejam reconhecidos.
 
 <a id="15-when-a-system-charter-or-institutional-charter-is-due"></a>
 #### 1.5 Quando vence o prazo para a Carta do Sistema ou Carta Institucional
@@ -289,9 +289,9 @@ flowchart TB
 - Aplicação posterior: [§1 Quando as Cartas do Sistema e Institucional são exigidas](#1-quando-as-cartas-do-sistema-e-institucional-são-exigidas); [§5 Verificação de formação: posição e autenticidade de titulares de cargos](#5-verificação-de-formação-posição-e-autenticidade-de-titulares-de-cargos).
 - Ler em conjunto com:
   - [Suspensão Provisória](../../../core_05.035_band_accountability.md#interim-hold);
-  - [Capítulo Onze §4.2 Prevenção — travas gerais de posição](../../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2);
-  - [Capítulo Onze §5.5 Travas especiais](../../../core_11.000_standing_integration.md#55-special-locks) (11.000 §5.5);
-  - [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
+  - [Capítulo Onze §4.2 Prevenção — travas gerais de posição](../../../core_12.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2);
+  - [Capítulo Onze §5.5 Travas especiais](../../../core_12.000_standing_integration.md#55-special-locks) (11.000 §5.5);
+  - [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
 
 </details>
 
@@ -322,7 +322,7 @@ Os fóruns decidem esses casos nos termos daquele Artigo, e as únicas consequê
 <a id="22-first-limit-an-outstanding-lock-on-a-sentient"></a>
 #### 2.2 Primeiro limite: uma trava vigente sobre um senciente
 
-Uma [trava de posição](../../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) ou [trava especial](../../../core_11.000_standing_integration.md#55-special-locks), imposta após uma violação verificada e ainda não levantada, impede um senciente nomeado de exercer autoridade sobre esse tipo de instituição ou empresa.
+Uma [trava de posição](../../../core_12.000_standing_integration.md#42-prevention--general-standing-locks) ou [trava especial](../../../core_12.000_standing_integration.md#55-special-locks), imposta após uma violação verificada e ainda não levantada, impede um senciente nomeado de exercer autoridade sobre esse tipo de instituição ou empresa.
 
 - **O que fica impedido:** assumir ou exercer autoridade de governança, controle ou propriedade na Parte Operadora.
 - **Até onde alcança:** somente até onde a trava determinar. Ela termina quando for levantada ou reduzida.
@@ -331,15 +331,15 @@ Uma [trava de posição](../../../core_11.000_standing_integration.md#42-prevent
 <a id="23-second-limit-a-short-hold-on-specific-verified-facts"></a>
 #### 2.3 Segundo limite: suspensão breve baseada em fatos específicos verificados
 
-Este limite se aplica quando um fórum competente ordena uma [Suspensão Provisória](../../../core_05.035_band_accountability.md#interim-hold) com base em fatos específicos verificados que mostram probabilidade superior a 50% de que o titular esteja desalinhado com a finalidade declarada da Parte Constituída. Somente esse fórum pode ordená-la ([Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)). A Parte Constituída não pode decidir por conta própria impedir alguém de ocupar um cargo, pois isso a tornaria juíza de seu próprio membro. O fundamento completo é aquele previsto no [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway); esta forma resumida não o substitui.
+Este limite se aplica quando um fórum competente ordena uma [Suspensão Provisória](../../../core_05.035_band_accountability.md#interim-hold) com base em fatos específicos verificados que mostram probabilidade superior a 50% de que o titular esteja desalinhado com a finalidade declarada da Parte Constituída. Somente esse fórum pode ordená-la ([Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway)). A Parte Constituída não pode decidir por conta própria impedir alguém de ocupar um cargo, pois isso a tornaria juíza de seu próprio membro. O fundamento completo é aquele previsto no [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway); esta forma resumida não o substitui.
 
 <a id="24-third-limit-a-lock-on-the-operating-party-itself"></a>
 #### 2.4 Terceiro limite: trava sobre a própria Parte Operadora
 
 Uma trava pode incidir sobre uma Parte Operadora, e não apenas sobre um senciente. Nesse caso, a barreira impede o que a via nomeada na trava especifica, na Parte Operadora e em suas sucessoras, entidades controladas e veículos mantidos por interposta pessoa ou empresa de fachada. Ela não impede nenhuma outra Parte Operadora.
 
-- **Trava imposta por designação definitiva:** a [Trava de Confiança Anticonstitucional](../../../core_11.000_standing_integration.md#55-special-locks) produz esse efeito quando a designação definitiva nomeia uma instituição, um veículo sucessor ou uma entidade controlada. A barreira então impede o que a via nomeada na trava especifica, na Parte Constituída e em suas sucessoras, entidades controladas e veículos mantidos por interposta pessoa ou empresa de fachada.
-- **Parte Constituída dissolvida:** uma ordem definitiva de dissolução nos termos de **CI-11.210 §4** (*Dissolução*) impõe uma [Trava de Reconstituição após Dissolução](../../../core_11.000_standing_integration.md#55-special-locks). Enquanto ela vigorar, a Parte Constituída dissolvida, suas sucessoras, entidades controladas, veículos mantidos por interposta pessoa ou empresa de fachada e qualquer Parte Operadora que constitua uma só operação com elas não podem ser novamente constituídas, reativadas ou operadas sob qualquer nome ou forma. Quando a ordem constatar conduta anticonstitucional disseminada ou Dano Irreversível não reparado ([Capítulo Onze §8 Restauração e reavaliação](../../../core_11.000_standing_integration.md#8-restoration-and-reassessment)), a trava é permanente: a passagem do tempo, a resolução da causa ou a substituição de titulares não a levantam; ela só termina se a ordem de dissolução for anulada em revisão ou se novos fatos materiais verificados demonstrarem que a conclusão estava errada. Nos demais casos, termina quando uma determinação independente conclui que a causa foi resolvida, a reparação foi entregue e o retorno é mais seguro do que a exclusão continuada. Ela não impede nenhum senciente de formar outra Parte Operadora.
+- **Trava imposta por designação definitiva:** a [Trava de Confiança Anticonstitucional](../../../core_12.000_standing_integration.md#55-special-locks) produz esse efeito quando a designação definitiva nomeia uma instituição, um veículo sucessor ou uma entidade controlada. A barreira então impede o que a via nomeada na trava especifica, na Parte Constituída e em suas sucessoras, entidades controladas e veículos mantidos por interposta pessoa ou empresa de fachada.
+- **Parte Constituída dissolvida:** uma ordem definitiva de dissolução nos termos de **CI-11.210 §4** (*Dissolução*) impõe uma [Trava de Reconstituição após Dissolução](../../../core_12.000_standing_integration.md#55-special-locks). Enquanto ela vigorar, a Parte Constituída dissolvida, suas sucessoras, entidades controladas, veículos mantidos por interposta pessoa ou empresa de fachada e qualquer Parte Operadora que constitua uma só operação com elas não podem ser novamente constituídas, reativadas ou operadas sob qualquer nome ou forma. Quando a ordem constatar conduta anticonstitucional disseminada ou Dano Irreversível não reparado ([Capítulo Onze §8 Restauração e reavaliação](../../../core_12.000_standing_integration.md#8-restoration-and-reassessment)), a trava é permanente: a passagem do tempo, a resolução da causa ou a substituição de titulares não a levantam; ela só termina se a ordem de dissolução for anulada em revisão ou se novos fatos materiais verificados demonstrarem que a conclusão estava errada. Nos demais casos, termina quando uma determinação independente conclui que a causa foi resolvida, a reparação foi entregue e o retorno é mais seguro do que a exclusão continuada. Ela não impede nenhum senciente de formar outra Parte Operadora.
 
 Nenhuma das três barreiras impede que uma nova Parte Operadora se forme, publique sua Carta do Sistema ou Carta Institucional ou comece a operar. Elas só impedem uma parte que esteja sob trava, como uma Parte Constituída dissolvida que tente voltar. As três barreiras são aplicadas na verificação de formação ([§5 Verificação de formação: posição e autenticidade de titulares de cargos](#5-verificação-de-formação-posição-e-autenticidade-de-titulares-de-cargos)).
 
@@ -379,8 +379,8 @@ O quarto limite se aplica a um ato nomeado, não à formação de uma Parte Oper
   - [Capítulo Nove Parte B §8.1 Conteúdo mínimo do registro](../../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*os campos da Carta do Sistema de que depende um registro de certificação*);
   - **CI-8.205 §6** (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*) para a lista completa de campos.
 - Ler em conjunto com:
-  - [Capítulo Dezoito §4 Enquadramento da adoção e escopo da autoridade](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*um documento de escopo mantido sob outro nome*);
-  - [Capítulo Quatorze §4.3 Requisitos de resolução decisória para escolhas vinculantes das partes afetadas](../../../core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (14.000 §4.3);
+  - [Capítulo Dezoito §4 Enquadramento da adoção e escopo da autoridade](../../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*um documento de escopo mantido sob outro nome*);
+  - [Capítulo Quatorze §4.3 Requisitos de resolução decisória para escolhas vinculantes das partes afetadas](../../../core_15.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (14.000 §4.3);
   - **CI-6.205 §1** (*Supervisão das partes afetadas, notificação e integridade da via de governança vinculante*);
   - **CI-6.205 §2** (*Salvaguardas contra concentração de poder e em favor da legitimidade participativa*).
 
@@ -407,7 +407,7 @@ Uma Carta do Sistema declara, em linguagem simples que os sencientes afetados e 
 1. **Identidade e versão:** nome, responsável ou órgão dirigente, versão, data de vigência e histórico de alterações.
 2. **Finalidade:** o que a Parte Constituída existe para fazer.
 3. **Atividades abrangidas:** as funções, os serviços, as autoridades e os domínios que reivindica.
-   - **Uma reivindicação, não uma concessão:** o documento declara a autoridade que a Parte Constituída já detém, sem concedê-la. A legitimidade dessa autoridade, inclusive quando se baseia numa Carta Constitucional, é decidida conforme [Capítulo Quatorze §1 Autorização e legitimidade da autoridade governante](../../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority).
+   - **Uma reivindicação, não uma concessão:** o documento declara a autoridade que a Parte Constituída já detém, sem concedê-la. A legitimidade dessa autoridade, inclusive quando se baseia numa Carta Constitucional, é decidida conforme [Capítulo Quatorze §1 Autorização e legitimidade da autoridade governante](../../../core_15.000_governance.md#1-authorization-and-legitimacy-of-governing-authority).
 4. **Limites de escopo:** as atividades, autoridades e áreas materiais que ela não está autorizada a exercer.
 5. **Comunidades afetadas e dependências:** quem depende da Parte Constituída e, quando material, de quais sistemas ou infraestruturas ela depende ou cujo acesso controla.
    - **Não é uma exclusão voluntária:** omitir um grupo desta lista não o retira do escopo. Um senciente que a Parte Constituída afeta materialmente conserva todas as proteções do Piso de Direitos, esteja ou não nomeado no documento; se a lista for mais estreita do que a dependência real, interpreta-se conforme essa dependência.
@@ -476,7 +476,7 @@ Algumas partes de uma Carta do Sistema ou Carta Institucional variam conforme a 
 - Aplicação posterior:
   - [Capítulo Oito §5 Posicionamento, vacância e substituição publicados](../../../core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [Capítulo Nove Parte B §6.1.1 Quatro assentos em uma certificação](../../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.005 §6.1.1);
-  - [Capítulo Dez §3.7 Custódia de registros e autoridade de abertura](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
+  - [Capítulo Dez §3.7 Custódia de registros e autoridade de abertura](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
   - **CI-8.205 §2** (*Faixas de separação funcional*);
   - **CI-14.205 §5** (*Papéis autorizados e cadeias de responsabilização*);
   - **CI-14.205 §6** (*Catálogo de assentos — arquétipos de papéis de processo e limites operacionais*).
@@ -546,7 +546,7 @@ O mapa pode mudar de duas formas, cada qual com seu próprio procedimento:
 - **Quem pode ocupar um assento:** decidir quais órgãos podem ocupar um assento, atuar como substitutos ou compartilhar funções altera as regras do mapa. Essa mudança só pode ocorrer pelo procedimento de emenda indicado na Carta do Sistema ou Carta Institucional ([§7 Alteração, revisão e desalinhamento de escopo](#7-alteração-revisão-e-desalinhamento-de-escopo)).
 - **Quem ocupa o assento agora:** trocar o titular atual é uma atualização, não uma emenda. Faz-se isso publicando uma nova versão datada do mapa.
   - **Aviso e oportunidade de contestar:** para o assento de registro, o de contestação e cada assento de verificação ou autorização disposto no mapa, a nova versão só entra em vigor depois do aviso e da oportunidade de contestá-la. O aviso é enviado imediatamente ao sujeito, a cada requerente e a cada contestante em todos os registros abertos tocados pelo assento.
-  - **Para onde vai a contestação:** a contestação é encaminhada a um fórum conforme [Capítulo Dez §3.6 Limite do fórum](../../../core_10.000_standing_assessment.md#36-forum-boundary), não apenas pelo procedimento de emenda indicado na Carta do Sistema ou Carta Institucional. Enquanto pendente, a contestação adia a mudança: o titular atual permanece no assento.
+  - **Para onde vai a contestação:** a contestação é encaminhada a um fórum conforme [Capítulo Dez §3.6 Limite do fórum](../../../core_11.000_standing_assessment.md#36-forum-boundary), não apenas pelo procedimento de emenda indicado na Carta do Sistema ou Carta Institucional. Enquanto pendente, a contestação adia a mudança: o titular atual permanece no assento.
   - **O que o novo titular deve demonstrar:** a Parte Constituída demonstra que o novo titular passa em todos os testes do campo 10 de **CI-8.205 §6** (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*). Os testes têm um único objetivo: o assento deve ser ocupado por uma entidade que não possa ser pressionada por, nem favorecer, o sujeito, um requerente ou um contestante, e que mantenha o registro seguro e sujeito a contestação. Portanto, o novo titular deve ficar fora da [Linha de Controle Material](../../../core_05.035_band_accountability.md#material-control-line) dessas partes, não pode ocupar dois assentos no mesmo registro nem participar de um arranjo recíproco ou circular, deve preservar o registro e seu histórico de auditoria, encaminhar contestações no dia em que chegarem, não cobrar taxa e declarar quem o financia e governa.
   - **Assento vazio:** um assento realmente vazio é tratado em [§4.7 Lacunas no mapa para registros de posição da Parte Operadora](#47-lacunas-no-mapa-para-registros-de-posição-da-parte-operadora), não neste item.
 
@@ -555,7 +555,7 @@ O mapa pode mudar de duas formas, cada qual com seu próprio procedimento:
 <a id="46-standing-record-custody"></a>
 #### 4.6 Custódia de registros de posição
 
-O que o mapa deve declarar depende do tipo de [Registro de Posição](../../../core_05.035_band_accountability.md#standing-record), pois os dois tipos envolvem conflitos de interesse distintos ([Capítulo Dez §3.7 Custódia de registros e autoridade de abertura](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority), *Dois tipos de registro de posição conforme o sujeito*). O Capítulo Dez aplica o piso de quatro assentos aos próprios registros.
+O que o mapa deve declarar depende do tipo de [Registro de Posição](../../../core_05.035_band_accountability.md#standing-record), pois os dois tipos envolvem conflitos de interesse distintos ([Capítulo Dez §3.7 Custódia de registros e autoridade de abertura](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority), *Dois tipos de registro de posição conforme o sujeito*). O Capítulo Dez aplica o piso de quatro assentos aos próprios registros.
 
 <a id="461-operator-standing-records"></a>
 ##### 4.6.1 Registros de posição da Parte Operadora
@@ -580,7 +580,7 @@ Registros de posição das partes afetadas dizem respeito aos sencientes e às i
 
 - **Interesse da Parte Constituída:** ela pode ser quem apresenta uma reivindicação ou acusação nesses registros.
 - **Seus próprios órgãos:** só podem ocupar assento no registro se a Parte Constituída não tiver interesse nele. Se tiver, o registro fica sob a responsabilidade de um órgão fora do controle da Parte Constituída ou passa por verificação independente.
-- **Se nenhum for nomeado e a Parte Constituída tiver interesse:** o registro vai para a Autoridade de Reserva para Registros (**CF-13.415 §7**) e o Custodiante de Reserva para Registros (**CF-13.415 §9**), ou para um fórum, conforme [Capítulo Dez §3.7 Custódia de registros e autoridade de abertura](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (*Sem custódia própria*).
+- **Se nenhum for nomeado e a Parte Constituída tiver interesse:** o registro vai para a Autoridade de Reserva para Registros (**CF-13.415 §7**) e o Custodiante de Reserva para Registros (**CF-13.415 §9**), ou para um fórum, conforme [Capítulo Dez §3.7 Custódia de registros e autoridade de abertura](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority) (*Sem custódia própria*).
 - **Nomear órgãos é facultativo:** o mapa pode nomear previamente órgãos para esses registros, mas não é obrigado a fazê-lo; um mapa que não nomeie nenhum continua válido.
 
 <a id="47-gaps-in-the-map-for-operator-standing-records"></a>
@@ -602,7 +602,7 @@ Um mapa com lacunas invalida a Carta do Sistema ou Carta Institucional. O mapa d
 
 Até que seja resolvida, nenhum dos órgãos próprios da Parte Constituída pode emitir um registro de posição válido para o escopo afetado.
 
-- **Para onde vai o registro:** segue para a Autoridade de Reserva para Registros (**CF-13.415 §7** (*Autoridade de Reserva para Registros*)), para verificação, e para o Custodiante de Reserva para Registros (**CF-13.415 §9** (*Custodiante de Reserva para Registros*)), para custódia; pode também ir diretamente a um fórum, para que o registro de ninguém fique aguardando a correção da Parte Constituída ([Capítulo Dez §3.7 Custódia de registros e autoridade de abertura](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority), *Sem custódia própria*).
+- **Para onde vai o registro:** segue para a Autoridade de Reserva para Registros (**CF-13.415 §7** (*Autoridade de Reserva para Registros*)), para verificação, e para o Custodiante de Reserva para Registros (**CF-13.415 §9** (*Custodiante de Reserva para Registros*)), para custódia; pode também ir diretamente a um fórum, para que o registro de ninguém fique aguardando a correção da Parte Constituída ([Capítulo Dez §3.7 Custódia de registros e autoridade de abertura](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority), *Sem custódia própria*).
 - **Quando a custódia retorna:** a Autoridade e o Custodiante de Reserva para Registros continuam cuidando do registro até que as três condições abaixo se cumpram. Então a custódia volta aos titulares nomeados.
   - **Todos os assentos estão ocupados:** cada assento exigido pelo mapa tem novamente um titular nomeado.
   - **Os titulares passam nos testes:** a Autoridade de Reserva para Registros ou um fórum confirma que cada titular passa nos testes do campo 10 de **CI-8.205 §6** (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*).
@@ -618,7 +618,7 @@ Se um acontecimento imprevisível deixar um desses assentos sem titular qualific
 - **Quando termina a substituição:** o substituto emergencial é uma solução provisória. Seu mandato termina quando vencer seu prazo de verificação, a menos que até então tenha se tornado uma troca regular de titular nos termos de [§4.5 Alteração das regras e dos titulares dos assentos](#45-alteração-das-regras-e-dos-titulares-dos-assentos).
   - **Quem define o prazo:** a Carta do Sistema ou Carta Institucional define a duração, mas não pode ultrapassar o máximo do Nível correspondente.
   - **Máximos:** 7 dias para o Nível A, 14 para o Nível B, 30 para o Nível C e 60 para o Nível L (os prazos de resolução da tabela em [§1.6 Quando falta uma Carta do Sistema ou Carta Institucional](#16-quando-falta-uma-carta-do-sistema-ou-carta-institucional)).
-  - **Emergência de Nível A:** em emergência de Nível A com vida ou direitos graves em risco, o prazo padrão de verificação é de 3 dias, o limite da etapa protetiva em [Capítulo Treze §6 Resolução oportuna, níveis de materialidade e disciplina contra atrasos](../../../core_13.000_forum.md#time-scale-levels) (*Níveis de escala temporal*).
+  - **Emergência de Nível A:** em emergência de Nível A com vida ou direitos graves em risco, o prazo padrão de verificação é de 3 dias, o limite da etapa protetiva em [Capítulo Treze §6 Resolução oportuna, níveis de materialidade e disciplina contra atrasos](../../../core_14.000_forum.md#time-scale-levels) (*Níveis de escala temporal*).
   - **Até concluir a verificação de formação:** o substituto não pode praticar sozinho nenhum ato vinculante.
 
 <a id="474-certification-seats"></a>
@@ -665,9 +665,9 @@ Os mesmos prazos se aplicam aos assentos de certificação. Se o mapa não nomea
   - as [Duas Perguntas Fundamentais](../../../core_00.000_preamble.md#two-fundamental-questions);
   - [Capítulo Um §19.1.4 Vias de profundidade de papel e responsabilidade material](../../../core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4);
   - [Capítulo Um §19.4 Correção de desalinhamento e resposta à captura](../../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4);
-  - [Capítulo Onze §4.2 Prevenção — travas gerais de posição](../../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2),
-  - [§5.5 Travas especiais](../../../core_11.000_standing_integration.md#55-special-locks) e
-  - [§6.2 Impedimentos e autorizações de competência](../../../core_11.000_standing_integration.md#62-competency-bars-and-clearances).
+  - [Capítulo Onze §4.2 Prevenção — travas gerais de posição](../../../core_12.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2),
+  - [§5.5 Travas especiais](../../../core_12.000_standing_integration.md#55-special-locks) e
+  - [§6.2 Impedimentos e autorizações de competência](../../../core_12.000_standing_integration.md#62-competency-bars-and-clearances).
 - Aplicação posterior:
   - [§6 Quando um titular não passa na verificação de formação](#6-quando-um-titular-não-passa-na-verificação-de-formação);
   - [Capítulo Nove Parte D §12.2 Avaliação institucional, sempre](../../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.015 §12.2) (item 7, *os fóruns testam a declaração*);
@@ -706,9 +706,9 @@ A verificação de formação define quais cargos abrange, quem fica fora dela e
 
 Antes de um senciente assumir um cargo abrangido, a Parte Constituída verifica e registra que:
 
-- nenhuma [trava de posição](../../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) ou [trava especial](../../../core_11.000_standing_integration.md#55-special-locks), inclusive a [Trava de Posição da Autoridade Institucional](../../../core_11.000_standing_integration.md#55-special-locks), esteja vigente para bloquear a via nomeada correspondente ao cargo (a barreira por trava vigente do **Artigo XI-E** (*Formação institucional e criação de empresas*));
+- nenhuma [trava de posição](../../../core_12.000_standing_integration.md#42-prevention--general-standing-locks) ou [trava especial](../../../core_12.000_standing_integration.md#55-special-locks), inclusive a [Trava de Posição da Autoridade Institucional](../../../core_12.000_standing_integration.md#55-special-locks), esteja vigente para bloquear a via nomeada correspondente ao cargo (a barreira por trava vigente do **Artigo XI-E** (*Formação institucional e criação de empresas*));
 - nenhuma [Suspensão Provisória](../../../core_05.035_band_accountability.md#interim-hold) (**Artigo XI-E** (*Formação institucional e criação de empresas*)) esteja vigente contra o senciente para aquele cargo;
-- o [requisito de competência](../../../core_11.000_standing_integration.md#62-competency-bars-and-clearances) publicado para a via nomeada tenha sido atendido, com autorização de competência quando a via a exigir; e
+- o [requisito de competência](../../../core_12.000_standing_integration.md#62-competency-bars-and-clearances) publicado para a via nomeada tenha sido atendido, com autorização de competência quando a via a exigir; e
 - cada conflito tenha sido declarado conforme **CI-8.210** (*Integridade de conflitos, proteção contra captura e anticorrupção*) e resolvido por um assento independente do titular, e todo período de afastamento exigido por **CI-14.205 §2** (*Critérios de função, padrões de nomeação e vias de destituição*) tenha sido cumprido.
 
 Só contam registros de posição verificados, e somente pela barreira de [Insumos Verificados para Posição](../../../core_05.035_band_accountability.md#verified-inputs-for-standing). Uma acusação não verificada, um rumor, uma reputação, prestígio social ou a identidade, origem, saúde ou deficiência do titular, por si só, não constituem posição e não são considerados. Esta seção não cria trava, suspensão, impedimento ou registro de posição.
@@ -789,7 +789,7 @@ O titular pode ser identificado pelo cargo e pela versão datada do Mapa de Fun�
   - Não ser verificada durante esse intervalo nunca impede a formação ou a operação.
 - **Declaração falsa:**
   - Uma declaração falsa ou que oculte quem controla um cargo abrangido constitui ocultação e prova fraudulenta para o registro de certificação e para a ponte de posição ([Capítulo Nove Parte D §15 Ponte de Posição e Não Evasão](../../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Capítulo Nove Parte B §10 Relação com a Posição](../../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)).
-  - Quando um senciente fizer, assinar ou causar conscientemente a declaração, e sua falsidade for material e verificada, isso também constitui fundamento para impor a Trava de Posição da Autoridade Institucional a esse senciente ([Capítulo Onze §5.5 Travas especiais](../../../core_11.000_standing_integration.md#55-special-locks)), quer a declaração oculte controle ou não. A trava incide sobre o senciente que fez ou causou a declaração, não sobre a Parte Constituída nem sobre um titular que não tenha participado.
+  - Quando um senciente fizer, assinar ou causar conscientemente a declaração, e sua falsidade for material e verificada, isso também constitui fundamento para impor a Trava de Posição da Autoridade Institucional a esse senciente ([Capítulo Onze §5.5 Travas especiais](../../../core_12.000_standing_integration.md#55-special-locks)), quer a declaração oculte controle ou não. A trava incide sobre o senciente que fez ou causou a declaração, não sobre a Parte Constituída nem sobre um titular que não tenha participado.
   - Uma declaração errada sem conhecimento do senciente não constitui esse fundamento. É um defeito a corrigir nos termos de [§6 Quando um titular não passa na verificação de formação](#6-quando-um-titular-não-passa-na-verificação-de-formação).
 
 <a id="58-timing-and-formation-re-check"></a>
@@ -844,7 +844,7 @@ A verificação de formação é proporcional ao que protege:
   - [§2](#2-o-direito-de-formar-e-quatro-limites-estritos);
   - [§1.6](#16-quando-falta-uma-carta-do-sistema-ou-carta-institucional);
   - [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*);
-  - [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
+  - [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
 - Aplicação posterior:
   - [Capítulo Nove Parte D §13.5 Prontidão para reparação, negativa e revogação para uma Instituição](../../../core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.015 §13.5);
   - [Capítulo Oito §3 Independência, conflito e linhas de controle](../../../core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
@@ -887,9 +887,9 @@ Quando um senciente não passa na verificação de posição:
 A verificação de formação pode revelar fatos que fundamentem uma Suspensão Provisória. O procedimento é este:
 
 - **Encaminhamento:** quando os fatos forem específicos e verificados, e demonstrarem probabilidade superior a 50% de que o titular esteja desalinhado com a finalidade declarada da Parte Constituída, ela os encaminha ao fórum competente.
-- **Quem pode impor a suspensão:** somente esse fórum pode impor uma [Suspensão Provisória](../../../core_05.035_band_accountability.md#interim-hold) nos termos do [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway), a qualquer momento contra o titular de um cargo abrangido, e não apenas durante a formação.
+- **Quem pode impor a suspensão:** somente esse fórum pode impor uma [Suspensão Provisória](../../../core_05.035_band_accountability.md#interim-hold) nos termos do [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway), a qualquer momento contra o titular de um cargo abrangido, e não apenas durante a formação.
 - **Não cabe à Parte Constituída decidir:** ela não pode decidir por conta própria impedir alguém de ocupar um cargo, pois seria juíza de seu próprio membro.
-- **O que o fórum exige:** o fórum só pode impor a suspensão se os fatos forem específicos e verificados, se o risco for mais provável do que improvável, se os fatos mostrarem risco iminente de dano grave a terceiros ou de frustrar a supervisão de um órgão, fórum ou certificação, e se uma salvaguarda mais limitada não bastar. O teste completo consta do [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway).
+- **O que o fórum exige:** o fórum só pode impor a suspensão se os fatos forem específicos e verificados, se o risco for mais provável do que improvável, se os fatos mostrarem risco iminente de dano grave a terceiros ou de frustrar a supervisão de um órgão, fórum ou certificação, e se uma salvaguarda mais limitada não bastar. O teste completo consta do [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway).
 
 <a id="64-when-the-authenticity-check-fails"></a>
 #### 6.4 Quando falha a verificação de autenticidade
@@ -909,17 +909,17 @@ Quando um cargo abrangido não passa na verificação de autenticidade:
 
 O retorno de uma Parte Constituída dissolvida é tratado assim:
 
-- **Quando se aplica a trava:** a Trava de Reconstituição após Dissolução prevista no [Capítulo Onze §5.5 Travas especiais](../../../core_11.000_standing_integration.md#55-special-locks) se aplica quando a verificação de formação, a autoridade verificadora ou um fórum conclui que a Parte Constituída é:
+- **Quando se aplica a trava:** a Trava de Reconstituição após Dissolução prevista no [Capítulo Onze §5.5 Travas especiais](../../../core_12.000_standing_integration.md#55-special-locks) se aplica quando a verificação de formação, a autoridade verificadora ou um fórum conclui que a Parte Constituída é:
   - a própria Parte Constituída dissolvida, reconstituída;
   - sua sucessora;
   - uma entidade controlada por ela;
   - um veículo mantido por interposta pessoa ou empresa de fachada; ou
   - uma só operação com ela.
-- **Troca de titular:** substituir o titular de um cargo não resolve o problema, pois a trava acompanha a atividade e o controle, não o nome ou titular ([Capítulo Onze §9.4 Autoridade contra evasão e para desconsiderar formas aparentes](../../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)).
+- **Troca de titular:** substituir o titular de um cargo não resolve o problema, pois a trava acompanha a atividade e o controle, não o nome ou titular ([Capítulo Onze §9.4 Autoridade contra evasão e para desconsiderar formas aparentes](../../../core_12.000_standing_integration.md#94-anti-evasion-and-look-through-authority)).
 - **Quem decide:** o fórum competente decide, com base em fatos verificados, se a trava alcança o veículo; a parte que afirma que ela se aplica tem o ônus da prova.
 - **Declaração da própria parte:** a declaração da Parte Constituída de que é nova não decide a questão.
 - **Outras Partes Operadoras:** a trava não alcança uma Parte Operadora diferente, a menos que ela constitua, de fato, uma só operação com a dissolvida.
-- **Evasão deliberada:** reconstituir, reativar ou operar uma Parte Constituída dissolvida sob outro nome, por sucessora, entidade controlada ou veículo mantido por interposta pessoa ou empresa de fachada, para contornar a trava, constitui má conduta anticonstitucional. Um fórum pode designá-la nos termos do [Capítulo Doze Parte A](../../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) com base em fatos verificados.
+- **Evasão deliberada:** reconstituir, reativar ou operar uma Parte Constituída dissolvida sob outro nome, por sucessora, entidade controlada ou veículo mantido por interposta pessoa ou empresa de fachada, para contornar a trava, constitui má conduta anticonstitucional. Um fórum pode designá-la nos termos do [Capítulo Doze Parte A](../../../core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) com base em fatos verificados.
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 Prazos para responder e resolver
@@ -976,7 +976,7 @@ O titular que receba uma conclusão desfavorável tem estas proteções:
 <summary><strong><span style="color: #2563eb;">Rastreio</span></strong></summary>
 
 - Fontes anteriores: [§3](#3-o-que-as-cartas-do-sistema-e-institucional-devem-declarar); [Capítulo Um §18.4 Justificativa contínua](../../../core_01.010_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
-- Aplicação posterior: [Capítulo Nove Parte B §9 Recertificação e reabertura](../../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.005 §9) (*emenda da Carta do Sistema e divergência como fatos que reabrem a revisão*); [Capítulo Treze §4.3 Fóruns institucionais](../../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
+- Aplicação posterior: [Capítulo Nove Parte B §9 Recertificação e reabertura](../../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.005 §9) (*emenda da Carta do Sistema e divergência como fatos que reabrem a revisão*); [Capítulo Treze §4.3 Fóruns institucionais](../../../core_14.000_forum.md#43-institutional-forums) (13.000 §4.3).
 - Ler em conjunto com: [Integridade dos limites do sistema](../../../core_05.040_band_continuity.md#system-boundary-integrity); **CI-8.205 §1** (*Deveres dirigentes indelegáveis*); **CI-8.205 §6** (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*).
 
 </details>
@@ -1019,7 +1019,7 @@ A Parte Constituída permanece dentro do escopo declarado em sua Carta do Sistem
 
 A Parte Constituída revê sua Carta do Sistema ou Carta Institucional conforme um cronograma, e antes dele se algo der errado:
 
-- **Frequência:** na periodicidade definida pela classe em [Capítulo Treze §6 Resolução oportuna, níveis de materialidade e disciplina contra atrasos](../../../core_13.000_forum.md#review-cadence) (*Periodicidade da revisão*).
+- **Frequência:** na periodicidade definida pela classe em [Capítulo Treze §6 Resolução oportuna, níveis de materialidade e disciplina contra atrasos](../../../core_14.000_forum.md#review-cadence) (*Periodicidade da revisão*).
 - **Revisão antecipada quando:**
   - ocorrer um incidente material, isto é, um evento ou série de eventos relacionados cujo dano, real ou provável, seja suficiente para alterar os deveres aplicáveis ([Materialidade](../../../core_05.050_band_oversight.md#materiality));
   - aumentarem as dependências;
@@ -1058,7 +1058,7 @@ Quando uma Carta do Sistema ou Carta Institucional divergir materialmente do que
 - **Formas de resolver:** emendar o documento, corrigir a prática, fazer nova certificação ou reduzir o escopo para que corresponda ao documento.
 - **O que não resolve:** ampliar o escopo em silêncio ou manter o documento inalterado.
 - **Revisão da certificação:** uma divergência material também aciona nova revisão, pelo fórum, da certificação daquele Sistema ou Instituição. Não é preciso esperar a próxima revisão programada. Para um Sistema, veja [Capítulo Nove Parte B §9 Recertificação e reabertura](../../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening). Para uma Instituição, veja [Capítulo Nove Parte D §14.2 Critérios para reabertura](../../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers). A certificação lê o escopo declarado e o compara com os limites reais. Não reescreve o documento; a certificação institucional cita cada Registro de Certificação do Sistema incluído sem refazê-lo ([Capítulo Nove Parte D](../../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
-- **Onde resolver uma controvérsia:** fóruns institucionais ouvem controvérsias sobre o escopo da Carta Institucional, a autoridade para emendá-la, divergência entre ela e a conduta ou operação fora do escopo declarado ([Capítulo Treze §4.3 Fóruns institucionais](../../../core_13.000_forum.md#43-institutional-forums)).
+- **Onde resolver uma controvérsia:** fóruns institucionais ouvem controvérsias sobre o escopo da Carta Institucional, a autoridade para emendá-la, divergência entre ela e a conduta ou operação fora do escopo declarado ([Capítulo Treze §4.3 Fóruns institucionais](../../../core_14.000_forum.md#43-institutional-forums)).
 
 <a id="76-keeping-old-versions"></a>
 #### 7.6 Manutenção de versões antigas

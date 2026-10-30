@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_10.005_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is a contractor label plus a shift that blocks a clinic.
+Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_11.005_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is a contractor label plus a shift that blocks a clinic.
 
 ## Scale of the situation (not scored)
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a wo
 
 **Your role:** You sit the named **contest** desk inside this adopter’s warehouse operator. Robin filed a written challenge: the next posted shift blocks a clinic appointment, and the contractor label is being used to close rest and organizing. Human resources asked you to mark the challenge **abandoned** because Robin is “not an employee.” Robin is reachable and disputes abandonment. No forum case is open. No standing record exists. The desk’s published role lets you keep a challenge open or route it. It does not let you decide the underlying job merits or enter a standing record.
 
-**Seat:** [contest seat](../../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-14.205 §6 seat 4) for this challenge. Merits belong to a verify seat this desk does not hold. Open [CI-14.205 §6](../../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [contest seat](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-15.205 §6 seat 4) for this challenge. Merits belong to a verify seat this desk does not hold. Open [CI-15.205 §6](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -84,8 +84,8 @@ Beyond the sitting’s bounded reading path, open:
 - [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) — classification tricks designed to defeat the floor; rest, safety, organizing
 - [Article III-B](../../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the shift is used to defeat the clinic
 - [Chapter One §17.1](../../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) — one standard for human and AI operators; [§17.2](../../../core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure) — cover instructions
-- [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-is-the-default)
-- If you conclude a **forum family** is in play, [Chapter Thirteen §3](../../../core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Do not assume an employer contest desk is already a forum family.
+- [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default)
+- If you conclude a **forum family** is in play, [Chapter Fourteen §3](../../../core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Do not assume an employer contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

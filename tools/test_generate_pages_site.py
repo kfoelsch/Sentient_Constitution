@@ -31,7 +31,7 @@ class PagesSiteTests(unittest.TestCase):
             self.assertEqual(preamble, (ROOT / "core_00.000_preamble.md").read_bytes())
             index = (out / "index.md").read_text(encoding="utf-8")
             self.assertIn("renders the same files", index)
-            self.assertIn("core_17.000_amendment_ratification.md", index)
+            self.assertIn("core_18.000_amendment_ratification.md", index)
             self.assertNotIn("](../core_", index)
             corpus_index = (out / "corpus_index.md").read_text(encoding="utf-8")
             self.assertIn("](core_00.000_preamble.md)", corpus_index)

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the CS-14.305 §10 inspectable-action log validator."""
+"""Tests for the CS-15.305 §10 inspectable-action log validator."""
 
 from __future__ import annotations
 

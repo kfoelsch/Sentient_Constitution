@@ -297,25 +297,25 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Ten — §4 LEQU baseline](core_10.000_standing_assessment.md#lequ-baseline-constitutional-outcome) (10.000 §4) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [Chapter Ten §7 unified proportional LEQU scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (10.000 §7) for the Contribution and Violation axes.
+- Canonical owner: [Chapter Eleven — §4 LEQU baseline](core_11.000_standing_assessment.md#lequ-baseline-constitutional-outcome) (11.000 §4) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [Chapter Eleven §7 unified proportional LEQU scale](core_11.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §7) for the Contribution and Violation axes.
 
 </details>
 
 <br>
 
-*In plain terms: a shared unit for expressing full-life-equivalent benefit or loss when Chapter Ten standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.*
+*In plain terms: a shared unit for expressing full-life-equivalent benefit or loss when Chapter Eleven standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.*
 
 - **What it is**
-  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Ten §7 unified scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Five pointer; canonical mechanics live in Chapter Ten **§7 Unified proportional LEQU scale — Contribution and Violation Axes**.
-  - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Chapter Ten unified scale.
+  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Eleven §7 unified scale](core_11.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Five pointer; canonical mechanics live in Chapter Eleven **§7 Unified proportional LEQU scale — Contribution and Violation Axes**.
+  - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Chapter Eleven unified scale.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether LEQU is applied only as Chapter Ten's unified scale requires — with contribution and violation kept separate and auditable.
+  - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether LEQU is applied only as Chapter Eleven's unified scale requires — with contribution and violation kept separate and auditable.
 
-    **Primary assessment:** Apply **only** as implemented consistently with the Chapter Ten **§7** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, preserving separate contribution and violation records. Read with [Materiality](core_05.050_band_oversight.md#materiality) where magnitude disputes are material.
+    **Primary assessment:** Apply **only** as implemented consistently with the Chapter Eleven **§7** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, preserving separate contribution and violation records. Read with [Materiality](core_05.050_band_oversight.md#materiality) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
 - **What must hold**
-  - **Primary failure:** undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Chapter Ten **§7** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale calibration rules.
+  - **Primary failure:** undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Chapter Eleven **§7** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale calibration rules.
 
 ---
 
@@ -326,12 +326,12 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Thirteen §4.4 Environment Forums](core_13.000_forum.md#44-environment-forums) (13.000 §4.4) (*representative filing for continuity and integrity interests*).
+- Downstream: [Chapter Fourteen §4.4 Environment Forums](core_14.000_forum.md#44-environment-forums) (14.000 §4.4) (*representative filing for continuity and integrity interests*).
 - Read with:
   - [Indigenous Continuity](core_05.040_band_continuity.md#indigenous-continuity) (*indigenous-continuity holder as a published-representative class*);
   - [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity);
   - [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions);
-  - **[CF-13.415](corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md#cf-13415-routing-operations-transfer-certification-and-representative-treatment)** (*Routing operations, transfer, certification, and representative treatment*) (*appointment, recusal, and publication of natural-systems representatives*).
+  - **[CF-14.415](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-certification-and-representative-treatment)** (*Routing operations, transfer, certification, and representative treatment*) (*appointment, recusal, and publication of natural-systems representatives*).
 
 </details>
 
@@ -346,7 +346,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether life-supporting natural systems' continuity and integrity interests are counted in interpretation and governance — not dismissed as scenery or stockpile — and whether a published representative may bring those interests to an Environment Forum in the system's own interest.
 
-    **Primary assessment:** Align with [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity), [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions), [Harm](core_05.035_band_accountability.md#harm), and [Risk](core_05.040_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition. [Chapter Thirteen §4.4 Environment Forums](core_13.000_forum.md#44-environment-forums) states the Environment-forum filing floor; **CF-13.415** — Routing operations, transfer, certification, and representative treatment, recusal, and publication rules must implement, not narrow, that floor.
+    **Primary assessment:** Align with [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity), [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions), [Harm](core_05.035_band_accountability.md#harm), and [Risk](core_05.040_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition. [Chapter Fourteen §4.4 Environment Forums](core_14.000_forum.md#44-environment-forums) states the Environment-forum filing floor; **CF-14.415** — Routing operations, transfer, certification, and representative treatment, recusal, and publication rules must implement, not narrow, that floor.
 <a id="natural-systems-standing-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -420,7 +420,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
   - **Boundary — capability:** [Graduated Capability](core_05.055_band_participation.md#graduated-capability) and **Developing Sentient** rules may scale how rights are exercised. They do not scale, suspend, or divide personhood.
   - **Out of scope:**
     - legal personality or entity status that an external legal order gives institutions, corporations, systems, or other organizational forms so they can operate — that status is governed by applicable law and this Constitution's institutional rules, and does not make the entity a Chapter Six rights-holder;
-    - natural systems and ecosystems, whose interests are protected under [Natural Systems Standing](core_05.055_band_participation.md#natural-systems-standing) rather than through personhood — extending personhood to them is a question for additive expansion under [Chapter Sixteen §1 Additive Expansion Permitted](core_16.000_expansion_supremacy.md#1-additive-expansion-permitted), not for interpretation;
+    - natural systems and ecosystems, whose interests are protected under [Natural Systems Standing](core_05.055_band_participation.md#natural-systems-standing) rather than through personhood — extending personhood to them is a question for additive expansion under [Chapter Seventeen §1 Additive Expansion Permitted](core_17.000_expansion_supremacy.md#1-additive-expansion-permitted), not for interpretation;
     - [Animal Life](core_05.055_band_participation.md#animal-life) and [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life) cases with no affirmed-sentience attachment, which keep the protections of those protection levels;
     - [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) cases while status remains open — those protections apply until [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) closes status; or
     - everyday, philosophical, or religious uses of the word "personhood" that are not about constitutional standing.
@@ -472,7 +472,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 
 The right is for a sentient who is authentically aligned with the purpose stated for the Operating Party, and forming or running one with intent to mislead others about its purpose, control, or interests, or with intent to harm others, is outside it, as [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) states. The only gates on forming or running an institution or enterprise are the three narrow gates in [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*): an outstanding lock, which attaches to a named sentient's authority; an Interim Hold on a named sentient on specific verified facts of misalignment, or of intent to mislead or to harm; and a lock on an Operating Party that is itself under a lock. They are not creation-rights limits and they do not narrow who may form an Operating Party, except to keep out of existence a dissolved Operating Party that a final dissolution order has locked against return. A practice licence or practice clearance for a named act under [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) is separate: it attaches to performing the act and not to forming or running an Operating Party.
 
-Operational mechanics — registration, [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) adoption and chartered-scope limitation, fiscal treatment, liability frameworks, securities regulation, and dissolution pathways — route to [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*), [CI-6.210](corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-6210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*), and [CI-11.210](corpus_institutions/ci_11.210_institutional_failure_dissolution.md#ci-11210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) under **Chapter Eighteen** incorporation discipline and must not narrow these floors.
+Operational mechanics — registration, [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) adoption and chartered-scope limitation, fiscal treatment, liability frameworks, securities regulation, and dissolution pathways — route to [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*), [CI-6.210](corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-6210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*), and [CI-12.210](corpus_institutions/ci_12.210_institutional_failure_dissolution.md#ci-12210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) under **Chapter Nineteen** incorporation discipline and must not narrow these floors.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -2041,10 +2041,10 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
     - capture;
     - false-stake abuse; or
     - coercive gaming of stake-weighted participation
-    attach through the **stakeholder-participation** lock — including the [Stakeholder-Participation Standing Lock](core_11.000_standing_integration.md#55-special-locks) — and:
+    attach through the **stakeholder-participation** lock — including the [Stakeholder-Participation Standing Lock](core_12.000_standing_integration.md#55-special-locks) — and:
       - not through a **governance-voting** lock by itself; and
       - not by treating that lock as if it wiped out [Stakeholder](core_05.055_band_participation.md#stakeholder) status.
-    That lock only limits how much stake-weighted say someone gets. Where anti-constitutional misconduct or other verified standing outcomes lawfully affect status, those consequences route under [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) and the applicable Chapter Eleven standing pathways — not through this weight definition alone.
+    That lock only limits how much stake-weighted say someone gets. Where anti-constitutional misconduct or other verified standing outcomes lawfully affect status, those consequences route under [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) and the applicable Chapter Twelve standing pathways — not through this weight definition alone.
   - **Out of scope:**
     - participation **weights** for [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice), where the political-equality floor applies to the entitled community; or
     - informal straw polls that do not set binding stakeholder weights.
@@ -2135,7 +2135,7 @@ A particular adopter may refuse such instrumentally coerced inflows under:
 - [Feasibility](core_05.035_band_accountability.md#feasibility)
 without extinguishing baseline recognition elsewhere.
 
-How regimes recognize each other across borders — the forms, handoffs, and procedures — lives in adopted implementation text under [Chapter Eighteen](core_18.000_incorporation.md) (typically [CI-13.210](corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md#ci-13210-cross-institution-coordination-and-escalation) (*Cross-institution coordination and escalation*)). Those procedures may spell out mechanics; they may not shrink this Rights Floor.
+How regimes recognize each other across borders — the forms, handoffs, and procedures — lives in adopted implementation text under [Chapter Nineteen](core_19.000_incorporation.md) (typically [CI-14.210](corpus_institutions/ci_14.210_cross_institution_coordination_escalation.md#ci-14210-cross-institution-coordination-and-escalation) (*Cross-institution coordination and escalation*)). Those procedures may spell out mechanics; they may not shrink this Rights Floor.
 
 **Topic group members.** This group comprises:
 - [Movement and Relocation](core_05.055_band_participation.md#movement-and-relocation) — right to move within and between jurisdictions, and to relocate when staying would impair rights.
@@ -2219,7 +2219,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - **Secondary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
   - **Tertiary failure:**
     - durable restriction under generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests;
-    - emergency-measure framings that do not satisfy **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) discipline;
+    - emergency-measure framings that do not satisfy **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*) discipline;
     - fabricating or mislabeling exclusion as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present; or
     - exclusion decisions that fail [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) or leave a sentient with zero recognizing regime in violation of [Non-Statelessness](core_05.055_band_participation.md#non-statelessness).
 
@@ -2411,7 +2411,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 **Admission scope.** This cluster applies whenever treatment of an entity turns on:
 
 - animal-life classification, welfare, cruelty, stewardship, or exploitation;
-- an entity's status as a sentient for Chapter Thirteen purposes;
+- an entity's status as a sentient for Chapter Fourteen purposes;
 - material uncertainty or contestation about sentience;
 - withholding, narrowing, or restoration of sentience protection; or
 - classification, standing, Rights-Floor, derived-sentient, developing-sentient, or contested-sentient treatment.
@@ -2583,8 +2583,8 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:** Must not exclude based on [Substrate Class](core_05.055_band_participation.md#substrate-class), consistent with [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05.055_band_participation.md#constitutional-community). Where status is materially disputed or contested, apply [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) and the **Article VI-B** (*Sentience-Status Adjudication Floor*) Rights-Floor adjudication right. Test that the rule is not narrowed through:
     - adopter-jurisdiction framing;
-    - Chapter Ten impact measurement;
-    - Chapter Twelve designation; or
+    - Chapter Eleven impact measurement;
+    - Chapter Thirteen designation; or
     - comparable mechanism.
 <a id="sentience-non-exclusion-c"></a>
 - **What must hold**
@@ -2972,14 +2972,14 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 - Owner floor: [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Cluster component: [*Treatment of Life by Status*](core_05.055_band_participation.md#treatment-of-life-by-status) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status).
-- Venue: [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) / [Chapter Thirteen §4.2 Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains) (13.000 §4.2) as default lead; read with [Chapter Thirteen §5](core_13.000_forum.md#5-escalation-and-certification) (13.000 §5) (*Sentience-status adjudication* hook).
+- Venue: [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) / [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) (14.000 §4.2) as default lead; read with [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-certification) (14.000 §5) (*Sentience-status adjudication* hook).
 - Read with:
   - [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion),
   - [Substrate Class](core_05.055_band_participation.md#substrate-class),
   - [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life),
   - [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record),
-  - [Chapter Thirteen](core_13.000_forum.md) (13.000), and
-  - [Chapter Eighteen](core_18.000_incorporation.md) (18.000) incorporated implementation text.
+  - [Chapter Fourteen](core_14.000_forum.md) (14.000), and
+  - [Chapter Nineteen](core_19.000_incorporation.md) (19.000) incorporated implementation text.
 
 </details>
 
@@ -2993,7 +2993,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - revised;
     - narrowed; or
     - restored.
-  - **In scope — venue:** Default lead venue is [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) under [Chapter Thirteen §4.2 Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains), because the primary stake is indicator evaluation, expert evidence, and bounded uncertainty — not ordinary sentient-versus-sentient private dispute. [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification) preserves:
+  - **In scope — venue:** Default lead venue is [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) under [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains), because the primary stake is indicator evaluation, expert evidence, and bounded uncertainty — not ordinary sentient-versus-sentient private dispute. [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification) preserves:
     - **Constitutional** certification where a structural or validity question cannot be separated;
     - **Integrity** routing where capture or taxonomy-of-convenience is material; and
     - **Institutional** routing where an institution's classification practice is the primary stake.
@@ -3018,7 +3018,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - appointment mechanics;
     - filing conditions; and
     - sequencing —
-    routes through [Chapter Thirteen](core_13.000_forum.md) and [Chapter Eighteen](core_18.000_incorporation.md)-incorporated implementation text and must not narrow this entry. When adjudication runs, it must produce or update a [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record).
+    routes through [Chapter Fourteen](core_14.000_forum.md) and [Chapter Nineteen](core_19.000_incorporation.md)-incorporated implementation text and must not narrow this entry. When adjudication runs, it must produce or update a [Sentience-Status Adjudication Record](core_05.055_band_participation.md#sentience-status-adjudication-record).
   - **Out of scope:**
     - [Animal Life](core_05.055_band_participation.md#animal-life) welfare-floor cases with no material contested-sentience record;
     - [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life) cases with no material contested-sentience record; or
@@ -3037,7 +3037,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - any declassification:
         - is stated in the shortest necessary terms;
         - carries a declared expected-closure timeline; and
-        - is subject to mandatory periodic review under [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) ([Chapter Thirteen §4.2 Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains)) and anti-capture safeguards consistent with [System Capture](core_05.040_band_continuity.md#system-capture);
+        - is subject to mandatory periodic review under [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) ([Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains)) and anti-capture safeguards consistent with [System Capture](core_05.040_band_continuity.md#system-capture);
       - new verified evidence triggers reopening or review, not only the periodic-review calendar;
       - wrongful determinations remain reversible with [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) for the interim period; and
       - the process:
@@ -3046,11 +3046,11 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <a id="sentience-status-adjudication-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** The process fails when it:
-    - substitutes unreviewable classification, paper records, or taxonomy-of-convenience for a contestable [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) determination — or routes away from that family without a Chapter Thirteen–warranted Integrity, Institutional, or Constitutional special route to evade indicator-based review;
+    - substitutes unreviewable classification, paper records, or taxonomy-of-convenience for a contestable [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) determination — or routes away from that family without a Chapter Fourteen–warranted Integrity, Institutional, or Constitutional special route to evade indicator-based review;
     - excludes candidates on [Substrate Class](core_05.055_band_participation.md#substrate-class) grounds contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion);
     - withholds, narrows, or revokes Chapter Six protection on unresolved uncertainty alone;
     - uses the filing-integrity opening gate to withhold, narrow, or delay protection after a status case is lawfully open, or requires certainty of sentience before opening;
-    - declines filings at intake without logging the indicator cited and the reason, or leaves the decline log outside [Forum Family, Integrity](core_05.035_band_accountability.md#forum-family-integrity) sampling under [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification);
+    - declines filings at intake without logging the indicator cited and the reason, or leaves the decline log outside [Forum Family, Integrity](core_05.035_band_accountability.md#forum-family-integrity) sampling under [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification);
     - proceeds to merits on a request to withhold, narrow, or revoke without an independent representative for the entity, or on indicator evidence sourced solely from the parent system, operator, or another party with an ownership or dependency interest;
     - treats contested or affirmed status as a shield for the operator's deployment against compatible system-level containment, or credits the operator's Contribution Axis for the entity's status — the inclusion-direction taxonomy-of-convenience failure under [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*);
     - narrows status without a declared end-date and mandatory periodic review; or
@@ -3067,8 +3067,8 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 - Owner floor: [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Process owner: [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication).
-- Venue / minimum fields: [Chapter Thirteen §5](core_13.000_forum.md#5-escalation-and-certification) (13.000 §5) (*Sentience-status adjudication* hook).
-- Incorporation: [Chapter Eighteen](core_18.000_incorporation.md) (18.000) (*dedicated record format enumerated this edition*).
+- Venue / minimum fields: [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-certification) (14.000 §5) (*Sentience-status adjudication* hook).
+- Incorporation: [Chapter Nineteen](core_19.000_incorporation.md) (19.000) (*dedicated record format enumerated this edition*).
 - Cluster component: [*Treatment of Life by Status*](core_05.055_band_participation.md#treatment-of-life-by-status) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status).
 - Read with:
   - [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life),
@@ -3092,7 +3092,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - revoked;
       - restored; or
       - still contested;
-    - the lead forum family and any Chapter Thirteen–warranted special route;
+    - the lead forum family and any Chapter Fourteen–warranted special route;
     - the indicators and expert evidence relied on, with material uncertainty noted;
     - interim [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) treatment while status remains live;
     - the declared end-date or mandatory review trigger for this posture;
@@ -3106,7 +3106,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - where declined filings are recorded;
       - Integrity sample cadence; and
       - the published floor set of indicators.
-  - This edition lists [`corpus_forum/cf_13.475_sentience_status_record.md`](corpus_forum/cf_13.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Eighteen](core_18.000_incorporation.md). They implement, and do **not** narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
+  - This edition lists [`corpus_forum/cf_14.475_sentience_status_record.md`](corpus_forum/cf_14.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Nineteen](core_19.000_incorporation.md). They implement, and do **not** narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
   - **Depends on:** [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication); [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
   - **Out of scope:**
     - [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) as the process itself;
@@ -3137,7 +3137,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - an incomplete case note; or
     - using the record to withhold, narrow, or revoke Chapter Six protection on unresolved uncertainty alone;
   - **Secondary failure:**
-    - missing required minimum fields under [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification) when adjudication has run;
+    - missing required minimum fields under [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification) when adjudication has run;
     - concealed, non-contestable, or non-inspectable status findings; or
     - treating the record as a [Standing Record](core_05.035_band_accountability.md#standing-record) or as the whole [Forum Case Record](core_05.035_band_accountability.md#forum-case-record);
   - **Tertiary failure:**
@@ -3154,7 +3154,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Chapter Fourteen §4.3](core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (14.000 §4.3) (*Decision-resolution requirements for binding stakeholder choice*).
+- Owner floor: [Chapter Fifteen §4.3](core_15.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (15.000 §4.3) (*Decision-resolution requirements for binding stakeholder choice*).
 - Read with:
   - [Preamble §3.3 governance-layer discipline](core_00.000_preamble.md#33-governance-layers);
   - [System Charter](core_05.040_band_continuity.md#system-charter),
@@ -3192,7 +3192,7 @@ Where admission scope is met, this cluster is the place those rules live togethe
 - **who gets how much say** — published, bounded weighting by impact, dependency, standing, or similar factors, open to contest and revalidation; and
 - **what the record must show when rights collide** — the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
 
-It does not replace [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **[Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility)**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
+It does not replace [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **[Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility)**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
 
 **System Charter and Institutional Charter relationship.** A governing [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) states operated scope and, where this cluster's admission scope applies, **points to** the published process rules that satisfy this cluster. The System Charter or Institutional Charter does not itself carry the decision sequence, weighting model, or rights-collision record. For institutions, those [Charter Pointers](core_05.040_band_continuity.md#charter-pointer) ordinarily resolve to **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) participation-window / decision-path materials and the **CI-6.205 §2** (*Anti-concentration and participation-legitimacy safeguards*) weighting publication file (**CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 9). Dead Charter Pointers, or System Charter or Institutional Charter text offered as a substitute for those rules, fail both the System Charter or Institutional Charter duty and this cluster.
 
@@ -3201,7 +3201,7 @@ It does not replace [Foundational Constitutional Choice](core_05.045_band_integr
 - [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05.055_band_participation.md#binding-collective-choice-decision-resolution-process);
 - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05.055_band_participation.md#rights-collision-record-binding-stakeholder-choice);
-- [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice), as the governance owner floor for the compound requirement.
+- [Chapter Fifteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_15.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice), as the governance owner floor for the compound requirement.
 
 **Anti-bypass.** Compartments: deliberation, representation, weighting, record, and rights-collision. Checking one while the others fail is non-compliant; none of these counts as compliance on its own:
 
@@ -3264,7 +3264,7 @@ See **Anti-Segmentation Principle**.
     - sham deliberation;
     - rubber-stamp plural review; or
     - foreclosing challenge or lawful reopening where required.
-  - Owner floor: [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Owner floor: [Chapter Fifteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_15.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -3282,7 +3282,7 @@ See **Anti-Segmentation Principle**.
     - [Dependency](core_05.040_band_continuity.md#dependency);
     - **standing**; or
     - similar factors.
-    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.3 governance-layer discipline](core_00.000_preamble.md#33-governance-layers) to tell which set of rules applies (**[Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility)**).
+    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.3 governance-layer discipline](core_00.000_preamble.md#33-governance-layers) to tell which set of rules applies (**[Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility)**).
   - **Out of scope:**
     - foundational constitutional choice equal-weight rules; or
     - informal straw polls that do not set binding stakeholder weights.
@@ -3302,7 +3302,7 @@ See **Anti-Segmentation Principle**.
     - unpublished weights;
     - unchecked single-factor dominance; or
     - absent contest or revalidation where periodic review is required for the mechanism class.
-  - Owner floor: [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Owner floor: [Chapter Fifteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_15.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -3340,7 +3340,7 @@ See **Anti-Segmentation Principle**.
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or
     - the required record pieces are missing when a real rights conflict is in play.
-  - Owner floor: [Chapter Fourteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Owner floor: [Chapter Fifteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_15.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -3368,7 +3368,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-**Admission scope.** This cluster applies where a matter materially concerns autonomy of thought, expression, education, volitional continuity, or manipulation-resistant agency — especially where those freedoms are materially interdependent under Chapter Thirteen. Outside that scope, individual entries such as [Self-Determination](core_05.055_band_participation.md#self-determination) may operate alone. Within the admission scope, this is the joint-invocation home: read the cluster members together rather than treating one as enough on its own.
+**Admission scope.** This cluster applies where a matter materially concerns autonomy of thought, expression, education, volitional continuity, or manipulation-resistant agency — especially where those freedoms are materially interdependent under Chapter Fourteen. Outside that scope, individual entries such as [Self-Determination](core_05.055_band_participation.md#self-determination) may operate alone. Within the admission scope, this is the joint-invocation home: read the cluster members together rather than treating one as enough on its own.
 
 **Cluster members.** This cluster comprises:
 
@@ -3874,7 +3874,7 @@ See **Anti-Segmentation Principle**.
   - [Best-Interest Standard](core_05.055_band_participation.md#best-interest-standard),
   - [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight),
   - [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help) (*judged by present ability, whether it grows or falls*), and
-  - [Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility) (14.000 §4.1) no-age-proxy discipline.
+  - [Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility) (15.000 §4.1) no-age-proxy discipline.
 - Boundary: this entry is the scaling rule for how a [Developing Sentient](core_05.055_band_participation.md#developing-sentient) takes part and exercises rights. It does not define who counts as developing, and it does not replace [Best-Interest Standard](core_05.055_band_participation.md#best-interest-standard) for decisions made about them.
 </details>
 
@@ -3887,7 +3887,7 @@ See **Anti-Segmentation Principle**.
     - birthday or calendar age;
     - creation or instantiation date; or
     - other stand-ins that do not show what they can do.
-    This scales participation; it does not kick developing sentients off the Chapter Six Rights Floor. It works with [Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline and with [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight).
+    This scales participation; it does not kick developing sentients off the Chapter Six Rights Floor. It works with [Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline and with [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight).
   - **Out of scope:**
     - who counts as a [Developing Sentient](core_05.055_band_participation.md#developing-sentient) — that status entry owns the class;
     - calendar-age cutoffs used as Rights-Floor exclusion; or
@@ -3906,7 +3906,7 @@ See **Anti-Segmentation Principle**.
 - **What must hold**
   - **Primary failure:** Using capability-scaling rules to:
     - deny the Chapter Six Rights Floor;
-    - disenfranchise sentients who satisfy [Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility) participation rules; or
+    - disenfranchise sentients who satisfy [Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility) participation rules; or
     - lock operator-preferred developmental paths into rights-exercise
     is non-compliant.
 

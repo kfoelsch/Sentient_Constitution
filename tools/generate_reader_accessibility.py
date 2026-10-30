@@ -65,7 +65,7 @@ FEATURED_QUERIES: tuple[tuple[str, str, str], ...] = (
     ("certification", "core_05.040_band_continuity.md", "system-alignment-certification-constitutional"),
     ("Contestability", "core_05.035_band_accountability.md", "contestability"),
     ("Auditability", "core_05.050_band_oversight.md", "auditability"),
-    ("independent review", "core_13.000_forum.md", "chapter-thirteen-forums-and-jurisdiction"),
+    ("independent review", "core_14.000_forum.md", "chapter-fourteen-forums-and-jurisdiction"),
 )
 
 SPINE_ITEMS: tuple[tuple[str, str, str], ...] = (
@@ -129,7 +129,7 @@ def render_rights_sheet(rows: list[dict], edition: str, effective: str) -> str:
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> **Reader guidance (non-operative).** One sentence per Article from the source *In plain terms* gloss, plus one link to the authentic span. This page copies **nothing else**. It cannot add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)).",
+        "> **Reader guidance (non-operative).** One sentence per Article from the source *In plain terms* gloss, plus one link to the authentic span. This page copies **nothing else**. It cannot add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)).",
         "",
         f"Coverage: **{glossed}** of **{len(rows)}** Article headings carry a gloss.",
         "",

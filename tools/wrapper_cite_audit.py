@@ -23,7 +23,7 @@ Out of scope (navigation, not citation):
   note), fenced code, ``**Previous file:**`` / ``**Next file:**`` lines, and
   lines that point at a "landing page"; and list items that label a whole
   layer (``- [**CS**](../corpus_systems.md) — ...``);
-* in ``core_00.000_preamble.md`` and ``core_18.000_incorporation.md`` (which
+* in ``core_00.000_preamble.md`` and ``core_19.000_incorporation.md`` (which
   incorporate the layers), a list entry that opens with the wrapper link.
 
 Exit status is 2 when anything is found. ``--summary`` prints counts only.
@@ -58,7 +58,7 @@ DEFAULT_WRAPPERS = ALL_WRAPPERS
 # Files that incorporate the layers: a list entry opening with the wrapper link
 # is an inventory entry, not a citation.
 INVENTORY_FILES = frozenset(
-    {"core_00.000_preamble.md", "core_18.000_incorporation.md"}
+    {"core_00.000_preamble.md", "core_19.000_incorporation.md"}
 )
 # Navigation documents that exist to point at the layers.
 NAVIGATION_FILE_RE = re.compile(

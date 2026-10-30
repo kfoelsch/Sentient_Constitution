@@ -43,7 +43,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Two §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1); [Chapter Two §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2); [Chapter Three §2 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (3.000 §2).
-- Downstream: [Chapter Four §§1 and 4 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) (4.000 §1); [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000); [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile).
+- Downstream: [Chapter Four §§1 and 4 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) (4.000 §1); [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000); [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile).
 - Read with:
   - [Chapter One §19.3 Misalignment Detection](core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.010 §19.3) and
   - [§19.4 Misalignment Correction and Capture Response](core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **constitutional misalignment** is stewardship and incentive divergence; it is not a substitute label for **non-compliance**;
@@ -67,7 +67,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
     - **constitutional misalignment** at the stewardship and incentive layer (Chapter One §19 (*Incentive Alignment and System Capture*));
     - [Residual Risk / Misalignment](core_05.040_band_continuity.md#residual-risk--misalignment) as a bounded risk state after mitigation;
     - system alignment certification status under Chapter Nine; and
-    - Chapter Ten violation-axis slot labels (those classify verified findings and do not redefine whether a definition is met).
+    - Chapter Eleven violation-axis slot labels (those classify verified findings and do not redefine whether a definition is met).
 <a id="non-compliance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality — [Materiality](core_05.050_band_oversight.md#materiality) scales duty intensity under [material stake](core_00.000_preamble.md#material-stake); not a separate measurement category.
@@ -96,7 +96,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Preamble §3.3 governance-layer discipline](core_00.000_preamble.md#33-governance-layers); [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7).
-- Owner floor: [Chapter Fourteen: Constitutional Contract, Legitimacy, Authorization, and Stewardship](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); [Article X-B: Governance Participation and Voting Entitlement](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- Owner floor: [Chapter Fifteen: Constitutional Contract, Legitimacy, Authorization, and Stewardship](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (15.000); [Article X-B: Governance Participation and Voting Entitlement](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](core_05.045_band_integrative.md#constitutional-contract-layer)
 - Read with:
   - [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice),
@@ -120,24 +120,24 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 
     It includes:
     - [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice);
-    - [documented legitimacy mechanisms](core_05.045_band_integrative.md#documented-legitimacy-mechanism) under [Chapter Fourteen §1.1 Mechanism families, auditability, and pluralism](core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism);
-    - [adoption](core_17.000_amendment_ratification.md#10-ratification-and-adoption) and [reauthorization](core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) rules ([Chapter Fourteen §1.3 Recall-class pathways and mid-cycle transfer guardrails](core_14.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Chapter Eighteen §4](core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); and
-    - the [political-equality floor](core_14.000_governance.md#41-entitlement-and-eligibility) for constituting or durably restructuring governing authority — entitled sentients have equal voice at that layer ([Article X-B](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*)).
+    - [documented legitimacy mechanisms](core_05.045_band_integrative.md#documented-legitimacy-mechanism) under [Chapter Fifteen §1.1 Mechanism families, auditability, and pluralism](core_15.000_governance.md#11-mechanism-families-auditability-and-pluralism);
+    - [adoption](core_18.000_amendment_ratification.md#10-ratification-and-adoption) and [reauthorization](core_15.000_governance.md#11-mechanism-families-auditability-and-pluralism) rules ([Chapter Fifteen §1.3 Recall-class pathways and mid-cycle transfer guardrails](core_15.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Chapter Nineteen §4 Adoption framing and scope of authority](core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); and
+    - the [political-equality floor](core_15.000_governance.md#41-entitlement-and-eligibility) for constituting or durably restructuring governing authority — entitled sentients have equal voice at that layer ([Article X-B](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*)).
   - **Out of scope:**
     - ordinary stakeholder consultation;
     - operational participation;
     - system use, branding, or market presence as such;
     - ordinary domain governance after structures and processes are already authorized; and
     - ordinary [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) — giving more say to those more affected — used to set founding or reauthorization votes ([Preamble §3.3 governance-layer discipline](core_00.000_preamble.md#33-governance-layers)).
-  - **Operative home:** [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) states the binding authorization, legitimacy, and stewardship rules for this layer.
-  - **Rights Floor:** [Article X-B](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*) states the equal-participation entitlement those Chapter Fourteen rules must not narrow.
+  - **Operative home:** [Chapter Fifteen](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) states the binding authorization, legitimacy, and stewardship rules for this layer.
+  - **Rights Floor:** [Article X-B](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*) states the equal-participation entitlement those Chapter Fifteen rules must not narrow.
 <a id="constitutional-contract-layer-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether claimed governing power rests on a real Constitutional Contract — documented legitimacy, equal founding voice, and lasting terms that stay aligned with this Constitution — not size, popularity, or market reach alone.
 
     **Primary assessment:**
     - Ask whether the matter is a Constitutional Contract Layer question: authorizing who governs, by what legitimacy mechanism, and on what lasting terms. That function marks this layer — not how large, loud, or widely used the system is.
-    - Check constitutional alignment of that contract: the claimed authority must match a [documented legitimacy mechanism](core_05.045_band_integrative.md#documented-legitimacy-mechanism), the [political-equality floor](core_14.000_governance.md#41-entitlement-and-eligibility) where foundational choice applies, and the stewardship and Rights-Floor duties that keep governing power answerable under this Constitution ([Chapter One §19.1 Alignment Requirement](core_01.010_stewardship_capacity_principles.md#191-alignment-requirement)).
+    - Check constitutional alignment of that contract: the claimed authority must match a [documented legitimacy mechanism](core_05.045_band_integrative.md#documented-legitimacy-mechanism), the [political-equality floor](core_15.000_governance.md#41-entitlement-and-eligibility) where foundational choice applies, and the stewardship and Rights-Floor duties that keep governing power answerable under this Constitution ([Chapter One §19.1 Alignment Requirement](core_01.010_stewardship_capacity_principles.md#191-alignment-requirement)).
     - Apply [Preamble §3.3 governance-layer discipline](core_00.000_preamble.md#33-governance-layers): keep founding authorization separate from ordinary stakeholder participation inside already-authorized systems.
     - Do not treat silence, merely using a system, market presence, or branding as the Constitutional Contract or as consent to be governed.
 <a id="constitutional-contract-layer-c"></a>
@@ -157,7 +157,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process).
-- Owner floor: [Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility) (14.000 §4.1) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article X-B: Governance Participation and Voting Entitlement](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- Owner floor: [Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility) (15.000 §4.1) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article X-B: Governance Participation and Voting Entitlement](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](core_05.045_band_integrative.md#constitutional-contract-layer)
 - Read with:
   - [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer),
@@ -179,7 +179,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
     - the scope and durable terms of that authority.
 
     This belongs to the [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer).
-    - Owner: [Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility).
+    - Owner: [Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility).
     - Rights-layer pointer: [Article X-B](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*).
     - Applies under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
@@ -203,7 +203,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
   - **Primary failure:** re-routing foundational questions as high-impact weighted choices under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) rules so as to defeat equal participation at the authorization layer.
   - **Secondary failure:** nesting impact-weighting inside legitimacy-mechanism design so the mechanism escapes the political-equality floor.
   - **Tertiary failure:**
-    - use of loss-of-standing as a durable-political-voice disqualification vector that fails the Chapter Fourteen §4.1 *Entitlement and eligibility* — *Durable political-voice floor* tests, except for final Chapter Twelve anti-constitutional misconduct withholding pending full restitution; or
+    - use of loss-of-standing as a durable-political-voice disqualification vector that fails the Chapter Fifteen §4.1 *Entitlement and eligibility* — *Durable political-voice floor* tests, except for final Chapter Thirteen anti-constitutional misconduct withholding pending full restitution; or
     - substrate-class, calendar-age, or lineage participation-weight factors ([Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion)).
 
 ---
@@ -217,8 +217,8 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 
 - Downstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
 - Owner floor:
-  - [Chapter Fourteen §1 Authorization and Legitimacy of Governing Authority](core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) (14.000 §1);
-  - [Chapter Fourteen §1.1 Mechanism families, auditability, and pluralism](core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) (14.000 §1.1);
+  - [Chapter Fifteen §1 Authorization and Legitimacy of Governing Authority](core_15.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) (15.000 §1);
+  - [Chapter Fifteen §1.1 Mechanism families, auditability, and pluralism](core_15.000_governance.md#11-mechanism-families-auditability-and-pluralism) (15.000 §1.1);
   - [Article XII-A: Stakeholder System Participation and Representation](core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation);
   - [Article X-B: Governance Participation and Voting Entitlement](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Read with:
@@ -240,7 +240,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
     - how it is renewed, reauthorized, or transferred; and
     - the scope of the authority and the material limits on any power it delegates.
 
-    Recognized mechanism families, including hybrids, are listed in [Chapter Fourteen §1.1 Mechanism families, auditability, and pluralism](core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism). Hybrid or ordered designs must pass the [Article XII-A](core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) legitimacy gates for **high-impact** decisions. Different mechanisms may coexist across federations if Rights Floors and non-domination hold.
+    Recognized mechanism families, including hybrids, are listed in [Chapter Fifteen §1.1 Mechanism families, auditability, and pluralism](core_15.000_governance.md#11-mechanism-families-auditability-and-pluralism). Hybrid or ordered designs must pass the [Article XII-A](core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) legitimacy gates for **high-impact** decisions. Different mechanisms may coexist across federations if Rights Floors and non-domination hold.
   - **Out of scope:**
     - silence, usage alone, market presence, or **marketing alignment** treated as authorization;
     - unwritten custom or an unpublished rule; and
@@ -251,11 +251,11 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 
     **Primary assessment:**
     - Check that a mechanism exists, was deliberately chosen, and is published where those affected can find it.
-    - Check that it belongs to a recognized family in [Chapter Fourteen §1.1 Mechanism families, auditability, and pluralism](core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism), or is a hybrid that passes the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates.
+    - Check that it belongs to a recognized family in [Chapter Fifteen §1.1 Mechanism families, auditability, and pluralism](core_15.000_governance.md#11-mechanism-families-auditability-and-pluralism), or is a hybrid that passes the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates.
     - Check auditability: records show scope, renewal or reauthorization cadence, and material limits on delegated power, in proportion to system classification and [Material Impact](core_05.050_band_oversight.md#material-impact).
     - Check that there are [contestable](core_05.035_band_accountability.md#contestability) challenge routes when authorization is disputed, drifts, or is captured and, where feasible, a path to peaceful succession or reauthorization.
-    - Where the mechanism decides [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice), check that it gives each entitled sentient an equal vote under the political-equality floor ([Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility)).
-    - Where it uses sortition, apply the sortition integrity floor in **Chapter Fourteen §1.1** (*Mechanism families, auditability, and pluralism*).
+    - Where the mechanism decides [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice), check that it gives each entitled sentient an equal vote under the political-equality floor ([Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility)).
+    - Where it uses sortition, apply the sortition integrity floor in **Chapter Fifteen §1.1** (*Mechanism families, auditability, and pluralism*).
 <a id="documented-legitimacy-mechanism-c"></a>
 - **What must hold**
   - **Primary failure:** claiming or exercising governing authority without a documented legitimacy mechanism, or treating silence, usage, market presence, or branding as one.
@@ -279,7 +279,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
   - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) — constitutional warrant for legitimate reward tracking under
   - [Chapter One §19.1.3 Stewardship and Operator Application](core_01.010_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) (1.010 §19.1.3); where a claimant justifies exclusivity by capacity or efficiency gains, those claims must remain outcome-traceable under
   - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5).
-- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Ten.
+- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Eleven.
 
 </details>
 
@@ -608,7 +608,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §15.3 Ambiguity resolution](core_01.005_interaction_interpretation.md#153-ambiguity-resolution) (1.005 §15.3); [Chapter One §15.4.3 Incorporation layer](core_01.005_interaction_interpretation.md#1543-incorporation-layer) (1.005 §15.4.3); [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4).
-- Read with: [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness), [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy), and [Chapter Sixteen §3.2 Stricter External Protections](core_16.000_expansion_supremacy.md#32-stricter-external-protections) (16.000 §3.2).
+- Read with: [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness), [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy), and [Chapter Seventeen §3.2 Stricter External Protections](core_17.000_expansion_supremacy.md#32-stricter-external-protections) (17.000 §3.2).
 
 </details>
 
@@ -621,7 +621,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - the ambiguity rule in [Chapter One §15.3 Ambiguity resolution](core_01.005_interaction_interpretation.md#153-ambiguity-resolution);
     - the incorporation-layer rules in [Chapter One §15.4.3 Incorporation layer](core_01.005_interaction_interpretation.md#1543-incorporation-layer), including the choice among incorporated texts, the clearly adopted baseline when custody records are unreliable, and the choice between adopted implementation files; and
     - every implementation-file rule that says which of two overlapping requirements, profiles, or classes governs.
-  - **Out of scope:** [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness), which is severity with no added protection. Also out of scope are the levels of review in [Heightened Scrutiny](core_05.050_band_oversight.md#heightened-scrutiny), and the relation between this Constitution and stricter external law, which [Chapter Sixteen §3.2 Stricter External Protections](core_16.000_expansion_supremacy.md#32-stricter-external-protections) governs.
+  - **Out of scope:** [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness), which is severity with no added protection. Also out of scope are the levels of review in [Heightened Scrutiny](core_05.050_band_oversight.md#heightened-scrutiny), and the relation between this Constitution and stricter external law, which [Chapter Seventeen §3.2 Stricter External Protections](core_17.000_expansion_supremacy.md#32-stricter-external-protections) governs.
 <a id="fullest-protective-effect-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the party who chose between readings or rules can show that the choice protects sentients most.
@@ -704,8 +704,8 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **Out of scope:**
     - mere proxy-score or compliance-indicator satisfaction when incentives still undermine constitutional outcomes; and
     - ordinary compensation or targets that do not predictably shape agent, operator, or component behavior.
-  - **Implementation routing:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, adopted under Chapter Seventeen and incorporated via Chapter Eighteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer — it does not restate or relocate those operational rules. Operational expectations for materially impactful venues appear in:
-    - **[CS-14.305 — Critical system stewardship](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-critical-system-stewardship)**, including incentive-scaled governance; and
+  - **Implementation routing:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, adopted under Chapter Eighteen and incorporated via Chapter Nineteen. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer — it does not restate or relocate those operational rules. Operational expectations for materially impactful venues appear in:
+    - **[CS-15.305 — Critical system stewardship](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-critical-system-stewardship)**, including incentive-scaled governance; and
     - [CI-6.215](corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md#ci-6215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*) (institutional stewardship and incentive alignment requirements).
 <a id="incentive-alignment-a"></a>
 - **How to measure and assess**
@@ -957,29 +957,29 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 
 - Downstream: Principles: [Chapter One §19.4 Misalignment Correction and Capture Response](core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.010 §19.4).
 - Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05.045_band_integrative.md#incentive-alignment-semi-independent)
-- Read with: [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment); [Misalignment Detection](core_05.045_band_integrative.md#misalignment-detection); [Chapter Eleven §5.4 Special violation rules](core_11.000_standing_integration.md#54-special-violation-rules) (11.000 §5.4).
+- Read with: [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment); [Misalignment Detection](core_05.045_band_integrative.md#misalignment-detection); [Chapter Twelve §5.4 Special violation rules](core_12.000_standing_integration.md#54-special-violation-rules) (12.000 §5.4).
 
 </details>
 
 <br>
 
-*In plain terms: once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept. Chapter Eleven decides how they are forfeited, clawed back, reported, and corrected.*
+*In plain terms: once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept. Chapter Twelve decides how they are forfeited, clawed back, reported, and corrected.*
 
 - **What it is**
   - **In scope:** Correction of material rewards from misaligned or corrupt reward pathways:
     - **When:** misalignment is verified.
     - **Must not:** treat material rewards from misaligned or corrupt reward pathways as silently keepable standing credit or shielded benefit.
-    - **Correction home:** [Chapter Eleven §5.4 Special violation rules](core_11.000_standing_integration.md#54-special-violation-rules) governs:
+    - **Correction home:** [Chapter Twelve §5.4 Special violation rules](core_12.000_standing_integration.md#54-special-violation-rules) governs:
       - forfeiture;
       - proportionate clawback;
       - knowing-acceptance reporting; and
       - correction.
-  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Ten §4 Question 2 — how good or bad was it?](core_10.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it), using [Chapter Ten §4.1 Contribution magnitude-input dimensions](core_10.000_standing_assessment.md#41-contribution-magnitude-input-dimensions) and [§4.2 Violation severity-input dimensions](core_10.000_standing_assessment.md#42-violation-severity-input-dimensions).
+  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Eleven §4 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it), using [Chapter Eleven §4.1 Contribution magnitude-input dimensions](core_11.000_standing_assessment.md#41-contribution-magnitude-input-dimensions) and [§4.2 Violation severity-input dimensions](core_11.000_standing_assessment.md#42-violation-severity-input-dimensions).
 <a id="misaligned-reward-correction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether verified misalignment actually costs the rewards it produced.
 
-    **Primary assessment:** Once misalignment is verified, check that material rewards from the misaligned or corrupt reward pathway are routed to forfeiture, proportionate clawback, knowing-acceptance reporting, and correction under [Chapter Eleven §5.4 Special violation rules](core_11.000_standing_integration.md#54-special-violation-rules), and are not carried forward as standing credit or shielded benefit.
+    **Primary assessment:** Once misalignment is verified, check that material rewards from the misaligned or corrupt reward pathway are routed to forfeiture, proportionate clawback, knowing-acceptance reporting, and correction under [Chapter Twelve §5.4 Special violation rules](core_12.000_standing_integration.md#54-special-violation-rules), and are not carried forward as standing credit or shielded benefit.
 <a id="misaligned-reward-correction-c"></a>
 - **What must hold**
   - **Primary failure:** treating material rewards from misaligned or corrupt reward pathways as silently keepable standing credit or shielded benefit after misalignment is verified.
@@ -1003,7 +1003,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - [Auditability](core_05.050_band_oversight.md#auditability),
   - [Contestability](core_05.035_band_accountability.md#contestability),
   - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint),
-  - [Materiality](core_05.050_band_oversight.md#materiality), and Chapter Fifteen / Chapter Seventeen mechanics where materially implicated.
+  - [Materiality](core_05.050_band_oversight.md#materiality), and Chapter Sixteen / Chapter Eighteen mechanics where materially implicated.
 
 </details>
 
@@ -1060,7 +1060,7 @@ See **Anti-Segmentation Principle**.
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody;
   - [15. Constitutional Interpretation](core_01.005_interaction_interpretation.md#15-constitutional-interpretation) (binding source identification).
-- Downstream: [Chapter Eighteen — Incorporation bridge](core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
+- Downstream: [Chapter Nineteen — Incorporation bridge](core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
 - Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) and [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint).
 - Read with: [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–9).
 
@@ -1086,7 +1086,7 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:** Ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law. For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus and Authority Stack cluster](core_05.045_band_integrative.md#defi1-corpus-and-authority-stack). Then:
     - distinguish incorporated binding text from explanatory or process artifacts; and
-    - apply Chapter Sixteen supremacy, Chapter Seventeen adoption conditions, and Chapter Eighteen incorporation and custody controls.
+    - apply Chapter Seventeen supremacy, Chapter Eighteen adoption conditions, and Chapter Nineteen incorporation and custody controls.
 <a id="corpus-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1106,9 +1106,9 @@ See **Anti-Segmentation Principle**.
 - Downstream:
   - [Chapter One — §15 Constitutional Interpretation](core_01.005_interaction_interpretation.md#15-constitutional-interpretation) (1.005 §15) (integrated reading and last-resort hierarchy);
   - [Chapter One §15.4 Constitutional Meaning Conflict Resolution](core_01.005_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.005 §15.4) (*single conflict procedure, including incorporation layer*);
-  - [Chapter Sixteen — Internal Hierarchy for Adopters](core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) (16.000);
-  - [Chapter Eighteen](core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) (*incorporation bridge — custody, editions, adoption; not a second stack or conflict-order home*).
-- Downstream: [Chapter Six — Layer scope](core_06.000_rights_part_a.md#12-layer-scope) (6.000); [Chapter Fifteen §4 Layer scope](core_15.000_non_regression.md#4-layer-scope) (15.000 §4) and [Chapter Seventeen §12 Layer scope](core_17.000_amendment_ratification.md#12-layer-scope) (17.000 §12) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` text.
+  - [Chapter Seventeen — Internal Hierarchy for Adopters](core_17.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) (17.000);
+  - [Chapter Nineteen](core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) (*incorporation bridge — custody, editions, adoption; not a second stack or conflict-order home*).
+- Downstream: [Chapter Six — Layer scope](core_06.000_rights_part_a.md#12-layer-scope) (6.000); [Chapter Sixteen §4 Layer scope](core_16.000_non_regression.md#4-layer-scope) (16.000 §4) and [Chapter Eighteen §12 Layer scope](core_18.000_amendment_ratification.md#12-layer-scope) (18.000 §12) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` text.
 - Read with:
   - [Corpus](core_05.045_band_integrative.md#corpus);
   - [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–9);
@@ -1128,7 +1128,7 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:** The paired rule that first decides which kind of source is speaking, and whether it binds, across the operative [Corpus](core_05.045_band_integrative.md#corpus) — and only then, if a real conflict remains inside the binding Constitution, how to resolve it. Source layers include:
     - **binding constitutional sources** — the [Preamble](core_00.000_preamble.md), [Chapter One](core_01.000_values_principles.md), and the other numbered chapters of this Constitution, read together as one text;
-    - **binding incorporated implementation sources** — designated obligations in adopted implementation text, within valid adoption and incorporation scope under [Chapter Seventeen](core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) and [Chapter Eighteen](core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge); and
+    - **binding incorporated implementation sources** — designated obligations in adopted implementation text, within valid adoption and incorporation scope under [Chapter Eighteen](core_18.000_amendment_ratification.md#chapter-eighteen-amendment-ratification-and-procedural-validity) and [Chapter Nineteen](core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge); and
     - **process and map support sources** — architecture maps, worklists, and regression or evidence records (including [doc_architecture.md](doc_architecture.md)), unless a valid adopting document expressly incorporates them as binding.
 
     **Authority Stack:** the ordered source-of-authority framework governing constitutional interpretation, adoption effect, and layer status across constitutional, incorporated, and support layers.
@@ -1162,13 +1162,13 @@ See **Anti-Segmentation Principle**.
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **Supremacy:** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05.045_band_integrative.md#corpus) and the applicable adoption or incorporation document — including [Chapter Sixteen](core_16.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Sixteen §5 Relation to Applicable External Law](core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
+    - **Supremacy:** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05.045_band_integrative.md#corpus) and the applicable adoption or incorporation document — including [Chapter Seventeen](core_17.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Seventeen §5 Relation to Applicable External Law](core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
 
     Practical enforceability of binding claims — observable, contestable compliance rather than paper promises — is assessed under [Auditability](core_05.050_band_oversight.md#auditability) and [Contestability](core_05.035_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3 Governance Layers](core_00.000_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer).
 
-    For adopters, [Internal Hierarchy for Adopters](core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) in **Chapter Sixteen** applies this same paired rule at the line between the binding Constitution and adopted implementation text:
+    For adopters, [Internal Hierarchy for Adopters](core_17.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) in **Chapter Seventeen** applies this same paired rule at the line between the binding Constitution and adopted implementation text:
     - this Constitution and its integrated definitions control how the text is read and what counts as compliance; and
-    - adopted implementation text applies only within the scope that was actually adopted, and cannot walk back [Chapter Fifteen non-regression](core_15.000_non_regression.md) or the supremacy effect stated in this entry.
+    - adopted implementation text applies only within the scope that was actually adopted, and cannot walk back [Chapter Sixteen non-regression](core_16.000_non_regression.md) or the supremacy effect stated in this entry.
   - **Out of scope:** support-document gloss, maps, worklists, or adoption branding as such — those are not Authority Stack layers; optional guidance that is not offered as rearranging source precedence or displacing binding obligations.
 <a id="authority-stack-a"></a>
 - **How to measure and assess**
@@ -1197,13 +1197,13 @@ See **Anti-Segmentation Principle**.
     - use editorial preference, support-document gloss, or adoption branding to rearrange source layers, invent shadow or dual owner homes, or resolve residual conflict outside the Authority Stack and Internal Hierarchy;
     - use aspirational language or local practice to displace binding corpus obligations within their valid source and governance-layer scope;
     - substantively restate one owner layer's obligations inside another owner layer, including elevation of reader-guidance prose to operative effect;
-    - treat trigger, referral, or escalation language in validity or governance chapters as final classification or sanction law where the owner layer reserves that authority to Chapters Ten through Twelve;
-    - recast a question as one of process, governance, or implementation in order to narrow, redefine, or move [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floors contrary to [Chapter Fifteen](core_15.000_non_regression.md) non-regression and the Chapter Six opening contract;
+    - treat trigger, referral, or escalation language in validity or governance chapters as final classification or sanction law where the owner layer reserves that authority to Chapters Eleven through Thirteen;
+    - recast a question as one of process, governance, or implementation in order to narrow, redefine, or move [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights Floors contrary to [Chapter Sixteen](core_16.000_non_regression.md) non-regression and the Chapter Six opening contract;
     - invent parallel taxonomies or workflows in non-owner layers when the [Preamble owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) already assigns a canonical home;
     - claim supremacy or compliance in a way that inverts the established source hierarchy, or lets implementation, support text, private ordering, emergency framing, or operational practice displace binding corpus obligations within their valid scope;
     - use Internal Hierarchy as a shortcut to pick a harsher reading, to shrink [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) Rights-Floor protections outside what [Chapter One](core_01.005_interaction_interpretation.md#15-constitutional-interpretation) expressly allows, or to swap one source layer for another in ordinary reading;
     - treat Chapter Five definitions as a rival body of law that overrides principles or articles ([Chapter One — §15 Constitutional Interpretation](core_01.005_interaction_interpretation.md#15-constitutional-interpretation)); or
-    - for adopters, treat adopted implementation text as overriding this Constitution within the scope of adoption, or as relaxing [Chapter Fifteen](core_15.000_non_regression.md) non-regression floors ([Internal Hierarchy for Adopters](core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) in **Chapter Sixteen**).
+    - for adopters, treat adopted implementation text as overriding this Constitution within the scope of adoption, or as relaxing [Chapter Sixteen](core_16.000_non_regression.md) non-regression floors ([Internal Hierarchy for Adopters](core_17.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) in **Chapter Seventeen**).
 
 ---
 

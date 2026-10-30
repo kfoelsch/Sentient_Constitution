@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Continuity aim operations (CJS-5.130 §16–CJS-5.130 §21 / oDef.16–oDef.21)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Continuity aim operations (CJS-5.130 §16–CJS-5.130 §21 / oDef.16–oDef.21)**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
-  - [Chapter Eighteen](../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline and
+  - [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: [CJS-5.105 §1](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional compass and cluster map*) constitutional compass.
 
@@ -62,7 +62,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00.000_p
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
 - Chapter One basis: §15.1, §19.1, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -159,7 +159,7 @@ Domain and sector classification mapping
 *In plain terms: where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*)…*
 
 - **What it is**
-  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes and **CS-14.305 — Critical system stewardship** stewardship levels using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or stewardship levels, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
+  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) classes and **CS-15.305 — Critical system stewardship** stewardship levels using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or stewardship levels, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in domain and sector classification mapping.
 <a id="domain-and-sector-classification-mapping-a"></a>
 - **How to measure and assess**
@@ -271,7 +271,7 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md) (*Information types and handling*)
 - Read with: [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*)
-- Read with: [**CS-14.305**](../corpus_systems/cs_14.305_critical_system_stewardship.md) (*Critical system stewardship*)
+- Read with: [**CS-15.305**](../corpus_systems/cs_15.305_critical_system_stewardship.md) (*Critical system stewardship*)
 - Read with: **Article XXI** (*Interoperability, Portability, and Exit Integrity*)
 - Read with: **Article II-E** (*Data Handling and Network Dependency*)
 - Read with: **Article II-F** (*Continuity and Operator Shutdown*)
@@ -279,7 +279,7 @@ Substitutability, exit constraints, and mitigation duties
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
 - Chapter One basis: §15.1, §18.1, §19.1, §15, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -632,7 +632,7 @@ Right-to-exit pathway integrity
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
 - Chapter One basis: §15.2, §18.2, §19.1, §15, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -866,7 +866,7 @@ Transparency disclosures and stakeholder legibility
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
 - Chapter One basis: §15.1, §18.1, §14, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -1100,7 +1100,7 @@ Signaling integrity and anti-silent-failure controls
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
 - Chapter One basis: §15.1, §18.1, §19.1, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 

@@ -30,7 +30,7 @@ audits. It enforces two invariants:
 
 2. **D/A/C widget row-shape and anchor resolution.** Across the consumer core
    files (``core_00.000_preamble.md`, `core_01.000_values_principles.md`, and `core_01.010_stewardship_capacity_principles.md``, ``core_02.000_definition_structure.md``,
-   the four Chapter Thirteen parts), every line inside a D/A/C widget that appears
+   the four Chapter Fourteen parts), every line inside a D/A/C widget that appears
    to be a widget row must match the canonical shape:
 
        - [Name](core_05.035_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
@@ -94,10 +94,10 @@ CONSUMERS = [
     "core_01.010_stewardship_capacity_principles.md",
     "core_02.000_definition_structure.md",
     "core_03.000_definition_integrity.md",
-    "core_10.000_standing_assessment.md",
-    "core_11.000_standing_integration.md",
-    "core_12.000_misconduct_designation.md",
-    "core_12.005_misconduct_pattern_applications.md",
+    "core_11.000_standing_assessment.md",
+    "core_12.000_standing_integration.md",
+    "core_13.000_misconduct_designation.md",
+    "core_13.005_misconduct_pattern_applications.md",
     "core_06.000_rights_part_a.md",
     "core_06.005_rights_part_b.md",
     "core_06.010_rights_part_c.md",

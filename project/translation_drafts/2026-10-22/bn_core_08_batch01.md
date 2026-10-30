@@ -14,8 +14,8 @@
 >
 > - **সাংবিধানিক মালিক:** বস্তুগতভাবে বাধ্যতামূলক কর্মের জন্য কর্তব্যের বিচ্ছেদ-এর প্রয়োজনীয়তা, স্বতন্ত্র আসনের মাধ্যমে পূরণ করা হয়; প্রতিটির সর্বজনীন ন্যূনতম বিষয়বস্তু [বস্তুগতভাবে বাঁধাই আইন রেকর্ড](../../core_05.035_band_accountability.md#materially-binding-act-record); অভিনেতা এবং অভিনেতার থেকে স্বাধীনতা [উপাদান নিয়ন্ত্রণ লাইন](../../core_05.035_band_accountability.md#material-control-line); প্রকাশিত লেন এবং ভূমিকা স্থাপন; দ্বন্দ্ব, শূন্যতা, প্রতিস্থাপন, এবং ভুল-সিট রাউটিং; আনুপাতিক একত্রিত হোস্টিং; অ্যাট্রিবিউটেবল হ্যান্ডঅফস; এবং ন্যূনতম স্বাধীনতার শর্ত যা পরবর্তী প্রতিটি সাংবিধানিক প্রক্রিয়ায় অবশ্যই প্রযোজ্য হবে।
 > - **নীতি-স্তর উৎস:** [প্রথম অধ্যায় §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) কার্যকরী স্বাধীনতা রক্ষার জন্য প্রশাসনের প্রয়োজন এবং এখানে অপারেটিভ সিট আর্কিটেকচারকে রুট করে।
-> - **বাস্তবায়ন মালিক:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*সাংবিধানিক লেন এবং কার্যকরী বিচ্ছেদ*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), এবং [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) আসন স্থাপন এবং কার্যকরীকরণ. তারা কঠোর হতে পারে এবং আবদ্ধ বিশেষ-কর্তৃপক্ষের আসনের ধরন যোগ করতে পারে; তারা এই অধ্যায় সংকীর্ণ নাও হতে পারে.
-> - **প্রক্রিয়া-নির্দিষ্ট অ্যাপ্লিকেশন নিচের দিকে রয়ে গেছে:** নয় অধ্যায় সিস্টেম প্রান্তিককরণ সার্টিফিকেশন এবং প্রাতিষ্ঠানিক প্রান্তিককরণ সার্টিফিকেশন এই প্রয়োজনীয়তা প্রযোজ্য; [অধ্যায় দশ §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) স্থায়ী রেকর্ডে এটি প্রযোজ্য; তেরো অধ্যায় এবং [কর্পাস_ফোরাম.এমডি](../../corpus_forum.md) ফোরাম প্রক্রিয়ায় এটি প্রয়োগ করুন। এই অধ্যায়গুলি তাদের বিষয়বস্তুর দ্বারা প্রয়োজনীয় সুরক্ষা যোগ করতে পারে; তারা একটি দুর্বল বিকল্প তৈরি করতে পারে না.
+> - **বাস্তবায়ন মালিক:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*সাংবিধানিক লেন এবং কার্যকরী বিচ্ছেদ*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), এবং [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) আসন স্থাপন এবং কার্যকরীকরণ. তারা কঠোর হতে পারে এবং আবদ্ধ বিশেষ-কর্তৃপক্ষের আসনের ধরন যোগ করতে পারে; তারা এই অধ্যায় সংকীর্ণ নাও হতে পারে.
+> - **প্রক্রিয়া-নির্দিষ্ট অ্যাপ্লিকেশন নিচের দিকে রয়ে গেছে:** নয় অধ্যায় সিস্টেম প্রান্তিককরণ সার্টিফিকেশন এবং প্রাতিষ্ঠানিক প্রান্তিককরণ সার্টিফিকেশন এই প্রয়োজনীয়তা প্রযোজ্য; [অধ্যায় দশ §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) স্থায়ী রেকর্ডে এটি প্রযোজ্য; তেরো অধ্যায় এবং [কর্পাস_ফোরাম.এমডি](../../corpus_forum.md) ফোরাম প্রক্রিয়ায় এটি প্রয়োগ করুন। এই অধ্যায়গুলি তাদের বিষয়বস্তুর দ্বারা প্রয়োজনীয় সুরক্ষা যোগ করতে পারে; তারা একটি দুর্বল বিকল্প তৈরি করতে পারে না.
 >
 > রিডিং অর্ডার: §1 উদ্দেশ্য এবং সুযোগ → §2 চার-সিটের প্রয়োজনীয়তা → §3 স্বাধীনতা এবং দ্বন্দ্ব → §4 ভুল-সিট রাউটিং → §5 প্রকাশিত প্লেসমেন্ট, বিকল্প, এবং প্রতিনিধি → §6 আনুপাতিক স্কেলিং → §7 জরুরী অবস্থা → §8 হ্যান্ড-অফ স্ট্রিম → §8 অ্যাক্ট ডাউন স্ট্রিম এবং রেকর্ডস
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - ডাউনস্ট্রিম:
   - [চ্যাপ্টার নাইন](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [দশম অধ্যায়](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [তেরো অধ্যায়](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [চতুর্দশ অধ্যায়](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); উপরে নামকরণ করা মনোনীত বাস্তবায়ন পাঠ্য।
+  - [দশম অধ্যায়](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [তেরো অধ্যায়](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [চতুর্দশ অধ্যায়](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); উপরে নামকরণ করা মনোনীত বাস্তবায়ন পাঠ্য।
 - এর সাথে পড়ুন:
   - [প্রথম অধ্যায় §19.3 মিসালাইনমেন্ট সনাক্তকরণ](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*বহুবচন সনাক্তকরণ এবং পর্যালোচনা*);
   - [অ্যাট্রিবিউটেবল অ্যাকশন](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@
 <summary><strong><span style="color: #2563eb;">ট্রেস</span></strong></summary>
 
 - আপস্ট্রিম: [§1](#1-purpose-scope-and-owner-boundary); [প্রথম অধ্যায় §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3); [প্রথম অধ্যায় §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1)।
-- ডাউনস্ট্রিম: [§3](#3-independence-conflict-and-control-lines) মাধ্যমে [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*আসন ক্যাটালগ — প্রক্রিয়া-ভুমিকা আর্কিটাইপস এবং অপারেশনাল সীমানা*)
+- ডাউনস্ট্রিম: [§3](#3-independence-conflict-and-control-lines) মাধ্যমে [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*আসন ক্যাটালগ — প্রক্রিয়া-ভুমিকা আর্কিটাইপস এবং অপারেশনাল সীমানা*)
 - এর সাথে পড়ুন: [§6](#6-proportional-scaling-and-merged-hosting) শুধুমাত্র অনুমোদিত মার্জ-হোস্টিং পাথের জন্য।
 
 </details>
@@ -229,7 +229,7 @@ flowchart TB
 
 - আপস্ট্রিম: [§2](#2-four-seat-constitutional-requirement); [কর্তৃপক্ষ-স্কেল করা জবাবদিহিতা](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [ধারা XXV](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*সাংবিধানিক ব্যাখ্যা, পর্যালোচনা, এবং অ্যান্টি-ক্যাপচার সুরক্ষা ব্যবস্থা*)
 - ডাউনস্ট্রিম: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); অধ্যায় নয় সার্টিফিকেশন উপাদান ভূমিকা; অধ্যায় দশ রেকর্ড হেফাজত; তেরো অধ্যায় বিরোধী স্ব-বিচারক ফোরাম।
-- এর সাথে পড়ুন: [উপাদান নিয়ন্ত্রণ লাইন](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*দ্বন্দ্ব অখণ্ডতা, বিরোধী ক্যাপচার, এবং বিরোধী দুর্নীতি*) এবং [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*সততা রক্ষাকবচ, অ্যান্টি-ক্যাপচার অপারেশন, এবং অ্যান্টি-সেল্ফ-জাজিং সাপোর্ট*) অপারেশনাল দ্বন্দ্ব এবং স্ব-বিচার বিরোধী সুরক্ষার জন্য।
+- এর সাথে পড়ুন: [উপাদান নিয়ন্ত্রণ লাইন](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*দ্বন্দ্ব অখণ্ডতা, বিরোধী ক্যাপচার, এবং বিরোধী দুর্নীতি*) এবং [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*সততা রক্ষাকবচ, অ্যান্টি-ক্যাপচার অপারেশন, এবং অ্যান্টি-সেল্ফ-জাজিং সাপোর্ট*) অপারেশনাল দ্বন্দ্ব এবং স্ব-বিচার বিরোধী সুরক্ষার জন্য।
 
 </details>
 
@@ -255,7 +255,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ট্রেস</span></strong></summary>
 
 - আপস্ট্রিম: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- ডাউনস্ট্রিম: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 শেয়ার করা আসনের নিয়ম](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- ডাউনস্ট্রিম: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 শেয়ার করা আসনের নিয়ম](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - এর সাথে পড়ুন: [প্রথম অধ্যায় §17.5 প্রতিরোধ করার দায়িত্ব](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5)।
 
 </details>
@@ -302,12 +302,12 @@ flowchart TB
   - [§3](#3-independence-conflict-and-control-lines);
   - [স্বচ্ছতা](../../core_05.050_band_oversight.md#transparency);
   - [নিরীক্ষাযোগ্যতা](../../core_05.050_band_oversight.md#auditability).
-- ডাউনস্ট্রিম: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*কার্যকরী বিচ্ছেদ লেন*); [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*অনুমোদিত ভূমিকা এবং দায়বদ্ধতা চেইন*); চ্যাপ্টার নাইন এবং চ্যাপ্টার টেন রেকর্ড।
+- ডাউনস্ট্রিম: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*কার্যকরী বিচ্ছেদ লেন*); [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*অনুমোদিত ভূমিকা এবং দায়বদ্ধতা চেইন*); চ্যাপ্টার নাইন এবং চ্যাপ্টার টেন রেকর্ড।
 - এর সাথে পড়ুন:
   - [সিস্টেম চার্টার](../../core_05.040_band_continuity.md#system-charter),
   - [প্রাতিষ্ঠানিক সনদ](../../core_05.040_band_continuity.md#institutional-charter);
   - [অধ্যায় সপ্তম §4 চার্টার রোল ম্যাপ এবং স্ট্যান্ডিং-রেকর্ড কাস্টডি](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4); এবং
-  - [চতুর্দশ অধ্যায় §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5)।
+  - [চতুর্দশ অধ্যায় §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5)।
 
 </details>
 
@@ -377,7 +377,7 @@ L বা উচ্চতর শ্রেণির প্রত্যেক গ�
   - [উপাদান বাজি](../../core_00.000_preamble.md#material-stake);
   - [প্রয়োজনীয়তা](../../core_05.035_band_accountability.md#necessity);
   - [সমানুপাতিকতা](../../core_05.035_band_accountability.md#proportionality).
-- ডাউনস্ট্রিম: [অধ্যায় দশ §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*ক্লাস-স্কেলড লেন স্টাফিং এবং যোগ্যতার অপ্রয়োজনীয়তা*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*কার্যকরী বিচ্ছেদ লেন*)
+- ডাউনস্ট্রিম: [অধ্যায় দশ §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*ক্লাস-স্কেলড লেন স্টাফিং এবং যোগ্যতার অপ্রয়োজনীয়তা*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*কার্যকরী বিচ্ছেদ লেন*)
 - এর সাথে পড়ুন: [এড়ানো যায় এমন বোঝা](../../core_05.040_band_continuity.md#avoidable-burden) এবং প্রথম অধ্যায় [§3.3 অ্যান্টি-ডিগ্রেডিং প্রক্রিয়া](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ L বা উচ্চতর শ্রেণির প্রত্যেক গ�
 - আপস্ট্রিম:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [তেরো অধ্যায় §6.1 জরুরী ব্যবস্থা এবং ধারাবাহিকতা বোঝা](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
+  - [তেরো অধ্যায় §6.1 জরুরী ব্যবস্থা এবং ধারাবাহিকতা বোঝা](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
   - [ডিফল্ট অন্তর্বর্তী ভঙ্গি](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - ডাউনস্ট্রিম: মনোনীত বাস্তবায়ন পাঠ্যে ঘটনা, নিয়ন্ত্রণ, প্রকাশ, ধারাবাহিকতা এবং ইভেন্ট-পরবর্তী পর্যালোচনা প্রক্রিয়া।
-- এর সাথে পড়ুন: [সময়োপযোগীতা](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [প্রমাণ সংরক্ষণ](../../core_05.050_band_oversight.md#evidence-preservation), এবং [CI-14.205 §6 সীট ক্যাটালগ — প্রক্রিয়া-ভুমিকা আর্কিটাইপস এবং অপারেশনাল সীমানা](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- এর সাথে পড়ুন: [সময়োপযোগীতা](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [প্রমাণ সংরক্ষণ](../../core_05.050_band_oversight.md#evidence-preservation), এবং [CI-14.205 §6 সীট ক্যাটালগ — প্রক্রিয়া-ভুমিকা আর্কিটাইপস এবং অপারেশনাল সীমানা](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ L বা উচ্চতর শ্রেণির প্রত্যেক গ�
   - [বস্তুগতভাবে বাঁধাই আইন রেকর্ড](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [অ্যাট্রিবিউটেবল অ্যাকশন](../../core_05.035_band_accountability.md#attributable-action);
   - [অ্যাট্রিবিউশন ইন্টিগ্রিটি](../../core_05.035_band_accountability.md#attribution-integrity).
-- ডাউনস্ট্রিম: [CS-14.305 §10 পরিদর্শনযোগ্য অ্যাট্রিবিউটেবল অ্যাকশন](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 শেয়ার করা আসনের নিয়ম](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8 দ্বারা পরিচালিত প্রতিটি প্রক্রিয়া রেকর্ড; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*বেস মেশিন-পরীক্ষাযোগ্য ফর্ম; প্রক্রিয়া সমর্থন, দ্বিতীয় সংজ্ঞা নয়*)
+- ডাউনস্ট্রিম: [CS-14.305 §10 পরিদর্শনযোগ্য অ্যাট্রিবিউটেবল অ্যাকশন](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 শেয়ার করা আসনের নিয়ম](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8 দ্বারা পরিচালিত প্রতিটি প্রক্রিয়া রেকর্ড; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*বেস মেশিন-পরীক্ষাযোগ্য ফর্ম; প্রক্রিয়া সমর্থন, দ্বিতীয় সংজ্ঞা নয়*)
 - এর সাথে পড়ুন: [§4 ভুল-সিট রাউটিং](#4-wrong-seat-routing) এবং [অধ্যায় চার §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5)।
 
 </details>
@@ -564,9 +564,9 @@ L বা উচ্চতর শ্রেণির প্রত্যেক গ�
 - আপস্ট্রিম: [§1](#1-purpose-scope-and-owner-boundary) মাধ্যমে [§8](#8-act-records-and-attributable-handoffs).
 - ডাউনস্ট্রিম:
   - [চ্যাপ্টার নাইন](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [দশম অধ্যায়](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [তেরো অধ্যায়](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [চতুর্দশ অধ্যায়](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)।
+  - [দশম অধ্যায়](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [তেরো অধ্যায়](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000);
+  - [চতুর্দশ অধ্যায়](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)।
 - এর সাথে পড়ুন: [কর্তৃপক্ষ স্ট্যাক এবং অভ্যন্তরীণ অনুক্রম](../../core_05.045_band_integrative.md#owner-non-relocation) এবং [প্রস্তাবনা মালিক নিবন্ধন](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

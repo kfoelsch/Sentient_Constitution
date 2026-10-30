@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_18.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -73,7 +73,7 @@ See: [CI-6.255](../../../corpus_institutions/ci_06.255_commons_cooperatives_mutu
 
 - **“If I challenge the app, they will shut the SIM.”** Retaliation against good-faith reports is in the challenge floor ([Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)). Reachability still depends on a body that actually runs that system and has agreed to follow this Constitution.
 
-- **“This isn’t our law.”** Correct. It does not override applicable law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). Use inside an existing framework has to stay consistent with that framework.
+- **“This isn’t our law.”** Correct. It does not override applicable law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). Use inside an existing framework has to stay consistent with that framework.
 
 - **“Call this ‘developing world’ and you have already ranked us.”** You do not have to take that label to use this page. This brief is for someone who sells in a market, cooks, builds, drives, cares, or takes platform tasks, with thin public protections and a newly arrived ID, payment, or aid gate. It does not change the Rights Floor that applies to you. The same lock-in and labor patterns appear in rich cities. When work or leaving an app is actually at stake, those rules are located in the sections on [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) and [Article XXI](../../../core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
 

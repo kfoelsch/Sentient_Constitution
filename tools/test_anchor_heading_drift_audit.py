@@ -19,7 +19,7 @@ class AnchorHeadingDriftTests(unittest.TestCase):
 
     def test_drifted_name_is_reported(self) -> None:
         findings = self.scan_text(
-            '<a id="345-chapter-eleven-floor-boundary"></a>\n\n'
+            '<a id="345-chapter-twelve-floor-boundary"></a>\n\n'
             "#### 3.4.5 Rights-Floor Boundary\n"
         )
         self.assertEqual(len(findings), 1)

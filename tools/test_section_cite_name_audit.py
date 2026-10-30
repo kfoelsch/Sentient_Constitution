@@ -94,12 +94,12 @@ class SectionCiteNameTests(unittest.TestCase):
 
     def test_skips_adopted_implementation_family_section_tokens(self) -> None:
         self.assertEqual(
-            self._cites("The CS-14.305 §10 log is not itself a finding."),
+            self._cites("The CS-15.305 §10 log is not itself a finding."),
             [],
         )
         self.assertEqual(
             self._cites(
-                "the **CS-14.305 — Critical system stewardship** §10 inspectable-action set"
+                "the **CS-15.305 — Critical system stewardship** §10 inspectable-action set"
             ),
             [],
         )

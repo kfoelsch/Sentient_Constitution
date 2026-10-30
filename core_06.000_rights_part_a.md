@@ -128,7 +128,7 @@ Enforcement depends on real checks, not just rules on paper:
 - **Sentients can push back on certification decisions:** Chapter Nine also provides ways to contest the record, demand stakeholder and accessibility review, keep supervisory sequencing in place, and challenge alignment decisions that do not hold up.
 - **You can challenge and audit unreliable systems:** **Article XIII** (*Right to Reliable and Trustworthy Systems*) gives sentients the right to challenge and audit systems that affect them.
 - **Bureaucracy cannot block survival access:** **Article XIX-B** (*Contestability and Proportional Restriction Limits*) prevents standing limits from becoming a back door that cuts sentients off from survival-critical protections.
-- **Chapters Nine through Thirteen form the practical pipeline:** Together they supply the key processes for contestability, verified classification, forum supervision, and timely remedy.
+- **Chapters Nine through Fourteen form the practical pipeline:** Together they supply the key processes for contestability, verified classification, forum supervision, and timely remedy.
 - **These tools enforce Chapter Six — they do not replace it:** They help make Rights Floors real, but they may not shrink, bypass, or relocate the protections stated in this chapter.
 
 **Interpretive hubs.** Unless a more specific article supplies a different rule, recurring issues route through these anchors:
@@ -146,7 +146,7 @@ Enforcement depends on real checks, not just rules on paper:
 
 **Disputes and timely process**
 - **Justice, restitution, and restriction boundaries** — **Article XX** (*Justice After Verified Violation*)
-- **Conflict resolution, rights collisions, and emergencies** — **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*); **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test)
+- **Conflict resolution, rights collisions, and emergencies** — **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*); **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test)
 - **Key Practical Process Pipelines** — **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation); [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
@@ -160,7 +160,7 @@ Shorter cross-references to those themes elsewhere in this chapter incorporate t
 This rule covers all of Chapter Six — Articles **I** through **XXVIII**:
 
 - **Chapter Six cannot steal duties from other chapters:** Under [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation), this chapter must not copy, restate, or move obligations that belong somewhere else. Cross-references are fine — pointing readers to another chapter is expected. But copying another chapter's actual rules into Chapter Six is **not allowed**.
-- **No sneaking rules in through the back door:** You cannot import obligations from other chapters into Chapter Six by copying text, treating reader notes as real rules, or reading too much into a cross-reference. And other chapters or implementation files cannot shrink, redefine, or move a Chapter Six Rights Floor either — that violates **Chapter Fifteen** non-regression.
+- **No sneaking rules in through the back door:** You cannot import obligations from other chapters into Chapter Six by copying text, treating reader notes as real rules, or reading too much into a cross-reference. And other chapters or implementation files cannot shrink, redefine, or move a Chapter Six Rights Floor either — that violates **Chapter Sixteen** non-regression.
 - **If new language sounds like process or governance, point to the real owner:** Any future addition to Chapter Six that touches process, governance, or implementation must include a note pointing to where the actual rule lives — the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and, where relevant, the matching [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) definition.
 
 ### Part A: Planetary preconditions, material stewardship, survival, equal educational access, and shared resources
@@ -278,7 +278,7 @@ This Article sets out the environmental and animal-life floors, from ecosystem i
 - **Environmental preconditions, integrity, and sustainability:** These Chapter Five definitions are operative here.
   - Natural systems that keep life going — air, water, soil, climate, biodiversity — hold continuity and integrity interests of their own. Those interests count alongside sentient interests when interpreting this Article.
   - Material harm that violates **Environmental Preconditions**, **Ecological Integrity**, or **Sustainability** rules is non-compliant.
-  - Harm that also violates environmental rules in the adopter's [adoption document](core_17.000_amendment_ratification.md#102-adoption-document) or in incorporated implementation text within adoption scope is non-compliant too.
+  - Harm that also violates environmental rules in the adopter's [adoption document](core_18.000_amendment_ratification.md#102-adoption-document) or in incorporated implementation text within adoption scope is non-compliant too.
 - **Animal life:** [Animal Life](core_05.055_band_participation.md#animal-life) sits between plain environmental protection and full sentient Rights Floors.
   - It sets a minimum floor against cruelty and for basic welfare, applied under **Sentience Non-Exclusion** when welfare-like harm is in play.
   - It is not a substitute for stronger protections or for a sentience-status hearing when the facts suggest the creature may be sentient.
@@ -388,7 +388,7 @@ This Article sets out the floor that protects future generations:
   - [Ecological Recovery Capacity](core_05.040_band_continuity.md#ecological-recovery-capacity),
   - [Intergenerational Responsibility](core_05.040_band_continuity.md#intergenerational-responsibility), and
   - [Existential Risk](core_05.040_band_continuity.md#existential-risk).
-- Downstream: **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
+- Downstream: **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
 
 </details>
 
@@ -429,7 +429,7 @@ This Article sets out when highest scrutiny applies to existential and ecologica
   
   The burden is continuing: it must be met again on new material evidence, on expansion, and at intervals proportionate to the risk. Where it is not met, the activity is non-compliant, and consequences follow [Chapter Three §3 — Non-Compliance Finding Profiles](core_03.000_definition_integrity.md#3-non-compliance-finding-profiles). Each authorization, continuation, or expansion determination under this Article is a [materially binding act](core_05.035_band_accountability.md#materially-binding-act). Its [Act Record](core_05.035_band_accountability.md#materially-binding-act-record) must link the actor's showing and the reviewer's assessment, and must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
 - **Present benefit limit:** Present benefit does not justify disproportionate exposure of future sentients, systems critical to ecological recovery, or life-supporting ecological conditions to civilization-scale or survival-critical harm, or any natural ecosystem, at any scale, to irreversible loss of its [Ecological Recovery Capacity](core_05.040_band_continuity.md#ecological-recovery-capacity).
-- **Named measures:** Anyone seeking authorization, continuation, or expansion under this Article must name specific reduction, cap, or interruption measures in their [adoption document](core_17.000_amendment_ratification.md#102-adoption-document) or in incorporated implementation text within adoption scope — including harm to the climate system as an [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions) factor. Those measures must match the scale of the risk.
+- **Named measures:** Anyone seeking authorization, continuation, or expansion under this Article must name specific reduction, cap, or interruption measures in their [adoption document](core_18.000_amendment_ratification.md#102-adoption-document) or in incorporated implementation text within adoption scope — including harm to the climate system as an [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions) factor. Those measures must match the scale of the risk.
   - This Article still does not set a numeric target.
   - **Article I-B** (*Ecological Footprint and Transparency*) remains the footprint-measurement rule only; it does not by itself require reduction.
   - Continuing without those named measures, while a credible risk pathway remains open, is non-compliant.
@@ -469,7 +469,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - **Environmental consistency:** Interpretation must remain consistent with **Article I** (*Environmental Survival*).
 - **Chapter Five scaling:** Read with Chapter Five where ecological footprint, intergenerational responsibility, and materiality apply.
 
-**Where the practical details live:** Which products **Article II** (*Material Stewardship and Durable-Use Integrity*) covers, who qualifies to repair and maintain them, the thresholds that trigger these duties, and the escrow and shutdown arrangements for discontinued products are left to adopted implementation text under [Chapter Eighteen](core_18.000_incorporation.md).
+**Where the practical details live:** Which products **Article II** (*Material Stewardship and Durable-Use Integrity*) covers, who qualifies to repair and maintain them, the thresholds that trigger these duties, and the escrow and shutdown arrangements for discontinued products are left to adopted implementation text under [Chapter Nineteen](core_19.000_incorporation.md).
 
 #### Article II-A: Material Stewardship and Lifecycle Honesty
 <details>
@@ -652,7 +652,7 @@ This Article sets out the floors for post-sale access and subscriptions:
 
 This Article sets out the floors for product data handling, collection notice, deletion, and network dependency:
 
-- **Data handling:** Operators must classify and handle data under this Article as [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md) requires, where incorporated under [Chapter Eighteen](core_18.000_incorporation.md). This includes the notice and deletion rules in [CS-6.305 §1.3 collection notice and deletion](corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [CS-6.305 §1.2 continuity-critical collection and exportability](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
+- **Data handling:** Operators must classify and handle data under this Article as [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md) requires, where incorporated under [Chapter Nineteen](core_19.000_incorporation.md). This includes the notice and deletion rules in [CS-6.305 §1.3 collection notice and deletion](corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [CS-6.305 §1.2 continuity-critical collection and exportability](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
 - **Data collection notice:** Producers and operators of any product, device, or service that collects, infers, or transmits data about sentients must tell them, before collection begins and in a form they can find and understand:
   - what data is collected or inferred;
   - the purpose of each kind of data;
@@ -662,7 +662,7 @@ This Article sets out the floors for product data handling, collection notice, d
   
   The depth of the notice scales with **Materiality** and the sensitivity of the data, but no data-collecting product is exempt. Data must not be used for a purpose that was not disclosed. A new purpose requires new notice first and, where **Consent** is required, new consent.
 - **Right to deletion:** Sentients may require the deletion of data about them, including data derived or inferred from it. On request, the operator must:
-  - delete the data within a disclosed period, no later than **14 days**, the Tier B outer bound in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the operator or system holds. The period is a ceiling: where the data's continued existence is itself causing harm in a matter at Tier A or B, the intake target of the matching tier applies instead, and a lawful hold or an open matter tolls deletion, with notice to the requester inside the intake target of the matching tier;
+  - delete the data within a disclosed period, no later than **14 days**, the Tier B outer bound in [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the operator or system holds. The period is a ceiling: where the data's continued existence is itself causing harm in a matter at Tier A or B, the intake target of the matching tier applies instead, and a lawful hold or an open matter tolls deletion, with notice to the requester inside the intake target of the matching tier;
   - pass the request on to everyone it shared the data with; and
   - confirm what was deleted.
   
@@ -697,7 +697,7 @@ This Article sets out the floors for product data handling, collection notice, d
 - Read with: [Article II-E](#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*) — the disclosure and export paths this Article relies on.
 - Read with: **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*) and **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6).
-- Read with: [Chapter Eleven §9.1](core_11.000_standing_integration.md#91-remediation-capacity-and-funding) (11.000 §9.1) and [§9.4](core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Read with: [Chapter Twelve §9.1](core_12.000_standing_integration.md#91-remediation-capacity-and-funding) (12.000 §9.1) and [§9.4](core_12.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -884,9 +884,9 @@ This Article sets out the right to care, the rules that keep it from being denie
   - public-health measures such as vaccination requirements, which must meet the safeguards in [**Article VII-A** (*Self-Ownership of Body*)](core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*, *Public-health requirements*); and
   - intervention without consent during a physical or mental health crisis — for example, where a sentient is unconscious, or is a danger to themselves or others — which is governed by [**Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*)](core_06.005_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) and must be the least intrusion necessary, time-limited, independently reviewed, and reversible.
   
-  Emergency measures are also subject to [**Chapter Thirteen §6.1**](core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind).
+  Emergency measures are also subject to [**Chapter Fourteen §6.1**](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind).
 - **Limits and implementation:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on care must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
-  - Cost, distribution, workforce, and system design are handled by the CI-9.210 (*Classification-linked institutional obligations*) through CI-6.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under **Chapter Eighteen** discipline.
+  - Cost, distribution, workforce, and system design are handled by the CI-9.210 (*Classification-linked institutional obligations*) through CI-6.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under **Chapter Nineteen** discipline.
   - None of that text may be read to narrow this right.
 
 #### Article III-C: Labor and Economic Floor
@@ -955,7 +955,7 @@ This Article sets out the labor and economic floor — fair compensation, collec
   - A productive-activity structure that satisfies this Article while concentrating power contrary to **Chapter One §11** (*Market Structure*) is non-compliant under that section.
   - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **Chapter One §11.2** (*Pro-Competition and Anti-Domination*), **[CJS-5.125 §11.2 Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#distributed-and-proportional-authority-terms-c)**, **§11.3** (*Consolidation Ceiling*), and this Article when they materially apply.
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on **Fair Compensation**, **Collective Organization**, or labor mobility must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
-  - Operational mechanics — fiscal orientation, transfer and insurance design, and collective-organization institutional design — route to the CI-9.210 (*Classification-linked institutional obligations*) through CI-6.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Eighteen** incorporation discipline.
+  - Operational mechanics — fiscal orientation, transfer and insurance design, and collective-organization institutional design — route to the CI-9.210 (*Classification-linked institutional obligations*) through CI-6.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Nineteen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-D: Safe Working Conditions
@@ -997,7 +997,7 @@ This Article sets out the safe-working-conditions floor, its equal application a
   - account for foreseeable risk under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions), not only under ideal conditions.
 - **Equal protection across substrates:** Withholding Safe Conditions, or applying a weaker standard, because of substrate or implementation classification rather than materially comparable risk is non-compliant under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on Safe Conditions must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
-  - Standards-setting for Safe Conditions routes to [CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*) and to the CI-9.210 (*Classification-linked institutional obligations*) through CI-6.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Eighteen** incorporation discipline.
+  - Standards-setting for Safe Conditions routes to [CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*) and to the CI-9.210 (*Classification-linked institutional obligations*) through CI-6.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Nineteen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-E: Rest and Recuperation
@@ -1086,7 +1086,7 @@ This Article sets out the safe-products floor, the information floor, the duty t
 - **Honest promotion:** Reviews, ratings, and endorsements must be genuine, paid placement must be disclosed, and where health or safety is at stake, recommendations must not be tilted toward a product by what the offering party earns (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) and **Article XIII-D** (*Incentive-Alignment Constraint*)).
 - **Conditions of offering, not compelled speech:** The duties in this Article are conditions of offering and are judged as [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance). They require facts about the thing offered, never opinion or endorsement. They cannot be used to silence warnings, criticism, or protected reports, and they cannot be enforced by cutting off survival-critical access. Proprietary formulas need not be disclosed. Hazards and allergens must be, and proprietary detail can go to an independent verifying authority.
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on this floor must also satisfy [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
-  - Standards, thresholds, and notice times route to [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: disclosure sufficiency and observability terms*), [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: structural review, correction urgency, and disclosure terms*), and adopted implementation text under [Chapter Eighteen](core_18.000_incorporation.md).
+  - Standards, thresholds, and notice times route to [CJS-5.120 §10](corpus_joint_structure/cjs_05.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: disclosure sufficiency and observability terms*), [CJS-5.125 §15](corpus_joint_structure/cjs_05.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: structural review, correction urgency, and disclosure terms*), and adopted implementation text under [Chapter Nineteen](core_19.000_incorporation.md).
   - Those texts must not be read to narrow this floor.
 
 ### Article IV: Right to Sentient-Centered Education
@@ -1250,7 +1250,7 @@ This Article sets out the floors for lifelong learning and for transparent, cont
   - retraining;
   - transition support.
   
-  Those opportunities must prevent agency from being nullified by imposed obsolescence or lock-in. They must also include equitable stewardship-development pathways into constitutionally relevant stewardship responsibilities under **Chapter Fourteen, section 5** — *Authorized Roles, Competency Development, and Contribution*.
+  Those opportunities must prevent agency from being nullified by imposed obsolescence or lock-in. They must also include equitable stewardship-development pathways into constitutionally relevant stewardship responsibilities under **Chapter Fifteen, section 5** — *Authorized Roles, Competency Development, and Contribution*.
 - **Transparency and contestability in learning systems:** When a school, platform, or training system can materially affect a sentient's future — through grades, rankings, recommendations, or placement — sentients must be able to see how those decisions are made, have them checked, and challenge them if they are wrong.
 
   Those systems cannot hide behind secret rules that cannot be reviewed. They also cannot pressure or trick sentients into choices they would not make freely.
@@ -1414,6 +1414,6 @@ This Article sets the minimum rules for sharing the load fairly between systems.
 
 ---
 
-**Previous file:** [core_10.005_application_vignettes.md](core_10.005_application_vignettes.md)
+**Previous file:** [core_11.005_application_vignettes.md](core_11.005_application_vignettes.md)
 
 **Next file:** [core_06.005_rights_part_b.md](core_06.005_rights_part_b.md)

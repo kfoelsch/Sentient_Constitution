@@ -16,7 +16,7 @@ TRACE_RE = re.compile(
 )
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 CORE_TARGET_RE = re.compile(r"^core_\d{2}\.\d{3}_[^/]+\.md$")
-NAMED_CHAPTER_RE = re.compile(r"\b(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|\d+)|Part\s+[A-E])\b", re.I)
+NAMED_CHAPTER_RE = re.compile(r"\b(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|\d+)|Part\s+[A-E])\b", re.I)
 REFERENCE_RE = re.compile(
     r"\[[^\]]+\]\([^)]+\)|\*\*(?:Chapter\s+[A-Za-z0-9]+|(?:CF|CI|CJS|CS)-\d+(?:\.\d+)?(?:\s+§\s*\d+(?:\.\d+)*)?)\*\*",
     re.I,

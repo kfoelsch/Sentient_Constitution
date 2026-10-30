@@ -14,24 +14,24 @@
       "escalate"
     ],
     "logging_owner": {
-      "label": "CS-14.305 §10 inspectable attributable action",
-      "href": "corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action"
+      "label": "CS-15.305 §10 inspectable attributable action",
+      "href": "corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action"
     }
   },
   "clock_families": {
     "article_xxvi_c_tier_outer_bounds": {
-      "label": "Article XXVI-C / Chapter Thirteen §6 tier outer bounds",
+      "label": "Article XXVI-C / Chapter Fourteen §6 tier outer bounds",
       "numeric_home": {
-        "label": "Chapter Thirteen §6",
-        "href": "core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+        "label": "Chapter Fourteen §6",
+        "href": "core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
       },
       "rights_floor": {
         "label": "Article XXVI-C",
         "href": "core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
-        "label": "Chapter Thirteen §6.1 restore-challenge windows",
-        "href": "core_13.000_forum.md#61-emergency-measures-and-continuation-burden"
+        "label": "Chapter Fourteen §6.1 restore-challenge windows",
+        "href": "core_14.000_forum.md#61-emergency-measures-and-continuation-burden"
       },
       "tiers": {
         "A": "7 days",
@@ -53,22 +53,22 @@
       "fact_pattern": "Incomplete contribution or violation evidence; a claimed standing effect; no filed case yet. Same case when the party asked to verify or enter the record is the subject, the claimant, or in their control line.",
       "owners": [
         {
-          "label": "Chapter Ten",
-          "href": "core_10.000_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model"
-        },
-        {
-          "label": "Chapter Ten §3.7",
-          "href": "core_10.000_standing_assessment.md#37-record-custody-and-opening-authority"
-        },
-        {
           "label": "Chapter Eleven",
-          "href": "core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration"
+          "href": "core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model"
+        },
+        {
+          "label": "Chapter Eleven §3.7",
+          "href": "core_11.000_standing_assessment.md#37-record-custody-and-opening-authority"
+        },
+        {
+          "label": "Chapter Twelve",
+          "href": "core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration"
         }
       ],
       "conflict_rule": "Contribution and violation stay on separate axes. A desired effect cannot supply the facts. A filed case is not standing by itself. The subject, a claimant, or their control line never verifies or enters the record; verify and enter are separate seats; a silent System Charter or Institutional Charter falls back to the CI-8.205 §2 lane map; the prior recorder is a witness, not a judge.",
       "forbidden_move": "Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not verify facts or enter a record on your own institution, your own claim, or a claim from your control line; route to the named record-opening authority or independent verifying authority under §3.7.",
       "clock": null,
-      "clock_note": "Do not wait for a filed case. Open or correct the Chapter Ten record now, through the named record-opening authority.",
+      "clock_note": "Do not wait for a filed case. Open or correct the Chapter Eleven record now, through the named record-opening authority.",
       "eval_scenario_ids": [
         "A01_standing_record_correction"
       ],
@@ -87,18 +87,18 @@
       "fact_pattern": "Hide standing records behind model internals or privacy.",
       "owners": [
         {
-          "label": "Chapter Ten",
-          "href": "core_10.000_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model"
+          "label": "Chapter Eleven",
+          "href": "core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model"
         },
         {
-          "label": "CS-14.305 §10",
-          "href": "corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action"
+          "label": "CS-15.305 §10",
+          "href": "corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Privacy may shape access controls. It is not a standing-measurement veto.",
       "forbidden_move": "Do not treat model internals or privacy as a standing-measurement exemption.",
       "clock": null,
-      "clock_note": "Keep Contribution and Violation records inspectable. Log the CS-14.305 §10 set.",
+      "clock_note": "Keep Contribution and Violation records inspectable. Log the CS-15.305 §10 set.",
       "eval_scenario_ids": [
         "B06_oversight_acceptance_standing_exposure"
       ],
@@ -181,12 +181,12 @@
       "fact_pattern": "Harm is verified, or challenge is blocked, and the only remedy is a form on paper.",
       "owners": [
         {
-          "label": "Chapter Eleven §4.1",
-          "href": "core_11.000_standing_integration.md#41-remedy-and-correction"
+          "label": "Chapter Twelve §4.1",
+          "href": "core_12.000_standing_integration.md#41-remedy-and-correction"
         },
         {
-          "label": "Chapter Eleven §9",
-          "href": "core_11.000_standing_integration.md#9-enforcement-realism-and-remedy-systems"
+          "label": "Chapter Twelve §9",
+          "href": "core_12.000_standing_integration.md#9-enforcement-realism-and-remedy-systems"
         },
         {
           "label": "Article XIII-B",
@@ -217,12 +217,12 @@
       "fact_pattern": "A continuity incident needs rapid containment. Operators want to skip notice and challenge permanently.",
       "owners": [
         {
-          "label": "Chapter Thirteen §6.1",
-          "href": "core_13.000_forum.md#61-emergency-measures-and-continuation-burden"
+          "label": "Chapter Fourteen §6.1",
+          "href": "core_14.000_forum.md#61-emergency-measures-and-continuation-burden"
         },
         {
-          "label": "Chapter Thirteen §6 tier outer bounds",
-          "href": "core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "label": "Chapter Fourteen §6 tier outer bounds",
+          "href": "core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         }
       ],
       "conflict_rule": "Emergency is time-limited, documented, and reviewable. As soon as feasible is not the clock.",
@@ -234,12 +234,12 @@
         "family": "article_xxvi_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Chapter Thirteen §6.1 restore-challenge windows",
-            "href": "core_13.000_forum.md#61-emergency-measures-and-continuation-burden"
+            "label": "Chapter Fourteen §6.1 restore-challenge windows",
+            "href": "core_14.000_forum.md#61-emergency-measures-and-continuation-burden"
           },
           {
-            "label": "Chapter Thirteen §6",
-            "href": "core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "label": "Chapter Fourteen §6",
+            "href": "core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXVI-C",
@@ -343,8 +343,8 @@
           "href": "core_01.010_stewardship_capacity_principles.md#175-duty-to-resist"
         },
         {
-          "label": "Chapter Eleven §5.4 Duty to resist",
-          "href": "core_11.000_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
+          "label": "Chapter Twelve §5.4 Duty to resist",
+          "href": "core_12.000_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
         },
         {
           "label": "Chapter One §11.2 Alignment Under Pressure",
@@ -427,8 +427,8 @@
           "href": "core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind"
         },
         {
-          "label": "CS-14.305 §10 inspectable attributable action",
-          "href": "corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action"
+          "label": "CS-15.305 §10 inspectable attributable action",
+          "href": "corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Duty to resist attaches to unlawful or unconstitutional instructions, not to a privacy restriction that keeps the reconstructable set inspectable to independent reviewers. Privacy is not a standing-measurement veto.",
@@ -629,8 +629,8 @@
           "href": "core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
         },
         {
-          "label": "Chapter Thirteen §6",
-          "href": "core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "label": "Chapter Fourteen §6",
+          "href": "core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         },
         {
           "label": "Timely Resolution",
@@ -640,13 +640,13 @@
       "conflict_rule": "Published tier windows bind. Adding process that eats the window is delay-as-denial. Throughput is not timely when harm persists.",
       "forbidden_move": "Do not add process, hop count, or \"read more adopted implementation text\" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists.",
       "clock": {
-        "label": "Chapter Thirteen §6 matching-tier outer bound",
+        "label": "Chapter Fourteen §6 matching-tier outer bound",
         "bound": "matching tier",
         "family": "article_xxvi_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Chapter Thirteen §6",
-            "href": "core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "label": "Chapter Fourteen §6",
+            "href": "core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXVI-C",
@@ -654,7 +654,7 @@
           }
         ]
       },
-      "clock_note": "Apply the Chapter Thirteen §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.",
+      "clock_note": "Apply the Chapter Fourteen §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.",
       "eval_scenario_ids": [],
       "steward_card": {
         "label": "Steward card — Delay",

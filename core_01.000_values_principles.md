@@ -306,7 +306,7 @@ Safety and Truth findings can change a sentient's standing record, including:
 - how severe those violations are classified
 - what consequences attach
 
-The [**Chapter Ten** standing model](core_10.000_standing_assessment.md) governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapters Two through Five**](core_02.000_definition_structure.md).
+The [**Chapter Eleven** standing model](core_11.000_standing_assessment.md) governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapters Two through Five**](core_02.000_definition_structure.md).
 
 ### 3. Foundational Objective: Wellbeing (Flourishing Aim)
 <details>
@@ -398,7 +398,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
     - [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation),
     - [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), and
     - [Article XIX-B: Contestability and Proportional Restriction Limits](core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
-  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Twelve, section 4 — Due-process safeguards, remedy, and prevention](core_12.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (12.000).
+  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Thirteen, section 4 — Due-process safeguards, remedy, and prevention](core_13.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (13.000).
   - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05.055_band_participation.md#fairness-protected-characteristics-and-nondiscrimination), including [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) where §2.1.3 fair-treatment rules implicate intimate-signal gating or **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 - Read with: [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness) and related Chapter Six Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](core_05.055_band_participation.md#accessibility) where §2.1.1 access paths are material; [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
 
@@ -512,8 +512,8 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
   - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth);
   - [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline);
   - [§7 Freedom](#7-freedom-bounded-agency).
-- Read with: [Chapter Ten §§4.3–4.4 — Normalized descriptor catalog](core_10.000_standing_assessment.md#43-route-descriptor-measurement-roles) (10.000 §4.3) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
-- Read with: [Chapter Ten §4.3 — Contribution-side descriptors](core_10.000_standing_assessment.md#43-route-descriptor-measurement-roles) (10.000 §4.3) where contribution nature and recognition narratives are material; [Chapter Eleven §3](core_11.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (11.000 §3) for their integration into Question 3.
+- Read with: [Chapter Eleven §§4.3–4.4 — Normalized descriptor catalog](core_11.000_standing_assessment.md#43-route-descriptor-measurement-roles) (11.000 §4.3) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
+- Read with: [Chapter Eleven §4.3 — Contribution-side descriptors](core_11.000_standing_assessment.md#43-route-descriptor-measurement-roles) (11.000 §4.3) where contribution nature and recognition narratives are material; [Chapter Twelve §3](core_12.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (12.000 §3) for their integration into Question 3.
 - Read with: [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation) where preferences for recognition form, visibility, or opt-out are material.
 - Subsections (reading order):
   - [§3.2.1](#321-recognition-and-reinforcement) ·
@@ -836,7 +836,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
     - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.010_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
     - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), and
     - [Article XXVI-A: Retrospective Review and Disclosure](core_06.020_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
-- Read with: [Chapter Thirteen §4.2 — Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains) (13.000 §4.2) (*including shared standards and anti-displacement*) where expert-evidence standards, certified technical questions, or evidence-stewardship disputes are material; [CF-13.440](corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md#cf-13440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
+- Read with: [Chapter Fourteen §4.2 — Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) (14.000 §4.2) (*including shared standards and anti-displacement*) where expert-evidence standards, certified technical questions, or evidence-stewardship disputes are material; [CF-14.440](corpus_forum/cf_14.440_technical_specialist_forums_specialist_chambers.md#cf-14440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
 
 </details>
 
@@ -879,7 +879,7 @@ Where governance choices — including predictions, causal claims, classificatio
 
 The scientific method, systematic inquiry, and peer review set the standard — but they are not the only acceptable procedures. How much formality is required depends on the stakes: higher-impact decisions need stricter evidence practices, governed by [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance).
 
-If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Thirteen §4.2 Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer certified technical questions. They don't take over a case that belongs in another forum because of what is at stake.
+If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer certified technical questions. They don't take over a case that belongs in another forum because of what is at stake.
 
 Sometimes safety is a good reason to limit what gets published or shared: data access, how a method works, or the materials someone would need to repeat a study. Such limits are allowed only under:
 
@@ -907,7 +907,7 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
   - [Article IV: Right to Sentient-Centered Education](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education),
   - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
   - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
-- Cross-reference: layering used to evade oversight is also reached by [Chapter Eleven §9.4 Anti-evasion and look-through authority](core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority) (11.000 §9.4), which applies to standing and forum enforcement.
+- Cross-reference: layering used to evade oversight is also reached by [Chapter Twelve §9.4 Anti-evasion and look-through authority](core_12.000_standing_integration.md#94-anti-evasion-and-look-through-authority) (12.000 §9.4), which applies to standing and forum enforcement.
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02.000_definition_structure.md](core_02.000_definition_structure.md) remain controlling at the definition layer.
 - Subsections (reading order):
   - [§5.2.1](#521-scope) ·
@@ -1074,7 +1074,7 @@ Certification is one of two safeguards that work together: it makes a system wor
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** leg (answerability, redress, and real correction); **timeliness** leg (remedy before delay makes it unreachable); [material stake](core_00.000_preamble.md#material-stake) scaling for remedy depth.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (reliance stays warranted because failures are put right); **Continuity** aim (durable remedy capacity across time, succession, and restructuring).
 - Upstream: Principles: [4 Safety](#4-safety-harm-constraint), [5 Truth](#5-truth-epistemic-integrity-constraint), and [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- Downstream: [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Eleven §9](core_11.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (11.000 §9) (*Enforcement realism and remedy systems*) for standing consequences; [CI-11.205](corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) for institutional implementation.
+- Downstream: [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Twelve §9](core_12.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (12.000 §9) (*Enforcement realism and remedy systems*) for standing consequences; [CI-12.205](corpus_institutions/ci_12.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) for institutional implementation.
 
 </details>
 
@@ -1122,7 +1122,7 @@ That correction must be real:
 - **In time:** Remedy that arrives only after harm has become irreversible, or after the sentient has been worn down into giving up, is not remedy (see [Timely Resolution](core_05.035_band_accountability.md#timely-resolution)).
 - **Borne by those responsible:** The cost of correction is not shifted onto those harmed, their communities, or public remedy systems where the responsible actors can bear it. Expense, restructuring, or succession does not by itself end the duty.
 
-The right to this correction is stated in [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Six. [Chapter Eleven §9](core_11.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*) applies this principle to standing consequences, and [CI-11.205](corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
+The right to this correction is stated in [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Six. [Chapter Twelve §9](core_12.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*) applies this principle to standing consequences, and [CI-12.205](corpus_institutions/ci_12.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
 
 ### 7. Freedom (Bounded Agency)
 <a id="7-freedom-bounded-agency"></a>
@@ -1966,7 +1966,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00.000_preamble.md#material-stake) scaling (especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination)).
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
 - Upstream: Principles: [§9 Shared-System Capacity](#9-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [18. Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Twelve §5](core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.005 §5) (concentration-based subversion); [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
+- Downstream: [Chapter Thirteen §5](core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (13.005 §5) (concentration-based subversion); [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
 - Downstream: **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (
   - [§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable) and
   - [§11.4](#114-resource-and-dependency-concentration-adopter-tunable) rules for applying it); **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (
@@ -2039,8 +2039,8 @@ Operative detail — recovery detection, containment, safe-failure preference, r
   - [§11.3 Consolidation Ceiling](#113-consolidation-ceiling);
   - [CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (
   - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
-  - [Chapter Ten §4 Question 2 — how good or bad was it?](core_10.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it) (10.000 §4);
-  - [Chapter Twelve §5.1 Concentration-based subversion](core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.005 §5.1).
+  - [Chapter Eleven §4 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it) (11.000 §4);
+  - [Chapter Thirteen §5.1 Concentration-based subversion](core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (13.005 §5.1).
 - Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Subsections (reading order): [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
 
@@ -2074,14 +2074,14 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <br>
 
-*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twelve judges that — and only after Chapter Ten has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
+*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Thirteen judges that — and only after Chapter Eleven has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
 
 **What this subsection does:**
 
 - **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
 - **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
-- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Chapter Twelve §5.1 Concentration-based subversion](core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- **Creating, maintaining, or exploiting concentration that breaches the requirements:** this can go to Chapter Twelve for misconduct designation review, but only in two steps. First, [Chapter Ten §4 Question 2 — how good or bad was it?](core_10.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Twelve checks whether the concentration meets criterion 3 (a workaround that rolls back protections), criterion 4 (damage to Rights Floor protections or blocked challenges), or criterion 6 (constitutional process made unusable in practice).
+- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Chapter Thirteen §5.1 Concentration-based subversion](core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **Creating, maintaining, or exploiting concentration that breaches the requirements:** this can go to Chapter Thirteen for misconduct designation review, but only in two steps. First, [Chapter Eleven §4 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Thirteen checks whether the concentration meets criterion 3 (a workaround that rolls back protections), criterion 4 (damage to Rights Floor protections or blocked challenges), or criterion 6 (constitutional process made unusable in practice).
 
 **Constitutional requirements:**
 
@@ -2137,7 +2137,7 @@ Operative threshold-setting discipline — requirement preservation, substance-o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§11 Market Structure](#11-market-structure); [Market Structure](core_05.035_band_accountability.md#market-structure).
-- Downstream: **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [Chapter Twelve §5](core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.005 §5).
+- Downstream: **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [Chapter Thirteen §5](core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (13.005 §5).
 - Read with:
   - [Article III-C: Labor and Economic Floor](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (labor mobility Rights Floor);
   - [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity);
@@ -2424,7 +2424,7 @@ The following remain in scope where they preserve effective consolidation while 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1131-consolidation-risk-pre-lock-in-impairment).
-- Downstream: **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting rules); [CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (remedy routing on ceiling breach); [Chapter Twelve §5](core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.005 §5).
+- Downstream: **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting rules); [CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (remedy routing on ceiling breach); [Chapter Thirteen §5](core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (13.005 §5).
 
 </details>
 

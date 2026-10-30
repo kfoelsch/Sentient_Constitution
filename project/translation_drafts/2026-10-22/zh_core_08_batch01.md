@@ -14,8 +14,8 @@
 >
 > - **宪法所有者：** 通过不同席位满足具有实质性约束力的行为的职责分离要求；每个的通用最低含量 [具有重大约束力的行为记录](../../core_05.035_band_accountability.md#materially-binding-act-record);独立于演员和演员的 [物料控制线](../../core_05.035_band_accountability.md#material-control-line);已发布的泳道和角色定位；冲突、空缺、替代和错误座位路线；比例合并托管；可归因的交接；以及后来的每个宪法程序都必须适用的最低独立条件。
 > - **原理层源码：** [第一章 §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) 需要治理来保持功能独立性并在此处路由操作席位架构。
-> - **实施所有者：** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*宪法车道与功能分离*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)， 和 [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) 放置并操作座位。它们可能会更严格，并可能增加有限制的特殊权限席位类型；他们可能不会缩小这一章的范围。
-> - **特定于流程的应用程序仍在下游：** 第九章将此要求适用于体系一致性认证和机构一致性认证； [第十章§3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) 将其应用于长期记录；第十三章和 [语料库_论坛.md](../../corpus_forum.md) 将其应用到论坛流程中。这些章节可能会增加其主题所需的保障措施；他们可能不会创造出更弱的替代品。
+> - **实施所有者：** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*宪法车道与功能分离*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)， 和 [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) 放置并操作座位。它们可能会更严格，并可能增加有限制的特殊权限席位类型；他们可能不会缩小这一章的范围。
+> - **特定于流程的应用程序仍在下游：** 第九章将此要求适用于体系一致性认证和机构一致性认证； [第十章§3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) 将其应用于长期记录；第十三章和 [语料库_论坛.md](../../corpus_forum.md) 将其应用到论坛流程中。这些章节可能会增加其主题所需的保障措施；他们可能不会创造出更弱的替代品。
 >
 > 阅读顺序：§1 目的和范围 → §2 四席位要求 → §3 独立性和冲突 → §4 错误席位路由 → §5 公布的安排、替补和授权 → §6 比例缩放 → §7 紧急情况 → §8 法案记录和移交 → §9 下游应用。
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes)。
 - 下游：
   - [第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000)；
-  - [第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000)；
-  - [第十三章](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000)；
-  - [第十四章](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)；指定上面指定的实施文本。
+  - [第十章](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000)；
+  - [第十三章](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000)；
+  - [第十四章](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)；指定上面指定的实施文本。
 - 阅读：
   - [第一章 §19.3 错位检测](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*复数检测与审查*）；
   - [可归因的行动](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
 - 上游： [§1](#1-purpose-scope-and-owner-boundary); [第一章 §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) （1.015 §18.3）； [第一章 §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) （1.015 §17.1）。
-- 下游： [§3](#3-independence-conflict-and-control-lines) 通过 [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*席位目录——流程角色原型和操作边界*）。
+- 下游： [§3](#3-independence-conflict-and-control-lines) 通过 [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*席位目录——流程角色原型和操作边界*）。
 - 阅读： [§6](#6-proportional-scaling-and-merged-hosting) 唯一允许的合并托管路径。
 
 </details>
@@ -229,7 +229,7 @@ flowchart TB
 
 - 上游： [§2](#2-four-seat-constitutional-requirement); [权威规模的责任性](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [第二十五条](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*宪法解释、审查和反捕获保障措施*）。
 - 下游： [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs);第九章 认证组件的角色；第十章 档案保管；第十三章论坛反自我评判。
-- 阅读： [物料控制线](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*冲突完整性、反捕获和反腐败*） 和 [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*完整性保障、反捕获行动和反自我判断支持*）用于操作冲突和反自我判断的保障措施。
+- 阅读： [物料控制线](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*冲突完整性、反捕获和反腐败*） 和 [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*完整性保障、反捕获行动和反自我判断支持*）用于操作冲突和反自我判断的保障措施。
 
 </details>
 
@@ -255,7 +255,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
 - 上游： [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines)。
-- 下游： [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 共享座位规则](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)。
+- 下游： [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 共享座位规则](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)。
 - 阅读： [第一章 §17.5 抵抗义务](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) （1.015 §17.5）。
 
 </details>
@@ -302,12 +302,12 @@ flowchart TB
   - [§3](#3-independence-conflict-and-control-lines);
   - [透明度](../../core_05.050_band_oversight.md#transparency);
   - [可审计性](../../core_05.050_band_oversight.md#auditability)。
-- 下游： [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*功能性分隔车道*）； [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*授权角色和责任链*）；第九章和第十章记录。
+- 下游： [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*功能性分隔车道*）； [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*授权角色和责任链*）；第九章和第十章记录。
 - 阅读：
   - [系统章程](../../core_05.040_band_continuity.md#system-charter),
   - [机构章程](../../core_05.040_band_continuity.md#institutional-charter);
   - [第七章 §4 章程角色图和长期记录保管](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000§4)；和
-  - [第十四章§5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) （14.000§5）。
+  - [第十四章§5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) （14.000§5）。
 
 </details>
 
@@ -377,7 +377,7 @@ P 类采用者不属于本章范围（[§1 目的、范围和所有者边界](#1
   - [物质桩](../../core_00.000_preamble.md#material-stake);
   - [必要性](../../core_05.035_band_accountability.md#necessity);
   - [相称性](../../core_05.035_band_accountability.md#proportionality)。
-- 下游： [第十章§3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) （10.000§3.7）； [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*班级规模的车道人员配置和能力冗余*）； [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*功能性分隔车道*）。
+- 下游： [第十章§3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) （10.000§3.7）； [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*班级规模的车道人员配置和能力冗余*）； [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*功能性分隔车道*）。
 - 阅读： [可避免的负担](../../core_05.040_band_continuity.md#avoidable-burden) 和第一章 [§3.3 防降级过程](../../core_01.000_values_principles.md#33-anti-degrading-process)。
 
 </details>
@@ -478,10 +478,10 @@ L 级或以上级别的有感知力或小型诊所可以将其席位安排在东
 - 上游：
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [第十三章 §6.1 紧急措施和持续负担](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) （13.000 §6.1）；
+  - [第十三章 §6.1 紧急措施和持续负担](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) （13.000 §6.1）；
   - [默认临时姿势](../../core_01.005_interaction_interpretation.md#default-interim-posture)。
 - 下游：指定实施文本中的事件、遏制、发布、延续和事后审查流程。
-- 阅读： [时效性](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [证据保存](../../core_05.050_band_oversight.md#evidence-preservation)， 和 [CI-14.205 §6 席位目录 — 流程角色原型和操作边界](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment)。
+- 阅读： [时效性](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [证据保存](../../core_05.050_band_oversight.md#evidence-preservation)， 和 [CI-14.205 §6 席位目录 — 流程角色原型和操作边界](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment)。
 
 </details>
 
@@ -524,7 +524,7 @@ L 级或以上级别的有感知力或小型诊所可以将其席位安排在东
   - [具有重大约束力的行为记录](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [可归因的行动](../../core_05.035_band_accountability.md#attributable-action);
   - [归因完整性](../../core_05.035_band_accountability.md#attribution-integrity)。
-- 下游： [CS-14.305 §10 可检查归因行为](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 共享座位规则](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules);受第 8 条管辖的每条流程记录； [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*基本机器可检查形式；流程支持，而不是第二个定义*）。
+- 下游： [CS-14.305 §10 可检查归因行为](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 共享座位规则](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules);受第 8 条管辖的每条流程记录； [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*基本机器可检查形式；流程支持，而不是第二个定义*）。
 - 阅读： [§4 错误座位路由](#4-wrong-seat-routing) 和 [第四章§5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) （4.000§5）。
 
 </details>
@@ -564,9 +564,9 @@ L 级或以上级别的有感知力或小型诊所可以将其席位安排在东
 - 上游： [§1](#1-purpose-scope-and-owner-boundary) 通过 [§8](#8-act-records-and-attributable-handoffs)。
 - 下游：
   - [第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000)；
-  - [第十章](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000)；
-  - [第十三章](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000)；
-  - [第十四章](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) （14.000）。
+  - [第十章](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000)；
+  - [第十三章](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000)；
+  - [第十四章](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) （14.000）。
 - 阅读： [权限堆栈和内部层次结构](../../core_05.045_band_integrative.md#owner-non-relocation) 和 [序言所有者登记册](../../core_00.000_preamble.md#4-principles-definitions-and-rights)。
 
 </details>

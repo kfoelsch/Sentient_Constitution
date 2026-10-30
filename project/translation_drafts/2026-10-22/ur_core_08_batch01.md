@@ -14,8 +14,8 @@
 >
 > - **آئینی مالک:** مادی طور پر پابند اعمال کے لیے فرائض کی علیحدگی کی ضرورت، جو الگ الگ نشستوں کے ذریعے پوری ہوتی ہے۔ ہر ایک کا عالمگیر کم از کم مواد [مادی طور پر بائنڈنگ ایکٹ ریکارڈ](../../core_05.035_band_accountability.md#materially-binding-act-record); اداکار اور اداکار سے آزادی [میٹریل کنٹرول لائن](../../core_05.035_band_accountability.md#material-control-line); شائع شدہ لین اور رول پلیسمنٹ؛ تنازعہ، خالی جگہ، متبادل، اور غلط سیٹ روٹنگ؛ متناسب ضم شدہ ہوسٹنگ؛ منسوب ہینڈ آفس؛ اور کم از کم آزادی کی شرائط جن کا اطلاق ہر بعد کے آئینی عمل میں ہونا چاہیے۔
 > - **اصولی تہہ ماخذ:** [باب اول §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) فنکشنل آزادی کو برقرار رکھنے کے لیے گورننس کی ضرورت ہوتی ہے اور یہاں آپریٹو سیٹ کے فن تعمیر کو روٹ کرتا ہے۔
-> - **نفاذ کا مالک:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*آئینی لین اور فنکشنل علیحدگی*) [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)، اور [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) سیٹیں رکھیں اور ان کو فعال کریں۔ وہ سخت ہو سکتے ہیں اور پابند خصوصی اتھارٹی سیٹ کی قسمیں شامل کر سکتے ہیں۔ وہ اس باب کو تنگ نہیں کر سکتے۔
-> - **عمل سے متعلق ایپلیکیشن نیچے کی طرف رہتی ہے:** باب نو اس ضرورت کا اطلاق سسٹم الائنمنٹ سرٹیفیکیشن اور ادارہ جاتی سیدھ سرٹیفیکیشن پر کرتا ہے۔ [باب دس §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) اس کا اطلاق اسٹینڈنگ ریکارڈز پر ہوتا ہے۔ تیرہ باب اور [کارپس_فورم ایم ڈی](../../corpus_forum.md) اسے فورم کے عمل میں لاگو کریں۔ وہ ابواب اپنے موضوع کے لحاظ سے ضروری حفاظتی اقدامات شامل کر سکتے ہیں۔ وہ کمزور متبادل نہیں بنا سکتے۔
+> - **نفاذ کا مالک:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*آئینی لین اور فنکشنل علیحدگی*) [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)، اور [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) سیٹیں رکھیں اور ان کو فعال کریں۔ وہ سخت ہو سکتے ہیں اور پابند خصوصی اتھارٹی سیٹ کی قسمیں شامل کر سکتے ہیں۔ وہ اس باب کو تنگ نہیں کر سکتے۔
+> - **عمل سے متعلق ایپلیکیشن نیچے کی طرف رہتی ہے:** باب نو اس ضرورت کا اطلاق سسٹم الائنمنٹ سرٹیفیکیشن اور ادارہ جاتی سیدھ سرٹیفیکیشن پر کرتا ہے۔ [باب دس §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) اس کا اطلاق اسٹینڈنگ ریکارڈز پر ہوتا ہے۔ تیرہ باب اور [کارپس_فورم ایم ڈی](../../corpus_forum.md) اسے فورم کے عمل میں لاگو کریں۔ وہ ابواب اپنے موضوع کے لحاظ سے ضروری حفاظتی اقدامات شامل کر سکتے ہیں۔ وہ کمزور متبادل نہیں بنا سکتے۔
 >
 > پڑھنے کی ترتیب: §1 مقصد اور دائرہ کار → §2 چار نشستوں کی ضرورت → §3 آزادی اور تنازعات → §4 غلط سیٹ روٹنگ → §5 شائع شدہ جگہ کا تعین، متبادلات، اور وفد
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - بہاو:
   - [باب نو](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000)؛
-  - [باب دس](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000)؛
-  - [باب تیرہ](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000)؛
-  - [باب چودہ](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)؛ مندرجہ بالا نامزد نفاذ کا متن۔
+  - [باب دس](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000)؛
+  - [باب تیرہ](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000)؛
+  - [باب چودہ](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)؛ مندرجہ بالا نامزد نفاذ کا متن۔
 - کے ساتھ پڑھیں:
   - [باب اول §19.3 غلط ترتیب کا پتہ لگانا](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3)*جمع کا پتہ لگانا اور جائزہ لینا*);
   - [منسوب ایکشن](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
 - اپ اسٹریم: [§1](#1-purpose-scope-and-owner-boundary); [باب اول §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3)؛ [باب اول §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1)۔
-- بہاو: [§3](#3-independence-conflict-and-control-lines) کے ذریعے [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*سیٹ کیٹلاگ — عمل کے کردار کے آثار اور آپریشنل حدود*)۔
+- بہاو: [§3](#3-independence-conflict-and-control-lines) کے ذریعے [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*سیٹ کیٹلاگ — عمل کے کردار کے آثار اور آپریشنل حدود*)۔
 - کے ساتھ پڑھیں: [§6](#6-proportional-scaling-and-merged-hosting) واحد اجازت یافتہ ضم ہوسٹنگ پاتھ کے لیے۔
 
 </details>
@@ -229,7 +229,7 @@ flowchart TB
 
 - اپ اسٹریم: [§2](#2-four-seat-constitutional-requirement); [اتھارٹی کے حساب سے جوابدہی۔](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [آرٹیکل XXV](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*آئینی تشریح، جائزہ، اور اینٹی کیپچر حفاظتی تدابیر*)۔
 - بہاو: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); باب نو سرٹیفیکیشن کے اجزاء کے کردار؛ باب دس ریکارڈ کی تحویل؛ باب تیرہ فورم مخالف خود فیصلہ.
-- کے ساتھ پڑھیں: [میٹریل کنٹرول لائن](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*تنازعہ سالمیت، اینٹی کیپچر، اور اینٹی کرپشن*) اور [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*سالمیت کے تحفظات، اینٹی کیپچر آپریشنز، اور خود فیصلہ کرنے کے خلاف معاونت*) آپریشنل تنازعہ اور خود فیصلہ کرنے کے مخالف حفاظتی اقدامات کے لیے۔
+- کے ساتھ پڑھیں: [میٹریل کنٹرول لائن](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*تنازعہ سالمیت، اینٹی کیپچر، اور اینٹی کرپشن*) اور [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*سالمیت کے تحفظات، اینٹی کیپچر آپریشنز، اور خود فیصلہ کرنے کے خلاف معاونت*) آپریشنل تنازعہ اور خود فیصلہ کرنے کے مخالف حفاظتی اقدامات کے لیے۔
 
 </details>
 
@@ -255,7 +255,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
 - اپ اسٹریم: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- بہاو: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 مشترکہ سیٹ رولز](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- بہاو: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 مشترکہ سیٹ رولز](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - کے ساتھ پڑھیں: [باب ایک §17.5 مزاحمت کرنے کا فرض](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5)۔
 
 </details>
@@ -302,12 +302,12 @@ flowchart TB
   - [§3](#3-independence-conflict-and-control-lines);
   - [شفافیت](../../core_05.050_band_oversight.md#transparency);
   - [آڈٹ ایبلٹی](../../core_05.050_band_oversight.md#auditability).
-- بہاو: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*فنکشنل علیحدگی لین*); [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*مجاز کردار اور احتسابی سلسلہ*); باب نو اور باب دس کا ریکارڈ۔
+- بہاو: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*فنکشنل علیحدگی لین*); [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*مجاز کردار اور احتسابی سلسلہ*); باب نو اور باب دس کا ریکارڈ۔
 - کے ساتھ پڑھیں:
   - [سسٹم چارٹر](../../core_05.040_band_continuity.md#system-charter),
   - [ادارہ جاتی چارٹر](../../core_05.040_band_continuity.md#institutional-charter);
   - [باب سات §4 چارٹر رول میپ اور اسٹینڈنگ ریکارڈ کی تحویل](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4); اور
-  - [چودہ باب §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5)۔
+  - [چودہ باب §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5)۔
 
 </details>
 
@@ -377,7 +377,7 @@ flowchart TB
   - [مادی داؤ](../../core_00.000_preamble.md#material-stake);
   - [ضرورت](../../core_05.035_band_accountability.md#necessity);
   - [تناسب](../../core_05.035_band_accountability.md#proportionality).
-- بہاو: [باب دس §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7)؛ [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*کلاس اسکیلڈ لین اسٹافنگ اور قابلیت فالتو پن*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*فنکشنل علیحدگی لین*)۔
+- بہاو: [باب دس §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7)؛ [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*کلاس اسکیلڈ لین اسٹافنگ اور قابلیت فالتو پن*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*فنکشنل علیحدگی لین*)۔
 - کے ساتھ پڑھیں: [قابل گریز بوجھ](../../core_05.040_band_continuity.md#avoidable-burden) اور باب اول [§3.3 اینٹی ڈیگریڈنگ عمل](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ flowchart TB
 - اپ اسٹریم:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [باب تیرہ §6.1 ہنگامی اقدامات اور تسلسل کا بوجھ](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1)؛
+  - [باب تیرہ §6.1 ہنگامی اقدامات اور تسلسل کا بوجھ](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1)؛
   - [پہلے سے طے شدہ عبوری کرنسی](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - ڈاون اسٹریم: نامزد نفاذ متن میں واقعہ، روک تھام، رہائی، تسلسل، اور واقعہ کے بعد کے جائزے کے عمل۔
-- کے ساتھ پڑھیں: [وقت کی پابندی](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [شواہد کا تحفظ](../../core_05.050_band_oversight.md#evidence-preservation)، اور [CI-14.205 §6 سیٹ کیٹلاگ — عمل کے کردار کے آثار اور آپریشنل حدود](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- کے ساتھ پڑھیں: [وقت کی پابندی](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [شواہد کا تحفظ](../../core_05.050_band_oversight.md#evidence-preservation)، اور [CI-14.205 §6 سیٹ کیٹلاگ — عمل کے کردار کے آثار اور آپریشنل حدود](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ flowchart TB
   - [مادی طور پر بائنڈنگ ایکٹ ریکارڈ](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [منسوب ایکشن](../../core_05.035_band_accountability.md#attributable-action);
   - [انتساب کی سالمیت](../../core_05.035_band_accountability.md#attribution-integrity).
-- بہاو: [CS-14.305 §10 قابل معائنہ قابل منسوب کارروائی](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 مشترکہ سیٹ رولز](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); ہر عمل کا ریکارڈ §8 کے زیر انتظام؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*بیس مشین کی جانچ پڑتال کے قابل فارم؛ عمل کی حمایت، دوسری تعریف نہیں۔*)۔
+- بہاو: [CS-14.305 §10 قابل معائنہ قابل منسوب کارروائی](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 مشترکہ سیٹ رولز](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); ہر عمل کا ریکارڈ §8 کے زیر انتظام؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*بیس مشین کی جانچ پڑتال کے قابل فارم؛ عمل کی حمایت، دوسری تعریف نہیں۔*)۔
 - کے ساتھ پڑھیں: [§4 غلط سیٹ روٹنگ](#4-wrong-seat-routing) اور [باب چار §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5)۔
 
 </details>
@@ -564,9 +564,9 @@ flowchart TB
 - اپ اسٹریم: [§1](#1-purpose-scope-and-owner-boundary) کے ذریعے [§8](#8-act-records-and-attributable-handoffs).
 - بہاو:
   - [باب نو](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000)؛
-  - [باب دس](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000)؛
-  - [باب تیرہ](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000)؛
-  - [باب چودہ](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)۔
+  - [باب دس](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000)؛
+  - [باب تیرہ](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13.000)؛
+  - [باب چودہ](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000)۔
 - کے ساتھ پڑھیں: [اتھارٹی اسٹیک اور اندرونی درجہ بندی](../../core_05.045_band_integrative.md#owner-non-relocation) اور [تمہید مالک رجسٹر](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

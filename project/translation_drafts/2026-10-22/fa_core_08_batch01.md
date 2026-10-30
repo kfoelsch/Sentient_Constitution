@@ -14,8 +14,8 @@
 >
 > - **صاحب قانون اساسی:** الزام تفکیک وظایف برای اعمال الزام آور مادی که از طریق کرسی های متمایز انجام می شود. حداقل محتوای جهانی هر کدام [سوابق قانون الزام آور مادی](../../core_05.035_band_accountability.md#materially-binding-act-record); استقلال از بازیگر و بازیگر [خط کنترل مواد](../../core_05.035_band_accountability.md#material-control-line); خط منتشر شده و قرار دادن نقش. درگیری، جای خالی، جایگزینی، و مسیریابی صندلی اشتباه. میزبانی ادغام شده متناسب؛ انتقال های قابل انتساب؛ و حداقل شرایط استقلال که در هر فرآیند قانون اساسی بعدی باید اعمال شود.
 > - **منبع لایه اصلی:** [فصل اول §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) برای حفظ استقلال عملکردی نیاز به حاکمیت دارد و معماری صندلی عملیاتی را در اینجا هدایت می کند.
-> - **صاحب اجرا:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*خط مشروطه و جدایی عملکردی*) [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)، و [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) قرار دادن و عملیاتی کردن صندلی ها. آنها ممکن است سخت‌گیرانه‌تر باشند و ممکن است انواع صندلی‌های دارای مجوز ویژه محدود را اضافه کنند. آنها ممکن است این فصل را محدود نکنند.
-> - **برنامه خاص فرآیند در پایین دست باقی می ماند:** فصل نهم این الزام را برای صدور گواهینامه همسویی سیستم و صدور گواهینامه همسویی سازمانی اعمال می کند. [فصل دهم §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) آن را به سوابق ثابت اعمال می کند. فصل سیزدهم و [بدنه_forum.md](../../corpus_forum.md) آن را در فرآیند انجمن اعمال کنید. این فصل ها ممکن است پادمان های مورد نیاز موضوع خود را اضافه کنند. آنها ممکن است جایگزین ضعیف تری ایجاد نکنند.
+> - **صاحب اجرا:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*خط مشروطه و جدایی عملکردی*) [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)، و [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) قرار دادن و عملیاتی کردن صندلی ها. آنها ممکن است سخت‌گیرانه‌تر باشند و ممکن است انواع صندلی‌های دارای مجوز ویژه محدود را اضافه کنند. آنها ممکن است این فصل را محدود نکنند.
+> - **برنامه خاص فرآیند در پایین دست باقی می ماند:** فصل نهم این الزام را برای صدور گواهینامه همسویی سیستم و صدور گواهینامه همسویی سازمانی اعمال می کند. [فصل دهم §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) آن را به سوابق ثابت اعمال می کند. فصل سیزدهم و [بدنه_forum.md](../../corpus_forum.md) آن را در فرآیند انجمن اعمال کنید. این فصل ها ممکن است پادمان های مورد نیاز موضوع خود را اضافه کنند. آنها ممکن است جایگزین ضعیف تری ایجاد نکنند.
 >
 > ترتیب خواندن: §1 هدف و دامنه ← §2 شرط چهار صندلی ← §3 استقلال و درگیری ← §4 مسیریابی صندلی اشتباه → §5 قرار دادن منتشر شده، جایگزین ها و تفویض → §6 مقیاس بندی متناسب → §7 موارد اضطراری → §8 قانون سوابق و حذف برنامه ها.
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - پایین دست:
   - [فصل نهم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9000)؛
-  - [فصل دهم](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10000)؛
-  - [فصل سیزدهم](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13000)؛
-  - [فصل چهاردهم](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14000)؛ متن پیاده سازی تعیین شده به نام بالا.
+  - [فصل دهم](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10000)؛
+  - [فصل سیزدهم](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13000)؛
+  - [فصل چهاردهم](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14000)؛ متن پیاده سازی تعیین شده به نام بالا.
 - بخوانید با:
   - [فصل اول §19.3 تشخیص ناهماهنگی](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*تشخیص و بررسی جمع*)
   - [اقدام قابل انتساب](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادست: [§1](#1-purpose-scope-and-owner-boundary); [فصل اول §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3); [فصل اول §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1).
-- پایین دست: [§3](#3-independence-conflict-and-control-lines) از طریق [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*کاتالوگ صندلی - کهن الگوهای نقش فرآیند و مرزهای عملیاتی*).
+- پایین دست: [§3](#3-independence-conflict-and-control-lines) از طریق [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*کاتالوگ صندلی - کهن الگوهای نقش فرآیند و مرزهای عملیاتی*).
 - بخوانید با: [§6](#6-proportional-scaling-and-merged-hosting) برای تنها مسیر میزبانی ادغام شده مجاز.
 
 </details>
@@ -229,7 +229,7 @@ flowchart TB
 
 - بالادست: [§2](#2-four-seat-constitutional-requirement); [پاسخگویی در مقیاس اختیار](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [ماده XXV](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*تفسیر قانون اساسی، بررسی، و پادمان های ضد دستگیری*).
 - پایین دست: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); فصل نهم نقش مؤلفه های گواهینامه; فصل دهم نگهداری ثبت؛ انجمن فصل سیزدهم ضد خود قضاوتی.
-- بخوانید با: [خط کنترل مواد](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*یکپارچگی درگیری، ضد دستگیری و ضد فساد*) و [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*پادمان های یکپارچگی، عملیات ضد دستگیری، و پشتیبانی ضد خود قضاوتی*) برای درگیری عملیاتی و پادمان های ضد خود قضاوتی.
+- بخوانید با: [خط کنترل مواد](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*یکپارچگی درگیری، ضد دستگیری و ضد فساد*) و [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*پادمان های یکپارچگی، عملیات ضد دستگیری، و پشتیبانی ضد خود قضاوتی*) برای درگیری عملیاتی و پادمان های ضد خود قضاوتی.
 
 </details>
 
@@ -255,7 +255,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادست: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- پایین دست: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 قوانین صندلی مشترک](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- پایین دست: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 قوانین صندلی مشترک](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - بخوانید با: [فصل اول §17.5 وظیفه مقاومت](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5).
 
 </details>
@@ -302,12 +302,12 @@ flowchart TB
   - [§3](#3-independence-conflict-and-control-lines);
   - [شفافیت](../../core_05.050_band_oversight.md#transparency);
   - [قابلیت حسابرسی](../../core_05.050_band_oversight.md#auditability).
-- پایین دست: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*خطوط جداسازی عملکردی*) [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*نقش های مجاز و زنجیره های پاسخگویی*) رکوردهای فصل نهم و دهم.
+- پایین دست: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*خطوط جداسازی عملکردی*) [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*نقش های مجاز و زنجیره های پاسخگویی*) رکوردهای فصل نهم و دهم.
 - بخوانید با:
   - [منشور سیستم](../../core_05.040_band_continuity.md#system-charter)،
   - [منشور نهادی](../../core_05.040_band_continuity.md#institutional-charter);
   - [فصل هفتم §4 نقشه نقش منشور و نگهبانی ثابت](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7000 §4); و
-  - [فصل چهاردهم §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14000 §5).
+  - [فصل چهاردهم §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14000 §5).
 
 </details>
 
@@ -377,7 +377,7 @@ flowchart TB
   - [سهام مادی](../../core_00.000_preamble.md#material-stake);
   - [ضرورت](../../core_05.035_band_accountability.md#necessity);
   - [تناسب](../../core_05.035_band_accountability.md#proportionality).
-- پایین دست: [فصل دهم §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*پرسنل خط طبقه بندی شده و مازاد صلاحیت*) [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*خطوط جداسازی عملکردی*).
+- پایین دست: [فصل دهم §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10.000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*پرسنل خط طبقه بندی شده و مازاد صلاحیت*) [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*خطوط جداسازی عملکردی*).
 - بخوانید با: [بار قابل اجتناب](../../core_05.040_band_continuity.md#avoidable-burden) و فصل اول [§3.3 فرآیند ضد تخریب](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ flowchart TB
 - بالادست:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [فصل سیزدهم §6.1 اقدامات اضطراری و بار ادامه دار](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
+  - [فصل سیزدهم §6.1 اقدامات اضطراری و بار ادامه دار](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1);
   - [حالت موقت پیش فرض](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - پایین‌دست: فرآیندهای بررسی حادثه، مهار، انتشار، ادامه و پس از رویداد در متن پیاده‌سازی تعیین‌شده.
-- بخوانید با: [به موقع بودن](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional)، [حفظ شواهد](../../core_05.050_band_oversight.md#evidence-preservation)، و [CI-14.205 §6 کاتالوگ صندلی - کهن الگوهای نقش فرآیند و مرزهای عملیاتی](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- بخوانید با: [به موقع بودن](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional)، [حفظ شواهد](../../core_05.050_band_oversight.md#evidence-preservation)، و [CI-14.205 §6 کاتالوگ صندلی - کهن الگوهای نقش فرآیند و مرزهای عملیاتی](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ flowchart TB
   - [سوابق قانون الزام آور مادی](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [اقدام قابل انتساب](../../core_05.035_band_accountability.md#attributable-action);
   - [یکپارچگی اسناد](../../core_05.035_band_accountability.md#attribution-integrity).
-- پایین دست: [CS-14.305 §10 اقدام قابل انتساب قابل بازرسی](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 قوانین صندلی مشترک](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); هر رکورد فرآیندی که توسط §8 اداره می شود. [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*فرم قابل بررسی ماشینی پایه؛ پشتیبانی از فرآیند، نه یک تعریف دوم*).
+- پایین دست: [CS-14.305 §10 اقدام قابل انتساب قابل بازرسی](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 قوانین صندلی مشترک](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); هر رکورد فرآیندی که توسط §8 اداره می شود. [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*فرم قابل بررسی ماشینی پایه؛ پشتیبانی از فرآیند، نه یک تعریف دوم*).
 - بخوانید با: [§4 مسیریابی اشتباه صندلی](#4-wrong-seat-routing) و [فصل چهارم §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4000 §5).
 
 </details>
@@ -564,9 +564,9 @@ flowchart TB
 - بالادست: [§1](#1-purpose-scope-and-owner-boundary) از طریق [§8](#8-act-records-and-attributable-handoffs).
 - پایین دست:
   - [فصل نهم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9000)؛
-  - [فصل دهم](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10000)؛
-  - [فصل سیزدهم](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13000)؛
-  - [فصل چهاردهم](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14000).
+  - [فصل دهم](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10000)؛
+  - [فصل سیزدهم](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13000)؛
+  - [فصل چهاردهم](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14000).
 - بخوانید با: [پشته اقتدار و سلسله مراتب داخلی](../../core_05.045_band_integrative.md#owner-non-relocation) و [ثبت نام مالک مقدمه](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

@@ -186,7 +186,7 @@ These are never allowed:
 - sweeping whole broad categories of misconduct into voting bans;
 - lock patterns that end up targeting people by race, sex, disability, or other protected traits, or by stand-ins for them.
 
-**The one exception:** after a **final** finding of the most serious kind of attack on the constitution itself, a person loses their foundational vote **until they've fully made things right**. Even then, the vote can't be withheld just because of poverty, disability, exile, loss of the body or hardware they run on, or uncertainty about how much is owed, if they're making good-faith, ongoing repayment. (Details are in [Chapter Fourteen §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).)
+**The one exception:** after a **final** finding of the most serious kind of attack on the constitution itself, a person loses their foundational vote **until they've fully made things right**. Even then, the vote can't be withheld just because of poverty, disability, exile, loss of the body or hardware they run on, or uncertainty about how much is owed, if they're making good-faith, ongoing repayment. (Details are in [Chapter Fifteen §4.1](../../core_15.000_governance.md#41-entitlement-and-eligibility).)
 
 #### Three special locks for serious cases
 

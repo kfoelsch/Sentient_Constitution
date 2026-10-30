@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*oDef parse mechanics*) and **CJS-5.140 §14**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.140 §13** (*oDef parse mechanics*) and **CJS-5.140 §14**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or the [joint-structure reader guide](cjs_reader_guide.md). General readers may defer this file until cross-domain **oDef** clusters are in scope.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
   - [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers and **Def.*** / **oDef** homes;
-  - [Chapter Eighteen](../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline and
+  - [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Downstream: [CJS-5.140 §13](#cjs-5140-13-operational-structure-and-subsection-local-terminology) (*CJS-5.140 §14: oDef parse mechanics*); [CJS-5.140 §14](#cjs-5140-14-operational-clusters) (*Operational clusters*).
 - Read with: **CJS-5.140 §13** (*CJS-5.140 §14: oDef parse mechanics*); **CJS-5.140 §14** (*Operational clusters*); **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*).
@@ -47,7 +47,7 @@ A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guid
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
-  - [Chapter Eighteen](../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline and
+  - [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: **CJS-5.140 §13** (*CJS-5.140 §14: oDef parse mechanics*); **CJS-5.140 §14** (*Operational clusters*).
 
@@ -87,7 +87,7 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
-  - [Chapter Eighteen](../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline and
+  - [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
 - Read with: **CJS-5.140 §14** (*Operational clusters*); **CJS-5.140 §13** (*CJS-5.140 §14: oDef parse mechanics*).
 
@@ -126,6 +126,6 @@ Any read-with cross-reference stated in the head **In scope** (or head Trace) ap
 
 ---
 
-**Previous file:** [cjs_18.105_drafting_contracts.md](cjs_18.105_drafting_contracts.md)
+**Previous file:** [cjs_19.105_drafting_contracts.md](cjs_19.105_drafting_contracts.md)
 
-**Next file:** [cjs_18.110_specific_joint_interlocks.md](cjs_18.110_specific_joint_interlocks.md)
+**Next file:** [cjs_19.110_specific_joint_interlocks.md](cjs_19.110_specific_joint_interlocks.md)

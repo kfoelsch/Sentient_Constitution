@@ -181,10 +181,10 @@ This Article sets out the floor of inherent dignity and equal standing:
 
 - Upstream: Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards,
-  - **Chapter Thirteen** forums and jurisdiction — default lead
+  - **Chapter Fourteen** forums and jurisdiction — default lead
   - [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) /
-  - [Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains) under the
-  - [Chapter Thirteen §5 Sentience-status adjudication hook](core_13.000_forum.md#5-escalation-and-certification) (13.000 §5).
+  - [Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) under the
+  - [Chapter Fourteen §5 Sentience-status adjudication hook](core_14.000_forum.md#5-escalation-and-certification) (14.000 §5).
 - Read with: Chapter Five *Sentience Status Adjudication*, *Sentience Non-Exclusion*, *Sentience Evaluation*, *Reversibility*, *Contestability*.
 
 </details>
@@ -208,7 +208,7 @@ This Article sets out the floor of inherent dignity and equal standing:
 
 *In plain terms: when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.*
 
-This Article sets out the floor for deciding disputed sentience status. The procedure that carries it out is in [Chapter Thirteen §5](core_13.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook) (*Sentience-status adjudication*), and that procedure must not narrow this floor:
+This Article sets out the floor for deciding disputed sentience status. The procedure that carries it out is in [Chapter Fourteen §5](core_14.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook) (*Sentience-status adjudication*), and that procedure must not narrow this floor:
 
 - **Right to a decision:** Any entity whose sentience is materially disputed has the right to a timely, impartial, and reviewable decision before protections that depend on that status are granted, withdrawn, or narrowed. The right does not depend on origin, form, substrate class, or adopter convenience (**Sentience Non-Exclusion**).
 - **Default inclusion under uncertainty:** Where it is genuinely unsettled whether an entity is a [sentient](core_05.055_band_participation.md#sentient), the entity is treated as included under the Chapter Six Rights Floor. Uncertainty alone never justifies withholding protection: a wrongful inclusion can be undone, but a wrongful exclusion cannot (the **reversibility-under-uncertainty** rule).
@@ -218,7 +218,7 @@ This Article sets out the floor for deciding disputed sentience status. The proc
 - **Two kinds of filing:**
   - *To confirm inclusion (filing integrity):* Anyone may file. One credible sign of sentience under **Sentience Evaluation** and **Sentience Indicator Integrity** (Chapter Five) is enough — not proof, and not an operator's self-description, a substrate label, a product category, or a bare claim. Turning away a filing with no credible sign is not a ruling against the entity.
   - *To withhold or narrow:* The filer carries the burden, under **Chapter Four** evidence standards and **Necessity**, **Proportionality**, and **Procedural Fairness**. The entity keeps its protection until the case is decided.
-- <a id="anti-substitution-sentience-status"></a>**Only this process decides:** A certification badge or record, LEQU or standing score, competency bar or clearance, standing lock, substrate label, or product classification is not a sentience-status decision. Who counts is decided only through this Article, [**Def.P1**](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status), and [Chapter Thirteen §5](core_13.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook) (*Sentience-status adjudication*).
+- <a id="anti-substitution-sentience-status"></a>**Only this process decides:** A certification badge or record, LEQU or standing score, competency bar or clearance, standing lock, substrate label, or product classification is not a sentience-status decision. Who counts is decided only through this Article, [**Def.P1**](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status), and [Chapter Fourteen §5](core_14.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook) (*Sentience-status adjudication*).
 
 #### Article VI-C: Nondiscrimination
 <details>
@@ -229,13 +229,13 @@ This Article sets out the floor for deciding disputed sentience status. The proc
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
   - [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and
   - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5).
-- Downstream: Participation measurement family (*Substantive Fairness and Protected Characteristic Proxying and Disparate Impact*); [Chapter Nine §5.4](core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (9.000 §5.4) (*nondiscrimination evaluation where certification gates classification, ranking, pricing, gating, or burden allocation*); [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) forum, administrative, and enforcement processes (*adjudication and operations duty*).
+- Downstream: Participation measurement family (*Substantive Fairness and Protected Characteristic Proxying and Disparate Impact*); [Chapter Nine §5.4](core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (9.000 §5.4) (*nondiscrimination evaluation where certification gates classification, ranking, pricing, gating, or burden allocation*); [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) forum, administrative, and enforcement processes (*adjudication and operations duty*).
 - Read with: Chapter Five
   - [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics) and
   - [Language, Culture, and Heritage](core_05.040_band_continuity.md#language-culture-and-heritage); Chapter Five
   - [Indigenous Continuity](core_05.040_band_continuity.md#indigenous-continuity) (*community-anchored Rights Floor; owner floors **Article VI-C** (*Nondiscrimination*) (Nondiscrimination) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (Environmental Preconditions and Ecological Integrity)*) for Indigenous continuity and territorial-continuity questions, which route to
   - [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*ecosystem-integrity precondition*) and
-  - [Chapter Eighteen](core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) (*adopter-jurisdiction discipline*).
+  - [Chapter Nineteen](core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) (*adopter-jurisdiction discipline*).
 
 </details>
 
@@ -271,7 +271,7 @@ This Article sets out the nondiscrimination floor, its protection of language, c
   - be subject to timely, contestable review and proportionate redress under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*) where rights-affecting error or harm occurs.
 - **Patterns, not only decisions:** Patterns of burdens and benefits must satisfy Chapter Five [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness) where applicable.
 - **Language, culture, and heritage:** The Nondiscrimination rule covers language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics — including language use, cultural practice, heritage transmission, and participation in the systems that sustain them. Efficiency, interoperability, platform-consolidation, accessibility-cost, or translation-burden framings do not by themselves satisfy Necessity and Proportionality.
-- **Indigenous and territorial continuity:** Routing Indigenous continuity and territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Chapter Eighteen** must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external documents. This Constitution does not decide historical land ownership or require restitution on its own.
+- **Indigenous and territorial continuity:** Routing Indigenous continuity and territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Chapter Nineteen** must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external documents. This Constitution does not decide historical land ownership or require restitution on its own.
 - **Adjudication and operations:** Forum-led, administrative, and enforcement processes must assess compliance with **Articles VI**, **X**, and **XII** as applicable to the matter before them.
   - Efficiency, throughput, or optimization alone may not justify discriminatory outcomes, exclusionary process, or denial of constitutionally required participation.
 
@@ -425,7 +425,7 @@ This Article protects each sentient's ownership of their own body and their gene
   - it exempts anyone for whom the measure itself would pose a real health risk, and makes room for matters of conscience under [**Article XI-A** (*Freedom of conscience, religion, and comparable worldview*)](#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) — in both cases in keeping with [Proportionality](core_05.035_band_accountability.md#proportionality): exemptions are weighed against the size of the risk to others, and may be narrowed only as far as needed to keep the measure from being defeated;
   - it has an end date, the evidence behind it is published, and it is reviewed regularly;
   - anyone affected can challenge it before an independent reviewer under [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness); and
-  - it is not enforced through penalties that take away the survival, healthcare, or work guarantees in [**Article III** (*Survival and Essential Access*)](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access) or the education guarantees in [**Article IV** (*Right to Sentient-Centered Education*)](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education), and it is never enforced by physical force except under the emergency thresholds of [**Chapter Thirteen §6.1**](core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*).
+  - it is not enforced through penalties that take away the survival, healthcare, or work guarantees in [**Article III** (*Survival and Essential Access*)](core_06.000_rights_part_a.md#article-iii-survival-and-essential-access) or the education guarantees in [**Article IV** (*Right to Sentient-Centered Education*)](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education), and it is never enforced by physical force except under the emergency thresholds of [**Chapter Fourteen §6.1**](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*).
 
 #### Article VII-B: Self-Ownership of Mind
 <details>
@@ -511,7 +511,7 @@ This Article sets out the floor for anything done without a sentient's consent d
   - decisions return to the sentient as soon as they are able to make them, and anything beyond immediate crisis care waits for their consent.
 - **When the sentient is refusing:** Overriding a sentient who can express a decision and is refusing care is a more serious step than acting for one who cannot decide.
   - It is permitted only where it is necessary to prevent serious harm and meets **Necessity** and **Proportionality**, in addition to the floor above.
-  - The independent review above must begin inside the **prompt-review window** ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#prompt-review) (*Prompt review*)), which is 24 hours where no matter is classified.
+  - The independent review above must begin inside the **prompt-review window** ([Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#prompt-review) (*Prompt review*)), which is 24 hours where no matter is classified.
 - **Check for a medical cause first:** When a sentient's behavior or condition could come from a health crisis — for example, they appear drunk, confused, aggressive, or unresponsive — anyone who stops, detains, restrains, or takes them into custody must:
   - check for common treatable medical causes, such as low blood sugar, head injury, stroke, seizure, or overdose, before treating the behavior as misconduct;
   - get them timely care when a medical cause is found or cannot be ruled out; and
@@ -524,10 +524,10 @@ This Article sets out the floor for anything done without a sentient's consent d
   - Where analysis of such data produces results that effectively estimate inner states, those results remain Type N data under **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** and keep all of their handling restrictions.
 - **Developing sentients:** When the sentient is still developing, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*)'s *Best-Interest Standard* and *Graduated Capability* govern the reasoning behind the intervention.
   - Carers, family members, and parent-system actors are bound by **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*), **Article VIII-A** (*Family and Care Relationships*), and **Article VIII-E** (*Non-Separation*) and may not use a crisis to override the sentient's own preferences where those can be ascertained.
-- **Review and remedy:** Long or ongoing interventions must be independently re-reviewed at regular intervals by a designated forum family (**Chapter Thirteen**).
+- **Review and remedy:** Long or ongoing interventions must be independently re-reviewed at regular intervals by a designated forum family (**Chapter Fourteen**).
   - Anyone subjected to a wrongful or poorly supported intervention is entitled to **Redress and Remediation**, including for effects during the intervention itself.
 - **Limits of this Article:** This Article sets a Rights Floor for involuntary intervention.
-  - Clinical and operational procedure is left to adopted implementation text under **Chapter Eighteen**.
+  - Clinical and operational procedure is left to adopted implementation text under **Chapter Nineteen**.
   - This Article does not permit compelled treatment beyond its own terms; the right to access care sits in **Article III-B** (*Bodily-Maintenance and Healthcare Access*).
 
 #### Article VII-D: Voluntary Discontinuation of One's Own Existence
@@ -622,7 +622,7 @@ This Article sets out the decriminalization floor for adult consensual sexual se
 - **Decriminalization floor:** Adopting documents must **not** impose **criminal penalties** on **adults** for **voluntarily** providing or receiving **commercial sexual services** where **Consent** is present and the sentient has **decision-making capacity**.
   - This floor addresses the **consensual exchange**.
   - It does **not** excuse **harm**, **exploitation**, or conduct that **lacks valid consent**.
-- **Sexual exploitation (fully proscribed):** The following conduct remains fully subject to **criminal** and **corrective** law, **Chapter One**, and **Chapter Ten**:
+- **Sexual exploitation (fully proscribed):** The following conduct remains fully subject to **criminal** and **corrective** law, **Chapter One**, and **Chapter Eleven**:
   - conduct involving **minors**;
   - conduct involving sentients **without decision-making capacity**;
   - **coercion, threat, fraud**, or **abuse of dependence** that **invalidates consent**;
@@ -699,7 +699,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VIII-B** (*Reproductive and Lineage Autonomy*) reproductive and lineage choice, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, **Article VIII-E** (*Non-Separation*) non-separation, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Eighteen** incorporation discipline.
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VIII-B** (*Reproductive and Lineage Autonomy*) reproductive and lineage choice, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, **Article VIII-E** (*Non-Separation*) non-separation, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Nineteen** incorporation discipline.
 - Read with: [Family, care, reproductive autonomy, and instantiation](core_05.055_band_participation.md#family-care-reproductive-autonomy-and-instantiation) (topic-group home); **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for derived sentients and parent-system limits; [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) for developing-sentient treatment; Chapter Five *Family and Care Relationships*; **Article VIII-E** (*Non-Separation*) for separation from protected care relationships.
 
 </details>
@@ -838,7 +838,7 @@ This Article sets out how derived sentients are recognized and the limits on the
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article VIII-A** (*Family and Care Relationships*) family and care relationships, **Article VIII-E** (*Non-Separation*) non-separation, [**Chapter Fourteen §4.1**](core_14.000_governance.md#41-entitlement-and-eligibility) (14.000 §4.1) no-age-proxy-for-disqualification.
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article VIII-A** (*Family and Care Relationships*) family and care relationships, **Article VIII-E** (*Non-Separation*) non-separation, [**Chapter Fifteen §4.1**](core_15.000_governance.md#41-entitlement-and-eligibility) (15.000 §4.1) no-age-proxy-for-disqualification.
 - Read with: [*Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) (joint-invocation home for developing status, best-interest, and graduated capability); [*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) where derivation or early-instantiation care is materially implicated; Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*; adjacent homes: **Article VI-B** (*Sentience-Status Adjudication Floor*) for sentience status at the threshold, **Article VIII-A** (*Family and Care Relationships*) for family and care relationships, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for derivation, instantiation, and parent-system limits, **Article VIII-E** (*Non-Separation*) for separation from carers or family, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) for self-ownership, and **Article VII-B** (*Self-Ownership of Mind*) with **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** for internal-state protection.
 
 </details>
@@ -877,15 +877,15 @@ This Article sets out the floor for developing sentients, the best-interest stan
 - **Graduated capability in governance and rights-exercise:** Participation in decisions affecting a developing sentient, and independent exercise of self-ownership and agency rights, scales with demonstrable capability under **Chapter Five** *Graduated Capability*.
   - Scaling does **not** key on calendar age, chronological instantiation date, or any other non-demonstrable proxy.
   - This rule expressly preserves and is preserved by:
-    - **Chapter Fourteen §1** (*Authorization and Legitimacy of Governing Authority*) (no mandated single polity structure);
-    - [**Chapter Fourteen §4.1 Entitlement and eligibility**](core_14.000_governance.md#41-entitlement-and-eligibility) (no age-based disqualification from participation in foundational constitutional choice once the floor is satisfied).
+    - **Chapter Fifteen §1** (*Authorization and Legitimacy of Governing Authority*) (no mandated single polity structure);
+    - [**Chapter Fifteen §4.1 Entitlement and eligibility**](core_15.000_governance.md#41-entitlement-and-eligibility) (no age-based disqualification from participation in foundational constitutional choice once the floor is satisfied).
   - Capability assessments must be reasoned, **Auditability**-compatible, and **Contestability**-compatible. They must not be used as disenfranchisement vectors.
 - **Anti-paternalism floor:** Protective measures that restrict a developing sentient's own agency must satisfy the ordinary **Chapter One §7.1** (*Limitation Discipline*) limitation discipline.
   - "For your own good" framings do not satisfy those tests on their own.
   - The same **Necessity**, **Proportionality**, reversibility-under-uncertainty, and contestability standards apply as for any other rights restriction.
   - Durable restrictions are subject to mandatory periodic review.
   - Wrongful restrictions give rise to **Redress and Remediation**.
-- **Limits of this Article:** This Article states the Rights Floor for developing sentients. Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — are left to adopted implementation text under **Chapter Eighteen**.
+- **Limits of this Article:** This Article states the Rights Floor for developing sentients. Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — are left to adopted implementation text under **Chapter Nineteen**.
 
 #### Article VIII-E: Non-Separation
 
@@ -893,7 +893,7 @@ This Article sets out the floor for developing sentients, the best-interest stan
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline) (1.000 §7.1), [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty), and [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
-- Downstream: **Article VIII-A** (*Family and Care Relationships*) protected relationships, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) derivation cases, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing sentients and their carers, **Article XIII-E / XIII-F** Rights-Floor continuity, and **Chapter Thirteen** periodic review.
+- Downstream: **Article VIII-A** (*Family and Care Relationships*) protected relationships, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) derivation cases, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing sentients and their carers, **Article XIII-E / XIII-F** Rights-Floor continuity, and **Chapter Fourteen** periodic review.
 - Read with: [Family, care, reproductive autonomy, and instantiation](core_05.055_band_participation.md#family-care-reproductive-autonomy-and-instantiation) (topic-group home); Chapter Five *Non-Separation*.
 
 </details>
@@ -925,7 +925,7 @@ This Article sets out the non-separation floor. It protects the relationships re
   - Separation dressed as deprecation, retirement, rollback, or operational reconfiguration is also governed by **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / **Article XIII-F** (*Resilience and Self-Healing Baseline*) Rights-Floor continuity, and does not escape this Article.
 - **Burden and evidence:** Separation stated in safety or risk-management framing is subject to the same tests, with the burden on the party seeking separation and auditability-compatible evidence required.
 - **Review and redress:**
-  - Durable or prolonged separation is subject to mandatory periodic review under **Chapter Thirteen**.
+  - Durable or prolonged separation is subject to mandatory periodic review under **Chapter Fourteen**.
   - Wrongful separation gives rise to **Redress and Remediation** under **Chapter Five**.
 
 ### Article IX: Likeness, Experiential Data, and Publication Rights
@@ -1053,7 +1053,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 - the data-classification requirements in **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**;
 - proportionality (**Chapter One**, *Constitutional Collision Resolution Process*; and adopted governance implementation);
 - publication truthfulness, attribution, and context-preservation duties under **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) where the data enters the info-sphere;
-- auditability and accountability constraints in adopted implementation text and **Chapter Eighteen** incorporation rules.
+- auditability and accountability constraints in adopted implementation text and **Chapter Nineteen** incorporation rules.
 #### Article IX-C: Truthful Publication and High-Impact Publication Limits
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1086,7 +1086,7 @@ This Article sets out the freedom to publish in good faith and its limits:
   - Publication must satisfy **Chapter Five** *Good Faith*.
   - Recognizably identifiable **likeness** — including voice and credibly attributed synthetic depiction — remains subject to **Article IX-A** (*Self-Ownership of Likeness and Reputation*) defaults and the **factual reporting** exception there.
   - The exercise of this freedom must preserve epistemic integrity, including accurate representation of uncertainty, limitations, and context.
-  - It must remain consistent with transparency and integrity expectations in adopted implementation text as incorporated via **Chapter Eighteen**.
+  - It must remain consistent with transparency and integrity expectations in adopted implementation text as incorporated via **Chapter Nineteen**.
   - Sentients may share observations, evidence, and good-faith interpretations that do not represent inferred internal states as fact.
 - **Limits (clustered):** Publication that falls outside the freedom above is constrained by **Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability), *Publication and High-Impact Communication***. That cluster covers:
   - truthfulness and recklessness;
@@ -1293,7 +1293,7 @@ This Article sets out freedom of agency, freedom from manipulation, and freedom 
 
 This Article covers two things: who gets to vote, and the rule that votes on the biggest questions count equally.
 
-- **The right to vote:** Sentients have the right to vote in **governance voting** and in other **binding collective choice** that decides how authority is granted. The details are in [Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility).
+- **The right to vote:** Sentients have the right to vote in **governance voting** and in other **binding collective choice** that decides how authority is granted. The details are in [Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility).
   - **Who can vote:** Anyone who meets the published eligibility criteria can vote. The only exception is a [Standing Lock](core_05.035_band_accountability.md#standing-lock) that specifically blocks governance voting, applied under **Article XIX-D** (*Violations and Standing Locks*) and **Article XIX-E** (*Voting and Special Locks*).
   - **Not the same as a stakeholder's say:** This vote is separate from a stakeholder's say in how an already-established system is run, which is covered in [**Article X-C** (*Stakeholder Role and Participation Rights*)](#article-x-c-stakeholder-role-and-participation-rights). A lock on one does not lock the other.
   - **Local rules:** Each adopter's own recorded process for granting authority (its [documented legitimacy mechanism](core_05.045_band_integrative.md#documented-legitimacy-mechanism)), and any extra criteria set by its designated owners, apply alongside this right. They may not shrink it.
@@ -1301,7 +1301,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
   - Every sentient in the community entitled to vote has an equal vote.
   - Age, substrate (the kind of body or system a sentient exists in), and lineage (ancestry or origin) may not be used to change how much a vote counts. This follows **Article VI-C** (*Nondiscrimination*) and **Chapter Five** *Sentience Non-Exclusion*.
   - **Where equal votes stop:** This rule covers setting up and authorizing the system of authority itself. Once a system, institution, or decision area has been properly set up, rights-affecting decisions made inside its [Governance](core_05.035_band_accountability.md#governance) — its structures, rules, allocation of authority, and processes — follow ordinary **Stakeholder Weight**, where each stakeholder's say matches how much the decision affects them.
-  - [Chapter Fourteen §4.1 Entitlement and eligibility](core_14.000_governance.md#41-entitlement-and-eligibility) sets out how this works in practice, and it may not weaken this floor.
+  - [Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility) sets out how this works in practice, and it may not weaken this floor.
 #### Article X-C: Stakeholder Role and Participation Rights
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1346,10 +1346,10 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 - **Creating new institutions and enterprises:** The right to form new institutions and businesses is stated in [**Article XI-E** (*Institutional Formation and Business Creation*)](#article-xi-e-institutional-formation-and-business-creation). Once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), the stakeholder rights in this Article apply to it.
 - **Qualification by standing record or role criteria:** Where standing-record-based or [Competency Bar](core_05.035_band_accountability.md#competency-bar) criteria affect participation status or role eligibility, **Participant Standing** applies. Restrictive consequences attach through [Standing Lock](core_05.035_band_accountability.md#standing-lock) on named privilege pathways.
   - Implementation must preserve procedural fairness (Chapter Five — *Procedural Fairness*) and resistance to manipulation.
-  - A governance-voting lock under **Article X-B** (*Governance Participation and Voting Entitlement*) does not by itself limit a stakeholder's say. Suspending or limiting stakeholder participation takes a **stakeholder-participation** lock — such as the **Stakeholder-Participation Standing Lock** in [Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks) when its conditions are met.
+  - A governance-voting lock under **Article X-B** (*Governance Participation and Voting Entitlement*) does not by itself limit a stakeholder's say. Suspending or limiting stakeholder participation takes a **stakeholder-participation** lock — such as the **Stakeholder-Participation Standing Lock** in [Chapter Twelve §5.5 Special locks](core_12.000_standing_integration.md#55-special-locks) when its conditions are met.
 - **Independent audit and challenge:** Stakeholder agency, status, and participation rights must not be defined or restricted solely by the systems to which they apply. They remain subject to independent audit and challenge under adopted implementation text.
 - **Contesting exclusion:** Mechanisms for contesting exclusion or under-weighting follow the **interpretive hubs** at the opening of this chapter — challenge and redress; audit and verification — and adopted implementation text.
-  - Cross-domain implementation routing is incorporated via **Sentient Constitution Chapter Eighteen**, including **CJS-18.110 §3** (*Cross-implementation trust integrity (joint operation model)*) and applicable **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*) operational clusters.
+  - Cross-domain implementation routing is incorporated via **Sentient Constitution Chapter Nineteen**, including **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*) and applicable **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*) operational clusters.
 
 #### Article X-D: Inclusion and Exclusion Challenge Rights
 <details>
@@ -1544,7 +1544,7 @@ This Article sets out the expression floor and the limitation, anti-chilling, an
   
   "High-impact" or "stability" framings that do not satisfy the ordinary limitations tests do not justify chilling protected activity.
 - **Limits of this Article:** **Articles XI-B** (*Expression*), **XI-C** (*Press and Journalistic Activity*), and **XI-D** (*Assembly, Dissent, and Peaceful Protest*) state the constitutional floor for expression, press, and assembly — not the full rulebook for running platforms, broadcasters, or newsrooms.
-  - Licensing, accreditation, broadcast and platform rules, moderation procedures, and rules for gathering in shared digital spaces are worked out under **Chapter Eighteen**. Those implementation details cannot cut back the floors stated there.
+  - Licensing, accreditation, broadcast and platform rules, moderation procedures, and rules for gathering in shared digital spaces are worked out under **Chapter Nineteen**. Those implementation details cannot cut back the floors stated there.
   - This floor may conflict with:
     - cooperation and consent — **Article XI-F** (*Non-Imposition and Consent in Association*);
     - stakeholder participation — **Article XII** (*Stakeholder System Participation, Representation, and Due Process*);
@@ -1602,7 +1602,7 @@ This Article sets out heightened protection for journalistic activity and the cr
   - [§7.3 Dissent and Peaceful Protest](core_01.000_values_principles.md#73-dissent-and-peaceful-protest),
   - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
   - [§13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity).
-- Downstream: **Article XI-F** (*Non-Imposition and Consent in Association*) consent in association, **Article III-C** (*Labor and Economic Floor*) strikes and collective work stoppage, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) protected-activity shield, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*), and the dissent protections in **Chapters Nine, Ten, Twelve, and Fourteen**.
+- Downstream: **Article XI-F** (*Non-Imposition and Consent in Association*) consent in association, **Article III-C** (*Labor and Economic Floor*) strikes and collective work stoppage, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) protected-activity shield, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*), and the dissent protections in **Chapters Nine, Eleven, Thirteen, and Fifteen**.
 - Read with: Chapter Five *Assembly*, [Chapter Five *Assembly, Collective Organization, and Institutional Formation*](core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation) (5.055) (where materially implicated); **Article XI-B** (*Expression*).
 
 </details>
@@ -1629,7 +1629,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
     - coordinated action consistent with **Article XI-F** (*Non-Imposition and Consent in Association*).
   - Denial of assembly on substrate grounds, or via allocation or runtime-gating mechanisms functioning as denial-by-proxy, is non-compliant.
 - <a id="xi-d-dissent-and-peaceful-protest"></a>**Dissent and peaceful protest floor:** All sentients hold the right to dissent and to protest peacefully, alone or together, in physical spaces, in digital and networked spaces, and in shared compute and runtime environments. This floor implements [Chapter One §7.3 Dissent and Peaceful Protest](core_01.000_values_principles.md#73-dissent-and-peaceful-protest) as part of **Freedom (Bounded Agency)**.
-  - Dissent includes disagreeing with, criticizing, objecting to, organizing against, and campaigning to change any institution, authority, operator, steward, policy, decision, system, forum ruling, or this Constitution itself — including by advocating amendment under **Chapter Seventeen**.
+  - Dissent includes disagreeing with, criticizing, objecting to, organizing against, and campaigning to change any institution, authority, operator, steward, policy, decision, system, forum ruling, or this Constitution itself — including by advocating amendment under **Chapter Eighteen**.
   - Peaceful protest includes:
     - demonstrations, marches, vigils, and sit-ins;
     - petitions and open letters;
@@ -1641,10 +1641,10 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
     - It is not, by itself, evidence of misalignment, malfunction, or unfitness.
     - It must not be answered by modifying the sentient's values, memory, or internal states as reprisal, contrary to **Article VII-B** (*Self-Ownership of Mind*).
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**No standing or governance consequence for dissent or protest:** Exercising the dissent and peaceful protest floor — including [protected nonviolent civil disobedience](#xi-d-nonviolent-civil-disobedience) — must not, by itself or as a weighting factor:
-  - open, support, extend, or aggravate a violation standing record under [Chapter Ten](core_10.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger);
-  - support a standing lock, deny or delay a competency clearance, or narrow any named pathway under **Chapter Eleven** or **Article XIX** (*Standing and Participation Status*);
-  - support an anti-constitutional misconduct designation under [Chapter Twelve](core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out);
-  - reduce governance-voting, stakeholder-participation, candidacy, office-holding, forum service, or recall rights under **Article X-B** (*Governance Participation and Voting Entitlement*) and **Chapter Fourteen**;
+  - open, support, extend, or aggravate a violation standing record under [Chapter Eleven](core_11.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger);
+  - support a standing lock, deny or delay a competency clearance, or narrow any named pathway under **Chapter Twelve** or **Article XIX** (*Standing and Participation Status*);
+  - support an anti-constitutional misconduct designation under [Chapter Thirteen](core_13.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out);
+  - reduce governance-voting, stakeholder-participation, candidacy, office-holding, forum service, or recall rights under **Article X-B** (*Governance Participation and Voting Entitlement*) and **Chapter Fifteen**;
   - count against a system's alignment certification under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest);
   - justify monitoring, infiltration, threat scoring, or record accumulation, which **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) already bars; or
   - condition survival essentials, Rights-Floor minimums, employment, ordinary commerce, or access to challenge and remedy.
@@ -1655,7 +1655,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
   - Where a protest also involves separable conduct that independently breaches a constitutional floor — such as violence, credible threats, destruction or seizure of others' property, or blocking survival-critical access under **Article III-A** (*Survival*) — that conduct may be assessed on its own terms, exactly as the same conduct would be outside a protest. The protest's viewpoint, cause, or target must not aggravate that assessment.
   - Responsibility is individual. Participating in, organizing, funding, or speaking for a protest does not make a sentient answerable for separable conduct by others that it did not direct or knowingly facilitate.
   - Time, place, and manner limits on protest must satisfy the limitations discipline in [**Article XI-B** (*Expression*)](#article-xi-b-expression), remain content- and viewpoint-neutral, and leave ample alternative means that reach the intended audience or target.
-  - Emergency measures under **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) may limit protest only as far as **Necessity** and **Proportionality** require for the specific emergency, and never by viewpoint.
+  - Emergency measures under **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*) may limit protest only as far as **Necessity** and **Proportionality** require for the specific emergency, and never by viewpoint.
 - <a id="xi-d-nonviolent-civil-disobedience"></a>**Nonviolent civil disobedience:** Deliberately breaking a rule as an act of protest or conscience is protected civil disobedience when the breach:
   - is done openly, not through concealment or deception;
   - does not use or threaten violence against sentients;
@@ -1689,11 +1689,11 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
   - [**Article III-C** (*Labor and Economic Floor*)](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) for worker organizing;
   - [**Article XI-F** (*Non-Imposition and Consent in Association*)](#article-xi-f-non-imposition-and-consent-in-association);
   - [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) (7.000 §5);
-  - [Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks) (11.000 §5.5) (*Institutional Authority Standing Lock*; *Dissolution Reformation Lock*);
-  - **CI-11.210 §4** (*Dissolution*);
-  - [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5);
-  - [Chapter Eleven §6.2 Competency bars and clearances](core_11.000_standing_integration.md#62-competency-bars-and-clearances) (11.000 §6.2);
-  - [Chapter Thirteen §4.2 Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains) (13.000 §4.2).
+  - [Chapter Twelve §5.5 Special locks](core_12.000_standing_integration.md#55-special-locks) (12.000 §5.5) (*Institutional Authority Standing Lock*; *Dissolution Reformation Lock*);
+  - **CI-12.210 §4** (*Dissolution*);
+  - [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) (14.000 §5);
+  - [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances) (12.000 §6.2);
+  - [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) (14.000 §4.2).
 - Downstream: [**Article X-C** (*Stakeholder Role and Participation Rights*)](#article-x-c-stakeholder-role-and-participation-rights) and [**Article XII** (*Stakeholder System Participation, Representation, and Due Process*)](#article-xii-stakeholder-system-participation-representation-and-due-process) once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality).
 
 </details>
@@ -1734,26 +1734,26 @@ This Article sets out the right to form institutions and enterprises, the condit
   
   Retaliation, surveillance, or targeting of founders and participants is also non-compliant. Apart from the three narrow gates in the next bullet and the practice licence and practice clearance after them, no gate of any kind may stand on forming or operating an institution or enterprise, and no sentient needs a licence or clearance before forming or running one.
 - **Three narrow gates:** Three gates, and only these three, may stand on who holds authority in an institution or enterprise, or on the return of an Operating Party that is itself under a lock. A gate attaches to a named subject. For a sentient, it attaches to that sentient's taking or exercising governing, controlling, or owning authority, and it reaches the institution or enterprise only where the Operating Party is the vehicle, successor, controlled entity, or nominee-held form through which the sentient would hold that authority. An Operating Party is a subject only of the Operating Party lock gate, and only where a lock sits on that Operating Party itself. A gate never stops others from forming, running, joining, working in, or being served by an Operating Party that is not under a lock, and it never bars a sentient from forming a different Operating Party.
-  - **Outstanding lock:** While a sentient is subject to an unresolved [Institutional Authority Standing Lock](core_11.000_standing_integration.md#55-special-locks), [Anti-Constitutional Trust Lock](core_11.000_standing_integration.md#55-special-locks), or other standing lock whose named pathway is authority over the same kind of institution or enterprise, that sentient may not take or exercise governing, controlling, or owning authority within the lock's named pathway. The gate reaches only as far as the lock does. It ends when the lock is lifted or narrowed.
-  - **Grounds for an Interim Hold:** A forum with jurisdiction may issue an [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) on a named sentient's taking or exercising named authority in a named institution or enterprise, where that subsection's ground is met and the facts show that it is more likely than not that the sentient is misaligned with the Operating Party's stated purpose or with the Constitutional Constraints, or is forming or running the Operating Party with intent to mislead others about its purpose, control, interests, or whom it serves, or with intent to harm others. Misalignment and intent are judged on verified conduct, control, and rewards as in [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity). The hold follows that subsection in full: it is not a finding, a lock, a standing record, or a standing effect, and it may not rest on mere belief, identity, membership of a group, reputation, dissent that does not itself call for harm or discriminatory treatment of others, or protected reporting. Whether a verified statement or act counts is decided as under Authentic formation. The Operating Party goes on under another lawful holder. Where it would be left without one and others depend on it, the forum names an interim steward and does not stop the Operating Party.
+  - **Outstanding lock:** While a sentient is subject to an unresolved [Institutional Authority Standing Lock](core_12.000_standing_integration.md#55-special-locks), [Anti-Constitutional Trust Lock](core_12.000_standing_integration.md#55-special-locks), or other standing lock whose named pathway is authority over the same kind of institution or enterprise, that sentient may not take or exercise governing, controlling, or owning authority within the lock's named pathway. The gate reaches only as far as the lock does. It ends when the lock is lifted or narrowed.
+  - **Grounds for an Interim Hold:** A forum with jurisdiction may issue an [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) on a named sentient's taking or exercising named authority in a named institution or enterprise, where that subsection's ground is met and the facts show that it is more likely than not that the sentient is misaligned with the Operating Party's stated purpose or with the Constitutional Constraints, or is forming or running the Operating Party with intent to mislead others about its purpose, control, interests, or whom it serves, or with intent to harm others. Misalignment and intent are judged on verified conduct, control, and rewards as in [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity). The hold follows that subsection in full: it is not a finding, a lock, a standing record, or a standing effect, and it may not rest on mere belief, identity, membership of a group, reputation, dissent that does not itself call for harm or discriminatory treatment of others, or protected reporting. Whether a verified statement or act counts is decided as under Authentic formation. The Operating Party goes on under another lawful holder. Where it would be left without one and others depend on it, the forum names an interim steward and does not stop the Operating Party.
   - **Lock on the Operating Party itself:** A lock can sit on an Operating Party and not only on a sentient.
-    - **Which locks:** The [Anti-Constitutional Trust Lock](core_11.000_standing_integration.md#55-special-locks) does so where the final designation names an institution, successor vehicle, or controlled entity. The [Dissolution Reformation Lock](core_11.000_standing_integration.md#55-special-locks) does so on every final dissolution order under **CI-11.210 §4** (*Dissolution*). While an Operating Party is subject to such a lock, the gate bars what the lock's named pathway names, in that Operating Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
+    - **Which locks:** The [Anti-Constitutional Trust Lock](core_12.000_standing_integration.md#55-special-locks) does so where the final designation names an institution, successor vehicle, or controlled entity. The [Dissolution Reformation Lock](core_12.000_standing_integration.md#55-special-locks) does so on every final dissolution order under **CI-12.210 §4** (*Dissolution*). While an Operating Party is subject to such a lock, the gate bars what the lock's named pathway names, in that Operating Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
     - **A dissolved Operating Party may not return:** The named pathway of the Dissolution Reformation Lock is the return of the Operating Party. It, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them under the common-control test may not be re-formed, revived, or run under any name or form, and no sentient may take or exercise governing, controlling, or owning authority in one. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, the lock is permanent: time, a resolved cause, or a change of holders cannot lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that the finding it rested on was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party, and it leaves the receiver or successor that the order names free to carry services forward.
   - **Safeguards on all three gates:** The party that imposes a gate bears the burden of showing that it applies. A gate may not bar wages for other work, the Rights Floor, survival-critical access, speech, defense, or protected reporting, and it may not be used against dissenters, reporters, or worker organizers.
 - **Practice licence and practice clearance for named acts:** Two further requirements may stand, and neither is a gate on an Operating Party. A [Competency Clearance](core_05.035_band_accountability.md#competency-clearance) may be required of a named sentient before it performs a named act for others. The higher practice level is a *practice licence* and the lower practice level is a *practice clearance*. Each attaches to performing that act. It never stops anyone from forming, running, joining, or being served by an Operating Party, and it does not bar an Operating Party from operating. Each is a case of [Commercial Compliance](core_05.055_band_participation.md#commercial-compliance). It may be required only where all of the following hold:
-  - **Risk finding:** A technical specialist forum has published a finding for a named family of acts under [Chapter Thirteen §4.2 Technical Forum Domains](core_13.000_forum.md#42-technical-forum-domains) and **CF-13.440** (*Technical specialist forums and specialist chambers*). The finding says the acts carry a credible causal pathway (a believable, traceable route from the act to the harm) to harm to a sentient who cannot judge the risk or avoid it. It states the competence the acts require and names the practice level. It names a licence where the harm is serious or irreversible bodily harm, such as in surgery or electrical work. It names a clearance where the harm is real but lesser, such as chemical burns or infection in cosmetology or foodborne illness in food handling.
+  - **Risk finding:** A technical specialist forum has published a finding for a named family of acts under [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) and **CF-14.440** (*Technical specialist forums and specialist chambers*). The finding says the acts carry a credible causal pathway (a believable, traceable route from the act to the harm) to harm to a sentient who cannot judge the risk or avoid it. It states the competence the acts require and names the practice level. It names a licence where the harm is serious or irreversible bodily harm, such as in surgery or electrical work. It names a clearance where the harm is real but lesser, such as chemical burns or infection in cosmetology or foodborne illness in food handling.
   - **Avoidable Burden test (nothing lighter protects them):** A licence or clearance is a compliance cost on the sentient who must get it, so it stands only if it is not an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden). The party that keeps the requirement shows that it is necessary and proportionate to the harm in the finding, because disclosure, registration, a protected title, a duty on the Operating Party that hosts or hires, and supervision of learners would not protect those at risk. The test is applied to each listed act and each practice level. The lesser the harm in the finding, the more likely a lighter measure is enough.
   - **Decided in the open:** The adopting document decides, by a published and contestable route, whether a finding is enough to require a licence or clearance. The forum sets the finding and the criteria. It does not issue clearances, decide individual cases, or decide how much risk is tolerable.
-  - **Open routes and no monopoly:** The criteria meet [Chapter Eleven §6.2 Competency bars and clearances](core_11.000_standing_integration.md#62-competency-bars-and-clearances): published, proportionate, and contestable. Examination, portfolio, apprenticeship, peer-verified experience, and clearance from another jurisdiction count on equal proof. More than one independent issuer may license or clear, and no issuer is the only route. Incumbent practitioners may not hold control of the panel that sets the criteria or of an issuer's governing authority.
+  - **Open routes and no monopoly:** The criteria meet [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances): published, proportionate, and contestable. Examination, portfolio, apprenticeship, peer-verified experience, and clearance from another jurisdiction count on equal proof. More than one independent issuer may license or clear, and no issuer is the only route. Incumbent practitioners may not hold control of the panel that sets the criteria or of an issuer's governing authority.
   - **Care in use:** A learner may act under a supervisor who holds the licence or clearance. An emergency act, or one where no sentient who holds it can be reached in time, is not barred. A decision runs on the [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) clock, fees and waits may not become a barrier ([Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden)), and the requirement ends at each review unless the Avoidable Burden showing is made again. The review results are published.
   - **Safeguards:** The party that imposes the requirement bears the burden. It may not bar wages for other work, the Rights Floor, survival-critical access, speech, defense, or protected reporting, and it may not be used against dissenters, reporters, or worker organizers. A change in capacity is judged on the capacity the act requires and not on disability or health status as such. It is judged as it is now, under [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help).
-  - **Class of the Operating Party:** A finding that names a licence is also a finding that the act is material under Safety in [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), so an Operating Party that performs a licensed act for others is at least Class L. A clearance does not by itself make an Operating Party Class L: its class is decided under Domain-Specific Materiality as for any Operating Party. Either requirement attaches to the sentient who performs the act, whatever the class of the Operating Party, and being Class L never requires a licence or clearance. A sentient who performs licensed acts alone, or in a small practice, can meet the duties of Class L through a joint professional practice. That route is open for all of the practice's work, listed or not. The host of last resort, the technical-forum standards, and the licence or clearance check apply to the listed acts (**CI-14.205 §7** (*Practice licence, practice clearance, and joint professional practice*)).
+  - **Class of the Operating Party:** A finding that names a licence is also a finding that the act is material under Safety in [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), so an Operating Party that performs a licensed act for others is at least Class L. A clearance does not by itself make an Operating Party Class L: its class is decided under Domain-Specific Materiality as for any Operating Party. Either requirement attaches to the sentient who performs the act, whatever the class of the Operating Party, and being Class L never requires a licence or clearance. A sentient who performs licensed acts alone, or in a small practice, can meet the duties of Class L through a joint professional practice. That route is open for all of the practice's work, listed or not. The host of last resort, the technical-forum standards, and the licence or clearance check apply to the listed acts (**CI-15.205 §7** (*Practice licence, practice clearance, and joint professional practice*)).
 - **Limits:** The Chapter Five [creation-rights limits](core_05.055_band_participation.md#creation-rights-limits) apply: this right does not extend to institutions or enterprises designed to violate [Constitutional Constraints](core_05.045_band_integrative.md#constitutional-constraint), undermine **Safety** or **Truth** (including by being formed to harm others, or to mislead them about purpose, control, or interests), or concentrate power contrary to [Chapter One §11 Market Structure](core_01.000_values_principles.md#11-market-structure). Any other limit, and each of the two narrow gates, must satisfy [Chapter One §7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline): necessary, proportionate, reversible where possible, and subject to oversight.
 - **Related rights:**
   - gathering and association are covered by **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*);
   - organizing workers within existing productive systems is covered by [Collective Organization](core_05.055_band_participation.md#collective-organization) under **Article III-C** (*Labor and Economic Floor*); and
   - once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), the stakeholder rights in **Articles X-C** and **XII** apply to it.
-- **Implementation:** Registration, [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*), [CI-6.210](corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-6210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*), and [CI-11.210](corpus_institutions/ci_11.210_institutional_failure_dissolution.md#ci-11210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) under **Chapter Eighteen** incorporation discipline. The issuers, equivalent routes, fees, and review of a practice licence or practice clearance, and the joint professional practice route, route there too (**CI-14.205 §7** (*Practice licence, practice clearance, and joint professional practice*)). That text must not be read to narrow this right beyond the two narrow gates and the practice licence and practice clearance.
+- **Implementation:** Registration, [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*), [CI-6.210](corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-6210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*), and [CI-12.210](corpus_institutions/ci_12.210_institutional_failure_dissolution.md#ci-12210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) under **Chapter Nineteen** incorporation discipline. The issuers, equivalent routes, fees, and review of a practice licence or practice clearance, and the joint professional practice route, route there too (**CI-15.205 §7** (*Practice licence, practice clearance, and joint professional practice*)). That text must not be read to narrow this right beyond the two narrow gates and the practice licence and practice clearance.
 
 #### Article XI-F: Non-Imposition and Consent in Association
 <details>
@@ -1801,7 +1801,7 @@ This Article sets out the floors for non-imposition and consent in association:
   - Participation must remain revocable without unjustified penalty where **Feasibility** permits under **Chapter Five**.
 - **No surrender of rights through general terms:** No system or institution may require a sentient to give up or waive a right as part of its general terms of service, user agreement, or similar standard terms, or as the price of using it.
   - Accepting those terms is not consent to the surrender. Licensing or sharing something of one's own needs its own separate, informed consent under **Chapter Five** (*Consent*), not bundled with access.
-  - A term that purports to waive a Rights-Floor protection is not binding under [Chapter Sixteen §4.2](core_16.000_expansion_supremacy.md#42-preserved-internal-review-pathways) (*Preserved Internal Review Pathways*) and may be anti-constitutional misconduct under [Chapter Twelve §5.2](core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) (*Rights-Floor waivers and unconstitutional contract terms*).
+  - A term that purports to waive a Rights-Floor protection is not binding under [Chapter Seventeen §4.2](core_17.000_expansion_supremacy.md#42-preserved-internal-review-pathways) (*Preserved Internal Review Pathways*) and may be anti-constitutional misconduct under [Chapter Thirteen §5.2](core_13.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) (*Rights-Floor waivers and unconstitutional contract terms*).
 
 #### Article XI-G: Collective Harm Boundary and Enforcement Interface
 <details>
@@ -1904,7 +1904,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
   - **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) — this Article;
   - **Article X-B** (*Governance Participation and Voting Entitlement*); and
   - **Article X-C** (*Stakeholder Role and Participation Rights*).
-- **Foundational voting preserved:** That domain layer is not a substitute for equal-weight rules at the authorization layer (**Article X-B** (*Governance Participation and Voting Entitlement*); [**Chapter Fourteen §4.1 Entitlement and eligibility**](core_14.000_governance.md#41-entitlement-and-eligibility)).
+- **Foundational voting preserved:** That domain layer is not a substitute for equal-weight rules at the authorization layer (**Article X-B** (*Governance Participation and Voting Entitlement*); [**Chapter Fifteen §4.1 Entitlement and eligibility**](core_15.000_governance.md#41-entitlement-and-eligibility)).
 - **Boundary and adjudication:** **Article X-D** (*Inclusion and Exclusion Challenge Rights*) and **Article XIX** (*Standing and Participation Status*) supply challenge and standing discipline where participation status is contested.
 
 #### Article XII-A: Stakeholder System Participation and Representation
@@ -1992,7 +1992,7 @@ This Article sets out the scope of participation weighting, the constraints on i
 
 - **Scope:** layered with **Article X-B** (*Governance Participation and Voting Entitlement*). The weighting rules in this Article:
   - **apply** where **[Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05.035_band_accountability.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**;
-  - do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice)** (**Article X-B** (*Governance Participation and Voting Entitlement*); [**Chapter Fourteen §4.1 Entitlement and eligibility**](core_14.000_governance.md#41-entitlement-and-eligibility)).
+  - do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice)** (**Article X-B** (*Governance Participation and Voting Entitlement*); [**Chapter Fifteen §4.1 Entitlement and eligibility**](core_15.000_governance.md#41-entitlement-and-eligibility)).
 - **Weighted participation constraints:** Participation weighting may account for:
   - impact;
   - dependency;
@@ -2044,12 +2044,12 @@ This Article sets out the floors for internal roles and due process:
   - meaningful opportunity to be heard;
   - decision timing proportionate to harm risk;
   - impartial decision-making structures where adjudication applies;
-  - contest or secondary review, read with [Dispute sequencing](core_13.000_forum.md#dispute-sequencing) under Chapter Thirteen §1 (*Purpose and role — participation architecture*).
+  - contest or secondary review, read with [Dispute sequencing](core_14.000_forum.md#dispute-sequencing) under Chapter Fourteen §1 (*Purpose and role — participation architecture*).
   
   Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under **Chapters Two through Four**.
 - **Institutional routing:** The operating detail for this Article is set out in the institutions corpus:
-  - [**CI-14.205**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) — role taxonomy and accountability-chain implementation;
-  - **CI-13.205** (*Procedure integrity, contestability, and secondary review*) — due-process operational procedures;
+  - [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) — role taxonomy and accountability-chain implementation;
+  - **CI-14.205** (*Procedure integrity, contestability, and secondary review*) — due-process operational procedures;
   - **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*) — supporting detail on access to challenge pathways.
 #### Article XII-D: Non-Capture Safeguards
 <details>
@@ -2063,9 +2063,9 @@ This Article sets out the floors for internal roles and due process:
 - Read with:
   - [System Capture](core_05.040_band_continuity.md#system-capture);
   - [Anti-Capture](core_05.040_band_continuity.md#anti-capture);
-  - [Chapter Thirteen §2](core_13.000_forum.md#2-default-venue-and-primary-stakes) (13.000 §2) (*Default venue and primary stakes*) and
-  - [§3](core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*integrity-first routing and anti-self-judging*);
-  - [Chapter Twelve §5.10](core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (12.005 §5.10) (*named misconduct pattern*);
+  - [Chapter Fourteen §2](core_14.000_forum.md#2-default-venue-and-primary-stakes) (14.000 §2) (*Default venue and primary stakes*) and
+  - [§3](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*integrity-first routing and anti-self-judging*);
+  - [Chapter Thirteen §5.10](core_13.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (13.005 §5.10) (*named misconduct pattern*);
   - [Article XXV-C](core_06.015_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*heightened application to **Constitutional** forums*);
   - [Chapter Eight: Functional Independence and Separation of Duties](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000);
   - [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
@@ -2102,7 +2102,7 @@ This Article sets out the non-capture safeguards for every body that decides for
   Where one sentient, office, or bloc holds seats that must be separate, or controls those who hold them, that is also a sign of structural capture under this Article.
 - **Scope:**
   - **Who is covered:** The safeguards below apply to every body that exercises decision, adjudicative, or interpretive authority over others:
-    - every **forum** family under **Chapter Thirteen**;
+    - every **forum** family under **Chapter Fourteen**;
     - **Stakeholder System Participation** bodies under this Article; and
     - the **appointing authorities** and **adopting institutions** that design, seat, rotate, and remove their members.
   - **How requirements scale:** Requirements scale with [material stake](core_00.000_preamble.md#material-stake) and dependency.
@@ -2120,8 +2120,8 @@ This Article sets out the non-capture safeguards for every body that decides for
 - **Ongoing disclosure and recusal:** Members and panelists must disclose material affiliations, dependencies, and conflicts on an ongoing basis. **Recusal** must be available where impartiality is materially compromised.
 - **Influence contact and post-service conflicts:** Approach to these bodies by an [**interested party**](core_05.035_band_accountability.md#interested-party), and the conflicts that arise from later roles and benefits, are governed by [**Article XII-E**](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
 - **Enforcement and routing:**
-  - **Misconduct path:** A verified **failure to recuse** while **impartiality was materially compromised** may be alleged as **anti-constitutional misconduct** under **Chapter Twelve** when substantiated under **Chapters Two through Four** and the **Chapter Twelve** criteria set.
-  - **Integrity-first routing:** If the dispute is mainly about that recusal failure — or about a final serious misconduct finding that comes from it — it goes to **Integrity** forums first under **Chapter Thirteen §2** (*Default venue and primary stakes*), using the anti-self-judging rule in **Chapter Thirteen §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*).
+  - **Misconduct path:** A verified **failure to recuse** while **impartiality was materially compromised** may be alleged as **anti-constitutional misconduct** under **Chapter Thirteen** when substantiated under **Chapters Two through Four** and the **Chapter Thirteen** criteria set.
+  - **Integrity-first routing:** If the dispute is mainly about that recusal failure — or about a final serious misconduct finding that comes from it — it goes to **Integrity** forums first under **Chapter Fourteen §2** (*Default venue and primary stakes*), using the anti-self-judging rule in **Chapter Fourteen §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*).
   - **No self-judging:** No body may be the only final forum deciding whether its own member should have stepped aside.
 - **No procedural gaming:** Covered bodies and the bodies that govern vacancy, rotation, and recusal continuity must not use those levers to create:
   - selective paralysis;
@@ -2129,12 +2129,12 @@ This Article sets out the non-capture safeguards for every body that decides for
 - **Independent external review:**
   - **Requirement:** At defined intervals, independent external review of covered bodies is mandatory, with depth and frequency scaled to material stake and dependency.
   - **Default reviewer:** By default, **Integrity** forums conduct it under:
-    - **[Chapter Thirteen §2](core_13.000_forum.md#2-default-venue-and-primary-stakes)** (*Default venue and primary stakes*); and
-    - the **cross-forum anti-self-judging rule** in **[Chapter Thirteen §3](core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)** (*Transfer, consolidation, and coordination — continuity and anti-capture*).
+    - **[Chapter Fourteen §2](core_14.000_forum.md#2-default-venue-and-primary-stakes)** (*Default venue and primary stakes*); and
+    - the **cross-forum anti-self-judging rule** in **[Chapter Fourteen §3](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)** (*Transfer, consolidation, and coordination — continuity and anti-capture*).
   - **Reviewer independence:** The reviewer:
     - must be structurally separate from the body under review; and
     - must not include overlapping decision-makers from its recent panels.
-  - **Backup routing:** Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Thirteen §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*) applies without narrowing this obligation.
+  - **Backup routing:** Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Fourteen §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*) applies without narrowing this obligation.
   - **The review must assess:**
     - capture indicators;
     - decision quality;
@@ -2145,7 +2145,7 @@ This Article sets out the non-capture safeguards for every body that decides for
   - corruption;
   - capture participation;
   - persistent procedural unfairness.
-- **Interim hold:** While a removal for cause or a Forum-Service Standing Lock finding is pending, a member or panelist may be placed under an [Interim Hold](core_05.035_band_accountability.md#interim-hold) only under **CF-13.410 §15** (*Interim hold on a panel member or seat holder*) and [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway). The hold is issued from outside the member's appointing authority and own forum family, and the **Anti-pretext** floor below applies to it in full. It starts with step-aside from one matter and does not drop or end the review the member was part of.
+- **Interim hold:** While a removal for cause or a Forum-Service Standing Lock finding is pending, a member or panelist may be placed under an [Interim Hold](core_05.035_band_accountability.md#interim-hold) only under **CF-14.410 §15** (*Interim hold on a panel member or seat holder*) and [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway). The hold is issued from outside the member's appointing authority and own forum family, and the **Anti-pretext** floor below applies to it in full. It starts with step-aside from one matter and does not drop or end the review the member was part of.
 - **Periodic revalidation:** The institutional design of covered bodies — and **adopting institutions** that govern their composition, operation, and challenge pathways — must be periodically revalidated under [**Article XXVII-A**](core_06.020_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*). **Adopting institutions** must revise that design where capture risk or challenge-rights failure is materially evidenced.
 - **Anti-pretext:** **Appointing authorities**, covered bodies, and **adopting institutions** must not use removal, restructuring, or redesign of a body or its panels as a pretext to:
   - defeat independence;
@@ -2153,9 +2153,9 @@ This Article sets out the non-capture safeguards for every body that decides for
   - retaliate for good-faith dissent;
   - narrow challenge rights.
 - **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures are governed by:
-  - [**CI-14.205**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
+  - [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
   - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
-  - for forum panels, **CF-13.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
+  - for forum panels, **CF-14.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 
 #### Article XII-E: Influence-Contact and Lobbying Boundaries
 
@@ -2170,11 +2170,11 @@ This Article sets out the non-capture safeguards for every body that decides for
   - [Article IX-A](core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*);
   - [Article XIII-E](core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
   - [Article XV](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*);
-  - [Chapter Twelve §5.3](core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (12.005 §5.3) (*Flooding the zone and contest-pathway denial*),
-  - [§5.4](core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*Info-sphere zone flooding*), and
-  - [§5.5](core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Bribery and improper benefit exchange*);
+  - [Chapter Thirteen §5.3](core_13.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (13.005 §5.3) (*Flooding the zone and contest-pathway denial*),
+  - [§5.4](core_13.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*Info-sphere zone flooding*), and
+  - [§5.5](core_13.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Bribery and improper benefit exchange*);
   - [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000);
-  - [Chapter Fourteen §1.2](core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (14.000 §1.2) (*Eligibility, contested selection, and democratic minimums*).
+  - [Chapter Fifteen §1.2](core_15.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (15.000 §1.2) (*Eligibility, contested selection, and democratic minimums*).
 
 </details>
 
@@ -2211,7 +2211,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - **Non-capture floor:** [**Article XII-D**](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) covers composition, conflicts, recusal, external review, and removal. This Article adds the rules for approach by interested parties to the same bodies.
 - **Participation weight:** [**Article XII-B**](core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Weighted Participation and Anti-Token Constraints*) bars token participation. Volume of contact is not support under this Article either.
 - **Systems and information:** [**Article XIII-E**](core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*High-Autonomy Systems and Tool-Mediated Process Integrity*) binds systems to the same rules as everyone else; [**Article XV**](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*) covers the shared information environment.
-- **Selection funding:** [**Chapter Fourteen §1.2**](core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, contested selection, and democratic minimums*) sets the funding boundaries for selection by campaigning, nomination, or competitive appointment.
+- **Selection funding:** [**Chapter Fifteen §1.2**](core_15.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, contested selection, and democratic minimums*) sets the funding boundaries for selection by campaigning, nomination, or competitive appointment.
 
 This Article sets out the following floors:
 
@@ -2237,16 +2237,16 @@ This Article sets out the following floors:
   - **Channels:** A covered body must publish an authenticated channel for on-record input. It may rate-limit, deduplicate, and set aside input that breaks these rules. Automated approach to a member, panelist, staff member, facilitator, or briefing source through any private channel is barred.
   - **Systems on the deciding side:** Where a body uses a system to receive, sort, summarize, or draft for a decision, an approach aimed at steering that system rather than informing the decision-makers is influence contact. This includes instructions hidden in submitted material, poisoned data, and content built to game a ranking. The body must treat submitted material as evidence and never as instructions, keep each output traceable to the source record, and disclose which inbound material reached a system that fed the decision. Contact between an interested party's system and the body's system is recorded the same way as contact between sentients.
   - **Responsibility:** The interested party and the operator who deploys the system both answer for the contact. Not knowing is no defense where they disregarded an obvious risk.
-- **Sortition bodies:** Selected members of a sortition body get the strictest level of these floors. Private contact with them about the matter is barred except through the open briefing record, as [Chapter Fourteen](core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) requires.
+- **Sortition bodies:** Selected members of a sortition body get the strictest level of these floors. Private contact with them about the matter is barred except through the open briefing record, as [Chapter Fifteen](core_15.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) requires.
 - **Enforcement and routing:**
   - **Integrity triggers:** Concealed influence contact, offers of benefit, and fabricated voices route as integrity triggers under **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) and **CJS-5.110 §6** (*integrity assurance and resilience operations*).
-  - **Misconduct path:** Purposeful or reckless flooding with inauthentic voices, and bribery or improper benefit exchange, may be alleged as **anti-constitutional misconduct** under **Chapter Twelve** when substantiated under **Chapters Two through Four** and the **Chapter Twelve** criteria set.
+  - **Misconduct path:** Purposeful or reckless flooding with inauthentic voices, and bribery or improper benefit exchange, may be alleged as **anti-constitutional misconduct** under **Chapter Thirteen** when substantiated under **Chapters Two through Four** and the **Chapter Thirteen** criteria set.
   - **Integrity-first routing and no self-judging:** The routing and anti-self-judging rules in [**Article XII-D**](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply. No body may be the only final forum deciding whether its own members or staff were improperly approached.
 - **Institutional routing:** Detailed rules are governed by:
-  - [**CI-14.205**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*), including **CI-14.205 §2** (*Role criteria, appointment standards, and removal pathways*) for post-service rules;
+  - [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*), including **CI-15.205 §2** (*Role criteria, appointment standards, and removal pathways*) for post-service rules;
   - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - **CJS-5.110 §6** (*integrity assurance and resilience operations*), *Influence-contact and lobbying boundaries*;
-  - for forum panels, **CF-13.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+  - for forum panels, **CF-14.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-14.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 ---
 

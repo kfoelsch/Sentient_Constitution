@@ -29,7 +29,7 @@ ROOT = Path(__file__).resolve().parents[1]
 # Ordered topic labels, exactly as they appear between the bold markers and
 # before the terminating "." or ":".
 LABELS: dict[str, tuple[str, ...]] = {
-    "cs_14.305_critical_system_stewardship.md": (
+    "cs_15.305_critical_system_stewardship.md": (
         "Definition",
         "Classification as steward",
         "Stewardship criticality levels",

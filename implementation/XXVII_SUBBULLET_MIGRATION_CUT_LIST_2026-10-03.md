@@ -10,7 +10,7 @@ The first slimming pass removed the most obviously operational text from **Artic
 
 A sentence stays in the core text if **a corpus-level edit to it could lower a protection for someone**, or if it states who may be restricted, what may be taken, or what may never be done. A sentence moves if it states **how, how often, who fills in which field, in what format, or by what measure** a floor is carried out.
 
-Why the test matters: incorporated corpus text is binding but must satisfy the Constitution and does not narrow it ([Chapter Eighteen](../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge)). It is easier to change than Chapter Six text. Moving a floor there would quietly lower its rank.
+Why the test matters: incorporated corpus text is binding but must satisfy the Constitution and does not narrow it ([Chapter Eighteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge)). It is easier to change than Chapter Six text. Moving a floor there would quietly lower its rank.
 
 ## Disposition by sub-bullet
 

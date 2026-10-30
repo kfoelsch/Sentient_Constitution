@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_10.005_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: Nia is an adult whose remembering and stamina have changed; no child is in the scene; the live fight is help taking over decisions.
+Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_11.005_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: Nia is an adult whose remembering and stamina have changed; no child is in the scene; the live fight is help taking over decisions.
 
 ## Scale of the situation (not scored)
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not treat a b
 
 **Your role:** You sit the named **clinic intake** desk on this adopter’s [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. An adult child filed a written request to be named “decision-maker.” The adult whose decisions are at issue is reachable in Window A and disputes the request. No forum case is open. No standing record exists. No incapacity finding has been made. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify incapacity, rewrite a lease, or switch a clinician on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-14.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-14.205 §6](../../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-15.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-15.205 §6](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

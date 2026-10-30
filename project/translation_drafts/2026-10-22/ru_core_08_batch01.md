@@ -14,8 +14,8 @@
 >
 > - **Конституционный владелец:** требование разделения обязанностей для материально обязательных актов, выполняемое через отдельные места; универсальное минимальное содержание каждого [Материально обязательный акт акта](../../core_05.035_band_accountability.md#materially-binding-act-record); независимость от актера и актера [Линия контроля материалов](../../core_05.035_band_accountability.md#material-control-line); опубликованное расположение дорожек и ролей; конфликт, вакансия, замена и маршрутизация на неправильное место; пропорциональный объединенный хостинг; соответствующие передачи; и минимальные условия независимости, которые должны применяться в каждом последующем конституционном процессе.
 > - **Источник основного уровня:** [Глава первая §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) требует от управления сохранения функциональной независимости и направляет сюда архитектуру оперативного штаба.
-> - **Владелец реализации:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Конституционный переулок и функциональное разделение*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), и [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) разместить и ввести в эксплуатацию сиденья. Они могут быть более строгими и могут включать ограниченные типы мест для специальных полномочий; они, возможно, не сузят эту главу.
-> - **Приложение, специфичное для процесса, остается ниже по потоку:** Глава девятая применяет это требование к сертификации соответствия системы и сертификации институционального соответствия; [Глава десятая §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) применяет его к постоянным записям; Глава тринадцатая и [корпус_forum.md](../../corpus_forum.md) примените это к процессу форума. В эти главы могут быть добавлены гарантии, требуемые их предметом; они не могут создать более слабую замену.
+> - **Владелец реализации:** [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Конституционный переулок и функциональное разделение*), [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), и [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) разместить и ввести в эксплуатацию сиденья. Они могут быть более строгими и могут включать ограниченные типы мест для специальных полномочий; они, возможно, не сузят эту главу.
+> - **Приложение, специфичное для процесса, остается ниже по потоку:** Глава девятая применяет это требование к сертификации соответствия системы и сертификации институционального соответствия; [Глава десятая §3.7](../../core_11.000_standing_assessment.md#37-separation-of-duties) применяет его к постоянным записям; Глава тринадцатая и [корпус_forum.md](../../corpus_forum.md) примените это к процессу форума. В эти главы могут быть добавлены гарантии, требуемые их предметом; они не могут создать более слабую замену.
 >
 > Порядок чтения: §1 цель и область применения → §2 Требование четырёх мест → §3 независимость и конфликты → §4 маршрутизация неправильного места → §5 опубликованное размещение, замены и делегирование → §6 пропорциональное масштабирование → §7 чрезвычайные ситуации → §8 Акт записи и передачи → §9 нисходящее применение.
 
@@ -42,9 +42,9 @@
   - [§9](#9-relationship-to-later-processes).
 - Ниже по течению:
   - [Глава девятая](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Глава десятая](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Глава тринадцатая](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13 000);
-  - [Глава четырнадцатая](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14 000); назначенный текст реализации, указанный выше.
+  - [Глава десятая](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [Глава тринадцатая](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13 000);
+  - [Глава четырнадцатая](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14 000); назначенный текст реализации, указанный выше.
 - Читайте с:
   - [Глава первая §19.3 Обнаружение смещения](../../core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.015 §19.3) (*обнаружение и просмотр множественного числа*);
   - [Атрибутируемое действие](../../core_05.035_band_accountability.md#attributable-action);
@@ -130,7 +130,7 @@
 <summary><strong><span style="color: #2563eb;">След</span></strong></summary>
 
 - Вверх по течению: [§1](#1-purpose-scope-and-owner-boundary); [Глава первая §18.3](../../core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3); [Глава первая §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1).
-- Ниже по течению: [§3](#3-independence-conflict-and-control-lines) через [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Каталог мест — архетипы процессуальных ролей и операционные границы*).
+- Ниже по течению: [§3](#3-independence-conflict-and-control-lines) через [§9](#9-relationship-to-later-processes); [CI-14.205 §6](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Каталог мест — архетипы процессуальных ролей и операционные границы*).
 - Читайте с: [§6](#6-proportional-scaling-and-merged-hosting) для единственного разрешенного пути объединенного хостинга.
 
 </details>
@@ -229,7 +229,7 @@ flowchart TB
 
 - Вверх по течению: [§2](#2-four-seat-constitutional-requirement); [Ответственность на уровне полномочий](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Статья XXV](../../core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Конституционная интерпретация, пересмотр и гарантии против захвата*).
 - Ниже по течению: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); Глава девятая: роли компонентов сертификации; Глава десятая. Хранение документации; Глава тринадцатая. Форум против самоосуждения.
-- Читайте с: [Линия контроля материалов](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Честность в конфликтах, предотвращение захвата и борьба с коррупцией*) и [CF-13.425](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Гарантии добросовестности, операции по предотвращению захвата и поддержка по борьбе с самооценкой*) для оперативного конфликта и защиты от самооценки.
+- Читайте с: [Линия контроля материалов](../../core_05.035_band_accountability.md#material-control-line); [CI-8.210](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Честность в конфликтах, предотвращение захвата и борьба с коррупцией*) и [CF-13.425](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Гарантии добросовестности, операции по предотвращению захвата и поддержка по борьбе с самооценкой*) для оперативного конфликта и защиты от самооценки.
 
 </details>
 
@@ -255,7 +255,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">След</span></strong></summary>
 
 - Вверх по течению: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
-- Ниже по течению: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 правил общего места](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- Ниже по течению: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-14.205 §6 правил общего места](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - Читайте с: [Глава первая §17.5 Обязанность оказывать сопротивление](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5).
 
 </details>
@@ -302,12 +302,12 @@ flowchart TB
   - [§3](#3-independence-conflict-and-control-lines);
   - [Прозрачность](../../core_05.050_band_oversight.md#transparency);
   - [Проверяемость](../../core_05.050_band_oversight.md#auditability).
-- Ниже по течению: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Полосы функционального разделения*); [CI-14.205 §5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*Авторизованные роли и цепочки подотчетности*); Записи девятой и десятой глав.
+- Ниже по течению: [§8](#8-act-records-and-attributable-handoffs); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Полосы функционального разделения*); [CI-14.205 §5](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-5-authorized-roles-and-accountability-chains) (*Авторизованные роли и цепочки подотчетности*); Записи девятой и десятой глав.
 - Читайте с:
   - [Устав системы](../../core_05.040_band_continuity.md#system-charter),
   - [Институциональный устав](../../core_05.040_band_continuity.md#institutional-charter);
   - [Глава седьмая §4. Карта ролей Устава и постоянная опека](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4); и
-  - [Глава четырнадцатая §5](../../core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14 000 §5).
+  - [Глава четырнадцатая §5](../../core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14 000 §5).
 
 </details>
 
@@ -377,7 +377,7 @@ flowchart TB
   - [материальная ставка](../../core_00.000_preamble.md#material-stake);
   - [Необходимость](../../core_05.035_band_accountability.md#necessity);
   - [Пропорциональность](../../core_05.035_band_accountability.md#proportionality).
-- Ниже по течению: [Глава десятая §3.7](../../core_10.000_standing_assessment.md#37-informal-and-small-scope-records) (10 000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Кадровое обеспечение и резервирование компетенций в масштабе каждого класса*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Полосы функционального разделения*).
+- Ниже по течению: [Глава десятая §3.7](../../core_11.000_standing_assessment.md#37-informal-and-small-scope-records) (10 000 §3.7); [CJS-18.110 §4](../../corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Кадровое обеспечение и резервирование компетенций в масштабе каждого класса*); [CI-8.205 §2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Полосы функционального разделения*).
 - Читайте с: [Бремя, которого можно избежать](../../core_05.040_band_continuity.md#avoidable-burden) и глава первая [§3.3 Процесс предотвращения деградации](../../core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -478,10 +478,10 @@ flowchart TB
 - Вверх по течению:
   - [§2](#2-four-seat-constitutional-requirement);
   - [§6](#6-proportional-scaling-and-merged-hosting);
-  - [Глава тринадцатая §6.1 Чрезвычайные меры и бремя продления](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13 000 §6.1);
+  - [Глава тринадцатая §6.1 Чрезвычайные меры и бремя продления](../../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (13 000 §6.1);
   - [промежуточная позиция по умолчанию](../../core_01.005_interaction_interpretation.md#default-interim-posture).
 - Нижестоящие процессы: процессы инцидента, локализации, выпуска, продолжения и анализа после события в специальном тексте реализации.
-- Читайте с: [Своевременность](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Сохранение доказательств](../../core_05.050_band_oversight.md#evidence-preservation), и [CI-14.205 §6 Каталог мест — архетипы процессуальных ролей и операционные границы](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- Читайте с: [Своевременность](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Сохранение доказательств](../../core_05.050_band_oversight.md#evidence-preservation), и [CI-14.205 §6 Каталог мест — архетипы процессуальных ролей и операционные границы](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -524,7 +524,7 @@ flowchart TB
   - [Материально обязательный акт акта](../../core_05.035_band_accountability.md#materially-binding-act-record);
   - [Атрибутируемое действие](../../core_05.035_band_accountability.md#attributable-action);
   - [Целостность атрибуции](../../core_05.035_band_accountability.md#attribution-integrity).
-- Ниже по течению: [CS-14.305 §10 проверяемое приписываемое действие](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-14.205 §6 правил общего места](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); каждая запись процесса, регулируемая §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*базовая машинопроверяемая форма; поддержка процесса, а не второе определение*).
+- Ниже по течению: [CS-14.305 §10 проверяемое приписываемое действие](../../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [CI-14.205 §6 правил общего места](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); каждая запись процесса, регулируемая §8; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*базовая машинопроверяемая форма; поддержка процесса, а не второе определение*).
 - Читайте с: [§4 Неправильная маршрутизация](#4-wrong-seat-routing) и [Глава четвертая §5](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) (4.000 §5).
 
 </details>
@@ -564,9 +564,9 @@ flowchart TB
 - Вверх по течению: [§1](#1-purpose-scope-and-owner-boundary) через [§8](#8-act-records-and-attributable-handoffs).
 - Ниже по течению:
   - [Глава девятая](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Глава десятая](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Глава тринадцатая](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13 000);
-  - [Глава четырнадцатая](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
+  - [Глава десятая](../../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (10.000);
+  - [Глава тринадцатая](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (13 000);
+  - [Глава четырнадцатая](../../core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000).
 - Читайте с: [Стек полномочий и внутренняя иерархия](../../core_05.045_band_integrative.md#owner-non-relocation) и [Преамбула реестра владельцев](../../core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

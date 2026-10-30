@@ -1,6 +1,6 @@
 # Record Integrity: draft principle (2026-10-27)
 
-**Status (2026-10-27):** adopted as **Record Integrity** in `core_05.035_band_accountability.md` (Accountability band, after Attribution Integrity); see move 155 in `doc_architecture.md`. The entry in the corpus is the source and has since been changed from the draft below (scaling added, "Not edited in place" elaborated). This file is the original draft and source table. Correction to the table: Chapter Ten §3.4 already requires standing records to be versioned with the prior audit trail kept, so "not edited in place" generalizes an existing pattern rather than creating one from nothing.
+**Status (2026-10-27):** adopted as **Record Integrity** in `core_05.035_band_accountability.md` (Accountability band, after Attribution Integrity); see move 155 in `doc_architecture.md`. The entry in the corpus is the source and has since been changed from the draft below (scaling added, "Not edited in place" elaborated). This file is the original draft and source table. Correction to the table: Chapter Eleven §3.4 already requires standing records to be versioned with the prior audit trail kept, so "not edited in place" generalizes an existing pattern rather than creating one from nothing.
 
 **Why.** While rewording Chapter Nine Part B §8.1 the same idea turned up under four different names: "integrity-preserving" (Act Record, Chapter Eight §8), "integrity-protected" (Part B), "tamper-evident where feasible" (Evidence Preservation), and "tampered with" (Attribution Integrity). No entry says, once, what it takes for an official record to be reliable as a record.
 
@@ -10,7 +10,7 @@
 |---|---|---|
 | Attributable (who entered or changed it, in what role, under what authority) | [Attribution Integrity](../core_05.035_band_accountability.md#attribution-integrity); [Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) (seat holders, authority, "attributable" record); Part B §8.2 | No |
 | Versioned, with changes visible | Chapter Eight §8 (current version, change timestamps, "superseded versions, and corrections"); Act Record entry ("versioned"); Record Seat assessment ("version history"); Part B §8.2 ("what changed between versions") | No |
-| Not edited in place once complete | Part B §8 ("do not edit a completed certification record in place"); Chapter Ten §3.7 ("the record stays inspectable, its prior versions stay in place") | **Yes**, if stated for every official record |
+| Not edited in place once complete | Part B §8 ("do not edit a completed certification record in place"); Chapter Eleven §3.7 ("the record stays inspectable, its prior versions stay in place") | **Yes**, if stated for every official record |
 | Preserved | [Evidence Preservation](../core_05.050_band_oversight.md#evidence-preservation) (no deletion, alteration, selective retention); Act Record entry ("identifies and preserves") | No (but it covers evidence, not every record) |
 | Reconstructable | Act Record entry; Chapter Eight §8 closing test; Evidence Preservation ("loss of reconstructability"); Part B §8.2 | No |
 | Reachable by those entitled; privacy never erases the trail | Chapter Eight §8 ("accessible through the authorized official record path"; privacy paragraph); Part B §8.2 (Type O) | No |
@@ -26,7 +26,7 @@ Proposed place: `core_05.050_band_oversight.md`, a cluster component of Def.O1 *
 #### Record Integrity
 
 - Cluster component: Def.O1 *Transparency, Auditability, and Verification*.
-- Downstream: [Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs); [Chapter Nine Part B §8](../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record); Chapter Nine Part D; Chapter Ten standing records; [Chapter Thirteen §2.3](../core_13.000_forum.md#23-forum-case-records-standing-records-and-contests).
+- Downstream: [Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs); [Chapter Nine Part B §8](../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record); Chapter Ten; Chapter Eleven standing records; [Chapter Fourteen §2.3](../core_14.000_forum.md#23-forum-case-records-standing-records-and-contests).
 - Read with: Attribution Integrity, Attributable Action, Evidence Preservation, Auditability, Transparency, Contestability, Materially Binding Act Record, Record Seat.
 
 *In plain terms: a record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the people entitled to check it can reach it.*
@@ -58,7 +58,7 @@ Proposed place: `core_05.050_band_oversight.md`, a cluster component of Def.O1 *
 - One "Read with" link each from Act Record, Attribution Integrity, Evidence Preservation, and Auditability.
 - Chapter Eight §8: a one-line pointer. Its own minimum contents stay.
 - Part B §8.1 intro and §8.2: link the entry. If "not edited in place" is generalized, the Part B sentence in §8.1.8 becomes an application of it.
-- Chapter Ten and Chapter Thirteen §2.3: only if the custodian wants "not edited in place" stated for standing and forum case records. They were not read in full for this draft.
+- Chapter Eleven and Chapter Fourteen §2.3: only if the custodian wants "not edited in place" stated for standing and forum case records. They were not read in full for this draft.
 - Then: move-log entry, regenerated indexes, ch5-entry-format and related audits, `make audit-report`.
 
 ## 4. Decisions

@@ -150,11 +150,11 @@ The whole constitution uses four checks. Here's how each one applies to this art
 
 ### How this fits with other articles
 
-- **Who runs the panels day to day.** [Chapter Thirteen](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) sets out how the constitutional panels are organized and supervised. Its procedures carry out this article, but they can't be used to water down the protections stated here.
+- **Who runs the panels day to day.** [Chapter Fourteen](../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) sets out how the constitutional panels are organized and supervised. Its procedures carry out this article, but they can't be used to water down the protections stated here.
 - **Your right to challenge and get justice.** [Article XIII-A](../../core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) covers reliable, trustworthy systems. [Article XX](../../core_06.015_rights_part_d.md#article-xx-justice-after-verified-violation) covers settling conflicts fairly and keeping emergency responses proportionate. Both also protect your ability to challenge decisions. When a ruling is reviewed, your challenge rights and the fairness rules must stay fully intact.
 - **Protection against capture everywhere.** [Article XII-D](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) sets the general rules for every body that makes decisions for others. Parts C and D of this article hold the constitutional bodies to those rules at their strictest.
 - **Keeping the setup open to change.** [Article XXVII-A](../../core_06.020_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) says no arrangement of power gets to become permanent. Part D of this article applies that rule to the panels themselves. Their design must be re-examined from time to time.
-- **The detailed hiring-and-conflict rules.** [CI-14.205 and CI-8.210](../../corpus_institutions.md) spell out how panel members are chosen, rotated, and removed, and how conflicts of interest and corruption are handled. They fill in the details, but they can't weaken the basic protections here.
+- **The detailed hiring-and-conflict rules.** [CI-15.205 and CI-8.210](../../corpus_institutions.md) spell out how panel members are chosen, rotated, and removed, and how conflicts of interest and corruption are handled. They fill in the details, but they can't weaken the basic protections here.
 
 The other documents supply the mechanics, but none of them can override the floor set by this article.
 
