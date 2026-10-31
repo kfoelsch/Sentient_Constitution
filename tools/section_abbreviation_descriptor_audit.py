@@ -12,6 +12,7 @@ from dataclasses import dataclass
 
 from corpus_paths import binding_corpus_scope
 from chapter_insertion_diff import is_insertion_only_change
+import audit_baseline
 
 
 SECTION_ID_RE = re.compile(
@@ -58,6 +59,16 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         default=False,
         help="Scan README.md and doc_architecture.md in addition to binding corpus files.",
+    )
+    parser.add_argument(
+        "--ignore-baseline",
+        action="store_true",
+        help="List every finding, baselined or not (to work down the backlog).",
+    )
+    parser.add_argument(
+        "--write-baseline",
+        action="store_true",
+        help="Rewrite the shrink-only baseline (AUDIT-SCOPE-01) from the current findings.",
     )
     return parser.parse_args()
 
@@ -283,16 +294,38 @@ def main() -> int:
             )
         return 1
 
-    if findings:
-        print("Naked implementation-section IDs found:", file=sys.stderr)
+    baselined = 0
+    stale: list[str] = []
+    if not args.changed_only and not args.paths and not args.ignore_baseline:
+        from collections import Counter
+
+        seen: Counter = Counter()
+        keyed = [
+            (audit_baseline.make_key(f.file, f"{f.section_id}|{f.text}", seen), f"{f.section_id}|{f.text}", f)
+            for f in findings
+        ]
+        if args.write_baseline:
+            audit_baseline.write(root, "section_abbreviation_descriptor", "section-abbreviation-descriptor", [(k, t) for k, t, _f in keyed])
+            print(f"WROTE baseline: {len(keyed)} entries")
+            return 0
+        new, stale = audit_baseline.split(root, "section_abbreviation_descriptor", keyed)
+        baselined = len(findings) - len(new)
+        findings = new
+
+    if findings or stale:
+        if findings:
+            print("Naked implementation-section IDs found:", file=sys.stderr)
         for finding in findings:
             print(
                 f"{finding.file}:{finding.line}: {finding.section_id}: {finding.text}",
                 file=sys.stderr,
             )
+        for key in stale:
+            print(f"stale baseline entry (problem fixed; remove it with --write-baseline): {key}", file=sys.stderr)
         return 1
 
-    print("Section abbreviation descriptor audit passed.")
+    extra = f" ({baselined} older finding(s) in the shrink-only baseline)" if baselined else ""
+    print(f"Section abbreviation descriptor audit passed{extra}.")
     return 0
 
 

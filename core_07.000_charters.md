@@ -105,7 +105,7 @@ The five system impact classes are the frame for everything below. From most to 
 - **Class L, local, limited-impact, and non-critical:** its effects reach beyond a private unit but are local, replaceable, and containable.
 - **Class P, personal, private-use, isolated, and experimental:** its effects stay inside a private unit, with no meaningful outside reliance.
 
-[CS-9.310 §8](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-8-system-impact-classifications) (*System impact classifications*) holds the full definitions. Classes A, B, C, and L must publish and Class P may, and [§1.2 Which classes are covered](#12-which-classes-are-covered) says how an Institution takes its class from the Systems it runs.
+[CS-9.310 §8](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-8-system-impact-classifications) (*System impact classifications*) holds the full definitions. Classes A, B, C, and L must publish and Class P may, and [§1.2 Which classes are covered](#12-which-classes-are-covered) says how an Institution takes its class, from the Systems it runs or from its own impact.
 
 <a id="11-who-must-publish"></a>
 #### 1.1 Who must publish
@@ -131,7 +131,7 @@ The class of the Chartered Party decides whether publishing is required or a cho
 
 - **Classes A, B, C, and L:** required. The chart in [§1.7 The process at a glance](#17-the-process-at-a-glance) shows the process they follow.
 - **Class P:** a choice, until one of two events makes it required. [§1.3 What Class P is](#13-what-class-p-is) says what makes an Operating Party Class P, and [§1.4 Class P: optional charters, and when they become required](#14-class-p-optional-charters-and-when-they-become-required) sets out the choice and when it ends.
-- **Class of an Institution:** An Institution takes the highest class of any System it operates, stewards, or materially controls. An Institution that runs no such System is classified by its own material impact and dependency, judged by what it actually decides and holds and not by its label or legal form, under [Chapter Ten §2.1 Institution class](core_10.000_institutional_alignment_certification.md#21-institution-class).
+- **Class of an Institution:** An Institution takes the class of the greatest material impact it has, whether through a System it operates, stewards, or materially controls or outside any System. That is judged by what it actually decides and holds and not by its label or legal form, under [Chapter Ten §2.1 Institution class](core_10.000_institutional_alignment_certification.md#21-institution-class).
 
 <a id="13-what-class-p-is"></a>
 #### 1.3 What Class P is
@@ -170,7 +170,7 @@ A covered System or Institution publishes its [System Charter](core_05.040_band_
 
 - **A new System or Institution:** before it goes live or begins to exercise authority over others.
 - **One that already operates:** at its next classification review or certification, or within the resolution window after a request under [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing), whichever comes first. It is in default until it does.
-  - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Ten §1.3 No permission and no gate](core_10.000_institutional_alignment_certification.md#13-no-permission-and-no-gate). Its first-certification window, under [Chapter Ten §1.4 Window for the first certification](core_10.000_institutional_alignment_certification.md#14-window-for-the-first-certification), is never a condition of publishing the Institutional Charter or of operating.
+  - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Ten §1.2 No permission and no gate](core_10.000_institutional_alignment_certification.md#12-no-permission-and-no-gate). Its first-certification window, under [Chapter Ten §1.3 Window for the first certification](core_10.000_institutional_alignment_certification.md#13-window-for-the-first-certification), is never a condition of publishing the Institutional Charter or of operating.
 - **The formation check:** It also completes the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) at the same moment.
 - **Where it is lodged:** It lodges the System Charter or Institutional Charter, with its Charter Role Map and formation check statement, with the Institutional registrar, or with the local registrar where its activity and the sentients it affects are local (**CF-14.415 §5** (*Institutional and local registrars*)):
   - **What the registrar does:** It checks that nothing required is missing and gives a dated receipt.

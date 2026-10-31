@@ -71,7 +71,7 @@ Chapter Eight is the constitutional owner of the **functional-independence and s
 
 <br>
 
-*In plain terms: before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control the official record of that check, or decide the challenge to it.*
+*In plain terms: before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.*
 
 This chapter applies to every [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), as Chapter Five defines it, including:
 
@@ -83,7 +83,7 @@ This chapter applies to every [Materially Binding Act](core_05.035_band_accounta
 - a disbursement or allocation; and
 - a disposition of a challenge.
 
-This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_05.050_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System classification machinery*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
+This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_05.050_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
 
 The seats in this chapter define who may do what for a particular act; they are not job titles. The same sentient, office, or system may hold different seats for different acts. A title, delegation, technical capability, or ability to perform a step does not enlarge the seat held for that act.
 
@@ -195,7 +195,7 @@ Every materially binding act has four functionally distinct seats. Chapter Five 
 3. **[Record Seat](core_05.035_band_accountability.md#record-seat)** — enters, amends, holds, preserves, and publishes the [Act Record](core_05.035_band_accountability.md#materially-binding-act-record) of what the Verify-or-Authorize Seat determined.
 4. **[Contest Seat](core_05.035_band_accountability.md#contest-seat)** — receives and reviews a challenge, orders correction or limits where authorized, and routes any issue outside its authority.
 
-These seats apply to human and AI stewards alike. If a system carries out an act, signs off on it, and then uses its own log as the proof, it is sitting in the initiating, verifying, and record seats at once. Automating the process doesn't make the check independent.
+These seats apply to human and AI stewards alike. If a system carries out an act, signs off on it, and then uses its own log as the proof, it is sitting in the initiating, verifying, and record seats at once. Automating the process doesn't make the verification independent.
 
 The following combinations are prohibited on the same act:
 
@@ -222,7 +222,7 @@ Where scope is mixed or classification is uncertain, apply the highest applicabl
 
 - Upstream: [§2](#2-four-seat-constitutional-requirement); [Authority-scaled answerability](core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Article XXV](core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - Downstream: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); Chapter Nine certification component roles; Chapter Eleven record custody; Chapter Fourteen forum anti-self-judging.
-- Read with: [Material Control Line](core_05.035_band_accountability.md#material-control-line); [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-14.425](corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
+- Read with: [Material Control Line](core_05.035_band_accountability.md#material-control-line); [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md#ci-8210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-14.425](corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-14425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
 
 </details>
 
@@ -357,7 +357,7 @@ A holder may use staff or tools to help with the seat's work, such as gathering 
 - [§6.2 Merging two seats in one office](#62-merging-two-seats-in-one-office) lists the conditions under which a small or informal adopter may place two seats in one office, and the pairings that stay barred.
 - [§6.3 Seats held in common](#63-seats-held-in-common) says how a small business places a seat with a cooperative, association, or other independent body, and the independence rules that apply.
 - [§6.4 Joint professional practice](#64-joint-professional-practice) says how a sentient or small practice of Class L or higher may place its seats with a host and adopt the host's documents, for any work, and what more applies to acts that need a practice licence or practice clearance.
-- [§6.5 Informal and community work](#65-informal-and-community-work) says that such work may use an independent relying body with published authority for the check.
+- [§6.5 Informal and community work](#65-informal-and-community-work) says that such work may use an independent relying body with published authority for the verification.
 - [§6.6 Stake, class, and what does not justify a merger](#66-stake-class-and-what-does-not-justify-a-merger) says that high stake keeps the presumption of separate offices, and that staffing, speed, or convenience alone never justify a merger.
 
 </details>
@@ -448,7 +448,7 @@ A sentient or small practice of Class L or higher may place its seats with a hos
 <a id="65-informal-and-community-work"></a>
 #### 6.5 Informal and community work
 
-Informal, unpaid, mutual-aid, care, repair, teaching, cooperative, and community-stewardship work may use an [independent](core_05.035_band_accountability.md#independence) relying body with published authority for the relevant check. The Constitution does not require such work to build formal offices, staffing, or procedures beyond what its size and means can reasonably support, as long as the check runs through a genuinely independent and accountable route.
+Informal, unpaid, mutual-aid, care, repair, teaching, cooperative, and community-stewardship work may use an [independent](core_05.035_band_accountability.md#independence) relying body with published authority for the relevant verification. The Constitution does not require such work to build formal offices, staffing, or procedures beyond what its size and means can reasonably support, as long as the verification runs through a genuinely independent and accountable route.
 
 <a id="66-stake-class-and-what-does-not-justify-a-merger"></a>
 #### 6.6 Stake, class, and what does not justify a merger

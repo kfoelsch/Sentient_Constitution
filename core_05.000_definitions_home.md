@@ -23,6 +23,8 @@ Chapter Five is the constitutional owner of **foundational definitions**, includ
 ### Canonical home and non-duplication rule
 *In plain terms: every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.*
 
+Three rules keep every defined term in one place:
+
 - Each constitutional definition, definition description, and clustered traceability concept must have one **canonical home** in this corpus — one official place that controls what the term means, how far it reaches, and what counts as satisfying it.
   - No incorporated or implementation text may create a second definition, a competing explanation, or a narrower restatement of a term whose canonical home is already assigned by this Constitution or by the corpus architecture map adopted under it.
 - Incorporated implementation text may put a canonical term to work only by pointing back to that home and then stating layer-specific criteria, procedures, classifications, controls, or conditions inside its assigned scope.

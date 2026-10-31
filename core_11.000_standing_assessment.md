@@ -86,7 +86,7 @@ Together, the answers to all three questions form the complete standing assessme
 
 #### 1.1 Purpose and scope
 
-This chapter states the constitutional record and measurement frames for **systems**, **sentients**, and **institutions**, including every system classified under [**CS-9.305**](corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*). These frames do not measure gossip, popularity, vague reputation, inherent dignity, or general worth; none is a permissible subject of standing assessment.
+This chapter states the constitutional record and measurement frames for **systems**, **sentients**, and **institutions**, including every system classified under [**CS-9.305**](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*). These frames do not measure gossip, popularity, vague reputation, inherent dignity, or general worth; none is a permissible subject of standing assessment.
 
 The standing pipeline must remain effective when previously verified contributions become too old to show current competence or reliability, violations remain unresolved, repair is costly, responsibility crosses borders, or an actor uses organizational layering or relabeling to impede accountability.
 

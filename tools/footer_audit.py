@@ -9,6 +9,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "tools"))
+
+from corpus_paths import binding_corpus_scope  # noqa: E402  (AUDIT-SCOPE-01)
 
 CORE_CHAIN = (
     "core_00.000_preamble.md",
@@ -152,6 +155,7 @@ CF_CHAIN = tuple(
         "cf_14.460_emergency_adjudication.md",
         "cf_14.465_standard_records_forms_evidence_artifacts.md",
         "cf_14.470_staffing_reserve_capacity_structural_records.md",
+        "cf_14.475_sentience_status_record.md",
     )
 )
 
@@ -510,6 +514,16 @@ def main() -> int:
     repaired = 0
 
     chain = READING_CHAIN
+
+    # AUDIT-SCOPE-01: the chain lists are hand-kept, so check them against the whole corpus.
+    # A corpus file that is in no chain (or a chain entry with no file) is a finding.
+    chained = {entry.split("#", 1)[0] for entry in chain} | {a[0] for a in REGISTRY_ANNEXES}
+    corpus = set(binding_corpus_scope(root, include_support_docs=True))
+    for rel in sorted(corpus - chained):
+        errors.append(f"{rel}: corpus file is in no reading chain or registry annex")
+    for rel in sorted(chained - corpus):
+        errors.append(f"{rel}: reading-chain entry is not a corpus file")
+
     for i, rel in enumerate(chain):
         prev = chain[i - 1] if i > 0 else None
         nxt = chain[i + 1] if i + 1 < len(chain) else "README.md"
@@ -517,7 +531,7 @@ def main() -> int:
             if rel in NEXT_ONLY:
                 if repair_next_only(root, rel, nxt):
                     repaired += 1
-            elif repair_file(root, rel, prev, nxt):
+            elif repair_file(root, rel.split("#", 1)[0], prev, nxt):
                 repaired += 1
         audit_file(root, rel, prev, nxt, errors)
 

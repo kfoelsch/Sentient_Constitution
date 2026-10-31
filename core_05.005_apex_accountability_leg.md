@@ -132,7 +132,6 @@ Operative measurement layers live on Chapter Five definition homes:
 - [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing)
 - [Accountability](#accountability) (link-only leg-head rollup)
 
-
 ---
 
 **Previous file:** [core_05.000_definitions_home.md](core_05.000_definitions_home.md)

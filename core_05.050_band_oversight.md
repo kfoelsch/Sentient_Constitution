@@ -554,7 +554,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - **In scope:** How the act test applies to a small business, meaning one run by a single sentient or a few. It decides its own affairs without a seat unless an act crosses a line.
     - **Its own decisions:** What it makes or sells, its prices within ordinary trade, whom it hires, its hours, and whom it buys from are not materially binding acts where the business cannot shape the market's terms and those it deals with can walk away. It places seats only on an act that is material in at least one of the nine areas, and its routine decisions are not separated one by one.
     - **Policy once:** A recurring covered decision, such as a refund rule, a tenancy rule, or a booking policy, is a materially binding act once, when the business publishes or changes the policy. Applying the published policy to a case is a clerical step that carries out an already recorded act. It needs no seat of its own unless it departs from the policy or changes its effect.
-    - **Limits for routine choices:** An adopting document may publish limits for pre-authorized routine choices, such as spending or hiring, so that a business need not seek a check on each one. The limits sit at or below what the nine questions imply, are published and open to review, and cannot move the line. Core sets no number.
+    - **Limits for routine choices:** An adopting document may publish limits for pre-authorized routine choices, such as spending or hiring, so that a business need not seek approval for each one. The limits sit at or below what the nine questions imply, are published and open to review, and cannot move the line. Core sets no number.
     - **Seats in common:** A small business that does take a covered act may place its other seats with a local group under [Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#6-proportional-scaling-and-merged-hosting) (*Seats held in common*).
   - **In scope:** The nine questions that tell whether an act, or an Operating Party's ongoing activity, is material. Each question draws a line. Above the line, the activity is material and the duties of that area attach. Below it, the activity is not material, though every Constitutional Constraint still applies (see the No licence rule under What must hold). Each question gives the test for being above the line, what falls below it, and where the duty itself lives.
     - <a id="domain-specific-materiality-survival"></a>**Survival and essential access.** *Could others lose something they need to live if the Operating Party stopped?*
@@ -1165,7 +1165,7 @@ See **Anti-Segmentation Principle**.
     - spot volume, obscurity, or formatting standing in for decision-relevant clarity; and
     - apply safety- and security-justified limits consistent with [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity).
 
-    Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [Verifiability](core_05.050_band_oversight.md#verifiability) owns those check conditions, including:
+    Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [Verifiability](core_05.050_band_oversight.md#verifiability) owns those verification conditions, including:
     - practical access;
     - independence from operator self-assertion;
     - proportionate burden; and
@@ -1192,7 +1192,7 @@ See **Anti-Segmentation Principle**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05.050_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: **
-  - [CS-6.305 Part A §7](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)** (*Type O baseline for Class A/B/C systems*); **
+  - [CS-6.305 §7](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)** (*Type O baseline for Class A/B/C systems*); **
   - [CS-6.310 Part B §9.3 Type O (open, public oversight baseline disclosure data)](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*);
   - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) (*Data Types and Handling Evaluation*);
   - [Chapter Nine Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (9.010 §8) (*System Certification Record*);
@@ -1256,7 +1256,7 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **Primary assessment:** Compare published disclosure to certified scope from [System Charter](core_05.040_band_continuity.md#system-charter), assigned class, and [System Boundaries](core_05.040_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-6.305 Part A §7 type O baseline for Class A/B/C systems](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)**, confirm:
+    **Primary assessment:** Compare published disclosure to certified scope from [System Charter](core_05.040_band_continuity.md#system-charter), assigned class, and [System Boundaries](core_05.040_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-6.305 §7 type O baseline for Class A/B/C systems](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)**, confirm:
     - a usable public view of the [System Charter](core_05.040_band_continuity.md#system-charter), [System Classification Record](core_05.040_band_continuity.md#system-classification-record), [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record), and [System Certification Record](core_05.040_band_continuity.md#system-certification-record) (or required contents) at public-baseline fidelity;
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance are each covered at baseline depth;
     - that lawful substitutes still support meaningful accountability and [Contestability](core_05.035_band_accountability.md#contestability); and
@@ -1277,7 +1277,7 @@ See **Anti-Segmentation Principle**.
     - non-public **Type G** audit access, paywalls, or performative summaries used as the public floor;
     - performative summaries that withhold decision-relevant baseline material;
     - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access;
-    - omitting a usable public view of the [System Charter](core_05.040_band_continuity.md#system-charter), [System Classification Record](core_05.040_band_continuity.md#system-classification-record), [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record), or [System Certification Record](core_05.040_band_continuity.md#system-certification-record) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-6.305 Part A §7 type O baseline for Class A/B/C systems](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)**; or
+    - omitting a usable public view of the [System Charter](core_05.040_band_continuity.md#system-charter), [System Classification Record](core_05.040_band_continuity.md#system-classification-record), [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record), or [System Certification Record](core_05.040_band_continuity.md#system-certification-record) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-6.305 §7 type O baseline for Class A/B/C systems](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)**; or
     - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
   - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) and [Transparency](core_05.050_band_oversight.md#transparency).
 
@@ -1499,7 +1499,7 @@ See **Anti-Segmentation Principle**.
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*SAC whole-system evaluation*);
   - [Chapter Nine Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents) (9.010 §8.1) (*findings on the System Certification Record*);
-  - [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
+  - [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*testing, stress, and regression coverage*).
 - Read with:
   - [Auditability](core_05.050_band_oversight.md#auditability),
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification),
@@ -1813,7 +1813,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 <a id="security-sensitive-disclosure-balance-c"></a>
 - **What must hold**
   - Good-faith security researchers must have a usable, non-retaliatory route to publish low-risk information — including existence notice and non-exploit-enabling detail — without treating researcher publication itself as prohibited disclosure.
-  - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling **Type O** summary rules.
+  - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) — Information types and handling **Type O** summary rules.
   - **Primary failure:** consistent with **Chapters Two through Four**, **Chapter One**, [Risk](core_05.040_band_continuity.md#risk), [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions):
     - publication that materially enables circumvention of safeguards or adversarial manipulation where those risks outweigh the benefits of disclosure;
     - suppressing low-risk good-faith researcher publication; or

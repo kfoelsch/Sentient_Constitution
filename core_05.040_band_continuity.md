@@ -80,7 +80,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - **What must hold**
   - **Primary failure:**
     - using the Adoption Transition as cover for self-created delay, pretextual enforcement, or lowering a constitutional floor;
-    - treating an open attainment gap as a defense to breach of a restraint duty;
+    - treating an open attainment gap as a defense to violation of a restraint duty;
     - letting interim authority or a window run on, without reauthorization or re-baselining, until it becomes the baseline; or
     - calling a matter an Adoption Transition to postpone a duty that already binds.
 
@@ -257,7 +257,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: **full certification** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.*
+*In plain terms: **full certification** is the longer-interval status a system earns only after clean recertifications, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing an evaluation, or a warning sign in the monitoring numbers, takes it away.*
 
 - **What it is**
   - **In scope:** The status of certification held by a system that was certified provisionally, has completed the required consecutive clean provisional recertifications, and at its latest [Recertification](core_05.040_band_continuity.md#recertification) showed no current misalignment and no monitoring indicator pointing to impending misalignment. Full certification runs on the class-scaled certification interval, remains time-bound, and remains open to reopening.
@@ -467,7 +467,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - Canonical owner: [Chapter Nine Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification) (9.000 §2.3) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) (9.005 §7.1) (*the go-live gate*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) topic group and does not join it.
-- Downstream: [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*progressive deployment*).
+- Downstream: [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*progressive deployment*).
 - Read with:
   - [Go-Live](core_05.040_band_continuity.md#go-live),
   - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification),
@@ -529,7 +529,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: **provisional certification** is the closely watched status for a system that is new, or that has just failed a check. It is re-checked on a short interval until it has earned the longer-interval status of full certification.*
+*In plain terms: **provisional certification** is the closely watched status for a system that is new, or that has just failed an evaluation. It is re-checked on a short interval until it has earned the longer-interval status of full certification.*
 
 - **What it is**
   - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05.040_band_continuity.md#recertification) or after a reopened review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with limits on reliance stated on the record.
@@ -582,14 +582,14 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: **recertification** is the scheduled re-check that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.*
+*In plain terms: **recertification** is the scheduled re-evaluation that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.*
 
 - **What it is**
   - **In scope:** The scheduled renewal of a [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) for a system that already holds a [System Certification Record](core_05.040_band_continuity.md#system-certification-record). The evaluations the record requires are carried out again, at the depth the system's class requires, on the cadence the record states, with regression testing, so that continued reliance rests on current evidence and not on an earlier finding. A recertification ends in an outcome stated on the record, including the certification status — [Provisional Certification](core_05.040_band_continuity.md#provisional-certification) or [Full Certification](core_05.040_band_continuity.md#full-certification) — that the findings support.
   - **Out of scope:**
     - the first [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) of a system;
     - reopening — review that does not wait for the schedule because a trigger has fired (material change, concealed behavior, dependency growth, incident, or credible challenge), which is stated in [Chapter Nine Part C §9.2](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers);
-    - reclassification under **CS-9.305 (*System classification machinery*) and CS-9.310 §3.5** (*Reclassification requirement*) or scheduled data-type re-evaluation under **CS-6.305 (*Information types and handling*) and CS-6.310 §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
+    - reclassification under **CS-9.305 §3.5** (*Reclassification requirement*) or scheduled data-type re-evaluation under **CS-6.305 §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
     - periodic revalidation of other things, such as stewardship claims under [Review and Correction Duty](#review-and-correction-duty) or governance mechanisms under **Article XXVII-B** (*Periodic Revalidation and Transparent Change*) —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
@@ -2796,7 +2796,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - [Cross-System Extraction](core_05.040_band_continuity.md#cross-system-extraction) — drawing money, goods, services, labor, compute, shared information, or other shared resource flows from infrastructure others also need, without putting proportionate support back;
 - [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support) — the duty of systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable.
 
-*Measurements (family routing):* Measured under the Continuity measurement family (*Dependency and resource flows*; *Cross-system support*). Find the concrete measures on the member definitions below. Read with [CS-6.335 — Resource allocation and funding stewardship](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md).
+*Measurements (family routing):* Measured under the Continuity measurement family (*Dependency and resource flows*; *Cross-system support*). Find the concrete measures on the member definitions below. Read with [CS-6.335 — Resource allocation and funding stewardship](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship).
 
 ---
 
@@ -3892,7 +3892,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - **What must hold**
   - A Charter Pointer reaches the current published version of what it names. A dead or stale Charter Pointer counts as a missing item.
   - **Primary failure:** relying on a dead or stale Charter Pointer as the statement of a required item in a System Charter or Institutional Charter; or offering that text as a substitute for the rules it points to.
-  - **Secondary failure:** a Charter Pointer so general that a reader cannot tell which document or provision it names; or one that scheduled review does not recheck.
+  - **Secondary failure:** a Charter Pointer so general that a reader cannot tell which document or provision it names; or one that scheduled review does not revisit.
 
 ---
 
@@ -3904,7 +3904,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
-- Downstream: [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*the duties this chapter places on a System or Institution that holds a System Charter or Institutional Charter*); [Chapter Seven §1 When System and Institutional Charters Are Required](core_07.000_charters.md#1-when-system-and-institutional-charters-are-required) (7.000 §1) (*who must publish one and who may*); [Chapter Seven §6 When a Holder Fails the Formation Check](core_07.000_charters.md#6-when-a-holder-fails-the-formation-check) (7.000 §6) (*a failed check lands on one office, not on the Chartered Party*).
+- Downstream: [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*the duties this chapter places on a System or Institution that holds a System Charter or Institutional Charter*); [Chapter Seven §1 When System and Institutional Charters Are Required](core_07.000_charters.md#1-when-system-and-institutional-charters-are-required) (7.000 §1) (*who must publish one and who may*); [Chapter Seven §6 When a Holder Fails the Formation Check](core_07.000_charters.md#6-when-a-holder-fails-the-formation-check) (7.000 §6) (*a failed formation check lands on one office, not on the Chartered Party*).
 - Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
 - Read with:
   - [System](core_05.040_band_continuity.md#system),
@@ -4409,7 +4409,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Chapter One §13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.005 §13.3) (labor-floor burden vs false efficiency).
 - Owner floor:
   - [Article III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*). Implementation routing:
-  - [**CI-9.210**](corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*) /
+  - [**CI-9.210**](corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*) /
   - **CI-6.210** (*Public revenue, fees, recurring charges, and billing integrity*) /
   - **CI-6.215** (*Resource stewardship and incentive integrity*).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
@@ -4684,7 +4684,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [Creative Work Attribution](core_05.040_band_continuity.md#creative-work-attribution) where the depiction uses upstream creator-work; and
     - [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational) where the depiction discloses or reconstructs information about the depicted sentient.
 
-    Passing one of these checks does not skip the other when both apply.
+    Passing one of these tests does not skip the other when both apply.
 <a id="likeness-and-documentary-depiction-interface-c"></a>
 - **What must hold**
   - Recognizably identifiable **likeness** (including synthetic depiction held out as authentic) remains subject to **Article IX-A** (*Self-Ownership of Likeness and Reputation*) (including defaults and the **factual reporting** pathway) unless another constitutional provision applies.

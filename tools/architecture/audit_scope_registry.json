@@ -1,0 +1,811 @@
+{
+ "_comment": "AUDIT-SCOPE-01: expected file scope of every audit target. tools/audit_scope_probe.py measures it.",
+ "corpus_basis_exempt": [],
+ "targets": {
+  "adopted-implementation-anatomy-audit": {
+   "scope": "format-owned",
+   "files": [
+    "corpus_forum/cf_00.405_registry_and_reading_rules.md",
+    "corpus_forum/cf_00.410_scope_authority_boundary_rules.md",
+    "corpus_forum/cf_14.405_forum_formation_chamber_structure.md",
+    "corpus_forum/cf_14.410_panel_formation_disclosure_recusal_bench_constitution.md",
+    "corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md",
+    "corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md",
+    "corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md",
+    "corpus_forum/cf_14.430_forum_forensic_analytical_support.md",
+    "corpus_forum/cf_14.435_independent_investigative_service_prosecution_interface.md",
+    "corpus_forum/cf_14.440_technical_specialist_forums_specialist_chambers.md",
+    "corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md",
+    "corpus_forum/cf_14.450_forum_continuity.md",
+    "corpus_forum/cf_14.455_fallback_operation.md",
+    "corpus_forum/cf_14.460_emergency_adjudication.md",
+    "corpus_forum/cf_14.465_standard_records_forms_evidence_artifacts.md",
+    "corpus_forum/cf_14.470_staffing_reserve_capacity_structural_records.md",
+    "corpus_forum/cf_14.475_sentience_status_record.md",
+    "corpus_institutions/ci_00.205_registry_and_reading_rules.md",
+    "corpus_institutions/ci_00.210_scope_purpose_legitimacy_interface.md",
+    "corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md",
+    "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md",
+    "corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md",
+    "corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md",
+    "corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md",
+    "corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md",
+    "corpus_institutions/ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+    "corpus_institutions/ci_06.235_collective_public_health_epidemic_response_addiction_informed_care.md",
+    "corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md",
+    "corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md",
+    "corpus_institutions/ci_06.250_community_life_voluntary_association_non_instrumental_time.md",
+    "corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md",
+    "corpus_institutions/ci_06.260_place_based_stewardship_indigenous_continuity_consultation.md",
+    "corpus_institutions/ci_06.265_innovation_reward_disclosure_anti_enclosure.md",
+    "corpus_institutions/ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md",
+    "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
+    "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md",
+    "corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md",
+    "corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md",
+    "corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md",
+    "corpus_institutions/ci_12.205_remedy_systems_institutional_redress_capacity.md",
+    "corpus_institutions/ci_12.210_institutional_failure_dissolution.md",
+    "corpus_institutions/ci_12.215_institutional_accountability_sanctions.md",
+    "corpus_institutions/ci_14.205_procedure_integrity_contestability_secondary_review.md",
+    "corpus_institutions/ci_14.210_cross_institution_coordination_escalation.md",
+    "corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md",
+    "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md",
+    "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
+    "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_05.110_oversight_operations.md",
+    "corpus_joint_structure/cjs_05.115_audit_process.md",
+    "corpus_joint_structure/cjs_05.120_participation_operations.md",
+    "corpus_joint_structure/cjs_05.125_accountability_operations.md",
+    "corpus_joint_structure/cjs_05.130_continuity_operations.md",
+    "corpus_joint_structure/cjs_05.135_integrative_operations.md",
+    "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
+    "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
+    "corpus_joint_structure/cjs_19.105_drafting_contracts.md",
+    "corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md",
+    "corpus_joint_structure/cjs_reader_guide.md",
+    "corpus_systems/cs_00.305_registry_and_reading_rules.md",
+    "corpus_systems/cs_00.310_scope_purpose_identifier_rules.md",
+    "corpus_systems/cs_06.305_information_types_and_handling.md",
+    "corpus_systems/cs_06.310_data_classifications.md",
+    "corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md",
+    "corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md",
+    "corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md",
+    "corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md",
+    "corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md",
+    "corpus_systems/cs_06.340_system_requirements.md",
+    "corpus_systems/cs_06.345_design_testing_verification_deployment.md",
+    "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md",
+    "corpus_systems/cs_06.355_subversion_response_replacement_reconstitution.md",
+    "corpus_systems/cs_09.305_system_classification_machinery.md",
+    "corpus_systems/cs_09.310_system_impact_classifications.md",
+    "corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md",
+    "corpus_systems/cs_09.320_system_alignment_certification_illustrations.md",
+    "corpus_systems/cs_15.305_critical_system_stewardship.md"
+   ],
+   "reason": "Anatomy (owner line, scope, footer rules) of adopted-implementation subfiles; core chapters have their own anatomy checks (NAV audits)."
+  },
+  "adopted-implementation-cite-audit": {
+   "scope": "corpus"
+  },
+  "adopted-implementation-filename-audit": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "ai-manifest-validate": {
+   "scope": "corpus"
+  },
+  "anchor-heading-drift-audit": {
+   "scope": "corpus"
+  },
+  "article-cite-gloss-audit": {
+   "scope": "corpus"
+  },
+  "audit-registry-check": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "audit-scope-check": {
+   "scope": "not-file-based",
+   "reason": "Checks the audit scope registry and hand-kept file lists, not corpus prose."
+  },
+  "best-practices-check": {
+   "scope": "format-owned",
+   "files": [
+    "corpus_institutions.md",
+    "corpus_systems.md",
+    "implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md"
+   ],
+   "reason": "Repository-level documents (README, doc_architecture) checked against practice notes, not corpus text."
+  },
+  "boundary-chunks-check": {
+   "scope": "generator",
+   "reason": "Freshness check of a generated file; the generator decides which chapters it lifts from."
+  },
+  "ch1-dac-order-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_01.000_values_principles.md",
+    "core_01.005_interaction_interpretation.md",
+    "core_01.010_stewardship_capacity_principles.md"
+   ],
+   "reason": "Chapter One D/A/C widget row order, from tools/architecture/ch1_dac_order.json."
+  },
+  "ch10-trace-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_06.000_rights_part_a.md",
+    "core_06.005_rights_part_b.md",
+    "core_06.010_rights_part_c.md",
+    "core_06.015_rights_part_d.md",
+    "core_06.020_rights_part_e.md"
+   ],
+   "reason": "Chapter Six subarticle Trace blocks (NAV-TRACE-08/09); the format exists only in the rights-part files."
+  },
+  "ch4-ch9-pointer-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_09.000_system_alignment_certification_evaluation.md",
+    "core_09.005_system_alignment_certification_record_process.md"
+   ],
+   "reason": "Lockstep audit: checks registered copies, routers or pointers against their owner; the scope is the registered set."
+  },
+  "ch5-alphabetical-directory-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.000_definitions_home.md",
+    "core_05.005_apex_accountability_leg.md",
+    "core_05.010_apex_continuity_aim.md",
+    "core_05.015_apex_flourishing_aim.md",
+    "core_05.020_apex_oversight_leg.md",
+    "core_05.025_apex_participation_leg.md",
+    "core_05.030_apex_timeliness_leg.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md",
+    "core_05.060_band_performance.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-cluster-order-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.000_definitions_home.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-constitutional-cluster-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.000_definitions_home.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-cross-file-link-audit": {
+   "scope": "corpus"
+  },
+  "ch5-dac-widget-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_00.000_preamble.md",
+    "core_01.000_values_principles.md",
+    "core_01.005_interaction_interpretation.md",
+    "core_01.010_stewardship_capacity_principles.md",
+    "core_02.000_definition_structure.md",
+    "core_03.000_definition_integrity.md",
+    "core_05.000_definitions_home.md",
+    "core_05.005_apex_accountability_leg.md",
+    "core_05.010_apex_continuity_aim.md",
+    "core_05.015_apex_flourishing_aim.md",
+    "core_05.020_apex_oversight_leg.md",
+    "core_05.025_apex_participation_leg.md",
+    "core_05.030_apex_timeliness_leg.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md",
+    "core_05.060_band_performance.md",
+    "core_06.000_rights_part_a.md",
+    "core_06.005_rights_part_b.md",
+    "core_06.010_rights_part_c.md",
+    "core_06.015_rights_part_d.md",
+    "core_06.020_rights_part_e.md",
+    "core_11.000_standing_assessment.md",
+    "core_12.000_standing_integration.md",
+    "core_13.000_misconduct_designation.md",
+    "core_13.005_misconduct_pattern_applications.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-definitions-gravity-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.000_definitions_home.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md",
+    "core_05.060_band_performance.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-depends-on-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.010_apex_continuity_aim.md",
+    "core_05.015_apex_flourishing_aim.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-entry-format-audit": {
+   "scope": "corpus"
+  },
+  "ch5-measurement-coverage-audit": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "ch5-measurement-stub-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.005_apex_accountability_leg.md",
+    "core_05.010_apex_continuity_aim.md",
+    "core_05.015_apex_flourishing_aim.md",
+    "core_05.020_apex_oversight_leg.md",
+    "core_05.025_apex_participation_leg.md",
+    "core_05.030_apex_timeliness_leg.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md",
+    "core_05.060_band_performance.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-measurement-tier-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.005_apex_accountability_leg.md",
+    "core_05.020_apex_oversight_leg.md",
+    "core_05.025_apex_participation_leg.md",
+    "core_05.030_apex_timeliness_leg.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-o-scope-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.010_apex_continuity_aim.md",
+    "core_05.015_apex_flourishing_aim.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-omac-format-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.005_apex_accountability_leg.md",
+    "core_05.010_apex_continuity_aim.md",
+    "core_05.015_apex_flourishing_aim.md",
+    "core_05.020_apex_oversight_leg.md",
+    "core_05.025_apex_participation_leg.md",
+    "core_05.030_apex_timeliness_leg.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-single-definition-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.000_definitions_home.md",
+    "core_05.005_apex_accountability_leg.md",
+    "core_05.010_apex_continuity_aim.md",
+    "core_05.015_apex_flourishing_aim.md",
+    "core_05.020_apex_oversight_leg.md",
+    "core_05.025_apex_participation_leg.md",
+    "core_05.030_apex_timeliness_leg.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md",
+    "core_05.060_band_performance.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "ch5-trace-crosslink-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_05.000_definitions_home.md",
+    "core_05.005_apex_accountability_leg.md",
+    "core_05.010_apex_continuity_aim.md",
+    "core_05.015_apex_flourishing_aim.md",
+    "core_05.020_apex_oversight_leg.md",
+    "core_05.025_apex_participation_leg.md",
+    "core_05.030_apex_timeliness_leg.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md",
+    "core_05.060_band_performance.md"
+   ],
+   "reason": "Chapter Five definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
+  },
+  "chapter-number-audit": {
+   "scope": "corpus-except",
+   "except": [
+    "corpus_*.md"
+   ],
+   "reason": "The four family wrappers are front doors, not numbered chapters or implementation files; front-door-audit covers them."
+  },
+  "chart-section-number-audit": {
+   "scope": "corpus"
+  },
+  "cjs-operational-cluster-audit": {
+   "scope": "corpus"
+  },
+  "cjs3-cluster-term-order-audit": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "conflict-marker-audit": {
+   "scope": "corpus"
+  },
+  "copy-suffix-check": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "corpus-lookup-test": {
+   "scope": "not-file-based",
+   "reason": "Unit test or scenario catalog with its own fixtures; reads no corpus text as its subject."
+  },
+  "corpus-markdown-audit": {
+   "scope": "corpus"
+  },
+  "corpus-ref-name-audit": {
+   "scope": "corpus"
+  },
+  "crossref-matrix-format-test": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "cs4-inspectable-action-log-validate": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "doc-architecture-section-audit": {
+   "scope": "format-owned",
+   "files": [
+    "doc_architecture.md"
+   ],
+   "reason": "Checks the section structure of doc_architecture.md, a support document outside the corpus basis."
+  },
+  "easy-entry-jargon-audit": {
+   "scope": "format-owned",
+   "files": [
+    "implementation/adoption/easy_entry/*.md"
+   ],
+   "reason": "Register rule for reader-facing easy-entry briefs: the terms it bans are the corpus's own defined vocabulary, so it cannot bind core or implementation text."
+  },
+  "external-link-audit": {
+   "scope": "corpus"
+  },
+  "family-map-audit": {
+   "scope": "generator",
+   "reason": "Freshness check of a generated file; the generator decides which chapters it lifts from."
+  },
+  "file-size-audit": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "file-top-placement-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_00.000_preamble.md",
+    "core_01.000_values_principles.md",
+    "core_01.005_interaction_interpretation.md",
+    "core_01.010_stewardship_capacity_principles.md",
+    "core_02.000_definition_structure.md",
+    "core_03.000_definition_integrity.md",
+    "core_04.000_burden_traceability_verification.md",
+    "core_05.000_definitions_home.md",
+    "core_05.005_apex_accountability_leg.md",
+    "core_05.010_apex_continuity_aim.md",
+    "core_05.015_apex_flourishing_aim.md",
+    "core_05.020_apex_oversight_leg.md",
+    "core_05.025_apex_participation_leg.md",
+    "core_05.030_apex_timeliness_leg.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md",
+    "core_05.060_band_performance.md",
+    "core_06.000_rights_part_a.md",
+    "core_06.005_rights_part_b.md",
+    "core_06.010_rights_part_c.md",
+    "core_06.015_rights_part_d.md",
+    "core_06.020_rights_part_e.md",
+    "core_07.000_charters.md",
+    "core_08.000_functional_independence_separation_of_duties.md",
+    "core_09.000_system_alignment_certification_evaluation.md",
+    "core_09.005_system_alignment_certification_record_process.md",
+    "core_09.010_system_alignment_certification_record_recertification.md",
+    "core_10.000_institutional_alignment_certification.md",
+    "core_11.000_standing_assessment.md",
+    "core_11.005_application_vignettes.md",
+    "core_12.000_standing_integration.md",
+    "core_13.000_misconduct_designation.md",
+    "core_13.005_misconduct_pattern_applications.md",
+    "core_14.000_forum.md",
+    "core_15.000_governance.md",
+    "core_16.000_non_regression.md",
+    "core_17.000_expansion_supremacy.md",
+    "core_18.000_amendment_ratification.md",
+    "core_19.000_incorporation.md"
+   ],
+   "reason": "Core chapters and the four registry annexes carry the file-top Corpus placement widget; the adopted-implementation target checks every other subfile."
+  },
+  "file-top-placement-audit-adopted-implementation": {
+   "scope": "corpus-except",
+   "except": [
+    "corpus_*.md"
+   ],
+   "reason": "The four family wrappers are front doors with their own anatomy, checked by front-door-audit."
+  },
+  "footer-audit": {
+   "scope": "corpus-except",
+   "except": [
+    "core_09.000_*.md",
+    "core_09.005_*.md",
+    "core_09.010_*.md",
+    "core_10.000_*.md"
+   ],
+   "reason": "Chapter Nine's three parts and Chapter Ten are fragment-addressed chain nodes: their neighbors' Previous/Next links are validated, and the files carry no end footer by design."
+  },
+  "fossil-anchor-audit": {
+   "scope": "corpus"
+  },
+  "front-door-audit": {
+   "scope": "format-owned",
+   "files": [
+    "AGENTS.md",
+    "CONTRIBUTING.md",
+    "README.md",
+    "START_HERE.md",
+    "core_00.000_preamble.md",
+    "core_06.000_rights_part_a.md",
+    "core_06.005_rights_part_b.md",
+    "core_06.010_rights_part_c.md",
+    "core_06.015_rights_part_d.md",
+    "core_06.020_rights_part_e.md",
+    "docs/index.md",
+    "implementation/adoption/ANNOUNCEMENT.md",
+    "implementation/adoption/FIT_SITUATIONS.md",
+    "translations/README.md"
+   ],
+   "reason": "Front doors (README, START_HERE, wrappers and the like) have their own anatomy."
+  },
+  "front-door-freshness": {
+   "scope": "generator",
+   "reason": "Freshness check of a generated file; the generator decides which chapters it lifts from."
+  },
+  "heading-echo-topic-audit": {
+   "scope": "corpus"
+  },
+  "heading-runin-echo-audit": {
+   "scope": "corpus"
+  },
+  "id-resolver-test": {
+   "scope": "corpus"
+  },
+  "in-paragraph-link-audit": {
+   "scope": "corpus"
+  },
+  "json-rows-test": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "lexical-vocabulary-audit": {
+   "scope": "corpus"
+  },
+  "local-markdown-fragment-audit": {
+   "scope": "corpus"
+  },
+  "materially-binding-act-record-validate": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "measurement-anchor-audit": {
+   "scope": "corpus"
+  },
+  "nav-widget-spacer-audit": {
+   "scope": "corpus"
+  },
+  "owner-discipline-audit": {
+   "scope": "corpus-except",
+   "except": [
+    "core_05.000_definitions_home.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_05.055_band_participation.md"
+   ],
+   "reason": "These Chapter Five files are the owners of the O/E/C definition blocks; the audit checks that no other file holds one."
+  },
+  "owner-line-audit": {
+   "scope": "corpus-except",
+   "except": [
+    "corpus_*.md"
+   ],
+   "reason": "An owner line names the chapter that owns an implementation file; the four family wrappers are the layer front doors and carry none."
+  },
+  "pages-corpus-index-check": {
+   "scope": "generator",
+   "reason": "Freshness check of a generated file; the generator decides which chapters it lifts from."
+  },
+  "pages-site-check": {
+   "scope": "corpus"
+  },
+  "pages-site-test": {
+   "scope": "corpus"
+  },
+  "parallel-norm-check-test": {
+   "scope": "not-file-based",
+   "reason": "Unit test or scenario catalog with its own fixtures; reads no corpus text as its subject."
+  },
+  "plain-language-audit": {
+   "scope": "corpus"
+  },
+  "plain-terms-edition-check": {
+   "scope": "generator",
+   "reason": "Freshness check of a generated file; the generator decides which chapters it lifts from."
+  },
+  "primitive-retirement-audit": {
+   "scope": "corpus"
+  },
+  "print-pack-check": {
+   "scope": "generator",
+   "reason": "Freshness check of a generated file; the generator decides which chapters it lifts from."
+  },
+  "prose-continuity-audit": {
+   "scope": "corpus"
+  },
+  "readability-audit": {
+   "scope": "corpus"
+  },
+  "readability-audit-with-gloss": {
+   "scope": "corpus"
+  },
+  "reader-accessibility-check": {
+   "scope": "generator",
+   "reason": "Freshness check of a generated file; the generator decides which chapters it lifts from."
+  },
+  "reference-audit": {
+   "scope": "corpus"
+  },
+  "root-layout-audit": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "router-bidirectional-audit": {
+   "scope": "format-owned",
+   "files": [
+    "corpus_forum/cf_00.405_registry_and_reading_rules.md",
+    "corpus_forum/cf_00.410_scope_authority_boundary_rules.md",
+    "corpus_forum/cf_14.405_forum_formation_chamber_structure.md",
+    "corpus_forum/cf_14.410_panel_formation_disclosure_recusal_bench_constitution.md",
+    "corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md",
+    "corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md",
+    "corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md",
+    "corpus_forum/cf_14.430_forum_forensic_analytical_support.md",
+    "corpus_forum/cf_14.435_independent_investigative_service_prosecution_interface.md",
+    "corpus_forum/cf_14.440_technical_specialist_forums_specialist_chambers.md",
+    "corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md",
+    "corpus_forum/cf_14.450_forum_continuity.md",
+    "corpus_forum/cf_14.455_fallback_operation.md",
+    "corpus_forum/cf_14.460_emergency_adjudication.md",
+    "corpus_forum/cf_14.465_standard_records_forms_evidence_artifacts.md",
+    "corpus_forum/cf_14.470_staffing_reserve_capacity_structural_records.md",
+    "corpus_forum/cf_14.475_sentience_status_record.md",
+    "corpus_institutions/ci_00.205_registry_and_reading_rules.md",
+    "corpus_institutions/ci_00.210_scope_purpose_legitimacy_interface.md",
+    "corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md",
+    "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md",
+    "corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md",
+    "corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md",
+    "corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md",
+    "corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md",
+    "corpus_institutions/ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+    "corpus_institutions/ci_06.235_collective_public_health_epidemic_response_addiction_informed_care.md",
+    "corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md",
+    "corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md",
+    "corpus_institutions/ci_06.250_community_life_voluntary_association_non_instrumental_time.md",
+    "corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md",
+    "corpus_institutions/ci_06.260_place_based_stewardship_indigenous_continuity_consultation.md",
+    "corpus_institutions/ci_06.265_innovation_reward_disclosure_anti_enclosure.md",
+    "corpus_institutions/ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md",
+    "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md",
+    "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md",
+    "corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md",
+    "corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md",
+    "corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md",
+    "corpus_institutions/ci_12.205_remedy_systems_institutional_redress_capacity.md",
+    "corpus_institutions/ci_12.210_institutional_failure_dissolution.md",
+    "corpus_institutions/ci_12.215_institutional_accountability_sanctions.md",
+    "corpus_institutions/ci_14.205_procedure_integrity_contestability_secondary_review.md",
+    "corpus_institutions/ci_14.210_cross_institution_coordination_escalation.md",
+    "corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md",
+    "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md",
+    "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
+    "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_05.110_oversight_operations.md",
+    "corpus_joint_structure/cjs_05.115_audit_process.md",
+    "corpus_joint_structure/cjs_05.120_participation_operations.md",
+    "corpus_joint_structure/cjs_05.125_accountability_operations.md",
+    "corpus_joint_structure/cjs_05.130_continuity_operations.md",
+    "corpus_joint_structure/cjs_05.135_integrative_operations.md",
+    "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
+    "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
+    "corpus_joint_structure/cjs_19.105_drafting_contracts.md",
+    "corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md",
+    "corpus_joint_structure/cjs_reader_guide.md"
+   ],
+   "reason": "Lockstep audit: checks registered copies, routers or pointers against their owner; the scope is the registered set."
+  },
+  "scenario-audit": {
+   "scope": "not-file-based",
+   "reason": "Unit test or scenario catalog with its own fixtures; reads no corpus text as its subject."
+  },
+  "scenario-catalog-check": {
+   "scope": "not-file-based",
+   "reason": "Unit test or scenario catalog with its own fixtures; reads no corpus text as its subject."
+  },
+  "section-abbreviation-descriptor-audit": {
+   "scope": "corpus"
+  },
+  "section-bullet-lead-audit": {
+   "scope": "corpus"
+  },
+  "section-cite-name-audit": {
+   "scope": "corpus"
+  },
+  "section-crossref-format-test": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "section-label-anchor-audit": {
+   "scope": "corpus"
+  },
+  "sentience-status-adjudication-record-validate": {
+   "scope": "not-file-based",
+   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+  },
+  "steward-door-lockstep-audit": {
+   "scope": "format-owned",
+   "files": [
+    "README.md",
+    "core_00.000_preamble.md",
+    "core_01.000_values_principles.md",
+    "core_01.005_interaction_interpretation.md",
+    "core_01.010_stewardship_capacity_principles.md",
+    "core_05.035_band_accountability.md",
+    "core_05.040_band_continuity.md",
+    "core_05.045_band_integrative.md",
+    "core_05.050_band_oversight.md",
+    "core_06.000_rights_part_a.md",
+    "core_06.005_rights_part_b.md",
+    "core_06.010_rights_part_c.md",
+    "core_06.015_rights_part_d.md",
+    "core_06.020_rights_part_e.md",
+    "core_08.000_functional_independence_separation_of_duties.md",
+    "core_09.000_system_alignment_certification_evaluation.md",
+    "core_11.000_standing_assessment.md",
+    "core_12.000_standing_integration.md",
+    "core_14.000_forum.md",
+    "core_18.000_amendment_ratification.md",
+    "core_19.000_incorporation.md",
+    "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md",
+    "corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md",
+    "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md",
+    "corpus_joint_structure/cjs_05.115_audit_process.md",
+    "corpus_joint_structure/cjs_05.125_accountability_operations.md",
+    "corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md",
+    "corpus_systems/cs_15.305_critical_system_stewardship.md",
+    "evaluation/OPERATOR_NOTES.md",
+    "evaluation/OPERATOR_ROUTING.md",
+    "implementation/STEWARD_ENTRY_DOORS.md"
+   ],
+   "reason": "Lockstep audit: checks registered copies, routers or pointers against their owner; the scope is the registered set."
+  },
+  "subarticle-gloss-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_06.000_rights_part_a.md",
+    "core_06.005_rights_part_b.md",
+    "core_06.010_rights_part_c.md",
+    "core_06.015_rights_part_d.md",
+    "core_06.020_rights_part_e.md"
+   ],
+   "reason": "Chapter Six sub-articles carry an In-plain-terms line; the format exists only in the rights-part files."
+  },
+  "support-doc-pointer-audit": {
+   "scope": "corpus"
+  },
+  "system-class-term-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_09.000_system_alignment_certification_evaluation.md",
+    "core_09.005_system_alignment_certification_record_process.md",
+    "core_09.010_system_alignment_certification_record_recertification.md"
+   ],
+   "reason": "TERM-SYSTEM-CLASS-01 names the Chapter Nine system class in full; bare class means other things elsewhere (Institution class, Class A/B/C)."
+  },
+  "time-reference-audit": {
+   "scope": "corpus"
+  },
+  "time-window-lockstep-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_07.000_charters.md",
+    "core_14.000_forum.md",
+    "corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md",
+    "guides/CONCEPTUAL_OVERVIEW.md"
+   ],
+   "reason": "Lockstep audit: checks registered copies, routers or pointers against their owner; the scope is the registered set."
+  },
+  "trace-dac-widget-order-audit": {
+   "scope": "corpus"
+  },
+  "trace-routing-prose-audit": {
+   "scope": "corpus"
+  },
+  "widget-top-placement-audit": {
+   "scope": "corpus"
+  },
+  "wrapper-cite-audit": {
+   "scope": "corpus-except",
+   "except": [
+    "corpus_*.md",
+    "corpus_*/*_registry_and_reading_rules.md",
+    "corpus_joint_structure/cjs_reader_guide.md",
+    "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md"
+   ],
+   "reason": "Navigation documents exist to point at the layers; their wrapper links are routing, not citations."
+  }
+ }
+}

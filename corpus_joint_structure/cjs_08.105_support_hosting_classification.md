@@ -1,11 +1,11 @@
-# CJS-8.105 §9–CJS-8.105 §11: Support roles, hosting independence, and classification alignment
+# CJS-8.105: Support roles, hosting independence, and classification alignment
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-8.105 §9** (*support-versus-merits boundary, host independence, and classification alignment*), **CJS-8.105 §10**, and **CJS-8.105 §11**. Public IDs remain **CJS-8.105 §9**–**CJS-8.105 §11**. The filename is `cjs_06_*` because these sections are not the **CJS-19.110** chapter; they are joint seams that **CJS-19.110** still points to.
 >
-> Start at the [Joint structure landing page](../corpus_joint_structure.md) or [CJS-19.110](cjs_19.110_specific_joint_interlocks.md). Most readers reach this file from a citation rather than reading the folder front to back.
+> Start at the [Joint structure landing page](../corpus_joint_structure.md) or [CJS-19.110](cjs_19.110_specific_joint_interlocks.md) (*Specific joint interlocks and shared abstractions*). Most readers reach this file from a citation rather than reading the folder front to back.
 
 </details>
 
@@ -72,7 +72,7 @@ See **CI-8.215 §3** (*Contest-integrity monitoring (Class A and Class B)*), **C
 
 When an institution hosts, funds, administers, or technically runs forum infrastructure, it must make forum independence and contestability work in practice — including budget, staffing, records, security, procurement, clerking, digital systems, and personnel systems. Independence on paper is not enough.
 
-Assess those arrangements for the particular act under [Chapter Eight §3 Independence, Conflict, and Control Lines](../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines). Shared infrastructure alone does not establish a Material Control Line; practical power over the check, evidence, credentials, funding, removal, or record does. If the holder is absent or conflicted, use the published substitute or independent route under [Chapter Eight §4 Wrong-Seat Routing](../core_08.000_functional_independence_separation_of_duties.md#4-wrong-seat-routing) and [§5 Published Placement, Vacancy, and Substitution](../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution), preserving evidence and logging the handoff. Hosting does not let the institution fill a missing independent seat with an interested operator.
+Assess those arrangements for the particular act under [Chapter Eight §3 Independence, Conflict, and Control Lines](../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines). Shared infrastructure alone does not establish a Material Control Line; practical power over the verification, evidence, credentials, funding, removal, or record does. If the holder is absent or conflicted, use the published substitute or independent route under [Chapter Eight §4 Wrong-Seat Routing](../core_08.000_functional_independence_separation_of_duties.md#4-wrong-seat-routing) and [§5 Published Placement, Vacancy, and Substitution](../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution), preserving evidence and logging the handoff. Hosting does not let the institution fill a missing independent seat with an interested operator.
 
 ## CJS-8.105 §11: Classification alignment for supervised scope
 
@@ -81,7 +81,7 @@ Assess those arrangements for the particular act under [Chapter Eight §3 Indepe
 
 Apply **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and stewardship-level scaling rule.
 
-When an institution supervises systems under [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) or **CS-15.305 — Critical system stewardship**, its published maps under **CI-9.210 §2** (*Published industry and domain mapping*) and related **CI-9.210** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including when reclassification is required.
+When an institution supervises systems under [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) or **CS-15.305 — Critical system stewardship**, its published maps under **CI-9.210 §2** (*Published industry and domain mapping*) and related **CI-9.210** (*Classification-linked institutional obligations*) material must match the operative systems classification profile, including when reclassification is required.
 
 ---
 

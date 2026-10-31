@@ -120,7 +120,7 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Continuity measurement family — link-only rollup; per-term layers live on leaf definitions linked in the table below.
-- Read with: [CS-6.335 — Resource allocation and funding stewardship](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (funding and cross-system return mechanics).
+- Read with: [CS-6.335 — Resource allocation and funding stewardship](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (funding and cross-system return mechanics).
 
 </details>
 

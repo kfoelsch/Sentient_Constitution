@@ -37,7 +37,7 @@
 - [Corpus and Authority Stack](core_05.045_band_integrative.md#defi1-corpus-and-authority-stack)
 - [Accountability, Contestability, and Collective Accountability Failure](core_05.005_apex_accountability_leg.md#accountability)
 
-**CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*) — the operational cluster compass for cross-implementation joint operational terms; read together with this chapter's Tetrad, Aims, and material-stake scaling:
+**CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) — the operational cluster compass for cross-implementation joint operational terms; read together with this chapter's Tetrad, Aims, and material-stake scaling:
 
 - [CJS-5.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — primary entry for **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*)–**CJS-5.135 §23** (*Integrative: intervention and override integrity terms*) clusters organized by Tetrad leg, Continuity aim, and integrative cross-leg bands
 
@@ -877,7 +877,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 Availability, observability, prior publication, platform possession, or technical accessibility does not extinguish privacy interests or satisfy the disciplines above.
 
-**Data-classification integration.** The operational layer for these disciplines is the data type system in **[CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md)**. That system assigns information to one or more of eleven types — environmental and survival-coordination (**Type E**), governance and operational source (**Type G**), open public oversight disclosure (**Type O**), historical, relational, and participation (**Type H**), identity and attribution (**Type I**), neurocognitive and internal (**Type N**), safety, security, and restricted investigation (**Type S**), works a sentient creates while private or shared (**Type Y**) and once published (**Type W**), and works under a commercial licence (**Type U**) or assignment (**Type T**) — each with its own access default and handling constraints. Most privacy handling runs through **Types H, I, N, S, and Y**; the map from each privacy category to its type is on [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational). The collection, retention, and use disciplines above apply *at the level required by the most restrictive applicable data classification* — not at a generic baseline. Where data may be reconstructed, transformed, or aggregated into a more sensitive classification, the more sensitive classification's protections apply. Misclassification, evasive structuring, or functional circumvention of data-type protections violates this principle.
+**Data-classification integration.** The operational layer for these disciplines is the data type system in **[CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling)**. That system assigns information to one or more of eleven types — environmental and survival-coordination (**Type E**), governance and operational source (**Type G**), open public oversight disclosure (**Type O**), historical, relational, and participation (**Type H**), identity and attribution (**Type I**), neurocognitive and internal (**Type N**), safety, security, and restricted investigation (**Type S**), works a sentient creates while private or shared (**Type Y**) and once published (**Type W**), and works under a commercial licence (**Type U**) or assignment (**Type T**) — each with its own access default and handling constraints. Most privacy handling runs through **Types H, I, N, S, and Y**; the map from each privacy category to its type is on [Privacy (Informational)](core_05.040_band_continuity.md#privacy-informational). The collection, retention, and use disciplines above apply *at the level required by the most restrictive applicable data classification* — not at a generic baseline. Where data may be reconstructed, transformed, or aggregated into a more sensitive classification, the more sensitive classification's protections apply. Misclassification, evasive structuring, or functional circumvention of data-type protections violates this principle.
 
 **Surveillance and monitoring.** Monitoring, observation, logging, and inference systems that materially affect sentient agency, association, or expression must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). Monitoring must not be indiscriminate, covert, open-ended, or made a condition of using a system sentients depend on, where a milder method would work. It is not permitted if it discourages sentients from speaking, gathering, or otherwise exercising freedoms this Constitution protects.
 
@@ -1220,7 +1220,7 @@ Whole-system evaluations must test anti-segmentation under [Chapter Nine §3 Who
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (privacy underpins agency and expression, which reconstruction from combined data would defeat); **accountability** leg (the party relying on a de-identified or aggregate label shows that it holds); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Upstream: [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle); [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle).
-- Downstream: [§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination); [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md).
+- Downstream: [§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination); [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling).
 
 </details>
 
@@ -1274,7 +1274,7 @@ Absence of intent does not take covered derived information outside this princip
 This principle does not:
 - apply to ordinary aggregates, such as anonymous traffic totals, that reveal nothing protected and cannot reasonably be used to re-identify anyone or reconstruct anything protected;
 - create, extend, or narrow any Chapter Six Rights-Floor provision; or
-- displace the data-type rules in [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md), which apply it.
+- displace the data-type rules in [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling), which apply it.
 
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 Definitional layer and required disciplines
@@ -1425,7 +1425,7 @@ Within the binding constitutional source, **Chapter One principles** govern high
 If a genuine incompatibility remains after integrated reading under **§15.4.1** (*Integrated reading*):
 - principles control over articles
 - articles control over definitions read as independent substantive glosses
-- canonical definitions continue to govern the meaning of the terms used at each level
+- canonical definitions continue to govern the meaning of the terms used at each step in this order
 
 This hierarchy is an interpretive rule of last resort. It applies only to a genuine incompatibility that survives integrated reading under **§15.4.1** (*Integrated reading*), and it does not let one layer stand in for another under ordinary operation. The limits in **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)** and **§15.4.1** (*Integrated reading*) continue to apply. They bar [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness), and they bar contraction of **Chapter Six** rights outside expressly permitted **Chapter One** interaction rules.
 
@@ -1437,7 +1437,7 @@ After the constitutional reading under **§15.4.1** (*Integrated reading*) and *
 The rules below choose among incorporated texts by [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect), the same standard the **ambiguity** rule in **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)** uses. They never choose by [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness).
 
 - **Fullest Protective Effect among incorporated texts:** Apply incorporated obligations at the level with the Fullest Protective Effect that is consistent with that constitutional reading.
-  - That level is the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation.
+  - That is the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation.
   - Choose among alternatives that remain coherent with the constitutional reading produced under the [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy).
   - It is **not** [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness).
 - **Clearly adopted baseline:** Where **edition identifiers or custody records** for incorporated artifacts are missing, contradictory, or materially unreliable:

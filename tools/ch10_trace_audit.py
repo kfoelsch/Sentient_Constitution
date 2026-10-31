@@ -27,11 +27,10 @@ import sys
 
 
 DEFAULT_FILES = [
-    "core_06.000_rights_part_a.md",
-    "core_06.005_rights_part_b.md",
-    "core_06.010_rights_part_c.md",
-    "core_06.015_rights_part_d.md",
-    "core_06.020_rights_part_e.md",
+    # Glob, not a hand-kept list (AUDIT-SCOPE-01): every Chapter Six rights-part file is audited,
+    # including parts added later.
+    path.name
+    for path in sorted(pathlib.Path(__file__).resolve().parents[1].glob("core_06.???_rights_part_*.md"))
 ]
 
 

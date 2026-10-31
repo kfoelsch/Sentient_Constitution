@@ -1,4 +1,4 @@
-# CJS-5.140 §13–CJS-5.140 §14: oDef parse mechanics
+# CJS-5.140: oDef parse mechanics
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
@@ -17,8 +17,8 @@
   - [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers and **Def.*** / **oDef** homes;
   - [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Downstream: [CJS-5.140 §13](#cjs-5140-13-operational-structure-and-subsection-local-terminology) (*CJS-5.140 §14: oDef parse mechanics*); [CJS-5.140 §14](#cjs-5140-14-operational-clusters) (*Operational clusters*).
-- Read with: **CJS-5.140 §13** (*CJS-5.140 §14: oDef parse mechanics*); **CJS-5.140 §14** (*Operational clusters*); **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*).
+- Downstream: [CJS-5.140 §13](#cjs-5140-13-operational-structure-and-subsection-local-terminology) (*Operational structure and subsection-local terminology*); [CJS-5.140 §14](#cjs-5140-14-operational-clusters) (*Operational clusters*).
+- Read with: **CJS-5.140 §13** (*Operational structure and subsection-local terminology*); **CJS-5.140 §14** (*Operational clusters*); **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -37,7 +37,7 @@ This file is the joint-structure implementation home for **CJS-5.140 §13** (*Op
 
 *In plain terms: these sections say how to read each **oDef** entry and how to treat a cluster of entries as one compound definition.*
 
-A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guide.md#how-to-read-an-odef-entry). The subsections below are the binding parse rules for **oDef** entries in **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*) — the reader-facing guidepost format (**What it is** / **How to measure and assess** / **What must hold**).
+A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guide.md#how-to-read-an-odef-entry). The subsections below are the binding parse rules for **oDef** entries in **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) — the reader-facing guidepost format (**What it is** / **How to measure and assess** / **What must hold**).
 
 ## CJS-5.140 §13: Operational structure and subsection-local terminology
 
@@ -49,7 +49,7 @@ A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guid
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
   - [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Read with: **CJS-5.140 §13** (*CJS-5.140 §14: oDef parse mechanics*); **CJS-5.140 §14** (*Operational clusters*).
+- Read with: **CJS-5.140 §13** (*Operational structure and subsection-local terminology*); **CJS-5.140 §14** (*Operational clusters*).
 
 </details>
 
@@ -89,7 +89,7 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
   - [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Read with: **CJS-5.140 §14** (*Operational clusters*); **CJS-5.140 §13** (*CJS-5.140 §14: oDef parse mechanics*).
+- Read with: **CJS-5.140 §14** (*Operational clusters*); **CJS-5.140 §13** (*Operational structure and subsection-local terminology*).
 
 </details>
 
@@ -99,7 +99,7 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint](../core_05.045_band_integrative.md#constitutional-constraint) · [O](../core_05.045_band_integrative.md#constitutional-constraint) · [M](../core_05.045_band_integrative.md#constitutional-constraint-a) · [A](../core_05.045_band_integrative.md#constitutional-constraint-a) · [C](../core_05.045_band_integrative.md#constitutional-constraint-c)
 
-Some subsections are structured as an **oDef** operational cluster (see **CJS-0.110 §1** (*Section identifiers and article references*) for the **oDef.*n*** = **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135.*n*** rule).
+Some subsections are structured as an **oDef** operational cluster (see **CJS-0.110 §1** (*Section identifiers and article references*) for the **oDef.*n*** = **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*).*n*** rule).
 
 In an **oDef** cluster, the head entry and the component entries in the same subsection work together as one compound operational definition.
 

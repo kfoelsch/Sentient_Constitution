@@ -767,7 +767,7 @@
       "term": "Formation Check",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#formation-check",
-      "plain_terms": "a Formation Check verifies that covered office-holders meet the published standing requirements and hold office in their own right for the Chartered Party's stated purpose. It is a check, not a licence to form or operate a body.",
+      "plain_terms": "a Formation Check verifies that covered office-holders meet the published standing requirements and hold office in their own right for the Chartered Party's stated purpose. It is a verification, not a licence to form or operate a body.",
       "href": "../../core_05.035_band_accountability.md#formation-check"
     },
     {
@@ -837,7 +837,7 @@
       "term": "Full Certification",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#full-certification",
-      "plain_terms": "**full certification** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.",
+      "plain_terms": "**full certification** is the longer-interval status a system earns only after clean recertifications, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing an evaluation, or a warning sign in the monitoring numbers, takes it away.",
       "href": "../../core_05.040_band_continuity.md#full-certification"
     },
     {
@@ -1502,7 +1502,7 @@
       "term": "Provisional Certification",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#provisional-certification",
-      "plain_terms": "**provisional certification** is the closely watched status for a system that is new, or that has just failed a check. It is re-checked on a short interval until it has earned the longer-interval status of full certification.",
+      "plain_terms": "**provisional certification** is the closely watched status for a system that is new, or that has just failed an evaluation. It is re-checked on a short interval until it has earned the longer-interval status of full certification.",
       "href": "../../core_05.040_band_continuity.md#provisional-certification"
     },
     {
@@ -1544,7 +1544,7 @@
       "term": "Recertification",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#recertification",
-      "plain_terms": "**recertification** is the scheduled re-check that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.",
+      "plain_terms": "**recertification** is the scheduled re-evaluation that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.",
       "href": "../../core_05.040_band_continuity.md#recertification"
     },
     {

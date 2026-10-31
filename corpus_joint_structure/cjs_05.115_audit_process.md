@@ -1,5 +1,5 @@
 
-# CJS-5.115 §3 / oDef.3 Audit process home
+# CJS-5.115: Audit process home (oDef.3)
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
@@ -58,7 +58,9 @@ This file is the joint-structure implementation home for **CJS-5.115 §3** (*Aud
 Use this file whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
 **Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05.040_band_continuity.md#system-alignment-certification) (Chapter Nine) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XVI** (*Audit, Transparency, and Independent Verification*) floors into Chapter Nine or into any single CS / CI / CF file.
 
-## What auditing is
+## CJS-5.115 §3 Audit process home (oDef.3)
+
+### What auditing is
 
 *In plain terms: auditing is an independent check of real behavior and evidence against what a system, institution, or forum claims — not a stamp, a popularity score, or a private club.*
 
@@ -79,7 +81,7 @@ Auditing **is not**:
 
 
 
-## Why we audit
+### Why we audit
 
 *In plain terms: we audit so misalignment, concealment, and capture get caught before harm hardens — and so sentients can challenge and fix what went wrong.*
 
@@ -93,7 +95,7 @@ Depth and frequency scale with [material stake](../core_00.000_preamble.md#mater
 
 
 
-## How we audit
+### How we audit
 
 *In plain terms: keep honest evidence, pick the right access level, get an independent check, publish usable results as openly as you can, and leave a path to challenge.*
 
@@ -113,7 +115,7 @@ Privacy and internal-state protections (**Article VII-B** (*Self-Ownership of Mi
 
 
 
-## When we audit
+### When we audit
 
 *In plain terms: audit when impact is material, when something important changes, on the schedule its class sets, and whenever harm or dispute requires reconstruction — not only when certification is due.*
 
@@ -130,7 +132,7 @@ Audit when any of the following applies (often more than one):
 
 
 
-## Sibling audit modes (owner map)
+### Sibling audit modes (owner map)
 
 *In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in **Article XVI** (*Audit, Transparency, and Independent Verification*)](../core_06.010_rights_part_c.md#audit-three-layers): **Article XVI** (*Audit, Transparency, and Independent Verification*) floor, Auditability property, this file as how/when). They are not extra homes.*
 

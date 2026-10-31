@@ -542,7 +542,7 @@ These rules apply to the notice interval.
 **Conditions and bounded authorization.** A conditional certification must distinguish three kinds of requirement:
 
 - **Conditions before go-live:** findings, corrective measures, and protections that must be independently verified before the affected scope operates;
-- **Continuing operating conditions:** limits and safeguards that must hold throughout permitted operation, with monitoring and a stated response to a breach; and
+- **Continuing operating conditions:** limits and safeguards that must hold throughout permitted operation, with monitoring and a stated response to a violation; and
 - **Corrective work after authorization:** work that may follow while the system operates, but only within an expressly bounded scope whose protections have been verified. The assigned component authority must state why that scope preserves the applicable Rights Floors while the correction is pending.
 
 For every condition or corrective task, the record must name:
@@ -551,7 +551,7 @@ For every condition or corrective task, the record must name:
 - the completion deadline or continuing cadence;
 - the evidence required;
 - the independent verifying authority; and
-- the consequence of non-completion or breach.
+- the consequence of non-completion or violation.
 
 A condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Releasing a condition requires independent verification of the evidence supporting release, under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and [§6.2 Supervisory sequence](#62-supervisory-sequence).
 
@@ -595,7 +595,7 @@ Where such a defect is found, forums may:
 - change the certification interval; or
 - reopen review under [Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) or order a fresh review.
 
-Which of these the forum chooses turns on whether the operator or steward is willing and able to correct the defect. [§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct) states that check, and [§7.4 Denial and Revocation](#74-denial-and-revocation) states when refusal or withdrawal is required.
+Which of these the forum chooses turns on whether the operator or steward is willing and able to correct the defect. [§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct) states that readiness check, and [§7.4 Denial and Revocation](#74-denial-and-revocation) states when refusal or withdrawal is required.
 
 **Protection, correction, and verification.** Where a defect is found, the forum must state:
 
@@ -627,7 +627,7 @@ Who does what:
 - **Operator or steward:** the proponent. It supplies the evidence. It does not judge its own readiness ([§6.1.1 Four seats in a certification](#611-four-seats-in-a-certification)).
 - **Lead forum:** decides the finding.
 - **Technical Forums:** hold the capacity evidence.
-- **Institutional Forums:** hold the governance and incentive evidence where the cause lies there. For an Institution, the check runs as [Chapter Ten §7.3 Remediation readiness for an Institution](core_10.000_institutional_alignment_certification.md#73-remediation-readiness-for-an-institution) states.
+- **Institutional Forums:** hold the governance and incentive evidence where the cause lies there. For an Institution, the readiness check runs as [Chapter Ten §7.3 Remediation readiness for an Institution](core_10.000_institutional_alignment_certification.md#73-remediation-readiness-for-an-institution) states.
 - **Affected sentients:** may submit evidence through the route in [§6.2 Supervisory sequence](#62-supervisory-sequence).
 
 <a id="731-willingness"></a>
@@ -677,9 +677,9 @@ The forum states one of:
 - **Willing, not able:** willing, but the correction cannot be done inside the clock or at all, because the cause is outside the operator's control or the means are not there. This is not misconduct and supplies no violation input. The forum considers scope contraction, handover to a capable steward, or step-down before it reaches [§7.4 Denial and Revocation](#74-denial-and-revocation).
 - **Able, not willing:** capable, but declines, delays, or works against the correction.
 - **Neither willing nor able:** the operator will not and cannot.
-- **Not yet shown:** the evidence does not yet decide it. The forum may defer once, for a bounded period set by class, with interim protection in force. The matter then returns to [§7.4 Denial and Revocation](#74-denial-and-revocation).
+- **Not yet shown:** the evidence does not yet decide it. The forum may defer once, for a bounded period set by system class, with interim protection in force. The matter then returns to [§7.4 Denial and Revocation](#74-denial-and-revocation).
 
-A conditional certification may not rest on a plan that the check did not find ready or ready with support.
+A conditional certification may not rest on a plan that the readiness check did not find ready or ready with support.
 
 <a id="735-same-terms-for-every-operator"></a>
 
@@ -687,8 +687,8 @@ A conditional certification may not rest on a plan that the check did not find r
 
 The readiness check measures the correction needed. It does not measure the size, age, or wealth of the operator. So:
 
-- **Small, new, or competing operators:** the check may not be used to refuse one that is willing and can be supported ([Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*)).
-- **Incumbents:** the check applies to them on the same terms.
+- **Small, new, or competing operators:** the readiness check may not be used to refuse one that is willing and can be supported ([Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*)).
+- **Incumbents:** the readiness check applies to them on the same terms.
 
 <a id="74-denial-and-revocation"></a>
 
@@ -708,17 +708,17 @@ The readiness check measures the correction needed. It does not measure the size
 
 **Denial is required** at a first certification, a fresh review, or a pass on a system that holds no status, when:
 
-1. the check finds the operator able and not willing, or neither willing nor able;
-2. the check finds it willing and not able, and no scope contraction, support, or handover closes the gap inside the longest window the class allows; or
+1. the readiness check finds the operator able and not willing, or neither willing nor able;
+2. the readiness check finds it willing and not able, and no scope contraction, support, or handover closes the gap inside the longest window the system class allows; or
 3. the one deferral under [§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct) has run and the finding is still not yet shown.
 
 **Revocation is required** for a system that holds certification, at a recertification or a reopened review, when:
 
-1. the check finds the operator able and not willing, or neither willing nor able, after notice and the chance to answer;
+1. the readiness check finds the operator able and not willing, or neither willing nor able, after notice and the chance to answer;
 2. a condition's deadline has passed unmet twice, or a continuing condition has been materially violated, and the operator cannot show a verified cause outside its control;
 3. evidence offered for readiness, for correction, or for release from a condition is shown to be false, fabricated, or concealed;
 4. a proof step the forum required was not done inside its window while the misalignment is current; or
-5. the check finds the operator willing and not able, and the gap is not closed inside the window the forum set after interim protection took effect.
+5. the readiness check finds the operator willing and not able, and the gap is not closed inside the window the forum set after interim protection took effect.
 
 The forum may not meet any of these by certifying, or by continuing certification, subject to conditions.
 

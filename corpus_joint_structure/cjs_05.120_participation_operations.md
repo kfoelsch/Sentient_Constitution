@@ -1,9 +1,9 @@
-# Participation leg (CJS-5.120 §7–CJS-5.120 §10) / oDef.7–oDef.10
+# CJS-5.120: Participation leg operations (oDef.7–oDef.10)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Participation leg (CJS-5.120 §7–CJS-5.120 §10 / oDef.7–oDef.10)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) through **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -299,7 +299,7 @@ Weighted participation
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-5.120 §8 — Comprehensibility and Cognitive Accessibility**
-- Read with: [**CS-6.315**](../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*)
+- Read with: [**CS-6.315**](../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and complexity stewardship*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §5.2, §13.2, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>

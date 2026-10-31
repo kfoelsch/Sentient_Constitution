@@ -1015,7 +1015,7 @@ flowchart TB
     subgraph STEPS["Resist in good faith, in proportion"]
         direction LR
         REF["1. Refuse<br/><br/>• Decline the conduct"]
-        DOC["2. Document<br/><br/>• Minimum record of the refusal<br/>(CS-15.305 §10)"]
+        DOC["2. Document<br/><br/>• Minimum record of the refusal<br/>(CS-15.305 §10 Inspectable action)"]
         ESC["3. Escalate<br/><br/>• Protected-reporting and<br/>forum pathways where applicable"]
     end
     OPEN["Contest pathways stay open<br/><br/>• Resisting does not close them"]
@@ -1133,7 +1133,7 @@ Staffing minimums, backup depth, and succession mechanics live in [Chapter Fifte
 - Read with:
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action) and
   - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — mechanism lemmas that keep authority-scaled answerability real where material action must remain traceable; operative detail in **
-  - [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md)** and
+  - [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling)** and
   - **Chapter Nine**.
 - Upstream: [§16 Stewardship In Depth](#16-stewardship-in-depth); [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard) (*substrate-agnostic duties bind human and AI stewards alike*).
 - Downstream:
@@ -1360,7 +1360,7 @@ Oversight and accountability only work if the checking is done independently of 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure); [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline).
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **timeliness** leg (scheduled recheck); **oversight** leg (visible, challengeable standards); **accountability** leg (habit and convenience are not an answer); [material stake](core_00.000_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **timeliness** leg (scheduled reassessment); **oversight** leg (visible, challengeable standards); **accountability** leg (habit and convenience are not an answer); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (durable alignment is not freeze-in-place); **Flourishing** aim (voice and challenge remain real as arrangements age).
 - Read with: [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty); [Contestability](core_05.035_band_accountability.md#contestability); [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional).
 - Downstream:
@@ -1427,7 +1427,7 @@ Important governance choices cannot be set once and forgotten. They must be rech
   - [Article XXIII-B: Complexity Audit and Modularity Requirements](core_06.015_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*the Rights Floor*);
   - [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependency maps*);
   - [Article XXI](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*exit and portability*);
-  - [CS-6.315](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*).
+  - [CS-6.315](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and complexity stewardship*).
 
 </details>
 
@@ -1496,7 +1496,7 @@ Further:
 - Critical systems **must** meet the [Article XXIII-B](core_06.015_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) modularity floor.
 - Lower-stake systems are expected to follow the principle as far as is proportionate.
 - This section does not require any particular architectural style.
-- This section does not narrow the floors in [Article XXIII-B](core_06.015_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) or [CS-6.315 — Comprehensibility and complexity stewardship](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md).
+- This section does not narrow the floors in [Article XXIII-B](core_06.015_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) or [CS-6.315 — Comprehensibility and complexity stewardship](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship).
 
 This principle binds human and AI stewards alike under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
 
@@ -1771,7 +1771,7 @@ For stewards and operators under the [Two Constitutional Aims](core_00.000_pream
 **Where the detail lives:**
 
 - [Chapter Fifteen §5 — Authorized Roles, Competency Development, and Contribution](core_15.000_governance.md#5-authorized-roles-competency-development-and-contribution) for authorized roles, competency, and paths into work that actually matters for stewards and operators;
-- [**CS-15.305**](corpus_systems/cs_15.305_critical_system_stewardship.md) (*Critical system stewardship*) for how that duty is carried in high-impact systems; and
+- [**CS-15.305**](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-critical-system-stewardship) (*Critical system stewardship*) for how that duty is carried in high-impact systems; and
 - [§16 Stewardship In Depth](#16-stewardship-in-depth) for the principle-layer picture of hands-on work and community competence.
 
 Those paths:

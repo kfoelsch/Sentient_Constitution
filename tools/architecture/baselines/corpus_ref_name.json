@@ -1,0 +1,5 @@
+{
+  "rule": "CORPUS-REF-NAME-01",
+  "note": "Shrink-only backlog (AUDIT-SCOPE-01). Fix a finding, then delete its entry. Do not add entries by hand.",
+  "entries": []
+}

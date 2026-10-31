@@ -1282,7 +1282,7 @@ See **Anti-Segmentation Principle**.
       - indirect;
       - delayed; or
       - aggregated.
-    - treat a paperwork-only breach (or bounded residual risk after mitigation that is not itself constraint degradation) as if it answered that material question.
+    - treat a paperwork-only violation (or bounded residual risk after mitigation that is not itself constraint degradation) as if it answered that material question.
 
 ---
 

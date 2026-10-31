@@ -7,9 +7,10 @@ prose that introduces what follows — not a bare ``- `` / ``* `` / ``1. `` list
 item. A section whose first content is a child heading is a container and is
 out of scope.
 
-Carve-out: Chapter Five definition files (``core_05.*.md``) are excluded —
-their entries open with O / E / C bullets by design (see
-``ch5_entry_format_audit.py``).
+Scope (AUDIT-SCOPE-01): every scanned corpus file, Chapter Five included. The one
+allowed list opener is the Chapter Five definition-entry opener ``- **What it is**``,
+which ``ch5_entry_format_audit.py`` validates; it is recognized by its content in
+any file, not by file name.
 
 Rule ID: MD-SECTION-LEAD-01 (blocking; part of ``make regression``).
 """
@@ -37,7 +38,7 @@ FENCE_RE = re.compile(r"^(```|~~~)")
 DETAILS_OPEN_RE = re.compile(r"<details\b", re.I)
 DETAILS_CLOSE_RE = re.compile(r"</details>", re.I)
 LIST_ITEM_RE = re.compile(r"^(?:[-*+]|\d+[.)])\s+\S")
-CARVE_OUT_RE = re.compile(r"^core_05\.\d{3}_")
+ENTRY_OPENER_RE = re.compile(r"^[-*]\s+\*\*What it is\*\*\s*$")
 
 
 @dataclass(frozen=True)
@@ -49,9 +50,6 @@ class Finding:
     preview: str
 
 
-def is_carved_out(rel_path: str) -> bool:
-    """Chapter Five definition files are exempt from this rule."""
-    return bool(CARVE_OUT_RE.match(Path(rel_path).name))
 
 
 def is_file_chrome(stripped: str) -> bool:
@@ -101,6 +99,9 @@ def scan_text(rel_path: str, text: str) -> list[Finding]:
             continue
         if is_file_chrome(stripped):
             continue
+        if ENTRY_OPENER_RE.match(stripped) and not raw.startswith((" ", "\t")):
+            heading = None
+            continue
         if LIST_ITEM_RE.match(stripped) and not raw.startswith((" ", "\t")):
             preview = stripped if len(stripped) <= 90 else stripped[:87] + "..."
             findings.append(Finding(rel_path, idx, heading_line, heading, preview))
@@ -110,7 +111,7 @@ def scan_text(rel_path: str, text: str) -> list[Finding]:
 
 def scan_file(root: Path, rel_path: str) -> list[Finding]:
     path = root / rel_path
-    if not path.is_file() or is_carved_out(rel_path):
+    if not path.is_file():
         return []
     return scan_text(rel_path, path.read_text(encoding="utf-8"))
 
@@ -152,12 +153,12 @@ def main() -> int:
     if not findings:
         print(
             f"PASS: {RULE} — sections open with lead-in prose, not a list item "
-            "(Chapter Five definition files exempt)."
+            "(Chapter Five entry opener allowed by content)."
         )
         return 0
     print(
         f"FAIL: {RULE} — {len(findings)} section(s) open with a list item "
-        "(Chapter Five definition files exempt)."
+        "(Chapter Five entry opener allowed by content)."
     )
     if args.summary:
         counts: dict[str, int] = {}

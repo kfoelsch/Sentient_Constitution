@@ -42,7 +42,7 @@ from local_markdown_fragment_audit import github_slug
 from fossil_anchor_audit import live_text_files, resolve_link_file
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-DEFAULT_GLOB = "core_08*.md"
+DEFAULT_GLOB = "core_09*.md"  # Chapter Nine stack (was core_08*.md before the chapter renumbering)
 
 CLASS_RE = re.compile(r"(?<![\w/-])([Cc]lass(?:es)?)(?!\w)")
 HEADING_RE = re.compile(r"^(#{1,6})(\s+)(.*?)\s*$")

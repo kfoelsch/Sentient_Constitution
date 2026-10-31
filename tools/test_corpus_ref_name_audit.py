@@ -131,6 +131,26 @@ class CorpusRefNameTests(unittest.TestCase):
         self.assertEqual(index["CS-9.310"].files, {"corpus_systems/cs_09.310_b.md"})
         self.assertIn("cs-9310-8-late", index["CS-9.310 §8"].anchors)
 
+    def test_index_registers_numbered_subsection_headings(self) -> None:
+        d = self.root / "corpus_systems"
+        (d / "cs_09.305_a.md").write_text(
+            "# CS-9.305: Machinery\n\n## CS-9.305 §3 Factors\n\n#### 3.5 Reclassification requirement\n",
+            encoding="utf-8",
+        )
+        index = build_index(self.root)
+        self.assertEqual(index["CS-9.305 §3.5"].title, "Reclassification requirement")
+        self.assertIn("35-reclassification-requirement", index["CS-9.305 §3.5"].anchors)
+
+    def test_index_registers_bold_run_in_subsections_after_anchor(self) -> None:
+        d = self.root / "corpus_systems"
+        (d / "cs_06.305_a.md").write_text(
+            "# CS-6.305: Types\n\n## CS-6.305 §5 Governance\n\n<a id=\"52-reclass\"></a>\n\n**5.2. Reclassification and lifecycle governance.**\n",
+            encoding="utf-8",
+        )
+        index = build_index(self.root)
+        self.assertEqual(index["CS-6.305 §5.2"].title, "Reclassification and lifecycle governance")
+        self.assertIn("52-reclass", index["CS-6.305 §5.2"].anchors)
+
     def test_accepts_named_subsection_cite_with_section_sign(self) -> None:
         self.assertEqual(
             self.details(

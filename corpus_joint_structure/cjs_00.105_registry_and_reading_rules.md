@@ -1,4 +1,4 @@
-# Joint-structure registry and reading rules
+# CJS-0.105: Registry and reading rules
 
 
 <details>
@@ -16,7 +16,7 @@
 > - **Reader landing:** [corpus_joint_structure.md](../corpus_joint_structure.md) is the human start for this layer. This file is the registry and routing annex, not a second front door.
 > - **How to read CJS:** [joint-structure reader guide](cjs_reader_guide.md) — where to start, how labels work, and which file to open. Do not treat this annex as a second how-to-read home.
 > - **Shared contract:** **CJS-0.110 §3** (*Shared implementation-corpus preamble contract*) in [cjs_00.110_scope_purpose_boundary_interface.md](cjs_00.110_scope_purpose_boundary_interface.md) states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
-> - **Layer homes:** [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights) for constitutional chapters and adopted corpora; this layer's owns / does-not-own list in [cjs_00.110_scope_purpose_boundary_interface.md](cjs_00.110_scope_purpose_boundary_interface.md) (**CJS-0.110, CJS-19.105, CJS-5.140, and CJS-8.105** — *Scope, purpose, and boundary interface*). The CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Nineteen**.
+> - **Layer homes:** [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights) for constitutional chapters and adopted corpora; this layer's owns / does-not-own list in [cjs_00.110_scope_purpose_boundary_interface.md](cjs_00.110_scope_purpose_boundary_interface.md) (**CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-19.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-5.140** (*oDef parse mechanics*), and **CJS-8.105** (*Support roles, hosting independence, and classification alignment*)). The CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Nineteen**.
 >
 > **Implementation layer map**
 >
@@ -27,6 +27,19 @@
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
+- Downstream:
+  - [CJS-0.105 §1: Cross-file routing](#cjs-0105-1-cross-file-routing);
+  - [CJS-0.105 §2: Joint structure registry](#cjs-0105-2-joint-structure-registry);
+  - [CJS-0.105 §3: Stable identifiers, edition alignment, and drafting notes](#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes);
+  - [CJS-0.105 §4: Time-window names](#cjs-0105-4-time-window-names).
+- Read with: **CJS-0.105** (*Registry and reading rules*); **CJS-0.105 §1** (*Cross-file routing*); **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-19.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-5.140** (*oDef parse mechanics*), and **CJS-8.105** (*Support roles, hosting independence, and classification alignment*); [Chapter One §15.4.4](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4).
+
+</details>
+
 <br>
 
 *In plain terms: this file is the joint-structure **registry annex** — cross-file routing, the section-family map, and maintainer notes. Start reading at [corpus_joint_structure.md](../corpus_joint_structure.md); how to enter the layer: [joint-structure reader guide](cjs_reader_guide.md).*
@@ -34,22 +47,6 @@
 Core home: 00
 
 This file is the joint-structure implementation home for **CJS-0.105** (*Registry and reading rules*).
-
-## CJS-0.105: Registry and reading rules
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Downstream:
-  - [CJS-0.105 §1: Cross-file routing](#cjs-0105-registry-and-reading-rules);
-  - [CJS-0.105 §2: Joint structure registry](#cjs-0105-1-cross-file-routing);
-  - [CJS-0.105 §3: Stable identifiers, edition alignment, and drafting notes](#maintainer-only-detail-authoritative-topic-router);
-  - [CJS-0.105 §4: Time-window names](#cjs-0105-2-joint-structure-registry).
-- Read with: **CJS-0.105** (*Registry and reading rules*); **CJS-0.105 §1** (*Cross-file routing*); **CJS-0.110 (*Scope, purpose, and boundary interface*), CJS-19.105, CJS-5.140, and CJS-8.105** (*Scope, purpose, and boundary interface*); [Chapter One §15.4.4](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4).
-
-</details>
-
-<br>
 
 **Quick orientation**
 
@@ -63,11 +60,11 @@ The joint-structure layer (**CJS**) coordinates shared interfaces among four imp
 Scope, boundary, and the shared implementation-corpus contract live in **CJS-0.110 §0** (*Purpose of this layer*), **CJS-0.110 §1** (*Section identifiers and article references*), and **CJS-0.110 §3** (*Shared implementation-corpus preamble contract*) in [cjs_00.110_scope_purpose_boundary_interface.md](cjs_00.110_scope_purpose_boundary_interface.md). How to enter the layer: [joint-structure reader guide](cjs_reader_guide.md).
 
 - **CJS-0.105 §1** — cross-file routing: human path in the [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); maintainer table in this file.
-- **CJS-0.105 §2** — joint-structure section-family registry (**CJS-0.110 (*Scope, purpose, and boundary interface*), CJS-19.105, CJS-5.140, and CJS-8.105** (*Scope, purpose, and boundary interface*) through **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*)).
-- **CJS-0.105 §3** — stable identifiers, edition alignment, **oDef** / **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*) citation hygiene, and maintainer drafting notes.
+- **CJS-0.105 §2** — joint-structure section-family registry (**CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-19.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-5.140** (*oDef parse mechanics*), and **CJS-8.105** (*Support roles, hosting independence, and classification alignment*) through **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*)).
+- **CJS-0.105 §3** — stable identifiers, edition alignment, **oDef** / **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) citation hygiene, and maintainer drafting notes.
 - **CJS-0.105 §4** — time-window names: the list of named windows and where each owner sets it (non-operative; no lengths).
 
-### CJS-0.105 §1: Cross-file routing
+## CJS-0.105 §1: Cross-file routing
 
 
 <a id="cross-file-routing"></a>
@@ -109,7 +106,7 @@ If a matter triggers more than one cross-layer topic, apply **every** triggered 
 
 **When joint obligations apply**
 
-Applicability, combined satisfaction, and the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) rule for jointly applicable incorporated obligations live in [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter One §15.4.3 Incorporation layer](../core_01.005_interaction_interpretation.md#1543-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.105 §1** (*Cross-file routing*)). Domain-specific joint rules: **CJS-8.105 §9** (*Support roles, hosting independence, and classification alignment*)–**CJS-8.105 §11** (*Classification alignment for supervised scope*).
+Applicability, combined satisfaction, and the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) rule for jointly applicable incorporated obligations live in [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter One §15.4.3 Incorporation layer](../core_01.005_interaction_interpretation.md#1543-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.105 §1** (*Cross-file routing*)). Domain-specific joint rules: **CJS-8.105 §9** (*Boundary Between Support Roles and Merits Decisions*)–**CJS-8.105 §11** (*Classification alignment for supervised scope*).
 
 **Topic finder**
 
@@ -119,7 +116,7 @@ Use the [non-binding support index: topic router reader index](../doc_architectu
 - **Institutional governance** — delegated bodies, functional lanes, contest-integrity monitoring, coordination, and class-scaled staffing (primary owners in **CI**).
 - **Cross-implementation integrity** — trust across layers and assurance/resilience operations (primary owners in **CJS**).
 
-#### Maintainer-only detail: authoritative topic router
+### Maintainer-only detail: authoritative topic router
 
 <a id="cjs-01-topic-router-stable-ids"></a>
 
@@ -168,7 +165,7 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-0.110 §
 
 ---
 
-### CJS-0.105 §2: Joint structure registry
+## CJS-0.105 §2: Joint structure registry
 
 
 <details>
@@ -179,7 +176,7 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-0.110 §
   - [CJS-0.105 §1](#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
   - [Chapter Nineteen](../core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Read with: **CJS-0.105** (*Registry and reading rules*); **CJS-0.105 §2** (*Joint structure registry*); **CJS-0.110 (*Scope, purpose, and boundary interface*), CJS-19.105, CJS-5.140, and CJS-8.105** (*Scope, purpose, and boundary interface*); **CJS-19.110** (*Specific joint interlocks and shared abstractions*); **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*).
+- Read with: **CJS-0.105** (*Registry and reading rules*); **CJS-0.105 §2** (*Joint structure registry*); **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-19.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-5.140** (*oDef parse mechanics*), and **CJS-8.105** (*Support roles, hosting independence, and classification alignment*); **CJS-19.110** (*Specific joint interlocks and shared abstractions*); **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -193,9 +190,9 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-0.110 §
 
 <br>
 
-*In plain terms: the detailed subfile index lives on the [Joint structure landing page](../corpus_joint_structure.md). This section names the stable families **CJS-0.105** (*Registry and reading rules*) through **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*).*
+*In plain terms: the detailed subfile index lives on the [Joint structure landing page](../corpus_joint_structure.md). This section names the stable families **CJS-0.105** (*Registry and reading rules*) through **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).*
 
-Default sequential reading is wrapper → reader guide → **CJS-0.110 (*Scope, purpose, and boundary interface*), CJS-19.105, CJS-5.140, and CJS-8.105** (*Scope, purpose, and boundary interface*) → **CJS-19.110** (*Specific joint interlocks*) → **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library*). These are the stable section families for the CJS folder:
+Default sequential reading is wrapper → reader guide → **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-19.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-5.140** (*oDef parse mechanics*), and **CJS-8.105** (*Support roles, hosting independence, and classification alignment*) → **CJS-19.110** (*Specific joint interlocks*) → **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)**. These are the stable section families for the CJS folder:
 
 | Family | What it covers | Typical reader | Start here |
 |---|---|---|---|
@@ -203,11 +200,11 @@ Default sequential reading is wrapper → reader guide → **CJS-0.110 (*Scope, 
 | **CJS-0.105** | Registry, identifier rules, reading notes, and the **CJS-0.105 §1** integrator table | Editors, auditors, readers who are lost | this file (`cjs_00.105_registry_and_reading_rules.md`) |
 | **CJS-0.110, CJS-19.105, CJS-5.140, and CJS-8.105** | Scope, shared contract, and identifiers | Editors, auditors; general readers when cited | [cjs_00.110_scope_purpose_boundary_interface.md](cjs_00.110_scope_purpose_boundary_interface.md) |
 | **CJS-19.105 §7**–**CJS-19.105 §8.1** | Drafting contracts and owner-to-CJS seam | Editors and auditors | [cjs_19.105_drafting_contracts.md](cjs_19.105_drafting_contracts.md) |
-| **CJS-5.140 §13**–**CJS-5.140 §14** | **oDef** parse mechanics | Anyone using **CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** | [cjs_05.140_odef_parse_mechanics.md](cjs_05.140_odef_parse_mechanics.md) |
+| **CJS-5.140 §13**–**CJS-5.140 §14** | **oDef** parse mechanics | Anyone using **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** | [cjs_05.140_odef_parse_mechanics.md](cjs_05.140_odef_parse_mechanics.md) |
 | **CJS-19.110** | Specific joint interlocks and shared abstractions | Topic-driven readers when routed; implementers | [cjs_19.110_specific_joint_interlocks.md](cjs_19.110_specific_joint_interlocks.md) |
-| **CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** / **oDef** | Cross-implementation **oDef** library (**oDef.*n*** = **CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135.*n***); audit process home at **CJS-5.110 §3 and CJS-5.115 §3** / **oDef.3** | Readers needing shared operational definitions or the auditing guide | [cjs_05.105_cross_implementation_operational_terms.md](cjs_05.105_cross_implementation_operational_terms.md); audit process: [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md) |
+| **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** / **oDef** | Cross-implementation **oDef** library (**oDef.*n*** = **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*).*n***); audit process home at **CJS-5.110 §3 and CJS-5.115 §3** / **oDef.3** | Readers needing shared operational definitions or the auditing guide | [cjs_05.105_cross_implementation_operational_terms.md](cjs_05.105_cross_implementation_operational_terms.md); audit process: [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md) |
 
-### CJS-0.105 §3: Stable identifiers, edition alignment, and drafting notes
+## CJS-0.105 §3: Stable identifiers, edition alignment, and drafting notes
 
 
 <details>
@@ -223,7 +220,7 @@ Default sequential reading is wrapper → reader guide → **CJS-0.110 (*Scope, 
   - [CJS-0.105 §1](#cjs-01-topic-router-stable-ids) (*Cross-file routing*);
   - **CJS-19.110 §1** (*Hybrid delegated authority (delegated binding bodies)*);
   - [CJS-19.105 §8.1](cjs_19.105_drafting_contracts.md#cjs-19105-81-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*);
-  - **CJS-19.110** (*Specific joint interlocks and shared abstractions*); **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*).
+  - **CJS-19.110** (*Specific joint interlocks and shared abstractions*); **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -245,7 +242,7 @@ Default sequential reading is wrapper → reader guide → **CJS-0.110 (*Scope, 
 
 **Implementation-label citation hygiene**
 
-When **CS**, **CI**, or **CF** cite **oDef** / **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library*) clusters, adopters must keep those references traceable and must not use implementation text to weaken them. The [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) rule between adopted implementation standards on the same risk remains in [Chapter One §15.4.3 Incorporation layer](../core_01.005_interaction_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
+When **CS**, **CI**, or **CF** cite **oDef** / **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** clusters, adopters must keep those references traceable and must not use implementation text to weaken them. The [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) rule between adopted implementation standards on the same risk remains in [Chapter One §15.4.3 Incorporation layer](../core_01.005_interaction_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>
@@ -254,7 +251,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-5.105 (*operational cluster
 >
 > 1. Extend **CJS-0.105 §1** (*Cross-implementation read-with contract*) with new rows only when the [Preamble — constitutional owner register](../core_00.000_preamble.md#4-principles-definitions-and-rights) or cross-file overlap changes; keep row IDs **stable** — append new IDs, do not renumber. When a row changes, update the **primary owner** and each **mandatory read-with** section so routing stays **bidirectional** (row ↔ owner ↔ read-with).
 > 2. When **CI**/**CF**/**CS** repeat the same joint interface paragraph, prefer a **one-line** pointer to the relevant CJS joint section, including **CJS-19.110 §1** (*Hybrid delegated authority (delegated binding bodies)*) for hybrid composition shared by **CI-9.210 §3.2** (*Authority composition*) and **CF-14.405 §6** (*Chamber authority composition and service mechanics*), and keep operative checklists in the **primary owner**.
-> 3. When implementation files repeat the same joint interface paragraph, apply **CJS-19.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*) the same way: use a **one-line** pointer to **CJS-0.110, CJS-19.105, CJS-5.140, and CJS-8.105** (*Scope, purpose, and boundary interface*), **CJS-19.110** (*Specific joint interlocks and shared abstractions*), **CJS-0.105 §1** (*Cross-implementation read-with contract*), or the applicable **oDef** / **CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** cluster rather than duplicating **oDef** text at length.
+> 3. When implementation files repeat the same joint interface paragraph, apply **CJS-19.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*) the same way: use a **one-line** pointer to **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-19.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-5.140** (*oDef parse mechanics*), and **CJS-8.105** (*Support roles, hosting independence, and classification alignment*), **CJS-19.110** (*Specific joint interlocks and shared abstractions*), **CJS-0.105 §1** (*Cross-implementation read-with contract*), or the applicable **oDef** / **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** cluster rather than duplicating **oDef** text at length.
 > 4. Run `make reference-audit` after substantive cross-file moves.
 > 5. Where a new high-level joint abstraction is added, verify it remains **Layer 1 only** with no owner-mechanics migration, and record the duplicate-taxonomy risk in the active review notes until the deferred regression path is reinstated.
 > 6. This corpus is **pre-release**. Keep one current fragment id per heading. When a section is dropped or renumbered, retarget every live citation and delete the old `<a id>` — do not leave redirect or fossil anchors. Gate: `make fossil-anchor-audit`.
@@ -263,7 +260,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-5.105 (*operational cluster
 
 <br>
 
-### CJS-0.105 §4: Time-window names
+## CJS-0.105 §4: Time-window names
 
 
 <details>

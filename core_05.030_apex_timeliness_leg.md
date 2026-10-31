@@ -131,7 +131,6 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 These measures ask whether process clocks, resolution pathways, and repair velocity keep the **timeliness** leg of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) real in practice — not merely present on paper.
 
-
 ---
 
 **Previous file:** [core_05.025_apex_participation_leg.md](core_05.025_apex_participation_leg.md)

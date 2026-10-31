@@ -1,9 +1,9 @@
-# Accountability leg (CJS-5.125 §11–CJS-5.125 §15) / oDef.11–oDef.15
+# CJS-5.125: Accountability leg operations (oDef.11–oDef.15)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Accountability leg (CJS-5.125 §11–CJS-5.125 §15 / oDef.11–oDef.15)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) through **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -53,10 +53,10 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
   - **CJS-5.125 §13** (*Accountability: procedural integrity and adjudication terms*).
 - Read with: **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) and **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
-- Read with: [**CS-15.305**](../corpus_systems/cs_15.305_critical_system_stewardship.md) (*Critical system stewardship*)
+- Read with: [**CS-15.305**](../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-critical-system-stewardship) (*Critical system stewardship*)
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity level** **T1**–**T4** per finding ([Chapter Three, section 3](../core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) (3.000)).
 - Chapter One basis: §15.1, §6, §13.2, §19.2, §17 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -141,7 +141,7 @@ The sub-rules below apply that cluster minimum to specific anti-concentration, d
 
 Adopters must define [Market Concentration Threshold](../core_05.035_band_accountability.md#market-concentration-threshold) indicators and activate mitigation when thresholds are crossed or credibly approached. Threshold-setting must follow this discipline:
 
-- **Requirement preservation:** No adopter-set threshold may sit above a level at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that level is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
+- **Requirement preservation:** No adopter-set threshold may sit above the point at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that point is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
 - **Substance over form:** Thresholds judge substantive concentration, not headcount of legal entities. In scope where they produce concentrated material effect without formal concentration: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, and comparable indirection. Aggregation through federated structures to evade the threshold is non-compliant.
 - **Anti-nullification:** Adopter-tunable does **not** mean adopter-optional. Non-compliant nullifications of the floor under [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) include:
   - thresholds set so high they foreseeably never bind;
@@ -194,7 +194,7 @@ Market-concentration threshold activation
 
 *In plain terms: this is the operational checklist for domination-shaped conduct and the remedy toolbox that restores contestability — not a ban on being large or innovative.*
 
-When market-structuring arrangements breach the [Chapter One §11 Market Structure](../core_01.000_values_principles.md#11-market-structure) requirements or produce durable domination under **§11.2** (*Pro-Competition and Anti-Domination*), evaluators must reach substantive conduct — not formal entity count or nominal market openness. Illustrative prohibited domination patterns include:
+When market-structuring arrangements violate the [Chapter One §11 Market Structure](../core_01.000_values_principles.md#11-market-structure) requirements or produce durable domination under **§11.2** (*Pro-Competition and Anti-Domination*), evaluators must reach substantive conduct — not formal entity count or nominal market openness. Illustrative prohibited domination patterns include:
 
 - exclusionary dealing, predatory foreclosure, discriminatory access, or retaliatory dependency cutoff;
 - tying, bundling, ranking, reputation, identity, credentialing, or payment practices that defeat meaningful choice or market entry without **Necessity** and **Proportionality**;
@@ -234,7 +234,7 @@ Remedies must be proportionate to the concentration, dependency, conduct, and co
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter One §11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](../core_01.000_values_principles.md#1132-consolidation-ceiling-mechanism-adopter-tunable) (1.000 §11.3.2); [Chapter One §11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_01.000_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment) (1.000 §11.3.1); [Market Structure](../core_05.035_band_accountability.md#market-structure).
-- Downstream: [Chapter Thirteen §5](../core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (13.005 §5) where concentration-based subversion is at issue; [CJS-5.125 §11.2](cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Anti-domination conduct and remediation catalog*) (remedy catalog on ceiling breach).
+- Downstream: [Chapter Thirteen §5](../core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (13.005 §5) where concentration-based subversion is at issue; [CJS-5.125 §11.2](cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Anti-domination conduct and remediation catalog*) (remedy catalog on ceiling violation).
 - Read with: [CJS-5.125 §11.1](cjs_05.125_accountability_operations.md#cjs-5125-11-accountability-distributed-and-proportional-authority-terms) (*Market concentration threshold-setting discipline (adopter-tunable)*); [Chapter One §13.2.4 Proxy-Divergence Invalidation](../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4); [Article III-C](../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*).
 </details>
 
@@ -258,7 +258,7 @@ Read the cross-domain and federated-structure risk patterns in [Chapter One §11
 
 Crossing an adopted consolidation ceiling creates a rebuttable presumption of non-compliance and triggers heightened review. The presumption may be rebutted only with clear, reviewable evidence that the consolidation is necessary, proportionate, and consistent with Chapter Four evidence duties; that any scale benefit traces to constitutional outcomes; and that the consolidation does not materially degrade contestability, Rights-Floor protections, labor mobility, fair bargaining, ecological integrity, interoperability, exit, or constitutional accountability. Where feasible, rebuttal must include time bounds, periodic revalidation, and analysis of less-consolidating alternatives.
 
-Remedies for crossing a consolidation ceiling must be proportionate under **CJS-5.125 §11.2** (*Anti-domination conduct and remediation catalog*), including where applicable merger limits, acquisition standstill, and structural separation tailored to consolidation-ceiling breach.
+Remedies for crossing a consolidation ceiling must be proportionate under **CJS-5.125 §11.2** (*Anti-domination conduct and remediation catalog*), including where applicable merger limits, acquisition standstill, and structural separation tailored to consolidation-ceiling violation.
 
 Adopter-tunable ceilings may vary by domain and jurisdiction, but they may not be set so high, measured so narrowly, or enforced so weakly that they nullify the [Chapter One §11 Market Structure](../core_01.000_values_principles.md#11-market-structure) requirements, the **§14.1** (*Market Concentration Threshold Mechanism (Adopter-Tunable)*) threshold mechanism, or **§11.2** (*Pro-Competition and Anti-Domination*) anti-domination discipline. A ceiling regime that foreseeably never binds, ignores substantive control, or treats consolidation as harmless solely because prices stay low is non-compliant under **Proxy-Divergence Invalidation**.
 
@@ -450,7 +450,7 @@ Stewardship-role depth and non-symbolic governance boundary
 - Read with: **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) and **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **CJS-5.130 §17 — Interoperability, Portability, and Exit Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5)**
 - Read with: [CF-14.450](../corpus_forum/cf_14.450_forum_continuity.md#cf-14450-forum-continuity) (*Forum continuity*) through [CF-14.460](../corpus_forum/cf_14.460_emergency_adjudication.md#cf-14460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
@@ -705,10 +705,10 @@ Temporal discipline and revalidation
 - Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
 - Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.125 §14 — Intervention governance and override authorization**
-- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**
+- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — System impact classifications**
 - Read with: [CI-14.205](../corpus_institutions/ci_14.205_procedure_integrity_contestability_secondary_review.md#ci-14205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*)
 - Read with: [CF-14.410](../corpus_forum/cf_14.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-14410-panel-formation-disclosure-recusal-and-lawful-bench-constitution) (*Panel formation, disclosure, recusal, and lawful bench constitution*), [CF-14.415](../corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-certification-and-representative-treatment) (*Routing operations, transfer, certification, and representative treatment*), and [CF-14.420](../corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md#cf-14420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*)
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
@@ -994,7 +994,7 @@ Uncertainty safeguards and anti-abuse minimum
 - Read with: **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) and **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.135 §22 — Integrative: constrained-secrecy and protected-investigation terms**
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Cross-leg note: pairs with **CJS-5.135 §23** (*Integrative: intervention and override integrity terms*) for governance authorization versus technical intervention integrity.
@@ -1164,7 +1164,7 @@ Records, transparency, and challenge pathway duties
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**
+- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and **CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — System impact classifications**
 - Read with: **CJS-5.125 §12** (*burden-of-justification and constraint terms*) where lowering a protective classification finding is at issue.
 - Read with: Owner-layer-specific monitoring or publication duties.
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
