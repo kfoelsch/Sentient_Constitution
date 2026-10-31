@@ -965,7 +965,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - Downstream:
   - [Chapter Nine §6](core_09.005_system_alignment_certification_record_process.md#6-forum-process) (9.005 §6) (*supervisory sequence, component referral, and reliance limits during contest*);
   - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*transfer, certification, and interim relief*);
-  - [**CF-14.420**](corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md) (*Appeal, secondary review, and exhaustion pathways*) and
+  - [**CF-14.420**](corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md#cf-14420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) and
   - **CF-14.465** (*Standard records, forms, and evidence artifacts*).
 - Read with:
   - [Merits Determination](core_05.035_band_accountability.md#merits-determination),
@@ -1114,7 +1114,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 <br>
 
-*In plain terms: a Formation Check verifies that covered office-holders meet the published standing requirements and hold office in their own right for the Chartered Party's stated purpose. It is a check, not a licence to form or operate a body.*
+*In plain terms: a Formation Check verifies that covered office-holders meet the published standing requirements and hold office in their own right for the Chartered Party's stated purpose. It is a verification, not a licence to form or operate a body.*
 
 - **What it is**
   - **In scope:** The published, verifiable check under Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity of covered office-holders' standing and authenticity, plus the structural safeguards for other staff stated there. It creates no lock, hold, bar, or standing record.
@@ -1126,7 +1126,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     **Primary assessment:** Apply Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity using verified records. Check the standing limb against locks, any applicable Interim Hold, competency requirements, and disclosed conflicts; check authenticity from control, interests and rewards, conduct, and protected voice. Chapter Ten tests the published statement against observed operation.
 <a id="formation-check-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to accept an unsupported attestation, use protected belief or association as a finding, treat the check as a gate on forming or operating an institution, or label the check complete when the published evidence does not support it.
+  - **Primary failure:** It is non-compliant to accept an unsupported attestation, use protected belief or association as a finding, treat the Formation Check as a gate on forming or operating an institution, or label the Formation Check complete when the published evidence does not support it.
 
 ---
 
@@ -1323,7 +1323,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     **Primary assessment:** The lead forum weighs conduct since notice and fit to the cause; the assigned technical and institutional components supply capacity, governance, and incentive evidence within their roles. Verify authority, skill, resources, dependencies, schedule, and proof independently; state the finding on the System Certification Record.
 <a id="remediation-readiness-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to let a subject determine its own readiness, condition certification on a plan not found ready, defer the check beyond the bounded process, or use readiness to replace the denial or revocation outcomes required by Chapter Nine.
+  - **Primary failure:** It is non-compliant to let a subject determine its own readiness, condition certification on a plan not found ready, defer the readiness check beyond the bounded process, or use readiness to replace the denial or revocation outcomes required by Chapter Nine.
 
 ---
 
@@ -1336,7 +1336,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter One §6.1](core_01.000_values_principles.md#61-correction-and-remedy) (1.000 §6.1) (*Correction and Remedy*); applied to standing effects in [Chapter Twelve §9](core_12.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (12.000 §9) (*Enforcement realism and remedy systems*).
-- Implementation owner: [CI-12.205](corpus_institutions/ci_12.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+- Implementation owner: [CI-12.205](corpus_institutions/ci_12.205_remedy_systems_institutional_redress_capacity.md#ci-12205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Cluster component: [Accountability, contestability, and redress pathways](core_05.035_band_accountability.md#accountability-contestability-and-redress-pathways)
 - Read with:
   - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation),
@@ -1916,7 +1916,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 
 <br>
 
-*In plain terms: a seat, body, or system is independent of an act when the party seeking the result cannot control it on that act and it has no stake of its own in how the act comes out. A different title, signature, or company does not make a check independent.*
+*In plain terms: a seat, body, or system is independent of an act when the party seeking the result cannot control it on that act and it has no stake of its own in how the act comes out. A different title, signature, or company does not make a seat, body, or system independent.*
 
 - **What it is**
   - **In scope:** For a particular act or matter, a sentient, office, body, or system is **independent** of the party whose act is at issue when both hold:
@@ -1933,7 +1933,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <a id="independence-a"></a>
 <a id="independent-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether a check is independent of the act it checks.
+  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether a holder is independent of the act it checks.
 
     **Primary assessment:** For the particular act, evaluate whether:
     1. the holder sits outside the Material Control Line of the party whose act is at issue and of each interested party;
@@ -2028,7 +2028,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - **Out of scope:** Advice, intake screening, technical testing, a checklist, a countersignature, or an automated result that cannot independently apply the governing standard and decline, condition, or route the act.
 <a id="verify-or-authorize-seat-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) and [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — used together to test the quality, authority, and independence of the check.
+  - **Primary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) and [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — used together to test the quality, authority, and independence of the verification.
 
     **Primary assessment:** Identify the governing standard, evidence available, decision actually made, and holder's authority to decline or condition the act. Test whether the holder is outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the Initiating Seat and any materially interested party.
   - **Secondary measure:** [Verifiability](core_05.050_band_oversight.md#verifiability), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), [Necessity](core_05.035_band_accountability.md#necessity), and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — co-measures for evidentiary sufficiency, decision quality, and reconstructability.

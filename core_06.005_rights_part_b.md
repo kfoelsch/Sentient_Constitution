@@ -345,7 +345,7 @@ This Article sets out the accessibility floor and the rules that keep it substan
   - **Article IV-A** (*Equal Educational Access*) — owns education-specific accessibility;
   - **Article III-B** (*Bodily-Maintenance and Healthcare Access*) — healthcare non-denial-by-proxy;
   - **Article VI-C** (*Nondiscrimination*) — full inclusion in adjudication and operations.
-- **Institutional implementation:** Operational standards, accommodation-catalog design, and comparable implementation mechanics are governed by [**CI-6.205**](corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md) (*Transparency, participation, and accessible challenge and service pathways*) and [**CI-6.220**](corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md) (*Neurodiversity, disability justice, and trauma-informed participation*).
+- **Institutional implementation:** Operational standards, accommodation-catalog design, and comparable implementation mechanics are governed by [**CI-6.205**](corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md#ci-6205-transparency-participation-and-accessible-challenge-and-service-pathways) (*Transparency, participation, and accessible challenge and service pathways*) and [**CI-6.220**](corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md#ci-6220-neurodiversity-disability-justice-and-trauma-informed-participation) (*Neurodiversity, disability justice, and trauma-informed participation*).
 
 ### Article VII: Self-Ownership
 
@@ -466,7 +466,7 @@ This Article protects each sentient's inner life — their thoughts, feelings, a
   - producing a reliable estimate of them;
   - calling the method something else, or measuring stand-ins, to get the same result.
 - **Results that reveal inner states are protected too:** When analysis of what a sentient experiences or does produces results that effectively estimate their thoughts or feelings, those results:
-  - count as **Type N** data under **CS-6.305 (*Information types and handling*) and CS-6.310** — Information types and handling, feelings, and other inner states, which is off-limits by default;
+  - count as **Type N** data under **CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*) — information types and handling, feelings, and other inner states, which is off-limits by default;
   - must follow every classification, access, consent, and handling rule that applies to Type N data.
 
 #### Article VII-C: Health Crisis and Involuntary-Intervention Floor
@@ -517,7 +517,7 @@ This Article sets out the floor for anything done without a sentient's consent d
   - get them timely care when a medical cause is found or cannot be ruled out; and
   - keep watching for signs of a medical crisis for as long as they hold the sentient.
   
-  These checks follow this Article's rules for sentients who cannot decide or are refusing. Suspicion of wrongdoing or being held in custody never suspends the right to care under **Article III-B** (*Bodily-Maintenance and Healthcare Access*), and a medical crisis missed through failure to meet these duties gives rise to **Redress and Remediation**.
+  These duties follow this Article's rules for sentients who cannot decide or are refusing. Suspicion of wrongdoing or being held in custody never suspends the right to care under **Article III-B** (*Bodily-Maintenance and Healthcare Access*), and a medical crisis missed through failure to meet these duties gives rise to **Redress and Remediation**.
 - **No crisis-framing substitute:** Calling something a "crisis" does not relax the ordinary limits on restricting rights in **Chapter One §7.1** (*Limitation Discipline*).
   - An ongoing restriction presented as a continuing crisis is not allowed unless the facts behind the crisis claim can be independently reviewed, it has an end date, and it is regularly re-reviewed.
 - **No backdoor into the mind:** A crisis does not permit anyone to reconstruct or reliably estimate a sentient's protected inner states from their behavior, interactions, or circumstances, contrary to **Article VII-B** (*Self-Ownership of Mind*).
@@ -648,7 +648,7 @@ This Article sets out the decriminalization floor for adult consensual sexual se
   - dispute resolution.
   
   Those frameworks must scale by **Materiality**, dependency, isolation, and vulnerability. They must not become stigma-driven regimes or single out this activity relative to functionally comparable lawful services.
-  - [**CI-6.240**](corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md) (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) (*Vulnerable personal services markets — **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) and [**CS-9.305**](corpus_systems/cs_09.305_system_classification_machinery.md) (*System classification machinery*) (market-mediated personal services) supply operational expectations.
+  - [**CI-6.240**](corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md#ci-6240-vulnerable-personal-services-markets--general-regulation-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-interface) (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) (*Vulnerable personal services markets — **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) and [**CS-9.305**](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) (market-mediated personal services) supply operational expectations.
 - **Anti-circumvention:** Civil, administrative, licensing, zoning, or commercial measures are subject to the same constitutional scrutiny as direct criminalization where their primary practical effect is to replicate a criminal prohibition forbidden by the decriminalization floor.
   - This applies when the measures lack predicates tied to exploitation, lack of valid consent, or independent harm justified under **Chapter One** and **Chapter Five**.
   - Neutral-form regulation does not avoid that scrutiny.
@@ -839,7 +839,7 @@ This Article sets out how derived sentients are recognized and the limits on the
 
 - Upstream: Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article VIII-A** (*Family and Care Relationships*) family and care relationships, **Article VIII-E** (*Non-Separation*) non-separation, [**Chapter Fifteen §4.1**](core_15.000_governance.md#41-entitlement-and-eligibility) (15.000 §4.1) no-age-proxy-for-disqualification.
-- Read with: [*Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) (joint-invocation home for developing status, best-interest, and graduated capability); [*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) where derivation or early-instantiation care is materially implicated; Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*; adjacent homes: **Article VI-B** (*Sentience-Status Adjudication Floor*) for sentience status at the threshold, **Article VIII-A** (*Family and Care Relationships*) for family and care relationships, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for derivation, instantiation, and parent-system limits, **Article VIII-E** (*Non-Separation*) for separation from carers or family, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) for self-ownership, and **Article VII-B** (*Self-Ownership of Mind*) with **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** for internal-state protection.
+- Read with: [*Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) (joint-invocation home for developing status, best-interest, and graduated capability); [*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) where derivation or early-instantiation care is materially implicated; Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*; adjacent homes: **Article VI-B** (*Sentience-Status Adjudication Floor*) for sentience status at the threshold, **Article VIII-A** (*Family and Care Relationships*) for family and care relationships, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for derivation, instantiation, and parent-system limits, **Article VIII-E** (*Non-Separation*) for separation from carers or family, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) for self-ownership, and **Article VII-B** (*Self-Ownership of Mind*) with **CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) — Data classifications** for internal-state protection.
 
 </details>
 
@@ -1349,7 +1349,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
   - A governance-voting lock under **Article X-B** (*Governance Participation and Voting Entitlement*) does not by itself limit a stakeholder's say. Suspending or limiting stakeholder participation takes a **stakeholder-participation** lock — such as the **Stakeholder-Participation Standing Lock** in [Chapter Twelve §5.5 Special locks](core_12.000_standing_integration.md#55-special-locks) when its conditions are met.
 - **Independent audit and challenge:** Stakeholder agency, status, and participation rights must not be defined or restricted solely by the systems to which they apply. They remain subject to independent audit and challenge under adopted implementation text.
 - **Contesting exclusion:** Mechanisms for contesting exclusion or under-weighting follow the **interpretive hubs** at the opening of this chapter — challenge and redress; audit and verification — and adopted implementation text.
-  - Cross-domain implementation routing is incorporated via **Sentient Constitution Chapter Nineteen**, including **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*) and applicable **CJS-5.105 (*operational cluster library (oDef)*), CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135** (*operational cluster library (oDef)*) operational clusters.
+  - Cross-domain implementation routing is incorporated via **Sentient Constitution Chapter Nineteen**, including **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*) and applicable **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) operational clusters.
 
 #### Article X-D: Inclusion and Exclusion Challenge Rights
 <details>
@@ -1371,7 +1371,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 
 <br>
 
-*In plain terms: when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.*
+*In plain terms: when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — System impact classifications**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.*
 
 This Article sets out the rights to challenge inclusion in and exclusion from participation:
 
@@ -1388,7 +1388,7 @@ This Article sets out the rights to challenge inclusion in and exclusion from pa
   - **Article XIX** (*Standing and Participation Status*) where adjudication applies;
   - **Chapter One** rights-collision treatment;
   - any Constitutional Constraint: Safety, Truth, and the Rights Floor, including [Article VI-C](core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*), bind inclusion and exclusion decisions inside a Class P Operating Party in full; or
-  - obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**.
+  - obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — System impact classifications**.
 
 ### Article XI: Conscience, Expression, Association, and Cooperative Interaction
 
@@ -1652,22 +1652,22 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
   No institution may offer recognition, reward, favorable standing, or favorable assignment in exchange for abandoning, renouncing, or refraining from lawful dissent.
 - <a id="xi-d-what-keeps-protest-peaceful"></a>**What keeps protest peaceful:** Protest is peaceful when it does not use or threaten violence against sentients and does not coerce others into joining, contrary to **Article XI-F** (*Non-Imposition and Consent in Association*).
   - Disruption, inconvenience, offense, unpopularity, intensity, or harsh criticism does not make dissent or protest non-peaceful.
-  - Where a protest also involves separable conduct that independently breaches a constitutional floor — such as violence, credible threats, destruction or seizure of others' property, or blocking survival-critical access under **Article III-A** (*Survival*) — that conduct may be assessed on its own terms, exactly as the same conduct would be outside a protest. The protest's viewpoint, cause, or target must not aggravate that assessment.
+  - Where a protest also involves separable conduct that independently violates a constitutional floor — such as violence, credible threats, destruction or seizure of others' property, or blocking survival-critical access under **Article III-A** (*Survival*) — that conduct may be assessed on its own terms, exactly as the same conduct would be outside a protest. The protest's viewpoint, cause, or target must not aggravate that assessment.
   - Responsibility is individual. Participating in, organizing, funding, or speaking for a protest does not make a sentient answerable for separable conduct by others that it did not direct or knowingly facilitate.
   - Time, place, and manner limits on protest must satisfy the limitations discipline in [**Article XI-B** (*Expression*)](#article-xi-b-expression), remain content- and viewpoint-neutral, and leave ample alternative means that reach the intended audience or target.
   - Emergency measures under **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*) may limit protest only as far as **Necessity** and **Proportionality** require for the specific emergency, and never by viewpoint.
-- <a id="xi-d-nonviolent-civil-disobedience"></a>**Nonviolent civil disobedience:** Deliberately breaking a rule as an act of protest or conscience is protected civil disobedience when the breach:
+- <a id="xi-d-nonviolent-civil-disobedience"></a>**Nonviolent civil disobedience:** Deliberately breaking a rule as an act of protest or conscience is protected civil disobedience when the act:
   - is done openly, not through concealment or deception;
   - does not use or threaten violence against sentients;
-  - does not breach another sentient's Rights-Floor minimums, block survival-critical access under **Article III-A** (*Survival*), or create material safety risk; and
+  - does not violate another sentient's Rights-Floor minimums, block survival-critical access under **Article III-A** (*Survival*), or create material safety risk; and
   - does not destroy or seize others' property.
 
   Protected civil disobedience:
-  - may be answered only by the ordinary, least-restrictive response the breached rule itself provides — such as removal from a space, restoration of what was disturbed, or a proportionate civil penalty — with no enhancement for the protest's viewpoint, cause, target, organization, or repetition;
+  - may be answered only by the ordinary, least-restrictive response the violated rule itself provides — such as removal from a space, restoration of what was disturbed, or a proportionate civil penalty — with no enhancement for the protest's viewpoint, cause, target, organization, or repetition;
   - carries the same protection from standing and governance consequences as other dissent and protest under this Article; and
-  - weighs toward diversion, leniency, or no response where the breach is minor, or where the grievance behind it is later vindicated.
+  - weighs toward diversion, leniency, or no response where the violation is minor, or where the grievance behind it is later vindicated.
 
-  Declining to obey a restriction that is itself unconstitutional is not a breach at all, and no consequence may attach to it. Conduct outside these conditions falls under the separable-conduct rule above.
+  Declining to obey a restriction that is itself unconstitutional is not a violation at all, and no consequence may attach to it. Conduct outside these conditions falls under the separable-conduct rule above.
 - <a id="xi-d-dissent-burden-and-pretext"></a>**Burden and pretext:** Where an adverse standing, governance, certification, access, or role action follows protected dissent or protest and could reasonably be linked to it, the actor taking the action bears the burden of showing that it rests on independent grounds verified under **Chapters Two through Four**.
   - Labels such as "disruption," "instability," "extremism," "disloyalty," "non-cooperation," or "misalignment" do not convert protected dissent or peaceful protest into a violation.
 - **Shared disciplines:** The limitations, anti-chilling, and scope rules in [**Article XI-B** (*Expression*)](#article-xi-b-expression) apply to assembly, dissent, and protest in full.
@@ -2048,7 +2048,7 @@ This Article sets out the floors for internal roles and due process:
   
   Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under **Chapters Two through Four**.
 - **Institutional routing:** The operating detail for this Article is set out in the institutions corpus:
-  - [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) — role taxonomy and accountability-chain implementation;
+  - [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) — role taxonomy and accountability-chain implementation;
   - **CI-14.205** (*Procedure integrity, contestability, and secondary review*) — due-process operational procedures;
   - **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*) — supporting detail on access to challenge pathways.
 #### Article XII-D: Non-Capture Safeguards
@@ -2140,7 +2140,7 @@ This Article sets out the non-capture safeguards for every body that decides for
     - decision quality;
     - Rights-Floor integrity.
 - **Removal for cause:** Members and panelists are removable by their **appointing authorities** through transparent due-process procedures for:
-  - material breach;
+  - material violation;
   - concealment;
   - corruption;
   - capture participation;
@@ -2153,7 +2153,7 @@ This Article sets out the non-capture safeguards for every body that decides for
   - retaliate for good-faith dissent;
   - narrow challenge rights.
 - **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures are governed by:
-  - [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
+  - [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*);
   - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - for forum panels, **CF-14.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 
@@ -2243,7 +2243,7 @@ This Article sets out the following floors:
   - **Misconduct path:** Purposeful or reckless flooding with inauthentic voices, and bribery or improper benefit exchange, may be alleged as **anti-constitutional misconduct** under **Chapter Thirteen** when substantiated under **Chapters Two through Four** and the **Chapter Thirteen** criteria set.
   - **Integrity-first routing and no self-judging:** The routing and anti-self-judging rules in [**Article XII-D**](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply. No body may be the only final forum deciding whether its own members or staff were improperly approached.
 - **Institutional routing:** Detailed rules are governed by:
-  - [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*), including **CI-15.205 §2** (*Role criteria, appointment standards, and removal pathways*) for post-service rules;
+  - [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), including **CI-15.205 §2** (*Role criteria, appointment standards, and removal pathways*) for post-service rules;
   - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - **CJS-5.110 §6** (*integrity assurance and resilience operations*), *Influence-contact and lobbying boundaries*;
   - for forum panels, **CF-14.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-14.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).

@@ -140,7 +140,6 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 Binding reliability, audit, or review requirements arise when Chapter Six, [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), or incorporated documents expressly require them.
 
-
 ---
 
 **Previous file:** [core_05.015_apex_flourishing_aim.md](core_05.015_apex_flourishing_aim.md)

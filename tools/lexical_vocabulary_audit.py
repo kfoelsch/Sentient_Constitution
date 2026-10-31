@@ -12,8 +12,9 @@ from dataclasses import dataclass
 
 from corpus_paths import binding_corpus_scope
 
-# Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
-_BREACH_FAMILY_SCOPE = frozenset({"core_11.000_standing_assessment.md", "core_12.000_standing_integration.md"})
+# **breach**-family ban: enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01); its dated move log keeps the wording
+# each move used.
+_BREACH_FAMILY_EXEMPT = frozenset({"doc_architecture.md"})
 
 # Ban the word **instrument** / **instruments** (custodian decision, 2026-10-19). Name the thing: System Charter, Institutional Charter,
 # rule set, record, act; otherwise **document** or **text**. Enforced only on files in `_INSTRUMENT_SCOPE`; expand as other files are swept.
@@ -444,8 +445,17 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: bare check was not flagged or qualified forms broke.",
         )
-    if scan_avoid_bare_check("core_08.000_functional_independence_separation_of_duties.md", "The check scales.\n"):
-        raise RuntimeError("Internal regression failed: bare-check scope leaked outside its scoped files.")
+    if not scan_avoid_bare_check("core_08.000_functional_independence_separation_of_duties.md", "The check scales.\n"):
+        raise RuntimeError("Internal regression failed: bare check was not flagged outside Chapter Seven (AUDIT-SCOPE-01).")
+    if scan_avoid_bare_check("doc_architecture.md", "The check scales.\n"):
+        raise RuntimeError("Internal regression failed: bare check was flagged in the exempt move-log file.")
+    if scan_avoid_bare_check(
+        "core_08.000_functional_independence_separation_of_duties.md",
+        "Watchdogs that check whether pathways work.\nDetainers must first check for a cause.\n"
+        "An independent check is not a second signature.\n"
+        "No actor may hold the seats that check its own act.\n",
+    ):
+        raise RuntimeError("Internal regression failed: verb uses or the term of art independent check were flagged.")
     recheck_findings = scan_avoid_bare_recheck(
         "core_07.000_charters.md",
         "A re-check is due.\n"
@@ -458,8 +468,10 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: bare re-check was not flagged or the formation re-check form broke.",
         )
-    if scan_avoid_bare_recheck("core_08.000_functional_independence_separation_of_duties.md", "A re-check is due.\n"):
-        raise RuntimeError("Internal regression failed: bare-re-check scope leaked outside its scoped files.")
+    if not scan_avoid_bare_recheck("core_08.000_functional_independence_separation_of_duties.md", "A re-check is due.\n"):
+        raise RuntimeError("Internal regression failed: bare re-check was not flagged outside Chapter Seven (AUDIT-SCOPE-01).")
+    if scan_avoid_bare_recheck("doc_architecture.md", "A re-check is due.\n"):
+        raise RuntimeError("Internal regression failed: bare re-check was flagged in the exempt move-log file.")
     level_findings = scan_avoid_bare_level(
         "core_05.055_band_participation.md",
         "The level applies to every entity.\n"
@@ -474,8 +486,16 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: bare level was not flagged or qualified forms broke.",
         )
-    if scan_avoid_bare_level("core_08.000_functional_independence_separation_of_duties.md", "The level applies.\n"):
-        raise RuntimeError("Internal regression failed: bare-level scope leaked outside its scoped files.")
+    if not scan_avoid_bare_level("core_08.000_functional_independence_separation_of_duties.md", "The level applies.\n"):
+        raise RuntimeError("Internal regression failed: bare level was not flagged outside the former scoped files (AUDIT-SCOPE-01).")
+    if scan_avoid_bare_level("doc_architecture.md", "The level applies.\n"):
+        raise RuntimeError("Internal regression failed: bare level was flagged in the exempt move-log file.")
+    if scan_avoid_bare_level(
+        "core_08.000_functional_independence_separation_of_duties.md",
+        "Governance must meet at least the level required by the class.\nApply it at the level material stake requires.\n"
+        "A level that an adopter has set is not a scale.\n",
+    ):
+        raise RuntimeError("Internal regression failed: ordinary degree senses of level were flagged.")
     layer_findings = scan_avoid_governance_layer_labels(
         "internal-regression.md",
         "Remain subject to stakeholder governance.\n"
@@ -833,11 +853,14 @@ def scan_avoid_bare_pathway(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
-# Bare **check** (custodian decision, 2026-10-20): a check is always a named check. In Chapter Seven the noun "check" means the
-# **formation check**, and the chapter also has seat checks, standing checks, and authenticity checks, so "the check" alone does not
-# say which one. Say **formation check** (or the named part: standing check, authenticity check, staff safeguards check). Enforced only on files in
-# `_BARE_CHECK_SCOPE`; expand as other files are swept (outside Chapter Seven a bare "check" is often a different check altogether).
-_BARE_CHECK_SCOPE = frozenset({"core_07.000_charters.md"})
+# Bare **check** (custodian decision, 2026-10-20; widened to every scanned file 2026-10-31): a check is always a named check. In
+# Chapter Seven the noun "check" means the **formation check**, and the chapter also has seat checks, standing checks, and authenticity
+# checks, so "the check" alone does not say which one. Say **formation check** (or the named part: standing check, authenticity check,
+# staff safeguards check), or name what is checked. Enforced on every file in the audit's scope (AUDIT-SCOPE-01 in doc_architecture.md);
+# only `doc_architecture.md` is exempt, because its dated move log keeps the wording each move used. Two things are not matched: verb uses
+# ("must first check for a cause", "watchdogs that check whether ...") and the term of art **independent check** (Chapter Five,
+# Independence: a check by a party outside the control line of the act).
+_BARE_CHECK_EXEMPT = frozenset({"doc_architecture.md"})
 _CHECK_WORD = re.compile(r"(?<![A-Za-z0-9-])(checks?)(?![A-Za-z0-9-])", re.IGNORECASE)
 # Determiners and generic adjectives that leave the check unnamed. Singular "check" after any of them is a noun. Plural "checks" counts
 # only after a determiner that cannot take a verb ("this checks", "that checks", "each checks", "a checks" are verb or typo, not nouns).
@@ -851,12 +874,18 @@ _CHECK_BARE_PRECEDERS_PLURAL = frozenset("the these those such all some any othe
 # Fixed terms that already carry the check inside a longer name: the "check window" clock.
 _CHECK_ALLOWLIST = [
     re.compile(r"check windows?", re.IGNORECASE),
+    re.compile(r"independent checks?", re.IGNORECASE),
 ]
+# A word that follows "check" only when "check" is a verb ("check whether", "check for", "check that", "check if", "check how").
+_CHECK_VERB_FOLLOWERS = frozenset("whether for that if how why what which when where".split())
+# "that check" is a verb when a determiner follows ("the seats that check its own act"); "prompt that check and decide" is not.
+_CHECK_VERB_AFTER_THAT = frozenset("the its their his her a an this these those each every any our".split())
+_CHECK_NEXT_WORD = re.compile(r"\s+([A-Za-z]+)")
 
 
 def scan_avoid_bare_check(rel_path: str, text: str) -> list[Finding]:
     """Reject bare noun **check** / **checks**: every use must say which check it is (formation check, standing check, ...)."""
-    if rel_path not in _BARE_CHECK_SCOPE:
+    if rel_path in _BARE_CHECK_EXEMPT:
         return []
 
     findings: list[Finding] = []
@@ -874,6 +903,11 @@ def scan_avoid_bare_check(rel_path: str, text: str) -> list[Finding]:
         for match in _CHECK_WORD.finditer(check_line):
             word = _pathway_preceding_word(check_line, match.start())
             allowed = _CHECK_BARE_PRECEDERS_PLURAL if match.group(1).lower() == "checks" else _CHECK_BARE_PRECEDERS
+            following = _CHECK_NEXT_WORD.match(check_line, match.end())
+            if following and following.group(1).lower() in _CHECK_VERB_FOLLOWERS:
+                continue  # verb use: "check whether", "check for"
+            if word == "that" and following and following.group(1).lower() in _CHECK_VERB_AFTER_THAT:
+                continue  # verb use: "the seats that check its own act"
             if word in allowed:
                 findings.append(
                     Finding(file=rel_path, line=idx, rule="avoid-bare-check", text=raw.strip()),
@@ -884,13 +918,13 @@ def scan_avoid_bare_check(rel_path: str, text: str) -> list[Finding]:
 
 # Bare **re-check** (custodian decision, 2026-10-21): in Chapter Seven a re-check is always the **formation re-check**, the repeat of the
 # formation check on a published statement. The noun forms (re-check, re-checks, recheck, rechecks) must follow "formation"; the verb forms
-# (re-checked, re-checking) are not matched. Scoped like `avoid-bare-check`.
+# (re-checked, re-checking) are not matched. Scoped like `avoid-bare-check` (every scanned file except `doc_architecture.md`). Elsewhere say **recertification**, **certification interval**, or the thing reassessed.
 _RECHECK_WORD = re.compile(r"(?<![A-Za-z0-9-])(re-?checks?)(?![A-Za-z0-9-])", re.IGNORECASE)
 
 
 def scan_avoid_bare_recheck(rel_path: str, text: str) -> list[Finding]:
     """Reject bare noun **re-check** / **recheck**: every use must say it is the formation re-check."""
-    if rel_path not in _BARE_CHECK_SCOPE:
+    if rel_path in _BARE_CHECK_EXEMPT:
         return []
 
     findings: list[Finding] = []
@@ -916,18 +950,15 @@ def scan_avoid_bare_recheck(rel_path: str, text: str) -> list[Finding]:
 # (Tier A/B/C/L/P), so the scales that used to say "tier" say **protection level** (Treatment of Life by Status, Level 1 to Level 4),
 # **stewardship level** (CSS-A to CSS-C), **access level** / **disclosure level** (transparency and audit access), **severity level**,
 # **evidence level**, and **verification level**. "The level" alone does not say which scale it is. Numbered forms (Level 1) and
-# "level of ..." are not matched. Enforced only on the files that own a leveled scale in `_BARE_LEVEL_SCOPE`; expand as other files are
-# swept (elsewhere a bare "level" is often an ordinary threshold, as in "at the level required by ...").
-_BARE_LEVEL_SCOPE = frozenset(
-    {
-        "core_05.055_band_participation.md",
-        "corpus_systems/cs_15.305_critical_system_stewardship.md",
-        "corpus_joint_structure/cjs_05.110_oversight_operations.md",
-        "corpus_joint_structure/cjs_05.115_audit_process.md",
-        "corpus_systems/cs_06.305_information_types_and_handling.md",
-        "corpus_systems/cs_06.310_data_classifications.md",
-    }
-)
+# "level of ..." are not matched. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01); ordinary degree senses
+# ("at the level required by ...", "a level that ...") are not matched, and a limit that is crossed is a threshold, not a level.
+_BARE_LEVEL_EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
+# Ordinary degree senses are not a scale: "at the level material stake requires", "at least the level required", "a level that an
+# adopter has set", "a level at which ...". Say threshold or point for a limit that is crossed.
+_LEVEL_ORDINARY = [
+    re.compile(r"\b(?:at least|at|to|past|above|below|beyond|under|up to)\s+(?:the|a|an)\s+levels?\b", re.IGNORECASE),
+    re.compile(r"\b(?:a|the)\s+levels?\s+(?:that|at which|where|which|beyond which|sufficient|proportionate|appropriate|requiring|sized|material)\b", re.IGNORECASE),
+]
 _LEVEL_WORD = re.compile(r"(?<![A-Za-z0-9-])(levels?)(?![A-Za-z0-9-])", re.IGNORECASE)
 # Determiners and generic words that leave the level unnamed. "Level" after a qualifier ("protection level", "the required level") is not matched.
 _LEVEL_BARE_PRECEDERS = frozenset(
@@ -939,7 +970,7 @@ _LEVEL_BARE_PRECEDERS = frozenset(
 
 def scan_avoid_bare_level(rel_path: str, text: str) -> list[Finding]:
     """Reject bare **level** / **levels**: every use must say which scale it is (protection level, stewardship level, access level, ...)."""
-    if rel_path not in _BARE_LEVEL_SCOPE:
+    if rel_path in _BARE_LEVEL_EXEMPT:
         return []
 
     findings: list[Finding] = []
@@ -952,6 +983,8 @@ def scan_avoid_bare_level(rel_path: str, text: str) -> list[Finding]:
             continue
         check_line = _mask_inline_code_and_link_targets(raw)
         check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        for pat in _LEVEL_ORDINARY:
+            check_line = pat.sub(lambda m: " " * len(m.group(0)), check_line)
         for match in _LEVEL_WORD.finditer(check_line):
             following = check_line[match.end() : match.end() + 4].lower()
             if re.match(r"\s*\d", check_line[match.end() :]) or following.startswith(" of"):
@@ -1736,7 +1769,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).",
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
-        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Eleven typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
+        "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Eleven typing (see `.cursor/rules/clarity.mdc`). *Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).*",
         "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05.050_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
         "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
@@ -1754,9 +1787,9 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Eleven**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Eleven wording.",
         "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
         "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Twelve §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
-        "- **`avoid-bare-check`:** in scoped files (`core_07.000_charters.md`), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing check, authenticity check, staff safeguards check). **Allowed:** verb uses (**the Chartered Party checks and records**), qualified compounds (**formation check**, **standing check**, **authenticity check**, **staff safeguards check**), and **check window**.",
-        "- **`avoid-bare-recheck`:** in scoped files (`core_07.000_charters.md`), reject the noun **re-check** / **re-checks** / **recheck** / **rechecks** unless it follows **formation** → say **formation re-check**. **Allowed:** the verb forms (**re-checked**, **re-checking**) and **formation re-check**.",
-        "- **`avoid-bare-level`:** in scoped files (the owners of a leveled scale: `core_05.055_band_participation.md`, `cs_14.305`, `cjs_05.110`, `cjs_05.115`, `cs_06.305`, `cs_06.310`), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, and any qualified compound. \"Tier\" names only the forum urgency tiers.",
+        "- **`avoid-bare-check`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing check, authenticity check, staff safeguards check), or name what is checked. **Allowed:** verb uses (**the Chartered Party checks and records**, **check whether**, **check for**), qualified compounds (**formation check**, **standing check**, **authenticity check**, **staff safeguards check**), the term of art **independent check**, and **check window**.",
+        "- **`avoid-bare-recheck`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **re-check** / **re-checks** / **recheck** / **rechecks** unless it follows **formation** → say **formation re-check**, or in other contexts **recertification**, **certification interval**, or the thing reassessed. **Allowed:** the verb forms (**re-checked**, **re-checking**) and **formation re-check**.",
+        "- **`avoid-bare-level`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, ordinary degree senses (**at the level of**, **a level that**, **the level at which**), and any qualified compound. \"Tier\" names only the forum urgency tiers.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`load-bearing-forum-family-casing`:** reject lowercase **forum** / **forums** after a forum family name (**Sentient**, **Technical**, **Institutional**, **Environment**, **Integrity**, **Constitutional**) outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Sentient Forums**, **Technical Forums**, and so on when the family is meant. Generic uses (forum family, lead forum) stay lowercase.",
@@ -1848,7 +1881,7 @@ def main() -> int:
         if rel_path != "doc_architecture.md":  # its dated move log keeps the wording each move used
             findings.extend(scan_avoid_bare_adoption_transition(rel_path, text))
             findings.extend(scan_avoid_transition_senses(rel_path, text))
-        if rel_path in _BREACH_FAMILY_SCOPE:
+        if rel_path not in _BREACH_FAMILY_EXEMPT:
             findings.extend(scan_avoid_breach_family(rel_path, text))
         if _in_instrument_scope(rel_path):
             findings.extend(scan_avoid_instrument(rel_path, text))

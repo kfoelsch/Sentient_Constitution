@@ -1,9 +1,9 @@
-# Integrative cross-leg operations (CJS-5.135 §22–CJS-5.135 §23) / oDef.22–oDef.23
+# CJS-5.135: Integrative cross-leg operations (oDef.22–oDef.23)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Integrative cross-leg operations (CJS-5.135 §22–CJS-5.135 §23 / oDef.22–oDef.23)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.135 §22** (*Integrative: constrained-secrecy and protected-investigation terms*) through **CJS-5.135 §23** (*Integrative: intervention and override integrity terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -54,7 +54,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 - Read with: **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) and **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.125 §13 — Procedural Integrity and Adjudication**
 - Read with: **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*)
@@ -206,7 +206,7 @@ No permanent secrecy and anti-normalization discipline
   - **CJS-5.135 §23** (*Integrative: intervention and override integrity terms*).
 - Read with: **CJS-5.135 §23 — Integrative: intervention and override integrity terms**
 - Read with: **CJS-5.130 §19 — Graceful Degradation and Failure Mode Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.130 §21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.125 §14 — Intervention governance and override authorization**
@@ -410,7 +410,7 @@ Trigger scope and timeliness applicability
 
 ---
 
-*Corpus alignment:* edition and effective date inherit from [README.md](../README.md); custody is governed by [Chapter Five *Corpus*](../core_05.045_band_integrative.md#corpus).
+*Corpus alignment:* edition `SC-Corpus-2026.04.33`, effective **2026-04-24**; edition and custody in [README.md](../README.md) and [Chapter Five *Corpus*](../core_05.045_band_integrative.md#corpus).
 
 ---
 

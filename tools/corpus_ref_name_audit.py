@@ -33,6 +33,7 @@ import html
 import re
 import subprocess
 import sys
+from collections import Counter
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -41,6 +42,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from corpus_paths import binding_corpus_scope  # noqa: E402
+import audit_baseline  # noqa: E402
 from local_markdown_fragment_audit import github_slug  # noqa: E402
 from heading_anchor_href import ids_for_fragment  # noqa: E402
 from section_cite_name_audit import (  # noqa: E402
@@ -63,6 +65,8 @@ ID_RE = re.compile(rf"\b({ID_PATTERN})\b")
 HEADING_RE = re.compile(
     rf"^#{{1,6}}\s+\**({ID_PATTERN})\**(?:,\s*Part\s+[A-Z])?(?:[:\s—–-]+)(.*?)\s*$"
 )
+NUMBERED_RUNIN_RE = re.compile(r"^\*\*(\d+(?:\.\d+)+)\.?\s+(.+?)\.?\*\*")
+NUMBERED_SUBSECTION_RE = re.compile(r"^#{3,6}\s+(\d+(?:\.\d+)+)\s+(.+?)\s*$")
 PREFIX_RE = re.compile(
     r"^(?:Interface\s*[—–-]\s*)?"
     r"(?:Article\s+[IVXLC]+(?:-[A-Z])?\s*\([^)]*\)\s*(?:[—–-]\s*)?)?(.*)$"
@@ -119,6 +123,7 @@ def build_index(root: Path) -> dict[str, Section]:
             pending: set[str] = set()
             current: Section | None = None
             gap = 99
+            file_id: str | None = None
             for line in path.read_text(encoding="utf-8").splitlines():
                 gap += 1
                 anchor_ids = HTML_ANCHOR_RE.findall(line)
@@ -132,8 +137,27 @@ def build_index(root: Path) -> dict[str, Section]:
                         current.anchors.update(anchor_ids)
                     continue
                 match = HEADING_RE.match(line)
+                numbered = NUMBERED_SUBSECTION_RE.match(line)
+                if numbered and file_id and not match:
+                    # ``### 3.5 Reclassification requirement`` inside CS-9.305 defines ``CS-9.305 §3.5``.
+                    ident = f"{file_id} §{numbered.group(1)}"
+                    anchors = set(pending) | {github_slug(line.lstrip("# ").strip())}
+                    if ident not in index:
+                        index[ident] = Section({rel}, clean(numbered.group(2)), anchors)
+                    pending = set()
+                    continue
+                runin = NUMBERED_RUNIN_RE.match(line.strip()) if file_id and not match else None
+                if runin:
+                    # ``<a id="52-reclassification-and-lifecycle-governance"></a>`` then ``**5.2. Title.**``
+                    ident = f"{file_id} §{runin.group(1)}"
+                    if ident not in index:
+                        index[ident] = Section({rel}, clean(runin.group(2)), set(pending) | {github_slug(runin.group(1) + " " + runin.group(2))})
+                    pending = set()
+                    continue
                 if match:
                     ident = match.group(1).upper()
+                    if file_id is None and line.startswith("# ") and " §" not in ident:
+                        file_id = ident
                     anchors = set(pending) | {github_slug(line.lstrip("# ").strip())}
                     section = index.get(ident)
                     if section is None:
@@ -483,6 +507,16 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--changed-only", action="store_true")
     parser.add_argument("--paths", nargs="*")
     parser.add_argument(
+        "--ignore-baseline",
+        action="store_true",
+        help="List every finding, baselined or not (to work down the backlog).",
+    )
+    parser.add_argument(
+        "--write-baseline",
+        action="store_true",
+        help="Rewrite the shrink-only baseline (AUDIT-SCOPE-01) from the current findings.",
+    )
+    parser.add_argument(
         "--fix",
         action="store_true",
         help="Insert the suggested (*name*) gloss after unnamed references.",
@@ -529,13 +563,34 @@ def main() -> int:
             path.write_text("\n".join(lines), encoding="utf-8")
         print(f"FIXED: inserted names in {len(by_file)} file(s); re-run to verify.")
         return 0
-    if not findings:
+    use_baseline = not args.changed_only and not args.paths and not args.ignore_baseline
+    baselined = 0
+    stale: list[str] = []
+    if use_baseline:
+        seen: Counter = Counter()
+        cache: dict[str, list[str]] = {}
+        keyed = []
+        for f in findings:
+            lines = cache.setdefault(f.file, (root / f.file).read_text(encoding="utf-8").split("\n"))
+            text = f"{f.ref}|{f.detail}|{lines[f.line - 1]}"
+            keyed.append((audit_baseline.make_key(f.file, text, seen), text, f))
+        if args.write_baseline:
+            audit_baseline.write(root, "corpus_ref_name", RULE, [(k, t) for k, t, _f in keyed])
+            print(f"WROTE baseline: {len(keyed)} entries")
+            return 0
+        new, stale = audit_baseline.split(root, "corpus_ref_name", keyed)
+        baselined = len(findings) - len(new)
+        findings = new
+    if not findings and not stale:
         mode = "changed-only" if args.changed_only else "full"
-        print(f"PASS: {RULE} ({mode}) — corpus references are named and resolve.")
+        extra = f"; {baselined} older finding(s) in the shrink-only baseline" if baselined else ""
+        print(f"PASS: {RULE} ({mode}) — corpus references are named and resolve{extra}.")
         return 0
-    print(f"FAIL: {RULE} — {len(findings)} corpus reference problem(s).")
+    print(f"FAIL: {RULE} — {len(findings)} corpus reference problem(s), {len(stale)} stale baseline entr(ies).")
     for f in findings:
         print(f"  {f.file}:{f.line}: {RULE}: {f.ref}: {f.detail}")
+    for k in stale:
+        print(f"  stale baseline entry (problem fixed; remove it with --write-baseline): {k}")
     return 1
 
 

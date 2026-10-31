@@ -1121,7 +1121,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - **Rights detail:**
   - **Article XXIII-A** (*Proportional Comprehensibility Right*);
   - **Article XXIII-B** (*Complexity Audit and Modularity Requirements*);
-  - [**CS-6.315**](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*).
+  - [**CS-6.315**](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and complexity stewardship*).
 
 #### Article XXIII-A: Proportional Comprehensibility Right
 <details>
@@ -1469,13 +1469,13 @@ This Article sets out the bounded mandate of Constitutional Forums and its limit
 
 <br>
 
-*In plain terms: if a ruling affects you, you can ask a different body to look at it again — not the panel that made it. That reviewer can fix, pause, or undo the ruling if the record shows a serious mistake, capture, or a Rights-Floor breach.*
+*In plain terms: if a ruling affects you, you can ask a different body to look at it again — not the panel that made it. That reviewer can fix, pause, or undo the ruling if the record shows a serious mistake, capture, or a Rights-Floor violation.*
 
 This Article sets out the floors for independent challenge and secondary review of interpretive decisions:
 
 - **Independent challenge and secondary review:** Affected stakeholders must have standing to seek secondary review through an independent review pathway.
   - The review must be run by a different body — not the same participants or panel that made the original decision.
-  - If the record shows a serious mistake, capture, or Rights-Floor breach, the reviewer must be able to fix, pause, or undo the decision.
+  - If the record shows a serious mistake, capture, or Rights-Floor violation, the reviewer must be able to fix, pause, or undo the decision.
   - For manifest constitutional error in a **Constitutional** forum ruling, the reviewer is a specially constituted **Constitutional review panel** under **CF-14.420 §2.5** (*Appeal Outcomes, Remedies, and Reviewable Records*), staffed from a published constitutional-review reserve roster maintained under **CF-14.470** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), with no overlapping decision-makers from the originating panel and with published rotation, recusal, competence, reserve-capacity, and conflict-screening safeguards. The panel is a limited review panel inside the **Constitutional** forum family, not a separate forum family or a general appellate body. Capture, recusal-failure, or self-judging allegations route through **CF-14.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) before merits review.
 
 #### Article XXV-C: Constitutional Forum Independence and External Review
@@ -1514,7 +1514,7 @@ This Article sets out the independence and external-review floors for Constituti
   - capture indicators;
   - decision quality;
   - Rights-Floor integrity.
-- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional Forum** panels are governed by [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*), including interpretive-body composition controls, and **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*).
+- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional Forum** panels are governed by [**CI-15.205**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), including interpretive-body composition controls, and **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*).
 
 #### Article XXV-D: Removal for Cause and Non-Entrenchment
 <details>

@@ -1,9 +1,9 @@
-# Continuity aim operations (CJS-5.130 §16–CJS-5.130 §21) / oDef.16–oDef.21
+# CJS-5.130: Continuity aim operations (oDef.16–oDef.21)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Continuity aim operations (CJS-5.130 §16–CJS-5.130 §21 / oDef.16–oDef.21)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.130 §16** (*Continuity: dependency integrity and disclosure terms*) through **CJS-5.130 §21** (*Continuity: adversarial robustness and abuse-resistance terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -55,9 +55,9 @@ This family operationalizes the constitutional [Continuity aim](../core_00.000_p
 - Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **CJS-5.130 §17 — Interoperability, Portability, and Exit Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*System lifecycle*)
+- Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*)
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
@@ -269,9 +269,9 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: **CJS-5.130 §17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md) (*Information types and handling*)
+- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*)
 - Read with: [**CS-9.305**](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*)
-- Read with: [**CS-15.305**](../corpus_systems/cs_15.305_critical_system_stewardship.md) (*Critical system stewardship*)
+- Read with: [**CS-15.305**](../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-critical-system-stewardship) (*Critical system stewardship*)
 - Read with: **Article XXI** (*Interoperability, Portability, and Exit Integrity*)
 - Read with: **Article II-E** (*Data Handling and Network Dependency*)
 - Read with: **Article II-F** (*Continuity and Operator Shutdown*)
@@ -622,12 +622,12 @@ Right-to-exit pathway integrity
   - **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*);
   - **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*).
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md) (*Information types and handling*), including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
+- Read with: [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*), including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
 - Read with: **CJS-8.105 §11 — Classification alignment for supervised scope**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
@@ -709,16 +709,16 @@ Anti-surveillance and anti-coercion accumulation limits
 <a id="classification-and-information-type-alignment"></a>
 Classification and information-type alignment
 
-*In plain terms: if accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** data type or becomes more sensitive in practice, stricter protections apply.*
+*In plain terms: if accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) — Data classifications** data type or becomes more sensitive in practice, stricter protections apply.*
 
 - **What it is**
-  - **In scope:** If accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** data type or becomes more sensitive in practice, stricter protections apply.
+  - **In scope:** If accumulated, linked, or inferred data changes its **CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) — Data classifications** data type or becomes more sensitive in practice, stricter protections apply.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in classification and information-type alignment.
 <a id="classification-and-information-type-alignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** alignment with **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** data-type duties and **CJS-8.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap
+  - **Primary measure:** alignment with **CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) — Data classifications** data-type duties and **CJS-8.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap
 
-    **Primary assessment:** Reviewers must verify alignment with **CS-6.305 (*Information types and handling*) and CS-6.310 — Data classifications** data-type duties and **CJS-8.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap.
+    **Primary assessment:** Reviewers must verify alignment with **CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) — Data classifications** data-type duties and **CJS-8.105 §11 — Classification alignment for supervised scope** where supervision and systems classification overlap.
 <a id="classification-and-information-type-alignment-c"></a>
 - **What must hold**
   - **Primary failure:** Continuing to use lower-type or lower-class handling after sensitivity has increased.
@@ -862,7 +862,7 @@ Transparency disclosures and stakeholder legibility
 - Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*System lifecycle*)
+- Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
 - Chapter One basis: §15.1, §18.1, §14, §16 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -1092,10 +1092,10 @@ Signaling integrity and anti-silent-failure controls
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.130 §19 — Graceful Degradation and Failure Mode Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
-- Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*System lifecycle*)
+- Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*)
 - Read with: **Article XVII** (*System Lifecycle, Environments, and Reversibility*) and **Article XIII-F** (*Resilience and Self-Healing Baseline*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
@@ -1224,14 +1224,14 @@ Rollback and containment capability
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-5.130 §19 — Graceful Degradation and Failure Mode Integrity**
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 — Auditability**
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3 (*Audit process home (oDef.3)*)**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) and **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) for distributed authority and participation legitimacy
 - Read with: **CJS-5.125 §12 — Burden of Justification and Constraint**
 - Read with: **CJS-5.135 §22 — Integrative: constrained-secrecy and protected-investigation terms**
-- Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*System lifecycle*)
+- Read with: [**CS-6.345**](../corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle) (*System lifecycle*)
 - Read with: **Article XIII** (*Right to Reliable and Trustworthy Systems*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Continuity disambiguation: Adversarial resilience serves constitutional **Continuity** under material stake.

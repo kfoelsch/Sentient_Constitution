@@ -12,6 +12,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "tools"))
+
+from corpus_paths import binding_corpus_scope  # noqa: E402  (AUDIT-SCOPE-01: the whole corpus)
 
 TRACE_SUMMARY = '<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>'
 DEC_SUMMARY = (
@@ -28,13 +31,6 @@ INLINE_DEFINITION_RE = re.compile(
 )
 DETAILS_CLOSE = "</details>"
 
-AUDIT_GLOBS = (
-    "core_*.md",
-    "corpus_joint_structure/*.md",
-    "corpus_systems/*_00_registry_and_reading_rules.md",
-    "corpus_institutions/*_00_registry_and_reading_rules.md",
-    "corpus_forum/*_00_registry_and_reading_rules.md",
-)
 
 
 def parse_args() -> argparse.Namespace:
@@ -143,10 +139,10 @@ def main() -> int:
     args = parse_args()
     root = args.root.resolve()
     all_findings: list[str] = []
-    for pattern in AUDIT_GLOBS:
-        for path in sorted(root.glob(pattern)):
-            if path.is_file():
-                all_findings.extend(audit_file(path, root))
+    for rel in binding_corpus_scope(root, include_support_docs=True):
+        path = root / rel
+        if path.is_file():
+            all_findings.extend(audit_file(path, root))
 
     if all_findings:
         print("Nav widget spacer audit failures:", file=sys.stderr)

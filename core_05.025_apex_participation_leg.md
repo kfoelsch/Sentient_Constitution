@@ -145,8 +145,6 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 | Fairness, access, and agency | Are affected sentients treated fairly, able to take part, and able to learn? | Guards against exclusion, disparate impact, and hollow access |
 | Privacy and data stewardship | Is informational self-determination preserved across handling lifecycles? | Prevents segmentation, read-across, and exposure pressure from defeating voice |
 
-
-
 ---
 
 **Previous file:** [core_05.020_apex_oversight_leg.md](core_05.020_apex_oversight_leg.md)

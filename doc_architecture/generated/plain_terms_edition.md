@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **729** of **1159** headings carry a gloss (63%).
+Coverage: **729** of **1158** headings carry a gloss (63%).
 
 ## Contents
 
@@ -35,7 +35,7 @@ Coverage: **729** of **1159** headings carry a gloss (63%).
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (9/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
-- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (15/35 glossed)
+- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (15/34 glossed)
 - [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/33 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
@@ -107,7 +107,7 @@ Chapters One through Six own values, how words are built and checked, the dictio
 
 #### 5. System and Institutional Charters, Functional Independence, and Separation of Duties
 
-a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.
+a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly hold the seats that check its own act.
 
 [Source](../../core_00.000_preamble.md#5-system-and-institutional-charters-functional-independence-and-separation-of-duties)
 
@@ -1393,7 +1393,7 @@ an Interim Hold is a short, narrow, reasoned limit on one named sentient's use o
 
 ##### Formation Check
 
-a Formation Check verifies that covered office-holders meet the published standing requirements and hold office in their own right for the Chartered Party's stated purpose. It is a check, not a licence to form or operate a body.
+a Formation Check verifies that covered office-holders meet the published standing requirements and hold office in their own right for the Chartered Party's stated purpose. It is a verification, not a licence to form or operate a body.
 
 [Source](../../core_05.035_band_accountability.md#formation-check)
 
@@ -1489,7 +1489,7 @@ an interested party is anyone with a real stake in how a particular matter comes
 
 ##### Independence
 
-a seat, body, or system is independent of an act when the party seeking the result cannot control it on that act and it has no stake of its own in how the act comes out. A different title, signature, or company does not make a check independent.
+a seat, body, or system is independent of an act when the party seeking the result cannot control it on that act and it has no stake of its own in how the act comes out. A different title, signature, or company does not make a seat, body, or system independent.
 
 [Source](../../core_05.035_band_accountability.md#independence)
 
@@ -1859,7 +1859,7 @@ the **Adoption Transition** is the stretch of time after a community adopts this
 
 ##### Full Certification
 
-**full certification** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.
+**full certification** is the longer-interval status a system earns only after clean recertifications, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing an evaluation, or a warning sign in the monitoring numbers, takes it away.
 
 [Source](../../core_05.040_band_continuity.md#full-certification)
 
@@ -1889,13 +1889,13 @@ a **pilot** is a real but deliberately limited launch. Real sentients are affect
 
 ##### Provisional Certification
 
-**provisional certification** is the closely watched status for a system that is new, or that has just failed a check. It is re-checked on a short interval until it has earned the longer-interval status of full certification.
+**provisional certification** is the closely watched status for a system that is new, or that has just failed an evaluation. It is re-checked on a short interval until it has earned the longer-interval status of full certification.
 
 [Source](../../core_05.040_band_continuity.md#provisional-certification)
 
 ##### Recertification
 
-**recertification** is the scheduled re-check that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.
+**recertification** is the scheduled re-evaluation that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.
 
 [Source](../../core_05.040_band_continuity.md#recertification)
 
@@ -3635,7 +3635,7 @@ Source file: [`core_08.000_functional_independence_separation_of_duties.md`](../
 
 #### 1. Purpose, Scope, and Owner Boundary
 
-before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](../../core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control the official record of that check, or decide the challenge to it.
+before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](../../core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.
 
 [Source](../../core_08.000_functional_independence_separation_of_duties.md#1-purpose-scope-and-owner-boundary)
 
@@ -3765,15 +3765,15 @@ Source file: [`core_09.000_system_alignment_certification_evaluation.md`](../../
 
 #### 1. Purpose and Role
 
-When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a System Certification Record, and require re-checks on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once it is reclassified to Class L or higher (that is, its effects reach beyond a private unit) or its operator claims constitutional compliance.
+When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a System Certification Record, and require recertification on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once it is reclassified to Class L or higher (that is, its effects reach beyond a private unit) or its operator claims constitutional compliance.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role)
 
-##### 1.1 Certification as an audit process, scaled by class
+##### 1.1 Certification as an Audit Process, Scaled by System Class
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.000_system_alignment_certification_evaluation.md#11-certification-as-an-audit-process-scaled-by-class)
+[Source](../../core_09.000_system_alignment_certification_evaluation.md#11-certification-as-an-audit-process-scaled-by-system-class)
 
 ##### 1.2 Certification at a glance
 
@@ -3783,7 +3783,7 @@ classify the system honestly, run the evaluations that apply, have forums indepe
 
 #### 2. System Class Evaluation
 
-certification has to check whether the system is classified honestly — not by what the operator calls it, but by what it actually does, what depends on it, and what could go wrong. Higher system classes mean stricter proof, faster re-checks, and stronger resilience expectations. See [CS-9.320 System alignment certification illustrations](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-system-alignment-certification-illustrations) for one example system per system class and how evaluation applies to each of them.
+certification has to check whether the system is classified honestly — not by what the operator calls it, but by what it actually does, what depends on it, and what could go wrong. Higher system classes mean stricter proof, shorter recertification intervals, and stronger resilience expectations. See [CS-9.320 System alignment certification illustrations](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-system-alignment-certification-illustrations) for one example system per system class and how evaluation applies to each of them.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)
 
@@ -3921,7 +3921,7 @@ a system cannot be certified as aligned if it quietly punishes the sentients who
 
 #### 5. Rights-Floor and Domain Evaluations
 
-some systems have a big effect on whether sentients get their basic protections — honest accounting of environmental burdens, food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the check has to be real — not a box the operator ticked. The table shows which protection each check covers, when it applies, and where it is evaluated.
+some systems have a big effect on whether sentients get their basic protections — honest accounting of environmental burdens, food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the evaluation has to be real — not a box the operator ticked. The table shows which protection each evaluation covers, when it applies, and where it is evaluated.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)
 
@@ -4029,7 +4029,7 @@ some systems decide who gets in. Some decide who pays more. Some decide who rank
 
 ###### 5.4.1 Evaluation Requirement
 
-this chapter does not set inclusion quotas. It does not pick a fairness formula. Other documents may cover those. So may later additions to the corpus, or the documents an adopter writes. Certification only checks that someone actually looked at who gets the benefits, who bears the burdens, and whether stand-ins for protected traits are at work. That check applies wherever the trigger applies.
+this chapter does not set inclusion quotas. It does not pick a fairness formula. Other documents may cover those. So may later additions to the corpus, or the documents an adopter writes. Certification only checks that someone actually looked at who gets the benefits, who bears the burdens, and whether stand-ins for protected traits are at work. That evaluation applies wherever the trigger applies.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#541-evaluation-requirement)
 
@@ -4409,7 +4409,7 @@ a certification can reopen early, before its next scheduled date, when something
 
 ##### 9.3 Provisional and full certification
 
-a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval. Failing a check sends it back to the short leash.
+a system earns trust in steps. New systems, and systems that have failed an evaluation, start on a short leash and are re-checked often. Only a system with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval. Failing an evaluation sends it back to the short leash.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification)
 
@@ -4511,7 +4511,7 @@ certification can feed standing, but it is not standing. The System Certificatio
 
 ## CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION
 
-Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 15/35 headings glossed
+Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 15/34 headings glossed
 
 #### 1. Purpose and Role
 
@@ -4519,33 +4519,27 @@ a system's certification belongs to the system. An institution's certification c
 
 [Source](../../core_10.000_institutional_alignment_certification.md#1-purpose-and-role)
 
-##### 1.1 Relation to System Alignment Certification
+##### 1.1 Who is certified
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_10.000_institutional_alignment_certification.md#11-relation-to-system-alignment-certification)
+[Source](../../core_10.000_institutional_alignment_certification.md#11-who-is-certified)
 
-##### 1.2 Who is certified
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_institutional_alignment_certification.md#12-who-is-certified)
-
-##### 1.3 No permission and no gate
+##### 1.2 No permission and no gate
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_10.000_institutional_alignment_certification.md#13-no-permission-and-no-gate)
+[Source](../../core_10.000_institutional_alignment_certification.md#12-no-permission-and-no-gate)
 
-##### 1.4 Window for the first certification
+##### 1.3 Window for the first certification
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_10.000_institutional_alignment_certification.md#14-window-for-the-first-certification)
+[Source](../../core_10.000_institutional_alignment_certification.md#13-window-for-the-first-certification)
 
 #### 2. Institution Class Evaluation
 
-first work out how much the institution matters, by what it actually does and holds.
+first sort the institution into a class by how much it matters to others. Judge that by what it actually decides and holds, not by what it calls itself. The class then sets how thorough the evaluation is: the higher the class, the stricter the proof, the more independent the review, and the sooner it is checked again.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#2-institution-class-evaluation)
 
@@ -4563,13 +4557,13 @@ first work out how much the institution matters, by what it actually does and ho
 
 #### 3. Whole-Institution Certification Evaluation
 
-check the things that belong to the institution and not to any one of its systems: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the checks on it work.
+check the things that belong to the institution and not to any one of its systems: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the independent checks on it work.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation)
 
 #### 4. Evaluations Where Implicated
 
-where the institution's own conduct touches one of the areas a system is checked on when it is implicated, the same check is made on the institution, once.
+where the institution's own conduct touches one of the areas a system is checked on when it is implicated, the same evaluation is made on the institution, once.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#4-evaluations-where-implicated)
 
@@ -6035,7 +6029,7 @@ if a system materially affects a sentient — directly or through dependency —
 
 ##### Article X-D: Inclusion and Exclusion Challenge Rights
 
-when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-9.305 (*System classification machinery*) and CS-9.310 — System impact classifications**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
+when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — System impact classifications**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
 
 [Source](../../core_06.005_rights_part_b.md#article-x-d-inclusion-and-exclusion-challenge-rights)
 
@@ -6499,7 +6493,7 @@ Constitutional Forums rule on constitutional questions, not on everything. They 
 
 ##### Article XXV-B: Challenge Rights and Independent Review
 
-if a ruling affects you, you can ask a different body to look at it again — not the panel that made it. That reviewer can fix, pause, or undo the ruling if the record shows a serious mistake, capture, or a Rights-Floor breach.
+if a ruling affects you, you can ask a different body to look at it again — not the panel that made it. That reviewer can fix, pause, or undo the ruling if the record shows a serious mistake, capture, or a Rights-Floor violation.
 
 [Source](../../core_06.015_rights_part_d.md#article-xxv-b-challenge-rights-and-independent-review)
 

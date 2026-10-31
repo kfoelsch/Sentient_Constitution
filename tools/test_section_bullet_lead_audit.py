@@ -5,7 +5,7 @@ from __future__ import annotations
 
 import unittest
 
-from section_bullet_lead_audit import is_carved_out, scan_text
+from section_bullet_lead_audit import scan_text
 
 WIDGETS = (
     "<details>\n<summary>Trace</summary>\n\n- Upstream: skip\n\n</details>\n\n"
@@ -56,12 +56,14 @@ class SectionBulletLeadTests(unittest.TestCase):
         text = "### 2. Title\n\n> **Note:** architecture.\n\n- a\n"
         self.assertEqual(len(self._lines(text)), 1)
 
-    def test_chapter_five_files_are_carved_out(self) -> None:
-        self.assertTrue(is_carved_out("core_05.040_band_continuity.md"))
-        self.assertTrue(is_carved_out("core_05.000_definitions_home.md"))
-        self.assertTrue(is_carved_out("core_05.015_apex_flourishing_aim.md"))
-        self.assertFalse(is_carved_out("core_06.000_rights_part_a.md"))
-        self.assertFalse(is_carved_out("corpus_systems/cs_05_safety.md"))
+    def test_chapter_five_entry_opener_is_allowed_in_any_file(self) -> None:
+        text = "### Term\n\n- **What it is**\n  - the meaning\n"
+        self.assertEqual(self._lines(text, "core_05.040_band_continuity.md"), [])
+        self.assertEqual(self._lines(text, "core_06.000_rights_part_a.md"), [])
+
+    def test_chapter_five_files_get_no_file_level_carve_out(self) -> None:
+        text = "### Rule\n\n- a plain bullet first\n"
+        self.assertEqual(len(self._lines(text, "core_05.000_definitions_home.md")), 1)
 
 
 if __name__ == "__main__":

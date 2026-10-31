@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-29T23:08:15+00:00",
+  "generated_at": "2026-10-31T23:14:31+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 538,
@@ -212,28 +212,28 @@
       ]
     },
     "core_05.000_definitions_home.md": {
-      "total_lines": 489,
+      "total_lines": 491,
       "sections": [
-        {"header":"CHAPTER FIVE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":489,"anchor":"#chapter-five-foundational-definitions"},
-        {"header":"Canonical home and non-duplication rule","level":3,"line_start":23,"line_end":36,"anchor":null},
-        {"header":"1. Independent Definitions","level":3,"line_start":37,"line_end":62,"anchor":"#1-independent-definitions"},
-        {"header":"1.1 Invocation, satisfaction, and compliance","level":4,"line_start":47,"line_end":62,"anchor":"#11-invocation-satisfaction-and-compliance"},
-        {"header":"2. Dependent-cluster meta rules","level":3,"line_start":63,"line_end":84,"anchor":null},
-        {"header":"2.1 Joint invocation and satisfaction","level":4,"line_start":71,"line_end":77,"anchor":"#21-joint-invocation-and-satisfaction"},
-        {"header":"2.2 Standalone definitions interaction and full context","level":4,"line_start":78,"line_end":84,"anchor":"#22-standalone-definitions-interaction-and-full-context"},
-        {"header":"Chapter Five alphabetical directory (non-operative)","level":3,"line_start":85,"line_end":417,"anchor":"#chapter-five-alphabetical-directory"},
-        {"header":"Definitions A-Z","level":4,"line_start":105,"line_end":393,"anchor":"#definitions-a-z"},
-        {"header":"Clusters A-Z","level":4,"line_start":394,"line_end":417,"anchor":"#clusters-a-z"},
-        {"header":"Chapter Five compass and definition map","level":3,"line_start":418,"line_end":457,"anchor":"#chapter-five-compass-and-definition-map"},
-        {"header":"Measurement crosswalk (reader guidance)","level":3,"line_start":458,"line_end":489,"anchor":null}
+        {"header":"CHAPTER FIVE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":491,"anchor":"#chapter-five-foundational-definitions"},
+        {"header":"Canonical home and non-duplication rule","level":3,"line_start":23,"line_end":38,"anchor":null},
+        {"header":"1. Independent Definitions","level":3,"line_start":39,"line_end":64,"anchor":"#1-independent-definitions"},
+        {"header":"1.1 Invocation, satisfaction, and compliance","level":4,"line_start":49,"line_end":64,"anchor":"#11-invocation-satisfaction-and-compliance"},
+        {"header":"2. Dependent-cluster meta rules","level":3,"line_start":65,"line_end":86,"anchor":null},
+        {"header":"2.1 Joint invocation and satisfaction","level":4,"line_start":73,"line_end":79,"anchor":"#21-joint-invocation-and-satisfaction"},
+        {"header":"2.2 Standalone definitions interaction and full context","level":4,"line_start":80,"line_end":86,"anchor":"#22-standalone-definitions-interaction-and-full-context"},
+        {"header":"Chapter Five alphabetical directory (non-operative)","level":3,"line_start":87,"line_end":419,"anchor":"#chapter-five-alphabetical-directory"},
+        {"header":"Definitions A-Z","level":4,"line_start":107,"line_end":395,"anchor":"#definitions-a-z"},
+        {"header":"Clusters A-Z","level":4,"line_start":396,"line_end":419,"anchor":"#clusters-a-z"},
+        {"header":"Chapter Five compass and definition map","level":3,"line_start":420,"line_end":459,"anchor":"#chapter-five-compass-and-definition-map"},
+        {"header":"Measurement crosswalk (reader guidance)","level":3,"line_start":460,"line_end":491,"anchor":null}
       ]
     },
     "core_05.005_apex_accountability_leg.md": {
-      "total_lines": 140,
+      "total_lines": 139,
       "sections": [
-        {"header":"CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)","level":1,"line_start":1,"line_end":140,"anchor":null},
+        {"header":"CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)","level":1,"line_start":1,"line_end":139,"anchor":null},
         {"header":"Tetrad Leg decomposition","level":3,"line_start":80,"line_end":100,"anchor":"#accountability-leg-decomposition"},
-        {"header":"Measuring Accountability","level":3,"line_start":101,"line_end":140,"anchor":"#accountability-measurement-family"}
+        {"header":"Measuring Accountability","level":3,"line_start":101,"line_end":139,"anchor":"#accountability-measurement-family"}
       ]
     },
     "core_05.010_apex_continuity_aim.md": {
@@ -253,27 +253,27 @@
       ]
     },
     "core_05.020_apex_oversight_leg.md": {
-      "total_lines": 148,
+      "total_lines": 147,
       "sections": [
-        {"header":"CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)","level":1,"line_start":1,"line_end":148,"anchor":null},
+        {"header":"CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)","level":1,"line_start":1,"line_end":147,"anchor":null},
         {"header":"Tetrad Leg decomposition","level":3,"line_start":90,"line_end":111,"anchor":"#oversight-leg-decomposition"},
-        {"header":"Measuring Oversight (Preamble measurement family)","level":3,"line_start":112,"line_end":148,"anchor":"#oversight-measurement-family"}
+        {"header":"Measuring Oversight (Preamble measurement family)","level":3,"line_start":112,"line_end":147,"anchor":"#oversight-measurement-family"}
       ]
     },
     "core_05.025_apex_participation_leg.md": {
-      "total_lines": 154,
+      "total_lines": 152,
       "sections": [
-        {"header":"CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)","level":1,"line_start":1,"line_end":154,"anchor":null},
+        {"header":"CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)","level":1,"line_start":1,"line_end":152,"anchor":null},
         {"header":"Tetrad Leg decomposition","level":3,"line_start":98,"line_end":120,"anchor":"#participation-leg-decomposition"},
-        {"header":"Measuring Participation (Preamble measurement family)","level":3,"line_start":121,"line_end":154,"anchor":"#participation-measurement-family"}
+        {"header":"Measuring Participation (Preamble measurement family)","level":3,"line_start":121,"line_end":152,"anchor":"#participation-measurement-family"}
       ]
     },
     "core_05.030_apex_timeliness_leg.md": {
-      "total_lines": 139,
+      "total_lines": 138,
       "sections": [
-        {"header":"CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)","level":1,"line_start":1,"line_end":139,"anchor":null},
+        {"header":"CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)","level":1,"line_start":1,"line_end":138,"anchor":null},
         {"header":"Tetrad Leg decomposition","level":3,"line_start":91,"line_end":109,"anchor":"#timeliness-leg-decomposition"},
-        {"header":"Measuring Timeliness","level":3,"line_start":110,"line_end":139,"anchor":"#timeliness-measurement-family"}
+        {"header":"Measuring Timeliness","level":3,"line_start":110,"line_end":138,"anchor":"#timeliness-measurement-family"}
       ]
     },
     "core_05.035_band_accountability.md": {
@@ -744,7 +744,7 @@
       "sections": [
         {"header":"CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION","level":1,"line_start":4,"line_end":1571,"anchor":"#chapter-nine-part-a-certification-evaluation"},
         {"header":"1. Purpose and Role","level":3,"line_start":44,"line_end":250,"anchor":"#1-purpose-and-role"},
-        {"header":"1.1 Certification as an audit process, scaled by class","level":4,"line_start":118,"line_end":146,"anchor":"#11-certification-as-an-audit-process-scaled-by-class"},
+        {"header":"1.1 Certification as an Audit Process, Scaled by System Class","level":4,"line_start":118,"line_end":146,"anchor":"#11-certification-as-an-audit-process-scaled-by-system-class"},
         {"header":"1.2 Certification at a glance","level":4,"line_start":147,"line_end":250,"anchor":"#12-certification-at-a-glance"},
         {"header":"2. System Class Evaluation","level":3,"line_start":251,"line_end":408,"anchor":"#2-system-class-evaluation"},
         {"header":"2.1 Certification, recertification, and defects","level":4,"line_start":339,"line_end":369,"anchor":"#21-certification-recertification-and-defects"},
@@ -881,43 +881,42 @@
       ]
     },
     "core_10.000_institutional_alignment_certification.md": {
-      "total_lines": 643,
+      "total_lines": 709,
       "sections": [
-        {"header":"CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION","level":1,"line_start":2,"line_end":643,"anchor":"#chapter-ten-institutional-alignment-certification"},
-        {"header":"1. Purpose and Role","level":3,"line_start":64,"line_end":140,"anchor":"#1-purpose-and-role"},
-        {"header":"1.1 Relation to System Alignment Certification","level":4,"line_start":89,"line_end":100,"anchor":"#11-relation-to-system-alignment-certification"},
-        {"header":"1.2 Who is certified","level":4,"line_start":101,"line_end":112,"anchor":"#12-who-is-certified"},
-        {"header":"1.3 No permission and no gate","level":4,"line_start":113,"line_end":128,"anchor":"#13-no-permission-and-no-gate"},
-        {"header":"1.4 Window for the first certification","level":4,"line_start":129,"line_end":140,"anchor":"#14-window-for-the-first-certification"},
-        {"header":"2. Institution Class Evaluation","level":3,"line_start":141,"line_end":195,"anchor":"#2-institution-class-evaluation"},
-        {"header":"2.1 Institution class","level":4,"line_start":166,"line_end":183,"anchor":"#21-institution-class"},
-        {"header":"2.2 Scaling by class","level":4,"line_start":184,"line_end":195,"anchor":"#22-scaling-by-class"},
-        {"header":"3. Whole-Institution Certification Evaluation","level":3,"line_start":196,"line_end":232,"anchor":"#3-whole-institution-certification-evaluation"},
-        {"header":"4. Evaluations Where Implicated","level":3,"line_start":233,"line_end":256,"anchor":"#4-evaluations-where-implicated"},
-        {"header":"5. Rights-Floor and Domain Evaluations","level":3,"line_start":257,"line_end":277,"anchor":"#5-rights-floor-and-domain-evaluations"},
-        {"header":"6. Forum Process","level":3,"line_start":278,"line_end":344,"anchor":"#6-forum-process"},
-        {"header":"6.1 Four seats in an institutional certification","level":4,"line_start":306,"line_end":320,"anchor":"#61-four-seats-in-an-institutional-certification"},
-        {"header":"6.2 Forum roles and sequence","level":4,"line_start":321,"line_end":332,"anchor":"#62-forum-roles-and-sequence"},
-        {"header":"6.3 Forums, certifiers, and record offices as institutions","level":4,"line_start":333,"line_end":344,"anchor":"#63-forums-certifiers-and-record-offices-as-institutions"},
-        {"header":"7. Certification Outcomes","level":3,"line_start":345,"line_end":430,"anchor":"#7-certification-outcomes"},
-        {"header":"7.1 No go-live gate: the effect of an outcome","level":4,"line_start":376,"line_end":391,"anchor":"#71-no-go-live-gate-the-effect-of-an-outcome"},
-        {"header":"7.2 Certification defects and correction","level":4,"line_start":392,"line_end":397,"anchor":"#72-certification-defects-and-correction"},
-        {"header":"7.3 Remediation readiness for an Institution","level":4,"line_start":398,"line_end":410,"anchor":"#73-remediation-readiness-for-an-institution"},
-        {"header":"7.4 Denial and revocation for an Institution","level":4,"line_start":411,"line_end":430,"anchor":"#74-denial-and-revocation-for-an-institution"},
-        {"header":"8. Institutional Certification Record","level":3,"line_start":431,"line_end":489,"anchor":"#8-institutional-certification-record"},
-        {"header":"8.1 Minimum record contents","level":4,"line_start":458,"line_end":481,"anchor":"#81-minimum-record-contents"},
-        {"header":"8.2 Transparency and auditability of the record","level":4,"line_start":482,"line_end":489,"anchor":"#82-transparency-and-auditability-of-the-record"},
-        {"header":"9. Recertification and Reopening","level":3,"line_start":490,"line_end":576,"anchor":"#9-recertification-and-reopening"},
-        {"header":"9.1 Monitoring, recertification, and status","level":4,"line_start":518,"line_end":523,"anchor":"#91-monitoring-recertification-and-status"},
-        {"header":"9.2 Reopening triggers","level":4,"line_start":524,"line_end":541,"anchor":"#92-reopening-triggers"},
-        {"header":"9.3 Provisional and full certification","level":4,"line_start":542,"line_end":547,"anchor":"#93-provisional-and-full-certification"},
-        {"header":"9.4 Non-evasion","level":4,"line_start":548,"line_end":562,"anchor":"#94-non-evasion"},
-        {"header":"9.5 Cascade from System certifications","level":4,"line_start":563,"line_end":576,"anchor":"#95-cascade-from-system-certifications"},
-        {"header":"10. Challenging a Certification","level":3,"line_start":577,"line_end":610,"anchor":"#10-challenging-a-certification"},
-        {"header":"10.1 When the path opens","level":4,"line_start":599,"line_end":604,"anchor":"#101-when-the-path-opens"},
-        {"header":"10.2 Contestability paths","level":4,"line_start":605,"line_end":610,"anchor":"#102-contestability-paths"},
-        {"header":"11. Relationship to Standing","level":3,"line_start":611,"line_end":643,"anchor":"#11-relationship-to-standing"},
-        {"header":"11.1 What may pass to standing","level":4,"line_start":635,"line_end":643,"anchor":"#111-what-may-pass-to-standing"}
+        {"header":"CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION","level":1,"line_start":2,"line_end":709,"anchor":"#chapter-ten-institutional-alignment-certification"},
+        {"header":"1. Purpose and Role","level":3,"line_start":67,"line_end":166,"anchor":"#1-purpose-and-role"},
+        {"header":"1.1 Who is certified","level":4,"line_start":123,"line_end":134,"anchor":"#11-who-is-certified"},
+        {"header":"1.2 No permission and no gate","level":4,"line_start":135,"line_end":154,"anchor":"#12-no-permission-and-no-gate"},
+        {"header":"1.3 Window for the first certification","level":4,"line_start":155,"line_end":166,"anchor":"#13-window-for-the-first-certification"},
+        {"header":"2. Institution Class Evaluation","level":3,"line_start":167,"line_end":225,"anchor":"#2-institution-class-evaluation"},
+        {"header":"2.1 Institution class","level":4,"line_start":192,"line_end":213,"anchor":"#21-institution-class"},
+        {"header":"2.2 Scaling by class","level":4,"line_start":214,"line_end":225,"anchor":"#22-scaling-by-class"},
+        {"header":"3. Whole-Institution Certification Evaluation","level":3,"line_start":226,"line_end":298,"anchor":"#3-whole-institution-certification-evaluation"},
+        {"header":"4. Evaluations Where Implicated","level":3,"line_start":299,"line_end":322,"anchor":"#4-evaluations-where-implicated"},
+        {"header":"5. Rights-Floor and Domain Evaluations","level":3,"line_start":323,"line_end":343,"anchor":"#5-rights-floor-and-domain-evaluations"},
+        {"header":"6. Forum Process","level":3,"line_start":344,"line_end":410,"anchor":"#6-forum-process"},
+        {"header":"6.1 Four seats in an institutional certification","level":4,"line_start":372,"line_end":386,"anchor":"#61-four-seats-in-an-institutional-certification"},
+        {"header":"6.2 Forum roles and sequence","level":4,"line_start":387,"line_end":398,"anchor":"#62-forum-roles-and-sequence"},
+        {"header":"6.3 Forums, certifiers, and record offices as institutions","level":4,"line_start":399,"line_end":410,"anchor":"#63-forums-certifiers-and-record-offices-as-institutions"},
+        {"header":"7. Certification Outcomes","level":3,"line_start":411,"line_end":496,"anchor":"#7-certification-outcomes"},
+        {"header":"7.1 No go-live gate: the effect of an outcome","level":4,"line_start":442,"line_end":457,"anchor":"#71-no-go-live-gate-the-effect-of-an-outcome"},
+        {"header":"7.2 Certification defects and correction","level":4,"line_start":458,"line_end":463,"anchor":"#72-certification-defects-and-correction"},
+        {"header":"7.3 Remediation readiness for an Institution","level":4,"line_start":464,"line_end":476,"anchor":"#73-remediation-readiness-for-an-institution"},
+        {"header":"7.4 Denial and revocation for an Institution","level":4,"line_start":477,"line_end":496,"anchor":"#74-denial-and-revocation-for-an-institution"},
+        {"header":"8. Institutional Certification Record","level":3,"line_start":497,"line_end":555,"anchor":"#8-institutional-certification-record"},
+        {"header":"8.1 Minimum record contents","level":4,"line_start":524,"line_end":547,"anchor":"#81-minimum-record-contents"},
+        {"header":"8.2 Transparency and auditability of the record","level":4,"line_start":548,"line_end":555,"anchor":"#82-transparency-and-auditability-of-the-record"},
+        {"header":"9. Recertification and Reopening","level":3,"line_start":556,"line_end":642,"anchor":"#9-recertification-and-reopening"},
+        {"header":"9.1 Monitoring, recertification, and status","level":4,"line_start":584,"line_end":589,"anchor":"#91-monitoring-recertification-and-status"},
+        {"header":"9.2 Reopening triggers","level":4,"line_start":590,"line_end":607,"anchor":"#92-reopening-triggers"},
+        {"header":"9.3 Provisional and full certification","level":4,"line_start":608,"line_end":613,"anchor":"#93-provisional-and-full-certification"},
+        {"header":"9.4 Non-evasion","level":4,"line_start":614,"line_end":628,"anchor":"#94-non-evasion"},
+        {"header":"9.5 Cascade from System certifications","level":4,"line_start":629,"line_end":642,"anchor":"#95-cascade-from-system-certifications"},
+        {"header":"10. Challenging a Certification","level":3,"line_start":643,"line_end":676,"anchor":"#10-challenging-a-certification"},
+        {"header":"10.1 When the path opens","level":4,"line_start":665,"line_end":670,"anchor":"#101-when-the-path-opens"},
+        {"header":"10.2 Contestability paths","level":4,"line_start":671,"line_end":676,"anchor":"#102-contestability-paths"},
+        {"header":"11. Relationship to Standing","level":3,"line_start":677,"line_end":709,"anchor":"#11-relationship-to-standing"},
+        {"header":"11.1 What may pass to standing","level":4,"line_start":701,"line_end":709,"anchor":"#111-what-may-pass-to-standing"}
       ]
     },
     "core_11.000_standing_assessment.md": {
@@ -1040,9 +1039,9 @@
       ]
     },
     "core_14.000_forum.md": {
-      "total_lines": 1149,
+      "total_lines": 1148,
       "sections": [
-        {"header":"CHAPTER FOURTEEN: FORUMS AND JURISDICTION","level":1,"line_start":2,"line_end":1149,"anchor":"#chapter-fourteen-forums-and-jurisdiction"},
+        {"header":"CHAPTER FOURTEEN: FORUMS AND JURISDICTION","level":1,"line_start":2,"line_end":1148,"anchor":"#chapter-fourteen-forums-and-jurisdiction"},
         {"header":"1. Purpose and role — participation architecture","level":3,"line_start":62,"line_end":176,"anchor":"#1-purpose-and-role--participation-architecture"},
         {"header":"2. Default venue and primary stakes","level":3,"line_start":177,"line_end":344,"anchor":"#2-default-venue-and-primary-stakes"},
         {"header":"2.1 Lead-default limits","level":4,"line_start":266,"line_end":276,"anchor":"#21-lead-default-limits"},
@@ -1070,7 +1069,7 @@
         {"header":"Chapter Thirteen designation and independent review","level":4,"line_start":922,"line_end":930,"anchor":null},
         {"header":"6. Timely resolution, materiality tiers, and anti-delay discipline","level":3,"line_start":931,"line_end":1105,"anchor":"#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"},
         {"header":"6.1 Emergency measures and continuation burden","level":4,"line_start":1072,"line_end":1105,"anchor":"#61-emergency-measures-and-continuation-burden"},
-        {"header":"7. Forum support before, during, and after review — oversight architecture","level":3,"line_start":1106,"line_end":1149,"anchor":"#7-forum-support-before-during-and-after-review--oversight-architecture"}
+        {"header":"7. Forum support before, during, and after review — oversight architecture","level":3,"line_start":1106,"line_end":1148,"anchor":"#7-forum-support-before-during-and-after-review--oversight-architecture"}
       ]
     },
     "core_11.005_application_vignettes.md": {
@@ -1430,15 +1429,14 @@
       ]
     },
     "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md": {
-      "total_lines": 380,
+      "total_lines": 377,
       "sections": [
-        {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":380,"anchor":null},
-        {"header":"CJS-0.105: Registry and reading rules","level":2,"line_start":38,"line_end":380,"anchor":null},
-        {"header":"CJS-0.105 §1: Cross-file routing","level":3,"line_start":70,"line_end":170,"anchor":"#cross-file-routing"},
-        {"header":"Maintainer-only detail: authoritative topic router","level":4,"line_start":122,"line_end":170,"anchor":"#cjs-01-topic-router-stable-ids"},
-        {"header":"CJS-0.105 §2: Joint structure registry","level":3,"line_start":171,"line_end":209,"anchor":null},
-        {"header":"CJS-0.105 §3: Stable identifiers, edition alignment, and drafting notes","level":3,"line_start":210,"line_end":265,"anchor":null},
-        {"header":"CJS-0.105 §4: Time-window names","level":3,"line_start":266,"line_end":380,"anchor":null}
+        {"header":"CJS-0.105: Registry and reading rules","level":1,"line_start":1,"line_end":377,"anchor":null},
+        {"header":"CJS-0.105 §1: Cross-file routing","level":2,"line_start":67,"line_end":167,"anchor":"#cross-file-routing"},
+        {"header":"Maintainer-only detail: authoritative topic router","level":3,"line_start":119,"line_end":167,"anchor":"#cjs-01-topic-router-stable-ids"},
+        {"header":"CJS-0.105 §2: Joint structure registry","level":2,"line_start":168,"line_end":206,"anchor":null},
+        {"header":"CJS-0.105 §3: Stable identifiers, edition alignment, and drafting notes","level":2,"line_start":207,"line_end":262,"anchor":null},
+        {"header":"CJS-0.105 §4: Time-window names","level":2,"line_start":263,"line_end":377,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md": {
@@ -1461,7 +1459,7 @@
     "corpus_joint_structure/cjs_05.110_oversight_operations.md": {
       "total_lines": 1115,
       "sections": [
-        {"header":"Oversight leg (CJS-5.110 §2–CJS-5.110 §6) / oDef.2–oDef.6","level":1,"line_start":1,"line_end":1115,"anchor":null},
+        {"header":"CJS-5.110: Oversight leg operations (oDef.2–oDef.6)","level":1,"line_start":1,"line_end":1115,"anchor":null},
         {"header":"CJS-5.110 §2 Oversight: reflexive transparency and accountability terms","level":2,"line_start":44,"line_end":252,"anchor":null},
         {"header":"CJS-5.110 §3 Oversight: auditability and reconstructability terms (annex)","level":2,"line_start":253,"line_end":380,"anchor":"#transparency-audit-and-verification-integrity-duties-c"},
         {"header":"CJS-5.110 §4 Oversight: transparency levels and audit-access terms","level":2,"line_start":381,"line_end":598,"anchor":"#operational-transparency-and-structured-logging-requirements-c"},
@@ -1470,20 +1468,21 @@
       ]
     },
     "corpus_joint_structure/cjs_05.115_audit_process.md": {
-      "total_lines": 161,
+      "total_lines": 163,
       "sections": [
-        {"header":"CJS-5.115 §3 / oDef.3 Audit process home","level":1,"line_start":2,"line_end":161,"anchor":null},
-        {"header":"What auditing is","level":2,"line_start":61,"line_end":81,"anchor":null},
-        {"header":"Why we audit","level":2,"line_start":82,"line_end":95,"anchor":null},
-        {"header":"How we audit","level":2,"line_start":96,"line_end":115,"anchor":null},
-        {"header":"When we audit","level":2,"line_start":116,"line_end":132,"anchor":null},
-        {"header":"Sibling audit modes (owner map)","level":2,"line_start":133,"line_end":161,"anchor":null}
+        {"header":"CJS-5.115: Audit process home (oDef.3)","level":1,"line_start":2,"line_end":163,"anchor":null},
+        {"header":"CJS-5.115 §3 Audit process home (oDef.3)","level":2,"line_start":61,"line_end":163,"anchor":null},
+        {"header":"What auditing is","level":3,"line_start":63,"line_end":83,"anchor":null},
+        {"header":"Why we audit","level":3,"line_start":84,"line_end":97,"anchor":null},
+        {"header":"How we audit","level":3,"line_start":98,"line_end":117,"anchor":null},
+        {"header":"When we audit","level":3,"line_start":118,"line_end":134,"anchor":null},
+        {"header":"Sibling audit modes (owner map)","level":3,"line_start":135,"line_end":163,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_05.120_participation_operations.md": {
       "total_lines": 883,
       "sections": [
-        {"header":"Participation leg (CJS-5.120 §7–CJS-5.120 §10) / oDef.7–oDef.10","level":1,"line_start":1,"line_end":883,"anchor":null},
+        {"header":"CJS-5.120: Participation leg operations (oDef.7–oDef.10)","level":1,"line_start":1,"line_end":883,"anchor":null},
         {"header":"CJS-5.120 §7 Participation: quorum and participatory legitimacy terms","level":2,"line_start":42,"line_end":296,"anchor":null},
         {"header":"CJS-5.120 §8 Participation: comprehensibility and cognitive accessibility terms","level":2,"line_start":297,"line_end":514,"anchor":"#weighted-participation-c"},
         {"header":"CJS-5.120 §9 Participation: salience integrity and attention-allocation terms","level":2,"line_start":515,"line_end":725,"anchor":"#summary-integrity-c"},
@@ -1493,7 +1492,7 @@
     "corpus_joint_structure/cjs_05.125_accountability_operations.md": {
       "total_lines": 1356,
       "sections": [
-        {"header":"Accountability leg (CJS-5.125 §11–CJS-5.125 §15) / oDef.11–oDef.15","level":1,"line_start":1,"line_end":1356,"anchor":null},
+        {"header":"CJS-5.125: Accountability leg operations (oDef.11–oDef.15)","level":1,"line_start":1,"line_end":1356,"anchor":null},
         {"header":"CJS-5.125 §11 Accountability: distributed and proportional authority terms","level":2,"line_start":43,"line_end":436,"anchor":null},
         {"header":"CJS-5.125 §11.1 Market concentration threshold-setting discipline (adopter-tunable)","level":3,"line_start":119,"line_end":173,"anchor":"#distributed-and-proportional-authority-terms-c"},
         {"header":"CJS-5.125 §11.2 Anti-domination conduct and remediation catalog","level":3,"line_start":174,"line_end":230,"anchor":"#market-concentration-threshold-activation-c"},
@@ -1507,7 +1506,7 @@
     "corpus_joint_structure/cjs_05.130_continuity_operations.md": {
       "total_lines": 1485,
       "sections": [
-        {"header":"Continuity aim operations (CJS-5.130 §16–CJS-5.130 §21) / oDef.16–oDef.21","level":1,"line_start":1,"line_end":1485,"anchor":null},
+        {"header":"CJS-5.130: Continuity aim operations (oDef.16–oDef.21)","level":1,"line_start":1,"line_end":1485,"anchor":null},
         {"header":"CJS-5.130 §16 Continuity: dependency integrity and disclosure terms","level":2,"line_start":44,"line_end":259,"anchor":null},
         {"header":"CJS-5.130 §17 Continuity: interoperability, portability, and exit-integrity terms","level":2,"line_start":260,"line_end":612,"anchor":"#substitutability-exit-constraints-and-mitigation-duties-c"},
         {"header":"CJS-5.130 §18 Continuity: data-retention and lifecycle-integrity terms","level":2,"line_start":613,"line_end":846,"anchor":"#right-to-exit-pathway-integrity-c"},
@@ -1519,7 +1518,7 @@
     "corpus_joint_structure/cjs_05.135_integrative_operations.md": {
       "total_lines": 419,
       "sections": [
-        {"header":"Integrative cross-leg operations (CJS-5.135 §22–CJS-5.135 §23) / oDef.22–oDef.23","level":1,"line_start":1,"line_end":419,"anchor":null},
+        {"header":"CJS-5.135: Integrative cross-leg operations (oDef.22–oDef.23)","level":1,"line_start":1,"line_end":419,"anchor":null},
         {"header":"CJS-5.135 §22 Integrative: constrained-secrecy and protected-investigation terms","level":2,"line_start":40,"line_end":194,"anchor":null},
         {"header":"CJS-5.135 §23 Integrative: intervention and override integrity terms","level":2,"line_start":195,"line_end":419,"anchor":"#no-permanent-secrecy-and-anti-normalization-discipline-c"}
       ]
@@ -1527,7 +1526,7 @@
     "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md": {
       "total_lines": 131,
       "sections": [
-        {"header":"CJS-5.140 §13–CJS-5.140 §14: oDef parse mechanics","level":1,"line_start":1,"line_end":131,"anchor":null},
+        {"header":"CJS-5.140: oDef parse mechanics","level":1,"line_start":1,"line_end":131,"anchor":null},
         {"header":"CJS-5.140 §13: Operational structure and subsection-local terminology","level":2,"line_start":42,"line_end":81,"anchor":null},
         {"header":"CJS-5.140 §14: Operational clusters","level":2,"line_start":82,"line_end":131,"anchor":null}
       ]
@@ -1535,7 +1534,7 @@
     "corpus_joint_structure/cjs_08.105_support_hosting_classification.md": {
       "total_lines": 90,
       "sections": [
-        {"header":"CJS-8.105 §9–CJS-8.105 §11: Support roles, hosting independence, and classification alignment","level":1,"line_start":1,"line_end":90,"anchor":null},
+        {"header":"CJS-8.105: Support roles, hosting independence, and classification alignment","level":1,"line_start":1,"line_end":90,"anchor":null},
         {"header":"CJS-8.105 §9: Boundary Between Support Roles and Merits Decisions","level":2,"line_start":47,"line_end":67,"anchor":null},
         {"header":"CJS-8.105 §10: Institution-hosted or forum-adjacent operations","level":2,"line_start":68,"line_end":76,"anchor":null},
         {"header":"CJS-8.105 §11: Classification alignment for supervised scope","level":2,"line_start":77,"line_end":90,"anchor":null}
@@ -1544,7 +1543,7 @@
     "corpus_joint_structure/cjs_19.105_drafting_contracts.md": {
       "total_lines": 131,
       "sections": [
-        {"header":"CJS-19.105 §7–CJS-19.105 §8.1: Drafting contracts and owner-to-CJS seam","level":1,"line_start":1,"line_end":131,"anchor":null},
+        {"header":"CJS-19.105: Drafting contracts and owner-to-CJS seam","level":1,"line_start":1,"line_end":131,"anchor":null},
         {"header":"CJS-19.105 §7: Intentional overlap (non-duplication discipline)","level":2,"line_start":35,"line_end":54,"anchor":null},
         {"header":"CJS-19.105 §8: Two-layer definition contract (binding abstraction + owner detail)","level":2,"line_start":55,"line_end":131,"anchor":null},
         {"header":"CJS-19.105 §8.1 Implementation boundary (primary owner to CJS seam)","level":3,"line_start":95,"line_end":131,"anchor":null}
@@ -2428,9 +2427,9 @@
       ]
     },
     "corpus_forum/cf_14.475_sentience_status_record.md": {
-      "total_lines": 72,
+      "total_lines": 78,
       "sections": [
-        {"header":"Sentience-Status Adjudication Record (implementation protocol)","level":1,"line_start":1,"line_end":72,"anchor":null}
+        {"header":"Sentience-Status Adjudication Record (implementation protocol)","level":1,"line_start":1,"line_end":78,"anchor":null}
       ]
     }
   }

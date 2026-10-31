@@ -652,7 +652,7 @@ This Article sets out the floors for post-sale access and subscriptions:
 
 This Article sets out the floors for product data handling, collection notice, deletion, and network dependency:
 
-- **Data handling:** Operators must classify and handle data under this Article as [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md) requires, where incorporated under [Chapter Nineteen](core_19.000_incorporation.md). This includes the notice and deletion rules in [CS-6.305 §1.3 collection notice and deletion](corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [CS-6.305 §1.2 continuity-critical collection and exportability](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
+- **Data handling:** Operators must classify and handle data under this Article as [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) requires, where incorporated under [Chapter Nineteen](core_19.000_incorporation.md). This includes the notice and deletion rules in [CS-6.305 §1.3 collection notice and deletion](corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [CS-6.305 §1.2 continuity-critical collection and exportability](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
 - **Data collection notice:** Producers and operators of any product, device, or service that collects, infers, or transmits data about sentients must tell them, before collection begins and in a form they can find and understand:
   - what data is collected or inferred;
   - the purpose of each kind of data;
@@ -783,9 +783,9 @@ This Article states **constitutional floors** for survival and equal access unde
 Those rules may structure delivery. They must not be used to defeat any floor in this Article or to impose invidious exclusion contrary to this Article or **Article VI** (*Equal Basic Rights*).
 
 - **Fiscal orientation:** Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by:
-  - [**CI-9.210**](corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*);
-  - [**CI-6.210**](corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md) (*Public revenue, fees, recurring charges, and billing integrity*); and
-  - [**CI-6.215**](corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md) (*Resource stewardship and incentive integrity*).
+  - [**CI-9.210**](corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
+  - [**CI-6.210**](corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-6210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*); and
+  - [**CI-6.215**](corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md#ci-6215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
 - **Dependent systems:** When systems that sentients materially depend on supply, distribute, price, host, or cut off access to anything this Article protects — survival essentials, bodily-maintenance and healthcare services, or the conditions of productive work — [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) applies. Those systems' processes cannot be used to shrink the Rights Floors in this Article.
 
 #### Article III-A: Survival
@@ -1353,7 +1353,7 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
   - **No reliance on bad maps:** maps or records that are incomplete, out of date, or unavailable for audit cannot support a finding that the system pays its fair share back under **Article V-B** (*Cross-System Fairness and Sustainability*);
   - **Hiding is a defect:** obscuring, misstating, splitting up, or offloading dependency or resource-flow information is a certification defect, with consequences set by [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) and [§7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 - **Between certifications:** These duties do not pause between reviews, and they also bind systems below the certification trigger. Keeping maps current is what lets the next certification, audit, or challenge rely on them.
-- **Where the details live:** How maps are built, how flows are disclosed, allocation categories, and adaptive adjustment are spelled out in [**CS-6.335**](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and [**CS-6.325**](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*). Chapter Nine states what certification must verify and record.
+- **Where the details live:** How maps are built, how flows are disclosed, allocation categories, and adaptive adjustment are spelled out in [**CS-6.335**](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and [**CS-6.325**](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*). Chapter Nine states what certification must verify and record.
 
 #### Article V-B: Cross-System Fairness and Sustainability
 <details>
@@ -1373,8 +1373,8 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 - Downstream:
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) and
   - [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) (9.000 §5.3) (*what certification must verify and record*) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue;
-  - [**CS-6.335**](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and
-  - [**CS-6.325**](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*) (*allocation categories, reauthorization mechanics, and numeric targets*).
+  - [**CS-6.335**](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and
+  - [**CS-6.325**](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*) (*allocation categories, reauthorization mechanics, and numeric targets*).
 
 </details>
 

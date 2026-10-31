@@ -53,11 +53,14 @@
 
 Chapter Ten is the constitutional owner of **institutional alignment certification**. It extends the process of [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) from a System to an Institution:
 
-- **Phase I, Frame** and **Phase II, Evaluate:** the institution class and the institutional evaluation ([§2 Institution Class Evaluation](#2-institution-class-evaluation) to [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations));
-- **Phase III, Review**, **Phase IV, Decide**, and **Phase V, Record:** the forum roles, the outcome, remediation readiness with denial and revocation, and the Institutional Certification Record ([§6 Forum Process](#6-forum-process) to [§8 Institutional Certification Record](#8-institutional-certification-record)); and
+- **Phase I, Frame:** the institution class and how it scales the evaluation ([§2 Institution Class Evaluation](#2-institution-class-evaluation));
+- **Phase II, Evaluate:** the institutional evaluation, including the evaluations that apply where implicated and the Rights-Floor and domain evaluations ([§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) to [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations));
+- **Phase III, Review:** the forum roles and sequence ([§6 Forum Process](#6-forum-process));
+- **Phase IV, Decide:** the outcome, remediation readiness, and denial and revocation ([§7 Certification Outcomes](#7-certification-outcomes));
+- **Phase V, Record:** the Institutional Certification Record ([§8 Institutional Certification Record](#8-institutional-certification-record)); and
 - **Phase VI, Operate:** recertification, reopening, the cascade from System certifications, the challenge path, and the standing bridge ([§9 Recertification and Reopening](#9-recertification-and-reopening) to [§11 Relationship to Standing](#11-relationship-to-standing)).
 
-*In plain terms: Chapter Nine asks whether a **system** is aligned. Chapter Ten asks the same of the **institution** that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse. So the institution is checked on what only it controls: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the checks on it can actually be used. It relies on each system's certification and does not redo it. It is not a licence: nobody needs its permission to start or run an institution.*
+*In plain terms: Chapter Nine asks whether a **system** is aligned. Chapter Ten asks the same of the **institution** that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse. So the institution is checked on what only it controls: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used. It relies on each system's certification and does not redo it. It is not a licence: nobody needs its permission to start or run an institution.*
 
 <a id="1-purpose-and-role"></a>
 
@@ -84,39 +87,60 @@ Chapter Ten is the constitutional owner of **institutional alignment certificati
 
 *In plain terms: a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.*
 
-<a id="11-relation-to-system-alignment-certification"></a>
+Institutional alignment certification and System Alignment Certification are two certifications joined by a link. The relation is **composition by link**, not containment. In the figure, an arrow runs from a System Certification Record to each Institutional Certification Record that cites it. A System under no Institution has no arrow and needs none, and an Institution that runs no System has a record alone.
 
-#### 1.1 Relation to System Alignment Certification
+```mermaid
+flowchart TB
+    S1[["Chapter Nine — System Certification Record, System 1<br/><br/>Outside this chapter"]]
+    S2[["Chapter Nine — System Certification Record, System 2<br/><br/>Outside this chapter"]]
+    I1["§8 Institutional Certification Record, Institution A<br/><br/>Cites Systems 1 and 2 by link and version;<br/>adds only what the Institution answers for"]
+    I2["§8 Institutional Certification Record, Institution B<br/><br/>Cites System 2 by the same link;<br/>never copies or re-decides it"]
+    S1 -.->|cited by link| I1
+    S2 -.->|cited by link| I1
+    S2 -.->|cited by link| I2
+    style S1 fill:none,stroke:#16a34a,color:#ffffff
+    style S2 fill:none,stroke:#16a34a,color:#ffffff
+    style I1 fill:none,stroke:#2563eb,color:#ffffff
+    style I2 fill:none,stroke:#2563eb,color:#ffffff
+```
 
-Institutional alignment certification and System Alignment Certification are two certifications joined by a link. The relation is **composition by link**, not containment:
+Composition by link has two sides, the Institution's first.
 
-- **The System Certification Record belongs to the System:** An Institutional Certification Record cites it by link and names its version. This Chapter never re-runs a System evaluation, never re-decides a System's class, and never changes a System's outcome, status, or conditions.
-- **One System Certification Record may be cited by several Institutions:** A System can be operated, stewarded, or materially controlled by more than one Institution under [Chapter Seven §1 When System and Institutional Charters Are Required](core_07.000_charters.md#1-when-system-and-institutional-charters-are-required). Each cites the same record.
-- **A System need not sit under any Institution:** A single sentient is not an Institution, so a System may have none. Its certification is complete without this Chapter.
+On the Institution's side:
+
+- **An Institutional Certification Record cites a System's and does not redo it:** It cites the System Certification Record by link and names its version. This Chapter never re-runs a System evaluation, never re-decides a System's class, and never changes a System's outcome, status, or conditions.
 - **The Institution's certification cannot lift a System's:** A System that is Not Certified stays Not Certified whatever the Institution's status. A System that holds certification gains no protection from an Institution's finding.
 - **Institutional facts are found once:** Where [Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) asks about the operator's governance and incentives, a current Institutional Certification Record for the operator may supply those facts by link. The System's forums still decide whether those facts are enough for that System. They may not find the same institutional fact differently without saying why on the System Certification Record.
 
-<a id="12-who-is-certified"></a>
+On the System's side:
 
-#### 1.2 Who is certified
+- **The System Certification Record belongs to the System:** It is the System's own record under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- **One System Certification Record may be cited by several Institutions:** A System can be operated, stewarded, or materially controlled by more than one Institution under [Chapter Seven §1 When System and Institutional Charters Are Required](core_07.000_charters.md#1-when-system-and-institutional-charters-are-required). Each cites the same record.
+- **A System need not sit under any Institution:** A single sentient is not an Institution, so a System may have none. A System with no Institution is certified under [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) alone and needs nothing from this Chapter. A System that does sit under an Institution is certified the same way: this Chapter adds a separate record for the Institution and is not a step in the System's own certification.
 
-An Institution of Class L or higher is within this Chapter, with the class decided under [§2.1 Institution class](#21-institution-class). That includes an Institution that runs no System that needs a System Charter, which has no certification of any kind under Chapter Nine.
+<a id="11-who-is-certified"></a>
+
+#### 1.1 Who is certified
+
+An Institution of Class L or higher is within this Chapter, with the class decided under [§2.1 Institution class](#21-institution-class). That includes an Institution that runs no System at all: it has no System Certification Record to cite, and its class comes from its own impact.
 
 - **Class A, B, C, and L:** the process applies, scaled by class under [§2.2 Scaling by class](#22-scaling-by-class).
 - **Class P:** the process is encouraged and may be used voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the Institution voluntarily asserts constitutional compliance. This mirrors [Part A §1 Purpose and Role](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role).
 - **One System:** an Institution that runs exactly one System that needs a System Charter has one pass and one record. The System Certification Record carries an *institutional findings block* with the items in [§8 Institutional Certification Record](#8-institutional-certification-record), and it serves as the Institutional Certification Record. Forums, seats, and clocks are those of the System pass, with the institutional items added. The cascade in [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications) does not apply, since the System is the whole portfolio.
-- **Several Systems:** an Institutional Certification Record, linking each System Certification Record.
-- **No System:** an Institutional Certification Record alone.
+- **Several Systems:** one Institutional Certification Record for the Institution, which links to the System Certification Record of each System it runs. Each System keeps its own pass and its own record.
+- **No System:** one Institutional Certification Record on its own. It has no System Certification Record to link to, because the Institution runs no System.
 
-<a id="13-no-permission-and-no-gate"></a>
+<a id="12-no-permission-and-no-gate"></a>
 
-#### 1.3 No permission and no gate
+#### 1.2 No permission and no gate
 
-Institutional alignment certification is a check on an Institution, made by forums independent of it. It does not grant or withhold the right to form, to publish an Institutional Charter, to begin to exercise authority, or to keep operating, and no Institution has to hold it first.
+Institutional alignment certification is an independent check on how an Institution actually uses its authority. Forums independent of the Institution make it, and it ends in an Institutional Certification Record of what they found.
 
-- **Systems keep their own go-live gate:** The go-live gate in [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) stays with Systems. A new System, or a material expansion of one, goes live only through its own certification, whatever the Institution's status.
+- **Starting and operating:** An Institution forms, publishes its Institutional Charter, begins to exercise authority, and keeps operating without first holding it, and no outcome grants or withholds that right.
+- **Effect of an outcome:** An outcome has only the effects in [§7.1 No go-live gate: the effect of an outcome](#71-no-go-live-gate-the-effect-of-an-outcome).
 - **The only gates in this area:** There are three narrow gates, all in **Article XI-E** (*Institutional Formation and Business Creation*):
-  - an outstanding lock and an Interim Hold on specific verified facts of misalignment, which attach to a named sentient's authority;
+  - an outstanding lock on a named sentient, which attaches to that sentient's authority;
+  - an Interim Hold on specific verified facts of misalignment, which also attaches to a named sentient's authority;
   - a lock on an Operating Party itself, which attaches to an Institution only where a lock sits on that Institution, as one does on a dissolved Institution under **CI-12.210 §4** (*Dissolution*).
 
   A certification finding can be referred to the forum that decides one of these gates, as evidence under [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution). A certification outcome is not itself a gate and does not open or close one.
@@ -124,15 +148,17 @@ Institutional alignment certification is a check on an Institution, made by foru
   - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) applies to the cost of the process.
   - [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) applies to its depth.
 
-<a id="14-window-for-the-first-certification"></a>
+The go-live gate for Systems is separate and stays with them. Under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate), a new System, or a material expansion of one, goes live only through its own certification, whatever the Institution's status.
 
-#### 1.4 Window for the first certification
+<a id="13-window-for-the-first-certification"></a>
+
+#### 1.3 Window for the first certification
 
 A first Institutional Certification Record is due within a window the adopting document sets for the Institution's class.
 
-- **A new Institution:** The window runs from the day it begins to exercise authority over others, and its first certification is provisional.
+- **A new Institution:** The window runs from the day it first has a material impact on others, as [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) judges it, and its first certification is provisional.
 - **One already operating:** The window is the Adoption Transition window under [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), consistent with the default in [Chapter Seven §1.5 When a System Charter or Institutional Charter is due](core_07.000_charters.md#15-when-a-system-charter-or-institutional-charter-is-due).
-- **A missed window:** An Institution that lets the window run out without a first pass has a defect to log and correct, and the missed window opens that pass. The Institution is not stopped or barred from operating, since there is no gate ([§1.3 No permission and no gate](#13-no-permission-and-no-gate)).
+- **A missed window:** An Institution that lets the window run out without a first pass has a defect to log and correct, and the missed window opens that pass. The Institution is not stopped or barred from operating, since there is no gate ([§1.2 No permission and no gate](#12-no-permission-and-no-gate)).
   - **The pass:** It is decided like any other. It can end in any outcome in [§7 Certification Outcomes](#7-certification-outcomes), including Not Certified, with the effects in [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution).
   - **Sanctions and dissolution:** This Chapter creates none. Suspension, receivership, structural separation, and dissolution stay with the forum with jurisdiction under **CI-12.210** (*Institutional failure and dissolution*) and **CI-12.215** (*Institutional accountability and sanctions*). That forum receives a referral only on the grounds in [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution) (*Referral*).
 
@@ -157,7 +183,7 @@ A first Institutional Certification Record is due within a window the adopting d
 
 <br>
 
-*In plain terms: first work out how much the institution matters, by what it actually does and holds.*
+*In plain terms: first sort the institution into a class by how much it matters to others. Judge that by what it actually decides and holds, not by what it calls itself. The class then sets how thorough the evaluation is: the higher the class, the stricter the proof, the more independent the review, and the sooner it is checked again.*
 
 This section is **Phase I, Frame** for an Institution.
 
@@ -165,19 +191,23 @@ This section is **Phase I, Frame** for an Institution.
 
 #### 2.1 Institution class
 
-**Institution class** is decided by what the Institution actually decides, holds, and controls, and not by its label, legal form, or the list in its Institutional Charter. The class governs the depth of the evaluation and the clocks, as [Part A §2.2 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation) does for a System.
+**Institution class** is decided by the greatest material impact the Institution has, whether that impact comes through a System it runs or outside any System. It is judged by what the Institution actually decides, holds, and controls, and not by its label, legal form, or the list in its Institutional Charter. The class governs the depth of the evaluation and the clocks, as [Part A §2.2 How system class scales every evaluation](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation) does for a System. It is the class used in this Chapter and in [Chapter Seven §1.2 Which classes are covered](core_07.000_charters.md#12-which-classes-are-covered).
 
-1. **Portfolio rule:** An Institution takes the highest class of any System it operates, stewards, or materially controls ([Chapter Seven §1 When System and Institutional Charters Are Required](core_07.000_charters.md#1-when-system-and-institutional-charters-are-required)). The Systems are found from observed operation. A System missing from the Institutional Charter still counts.
-2. **Own impact:** An Institution that runs no such System is classified by its own material impact and dependency. The class definitions of **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*) are applied to the Institution's own decisions and holdings, using these factors:
-   - what it decides about other sentients' access to survival essentials, education, safety, livelihood, rights, or standing;
-   - what it holds, such as funds, records, memberships, custody of standing records, or the function of a forum, certifier, or record office;
-   - whether its own activity is material in any domain of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), including taking [Materially Binding Acts](core_05.035_band_accountability.md#materially-binding-act) that others must follow or may rely on as settled: an Institution that is material in any one domain is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*), and giving aid, goods, labor, or services that no one is required to accept, and that gate no one's access, is conduct and not such an act;
-   - how many sentients depend on it, and how substitutable it is;
-   - how concentrated its authority is, within the meaning of the Material Control Line; and
-   - how reversible its decisions are.
-3. **Own impact above the portfolio:** Where an Institution's own decisions and holdings fall in a higher class than its Systems, the higher class governs the items in [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) that concern the Institution alone. The portfolio rule still sets the Institution's class for Chapter Seven.
-4. **Common control:** Operating Parties that are one operation under the aggregation rule of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) (common practical control within a [Material Control Line](core_05.035_band_accountability.md#material-control-line); funding alone does not count) are classified together where they act as one Institution in practice. Dividing an Operating Party, its portfolio, or its authority so that no part reaches Class L is a scope-and-boundary evasion under [Chapter Three §2.1 Common Evasion Patterns](core_03.000_definition_integrity.md#21-common-evasion-patterns).
-5. **Reclassification:** The class is reassessed on the triggers in [§9.2 Reopening triggers](#92-reopening-triggers). The classification is stated on the Institutional Certification Record with its reasons.
+1. **Impact through Systems:** An Institution's class is at least the highest class of any System it operates, stewards, or materially controls ([Chapter Seven §1 When System and Institutional Charters Are Required](core_07.000_charters.md#1-when-system-and-institutional-charters-are-required)). The Systems are found from observed operation. A System missing from the Institutional Charter still counts.
+2. **Impact outside any System:** An Institution's own material impact and dependency count whether or not it runs a System. The class definitions of **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*) are applied to the Institution's own decisions and holdings, using these factors:
+   - **What it decides and holds:**
+     - what it decides about other sentients' access to survival essentials, education, safety, livelihood, rights, or standing; and
+     - what it holds, such as funds, records, memberships, custody of standing records, or the function of a forum, certifier, or record office.
+   - **Whether it is material:**
+     - whether its own activity is material in any domain of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), including taking [Materially Binding Acts](core_05.035_band_accountability.md#materially-binding-act) that others must follow or may rely on as settled;
+     - an Institution that is material in any one domain is at least Class L under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*); and
+     - giving aid, goods, labor, or services that others are free to take or leave, and that do not control anyone's access to what they need, binds no one. It is conduct and not a Materially Binding Act, and it counts only through the other factors.
+   - **How much depends on it:**
+     - how many sentients depend on it, and how substitutable it is;
+     - how concentrated its authority is, within the meaning of the Material Control Line; and
+     - how reversible its decisions are.
+3. **Common control:** Operating Parties that are one operation under the aggregation rule of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) (common practical control within a [Material Control Line](core_05.035_band_accountability.md#material-control-line); funding alone does not count) are classified together where they act as one Institution in practice. Dividing an Operating Party, its portfolio, or its authority so that no part reaches Class L is a scope-and-boundary evasion under [Chapter Three §2.1 Common Evasion Patterns](core_03.000_definition_integrity.md#21-common-evasion-patterns).
+4. **Reclassification:** The class is reassessed on the triggers in [§9.2 Reopening triggers](#92-reopening-triggers). The classification is stated on the Institutional Certification Record with its reasons.
 
 <a id="22-scaling-by-class"></a>
 
@@ -187,7 +217,7 @@ The institution class scales the depth of evidence, the independence of the revi
 
 - **Class A, B, and C:** all seven items in [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation), with evidence and independence in proportion to the class.
 - **Class L:** the same seven items, simplified, with simpler records and a lower default cadence where [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) allows. The core of a Class L pass is the Institutional Charter against practice, the Role Map, the formation check statement, and the currency of the cited System certifications. No item may be omitted, and an item with nothing to find is stated in a line.
-- **Class P:** voluntary, as [§1.2 Who is certified](#12-who-is-certified) states.
+- **Class P:** voluntary, as [§1.1 Who is certified](#11-who-is-certified) states.
 
 **A host in a joint professional practice.** Where an Institution is a host ([**CI-15.205 §7**](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-advisory) (*Practice licence, practice clearance, and joint professional practice*)), its certification also samples members' acts against the seats the host carries and reads the members' adoption notices against what the host does. A finding about one member's act is a finding about that member, and it reaches the host only where a seat the host carries failed.
 
@@ -214,19 +244,55 @@ The institution class scales the depth of evidence, the independence of the revi
 
 <br>
 
-*In plain terms: check the things that belong to the institution and not to any one of its systems: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the checks on it work.*
+*In plain terms: check the things that belong to the institution and not to any one of its systems: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the independent checks on it work.*
 
 This section is **Phase II, Evaluate** for an Institution.
 
 Every pass evaluates these seven items, which are the institutional counterpart of [Part A §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation). Each finding states its evidence and the Institutional Charter text or observed operation it rests on.
 
-1. **Institutional Charter against practice:** The Institutional Charter is tested against observed operation, using the review list in [Chapter Seven §7 Amendment and Review](core_07.000_charters.md#7-amendment-review-and-scope-misalignment). Practice outside the Institutional Charter, or an Institutional Charter that no longer describes practice, is a finding whichever is wrong.
-2. **Portfolio and aggregate effect:** The portfolio rationale is tested: each System traces to the Institution's stated purpose, and a System with no stated reason is a finding. The evaluation also looks across the Systems for what none of their certifications can show alone: shared dependencies, aggregate reliance, cumulative extraction from shared foundations, and any arrangement that splits one function into parts so that each part escapes a class or a duty.
-3. **Accountable authority:** Each authority the Institution exercises over others is attributable to an accountable office that can be named, and that office is answerable under the rules of [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) and **CI-8.205 §3** (*authority chain and delegation controls*). A change of ownership, control, or structure does not release responsibility ([Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes)).
-4. **Rewards and incentives:** The Institution's own pay, promotion, targets, and rewards are put to the [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions): what the structure actually rewards, and whether that points toward the Constitution's two aims or away from them. A reward structure that pays for misalignment, or for hiding it, is a finding even where every System is individually certified. The institutional duties on incentive integrity stay with **CI-6.215** (*Resource stewardship and incentive integrity*) and are cited, not restated.
-5. **Role Map and custody:** The [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) names offices that exist, are filled or substituted as it says, and sit outside the Institution's [Material Control Line](core_05.035_band_accountability.md#material-control-line) where the Institution is the subject. The independent route can be used in fact. A seat left unplaced, a dead office, or a record custodian inside the Institution's own line is a finding.
-6. **Currency of each cited System certification:** For each System the Institution runs, the evaluation checks that a System Certification Record is in force or inside its Adoption Transition window, and that the Institution has done what that record's conditions require of the Institution. An expired, withdrawn, failed, or missing certification with no recorded reason is a finding that [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications) then carries to the Institution.
-7. **Office-holder standing and authenticity:** The formation check statement published under [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) is tested against observed operation and is not taken on attestation. For each covered office the forums check the standing facts against verified records, and find authenticity from evidence on control, interests and rewards, conduct, and protected voice. That means who actually directs the holder, what the holder is paid and promoted for, what the holder has verifiably done in the function, and whether anyone who raised a concern or refused an instruction was penalized. The staff safeguards check is tested the same way. Each of these is a finding: a holder who is a nominee for an undisclosed controller, a covered office that exists only on paper, a reward structure that pays holders for crossing the Institutional Charter's limits, and a statement that is false or incomplete. Findings are about the office and the structure. They attach to a named sentient only through the verified-input gate in [§11 Relationship to Standing](#11-relationship-to-standing). The check is not a test of belief, although a verified statement that others deserve harm or discriminatory treatment is conduct and counts against the holder, as [Chapter One §7.5 Expression and the Harm Line](core_01.000_values_principles.md#75-expression-and-the-harm-line) sets out. Items 3, 4, and 5 are read with this one, and a fact found under one of them is not found again under another.
+1. **Institutional Charter against practice:**
+   - The Institutional Charter is tested against observed operation, using the review list in [Chapter Seven §7 Amendment and Review](core_07.000_charters.md#7-amendment-review-and-scope-misalignment).
+   - Practice outside the Institutional Charter, or an Institutional Charter that no longer describes practice, is a finding whichever is wrong.
+2. **Portfolio and aggregate effect:**
+   - The portfolio rationale is tested: each System traces to the Institution's stated purpose, and a System with no stated reason is a finding.
+   - The evaluation also looks across the Systems for what none of their certifications can show alone:
+     - shared dependencies;
+     - aggregate reliance;
+     - cumulative extraction from shared foundations; and
+     - any arrangement that splits one function into parts so that each part escapes a class or a duty.
+3. **Accountable authority:**
+   - Each authority the Institution exercises over others is attributable to an accountable office that can be named, and that office is answerable under the rules of [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) and **CI-8.205 §3** (*authority chain and delegation controls*).
+   - A change of ownership, control, or structure does not release responsibility ([Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes)).
+4. **Rewards and incentives:**
+   - The Institution's own pay, promotion, targets, and rewards are put to the [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions): what the structure actually rewards, and whether that points toward the Constitution's two aims or away from them.
+   - A reward structure that pays for misalignment, or for hiding it, is a finding even where every System is individually certified.
+   - The institutional duties on incentive integrity stay with **CI-6.215** (*Resource stewardship and incentive integrity*) and are cited, not restated.
+5. **Role Map and custody:**
+   - The [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) names offices that exist, are filled or substituted as it says, and are [independent](core_05.035_band_accountability.md#independence) of the Institution for any record in which the Institution is the subject.
+   - The independent route can be used in fact.
+   - A seat left unplaced, a dead office, or a record custodian inside the Institution's own line is a finding.
+6. **Currency of each cited System certification:**
+   - For each System the Institution runs, the evaluation checks that a System Certification Record is in force or inside its Adoption Transition window, and that the Institution has done what that record's conditions require of the Institution.
+   - An expired, withdrawn, failed, or missing certification with no recorded reason is a finding that [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications) then carries to the Institution.
+7. **Office-holder standing and authenticity:**
+   - The formation check statement published under [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) is tested against observed operation and is not taken on attestation.
+   - For each covered office the forums check the standing facts against verified records, and find authenticity from evidence on control, interests and rewards, conduct, and protected voice. That means:
+     - who actually directs the holder;
+     - what the holder is paid and promoted for;
+     - what the holder has verifiably done in the function; and
+     - whether anyone, the holder included, who made a [protected report](core_05.035_band_accountability.md#protected-reporting-whistleblowing) or refused an unlawful or unconstitutional instruction ([Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) was penalized for it.
+   - Staff who hold no covered office are not checked one by one. The staff safeguards check ([Chapter Seven §5.6 Staff safeguards check](core_07.000_charters.md#56-staff-safeguards-check)) covers them, and the forums test it against observed operation in the same way. It asks whether:
+     - the Institution's appointment, pay, promotion, and removal rules do not reward working against its stated purpose;
+     - a protected reporting route exists, and no staff member who used it, or who refused an unlawful or unconstitutional instruction, has been penalized; and
+     - the rights in [Article III-C](core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) are intact.
+   - Each of these is a finding:
+     - a holder who is a nominee for an undisclosed controller;
+     - a covered office that exists only on paper: the Institutional Charter or Charter Role Map names it, but no one actually holds it and does its work;
+     - a reward structure that pays holders for doing what the Institutional Charter's published limits forbid; and
+     - a statement that is false or incomplete.
+   - Findings are about the office and the structure. They attach to a named sentient only through the verified-input gate in [§11 Relationship to Standing](#11-relationship-to-standing).
+   - The formation check is not a test of belief, although a verified statement that others deserve harm or discriminatory treatment is conduct and counts against the holder, as [Chapter One §7.5 Expression and the Harm Line](core_01.000_values_principles.md#75-expression-and-the-harm-line) sets out.
+   - Items 3, 4, and 5 are read with this one, and a fact found under one of them is not found again under another.
 
 <a id="4-evaluations-where-implicated"></a>
 
@@ -248,7 +314,7 @@ Every pass evaluates these seven items, which are the institutional counterpart 
 
 <br>
 
-*In plain terms: where the institution's own conduct touches one of the areas a system is checked on when it is implicated, the same check is made on the institution, once.*
+*In plain terms: where the institution's own conduct touches one of the areas a system is checked on when it is implicated, the same evaluation is made on the institution, once.*
 
 Where an Institution's own conduct implicates a Rights Floor or a domain covered by [Part A §4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), the matching evaluation runs on the Institution's own conduct, with the same triggers. The institutional duties themselves are owned by adopted institutional text, including **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-6.215** (*Resource stewardship and incentive integrity*), and **CI-12.205** (*Remedy systems and institutional redress capacity*). This Chapter cites them and does not restate them. An evaluation already made on a cited System Certification Record is not made again.
 
@@ -375,7 +441,7 @@ The outcomes are those of [Part B §7 Certification Outcomes](core_09.005_system
 
 #### 7.1 No go-live gate: the effect of an outcome
 
-Because there is no gate ([§1.3 No permission and no gate](#13-no-permission-and-no-gate)), the **effect** of an outcome is limited to these:
+Because there is no gate ([§1.2 No permission and no gate](#12-no-permission-and-no-gate)), the **effect** of an outcome is limited to these:
 
 - **The status on the record:** The Institution's status is stated, published, and open to challenge. An Institution that is Not Certified may not describe itself as certified.
 - **Conditions and reliance limits tied to the defect:** A condition or limit attaches to the authority, practice, or structure the finding concerns, and it states its owner, deadline, evidence, independent verifying authority, and consequence, as Part B §7.1 Go-Live Gate requires. A condition cannot reach beyond the defect. It cannot require the Institution to stop forming Systems, to seek leave to operate, or to change matters the findings do not touch.
@@ -391,7 +457,7 @@ The Institution's status is evidence in the certification of each System it runs
 
 #### 7.2 Certification defects and correction
 
-[Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction) applies to a defect found in an Institution's pass, with the findings under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) and [§4 Evaluations Where Implicated](#4-evaluations-where-implicated) in place of the Part A evaluations it lists. The choices open to the forums, the statement of the affected scope, interim protection and reliance limits, and corrective work, and the rule that correction is independently verified before it supports release from conditions, are those of Part B §7.2 Certification Defects and Correction. A condition cannot reach beyond the defect ([§7.1 No go-live gate: the effect of an outcome](#71-no-go-live-gate-the-effect-of-an-outcome)). The last paragraph of [Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction), on a System that is Not Certified beginning new operation, is a rule for Systems and does not apply to an Institution ([§1.3 No permission and no gate](#13-no-permission-and-no-gate)).
+[Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction) applies to a defect found in an Institution's pass, with the findings under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) and [§4 Evaluations Where Implicated](#4-evaluations-where-implicated) in place of the Part A evaluations it lists. The choices open to the forums, the statement of the affected scope, interim protection and reliance limits, and corrective work, and the rule that correction is independently verified before it supports release from conditions, are those of Part B §7.2 Certification Defects and Correction. A condition cannot reach beyond the defect ([§7.1 No go-live gate: the effect of an outcome](#71-no-go-live-gate-the-effect-of-an-outcome)). The last paragraph of [Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction), on a System that is Not Certified beginning new operation, is a rule for Systems and does not apply to an Institution ([§1.2 No permission and no gate](#12-no-permission-and-no-gate)).
 
 <a id="73-remediation-readiness-for-an-institution"></a>
 
@@ -403,7 +469,7 @@ The Institution's status is evidence in the certification of each System it runs
 
 - **Who is asked:** The Institution's governing authority is the proponent and supplies the evidence. The lead Integrity Forum decides the finding. Institutional Forums hold the governance, authority, and incentive evidence, and Technical Forums hold any capacity evidence that needs measurement ([§6.2 Forum roles and sequence](#62-forum-roles-and-sequence)).
 - **Willingness, for an Institution,** includes whether it is changing its own reward structure where that structure caused the finding; replacing or disclosing a holder found not authentic under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) (item 7); restoring an independent Role Map placement; correcting its Institutional Charter or its portfolio; and answering for a System whose cause finding traced to it under [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications).
-- **Capacity, for an Institution,** includes whether the offices that must act hold the authority to do so under **CI-8.205 §3** (*Authority chain and delegation controls*); whether it has the funds, staffing, and succession for the work (**CI-15.205 §1** (*Shared staffing and competency requirement*); **CI-12.205** (*Remedy systems and institutional redress capacity*)); and whether the checks on it can in fact be used.
+- **Capacity, for an Institution,** includes whether the offices that must act hold the authority to do so under **CI-8.205 §3** (*Authority chain and delegation controls*); whether it has the funds, staffing, and succession for the work (**CI-15.205 §1** (*Shared staffing and competency requirement*); **CI-12.205** (*Remedy systems and institutional redress capacity*)); and whether the independent checks on it can in fact be used.
 - **One System:** An Institution that runs exactly one System has one readiness check on the one pass.
 
 <a id="74-denial-and-revocation-for-an-institution"></a>
@@ -415,7 +481,7 @@ The Institution's status is evidence in the certification of each System it runs
 - **Grounds and process:** The grounds for denial and for revocation, the protection first rule, the process, and the bar on a permanent exclusion are those of Part B §7.4 Denial and Revocation, with the Institution's governing authority and the institutional findings in place of the operator and the system.
 - **One System:** A denial or revocation of the one pass applies to the System under Part B §7.4 Denial and Revocation and to the Institution's status under this subsection.
 
-**Effect:** Because there is no gate ([§1.3 No permission and no gate](#13-no-permission-and-no-gate)), the effect of an institutional denial or revocation is limited to these:
+**Effect:** Because there is no gate ([§1.2 No permission and no gate](#12-no-permission-and-no-gate)), the effect of an institutional denial or revocation is limited to these:
 
 1. **Status:** The Institution is published as Not Certified and may not describe itself as certified.
 2. **Notice** to those who rely on the Institution and to the forums of each System that cites its record.

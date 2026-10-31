@@ -1,9 +1,9 @@
-# Oversight leg (CJS-5.110 §2–CJS-5.110 §6) / oDef.2–oDef.6
+# CJS-5.110: Oversight leg operations (oDef.2–oDef.6)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Oversight leg (CJS-5.110 §2–CJS-5.110 §6 / oDef.2–oDef.6)**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Nineteen](../core_19.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) through **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -25,7 +25,7 @@
 
 Core home: 05
 
-This file is the joint-structure implementation home for **Oversight leg (CJS-5.110 §2 (*Oversight: reflexive transparency and accountability terms*)–CJS-5.110 §6 (*Oversight: integrity assurance and resilience operations*) / oDef.2–oDef.6)**. **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*) is held here as the annex; its audit process home is [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home).
+This file is the joint-structure implementation home for **Oversight leg (CJS-5.110 §2 (*Oversight: reflexive transparency and accountability terms*)–CJS-5.110 §6 (*Oversight: integrity assurance and resilience operations*) / oDef.2–oDef.6)**. **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*) is held here as the annex; its audit process home is [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3).
 
 *In plain terms: These clusters carry the **Oversight** leg into working terms: making a system explain itself, keeping enough record to reconstruct what happened, scaling who may see what, verifying claims independently, and keeping assurance itself resilient. They must be read together, because one strong control cannot rescue a weak link elsewhere.*
 
@@ -33,11 +33,11 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 | Cluster | Section |
 |---|---|
 | **CJS-5.110 §2** / **oDef.2** | Oversight: reflexive transparency and accountability terms |
-| **CJS-5.110 §3 and CJS-5.115 §3** / **oDef.3** | Oversight: auditability and reconstructability terms (**OP annex** — process home is [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)) |
+| **CJS-5.110 §3 and CJS-5.115 §3** / **oDef.3** | Oversight: auditability and reconstructability terms (**OP annex** — process home is [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)) |
 | **CJS-5.110 §4** / **oDef.4** | Oversight: transparency levels and audit-access terms (annex — including audit-process output disclosure) |
 | **CJS-5.110 §5** / **oDef.5** | Oversight: independent verification and claim-integrity terms (annex) |
 | **CJS-5.110 §6** / **oDef.6** | Oversight: integrity assurance and resilience operations |
-**Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)**. This file keeps the machine-facing Oversight OP clusters.
+**Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)**. This file keeps the machine-facing Oversight OP clusters.
 
 ---
 
@@ -55,7 +55,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
   - **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*).
 - Read with: **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** (*audit process home*)
+- Read with: **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)** (*audit process home*)
 - Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
@@ -146,10 +146,10 @@ Enforcement-capacity realism requirements
 <a id="misrepresentation-and-violation-signaling"></a>
 Misrepresentation and violation signaling
 
-*In plain terms: misstating compliance, audit status, validation level, or system behavior is an integrity breach — not a communications problem.*
+*In plain terms: misstating compliance, audit status, validation level, or system behavior is an integrity violation — not a communications problem.*
 
 - **What it is**
-  - **In scope:** Misstating compliance, audit status, validation level, or system behavior is an integrity breach.
+  - **In scope:** Misstating compliance, audit status, validation level, or system behavior is an integrity violation.
   - **Out of scope:** ordinary drafting error or non-material wording variance with no compliance, audit, validation, or behavior claim at stake.
 <a id="misrepresentation-and-violation-signaling-a"></a>
 - **How to measure and assess**
@@ -254,9 +254,9 @@ Transparency, audit, and verification-integrity duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)**).
+- Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)**).
 - Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*); **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*); **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*); **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*).
-- Read with: **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** — what / why / how / when; this section is the machine-facing annex only
+- Read with: **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)** — what / why / how / when; this section is the machine-facing annex only
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*) (*transparency levels and audit-access terms* — annex for access levels and audit-output disclosure)
 - Read with: **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
@@ -287,7 +287,7 @@ Transparency, audit, and verification-integrity duties
 
 <br>
 
-*In plain terms: this is the machine-facing auditability checklist for **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** — Oversight: auditability and reconstructability terms (annex). Start at the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** for what / why / how / when.*
+*In plain terms: this is the machine-facing auditability checklist for **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home (oDef.3)*). Start at the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)** for what / why / how / when.*
 
 The guidepost **oDef** rules below are the compliance checklist for the process home. They do not replace the what / why / how / when guide. Access levels and audit-output disclosure continue in **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*); independent claim verification continues in **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*).
 
@@ -387,7 +387,7 @@ Operational transparency and structured logging requirements
   - **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*);
   - **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and
   - **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*).
-- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*) (*audit process home* — what / why / how / when in [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home); this cluster is the access-level and output-disclosure annex)
+- Read with: **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*) (*audit process home* — what / why / how / when in [cjs_05.115_audit_process.md](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3); this cluster is the access-level and output-disclosure annex)
 - Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-5.130 §20** (*Continuity: reversibility and containment terms*) and **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
@@ -415,9 +415,9 @@ Operational transparency and structured logging requirements
 
 <br>
 
-*In plain terms: this cluster is the access-level and audit-output annex to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** — not the process home itself.*
+*In plain terms: this cluster is the access-level and audit-output annex to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)** — not the process home itself.*
 
-Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home) (*Oversight: auditability and reconstructability terms (annex)*)**.
+Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) (*Audit process home (oDef.3)*)**.
 
 <a id="transparency-levels-and-audit-access-terms"></a>
 transparency levels and audit-access terms
@@ -602,7 +602,7 @@ Access-level structure and baseline accessibility
 
 - Read with: **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*); **CJS-5.110 §4** (*Oversight: transparency levels and audit-access terms*).
 - Read with: **CJS-5.110 §5 — Oversight: independent verification and claim-integrity terms**
-- Read with: **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** (*audit process home*)
+- Read with: **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)** (*audit process home*)
 - Read with: **CJS-5.110 §4 — Transparency Levels and Audit Access**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
 - Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**
@@ -627,9 +627,9 @@ Access-level structure and baseline accessibility
 
 <br>
 
-*In plain terms: this cluster is the claim-checking annex to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home)** — how material claims stay independently testable.*
+*In plain terms: this cluster is the claim-checking annex to the **[CJS-5.115 §3 audit process home](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3)** — how material claims stay independently testable.*
 
-Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together. For the shared audit process (what / why / how / when), start at **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3--odef3-audit-process-home) (*Oversight: auditability and reconstructability terms (annex)*)**.
+Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together. For the shared audit process (what / why / how / when), start at **[CJS-5.115 §3](cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) (*Audit process home (oDef.3)*)**.
 
 <a id="independent-verification-and-claim-integrity-terms"></a>
 independent verification and claim-integrity terms
@@ -921,9 +921,9 @@ Cross-institution coordination and escalation chain
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in cross-institution coordination and escalation chain.
 <a id="cross-institution-coordination-and-escalation-chain-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-14.435**](../corpus_forum/cf_14.435_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_14.000_forum.md` **Chapter Fourteen**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation
+  - **Primary measure:** conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-14.435**](../corpus_forum/cf_14.435_independent_investigative_service_prosecution_interface.md#cf-14435-independent-investigative-service-and-prosecution-interface) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_14.000_forum.md` **Chapter Fourteen**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation
 
-    **Primary assessment:** Evaluation must verify conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-14.435**](../corpus_forum/cf_14.435_independent_investigative_service_prosecution_interface.md) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_14.000_forum.md` **Chapter Fourteen**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation.
+    **Primary assessment:** Evaluation must verify conflict-order handling, deadlock-breaker path, evidence-sharing boundaries, accountability assignment, external-review triggers for persistent internal deadlock, independent-investigative-service backup routing under [**CF-14.435**](../corpus_forum/cf_14.435_independent_investigative_service_prosecution_interface.md#cf-14435-independent-investigative-service-and-prosecution-interface) (*Independent investigative service and prosecution interface*), cross-forum anti-self-judging routing under `core_14.000_forum.md` **Chapter Fourteen**, and records sufficient to review transfer, recusal, unavailability, backup designation, and lawful-panel formation.
 <a id="cross-institution-coordination-and-escalation-chain-c"></a>
 - **What must hold**
   - **Primary failure:** Leave shared jurisdiction without a usable escalation path, to resolve deadlock through the body whose independence is materially contested, to transfer matters without a reasoned record, or to let emergency incapacity, concentration, capture indicators, local enforcement involvement, security-service involvement, private-contractor involvement, or parallel-body involvement defeat independent backup routing.
@@ -948,10 +948,10 @@ External assurance trigger minimum
 <a id="incident-and-assurance-notification-urgency-nu"></a>
 Incident and assurance notification urgency (NU)
 
-*In plain terms: material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and…*
+*In plain terms: material control failures, integrity incidents, data-handling incidents, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and…*
 
 - **What it is**
-  - **In scope:** Material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and class. Routine annual or other baseline attestations do not replace incident-driven notice. Institutions must publish default **Notification Urgency** (**NU**) aligned with Correction Urgency (**CU**) discipline in **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) where both apply: **NU-1** through **NU-3** take the same tier columns as **CU-1** through **CU-3**.
+  - **In scope:** Material control failures, integrity incidents, data-handling incidents, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and class. Routine annual or other baseline attestations do not replace incident-driven notice. Institutions must publish default **Notification Urgency** (**NU**) aligned with Correction Urgency (**CU**) discipline in **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) where both apply: **NU-1** through **NU-3** take the same tier columns as **CU-1** through **CU-3**.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in incident and assurance notification urgency (NU).
 <a id="incident-and-assurance-notification-urgency-nu-a"></a>
 - **How to measure and assess**
@@ -960,7 +960,7 @@ Incident and assurance notification urgency (NU)
     **Primary assessment:** Evaluation must verify published default notice windows for each **NU** band, affected-party notice routes, independent-challenge and independent-assurance notice routes, evidence-preservation steps, delay justification where Type S or protected-investigation constraints narrow immediate public detail, and escalation when notice is suppressed or deferred beyond the published window.
 <a id="incident-and-assurance-notification-urgency-nu-c"></a>
 - **What must hold**
-  - **Primary failure:** Wait for the next routine attestation when an incident requires immediate or expedited notice, to hide breach or corruption discovery, or to publish urgency labels that do not change actual notice timing.
+  - **Primary failure:** Wait for the next routine attestation when an incident requires immediate or expedited notice, to hide violation or corruption discovery, or to publish urgency labels that do not change actual notice timing.
 
 <a id="independent-verification-path-integrity"></a>
 Independent verification path integrity
@@ -1036,7 +1036,7 @@ Selection-funding integrity controls
 *In plain terms: where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment, the owner text must maintain an eligible-source rule, an outside-influence bar, anti-circumvention rules, a published…*
 
 - **What it is**
-  - **In scope:** Where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment, the owner text must maintain an eligible-source rule, an outside-influence bar, anti-circumvention rules, a published donor cap and third-party limit, a public register of real sources, independent audit, an outcome review, and routing of breaches as integrity triggers.
+  - **In scope:** Where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment, the owner text must maintain an eligible-source rule, an outside-influence bar, anti-circumvention rules, a published donor cap and third-party limit, a public register of real sources, independent audit, an outcome review, and routing of violations as integrity triggers.
   - **Out of scope:** sortition, which has its own integrity controls; ratification votes of member bodies in federated or treaty designs; ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in selection-funding integrity controls.
 <a id="selection-funding-integrity-controls-a"></a>
 - **How to measure and assess**
@@ -1100,13 +1100,13 @@ Three-lines assurance model
 
 Default **NU** bands (adopting documents may tighten but must not weaken without lawful authority):
 - **NU-1 (immediate):** Active ongoing harm; unlawful **Type N** access, exposure, or reconstruction risk under [**CS-6.305**](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*); active corruption, fraud, or capture in progress; or control collapse affecting rights pathways — internal escalation and affected-party notice inside the notice window; supervisory, assurance-line, and public declaration inside the declaration window, where **Type S** or protected-investigation constraints may narrow what the declaration says to protect lawful investigation integrity and never when it is made.
-- **NU-2 (expedited):** Confirmed breach, integrity failure, or verified **CI-8.210 §3** (*Integrity trigger taxonomy and cross-layer routing (control package)*) corruption or fraud trigger with material but contained impact — notice to affected parties and the independent assurance line inside the notice window, which is materially shorter than routine reporting.
+- **NU-2 (expedited):** Confirmed violation, integrity failure, or verified **CI-8.210 §3** (*Integrity trigger taxonomy and cross-layer routing (control package)*) corruption or fraud trigger with material but contained impact — notice to affected parties and the independent assurance line inside the notice window, which is materially shorter than routine reporting.
 - **NU-3 (standard):** Material control weakness or integrity finding requiring resolution but not active ongoing exposure — notice inside the notice window and inclusion in the next required control declaration if not resolved.
 - **NU-4 (routine):** Baseline controls attestation and non-urgent assurance reporting only — published annual or other routine cadence.
 
 **NU windows.** **NU-1** takes the column of Tier A, **NU-2** Tier B, and **NU-3** Tier C in [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). **NU-4** takes no tier: it is the routine attestation interval the institution publishes. The **notice window** of a band is its column's intake target, counted from discovery or, where the band requires a verified trigger, from verification. The **declaration window** of **NU-1** is its column's outer bound. Where the Emergency setting's conditions are met, **NU-1** notice uses the Emergency setting's intake target. Both windows are compliance lines. An institution's published windows may be shorter than these and never longer. A band borrows the column's figures and is not a tier classification. The figures are in [CF-14.445 §3.1](../corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md#cf-14445-31-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
 
-**NU** assignment must govern who is notified, in what order, and by when. **NU-1** and **NU-2** events must invoke **CI-8.215 §2** (*External assurance triggers*) external-assurance review when published triggers are met. **Type N** breaches default to at least **NU-2** and to **NU-1** while unlawful access, exposure, or reconstruction risk is ongoing.
+**NU** assignment must govern who is notified, in what order, and by when. **NU-1** and **NU-2** events must invoke **CI-8.215 §2** (*External assurance triggers*) external-assurance review when published triggers are met. **Type N** incidents default to at least **NU-2** and to **NU-1** while unlawful access, exposure, or reconstruction risk is ongoing.
 
 ---
 

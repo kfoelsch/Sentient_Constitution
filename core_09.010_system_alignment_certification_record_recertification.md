@@ -144,7 +144,7 @@ The record must also meet [Record Integrity](core_05.035_band_accountability.md#
   - **Prior Record Versions:** they stay.
   - **Status:** it shows that the record is under challenge.
 - **Care scales:** how strong the custody and version trail must be scales with system class and material impact, as detail and disclosure do.
-  - **No class removes:** attribution, the version trail, or the rule against editing a completed record in place.
+  - **No system class removes:** attribution, the version trail, or the rule against editing a completed record in place.
 
 <a id="81-minimum-record-contents"></a>
 
@@ -165,7 +165,7 @@ The record must identify, at minimum:
   - the governing [System Charter](core_05.040_band_continuity.md#system-charter) (or the reasoned absence of one, where that is immaterial);
   - affected communities and dependencies;
   - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists; and
-  - where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Chapter Ten §1.1 Relation to System Alignment Certification](core_10.000_institutional_alignment_certification.md#11-relation-to-system-alignment-certification));
+  - where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Chapter Ten §1 Purpose and Role](core_10.000_institutional_alignment_certification.md#1-purpose-and-role));
 - **Prior record:** for a recertification, or a reopened or fresh review, a link to the completed record it follows, kept under the Act Record rules in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs), and what has changed since.
 
 <a id="812-classification-and-whole-system-findings"></a>
@@ -307,7 +307,7 @@ The record must also contain a concise **operating plan**, scaled to system clas
 - the scope, population, and duration of any authorized operation;
 - where the system is certified, the certification expiry, the next recertification due date, and the date by which the midpoint audit under [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#review-cadence) (*Review cadence*) must be completed;
 - for a first go-live or material expansion, the earliest permitted go-live, the notice interval, and its justification under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate);
-- each condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of breach under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate);
+- each condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of violation under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate);
 - who monitors actual outcomes and safeguards, what evidence and indicators they use, how often they check, and which material findings or thresholds require action or reopened review;
 - who responds to incidents, challenges, and unmet conditions, the applicable tier windows, and the authority for interim protection, containment, rollback, or limits on reliance where required; and
 - for defects found, the corrective work, the verification criteria and findings, any remaining uncertainty, and any permitted interim reliance.
@@ -460,7 +460,7 @@ Review reopens under Chapter Fourteen and incorporated system implementation dut
 
 - **Change in the system or its context:**
   - a material change in the system, its use, or its operating context;
-  - dependency growth, including growing reliance on the system and growing extraction from shared foundations, and including concentration past a level an adopter has set under [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) (the step-up does not wait for a level: [Part A §2.2](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation));
+  - dependency growth, including growing reliance on the system and growing extraction from shared foundations, and including concentration past a threshold an adopter has set under [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) (the step-up does not wait for a threshold: [Part A §2.2](core_09.000_system_alignment_certification_evaluation.md#22-how-system-class-scales-every-evaluation));
   - a significant fall in the system's return flows (what it puts back into those foundations), under [Proportionate Cross-System Support](core_05.040_band_continuity.md#proportionate-cross-system-support).
 - **Something observed or reported:**
   - concealed behavior;
@@ -484,7 +484,7 @@ Review reopens under Chapter Fourteen and incorporated system implementation dut
 
 #### 9.3 Provisional and full certification
 
-*In plain terms: a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval. Failing a check sends it back to the short leash.*
+*In plain terms: a system earns trust in steps. New systems, and systems that have failed an evaluation, start on a short leash and are re-checked often. Only a system with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval. Failing an evaluation sends it back to the short leash.*
 
 <a id="931-the-two-statuses"></a>
 
@@ -551,7 +551,7 @@ Where the cause is design:
 
 - the count of clean recertifications stays at zero until the redesign is in place and has been verified;
 - the forum that found the cause, or the next forum assigned under [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence), verifies the redesign inside the intake target of the Tier that matches the system's class, and may do so at the first provisional recertification;
-- a check run before the redesign is verified does not count toward the clean total, however clean it is; and
+- an evaluation run before the redesign is verified does not count toward the clean total, however clean it is; and
 - a change to how the system is run does not meet this step.
 
 This adds to the step-down bullets above and does not replace them. The operator or any affected sentient may ask the forum to review the cause finding, and if the cause is changed, these rules stop applying.
@@ -743,7 +743,7 @@ A system that has never held certification supplies none through this chapter's 
 
 A System Certification Record may feed Chapter Eleven standing only when it is bounded, traceable, contestable, and verified under all of these:
 
-- the system class evaluation ([Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)), which settles what class the system is in, and the data types and handling evaluation ([§3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)), which settles what data it handles and how;
+- the system class evaluation ([Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)), which settles what system class the system is in, and the data types and handling evaluation ([§3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)), which settles what data it handles and how;
 - every domain evaluation in [Part A §5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) that applies to this system, meaning each one whose materiality trigger is met;
 - the record's own transparency and auditability rules ([§8.2 Transparency and auditability of the record](#82-transparency-and-auditability-of-the-record)) and the forum review rules ([Part B §6 Forum Process](core_09.005_system_alignment_certification_record_process.md#6-forum-process)); and
 - Chapters Two through Four, and whichever Chapter Fourteen process applies.

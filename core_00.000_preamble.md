@@ -256,7 +256,7 @@ Each summary below states what the chapter owns and what it produces.
 <a id="5-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
 ### 5. System and Institutional Charters, Functional Independence, and Separation of Duties
 
-*In plain terms: a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.*
+*In plain terms: a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly hold the seats that check its own act.*
 
 This section summarizes the two floors that every later process relies on and what each produces.
 
@@ -442,7 +442,7 @@ Each step below states what the chapter owns and what it produces, filling in th
 
 **Chapter Ten — [Institutional alignment certification](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification)**
 
-- **What it owns:** Ensures institutions with material impact stay constitutionally aligned, through the same six phases as Chapter Nine and under the same section numbers. An institution is checked on what only it controls: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the checks on it can be used. It relies on each system's certification and does not redo it.
+- **What it owns:** Ensures institutions with material impact stay constitutionally aligned, through the same six phases as Chapter Nine and under the same section numbers. An institution is checked on what only it controls: whether it keeps to its Institutional Charter, who answers for its authority, what it rewards, and whether the independent checks on it can be used. It relies on each system's certification and does not redo it.
 - **What it produces:** An **Institutional Certification Record** for each institution pass — a bounded, contestable finding on the institution's alignment within its stated scope and record span. Chapter Ten reuses the forum process without re-running system evaluation, and institutional certification is not a licence or a gate on forming or operating an institution.
 
 **Chapter Eleven — [Standing measurement](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement)**
