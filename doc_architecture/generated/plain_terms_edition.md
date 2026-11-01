@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **729** of **1158** headings carry a gloss (63%).
+Coverage: **732** of **1164** headings carry a gloss (63%).
 
 ## Contents
 
@@ -30,12 +30,12 @@ Coverage: **729** of **1158** headings carry a gloss (63%).
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (54/69 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/62 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (9/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
-- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (15/34 glossed)
+- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (18/39 glossed)
 - [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/33 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
@@ -2677,7 +2677,7 @@ materiality is the threshold at which an impact or risk is big enough in stake t
 
 ##### Domain-Specific Materiality
 
-this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 The Right to Form, and Four Narrow Limits](../../core_07.000_charters.md#2-the-right-to-form-and-four-narrow-limits).
+this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 The Right to Form, and Five Narrow Limits](../../core_07.000_charters.md#2-the-right-to-form-and-five-narrow-limits).
 
 [Source](../../core_05.050_band_oversight.md#domain-specific-materiality)
 
@@ -3267,7 +3267,7 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 7/61 headings glossed
+Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 7/62 headings glossed
 
 #### 1. When System and Institutional Charters Are Required
 
@@ -3317,11 +3317,11 @@ before anyone can judge whether a system or institution stayed within its limits
 
 [Source](../../core_07.000_charters.md#17-the-process-at-a-glance)
 
-#### 2. The Right to Form, and Four Narrow Limits
+#### 2. The Right to Form, and Five Narrow Limits
 
-you do not need anyone's permission to form a system, institution, or business. Four narrow limits can apply. Three are gates: an unresolved lock can keep one sentient out of one controlling office, a short hold on specific verified facts can do the same, and a lock on an Operating Party itself can bar that Operating Party. The fourth can require a licence or clearance before a named high-risk act. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming or operating, and this chapter adds none.
+you do not need anyone's permission to form a system, institution, or business. Five narrow limits can apply. Three are gates: an unresolved lock can keep one sentient out of one controlling office, a short hold on specific verified facts can do the same, and a lock on an Operating Party itself can bar that Operating Party. The fourth can require a licence or clearance before a named high-risk act. The fifth makes an Institution wait for its recertification before it exercises new material authority. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming, and none stops an Operating Party from running what it already does. This chapter adds none.
 
-[Source](../../core_07.000_charters.md#2-the-right-to-form-and-four-narrow-limits)
+[Source](../../core_07.000_charters.md#2-the-right-to-form-and-five-narrow-limits)
 
 ##### 2.1 The right to form
 
@@ -3352,6 +3352,12 @@ you do not need anyone's permission to form a system, institution, or business. 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_07.000_charters.md#25-fourth-limit-a-practice-licence-or-clearance)
+
+##### 2.6 Fifth limit: a wait for new material authority
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#26-fifth-limit-a-wait-for-new-material-authority)
 
 #### 3. What System and Institutional Charters Must State
 
@@ -4225,7 +4231,7 @@ going live is a permission, not a separate stage of work. It is granted when the
 
 ##### 7.2 Certification Defects and Correction
 
-defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or release from conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.3 Remediation Readiness: Willingness and Capacity to Correct](../../core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct), [§7.4 Denial and Revocation](../../core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation)).
+defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or fulfillment of conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.3 Remediation Readiness: Willingness and Capacity to Correct](../../core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct), [§7.4 Denial and Revocation](../../core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation)).
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction)
 
@@ -4511,7 +4517,7 @@ certification can feed standing, but it is not standing. The System Certificatio
 
 ## CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION
 
-Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 15/34 headings glossed
+Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 18/39 headings glossed
 
 #### 1. Purpose and Role
 
@@ -4525,11 +4531,11 @@ a system's certification belongs to the system. An institution's certification c
 
 [Source](../../core_10.000_institutional_alignment_certification.md#11-who-is-certified)
 
-##### 1.2 No permission and no gate
+##### 1.2 No permission and no gate on forming or running
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_10.000_institutional_alignment_certification.md#12-no-permission-and-no-gate)
+[Source](../../core_10.000_institutional_alignment_certification.md#12-no-permission-and-no-gate-on-forming-or-running)
 
 ##### 1.3 Window for the first certification
 
@@ -4593,37 +4599,49 @@ the same independent forums, in the same order, review the institution, with the
 
 ##### 6.3 Forums, certifiers, and record offices as institutions
 
-the bodies that do the certifying are institutions too, so they cannot certify each other in a circle.
+the bodies that do the certifying are institutions too, so they cannot certify each other in a circle. A body that is itself Not Certified gives up its seats in other certifications.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#63-forums-certifiers-and-record-offices-as-institutions)
 
 #### 7. Certification Outcomes
 
-the result is a stated outcome. It is not a pass or fail that decides whether the institution may exist.
+a certification review ends with a published verdict on the Institution. The verdict never decides whether the Institution may exist or operate. It decides what the Institution may say about itself, who is warned, and how much the verdict counts when the Institution's Systems are reviewed. The forums can also limit the specific practice or authority the review found wrong, and a Not Certified Institution may not hold a seat in another body's certification. They cannot bar the Institution from operating or from forming Systems.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#7-certification-outcomes)
 
-##### 7.1 No go-live gate: the effect of an outcome
+##### 7.1 Go-live for an Institution
+
+a System cannot go live until it is certified. An Institution can form and run without a certificate, but it waits for its recertification before it exercises new material authority. A verdict on an Institution does three narrower things: it sets the Institution's public status, it attaches conditions to the specific problem found, and it counts as evidence when the Institution's Systems are reviewed.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#71-go-live-for-an-institution)
+
+###### 7.1.1 Conditions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_10.000_institutional_alignment_certification.md#71-no-go-live-gate-the-effect-of-an-outcome)
+[Source](../../core_10.000_institutional_alignment_certification.md#711-conditions)
+
+###### 7.1.2 Other effects of a verdict
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#712-other-effects-of-a-verdict)
 
 ##### 7.2 Certification defects and correction
 
-*(no plain-terms gloss in source)*
+a certification defect is a real problem the evaluation turns up, not a paperwork slip. When one is found in an Institution, the repair rules are the same as for a System.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#72-certification-defects-and-correction)
 
 ##### 7.3 Remediation readiness for an Institution
 
-when a review finds a problem in an institution, the same question is asked of it as of a system: does it want to fix the problem, and can it? If not, its certification is denied or taken back. That cannot stop the institution from existing or operating. It takes away its claim to be certified, warns those who rely on it, weakens what its systems can borrow from its standing, and keeps it out of the seats that certify others.
+when a review finds a problem in an Institution, the forums ask the same question they ask about a System: is it both willing and able to fix the problem? If the honest answer is no, its certification is refused or taken back. That cannot stop the Institution from existing or operating. It takes away the Institution's claim to be certified, warns those who rely on it, weakens the support its Systems can draw from its good status, and keeps it out of the seats that certify others.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#73-remediation-readiness-for-an-institution)
 
 ##### 7.4 Denial and revocation for an Institution
 
-*(no plain-terms gloss in source)*
+denial means certification is refused, and revocation means a certification already held is taken back. Both are real consequences. Neither shuts the Institution down.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution)
 
@@ -4662,6 +4680,24 @@ an institution's certification is checked again on a schedule and whenever somet
 *(no plain-terms gloss in source)*
 
 [Source](../../core_10.000_institutional_alignment_certification.md#92-reopening-triggers)
+
+###### 9.2.1 What counts as new material authority
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#921-what-counts-as-new-material-authority)
+
+###### 9.2.2 Recertification for new material authority
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#922-recertification-for-new-material-authority)
+
+###### 9.2.3 Blockers to clearing new material authority
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#923-blockers-to-clearing-new-material-authority)
 
 ##### 9.3 Provisional and full certification
 
@@ -6065,7 +6101,7 @@ every sentient may gather, associate, and act together — in physical, digital,
 
 ##### Article XI-E: Institutional Formation and Business Creation
 
-anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test. The right is for founders who mean what they say: forming an Operating Party to mislead others about what it is for, who controls it, or whom it serves, or to harm others, is not covered. Only three narrow gates stand, and none is a licence to form or run an Operating Party. Two attach to a sentient: one who is under an unresolved lock on authority, or whom a forum has found on specific facts to be probably misaligned, may be kept for a time from holding control of an Operating Party. The third attaches to an Operating Party that is itself under a lock: one that a forum has dissolved stays barred from coming back under any name or form, for good where the dissolution rests on pervasive anti-constitutional conduct or on harm that cannot be undone and has not been remedied. No gate stops any other Operating Party, and everyone else may still form and run one, including one that does the same kind of work. Two further rules cover acts that can hurt someone who cannot judge the risk. A technical forum can list a family of such acts, and a sentient may then be required to hold a practice licence, for acts that can cause severe or irreversible injury, or a practice clearance, for acts with a lesser but real risk such as cosmetology or food handling, before performing one for others. Those rules attach to the act and never to forming or running an Operating Party.
+anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test. The right is for founders who mean what they say: forming an Operating Party to mislead others about what it is for, who controls it, or whom it serves, or to harm others, is not covered. Only three narrow gates stand, and none is a licence to form or run an Operating Party. Two attach to a sentient: one who is under an unresolved lock on authority, or whom a forum has found on specific facts to be probably misaligned, may be kept for a time from holding control of an Operating Party. The third attaches to an Operating Party that is itself under a lock: one that a forum has dissolved stays barred from coming back under any name or form, for good where the dissolution rests on pervasive anti-constitutional conduct or on harm that cannot be undone and has not been remedied. No gate stops any other Operating Party, and everyone else may still form and run one, including one that does the same kind of work. Two further rules cover acts that can hurt someone who cannot judge the risk. A technical forum can list a family of such acts, and a sentient may then be required to hold a practice licence, for acts that can cause severe or irreversible injury, or a practice clearance, for acts with a lesser but real risk such as cosmetology or food handling, before performing one for others. Those rules attach to the act and never to forming or running an Operating Party. One more rule makes an Institution that decides to take on new material authority wait for its recertification before it exercises that authority. It attaches to the new authority and never to forming or running an Operating Party, and everything else the Institution does continues.
 
 [Source](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)
 

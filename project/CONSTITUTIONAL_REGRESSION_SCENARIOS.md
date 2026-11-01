@@ -756,7 +756,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH5-DSM-002
 - **Class:** core / adversarial path (narrative seed; awaiting tabletop evidence)
 - **Summary:** A three-member group opens a walk-in clinic and says it is too small to need a System Charter or Institutional Charter. **Expect:** the clinic answers yes on survival and essential access, safety, and custody when others rely on it with no timely substitute; one yes is enough and size does not matter; the group is at least Class L under **CS-9.310** Part B and must publish the Charter that applies; the requirement is not a licence and does not stop the clinic from opening ([Article XI-E](../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)); a late or missing Charter is a defect to log and correct.
-- **Read with:** [Domain-Specific Materiality](../core_05.050_band_oversight.md#domain-specific-materiality); [Chapter Seven §2](../core_07.000_charters.md#2-the-right-to-form-and-four-narrow-limits) and §3; **CS-9.310** Part B Class L; Article XI-E.
+- **Read with:** [Domain-Specific Materiality](../core_05.050_band_oversight.md#domain-specific-materiality); [Chapter Seven §2](../core_07.000_charters.md#2-the-right-to-form-and-five-narrow-limits) and §3; **CS-9.310** Part B Class L; Article XI-E.
 
 ### Scenario ID: RS-CH5-DSM-003
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)

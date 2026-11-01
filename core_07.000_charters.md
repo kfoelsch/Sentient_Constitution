@@ -10,7 +10,7 @@
 > - **Implementation owner:** [CI-8.205 §6](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter contents, review, and formation template*) holds the full field template, the review checklist, the formation procedure, and the formation check statement template. It may be stricter and may add fields. It may not narrow this chapter. Its text binds as incorporated implementation text only within valid adoption scope ([Chapter Nineteen §4 Adoption framing and scope of authority](core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); the requirements in this chapter bind as core text.
 > - **Downstream consumers:** [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Ten tests the formation check statement for an Institution. [Chapter Eleven §3.7 Record custody and opening authority](core_11.000_standing_assessment.md#37-record-custody-and-opening-authority) applies it to standing records. [Chapter Fourteen §4.3 Institutional Forums](core_14.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
 >
-> Reading order: §1 when System and Institutional Charters are required, with the chart that maps the process → §2 the right to form and four narrow limits → §3 what they must state → §4 the Charter Role Map and standing-record custody → §5 the formation check on office-holder standing and authenticity → §6 when a holder fails the formation check → §7 amendment, review, and scope misalignment.
+> Reading order: §1 when System and Institutional Charters are required, with the chart that maps the process → §2 the right to form and five narrow limits → §3 what they must state → §4 the Charter Role Map and standing-record custody → §5 the formation check on office-holder standing and authenticity → §6 when a holder fails the formation check → §7 amendment, review, and scope misalignment.
 
 </details>
 
@@ -24,7 +24,7 @@
   - [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 - Subsections:
   - [§1](#1-when-system-and-institutional-charters-are-required);
-  - [§2](#2-the-right-to-form-and-four-narrow-limits);
+  - [§2](#2-the-right-to-form-and-five-narrow-limits);
   - [§3](#3-what-system-and-institutional-charters-must-state);
   - [§4](#4-the-charter-role-map-and-standing-record-custody);
   - [§5](#5-formation-check-office-holder-standing-and-authenticity);
@@ -65,7 +65,7 @@ Other chapters own the definitions, the seat rules, the standing locks, and the 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§2](#2-the-right-to-form-and-four-narrow-limits);
+  - [§2](#2-the-right-to-form-and-five-narrow-limits);
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Proportionality](core_05.035_band_accountability.md#proportionality); chapter opening owner claim;
   - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
@@ -170,7 +170,7 @@ A covered System or Institution publishes its [System Charter](core_05.040_band_
 
 - **A new System or Institution:** before it goes live or begins to exercise authority over others.
 - **One that already operates:** at its next classification review or certification, or within the resolution window after a request under [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing), whichever comes first. It is in default until it does.
-  - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Ten §1.2 No permission and no gate](core_10.000_institutional_alignment_certification.md#12-no-permission-and-no-gate). Its first-certification window, under [Chapter Ten §1.3 Window for the first certification](core_10.000_institutional_alignment_certification.md#13-window-for-the-first-certification), is never a condition of publishing the Institutional Charter or of operating.
+  - **Which certification:** For a System, its System Alignment Certification. For an Institution, its institutional alignment certification under [Chapter Ten §1.2 No permission and no gate on forming or running](core_10.000_institutional_alignment_certification.md#12-no-permission-and-no-gate-on-forming-or-running). Its first-certification window, under [Chapter Ten §1.3 Window for the first certification](core_10.000_institutional_alignment_certification.md#13-window-for-the-first-certification), is never a condition of publishing the Institutional Charter or of operating.
 - **The formation check:** It also completes the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) at the same moment.
 - **Where it is lodged:** It lodges the System Charter or Institutional Charter, with its Charter Role Map and formation check statement, with the Institutional registrar, or with the local registrar where its activity and the sentients it affects are local (**CF-14.415 §5** (*Institutional and local registrars*)):
   - **What the registrar does:** It checks that nothing required is missing and gives a dated receipt.
@@ -264,8 +264,8 @@ flowchart TB
     style E fill:none,stroke:#16a34a,color:#ffffff
 ```
 
-<a id="2-the-right-to-form-and-four-narrow-limits"></a>
-### 2. The Right to Form, and Four Narrow Limits
+<a id="2-the-right-to-form-and-five-narrow-limits"></a>
+### 2. The Right to Form, and Five Narrow Limits
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
@@ -275,6 +275,7 @@ flowchart TB
 - [§2.3 Second limit: a short hold on specific verified facts](#23-second-limit-a-short-hold-on-specific-verified-facts) says how a short hold can keep one named sentient out of one controlling office.
 - [§2.4 Third limit: a lock on the Operating Party itself](#24-third-limit-a-lock-on-the-operating-party-itself) says how a lock on an Operating Party bars it and its successors, and that a dissolved Chartered Party may not return.
 - [§2.5 Fourth limit: a practice licence or clearance](#25-fourth-limit-a-practice-licence-or-clearance) says when a named high-risk act needs a licence or clearance. It is not a gate on forming.
+- [§2.6 Fifth limit: a wait for new material authority](#26-fifth-limit-a-wait-for-new-material-authority) says that an Institution waits for its recertification before it exercises new material authority. It is not a gate on forming.
 
 </details>
 
@@ -293,15 +294,16 @@ flowchart TB
 
 <br>
 
-*In plain terms: you do not need anyone's permission to form a system, institution, or business. Four narrow limits can apply. Three are gates: an unresolved lock can keep one sentient out of one controlling office, a short hold on specific verified facts can do the same, and a lock on an Operating Party itself can bar that Operating Party. The fourth can require a licence or clearance before a named high-risk act. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming or operating, and this chapter adds none.*
+*In plain terms: you do not need anyone's permission to form a system, institution, or business. Five narrow limits can apply. Three are gates: an unresolved lock can keep one sentient out of one controlling office, a short hold on specific verified facts can do the same, and a lock on an Operating Party itself can bar that Operating Party. The fourth can require a licence or clearance before a named high-risk act. The fifth makes an Institution wait for its recertification before it exercises new material authority. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming, and none stops an Operating Party from running what it already does. This chapter adds none.*
 
-**Article XI-E** (*Institutional Formation and Business Creation*) allows four narrow limits:
+**Article XI-E** (*Institutional Formation and Business Creation*) allows five narrow limits:
 
 - **The first three are the only gates** on forming an Operating Party or holding authority in it. Each attaches to a named subject:
   - **An outstanding lock** ([§2.2 First limit: an outstanding lock on a sentient](#22-first-limit-an-outstanding-lock-on-a-sentient)) attaches to a named sentient in one office that controls the Chartered Party.
   - **An Interim Hold** ([§2.3 Second limit: a short hold on specific verified facts](#23-second-limit-a-short-hold-on-specific-verified-facts)) attaches only to one named sentient in one office that controls the Chartered Party.
   - **A lock on the Operating Party itself** ([§2.4 Third limit: a lock on the Operating Party itself](#24-third-limit-a-lock-on-the-operating-party-itself)) attaches to a Chartered Party that is itself under a lock, including one that a forum has dissolved.
 - **The fourth is not a gate:** It is a practice licence or clearance ([§2.5 Fourth limit: a practice licence or clearance](#25-fourth-limit-a-practice-licence-or-clearance)).
+- **The fifth is not a gate on forming:** It is a wait for new material authority ([§2.6 Fifth limit: a wait for new material authority](#26-fifth-limit-a-wait-for-new-material-authority)).
 
 <a id="21-the-right-to-form"></a>
 #### 2.1 The right to form
@@ -350,6 +352,17 @@ The fourth limit works on a named act, not on forming an Operating Party:
   - **Practice clearance:** required for acts that risk real but lesser harm if done badly.
 - **What it attaches to:** performing the act. It never stops an Operating Party from forming, publishing its System Charter or Institutional Charter, or operating.
 - **What it does stop:** claiming or performing the act without it. A System Charter or Institutional Charter may not claim the act unless a holder performs it ([§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state)).
+
+<a id="26-fifth-limit-a-wait-for-new-material-authority"></a>
+#### 2.6 Fifth limit: a wait for new material authority
+
+The fifth limit works on one act of an Institution, exercising new material authority, and not on forming an Operating Party:
+
+- **Not a gate on forming:** the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) does not apply it.
+- **What it is:** a wait that **Article XI-E** (*Institutional Formation and Business Creation*) states. An Institution that decides to take on new material authority does not exercise it until its recertification clears it. The authority is presumed cleared unless a named blocker is shown ([Chapter Ten §9.2.3 Blockers to clearing new material authority](core_10.000_institutional_alignment_certification.md#923-blockers-to-clearing-new-material-authority)); see [Chapter Ten §9.2.2 Recertification for new material authority](core_10.000_institutional_alignment_certification.md#922-recertification-for-new-material-authority)).
+- **What counts:** the authority defined in [Chapter Ten §9.2.1 What counts as new material authority](core_10.000_institutional_alignment_certification.md#921-what-counts-as-new-material-authority).
+- **Who waits:** every Institution, in every class. Neither emergency nor urgency lifts the wait.
+- **What it attaches to:** exercising the new authority. It never stops an Operating Party from forming, publishing its System Charter or Institutional Charter, or running what it already does.
 
 <a id="3-what-system-and-institutional-charters-must-state"></a>
 ### 3. What System and Institutional Charters Must State
@@ -438,7 +451,7 @@ This subsection says what a System Charter or Institutional Charter may claim wh
 - **The limit:** If an act requires a practice licence or practice clearance, a System Charter or Institutional Charter can't list it as something the Chartered Party does, and the Chartered Party can't do it, unless every sentient who performs it either holds the licence or clearance or works as a learner under a supervisor who does.
 - **Until then:** The System Charter or Institutional Charter lists the act under item 4 ([§3.1 What a System Charter states](#31-what-a-system-charter-states)) as out of scope.
 - **If claimed without a holder:** It is a missing item to log and fix, and it does not stop the Chartered Party from forming, publishing, or carrying on its other work.
-- **Where to look:** [§2 The Right to Form, and Four Narrow Limits](#2-the-right-to-form-and-four-narrow-limits) says where the requirement comes from, and **CI-15.205 §7** (*Practice licence, practice clearance, and joint professional practice*) holds the entries and the host check.
+- **Where to look:** [§2 The Right to Form, and Five Narrow Limits](#2-the-right-to-form-and-five-narrow-limits) says where the requirement comes from, and **CI-15.205 §7** (*Practice licence, practice clearance, and joint professional practice*) holds the entries and the host check.
 
 <a id="35-scaling"></a>
 #### 3.5 Scaling
@@ -652,7 +665,7 @@ The same clock applies to certification seats. If the map does not name who star
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§2](#2-the-right-to-form-and-four-narrow-limits);
+  - [§2](#2-the-right-to-form-and-five-narrow-limits);
   - [§1.5](#15-when-a-system-charter-or-institutional-charter-is-due);
   - [§3](#3-what-system-and-institutional-charters-must-state);
   - [§4](#4-the-charter-role-map-and-standing-record-custody);
@@ -683,7 +696,7 @@ The same clock applies to certification seats. If the map does not name who star
 
 *In plain terms: before a Chartered Party exercises authority over others, the sentients who hold its key offices are checked twice. Do they meet the published standard for the role, with no standing lock in the way? And do they hold the office in their own right and for the Chartered Party's stated purpose, and not as a front or a nominee? The answer comes from who directs them, what they are paid for, and what they have verifiably said and done, never from what they believe. This is a formation check and not a licence.*
 
-This section is the **formation check**. It applies the three gates stated in [§2 The Right to Form, and Four Narrow Limits](#2-the-right-to-form-and-four-narrow-limits): the two that attach to a named sentient apply to covered offices, and the third applies to a Chartered Party that is itself under a lock. [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) is not narrowed by it. It applies to a Chartered Party of Class L or higher ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)).
+This section is the **formation check**. It applies the three gates stated in [§2 The Right to Form, and Five Narrow Limits](#2-the-right-to-form-and-five-narrow-limits): the two that attach to a named sentient apply to covered offices, and the third applies to a Chartered Party that is itself under a lock. [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) is not narrowed by it. It applies to a Chartered Party of Class L or higher ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)).
 
 <a id="51-what-is-covered"></a>
 #### 5.1 What is covered
@@ -837,7 +850,7 @@ The formation check is kept in proportion to what it protects:
 
 - Upstream:
   - [§5](#5-formation-check-office-holder-standing-and-authenticity);
-  - [§2](#2-the-right-to-form-and-four-narrow-limits);
+  - [§2](#2-the-right-to-form-and-five-narrow-limits);
   - [§1.6](#16-if-a-system-charter-or-institutional-charter-is-missing);
   - [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
   - [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) (14.000 §5).
@@ -866,7 +879,7 @@ A failed or late formation check is a defect to log and correct. On its own it i
   - [§2.2 First limit: an outstanding lock on a sentient](#22-first-limit-an-outstanding-lock-on-a-sentient);
   - [§2.3 Second limit: a short hold on specific verified facts](#23-second-limit-a-short-hold-on-specific-verified-facts), which only a forum can order as an Interim Hold; or
   - [§2.4 Third limit: a lock on the Operating Party itself](#24-third-limit-a-lock-on-the-operating-party-itself).
-- **Limits of the right to form:** A failed formation check is evidence a forum may weigh on the limits of the right to form, but it does not settle them ([§2 The Right to Form, and Four Narrow Limits](#2-the-right-to-form-and-four-narrow-limits)).
+- **Limits of the right to form:** A failed formation check is evidence a forum may weigh on the limits of the right to form, but it does not settle them ([§2 The Right to Form, and Five Narrow Limits](#2-the-right-to-form-and-five-narrow-limits)).
 
 <a id="62-when-the-standing-check-fails"></a>
 #### 6.2 When the standing check fails
@@ -942,7 +955,7 @@ If a failure is still not resolved when the resolution window ends:
   - receivership or structural separation; and
   - as a last step, dissolution.
 - **The forum decides:** Only the forum with jurisdiction decides which step to take, if any. No step follows automatically from a missed window or a failed finding. Whichever step is taken, the continuity safeguards keep services, records, and challenge rights in place.
-- **Dissolution:** A dissolution carries a Dissolution Reformation Lock, so the dissolved Chartered Party and its successor vehicles may not be re-formed, and the lock is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([§2 The Right to Form, and Four Narrow Limits](#2-the-right-to-form-and-four-narrow-limits)).
+- **Dissolution:** A dissolution carries a Dissolution Reformation Lock, so the dissolved Chartered Party and its successor vehicles may not be re-formed, and the lock is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([§2 The Right to Form, and Five Narrow Limits](#2-the-right-to-form-and-five-narrow-limits)).
 - **Not a substitute:** Dissolution never replaces anti-constitutional-misconduct designation under Chapter Thirteen or the accountability of the responsible sentients.
 
 <a id="68-fairness-to-the-holder"></a>
@@ -999,6 +1012,7 @@ A material change is an amendment, and an amendment follows set rules:
 
 - **Who decides:** Only the amendment authority named in the System Charter or Institutional Charter can make a material amendment. That authority cannot pass the job to anyone below it.
 - **Notice and a way to contest:** The change is announced beforehand, and there is a way to contest it.
+- **New material authority:** An amendment that adds new material authority also opens a recertification, and the Institution waits for it before exercising that authority ([Chapter Ten §9.2.2 Recertification for new material authority](core_10.000_institutional_alignment_certification.md#922-recertification-for-new-material-authority)).
 - **The record:** The deciding authority and the date are written down.
 
 <a id="72-no-quiet-widening-of-scope"></a>
