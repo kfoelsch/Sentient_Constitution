@@ -35,7 +35,7 @@
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) (*foundational definitions*);
   - [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) (*interpretive constraints*);
   - [Chapter Six — Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) through
-  - [Part D](core_06.020_rights_part_e.md) (6.020) (*challenge, audit, and justice-article hooks*).
+  - [Chapter Six Part E](core_06.020_rights_part_e.md) (6.020) (*challenge, audit, and justice-article hooks*).
 - Subsections:
   - [§1](#1-purpose-and-role--participation-architecture);
   - [§2](#2-default-venue-and-primary-stakes);
@@ -537,7 +537,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - **Integrity** forums remain the default official lead for whole-system and institutional constitutional alignment certification and validation.
 - Component detail for those proceedings lives in [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
-When a certification review finds misalignment or a defect, the **Integrity** lead routes the remediation-readiness finding through [Chapter Nine Part B §7.3](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) and, for an Institution, [Chapter Ten §7.4 Denial and revocation for an Institution](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution). The lead forum decides readiness; Technical Forums supply capacity evidence and Institutional Forums supply governance and incentive evidence where the cause lies there. The operator or steward supplies evidence but does not decide its own readiness. The finding, proof step, and any denial or revocation remain on the System or Institutional Certification Record and follow the Part B or Part E process; this creates no separate standing or merits track.
+When a certification review finds misalignment or a defect, the **Integrity** lead routes the remediation-readiness finding through [Chapter Nine Part B §7.3](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) and, for an Institution, [Chapter Ten §7.4 Denial and revocation for an Institution](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution). The lead forum decides readiness; Technical Forums supply capacity evidence and Institutional Forums supply governance and incentive evidence where the cause lies there. The operator or steward supplies evidence but does not decide its own readiness. The finding, proof step, and any denial or revocation remain on the System or Institutional Certification Record and follow the Chapter Nine Part B process for a System or the Chapter Ten process for an Institution; this creates no separate standing or merits track.
 
 **Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Institutional Forums** within their lawful scope.
 

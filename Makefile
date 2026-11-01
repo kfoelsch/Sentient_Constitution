@@ -533,8 +533,8 @@ corpus-ref-name-audit:
 corpus-ref-name-audit-test:
 	$(PYTHON) tools/test_corpus_ref_name_audit.py
 
-# PART-CITE-CHAPTER-01: a "Part X §N" cite outside its own chapter names the chapter ("Chapter Nine Part B §7.2").
-# `python3 tools/part_cite_chapter_audit.py --write` inserts the missing chapter into every fixable cite.
+# PART-CITE-CHAPTER-01: a "Part X" cite (with or without "§N") outside its own chapter names the chapter ("Chapter Nine Part B §7.2", "Chapter Nine Part B").
+# `python3 tools/part_cite_chapter_audit.py --write` inserts the missing chapter into every fixable linked cite.
 part-cite-chapter-audit:
 	$(PYTHON) tools/part_cite_chapter_audit.py --root .
 

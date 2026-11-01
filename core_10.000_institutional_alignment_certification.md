@@ -143,7 +143,7 @@ Institutional alignment certification is an independent check on how an Institut
   - an Interim Hold on specific verified facts of misalignment, which also attaches to a named sentient's authority;
   - a lock on an Operating Party itself, which attaches to an Institution only where a lock sits on that Institution, as one does on a dissolved Institution under **CI-12.210 §4** (*Dissolution*).
 
-  A certification finding can be referred to the forum that decides one of these gates, as evidence under [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution). A certification outcome is not itself a gate and does not open or close one.
+  A certification finding can be referred to the forum that decides one of these gates, as evidence under [§7.5 Effects of denial and revocation for an Institution](#75-effects-of-denial-and-revocation-for-an-institution). A certification outcome is not itself a gate and does not open or close one.
 - **Waiting for new material authority:** An Institution that decides to take on new material authority gives notice and is recertified, and does not exercise that authority until the recertification clears it, which it does unless a named blocker is shown ([§9.2.2 Recertification for new material authority](#922-recertification-for-new-material-authority)). **Article XI-E** (*Institutional Formation and Business Creation*) states this wait. It is not one of the three narrow gates, and it is not a gate on forming or running. It attaches only to the new authority, and everything else the Institution does continues. Every class waits, and neither emergency nor urgency lifts the wait.
 - **No back door:** Nothing in this Chapter may be used, by a forum, an adopter, or an incumbent, as an authorization threshold that shuts out founders or protects incumbents. That would defeat [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
   - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) applies to the cost of the process.
@@ -161,7 +161,7 @@ A first Institutional Certification Record is due within a window the adopting d
 - **A new Institution:** The window runs from the day it first has a material impact on others, as [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) judges it, and its first certification is provisional.
 - **One already operating:** The window is the Adoption Transition window under [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), consistent with the default in [Chapter Seven §1.5 When a System Charter or Institutional Charter is due](core_07.000_charters.md#15-when-a-system-charter-or-institutional-charter-is-due).
 - **A missed window:** An Institution that lets the window run out without a first pass has a defect to log and correct, and the missed window opens that pass. The Institution is not stopped or barred from operating, since there is no gate ([§1.2 No permission and no gate on forming or running](#12-no-permission-and-no-gate-on-forming-or-running)).
-  - **The certification pass:** It is decided like any other. It can end in any outcome in [§7 Certification Outcomes](#7-certification-outcomes), including Not Certified, with the effects in [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution).
+  - **The certification pass:** It is decided like any other. It can end in any outcome in [§7 Certification Outcomes](#7-certification-outcomes), including Not Certified, with the effects in [§7.5 Effects of denial and revocation for an Institution](#75-effects-of-denial-and-revocation-for-an-institution).
   - **Sanctions and dissolution:** This Chapter creates none. Suspension, receivership, structural separation, and dissolution stay with the forum with jurisdiction under **CI-12.210** (*Institutional failure and dissolution*) and **CI-12.215** (*Institutional accountability and sanctions*). That forum receives a referral only on the grounds in [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution) (*Referral*).
 
 <a id="2-institution-class-evaluation"></a>
@@ -470,9 +470,9 @@ The supervisory sequence in [Chapter Nine Part B §6.2 Supervisory sequence](cor
     - **Send for ruling:** send it to another forum as a question for ruling and wait for the answer. The matter stays with the lead forum.
     - **Stay:** pause it.
   - **What it may not do:** decide a System's component question in the Institution's certification pass. That question is decided in the System's own certification pass.
-- **Participation, urgent protection, and contest:** Part B applies in full to an Institution's certification pass, with its record read as the Institutional Certification Record.
+- **Participation, urgent protection, and contest:** Chapter Nine Part B applies in full to an Institution's certification pass, with its record read as the Institutional Certification Record.
   - **Participation during review** ([Chapter Nine Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review)): the assigned forums give affected sentients practicable, accessible ways to submit evidence and concerns during evaluation and forum review. Every submission goes into the review submissions log kept by the record seat holder.
-  - **Who can submit:** the Institution's affected members, workers, users, and communities, current and reasonably foreseeable, are among the affected sentients who must have an accessible way to submit evidence. Part B identifies them by actual and reasonably foreseeable effects and dependency, including before deployment.
+  - **Who can submit:** the Institution's affected members, workers, users, and communities, current and reasonably foreseeable, are among the affected sentients who must have an accessible way to submit evidence. Chapter Nine Part B identifies them by actual and reasonably foreseeable effects and dependency, including before deployment.
   - **Urgent protection** ([Chapter Nine Part B §6.2.3 Urgent protection](core_09.005_system_alignment_certification_record_process.md#623-urgent-protection)): a stay, interim protection, or reliance limit may be ordered before the sequence finishes. The sequence still runs, and the measure is entered on the record.
   - **Contest** ([Chapter Nine Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain)): affected parties can challenge the record, and a challenge goes to the level where the dispute actually lives.
   - **Anti-bypass** ([Chapter Nine Part B §6.4 Anti-bypass](core_09.005_system_alignment_certification_record_process.md#64-anti-bypass)): the supervisory sequence and the contestability chain may not be defeated by hidden sub-records, by routing challenges only to captured internal bodies, by letting a challenge end at the lowest administrative layer, or by treating a component's silence as approval.
@@ -500,7 +500,7 @@ A forum host, a certifying body, a record office, a verifying authority, or any 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Nine Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7), including [§7.2](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction), [§7.3](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct), and [§7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation);
+  - [Chapter Nine Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7), including [§7.2](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction), [§7.3](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct), [§7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation), and [§7.5](core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation);
   - [Chapter Nine Part C §9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification);
   - [Chapter Nine Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline);
   - [Chapter Seven §6 When a Holder Fails the Formation Check](core_07.000_charters.md#6-when-a-holder-fails-the-formation-check) (7.000 §6);
@@ -547,7 +547,7 @@ An Institution has no such gate on forming or running ([§1.2 No permission and 
 **Go-live still gates the Systems.** A new System, or a material expansion of one, goes live only through its own certification, whatever the Institution's status. The Institution's status can inform that decision, but it can never make it:
 
 - **Evidence, not a verdict on the System:** When one of the Institution's Systems is up for certification, the Institution's status is one piece of evidence about how that System is run, what drives it, and whether sentients can challenge it ([Chapter Nine Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline)). On its own it never certifies a System and never blocks one.
-- **A higher bar after a denial or revocation:** If the Institution has been denied or has lost its certification, anyone asking to launch a new System or make a major expansion that depends on it has more to prove. They have to show that what they are relying on about the Institution is still solid enough, even with that finding on record ([§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution), effect item 3).
+- **A higher bar after a denial or revocation:** If the Institution has been denied or has lost its certification, anyone asking to launch a new System or make a major expansion that depends on it has more to prove. They have to show that what they are relying on about the Institution is still solid enough, even with that finding on record ([§7.5 Effects of denial and revocation for an Institution](#75-effects-of-denial-and-revocation-for-an-institution), effect item 3).
 
 <a id="711-certification-conditions"></a>
 
@@ -575,7 +575,7 @@ Apart from the Systems and the certification conditions, a verdict has only thes
 - **Status on the record:** The Institution's status is published, and anyone affected can challenge it. An Institution that is Not Certified may not describe itself as certified.
 - **A warning to those who rely on the Institution:** Where a finding means their reliance is not safe, they are told.
 - **How soon the next review comes:** A provisional certification has a shorter certification interval than a full certification.
-- **Denial and revocation:** The effects are in [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution).
+- **Denial and revocation:** The effects are in [§7.5 Effects of denial and revocation for an Institution](#75-effects-of-denial-and-revocation-for-an-institution).
 - **Reopening and the cascade:** A review can be reopened, and a failed System certification can affect the Institution. See [§9 Recertification and Reopening](#9-recertification-and-reopening).
 - **Standing:** A verdict can touch a sentient's standing only through [§11 Relationship to Standing](#11-relationship-to-standing).
 
@@ -587,7 +587,7 @@ Sanctions, dissolution, and institutional-failure consequences stay with **CI-12
 
 *In plain terms: a certification defect is a real problem the evaluation turns up, not a paperwork slip. When one is found in an Institution, the repair rules are the same as for a System.*
 
-[Chapter Nine Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction) applies when a certification pass finds a defect in an Institution. The findings under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) and [§4 Evaluations Where Implicated](#4-evaluations-where-implicated) take the place of the Part A evaluations that Part B lists. Chapter Nine Part B §7.2 Certification Defects and Correction sets:
+[Chapter Nine Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction) applies when a certification pass finds a defect in an Institution. The findings under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) and [§4 Evaluations Where Implicated](#4-evaluations-where-implicated) take the place of the Chapter Nine Part A evaluations that Chapter Nine Part B lists. Chapter Nine Part B §7.2 Certification Defects and Correction sets:
 
 - the choices open to the forums;
 - the statement of what is affected, the interim protection and limits on reliance, and the corrective work required; and
@@ -602,15 +602,15 @@ Two points are specific to an Institution:
 
 #### 7.3 Remediation readiness for an Institution
 
-*In plain terms: when a review finds a problem in an Institution, the forums ask the same question they ask about a System: is it both willing and able to fix the problem? If the honest answer is no, its certification is refused or taken back. That cannot stop the Institution from existing or operating. It takes away the Institution's claim to be certified, warns those who rely on it, weakens the support its Systems can draw from its good status, and keeps it out of the seats that certify others.*
+*In plain terms: when a review finds a problem in an Institution, the forums ask the same question they ask about a System: is it both willing and able to fix the problem? If the honest answer is no, its certification is refused or taken back. By itself, that cannot stop the Institution from existing or operating. It takes away the Institution's claim to be certified, warns those who rely on it, weakens the support its Systems can draw from its good status, and keeps it out of the seats that certify others.*
 
 [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) applies to an Institution with these changes:
 
-- **Who is asked:**
-  - The Institution's governing authority is the proponent and supplies the evidence.
-  - The lead Integrity Forum decides the finding.
-  - Institutional Forums hold the evidence on governance, authority, and incentives.
-  - Technical Forums hold any capacity evidence that needs measuring ([§6.2 Forum roles and sequence](#62-forum-roles-and-sequence)).
+- **Who does what:**
+  - **The Institution's governing authority** is the proponent: the party that carries the case that the Institution is ready. It supplies the evidence. It does not judge its own readiness.
+  - **The lead Integrity Forum** decides the finding: whether the Institution is both willing and able to fix the problem ([Chapter Nine Part B §7.3.4 Findings](core_09.005_system_alignment_certification_record_process.md#734-findings) lists the possible findings).
+  - **Institutional Forums** hold the evidence on governance, authority, and incentives, and bring it to the lead forum.
+  - **Technical Forums** hold any capacity evidence that needs measuring, and bring it to the lead forum ([§6.2 Forum roles and sequence](#62-forum-roles-and-sequence)).
 - **Willingness:** The forums look at whether the Institution is:
   - changing its own reward structure, where that structure caused the finding;
   - replacing or disclosing an office-holder found not authentic (for example, a holder who fronts for an undisclosed controller) under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) (item 7);
@@ -620,7 +620,7 @@ Two points are specific to an Institution:
 - **Capacity:** The forums look at whether:
   - the offices that must act have the authority to do so (**CI-8.205 §3** (*Authority chain and delegation controls*));
   - the Institution has the funds, staff, and succession plan for the work (**CI-15.205 §1** (*Shared staffing and competency requirement*); **CI-12.205** (*Remedy systems and institutional redress capacity*)); and
-  - the independent checks on it can in fact be used.
+  - an independent verifying authority can test the correction, with the access and the time it is actually given ([Chapter Nine Part B §7.3.2 Capacity](core_09.005_system_alignment_certification_record_process.md#732-capacity), *Verifiability*). A correction nobody can verify is not capacity.
 - **One System:** An Institution that runs exactly one System gets one readiness check, on the one certification pass.
 
 <a id="74-denial-and-revocation-for-an-institution"></a>
@@ -631,10 +631,34 @@ Two points are specific to an Institution:
 
 [Chapter Nine Part B §7.4 Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation) applies to an Institution with these changes:
 
-- **Grounds and process:** The grounds for denial and for revocation, the rule that protection comes first, the process, and the bar on a permanent exclusion are those of Chapter Nine Part B §7.4 Denial and Revocation. The Institution's governing authority stands in for the operator, and the institutional findings stand in for the system findings.
-- **One System:** If the one certification pass is denied or revoked, that applies to the System under Chapter Nine Part B §7.4 Denial and Revocation and to the Institution's status under this subsection.
+- **Grounds and process:** Chapter Nine Part B §7.4 Denial and Revocation supplies these, unchanged:
+  - **Grounds** ([Chapter Nine Part B §7.4.2 When denial or revocation is required](core_09.005_system_alignment_certification_record_process.md#742-when-denial-or-revocation-is-required)):
+    - **Denial,** where no certification is held: the readiness check finds the Institution unwilling, or neither willing nor able; or willing but not able, with no narrower scope, support, or handover that closes the gap in time; or the one deferral has run and readiness is still not shown.
+    - **Revocation,** where certification is held: the same readiness findings, after notice and a chance to answer. Also a certification condition missed twice or materially violated, evidence shown to be false, fabricated, or concealed, or a required proof step not done in its window.
+    - **No conditional certification instead:** when one of these grounds is met, the forum must deny or revoke. It may not answer the ground by granting or continuing certification with certification conditions attached.
+  - **Protection first** ([Chapter Nine Part B §7.4.3 Protection first](core_09.005_system_alignment_certification_record_process.md#743-protection-first)):
+    - **What it acts on:** denial and revocation act on the certification status. They do not by themselves shut the Institution down.
+    - **Before either takes effect:** the forum states the interim protection and the limits on reliance.
+  - **Process** ([Chapter Nine Part B §7.4.4 Process](core_09.005_system_alignment_certification_record_process.md#744-process)):
+    - **Given beforehand:** before a denial or revocation, the Institution is given notice of the finding and the evidence, a short window to answer or to show the proof step, and the chance to contest the finding through the contestability chain.
+    - **Reasons:** the decision states its reasons on the record.
+    - **Urgent protection** ([Chapter Nine Part B §6.2.3 Urgent protection](core_09.005_system_alignment_certification_record_process.md#623-urgent-protection)): a stay, interim protection, or limit on reliance may be ordered at once, without waiting for the notice, the answer, or the decision. The process still runs afterwards, and the measure is entered on the record.
+  - **Not a permanent bar:** a denied or revoked operator may apply again.
+- **Who stands in:**
+  - **Operator:** read the Institution's governing authority wherever Chapter Nine Part B §7.4 Denial and Revocation says "operator".
+  - **System findings:** read the institutional findings wherever it says "system findings".
+- **Effects:** the effects are in [§7.5 Effects of denial and revocation for an Institution](#75-effects-of-denial-and-revocation-for-an-institution), not those in [Chapter Nine Part B §7.5 Effects of Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation).
+- **One System:** An Institution that runs exactly one System has one certification pass ([§1.1 Who is certified](#11-who-is-certified)). If that pass is denied or revoked, two things follow:
+  - **The System:** it is denied or revoked under Chapter Nine Part B §7.4 Denial and Revocation.
+  - **The Institution:** it is published as Not Certified, with the effects in [§7.5 Effects of denial and revocation for an Institution](#75-effects-of-denial-and-revocation-for-an-institution).
 
-**Effect:** Because there is no gate ([§1.2 No permission and no gate on forming or running](#12-no-permission-and-no-gate-on-forming-or-running)), a denial or revocation has only these effects:
+<a id="75-effects-of-denial-and-revocation-for-an-institution"></a>
+
+#### 7.5 Effects of denial and revocation for an Institution
+
+*In plain terms: a denial or revocation changes what the Institution may say about itself, who is told, how much its status counts in its Systems' reviews, and where the matter goes next. By itself it does not shut the Institution down.*
+
+**Effects:** Because there is no gate ([§1.2 No permission and no gate on forming or running](#12-no-permission-and-no-gate-on-forming-or-running)), a denial or revocation has only these effects:
 
 1. **Status:** The Institution is published as Not Certified and may not describe itself as certified.
 2. **Notice:** Those who rely on the Institution are told, and so are the forums of each System that cites its record.
@@ -643,7 +667,7 @@ Two points are specific to an Institution:
    - For a new System's go-live or a material expansion, the proponent must show that the institutional facts it relies on are enough despite the finding.
    - The status does not certify or block any System by itself. The System's own certification pass decides.
 4. **Seats in other bodies' certifications:** The Institution gives them up while it is Not Certified, as [§6.3 Forums, certifiers, and record offices as institutions](#63-forums-certifiers-and-record-offices-as-institutions) provides.
-5. **Referral:** The lead forum sends the matter on, as follows.
+5. **Referral:** The lead forum refers the matter to the forum that has jurisdiction over the type of certification problem identified. There are three routes:
    - **To the forum that decides failure and sanctions:** The lead forum refers the matter to the forum with jurisdiction under **CI-12.210** (*Institutional failure and dissolution*) and **CI-12.215** (*Institutional accountability and sanctions*) where:
      - the finding is able and not willing;
      - a revocation rests on concealment or fraudulent evidence; or
@@ -763,7 +787,7 @@ This section is **Phase VI, Operate** for an Institution.
 
 An Institutional Certification Record is recertified on the cadence set for the Institution's class in [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#review-cadence) (*Review cadence*), and the Institution is audited at the midpoint of that cadence. Review also reopens when any of the following is material:
 
-- **Part C triggers,** as [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) lists them, applied to the Institution: material change in its activity or context, concealed behavior, dependency growth, new risk, incident history, stakeholder evidence, a credible challenge, and misclassification or overdue reassessment of its class;
+- **Chapter Nine Part C triggers,** as [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) lists them, applied to the Institution: material change in its activity or context, concealed behavior, dependency growth, new risk, incident history, stakeholder evidence, a credible challenge, and misclassification or overdue reassessment of its class;
 - **Institutional Charter events:** an Institutional Charter amendment, a mismatch between the Institutional Charter and observed operation, operation materially outside chartered scope, or an overdue scheduled Institutional Charter review;
 - **Portfolio change:** a System added, retired, merged, split, or transferred to or from the Institution, or a change in who controls one;
 - **New material authority:** the Institution takes on authority over others that is material under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and that its Institutional Charter and current record do not cover (defined in [§9.2.1 What counts as new material authority](#921-what-counts-as-new-material-authority); the recertification it requires is in [§9.2.2 Recertification for new material authority](#922-recertification-for-new-material-authority));

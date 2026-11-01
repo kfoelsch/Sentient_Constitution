@@ -17,7 +17,7 @@
   - [Flourishing](core_00.000_preamble.md#flourishing).
 - Downstream: Principles:
   - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
-  - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6); Part B tradeoff and interpretation homes:
+  - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6); Chapter One Part B tradeoff and interpretation homes:
   - [Chapter One §13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity) (1.005 §13.1.1);
   - [Chapter One §13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality) (1.005 §13.1.3);
   - [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.005 §13.1.4);

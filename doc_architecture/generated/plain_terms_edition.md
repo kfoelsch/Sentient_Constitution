@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **732** of **1164** headings carry a gloss (63%).
+Coverage: **734** of **1165** headings carry a gloss (63%).
 
 ## Contents
 
@@ -33,9 +33,9 @@ Coverage: **732** of **1164** headings carry a gloss (63%).
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/62 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
-- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (9/35 glossed)
+- [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (10/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
-- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (18/39 glossed)
+- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (19/40 glossed)
 - [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/33 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
@@ -4107,7 +4107,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES
 
-Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 9/35 headings glossed
+Source file: [`core_09.005_system_alignment_certification_record_process.md`](../../core_09.005_system_alignment_certification_record_process.md) · 10/35 headings glossed
 
 #### 6. Forum Process
 
@@ -4301,17 +4301,17 @@ denial and revocation are real outcomes and not threats. If a system is not yet 
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#744-process)
 
-###### 7.4.5 Effect
+###### 7.4.5 Not a permanent bar
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#745-effect)
+[Source](../../core_09.005_system_alignment_certification_record_process.md#745-not-a-permanent-bar)
 
-###### 7.4.6 Not a permanent bar
+##### 7.5 Effects of Denial and Revocation
 
-*(no plain-terms gloss in source)*
+a denial or revocation changes what the operator may say about its system, who is told, and how reliance on the system is handled afterwards. It does not by itself shut the system down, and it does not by itself change anyone's standing.
 
-[Source](../../core_09.005_system_alignment_certification_record_process.md#746-not-a-permanent-bar)
+[Source](../../core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation)
 
 ## CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING
 
@@ -4517,7 +4517,7 @@ certification can feed standing, but it is not standing. The System Certificatio
 
 ## CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION
 
-Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 18/39 headings glossed
+Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 19/40 headings glossed
 
 #### 1. Purpose and Role
 
@@ -4635,7 +4635,7 @@ a certification defect is a real problem the evaluation turns up, not a paperwor
 
 ##### 7.3 Remediation readiness for an Institution
 
-when a review finds a problem in an Institution, the forums ask the same question they ask about a System: is it both willing and able to fix the problem? If the honest answer is no, its certification is refused or taken back. That cannot stop the Institution from existing or operating. It takes away the Institution's claim to be certified, warns those who rely on it, weakens the support its Systems can draw from its good status, and keeps it out of the seats that certify others.
+when a review finds a problem in an Institution, the forums ask the same question they ask about a System: is it both willing and able to fix the problem? If the honest answer is no, its certification is refused or taken back. By itself, that cannot stop the Institution from existing or operating. It takes away the Institution's claim to be certified, warns those who rely on it, weakens the support its Systems can draw from its good status, and keeps it out of the seats that certify others.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#73-remediation-readiness-for-an-institution)
 
@@ -4644,6 +4644,12 @@ when a review finds a problem in an Institution, the forums ask the same questio
 denial means certification is refused, and revocation means a certification already held is taken back. Both are real consequences. Neither shuts the Institution down.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution)
+
+##### 7.5 Effects of denial and revocation for an Institution
+
+a denial or revocation changes what the Institution may say about itself, who is told, how much its status counts in its Systems' reviews, and where the matter goes next. By itself it does not shut the Institution down.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#75-effects-of-denial-and-revocation-for-an-institution)
 
 #### 8. Institutional Certification Record
 

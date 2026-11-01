@@ -296,13 +296,13 @@ flowchart TB
 
 The five parts are different reading paths through the same floor:
 
-- [Part A](../core_06.000_rights_part_a.md) begins with planetary and material preconditions.
-- [Part B](../core_06.005_rights_part_b.md) turns to personal, cooperative, and stakeholder rights.
-- [Part C](../core_06.010_rights_part_c.md) governs trustworthy systems, security, information integrity, verification, lifecycle, and sandboxed innovation.
-- [Part D](../core_06.015_rights_part_d.md) governs standing, justice after verified violation, portability, comprehensibility, root-cause analysis, and interpretive review.
-- [Part E](../core_06.020_rights_part_e.md) governs conflict resolution and review, constitutional evolution, and Adoption Transition.
+- [Chapter Six Part A](../core_06.000_rights_part_a.md) begins with planetary and material preconditions.
+- [Chapter Six Part B](../core_06.005_rights_part_b.md) turns to personal, cooperative, and stakeholder rights.
+- [Chapter Six Part C](../core_06.010_rights_part_c.md) governs trustworthy systems, security, information integrity, verification, lifecycle, and sandboxed innovation.
+- [Chapter Six Part D](../core_06.015_rights_part_d.md) governs standing, justice after verified violation, portability, comprehensibility, root-cause analysis, and interpretive review.
+- [Chapter Six Part E](../core_06.020_rights_part_e.md) governs conflict resolution and review, constitutional evolution, and Adoption Transition.
 
-Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Articles XIII–XVIII in Part C and Articles XIX–XXV in Part D; Part E begins with Article XXVI.
+Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Articles XIII–XVIII in Chapter Six Part C and Articles XIX–XXV in Chapter Six Part D; Chapter Six Part E begins with Article XXVI.
 
 The following five maps open that structure one level further. Each Part box sits above its article rows, and each row keeps its articles side by side. The grids show source grouping rather than a process sequence. There are no visible arrows because the articles are not procedural steps. Subarticle labels are shortened to themes so the maps remain usable alongside the full source files.
 

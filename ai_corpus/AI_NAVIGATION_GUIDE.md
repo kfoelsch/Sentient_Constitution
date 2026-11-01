@@ -132,7 +132,7 @@ python3 tools/corpus_lookup.py validity --file FILE --anchor '#fragment'
 
 ## Current corpus shape (do not use retired filenames)
 
-Chapter Five lives in **band and apex files** (`core_05.0*_band_*.md`, `core_05.0*_apex_*.md`), with Part A compass in `core_05.000_definitions_home.md`. Adopted implementation text lives in **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06.0*_rights_part_*.md`). Standing measurement is **Chapter Nine**; standing effects are **Chapter Eleven**.
+Chapter Five lives in **band and apex files** (`core_05.0*_band_*.md`, `core_05.0*_apex_*.md`), with the Chapter Five Part A compass in `core_05.000_definitions_home.md`. Adopted implementation text lives in **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06.0*_rights_part_*.md`). Standing measurement is **Chapter Nine**; standing effects are **Chapter Eleven**.
 
 Inventory of current files: `ai_corpus/visualization/dependency_map.mmd` (generated file list, not a citation-weight graph). Citation edges: `crossref_matrix.json` and `section_crossref.json`.
 

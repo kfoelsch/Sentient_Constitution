@@ -22,7 +22,7 @@
   - [core_05.035_band_accountability.md](core_05.035_band_accountability.md).
 - Downstream: Principles:
   - [Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16);
-  - [Chapter One §17 Consequential Stewardship](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (1.010 §17); Part B tradeoff and interpretation homes:
+  - [Chapter One §17 Consequential Stewardship](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (1.010 §17); Chapter One Part B tradeoff and interpretation homes:
   - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);
   - [Chapter One §13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity) (1.005 §13.2.1);
   - [Chapter One §13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.005 §13.3);
