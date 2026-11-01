@@ -110,7 +110,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: **certification denial** is the refusal to certify a system that does not yet hold certification, because its operator has not shown that it is both willing and able to put a problem right. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.*
 
 - **What it is**
-  - **In scope:** The outcome non-certification, reached by refusing certification to a system that holds no certification status, at a first certification, a fresh review, or another pass, because the remediation readiness check does not show the operator both willing and able to correct a misalignment or certification defect.
+  - **In scope:** The outcome non-certification, reached by refusing certification to a system that holds no certification status, at a first certification, a fresh review, or another certification pass, because the remediation readiness check does not show the operator both willing and able to correct a misalignment or certification defect.
   - **Out of scope:**
     - [Certification Revocation](core_05.040_band_continuity.md#certification-revocation), which takes back a certification already held;
     - deferred certification, which postpones the decision for a bounded period and refuses nothing;
@@ -381,7 +381,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) of any System the Institution runs, which belongs to that System and is never repeated or overridden here;
     - any permission to form, join, or run an Institution, which [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) protects and this process does not condition;
-    - forum-to-forum referral and certification under Chapter Fourteen; or
+    - forum-to-forum referral and sending for ruling under Chapter Fourteen; or
     - a [Standing Record](core_05.035_band_accountability.md#standing-record) or any standing effect —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Institution](core_05.040_band_continuity.md#institution); [Institutional Charter](core_05.040_band_continuity.md#institutional-charter); [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification).
@@ -402,7 +402,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - using institutional alignment certification as a licence, gate, or authorization threshold on forming or running an Institution;
     - re-evaluating a System, or changing the outcome of its certification, inside an institutional pass; or
     - an Institution operating with an Institutional Charter, portfolio, or incentive structure that the certification pass never tested while the Institution presents itself as certified;
-  - **Secondary failure:** a pass that reads only the Institutional Charter text and not observed operation, a failed System certification that never reaches the Institution's status, a lead forum or record office that is inside the Institution's own control line, or an Institutional Certification Record that is not time-bound, not contestable, or concealed;
+  - **Secondary failure:** a certification pass that reads only the Institutional Charter text and not observed operation, a failed System certification that never reaches the Institution's status, a lead forum or record office that is inside the Institution's own control line, or an Institutional Certification Record that is not time-bound, not contestable, or concealed;
   - **Tertiary failure:** splitting an Institution, or its portfolio, so that no part reaches the class that requires certification.
 
 ---
@@ -3806,7 +3806,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - **What it is**
   - **In scope:** The published, versioned placement of seats, named in or kept with a [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) (or published on its own, where a Class P adopter chooses to publish one), for the materially binding acts taken within the chartered scope. For each seat it states:
-    - the acts and scope for which the placement applies;
+    - the acts and scope for which the seat placement applies;
     - the offices or roles eligible to hold the seat, and the stewards currently authorized to hold them;
     - every permitted merged-hosting arrangement and its independence safeguard;
     - each deputy or substitute who may act in the seat, including for an absent, excluded, captured, or conflicted holder, and the independent route when no qualified substitute is available; and
@@ -3826,15 +3826,15 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     3. each placed office and substitute is live, qualified, and unconflicted on the act;
     4. the change history shows who changed the map, under what authority, and when; and
     5. an unplaced, vacant, or conflicted seat was logged and routed to the substitute or independent route, not to the requester.
-  - **Secondary measure:** [Material Control Line](core_05.035_band_accountability.md#material-control-line) and [Auditability](core_05.050_band_oversight.md#auditability) — co-measures that test who actually directs a placement.
+  - **Secondary measure:** [Material Control Line](core_05.035_band_accountability.md#material-control-line) and [Auditability](core_05.050_band_oversight.md#auditability) — co-measures that test who actually directs a seat placement.
 
-    **Secondary assessment:** When evaluating the primary trace, identify any actor that shapes a placement without holding the authority to change it, and evaluate the map by where authority actually sits.
+    **Secondary assessment:** When evaluating the primary trace, identify any actor that shapes a seat placement without holding the authority to change it, and evaluate the map by where authority actually sits.
 <a id="charter-role-map-c"></a>
 - **What must hold**
-  - A seat in the chartered scope is placed, versioned, and traceable, and the placement does not depend on who happens to be present.
+  - A seat in the chartered scope is placed, versioned, and traceable, and the seat placement does not depend on who happens to be present.
   - **Primary failure:**
     - placing the verify-or-authorize, record, or contest seat inside the control line of the party whose act it is;
-    - letting that party change those placements alone; or
+    - letting that party change those seat placements alone; or
     - treating an entry that is dead, stale, or inconsistent with a competency clearance or standing lock as authority for an act.
   - **Secondary failure:** an undated or unattributed change; a seat moved on a pending act without a recorded reason; an unplaced seat left unlogged; or a map that is overdue for review.
 

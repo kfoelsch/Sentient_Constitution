@@ -1304,7 +1304,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Chapter Ten §7.4](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution) (institutions).
-- Forum routing: [Chapter Fourteen §4.5 Constitutional alignment certification and validation](core_14.000_forum.md#45-integrity-forums) and [§5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification).
+- Forum routing: [Chapter Fourteen §4.5 Constitutional alignment certification and validation](core_14.000_forum.md#45-integrity-forums) and [§5 Escalation and questions for ruling](core_14.000_forum.md#5-escalation-and-questions-for-ruling).
 - Read with: [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Proportionality](core_05.035_band_accountability.md#proportionality), and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution).
 
 </details>
@@ -3090,7 +3090,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Fourteen §2](core_14.000_forum.md#2-default-venue-and-primary-stakes) (14.000 §2); read with [Chapter Fourteen §3](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (14.000 §3) and [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-certification) (14.000 §5).
+- Owner: [Chapter Fourteen §2](core_14.000_forum.md#2-default-venue-and-primary-stakes) (14.000 §2); read with [Chapter Fourteen §3](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (14.000 §3) and [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-questions-for-ruling) (14.000 §5).
 - Read with:
   - [Primary-Stakes Routing](core_05.035_band_accountability.md#primary-stakes-routing),
   - [Forum Case Record](core_05.035_band_accountability.md#forum-case-record),
@@ -3111,7 +3111,7 @@ See **Anti-Segmentation Principle**.
     - assigned by this Constitution and the forum rules adopted under it, never self-declared by the forum and never conferred by a party's filing, consent, or choice of forum;
     - limited to the matter and the relief the assignment covers; and
     - separate from skill, capacity, and independence, which are measured elsewhere. Having one does not create, remove, or stand in for another.
-  - A question that Chapter Fourteen reserves to another forum family, or to Chapter Eleven, Chapter Twelve, or Chapter Thirteen, stays with its owner. A forum with jurisdiction over the matter refers, certifies, or stays it.
+  - A question that Chapter Fourteen reserves to another forum family, or to Chapter Eleven, Chapter Twelve, or Chapter Thirteen, stays with its owner. A forum with jurisdiction over the matter refers, sends for ruling, or stays it.
   - **Out of scope:**
     - a forum's skill, capacity, or independence;
     - who may file or contest a matter;
@@ -3141,7 +3141,7 @@ See **Anti-Segmentation Principle**.
   - [Chapter Fourteen §2](core_14.000_forum.md#2-default-venue-and-primary-stakes) (14.000 §2); read with
   - [Chapter Fourteen §2.2](core_14.000_forum.md#22-mixed-stakes-and-routing-asymmetry) (14.000 §2.2),
   - [Chapter Fourteen §3](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (14.000 §3), and
-  - [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-certification) (14.000 §5).
+  - [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-questions-for-ruling) (14.000 §5).
 
 </details>
 
@@ -3156,7 +3156,7 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
-    **Primary assessment:** Read the claim or defense as a whole to identify its primary stake. Include the requested relief, necessary parties, coercive safeguards, constitutional floor, practical effect, and any component question that Chapter Fourteen requires to be referred, certified, stayed, or coordinated.
+    **Primary assessment:** Read the claim or defense as a whole to identify its primary stake. Include the requested relief, necessary parties, coercive safeguards, constitutional floor, practical effect, and any component question that Chapter Fourteen requires to be referred, sent for ruling, stayed, or coordinated.
 <a id="primary-stakes-routing-c"></a>
 - **What must hold**
   - A case must go to the forum family that Chapter Fourteen assigns based on what is mainly at stake. Its caption, intake or specialty-panel label, funding incentives, or administrative convenience cannot send it elsewhere. Chapter Fourteen's rules for primary stakes, transfers, certifications, and independent backup review when a forum would otherwise judge its own authority still apply.
@@ -3216,7 +3216,7 @@ See **Anti-Segmentation Principle**.
     - standards stewardship;
     - reducing bounded uncertainty that matters to adjudication or regulation; or
     - [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators, expert evidence, or bounded uncertainty under [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication).
-  - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Fourteen §2 (*Default venue and primary stakes*), except where this family's sentience-status lead role under [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification) applies.
+  - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Fourteen §2 (*Default venue and primary stakes*), except where this family's sentience-status lead role under [Chapter Fourteen §5 Escalation and questions for ruling](core_14.000_forum.md#5-escalation-and-questions-for-ruling) applies.
 <a id="forum-family-technical-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -3279,7 +3279,7 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
-    **Primary assessment:** Apply Chapter Eleven and Chapter Fourteen enforcement hooks together with Chapter Fourteen's primary-stakes tests. Preserve certification to **Constitutional** forums when validity or structural remedy merges under Chapter Fourteen §5 (*Escalation and certification*).
+    **Primary assessment:** Apply Chapter Eleven and Chapter Fourteen enforcement hooks together with Chapter Fourteen's primary-stakes tests. Preserve certification to **Constitutional** forums when validity or structural remedy merges under Chapter Fourteen §5 (*Escalation and questions for ruling*).
 <a id="forum-family-environment-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to treat ecological merits as a purely private dispute when Chapter Fourteen §2 (*Default venue and primary stakes*) makes the primary stake environmental, or to split restoration from preconditions analysis to defeat joint ecological-merits review.
@@ -3315,7 +3315,7 @@ See **Anti-Segmentation Principle**.
     - Rights-Floor enforcement.
   - It includes the alignment rulings and coordinated records described in Chapter Fourteen §4.5 (*Integrity Forums*).
   - **Out of scope:**
-    - Constitutional certification questions for structural validity or class-wide remedy; or
+    - Constitutional questions for ruling on structural validity or class-wide remedy; or
     - independent-family lead when Chapter Fourteen §3 (*Transfer, consolidation, and coordination — continuity and anti-capture*) requires anti-self-judging backup because the main accusation is that the same family is biased, captured, conflicted, or concealing material facts.
 <a id="forum-family-integrity-a"></a>
 - **How to measure and assess**
@@ -3343,28 +3343,28 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Constitutional Forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.*
+*In plain terms: Constitutional Forums decide constitutional meaning and validity, constitutional questions for ruling, supremacy disputes, and structural remedies that change governance for classes of actors or systems.*
 
 - **What it is**
   - **In scope:** The forum family that decides:
     - constitutional validity and meaning;
     - structural remedies that change governance for classes of actors or systems;
-    - certified questions from other families; and
+    - questions for ruling from other families; and
     - supremacy disputes where constitutional text alone can resolve the certified issue.
   - **Out of scope:**
     - temporary how-to-implement rulings;
     - day-to-day operational detail; or
-    - uncertified questions without constitutional-meaning, validity, or class-wide structural-remedy stakes.
+    - questions not sent for ruling that have no constitutional-meaning, validity, or class-wide structural-remedy stakes.
 <a id="forum-family-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
     - Preserve **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*)-class review safeguards and Chapter Thirteen due-process hooks when a lower family certifies or escalates a matter.
-    - Distinguish certified constitutional questions from provisional implementation rulings on operational law under Chapter Fourteen §4.6 (*Constitutional Forums*), §4.7 (*Provisional implementation operational law*), and §5 (*Escalation and certification*).
+    - Distinguish constitutional questions for ruling from provisional implementation rulings on operational law under Chapter Fourteen §4.6 (*Constitutional Forums*), §4.7 (*Provisional implementation operational law*), and §5 (*Escalation and questions for ruling*).
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to treat temporary how-to-implement rulings or day-to-day operational detail as a final answer about constitutional meaning, validity, or a class-wide structural remedy. It is also non-compliant to weaken Chapter Fourteen §5 (*Escalation and certification*) certification so a family can skip it when those constitutional stakes are really present.
+  - **Primary failure:** It is non-compliant to treat temporary how-to-implement rulings or day-to-day operational detail as a final answer about constitutional meaning, validity, or a class-wide structural remedy. It is also non-compliant to weaken Chapter Fourteen §5 (*Escalation and questions for ruling*) certification so a family can skip it when those constitutional stakes are really present.
 
 ---
 
@@ -3396,7 +3396,7 @@ See **Anti-Segmentation Principle**.
     - evidence;
     - routing choices;
     - temporary orders;
-    - certified questions; and
+    - questions for ruling; and
     - final findings in that case.
   - It records forum supervision during the dispute; it is **not** a [Standing Record](core_05.035_band_accountability.md#standing-record).
   - None of the following by itself opens, updates, or corrects a standing record, role eligibility, trust status, recognition, or final standing effect:
@@ -3429,7 +3429,7 @@ See **Anti-Segmentation Principle**.
     - routing choices;
     - applicable preservation and Rights-Floor flags;
     - orders;
-    - certified questions;
+    - questions for ruling;
     - findings; and
     - contest paths.
 

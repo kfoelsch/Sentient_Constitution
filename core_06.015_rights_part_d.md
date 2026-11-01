@@ -205,7 +205,7 @@ This Article sets out how standing differs from competency bars, competency clea
   - LEQU scores;
   - substrate labels (the kind of body or hardware a being runs on) or product classifications.
 
-  That question is decided only under **Article VI-B** (*Sentience-Status Adjudication Floor*), [**Def.P1**](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) (*Animal Life, Sentient Life, and Sentience Status*), and [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-certification) (*Escalation and Certification*).
+  That question is decided only under **Article VI-B** (*Sentience-Status Adjudication Floor*), [**Def.P1**](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) (*Animal Life, Sentient Life, and Sentience Status*), and [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-questions-for-ruling) (*Escalation and Questions for Ruling*).
 
 #### Article XIX-B: Contestability and Proportional Restriction Limits
 <details>
@@ -508,7 +508,7 @@ This Article sets out the objective and scope of justice and the anti-cruelty fl
   - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5), and
   - [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: [Chapter Twelve §5 Lock design and enforcement](core_12.000_standing_integration.md#5-lock-design-and-enforcement) (12.000 §5) and [§5.4 Special violation rules](core_12.000_standing_integration.md#54-special-violation-rules) (*required imprisonment for verified violence and the other coercive or liberty-restricting safeguards*); [Chapter Thirteen §4.2](core_13.000_misconduct_designation.md#42-prevention--anti-constitutional-locks) (13.000 §4.2) (*Prevention — anti-constitutional locks*; imprisonment specialization).
-- Read with: [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification) (14.000 §5).
+- Read with: [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Fourteen §5 Escalation and questions for ruling](core_14.000_forum.md#5-escalation-and-questions-for-ruling) (14.000 §5).
 
 </details>
 
@@ -562,7 +562,7 @@ This Article sets the floors for restrictions. The operating rules live in the c
     - stated reasons;
     - practical access to the record sufficient to use those escalation and review pathways.
 
-  Narrow, justified restrictions under **Chapter One** are the only permissible limit on the above. Forum routing and certification are governed by [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification).
+  Narrow, justified restrictions under **Chapter One** are the only permissible limit on the above. Forum routing and certification are governed by [Chapter Fourteen §5 Escalation and questions for ruling](core_14.000_forum.md#5-escalation-and-questions-for-ruling).
 - **Imprisonment for violence:** Imprisonment is a liberty-restricting measure, separate from standing locks, and is recorded with the same attachment fields as a lock ([Chapter Twelve §5.1 Definition and attachment](core_12.000_standing_integration.md#51-definition-and-attachment)). It must satisfy every floor in this Article, including explicit duration limits, review cadence, and restoration conditions. Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. Substituting deprivation of life, or failing to impose imprisonment when this floor requires it, is non-compliant. Conditions are governed by [Chapter Twelve §5.4 Special violation rules](core_12.000_standing_integration.md#54-special-violation-rules) (*Required imprisonment for verified violence*). Imprisonment for verified anti-constitutional misconduct is governed on the same terms by [Chapter Thirteen §4.2 Prevention — anti-constitutional locks](core_13.000_misconduct_designation.md#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*; imprisonment specialization).
 - **Conditions of custody and restriction:** <a id="xx-b-conditions-of-custody"></a> While imprisonment, detention, supervised operation, quarantine, containment, or a comparable restriction is in force, the restricted sentient keeps:
   - healthcare and mental-health care, or for synthetic and hybrid sentients the operational equivalent — maintenance, integrity checks, and the resources needed to keep operating without degradation;

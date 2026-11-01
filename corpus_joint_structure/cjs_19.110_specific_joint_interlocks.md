@@ -246,7 +246,7 @@ The constitutional floor remains in [Chapter Fifteen](../core_15.000_governance.
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*).
 - Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Fourteen fami…*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-14.405 §5** (*Chamber creation, identification, and family boundary*), **CF-14.405 §8** (*Specialist and technical chamber discipline*).
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-14.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
-- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-14.415** (*Routing operations, transfer, certification, and representative treatment*).
+- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, questions for ruling, representative treatment*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-14.415** (*Routing operations, transfer, questions for ruling, and representative treatment*).
 
 </details>
 
@@ -259,7 +259,7 @@ These shared **CJS** terms apply wherever the following owner files apply, as ro
 - **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*)
 - **CF-14.405** (*Forum formation, forum-structure mapping, and chamber structure*)
 - **CF-14.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*)
-- **CF-14.415** (*Routing operations, transfer, certification, and representative treatment*)
+- **CF-14.415** (*Routing operations, transfer, questions for ruling, and representative treatment*)
 
 Apply the operational evaluation terms in **CJS-5.125 §13** (*Accountability: procedural integrity and adjudication terms*). This subsection does not replace **CI** or **CF** detail.
 
@@ -278,7 +278,7 @@ It is non-compliant to treat a body or route as valid if the records do not make
 
 It is also non-compliant to use common-question procedures to suppress material sentient-specific contest rights required by owner rules.
 
-Owner detail remains in the institutional family, including **CI-14.205** (*Procedure integrity, contestability, and secondary review*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*), and the forum family, including **CF-14.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-14.415** (*Routing operations, transfer, certification, and representative treatment*), and **CF-14.420** (*Appeal, secondary review, and exhaustion pathways*).
+Owner detail remains in the institutional family, including **CI-14.205** (*Procedure integrity, contestability, and secondary review*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*), and the forum family, including **CF-14.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-14.415** (*Routing operations, transfer, questions for ruling, and representative treatment*), and **CF-14.420** (*Appeal, secondary review, and exhaustion pathways*).
 
 ---
 

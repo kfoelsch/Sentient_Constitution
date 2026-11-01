@@ -137,7 +137,7 @@ The type subsections below catalog common patterns. They do not replace the eval
 The following forms of evasion are prohibited:
 
 - **Fake measures and paperwork** — claiming compliance through what is measured, reported, or recorded rather than through the result the definition requires:
-  - swapping in measures, indicators, or descriptions that diverge from what the definition is about, while still claiming a pass
+  - swapping in measures, indicators, or descriptions that diverge from what the definition is about, while still claiming a passing result
   - optimizing for a score or measure in ways that make the real-world result the definition requires worse
   - presenting records, artifacts, or evidence that materially misstate what the system actually does or whether it complies
   - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§2.1.1 Formal Label and Representation Gaming](#211-formal-label-and-representation-gaming))

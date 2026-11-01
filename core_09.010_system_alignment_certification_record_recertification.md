@@ -31,7 +31,7 @@
   - [§11](#11-relationship-to-standing);
   - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000);
   - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000).
-- Read with: **[CF-14.415](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-certification-and-representative-treatment)** (*Routing operations, transfer, certification, and representative treatment*) and **[CF-14.425](corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-14425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+- Read with: **[CF-14.415](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing operations, transfer, questions for ruling, and representative treatment*) and **[CF-14.425](corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-14425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 </details>
 
@@ -259,7 +259,7 @@ The record must identify, at minimum:
 
 The record must identify, at minimum:
 
-- **Forum supervision:** the forum family or authority that issued, adopted, referred, certified, stayed, or reviewed each component, and the supervisory sequence (who oversees what, and in what order) under [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence);
+- **Forum supervision:** the forum family or authority that issued, adopted, referred, sent for ruling, stayed, or reviewed each component, and the supervisory sequence (who oversees what, and in what order) under [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence);
 - **Functional-independence record:**
   - the four seats required by [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (initiating, verify-or-authorize, record, and contest), including each holder and authority, and the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) version in force when each seat was held;
   - every recusal, delegation, substitute, permitted merger, or emergency departure; and
@@ -368,7 +368,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 
 - A System Certification Record must be attributable, reconstructable, and independently reviewable under Chapters Two through Four, [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [Record Integrity](core_05.035_band_accountability.md#record-integrity);
 - It must identify:
-  - who issued, adopted, referred, certified, [stayed](core_05.035_band_accountability.md#stay), or reviewed each material component;
+  - who issued, adopted, referred, sent for ruling, [stayed](core_05.035_band_accountability.md#stay), or reviewed each material component;
   - what evidence was materially relied on; and
   - what changed between Record Versions, who made each change, under what authority, and at whose request, and, for a new record, what has changed since the completed record it follows;
 - Audit scope must be enough to test whether the recorded outcome follows from the recorded evidence and assumptions; and
@@ -416,7 +416,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 
 This section is sub-phase **VIa** of Phase VI (Operate), operate and recertify. It covers operating the certified system, keeping it current, and reopening review.
 
-**Validation.** Chapter Fourteen calls the forum review of an existing system *ongoing alignment validation*. In this chapter, validation is not a separate process. It is a pass on a system that is already operating: a recertification, or a reopened or fresh review. It runs through [Part B §6 Forum Process](core_09.005_system_alignment_certification_record_process.md#6-forum-process) like any other pass and ends in an outcome under [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
+**Validation.** Chapter Fourteen calls the forum review of an existing system *ongoing alignment validation*. In this chapter, validation is not a separate process. It is a certification pass on a system that is already operating: a recertification, or a reopened or fresh review. It runs through [Part B §6 Forum Process](core_09.005_system_alignment_certification_record_process.md#6-forum-process) like any other certification pass and ends in an outcome under [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 
 **Monitoring and response.** Operators and stewards must carry out the operating plan on the record under [§8.1 Minimum record contents](#81-minimum-record-contents). Named owners must:
 
@@ -439,11 +439,11 @@ Correction and release of conditions follow the independent-verification require
 
 #### 9.1 Recertification schedule and the new record
 
-*In plain terms: a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each pass opens a new record linked to the last one.*
+*In plain terms: a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each certification pass opens a new record linked to the last one.*
 
 A **System Certification Record** must be recertified on the cadence set for its system class in [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#review-cadence) (*Review cadence*), and audited at the midpoint of that cadence.
 
-**New record for each pass.** Each recertification, and each reopened or fresh review, opens a new System Certification Record. The new record:
+**New record for each certification pass.** Each recertification, and each reopened or fresh review, opens a new System Certification Record. The new record:
 
 - links to the completed record it follows and states what has changed since ([§8.1.1 System identity, scope, and prior record](#811-system-identity-scope-and-prior-record)); and
 - runs through [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence) from step 1, as a first certification does.
@@ -683,7 +683,7 @@ A System Certification Record must name the four challenge paths below, so anyon
   Internal operator review, vendor attestation, or technical sign-off is not this path.
 - **Component forum path** — for a challenge to one finding in the record. It goes to the Chapter Fourteen forum family that has authority over that finding.
 - **Lead-integrity path** — for a challenge to how the lead forum ran the process, such as capture, hidden information, reviewing its own work, or calling certification finished too soon. It goes through Integrity routing, with a backup forum so the lead forum does not judge itself.
-- **Escalation path** — for a dispute that needs to move to a different forum or a higher one under Chapter Fourteen. That means transfer, certifying a question to another forum, backup routing, or escalation from one forum family to another. It applies when the main stakes belong elsewhere, constitutional validity is in question, a structural fix is needed, two forum families are deadlocked, or a forum would otherwise be judging itself.
+- **Escalation path** — for a dispute that needs to move to a different forum or a higher one under Chapter Fourteen. That means transfer, sending a question to another forum for ruling, backup routing, or escalation from one forum family to another. It applies when the main stakes belong elsewhere, constitutional validity is in question, a structural fix is needed, two forum families are deadlocked, or a forum would otherwise be judging itself.
 
 Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or use up [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) windows.
 

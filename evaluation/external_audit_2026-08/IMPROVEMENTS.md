@@ -46,7 +46,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A4. Opening filter for contested status (over-inclusion guard) — **done**
 
-**Homes:** [Article V-D filing integrity](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Fourteen §5](../../core_14.000_forum.md#5-escalation-and-certification) hook. Declining a crank filing is not a withholding determination.
+**Homes:** [Article V-D filing integrity](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Fourteen §5](../../core_14.000_forum.md#5-escalation-and-questions-for-ruling) hook. Declining a crank filing is not a withholding determination.
 **Do not:** Let the opening filter become a withholding device.
 
 ### A5. Reader-path accessibility (process support) — **done**

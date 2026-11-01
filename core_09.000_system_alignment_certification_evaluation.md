@@ -87,7 +87,7 @@ Chapter Nine, **Part A**, is the constitutional owner of **system alignment cert
 - Read with:
   - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, and
   - **CS-6.345** (*System lifecycle*);
-  - **CF-14.415** (*Routing operations, transfer, certification, and representative treatment*) and
+  - **CF-14.415** (*Routing operations, transfer, questions for ruling, and representative treatment*) and
   - **CF-14.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **Article XVI** (*Audit, Transparency, and Independent Verification*) and
   - [Auditability](core_05.050_band_oversight.md#auditability) (*auditing floors — SAC is one especially large audit process under oversight, not the sole auditing home*); **CJS-5.110 §3 (*Oversight: auditability and reconstructability terms (annex)*) and CJS-5.115 §3** (*Audit process home*)–
   - **CJS-5.110 §5** (*Oversight: independent verification and claim-integrity terms*).

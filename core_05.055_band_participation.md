@@ -331,7 +331,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
   - [Indigenous Continuity](core_05.040_band_continuity.md#indigenous-continuity) (*indigenous-continuity holder as a published-representative class*);
   - [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity);
   - [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions);
-  - **[CF-14.415](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-certification-and-representative-treatment)** (*Routing operations, transfer, certification, and representative treatment*) (*appointment, recusal, and publication of natural-systems representatives*).
+  - **[CF-14.415](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing operations, transfer, questions for ruling, and representative treatment*) (*appointment, recusal, and publication of natural-systems representatives*).
 
 </details>
 
@@ -346,7 +346,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether life-supporting natural systems' continuity and integrity interests are counted in interpretation and governance — not dismissed as scenery or stockpile — and whether a published representative may bring those interests to an Environment Forum in the system's own interest.
 
-    **Primary assessment:** Align with [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity), [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions), [Harm](core_05.035_band_accountability.md#harm), and [Risk](core_05.040_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition. [Chapter Fourteen §4.4 Environment Forums](core_14.000_forum.md#44-environment-forums) states the Environment-forum filing floor; **CF-14.415** — Routing operations, transfer, certification, and representative treatment, recusal, and publication rules must implement, not narrow, that floor.
+    **Primary assessment:** Align with [Ecological Integrity](core_05.040_band_continuity.md#ecological-integrity), [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions), [Harm](core_05.035_band_accountability.md#harm), and [Risk](core_05.040_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition. [Chapter Fourteen §4.4 Environment Forums](core_14.000_forum.md#44-environment-forums) states the Environment-forum filing floor; **CF-14.415** — Routing operations, transfer, questions for ruling, and representative treatment, recusal, and publication rules must implement, not narrow, that floor.
 <a id="natural-systems-standing-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -2972,7 +2972,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 - Owner floor: [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Cluster component: [*Treatment of Life by Status*](core_05.055_band_participation.md#treatment-of-life-by-status) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status).
-- Venue: [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) / [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) (14.000 §4.2) as default lead; read with [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-certification) (14.000 §5) (*Sentience-status adjudication* hook).
+- Venue: [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) / [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) (14.000 §4.2) as default lead; read with [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-questions-for-ruling) (14.000 §5) (*Sentience-status adjudication* hook).
 - Read with:
   - [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion),
   - [Substrate Class](core_05.055_band_participation.md#substrate-class),
@@ -2993,7 +2993,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - revised;
     - narrowed; or
     - restored.
-  - **In scope — venue:** Default lead venue is [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) under [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains), because the primary stake is indicator evaluation, expert evidence, and bounded uncertainty — not ordinary sentient-versus-sentient private dispute. [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification) preserves:
+  - **In scope — venue:** Default lead venue is [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) under [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains), because the primary stake is indicator evaluation, expert evidence, and bounded uncertainty — not ordinary sentient-versus-sentient private dispute. [Chapter Fourteen §5 Escalation and questions for ruling](core_14.000_forum.md#5-escalation-and-questions-for-ruling) preserves:
     - **Constitutional** certification where a structural or validity question cannot be separated;
     - **Integrity** routing where capture or taxonomy-of-convenience is material; and
     - **Institutional** routing where an institution's classification practice is the primary stake.
@@ -3050,7 +3050,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - excludes candidates on [Substrate Class](core_05.055_band_participation.md#substrate-class) grounds contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion);
     - withholds, narrows, or revokes Chapter Six protection on unresolved uncertainty alone;
     - uses the filing-integrity opening gate to withhold, narrow, or delay protection after a status case is lawfully open, or requires certainty of sentience before opening;
-    - declines filings at intake without logging the indicator cited and the reason, or leaves the decline log outside [Forum Family, Integrity](core_05.035_band_accountability.md#forum-family-integrity) sampling under [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification);
+    - declines filings at intake without logging the indicator cited and the reason, or leaves the decline log outside [Forum Family, Integrity](core_05.035_band_accountability.md#forum-family-integrity) sampling under [Chapter Fourteen §5 Escalation and questions for ruling](core_14.000_forum.md#5-escalation-and-questions-for-ruling);
     - proceeds to merits on a request to withhold, narrow, or revoke without an independent representative for the entity, or on indicator evidence sourced solely from the parent system, operator, or another party with an ownership or dependency interest;
     - treats contested or affirmed status as a shield for the operator's deployment against compatible system-level containment, or credits the operator's Contribution Axis for the entity's status — the inclusion-direction taxonomy-of-convenience failure under [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*);
     - narrows status without a declared end-date and mandatory periodic review; or
@@ -3067,7 +3067,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 - Owner floor: [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Process owner: [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication).
-- Venue / minimum fields: [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-certification) (14.000 §5) (*Sentience-status adjudication* hook).
+- Venue / minimum fields: [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-questions-for-ruling) (14.000 §5) (*Sentience-status adjudication* hook).
 - Incorporation: [Chapter Nineteen](core_19.000_incorporation.md) (19.000) (*dedicated record format enumerated this edition*).
 - Cluster component: [*Treatment of Life by Status*](core_05.055_band_participation.md#treatment-of-life-by-status) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status).
 - Read with:
@@ -3106,7 +3106,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - where declined filings are recorded;
       - Integrity sample cadence; and
       - the published floor set of indicators.
-  - This edition lists [`corpus_forum/cf_14.475_sentience_status_record.md`](corpus_forum/cf_14.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Nineteen](core_19.000_incorporation.md). They implement, and do **not** narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
+  - This edition lists [`corpus_forum/cf_14.475_sentience_status_record.md`](corpus_forum/cf_14.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Nineteen](core_19.000_incorporation.md). They implement, and do **not** narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Fourteen §5 Escalation and questions for ruling](core_14.000_forum.md#5-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
   - **Depends on:** [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication); [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
   - **Out of scope:**
     - [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) as the process itself;
@@ -3137,7 +3137,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - an incomplete case note; or
     - using the record to withhold, narrow, or revoke Chapter Six protection on unresolved uncertainty alone;
   - **Secondary failure:**
-    - missing required minimum fields under [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-certification) when adjudication has run;
+    - missing required minimum fields under [Chapter Fourteen §5 Escalation and questions for ruling](core_14.000_forum.md#5-escalation-and-questions-for-ruling) when adjudication has run;
     - concealed, non-contestable, or non-inspectable status findings; or
     - treating the record as a [Standing Record](core_05.035_band_accountability.md#standing-record) or as the whole [Forum Case Record](core_05.035_band_accountability.md#forum-case-record);
   - **Tertiary failure:**
