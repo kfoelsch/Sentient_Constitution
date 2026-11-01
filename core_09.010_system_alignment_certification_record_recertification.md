@@ -433,7 +433,7 @@ Any of the following that materially calls alignment into question requires time
 - false readiness evidence; or
 - a credible challenge.
 
-Correction and release of conditions follow the independent-verification requirements in [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
+Correction, fulfillment, and release of conditions follow the independent-verification requirements in [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 
 <a id="91-recertification-schedule-and-the-new-record"></a>
 
@@ -752,7 +752,7 @@ A System Certification Record may feed Chapter Eleven standing only when it is b
 
 #### 11.4 Contribution standing record
 
-Positive certification, validation, recertification, remediation completion, or condition release may supply verified input for a **contribution standing record** where it demonstrates:
+Positive certification, validation, recertification, remediation completion, condition fulfillment, or condition release may supply verified input for a **contribution standing record** where it demonstrates:
 
 - constitutional benefit;
 - competent stewardship;

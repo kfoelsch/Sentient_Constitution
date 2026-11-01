@@ -185,7 +185,7 @@ This section is **Phase III, Review**. It sets out the constitutional **supervis
 For materially impactful systems, a forum-supervised process under Chapter Fourteen is required wherever a forum acts on a certification. That work falls in these phases:
 
 - **Phase III, Review** (this section): independent review of the evidence and stakeholder concerns, on every certification pass;
-- **Phase IV, Decide** ([§7 Certification Outcomes](#7-certification-outcomes)): the outcome. That is official constitutional alignment **certification** (provisional or full, with or without conditions), deferral, **non-certification**, **withdrawal**, or release from conditions;
+- **Phase IV, Decide** ([§7 Certification Outcomes](#7-certification-outcomes)): the outcome. That is official constitutional alignment **certification** (provisional or full, with or without conditions), deferral, **non-certification**, **withdrawal**, fulfillment of conditions, or release from conditions;
 - **Phase V, Record** ([Part C §8 System Certification Record](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)): completing and publishing the one System Certification Record; and
 - **Phase VIa, Operate and recertify** ([Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening)): **recertification**, **validation** of an existing system, and reopened or fresh review. Each starts a new pass that returns to Phase I. The challenge path that stays open during operation is in [Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification).
 
@@ -499,7 +499,8 @@ A certification decision must state its outcome on the record under [Part C §8.
 - deferred certification;
 - non-certification;
 - withdrawal;
-- expiration; or
+- expiration;
+- fulfillment of conditions; or
 - release from conditions.
 
 A system that holds neither provisional nor full certification is **Not Certified**. That is the case when certification is:
@@ -553,7 +554,14 @@ For every condition or corrective task, the record must name:
 - the independent verifying authority; and
 - the consequence of non-completion or violation.
 
-A condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Releasing a condition requires independent verification of the evidence supporting release, under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and [§6.2 Supervisory sequence](#62-supervisory-sequence).
+A condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Fulfilling or releasing a condition requires independent verification of the evidence supporting it, under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and [§6.2 Supervisory sequence](#62-supervisory-sequence).
+
+**How a condition ends.** A condition ends in one of two ways, and the record says which:
+
+- **Fulfillment of conditions:** the condition was met. The owner shows the evidence, and the independent verifying authority confirms it. For a continuing operating condition, it was met if it held for the whole period the condition covered.
+- **Release from conditions:** the condition no longer applies, because what it guarded against is gone or the scope it covered has been withdrawn. The record states the reason, and the independent verifying authority confirms it.
+
+A condition that was not met is not released. Not meeting it has the consequence the record names for non-completion or violation ([§7.4 Denial and Revocation](#74-denial-and-revocation)).
 
 <a id="711-systems-already-operating"></a>
 
@@ -577,7 +585,7 @@ The go-live rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as i
 
 #### 7.2 Certification Defects and Correction
 
-*In plain terms: defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or release from conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct), [§7.4 Denial and Revocation](#74-denial-and-revocation)).*
+*In plain terms: defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or fulfillment of conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct), [§7.4 Denial and Revocation](#74-denial-and-revocation)).*
 
 Certification defects found under any Part A evaluation are not minor paperwork mistakes. They include:
 
@@ -605,7 +613,7 @@ Which of these the forum chooses turns on whether the operator or steward is wil
 
 It uses the cause finding and tier windows in [Part C §9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification).
 
-The operator or steward supplies evidence of correction. The assigned authority independently verifies it before it supports authorization of that scope or release from its conditions. Correction must:
+The operator or steward supplies evidence of correction. The assigned authority independently verifies it before it supports authorization of that scope or fulfillment of its conditions. Correction must:
 
 - address the defect and its identified cause; and
 - show that the affected safeguards hold, including regression confirmation where [CS-6.345 §10 Recertification, regression testing, and certification defects](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-10-recertification-regression-testing-and-certification-defects) requires it.
@@ -716,7 +724,7 @@ The readiness check measures the correction needed. It does not measure the size
 
 1. the readiness check finds the operator able and not willing, or neither willing nor able, after notice and the chance to answer;
 2. a condition's deadline has passed unmet twice, or a continuing condition has been materially violated, and the operator cannot show a verified cause outside its control;
-3. evidence offered for readiness, for correction, or for release from a condition is shown to be false, fabricated, or concealed;
+3. evidence offered for readiness, for correction, or for fulfillment of or release from a condition is shown to be false, fabricated, or concealed;
 4. a proof step the forum required was not done inside its window while the misalignment is current; or
 5. the readiness check finds the operator willing and not able, and the gap is not closed inside the window the forum set after interim protection took effect.
 
