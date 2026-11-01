@@ -528,6 +528,25 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError("Internal regression failed: bare pass was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_bare_pass("doc_architecture.md", "The pass routes.\n"):
         raise RuntimeError("Internal regression failed: bare pass was flagged in the exempt move-log file.")
+    condition_findings = scan_avoid_bare_condition(
+        "core_09.005_system_alignment_certification_record_process.md",
+        "A certification can carry certification conditions, and a certification condition ends by fulfillment or release.\n"
+        "A certification with or without conditions may go live.\n"
+        "The record names every condition required before go-live.\n"
+        "Release from conditions needs independent verification.\n"
+        "A continuing operating condition must hold, and the condition deadline is stated for certification.\n"
+        "Safe Conditions and adversarial conditions are other senses, as in a certification of working conditions.\n"
+        "The forum verifies, authorizes, declines, or conditions the act.\n"
+        "The lock names the conditions under which it lifts.\n"
+        "A missed condition fulfillment is a defect.\n"
+        "See [the gate](core_09.005_system_alignment_certification_record_process.md#conditions) and `release from conditions` in code.\n",
+    )
+    if len(condition_findings) != 5:
+        raise RuntimeError("Internal regression failed: bare condition was not flagged or qualified forms broke.")
+    if not scan_avoid_bare_condition("core_07.000_charters.md", "A certification with or without conditions.\n"):
+        raise RuntimeError("Internal regression failed: bare condition was not flagged (AUDIT-SCOPE-01).")
+    if scan_avoid_bare_condition("doc_architecture.md", "A certification with or without conditions.\n"):
+        raise RuntimeError("Internal regression failed: bare condition was flagged in the exempt move-log file.")
     cq_findings = scan_avoid_certify_question(
         "core_14.000_forum.md",
         "The lead forum must refer, certify, or stay the matter.\n"
@@ -1138,6 +1157,71 @@ def scan_avoid_bare_pass(rel_path: str, text: str) -> list[Finding]:
         check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
         if _bare_pass_spans(check_line):
             findings.append(Finding(file=rel_path, line=idx, rule="avoid-bare-pass", text=raw.strip()))
+    return findings
+
+
+# Bare **condition** (custodian decision, 2026-11-01): a condition attached to a certification outcome is always a **certification condition**.
+# "Condition" carries unrelated senses in the corpus (Safe Conditions, adversarial and exploited conditions, working conditions, a medical
+# condition, the corrective conditions of a standing lock, a condition on offering under Commercial Compliance, a condition of a right),
+# so "the condition" or "release from conditions" alone does not say that a certification outcome is meant. The rule reads the line, not the
+# file (AUDIT-SCOPE-01): the noun after a determiner, preposition, conjunction, possessive, or at the start of a bullet or cell is rejected
+# only on a line that speaks of certification (certif-, go-live, reopening trigger, fulfillment, bounded authorization). The phrases "fulfillment of conditions" and "release from conditions" are matched on any line. Qualified forms (certification condition, operating conditions, Safe Conditions, corrective condition) are not
+# matched, nor is the verb ("conditions the act"). The compounds "condition deadline", "condition fulfillment", "condition release", and
+# "condition violation" are matched on any line unless "certification" comes first. Enforced on every scanned file except `doc_architecture.md`.
+_BARE_CONDITION_EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
+_CONDITION_WORD = re.compile(r"(?<![A-Za-z0-9-])(conditions?)(?![A-Za-z0-9-])", re.IGNORECASE)
+_CONDITION_BARE_PRECEDERS = frozenset(
+    """
+    a an the this that these those each every any all some no other another its their our same one of or and to from with without
+    for by in under on as if when where whether unless until before after
+    distinguish state states name names lift lifts lifting release releases releasing attach attaches attached carry carries impose imposes
+    add adds verify verifies list lists
+    """.split()
+)
+_CONDITION_CERT_CUE = re.compile(
+    r"certif|go-live|reopening trigger|fulfil|bounded authori",
+    re.IGNORECASE,
+)
+_CONDITION_COMPOUND = re.compile(
+    r"(?<![A-Za-z0-9-])(?<!certification )condition\s+(?:deadlines?|fulfil\w*|releases?|violations?|breach\w*)\b"
+    r"|(?<![A-Za-z0-9-])(?:fulfil\w*\s+of|release\s+from)\s+(?:(?:its|their|the|a|an|any|those|these|every)\s+)?conditions?(?![A-Za-z0-9-])",
+    re.IGNORECASE,
+)
+
+
+def _bare_condition_spans(check_line: str) -> list[tuple[int, int]]:
+    spans: list[tuple[int, int]] = []
+    for match in _CONDITION_COMPOUND.finditer(check_line):
+        spans.append((match.start(), match.end()))
+    if not _CONDITION_CERT_CUE.search(check_line):
+        return spans
+    for match in _CONDITION_WORD.finditer(check_line):
+        before = check_line[: match.start()]
+        word = _pathway_preceding_word(check_line, match.start())
+        if before.rstrip().endswith(("'s", "\u2019s")):
+            word = "of"
+        if word in _CONDITION_BARE_PRECEDERS or word == "^":
+            spans.append((match.start(1), match.end(1)))
+    return spans
+
+
+def scan_avoid_bare_condition(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare noun **condition** / **conditions** in the certification sense: say **certification condition(s)**."""
+    if rel_path in _BARE_CONDITION_EXEMPT:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        if _bare_condition_spans(check_line):
+            findings.append(Finding(file=rel_path, line=idx, rule="avoid-bare-condition", text=raw.strip()))
     return findings
 
 
@@ -1985,6 +2069,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-bare-level`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, ordinary degree senses (**at the level of**, **a level that**, **the level at which**), and any qualified compound. \"Tier\" names only the forum urgency tiers.",
         "- **`avoid-certify-question`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject \"certify a question\" and its family (**certified question(s)**, **uncertified questions**, **certification questions**, a question the lead forum **certifies**, the lists **refer, certify, or stay** and **referral, certification, and stay**, **certify or escalate**, and the heading **Escalation and certification**) → say **question for ruling** and **send for ruling** (Chapter Fourteen §5), with **refer**, **transfer**, and **stay** as the other moves. **Allowed:** every certification outcome and process (provisional, full, conditional, deferred, system, institutional, recertification) and **certification challenge**.",
         "- **`avoid-bare-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **pass** after a determiner (**the pass**, **a pass**, **each pass**, **the passes**) → say **certification pass** (a whole run of a certification, validation, or recertification), **component pass** (one component's part of it; Chapter Nine Part B §6), or **review pass**; for a result say **passing result**. **Allowed:** the verb (**passes the tests**, **must pass**), **pass of …**, **pass/fail** and **pass or fail**, and any qualified compound (**first pass**, **full pass**).",
+        "- **`avoid-bare-condition`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), on a line that speaks of certification (certif-, go-live, reopening trigger, fulfillment, bounded authorization), reject the noun **condition** / **conditions** after a determiner, preposition, conjunction, or possessive, or at the start of a bullet or cell (**the conditions**, **with or without conditions**, **release from a condition**) → say **certification condition(s)**. Also rejects **condition deadline**, **condition fulfillment**, **condition release**, and **condition violation** on any line unless **certification** comes first. **Allowed:** any qualified form (**certification condition**, **continuing certification condition**, **operating conditions**, **Safe Conditions**, **corrective conditions** of a standing lock), the verb (**conditions the act**), and the other senses on lines that do not speak of certification.",
         "- **`avoid-bare-placement`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **placement** / **placements** after a determiner or generic word (**the placement**, **a placement**, **those placements**) or at the start of a sentence, bullet, or cell → say what is placed or which kind: **seat placement**, **role placement**, **Published Placement** (Chapter Eight §5), **Corpus placement**, **display placement**, **paid placement**, or name the thing (**placement of the record seat**). **Allowed:** **placement of …**, any qualified compound, and the verb (**places**, **placed**, **placing**).",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
@@ -2065,6 +2150,7 @@ def main() -> int:
         findings.extend(scan_avoid_bare_level(rel_path, text))
         findings.extend(scan_avoid_bare_placement(rel_path, text))
         findings.extend(scan_avoid_bare_pass(rel_path, text))
+        findings.extend(scan_avoid_bare_condition(rel_path, text))
         findings.extend(scan_avoid_certify_question(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
         findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))

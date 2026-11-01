@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-11-01T07:40:48+00:00",
+  "generated_at": "2026-11-01T08:17:06+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -985,7 +985,7 @@
     [30,"#63-forums-certifiers-and-record-offices-as-institutions","6.3 Forums, certifiers, and record offices as institutions"],
     [30,"#7-certification-outcomes","7. Certification Outcomes"],
     [30,"#71-go-live-for-an-institution","7.1 Go-live for an Institution"],
-    [30,"#711-conditions","7.1.1 Conditions"],
+    [30,"#711-certification-conditions","7.1.1 Certification conditions"],
     [30,"#72-certification-defects-and-correction","7.2 Certification defects and correction"],
     [30,"#73-remediation-readiness-for-an-institution","7.3 Remediation readiness for an Institution"],
     [30,"#74-denial-and-revocation-for-an-institution","7.4 Denial and revocation for an Institution"],

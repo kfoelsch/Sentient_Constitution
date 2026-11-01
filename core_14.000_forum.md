@@ -116,7 +116,7 @@ This chapter states which **forum families** **supervise** which primary questio
      - **Integrity** — official alignment certification and lead coordination
      - **Environment** — environmental-alignment component where material
      - other family component findings under this chapter’s routing
-   - Sentients can challenge certification results, attach conditions, and reopen the file when needed — but a certification does **not** replace standing measurement.
+   - Sentients can challenge certification results, attach certification conditions, and reopen the file when needed — but a certification does **not** replace standing measurement.
    - Important findings from a certification can count as **verified inputs** when Chapter Eleven measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)).
 
 **Forum families** are the primary institutions through which this Constitution **supervises** those tracks. They are distinct from routine executive administration of enacted rules.
@@ -747,7 +747,7 @@ This subsection sets out when questions are sent to **Constitutional** forums fo
 - **Constitutional questions for ruling:** Where resolving such a matter requires determination of constitutional meaning, validity, or structural effect under **Safety**, **Truth**, **Article I** (*Environmental Survival*), or comparable long-horizon rights and constraint provisions, the lead family must send that question to **Constitutional** forums for ruling **under** **adopting** **documents** that **preserve** applicable review safeguards.
 - **Provisional operational law:** Where a provisional implementation-operational-law ruling under **section 4.7** cannot be separated from constitutional validity, meaning, or structural remedy, the lead family must send the question for ruling or escalate under this section. Disposition of separable provisional rulings remains under **section 4.6**.
 - **Alignment rulings and general doctrine:** Where an **Integrity** forum's **alignment** ruling **would** establish **general** **implementation** operational **doctrine** or **class-wide** **structural** rules **outside** **case-specific** or **pattern-specific** **integrity** **remediation**, the **lead** forum **must** **send** **for** **ruling** or **escalate** under **adopting** **documents** consistent with **Article XIII-B** (*Right to Redress and Remedy*) and **this** **section**. **Alignment** rulings **do** **not** **use** the **section 4.7** framework.
-- **System certification and recertification:** A **forum case record** that certifies a new system as constitutionally aligned, imposes conditions on certification, withdraws certification, or materially recertifys an existing system must state:
+- **System certification and recertification:** A **forum case record** that certifies a new system as constitutionally aligned, imposes certification conditions, withdraws certification, or materially recertifys an existing system must state:
   - the system scope;
   - evidence basis;
   - classification assumptions;

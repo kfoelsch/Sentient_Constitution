@@ -182,11 +182,11 @@ The record must identify, at minimum:
   - the operational-criticality assessment, where material;
   - uncertainty;
   - the certification interval scaled to system class, stated for each certification status; and
-  - where classification is uncertain or contested, the precautionary system class relied on and any conditions pending resolution;
+  - where classification is uncertain or contested, the precautionary system class relied on and any certification conditions pending resolution;
 - **Whole-system evaluation findings:** the material findings under [Part A §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) and [§4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), including findings on systemic scope, privacy joint-invocation, exit, assembly and dissent, time-consistency, governance, incentive, and contestability where implicated. Where systemic risk is in scope under [§3.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors), these findings must include:
   - [Risk Evaluation](core_05.040_band_continuity.md#risk-evaluation) findings and the assumptions relied on;
   - [Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure) posture: who the disclosure is meant for or how it is routed, its timing relative to material decisions, and any justified hold-backs paired with usable substitutes; and
-  - defects or conditions where evaluation or disclosure remains incomplete.
+  - defects or certification conditions where evaluation or disclosure remains incomplete.
 
   These risk findings live on this record. They are not a separate named risk-disclosure record or a fifth mandatory named component record.
 
@@ -205,7 +205,7 @@ The record must identify, at minimum, the [System Data Types Record](core_05.040
   - its cadence (scaled to system class and impact); and
   - any material retypes;
 - any justified restrictions on disclosure or audit access, with their public substitutes where CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) requires them; and
-- where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) covers the certified scope: the System Charter fields relied on, boundary findings, and any coverage gaps or conditions.
+- where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) covers the certified scope: the System Charter fields relied on, boundary findings, and any coverage gaps or certification conditions.
 
 <a id="814-rights-floor-and-domain-findings"></a>
 
@@ -230,7 +230,7 @@ For each protection in the [Part A §5 Rights-Floor and Domain Evaluations](core
 - uncertainty;
 - Sentient-forum or other assigned component findings where required;
 - any justified limits on disclosure, with their public substitutes where applicable transparency rules require them; and
-- any conditions, reliance limits, or reopening triggers tied to persistent harm the evaluation found.
+- any certification conditions, reliance limits, or reopening triggers tied to persistent harm the evaluation found.
 
 <a id="815-technical-evidence-and-review-findings"></a>
 
@@ -275,7 +275,7 @@ The record must identify, at minimum:
 - **Concerns raised in review and decision:** every objection, dissent, concern, and challenge raised during forum review or in reaching the outcome. It does not matter whether it came from a forum component, a member of the deciding body, a steward or operator, or an affected party, whether through a challenge path or a review submission under [Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review). For each, the record states:
   - who raised it (or that the submitter is anonymous or confidential) and what was raised;
   - how it was resolved, or why it remains open; and
-  - any condition, reliance limit, or reopening trigger it produced;
+  - any certification condition, reliance limit, or reopening trigger it produced;
 - **Review submissions log:** the log kept under [Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review), published with the record;
 - **Cause finding:** where the review, a recertification, or a reopened review found misalignment or a defect (see [§9.3.3 Cause of misalignment](#933-cause-of-misalignment)):
   - whether its cause is design, operation, or not yet determined; and
@@ -307,14 +307,14 @@ The record must also contain a concise **operating plan**, scaled to system clas
 - the scope, population, and duration of any authorized operation;
 - where the system is certified, the certification expiry, the next recertification due date, and the date by which the midpoint audit under [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#review-cadence) (*Review cadence*) must be completed;
 - for a first go-live or material expansion, the earliest permitted go-live, the notice interval, and its justification under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate);
-- each condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of violation under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate);
+- each certification condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of violation under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate);
 - who monitors actual outcomes and safeguards, what evidence and indicators they use, how often they check, and which material findings or thresholds require action or reopened review;
-- who responds to incidents, challenges, and unmet conditions, the applicable tier windows, and the authority for interim protection, containment, rollback, or limits on reliance where required; and
+- who responds to incidents, challenges, and unmet certification conditions, the applicable tier windows, and the authority for interim protection, containment, rollback, or limits on reliance where required; and
 - for defects found, the corrective work, the verification criteria and findings, any remaining uncertainty, and any permitted interim reliance.
 
-For a system that is Not Certified, the operating plan states the prohibited go-live, any separately authorized interim continued reliance, the corrective requirements, and the conditions for fresh review. It must not imply certified operating permission.
+For a system that is Not Certified, the operating plan states the prohibited go-live, any separately authorized interim continued reliance, the corrective requirements, and the prerequisites for fresh review. It must not imply certified operating permission.
 
-Operating evidence and later findings that conditions were completed are added as links kept under the Act Record rules in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). They do not edit a completed System Certification Record in place. Detailed testing and monitoring methods remain with their incorporated owners, including [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle).
+Operating evidence and later findings that certification conditions were completed are added as links kept under the Act Record rules in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). They do not edit a completed System Certification Record in place. Detailed testing and monitoring methods remain with their incorporated owners, including [CS-6.345 — System lifecycle](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle).
 
 <a id="8110-completeness"></a>
 
@@ -356,7 +356,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
   - assumptions;
   - evidence basis;
   - uncertainty;
-  - conditions;
+  - certification conditions;
   - outcomes; and
   - limits on reliance;
 - A System Certification Record is **Type O** certification data for every system class. It is published at public-baseline fidelity, with lawful substitutes, under [CS-6.310 Part B §9.3 Type O](corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data);
@@ -412,7 +412,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 
 <br>
 
-*In plain terms: no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the conditions on the record. A certified system is recertified on a schedule set by its system class, with an audit at the midpoint of each interval. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last, and a new record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.*
+*In plain terms: no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the certification conditions on the record. A certified system is recertified on a schedule set by its system class, with an audit at the midpoint of each interval. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last, and a new record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.*
 
 This section is sub-phase **VIa** of Phase VI (Operate), operate and recertify. It covers operating the certified system, keeping it current, and reopening review.
 
@@ -428,12 +428,12 @@ This section is sub-phase **VIa** of Phase VI (Operate), operate and recertify. 
 Any of the following that materially calls alignment into question requires timely forum review under this section and must not wait for the next scheduled recertification:
 
 - an incident;
-- an unmet condition;
+- an unmet certification condition;
 - a missed proof step under [Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct);
 - false readiness evidence; or
 - a credible challenge.
 
-Correction, fulfillment, and release of conditions follow the independent-verification requirements in [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
+Correction, fulfillment, and release of certification conditions follow the independent-verification requirements in [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 
 <a id="91-recertification-schedule-and-the-new-record"></a>
 
@@ -504,7 +504,7 @@ Certification is held in one of two statuses. Each has its own certification int
 
 Full certification runs on the system-class-scaled certification interval. It remains time-bound and is not a permanent approval.
 
-A recertification is **clean** when it meets conditions 2 and 3.
+A recertification is **clean** when it meets requirements 2 and 3.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guide (non-operative): certification status</span></strong></summary>
@@ -574,9 +574,9 @@ Where an initial evaluation, a recertification, or a reopened review finds misal
 Provisional certification changes the scrutiny, the cadence, and the limits on reliance. Interruption is handled as follows:
 
 - By itself, provisional certification does not require interrupting a system whose interruption would cut off survival essentials before substitutes arrive;
-- interim protection and conditions under [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) handle that case;
+- interim protection and certification conditions under [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) handle that case;
 - the same holds while the count is held after a design-cause finding: the hold on the count never by itself interrupts a system that sentients depend on; and
-- for as long as the hold lasts, the forum states the interim protection, the conditions on reliance, and the notice to dependents.
+- for as long as the hold lasts, the forum states the interim protection, the certification conditions on reliance, and the notice to dependents.
 
 <a id="936-verification-not-assertion"></a>
 
@@ -732,7 +732,7 @@ Only the [System Certification Record](core_05.040_band_continuity.md#system-cer
 
 A system supplies standing input from its System Certification Record only in one of two cases:
 
-- it holds certification (provisional or full, with or without conditions); or
+- it holds certification (provisional or full, with or without certification conditions); or
 - the facts arose while it held certification.
 
 A system that has never held certification supplies none through this chapter's System Certification Record bridge. Withdrawal, expiration, or any other loss of certification does not exclude verified facts that arose during the period it held certification. All such inputs remain subject to the verified-input gate below.
@@ -752,7 +752,7 @@ A System Certification Record may feed Chapter Eleven standing only when it is b
 
 #### 11.4 Contribution standing record
 
-Positive certification, validation, recertification, remediation completion, condition fulfillment, or condition release may supply verified input for a **contribution standing record** where it demonstrates:
+Positive certification, validation, recertification, remediation completion, or fulfillment of or release from a certification condition may supply verified input for a **contribution standing record** where it demonstrates:
 
 - constitutional benefit;
 - competent stewardship;
@@ -772,7 +772,7 @@ These items, in the System Certification Record of a certified system, may suppl
 - failed recertification;
 - failed or missing regression testing on recertification, where required;
 - fraudulent certification evidence;
-- material condition violation;
+- material violation of a certification condition;
 - verified operation outside certified scope;
 - infrastructure fragility inappropriate for the system class; and
 - a material defect found under a Part A evaluation that was required, including:
