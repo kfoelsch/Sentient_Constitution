@@ -45,7 +45,7 @@ Chapter Nine, **Part C**, is the constitutional owner of these parts of system a
 
 Evaluation requirements are in **[Part A](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**). Forum review and the outcome (**Phase III, Review**, and **Phase IV, Decide**) are in **[Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes)**, which ends at [§7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). This Part continues the chapter at **§8** (*System Certification Record*). [Part A §1.2 Certification at a glance](core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance) charts the whole process, and the chart in [Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) shows Phases III to VI.
 
-*In plain terms: Part B explains how forums review a system and reach an **outcome**. Part C explains what happens after the decision. The findings and the decision go on the **record**. Sentients (the beings the Constitution covers) can **challenge** the outcome. The certification is kept current, and review **reopens** when it needs to. Certification can also feed **standing**, but it never replaces standing measurement or standing effects.*
+*In plain terms: Part B explains how forums review a system and reach an **outcome**. Part C explains what happens after the decision. The review findings and the decision go on the **record**. Sentients (the beings the Constitution covers) can **challenge** the outcome. The certification is kept current, and review **reopens** when it needs to. Certification can also feed **standing**, but it never replaces standing measurement or standing effects.*
 
 Certification under this Part:
 
@@ -126,8 +126,6 @@ It also records:
 - **concerns, cause, and remediation readiness:** every objection and dissent raised and how it was resolved, the cause of any defect found, and whether the operator or steward is willing and able to correct it ([§8.1.7 Concerns, cause, and remediation readiness](#817-concerns-cause-and-remediation-readiness)).
 - **outcome and reliance limits:** the certification outcome, the limits on reliance, and the reopening triggers ([§8.1.8 Outcome and reliance limits](#818-outcome-and-reliance-limits)).
 - **operating plan:** the concise plan for operating and monitoring the system ([§8.1.9 Operating plan](#819-operating-plan)).
-
-A System Certification Record is not a sentience-status determination. It cannot grant, withhold, narrow, or revoke Chapter Six protection that depends on sentience status.
 
 The record must also meet [Record Integrity](core_05.035_band_accountability.md#record-integrity). For this record:
 

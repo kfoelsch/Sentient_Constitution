@@ -68,7 +68,7 @@
 
 Chapter Thirteen, **Part A**, is the constitutional owner of **final anti-constitutional-misconduct designation for Violation Axis s = 7, 8, and 9 findings, designation criteria, due-process safeguards, and the Chapters Sixteen through Eighteen designation boundary**. Named pattern applications are in **[Part B](core_13.005_misconduct_pattern_applications.md#chapter-thirteen-part-b-anti-constitutional-misconduct--pattern-applications)**.
 
-This chapter is used only when a verified violation already occupies Violation Axis `s` = 7, 8, or 9 and anti-constitutional misconduct is materially alleged. It decides only whether the matching designation attaches; it does not create a separate impact scale, move a finding between slots, or replace Chapter Eleven measurement or Chapter Twelve standing integration.
+This chapter is used only when a verified violation already occupies Violation Axis `s` = 7, 8, or 9 and anti-constitutional misconduct is materially alleged. It decides only whether the matching designation attaches; it does not create a separate impact scale, move a violation finding between slots, or replace Chapter Eleven measurement or Chapter Twelve standing integration.
 *In plain terms: under the [Continuity aim](core_00.000_preamble.md#continuity), this chapter decides whether a violation already measured in a highest impact slot also amounts to **tetrad capture** at scale. It does not choose the slot.*
 
 <a id="1-scope-and-authority"></a>

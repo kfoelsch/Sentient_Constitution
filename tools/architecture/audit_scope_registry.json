@@ -797,6 +797,9 @@
   "trace-routing-prose-audit": {
    "scope": "corpus"
   },
+  "violation-finding-audit": {
+   "scope": "corpus"
+  },
   "widget-top-placement-audit": {
    "scope": "corpus"
   },

@@ -500,7 +500,7 @@ This principle does not:
 - **Set a deadline:** "At action" is a design default for records. Time limits for decisions, responses, and review stay where [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) puts them, and nothing here lengthens or shortens them.
 - **Open anyone's inner life:** The record follows the role, as [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) requires. The [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary) stands: capturing the act is not watching the actor.
 - **Outrank Safety, Truth, privacy, security, or justified confidentiality:** It never requires restricted information to be published.
-- **Turn a record into a verdict:** A record made at the act is a trail, not a finding, and it opens no standing record.
+- **Turn a record into a verdict:** A record made at the act is a trail, not a standing finding, and it opens no standing record.
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. Consequential Stewardship: The Steward Role
@@ -813,7 +813,7 @@ Those are failed tests for any steward.
   - They become inspectable only where they are the sole remaining attribution path for a *specific* action already under an open [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) record, only to the extent needed to attribute that action, and only to independent reviewers under [security-constrained observability](core_04.000_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule). This opens case by case, not as a standing license.
   - It is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
 - **A log is a trail, not a verdict:**
-  - The log shows who did what. It is not itself a finding, and it is not a [standing record](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) of verified help or harm. Writing it opens no record.
+  - The log shows who did what. It is not itself a standing finding, and it is not a [standing record](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) of verified help or harm. Writing it opens no record.
   - Whoever decides access to a role pathway, a trust pathway, or another named pathway uses a standing record, or the ordinary state of having none ([Chapter Eleven §2.1 Silence is the default](core_11.000_standing_assessment.md#21-silence-is-the-default)), and never the log.
   - It may not be combined with logs or standing effects from other named pathways into one reputation score, ranking, badge, or public profile ([Chapter Twelve §7.1 Anti-aggregation of named-pathway effects](core_12.000_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)).
 
@@ -920,7 +920,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - **Reporting is not policing:**
   - Contribution creates no duty, license, or mandate to look for wrongdoing, investigate suspected wrongdoers, surveil, infiltrate, confront, expose, punish, or otherwise act against anyone. Not looking is not a failing.
   - Reporting what one came across is protected. Going looking for a sentient's wrongdoing is not part of the contribution, and the contribution does not make it legitimate. It stays subject to the [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary), to [privacy](core_01.005_interaction_interpretation.md#1323-privacy-and-informational-self-determination) protection, and to [Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint).
-  - An allegation is an input, not a finding. It does not supply a violation input until independently verified ([Chapter Eleven §3.1 Minimum record contents](core_11.000_standing_assessment.md#31-minimum-record-contents)), and an unresolved allegation changes no one's standing ([Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests)). It must not be presented, to the public or anyone else, as established fact.
+  - An allegation is an input, not a violation finding. It does not supply a violation input until independently verified ([Chapter Eleven §3.1 Minimum record contents](core_11.000_standing_assessment.md#31-minimum-record-contents)), and an unresolved allegation changes no one's standing ([Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests)). It must not be presented, to the public or anyone else, as established fact.
   - The reporter supplies evidence and testimony. Verification, record opening, and any consequence belong to the independent offices and forums this Constitution assigns, never to the reporter or the community that found it.
   - Where acting on a find could lead to violence, tampered or lost evidence, or exploitation, the safety limits below apply, and the find goes to independent review or an authorized role instead.
 
@@ -1940,7 +1940,7 @@ Such conditions are **escalation triggers**, not ordinary operating states. They
 
 - **Periodic review and correction:** [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty).
 - **Heightened review:** [§11.1 Market Concentration Threshold Mechanism](core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) and [§11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination), where concentration or domination is material.
-- **Standing and violation mechanics:** [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement), where verified findings are at stake.
+- **Standing and violation mechanics:** [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement), where standing findings are at stake.
 - **Anti-constitutional misconduct:** [Chapter Thirteen §5.1 Concentration-based subversion: criteria interaction](core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), where concentration or process capture constitutes anti-constitutional misconduct.
 
 <a id="194-misalignment-correction-and-capture-response"></a>

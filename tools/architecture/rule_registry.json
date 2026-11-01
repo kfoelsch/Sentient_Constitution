@@ -451,6 +451,13 @@
       "summary": "After Trace / D/A/C widgets, br spacers, anchors, blockquote callouts, and *In plain terms* gloss, a section's first body line must be lead-in prose, not a bare list item (- , * , or 1. ). Sections whose first content is a child heading are containers and out of scope. Chapter Five definition files (core_05.*.md) are carved out: their entries open with O / E / C bullets by design. Regression gate since 2026-09-26, when the backlog was cleared.",
       "make_target": "section-bullet-lead-audit",
       "status": "blocking"
+    },
+    {
+      "id": "VIOLATION-FINDING-01",
+      "legacy_ref": "violation finding wording",
+      "summary": "On a line about violations, locks, holds, sanctions, or misconduct, a bare \"finding\" says \"violation finding\" when a finding of violation is meant; other findings are qualified.",
+      "make_target": "violation-finding-audit",
+      "status": "blocking"
     }
   ]
 }

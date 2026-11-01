@@ -480,7 +480,7 @@ Each step below states what the chapter owns and what it produces, filling in th
   - how interim protection, including a narrow [Interim Hold](core_05.035_band_accountability.md#interim-hold) on a named sentient's pathway, is routed, reviewed, and kept distinct from findings and standing locks;
   - how anti-self-judging rules prevent captured forums from being the sole final home; and
   - how windows under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) prevent matters from remaining unresolved until remedy no longer matters.
-- **What it produces:** **Verified findings** that may open or update standing records, plus lawful routing toward remedy and [timely resolution](core_05.035_band_accountability.md#timely-resolution). Forums supervise the pipeline; they do not replace Chapter Eleven standing measurement.
+- **What it produces:** **Standing findings** that may open or update standing records, plus lawful routing toward remedy and [timely resolution](core_05.035_band_accountability.md#timely-resolution). Forums supervise the pipeline; they do not replace Chapter Eleven standing measurement.
 
 <a id="8-governance-change-and-incorporation"></a>
 ### 8. Governance, Change, and Incorporation

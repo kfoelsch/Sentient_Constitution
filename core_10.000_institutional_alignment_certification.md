@@ -674,7 +674,7 @@ Two points are specific to an Institution:
      - a failed formation check was not resolved inside the resolution window in [Chapter Seven §6 When a Holder Fails the Formation Check](core_07.000_charters.md#6-when-a-holder-fails-the-formation-check) (*Resolution window*).
 
      That forum alone decides any suspension, receivership, structural separation, or dissolution. This Chapter creates none of them.
-   - **To the forum over a named sentient:** Where the finding rests on a holder who is not authentic, or on a sentient's use of the Institution as a vehicle for a violation, the lead forum also refers the facts to the forum with jurisdiction over that sentient.
+   - **To the forum over a named sentient:** Where the certification finding rests on a holder who is not authentic, or on a sentient's use of the Institution as a vehicle for a violation, the lead forum also refers the facts to the forum with jurisdiction over that sentient.
    - **To a lock or an Interim Hold:** For a verified finding of violation, the matter goes to the Institutional Authority Standing Lock under [Chapter Twelve §5.5 Special locks](core_12.000_standing_integration.md#55-special-locks). Where only the grounds for an [Interim Hold](core_05.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway). The hold rests on that sentient's authority, never on the Institution.
 6. **Standing:** Only through [§11 Relationship to Standing](#11-relationship-to-standing). A denial of a first certification, where the Institution held none before, supplies no standing input.
 
@@ -737,8 +737,6 @@ The record must identify, at minimum:
 
 A System Certification Record, or an Institution's own report or attestation, offered in place of this record does not satisfy this section.
 
-An Institutional Certification Record is not a sentience-status determination. It cannot grant, withhold, narrow, or revoke Chapter Six protection that depends on sentience status.
-
 <a id="82-transparency-and-auditability-of-the-record"></a>
 
 #### 8.2 Transparency and auditability of the record
@@ -779,7 +777,13 @@ This section is **Phase VI, Operate** for an Institution.
 
 #### 9.1 Monitoring, recertification, and status
 
-[Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (*monitoring and response; new record for each certification pass; validation*) and [§9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) apply to an Institutional Certification Record with these substitutions: the Institution's governing authority is the proponent, the cadence is scaled to the institution class, and each certification pass opens a new record linked to the one it follows. The completed record is preserved as it stood and stays open to challenge.
+[Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (*monitoring and response; new record for each certification pass; validation*) and [§9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) apply to an Institutional Certification Record with these substitutions:
+
+- the Institution's governing authority is the proponent;
+- the cadence is scaled to the institution class; and
+- each certification pass opens a new record linked to the one it follows.
+
+The completed record is preserved as it stood and stays open to challenge.
 
 <a id="92-reopening-triggers"></a>
 
@@ -787,15 +791,38 @@ This section is **Phase VI, Operate** for an Institution.
 
 An Institutional Certification Record is recertified on the cadence set for the Institution's class in [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#review-cadence) (*Review cadence*), and the Institution is audited at the midpoint of that cadence. Review also reopens when any of the following is material:
 
-- **Chapter Nine Part C triggers,** as [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) lists them, applied to the Institution: material change in its activity or context, concealed behavior, dependency growth, new risk, incident history, stakeholder evidence, a credible challenge, and misclassification or overdue reassessment of its class;
-- **Institutional Charter events:** an Institutional Charter amendment, a mismatch between the Institutional Charter and observed operation, operation materially outside chartered scope, or an overdue scheduled Institutional Charter review;
-- **Portfolio change:** a System added, retired, merged, split, or transferred to or from the Institution, or a change in who controls one;
+- **Chapter Nine Part C triggers,** as [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) lists them, applied to the Institution:
+  - material change in its activity or context;
+  - concealed behavior;
+  - dependency growth;
+  - new risk;
+  - incident history;
+  - stakeholder evidence;
+  - a credible challenge; and
+  - misclassification or overdue reassessment of its class;
+- **Institutional Charter events:**
+  - an Institutional Charter amendment;
+  - a mismatch between the Institutional Charter and observed operation;
+  - operation materially outside chartered scope; or
+  - an overdue scheduled Institutional Charter review;
+- **Portfolio change:**
+  - a System added, retired, merged, split, or transferred to or from the Institution; or
+  - a change in who controls one;
 - **New material authority:** the Institution takes on authority over others that is material under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and that its Institutional Charter and current record do not cover (defined in [§9.2.1 What counts as new material authority](#921-what-counts-as-new-material-authority); the recertification it requires is in [§9.2.2 Recertification for new material authority](#922-recertification-for-new-material-authority));
 - **Change of ownership, control, or structure,** including any change that moves authority outside the line that was evaluated ([Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes));
 - **Reward and incentive change:** a material change to the Institution's pay, promotion, target, or reward structure;
-- **Role Map or custody defect:** a seat unplaced, an office vacant without substitution, or a custodian brought inside the Institution's control line;
-- **Office-holder events:** a change of holder in a covered office, a change in who controls one, a verified standing lock or an [Interim Hold](core_05.035_band_accountability.md#interim-hold) on a holder, or a finding that the formation check statement was false or incomplete;
-- **Readiness events:** a missed proof step or certification condition deadline, or false readiness evidence, under [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct); and
+- **Role Map or custody defect:**
+  - a seat unplaced;
+  - an office vacant without substitution; or
+  - a custodian brought inside the Institution's control line;
+- **Office-holder events:**
+  - a change of holder in a covered office;
+  - a change in who controls one;
+  - a verified standing lock or an [Interim Hold](core_05.035_band_accountability.md#interim-hold) on a holder; or
+  - a finding that the formation check statement was false or incomplete;
+- **Readiness events,** under [Chapter Nine Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct):
+  - a missed proof step or certification condition deadline; or
+  - false readiness evidence; and
 - **Cited System events:** a cited System Certification Record failed, withdrawn, expired, or reopened, which also triggers [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications).
 
 A material and timely trigger requires timely forum review and does not wait for the next scheduled pass. The tier windows and materiality tiers of [Chapter Nine Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows) apply, with the tier presumptively matching the institution class.
@@ -833,7 +860,7 @@ An Institution that decides to take on new material authority must be recertifie
 - **Notice first:** The Institution gives the notice of the Institutional Charter amendment that [Chapter Seven §7.1 Changing the document](core_07.000_charters.md#71-changing-the-document) already requires, and sends it to the lead forum. The notice opens the recertification.
 - **Within the tier windows:** The recertification runs under the tier windows of [Chapter Nine Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows), with the tier presumptively matching the institution class. A missed window is handled under [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*), and fees and waits may not become a barrier ([Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden)).
 - **Automated where it can be:** The notice, the comparison of the new authority with the Institutional Charter and current record, the screen for blockers, and the clearance are automated wherever the forum's systems allow. [Chapter One §13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) makes automation the preferred remedy for an avoidable burden, and [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) puts the burden of automation on the system and not on the steward.
-  - **Clears, does not refuse:** An automated screen may clear the authority, or clear it with the certification conditions the record already supports. It may not state a blocker or refuse to clear on its own. A blocker is stated by a sentient reviewer in the lead forum, who looks at what the screen flagged.
+  - **Clears, does not refuse:** An automated screen may clear the new authority, either outright or with the certification conditions the current record already supports. It may not, on its own, state a blocker (one of those in [§9.2.3 Blockers to clearing new material authority](#923-blockers-to-clearing-new-material-authority)) or decline to clear. The screen may flag a possible blocker, but only a sentient reviewer in the lead forum may state one, after looking at what the screen flagged.
   - **Classes A, B, and C:** A sentient reviewer in the lead forum confirms every clearance before it counts as the official response. This applies to an Institution in one of those classes, and to one that the new authority would bring into one. The intake target still applies to the confirmation. The reviewer sits in the lead forum, which already holds the verify-or-authorize seat and must be independent of the Institution ([§6.1 Four seats in an institutional certification](#61-four-seats-in-an-institutional-certification)).
   - **Classes L and P:** An automated clearance counts as the official response without confirmation.
   - **Exceptional circumstances:** A sentient reviewer takes the matter instead, in any class when the screen flags a possible blocker, when the screen cannot tell whether the authority is covered or material, or when the Institution or an affected sentient asks for review. A request for review is answered by the intake target of the tier that matches the Institution's class, counted from the request. It does not extend the tier window.

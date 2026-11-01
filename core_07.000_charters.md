@@ -337,7 +337,7 @@ This limit applies when a forum with jurisdiction has ordered an [Interim Hold](
 A lock can sit on an Operating Party and not only on a sentient. The gate then bars what the lock's named pathway names, in that Operating Party and in its successors, controlled entities, and nominee- or shell-held vehicles. It does not bar any other Operating Party.
 
 - A lock set by a final designation: the [Anti-Constitutional Trust Lock](core_12.000_standing_integration.md#55-special-locks) does this where the final designation names an institution, successor vehicle, or controlled entity. The gate then bars what the lock's named pathway names, in the Chartered Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
-- A dissolved Chartered Party: a final dissolution order under **CI-12.210 §4** (*Dissolution*) sets a [Dissolution Reformation Lock](core_12.000_standing_integration.md#55-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Twelve §8 Restoration and reassessment](core_12.000_standing_integration.md#8-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
+- A dissolved Chartered Party: a final dissolution order under **CI-12.210 §4** (*Dissolution*) sets a [Dissolution Reformation Lock](core_12.000_standing_integration.md#55-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Twelve §8 Restoration and reassessment](core_12.000_standing_integration.md#8-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its violation finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
 
 None of the three gates stops a new Operating Party from forming, publishing its System Charter or Institutional Charter, or getting to work. The only party they stop is one that is itself under a lock, such as a dissolved Chartered Party trying to come back. The three gates are applied at the formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)).
 
@@ -834,14 +834,14 @@ The formation check is kept in proportion to what it protects:
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
-- [§6.1 What a failed formation check does](#61-what-a-failed-formation-check-does) says that a failed or late formation check is a defect to log and correct, that it does not by itself stop an Operating Party from forming or operating (a lock does, as on a dissolved Chartered Party that comes back), that it enters the next certification as a finding, and that it is evidence on the right to form without settling it.
+- [§6.1 What a failed formation check does](#61-what-a-failed-formation-check-does) says that a failed or late formation check is a defect to log and correct, that it does not by itself stop an Operating Party from forming or operating (a lock does, as on a dissolved Chartered Party that comes back), that it enters the next certification as a certification finding, and that it is evidence on the right to form without settling it.
 - [§6.2 When the standing check fails](#62-when-the-standing-check-fails) says that the sentient may not hold that office, and that the office is filled again or substituted by dated Role Map version.
 - [§6.3 When the facts may support an Interim Hold](#63-when-the-facts-may-support-an-interim-hold) says that specific verified facts go to the forum with jurisdiction, that only that forum may issue an Interim Hold, and that the Chartered Party may not keep a sentient out of an office on its own view.
 - [§6.4 When the authenticity check fails](#64-when-the-authenticity-check-fails) says that a failed authenticity finding is evidence for a forum and not a hold or a lock, that the seat is treated as unfilled, and that replacing the holder is one choice and never required.
 - [§6.5 When a dissolved Chartered Party returns](#65-when-a-dissolved-chartered-party-returns) says that the Dissolution Reformation Lock follows the activity and the control and not the name or the holder, and who decides and who bears the burden.
 - [§6.6 Response and resolution windows](#66-response-and-resolution-windows) says when the windows start and what the Chartered Party must do inside each.
 - [§6.7 If a failure is not resolved](#67-if-a-failure-is-not-resolved) says that the miss is a finding in the next certification and, only after a reasonable chance to resolve it in good faith, a referral for structural review that only a forum decides.
-- [§6.8 Fairness to the holder](#68-fairness-to-the-holder) says that a holder sees, may answer, and may contest an adverse finding, and that the formation check may not be used to remove dissenters, reporters, or worker organizers.
+- [§6.8 Fairness to the holder](#68-fairness-to-the-holder) says that a holder sees, may answer, and may contest an adverse standing finding, and that the formation check may not be used to remove dissenters, reporters, or worker organizers.
 
 </details>
 
@@ -911,7 +911,7 @@ When a covered office fails the authenticity check:
   - ending the undisclosed control;
   - changing the reward; or
   - disclosing the interest and having it cleared.
-- **Replacing the holder:** Replacing the holder is one choice the Chartered Party may make, and a finding never requires it: anything aimed at the named sentient goes through the Interim Hold or a lock on a verified finding.
+- **Replacing the holder:** Replacing the holder is one choice the Chartered Party may make, and a violation finding never requires it: anything aimed at the named sentient goes through the Interim Hold or a lock on a verified finding.
 
 <a id="65-when-a-dissolved-chartered-party-returns"></a>
 #### 6.5 When a dissolved Chartered Party returns
@@ -961,9 +961,9 @@ If a failure is still not resolved when the resolution window ends:
 <a id="68-fairness-to-the-holder"></a>
 #### 6.8 Fairness to the holder
 
-A holder who receives an adverse finding is protected as follows:
+A holder who receives an adverse standing finding is protected as follows:
 
-- A holder sees any adverse finding and the evidence for it, may answer it, and may contest it through the contest seat before it takes effect, except where urgent protection is needed. A holder under a lock or an Interim Hold contests it by the route that lock or hold states.
+- A holder sees any adverse standing finding and the evidence for it, may answer it, and may contest it through the contest seat before it takes effect, except where urgent protection is needed. A holder under a lock or an Interim Hold contests it by the route that lock or hold states.
 - Removing, moving, or refusing a holder who made a protected report or refused an unlawful or unconstitutional instruction is presumed retaliatory, and a forum may [Stay](core_05.035_band_accountability.md#stay) the action while the review is pending. The formation check may not be used to remove dissenters, reporters, or worker organizers.
 
 <a id="7-amendment-review-and-scope-misalignment"></a>

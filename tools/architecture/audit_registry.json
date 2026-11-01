@@ -838,6 +838,16 @@
       "category": "hygiene",
       "run": "never",
       "writes": false
+    },
+    "violation-finding-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "violation-finding-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
     }
   }
 }
