@@ -67,7 +67,7 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | Intake acknowledgment | ≤ 24 hours |
 | Evidence preservation | concurrent with intake |
 | Interim protection | as soon as credible harm is material — not after merits |
-| Q1 verified finding → standing record | 2 days |
+| Q1 standing finding → standing record | 2 days |
 | Q2 measurement | 1 day after verified inputs |
 | Q3 integration | 2 days after Q2 |
 | Remedy commencement | 1 day after Q3 |
@@ -115,7 +115,7 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 | --- | --- |
 | Intake acknowledgment | 2 calendar days |
 | Evidence preservation | inside the intake target |
-| Q1 verified finding → standing record | 4 days |
+| Q1 standing finding → standing record | 4 days |
 | Q2 measurement | 2 days after verified inputs |
 | Q3 integration | 4 days after Q2 |
 | Remedy commencement | 2 days after Q3 |
@@ -150,7 +150,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- |
 | 1 | **Primary-stakes routing**: **Institutional** lead; **Technical Forum Domains** certified component for routing-safety specification. |
 | 2 | **Tier B** for driver lock-in and compensation injury (material, non-imminent). [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-questions-for-ruling) forum-family escalation (Technical Forum Domains; Integrity if capture) does not reclassify that urgency. Later-stage windows may use a longer time scale if cross-border or consolidated fact-development is required; intake and evidence preservation stay at the **Tier B** intake target. |
-| 3 | **Question 1 — what happened?** Verified findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](core_11.000_standing_assessment.md#45-dual-use-measurement-hooks) is verified. |
+| 3 | **Question 1 — what happened?** Verified violation findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](core_11.000_standing_assessment.md#45-dual-use-measurement-hooks) is verified. |
 | 4 | **Question 2 — how bad was it?** Verified driver, agency, lock-in, safety, and ecological impacts determine the Violation Axis slot on the **§7 unified scale** (`s` = 4–6 range pending verification). **Exit and Lock-In Misconduct**, **System Misconduct**, **Agency and Manipulation Misconduct**, and any **Ecological Misconduct** component remain descriptors and do not move the slot. |
 | 5 | **Question 3 — what happens because of it?** **Named-pathway-scoped locks** on migration, contract-enforcement, and governance routes; **concealment / evasion escalated lock** if defect reports were buried after notice. |
 | 6 | **Remedy**: contract reform, exit without penalty, driver stabilization fund, safety patch deployment, ecological remediation plan — look-through accountability on functional control ([Chapter Twelve §9.4](core_12.000_standing_integration.md#94-anti-evasion-and-look-through-authority)). |
@@ -162,7 +162,7 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- | --- |
 | Intake acknowledgment | 2 days | 2 days (no relaxation) |
 | Evidence preservation | inside the intake target | inside the intake target (no relaxation) |
-| Q1 verified finding → standing record | 4 days | 9 days |
+| Q1 standing finding → standing record | 4 days | 9 days |
 | Q2 measurement | 2 days | 4 days |
 | Q3 integration | 4 days | 9 days |
 | Remedy commencement | 2 days | 4 days |

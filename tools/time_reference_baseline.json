@@ -103,6 +103,10 @@
       "snippet": "| Q2 measurement | 1 day after verified inputs |"
     },
     {
+      "key": "core_11.005_application_vignettes.md::duration::4853b3ea7f1c",
+      "snippet": "| Q1 standing finding → standing record | 4 days | 9 days |"
+    },
+    {
       "key": "core_11.005_application_vignettes.md::duration::51db61b9c53d",
       "snippet": "| Intake acknowledgment | 2 calendar days |"
     },
@@ -119,10 +123,6 @@
       "snippet": "| Status case opened; representative appointed | ≤ 3 days |"
     },
     {
-      "key": "core_11.005_application_vignettes.md::duration::a1c39a052320",
-      "snippet": "| Q1 verified finding → standing record | 2 days |"
-    },
-    {
       "key": "core_11.005_application_vignettes.md::duration::ad2bb8337e15",
       "snippet": "| Q2 measurement | 2 days after verified inputs |"
     },
@@ -135,20 +135,20 @@
       "snippet": "| Q3 integration | 4 days after Q2 |"
     },
     {
-      "key": "core_11.005_application_vignettes.md::duration::b82f36adfe36",
-      "snippet": "| Q1 verified finding → standing record | 4 days |"
-    },
-    {
       "key": "core_11.005_application_vignettes.md::duration::bb7ec3a1e1f6",
       "snippet": "| Q3 integration | 2 days after Q2 |"
     },
     {
-      "key": "core_11.005_application_vignettes.md::duration::d16037900af5",
-      "snippet": "| Q3 integration | 4 days | 9 days |"
+      "key": "core_11.005_application_vignettes.md::duration::c3398d1d5f02",
+      "snippet": "| Q1 standing finding → standing record | 2 days |"
     },
     {
-      "key": "core_11.005_application_vignettes.md::duration::df8c50579f2b",
-      "snippet": "| Q1 verified finding → standing record | 4 days | 9 days |"
+      "key": "core_11.005_application_vignettes.md::duration::c7f6497228bb",
+      "snippet": "| Q1 standing finding → standing record | 4 days |"
+    },
+    {
+      "key": "core_11.005_application_vignettes.md::duration::d16037900af5",
+      "snippet": "| Q3 integration | 4 days | 9 days |"
     },
     {
       "key": "core_11.005_application_vignettes.md::duration::e3caa5839891",

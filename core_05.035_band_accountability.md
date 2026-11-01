@@ -1055,7 +1055,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 <br>
 
-*In plain terms: an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.*
+*In plain terms: an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a violation finding, a lock, or a penalty, and it ends on its own clock.*
 
 - **What it is**
   - **In scope:** An interim order by a forum with jurisdiction that limits one named sentient's exercise of one named authority, pathway, or matter on the grounds in [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway), while the facts are verified. It states its ground, scope, lapse date, and review route, and it uses the lightest measure that works. It may:
@@ -1067,7 +1067,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
     An Interim Hold controls who may use one authority while the merits are decided. It never decides the merits.
   - **Out of scope:**
-    - A [Standing Lock](core_05.035_band_accountability.md#standing-lock), which attaches only to a verified finding.
+    - A [Standing Lock](core_05.035_band_accountability.md#standing-lock), which attaches only to a verified violation finding.
     - A [Stay](core_05.035_band_accountability.md#stay), which pauses an action, a reliance, or a step and is not aimed at a sentient's authority.
     - An emergency measure under Chapter Fourteen §6.1 Emergency measures and continuation burden, taken by a containment seat.
     - Liberty restriction, separation of a protected care relationship, a limit on governance voting, speech, assembly, dissent, protected reporting, survival access, or the Rights Floor, suspension of a whole body, and seizure of general property.
@@ -1083,7 +1083,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - the lightest measure used and why a lighter one would not do; and
     - the lapse date and the review route.
 
-    Test the hold under [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality). Separate it from a finding, a lock, and a penalty.
+    Test the hold under [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality). Separate it from a violation finding, a lock, and a penalty.
 <a id="interim-hold-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
@@ -1092,7 +1092,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - reach beyond the one named authority or into an excluded pathway;
     - continue it past its lapse date or past the single permitted extension;
     - treat the hold, or its lapse, as evidence of the allegation, as a standing record, or as a standing effect;
-    - convert it into a lock without a verified finding;
+    - convert it into a lock without a verified violation finding;
     - deny the sentient the grounds, the facts, or a working route to contest and review;
     - leave a wrongful hold without redress; or
     - issue a hold in a situation that no provision of this Constitution or an incorporated text names.
@@ -3478,7 +3478,7 @@ See **Anti-Segmentation Principle**.
 <a id="non-compliance-finding-profile-c"></a>
 - **What must hold**
   - **Primary failure:** treating the profile as deciding whether the underlying definition is met;
-  - **Secondary failure:** using the profile to bypass [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) verified-input, contribution, or violation classification when verified findings affect standing.
+  - **Secondary failure:** using the profile to bypass [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) verified-input, contribution, or violation classification when standing findings are applied.
 
 ---
 
@@ -3787,7 +3787,7 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:**
     - The **Axis II** classification of **adverse** constitutional outcomes from verified violation findings that satisfy Chapters **Two through Four** and Chapter Eleven **§3.2** (*Related record cross-references*).
-    - Those findings may affect **standing effect** only when they rest on that auditable, contestable verified basis.
+    - Those violation findings may affect **standing effect** only when they rest on that auditable, contestable verified basis.
     - Chapter Eleven **§7** (*Unified proportional LEQU scale — Contribution and Violation Axes*) assigns a verified-impact slot on its unified scale. Process / response and harm / conduct descriptors attach to that slot but do not move it.
     - Chapter Five pointer; canonical mechanics: Chapter Eleven **§7** (*Unified proportional LEQU scale — Contribution and Violation Axes*), **§3.2** (*Related record cross-references*), Chapter Twelve descriptor sections, and [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) for adverse standing effects.
     - It is distinct from [**contribution nature**](core_05.035_band_accountability.md#contribution-nature), the positive-only **Axis I**, which uses the same bands in a separate record.
@@ -3801,19 +3801,19 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:**
     - Classify **standing** only from findings that satisfy Chapters **Two through Four** and the [**verified inputs for standing**](core_11.000_standing_assessment.md#verified-inputs-for-standing) rule.
-    - Identify the finding authority or record basis, affected subject and scope, applicable violation-nature classification, evidence, contest path, and whether the finding is final, under review, superseded, resolved, or remediated for standing.
+    - Identify the finding authority or record basis, affected subject and scope, applicable violation-nature classification, evidence, contest path, and whether the violation finding is final, under review, superseded, resolved, or remediated for standing.
     - Record the verified finding basis and violation-nature classification together.
     - Include verified impact and resulting slot, applicable character descriptors or supplements, scope, review status, and any Chapter Thirteen designation.
     - Negligence, concealment, coercion, intent, response, and similar descriptors do not move the numeric slot.
     - Apply Chapter Eleven's no-offset rule and keep Violation Axis inputs separate from [Contribution Nature](core_05.035_band_accountability.md#contribution-nature).
-    - For adverse standing effect, a finding without an applicable violation-nature classification is incomplete, and so is a violation-nature label without verified findings.
+    - For adverse standing effect, a violation finding without an applicable violation-nature classification is incomplete, and so is a violation-nature label without verified violation findings.
     - Where material, read with [Harm](core_05.035_band_accountability.md#harm), [Cruelty](core_05.035_band_accountability.md#cruelty), [Materiality](core_05.050_band_oversight.md#materiality), [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint), and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy).
 <a id="violation-nature-chapter-six-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - use **allegations**, **provisional** labels, intake tags, or **forum-phase** material alone as **violation nature** or as verified violation findings for standing;
     - record adverse standing findings without the applicable violation nature;
-    - assign **violation nature** for adverse **standing effect** without verified findings;
+    - assign **violation nature** for adverse **standing effect** without verified violation findings;
     - call an **adverse violation finding** a **negative contribution** on **Axis I**;
     - use [**contribution nature**](core_05.035_band_accountability.md#contribution-nature) or verified contribution records to **net away**, erase, average down, or replace verified violation findings required by Chapter Eleven; or
     - apply adverse standing consequences without the record basis and contestability required by Chapter Eleven **§3.2** (*Related record cross-references*).
@@ -4157,7 +4157,7 @@ See **Anti-Segmentation Principle**.
     - A lock on the attestation and verifying pathways, after a verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, is the Perjury Standing Lock under [Chapter Twelve §5.5 Special locks](core_12.000_standing_integration.md#55-special-locks). It restricts no testimony.
     - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05.055_band_participation.md#stakeholder) status, or a substitute for the other named pathway.
   - **Out of scope:**
-    - A lock from unverified allegations. The interim measure on specific verified facts, short of a finding, is an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which is not a lock.
+    - A lock from unverified allegations. The interim measure on specific verified facts, short of a violation finding, is an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which is not a lock.
     - A permanent lock without review or remediation path.
     - A dignity or Rights-Floor cut.
     - Automatic retaliation framed as a standing lock.
@@ -4194,17 +4194,17 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: after a verified finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.*
+*In plain terms: after a verified violation finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.*
 
 - **What it is**
   - **In scope:** The special lock attached to a verified, unresolved or materially unremedied finding of institutional vehicle wrongdoing. Its named pathway, look-through scope, protected interests, corrective conditions, independent review route, and gate effect are those stated in Chapter Twelve §5.5 Special locks.
   - **Out of scope:** A restriction on forming or operating an institution as such, on unrelated authority pathways, or on wages, participation, protected reporting, survival access, or Rights-Floor protections. An Interim Hold on specific verified facts is not this lock and creates no standing effect.
 - **How to measure and assess**
-  - **Primary measure:** The Violation Axis and Accountability and Timeliness measurement families, based on verified findings.
+  - **Primary measure:** The Violation Axis and Accountability and Timeliness measurement families, based on verified violation findings.
 
     **Primary assessment:** Apply the attachment and evidence requirements for special locks. Name the verified institutional vehicle, the subject's role, the authority pathway, the risk of recurrence, the corrective conditions, and the independent review route. Assess restoration only under Chapter Twelve §5.5 Special locks.
 - **What must hold**
-  - **Primary failure:** It is non-compliant to attach the lock without a verified finding, extend it beyond the named authority pathway, use it as a gate on forming or operating a body, or lift or narrow it without the independent restoration finding and reasons Chapter Twelve requires.
+  - **Primary failure:** It is non-compliant to attach the lock without a verified violation finding, extend it beyond the named authority pathway, use it as a gate on forming or operating a body, or lift or narrow it without the independent restoration finding and reasons Chapter Twelve requires.
 
 ---
 

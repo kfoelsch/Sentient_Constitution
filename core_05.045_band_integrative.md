@@ -67,7 +67,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
     - **constitutional misalignment** at the stewardship and incentive layer (Chapter One §19 (*Incentive Alignment and System Capture*));
     - [Residual Risk / Misalignment](core_05.040_band_continuity.md#residual-risk--misalignment) as a bounded risk state after mitigation;
     - system alignment certification status under Chapter Nine; and
-    - Chapter Eleven violation-axis slot labels (those classify verified findings and do not redefine whether a definition is met).
+    - Chapter Eleven violation-axis slot labels (those classify verified violation findings and do not redefine whether a definition is met).
 <a id="non-compliance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality — [Materiality](core_05.050_band_oversight.md#materiality) scales duty intensity under [material stake](core_00.000_preamble.md#material-stake); not a separate measurement category.

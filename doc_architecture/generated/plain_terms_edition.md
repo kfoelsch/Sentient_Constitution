@@ -1387,7 +1387,7 @@ a temporary, documented pause or limit while further review or a required findin
 
 ##### Interim Hold
 
-an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.
+an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a violation finding, a lock, or a penalty, and it ends on its own clock.
 
 [Source](../../core_05.035_band_accountability.md#interim-hold)
 
@@ -1747,7 +1747,7 @@ a Standing Lock temporarily limits a named privilege pathway — trust, roles, c
 
 ###### Institutional Authority Standing Lock
 
-after a verified finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.
+after a verified violation finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.
 
 [Source](../../core_05.035_band_accountability.md#institutional-authority-standing-lock)
 
@@ -4309,7 +4309,7 @@ denial and revocation are real outcomes and not threats. If a system is not yet 
 
 ##### 7.5 Effects of Denial and Revocation
 
-a denial or revocation changes what the operator may say about its system, who is told, and how reliance on the system is handled afterwards. It does not by itself shut the system down, and it does not by itself change anyone's standing.
+a denial or revocation changes what the operator may say about its system, who is told, how reliance on the system is handled afterwards, and where the matter goes next. It does not by itself shut the system down, and it does not by itself change anyone's standing.
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation)
 
@@ -4997,7 +4997,7 @@ a public apology or acknowledgment, if used on a restorative pathway, must be vo
 
 ##### 4.4 Remedy parity and lock preconditions
 
-locks are cheap to issue; repair, restoration, and review are expensive to run. Left alone, the cheap half of this chapter keeps working while the expensive half starves. This subsection ties them together: an ordinary lock cannot attach until the remedy file for the same finding is actually open, and when an adopter's remedy or restoration work for a class of locks falls behind its clock, new ordinary locks in that class default to the lightest form and existing ones come up for review. The gravest locks are exempt so that flooding the remedy queue cannot spring them.
+locks are cheap to issue; repair, restoration, and review are expensive to run. Left alone, the cheap half of this chapter keeps working while the expensive half starves. This subsection ties them together: an ordinary lock cannot attach until the remedy file for the same violation finding is actually open, and when an adopter's remedy or restoration work for a class of locks falls behind its clock, new ordinary locks in that class default to the lightest form and existing ones come up for review. The gravest locks are exempt so that flooding the remedy queue cannot spring them.
 
 [Source](../../core_12.000_standing_integration.md#44-remedy-parity-and-lock-preconditions)
 
@@ -5039,7 +5039,7 @@ once a lock is needed under [§4.2 Prevention — general standing locks](../../
 
 ##### 5.6 Interim holds and locks
 
-a hold is what a forum may do on specific verified facts while the full facts are checked. A lock is what follows a verified finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.
+a hold is what a forum may do on specific verified facts while the full facts are checked. A lock is what follows a verified violation finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.
 
 [Source](../../core_12.000_standing_integration.md#56-interim-holds-and-locks)
 
@@ -6403,7 +6403,7 @@ this is how named pathways close. Only a **verified violation finding** — neve
 
 ##### Article XIX-E: Voting and Special Locks
 
-some locks carry extra rules on top of [Article XIX-D](../../core_06.015_rights_part_d.md#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*). A lock on the foundational governance vote doesn't touch your weighted stakeholder voice inside a particular system, and the reverse. Taking away someone's governance vote needs a finding about them specifically, a narrow fit to what they did, and a real way back; only a **final** **Chapter Thirteen** finding of anti-constitutional misconduct withholds that vote, and only until **full restitution**. Special locks cover judges who failed to step aside, rigging stakeholder votes, using an institution as a vehicle for a violation, attacks on the constitution itself, and the return of a body that a forum has dissolved.
+some locks carry extra rules on top of [Article XIX-D](../../core_06.015_rights_part_d.md#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*). A lock on the foundational governance vote doesn't touch your weighted stakeholder voice inside a particular system, and the reverse. Taking away someone's governance vote needs a violation finding about them specifically, a narrow fit to what they did, and a real way back; only a **final** **Chapter Thirteen** finding of anti-constitutional misconduct withholds that vote, and only until **full restitution**. Special locks cover judges who failed to step aside, rigging stakeholder votes, using an institution as a vehicle for a violation, attacks on the constitution itself, and the return of a body that a forum has dissolved.
 
 [Source](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks)
 
