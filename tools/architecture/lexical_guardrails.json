@@ -209,6 +209,18 @@
       "prefer": "the named scale: protection level (Treatment of Life by Status), stewardship level (CSS-A to CSS-C), access level or disclosure level (transparency and audit access), severity level, evidence level, verification level; numbered forms (Level 1 to Level 4) and 'level of ...' stay; 'tier' names only the forum urgency tiers (Tier A/B/C/L/P); enforced by avoid-bare-level"
     },
     {
+      "avoid": "certify a question / certified question(s) / refer, certify, or stay (the forum move that sends a question to another forum)",
+      "prefer": "question for ruling and send for ruling (Chapter Fourteen section 5); the other moves are refer (hand the question to the family that owns it), transfer (move the whole matter), and stay (pause); certify and certification stay for the certification process and its outcomes (provisional, full, conditional, deferred); enforced by avoid-certify-question"
+    },
+    {
+      "avoid": "pass / passes (bare noun: the pass, a pass, each pass)",
+      "prefer": "certification pass (a whole run of a certification, validation, or recertification), component pass (one component's part of it), or review pass; passing result for a result; the verb (passes the tests), 'pass of ...', pass/fail, and qualified compounds (first pass, full pass) stay; enforced by avoid-bare-pass"
+    },
+    {
+      "avoid": "placement / placements (bare noun: the placement, a placement, those placements)",
+      "prefer": "say what is placed or which kind: seat placement, role placement, Published Placement (Chapter Eight §5), Corpus placement, display placement, paid placement, or name the thing (placement of the record seat); 'placement of ...', qualified compounds, and the verb (places, placed) stay; enforced by avoid-bare-placement"
+    },
+    {
       "avoid": "re-check / re-checks / recheck / rechecks (bare noun in Chapter Seven: a re-check, the re-check, what triggers a re-check)",
       "prefer": "formation re-check; the verb forms (re-checked, re-checking) stay; enforced by avoid-bare-recheck"
     },

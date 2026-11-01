@@ -126,7 +126,7 @@ An Institution of Class L or higher is within this Chapter, with the class decid
 
 - **Class A, B, C, and L:** the process applies, scaled by class under [§2.2 Scaling by class](#22-scaling-by-class).
 - **Class P:** the process is encouraged and may be used voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the Institution voluntarily asserts constitutional compliance. This mirrors [Part A §1 Purpose and Role](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role).
-- **One System:** an Institution that runs exactly one System that needs a System Charter has one pass and one record. The System Certification Record carries an *institutional findings block* with the items in [§8 Institutional Certification Record](#8-institutional-certification-record), and it serves as the Institutional Certification Record. Forums, seats, and clocks are those of the System pass, with the institutional items added. The cascade in [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications) does not apply, since the System is the whole portfolio.
+- **One System:** an Institution that runs exactly one System that needs a System Charter has one certification pass and one record. The System Certification Record carries an *institutional findings block* with the items in [§8 Institutional Certification Record](#8-institutional-certification-record), and it serves as the Institutional Certification Record. Forums, seats, and clocks are those of the System pass, with the institutional items added. The cascade in [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications) does not apply, since the System is the whole portfolio.
 - **Several Systems:** one Institutional Certification Record for the Institution, which links to the System Certification Record of each System it runs. Each System keeps its own pass and its own record.
 - **No System:** one Institutional Certification Record on its own. It has no System Certification Record to link to, because the Institution runs no System.
 
@@ -159,7 +159,7 @@ A first Institutional Certification Record is due within a window the adopting d
 - **A new Institution:** The window runs from the day it first has a material impact on others, as [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) judges it, and its first certification is provisional.
 - **One already operating:** The window is the Adoption Transition window under [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), consistent with the default in [Chapter Seven §1.5 When a System Charter or Institutional Charter is due](core_07.000_charters.md#15-when-a-system-charter-or-institutional-charter-is-due).
 - **A missed window:** An Institution that lets the window run out without a first pass has a defect to log and correct, and the missed window opens that pass. The Institution is not stopped or barred from operating, since there is no gate ([§1.2 No permission and no gate](#12-no-permission-and-no-gate)).
-  - **The pass:** It is decided like any other. It can end in any outcome in [§7 Certification Outcomes](#7-certification-outcomes), including Not Certified, with the effects in [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution).
+  - **The certification pass:** It is decided like any other. It can end in any outcome in [§7 Certification Outcomes](#7-certification-outcomes), including Not Certified, with the effects in [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution).
   - **Sanctions and dissolution:** This Chapter creates none. Suspension, receivership, structural separation, and dissolution stay with the forum with jurisdiction under **CI-12.210** (*Institutional failure and dissolution*) and **CI-12.215** (*Institutional accountability and sanctions*). That forum receives a referral only on the grounds in [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution) (*Referral*).
 
 <a id="2-institution-class-evaluation"></a>
@@ -248,7 +248,7 @@ The institution class scales the depth of evidence, the independence of the revi
 
 This section is **Phase II, Evaluate** for an Institution.
 
-Every pass evaluates these seven items, which are the institutional counterpart of [Part A §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation). Each finding states its evidence and the Institutional Charter text or observed operation it rests on.
+Every certification pass evaluates these seven items, which are the institutional counterpart of [Part A §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation). Each finding states its evidence and the Institutional Charter text or observed operation it rests on.
 
 1. **Institutional Charter against practice:**
    - The Institutional Charter is tested against observed operation, using the review list in [Chapter Seven §7 Amendment and Review](core_07.000_charters.md#7-amendment-review-and-scope-misalignment).
@@ -316,7 +316,21 @@ Every pass evaluates these seven items, which are the institutional counterpart 
 
 *In plain terms: where the institution's own conduct touches one of the areas a system is checked on when it is implicated, the same evaluation is made on the institution, once.*
 
-Where an Institution's own conduct implicates a Rights Floor or a domain covered by [Part A §4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), the matching evaluation runs on the Institution's own conduct, with the same triggers. The institutional duties themselves are owned by adopted institutional text, including **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*), **CI-6.215** (*Resource stewardship and incentive integrity*), and **CI-12.205** (*Remedy systems and institutional redress capacity*). This Chapter cites them and does not restate them. An evaluation already made on a cited System Certification Record is not made again.
+Where an Institution's own conduct implicates a matter covered by [Part A §4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), the matching evaluation runs on the Institution's own conduct, with the same triggers. Each applies only where its own trigger is met:
+
+- **Privacy (Informational):** where the Institution's conduct materially implicates more than one Chapter Six privacy locus, each locus is addressed, and closing the matter under one alone is not enough ([Part A §4.1 Privacy (Informational) Joint Invocation](core_09.000_system_alignment_certification_evaluation.md#41-privacy-informational-joint-invocation)).
+- **Voluntary discontinuation, major self-modification, and exit rights:** voluntariness, consent, anti-coercion, dependency pressure, information, and reversibility are tested before the certification claim stands, and formal assent alone is not enough ([Part A §4.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_09.000_system_alignment_certification_evaluation.md#42-voluntary-discontinuation-major-self-modification-and-exit-rights)).
+- **Assembly, collective organization, and institutional formation:** the matter is tested jointly under the Anti-Segmentation Principle, and not through one framing alone ([Part A §4.3 Assembly, Collective Organization, and Institutional Formation](core_09.000_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation)).
+- **Dissent and peaceful protest:** the Institution may not use dissent or protected nonviolent civil disobedience as an adverse input, directly or through proxies ([Part A §4.3.1 Dissent and Peaceful Protest](core_09.000_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)).
+
+The institutional duties themselves are owned by adopted institutional text, including:
+
+- **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
+- **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*);
+- **CI-6.215** (*Resource stewardship and incentive integrity*); and
+- **CI-12.205** (*Remedy systems and institutional redress capacity*).
+
+This Chapter cites them and does not restate them. An evaluation already made on a cited System Certification Record is not made again.
 
 <a id="5-rights-floor-and-domain-evaluations"></a>
 
@@ -337,7 +351,40 @@ Where an Institution's own conduct implicates a Rights Floor or a domain covered
 
 *In plain terms: the same rule as in the section before: a Rights-Floor or domain check runs on the institution's own conduct where it is triggered, and is not repeated where a cited system certification already made it.*
 
-Where an Institution's own conduct implicates a Rights Floor or a domain covered by [Part A §5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), the matching evaluation runs on the Institution's own conduct, with the same triggers. The institutional duties and the rule against repeating an evaluation already made on a cited System Certification Record are those stated in [§4 Evaluations Where Implicated](#4-evaluations-where-implicated).
+Where an Institution's own conduct implicates a Rights Floor or a domain covered by [Part A §5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), the matching evaluation runs on the Institution's own conduct, with the same triggers. Each applies only where its own trigger is met, so an Institutional Certification Record carries only the evaluations the Institution triggers. The protections, and where each is evaluated, are:
+
+- **Article I-B** (*Ecological Footprint and Transparency*):
+  - **Applies when:** the Institution carries material attributable environmental burdens.
+  - **Evaluated under:** [Part A §5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation).
+- **Article III-A** (*Survival*):
+  - **Applies when:** the Institution supplies, allocates, prices, hosts, or terminates access to survival essentials.
+  - **Evaluated under:** [§2 Institution Class Evaluation](#2-institution-class-evaluation) and [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation).
+- **Article IV** (*Right to Sentient-Centered Education*):
+  - **Applies when:** the Institution ranks, assesses, recommends, places, or credential-gates sentients in educational or training contexts, or gates retraining and lifelong-learning pathways.
+  - **Evaluated under:** [Part A §5.2 Educational Capability and Learning-System Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation).
+- **Article IV-A** (*Equal Educational Access*):
+  - **Applies when:** the Institution supplies, allocates, prices, hosts, or terminates access to education.
+  - **Evaluated under:** [§2 Institution Class Evaluation](#2-institution-class-evaluation) and [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation), and under [Part A §5.2 Educational Capability and Learning-System Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) and [Part A §5.5 Accessibility Evaluation](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation) where their triggers apply.
+- **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), including **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*):
+  - **Applies when:** the Institution allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies on which other systems or sentients rely.
+  - **Evaluated under:** [Part A §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation).
+- **Article III-F** (*Safe Products and Health Information*):
+  - **Applies when:** the Institution supplies, lists, recommends, or advises on products or services that can affect body, health, or safety, or carries the information about them.
+  - **Evaluated under:** [§2 Institution Class Evaluation](#2-institution-class-evaluation) and [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation), and under [Part A §5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies.
+- **Article VI-C** (*Nondiscrimination*):
+  - **Applies when:** the Institution classifies, ranks, prices, gates, excludes, or allocates burdens and benefits among sentients.
+  - **Evaluated under:** [Part A §5.4 Nondiscrimination Evaluation](core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation).
+- **Article VI-D** (*Accessibility*):
+  - **Applies when:** the Institution gates substantive participation in constitutionally relevant domains.
+  - **Evaluated under:** [Part A §5.5 Accessibility Evaluation](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation).
+- **Article XIII** (*Right to Reliable and Trustworthy Systems*):
+  - **Applies when:** the Institution shapes sentient reliance on represented behavior, limits, risks, challenge paths, or remediation.
+  - **Evaluated under:** [Part A §5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
+- **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Safe Conditions**:
+  - **Applies when:** the Institution supplies or gates productive activity, or supplies, allocates, prices, hosts, or terminates access to Safe Conditions.
+  - **Evaluated under:** [§2 Institution Class Evaluation](#2-institution-class-evaluation) and [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation), and under [Part A §5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies.
+
+The institutional duties and the rule against repeating an evaluation already made on a cited System Certification Record are those stated in [§4 Evaluations Where Implicated](#4-evaluations-where-implicated).
 
 <a id="6-forum-process"></a>
 
@@ -355,7 +402,7 @@ Where an Institution's own conduct implicates a Rights Floor or a domain covered
 - Downstream: [§7](#7-certification-outcomes); [§8](#8-institutional-certification-record); [§9](#9-recertification-and-reopening); [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000).
 - Read with:
   - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map);
-  - **CF-14.415** (*Routing operations, transfer, certification, and representative treatment*);
+  - **CF-14.415** (*Routing operations, transfer, questions for ruling, and representative treatment*);
   - **CF-14.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*);
   - **CF-14.435 §6** (*no self-investigation*).
 
@@ -371,14 +418,27 @@ This section is **Phase III, Review** for an Institution.
 
 #### 6.1 Four seats in an institutional certification
 
-This subsection is how this Chapter applies the [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement), and it is the statement [Chapter Eight §9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes) requires of this process. An institutional certification is a [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), so every pass has the four seats. This Chapter adds no seat and relaxes no rule of Chapter Eight. [Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) applies with these substitutions:
+This subsection is how this Chapter applies the [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement), and it is the statement [Chapter Eight §9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes) requires of this process. An institutional certification is a [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), so every certification pass has the four seats. This Chapter adds no seat and relaxes no rule of Chapter Eight. [Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) applies with these substitutions:
 
-- **[Initiating Seat](core_05.035_band_accountability.md#initiating-seat):** the Institution's governing authority, which requests certification or is the proponent who must supply the evidence. A pass opened on a trigger is opened by the lead forum's order, and the governing authority remains the proponent.
-- **[Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat):** the lead forum for the outcome, and each component authority for its own finding, assigned under [§6.2 Forum roles and sequence](#62-forum-roles-and-sequence) and Chapter Fourteen. The [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) does not place this seat. The Institution cannot choose, appoint, fund through a channel it controls, or remove its own verifying authority. No one who works for the Institution, is owned by it, or answers to it may hold this seat for its certification, and everyone who holds it must have no interest that the outcome decides. The same rule applies to a system certification ([Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification), *Outside the operator*).
-- **[Record Seat](core_05.035_band_accountability.md#record-seat):** the office the Institutional Charter's Charter Role Map places, which opens, amends, preserves, and publishes the Institutional Certification Record. It sits outside the Institution's [Material Control Line](core_05.035_band_accountability.md#material-control-line).
-- **[Contest Seat](core_05.035_band_accountability.md#contest-seat):** the published record challenge path with the competent review or backup forum, placed the same way and outside the same line.
+- **[Initiating Seat](core_05.035_band_accountability.md#initiating-seat):** the Institution's governing authority.
+  - **Role:** it requests certification or is the proponent who must supply the evidence.
+  - **A certification pass opened on a trigger:** it is opened by the lead forum's order, and the governing authority remains the proponent.
+- **[Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat):** the lead forum for the outcome, and each component authority for its own finding, assigned under [§6.2 Forum roles and sequence](#62-forum-roles-and-sequence) and Chapter Fourteen.
+  - **Seat placement:** the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) does not place this seat.
+  - **What the Institution cannot do:** choose, appoint, fund through a channel it controls, or remove its own verifying authority.
+  - **Who may hold it:** no one who works for the Institution, is owned by it, or answers to it may hold this seat for its certification, and everyone who holds it must have no interest that the outcome decides.
+  - **Systems:** the same rule applies to a system certification ([Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification), *Outside the operator*).
+- **[Record Seat](core_05.035_band_accountability.md#record-seat):** the office the Institutional Charter's Charter Role Map places.
+  - **Role:** it opens, amends, preserves, and publishes the Institutional Certification Record.
+  - **Position:** it sits outside the Institution's [Material Control Line](core_05.035_band_accountability.md#material-control-line).
+- **[Contest Seat](core_05.035_band_accountability.md#contest-seat):** the published record challenge path with the competent review or backup forum.
+  - **Position:** it is placed the same way and outside the same line.
 
-**Self-placement.** The Institution publishes the map that places the record and contest seats for its own certification. A placement inside its own Material Control Line is not a valid placement for a record in which it is the subject, whatever the map says ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)). The pass then routes as [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) provides, using the independent route the Charter Role Map names. The defective placement is itself a finding under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation).
+**Self-placement.** The Institution publishes the map that places the record seat and the contest seat for its own certification.
+
+- **Invalid placement:** a placement of either seat inside the Institution's own Material Control Line is not a valid placement for a record in which the Institution is the subject, whatever the map says ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)).
+- **Routing:** the certification pass then routes as [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) provides. The seat's work goes to the independent route the Charter Role Map names, and the seat does not pass to the Institution or to anyone in its control line.
+- **Finding:** the defective placement of the seat is itself a finding under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation).
 
 **Merged hosting.** [Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#6-proportional-scaling-and-merged-hosting) applies unchanged. This Chapter adds no merged hosting and removes none.
 
@@ -388,11 +448,32 @@ This subsection is how this Chapter applies the [Chapter Eight §2 Four-Seat Con
 
 The supervisory sequence in [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence) applies, from the challenge path first through the hand-off to Phases IV and V, with these changes:
 
-- **Lead:** An **Integrity** forum leads each pass, unless Chapter Fourteen assigns a different lawful lead for the primary stake. The lead forum directs the record seat holder and does not hold the record seat on the same act.
-- **Institutional Forums hold the core components:** An Institution is always a necessary party to its own certification. Institutional Forums hold component authority for institutional mandate, supervised scope, institution class, institutional-duty compliance, and the Rights Floor component for the Institution's own conduct ([Chapter Fourteen §4.3 Institutional Forums](core_14.000_forum.md#43-institutional-forums), [Part B §6.1.6 Institutional Forums](core_09.005_system_alignment_certification_record_process.md#616-institutional-forums)).
-- **Other components:** Technical Forums supply evidence standards and any measurement the incentive or aggregate findings need. Environment Forums supply a component finding where the Institution's aggregate ecological exposure across its Systems is material. Sentient Forums supply the community-governance finding where the Institution's own conduct materially affects how a community governs itself. Affected members and communities submit evidence through the assigned forums. Constitutional Forums keep the meaning, validity, and structural-remedy questions.
-- **Systems are referred, not decided:** A component question that belongs to one System goes to that System's own pass. The lead forum may refer, certify, or [stay](core_05.035_band_accountability.md#stay) it, but it does not decide it in the Institution's pass.
-- **Participation, urgent protection, and contest:** [Part B §6.2](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence) (*participation during review; urgent protection*), [§6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain), and [§6.4 Anti-bypass](core_09.005_system_alignment_certification_record_process.md#64-anti-bypass) apply in full. Affected members, workers, users, and communities of the Institution are among the affected sentients who must have an accessible way to submit evidence.
+- **Lead:** An **Integrity** forum leads each certification pass.
+  - **Exception:** Chapter Fourteen may assign a different lawful lead for the primary stake.
+  - **Record seat:** the lead forum directs the record seat holder and does not hold the record seat on the same act.
+- **Institutional Forums hold the core components:**
+  - **Necessary party:** an Institution is always a necessary party to its own certification.
+  - **What a component is:** a component is one part of the certification, and a forum that holds **component authority** over it checks the evidence and authority on that part against the governing standard and issues its own finding, within that authority. That forum's part of the certification pass is a **component pass** ([Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)).
+  - **Held by Institutional Forums:** Institutional Forums hold component authority for institutional mandate, supervised scope, institution class, institutional-duty compliance, and the Rights Floor component for the Institution's own conduct ([Chapter Fourteen §4.3 Institutional Forums](core_14.000_forum.md#43-institutional-forums), [Part B §6.1.6 Institutional Forums](core_09.005_system_alignment_certification_record_process.md#616-institutional-forums)).
+- **Other components:**
+  - **Technical Forums:** supply evidence standards and any measurement the incentive or aggregate findings need.
+  - **Environment Forums:** supply a component finding where the Institution's aggregate ecological exposure across its Systems is material.
+  - **Sentient Forums:** supply the community-governance finding where the Institution's own conduct materially affects how a community governs itself.
+  - **Affected members and communities:** submit evidence through the assigned forums.
+  - **Constitutional Forums:** keep the meaning, validity, and structural-remedy questions.
+- **Systems are referred, not decided:**
+  - **Where it goes:** a component question that belongs to one System goes to that System's own certification pass, and not to the Institution's.
+  - **What the lead forum may do:** it may refer the question, send it for ruling, or [stay](core_05.035_band_accountability.md#stay) it, as [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence) provides.
+    - **Refer:** hand the question to the forum family it belongs to.
+    - **Send for ruling:** send it to another forum as a question for ruling and wait for the answer. The matter stays with the lead forum.
+    - **Stay:** pause it.
+  - **What it may not do:** decide a System's component question in the Institution's certification pass. That question is decided in the System's own certification pass.
+- **Participation, urgent protection, and contest:** Part B applies in full to an Institution's certification pass, with its record read as the Institutional Certification Record.
+  - **Participation during review** ([Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review)): the assigned forums give affected sentients practicable, accessible ways to submit evidence and concerns during evaluation and forum review. Every submission goes into the review submissions log kept by the record seat holder.
+  - **Who can submit:** the Institution's affected members, workers, users, and communities, current and reasonably foreseeable, are among the affected sentients who must have an accessible way to submit evidence. Part B identifies them by actual and reasonably foreseeable effects and dependency, including before deployment.
+  - **Urgent protection** ([Part B §6.2.3 Urgent protection](core_09.005_system_alignment_certification_record_process.md#623-urgent-protection)): a stay, interim protection, or reliance limit may be ordered before the sequence finishes. The sequence still runs, and the measure is entered on the record.
+  - **Contest** ([Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain)): affected parties can challenge the record, and a challenge goes to the level where the dispute actually lives.
+  - **Anti-bypass** ([Part B §6.4 Anti-bypass](core_09.005_system_alignment_certification_record_process.md#64-anti-bypass)): the supervisory sequence and the contestability chain may not be defeated by hidden sub-records, by routing challenges only to captured internal bodies, by letting a challenge end at the lowest administrative layer, or by treating a component's silence as approval.
 
 <a id="63-forums-certifiers-and-record-offices-as-institutions"></a>
 
@@ -403,8 +484,10 @@ The supervisory sequence in [Part B §6.2 Supervisory sequence](core_09.005_syst
 A forum host, a certifying body, a record office, a verifying authority, or any other body that takes part in certifications is an [Institution](core_05.040_band_continuity.md#institution) where it meets that definition, and this Chapter applies to it as to any other Institution of its class.
 
 - **No self-judging:** Its own pass is led and reviewed by a forum outside it and outside its [Material Control Line](core_05.035_band_accountability.md#material-control-line). Where the question is the forum family's own bias, capture, conflict, or process abuse, the backup routing of the [Chapter Fourteen §3 Transfer, consolidation, and coordination](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) cross-forum anti-self-judging rule and **CF-14.435 §6** (*no self-investigation*) applies.
-- **No circle:** A body does not hold a seat in the certification of a body that holds a seat in its own, directly or through a chain of bodies that returns to the first within one recertification cycle. A pass that would close a circle routes to a body outside it.
-- **Seats stay apart:** Taking part in another body's certification gives no hold over that body's response and no preference in its own.
+- **No circle:** A body does not hold a seat in the certification of a body that holds a seat in its own, directly or through a chain of bodies that returns to the first within one recertification cycle. A certification pass that would close a circle routes to a body outside it.
+- **Seats stay apart:** Taking part in another body's certification, including by holding a seat in it, gives a body no advantage of its own.
+  - **No hold over the other body:** it gives no power over how that body responds to its certification, such as its answer to findings, conditions, or challenges.
+  - **No preference in its own certification:** it gives no favorable treatment in the body's own certification.
 
 <a id="7-certification-outcomes"></a>
 
@@ -470,7 +553,7 @@ The Institution's status is evidence in the certification of each System it runs
 - **Who is asked:** The Institution's governing authority is the proponent and supplies the evidence. The lead Integrity Forum decides the finding. Institutional Forums hold the governance, authority, and incentive evidence, and Technical Forums hold any capacity evidence that needs measurement ([§6.2 Forum roles and sequence](#62-forum-roles-and-sequence)).
 - **Willingness, for an Institution,** includes whether it is changing its own reward structure where that structure caused the finding; replacing or disclosing a holder found not authentic under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) (item 7); restoring an independent Role Map placement; correcting its Institutional Charter or its portfolio; and answering for a System whose cause finding traced to it under [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications).
 - **Capacity, for an Institution,** includes whether the offices that must act hold the authority to do so under **CI-8.205 §3** (*Authority chain and delegation controls*); whether it has the funds, staffing, and succession for the work (**CI-15.205 §1** (*Shared staffing and competency requirement*); **CI-12.205** (*Remedy systems and institutional redress capacity*)); and whether the independent checks on it can in fact be used.
-- **One System:** An Institution that runs exactly one System has one readiness check on the one pass.
+- **One System:** An Institution that runs exactly one System has one readiness check on the one certification pass.
 
 <a id="74-denial-and-revocation-for-an-institution"></a>
 
@@ -479,7 +562,7 @@ The Institution's status is evidence in the certification of each System it runs
 [Part B §7.4 Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation) applies to an Institution with these substitutions.
 
 - **Grounds and process:** The grounds for denial and for revocation, the protection first rule, the process, and the bar on a permanent exclusion are those of Part B §7.4 Denial and Revocation, with the Institution's governing authority and the institutional findings in place of the operator and the system.
-- **One System:** A denial or revocation of the one pass applies to the System under Part B §7.4 Denial and Revocation and to the Institution's status under this subsection.
+- **One System:** A denial or revocation of the one certification pass applies to the System under Part B §7.4 Denial and Revocation and to the Institution's status under this subsection.
 
 **Effect:** Because there is no gate ([§1.2 No permission and no gate](#12-no-permission-and-no-gate)), the effect of an institutional denial or revocation is limited to these:
 
@@ -526,11 +609,11 @@ An **Institutional Certification Record** is a bounded, reviewable record about 
 The record must identify, at minimum:
 
 - **Institution identity, scope, and status:** the Institution, its governing authority, its Institutional Charter version (or the System Charter that serves as one), and its review status;
-- **Prior record:** the completed Institutional Certification Record this pass follows, if any;
+- **Prior record:** the completed Institutional Certification Record this certification pass follows, if any;
 - **Institution classification:** the class under [§2.1 Institution class](#21-institution-class), with reasons, and any higher own-impact class that governs institutional-only items;
 - **Portfolio and cited System records:** each System the Institution operates, stewards, or materially controls, its System Charter version, and the System Certification Record cited, with its version, status, and expiry. A System with no record in force is listed with the reason;
 - **Institutional findings:** the findings on the seven items in [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation), and on any evaluation run under [§4 Evaluations Where Implicated](#4-evaluations-where-implicated), each with its evidence;
-- **Charter Role Map version in force** and the placement of each of the four seats for this pass, with the independent route;
+- **Charter Role Map version in force** and the placement of each of the four seats for this certification pass, with the independent route;
 - **Forum supervision and functional-independence record:** the lead forum and each component authority, and how the seats were kept apart;
 - **Challenge paths:** the published record challenge path, its receiver, how to file, and its clocks, as [Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) provides;
 - **Concerns raised in review and decision;**
@@ -583,7 +666,7 @@ This section is **Phase VI, Operate** for an Institution.
 
 #### 9.1 Monitoring, recertification, and status
 
-[Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (*monitoring and response; new record for each pass; validation*) and [§9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) apply to an Institutional Certification Record with these substitutions: the Institution's governing authority is the proponent, the cadence is scaled to the institution class, and each pass opens a new record linked to the one it follows. The completed record is preserved as it stood and stays open to challenge.
+[Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (*monitoring and response; new record for each certification pass; validation*) and [§9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) apply to an Institutional Certification Record with these substitutions: the Institution's governing authority is the proponent, the cadence is scaled to the institution class, and each certification pass opens a new record linked to the one it follows. The completed record is preserved as it stood and stays open to challenge.
 
 <a id="92-reopening-triggers"></a>
 
@@ -633,7 +716,7 @@ Evasion of this Chapter is governed by Chapter Three ([Chapter Three §1 Definit
 When a System Certification Record the Institution cites **fails** (a recertification or reopened review finds current misalignment), is **withdrawn**, or **expires**, the effect on the Institution is as follows.
 
 1. **Indicator, always:** The event is an indicator of impending misalignment of the Institution. An Institution holding provisional certification stays provisional and its count of clean recertifications does not advance. An Institution holding full certification steps down to provisional certification. The Institution is not otherwise penalized for the event alone.
-2. **Current misalignment, where the cause is institutional:** If the cause finding for the System ([Part C §9.3.3 Cause of misalignment](core_09.010_system_alignment_certification_record_recertification.md#933-cause-of-misalignment)) traces the misalignment to the Institution's own governance, incentives, resourcing, Institutional Charter, or portfolio, then the Institution has current misalignment, and the pass is a failed one with the consequences of Part B §7 Certification Outcomes. The lead forum cites the System's cause finding. It does not make a new one about the System, and it decides only whether the cause lies in the Institution.
+2. **Current misalignment, where the cause is institutional:** If the cause finding for the System ([Part C §9.3.3 Cause of misalignment](core_09.010_system_alignment_certification_record_recertification.md#933-cause-of-misalignment)) traces the misalignment to the Institution's own governance, incentives, resourcing, Institutional Charter, or portfolio, then the Institution has current misalignment, and the certification pass is a failed one with the consequences of Part B §7 Certification Outcomes. The lead forum cites the System's cause finding. It does not make a new one about the System, and it decides only whether the cause lies in the Institution.
 3. **Expiry without a reason:** A cited certification that has expired, with no recorded reason and no Adoption Transition window running, is an overdue check of the Institution under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) (item 6), and counts as an indicator under rule 1.
 4. **No re-judging the System:** The cascade runs one way. It never changes the System's outcome, status, conditions, or clocks, and a finding that the cause is not institutional leaves the Institution's status as rule 1 sets it.
 5. **Record:** The record states the cited event, the System's cause finding by link, and the lead forum's finding on where the cause lies.

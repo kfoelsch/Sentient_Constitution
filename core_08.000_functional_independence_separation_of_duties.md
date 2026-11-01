@@ -259,7 +259,7 @@ Independence is not satisfied by a second signature, a nominal committee, an int
 
 Wrong-seat routing should be built into the process wherever practicable. An intake, queue, workflow, or interface should send each step to its published seat from the start, so a step is not offered to a seat that may not take it. Automated routing:
 
-- follows the placement published under [§5 Published Placement, Vacancy, and Substitution](#5-published-placement-vacancy-and-substitution) and routes on seat, not on the merits of the act;
+- follows the seat placement published under [§5 Published Placement, Vacancy, and Substitution](#5-published-placement-vacancy-and-substitution) and routes on seat, not on the merits of the act;
 - logs each route as item 3 below requires;
 - follows the published substitute or independent path under [§5.3 A seat the map leaves unplaced, or a holder who cannot serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) when a holder cannot serve, and holds the matter and logs the gap when no seat, substitute, or independent path is placed, rather than sending it to the nearest, fastest, or most senior seat; and
 - is not itself a seat-holder and cannot change who holds a seat; only the published placement does.
@@ -314,7 +314,7 @@ That response is performance of duty, not abandonment of the act. The act procee
 Every adopter of Class L or higher that takes materially binding acts must maintain a published, auditable, and contestable [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) that identifies:
 
 - which lane, office, role, or process hosts each seat;
-- the acts and scope for which that placement applies;
+- the acts and scope for which that seat placement applies;
 - every permitted merged-hosting arrangement and its independence safeguard;
 - each deputy or substitute who may act in a seat, including for an absent, excluded, captured, or conflicted holder;
 - the independent route when no qualified substitute is available; and
@@ -399,7 +399,7 @@ A small or informal adopter may place two seats in one office or sentient only w
 <a id="63-seats-held-in-common"></a>
 #### 6.3 Seats held in common
 
-A business run by a single sentient or a few may place its verify-or-authorize, record, or contest seat with a local cooperative or association of such businesses, or with any other independent relying body. This is not a merger, because the seats stay with separate holders. It is how a business too small to staff four seats still meets the separation-of-duties requirement in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement). The same independence rules apply as to any placement, together with these rules for the group:
+A business run by a single sentient or a few may place its verify-or-authorize, record, or contest seat with a local cooperative or association of such businesses, or with any other independent relying body. This is not a merger, because the seats stay with separate holders. It is how a business too small to staff four seats still meets the separation-of-duties requirement in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement). The same independence rules apply as to any seat placement, together with these rules for the group:
 
 - **Independent of the business:** The holder is [independent](core_05.035_band_accountability.md#independence) of the initiating business. It is outside the business's [Material Control Line](core_05.035_band_accountability.md#material-control-line), and nothing the act decides gives it a stake. A supplier, lender, landlord, or customer that the business depends on is not independent for an act about that dependence, such as a dispute over the supplier's own contract, because the act decides something for them too.
 - **One map for the group:** The group publishes one [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) for the seats it hosts, and each member may adopt it by reference. A member's own map still names its substitute and its independent route.

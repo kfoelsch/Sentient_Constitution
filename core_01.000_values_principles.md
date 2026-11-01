@@ -836,7 +836,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
     - [Article XV-D: Scientific Publication, Review, and Replication Integrity](core_06.010_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity),
     - [Article XXIV: Root Cause Analysis and Adaptive Response](core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), and
     - [Article XXVI-A: Retrospective Review and Disclosure](core_06.020_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure).
-- Read with: [Chapter Fourteen §4.2 — Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) (14.000 §4.2) (*including shared standards and anti-displacement*) where expert-evidence standards, certified technical questions, or evidence-stewardship disputes are material; [CF-14.440](corpus_forum/cf_14.440_technical_specialist_forums_specialist_chambers.md#cf-14440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
+- Read with: [Chapter Fourteen §4.2 — Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) (14.000 §4.2) (*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-14.440](corpus_forum/cf_14.440_technical_specialist_forums_specialist_chambers.md#cf-14440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
 
 </details>
 
@@ -879,7 +879,7 @@ Where governance choices — including predictions, causal claims, classificatio
 
 The scientific method, systematic inquiry, and peer review set the standard — but they are not the only acceptable procedures. How much formality is required depends on the stakes: higher-impact decisions need stricter evidence practices, governed by [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance).
 
-If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer certified technical questions. They don't take over a case that belongs in another forum because of what is at stake.
+If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Fourteen §4.2 Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer technical questions for ruling. They don't take over a case that belongs in another forum because of what is at stake.
 
 Sometimes safety is a good reason to limit what gets published or shared: data access, how a method works, or the materials someone would need to repeat a study. Such limits are allowed only under:
 

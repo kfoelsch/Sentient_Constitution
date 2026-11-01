@@ -496,6 +496,54 @@ def run_internal_regression_checks() -> None:
         "A level that an adopter has set is not a scale.\n",
     ):
         raise RuntimeError("Internal regression failed: ordinary degree senses of level were flagged.")
+    placement_findings = scan_avoid_bare_placement(
+        "core_08.000_functional_independence_separation_of_duties.md",
+        "The placement applies to the act.\n"
+        "A seat placement and the Published Placement are qualified forms.\n"
+        "See the placement of the record seat, and paid placement of a product.\n"
+        "Those placements differ.\n"
+        "The map places the seat, and the seat is placed once.\n"
+        "See [Published Placement](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) and `a placement` in code.\n",
+    )
+    if len(placement_findings) != 2:
+        raise RuntimeError(
+            "Internal regression failed: bare placement was not flagged or qualified forms broke.",
+        )
+    if not scan_avoid_bare_placement("core_07.000_charters.md", "The placement applies.\n"):
+        raise RuntimeError("Internal regression failed: bare placement was not flagged (AUDIT-SCOPE-01).")
+    if scan_avoid_bare_placement("doc_architecture.md", "The placement applies.\n"):
+        raise RuntimeError("Internal regression failed: bare placement was flagged in the exempt move-log file.")
+    pass_findings = scan_avoid_bare_pass(
+        "core_10.000_institutional_alignment_certification.md",
+        "Every pass evaluates the items.\n"
+        "A certification pass and a component pass are qualified forms, as is a first pass.\n"
+        "The system passes the tests and must pass them; tests that pass are fine.\n"
+        "It is a pass/fail result, or a pass or fail, or a pass of the review.\n"
+        "Keep the passes separate.\n"
+        "See [the review](core_10.000_institutional_alignment_certification.md#the-pass) and `a pass` in code.\n",
+    )
+    if len(pass_findings) != 2:
+        raise RuntimeError("Internal regression failed: bare pass was not flagged or qualified forms broke.")
+    if not scan_avoid_bare_pass("core_07.000_charters.md", "The pass routes.\n"):
+        raise RuntimeError("Internal regression failed: bare pass was not flagged (AUDIT-SCOPE-01).")
+    if scan_avoid_bare_pass("doc_architecture.md", "The pass routes.\n"):
+        raise RuntimeError("Internal regression failed: bare pass was flagged in the exempt move-log file.")
+    cq_findings = scan_avoid_certify_question(
+        "core_14.000_forum.md",
+        "The lead forum must refer, certify, or stay the matter.\n"
+        "A certified constitutional question reaches the Constitutional Forum.\n"
+        "The forum may certify a question to another family.\n"
+        "See [Chapter Fourteen §5 Escalation and certification](core_14.000_forum.md#5-escalation-and-questions-for-ruling).\n"
+        "The lead forum must refer, send for ruling, or stay the matter, and a question for ruling waits for the answer.\n"
+        "Conditional certification is an outcome, and a certification challenge may follow a referral.\n"
+        "The forum grants provisional certification or full certification.\n",
+    )
+    if len(cq_findings) != 4:
+        raise RuntimeError("Internal regression failed: certify-a-question wording was not flagged or the certification outcomes broke.")
+    if not scan_avoid_certify_question("core_09.005_system_alignment_certification_record_process.md", "A certified question waits.\n"):
+        raise RuntimeError("Internal regression failed: certify-a-question wording was not flagged (AUDIT-SCOPE-01).")
+    if scan_avoid_certify_question("doc_architecture.md", "A certified question waits.\n"):
+        raise RuntimeError("Internal regression failed: certify-a-question wording was flagged in the exempt move-log file.")
     layer_findings = scan_avoid_governance_layer_labels(
         "internal-regression.md",
         "Remain subject to stakeholder governance.\n"
@@ -995,6 +1043,151 @@ def scan_avoid_bare_level(rel_path: str, text: str) -> list[Finding]:
                     Finding(file=rel_path, line=idx, rule="avoid-bare-level", text=raw.strip()),
                 )
                 break
+    return findings
+
+
+# Bare **placement** (custodian decision, 2026-10-31): the noun always says what is placed or what kind of placement it is. The word
+# carries several unrelated senses in the corpus (a seat or role placed on the Charter Role Map, Corpus placement of a document, paid or
+# sponsored placement of a product, a residency or respite placement of a sentient), so "a placement", "the placement", or "that
+# placement" alone does not say which. Say **seat placement**, **role placement**, **Published Placement** (Chapter Eight §5), **Corpus
+# placement**, **paid placement**, and so on, or name what is placed ("placement of the record seat"). "Placement of ..." is not matched.
+# The verb (places, placed, placing) is not matched. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).
+_BARE_PLACEMENT_EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
+_PLACEMENT_WORD = re.compile(r"(?<![A-Za-z0-9-])(placements?)(?![A-Za-z0-9-])", re.IGNORECASE)
+_PLACEMENT_BARE_PRECEDERS = frozenset(
+    """
+    a an the this that these those such each every any all some no other another its their our same one next
+    """.split()
+)
+
+
+def scan_avoid_bare_placement(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare **placement** / **placements**: every use must say what is placed or which kind of placement it is."""
+    if rel_path in _BARE_PLACEMENT_EXEMPT:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        for match in _PLACEMENT_WORD.finditer(check_line):
+            if re.match(r"\s+of\b", check_line[match.end() :], re.IGNORECASE):
+                continue
+            word = _pathway_preceding_word(check_line, match.start())
+            if word in _PLACEMENT_BARE_PRECEDERS or word == "^":
+                findings.append(
+                    Finding(file=rel_path, line=idx, rule="avoid-bare-placement", text=raw.strip()),
+                )
+                break
+    return findings
+
+
+# Bare **pass** (custodian decision, 2026-10-31): the noun always says which pass it is. "Pass" is also a verb ("it passes the tests") and
+# a result ("a pass"), so "the pass", "a pass", or "each pass" alone does not say that one run of a certification or review is meant.
+# Say **certification pass** (also review pass, recertification pass; **component pass** for one component's part of a certification pass), or name the certification; for the result say **passing result**.
+# Only the noun after a determiner is matched, so the verb (passes the tests, must pass, that pass), qualified forms (certification pass,
+# first pass, full pass), "pass of ..." (which names what is passed), and the pairing "pass/fail" or "pass or fail" stay. "That pass" /
+# "that passes" are not matched because "that" can be a relative pronoun before the verb, and the plural "passes" is matched only after
+# "the", "these", "those", or "other". Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).
+_BARE_PASS_EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
+_PASS_WORD = re.compile(r"(?<![A-Za-z0-9-])(passe?s?)(?![A-Za-z0-9-])", re.IGNORECASE)
+_PASS_BARE_PRECEDERS = frozenset(
+    """
+    a an the this these those each every any another its their our same one next other
+    """.split()
+)
+_PASS_PLURAL_PRECEDERS = frozenset({"the", "these", "those", "other"})
+_PASS_PAIR_FOLLOWERS = re.compile(r"\s*(?:/|of\b|or\s+fail\b)", re.IGNORECASE)
+
+
+def _bare_pass_spans(check_line: str) -> list[tuple[int, int]]:
+    spans: list[tuple[int, int]] = []
+    for match in _PASS_WORD.finditer(check_line):
+        form = match.group(1).lower()
+        if form not in {"pass", "passes"}:
+            continue
+        if _PASS_PAIR_FOLLOWERS.match(check_line[match.end() :]):
+            continue
+        word = _pathway_preceding_word(check_line, match.start())
+        allowed = _PASS_BARE_PRECEDERS if form == "pass" else _PASS_PLURAL_PRECEDERS
+        if word in allowed:
+            spans.append((match.start(1), match.end(1)))
+    return spans
+
+
+def scan_avoid_bare_pass(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare noun **pass** / **passes** after a determiner: every use must say which pass (certification pass, review pass, ...)."""
+    if rel_path in _BARE_PASS_EXEMPT:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        if _bare_pass_spans(check_line):
+            findings.append(Finding(file=rel_path, line=idx, rule="avoid-bare-pass", text=raw.strip()))
+    return findings
+
+
+# Certify a question (custodian decision, 2026-10-31): "certify" and "certified" belong to the certification process and its outcomes, so
+# they are not also the name of the forum move that sends a question to another forum while the matter stays put. That move is a
+# **question for ruling**: the lead forum **sends the question for ruling** and waits for the answer. The three moves stay distinct:
+# **refer** (hand the question to the family that owns it), **send for ruling** (ask another forum and wait), and **stay** (pause);
+# **transfer** moves the whole matter. Rejected in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01): "certify a question",
+# "certified question(s)" (also "certified constitutional question", "uncertified questions"), "certification question(s)", a question
+# that "the lead forum certifies", the lists "refer, certify, or stay" / "referral, certification, and stay" / "referral, transfer, or
+# certification", and the heading "Escalation and certification". Granting a certification (provisional, full, conditional) is untouched.
+_CERTIFY_QUESTION_EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
+_CERTIFY_QUESTION_PATTERNS = [
+    re.compile(r"\b(?:un)?certified\s+(?:[a-z-]+\s+){0,2}questions?\b", re.IGNORECASE),
+    re.compile(r"\buncertified\s+questions?\b", re.IGNORECASE),
+    re.compile(r"\bcertif(?:y|ies|ying)\s+(?:[a-z-]+\s+){0,3}questions?\b", re.IGNORECASE),
+    re.compile(r"\bquestions?\s+(?:[a-z-]+\s+){0,6}certif(?:y|ies|ied|ying)\b", re.IGNORECASE),
+    re.compile(r"\bcertification\s+questions?\b", re.IGNORECASE),
+    re.compile(r"\brefer(?:s|red|ring)?,?\s+(?:transfer,?\s+)?(?:or\s+|and\s+)?certif(?:y|ies|ied|ying)\b", re.IGNORECASE),
+    re.compile(r"\breferrals?,?\s+(?:transfers?,?\s+)?(?:or\s+|and\s+)?certification\b(?!\s+challenge)", re.IGNORECASE),
+    re.compile(r"\bescalation\s+and\s+certification\b", re.IGNORECASE),
+    re.compile(r"\bcertif(?:y|ies)\s+or\s+escalate\b", re.IGNORECASE),
+    re.compile(
+        r"\bcertif(?:y|ies|ied|ying)\s+(?:[a-z-]+\s+){0,2}to\s+(?:Constitutional|other|another|the\s+proper|them|a\s+forum)\b",
+        re.IGNORECASE,
+    ),
+    re.compile(r"\bcertification\s+(?:and|or)\s+(?:stay|escalat)", re.IGNORECASE),
+    re.compile(r"\b(?:appeal|remand|vacate|challenge),\s+(?:or\s+)?certif(?:y|ication)\b", re.IGNORECASE),
+    re.compile(r"\bcertif(?:y|ication),\s+(?:or\s+)?(?:appeal|remand|stay)\b", re.IGNORECASE),
+]
+
+
+def scan_avoid_certify_question(rel_path: str, text: str) -> list[Finding]:
+    """Reject "certify a question" and its family: the move is **send for ruling** / **question for ruling**."""
+    if rel_path in _CERTIFY_QUESTION_EXEMPT:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        check_line = re.sub(r"[*_]", "", check_line)
+        if any(pat.search(check_line) for pat in _CERTIFY_QUESTION_PATTERNS):
+            findings.append(Finding(file=rel_path, line=idx, rule="avoid-certify-question", text=raw.strip()))
     return findings
 
 
@@ -1790,6 +1983,9 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-bare-check`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing check, authenticity check, staff safeguards check), or name what is checked. **Allowed:** verb uses (**the Chartered Party checks and records**, **check whether**, **check for**), qualified compounds (**formation check**, **standing check**, **authenticity check**, **staff safeguards check**), the term of art **independent check**, and **check window**.",
         "- **`avoid-bare-recheck`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **re-check** / **re-checks** / **recheck** / **rechecks** unless it follows **formation** → say **formation re-check**, or in other contexts **recertification**, **certification interval**, or the thing reassessed. **Allowed:** the verb forms (**re-checked**, **re-checking**) and **formation re-check**.",
         "- **`avoid-bare-level`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, ordinary degree senses (**at the level of**, **a level that**, **the level at which**), and any qualified compound. \"Tier\" names only the forum urgency tiers.",
+        "- **`avoid-certify-question`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject \"certify a question\" and its family (**certified question(s)**, **uncertified questions**, **certification questions**, a question the lead forum **certifies**, the lists **refer, certify, or stay** and **referral, certification, and stay**, **certify or escalate**, and the heading **Escalation and certification**) → say **question for ruling** and **send for ruling** (Chapter Fourteen §5), with **refer**, **transfer**, and **stay** as the other moves. **Allowed:** every certification outcome and process (provisional, full, conditional, deferred, system, institutional, recertification) and **certification challenge**.",
+        "- **`avoid-bare-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **pass** after a determiner (**the pass**, **a pass**, **each pass**, **the passes**) → say **certification pass** (a whole run of a certification, validation, or recertification), **component pass** (one component's part of it; Chapter Nine Part B §6), or **review pass**; for a result say **passing result**. **Allowed:** the verb (**passes the tests**, **must pass**), **pass of …**, **pass/fail** and **pass or fail**, and any qualified compound (**first pass**, **full pass**).",
+        "- **`avoid-bare-placement`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **placement** / **placements** after a determiner or generic word (**the placement**, **a placement**, **those placements**) or at the start of a sentence, bullet, or cell → say what is placed or which kind: **seat placement**, **role placement**, **Published Placement** (Chapter Eight §5), **Corpus placement**, **display placement**, **paid placement**, or name the thing (**placement of the record seat**). **Allowed:** **placement of …**, any qualified compound, and the verb (**places**, **placed**, **placing**).",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`load-bearing-forum-family-casing`:** reject lowercase **forum** / **forums** after a forum family name (**Sentient**, **Technical**, **Institutional**, **Environment**, **Integrity**, **Constitutional**) outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Sentient Forums**, **Technical Forums**, and so on when the family is meant. Generic uses (forum family, lead forum) stay lowercase.",
@@ -1867,6 +2063,9 @@ def main() -> int:
         findings.extend(scan_avoid_bare_check(rel_path, text))
         findings.extend(scan_avoid_bare_recheck(rel_path, text))
         findings.extend(scan_avoid_bare_level(rel_path, text))
+        findings.extend(scan_avoid_bare_placement(rel_path, text))
+        findings.extend(scan_avoid_bare_pass(rel_path, text))
+        findings.extend(scan_avoid_certify_question(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
         findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))
         findings.extend(scan_avoid_definition_map_label(rel_path, text))

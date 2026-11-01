@@ -187,7 +187,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 
 1. Steps 5 to 8 above are live: adoption document recorded, certification steward function named, forum families mapped and staffed.
 2. At least one certification cycle has used component findings under CS-9.305 and CS-9.310 §7.10, with decoupling verified on the record at least once.
-3. Chapter Five defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this name, Standard Process Recognition, is distinct from "system alignment certification" and the forum-to-forum sense in [Chapter Fourteen §5](../../core_14.000_forum.md#5-escalation-and-certification).
+3. Chapter Five defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this name, Standard Process Recognition, is distinct from "system alignment certification" and the forum-to-forum sense in [Chapter Fourteen §5](../../core_14.000_forum.md#5-escalation-and-questions-for-ruling).
 4. The four seats of [Chapter Eight](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) are filled, so the owner of a standard is never its recognizer or the hearer of challenges to it.
 
 **Outline of the mechanism (to be settled).**

@@ -1061,7 +1061,7 @@ show a checkable map from each definition's parts — O, M, A, and C — to what
 
 #### 3. Observability of Traceability Requirement
 
-section 2 requires a trace map — this section requires the system to expose enough of itself that authorized or affected parties can check the map in practice, not just in theory. Opaque architecture, outside dependencies, and black-box components do not get a pass.
+section 2 requires a trace map — this section requires the system to expose enough of itself that authorized or affected parties can check the map in practice, not just in theory. Opaque architecture, outside dependencies, and black-box components are not excused.
 
 [Source](../../core_04.000_burden_traceability_verification.md#3-observability-of-traceability-requirement)
 
@@ -1669,7 +1669,7 @@ Integrity Forums handle disputes mainly about honest office, fair process, discl
 
 ###### Forum Family, Constitutional
 
-Constitutional Forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.
+Constitutional Forums decide constitutional meaning and validity, constitutional questions for ruling, supremacy disputes, and structural remedies that change governance for classes of actors or systems.
 
 [Source](../../core_05.035_band_accountability.md#forum-family-constitutional)
 
@@ -3401,11 +3401,11 @@ the System Charter or Institutional Charter is where the seats get names. It car
 
 [Source](../../core_07.000_charters.md#41-what-the-seats-are-and-why-they-exist)
 
-##### 4.2 What makes a placement valid
+##### 4.2 What makes a seat placement valid
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07.000_charters.md#42-what-makes-a-placement-valid)
+[Source](../../core_07.000_charters.md#42-what-makes-a-seat-placement-valid)
 
 ##### 4.3 What a System Charter or Institutional Charter owes the map
 
@@ -4397,7 +4397,7 @@ no outcome lasts forever. While a system operates, named owners monitor actual o
 
 ##### 9.1 Recertification schedule and the new record
 
-a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each pass opens a new record linked to the last one.
+a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each certification pass opens a new record linked to the last one.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#91-recertification-schedule-and-the-new-record)
 
@@ -5385,11 +5385,11 @@ adopters keep six genuinely different forum tracks — sentient, technical, inst
 
 [Source](../../core_14.000_forum.md#47-provisional-implementation-operational-law)
 
-#### 5. Escalation and certification
+#### 5. Escalation and questions for ruling
 
-when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how certified questions reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and certification finish. They also set the narrow hold a forum may place on one sentient's authority while the facts are checked.
+when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how questions for ruling reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and rulings finish. They also set the narrow hold a forum may place on one sentient's authority while the facts are checked.
 
-[Source](../../core_14.000_forum.md#5-escalation-and-certification)
+[Source](../../core_14.000_forum.md#5-escalation-and-questions-for-ruling)
 
 ##### Family-to-family escalation
 
@@ -5403,11 +5403,11 @@ when the case outgrows the first desk, these rules say how to escalate — for e
 
 [Source](../../core_14.000_forum.md#existential-risk-and-uncertainty-on-the-record)
 
-##### Certification to **Constitutional** forums
+##### Sending questions to **Constitutional** forums for ruling
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.000_forum.md#certification-to-constitutional-forums)
+[Source](../../core_14.000_forum.md#sending-questions-to-constitutional-forums-for-ruling)
 
 ##### Technical support and preserved **Integrity** escalation
 

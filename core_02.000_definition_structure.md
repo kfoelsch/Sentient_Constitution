@@ -228,7 +228,7 @@ Definitions must be written so that:
 #### 2.4 Interpretation Rule Under Ambiguity
 When a definition can be read in more than one reasonable way, use the reading that keeps its full meaning. That reading governs how the definition is applied. The reading must also keep assessment rigorous, and it must keep the real-world requirements intact.
 
-A definition must not be used to judge or decide compliance if applying it forces a contradiction within the definition, a gap between the scope it states and what actually has to be covered, or a pass on one part while another required part is sidestepped.
+A definition must not be used to judge or decide compliance if applying it forces a contradiction within the definition, a gap between the scope it states and what actually has to be covered, or a passing result on one part while another required part is sidestepped.
 
 A broken definition is non-compliant on its own. That holds even when the system looks like it is behaving fine and even when nothing has gone wrong yet.
 

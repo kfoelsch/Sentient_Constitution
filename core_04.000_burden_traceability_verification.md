@@ -97,7 +97,7 @@ Failure to invoke or correctly apply any materially required **Chapter Five** de
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_05.050_band_oversight.md#foreseeability) · [O](core_05.050_band_oversight.md#foreseeability) · [M](core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](core_05.050_band_oversight.md#foreseeability-diligence-c)
 
-*In plain terms: section 2 requires a trace map — this section requires the system to expose enough of itself that authorized or affected parties can check the map in practice, not just in theory. Opaque architecture, outside dependencies, and black-box components do not get a pass.*
+*In plain terms: section 2 requires a trace map — this section requires the system to expose enough of itself that authorized or affected parties can check the map in practice, not just in theory. Opaque architecture, outside dependencies, and black-box components are not excused.*
 
 Section 2 requires a trace map; this section requires the system to expose enough of itself for that map to be checked in practice.
 

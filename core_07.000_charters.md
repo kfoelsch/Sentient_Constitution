@@ -456,7 +456,7 @@ Some parts of a System Charter or Institutional Charter scale with class and som
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
 - [§4.1 What the seats are, and why they exist](#41-what-the-seats-are-and-why-they-exist) reminds the reader of the four seats and why no party may fill the pairings Chapter Eight prohibits on the same act.
-- [§4.2 What makes a placement valid](#42-what-makes-a-placement-valid) says that Chapter Eight sets the tests (independence, vacancy and substitution, merged hosting), and the map only records who sits where.
+- [§4.2 What makes a seat placement valid](#42-what-makes-a-seat-placement-valid) says that Chapter Eight sets the tests (independence, vacancy and substitution, merged hosting), and the map only records who sits where.
 - [§4.3 What a System Charter or Institutional Charter owes the map](#43-what-a-system-charter-or-institutional-charter-owes-the-map) says that the System Charter or Institutional Charter must contain the map or point to it, and that a missing map, a dead pointer, or an out-of-date map is a defect in that System Charter or Institutional Charter.
 - [§4.4 Which System Charter or Institutional Charter holds which map](#44-which-system-charter-or-institutional-charter-holds-which-map) covers several Systems under one Institutional Charter, and a shared map.
 - [§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders) says that changing who may hold a seat is an amendment, and changing who holds it now is a new dated version of the map that takes effect only after notice and a chance to contest.
@@ -507,8 +507,8 @@ Every [Materially Binding Act](core_05.035_band_accountability.md#materially-bin
 
 The seats exist so that no party can ask for an outcome, check its own request, control the record of that checking, and also judge the challenge to it. A seat is a job on one act, not a job title, so the same sentient, office, or system may hold different seats for different acts, but never a pairing Chapter Eight prohibits on the same act. The map is where each seat gets a named holder.
 
-<a id="42-what-makes-a-placement-valid"></a>
-#### 4.2 What makes a placement valid
+<a id="42-what-makes-a-seat-placement-valid"></a>
+#### 4.2 What makes a seat placement valid
 
 Chapter Eight sets the tests, and the map only records who sits where:
 
@@ -610,7 +610,7 @@ Until it is resolved, none of the Chartered Party's own offices can issue a vali
 If something nobody could have foreseen leaves one of those seats without a qualified holder, the Chartered Party gets the usual response window and resolution window ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)).
 
 - **Emergency substitution:** It is allowed only for a seat that is actually empty, and it is temporary.
-- **How a substitute takes the seat:** The Chartered Party may name a substitute, but the substitute takes the seat only after the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)) or a forum confirms that it passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10 and the independence tests in [§4.2 What makes a placement valid](#42-what-makes-a-placement-valid), and the Chartered Party carries the burden of showing that.
+- **How a substitute takes the seat:** The Chartered Party may name a substitute, but the substitute takes the seat only after the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)) or a forum confirms that it passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10 and the independence tests in [§4.2 What makes a seat placement valid](#42-what-makes-a-seat-placement-valid), and the Chartered Party carries the burden of showing that.
 - **When the substitution lapses:** An emergency substitute is a stopgap. It ends when its check window ends, unless it has by then become a regular holder change under [§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders).
   - **Who sets the window:** The System Charter or Institutional Charter sets the length of that window, but it can't be longer than the maximum for your Tier.
   - **The maximums:** 7 days for Tier A, 14 for Tier B, 30 for Tier C, and 60 for Tier L (the resolution windows in the [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing) table).
@@ -626,7 +626,7 @@ The same clock applies to certification seats. If the map does not name who star
   - **Keep operating and keep certifying:** The **CI-8.205 §2** (*Functional separation lanes*) lane map places the seat in the meantime, so no certification pass stops.
   - **Fix the defect:** It places the seat by a dated amendment of the map. It has the usual response window and resolution window (**CI-12.210 §3** (*Notice, response, and resolution*), [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)), counted from the logged notice of the gap.
 - **What the institution cannot do:**
-  - **Use the gap to stop a certification:** An unplaced certification seat is never a reason to pause, delay, or block a pass.
+  - **Use the gap to stop a certification:** An unplaced certification seat is never a reason to pause, delay, or block a certification pass.
   - **Leave the gap open past the resolution window:** If the seat is still unplaced when that window ends, the System Charter or Institutional Charter is invalid on the same terms as for a gap in the standing-record entries ([§4.7.1 When a gap exists and how it is logged](#471-when-a-gap-exists-and-how-it-is-logged)).
 - **The verify-or-authorize seat:** The map does not place this seat ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)), so it is never a gap of this kind.
 

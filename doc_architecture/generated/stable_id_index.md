@@ -62,7 +62,7 @@ Full router: [corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md](.
 | CJS-R01 | Delegated binding bodies and hybrid composition (non-forum institutions) | [**CI-9.210 §3**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) |
 | CJS-R02 | Forum chambers, divisions, and designated panels (Chapter Fourteen families) | [**CF-14.405 §5**–**CF-14.405 §8**](../../corpus_forum/cf_14.405_forum_formation_chamber_structure.md) |
 | CJS-R03 | Lawful panel formation, disclosure, recusal, substitution, inability-to-form | [**CF-14.410**](../../corpus_forum/cf_14.410_panel_formation_disclosure_recusal_bench_constitution.md) |
-| CJS-R04 | Routing, intake, transfer, certification, representative treatment | [**CF-14.415**](../../corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md) |
+| CJS-R04 | Routing, intake, transfer, questions for ruling, representative treatment | [**CF-14.415**](../../corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md) |
 | CJS-R05 | Appeal, secondary review, exhaustion | [**CF-14.420**](../../corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md) |
 | CJS-R06 | Forum integrity operations, anti-capture, anti-self-judging support | [**CF-14.425**](../../corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md) |
 | CJS-R07 | Forum forensic and analytical support | [**CF-14.430**](../../corpus_forum/cf_14.430_forum_forensic_analytical_support.md) |

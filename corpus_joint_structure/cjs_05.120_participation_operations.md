@@ -663,9 +663,9 @@ Material-visibility and risk legibility controls
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in material-visibility and risk legibility.
 <a id="material-visibility-and-risk-legibility-controls-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** that placement, timing, ranking, or suppression does not hide what sentients need for safety, consent, participation, or oversight
+  - **Primary measure:** that display placement, timing, ranking, or suppression does not hide what sentients need for safety, consent, participation, or oversight
 
-    **Primary assessment:** Reviewers must check that placement, timing, ranking, or suppression does not hide what sentients need for safety, consent, participation, or oversight.
+    **Primary assessment:** Reviewers must check that display placement, timing, ranking, or suppression does not hide what sentients need for safety, consent, participation, or oversight.
 <a id="material-visibility-and-risk-legibility-controls-c"></a>
 - **What must hold**
   - **Primary failure:** A system if it regularly makes something look less important, less likely, less harmful, more common, or more settled than it really is.

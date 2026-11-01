@@ -184,7 +184,7 @@ This Article sets out the floor of inherent dignity and equal standing:
   - **Chapter Fourteen** forums and jurisdiction — default lead
   - [Forum Family, Technical](core_05.035_band_accountability.md#forum-family-technical) /
   - [Technical Forum Domains](core_14.000_forum.md#42-technical-forum-domains) under the
-  - [Chapter Fourteen §5 Sentience-status adjudication hook](core_14.000_forum.md#5-escalation-and-certification) (14.000 §5).
+  - [Chapter Fourteen §5 Sentience-status adjudication hook](core_14.000_forum.md#5-escalation-and-questions-for-ruling) (14.000 §5).
 - Read with: Chapter Five *Sentience Status Adjudication*, *Sentience Non-Exclusion*, *Sentience Evaluation*, *Reversibility*, *Contestability*.
 
 </details>
