@@ -13,7 +13,7 @@
 > | 4 | Evaluations Where Implicated | pointer to Chapter Nine §4 |
 > | 5 | Rights-Floor and Domain Evaluations | pointer to Chapter Nine §5 |
 > | 6 | Forum Process | four seats; forum roles and sequence; forums, certifiers, and record offices as institutions |
-> | 7 | Certification Outcomes | go-live for an Institution and for its Systems, conditions, and the other effects of an outcome; pointer for defects; remediation readiness; denial and revocation |
+> | 7 | Certification Outcomes | go-live for an Institution and for its Systems, certification conditions, and the other effects of an outcome; pointer for defects; remediation readiness; denial and revocation |
 > | 8 | System Certification Record | the Institutional Certification Record |
 > | 9 | Recertification and Reopening | monitoring; reopening triggers; provisional and full certification; non-evasion; the cascade from System certifications |
 > | 10 | Challenging a Certification | the challenge path |
@@ -108,7 +108,7 @@ Composition by link has two sides, the Institution's first.
 
 On the Institution's side:
 
-- **An Institutional Certification Record cites a System's and does not redo it:** It cites the System Certification Record by link and names its version. This Chapter never re-runs a System evaluation, never re-decides a System's class, and never changes a System's outcome, status, or conditions.
+- **An Institutional Certification Record cites a System's and does not redo it:** It cites the System Certification Record by link and names its version. This Chapter never re-runs a System evaluation, never re-decides a System's class, and never changes a System's outcome, status, or certification conditions.
 - **The Institution's certification cannot lift a System's:** A System that is Not Certified stays Not Certified whatever the Institution's status. A System that holds certification gains no protection from an Institution's finding.
 - **Institutional facts are found once:** Where [Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline) asks about the operator's governance and incentives, a current Institutional Certification Record for the operator may supply those facts by link. The System's forums still decide whether those facts are enough for that System. They may not find the same institutional fact differently without saying why on the System Certification Record.
 
@@ -274,7 +274,7 @@ Every certification pass evaluates these seven items, which are the institutiona
    - The independent route can be used in fact.
    - A seat left unplaced, a dead office, or a record custodian inside the Institution's own line is a finding.
 6. **Currency of each cited System certification:**
-   - For each System the Institution runs, the evaluation checks that a System Certification Record is in force or inside its Adoption Transition window, and that the Institution has done what that record's conditions require of the Institution.
+   - For each System the Institution runs, the evaluation checks that a System Certification Record is in force or inside its Adoption Transition window, and that the Institution has done what that record's certification conditions require of the Institution.
    - An expired, withdrawn, failed, or missing certification with no recorded reason is a finding that [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications) then carries to the Institution.
 7. **Office-holder standing and authenticity:**
    - The formation check statement published under [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) is tested against observed operation and is not taken on attestation.
@@ -488,7 +488,7 @@ A forum host, a certifying body, a record office, a verifying authority, or any 
 - **No self-judging:** Its own pass is led and reviewed by a forum outside it and outside its [Material Control Line](core_05.035_band_accountability.md#material-control-line). Where the question is the forum family's own bias, capture, conflict, or process abuse, the backup routing of the [Chapter Fourteen §3 Transfer, consolidation, and coordination](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) cross-forum anti-self-judging rule and **CF-14.435 §6** (*no self-investigation*) applies.
 - **No circle:** A body does not hold a seat in the certification of a body that holds a seat in its own, directly or through a chain of bodies that returns to the first within one recertification cycle. A certification pass that would close a circle routes to a body outside it.
 - **Seats stay apart:** Taking part in another body's certification, including by holding a seat in it, gives a body no advantage of its own.
-  - **No hold over the other body:** it gives no power over how that body responds to its certification, such as its answer to findings, conditions, or challenges.
+  - **No hold over the other body:** it gives no power over how that body responds to its certification, such as its answer to findings, certification conditions, or challenges.
   - **No preference in its own certification:** it gives no favorable treatment in the body's own certification.
 - **No seat while Not Certified:** While an Institution is Not Certified ([§7 Certification Outcomes](#7-certification-outcomes)), it may not hold the verify-or-authorize, record, or contest seat in another body's certification, and it may not host a forum or certifying body. Any seat placements it holds are moved elsewhere in a new, dated version of the Role Map.
 
@@ -524,48 +524,53 @@ This section is **Phase IV, Decide** for an Institution: the forums reach their 
 An Institution can receive the same verdicts a System can. [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) defines them:
 
 - provisional certification and full certification, which are the two **statuses** (a provisional certification is reviewed again sooner);
-- conditional certification (certification with conditions attached);
+- conditional certification (certification that carries certification conditions);
 - deferred certification (the decision is put off);
 - non-certification, which is a **denial** (certification is refused);
 - withdrawal, which is a **revocation** (a certification already held is taken back);
 - expiration (the certification runs out);
-- fulfillment of conditions (the conditions have been met); and
-- release from conditions (the conditions no longer apply, so they are lifted without having been met).
+- fulfillment of certification conditions (the certification conditions have been met); and
+- release from certification conditions (the certification conditions no longer apply, so they are lifted without having been met).
 
-An Institution that holds neither provisional nor full certification is **Not Certified**. The rules for statuses and conditions are those of Part B §7 Certification Outcomes and [§9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification). Under them, a condition ends, by fulfillment or by release, only after independent verification.
+An Institution that holds neither provisional nor full certification is **Not Certified**. The rules for statuses and certification conditions are those of Part B §7 Certification Outcomes and [§9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification). Under them, a certification condition ends, by fulfillment or by release, only after independent verification.
 
 <a id="71-go-live-for-an-institution"></a>
 
 #### 7.1 Go-live for an Institution
 
-*In plain terms: a System cannot go live until it is certified. An Institution can form and run without a certificate, but it waits for its recertification before it exercises new material authority. A verdict on an Institution does three narrower things: it sets the Institution's public status, it attaches conditions to the specific problem found, and it counts as evidence when the Institution's Systems are reviewed.*
+*In plain terms: a System cannot go live until it is certified. An Institution can form and run without a certificate, but it waits for its recertification before it exercises new material authority. A verdict on an Institution does three narrower things: it sets the Institution's public status, it attaches certification conditions to the specific problem found, and it counts as evidence when the Institution's Systems are reviewed.*
 
-[Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) says a System does not go live until it is certified, the outcome has been published with the challenge path open, the notice interval has run, and every required condition has been independently verified.
+[Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) says a System does not go live until it is certified, the outcome has been published with the challenge path open, the notice interval has run, and every required certification condition has been independently verified.
 
-An Institution has no such gate on forming or running ([§1.2 No permission and no gate on forming or running](#12-no-permission-and-no-gate-on-forming-or-running)). It forms, publishes its Institutional Charter, begins to exercise authority, and keeps operating without holding a certification, and no outcome grants or withholds that right. New material authority is the one exception. An Institution that decides to take on new material authority gives notice and is recertified, and it waits for the result before it exercises that authority, in every class and whatever the urgency ([§9.2.2 Recertification for new material authority](#922-recertification-for-new-material-authority)). Everything else it does continues, and any conditions required before the new authority is exercised are verified first ([§7.1.1 Conditions](#711-conditions)).
+An Institution has no such gate on forming or running ([§1.2 No permission and no gate on forming or running](#12-no-permission-and-no-gate-on-forming-or-running)). It forms, publishes its Institutional Charter, begins to exercise authority, and keeps operating without holding a certification, and no outcome grants or withholds that right. New material authority is the one exception. An Institution that decides to take on new material authority gives notice and is recertified, and it waits for the result before it exercises that authority, in every class and whatever the urgency ([§9.2.2 Recertification for new material authority](#922-recertification-for-new-material-authority)). Everything else it does continues, and any certification conditions required before the new authority is exercised are verified first ([§7.1.1 Certification conditions](#711-certification-conditions)).
 
-**Go-live still gates the Systems.** A new System, or a material expansion of one, goes live only through its own certification, whatever the Institution's status. The Institution's status reaches that decision only as evidence:
+**Go-live still gates the Systems.** A new System, or a material expansion of one, goes live only through its own certification, whatever the Institution's status. The Institution's status can inform that decision, but it can never make it:
 
-- **Evidence, not a verdict on the System:** The Institution's status is evidence when each System it runs is certified, through [Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline). It does not by itself certify or block any System.
-- **More weight after a denial or revocation:** For a new System's go-live or a material expansion, the proponent must then show that the institutional facts it relies on are enough despite the finding ([§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution), effect item 3).
+- **Evidence, not a verdict on the System:** When one of the Institution's Systems is up for certification, the Institution's status is one piece of evidence about how that System is run, what drives it, and whether sentients can challenge it ([Part A §3.1 Governance, Incentive, and Contestability Discipline](core_09.000_system_alignment_certification_evaluation.md#31-governance-incentive-and-contestability-discipline)). On its own it never certifies a System and never blocks one.
+- **A higher bar after a denial or revocation:** If the Institution has been denied or has lost its certification, anyone asking to launch a new System or make a major expansion that depends on it has more to prove. They have to show that what they are relying on about the Institution is still solid enough, even with that finding on record ([§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution), effect item 3).
 
-<a id="711-conditions"></a>
+<a id="711-certification-conditions"></a>
 
-##### 7.1.1 Conditions
+##### 7.1.1 Certification conditions
 
-A conditional certification of an Institution is written as [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) (*Conditions and bounded authorization*) requires, with these limits:
+A conditional certification of an Institution is written as [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) (*Certification conditions and bounded authorization*) requires, with these limits:
 
-- **Tied to the problem found:** A condition or limit on reliance attaches to the authority, practice, or structure the finding is about.
-- **Fully specified:** It states who owns it, the deadline or the continuing cadence, the evidence required, who independently verifies it, and what happens if it is missed.
+- **Tied to the problem found:** A certification condition or limit on reliance attaches to the authority, practice, or structure the finding is about.
+- **Fully specified:** Every certification condition spells out five things:
+  - Who is responsible for it.
+  - When it is due, or how often it repeats if it is ongoing.
+  - What proof will show it was met.
+  - Who independently checks that proof.
+  - What happens if it is missed.
 - **No reaching past the problem:** It cannot require the Institution to stop forming Systems, to ask leave to keep operating, or to change anything the findings do not touch.
-- **Conditions before new authority:** The conditions that [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) calls "conditions before go-live" apply to an Institution only for new material authority. They must be independently verified before the Institution exercises that authority. They never make its existing operation wait.
-- **How it ends:** A condition ends by fulfillment or by release, as Part B §7.1 Go-Live Gate (*How a condition ends*) sets out, and only after independent verification.
+- **Certification conditions before new authority:** The certification conditions that [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) requires before go-live apply to an Institution only for new material authority. They must be independently verified before the Institution exercises that authority. They never make its existing operation wait.
+- **How it ends:** A certification condition ends by fulfillment or by release, as Part B §7.1 Go-Live Gate (*How a certification condition ends*) sets out, and only after independent verification.
 
 <a id="712-other-effects-of-a-verdict"></a>
 
 ##### 7.1.2 Other effects of a verdict
 
-Apart from the Systems and the conditions, a verdict has only these effects:
+Apart from the Systems and the certification conditions, a verdict has only these effects:
 
 - **Status on the record:** The Institution's status is published, and anyone affected can challenge it. An Institution that is Not Certified may not describe itself as certified.
 - **A warning to those who rely on the Institution:** Where a finding means their reliance is not safe, they are told.
@@ -586,11 +591,11 @@ Sanctions, dissolution, and institutional-failure consequences stay with **CI-12
 
 - the choices open to the forums;
 - the statement of what is affected, the interim protection and limits on reliance, and the corrective work required; and
-- the rule that the correction is independently verified before it supports fulfillment of conditions.
+- the rule that the correction is independently verified before it supports fulfillment of certification conditions.
 
 Two points are specific to an Institution:
 
-- **No reaching past the defect:** A condition cannot reach beyond the defect ([§7.1 Go-live for an Institution](#71-go-live-for-an-institution)).
+- **No reaching past the defect:** A certification condition cannot reach beyond the defect ([§7.1 Go-live for an Institution](#71-go-live-for-an-institution)).
 - **No ban on operating:** The last paragraph of Part B §7.2 Certification Defects and Correction says a System that is Not Certified cannot begin new operation. That is a rule for Systems. It does not apply to an Institution ([§1.2 No permission and no gate on forming or running](#12-no-permission-and-no-gate-on-forming-or-running)).
 
 <a id="73-remediation-readiness-for-an-institution"></a>
@@ -704,7 +709,7 @@ The record must identify, at minimum:
 - **Cause finding** for any misalignment, as [Part C §9.3.3 Cause of misalignment](core_09.010_system_alignment_certification_record_recertification.md#933-cause-of-misalignment) states, including whether the cause lies in the Institution or in a System;
 - **Remediation readiness:** where misalignment was found, the findings and evidence required by [Part C §8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents), stated for the Institution as [§7.4 Denial and revocation for an Institution](#74-denial-and-revocation-for-an-institution) provides;
 - **Outcome, status, and reliance limits;** and
-- **Operating plan:** owners, clocks, monitoring and indicators, conditions, and verification criteria.
+- **Operating plan:** owners, clocks, monitoring and indicators, certification conditions, and verification criteria.
 
 A System Certification Record, or an Institution's own report or attestation, offered in place of this record does not satisfy this section.
 
@@ -766,7 +771,7 @@ An Institutional Certification Record is recertified on the cadence set for the 
 - **Reward and incentive change:** a material change to the Institution's pay, promotion, target, or reward structure;
 - **Role Map or custody defect:** a seat unplaced, an office vacant without substitution, or a custodian brought inside the Institution's control line;
 - **Office-holder events:** a change of holder in a covered office, a change in who controls one, a verified standing lock or an [Interim Hold](core_05.035_band_accountability.md#interim-hold) on a holder, or a finding that the formation check statement was false or incomplete;
-- **Readiness events:** a missed proof step or condition deadline, or false readiness evidence, under [Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct); and
+- **Readiness events:** a missed proof step or certification condition deadline, or false readiness evidence, under [Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct); and
 - **Cited System events:** a cited System Certification Record failed, withdrawn, expired, or reopened, which also triggers [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications).
 
 A material and timely trigger requires timely forum review and does not wait for the next scheduled pass. The tier windows and materiality tiers of [Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows) apply, with the tier presumptively matching the institution class.
@@ -804,7 +809,7 @@ An Institution that decides to take on new material authority must be recertifie
 - **Notice first:** The Institution gives the notice of the Institutional Charter amendment that [Chapter Seven §7.1 Changing the document](core_07.000_charters.md#71-changing-the-document) already requires, and sends it to the lead forum. The notice opens the recertification.
 - **Within the tier windows:** The recertification runs under the tier windows of [Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows), with the tier presumptively matching the institution class. A missed window is handled under [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*), and fees and waits may not become a barrier ([Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden)).
 - **Automated where it can be:** The notice, the comparison of the new authority with the Institutional Charter and current record, the screen for blockers, and the clearance are automated wherever the forum's systems allow. [Chapter One §13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) makes automation the preferred remedy for an avoidable burden, and [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) puts the burden of automation on the system and not on the steward.
-  - **Clears, does not refuse:** An automated screen may clear the authority, or clear it with the conditions the record already supports. It may not state a blocker or refuse to clear on its own. A blocker is stated by a sentient reviewer in the lead forum, who looks at what the screen flagged.
+  - **Clears, does not refuse:** An automated screen may clear the authority, or clear it with the certification conditions the record already supports. It may not state a blocker or refuse to clear on its own. A blocker is stated by a sentient reviewer in the lead forum, who looks at what the screen flagged.
   - **Classes A, B, and C:** A sentient reviewer in the lead forum confirms every clearance before it counts as the official response. This applies to an Institution in one of those classes, and to one that the new authority would bring into one. The intake target still applies to the confirmation. The reviewer sits in the lead forum, which already holds the verify-or-authorize seat and must be independent of the Institution ([§6.1 Four seats in an institutional certification](#61-four-seats-in-an-institutional-certification)).
   - **Classes L and P:** An automated clearance counts as the official response without confirmation.
   - **Exceptional circumstances:** A sentient reviewer takes the matter instead, in any class when the screen flags a possible blocker, when the screen cannot tell whether the authority is covered or material, or when the Institution or an affected sentient asks for review. A request for review is answered by the intake target of the tier that matches the Institution's class, counted from the request. It does not extend the tier window.
@@ -813,9 +818,9 @@ An Institution that decides to take on new material authority must be recertifie
   - **Every class waits:** No class is exempt, and neither emergency nor urgency lifts the wait.
   - **Everything else continues:** What the Institution already does goes on ([§1.2 No permission and no gate on forming or running](#12-no-permission-and-no-gate-on-forming-or-running)).
   - **Protection does not wait:** The forums' urgent protection of affected sentients does not wait for the recertification ([Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence)). That protects sentients and is not a ground for the Institution to exercise the authority early.
-- **Presumed cleared:** The authority is presumed cleared. The lead forum declines to clear it only where it shows, on evidence stated on the record, a blocker listed in [§9.2.3 Blockers to clearing new material authority](#923-blockers-to-clearing-new-material-authority). Where conditions tied to the blocker could contain it, the authority is cleared with those conditions and not refused.
-- **What cleared means:** The recertification ends in provisional or full certification, with or without conditions, and every condition required before the authority is exercised has been independently verified.
-- **If the forum does not respond in time:** The lead forum owes an official response by the **intake target** of the matching tier ([CF-14.445 §3.1 Stage Targets and Outer Bounds](corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md#cf-14445-31-stage-targets-and-outer-bounds)). The response clears the authority, clears it with conditions, or states a blocker with the evidence it rests on. A response that states a blocker gives the Institution its chance to answer, and the forum decides inside the tier window above.
+- **Presumed cleared:** The authority is presumed cleared. The lead forum declines to clear it only where it shows, on evidence stated on the record, a blocker listed in [§9.2.3 Blockers to clearing new material authority](#923-blockers-to-clearing-new-material-authority). Where certification conditions tied to the blocker could contain it, the authority is cleared with those certification conditions and not refused.
+- **What cleared means:** The recertification ends in provisional or full certification, with or without certification conditions, and every certification condition required before the authority is exercised has been independently verified.
+- **If the forum does not respond in time:** The lead forum owes an official response by the **intake target** of the matching tier ([CF-14.445 §3.1 Stage Targets and Outer Bounds](corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md#cf-14445-31-stage-targets-and-outer-bounds)). The response clears the authority, clears it with certification conditions, or states a blocker with the evidence it rests on. A response that states a blocker gives the Institution its chance to answer, and the forum decides inside the tier window above.
   - **Cleared for the time being:** If no official response comes by the intake target, or a stated blocker is not decided inside the tier window, the authority is cleared for the time being, with the interim protection and reliance limits that [Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction) provides.
   - **A forum defect:** The missed target or window is a forum defect, not a fault of the Institution. It is logged, corrected, and reviewed as an overrun under [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Overrun review*).
   - **Handed to another forum:** The recertification request is transferred to another forum in the same family ([Chapter Fourteen §3 Transfer, consolidation, and coordination](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)). That forum carries the recertification on the regular windows for the Institution's class, counted from the transfer.
@@ -828,7 +833,7 @@ An Institution that decides to take on new material authority must be recertifie
 
 The lead forum may decline to clear new material authority only for one of these blockers. Blocker 2 is mostly a matter of plain fact, read from the Charter Role Map and the authority chain, and an automated screen can run it ([§9.2.2 Recertification for new material authority](#922-recertification-for-new-material-authority)). Blockers 1, 3, 4, and 5 call for judgment, so a screen may flag them and only a sentient reviewer may state them. Each must be shown on evidence about the new authority or about the Institution's readiness to hold it, and the forum states it on the record with what would clear it:
 
-1. **Misaligned authority:** The new authority would violate a [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) or a Rights Floor protection, or the evaluations in [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) to [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) find a certification defect in it, and no condition could contain the problem.
+1. **Misaligned authority:** The new authority would violate a [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) or a Rights Floor protection, or the evaluations in [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) to [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) find a certification defect in it, and no certification condition could contain the problem.
 2. **No accountability for it:** No accountable office can be named for the new authority, or no independent route can reach it, as [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) (items 3 and 5) requires.
 3. **Unresolved misalignment and no readiness to correct it:** A current misalignment of the Institution that bears on the new authority is unresolved, and the readiness check in [§7.3 Remediation readiness for an Institution](#73-remediation-readiness-for-an-institution) finds the Institution not willing, or not able, to correct it inside the tier windows.
 4. **Concealment:** The notice or the Institution's showing is false, fabricated, or materially concealed.
@@ -849,7 +854,7 @@ Before the forum decides not to clear, the Institution is told the blocker and t
 
 #### 9.3 Provisional and full certification
 
-A first Institutional Certification Record is provisional. Full certification is earned only at a recertification of an Institution holding provisional certification, on the three conditions of Part C §9.3 Provisional and full certification: the required number of consecutive clean provisional recertifications, no current misalignment, and no monitoring indicator of impending misalignment. Failure and step-down work as that section states.
+A first Institutional Certification Record is provisional. Full certification is earned only at a recertification of an Institution holding provisional certification, on the three requirements of Part C §9.3 Provisional and full certification: the required number of consecutive clean provisional recertifications, no current misalignment, and no monitoring indicator of impending misalignment. Failure and step-down work as that section states.
 
 <a id="94-non-evasion"></a>
 
@@ -877,7 +882,7 @@ When a System Certification Record the Institution cites **fails** (a recertific
 1. **Indicator, always:** The event is an indicator of impending misalignment of the Institution. An Institution holding provisional certification stays provisional and its count of clean recertifications does not advance. An Institution holding full certification steps down to provisional certification. The Institution is not otherwise penalized for the event alone.
 2. **Current misalignment, where the cause is institutional:** If the cause finding for the System ([Part C §9.3.3 Cause of misalignment](core_09.010_system_alignment_certification_record_recertification.md#933-cause-of-misalignment)) traces the misalignment to the Institution's own governance, incentives, resourcing, Institutional Charter, or portfolio, then the Institution has current misalignment, and the certification pass is a failed one with the consequences of Part B §7 Certification Outcomes. The lead forum cites the System's cause finding. It does not make a new one about the System, and it decides only whether the cause lies in the Institution.
 3. **Expiry without a reason:** A cited certification that has expired, with no recorded reason and no Adoption Transition window running, is an overdue check of the Institution under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation) (item 6), and counts as an indicator under rule 1.
-4. **No re-judging the System:** The cascade runs one way. It never changes the System's outcome, status, conditions, or clocks, and a finding that the cause is not institutional leaves the Institution's status as rule 1 sets it.
+4. **No re-judging the System:** The cascade runs one way. It never changes the System's outcome, status, certification conditions, or clocks, and a finding that the cause is not institutional leaves the Institution's status as rule 1 sets it.
 5. **Record:** The record states the cited event, the System's cause finding by link, and the lead forum's finding on where the cause lies.
 
 <a id="10-challenging-a-certification"></a>
@@ -942,7 +947,7 @@ This section is **Phase VI, Operate** for an Institution.
 
 #### 11.1 What may pass to standing
 
-[Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) applies to an Institutional Certification Record, with the Institution as the actor to whom facts are attributed. Only the [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) of a certified Institution may supply input, and only through Chapter Eleven's verified-input gate, and in one of two cases: it holds certification, or the facts arose while it held certification. The record must be bounded, traceable, contestable, and verified under [§6 Forum Process](#6-forum-process). Positive certification, recertification, and condition release may supply verified input for a contribution standing record. Withdrawal, concealed misclassification, failed recertification, fraudulent evidence (including a formation check statement that hides who controls a covered office), material condition violation, and verified operation outside certified scope may supply verified input for a violation standing record where the facts support adverse classification and actor-specific attribution. This bridge does not decide what other verified inputs Chapter Eleven accepts about an Institution.
+[Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) applies to an Institutional Certification Record, with the Institution as the actor to whom facts are attributed. Only the [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) of a certified Institution may supply input, and only through Chapter Eleven's verified-input gate, and in one of two cases: it holds certification, or the facts arose while it held certification. The record must be bounded, traceable, contestable, and verified under [§6 Forum Process](#6-forum-process). Positive certification, recertification, and release from a certification condition may supply verified input for a contribution standing record. Withdrawal, concealed misclassification, failed recertification, fraudulent evidence (including a formation check statement that hides who controls a covered office), material violation of a certification condition, and verified operation outside certified scope may supply verified input for a violation standing record where the facts support adverse classification and actor-specific attribution. This bridge does not decide what other verified inputs Chapter Eleven accepts about an Institution.
 
 ---
 

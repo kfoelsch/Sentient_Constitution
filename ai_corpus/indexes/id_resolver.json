@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-11-01T07:40:50+00:00",
+  "generated_at": "2026-11-01T08:17:07+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -910,6 +910,7 @@
       {"avoid":"certify a question / certified question(s) / refer, certify, or stay (the forum move that sends a question to another forum)","prefer":"question for ruling and send for ruling (Chapter Fourteen section 5); the other moves are refer (hand the question to the family that owns it), transfer (move the whole matter), and stay (pause); certify and certification stay for the certification process and its outcomes (provisional, full, conditional, deferred); enforced by avoid-certify-question"},
       {"avoid":"pass / passes (bare noun: the pass, a pass, each pass)","prefer":"certification pass (a whole run of a certification, validation, or recertification), component pass (one component's part of it), or review pass; passing result for a result; the verb (passes the tests), 'pass of ...', pass/fail, and qualified compounds (first pass, full pass) stay; enforced by avoid-bare-pass"},
       {"avoid":"placement / placements (bare noun: the placement, a placement, those placements)","prefer":"say what is placed or which kind: seat placement, role placement, Published Placement (Chapter Eight §5), Corpus placement, display placement, paid placement, or name the thing (placement of the record seat); 'placement of ...', qualified compounds, and the verb (places, placed) stay; enforced by avoid-bare-placement"},
+      {"avoid":"condition / conditions (bare noun on a line that speaks of certification: the condition, with or without conditions, release from conditions)","prefer":"certification condition(s) for a requirement written into a certification outcome (certification conditions before go-live, continuing certification conditions); other senses say what they are (Safe Conditions, operating conditions, corrective conditions of a standing lock, circumstances, requirements, terms); the verb (conditions the act) and qualified compounds stay; enforced by avoid-bare-condition"},
       {"avoid":"re-check / re-checks / recheck / rechecks (bare noun in Chapter Seven: a re-check, the re-check, what triggers a re-check)","prefer":"formation re-check; the verb forms (re-checked, re-checking) stay; enforced by avoid-bare-recheck"},
       {"avoid":"named-pathway result / named-pathway results","prefer":"state whether a specific role, authority, or access is open, limited, or blocked, and name the verified reason"},
       {"avoid":"stakeholder governance","prefer":"Stakeholder System Participation (voice inside already-authorized systems); Article XII by name when the Rights Floor is the point; Preamble §3.3"},

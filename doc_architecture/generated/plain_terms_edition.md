@@ -1847,7 +1847,7 @@ the **Adoption Transition** is the stretch of time after a community adopts this
 
 ##### Certification Revocation
 
-**certification revocation** is taking certification back from a system that holds it, because its operator has not shown that it is both willing and able to put a problem right, or has been dishonest or has broken a condition. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.
+**certification revocation** is taking certification back from a system that holds it, because its operator has not shown that it is both willing and able to put a problem right, or has been dishonest or has broken a certification condition. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.
 
 [Source](../../core_05.040_band_continuity.md#certification-revocation)
 
@@ -3783,7 +3783,7 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 ##### 1.2 Certification at a glance
 
-classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its conditions. Each review pass uses a new record linked to the last.
+classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its certification conditions. Each review pass uses a new record linked to the last.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance)
 
@@ -4213,7 +4213,7 @@ every certification review ends in a stated outcome, backed by evidence and by t
 
 ##### 7.1 Go-Live Gate
 
-going live is a permission, not a separate stage of work. It is granted when the system is certified, the notice interval has run, and the conditions required before go-live have been independently verified. Conditions say what must be done before operation, what must hold during operation, and what corrective work may follow within a bounded scope.
+going live is a permission, not a separate stage of work. It is granted when the system is certified, the notice interval has run, and the certification conditions required before go-live have been independently verified. Certification conditions say what must be done before operation, what must hold during operation, and what corrective work may follow within a bounded scope.
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#71-go-live-gate)
 
@@ -4231,13 +4231,13 @@ going live is a permission, not a separate stage of work. It is granted when the
 
 ##### 7.2 Certification Defects and Correction
 
-defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or fulfillment of conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.3 Remediation Readiness: Willingness and Capacity to Correct](../../core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct), [§7.4 Denial and Revocation](../../core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation)).
+defects can lead to certification conditions, deferral, refusal, withdrawal, or a fresh review. Correction must be independently verified before it supports authorization or fulfillment of certification conditions. Whether the operator is willing and able to correct decides which of these the forum must choose ([§7.3 Remediation Readiness: Willingness and Capacity to Correct](../../core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct), [§7.4 Denial and Revocation](../../core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation)).
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction)
 
 ##### 7.3 Remediation Readiness: Willingness and Capacity to Correct
 
-when a review finds that something is misaligned, the next question is whether the operator will and can put it right. A promise is not an answer. The forums look at what the operator has actually done since it was told, whether it is changing what caused the problem, and whether it has the authority, skill, money, and time to do the work. If the honest answer is no, the outcome is denial or revocation. It is not a longer list of conditions.
+when a review finds that something is misaligned, the next question is whether the operator will and can put it right. A promise is not an answer. The forums look at what the operator has actually done since it was told, whether it is changing what caused the problem, and whether it has the authority, skill, money, and time to do the work. If the honest answer is no, the outcome is denial or revocation. It is not a longer list of certification conditions.
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct)
 
@@ -4397,7 +4397,7 @@ a System Certification Record only works if sentients can read it and check it. 
 
 #### 9. Recertification and Reopening
 
-no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the conditions on the record. A certified system is recertified on a schedule set by its system class, with an audit at the midpoint of each interval. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last, and a new record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.
+no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the certification conditions on the record. A certified system is recertified on a schedule set by its system class, with an audit at the midpoint of each interval. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last, and a new record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening)
 
@@ -4611,15 +4611,15 @@ a certification review ends with a published verdict on the Institution. The ver
 
 ##### 7.1 Go-live for an Institution
 
-a System cannot go live until it is certified. An Institution can form and run without a certificate, but it waits for its recertification before it exercises new material authority. A verdict on an Institution does three narrower things: it sets the Institution's public status, it attaches conditions to the specific problem found, and it counts as evidence when the Institution's Systems are reviewed.
+a System cannot go live until it is certified. An Institution can form and run without a certificate, but it waits for its recertification before it exercises new material authority. A verdict on an Institution does three narrower things: it sets the Institution's public status, it attaches certification conditions to the specific problem found, and it counts as evidence when the Institution's Systems are reviewed.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#71-go-live-for-an-institution)
 
-###### 7.1.1 Conditions
+###### 7.1.1 Certification conditions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_10.000_institutional_alignment_certification.md#711-conditions)
+[Source](../../core_10.000_institutional_alignment_certification.md#711-certification-conditions)
 
 ###### 7.1.2 Other effects of a verdict
 

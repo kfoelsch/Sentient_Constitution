@@ -795,7 +795,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
   - **In scope:**
     - A condition on offering others a good, service, or system whose use can cause credible bodily harm, or comparably serious harm, to recipients who cannot easily judge or avoid the risk.
     - "Offering" covers selling, supplying, listing, recommending, and giving away as part of an activity that reaches others, whether or not a price is charged.
-    - Conditions can include meeting a stated safety standard, disclosing verifiable facts about the thing offered (contents, hazards, test results, known defects), registration or certification, keeping records, taking in harm reports, and giving notice of defects and correcting them.
+    - Such conditions can include meeting a stated safety standard, disclosing verifiable facts about the thing offered (contents, hazards, test results, known defects), registration or certification, keeping records, taking in harm reports, and giving notice of defects and correcting them.
     - Known cases: practice licence and practice clearance (**Article XI-E** (*Institutional Formation and Business Creation*)); certification before go-live; lifecycle records and up-front disclosure of operator dependencies (**Article II-A** (*Material Stewardship and Lifecycle Honesty*) and **Article II-D** (*Post-Sale Access and Subscription Integrity*)); and safety and health information (**Article III-F** (*Safe Products and Health Information*)).
   - **Out of scope:**
     - compelled speech, which is any requirement to state, endorse, or carry a message of opinion, belief, identity, or affiliation, and is judged under [Expression](core_05.055_band_participation.md#expression) and **Article XI-B** (*Expression*);

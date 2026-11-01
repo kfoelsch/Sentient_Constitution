@@ -221,6 +221,10 @@
       "prefer": "say what is placed or which kind: seat placement, role placement, Published Placement (Chapter Eight §5), Corpus placement, display placement, paid placement, or name the thing (placement of the record seat); 'placement of ...', qualified compounds, and the verb (places, placed) stay; enforced by avoid-bare-placement"
     },
     {
+      "avoid": "condition / conditions (bare noun on a line that speaks of certification: the condition, with or without conditions, release from conditions)",
+      "prefer": "certification condition(s) for a requirement written into a certification outcome (certification conditions before go-live, continuing certification conditions); other senses say what they are (Safe Conditions, operating conditions, corrective conditions of a standing lock, circumstances, requirements, terms); the verb (conditions the act) and qualified compounds stay; enforced by avoid-bare-condition"
+    },
+    {
       "avoid": "re-check / re-checks / recheck / rechecks (bare noun in Chapter Seven: a re-check, the re-check, what triggers a re-check)",
       "prefer": "formation re-check; the verb forms (re-checked, re-checking) stay; enforced by avoid-bare-recheck"
     },

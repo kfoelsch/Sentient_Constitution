@@ -158,10 +158,10 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: **certification revocation** is taking certification back from a system that holds it, because its operator has not shown that it is both willing and able to put a problem right, or has been dishonest or has broken a condition. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.*
+*In plain terms: **certification revocation** is taking certification back from a system that holds it, because its operator has not shown that it is both willing and able to put a problem right, or has been dishonest or has broken a certification condition. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.*
 
 - **What it is**
-  - **In scope:** The outcome withdrawal, reached by taking back a certification already held, at a recertification or a reopened review, when the remediation readiness check does not show the operator both willing and able to correct a misalignment or certification defect, or when a condition is repeatedly missed or materially violated, or when evidence offered for readiness, correction, or release from a condition is shown to be false, fabricated, or concealed.
+  - **In scope:** The outcome withdrawal, reached by taking back a certification already held, at a recertification or a reopened review, when the remediation readiness check does not show the operator both willing and able to correct a misalignment or certification defect, or when a certification condition is repeatedly missed or materially violated, or when evidence offered for readiness, correction, or release from a certification condition is shown to be false, fabricated, or concealed.
   - **Out of scope:**
     - [Certification Denial](core_05.040_band_continuity.md#certification-denial), which refuses certification to a system that holds none;
     - deferred certification, which postpones the decision for a bounded period and takes nothing back;
@@ -182,7 +182,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - **What must hold**
   - **Primary failure:**
     - revoking without notice of the finding and the evidence, or without a chance to answer;
-    - continuing certification subject to conditions where the record requires revocation;
+    - continuing certification subject to certification conditions where the record requires revocation;
     - treating a revocation as an order to cut off survival essentials before substitutes exist; or
     - revoking certification and leaving those who rely on the system uninformed.
 
@@ -263,7 +263,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** The status of certification held by a system that was certified provisionally, has completed the required consecutive clean provisional recertifications, and at its latest [Recertification](core_05.040_band_continuity.md#recertification) showed no current misalignment and no monitoring indicator pointing to impending misalignment. Full certification runs on the class-scaled certification interval, remains time-bound, and remains open to reopening.
   - **Out of scope:**
     - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification);
-    - conditional certification, which concerns conditions on certification and may attach to either status;
+    - conditional certification, which concerns certification conditions and may attach to either status;
     - a permanent permission slip, reputation score, or standing effect — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Provisional Certification](core_05.040_band_continuity.md#provisional-certification); [Recertification](core_05.040_band_continuity.md#recertification).
@@ -321,7 +321,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - ordinary changes to an operating system that are not a material expansion —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Material Impact](core_05.050_band_oversight.md#material-impact); [Dependency](core_05.040_band_continuity.md#dependency).
-  - The gate that must be satisfied before a go-live, the notice interval, and the verification of conditions are stated in [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate); this entry is the Chapter Five meaning only.
+  - The gate that must be satisfied before a go-live, the notice interval, and the verification of certification conditions are stated in [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate); this entry is the Chapter Five meaning only.
 <a id="go-live-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -432,7 +432,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System Certification Records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.*
 
 - **What it is**
-  - **In scope:** The bounded, reviewable record produced by [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification). It is the [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) for the institutional certification act. It identifies the Institution, the version of its Institutional Charter and Charter Role Map in force, its class, its findings, the System Certification Records it cites, the outcome and any conditions, and the challenge paths. It is scope-bound, time-bound, and contestable.
+  - **In scope:** The bounded, reviewable record produced by [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification). It is the [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) for the institutional certification act. It identifies the Institution, the version of its Institutional Charter and Charter Role Map in force, its class, its findings, the System Certification Records it cites, the outcome and any certification conditions, and the challenge paths. It is scope-bound, time-bound, and contestable.
   - **Out of scope:**
     - a [System Certification Record](core_05.040_band_continuity.md#system-certification-record), which stays the record of one System and is cited here and never absorbed;
     - a [Standing Record](core_05.035_band_accountability.md#standing-record), which Chapters Eleven and Twelve own; or
@@ -535,7 +535,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05.040_band_continuity.md#recertification) or after a reopened review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with limits on reliance stated on the record.
   - **Out of scope:**
     - [Full Certification](core_05.040_band_continuity.md#full-certification);
-    - conditional certification, which concerns conditions on certification and may attach to either status;
+    - conditional certification, which concerns certification conditions and may attach to either status;
     - deferred certification or non-certification, where no certification is granted —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Recertification](core_05.040_band_continuity.md#recertification).
@@ -697,7 +697,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** wherever certification, conditional certification, validation, recertification, continued reliance, deployment, or material fulfillment of or release from conditions is at issue; wherever a material-impact [System Classification Record](core_05.040_band_continuity.md#system-classification-record) is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*); and wherever a material-impact [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*).
+- **Joint invocation:** wherever certification, conditional certification, validation, recertification, continued reliance, deployment, or material fulfillment of or release from certification conditions is at issue; wherever a material-impact [System Classification Record](core_05.040_band_continuity.md#system-classification-record) is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*); and wherever a material-impact [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*).
 - **Scope:** where joint invocation is met, the Continuity home for the Chapter Nine gate that checks whether a [System](core_05.040_band_continuity.md#system) is constitutionally aligned before sentients rely on it at scale, including the CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) [System Classification Record](core_05.040_band_continuity.md#system-classification-record) and the CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI** (*Audit, Transparency, and Independent Verification*) and [Auditability](core_05.050_band_oversight.md#auditability) remain).
 - **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**; System Data Types Record contents, disclosure, challenge, and retyping live in **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**; these entries provide the Chapter Five meanings only.
 - **Cluster boundary:** [Dependency and cross-system support](core_05.040_band_continuity.md#dependency-and-cross-system-support) remains outside this group — certification may check **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) duties when shared-infrastructure reliance is in scope, but it is not a member of that **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) pair.
@@ -760,7 +760,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - recertification;
     - continued reliance;
     - deployment; or
-    - material fulfillment of or release from conditions.
+    - material fulfillment of or release from certification conditions.
   - As an oversight mechanism, SAC is one especially large audit process under [Auditability](core_05.050_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*). It does not absorb or replace sibling audit modes, including:
     - System Data Types Record audits;
     - System Classification Record audits;
@@ -1052,7 +1052,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) covers certified scope:
       - [System Charter](core_05.040_band_continuity.md#system-charter) fields relied on;
       - boundary findings; and
-      - any coverage gaps or conditions.
+      - any coverage gaps or certification conditions.
   - It must be forum-inspectable without relying on operator self-description alone.
   - It is required for all systems with [material impact](core_05.050_band_oversight.md#material-impact) under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*). When [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, the System Data Types Record must be produced or verified and included as a required component of the [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
   - **Out of scope:**
