@@ -855,7 +855,7 @@ The formation check is kept in proportion to what it protects:
   - [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
   - [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) (14.000 §5).
 - Downstream:
-  - [Chapter Ten §7.4 Denial and revocation for an Institution](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution) (10.000 §7.4);
+  - [Chapter Ten §7.5 Effects of denial and revocation for an Institution](core_10.000_institutional_alignment_certification.md#75-effects-of-denial-and-revocation-for-an-institution) (10.000 §7.5);
   - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - **CI-12.210** (*Institutional failure and dissolution*);
   - **CI-12.215** (*Institutional accountability and sanctions*);

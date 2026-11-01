@@ -479,9 +479,9 @@ When a forum-supervised challenge is required, internal operator review, vendor 
   - [§7.4.1 What denial and revocation are](#741-what-denial-and-revocation-are),
   - [§7.4.2 When denial or revocation is required](#742-when-denial-or-revocation-is-required),
   - [§7.4.3 Protection first](#743-protection-first),
-  - [§7.4.4 Process](#744-process),
-  - [§7.4.5 Effect](#745-effect), and
-  - [§7.4.6 Not a permanent bar](#746-not-a-permanent-bar)).
+  - [§7.4.4 Process](#744-process), and
+  - [§7.4.5 Not a permanent bar](#745-not-a-permanent-bar));
+  - [§7.5](#75-effects-of-denial-and-revocation) (*effects of denial and revocation*).
 
 </details>
 
@@ -751,24 +751,9 @@ Before a denial or revocation the operator is given:
 
 The decision states its reasons on the record, including the willingness and capacity findings ([Part C §8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents)). Urgent protection does not wait for any of this ([§6.2 Supervisory sequence](#62-supervisory-sequence)).
 
-<a id="745-effect"></a>
+<a id="745-not-a-permanent-bar"></a>
 
-##### 7.4.5 Effect
-
-A denial or revocation has these effects:
-
-- **Status:** the system is Not Certified. It may not go live or materially expand, and it may not describe itself as certified.
-- **Notice:** those who rely on the system, and each Institution that operates or stewards it, are told.
-- **Operation:** continued reliance is decided separately under the survival-essential protection in [Part C §9.3.5 Class A reliance](core_09.010_system_alignment_certification_record_recertification.md#935-class-a-reliance).
-- **Institution:** a revocation of a certification that an Institution cites is a withdrawn certification for the cascade in [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications).
-- **Standing:** a denial or revocation does not itself change anyone's standing. [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) and [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) alone decide that. The facts behind it can feed a violation standing record, but only through [Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) and its [§11.3 Verified-input gate](core_09.010_system_alignment_certification_record_recertification.md#113-verified-input-gate):
-  - Revocation for concealment, fraudulent evidence, a material violation of a certification condition, or operation outside certified scope may supply that input.
-  - A finding of willing and not able supplies none.
-  - A denial of a system that never held certification supplies none through this chapter.
-
-<a id="746-not-a-permanent-bar"></a>
-
-##### 7.4.6 Not a permanent bar
+##### 7.4.5 Not a permanent bar
 
 A denied or revoked operator may apply again.
 
@@ -777,6 +762,26 @@ A denied or revoked operator may apply again.
   - where the cause was governance or incentive, the changed structure in operation.
 - **What is not new:** a successor, renamed, split, or transferred vehicle that carries the same operator, control, or system ([Part C §9.4 Non-evasion](core_09.010_system_alignment_certification_record_recertification.md#94-non-evasion); [Chapter Three §2.1 Common Evasion Patterns](core_03.000_definition_integrity.md#21-common-evasion-patterns)).
 - **Waiting periods:** a forum may not set a waiting period for its own sake.
+
+<a id="75-effects-of-denial-and-revocation"></a>
+
+#### 7.5 Effects of Denial and Revocation
+
+*In plain terms: a denial or revocation changes what the operator may say about its system, who is told, how reliance on the system is handled afterwards, and where the matter goes next. It does not by itself shut the system down, and it does not by itself change anyone's standing.*
+
+These are the effects of a denial or revocation under [§7.4 Denial and Revocation](#74-denial-and-revocation). A denial or revocation has these effects:
+
+- **Status:** the system is Not Certified. It may not go live or materially expand, and it may not describe itself as certified.
+- **Notice:** those who rely on the system, and each Institution that operates or stewards it, are told.
+- **Operation:** continued reliance is decided separately under the survival-essential protection in [Part C §9.3.5 Class A reliance](core_09.010_system_alignment_certification_record_recertification.md#935-class-a-reliance).
+- **Institution:** a revocation of a certification that an Institution cites is a withdrawn certification for the cascade in [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications).
+- **Referral:** the lead forum refers the matter to the forum that has jurisdiction over the type of certification problem identified. This Chapter decides none of what that forum decides.
+  - **To the forum over a named sentient:** where the finding rests on a sentient's use of the system as a vehicle for a violation, the lead forum refers the facts to the forum with jurisdiction over that sentient.
+  - **To a lock or an Interim Hold:** for a verified finding of violation, the matter goes to the standing lock that [Chapter Twelve §5 Lock design and enforcement](core_12.000_standing_integration.md#5-lock-design-and-enforcement) provides for it. Where only the grounds for an [Interim Hold](core_05.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway).
+- **Standing:** a denial or revocation does not itself change anyone's standing. [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) and [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) alone decide that. The facts behind it can feed a violation standing record, but only through [Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) and its [§11.3 Verified-input gate](core_09.010_system_alignment_certification_record_recertification.md#113-verified-input-gate):
+  - Revocation for concealment, fraudulent evidence, a material violation of a certification condition, or operation outside certified scope may supply that input.
+  - A finding of willing and not able supplies none.
+  - A denial of a system that never held certification supplies none through this chapter.
 
 ---
 

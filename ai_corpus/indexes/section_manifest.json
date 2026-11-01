@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-01T08:17:05+00:00",
+  "generated_at": "2026-11-01T13:01:40+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 538,
@@ -803,9 +803,9 @@
       ]
     },
     "core_09.005_system_alignment_certification_record_process.md": {
-      "total_lines": 785,
+      "total_lines": 790,
       "sections": [
-        {"header":"CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES","level":1,"line_start":2,"line_end":785,"anchor":"#chapter-nine-part-b-certification-forum-process-and-outcomes"},
+        {"header":"CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES","level":1,"line_start":2,"line_end":790,"anchor":"#chapter-nine-part-b-certification-forum-process-and-outcomes"},
         {"header":"6. Forum Process","level":3,"line_start":129,"line_end":444,"anchor":"#6-forum-process"},
         {"header":"6.1 Forum supervision and component roles","level":4,"line_start":203,"line_end":320,"anchor":"#61-forum-supervision-and-component-roles"},
         {"header":"6.1.1 Four seats in a certification","level":5,"line_start":211,"line_end":247,"anchor":"#611-four-seats-in-a-certification"},
@@ -822,7 +822,7 @@
         {"header":"6.2.4 Participation during review","level":5,"line_start":372,"line_end":389,"anchor":"#624-participation-during-review"},
         {"header":"6.3 Contestability chain","level":4,"line_start":390,"line_end":430,"anchor":"#63-contestability-chain"},
         {"header":"6.4 Anti-bypass","level":4,"line_start":431,"line_end":444,"anchor":"#64-anti-bypass"},
-        {"header":"7. Certification Outcomes","level":3,"line_start":445,"line_end":785,"anchor":"#7-certification-outcomes"},
+        {"header":"7. Certification Outcomes","level":3,"line_start":445,"line_end":790,"anchor":"#7-certification-outcomes"},
         {"header":"7.1 Go-Live Gate","level":4,"line_start":517,"line_end":585,"anchor":"#71-go-live-gate"},
         {"header":"7.1.1 Systems already operating","level":5,"line_start":568,"line_end":579,"anchor":"#711-systems-already-operating"},
         {"header":"7.1.2 Pilots","level":5,"line_start":580,"line_end":585,"anchor":"#712-pilots"},
@@ -833,13 +833,13 @@
         {"header":"7.3.3 Proof step","level":5,"line_start":670,"line_end":678,"anchor":"#733-proof-step"},
         {"header":"7.3.4 Findings","level":5,"line_start":679,"line_end":693,"anchor":"#734-findings"},
         {"header":"7.3.5 Same terms for every operator","level":5,"line_start":694,"line_end":702,"anchor":"#735-same-terms-for-every-operator"},
-        {"header":"7.4 Denial and Revocation","level":4,"line_start":703,"line_end":785,"anchor":"#74-denial-and-revocation"},
+        {"header":"7.4 Denial and Revocation","level":4,"line_start":703,"line_end":767,"anchor":"#74-denial-and-revocation"},
         {"header":"7.4.1 What denial and revocation are","level":5,"line_start":709,"line_end":714,"anchor":"#741-what-denial-and-revocation-are"},
         {"header":"7.4.2 When denial or revocation is required","level":5,"line_start":715,"line_end":734,"anchor":"#742-when-denial-or-revocation-is-required"},
         {"header":"7.4.3 Protection first","level":5,"line_start":735,"line_end":743,"anchor":"#743-protection-first"},
         {"header":"7.4.4 Process","level":5,"line_start":744,"line_end":755,"anchor":"#744-process"},
-        {"header":"7.4.5 Effect","level":5,"line_start":756,"line_end":770,"anchor":"#745-effect"},
-        {"header":"7.4.6 Not a permanent bar","level":5,"line_start":771,"line_end":785,"anchor":"#746-not-a-permanent-bar"}
+        {"header":"7.4.5 Not a permanent bar","level":5,"line_start":756,"line_end":767,"anchor":"#745-not-a-permanent-bar"},
+        {"header":"7.5 Effects of Denial and Revocation","level":4,"line_start":768,"line_end":790,"anchor":"#75-effects-of-denial-and-revocation"}
       ]
     },
     "core_09.010_system_alignment_certification_record_recertification.md": {
@@ -882,9 +882,9 @@
       ]
     },
     "core_10.000_institutional_alignment_certification.md": {
-      "total_lines": 956,
+      "total_lines": 980,
       "sections": [
-        {"header":"CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION","level":1,"line_start":2,"line_end":956,"anchor":"#chapter-ten-institutional-alignment-certification"},
+        {"header":"CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION","level":1,"line_start":2,"line_end":980,"anchor":"#chapter-ten-institutional-alignment-certification"},
         {"header":"1. Purpose and Role","level":3,"line_start":67,"line_end":168,"anchor":"#1-purpose-and-role"},
         {"header":"1.1 Who is certified","level":4,"line_start":123,"line_end":134,"anchor":"#11-who-is-certified"},
         {"header":"1.2 No permission and no gate on forming or running","level":4,"line_start":135,"line_end":156,"anchor":"#12-no-permission-and-no-gate-on-forming-or-running"},
@@ -899,30 +899,31 @@
         {"header":"6.1 Four seats in an institutional certification","level":4,"line_start":421,"line_end":448,"anchor":"#61-four-seats-in-an-institutional-certification"},
         {"header":"6.2 Forum roles and sequence","level":4,"line_start":449,"line_end":481,"anchor":"#62-forum-roles-and-sequence"},
         {"header":"6.3 Forums, certifiers, and record offices as institutions","level":4,"line_start":482,"line_end":496,"anchor":"#63-forums-certifiers-and-record-offices-as-institutions"},
-        {"header":"7. Certification Outcomes","level":3,"line_start":497,"line_end":668,"anchor":"#7-certification-outcomes"},
+        {"header":"7. Certification Outcomes","level":3,"line_start":497,"line_end":692,"anchor":"#7-certification-outcomes"},
         {"header":"7.1 Go-live for an Institution","level":4,"line_start":539,"line_end":585,"anchor":"#71-go-live-for-an-institution"},
         {"header":"7.1.1 Certification conditions","level":5,"line_start":554,"line_end":570,"anchor":"#711-certification-conditions"},
         {"header":"7.1.2 Other effects of a verdict","level":5,"line_start":571,"line_end":585,"anchor":"#712-other-effects-of-a-verdict"},
         {"header":"7.2 Certification defects and correction","level":4,"line_start":586,"line_end":602,"anchor":"#72-certification-defects-and-correction"},
         {"header":"7.3 Remediation readiness for an Institution","level":4,"line_start":603,"line_end":627,"anchor":"#73-remediation-readiness-for-an-institution"},
-        {"header":"7.4 Denial and revocation for an Institution","level":4,"line_start":628,"line_end":668,"anchor":"#74-denial-and-revocation-for-an-institution"},
-        {"header":"8. Institutional Certification Record","level":3,"line_start":669,"line_end":727,"anchor":"#8-institutional-certification-record"},
-        {"header":"8.1 Minimum record contents","level":4,"line_start":696,"line_end":719,"anchor":"#81-minimum-record-contents"},
-        {"header":"8.2 Transparency and auditability of the record","level":4,"line_start":720,"line_end":727,"anchor":"#82-transparency-and-auditability-of-the-record"},
-        {"header":"9. Recertification and Reopening","level":3,"line_start":728,"line_end":889,"anchor":"#9-recertification-and-reopening"},
-        {"header":"9.1 Monitoring, recertification, and status","level":4,"line_start":756,"line_end":761,"anchor":"#91-monitoring-recertification-and-status"},
-        {"header":"9.2 Reopening triggers","level":4,"line_start":762,"line_end":854,"anchor":"#92-reopening-triggers"},
-        {"header":"9.2.1 What counts as new material authority","level":5,"line_start":781,"line_end":804,"anchor":"#921-what-counts-as-new-material-authority"},
-        {"header":"9.2.2 Recertification for new material authority","level":5,"line_start":805,"line_end":831,"anchor":"#922-recertification-for-new-material-authority"},
-        {"header":"9.2.3 Blockers to clearing new material authority","level":5,"line_start":832,"line_end":854,"anchor":"#923-blockers-to-clearing-new-material-authority"},
-        {"header":"9.3 Provisional and full certification","level":4,"line_start":855,"line_end":860,"anchor":"#93-provisional-and-full-certification"},
-        {"header":"9.4 Non-evasion","level":4,"line_start":861,"line_end":875,"anchor":"#94-non-evasion"},
-        {"header":"9.5 Cascade from System certifications","level":4,"line_start":876,"line_end":889,"anchor":"#95-cascade-from-system-certifications"},
-        {"header":"10. Challenging a Certification","level":3,"line_start":890,"line_end":923,"anchor":"#10-challenging-a-certification"},
-        {"header":"10.1 When the path opens","level":4,"line_start":912,"line_end":917,"anchor":"#101-when-the-path-opens"},
-        {"header":"10.2 Contestability paths","level":4,"line_start":918,"line_end":923,"anchor":"#102-contestability-paths"},
-        {"header":"11. Relationship to Standing","level":3,"line_start":924,"line_end":956,"anchor":"#11-relationship-to-standing"},
-        {"header":"11.1 What may pass to standing","level":4,"line_start":948,"line_end":956,"anchor":"#111-what-may-pass-to-standing"}
+        {"header":"7.4 Denial and revocation for an Institution","level":4,"line_start":628,"line_end":656,"anchor":"#74-denial-and-revocation-for-an-institution"},
+        {"header":"7.5 Effects of denial and revocation for an Institution","level":4,"line_start":657,"line_end":692,"anchor":"#75-effects-of-denial-and-revocation-for-an-institution"},
+        {"header":"8. Institutional Certification Record","level":3,"line_start":693,"line_end":751,"anchor":"#8-institutional-certification-record"},
+        {"header":"8.1 Minimum record contents","level":4,"line_start":720,"line_end":743,"anchor":"#81-minimum-record-contents"},
+        {"header":"8.2 Transparency and auditability of the record","level":4,"line_start":744,"line_end":751,"anchor":"#82-transparency-and-auditability-of-the-record"},
+        {"header":"9. Recertification and Reopening","level":3,"line_start":752,"line_end":913,"anchor":"#9-recertification-and-reopening"},
+        {"header":"9.1 Monitoring, recertification, and status","level":4,"line_start":780,"line_end":785,"anchor":"#91-monitoring-recertification-and-status"},
+        {"header":"9.2 Reopening triggers","level":4,"line_start":786,"line_end":878,"anchor":"#92-reopening-triggers"},
+        {"header":"9.2.1 What counts as new material authority","level":5,"line_start":805,"line_end":828,"anchor":"#921-what-counts-as-new-material-authority"},
+        {"header":"9.2.2 Recertification for new material authority","level":5,"line_start":829,"line_end":855,"anchor":"#922-recertification-for-new-material-authority"},
+        {"header":"9.2.3 Blockers to clearing new material authority","level":5,"line_start":856,"line_end":878,"anchor":"#923-blockers-to-clearing-new-material-authority"},
+        {"header":"9.3 Provisional and full certification","level":4,"line_start":879,"line_end":884,"anchor":"#93-provisional-and-full-certification"},
+        {"header":"9.4 Non-evasion","level":4,"line_start":885,"line_end":899,"anchor":"#94-non-evasion"},
+        {"header":"9.5 Cascade from System certifications","level":4,"line_start":900,"line_end":913,"anchor":"#95-cascade-from-system-certifications"},
+        {"header":"10. Challenging a Certification","level":3,"line_start":914,"line_end":947,"anchor":"#10-challenging-a-certification"},
+        {"header":"10.1 When the path opens","level":4,"line_start":936,"line_end":941,"anchor":"#101-when-the-path-opens"},
+        {"header":"10.2 Contestability paths","level":4,"line_start":942,"line_end":947,"anchor":"#102-contestability-paths"},
+        {"header":"11. Relationship to Standing","level":3,"line_start":948,"line_end":980,"anchor":"#11-relationship-to-standing"},
+        {"header":"11.1 What may pass to standing","level":4,"line_start":972,"line_end":980,"anchor":"#111-what-may-pass-to-standing"}
       ]
     },
     "core_11.000_standing_assessment.md": {

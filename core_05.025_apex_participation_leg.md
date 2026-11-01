@@ -19,7 +19,7 @@
   - [Preamble §1 The Model](core_00.000_preamble.md#the-model);
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7);
   - [Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16);
-  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5); Part B tradeoff and interpretation homes:
+  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5); Chapter One Part B tradeoff and interpretation homes:
   - [Chapter One §13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity) (1.005 §13.1.1);
   - [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.005 §13.1.4);
   - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);

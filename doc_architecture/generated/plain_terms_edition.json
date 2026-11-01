@@ -3,8 +3,8 @@
   "effective_date": "2026-10-21",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 1164,
-  "glossed_count": 732,
+  "heading_count": 1165,
+  "glossed_count": 734,
   "files": [
     {
       "file": "core_00.000_preamble.md",
@@ -877,7 +877,7 @@
       "file": "core_09.005_system_alignment_certification_record_process.md",
       "title": "CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES",
       "heading_count": 35,
-      "glossed_count": 9,
+      "glossed_count": 10,
       "sections": [
         {"file":"core_09.005_system_alignment_certification_record_process.md","level":1,"title":"CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES","anchor":"chapter-nine-part-b-certification-forum-process-and-outcomes","line":2,"gloss":"Part A explains how to **frame** and **evaluate** a system. Part B explains what happens next. Forums review the findings and reach an **outcome**, and nothing goes live until the system is certified. Part C covers what follows the decision: the **record**, the **challenge** path, keeping the certification current, and the link to **standing**.","gloss_line":49},
         {"file":"core_09.005_system_alignment_certification_record_process.md","level":3,"title":"6. Forum Process","anchor":"6-forum-process","line":129,"gloss":"certification is not a pile of opinions from different corners. The evaluation work can run side by side, but from here the record moves in order: review, then decision, then the published record. Each kind of forum handles a defined piece of the review, and one lead forum brings the pieces together. Affected parties can challenge at the level where the dispute lives, without getting lost in internal bureaucracy or bounced between forums.","gloss_line":181},
@@ -912,8 +912,8 @@
         {"file":"core_09.005_system_alignment_certification_record_process.md","level":5,"title":"7.4.2 When denial or revocation is required","anchor":"742-when-denial-or-revocation-is-required","line":715,"gloss":null,"gloss_line":null},
         {"file":"core_09.005_system_alignment_certification_record_process.md","level":5,"title":"7.4.3 Protection first","anchor":"743-protection-first","line":735,"gloss":null,"gloss_line":null},
         {"file":"core_09.005_system_alignment_certification_record_process.md","level":5,"title":"7.4.4 Process","anchor":"744-process","line":744,"gloss":null,"gloss_line":null},
-        {"file":"core_09.005_system_alignment_certification_record_process.md","level":5,"title":"7.4.5 Effect","anchor":"745-effect","line":756,"gloss":null,"gloss_line":null},
-        {"file":"core_09.005_system_alignment_certification_record_process.md","level":5,"title":"7.4.6 Not a permanent bar","anchor":"746-not-a-permanent-bar","line":771,"gloss":null,"gloss_line":null}
+        {"file":"core_09.005_system_alignment_certification_record_process.md","level":5,"title":"7.4.5 Not a permanent bar","anchor":"745-not-a-permanent-bar","line":756,"gloss":null,"gloss_line":null},
+        {"file":"core_09.005_system_alignment_certification_record_process.md","level":4,"title":"7.5 Effects of Denial and Revocation","anchor":"75-effects-of-denial-and-revocation","line":768,"gloss":"a denial or revocation changes what the operator may say about its system, who is told, and how reliance on the system is handled afterwards. It does not by itself shut the system down, and it does not by itself change anyone's standing.","gloss_line":770}
       ]
     },
     {
@@ -961,8 +961,8 @@
     {
       "file": "core_10.000_institutional_alignment_certification.md",
       "title": "CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION",
-      "heading_count": 39,
-      "glossed_count": 18,
+      "heading_count": 40,
+      "glossed_count": 19,
       "sections": [
         {"file":"core_10.000_institutional_alignment_certification.md","level":1,"title":"CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION","anchor":"chapter-ten-institutional-alignment-certification","line":2,"gloss":"Chapter Nine asks whether a **system** is aligned. Chapter Ten asks the same of the **institution** that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse. So the institution is checked on what only it controls: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used. It relies on each system's certification and does not redo it. It is not a licence: nobody needs its permission to start or run an institution.","gloss_line":63},
         {"file":"core_10.000_institutional_alignment_certification.md","level":3,"title":"1. Purpose and Role","anchor":"1-purpose-and-role","line":67,"gloss":"a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.","gloss_line":88},
@@ -984,25 +984,26 @@
         {"file":"core_10.000_institutional_alignment_certification.md","level":5,"title":"7.1.1 Certification conditions","anchor":"711-certification-conditions","line":554,"gloss":null,"gloss_line":null},
         {"file":"core_10.000_institutional_alignment_certification.md","level":5,"title":"7.1.2 Other effects of a verdict","anchor":"712-other-effects-of-a-verdict","line":571,"gloss":null,"gloss_line":null},
         {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"7.2 Certification defects and correction","anchor":"72-certification-defects-and-correction","line":586,"gloss":"a certification defect is a real problem the evaluation turns up, not a paperwork slip. When one is found in an Institution, the repair rules are the same as for a System.","gloss_line":588},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"7.3 Remediation readiness for an Institution","anchor":"73-remediation-readiness-for-an-institution","line":603,"gloss":"when a review finds a problem in an Institution, the forums ask the same question they ask about a System: is it both willing and able to fix the problem? If the honest answer is no, its certification is refused or taken back. That cannot stop the Institution from existing or operating. It takes away the Institution's claim to be certified, warns those who rely on it, weakens the support its Systems can draw from its good status, and keeps it out of the seats that certify others.","gloss_line":605},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"7.3 Remediation readiness for an Institution","anchor":"73-remediation-readiness-for-an-institution","line":603,"gloss":"when a review finds a problem in an Institution, the forums ask the same question they ask about a System: is it both willing and able to fix the problem? If the honest answer is no, its certification is refused or taken back. By itself, that cannot stop the Institution from existing or operating. It takes away the Institution's claim to be certified, warns those who rely on it, weakens the support its Systems can draw from its good status, and keeps it out of the seats that certify others.","gloss_line":605},
         {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"7.4 Denial and revocation for an Institution","anchor":"74-denial-and-revocation-for-an-institution","line":628,"gloss":"denial means certification is refused, and revocation means a certification already held is taken back. Both are real consequences. Neither shuts the Institution down.","gloss_line":630},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":3,"title":"8. Institutional Certification Record","anchor":"8-institutional-certification-record","line":669,"gloss":"the stated outcome is kept on a record held by an office the institution does not control, and the record can be challenged.","gloss_line":688},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"8.1 Minimum record contents","anchor":"81-minimum-record-contents","line":696,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"8.2 Transparency and auditability of the record","anchor":"82-transparency-and-auditability-of-the-record","line":720,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":3,"title":"9. Recertification and Reopening","anchor":"9-recertification-and-reopening","line":728,"gloss":"an institution's certification is checked again on a schedule and whenever something material changes. If one of its systems loses its certification, the institution answers for what that says about the institution, and no more than that.","gloss_line":750},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.1 Monitoring, recertification, and status","anchor":"91-monitoring-recertification-and-status","line":756,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.2 Reopening triggers","anchor":"92-reopening-triggers","line":762,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":5,"title":"9.2.1 What counts as new material authority","anchor":"921-what-counts-as-new-material-authority","line":781,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":5,"title":"9.2.2 Recertification for new material authority","anchor":"922-recertification-for-new-material-authority","line":805,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":5,"title":"9.2.3 Blockers to clearing new material authority","anchor":"923-blockers-to-clearing-new-material-authority","line":832,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.3 Provisional and full certification","anchor":"93-provisional-and-full-certification","line":855,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.4 Non-evasion","anchor":"94-non-evasion","line":861,"gloss":"no one gets out of this Chapter by dividing, renaming, or reshaping an institution.","gloss_line":863},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.5 Cascade from System certifications","anchor":"95-cascade-from-system-certifications","line":876,"gloss":"a failed system certification is a warning light for the institution, and sometimes an alarm. It is an alarm only if the institution's own governance caused it.","gloss_line":878},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":3,"title":"10. Challenging a Certification","anchor":"10-challenging-a-certification","line":890,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"10.1 When the path opens","anchor":"101-when-the-path-opens","line":912,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"10.2 Contestability paths","anchor":"102-contestability-paths","line":918,"gloss":null,"gloss_line":null},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":3,"title":"11. Relationship to Standing","anchor":"11-relationship-to-standing","line":924,"gloss":"like a system's certification, an institution's can feed standing through a strict gate and never replaces standing.","gloss_line":942},
-        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"11.1 What may pass to standing","anchor":"111-what-may-pass-to-standing","line":948,"gloss":null,"gloss_line":null}
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"7.5 Effects of denial and revocation for an Institution","anchor":"75-effects-of-denial-and-revocation-for-an-institution","line":657,"gloss":"a denial or revocation changes what the Institution may say about itself, who is told, how much its status counts in its Systems' reviews, and where the matter goes next. By itself it does not shut the Institution down.","gloss_line":659},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":3,"title":"8. Institutional Certification Record","anchor":"8-institutional-certification-record","line":693,"gloss":"the stated outcome is kept on a record held by an office the institution does not control, and the record can be challenged.","gloss_line":712},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"8.1 Minimum record contents","anchor":"81-minimum-record-contents","line":720,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"8.2 Transparency and auditability of the record","anchor":"82-transparency-and-auditability-of-the-record","line":744,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":3,"title":"9. Recertification and Reopening","anchor":"9-recertification-and-reopening","line":752,"gloss":"an institution's certification is checked again on a schedule and whenever something material changes. If one of its systems loses its certification, the institution answers for what that says about the institution, and no more than that.","gloss_line":774},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.1 Monitoring, recertification, and status","anchor":"91-monitoring-recertification-and-status","line":780,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.2 Reopening triggers","anchor":"92-reopening-triggers","line":786,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":5,"title":"9.2.1 What counts as new material authority","anchor":"921-what-counts-as-new-material-authority","line":805,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":5,"title":"9.2.2 Recertification for new material authority","anchor":"922-recertification-for-new-material-authority","line":829,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":5,"title":"9.2.3 Blockers to clearing new material authority","anchor":"923-blockers-to-clearing-new-material-authority","line":856,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.3 Provisional and full certification","anchor":"93-provisional-and-full-certification","line":879,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.4 Non-evasion","anchor":"94-non-evasion","line":885,"gloss":"no one gets out of this Chapter by dividing, renaming, or reshaping an institution.","gloss_line":887},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"9.5 Cascade from System certifications","anchor":"95-cascade-from-system-certifications","line":900,"gloss":"a failed system certification is a warning light for the institution, and sometimes an alarm. It is an alarm only if the institution's own governance caused it.","gloss_line":902},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":3,"title":"10. Challenging a Certification","anchor":"10-challenging-a-certification","line":914,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"10.1 When the path opens","anchor":"101-when-the-path-opens","line":936,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"10.2 Contestability paths","anchor":"102-contestability-paths","line":942,"gloss":null,"gloss_line":null},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":3,"title":"11. Relationship to Standing","anchor":"11-relationship-to-standing","line":948,"gloss":"like a system's certification, an institution's can feed standing through a strict gate and never replaces standing.","gloss_line":966},
+        {"file":"core_10.000_institutional_alignment_certification.md","level":4,"title":"11.1 What may pass to standing","anchor":"111-what-may-pass-to-standing","line":972,"gloss":null,"gloss_line":null}
       ]
     },
     {

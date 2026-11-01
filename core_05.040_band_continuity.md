@@ -118,7 +118,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - a standing effect or violation finding — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification).
-  - The conditions, process, and effects are stated in [Chapter Nine Part B §7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation); this entry is the Chapter Five meaning only.
+  - The conditions and process are stated in [Chapter Nine Part B §7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation), and the effects in [Chapter Nine Part B §7.5](core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation); this entry is the Chapter Five meaning only.
 <a id="certification-denial-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -169,7 +169,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - a standing effect or violation finding — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [Recertification](core_05.040_band_continuity.md#recertification).
-  - The conditions, process, and effects are stated in [Chapter Nine Part B §7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation); this entry is the Chapter Five meaning only.
+  - The conditions and process are stated in [Chapter Nine Part B §7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation), and the effects in [Chapter Nine Part B §7.5](core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation); this entry is the Chapter Five meaning only.
 <a id="certification-revocation-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -1039,7 +1039,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - **What it is**
   - **In scope:** The bounded, reviewable record of data types and handling under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*). A **System Data Types Record** is **material audited information** — data that auditing processes require. It states:
-    - data types materially in scope (Part B types and access-posture bands);
+    - data types materially in scope (the types in CS-6.310 (*Data classifications*) and their access-posture bands);
     - the purpose of each type in scope, and the recipients, processors, and linked systems that receive it — the same facts the collection notice under [CS-6.305 Part A §1.3](corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion) (*Collection notice and deletion*) gives affected sentients;
     - for each restricted or non-accessible type, the basis relied on: operational necessity, consent under the shared consent-integrity standard, or a justified override under **CJS-5.125 §12** (*burden-of-justification and constraint terms*);
     - derived or inferred data the system produces, with its type — including any process that infers or reconstructs internal states and is therefore **Type N**;

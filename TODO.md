@@ -15,7 +15,7 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - **Ch 2:** [core_02.000_definition_structure.md](core_02.000_definition_structure.md)
 - **Ch 3:** [core_03.000_definition_integrity.md](core_03.000_definition_integrity.md)
 - **Ch 4:** [core_04.000_burden_traceability_verification.md](core_04.000_burden_traceability_verification.md)
-- **Ch 5:** Part A compass — [core_05.000_definitions_home.md](core_05.000_definitions_home.md); band files — [core_05.050_band_oversight.md](core_05.050_band_oversight.md), [core_05.055_band_participation.md](core_05.055_band_participation.md), [core_05.035_band_accountability.md](core_05.035_band_accountability.md), [core_05.040_band_continuity.md](core_05.040_band_continuity.md), [core_05.045_band_integrative.md](core_05.045_band_integrative.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
+- **Ch 5:** Part A compass — [core_05.000_definitions_home.md](core_05.000_definitions_home.md); band files — [core_05.050_band_oversight.md](core_05.050_band_oversight.md), [core_05.055_band_participation.md](core_05.055_band_participation.md), [core_05.035_band_accountability.md](core_05.035_band_accountability.md), [core_05.040_band_continuity.md](core_05.040_band_continuity.md), [core_05.045_band_integrative.md](core_05.045_band_integrative.md) (retired second and third Chapter Five files → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
 - **Ch 6:** [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md) through [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md)
 - **Ch 7:** [core_07.000_charters.md](core_07.000_charters.md)
 - **Ch 8:** [core_08.000_functional_independence_separation_of_duties.md](core_08.000_functional_independence_separation_of_duties.md)
@@ -107,7 +107,7 @@ These remain optional planning questions, not decisions. Full notes and the 67-i
 - [ ] Update translations for the Article XIII-A / XIII-B split and cites to XIII-B.
 - [ ] Update translations for the operative steward-box removal and the old Chapter Nine §14.2, Chapter Ten, and Chapter Thirteen references.
 - [ ] Resync the 2026-09-21 Preamble §6/§7 changes and other translation files touched by the English cleanup, once the source is settled.
-- [ ] Update translations for Chapter One relocation/numbering, §7 reorder, §9/§10 swap, Part A introductions, and check Meaningful Agency and Consent wording against Chapter Six.
+- [ ] Update translations for Chapter One relocation/numbering, §7 reorder, §9/§10 swap, Chapter One Part A introductions, and check Meaningful Agency and Consent wording against Chapter Six.
 
 ### Conceptual overview, lived-experience validation, and evaluation
 

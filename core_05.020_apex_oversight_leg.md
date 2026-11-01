@@ -16,7 +16,7 @@
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
   - [Flourishing](core_00.000_preamble.md#flourishing).
 - Downstream: Principles:
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18); Part B tradeoff and interpretation homes:
+  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18); Chapter One Part B tradeoff and interpretation homes:
   - [Chapter One §13.1.2 Harm Minimization](core_01.005_interaction_interpretation.md#1312-harm-minimization) (1.005 §13.1.2);
   - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);
   - [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005 §13.2);
