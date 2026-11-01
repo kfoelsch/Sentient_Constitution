@@ -33,7 +33,7 @@
   - [Chapter One §16 — Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*);
   - [Chapters Two through Four](core_02.000_definition_structure.md) (*integrity, records, and verification*);
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) (*definitions and supremacy read with Chapters Two through Four*).
-- Upstream: [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*system alignment certification*); [Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (9.010 §11) (*standing bridge — potential verified inputs only*).
+- Upstream: [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*system alignment certification*); [Chapter Nine Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (9.010 §11) (*standing bridge — potential verified inputs only*).
 - Standing pipeline:
   - [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
   - [Chapter Eleven — Measurement](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*three-question frame, Question 1 records, and Question 2 measurement — sections **1–7***);

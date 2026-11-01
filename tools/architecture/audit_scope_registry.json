@@ -588,6 +588,9 @@
    "scope": "not-file-based",
    "reason": "Unit test or scenario catalog with its own fixtures; reads no corpus text as its subject."
   },
+  "part-cite-chapter-audit": {
+   "scope": "corpus"
+  },
   "plain-language-audit": {
    "scope": "corpus"
   },
