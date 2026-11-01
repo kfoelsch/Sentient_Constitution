@@ -411,6 +411,13 @@
       "status": "blocking"
     },
     {
+      "id": "PART-CITE-CHAPTER-01",
+      "legacy_ref": "Part-and-section cite names its chapter",
+      "summary": "A `Part A`–`Part F` cite followed by § whose target is in another chapter than the citing file names that chapter directly before `Part` (`Chapter Nine Part B §7.2 Certification Defects and Correction`, `CS-6.310 Part B §9.3`), because Part letters repeat from chapter to chapter. Short `Part B §7.2` is allowed only inside the chapter that holds it, and in a connector run after a qualified cite. A qualifier or Part letter that disagrees with the link target, and an unlinked cite whose chapter cannot be found, are reported without an automatic repair. `--write` inserts the missing chapter. Headings, code, doc_architecture.md, dated records under implementation/, and dated change-log table rows are out of scope.",
+      "make_target": "part-cite-chapter-audit",
+      "status": "blocking"
+    },
+    {
       "id": "SECTION-LABEL-ANCHOR-01",
       "legacy_ref": "section-label current-numbering fragment prefix",
       "summary": "When a §N cite is dotted-related to the target heading, that heading must carry a current-numbering fragment id (compact prefix 54- or hyphenated 5-4-).",

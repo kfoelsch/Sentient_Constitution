@@ -111,13 +111,13 @@ This chapter states which **forum families** **supervise** which primary questio
 2. **System Alignment Certification and Institutional Alignment Certification** ([Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
    - Forum-supervised certification, conditional certification, validation, recertification, withdrawal, and related System or Institutional Certification Record outcomes under [Chapter Nine Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) and [Chapter Nine Part C](core_09.010_system_alignment_certification_record_recertification.md#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing).
    - Institutional alignment certification of an Institution, with the same outcomes, under [Chapter Ten](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification). **Institutional** forums hold the institutional mandate and duty-compliance components, an **Integrity** forum leads, and the System Certification Records the Institution runs are cited and not redone.
-   - Component roles under [Part B §6.1](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles):
+   - Component roles under [Chapter Nine Part B §6.1](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles):
      - **Technical** — specifications, methods, and evidence standards
      - **Integrity** — official alignment certification and lead coordination
      - **Environment** — environmental-alignment component where material
      - other family component findings under this chapter’s routing
    - Sentients can challenge certification results, attach certification conditions, and reopen the file when needed — but a certification does **not** replace standing measurement.
-   - Important findings from a certification can count as **verified inputs** when Chapter Eleven measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)).
+   - Important findings from a certification can count as **verified inputs** when Chapter Eleven measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Chapter Nine Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)).
 
 **Forum families** are the primary institutions through which this Constitution **supervises** those tracks. They are distinct from routine executive administration of enacted rules.
 

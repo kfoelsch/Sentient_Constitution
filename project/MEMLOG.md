@@ -46,6 +46,8 @@ Earlier completed session detail is preserved in [MEMLOG_SNAPSHOT_2026-10-21.md]
 
 ## Archive Index
 
+- **2026-11-01 applied drafts:** [archive/LOBBYING_BOUNDARIES_DRAFT_APPLIED_2026-11-01.md](../archive/LOBBYING_BOUNDARIES_DRAFT_APPLIED_2026-11-01.md) (now Article XII-E), [archive/RECORD_INTEGRITY_PRINCIPLE_DRAFT_APPLIED_2026-11-01.md](../archive/RECORD_INTEGRITY_PRINCIPLE_DRAFT_APPLIED_2026-11-01.md) (now Record Integrity, Chapter Five), [archive/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS_APPLIED_2026-11-01.md](../archive/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS_APPLIED_2026-11-01.md), [archive/RECORD_OVERVIEW_PLAN_APPLIED_2026-11-01.md](../archive/RECORD_OVERVIEW_PLAN_APPLIED_2026-11-01.md) (now `guides/RECORD_OVERVIEW.md`)
+- **2026-11-01 superseded draft:** [archive/ARTICLE_VIII_PLAIN_LANGUAGE_DRAFT_ARCHIVED_2026-11-01.md](../archive/ARTICLE_VIII_PLAIN_LANGUAGE_DRAFT_ARCHIVED_2026-11-01.md) (the Article's own *In plain terms* lines and the generated plain-terms edition cover it)
 - **2026-10-23 resolved work:** [archive/MEMLOG_RESOLVED_2026-10-23.md](../archive/MEMLOG_RESOLVED_2026-10-23.md)
 
 - **2026-10-21 completed work:** [archive/TODO_RESOLVED_2026-10-21.md](../archive/TODO_RESOLVED_2026-10-21.md)
