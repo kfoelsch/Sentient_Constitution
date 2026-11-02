@@ -276,7 +276,7 @@ The record must identify, at minimum:
   - any certification condition, reliance limit, or reopening trigger it produced;
 - **Review submissions log:** the log kept under [Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review), published with the record;
 - **Cause finding:** where the review, a recertification, or a reopened review found misalignment or a defect (see [§9.3.3 Cause of misalignment](#933-cause-of-misalignment)):
-  - whether its cause is design, operation, or not yet determined; and
+  - whether the misalignment or defect is design-caused, operating-caused, or not yet determined; and
   - the evidence relied on;
 - **Remediation readiness:** where misalignment or a defect was found ([Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct)):
   - the willingness and capacity findings and the evidence for each;
@@ -535,21 +535,21 @@ What a recertification or a reopened review finds decides what happens to the sy
 
 Where an evaluation, a recertification, or a reopened review finds misalignment, the record states its cause as one of:
 
-- **design:** the system or its process is built so that it produces misaligned results even when run as intended;
-- **operating:** the design is sound on its face, but the way the system is run, fed, or maintained makes its results misaligned; or
+- **design-caused:** the system or its process is built so that it produces misaligned results even when run as intended;
+- **operating-caused:** the design is sound on its face, but the way the system is run, fed, or maintained makes its results misaligned; or
 - **not yet determined:** the remedies for design and for operation both stay open until the forum finds the cause.
 
 The cause finding works within these limits:
 
-- Persistent misaligned results are misalignment, whatever the design says.
+- If the System keeps producing misaligned results, it is misaligned, even if its design looks sound on paper. A design that looks sound is not a defense.
 - A design that would produce misaligned results is misalignment before any such result appears.
 - The cause finding sets the remedy sought and the scope of any reopened review. It never decides whether the system is misaligned.
 
-Where the cause is design:
+Where the misalignment is design-caused:
 
 - the count of clean recertifications stays at zero until the redesign is in place and has been verified;
 - the forum that found the cause, or the next forum assigned under [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence), verifies the redesign inside the intake target of the Tier that matches the system's class, and may do so at the first provisional recertification;
-- an evaluation run before the redesign is verified does not count toward the clean total, however clean it is; and
+- a **component evaluation** (one component's part of a certification pass, as [Part B §6.1 Forum supervision and component roles](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) defines it) made before the redesign is verified does not count toward the clean total, however clean it is; and
 - a change to how the system is run does not meet this step.
 
 This adds to the step-down bullets above and does not replace them. The operator or any affected sentient may ask the forum to review the cause finding, and if the cause is changed, these rules stop applying.
@@ -569,23 +569,23 @@ Where an initial evaluation, a recertification, or a reopened review finds misal
 
 ##### 9.3.5 Class A reliance
 
-Provisional certification changes the scrutiny, the cadence, and the limits on reliance. Interruption is handled as follows:
+Compared with full certification, provisional certification means a shorter certification interval, so recertification comes sooner ([§9.3.1 The two statuses](#931-the-two-statuses)), and limits on reliance stated on the record ([§8.1 Minimum record contents](#81-minimum-record-contents)). Interruption is handled as follows:
 
 - By itself, provisional certification does not require interrupting a system whose interruption would cut off survival essentials before substitutes arrive;
 - interim protection and certification conditions under [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) handle that case;
-- the same holds while the count is held after a design-cause finding: the hold on the count never by itself interrupts a system that sentients depend on; and
+- the same holds while the count is held after a finding of design-caused misalignment: the hold on the count never by itself interrupts a system that sentients depend on; and
 - for as long as the hold lasts, the forum states the interim protection, the certification conditions on reliance, and the notice to dependents.
 
 <a id="936-verification-not-assertion"></a>
 
 ##### 9.3.6 Verification, not assertion
 
-Status, clean-recertification counts, and monitoring indicators must be verified and independently reviewable:
+A system's status, its count of clean recertifications, and its monitoring indicators must be verified, and the verification must be open to independent review. The system's say-so is not enough:
 
-- indicators may not be chosen or set so that misalignment cannot show;
-- a redesign is verified the same way: on evidence that others can check;
-- full certification does not suspend any reopening trigger in [§9 Recertification and Reopening](#9-recertification-and-reopening); and
-- evasion is treated under [§9.4 Non-evasion](#94-non-evasion).
+- Indicators may not be chosen or set in a way that means misalignment could never show.
+- A redesign is verified the same way: on evidence that others can check.
+- Full certification does not turn off any reason to reopen review. Every trigger in [§9 Recertification and Reopening](#9-recertification-and-reopening) still applies.
+- Evasion is treated under [§9.4 Non-evasion](#94-non-evasion).
 
 <a id="94-non-evasion"></a>
 
@@ -663,7 +663,7 @@ When the path opens, and how long it stays open:
 - **Stakeholders** are sentients the system materially affects or who materially rely on it, as found in evaluation and not as identified by the operator.
 - Until the path opens for a system not yet operating, the record still names it ([Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence)). The component, lead-integrity, and escalation paths in [§10.2 Contestability paths](#102-contestability-paths) are available throughout review.
 - The path stays open while the system has stakeholders. A system that gains stakeholders after certification reopens review under [§9 Recertification and Reopening](#9-recertification-and-reopening).
-- An aligned claim is not supported while a system with stakeholders has no open, contestable path.
+- A claim that a system is aligned is unsupported while the system has stakeholders but no open path for challenging the record.
 
 <a id="102-contestability-paths"></a>
 
@@ -702,7 +702,7 @@ Direct access to a forum path remains available when delay would materially enda
 - Read with: **Article III-A** (*survival-essential access where certification gates delivery*).
 - Subsections:
   - [§11.1](#111-what-a-system-certification-record-can-pass-on-to-standing) (*what a System Certification Record can pass on to standing*);
-  - [§11.2](#112-certified-systems-only) (*certified systems only*);
+  - [§11.2](#112-every-certification-outcome) (*every certification outcome*);
   - [§11.3](#113-verified-input-gate) (*verified-input gate*);
   - [§11.4](#114-contribution-standing-record) (*contribution standing record*); and
   - [§11.5](#115-violation-standing-record) (*violation standing record*).
@@ -711,7 +711,7 @@ Direct access to a forum path remains available when delay would materially enda
 
 <br>
 
-*In plain terms: certification can feed standing, but it is not standing. The System Certification Record of a certified system, good or bad, may supply verified facts to Chapter Eleven, but only through a strict gate. Chapters Eleven and Twelve alone decide standing records and their effects.*
+*In plain terms: certification can feed standing, but it is not standing. Any System Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Eleven, but only through a strict gate. Chapters Eleven and Twelve alone decide standing records and their effects.*
 
 This section is sub-phase **VIb** of Phase VI (Operate), after [§9 Recertification and Reopening](#9-recertification-and-reopening) and [§10 Challenging a Certification](#10-challenging-a-certification) (**VIa**). It is the standing bridge.
 
@@ -719,21 +719,26 @@ This section is sub-phase **VIb** of Phase VI (Operate), after [§9 Recertificat
 
 #### 11.1 What a System Certification Record can pass on to standing
 
-Only the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) of a certified system can pass facts on to standing, and which side they land on follows the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Nothing counts until it clears Chapter Eleven's verified-input gate, set out in [§11.3 Verified-input gate](#113-verified-input-gate) below:
+Only the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) can pass facts on to standing, and which side they land on follows the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Nothing counts until it clears Chapter Eleven's verified-input gate, set out in [§11.3 Verified-input gate](#113-verified-input-gate) below:
 
 - A System Certification Record showing that a system really lines up with the Rights Floor can supply verified **Flourishing**-side input.
 - A System Certification Record documenting that a system was misclassified, hid defects, or ran in ways that defeat the Rights Floor can supply verified **Accountability**-side input.
 
-<a id="112-certified-systems-only"></a>
+**What the bridge carries, and what it does not:**
 
-#### 11.2 Certified systems only
+- The bridge carries facts from the System Certification Record and nothing else.
+- An operation that passes any other information on to the standing process is not covered by this bridge or by the certified system's record.
+- Such an operation is its own [System](core_05.040_band_continuity.md#system), because a System is identified by what it actually does and not by the label or the certification next to it.
+- It is evaluated, classified, and certified as a System on its own.
+- What it passes on still has to clear the verified-input gate in [§11.3 Verified-input gate](#113-verified-input-gate).
 
-A system supplies standing input from its System Certification Record only in one of two cases:
+<a id="112-every-certification-outcome"></a>
 
-- it holds certification (provisional or full, with or without certification conditions); or
-- the facts arose while it held certification.
+#### 11.2 Every certification outcome
 
-A system that has never held certification supplies none through this chapter's System Certification Record bridge. Withdrawal, expiration, or any other loss of certification does not exclude verified facts that arose during the period it held certification. All such inputs remain subject to the verified-input gate below.
+A system supplies standing input from its System Certification Record whatever the outcome of the certification pass: certification (provisional or full, with or without certification conditions), conditional or deferred certification, denial, withdrawal, expiration, or any other result. That includes a system in its first certification and a system that has never held certification. Findings made during the certification process feed standing on the same terms for a first certification as for any later one. Withdrawal, expiration, or any other loss of certification does not exclude verified facts that arose during the period the system held certification. All such inputs remain subject to the verified-input gate below.
+
+A certification finding that a system is not yet aligned is not a violation by itself. A certification pass is where problems are meant to be found and fixed. Where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely. Standing input needs facts that support an adverse classification and attribution to the actor ([§11.5 Violation standing record](#115-violation-standing-record)), and a readiness finding that the operator was willing but not able to correct a problem supplies none ([Part B §7.5 Effects of Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation)). None of this covers negligence, concealment, or false evidence.
 
 <a id="113-verified-input-gate"></a>
 
@@ -763,7 +768,7 @@ Positive certification, validation, recertification, remediation completion, or 
 
 #### 11.5 Violation standing record
 
-These items, in the System Certification Record of a certified system, may supply verified input for a **violation standing record** where the facts support adverse classification and actor-specific attribution:
+These items, in the System Certification Record, may supply verified input for a **violation standing record** where the facts support adverse classification and actor-specific attribution:
 
 - withdrawal of certification;
 - concealed misclassification;

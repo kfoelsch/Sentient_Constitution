@@ -296,6 +296,17 @@ Every certification pass evaluates these seven items, which are the institutiona
    - The formation check is not a test of belief, although a verified statement that others deserve harm or discriminatory treatment is conduct and counts against the holder, as [Chapter One §7.5 Expression and the Harm Line](core_01.000_values_principles.md#75-expression-and-the-harm-line) sets out.
    - Items 3, 4, and 5 are read with this one, and a fact found under one of them is not found again under another.
 
+**Two more parts of Chapter Nine Part A §3 Whole-System Certification Evaluation.** [Chapter Nine Part A §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) also asks two things of a System that apply to an Institution's own conduct. They are part of the Institution's evaluation, each only where its own trigger is met:
+
+- **Systemic scope and risk factors:**
+  - **Applies when:** the Institution's own conduct puts systemic Risk in scope under the factors of [Chapter Nine Part A §3.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors): harms at the largest scales, how effects spread and build up (including what fails downstream when the Institution's own service fails), and how the Institution's activity could be misused or mis-scoped.
+  - **Evaluated under:** [Chapter Nine Part A §3.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors), including the risk evaluation and disclosure bridge in [§3.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge) and the defects in [§3.2.2 Defects and Misalignment](core_09.000_system_alignment_certification_evaluation.md#322-defects-and-misalignment).
+- **Data types and handling:**
+  - **Applies when:** the Institution's own conduct handles data types that are materially in scope, as [Chapter Nine Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) requires of every materially impactful certification record.
+  - **Evaluated under:** [Chapter Nine Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), with the infrastructure assurance in it scaled to the institution class.
+
+The rule in [§4 Evaluations Where Implicated](#4-evaluations-where-implicated) against repeating an evaluation already made on a cited System Certification Record applies to both.
+
 <a id="4-evaluations-where-implicated"></a>
 
 ### 4. Evaluations Where Implicated
@@ -455,7 +466,7 @@ The supervisory sequence in [Chapter Nine Part B §6.2 Supervisory sequence](cor
   - **Record seat:** the lead forum directs the record seat holder and does not hold the record seat on the same act.
 - **Institutional Forums hold the core components:**
   - **Necessary party:** an Institution is always a necessary party to its own certification.
-  - **What a component is:** a component is one part of the certification, and a forum that holds **component authority** over it checks the evidence and authority on that part against the governing standard and issues its own finding, within that authority. That forum's part of the certification pass is a **component pass** ([Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)).
+  - **What a component is:** a component is one part of the certification, and a forum that holds **component authority** over it checks the evidence and authority on that part against the governing standard and issues its own finding, within that authority. That forum's part of the certification pass is a **component evaluation** ([Chapter Nine Part B §6.1 Forum supervision and component roles](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles)).
   - **Held by Institutional Forums:** Institutional Forums hold component authority for institutional mandate, supervised scope, institution class, institutional-duty compliance, and the Rights Floor component for the Institution's own conduct ([Chapter Fourteen §4.3 Institutional Forums](core_14.000_forum.md#43-institutional-forums), [Chapter Nine Part B §6.1.6 Institutional Forums](core_09.005_system_alignment_certification_record_process.md#616-institutional-forums)).
 - **Other components:**
   - **Technical Forums:** supply evidence standards and any measurement the incentive or aggregate findings need.
@@ -676,7 +687,7 @@ Two points are specific to an Institution:
      That forum alone decides any suspension, receivership, structural separation, or dissolution. This Chapter creates none of them.
    - **To the forum over a named sentient:** Where the certification finding rests on a holder who is not authentic, or on a sentient's use of the Institution as a vehicle for a violation, the lead forum also refers the facts to the forum with jurisdiction over that sentient.
    - **To a lock or an Interim Hold:** For a verified finding of violation, the matter goes to the Institutional Authority Standing Lock under [Chapter Twelve §5.5 Special locks](core_12.000_standing_integration.md#55-special-locks). Where only the grounds for an [Interim Hold](core_05.035_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway). The hold rests on that sentient's authority, never on the Institution.
-6. **Standing:** Only through [§11 Relationship to Standing](#11-relationship-to-standing). A denial of a first certification, where the Institution held none before, supplies no standing input.
+6. **Standing:** Only through [§11 Relationship to Standing](#11-relationship-to-standing). This holds for a denial of a first certification too: the findings behind it may supply input under [§11.2 Every certification outcome](#112-every-certification-outcome), on the same terms as any other.
 
 An Institution that is Not Certified may continue to exist, publish its Institutional Charter, operate, and apply again on the terms of Chapter Nine Part B §7.4 (*Not a permanent bar*). It may not exercise new material authority until a recertification clears that authority ([§9.2.2 Recertification for new material authority](#922-recertification-for-new-material-authority)).
 
@@ -725,7 +736,7 @@ The record must identify, at minimum:
 - **Prior record:** the completed Institutional Certification Record this certification pass follows, if any;
 - **Institution classification:** the class under [§2.1 Institution class](#21-institution-class), with reasons, and any higher own-impact class that governs institutional-only items;
 - **Portfolio and cited System records:** each System the Institution operates, stewards, or materially controls, its System Charter version, and the System Certification Record cited, with its version, status, and expiry. A System with no record in force is listed with the reason;
-- **Institutional findings:** the findings on the seven items in [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation), and on any evaluation run under [§4 Evaluations Where Implicated](#4-evaluations-where-implicated), each with its evidence;
+- **Institutional findings:** the findings on the seven items in [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation), on the two further parts of Chapter Nine Part A §3 Whole-System Certification Evaluation that apply to the Institution (systemic risk, and data types and handling), and on any evaluation made under [§4 Evaluations Where Implicated](#4-evaluations-where-implicated), each with its evidence;
 - **Charter Role Map version in force** and the placement of each of the four seats for this certification pass, with the independent route;
 - **Forum supervision and functional-independence record:** the lead forum and each component authority, and how the seats were kept apart;
 - **Challenge paths:** the published record challenge path, its receiver, how to file, and its clocks, as [Chapter Nine Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) provides;
@@ -905,7 +916,117 @@ Before the forum decides not to clear, the Institution is told the blocker and t
 
 #### 9.3 Provisional and full certification
 
-A first Institutional Certification Record is provisional. Full certification is earned only at a recertification of an Institution holding provisional certification, on the three requirements of Chapter Nine Part C §9.3 Provisional and full certification: the required number of consecutive clean provisional recertifications, no current misalignment, and no monitoring indicator of impending misalignment. Failure and step-down work as that section states.
+*In plain terms: an institution earns trust in steps, as a system does. A new institution, or one that has failed a review, starts on a short leash and is re-checked often. Only an institution with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval. Failing a review sends it back to the short leash.*
+
+The status rules of [Chapter Nine Part C §9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) apply to an Institutional Certification Record, with the substitutions in [§9.1 Monitoring, recertification, and status](#91-monitoring-recertification-and-status). They are set out here step by step so that an Institution, and the sentients it affects, can follow them from this Chapter.
+
+<a id="931-the-two-statuses"></a>
+
+##### 9.3.1 The two statuses
+
+An Institution holds certification in one of two statuses. Each has its own certification interval:
+
+- **[Provisional certification](core_05.040_band_continuity.md#provisional-certification)** is the status of:
+  - an Institution's first certification, including a new Institution ([§1.3 Window for the first certification](#13-window-for-the-first-certification)); and
+  - an Institution certified after a failed recertification, or after a reopened review that found misalignment.
+
+  Provisional certification runs on a provisional interval, shorter than the full certification interval for the same institution class. Limits on reliance are stated on the record under [§8.1 Minimum record contents](#81-minimum-record-contents) (*Outcome, status, and reliance limits*).
+- **[Full certification](core_05.040_band_continuity.md#full-certification)** is earned only at a recertification of an Institution holding provisional certification, and only where all three of these hold:
+  1. the Institution has completed the required number of consecutive clean provisional recertifications: at least one, and more for higher institution classes, as the adopted document sets;
+  2. no misalignment is current: the record shows no open misalignment, unremedied defect, overdue check, or failed regression testing; and
+  3. no monitoring indicator points to impending misalignment: the monitoring triggers and trend metrics stated on the record show no threshold crossed and no trend toward one.
+
+Full certification runs on the class-scaled certification interval. It remains time-bound and is not a permanent approval.
+
+A recertification is **clean** when it meets requirements 2 and 3.
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guide (non-operative): certification status</span></strong></summary>
+
+> This table summarizes §9.3. Where it differs from the text, the text controls.
+>
+> | | Provisional certification | Full certification |
+> |---|-------------------------|------------------|
+> | **Who holds it** | An Institution with a first certification, including a new Institution; an Institution certified after a failed recertification or a reopened review that found misalignment | An Institution that earned it at a recertification while holding provisional certification |
+> | **How it is earned** | Granted with a certification outcome | Required number of consecutive clean provisional recertifications (at least one), no current misalignment, and no indicator of impending misalignment |
+> | **Certification interval** | Provisional interval, shorter than the full certification interval for the same institution class | The class-scaled interval; still time-bound |
+> | **If a recertification fails** | Consequences under Chapter Nine Part B §7 apply; next certification is provisional and the clean count restarts at zero | Consequences under Chapter Nine Part B §7 apply; next certification is provisional and the clean count restarts at zero |
+> | **If an indicator of impending misalignment shows** | Stays provisional; the count does not advance | Steps down to provisional |
+
+</details>
+
+<a id="932-failure-and-step-down"></a>
+
+##### 9.3.2 Failure and step-down
+
+What a recertification or a reopened review finds decides what happens to the Institution's status:
+
+- A recertification that finds current misalignment of the Institution is a **failed** recertification. The consequences in [Chapter Nine Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) apply, as [§7 Certification Outcomes](#7-certification-outcomes) states for an Institution. The next certification the Institution can earn is provisional certification, however clean the next check is. Its count of clean recertifications restarts at zero.
+- A recertification that finds no current misalignment but shows an indicator of impending misalignment is not a failure, and it is not clean. An Institution holding provisional certification stays provisional, and its count does not advance. An Institution holding full certification steps down to provisional certification.
+- A reopened review under [§9 Recertification and Reopening](#9-recertification-and-reopening) that finds misalignment has the same effect as a failed recertification.
+- A failed, withdrawn, or expired System certification that the Institution cites is not a recertification of the Institution, and it does not fail the Institution by itself. [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications) sets its effect in two steps:
+  - It is always an indicator of impending misalignment of the Institution. An Institution holding provisional certification stays provisional, and its count does not advance. An Institution holding full certification steps down to provisional certification.
+  - It counts as a failure of the Institution itself (current misalignment, so a failed recertification) only if the review of the System found that the Institution caused the problem: through how it is governed, the incentives it sets, how it resources the System, its Institutional Charter, or the portfolio of Systems it runs. If the problem came from somewhere else, the Institution is not failed on that account, and only the warning sign in the first step applies.
+
+<a id="933-cause-of-misalignment"></a>
+
+##### 9.3.3 Cause of misalignment
+
+Where an evaluation, a recertification, or a reopened review finds misalignment of the Institution, the record states its cause as one of:
+
+- **design-caused:** the Institution or its process is built so that it produces misaligned results even when run as intended;
+- **operating-caused:** the design is sound on its face, but the way the Institution is run, resourced, or maintained makes its results misaligned; or
+- **not yet determined:** the remedies for design and for operation both stay open until the forum finds the cause.
+
+The cause finding works within these limits:
+
+- If the Institution keeps producing misaligned results, it is misaligned, even if its design looks sound on paper. A design that looks sound is not a defense.
+- A design that would produce misaligned results is misalignment before any such result appears.
+- The cause finding sets the remedy sought and the scope of any reopened review. It never decides whether the Institution is misaligned.
+
+Where the misalignment is design-caused:
+
+- the count of clean recertifications stays at zero until the redesign is in place and has been verified;
+- the forum that found the cause, or the next forum assigned under [§6.2 Forum roles and sequence](#62-forum-roles-and-sequence), verifies the redesign inside the intake target of the Tier that matches the Institution's class, and may do so at the first provisional recertification;
+- a **component evaluation** (one component's part of a certification pass, as [Chapter Nine Part B §6.1 Forum supervision and component roles](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) defines it) made before the redesign is verified does not count toward the clean total, however clean it is; and
+- a change to how the Institution is run does not meet this step.
+
+This adds to the step-down bullets above and does not replace them. The Institution or any affected sentient may ask the forum to review the cause finding, and if the cause is changed, these rules stop applying.
+
+Where the misalignment is in a System the Institution cites, the Institution's review does not redo the System's review. The lead forum takes the cause finding already made for the System and uses it as it stands. It decides one question only: whether the cause lies in the Institution. [§9.5 Cascade from System certifications](#95-cascade-from-system-certifications) sets out the steps.
+
+<a id="934-tier-windows"></a>
+
+##### 9.3.4 Tier windows
+
+Where an initial evaluation, a recertification, or a reopened review finds misalignment of the Institution:
+
+- the matter is classified under the materiality tiers of [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline);
+- it is presumptively placed in the tier that matches the Institution's class (for example, a misaligned Class A Institution is presumptively Tier A);
+- intake, evidence preservation, interim protection, and the decision run on that tier's windows and outer bounds; and
+- an overrun is reviewed as that section requires.
+
+<a id="935-class-a-reliance"></a>
+
+##### 9.3.5 Class A reliance
+
+Compared with full certification, provisional certification means a shorter certification interval, so recertification comes sooner ([§9.3.1 The two statuses](#931-the-two-statuses)), and limits on reliance stated on the record ([§8.1 Minimum record contents](#81-minimum-record-contents)). It never bars an Institution from operating ([§1.2 No permission and no gate on forming or running](#12-no-permission-and-no-gate-on-forming-or-running)). Interruption is handled as follows:
+
+- By itself, provisional certification does not require interrupting an Institution whose interruption would cut off survival essentials before substitutes arrive;
+- interim protection and certification conditions under [Chapter Nine Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) handle that case;
+- the same holds while the count is held after a finding of design-caused misalignment: the hold on the count never by itself interrupts an Institution that sentients depend on; and
+- for as long as the hold lasts, the forum states the interim protection, the certification conditions on reliance, and the notice to dependents.
+
+<a id="936-verification-not-assertion"></a>
+
+##### 9.3.6 Verification, not assertion
+
+An Institution's status, its count of clean recertifications, and its monitoring indicators must be verified, and the verification must be open to independent review. The Institution's say-so is not enough:
+
+- Indicators may not be chosen or set in a way that means misalignment could never show.
+- A redesign is verified the same way: on evidence that others can check.
+- Full certification does not turn off any reason to reopen review. Every trigger in [§9.2 Reopening triggers](#92-reopening-triggers) still applies.
+- Evasion is treated under [§9.4 Non-evasion](#94-non-evasion).
 
 <a id="94-non-evasion"></a>
 
@@ -945,30 +1066,79 @@ When a System Certification Record the Institution cites **fails** (a recertific
 
 - Upstream:
   - [Chapter Nine Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification) (9.010 §10), including [§10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens) and [§10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths);
+  - [Chapter Nine Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain) (*the order the challenge paths run in*);
+  - [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*);
   - [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality).
 - Downstream: [§11](#11-relationship-to-standing).
 - Read with:
-  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record);
+  - [Contestability](core_05.035_band_accountability.md#contestability).
 
 </details>
 
 <br>
 
-This section is **Phase VI, Operate** for an Institution.
+*In plain terms: an Institutional Certification Record only works if sentients can push back when it is wrong. A challenge has to be real: able to reopen review, pause reliance, and reach the forum with authority over the point in dispute. A complaints box that changes nothing does not count.*
 
-[Chapter Nine Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification), [§10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens), and [§10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) apply to the Institutional Certification Record.
+This section is **Phase VI, Operate** for an Institution. It covers how affected parties challenge an Institutional Certification Record. [Chapter Nine Part C §10 Challenging a Certification](core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification), [§10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens), and [§10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) apply to the Institutional Certification Record. They are set out here step by step so that the sentients an Institution affects can follow them from this Chapter.
+
+Affected parties must have real ways to challenge the record:
+
+- An Institutional Certification Record must state the [contestability paths](#102-contestability-paths) set out in §10.2 Contestability paths. They must be enough for affected parties to contest:
+  - record content;
+  - scope;
+  - classification assumptions;
+  - evidence reliance;
+  - supervisory integrity;
+  - outcome; or
+  - continued reliance.
+- Challenge paths must work and be easy to use, not ceremonial.
+- A challenge must be able to:
+  - reopen review;
+  - [stay](core_05.035_band_accountability.md#stay) or limit reliance where material error or integrity risk is credibly shown; and
+  - route to the forum family with lawful jurisdiction over the challenged point.
+- These duties scale with institution class and material impact.
+- They do not go away because of how an Institution or its activity is labeled, where material impact is present.
 
 <a id="101-when-the-path-opens"></a>
 
 #### 10.1 When the path opens
 
-The path opens when the outcome is published. Where the Institution is already operating, it is already open.
+*In plain terms: the challenge path has to be open before anyone is asked to rely on a certification. For an Institution with no outcome yet, it opens with the first outcome. For an Institution that is already operating, it is already open.*
+
+When the path opens, and how long it stays open:
+
+- The published record challenge path opens when the Institution's first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, from the start.
+- An Institution that is already operating already has stakeholders. So its path is already open, or it opens when its record opens. That covers an Institution under an [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) Adoption Transition window, a recertification, and a reopened or fresh review.
+- **Stakeholders** are sentients the Institution materially affects or who materially rely on it, as found in evaluation and not as identified by the Institution.
+- Until the path opens for an Institution with no outcome yet, the record still names it ([§6.2 Forum roles and sequence](#62-forum-roles-and-sequence)). The component, lead-integrity, and escalation paths in [§10.2 Contestability paths](#102-contestability-paths) are available throughout review.
+- The path stays open while the Institution has stakeholders. An Institution that gains stakeholders after certification reopens review under [§9 Recertification and Reopening](#9-recertification-and-reopening).
+- A claim that an Institution is aligned is unsupported while the Institution has stakeholders but no open path for challenging the record.
 
 <a id="102-contestability-paths"></a>
 
 #### 10.2 Contestability paths
 
-A challenge about a System's certification goes to that System's record and is not heard in the Institution's pass. A challenge to the Institution's class under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) follows that entry's Challenge route, and related challenges are heard as one matter.
+*In plain terms: a record has to say where to push back. There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalation. Where waiting would do harm, a challenger can go straight to a forum.*
+
+An Institutional Certification Record must name the four challenge paths below, so anyone affected knows where to take a dispute. The paths apply Chapter Fourteen's [Dispute sequencing](core_14.000_forum.md#dispute-sequencing) to Institutional Certification Records. They are routes into the forums, not a new forum, and Chapter Fourteen still decides which forum has authority. The order they run in is in [Chapter Nine Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain).
+
+- **Published record challenge path** — the ordinary first step for an ordinary dispute about the Institutional Certification Record. The record names the contest seat ([§6.1 Four seats in an institutional certification](#61-four-seats-in-an-institutional-certification)), which sits outside the Institution's own control line:
+  - who receives the challenge;
+  - how to file it; and
+  - that windows under [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
+
+  An internal review by the Institution, or its own report or attestation, is not this path.
+- **Component forum path** — for a challenge to one finding in the record. It goes to the Chapter Fourteen forum family that has authority over that finding.
+- **Lead-integrity path** — for a challenge to how the lead forum ran the process, such as capture, hidden information, reviewing its own work, or calling certification finished too soon. It goes through Integrity routing, with a backup forum so the lead forum does not judge itself.
+- **Escalation path** — for a dispute that needs to move to a different forum or a higher one under Chapter Fourteen. That means transfer, sending a question to another forum for ruling, backup routing, or escalation from one forum family to another. It applies when the main stakes belong elsewhere, constitutional validity is in question, a structural fix is needed, two forum families are deadlocked, or a forum would otherwise be judging itself.
+
+Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or use up [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) windows.
+
+Two points are specific to an Institution:
+
+- A challenge to a System's own certification goes to that System's record. It is not heard in the Institution's certification pass.
+- A challenge to the Institution's class goes by the Challenge route in [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality). Challenges on related points are heard together as one matter.
 
 <a id="11-relationship-to-standing"></a>
 
@@ -980,6 +1150,7 @@ A challenge about a System's certification goes to that System's record and is n
 - Upstream:
   - [§6](#6-forum-process) through [§9](#9-recertification-and-reopening);
   - [Chapter Nine Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (9.010 §11);
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [Verified Inputs for Standing](core_05.035_band_accountability.md#verified-inputs-for-standing).
 - Downstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*standing records and verified-input gate*); [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*standing effects and integration*).
 - Read with:
@@ -990,15 +1161,83 @@ A challenge about a System's certification goes to that System's record and is n
 
 <br>
 
-*In plain terms: like a system's certification, an institution's can feed standing through a strict gate and never replaces standing.*
+*In plain terms: certification can feed standing, but it is not standing. An Institutional Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Eleven, but only through a strict gate. Chapters Eleven and Twelve alone decide standing records and their effects.*
 
-This section is **Phase VI, Operate** for an Institution.
+This section is **Phase VI, Operate** for an Institution. It is the standing bridge. [Chapter Nine Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) applies to an Institutional Certification Record, with the Institution as the actor to whom facts are attributed. It is set out here step by step so that an Institution, and the sentients it affects, can follow it from this Chapter.
 
 <a id="111-what-may-pass-to-standing"></a>
 
 #### 11.1 What may pass to standing
 
-[Chapter Nine Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) applies to an Institutional Certification Record, with the Institution as the actor to whom facts are attributed. Only the [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) of a certified Institution may supply input, and only through Chapter Eleven's verified-input gate, and in one of two cases: it holds certification, or the facts arose while it held certification. The record must be bounded, traceable, contestable, and verified under [§6 Forum Process](#6-forum-process). Positive certification, recertification, and release from a certification condition may supply verified input for a contribution standing record. Withdrawal, concealed misclassification, failed recertification, fraudulent evidence (including a formation check statement that hides who controls a covered office), material violation of a certification condition, and verified operation outside certified scope may supply verified input for a violation standing record where the facts support adverse classification and actor-specific attribution. This bridge does not decide what other verified inputs Chapter Eleven accepts about an Institution.
+Only the [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) can pass facts on to standing, and which side they land on follows the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Nothing counts until it clears Chapter Eleven's verified-input gate ([Chapter Eleven §3 Verification and record requirements](core_11.000_standing_assessment.md#verified-inputs-for-standing)), as [§11.3 Verified-input gate](#113-verified-input-gate) below sets out:
+
+- An Institutional Certification Record showing that the Institution's own conduct really lines up with the Rights Floor can supply verified **Flourishing**-side input, for a **contribution standing record** ([§11.4 Contribution standing record](#114-contribution-standing-record)).
+- An Institutional Certification Record documenting that the Institution was misclassified, hid defects, or operated in ways that defeat the Rights Floor can supply verified **Accountability**-side input, for a **violation standing record** ([§11.5 Violation standing record](#115-violation-standing-record)).
+
+This bridge covers only what the Institutional Certification Record can pass on. Any other verified input about an Institution, such as a standing finding made in a forum case, reaches standing by its own route under Chapter Eleven. Chapter Eleven decides which other inputs it accepts, and this bridge neither adds to them nor limits them.
+
+**What the bridge carries, and what it does not:**
+
+- The bridge carries facts from the Institutional Certification Record and nothing else.
+- An operation that passes any other information on to the standing process, whether the Institution runs it directly or through a System, is not covered by this bridge or by that record.
+- Such an operation is its own [System](core_05.040_band_continuity.md#system), because a System is identified by what it actually does and not by the label or the certification next to it.
+- It is evaluated, classified, and certified as a System on its own.
+- What it passes on still has to clear the verified-input gate in [§11.3 Verified-input gate](#113-verified-input-gate).
+
+<a id="112-every-certification-outcome"></a>
+
+#### 11.2 Every certification outcome
+
+An Institution supplies standing input from its Institutional Certification Record whatever the outcome of the certification pass: certification (provisional or full, with or without certification conditions), conditional or deferred certification, denial, withdrawal, expiration, or any other result. That includes an Institution in its first certification and an Institution that has never held certification. Findings made during the certification process feed standing on the same terms for a first certification as for any later one. Withdrawal, expiration, or any other loss of certification does not exclude verified facts that arose during the period the Institution held certification. All such inputs remain subject to the verified-input gate below.
+
+A certification finding that an Institution is not yet aligned is not a violation by itself. A certification pass is where problems are meant to be found and fixed. Where the Institution makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely. Standing input needs facts that support an adverse classification and attribution to the Institution as the actor ([§11.5 Violation standing record](#115-violation-standing-record)), and a readiness finding that the Institution was willing but not able to correct a problem supplies none ([Chapter Nine Part B §7.5 Effects of Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation)). None of this covers negligence, concealment, or false evidence.
+
+<a id="113-verified-input-gate"></a>
+
+#### 11.3 Verified-input gate
+
+An Institutional Certification Record may feed Chapter Eleven standing only when it is bounded, traceable, contestable (through the challenge paths in [§10 Challenging a Certification](#10-challenging-a-certification)), and verified under all of these:
+
+- the institution class evaluation ([§2 Institution Class Evaluation](#2-institution-class-evaluation)), which settles what institution class the Institution is in, the whole-Institution evaluation ([§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation)), and the data types and handling evaluation ([Chapter Nine Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)), which settles what data the Institution handles and how;
+- every evaluation in [§4 Evaluations Where Implicated](#4-evaluations-where-implicated) and [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations) that applies to the Institution's own conduct, meaning each one whose trigger is met;
+- the record's own transparency and auditability rules ([§8.2 Transparency and auditability of the record](#82-transparency-and-auditability-of-the-record)) and the forum review rules ([§6 Forum Process](#6-forum-process)); and
+- Chapters Two through Four, and whichever Chapter Fourteen process applies.
+
+<a id="114-contribution-standing-record"></a>
+
+#### 11.4 Contribution standing record
+
+Positive certification, validation, recertification, remediation completion, or fulfillment of or release from a certification condition may supply verified input for a **contribution standing record** where it demonstrates:
+
+- constitutional benefit;
+- competent stewardship;
+- safe delegation readiness;
+- system optimization;
+- diligence; or
+- constitutional alignment.
+
+<a id="115-violation-standing-record"></a>
+
+#### 11.5 Violation standing record
+
+These items, in the Institutional Certification Record, may supply verified input for a **violation standing record** where the facts support adverse classification and attribution to the Institution as the actor:
+
+- withdrawal of certification;
+- concealed misclassification;
+- failed recertification;
+- failed or missing regression testing on recertification, where required;
+- fraudulent certification evidence, including a formation check statement that hides who controls a covered office;
+- material violation of a certification condition;
+- verified operation outside certified scope;
+- infrastructure fragility inappropriate for the institution class; and
+- a material defect found under an evaluation that was required, including:
+  - a data-handling defect under [Chapter Nine Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
+  - a risk-evaluation or risk-disclosure defect where systemic risk was in scope under [Chapter Nine Part A §3.2.2 Defects and Misalignment](core_09.000_system_alignment_certification_evaluation.md#322-defects-and-misalignment);
+  - footprint misrepresentation where disclosure was required under [Chapter Nine Part A §5.1 Ecological Footprint Evaluation](core_09.000_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation);
+  - a nondiscrimination or proxy-discrimination defect under [Chapter Nine Part A §5.4 Nondiscrimination Evaluation](core_09.000_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation);
+  - an accessibility or substantive-participation defect under [Chapter Nine Part A §5.5 Accessibility Evaluation](core_09.000_system_alignment_certification_evaluation.md#55-accessibility-evaluation);
+  - an educational-capability, assessment-opacity, credential-gatekeeping, or imposed-obsolescence defect under [Chapter Nine Part A §5.2 Educational Capability and Learning-System Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation); or
+  - a trustworthiness, false-trust, perverse-incentive, inaccessible-challenge, or recovery-integrity defect under [Chapter Nine Part A §5.6 Trustworthiness and System-Reliance Integrity Evaluation](core_09.000_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation).
 
 ---
 

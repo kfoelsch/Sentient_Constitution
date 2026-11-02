@@ -214,7 +214,19 @@
     },
     {
       "avoid": "pass / passes (bare noun: the pass, a pass, each pass)",
-      "prefer": "certification pass (a whole run of a certification, validation, or recertification), component pass (one component's part of it), or review pass; passing result for a result; the verb (passes the tests), 'pass of ...', pass/fail, and qualified compounds (first pass, full pass) stay; enforced by avoid-bare-pass"
+      "prefer": "certification pass (a whole run of a certification, validation, or recertification), component evaluation (one component's part of it), or review pass; passing result for a result; the verb (passes the tests), 'pass of ...', pass/fail, and qualified compounds (first pass, full pass) stay; enforced by avoid-bare-pass"
+    },
+    {
+      "avoid": "design cause / design-cause / the cause is design (retired name)",
+      "prefer": "design-caused (a finding of design-caused misalignment; the other kind is operating-caused; or not yet determined), Chapter Nine Part C section 9.3.3; the verb (the design causes harm) stays; enforced by avoid-design-cause"
+    },
+    {
+      "avoid": "component pass / component passes (retired name)",
+      "prefer": "component evaluation (one component's part of a certification pass; Chapter Nine Part B section 6.1); certification pass and review pass stay; enforced by avoid-component-pass"
+    },
+    {
+      "avoid": "run / runs (bare noun: the run, a run, each run, the runs)",
+      "prefer": "certification pass or review pass; or name the thing (parallel run of old and new measures, test run); the verb (the system runs, checks run), idioms (the long run), run sheet, 'run of ...', and 'run by ...' stay; enforced by avoid-bare-run"
     },
     {
       "avoid": "placement / placements (bare noun: the placement, a placement, those placements)",

@@ -516,7 +516,7 @@ def run_internal_regression_checks() -> None:
     pass_findings = scan_avoid_bare_pass(
         "core_10.000_institutional_alignment_certification.md",
         "Every pass evaluates the items.\n"
-        "A certification pass and a component pass are qualified forms, as is a first pass.\n"
+        "A certification pass and a review pass are qualified forms, as is a first pass.\n"
         "The system passes the tests and must pass them; tests that pass are fine.\n"
         "It is a pass/fail result, or a pass or fail, or a pass of the review.\n"
         "Keep the passes separate.\n"
@@ -528,6 +528,47 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError("Internal regression failed: bare pass was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_bare_pass("doc_architecture.md", "The pass routes.\n"):
         raise RuntimeError("Internal regression failed: bare pass was flagged in the exempt move-log file.")
+    run_findings = scan_avoid_bare_run(
+        "core_10.000_institutional_alignment_certification.md",
+        "Every run evaluates the items.\n"
+        "A parallel run, a test run, and the long run are qualified; so is the run sheet and a run of results.\n"
+        "The system runs the tests; checks run on the tier windows; it is a small business, one run by a few.\n"
+        "Keep the runs separate.\n"
+        "See [the review](core_10.000_institutional_alignment_certification.md#the-run) and `a run` in code.\n",
+    )
+    if len(run_findings) != 2:
+        raise RuntimeError("Internal regression failed: bare run was not flagged or qualified forms broke.")
+    if not scan_avoid_bare_run("core_07.000_charters.md", "The run routes.\n"):
+        raise RuntimeError("Internal regression failed: bare run was not flagged (AUDIT-SCOPE-01).")
+    if scan_avoid_bare_run("doc_architecture.md", "The run routes.\n"):
+        raise RuntimeError("Internal regression failed: bare run was flagged in the exempt move-log file.")
+    component_pass_findings = scan_avoid_component_pass(
+        "core_10.000_institutional_alignment_certification.md",
+        "Each component pass checks its evidence.\n"
+        "The Component Passes are separate.\n"
+        "A component evaluation, a certification pass, and a component finding are the current terms.\n"
+        "See [the review](core_10.000_institutional_alignment_certification.md#component-pass) and `component pass` in code.\n",
+    )
+    if len(component_pass_findings) != 2:
+        raise RuntimeError("Internal regression failed: the retired term component pass was not flagged, or current terms were.")
+    if not scan_avoid_component_pass("core_07.000_charters.md", "The component pass routes.\n"):
+        raise RuntimeError("Internal regression failed: component pass was not flagged (AUDIT-SCOPE-01).")
+    if scan_avoid_component_pass("doc_architecture.md", "The component pass routes.\n"):
+        raise RuntimeError("Internal regression failed: component pass was flagged in the exempt move-log file.")
+    design_cause_findings = scan_avoid_design_cause(
+        "core_10.000_institutional_alignment_certification.md",
+        "Where the cause is design, the count stays at zero.\n"
+        "The hold applies after a design-cause finding.\n"
+        "A design cause is recorded.\n"
+        "A finding of design-caused misalignment, an operating-caused one, and a design that causes harm are current wording.\n"
+        "See [the review](core_10.000_institutional_alignment_certification.md#design-cause) and `design cause` in code.\n",
+    )
+    if len(design_cause_findings) != 3:
+        raise RuntimeError("Internal regression failed: the retired term design cause was not flagged, or current wording was.")
+    if not scan_avoid_design_cause("core_07.000_charters.md", "The design cause routes.\n"):
+        raise RuntimeError("Internal regression failed: design cause was not flagged (AUDIT-SCOPE-01).")
+    if scan_avoid_design_cause("doc_architecture.md", "The design cause routes.\n"):
+        raise RuntimeError("Internal regression failed: design cause was flagged in the exempt move-log file.")
     condition_findings = scan_avoid_bare_condition(
         "core_09.005_system_alignment_certification_record_process.md",
         "A certification can carry certification conditions, and a certification condition ends by fulfillment or release.\n"
@@ -1109,7 +1150,7 @@ def scan_avoid_bare_placement(rel_path: str, text: str) -> list[Finding]:
 
 # Bare **pass** (custodian decision, 2026-10-31): the noun always says which pass it is. "Pass" is also a verb ("it passes the tests") and
 # a result ("a pass"), so "the pass", "a pass", or "each pass" alone does not say that one run of a certification or review is meant.
-# Say **certification pass** (also review pass, recertification pass; **component pass** for one component's part of a certification pass), or name the certification; for the result say **passing result**.
+# Say **certification pass** (also review pass, recertification pass; **component evaluation** for one component's part of a certification pass), or name the certification; for the result say **passing result**.
 # Only the noun after a determiner is matched, so the verb (passes the tests, must pass, that pass), qualified forms (certification pass,
 # first pass, full pass), "pass of ..." (which names what is passed), and the pairing "pass/fail" or "pass or fail" stay. "That pass" /
 # "that passes" are not matched because "that" can be a relative pronoun before the verb, and the plural "passes" is matched only after
@@ -1157,6 +1198,113 @@ def scan_avoid_bare_pass(rel_path: str, text: str) -> list[Finding]:
         check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
         if _bare_pass_spans(check_line):
             findings.append(Finding(file=rel_path, line=idx, rule="avoid-bare-pass", text=raw.strip()))
+    return findings
+
+
+# Retired term **design cause** (custodian decision, 2026-11-02): a misalignment whose cause is the way the System or Institution is built is
+# **design-caused** (Chapter Nine Part C section 9.3.3), and a finding of it is "a finding of design-caused misalignment". "Design cause" /
+# "design-cause" and "the cause is design" were the earlier forms and are rejected so that the two names do not drift back in together. The verb
+# ("the design causes harm") and the new form ("design-caused") stay. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).
+_AVOID_DESIGN_CAUSE_EXEMPT = frozenset({"doc_architecture.md"})
+_DESIGN_CAUSE_WORD = re.compile(
+    r"(?<![A-Za-z0-9-])(?:design[- ]causes?|cause\s+(?:is|was|being)\s+design)(?![A-Za-z0-9-])",
+    re.IGNORECASE,
+)
+
+
+def scan_avoid_design_cause(rel_path: str, text: str) -> list[Finding]:
+    """Reject the retired term **design cause** (say **design-caused misalignment**)."""
+    if rel_path in _AVOID_DESIGN_CAUSE_EXEMPT:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        if _DESIGN_CAUSE_WORD.search(check_line):
+            findings.append(Finding(file=rel_path, line=idx, rule="avoid-design-cause", text=raw.strip()))
+    return findings
+
+
+# Retired term **component pass** (custodian decision, 2026-11-02): one component's part of a certification pass is a **component evaluation**
+# (Chapter Nine Part B section 6.1). "Component pass" was the earlier name (Hundred and seventy-eighth move) and is rejected so that the two names
+# do not drift back in together. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), whose dated move log keeps the old name.
+_AVOID_COMPONENT_PASS_EXEMPT = frozenset({"doc_architecture.md"})
+_COMPONENT_PASS_WORD = re.compile(r"(?<![A-Za-z0-9-])component\s+passe?s?(?![A-Za-z0-9-])", re.IGNORECASE)
+
+
+def scan_avoid_component_pass(rel_path: str, text: str) -> list[Finding]:
+    """Reject the retired term **component pass** (say **component evaluation**)."""
+    if rel_path in _AVOID_COMPONENT_PASS_EXEMPT:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        if _COMPONENT_PASS_WORD.search(check_line):
+            findings.append(Finding(file=rel_path, line=idx, rule="avoid-component-pass", text=raw.strip()))
+    return findings
+
+
+# Bare **run** (custodian decision, 2026-11-02): the noun always says which run it is. "Run" is mostly a verb in the corpus ("the decision runs
+# on that tier's windows", "an evaluation run before ...", "one run by a single sentient"), and as a noun it does not say whether a certification
+# pass, a component evaluation, a test, or a parallel comparison is meant. Say **certification pass**, **review pass**, or name the
+# thing. Only the noun directly after a determiner is matched: the singular after a, an, the, this, each, every, another, any, its, their, our,
+# same, next, one; the plural after the, these, those, other. The verb (the system runs, checks run, to run), qualified compounds (parallel run,
+# test run), idioms with a word between (the long run, the short run), "run sheet", "run of ...", and "run by ..." (the participle) stay.
+# Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01).
+_BARE_RUN_EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
+_RUN_WORD = re.compile(r"(?<![A-Za-z0-9-])(runs?)(?![A-Za-z0-9-])", re.IGNORECASE)
+_RUN_SINGULAR_PRECEDERS = frozenset(
+    "a an the this each every another any its their our same next one".split(),
+)
+_RUN_PLURAL_PRECEDERS = frozenset({"the", "these", "those", "other"})
+_RUN_ALLOWED_FOLLOWERS = re.compile(r"\s*(?:sheets?\b|of\b|by\b)", re.IGNORECASE)
+
+
+def _bare_run_spans(check_line: str) -> list[tuple[int, int]]:
+    spans: list[tuple[int, int]] = []
+    for match in _RUN_WORD.finditer(check_line):
+        form = match.group(1).lower()
+        if _RUN_ALLOWED_FOLLOWERS.match(check_line[match.end() :]):
+            continue
+        word = _pathway_preceding_word(check_line, match.start())
+        allowed = _RUN_SINGULAR_PRECEDERS if form == "run" else _RUN_PLURAL_PRECEDERS
+        if word in allowed:
+            spans.append((match.start(1), match.end(1)))
+    return spans
+
+
+def scan_avoid_bare_run(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare noun **run** / **runs** after a determiner: every use must say which run (certification pass, review pass, ...)."""
+    if rel_path in _BARE_RUN_EXEMPT:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        if _bare_run_spans(check_line):
+            findings.append(Finding(file=rel_path, line=idx, rule="avoid-bare-run", text=raw.strip()))
     return findings
 
 
@@ -2068,7 +2216,10 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-bare-recheck`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **re-check** / **re-checks** / **recheck** / **rechecks** unless it follows **formation** → say **formation re-check**, or in other contexts **recertification**, **certification interval**, or the thing reassessed. **Allowed:** the verb forms (**re-checked**, **re-checking**) and **formation re-check**.",
         "- **`avoid-bare-level`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, ordinary degree senses (**at the level of**, **a level that**, **the level at which**), and any qualified compound. \"Tier\" names only the forum urgency tiers.",
         "- **`avoid-certify-question`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject \"certify a question\" and its family (**certified question(s)**, **uncertified questions**, **certification questions**, a question the lead forum **certifies**, the lists **refer, certify, or stay** and **referral, certification, and stay**, **certify or escalate**, and the heading **Escalation and certification**) → say **question for ruling** and **send for ruling** (Chapter Fourteen §5), with **refer**, **transfer**, and **stay** as the other moves. **Allowed:** every certification outcome and process (provisional, full, conditional, deferred, system, institutional, recertification) and **certification challenge**.",
-        "- **`avoid-bare-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **pass** after a determiner (**the pass**, **a pass**, **each pass**, **the passes**) → say **certification pass** (a whole run of a certification, validation, or recertification), **component pass** (one component's part of it; Chapter Nine Part B §6), or **review pass**; for a result say **passing result**. **Allowed:** the verb (**passes the tests**, **must pass**), **pass of …**, **pass/fail** and **pass or fail**, and any qualified compound (**first pass**, **full pass**).",
+        "- **`avoid-bare-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **pass** after a determiner (**the pass**, **a pass**, **each pass**, **the passes**) → say **certification pass** (a whole run of a certification, validation, or recertification), **component evaluation** (one component's part of it; Chapter Nine Part B §6.1), or **review pass**; for a result say **passing result**. **Allowed:** the verb (**passes the tests**, **must pass**), **pass of …**, **pass/fail** and **pass or fail**, and any qualified compound (**first pass**, **full pass**).",
+        "- **`avoid-design-cause`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **design cause** / **design-cause** and the phrase **the cause is design** → say **design-caused** (a finding of **design-caused misalignment**; Chapter Nine Part C §9.3.3). **Allowed:** **design-caused**, **operating-caused**, and the verb (**the design causes harm**).",
+        "- **`avoid-component-pass`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the retired term **component pass** / **component passes** → say **component evaluation** (one component's part of a certification pass; Chapter Nine Part B §6.1).",
+        "- **`avoid-bare-run`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **run** / **runs** after a determiner (**the run**, **a run**, **each run**, **the runs**) → say **certification pass** or **review pass**, or name the thing. **Allowed:** the verb (**the system runs**, **checks run**), qualified compounds (**parallel run**, **test run**), idioms with a word between (**the long run**), **run sheet**, **run of …**, and **run by …** (the participle).",
         "- **`avoid-bare-condition`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), on a line that speaks of certification (certif-, go-live, reopening trigger, fulfillment, bounded authorization), reject the noun **condition** / **conditions** after a determiner, preposition, conjunction, or possessive, or at the start of a bullet or cell (**the conditions**, **with or without conditions**, **release from a condition**) → say **certification condition(s)**. Also rejects **condition deadline**, **condition fulfillment**, **condition release**, and **condition violation** on any line unless **certification** comes first. **Allowed:** any qualified form (**certification condition**, **continuing certification condition**, **operating conditions**, **Safe Conditions**, **corrective conditions** of a standing lock), the verb (**conditions the act**), and the other senses on lines that do not speak of certification.",
         "- **`avoid-bare-placement`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **placement** / **placements** after a determiner or generic word (**the placement**, **a placement**, **those placements**) or at the start of a sentence, bullet, or cell → say what is placed or which kind: **seat placement**, **role placement**, **Published Placement** (Chapter Eight §5), **Corpus placement**, **display placement**, **paid placement**, or name the thing (**placement of the record seat**). **Allowed:** **placement of …**, any qualified compound, and the verb (**places**, **placed**, **placing**).",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
@@ -2150,6 +2301,9 @@ def main() -> int:
         findings.extend(scan_avoid_bare_level(rel_path, text))
         findings.extend(scan_avoid_bare_placement(rel_path, text))
         findings.extend(scan_avoid_bare_pass(rel_path, text))
+        findings.extend(scan_avoid_bare_run(rel_path, text))
+        findings.extend(scan_avoid_component_pass(rel_path, text))
+        findings.extend(scan_avoid_design_cause(rel_path, text))
         findings.extend(scan_avoid_bare_condition(rel_path, text))
         findings.extend(scan_avoid_certify_question(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
