@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **734** of **1165** headings carry a gloss (63%).
+Coverage: **738** of **1175** headings carry a gloss (63%).
 
 ## Contents
 
@@ -35,7 +35,7 @@ Coverage: **734** of **1165** headings carry a gloss (63%).
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (10/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
-- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (19/40 glossed)
+- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (23/50 glossed)
 - [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/33 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
@@ -1015,7 +1015,7 @@ a label, classification, or rubber-stamp review does not count if the real decis
 
 #### 3. Non-Compliance Finding Profiles
 
-when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification is a special case ([§3.2 Standing Effects at First Certification](../../core_03.000_definition_integrity.md#32-standing-effects-at-first-certification)).
+when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification follows the same rule ([§3.2 Standing Effects at First Certification](../../core_03.000_definition_integrity.md#32-standing-effects-at-first-certification)).
 
 [Source](../../core_03.000_definition_integrity.md#3-non-compliance-finding-profiles)
 
@@ -4481,7 +4481,7 @@ a record has to say where to push back. There is one ordinary first step, then r
 
 #### 11. Relationship to Standing
 
-certification can feed standing, but it is not standing. The System Certification Record of a certified system, good or bad, may supply verified facts to Chapter Eleven, but only through a strict gate. Chapters Eleven and Twelve alone decide standing records and their effects.
+certification can feed standing, but it is not standing. Any System Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Eleven, but only through a strict gate. Chapters Eleven and Twelve alone decide standing records and their effects.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)
 
@@ -4491,11 +4491,11 @@ certification can feed standing, but it is not standing. The System Certificatio
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#111-what-a-system-certification-record-can-pass-on-to-standing)
 
-##### 11.2 Certified systems only
+##### 11.2 Every certification outcome
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.010_system_alignment_certification_record_recertification.md#112-certified-systems-only)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#112-every-certification-outcome)
 
 ##### 11.3 Verified-input gate
 
@@ -4517,7 +4517,7 @@ certification can feed standing, but it is not standing. The System Certificatio
 
 ## CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION
 
-Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 19/40 headings glossed
+Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 23/50 headings glossed
 
 #### 1. Purpose and Role
 
@@ -4707,9 +4707,45 @@ an institution's certification is checked again on a schedule and whenever somet
 
 ##### 9.3 Provisional and full certification
 
-*(no plain-terms gloss in source)*
+an institution earns trust in steps, as a system does. A new institution, or one that has failed a review, starts on a short leash and is re-checked often. Only an institution with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval. Failing a review sends it back to the short leash.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#93-provisional-and-full-certification)
+
+###### 9.3.1 The two statuses
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#931-the-two-statuses)
+
+###### 9.3.2 Failure and step-down
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#932-failure-and-step-down)
+
+###### 9.3.3 Cause of misalignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#933-cause-of-misalignment)
+
+###### 9.3.4 Tier windows
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#934-tier-windows)
+
+###### 9.3.5 Class A reliance
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#935-class-a-reliance)
+
+###### 9.3.6 Verification, not assertion
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#936-verification-not-assertion)
 
 ##### 9.4 Non-evasion
 
@@ -4725,25 +4761,25 @@ a failed system certification is a warning light for the institution, and someti
 
 #### 10. Challenging a Certification
 
-*(no plain-terms gloss in source)*
+an Institutional Certification Record only works if sentients can push back when it is wrong. A challenge has to be real: able to reopen review, pause reliance, and reach the forum with authority over the point in dispute. A complaints box that changes nothing does not count.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#10-challenging-a-certification)
 
 ##### 10.1 When the path opens
 
-*(no plain-terms gloss in source)*
+the challenge path has to be open before anyone is asked to rely on a certification. For an Institution with no outcome yet, it opens with the first outcome. For an Institution that is already operating, it is already open.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#101-when-the-path-opens)
 
 ##### 10.2 Contestability paths
 
-*(no plain-terms gloss in source)*
+a record has to say where to push back. There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalation. Where waiting would do harm, a challenger can go straight to a forum.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#102-contestability-paths)
 
 #### 11. Relationship to Standing
 
-like a system's certification, an institution's can feed standing through a strict gate and never replaces standing.
+certification can feed standing, but it is not standing. An Institutional Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Eleven, but only through a strict gate. Chapters Eleven and Twelve alone decide standing records and their effects.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#11-relationship-to-standing)
 
@@ -4752,6 +4788,30 @@ like a system's certification, an institution's can feed standing through a stri
 *(no plain-terms gloss in source)*
 
 [Source](../../core_10.000_institutional_alignment_certification.md#111-what-may-pass-to-standing)
+
+##### 11.2 Every certification outcome
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#112-every-certification-outcome)
+
+##### 11.3 Verified-input gate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#113-verified-input-gate)
+
+##### 11.4 Contribution standing record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#114-contribution-standing-record)
+
+##### 11.5 Violation standing record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_10.000_institutional_alignment_certification.md#115-violation-standing-record)
 
 ## CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT
 
