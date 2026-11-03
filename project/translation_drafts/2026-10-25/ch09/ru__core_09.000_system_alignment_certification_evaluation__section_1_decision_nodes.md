@@ -1,0 +1,35 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Nine Part A §1.2 decision and outcome diagram nodes, source lines 167–176; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §1.2 decision and outcome nodes (ru)
+
+## English source (lines 167–176)
+
+```mermaid
+flowchart TB
+    Rec["§8 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, conditions, and operating plan"]
+    S[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
+    O{"§7 Phase IV, Decide<br/><br/>What outcome and status<br/>does the evidence support?"}
+    Fc["§7, §9.2 Full Certification<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; conditions may apply"]
+    Pc["§7, §9.2 Provisional Certification<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; conditions may apply"]
+    Nc["§7 Not Certified<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
+    Pub["§7, §9.1 Publish the completed record<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
+    G{"§7 Go-live gate<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
+    Hold["§7 Meet go-live prerequisites<br/><br/>Complete notice and independently verify<br/>conditions required before go-live"]
+    Rm["§7, §9.2 Protect and correct<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
+```
+
+## ru draft
+
+```mermaid
+flowchart TB
+    Rec["§8 Этап V, Запись<br/>Единая запись о сертификации системы<br/><br/>Открывается для рассмотрения форумом; заполняется результатом, подтверждающими выводами, условиями и планом эксплуатации"]
+    S[["Глава десять — Записи о статусе<br/><br/>Вне настоящей главы"]]
+    O{"§7 Этап IV, Решение<br/><br/>Какой результат и статус<br/>подтверждают доказательства?"}
+    Fc["§7, §9.2 Полная сертификация<br/><br/>Требуются последовательные безупречные промежуточные пересертификации;<br/>нет признаков текущего или предстоящего несоответствия<br/>Интервал полной сертификации; могут применяться условия"]
+    Pc["§7, §9.2 Промежуточная сертификация<br/><br/>Первичная выдача, восстановление после несоответствия,<br/>либо продолжение или понижение промежуточного статуса<br/>Более короткий промежуточный интервал; могут применяться условия"]
+    Nc["§7 Не сертифицировано<br/><br/>Отложено, отказано, отозвано или истекло<br/>Эксплуатация не начинается; указываются причины и необходимые исправления"]
+    Pub["§7, §9.1 Опубликовать завершенную запись<br/><br/>Открыть путь оспаривания опубликованной записи;<br/>для новой или расширенной области указать ввод в эксплуатацию и срок уведомления"]
+    G{"§7 Условие ввода в эксплуатацию<br/><br/>Выполнены ли требования сертификации и применимые<br/>предварительные условия ввода в эксплуатацию?"}
+    Hold["§7 Выполнить предварительные условия ввода в эксплуатацию<br/><br/>Завершить уведомление и независимо проверить<br/>условия, обязательные до начала эксплуатации"]
+    Rm["§7, §9.2 Защита и исправление<br/><br/>Не вводить в эксплуатацию новые функции в затронутой области;<br/>защитить затронутых разумных существ, исправить проект или работу системы,<br/>и представить доказательства для независимой проверки"]
+```

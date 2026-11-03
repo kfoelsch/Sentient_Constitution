@@ -1,0 +1,13 @@
+# Chapter One §7.3 — Dissent Keeps Systems Contestable
+
+Source: `core_01.000_values_principles.md` §7.3 Dissent and Peaceful Protest
+
+Source SHA-256: `6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17`
+
+## English source passage
+
+**Dissent keeps systems contestable.** The [**Continuity**](core_00.000_preamble.md#continuity) aim depends on constitutional systems that stay contestable. Dissent and peaceful protest are how contest reaches authority from outside formal process, and how errors that formal process has missed become visible. They serve the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** and **oversight** legs.
+
+## Draft translation (th)
+
+**ความเห็นต่างทำให้ระบบยังถูกโต้แย้งได้** เป้าหมายด้าน[ความต่อเนื่อง](core_00.000_preamble.md#continuity)ขึ้นอยู่กับการที่ระบบรัฐธรรมนูญยังเปิดให้โต้แย้งได้ ความเห็นต่างและการประท้วงอย่างสันติทำให้การโต้แย้งไปถึงผู้มีอำนาจจากภายนอกกระบวนการอย่างเป็นทางการ และทำให้ข้อผิดพลาดที่กระบวนการนั้นมองข้ามปรากฏชัด ทั้งสองอย่างสนับสนุนองค์ประกอบ **การมีส่วนร่วม** และ **การกำกับดูแล** ของ[จตุรภาครัฐธรรมนูญ](core_00.000_preamble.md#constitutional-tetrad)

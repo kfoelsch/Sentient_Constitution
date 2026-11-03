@@ -1,0 +1,13 @@
+# Chapter One §7 — Freedom and Constitutional-System Integrity
+
+Source: `core_01.000_values_principles.md` §7 Freedom (Bounded Agency)
+
+Source SHA-256: `6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17`
+
+## English source passage
+
+Freedom does not let anyone undermine constitutional systems, get around constitutional process or remedies, or claim protected agency for conduct whose main purpose or effect is to reward, shield, normalize, or pay off anti-constitutional conduct. Disagreeing with constitutional systems, and protesting peacefully to change them, is not undermining them. See [§7.3 Dissent and Peaceful Protest](#73-dissent-and-peaceful-protest).
+
+## Draft translation (fr)
+
+La liberté ne permet pas de saper les systèmes constitutionnels, de contourner les procédures ou recours constitutionnels, ni de revendiquer une capacité d’agir protégée pour un comportement dont le but ou l’effet principal est de récompenser, protéger, normaliser ou financer une conduite anticonstitutionnelle. Être en désaccord avec les systèmes constitutionnels et protester pacifiquement pour les changer ne revient pas à les saper. Voir [§7.3 Dissidence et protestation pacifique](#73-dissent-and-peaceful-protest).

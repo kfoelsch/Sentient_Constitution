@@ -1,0 +1,15 @@
+<!-- AI-assisted translation draft; unreviewed. §1 corpus-placement overview, source lines 8–10; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §1 corpus-placement overview (th)
+
+## English source (lines 8–10)
+
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part A** — certification purpose, the process overview, and the first two phases of the process — **Frame** (system class) and **Evaluate** (whole-system evaluation in three sub-phases: the always-applicable evaluations, including data types and handling, in **§3**; the evaluations that apply where implicated in **§4**; and the Rights-Floor and domain evaluations that apply where triggered in **§5**) — **§1–§5**. The worked **Class A / B / C illustrations** (the system class profiles, §3.4.8, §5.1.5, §5.2.4, §5.3.7, §5.4.4, §5.5.5, and §5.6.4), including each one's **Reading across system classes** paragraph, are in [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md); each keeps its Part A section number. The binding system-class-scaling and escalation rules those paragraphs illustrate stay in this file: system class scaling, including participation and proportionality, in §2.2; data-handling scaling in §3.4; and the **System class scaling and escalation** paragraph in each of §5.1–§5.6. The files of the whole chapter are listed in the table below.
+>
+> **Chapter Nine files.** Chapter Nine is split across four binding files read as one text. Part A, this file, opens the chapter; there is no separate index file.
+
+## Translation draft
+
+> ไฟล์นี้ **เป็นส่วนหนึ่งของ Sentient Constitution** และมีผลผูกพันก็ต่อเมื่ออ่านร่วมกับไฟล์ `core_*` ที่มีหมายเลขอื่นเป็นข้อความเดียวกัน เนื้อหาคือ **บทที่เก้า ส่วน A** ได้แก่ วัตถุประสงค์ของการรับรอง ภาพรวมกระบวนการ และสองระยะแรกคือ **Frame** (ชั้นของระบบ) และ **Evaluate** (การประเมินทั้งระบบในสามระยะย่อย)—**§§1–5** ระยะย่อยเหล่านั้นได้แก่ การประเมินที่ใช้เสมอ รวมทั้งประเภทและการจัดการข้อมูลใน **§3**; การประเมินที่ใช้เมื่อเกี่ยวข้องใน **§4**; และการประเมิน **พื้นฐานสิทธิ** กับการประเมินรายด้านที่ใช้เมื่อมีเงื่อนไขกระตุ้นใน **§5** ตัวอย่างแบบลงรายละเอียดของ **ชั้น A / B / C** (โปรไฟล์ชั้นระบบ, §3.4.8, §5.1.5, §5.2.4, §5.3.7, §5.4.4, §5.5.5 และ §5.6.4) รวมถึงย่อหน้า **อ่านเปรียบเทียบระหว่างชั้นระบบ** ของแต่ละตัวอย่าง อยู่ใน [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md); แต่ละตัวอย่างคงหมายเลขหัวข้อของส่วน A ไว้ กฎผูกพันเรื่องการปรับขนาดและการยกระดับตามชั้นที่ตัวอย่างเหล่านี้อธิบายยังคงอยู่ในไฟล์นี้ ได้แก่ การปรับตามชั้นระบบ รวมถึงการมีส่วนร่วมและความได้สัดส่วนใน §2.2; การปรับการจัดการข้อมูลใน §3.4; และย่อหน้า **การปรับขนาดและยกระดับตามชั้นระบบ** ในแต่ละ §5.1–§5.6 ตารางด้านล่างแสดงรายชื่อไฟล์ทั้งบท
+>
+> **ไฟล์ของบทที่เก้า** บทที่เก้าแบ่งเป็นไฟล์ที่มีผลผูกพันสี่ไฟล์ซึ่งต้องอ่านร่วมกัน ส่วน A ซึ่งเป็นไฟล์นี้เปิดบทดังกล่าว และไม่มีไฟล์ดัชนีแยกต่างหาก

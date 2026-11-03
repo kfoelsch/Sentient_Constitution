@@ -1,0 +1,109 @@
+# AI-assisted translation update draft — th
+
+**Status:** Unreviewed machine-assisted draft. Not synchronized; not certified. The numbered English source remains controlling.
+
+**Source:** `core_05.025_apex_participation_leg.md`
+**Source snapshot:** working tree 2026-10-25; diff baseline `5148086b9fb43a343616db52cf3ef2018e2c46cb`.
+**Target file:** `translations/th/core_05_apex_participation_leg.md` (draft only; the target and `translations/review_status.json` were not edited).
+
+## Proposed changed passages
+
+### Source line 20; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7);
+
+**Proposed locale line:** - [บทที่หนึ่ง §7 อิสรภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) (1.000 §7);
+
+### Source line 21; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16);
+
+**Proposed locale line:** - [บทที่หนึ่ง §16 การบริหารอย่างรับผิดชอบ เชิงลึก](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16);
+
+### Source line 22; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5); Part B tradeoff and interpretation homes:
+
+**Proposed locale line:** - [บทที่หนึ่ง §19.1.5 วินัยการเรียกร้องผลลัพธ์ตามรัฐธรรมนูญ](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5); ส่วนที่ B การแลกเปลี่ยนและบ้านการตีความ:
+
+### Source line 23; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity) (1.005 §13.1.1);
+
+**Proposed locale line:** - [บทที่หนึ่ง §13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-necessity) (1.005 §13.1.1);
+
+### Source line 24; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.005_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.005 §13.1.4);
+
+**Proposed locale line:** - [บทที่หนึ่ง §13.1.4 พื้นตามรัฐธรรมนูญ ความปลอดภัย และกระบวนการต่อต้านการย่อยสลาย](core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.005 §13.1.4);
+
+### Source line 25; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);
+
+**Proposed locale line:** - [บทที่หนึ่ง §13.1.5 หลักการจำกัดน้อยที่สุด มีขอบเขตเวลา และตรวจสอบได้](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);
+
+### Source line 26; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005 §13.2);
+
+**Proposed locale line:** - [บทที่หนึ่ง §13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005 §13.2);
+
+### Source line 27; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.005 §13.3);
+
+**Proposed locale line:** - [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.005 §13.3);
+
+### Source line 28; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
+
+**Proposed locale line:** - [บทที่หนึ่ง §15.1 หลักการห้ามบายพาสตามรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
+
+### Source line 29; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
+
+**English source line:**   - [Chapter One §15.1.2 Derived-Information Principle](core_01.005_interaction_interpretation.md#1512-derived-information-principle) (1.005 §15.1.2);
+
+**Proposed locale line:** - [บทที่หนึ่ง §15.1.2 หลักการข้อมูลที่ได้รับ](core_01_b_interaction_interpretation.md#1512-derived-information-principle) (1.005 §15.1.2);
+
+### Source line 70; section: CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG); anchor `participation`
+
+**English source line:**   - **Out of scope:** the leaf-definition details, measurement layers, and implementation mechanics owned by leaf entries and CJS.
+
+**Proposed locale line:** - **อยู่นอกขอบเขต:** รายละเอียด leaf-definition เลเยอร์การวัด และกลไกการใช้งานที่เป็นของ leaf entry และ CJS
+
+### Source line 126; section: Measuring Participation (Preamble measurement family); anchor `participation-measurement-family`
+
+**English source line:** - Downstream: Participation measurement family — link-only rollup; per-term layers live on leaf definitions — see
+
+**Proposed locale line:** - ดาวน์สตรีม: ตระกูลการวัดการมีส่วนร่วม - การยกเลิกลิงก์เท่านั้น เลเยอร์ต่อเทอมอยู่บนคำจำกัดความของลีฟ — ดู
+
+### Source line 133; section: Measuring Participation (Preamble measurement family); anchor `participation-measurement-family`
+
+**English source line:** - Read with: Chapter Six, [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000), or incorporated documents — binding nondiscrimination, accommodation, education, or privacy requirements arise when those documents expressly require them.
+
+**Proposed locale line:** - อ่านด้วย: บทที่หก [บทที่เก้า](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) หรือเอกสารรวม — ข้อกำหนดการไม่เลือกปฏิบัติ ที่พัก การศึกษา หรือความเป็นส่วนตัวที่มีผลผูกพันเกิดขึ้นเมื่อเอกสารเหล่านั้นต้องการอย่างชัดแจ้ง
+
+## Obsolete English lines to remove from the target passage
+
+These baseline lines were removed or replaced in English. Locate their existing translated equivalents in the target file and remove or replace them when applying the draft. The draft does not guess a deletion solely from English wording.
+
+- `  - [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7);`
+- `  - [Chapter One §16 Stewardship In Depth](core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.015 §16);`
+- `  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.015_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.015 §19.1.5); Part B tradeoff and interpretation homes:`
+- `  - [Chapter One §13.1.1 Necessity](core_01.010_interaction_interpretation.md#1311-necessity) (1.010 §13.1.1);`
+- `  - [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01.010_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (1.010 §13.1.4);`
+- `  - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.010 §13.1.5);`
+- `  - [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.010 §13.2);`
+- `  - [Chapter One §13.3 Minimization of Avoidable Burden](core_01.010_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.010 §13.3);`
+- `  - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.010_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.010 §15.1);`
+- `  - [Chapter One §15.1.2 Derived-Information Principle](core_01.010_interaction_interpretation.md#1512-derived-information-principle) (1.010 §15.1.2);`
+- `  - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.`
+- `- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see`
+- `- Read with: Chapter Six, [Chapter Nine](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.005), or incorporated documents — binding nondiscrimination, accommodation, education, or privacy requirements arise when those documents expressly require them.`
+
+## Review note
+
+Preserve surrounding target-file anchors and Markdown structure when applying. Check every proposed line against the English source, the locale glossary in `translations/th/README.md`, and the matched target passage. This draft does not certify translation accuracy.

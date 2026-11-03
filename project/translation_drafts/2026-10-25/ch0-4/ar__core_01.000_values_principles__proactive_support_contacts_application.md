@@ -1,0 +1,17 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One §3.1.5 contact, data, application, and trust safeguards; source SHA-256 6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17. -->
+
+# Chapter One excerpt — contact, data, and application safeguards
+
+## English source passage
+
+These limits apply:
+- **Connecting is not treating:** The system's duty is to try to reach the sentient and hand them to help, such as a contact they chose, a support or care service, or the route under **Article III-B** (*Bodily-Maintenance and Healthcare Access*). Anything done without the sentient's consent stays under **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*).
+- **Contacts and data:** A trusted contact is used only if the sentient chose it in advance, and only the information needed to get a response is shared. Outreach uses contact details the system already holds for that purpose and is not a reason to collect more data.
+
+This builds on [§3.1.1 Access and Opportunity](#311-access-and-opportunity) and [§3.1.3 Fair Treatment](#313-fair-treatment), and it applies [§16 Pillar 2 — Proactive stewardship](core_01.010_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship) to the sentients a system affects. For developing sentients it works with [Graduated Capability](core_05.055_band_participation.md#graduated-capability), which judges growth by what a sentient can actually do.
+
+These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
+
+## Draft translation (ar)
+
+تسري هذه القيود: **الإيصال بالمساعدة ليس علاجاً:** يحاول النظام الوصول إلى الكائن الواعي وربطه بمساعدة اختارها، مثل جهة اتصال أو خدمة دعم أو المسار الوارد في **المادة III-B** (*الحفاظ على الجسد وإتاحة الرعاية الصحية*)؛ وما يتم دون موافقته يخضع لـ**المادة VII-C** (*حد أزمات الصحة والتدخل غير الطوعي*). **الاتصالات والبيانات:** لا يُستخدم اتصال موثوق إلا إذا اختاره مسبقاً، ولا تُشارك إلا المعلومات اللازمة للرد. ويُستخدم ما لدى النظام من بيانات اتصال لهذا الغرض دون جمع المزيد. يستند ذلك إلى [§3.1.1 إتاحة الفرص والوصول](#311-access-and-opportunity) و[§3.1.3 المعاملة المنصفة](#313-fair-treatment)، ويطبق [§16 الركيزة 2 — الإشراف الاستباقي](core_01.010_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship)؛ ومع الكائنات النامية يعمل مع [القدرة المتدرجة](core_05.055_band_participation.md#graduated-capability)، التي تقيس النمو بما يمكن فعله فعلاً. وتدعم هذه الأجزاء [§6 الثقة](#6-trust-and-trustworthiness-coordination-integrity) حين يلزم الاعتماد على نظام أو قبول قراراته أو التنسيق على أساس وعوده.

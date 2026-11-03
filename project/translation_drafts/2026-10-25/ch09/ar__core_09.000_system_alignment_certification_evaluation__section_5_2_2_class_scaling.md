@@ -1,0 +1,23 @@
+<!-- AI-assisted translation draft; unreviewed. §5.2.2 system-class scaling and escalation, source lines 1055–1060; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §5.2.2 system-class scaling and escalation (ar)
+
+## English source (lines 1055–1060)
+
+How deep the review goes depends on the system's class. Whenever the materiality trigger is met:
+
+- If the system tests or licenses the operators of infrastructure that sentients need to survive, and its decisions could keep that infrastructure from running safely, the record must show the strongest proof that the system builds real skills, offers retraining, and can be challenged. A general training policy is not enough. Retraining is part of the access and opportunity that [Chapter One §3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity) protects, and the challenge route is what [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) keeps open.
+- If the system's privileges, placement, or continuing-education rules decide who can work in roles where mistakes could cause significant harm to others (clinical roles, for example), the record must show how its assessments can be inspected and how sentients can retrain. The more critical the work, the more detail is needed.
+- If the system's training-slot, recommendation, or credential-routing logic significantly ranks or shuts out participants, the record must show how that logic works and how sentients can challenge it. A short general description of the education offered is not enough. Ranking by logic that no one can see or contest is the unexplained rule that [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness) rules out.
+- If the system becomes something sentients must go through to do the work or get licensed, certification must review it more closely and reconsider its system class under [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation). That includes moving it up toward **Class A** when credentials for survival-essential staffing are gated. A credential that sentients cannot do without is the lock-in that [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination) and [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) address.
+
+## Translation draft
+
+##### 5.2.2 توسيع الفئة النظامية والتصعيد
+
+يتوقف عمق المراجعة على فئة النظام. وكلما تحقق معيار الجوهرية:
+
+- إذا كان النظام يختبر مشغّلي بنية تحتية يحتاج إليها الكائنات الواعية للبقاء، وكان من الممكن أن تمنع قراراته تلك البنية من العمل بأمان، فيجب أن يثبت السجل بأقوى الأدلة أن النظام يبني مهارات حقيقية، ويوفر إعادة التدريب، ويتيح الاعتراض. ولا تكفي سياسة تدريب عامة. فإعادة التدريب جزء من الوصول والفرص التي يحميها [Chapter One §3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity)، ومسار الاعتراض هو ما يبقيه [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) مفتوحًا.
+- إذا كانت امتيازات النظام أو قواعد التعيين أو التعليم المستمر تحدد من يستطيع العمل في أدوار قد تسبب فيها الأخطاء ضررًا كبيرًا للآخرين (مثل الأدوار السريرية)، فيجب أن يبيّن السجل كيفية فحص التقييمات وكيفية إعادة تدريب الكائنات الواعية. وكلما كان العمل أكثر أهمية، زادت التفاصيل المطلوبة.
+- إذا كان منطق النظام الخاص بمقاعد التدريب أو التوصيات أو توجيه الاعتمادات يرتب المشاركين ترتيبًا جوهريًا أو يستبعدهم، فيجب أن يوضح السجل كيفية عمل هذا المنطق وكيف يمكن للكائنات الواعية الاعتراض عليه. ولا يكفي وصف عام موجز للتعليم المقدم. فالترتيب بمنطق لا يستطيع أحد رؤيته أو الاعتراض عليه هو القاعدة غير المفسرة التي يستبعدها [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness).
+- إذا أصبح النظام بوابة لا بد للكائنات الواعية من المرور بها للعمل أو للحصول على ترخيص، فيجب أن تراجعه الشهادة بتدقيق أكبر وأن تعيد النظر في فئته النظامية وفق [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation). ويشمل ذلك رفعه نحو **Class A** عندما تُحجب اعتمادات التوظيف الضروري للبقاء. فالاعتماد الذي لا تستطيع الكائنات الواعية الاستغناء عنه هو الاحتكار المغلق الذي يتناوله [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination) و[Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable).

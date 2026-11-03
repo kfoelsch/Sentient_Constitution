@@ -1,0 +1,5 @@
+# Brouillon de traduction — `core_06.015_rights_part_d.md`, article XXV-C
+
+**Examen externe obligatoire :** les Constitutional Forums font l’objet d’un examen externe indépendant à des intervalles définis ; la proportionnalité selon l’enjeu matériel ne réduit pas cette obligation. Par défaut, les forums Integrity procèdent à l’examen conformément au chapitre Quatorze §§2–3 et à la règle inter-forums contre l’auto-jugement. Le forum Integrity chargé de l’examen doit être structurellement distinct du Constitutional Forum examiné et ne peut inclure de décideurs ayant récemment siégé dans ses panels d’interprétation. Si l’intégrité du forum Integrity lui-même est matériellement en cause, la voie de secours du chapitre Quatorze §3 s’applique sans réduire cette obligation. L’examen évalue les indicateurs de captation, la qualité des décisions et l’intégrité du Plancher des droits.
+
+**Acheminement institutionnel :** CI-15.205 et CI-8.210 régissent les voies détaillées de nomination, les contrôles de rotation et les procédures de conflit/récusation des panels constitutionnels, notamment les contrôles de composition des organes d’interprétation.

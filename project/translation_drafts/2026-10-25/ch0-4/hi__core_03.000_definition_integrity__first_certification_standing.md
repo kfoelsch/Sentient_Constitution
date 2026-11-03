@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Three §3.2, first-certification standing distinction; source SHA-256 dafc567a1e2dc3eaa76ce02692073b4fce440bc1f6c5e66a3309409f16a658ea. -->
+
+# Chapter Three excerpt — first certification and standing inputs
+
+## English source
+
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. Until certification is granted, those certification records supply no standing input under [Chapter Nine §10 Relationship to Standing](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing), which traces standing input only from certified systems. Once certification is granted, including conditional certification, [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) applies. This chapter does not require the same standing records that an already-certified running system must receive.
+
+## hi draft
+
+यदि सिस्टम अभी अपने **पहले** [सिस्टम-अलाइनमेंट प्रमाणन](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) में है और प्रमाणित नहीं हुआ है—जिसमें प्रमाणन स्थगित या अस्वीकृत होना भी शामिल है—तो सत्यापित गैर-अनुपालन मुख्यतः अध्याय नौ के तहत **प्रमाणन का परिणाम** तय करता है। परिणाम सशर्त प्रमाणन, स्थगित प्रमाणन, प्रमाणन न देना, या ऐसा ही कोई परिणाम हो सकता है। प्रमाणन मिलने तक वे प्रमाणन-अभिलेख [अध्याय नौ §10 स्टैंडिंग से संबंध](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing) के अंतर्गत स्टैंडिंग इनपुट नहीं देते; यह प्रावधान केवल प्रमाणित सिस्टमों से स्टैंडिंग इनपुट लेता है। सशर्त प्रमाणन सहित प्रमाणन मिलने के बाद [§3.1 पहले से प्रमाणित सिस्टमों के स्टैंडिंग प्रभाव](#31-standing-effects-for-already-certified-systems) लागू होता है। यह अध्याय अभी प्रमाणित न हुए चल रहे सिस्टम से वही स्टैंडिंग अभिलेख माँगता नहीं जो पहले से प्रमाणित चल रहे सिस्टम के लिए आवश्यक हैं।

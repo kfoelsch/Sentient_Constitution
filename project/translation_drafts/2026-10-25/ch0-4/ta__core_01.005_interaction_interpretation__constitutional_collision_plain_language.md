@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One Part B §13 plain-language summary; source SHA-256 28f8a1ab080fef53c99916d5833ff23a58a704bf76dd7d5878b3e2847b2830d7. -->
+
+# Chapter One Part B excerpt — Constitutional Collision plain-language summary
+
+## English source passage
+
+*In plain terms: Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Nine §3.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.*
+
+## Draft translation (ta)
+
+*எளிமையாகச் சொன்னால், அரசியலமைப்பு மோதல்கள் நிகழும் — **பாதுகாப்பும்** **உண்மையும்** முதலில். அதன் பின், கட்டுப்பாடுகள் விகிதாசாரமாகவும் அவசியமாகவும், தீங்கைக் குறைப்பதாகவும், இயன்றவரை குறைந்ததாகவும் இருக்க வேண்டும். வசதிக்காக உண்மையை மறைக்க முடியாது; சௌகரியத்திற்காக தனியுரிமையைப் பறிக்க முடியாது; சுதந்திரக் கட்டுப்பாடுகள் [§7.1 கட்டுப்பாட்டு ஒழுங்கு](core_01.000_values_principles.md#71-limitation-discipline) படி அமையும். உரிமைகள் குறித்த அரசியலமைப்பு மோதல்களுக்கு ஆவணப்படுத்தப்பட்ட முடிவு சோதனை தேவை; இணக்கத்தைப் பொய்யாகக் காட்டும் அளவீடுகள் ஏற்கப்படாது. குறுகியகால மேம்படுத்தல் [ஒன்பதாம் அத்தியாயம் §3.3 கால-ஒத்திசைவு கட்டுப்பாட்டின்](core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint) கீழ் மதிப்பீட்டில் தேர்ச்சி பெறாது. **§13.1** (*மையப் பரிமாற்றக் கொள்கைகள்*) முதல் **§13.3** (*தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்*) வரை பரிமாற்ற விதிகள், வெளிப்படுத்தல் மற்றும் தனியுரிமைக் கட்டுப்பாடுகள், அரசியலமைப்பு மோதல் நடைமுறை ஆகியவற்றை வழங்குகின்றன.*

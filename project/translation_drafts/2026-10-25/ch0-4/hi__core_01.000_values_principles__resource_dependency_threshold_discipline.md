@@ -1,0 +1,14 @@
+# Chapter One §11.4 — Threshold-Setting Discipline
+
+Source: `core_01.000_values_principles.md` §11.4 Resource and Dependency Concentration
+
+Source SHA-256: `6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17`
+
+## English source passage
+
+- **Under the same discipline:** the requirement-preservation, substance-over-form, anti-nullification, and heightened-scrutiny rules of **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** apply in full. No level may be set so high that it never bites, and concentration hidden behind shell, federated, or split-up structures still counts.
+
+
+## Draft translation (hi)
+
+- **उसी अनुशासन के तहत:** **CJS-5.125 §11.1 — बाज़ार-संकेंद्रण सीमा निर्धारण अनुशासन (अपनाने वालों द्वारा समायोज्य)** के आवश्यकता-संरक्षण, रूप से ऊपर सार, निष्प्रभावीकरण-रोध और बढ़ी हुई जाँच के नियम पूरी तरह लागू होंगे। कोई स्तर इतना ऊँचा नहीं रखा जा सकता कि वह कभी प्रभावी ही न हो; खोल, संघबद्ध या विभाजित संरचनाओं के पीछे छिपा संकेंद्रण भी गिना जाएगा।

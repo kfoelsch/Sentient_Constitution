@@ -1,0 +1,23 @@
+<!-- AI-assisted translation draft; unreviewed. §5.2.2 system-class scaling and escalation, source lines 1055–1060; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §5.2.2 system-class scaling and escalation (te)
+
+## English source (lines 1055–1060)
+
+How deep the review goes depends on the system's class. Whenever the materiality trigger is met:
+
+- If the system tests or licenses the operators of infrastructure that sentients need to survive, and its decisions could keep that infrastructure from running safely, the record must show the strongest proof that the system builds real skills, offers retraining, and can be challenged. A general training policy is not enough. Retraining is part of the access and opportunity that [Chapter One §3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity) protects, and the challenge route is what [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) keeps open.
+- If the system's privileges, placement, or continuing-education rules decide who can work in roles where mistakes could cause significant harm to others (clinical roles, for example), the record must show how its assessments can be inspected and how sentients can retrain. The more critical the work, the more detail is needed.
+- If the system's training-slot, recommendation, or credential-routing logic significantly ranks or shuts out participants, the record must show how that logic works and how sentients can challenge it. A short general description of the education offered is not enough. Ranking by logic that no one can see or contest is the unexplained rule that [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness) rules out.
+- If the system becomes something sentients must go through to do the work or get licensed, certification must review it more closely and reconsider its system class under [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation). That includes moving it up toward **Class A** when credentials for survival-essential staffing are gated. A credential that sentients cannot do without is the lock-in that [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination) and [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) address.
+
+## Translation draft
+
+##### 5.2.2 వ్యవస్థ తరగతి పెంపు మరియు తీవ్రత
+
+సమీక్ష ఎంత లోతుగా ఉండాలన్నది వ్యవస్థ తరగతిపై ఆధారపడుతుంది. ప్రాముఖ్యత ప్రమాణం నెరవేరిన ప్రతిసారీ:
+
+- జీవించడానికి sentients‌కు అవసరమైన మౌలిక సదుపాయాల నిర్వాహకులను వ్యవస్థ పరీక్షిస్తే లేదా లైసెన్స్ ఇస్తే, దాని నిర్ణయాలు ఆ సదుపాయాలు సురక్షితంగా పనిచేయకుండా అడ్డుకోగలిగితే, నిజమైన నైపుణ్యాలను పెంపొందిస్తుందని, మళ్లీ శిక్షణ ఇస్తుందని, సవాలు చేయవచ్చని అత్యంత బలమైన ఆధారాన్ని రికార్డు చూపాలి. సాధారణ శిక్షణ విధానం సరిపోదు. మళ్లీ శిక్షణ [Chapter One §3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity) రక్షించే ప్రవేశం, అవకాశాల్లో భాగం; సవాలు మార్గాన్ని [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) తెరిచి ఉంచుతుంది.
+- వ్యవస్థ ప్రత్యేక హక్కులు, నియామకం లేదా నిరంతర విద్యా నియమాలు తప్పుల వల్ల ఇతరులకు గణనీయమైన హాని కలిగే పనుల్లో (ఉదా. వైద్య పాత్రలు) ఎవరు పనిచేయగలరో నిర్ణయిస్తే, అంచనాలను ఎలా పరిశీలించవచ్చో, sentients మళ్లీ ఎలా శిక్షణ పొందగలరో రికార్డు చూపాలి. పని ఎంత కీలకమో అంత వివరంగా చూపాలి.
+- శిక్షణ స్థానాలు, సిఫార్సులు లేదా అర్హత మార్గనిర్దేశానికి సంబంధించిన వ్యవస్థ తర్కం పాల్గొనేవారిని గణనీయంగా ర్యాంక్ చేస్తే లేదా తొలగిస్తే, ఆ తర్కం ఎలా పనిచేస్తుందో, sentients దాన్ని ఎలా సవాలు చేయగలరో రికార్డు చూపాలి. అందించే విద్యపై చిన్న సాధారణ వివరణ సరిపోదు. ఎవరూ చూడలేని లేదా సవాలు చేయలేని తర్కంతో ర్యాంక్ చేయడమే [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness) నిషేధించే వివరించని నియమం.
+- పని చేయడానికి లేదా లైసెన్స్ పొందడానికి sentients తప్పనిసరిగా వ్యవస్థను దాటాల్సి వస్తే, ధృవీకరణ దాన్ని మరింత జాగ్రత్తగా సమీక్షించి [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation) ప్రకారం దాని తరగతిని మళ్లీ పరిశీలించాలి. మనుగడకు అవసరమైన సిబ్బంది కోసం అర్హతలను ఆపితే **Class A** వైపు తరగతిని పెంచడం కూడా ఇందులో ఉంటుంది. sentients‌కు తప్పనిసరి అయిన అర్హతే [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination) మరియు [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) விவாதிக்கும் முடக்கமாகும்.

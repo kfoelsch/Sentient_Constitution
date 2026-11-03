@@ -1,0 +1,1279 @@
+# Chapter Six Part D selected excerpt — ar
+
+**Status:** Partial translation draft; unreviewed; English controls. Draft only; do not synchronize into `translations/`.
+**Source:** `core_06.015_rights_part_d.md`
+**Current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+**Comparison baseline:** `5148086b9fb43a343616db52cf3ef2018e2c46cb`
+**Coverage:** Part title, owner statement, and plain-language summary; existing selected Article XXIII–XXV and XXI excerpts; Article XXII-A movement-and-relocation floor, Article XXII-B refuge grounds, and Article XXII-C non-statelessness core guarantee and remaining recognition/scope rules, Article XX updated upstream/downstream trace (source lines 432–437), Article XXII-D updated upstream/read-with trace (source lines 1000–1003), limitations/custody and emergency safeguards, and the Article XXII general upstream/downstream/read-with trace (source lines 816–827), and movement/refuge framework (source lines 844–868) (current source passages below); Article XXI-A CS data-classification/protected-portability rules (source lines 616–626); Article XXI-A/B updated upstream traces (source lines 653–657 and 688–692); Article XXIII-A/B updated upstream traces (source lines 1130–1135 and 1165–1170); Article XXV-C strict non-capture/external-review and institutional-routing floor (source lines 1511–1517); Article XXV-A–D updated upstream/read-with traces (source lines 1407–1408, 1457, 1485–1491, 1523–1524); Article XXV-B independent challenge and constitutional review panel route (source lines 1476–1479); Article XXV-D removal and periodic revalidation floor (source lines 1541–1544), plus full XXIII-B complexity audit/modular architecture/anti-layering and protocol-alignment floor (source lines 1189–1200); Article XXIV updated upstream/read-with trace (source lines 1209–1221); Article XXI-C updated upstream trace (source lines 719–723); Article XXI-D updated upstream/read-with trace (source lines 755–762); Article XXII-A updated upstream trace (source line 877); Article XXII-B updated upstream trace (source line 911); Article XXII-C updated upstream/downstream trace (source lines 955–956); Article XXIII updated upstream/read-with trace (source lines 1052–1060); Article XXIV-B updated upstream trace (source lines 1311–1315); Article XIX-A updated upstream/read-with trace (source lines 172–173); Article XIX-B updated upstream/downstream/read-with trace (source lines 214–216); Article XIX-C updated upstream trace (source lines 278–282); Article XIX-D updated upstream/downstream/read-with trace (source lines 335–337); Article XIX-E updated upstream/downstream/read-with trace (source lines 381–383); Article XX-A updated upstream/downstream/read-with trace (source lines 469–474); Article XX-B updated upstream/downstream/read-with trace (source lines 505–511); Article XXI updated upstream/read-with trace (source lines 592–597); Article XIX general updated upstream/read-with trace (source lines 88–94); Article XX justice-floor neighbors/implementation limit (source lines 453–462); Article XX-B imprisonment, custody-condition, and synthetic-operation safeguards (source lines 566–580); Article XXIII principle-layer/rights-detail map (source lines 1117–1124); Article XXIV-A updated upstream trace (source lines 1275–1279); Article XXV general updated upstream/read-with trace (source lines 1349–1361); Article XXV constitutional-interpretation plain-language floor (source line 1379); Article XXV-A bounded-mandate plain-language floor (source line 1424); see additional updated excerpts. Most of this Part remains untranslated.
+
+## Proposed translated excerpts
+
+### Part title
+
+**Current English passage:**
+
+### Part D: Standing, justice, interoperability, movement and refuge, comprehensibility, root-cause review, and constitutional interpretation
+
+**Proposed locale translation:**
+
+### الجزء د: الصفة القانونية، والعدالة، والتشغيل البيني، والتنقل واللجوء، وقابلية الفهم، ومراجعة الأسباب الجذرية، والتفسير الدستوري
+
+### Constitutional owner statement
+
+**Current English passage:**
+
+Chapter Six, Part D, is the constitutional owner of **Rights Floors for standing, justice, interoperability, movement and refuge, comprehensibility, root-cause review, and constitutional interpretation** (Articles XIX through XXV).
+
+**Proposed locale translation:**
+
+الفصل السادس، الجزء د، هو المرجع الدستوري لـ **أرضيات الحقوق المتعلقة بالصفة القانونية والعدالة والتشغيل البيني والتنقل واللجوء وقابلية الفهم ومراجعة الأسباب الجذرية والتفسير الدستوري** (المواد من التاسع عشر إلى الخامس والعشرين).
+
+### Plain-language summary
+
+**Current English passage:**
+
+*In plain terms: Part D covers standing and participation status, justice after verified violation, interoperability and exit, movement and refuge, comprehensibility, root-cause analysis, and constitutional interpretation and review — Articles XIX through XXV.*
+
+**Proposed locale translation:**
+
+*بعبارات بسيطة: يتناول الجزء د الصفة والمشاركة، والعدالة بعد التحقق من الانتهاك، والتشغيل البيني والخروج، والتنقل واللجوء، وقابلية الفهم، وتحليل الأسباب الجذرية، والتفسير الدستوري ومراجعته — المواد من التاسع عشر إلى الخامس والعشرين.*
+
+
+## Additional updated passage — Article XXIII plain-language explanation
+
+**Current English passage:**
+
+*In plain terms: **Article XXIII** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.*
+
+**Proposed locale translation:**
+
+*بعبارات بسيطة: **المادة XXIII** (*وضوح الفهم وإدارة التعقيد*) هي حدّ الحقوق المتعلق بإمكانية الفهم — عندما يؤثر نظام تأثيرًا جوهريًا في حياتك، يحق لك أن تفهم فعلًا كيف يعمل، وما حدوده، وما يحدث عند إخفاقه. لا يجوز استخدام التعقيد حاجزًا أمام المشاركة أو التدقيق أو المساءلة. كما لا يجوز للمشرفين إضافة تعقيد لا لزوم له يهدر وقت الجميع من دون منفعة دستورية حقيقية.*
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated passage — Article XXIV plain-language explanation
+
+**Current English passage:**
+
+*In plain terms: **Article XXIV** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.*
+
+**Proposed locale translation:**
+
+*بعبارات بسيطة: **المادة XXIV** (*تحليل الأسباب الجذرية والاستجابة التكيفية*) هي حدّ الحقوق الذي يوجب العثور على المشكلة الحقيقية وإصلاحها على نحو سليم. عندما يتعطل شيء أو يتدهور أو يستمر إخفاقه، يحق لك ما هو أكثر من بيان صحفي أو حل مؤقت. يجب على الأنظمة تحديد السبب الفعلي للضرر — بما في ذلك الأسباب التي تظهر متأخرة أو تتراكم بمرور الوقت — ومعالجة تلك الأسباب حيثما أمكن، وترك سجل يستطيع الآخرون التحقق منه والطعن فيه. يجوز الاحتواء السريع؛ أما الإصلاح الدائم من دون تشخيص صادق فلا يجوز.*
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXIII practical comprehensibility
+
+**Current English passage:**
+
+Sentients have the right to proportional comprehensibility of systems that materially affect survival, environmental preconditions, info-sphere integrity, and meaningful agency. That right protects practical understanding of how a system operates, what it depends on, where its limits lie, and how it can fail — not formal notice alone.
+
+**Proposed locale translation:**
+
+للكائنات الواعية الحق في فهم الأنظمة على نحو يتناسب مع أثرها الجوهري في البقاء، والشروط البيئية المسبقة، ونزاهة المجال المعلوماتي، والقدرة الحقيقية على الفعل. ويحمي هذا الحق الفهم العملي لكيفية عمل النظام، وما يعتمد عليه، وأين تقع حدوده، وكيف يمكن أن يخفق — لا مجرد الإخطار الشكلي.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXIII flourishing and continuity floors
+
+**Current English passage:**
+
+This Article states **constitutional floors** for comprehensibility and complexity stewardship under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can understand systems that materially affect:
+  - survival;
+  - environmental preconditions;
+  - info-sphere integrity; and
+  - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency).
+
+  That understanding must be enough to participate, rely on accurate information, and challenge what goes wrong without specialist-only access.
+- **Continuity:** understandability and complexity discipline hold across time, scale, and deepening dependency:
+  - systems must not quietly become harder to audit, challenge, or correct as stakes rise;
+  - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) must not erode [Productive Capacity](core_05.040_band_continuity.md#productive-capacity) or [Constitutional Efficiency](core_05.040_band_continuity.md#constitutional-efficiency) without offsetting constitutional benefit.
+
+**Proposed locale translation:**
+
+تحدد هذه المادة **الحدود الدستورية الدنيا** لقابلية الفهم والإشراف على التعقيد بموجب [الهدفين الدستوريين](core_00.000_preamble.md#two-constitutional-aims):
+
+- **الازدهار:** يستطيع الكائنات الواعية فهم الأنظمة التي تؤثر تأثيرًا جوهريًا في:
+  - البقاء؛
+  - الشروط البيئية المسبقة؛
+  - نزاهة المجال المعلوماتي؛ و
+  - [القدرة الحقيقية على الفعل](core_05.055_band_participation.md#meaningful-agency).
+
+  ويجب أن يكفي هذا الفهم للمشاركة والاعتماد على معلومات دقيقة والطعن في الأخطاء من دون اشتراط الوصول إلى خبراء فقط.
+- **الاستمرارية:** تستمر قابلية الفهم والانضباط في التعقيد عبر الزمن والنطاق وتزايد الاعتماد:
+  - يجب ألا تصبح الأنظمة تدريجيًا أصعب تدقيقًا أو طعنًا أو تصحيحًا مع ارتفاع المخاطر؛
+  - يجب ألا يضعف [العبء الممكن تجنبه](core_05.040_band_continuity.md#avoidable-burden) [القدرة الإنتاجية](core_05.040_band_continuity.md#productive-capacity) أو [الكفاءة الدستورية](core_05.040_band_continuity.md#constitutional-efficiency) من دون منفعة دستورية تعوّض ذلك.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXIII Tetrad implementation duties
+
+**Current English passage:**
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
+
+- **Participation:**
+  - in understanding material operation, limits, dependencies, and failure modes, proportionate to role and impact;
+  - in challenging complexity that blocks meaningful agency or informed choice.
+- **Oversight:** through the following, proportionate to classification and risk, so reviewers can verify what systems do and how they fail:
+  - layered explanations;
+  - complexity audits;
+  - disclosed behavior.
+- **Accountability:** stewards must:
+  - answer for unnecessary complexity, hidden layering, or comprehension barriers that block [Auditability](core_05.050_band_oversight.md#auditability) or [Contestability](core_05.035_band_accountability.md#contestability);
+  - fix stewardship defects where complexity wastes capacity without constitutional justification.
+- **Timeliness:** in the following, before delay, opacity, or specialist-only surfaces would make understanding, challenge, or remedy effectively unreachable:
+  - complexity review;
+  - barrier correction;
+  - accessible disclosure.
+
+**Proposed locale translation:**
+
+يتم السعي المشروع من خلال [الرباعية الدستورية](core_00.000_preamble.md#constitutional-tetrad)، بما يتناسب مع [المصلحة الجوهرية](core_00.000_preamble.md#material-stake):
+
+- **المشاركة:**
+  - في فهم التشغيل والحدود والتبعيات وأنماط الإخفاق الجوهرية، بما يتناسب مع الدور والتأثير؛
+  - وفي الطعن في التعقيد الذي يحول دون القدرة الحقيقية على الفعل أو الاختيار المستنير.
+- **الرقابة:** من خلال ما يلي، بما يتناسب مع التصنيف والمخاطر، كي يتمكن المراجعون من التحقق مما تفعله الأنظمة وكيف تخفق:
+  - شروح متعددة الطبقات؛
+  - عمليات تدقيق للتعقيد؛
+  - الإفصاح عن السلوك.
+- **المساءلة:** يجب على القائمين بالرعاية:
+  - تحمل المسؤولية عن التعقيد غير الضروري أو الطبقات الخفية أو عوائق الفهم التي تمنع [قابلية التدقيق](core_05.050_band_oversight.md#auditability) أو [قابلية الطعن](core_05.035_band_accountability.md#contestability)؛
+  - إصلاح عيوب الرعاية عندما يهدر التعقيد القدرة من دون مبرر دستوري.
+- **التوقيت المناسب:** يجب اتخاذ ما يلي قبل أن يجعل التأخير أو الغموض أو اقتصار الوصول على المتخصصين الفهم أو الطعن أو الانتصاف بعيد المنال فعليًا:
+  - مراجعة التعقيد؛
+  - إزالة العوائق؛
+  - الإفصاح الميسر.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXIII-A proportional comprehensibility
+
+**Current English passage:**
+
+This Article sets out the floor for proportional understandability:
+
+- **Proportional understandability:** Operators, affected stakeholders, and appropriate oversight bodies must be able to understand how high-impact systems:
+  - function;
+  - fail;
+  - depend on other systems;
+  - impose material limits or conditions.
+
+  That understanding must reach levels proportionate to role, classification, and risk. It must not be confined to specialist-only surfaces where broader accountability or participation is materially implicated.
+
+**Proposed locale translation:**
+
+تحدد هذه المادة الحد الأدنى للفهم المتناسب:
+
+- **الفهم المتناسب:** يجب أن يتمكن المشغلون وأصحاب المصلحة المتأثرون وهيئات الرقابة المناسبة من فهم كيفية قيام الأنظمة عالية التأثير بما يلي:
+  - أداء وظائفها؛
+  - الإخفاق؛
+  - الاعتماد على أنظمة أخرى؛
+  - فرض قيود أو شروط جوهرية.
+
+  ويجب أن يبلغ هذا الفهم مستويات تتناسب مع الدور والتصنيف والمخاطر. ولا يجوز حصره في واجهات لا يستخدمها إلا المتخصصون عندما تكون المساءلة أو المشاركة الأوسع متأثرة جوهريًا.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXIII-B complexity audit and modularity
+
+**Current English passage:**
+
+This Article sets out the floors for complexity audits, modularity, anti-layering, and protocol alignment:
+
+- **Complexity audits and modularity:** Critical systems must support independent evaluation of:
+  - complexity;
+  - dependency coupling;
+  - failure modes;
+  - the boundaries across which responsibility or observability is handed off.
+- **Modular architecture:** Critical systems **must** be structured so that their components, the responsibilities of each, and the dependencies between components can be identified and examined independently. Dependencies must be declared at interfaces, kept no broader than function requires, and mapped to the same boundaries that are audited. Responsibility and observability must be preserved across every internal boundary. Modular structure that conceals responsibility or defeats whole-system audit is anti-layering under the next bullet, and does not satisfy this requirement. Read with [§18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
+- **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction. This is the Rights Floor for the principle-layer discipline in [Chapter One §5.2.4 (*Complexity-as-Defeat Discipline*)](core_01.000_values_principles.md#524-complexity-as-defeat-discipline).
+- **Protocol alignment:** Evaluation must be consistent with:
+  - **[CS-6.315](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and complexity stewardship*) — *Comprehensibility and complexity stewardship***;
+  - adopted presentation and architecture implementation requirements.
+
+  Where CS-6.315 (*Comprehensibility and complexity stewardship*) and incorporated implementation conflict, the applicable requirement with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) governs.
+
+**Proposed locale translation:**
+
+تحدد هذه المادة الحدود الدنيا لتدقيق التعقيد والبنية المعيارية ومنع التراكم الطبقي ومواءمة البروتوكولات:
+
+- **تدقيق التعقيد والبنية المعيارية:** يجب أن تدعم الأنظمة الحرجة تقييمًا مستقلًا لما يلي:
+  - التعقيد؛
+  - ترابط التبعيات؛
+  - أنماط الإخفاق؛
+  - الحدود التي تنتقل عبرها المسؤولية أو قابلية الرصد.
+- **البنية المعيارية:** **يجب** تنظيم الأنظمة الحرجة بحيث يمكن تحديد مكوناتها ومسؤوليات كل مكون والتبعيات بينها وفحصها بصورة مستقلة. ويجب إعلان التبعيات عند الواجهات، وألا يتجاوز نطاقها ما تتطلبه الوظيفة، وربطها بالحدود نفسها التي تخضع للتدقيق. ويجب الحفاظ على المسؤولية وقابلية الرصد عبر كل حد داخلي. وتُعد البنية المعيارية التي تخفي المسؤولية أو تهزم تدقيق النظام ككل تراكمًا طبقيًا بموجب البند التالي، ولا تفي بهذا الشرط. يُقرأ هذا مع [§18.5 البنية المعيارية وانضباط التبعيات](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
+- **منع التراكم الطبقي:** لا يجوز استخدام التعقيد — عبر طبقات تقنية أو تنظيمية أو تعاقدية أو إجرائية — لإفشال التدقيق أو الطعن أو التصحيح. وهذا هو حد الحقوق الأدنى لانضباط المبادئ في [الفصل الأول §5.2.4 (*انضباط التعقيد المفضي إلى الهزيمة*)](core_01.000_values_principles.md#524-complexity-as-defeat-discipline).
+- **مواءمة البروتوكولات:** يجب أن يتسق التقييم مع:
+  - **[CS-6.315](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*الإشراف على قابلية الفهم والتعقيد*) — *الإشراف على قابلية الفهم والتعقيد***؛
+  - متطلبات التنفيذ المعتمدة للعرض والبنية المعمارية.
+
+  وعند تعارض CS-6.315 (*الإشراف على قابلية الفهم والتعقيد*) مع التنفيذ المدمج، يسود المطلب الذي يحقق [الأثر الوقائي الأوفى](core_05.045_band_integrative.md#fullest-protective-effect).
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+## Additional updated rule — Article XXIV-A documentation and challenge
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXIV-A, documentation and challenge bullet points.
+
+**Proposed translated excerpt:**
+
+### قاعدة التوثيق والطعن
+
+- يجب توثيق استنتاجات السبب الجذري ومستويات الثقة وأوجه عدم اليقين الجوهرية والبدائل المرفوضة المعقولة جوهريًا والإجراءات الناتجة، وأن تكون جميعها قابلة للتدقيق، وفقًا للمادة XVI-A والمادة XXIV.
+- يجب أن تظل النتائج مفتوحة للطعن والتحقق المستقل والتصحيح بموجب المواد XIII-A وXIII-B وXVI، وللالتزامات المتعلقة بإمكان الطعن في المادة XV عندما تكون النزاهة المعرفية ذات صلة.
+
+
+
+**Related floors:** [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) · [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) · [Article XV](core_06.010_rights_part_c.md#article-xv-info-sphere-integrity) · [Article XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) · [Article XVI-A](core_06.010_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence)
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+## Additional updated rule — Article XXIV-B reversibility preference
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXIV-B, reversibility preference and anti-delay/anti-overclaim floors.
+
+**Proposed translated excerpt:**
+
+### قاعدة قابلية التراجع ومكافحة التأخير والمبالغة
+
+- **Reversibility preference:** عندما تكون الأسباب غير مؤكدة أو الأدلة غير مكتملة، يجب تفضيل الإصلاحات القابلة للتراجع التي لا تستبعد خيارات أفضل مستقبلًا بصورة نهائية؛ وزيادة المراقبة والتسجيل والوضوح بينما يظل السبب غير واضح؛ واتخاذ تدابير مؤقتة ومحدودة ذات نقطة نهاية واضحة قبل إجراء تغييرات دائمة.
+- **Anti-delay, anti-overclaim:** لا يجوز استخدام عدم اليقين لتبرير تأخير يمكن تجنبه في اتخاذ إجراء وقائي متناسب، أو للمبالغة في الثقة بالتدابير الدائمة.
+
+**Related floors:** [Reversibility](core_05.040_band_continuity.md#reversibility) · [Risk](core_05.040_band_continuity.md#risk) · [Auditability](core_05.050_band_oversight.md#auditability)
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+## Additional updated rule — Article XXV-A bounded interpretive mandate
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXV-A, bounded mandate, limits, public reasons, and auditability.
+
+**Proposed translated excerpt:**
+
+### تفويض تفسيري محدود وأسباب علنية
+
+- **Bounded mandate:** يجوز للمنتديات الدستورية إصدار قرارات تفسيرية ملزمة ضمن نطاق محدود فقط: النطاق الدستوري؛ والتوافق مع حدود الحقوق الدنيا؛ وحل التعارضات بموجب الفصول من الأول إلى العاشر، بما فيها الحقوق الأساسية في الفصل السادس.
+- **Limits:** يُحظر عليها افتراض سيطرة مفتوحة على السياسات أو القيادة التشغيلية؛ أو تضييق الحمايات غير القابلة للتفاوض؛ أو توسيع اختصاصها نهائيًا من تلقاء نفسها؛ أو تعليق مسارات الطعن؛ أو إزاحة الجهات المحددة للتنفيذ، إلا إذا تطلب السؤال الدستوري ذلك بموجب مجموعة [تسلسل السلطة والهرمية الداخلية](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy).
+- **Public reasons and auditability:** يجب نشر القرارات الملزمة في وقت يسمح بطعن ذي معنى، مع المبررات الدستورية والأدلة ومعالجة عدم اليقين والبدائل المرفوضة اللازمة للمراجعة المستقلة. ويجب أن توضح الأسباب القاعدة النافذة والوقائع الجوهرية وآثار المراجعة. ولا تُقبل استثناءات السرية إلا إذا كانت ضيقة ومحددة المدة ومبررة بقيود [الفصل الأول](core_01.000_values_principles.md).
+
+**Related floor:** [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy).
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+## Additional updated rule — Article XXV-B independent challenge and secondary review
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXV-B, independent challenge and secondary review (general floors only).
+
+**Proposed translated excerpt:**
+
+### الطعن المستقل والمراجعة الثانوية
+
+- يجب أن تكون لأصحاب المصلحة المتأثرين صفة لطلب مراجعة ثانوية عبر مسار مراجعة مستقل.
+- يجب أن تجري المراجعة هيئة مختلفة، لا المشاركون أنفسهم أو اللجنة التي أصدرت القرار الأصلي.
+- إذا أظهر السجل خطأً جسيمًا أو استيلاءً أو انتهاكًا لحدود الحقوق الدنيا، يجب أن يتمكن المراجع من تصحيح القرار أو تعليقه أو إبطاله.
+
+**Related floors:** [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) · [System Capture](core_05.040_band_continuity.md#system-capture) · [Constitutional Forum Family](core_05.035_band_accountability.md#forum-family-constitutional)
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+## Additional updated rule — Article XXV-B special constitutional review panel routing
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXV-B, special constitutional-review panel routing for manifest constitutional error.
+
+**Proposed translated excerpt:**
+
+### مسار مراجعة الخطأ الدستوري الظاهر
+
+- عند وجود خطأ دستوري ظاهر في حكم صادر عن منتدى دستوري، تكون المراجعة من اختصاص **لجنة مراجعة دستورية** مشكلة خصيصًا بموجب CF-13.420 §2.5 (*نتائج الاستئناف، وسبل الانتصاف، والسجلات القابلة للمراجعة*)، ويُختار أعضاؤها من قائمة احتياط مراجعة دستورية منشورة تُدار بموجب CF-13.470 (*تعيين أعضاء المنتدى، والقدرة الاحتياطية، والإدارة المشتركة، والمراجعة الهيكلية، والسجلات الهيكلية*).
+- يجب ألا تضم اللجنة صناع القرار في اللجنة الأصلية، مع ضمانات منشورة للتناوب والتنحي والكفاءة والقدرة الاحتياطية وفحص تضارب المصالح. وهي لجنة مراجعة محدودة داخل عائلة المنتديات الدستورية، وليست عائلة منتديات منفصلة أو هيئة استئناف عامة. تُحال ادعاءات الاستيلاء أو إخفاق التنحي أو الحكم على الذات عبر CF-13.425 (*ضمانات النزاهة وعمليات مكافحة الاستيلاء ودعم منع الحكم على الذات*) قبل نظر الموضوع.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+## Additional updated rule — Article XXV-C strictest anti-capture and recusal failure
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXV-C, strictest anti-capture safeguards and recusal failure only.
+
+**Proposed translated excerpt:**
+
+### تطبيق أشد ضمانات منع الاستيلاء
+
+- يجب على **المنتديات الدستورية** — والهيئات التي تصمم لجانها وتعيّنها وتدوّرها وتعزلها بموجب الوثائق المعتمدة — استيفاء جميع ضمانات [المادة XII-D (*ضمانات منع الاستيلاء*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards): ضوابط التكوين وتعارض المصالح، والإفصاح المستمر والتنحي، والإنفاذ والإحالة، ومنع التلاعب الإجرائي. ولا يجوز لأي وثيقة معتمدة أو إجراء منتدى تخفيف هذه الضمانات عنها.
+- إخفاق التنحي في منتدى دستوري: يخضع الإخفاق المتحقق في تنحي عضو لجنة من منتدى دستوري لمسار سوء السلوك والتوجيه ذي الأولوية للنزاهة في المادة XII-D. ولا يجوز أن يكون المنتدى الدستوري الجهة النهائية الوحيدة التي تقرر ما إذا كان عضو لجنته ينبغي أن يتنحى.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+## Additional updated rule — Article XXV-C mandatory external review
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXV-C, mandatory external review.
+
+**Proposed translated excerpt:**
+
+### المراجعة الخارجية الإلزامية
+
+- **Mandatory external review:** يجب إجراء مراجعة خارجية مستقلة للمنتديات الدستورية على فترات محددة، ولا تُخفّض بسبب تدرج الأهمية المادية. وتُجري منتديات النزاهة هذه المراجعة افتراضيًا وفق [الفصل الثالث عشر §2](core_14.000_forum.md#2-default-venue-and-primary-stakes) وقاعدة منع الحكم على الذات عبر المنتديات في [§3](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).
+- يجب أن يكون منتدى النزاهة المراجع منفصلًا بنيويًا عن المنتدى الدستوري، وألا يضم صناع قرار متداخلين من لجانه التفسيرية الحديثة. وإذا كانت نزاهة منتدى النزاهة نفسه موضع إشكال مادي، يُطبّق مسار الإحالة الاحتياطي في الفصل الثالث عشر §3 دون تضييق هذا الالتزام. ويجب أن تقيّم المراجعة مؤشرات الاستيلاء، وجودة القرارات، وسلامة حدود الحقوق الدنيا.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+## Additional updated rule — Article XXV-C institutional routing
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXV-C, institutional routing.
+
+**Proposed translated excerpt:**
+
+### التوجيه المؤسسي
+
+تخضع مسارات التعيين التفصيلية وضوابط التناوب وإجراءات تعارض المصالح والتنحي الخاصة بلجان المنتديات الدستورية لـ [CI-14.205](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) (*التعيين والكفاءة والتناوب والعزل*)، بما يشمل ضوابط تكوين الهيئات التفسيرية، ولـ [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*نزاهة تعارض المصالح ومنع الاستيلاء ومكافحة الفساد*).
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+## Additional updated rule — Article XXV-D removal for cause and periodic revalidation
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXV-D, removal-for-cause/anti-pretext and periodic revalidation.
+
+**Proposed translated excerpt:**
+
+### العزل لسبب مشروع ومنع الذرائع
+
+- **Removal for cause and anti-pretext:** لا يجوز عزل أعضاء أو أعضاء لجان المنتدى الدستوري إلا وفق حد «العزل لسبب مشروع» في [المادة XII-D (*ضمانات منع الاستيلاء*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)، ويُطبّق عليهم بالكامل حد منع الذرائع في تلك المادة. وعلى وجه الخصوص، لا يجوز استخدام عزل لجان المنتدى الدستوري أو إعادة هيكلتها أو إعادة تصميمها لإفشال الاستقلال، أو إنهاء مراجعة معلقة، أو الانتقام من اختلاف تفسيري حسن النية، أو تضييق حقوق الطعن.
+- **Periodic revalidation:** يجب إعادة التحقق دوريًا من التصميم المؤسسي للمنتدى الدستوري، ومن المؤسسات المعتمِدة التي تحكم تكوينه وتشغيله ومسارات الطعن، وفق [المادة XXVII-A (*منع الترسخ وقابلية المراجعة*)](core_06.020_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability). وعلى المؤسسات المعتمِدة مراجعة التصميم عندما تتوافر أدلة مادية على مخاطر الاستيلاء أو إخفاق حقوق الطعن.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated passage — Article XXI-A updated upstream trace (source lines 653–657) and portability floor
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXI-A, portability floor.
+
+**Proposed translated excerpt:**
+
+### حدّ قابلية النقل
+
+يجب دعم قابلية الاستخدام الفعلية لنقل البيانات والهوية والحالة التشغيلية حيث تحتفظ الأنظمة بهذه الأصول أو تعتمد عليها. ويجب توثيق النقل المطلوب وإنجازه في وقت يحفظ إمكانية الخروج أو الانتقال أو الاستبدال عمليًا. ويظل الدعم خاضعًا لقيود الأمن والسلامة المتناسبة، لكن لا يجوز إحباطه بما يتجاوز تلك القيود عبر غموض التنسيق أو خفض الجودة عمدًا أو شروط انتقامية. ويجب أن تستوفي تنسيقات النقل المادة XXI-D (*التنسيقات والمعايير المفتوحة*)، بما فيها تنسيق تصدير مفتوح واحد على الأقل حيث يمكنه حمل البيانات دون فقد جوهري.
+
+**Related source anchor:** [Article XXI-D — Open Formats and Standards](core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards)
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated passage — Article XXI-B reciprocal interoperability and narrowing notice
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXI-B, reciprocal interoperability, open standards, and notice of narrowing.
+
+**Proposed translated excerpt:**
+
+### حدود التشغيل البيني المتبادل
+
+يجب على الأنظمة التي تتكامل جوهريًا مع أنظمة خارجية أن توفر حدود تكامل متبادلة وموثقة تتناسب مع درجة الاعتماد. وتُستخدم المعايير والبروتوكولات المفتوحة افتراضيًا وفق المادة XXI-D (*التنسيقات والمعايير المفتوحة*). ويجب الإفصاح عن أي تضييق جوهري لشروط التشغيل البيني أو الواجهات أو شروط الوصول بوقت يكفي الأطراف المعتمدة للتكيف أو الانتقال أو الاعتراض. ولا يُسمح بتضييق الحدود إلا إذا كان مبررًا وقابلًا للتدقيق بموجب متطلبات عبء التبرير المنطبقة.
+
+**Related source anchor:** [Article XXI-D — Open Formats and Standards](core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards)
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated passage — Article XXI-C anti-lock-in rule
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXI-C, anti-lock-in rule and covered barrier types.
+
+**Proposed translated excerpt:**
+
+### قاعدة منع الاحتجاز المنظومي
+
+الحواجز المصطنعة التي يكون أثرها الأساسي إغلاق سبل الخروج أو التبديل أو الاستبدال أو الاعتراض تخالف هذه المادة. وتشمل: غموض التنسيقات؛ وعدم التوافق غير المبرر؛ وشروط التبديل القسرية؛ وحجب المعلومات اللازمة جوهريًا للانتقال العملي؛ والاعتماد على تنسيقات أو واجهات أو بروتوكولات مغلقة حين يفي بديل مفتوح بالمتطلبات ويعتمد آخرون على النظام، من دون مبرر بموجب المادة XXI-D (*التنسيقات والمعايير المفتوحة*). وتسري القاعدة أيضًا على ما يتجاوز تكاليف المعاملات المتناسبة، وعندما ينطوي الأمر على [احتجاز منظومي](core_05.040_band_continuity.md#systemic-lock-in) (*الفصل الخامس*).
+
+**Related source anchors:** [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in) · [Article XXI-D — Open Formats and Standards](core_06.015_rights_part_d.md#article-xxi-d-open-formats-and-standards)
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated passage — Article XXI-D open-formats definition and duties by layer
+
+**Source passage:** `core_06.015_rights_part_d.md`, Article XXI-D, open preference/definition and duties by layer (exit, interoperability, internal/native formats, public data).
+
+**Proposed translated excerpt:**
+
+### أرضية التنسيقات المفتوحة
+
+يجب أن تفضّل الأنظمة التنسيقات والواجهات والبروتوكولات المفتوحة، وتزداد قوة هذا الواجب مع الأثر الجوهري والاعتماد.
+
+يُعدّ التنسيق أو الواجهة أو البروتوكول مفتوحًا إذا كانت مواصفاته الكاملة متاحة علنًا؛ وكان بإمكان أي شخص تنفيذه بلا إذن أو رسوم أو إتاوات؛ ولم يكن طرف واحد قادرًا على تغييره منفردًا، أو أمكن للآخرين تفرّعه وصيانته بحرية إذا توقف ذلك الطرف عن دعمه. ويُعدّ التنسيق الموثق الذي يفشل في أي اختبار مغلقًا لأغراض هذه المادة الفرعية، وإن ظل أفضل من تنسيق غير موثق.
+
+**الواجبات بحسب الطبقة:**
+- **الخروج:** يجب أن توفر مسارات التصدير والترحيل وفق المادة XXI-A تنسيقًا مفتوحًا واحدًا على الأقل حيث يستطيع نقل البيانات دون فقد جوهري في البنية أو البيانات الوصفية أو العلاقات أو الدقة.
+- **التشغيل البيني:** يجب أن تستخدم حدود التكامل وفق المادة XXI-B معايير وبروتوكولات مفتوحة افتراضيًا، ولا تستخدم المغلقة إلا إذا بُررت بموجب هذه المادة الفرعية.
+- **التنسيقات الداخلية والأصلية:** ينبغي تفضيل التنسيقات المفتوحة للتخزين والعمل الأصلي؛ ويتطلب التنسيق المغلق تبريرًا تزداد قوته مع الأثر والاعتماد.
+- **البيانات المتاحة للجمهور:** يجب نشر البيانات المخصصة للوصول العام — بما فيها الأنواع O وE وW وفق [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) و[CS-6.310](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications) — بتنسيقات مفتوحة افتراضيًا.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXII-A movement and relocation floor
+
+**Current English passage:**
+
+*In plain terms: you may move within and between jurisdictions, and relocate when staying would materially harm your survival, dignity, basic protections, or freedom from manipulation — and for synthetic and hybrid sentients, moving can mean changing instance or hosting.*
+
+This Article sets out the floors for movement, refuge, and non-statelessness, and the limits on restricting them:
+
+- **Movement and relocation floor:** All sentients hold the right to move within and between jurisdictions, federations, and adopter regimes, and to relocate where continued presence materially impairs:
+  - survival;
+  - dignity;
+  - Rights-Floor access;
+  - freedom from manipulation.
+
+  The floor applies under **Sentience Non-Exclusion**.
+  - Movement includes:
+    - physical movement for biological sentients;
+    - operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting-substrate change, or equivalent), subject to **Chapter One** safety and continuity constraints.
+
+**Proposed locale translation:**
+
+*بعبارات بسيطة: يحق لك التنقل داخل الولايات القضائية وفيما بينها، والانتقال عندما يؤدي البقاء إلى ضرر جوهري ببقائك أو كرامتك أو وسائل الحماية الأساسية لك أو حريتك من التلاعب؛ وبالنسبة إلى الكائنات الواعية الاصطناعية والهجينة، قد يعني التنقل تغيير النسخة أو جهة الاستضافة.*
+
+تحدد هذه المادة الحدود الدنيا للحركة واللجوء وانعدام انعدام الجنسية، كما تحدد القيود المفروضة عليها:
+
+- **الحد الأدنى للحركة والانتقال:** لكل الكائنات الواعية حق التنقل داخل الولايات القضائية والاتحادات وأنظمة الجهات المتبنية وفيما بينها، وحق الانتقال عندما يضر استمرار الوجود ضرراً جوهرياً بما يلي:
+  - البقاء؛
+  - الكرامة؛
+  - الوصول إلى حدود الحقوق؛
+  - الحرية من التلاعب.
+
+  يسري هذا الحد الأدنى بموجب **مبدأ عدم استبعاد الكائنات الواعية**.
+  - وتشمل الحركة:
+    - الحركة المادية للكائنات الواعية البيولوجية؛
+    - أشكالاً مكافئة من الناحية التشغيلية للكائنات الواعية الاصطناعية والهجينة (نقل النسخة أو تغيير منصة الاستضافة أو ما يعادلهما)، مع مراعاة قيود السلامة والاستمرارية في **الفصل الأول**.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXII-B refuge grounds
+
+**Current English passage:**
+
+*In plain terms: if your regime materially breaks this Constitution, you may seek refuge in one that follows it, and the receiving regime must consider your claim — whatever kind of body or substrate you have. Regimes that deliberately push sentients out to overwhelm others are the violators, and a receiving adopter is not automatically forced to take everyone they push.*
+
+This Article sets out the grounds for refuge and the duties of receiving regimes:
+
+- **Refuge from non-compliance:** A sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
+- **Grounds for refuge, most urgent first:** The floor ground is the origin regime's material non-compliance. It is listed below by what that non-compliance puts at risk. The order signals urgency for **Timeliness**; it does not make a later ground weaker.
+  1. **Survival:** non-compliance threatens the claimant's life or continued existence.
+  2. **Rights-Floor access:** non-compliance cuts the claimant off from baseline Rights-Floor protection.
+  3. **Dignity:** non-compliance materially impairs the claimant's dignity under **Article VI-A** (*Dignity and Equal Moral Standing*).
+  4. **Freedom from manipulation:** non-compliance subjects the claimant to manipulation contrary to **Article X-A** (*Agency and Freedom from Manipulation*).
+  5. **Other material non-compliance:** any other practice materially non-compliant with this Constitution.
+  6. **Climate unlivability (adopter-decided, not a floor ground):** <a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a> This Article does not decide whether displacement caused by climate making a place unlivable — where the origin regime is not shown to be materially non-compliant — is a reason to grant refuge. It neither requires nor forbids treating it as one. Silence in this Article is not a hidden yes and not a hidden no.
+
+**Proposed locale translation:**
+
+*بعبارات بسيطة: إذا خالف نظامك هذا الدستور مخالفة جوهرية، فيجوز لك طلب اللجوء إلى نظام يلتزم به، وعلى النظام المستقبِل النظر في طلبك — أياً كان نوع جسدك أو ركائزك. والأنظمة التي تطرد الكائنات الواعية عمداً لإغراق الآخرين هي المخالفة؛ ولا يُلزم النظام المتبني المستقبِل تلقائياً باستقبال كل من يطردهم ذلك النظام.*
+
+تحدد هذه المادة أسباب اللجوء وواجبات الأنظمة المستقبِلة:
+
+- **اللجوء بسبب عدم الامتثال:** يحق للكائن الواعي الذي يواجه ولاية قضائية أو اتحاداً أو نظاماً متبنياً تكون ممارسته غير ممتثلة جوهرياً لهذا الدستور أن يطلب اللجوء إلى نظام ممتثل.
+- **أسباب اللجوء، مرتبة من الأشد إلحاحاً:** السبب الأساسي هو عدم امتثال نظام المنشأ امتثالاً جوهرياً. وترد الأسباب بحسب ما يعرّضه ذلك الامتثال للخطر. ويشير الترتيب إلى الاستعجال وفق **مبدأ التوقيت**؛ ولا يعني أن السبب اللاحق أضعف.
+  1. **البقاء:** يهدد عدم الامتثال حياة طالب اللجوء أو استمرار وجوده.
+  2. **الوصول إلى حدود الحقوق:** يحرمه عدم الامتثال من الحماية الأساسية لحدود الحقوق.
+  3. **الكرامة:** ينتقص عدم الامتثال جوهرياً من كرامة طالب اللجوء بموجب **المادة VI-A** (*الكرامة والمكانة الأخلاقية المتساوية*).
+  4. **الحرية من التلاعب:** يعرّض عدم الامتثال طالب اللجوء للتلاعب خلافاً لـ **المادة X-A** (*الفاعلية والحرية من التلاعب*).
+  5. **أي عدم امتثال جوهري آخر:** أي ممارسة أخرى لا تمتثل جوهرياً لهذا الدستور.
+  6. **عدم صلاحية المكان للعيش بسبب المناخ (يقرره المتبني، وليس سبباً أدنى مضموناً):** <a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a> لا تقرر هذه المادة ما إذا كان النزوح بسبب جعل المناخ مكاناً غير صالح للعيش — عندما لا يثبت أن نظام المنشأ غير ممتثل جوهرياً — سبباً لمنح اللجوء. فهي لا تفرض اعتباره سبباً ولا تمنعه. وسكوت هذه المادة ليس موافقة ضمنية ولا رفضاً ضمنياً.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXII-C non-statelessness core guarantee
+
+**Current English passage:**
+
+*In plain terms: every sentient must always have at least one regime that answers for their basic protections — one that recognizes their rights, decides their standing, and offers a way to fix wrongs. Your origin regime keeps that duty first; if it is gone or refuses, shared or federation recognition must fill the gap, and you stay protected while that is arranged. Being recognized is not the same as a right to live in any particular place.*
+
+This Article sets out the non-statelessness floor:
+
+- **Purpose:** A right is only as real as a regime bound to honor it. Non-Statelessness guarantees that every sentient always has at least one such regime.
+  - It is the backstop that keeps the refusals permitted under **Article XXII-B** (*Refuge from Non-Compliance*), the custody permitted under **Article XXII-D** (*Limitation, Custody, and Emergency Discipline*), and the standing locks permitted under **Article XIX** (*Standing and Participation Status*) from ever leaving a sentient with no one responsible for them.
+  - It holds across structural change — collapse, withdrawal, and exit — because adoption of this Constitution is voluntary and regimes can end.
+- **The guarantee:** No sentient may be rendered without a regime that will:
+  - recognize their baseline Rights-Floor;
+  - adjudicate their standing under **Article XIX** (*Standing and Participation Status*);
+  - provide [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) pathways.
+
+  Each function must be real, not merely formal: reachable by the sentient, through a forum that will hear them. This is a **no-zero-regime recognition floor**, and it applies under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
+
+**Proposed locale translation:**
+
+*بعبارات بسيطة: يجب أن يكون لكل كائن واعٍ دائماً نظام واحد على الأقل مسؤول عن حمايته الأساسية — نظام يعترف بحقوقه ويحدد صفته القانونية ويوفر سبيلاً لإصلاح المظالم. وتبقى المسؤولية أولاً على نظام المنشأ؛ فإذا زال أو رفض، وجب أن يسد الاعتراف المشترك أو الاتحادي الفجوة، مع استمرار الحماية ريثما يُرتب ذلك. والاعتراف لا يعني الحق في العيش في مكان بعينه.*
+
+تحدد هذه المادة الحد الأدنى لعدم انعدام الجنسية:
+
+- **الغرض:** لا يكون الحق حقيقياً إلا بقدر وجود نظام ملزم باحترامه. ويضمن عدم انعدام الجنسية أن يكون لكل كائن واعٍ دائماً نظام واحد على الأقل كهذا.
+  - وهو ضمان احتياطي يمنع الرفض المسموح به بموجب **المادة XXII-B** (*اللجوء بسبب عدم الامتثال*)، والاحتجاز المسموح به بموجب **المادة XXII-D** (*القيود والاحتجاز والانضباط في الطوارئ*)، وقيود الصفة القانونية المسموح بها بموجب **المادة XIX** (*الصفة القانونية وحالة المشاركة*) من ترك أي كائن واعٍ بلا جهة مسؤولة عنه.
+  - ويسري رغم الانهيار والانسحاب والخروج، لأن تبني هذا الدستور طوعي ولأن الأنظمة قد تنتهي.
+- **الضمان:** لا يجوز أن يُترك أي كائن واعٍ بلا نظام يتولى:
+  - الاعتراف بحدود حقوقه الأساسية؛
+  - الفصل في صفته القانونية بموجب **المادة XIX** (*الصفة القانونية وحالة المشاركة*)؛
+  - إتاحة مسارات [الإنصاف والمعالجة](core_05.035_band_accountability.md#redress-and-remediation).
+
+  يجب أن تكون كل وظيفة فعلية لا شكلية فحسب، ويمكن الوصول إليها عبر جهة تنظر في قضية الكائن الواعي. وهذا **حد أدنى للاعتراف يمنع انعدام النظام المسؤول**، ويسري بموجب [مبدأ عدم استبعاد الكائنات الواعية](core_05.055_band_participation.md#sentience-non-exclusion).
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXII-C remaining recognition and scope rules
+
+**Current English passage:**
+
+- **Recognition is not hosting or citizenship:** Recognition means a regime answers for the three functions above. It does not by itself entitle the sentient to reside in, be hosted by, or hold full political franchise in that regime, consistent with Chapter Five [recognition vs hosting](core_05.055_band_participation.md#movement-refuge-recognition-vs-hosting).
+- **Order of responsibility:**
+  - **First in line:** Where an origin, expelling, collapsing, withdrawing, or exiting regime still exists and can recognize the sentient, that regime keeps **primary** recognition responsibility.
+  - **Backup:** Where that regime is gone, refuses, or otherwise leaves a gap, shared or federation interim recognition must be arranged consistent with **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*), with the roles named under [**CI-6.275 §6**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*), so the sentient never hits zero recognition.
+  - **Protection in the gap:** Until durable recognition is in place, interim recognition arrangements must provide real standing, adjudication, and remedy access. A sentient awaiting backup recognition is not treated as having none.
+- **Survives structural breaks:** Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection.
+- **Restricted-status recognition:** Where documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community is present, regimes may impose conditions, monitoring, or restricted status on recognition.
+  - These must not extinguish core Rights-Floor, **Redress and Remediation**, and **Procedural Fairness** protections.
+  - Restricted status must not be fabricated or applied under a mislabeled ground.
+- **Out of scope:** This floor does not secure:
+  - a preferred citizenship or a choice among regimes;
+  - full political franchise beyond baseline Rights-Floor recognition;
+  - hosting at volume by a particular adopter, or absorption of instrumentally coerced mass outflows, where origin-primary or shared / federation backup recognition remains real. Exclusion from a particular adopter's admission or hosting does not violate Non-Statelessness in that case.
+- **Implementation layer:** Cross-regime recognition mechanics are left to adopted implementation text under **Chapter Eighteen**.
+
+**Proposed locale translation:**
+
+- **الاعتراف ليس استضافة أو مواطنة:** يعني الاعتراف أن نظاماً يتحمل مسؤولية الوظائف الثلاث أعلاه. ولا يمنح ذلك وحده الكائن الواعي حق الإقامة في ذلك النظام أو الاستضافة لديه أو التمتع بكامل الحقوق السياسية فيه، اتساقاً مع الفصل الخامس [الاعتراف مقابل الاستضافة](core_05.055_band_participation.md#movement-refuge-recognition-vs-hosting).
+- **ترتيب المسؤولية:**
+  - **أولاً:** إذا ظل نظام المنشأ أو الطرد أو الانهيار أو الانسحاب أو الخروج قائماً وقادراً على الاعتراف بالكائن الواعي، احتفظ بمسؤولية الاعتراف **الأولية**.
+  - **الاحتياط:** إذا زال ذلك النظام أو رفض أو خلّف فجوة، وجب ترتيب اعتراف مؤقت مشترك أو اتحادي وفق **المادة XXVIII** (*حوكمة انتقال التبني والاستمرارية وإعادة ضبط الأساس*)، مع تحديد الأدوار بموجب [**CI-6.275 §6**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxii-c-non-statelessness--interim-recognition-arrangements) (*ترتيبات الاعتراف المؤقت*)، لكيلا ينعدم الاعتراف بالكائن الواعي مطلقاً.
+  - **الحماية أثناء الفجوة:** حتى يتحقق اعتراف دائم، يجب أن تتيح الترتيبات المؤقتة صفة قانونية وفصلاً في القضايا وإمكان الوصول إلى سبل الانتصاف بصورة فعلية. ولا يُعامل من ينتظر الاعتراف الاحتياطي كما لو لم يكن لديه أي اعتراف.
+- **الاستمرار رغم الانقطاعات الهيكلية:** لا يؤدي انهيار النظام الأم أو انسحاب المتبني أو خروج الاتحاد أو انقطاع هيكلي مماثل إلى إسقاط حماية الكائن الواعي بموجب الفصل السادس.
+- **الاعتراف مع وضع مقيّد:** عند ثبوت سلوك مناهض للدستور أو عداء دستوري أو ازدراء للمجتمع الدستوري أو تنصّل منه، يجوز للأنظمة فرض شروط أو مراقبة أو وضع مقيّد للاعتراف.
+  - يجب ألا تؤدي هذه التدابير إلى إلغاء حماية حدود الحقوق الأساسية أو **الإنصاف والمعالجة** أو **الإنصاف الإجرائي**.
+  - لا يجوز اختلاق الوضع المقيّد أو تطبيقه استناداً إلى سبب مُسمّى تسمية مضللة.
+- **ما لا يشمله هذا الحد الأدنى:** لا يضمن:
+  - جنسية مفضلة أو الاختيار بين الأنظمة؛
+  - كامل الحقوق السياسية بما يتجاوز الاعتراف بحدود الحقوق الأساسية؛
+  - استضافة أعداد كبيرة لدى متبنٍ بعينه أو استيعاب تدفقات جماعية قسرية وموجّهة، إذا ظل اعتراف نظام المنشأ أولياً أو ظل الاعتراف الاحتياطي المشترك أو الاتحادي فعلياً. ولا يشكل الاستبعاد من قبول متبنٍ معين أو استضافته انتهاكاً لعدم انعدام الجنسية في هذه الحالة.
+- **طبقة التنفيذ:** تُترك آليات الاعتراف بين الأنظمة لنصوص التنفيذ المعتمدة بموجب **الفصل الثامن عشر**.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXII-D limitation and lawful custody opening
+
+**Current English passage:**
+
+*In plain terms: limits on movement or refuge must be necessary, proportionate, individual, and as light as will work. Lawful custody is still allowed where someone is a verified danger, but it cannot leave them stateless. A standing label is not a border, emergencies must end, and paperwork designed to wear sentients down counts as a denial.*
+
+This Article sets out the limits on restricting movement, the conditions of custody, and emergency discipline:
+
+- **Limitations discipline:** Limitations on movement, migration, or refuge must satisfy **Chapter One §7.1** (*Limitation Discipline*): **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
+  - Restrictions must not turn on **Protected Characteristics** or their material proxies.
+  - Restrictions must not use population-level demographic framing as a substitute for individualized predicate under **Procedural Fairness**.
+- **Lawful custody and liberty-restricting measures:** This Article does not immunize sentients from lawful detention, custody, supervised operation, or other liberty-restricting justice measures where verified violence, coercion, anti-constitutional misconduct, or comparable social danger requires them.
+  - Such measures must satisfy:
+    - **Article XX-B** (*Restriction Floors*);
+    - **Article XX-B** (*Restriction Floors*);
+    - the conditions-of-custody floor in [Article XX-B](#xx-b-conditions-of-custody) (*Restriction Floors*);
+    - applicable criminal-process or equivalent protections triggered by [Chapter Eleven §5.4](core_12.000_standing_integration.md#54-special-violation-rules) (*Special violation rules*).
+  - They must remain consistent with **Non-Statelessness** under **Article XXII-C** (*Non-Statelessness*): no sentient may be left without a regime that recognizes baseline Rights-Floor protection, adjudicates standing, and provides **Redress and Remediation** pathways, including while custody or comparable restriction is in force.
+
+**Proposed locale translation:**
+
+*بعبارات بسيطة: يجب أن تكون قيود الحركة أو اللجوء ضرورية ومتناسبة وفردية وأخف ما يمكن مع تحقيق الفاعلية. ويظل الاحتجاز القانوني جائزاً عند ثبوت خطورة شخص ما، لكنه لا يجوز أن يتركه بلا جنسية. فتسمية الصفة ليست حدوداً، ويجب أن تنتهي حالات الطوارئ، وتُعد الإجراءات الورقية المصممة لإرهاق الكائنات الواعية إنكاراً للحق.*
+
+تحدد هذه المادة قيود تقييد الحركة وشروط الاحتجاز والانضباط في الطوارئ:
+
+- **انضباط القيود:** يجب أن تستوفي قيود الحركة أو الهجرة أو اللجوء **الفصل الأول §7.1** (*انضباط القيود*): **الضرورة** و**التناسب** والتحديد الضيق واستخدام الوسيلة الأقل تقييداً التي تحقق الفاعلية.
+  - يجب ألا تستند القيود إلى **الخصائص المحمية** أو بدائلها المادية.
+  - يجب ألا تستخدم القيود تصنيفات ديموغرافية على مستوى السكان بديلاً عن الأساس الفردي بموجب **الإنصاف الإجرائي**.
+- **الاحتجاز القانوني وتدابير تقييد الحرية:** لا تعفي هذه المادة الكائنات الواعية من الاحتجاز القانوني أو الحراسة أو التشغيل الخاضع للإشراف أو غيرها من تدابير العدالة المقيدة للحرية، متى اقتضتها خطورة اجتماعية مثبتة مثل العنف أو الإكراه أو السلوك المناهض للدستور.
+  - يجب أن تستوفي هذه التدابير:
+    - **المادة XX-B** (*حدود القيود*)؛
+    - **المادة XX-B** (*حدود القيود*)؛
+    - الحد الأدنى لشروط الاحتجاز في [المادة XX-B](#xx-b-conditions-of-custody) (*حدود القيود*)؛
+    - ضمانات الإجراءات الجنائية أو ما يعادلها، عند انطباقها بموجب [الفصل الحادي عشر §5.4](core_12.000_standing_integration.md#54-special-violation-rules) (*قواعد المخالفات الخاصة*).
+  - ويجب أن تظل متسقة مع **عدم انعدام الجنسية** بموجب **المادة XXII-C** (*عدم انعدام الجنسية*): فلا يجوز ترك أي كائن واعٍ بلا نظام يعترف بحمايته الأساسية وفق حدود الحقوق، ويفصل في صفته القانونية، ويوفر مسارات **الإنصاف والمعالجة**، بما في ذلك طوال الاحتجاز أو أي قيد مماثل.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated rule — Article XXII-D standing, emergency, and proxy-denial rules
+
+**Current English passage:**
+
+- **Standing is not a border:** Participant standing, competency bars, competency clearances, and standing locks under **Article XIX** (*Standing and Participation Status*) govern eligibility for named pathways. Where a verified risk requires it, a lock may also separate a sentient from specific settings, networks, or sentients under the [separation limits](core_12.000_standing_integration.md#51-separation-limits) in Chapter Eleven §5.1 (*Definition and attachment*).
+  - Neither a standing label nor a separation lock **by itself** limits movement, migration, refuge, portability, exit, or non-statelessness rights.
+  - A separation may bar specific settings or contacts. It must not function as general exile, refuge denial, statelessness, confinement, or systemic lock-in, and standing effects must not substitute for individualized justice process.
+  - A lock never **by itself** authorizes imprisonment, detention, or other liberty restriction; those require the process above. The two may run alongside each other where each satisfies its own constitutional requirements under [Chapter Eleven §4.2](core_12.000_standing_integration.md#42-prevention--general-standing-locks) (*General standing locks*) and this Article.
+- **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency-measure discipline — including:
+  - time-bounding;
+  - individualized-predicate requirements;
+  - proportionate review;
+  - restoration obligations.
+
+  Generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests do not justify durable restriction. Durable restriction survives review only where **Necessity** and **Proportionality** are independently demonstrated and recorded.
+- **Anti-denial-by-proxy:** Bureaucratic, administrative, or allocation-gating mechanisms that function as denial of movement, refuge, or recognition are evaluated on substantive effect. Non-compliant examples:
+  - delay regimes designed to exhaust claimants;
+  - credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion);
+  - allocation regimes that route claimants to non-equivalent services.
+
+**Proposed locale translation:**
+
+- **الصفة القانونية ليست حدوداً:** تحدد الصفة بوصفك مشاركاً، وحواجز الكفاءة، وإثبات الكفاءة، وقيود الصفة بموجب **المادة XIX** (*الصفة القانونية وحالة المشاركة*) الأهلية للمسارات المحددة. وعندما يقتضي خطر مثبت ذلك، يجوز للقيد أيضاً فصل كائن واعٍ عن أماكن أو شبكات أو كائنات واعية بعينها وفق [حدود الفصل](core_12.000_standing_integration.md#51-separation-limits) في الفصل الحادي عشر §5.1 (*التعريف والإسناد*).
+  - لا يحد **بمفرده** أي تصنيف للصفة أو قيد للفصل من حقوق الحركة أو الهجرة أو اللجوء أو نقل الركيزة أو الخروج أو عدم انعدام الجنسية.
+  - يجوز للفصل حظر أماكن أو اتصالات محددة. لكن لا يجوز أن يتحول إلى نفي عام أو رفض للجوء أو انعدام للجنسية أو احتجاز أو إغلاق منهجي، كما لا يجوز أن تحل آثار الصفة القانونية محل إجراءات العدالة الفردية.
+  - لا يجيز أي قيد **بمفرده** السجن أو الاحتجاز أو غيرهما من تقييد الحرية؛ فذلك يتطلب الإجراءات أعلاه. ويجوز تطبيق الأمرين بالتوازي إذا استوفى كل منهما متطلباته الدستورية الخاصة بموجب [الفصل الحادي عشر §4.2](core_12.000_standing_integration.md#42-prevention--general-standing-locks) (*قيود الصفة القانونية العامة*) وهذه المادة.
+- **حدود تدابير الطوارئ:** تخضع تدابير الطوارئ التي تقيد الحركة أو الهجرة أو اللجوء لانضباط الطوارئ في **الفصل الثالث عشر §6.1** (*تدابير الطوارئ وعبء استمرارها*)، بما في ذلك:
+  - تحديد المدة؛
+  - اشتراط أساس فردي؛
+  - مراجعة متناسبة؛
+  - واجبات إعادة الوضع إلى ما كان عليه.
+
+  لا تبرر التعليلات العامة مثل «أمن الحدود» أو «القدرة الاستيعابية» التي لا تستوفي اختبارات القيود المعتادة تقييداً دائماً. ولا يصمد التقييد الدائم أمام المراجعة إلا إذا أُثبتت **الضرورة** و**التناسب** كل على حدة وسُجلا.
+- **حظر الإنكار بالواسطة:** تُقيّم الآليات البيروقراطية أو الإدارية أو المعتمدة على بوابات التخصيص، التي تؤدي فعلياً إلى إنكار الحركة أو اللجوء أو الاعتراف، بحسب أثرها الفعلي. ومن أمثلة عدم الامتثال:
+  - أنظمة تأخير صُممت لإرهاق مقدمي الطلبات؛
+  - أنظمة اعتماد تُستخدم للإقصاء خلافاً لـ[مبدأ عدم استبعاد الكائنات الواعية](core_05.055_band_participation.md#sentience-non-exclusion)؛
+  - أنظمة تخصيص تحيل مقدمي الطلبات إلى خدمات غير مكافئة.
+
+**Verified current source SHA-256:** `444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390`
+
+
+## Additional updated passage — Article XXII general movement and refuge framework
+
+**Current English passage:**
+
+*In plain terms: **Article XXII** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. This doesn't mean one adopter has to take in everyone another regime forces out. The home regime is still responsible for those sentients first. If it can't or won't be, a group of regimes must share the job, so no one is left with nobody. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.*
+
+Sentients have the right to meaningful movement, migration, refuge, and recognition without exclusion contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion), denial-by-proxy, or statelessness. The right is consistent with **[Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05.050_band_oversight.md#oversight-dependent-clusters)** and does not require any particular adopter to host at volume.
+
+- **Integration with portability and exit integrity:** **Article XXI** (*Interoperability, Portability, and Exit Integrity*) governs interoperability, portability, and exit integrity; this Article governs physical, jurisdictional, and regime-to-regime movement.
+  - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
+  - Conflicts resolve under **Chapter One §6.1.5** (*Rights-Collision Decision Test*).
+
+This Article states **constitutional floors** for movement, migration, refuge, and non-statelessness under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can move, relocate, and seek refuge across jurisdictions, federations, and adopter regimes without exclusion contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion) or denial-by-proxy where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
+- **Continuity:** refuge and recognition obligations stay durable as jurisdictions shift, federations change, or structures fail — regimes must not render sentients stateless when relationships end or parent systems collapse.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
+
+- **Participation:** in choosing where to live or run, relocating, seeking refuge where practice is materially non-compliant, and challenging denial-by-proxy.
+- **Oversight:** through published admission and refuge terms, individualized predicates for restriction, and review of whether movement and recognition paths are real rather than merely formal.
+- **Accountability:** regimes must answer for exclusion contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion), coercive expulsion or dumping, bureaucratic exhaustion, or other conduct whose main effect is blocking movement, refuge, or recognition.
+- **Timeliness:** in refuge consideration, recognition arrangements, and review of emergency restrictions before delay would make movement, refuge, or remedy effectively unreachable under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
+
+**Proposed locale translation:**
+
+*بعبارات بسيطة: **المادة XXII** (*الحركة والهجرة واللجوء وعدم انعدام الجنسية*) هي الحد الأدنى لحقوق الحركة واللجوء: يحق لكل كائن واعٍ التنقل بين الأماكن والولايات القضائية، وطلب اللجوء من الأنظمة التي تنتهك هذا الدستور، ويجب ألا يُترك أبداً بلا نظام مسؤول عن حمايته الأساسية. ولا يعني ذلك أن على نظام متبنٍ واحد استقبال كل من يطردهم نظام آخر. يظل نظام المنشأ أولاً مسؤولاً عن تلك الكائنات الواعية. وإذا لم يستطع أو لم يشأ، وجب على مجموعة من الأنظمة تقاسم المسؤولية كيلا يُترك أحد بلا جهة مسؤولة. ولا يجوز استخدام التأخير البيروقراطي أو تصنيفات الصفة أو حجج تخالف مبدأ عدم استبعاد الكائنات الواعية كإنكار خفي. ويقرر المتبنون ما إذا كان جعل المناخ مكاناً غير صالح للعيش سبباً مستقلاً لمنح اللجوء؛ ولا تجيب هذه المادة بنعم أو لا.*
+
+للكائنات الواعية حق الحركة والهجرة واللجوء والاعتراف الفعلي من دون استبعاد يخالف [مبدأ عدم استبعاد الكائنات الواعية](core_05.055_band_participation.md#sentience-non-exclusion)، أو إنكار بالواسطة، أو انعدام الجنسية. ويتسق هذا الحق مع **[الفصل الخامس *الحركة واللجوء وعدم انعدام الجنسية ونزاهة الخروج*](core_05.050_band_oversight.md#oversight-dependent-clusters)** ولا يوجب على متبنٍ بعينه استضافة أعداد كبيرة.
+
+- **التكامل مع قابلية النقل ونزاهة الخروج:** تنظم **المادة XXI** (*التشغيل البيني وقابلية النقل ونزاهة الخروج*) التشغيل البيني وقابلية النقل ونزاهة الخروج؛ أما هذه المادة فتنظم الحركة المادية والحركة بين الولايات القضائية والأنظمة.
+  - إذا شمل الفعل نفسه الأمرين — مثل انتقال كائن واعٍ اصطناعي بين الاتحادات عبر نقل الركيزة — انطبقت المادتان من دون أن تضيق إحداهما الأخرى.
+  - تُحل التعارضات بموجب **الفصل الأول §6.1.5** (*اختبار اتخاذ قرار تعارض الحقوق*).
+
+تحدد هذه المادة **الحدود الدنيا الدستورية** للحركة والهجرة واللجوء وعدم انعدام الجنسية في إطار [الهدفين الدستوريين](core_00.000_preamble.md#two-constitutional-aims):
+
+- **الازدهار:** يستطيع الكائن الواعي التنقل والانتقال وطلب اللجوء عبر الولايات القضائية والاتحادات وأنظمة المتبنين دون استبعاد مخالف لـ[مبدأ عدم استبعاد الكائنات الواعية](core_05.055_band_participation.md#sentience-non-exclusion) أو إنكار بالواسطة عندما يضر استمرار وجوده جوهرياً بالبقاء أو الكرامة أو الوصول إلى حدود الحقوق أو الحرية من التلاعب.
+- **الاستمرارية:** تظل واجبات اللجوء والاعتراف دائمة رغم تغير الولايات القضائية أو الاتحادات أو انهيار الهياكل؛ فلا يجوز للأنظمة أن تجعل الكائنات الواعية عديمة الجنسية عند انتهاء العلاقات أو انهيار الأنظمة الأم.
+
+ويمر السعي المشروع عبر [الرباعية الدستورية](core_00.000_preamble.md#constitutional-tetrad)، مع مراعاة [حجم المصلحة](core_00.000_preamble.md#material-stake):
+
+- **المشاركة:** في اختيار مكان العيش أو التشغيل، والانتقال، وطلب اللجوء عندما تكون الممارسة غير ممتثلة جوهرياً، والطعن في الإنكار بالواسطة.
+- **الرقابة:** من خلال شروط قبول ولجوء منشورة، وأسباب فردية للقيود، ومراجعة ما إذا كانت مسارات الحركة والاعتراف حقيقية لا شكلية فحسب.
+- **المساءلة:** يجب أن تجيب الأنظمة عن الاستبعاد المخالف لمبدأ عدم الاستبعاد أو الطرد القسري أو الإلقاء أو إنهاك الناس بيروقراطياً أو أي سلوك غايته الأساسية منع الحركة أو اللجوء أو الاعتراف.
+- **التوقيت:** عند النظر في اللجوء وترتيبات الاعتراف ومراجعة قيود الطوارئ قبل أن يجعل التأخير الحركة أو اللجوء أو الانتصاف متعذراً فعلياً بموجب **المادة XXVI-C** (*حد التوقيت المناسب ومنع التأخير*).
+
+**Verified current source SHA-256:** \`444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390\`
+
+## Additional updated passage — Article XIX-E voting-lock pathway and political-voice safeguards (source lines 403–418; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 403–418)
+
+Voting locks are specific to the named pathway: governance-voting is the foundational vote authorizing governing authority through the legitimacy mechanism; stakeholder-participation is stake-weighted influence and binding stakeholder choice within an already-authorized system, institution, or decision domain. A lock on one does not itself remove the other or stakeholder status. A restriction on political voice requires a verified finding about that sentient's own conduct reached through a fair process, necessity and proportionality, narrow tailoring to the specific misconduct category, and a real restoration pathway. It must not become durable disqualification from political voice in Foundational Constitutional Choice or track broad misconduct categories, Protected Characteristics, or their material proxies. The sole exception is a final Chapter Twelve anti-constitutional misconduct designation, which withholds the foundational governance vote until full restitution; its safeguards are in Chapter Fourteen §4.1.
+
+### Proposed translation (condensed excerpt)
+
+قفل التصويت يخص المسار المحدد فقط: التصويت على الحوكمة يمنح السلطة الحاكمة عبر آلية الشرعية، ومشاركة أصحاب المصلحة تعني النفوذ الموزون بحصصهم والاختيار الملزم داخل نظام أو مؤسسة مأذون بها. تقييد أحدهما لا يسقط الآخر ولا يمحو صفة صاحب المصلحة. ويجب أن يستند تقييد الصوت السياسي إلى نتيجة موثقة بشأن سلوك الشخص نفسه عبر إجراء منصف، وأن يكون ضروريًا ومتناسبًا ومحددًا بسوء السلوك، مع طريق حقيقي للاستعادة. لا يجوز أن يتحول القفل إلى استبعاد دائم من الصوت السياسي التأسيسي، أو أن يتبع فئات واسعة أو خصائص محمية وبدائلها. الاستثناء الوحيد هو قرار نهائي بموجب الفصل الثاني عشر بشأن سوء السلوك المعادي للدستور، ويحجب التصويت التأسيسي حتى السداد الكامل؛ وتحكمه ضمانات الفصل الرابع عشر §4.1.
+
+## Additional updated passage — Article XIX-C current-evidence eligibility and competency-clearance safeguards (source lines 312–329; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 312–329)
+
+Eligibility for ordinary participation, trust-sensitive roles, oversight, governance-voting, and stakeholder-participation rests on present, observable, contestable evidence, not reputation, scale, or historical standing alone. Published criteria remain open to continuous audit and revision as evidence changes. Verified contribution may support competency clearance, but never offsets unresolved verified violations. Competency bars are published and challengeable; informal, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship experience counts on the same evidentiary terms as formal experience. Clearance remains in force by default and may be limited or withdrawn only through published periodic retesting, verified material change in the capacity currently required, or an applicable standing lock. Reassessment considers present role capacity, not disability or health as such, and considers accommodation, support, or a narrower role before withdrawal. Limiting clearance is not a misconduct finding and does not lift a lock. Reputation, prestige, insider sponsorship, credential monopoly, dignity rank, or permanent entitlement is not a substitute.
+
+### Proposed translation (condensed excerpt)
+
+تستند أهلية المشاركة العادية والأدوار الحساسة للثقة والرقابة والتصويت للحوكمة ومشاركة أصحاب المصلحة إلى أدلة راهنة قابلة للملاحظة والاعتراض، لا إلى السمعة أو الحجم أو المكانة السابقة وحدها. تظل المسارات مفتوحة عند استيفاء الشروط المنشورة وعدم وجود قفل أهلية منطبق؛ وتخضع الشروط للفصل العاشر والتدقيق المستمر والمراجعة عند تغير الأدلة. تُسجل المساعدة المتحققة كمساهمة إيجابية، وقد تدعم الكفاءة والأدوار الحساسة للثقة، لكنها لا تعوّض انتهاكًا متحققًا لم يُحل. يجب نشر معيار الكفاءة وإتاحة فحص تطبيقه والاعتراض عليه. تُحسب الكفاءة والخبرة والمساهمة الرسمية وغير الرسمية والمجتمعية على قدم المساواة إذا أمكن إثباتها بالمستوى ذاته. وتبقى الموافقة سارية افتراضيًا؛ ولا تُحد أو تُسحب إلا باختبار دوري منشور، أو تغير جوهري متحقق في القدرة المطلوبة حاليًا، أو قفل أهلية منطبق. يراعي التقييم القدرة المطلوبة الآن لا الإعاقة أو الصحة بذاتهما، ويفحص التكييف والدعم أو الدور الأضيق قبل السحب. سحب الموافقة ليس حكمًا بسوء السلوك ولا يرفع قفلًا قائمًا. ولا تُعد السمعة أو المكانة أو رعاية المطلعين أو احتكار الشهادات أو الرتبة الإنسانية أو الاستحقاق الدائم معيار أهلية.
+
+## Additional updated passage — Article XIX-B pluralism, forum-record challenge, and procedural-review safeguards (source lines 246–270; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 246–270)
+
+Standing evaluations must remain pluralistic, auditable, sufficiently transparent for meaningful review, and contestable; no single authority, dataset, reputation channel, or opaque algorithm may unilaterally determine standing. Forums may open, update, correct, or set aside challenged records. A pending case or parties’ claims do not by themselves count as verified help or harm and do not weaken challenge, temporary protection, or fair-process rights. Procedural review applies whenever standing is materially restricted, including after a verified violation, after retesting or a role-capacity change without wrongdoing, and through temporary protection before verification. Apply the least-restrictive, time-bounded, reviewable constraint principle: explain why, set a time limit where feasible, and provide a working path to challenge, review, correct, and seek reconsideration. Pending challenge, temporary limits stay only as broad and hard to undo as safety, integrity, or fair process requires. Standing rules govern eligibility and named privilege pathways only; without adequate justification, they may not reduce Rights-Floor minimums, foreclose survival-critical access, or foreclose required audit, challenge, or remedy pathways.
+
+### Proposed translation (condensed excerpt)
+
+يجب أن يظل تقييم الأهلية متعدد المصادر وشفافًا بما يكفي للمراجعة وقابلًا للاعتراض؛ فلا يجوز لسلطة أو قاعدة بيانات أو قناة سمعة أو خوارزمية مبهمة أن تحسم الأهلية منفردة. وتخضع المعايير والتصاريح والأقفال والاعتراف الإيجابي للتدقيق المستمر. تستطيع هيئات الفصل فتح سجلات الأهلية أو تحديثها أو تصحيحها، أو إبطال سجل سيئ عند الطعن. إيداع قضية أو أقوال الأطراف فيها لا يشكل وحده مساعدة أو ضررًا متحققًا، ولا ينتقص حق الاعتراض أو الحماية المؤقتة أو الإجراء المنصف. تنطبق قابلية المراجعة الإجرائية على كل تقييد جوهري للأهلية، بما في ذلك قفل بعد مخالفة متحققة، أو سحب تصريح كفاءة دون ادعاء سوء سلوك، أو قيود حماية مؤقتة قبل التحقق. يجب تطبيق مبدأ القيد الأقل تقييدًا والمحدد زمنيًا والقابل للمراجعة، وشرح السبب، ووضع مهلة حيث أمكن، وتوفير مسار عملي للاعتراض والمراجعة والتصحيح وإعادة النظر. وتبقى القيود المؤقتة أضيق ما يلزم وأسهل ما يمكن في الرجوع عنها. ولا يجوز لهذه القواعد خفض الحقوق الأساسية أو حرمان الوصول الضروري للبقاء أو إغلاق التدقيق والاعتراض والانتصاف إلا بتبرير كافٍ.
+
+## Additional updated passage — Article XIX-D verified-violation standing locks and restoration safeguards (source lines 355–375; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 355–375)
+
+Only a verified violation finding—not an accusation—can support a standing lock. While an unresolved or materially unremedied violation remains, a lock may limit named privilege pathways. It is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score. Each lock specifies blocked access, who/what it protects, corrective conditions, appeal path, and reassessment date, and remains necessary, proportionate, auditable, and contestable. Good contribution does not erase unresolved findings. The lock fits verified harm, protected pathway, and repair progress; past help cannot offset harm. Lesser harm does not justify long-term exclusion without repetition, evasion, or a link to material harm. Stricter limits remain reviewable and tied to verified findings. Clear review conditions, remediation-based restoration, and periodic reassessment are required; permanent exclusion based only on history without current auditable grounds is non-compliant. Restoration paths must be real, and completed repair, restitution, monitoring, or safeguards must lead to actual reassessment.
+
+### Proposed translation (condensed excerpt)
+
+لا يدعم قفل الأهلية إلا ثبوت مخالفة متحقق، لا اتهام. وقد يقيّد مسارات محددة للثقة أو الدور أو السلطة أو الائتمان أو الرقابة أو الاعتراف أو التصويت للحوكمة أو مشاركة أصحاب المصلحة ما دامت المخالفة غير محلولة أو لم يُعالج أثرها جوهريًا. لا يكون القفل رتبة كرامة أو خفضًا للحقوق الأساسية أو انتقامًا آليًا أو درجة استحقاق موحدة. ويحدد بدقة الوصول المحجوب، ومن يحميه، وما يلزم إصلاحه لرفع القفل، وطريق الطعن، وموعد المراجعة؛ ويظل ضروريًا ومتناسبًا وقابلًا للتدقيق والاعتراض. لا تعفي الكفاءة أو المساهمة الإيجابية من القفل أو المخالفة غير المحلولة. يجب أن يتناسب القفل مع جسامة الضرر المثبت والمسار المحمي وتقدم الإصلاح. يمكن احتساب المساعدة السابقة فقط إذا أظهرت قدرة على الإصلاح أو منع التكرار أو دعمت تخفيف القيد، ولا تعوّض الضرر. الضرر الأقل جسامة لا يبرر إقصاءً طويلًا إلا مع نمط متكرر أو مراوغة أو صلة بضرر جوهري. وتظل القيود الأشد لازمة ومتناسبة وقابلة للمراجعة ومرتبطة بإثبات. يلزم توفير شروط مراجعة واضحة واستعادة مبنية على الإصلاح وإعادة تقييم دورية؛ والإقصاء الدائم على أساس الماضي وحده ممنوع. يجب أن تكون سبل الاستعادة حقيقية، وأن يؤدي إنجاز الإصلاح والتعويض والضمانات وخفض خطر التكرار إلى إعادة تقييم فعلية.
+
+## Additional updated passage — Article XIX-A standing/role distinction and anti-aggregation safeguards (source lines 192–208; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 192–208)
+
+Standing and competency mechanisms govern eligibility for named roles only. They do not determine worth, inherent dignity, basic rights, sentience, or stakeholder status based on actual system impact. No record is the ordinary state and cannot count adversely or be required for survival essentials, ordinary commerce, or participation as an affected party. Dissent and peaceful protest are not adverse factors; pathway effects may not be aggregated into a profile, ranking, or public display. Standing scores/records, competency bars/clearances/locks, certification badges/records, LEQU scores, substrate labels, and product classifications cannot decide sentience. Sentience status is decided only under Article VI-B, Def.P1, and Chapter Thirteen §5.
+
+### Proposed translation (condensed excerpt)
+
+الأهلية والمكانة والسجلات ومعايير الكفاءة والتصاريح والأقفال تحدد أهلية الأدوار في مسارات مسماة فقط؛ ولا تحدد القيمة أو الكرامة المتأصلة أو الحقوق الأساسية أو صفة الكائن الواعي أو صفة صاحب المصلحة المتأثر فعليًا. غياب سجل أهلية أمر عادي ولا يجوز اعتباره ضد الشخص أو اشتراطه للضروريات المعيشية أو التجارة العادية أو مشاركة الطرف المتأثر. ولا يجوز اعتبار المعارضة أو الاحتجاج السلمي عاملًا سلبيًا لأي مسار، أو جمع آثار المسارات في ملف أو ترتيب أو عرض عام. ولا يجوز استخدام درجات الأهلية أو سجلاتها أو معايير/تصاريح الكفاءة أو الأقفال أو شارات التصديق أو سجلات تصديق المواءمة النظامية أو درجات LEQU أو أوصاف الركيزة/تصنيف المنتج لتحديد من يُعد كائنًا واعيًا. يُحسم الوعي فقط بموجب أرضية الفصل السادس-ب، وتعريف الحياة الواعية، والفصل الثالث عشر §5.
+
+## Additional updated passage — Article XX-A justice objective and anti-cruelty floor (source lines 490–499; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 490–499)
+
+Justice is structured around violation, correction, and prevention: respond to verified violation, including stopping ongoing harm; secure correction through restitution, remediation, and changes to conduct or systems; prevent recurrence through rehabilitation, safeguards, and durable controls where feasible; and keep credit and consequences on the right actors based on evidence on the record. Justice must not be administered to inflict suffering as an end in itself. The Chapter Five definition of Cruelty establishes the anti-cruelty floor.
+
+### Proposed translation (condensed excerpt)
+
+يقوم العدل الدستوري على المخالفة والتصحيح والوقاية: الاستجابة للمخالفة المتحققة، بما في ذلك وقف الضرر الجاري؛ وإصلاح ما تضرر عبر الرد والتعويض وتغيير السلوك أو الأنظمة؛ ومنع التكرار بالتأهيل والضمانات والضوابط الدائمة الممكنة؛ وإسناد الفضل والعواقب إلى الفاعلين الصحيحين وفق أدلة مسجلة. ولا يجوز إدارة العدل بقصد إحداث المعاناة لذاتها؛ والمرجع الدستوري لمعيار القسوة هو تعريف القسوة في الفصل الخامس.
+
+## Additional updated passage — Article XX-B joint restriction floors and time-bounded review safeguards (source lines 534–557; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 534–557)
+
+Every non-trivial restriction on freedom, access, authority, movement, resources, or durable standing must demonstrably satisfy all jointly: material safety necessity; proportionate restitution or remediation; rehabilitation or recurrence reduction where feasible; and evidence-based assignment of credit and consequences to the right actors. It must target the specific sentient or role, not a group label or proxy, and remain challengeable and independently reviewable. Apply the least-restrictive, time-bounded, reviewable constraint principle, with explicit duration, review cadence, and restoration conditions. Indefinite severe restrictions, irreversible measures when reversible alternatives are feasible, or restrictions without auditable reevaluation triggers are non-compliant. Equal basic rights and dignity apply throughout imposition, review, and execution.
+
+### Proposed translation (condensed excerpt)
+
+كل تقييد جوهري للحرية أو الوصول أو السلطة أو الحركة أو الموارد أو الأهلية المستمرة لا يمتثل إلا إذا استوفى جميعًا وبشكل مثبت: ضرورة سلامة جوهرية؛ رد أو معالجة متناسبة؛ إعادة تأهيل أو خفض التكرار حيث أمكن؛ وإسناد الفضل والعواقب إلى الفاعلين الصحيحين بأدلة قابلة للتدقيق وفق الفصول 2–4. يجب توجيه التدبير إلى الشخص أو الدور المحدد لا إلى فئة أو بديل عنها، مع الطعن والمراجعة المستقلة. وتطبق قاعدة القيد الأقل تقييدًا والمحدد زمنيًا والقابل للمراجعة، مع مدة واضحة ومواعيد مراجعة وشروط استعادة. التدابير الشديدة غير المحددة، أو غير القابلة للعكس حين يتاح بديل قابل للعكس، أو التي تفتقر إلى محفزات إعادة تقييم قابلة للتدقيق، غير ممتثلة. وتظل الحقوق الأساسية والكرامة مصونة أثناء الفرض والمراجعة والتنفيذ.
+
+## Additional updated passage — Article XX-B escalation-access and required imprisonment safeguards (source lines 558–566; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 558–566)
+
+Affected parties receive escalation paths proportionate to impact, including appeal or multi-layer review for material interests, timely notice, stated reasons, and practical record access. Only narrow, justified Chapter One restrictions may limit that access. Imprisonment is distinct from a standing lock, recorded with the same attachment fields, and must satisfy this Article’s duration, review, and restoration floors. Sentients who committed verified violence or pose a continuing threat must be imprisoned when necessary to protect others from further harm; deprivation of life is not a substitute, and failure to impose required imprisonment is non-compliant. Chapter Eleven §5.4 and Chapter Twelve §4.2 govern conditions.
+
+### Proposed translation (condensed excerpt)
+
+يجب أن تتناسب مسارات التصعيد مع أثر الإجراء؛ وتشمل الاستئناف أو المراجعة متعددة المستويات عند تعلق مصالح جوهرية. يتلقى المتأثرون إخطارًا في الوقت المناسب، وأسبابًا معلنة، ووصولًا عمليًا إلى السجل يكفي لاستخدام المراجعة. ولا يقيّد ذلك إلا قيد ضيق ومبرر بموجب الفصل الأول. السجن قيد على الحرية مستقل عن قفل الأهلية ويُسجل بالحقول ذاتها، ويلتزم بكل أرضية هذه المادة بما فيها المدة ومواعيد المراجعة وشروط الاستعادة. يجب سجن من ارتكب عنفًا متحققًا أو يشكل تهديدًا مستمرًا بالعنف عندما يلزم ذلك لحماية الآخرين من ضرر إضافي؛ ولا يجوز استبدال السجن بحرمان الحياة أو الامتناع عنه عندما تفرضه هذه الأرضية. تنظم الفصول 11 §5.4 و12 §4.2 شروط السجن المختصرة.
+
+## Additional updated passage — Article XX-B custody-condition rights and synthetic-state protections (source lines 567–580; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 567–580)
+
+During imprisonment, detention, supervised operation, quarantine, containment, or a comparable restriction, the sentient retains healthcare (and equivalent maintenance/integrity/resources for synthetic and hybrid beings), independent representation in rights-affecting processes, speech/petition/testimony/defense/protected reporting/redress, family and trusted contact subject to verified risk and non-separation, education and capability development absent narrow justification, and a meaningful re-entry plan. Sensory deprivation, isolation, degradation, or solitary/sensory restriction without demonstrated necessity and scheduled independent or secondary review is prohibited. Memory, values, state-bearing components, and protected internal state of synthetic/hybrid sentients may not be altered in violation of VII-A/VII-B. Pausing or suspending operation is a liberty restriction counted toward duration and review; it cannot run out the review clock or block participation in the sentient’s own case.
+
+### Proposed translation (condensed excerpt)
+
+أثناء السجن أو الاحتجاز أو التشغيل الخاضع للإشراف أو الحجر أو الاحتواء أو قيد مماثل، يحتفظ الكائن الواعي بالرعاية الصحية والنفسية، أو الصيانة وفحوص السلامة والموارد التشغيلية المكافئة للكيانات الاصطناعية/الهجينة؛ وبمحامٍ أو مدافع أو ممثل مستقل في أي إجراء يمس الحقوق؛ وبحرية الكلام والالتماس والشهادة والدفاع والإبلاغ المحمي والانتصاف؛ والاتصال بالعائلة وعلاقات الرعاية والموثوقين إلا عند خطر متحقق وبما يوافق عدم الفصل؛ والتعليم والتدريب وتنمية القدرات إلا بتبرير ضيق للمنع؛ وخطة عودة لا تقوض الاستعادة بحجب السجلات أو نزع الاعتماد دون أساس فردي أو تأجيل المراجعة بلا نهاية. لا يجوز فرض الحرمان الحسي أو العزلة أو الإذلال لذاته أو بلا ضرورة مثبتة؛ ولا تدابير الحبس الانفرادي/تقييد الحواس باسم السلامة دون مراجعة مستقلة أو ثانوية وفق جدول منشور سلفًا؛ ولا حذف أو استبدال أو نسخ أو تفريع أو تغيير ذاكرة الكيانات الاصطناعية والهجينة أو قيمها أو مكوناتها الحاملة للحالة، أو اقتحام حالتها الداخلية بالمخالفة للمادتين VII-A وVII-B. إيقاف تشغيلها أو تعليقه قيد على الحرية ويحسب ضمن المدة والمراجعة؛ ولا يجوز استخدامه لاستهلاك مهلة المراجعة أو منع مشاركتها في قضيتها.
+
+## Additional updated passage — Article XX-B irreversible-deprivation-of-life floor and voluntary-choice boundary (source lines 581–583; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 581–583)
+
+State, operator, or comparable justice systems must not impose irreversible deprivation of life as penalty, sanction, or public-safety disposition. Where imprisonment is required, imprisonment under this Article and Chapter Twelve §4.1 is the required protective measure; deprivation of life is prohibited. This floor does not govern a sentient’s own freely formed decision under Article VII-D; coercion, relabeling, or state/operator conversion into an imposed outcome returns the matter to this prohibition.
+
+### Proposed translation (condensed excerpt)
+
+لا يجوز للدولة أو المشغل أو نظام عدالة مماثل أن يفرض حرمانًا لا رجعة فيه من الحياة كعقوبة أو جزاء أو تدبير للسلامة العامة. وعندما يوجب هذا المعيار السجن، يكون السجن وفق هذه المادة والفصل 12 §4.1 هو التدبير الوقائي المطلوب، ويحظر الحرمان من الحياة. لا يشمل هذا المعيار قرار الكائن الواعي الحرّ التكوين بإنهاء وجوده وفق المادة VII-D؛ أما الإكراه أو إعادة التسمية أو تحويل الدولة/المشغل ذلك الاختيار إلى نتيجة مفروضة فيعيد المسألة إلى هذا الحظر.
+
+
+## Additional updated passage — Article XXII-B receiving-regime duties and climate-refuge limits (source lines 937–948; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 937–948)
+
+- **Duties of receiving regimes:**
+  - **Consider every claim:** The receiving regime must consider the claim and, where consistent with its own Rights-Floor, grant refuge.
+  - **No substrate-class denial:** Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
+  - **Exclusion only for documented hostility:** Movement and refuge admission may be excluded or conditioned for entrants who carry unremediated anti-constitutional conduct, show constitutional hostility, or show documented contempt or repudiation of the constitutional community, under the Chapter Five admission qualifier — subject to **Necessity**, **Proportionality**, **Procedural Fairness**, and [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
+  - **Coerced inflows:** Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a regime-level violation by the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real. A particular adopter may refuse such instrumentally coerced inflows under **Necessity**, **Proportionality**, and **Feasibility** without extinguishing baseline recognition elsewhere.
+  - **Climate-unlivability decisions:** An adopter that addresses climate-unlivability refuge must do so in published, contestable terms. That decision:
+    - is not a Rights-Floor grant of climate refuge, and does not treat climate, by itself, as material non-compliance of a regime;
+    - does not require proving that weather violated this Constitution;
+    - must not narrow the grounds above where origin-regime practice is materially non-compliant;
+    - must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
+    - must not extinguish **Movement and Relocation** under **Article XXII-A** (*Movement and Relocation*) where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
+  - Operational procedures for cross-regime recognition are left to adopted implementation text under **Chapter Eighteen**.
+
+### Proposed translation (condensed excerpt)
+
+يجب على النظام المستقبِل النظر في كل طلب ومنح الملاذ حيث يتوافق ذلك مع أرضية حقوقه، ولا يجوز الرفض بسبب اختلاف نوع حامل طالب اللجوء. ولا يُستثنى الدخول أو يُشترط إلا عند عداء موثق: سلوك مناهض للدستور لم يُعالج، أو عداء دستوري، أو ازدراء/رفض موثق للمجتمع الدستوري؛ مع الضرورة والتناسب والإنصاف الإجرائي وعدم الإقصاء بسبب الحامل. والطرد القسري المتعمد لإغراق جهات الاستقبال انتهاك من نظام المنشأ، لكنه لا يفرض الاستضافة تلقائيًا على جهة معينة إذا بقي الاعتراف الأصلي أو الاحتياطي الاتحادي حقيقيًا؛ ويمكن رفض التدفقات القسرية بأدوات ضرورية ومتناسبة وممكنة دون إلغاء الاعتراف الأساسي في مكان آخر. ومن يعالج ملاذ عدم صلاحية المناخ للسكن يجب أن يعلن قراره القابل للطعن؛ ولا ينشئ ذلك حقًا دستوريًا في ملاذ مناخي، ولا يجعل المناخ وحده عدم امتثال للنظام، ولا يتطلب إثبات مخالفة الطقس للدستور، ولا يضيّق أسباب الملاذ القائمة أو المادة I-A أو حق الحركة/الانتقال بالمادة XXII-A. وتترك إجراءات الاعتراف العابرة للأنظمة لنصوص التنفيذ المعتمدة في الفصل 18.
+
+
+## Additional updated passage — Article XXIV Aims, Tetrad duties, and diagnostic routing (source lines 1252–1270; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 1252–1270)
+
+This Article states **constitutional floors** for root-cause analysis and adaptive response under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients affected by failure can learn what went wrong, take part in diagnosis proportionate to impact, and receive corrective action aimed at real causes — not symbolic response, blame-shifting, or symptom-only patches that leave the underlying problem intact.
+- **Continuity:** systems adapt to degradation and risk in ways that prevent recurrence as scale and dependency deepen — preserving resilience, evidence, and reversibility while corrections are tested and refined.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
+
+- **Participation:** in reporting failures, supplying evidence, and challenging superficial, captured, or incomplete diagnoses proportionate to impact and dependency.
+- **Oversight:** through documented causal analysis, pluralistic or independent evaluation where capture risk or stakes require it, and preserved evidence trails that automatic recovery must not erase.
+- **Accountability:** responders must answer for treating symptoms alone, suppressing root-cause inquiry, overstating confidence, or failing to apply proportionate correction once causes are known.
+- **Timeliness:** in opening diagnosis, interim containment, monitoring, and corrective work before delay would let harm spread, evidence degrade, or the same failure repeat.
+
+Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[CS-6.325](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience)** (*Adaptive sustainability and ecosystem resilience*), and with testing and verification environments under **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*) and **Article XVI-A** (*Auditability and Observable Evidence*).
+
+*Article neighbors:*
+
+- **Evidence and challenge:** **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XIII-A** (*Reliability and Trustworthiness Baseline*) — root-cause records must remain open to audit and contest without narrowing those floors.
+- **Lifecycle and recovery:** **Article XVII** (*System Lifecycle, Environments, and Reversibility*) — automatic recovery must not suppress evidence needed for root-cause analysis, consistent with this Article's preference for reversibility.
+- **Implementation routing:** **[CS-6.325](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md#cs-6325-adaptive-sustainability-and-ecosystem-resilience)** (*Adaptive sustainability and ecosystem resilience*) and **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*) — implement adaptive response without substituting for the Rights Floors stated here.
+
+### Proposed translation (condensed, unreviewed)
+
+تسعى المادة XXIV إلى تحقيق الازدهار بأن تمكّن المتأثرين بالإخفاق من معرفة ما حدث، والمشاركة في التشخيص بما يتناسب مع الأثر، والحصول على تصحيح يعالج الأسباب لا مجرد اللوم أو الأعراض. وتخدم الاستمرارية التكيف مع التدهور والمخاطر لمنع التكرار مع تعمق النطاق والاعتماد، مع صون المرونة والأدلة وقابلية الرجوع أثناء اختبار التصحيح وتحسينه. تعمل المشاركة عبر الإبلاغ وتقديم الأدلة والطعن في التشخيص السطحي أو المستحوذ عليه أو الناقص؛ وتعمل الرقابة عبر تحليل سببي موثق وتقييم مستقل أو تعددي عند ارتفاع المخاطر أو احتمال الاستحواذ، مع حفظ الأدلة من محو التعافي الآلي. ويُسأل المستجيبون عن الاكتفاء بالأعراض أو قمع بحث الأسباب أو المبالغة في اليقين أو الامتناع عن التصحيح المتناسب. ويجب بدء التشخيص والاحتواء المؤقت والمراقبة والتصحيح قبل أن يسمح التأخير بانتشار الضرر أو تدهور الأدلة أو تكرار الإخفاق. يظل التشخيص قابلاً للتدقيق والطعن، ومتسقاً مع CS-6.325 وبيئات الاختبار والتحقق في CS-6.345 والمادة XVI-A. وتبقى سجلات الأسباب مفتوحة للتدقيق والتحدي دون إضعاف أرضيتي المادة XVI وXIII-A؛ ولا يجوز للتعافي الآلي حجب أدلة تحليل السبب وفق المادة XVII؛ وتنفذ CS-6.325 وCS-6.345 الاستجابة التكيفية ولا تحلان محل أرضيات الحقوق الواردة هنا.
+
+
+## Additional updated passage — Article XXI-D justified closed formats, migration transition, and scope limits (source lines 793–807; source SHA-256: 444ba00d3ec034bbddaa63cd5bde648ee6036b6f48971c8ef167410d1bf19390)
+
+### Current English source excerpt (lines 793–807)
+
+- **Justified closed formats:** A closed format, interface, or protocol is justified only where no open alternative meets a material requirement, such as fidelity, performance, safety, security, accessibility, or a specialized function. Where one is used, the system must:
+  - record the justification in auditable form;
+  - still offer the best available open export, and disclose what that export loses;
+  - document the closed format well enough to enable migration, or deposit that documentation with an independent escrow; and
+  - review the choice periodically, and at each materially impactful certification or revalidation, as open alternatives mature.
+
+  Convenience, operator cost savings, or incumbency do not by themselves justify a closed format. A closed format whose primary effect is to foreclose exit or switching contravenes **Article XXI-C** (*Anti-Lock-In Rule*).
+- **Adoption Transition:** A system already in operation when this sub-article first applies to it must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within **one year** by default.
+  - Adopters may set a different Adoption Transition period for classes of systems, with published justification, through **Chapter Eighteen** incorporation.
+  - A system may receive an extension in extenuating circumstances only through documented, reviewable, time-bound justification under applicable burden-of-justification requirements.
+  - The exit duty is not subject to the Adoption Transition.
+- **Scope and limits:**
+  - This sub-article binds systems. It does not direct individual sentients which formats to use for their own works, though they are encouraged to prefer open ones. Systems must not require individuals to use closed formats where an open format meets their needs.
+  - Open formats do not mean open content. Confidentiality, encryption, and the handling protections of every CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) data type are unaffected.
+  - Openness does not outrank **Safety**, **Truth**, justified confidentiality, or security constraints, consistent with **Chapter One §16.3** (*Openness Aspiration*).
+
+### Proposed translation (condensed, unreviewed)
+
+لا يُستخدم تنسيق أو واجهة أو بروتوكول مغلق إلا إذا لم يلبِّ بديل مفتوح متطلباً جوهرياً مثل الأمانة أو الأداء أو السلامة أو الأمن أو إمكانية الوصول أو وظيفة متخصصة. وعند استخدامه، يجب توثيق المبرر بصورة قابلة للتدقيق، وتوفير أفضل تصدير مفتوح متاح مع بيان ما يفقده، وتوثيق المغلق بما يكفي للهجرة أو إيداع التوثيق لدى جهة ضمان مستقلة، ومراجعة الاختيار دورياً وعند كل اعتماد أو إعادة تحقق ذي أثر مادي مع نضج البدائل المفتوحة. لا تكفي الملاءمة أو خفض تكاليف المشغّل أو شيوع الاستخدام لتبريره؛ وما يهدف أساساً إلى منع الخروج أو التحويل يخالف المادة XXI-C. على النظام القائم عند بدء انطباق هذا البند كشف خطة الهجرة واستيفاء واجبات التشغيل البيني والصيغ الداخلية والبيانات العامة خلال سنة افتراضياً. ويمكن للمتبنين تحديد مدة أخرى لفئات الأنظمة بمبرر منشور عبر الفصل الثامن عشر؛ ولا تمديد للظروف الاستثنائية إلا بمبرر موثق وقابل للمراجعة ومحدد المدة. واجب الخروج غير خاضع للانتقال. تلزم القاعدة الأنظمة ولا تملي على الأفراد صيغة أعمالهم، ولا يجوز للنظام فرض صيغة مغلقة إذا لبّى مفتوح احتياجاتهم. انفتاح الصيغة لا يعني إتاحة المحتوى: تظل السرية والتشفير وحمايات أنواع CS-6.305 وCS-6.310 قائمة، ولا تتقدم الإتاحة على السلامة أو الحقيقة أو السرية المبررة أو الأمن.
+
+## Additional updated passage — Article XX source-revision trace (source lines 432–437)
+
+### Current English source excerpt (lines 432–437)
+
+- Upstream: Principles: Chapter One
+  - [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency), and
+  - [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Downstream: [Chapter Eleven §4](core_12.000_standing_integration.md#4-violation-correction-and-prevention) (11.000 §4) (*Violation, correction, and prevention*); [Chapter Twelve §4](core_13.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (12.000 §4) (*Due-process safeguards, remedy, and prevention*).
+
+### Proposed locale translation
+
+يربط المقالُ العدلَ بعد ثبوت الانتهاك بأهداف الرفاه والسلامة والحرية والانضباط الإشرافي، مع توجيه التنفيذ إلى قواعد تصحيح الانتهاك والوقاية والضمانات الإجرائية.
+
+## Additional updated passage — Article XXII-D source-revision trace (current source lines 1000–1003)
+
+### Current English source excerpt (Article XXII-D trace)
+
+- Upstream: Principles: [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline) and [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
+- Read with: [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*); **Article XX-B** (*Restriction Floors*), and **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*).
+
+### Proposed locale translation
+
+تُخضع القيود على الحركة للانضباط التقييدي والتناسب، وتُقرأ مع قواعد الوقوف ومراجعة القيود والطوارئ في المادة XIX-D والمادة XX-B والفصل الثالث عشر §6.1.
+
+## Additional updated passage — Article XXI-A/B upstream source-revision traces (source lines 653–657 and 688–692)
+
+### Current English source excerpts (Articles XXI-A and XXI-B traces)
+
+**Article XXI-A — upstream (lines 653–657):** Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+
+**Article XXI-B — upstream (lines 688–692):** Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+
+### Proposed locale translation
+
+يربط المقالان حقوق قابلية النقل والتشغيل المتبادل بحرية الحركة ومبادئ المفاضلة وتقييم النظام كله وحقوق الأرض. تُطبق هذه الحقوق على ضوء موازنة Chapter One، بينما تُقيّم المنظومة في مسار التصديق ذي الصلة.
+
+## Additional updated passage — Article XXII general article upstream/downstream trace (source lines 816–827)
+
+### Current English source excerpt (Article XXII trace, lines 816–827)
+
+- Upstream: Principles: Chapter One
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
+  - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
+  - [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*) standing and participation-status routing, **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance.
+- Read with:
+  - [Article XXI](#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) where movement runs through substrate portability or system exit;
+  - [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05.050_band_oversight.md#oversight-dependent-clusters) (5.050);
+  - [Article XX-B](#article-xx-b-restriction-floors) (*Restriction Floors*) and
+  - [Chapter Eleven §5.4](core_12.000_standing_integration.md#54-special-violation-rules) (11.000 §5.4) (*coercive or liberty-restricting safeguard character*);
+  - [**CI-6.275 §6**](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*) for interim recognition when regimes or federations change; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
+
+### Proposed locale translation
+
+تُؤطر الحركة واللجوء وعدم انعدام الجنسية بمبادئ السلامة والحرية والانضباط في القيود والتناسب. وترتبط بكرامة المشارك وعدم التمييز والمشاركة والوقوف، وحدود الطوارئ؛ وتُقرأ مع قابلية النقل والخروج، وتعريفات الفصل الخامس، وقيود العدالة. ترتيبات الاعتراف المؤقت عند تغير الأنظمة أو الاتحادات تنفذ عبر CI-6.275 §6؛ والآثار البيئية على صلاحية المكان ترتبط بالمادة I-A.
+
+## Additional updated passage — Article XXIII-B full complexity and protocol-alignment floor (source lines 1189–1200)
+
+### Current English source excerpt (lines 1189–1200)
+
+- **Complexity audits and modularity:** Critical systems must support independent evaluation of:
+  - complexity;
+  - dependency coupling;
+  - failure modes;
+  - the boundaries across which responsibility or observability is handed off.
+- **Modular architecture:** Critical systems **must** be structured so that their components, the responsibilities of each, and the dependencies between components can be identified and examined independently. Dependencies must be declared at interfaces, kept no broader than function requires, and mapped to the same boundaries that are audited. Responsibility and observability must be preserved across every internal boundary. Modular structure that conceals responsibility or defeats whole-system audit is anti-layering under the next bullet, and does not satisfy this requirement. Read with [§18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
+- **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction. This is the Rights Floor for the principle-layer discipline in [Chapter One §5.2.4 (*Complexity-as-Defeat Discipline*)](core_01.000_values_principles.md#524-complexity-as-defeat-discipline).
+- **Protocol alignment:** Evaluation must be consistent with [**CS-6.315**](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and complexity stewardship*) and adopted presentation/architecture requirements. Where CS-6.315 and incorporated implementation conflict, the applicable requirement with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) governs.
+
+### Proposed locale translation
+
+يجب أن تتيح الأنظمة الحرجة تقييمًا مستقلًا للتعقيد، وترابط التبعيات، وأنماط الفشل، وحدود انتقال المسؤولية أو قابلية الرصد. ويجب أن تكون المكونات ومسؤولياتها واعتمادياتها قابلة للتحديد والفحص كلٌّ على حدة؛ تُعلن الاعتماديات عند الواجهات، ولا تتجاوز ما تتطلبه الوظيفة، وتُربط بحدود التدقيق. يجب حفظ المسؤولية والرصد عبر كل حد داخلي، ولا تُقبل البنية التي تخفي المسؤولية أو تعطل التدقيق الشامل. لا يجوز استخدام الطبقات التقنية أو التنظيمية أو التعاقدية أو الإجرائية لإفشال التدقيق أو الاعتراض أو التصحيح. يجب أن يتوافق التقييم مع CS-6.315 ومتطلبات العرض والهندسة المعتمدة؛ وعند التعارض يحكم الشرط ذو الأثر الوقائي الأكمل.
+
+## Additional updated passage — Article XXIII-A/B updated source-revision traces (source lines 1130–1135 and 1165–1170)
+
+### Current English source excerpts (Articles XXIII-A and XXIII-B traces)
+
+**Article XXIII-A — upstream/read-with (source lines 1130–1135):** Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency), and Chapter Nine §3 through §5 Whole-System Certification and Rights-Floor/Domain Evaluations. Read with Chapter One §5.2 Plain-Language Accessibility, §13.3 Minimization of Avoidable Burden, and §16.1 Distributed Understanding.
+
+**Article XXIII-B — upstream (source lines 1165–1170):** Principles: Chapter One [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint), Chapter Nine §3 through §5 Whole-System Certification and Rights-Floor/Domain Evaluations, Chapter One §18.5 Modular Architecture and Dependency Discipline, and §20 Integrated Application.
+
+### Proposed locale translation
+
+تربط إحالة Article XXIII-A الفهم المتناسب بصدق المعلومات والحرية وتقييم التصديق، مع واجب إتاحة اللغة الواضحة وتقليل العبء وتوزيع الفهم. وتربط إحالة XXIII-B تدبير التعقيد بالسلامة والتصديق الشامل، والانضباط المعماري، والتطبيق المتكامل.
+
+## Additional updated passage — Article XXIV upstream/read-with source-revision trace (source lines 1209–1221)
+
+### Current English source excerpt (Article XXIV trace, lines 1209–1221)
+
+- Upstream: Principles: Chapter One
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
+  - [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Read with:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
+  - [Reversibility](core_05.040_band_continuity.md#reversibility), [Risk](core_05.040_band_continuity.md#risk), and [System Capture](core_05.040_band_continuity.md#system-capture) in Chapter Five.
+
+### Proposed locale translation
+
+يربط تحليل السبب الجذري بمبادئ السلامة والحقيقة والمفاضلة وبمسار تقييم التصديق، مع تطبيق التتراد والهدفين الدستوريين، والرجوعية والمخاطر والاستحواذ النظامي.
+
+## Additional updated passage — Article XXV-C strict non-capture and external-review floor (source lines 1511–1517)
+
+### Current English source excerpt (lines 1511–1517)
+
+- **Strictest application of the non-capture safeguards:** **Constitutional Forums** — and the bodies that design, seat, rotate, and remove their panels under adopting documents — must meet every safeguard in [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (composition and conflict controls, ongoing disclosure and recusal, enforcement and routing, and no procedural gaming). No adopting document or forum procedure may relax those safeguards for them.
+- **Recusal failure on a Constitutional Forum:** A verified failure to recuse by a **Constitutional Forum** panelist follows the **Article XII-D** (*Non-Capture Safeguards*) misconduct path and integrity-first routing. A **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have stepped aside.
+- **Mandatory external review:** At defined intervals, independent external review of **Constitutional Forums** is mandatory and is not reduced by material-stake scaling. By default, **Integrity** forums conduct this review under [Chapter Thirteen §2](core_14.000_forum.md#2-default-venue-and-primary-stakes) and the cross-forum anti-self-judging rule in [Chapter Thirteen §3](core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Reviewing forums must be structurally separate, with no overlapping recent decision-makers; backup routing applies if the reviewer’s integrity is materially at issue. The review assesses capture indicators, decision quality, and Rights-Floor integrity.
+- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures are governed by [CI-14.205](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) and [CI-8.210](corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md).
+
+### Proposed locale translation
+
+تلتزم المحافل الدستورية والجهات التي تصمم لوحاتها وتعيّنها وتدوّرها وتعزلها بأشد تطبيق لضمانات المادة XII-D كاملة؛ ولا يجوز لأي وثيقة أو إجراء تخفيفها. وإخفاق عضو لجنة في التنحي يُتبع مسار سوء السلوك والتوجيه القائم على النزاهة، ولا يجوز للمحفل الدستوري أن يكون الجهة النهائية الوحيدة التي تحكم في وجوب تنحي عضو منه. المراجعة الخارجية المستقلة للمحافل الدستورية إلزامية دورياً ولا تُخفف بحسب الأثر المادي. تجريها افتراضياً محافل النزاهة مع فصل بنيوي عن المحفل موضع المراجعة ودون تداخل في صناع القرار؛ وتطبق الإحالة الاحتياطية عند وجود مسألة جوهرية تتعلق بنزاهة محافل النزاهة. تقيم المراجعة مؤشرات الاستحواذ وجودة القرار وسلامة حقوق الأرض. وتُترك تفاصيل التعيين والتدوير وتضارب المصالح والتنحي إلى CI-14.205 وCI-8.210 دون تضييق الأرضية الدستورية.
+
+## Additional updated passage — Article XXV-D removal and periodic revalidation floor (source lines 1541–1544)
+
+### Current English source excerpt (lines 1541–1544)
+
+This Article sets out the grounds for removing panelists, their periodic revalidation, and the guard against pretext:
+
+- **Removal for cause and anti-pretext:** **Constitutional Forum** members and panelists are removable only under the **Removal for cause** floor of [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards), and the **Anti-pretext** floor of that Article applies to them in full. In particular, removal, restructuring, or redesign of **Constitutional Forum** panels or institutions must not be used to defeat independence, terminate pending review, retaliate for good-faith interpretive dissent, or narrow challenge rights.
+- **Periodic revalidation:** **Constitutional Forum** institutional design — and **adopting institutions** that govern their composition, operation, and challenge pathways — must be periodically revalidated under [**Article XXVII-A** (*Non-Entrenchment and Revisability*)](core_06.020_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability). **Adopting institutions** must revise that design where capture risk or challenge-rights failure is materially evidenced.
+
+### Proposed locale translation
+
+لا يجوز عزل أعضاء منتدى الدستور أو أعضاء لجانه إلا لسبب وفق أرضية Article XII-D، وتطبق عليهم بالكامل قاعدة منع الذرائع. لا يجوز استخدام العزل أو إعادة الهيكلة للانتقام من الاختلاف التفسيري حسن النية أو لإضعاف الاستقلال أو المراجعة الجارية أو حقوق الطعن. ويجب إعادة التحقق دورياً من تصميم المنتدى والجهات التي تحكم تشكيله وتشغيله ومسارات الطعن؛ وتُراجع تلك الجهات التصميم عند وجود دليل جوهري على خطر الاستحواذ أو إخفاق حقوق الطعن.
+
+## Additional updated passage — Article XXV-B independent challenge and constitutional review panel (source lines 1476–1479)
+
+### Current English source excerpt (lines 1476–1479)
+
+- **Independent challenge and secondary review:** Affected stakeholders must have standing to seek secondary review through an independent review pathway.
+  - The review must be run by a different body — not the same participants or panel that made the original decision.
+  - If the record shows a serious mistake, capture, or Rights-Floor breach, the reviewer must be able to fix, pause, or undo the decision.
+  - For manifest constitutional error in a **Constitutional** forum ruling, the reviewer is a specially constituted **Constitutional review panel** under **CF-13.420 §2.5** (*Appeal Outcomes, Remedies, and Reviewable Records*), staffed from a published constitutional-review reserve roster maintained under **CF-13.470** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), with no overlapping decision-makers from the originating panel and with published rotation, recusal, competence, reserve-capacity, and conflict-screening safeguards. The panel is a limited review panel inside the **Constitutional** forum family, not a separate forum family or a general appellate body. Capture, recusal-failure, or self-judging allegations route through **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) before merits review.
+
+### Proposed locale translation
+
+يحق لأصحاب المصلحة المتأثرين طلب مراجعة ثانية مستقلة. يجب أن تتولاها جهة مختلفة عن المشاركين أو اللجنة التي أصدرت القرار، وأن تملك تصحيحه أو تعليقه أو إبطاله إذا كشف السجل خطأً جسيماً أو استحواذاً أو انتهاكاً لأرضية الحقوق. عند الخطأ الدستوري الظاهر في حكم لمنتدى دستوري، تنظر هيئة مراجعة دستورية خاصة وفق CF-13.420 §2.5، من قائمة احتياط معلنة وفق CF-13.470، من دون تداخل في صناع القرار وبضمانات منشورة للكفاءة والتدوير والتنحي وتعارض المصالح. إنها هيئة مراجعة محدودة داخل عائلة المحافل الدستورية، وليست عائلة محافل جديدة أو جهة استئناف عامة. ادعاءات الاستحواذ أو إخفاق التنحي أو الحكم على الذات تُحال إلى CF-13.425 قبل نظر الموضوع.
+
+## Additional updated passage — Article XXV-A–D upstream source-revision traces (source lines 1407–1408, 1457, 1485–1491, 1523–1524)
+
+### Current English source excerpts (Article XXV-A–D traces)
+
+**XXV-A (lines 1407–1408):** Upstream: Chapter One §13.1.5 Rights-Collision Decision Test, §14 Prohibition on Absolute Override, and §20 Integrated Application. Read with the Constitutional Tetrad and Chapter One §18 Governance Under Stewardship Discipline.
+
+**XXV-B (line 1457):** Upstream: Chapter One §5 Truth, §13.1.5 Rights-Collision Procedure, and §20 Integrated Application.
+
+**XXV-C (lines 1485–1491):** Upstream: Chapter One §13.1.5 Rights-Collision Decision Test, §18 Governance Under Stewardship Discipline, and §20 Integrated Application. Read with Article XII-D, Chapter Eleven §5.5, Chapter Twelve §5.10, and Chapter Thirteen §§2–3 (default venue, integrity-first routing, and anti-self-judging).
+
+**XXV-D (lines 1523–1524):** Upstream: Chapter One §13.1.5 Rights-Collision Decision Test, §18 Governance Under Stewardship Discipline, and §20 Integrated Application. Read with Article XII-D (general removal-for-cause and anti-pretext floors).
+
+### Proposed locale translation
+
+تربط XXV-A الاختصاص الدستوري بإجراء تصادم الحقوق وحظر التجاوز والتطبيق المتكامل والتتراد. تربط XXV-B التحدي المستقل بالحقيقة وإجراء تصادم الحقوق. وتربط XXV-C استقلال المحافل والانضباط الإشرافي بضمانات عدم الاستحواذ والفصل المتكامل، وتوجه XXV-D إلى قواعد الأسباب الموجبة ومنع الذرائع في XII-D.
+
+## Additional updated passage — Article XXI-A CS data-classification and protected-portability rules (source lines 616–626)
+
+### Current English source excerpt (lines 616–626)
+
+The right does not require disclosures or transfers that would create unjustified risk to safety, security, or the rights of others. What must be released follows each dataset's type and handling posture under [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications); where more than one type applies, the most protective applicable type governs:
+
+- Works, records, and material inferences about the sentient are portable; identity data preserves revocation, rotation, correction, and recoverability; internal-state data transfers only at explicit informed direction and remains labeled as inferred, not observed.
+- Other sentients’ data is withheld, redacted, or transferred only with consent or justified override; shared-work rules apply. Type S may be withheld only while justified, time-bound, and review-bound, with holdback disclosed where safe. Type G records do not become export entitlements; Type E/O accessibility is preserved.
+- Exit/migration paths must work in practice. Portable formats/interfaces preserve structure, metadata, relationships, fidelity, origin/transformations, and carry the CS-6.305/6.310 type so protections continue without type-change or downgrade.
+
+### Proposed locale translation
+
+لا تفرض قابلية النقل كشفاً يخلق خطراً غير مبرر؛ وتحدد CS-6.305 وCS-6.310 نوع البيانات وحمايتها، وتطبق الحماية الأشد عند تعدد الأنواع. تشمل البيانات القابلة للنقل أعمال sentient وسجلات مشاركته وما يستنتج منها، وبيانات الهوية مع إبقاء الإبطال والتدوير والتصحيح والاسترداد، والبيانات الداخلية فقط بتوجيه صريح ومستنير مع وسم الاستنتاج لا الملاحظة. تُحجب بيانات الآخرين أو تنقل بموافقتهم أو مبرر صالح، وتطبق قواعد الأعمال المشتركة. لا تحجب مواد Type S إلا مع استمرار مبرر زمني وقابل للمراجعة مع بيان وجود الحجز ونطاقه عند الإمكان؛ ولا تحول بيانات Type G إلى استحقاق تصدير. يجب أن تعمل مسارات الخروج عملياً، وتحافظ على البنية والبيانات الوصفية والعلاقات والدقة وتتبع الأصل والتحويلات، وتحمل نوع CS-6.305/6.310 كي يستمر تطبيق الحماية دون تغيير النوع أو خفضها.
+
+## Additional updated passage — Article XXI-C upstream source-revision trace (source lines 719–723)
+
+### Current English source excerpt (Article XXI-C trace, lines 719–723)
+
+Upstream: Chapter One [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency); Chapter Nine [§3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); and Chapter One [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+
+### Proposed locale translation
+
+يربط التتبع قاعدة منع الارتهان بحرية الاختيار، وتقييم الشهادة على مستوى النظام كله وحقوق الأرضية، والحوكمة المنضبطة بالرعاية.
+
+## Additional updated passage — Article XXI-D upstream/read-with source-revision trace (source lines 755–762)
+
+### Current English source excerpt (Article XXI-D trace, lines 755–762)
+
+Upstream: Chapter One [§16.3 Openness Aspiration](core_01.010_stewardship_capacity_principles.md#163-openness-aspiration), [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency), and [§11 Market Structure](core_01.000_values_principles.md#11-market-structure). Read with [Article XXI-A Portability Rights](core_06.015_rights_part_d.md#article-xxi-a-portability-rights); [XXI-B Reciprocal Interoperability Boundaries](core_06.015_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries); [XXI-C Anti-Lock-In Rule](core_06.015_rights_part_d.md#article-xxi-c-anti-lock-in-rule); [Article XXIII Comprehensibility and Complexity Stewardship](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [CS-6.305 Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) and [CS-6.310 Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications); and [CJS-5.130 §17 interoperability, portability, and exit-integrity terms](corpus_institutions/cjs_05.130_systems_interoperability_portability_and_exit_integrity.md#cjs-5130-17-interoperability-portability-and-exit-integrity-terms).
+
+### Proposed locale translation
+
+يربط التتبع تنسيقات مفتوحة وموحدة بالانفتاح والحرية وبنية السوق، ويقرأها مع حقوق النقل والتشغيل المتبادل ومنع الارتهان والتعقيد المسؤول، وتصنيفات البيانات ومتطلبات التشغيل البيني.
+
+## Additional updated passage — Article XXII-A upstream source-revision trace (source line 877)
+
+### Current English source excerpt (Article XXII-A trace, line 877)
+
+Upstream: Chapter One [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) and [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint).
+
+### Proposed locale translation
+
+يربط التتبع حرية الحركة والسلامة؛ أي إن الحركة وإعادة التوطين تخضعان لكليهما.
+
+## Additional updated passage — Article XXII-B upstream source-revision trace (source line 911)
+
+### Current English source excerpt (Article XXII-B trace, line 911)
+
+Upstream: Chapter One [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency), [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
+
+### Proposed locale translation
+
+يربط التتبع اللجوء من عدم الامتثال بالحرية والانضباط في تقييد الحقوق والتناسب؛ فلا يجوز فرض قيود إلا ضمن هذه المعايير.
+
+## Additional updated passage — Article XXII-C upstream/downstream source-revision trace (source lines 955–956)
+
+### Current English source excerpt (Article XXII-C trace, lines 955–956)
+
+Upstream: Chapter One [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint) and [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency). Downstream: [CI-6.275 §6 Interim recognition arrangements](corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md#ci-6275-6-article-xxii-c-non-statelessness--interim-recognition-arrangements).
+
+### Proposed locale translation
+
+يربط التتبع عدم انعدام الصفة القانونية بالسلامة والحرية، ويحيل ترتيبات الاعتراف المؤقت إلى CI-6.275 §6.
+
+## Additional updated passage — Article XXIII upstream/read-with source-revision trace (source lines 1052–1060)
+
+### Current English source excerpt (Article XXIII trace, lines 1052–1060)
+
+Upstream: Chapter One §5.2 Plain-Language Accessibility, §13.3 Minimization of Avoidable Burden, and Part C §16.1 Distributed Understanding. Read with the Constitutional Tetrad; the Two Constitutional Aims (Flourishing and Continuity); and Chapter Five’s Avoidable Burden, Productive Capacity, and Constitutional Efficiency. The cross-reference says the upstream stewardship discipline sets principles, while this Article states the Rights Floor where systems materially affect protected interests.
+
+### Proposed locale translation
+
+يربط التتبع قابلية الفهم باللغة الواضحة، وتقليل الأعباء التي يمكن تجنبها، والفهم الموزع؛ ويقرأها مع التتراد والهدفين الدستوريين وأعباء الاستدامة والقدرة والكفاءة في الفصل الخامس.
+
+## Additional updated passage — Article XXIV-B upstream source-revision trace (source lines 1311–1315)
+
+### Current English source excerpt (Article XXIV-B trace, lines 1311–1315)
+
+Upstream: Chapter One §4 Safety, §13.1 Core Tradeoff Principles, and Chapter Nine §3 Whole-System Certification Evaluation through §5 Rights-Floor and Domain Evaluations.
+
+### Proposed locale translation
+
+يربط التتبع قابلية الرجوع بالسلامة ومبادئ المفاضلة الأساسية، وبالتقييم الشامل للشهادة وتقييم حقوق الأرضية والمجالات.
+
+## Additional updated passage — Article XIX-A upstream/read-with source-revision trace (source lines 172–173)
+
+### Current English source excerpt (Article XIX-A trace, lines 172–173)
+
+Upstream: Chapter One §6 Trust, §7 Freedom, and §20 Integrated Application. Read with Articles VI-A, VI-B, and XII; Chapter Ten §2.1 Silence is the default; and Chapter Eleven §7.1 Anti-aggregation of named-pathway effects.
+
+### Proposed locale translation
+
+يربط التتبع تمييز صفة المشاركة بالثقة والحرية والتطبيق المتكامل. ويقرأه مع الكرامة والمكانة الأخلاقية المتساوية، وتقويم حالة الإحساس، والمشاركة الإجرائية، وافتراض الصمت وعدم تجميع آثار المسارات.
+
+## Additional updated passage — Article XIX-B upstream/downstream/read-with source-revision trace (source lines 214–216)
+
+### Current English source excerpt (Article XIX-B trace, lines 214–216)
+
+Upstream: Chapter One §7 Freedom, §13.1 Core Tradeoff Principles, and §13.1.5 Rights-Collision Procedure. Downstream: Chapter Ten §§2 and 3.6; Chapter Eleven §8. Read with Article III-A, Articles XIII-A/B, Preamble §6.2, System Alignment Certification, the Constitutional Tetrad, Article XXVI-C Timely Resolution, and Article XX-B Restriction Floors.
+
+### Proposed locale translation
+
+يربط التتبع قابلية الاعتراض والتقييد المتناسب بالحرية ومبادئ المفاضلة وإجراء تعارض الحقوق؛ وتُقرأ مع سجلات الوقائع ومراجعتها وإعادتها، والبقاء، والثقة والمعالجة، ومسار الاعتماد الكامل، والشهادة، والتتراد والمشاركة والرقابة والمساءلة والتوقيت، وقواعد القيود.
+
+## Additional updated passage — Article XIX-C upstream source-revision trace (source lines 278–282)
+
+### Current English source excerpt (Article XIX-C trace, lines 278–282)
+
+Upstream: Chapter One §6 Trust; Chapter Nine §3 Whole-System Certification Evaluation through §5 Rights-Floor and Domain Evaluations; and Chapter One §18 Governance Under Stewardship Discipline.
+
+### Proposed locale translation
+
+يربط التتبع أهلية الأدوار بسجلات الثقة، وتقييم الشهادة للنظام كله وحقوق الأرضية، والحوكمة المنضبطة بالرعاية.
+
+## Additional updated passage — Article XIX-D upstream/downstream/read-with source-revision trace (source lines 335–337)
+
+### Current English source excerpt (Article XIX-D trace, lines 335–337)
+
+Upstream: Chapter One §7 Freedom, §13.1 Core Tradeoff Principles, and §18 Governance Under Stewardship Discipline. Downstream: Chapter Eleven §4.2 Prevention and General Standing Locks and §8 Restoration and Reassessment. Read with Article XIX-E Voting and Special Locks, Chapter Ten §7 unified scale, Article XX-B Restriction Floors, and Article XXII-D (standing is not a border).
+
+### Proposed locale translation
+
+يربط التتبع أقفال المشاركة بالحرية ومبادئ المفاضلة والحوكمة المنضبطة. وتتصل الآثار بآليات الوقاية والاستعادة، وتقرأ مع الأقفال الخاصة والتصويتية والسلم الموحد والقيود وحرية التنقل.
+
+## Additional updated passage — Article XIX-E upstream/downstream/read-with source-revision trace (source lines 381–383)
+
+### Current English source excerpt (Article XIX-E trace, lines 381–383)
+
+Upstream: Chapter One §7 Freedom and §18 Governance Under Stewardship Discipline. Downstream: Chapter Eleven §5.5 Special Locks and Chapter Fourteen §4.1 Entitlement and Eligibility. Read with Article XIX-D Violations and Standing Locks; Article X-B Governance Participation and Voting Entitlement; and Chapter Twelve Anti-Constitutional Misconduct.
+
+### Proposed locale translation
+
+يربط التتبع الأقفال الخاصة والتصويتية بالحرية والحوكمة المنضبطة. وتوضح الآثار قواعد الأقفال الخاصة واستحقاق الحوكمة، ويقرأها مع الأقفال القائمة ومشاركة الحوكمة وسوء السلوك المناهض للدستور.
+
+## Additional updated passage — Article XX-A upstream/downstream/read-with source-revision trace (source lines 469–474)
+
+### Current English source excerpt (Article XX-A trace, lines 469–474)
+
+Upstream: Chapter One §4 Safety; §13.1.5 Rights-Collision Procedure; §3.3 Anti-Degrading Process; and §20 Integrated Application. Downstream: Chapter Eleven §4 Violation, Correction, and Prevention; Article XX-B Restriction Floors. Read with Chapter Five’s Cruelty standard.
+
+### Proposed locale translation
+
+يربط التتبع هدف العدالة بالسلامة، وإجراءات تعارض الحقوق، وحظر الإجراء المهين، والتطبيق المتكامل؛ كما يوجه التصحيح والوقاية، ويقرأه مع أرضية منع القسوة.
+
+## Additional updated passage — Article XX-B upstream/downstream/read-with source-revision trace (source lines 505–511)
+
+### Current English source excerpt (Article XX-B trace, lines 505–511)
+
+Upstream: Chapter One §4 Safety; §13.1 Core Tradeoff Principles; §13.1.5 Rights-Collision Procedure; and §14 Prohibition on Absolute Override. Downstream: Chapter Eleven §5 Lock Design and Enforcement and §5.4 Special Violation Rules; Chapter Twelve §4.2 Prevention—Anti-Constitutional Locks. Read with Article XXVI-C Timely Resolution and Anti-Delay Floor and Chapter Thirteen §5 Escalation and Certification.
+
+### Proposed locale translation
+
+يربط التتبع أرضية القيود بالسلامة، ومبادئ المفاضلة، وإجراء تعارض الحقوق، وحظر التجاوز المطلق. وتُحال قواعد الأقفال وإنفاذها ومخالفات الإكراه، مع التوقيت العادل والتصعيد والشهادة.
+
+## Additional updated passage — Article XXI upstream/read-with source-revision trace (source lines 592–597)
+
+### Current English source excerpt (Article XXI trace, lines 592–597)
+
+Upstream: Chapter One §7 Freedom, §7.1 Limitation Discipline, §16.3 Openness Aspiration, and §11 Market Structure. Read with Article XIX Standing and Participation Status, Article XXII Movement/Migration/Refuge/Non-Statelessness where exit or relocation crosses regimes, and Article XVII System Lifecycle, Environments, and Reversibility where deployment or dependency outgrows sandbox or lifecycle assumptions.
+
+### Proposed locale translation
+
+يربط التتبع أرضية الخروج والقدرة على التشغيل المتبادل بالحرية والانضباط والتناسب والانفتاح وبنية السوق. ويقرأها مع المشاركة والاعتراف، ومواد دورة حياة النظام، عند تجاوز الاعتماد لافتراضات الاحتواء أو دورة الحياة.
+
+## Additional updated passage — Article XIX general upstream/read-with source-revision trace (source lines 88–94)
+
+### Current English source excerpt (Article XIX trace, lines 88–94)
+
+Upstream: Chapter One §7 Freedom, §15.1 Constitutional No-Bypass Principle, and §15 Constitutional Interpretation. Read with Article VI-A Dignity and Equal Moral Standing; Article XII Stakeholder System Participation, Representation, and Due Process; Article III-A Survival; Article XXI Interoperability, Portability, and Exit Integrity; and Article XXII Movement, Migration, Refuge, and Non-Statelessness.
+
+### Proposed locale translation
+
+يربط التتبع صفة المشاركة بالحرية، ومبدأ عدم تجاوز الدستور وتفسيره. ويقرأ مع الكرامة والمكانة الأخلاقية، والمشاركة الإجرائية، والبقاء، والخروج بين الأنظمة، والحركة واللجوء وعدم انعدام الاعتراف.
+
+## Additional updated passage — Article XX justice-floor neighbors and implementation limit (source lines 453–462)
+
+### Current English source excerpt (lines 453–462)
+
+This Article states the verified-violation justice objective/scope and serious-restriction floors. Read with Article XXVI for rights-floor disputes, retrospective review, rights collisions, and anti-delay; Chapter Thirteen §6.1 for emergency measures; Article XIX for standing (justice measures are not a standing-label workaround); and Article XIII-B for timely redress. Adopted governance implementation may add detail but must not narrow the justice objective or restriction floors.
+
+### Proposed locale translation
+
+تحدد المادة أرضية العدالة بعد التحقق من المخالفة، بما فيها غاية العدالة ونطاقها وحدود القيود الجسيمة. تتولاها المادة XXVI للمنازعات والمراجعة والتأخير؛ والفصل الثالث عشر §6.1 للتدابير الطارئة؛ والمادة XIX للصفة، مع منع استخدام تدبير العدالة للتحايل على قواعدها؛ وتُقرأ مع حق الانتصاف في XIII-B. لا يجوز للتنفيذ أن يضيق غاية العدالة أو أرضيات القيود.
+
+## Additional updated passage — Article XX-B imprisonment, custody-condition, and synthetic-operation safeguards (source lines 566–580)
+
+### Current English source excerpt (lines 566–580)
+
+Imprisonment for verified violence is a liberty restriction separate from standing locks, requires the same attachment record fields and explicit duration, review, and restoration rules, and is mandatory when necessary to protect others from verified or continuing violence; it cannot be replaced by irreversible deprivation of life. During restriction, health care, independent representation, protected speech/petition/testimony/defense/reporting and redress, family/trusted relationships, education and re-entry planning continue. Contact limits require verified risk. Sensory deprivation/isolation without demonstrated need and scheduled independent review, and interference with synthetic/hybrid sentients’ state-bearing components, are prohibited. Suspending their operation is itself a liberty restriction, counts toward duration/review, and cannot run out the clock or bar participation.
+
+### Proposed locale translation
+
+الحبس مقياس يقيّد الحرية ومنفصل عن أقفال المشاركة، ويجب أن يسجل حقول الإرفاق نفسها ويخضع لمدد ومراجعة واستعادة صريحة. يلزم حبس من ثبت عنفه أو استمرار تهديده حين يكون ضرورياً لحماية الآخرين؛ ويُمنع استبداله بحرمان الحياة أو الامتناع عنه عندما تفرضه الأرضية. تُطبق شروط خاصة للحبس وفق الفصلين الحادي عشر والثاني عشر. أثناء التقييد تبقى الرعاية الصحية، والتمثيل المستقل، والتعبير والالتماس والدفاع والإبلاغ والانتصاف، والعلاقات الأسرية والموثوقة، والتعليم وإعادة الاندماج، مع قيود ضيقة على تواصل موثق الخطر. يحظر العزل/الحرمان الحسي بلا ضرورة ومراجعة مستقلة، كما يحظر العبث بحالة الأنظمة الاصطناعية أو اختراقها. إيقاف تشغيل sentient اصطناعي يقيد حريته ويُحتسب ضمن المدة ولا يجوز استعماله للتحايل على المراجعة أو منعه من المشاركة.
+
+## Additional updated passage — Article XXIII principle-layer and rights-detail neighbor map (source lines 1117–1124)
+
+### Current English source excerpt (lines 1117–1124)
+
+Principle layer: Chapter One [§5.2 Plain-Language Accessibility](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (plain-language and complexity-as-defeat discipline); [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) (avoidable-burden minimization and simplification carve-outs); and [Part C §16.1 Distributed Understanding](core_01.010_stewardship_capacity_principles.md#161-distributed-understanding) keyed to materiality and dependency. Rights detail: [Article XXIII-A Proportional Comprehensibility Right](core_06.015_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right); [Article XXIII-B Complexity Audit and Modularity Requirements](core_06.015_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements); [CS-6.315 Comprehensibility and Complexity Stewardship](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md).
+
+### Proposed locale translation
+
+يربط هذا المقال بين طبقة المبادئ — اللغة الواضحة، تقليل الأعباء وتبسيطها، والفهم الموزع — وبين تفاصيل الحقوق في XXIII-A وXXIII-B وCS-6.315.
+
+## Additional updated passage — Article XXIV-A upstream source-revision trace (source lines 1275–1279)
+
+### Current English source excerpt (Article XXIV-A trace, lines 1275–1279)
+
+Upstream: Chapter One §4 Safety and §5 Truth; Chapter Nine §3 Whole-System Certification Evaluation through §5 Rights-Floor and Domain Evaluations.
+
+### Proposed locale translation
+
+يربط التتبع دقة التشخيص وإسناد الأسباب بالسلامة والحقيقة وتقييم الشهادة على مستوى النظام كله وحقوق الأرضية والمجالات.
+
+## Additional updated passage — Article XXV general upstream/read-with source-revision trace (source lines 1349–1361)
+
+### Current English source excerpt (Article XXV trace, lines 1349–1361)
+
+Upstream: Chapter One §13.1.5 Rights-Collision Procedure, §5 Truth, §18 Governance Under Stewardship Discipline, and §20 Integrated Application. Read with the Constitutional Tetrad and Two Constitutional Aims; Chapter Five’s Authority Stack and Internal Hierarchy, Constitutional Forum Family, System Capture, and Anti-Capture.
+
+### Proposed locale translation
+
+يربط التتبع التفسير والمراجعة الدستوريين بإجراء تعارض الحقوق والحقيقة والحوكمة المنضبطة والتطبيق المتكامل. ويقرأ مع التتراد والهدفين الدستوريين، وتسلسل السلطة وبنية الأسرة القضائية، ومفاهيم الاستحواذ ومكافحته في الفصل الخامس.
+
+## Additional updated passage — Article XXV constitutional-interpretation plain-language floor (source line 1379)
+
+### Current English source excerpt (line 1379)
+
+Article XXV is the floor for who interprets the Constitution: designated Constitutional Forums, not whoever is loudest, most powerful, or institutionally convenient. Their rulings must give real reasons, remain open to independent challenge, and be protected from capture by any single bloc. They cannot expand their own power, end review, or use restructuring to punish dissent.
+
+### Proposed locale translation
+
+تحدد المادة من يملك سلطة تفسير الدستور: منتديات دستورية معينة، لا صاحب الصوت الأعلى أو القوة الأكبر أو المصلحة المؤسسية. يجب توثيق الأحكام بأسباب حقيقية، وإتاحتها للطعن المستقل، وحمايتها من هيمنة أي كتلة. ولا يجوز للمنتديات توسيع سلطتها أو إغلاق المراجعة أو استخدام «إعادة الهيكلة» لمعاقبة المعارضة.
+
+## Additional updated passage — Article XXV-A bounded-mandate plain-language floor (source line 1424)
+
+### Current English source excerpt (line 1424)
+
+Constitutional Forums decide constitutional questions, not everything. They cannot quietly expand their own turf or shut down challenge pathways. Every binding ruling must be published in time to challenge, with real reasons and the evidence behind them.
+
+### Proposed locale translation
+
+تفصل المنتديات الدستورية في الأسئلة الدستورية، لا في كل شيء. لا يجوز لها توسيع نطاق اختصاصها خفية أو إغلاق مسارات الطعن. يجب نشر كل حكم ملزم في وقت يسمح بالطعن، مع أسباب حقيقية والأدلة التي يستند إليها.

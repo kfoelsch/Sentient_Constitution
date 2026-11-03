@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Four plain-language access paragraph; source SHA-256 75f40b381cb8d2c0a34cfb114d0230d38c376b27b168b2f740cc762f98f34052. -->
+
+# Chapter Four excerpt — plain-language access
+
+## English source
+
+**Plain-language access.** [Chapter One §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05.035_band_accountability.md#contestability) or [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
+
+## pt draft
+
+**Acesso em linguagem simples.** [Capítulo Um §5.2 — Acessibilidade em linguagem simples (dever de participação e stewardship)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) aplica-se aos materiais de governança, adjudicação e operação que os sentientes usam para exercer direitos, contestar decisões ou verificar conformidade. A linguagem simples **não** altera nem reduz o que os Capítulos Dois a Quatro exigem. Se uma versão em linguagem simples divergir das regras de definição ou verificação aqui, essas regras prevalecem. Usar jargão, complexidade acumulada ou opacidade para impedir o acesso à [contestabilidade](core_05.035_band_accountability.md#contestability) ou ao [Artigo XVI: Auditoria, Transparência e Verificação Independente](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) constitui não conformidade nos termos deste capítulo e do **Capítulo Um §5.2 Acessibilidade em linguagem simples (dever de participação e stewardship)**.

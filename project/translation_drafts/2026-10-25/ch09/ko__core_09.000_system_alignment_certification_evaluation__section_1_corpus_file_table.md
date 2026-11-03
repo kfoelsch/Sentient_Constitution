@@ -1,0 +1,21 @@
+<!-- AI-assisted translation draft; unreviewed. §1 corpus-placement file table, source lines 12–17; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §1 corpus-placement file table (ko)
+
+## English source (lines 12–17)
+
+> | Part | File | Owns |
+> |------|------|------|
+> | **Part A — Evaluation** | [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md) | §1–§5: purpose and process overview (with a chart of the whole certification process in its six phases), **Phase I Frame** (system class, how system class scales every evaluation, and pilot certification) and **Phase II Evaluate** (whole-system evaluation in three sub-phases: **IIa** always, in §3, including chartered scope versus functional boundaries and data types and handling; **IIb** where implicated, in §4; and **IIc** where triggered, the Rights-Floor and domain evaluations, in §5) |
+> | **Part B — Record and process** | [`core_09.005_system_alignment_certification_record_process.md`](core_09.005_system_alignment_certification_record_process.md) | §6–§10: **Phase III Review** (forum roles, supervisory sequence, and the contestability chain), **Phase IV Decide** (certification outcomes, including the go-live gate), **Phase V Record** (the certification record and its integrity, including governing [System Charter](core_05.040_band_continuity.md#system-charter) fields), and **Phase VI Operate** (the challenge path; recertification and reopening; the standing bridge) — continuous chapter numbering from Part A §5 |
+> | **Part C — Illustrations** | [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md) | the illustrative system class profiles, §3.4, §3.4.8, §5.1.5, §5.2.4, §5.3.7, §5.4.4, §5.5.5, and §5.6.4: worked Class A / B / C walkthroughs for each Part A evaluation area, numbered to match Part A and linked both ways |
+> | **Part D — Institutional alignment certification** | [`core_09.015_institutional_alignment_certification.md`](core_09.015_institutional_alignment_certification.md) | §11–§15: the same six phases for an **Institution** rather than a System — the institution class and the institutional evaluation (**Phases I and II**, §12), the forum roles, outcome, and **Institutional Certification Record** (**Phases III to V**, §13), and recertification, reopening, the cascade from System certifications, and the standing bridge (**Phase VI**, §14–§15). It cites each System's certification by link and does not repeat it, and it is not a licence — continuous chapter numbering from Part B §10 |
+
+## Translation draft
+
+| 부 | 파일 | 담당 범위 |
+|------|------|------|
+| **Part A — Evaluation** | [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md) | §§1–5: 목적과 절차 개요(6단계 인증 절차도 포함), 그리고 I단계 Frame(시스템 등급, 등급이 각 평가의 깊이에 미치는 영향, 파일럿 인증)과 II단계 Evaluate(3개 하위 단계의 전체 시스템 평가: IIa는 항상 §3에서 적용하며, 헌장상 범위와 기능적 경계 및 데이터 유형/처리를 포함; IIb는 해당될 때 §4에서; IIc는 조건이 충족될 때 §5의 권리 바닥 및 영역 평가). |
+| **Part B — Record and process** | [`core_09.005_system_alignment_certification_record_process.md`](core_09.005_system_alignment_certification_record_process.md) | §§6–10: III단계 Review(포럼 역할, 감독 순서, 이의제기 연결망); IV단계 Decide(인증 결과와 가동 전 관문); V단계 Record(인증 기록 및 무결성, [System Charter](core_05.040_band_continuity.md#system-charter)의 통제 필드 포함); VI단계 Operate(이의제기 경로, 재인증 및 재개, standing 연결) — A부 §5부터 번호가 이어집니다. |
+| **Part C — Illustrations** | [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md) | 시스템 등급 예시 프로필 및 §§3.4, 3.4.8, 5.1.5, 5.2.4, 5.3.7, 5.4.4, 5.5.5, 5.6.4: A부의 각 평가 영역에서 A/B/C 등급 사례를 상세히 보여주며, 절 번호를 맞추고 양방향으로 연결합니다. |
+| **Part D — Institutional alignment certification** | [`core_09.015_institutional_alignment_certification.md`](core_09.015_institutional_alignment_certification.md) | §§11–15: 시스템이 아닌 기관에 동일한 6단계를 적용—기관 등급 및 평가(I·II단계, §12), 포럼 역할·결과·기관 인증 기록(III–V단계, §13), 재인증·재개·시스템 인증의 연쇄·standing 연결(VI단계, §§14–15). 각 시스템 인증을 링크로 인용하고 반복하지 않으며 허가증도 아닙니다 — B부 §10부터 번호가 이어집니다. |

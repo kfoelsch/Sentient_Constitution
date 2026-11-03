@@ -1,0 +1,24 @@
+# Chapter Three refresh chunks — vi
+
+**Status:** AI-assisted, unreviewed, non-binding draft. This section-aligned update supplements the existing full translation. Do not synchronize into `translations/` until separately authorized.
+**Source:** `core_03.000_definition_integrity.md`, §§3.1–3.2, current English text dated 2026-11-03.
+
+## §3.1 Standing effects for already-certified systems
+
+**Current English passage:**
+
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model); apply its integration and effects under [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
+
+**vi draft:**
+
+Nếu một hệ thống đã vận hành theo [chứng nhận đồng bộ hệ thống](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — bao gồm chứng nhận, chứng nhận có điều kiện hoặc chứng nhận lại chưa hết hạn — thì hành vi không tuân thủ trọng yếu đã được xác minh trong phạm vi chức năng của hệ thống đó **phải** được đưa vào phép đo tình trạng theo [Chương Mười Một](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model) cho **chính hệ thống đó**. Chỉ sự kiện vượt qua [cổng đầu vào đã xác minh](core_11.000_standing_assessment.md#verified-inputs-for-standing) mới được đưa vào. Đo tình trạng theo [Chương Mười Một](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model); áp dụng việc tích hợp và hệ quả theo [Chương Mười Hai](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). Việc mở lại, thu hồi hoặc hệ quả chứng nhận khác vẫn thuộc [Chương Chín](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). Chúng không thay thế hồ sơ tình trạng của hệ thống đó.
+
+## §3.2 Standing effects at first certification
+
+**Current English passage:**
+
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance first decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. The outcome does not stop standing input: those System Certification Records supply it under [Chapter Nine §11.2 Every certification outcome](core_09.010_system_alignment_certification_record_recertification.md#112-every-certification-outcome), on the same terms as [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) and only through the verified-input gate. A certification finding that a system is not yet aligned is not a violation by itself. Where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely.
+
+**vi draft:**
+
+Nếu hệ thống vẫn đang trong quy trình [chứng nhận đồng bộ hệ thống](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)**đầu tiên** và chưa được chứng nhận — kể cả khi chứng nhận bị hoãn hoặc từ chối — thì hành vi không tuân thủ đã xác minh trước hết quyết định **kết quả chứng nhận** theo Chương Chín. Kết quả có thể là chứng nhận có điều kiện, hoãn chứng nhận, không chứng nhận hoặc kết quả tương đương. Kết quả đó không ngăn đầu vào cho tình trạng: Hồ sơ Chứng nhận Hệ thống cung cấp đầu vào theo [Chương Chín §11.2 Mọi kết quả chứng nhận](core_09.010_system_alignment_certification_record_recertification.md#112-every-certification-outcome), theo cùng điều kiện với [§3.1 Hệ quả tình trạng đối với hệ thống đã được chứng nhận](#31-standing-effects-for-already-certified-systems) và chỉ qua cổng đầu vào đã xác minh. Kết luận chứng nhận rằng hệ thống chưa đồng bộ tự nó không phải là vi phạm. Nếu bên vận hành nỗ lực nhất quán, trung thực để đạt đồng bộ và không cẩu thả, khả năng có kết luận vi phạm là thấp.

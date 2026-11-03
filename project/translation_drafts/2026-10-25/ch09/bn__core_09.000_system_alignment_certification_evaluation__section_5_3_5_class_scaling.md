@@ -1,0 +1,31 @@
+<!-- AI-assisted translation draft; unreviewed. §5.3.5 system-class scaling and escalation, source lines 1220–1229; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §5.3.5 system-class scaling and escalation (bn)
+
+## English source (lines 1220–1229)
+
+A system's class decides how deep the review goes and how closely adequacy is judged. It never makes a shared extraction too small to count, and extraction split across entities, records, or periods is judged as one under [Chapter One §15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle). Whenever the materiality trigger is met:
+
+- A system drawing on a shared foundation that sentients need to survive — such as a shared watershed or the backbone of a regional power grid — must put the strongest dependency-map and return-flow proof on the record. These are the shared systems whose lasting capacity [Chapter One §9 Shared-System Capacity](core_01.000_values_principles.md#9-shared-system-capacity) protects, and **Article III-A** (*Survival*) is why the proof is strongest here.
+- A system relying on shared authentication, health-IT, or similar infrastructure must document what it takes and whether its support is adequate, at a depth that matches how critical its operations are. Vague slogans about "interoperability" do not count: the reliance must be visible in the maps and records, as [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) requires.
+- A system must not dodge cross-system review while quietly becoming the payments, identity, or staffing choke point for institutions that cannot realistically switch.
+  - **Who cannot switch:** judged by the replaceability factors in [§5.3.3 Evaluation Requirement](#533-evaluation-requirement).
+  - **Why it matters:** this is the kind of concentration that [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) describes. It tells adopters to set levels for it, such as how many sentients or systems rely on one provider with no real alternative, or who controls the interfaces and access points to shared infrastructure. Certification does not wait for an adopter's level to be crossed before it steps up its review (see below).
+  - **What certification does:** it steps up its review and reconsiders the system's class under [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation), up to **Class A** where the system controls access to survival-essential coordination.
+
+The step-up does not wait for a concentration level set under [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable). A level that an adopter has set and the system has crossed is further evidence. A level that is unset, or set too high, does not delay the step-up, and crossing a level is not by itself a finding of misconduct.
+
+## Translation draft
+
+##### 5.3.5 ব্যবস্থা-শ্রেণির মাত্রা ও তীব্রতর পর্যালোচনা
+
+ব্যবস্থা-শ্রেণি নির্ধারণ করে পর্যালোচনা কত গভীর হবে এবং পর্যাপ্ততা কত নিবিড়ভাবে যাচাই হবে। এটি অভিন্ন উৎস থেকে নেওয়াকে গণনার অযোগ্য ক্ষুদ্র অংশে পরিণত করে না; বিভিন্ন সত্তা, নথি বা সময়ে ভাগ করা নিষ্কাশনকে [Chapter One §15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle) অনুযায়ী এক হিসেবেই বিচার করা হয়। বস্তুগততার মানদণ্ড পূরণ হলেই:
+
+- বেঁচে থাকার জন্য সংবেদনশীল সত্তাদের প্রয়োজন এমন অভিন্ন ভিত্তি—যেমন যৌথ জলাধার বা আঞ্চলিক বিদ্যুৎ গ্রিডের মেরুদণ্ড—ব্যবহারকারী ব্যবস্থাকে নির্ভরতা-মানচিত্র ও প্রত্যর্পণ প্রবাহের সবচেয়ে শক্তিশালী প্রমাণ নথিতে দিতে হবে। এগুলো সেই যৌথ ব্যবস্থা, যাদের স্থায়ী সক্ষমতা [Chapter One §9 Shared-System Capacity](core_01.000_values_principles.md#9-shared-system-capacity) রক্ষা করে; এখানে সবচেয়ে শক্ত প্রমাণ দরকার কারণ **Article III-A** (*Survival*) প্রযোজ্য।
+- যে ব্যবস্থা অভিন্ন প্রমাণীকরণ, স্বাস্থ্য-তথ্যপ্রযুক্তি বা অনুরূপ অবকাঠামোর ওপর নির্ভর করে, তাকে কী নেয় এবং তার সহায়তা যথেষ্ট কি না তা কার্যক্রমের গুরুত্বের সঙ্গে সামঞ্জস্যপূর্ণ বিশদে নথিভুক্ত করতে হবে। “আন্তঃকার্যক্ষমতা” নিয়ে অস্পষ্ট স্লোগান গণ্য হবে না: নির্ভরতা মানচিত্র ও নথিতে দৃশ্যমান হতে হবে, যেমন [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) চায়।
+- কোনো ব্যবস্থা বাস্তবে বদলাতে পারে না এমন প্রতিষ্ঠানের অর্থপ্রদান, পরিচয় বা কর্মী নিয়োগের গলা-চাপা-দ্বার হয়ে উঠতে উঠতে নীরবে আন্তঃব্যবস্থা পর্যালোচনা এড়াতে পারে না।
+  - **কে বদলাতে পারে না:** [§5.3.3 Evaluation Requirement](#533-evaluation-requirement)-এর প্রতিস্থাপনযোগ্যতার উপাদান অনুযায়ী বিচার করতে হবে।
+  - **কেন এটি গুরুত্বপূর্ণ:** এ ধরনের কেন্দ্রীকরণ বর্ণনা করেছে [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable)। এটি গ্রহণকারীদের এমন মাত্রা নির্ধারণ করতে বলে, যেমন বাস্তব বিকল্প ছাড়া এক সরবরাহকারীর ওপর নির্ভরশীল সংবেদনশীল সত্তা বা ব্যবস্থার সংখ্যা, কিংবা অভিন্ন অবকাঠামোর ইন্টারফেস ও প্রবেশপথ কে নিয়ন্ত্রণ করে। গ্রহণকারীর নির্ধারিত মাত্রা অতিক্রম না করা পর্যন্ত সার্টিফিকেশন পর্যালোচনা বাড়ানো থামিয়ে রাখে না (নিচে দেখুন)।
+  - **সার্টিফিকেশন কী করে:** পর্যালোচনা বাড়ায় এবং [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation) অনুসারে ব্যবস্থার শ্রেণি পুনর্বিবেচনা করে; বেঁচে থাকার জন্য অপরিহার্য সমন্বয়ে প্রবেশাধিকার নিয়ন্ত্রণ করলে **Class A** পর্যন্ত উন্নীত করতে পারে।
+
+[Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable)-এর অধীনে নির্ধারিত কেন্দ্রীকরণ-সীমা অতিক্রমের অপেক্ষায় এই উন্নত পর্যালোচনা থাকে না। গ্রহণকারীর নির্ধারিত সীমা অতিক্রম করা অতিরিক্ত প্রমাণ। সীমা নির্ধারিত না থাকা বা অতিরিক্ত উঁচু হওয়া উন্নত পর্যালোচনা বিলম্বিত করে না; আর সীমা অতিক্রম করাই নিজে অসদাচরণের সিদ্ধান্ত নয়।

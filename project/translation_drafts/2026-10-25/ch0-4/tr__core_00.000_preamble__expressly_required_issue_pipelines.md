@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Preamble process-path requirement; source SHA-256 4e99d7f71f92c82f01f7f23b169cc3e6fa57661228db48e3814b010941d14198. -->
+
+# Preamble excerpt — expressly required issue and process paths
+
+## English source
+
+When Chapter Six, [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), an incorporated document, or another constitutional provision expressly requires it, take the material constitutional issue into one or more of the paths below. The [Key Practical Process Pipelines](#6-key-practical-process-pipelines) turn measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy. Through these pipelines, authorized governance is tested, contested, and repaired in practice — but the pipelines do not authorize governance by themselves; they make it reviewable, contestable, correctable, and timely. [Section 6.2](#62-how-the-full-chain-fits-together) states the full pipeline.
+
+## tr draft
+
+Altıncı Bölüm, [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), dahil edilmiş bir belge veya başka bir anayasal hüküm bunu açıkça gerektiriyorsa, esaslı anayasal konuyu aşağıdaki yollardan birine ya da birkaçına taşıyın. [Temel Uygulama Süreçleri](#6-key-practical-process-pipelines), ölçümü kayıtlara, sertifikasyona, doğrulanmış girdilere, sınıflandırmaya, forum denetimine, düzeltmeye ve zamanında telafiye dönüştürür. Bu süreçler aracılığıyla yetkilendirilmiş yönetişim uygulamada sınanır, itiraza açılır ve onarılır; ancak süreçler yönetişime kendi başlarına yetki vermez, onu incelenebilir, itiraz edilebilir, düzeltilebilir ve zamanında hale getirir. [6.2. bölüm](#62-how-the-full-chain-fits-together) sürecin tamamını açıklar.

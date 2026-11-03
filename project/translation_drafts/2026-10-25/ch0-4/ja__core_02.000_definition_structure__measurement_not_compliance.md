@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Two §1.2, Measurement vs Compliance boundary; source SHA-256 490f41dab4fa538142176888c0f491c7755457efae011d76cf0a71309e61f584. -->
+
+# Chapter Two excerpt — Measurement is not Compliance
+
+## English source
+
+The Measurement part (M) says which measure applies to a term at each layer. It points assessment toward the right evidence. It must not say what counts as passing or failing — that belongs only in the Compliance part (C).
+
+## ja draft
+
+測定部分（M）は、各層で用語にどの測定指標が適用されるかを示す。評価を適切な証拠へ導く。合格または不合格の基準を定めてはならず、それはコンプライアンス部分（C）のみが扱う。

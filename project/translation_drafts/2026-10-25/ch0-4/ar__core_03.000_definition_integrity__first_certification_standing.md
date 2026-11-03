@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Three §3.2, first-certification standing distinction; source SHA-256 dafc567a1e2dc3eaa76ce02692073b4fce440bc1f6c5e66a3309409f16a658ea. -->
+
+# Chapter Three excerpt — first certification and standing inputs
+
+## English source
+
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. Until certification is granted, those certification records supply no standing input under [Chapter Nine §10 Relationship to Standing](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing), which traces standing input only from certified systems. Once certification is granted, including conditional certification, [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) applies. This chapter does not require the same standing records that an already-certified running system must receive.
+
+## ar draft
+
+إذا كان النظام لا يزال في مرحلة [شهادة مواءمة النظام](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) **الأولى** ولم يُعتمد بعد — بما في ذلك الحالات التي تُؤجَّل فيها الشهادة أو تُرفض — فإن عدم الامتثال المتحقق منه يحدد أساسًا **نتيجة الشهادة** بموجب الفصل التاسع. وقد تكون النتيجة شهادة مشروطة، أو شهادة مؤجلة، أو عدم منح الشهادة، أو نتيجة مماثلة. وإلى أن تُمنح الشهادة، لا توفر سجلاتها أي مدخلات للوقوف بموجب [الفصل التاسع §10 العلاقة بالوقوف](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)، الذي يقصر مدخلات الوقوف على الأنظمة المعتمدة. وبعد منح الشهادة، بما فيها المشروطة، يُطبّق [§3.1 آثار الوقوف للأنظمة المعتمدة بالفعل](#31-standing-effects-for-already-certified-systems). ولا يفرض هذا الفصل على النظام العامل الذي لم يُعتمد بعد سجلات الوقوف ذاتها المطلوبة لنظام عامل معتمد.

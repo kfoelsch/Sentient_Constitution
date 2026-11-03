@@ -1,0 +1,8 @@
+# Borrador de traducción — `core_08.000_functional_independence_separation_of_duties.md`, titulares de asientos y automatización
+
+- CJS-5.125 §11, CI-8.205 §2 y CI-15.205 §6 ubican y ponen en práctica los asientos; pueden ser más estrictos y agregar tipos acotados de asientos de autoridad especial, pero no reducir el capítulo.
+- La aplicación por proceso se desarrolla después: el Capítulo Nueve aplica la separación a certificación de alineación de sistemas e instituciones; el Capítulo Once §3.7, a registros de condición; y el Capítulo Catorce y `corpus_forum.md`, a procesos de foro. Pueden añadir salvaguardas propias, no crear un sustituto más débil.
+- Los asientos se aplican por igual a custodios humanos y de IA. Si un sistema ejecuta una acción, la aprueba y luego usa su propio registro como prueba, ocupa a la vez los asientos de iniciación, verificación y registro. Automatizar el proceso no vuelve independiente la verificación.
+
+- El capítulo no se aplica a una Parte Operativa de Clase P cuyos actos permanezcan dentro de su unidad privada: una entidad sintiente, hogar o círculo estrecho cuyos miembros eligieron participar. La Parte que otros deben obedecer o en cuyos actos pueden confiar como definitivos es, como mínimo, Clase L según CS-9.305/CS-9.310. Una entidad sintiente sola con computadora no necesita un segundo titular de asiento. La separación rige desde que la Parte realiza un Acto Materialmente Vinculante.
+- El Asiento de Registro incorpora, modifica, conserva y publica el Registro de Actos de lo que determinó el Asiento de Verificación o Autorización. La obligación aplica a custodios humanos y de IA por igual.

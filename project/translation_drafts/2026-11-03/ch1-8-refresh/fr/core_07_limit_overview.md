@@ -1,0 +1,3 @@
+# Brouillon de traduction — `core_07.000_charters.md`, §2, aperçu des limites
+
+L’article XI-E autorise cinq limites circonscrites : interdiction fondée sur un constat vérifié visant une personne nommée ; bref Interim Hold reposant sur des faits vérifiés précis ; verrou visant une Operating Party ; licence ou autorisation préalable à un acte à haut risque nommé ; attente de recertification d’une Institution avant l’exercice d’une nouvelle autorité matérielle. La cinquième limite ne conditionne pas la formation d’une Operating Party. Aucune n’empêche la formation d’une autre Operating Party ni la poursuite des activités existantes hors du champ verrouillé.

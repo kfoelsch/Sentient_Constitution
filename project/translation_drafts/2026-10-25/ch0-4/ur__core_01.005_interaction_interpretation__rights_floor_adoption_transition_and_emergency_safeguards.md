@@ -1,0 +1,13 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One Part B §13.1 Rights-Floor and temporary-restriction safeguards; source SHA-256 28f8a1ab080fef53c99916d5833ff23a58a704bf76dd7d5878b3e2847b2830d7. -->
+
+# Chapter One Part B excerpt — Rights-Floor and temporary-restriction safeguards
+
+## English source passage
+
+- No constitutional process, measure, Adoption Transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections under [Article VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle), minimum subsistence access, or core challenge, review, and appeal rights.
+- Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency rules in [Chapter Thirteen §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, Adoption Transition, standing, amendment, contract, or implementation labels to bypass it.
+
+## Draft translation (ur)
+
+- کوئی آئینی عمل، اقدام، Adoption Transition، ترمیم، حیثیت سے متعلق نتیجہ، ہنگامی کارروائی یا انصاف سے متعلق نتیجہ [Article VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*وقار اور مساوی اخلاقی حیثیت*) اور [توہین آمیز عمل کے خلاف اصول](#anti-degrading-process-principle) کے تحت بنیادی وقار کے تحفظات کی **حقوقی بنیاد کی کم از کم ضمانتوں**، کم از کم گزر بسر تک رسائی، یا بنیادی اعتراض، نظرثانی اور اپیل کے حقوق کو مستقل طور پر ختم یا ترک نہیں کر سکتا۔
+- مخصوص حقوق پر عارضی پابندی صرف اس وقت جائز ہے جب وہ [کم سے کم پابندی، وقت کی حد اور نظرثانی کے اصول](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) اور [Chapter Thirteen §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*ہنگامی اقدامات اور انہیں جاری رکھنے کا بوجھ*) کے ہنگامی قواعد پر پورا اترے؛ یعنی ہر پابندی جائز، کم سے کم، دستاویزی، وقت کی حد میں اور آزادانہ نظرثانی کے قابل ہو۔ مخصوص دفعات زیادہ مضبوط تحفظات شامل کر سکتی ہیں، مگر اس اصول کو محدود نہیں کر سکتیں یا سہولت، کارکردگی، درجہ بندی، ہنگامی حالت، Adoption Transition، حیثیت، ترمیم، معاہدے یا نفاذ کے ناموں سے اس سے بچ نہیں سکتیں۔

@@ -1,0 +1,13 @@
+# Chapter One §7.2 — Plain-Language Assembly and Non-Segmentation
+
+Source: `core_01.000_values_principles.md` §7.2 Assembly, Collective Organization, and Institutional Formation
+
+Source SHA-256: `6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17`
+
+## English source passage
+
+*In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) still owns assembly, and **Article III-C** (*Labor and Economic Floor*) still owns labor organizing.*
+
+## Draft translation (mr)
+
+*सोप्या शब्दांत: सभा, संघटनांसारखी कामगारांची संघटना, व्यासपीठावरील प्रवेश किंवा कामकाजाची परवानगी यांचे प्रश्न वेगवेगळ्या कप्प्यांत विभागून कागदपत्रे व्यवस्थित दिसतील पण प्रत्यक्ष सामूहिक कृती निष्फळ होईल, असे करता येत नाही. हा विभाग हक्कांच्या किमान स्तराची जागा घेत नाही: सभेचा अधिकार **अनुच्छेद XI-D** (*सभा, मतभेद आणि शांततामय निदर्शने*) याच्याकडेच राहतो; कामगार संघटनांचा अधिकार **अनुच्छेद III-C** (*कामगार आणि आर्थिक किमान स्तर*) याच्याकडेच राहतो.*

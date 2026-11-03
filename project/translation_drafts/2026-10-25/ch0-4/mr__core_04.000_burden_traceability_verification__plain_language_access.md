@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Four plain-language access paragraph; source SHA-256 75f40b381cb8d2c0a34cfb114d0230d38c376b27b168b2f740cc762f98f34052. -->
+
+# Chapter Four excerpt — plain-language access
+
+## English source
+
+**Plain-language access.** [Chapter One §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05.035_band_accountability.md#contestability) or [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
+
+## mr draft
+
+**सोप्या भाषेतील प्रवेश.** [अध्याय एक §5.2 — सोप्या भाषेतील सुलभता (सहभाग आणि विश्वस्तपालनाचे कर्तव्य)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) sentients हक्क वापरण्यासाठी, निर्णयांना आव्हान देण्यासाठी किंवा अनुपालन पडताळण्यासाठी वापरतात त्या शासन, न्यायनिर्णय आणि कार्यवाहीच्या सामग्रीला लागू होते. सोपी भाषा अध्याय दोन ते चारमधील आवश्यकता **बदलत नाही** किंवा **कमी करत नाही**. सोप्या भाषेतील आवृत्ती येथे असलेल्या व्याख्या किंवा पडताळणी नियमांशी विसंगत असल्यास ते नियम लागू होतील. [आव्हानयोग्यता](core_05.035_band_accountability.md#contestability) किंवा [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) यांपर्यंतचा प्रवेश रोखण्यासाठी तांत्रिक शब्द, थरांवर थर चढवलेली गुंतागुंत किंवा अपारदर्शकता वापरणे या अध्यायाखाली आणि **अध्याय एक §5.2 सोप्या भाषेतील सुलभता (सहभाग आणि विश्वस्तपालनाचे कर्तव्य)** याखाली गैर-अनुपालन आहे.

@@ -1,0 +1,23 @@
+<!-- AI-assisted translation draft; unreviewed. §5.2.2 system-class scaling and escalation, source lines 1055–1060; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §5.2.2 system-class scaling and escalation (th)
+
+## English source (lines 1055–1060)
+
+How deep the review goes depends on the system's class. Whenever the materiality trigger is met:
+
+- If the system tests or licenses the operators of infrastructure that sentients need to survive, and its decisions could keep that infrastructure from running safely, the record must show the strongest proof that the system builds real skills, offers retraining, and can be challenged. A general training policy is not enough. Retraining is part of the access and opportunity that [Chapter One §3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity) protects, and the challenge route is what [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) keeps open.
+- If the system's privileges, placement, or continuing-education rules decide who can work in roles where mistakes could cause significant harm to others (clinical roles, for example), the record must show how its assessments can be inspected and how sentients can retrain. The more critical the work, the more detail is needed.
+- If the system's training-slot, recommendation, or credential-routing logic significantly ranks or shuts out participants, the record must show how that logic works and how sentients can challenge it. A short general description of the education offered is not enough. Ranking by logic that no one can see or contest is the unexplained rule that [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness) rules out.
+- If the system becomes something sentients must go through to do the work or get licensed, certification must review it more closely and reconsider its system class under [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation). That includes moving it up toward **Class A** when credentials for survival-essential staffing are gated. A credential that sentients cannot do without is the lock-in that [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination) and [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) address.
+
+## Translation draft
+
+##### 5.2.2 การยกระดับและเพิ่มชั้นของระบบ
+
+ความลึกของการทบทวนขึ้นอยู่กับชั้นของระบบ เมื่อใดก็ตามที่เข้าเกณฑ์ความมีนัยสำคัญ:
+
+- หากระบบทดสอบหรือออกใบอนุญาตให้ผู้ปฏิบัติงานโครงสร้างพื้นฐานที่สิ่งมีชีวิตมีความรู้สึกต้องพึ่งพาเพื่อความอยู่รอด และการตัดสินใจของระบบอาจขัดขวางการทำงานอย่างปลอดภัยของโครงสร้างพื้นฐานนั้น บันทึกต้องแสดงหลักฐานที่หนักแน่นที่สุดว่าระบบสร้างทักษะจริง จัดให้มีการฝึกใหม่ และเปิดให้โต้แย้งได้ นโยบายฝึกอบรมทั่วไปไม่เพียงพอ การฝึกใหม่เป็นส่วนหนึ่งของการเข้าถึงและโอกาสที่ [Chapter One §3.1.1 Access and Opportunity](core_01.000_values_principles.md#311-access-and-opportunity) คุ้มครอง และช่องทางโต้แย้งคือสิ่งที่ [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) เปิดไว้
+- หากสิทธิพิเศษ การจัดตำแหน่ง หรือกฎการศึกษาต่อเนื่องของระบบเป็นตัวกำหนดว่าใครทำงานในบทบาทที่ความผิดพลาดอาจทำให้ผู้อื่นเสียหายอย่างมากได้ (เช่น งานทางคลินิก) บันทึกต้องแสดงว่าตรวจสอบการประเมินได้อย่างไร และสิ่งมีชีวิตมีความรู้สึกจะฝึกใหม่ได้อย่างไร งานยิ่งสำคัญยิ่งต้องให้รายละเอียดมาก
+- หากตรรกะของระบบเกี่ยวกับที่นั่งฝึกอบรม คำแนะนำ หรือการส่งต่อใบรับรองจัดอันดับหรือตัดผู้เข้าร่วมออกอย่างมีนัยสำคัญ บันทึกต้องแสดงว่าตรรกะนั้นทำงานอย่างไรและสิ่งมีชีวิตมีความรู้สึกโต้แย้งได้อย่างไร คำอธิบายทั่วไปสั้น ๆ ของการศึกษาที่จัดให้ไม่เพียงพอ การจัดอันดับด้วยตรรกะที่ไม่มีใครเห็นหรือโต้แย้งได้คือกฎที่ไร้คำอธิบายซึ่ง [Chapter One §3.1 Fairness](core_01.000_values_principles.md#31-fairness) ห้ามไว้
+- หากระบบกลายเป็นสิ่งที่สิ่งมีชีวิตมีความรู้สึกต้องผ่านเพื่อทำงานหรือขอใบอนุญาต การรับรองต้องตรวจสอบอย่างเข้มงวดขึ้นและทบทวนชั้นระบบตาม [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation) ซึ่งรวมถึงการขยับขึ้นสู่ **Class A** เมื่อมีการกีดกันใบรับรองสำหรับการจัดกำลังคนที่จำเป็นต่อการอยู่รอด ใบรับรองที่สิ่งมีชีวิตมีความรู้สึกขาดไม่ได้คือการผูกขาดที่ [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination) และ [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) กล่าวถึง

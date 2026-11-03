@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Four plain-language access paragraph; source SHA-256 75f40b381cb8d2c0a34cfb114d0230d38c376b27b168b2f740cc762f98f34052. -->
+
+# Chapter Four excerpt — plain-language access
+
+## English source
+
+**Plain-language access.** [Chapter One §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05.035_band_accountability.md#contestability) or [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
+
+## vi draft
+
+**Tiếp cận bằng ngôn ngữ dễ hiểu.** [Chương Một §5.2 — Khả năng tiếp cận bằng ngôn ngữ dễ hiểu (nghĩa vụ tham gia và stewardship)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) áp dụng cho tài liệu quản trị, xét xử và vận hành mà các sentient dùng để thực hiện quyền, phản đối quyết định hoặc xác minh việc tuân thủ. Ngôn ngữ dễ hiểu **không** thay đổi hay làm giảm yêu cầu của các Chương Hai đến Bốn. Nếu bản dễ hiểu mâu thuẫn với quy tắc định nghĩa hoặc xác minh tại đây, các quy tắc đó được ưu tiên. Dùng biệt ngữ, độ phức tạp chồng chất hoặc sự thiếu minh bạch để cản trở quyền [có thể tranh nghị](core_05.035_band_accountability.md#contestability) hoặc quyền tiếp cận [Điều XVI: Kiểm toán, Minh bạch và Xác minh Độc lập](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) là hành vi không tuân thủ theo chương này và **Chương Một §5.2 Khả năng tiếp cận bằng ngôn ngữ dễ hiểu (nghĩa vụ tham gia và stewardship)**.

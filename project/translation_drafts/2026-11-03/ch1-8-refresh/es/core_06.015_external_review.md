@@ -1,0 +1,5 @@
+# Borrador de traducción — `core_06.015_rights_part_d.md`, Artículo XXV-C
+
+**Revisión externa obligatoria:** los Foros Constitucionales deben someterse a revisión externa independiente en intervalos definidos; la proporcionalidad por interés material no puede reducir este deber. Por regla general, los Foros de Integridad la realizan conforme al Capítulo Catorce §§2–3 y la regla entre foros contra el autojuzgamiento. El Foro de Integridad revisor debe estar estructuralmente separado del Foro Constitucional examinado y no incluir decisores que hayan participado recientemente en sus paneles interpretativos. Si la integridad del propio Foro de Integridad está materialmente cuestionada, se usa la ruta de respaldo del Capítulo Catorce §3, sin reducir la obligación de revisión. La revisión evalúa indicadores de captura, calidad de las decisiones e integridad del Piso de Derechos.
+
+**Canal institucional:** CI-15.205 y CI-8.210 rigen las vías detalladas de nombramiento, controles de rotación y procedimientos de conflicto/recusación de los paneles constitucionales, incluidos los controles de composición de los órganos interpretativos.

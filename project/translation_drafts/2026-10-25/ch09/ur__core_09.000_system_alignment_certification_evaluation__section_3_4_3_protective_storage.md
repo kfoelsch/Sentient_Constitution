@@ -1,0 +1,26 @@
+<!-- AI-assisted translation draft; unreviewed. §3.4.3 protective storage and key custody, source lines 684–691; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §3.4.3 protective storage and key custody (ur)
+
+## English source (lines 684–691)
+
+##### 3.4.3 Protective Storage and Key Custody
+
+For data in the restricted-by-default and non-accessible bands, certification must verify that the system meets the protective storage and key-custody minimum in [CS-6.305 Part A §5.0 Access-posture bands](corpus_systems/cs_06.305_information_types_and_handling.md#50-access-posture-bands). The record must show:
+- where restricted data and its keys actually sit, including backups, caches, logs, and swap;
+- that plaintext is confined to the processes that need it; and
+- that audit, export, and lawful-override paths still work.
+
+A claim of encryption without that evidence does not satisfy this check.
+
+## Translation draft
+
+##### 3.4.3 حفاظتی ذخیرہ اور کلیدوں کی تحویل
+
+بطورِ طے شدہ محدود اور ناقابلِ رسائی بینڈز کے ڈیٹا کے لیے، تصدیق کو جانچنا ہوگا کہ نظام [CS-6.305 حصہ A §5.0 رسائی کی حالت کے بینڈز](corpus_systems/cs_06.305_information_types_and_handling.md#50-access-posture-bands) میں حفاظتی ذخیرے اور کلیدوں کی تحویل کی کم از کم شرط پوری کرتا ہے۔ ریکارڈ کو دکھانا ہوگا:
+
+- محدود ڈیٹا اور اس کی کلیدیں حقیقتاً کہاں ہیں، بشمول بیک اپ، کیش، لاگز، اور swap؛
+- سادہ متن صرف ان عملوں تک محدود ہے جنہیں اس کی ضرورت ہے؛ اور
+- آڈٹ، برآمد، اور قانونی override کے راستے بدستور کام کرتے ہیں۔
+
+ان شواہد کے بغیر خفیہ کاری کا دعویٰ اس جانچ کو پورا نہیں کرتا۔

@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Four reader guidance, anti-relocation rule; source SHA-256 75f40b381cb8d2c0a34cfb114d0230d38c376b27b168b2f740cc762f98f34052. -->
+
+# Chapter Four excerpt — anti-relocation rule
+
+## English source
+
+> - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Five definitions, **Chapter Ten** contribution or standing measurement, or Chapter Twelve anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Chapter Three §3 — Non-Compliance Finding Profiles](core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) and [Chapter Ten — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement). **Section 6** states how Chapters Two through Four differ from [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+
+## pt draft
+
+> - **Regra contra realocação:** este capítulo rege apenas o ônus da prova, a rastreabilidade, a observabilidade, os limites de segurança e as evidências. Ele não reapresenta as definições do Capítulo Cinco, a medição de contribuição ou standing do **Capítulo Dez**, nem os critérios de conduta anticonstitucional do Capítulo Doze. O encaminhamento da não conformidade verificada para standing é regido pelo [Capítulo Três §3 — Perfis de constatação de não conformidade](core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) e pelo [Capítulo Dez — Modelo de contribuição, violação e standing](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement). A **seção 6** explica como os Capítulos Dois a Quatro diferem do [Capítulo Nove — Certificação de alinhamento do sistema](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).

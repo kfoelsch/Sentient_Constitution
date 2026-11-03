@@ -1,0 +1,23 @@
+# Chapter One §7.2.1 — Procedural Path for Credible Work
+
+Source: `core_01.000_values_principles.md` §7.2.1 Aligned Self-Organization
+
+Source SHA-256: `6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17`
+
+## English source passage
+
+When that work is credible and materially relevant, institutions must give it a real procedural path:
+- receive it
+- preserve it where warranted
+- route it
+- give a reasoned response
+- have it reviewed by someone independent of those whose actions are being examined
+
+## Draft translation (th)
+
+เมื่อผลงานนั้นน่าเชื่อถือและเกี่ยวข้องอย่างมีสาระสำคัญ สถาบันต้องจัดให้มีช่องทางเชิงกระบวนการที่แท้จริง:
+- รับเรื่อง
+- เก็บรักษาไว้เมื่อมีเหตุควร
+- ส่งต่อไปยังช่องทางที่เหมาะสม
+- ตอบกลับพร้อมเหตุผล
+- ให้บุคคลที่เป็นอิสระจากผู้ที่กำลังถูกตรวจสอบเป็นผู้ทบทวน
