@@ -15,7 +15,7 @@
 > | **Part B — Forum process and outcomes** | [`core_09.005_system_alignment_certification_record_process.md`](core_09.005_system_alignment_certification_record_process.md) | §6–§7: **Phase III Review** (forum roles, supervisory sequence, and the contestability chain) and **Phase IV Decide** (certification outcomes, including the go-live gate) — continuous chapter numbering from Part A §5 |
 > | **Part C — Record, recertification, and standing** | [`core_09.010_system_alignment_certification_record_recertification.md`](core_09.010_system_alignment_certification_record_recertification.md) | §8–§11: **Phase V Record** (the System Certification Record and its integrity, including governing [System Charter](core_05.040_band_continuity.md#system-charter) fields) and **Phase VI Operate** (recertification and reopening; the challenge path; the standing bridge) — continuous chapter numbering from Part B §7 |
 >
-> **How the two certifications relate.** System Alignment Certification (this chapter) is the certification of a System. Institutional alignment certification ([Chapter Ten](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification)) is the certification of an Institution, which may run Systems or none. Chapter Ten cites each System's System Certification Record by link and does not redo it; [Chapter Ten §1](core_10.000_institutional_alignment_certification.md#1-purpose-and-role) states the relation and [Chapter Ten §1.2](core_10.000_institutional_alignment_certification.md#12-no-permission-and-no-gate-on-forming-or-running) states that it is not a licence. Its sections carry the same numbers and titles as this chapter's.
+> **How the two certifications relate.** System Alignment Certification (this chapter) is the certification of a System. Institutional alignment certification ([Chapter Ten](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification)) is the certification of an Institution, which may run Systems or none. Chapter Ten cites each System's System Certification Record by link and does not redo it; [Chapter Ten §1](core_10.000_institutional_alignment_certification.md#1-purpose-and-role) states the relation and [Chapter Ten §1.2](core_10.000_institutional_alignment_certification.md#12-no-permission-and-no-gate-on-forming-or-running) states that it is not a licence. Its sections carry the same numbers as this chapter's, under parallel titles.
 >
 > Generic **Chapter Nine** links in other files route to the appropriate part by section number.
 >
@@ -79,7 +79,7 @@ Chapter Nine, **Part A**, is the constitutional owner of **system alignment cert
   - [Part B §6.1](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (9.005 §6.1) (*forum component roles*);
   - [Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (9.010 §8) (*System Certification Record contents*);
   - [Part C §8.2](core_09.010_system_alignment_certification_record_recertification.md#82-transparency-and-auditability-of-the-record) (9.010 §8.2) (*record integrity requirements*);
-  - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*reopening and anti-evasion*);
+  - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*certification outcomes*);
   - [Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (9.010 §11) (*standing-record bridge*);
   - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*standing records and verified-input gate*);
   - [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*standing effects and integration*);
@@ -240,7 +240,9 @@ flowchart TB
 >
 > A step-by-step run sheet for the six phases, with a link from each step to the section that holds the rule, is in [CS-9.315 §2 Run sheet](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-2-run-sheet) (*System alignment certification run sheet*). Where the run sheet and a section differ, the section controls.
 >
-> For an Institution, the same six phases run through [Chapter Ten](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification), whose sections carry the same numbers as this chapter's: Phases I and II in [Chapter Ten §2 Institution System Class Evaluation](core_10.000_institutional_alignment_certification.md#2-institution-class-evaluation) to [§5 Rights-Floor and Domain Evaluations](core_10.000_institutional_alignment_certification.md#5-rights-floor-and-domain-evaluations), Phases III to V in [§6 Forum Process](core_10.000_institutional_alignment_certification.md#6-forum-process) to [§8 Institutional Certification Record](core_10.000_institutional_alignment_certification.md#8-institutional-certification-record), and Phase VI in [§9 Recertification and Reopening](core_10.000_institutional_alignment_certification.md#9-recertification-and-reopening) to [§11 Relationship to Standing](core_10.000_institutional_alignment_certification.md#11-relationship-to-standing).
+> Three invented Institutions, walked through Chapter Ten's process, are in [CS-9.320 §12 Illustrative Institution walkthroughs](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-12-illustrative-institution-walkthroughs).
+>
+> For an Institution, the same six phases run through [Chapter Ten](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification), whose sections carry the same numbers as this chapter's: Phases I and II in [Chapter Ten §2 Institution Class Evaluation](core_10.000_institutional_alignment_certification.md#2-institution-class-evaluation) to [§5 Rights-Floor and Domain Evaluations](core_10.000_institutional_alignment_certification.md#5-rights-floor-and-domain-evaluations), Phases III to V in [§6 Forum Process](core_10.000_institutional_alignment_certification.md#6-forum-process) to [§8 Institutional Certification Record](core_10.000_institutional_alignment_certification.md#8-institutional-certification-record), and Phase VI in [§9 Recertification and Reopening](core_10.000_institutional_alignment_certification.md#9-recertification-and-reopening) to [§11 Relationship to Standing](core_10.000_institutional_alignment_certification.md#11-relationship-to-standing).
 
 </details>
 
@@ -425,7 +427,7 @@ A **[pilot](core_05.040_band_continuity.md#pilot)** is a [go-live](core_05.040_b
   - [Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (9.010 §8) (*record contents*);
   - [Part C §8.2](core_09.010_system_alignment_certification_record_recertification.md#82-transparency-and-auditability-of-the-record) (9.010 §8.2) (*record integrity*);
   - [Part B §6](core_09.005_system_alignment_certification_record_process.md#6-forum-process) (9.005 §6) (*contestability chain*);
-  - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*reopening and anti-evasion*).
+  - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*certification outcomes*).
 - Read with:
   - [Chapter One §16](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16),
   - [§18](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and
@@ -845,7 +847,7 @@ A system's own disagreement with its operator, raised through available channels
 - Downstream:
   - [Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents) (9.010 §8.1) (*record contents*);
   - [Part B §6.1](core_09.005_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles) (9.005 §6.1) (*forum component roles*);
-  - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*outcomes and reopening*);
+  - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*certification outcomes*);
   - [Part C §11.3](core_09.010_system_alignment_certification_record_recertification.md#113-verified-input-gate) (9.010 §11.3) (*verified-input gate*).
 - Subsections:
   - [§5.1](#51-ecological-footprint-evaluation) (*ecological footprint*);

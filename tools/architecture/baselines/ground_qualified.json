@@ -1,0 +1,230 @@
+{
+  "rule": "GROUND-QUALIFIED-01",
+  "note": "Shrink-only backlog (AUDIT-SCOPE-01). Fix a finding, then delete its entry. Do not add entries by hand.",
+  "entries": [
+    {
+      "key": "core_01.000_values_principles.md::a88d110973c9",
+      "snippet": "Concentration is easy to miss in shared infrastructure. A few systems can come to control how resources are allocated, how many others rely on them with no real"
+    },
+    {
+      "key": "core_01.005_interaction_interpretation.md::4de61da00ddd",
+      "snippet": "The **Dignity Principles** are the two principles that follow: the [Rights-Floor Minimums Principle](#rights-floor-minimums-principle) and the [Anti-Degrading-P"
+    },
+    {
+      "key": "core_01.010_stewardship_capacity_principles.md::1e49d37103ef",
+      "snippet": "- Where the lawful ground itself bars even the marker, the ground is still recorded at the time of the act, and the marker appears when the bar ends."
+    },
+    {
+      "key": "core_01.010_stewardship_capacity_principles.md::47674ba13a1a",
+      "snippet": "- A restriction needs a lawful ground, stated and recorded at the time. It holds back only what the ground covers, never the whole record."
+    },
+    {
+      "key": "core_01.010_stewardship_capacity_principles.md::96c7d59eff41",
+      "snippet": "- From the moment of the act, a visible marker shows that an act was taken, that part of the record is held back, on what stated ground, and by what route the r"
+    },
+    {
+      "key": "core_05.035_band_accountability.md::5314ac5dc01d",
+      "snippet": "- **Secondary failure:** Use interested-party status as a ground to keep an affected sentient from being heard, or assert the status from a general public inter"
+    },
+    {
+      "key": "core_05.035_band_accountability.md::5543bb70d5fd",
+      "snippet": "- **In scope:** An interim order by a forum with jurisdiction that limits one named sentient's exercise of one named authority, pathway, or matter on the ground"
+    },
+    {
+      "key": "core_05.035_band_accountability.md::b57bb4d958b1",
+      "snippet": "- the showing of the grounds and the evidence level relied on;"
+    },
+    {
+      "key": "core_05.035_band_accountability.md::c0a4901144ac",
+      "snippet": "- **In scope — humiliation subtype:** Humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degr"
+    },
+    {
+      "key": "core_05.035_band_accountability.md::d14bce9d7037",
+      "snippet": "- deny the sentient the grounds, the facts, or a working route to contest and review;"
+    },
+    {
+      "key": "core_05.035_band_accountability.md::ec024e64e7b5",
+      "snippet": "- issue a hold without the grounds in [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pa"
+    },
+    {
+      "key": "core_05.035_band_accountability.md::ff68ec9e4768",
+      "snippet": "- refuse to lift or narrow a Stay after review is complete or its stated grounds no longer hold."
+    },
+    {
+      "key": "core_05.040_band_continuity.md::f2cd374623d5",
+      "snippet": "- a Class P [Operating Party](core_05.050_band_oversight.md#operating-party) that has not published a System Charter or Institutional Charter and is not require"
+    },
+    {
+      "key": "core_05.055_band_participation.md::45832290c3e3",
+      "snippet": "Detect punishment, exclusion, or access denial **mainly because** of any of the following — including disadvantage aimed at individuals, groups, or institutions"
+    },
+    {
+      "key": "core_05.055_band_participation.md::7bcfb5340707",
+      "snippet": "- fabricating or mislabeling refuge denial as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actua"
+    },
+    {
+      "key": "core_05.055_band_participation.md::90086a5f08ea",
+      "snippet": "- fabricating or mislabeling exclusion as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually "
+    },
+    {
+      "key": "core_05.055_band_participation.md::b52774aa92cc",
+      "snippet": "Treat rules that look neutral but mainly target that protected work as dodging **Article VII-E** (*Adult consensual commercial sexual services and sexual exploi"
+    },
+    {
+      "key": "core_05.055_band_participation.md::c6bdc6d81d6e",
+      "snippet": "- Refusal on that ground remains subject to [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) and does not violate [Non-Statelessness"
+    },
+    {
+      "key": "core_05.055_band_participation.md::cc90e09ca1cf",
+      "snippet": "- fabricating or mislabeling restricted status as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not a"
+    },
+    {
+      "key": "core_05.055_band_participation.md::de4cad22333f",
+      "snippet": "- actually one of those grounds — not a made-up label."
+    },
+    {
+      "key": "core_06.005_rights_part_b.md::254facad64ce",
+      "snippet": "- This is a condition of the right and not a licence. No sentient needs clearance before forming or running an Operating Party. The condition is applied on evid"
+    },
+    {
+      "key": "core_06.005_rights_part_b.md::94f3cc588948",
+      "snippet": "The right is protected against discrimination on grounds governed by **Chapter Five** (**Protected Characteristics**), including religion, comparable worldview,"
+    },
+    {
+      "key": "core_06.005_rights_part_b.md::d3e9578cfcf2",
+      "snippet": "- **Authentic formation:** A sentient may form or run an institution or enterprise only when authentically aligned with its stated purpose. Forming or running o"
+    },
+    {
+      "key": "core_06.005_rights_part_b.md::d949ece0aecd",
+      "snippet": "- **Differential treatment on any ground:** Differential treatment that affects a sentient's fundamental rights, protections, or access to survival-critical sys"
+    },
+    {
+      "key": "core_06.010_rights_part_c.md::e718557fc9c9",
+      "snippet": "- who asked for it, who independently approved it and on what grounds, and who keeps the record;"
+    },
+    {
+      "key": "core_06.015_rights_part_d.md::1bf3580a8f05",
+      "snippet": "- must not narrow the grounds above where origin-regime practice is materially non-compliant;"
+    },
+    {
+      "key": "core_06.015_rights_part_d.md::91fd435f068f",
+      "snippet": "- Restricted status must not be fabricated or applied under a mislabeled ground."
+    },
+    {
+      "key": "core_07.000_charters.md::40e857d5bf57",
+      "snippet": "- Where speech is part of the ground, it is shown by clear, verified evidence, open doubt counts against the hold, and the highest scrutiny that [**Article XI-B"
+    },
+    {
+      "key": "core_07.000_charters.md::7174a51358bf",
+      "snippet": "- A statement that is wrong without the sentient's knowledge is not that ground. It is a defect to correct under [§6 When a Holder Fails the Formation Check](#6"
+    },
+    {
+      "key": "core_08.000_functional_independence_separation_of_duties.md::183ffa99ac29",
+      "snippet": "- **Listed acts:** For an act listed for a practice licence or practice clearance under [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-f"
+    },
+    {
+      "key": "core_09.000_system_alignment_certification_evaluation.md::b5e7bbbf56b6",
+      "snippet": "- whether adverse actions that follow dissent carry independent, verified grounds on the record, as the [**Article XI-D** (*Assembly, Dissent, and Peaceful Prot"
+    },
+    {
+      "key": "core_12.000_standing_integration.md::4d3931069af0",
+      "snippet": "**Permanent locks.** A lock is permanent only where the forum that sets it records, in the lock record and on the verified violation findings, one of two ground"
+    },
+    {
+      "key": "core_12.000_standing_integration.md::a9b4d7c68858",
+      "snippet": "- **Unremedied Irreversible Harm:** verified [Irreversible Harm](core_05.035_band_accountability.md#irreversible-harm) for which the remedy owed has not been de"
+    },
+    {
+      "key": "core_12.000_standing_integration.md::ce4e1e161804",
+      "snippet": "Any other lock is non-permanent and keeps the restoration route above. Passage of time, apology, prior contribution, capital, or a change of holders, name, or f"
+    },
+    {
+      "key": "core_12.000_standing_integration.md::de504c499c24",
+      "snippet": "- **Different trigger:** A hold rests on the grounds in [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-"
+    },
+    {
+      "key": "core_12.000_standing_integration.md::e2facc341ee1",
+      "snippet": "- **Restorable form:** where the order records neither ground, the lock ends on a published finding of independent review that the cause the order found is reso"
+    },
+    {
+      "key": "core_13.000_misconduct_designation.md::3d084cb671e5",
+      "snippet": "- **Permanence:** The Trust Lock is not permanent, and restoration under it stays exceptional. Pervasive anti-constitutional conduct is one of the two grounds o"
+    },
+    {
+      "key": "core_14.000_forum.md::12bd30b6edd0",
+      "snippet": "- **Contest and review:** The sentient sees the grounds and the facts, may answer them, and may contest the hold. A forum outside the subject's control line and"
+    },
+    {
+      "key": "core_14.000_forum.md::2362d20784b8",
+      "snippet": "- **Prompt review:** Where this Constitution requires a measure, order, hold, stay, or interim decision to be reviewed promptly, or a request to stay or limit r"
+    },
+    {
+      "key": "core_14.000_forum.md::f7df63d8bdb1",
+      "snippet": "The evidence level rises with how restrictive the hold is, as [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-tracea"
+    },
+    {
+      "key": "corpus_forum/cf_14.410_panel_formation_disclosure_recusal_bench_constitution.md::a1346d4589bd",
+      "snippet": "- **Record and publication:** The hold is recorded apart from any family-level activation, with its ground, scope, lapse date, and review route. It is counted i"
+    },
+    {
+      "key": "corpus_forum/cf_14.410_panel_formation_disclosure_recusal_bench_constitution.md::ccabab17bd54",
+      "snippet": "- **Ground:** The ground is specific verified facts that show a conflict, a non-recusal where recusal was required, or capture, shown on the standard in the Cha"
+    },
+    {
+      "key": "corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md::038754398de3",
+      "snippet": "Reasoned records for routing, recusal, transfer, certification, interim relief, and merits outcomes must be published or otherwise made available when the actio"
+    },
+    {
+      "key": "corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md::26fca29777aa",
+      "snippet": "If a specific lawful order bars even the marker, the forum records that order and its ground in the lead record at the time of the action. The marker appears wh"
+    },
+    {
+      "key": "corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md::ffec3208dcc6",
+      "snippet": "- the existence of any delayed-publication restriction, with its stated ground;"
+    },
+    {
+      "key": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md::02dac03429d4",
+      "snippet": "| Interim-authority shrinkage | Are temporary powers shrinking while institutions mature? | Count and scope of active interim authorities; days to sunset; reaut"
+    },
+    {
+      "key": "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md::93c312001ef9",
+      "snippet": "- **Major progress report:** at least every three months, and at every phase gate, the institution publishes a report that explains the ledger. It covers moveme"
+    },
+    {
+      "key": "corpus_institutions/ci_12.210_institutional_failure_dissolution.md::3217860272fa",
+      "snippet": "The lead Integrity Forum opens a consequence matter against a Chartered Party, or against a Class P Operating Party that has published no System Charter or Inst"
+    },
+    {
+      "key": "corpus_institutions/ci_12.210_institutional_failure_dissolution.md::4f2749d12e65",
+      "snippet": "An allegation, a reputation, a label, a belief, or an [Interim Hold](../core_05.035_band_accountability.md#interim-hold) is not a ground. Nothing here changes t"
+    },
+    {
+      "key": "corpus_institutions/ci_12.210_institutional_failure_dissolution.md::a2649f8c01bb",
+      "snippet": "1. **Notice** states the ground, the risk finding, the proposed rung, the evidence relied on, the route to respond, and what a resolution would look like."
+    },
+    {
+      "key": "corpus_institutions/ci_12.210_institutional_failure_dissolution.md::dde83a7cf74d",
+      "snippet": "1. **Ground:** which trigger in **CI-12.210 §1** (*Opening a consequence matter*) is verified, to the evidence level the rung requires. Higher rungs require hig"
+    },
+    {
+      "key": "corpus_institutions/ci_12.215_institutional_accountability_sanctions.md::7c0a013cf8aa",
+      "snippet": "- **Notice, reasons, record:** the Chartered Party and affected stakeholders see the grounds, the evidence, and the reasons, subject only to narrow lawful limit"
+    },
+    {
+      "key": "corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md::1d12e65d520f",
+      "snippet": "- **Any work, with more for listed acts:** A practitioner may adopt a host for any acts its documents cover, so a practice with both listed and unlisted work ca"
+    },
+    {
+      "key": "corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md::247c47318548",
+      "snippet": "- **A host of last resort:** The adopting document designates, funds, and publishes a public host of last resort for each listed act. It must admit any sentient"
+    },
+    {
+      "key": "corpus_systems/cs_06.305_information_types_and_handling.md::ad905301d58b",
+      "snippet": "Each refusal must state its ground, what is kept, and for how long. Kept data must be limited to what that ground needs and must not be used for anything else. "
+    },
+    {
+      "key": "corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md::5abd3c767add",
+      "snippet": "- **Retention review:** at each gate the plan reviews whether the triggering conditions still hold. Retention continues while they do, and any change follows th"
+    }
+  ]
+}

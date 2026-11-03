@@ -800,6 +800,16 @@
   "violation-finding-audit": {
    "scope": "corpus"
   },
+  "ch10-duplication-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_09.000_system_alignment_certification_evaluation.md",
+    "core_09.005_system_alignment_certification_record_process.md",
+    "core_09.010_system_alignment_certification_record_recertification.md",
+    "core_10.000_institutional_alignment_certification.md"
+   ],
+   "reason": "Lockstep audit: compares Chapter Ten with its parallel Chapter Nine; the scope is that registered pair of chapters."
+  },
   "widget-top-placement-audit": {
    "scope": "corpus"
   },
@@ -812,6 +822,12 @@
     "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md"
    ],
    "reason": "Navigation documents exist to point at the layers; their wrapper links are routing, not citations."
+  },
+  "ground-qualified-audit": {
+   "scope": "corpus"
+  },
+  "record-qualified-audit": {
+   "scope": "corpus"
   }
  }
 }

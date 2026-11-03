@@ -458,6 +458,27 @@
       "summary": "On a line about violations, locks, holds, sanctions, or misconduct, a bare \"finding\" says \"violation finding\" when a finding of violation is meant; other findings are qualified.",
       "make_target": "violation-finding-audit",
       "status": "blocking"
+    },
+    {
+      "id": "CH10-DUPLICATION-01",
+      "legacy_ref": "Chapter Ten reuse, not repetition",
+      "summary": "A Chapter Ten sentence of eight words or more that is a near-verbatim copy of Chapter Nine (85% alike after Institution, System, and operator are read as one word) says it once and points to Chapter Nine, or is summarized and keeps only what differs for an Institution. Plain-terms lines and older copies sit in a shrink-only baseline.",
+      "make_target": "ch10-duplication-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "GROUND-QUALIFIED-01",
+      "legacy_ref": "ground wording",
+      "summary": "The noun \"ground\" says which kind of ground it is (denial ground, revocation ground, reopening ground, System ground, institutional ground) or \"ground for ...\"; a bare \"a ground\", \"the grounds\", \"that ground\" or \"its own ground\" fails. Older uses sit in a shrink-only baseline.",
+      "make_target": "ground-qualified-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "RECORD-QUALIFIED-01",
+      "legacy_ref": "record wording",
+      "summary": "On a line that names a System record and also speaks of an Institution, or names an Institution's record and also speaks of a System, a bare \"the record\", \"this record\" or \"that record\" says which: the Institutional Certification Record or the System Certification Record.",
+      "make_target": "record-qualified-audit",
+      "status": "blocking"
     }
   ]
 }

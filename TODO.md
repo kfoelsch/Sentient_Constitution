@@ -39,20 +39,22 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 
 The implementation and signoffs are recorded in [TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md) and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md).
 
-- [ ] Chapter Seventeen §1 heightened review: fixes were not independently re-reviewed; adoption and the contest period remain open until the announcement. Review records: [Chapter Seven §4](evidence/2026-10-20/heightened_review_record_2026-10-20.md) and [older batches](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
-- [ ] Sync translations for Chapter Seven §4, CF-5.9, CI-3.6.3 custodian bullets, Chapter Ten §3.7, and the two Chapter Five entries after wording settles; include the Chapter Seven §2 and §3 widgets.
+- [ ] Chapter Eighteen §1 heightened review: fixes were not independently re-reviewed; adoption and the contest period remain open until the announcement. Review records: [Chapter Seven §4](evidence/2026-10-20/heightened_review_record_2026-10-20.md) and [older batches](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
+- [ ] Sync translations for Chapter Seven §4, CF-5.9, CI-3.6.3 custodian bullets, Chapter Ten §3 item 5 (Role Map and custody; cited as §3.7 in the review records), and the two Chapter Five entries after wording settles; include the Chapter Seven §2 and §3 widgets.
 
 ### Audit registry and category report — optional follow-up
 
 Records: `tools/architecture/audit_registry.json`, `tools/audit_report.py`, `make audit-report`; project doc `claude/audit-registry-and-report-implementation.md`. See the fifty-second move in [doc_architecture.md](doc_architecture.md).
 
 - [ ] Add an optional `--changed` mode that runs only categories touching files changed on the branch.
+- [ ] Work down the `GROUND-QUALIFIED-01` baseline (56 lines in 24 files; `python3 tools/ground_qualified_audit.py --ignore-baseline`), qualifying each bare "ground" and rewriting the baseline with `--write-baseline`.
+- [ ] Chapter Nine and Ten terminology, what is left after moves 241 to 243 (analysis: Project doc `claude/ch09-ch10-terminology-analysis.md`). Needs the custodian: (a) re-confirm the narrowed **Fresh Review** reading (a later certification pass the forum orders in answer to a certification defect, as one of the responses Chapter Nine Part B §7.2 lists); (b) decide whether a fresh review that finds misalignment steps a System down, sets a cause, and runs on tier windows like a recertification or reopened review (Chapter Nine Part C §9.3.2 to §9.3.4 and Chapter Ten §9.3, §9.5 name only those two), and how the overlap between a certification defect as a reopening trigger (Chapter Nine Part C §9.2) and as a ground for a fresh review (Chapter Nine Part B §7.2) is settled; (c) the rest of the Institution-data-term decision (*Portfolio* and *Operator* are defined; the other terms are not); (d) whether *Urgent Protection* and *Tier Window* belong in Chapter Five (kept but reduced after the independent review). Done in move 243: independent review, Trace widgets on the new entries.
 
 ### Chapter Seven locks, time windows, and related edits — announcement follow-ups
 
 Completed implementation details and signoffs are in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md), [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md), and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md). The relevant Test 1 record is [time-window-test-1-self-check](evidence/2026-10-18/time-window-test-1-self-check.md).
 
-- [ ] Complete announcement adoption and contest steps for the Chapter Seventeen §1 heightened reviews; recorded review fixes were not independently re-reviewed.
+- [ ] Complete announcement adoption and contest steps for the Chapter Eighteen §1 heightened reviews; recorded review fixes were not independently re-reviewed.
 - [ ] Run `make edition-bump` on release day.
 - [ ] Sync translations for the Dissolution Reformation Lock, Chapter Seven §2–§4, Chapter One §16.4, CS-4, time windows and old week-based figures, Article XIV-A / Evidence Preservation wording, Chapter Ten §3 Trace, Article XXVIII-A / CI-14.4.4 declaration wording, Domain-Specific Materiality, the Adoption Document name, and TERM-BODY-01 authority names. Follow the settled-chapter schedule.
 - [ ] Ensure the time-window Test 1 self-check is linked from the relevant PR.
@@ -67,7 +69,10 @@ Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md]
 ### Chapter Ten — open follow-ups
 
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
-- [ ] Sync translations after wording settles.
+- [ ] The 2026-11-02 Chapter Nine and Chapter Ten changes (moves 224–238) are signed off by the steward ([TODO_RESOLVED_2026-11-02.md](archive/TODO_RESOLVED_2026-11-02.md)); two AI review rounds are done ([record](evidence/2026-11-02/heightened_review_record_chapter_ten_2026-11-02.md)). The last three minor points were decided and signed off the same evening (move 240). Still open: the second-round fixes and the move 240 wording were not independently re-reviewed, and adoption and contest run to the announcement.
+- [ ] Re-read the [CS-9.320 §12 Illustrative Institution walkthroughs](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) and the §9.2.2 reader-guide figure whenever Chapter Ten §3, §7.4, §8.1, §9.2 or §9.6 change.
+- [ ] Decide whether Chapter Five should define an Institution data term; that would be a Chapter Five change, so no action until the steward asks.
+- [ ] Sync translations after wording settles, including the new §3 item 8, §9.6 and the §9.3–§11 pointer rewrite.
 
 ### Formation check and remediation readiness — open follow-ups
 
@@ -90,7 +95,7 @@ The signoffs and lifted-hold reference are in [TODO_RESOLVED_2026-10-19.md](arch
 
 The completed Option A review and process definitions are in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 
-- [ ] Draft the Lane D core proposal for Chapter Nine Part C §8.1 and Chapter Thirteen; Chapter Seventeen §1 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise.
+- [ ] Draft the Lane D core proposal for Chapter Nine Part C §8.1 and Chapter Thirteen; Chapter Eighteen §1 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise.
 - [ ] Connect the process-ownership draft's floor-touching test and certification terminology to the Option B guardrail and naming decision.
 
 ### Process, system, and institution — potential follow-ups
@@ -134,6 +139,7 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
+- **2026-11-02 resolved work:** [archive/TODO_RESOLVED_2026-11-02.md](archive/TODO_RESOLVED_2026-11-02.md)
 - **2026-10-23 resolved work:** [archive/TODO_RESOLVED_2026-10-23.md](archive/TODO_RESOLVED_2026-10-23.md)
 - **2026-10-21 resolved work:** [archive/TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md)
 - **2026-10-21 pre-cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md)

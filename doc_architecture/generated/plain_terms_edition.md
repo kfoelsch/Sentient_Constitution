@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **738** of **1175** headings carry a gloss (63%).
+Coverage: **758** of **1195** headings carry a gloss (63%).
 
 ## Contents
 
@@ -25,7 +25,7 @@ Coverage: **738** of **1175** headings carry a gloss (63%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (86/98 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (42/103 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (61/122 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (54/69 glossed)
@@ -35,7 +35,7 @@ Coverage: **738** of **1175** headings carry a gloss (63%).
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.000_system_alignment_certification_evaluation.md` (17/57 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (10/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
-- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (23/50 glossed)
+- [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
 - [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/33 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
@@ -1825,7 +1825,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 42/103 headings glossed
+Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 61/122 headings glossed
 
 #### Continuity: Independent terms
 
@@ -1839,11 +1839,29 @@ the **Adoption Transition** is the stretch of time after a community adopts this
 
 [Source](../../core_05.040_band_continuity.md#adoption-transition)
 
+##### Cause Finding
+
+a **cause finding** is a forum's finding of why a misalignment happened: the way the System is built, the way it is run, or not yet known. It sets the remedy sought and how far a reopened review reaches. It never decides whether the System is misaligned.
+
+[Source](../../core_05.040_band_continuity.md#cause-finding)
+
+##### Certification Condition
+
+a **certification condition** is a requirement written into a certification outcome that the operator must meet or keep meeting. Some must be met before go-live, some must hold the whole time the System runs, and some are corrective work allowed after authorization inside a bounded scope.
+
+[Source](../../core_05.040_band_continuity.md#certification-condition)
+
 ##### Certification Denial
 
 **certification denial** is the refusal to certify a system that does not yet hold certification, because its operator has not shown that it is both willing and able to put a problem right. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.
 
 [Source](../../core_05.040_band_continuity.md#certification-denial)
+
+##### Certification Pass
+
+a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](../../core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](../../core_05.040_band_continuity.md#fresh-review).
+
+[Source](../../core_05.040_band_continuity.md#certification-pass)
 
 ##### Certification Revocation
 
@@ -1851,11 +1869,35 @@ the **Adoption Transition** is the stretch of time after a community adopts this
 
 [Source](../../core_05.040_band_continuity.md#certification-revocation)
 
+##### Challenge Path
+
+a **challenge path** is the published route a sentient uses to contest a certification: who receives a challenge, how to file it, and the windows. It must be named on the record before any forum signs off, and it opens when the outcome is published.
+
+[Source](../../core_05.040_band_continuity.md#challenge-path)
+
+##### Cited System
+
+a **cited System** is a System in an Institution's [Portfolio](../../core_05.040_band_continuity.md#portfolio) whose System Certification Record the Institution's record lists and relies on. When a cited System fails, is withdrawn, or expires, that is an indicator for the Institution, and a cause traced to the Institution reopens its other Systems.
+
+[Source](../../core_05.040_band_continuity.md#cited-system)
+
+##### Clean Recertification
+
+a recertification is **clean** when no misalignment is current and no monitoring indicator points to impending misalignment. Only clean recertifications count toward full certification.
+
+[Source](../../core_05.040_band_continuity.md#clean-recertification)
+
 ##### Essential-Environment Non-Commodification
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_05.040_band_continuity.md#essential-environment-non-commodification)
+
+##### Fresh Review
+
+a **fresh review** is a later certification pass that the forum orders in answer to a certification defect, as one of the responses open to it. Like any later certification pass, it opens a new record.
+
+[Source](../../core_05.040_band_continuity.md#fresh-review)
 
 ##### Full Certification
 
@@ -1869,6 +1911,12 @@ a **go-live** is the moment a system stops being something that is being built o
 
 [Source](../../core_05.040_band_continuity.md#go-live)
 
+##### Governance Violation
+
+a **governance violation** is the name Chapter Ten gives to an Institution's governance failure that reopens review of its Systems. It names the reopening grounds and does not mean a violation for standing. Only a material one reopens.
+
+[Source](../../core_05.040_band_continuity.md#governance-violation)
+
 ##### Institutional Alignment Certification
 
 **institutional alignment certification** is the independent check of an institution, as opposed to one of its systems. It asks whether the institution does what its Institutional Charter says, whether the offices that hold its authority are answerable to someone, and whether the way it rewards its own members pushes toward the Constitution or away from it. It cites the certification of each system the institution runs and does not repeat that work. It never works as a licence: no institution needs permission from it to form or to operate.
@@ -1881,11 +1929,47 @@ an **Institutional Certification Record** is the auditable case file for one ins
 
 [Source](../../core_05.040_band_continuity.md#institutional-certification-record)
 
+##### Interim Protection
+
+**interim protection** is relief ordered while a matter is pending, to protect sentients, evidence, or the status quo until the merits are decided. It must be reasoned, proportionate, and reviewed inside the prompt-review window.
+
+[Source](../../core_05.040_band_continuity.md#interim-protection)
+
+##### Lead Forum
+
+the **lead forum** is the Integrity Forum that leads a certification pass. It directs the opening of the one coordinated record, brings the component findings together, and states the outcome.
+
+[Source](../../core_05.040_band_continuity.md#lead-forum)
+
+##### New Material Authority
+
+**new material authority** is authority to decide, direct, allocate, restrict, or control something for others that is material to them and is not already covered by the Institution's [Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) or its current [Institutional Certification Record](../../core_05.040_band_continuity.md#institutional-certification-record). An Institution waits for its recertification to clear it before exercising it.
+
+[Source](../../core_05.040_band_continuity.md#new-material-authority)
+
+##### One-System Evaluation
+
+the **one-System evaluation** is the single certification pass and single record for an Institution that runs exactly one System that needs a System Charter. The System Certification Record carries an institutional findings block and serves as the Institutional Certification Record.
+
+[Source](../../core_05.040_band_continuity.md#one-system-evaluation)
+
+##### Operator
+
+the **operator** of a System is the party that operates, stewards, or materially controls it and answers for it in its certification. Chapter Nine writes "operator or steward" for the role. It is narrower than an [Operating Party](../../core_05.050_band_oversight.md#operating-party), which is whoever does any activity.
+
+[Source](../../core_05.040_band_continuity.md#operator)
+
 ##### Pilot
 
 a **pilot** is a real but deliberately limited launch. Real sentients are affected, or start to rely on the system, so it is not a test in a sandbox; and it is limited in advance by a stated scope, population, and length of time. Because it is real, it needs its own certification before it starts, and it may not quietly grow past the limits it was certified for.
 
 [Source](../../core_05.040_band_continuity.md#pilot)
+
+##### Portfolio
+
+an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own record.
+
+[Source](../../core_05.040_band_continuity.md#portfolio)
 
 ##### Provisional Certification
 
@@ -1899,11 +1983,41 @@ a **pilot** is a real but deliberately limited launch. Real sentients are affect
 
 [Source](../../core_05.040_band_continuity.md#recertification)
 
+##### Reliance Limits
+
+**reliance limits** are limits, stated on the record, on how far anyone may rely on a System or an Institution. They come with a certification outcome or are placed while a matter is pending.
+
+[Source](../../core_05.040_band_continuity.md#reliance-limits)
+
+##### Reopened Review
+
+a **reopened review** is a certification pass of a System or an Institution that already holds a record, begun before the next scheduled recertification because a [Reopening Trigger](../../core_05.040_band_continuity.md#reopening-trigger) has fired. It opens a new record linked to the last.
+
+[Source](../../core_05.040_band_continuity.md#reopened-review)
+
+##### Reopening Trigger
+
+a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the record.
+
+[Source](../../core_05.040_band_continuity.md#reopening-trigger)
+
 ##### Residual Risk / Misalignment
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_05.040_band_continuity.md#residual-risk--misalignment)
+
+##### Tier Window
+
+a **tier window** is a time limit that runs at a stage of a certification matter, set by the materiality tier the matter is placed in. The tier presumptively matches the class. The **matching intake target** is the intake target of that tier.
+
+[Source](../../core_05.040_band_continuity.md#tier-window)
+
+##### Urgent Protection
+
+**urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the record.
+
+[Source](../../core_05.040_band_continuity.md#urgent-protection)
 
 ##### Voluntary Discontinuation
 
@@ -4517,7 +4631,7 @@ certification can feed standing, but it is not standing. Any System Certificatio
 
 ## CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION
 
-Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 23/50 headings glossed
+Source file: [`core_10.000_institutional_alignment_certification.md`](../../core_10.000_institutional_alignment_certification.md) · 24/51 headings glossed
 
 #### 1. Purpose and Role
 
@@ -4605,13 +4719,13 @@ the bodies that do the certifying are institutions too, so they cannot certify e
 
 #### 7. Certification Outcomes
 
-a certification review ends with a published verdict on the Institution. The verdict never decides whether the Institution may exist or operate. It decides what the Institution may say about itself, who is warned, and how much the verdict counts when the Institution's Systems are reviewed. The forums can also limit the specific practice or authority the review found wrong, and a Not Certified Institution may not hold a seat in another body's certification. They cannot bar the Institution from operating or from forming Systems.
+a certification review ends with a published outcome for the Institution. The outcome never decides whether the Institution may exist or operate. It decides what the Institution may say about itself, who is warned, and how much the outcome counts when the Institution's Systems are reviewed. The forums can also limit the specific practice or authority the review found wrong, and a Not Certified Institution may not hold a seat in another body's certification. They cannot bar the Institution from operating or from forming Systems.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#7-certification-outcomes)
 
 ##### 7.1 Go-live for an Institution
 
-a System cannot go live until it is certified. An Institution can form and run without a certificate, but it waits for its recertification before it exercises new material authority. A verdict on an Institution does three narrower things: it sets the Institution's public status, it attaches certification conditions to the specific problem found, and it counts as evidence when the Institution's Systems are reviewed.
+a System cannot go live until it is certified. An Institution can form and run without a certificate, but it waits for its recertification before it exercises new material authority. An outcome for an Institution does three narrower things: it sets the Institution's public status, it attaches certification conditions to the specific problem found, and it counts as evidence when the Institution's Systems are reviewed.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#71-go-live-for-an-institution)
 
@@ -4621,11 +4735,11 @@ a System cannot go live until it is certified. An Institution can form and run w
 
 [Source](../../core_10.000_institutional_alignment_certification.md#711-certification-conditions)
 
-###### 7.1.2 Other effects of a verdict
+###### 7.1.2 Other effects of an outcome
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_10.000_institutional_alignment_certification.md#712-other-effects-of-a-verdict)
+[Source](../../core_10.000_institutional_alignment_certification.md#712-other-effects-of-an-outcome)
 
 ##### 7.2 Certification defects and correction
 
@@ -4671,7 +4785,7 @@ the stated outcome is kept on a record held by an office the institution does no
 
 #### 9. Recertification and Reopening
 
-an institution's certification is checked again on a schedule and whenever something material changes. If one of its systems loses its certification, the institution answers for what that says about the institution, and no more than that.
+an institution's certification is checked again on a schedule and whenever something material changes. If one of its systems loses its certification, the institution answers for what that says about the institution, and no more than that. If the institution is found to have governed badly, its systems are looked at again.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#9-recertification-and-reopening)
 
@@ -4759,6 +4873,12 @@ a failed system certification is a warning light for the institution, and someti
 
 [Source](../../core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications)
 
+##### 9.6 Reopening the Institution's Systems
+
+when an institution is found to have governed badly in a way that matters, each of its systems is reopened for a fresh look as soon as notice is given, unless that system's own review is already under way. That is a fresh look and not an outcome. Each system keeps its status until its own review decides.
+
+[Source](../../core_10.000_institutional_alignment_certification.md#96-reopening-the-institutions-systems)
+
 #### 10. Challenging a Certification
 
 an Institutional Certification Record only works if sentients can push back when it is wrong. A challenge has to be real: able to reopen review, pause reliance, and reach the forum with authority over the point in dispute. A complaints box that changes nothing does not count.
@@ -4767,7 +4887,7 @@ an Institutional Certification Record only works if sentients can push back when
 
 ##### 10.1 When the path opens
 
-the challenge path has to be open before anyone is asked to rely on a certification. For an Institution with no outcome yet, it opens with the first outcome. For an Institution that is already operating, it is already open.
+the challenge path has to be open before anyone is asked to rely on a certification. For an Institution that already has stakeholders, it is already open, or opens when the record opens. For an Institution with no stakeholders yet, it opens with the first outcome.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#101-when-the-path-opens)
 
