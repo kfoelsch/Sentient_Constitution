@@ -1,0 +1,15 @@
+<!-- AI-assisted translation draft; unreviewed. §1 corpus-placement overview, source lines 8–10; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §1 corpus-placement overview (fa)
+
+## English source (lines 8–10)
+
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part A** — certification purpose, the process overview, and the first two phases of the process — **Frame** (system class) and **Evaluate** (whole-system evaluation in three sub-phases: the always-applicable evaluations, including data types and handling, in **§3**; the evaluations that apply where implicated in **§4**; and the Rights-Floor and domain evaluations that apply where triggered in **§5**) — **§1–§5**. The worked **Class A / B / C illustrations** (the system class profiles, §3.4.8, §5.1.5, §5.2.4, §5.3.7, §5.4.4, §5.5.5, and §5.6.4), including each one's **Reading across system classes** paragraph, are in [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md); each keeps its Part A section number. The binding system-class-scaling and escalation rules those paragraphs illustrate stay in this file: system class scaling, including participation and proportionality, in §2.2; data-handling scaling in §3.4; and the **System class scaling and escalation** paragraph in each of §5.1–§5.6. The files of the whole chapter are listed in the table below.
+>
+> **Chapter Nine files.** Chapter Nine is split across four binding files read as one text. Part A, this file, opens the chapter; there is no separate index file.
+
+## Translation draft
+
+> این فایل **بخشی از قانون اساسی سنتینت** است و فقط هنگامی الزام‌آور است که همراه با دیگر فایل‌های شماره‌دار `core_*` به‌صورت یک متن خوانده شود. این فایل شامل **فصل نهم، بخش الف** است: هدف گواهی، نمای کلی فرایند، و دو مرحله نخست آن—**Frame** (طبقهٔ سامانه) و **Evaluate** (ارزیابی کل سامانه در سه زیرمرحله: ارزیابی‌های همواره‌لازم، از جمله انواع داده و نحوهٔ کار با آن‌ها، در **§3**؛ ارزیابی‌های لازم در صورت ارتباط در **§4**؛ و ارزیابی‌های کف حقوق و حوزه‌ای که در صورت فعال‌شدن لازم‌اند در **§5**)—**§§1–5**. نمونه‌های مشروح **کلاس A / B / C** (پروفایل‌های کلاس سامانه، §3.4.8، §5.1.5، §5.2.4، §5.3.7، §5.4.4، §5.5.5 و §5.6.4)، از جمله بند **خواندن در میان کلاس‌های سامانه** در هر نمونه، در [`core_09.010_system_alignment_certification_illustrations.md`](core_09.010_system_alignment_certification_illustrations.md) آمده‌اند؛ شمارهٔ بخش هرکدام در بخش الف حفظ شده است. قواعد الزام‌آور مقیاس‌بندی و تشدید برحسب کلاس که آن بندها توضیح می‌دهند در همین فایل می‌مانند: مقیاس‌بندی کلاس سامانه، از جمله مشارکت و تناسب، در §2.2؛ مقیاس‌بندی رسیدگی به داده در §3.4؛ و بند **مقیاس‌بندی و تشدید برحسب کلاس سامانه** در هر یک از §§5.1–5.6. جدول زیر فایل‌های کل فصل را فهرست می‌کند.
+>
+> **فایل‌های فصل نهم.** فصل نهم میان چهار فایل الزام‌آور تقسیم شده است که باید با هم خوانده شوند. بخش الف، یعنی همین فایل، آغازگر فصل است؛ فایل فهرست جداگانه‌ای وجود ندارد.

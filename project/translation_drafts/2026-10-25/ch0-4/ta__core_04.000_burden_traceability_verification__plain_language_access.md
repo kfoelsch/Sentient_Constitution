@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Four plain-language access paragraph; source SHA-256 75f40b381cb8d2c0a34cfb114d0230d38c376b27b168b2f740cc762f98f34052. -->
+
+# Chapter Four excerpt — plain-language access
+
+## English source
+
+**Plain-language access.** [Chapter One §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05.035_band_accountability.md#contestability) or [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
+
+## ta draft
+
+**எளிய மொழி அணுகல்.** [அத்தியாயம் ஒன்று §5.2 — எளிய மொழி அணுகல்தன்மை (பங்கேற்பு மற்றும் பொறுப்பேற்புக் கடமை)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), உரிமைகளைப் பயன்படுத்த, முடிவுகளை எதிர்க்க அல்லது இணக்கத்தைச் சரிபார்க்க sentients பயன்படுத்தும் ஆளுகை, தீர்ப்பளிப்பு மற்றும் செயல்பாட்டு உள்ளடக்கங்களுக்குப் பொருந்தும். எளிய மொழி அத்தியாயங்கள் இரண்டு முதல் நான்கு வரை கோரும் தேவைகளை **மாற்றவோ குறைக்கவோாது**. இங்குள்ள வரையறை அல்லது சரிபார்ப்பு விதிகளுடன் எளிய மொழிப் பதிப்பு முரண்பட்டால், அந்த விதிகளே மேலோங்கும். [எதிர்வாதத் திறன்](core_05.035_band_accountability.md#contestability) அல்லது [கட்டுரை XVI: தணிக்கை, வெளிப்படைத்தன்மை மற்றும் சுயாதீனச் சரிபார்ப்பு](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) அணுகலைத் தடுக்கச் சொற்சிக்கல், அடுக்கடுக்கான சிக்கல் அல்லது ஒளிவுமறைவைப் பயன்படுத்துவது இந்த அத்தியாயத்தின் கீழும் **அத்தியாயம் ஒன்று §5.2 எளிய மொழி அணுகல்தன்மை (பங்கேற்பு மற்றும் பொறுப்பேற்புக் கடமை)**யின் கீழும் இணக்கமின்மையாகும்.

@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Three §3.1, standing effects for an already-certified system; source SHA-256 dafc567a1e2dc3eaa76ce02692073b4fce440bc1f6c5e66a3309409f16a658ea. -->
+
+# Chapter Three excerpt — standing effects for an already-certified system
+
+## English source
+
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Ten](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Ten](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement); apply its integration and effects under [Chapter Eleven](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
+
+## ja draft
+
+システムがすでに[システム整合性認証](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)の下で運用されている場合（条件付き認証や有効期間内の再認証を含む）、そのシステムの機能的範囲における重大な検証済み不遵守は、**そのシステム**について[第10章](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement)のスタンディング測定に**必ず**含めます。[検証済み入力ゲート](core_11.000_standing_assessment.md#verified-inputs-for-standing)を通過した事実だけを入力できます。[第10章](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement)に基づきスタンディングを測定し、その統合と効果を[第11章](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration)に基づき適用します。再開、取消しその他の認証上の帰結は[第9章](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)に属します。それらは当該システムのスタンディング記録に代わるものではありません。

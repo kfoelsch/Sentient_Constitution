@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Three §3.2, first-certification standing distinction; source SHA-256 dafc567a1e2dc3eaa76ce02692073b4fce440bc1f6c5e66a3309409f16a658ea. -->
+
+# Chapter Three excerpt — first certification and standing inputs
+
+## English source
+
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. Until certification is granted, those certification records supply no standing input under [Chapter Nine §10 Relationship to Standing](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing), which traces standing input only from certified systems. Once certification is granted, including conditional certification, [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) applies. This chapter does not require the same standing records that an already-certified running system must receive.
+
+## te draft
+
+వ్యవస్థ ఇంకా తన **మొదటి** [వ్యవస్థ సమలేఖన ధృవీకరణ](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) దశలో ఉండి, ఇంకా ధృవీకరించబడకపోతే—ధృవీకరణ వాయిదా పడినా లేదా నిరాకరించబడినా—ధృవీకరించిన అననుసరణ ప్రధానంగా అధ్యాయం తొమ్మిదిలోని **ధృవీకరణ ఫలితాన్ని** నిర్ణయిస్తుంది. ఫలితం షరతులతో కూడిన ధృవీకరణ, వాయిదా వేసిన ధృవీకరణ, ధృవీకరణ నిరాకరణ లేదా అలాంటి ఫలితం కావచ్చు. ధృవీకరణ మంజూరయ్యే వరకు ఆ రికార్డులు [అధ్యాయం తొమ్మిది §10 స్టాండింగ్‌తో సంబంధం](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing) ప్రకారం స్టాండింగ్ ఇన్‌పుట్ ఇవ్వవు; ఆ నియమం ధృవీకరించిన వ్యవస్థల నుంచే ఇన్‌పుట్‌ను గుర్తిస్తుంది. షరతులతో సహా ధృవీకరణ మంజూరైన తర్వాత [§3.1 ఇప్పటికే ధృవీకరించిన వ్యవస్థలపై స్టాండింగ్ ప్రభావాలు](#31-standing-effects-for-already-certified-systems) వర్తిస్తుంది. ఇంకా ధృవీకరించని పనిచేస్తున్న వ్యవస్థకు ఇప్పటికే ధృవీకరించిన పనిచేస్తున్న వ్యవస్థకు అవసరమైనట్టే స్టాండింగ్ రికార్డులను ఈ అధ్యాయం కోరదు.

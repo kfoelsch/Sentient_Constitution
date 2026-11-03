@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Four plain-language access paragraph; source SHA-256 75f40b381cb8d2c0a34cfb114d0230d38c376b27b168b2f740cc762f98f34052. -->
+
+# Chapter Four excerpt — plain-language access
+
+## English source
+
+**Plain-language access.** [Chapter One §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05.035_band_accountability.md#contestability) or [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
+
+## es draft
+
+**Acceso en lenguaje claro.** [Capítulo Uno §5.2 — Accesibilidad en lenguaje claro (deber de participación y custodia)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) se aplica a los materiales de gobernanza, adjudicación y operación que los seres sintientes usan para ejercer derechos, impugnar decisiones o verificar el cumplimiento. El lenguaje claro **no** cambia ni reduce lo que exigen los capítulos Dos a Cuatro. Si una versión en lenguaje claro discrepa de las reglas de definición o verificación aquí, prevalecen esas reglas. Usar jerga, complejidad acumulada u opacidad para impedir el acceso a la [impugnabilidad](core_05.035_band_accountability.md#contestability) o al [Artículo XVI: Auditoría, transparencia y verificación independiente](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) constituye incumplimiento conforme a este capítulo y al **Capítulo Uno §5.2 Accesibilidad en lenguaje claro (deber de participación y custodia)**.

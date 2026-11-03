@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One §3.1.5, survival does not depend on reply; source SHA-256 6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17. -->
+
+# Chapter One excerpt — survival essentials and response
+
+## English source
+
+**Survival does not depend on a reply:** Keeping survival essentials must not depend on a sentient's being able to answer, ask for help, or follow a process they cannot follow now. How much this requires grows with [material stake](core_00.000_preamble.md#material-stake) and [Dependency](core_05.040_band_continuity.md#dependency).
+
+## ja draft
+
+**生存は返答に左右されない：**生存に不可欠なものを維持することは、センティエントが回答したり、助けを求めたり、現在は遂行できない手続に従ったりできるかどうかに依存してはなりません。必要な対応の程度は、[重大な利害](core_00.000_preamble.md#material-stake)と[依存関係](core_05.040_band_continuity.md#dependency)が大きくなるほど高まります。

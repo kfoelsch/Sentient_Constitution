@@ -1,0 +1,33 @@
+<!-- AI-assisted translation draft; unreviewed. §1 corpus-placement explanatory prose, source lines 19–30; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §1 corpus-placement explanatory prose (ja)
+
+## English source (lines 19–30)
+
+> **How the two certifications relate.** System Alignment Certification (Parts A to C) is the certification of a System. Institutional alignment certification (Part D) is the certification of an Institution, which may run Systems or none. Part D cites each System's certification record by link and does not redo it; [Part D §11.1](core_09.015_institutional_alignment_certification.md#111-relation-to-system-alignment-certification) states the relation and [Part D §11.3](core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate) states that it is not a licence.
+>
+> Generic **Chapter Nine** links in other files route to the appropriate part by section number.
+>
+> - **Constitutional owner (joint with Parts B and D):** forum-supervised **system alignment certification and related records** — evaluation domains (Part A); forum process, supervisory sequence, certification-record duties, certification outcomes and the go-live gate, the challenge path, recertification and reopening, and verified-input bridge to Chapter Ten (Part B); the same six phases for an Institution (Part D). Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
+> - **Verification substrate owner:** [Chapter Four — Burden of Proof, Traceability, and Verification](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (within Chapters Two through Four) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Nine **applies** that discipline to system alignment certification records; it does **not** restate Chapter Four sections **1** through **5**.
+> - **Auditing home (not relocated here):** **Article XVI** (*Audit, Transparency, and Independent Verification*), **Def.O1** (*Transparency, Auditability, and Verification*), and **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5** own auditing floors and operational terms. Chapter Nine runs one especially large SAC audit process that must satisfy those floors; it does not own all auditing.
+> - **Implementation owner:** system-class handling, CS-6.345, and forum-process detail in designated implementation files must remain consistent with Chapter Nine and may be stricter where the corpus already provides a [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) rule.
+> - **Anti-relocation rule:** Part A does not restate Chapter Five canonical definitions, Chapter Three anti-evasion discipline (see [Part B §9.3](core_09.005_system_alignment_certification_record_process.md#93-non-evasion)), Chapter Ten contribution or standing measurement, or Chapter Eleven standing effects. **[Part B §10](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)** states the standing bridge boundary explicitly.
+>
+> **Upstream:** Chapter Five definitions; Chapters Two through Four record, verification, burden, and traceability of definitions to results; and [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties), whose separation-of-duties requirement governs every materially binding certification act.
+> **Downstream:** [Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--record-and-process) (*forum process, record, outcomes, and standing bridge*); Chapter Ten standing records and verified inputs; Chapter Eleven standing effects; Chapter Thirteen forum supervision and system alignment certification pathways.
+
+## Translation draft
+
+**二つの認証の関係。** System Alignment Certification（パートA〜C）はシステムの認証である。Institutional alignment certification（パートD）は機関の認証であり、その機関はシステムを運用する場合も、運用しない場合もある。パートDは各システムの認証記録をリンクで参照し、再実施しない。[Part D §11.1](core_09.015_institutional_alignment_certification.md#111-relation-to-system-alignment-certification)が関係を説明し、[Part D §11.3](core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate)が認証はライセンスではないと定める。
+>
+> 他のファイルにある一般的な**Chapter Nine**へのリンクは、節番号に応じて適切なパートへ案内する。
+>
+> - **憲法上の所管（パートB・Dと共同）：** フォーラムの監督下にあるシステム・アラインメント認証と関連記録 — 評価領域（パートA）；フォーラム手続、監督の順序、認証記録の義務、結果と稼働開始条件、異議申立て経路、再認証・再開、および第十章への検証済み入力の橋渡し（パートB）；機関についての同じ六段階（パートD）。Tetradの**監督**の柱において、SACは他の監査プロセスの中でも特に大規模で重大な監査プロセスの一つである。監査の最低基準は**Article XVI**（*Audit, Transparency, and Independent Verification*）および第5章の[Auditability](core_05.050_band_oversight.md#auditability)に残る。
+> - **検証基盤の所管：** [Chapter Four — Burden of Proof, Traceability, and Verification](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)（第2〜4章）が、立証責任の配分、適合証拠、定義の追跡可能性、可観測性、およびセキュリティ制約下の検証を所管する。第9章はこの規律をシステム・アラインメント認証記録に適用し、第4章の**1**〜**5**節を繰り返さない。
+> - **監査の本拠（ここには移さない）：** **Article XVI**（*Audit, Transparency, and Independent Verification*）、**Def.O1**（*Transparency, Auditability, and Verification*）、および**CJS-5.110 §3とCJS-5.115 §3**（*Audit process home*）〜**CJS-5.110 §5**が、監査の最低基準と運用用語を所管する。第9章はそれらの基準を満たすべき特に大規模なSAC監査を実施するが、すべての監査を所管するわけではない。
+> - **実装の所管：** 指定された実装ファイルにあるシステムクラスの取扱い、CS-6.345、およびフォーラム手続の詳細は第9章と整合しなければならず、コーパスに[Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect)の規則が既にある場合は、より厳格にできる。
+> - **移設禁止規則：** パートAは、第5章の正準定義、第3章の回避防止規律（[Part B §9.3](core_09.005_system_alignment_certification_record_process.md#93-non-evasion)参照）、第10章の貢献またはstandingの測定、第11章のstanding効果を再述しない。**[Part B §10](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)**がstandingブリッジの境界を明示する。
+>
+> **上流：** 第5章の定義；第2〜4章の記録、検証、立証責任、定義から結果への追跡可能性；および[Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)。同章の職務分離要件は、実質的に拘束力のあるすべての認証行為を統制する。
+> **下流：** [Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--record-and-process)（*フォーラム手続、記録、結果、standingブリッジ*）；第10章のstanding記録と検証済み入力；第11章のstanding効果；第13章のフォーラム監督とシステム・アラインメント認証経路。

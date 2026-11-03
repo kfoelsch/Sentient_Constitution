@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One §11.1, concentration threshold tuning; source SHA-256 6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17. -->
+
+# Chapter One excerpt — adopter-tunable threshold summary
+
+## English source
+
+In plain terms: adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the requirements still hold. The detailed threshold-setting rules live in CJS-5.125 §11.1 (Market concentration threshold-setting discipline (adopter-tunable)) (market concentration threshold-setting discipline).
+
+## fr draft
+
+En termes simples : les adoptants peuvent adapter les seuils numériques à leur contexte — domaine, taille de la population, densité des dépendances — mais il n’existe pas de chiffre mondial unique, et les exigences restent applicables. Les règles détaillées de fixation des seuils figurent dans CJS-5.125 §11.1 (discipline de fixation des seuils de concentration du marché, réglable par l’adoptant).

@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One Part A reader guidance, relationship between the Aims and Tetrad; source SHA-256 6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17. -->
+
+# Chapter One excerpt — the Aims and Tetrad as two axes
+
+## English source
+
+**Two axes, not a conflict.** The aims say what systems pursue; the Tetrad says how that pursuit stays legitimate. A term can sit on both: Truth and Trustworthiness are constituents of Flourishing, and [Preamble §2](core_00.000_preamble.md#2-measurements-overview) measures them under the Oversight family. [§§13–15](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) govern how these principles are weighed when they collide and read as one whole, and [§20](core_01.010_stewardship_capacity_principles.md#20-integrated-application) applies them to every later chapter.
+
+## mr draft
+
+**दोन अक्ष, संघर्ष नाही.** दोन उद्दिष्टे प्रणाली काय साध्य करू पाहतात हे सांगतात; टेट्राड हा प्रयत्न वैध कसा राहतो हे सांगतो. एखादी संज्ञा दोन्हींत असू शकते: सत्य आणि विश्वासार्हता ही Flourishingची घटक आहेत, आणि [प्रस्तावनेचा §2](core_00.000_preamble.md#2-measurements-overview) त्यांचे देखरेख कुटुंबाअंतर्गत मोजमाप करतो. तत्त्वे परस्परविरोधी असताना त्यांचे वजन कसे ठरवायचे आणि एकत्रितपणे कसे वाचायचे हे [§§13–15](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) ठरवतात; [§20](core_01.010_stewardship_capacity_principles.md#20-integrated-application) ती पुढील प्रत्येक अध्यायात लागू करतो.

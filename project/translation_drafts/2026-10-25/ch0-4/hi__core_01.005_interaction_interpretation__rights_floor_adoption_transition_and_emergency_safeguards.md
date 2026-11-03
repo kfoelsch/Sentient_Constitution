@@ -1,0 +1,13 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One Part B §13.1 Rights-Floor and temporary-restriction safeguards; source SHA-256 28f8a1ab080fef53c99916d5833ff23a58a704bf76dd7d5878b3e2847b2830d7. -->
+
+# Chapter One Part B excerpt — Rights-Floor and temporary-restriction safeguards
+
+## English source passage
+
+- No constitutional process, measure, Adoption Transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections under [Article VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle), minimum subsistence access, or core challenge, review, and appeal rights.
+- Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency rules in [Chapter Thirteen §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, Adoption Transition, standing, amendment, contract, or implementation labels to bypass it.
+
+## Draft translation (hi)
+
+- कोई भी संवैधानिक प्रक्रिया, उपाय, Adoption Transition, संशोधन, स्थिति-संबंधी परिणाम, आपात कार्रवाई या न्याय-संबंधी परिणाम [Article VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*गरिमा और समान नैतिक दर्जा*) तथा [अपमानजनक प्रक्रिया-विरोधी सिद्धांत](#anti-degrading-process-principle) के अंतर्गत मूल गरिमा-सुरक्षाओं के **अधिकार-आधार के न्यूनतम स्तर**, न्यूनतम जीवन-निर्वाह पहुँच, या मूल चुनौती, समीक्षा और अपील अधिकारों को स्थायी रूप से समाप्त या त्याग नहीं सकता।
+- किसी विशिष्ट अधिकार पर अस्थायी रोक तभी अनुमत है जब वह [सबसे कम प्रतिबंधकारी, समय-सीमित और समीक्षा योग्य प्रतिबंध सिद्धांत](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) तथा [Chapter Thirteen §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*आपात उपाय और उन्हें जारी रखने का भार*) के नियमों का पालन करे—अर्थात हर रोक उचित, न्यूनतम, दर्ज, समय-सीमित और स्वतंत्र समीक्षा योग्य हो। विशिष्ट अनुच्छेद अधिक मजबूत सुरक्षा जोड़ सकते हैं, पर वे इस सिद्धांत को संकुचित नहीं कर सकते और न ही सुविधा, दक्षता, वर्गीकरण, आपातकाल, Adoption Transition, स्थिति, संशोधन, अनुबंध या कार्यान्वयन के लेबल से इससे बच सकते हैं।

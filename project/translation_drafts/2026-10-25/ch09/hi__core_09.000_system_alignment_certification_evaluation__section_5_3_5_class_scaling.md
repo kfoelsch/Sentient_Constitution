@@ -1,0 +1,31 @@
+<!-- AI-assisted translation draft; unreviewed. §5.3.5 system-class scaling and escalation, source lines 1220–1229; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §5.3.5 system-class scaling and escalation (hi)
+
+## English source (lines 1220–1229)
+
+A system's class decides how deep the review goes and how closely adequacy is judged. It never makes a shared extraction too small to count, and extraction split across entities, records, or periods is judged as one under [Chapter One §15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle). Whenever the materiality trigger is met:
+
+- A system drawing on a shared foundation that sentients need to survive — such as a shared watershed or the backbone of a regional power grid — must put the strongest dependency-map and return-flow proof on the record. These are the shared systems whose lasting capacity [Chapter One §9 Shared-System Capacity](core_01.000_values_principles.md#9-shared-system-capacity) protects, and **Article III-A** (*Survival*) is why the proof is strongest here.
+- A system relying on shared authentication, health-IT, or similar infrastructure must document what it takes and whether its support is adequate, at a depth that matches how critical its operations are. Vague slogans about "interoperability" do not count: the reliance must be visible in the maps and records, as [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) requires.
+- A system must not dodge cross-system review while quietly becoming the payments, identity, or staffing choke point for institutions that cannot realistically switch.
+  - **Who cannot switch:** judged by the replaceability factors in [§5.3.3 Evaluation Requirement](#533-evaluation-requirement).
+  - **Why it matters:** this is the kind of concentration that [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) describes. It tells adopters to set levels for it, such as how many sentients or systems rely on one provider with no real alternative, or who controls the interfaces and access points to shared infrastructure. Certification does not wait for an adopter's level to be crossed before it steps up its review (see below).
+  - **What certification does:** it steps up its review and reconsiders the system's class under [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation), up to **Class A** where the system controls access to survival-essential coordination.
+
+The step-up does not wait for a concentration level set under [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable). A level that an adopter has set and the system has crossed is further evidence. A level that is unset, or set too high, does not delay the step-up, and crossing a level is not by itself a finding of misconduct.
+
+## Translation draft
+
+##### 5.3.5 प्रणाली-वर्ग का विस्तार और उन्नयन
+
+प्रणाली का वर्ग तय करता है कि समीक्षा कितनी गहरी होगी और पर्याप्तता को कितनी निकटता से परखा जाएगा। इससे साझा निष्कर्षण इतना छोटा नहीं हो जाता कि उसे गिना ही न जाए; संस्थाओं, अभिलेखों या अवधियों में बाँटे गए निष्कर्षण को [Chapter One §15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle) के अनुसार एक ही माना जाएगा। जब भी भौतिकता की कसौटी पूरी हो:
+
+- जो प्रणाली ऐसे साझा आधार का उपयोग करती है जिसकी संवेदनशील प्राणियों को जीवित रहने के लिए आवश्यकता है—जैसे साझा जलग्रहण क्षेत्र या क्षेत्रीय बिजली ग्रिड की मुख्य रीढ़—उसे निर्भरता-मानचित्र और प्रतिफल-प्रवाह के सबसे मजबूत प्रमाण अभिलेख में देने होंगे। ये साझा प्रणालियाँ हैं जिनकी टिकाऊ क्षमता [Chapter One §9 Shared-System Capacity](core_01.000_values_principles.md#9-shared-system-capacity) सुरक्षित करता है, और **Article III-A** (*Survival*) के कारण यहाँ सबसे मजबूत प्रमाण अपेक्षित है।
+- साझा प्रमाणीकरण, स्वास्थ्य-आईटी या समान अवसंरचना पर निर्भर प्रणाली को यह दर्ज करना होगा कि वह क्या लेती है और उसका समर्थन पर्याप्त है या नहीं—इतनी गहराई से जो उसके संचालन की महत्वपूर्णता के अनुरूप हो। “अंतरसंचालनीयता” के अस्पष्ट नारे मान्य नहीं: निर्भरता मानचित्र और अभिलेख में दिखनी चाहिए, जैसा [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) अपेक्षा करता है।
+- कोई प्रणाली चुपचाप उन संस्थाओं के भुगतान, पहचान या कर्मचारी-नियुक्ति का अवरोध-बिंदु बनते हुए अंतर-प्रणाली समीक्षा से बच नहीं सकती जो व्यवहार में बदल नहीं सकतीं।
+  - **कौन बदल नहीं सकता:** [§5.3.3 Evaluation Requirement](#533-evaluation-requirement) के प्रतिस्थापन-योग्यता कारकों के अनुसार निर्णय होगा।
+  - **यह क्यों महत्वपूर्ण है:** इस प्रकार के केंद्रीकरण का वर्णन [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) करता है। यह अपनाने वालों से इसके लिए स्तर तय करने को कहता है, जैसे वास्तविक विकल्प के बिना एक प्रदाता पर निर्भर संवेदनशील प्राणियों या प्रणालियों की संख्या, या साझा अवसंरचना के इंटरफ़ेस और पहुँच-बिंदुओं को कौन नियंत्रित करता है। समीक्षा बढ़ाने से पहले प्रमाणन अपनाने वाले की सीमा पार होने की प्रतीक्षा नहीं करता (नीचे देखें)।
+  - **प्रमाणन की कार्रवाई:** समीक्षा बढ़ाता है और [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation) के अनुसार प्रणाली-वर्ग पर पुनर्विचार करता है; जहाँ प्रणाली जीवित रहने के लिए आवश्यक समन्वय तक पहुँच नियंत्रित करती है, वहाँ **Class A** तक।
+
+यह उन्नयन [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) के अंतर्गत निर्धारित केंद्रीकरण-स्तर पार होने की प्रतीक्षा नहीं करता। अपनाने वाले द्वारा निर्धारित स्तर पार होना अतिरिक्त प्रमाण है। स्तर तय न होना या बहुत ऊँचा तय होना उन्नयन को विलंबित नहीं करता; और स्तर पार होना अपने आप में कदाचार का निष्कर्ष नहीं है।

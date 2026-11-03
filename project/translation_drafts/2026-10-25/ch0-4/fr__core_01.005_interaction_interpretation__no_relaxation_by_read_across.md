@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One Part B §15.1.1 no relaxation by read-across; source SHA-256 28f8a1ab080fef53c99916d5833ff23a58a704bf76dd7d5878b3e2847b2830d7. -->
+
+# Chapter One Part B excerpt — no relaxation by read-across
+
+## English source passage
+
+**No relaxation by read-across.** Assessing a matter as one adds duties; it never lowers one. Each part's own standard controls within its own scope and may not be loosened by importing a laxer standard from another part.
+
+## Draft translation (fr; Français)
+
+**Aucun assouplissement par renvoi d’une partie à l’autre.** Évaluer une question comme un tout ajoute des obligations ; cela n’en réduit jamais aucune. La norme propre à chaque partie s’applique dans son champ et ne peut être assouplie par l’importation d’une norme moins exigeante depuis une autre partie.

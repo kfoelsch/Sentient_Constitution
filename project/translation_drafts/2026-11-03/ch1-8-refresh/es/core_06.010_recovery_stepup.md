@@ -1,0 +1,13 @@
+# Borrador de traducción — `core_06.010_rights_part_c.md`, recuperación, sistemas autónomos y Artículo XVIII-C
+
+- **Responsabilidad por sistemas de alta autonomía:** las medidas contra un sistema siguen las reglas de infracción y bloqueo aplicables a las entidades sintientes. La infracción debe verificarse y constar en el expediente conforme al Capítulo Once; cada medida es un bloqueo diseñado y calibrado según el Capítulo Doce §§5.1–5.2. Rendir cuentas sobre un sistema no equivale a responsabilizar penalmente a una entidad sintiente: el Artículo XX-B rige las restricciones a sintientes y prohíbe quitarles la vida. Las restricciones al sistema nunca autorizan dañar a un posible sujeto sintiente.
+- **Detección oportuna de problemas:** el sistema debe detectar fallas, ralentizaciones, interrupciones parciales e infracciones de límites constitucionales con suficiente rapidez y visibilidad para cumplir el estándar de registro del Artículo XVI-A (Auditabilidad y Pruebas Observables). Esto se aplica también al proceso de recuperación, no solo a la operación normal.
+- **Autorreparación:** debilitar silenciosamente protecciones del Piso de Derechos en nombre de la «autorreparación» infringe la Constitución y se rige por el Artículo XIII-C (Prohibición de Confianza Falsa y Dependencia Engañosa) y el Artículo XXVIII (gobernanza de la Transición de Adopción).
+
+### Artículo XVIII-C — Ascenso a Regímenes de Mayor Obligación
+
+Cuando aumenten el impacto, la dependencia, la irreversibilidad o la integración con sistemas compartidos, el ascenso a obligaciones mayores debe ser transparente y sin demoras oportunistas. Avanza hacia los requisitos completos del Artículo XVII-A y CS-6.345 §7; durante el proceso rigen salvaguardas provisionales proporcionales al riesgo vigente. Debe completarse dentro del límite superior del nivel correspondiente a la clase del sistema (7 días para A, 14 para B, 30 para C, 60 para L y 90 para P), tomando la clase más crítica demostrada prima facie por quien impugna o por el foro; si el sistema no tiene clase, esta se disputa o el sistema superó su clase, rige el límite de 14 días del nivel B.
+
+### Artículo XVIII-D — Tarifa de licencia abierta
+
+Desde el final del período exclusivo y hasta, como máximo, 30 años desde la divulgación, cualquiera puede usar la invención sin permiso del titular, pagando una tarifa basada en LEQU. El titular no puede negarse, demorar ni imponer condiciones adicionales a la tarifa. La tarifa se fija en proporción al beneficio constitucional verificado que aporta la invención, medido en LEQU del Eje de Contribución conforme al Capítulo Once §7.

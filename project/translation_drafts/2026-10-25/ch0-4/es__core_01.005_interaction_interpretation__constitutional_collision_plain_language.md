@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One Part B §13 plain-language summary; source SHA-256 28f8a1ab080fef53c99916d5833ff23a58a704bf76dd7d5878b3e2847b2830d7. -->
+
+# Chapter One Part B excerpt — Constitutional Collision plain-language summary
+
+## English source passage
+
+*In plain terms: Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Nine §3.3 Time-Consistency Constraint](core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.*
+
+## Draft translation (es)
+
+*En términos sencillos: habrá colisiones constitucionales; la **Seguridad** y la **Verdad** van primero. Después, las restricciones deben ser proporcionales, necesarias, reducir el daño y ser lo más leves posible. La verdad no se oculta por comodidad ni se despoja de privacidad por conveniencia; los límites a la libertad se rigen por [§7.1 Disciplina de las limitaciones](core_01.000_values_principles.md#71-limitation-discipline). Las colisiones constitucionales sobre derechos requieren una prueba de decisión documentada, y no cuentan las métricas que falsean el cumplimiento. La optimización a corto plazo no supera la evaluación conforme al [Capítulo Nueve §3.3 Restricción de coherencia temporal](core_09.000_system_alignment_certification_evaluation.md#33-time-consistency-constraint). **§13.1** (*Principios básicos de compensación*) a **§13.3** (*Minimización de cargas evitables*) contienen las reglas de compensación, los límites de divulgación y privacidad, y el procedimiento de colisión constitucional.*

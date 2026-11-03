@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Three §3.1, standing effects for an already-certified system; source SHA-256 dafc567a1e2dc3eaa76ce02692073b4fce440bc1f6c5e66a3309409f16a658ea. -->
+
+# Chapter Three excerpt — standing effects for an already-certified system
+
+## English source
+
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Ten](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Ten](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement); apply its integration and effects under [Chapter Eleven](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
+
+## zh draft
+
+如果系统已在[系统对齐认证](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下运行——包括仍未到期的有条件认证或重新认证——则该系统功能范围内经核实的实质性不合规**必须**纳入[第十章](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement)针对**该系统**的standing测量。只有通过[已核实输入门槛](core_11.000_standing_assessment.md#verified-inputs-for-standing)的事实才能进入。依照[第十章](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement)测量standing，并依照[第十一章](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration)实施整合及其影响。重新开启、撤回或其他认证后果仍由[第九章](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)规定；这些后果不能取代该系统的standing记录。

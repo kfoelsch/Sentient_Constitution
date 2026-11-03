@@ -1,0 +1,6 @@
+# অনুবাদ-খসড়া — `core_05.035_band_accountability.md`, Attributable/Attribution Integrity-এর নতুন উল্লেখ
+
+- Attributable-এর ক্ষেত্রে, attribution capability বস্তুগতভাবে প্রয়োজন হলে ডেটার ধরন মূল্যায়নে অধ্যায় নয় §3.4 এবং System Certification Record-এর জন্য অংশ C §8 প্রযোজ্য। Accountability, Attribution Integrity, Auditability, Contestability, Due Process ও Redress and Remediation-এর সঙ্গে পড়তে হবে।
+- Attributable-এর সঙ্গে অধ্যায় এক §16.4-এর “Document at Action” নীতি এবং CS-15.305 §10 (*Inspectable Attributable Action*) পড়তে হবে—মিশ্র দলের default logging contract; Standing Record-এর বিকল্প নয়।
+- Attribution Integrity-এর সঙ্গে Attributable Action, Accountability, Auditability, Record Integrity, Transparency, Contestability, Truth (Constitutional Constraint), এবং CS-15.305 §10 পড়তে হবে। মিশ্র দলের logging contract অভ্যন্তরীণ অংশকে অবস্থাগত পরিমাপ থেকে অব্যাহতি দেয় না।
+- Attribution Integrity দাবি করে, বস্তুগত গুরুত্বপূর্ণ কাজের দায়-শৃঙ্খল স্বচ্ছ, নিরীক্ষাযোগ্য ও স্থিতিশীল থাকবে; পরোক্ষতা, delegation, সিস্টেম-জটিলতা, কারসাজি, অস্বীকার বা অস্পষ্টতার আড়ালে দায় লুকানো যাবে না। একটিমাত্র প্রযুক্তি, সব ক্ষেত্রে অপরিবর্তনীয় পরিচয়-প্রকাশ, বা proportionality, privacy ও সুরক্ষিত সীমানার অনুমতির চেয়ে কঠোর attribution বাধ্যতামূলক নয়।

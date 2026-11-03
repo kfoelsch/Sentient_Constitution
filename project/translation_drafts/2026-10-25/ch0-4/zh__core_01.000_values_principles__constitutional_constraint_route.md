@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One routing entry; source SHA-256 6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17. -->
+
+# Chapter One excerpt — 宪法约束
+
+## English source
+
+- [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) · [O](core_05.045_band_integrative.md#constitutional-constraint) · [M](core_05.045_band_integrative.md#constitutional-constraint-a) · [A](core_05.045_band_integrative.md#constitutional-constraint-a) · [C](core_05.045_band_integrative.md#constitutional-constraint-c)
+
+## zh draft
+
+- [宪法约束](core_05.045_band_integrative.md#constitutional-constraint) · [O](core_05.045_band_integrative.md#constitutional-constraint) · [M](core_05.045_band_integrative.md#constitutional-constraint-a) · [A](core_05.045_band_integrative.md#constitutional-constraint-a) · [C](core_05.045_band_integrative.md#constitutional-constraint-c)

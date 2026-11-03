@@ -28,6 +28,8 @@ Earlier completed session detail is preserved in [MEMLOG_SNAPSHOT_2026-10-21.md]
 
 **Translation scheduling (steward planning decision, 2026-10-20):** Prepare translations chapter by chapter once the steward identifies settled English text and its revision, followed by a final synchronization and fidelity review. Do not treat any chapter as settled without that identification. The [announcement plan](plans/announcement_readiness_2026-10-20.md) tracks readiness. Historical pause details and known gaps are in [MEMLOG_SNAPSHOT_2026-10-20.md](../archive/MEMLOG_SNAPSHOT_2026-10-20.md); PR #109's updates did not certify translations.
 
+**Translation completion (custodian instruction, 2026-11-03):** For Chapters Nine and Ten, continue draft translation across all 19 supported languages until complete. Choose chunk sizes that support reliable work; do not stop because the total is too large for one turn. Use subagents or direct work as needed, and keep drafts in `project/translation_drafts/` until separately authorized for synchronization.
+
 **Pages build:** `_pages_site/` is a local preview only; CI rebuilds it on each deploy. `make pages-deploy-gate` runs in `pages.yml` before every build; `.github/workflows/checks.yml` runs `make regression` on every push and PR. Do not list "Regenerated `_pages_site`" in editing passes. **Open:** switch **Settings → Pages → Source** to *GitHub Actions* before the announcement.
 
 **Reader entry pages:** **README** is the one public door for all readers (timed reading paths at `README.md#reading-paths`); **START_HERE** is the start page for would-be adopters and operators; [guides/CONCEPTUAL_OVERVIEW.md](../guides/CONCEPTUAL_OVERVIEW.md) is the second-step big-picture map.

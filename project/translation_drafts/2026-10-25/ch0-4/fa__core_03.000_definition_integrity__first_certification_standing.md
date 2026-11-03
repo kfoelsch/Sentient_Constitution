@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Three §3.2, first-certification standing distinction; source SHA-256 dafc567a1e2dc3eaa76ce02692073b4fce440bc1f6c5e66a3309409f16a658ea. -->
+
+# Chapter Three excerpt — first certification and standing inputs
+
+## English source
+
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. Until certification is granted, those certification records supply no standing input under [Chapter Nine §10 Relationship to Standing](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing), which traces standing input only from certified systems. Once certification is granted, including conditional certification, [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) applies. This chapter does not require the same standing records that an already-certified running system must receive.
+
+## fa draft
+
+اگر سامانه هنوز در [گواهی هم‌راستایی سامانه](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) **نخست** خود باشد و هنوز گواهی نگرفته باشد — از جمله وقتی گواهی به تعویق افتاده یا رد شده است — عدم‌انطباقِ راستی‌آزمایی‌شده در درجهٔ نخست **نتیجهٔ گواهی** را طبق فصل نهم تعیین می‌کند. نتیجه می‌تواند گواهی مشروط، گواهیِ به‌تعویق‌افتاده، عدم صدور گواهی یا نتیجه‌ای مشابه باشد. تا زمان صدور گواهی، آن سوابق هیچ ورودیِ وضعیت ایجاد نمی‌کنند؛ مطابق [فصل نهم §10 رابطه با وضعیت](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)، ورودی وضعیت فقط از سامانه‌های گواهی‌شده گرفته می‌شود. پس از صدور گواهی، از جمله گواهی مشروط، [§3.1 آثار وضعیت برای سامانه‌های ازپیش‌گواهی‌شده](#31-standing-effects-for-already-certified-systems) اعمال می‌شود. این فصل برای سامانهٔ در حال کار که هنوز گواهی نشده است همان سوابق وضعیتی را الزام نمی‌کند که برای سامانهٔ در حال کارِ گواهی‌شده لازم است.

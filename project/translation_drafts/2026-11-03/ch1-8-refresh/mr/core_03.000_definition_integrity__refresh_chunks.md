@@ -1,0 +1,24 @@
+# Chapter Three refresh chunks — mr
+
+**Status:** AI-assisted, unreviewed, non-binding draft. This section-aligned update supplements the existing full translation. Do not synchronize into `translations/` until separately authorized.
+**Source:** `core_03.000_definition_integrity.md`, §§3.1–3.2, current English text dated 2026-11-03.
+
+## §3.1 Standing effects for already-certified systems
+
+**Current English passage:**
+
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model); apply its integration and effects under [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
+
+**mr draft:**
+
+एखादी प्रणाली [प्रणाली-संरेखन प्रमाणन](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) अंतर्गत आधीपासून कार्यरत असल्यास—यात प्रमाणन, सशर्त प्रमाणन किंवा मुदत संपलेले नसलेले पुनर्प्रमाणन समाविष्ट आहे—त्या प्रणालीच्या कार्यात्मक व्याप्तीतील महत्त्वाचे सत्यापित गैर-अनुपालन **अवश्य** **त्या प्रणालीच्या** [अकराव्या अध्यायातील](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model) स्थिती-मापनात नोंदवले पाहिजे. [सत्यापित-इनपुट द्वार](core_11.000_standing_assessment.md#verified-inputs-for-standing) पार करणारी तथ्येच समाविष्ट होऊ शकतात. स्थितीचे मापन [अकराव्या अध्यायानुसार](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model) करा; एकीकरण आणि परिणाम [बाराव्या अध्यायानुसार](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) लागू करा. पुनःउघडणे, मागे घेणे किंवा प्रमाणनाचे इतर परिणाम [नवव्या अध्यायाच्या](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) अधीन राहतात. ते त्या प्रणालीच्या स्थिती-अभिलेखांची जागा घेत नाहीत.
+
+## §3.2 Standing effects at first certification
+
+**Current English passage:**
+
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance first decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. The outcome does not stop standing input: those System Certification Records supply it under [Chapter Nine §11.2 Every certification outcome](core_09.010_system_alignment_certification_record_recertification.md#112-every-certification-outcome), on the same terms as [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) and only through the verified-input gate. A certification finding that a system is not yet aligned is not a violation by itself. Where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely.
+
+**mr draft:**
+
+प्रणाली तिच्या **पहिल्या** [प्रणाली-संरेखन प्रमाणन](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) प्रक्रियेत असून अद्याप प्रमाणित नसेल—प्रमाणन पुढे ढकलले किंवा नाकारले गेले असले तरी—सत्यापित गैर-अनुपालन प्रथम नवव्या अध्यायानुसार **प्रमाणनाचा निकाल** ठरवते. तो निकाल सशर्त प्रमाणन, पुढे ढकललेले प्रमाणन, अप्रमाणन किंवा तत्सम असू शकतो. त्या निकालामुळे स्थिती-इनपुट थांबत नाही: [नववा अध्याय §11.2 प्रत्येक प्रमाणनाचा निकाल](core_09.010_system_alignment_certification_record_recertification.md#112-every-certification-outcome) अंतर्गत प्रणाली प्रमाणन अभिलेख तो इनपुट देतात; [§3.1 आधीच प्रमाणित प्रणालींसाठी स्थिती-परिणाम](#31-standing-effects-for-already-certified-systems) याच अटी लागू होतात आणि इनपुट केवळ सत्यापित-इनपुट द्वारातूनच येतो. प्रणाली अद्याप संरेखित नाही असा प्रमाणन निष्कर्ष स्वतःहून उल्लंघन ठरत नाही. चालक संरेखनासाठी सातत्याने प्रामाणिक प्रयत्न करत असेल आणि निष्काळजी नसेल, तर उल्लंघनाचा निष्कर्ष येण्याची शक्यता कमी असते.

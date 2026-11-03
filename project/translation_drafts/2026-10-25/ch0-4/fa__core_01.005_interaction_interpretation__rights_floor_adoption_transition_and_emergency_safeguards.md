@@ -1,0 +1,13 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One Part B §13.1 Rights-Floor and temporary-restriction safeguards; source SHA-256 28f8a1ab080fef53c99916d5833ff23a58a704bf76dd7d5878b3e2847b2830d7. -->
+
+# Chapter One Part B excerpt — Rights-Floor and temporary-restriction safeguards
+
+## English source passage
+
+- No constitutional process, measure, Adoption Transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections under [Article VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle), minimum subsistence access, or core challenge, review, and appeal rights.
+- Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency rules in [Chapter Thirteen §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, Adoption Transition, standing, amendment, contract, or implementation labels to bypass it.
+
+## Draft translation (fa)
+
+- هیچ فرایند قانون اساسی، اقدام، گذار پذیرش، اصلاحیه، پیامد مربوط به وضعیت، اقدام اضطراری یا نتیجه مرتبط با عدالت نمی‌تواند **حداقل‌های کف حقوق** در حمایت‌های پایه از کرامت را طبق [مادهٔ VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*کرامت و جایگاه اخلاقی برابر*) و [اصل منع فرایند تحقیرآمیز](#anti-degrading-process-principle)، حداقل دسترسی به معیشت، یا حقوق اساسی اعتراض، بازبینی و تجدیدنظر را برای همیشه از میان ببرد یا از آن‌ها صرف‌نظر کند.
+- محدودیت موقت حقوق مشخص فقط هنگامی مجاز است که [اصل محدودیتِ کمترین‌محدودکننده، زمان‌مند و قابل‌بازبینی](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) و قواعد اضطراری [فصل سیزدهم §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*اقدامات اضطراری و بار ادامهٔ آن*) را رعایت کند؛ یعنی هر محدودیتی باید موجه، حداقلی، مستند، محدود به زمان و مستقلانه قابل‌بازبینی باشد. مواد خاص می‌توانند تضمین‌های قوی‌تری بیفزایند، اما نمی‌توانند این اصل را محدود کنند یا با برچسب‌های سهولت، کارایی، طبقه‌بندی، اضطرار، گذار پذیرش، وضعیت، اصلاحیه، قرارداد یا اجرا از آن بگریزند.

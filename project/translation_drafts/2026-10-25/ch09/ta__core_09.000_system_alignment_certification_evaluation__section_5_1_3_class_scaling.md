@@ -1,0 +1,21 @@
+<!-- AI-assisted translation draft; unreviewed. §5.1.3 system-class scaling and escalation, source lines 967–971; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §5.1.3 system-class scaling and escalation (ta)
+
+## English source (lines 967–971)
+
+A system's class decides how deeply its environmental harm must be traced and how much comparison is required. It is never a way to avoid looking at significant harm: [Chapter One §9.1.1 Preserve, Expand, and What Does Not Count](core_01.000_values_principles.md#911-preserve-expand-and-what-does-not-count) gives no credit for gains that move harm onto others or the planet.
+
+- A system must not be moved down to a lower system class while its water extraction, pollution discharge, energy use, or similar burdens are still only partly counted — especially where those burdens affect delivery of something sentients need to survive, such as safe water. Counting only part of the burden is the selective reporting that [Chapter One §5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) rules out.
+- If a system grows (more load, or more of the hosting concentrated in one place) and its environmental harm rises significantly, the review must grow with it, and the growth is a reassessment trigger under [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation). That can mean going all the way up to **Class A** depth when the system's survival-essential delivery and the burdens of its sources are both involved.
+- If a system becomes a choke point that sentients depend on for survival-essential coordination, it cannot get by with a token footprint file just because its operator calls it "non-critical." That is the dependency that [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) looks for, and [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation) sets the step-up.
+
+## Translation draft
+
+##### 5.1.3 System Class Scaling and Escalation
+
+அமைப்பின் வகை, அதன் சுற்றுச்சூழல் சேதத்தை எவ்வளவு ஆழமாகப் பின்தொடர வேண்டும் மற்றும் எவ்வளவு ஒப்பீடு தேவை என்பதைத் தீர்மானிக்கிறது. முக்கியமான சேதத்தைப் பார்க்காமல் தவிர்க்க வகையை ஒருபோதும் பயன்படுத்தக் கூடாது: [Chapter One §9.1.1 Preserve, Expand, and What Does Not Count] சேதத்தை பிறர்மீது அல்லது பூமிமீது மாற்றும் ஆதாயங்களுக்கு மதிப்பளிக்காது. ([Chapter One §9.1.1 Preserve, Expand, and What Does Not Count](core_01.000_values_principles.md#911-preserve-expand-and-what-does-not-count))
+
+- நீர் எடுப்பு, மாசு வெளியேற்றம், ஆற்றல் பயன்பாடு அல்லது இதுபோன்ற சுமைகள் இன்னும் பகுதியளவிலேயே கணக்கிடப்படும்போது அமைப்பைத் தாழ்ந்த வகைக்கு மாற்றக் கூடாது — குறிப்பாக பாதுகாப்பான நீர் போன்ற உயிர்வாழத் தேவையான வழங்கலை அவை பாதிக்கும்போது. சுமையின் ஒரு பகுதியை மட்டும் கணக்கிடுவது [Chapter One §5 Truth] தடைசெய்யும் தேர்ந்தெடுத்த அறிக்கையிடலாகும். ([Chapter One §5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint))
+- அமைப்பு வளர்ந்து (சுமை அதிகரித்தாலோ ஒரே இடத்தில் வழங்கல் மேலும் குவிந்தாலோ) அதன் சுற்றுச்சூழல் சேதம் கணிசமாக உயர்ந்தால், மதிப்பாய்வும் அதனுடன் விரிவடைய வேண்டும்; அந்த வளர்ச்சி [§2.2 How system class scales every evaluation] அடிப்படையில் மறுமதிப்பீட்டுக்கான தூண்டுதலாகும். உயிர்வாழ்வுக்குத் தேவையான வழங்கலும் அதன் மூலங்களின் சுமைகளும் இரண்டும் தொடர்புடையதாக இருந்தால் **Class A** ஆழம் வரை உயர்த்த வேண்டியிருக்கலாம். ([§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation))
+- உயிர்வாழ்வுக்கு இன்றியமையாத ஒருங்கிணைப்புக்காக உணர்திறன் கொண்ட உயிர்கள் சார்ந்திருக்கும் இடையூறு-மையமாக அமைப்பு மாறினால், இயக்குநர் அதை “முக்கியமற்றது” என்று அழைப்பதால் பெயரளவிலான தடப் பதிவு மட்டும் போதாது. [Chapter One §11.4 Resource and Dependency Concentration] தேடும் சார்பு இதுவே; [§2.2 How system class scales every evaluation] உயர்வு அளவை நிர்ணயிக்கிறது. ([Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable); [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation))

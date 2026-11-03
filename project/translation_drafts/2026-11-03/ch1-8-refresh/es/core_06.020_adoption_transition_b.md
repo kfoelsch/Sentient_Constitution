@@ -1,0 +1,10 @@
+# Borrador de traducción — `core_06.020_rights_part_e.md`, Artículo XXVIII-B
+
+### Límites de la autoridad de transición y renovación
+
+*La autoridad temporal debe ser verdaderamente temporal. Una Transición de Adopción que progresa lo demuestra: los poderes provisionales disminuyen fase a fase mientras los foros constitucionales, los procesos de derechos y la gobernanza ordinaria mejoran y asumen más funciones, y la brecha medida respecto de los Pisos de Derechos completos se reduce según el calendario. Para extender la autoridad temporal hacen falta razones y datos reales; cuanto más dure, mayor será la exigencia.*
+
+- **Límites de autoridad:** toda autoridad provisional aplica el Principio de Restricción Menos Limitativa, Limitada en el Tiempo y Revisable; debe tener alcance explícito, fecha de expiración y revisión independiente.
+- **Medición del progreso:** evaluar la salud de la Transición de Adopción mediante la reducción documentada de autoridad provisional; el funcionamiento creciente de instituciones y procesos constitucionales (foros, vías de condición e impugnación, enmienda y supervisión); y la preparación verificada para hacer cumplir los derechos y lograr el Piso de Derechos conforme al Artículo XXVIII-A. El alcance provisional estancado o creciente sin maduración institucional correspondiente, o una brecha de logro plana, creciente o no medida, alerta contra la renovación.
+- **Continuación y renovación:** continuar más allá de los períodos planificados requiere justificación documentada y renovación. Esta no puede basarse en conveniencia administrativa, demoras autogeneradas, el mero hecho de que la transición esté incompleta, autoridad provisional estancada o creciente sin progreso documentado hacia su reducción y el funcionamiento constitucional, ni una brecha plana, creciente o no medida sin un plan documentado y financiado para cerrarla.
+- La carga de justificación aumenta con la duración y el impacto sobre los derechos. CI-6.275 y su §4 regulan la frecuencia de renovación y los datos del registro de logro y de reducción de autoridad provisional que debe acompañar cada solicitud.

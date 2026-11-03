@@ -1,0 +1,24 @@
+# Chapter Three refresh chunks — te
+
+**Status:** AI-assisted, unreviewed, non-binding draft. This section-aligned update supplements the existing full translation. Do not synchronize into `translations/` until separately authorized.
+**Source:** `core_03.000_definition_integrity.md`, §§3.1–3.2, current English text dated 2026-11-03.
+
+## §3.1 Standing effects for already-certified systems
+
+**Current English passage:**
+
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model); apply its integration and effects under [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
+
+**te draft:**
+
+ఒక వ్యవస్థ ఇప్పటికే [వ్యవస్థ సమలేఖన ధృవీకరణ](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) కింద నడుస్తుంటే—ధృవీకరణ, షరతులతో కూడిన ధృవీకరణ లేదా గడువు ముగియని పునర్ధృవీకరణ సహా—ఆ వ్యవస్థ కార్యాచరణ పరిధిలో నిర్ధారించిన ముఖ్యమైన అననుసరణ, **ఆ వ్యవస్థకు** సంబంధించిన [అధ్యాయం పదకొండు](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model) స్థితి-కొలతలో **తప్పనిసరిగా** చేర్చాలి. [నిర్ధారిత-ఇన్‌పుట్ గేట్](core_11.000_standing_assessment.md#verified-inputs-for-standing) దాటిన వాస్తవాలే చేరవచ్చు. స్థితిని [అధ్యాయం పదకొండు](core_11.000_standing_assessment.md#chapter-eleven-compliance-violation-and-standing-model) ప్రకారం కొలవాలి; సమీకరణం మరియు ప్రభావాలను [అధ్యాయం పన్నెండు](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) ప్రకారం అమలు చేయాలి. తిరిగి తెరవడం, ఉపసంహరణ లేదా ఇతర ధృవీకరణ పరిణామాలు [అధ్యాయం తొమ్మిది](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) పరిధిలోనే ఉంటాయి. అవి ఆ వ్యవస్థ స్థితి రికార్డులకు బదులుకావు.
+
+## §3.2 Standing effects at first certification
+
+**Current English passage:**
+
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance first decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. The outcome does not stop standing input: those System Certification Records supply it under [Chapter Nine §11.2 Every certification outcome](core_09.010_system_alignment_certification_record_recertification.md#112-every-certification-outcome), on the same terms as [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) and only through the verified-input gate. A certification finding that a system is not yet aligned is not a violation by itself. Where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely.
+
+**te draft:**
+
+వ్యవస్థ తన **మొదటి** [వ్యవస్థ సమలేఖన ధృవీకరణ](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ప్రక్రియలో ఉండి ఇంకా ధృవీకరణ పొందకపోతే—ధృవీకరణ వాయిదా పడినా లేదా తిరస్కరించబడినా—నిర్ధారిత అననుసరణ ముందుగా అధ్యాయం తొమ్మిది ప్రకారం **ధృవీకరణ ఫలితాన్ని** నిర్ణయిస్తుంది. ఆ ఫలితం షరతులతో కూడిన ధృవీకరణ, వాయిదా వేసిన ధృవీకరణ, ధృవీకరణ నిరాకరణ లేదా పోలిన ఫలితం కావచ్చు. ఆ ఫలితం స్థితి ఇన్‌పుట్‌ను ఆపదు: [అధ్యాయం తొమ్మిది §11.2 ప్రతి ధృవీకరణ ఫలితం](core_09.010_system_alignment_certification_record_recertification.md#112-every-certification-outcome) ప్రకారం వ్యవస్థ ధృవీకరణ రికార్డులు ఆ ఇన్‌పుట్‌ను అందిస్తాయి; [§3.1 ఇప్పటికే ధృవీకరించిన వ్యవస్థల స్థితి ప్రభావాలు](#31-standing-effects-for-already-certified-systems) వర్తించే అదే నిబంధనలతో, నిర్ధారిత-ఇన్‌పుట్ గేట్ ద్వారానే. వ్యవస్థ ఇంకా సమలేఖనం కాలేదనే ధృవీకరణ నిర్ధారణ ఒక్కటే ఉల్లంఘన కాదు. నిర్వాహకుడు సమలేఖనం కోసం నిరంతరంగా నిజాయితీగల ప్రయత్నం చేస్తూ నిర్లక్ష్యంగా లేకపోతే, ఉల్లంఘన నిర్ధారణ సంభవించే అవకాశం తక్కువ.

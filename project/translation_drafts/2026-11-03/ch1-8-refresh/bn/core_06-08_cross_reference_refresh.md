@@ -1,0 +1,5 @@
+# অনুবাদ খসড়া — আন্তঃঅধ্যায় রেফারেন্স হালনাগাদ, `core_06.000`–`core_08.000`
+
+অধ্যায় ছয়–আটের এই খসড়াগুলিতে বর্তমান অধ্যায়-সংখ্যা অনুসারে উল্লেখ বদলাতে হবে: compliance/violation/standing model-এর উল্লেখ Chapter Ten থেকে Chapter Eleven; standing/integration model Chapter Eleven থেকে Chapter Twelve; anti-constitutional conduct Chapter Twelve থেকে Chapter Thirteen; এবং forum procedure Chapter Thirteen থেকে Chapter Fourteen। জরুরি পর্যালোচনা ও সময়সীমার নির্দিষ্ট উল্লেখ Chapter Fourteen §6-এ নির্দেশ করবে।
+
+Article XVIII-C-তে “উচ্চতর দায়ে transition” বদলে “উচ্চতর দায়ে step-up” ব্যবহার করুন; শ্রেণি-অনুযায়ী একই সময়সীমার মধ্যে step-up সম্পন্ন হবে, আর শ্রেণি অনির্ধারিত, বিতর্কিত বা অতিক্রান্ত হলে Tier B সময়সীমা প্রযোজ্য। Articles XXVIII-A–D-তে “Adoption Transition” শব্দটি ধারাবাহিকভাবে ব্যবহার করুন। Constitutional Tetrad-এর ক্ষেত্রে প্রতিটি উপাদানের বাধ্যবাধকতা বোঝাতে “checks” নয়, “duties”। হালনাগাদ উৎসে যেখানে স্পষ্ট, সেখানে “Rights-Floor breach” নয়, “Rights-Floor violation” লিখুন। লিংক ও heading fragment-এ উৎস ফাইলের বর্তমান গন্তব্য বজায় রাখুন।

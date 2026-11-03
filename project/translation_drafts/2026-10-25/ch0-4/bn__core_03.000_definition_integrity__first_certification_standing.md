@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Three §3.2, first-certification standing distinction; source SHA-256 dafc567a1e2dc3eaa76ce02692073b4fce440bc1f6c5e66a3309409f16a658ea. -->
+
+# Chapter Three excerpt — first certification and standing inputs
+
+## English source
+
+If the system is still in its **first** [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) and has not yet been certified — including where certification is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Nine. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. Until certification is granted, those certification records supply no standing input under [Chapter Nine §10 Relationship to Standing](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing), which traces standing input only from certified systems. Once certification is granted, including conditional certification, [§3.1 Standing Effects for Already-Certified Systems](#31-standing-effects-for-already-certified-systems) applies. This chapter does not require the same standing records that an already-certified running system must receive.
+
+## bn draft
+
+ব্যবস্থাটি যদি তার **প্রথম** [সিস্টেম-সামঞ্জস্য প্রত্যয়ন](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) পর্যায়ে থাকে এবং এখনও প্রত্যয়িত না হয়—প্রত্যয়ন স্থগিত বা প্রত্যাখ্যাত হলেও—তবে যাচাইকৃত অসঙ্গতিই প্রধানত অধ্যায় নয়ের অধীনে **প্রত্যয়নের ফল** নির্ধারণ করে। ফল হতে পারে শর্তসাপেক্ষ প্রত্যয়ন, স্থগিত প্রত্যয়ন, প্রত্যয়ন না দেওয়া, বা অনুরূপ সিদ্ধান্ত। প্রত্যয়ন মঞ্জুর না হওয়া পর্যন্ত সেই প্রত্যয়ন-রেকর্ডগুলো [অধ্যায় নয় §10 স্ট্যান্ডিংয়ের সঙ্গে সম্পর্ক](core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing) অনুযায়ী স্ট্যান্ডিংয়ের কোনো ইনপুট দেয় না; ওই বিধান কেবল প্রত্যয়িত সিস্টেম থেকে স্ট্যান্ডিং-ইনপুট গ্রহণ করে। শর্তসাপেক্ষ প্রত্যয়নসহ প্রত্যয়ন মঞ্জুর হলে [§3.1 ইতিমধ্যে-প্রত্যয়িত সিস্টেমের স্ট্যান্ডিং-প্রভাব](#31-standing-effects-for-already-certified-systems) প্রযোজ্য হয়। এই অধ্যায় এখনও প্রত্যয়িত নয় এমন চলমান সিস্টেমকে ইতিমধ্যে প্রত্যয়িত চলমান সিস্টেমের সমান স্ট্যান্ডিং-রেকর্ড দিতে বলে না।

@@ -1,0 +1,13 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One Part B §13.1 Rights-Floor and temporary-restriction safeguards; source SHA-256 28f8a1ab080fef53c99916d5833ff23a58a704bf76dd7d5878b3e2847b2830d7. -->
+
+# Chapter One Part B excerpt — Rights-Floor and temporary-restriction safeguards
+
+## English source passage
+
+- No constitutional process, measure, Adoption Transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections under [Article VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle), minimum subsistence access, or core challenge, review, and appeal rights.
+- Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency rules in [Chapter Thirteen §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, Adoption Transition, standing, amendment, contract, or implementation labels to bypass it.
+
+## Draft translation (ar)
+
+- لا يجوز لأي عملية دستورية أو تدبير أو انتقال تبنٍّ أو تعديل أو أثر متعلق بالصفة أو إجراء طارئ أو نتيجة متصلة بالعدالة أن يُلغي نهائيًا أو يتنازل عن **الحدود الدنيا لأرضية الحقوق** لحمايات الكرامة الأساسية بموجب [المادة VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*الكرامة والمكانة الأخلاقية المتساوية*) و[مبدأ منع العملية المهينة](#anti-degrading-process-principle)، أو الحد الأدنى من سبل العيش، أو حقوق الطعن والمراجعة والاستئناف الأساسية.
+- لا يُسمح بتقييد مؤقت لحقوق محددة إلا إذا استوفى [مبدأ القيد الأقل تقييدًا والمحدد زمنيًا والقابل للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) وقواعد الطوارئ في [الفصل الثالث عشر §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (*تدابير الطوارئ وعبء استمرارها*)؛ أي يجب تبرير كل قيد، وأن يكون في الحد الأدنى، وموثقًا، ومحدود المدة، وخاضعًا لمراجعة مستقلة. يجوز للمواد المحددة إضافة ضمانات أقوى، لكن لا يجوز لها تضييق هذا المبدأ أو استخدام تسميات الملاءمة أو الكفاءة أو التصنيف أو الطوارئ أو انتقال التبني أو الصفة أو التعديل أو العقد أو التنفيذ للالتفاف عليه.

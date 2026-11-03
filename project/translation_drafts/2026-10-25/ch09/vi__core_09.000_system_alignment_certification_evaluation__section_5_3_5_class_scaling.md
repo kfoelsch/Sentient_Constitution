@@ -1,0 +1,31 @@
+<!-- AI-assisted translation draft; unreviewed. §5.3.5 system-class scaling and escalation, source lines 1220–1229; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §5.3.5 system-class scaling and escalation (vi)
+
+## English source (lines 1220–1229)
+
+A system's class decides how deep the review goes and how closely adequacy is judged. It never makes a shared extraction too small to count, and extraction split across entities, records, or periods is judged as one under [Chapter One §15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle). Whenever the materiality trigger is met:
+
+- A system drawing on a shared foundation that sentients need to survive — such as a shared watershed or the backbone of a regional power grid — must put the strongest dependency-map and return-flow proof on the record. These are the shared systems whose lasting capacity [Chapter One §9 Shared-System Capacity](core_01.000_values_principles.md#9-shared-system-capacity) protects, and **Article III-A** (*Survival*) is why the proof is strongest here.
+- A system relying on shared authentication, health-IT, or similar infrastructure must document what it takes and whether its support is adequate, at a depth that matches how critical its operations are. Vague slogans about "interoperability" do not count: the reliance must be visible in the maps and records, as [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) requires.
+- A system must not dodge cross-system review while quietly becoming the payments, identity, or staffing choke point for institutions that cannot realistically switch.
+  - **Who cannot switch:** judged by the replaceability factors in [§5.3.3 Evaluation Requirement](#533-evaluation-requirement).
+  - **Why it matters:** this is the kind of concentration that [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable) describes. It tells adopters to set levels for it, such as how many sentients or systems rely on one provider with no real alternative, or who controls the interfaces and access points to shared infrastructure. Certification does not wait for an adopter's level to be crossed before it steps up its review (see below).
+  - **What certification does:** it steps up its review and reconsiders the system's class under [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation), up to **Class A** where the system controls access to survival-essential coordination.
+
+The step-up does not wait for a concentration level set under [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable). A level that an adopter has set and the system has crossed is further evidence. A level that is unset, or set too high, does not delay the step-up, and crossing a level is not by itself a finding of misconduct.
+
+## Translation draft
+
+##### 5.3.5 Mở rộng và nâng hạng hệ thống
+
+Hạng hệ thống quyết định độ sâu của việc rà soát và mức độ chặt chẽ khi đánh giá tính đầy đủ. Hạng không khiến việc khai thác dùng chung trở nên quá nhỏ để tính; hoạt động khai thác bị chia qua nhiều thực thể, hồ sơ hoặc giai đoạn được đánh giá như một theo [Chapter One §15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle). Bất cứ khi nào ngưỡng trọng yếu được đáp ứng:
+
+- Hệ thống dựa vào nền tảng dùng chung mà các chủ thể hữu tri cần để sinh tồn—chẳng hạn lưu vực chung hoặc trục chính của lưới điện khu vực—phải đưa vào hồ sơ bằng chứng mạnh nhất về bản đồ phụ thuộc và dòng hoàn trả. Đây là những hệ thống chung có năng lực lâu dài được [Chapter One §9 Shared-System Capacity](core_01.000_values_principles.md#9-shared-system-capacity) bảo vệ, và **Article III-A** (*Survival*) là lý do cần bằng chứng mạnh nhất ở đây.
+- Hệ thống dựa vào xác thực dùng chung, CNTT y tế hoặc hạ tầng tương tự phải ghi lại những gì mình lấy và mức hỗ trợ có đầy đủ không, với độ chi tiết tương xứng mức độ trọng yếu của hoạt động. Khẩu hiệu mơ hồ về “khả năng tương tác” không được tính: sự phụ thuộc phải thể hiện trên bản đồ và hồ sơ như [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) yêu cầu.
+- Hệ thống không được né rà soát liên hệ thống trong khi âm thầm trở thành nút thắt về thanh toán, danh tính hoặc nhân sự của các tổ chức không thể thực tế chuyển đổi.
+  - **Ai không thể chuyển đổi:** đánh giá theo các yếu tố khả năng thay thế trong [§5.3.3 Evaluation Requirement](#533-evaluation-requirement).
+  - **Vì sao điều đó quan trọng:** đây là dạng tập trung quyền lực được mô tả tại [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable). Quy định này yêu cầu bên áp dụng đặt ngưỡng, chẳng hạn số chủ thể hữu tri hoặc hệ thống phụ thuộc vào một nhà cung cấp không có phương án thay thế thực tế, hoặc ai kiểm soát giao diện và điểm truy cập hạ tầng dùng chung. Chứng nhận không chờ vượt ngưỡng do bên áp dụng đặt ra mới tăng cường rà soát (xem bên dưới).
+  - **Chứng nhận sẽ làm gì:** tăng cường rà soát và xem xét lại hạng hệ thống theo [§2.2 How system class scales every evaluation](#22-how-system-class-scales-every-evaluation), lên đến **Class A** khi hệ thống kiểm soát quyền tiếp cận hoạt động điều phối thiết yếu cho sự sống.
+
+Việc tăng cường không chờ vượt ngưỡng tập trung theo [Chapter One §11.4 Resource and Dependency Concentration](core_01.000_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable). Vượt ngưỡng do bên áp dụng đặt ra là bằng chứng bổ sung. Không đặt ngưỡng hoặc đặt quá cao không trì hoãn việc tăng cường; và chỉ riêng việc vượt ngưỡng không đồng nghĩa với kết luận có hành vi sai trái.

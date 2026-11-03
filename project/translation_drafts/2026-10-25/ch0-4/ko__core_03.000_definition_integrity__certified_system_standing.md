@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter Three §3.1, standing effects for an already-certified system; source SHA-256 dafc567a1e2dc3eaa76ce02692073b4fce440bc1f6c5e66a3309409f16a658ea. -->
+
+# Chapter Three excerpt — standing effects for an already-certified system
+
+## English source
+
+If a system is already running under a [system alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Ten](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) may enter. Measure standing under [Chapter Ten](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement); apply its integration and effects under [Chapter Eleven](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). They do not replace that system's standing records.
+
+## ko draft
+
+시스템이 이미 [시스템 정렬 인증](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)을 받고 운영 중이라면—유효기간이 남은 조건부 인증이나 재인증도 포함하여—해당 시스템의 기능적 범위에서 확인된 중대한 비준수는 **그 시스템**에 대한 [제10장](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement)의 스탠딩 측정에 **반드시** 포함해야 한다. [검증된 입력 관문](core_11.000_standing_assessment.md#verified-inputs-for-standing)을 통과한 사실만 입력할 수 있다. 스탠딩은 [제10장](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement)에 따라 측정하고, 그 통합 및 효과는 [제11장](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration)에 따라 적용한다. 재개, 철회 또는 그 밖의 인증 결과는 [제9장](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)에 따른다. 그러한 결과가 해당 시스템의 스탠딩 기록을 대체하지는 않는다.

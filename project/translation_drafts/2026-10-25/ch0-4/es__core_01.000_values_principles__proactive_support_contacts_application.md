@@ -1,0 +1,17 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One §3.1.5 contact, data, application, and trust safeguards; source SHA-256 6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17. -->
+
+# Chapter One excerpt — contact, data, and application safeguards
+
+## English source passage
+
+These limits apply:
+- **Connecting is not treating:** The system's duty is to try to reach the sentient and hand them to help, such as a contact they chose, a support or care service, or the route under **Article III-B** (*Bodily-Maintenance and Healthcare Access*). Anything done without the sentient's consent stays under **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*).
+- **Contacts and data:** A trusted contact is used only if the sentient chose it in advance, and only the information needed to get a response is shared. Outreach uses contact details the system already holds for that purpose and is not a reason to collect more data.
+
+This builds on [§3.1.1 Access and Opportunity](#311-access-and-opportunity) and [§3.1.3 Fair Treatment](#313-fair-treatment), and it applies [§16 Pillar 2 — Proactive stewardship](core_01.010_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship) to the sentients a system affects. For developing sentients it works with [Graduated Capability](core_05.055_band_participation.md#graduated-capability), which judges growth by what a sentient can actually do.
+
+These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
+
+## Draft translation (es)
+
+Se aplican estos límites: **Conectar con ayuda no es tratar:** el sistema intenta localizar al ser sintiente y conectarlo con ayuda elegida, un servicio de apoyo o la vía del **Artículo III-B** (*Mantenimiento corporal y acceso a atención sanitaria*); lo que se haga sin consentimiento queda sujeto al **Artículo VII-C** (*Suelo de crisis de salud e intervención involuntaria*). **Contactos y datos:** solo se usa un contacto de confianza elegido de antemano y se comparte lo necesario para recibir respuesta. Se usan los datos ya disponibles para ese fin, sin justificar más recopilación. Esto se apoya en [§3.1.1 Acceso y oportunidad](#311-access-and-opportunity) y [§3.1.3 Trato justo](#313-fair-treatment), y aplica [§16 Pilar 2 — Custodia proactiva](core_01.010_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship). Para seres en desarrollo se coordina con [Capacidad gradual](core_05.055_band_participation.md#graduated-capability), que evalúa lo que realmente pueden hacer. Las cinco partes apoyan [§6 Confianza](#6-trust-and-trustworthiness-coordination-integrity) cuando se depende del sistema, se aceptan sus decisiones o se coordinan sus promesas.

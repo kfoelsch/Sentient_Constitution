@@ -1,0 +1,3 @@
+# Borrador de traducción — `core_07.000_charters.md`, §2, panorama de límites
+
+El Artículo XI-E permite cinco límites acotados: barrera de condición verificada para una persona nombrada; espera breve sobre hechos verificados concretos; bloqueo de la Parte Operativa; licencia o autorización antes de un acto nombrado de alto riesgo; y espera de una Institución hasta su recertificación antes de ejercer nueva autoridad material. El quinto límite no es una condición para formar una Parte Operativa. Ninguno impide formar una Parte Operativa distinta ni continuar operaciones existentes fuera de la autoridad bloqueada.

@@ -1,0 +1,23 @@
+<!-- AI-assisted translation draft; unreviewed. §5.6.1 evaluation requirement: warranted trust, challenge, and misleading reliance, source lines 1519–1524; source SHA-256 4311e6ba74b7210f077c0bd4c8d21d8c9f517d2ada7b6d87288b39494dfeadd5. Draft only; do not synchronize into translations/. -->
+
+# Chapter Nine Part A — §5.6.1 evaluation requirement (fa)
+
+## English source (lines 1519–1524)
+
+The certification process must check whether sentients have good reason to [trust](core_05.040_band_continuity.md#trust) the system and can rely on it accurately, under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
+
+Evaluation must also test whether:
+
+- sentients can actually challenge the system, get a decision reviewed, and get a problem fixed — not just on paper. This must work for sentients as they are now, including those who cannot easily answer or get through a long process ([Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help); **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*));
+- sentients could be misled into trusting or relying on the system more than it deserves, whether through trust it has not earned or through limits it does not disclose. This is judged against the sentients who really use the system, not an average sentient (**Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*));
+
+## Translation draft
+
+##### 5.6.1 الزام ارزیابی: اعتماد و اعتراض
+
+فرایند گواهی‌سازی باید بررسی کند که آیا موجودات ذی‌شعور دلایل موجهی برای [اعتماد](core_05.040_band_continuity.md#trust) به سامانه دارند و می‌توانند با دقت به آن اتکا کنند یا نه؛ طبق **Article XIII-A** (*خط پایه قابلیت اعتماد و اعتمادپذیری*).
+
+ارزیابی همچنین باید بررسی کند آیا:
+
+- موجودات ذی‌شعور می‌توانند واقعاً سامانه را به چالش بکشند، بازبینی تصمیم را بخواهند و مشکل را برطرف کنند—نه فقط روی کاغذ. این باید برای موجودات در وضعیت کنونی‌شان کار کند، از جمله کسانی که پاسخ‌دادن یا طی‌کردن فرایندی طولانی برایشان دشوار است ([Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help)؛ **Article XIII-A** و **Article XIII-B** (*حق جبران و درمان*));
+- ممکن است موجودات ذی‌شعور فریب بخورند تا بیش از آنچه سامانه سزاوار است به آن اعتماد یا اتکا کنند، چه به سبب اعتمادی که کسب نکرده و چه به دلیل محدودیت‌های افشانشده‌نشده. داوری با توجه به استفاده‌کنندگان واقعی سامانه است، نه یک موجود ذی‌شعور متوسط (**Article XIII-C** (*منع اعتماد کاذب و اتکای گمراه‌کننده*)).

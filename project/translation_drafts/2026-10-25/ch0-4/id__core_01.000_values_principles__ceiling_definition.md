@@ -1,0 +1,11 @@
+<!-- AI-assisted translation draft; unreviewed. Chapter One §11.3.2, consolidation ceiling definition; source SHA-256 6b6f07eff0faf4249c4ef3844f8e6ee4b24041768de3ffd4262240bc68854c17. -->
+
+# Chapter One excerpt — consolidation ceiling definition
+
+## English source
+
+**Consolidation ceilings** are adopter-tunable early-warning triggers for heightened review, intervention, or structural remedy when consolidation reaches a level at which the impairments in **§11.3.1** (*Consolidation Risk, Pre-Lock-In Impairment*) are predictably imminent. They sit under the **§11** (*Market Structure*) non-concentration discipline and **§11.2** (*Pro-Competition and Anti-Domination*) anti-domination rules; they are not a ban on scale.
+
+## id draft
+
+**Batas konsolidasi** adalah pemicu peringatan dini yang dapat disesuaikan pengadopsi untuk meningkatkan peninjauan, melakukan intervensi, atau menerapkan pemulihan struktural ketika konsolidasi mencapai tingkat yang membuat dampak buruk dalam **§11.3.1** (*Risiko Konsolidasi, Gangguan Sebelum Penguncian*) diperkirakan segera terjadi. Batas ini berada di bawah disiplin non-konsentrasi **§11** (*Struktur Pasar*) dan aturan anti-dominasi **§11.2** (*Dukungan terhadap Persaingan dan Pencegahan Dominasi*); batas ini bukan larangan untuk menjadi besar.
