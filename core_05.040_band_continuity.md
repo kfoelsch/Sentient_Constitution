@@ -107,7 +107,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: a **cause finding** is a forum's finding of why a misalignment happened: the way the System is built, the way it is run, or not yet known. It sets the remedy sought and how far a reopened review reaches. It never decides whether the System is misaligned.*
 
 - **What it is**
-  - **In scope:** The finding, made when an evaluation, a recertification, or a reopened review finds misalignment, that the cause is **design-caused**, **operating-caused**, or **not yet determined**. A cause finding that places the cause of a System's misalignment in the Institution's own governance, incentives, resourcing, [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), or [Portfolio](core_05.040_band_continuity.md#portfolio) is an **institutional cause**.
+  - **In scope:** The finding, made when an evaluation, a recertification, a reopened review, or a fresh review finds misalignment, that the cause is **design-caused**, **operating-caused**, or **not yet determined**. A cause finding that places the cause of a System's misalignment in the Institution's own governance, incentives, resourcing, [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), or [Portfolio](core_05.040_band_continuity.md#portfolio) is an **institutional cause**.
   - **Out of scope:**
     - the finding that a System is misaligned, which rests on its results and not on its cause;
     - a violation finding for standing, which Chapters Eleven and Twelve own; or
@@ -690,6 +690,43 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 ---
 
+<a id="institution-class"></a>
+
+#### Institution Class
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Ten §2.1 Institution class](core_10.000_institutional_alignment_certification.md#21-institution-class) (10.000 §2.1) (*how an Institution's class is determined*); read with [CS-9.305 (*System classification machinery*)](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) and [CS-9.310 (*System impact classifications*)](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications).
+- Cluster component: none.
+- Read with:
+  - [Institution](core_05.040_band_continuity.md#institution),
+  - [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification), and
+  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: an Institution's class reflects the greatest material impact of what it decides, holds, and controls, whether through its Systems or on its own. Its name, legal form, and chartered list do not determine its class.*
+
+- **What it is**
+  - **In scope:** The class assigned to an [Institution](core_05.040_band_continuity.md#institution) by its greatest material impact, assessed through the Systems it operates, stewards, or materially controls and through its own decisions and holdings outside any System. The class governs the depth of institutional evaluation and its clocks.
+  - **Out of scope:** the separate class of a System in the Institution's [Portfolio](core_05.040_band_continuity.md#portfolio), which is decided for that System and is not re-decided by the Institution's evaluation.
+  - **Depends on:** [Institution](core_05.040_band_continuity.md#institution); [Portfolio](core_05.040_band_continuity.md#portfolio); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+  - The classification factors, common-control rule, and reclassification triggers are stated in [Chapter Ten §2.1 Institution class](core_10.000_institutional_alignment_certification.md#21-institution-class); this entry is the Chapter Five meaning only.
+<a id="institution-class-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Verify the class against observed System activity and the Institution's own decisions and holdings, apply the controlling classification factors, and confirm the class and reasons appear on the Institutional Certification Record.
+<a id="institution-class-c"></a>
+- **What must hold**
+  - **Primary failure:** Assign an Institution's class from its label, legal form, or Institutional Charter alone, omit its own material impact outside any System, or fail to include a System in common practical control.
+
+---
+
+
 <a id="institutional-alignment-certification"></a>
 
 #### Institutional Alignment Certification
@@ -805,6 +842,42 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - editing a completed record in place;
     - a record whose custodian is inside the Institution's own control line, for a record in which the Institution is the subject; or
     - treating the record as a standing record or as a standing effect.
+
+---
+
+<a id="institutional-data-types-and-handling"></a>
+
+#### Institutional Data Types and Handling
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Ten §3 Whole-Institution Certification Evaluation](core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation) (10.000 §3), item 8 (*data types and handling*), and [§8.1 Minimum record contents](core_10.000_institutional_alignment_certification.md#81-minimum-record-contents); read with [Chapter Nine Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4).
+- Cluster component: none.
+- Read with:
+  - [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification),
+  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record), and
+  - [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record).
+
+</details>
+
+<br>
+
+*In plain terms: institutional data types and handling cover data an Institution handles outside any System. The evaluation records those data and their handling in the Institutional Certification Record. Data handled inside a System is evaluated once in that System's record and cited by the Institution.*
+
+- **What it is**
+  - **In scope:** Evaluation of data types materially in scope that an Institution handles outside any System, including how each type is handled under the most restrictive applicable classification. The findings appear in the data-types section of the Institutional Certification Record; they do not form a separate record.
+  - **Out of scope:** data handled inside a System, which is evaluated and recorded once under the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) and cited in the Institutional Certification Record.
+  - **Depends on:** [Institution](core_05.040_band_continuity.md#institution); [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record); [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record).
+  - The institutional evaluation, recording, and reevaluation requirements are stated in [Chapter Ten §3 Whole-Institution Certification Evaluation](core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation), item 8, [§8.1 Minimum record contents](core_10.000_institutional_alignment_certification.md#81-minimum-record-contents), and [Chapter Nine Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation); this entry is the Chapter Five meaning only.
+<a id="institutional-data-types-and-handling-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Verify the materially in-scope data types the Institution handles outside any System, their classification and handling, the required reevaluation schedule, and that the findings are recorded in the Institutional Certification Record without repeating a System's data evaluation.
+<a id="institutional-data-types-and-handling-c"></a>
+- **What must hold**
+  - **Primary failure:** Omit materially in-scope data handled outside any System, apply a less restrictive classification where a more restrictive one applies, omit required reevaluation, or duplicate or replace a System's own data-types findings.
 
 ---
 
@@ -1139,7 +1212,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: **provisional certification** is the closely watched status for a system that is new, or that has just failed an evaluation. It is re-checked on a short interval until it has earned the longer-interval status of full certification.*
 
 - **What it is**
-  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05.040_band_continuity.md#recertification) or after a reopened review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with reliance limits stated on the record.
+  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05.040_band_continuity.md#recertification) or after a reopened or fresh review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with reliance limits stated on the record.
   - **Out of scope:**
     - [Full Certification](core_05.040_band_continuity.md#full-certification);
     - conditional certification, which concerns certification conditions and may attach to either status;

@@ -605,6 +605,8 @@ Where such a defect is found, forums may:
 
 Which of these the forum chooses turns on whether the operator or steward is willing and able to correct the defect. [§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct) states that readiness check, and [§7.4 Denial and Revocation](#74-denial-and-revocation) states when refusal or withdrawal is required.
 
+Where the same material certification defect both leads the forum to order a fresh review and qualifies as a reopening trigger under [Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers), the fresh review is the single later certification pass opened for that defect. Do not open a second reopened review solely for the same defect. A later material change or other independent trigger may still reopen review.
+
 **Protection, correction, and verification.** Where a defect is found, the forum must state:
 
 - the affected scope;
@@ -720,7 +722,7 @@ The readiness check measures the correction needed. It does not measure the size
 2. the readiness check finds it willing and not able, and no scope contraction, support, or handover closes the gap inside the longest window the system class allows; or
 3. the one deferral under [§7.3 Remediation Readiness: Willingness and Capacity to Correct](#73-remediation-readiness-willingness-and-capacity-to-correct) has run and the finding is still not yet shown.
 
-**Revocation is required** for a system that holds certification, at a recertification or a reopened review, when:
+**Revocation is required** for a system that holds certification, at a recertification, a reopened review, or a fresh review, when:
 
 1. the readiness check finds the operator able and not willing, or neither willing nor able, after notice and the chance to answer;
 2. a certification condition's deadline has passed unmet twice, or a continuing certification condition has been materially violated, and the operator cannot show a verified cause outside its control;

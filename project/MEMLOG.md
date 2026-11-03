@@ -1,6 +1,6 @@
 # MEMLOG
 
-**2026-11-02 cleanup:** This file keeps standing decisions and current context; completed session detail remains in dated archives. Open actions are tracked in [TODO.md](../TODO.md). The pre-cleanup state is preserved in [MEMLOG_SNAPSHOT_2026-11-02.md](../archive/MEMLOG_SNAPSHOT_2026-11-02.md).
+Keep this file to standing decisions and current context. Completed session detail remains in dated archives; open actions are tracked in [TODO.md](../TODO.md). The pre-cleanup state is preserved in [MEMLOG_SNAPSHOT_2026-11-02.md](../archive/MEMLOG_SNAPSHOT_2026-11-02.md).
 
 ## Purpose
 
