@@ -117,7 +117,7 @@
       "href": "../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 283,
+  "term_count": 302,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -295,6 +295,20 @@
       "href": "../../core_05.040_band_continuity.md#cascading-failure"
     },
     {
+      "term": "Cause Finding",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#cause-finding",
+      "plain_terms": "a **cause finding** is a forum's finding of why a misalignment happened: the way the System is built, the way it is run, or not yet known. It sets the remedy sought and how far a reopened review reaches. It never decides whether the System is misaligned.",
+      "href": "../../core_05.040_band_continuity.md#cause-finding"
+    },
+    {
+      "term": "Certification Condition",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#certification-condition",
+      "plain_terms": "a **certification condition** is a requirement written into a certification outcome that the operator must meet or keep meeting. Some must be met before go-live, some must hold the whole time the System runs, and some are corrective work allowed after authorization inside a bounded scope.",
+      "href": "../../core_05.040_band_continuity.md#certification-condition"
+    },
+    {
       "term": "Certification Denial",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#certification-denial",
@@ -302,11 +316,25 @@
       "href": "../../core_05.040_band_continuity.md#certification-denial"
     },
     {
+      "term": "Certification Pass",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#certification-pass",
+      "plain_terms": "a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](../../core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](../../core_05.040_band_continuity.md#fresh-review).",
+      "href": "../../core_05.040_band_continuity.md#certification-pass"
+    },
+    {
       "term": "Certification Revocation",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#certification-revocation",
-      "plain_terms": "**certification revocation** is taking certification back from a system that holds it, because its operator has not shown that it is both willing and able to put a problem right, or has been dishonest or has broken a condition. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.",
+      "plain_terms": "**certification revocation** is taking certification back from a system that holds it, because its operator has not shown that it is both willing and able to put a problem right, or has been dishonest or has broken a certification condition. It is a real outcome, not a threat. It changes the system's certification status. It does not by itself shut the system down.",
       "href": "../../core_05.040_band_continuity.md#certification-revocation"
+    },
+    {
+      "term": "Challenge Path",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#challenge-path",
+      "plain_terms": "a **challenge path** is the published route a sentient uses to contest a certification: who receives a challenge, how to file it, and the windows. It must be named on the record before any forum signs off, and it opens when the outcome is published.",
+      "href": "../../core_05.040_band_continuity.md#challenge-path"
     },
     {
       "term": "Charter Pointer",
@@ -330,11 +358,25 @@
       "href": "../../core_05.040_band_continuity.md#chartered-party"
     },
     {
+      "term": "Cited System",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#cited-system",
+      "plain_terms": "a **cited System** is a System in an Institution's [Portfolio](../../core_05.040_band_continuity.md#portfolio) whose System Certification Record the Institution's record lists and relies on. When a cited System fails, is withdrawn, or expires, that is an indicator for the Institution, and a cause traced to the Institution reopens its other Systems.",
+      "href": "../../core_05.040_band_continuity.md#cited-system"
+    },
+    {
       "term": "Classification-Scaled Governance",
       "file": "core_05.050_band_oversight.md",
       "anchor": "#classification-scaled-governance",
       "plain_terms": "bigger stake means harder oversight — how closely a system is watched and checked must match how much it actually matters, not a convenient low label.",
       "href": "../../core_05.050_band_oversight.md#classification-scaled-governance"
+    },
+    {
+      "term": "Clean Recertification",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#clean-recertification",
+      "plain_terms": "a recertification is **clean** when no misalignment is current and no monitoring indicator points to impending misalignment. Only clean recertifications count toward full certification.",
+      "href": "../../core_05.040_band_continuity.md#clean-recertification"
     },
     {
       "term": "Coercion and Manipulation",
@@ -834,6 +876,13 @@
       "href": "../../core_05.055_band_participation.md#freedom-bounded-agency"
     },
     {
+      "term": "Fresh Review",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#fresh-review",
+      "plain_terms": "a **fresh review** is a later certification pass that the forum orders in answer to a certification defect, as one of the responses open to it. Like any later certification pass, it opens a new record.",
+      "href": "../../core_05.040_band_continuity.md#fresh-review"
+    },
+    {
       "term": "Full Certification",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#full-certification",
@@ -888,6 +937,13 @@
       "anchor": "#governance",
       "plain_terms": "Governance is how a system assigns and limits power, makes decisions, changes over time, and holds decision-makers answerable. More consequential power requires stronger oversight, accountability, and review.",
       "href": "../../core_05.035_band_accountability.md#governance"
+    },
+    {
+      "term": "Governance Violation",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#governance-violation",
+      "plain_terms": "a **governance violation** is the name Chapter Ten gives to an Institution's governance failure that reopens review of its Systems. It names the reopening grounds and does not mean a violation for standing. Only a material one reopens.",
+      "href": "../../core_05.040_band_continuity.md#governance-violation"
     },
     {
       "term": "Graduated Capability",
@@ -1047,7 +1103,7 @@
       "term": "Institutional Authority Standing Lock",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#institutional-authority-standing-lock",
-      "plain_terms": "after a verified finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.",
+      "plain_terms": "after a verified violation finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.",
       "href": "../../core_05.035_band_accountability.md#institutional-authority-standing-lock"
     },
     {
@@ -1089,8 +1145,15 @@
       "term": "Interim Hold",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#interim-hold",
-      "plain_terms": "an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.",
+      "plain_terms": "an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a violation finding, a lock, or a penalty, and it ends on its own clock.",
       "href": "../../core_05.035_band_accountability.md#interim-hold"
+    },
+    {
+      "term": "Interim Protection",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#interim-protection",
+      "plain_terms": "**interim protection** is relief ordered while a matter is pending, to protect sentients, evidence, or the status quo until the merits are decided. It must be reasoned, proportionate, and reviewed inside the prompt-review window.",
+      "href": "../../core_05.040_band_continuity.md#interim-protection"
     },
     {
       "term": "Irreversible Deprivation Measure",
@@ -1119,6 +1182,13 @@
       "anchor": "#language-culture-and-heritage-constitutional",
       "plain_terms": null,
       "href": "../../core_05.040_band_continuity.md#language-culture-and-heritage"
+    },
+    {
+      "term": "Lead Forum",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#lead-forum",
+      "plain_terms": "the **lead forum** is the Integrity Forum that leads a certification pass. It directs the opening of the one coordinated record, brings the component findings together, and states the outcome.",
+      "href": "../../core_05.040_band_continuity.md#lead-forum"
     },
     {
       "term": "Leisure and Rest",
@@ -1289,6 +1359,13 @@
       "href": "../../core_05.035_band_accountability.md#negligence"
     },
     {
+      "term": "New Material Authority",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#new-material-authority",
+      "plain_terms": "**new material authority** is authority to decide, direct, allocate, restrict, or control something for others that is material to them and is not already covered by the Institution's [Institutional Charter](../../core_05.040_band_continuity.md#institutional-charter) or its current [Institutional Certification Record](../../core_05.040_band_continuity.md#institutional-certification-record). An Institution waits for its recertification to clear it before exercising it.",
+      "href": "../../core_05.040_band_continuity.md#new-material-authority"
+    },
+    {
       "term": "No-Bypass",
       "file": "core_05.045_band_integrative.md",
       "anchor": "#no-bypass",
@@ -1338,6 +1415,13 @@
       "href": "../../core_05.040_band_continuity.md#occupancy-continuity"
     },
     {
+      "term": "One-System Evaluation",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#one-system-evaluation",
+      "plain_terms": "the **one-System evaluation** is the single certification pass and single record for an Institution that runs exactly one System that needs a System Charter. The System Certification Record carries an institutional findings block and serves as the Institutional Certification Record.",
+      "href": "../../core_05.040_band_continuity.md#one-system-evaluation"
+    },
+    {
       "term": "Open Systems, Data, and Auditing",
       "file": "core_05.045_band_integrative.md",
       "anchor": "#open-systems-data-and-auditing",
@@ -1357,6 +1441,13 @@
       "anchor": "#operating-party",
       "plain_terms": "an **Operating Party** is whoever actually does the activity: a single sentient, a group of sentients acting together, a system, or an institution. The nine questions in Domain-Specific Materiality are put to it. If what it does is material in any one area, it is Class L or higher and must publish a System Charter or Institutional Charter, which makes it a Chartered Party. If not, it stays Class P. Naming the party adds no duty and gates nothing.",
       "href": "../../core_05.050_band_oversight.md#operating-party"
+    },
+    {
+      "term": "Operator",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#operator",
+      "plain_terms": "the **operator** of a System is the party that operates, stewards, or materially controls it and answers for it in its certification. Chapter Nine writes \"operator or steward\" for the role. It is narrower than an [Operating Party](../../core_05.050_band_oversight.md#operating-party), which is whoever does any activity.",
+      "href": "../../core_05.040_band_continuity.md#operator"
     },
     {
       "term": "Outcome-Resolution Source",
@@ -1392,6 +1483,13 @@
       "anchor": "#pilot",
       "plain_terms": "a **pilot** is a real but deliberately limited launch. Real sentients are affected, or start to rely on the system, so it is not a test in a sandbox; and it is limited in advance by a stated scope, population, and length of time. Because it is real, it needs its own certification before it starts, and it may not quietly grow past the limits it was certified for.",
       "href": "../../core_05.040_band_continuity.md#pilot"
+    },
+    {
+      "term": "Portfolio",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#portfolio",
+      "plain_terms": "an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own record.",
+      "href": "../../core_05.040_band_continuity.md#portfolio"
     },
     {
       "term": "Press and Journalistic Activity",
@@ -1590,6 +1688,13 @@
       "href": "../../core_05.055_band_participation.md#refuge-from-non-compliance"
     },
     {
+      "term": "Reliance Limits",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#reliance-limits",
+      "plain_terms": "**reliance limits** are limits, stated on the record, on how far anyone may rely on a System or an Institution. They come with a certification outcome or are placed while a matter is pending.",
+      "href": "../../core_05.040_band_continuity.md#reliance-limits"
+    },
+    {
       "term": "Remediation Readiness",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#remediation-readiness",
@@ -1602,6 +1707,20 @@
       "anchor": "#remedy-system-constitutional",
       "plain_terms": null,
       "href": "../../core_05.035_band_accountability.md#remedy-system"
+    },
+    {
+      "term": "Reopened Review",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#reopened-review",
+      "plain_terms": "a **reopened review** is a certification pass of a System or an Institution that already holds a record, begun before the next scheduled recertification because a [Reopening Trigger](../../core_05.040_band_continuity.md#reopening-trigger) has fired. It opens a new record linked to the last.",
+      "href": "../../core_05.040_band_continuity.md#reopened-review"
+    },
+    {
+      "term": "Reopening Trigger",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#reopening-trigger",
+      "plain_terms": "a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the record.",
+      "href": "../../core_05.040_band_continuity.md#reopening-trigger"
     },
     {
       "term": "Reproductive Autonomy",
@@ -1968,6 +2087,13 @@
       "href": "../../core_05.040_band_continuity.md#systemic-materiality"
     },
     {
+      "term": "Tier Window",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#tier-window",
+      "plain_terms": "a **tier window** is a time limit that runs at a stage of a certification matter, set by the materiality tier the matter is placed in. The tier presumptively matches the class. The **matching intake target** is the intake target of that tier.",
+      "href": "../../core_05.040_band_continuity.md#tier-window"
+    },
+    {
       "term": "Timely Resolution",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#timely-resolution-constitutional",
@@ -2036,6 +2162,13 @@
       "anchor": "#unified-incident-record",
       "plain_terms": null,
       "href": "../../core_05.035_band_accountability.md#unified-incident-record"
+    },
+    {
+      "term": "Urgent Protection",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#urgent-protection",
+      "plain_terms": "**urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the record.",
+      "href": "../../core_05.040_band_continuity.md#urgent-protection"
     },
     {
       "term": "Use of Force",

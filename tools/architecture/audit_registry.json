@@ -848,6 +848,36 @@
       "category": "tests",
       "run": "auto",
       "writes": false
+    },
+    "ch10-duplication-audit": {
+      "category": "alignment",
+      "run": "auto",
+      "writes": false
+    },
+    "ch10-duplication-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "ground-qualified-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "ground-qualified-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "record-qualified-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "record-qualified-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
     }
   }
 }

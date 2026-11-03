@@ -86,6 +86,95 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 ---
 
+<a id="cause-finding"></a>
+
+#### Cause Finding
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part C §9.3.3 Cause of misalignment](core_09.010_system_alignment_certification_record_recertification.md#933-cause-of-misalignment) (9.010 §9.3.3) (*cause of misalignment*); read with [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications) (10.000 §9.5) (*cascade from System certifications*).
+- Cluster component: none.
+- Read with:
+  - [Certification Pass](core_05.040_band_continuity.md#certification-pass),
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record), and
+  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: a **cause finding** is a forum's finding of why a misalignment happened: the way the System is built, the way it is run, or not yet known. It sets the remedy sought and how far a reopened review reaches. It never decides whether the System is misaligned.*
+
+- **What it is**
+  - **In scope:** The finding, made when an evaluation, a recertification, or a reopened review finds misalignment, that the cause is **design-caused**, **operating-caused**, or **not yet determined**. A cause finding that places the cause of a System's misalignment in the Institution's own governance, incentives, resourcing, [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), or [Portfolio](core_05.040_band_continuity.md#portfolio) is an **institutional cause**.
+  - **Out of scope:**
+    - the finding that a System is misaligned, which rests on its results and not on its cause;
+    - a violation finding for standing, which Chapters Eleven and Twelve own; or
+    - a defense that the design looks sound, offered against results that are in fact misaligned —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [System Certification Record](core_05.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+  - The three causes, their limits, and their effect on the count of clean recertifications are stated in [Chapter Nine Part C §9.3.3 Cause of misalignment](core_09.010_system_alignment_certification_record_recertification.md#933-cause-of-misalignment); the effect on an Institution is stated in [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications); this entry is the Chapter Five meaning only.
+<a id="cause-finding-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the record states the cause as one of the three, and the operator or any affected sentient may ask the forum to review it;
+    2. the cause finding sets the remedy sought and the scope of a reopened review only, and a design that looks sound is not treated as a defense against results that are misaligned; and
+    3. an institutional cause is decided by the lead forum on the System's own cause finding, which the Institution's pass cites and does not remake.
+<a id="cause-finding-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - using a cause finding to decide whether a System is misaligned, or to excuse results that are misaligned; or
+    - placing a System's cause in an Institution without evidence, or declining to place it there when the evidence shows it.
+
+---
+
+<a id="certification-condition"></a>
+
+#### Certification Condition
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) (9.005 §7.1) (*go-live gate, certification conditions, and bounded authorization*); read with [Chapter Nine Part B §7.4 Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation) (9.005 §7.4) (*denial and revocation*).
+- Cluster component: none.
+- Read with:
+  - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification),
+  - [Full Certification](core_05.040_band_continuity.md#full-certification), and
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: a **certification condition** is a requirement written into a certification outcome that the operator must meet or keep meeting. Some must be met before go-live, some must hold the whole time the System runs, and some are corrective work allowed after authorization inside a bounded scope.*
+
+- **What it is**
+  - **In scope:** A requirement written into a certification outcome that the operator must meet or keep meeting: before go-live, throughout permitted operation, or as corrective work after authorization inside a bounded scope.
+  - **Out of scope:**
+    - [Reliance Limits](core_05.040_band_continuity.md#reliance-limits), which bound what others may rely on and are not requirements the operator meets;
+    - a [Stay](core_05.035_band_accountability.md#stay), which postpones or blocks an action or outcome; or
+    - a recommendation with no consequence for the outcome —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Provisional Certification](core_05.040_band_continuity.md#provisional-certification); [Full Certification](core_05.040_band_continuity.md#full-certification); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+  - The three kinds, what each certification condition must name, and the verification before go-live are stated in [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate); the consequence of a certification condition missed twice or materially violated is stated in [Chapter Nine Part B §7.4 Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation); this entry is the Chapter Five meaning only.
+<a id="certification-condition-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. each certification condition has a responsible owner, evidence, and independent verification stated in the outcome; and
+    2. no scope operates while a certification condition required before go-live is unverified.
+<a id="certification-condition-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - a certification condition with no owner, evidence, or consequence; or
+    - letting a scope operate while a certification condition required before go-live is unverified.
+
+---
+
 <a id="certification-denial"></a>
 
 #### Certification Denial
@@ -134,6 +223,50 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - granting conditional certification where the readiness finding requires denial;
     - treating a denial as an order to cut off survival essentials before substitutes exist; or
     - denying certification and leaving those who rely on the system uninformed.
+
+---
+
+<a id="certification-pass"></a>
+
+#### Certification Pass
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence) (9.005 §6.2) (*supervisory sequence*); read with [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (9.010 §9) (*recertification and reopening*).
+- Cluster component: none.
+- Read with:
+  - [Lead Forum](core_05.040_band_continuity.md#lead-forum),
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record), and
+  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](core_05.040_band_continuity.md#fresh-review).*
+
+- **What it is**
+  - **In scope:** The whole of the certification work for one System or one Institution, from framing it to recording the outcome, including one that ends in withdrawal or non-certification. A certification pass is a first certification, a [Recertification](core_05.040_band_continuity.md#recertification), a [Reopened Review](core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](core_05.040_band_continuity.md#fresh-review). Each opens one coordinated record, and a later certification pass opens a new record linked to the completed one.
+  - **Out of scope:**
+    - a single evaluation or component finding inside a certification pass;
+    - the operation of a certified System between passes; or
+    - the outcome itself, which a certification pass ends in and does not equal —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Lead Forum](core_05.040_band_continuity.md#lead-forum); [System Certification Record](core_05.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+  - The order of the work is stated in [Chapter Nine Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence), and the new record for each later certification pass in [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening); this entry is the Chapter Five meaning only.
+<a id="certification-pass-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. each certification pass says which kind it is and ends in a stated outcome; and
+    2. each later certification pass opens a new record linked to the completed one and leaves the earlier record as it stood.
+<a id="certification-pass-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - reusing an earlier record in place of opening a new one for a later certification pass; or
+    - ending a certification pass without a stated outcome.
 
 ---
 
@@ -188,6 +321,136 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 ---
 
+<a id="challenge-path"></a>
+
+#### Challenge Path
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part C §10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens) (9.010 §10.1) (*when the challenge path opens*); read with [Chapter Nine Part B §6.2.1 Challenge path first](core_09.005_system_alignment_certification_record_process.md#621-challenge-path-first) (9.005 §6.2.1) (*the record names the path before sign-off*) and [Chapter Nine Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) (9.010 §10.2) (*contestability paths*).
+- Cluster component: none.
+- Read with:
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record), and
+  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: a **challenge path** is the published route a sentient uses to contest a certification: who receives a challenge, how to file it, and the windows. It must be named on the record before any forum signs off, and it opens when the outcome is published.*
+
+- **What it is**
+  - **In scope:** The published route, named on a certification record, by which a sentient contests the certification: who receives a challenge, how it is filed, and the windows. It is one of the **contestability paths** of [Chapter Nine Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths), and the routes matched to where a dispute arises are the **contestability chain** of [Chapter Nine Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain). It opens with the first outcome and stays open while the System has stakeholders.
+  - **Out of scope:**
+    - a challenge itself, which [Contestability](core_05.035_band_accountability.md#contestability) and Due Process govern;
+    - the [Contest Seat](core_05.035_band_accountability.md#contest-seat), which holds the published path together with the competent review or backup forum; or
+    - internal operator review, vendor attestation, or technical sign-off, which are not challenge paths —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [System Certification Record](core_05.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+  - When the path opens is stated in [Chapter Nine Part C §10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens), and the rule that the record names it before sign-off in [Chapter Nine Part B §6.2.1 Challenge path first](core_09.005_system_alignment_certification_record_process.md#621-challenge-path-first); this entry is the Chapter Five meaning only.
+<a id="challenge-path-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the record names who receives challenges, how to file them, and the windows before any forum signs off; and
+    2. the path is open before anyone is asked to rely on the outcome, and stays open while the System has stakeholders.
+<a id="challenge-path-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - signing off a record that does not name the path; or
+    - claiming a System is aligned while it has stakeholders and no open path for challenging the record.
+
+---
+
+<a id="cited-system"></a>
+
+#### Cited System
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Ten §8.1 Minimum record contents](core_10.000_institutional_alignment_certification.md#81-minimum-record-contents) (10.000 §8.1) (*minimum record contents*); read with [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications) (10.000 §9.5) (*cascade from System certifications*).
+- Cluster component: none.
+- Read with:
+  - [Portfolio](core_05.040_band_continuity.md#portfolio),
+  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record), and
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: a **cited System** is a System in an Institution's [Portfolio](core_05.040_band_continuity.md#portfolio) whose System Certification Record the Institution's record lists and relies on. When a cited System fails, is withdrawn, or expires, that is an indicator for the Institution, and a cause traced to the Institution reopens its other Systems.*
+
+- **What it is**
+  - **In scope:** Where an Institution runs several Systems, a System in its [Portfolio](core_05.040_band_continuity.md#portfolio) that the [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) lists, with the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) it cites for that System. A System with no record in force is listed with the reason. Each cited System keeps its own certification pass and its own record.
+  - **Out of scope:**
+    - a System the Institution does not operate, steward, or materially control;
+    - the System's own certification outcome, which the Institution's pass never re-judges; or
+    - the one-System evaluation, where the Institution and its System share one certification pass and one record —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Portfolio](core_05.040_band_continuity.md#portfolio); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+  - The cited System entries are stated in [Chapter Ten §8.1 Minimum record contents](core_10.000_institutional_alignment_certification.md#81-minimum-record-contents), and the effect of a cited System's failure, withdrawal, or expiry in [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications); this entry is the Chapter Five meaning only.
+<a id="cited-system-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the Institution's record lists each cited System with its System Certification Record, version, and status; and
+    2. a cited System's outcome is never re-judged in the Institution's pass.
+<a id="cited-system-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - leaving a System of the Institution off the record, or citing a record that is out of date; or
+    - re-judging a cited System's outcome, status, or certification conditions in the Institution's pass.
+
+---
+
+<a id="clean-recertification"></a>
+
+#### Clean Recertification
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part C §9.3.1 The two statuses](core_09.010_system_alignment_certification_record_recertification.md#931-the-two-statuses) (9.010 §9.3.1) (*the two statuses and clean recertifications*).
+- Cluster component: none.
+- Read with:
+  - [Recertification](core_05.040_band_continuity.md#recertification),
+  - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification), and
+  - [Full Certification](core_05.040_band_continuity.md#full-certification).
+
+</details>
+
+<br>
+
+*In plain terms: a recertification is **clean** when no misalignment is current and no monitoring indicator points to impending misalignment. Only clean recertifications count toward full certification.*
+
+- **What it is**
+  - **In scope:** A [Recertification](core_05.040_band_continuity.md#recertification) that finds no current misalignment and no monitoring indicator pointing to impending misalignment. A required number of consecutive clean provisional recertifications is one input to [Full Certification](core_05.040_band_continuity.md#full-certification).
+  - **Out of scope:**
+    - a failed recertification, which finds current misalignment and restarts the count at zero; or
+    - a recertification that finds no current misalignment but shows an indicator of impending misalignment, which is not a failure and is not clean —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Recertification](core_05.040_band_continuity.md#recertification); [Provisional Certification](core_05.040_band_continuity.md#provisional-certification); [Full Certification](core_05.040_band_continuity.md#full-certification).
+  - The count and the requirements for full certification are stated in [Chapter Nine Part C §9.3.1 The two statuses](core_09.010_system_alignment_certification_record_recertification.md#931-the-two-statuses); this entry is the Chapter Five meaning only.
+<a id="clean-recertification-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. only a clean recertification advances the count of clean recertifications; and
+    2. a failed recertification restarts the count at zero.
+<a id="clean-recertification-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - counting a recertification as clean while a misalignment, defect, overdue check, or failed regression test is open; or
+    - advancing the count over an indicator of impending misalignment.
+
+---
+
 <a id="essential-environment-non-commodification-constitutional"></a>
 
 #### Essential-Environment Non-Commodification
@@ -234,6 +497,49 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - commodification pressure whose effect defeats essential-environment access at materially implicated scale, regardless of market-structuring framing;
     - schemes that defeat synthetic-hosting or compute-tenancy access contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion);
     - reading this entry to displace [Occupancy Continuity](core_05.040_band_continuity.md#occupancy-continuity) procedural discipline or to license intrusion contrary to **Article VII-A** (*Self-Ownership of Body*) or VII-B.
+
+---
+
+<a id="fresh-review"></a>
+
+#### Fresh Review
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction) (9.005 §7.2) (*certification defects and the forum's responses*); read with [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (9.010 §9) (*recertification and reopening*).
+- Cluster component: none.
+- Read with:
+  - [Certification Pass](core_05.040_band_continuity.md#certification-pass),
+  - [Reopened Review](core_05.040_band_continuity.md#reopened-review), and
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: a **fresh review** is a later certification pass that the forum orders in answer to a certification defect, as one of the responses open to it. Like any later certification pass, it opens a new record.*
+
+- **What it is**
+  - **In scope:** A later certification pass ordered under [Chapter Nine Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction) in answer to a certification defect, listed there beside certifying with certification conditions, deferring, refusing, withdrawing, changing the certification interval, and reopening review. It runs through the same forum process and ends in an outcome.
+  - **Out of scope:**
+    - a [Recertification](core_05.040_band_continuity.md#recertification), which runs on the schedule; or
+    - the first certification of a System —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [Reopened Review](core_05.040_band_continuity.md#reopened-review); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+  - The choice among these responses is stated in [Chapter Nine Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction), and the new record in [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening); this entry is the Chapter Five meaning only.
+<a id="fresh-review-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the forum states why it ordered a fresh review in place of the other responses; and
+    2. the fresh review opens a new record linked to the completed one and ends in a stated outcome.
+<a id="fresh-review-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - a fresh review that leaves the earlier record open in place of a new one; or
+    - a fresh review ordered and then left without an outcome.
 
 ---
 
@@ -337,6 +643,50 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - relabeling live operation as a beta, trial, preview, or test so that it appears not to be a go-live;
     - releasing a system in increments, each below the point of material effect or reliance, so that the whole escapes the gate; or
     - treating a material expansion as a continuation of an earlier go-live, or setting the go-live date after the fact.
+
+---
+
+<a id="governance-violation"></a>
+
+#### Governance Violation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Ten §9.6 Reopening the Institution's Systems](core_10.000_institutional_alignment_certification.md#96-reopening-the-institutions-systems) (10.000 §9.6) (*reopening the Institution's Systems*); read with [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) (9.010 §9.2) (*reopening triggers*).
+- Cluster component: none.
+- Read with:
+  - [Reopened Review](core_05.040_band_continuity.md#reopened-review),
+  - [Cited System](core_05.040_band_continuity.md#cited-system),
+  - [Cause Finding](core_05.040_band_continuity.md#cause-finding), and
+  - [Institution](core_05.040_band_continuity.md#institution).
+
+</details>
+
+<br>
+
+*In plain terms: a **governance violation** is the name Chapter Ten gives to an Institution's governance failure that reopens review of its Systems. It names the reopening grounds and does not mean a violation for standing. Only a material one reopens.*
+
+- **What it is**
+  - **In scope:** An Institution's governance failure that reopens review of its Systems: a determination that its own governance failed, a denial or revocation of the Institution on a governance-related denial or revocation ground, or an [Cause Finding](core_05.040_band_continuity.md#cause-finding) that places the cause in the Institution. Only a material one reopens, and each determination reopens each System once.
+  - **Out of scope:**
+    - a violation of standing, which Chapters Eleven and Twelve own; or
+    - the currency of a cited System's certification, which comes from the Systems' own records —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Reopened Review](core_05.040_band_continuity.md#reopened-review); [Cited System](core_05.040_band_continuity.md#cited-system); [Cause Finding](core_05.040_band_continuity.md#cause-finding); [Institution](core_05.040_band_continuity.md#institution).
+  - The reopening grounds, the materiality filter, and the notice are stated in [Chapter Ten §9.6 Reopening the Institution's Systems](core_10.000_institutional_alignment_certification.md#96-reopening-the-institutions-systems); this entry is the Chapter Five meaning only.
+<a id="governance-violation-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the Institution's record names each System notified and the date of the notice; and
+    2. a reopening changes no System's outcome, status, or certification condition, and stops neither the Institution nor any System.
+<a id="governance-violation-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - treating a governance violation as a violation for standing, or as a reason to stop a System; or
+    - failing to give notice, so that the forum that made the determination must give it.
 
 ---
 
@@ -445,7 +795,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record names the Institutional Charter and Charter Role Map versions in force, and the version of each cited System Certification Record;
+    1. the Institutional Certification Record names the Institutional Charter and Charter Role Map versions in force, and the version of each cited System Certification Record;
     2. the record is kept by an office outside the Institution's own [Material Control Line](core_05.035_band_accountability.md#material-control-line) and can be challenged through a published path; and
     3. a later pass opens a new linked record and leaves the earlier one as it stood.
 <a id="institutional-certification-record-c"></a>
@@ -455,6 +805,221 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - editing a completed record in place;
     - a record whose custodian is inside the Institution's own control line, for a record in which the Institution is the subject; or
     - treating the record as a standing record or as a standing effect.
+
+---
+
+<a id="interim-protection"></a>
+
+#### Interim Protection
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Fourteen Interim protection](core_14.000_forum.md#interim-protection) (14.000) (*interim protection while a matter is pending*); read with [Chapter Nine Part B §6.2.3 Urgent protection](core_09.005_system_alignment_certification_record_process.md#623-urgent-protection) (9.005 §6.2.3) (*urgent protection in a certification pass*).
+- Cluster component: none.
+- Read with:
+  - [Stay](core_05.035_band_accountability.md#stay), and
+  - [Interim Hold](core_05.035_band_accountability.md#interim-hold).
+
+</details>
+
+<br>
+
+*In plain terms: **interim protection** is relief ordered while a matter is pending, to protect sentients, evidence, or the status quo until the merits are decided. It must be reasoned, proportionate, and reviewed inside the prompt-review window.*
+
+- **What it is**
+  - **In scope:** Relief that a family with jurisdiction over a matter issues while the matter is pending. An [Interim Hold](core_05.035_band_accountability.md#interim-hold) is interim protection directed at one named sentient's exercise of one named authority, pathway, or matter, on less than a verified violation finding; it is not a violation finding, a lock, or a penalty.
+  - **Out of scope:**
+    - a final outcome or a determination of the merits; or
+    - a [Stay](core_05.035_band_accountability.md#stay), which postpones or blocks an action or outcome and is a separate measure —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Stay](core_05.035_band_accountability.md#stay); [Interim Hold](core_05.035_band_accountability.md#interim-hold).
+  - The grounds for interim protection, the review, and the coordination of simultaneous orders are stated in [Chapter Fourteen Interim protection](core_14.000_forum.md#interim-protection); its use in a certification pass is stated in [Chapter Nine Part B §6.2.3 Urgent protection](core_09.005_system_alignment_certification_record_process.md#623-urgent-protection); this entry is the Chapter Five meaning only.
+<a id="interim-protection-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. each order states its reason and why it is proportionate, and is reviewed inside the prompt-review window; and
+    2. interim protection is never used as a penalty or as a decision on the merits.
+<a id="interim-protection-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - using interim protection as a penalty or as a decision on the merits; or
+    - an order that is unreasoned, disproportionate, or not reviewed inside the prompt-review window.
+
+---
+
+<a id="lead-forum"></a>
+
+#### Lead Forum
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence) (9.005 §6.2) (*supervisory sequence and lead coordination*); read with [Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.005 §6.1.1) (*four seats in a certification*).
+- Cluster component: none.
+- Read with:
+  - [Certification Pass](core_05.040_band_continuity.md#certification-pass),
+  - [Record Seat](core_05.035_band_accountability.md#record-seat), and
+  - [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat).
+
+</details>
+
+<br>
+
+*In plain terms: the **lead forum** is the Integrity Forum that leads a certification pass. It directs the opening of the one coordinated record, brings the component findings together, and states the outcome.*
+
+- **What it is**
+  - **In scope:** The Integrity Forum that leads each [Certification Pass](core_05.040_band_continuity.md#certification-pass), unless Chapter Fourteen assigns a different lawful lead for the primary stake. It holds the [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat) for the outcome and directs the record seat holder to open the one coordinated record.
+  - **Out of scope:**
+    - a component forum or authority, which gives a bounded component finding; or
+    - the record seat holder, who keeps the record, since the lead forum directs the sequence and does not hold the [Record Seat](core_05.035_band_accountability.md#record-seat) on the same act —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [Record Seat](core_05.035_band_accountability.md#record-seat); [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat).
+  - The lead forum's steps are stated in [Chapter Nine Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence); its place among the four seats is stated in [Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification); this entry is the Chapter Five meaning only.
+<a id="lead-forum-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. each certification pass names its lead forum, and the lead forum does not hold the record seat on the same act; and
+    2. a missing component finding or a component's silence is never treated as authorization.
+<a id="lead-forum-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - a lead forum that also keeps the record for the same act; or
+    - authorizing a scope before the required component work is finished.
+
+---
+
+<a id="new-material-authority"></a>
+
+#### New Material Authority
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Ten §9.2.1 What counts as new material authority](core_10.000_institutional_alignment_certification.md#921-what-counts-as-new-material-authority) (10.000 §9.2.1) (*what counts as new material authority*); read with [Chapter Ten §9.2.2 Recertification for new material authority](core_10.000_institutional_alignment_certification.md#922-recertification-for-new-material-authority) (10.000 §9.2.2) (*recertification for new material authority*).
+- Cluster component: none.
+- Read with:
+  - [Institutional Charter](core_05.040_band_continuity.md#institutional-charter),
+  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record), and
+  - [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality).
+
+</details>
+
+<br>
+
+*In plain terms: **new material authority** is authority to decide, direct, allocate, restrict, or control something for others that is material to them and is not already covered by the Institution's [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) or its current [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record). An Institution waits for its recertification to clear it before exercising it.*
+
+- **What it is**
+  - **In scope:** Authority that is both material under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and not covered by the [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) or the current [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record). A [Pilot](core_05.040_band_continuity.md#pilot) of such authority counts where it is itself material. The permission to exercise it is a **clearance** given by the recertification, as a System's permission to go live is an authorization under the [Go-Live](core_05.040_band_continuity.md#go-live) gate.
+  - **Out of scope:**
+    - authority stated in the Institution's first [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), since there is no gate on forming;
+    - more of what the record already evaluated; or
+    - a new System, which goes live on its own certification, unless it also gives the Institution authority that the record does not cover —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Institutional Charter](core_05.040_band_continuity.md#institutional-charter); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record); [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality).
+  - What counts, the notice, and the blockers to clearing it are stated in [Chapter Ten §9.2.1 What counts as new material authority](core_10.000_institutional_alignment_certification.md#921-what-counts-as-new-material-authority) and [Chapter Ten §9.2.2 Recertification for new material authority](core_10.000_institutional_alignment_certification.md#922-recertification-for-new-material-authority); the wait is stated in **Article XI-E** (*Institutional Formation and Business Creation*); this entry is the Chapter Five meaning only.
+<a id="new-material-authority-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the Institution gives notice before exercising authority that may be new and material, and the lead forum decides where it is unclear; and
+    2. splitting or staging an authority does not avoid the wait.
+<a id="new-material-authority-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - exercising new material authority before the recertification clears it; or
+    - splitting or staging an authority so that no part counts as new or material.
+
+---
+
+<a id="one-system-evaluation"></a>
+
+#### One-System Evaluation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Ten §1.1 Who is certified](core_10.000_institutional_alignment_certification.md#11-who-is-certified) (10.000 §1.1) (*who is certified, and the one-System case*); read with [Chapter Ten §7.4 Denial and revocation for an Institution](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution) (10.000 §7.4) (*denial and revocation for an Institution*).
+- Cluster component: none.
+- Read with:
+  - [Certification Pass](core_05.040_band_continuity.md#certification-pass),
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record), and
+  - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: the **one-System evaluation** is the single certification pass and single record for an Institution that runs exactly one System that needs a System Charter. The System Certification Record carries an institutional findings block and serves as the Institutional Certification Record.*
+
+- **What it is**
+  - **In scope:** One [Certification Pass](core_05.040_band_continuity.md#certification-pass) and one record for an Institution that runs exactly one System needing a [System Charter](core_05.040_band_continuity.md#system-charter). The forums, seats, and times are those of the System's own pass, with the Institution's evaluation items added. A System ground and an institutional ground for denial or revocation are stated separately.
+  - **Out of scope:**
+    - an Institution that runs several Systems, which has one [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) linking to each System's record;
+    - an Institution that runs no System, which has an Institutional Certification Record on its own; or
+    - the cascade from a System's certification beyond its rules 1 and 2, which are the only rules of it that apply here —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [System Certification Record](core_05.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
+  - The one-System case is stated in [Chapter Ten §1.1 Who is certified](core_10.000_institutional_alignment_certification.md#11-who-is-certified), and the denial and revocation grounds in [Chapter Ten §7.4 Denial and revocation for an Institution](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution); this entry is the Chapter Five meaning only.
+<a id="one-system-evaluation-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the record carries the institutional findings block with every item the Institution's evaluation requires; and
+    2. the outcome states the System ground and the institutional ground separately.
+<a id="one-system-evaluation-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - omitting an institutional item because the System's own evaluation was clean; or
+    - letting a System ground decide the Institution's status, or the reverse, without saying whether a System ground or an institutional ground applies.
+
+---
+
+<a id="operator"></a>
+
+#### Operator
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (9.010 §9) (*operating, recertifying, and reopening a certified System*); read with [Chapter Ten §7.4 Denial and revocation for an Institution](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution) (10.000 §7.4) (*reading governing authority for operator*).
+- Cluster component: none.
+- Read with:
+  - [System](core_05.040_band_continuity.md#system), and
+  - [Operating Party](core_05.050_band_oversight.md#operating-party).
+
+</details>
+
+<br>
+
+*In plain terms: the **operator** of a System is the party that operates, stewards, or materially controls it and answers for it in its certification. Chapter Nine writes "operator or steward" for the role. It is narrower than an [Operating Party](core_05.050_band_oversight.md#operating-party), which is whoever does any activity.*
+
+- **What it is**
+  - **In scope:** The party that operates, stewards, or materially controls a [System](core_05.040_band_continuity.md#system) and answers for it in its certification. Where an Institution does so, the Institution is the operator of that System. In the Institution's own certification, Chapter Ten reads the Institution's governing authority for operator where it applies Chapter Nine's denial and revocation rules.
+  - **Out of scope:**
+    - an Operating Party that does not run a certified System; or
+    - a seat or office inside the operator, and the sentient who holds it —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [System](core_05.040_band_continuity.md#system); [Operating Party](core_05.050_band_oversight.md#operating-party).
+  - The operator's duties are stated in Chapter Nine; the reading rule for an Institution is stated in [Chapter Ten §7.4 Denial and revocation for an Institution](core_10.000_institutional_alignment_certification.md#74-denial-and-revocation-for-an-institution); this entry is the Chapter Five meaning only.
+<a id="operator-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the System Certification Record names its operator or steward; and
+    2. the readiness check applies the same terms to every operator.
+<a id="operator-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - a System with no named operator or steward; or
+    - applying different readiness terms to different operators.
 
 ---
 
@@ -510,6 +1075,48 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 ---
 
+<a id="portfolio"></a>
+
+#### Portfolio
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Ten §3 Whole-Institution Certification Evaluation](core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation) (10.000 §3) (*whole-Institution certification evaluation and the portfolio test*); read with [Chapter Ten §8.1 Minimum record contents](core_10.000_institutional_alignment_certification.md#81-minimum-record-contents) (10.000 §8.1) (*minimum record contents*).
+- Cluster component: none.
+- Read with:
+  - [Institution](core_05.040_band_continuity.md#institution), and
+  - [System](core_05.040_band_continuity.md#system).
+
+</details>
+
+<br>
+
+*In plain terms: an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own record.*
+
+- **What it is**
+  - **In scope:** The Systems an [Institution](core_05.040_band_continuity.md#institution) operates, stewards, or materially controls. The portfolio is evaluated as a whole for its stated purpose and aggregate effect, and each System in it is also evaluated on its own record.
+  - **Out of scope:**
+    - a System the Institution does not operate, steward, or materially control; or
+    - the Institution's authority and activities beyond its Systems, which [New Material Authority](core_05.040_band_continuity.md#new-material-authority) and the [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) cover —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Institution](core_05.040_band_continuity.md#institution); [System](core_05.040_band_continuity.md#system).
+  - The portfolio test is stated in [Chapter Ten §3 Whole-Institution Certification Evaluation](core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation), and the entries for the portfolio in [Chapter Ten §8.1 Minimum record contents](core_10.000_institutional_alignment_certification.md#81-minimum-record-contents); this entry is the Chapter Five meaning only.
+<a id="portfolio-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the portfolio is evaluated as a whole as well as System by System; and
+    2. no System is left out of the portfolio, or split off from it, to stay under a class line.
+<a id="portfolio-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - leaving a System out of the portfolio to keep it from the aggregate evaluation; or
+    - splitting a portfolio to stay below a class line.
+
+---
+
 <a id="provisional-certification"></a>
 
 #### Provisional Certification
@@ -532,7 +1139,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: **provisional certification** is the closely watched status for a system that is new, or that has just failed an evaluation. It is re-checked on a short interval until it has earned the longer-interval status of full certification.*
 
 - **What it is**
-  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05.040_band_continuity.md#recertification) or after a reopened review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with limits on reliance stated on the record.
+  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05.040_band_continuity.md#recertification) or after a reopened review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with reliance limits stated on the record.
   - **Out of scope:**
     - [Full Certification](core_05.040_band_continuity.md#full-certification);
     - conditional certification, which concerns certification conditions and may attach to either status;
@@ -546,13 +1153,13 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
     **Primary assessment:** Evaluate whether:
     1. a first certification, and a certification after a failed recertification, is recorded as provisional and not as full;
-    2. the record states a certification interval shorter than the full certification interval for the class, together with limits on reliance; and
+    2. the record states a certification interval shorter than the full certification interval for the class, together with reliance limits; and
     3. a system that has met the full-certification conditions is moved up, and one that has not stays provisional for stated reasons.
 <a id="provisional-certification-c"></a>
 - **What must hold**
   - **Primary failure:**
     - treating a new or post-failure system as fully certified;
-    - stating provisional status without a shorter interval or any limit on reliance, so that the status exists on paper only;
+    - stating provisional status without a shorter interval or any reliance limit, so that the status exists on paper only;
     - holding a system provisional without a stated reason after it has met the full-certification conditions; or
     - interrupting a system whose interruption would foreclose survival essentials before substitutes arrive, as though provisional status itself required it.
 
@@ -612,6 +1219,133 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 ---
 
+<a id="reliance-limits"></a>
+
+#### Reliance Limits
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part C §8.1.8 Outcome and reliance limits](core_09.010_system_alignment_certification_record_recertification.md#818-outcome-and-reliance-limits) (9.010 §8.1.8) (*outcome and reliance limits*); read with [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate) (9.005 §7.1) (*go-live gate*) and [Chapter Nine Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain) (9.005 §6.3) (*reliance limits during a contest*).
+- Cluster component: none.
+- Read with:
+  - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification),
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record), and
+  - [Certification Condition](core_05.040_band_continuity.md#certification-condition).
+
+</details>
+
+<br>
+
+*In plain terms: **reliance limits** are limits, stated on the record, on how far anyone may rely on a System or an Institution. They come with a certification outcome or are placed while a matter is pending.*
+
+- **What it is**
+  - **In scope:** A bound on reliance, stated on the record with a certification outcome or placed by an order while a challenge or review is pending. A provisional certification states them.
+  - **Out of scope:**
+    - a [Certification Condition](core_05.040_band_continuity.md#certification-condition), which is a requirement the operator meets, where a reliance limit bounds what others may rely on; or
+    - a [Stay](core_05.035_band_accountability.md#stay), which postpones or blocks an action or outcome —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Provisional Certification](core_05.040_band_continuity.md#provisional-certification); [System Certification Record](core_05.040_band_continuity.md#system-certification-record); [Certification Condition](core_05.040_band_continuity.md#certification-condition).
+  - The record entry is stated in [Chapter Nine Part C §8.1.8 Outcome and reliance limits](core_09.010_system_alignment_certification_record_recertification.md#818-outcome-and-reliance-limits), the limits during a contest in [Chapter Nine Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain), and the bar on go-live in [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate); this entry is the Chapter Five meaning only.
+<a id="reliance-limits-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the record states each reliance limit and who it protects; and
+    2. reliance stays inside the limits while the matter is pending.
+<a id="reliance-limits-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - a provisional certification with no reliance limit stated, so that the status exists on paper only; or
+    - relying on a System beyond a stated limit.
+
+---
+
+<a id="reopened-review"></a>
+
+#### Reopened Review
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) (9.010 §9.2) (*reopening triggers*); read with [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening) (9.010 §9) (*recertification and reopening*).
+- Cluster component: none.
+- Read with:
+  - [Certification Pass](core_05.040_band_continuity.md#certification-pass),
+  - [Reopening Trigger](core_05.040_band_continuity.md#reopening-trigger), and
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: a **reopened review** is a certification pass of a System or an Institution that already holds a record, begun before the next scheduled recertification because a [Reopening Trigger](core_05.040_band_continuity.md#reopening-trigger) has fired. It opens a new record linked to the last.*
+
+- **What it is**
+  - **In scope:** A [Certification Pass](core_05.040_band_continuity.md#certification-pass) begun before the next scheduled recertification because a material [Reopening Trigger](core_05.040_band_continuity.md#reopening-trigger) has fired. It runs through the same forum process and ends in an outcome.
+  - **Out of scope:**
+    - a [Recertification](core_05.040_band_continuity.md#recertification), which runs on the schedule; or
+    - a [Fresh Review](core_05.040_band_continuity.md#fresh-review), which the forum orders in answer to a certification defect and which Chapter Nine lists beside reopening —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [Reopening Trigger](core_05.040_band_continuity.md#reopening-trigger); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+  - The triggers and the new record are stated in [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) and [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening); this entry is the Chapter Five meaning only.
+<a id="reopened-review-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the reopened review opens a new record linked to the completed one; and
+    2. it is opened when a material trigger has fired, and not left to the next scheduled recertification.
+<a id="reopened-review-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - delaying a reopened review while a trigger is material; or
+    - using a scheduled recertification in place of a reopened review after a trigger has fired.
+
+---
+
+<a id="reopening-trigger"></a>
+
+#### Reopening Trigger
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) (9.010 §9.2) (*reopening triggers*); read with [Chapter Ten §9.2 Reopening triggers](core_10.000_institutional_alignment_certification.md#92-reopening-triggers) (10.000 §9.2) (*reopening triggers for an Institution*).
+- Cluster component: none.
+- Read with:
+  - [Reopened Review](core_05.040_band_continuity.md#reopened-review), and
+  - [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+
+</details>
+
+<br>
+
+*In plain terms: a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the record.*
+
+- **What it is**
+  - **In scope:** A material change or report of the kinds listed in [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) (and, for an Institution, in [Chapter Ten §9.2 Reopening triggers](core_10.000_institutional_alignment_certification.md#92-reopening-triggers)): a change in the System or its context, something observed or reported, a classification or data-type misalignment, a System Charter or operator governance matter, or an evaluation misalignment. Only a material one reopens. A [Governance Violation](core_05.040_band_continuity.md#governance-violation) is one.
+  - **Out of scope:**
+    - the scheduled recertification date, which is not a trigger —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Reopened Review](core_05.040_band_continuity.md#reopened-review); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
+  - The triggers are stated in [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers); this entry is the Chapter Five meaning only.
+<a id="reopening-trigger-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the record states its reopening triggers; and
+    2. a material trigger opens a [Reopened Review](core_05.040_band_continuity.md#reopened-review).
+<a id="reopening-trigger-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - a record that states no reopening triggers; or
+    - ignoring a material trigger because the next recertification is soon.
+
+---
+
 <a id="residual-risk--misalignment"></a>
 
 #### Residual Risk / Misalignment
@@ -630,6 +1364,90 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary failure:**
     - accepting residual risk that creates scalable [Harm](core_05.035_band_accountability.md#harm) pathways, [Cascading Failure](core_05.040_band_continuity.md#cascading-failure), or unmanaged [Material Risk](core_05.050_band_oversight.md#material-risk); or
     - leftover risk closed merely because some mitigation was applied while scalable harm pathways remain.
+
+---
+
+<a id="tier-window"></a>
+
+#### Tier Window
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows) (9.010 §9.3.4) (*tier windows*); read with [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (14.000 §6) (*timely resolution, materiality tiers, and anti-delay discipline*).
+- Cluster component: none.
+- Read with:
+  - [Certification Pass](core_05.040_band_continuity.md#certification-pass), and
+  - [Interim Protection](core_05.040_band_continuity.md#interim-protection).
+
+</details>
+
+<br>
+
+*In plain terms: a **tier window** is a time limit that runs at a stage of a certification matter, set by the materiality tier the matter is placed in. The tier presumptively matches the class. The **matching intake target** is the intake target of that tier.*
+
+- **What it is**
+  - **In scope:** The times and outer bounds of the materiality tier a certification matter is placed in. The tier presumptively matches the System's class or the Institution's class. The intake target of that tier is the **matching intake target**.
+  - **Out of scope:**
+    - the notice interval before go-live, which scales to class and to what affected sentients need;
+    - the certification interval, which sets how often a certification is renewed; or
+    - the Chapter Fourteen targets and bounds themselves, which Chapter Fourteen owns —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [Interim Protection](core_05.040_band_continuity.md#interim-protection).
+  - The use of tier windows in a certification pass is stated in [Chapter Nine Part C §9.3.4 Tier windows](core_09.010_system_alignment_certification_record_recertification.md#934-tier-windows); the tiers, targets, and bounds are stated in [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); this entry is the Chapter Five meaning only.
+<a id="tier-window-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. a certification matter is placed in the tier that matches the class; and
+    2. an overrun is reviewed as Chapter Fourteen requires.
+<a id="tier-window-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - automation or a screen that extends a tier window or an intake target; or
+    - an overrun that is not reviewed as Chapter Fourteen requires.
+
+---
+
+<a id="urgent-protection"></a>
+
+#### Urgent Protection
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part B §6.2.3 Urgent protection](core_09.005_system_alignment_certification_record_process.md#623-urgent-protection) (9.005 §6.2.3) (*urgent protection*); read with [Chapter Fourteen Interim protection](core_14.000_forum.md#interim-protection) (14.000) (*interim protection while a matter is pending*).
+- Cluster component: none.
+- Read with:
+  - [Stay](core_05.035_band_accountability.md#stay), and
+  - [Reliance Limits](core_05.040_band_continuity.md#reliance-limits).
+
+</details>
+
+<br>
+
+*In plain terms: **urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the record.*
+
+- **What it is**
+  - **In scope:** A [Stay](core_05.035_band_accountability.md#stay), [Interim Protection](core_05.040_band_continuity.md#interim-protection), or [Reliance Limits](core_05.040_band_continuity.md#reliance-limits) measure ordered before the supervisory sequence finishes, to protect affected sentients while a certification matter is pending.
+  - **Out of scope:**
+    - the final outcome of the review; or
+    - the reopening of an Institution's Systems, which stops neither the Institution nor any System —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Stay](core_05.035_band_accountability.md#stay); [Reliance Limits](core_05.040_band_continuity.md#reliance-limits).
+  - The rule is stated in [Chapter Nine Part B §6.2.3 Urgent protection](core_09.005_system_alignment_certification_record_process.md#623-urgent-protection); this entry is the Chapter Five meaning only.
+<a id="urgent-protection-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the order is entered on the record and the sequence still runs.
+<a id="urgent-protection-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - waiting for the sequence to finish before protecting affected sentients; or
+    - letting a protection order replace the review.
 
 ---
 
