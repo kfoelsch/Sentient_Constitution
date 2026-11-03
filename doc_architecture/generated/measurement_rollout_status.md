@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-11-03T03:14:44+00:00
+Generated: 2026-11-03T07:30:46+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **282/282** terms pass tier audit.
+Approved progress: **303/303** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -48,11 +48,17 @@ Approved progress: **282/282** terms pass tier audit.
 | Adoption Transition | approved | primary_only | independent | `core_05.040_band_continuity.md` | yes | pass |
 | Anti-Capture | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Cascading Failure | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Cause Finding | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Certification Condition | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Certification Denial | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Certification Pass | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Certification Revocation | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Challenge Path | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Charter Pointer | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Charter Role Map | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Chartered Party | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Cited System | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Clean Recertification | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Constitutional Charter | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Constitutional Emergency and Contingency | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Cross-System Extraction | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
@@ -65,22 +71,35 @@ Approved progress: **282/282** terms pass tier audit.
 | Emergency Pre-Deliberation Action (Binding Collective Choice) | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Essential-Environment Non-Commodification | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Existential Risk | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Fresh Review | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Full Certification | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Go-Live | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Governance Violation | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Institution | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Institution Class | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Institutional Alignment Certification | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Institutional Certification Record | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Institutional Charter | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Institutional Data Types and Handling | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Institutional Development | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Interim Protection | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Language, Culture, and Heritage | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Lead Forum | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| New Material Authority | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| One-System Evaluation | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Openness Aspiration | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Operator | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Pilot | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Portfolio | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Process | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Proportionate Cross-System Support | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Provisional Certification | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Recertification | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Reliance Limits | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Reopened Review | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Reopening Trigger | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Residual Risk / Misalignment | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Reversibility | approved | primary_secondary | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Review and Correction Duty | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
@@ -104,6 +123,8 @@ Approved progress: **282/282** terms pass tier audit.
 | Systemic | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Systemic Lock-In | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Systemic Materiality | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Tier Window | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
+| Urgent Protection | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 | Voluntary Discontinuation | approved | primary_only | cluster_member | `core_05.040_band_continuity.md` | yes | pass |
 
 ## 3.4 Participation

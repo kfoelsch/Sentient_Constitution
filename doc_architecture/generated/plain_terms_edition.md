@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **758** of **1195** headings carry a gloss (63%).
+Coverage: **760** of **1197** headings carry a gloss (63%).
 
 ## Contents
 
@@ -25,7 +25,7 @@ Coverage: **758** of **1195** headings carry a gloss (63%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (86/98 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (61/122 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (63/124 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (54/69 glossed)
@@ -1825,7 +1825,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 61/122 headings glossed
+Source file: [`core_05.040_band_continuity.md`](../../core_05.040_band_continuity.md) · 63/124 headings glossed
 
 #### Continuity: Independent terms
 
@@ -1917,6 +1917,12 @@ a **governance violation** is the name Chapter Ten gives to an Institution's gov
 
 [Source](../../core_05.040_band_continuity.md#governance-violation)
 
+##### Institution Class
+
+an Institution's class reflects the greatest material impact of what it decides, holds, and controls, whether through its Systems or on its own. Its name, legal form, and chartered list do not determine its class.
+
+[Source](../../core_05.040_band_continuity.md#institution-class)
+
 ##### Institutional Alignment Certification
 
 **institutional alignment certification** is the independent check of an institution, as opposed to one of its systems. It asks whether the institution does what its Institutional Charter says, whether the offices that hold its authority are answerable to someone, and whether the way it rewards its own members pushes toward the Constitution or away from it. It cites the certification of each system the institution runs and does not repeat that work. It never works as a licence: no institution needs permission from it to form or to operate.
@@ -1928,6 +1934,12 @@ a **governance violation** is the name Chapter Ten gives to an Institution's gov
 an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System Certification Records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.
 
 [Source](../../core_05.040_band_continuity.md#institutional-certification-record)
+
+##### Institutional Data Types and Handling
+
+institutional data types and handling cover data an Institution handles outside any System. The evaluation records those data and their handling in the Institutional Certification Record. Data handled inside a System is evaluated once in that System's record and cited by the Institution.
+
+[Source](../../core_05.040_band_continuity.md#institutional-data-types-and-handling)
 
 ##### Interim Protection
 

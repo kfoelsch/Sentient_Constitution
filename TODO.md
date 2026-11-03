@@ -43,9 +43,8 @@ The implementation and signoffs are recorded in [TODO_RESOLVED_2026-10-21.md](ar
 
 ### Audit registry and category report — optional follow-up
 
-Records: `tools/architecture/audit_registry.json`, `tools/audit_report.py`, and `make audit-report`. The original implementation is recorded in the fifty-second move in [doc_architecture.md](doc_architecture.md).
+Records: `tools/architecture/audit_registry.json`, `tools/audit_report.py`, and `make audit-report`. The original implementation is recorded in the fifty-second archived move in [archive/DOC_ARCHITECTURE_MOVES_001-243_ARCHIVED_2026-11-03.md](archive/DOC_ARCHITECTURE_MOVES_001-243_ARCHIVED_2026-11-03.md).
 
-- [ ] Chapter Nine and Ten terminology, what is left after moves 241 to 243 (analysis: Project doc `claude/ch09-ch10-terminology-analysis.md`). Needs the custodian: (a) re-confirm the narrowed **Fresh Review** reading (a later certification pass the forum orders in answer to a certification defect, as one of the responses Chapter Nine Part B §7.2 lists); (b) decide whether a fresh review that finds misalignment steps a System down, sets a cause, and runs on tier windows like a recertification or reopened review (Chapter Nine Part C §9.3.2 to §9.3.4 and Chapter Ten §9.3, §9.5 name only those two), and how the overlap between a certification defect as a reopening trigger (Chapter Nine Part C §9.2) and as a ground for a fresh review (Chapter Nine Part B §7.2) is settled; (c) the rest of the Institution-data-term decision (*Portfolio* and *Operator* are defined; the other terms are not); (d) whether *Urgent Protection* and *Tier Window* belong in Chapter Five (kept but reduced after the independent review).
 
 ### Chapter Seven locks, time windows, and related edits — announcement follow-ups
 
@@ -91,7 +90,10 @@ The completed Option A review and process definitions are in [TODO_RESOLVED_2026
 These remain optional planning questions, not decisions. The prior notes are in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md); the crosswalk has since been reconciled to current headings.
 
 The crosswalk is complete within its stated frame: all 88 second-level Chapter One/Chapter Eight headings and all 50 third-level Chapter One subsections are tagged. The remaining corpus is outside this principles-and-duties comparison; a broader inventory would be separate work. The 70 added tags remain provisional for independent human review. See the [crosswalk](project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md).
-- [ ] Decide whether to define Process with a test, create an index or restructure, gather scattered Process principles, and whether a third Preamble question is needed.
+- [ ] After independent human review of the 70 provisional crosswalk tags, decide whether to publish an object-axis index or routing aid. No principle relocation or restructure is supported by the current evidence.
+- [ ] Decide whether to gather scattered Process principles in a non-normative reader guide.
+- [ ] Revisit whether a third Preamble question is needed only if the process-ownership proposal reveals a concrete gap.
+  - Custodian comment (2026-11-03): direct, explicit routing is a principle candidate for later consideration. This records a candidate, not an adopted core principle.
 The custodian's process-ownership design directions for the supporting proposal are recorded in [the resolved-work archive](archive/TODO_RESOLVED_2026-11-02.md). Exact core placement, wording and scope, human editing, and whether CI-14.205 needs a companion change-record template remain open.
 
 ### Translation synchronization — paused pending settled English
@@ -119,6 +121,7 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
+- **2026-11-03 resolved work:** [archive/TODO_RESOLVED_2026-11-03.md](archive/TODO_RESOLVED_2026-11-03.md)
 - **2026-11-02 resolved work:** [archive/TODO_RESOLVED_2026-11-02.md](archive/TODO_RESOLVED_2026-11-02.md)
 - **2026-11-02 pre-cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-11-02.md](archive/TODO_SNAPSHOT_2026-11-02.md)
 - **2026-10-23 resolved work:** [archive/TODO_RESOLVED_2026-10-23.md](archive/TODO_RESOLVED_2026-10-23.md)

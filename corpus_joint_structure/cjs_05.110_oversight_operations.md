@@ -476,7 +476,7 @@ Audit process output disclosure preference
 <a id="audit-output-anti-concealment"></a>
 Audit-output anti-concealment
 
-*In plain terms: audit-process outputs must remain sufficient, at the applicable level, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and…*
+*In plain terms: audit-process outputs must remain sufficient, at the applicable level, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and unreported material behavior changes.*
 
 - **What it is**
   - **In scope:** Audit-process outputs must remain sufficient, at the applicable level, for reviewers to detect material misrepresentation of class, scope, behavior, compliance, dependency, or risk — including understatement, selective omission, and unreported material behavior change.
@@ -493,7 +493,7 @@ Audit-output anti-concealment
 <a id="class-a-b-c-public-interest-visibility"></a>
 Class A/B/C public-interest visibility
 
-*In plain terms: for Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational…*
+*In plain terms: for Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) must give a usable public view of the system's purpose, class, dependencies, status, material risks, performance, failures, governance, audit outcomes, effects, and constitutional compliance.*
 
 - **What it is**
   - **In scope:** For Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05.050_band_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance — including, at public-baseline fidelity, a usable public view of the governing System Charter, [System Classification Record](../core_05.040_band_continuity.md#system-classification-record), [System Data Types Record](../core_05.040_band_continuity.md#system-data-types-record), and [System Certification Record](../core_05.040_band_continuity.md#system-certification-record) — subject to [CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications) data handling. **Type O** is the publication posture for that floor; **Type E** and **Type G** are source domains, not substitutes for it.
@@ -566,16 +566,16 @@ Restriction scope and justification discipline
 *In plain terms: access restrictions include limits on public visibility, affected-party notice, qualified audit access, forensic reconstruction, evidence review, participation records, or challenge materials.*
 
 - **What it is**
-  - **In scope:** Access restrictions include limits on public visibility, affected-party notice, qualified audit access, forensic reconstruction, evidence review, participation records, or challenge materials. They must be narrow, justified, tied to time or review points, open to audit, and routed to forum review while they persist where they materially affect rights, standing, remedies, survival-critical access, governance authority, or rights-collision issues.
+  - **In scope:** Access restrictions include limits on public visibility, affected-party notice, qualified audit access, forensic reconstruction, evidence review, participation records, or challenge materials. They must be narrow, justified, tied to time or review points, and open to audit. A dispute about access to or the scope of restricted information goes first to the restricted information authority under [CF-14.415 §8](../corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-8-restricted-information-authority) (*Restricted information authority*), with appeal in the related forum. Other restrictions that materially affect rights, standing, remedies, survival-critical access, governance authority, or rights-collision issues must retain the applicable independent or secondary review route under [CF-14.420](../corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md#cf-14420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in restriction scope and justification discipline.
 <a id="restriction-scope-and-justification-discipline-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, the forum-review route where required, and whether less restrictive access levels were considered
+  - **Primary measure:** the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, whether restricted-information disputes use the authority-first and related-forum appeal route or another applicable independent or secondary review route, and whether less restrictive access levels were considered
 
-    **Primary assessment:** Evaluation must verify the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, the forum-review route where required, and whether less restrictive access levels were considered.
+    **Primary assessment:** Evaluation must verify the reason for each restriction, what it covers, affected parties, rights-collision analysis where applicable, how long it lasts, who may review it, whether restricted-information disputes use the authority-first and related-forum appeal route or another applicable independent or secondary review route, and whether less restrictive access levels were considered.
 <a id="restriction-scope-and-justification-discipline-c"></a>
 - **What must hold**
-  - **Primary failure:** Access restrictions when they are broad, indefinite, shielded from qualified or forum review, or maintained by convenience, institutional discomfort, ownership claims, or unresolved migration work.
+  - **Primary failure:** Access restrictions when they are broad, indefinite, shielded from qualified or applicable independent or secondary review, routed around the restricted-information authority, or maintained by convenience, institutional discomfort, ownership claims, or unresolved migration work.
 
 <a id="access-level-structure-and-baseline-accessibility"></a>
 Access-level structure and baseline accessibility
@@ -608,6 +608,7 @@ Access-level structure and baseline accessibility
 - Read with: **[CS-6.305](../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](../corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Topic routing (mandatory read-with): [**CJS-R09** (*Technical Forums and specialist chambers*) in **CJS-0.105 §1** (*Topic router*)](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); standards owner [**CF-14.440** (*Technical specialist forums and specialist chambers*), especially §§3 and 7–10](../corpus_forum/cf_14.440_technical_specialist_forums_specialist_chambers.md#cf-14440-3-core-functions); constitutional standards authority [**Chapter Fourteen §4.2** (*Technical Forum Domains*)](../core_14.000_forum.md#42-technical-forum-domains). Technical Forums publish the reproducibility and replication standards; the lead forum assigned by primary-stakes routing applies them to the case.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-19.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
@@ -688,13 +689,13 @@ Material-claim verification scope
 *In plain terms: material claims about behavior, compliance, impact, safety, reliability, environmental effects, information integrity, governance, or algorithms must be independently verifiable where feasible.*
 
 - **What it is**
-  - **In scope:** Material claims about behavior, compliance, impact, safety, reliability, environmental effects, information integrity, governance, or algorithms must be independently verifiable where feasible. Reproducible testing is required where feasible.
+  - **In scope:** Material claims about behavior, compliance, impact, safety, reliability, environmental effects, information integrity, governance, or algorithms must be independently verifiable where feasible. The required form and degree of reproducibility, including replication where the standard calls for it, are set in published expert-evidence standards by Technical Forums under [Chapter Fourteen §4.2 (*Technical Forum Domains*)](../core_14.000_forum.md#42-technical-forum-domains) and [CF-14.440 (*Technical specialist forums and specialist chambers*), §§3 and 7–10](../corpus_forum/cf_14.440_technical_specialist_forums_specialist_chambers.md#cf-14440-3-core-functions). The lead forum applies the standard to the case; a stricter application remains available where the Constitution or materially distinct facts require it.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in material-claim verification scope.
 <a id="material-claim-verification-scope-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** evaluation must match each claim family with the verification path and evidence standard needed to test it
+  - **Primary measure:** evaluation must match each claim family with the verification path and published Technical Forum evidence standard that governs its reproducibility; the lead forum records any case-specific stricter application or variance with reasons
 
-    **Primary assessment:** Evaluation must match each claim family with the verification path and evidence standard needed to test it.
+    **Primary assessment:** Evaluation must verify that each claim family has a practical independent verification path, that the applicable published Technical Forum standard sets the required reproducibility and replication degree, and that the lead forum applies it or gives reasons for a stricter application or permitted variance.
 <a id="material-claim-verification-scope-c"></a>
 - **What must hold**
   - **Primary failure:** Consequential claims if they are exempted from verification without lawful technical-feasibility grounds.
@@ -702,24 +703,24 @@ Material-claim verification scope
 <a id="reproducibility-and-external-evaluation-viability"></a>
 Reproducibility and external evaluation viability
 
-*In plain terms: evidence and methods must let qualified independent reviewers reproduce results and compare them with alternative evaluations.*
+*In plain terms: evidence and methods must let qualified independent reviewers assess a claim to the reproducibility degree set by the applicable Technical Forum standard, and compare alternative evaluations where appropriate.*
 
 - **What it is**
-  - **In scope:** Evidence and methods must let qualified independent reviewers reproduce results and compare them with alternative evaluations.
+  - **In scope:** Evidence and methods must let qualified independent reviewers assess claims to the reproducibility and replication degree set by the applicable published Technical Forum standard, and compare them with alternative evaluations where appropriate.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in reproducibility and external evaluation viability.
 <a id="reproducibility-and-external-evaluation-viability-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** documentation, data access, assumptions, and limits are sufficient for external review
+  - **Primary measure:** documentation, data access, assumptions, uncertainty, and limits satisfy the applicable standard for the claim type and its required reproducibility degree
 
-    **Primary assessment:** Evaluation must verify that documentation, data access, assumptions, and limits are sufficient for external review.
+    **Primary assessment:** Evaluation must verify that documentation, data access, assumptions, uncertainty, and limits let qualified independent reviewers assess the claim to the degree required by the applicable Technical Forum standard.
 <a id="reproducibility-and-external-evaluation-viability-c"></a>
 - **What must hold**
-  - **Primary failure:** Methods if they are opaque or non-reproducible where reproducibility is feasible.
+  - **Primary failure:** Methods if they are too opaque to meet the applicable Technical Forum standard, or fail its reproducibility requirements where the required degree is feasible.
 
 <a id="structured-claim-testing-reliance-and-correction-integrity"></a>
 Structured claim-testing, reliance, and correction integrity
 
-*In plain terms: material empirical, analytical, technical, methodological, safety-relevant, policy-relevant, dependency-relevant, or rights-relevant claims must have a versioned evidence package, structured review dimensions, conflict controls, visible…*
+*In plain terms: material empirical, analytical, technical, methodological, safety-relevant, policy-relevant, dependency-relevant, or rights-relevant claims need versioned evidence, structured review, conflict controls, visible reliance status, and correction or supersession paths proportionate to impact.*
 
 - **What it is**
   - **In scope:** Material empirical, analytical, technical, methodological, safety-relevant, policy-relevant, dependency-relevant, or rights-relevant claims must have a versioned evidence package, structured review dimensions, conflict controls, visible reliance status, and correction or supersession pathways proportionate to impact.
@@ -795,7 +796,7 @@ Use this rule for **CJS-R19** (*integrity assurance and resilience operations*),
 <a id="integrity-assurance-and-resilience-operations"></a>
 integrity assurance and resilience operations
 
-*In plain terms: integrity claims depend on the whole relevant chain, including records, access, classification, stewardship, challenge, or adjudication within a standalone implementation scope and where those functions are split across systems,…*
+*In plain terms: integrity claims depend on the whole relevant chain, including records, access, classification, stewardship, challenge, or adjudication within one implementation scope and across systems, institutions, dependencies, or implementation layers.*
 
 - **What it is**
   - **In scope:** Integrity claims depend on the whole relevant chain, including records, access, classification, stewardship, challenge, or adjudication within a standalone implementation scope and where those functions are split across systems, institutions, dependencies, or implementation layers.
@@ -846,7 +847,7 @@ Audit reconstruction and access-level continuity
 <a id="class-scaled-contest-monitor-independence-and-mandate"></a>
 Class-scaled contest-monitor independence and mandate
 
-*In plain terms: where Class A or Class B systems, high-impact institutional decisions, or forum-adjacent pathways require contest-integrity monitoring, the monitoring function must have a published mandate, independence or functional independence from…*
+*In plain terms: where Class A or Class B systems, high-impact institutional decisions, or forum-adjacent pathways require contest-integrity monitoring, the monitor needs a published mandate, independence from the contested operation, limits on merits decisions, and a reporting route to assurance or equivalent review.*
 
 - **What it is**
   - **In scope:** Where Class A or Class B systems, high-impact institutional decisions, or forum-adjacent pathways require contest-integrity monitoring, the monitoring function must have a published mandate, independence or functional independence from the contested operational scope, explicit limits on merits adjudication unless separately authorized, and a reporting path into an assurance or equivalent review line.
@@ -897,7 +898,7 @@ Contest-integrity pathway chain
 <a id="control-failure-declaration-chain"></a>
 Control-failure declaration chain
 
-*In plain terms: when a material control failure affects rights pathways, contestability, continuity, evidence integrity, supervised systems, or implementation-layer duties, the owner text must require a current declaration that states the failure,…*
+*In plain terms: when a material control failure affects rights pathways, contestability, continuity, evidence integrity, supervised systems, or implementation duties, the owner text must require a current declaration stating the failure, its impact, containment, remediation, and any unresolved safeguard mode.*
 
 - **What it is**
   - **In scope:** When a material control failure affects rights pathways, contestability, continuity, evidence integrity, supervised systems, or implementation-layer duties, the owner text must require a current declaration that states the failure, impact, containment posture, remediation path, and unresolved safeguard mode.
@@ -914,7 +915,7 @@ Control-failure declaration chain
 <a id="cross-institution-coordination-and-escalation-chain"></a>
 Cross-institution coordination and escalation chain
 
-*In plain terms: where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, the implementation corpus must provide a published coordination and escalation…*
+*In plain terms: where institutions share jurisdiction, evidence custody, review, enforcement support, investigation, or forum-adjacent routing, the implementation corpus must provide a published coordination and escalation protocol instead of leaving overlapping owners to improvise.*
 
 - **What it is**
   - **In scope:** Where institutions share jurisdiction, evidence custody, review responsibility, enforcement support, investigative interface, or forum-adjacent routing, the implementation corpus must provide a published coordination and escalation protocol rather than leaving overlapping owners to improvise after conflict arises.
@@ -948,7 +949,7 @@ External assurance trigger minimum
 <a id="incident-and-assurance-notification-urgency-nu"></a>
 Incident and assurance notification urgency (NU)
 
-*In plain terms: material control failures, integrity incidents, data-handling incidents, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and…*
+*In plain terms: material control failures, integrity incidents, data-handling incidents, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data sensitivity, dependency, and class.*
 
 - **What it is**
   - **In scope:** Material control failures, integrity incidents, data-handling incidents, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and class. Routine annual or other baseline attestations do not replace incident-driven notice. Institutions must publish default **Notification Urgency** (**NU**) aligned with Correction Urgency (**CU**) discipline in **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*) where both apply: **NU-1** through **NU-3** take the same tier columns as **CU-1** through **CU-3**.
@@ -982,7 +983,7 @@ Independent verification path integrity
 <a id="influence-contact-and-lobbying-boundaries"></a>
 Influence-contact and lobbying boundaries
 
-*In plain terms: where an interested party could materially shape a governing, adjudicative, interpretive, oversight, procurement, audit, agenda-setting, or appointment decision through contact with a member, panelist, staff member, facilitator, briefing…*
+*In plain terms: where an interested party could materially shape a governing, adjudicative, interpretive, oversight, procurement, audit, agenda-setting, or appointment decision through contact with a decision participant, staff member, facilitator, briefing source, or appointing authority, the owner text must set contact and disclosure rules while preserving lawful advocacy.*
 
 - **What it is**
   - **In scope:** Where an [interested party](../core_05.035_band_accountability.md#interested-party) could materially shape a governing, adjudicative, interpretive, oversight, procurement, audit, agenda-setting, or appointment decision through contact with a member, panelist, staff member, facilitator, briefing source, or appointing authority, the owner text must maintain published contact rules, an independent contact record, disclosure of material contacts in the matter record, routing of offers and pressure as integrity triggers, post-service and prospective-role conflict rules, rules for contact made by, through, or at the scale of a system (including approach aimed at systems the body uses), and a lawful-advocacy carve-out.
@@ -999,7 +1000,7 @@ Influence-contact and lobbying boundaries
 <a id="integrity-trigger-routing-chain"></a>
 Integrity-trigger routing chain
 
-*In plain terms: when a material integrity trigger may involve institutional controls, system classification or stewardship, forum-side investigation, independent assurance, protected escalation, or sanctions, the implementation corpus must route the…*
+*In plain terms: when a material integrity trigger may involve institutional controls, system classification or stewardship, forum-side investigation, independent assurance, protected escalation, or sanctions, the implementation corpus must route the matter as one traceable chain rather than separate owner-file silos.*
 
 - **What it is**
   - **In scope:** When a material integrity trigger may involve institutional controls, system classification or stewardship, forum-side investigation, independent assurance, protected escalation, or sanctions, the implementation corpus must route the matter as one traceable chain instead of treating each owner file as a separate silo.
@@ -1016,7 +1017,7 @@ Integrity-trigger routing chain
 <a id="property-custody-and-incentive-separation-control-chain"></a>
 Property-custody and incentive-separation control chain
 
-*In plain terms: where an implementation pathway uses seizure, impoundment, quarantine, forfeiture, voluntary turnover incentives, bounty-like payments, custody of restricted assets, or comparable compliance-linked deprivation, that implementation pathway must keep…*
+*In plain terms: where an implementation pathway uses seizure, impoundment, quarantine, forfeiture, turnover incentives, bounty-like payments, or custody of restricted assets, it must keep eligibility, custody, enforcement, payout, contest, time limits, and audit records traceable and sufficiently separate to reduce false claims, collusion, selective targeting, and capture.*
 
 - **What it is**
   - **In scope:** Where an implementation pathway uses seizure, impoundment, quarantine, forfeiture, voluntary turnover incentives, bounty-like payments, custody of restricted assets, or comparable compliance-linked deprivation, that implementation pathway must keep eligibility criteria, custody authority, incentive adjudication, enforcement execution, fund disbursement, contest access, time limits, and audit records structurally traceable and, where practical, separated enough to reduce false-claim pressure, collusion, selective targeting, and capture.
@@ -1033,7 +1034,7 @@ Property-custody and incentive-separation control chain
 <a id="selection-funding-integrity-controls"></a>
 Selection-funding integrity controls
 
-*In plain terms: where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment, the owner text must maintain an eligible-source rule, an outside-influence bar, anti-circumvention rules, a published…*
+*In plain terms: where campaigning, nomination, or competitive appointment selects governing authority, the owner text must set eligible-source and outside-influence rules, prevent circumvention, publish donor limits and sources, provide independent audit and outcome review, and route violations as integrity triggers.*
 
 - **What it is**
   - **In scope:** Where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment, the owner text must maintain an eligible-source rule, an outside-influence bar, anti-circumvention rules, a published donor cap and third-party limit, a public register of real sources, independent audit, an outcome review, and routing of violations as integrity triggers.
@@ -1042,7 +1043,7 @@ Selection-funding integrity controls
 - **How to measure and assess**
   - **Primary measure:** the share of selection funds by source type, the share supplied by the largest donors, the donor cap and third-party limit against their defaults with published reasons for any departure, time from gift to public register entry, aggregation of related donors, protected-identity requests and their verification, audit, clawback, and disqualification outcomes, and the outcome review, including any shift of funding into channels the rules do not cover
 
-    **Primary assessment:** Evaluation must verify the the share of selection funds by source type, the share supplied by the largest donors, the donor cap and third-party limit against their defaults with published reasons for any departure, time from gift to public register entry, aggregation of related donors, protected-identity requests and their verification, audit, clawback, and disqualification outcomes, and the outcome review, including any shift of funding into channels the rules do not cover.
+    **Primary assessment:** Evaluation must verify the share of selection funds by source type, the share supplied by the largest donors, the donor cap and third-party limit against their defaults with published reasons for any departure, time from gift to public register entry, aggregation of related donors, protected-identity requests and their verification, audit, clawback, and disqualification outcomes, and the outcome review, including any shift of funding into channels the rules do not cover.
 <a id="selection-funding-integrity-controls-c"></a>
 - **What must hold**
   - **Primary failure:** Treat selection funding as controlled when the register names only intermediaries, when institutional or outside money enters through owners, employees, loans, in-kind support, or third parties, when the audit body answers to the candidates or appointers it audits, when a protected-identity route hides the amount or the fact of a gift, when a cap or limit departs from its default without published reasons, or when the outcome review checks compliance only and never looks for leaks.
@@ -1050,7 +1051,7 @@ Selection-funding integrity controls
 <a id="shared-anti-capture-control-stack"></a>
 Shared anti-capture control stack
 
-*In plain terms: where corruption, fraud, self-dealing, procurement capture, assurance capture, concealed-interest abuse, retaliation-linked concealment, or comparable integrity failure could materially affect implementation duties, the relevant owner…*
+*In plain terms: where corruption, fraud, self-dealing, procurement or assurance capture, concealed-interest abuse, retaliation-linked concealment, or similar failures could materially affect implementation, the owner text must map controls, protect intake and evidence, and assign accountable response duties.*
 
 - **What it is**
   - **In scope:** Where corruption, fraud, self-dealing, procurement capture, assurance capture, concealed-interest abuse, retaliation-linked concealment, or comparable integrity failure could materially affect implementation duties, the relevant owner text must maintain a risk-scoped control map, sensitive-activity controls, protected intake, evidence custody, and accountable response duties.
@@ -1067,7 +1068,7 @@ Shared anti-capture control stack
 <a id="sortition-and-civic-lottery-integrity-controls"></a>
 Sortition and civic-lottery integrity controls
 
-*In plain terms: where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must…*
+*In plain terms: where sortition or another randomized selection materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the process must protect the draw, eligibility, independence, participants, and routes to contest selection failure or manipulation.*
 
 - **What it is**
   - **In scope:** Where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must protect randomization integrity, eligibility and exclusion rules, replacement and rotation rules, participant access supports, briefing-source independence, facilitator and staff separation, contact and lobbying boundaries (the strictest level of Influence-contact and lobbying boundaries), intimidation safeguards, post-service benefit controls, and contest routes for selection failure, manipulation, capture, or procedural distortion.
@@ -1084,7 +1085,7 @@ Sortition and civic-lottery integrity controls
 <a id="three-lines-assurance-model"></a>
 Three-lines assurance model
 
-*In plain terms: where implementation duties require operational ownership, independent risk or compliance challenge, and independent assurance, those lines must remain distinguishable and must not collapse into a single self-certifying lane without a…*
+*In plain terms: where implementation duties require operational ownership, independent risk or compliance challenge, and independent assurance, those lines must remain distinct and must not collapse into one self-certifying lane without a documented independence safeguard.*
 
 - **What it is**
   - **In scope:** Where implementation duties require operational ownership, independent risk or compliance challenge, and independent assurance, those lines must remain distinguishable and must not collapse into a single self-certifying lane without a documented independence safeguard.

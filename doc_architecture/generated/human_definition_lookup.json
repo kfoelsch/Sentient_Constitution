@@ -117,7 +117,7 @@
       "href": "../../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 302,
+  "term_count": 304,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -1093,6 +1093,13 @@
       "href": "../../core_05.040_band_continuity.md#institution"
     },
     {
+      "term": "Institution Class",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#institution-class",
+      "plain_terms": "an Institution's class reflects the greatest material impact of what it decides, holds, and controls, whether through its Systems or on its own. Its name, legal form, and chartered list do not determine its class.",
+      "href": "../../core_05.040_band_continuity.md#institution-class"
+    },
+    {
       "term": "Institutional Alignment Certification",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#institutional-alignment-certification",
@@ -1119,6 +1126,13 @@
       "anchor": "#institutional-charter",
       "plain_terms": "an **Institutional Charter** is the published statement of what an institution runs and why. It holds the System Charter of every system the institution runs, and it explains why the institution runs those particular systems. An institution with only one system has no separate Institutional Charter: its System Charter covers both the system and the institution.",
       "href": "../../core_05.040_band_continuity.md#institutional-charter"
+    },
+    {
+      "term": "Institutional Data Types and Handling",
+      "file": "core_05.040_band_continuity.md",
+      "anchor": "#institutional-data-types-and-handling",
+      "plain_terms": "institutional data types and handling cover data an Institution handles outside any System. The evaluation records those data and their handling in the Institutional Certification Record. Data handled inside a System is evaluated once in that System's record and cited by the Institution.",
+      "href": "../../core_05.040_band_continuity.md#institutional-data-types-and-handling"
     },
     {
       "term": "Institutional Development",

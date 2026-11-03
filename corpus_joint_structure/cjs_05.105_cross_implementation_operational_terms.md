@@ -73,7 +73,7 @@ Two preface terms are pinned at the top of this section in functional reading or
 <a id="competency-bar-clearance-and-standing-interface"></a>
 Competency bar, clearance, and standing interface
 
-*In plain terms: access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must hold any applicable [Chapter Twelve…*
+*In plain terms: before taking a trust-sensitive role, delegated authority, oversight eligibility, enhanced recognition, or consequential stewardship, a sentient must meet the applicable Chapter Twelve competency clearance and standing-lock requirements.*
 
 - **What it is**
   - **In scope:** Access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must hold any applicable [Chapter Twelve §6.2 Competency bars and clearances](../core_12.000_standing_integration.md#62-competency-bars-and-clearances) competency clearance against the published competency bar, subject first to any controlling [Chapter Twelve §4.2 Prevention — general standing locks](../core_12.000_standing_integration.md#42-prevention--general-standing-locks) or [§5.5 Special locks](../core_12.000_standing_integration.md#55-special-locks) standing lock.
@@ -143,7 +143,7 @@ Authorized role
 <a id="constitutional-enforcement-role"></a>
 Constitutional enforcement role
 
-*In plain terms: a constitutional enforcement role implements constitutional duties, forum orders, Rights-Floor protections, system-alignment conditions, institutional-compliance measures, evidence-preservation duties, anti-capture remedies,…*
+*In plain terms: a constitutional enforcement role carries out constitutionally grounded duties and orders, including Rights-Floor protections, alignment conditions, institutional-compliance measures, evidence preservation, and anti-capture remedies, within its lawful authority.*
 
 - **What it is**
   - **In scope:** A constitutional enforcement role implements constitutional duties, forum orders, Rights-Floor protections, system-alignment conditions, institutional-compliance measures, evidence-preservation duties, anti-capture remedies, cross-jurisdiction obligations, or comparable constitutionally grounded enforcement steps. It often requires technical standards, audit trails, forensic methods, system records, disclosure controls, and compliance architecture.
@@ -160,7 +160,7 @@ Constitutional enforcement role
 <a id="constitutional-lane"></a>
 Constitutional lane
 
-*In plain terms: a constitutional lane is a **CI-8.205** (*Institutional design, separation of powers, and authority custody*) functional separation with constitutionally binding duties, such as direction and policy, execution, challenge and review,…*
+*In plain terms: a constitutional lane is a functional separation under **CI-8.205** (*Institutional design, separation of powers, and authority custody*) for binding duties such as policy, execution, challenge and review, assurance and audit, publication and evidence work, or forum-adjacent support.*
 
 - **What it is**
   - **In scope:** A constitutional lane is a **CI-8.205** (*Institutional design, separation of powers, and authority custody*) functional separation with constitutionally binding duties, such as direction and policy, execution, challenge and review, assurance and audit, publication and evidence work, or forum-adjacent support.
@@ -194,7 +194,7 @@ Critical system steward
 <a id="delegated-body-and-forum-role-pointer"></a>
 Delegated body and forum-role pointer
 
-*In plain terms: delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-5.125 §13** (*Accountability: procedural integrity and adjudication terms*)…*
+*In plain terms: delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-5.125 §13** (*Accountability: procedural integrity and adjudication terms*), after the role's authority, competency clearance, and standing status are checked.*
 
 - **What it is**
   - **In scope:** Delegated binding bodies, lawful independent forums, backup activation, and representative treatment use the procedural definitions and compliance tests in **CJS-5.125 §13** (*Accountability: procedural integrity and adjudication terms*) after this role preface is satisfied.
@@ -211,7 +211,7 @@ Delegated body and forum-role pointer
 <a id="deposition-facilitator-or-record-preserving-testimony-role"></a>
 Deposition facilitator or record-preserving testimony role
 
-*In plain terms: a deposition facilitator, recorder, notary-equivalent, interpreter, community record steward, or similar testimony-support role may preserve testimony without holding merits, sanction, compulsion, or forum-decision authority unless…*
+*In plain terms: a deposition facilitator, recorder, notary-equivalent, interpreter, community record steward, or similar testimony-support role may preserve testimony without merits, sanction, compulsion, or forum-decision authority unless separately authorized.*
 
 - **What it is**
   - **In scope:** A deposition facilitator, recorder, notary-equivalent, interpreter, community record steward, or similar testimony-support role may preserve testimony without holding merits, sanction, compulsion, or forum-decision authority unless separately authorized. The competency bar may be lower than for a forum member when the role is limited to notice, neutral session administration, identity and consent checks, recording integrity, accessibility support, objection logging, exhibit handling, and preservation of the record.
@@ -279,7 +279,7 @@ Operational enforcement role
 <a id="oversight-or-support-role"></a>
 Oversight or support role
 
-*In plain terms: an oversight or support role monitors, audits, investigates, provides forensic or technical assistance, preserves records, or supports review without making binding merits determinations within the meaning of [Merits…*
+*In plain terms: an oversight or support role monitors, audits, investigates, provides forensic or technical assistance, preserves records, or supports review without making binding merits determinations, unless separately authorized.*
 
 - **What it is**
   - **In scope:** An oversight or support role monitors, audits, investigates, provides forensic or technical assistance, preserves records, or supports review without making binding merits determinations within the meaning of [Merits Determination](../core_05.035_band_accountability.md#merits-determination) unless separately authorized.

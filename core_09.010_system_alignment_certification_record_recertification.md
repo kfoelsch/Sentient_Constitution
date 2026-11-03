@@ -275,7 +275,7 @@ The record must identify, at minimum:
   - how it was resolved, or why it remains open; and
   - any certification condition, reliance limit, or reopening trigger it produced;
 - **Review submissions log:** the log kept under [Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review), published with the record;
-- **Cause finding:** where the review, a recertification, or a reopened review found misalignment or a defect (see [§9.3.3 Cause of misalignment](#933-cause-of-misalignment)):
+- **Cause finding:** where the review, a recertification, a reopened review, or a fresh review found misalignment or a defect (see [§9.3.3 Cause of misalignment](#933-cause-of-misalignment)):
   - whether the misalignment or defect is design-caused, operating-caused, or not yet determined; and
   - the evidence relied on;
 - **Remediation readiness:** where misalignment or a defect was found ([Part B §7.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#73-remediation-readiness-willingness-and-capacity-to-correct)):
@@ -492,7 +492,7 @@ Certification is held in one of two statuses. Each has its own certification int
 
 - **[Provisional certification](core_05.040_band_continuity.md#provisional-certification)** is the status of:
   - a system's first certification, including a newly deployed system; and
-  - a system certified after a failed recertification, or after a reopened review that found misalignment.
+  - a system certified after a failed recertification, or after a reopened review or fresh review that found misalignment.
 
   Provisional certification runs on a provisional interval, shorter than the full certification interval for the same system class. Reliance limits are stated on the record.
 - **[Full certification](core_05.040_band_continuity.md#full-certification)** is earned only at a recertification of a system holding provisional certification, and only where all three of these hold:
@@ -511,7 +511,7 @@ A recertification is **clean** when it meets requirements 2 and 3.
 >
 > | | Provisional certification | Full certification |
 > |---|-------------------------|------------------|
-> | **Who holds it** | A first certification, including a newly deployed system; a system certified after a failed recertification or a reopened review that found misalignment | A system that earned it at a recertification while holding provisional certification |
+> | **Who holds it** | A first certification, including a newly deployed system; a system certified after a failed recertification or a reopened or fresh review that found misalignment | A system that earned it at a recertification while holding provisional certification |
 > | **How it is earned** | Granted with a certification outcome | Required number of consecutive clean provisional recertifications (at least one), no current misalignment, and no indicator of impending misalignment |
 > | **Certification interval** | Provisional interval, shorter than the full certification interval for the same system class | The system-class-scaled interval; still time-bound |
 > | **If a recertification fails** | Consequences under Part B §7 apply; next certification is provisional and the clean count restarts at zero | Consequences under Part B §7 apply; next certification is provisional and the clean count restarts at zero |
@@ -523,17 +523,18 @@ A recertification is **clean** when it meets requirements 2 and 3.
 
 ##### 9.3.2 Failure and step-down
 
-What a recertification or a reopened review finds decides what happens to the system's status:
+What a recertification, reopened review, or fresh review finds decides what happens to the system's status:
 
 - A recertification that finds current misalignment is a **failed** recertification. The consequences in [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) apply. The next certification the system can earn is provisional certification, however clean the next check is. Its count of clean recertifications restarts at zero.
 - A recertification that finds no current misalignment but shows an indicator of impending misalignment is not a failure, and it is not clean. A system holding provisional certification stays provisional, and its count does not advance. A system holding full certification steps down to provisional certification.
 - A reopened review under [§9 Recertification and Reopening](#9-recertification-and-reopening) that finds misalignment has the same effect as a failed recertification.
+- A fresh review of a system that holds certification and finds current misalignment has the same effect as a failed recertification. If the system holds no certification status, the denial rules in [Part B §7.4 Denial and Revocation](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation) apply.
 
 <a id="933-cause-of-misalignment"></a>
 
 ##### 9.3.3 Cause of misalignment
 
-Where an evaluation, a recertification, or a reopened review finds misalignment, the record states its cause as one of:
+Where an evaluation, a recertification, a reopened review, or a fresh review finds misalignment, the record states its cause as one of:
 
 - **design-caused:** the system or its process is built so that it produces misaligned results even when run as intended;
 - **operating-caused:** the design is sound on its face, but the way the system is run, fed, or maintained makes its results misaligned; or
@@ -558,7 +559,7 @@ This adds to the step-down bullets above and does not replace them. The operator
 
 ##### 9.3.4 Tier windows
 
-Where an initial evaluation, a recertification, or a reopened review finds misalignment:
+Where an initial evaluation, a recertification, a reopened review, or a fresh review finds misalignment:
 
 - the matter is classified under the materiality tiers of [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline);
 - it is presumptively placed in the tier that matches the system's class (for example, a misaligned Class A system is presumptively Tier A);
