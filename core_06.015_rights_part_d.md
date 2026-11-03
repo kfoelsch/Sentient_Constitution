@@ -942,7 +942,7 @@ This Article sets out the grounds for refuge and the duties of receiving regimes
   - **Climate-unlivability decisions:** An adopter that addresses climate-unlivability refuge must do so in published, contestable terms. That decision:
     - is not a Rights-Floor grant of climate refuge, and does not treat climate, by itself, as material non-compliance of a regime;
     - does not require proving that weather violated this Constitution;
-    - must not narrow the grounds above where origin-regime practice is materially non-compliant;
+    - must not narrow the protected grounds above where origin-regime practice is materially non-compliant;
     - must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
     - must not extinguish **Movement and Relocation** under **Article XXII-A** (*Movement and Relocation*) where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
   - Operational procedures for cross-regime recognition are left to adopted implementation text under **Chapter Nineteen**.
@@ -987,7 +987,7 @@ This Article sets out the non-statelessness floor:
 - **Survives structural breaks:** Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection.
 - **Restricted-status recognition:** Where documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community is present, regimes may impose conditions, monitoring, or restricted status on recognition.
   - These must not extinguish core Rights-Floor, **Redress and Remediation**, and **Procedural Fairness** protections.
-  - Restricted status must not be fabricated or applied under a mislabeled ground.
+  - Restricted status must not be fabricated or applied under a mislabeled basis.
 - **Out of scope:** This floor does not secure:
   - a preferred citizenship or a choice among regimes;
   - full political franchise beyond baseline Rights-Floor recognition;

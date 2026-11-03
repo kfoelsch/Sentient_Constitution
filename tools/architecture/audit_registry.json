@@ -878,6 +878,16 @@
       "category": "tests",
       "run": "auto",
       "writes": false
+    },
+    "chart-orientation-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
+    "chart-orientation-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
     }
   }
 }

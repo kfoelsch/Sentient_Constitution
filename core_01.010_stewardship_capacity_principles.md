@@ -487,10 +487,10 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
   - Where capture cannot yet be automatic, the sentient acting makes the record at the time of the act, not afterward from memory.
 - **What is not restricted is available at once:**
   - Information that no lawful restriction holds back is made available when the act is taken, to those entitled to see it. Nobody has to ask for it first.
-  - A restriction needs a lawful ground, stated and recorded at the time. It holds back only what the ground covers, never the whole record.
+  - A restriction needs a lawful ground for restricting disclosure, stated and recorded at the time. It holds back only information within that restriction's scope, never the whole record.
 - **What is restricted still leaves a trace:**
-  - From the moment of the act, a visible marker shows that an act was taken, that part of the record is held back, on what stated ground, and by what route the rest will later be released or reconstructed.
-  - Where the lawful ground itself bars even the marker, the ground is still recorded at the time of the act, and the marker appears when the bar ends.
+  - From the moment of the act, a visible marker shows that an act was taken, that part of the record is held back, on what stated ground for restricting disclosure, and by what route the rest will later be released or reconstructed.
+  - Where the lawful ground for withholding the record itself bars even the marker, that basis is still recorded at the time of the act, and the marker appears when the bar ends.
 - **Automation carries the burden, not the steward:**
   - Recording is a design duty on the system, scaled to [Materiality](core_05.050_band_oversight.md#materiality) and [Dependency](core_05.040_band_continuity.md#dependency).
   - A record that costs a steward extra hours after every act is an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) defect where capture was feasible and was not built. The fix is to build the capture, not to ask for more diligence.

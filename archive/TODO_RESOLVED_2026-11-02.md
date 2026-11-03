@@ -20,3 +20,31 @@ Decided and signed off by the steward in session later on 2026-11-02, each on th
 - **A7, Chapter Ten §3 item 8:** a route must answer inside the times the Institution states, and those times may not be longer than the floor timing for its class (Article XXVI-C; CF-14.445 §3.1); a longer stated time is itself a finding.
 - **A8 and B11, Class P reclassification:** the reclassification lasts from the notice until the notice is withdrawn before clearance or the authority is not cleared, provided nothing under it was exercised; the Institution then returns to Class P and the limited first certification ends; a new notice starts it again. The first-certification window for a reclassified Class P Institution runs from the notice, never from an Adoption Transition window that has already ended (§1.1, §1.3, §9.2.2).
 - **B12, two notices:** after a denial or revocation the §7.5 item 2 notice and the §9.6 notice are one notice with two purposes; the lead forum that publishes the outcome sees that it is given, and where §9.6 applies it carries the reopening request and runs on the §9.6 giver, clock and defaults; the *Systems notified* entry covers both.
+
+## Chapter Ten illustrations re-read
+
+Re-read CS-9.320 §12 and Chapter Ten §9.2.2's reader-guide figure against the Chapter Nine and Ten changes (2026-11-02). The §12 multi-System walkthrough combined the general reopening rule with the exception for a System already inside a certification pass in a way that could imply both a new reopened pass and no second pass. It now states the exception as a separate condition, matching Chapter Ten §9.6. The §9.2.2 figure was consistent as a concise process summary. No rule changed.
+
+## GROUND-QUALIFIED-01 baseline cleanup, first batch
+
+Five clear bare-ground findings were removed by naming the Rights Floor, protected grounds, and grounds for restricting disclosure, or by replacing a vague reference with the restriction's scope (Chapter One §§12 and 16.4). The baseline was regenerated shrink-only; 51 findings remain across 21 files for contextual review. No duty or threshold changed.
+
+## GROUND-QUALIFIED-01 baseline cleanup completed
+
+Completed the contextual review of the remaining 51 findings across 21 files (2026-11-02). Each bare use was clarified from its source context: naming a protected characteristic, Interim Hold or permanent-lock ground, consequence trigger, reason, basis, or restriction as applicable. The shrink-only baseline now has zero entries. No duty, threshold, clock, or scope changed.
+
+## Optional changed-file audit report
+
+Added `python3 tools/audit_report.py --changed` with `--base` (default `origin/main`). It combines branch changes since the merge base with staged, unstaged, and untracked files. For corpus-only changes, it selects report targets by the registered audit scopes while each selected audit still reads its declared full corpus. Generator freshness checks run on corpus edits. If changes include non-corpus files or a target lacks a scope mapping, the report conservatively runs the full requested scope. The default `make audit-report` and regression gate remain full-corpus.
+
+## Process-ownership and Option B crosswalk
+
+The working process-ownership draft connects its floor-touching test to the **Standard Process Recognition** post-adoption outline and distinguishes forum questions for ruling under Chapter Fourteen §5 from System Alignment Certification. On 2026-11-02, the custodian resolved the six design directions for the supporting proposal: retain the narrow four-trigger floor-touching test and assess cumulative practical effects; allow any materially affected sentient to file and participate under existing participation/standing rules; allow a procedure owner to challenge demands that materially affect its assigned procedure or duties; use existing Chapter Fourteen §6/§6.1 windows without a second schedule or new emergency exception; and have a human edit any core text. The working draft records these directions. The core wording, scope and placement, and whether CI-14.205 needs a companion change-record template remain open in TODO. The crosswalk remains complete within its stated Chapter One/Chapter Eight frame; its 70 added tags await independent human review.
+
+## Chart orientation audit
+
+Added the whole-corpus `VIS-CHART-ORIENT-04` audit, regression target, exception-note convention, and focused tests. The translation-copy policy is to bring charts into line when each translation is next updated; translation work remains paused.
+
+## Process/system/institution crosswalk confidence review
+
+Reconciled the crosswalk to all 88 current Chapter One and Chapter Eight second-level headings: corrected all 68 carried-forward source references by title and added 20 missing headings. Second-read all 25 carried-forward medium- and low-confidence classifications; the three former low-confidence tags were reassessed at medium confidence, and tags/rationales were updated where the full text supported it. Added provisional tags for all 20 added second-level headings and all 50 third-level Chapter One subsections. The crosswalk now covers all 138 headings in its Chapter One/Chapter Eight frame; the 70 added rows await independent human review. Kept the crosswalk bounded to the principles-and-duties comparison in its title; extending it to the remaining corpus would be separate work.
