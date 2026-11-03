@@ -1,6 +1,6 @@
 # MEMLOG
 
-**2026-10-23 follow-up:** Completed decisions are archived in [MEMLOG_RESOLVED_2026-10-23.md](../archive/MEMLOG_RESOLVED_2026-10-23.md). Open work: conduct and independently review the redesigned human operator sitting; await settled chapters for D03. See [TODO.md](../TODO.md).
+**2026-11-02 cleanup:** This file keeps standing decisions and current context; completed session detail remains in dated archives. Open actions are tracked in [TODO.md](../TODO.md). The pre-cleanup state is preserved in [MEMLOG_SNAPSHOT_2026-11-02.md](../archive/MEMLOG_SNAPSHOT_2026-11-02.md).
 
 ## Purpose
 
@@ -46,6 +46,7 @@ Earlier completed session detail is preserved in [MEMLOG_SNAPSHOT_2026-10-21.md]
 
 ## Archive Index
 
+- **2026-11-02 pre-cleanup snapshot:** [archive/MEMLOG_SNAPSHOT_2026-11-02.md](../archive/MEMLOG_SNAPSHOT_2026-11-02.md)
 - **2026-11-01 applied drafts:** [archive/LOBBYING_BOUNDARIES_DRAFT_APPLIED_2026-11-01.md](../archive/LOBBYING_BOUNDARIES_DRAFT_APPLIED_2026-11-01.md) (now Article XII-E), [archive/RECORD_INTEGRITY_PRINCIPLE_DRAFT_APPLIED_2026-11-01.md](../archive/RECORD_INTEGRITY_PRINCIPLE_DRAFT_APPLIED_2026-11-01.md) (now Record Integrity, Chapter Five), [archive/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS_APPLIED_2026-11-01.md](../archive/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS_APPLIED_2026-11-01.md), [archive/RECORD_OVERVIEW_PLAN_APPLIED_2026-11-01.md](../archive/RECORD_OVERVIEW_PLAN_APPLIED_2026-11-01.md) (now `guides/RECORD_OVERVIEW.md`)
 - **2026-11-01 superseded draft:** [archive/ARTICLE_VIII_PLAIN_LANGUAGE_DRAFT_ARCHIVED_2026-11-01.md](../archive/ARTICLE_VIII_PLAIN_LANGUAGE_DRAFT_ARCHIVED_2026-11-01.md) (the Article's own *In plain terms* lines and the generated plain-terms edition cover it)
 - **2026-10-23 resolved work:** [archive/MEMLOG_RESOLVED_2026-10-23.md](../archive/MEMLOG_RESOLVED_2026-10-23.md)

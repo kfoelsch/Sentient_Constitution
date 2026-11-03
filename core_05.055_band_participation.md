@@ -1425,7 +1425,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
     - proxy discrimination; and
     - high-salience [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) risks.
 
-    Detect punishment, exclusion, or access denial **mainly because** of any of the following — including disadvantage aimed at individuals, groups, or institutions on that ground — without constitutionally sufficient justification:
+    Detect punishment, exclusion, or access denial **mainly because** of any of the following — including disadvantage aimed at individuals, groups, or institutions because of that protected characteristic — without constitutionally sufficient justification:
     - lawful employment;
     - employment history;
     - lawful work status;
@@ -1541,7 +1541,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
 
     Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 
-    Treat rules that look neutral but mainly target that protected work as dodging **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) when they are not based on one of these grounds:
+    Treat rules that look neutral but mainly target that protected work as dodging **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) when they are not based on one of the three listed bases:
     - *exploitation*;
     - *procurement*; or
     - *independent harm*.
@@ -2211,7 +2211,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
       check that the reason is:
         - backed by evidence;
         - still true now; and
-        - actually one of those grounds — not a made-up label.
+        - actually one of those refusal reasons — not a made-up label.
     - Particular-adopter refusal still satisfies [Non-Statelessness](core_05.055_band_participation.md#non-statelessness) when recognition remains real under cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting); the refusal itself must still meet [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness).
 <a id="movement-and-relocation-constitutional-c"></a>
 - **What must hold**
@@ -2220,7 +2220,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - **Tertiary failure:**
     - durable restriction under generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests;
     - emergency-measure framings that do not satisfy **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*) discipline;
-    - fabricating or mislabeling exclusion as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present; or
+    - fabricating or mislabeling exclusion as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those reasons are not actually present; or
     - exclusion decisions that fail [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) or leave a sentient with zero recognizing regime in violation of [Non-Statelessness](core_05.055_band_participation.md#non-statelessness).
 
 ---
@@ -2282,14 +2282,14 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
       - anti-constitutional conduct;
       - constitutional hostility; or
       - contempt or repudiation of the constitutional community.
-    - Refusal on that ground remains subject to [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) and does not violate [Non-Statelessness](core_05.055_band_participation.md#non-statelessness) when origin-primary or shared / federation backup recognition remains real.
+    - Refusal for those documented reasons remains subject to [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) and does not violate [Non-Statelessness](core_05.055_band_participation.md#non-statelessness) when origin-primary or shared / federation backup recognition remains real.
 <a id="refuge-from-non-compliance-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** refusal of refuge contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion).
   - **Secondary failure:** refusal framed as "incompatibility" or "capacity" that does not satisfy the ordinary limitations tests and leaves no origin-primary or shared / federation backup recognition.
   - **Tertiary failure:**
     - origin or receiving regimes using recognition paperwork or cross-federation procedure to shrink this Rights Floor (procedure may spell out how recognition works; it may not cut the right itself); or
-    - fabricating or mislabeling refuge denial as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present; or
+    - fabricating or mislabeling refuge denial as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those reasons are not actually present; or
     - refusal decisions that fail [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness) or leave a sentient with zero recognizing regime in violation of [Non-Statelessness](core_05.055_band_participation.md#non-statelessness).
 
 ---
@@ -2364,7 +2364,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - **Tertiary failure:**
     - interim recognition regimes that do not provide real standing, adjudication, and remedy access pending durable recognition;
     - using anti-constitutional conduct, constitutional hostility, or contempt-or-repudiation claims to extinguish the core protections of the Rights-Floor, [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), or [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness); or
-    - fabricating or mislabeling restricted status as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present.
+    - fabricating or mislabeling restricted status as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those reasons are not actually present.
 
 ---
 

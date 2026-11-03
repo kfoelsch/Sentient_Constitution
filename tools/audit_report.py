@@ -10,6 +10,7 @@ Use --no-refresh to check the existing indexes without updating them.
     python3 tools/audit_report.py --root .                    # the regression gate, grouped
     python3 tools/audit_report.py --root . --scope all        # also the audits outside the gate
     python3 tools/audit_report.py --root . --category links   # one category
+    python3 tools/audit_report.py --root . --changed          # optional changed-file filter
     python3 tools/audit_report.py --root . --only-failing     # hide passing categories
     python3 tools/audit_report.py --root . --json             # machine-readable
     python3 tools/audit_report.py --root . --list             # categories and targets, nothing run
@@ -21,6 +22,7 @@ Exit status is 1 when a gate target fails (or, with --strict, any target), or wh
 from __future__ import annotations
 
 import argparse
+import fnmatch
 import json
 import re
 import subprocess
@@ -100,6 +102,64 @@ def select_targets(registry: dict, regression: list[str], scope: str, categories
             continue
         names.append(name)
     return sorted(names, key=lambda n: (order.get(n, 10**6), n))
+
+
+def git_changed_paths(root: Path, base: str) -> set[str]:
+    """Files changed since the merge base, including index, worktree, and untracked files."""
+    merge = subprocess.run(
+        ["git", "merge-base", base, "HEAD"], cwd=root, capture_output=True, text=True,
+    )
+    if merge.returncode:
+        raise ValueError(f"cannot find merge base for {base!r}: {merge.stderr.strip()}")
+    paths: set[str] = set()
+    commands = [
+        ["git", "diff", "--name-only", "-z", f"{base}...HEAD"],
+        ["git", "diff", "--name-only", "-z", "HEAD"],
+        ["git", "ls-files", "--others", "--exclude-standard", "-z"],
+    ]
+    for command in commands:
+        proc = subprocess.run(command, cwd=root, capture_output=True)
+        if proc.returncode:
+            detail = proc.stderr.decode("utf-8", errors="replace").strip()
+            raise ValueError(f"{' '.join(command[:3])} failed: {detail}")
+        paths.update(part.decode("utf-8", errors="surrogateescape") for part in proc.stdout.split(b"\0") if part)
+    return {Path(path).as_posix() for path in paths}
+
+
+def select_changed_targets(root: Path, registry: dict, names: list[str], changed: set[str]) -> tuple[list[str], bool]:
+    """Select checks whose registered corpus scope touches changed files.
+
+    Return ``(names, conservative_fallback)``. Any mixed or non-corpus change keeps
+    the requested target set intact because this scope registry only maps corpus files.
+    """
+    from corpus_paths import binding_corpus_scope
+
+    corpus = set(binding_corpus_scope(root))
+    if not changed <= corpus:
+        return names, True
+    scope_registry = json.loads((root / "tools/architecture/audit_scope_registry.json").read_text(encoding="utf-8"))
+    selected: list[str] = []
+    for name in names:
+        meta = scope_registry.get("targets", {}).get(name)
+        if not meta:
+            return names, True
+        kind = meta["scope"]
+        if kind == "corpus" and changed:
+            selected.append(name)
+        elif kind == "corpus-except" and any(
+            path not in corpus or not any(fnmatch.fnmatch(path, pattern) for pattern in meta.get("except", []))
+            for path in changed
+        ):
+            selected.append(name)
+        elif kind == "format-owned" and any(
+            fnmatch.fnmatch(path, pattern)
+            for path in changed for pattern in meta.get("files", [])
+        ):
+            selected.append(name)
+        elif kind == "generator" and changed:
+            # The generator owns the exact source set, so check freshness for any corpus edit.
+            selected.append(name)
+    return selected, False
 
 
 # ---------------------------------------------------------------- running
@@ -243,10 +303,11 @@ def render_text(rows: list[dict], results: dict[str, dict], regression: list[str
     return "\n".join(out)
 
 
-def render_json(rows, results, regression, *, scope, jobs, elapsed, max_lines) -> str:
+def render_json(rows, results, regression, *, scope, jobs, elapsed, max_lines, changed_files=None) -> str:
     gate = set(regression)
     return json.dumps({
         "scope": scope, "jobs": jobs, "seconds": round(elapsed, 1),
+        **({"changed_file_count": len(changed_files)} if changed_files is not None else {}),
         "passed": all(r["rc"] == 0 for n, r in results.items() if n in gate),
         "categories": rows,
         "targets": {
@@ -280,6 +341,8 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--root", default=".")
     ap.add_argument("--scope", choices=("regression", "all"), default="regression")
+    ap.add_argument("--changed", action="store_true", help="select audit scopes that touch files changed since the merge base")
+    ap.add_argument("--base", default="origin/main", help="base ref for --changed (default: origin/main)")
     ap.add_argument("--category", action="append", default=[], help="category id (repeat or comma-separate)")
     ap.add_argument("--jobs", type=int, default=4, help="parallel read-only targets (1 = one at a time)")
     ap.add_argument("--timeout", type=float, default=900.0, help="seconds allowed per target")
@@ -323,7 +386,33 @@ def main(argv: list[str] | None = None) -> int:
         print(f"unknown category: {', '.join(sorted(unknown))}; known: {', '.join(c['id'] for c in registry['categories'])}", file=sys.stderr)
         return 2
     names = select_targets(registry, regression, args.scope, wanted)
+    changed: set[str] | None = None
+    if args.changed:
+        try:
+            changed = git_changed_paths(root, args.base)
+        except ValueError as exc:
+            print(f"changed-file selection failed: {exc}", file=sys.stderr)
+            return 2
+        if not changed:
+            if args.json:
+                print(json.dumps({"scope": "changed", "changed_file_count": 0, "passed": True, "categories": [], "targets": {}}, indent=2))
+            else:
+                print(f"No changed files since {args.base}; audit report skipped.")
+            return 0
+        names, conservative = select_changed_targets(root, registry, names, changed)
+        if not args.json:
+            if conservative:
+                print("Changed-file selection kept the full requested scope because non-corpus changes are present.")
+            else:
+                print(f"Changed-file selection: {len(changed)} corpus file(s); {len(names)} audit target(s) selected.")
     if not names:
+        if args.changed:
+            if args.json:
+                print(json.dumps({"scope": f"{args.scope}, changed", "changed_file_count": len(changed or set()),
+                                  "passed": True, "categories": [], "targets": {}}, indent=2))
+            else:
+                print("No registered audit scope touches the changed corpus files; audit report skipped.")
+            return 0
         print("no targets selected", file=sys.stderr)
         return 2
 
@@ -352,9 +441,10 @@ def main(argv: list[str] | None = None) -> int:
     results = {n: results[n] for n in names}
     rows = summarize(results, registry, regression)
     if args.json:
-        print(render_json(rows, results, regression, scope=args.scope, jobs=args.jobs, elapsed=elapsed, max_lines=args.max_lines))
+        print(render_json(rows, results, regression, scope=f"{args.scope}{', changed' if args.changed else ''}", jobs=args.jobs,
+                          elapsed=elapsed, max_lines=args.max_lines, changed_files=changed))
     else:
-        print(render_text(rows, results, regression, registry, scope=args.scope, jobs=args.jobs, elapsed=elapsed,
+        print(render_text(rows, results, regression, registry, scope=f"{args.scope}{', changed' if args.changed else ''}", jobs=args.jobs, elapsed=elapsed,
                           only_failing=args.only_failing, verbose=args.verbose, max_lines=args.max_lines, slowest=args.slowest))
     gate = set(regression)
     failing = [n for n, r in results.items() if r["rc"] != 0 and (args.strict or n in gate)]

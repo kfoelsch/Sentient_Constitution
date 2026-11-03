@@ -828,6 +828,9 @@
   },
   "record-qualified-audit": {
    "scope": "corpus"
+  },
+  "chart-orientation-audit": {
+   "scope": "corpus"
   }
  }
 }

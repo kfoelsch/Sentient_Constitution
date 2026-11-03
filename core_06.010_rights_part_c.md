@@ -470,7 +470,7 @@ This Article covers the exceptional powers of security, intelligence, force, and
   - hunting spies, saboteurs, and hostile infiltrators — **Article XIV-D** (*Counter-Espionage Limits*), which adds to **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and never narrows it.
 - **Every use of these powers leaves an official record:** Each decision to approve, carry out, extend, or end a use of these powers is a materially binding act. That includes a surveillance or covert-collection order, opening or extending a counter-espionage investigation, a deployment or use of force, and putting an autonomous lethal system or coercion tool into use. Each one must have a [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) (**Act Record**) that meets at least the minimum in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). In short, the record must show:
   - what was done, how far it reached, and what authority allowed it;
-  - who asked for it, who independently approved it and on what grounds, and who keeps the record;
+  - who asked for it, who independently approved it and on what basis, and who keeps the record;
   - how to challenge it, and where any challenge stands;
   - every emergency shortcut, handoff, or substitution, and when each approval runs out.
 

@@ -1017,7 +1017,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - treat a Stay as final approval or a merits decision;
     - label a [Merits Determination](core_05.035_band_accountability.md#merits-determination) as a Stay;
     - include merits outcomes without a separate merits ruling; or
-    - refuse to lift or narrow a Stay after review is complete or its stated grounds no longer hold.
+    - refuse to lift or narrow a Stay after review is complete or the stated grounds for the Stay no longer hold.
 
     A pause in name only that does not actually stop or limit anything is also non-compliant.
 
@@ -1058,7 +1058,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 *In plain terms: an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a violation finding, a lock, or a penalty, and it ends on its own clock.*
 
 - **What it is**
-  - **In scope:** An interim order by a forum with jurisdiction that limits one named sentient's exercise of one named authority, pathway, or matter on the grounds in [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway), while the facts are verified. It states its ground, scope, lapse date, and review route, and it uses the lightest measure that works. It may:
+  - **In scope:** An interim order by a forum with jurisdiction that limits one named sentient's exercise of one named authority, pathway, or matter under the Interim Hold grounds in [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway), while the facts are verified. It states the specific Interim Hold ground, scope, lapse date, and review route, and it uses the lightest measure that works. It may:
     - require disclosure and monitoring;
     - require an independent co-holder or second key;
     - require step-aside from one matter;
@@ -1078,7 +1078,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     **Primary assessment:** Identify:
     - the named sentient and the one authority, pathway, or matter limited;
     - the issuing forum, and whether it stands outside the subject's control line;
-    - the showing of the grounds and the evidence level relied on;
+    - the showing for the Interim Hold and the evidence level relied on;
     - the risk, and why it could not wait for verification;
     - the lightest measure used and why a lighter one would not do; and
     - the lapse date and the review route.
@@ -1087,13 +1087,13 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <a id="interim-hold-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - issue a hold without the grounds in [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway), or on mere belief, identity, membership of a group, dissent that does not call for harm or discriminatory treatment of others, or protected reporting (see [Chapter One §7.5 Expression and the Harm Line](core_01.000_values_principles.md#75-expression-and-the-harm-line));
+    - issue a hold without meeting the Interim Hold grounds in [Chapter Fourteen §5 Interim hold on a named sentient's pathway](core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway), or on mere belief, identity, membership of a group, dissent that does not call for harm or discriminatory treatment of others, or protected reporting (see [Chapter One §7.5 Expression and the Harm Line](core_01.000_values_principles.md#75-expression-and-the-harm-line));
     - have the subject's own body, appointing authority, or control line issue it;
     - reach beyond the one named authority or into an excluded pathway;
     - continue it past its lapse date or past the single permitted extension;
     - treat the hold, or its lapse, as evidence of the allegation, as a standing record, or as a standing effect;
     - convert it into a lock without a verified violation finding;
-    - deny the sentient the grounds, the facts, or a working route to contest and review;
+    - deny the sentient the reasons for the hold, the facts, or a working route to contest and review;
     - leave a wrongful hold without redress; or
     - issue a hold in a situation that no provision of this Constitution or an incorporated text names.
 
@@ -1882,7 +1882,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <a id="interested-party-c"></a>
 - **What must hold**
   - **Primary failure:** Treat a party with a material stake as not interested because of its title, legal entity, intermediary, nominal arm's length, or because it did not appear in the matter. Indirect interest through an affiliate, funder, contractor, proxy, or automated system does not resolve the failure.
-  - **Secondary failure:** Use interested-party status as a ground to keep an affected sentient from being heard, or assert the status from a general public interest, advice, or shared infrastructure alone without showing a material stake in the particular matter.
+  - **Secondary failure:** Use interested-party status as a reason to keep an affected sentient from being heard, or assert the status from a general public interest, advice, or shared infrastructure alone without showing a material stake in the particular matter.
 
 ---
 
@@ -2820,7 +2820,7 @@ The following limits also apply:
     - adds gratuitous or degrading suffering beyond what [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality) allow —
     under the [Anti-Degrading-Process Principle (§3.3)](core_01.000_values_principles.md#33-anti-degrading-process) and [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing).
     Scope is [substrate-agnostic](core_05.055_band_participation.md#substrate-class).
-  - **In scope — humiliation subtype:** Humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process) is [Cruelty](core_05.035_band_accountability.md#cruelty) when verified as suffering-as-end or as gratuitous / degrading infliction. Ordinary public accountability that is unpleasant or reputationally adverse is not humiliation for its own sake, and is not Cruelty on that ground alone.
+  - **In scope — humiliation subtype:** Humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process) is [Cruelty](core_05.035_band_accountability.md#cruelty) when verified as suffering-as-end or as gratuitous / degrading infliction. Ordinary public accountability that is unpleasant or reputationally adverse is not humiliation for its own sake, and is not Cruelty on that basis alone.
   - **Boundary — sibling §3.3 (*Anti-Degrading Process*) characters:** Spectacle used mainly to deter, retaliatory grievance, and comparable [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process) degrading-process defects remain separately named under that principle. They may stack with [Cruelty](core_05.035_band_accountability.md#cruelty) when the same verified facts also meet the suffering-as-end or gratuitous / degrading test; they are not automatic Cruelty subtypes.
   - **Out of scope:**
     - bare [Harm](core_05.035_band_accountability.md#harm) magnitude without suffering-as-end or gratuitous / degrading character;
