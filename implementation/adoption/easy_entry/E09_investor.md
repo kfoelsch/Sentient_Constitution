@@ -43,7 +43,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** A company you put money into puts extra rules on the AI so the product looks careful, while the founders still take the bonus and can still say “ship it anyway.” After the tool hurts customers or workers, the company announces a donation, posts a write-up about safety, or points to the last funding round — and the harm is treated as closed.
 - **With this Constitution:** A donation, a write-up about safety, or a high company price does not cancel the harm. Help and harm stay on separate books. One does not erase the other.
 
-See: [Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default); [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-linked-records-and-no-offset-bridge).
+See: [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter Eleven §2.4](../../../core_11.000_standing_assessment.md#24-linked-records-and-no-offset-bridge).
 
 **Scale is supposed to be checked before reliance.**
 - **Today:** Deploy first, apologize later.

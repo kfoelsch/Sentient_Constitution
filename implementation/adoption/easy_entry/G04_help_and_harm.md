@@ -31,7 +31,7 @@ See: [Chapter Eleven](../../../core_11.000_standing_assessment.md#chapter-eleven
 - **Today:** Gossip, a relative’s letter, or “we filed” is treated as the finding.
 - **With this Constitution:** Only verified facts enter the official record of verified help or harm. A report waiting to be looked at is not already a verdict. Filing a case, by itself, does not change how trusted you are.
 
-See: [Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default); [Chapter Eleven §3.6](../../../core_11.000_standing_assessment.md#36-forum-boundary).
+See: [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter Eleven §4.6](../../../core_11.000_standing_assessment.md#46-forum-boundary).
 
 **What follows has to be real on each track.**
 - **Today:** A badge with no extra authority, or a punishment with no repair for the one who was hurt.
@@ -52,7 +52,7 @@ See: [Chapter Twelve](../../../core_12.000_standing_integration.md#chapter-twelv
 
 - A score of how trusted you are that you can spend like money, or that decides whether you count ([Article XIX-A](../../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction)).
 - A finding, in this handbook, that anyone was helped or harmed in the world. This page is not that record.
-- A way for the subject of a record to verify or enter it on their own ([Chapter Eleven §3.7](../../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority)).
+- A way for the subject of a record to verify or enter it on their own ([Chapter Eleven §4.7](../../../core_11.000_standing_assessment.md#47-record-custody-and-opening-authority)).
 
 ## If you want to look further
 

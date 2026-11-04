@@ -51,7 +51,7 @@ See: [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ow
 - **Today:** If you refuse, they say they will report that the baby will not be safe. They file. You dispute it. No neglect has been verified. No independent case is open. Once someone files, you are already “in the system,” and silence or refusal is treated as proof.
 - **With this Constitution:** Most of us have no official record of verified help or harm. That is the normal state, not a hole that has to be filled, and not a reason to treat you as a risk. A relative’s written concern is a report waiting to be looked at. It is not already a finding that you are unsafe, that the infant is unsafe, or that you “lost.” Refusing the strings, or saying nothing, is not proof. Housing, care, and whether the infant stays with you cannot be decided on the filing alone.
 
-See: [Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default); [Chapter Eleven §3.6](../../../core_11.000_standing_assessment.md#36-forum-boundary).
+See: [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter Eleven §4.6](../../../core_11.000_standing_assessment.md#46-forum-boundary).
 
 **Survival and care still have to be reachable.**
 - **Today:** Work is irregular; the scheduler will not move a shift that collides with the prenatal appointment you chose. The only housing on the clock is the conditioned offer, so “choose” means accept the strings.

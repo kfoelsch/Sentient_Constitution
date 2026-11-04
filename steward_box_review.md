@@ -29,7 +29,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 | Delay (XXVI-C) | No added process / hop count eating the tier window | Yes | Ch14 §6 (~891): "self-created delay, procedural layering... to prolong resolution without milestone justification" |
 | Delay (XXVI-C) | Met throughput target is not timely while harm persists | Partly | Raw throughput as a proxy: Preamble ~85, Ch1 §13.2 and §14. "While harm persists" is not explicit; one sentence in Ch14 §6 would close it |
 | SAC | Unit tests/checklists/labels are not certification; don't skip the challenge window | **Not found** for those two | Badge/LEQU not sentience status is covered (Ch6 Part B ~214 anti-substitution). Read Ch9 before deciding |
-| Standing | Claimed effect is not standing; don't wait for a filed case; no net score; badge/LEQU not sentience | Yes | Ch11 ~52 (two tracks, never net score); Ch12 ~90 "A filed case is not standing by itself"; Ch6 Part B ~214. Self-verification bar is in Ch11 §3.7 |
+| Standing | Claimed effect is not standing; don't wait for a filed case; no net score; badge/LEQU not sentience | Yes | Ch11 ~52 (two tracks, never net score); Ch12 ~90 "A filed case is not standing by itself"; Ch6 Part B ~214. Self-verification bar is in Ch11 §4.7 |
 | Remedy | A published form is not remedy; preserve evidence before a case is filed; no externalizing cost | Partly | Externalized harm covered in Ch1 §6.1 and Ch3. "Published form is not remedy" not found; Ch12 §9 "institutionally real" not checked |
 | Emergency | No permanent skipped notice; don't normalize emergency; Tier A deferral | Yes | Normalization: Ch5 bands (~1273, ~3342, ~1910). Clock duplicates Ch14 §6.1 body, which I did not read in full |
 

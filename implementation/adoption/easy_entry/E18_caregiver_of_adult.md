@@ -53,7 +53,7 @@ See: [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-surviva
 - **Today:** Because you pay a bill, the file lists you as the one who decides the clinician, the cards, and who they may see. Refusal is treated as proof they cannot decide — or as proof you are failing.
 - **With this Constitution:** Family relationship is not authority over another adult’s clinician or household. Supported help is not a quiet takeover. A concern report is not an official record of verified help or harm.
 
-See: [CI-6.220](../../../corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md); [Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default).
+See: [CI-6.220](../../../corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md); [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default).
 
 **A lasting split is not the default “help.”**
 - **Today:** The “safe” rest-break is a durable break from the care relationship you actually have — or from the adult you care for.

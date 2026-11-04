@@ -67,7 +67,7 @@ See: [CI-6.220](../../../corpus_institutions/ci_06.220_neurodiversity_disability
 
 ## What you might reasonably object to
 
-- **“They’ll take the house / the accounts / the children.”** Family convenience is not a finding about your interests, and a concern report is not an official record of verified help or harm ([Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default)). Verified harm, if it exists, still has to be verified in the right role. This text will not freeze what you used to be able to do either: if you cannot currently do a thing, the text will not pretend you can.
+- **“They’ll take the house / the accounts / the children.”** Family convenience is not a finding about your interests, and a concern report is not an official record of verified help or harm ([Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default)). Verified harm, if it exists, still has to be verified in the right role. This text will not freeze what you used to be able to do either: if you cannot currently do a thing, the text will not pretend you can.
 
 - **“I already wrote down what I want. Why isn’t that enough?”** Advance wishes are supposed to have a named holder under CI-6.230. They are not a magic override of a later verified safety showing, and they are not supposed to be discarded because they slow someone else down.
 

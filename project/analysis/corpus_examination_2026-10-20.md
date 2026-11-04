@@ -42,7 +42,7 @@ This is also more constructive than a system concerned only with punishment. The
 
 These are substantive protections worth making conspicuous in explanations and trials. They also create implementation obligations: a future interface must not quietly reintroduce a global score or an “unverified” stigma.
 
-**Sources:** [Chapter Ten §2.1](../../core_11.000_standing_assessment.md#21-silence-is-the-default); [Chapter One §17.3](../../core_01.010_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Eleven §§7–8](../../core_12.000_standing_integration.md#7-final-standing-effect).
+**Sources:** [Chapter Ten §2.2](../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter One §17.3](../../core_01.010_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Eleven §§7–8](../../core_12.000_standing_integration.md#7-final-standing-effect).
 
 ### 4. Independence follows actual power
 
@@ -104,7 +104,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** Published disagreements, their consequences, and a defensible resolution path. Do not treat consensus between coached sessions as empirical calibration.
 
-**Sources:** [Chapter Ten §7](../../core_11.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Twelve §1](../../core_13.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
+**Sources:** [Chapter Ten §8](../../core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Twelve §1](../../core_13.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
 
 ### Priority 4 — Test the strongest powers against hostile administration
 

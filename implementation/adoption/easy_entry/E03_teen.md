@@ -67,7 +67,7 @@ See: [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-relia
 
 - **“I want to be treated as a full adult now.”** What you may do yourself will not invent that if what you can actually show does not support it. The honest gain is that the test is capability, not a birthday stand-in, and that a “no” has to be justified and open to challenge.
 
-- **“If I push back, they’ll write me up.”** Good-faith challenge is supposed to be protected against retaliation ([Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)). A family report or school note is not, by itself, an official record of verified help or harm ([Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default)).
+- **“If I push back, they’ll write me up.”** Good-faith challenge is supposed to be protected against retaliation ([Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)). A family report or school note is not, by itself, an official record of verified help or harm ([Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default)).
 
 - **“This isn’t law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or family law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
