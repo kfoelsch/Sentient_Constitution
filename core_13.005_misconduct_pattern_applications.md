@@ -874,7 +874,7 @@ It routes evaluation of the named pattern into the existing designation criteria
   - [§2](core_13.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*);
   - [§3](core_13.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*);
   - [§4](core_13.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*);
-  - [Chapter Eleven §7](core_11.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §7) (*proportional Violation Axis impact, including ecological or infrastructure loss*).
+  - [Chapter Eleven §8](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8) (*proportional Violation Axis impact, including ecological or infrastructure loss*).
 - Rights and systems context:
   - [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*),
   - [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*),
@@ -1127,9 +1127,9 @@ It routes evaluation of the named pattern into the existing designation criteria
 - Upstream:
   - [§2](core_13.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*);
   - [§3](core_13.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*);
-  - [Chapter Eleven §2.3.2](core_11.000_standing_assessment.md#232-violation-event-types) (11.000 §2.3.2) (*Obstruction of accountability event type*);
-  - [Chapter Eleven §4.2](core_11.000_standing_assessment.md#42-violation-severity-input-dimensions) (11.000 §4.2) and
-  - [§4.4](core_11.000_standing_assessment.md#44-violation-route-descriptor-catalog-and-measurement-roles) (*conduct character and Accountability Obstruction Misconduct*);
+  - [Chapter Eleven §3.2](core_11.000_standing_assessment.md#32-violation-event-types) (11.000 §3.2) (*Obstruction of accountability event type*);
+  - [Chapter Eleven §5.2](core_11.000_standing_assessment.md#52-violation-severity-input-dimensions) (11.000 §5.2) and
+  - [§5.4](core_11.000_standing_assessment.md#54-violation-route-descriptor-catalog-and-measurement-roles) (*conduct character and Accountability Obstruction Misconduct*);
   - [Chapter One §19.1.2](core_01.010_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) (1.010 §19.1.2) (*obstruction of accountability among non-rewardable patterns*).
 - Related patterns (modes, not competing criteria):
   - [§5.3](#53-flooding-the-zone-and-contest-pathway-denial);

@@ -47,7 +47,7 @@ See: [Article XXII-A](../../../core_06.015_rights_part_d.md#article-xxii-a-movem
 - **Today:** A score, a watchlist, or “no record on file” is treated as a reason to refuse movement. A dropped record, a lock, or “unrated” becomes exile.
 - **With this Constitution:** A score of how trusted you are, or a lock on a record, is not, by itself, a reason to refuse movement, refuge, taking your records with you, or leaving. Accusations that have not been decided are not a border. If conduct that violates this Constitution has been checked and found, a host may still refuse or condition admission, or use detention or other limits, when those steps are needed, not bigger than the harm, and done through a real process. Those steps still cannot leave you with no country or body that counts you.
 
-See: [Article XXII-D](../../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline); [Article XXII-C](../../../core_06.015_rights_part_d.md#article-xxii-c-non-statelessness); [Article XX-B](../../../core_06.015_rights_part_d.md#article-xx-b-restriction-floors); [Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default).
+See: [Article XXII-D](../../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline); [Article XXII-C](../../../core_06.015_rights_part_d.md#article-xxii-c-non-statelessness); [Article XX-B](../../../core_06.015_rights_part_d.md#article-xx-b-restriction-floors); [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default).
 
 **Exit has to work in practice.**
 - **Today:** You can leave if you abandon data, credentials, and proof of what was done to you.

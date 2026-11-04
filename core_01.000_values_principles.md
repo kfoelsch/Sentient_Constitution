@@ -512,8 +512,8 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
   - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth);
   - [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline);
   - [§7 Freedom](#7-freedom-bounded-agency).
-- Read with: [Chapter Eleven §§4.3–4.4 — Normalized descriptor catalog](core_11.000_standing_assessment.md#43-route-descriptor-measurement-roles) (11.000 §4.3) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
-- Read with: [Chapter Eleven §4.3 — Contribution-side descriptors](core_11.000_standing_assessment.md#43-route-descriptor-measurement-roles) (11.000 §4.3) where contribution nature and recognition narratives are material; [Chapter Twelve §3](core_12.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (12.000 §3) for their integration into Question 3.
+- Read with: [Chapter Eleven §§5.3–5.4 — Normalized descriptor catalog](core_11.000_standing_assessment.md#53-route-descriptor-measurement-roles) (11.000 §5.3) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
+- Read with: [Chapter Eleven §5.3 — Contribution-side descriptors](core_11.000_standing_assessment.md#53-route-descriptor-measurement-roles) (11.000 §5.3) where contribution nature and recognition narratives are material; [Chapter Twelve §3](core_12.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (12.000 §3) for their integration into Question 3.
 - Read with: [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation) where preferences for recognition form, visibility, or opt-out are material.
 - Subsections (reading order):
   - [§3.2.1](#321-recognition-and-reinforcement) ·
@@ -2039,7 +2039,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
   - [§11.3 Consolidation Ceiling](#113-consolidation-ceiling);
   - [CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog) (
   - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
-  - [Chapter Eleven §4 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it) (11.000 §4);
+  - [Chapter Eleven §5 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#5-question-2--how-good-or-bad-was-it) (11.000 §5);
   - [Chapter Thirteen §5.1 Concentration-based subversion](core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (13.005 §5.1).
 - Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Subsections (reading order): [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
@@ -2081,7 +2081,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
 - **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
 - **When concentration is used to undermine this Constitution:** that misconduct is judged under [Chapter Thirteen §5.1 Concentration-based subversion](core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Thirteen for misconduct designation review, but only in two steps. First, [Chapter Eleven §4 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Thirteen checks whether the concentration meets criterion 3 (a workaround that rolls back protections), criterion 4 (damage to Rights Floor protections or blocked challenges), or criterion 6 (constitutional process made unusable in practice).
+- **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Thirteen for misconduct designation review, but only in two steps. First, [Chapter Eleven §5 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#5-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Thirteen checks whether the concentration meets criterion 3 (a workaround that rolls back protections), criterion 4 (damage to Rights Floor protections or blocked challenges), or criterion 6 (constitutional process made unusable in practice).
 
 **Constitutional requirements:**
 

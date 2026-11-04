@@ -63,7 +63,7 @@ See: [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-a
 
 ## What you might reasonably object to
 
-- **“If I challenge the ranking, they will fail me.”** Retaliation against good-faith reports is in the challenge floor. A school note is not, by itself, an official record of verified help or harm ([Chapter Eleven §2.1](../../../core_11.000_standing_assessment.md#21-silence-is-the-default)). Reachability still depends on a school or testing body that has agreed to follow this Constitution.
+- **“If I challenge the ranking, they will fail me.”** Retaliation against good-faith reports is in the challenge floor. A school note is not, by itself, an official record of verified help or harm ([Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default)). Reachability still depends on a school or testing body that has agreed to follow this Constitution.
 
 - **“I want this campus / this major / this ranking.”** A preferred course or campus is often a preference, not a floor. Equal access and a high-stakes system that can be challenged are the honest gain. This text will not invent a winner among two students’ preferences.
 

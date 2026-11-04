@@ -1641,7 +1641,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
     - It is not, by itself, evidence of misalignment, malfunction, or unfitness.
     - It must not be answered by modifying the sentient's values, memory, or internal states as reprisal, contrary to **Article VII-B** (*Self-Ownership of Mind*).
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**No standing or governance consequence for dissent or protest:** Exercising the dissent and peaceful protest floor — including [protected nonviolent civil disobedience](#xi-d-nonviolent-civil-disobedience) — must not, by itself or as a weighting factor:
-  - open, support, extend, or aggravate a violation standing record under [Chapter Eleven](core_11.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger);
+  - open, support, extend, or aggravate a violation standing record under [Chapter Eleven](core_11.000_standing_assessment.md#23-protected-dissent-is-not-a-trigger);
   - support a standing lock, deny or delay a competency clearance, or narrow any named pathway under **Chapter Twelve** or **Article XIX** (*Standing and Participation Status*);
   - support an anti-constitutional misconduct designation under [Chapter Thirteen](core_13.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out);
   - reduce governance-voting, stakeholder-participation, candidacy, office-holding, forum service, or recall rights under **Article X-B** (*Governance Participation and Voting Entitlement*) and **Chapter Fifteen**;

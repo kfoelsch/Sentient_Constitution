@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **760** of **1197** headings carry a gloss (63%).
+Coverage: **760** of **1199** headings carry a gloss (63%).
 
 ## Contents
 
@@ -36,7 +36,7 @@ Coverage: **760** of **1197** headings carry a gloss (63%).
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (10/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
-- [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/33 glossed)
+- [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/35 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER THIRTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-thirteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_13.005_misconduct_pattern_applications.md` (12/14 glossed)
@@ -4947,7 +4947,7 @@ certification can feed standing, but it is not standing. An Institutional Certif
 
 ## CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT
 
-Source file: [`core_11.000_standing_assessment.md`](../../core_11.000_standing_assessment.md) · 13/33 headings glossed
+Source file: [`core_11.000_standing_assessment.md`](../../core_11.000_standing_assessment.md) · 13/35 headings glossed
 
 #### 1. The three questions
 
@@ -4967,179 +4967,191 @@ Question 1 establishes a bounded, contestable account of what happened. It ident
 
 [Source](../../core_11.000_standing_assessment.md#2-question-1--what-happened)
 
-##### 2.1 What Question 1 must establish
+##### 2.1 Standing records: kinds and subjects
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#21-what-question-1-must-establish)
+[Source](../../core_11.000_standing_assessment.md#21-standing-records-kinds-and-subjects)
 
-##### 2.2 Linked records and no-offset bridge
+##### 2.2 Silence is the default
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#22-linked-records-and-no-offset-bridge)
+[Source](../../core_11.000_standing_assessment.md#22-silence-is-the-default)
 
-##### 2.3 Question 1 event-type guide — what kind of help or harm occurred?
+##### 2.3 Protected dissent is not a trigger
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#23-protected-dissent-is-not-a-trigger)
+
+##### 2.4 Linked records and no-offset bridge
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#24-linked-records-and-no-offset-bridge)
+
+#### 3. Question 1 event-type guide — what kind of help or harm occurred?
 
 use these tables to describe what happened after the facts are verified. They help identify the kind of contribution or violation involved. They do not decide how good or bad it was, assign a slot, or determine what happens because of it.
 
-[Source](../../core_11.000_standing_assessment.md#23-question-1-event-type-guide--what-kind-of-help-or-harm-occurred)
+[Source](../../core_11.000_standing_assessment.md#3-question-1-event-type-guide--what-kind-of-help-or-harm-occurred)
 
-###### 2.3.1 Contribution event types
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#231-contribution-event-types)
-
-###### 2.3.2 Violation event types
+##### 3.1 Contribution event types
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#232-violation-event-types)
+[Source](../../core_11.000_standing_assessment.md#31-contribution-event-types)
 
-#### 3. Verification and record requirements
+##### 3.2 Violation event types
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#32-violation-event-types)
+
+#### 4. Verification and record requirements
 
 This section states what each standing record must contain, who may open and hold it, and how it may be challenged or corrected. Question 2 measurements may be added only after the verified factual basis is recorded.
 
-[Source](../../core_11.000_standing_assessment.md#3-standing-record-operational-requirements)
+[Source](../../core_11.000_standing_assessment.md#4-standing-record-operational-requirements)
 
-##### 3.1 Minimum record contents
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#31-minimum-record-contents)
-
-##### 3.2 Related record cross-references
+##### 4.1 Minimum record contents
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#32-related-record-cross-references)
+[Source](../../core_11.000_standing_assessment.md#41-minimum-record-contents)
 
-##### 3.3 Collective and actor-specific records
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#33-collective-and-actor-specific-records)
-
-##### 3.4 Versioning
+##### 4.2 Related record cross-references
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#34-versioning)
+[Source](../../core_11.000_standing_assessment.md#42-related-record-cross-references)
 
-##### 3.5 Implementation tools
+##### 4.3 Collective and actor-specific records
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#35-implementation-tools)
+[Source](../../core_11.000_standing_assessment.md#43-collective-and-actor-specific-records)
 
-##### 3.6 Forum boundary
+##### 4.4 Versioning
 
-forums are where disputes get supervised, challenged, and turned into verified outcomes — but filing a case or winning a narrative fight does not update standing. The verified-input gate in **section 3.1** still applies. When a forum verifies the facts under Chapters Two through Four, it may **open, update, or correct** a standing record — or **set a bad record aside on challenge**. Forums do not merge good and bad into one score or invent the standing category by themselves.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#36-forum-boundary)
+[Source](../../core_11.000_standing_assessment.md#44-versioning)
 
-##### 3.7 Record custody and opening authority
+##### 4.5 Implementation tools
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#45-implementation-tools)
+
+##### 4.6 Forum boundary
+
+forums are where disputes get supervised, challenged, and turned into verified outcomes — but filing a case or winning a narrative fight does not update standing. The verified-input gate in **section 4.1** still applies. When a forum verifies the facts under Chapters Two through Four, it may **open, update, or correct** a standing record — or **set a bad record aside on challenge**. Forums do not merge good and bad into one score or invent the standing category by themselves.
+
+[Source](../../core_11.000_standing_assessment.md#46-forum-boundary)
+
+##### 4.7 Record custody and opening authority
 
 four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the System Charter or Institutional Charter forgot to say who verifies, keeps the record, or hears the contest, it is invalid until it is fixed, and the operator's own offices can't open or enter its records in the meantime; they go to the Backup Record Authority and the Backup Record Custodian, or a forum. A body with no System Charter or Institutional Charter at all uses its published lane map: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.
 
-[Source](../../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority)
+[Source](../../core_11.000_standing_assessment.md#47-record-custody-and-opening-authority)
 
-#### 4. Question 2 — how good or bad was it?
+#### 5. Question 2 — how good or bad was it?
 
 Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified harm. The axes remain separate; they are not two sides of a net score.
 
-[Source](../../core_11.000_standing_assessment.md#4-standing-measurement-evaluation-dimensions)
+[Source](../../core_11.000_standing_assessment.md#5-standing-measurement-evaluation-dimensions)
 
-##### 4.1 Contribution magnitude-input dimensions
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#41-magnitude-input-dimensions)
-
-##### 4.2 Violation severity-input dimensions
+##### 5.1 Contribution magnitude-input dimensions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#42-violation-severity-input-dimensions)
+[Source](../../core_11.000_standing_assessment.md#51-magnitude-input-dimensions)
 
-##### 4.3 Contribution route descriptor catalog and measurement roles
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#43-route-descriptor-measurement-roles)
-
-##### 4.4 Violation route descriptor catalog and measurement roles
+##### 5.2 Violation severity-input dimensions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#44-violation-route-descriptor-catalog-and-measurement-roles)
+[Source](../../core_11.000_standing_assessment.md#52-violation-severity-input-dimensions)
 
-##### 4.5 Cross-question measurement hooks
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#45-dual-use-measurement-hooks)
-
-###### 4.5.1 Similar-looking facts that must stay separate
+##### 5.3 Contribution route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#451-similar-looking-facts-that-must-stay-separate)
+[Source](../../core_11.000_standing_assessment.md#53-route-descriptor-measurement-roles)
 
-##### 4.6 Measurement illustrations
-
-these illustrations begin with Question 1's verified facts, then show how **section 4** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–7**; Question 3 is answered in [Chapter Twelve](../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Twelve §10.1 Informal ecological stewardship / competency clearance](../../core_12.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](../../core_12.000_standing_integration.md#102-ecological-negligence-with-concealment).
-
-[Source](../../core_11.000_standing_assessment.md#46-question-1-measurement-illustrations)
-
-#### 5. Slot grammar and shared scaling
-
-this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 7** assigns both axes by proportional LEQU impact.
-
-[Source](../../core_11.000_standing_assessment.md#5-slot-grammar-and-display-labels)
-
-##### 5.1 Table 1 — slot display labels
+##### 5.4 Violation route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#51-table-1--slot-display-labels)
+[Source](../../core_11.000_standing_assessment.md#54-violation-route-descriptor-catalog-and-measurement-roles)
 
-##### 5.2 Shared impact-scaling rules
+##### 5.5 Cross-question measurement hooks
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#55-dual-use-measurement-hooks)
+
+###### 5.5.1 Similar-looking facts that must stay separate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#551-similar-looking-facts-that-must-stay-separate)
+
+##### 5.6 Measurement illustrations
+
+these illustrations begin with Question 1's verified facts, then show how **section 5** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–7**; Question 3 is answered in [Chapter Twelve](../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Twelve §10.1 Informal ecological stewardship / competency clearance](../../core_12.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](../../core_12.000_standing_integration.md#102-ecological-negligence-with-concealment).
+
+[Source](../../core_11.000_standing_assessment.md#56-question-1-measurement-illustrations)
+
+#### 6. Slot grammar and shared scaling
+
+this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 8** assigns both axes by proportional LEQU impact.
+
+[Source](../../core_11.000_standing_assessment.md#6-slot-grammar-and-display-labels)
+
+##### 6.1 Table 1 — slot display labels
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#61-table-1--slot-display-labels)
+
+##### 6.2 Shared impact-scaling rules
 
 impact is not measured by headcount alone. A profound benefit or loss affecting one sentient may be more significant than a shallow effect affecting many. Count, depth, vulnerability, duration, durability, reach, and constitutional character must be assessed together.
 
-[Source](../../core_11.000_standing_assessment.md#52-shared-impact-scaling-rules)
+[Source](../../core_11.000_standing_assessment.md#62-shared-impact-scaling-rules)
 
-#### 6. Constitutional inputs to axis assignment
+#### 7. Constitutional inputs to axis assignment
 
 before choosing a slot, identify the constitutional sources that say what baseline, benefit, duty, harm, or violation is being measured. Use the links below to apply those sources at their canonical homes; do not turn this routing step into another score or a substitute definition.
 
-[Source](../../core_11.000_standing_assessment.md#6-constitutional-inputs-to-axis-assignment)
+[Source](../../core_11.000_standing_assessment.md#7-constitutional-inputs-to-axis-assignment)
 
-##### 6.1 Definition inputs
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#61-definition-inputs)
-
-##### 6.2 Principle inputs
+##### 7.1 Definition inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#62-principle-inputs)
+[Source](../../core_11.000_standing_assessment.md#71-definition-inputs)
 
-##### 6.3 Rights-Floor and Article inputs
+##### 7.2 Principle inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#63-rights-floor-and-article-inputs)
+[Source](../../core_11.000_standing_assessment.md#72-principle-inputs)
 
-#### 7. Unified proportional LEQU scale — Contribution and Violation Axes
+##### 7.3 Rights-Floor and Article inputs
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#73-rights-floor-and-article-inputs)
+
+#### 8. Unified proportional LEQU scale — Contribution and Violation Axes
 
 **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.
 
-[Source](../../core_11.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)
+[Source](../../core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes)
 
 ## CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION
 
@@ -6937,7 +6949,7 @@ calling a rollback "implementation guidance," burying it in metadata, or calling
 
 #### 4. Layer scope
 
-Chapter Sixteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Eleven §7 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Thirteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
+Chapter Sixteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Eleven §8 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Thirteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
 
 [Source](../../core_16.000_non_regression.md#4-scope-limit-and-layer-discipline)
 
@@ -7119,7 +7131,7 @@ effect follows what is honestly recorded on a stated date or event — secret pa
 
 #### 12. Layer scope
 
-Chapter Eighteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Eleven §7 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Thirteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
+Chapter Eighteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Eleven §8 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Thirteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
 
 [Source](../../core_18.000_amendment_ratification.md#12-scope-limit-and-layer-discipline)
 

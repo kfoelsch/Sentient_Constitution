@@ -75,14 +75,14 @@ Its boundary is crucial. Filing a case, choosing a forum, making intake notes, i
 
 ### 4. Standing Records: a bounded account of what happened
 
-Chapter Eleven uses a [standing record](../core_11.000_standing_assessment.md#21-what-question-1-must-establish) to establish a bounded and contestable account before rating or consequence: subject, event or pattern, time and place, verified and disputed facts, evidence and attribution, challenge path, and current review/correction/supersession status.
+Chapter Eleven uses a [standing record](../core_11.000_standing_assessment.md#2-question-1--what-happened) to establish a bounded and contestable account before rating or consequence: subject, event or pattern, time and place, verified and disputed facts, evidence and attribution, challenge path, and current review/correction/supersession status.
 
 There are two distinct tracks:
 
 - **Contribution standing records** concern verified help.
 - **Violation standing records** concern verified adverse findings.
 
-They are not combined into a reputation score, dignity rank, permanent status, general worth label, or merged scorecard. Related records can cross-reference, but verified help does not erase verified harm, and harm does not erase verified help. A standing record opens only on its applicable verified trigger; [silence is the default](../core_11.000_standing_assessment.md#21-silence-is-the-default), and the absence of a record is not evidence of risk or low contribution.
+They are not combined into a reputation score, dignity rank, permanent status, general worth label, or merged scorecard. Related records can cross-reference, but verified help does not erase verified harm, and harm does not erase verified help. A standing record opens only on its applicable verified trigger; [silence is the default](../core_11.000_standing_assessment.md#22-silence-is-the-default), and the absence of a record is not evidence of risk or low contribution.
 
 ### 5. Integration Records and named-pathway-specific effects
 
@@ -116,7 +116,7 @@ flowchart TB
 
 These are functions for a particular act, not permanent job titles. The point is independence: the actor or its material control line cannot supply the supposedly independent check, control the official record of that check, and decide the challenge to it. The [Four-Seat Requirement](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) scales proportionately, but a missing, conflicted, or wrong seat is routed and documented rather than silently assumed.
 
-For standing records, the [custody and opening rules](../core_11.000_standing_assessment.md#37-record-custody-and-opening-authority) apply that floor specifically: a request is distinct from verification; the record-opening authority is distinct from the custodian; and the contest seat hears a challenge. A challenge received on a record is logged and routed before any forum filing is required.
+For standing records, the [custody and opening rules](../core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) apply that floor specifically: a request is distinct from verification; the record-opening authority is distinct from the custodian; and the contest seat hears a challenge. A challenge received on a record is logged and routed before any forum filing is required.
 
 ### Version, correction, preservation, and continuity
 
@@ -132,6 +132,6 @@ Correction and contest are not afterthoughts. A forum reviewing a standing recor
 - **A Forum Case Record is not a Standing Record and does not by itself create a standing effect** ([Chapter Fourteen §2.3](../core_14.000_forum.md#23-forum-case-records-standing-records-and-contests)).
 - **Contribution and violation records remain separately auditable** ([Chapter Eleven §2](../core_11.000_standing_assessment.md#2-question-1--what-happened)).
 - **An integration record links its source records and states named-pathway-specific effects; it does not silently reclassify or rewrite them** ([Chapter Twelve §2](../core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity)).
-- **No record route may be used to diminish the Rights Floor, evade challenge, or treat ordinary life as conditional on a standing file** ([silence is the default](../core_11.000_standing_assessment.md#21-silence-is-the-default); [Chapter Twelve](../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration)).
+- **No record route may be used to diminish the Rights Floor, evade challenge, or treat ordinary life as conditional on a standing file** ([silence is the default](../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter Twelve](../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration)).
 
 For a case-specific question, this overview is only a reading aid. Start with the relevant numbered source and its required read-with material; source binds, while this map only helps locate it.

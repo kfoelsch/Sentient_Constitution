@@ -974,7 +974,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
       - proportionate clawback;
       - knowing-acceptance reporting; and
       - correction.
-  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Eleven §4 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#4-question-2--how-good-or-bad-was-it), using [Chapter Eleven §4.1 Contribution magnitude-input dimensions](core_11.000_standing_assessment.md#41-contribution-magnitude-input-dimensions) and [§4.2 Violation severity-input dimensions](core_11.000_standing_assessment.md#42-violation-severity-input-dimensions).
+  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Eleven §5 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#5-question-2--how-good-or-bad-was-it), using [Chapter Eleven §5.1 Contribution magnitude-input dimensions](core_11.000_standing_assessment.md#51-contribution-magnitude-input-dimensions) and [§5.2 Violation severity-input dimensions](core_11.000_standing_assessment.md#52-violation-severity-input-dimensions).
 <a id="misaligned-reward-correction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether verified misalignment actually costs the rewards it produced.
