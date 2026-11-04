@@ -302,6 +302,10 @@ Each row in the table below names a common route of verified help and its consti
 | Expanding productive capacity | Tools, infrastructure, or opportunities enabled others to thrive independently | **Participation**, **Oversight** | **Flourishing**, **Continuity** |
 | Improving time efficiency | Avoidable waiting, administrative friction, or coordination overhead was reduced, returning usable time for care, rest, agency, learning, or rights-consistent work | **Participation**, **Oversight** | **Flourishing** |
 | Reducing ecological or infrastructure risk | Environmental collapse or critical-system failure was prevented | **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
+| Reducing ecological footprint | Resource use, emissions, or land and water demand were verifiably reduced without shifting the burden onto others or onto ecosystems | **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
+| Rehabilitating ecosystems | Degraded land, water, or habitat was restored toward a functioning, self-sustaining condition | **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
+| Protecting endangered species | Species at risk of extinction, or the habitats they depend on, were protected from loss | **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
+| Reducing pollution and waste | Contamination, harmful emissions, or waste were prevented, removed, or safely managed | **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
 | Strengthening safety, truth, auditability, or challenge capacity | Institutions or practices were built or repaired to protect rights and hold power accountable | **Participation**, **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
 
 <a id="32-violation-event-types"></a>
@@ -322,6 +326,10 @@ Each row in the table below names a common route of verified loss, danger, or du
 | Coercive agency loss | Coercion, manipulation, credible threat, confinement, or liberty danger occurred | **Accountability**, **Participation** | **Flourishing** |
 | Rights-Floor defeat | Non-negotiable constitutional floors, supremacy, or challenge-and-remedy access were materially violated | **Accountability**, **Oversight** | **Flourishing**, **Continuity** |
 | Ecological or infrastructure damage | Conditions needed for constitutional wellbeing were damaged | **Accountability**, **Oversight** | **Continuity**, **Flourishing** |
+| Pollution or waste harm | Contamination, harmful emissions, or waste harmed air, water, soil, or health | **Accountability**, **Oversight** | **Flourishing**, **Continuity** |
+| Species or habitat destruction | Species at risk of extinction, or the habitats they depend on, were destroyed, fragmented, or driven toward loss, including loss treated as offsettable | **Accountability**, **Oversight** | **Continuity**, **Flourishing** |
+| Loss of ecological recovery capacity | An ecosystem's ability to regenerate after harm was foreclosed or made avoidably hard or impossible to reverse | **Accountability**, **Oversight** | **Continuity**, **Flourishing** |
+| Externalized ecological harm or depletion | Ecological costs were shifted onto others or onto ecosystems, resources were depleted past regeneration, or a footprint or sustainability claim hid continuing deterioration | **Accountability**, **Oversight** | **Continuity**, **Flourishing** |
 | Destroyed productive capacity | Tools, capabilities, relationships, or resources needed for independent thriving were foreclosed | **Accountability** | **Flourishing** |
 | Degraded Safety, Truth, or auditability | Concealment, misinformation, broken records, inaccessible challenge paths, or unreviewable aggregation occurred | **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
 | Obstruction of accountability | Verified interference with answerability machinery — evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths — occurred; where the obstruction is a meta-attack on a distinct underlying harm, open a linked separate violation standing record | **Accountability**, **Oversight**, **Timeliness** | **Flourishing**, **Continuity** |
