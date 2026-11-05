@@ -298,7 +298,7 @@ Each **Materially Binding Act** must observe these same-act safeguards:
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): four-seat separation map</span></strong></summary>
 
-> This map shows the four functions and a typical trace of an act and its record. It does not add a fifth seat, prescribe a universal sequence, or alter Chapter Eight's rules on independence, proportionate merged hosting, emergency action, or challenge routing.
+> This map shows the four functions and a typical trace of an act and its Act Record. It does not add a fifth seat, prescribe a universal sequence, or alter Chapter Eight's rules on independence, proportionate merged hosting, emergency action, or challenge routing.
 
 </details>
 
@@ -339,7 +339,7 @@ The chapter summaries in Sections 4 through 9 make the division of labor explici
 - **Standing measurement** uses verified inputs to classify conduct and harm on separate tracks.
 - **Standing integration** turns those classifications into proportionate effects, including recognition, competency clearances, correction, standing locks, and remedy.
 - **Misconduct review** answers its distinct question: whether a qualifying violation also warrants a final anti-constitutional-misconduct designation.
-- **Forum supervision** controls routing, evidence, transfer, challenge, and remedy so the records and decisions can be reviewed and corrected in time.
+- **Forum supervision** controls routing, evidence, transfer, challenge, and remedy so the official records and decisions can be reviewed and corrected in time.
 
 #### 6.1 Process map
 
@@ -412,7 +412,7 @@ The full chain runs in the following order:
 2. **Certify systems and institutions when impact is serious enough** — before a high-impact System is trusted at scale, obtain a contestable System Certification Record ([Chapter Nine Parts A–B](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); evaluate an Institution on its own class, conduct, governance, and portfolio under [Chapter Ten](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification) and record the result in an Institutional Certification Record.
 3. **Measure standing on separate tracks** ([Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement)) — when help or harm is serious enough to matter constitutionally, Chapter Eleven must open formal case files, admit only **verified inputs** (including system-alignment certification evidence from Chapter Nine when that evidence is material), and classify what was verified. Rumors, reputations, and dispute stories are not enough.
    - **Contribution nature:** Open a **contribution standing record** — a bounded, challengeable case file for verified help toward flourishing — and classify **contribution nature** on the Contribution Axis.
-   - **Violation nature:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Help and harm never fold into one net score; linked records cross-reference but stay separate.
+   - **Violation nature:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Help and harm never fold into one net score; linked standing records cross-reference but stay separate.
 4. **Apply standing effects on each track** ([Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration)) — verified contribution may grant competency clearance and must support proportionate recognition and material rewards; verified violation may trigger standing locks, correction, and [remedy for those harmed](core_12.000_standing_integration.md#41-remedy-and-correction).
 5. **Conduct anti-constitutional designation review** ([Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct)) — if a highest-impact violation finding may also satisfy anti-constitutional criteria, Chapter Thirteen must decide whether the corresponding designation attaches. Designation does not change how serious Chapter Eleven already found the harm to be. Ordinary Chapter Twelve effects continue in parallel until a final designation triggers the Anti-Constitutional Trust Lock.
 6. **Route disputes and keep remedy timely** ([Chapter Fourteen](core_14.000_forum.md#1-purpose-and-role--participation-architecture)) — forums must supervise how cases move, which track handles them, and whether windows under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_14.000_forum.md#dispute-sequencing). Forums must also classify disputes into five [materiality tiers](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters. Integrity-family default routing applies when final Chapter Thirteen designation is the primary stake.
@@ -448,7 +448,7 @@ Each step below states what the chapter owns and what it produces, filling in th
 **Chapter Eleven — [Standing measurement](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement)**
 
 - **What it owns:** When conduct matters constitutionally, rumors and reputations are not enough — verified facts enter **standing records**. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) are measured on **separate axes**: verified help does not erase verified harm, and the two are never folded into one net score.
-- **What it produces:** Classified **standing records** on the Contribution Axis and Violation Axis. The records must be based only on **verified inputs** and forum-supervised findings; informal scoring and dispute narratives cannot substitute for classification.
+- **What it produces:** Classified **standing records** on the Contribution Axis and Violation Axis. The standing records must be based only on **verified inputs** and forum-supervised findings; informal scoring and dispute narratives cannot substitute for classification.
 
 **Chapter Twelve — [Standing integration and effects](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration)**
 

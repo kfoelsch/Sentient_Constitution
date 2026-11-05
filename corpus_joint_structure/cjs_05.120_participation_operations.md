@@ -440,7 +440,7 @@ Interpretation support fidelity
     **Primary assessment:** Evaluation must verify that support tools preserve accuracy and trace back to underlying data and processes.
 <a id="interpretation-support-fidelity-c"></a>
 - **What must hold**
-  - **Primary failure:** Interpretation support may not distort the record, hide bias, or replace access to underlying information.
+  - **Primary failure:** Interpretation support may not distort the official record, hide bias, or replace access to underlying information.
 
 <a id="layering-and-access"></a>
 Layering and access
@@ -503,9 +503,9 @@ Summary integrity
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in summary integrity.
 <a id="summary-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** summaries to underlying records, logic, and constraints
+  - **Primary measure:** summaries to underlying official records, logic, and constraints
 
-    **Primary assessment:** Evaluation must compare summaries to underlying records, logic, and constraints.
+    **Primary assessment:** Evaluation must compare summaries to underlying official records, logic, and constraints.
 <a id="summary-integrity-c"></a>
 - **What must hold**
   - **Primary failure:** Summaries that omit or distort material conditions.

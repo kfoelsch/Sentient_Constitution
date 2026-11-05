@@ -411,7 +411,7 @@ This subsection implements **Chapter Six**, **Article X-B** (*Governance Partici
     - bad-faith delay by the governing side;
     - structured impossibility used as pretext; or
     - refusal to agree a **contestable** valuation method.
-    **Chapter Fourteen** and applicable incorporated procedure must provide a **reviewable record** when **full discharge** is delayed for reasons outside the sentenced party’s sole control.
+    **Chapter Fourteen** and applicable incorporated procedure must provide a **reviewable official record** when **full discharge** is delayed for reasons outside the sentenced party’s sole control.
   - **Partial and conditional restoration:** Where **full** discharge is **impossible** after **good-faith effort** (for example, certain harms are not reversibly compensable, or no party can locate necessary counterparties), **Chapter Fourteen** and applicable incorporated procedure may adopt **partial** or **conditional** restoration milestones that **materially satisfy** [**Redress and Remediation**](core_05.035_band_accountability.md#redress-and-remediation) for what can feasibly be done; upon satisfaction of those milestones, **durable political voice** must be **restored** unless **Chapter Thirteen** safeguards and **Article XX-A** (*Justice Objective and Scope*) still require further specific duties that remain **feasible** and **not pretextual**. These routes remain **fully contestable**; they do **not** authorize token gestures in place of genuine restoration where restoration remains practicable.
   - **Preservation of the grave-misconduct rule:** The **final** **Violation Axis s = 7, 8, or 9** withholding rule above remains **fully operative**: **bad-faith delay or evasion by the sentenced party** does **not** compel early restoration, and **grave** misconduct may **withhold** foundational voice until **real** restoration duties aligned with **Chapter Thirteen** and **Article XX-A** (*Justice Objective and Scope*) are satisfied where satisfaction remains **feasible**.
   - Where a standing lock or restitution withholding is invoked to restrict participation in foundational constitutional choice (authorization of governing authority, or named reauthorization pathways), the restriction must satisfy:
@@ -436,7 +436,7 @@ This subsection implements **Chapter Six**, **Article X-B** (*Governance Partici
 
 *In plain terms: rules must be clear before the fact, records **must be open to verification**, high-stakes choices need legitimacy gates — and many voting methods are allowed if **participants** can understand them and push back.*
 
-This subsection sets out the record, gate, and method-neutrality requirements for governance mechanisms:
+This subsection sets out the official record, gate, and method-neutrality requirements for governance mechanisms:
 
 - **Publication and ex ante clarity:** Published rules must identify:
   - scope;

@@ -274,7 +274,7 @@ For **CI-9.210 §3** (*Delegated subunits, institutional design class, and attac
 
 Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in [**CF-14.405**](../corpus_forum/cf_14.405_forum_formation_chamber_structure.md#cf-14405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*) and related **CF** sections. Where **CF-14.405 §6** (*Chamber authority composition and service mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Fourteen** forums. Where **CI** and **CF** obligations overlap, the clearly adopted rule with the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) governs under [Chapter One §15.4.3 Incorporation layer](../core_01.005_interaction_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
-It is non-compliant to treat a body or route as valid if the records do not make lawful authority, independence safeguards, backup routes, and contest routes auditable where they materially apply.
+It is non-compliant to treat a body or route as valid if the official records do not make lawful authority, independence safeguards, backup routes, and contest routes auditable where they materially apply.
 
 It is also non-compliant to use common-question procedures to suppress material sentient-specific contest rights required by owner rules.
 

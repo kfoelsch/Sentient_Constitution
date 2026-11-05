@@ -479,6 +479,13 @@
       "summary": "On a line that names a System record and also speaks of an Institution, or names an Institution's record and also speaks of a System, a bare \"the record\", \"this record\" or \"that record\" says which: the Institutional Certification Record or the System Certification Record.",
       "make_target": "record-qualified-audit",
       "status": "blocking"
+    },
+    {
+      "id": "RECORD-KIND-01",
+      "legacy_ref": "record wording",
+      "summary": "The noun \"record\" says which kind of record it is (standing record, contribution record, violation record, Forum Case Record, System Certification Record, classification record) or \"record of ...\"; a bare \"the record\", \"a record\", \"that record\", \"its own record\" or \"the same record\" fails. Record custodian, record-opening authority, record seat and record span, the verb, and \"on record\" are not matched. Older uses sit in a shrink-only baseline.",
+      "make_target": "record-kind-audit",
+      "status": "blocking"
     }
   ]
 }

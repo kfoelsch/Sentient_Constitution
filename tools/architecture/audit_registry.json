@@ -879,6 +879,16 @@
       "run": "auto",
       "writes": false
     },
+    "record-kind-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "record-kind-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
     "chart-orientation-audit": {
       "category": "links",
       "run": "auto",

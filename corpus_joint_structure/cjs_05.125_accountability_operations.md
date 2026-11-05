@@ -336,7 +336,7 @@ Constitutional lane and functional separation
 *In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties. Splitting the lanes is also the corpus's **separation of duties** rule: the office that asks for something, the office that checks it, the office that records it, and the office that hears a challenge to it are different seats.*
 
 - **What it is**
-  - **In scope:** A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable. **Separation of duties** is the transaction-level form of the same rule, stated at principle layer in [Chapter Eight §2 Four-Seat Constitutional Requirement](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and not narrowable here: for any single [materially binding act](../core_05.035_band_accountability.md#materially-binding-act) or record, the request, the verification, the entry and custody, and the contest are held by different seats, and no seat both verifies and enters, or both verifies and hears the contest. The [Chapter Eleven §4.7 Separation of duties](../core_11.000_standing_assessment.md#47-separation-of-duties) standing-record lifecycle (request → verify → enter and hold → contest) is one duty set every lane map must place; it is the reference instance of this rule, and the lane map is the fallback when a [System Charter](../core_05.040_band_continuity.md#system-charter) or [Institutional Charter](../core_05.040_band_continuity.md#institutional-charter) is silent on record custody. The seat types a lane hosts — the four core seats plus the containment, participation-terms, release-control, and direction seats — and what each may and may not do are fixed in [CI-15.205 §6](../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*); a lane map places seats, it does not redefine them.
+  - **In scope:** A constitutional lane is a published functional separation with constitutionally binding duties. Required lanes include direction and policy, execution, challenge and review, assurance and audit, and publication and evidence work. One institution may host more than one lane only when independence safeguards are documented, auditable, and contestable. **Separation of duties** is the transaction-level form of the same rule, stated at principle layer in [Chapter Eight §2 Four-Seat Constitutional Requirement](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and not narrowable here: for any single [materially binding act](../core_05.035_band_accountability.md#materially-binding-act) or record, the request, the verification, the entry and custody, and the contest are held by different seats, and no seat both verifies and enters, or both verifies and hears the contest. The [Chapter Eleven §5.1 Separation of duties](../core_11.000_standing_assessment.md#51-separation-of-duties) standing-record lifecycle (request → verify → enter and hold → contest) is one duty set every lane map must place; it is the reference instance of this rule, and the lane map is the fallback when a [System Charter](../core_05.040_band_continuity.md#system-charter) or [Institutional Charter](../core_05.040_band_continuity.md#institutional-charter) is silent on record custody. The seat types a lane hosts — the four core seats plus the containment, participation-terms, release-control, and direction seats — and what each may and may not do are fixed in [CI-15.205 §6](../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*); a lane map places seats, it does not redefine them.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in constitutional lane and functional separation.
 <a id="constitutional-lane-and-functional-separation-a"></a>
 - **How to measure and assess**
@@ -547,9 +547,9 @@ Disclosure, audit, and challenge sufficiency
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in disclosure, audit, and challenge sufficiency.
 <a id="disclosure-audit-and-challenge-sufficiency-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** the record supports reconstruction and external testing
+  - **Primary measure:** the Act Record supports reconstruction and external testing
 
-    **Primary assessment:** Evaluation must verify the record supports reconstruction and external testing.
+    **Primary assessment:** Evaluation must verify the Act Record supports reconstruction and external testing.
 <a id="disclosure-audit-and-challenge-sufficiency-c"></a>
 - **What must hold**
   - **Primary failure:** A justification that cannot be audited, reviewed, or contested.
@@ -625,10 +625,10 @@ Restriction-burden assignment minimum
 <a id="rights-collision-and-alternative-selection-record"></a>
 Rights-collision and alternative-selection record
 
-*In plain terms: when restrictions are justified by conflict among rights or duties, the record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review…*
+*In plain terms: when restrictions are justified by conflict among rights or duties, the Constitutional Collision Record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review…*
 
 - **What it is**
-  - **In scope:** When restrictions are justified by conflict among rights or duties, the record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
+  - **In scope:** When restrictions are justified by conflict among rights or duties, the Constitutional Collision Record must apply [Chapter One §13.1.5 Rights-Collision Procedure](../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in rights-collision and alternative-selection record.
 <a id="rights-collision-and-alternative-selection-record-a"></a>
 - **How to measure and assess**
@@ -814,7 +814,7 @@ Delegated binding body
     **Primary assessment:** Evaluation must verify the delegation source, scope boundaries, decision authority, composition, quorum or participation rules where applicable, records, and challenge or escalation paths.
 <a id="delegated-binding-body-c"></a>
 - **What must hold**
-  - **Primary failure:** A delegated body when its authority is unpublished, materially exceeds its scope, lacks auditable records, or defeats owner-file independence, participation, or contest routes.
+  - **Primary failure:** A delegated body when its authority is unpublished, materially exceeds its scope, lacks auditable official records, or defeats owner-file independence, participation, or contest routes.
 
 <a id="deposition-or-preserved-testimony-session"></a>
 Deposition or preserved-testimony session
@@ -826,9 +826,9 @@ Deposition or preserved-testimony session
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in deposition or preserved-testimony session.
 <a id="deposition-or-preserved-testimony-session-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** authorization or voluntary consent, notice to affected parties where material, scope of questioning, accessibility and interpretation support, protective conditions, conflict or sponsorship disclosures, objection logging, recording or transcript integrity, exhibit handling, correction rights, retention, access class, and the later use permitted for the record. If a deposition is used in a forum, emergency review, sanction, governance decision, or cross-implementation audit, reviewers must verify whether the opposing or affected side had a fair chance to test material testimony or whether any limit on testing was justified and reviewable
+  - **Primary measure:** authorization or voluntary consent, notice to affected parties where material, scope of questioning, accessibility and interpretation support, protective conditions, conflict or sponsorship disclosures, objection logging, recording or transcript integrity, exhibit handling, correction rights, retention, access class, and the later use permitted for the Forum Case Record. If a deposition is used in a forum, emergency review, sanction, governance decision, or cross-implementation audit, reviewers must verify whether the opposing or affected side had a fair chance to test material testimony or whether any limit on testing was justified and reviewable
 
-    **Primary assessment:** Evaluation must verify authorization or voluntary consent, notice to affected parties where material, scope of questioning, accessibility and interpretation support, protective conditions, conflict or sponsorship disclosures, objection logging, recording or transcript integrity, exhibit handling, correction rights, retention, access class, and the later use permitted for the record. If a deposition is used in a forum, emergency review, sanction, governance decision, or cross-implementation audit, reviewers must verify whether the opposing or affected side had a fair chance to test material testimony or whether any limit on testing was justified and reviewable.
+    **Primary assessment:** Evaluation must verify authorization or voluntary consent, notice to affected parties where material, scope of questioning, accessibility and interpretation support, protective conditions, conflict or sponsorship disclosures, objection logging, recording or transcript integrity, exhibit handling, correction rights, retention, access class, and the later use permitted for the Forum Case Record. If a deposition is used in a forum, emergency review, sanction, governance decision, or cross-implementation audit, reviewers must verify whether the opposing or affected side had a fair chance to test material testimony or whether any limit on testing was justified and reviewable.
 <a id="deposition-or-preserved-testimony-session-c"></a>
 - **What must hold**
   - **Primary failure:** A deposition record when it is used to evade hearing rights, manufacture untested evidence, coerce a witness, hide restrictions or sponsorship, bypass restricted-evidence safeguards, launder an investigative interview into adjudicative evidence, or convert voluntary community testimony into binding proof without the notice, testing, record, and review protections required by its later use.
@@ -876,7 +876,7 @@ This sub-rule governs **common-question procedure**: a forum resolves one shared
 
 A **common decision rule** is the **named shared practice in dispute** for that expanded proceeding—the specific rule, policy, model behavior, eligibility test, fee formula, routing criterion, or comparable decision basis applied the same way across the group. It is the thing whose lawfulness, application, or effect the forum is deciding for everyone included, not merely a label for "many sentients were harmed." Examples include a mass-denial algorithm, a published institutional threshold, a standardized sanction trigger, or a system-default setting that drives the same result class-wide.
 
-Before representative treatment can proceed, the record must identify that shared practice clearly enough that affected parties can contest **who is covered** (scope), **whether representation is adequate**, and **whether sentient-specific exceptions** are required.
+Before representative treatment can proceed, the Forum Case Record must identify that shared practice clearly enough that affected parties can contest **who is covered** (scope), **whether representation is adequate**, and **whether sentient-specific exceptions** are required.
 
 - **What it is**
   - **In scope:** Common-question procedure may resolve issues for a broader affected group only when commonality, notice, adequate representation, and contestability are preserved.
@@ -910,10 +910,10 @@ Restoration accessibility and remedy realism
 <a id="review-independence-and-contestability"></a>
 Review independence and contestability
 
-*In plain terms: material decisions need accessible review, escalation to suitable independence, auditable records, and clear outcome status.*
+*In plain terms: material decisions need accessible review, escalation to suitable independence, auditable official records, and clear outcome status.*
 
 - **What it is**
-  - **In scope:** Material decisions need accessible review, escalation to suitable independence, auditable records, and clear outcome status.
+  - **In scope:** Material decisions need accessible review, escalation to suitable independence, auditable official records, and clear outcome status.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in review independence and contestability.
 <a id="review-independence-and-contestability-a"></a>
 - **How to measure and assess**
@@ -1017,7 +1017,7 @@ Uncertainty safeguards and anti-abuse minimum
 
 <br>
 
-*In plain terms: When someone may override normal operation, who must authorize it, and what record that leaves. An override capability is necessary; an unlogged one is a back door.*
+*In plain terms: When someone may override normal operation, who must authorize it, and what Act Record that leaves. An override capability is necessary; an unlogged one is a back door.*
 
 Use this rule when governance-level intervention or override authorization depends on a standalone system, institution, forum, or bounded decision domain, or on how institutions, systems, or implementation layers work together.
 
@@ -1139,7 +1139,7 @@ Records, transparency, and challenge pathway duties
 - **How to measure and assess**
   - **Primary measure:** records and disclosure are enough for independent review and constitutional challenge
 
-    **Primary assessment:** Reviewers must verify that records and disclosure are enough for independent review and constitutional challenge.
+    **Primary assessment:** Reviewers must verify that official records and disclosure are enough for independent review and constitutional challenge.
 <a id="records-transparency-and-challenge-pathway-duties-c"></a>
 - **What must hold**
   - **Primary failure:** Missing records, transparency defaults, or challenge channels.
@@ -1190,7 +1190,7 @@ Records, transparency, and challenge pathway duties
 
 <br>
 
-*In plain terms: spot the pattern behind repeated failures, rank how urgently it must be fixed, actually fix it, and tell the affected sentients and stakeholders who need to know — without quietly downgrading a record along the way.*
+*In plain terms: spot the pattern behind repeated failures, rank how urgently it must be fixed, actually fix it, and tell the affected sentients and stakeholders who need to know — without quietly downgrading a System Classification Record along the way.*
 
 Use this rule when recurring failures, Correction Urgency (**CU**) assignment, structural transparency, or **material classification-record honesty** (correction, precautionary default, and no quiet lowering across owner-layer class/type/status files) depends on standalone system behavior or combined institutional, system, dependency, or implementation-layer behavior.
 
@@ -1253,7 +1253,7 @@ Material classification-record honesty (correction, precautionary default, and n
 Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive — including the [System Classification Record](../core_05.040_band_continuity.md#system-classification-record), the [System Data Types Record](../core_05.040_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*), **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*), and peers). How System Alignment Certification treats resulting defects lives under **[Chapter Nine Part B §7](../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)**.
 
 - **What it is**
-  - **In scope:** Operators must keep material classification records honest. When understatement, evasion, or misclassification is found, **correct** the record, apply proportional requirements **retroactively** where appropriate, and take corrective action for resulting harm or exposure. Do **not** split, modularize, fragment, re-label, or otherwise restructure just to dodge a stronger applicable classification. Where the record is incomplete, ambiguous, or contested, apply the owner-layer **rights-protective / highest-plausible** default, and state any precautionary finding and pending certification conditions **in the record**. **Lowering** a protective classification, dropping certification conditions, or claiming lighter duties requires evidence, documentation, and successful review — an internal self-clear alone does **not** defeat a timely contest (**CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*)).
+  - **In scope:** Operators must keep material classification records honest. When understatement, evasion, or misclassification is found, **correct** the System Classification Record, apply proportional requirements **retroactively** where appropriate, and take corrective action for resulting harm or exposure. Do **not** split, modularize, fragment, re-label, or otherwise restructure just to dodge a stronger applicable classification. Where the System Classification Record is incomplete, ambiguous, or contested, apply the owner-layer **rights-protective / highest-plausible** default, and state any precautionary finding and pending certification conditions **in the System Classification Record**. **Lowering** a protective classification, dropping certification conditions, or claiming lighter duties requires evidence, documentation, and successful review — an internal self-clear alone does **not** defeat a timely contest (**CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*)).
   - **Out of scope:** ordinary recordkeeping hygiene or metadata cleanup with no material class, type, status, protective-duty, or certification-condition stake.
 <a id="cjs-315-material-classification-record-honesty-a"></a>
 - **How to measure and assess**

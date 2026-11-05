@@ -7,8 +7,8 @@
       "snippet": "They may not find the same institutional fact differently without saying why on the System Certification Record"
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::0314d202836f",
-      "snippet": "each certification pass opens a new record linked to the one it follows"
+      "key": "core_10.000_institutional_alignment_certification.md::05a50fc0c09b",
+      "snippet": "an Institutional Certification Record has to say where to push back."
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::0610c08b05fa",
@@ -17,10 +17,6 @@
     {
       "key": "core_10.000_institutional_alignment_certification.md::0ab9c9841295",
       "snippet": "They are routes into the forums, not a new forum, and Chapter Fourteen still decides which forum has authority."
-    },
-    {
-      "key": "core_10.000_institutional_alignment_certification.md::0d2c2669a002",
-      "snippet": "the record's own transparency and auditability rules (§8.2 Transparency and auditability of the record) and the forum review rules (§6 Forum Process);"
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::0de7e77d19d2",
@@ -39,10 +35,6 @@
       "snippet": "It covers how affected parties challenge an Institutional Certification Record."
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::1a874e63ff7b",
-      "snippet": "The sequence still runs, and the measure is entered on the record"
-    },
-    {
       "key": "core_10.000_institutional_alignment_certification.md::200da09e360e",
       "snippet": "The paths apply Chapter Fourteen's Dispute sequencing to Institutional Certification Records."
     },
@@ -53,10 +45,6 @@
     {
       "key": "core_10.000_institutional_alignment_certification.md::2487c6854573",
       "snippet": "What it passes on still has to clear the verified-input gate in §11.3 Verified-input gate"
-    },
-    {
-      "key": "core_10.000_institutional_alignment_certification.md::2539eecc092c",
-      "snippet": "a record has to say where to push back."
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::29173d3d29ab",
@@ -107,12 +95,16 @@
       "snippet": "Article XIII (Right to Reliable and Trustworthy Systems):"
     },
     {
+      "key": "core_10.000_institutional_alignment_certification.md::5b462a9ae36b",
+      "snippet": "The sequence still runs, and the measure is entered on the Institutional Certification Record"
+    },
+    {
       "key": "core_10.000_institutional_alignment_certification.md::5c0bceb35077",
       "snippet": "An Institution's status, its count of clean recertifications, and its monitoring indicators must be verified, and the verification must be open to independent r"
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::61932b5cf69e",
-      "snippet": "A claim that an Institution is aligned is unsupported while it has stakeholders but no open path for challenging the record"
+      "key": "core_10.000_institutional_alignment_certification.md::5ff193a2dd40",
+      "snippet": "its path is already open, or it opens when its Institutional Certification Record opens."
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::673f36808d2d",
@@ -125,6 +117,10 @@
     {
       "key": "core_10.000_institutional_alignment_certification.md::68f0d315be27",
       "snippet": "These items, in the Institutional Certification Record, may supply verified input for a violation standing record where the facts support adverse classification"
+    },
+    {
+      "key": "core_10.000_institutional_alignment_certification.md::741c48834d0b",
+      "snippet": "The Institutional Certification Record must identify, at minimum:"
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::82970fdc6e1d",
@@ -145,6 +141,10 @@
     {
       "key": "core_10.000_institutional_alignment_certification.md::87ea482ca42b",
       "snippet": "Standing input needs facts that support an adverse classification and attribution to the Institution as the actor (§11.5 Violation standing record), and a readi"
+    },
+    {
+      "key": "core_10.000_institutional_alignment_certification.md::8ab5652e88a4",
+      "snippet": "A claim that an Institution is aligned is unsupported while it has stakeholders but no open path for challenging the Institutional Certification Record"
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::8d03f5bd1d46",
@@ -183,10 +183,6 @@
       "snippet": "None of this covers negligence, concealment, or false evidence"
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::acb1bf9820fa",
-      "snippet": "The process still runs afterwards, and the measure is entered on the record"
-    },
-    {
       "key": "core_10.000_institutional_alignment_certification.md::b44c125f4830",
       "snippet": "Article XIII-A (Reliability and Trustworthiness Baseline) and Safe Conditions:"
     },
@@ -211,6 +207,10 @@
       "snippet": "Chapters Two through Four, and whichever Chapter Fourteen process applies"
     },
     {
+      "key": "core_10.000_institutional_alignment_certification.md::c58adbdd3138",
+      "snippet": "The process still runs afterwards, and the measure is entered on the Institutional Certification Record"
+    },
+    {
       "key": "core_10.000_institutional_alignment_certification.md::c934b1e6fe6f",
       "snippet": "an Institution that keeps producing misaligned results is misaligned, even if its design looks sound on paper."
     },
@@ -231,6 +231,10 @@
       "snippet": "Where the Institution makes consistent, honest efforts and is not negligent, a violation finding is unlikely."
     },
     {
+      "key": "core_10.000_institutional_alignment_certification.md::e1820cf1b3b3",
+      "snippet": "the Institutional Certification Record's own transparency and auditability rules (§8.2 Transparency and auditability of the Institutional Certification Record) "
+    },
+    {
       "key": "core_10.000_institutional_alignment_certification.md::e706dcf761b5",
       "snippet": "No second record is opened for the decision."
     },
@@ -241,6 +245,10 @@
     {
       "key": "core_10.000_institutional_alignment_certification.md::eb3d0b91a9b0",
       "snippet": "A complaints box that changes nothing does not count"
+    },
+    {
+      "key": "core_10.000_institutional_alignment_certification.md::ec2f078fdbc4",
+      "snippet": "each certification pass opens a new Institutional Certification Record linked to the one it follows"
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::ee7e80c07d2b",

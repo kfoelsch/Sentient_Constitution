@@ -37,7 +37,7 @@ The Sentient Constitution is a written framework meant to prevent that. It asks 
 
 - **Participation:** those affected get a real say.
 - **Oversight:** someone independent can check the work.
-- **Accountability:** decisions leave a record, and wrongs can be challenged and put right.
+- **Accountability:** decisions leave an official record, and wrongs can be challenged and put right.
 - **Timeliness:** all of this happens fast enough to matter.
 
 The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 28 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems are held to the same standard.
@@ -105,7 +105,7 @@ The Constitution is one document split into a Preamble and nineteen chapters. Yo
 | **Chapter 9**: [Part A](core_09.000_system_alignment_certification_evaluation.md) · [Part B](core_09.005_system_alignment_certification_record_process.md) · [Part C](core_09.010_system_alignment_certification_record_recertification.md) · [worked illustrations, CS-9.320](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
 | **Chapter 10**: [Institutional alignment certification](core_10.000_institutional_alignment_certification.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
 | **Chapter 11**: [Standing assessment](core_11.000_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
-| **Chapter 12**: [Standing integration](core_12.000_standing_integration.md) | What those records lead to: effects, restoration, and remedies |
+| **Chapter 12**: [Standing integration](core_12.000_standing_integration.md) | What those standing records lead to: effects, restoration, and remedies |
 | **Chapter 13**: [Part A](core_13.000_misconduct_designation.md) · [Part B](core_13.005_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
 | **Chapter 14**: [Forums](core_14.000_forum.md) | Review bodies and hearings, and why no one may judge their own case |
 | [Worked examples for Chapters 11–13](core_11.005_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |

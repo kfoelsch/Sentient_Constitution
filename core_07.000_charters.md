@@ -8,7 +8,7 @@
 > - **Constitutional owner:** when a system must publish a System Charter and when an institution must publish an Institutional Charter (required at Class L or higher, voluntary at Class P), the minimum each must state, how each changes and is reviewed, and the formation check on the standing and authenticity of the holders of covered offices.
 > - **Definition home:** [System Charter](core_05.040_band_continuity.md#system-charter), [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), [Chartered Party](core_05.040_band_continuity.md#chartered-party), and [Operating Party](core_05.050_band_oversight.md#operating-party) are defined in Chapter Five. This chapter applies them and does not redefine them.
 > - **Implementation owner:** [CI-8.205 §6](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter contents, review, and formation template*) holds the full field template, the review checklist, the formation procedure, and the formation check statement template. It may be stricter and may add fields. It may not narrow this chapter. Its text binds as incorporated implementation text only within valid adoption scope ([Chapter Nineteen §4 Adoption framing and scope of authority](core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); the requirements in this chapter bind as core text.
-> - **Downstream consumers:** [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Ten tests the formation check statement for an Institution. [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) applies it to standing records. [Chapter Fourteen §4.3 Institutional Forums](core_14.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
+> - **Downstream consumers:** [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Ten tests the formation check statement for an Institution. [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) applies it to standing records. [Chapter Fourteen §4.3 Institutional Forums](core_14.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
 >
 > Reading order: §1 when System and Institutional Charters are required, with the chart that maps the process → §2 the right to form and five narrow limits → §3 what they must state → §4 the Charter Role Map and standing-record custody → §5 the formation check on office-holder standing and authenticity → §6 when a holder fails the formation check → §7 amendment, review, and scope misalignment.
 
@@ -161,7 +161,7 @@ If either of these happens, publishing stops being optional.
 
 The Operating Party must then publish the System Charter or Institutional Charter that fits it, on the schedule in [§1.5 When a System Charter or Institutional Charter is due](#15-when-a-system-charter-or-institutional-charter-is-due).
 
-**Recognition does not depend on a scope document.** A group, with or without a System Charter or Institutional Charter and whatever its class, does not stand between its members and recognition. Each member may seek a contribution record as an individual claimant, for work done inside the group or outside it, and the record concerns the member's contribution and not the group's standing ([Chapter Eleven §4.7 Informal and small-scope records](core_11.000_standing_assessment.md#47-informal-and-small-scope-records)). Giving aid, goods, labor, or services that no one is required to accept is not a materially binding act, so a mutual aid circle that gives quilts to refugees needs no System Charter or Institutional Charter for its members to be recognized.
+**Recognition does not depend on a scope document.** A group, with or without a System Charter or Institutional Charter and whatever its class, does not stand between its members and recognition. Each member may seek a contribution record as an individual claimant, for work done inside the group or outside it, and the standing record concerns the member's contribution and not the group's standing ([Chapter Eleven §5.7 Informal and small-scope records](core_11.000_standing_assessment.md#57-informal-and-small-scope-records)). Giving aid, goods, labor, or services that no one is required to accept is not a materially binding act, so a mutual aid circle that gives quilts to refugees needs no System Charter or Institutional Charter for its members to be recognized.
 
 <a id="15-when-a-system-charter-or-institutional-charter-is-due"></a>
 #### 1.5 When a System Charter or Institutional Charter is due
@@ -424,8 +424,8 @@ A System Charter states, in plain language that affected sentients and auditors 
 7. **Charter Role Map:** the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), or a Charter Pointer to the published document that is the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
 8. **Binding stakeholder-choice Charter Pointers:**
    - **When it applies:** when a real disagreement among affected sentients requires a binding stakeholder choice inside the system. [Def.P2 Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice) calls this its admission scope.
-   - **What it points to:** live Charter Pointers to three published sets of rules: the decision sequence (how the choice is made), the weighting rules (who gets how much say), and the rights-collision-record rules (what the record must show when rights collide).
-   - **Who carries what:** the System Charter holds only the pointers. The three sets of rules hold the actual content: how the choice is made, how weight is set, and what the record shows. The System Charter does not carry that content itself, and its own text cannot be offered in place of those rules. A dead pointer, or System Charter text offered in place of the rules, fails the System Charter duty.
+   - **What it points to:** live Charter Pointers to three published sets of rules: the decision sequence (how the choice is made), the weighting rules (who gets how much say), and the rights-collision-record rules (what the Stakeholder Rights-Collision Record must show when rights collide).
+   - **Who carries what:** the System Charter holds only the pointers. The three sets of rules hold the actual content: how the choice is made, how weight is set, and what the Stakeholder Rights-Collision Record shows. The System Charter does not carry that content itself, and its own text cannot be offered in place of those rules. A dead pointer, or System Charter text offered in place of the rules, fails the System Charter duty.
 9. **Amendment authority:** who may amend, what counts as a material amendment, and the notice and contest path.
 
 <a id="32-charter-pointers"></a>
@@ -485,7 +485,7 @@ Some parts of a System Charter or Institutional Charter scale with class and som
 - Downstream:
   - [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.005 §6.1.1);
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7);
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5);
   - **CI-8.205 §2** (*Functional separation lanes*);
   - **CI-15.205 §5** (*Authorized roles and accountability chains*);
   - **CI-15.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
@@ -554,9 +554,9 @@ The map can change in two ways, and each has its own route:
 
 - **Who may hold a seat:** Deciding which offices may hold a seat, act as a substitute, or share hosting is a change to the map's rules. It can be made only through the amendment process the System Charter or Institutional Charter names ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)).
 - **Who holds a seat now:** Changing the current holder is an update, not an amendment. It is done by publishing a new dated version of the map.
-  - **Notice and a chance to contest:** For the record seat, the contest seat, and any verify-or-authorize seat the map places, the new version takes effect only after notice and a chance to contest. Notice goes at once to the subject, each claimant, and each challenger on every open record the seat touches.
-  - **Where a contest goes:** A contest goes to a forum under [Chapter Eleven §4.6 Forum boundary](core_11.000_standing_assessment.md#46-forum-boundary), not only to the path the System Charter or Institutional Charter names for amendments, and a pending contest holds the change back: the current holder stays in the seat.
-  - **What the new holder must show:** The Chartered Party must show that the new holder passes every test in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10. The tests have one objective: the seat must be held by a body that cannot be pressured by, or favor, the subject, a claimant, or a challenger, and that keeps the record safe and open to challenge. The new holder must therefore sit outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of those parties, must not hold two seats for the same record or host in a reciprocal or circular arrangement, must keep the record and its audit trail intact, route challenges the day they arrive, charge no fee, and disclose who funds and governs it.
+  - **Notice and a chance to contest:** For the record seat, the contest seat, and any verify-or-authorize seat the map places, the new version takes effect only after notice and a chance to contest. Notice goes at once to the subject, each claimant, and each challenger on every open standing record the seat touches.
+  - **Where a contest goes:** A contest goes to a forum under [Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary), not only to the path the System Charter or Institutional Charter names for amendments, and a pending contest holds the change back: the current holder stays in the seat.
+  - **What the new holder must show:** The Chartered Party must show that the new holder passes every test in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10. The tests have one objective: the seat must be held by a body that cannot be pressured by, or favor, the subject, a claimant, or a challenger, and that keeps the standing record safe and open to challenge. The new holder must therefore sit outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of those parties, must not hold two seats for the same standing record or host in a reciprocal or circular arrangement, must keep the standing record and its audit trail intact, route challenges the day they arrive, charge no fee, and disclose who funds and governs it.
   - **An empty seat:** A seat that is actually empty is handled under [§4.7 Gaps in the map for operator standing records](#47-gaps-in-the-map-for-operator-standing-records), not by this bullet.
 
 **Which version applies:** An act is judged against the map that was in force on the day it was taken. If a forum sets a holder change aside, the change is treated as never having taken effect, and the acts that holder took in the seat are open to review.
@@ -564,14 +564,14 @@ The map can change in two ways, and each has its own route:
 <a id="46-standing-record-custody"></a>
 #### 4.6 Standing-record custody
 
-What the map must say depends on the kind of [Standing Record](core_05.035_band_accountability.md#standing-record), because the two kinds face different conflicts of interest ([Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority), *Two kinds of standing record by subject*). Chapter Eleven applies the Four-Seat Requirement to the records themselves.
+What the map must say depends on the kind of [Standing Record](core_05.035_band_accountability.md#standing-record), because the two kinds face different conflicts of interest ([Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority), *Two kinds of standing record by subject*). Chapter Eleven applies the Four-Seat Requirement to the standing records themselves.
 
 <a id="461-operator-standing-records"></a>
 ##### 4.6.1 Operator standing records
 
 Operator standing records are records about the Chartered Party, its chartered scope, and the systems it stewards. For these, the map names four things:
 
-- who may open the record (the verifying seat);
+- who may open the standing record (the verifying seat);
 - a separate custodian who keeps it (the record seat);
 - who handles contests (the contest seat); and
 - an independent route for when no qualified substitute is available, or when the named authority or custodian is itself the subject or sits inside the subject's Material Control Line, such as a forum, the independent investigative service, or a backup body named in advance.
@@ -579,18 +579,18 @@ Operator standing records are records about the Chartered Party, its chartered s
 Where the System Charter or Institutional Charter names no route (a gap under [§4.7 Gaps in the map for operator standing records](#47-gaps-in-the-map-for-operator-standing-records)), these defaults apply:
 
 - **Record-opening authority:** The Backup Record Authority under **CF-14.415 §7** (*Backup Record Authority*) is the default.
-- **Custodian:** The Backup Record Custodian under **CF-14.415 §9** (*Backup Record Custodian*) is the default. It also holds the record where the named custodian cannot act.
+- **Custodian:** The Backup Record Custodian under **CF-14.415 §9** (*Backup Record Custodian*) is the default. It also holds the standing record where the named custodian cannot act.
 - **Who may be named, and the tests:** Who may be named to these seats, and the tests each holder must pass, are in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10.
 
 <a id="462-stakeholder-standing-records"></a>
 ##### 4.6.2 Stakeholder standing records
 
-Stakeholder standing records are records about the sentients and institutions that use, rely on, or are affected by its systems. For these, the rules differ, because the Chartered Party may have a stake in the record:
+Stakeholder standing records are records about the sentients and institutions that use, rely on, or are affected by its systems. For these, the rules differ, because the Chartered Party may have a stake in the standing record:
 
-- **The Chartered Party's stake:** It may be the one making a claim or an accusation in these records.
-- **Its own offices:** They may hold a seat on a record only if the Chartered Party has no stake in that record. If it has a stake, the record goes to an office outside the Chartered Party's control, or to independent verification.
-- **If none is named and the Chartered Party has a stake:** The record goes to the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)) and the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)), or to a forum, as [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (*No self-custody*) provides.
-- **Naming offices is optional:** The map may name offices for these records ahead of time, but it doesn't have to, and a map that names none is still valid.
+- **The Chartered Party's stake:** It may be the one making a claim or an accusation in these standing records.
+- **Its own offices:** They may hold a seat on a standing record only if the Chartered Party has no stake in that standing record. If it has a stake, the standing record goes to an office outside the Chartered Party's control, or to independent verification.
+- **If none is named and the Chartered Party has a stake:** The standing record goes to the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)) and the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)), or to a forum, as [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (*No self-custody*) provides.
+- **Naming offices is optional:** The map may name offices for these standing records ahead of time, but it doesn't have to, and a map that names none is still valid.
 
 <a id="47-gaps-in-the-map-for-operator-standing-records"></a>
 #### 4.7 Gaps in the map for operator standing records
@@ -611,8 +611,8 @@ A map with gaps makes the System Charter or Institutional Charter invalid. The m
 
 Until it is resolved, none of the Chartered Party's own offices can issue a valid standing record for the affected scope.
 
-- **Where the record goes:** The record goes to the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)) to verify and the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)) to hold, or to a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority), *No self-custody*).
-- **When custody goes back:** The Backup Record Authority and Backup Record Custodian keep handling the record until all three of these have happened. Then custody goes back to the named holders.
+- **Where the standing record goes:** The standing record goes to the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)) to verify and the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)) to hold, or to a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority), *No self-custody*).
+- **When custody goes back:** The Backup Record Authority and Backup Record Custodian keep handling the standing record until all three of these have happened. Then custody goes back to the named holders.
   - **All seats are filled:** Every seat the map requires has a named holder again.
   - **The holders pass the tests:** The Backup Record Authority or a forum confirms that each holder passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10.
   - **Notice and a chance to contest have run:** The notice and chance to contest in [§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders) have been completed.
@@ -706,7 +706,7 @@ The formation check sets out which offices it covers, who falls outside it, and 
 - **Covered offices:**
   - each office of the governing authority, including every office that holds the amendment authority named under [§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state) (item 7);
   - each office the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) names for a seat, a substitute, or the independent route ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)); and
-  - any other office, delegate, or contractor whose acts materially bind others within the chartered scope or who controls the records, keys, or funds that scope depends on.
+  - any other office, delegate, or contractor whose acts materially bind others within the chartered scope or who controls the official records, keys, or funds that scope depends on.
 - **Other staff:** are not checked one by one. They are covered by the staff safeguards check below.
 - **Any substrate:** the formation check is the same whatever the substrate of the holder. Where the holder of a covered office is a System, the formation check runs on that System's operator or steward, whose interests and control are the ones that matter, as well as on the System's own System Certification Record.
 
@@ -732,8 +732,8 @@ A covered office is **authentic** when its holder holds it in their own right an
   - The holder's pay, equity, targets, and other rewards are disclosed to the level of their materiality and put to the [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions): does the structure reward the stated purpose, or does it reward crossing the stated limits, hiding problems, or shifting costs onto others?
   - A holder who is rewarded for what the Chartered Party's published limits forbid does not hold the office for its stated purpose until the reward is changed.
 - **Conduct:** what the holder has verifiably done in the same function, including a verified record of concealment, of retaliation against reporters, or of defeating the same kind of check, and including what the holder has verifiably said under [§5.5 What a holder has said](#55-what-a-holder-has-said).
-  - A holder with no record does not have a bad record, and a first-time founder cannot fail the authenticity check for lack of history.
-  - A holder with no record has no history to look at, so the formation check looks at what they commit to and do now. They agree in writing to the limits the Chartered Party has set on what it will not do. They accept checking by an independent party. And when they disagree with a finding about them, they use the route for challenging it.
+  - A holder with no standing record does not have a bad record, and a first-time founder cannot fail the authenticity check for lack of history.
+  - A holder with no standing record has no history to look at, so the formation check looks at what they commit to and do now. They agree in writing to the limits the Chartered Party has set on what it will not do. They accept checking by an independent party. And when they disagree with a formation-check finding about them, they use the route for challenging it.
 - **Protected voice:** the holder has a working route to refuse an unlawful or unconstitutional instruction ([Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) and to make a protected report of a reasonable suspicion of constitutional non-compliance, material harm, a safety or truth failure, corruption, capture, abuse, retaliation, or obstruction of required review ([Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing)). The Chartered Party may not penalize the holder for using either route in good faith.
 
 <a id="54-what-the-formation-check-may-use-as-evidence"></a>
@@ -1013,7 +1013,7 @@ A material change is an amendment, and an amendment follows set rules:
 - **Who decides:** Only the amendment authority named in the System Charter or Institutional Charter can make a material amendment. That authority cannot pass the job to anyone below it.
 - **Notice and a way to contest:** The change is announced beforehand, and there is a way to contest it.
 - **New material authority:** An amendment that adds new material authority also opens a recertification, and the Institution waits for it before exercising that authority ([Chapter Ten §9.2.2 Recertification for new material authority](core_10.000_institutional_alignment_certification.md#922-recertification-for-new-material-authority)).
-- **The record:** The deciding authority and the date are written down.
+- **The change record:** The deciding authority and the date are written down.
 
 <a id="72-no-quiet-widening-of-scope"></a>
 #### 7.2 No quiet widening of scope
@@ -1073,7 +1073,7 @@ When a System Charter or Institutional Charter and what the Chartered Party actu
 <a id="76-keeping-old-versions"></a>
 #### 7.6 Keeping old versions
 
-Every version of a System Charter or Institutional Charter is dated and kept. That way an act, a certification, or a record is judged against the version in force when it happened, not against a later one.
+Every version of a System Charter or Institutional Charter is dated and kept. That way an act, a certification, or an official record is judged against the version in force when it happened, not against a later one.
 
 ---
 

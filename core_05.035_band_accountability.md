@@ -543,7 +543,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Contestability](core_05.035_band_accountability.md#contestability),
   - [Due Process](core_05.035_band_accountability.md#due-process), and
   - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation).
-- Read with: [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the principle that the act makes its own record*).
+- Read with: [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the principle that the act makes its own Act Record*).
 - Read with: [CS-15.305 §10 inspectable attributable action](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action) (*default logging contract for mixed crews; not a standing-record substitute*).
 
 </details>
@@ -559,7 +559,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — asks whether materially significant actions can be traced to identifiable responsible actors strongly enough for answerability to be real in practice.
 
-    **Primary assessment:** Check whether attribution survives delegation, layered architectures, proxy operation, vendor chains, and time-separated workflows; whether the record identifies who acted, under what authority, and with what materially relevant effect; and whether the trace is usable for review, challenge, and remedy rather than merely existing on paper.
+    **Primary assessment:** Check whether attribution survives delegation, layered architectures, proxy operation, vendor chains, and time-separated workflows; whether the Act Record identifies who acted, under what authority, and with what materially relevant effect; and whether the trace is usable for review, challenge, and remedy rather than merely existing on paper.
   - **Secondary measure:** [Auditability](core_05.050_band_oversight.md#auditability), [Contestability](core_05.035_band_accountability.md#contestability), [Transparency](core_05.050_band_oversight.md#transparency), and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — co-measures that can defeat attributable action even when a nominal log or identity field exists.
 
     **Secondary assessment:** When evaluating the primary trace, assess whether missing records, delegated opacity, retained ambiguity, or inaccessible records make the action effectively unattributable in practice.
@@ -624,11 +624,11 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the act makes its own record*);
+  - [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the act makes its own Act Record*);
   - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
   - [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) (8.000 §8);
   - [Chapter Nine Part C §8](core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record) (9.010 §8);
-  - [Chapter Eleven §4.4 Versioning](core_11.000_standing_assessment.md#44-versioning) (11.000 §4.4) and [§4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7); and
+  - [Chapter Eleven §4.4 Versioning](core_11.000_standing_assessment.md#44-versioning) (11.000 §4.4) and [§5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5); and
   - [Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests) (14.000 §2.3).
 - Read with:
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action),
@@ -645,37 +645,37 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 <br>
 
-*In plain terms: a record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the sentients entitled to check it can reach it. A completed record is never rewritten. Changes are added as new versions, and the old ones stay.*
+*In plain terms: an official record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the sentients entitled to check it can reach it. A completed official record is never rewritten. Changes are added as new versions, and the old ones stay.*
 
 - **What it is**
-  - **In scope:** The requirement that an official record a constitutional process relies on to decide, review, challenge, or correct a materially significant matter stays reliable as a record. That covers an Act Record, a System Certification Record, a Standing Record, a Forum Case Record, and any other process record. It has six parts:
+  - **In scope:** The requirement that an official record a constitutional process relies on to decide, review, challenge, or correct a materially significant matter stays reliable as an official record. That covers an Act Record, a System Certification Record, a Standing Record, a Forum Case Record, and any other process record. It has six parts:
     - **Attributable:** each entry and each change shows who made it, in what role, and under what authority.
     - **Versioned:** every change is a new version, and nothing is changed in place (see *Not edited in place* below).
-    - **Preserved:** the record and its prior versions are kept for as long as review, contest, remedy, or standing assessment can need them.
-    - **Reconstructable:** the act or decision, the evidence relied on, the handoffs, refusals, and objections, and the clocks can be rebuilt from the record and its links.
+    - **Preserved:** the official record and its prior versions are kept for as long as review, contest, remedy, or standing assessment can need them.
+    - **Reconstructable:** the act or decision, the evidence relied on, the handoffs, refusals, and objections, and the clocks can be rebuilt from the official record and its links.
     - **Reachable:** authorized reviewers can get to it through the official record path, and the public can as disclosure rules require. Privacy, confidentiality, and security rules decide who sees what. They never justify erasing the trail or making it unusable.
-    - **Independent:** the sentient or system whose act is recorded does not control the record of that act. Its own logs, signatures, and attestations are inputs, not the record.
-  - A process may keep the record as one record or as a linked set. No duplicate record is required.
-  - **Care scales** with the materiality of the act and, for a System, its class ([Chapter Nine Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)). A record behind a materially binding act, or behind a higher-class System, needs custody and a version trail that a reviewer can trust without taking the operator's word. A record behind a low-materiality matter may use a simpler trail, such as a plain change log. No scale removes attribution, the version trail, or the rule against editing a completed record in place, for any record a materially binding act rests on.
-  - **Out of scope:** A demand for one technical mechanism, for records that can never change, for identity exposure in every context, or for disclosure beyond what the disclosure rules require. A correction made as a visible new version is not alteration. What a given record must contain stays with its owner (for an Act Record, [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)). Evidence that is not itself a record stays with [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation).
+    - **Independent:** the sentient or system whose act is recorded does not control the record of that act. Its own logs, signatures, and attestations are inputs, not the official record.
+  - A process may keep the official record as one piece or as a linked set. No duplicate official record is required.
+  - **Care scales** with the materiality of the act and, for a System, its class ([Chapter Nine Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)). An official record behind a materially binding act, or behind a higher-class System, needs custody and a version trail that a reviewer can trust without taking the operator's word. An official record behind a low-materiality matter may use a simpler trail, such as a plain change log. No scale removes attribution, the version trail, or the rule against editing a completed official record in place, for any official record a materially binding act rests on.
+  - **Out of scope:** A demand for one technical mechanism, for records that can never change, for identity exposure in every context, or for disclosure beyond what the disclosure rules require. A correction made as a visible new version is not alteration. What a given record must contain stays with its owner (for an Act Record, [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)). Evidence that is not itself an official record stays with [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation).
 - **Not edited in place**
-  - **Open and completed:** While the process that keeps a record is still running, the record may be amended, and each amendment is a new version that shows what changed. The record is completed when the process enters its decision or closing entry. From then on the existing entries are not changed.
-  - **Four kinds of later version:** A later version may update the record going forward, correct it back to when it was wrong, expire it for a completed decision context, or supersede it for a new decision context. Standing records already work this way ([Chapter Eleven §4.4 Versioning](core_11.000_standing_assessment.md#44-versioning)).
+  - **Open and completed:** While the process that keeps an official record is still running, the official record may be amended, and each amendment is a new version that shows what changed. The official record is completed when the process enters its decision or closing entry. From then on the existing entries are not changed.
+  - **Four kinds of later version:** A later version may update the official record going forward, correct it back to when it was wrong, expire it for a completed decision context, or supersede it for a new decision context. Standing records already work this way ([Chapter Eleven §4.4 Versioning](core_11.000_standing_assessment.md#44-versioning)).
   - **What a later version states:** It says what changed, who made the change, under what authority, on what verification materials, and at whose request.
   - **Old versions stay:** The version that was relied on remains reachable, marked as corrected or superseded, with the dates it was in force. A correction does not hide the error it corrects.
-  - **New events are added, not written over:** Operating evidence, a later finding, a challenge and its result, and a later review attach to the completed record as linked entries or as a new record that links back to it.
+  - **New events are added, not written over:** Operating evidence, a later finding, a challenge and its result, and a later review attach to the completed official record as linked entries or as a new official record that links back to it.
   - **True dates:** Each version carries the date it was made. A version is never back-dated to look as if it was there earlier.
-  - **Who may make a version:** Only the office that holds the record, acting under published authority ([Record Seat](core_05.035_band_accountability.md#record-seat); [Record Custodian](core_05.035_band_accountability.md#record-custodian)). The sentient or system whose act is recorded, and anyone in its control line, may ask for a change but cannot make it. The request is logged whether or not it is acted on.
-  - **Limits on what is shown apply to the view, not the record:** Privacy, safety, or security limits change what a reader sees. The full version is kept for authorized reviewers, and the shown version says that something is withheld and why. Where a higher rule requires material to be removed, the removal is itself recorded: what kind of material, under what authority, and when.
-  - **A challenge does not freeze or erase the record:** It stays inspectable, its prior versions stay, and its status shows that it is under challenge ([Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority)).
+  - **Who may make a version:** Only the office that holds the official record, acting under published authority ([Record Seat](core_05.035_band_accountability.md#record-seat); [Record Custodian](core_05.035_band_accountability.md#record-custodian)). The sentient or system whose act is recorded, and anyone in its control line, may ask for a change but cannot make it. The request is logged whether or not it is acted on.
+  - **Limits on what is shown apply to the view, not the official record:** Privacy, safety, or security limits change what a reader sees. The full version is kept for authorized reviewers, and the shown version says that something is withheld and why. Where a higher rule requires material to be removed, the removal is itself recorded: what kind of material, under what authority, and when.
+  - **A challenge does not freeze or erase the official record:** It stays inspectable, its prior versions stay, and its status shows that it is under challenge ([Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)).
 <a id="record-integrity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether an official record can still be relied on by someone who is not its keeper.
 
-    **Primary assessment:** Ask whether a reviewer who is not the operator can rebuild, from the record and its links alone, what was decided, by whom, on what evidence, and what changed between versions. Check who can enter or change the record, whether a change leaves a visible trace, whether prior versions are kept and reachable, whether custody is clear, and whether the record is tamper-evident where feasible. Read the answer against the materiality of the act and, for a System, its class.
+    **Primary assessment:** Ask whether a reviewer who is not the operator can rebuild, from the official record and its links alone, what was decided, by whom, on what evidence, and what changed between versions. Check who can enter or change the official record, whether a change leaves a visible trace, whether prior versions are kept and reachable, whether custody is clear, and whether the official record is tamper-evident where feasible. Read the answer against the materiality of the act and, for a System, its class.
   - **Secondary measure:** [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence), [Auditability](core_05.050_band_oversight.md#auditability), and [Contestability](core_05.035_band_accountability.md#contestability) — co-measures that expose integrity that exists on paper only.
 
-    **Secondary assessment:** Tell real integrity from paper-only integrity: a log that can be edited without trace, a version label with no kept prior version, a fingerprint or hash with no clear custody, or a record split across places so that no one can rebuild it.
+    **Secondary assessment:** Tell real integrity from paper-only integrity: a log that can be edited without trace, a version label with no kept prior version, a fingerprint or hash with no clear custody, or an official record split across places so that no one can rebuild it.
 <a id="record-integrity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** To alter in place, back-date, replace, delete, withhold, split, relabel, or make unreachable an official record or any prior version of it, so that a reviewer cannot rebuild what was decided, by whom, and on what basis; or to let the subject of an act control the record of that act.
@@ -806,7 +806,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 <br>
 
-*In plain terms: decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve a record that supports review.*
+*In plain terms: decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve an official record that supports review.*
 
 - **What it is**
   - **In scope:** The constitutional process required for decisions and adjudicative outcomes that materially affect rights. The procedure before and after the decision must be fair, accessible, and reviewable. It must include the elements of [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), scaled to the [material stake](core_00.000_preamble.md#material-stake). Each outcome must be traceable to stated reasons and enough evidence to support review under Chapters Two through Four.
@@ -904,7 +904,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution),
   - [Contestability](core_05.035_band_accountability.md#contestability),
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), the
-  - [Chapter Eleven §8 unified scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8) (*numeric Violation Axis slot assignment from verified impact*),
+  - [Chapter Eleven §9 unified scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §9) (*numeric Violation Axis slot assignment from verified impact*),
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in
   - [CF-14.425](corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-14425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and
   - [CI-12.215](corpus_institutions/ci_12.215_institutional_accountability_sanctions.md#ci-12215-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
@@ -935,7 +935,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - coordination;
     - sequencing; or
     - other procedural housekeeping — including [Stays](core_05.035_band_accountability.md#stay).
-  - The final numeric Violation Axis slot is a Chapter Eleven §8 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale measurement based on verified impact. [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) governs only the matching anti-constitutional-misconduct designation when a Chapter Eleven slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
+  - The final numeric Violation Axis slot is a Chapter Eleven §9 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale measurement based on verified impact. [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) governs only the matching anti-constitutional-misconduct designation when a Chapter Eleven slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
   - **Out of scope:** procedural housekeeping, routing, scheduling, monitoring, evidence preservation, or a [Stay](core_05.035_band_accountability.md#stay) — none of which settle liability, entitlement, validity, mandate, remedy, or a comparable rights-affecting disposition.
 <a id="merits-determination-a"></a>
 - **How to measure and assess**
@@ -1123,7 +1123,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **How to measure and assess**
   - **Primary measure:** Accountability and Oversight measurement families, scaled to the office's material authority and the Chartered Party's class.
 
-    **Primary assessment:** Apply Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity using verified records. Check the standing limb against locks, any applicable Interim Hold, competency requirements, and disclosed conflicts; check authenticity from control, interests and rewards, conduct, and protected voice. Chapter Ten tests the published statement against observed operation.
+    **Primary assessment:** Apply Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity using verified standing records. Check the standing limb against locks, any applicable Interim Hold, competency requirements, and disclosed conflicts; check authenticity from control, interests and rewards, conduct, and protected voice. Chapter Ten tests the published statement against observed operation.
 <a id="formation-check-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to accept an unsupported attestation, use protected belief or association as a finding, treat the Formation Check as a gate on forming or operating an institution, or label the Formation Check complete when the published evidence does not support it.
@@ -1779,7 +1779,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 
 - Downstream:
   - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7); Chapter Fourteen forum anti-self-judging;
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5); Chapter Fourteen forum anti-self-judging;
   - **CI-8.205 §2** (*Functional separation lanes*);
   - **CI-15.205 §6** (*Seat catalog*);
   - **CI-8.210** (*Conflict, integrity, anti-capture, and anti-corruption*); and
@@ -1839,7 +1839,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
   - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries and post-service and prospective-role conflicts;
   - [Chapter Fifteen §1.2](core_15.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (15.000 §1.2) (*Eligibility, contested selection, and democratic minimums*) for selection-funding boundaries;
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7);
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5);
   - **CI-15.205 §2** (*Role criteria, appointment standards, and removal pathways*);
   - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - **CJS-5.110 §6** (*integrity assurance and resilience operations*); and
@@ -1860,7 +1860,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 
 <br>
 
-*In plain terms: an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the record, and an interested party cannot also be the one who checks, records, or decides it.*
+*In plain terms: an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the official record, and an interested party cannot also be the one who checks, records, or decides it.*
 
 - **What it is**
   - **In scope:** For a particular matter, a sentient, institution, or system that has a [material stake](core_00.000_preamble.md#material-stake) in the outcome, together with anyone, or any system, acting for it or inside its [Material Control Line](core_05.035_band_accountability.md#material-control-line). A matter is any decision, finding, certification, appointment, selection, procurement, audit, review, interpretation, or challenge. A material stake exists where the outcome could materially change the party's rights, duties, status, standing, resources, or position, whether directly or through ownership, funding, employment, contract, or comparable [dependency](core_05.040_band_continuity.md#dependency). Depending on the matter, interested parties include:
@@ -1878,7 +1878,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
     **Primary assessment:** Evaluate whether:
     1. the interested parties were identified for the matter from the actual stake, and not from titles, legal entities, intermediaries, or who happened to appear;
     2. no interested party, and no one in an interested party's Material Control Line, held the verify-or-authorize, record, or contest seat for the matter; and
-    3. contact between interested parties and those deciding or supporting the matter was recorded and disclosed under the applicable rules, with open advocacy on the record left available.
+    3. contact between interested parties and those deciding or supporting the matter was recorded and disclosed under the applicable rules, with open advocacy on the official record left available.
 <a id="interested-party-c"></a>
 - **What must hold**
   - **Primary failure:** Treat a party with a material stake as not interested because of its title, legal entity, intermediary, nominal arm's length, or because it did not appear in the matter. Indirect interest through an affiliate, funder, contractor, proxy, or automated system does not resolve the failure.
@@ -1896,7 +1896,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 
 - Downstream:
   - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7); Chapter Fourteen forum anti-self-judging;
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5); Chapter Fourteen forum anti-self-judging;
   - **CI-8.205 §2** (*Functional separation lanes*);
   - **CI-15.205 §6** (*Seat catalog*);
   - **CI-8.210** (*Conflict, integrity, anti-capture, and anti-corruption*); and
@@ -1957,7 +1957,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 - Downstream:
   - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
   - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7); and
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5); and
   - **CI-15.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
@@ -1986,7 +1986,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
     **Primary assessment:** Trace the objective, claim, instruction, operation, and requested outcome to their actual source. Look through nominal applicants, agents, automated interfaces, contractors, and other intermediaries. Distinguish the party seeking or operating the act from a neutral channel that merely receives or routes it.
   - **Secondary measure:** [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Material Control Line](core_05.035_band_accountability.md#material-control-line), and [Verifiability](core_05.050_band_oversight.md#verifiability) — co-measures for hidden initiation, proxying, and reconstructability.
 
-    **Secondary assessment:** Check whether the record identifies who supplied the material objective, evidence, claim, or operating decision and whether proxying or automation obscures that source.
+    **Secondary assessment:** Check whether the Act Record identifies who supplied the material objective, evidence, claim, or operating decision and whether proxying or automation obscures that source.
 <a id="initiating-seat-c"></a>
 - **What must hold**
   - **Primary failure:** The Initiating Seat is misidentified or concealed, or it supplies the supposedly independent verification or authorization of its own act where separation is required.
@@ -2004,7 +2004,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 - Downstream:
   - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
   - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7); and
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5); and
   - **CI-15.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
@@ -2049,7 +2049,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7);
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5);
   - [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4);
   - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*); and
@@ -2070,23 +2070,23 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 
 <br>
 
-*In plain terms: the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that record. It does not keep the record, which is the Record Custodian's job, and it does not hear a challenge to the record, which is the Contest Seat's job. It cannot be the record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.*
+*In plain terms: the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that official record. It does not keep the official record, which is the Record Custodian's job, and it does not hear a challenge to the official record, which is the Contest Seat's job. It cannot be the official record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.*
 
 - **What it is**
-  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the record with its reason. It may be an office or role placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a body that relies on the record but has no stake in how it comes out and no dealing with the subject, a claimant, or a challenger that gives them practical power over it, or the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
-  - **Out of scope:** The Record Custodian that enters and holds the record. The Contest Seat that hears a challenge. A registrar that files and receipts. A body that only supplies inputs such as a recorder's statement, a log, or a photograph. A forum's merits decision. Any body that only requests the record.
+  - **In scope:** The body that holds the [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the official record with its reason. It may be an office or role placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a body that relies on the official record but has no stake in how it comes out and no dealing with the subject, a claimant, or a challenger that gives them practical power over it, or the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
+  - **Out of scope:** The Record Custodian that enters and holds the official record. The Contest Seat that hears a challenge. A registrar that files and receipts. A body that only supplies inputs such as a recorder's statement, a log, or a photograph. A forum's merits decision. Any body that only requests the official record.
 <a id="record-opening-authority-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) and [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — used together to test whether each change to a Standing Record was authorized by a named body that is independent of the record's subject, claimant, and challenger.
+  - **Primary measure:** [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) and [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — used together to test whether each change to a Standing Record was authorized by a named body that is independent of the official record's subject, claimant, and challenger.
 
     **Primary assessment:** Identify who authorized each opening, correction, expiry, or supersession. Check that the authority was named before it acted, that it sits outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the subject, the claimant, and the challenger, that the facts were verified to the standard the governing process sets, and that it gave reasons.
   - **Secondary measure:** [Auditability](core_05.050_band_oversight.md#auditability), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Contestability](core_05.035_band_accountability.md#contestability), and [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) — co-measures for traceability and correction.
 
-    **Secondary assessment:** Test whether the record names the authority, its reason, and the version of the System Charter or Institutional Charter in force; whether an authority with an interest in the record declined and routed it; and whether delay or refusal by the authority was treated as a defect to log and correct, not as a gate on anyone's right to form or operate.
+    **Secondary assessment:** Test whether the official record names the authority, its reason, and the version of the System Charter or Institutional Charter in force; whether an authority with an interest in the official record declined and routed it; and whether delay or refusal by the authority was treated as a defect to log and correct, not as a gate on anyone's right to form or operate.
 <a id="record-opening-authority-c"></a>
 - **What must hold**
-  - **Primary failure:** The record's subject, a claimant, a challenger, or anyone in their Material Control Line acts as the authority; the authority also enters and holds the record or hears the contest of a record it authorized; or it authorizes a change without verifying the facts.
-  - **Secondary failure:** The authority is not named before it acts, or is named only by the party it checks; the record omits the authority, its reason, or the version of the System Charter or Institutional Charter in force; a conflicted authority does not decline and route; or the Chartered Party chooses, appoints, or funds a backup authority through a channel it controls.
+  - **Primary failure:** The official record's subject, a claimant, a challenger, or anyone in their Material Control Line acts as the authority; the authority also enters and holds the official record or hears the contest of an official record it authorized; or it authorizes a change without verifying the facts.
+  - **Secondary failure:** The authority is not named before it acts, or is named only by the party it checks; the official record omits the authority, its reason, or the version of the System Charter or Institutional Charter in force; a conflicted authority does not decline and route; or the Chartered Party chooses, appoints, or funds a backup authority through a channel it controls.
 
 ---
 
@@ -2100,7 +2100,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 - Downstream:
   - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
   - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7); and
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5); and
   - **CI-15.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
@@ -2128,7 +2128,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
     **Primary assessment:** Identify who has authority to enter and alter the official record. Check attribution, version history, preservation, publication where required, challenge status, and the link to the Verify-or-Authorize Seat's actual determination.
   - **Secondary measure:** [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Auditability](core_05.050_band_oversight.md#auditability), and [Contestability](core_05.035_band_accountability.md#contestability) — co-measures for integrity, reconstruction, and correction.
 
-    **Secondary assessment:** Test whether the record can be reconstructed without treating the recorder's statement as proof of the underlying merits, and whether a challenge can be marked and routed without alteration or suppression.
+    **Secondary assessment:** Test whether the official record can be reconstructed without treating the recorder's statement as proof of the underlying merits, and whether a challenge can be marked and routed without alteration or suppression.
 <a id="record-seat-c"></a>
 - **What must hold**
   - **Primary failure:** The Record Seat creates, changes, or enters a determination on its own judgment; records an unverified claim as an authorized determination; or is held by the Verify-or-Authorize Seat for the same act where separation is required.
@@ -2144,7 +2144,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7);
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5);
   - [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*); and
   - **CF-14.415 §9** (*Backup Record Custodian*).
@@ -2163,22 +2163,22 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 
 <br>
 
-*In plain terms: the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.*
+*In plain terms: the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the official record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.*
 
 - **What it is**
-  - **In scope:** The body that holds the [Record Seat](core_05.035_band_accountability.md#record-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the record's continuity. It may be placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), be a substitute holder for one record, or be the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)).
+  - **In scope:** The body that holds the [Record Seat](core_05.035_band_accountability.md#record-seat) for a [Standing Record](core_05.035_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the official record's continuity. It may be placed by a [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), be a substitute holder for one official record, or be the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)).
   - **Out of scope:** The [Record-Opening Authority](core_05.035_band_accountability.md#record-opening-authority) that verifies and authorizes. The Contest Seat. A registrar that files and receipts. Incidental storage or a copy held without authority over the official record.
 <a id="record-custodian-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether each Standing Record is held by a named body that is independent of its subject, claimants, and challengers, with the full audit trail.
 
-    **Primary assessment:** Identify who holds each record and each version. Check that the custodian was named before it acted, sits outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the subject, claimant, and challenger, is not the authority for the same record, and keeps version history and the published challenge path.
+    **Primary assessment:** Identify who holds each official record and each version. Check that the custodian was named before it acted, sits outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the subject, claimant, and challenger, is not the authority for the same official record, and keeps version history and the published challenge path.
   - **Secondary measure:** [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Auditability](core_05.050_band_oversight.md#auditability), and [Contestability](core_05.035_band_accountability.md#contestability) — co-measures for integrity, reconstruction, and correction.
 
     **Secondary assessment:** Test whether a challenge was logged on receipt, whether custody passed with its full trail when a conflict or gap arose, and whether the custodian applied no effect and withheld no path.
 <a id="record-custodian-c"></a>
 - **What must hold**
-  - **Primary failure:** The custodian is the subject, a claimant, a challenger, or in their Material Control Line; it also verifies or hears the contest of the same record; or it enters a version no authority authorized.
+  - **Primary failure:** The custodian is the subject, a claimant, a challenger, or in their Material Control Line; it also verifies or hears the contest of the same official record; or it enters a version no authority authorized.
   - **Secondary failure:** Custody lapses, a challenge is not logged on receipt, the audit trail is lost in a transfer, the custodian conditions entry on the subject's cooperation, or the Chartered Party chooses, appoints, or funds a backup custodian through a channel it controls.
 
 ---
@@ -2193,7 +2193,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 - Downstream:
   - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*operative separation and incompatibility rules*);
   - [Chapter Eight §3 Independence, conflict, and control lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7);
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5);
   - [Chapter Fourteen Forums and Jurisdiction](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000); and
   - **CI-15.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2211,7 +2211,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 
 <br>
 
-*In plain terms: the Contest Seat is the role that receives and reviews a challenge to a particular act or its record, orders correction or limits where authorized, and sends any issue it cannot decide to the proper independent path. Receiving a complaint is not enough if the recipient cannot review or route it.*
+*In plain terms: the Contest Seat is the role that receives and reviews a challenge to a particular act or its Act Record, orders correction or limits where authorized, and sends any issue it cannot decide to the proper independent path. Receiving a complaint is not enough if the recipient cannot review or route it.*
 
 - **What it is**
   - **In scope:** The defined responsibility and authority, for a particular act, to receive and review a challenge, order correction or limits where authorized, and route any issue outside its authority to the proper forum or independent path.
@@ -2223,7 +2223,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
     **Primary assessment:** Identify the published challenge path, holder, authority, clock, available corrective or limiting action, and required routing. Test whether the holder is independent of the challenged verification and outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of any materially interested party.
   - **Secondary measure:** [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — co-measures for access, fairness, evidence integrity, and reconstructability.
 
-    **Secondary assessment:** Check whether a challenge is received and preserved as made, the record is marked when required, interim limits are available where authorized, and questions outside the seat's authority are routed without resetting or hiding the challenge.
+    **Secondary assessment:** Check whether a challenge is received and preserved as made, the official record is marked when required, interim limits are available where authorized, and questions outside the seat's authority are routed without resetting or hiding the challenge.
 <a id="contest-seat-c"></a>
 - **What must hold**
   - **Primary failure:** The Contest Seat is unavailable, controlled by a materially interested party, held by the seat that verified or authorized the challenged act, or unable to order any authorized correction or limit or route issues beyond its authority.
@@ -2265,7 +2265,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 *In plain terms: a materially binding act is an official step that settles something that matters — a decision, approval, finding, record change, release, payment, or ruling on a challenge — so that others must follow it or may rely on it. Because it binds, starting it, checking it, recording it, and hearing a challenge to it must stay in separate hands. Advice, drafts, and raw logs are not binding acts; the step that adopts them or gives them effect is.*
 
 - **What it is**
-  - **In scope:** An attributable act, taken or given effect under constitutional, adopted, or delegated authority, that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state of a sentient, system, institution, or shared resource, where that effect is [Material](core_05.050_band_oversight.md#material) in at least one domain under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and others must follow it or may rely on it as settled until it is corrected, superseded, or overturned. Covered acts include those listed in [Chapter Eight §1 Purpose, Scope, and Owner Boundary](core_08.000_functional_independence_separation_of_duties.md#1-purpose-scope-and-owner-boundary): a decision; an authorization or certification; a finding; a record entry or material version change; a release, deployment, continuation, or withdrawal; a disbursement or allocation; and a disposition of a challenge.
+  - **In scope:** An attributable act, taken or given effect under constitutional, adopted, or delegated authority, that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state of a sentient, system, institution, or shared resource, where that effect is [Material](core_05.050_band_oversight.md#material) in at least one domain under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and others must follow it or may rely on it as settled until it is corrected, superseded, or overturned. Covered acts include those listed in [Chapter Eight §1 Purpose, Scope, and Owner Boundary](core_08.000_functional_independence_separation_of_duties.md#1-purpose-scope-and-owner-boundary): a decision; an authorization or certification; a finding; an official record entry or material version change; a release, deployment, continuation, or withdrawal; a disbursement or allocation; and a disposition of a challenge.
   - How strong the duties on a qualifying act are still follows [Materiality](core_05.050_band_oversight.md#materiality). An act is materially binding because of what it does, not what it is called or who performs it. The same test applies whether a sentient, an office, an AI system, or an automated process takes the act, and whether it is taken under ordinary or emergency procedure. An output labeled advisory, provisional, or automated is a materially binding act when it is given effect without a separate adopting act, or when others must, or in practice do, act on it as settled.
   - Where one process step produces several materially binding acts, each is a separate act for seat placement and [Act Record](core_05.035_band_accountability.md#materially-binding-act-record) purposes. Where several steps together make one act, the act is the step that fixes its effect.
   - **Out of scope:** Deliberation, drafts, proposals, recommendations, analyses, and advisory opinions that bind no one until separately adopted (the adopting act is the materially binding act); raw telemetry, logs, attestations, and other evidence inputs; clerical steps that carry out an already recorded act without changing its effect; and acts whose effect is not material in any domain under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality). Conduct that materially affects sentients or shared systems without being an official act — such as the ongoing operation of a system, product, or service — is governed by [Attributable Action](core_05.035_band_accountability.md#attributable-action) and the substantive rule that applies to it, not narrowed by this definition. The act that authorizes, deploys, continues, or withdraws that operation is a materially binding act.
@@ -2317,7 +2317,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 
 <br>
 
-*In plain terms: an Act Record is the official trail for one [materially binding act](core_05.035_band_accountability.md#materially-binding-act). It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.*
+*In plain terms: an Act Record is the official trail for one [materially binding act](core_05.035_band_accountability.md#materially-binding-act). It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate official record is not required.*
 
 The short form for **Materially Binding Act Record** in this Constitution is **Act Record**.
 
@@ -2332,10 +2332,10 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
     **Primary assessment:** Apply the minimum-content requirements in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). Check stable identity, attribution, version integrity, preservation, material timestamps and clocks, the governing standard and determination, each required seat and authority, every material handoff or departure, current challenge status, and links to evidence and any process-specific record that carries part of the official trail.
   - **Secondary measure:** [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), [Auditability](core_05.050_band_oversight.md#auditability), [Contestability](core_05.035_band_accountability.md#contestability), and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) — co-measures for reliable identity, custody, reconstruction, challenge, and clocks.
 
-    **Secondary assessment:** Test whether linked records resolve to the same act without contradiction or silent gaps, whether superseded versions and corrections remain traceable, and whether an outsider with lawful access can follow the act from initiation through determination, record entry, challenge, and correction without treating a log or recorder statement as proof of the merits.
+    **Secondary assessment:** Test whether linked official records resolve to the same act without contradiction or silent gaps, whether superseded versions and corrections remain traceable, and whether an outsider with lawful access can follow the act from initiation through determination, record entry, challenge, and correction without treating a log or recorder statement as proof of the merits.
 <a id="materially-binding-act-record-c"></a>
 - **What must hold**
-  - **Primary failure:** A materially binding act proceeds without an identifiable Act Record; the record omits or obscures a required seat, authority, determination, material departure, clock, or challenge route; or a log, attestation, or unverified input is treated as the official determination.
+  - **Primary failure:** A materially binding act proceeds without an identifiable Act Record; the Act Record omits or obscures a required seat, authority, determination, material departure, clock, or challenge route; or a log, attestation, or unverified input is treated as the official determination.
   - **Secondary failure:** The official trail is fragmented across records that are not attributable or reliably linked; conflicting versions cannot be resolved; a correction or challenge is detached from the affected version; or a process-specific record is used to narrow the Chapter Eight minimum.
 
 ---
@@ -2805,7 +2805,7 @@ The following limits also apply:
   - [Animal Life](core_05.055_band_participation.md#animal-life),
   - [Animal Cruelty](core_05.035_band_accountability.md#animal-cruelty),
   - [Violation Nature](core_05.035_band_accountability.md#violation-nature),
-  - [Chapter Eleven §5.2](core_11.000_standing_assessment.md#52-violation-severity-input-dimensions) (11.000 §5.2) (*conduct-character stack*), and
+  - [Chapter Eleven §6.2](core_11.000_standing_assessment.md#62-violation-severity-input-dimensions) (11.000 §6.2) (*conduct-character stack*), and
   - [Chapter Twelve §4.2](core_12.000_standing_integration.md#42-prevention--general-standing-locks) (12.000 §4.2) (*general standing locks*).
 
 </details>
@@ -2826,7 +2826,7 @@ The following limits also apply:
     - bare [Harm](core_05.035_band_accountability.md#harm) magnitude without suffering-as-end or gratuitous / degrading character;
     - ordinary discomfort, offense, or disagreement alone; or
     - lawful proportionate restrictions, fair consequences, or remediation that hurt without being designed as suffering for its own sake — including ordinary public accountability that is unpleasant or reputationally adverse without humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process).
-  - **Standing boundary:** When verified as conduct character on a [violation standing record](core_05.035_band_accountability.md#standing-record), [Cruelty](core_05.035_band_accountability.md#cruelty) may orient prevention, safeguards, and non-degrading remedy under [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). It does not assign or move the Violation Axis slot under [Violation Nature](core_05.035_band_accountability.md#violation-nature) and [Chapter Eleven §5.2 Violation severity-input dimensions](core_11.000_standing_assessment.md#52-violation-severity-input-dimensions).
+  - **Standing boundary:** When verified as conduct character on a [violation standing record](core_05.035_band_accountability.md#standing-record), [Cruelty](core_05.035_band_accountability.md#cruelty) may orient prevention, safeguards, and non-degrading remedy under [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). It does not assign or move the Violation Axis slot under [Violation Nature](core_05.035_band_accountability.md#violation-nature) and [Chapter Eleven §6.2 Violation severity-input dimensions](core_11.000_standing_assessment.md#62-violation-severity-input-dimensions).
 <a id="cruelty-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Flourishing measurement family](core_05.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are sentients sustained in life, safety, and access to essentials?* Use them here to ask whether suffering was the point of the treatment — or piled on beyond necessity and proportionality — not only whether some harm occurred.
@@ -3171,7 +3171,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Fourteen §4.1](core_14.000_forum.md#41-sentient-forums) (14.000 §4.1); read with [Chapter Eleven §6.1](core_11.000_standing_assessment.md#6-slot-grammar-and-display-labels) (11.000 §6.1) primary-stakes routing.
+- Owner: [Chapter Fourteen §4.1](core_14.000_forum.md#41-sentient-forums) (14.000 §4.1); read with [Chapter Eleven §7.1](core_11.000_standing_assessment.md#7-slot-grammar-and-display-labels) (11.000 §7.1) primary-stakes routing.
 
 </details>
 
@@ -3375,7 +3375,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Fourteen §2.3](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests) (14.000 §2.3); read with [Chapter Fourteen §2](core_14.000_forum.md#2-default-venue-and-primary-stakes) (14.000 §2) (*intake triage and primary-stakes routing*) and [Chapter Eleven §4.6](core_11.000_standing_assessment.md#46-forum-boundary) (11.000 §4.6) (*forum boundary*).
+- Owner: [Chapter Fourteen §2.3](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests) (14.000 §2.3); read with [Chapter Fourteen §2](core_14.000_forum.md#2-default-venue-and-primary-stakes) (14.000 §2) (*intake triage and primary-stakes routing*) and [Chapter Eleven §2.7](core_11.000_standing_assessment.md#27-forum-boundary) (11.000 §2.7) (*forum boundary*).
 - Read with:
   - [Standing Record](core_05.035_band_accountability.md#standing-record),
   - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution),
@@ -3423,7 +3423,7 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
-    **Primary assessment:** Check that the record clearly identifies:
+    **Primary assessment:** Check that the Forum Case Record clearly identifies:
     - the matter;
     - parties or subjects;
     - routing choices;
@@ -3497,7 +3497,7 @@ See **Anti-Segmentation Principle**.
   - [Contestability](core_05.035_band_accountability.md#contestability),
   - [Materiality](core_05.050_band_oversight.md#materiality),
   - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution),
-  - [Chapter Eleven §6.1](core_11.000_standing_assessment.md#6-slot-grammar-and-display-labels) (11.000 §6.1),
+  - [Chapter Eleven §7.1](core_11.000_standing_assessment.md#7-slot-grammar-and-display-labels) (11.000 §7.1),
   - [Chapter Twelve §4.2](core_12.000_standing_integration.md#42-prevention--general-standing-locks) (12.000 §4.2), and
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) where materially implicated.
 - Downstream: [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*binding chain map for the Chapters Eleven through Fourteen pipeline*).
@@ -3634,7 +3634,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eleven §4.1](core_11.000_standing_assessment.md#41-minimum-record-contents) (11.000 §4.1) (*Verified-input gate*).
+- Canonical owner: [Chapter Eleven §2.5](core_11.000_standing_assessment.md#25-verified-input-gate) (11.000 §2.5) (*Verified-input gate*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Contribution Nature](core_05.035_band_accountability.md#contribution-nature),
@@ -3695,7 +3695,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4) (standing metrics vs demonstrable facts).
-- Canonical owner: [Chapter Eleven — §8 unified scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Chapter Eleven — section 1](core_11.000_standing_assessment.md#1-the-three-questions) (11.000) (*three-question frame*) and [Chapter Eleven §4.1 — Verified-input gate](core_11.000_standing_assessment.md#41-minimum-record-contents) (11.000 §4.1).
+- Canonical owner: [Chapter Eleven — §9 unified scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §9) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Chapter Eleven — section 1](core_11.000_standing_assessment.md#1-the-three-questions) (11.000) (*three-question frame*) and [Chapter Eleven §4.1 — Verified-input gate](core_11.000_standing_assessment.md#41-minimum-record-contents) (11.000 §4.1).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Participant Standing](core_05.035_band_accountability.md#participant-standing) (*distinct — **Article XIX** (*Standing and Participation Status*) participation status versus Axis I typing*);
@@ -3718,7 +3718,7 @@ See **Anti-Segmentation Principle**.
   - **In scope:**
     - **Axis I** measures **positive-only** constitutional outcomes: meeting the **baseline** and making **demonstrable** improvements beyond it under the applicable functional system conditions.
     - Those outcomes may affect **standing effect** only when they rest on auditable, contestable, demonstrable verified contribution records that satisfy Chapters **Two through Four** and Chapter Eleven **§4.1** (*Minimum record contents*).
-    - Chapter Five pointer; canonical mechanics: [Chapter Eleven](core_11.000_standing_assessment.md) [**section 8**](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes), read with [**sections 1–2**](core_11.000_standing_assessment.md#1-the-three-questions) and **§3.1 Minimum record contents**; [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) for contribution-linked effects.
+    - Chapter Five pointer; canonical mechanics: [Chapter Eleven](core_11.000_standing_assessment.md) [**section 9**](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes), read with [**sections 1–2**](core_11.000_standing_assessment.md#1-the-three-questions) and **§3.1 Minimum record contents**; [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) for contribution-linked effects.
   - **Out of scope:**
     - **Adverse violation findings** or non-compliance under [**violation nature**](core_05.035_band_accountability.md#violation-nature) on **Axis II**.
     - [Participant Standing](core_05.035_band_accountability.md#participant-standing) (**Article XIX** (*Standing and Participation Status*) participation status and role eligibility).
@@ -3732,12 +3732,12 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:**
     - Measure **contribution nature** only from verified contribution records under [Auditability](core_05.050_band_oversight.md#auditability) and [Contestability](core_05.035_band_accountability.md#contestability).
-    - Identify the record basis, affected subject and scope, applicable contribution-nature classification, evidence, contest path, and whether the record is current, under review, superseded, or withdrawn for standing.
+    - Identify the standing record basis, affected subject and scope, applicable contribution-nature classification, evidence, contest path, and whether the standing record is current, under review, superseded, or withdrawn for standing.
     - Use [Materiality](core_05.050_band_oversight.md#materiality) for material disputes about thresholds, scope, or records.
     - Apply Chapter Eleven's no-offset rule and keep Contribution Axis inputs separate from [Violation Nature](core_05.035_band_accountability.md#violation-nature).
-    - For contribution-linked standing effect, a record without an applicable contribution-nature classification is incomplete, and so is a contribution-nature label without a verified contribution record.
+    - For contribution-linked standing effect, a standing record without an applicable contribution-nature classification is incomplete, and so is a contribution-nature label without a verified contribution record.
     - Keep [Participant Standing](core_05.035_band_accountability.md#participant-standing) and Chapter Eleven labels consistent where both apply.
-    - Formal-channel pedigree cannot replace demonstrable contribution under Chapter Eleven **section 8**.
+    - Formal-channel pedigree cannot replace demonstrable contribution under Chapter Eleven **section 9**.
 <a id="contribution-state-c"></a>
 <a id="contribution-nature-c"></a>
 - **What must hold**
@@ -3745,8 +3745,8 @@ See **Anti-Segmentation Principle**.
     - call an **adverse violation** finding a **negative contribution** on **Axis I**;
     - treat reputation, popularity, pedigree, or unverified claims as verified contribution records;
     - assign **contribution nature** for contribution-linked **standing effect** without a verified contribution record;
-    - use **contribution nature** or verified contribution records to **net away**, **average**, erase, or replace [**violation nature**](core_05.035_band_accountability.md#violation-nature) / verified violation findings required by Chapter Eleven **§4.2** (*Related record cross-references*) and **§6** (*Slot grammar and shared scaling*); or
-    - use **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution nature** or **standing effect** that cannot be traced to Chapter Eleven **section 8** / **§4.1** (*Minimum record contents*).
+    - use **contribution nature** or verified contribution records to **net away**, **average**, erase, or replace [**violation nature**](core_05.035_band_accountability.md#violation-nature) / verified violation findings required by Chapter Eleven **§4.2** (*Related standing record cross-references*) and **§6** (*Slot grammar and shared scaling*); or
+    - use **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution nature** or **standing effect** that cannot be traced to Chapter Eleven **section 9** / **§4.1** (*Minimum record contents*).
 
 ---
 
@@ -3764,9 +3764,9 @@ See **Anti-Segmentation Principle**.
   - [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
   - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (verified facts for adverse standing).
 - Canonical owner: the
-  - [Chapter Eleven §8 unified proportional LEQU scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*);
-  - [Chapter Eleven §3.1 Verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) (11.000 §3.1);
-  - [Chapter Eleven §5.4](core_11.000_standing_assessment.md#54-violation-route-descriptor-catalog-and-measurement-roles) (11.000 §5.4) (*stackable harm and conduct descriptors*);
+  - [Chapter Eleven §9 unified proportional LEQU scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §9) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*);
+  - [Chapter Eleven §2.5 Verified-input gate](core_11.000_standing_assessment.md#25-verified-input-gate) (11.000 §2.5);
+  - [Chapter Eleven §6.4](core_11.000_standing_assessment.md#64-violation-route-descriptor-catalog-and-measurement-roles) (11.000 §6.4) (*stackable harm and conduct descriptors*);
   - [Chapter Twelve §3](core_12.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (12.000 §3) (*Question 3 process / response character attachments and descriptor integration*). Read with the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Verified Inputs for Standing](core_05.035_band_accountability.md#verified-inputs-for-standing),
@@ -3786,11 +3786,11 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:**
-    - The **Axis II** classification of **adverse** constitutional outcomes from verified violation findings that satisfy Chapters **Two through Four** and Chapter Eleven **§4.2** (*Related record cross-references*).
+    - The **Axis II** classification of **adverse** constitutional outcomes from verified violation findings that satisfy Chapters **Two through Four** and Chapter Eleven **§4.2** (*Related standing record cross-references*).
     - Those violation findings may affect **standing effect** only when they rest on that auditable, contestable verified basis.
-    - Chapter Eleven **§8** (*Unified proportional LEQU scale — Contribution and Violation Axes*) assigns a verified-impact slot on its unified scale. Process / response and harm / conduct descriptors attach to that slot but do not move it.
-    - Chapter Five pointer; canonical mechanics: Chapter Eleven **§8** (*Unified proportional LEQU scale — Contribution and Violation Axes*), **§4.2** (*Related record cross-references*), Chapter Twelve descriptor sections, and [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) for adverse standing effects.
-    - It is distinct from [**contribution nature**](core_05.035_band_accountability.md#contribution-nature), the positive-only **Axis I**, which uses the same bands in a separate record.
+    - Chapter Eleven **§9** (*Unified proportional LEQU scale — Contribution and Violation Axes*) assigns a verified-impact slot on its unified scale. Process / response and harm / conduct descriptors attach to that slot but do not move it.
+    - Chapter Five pointer; canonical mechanics: Chapter Eleven **§9** (*Unified proportional LEQU scale — Contribution and Violation Axes*), **§4.2** (*Related standing record cross-references*), Chapter Twelve descriptor sections, and [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) for adverse standing effects.
+    - It is distinct from [**contribution nature**](core_05.035_band_accountability.md#contribution-nature), the positive-only **Axis I**, which uses the same bands in a separate standing record.
   - **Out of scope:**
     - allegations, intake labels, provisional routing tags, or unresolved forum-phase narratives;
     - intent, coercion, concealment, or response descriptors (Chapter Twelve attachments — not Axis II slot assignment); and
@@ -3800,7 +3800,7 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Classify **standing** only from findings that satisfy Chapters **Two through Four** and the [**verified inputs for standing**](core_11.000_standing_assessment.md#verified-inputs-for-standing) rule.
+    - Classify **standing** only from findings that satisfy Chapters **Two through Four** and the [**verified inputs for standing**](core_11.000_standing_assessment.md#25-verified-input-gate) rule.
     - Identify the finding authority or record basis, affected subject and scope, applicable violation-nature classification, evidence, contest path, and whether the violation finding is final, under review, superseded, resolved, or remediated for standing.
     - Record the verified finding basis and violation-nature classification together.
     - Include verified impact and resulting slot, applicable character descriptors or supplements, scope, review status, and any Chapter Thirteen designation.
@@ -3816,7 +3816,7 @@ See **Anti-Segmentation Principle**.
     - assign **violation nature** for adverse **standing effect** without verified violation findings;
     - call an **adverse violation finding** a **negative contribution** on **Axis I**;
     - use [**contribution nature**](core_05.035_band_accountability.md#contribution-nature) or verified contribution records to **net away**, erase, average down, or replace verified violation findings required by Chapter Eleven; or
-    - apply adverse standing consequences without the record basis and contestability required by Chapter Eleven **§4.2** (*Related record cross-references*).
+    - apply adverse standing consequences without the standing record basis and contestability required by Chapter Eleven **§4.2** (*Related standing record cross-references*).
 
 ---
 
@@ -3833,14 +3833,14 @@ See **Anti-Segmentation Principle**.
   - [Chapter Eleven — §2 Standing Records](core_11.000_standing_assessment.md#2-question-1--what-happened) (11.000 §2),
   - [Chapter Eleven §2 Standing records as the unit of application](core_11.000_standing_assessment.md#2-question-1--what-happened) (11.000 §2),
   - [Chapter Eleven §4 Standing record operational requirements](core_11.000_standing_assessment.md#4-standing-record-operational-requirements) (11.000 §4), and
-  - [Chapter Eleven — §3.1 Verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) (11.000 §3.1).
-- Read with: the [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation) and [Standing Record](core_05.035_band_accountability.md#standing-record). The two are sequential for application: a standing effect must be traceable to a bounded linked set of axis-pure standing records, but those records contain the verified contribution and violation classifications rather than the effect itself.
+  - [Chapter Eleven — §2.5 Verified-input gate](core_11.000_standing_assessment.md#25-verified-input-gate) (11.000 §2.5).
+- Read with: the [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation) and [Standing Record](core_05.035_band_accountability.md#standing-record). The two are sequential for application: a standing effect must be traceable to a bounded linked set of axis-pure standing records, but those standing records contain the verified contribution and violation classifications rather than the effect itself.
 
 </details>
 
 <br>
 
-*In plain terms: Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.*
+*In plain terms: Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those standing records and cannot merge, average, net, or offset the Contribution and Violation axes.*
 
 - **What it is**
   - **In scope:**
@@ -3872,14 +3872,14 @@ See **Anti-Segmentation Principle**.
       - state one final standing effect per named pathway.
     - When standing integration uses **contribution-linked** credit, follow Chapter Twelve **§6.1** (*Recency and currentness*) recency and disclosure rules.
     - While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside.
-    - Never treat **alleged** misconduct, intake labels, or forum-phase material as [**violation nature**](core_05.035_band_accountability.md#violation-nature) / verified violation findings for standing ([**verified inputs for standing**](core_11.000_standing_assessment.md#verified-inputs-for-standing)).
+    - Never treat **alleged** misconduct, intake labels, or forum-phase material as [**violation nature**](core_05.035_band_accountability.md#violation-nature) / verified violation findings for standing ([**verified inputs for standing**](core_11.000_standing_assessment.md#25-verified-input-gate)).
     - Expose which inputs produced the effect — immutable records, descriptors, remedies, locks, currentness findings, competency bars, and clearances — together with weights, rules, and review routes.
 <a id="standing-effect-chapter-six-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - use **opaque** or **undisclosed standing** criteria;
     - use unverified allegations, provisional labels, or forum-phase material as adverse standing inputs;
-    - use records that merge distinct subjects, scopes, record spans, or review statuses, or that place both axes in one record;
+    - use records that merge distinct subjects, scopes, record spans, or review statuses, or that place both axes in one standing record;
     - use **netting**, **averaging**, offsetting, or substitution that displaces **Chapter Twelve §2** (*Automatic integration, review, and continuity*) or **§4** (*Violation, correction, and prevention*) through **§7** (*Final standing effect*) or verified-input rules;
     - use positive recognition or contribution credit to erase unresolved violations;
     - impose a restrictive **standing effect** broader, less reviewable, or less time-bounded than Article **XX** allows; or
@@ -3902,11 +3902,11 @@ See **Anti-Segmentation Principle**.
 - Canonical owner:
   - [Chapter Eleven — §2 Standing records as the unit of application](core_11.000_standing_assessment.md#2-question-1--what-happened) (11.000 §2) and
   - [Chapter Eleven §4 Standing record operational requirements](core_11.000_standing_assessment.md#4-standing-record-operational-requirements) (11.000 §4); read with
-  - [Chapter Eleven — §3.1 Verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing) (11.000 §3.1),
-  - [Chapter Eleven — §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7) (*named record-opening authority and custodian; no self-custody; recorder statements are inputs*),
-  - [Chapter Eleven — §6.1 Slot grammar and display labels](core_11.000_standing_assessment.md#6-slot-grammar-and-display-labels) (11.000 §6.1),
+  - [Chapter Eleven — §2.5 Verified-input gate](core_11.000_standing_assessment.md#25-verified-input-gate) (11.000 §2.5),
+  - [Chapter Eleven — §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5) (*named record-opening authority and custodian; no self-custody; recorder statements are inputs*),
+  - [Chapter Eleven — §7.1 Slot grammar and display labels](core_11.000_standing_assessment.md#7-slot-grammar-and-display-labels) (11.000 §7.1),
   - [Chapter Eleven — §4 LEQU baseline](core_11.000_standing_assessment.md#lequ-baseline-constitutional-outcome) (11.000 §4), the
-  - [Chapter Eleven §8 unified scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8) (*shared five-times LEQU bands; separate axis records*), and
+  - [Chapter Eleven §9 unified scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §9) (*shared five-times LEQU bands; separate axis records*), and
   - [Chapter Twelve — Integration](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
@@ -3927,14 +3927,14 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:**
-    - A bounded, **axis-pure** record that applies Chapter Eleven measurements to a defined subject, functional scope, record span, review status, and decision context. The **record span** is the stretch of time the record covers, stated on the record. It is not a deadline and does not start or stop any window.
-    - Each record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both.
+    - A bounded, **axis-pure** record that applies Chapter Eleven measurements to a defined subject, functional scope, record span, review status, and decision context. The **record span** is the stretch of time the standing record covers, stated on the standing record. It is not a deadline and does not start or stop any window.
+    - Each standing record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both.
     - A **contribution standing record** measures verified [contribution nature](core_05.035_band_accountability.md#contribution-nature); a **violation standing record** measures verified [violation nature](core_05.035_band_accountability.md#violation-nature).
-    - Whichever axis it measures, a record about a Chartered Party, its chartered scope, or a system it stewards is an **operator standing record**. A record about a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder standing record**. A record with neither subject follows the general rules. The two kinds face different conflicts of interest, so their custody rules differ (Chapter Eleven §4.7 (*Record custody and opening authority*), *Two kinds of standing record by subject*).
-    - Chapter Eleven §5.2 (*Violation severity-input dimensions*) requires related records to cross-reference each other when they share a subject, overlapping record span, bounded event, pattern, or decision context.
+    - Whichever axis it measures, a standing record about a Chartered Party, its chartered scope, or a system it stewards is an **operator standing record**. A standing record about a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder standing record**. A standing record with neither subject follows the general rules. The two kinds face different conflicts of interest, so their custody rules differ (Chapter Eleven §5 (*Record custody and opening authority*), *Two kinds of standing record by subject*).
+    - Chapter Eleven §6.2 (*Violation severity-input dimensions*) requires related standing records to cross-reference each other when they share a subject, overlapping record span, bounded event, pattern, or decision context.
     - The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit — but distinct units and contexts must remain separately traceable.
-    - The record supplies source material for later [Standing Effect](core_05.035_band_accountability.md#standing-effect) analysis; Chapter Twelve applies that separate consequence layer from the linked record set.
-    - Each record names, as separate seats under Chapter Eleven §4.7 (*Record custody and opening authority*):
+    - The standing record supplies source material for later [Standing Effect](core_05.035_band_accountability.md#standing-effect) analysis; Chapter Twelve applies that separate consequence layer from the linked standing record set.
+    - Each standing record names, as separate seats under Chapter Eleven §5 (*Record custody and opening authority*):
       - the record-opening authority that verified it; and
       - the record custodian that entered and holds it.
 
@@ -3961,7 +3961,7 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Check that the record states:
+    - Check that the standing record states:
       - type;
       - subject;
       - scope;
@@ -3984,7 +3984,7 @@ See **Anti-Segmentation Principle**.
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - use an undifferentiated label without a bounded standing record;
-    - put both axes in one record;
+    - put both axes in one standing record;
     - merge separate subjects, roles, record spans, review states, or decision contexts;
     - omit required links between related axis records;
     - apply an effect without a reviewable source record;
@@ -3992,10 +3992,10 @@ See **Anti-Segmentation Principle**.
     - put a Chapter Twelve effect decision inside a Chapter Eleven record;
     - treat a [Forum Case Record](core_05.035_band_accountability.md#forum-case-record), filing tag, temporary order, or unfinished accusation as a standing record;
     - impose actor-specific adverse standing from a collective record without verified linkage;
-    - let the subject, a claimant, a challenger, or an office in their control line verify the facts, enter the record, or hold custody of it;
+    - let the subject, a claimant, a challenger, or an office in their control line verify the facts, enter the standing record, or hold custody of it;
     - let the Chartered Party, or an office in its [Material Control Line](core_05.035_band_accountability.md#material-control-line), verify, enter, hold, or hear the contest of an operator standing record, or of a stakeholder standing record in which it is the claimant, the alleging party, or otherwise interested;
-    - let one seat both verify and enter, or both verify and hear the contest of, the same record;
-    - leave an entry unattributed to a named authority (Chapter Eleven §4.7 (*Record custody and opening authority*)); or
+    - let one seat both verify and enter, or both verify and hear the contest of, the same standing record;
+    - leave an entry unattributed to a named authority (Chapter Eleven §5 (*Record custody and opening authority*)); or
     - substitute a standing record for inherent dignity, Rights-Floor minimums, stakeholder status, challenge access, remedy access, or Chapter Thirteen forum findings.
 
 ---
@@ -4217,7 +4217,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: numeric slot assignment remains with the
-  - [Chapter Eleven §8 unified scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8), controlled only by verified impact.
+  - [Chapter Eleven §9 unified scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §9), controlled only by verified impact.
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000), especially its
   - [Chapter Thirteen §1](core_13.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (13.000 §1),
   - [criteria set](core_13.000_misconduct_designation.md#2-criteria-set-for-slot-assignment),
@@ -4351,7 +4351,7 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:**
     - State the incident boundary, material facts, evidence source, implicated criteria, independently proven elements, review status, contest path, and overlap among named patterns.
-    - Count a conduct element toward more than one Chapter Thirteen criterion or named pattern only when the record shows separate actions taken toward differing objectives — not when one undifferentiated course of conduct is given several labels.
+    - Count a conduct element toward more than one Chapter Thirteen criterion or named pattern only when the Unified Incident Record shows separate actions taken toward differing objectives — not when one undifferentiated course of conduct is given several labels.
 <a id="unified-record-c"></a>
 <a id="unified-incident-record-c"></a>
 - **What must hold**
@@ -4406,7 +4406,7 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Measure the verified impact as a whole under Chapter Eleven §8 (*Unified proportional LEQU scale — Contribution and Violation Axes*).
+    - Measure the verified impact as a whole under Chapter Eleven §9 (*Unified proportional LEQU scale — Contribution and Violation Axes*).
     - If the resulting slot is 7, 8, or 9, then apply Chapter Thirteen's designation criteria and due-process safeguards.
     - Verified impact — not intent, another character descriptor, or the number of isolated acts — sets the numeric slot.
 <a id="single-catastrophic-incident-c"></a>

@@ -125,7 +125,7 @@ The Rights Floor must work in real life, not just on paper:
 Enforcement depends on real checks, not just rules on paper:
 
 - **Systems get verified before they go live:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) and [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) make sure materially impactful systems actually meet the rules before anyone relies on them at scale.
-- **Sentients can push back on certification decisions:** Chapter Nine also provides ways to contest the record, demand stakeholder and accessibility review, keep supervisory sequencing in place, and challenge alignment decisions that do not hold up.
+- **Sentients can push back on certification decisions:** Chapter Nine also provides ways to contest the System Certification Record, demand stakeholder and accessibility review, keep supervisory sequencing in place, and challenge alignment decisions that do not hold up.
 - **You can challenge and audit unreliable systems:** **Article XIII** (*Right to Reliable and Trustworthy Systems*) gives sentients the right to challenge and audit systems that affect them.
 - **Bureaucracy cannot block survival access:** **Article XIX-B** (*Contestability and Proportional Restriction Limits*) prevents standing limits from becoming a back door that cuts sentients off from survival-critical protections.
 - **Chapters Nine through Fourteen form the practical pipeline:** Together they supply the key processes for contestability, verified classification, forum supervision, and timely remedy.
@@ -423,7 +423,7 @@ This Article sets out when highest scrutiny applies to existential and ecologica
   
   Checking boxes at the local level, showing a favorable cost-benefit estimate on paper, or securing a short-term gain does not satisfy this Article while credible paths to civilization-scale harm or irreversible ecological recovery loss remain open and not materially addressed.
 - **Burden and record:** Where the **Scrutiny trigger** is met, actors seeking authorization, continuation, or expansion bear the burden under [Chapter Four §1 Exclusive Enforcement and Burden Allocation](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) and must meet it under [highest scrutiny](core_05.050_band_oversight.md#highest-scrutiny). Uncertainty, contested evidence, or low estimated probability does not discharge the burden. They must show, by evidence meeting [Chapter Four §5 Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard), that:
-  - for each materially safer alternative, they either adopted it into the activity under review or showed that it would not still achieve the activity's legitimate purpose or is not available. Relying on a record that alternatives were considered, without that showing, is non-compliant;
+  - for each materially safer alternative, they either adopted it into the activity under review or showed that it would not still achieve the activity's legitimate purpose or is not available. Relying on an official record that alternatives were considered, without that showing, is non-compliant;
   - mitigation and interruption measures are proportionate to the scale of possible harm;
   - monitoring can detect the causal pathway early enough to interrupt it **before harm becomes irreversible**, and a named actor holds both the authority and the practical capacity to interrupt it.
   
@@ -497,7 +497,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 *In plain terms: durable goods must be designed and described honestly. Buyers must not be pushed into avoidable replacement or misled about how long a product will last.*
 
-This Article sets out the lifecycle-honesty floors for durable goods and the records that support them:
+This Article sets out the lifecycle-honesty floors for durable goods and the official records that support them:
 
 - **Floors:** Producers and operators of physical goods, and of materially equivalent durable products offered into general use, must design, represent, and support them so that:
   - products are not designed or supported in a way that requires sentients to replace them sooner than necessary when a reasonably available alternative would last longer;
@@ -512,7 +512,7 @@ This Article sets out the lifecycle-honesty floors for durable goods and the rec
   - repair and maintenance affordances;
   - planned support windows.
   
-  The records must match outward-facing claims. They must be updated when material conditions change.
+  The official records must match outward-facing claims. They must be updated when material conditions change.
 
 #### Article II-B: Repair, Maintenance, and Independent Servicing
 <details>
@@ -672,7 +672,7 @@ This Article sets out the floors for product data handling, collection notice, d
   - evidence preservation, audit, or a lawful hold under **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation);
   - another sentient's own rights in the same data under **Article IX-B** (*Experiential and Derived Data Rights*);
   - official records this Constitution requires to be kept, such as [Act Records](core_05.035_band_accountability.md#materially-binding-act-record), [Standing Records](core_05.035_band_accountability.md#standing-record), and records needed for [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity);
-  - preservation duties under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) where a credible sentience indicator is on the record; or
+  - preservation duties under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) where a credible sentience indicator is on the official record; or
   - product functionality the sentient still wants, kept only with their ongoing **Consent**. A deletion request withdraws that consent for the data it covers.
   
   Kept data must be limited to what that reason needs and used for nothing else. The sentient must be told what was kept, why, and for how long, and may challenge the decision under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
