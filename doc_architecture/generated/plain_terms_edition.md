@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **760** of **1222** headings carry a gloss (62%).
+Coverage: **761** of **1223** headings carry a gloss (62%).
 
 ## Contents
 
@@ -36,7 +36,7 @@ Coverage: **760** of **1222** headings carry a gloss (62%).
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (10/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
-- [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/58 glossed)
+- [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (14/59 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER THIRTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-thirteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_13.005_misconduct_pattern_applications.md` (12/14 glossed)
@@ -4947,7 +4947,7 @@ certification can feed standing, but it is not standing. An Institutional Certif
 
 ## CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT
 
-Source file: [`core_11.000_standing_assessment.md`](../../core_11.000_standing_assessment.md) · 13/58 headings glossed
+Source file: [`core_11.000_standing_assessment.md`](../../core_11.000_standing_assessment.md) · 14/59 headings glossed
 
 #### 1. The three questions
 
@@ -5113,7 +5113,7 @@ This section states what each standing record must contain, how related standing
 
 #### 5. Record custody and opening authority
 
-this section applies the four-seat rule in [Chapter Eight §2 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) to standing records. Asking for a change, verifying the facts, writing and holding the standing record, and hearing a challenge are separate jobs, and the office that verifies a standing record never enters it or hears a contest of it ([§5.1 Separation of duties](../../core_11.000_standing_assessment.md#51-separation-of-duties)). The System Charter or Institutional Charter names who fills each seat, through the Charter Role Map in [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody). This section adds what is specific to standing records: who is excluded from a standing record ([§5.4 No self-custody](../../core_11.000_standing_assessment.md#54-no-self-custody)); where a standing record goes when a seat is unnamed ([§5.5 When a System Charter or Institutional Charter leaves a seat unnamed](../../core_11.000_standing_assessment.md#55-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or no System Charter or Institutional Charter applies ([§5.6 Fallback when no System Charter or Institutional Charter reaches the standing record](../../core_11.000_standing_assessment.md#56-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)); how a challenge is logged and routed the day it arrives ([§5.12 Challenge received on the standing record](../../core_11.000_standing_assessment.md#512-challenge-received-on-the-standing-record)); and that none of this is a reason to wait ([§5.13 Custody is not delay, and custody is not ownership](../../core_11.000_standing_assessment.md#513-custody-is-not-delay-and-custody-is-not-ownership)).
+this section applies the four-seat rule in [Chapter Eight §2 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) to standing records. Asking for a change, verifying the facts, writing and holding the standing record, and hearing a challenge are separate jobs, and the office that verifies a standing record never enters it or hears a contest of it ([§5.1 Separation of duties](../../core_11.000_standing_assessment.md#51-separation-of-duties)). The System Charter or Institutional Charter names who fills each seat, through the Charter Role Map in [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody). This section adds what is specific to standing records: who is excluded from a standing record ([§5.4 No self-custody](../../core_11.000_standing_assessment.md#54-no-self-custody)); how that exclusion differs for operator and stakeholder standing records ([§5.5 Two kinds of standing record by subject](../../core_11.000_standing_assessment.md#55-two-kinds-of-standing-record-by-subject)) and for a single conflicted custodian ([§5.6 Conflicted custodian on a single standing record](../../core_11.000_standing_assessment.md#56-conflicted-custodian-on-a-single-standing-record)); where a standing record goes when a seat is unnamed ([§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](../../core_11.000_standing_assessment.md#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or no System Charter or Institutional Charter applies ([§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](../../core_11.000_standing_assessment.md#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)); and how the rules scale down for informal and small-scope work ([§5.9 Informal and small-scope records](../../core_11.000_standing_assessment.md#59-informal-and-small-scope-records)). [§6 Handling a standing record](../../core_11.000_standing_assessment.md#6-handling-a-standing-record) then says what the holders do with a standing record once custody is settled.
 
 [Source](../../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)
 
@@ -5141,155 +5141,161 @@ this section applies the four-seat rule in [Chapter Eight §2 Four-Seat Constitu
 
 [Source](../../core_11.000_standing_assessment.md#54-no-self-custody)
 
-##### 5.5 When a System Charter or Institutional Charter leaves a seat unnamed
+##### 5.5 Two kinds of standing record by subject
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#55-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)
+[Source](../../core_11.000_standing_assessment.md#55-two-kinds-of-standing-record-by-subject)
 
-##### 5.6 Fallback when no System Charter or Institutional Charter reaches the standing record
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#56-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)
-
-##### 5.7 Informal and small-scope records
+##### 5.6 Conflicted custodian on a single standing record
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#57-informal-and-small-scope-records)
+[Source](../../core_11.000_standing_assessment.md#56-conflicted-custodian-on-a-single-standing-record)
 
-##### 5.8 Two kinds of standing record by subject
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#58-two-kinds-of-standing-record-by-subject)
-
-##### 5.9 Conflicted custodian on a single standing record
+##### 5.7 When a System Charter or Institutional Charter leaves a seat unnamed
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#59-conflicted-custodian-on-a-single-standing-record)
+[Source](../../core_11.000_standing_assessment.md#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)
 
-##### 5.10 Recorder statements are inputs
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#510-recorder-statements-are-inputs)
-
-##### 5.11 Attributed entry
+##### 5.8 Fallback when no System Charter or Institutional Charter reaches the standing record
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#511-attributed-entry)
+[Source](../../core_11.000_standing_assessment.md#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)
 
-##### 5.12 Challenge received on the standing record
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#512-challenge-received-on-the-standing-record)
-
-##### 5.13 Custody is not delay, and custody is not ownership
+##### 5.9 Informal and small-scope records
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#513-custody-is-not-delay-and-custody-is-not-ownership)
+[Source](../../core_11.000_standing_assessment.md#59-informal-and-small-scope-records)
 
-#### 6. Question 2 — how good or bad was it?
+#### 6. Handling a standing record
+
+once custody is settled, four rules govern how the sentients and offices that hold a standing record handle it. What a prior recorder says is evidence to be weighed, not a ruling ([§6.1 Recorder statements are inputs](../../core_11.000_standing_assessment.md#61-recorder-statements-are-inputs)). Every change names who made it, under what authority, and at whose request ([§6.2 Attributed entry](../../core_11.000_standing_assessment.md#62-attributed-entry)). A challenge is logged and routed the day it arrives ([§6.3 Challenge received on the standing record](../../core_11.000_standing_assessment.md#63-challenge-received-on-the-standing-record)). And a custody question is never a reason to wait, and holding a standing record is not owning it ([§6.4 Custody is not delay, and custody is not ownership](../../core_11.000_standing_assessment.md#64-custody-is-not-delay-and-custody-is-not-ownership)).
+
+[Source](../../core_11.000_standing_assessment.md#6-handling-a-standing-record)
+
+##### 6.1 Recorder statements are inputs
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#61-recorder-statements-are-inputs)
+
+##### 6.2 Attributed entry
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#62-attributed-entry)
+
+##### 6.3 Challenge received on the standing record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#63-challenge-received-on-the-standing-record)
+
+##### 6.4 Custody is not delay, and custody is not ownership
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#64-custody-is-not-delay-and-custody-is-not-ownership)
+
+#### 7. Question 2 — how good or bad was it?
 
 Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified harm. The axes remain separate; they are not two sides of a net score.
 
-[Source](../../core_11.000_standing_assessment.md#6-standing-measurement-evaluation-dimensions)
+[Source](../../core_11.000_standing_assessment.md#7-standing-measurement-evaluation-dimensions)
 
-##### 6.1 Contribution magnitude-input dimensions
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#61-magnitude-input-dimensions)
-
-##### 6.2 Violation severity-input dimensions
+##### 7.1 Contribution magnitude-input dimensions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#62-violation-severity-input-dimensions)
+[Source](../../core_11.000_standing_assessment.md#71-magnitude-input-dimensions)
 
-##### 6.3 Contribution route descriptor catalog and measurement roles
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#63-route-descriptor-measurement-roles)
-
-##### 6.4 Violation route descriptor catalog and measurement roles
+##### 7.2 Violation severity-input dimensions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#64-violation-route-descriptor-catalog-and-measurement-roles)
+[Source](../../core_11.000_standing_assessment.md#72-violation-severity-input-dimensions)
 
-##### 6.5 Cross-question measurement hooks
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#65-dual-use-measurement-hooks)
-
-###### 6.5.1 Similar-looking facts that must stay separate
+##### 7.3 Contribution route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#651-similar-looking-facts-that-must-stay-separate)
+[Source](../../core_11.000_standing_assessment.md#73-route-descriptor-measurement-roles)
 
-##### 6.6 Measurement illustrations
-
-these illustrations begin with Question 1's verified facts, then show how **section 6** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 6–8**; Question 3 is answered in [Chapter Twelve](../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Twelve §10.1 Informal ecological stewardship / competency clearance](../../core_12.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](../../core_12.000_standing_integration.md#102-ecological-negligence-with-concealment).
-
-[Source](../../core_11.000_standing_assessment.md#66-question-1-measurement-illustrations)
-
-#### 7. Slot grammar and shared scaling
-
-this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other standing records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 9** assigns both axes by proportional LEQU impact.
-
-[Source](../../core_11.000_standing_assessment.md#7-slot-grammar-and-display-labels)
-
-##### 7.1 Table 1 — slot display labels
+##### 7.4 Violation route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#71-table-1--slot-display-labels)
+[Source](../../core_11.000_standing_assessment.md#74-violation-route-descriptor-catalog-and-measurement-roles)
 
-##### 7.2 Shared impact-scaling rules
+##### 7.5 Cross-question measurement hooks
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#75-dual-use-measurement-hooks)
+
+###### 7.5.1 Similar-looking facts that must stay separate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#751-similar-looking-facts-that-must-stay-separate)
+
+##### 7.6 Measurement illustrations
+
+these illustrations begin with Question 1's verified facts, then show how **section 7** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 7–9**; Question 3 is answered in [Chapter Twelve](../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Twelve §10.1 Informal ecological stewardship / competency clearance](../../core_12.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](../../core_12.000_standing_integration.md#102-ecological-negligence-with-concealment).
+
+[Source](../../core_11.000_standing_assessment.md#76-question-1-measurement-illustrations)
+
+#### 8. Slot grammar and shared scaling
+
+this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other standing records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 10** assigns both axes by proportional LEQU impact.
+
+[Source](../../core_11.000_standing_assessment.md#8-slot-grammar-and-display-labels)
+
+##### 8.1 Table 1 — slot display labels
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#81-table-1--slot-display-labels)
+
+##### 8.2 Shared impact-scaling rules
 
 impact is not measured by headcount alone. A profound benefit or loss affecting one sentient may be more significant than a shallow effect affecting many. Count, depth, vulnerability, duration, durability, reach, and constitutional character must be assessed together.
 
-[Source](../../core_11.000_standing_assessment.md#72-shared-impact-scaling-rules)
+[Source](../../core_11.000_standing_assessment.md#82-shared-impact-scaling-rules)
 
-#### 8. Constitutional inputs to axis assignment
+#### 9. Constitutional inputs to axis assignment
 
 before choosing a slot, identify the constitutional sources that say what baseline, benefit, duty, harm, or violation is being measured. Use the links below to apply those sources at their canonical homes; do not turn this routing step into another score or a substitute definition.
 
-[Source](../../core_11.000_standing_assessment.md#8-constitutional-inputs-to-axis-assignment)
+[Source](../../core_11.000_standing_assessment.md#9-constitutional-inputs-to-axis-assignment)
 
-##### 8.1 Definition inputs
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#81-definition-inputs)
-
-##### 8.2 Principle inputs
+##### 9.1 Definition inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#82-principle-inputs)
+[Source](../../core_11.000_standing_assessment.md#91-definition-inputs)
 
-##### 8.3 Rights-Floor and Article inputs
+##### 9.2 Principle inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#83-rights-floor-and-article-inputs)
+[Source](../../core_11.000_standing_assessment.md#92-principle-inputs)
 
-#### 9. Unified proportional LEQU scale — Contribution and Violation Axes
+##### 9.3 Rights-Floor and Article inputs
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#93-rights-floor-and-article-inputs)
+
+#### 10. Unified proportional LEQU scale — Contribution and Violation Axes
 
 **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The standing records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.
 
-[Source](../../core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes)
+[Source](../../core_11.000_standing_assessment.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes)
 
 ## CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION
 
@@ -7087,7 +7093,7 @@ calling a rollback "implementation guidance," burying it in metadata, or calling
 
 #### 4. Layer scope
 
-Chapter Sixteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Eleven §9 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Thirteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
+Chapter Sixteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Eleven §10 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Thirteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
 
 [Source](../../core_16.000_non_regression.md#4-scope-limit-and-layer-discipline)
 
@@ -7269,7 +7275,7 @@ effect follows what is honestly recorded on a stated date or event — secret pa
 
 #### 12. Layer scope
 
-Chapter Eighteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Eleven §9 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Thirteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
+Chapter Eighteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Eleven §10 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Thirteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
 
 [Source](../../core_18.000_amendment_ratification.md#12-scope-limit-and-layer-discipline)
 
