@@ -578,7 +578,7 @@ Constitutional restrictions must satisfy all of the following:
 - **Restoration path:** the restriction must include a stated duration or review cadence where feasible, plus restoration, rollback, or re-evaluation conditions tied to evidence, changed circumstances, or observed divergence from expected outcomes.
 
 <a id="1315-rights-collision-decision-test"></a>
-**Constitutional Collision Record and reconstructability.** Where the tradeoff stack (§13.1.1 (*Necessity*) through §13.1.5 (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*)) is applied to a material restriction or Constitutional Collision, the resolution must produce a documented and auditable [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) (short form **Collision Record**) with sufficient clarity for affected parties and reviewers to understand, contest, and independently reconstruct the decision. At minimum, the record must include:
+**Constitutional Collision Record and reconstructability.** Where the tradeoff stack (§13.1.1 (*Necessity*) through §13.1.5 (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*)) is applied to a material restriction or Constitutional Collision, the resolution must produce a documented and auditable [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) (short form **Collision Record**) with sufficient clarity for affected parties and reviewers to understand, contest, and independently reconstruct the decision. At minimum, the Constitutional Collision Record must include:
 - **Operative rule and predicates:** the constitutional provision relied on and the material facts that triggered it.
 - **Alternatives considered:** materially feasible alternatives, including non-action, with explicit reasons for rejection — satisfying the alternative-analysis requirement in [§13.1.1 Necessity](#1311-necessity).
 - **Evidence and uncertainty treatment:** the evidence supporting the selected option's necessity, harm profile, and proportionality, including how uncertainty was handled.
@@ -659,7 +659,7 @@ Once the tradeoff stack is satisfied, [§13.3 Minimization of Avoidable Burden](
 
 <br>
 
-*In plain terms: limits on what sentients can know are the exception, not the default. When disclosure could directly cause serious harm and nothing lighter will do, restrict as little as possible, for as short as possible, on the record — and release information once the danger passes. Hiding problems to keep sentients calm is not allowed.*
+*In plain terms: limits on what sentients can know are the exception, not the default. When disclosure could directly cause serious harm and nothing lighter will do, restrict as little as possible, for as short as possible, on the official record — and release information once the danger passes. Hiding problems to keep sentients calm is not allowed.*
 
 **Epistemic disclosure constraints** govern conflicts between **Truth**, transparency duties, and **Safety** when immediate or full disclosure would directly and materially enable harm. Its three subsections each state one part:
 - **[§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity):** states when justified limits on disclosure are permitted.
@@ -938,11 +938,11 @@ Availability, observability, prior publication, platform possession, or technica
 
 <br>
 
-*In plain terms: when a metric diverges from what it was meant to measure, leaning on that metric no longer counts as compliance. The divergence must be fixed on the record, with documented escalation and review.*
+*In plain terms: when a metric diverges from what it was meant to measure, leaning on that metric no longer counts as compliance. The divergence must be fixed on the official record, with documented escalation and review.*
 
 A metric, score, or checkbox is only a stand-in for something real. If materially relevant evidence shows that a stand-in has stopped tracking what it was meant to measure (what the Constitution actually cares about), a compliance claim that rests on it does not count. This gap is called [proxy divergence](core_05.050_band_oversight.md#proxy-divergence). The claim stays invalid until the problem is corrected.
 
-A correction counts only if it is on the record:
+A correction counts only if it is on the official record:
 - **Traceable:** it follows the traceability rules in [Chapter Four](core_04.000_burden_traceability_verification.md) and the proxy definitions in Chapter Five, so anyone can see what was wrong and what changed.
 - **Escalated:** the problem was raised to someone with the authority to act on it.
 - **Reviewed:** the fix was checked, and both the escalation and the review are documented.
@@ -1163,7 +1163,7 @@ Packaging the same act as a special process does not skip the requirement. Using
 - emergency designation;
 - Adoption Transition planning;
 - implementation detail;
-- custody transfer (a change of who holds the records, system, or sentients);
+- custody transfer (a change of who holds the official records, system, or sentients);
 - certification (an aligned or certified label);
 - contract (a private agreement, including contracting the work out);
 - standing consequence;
@@ -1432,7 +1432,7 @@ This hierarchy is an interpretive rule of last resort. It applies only to a genu
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 Incorporation layer
 
-After the constitutional reading under **§15.4.1** (*Integrated reading*) and **§15.4.2** (*Last-resort internal hierarchy*), apply the **designated obligations** in adopted implementation text — the named how-to duties the adoption actually brought into force. Apply them only inside **valid adoption and incorporation scope** under **[Chapter Nineteen](core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge)** (who holds the records, which edition is pinned, and how adoption is framed).
+After the constitutional reading under **§15.4.1** (*Integrated reading*) and **§15.4.2** (*Last-resort internal hierarchy*), apply the **designated obligations** in adopted implementation text — the named how-to duties the adoption actually brought into force. Apply them only inside **valid adoption and incorporation scope** under **[Chapter Nineteen](core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge)** (who holds the official records, which edition is pinned, and how adoption is framed).
 
 The rules below choose among incorporated texts by [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect), the same standard the **ambiguity** rule in **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)** uses. They never choose by [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness).
 

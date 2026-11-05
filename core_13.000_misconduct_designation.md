@@ -56,7 +56,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*Questions 1 and 2; verified records and standing measurement*).
+- Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*Questions 1 and 2; verified standing records and standing measurement*).
 - Upstream pointer: [Chapter Twelve §2](core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity) (12.000 §2) routes qualifying Violation Axis slot 7–9 findings here for designation only.
 - This file: final anti-constitutional-misconduct designation for Violation Axis `s` = 7–9; designation criteria; due-process safeguards; Chapters Sixteen through Eighteen boundary. Named-pattern routing continues in [Part B](core_13.005_misconduct_pattern_applications.md#chapter-thirteen-part-b-anti-constitutional-misconduct--pattern-applications) (13.005).
 - Downstream: [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Trust Lock and standing-effect integration after final designation*); [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*forum routing and certification*); [Chapter Fifteen](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (15.000) (*governance legitimacy consequences*).
@@ -79,7 +79,7 @@ This chapter is used only when a verified violation already occupies Violation A
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*the Contribution and Violation axes*).
-- Upstream map: [Chapter Eleven §6.1](core_11.000_standing_assessment.md#6-slot-grammar-and-display-labels) (11.000 §6.1) (*standing-slot grammar*).
+- Upstream map: [Chapter Eleven §7.1](core_11.000_standing_assessment.md#7-slot-grammar-and-display-labels) (11.000 §7.1) (*standing-slot grammar*).
 - Upstream pointer: [Chapter Twelve §2](core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity) (12.000 §2) routes qualifying Violation Axis slot 7–9 findings here for designation only.
 - Downstream: [§2](#2-criteria-set-for-slot-assignment) (*Designation criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*).
 - Safeguards and discipline:
@@ -120,7 +120,7 @@ Only **this chapter** may issue a final **anti-constitutional misconduct** desig
 
 1. Confirm that Chapter Eleven has already assigned Violation Axis `s` = 7, 8, or 9.
 2. Identify the **unified incident** — one episode or campaign — without splitting it artificially to change the outcome.
-3. Decide which **section 2** designation criteria the verified record materially implicates.
+3. Decide which **section 2** designation criteria the verified standing record materially implicates.
 4. Under **section 3**, decide whether the matching designation attaches, without changing the impact slot.
 5. Apply **section 4** due-process safeguards before treating the designation as final.
 6. Apply **section 4.1** ACM remedy and correction, then **section 4.2** ACM prevention locks (including imprisonment where required), then hand the final designation to Chapter Twelve for the Trust Lock and standing-effect integration.
@@ -201,7 +201,7 @@ The pattern qualifies when either:
 5. **Insurrection or material forcible subversion:** organized or material **unlawful** action using **force**, **coercion**, or **usurpation** to **overthrow**, **suspend**, or **replace** this Constitution’s operative constitutional authority. This excludes conduct justified under **Chapter One** and **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*) or equivalent **Necessity**-bounded emergency authority.
 6. **Operative nullification:** conduct that makes constitutional **process** or **remedies** unusable in practice. This excludes conduct justified under **Chapter One** and **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*) or equivalent **Necessity**-bounded emergency authority.
 
-Do not count the same conduct as both **criterion 5** and **criterion 6** unless each one has its own independent proof. For example, the record must show separate forcible acts and separate ways of making process or remedies unusable — not two labels for one undifferentiated fact.
+Do not count the same conduct as both **criterion 5** and **criterion 6** unless each one has its own independent proof. For example, the standing record must show separate forcible acts and separate ways of making process or remedies unusable — not two labels for one undifferentiated fact.
 
 **Good-faith drafting carve-out.** Good-faith drafting error that is promptly disclosed and corrected before constitutional effect is not anti-constitutional misconduct **when** that error is material only to **criteria 1–4** in **change** or **record** contexts. It does **not** excuse **criteria 5** or **6** conduct.
 
@@ -257,7 +257,7 @@ Only **this chapter** may decide whether anti-constitutional misconduct applies.
 
 The designation attaches when both of the following are true:
 
-- the **unified incident** meets one or more **section 2** criteria on a verified record; and
+- the **unified incident** meets one or more **section 2** criteria on a verified standing record; and
 - the **section 4** process safeguards are satisfied.
 
 Once it attaches:
@@ -370,8 +370,8 @@ After final designation under **section 3** with **section 4** safeguards met, e
 
 Fixing the cause does not cancel the duty to repair those harmed. Repairing those harmed does not cancel the duty to fix the cause, keep needed safeguards in place, or keep prevention locks in place while recurrence risk remains live. Designation seriousness does not erase either duty.
 
-- **Consequence-integration duty:** Put every consequence that applies — imprisonment, standing effects, sanctions, dissolving an institution, striking an unlawful constitutional change, structural fixes, and what is owed to those harmed — in one reviewable package. Do not scatter them across separate records that no one can check together.
-- **Affected-party and remedy identification:** The record must identify, at the level of specificity feasible without unlawful disclosure:
+- **Consequence-integration duty:** Put every consequence that applies — imprisonment, standing effects, sanctions, dissolving an institution, striking an unlawful constitutional change, structural fixes, and what is owed to those harmed — in one reviewable package. Do not scatter them across separate standing records that no one can check together.
+- **Affected-party and remedy identification:** The standing record must identify, at the level of specificity feasible without unlawful disclosure:
   - affected sentients, classes, communities, institutions, systems, or constitutional challenge, participation, or remedy pathways;
   - material harm, rights loss, remedy loss, dependency harm, evidence degradation, or process nullification caused or materially contributed to by the unified incident;
   - restitution, compensation, restoration, correction, disgorgement or clawback where lawful, substitute safeguards where literal repair is impossible, and systemic remediation where harm is class-wide or structural;
@@ -380,10 +380,10 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
   - who supervises follow-through and what happens if delay occurs.
 - **Priority and interim protection:**
   - Put affected parties and practical restoration first — ahead of reputation repair, institutional convenience, or ordinary administrative order.
-  - If waiting would likely defeat remedy, prolong dependency harm, destroy evidence, or let constitutional harm continue, consider lawful interim steps — protection, preservation, escrow, holdback, restoring access, keeping services running, or a comparable safeguard — and either order or reject them on the record.
+  - If waiting would likely defeat remedy, prolong dependency harm, destroy evidence, or let constitutional harm continue, consider lawful interim steps — protection, preservation, escrow, holdback, restoring access, keeping services running, or a comparable safeguard — and either order or reject them on the standing record.
 - **Non-substitution rule:**
   - Imprisonment, standing locks, role exclusion, publication, apology, dissolving an institution, supervised operation, clawback from wrongdoers, or striking unlawful constitutional effect does not by itself count as repair owed to affected parties.
-  - It counts only when the record shows the measure actually repairs, compensates, restores, prevents recurrence, or supplies a proportionate substitute safeguard for the relevant harm.
+  - It counts only when the standing record shows the measure actually repairs, compensates, restores, prevents recurrence, or supplies a proportionate substitute safeguard for the relevant harm.
   - Public acknowledgment or apology is governed by **section 4.3** where used.
 - **No offset by contribution:**
   - Prior help, scarce expertise, institutional importance, settlement convenience, reputation repair, or later cooperation does not erase restitution or remediation duties.

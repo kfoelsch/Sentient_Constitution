@@ -104,7 +104,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** Published disagreements, their consequences, and a defensible resolution path. Do not treat consensus between coached sessions as empirical calibration.
 
-**Sources:** [Chapter Ten §8](../../core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Twelve §1](../../core_13.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
+**Sources:** [Chapter Ten §8](../../core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Twelve §1](../../core_13.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
 
 ### Priority 4 — Test the strongest powers against hostile administration
 

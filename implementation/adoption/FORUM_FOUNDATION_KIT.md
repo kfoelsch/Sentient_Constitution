@@ -62,7 +62,7 @@ This kit also does **not**:
 - **Bind people who did not agree, or mint official files**
   - Host products, labs, vendors, platforms, and other sentients who did not consent are not bound.
   - This page does not create a Chapter Eleven standing record, a Chapter Nine system-alignment certificate, a [forum case record](../../core_05.035_band_accountability.md#forum-case-record), or a [Merits Determination](../../core_05.035_band_accountability.md#merits-determination).
-  - A filed case is not standing by itself ([Chapter Fourteen §2.3](../../core_14.000_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Eleven §4.6](../../core_11.000_standing_assessment.md#46-forum-boundary)).
+  - A filed case is not standing by itself ([Chapter Fourteen §2.3](../../core_14.000_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Eleven §2.7](../../core_11.000_standing_assessment.md#27-forum-boundary)).
 - **Stand in for an institution, collapse families, or invent a seventh family**
   - Do not staff a forum family from the cooperating crew and call that independent review.
   - Do not invent a two-party or *n*-party “forum” as ceremony.
@@ -394,7 +394,7 @@ Do not restate CF or Chapter Fourteen. Use the owner files. This section is only
 | Appointment independence | [Chapter Fourteen §1](../../core_14.000_forum.md#1-purpose-and-role--participation-architecture); [Chapter Fifteen §1.2](../../core_15.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums); [CI-15.205](../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md) | Integrity, Constitutional, Environment, and Technical-on-sentience-status are not founding-crew self-appointment. |
 | Appeal and exhaustion | [CF-14.420](../../corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md) | Articles XIII-A and XIII-B remain reachable. |
 | Continuity under stress | [CF-14.450](../../corpus_forum/cf_14.450_forum_continuity.md); [CF-14.455](../../corpus_forum/cf_14.455_fallback_operation.md); [CF-14.460](../../corpus_forum/cf_14.460_emergency_adjudication.md) | Fallback is named. Emergency is not a standing family merger. |
-| Forum case record vs standing record | [Chapter Fourteen §2.3](../../core_14.000_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Eleven §4.6](../../core_11.000_standing_assessment.md#46-forum-boundary) | Filing is not standing. Case files are not standing records. |
+| Forum case record vs standing record | [Chapter Fourteen §2.3](../../core_14.000_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Eleven §2.7](../../core_11.000_standing_assessment.md#27-forum-boundary) | Filing is not standing. Case files are not standing records. |
 | Remedy capacity | [Chapter Twelve §9](../../core_12.000_standing_integration.md#9-enforcement-realism-and-remedy-systems); [CI-12.205](../../corpus_institutions/ci_12.205_remedy_systems_institutional_redress_capacity.md) | Named routes have practical capacity. Accountability for that capacity stays with the primary-stakes family. |
 
 ---

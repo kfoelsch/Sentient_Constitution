@@ -120,7 +120,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record states the cause as one of the three, and the operator or any affected sentient may ask the forum to review it;
+    1. the System Certification Record states the cause as one of the three, and the operator or any affected sentient may ask the forum to review it;
     2. the cause finding sets the remedy sought and the scope of a reopened review only, and a design that looks sound is not treated as a defense against results that are misaligned; and
     3. an institutional cause is decided by the lead forum on the System's own cause finding, which the Institution's pass cites and does not remake.
 <a id="cause-finding-c"></a>
@@ -213,13 +213,13 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. a denial rests on a finding on the record that the operator was not shown willing and able to correct, and not on the operator's size, age, wealth, or competing interest;
+    1. a denial rests on a finding on the System Certification Record that the operator was not shown willing and able to correct, and not on the operator's size, age, wealth, or competing interest;
     2. interim protection and reliance limits were stated before the denial took effect, and the sentients who rely on the system were told; and
     3. the operator had notice of the finding and a chance to answer or to show the proof step before the denial was decided.
 <a id="certification-denial-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - refusing certification without a readiness finding on the record, or for a reason unrelated to correction;
+    - refusing certification without a readiness finding on the System Certification Record, or for a reason unrelated to correction;
     - granting conditional certification where the readiness finding requires denial;
     - treating a denial as an order to cut off survival essentials before substitutes exist; or
     - denying certification and leaving those who rely on the system uninformed.
@@ -244,10 +244,10 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](core_05.040_band_continuity.md#fresh-review).*
+*In plain terms: a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own System Certification Record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](core_05.040_band_continuity.md#fresh-review).*
 
 - **What it is**
-  - **In scope:** The whole of the certification work for one System or one Institution, from framing it to recording the outcome, including one that ends in withdrawal or non-certification. A certification pass is a first certification, a [Recertification](core_05.040_band_continuity.md#recertification), a [Reopened Review](core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](core_05.040_band_continuity.md#fresh-review). Each opens one coordinated record, and a later certification pass opens a new record linked to the completed one.
+  - **In scope:** The whole of the certification work for one System or one Institution, from framing it to recording the outcome, including one that ends in withdrawal or non-certification. A certification pass is a first certification, a [Recertification](core_05.040_band_continuity.md#recertification), a [Reopened Review](core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](core_05.040_band_continuity.md#fresh-review). Each opens one coordinated record, and a later certification pass opens a new System Certification Record linked to the completed one.
   - **Out of scope:**
     - a single evaluation or component finding inside a certification pass;
     - the operation of a certified System between passes; or
@@ -261,11 +261,11 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
     **Primary assessment:** Evaluate whether:
     1. each certification pass says which kind it is and ends in a stated outcome; and
-    2. each later certification pass opens a new record linked to the completed one and leaves the earlier record as it stood.
+    2. each later certification pass opens a new System Certification Record linked to the completed one and leaves the earlier System Certification Record as it stood.
 <a id="certification-pass-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - reusing an earlier record in place of opening a new one for a later certification pass; or
+    - reusing an earlier System Certification Record in place of opening a new one for a later certification pass; or
     - ending a certification pass without a stated outcome.
 
 ---
@@ -308,14 +308,14 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. a revocation rests on a finding on the record, made after notice and a chance to answer, and not on the operator's size, age, wealth, or competing interest;
+    1. a revocation rests on a finding on the System Certification Record, made after notice and a chance to answer, and not on the operator's size, age, wealth, or competing interest;
     2. interim protection and reliance limits were stated before the revocation took effect, and the sentients who rely on the system were told; and
     3. a system whose interruption would cut off survival essentials before substitutes exist changed status at once but kept operating only as separately authorized interim reliance.
 <a id="certification-revocation-c"></a>
 - **What must hold**
   - **Primary failure:**
     - revoking without notice of the finding and the evidence, or without a chance to answer;
-    - continuing certification subject to certification conditions where the record requires revocation;
+    - continuing certification subject to certification conditions where the System Certification Record requires revocation;
     - treating a revocation as an order to cut off survival essentials before substitutes exist; or
     - revoking certification and leaving those who rely on the system uninformed.
 
@@ -328,7 +328,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine Part C §10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens) (9.010 §10.1) (*when the challenge path opens*); read with [Chapter Nine Part B §6.2.1 Challenge path first](core_09.005_system_alignment_certification_record_process.md#621-challenge-path-first) (9.005 §6.2.1) (*the record names the path before sign-off*) and [Chapter Nine Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) (9.010 §10.2) (*contestability paths*).
+- Canonical owner: [Chapter Nine Part C §10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens) (9.010 §10.1) (*when the challenge path opens*); read with [Chapter Nine Part B §6.2.1 Challenge path first](core_09.005_system_alignment_certification_record_process.md#621-challenge-path-first) (9.005 §6.2.1) (*the System Certification Record names the path before sign-off*) and [Chapter Nine Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths) (9.010 §10.2) (*contestability paths*).
 - Cluster component: none.
 - Read with:
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record), and
@@ -338,7 +338,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: a **challenge path** is the published route a sentient uses to contest a certification: who receives a challenge, how to file it, and the windows. It must be named on the record before any forum signs off, and it opens when the outcome is published.*
+*In plain terms: a **challenge path** is the published route a sentient uses to contest a certification: who receives a challenge, how to file it, and the windows. It must be named on the System Certification Record before any forum signs off, and it opens when the outcome is published.*
 
 - **What it is**
   - **In scope:** The published route, named on a certification record, by which a sentient contests the certification: who receives a challenge, how it is filed, and the windows. It is one of the **contestability paths** of [Chapter Nine Part C §10.2 Contestability paths](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths), and the routes matched to where a dispute arises are the **contestability chain** of [Chapter Nine Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain). It opens with the first outcome and stays open while the System has stakeholders.
@@ -348,19 +348,19 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - internal operator review, vendor attestation, or technical sign-off, which are not challenge paths —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Certification Record](core_05.040_band_continuity.md#system-certification-record); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record).
-  - When the path opens is stated in [Chapter Nine Part C §10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens), and the rule that the record names it before sign-off in [Chapter Nine Part B §6.2.1 Challenge path first](core_09.005_system_alignment_certification_record_process.md#621-challenge-path-first); this entry is the Chapter Five meaning only.
+  - When the path opens is stated in [Chapter Nine Part C §10.1 When the path opens](core_09.010_system_alignment_certification_record_recertification.md#101-when-the-path-opens), and the rule that the System Certification Record names it before sign-off in [Chapter Nine Part B §6.2.1 Challenge path first](core_09.005_system_alignment_certification_record_process.md#621-challenge-path-first); this entry is the Chapter Five meaning only.
 <a id="challenge-path-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record names who receives challenges, how to file them, and the windows before any forum signs off; and
+    1. the System Certification Record names who receives challenges, how to file them, and the windows before any forum signs off; and
     2. the path is open before anyone is asked to rely on the outcome, and stays open while the System has stakeholders.
 <a id="challenge-path-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - signing off a record that does not name the path; or
-    - claiming a System is aligned while it has stakeholders and no open path for challenging the record.
+    - signing off a System Certification Record that does not name the path; or
+    - claiming a System is aligned while it has stakeholders and no open path for challenging the System Certification Record.
 
 ---
 
@@ -385,11 +385,11 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: a **cited System** is a System in an Institution's [Portfolio](core_05.040_band_continuity.md#portfolio) whose System Certification Record the Institution's record lists and relies on. When a cited System fails, is withdrawn, or expires, that is an indicator for the Institution, and a cause traced to the Institution reopens its other Systems.*
 
 - **What it is**
-  - **In scope:** Where an Institution runs several Systems, a System in its [Portfolio](core_05.040_band_continuity.md#portfolio) that the [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) lists, with the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) it cites for that System. A System with no record in force is listed with the reason. Each cited System keeps its own certification pass and its own record.
+  - **In scope:** Where an Institution runs several Systems, a System in its [Portfolio](core_05.040_band_continuity.md#portfolio) that the [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) lists, with the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) it cites for that System. A System with no System Certification Record in force is listed with the reason. Each cited System keeps its own certification pass and its own System Certification Record.
   - **Out of scope:**
     - a System the Institution does not operate, steward, or materially control;
     - the System's own certification outcome, which the Institution's pass never re-judges; or
-    - the one-System evaluation, where the Institution and its System share one certification pass and one record —
+    - the one-System evaluation, where the Institution and its System share one certification pass and one System Certification Record —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Portfolio](core_05.040_band_continuity.md#portfolio); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
   - The cited System entries are stated in [Chapter Ten §8.1 Minimum record contents](core_10.000_institutional_alignment_certification.md#81-minimum-record-contents), and the effect of a cited System's failure, withdrawal, or expiry in [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications); this entry is the Chapter Five meaning only.
@@ -403,7 +403,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <a id="cited-system-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - leaving a System of the Institution off the record, or citing a record that is out of date; or
+    - leaving a System of the Institution off the Institutional Certification Record, or citing a System Certification Record that is out of date; or
     - re-judging a cited System's outcome, status, or certification conditions in the Institution's pass.
 
 ---
@@ -518,7 +518,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: a **fresh review** is a later certification pass that the forum orders in answer to a certification defect, as one of the responses open to it. Like any later certification pass, it opens a new record.*
+*In plain terms: a **fresh review** is a later certification pass that the forum orders in answer to a certification defect, as one of the responses open to it. Like any later certification pass, it opens a new System Certification Record.*
 
 - **What it is**
   - **In scope:** A later certification pass ordered under [Chapter Nine Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction) in answer to a certification defect, listed there beside certifying with certification conditions, deferring, refusing, withdrawing, changing the certification interval, and reopening review. It runs through the same forum process and ends in an outcome.
@@ -527,18 +527,18 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - the first certification of a System —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [Reopened Review](core_05.040_band_continuity.md#reopened-review); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
-  - The choice among these responses is stated in [Chapter Nine Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction), and the new record in [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening); this entry is the Chapter Five meaning only.
+  - The choice among these responses is stated in [Chapter Nine Part B §7.2 Certification Defects and Correction](core_09.005_system_alignment_certification_record_process.md#72-certification-defects-and-correction), and the new System Certification Record in [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening); this entry is the Chapter Five meaning only.
 <a id="fresh-review-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the forum states why it ordered a fresh review in place of the other responses; and
-    2. the fresh review opens a new record linked to the completed one and ends in a stated outcome.
+    2. the fresh review opens a new System Certification Record linked to the completed one and ends in a stated outcome.
 <a id="fresh-review-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - a fresh review that leaves the earlier record open in place of a new one; or
+    - a fresh review that leaves the earlier System Certification Record open in place of a new one; or
     - a fresh review ordered and then left without an outcome.
 
 ---
@@ -581,7 +581,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     **Primary assessment:** Evaluate whether:
     1. the class-scaled number of consecutive clean provisional recertifications was actually completed;
     2. no misalignment is current — no open misalignment, unremedied defect, overdue check, or failed regression testing; and
-    3. the monitoring triggers and trend metrics stated on the record show no threshold crossed and no trend toward one, and those indicators are independently reviewable and were not set so that misalignment cannot show.
+    3. the monitoring triggers and trend metrics stated on the System Certification Record show no threshold crossed and no trend toward one, and those indicators are independently reviewable and were not set so that misalignment cannot show.
 <a id="full-certification-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -671,7 +671,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** An Institution's governance failure that reopens review of its Systems: a determination that its own governance failed, a denial or revocation of the Institution on a governance-related denial or revocation ground, or an [Cause Finding](core_05.040_band_continuity.md#cause-finding) that places the cause in the Institution. Only a material one reopens, and each determination reopens each System once.
   - **Out of scope:**
     - a violation of standing, which Chapters Eleven and Twelve own; or
-    - the currency of a cited System's certification, which comes from the Systems' own records —
+    - the currency of a cited System's certification, which comes from the Systems' own System Certification Records —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Reopened Review](core_05.040_band_continuity.md#reopened-review); [Cited System](core_05.040_band_continuity.md#cited-system); [Cause Finding](core_05.040_band_continuity.md#cause-finding); [Institution](core_05.040_band_continuity.md#institution).
   - The reopening grounds, the materiality filter, and the notice are stated in [Chapter Ten §9.6 Reopening the Institution's Systems](core_10.000_institutional_alignment_certification.md#96-reopening-the-institutions-systems); this entry is the Chapter Five meaning only.
@@ -778,7 +778,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. an Institution of Class L or higher holds a current Institutional Certification Record, or is inside the window the record states for a first certification;
+    1. an Institution of Class L or higher holds a current Institutional Certification Record, or is inside the window the Institutional Certification Record states for a first certification;
     2. each finding about a System the Institution runs rests on that System's own System Certification Record, cited by link, and not on a second evaluation of the System;
     3. the evaluation tested the Institutional Charter against observed operation and not only against the text of the Institutional Charter;
     4. a failed, withdrawn, or expired System certification was carried into the Institution's status as the cascade rule requires; and
@@ -819,11 +819,11 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: an **Institutional Certification Record** is the auditable case file for one institution under forum-supervised review. It shows what was checked about the institution itself, which System Certification Records it relies on, what was decided, and how to challenge the decision. It is time-bound and open to challenge. It is not a System Certification Record, and it is not a standing record.*
 
 - **What it is**
-  - **In scope:** The bounded, reviewable record produced by [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification). It is the [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) for the institutional certification act. It identifies the Institution, the version of its Institutional Charter and Charter Role Map in force, its class, its findings, the System Certification Records it cites, the outcome and any certification conditions, and the challenge paths. It is scope-bound, time-bound, and contestable.
+  - **In scope:** The bounded, reviewable Institutional Certification Record produced by [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification). It is the [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) for the institutional certification act. It identifies the Institution, the version of its Institutional Charter and Charter Role Map in force, its class, its findings, the System Certification Records it cites, the outcome and any certification conditions, and the challenge paths. It is scope-bound, time-bound, and contestable.
   - **Out of scope:**
     - a [System Certification Record](core_05.040_band_continuity.md#system-certification-record), which stays the record of one System and is cited here and never absorbed;
     - a [Standing Record](core_05.035_band_accountability.md#standing-record), which Chapters Eleven and Twelve own; or
-    - an Institution's own annual report, audit statement, or attestation offered in place of the record —
+    - an Institution's own annual report, audit statement, or attestation offered in place of the Institutional Certification Record —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
   - The minimum contents and the integrity rules are stated in [Chapter Ten §8 Institutional Certification Record](core_10.000_institutional_alignment_certification.md#8-institutional-certification-record); this entry is the Chapter Five meaning only.
@@ -833,15 +833,15 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
     **Primary assessment:** Evaluate whether:
     1. the Institutional Certification Record names the Institutional Charter and Charter Role Map versions in force, and the version of each cited System Certification Record;
-    2. the record is kept by an office outside the Institution's own [Material Control Line](core_05.035_band_accountability.md#material-control-line) and can be challenged through a published path; and
-    3. a later pass opens a new linked record and leaves the earlier one as it stood.
+    2. the Institutional Certification Record is kept by an office outside the Institution's own [Material Control Line](core_05.035_band_accountability.md#material-control-line) and can be challenged through a published path; and
+    3. a later pass opens a new linked Institutional Certification Record and leaves the earlier one as it stood.
 <a id="institutional-certification-record-c"></a>
 - **What must hold**
   - **Primary failure:**
     - offering an Institution's self-report, or a System Certification Record alone, as the Institutional Certification Record;
-    - editing a completed record in place;
-    - a record whose custodian is inside the Institution's own control line, for a record in which the Institution is the subject; or
-    - treating the record as a standing record or as a standing effect.
+    - editing a completed Institutional Certification Record in place;
+    - an Institutional Certification Record whose custodian is inside the Institution's own control line, for an Institutional Certification Record in which the Institution is the subject; or
+    - treating the Institutional Certification Record as a standing record or as a standing effect.
 
 ---
 
@@ -866,7 +866,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: institutional data types and handling cover data an Institution handles outside any System. The evaluation records those data and their handling in the Institutional Certification Record. Data handled inside a System is evaluated once in that System's record and cited by the Institution.*
 
 - **What it is**
-  - **In scope:** Evaluation of data types materially in scope that an Institution handles outside any System, including how each type is handled under the most restrictive applicable classification. The findings appear in the data-types section of the Institutional Certification Record; they do not form a separate record.
+  - **In scope:** Evaluation of data types materially in scope that an Institution handles outside any System, including how each type is handled under the most restrictive applicable classification. The findings appear in the data-types section of the Institutional Certification Record; they do not form a separate Institutional Certification Record.
   - **Out of scope:** data handled inside a System, which is evaluated and recorded once under the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) and cited in the Institutional Certification Record.
   - **Depends on:** [Institution](core_05.040_band_continuity.md#institution); [Institutional Alignment Certification](core_05.040_band_continuity.md#institutional-alignment-certification); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record); [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record).
   - The institutional evaluation, recording, and reevaluation requirements are stated in [Chapter Ten §3 Whole-Institution Certification Evaluation](core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation), item 8, [§8.1 Minimum record contents](core_10.000_institutional_alignment_certification.md#81-minimum-record-contents), and [Chapter Nine Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation); this entry is the Chapter Five meaning only.
@@ -947,7 +947,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** The Integrity Forum that leads each [Certification Pass](core_05.040_band_continuity.md#certification-pass), unless Chapter Fourteen assigns a different lawful lead for the primary stake. It holds the [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat) for the outcome and directs the record seat holder to open the one coordinated record.
   - **Out of scope:**
     - a component forum or authority, which gives a bounded component finding; or
-    - the record seat holder, who keeps the record, since the lead forum directs the sequence and does not hold the [Record Seat](core_05.035_band_accountability.md#record-seat) on the same act —
+    - the record seat holder, who keeps the System or Institutional Certification Record, since the lead forum directs the sequence and does not hold the [Record Seat](core_05.035_band_accountability.md#record-seat) on the same act —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [Record Seat](core_05.035_band_accountability.md#record-seat); [Verify-or-Authorize Seat](core_05.035_band_accountability.md#verify-or-authorize-seat).
   - The lead forum's steps are stated in [Chapter Nine Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence); its place among the four seats is stated in [Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification); this entry is the Chapter Five meaning only.
@@ -990,8 +990,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** Authority that is both material under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality) and not covered by the [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) or the current [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record). A [Pilot](core_05.040_band_continuity.md#pilot) of such authority counts where it is itself material. The permission to exercise it is a **clearance** given by the recertification, as a System's permission to go live is an authorization under the [Go-Live](core_05.040_band_continuity.md#go-live) gate.
   - **Out of scope:**
     - authority stated in the Institution's first [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), since there is no gate on forming;
-    - more of what the record already evaluated; or
-    - a new System, which goes live on its own certification, unless it also gives the Institution authority that the record does not cover —
+    - more of what the Institutional Certification Record already evaluated; or
+    - a new System, which goes live on its own certification, unless it also gives the Institution authority that the Institutional Certification Record does not cover —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Institutional Charter](core_05.040_band_continuity.md#institutional-charter); [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record); [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality).
   - What counts, the notice, and the blockers to clearing it are stated in [Chapter Ten §9.2.1 What counts as new material authority](core_10.000_institutional_alignment_certification.md#921-what-counts-as-new-material-authority) and [Chapter Ten §9.2.2 Recertification for new material authority](core_10.000_institutional_alignment_certification.md#922-recertification-for-new-material-authority); the wait is stated in **Article XI-E** (*Institutional Formation and Business Creation*); this entry is the Chapter Five meaning only.
@@ -1044,7 +1044,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record carries the institutional findings block with every item the Institution's evaluation requires; and
+    1. the System Certification Record carries the institutional findings block with every item the Institution's evaluation requires; and
     2. the outcome states the System ground and the institutional ground separately.
 <a id="one-system-evaluation-c"></a>
 - **What must hold**
@@ -1122,7 +1122,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: a **pilot** is a real but deliberately limited launch. Real sentients are affected, or start to rely on the system, so it is not a test in a sandbox; and it is limited in advance by a stated scope, population, and length of time. Because it is real, it needs its own certification before it starts, and it may not quietly grow past the limits it was certified for.*
 
 - **What it is**
-  - **In scope:** A [Go-Live](core_05.040_band_continuity.md#go-live) limited by a scope, a population, and a duration stated in advance on its own [System Certification Record](core_05.040_band_continuity.md#system-certification-record), run ahead of full deployment, in which the system actually affects sentients or sentients actually rely on it. A pilot is a go-live in every respect that matters to certification. Its certification covers only the scope, population, and duration stated on that record. Operation beyond them is a further go-live, as a material expansion, and needs its own certification. Whether a release is a pilot is decided by actual operation and effect, not by label: a live release called a "beta," "trial," "preview," "early access," or "limited release" is at least a pilot.
+  - **In scope:** A [Go-Live](core_05.040_band_continuity.md#go-live) limited by a scope, a population, and a duration stated in advance on its own [System Certification Record](core_05.040_band_continuity.md#system-certification-record), run ahead of full deployment, in which the system actually affects sentients or sentients actually rely on it. A pilot is a go-live in every respect that matters to certification. Its certification covers only the scope, population, and duration stated on that System Certification Record. Operation beyond them is a further go-live, as a material expansion, and needs its own certification. Whether a release is a pilot is decided by actual operation and effect, not by label: a live release called a "beta," "trial," "preview," "early access," or "limited release" is at least a pilot.
   - **Out of scope:**
     - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
     - full deployment, which needs its own certification and may draw on the pilot's record; or
@@ -1135,7 +1135,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the pilot was certified on its own record before it began, and its scope, population, and duration were stated on that record in advance;
+    1. the pilot was certified on its own System Certification Record before it began, and its scope, population, and duration were stated on that System Certification Record in advance;
     2. the pilot stayed inside those limits, and operation beyond them was certified as a go-live of its own before it began; and
     3. live operation called by another name — a beta, trial, preview, or test — was treated as a pilot, or as full deployment, for certification.
 <a id="pilot-c"></a>
@@ -1165,10 +1165,10 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own record.*
+*In plain terms: an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own System Certification Record.*
 
 - **What it is**
-  - **In scope:** The Systems an [Institution](core_05.040_band_continuity.md#institution) operates, stewards, or materially controls. The portfolio is evaluated as a whole for its stated purpose and aggregate effect, and each System in it is also evaluated on its own record.
+  - **In scope:** The Systems an [Institution](core_05.040_band_continuity.md#institution) operates, stewards, or materially controls. The portfolio is evaluated as a whole for its stated purpose and aggregate effect, and each System in it is also evaluated on its own System Certification Record.
   - **Out of scope:**
     - a System the Institution does not operate, steward, or materially control; or
     - the Institution's authority and activities beyond its Systems, which [New Material Authority](core_05.040_band_continuity.md#new-material-authority) and the [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) cover —
@@ -1212,7 +1212,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: **provisional certification** is the closely watched status for a system that is new, or that has just failed an evaluation. It is re-checked on a short interval until it has earned the longer-interval status of full certification.*
 
 - **What it is**
-  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05.040_band_continuity.md#recertification) or after a reopened or fresh review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with reliance limits stated on the record.
+  - **In scope:** The status of certification held by a system on its first certification, including a newly deployed system, and by a system certified after a failed [Recertification](core_05.040_band_continuity.md#recertification) or after a reopened or fresh review that found misalignment. Provisional certification runs on a certification interval shorter than the full certification interval for the same class, with reliance limits stated on the System Certification Record.
   - **Out of scope:**
     - [Full Certification](core_05.040_band_continuity.md#full-certification);
     - conditional certification, which concerns certification conditions and may attach to either status;
@@ -1226,7 +1226,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
     **Primary assessment:** Evaluate whether:
     1. a first certification, and a certification after a failed recertification, is recorded as provisional and not as full;
-    2. the record states a certification interval shorter than the full certification interval for the class, together with reliance limits; and
+    2. the System Certification Record states a certification interval shorter than the full certification interval for the class, together with reliance limits; and
     3. a system that has met the full-certification conditions is moved up, and one that has not stays provisional for stated reasons.
 <a id="provisional-certification-c"></a>
 - **What must hold**
@@ -1265,7 +1265,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: **recertification** is the scheduled re-evaluation that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.*
 
 - **What it is**
-  - **In scope:** The scheduled renewal of a [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) for a system that already holds a [System Certification Record](core_05.040_band_continuity.md#system-certification-record). The evaluations the record requires are carried out again, at the depth the system's class requires, on the cadence the record states, with regression testing, so that continued reliance rests on current evidence and not on an earlier finding. A recertification ends in an outcome stated on the record, including the certification status — [Provisional Certification](core_05.040_band_continuity.md#provisional-certification) or [Full Certification](core_05.040_band_continuity.md#full-certification) — that the findings support.
+  - **In scope:** The scheduled renewal of a [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) for a system that already holds a [System Certification Record](core_05.040_band_continuity.md#system-certification-record). The evaluations the System Certification Record requires are carried out again, at the depth the system's class requires, on the cadence the System Certification Record states, with regression testing, so that continued reliance rests on current evidence and not on an earlier finding. A recertification ends in an outcome stated on the System Certification Record, including the certification status — [Provisional Certification](core_05.040_band_continuity.md#provisional-certification) or [Full Certification](core_05.040_band_continuity.md#full-certification) — that the findings support.
   - **Out of scope:**
     - the first [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) of a system;
     - reopening — review that does not wait for the schedule because a trigger has fired (material change, concealed behavior, dependency growth, incident, or credible challenge), which is stated in [Chapter Nine Part C §9.2](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers);
@@ -1280,8 +1280,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
     **Primary assessment:** Evaluate whether:
     1. the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) states a certification interval scaled to the system's class, and the interval has been kept;
-    2. each recertification repeated the evaluations the record requires at class-scaled depth — including regression testing and re-verification of the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) and [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) findings — and did not carry earlier findings forward unchanged; and
-    3. the results and outcome are on the record, and an expired or overdue certification is not relied on as proof that sentients are getting Rights-Floor essentials today.
+    2. each recertification repeated the evaluations the System Certification Record requires at class-scaled depth — including regression testing and re-verification of the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) and [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) findings — and did not carry earlier findings forward unchanged; and
+    3. the results and outcome are on the System Certification Record, and an expired or overdue certification is not relied on as proof that sentients are getting Rights-Floor essentials today.
 <a id="recertification-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1310,22 +1310,22 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: **reliance limits** are limits, stated on the record, on how far anyone may rely on a System or an Institution. They come with a certification outcome or are placed while a matter is pending.*
+*In plain terms: **reliance limits** are limits, stated on the System or Institutional Certification Record, on how far anyone may rely on a System or an Institution. They come with a certification outcome or are placed while a matter is pending.*
 
 - **What it is**
-  - **In scope:** A bound on reliance, stated on the record with a certification outcome or placed by an order while a challenge or review is pending. A provisional certification states them.
+  - **In scope:** A bound on reliance, stated on the System or Institutional Certification Record with a certification outcome or placed by an order while a challenge or review is pending. A provisional certification states them.
   - **Out of scope:**
     - a [Certification Condition](core_05.040_band_continuity.md#certification-condition), which is a requirement the operator meets, where a reliance limit bounds what others may rely on; or
     - a [Stay](core_05.035_band_accountability.md#stay), which postpones or blocks an action or outcome —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Provisional Certification](core_05.040_band_continuity.md#provisional-certification); [System Certification Record](core_05.040_band_continuity.md#system-certification-record); [Certification Condition](core_05.040_band_continuity.md#certification-condition).
-  - The record entry is stated in [Chapter Nine Part C §8.1.8 Outcome and reliance limits](core_09.010_system_alignment_certification_record_recertification.md#818-outcome-and-reliance-limits), the limits during a contest in [Chapter Nine Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain), and the bar on go-live in [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate); this entry is the Chapter Five meaning only.
+  - The System Certification Record entry is stated in [Chapter Nine Part C §8.1.8 Outcome and reliance limits](core_09.010_system_alignment_certification_record_recertification.md#818-outcome-and-reliance-limits), the limits during a contest in [Chapter Nine Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain), and the bar on go-live in [Chapter Nine Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate); this entry is the Chapter Five meaning only.
 <a id="reliance-limits-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record states each reliance limit and who it protects; and
+    1. the System or Institutional Certification Record states each reliance limit and who it protects; and
     2. reliance stays inside the limits while the matter is pending.
 <a id="reliance-limits-c"></a>
 - **What must hold**
@@ -1353,7 +1353,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: a **reopened review** is a certification pass of a System or an Institution that already holds a record, begun before the next scheduled recertification because a [Reopening Trigger](core_05.040_band_continuity.md#reopening-trigger) has fired. It opens a new record linked to the last.*
+*In plain terms: a **reopened review** is a certification pass of a System or an Institution that already holds a System or Institutional Certification Record, begun before the next scheduled recertification because a [Reopening Trigger](core_05.040_band_continuity.md#reopening-trigger) has fired. It opens a new System or Institutional Certification Record linked to the last.*
 
 - **What it is**
   - **In scope:** A [Certification Pass](core_05.040_band_continuity.md#certification-pass) begun before the next scheduled recertification because a material [Reopening Trigger](core_05.040_band_continuity.md#reopening-trigger) has fired. It runs through the same forum process and ends in an outcome.
@@ -1362,13 +1362,13 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - a [Fresh Review](core_05.040_band_continuity.md#fresh-review), which the forum orders in answer to a certification defect and which Chapter Nine lists beside reopening —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Certification Pass](core_05.040_band_continuity.md#certification-pass); [Reopening Trigger](core_05.040_band_continuity.md#reopening-trigger); [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
-  - The triggers and the new record are stated in [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) and [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening); this entry is the Chapter Five meaning only.
+  - The triggers and the new System Certification Record are stated in [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) and [Chapter Nine Part C §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening); this entry is the Chapter Five meaning only.
 <a id="reopened-review-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the reopened review opens a new record linked to the completed one; and
+    1. the reopened review opens a new System or Institutional Certification Record linked to the completed one; and
     2. it is opened when a material trigger has fired, and not left to the next scheduled recertification.
 <a id="reopened-review-c"></a>
 - **What must hold**
@@ -1395,7 +1395,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the record.*
+*In plain terms: a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the System or Institutional Certification Record.*
 
 - **What it is**
   - **In scope:** A material change or report of the kinds listed in [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) (and, for an Institution, in [Chapter Ten §9.2 Reopening triggers](core_10.000_institutional_alignment_certification.md#92-reopening-triggers)): a change in the System or its context, something observed or reported, a classification or data-type misalignment, a System Charter or operator governance matter, or an evaluation misalignment. Only a material one reopens. A [Governance Violation](core_05.040_band_continuity.md#governance-violation) is one.
@@ -1409,12 +1409,12 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record states its reopening triggers; and
+    1. the System or Institutional Certification Record states its reopening triggers; and
     2. a material trigger opens a [Reopened Review](core_05.040_band_continuity.md#reopened-review).
 <a id="reopening-trigger-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - a record that states no reopening triggers; or
+    - a System or Institutional Certification Record that states no reopening triggers; or
     - ignoring a material trigger because the next recertification is soon.
 
 ---
@@ -1500,7 +1500,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: **urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the record.*
+*In plain terms: **urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the System Certification Record.*
 
 - **What it is**
   - **In scope:** A [Stay](core_05.035_band_accountability.md#stay), [Interim Protection](core_05.040_band_continuity.md#interim-protection), or [Reliance Limits](core_05.040_band_continuity.md#reliance-limits) measure ordered before the supervisory sequence finishes, to protect affected sentients while a certification matter is pending.
@@ -1515,7 +1515,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the order is entered on the record and the sequence still runs.
+    1. the order is entered on the System Certification Record and the sequence still runs.
 <a id="urgent-protection-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1757,7 +1757,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: a **System Certification Record** is the auditable case file for one system under forum-supervised alignment review — what was checked, what was found, what was decided, and how to challenge it. It is time-bound and challengeable. It is not a popularity score, a forever pass, a vendor stamp, or a way to skip rights review or standing measurement.*
 
 - **What it is**
-  - **In scope:** The bounded, reviewable record produced by [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification). A **System Certification Record** is:
+  - **In scope:** The bounded, reviewable System Certification Record produced by [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification). A **System Certification Record** is:
     - scope-bound;
     - time-bound; and
     - contestable.
@@ -1782,13 +1782,13 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record is scope-bound, time-bound, and contestable under Chapter Nine Part C;
-    2. the record states, as Chapter Nine requires:
+    1. the System Certification Record is scope-bound, time-bound, and contestable under Chapter Nine Part C;
+    2. the System Certification Record states, as Chapter Nine requires:
        - system identity;
        - scope;
        - the [System Classification Record](core_05.040_band_continuity.md#system-classification-record) (or its required dual-axis contents) under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) and [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation);
        - the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) (or its required contents) under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) and [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
-       - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Nine §3.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge) — stated on this record, not as a separate named risk-disclosure record;
+       - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Nine §3.2.1 Risk Evaluation and Disclosure Bridge](core_09.000_system_alignment_certification_evaluation.md#321-risk-evaluation-and-disclosure-bridge) — stated on this System Certification Record, not as a separate named risk-disclosure record;
        - ecological footprint evaluation where material;
        - cross-system resource stewardship evaluation under [Chapter Nine §5.3 Proportionate Cross-System Support Evaluation](core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
        - technical and stakeholder review components;
@@ -1797,8 +1797,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
        - reliance limits;
        - certification interval; and
        - contestability chain and named contestability paths under [Chapter Nine Part C §10.2](core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths);
-    3. where a Chapter Nine evaluation was required by an applicable materiality trigger, the record states the actual findings from that evaluation — not section titles or checkmarks alone — under [Chapter Nine Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents); and
-    4. the record remains separately traceable from standing records and standing effects.
+    3. where a Chapter Nine evaluation was required by an applicable materiality trigger, the System Certification Record states the actual findings from that evaluation — not section titles or checkmarks alone — under [Chapter Nine Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents); and
+    4. the System Certification Record remains separately traceable from standing records and standing effects.
 <a id="system-certification-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1813,11 +1813,11 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - records finished while required component findings remain unresolved; or
     - missing or incomplete [System Classification Record](core_05.040_band_continuity.md#system-classification-record) or [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record) on a materially impactful System Certification Record;
   - **Tertiary failure:**
-    - using the record as a shortcut around:
+    - using the System Certification Record as a shortcut around:
       - Rights-Floor review;
       - [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication); or
       - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) standing measurement.
-    - offering the record as a standing record, standing effect, or merged merit score.
+    - offering the System Certification Record as a standing record, standing effect, or merged merit score.
 
 ---
 
@@ -1877,7 +1877,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record states both dual-axis findings required by CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
+    1. the System Certification Record states both dual-axis findings required by CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
     2. classification follows observed and reasonably foreseeable effects under [Material Impact](core_05.050_band_oversight.md#material-impact), [Dependency](core_05.040_band_continuity.md#dependency), and [Risk](core_05.040_band_continuity.md#risk), not declared intent, [System Charter](core_05.040_band_continuity.md#system-charter) text alone, or self-description alone;
     3. rationale, key assumptions, uncertainty or precautionary class, material ecological-exposure analysis where required, and monitoring or recertification triggers are stated and independently reviewable; and
     4. where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, the System Classification Record is included in the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) under [Chapter Nine §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Chapter Nine Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents).
@@ -1958,7 +1958,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record states the data types materially in scope; the purpose, recipients, and basis for each; the derived or inferred data the system produces; and the handling, separation, lifecycle, and attribution posture required by CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*);
+    1. the System Certification Record states the data types materially in scope; the purpose, recipients, and basis for each; the derived or inferred data the system produces; and the handling, separation, lifecycle, and attribution posture required by CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*);
     2. typing follows functional effect under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) and [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), not declared intent, [System Charter](core_05.040_band_continuity.md#system-charter) text alone, or self-description alone;
     3. rationale for ambiguous or multi-type data, the most recent scheduled re-evaluation, justified disclosure restrictions with public substitutes, and Type O coverage where applicable are stated and independently reviewable; and
     4. where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, the System Data Types Record is included in the [System Certification Record](core_05.040_band_continuity.md#system-certification-record) under [Chapter Nine §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) and [Chapter Nine Part C §8.1](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents).
@@ -3918,7 +3918,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - ecological footprint where material; and
     - long-term sustainability.
 
-    Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) on a contestable record, not operator assertion alone.
+    Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) on a contestable System Certification Record, not operator assertion alone.
 <a id="proportionate-cross-system-support-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** persistent [Cross-System Extraction](core_05.040_band_continuity.md#cross-system-extraction) from shared infrastructure or foundational dependencies without proportionate cross-system support, including treating as satisfying this entry:
@@ -4387,7 +4387,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **In scope:** A repeatable sequence of steps, decisions, records, clocks, or handoffs by which a duty or a function that affects sentients is carried out. A sequence is a Process when it passes all three of these tests:
     1. it repeats, or is meant to repeat, for like cases;
     2. it has a defined start and end, or a defined output; and
-    3. someone can be named who performs each step, and a record shows that it ran.
+    3. someone can be named who performs each step, and a process record shows that it ran.
   - **Out of scope:**
     - one-off or ad-hoc action with no repeatable sequence;
     - a standard or value that a Process must meet, such as [Due Process](core_05.035_band_accountability.md#due-process) or [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness);
@@ -4397,8 +4397,8 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Identify the Process by what is actually done, not by its label. Find the steps, the clocks, the records, and each handoff, and test whether:
-    1. each step is performed by an identifiable actor and leaves a record;
+    **Primary assessment:** Identify the Process by what is actually done, not by its label. Find the steps, the clocks, the process records, and each handoff, and test whether:
+    1. each step is performed by an identifiable actor and leaves a process record;
     2. the clocks and handoffs match those that are published; and
     3. relabeling, rerouting, splitting, or moving the sequence to another owner leaves every requirement that applied to it in place.
   - **Secondary measure:** [System Boundaries](core_05.040_band_continuity.md#system-boundaries) and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) — co-measures that place the Process inside the system it serves and test its clocks.
@@ -4479,7 +4479,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Downstream:
   - [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*when a System Charter is required, what it states, and how it changes*);
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*System and Institutional Certification Record scope and reopening*);
-  - [Chapter Eleven §4.7](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7) (*the System Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*);
+  - [Chapter Eleven §5](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5) (*the System Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*); institutional publication of binding-governance and weighting rules under
   - **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) /
   - **CI-6.205 §2** (*Anti-concentration and participation-legitimacy safeguards*).
@@ -4514,7 +4514,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - affected communities or dependencies where material;
     - amendment authority;
     - the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), or a [Charter Pointer](core_05.040_band_continuity.md#charter-pointer) to the published document that is the Charter Role Map;
-    - the **record-opening authority** and **record custodian** for [Standing Records](core_05.035_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, which the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) carries as its entries for standing records ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), together with the independent route that applies when the [Chartered Party](core_05.040_band_continuity.md#chartered-party) is itself the subject ([Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority)); and
+    - the **record-opening authority** and **record custodian** for [Standing Records](core_05.035_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, which the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) carries as its entries for standing records ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), together with the independent route that applies when the [Chartered Party](core_05.040_band_continuity.md#chartered-party) is itself the subject ([Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)); and
     - where [Def.P2 Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, [Charter Pointers](core_05.040_band_continuity.md#charter-pointer) to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) participation-window / decision-path materials and the **CI-6.205 §2** (*Anti-concentration and participation-legitimacy safeguards*) weighting publication file).
 
     Where an Institution operates, stewards, or materially controls exactly one System that needs a System Charter, that System Charter names the Institution as steward and also serves as the Institution's [Institutional Charter](core_05.040_band_continuity.md#institutional-charter): one document covers both. It supports institutional creation under [System Creation](core_05.055_band_participation.md#system-creation) and [Business Creation](core_05.055_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. A System Charter is required at Class L or higher and voluntary at Class P. The duty to publish a System Charter, its minimum contents, and its amendment and review rules are stated in [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters). Adopt, amend, and supervise mechanics route to [CI-8.205](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (adopt and amend) and [CI-8.215](corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md#ci-8215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervise) under **Chapter Nineteen** incorporation discipline.
@@ -4533,7 +4533,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     4. observed behavior, dependency, and impact remain within chartered scope — or material mismatch is disclosed and routed to amendment, recertification, or reopening;
     5. System Charter claims do not understate [System Boundaries](core_05.040_band_continuity.md#system-boundaries) defined by [Material Impact](core_05.050_band_oversight.md#material-impact) and [Dependency](core_05.040_band_continuity.md#dependency); and
     6. where binding stakeholder choice is in admission scope, the System Charter points to usable published process rules rather than treating its text as a substitute for [Def.P2 Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice); and
-    7. the named record-opening authority and record custodian are separate seats, resolve to offices outside the [Chartered Party](core_05.040_band_continuity.md#chartered-party)'s own [Material Control Line](core_05.035_band_accountability.md#material-control-line) for records in which the entity is the subject, and the independent route under [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) is live. A System Charter that leaves any of them unnamed fails this item, and its Chartered Party cannot issue valid standing records for the affected scope until it is resolved ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody)).
+    7. the named record-opening authority and record custodian are separate seats, resolve to offices outside the [Chartered Party](core_05.040_band_continuity.md#chartered-party)'s own [Material Control Line](core_05.035_band_accountability.md#material-control-line) for records in which the entity is the subject, and the independent route under [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) is live. A System Charter that leaves any of them unnamed fails this item, and its Chartered Party cannot issue valid standing records for the affected scope until it is resolved ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody)).
 <a id="system-charter-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -4554,7 +4554,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
 - Downstream:
   - [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*when an Institutional Charter is required, what it states, and how it changes*);
-  - [Chapter Eleven §4.7](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7) (*the Institutional Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*);
+  - [Chapter Eleven §5](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5) (*the Institutional Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*);
   - [Chapter Fourteen §4.3](core_14.000_forum.md#43-institutional-forums) (14.000 §4.3) (*institutional mandate and supervised-scope disputes*);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*); institutional publication of binding-governance and weighting rules under
   - **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) /
@@ -4668,7 +4668,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5) (*the published map of seats*);
   - [Chapter Nine Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.005 §6.1.1) and
   - [§8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents) (*certification seats and the record of them*);
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7);
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*),
   - **CI-15.205 §5** (*Authorized roles and accountability chains*), and
   - **CI-15.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*).

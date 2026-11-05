@@ -28,7 +28,7 @@
   - [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition); Accountability-band leaf definitions in
   - [core_05.035_band_accountability.md](core_05.035_band_accountability.md).
 - Sibling Tetrad leg: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional).
-- Read with: [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the act makes its own record, so the chain of answerability exists when review is needed*).
+- Read with: [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the act makes its own Act Record, so the chain of answerability exists when review is needed*).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05.005_apex_accountability_leg.md#accountability),
   - [Contestability](core_05.035_band_accountability.md#contestability),

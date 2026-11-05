@@ -5,7 +5,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine, Part C** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**§8–§11**, continuing from Part B §6–§7). **Part A** — purpose, framing (system class), and evaluation requirements — is in [`core_09.000_system_alignment_certification_evaluation.md`](core_09.000_system_alignment_certification_evaluation.md). **Part B** — the **forum process** and the certification **outcomes** with the go-live gate — is in [`core_09.005_system_alignment_certification_record_process.md`](core_09.005_system_alignment_certification_record_process.md).
 >
-> - **Constitutional owner (joint with Parts A and B):** forum-supervised **system alignment certification and related records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
+> - **Constitutional owner (joint with Parts A and B):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05.050_band_oversight.md#auditability).
 > - **Inputs:** [Part A §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) supply evaluation outputs reflected on the System Certification Record, and [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) supplies the outcome that completes it.
 > - **Anti-relocation rule:** Part C does not restate Part A evaluation mechanics, Part B forum-process or outcome rules, Chapter Five canonical definitions, Chapter Eleven standing measurement, or Chapter Twelve standing effects. **§11** states the standing bridge. Part C also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*Audit process home*)–**CJS-5.110 §5**.
 >
@@ -20,9 +20,9 @@
 - Upstream:
   - [Part A §1](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role) (9.000 §1) (*certification purpose and process overview*);
   - [Part A §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) through
-  - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs for the record*);
+  - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
   - [Part B §6](core_09.005_system_alignment_certification_record_process.md#6-forum-process) (9.005 §6) and
-  - [§7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*forum review and the outcome that the record completes with*);
+  - [§7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*forum review and the outcome that the System Certification Record completes with*);
   - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
@@ -39,13 +39,13 @@
 
 Chapter Nine, **Part C**, is the constitutional owner of these parts of system alignment certification:
 
-- **Phase V, Record:** the **System Certification Record** ([§8 System Certification Record](#8-system-certification-record)), the single home for what goes on the record. The findings from the Part A evaluations are recorded there. That section completes the one record opened for forum review, so no separate record is made for the decision;
+- **Phase V, Record:** the **System Certification Record** ([§8 System Certification Record](#8-system-certification-record)), the single home for what goes on the System Certification Record. The findings from the Part A evaluations are recorded there. That section completes the one System Certification Record opened for forum review, so no separate System Certification Record is made for the decision;
 - **Phase VIa, Operate and recertify:** **recertification and reopening** ([§9 Recertification and Reopening](#9-recertification-and-reopening)) and the **challenge path** ([§10 Challenging a Certification](#10-challenging-a-certification)); and
 - **Phase VIb, Standing bridge:** the **standing bridge** ([§11 Relationship to Standing](#11-relationship-to-standing)).
 
 Evaluation requirements are in **[Part A](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)** (**Phase I, Frame**, and **Phase II, Evaluate**). Forum review and the outcome (**Phase III, Review**, and **Phase IV, Decide**) are in **[Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes)**, which ends at [§7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes). This Part continues the chapter at **§8** (*System Certification Record*). [Part A §1.2 Certification at a glance](core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance) charts the whole process, and the chart in [Part B](core_09.005_system_alignment_certification_record_process.md#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) shows Phases III to VI.
 
-*In plain terms: Part B explains how forums review a system and reach an **outcome**. Part C explains what happens after the decision. The review findings and the decision go on the **record**. Sentients (the beings the Constitution covers) can **challenge** the outcome. The certification is kept current, and review **reopens** when it needs to. Certification can also feed **standing**, but it never replaces standing measurement or standing effects.*
+*In plain terms: Part B explains how forums review a system and reach an **outcome**. Part C explains what happens after the decision. The review findings and the decision go on the **System Certification Record**. Sentients (the beings the Constitution covers) can **challenge** the outcome. The certification is kept current, and review **reopens** when it needs to. Certification can also feed **standing**, but it never replaces standing measurement or standing effects.*
 
 Certification under this Part:
 
@@ -62,11 +62,11 @@ Certification under this Part:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Part B §6](core_09.005_system_alignment_certification_record_process.md#6-forum-process) (*forum component findings integrated into the record*);
+  - [Part B §6](core_09.005_system_alignment_certification_record_process.md#6-forum-process) (*forum component findings integrated into the System Certification Record*);
   - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*the outcome and the concerns raised in reaching it*);
   - [Part A §1](core_09.000_system_alignment_certification_evaluation.md#1-purpose-and-role) (9.000 §1) (*certification purpose*);
   - [Part A §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) through
-  - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs reflected on the record*);
+  - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs reflected on the System Certification Record*);
   - [Chapters Two through Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (*definition, burden, traceability, and verification substrate*);
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record) (*Chapter Five meaning*);
   - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record);
@@ -82,7 +82,7 @@ Certification under this Part:
   - **CJS-5.110 §4** (*transparency levels and audit-access terms*).
 - Subsections:
   - [§8.1](#81-minimum-record-contents) (*minimum record contents*, with
-  - [§8.1.1 System identity, scope, and prior record](#811-system-identity-scope-and-prior-record),
+  - [§8.1.1 System identity, scope, and prior System Certification Record](#811-system-identity-scope-and-prior-system-certification-record),
   - [§8.1.2 Classification and whole-system findings](#812-classification-and-whole-system-findings),
   - [§8.1.3 System Data Types Record](#813-system-data-types-record),
   - [§8.1.4 Rights-Floor and domain findings](#814-rights-floor-and-domain-findings),
@@ -92,30 +92,30 @@ Certification under this Part:
   - [§8.1.8 Outcome and reliance limits](#818-outcome-and-reliance-limits),
   - [§8.1.9 Operating plan](#819-operating-plan), and
   - [§8.1.10 Completeness](#8110-completeness));
-  - [§8.2](#82-transparency-and-auditability-of-the-record) (*transparency and auditability of the record*).
+  - [§8.2](#82-transparency-and-auditability-of-the-system-certification-record) (*transparency and auditability of the System Certification Record*).
 
 </details>
 
 <br>
 
-*In plain terms: a System Certification Record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [CS-9.320 §2 Illustrative system class profiles](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-2-illustrative-system-class-profiles) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.*
+*In plain terms: a System Certification Record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a System Certification Record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [CS-9.320 §2 Illustrative system class profiles](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-2-illustrative-system-class-profiles) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.*
 
-This section is **Phase V, Record**, after [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (**Phase IV, Decide**). The record is opened for forum review in Phase III and completed here with the outcome.
+This section is **Phase V, Record**, after [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (**Phase IV, Decide**). The System Certification Record is opened for forum review in Phase III and completed here with the outcome.
 
-A **System Certification Record** is a bounded, reviewable record that is scope-bound, time-bound, and contestable, as the Chapter Five meaning in [System Certification Record](core_05.040_band_continuity.md#system-certification-record) says. In overview, it is about one particular (the full minimum contents are in [§8.1 Minimum record contents](#81-minimum-record-contents)):
+A **System Certification Record** is bounded, reviewable, scope-bound, time-bound, and contestable, as the Chapter Five meaning in [System Certification Record](core_05.040_band_continuity.md#system-certification-record) says. In overview, it is about one particular (the full minimum contents are in [§8.1 Minimum record contents](#81-minimum-record-contents)):
 
 - **system, and the decision about it:**
   - **The decision (the "decision context"):** whether, and on what terms, this system, in this System Version and scope, is certified, judged on how it was classified and what the evidence showed when the review was run.
-  - **A new pass is a new decision:** a [later certification pass](core_05.040_band_continuity.md#certification-pass) is a new decision context and opens a new record ([§9 Recertification and Reopening](#9-recertification-and-reopening)).
+  - **A new pass is a new decision:** a [later certification pass](core_05.040_band_continuity.md#certification-pass) is a new decision context and opens a new System Certification Record ([§9 Recertification and Reopening](#9-recertification-and-reopening)).
 - **material-impact profile:** how much the system can affect sentients.
 - **System Version:** which version of the system is being certified.
   - **Dependencies go with the System Version:** the System Version covers the parts the system relies on, such as an upstream system or a vendor's component, and the reliance that sentients place on it (its dependency types, recorded under [§8.1.2 Classification and whole-system findings](#812-classification-and-whole-system-findings)). A material change in either can reopen review ([§9 Recertification and Reopening](#9-recertification-and-reopening)).
-  - **Two kinds of versions:** the System Version is the one listed above. The record has its own **Record Versions**. Correcting a finished record adds a new Record Version of the same record. It does not change the System Version, and it does not open a new record, because the decision the record supports is the same. The Record Version that was relied on stays on file, marked as corrected ([Record Integrity](core_05.035_band_accountability.md#record-integrity)).
+  - **Two kinds of versions:** the System Version is the one listed above. The System Certification Record has its own **Record Versions**. Correcting a finished System Certification Record adds a new Record Version of the same System Certification Record. It does not change the System Version, and it does not open a new System Certification Record, because the decision the System Certification Record supports is the same. The Record Version that was relied on stays on file, marked as corrected ([Record Integrity](core_05.035_band_accountability.md#record-integrity)).
 - **operator or steward:** who runs or looks after the system.
 - **scope:** what the certification covers.
 - **data types:** the kinds of data the system handles, and how they are classified and handled.
-- **record span:** the time the record covers.
-  - It runs from when the record is opened (step 1 of [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence)) until the outcome and operating plan are entered and the record is complete ([§8.1.8 Outcome and reliance limits](#818-outcome-and-reliance-limits) and [§8.1.9 Operating plan](#819-operating-plan)).
+- **record span:** the time the System Certification Record covers.
+  - It runs from when the System Certification Record is opened (step 1 of [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence)) until the outcome and operating plan are entered and the System Certification Record is complete ([§8.1.8 Outcome and reliance limits](#818-outcome-and-reliance-limits) and [§8.1.9 Operating plan](#819-operating-plan)).
 
 It also records:
 
@@ -127,22 +127,22 @@ It also records:
 - **outcome and reliance limits:** the certification outcome, the reliance limits, and the reopening triggers ([§8.1.8 Outcome and reliance limits](#818-outcome-and-reliance-limits)).
 - **operating plan:** the concise plan for operating and monitoring the system ([§8.1.9 Operating plan](#819-operating-plan)).
 
-The record must also meet [Record Integrity](core_05.035_band_accountability.md#record-integrity). For this record:
+The System Certification Record must also meet [Record Integrity](core_05.035_band_accountability.md#record-integrity). For this System Certification Record:
 
 - **Who keeps it:** the [Record Seat](core_05.035_band_accountability.md#record-seat) opens, enters, amends, preserves, and publishes it ([Part B §6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)).
-  - **Others may ask, not change:** the operator, steward, or proponent may submit evidence and ask for a change, but may not enter or change the record.
+  - **Others may ask, not change:** the operator, steward, or proponent may submit evidence and ask for a change, but may not enter or change the System Certification Record.
   - **Requests are logged:** each request is logged, whether or not it is acted on.
-- **Open and completed:** the record is open from step 1 of [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence) until the Record Seat enters the outcome under [§8.1.8 Outcome and reliance limits](#818-outcome-and-reliance-limits) and the operating plan under [§8.1.9 Operating plan](#819-operating-plan) and publishes it. While it is open, each amendment is a new Record Version that shows what changed.
-- **Changes to a completed record:** once the record is completed, its existing entries are not changed in place. What follows depends on what happened:
-  - **A correction or a later finding:** a new Record Version of the same record. It states what changed, who made the change, under what authority, on what verification materials, and at whose request. The Record Version that was relied on stays reachable and is marked as corrected or superseded.
+- **Open and completed:** the System Certification Record is open from step 1 of [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence) until the Record Seat enters the outcome under [§8.1.8 Outcome and reliance limits](#818-outcome-and-reliance-limits) and the operating plan under [§8.1.9 Operating plan](#819-operating-plan) and publishes it. While it is open, each amendment is a new Record Version that shows what changed.
+- **Changes to a completed System Certification Record:** once the System Certification Record is completed, its existing entries are not changed in place. What follows depends on what happened:
+  - **A correction or a later finding:** a new Record Version of the same System Certification Record. It states what changed, who made the change, under what authority, on what verification materials, and at whose request. The Record Version that was relied on stays reachable and is marked as corrected or superseded.
   - **Operating evidence:** is added as linked entries under [§8.1.9 Operating plan](#819-operating-plan).
-  - **A new pass:** a later certification pass opens a new record that links back to the completed one, not a new Record Version ([§9 Recertification and Reopening](#9-recertification-and-reopening)).
-- **Challenge:** a challenge does not freeze or erase the record ([Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain); [§10 Challenging a Certification](#10-challenging-a-certification)).
-  - **Inspection:** the record stays inspectable.
+  - **A new pass:** a later certification pass opens a new System Certification Record that links back to the completed one, not a new Record Version ([§9 Recertification and Reopening](#9-recertification-and-reopening)).
+- **Challenge:** a challenge does not freeze or erase the System Certification Record ([Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain); [§10 Challenging a Certification](#10-challenging-a-certification)).
+  - **Inspection:** the System Certification Record stays inspectable.
   - **Prior Record Versions:** they stay.
-  - **Status:** it shows that the record is under challenge.
+  - **Status:** it shows that the System Certification Record is under challenge.
 - **Care scales:** how strong the custody and version trail must be scales with system class and material impact, as detail and disclosure do.
-  - **No system class removes:** attribution, the version trail, or the rule against editing a completed record in place.
+  - **No system class removes:** attribution, the version trail, or the rule against editing a completed System Certification Record in place.
 
 <a id="81-minimum-record-contents"></a>
 
@@ -150,13 +150,13 @@ The record must also meet [Record Integrity](core_05.035_band_accountability.md#
 
 Certifying a system is a materially binding act. So the System Certification Record has to meet the rules for a [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) and for [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs), and then add to them. It can hold those items itself, or link to them under those rules: each link must show who made it, and its version history must stay intact. It does not need a second, parallel record.
 
-The subsections below set out what the record must contain. The last one, [§8.1.10 Completeness](#8110-completeness), says when a record counts as incomplete.
+The subsections below set out what the System Certification Record must contain. The last one, [§8.1.10 Completeness](#8110-completeness), says when a System Certification Record counts as incomplete.
 
-<a id="811-system-identity-scope-and-prior-record"></a>
+<a id="811-system-identity-scope-and-prior-system-certification-record"></a>
 
-##### 8.1.1 System identity, scope, and prior record
+##### 8.1.1 System identity, scope, and prior System Certification Record
 
-The record must identify, at minimum:
+The System Certification Record must identify, at minimum:
 
 - **System identity, scope, and status:**
   - the system, its System Version, its operator or steward, and its scope;
@@ -164,13 +164,13 @@ The record must identify, at minimum:
   - affected communities and dependencies;
   - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists; and
   - where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Chapter Ten §1 Purpose and Role](core_10.000_institutional_alignment_certification.md#1-purpose-and-role));
-- **Prior record:** for a later certification pass, a link to the completed record it follows, kept under the Act Record rules in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs), and what has changed since.
+- **Prior System Certification Record:** for a later certification pass, a link to the completed System Certification Record it follows, kept under the Act Record rules in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs), and what has changed since.
 
 <a id="812-classification-and-whole-system-findings"></a>
 
 ##### 8.1.2 Classification and whole-system findings
 
-The record must identify, at minimum:
+The System Certification Record must identify, at minimum:
 
 - **System Classification Record:** the [System Classification Record](core_05.040_band_continuity.md#system-classification-record), or its required contents under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*), reflecting the evaluation under [Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation), stating:
   - the assigned system class;
@@ -186,13 +186,13 @@ The record must identify, at minimum:
   - [Risk Disclosure](core_05.050_band_oversight.md#risk-disclosure) posture: who the disclosure is meant for or how it is routed, its timing relative to material decisions, and any justified hold-backs paired with usable substitutes; and
   - defects or certification conditions where evaluation or disclosure remains incomplete.
 
-  These risk findings live on this record. They are not a separate named risk-disclosure record or a fifth mandatory named component record.
+  These risk findings live on this System Certification Record. They are not a separate named risk-disclosure record or a fifth mandatory named component record.
 
 <a id="813-system-data-types-record"></a>
 
 ##### 8.1.3 System Data Types Record
 
-The record must identify, at minimum, the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record), or its required contents under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*), produced or verified under [Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), stating:
+The System Certification Record must identify, at minimum, the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record), or its required contents under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*), produced or verified under [Part A §3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), stating:
 - the data types materially in scope;
 - the classification rationale for ambiguous or multi-type data;
 - the separation and cross-domain-linkage controls relied on;
@@ -209,7 +209,7 @@ The record must identify, at minimum, the [System Data Types Record](core_05.040
 
 ##### 8.1.4 Rights-Floor and domain findings
 
-For each protection in the [Part A §5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) table whose trigger applies, the record must identify, at minimum:
+For each protection in the [Part A §5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) table whose trigger applies, the System Certification Record must identify, at minimum:
 
 - the materiality trigger relied on and the evaluation scope;
 - the findings for that protection:
@@ -234,7 +234,7 @@ For each protection in the [Part A §5 Rights-Floor and Domain Evaluations](core
 
 ##### 8.1.5 Technical evidence and review findings
 
-The record must identify, at minimum:
+The System Certification Record must identify, at minimum:
 
 - **Technical evidence and assurance:** the technical standards, tests, measurements, uncertainty, safety margins, failure modes, security-test results, and evidence basis materially relied on, together with:
   - the regression-testing results for each recertification, as CS-6.345 (*System lifecycle*) requires: regression scope; standard and custom test suites run; results; known failures; remediations; and accepted residual risk with justification; and
@@ -245,7 +245,7 @@ The record must identify, at minimum:
     - residual risk;
     - remediation readiness;
     - monitoring; and
-    - where recertification applies, material changes since the prior record;
+    - where recertification applies, material changes since the prior System Certification Record;
 - **Stakeholder, environmental, and integrity review:**
   - stakeholder, Rights-Floor, accessibility, dependency, and participation considerations;
   - ecological exposure, [Ecological Footprint](core_05.040_band_continuity.md#ecological-footprint) attribution, environmental-precondition dependency, lifecycle burden, restoration duty, and environmental-alignment component review where material; and
@@ -255,7 +255,7 @@ The record must identify, at minimum:
 
 ##### 8.1.6 Supervision, independence, and challenge paths
 
-The record must identify, at minimum:
+The System Certification Record must identify, at minimum:
 
 - **Forum supervision:** the forum family or authority that issued, adopted, referred, sent for ruling, stayed, or reviewed each component, and the supervisory sequence (who oversees what, and in what order) under [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence);
 - **Functional-independence record:**
@@ -268,13 +268,13 @@ The record must identify, at minimum:
 
 ##### 8.1.7 Concerns, cause, and remediation readiness
 
-The record must identify, at minimum:
+The System Certification Record must identify, at minimum:
 
-- **Concerns raised in review and decision:** every objection, dissent, concern, and challenge raised during forum review or in reaching the outcome. It does not matter whether it came from a forum component, a member of the deciding body, a steward or operator, or an affected party, whether through a challenge path or a review submission under [Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review). For each, the record states:
+- **Concerns raised in review and decision:** every objection, dissent, concern, and challenge raised during forum review or in reaching the outcome. It does not matter whether it came from a forum component, a member of the deciding body, a steward or operator, or an affected party, whether through a challenge path or a review submission under [Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review). For each, the System Certification Record states:
   - who raised it (or that the submitter is anonymous or confidential) and what was raised;
   - how it was resolved, or why it remains open; and
   - any certification condition, reliance limit, or reopening trigger it produced;
-- **Review submissions log:** the log kept under [Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review), published with the record;
+- **Review submissions log:** the log kept under [Part B §6.2.4 Participation during review](core_09.005_system_alignment_certification_record_process.md#624-participation-during-review), published with the System Certification Record;
 - **Cause finding:** where the review, a recertification, a reopened review, or a fresh review found misalignment or a defect (see [§9.3.3 Cause of misalignment](#933-cause-of-misalignment)):
   - whether the misalignment or defect is design-caused, operating-caused, or not yet determined; and
   - the evidence relied on;
@@ -288,7 +288,7 @@ The record must identify, at minimum:
 
 ##### 8.1.8 Outcome and reliance limits
 
-The record must identify, at minimum:
+The System Certification Record must identify, at minimum:
 
 - the certification outcome under [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes);
 - whether the system holds provisional or full certification under [§9.3 Provisional and full certification](#93-provisional-and-full-certification) or is Not Certified;
@@ -300,7 +300,7 @@ The record must identify, at minimum:
 
 ##### 8.1.9 Operating plan
 
-The record must also contain a concise **operating plan**, scaled to system class and material impact. The plan summarizes requirements on the same record, and no separate document is required. It must state:
+The System Certification Record must also contain a concise **operating plan**, scaled to system class and material impact. The plan summarizes requirements on the same System Certification Record, and no separate document is required. It must state:
 
 - the scope, population, and duration of any authorized operation;
 - where the system is certified, the certification expiry, the next recertification due date, and the date by which the midpoint audit under [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#review-cadence) (*Review cadence*) must be completed;
@@ -324,11 +324,11 @@ A System Certification Record is incomplete if it omits the findings of any eval
 - each [§4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated) subsection whose locus or principle is implicated; and
 - each [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) domain whose trigger is met.
 
-Those findings must reflect what the evaluation actually found, not section titles or the operator's own attestation. A record is also incomplete if it omits a concern, objection, or dissent raised in review or in reaching the outcome, including one that did not change the outcome.
+Those findings must reflect what the evaluation actually found, not section titles or the operator's own attestation. A System Certification Record is also incomplete if it omits a concern, objection, or dissent raised in review or in reaching the outcome, including one that did not change the outcome.
 
-<a id="82-transparency-and-auditability-of-the-record"></a>
+<a id="82-transparency-and-auditability-of-the-system-certification-record"></a>
 
-#### 8.2 Transparency and auditability of the record
+#### 8.2 Transparency and auditability of the System Certification Record
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -340,9 +340,9 @@ Those findings must reflect what the evaluation actually found, not section titl
 
 <br>
 
-*In plain terms: a System Certification Record only works if sentients can read it and check it. This section puts transparency and auditability on the record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§10 Challenging a Certification](#10-challenging-a-certification).*
+*In plain terms: a System Certification Record only works if sentients can read it and check it. This section puts transparency and auditability on the System Certification Record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§10 Challenging a Certification](#10-challenging-a-certification).*
 
-This section applies [Transparency](core_05.050_band_oversight.md#transparency) and [Auditability](core_05.050_band_oversight.md#auditability) to System Certification Records. They are the "reachable" and "reconstructable" parts of [Record Integrity](core_05.035_band_accountability.md#record-integrity), which covers the whole record ([§8 System Certification Record](#8-system-certification-record)). Canonical term homes and owner boundaries are in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
+This section applies [Transparency](core_05.050_band_oversight.md#transparency) and [Auditability](core_05.050_band_oversight.md#auditability) to System Certification Records. They are the "reachable" and "reconstructable" parts of [Record Integrity](core_05.035_band_accountability.md#record-integrity), which covers the whole System Certification Record ([§8 System Certification Record](#8-system-certification-record)). Canonical term homes and owner boundaries are in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
 
 - **Transparency** and **auditability** put **oversight** into practice; and
 - Record clarity under [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) puts **timeliness** into practice, scaled to system class and [material stake](core_00.000_preamble.md#material-stake).
@@ -362,13 +362,13 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 - Volume, formatting, or technical obscurity must not stand in for decision-relevant clarity; and
 - The online-publication baseline, the paywall prohibition for [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Transparency](core_05.050_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, read with **CJS-5.110 §4** (*transparency levels and audit-access terms*).
 
-**Auditability** — sentients must be able to reconstruct and check the record:
+**Auditability** — sentients must be able to reconstruct and check the System Certification Record:
 
 - A System Certification Record must be attributable, reconstructable, and independently reviewable under Chapters Two through Four, [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [Record Integrity](core_05.035_band_accountability.md#record-integrity);
 - It must identify:
   - who issued, adopted, referred, sent for ruling, [stayed](core_05.035_band_accountability.md#stay), or reviewed each material component;
   - what evidence was materially relied on; and
-  - what changed between Record Versions, who made each change, under what authority, and at whose request, and, for a new record, what has changed since the completed record it follows;
+  - what changed between Record Versions, who made each change, under what authority, and at whose request, and, for a new System Certification Record, what has changed since the completed System Certification Record it follows;
 - Audit scope must be enough to test whether the recorded outcome follows from the recorded evidence and assumptions; and
 - Operators, stewards, and forums must not fragment, relabel, or conceal certification-relevant behavior in a way that defeats practical reconstructability.
 
@@ -384,7 +384,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 
 - Upstream:
   - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*the outcome in force*);
-  - [§8](#8-system-certification-record) (*the completed record that each recertification or reopened review follows*);
+  - [§8](#8-system-certification-record) (*the completed System Certification Record that each recertification or reopened review follows*);
   - [Part A §2](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) through
   - [§5](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*);
   - [§10](#10-challenging-a-certification) (*credible challenge*);
@@ -395,7 +395,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 - Downstream: [§11.3](#113-verified-input-gate) and [§11.5](#115-violation-standing-record) (*verified-input gate where facts support adverse findings*); [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*reopened forum supervision*); [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000).
 - Read with: **[CS-6.305 §5](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-9.305 §3](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*).
 - Subsections:
-  - [§9.1](#91-recertification-schedule-and-the-new-record) (*recertification schedule and the new record*);
+  - [§9.1](#91-recertification-schedule-and-the-new-system-certification-record) (*recertification schedule and the new System Certification Record*);
   - [§9.2](#92-reopening-triggers) (*reopening triggers*);
   - [§9.3](#93-provisional-and-full-certification) (*provisional and full certification*, with
   - [§9.3.1 The two statuses](#931-the-two-statuses),
@@ -410,13 +410,13 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
 
 <br>
 
-*In plain terms: no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the certification conditions on the record. A certified system is recertified on a schedule set by its system class, with an audit at the midpoint of each interval. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last, and a new record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.*
+*In plain terms: no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the certification conditions on the System Certification Record. A certified system is recertified on a schedule set by its system class, with an audit at the midpoint of each interval. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new System Certification Record linked to the last, and a new System Certification Record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.*
 
 This section is sub-phase **VIa** of Phase VI (Operate), operate and recertify. It covers operating the certified system, keeping it current, and reopening review.
 
 **Validation.** Chapter Fourteen calls the forum review of an existing system *ongoing alignment validation*. In this chapter, validation is not a separate process. It is a certification pass on a system that is already operating: a recertification, or a reopened or fresh review. It runs through [Part B §6 Forum Process](core_09.005_system_alignment_certification_record_process.md#6-forum-process) like any other certification pass and ends in an outcome under [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-**Monitoring and response.** Operators and stewards must carry out the operating plan on the record under [§8.1 Minimum record contents](#81-minimum-record-contents). Named owners must:
+**Monitoring and response.** Operators and stewards must carry out the operating plan on the System Certification Record under [§8.1 Minimum record contents](#81-minimum-record-contents). Named owners must:
 
 - preserve monitoring evidence;
 - investigate material incidents and indicators;
@@ -433,20 +433,20 @@ Any of the following that materially calls alignment into question requires time
 
 Correction, fulfillment, and release of certification conditions follow the independent-verification requirements in [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 
-<a id="91-recertification-schedule-and-the-new-record"></a>
+<a id="91-recertification-schedule-and-the-new-system-certification-record"></a>
 
-#### 9.1 Recertification schedule and the new record
+#### 9.1 Recertification schedule and the new System Certification Record
 
-*In plain terms: a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each certification pass opens a new record linked to the last one.*
+*In plain terms: a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each certification pass opens a new System Certification Record linked to the last one.*
 
 A **System Certification Record** must be recertified on the cadence set for its system class in [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#review-cadence) (*Review cadence*), and audited at the midpoint of that cadence.
 
-**New record for each certification pass.** Each later certification pass (a recertification, a reopened review, or a fresh review) opens a new System Certification Record. The new record:
+**New record for each certification pass.** Each later certification pass (a recertification, a reopened review, or a fresh review) opens a new System Certification Record. The new System Certification Record:
 
-- links to the completed record it follows and states what has changed since ([§8.1.1 System identity, scope, and prior record](#811-system-identity-scope-and-prior-record)); and
+- links to the completed System Certification Record it follows and states what has changed since ([§8.1.1 System identity, scope, and prior System Certification Record](#811-system-identity-scope-and-prior-system-certification-record)); and
 - runs through [Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence) from step 1, as a first certification does.
 
-The completed record stays as it stood ([§8 System Certification Record](#8-system-certification-record)). It remains the record for the period it covers, and it stays open to challenge under [Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain). Certification status, the count of clean recertifications, and monitoring indicators carry forward through the link. They are verified on the new record under [§9.3 Provisional and full certification](#93-provisional-and-full-certification).
+The completed System Certification Record stays as it stood ([§8 System Certification Record](#8-system-certification-record)). It remains the record for the period it covers, and it stays open to challenge under [Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain). Certification status, the count of clean recertifications, and monitoring indicators carry forward through the link. They are verified on the new System Certification Record under [§9.3 Provisional and full certification](#93-provisional-and-full-certification).
 
 <a id="92-reopening-triggers"></a>
 
@@ -488,17 +488,17 @@ Review reopens under Chapter Fourteen and incorporated system implementation dut
 
 ##### 9.3.1 The two statuses
 
-Certification is held in one of two statuses. Each has its own certification interval, stated on the record under [§8.1 Minimum record contents](#81-minimum-record-contents):
+Certification is held in one of two statuses. Each has its own certification interval, stated on the System Certification Record under [§8.1 Minimum record contents](#81-minimum-record-contents):
 
 - **[Provisional certification](core_05.040_band_continuity.md#provisional-certification)** is the status of:
   - a system's first certification, including a newly deployed system; and
   - a system certified after a failed recertification, or after a reopened review or fresh review that found misalignment.
 
-  Provisional certification runs on a provisional interval, shorter than the full certification interval for the same system class. Reliance limits are stated on the record.
+  Provisional certification runs on a provisional interval, shorter than the full certification interval for the same system class. Reliance limits are stated on the System Certification Record.
 - **[Full certification](core_05.040_band_continuity.md#full-certification)** is earned only at a recertification of a system holding provisional certification, and only where all three of these hold:
   1. the system has completed the required number of consecutive clean provisional recertifications: at least one, and more for higher system classes, as the adopted document sets;
-  2. no misalignment is current: the record shows no open misalignment, unremedied defect, overdue check, or failed regression testing; and
-  3. no monitoring indicator points to impending misalignment: the monitoring triggers and trend metrics stated on the record show no threshold crossed and no trend toward one.
+  2. no misalignment is current: the System Certification Record shows no open misalignment, unremedied defect, overdue check, or failed regression testing; and
+  3. no monitoring indicator points to impending misalignment: the monitoring triggers and trend metrics stated on the System Certification Record show no threshold crossed and no trend toward one.
 
 Full certification runs on the system-class-scaled certification interval. It remains time-bound and is not a permanent approval.
 
@@ -534,7 +534,7 @@ What a recertification, reopened review, or fresh review finds decides what happ
 
 ##### 9.3.3 Cause of misalignment
 
-Where an evaluation, a recertification, a reopened review, or a fresh review finds misalignment, the record states its cause as one of:
+Where an evaluation, a recertification, a reopened review, or a fresh review finds misalignment, the System Certification Record states its cause as one of:
 
 - **design-caused:** the system or its process is built so that it produces misaligned results even when run as intended;
 - **operating-caused:** the design is sound on its face, but the way the system is run, fed, or maintained makes its results misaligned; or
@@ -570,7 +570,7 @@ Where an initial evaluation, a recertification, a reopened review, or a fresh re
 
 ##### 9.3.5 Class A reliance
 
-Compared with full certification, provisional certification means a shorter certification interval, so recertification comes sooner ([§9.3.1 The two statuses](#931-the-two-statuses)), and reliance limits stated on the record ([§8.1 Minimum record contents](#81-minimum-record-contents)). Interruption is handled as follows:
+Compared with full certification, provisional certification means a shorter certification interval, so recertification comes sooner ([§9.3.1 The two statuses](#931-the-two-statuses)), and reliance limits stated on the System Certification Record ([§8.1 Minimum record contents](#81-minimum-record-contents)). Interruption is handled as follows:
 
 - By itself, provisional certification does not require interrupting a system whose interruption would cut off survival essentials before substitutes arrive;
 - interim protection and certification conditions under [Part B §7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) handle that case;
@@ -608,7 +608,7 @@ Evasion of this chapter's obligations is governed by Chapter Three — this chap
 - Upstream:
   - [Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain) (*the order the challenge paths run in*);
   - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (*the outcome a challenge may contest*);
-  - [§8](#8-system-certification-record) (*the record that names the challenge paths*);
+  - [§8](#8-system-certification-record) (*the System Certification Record that names the challenge paths*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 - Downstream: [§9](#9-recertification-and-reopening) (*a credible challenge reopens review*); [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*the forum paths for a challenged point*).
@@ -633,7 +633,7 @@ This section is part of sub-phase **VIa** of Phase VI (Operate), with [§9 Recer
 
 Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Contestability](core_05.035_band_accountability.md#contestability) puts **accountability** into practice and keeps **participation** open in challenge paths. Contest windows under [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) put **timeliness** into practice.
 
-Affected parties must have real ways to challenge the record:
+Affected parties must have real ways to challenge the System Certification Record:
 
 - A System Certification Record must state the [contestability paths](#102-contestability-paths) defined in §10.2 Contestability paths. They must be enough for affected parties to contest:
   - record content;
@@ -662,25 +662,25 @@ When the path opens, and how long it stays open:
 - For a system that is not yet operating, the published record challenge path opens when the system's first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, before the system goes live under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate).
 - A system that is already operating already has stakeholders. So its path is already open, or it opens when the system's record opens. That covers a system under an [Article XXVIII-A](core_06.020_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*) Adoption Transition window and a later certification pass.
 - **Stakeholders** are sentients the system materially affects or who materially rely on it, as found in evaluation and not as identified by the operator.
-- Until the path opens for a system not yet operating, the record still names it ([Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence)). The component, lead-integrity, and escalation paths in [§10.2 Contestability paths](#102-contestability-paths) are available throughout review.
+- Until the path opens for a system not yet operating, the System Certification Record still names it ([Part B §6.2 Supervisory sequence](core_09.005_system_alignment_certification_record_process.md#62-supervisory-sequence)). The component, lead-integrity, and escalation paths in [§10.2 Contestability paths](#102-contestability-paths) are available throughout review.
 - The path stays open while the system has stakeholders. A system that gains stakeholders after certification reopens review under [§9 Recertification and Reopening](#9-recertification-and-reopening).
-- A claim that a system is aligned is unsupported while the system has stakeholders but no open path for challenging the record.
+- A claim that a system is aligned is unsupported while the system has stakeholders but no open path for challenging the System Certification Record.
 
 <a id="102-contestability-paths"></a>
 
 #### 10.2 Contestability paths
 
-*In plain terms: a record has to say where to push back. There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalation. Where waiting would do harm, a challenger can go straight to a forum.*
+*In plain terms: a System Certification Record has to say where to push back. There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalation. Where waiting would do harm, a challenger can go straight to a forum.*
 
 A System Certification Record must name the four challenge paths below, so anyone affected knows where to take a dispute. The paths apply Chapter Fourteen's [Dispute sequencing](core_14.000_forum.md#dispute-sequencing) to System Certification Records. They are routes into the forums, not a new forum, and Chapter Fourteen still decides which forum has authority. The order they run in is in [Part B §6.3 Contestability chain](core_09.005_system_alignment_certification_record_process.md#63-contestability-chain).
 
-- **Published record challenge path** — the ordinary first step for an ordinary dispute about the System Certification Record. The record names the contest seat ([§6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)):
+- **Published record challenge path** — the ordinary first step for an ordinary dispute about the System Certification Record. The System Certification Record names the contest seat ([§6.1.1 Four seats in a certification](core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)):
   - who receives the challenge;
   - how to file it; and
   - that windows under [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
 
   Internal operator review, vendor attestation, or technical sign-off is not this path.
-- **Component forum path** — for a challenge to one finding in the record. It goes to the Chapter Fourteen forum family that has authority over that finding.
+- **Component forum path** — for a challenge to one finding in the System Certification Record. It goes to the Chapter Fourteen forum family that has authority over that finding.
 - **Lead-integrity path** — for a challenge to how the lead forum ran the process, such as capture, hidden information, reviewing its own work, or calling certification finished too soon. It goes through Integrity routing, with a backup forum so the lead forum does not judge itself.
 - **Escalation path** — for a dispute that needs to move to a different forum or a higher one under Chapter Fourteen. That means transfer, sending a question to another forum for ruling, backup routing, or escalation from one forum family to another. It applies when the main stakes belong elsewhere, constitutional validity is in question, a structural fix is needed, two forum families are deadlocked, or a forum would otherwise be judging itself.
 
@@ -749,7 +749,7 @@ A System Certification Record may feed Chapter Eleven standing only when it is b
 
 - the system class evaluation ([Part A §2 System Class Evaluation](core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)), which settles what system class the system is in, the whole-system evaluation ([Part A §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)), and the data types and handling evaluation ([§3.4 Data Types and Handling Evaluation](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)), which settles what data it handles and how;
 - every evaluation in [Part A §4 Evaluations Where Implicated](core_09.000_system_alignment_certification_evaluation.md#4-evaluations-where-implicated) and [Part A §5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) that applies to this system, meaning each one whose trigger is met;
-- the record's own transparency and auditability rules ([§8.2 Transparency and auditability of the record](#82-transparency-and-auditability-of-the-record)) and the forum review rules ([Part B §6 Forum Process](core_09.005_system_alignment_certification_record_process.md#6-forum-process)); and
+- the System Certification Record's own transparency and auditability rules ([§8.2 Transparency and auditability of the System Certification Record](#82-transparency-and-auditability-of-the-system-certification-record)) and the forum review rules ([Part B §6 Forum Process](core_09.005_system_alignment_certification_record_process.md#6-forum-process)); and
 - Chapters Two through Four, and whichever Chapter Fourteen process applies.
 
 <a id="114-contribution-standing-record"></a>

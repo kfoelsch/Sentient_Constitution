@@ -31,7 +31,7 @@ See: [Chapter Fourteen §3](../../../core_14.000_forum.md#3-transfer-consolidati
 - **Today:** Once someone files, you are already “in the system,” and silence or refusal is treated as proof.
 - **With this Constitution:** Most of us have no official record of verified help or harm. That is the normal state. Filing a case, by itself, does not change that. Someone still has to check actual facts.
 
-See: [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter Eleven §4.6](../../../core_11.000_standing_assessment.md#46-forum-boundary).
+See: [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter Eleven §2.7](../../../core_11.000_standing_assessment.md#27-forum-boundary).
 
 **You do not have to read the whole Constitution to get intake.**
 - **Today:** “Read the corpus first” is the next step.

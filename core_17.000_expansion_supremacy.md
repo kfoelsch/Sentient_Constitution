@@ -141,7 +141,7 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 
 <br>
 
-*In plain terms: when outside requirements and constitutional floors seem impossible to square, say so on the record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights.*
+*In plain terms: when outside requirements and constitutional floors seem impossible to square, say so on the official record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights.*
 
 Where external requirements appear irreconcilable with constitutional Rights Floors or non-negotiable principle constraints, adopters must document the conflict. They must:
 

@@ -240,7 +240,7 @@ Transparency, audit, and verification-integrity duties
 - **How to measure and assess**
   - **Primary measure:** records that can reconstruct decisions and actions
 
-    **Primary assessment:** Reviewers must verify that records can reconstruct decisions and actions.
+    **Primary assessment:** Reviewers must verify that official records can reconstruct decisions and actions.
 <a id="transparency-audit-and-verification-integrity-duties-c"></a>
 - **What must hold**
   - **Primary failure:** Opaque methods or selective disclosure when they undermine accountability.
@@ -839,7 +839,7 @@ Audit reconstruction and access-level continuity
 - **How to measure and assess**
   - **Primary measure:** records, access gates, qualification routes, and challenge routes support independent review and root-cause reconstruction
 
-    **Primary assessment:** Evaluation must verify that records, access gates, qualification routes, and challenge routes support independent review and root-cause reconstruction.
+    **Primary assessment:** Evaluation must verify that official records, access gates, qualification routes, and challenge routes support independent review and root-cause reconstruction.
 <a id="audit-reconstruction-and-access-level-continuity-c"></a>
 - **What must hold**
   - **Primary failure:** Keep records that cannot practically be reconstructed, or to publish audit-access criteria that block a real path to qualified independent audit.
@@ -1092,9 +1092,9 @@ Three-lines assurance model
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in three-lines assurance model.
 <a id="three-lines-assurance-model-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** each line has a named owner, that role concentration across lines is limited and justified where unavoidable, and that records and evidence custody are sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05.050_band_oversight.md#evidence-preservation)
+  - **Primary measure:** each line has a named owner, that role concentration across lines is limited and justified where unavoidable, and that official records and evidence custody are sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05.050_band_oversight.md#evidence-preservation)
 
-    **Primary assessment:** Evaluation must verify that each line has a named owner, that role concentration across lines is limited and justified where unavoidable, and that records and evidence custody are sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05.050_band_oversight.md#evidence-preservation).
+    **Primary assessment:** Evaluation must verify that each line has a named owner, that role concentration across lines is limited and justified where unavoidable, and that official records and evidence custody are sufficient for audit, contest, correction, and continuity transfer under [Evidence Preservation](../core_05.050_band_oversight.md#evidence-preservation).
 <a id="three-lines-assurance-model-c"></a>
 - **What must hold**
   - **Primary failure:** Treat assurance as satisfied when the challenged operational owner also controls the only review or assurance path without an independence safeguard, or when record custody cannot support reconstruction across transfers.

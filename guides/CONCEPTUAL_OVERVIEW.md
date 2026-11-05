@@ -813,7 +813,7 @@ flowchart TB
 - The shared scale compares magnitude; it does not create a net score. Contribution and violation remain separate records, and help cannot cancel harm.
 - LEQU does not decide who is sentient, replace verified facts, or determine standing effects by itself. Conduct character, such as negligence or coercion, remains separately traceable from impact magnitude.
 
-The canonical mechanics live in [Chapter Eleven §8](../core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes), after verified Question 1 facts and Question 2 measurement. Chapter Twelve uses the resulting records for Question 3 effects; forums supervise the process but do not replace the measurement.
+The canonical mechanics live in [Chapter Eleven §9](../core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes), after verified Question 1 facts and Question 2 measurement. Chapter Twelve uses the resulting records for Question 3 effects; forums supervise the process but do not replace the measurement.
 
 <a id="lequ-bands"></a>
 ### Nine proportional LEQU bands
@@ -889,7 +889,7 @@ This is a map of available processes. A particular matter enters the paths its f
 
 ### Ordinary life, privacy, and the way back
 
-Ordinary life does not begin with a standing file. **Silence is the default**: no standing record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive named pathway, which must state why that named pathway is trust-sensitive. See [Chapter Eleven §2.2](../core_11.000_standing_assessment.md#22-silence-is-the-default), [§4.7](../core_11.000_standing_assessment.md#47-record-custody-and-opening-authority), and [Chapter Twelve §6.2](../core_12.000_standing_integration.md#62-competency-bars-and-clearances).
+Ordinary life does not begin with a standing file. **Silence is the default**: no standing record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive named pathway, which must state why that named pathway is trust-sensitive. See [Chapter Eleven §2.2](../core_11.000_standing_assessment.md#22-silence-is-the-default), [§5](../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority), and [Chapter Twelve §6.2](../core_12.000_standing_integration.md#62-competency-bars-and-clearances).
 
 When a record does exist, its effects remain bounded to named pathways. The system must not combine named-pathway effects into a profile, ranking, badge, public display, or general worth judgment. A lawful lock still closes real doors: the subject must be told which named pathway is limited, what corrective conditions and review date apply, how long the effect is expected to last, and where to challenge it. That burden must be measured honestly rather than hidden behind the statement that standing is not a score. See [Chapter Twelve §§7.1–7.2](../core_12.000_standing_integration.md#71-anti-aggregation-of-named-pathway-effects).
 
@@ -1115,7 +1115,7 @@ This is a reading discipline, not a new precedence rule:
 
 ## Separation of duties
 
-When a decision, release, payment, finding, or official record can materially affect sentients, the sentient or system that acts must not be the only one that checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge its own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter Eight §2](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) owns the cross-process requirement; [Chapter Eleven §4.7](../core_11.000_standing_assessment.md#47-separation-of-duties) applies it to standing records.
+When a decision, release, payment, finding, or official record can materially affect sentients, the sentient or system that acts must not be the only one that checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge its own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter Eight §2](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) owns the cross-process requirement; [Chapter Eleven §5.1](../core_11.000_standing_assessment.md#51-separation-of-duties) applies it to standing records.
 
 ```mermaid
 flowchart TB

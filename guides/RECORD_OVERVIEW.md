@@ -116,7 +116,7 @@ flowchart TB
 
 These are functions for a particular act, not permanent job titles. The point is independence: the actor or its material control line cannot supply the supposedly independent check, control the official record of that check, and decide the challenge to it. The [Four-Seat Requirement](../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) scales proportionately, but a missing, conflicted, or wrong seat is routed and documented rather than silently assumed.
 
-For standing records, the [custody and opening rules](../core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) apply that floor specifically: a request is distinct from verification; the record-opening authority is distinct from the custodian; and the contest seat hears a challenge. A challenge received on a record is logged and routed before any forum filing is required.
+For standing records, the [custody and opening rules](../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) apply that floor specifically: a request is distinct from verification; the record-opening authority is distinct from the custodian; and the contest seat hears a challenge. A challenge received on a record is logged and routed before any forum filing is required.
 
 ### Version, correction, preservation, and continuity
 

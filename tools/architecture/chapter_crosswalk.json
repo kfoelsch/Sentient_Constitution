@@ -3239,7 +3239,7 @@
       "machine_id": "CF-14420.2.5",
       "display_id": "CF-14.420 \u00a72.5",
       "old_anchor": "cf-625-appeal-outcomes-remedies-and-reviewable-records",
-      "new_anchor": "cf-14420-25-appeal-outcomes-remedies-and-reviewable-records",
+      "new_anchor": "cf-14420-25-appeal-outcomes-remedies-and-reviewable-forum-case-records",
       "header": "CF-6.2.5 Appeal Outcomes, Remedies, and Reviewable Records"
     },
     {
@@ -7806,7 +7806,7 @@
         "machine_id": "CF-14420.2.5",
         "display_id": "CF-14.420 \u00a72.5",
         "old_anchor": "cf-625-appeal-outcomes-remedies-and-reviewable-records",
-        "new_anchor": "cf-14420-25-appeal-outcomes-remedies-and-reviewable-records"
+        "new_anchor": "cf-14420-25-appeal-outcomes-remedies-and-reviewable-forum-case-records"
       }
     ],
     "CF-6.2.6": [
@@ -11754,7 +11754,7 @@
         },
         {
           "old_anchor": "cf-625-appeal-outcomes-remedies-and-reviewable-records",
-          "new_anchor": "cf-14420-25-appeal-outcomes-remedies-and-reviewable-records"
+          "new_anchor": "cf-14420-25-appeal-outcomes-remedies-and-reviewable-forum-case-records"
         },
         {
           "old_anchor": "cf-626-non-compliant-patterns",

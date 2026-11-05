@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Fourteen**: forum families, default venue and primary-stakes routing, forensic support, intake triage, and jurisdiction for disputes under the standing pipeline and Rights Floor. Forums **supervise** dispute handling under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, scaled to [material stake](core_00.000_preamble.md#material-stake). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge** — under [Chapter Eleven §4](core_11.000_standing_assessment.md#4-standing-record-operational-requirements); a filed case is not standing by itself, and forum narrative must not substitute for Chapter Eleven standing measurement ([Chapter Eleven §4.6](core_11.000_standing_assessment.md#46-forum-boundary)). Use [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) for pipeline navigation. Operational forum mechanics remain in designated implementation files. Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Fourteen**: forum families, default venue and primary-stakes routing, forensic support, intake triage, and jurisdiction for disputes under the standing pipeline and Rights Floor. Forums **supervise** dispute handling under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, scaled to [material stake](core_00.000_preamble.md#material-stake). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge** — under [Chapter Eleven §4](core_11.000_standing_assessment.md#4-standing-record-operational-requirements); a filed case is not standing by itself, and forum narrative must not substitute for Chapter Eleven standing measurement ([Chapter Eleven §2.7](core_11.000_standing_assessment.md#27-forum-boundary)). Use [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) for pipeline navigation. Operational forum mechanics remain in designated implementation files. Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -13,7 +13,7 @@
 > Where this lives (navigation):
 > - **Constitutional owner:** **section 1** (*purpose* — **primary adjudicative application** of norms this chapter allocates, **as distinct from** routine **executive administration**; **Dispute sequencing** for ordinary disputes inside already-authorized systems; **accountability** requirements; **published**, **predictable** **threshold** placement); **default starting venue**, **primary-stakes** routing, **intake triage body** (**first-touch desk**), mixed stakes, asymmetry, standing-record contests, **good-faith characterization and anti-gaming**, and **sentient-accessible** **threshold** **access** expectations (**section 2**, **read with** **`corpus_forum.md`**); **transfer**, **consolidation**, and **coordination** (**section 3**, read with **section 5** certification and backup); **forum family definitions**, **internal chambers**, **shared standards**, and **provisional operational law** (sentient, technical, institutional, environment, integrity, constitutional — **section** **4**, mirroring **section** **2**’s **table**); **escalation**, **certification**, and **interim protection** (**section 5**); **timely resolution** and **anti-delay** discipline (**section 6**); **forum support** before, during, and after review (**section 7**), implemented so triage and support roles **do not** substitute for **lawfully constituted merits panels**; **anti-self-judging** backup routing; and escalation hooks tied to **Chapter Eleven**, **Chapter Thirteen**, and **Chapter Six** justice and challenge rights.
 > - **Pipeline navigation:** [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) — [§§1–7](#1-purpose-and-role--participation-architecture) in this file.
-> - **Chapters Eleven–Twelve three-question pipeline:** Chapter Eleven **sections 2–4** answer Question 1 (*what happened?*) through verified, axis-pure records. [Chapter Eleven §5](core_11.000_standing_assessment.md#5-standing-measurement-evaluation-dimensions) and the [Chapter Eleven §8 unified proportional LEQU scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) answer Question 2 (*how good or bad was it?*) through evaluation dimensions, shared five-times LEQU bands, and the shared **s** = 1...9 grammar while preserving separate Contribution and Violation records. [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) answers Question 3 (*what happens because of it?*) through remedies, safeguards, competency bars and clearances, and standing locks. The Violation Axis slot is controlled only by verified impact; negligence, concealment, coercion, response, and comparable character descriptors do not move it. [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation to a Chapter Eleven slot 7, 8, or 9 record but does not assign the numeric slot.
+> - **Chapters Eleven–Twelve three-question pipeline:** Chapter Eleven **sections 2–4** answer Question 1 (*what happened?*) through verified, axis-pure records. [Chapter Eleven §6](core_11.000_standing_assessment.md#6-standing-measurement-evaluation-dimensions) and the [Chapter Eleven §9 unified proportional LEQU scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) answer Question 2 (*how good or bad was it?*) through evaluation dimensions, shared five-times LEQU bands, and the shared **s** = 1...9 grammar while preserving separate Contribution and Violation records. [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) answers Question 3 (*what happens because of it?*) through remedies, safeguards, competency bars and clearances, and standing locks. The Violation Axis slot is controlled only by verified impact; negligence, concealment, coercion, response, and comparable character descriptors do not move it. [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) may add the corresponding anti-constitutional-misconduct designation to a Chapter Eleven slot 7, 8, or 9 record but does not assign the numeric slot.
 > - **Forums (non-operative gloss):** **Forum families** under this chapter are the primary **forums** that apply [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) classifications to concrete disputes — including matters where separately recorded **contribution nature**, **Violation Axis impact slot**, and process / response character **co-present** and must be handled under **Chapter Eleven** joint-assessment and non-substitution discipline. **Research funding**, **financing**, and **incentive** mechanisms outside adjudication remain in adopted implementation and **[corpus_systems.md](corpus_systems.md)** (see **Chapter Eleven** reader guidance); they may support prevention and root-cause inquiry and **must not** substitute for **threshold** routing, **merits** determination, authoritative Chapter Eleven numeric slot assignment, any corresponding **Chapter Thirteen** designation, or **Article XX** (*Justice After Verified Violation*) constraints. **Sections 1 and 2** allocate **primary** responsibility for **incentive** structures **primarily** **within** each **family’s** **sphere** (granular detail in **corpus** and implementation); that **allocation** **does** **not** relocate **system-wide** **budget** or **governance-scale** choices reserved to [Chapter Fifteen](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) and **[corpus_systems.md](corpus_systems.md)**.
 > - **Implementation owner:** published intake **classes**, day-to-day docket rules, staffing, budgets, granular procedure, operational escalation mechanics, and forum-support operational requirements live in adopted implementation text and in **[corpus_forum.md](corpus_forum.md)** (**CF-14.415** (*Routing operations, transfer, questions for ruling, and representative treatment*), **CF-14.430** (*Forum forensic and analytical support*), **CF-14.435** (*Independent investigative service and prosecution interface*), and related sections).
 > - **Anti-relocation rule:** adopting documents must not satisfy this chapter through procedures that collapse distinct forum functions, strip **independence** or **real review**, or route integrity challenges back to the same captured forum this chapter forbids as the sole final merits home.
@@ -27,9 +27,9 @@
 
 - Upstream:
   - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*Question 1 records and Question 2 measurement that supply disputes this chapter routes*);
-  - [Chapter Eleven §6.1](core_11.000_standing_assessment.md#6-slot-grammar-and-display-labels) (11.000 §6.1) (*standing-slot grammar*);
-  - [Chapter Eleven §8 unified scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8) (*shared five-times LEQU bands and separate axis records*);
-  - [Chapter Eleven §§5.3–5.4](core_11.000_standing_assessment.md#53-route-descriptor-measurement-roles) (11.000 §5.3) (*cross-axis normalized descriptor catalog, including Contribution Axis and Violation Axis descriptors that do not move slots*);
+  - [Chapter Eleven §7.1](core_11.000_standing_assessment.md#7-slot-grammar-and-display-labels) (11.000 §7.1) (*standing-slot grammar*);
+  - [Chapter Eleven §9 unified scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §9) (*shared five-times LEQU bands and separate axis records*);
+  - [Chapter Eleven §§6.3–6.4](core_11.000_standing_assessment.md#63-route-descriptor-measurement-roles) (11.000 §6.3) (*cross-axis normalized descriptor catalog, including Contribution Axis and Violation Axis descriptors that do not move slots*);
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) (*corresponding anti-constitutional-misconduct designation for qualifying Chapter Eleven slots 7–9*);
   - [Chapters Two through Four](core_02.000_definition_structure.md) (*record, verification, and tracing expectations*);
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) (*foundational definitions*);
@@ -46,7 +46,7 @@
   - [§7](#7-forum-support-before-during-and-after-review--oversight-architecture).
 - Read with: [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together).
 - Downstream: [CF-14.405](corpus_forum/cf_14.405_forum_formation_chamber_structure.md#cf-14405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*), [CF-14.415](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*), and [CF-14.420](corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md#cf-14420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) for operational forum doctrine; [Chapter Fifteen](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (15.000) where governance legitimacy interacts with adjudication role; [Chapter Nineteen](core_19.000_incorporation.md#chapter-nineteen-incorporation-bridge) (19.000) (*incorporation discipline* for adopted procedure layers).
-- Read with: [Chapter Eleven §6.1](core_11.000_standing_assessment.md#6-slot-grammar-and-display-labels) (11.000 §6.1) (*standing-slot grammar*); [Chapter Eleven §§5.3–5.4](core_11.000_standing_assessment.md#53-route-descriptor-measurement-roles) (11.000 §5.3) (*cross-axis normalized Contribution Axis and Violation Axis descriptors*).
+- Read with: [Chapter Eleven §7.1](core_11.000_standing_assessment.md#7-slot-grammar-and-display-labels) (11.000 §7.1) (*standing-slot grammar*); [Chapter Eleven §§6.3–6.4](core_11.000_standing_assessment.md#63-route-descriptor-measurement-roles) (11.000 §6.3) (*cross-axis normalized Contribution Axis and Violation Axis descriptors*).
 - Read also with: [Chapter Twelve §3 Descriptor integration and attachment normalization](core_12.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (12.000 §3), together with its section 2 routing by primary stakes; [README.md](README.md) (*reading order and how the corpus is organized*); [doc_architecture.md](doc_architecture.md) (*editorial maps that do not bind unless adopted*).
 
 </details>
@@ -103,7 +103,7 @@ This chapter states which **forum families** **supervise** which primary questio
 
 1. **Standing pipeline** (Chapters Eleven–Thirteen, applying Chapters One through Six and designated corpus implementation norms in disputes)
    - Primary-stakes routing, merits review where assigned, transfer, consolidation, and certification coordination, and remediation sequencing for standing-related disputes.
-   - **Chapter Eleven** Contribution and Violation records measured on the §7 (*Forum support before, during, and after review — oversight architecture*) unified proportional LEQU scale, character descriptors, and standing effect — standing findings may **open, update, or correct** standing records — or **set a bad record aside on challenge** — under [Chapter Eleven §4 Verification and record requirements](core_11.000_standing_assessment.md#4-standing-record-operational-requirements) when they satisfy the verified-input gate; a filed case is not standing by itself, and forum narrative must not substitute for Chapter Eleven standing measurement ([Chapter Eleven §4.6 Forum boundary](core_11.000_standing_assessment.md#46-forum-boundary)).
+   - **Chapter Eleven** Contribution and Violation records measured on the §7 (*Forum support before, during, and after review — oversight architecture*) unified proportional LEQU scale, character descriptors, and standing effect — standing findings may **open, update, or correct** standing records — or **set a bad record aside on challenge** — under [Chapter Eleven §4 Verification and record requirements](core_11.000_standing_assessment.md#4-standing-record-operational-requirements) when they satisfy the verified-input gate; a filed case is not standing by itself, and forum narrative must not substitute for Chapter Eleven standing measurement ([Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary)).
    - **Chapter Twelve** standing effects and integration where this chapter assigns forum supervision of remedy and sequencing.
    - **Chapter Thirteen** anti-constitutional-misconduct designation where that designation is at issue for a Chapter Eleven slot 7–9 record.
    - Application of **Chapters One through Six** and designated [corpus](core_05.045_band_integrative.md#corpus) implementation layers as the norms those disputes apply.
@@ -189,9 +189,9 @@ Institutional contest, secondary review, and integrity monitoring in the institu
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, and **timeliness** legs;
   - [material stake](core_00.000_preamble.md#material-stake) scaling for primary-stakes routing;
-  - [Chapter Eleven §6.1](core_11.000_standing_assessment.md#6-slot-grammar-and-display-labels) (11.000 §6.1) (*standing-slot grammar*);
-  - [Chapter Eleven §8 unified scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8) (*shared five-times LEQU bands and separate axis records*);
-  - [Chapter Eleven §§5.3–5.4](core_11.000_standing_assessment.md#53-route-descriptor-measurement-roles) (11.000 §5.3) (*cross-axis normalized descriptors informing primary stake without moving the impact slot*);
+  - [Chapter Eleven §7.1](core_11.000_standing_assessment.md#7-slot-grammar-and-display-labels) (11.000 §7.1) (*standing-slot grammar*);
+  - [Chapter Eleven §9 unified scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §9) (*shared five-times LEQU bands and separate axis records*);
+  - [Chapter Eleven §§6.3–6.4](core_11.000_standing_assessment.md#63-route-descriptor-measurement-roles) (11.000 §6.3) (*cross-axis normalized descriptors informing primary stake without moving the impact slot*);
   - **[CF-14.415](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing operations, transfer, questions for ruling, and representative treatment*) and
   - **CF-14.425 §2** (*Constitutional alignment certification and review*);
   - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
@@ -276,7 +276,7 @@ These rules limit how the table's default leads interact. They do not replace **
 
 #### 2.2 Mixed stakes and routing asymmetry
 
-One record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting documents provide, consistent with **Article XIII-A** (*Reliability and Trustworthiness Baseline*), **Article XIII-B** (*Right to Redress and Remedy*), and **Chapter Eleven** joint-assessment and non-substitution discipline.
+One Forum Case Record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting documents provide, consistent with **Article XIII-A** (*Reliability and Trustworthiness Baseline*), **Article XIII-B** (*Right to Redress and Remedy*), and **Chapter Eleven** joint-assessment and non-substitution discipline.
 
 **Asymmetry:**
 - Where **dependency**, **measurement**, or an **institutional** **monopoly** on a **necessary** **input** materially disadvantages a **sentient** party, **Institutional** or **Integrity** routing **must** be **available** when the table assigns **institutional** or **integrity** stakes.
@@ -287,9 +287,9 @@ One record and one lead family ordinarily hear interdependent claims. Secondary 
 
 #### 2.3 Forum case records, standing records, and contests
 
-This subsection sets out the records a forum keeps and how they may be contested:
+This subsection sets out the Forum Case Records and standing records a forum keeps and how they may be contested:
 
-- A forum keeps a [**forum case record**](core_05.035_band_accountability.md#forum-case-record) for the dispute before it. That record tracks:
+- A forum keeps a [**forum case record**](core_05.035_band_accountability.md#forum-case-record) for the dispute before it. That Forum Case Record tracks:
   - the claims;
   - evidence;
   - routing choices;
@@ -297,7 +297,7 @@ This subsection sets out the records a forum keeps and how they may be contested
   - questions for ruling; and
   - final findings in that case.
 - It is **not** the same thing as the **standing records** required by [Chapter Eleven](core_11.000_standing_assessment.md#2-question-1--what-happened) (see [Standing Record](core_05.035_band_accountability.md#standing-record)).
-- A forum decision may become part of a Chapter Eleven **contribution standing record** or **violation standing record** only when it produces a verified contribution record, verified violation finding, **System or Institutional Certification Record**, or other finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and any required review safeguards.
+- A forum decision may become part of a Chapter Eleven **contribution standing record** or **violation standing record** only when it produces a verified contribution record, verified violation finding, **System or Institutional Certification Record**, or other finding that is bounded, traceable, contestable, and verified under Chapters Two through Four and any required review safeguards ([Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary) owns how verified findings enter standing records).
 - None of the following by itself changes anyone's standing, role eligibility, trust status, recognition, or final standing effect:
   - filing a case;
   - assigning it to a forum family;
@@ -314,9 +314,9 @@ This subsection sets out the records a forum keeps and how they may be contested
 - Review of a forum family's own alleged bias or process abuse follows the cross-forum anti-self-judging rule in [§3 Transfer, consolidation, and coordination — continuity and anti-capture](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).
 
 **Contests of standing records:**
-- A challenge raised on a record before any filing — to the custodian, the record-opening authority, or any office of the institution — is logged on the record, set *under challenge*, and routed by the custodian under [Chapter Eleven §4.7](core_11.000_standing_assessment.md#47-challenge-received-on-the-record) (*Challenge received on the record*); the tier windows under **§6** (*Timely resolution, materiality tiers, and anti-delay discipline*) run from that receipt, and the **forum case record** opens when the contest reaches a forum.
-- Where the record-opening authority was a Backup Record Authority under **CF-14.415 §7** (*Backup Record Authority*), a contest of that record goes to a forum with jurisdiction and never back to that authority. The Backup Record Authority sits outside the intake triage body and is not a merits panel.
-- A sentient, institution, system, community, or other affected subject may ask a forum with jurisdiction to review a **contribution standing record** or **violation standing record** when they claim the record is:
+- A challenge raised on a standing record before any filing — to the custodian, the record-opening authority, or any office of the institution — is logged on the standing record, set *under challenge*, and routed by the custodian under [Chapter Eleven §5.12](core_11.000_standing_assessment.md#512-challenge-received-on-the-standing-record) (*Challenge received on the standing record*); the tier windows under **§6** (*Timely resolution, materiality tiers, and anti-delay discipline*) run from that receipt, and the **forum case record** opens when the contest reaches a forum.
+- Where the record-opening authority was a Backup Record Authority under **CF-14.415 §7** (*Backup Record Authority*), a contest of that standing record goes to a forum with jurisdiction and never back to that authority. The Backup Record Authority sits outside the intake triage body and is not a merits panel.
+- A sentient, institution, system, community, or other affected subject may ask a forum with jurisdiction to review a **contribution standing record** or **violation standing record** when they claim the standing record is:
   - wrong;
   - incomplete;
   - stale;
@@ -326,10 +326,10 @@ This subsection sets out the records a forum keeps and how they may be contested
   - missing a required cross-reference; or
   - being used for a purpose it does not cover.
 - The forum's job is to review the challenged record and the way it is being used. It may:
-  - confirm the record;
+  - confirm the standing record;
   - require correction;
   - order a new version;
-  - limit or pause reliance on the record;
+  - limit or pause reliance on the standing record;
   - send an underlying issue to the right forum; or
   - send a constitutional question for ruling.
 - The forum must **not** turn a standing-record contest into a general reputation trial or merge contribution and violation review into one undifferentiated merits hearing when the challenge targets only one axis-pure record.
@@ -361,7 +361,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 *In plain terms: when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.*
 
 **Scope expansion and representative treatment.** When one sentient files a case, the forum **may** widen the proceeding to cover an affected **class**, **subclass**, or other group in the same situation.
-- Expansion is available when the record shows any of the following:
+- Expansion is available when the Forum Case Record shows any of the following:
   - a shared injury that matters;
   - the same unlawful practice;
   - the same decision rule;
@@ -407,7 +407,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 <a id="capacity-failure-routing"></a>
 **Capacity failure is heard outside the starved body.** A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped [Chapter Twelve §4.4 Remedy parity and lock preconditions](core_12.000_standing_integration.md#44-remedy-parity-and-lock-preconditions) remedy-parity tripwire — is an anti-self-judging matter. The body whose capacity is in question must not be the sole finder of fact on its own capacity.
 - The **Integrity** family is the default lead for capacity-failure claims, with the **section 3** backup pairs applying where Integrity is itself the body in question.
-- Any affected party, protected reporter, or self-organized group under [Chapter One §17.4 Aligned Self-Organization](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B window under **section 6** unless the record shows Tier A stakes.
+- Any affected party, protected reporter, or self-organized group under [Chapter One §17.4 Aligned Self-Organization](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B window under **section 6** unless the Forum Case Record shows Tier A stakes.
 - The body in question must supply its published [Chapter Twelve §4.4 Remedy parity and lock preconditions](core_12.000_standing_integration.md#44-remedy-parity-and-lock-preconditions) and **section 6** backlog figures, and may give evidence, but must not control the capacity-failure finding or the corrective order.
 - A capacity-failure finding is a [Chapter Twelve §9.2 Remedy-system durability](core_12.000_standing_integration.md#92-remedy-system-durability) durability failure. It routes corrective orders to the [primary-stakes](#2-default-venue-and-primary-stakes) family responsible for staffing and funding and, where the pattern is chronic or concealed, opens the ordinary Chapter Eleven path.
 
@@ -472,7 +472,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - comparable community self-governance records where the matter remains primarily interpersonal, community-restorative, or locally normative.
 
 **Community governance boundary.** Community governance bodies themselves are not a separate **forum family** under this chapter.
-- Their records, recommendations, delegated decisions, or omissions become matters for **Sentient Forums** only where the **primary** stake fits this subsection, under [Dispute sequencing](#dispute-sequencing).
+- Their official records, recommendations, delegated decisions, or omissions become matters for **Sentient Forums** only where the **primary** stake fits this subsection, under [Dispute sequencing](#dispute-sequencing).
 
 <a id="42-technical-forum-domains"></a>
 
@@ -606,7 +606,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 
 **Alignment rulings.** Where necessary to resolve a matter within this family's jurisdiction, **Integrity Forums** may issue **alignment rulings** that:
 - diagnose interlocking **misalignment** among processes, systems, institutions, or contest pathways — including dependencies, choke-points, concealment or capture risk, and remedial sequencing;
-- state binding integrity findings on those points on the record before that forum.
+- state binding integrity findings on those points on the Forum Case Record before that forum.
 
 **Constitutional alignment certification and validation.** **Integrity Forums** are the default official forum for certifying whether a new materially impactful system is constitutionally aligned enough to operate within its claimed scope, and for periodically validating whether existing systems remain aligned as their behavior, scale, dependency, incentives, or risk profile changes. They hold the same role for an Institution under [Chapter Ten](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification), where the forum body itself is an Institution and the anti-self-judging rules of **section 3** apply to it ([Chapter Ten §6.3 Forums, certifiers, and record offices as institutions](core_10.000_institutional_alignment_certification.md#63-forums-certifiers-and-record-offices-as-institutions)).
 - They apply technical-forum specifications, methods, and expert evidence where material, but their judgment also includes constitutional, institutional, ecological, rights, anti-capture, and remediation considerations.
@@ -691,7 +691,7 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
   - [§3](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*default venue, intake, transfer, mixed stakes, and anti-self-judging backups*);
   - [§4.6](#46-constitutional-forums) and
   - [§4.7](#47-provisional-implementation-operational-law) (*provisional-law disposition and issuance*);
-  - [Chapter Eleven §8 unified scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8) (*numeric impact-slot assignment*);
+  - [Chapter Eleven §9 unified scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §9) (*numeric impact-slot assignment*);
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*);
   - [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) (*Safety and Truth hooks in constitutional questions for ruling*).
 - Downstream: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*contestable forum support for escalation and questions for ruling*); [Chapter Nineteen](core_19.000_incorporation.md) (19.000) (*implementation routing for **Article VI-B** (*Sentience-Status Adjudication Floor*) implementation design*).
@@ -733,12 +733,12 @@ A case may move from one forum family to another only when the receiving family 
   - a **validity** question for ruling; or
   - a **conflict** among **lower** **panels** on a **constitutional** **point**.
 
-#### Existential risk and uncertainty on the record
+#### Existential risk and uncertainty on the Forum Case Record
 
-This subsection sets out how forums handle existential risk and uncertainty on the record:
+This subsection sets out how forums handle existential risk and uncertainty on the Forum Case Record:
 
 - **Existential-risk handling:** Where a matter materially presents a credible claim of **Existential Risk**, survival-critical collapse, or irreversible loss of **Ecological Recovery Capacity**, the designated lead family under **primary-stakes** routing remains the merits forum **unless** another rule in this chapter requires **transfer**, **certification**, or **backup** activation. Existential-risk significance does **not** create a separate forum family.
-- **Reasoned uncertainty treatment:** A forum must **not** reject an existential-risk claim solely because probability is hard to quantify. It must assess whether the causal pathway is credible under adversarial, aggregated, dependency-sensitive, or threshold conditions. It must state the uncertainty and evidentiary limits on the record.
+- **Reasoned uncertainty treatment:** A forum must **not** reject an existential-risk claim solely because probability is hard to quantify. It must assess whether the causal pathway is credible under adversarial, aggregated, dependency-sensitive, or threshold conditions. It must state the uncertainty and evidentiary limits on the Forum Case Record.
 
 #### Sending questions to **Constitutional** forums for ruling
 
@@ -813,7 +813,7 @@ This subsection sets out the [Interim Hold](core_05.035_band_accountability.md#i
   - restraint on exercising the named authority.
 - **Duration:** A hold lapses at the outer bound of the tier window in [§6 Timely resolution, materiality tiers, and anti-delay discipline](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) for the merits matter it supports, counted from the day the hold issues. This subsection adds no second clock table. For a matter at the Emergency setting the bound is the Tier A outer bound (7 days), not the 3-day protective bound. The hold may be extended once, only on the continuation burden in [§6.1 Emergency measures and continuation burden](#61-emergency-measures-and-continuation-burden). It ends earlier when the facts are cleared, when a narrower safeguard is in place, or when the merits matter is decided. If no merits matter is opened inside the bound, the hold lapses with no violation finding.
 - **Contest and review:** The sentient sees the Interim Hold grounds and the facts, may answer them, and may contest the hold. A forum outside the subject's control line and outside the issuing panel begins review inside the **prompt-review window** of [§6 Timely resolution, materiality tiers, and anti-delay discipline](#prompt-review) (*Prompt review*) and decides it before the hold lapses.
-- **No violation finding, no standing effect:** A hold is not evidence that the allegation is true and supports no adverse inference. It is not a [Standing Record](core_05.035_band_accountability.md#standing-record), a Chapter Eleven input, or a Chapter Thirteen designation, and only the merits process verifies the facts ([Chapter Eleven §4.6 Forum boundary](core_11.000_standing_assessment.md#46-forum-boundary)).
+- **No violation finding, no standing effect:** A hold is not evidence that the allegation is true and supports no adverse inference. It is not a [Standing Record](core_05.035_band_accountability.md#standing-record), a Chapter Eleven input, or a Chapter Thirteen designation, and only the merits process verifies the facts ([Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary)).
 - **No re-issue:** After a hold lapses or ends, no new hold issues on the same or substantially the same facts without new verified facts.
 - **Lock and time:** A hold is never converted into a standing lock. If the merits process verifies a violation finding, the lock rules apply from the finding, and time spent under a hold on the same named pathway counts toward the lock's time bound as [Chapter Twelve §5.6 Interim holds and locks](core_12.000_standing_integration.md#56-interim-holds-and-locks) provides.
 - **If the hold was wrong:** A hold that lapses without a violation finding, or is set aside, is recorded as such. No adverse inference follows. The sentient is entitled to [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) for loss during the hold, and a pattern of wrongful holds opens **Integrity** review.
@@ -893,7 +893,7 @@ This subsection sets out how sentience-status claims are routed:
   - the sole witness; or
   - the sole source of indicator evidence.
 
-  A narrowing request supported only by parent-system evidence is not open for merits until independent indicator evidence is on the record.
+  A narrowing request supported only by parent-system evidence is not open for merits until independent indicator evidence is on the Forum Case Record.
 - **Inclusion is a shield for the entity, not the operator:** Contested-Sentient or affirmed status protects the entity's Chapter Six Rights Floor. It does not:
   - protect the operator's property or commercial interest in the deployment;
   - exempt the deployment from system-level containment, halt, or quarantine under **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) and **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights; or
@@ -923,7 +923,7 @@ This subsection distinguishes referral from scope expansion:
 
 This subsection sets out how Chapter Thirteen designation relates to independent review:
 
-- The numeric **Violation Axis** slot still comes only from verified impact on the **Chapter Eleven §8** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale. **Chapter Thirteen** may attach the matching anti-constitutional-misconduct label to a final Chapter Eleven slot **7**, **8**, or **9** record — it does **not** pick or change that number. Forum families must give independent review and due process under **Chapter Thirteen**, **section 4**, and **Article XX** (*Justice After Verified Violation*).
+- The numeric **Violation Axis** slot still comes only from verified impact on the **Chapter Eleven §9** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale. **Chapter Thirteen** may attach the matching anti-constitutional-misconduct label to a final Chapter Eleven slot **7**, **8**, or **9** record — it does **not** pick or change that number. Forum families must give independent review and due process under **Chapter Thirteen**, **section 4**, and **Article XX** (*Justice After Verified Violation*).
 - When a **Chapter Thirteen** designation is the main fight, **section 2** names the default lead family. **Sections 2, 3, and 5** still control transfer, consolidation, certification, backup routing, and anti-self-judging activation. None of that lets Chapter Thirteen or a forum assign or move the numeric slot.
 
 <a id="6-timely-resolution-materiality-tiers-and-anti-delay-discipline"></a>
@@ -1029,7 +1029,7 @@ This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Fl
   1. forum access and intake;
   2. evidence preservation;
   3. **Question 1** standing finding and **standing record** opening under **Chapter Eleven sections 2–3**;
-  4. **Question 2** measurement under **Chapter Eleven §5** (*Question 2 — how good or bad was it?*);
+  4. **Question 2** measurement under **Chapter Eleven §6** (*Question 2 — how good or bad was it?*);
   5. **Question 3** integration under **Chapter Twelve**;
   6. remedy commencement under **Article XX-B** (*Restriction Floors*) and applicable redress rules.
 - **Overrun review:** If a matter blows past its tier window without a written, tier-appropriate extension, escalation, or interim relief, that overrun must be reviewed. It is non-compliant when the delay foreseeably lets ongoing harm continue or makes redress useless. Where the overrun has no independent extension, interim protection continues without a new order, and the claimant may move the matter to the backup forum under [Backup routing under the anti-self-judging rule](#backup-routing-under-the-anti-self-judging-rule).
@@ -1049,7 +1049,7 @@ This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Fl
   - **Audit midpoint:** a financial, resource, or special audit, enforced by the forum, falls halfway through the interval after the last certification pass. The audit must be completed no later than that midpoint: 45 days for Class A, 3 months for Class B, 6 months for Class C, 1 year for Class L, and 18 months for Class P. A body may bring the audit earlier under the next item, and never later.
   - **Audit advance allowance:** a system or Institution may move its audit date earlier for its own convenience, by up to a quarter of the certification interval before the midpoint: 22 days for Class A, 45 days for Class B, 3 months for Class C, 6 months for Class L, and 9 months for Class P. A shift needs a published notice with reasons, given to the forum before the audit would otherwise have been due. A shift moves the audit earlier and nothing else: the audit still happens in that cycle, it is never moved later than the midpoint, and the certification dates do not move. A shift covers one cycle, so the next audit returns to the midpoint, and a body may use a shift in at most one cycle out of every three. It is not available while a reopened or fresh review is open, or while a finding from an earlier audit is unremedied.
   - **Counting months and years:** a period counted in months or years ends on the same day of the month as it began. If that month has no such day (for example 29 February, or the 31st in a 30-day month), it ends on the last day of that month.
-  - **Provisional interval:** a system or Institution holding provisional certification runs on a shorter interval, which the forum sets and the record states. Its audit still falls at the midpoint of the interval in force.
+  - **Provisional interval:** a system or Institution holding provisional certification runs on a shorter interval, which the forum sets and the Forum Case Record states. Its audit still falls at the midpoint of the interval in force.
   - **Class P:** the cadence applies to a Class P body only where it publishes a System Charter or Institutional Charter.
   - **Floors, not ceilings:** an adopted document may set shorter intervals and never longer ones. Reopening for cause under [Chapter Nine Part C §9.2](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers) is unaffected, and the next certification and audit dates run from the latest completed certification pass.
   - **Where results go:** audit results go to the forum that enforces them and to the Integrity registrar under [CF-14.415 §6 Integrity registrar](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-6-integrity-registrar).
@@ -1057,7 +1057,7 @@ This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Fl
   - designed backlog, chronic underfunding, or inaccessible intake that defeats **Article XIII-B** (*Right to Redress and Remedy*) practical access;
   - delay regimes designed to exhaust claimants;
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
-  - treating allegations as verified standing inputs to buy time ([Chapter Eleven §3.1 Verified-input gate](core_11.000_standing_assessment.md#verified-inputs-for-standing));
+  - treating allegations as verified standing inputs to buy time ([Chapter Eleven §2.5 Verified-input gate](core_11.000_standing_assessment.md#25-verified-input-gate));
   - treating restricted-evidence status, or a dispute about access to restricted information, as a reason for a slower column, a longer window, or a continuation (restricted evidence does not slow the clock; see [CF-14.445 §3.3](corpus_forum/cf_14.445_performance_backlog_publication_accessibility.md#cf-14445-33-restricted-evidence-timing) (*Restricted-evidence timing*));
   - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
   - treating a met throughput, closure, or docket target as timely resolution while the harm the matter concerns continues;

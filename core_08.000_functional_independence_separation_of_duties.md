@@ -8,7 +8,7 @@
 > - **Constitutional owner:** the separation-of-duties requirement for materially binding acts, met through distinct seats; the universal minimum contents of each [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_05.035_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; and the minimum independence conditions that every later constitutional process must apply.
 > - **Principle-layer source:** [Chapter One §18.3](core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
 > - **Implementation owner:** [CJS-5.125 §11](corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Constitutional lane and functional separation*), [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), and [CI-15.205 §6](corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
-> - **Process-specific application remains downstream:** Chapter Nine applies this requirement to system alignment certification and to institutional alignment certification; [Chapter Eleven §4.7](core_11.000_standing_assessment.md#47-separation-of-duties) applies it to standing records; Chapter Fourteen and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
+> - **Process-specific application remains downstream:** Chapter Nine applies this requirement to system alignment certification and to institutional alignment certification; [Chapter Eleven §5.1](core_11.000_standing_assessment.md#51-separation-of-duties) applies it to standing records; Chapter Fourteen and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
 >
 > Reading order: §1 purpose and scope → §2 Four-Seat Requirement → §3 independence and conflicts → §4 wrong-seat routing → §5 published placement, substitutes, and delegation → §6 proportional scaling → §7 emergencies → §8 Act Records and handoffs → §9 downstream application.
 
@@ -78,7 +78,7 @@ This chapter applies to every [Materially Binding Act](core_05.035_band_accounta
 - a decision;
 - an authorization or certification;
 - a finding;
-- a record entry or material version change;
+- an official record entry or material version change;
 - a release, deployment, continuation, or withdrawal;
 - a disbursement or allocation; and
 - a disposition of a challenge.
@@ -110,8 +110,8 @@ These examples do not show that any one system is flawless. They show that the i
 
 This subsection explains the reasons for the number four. It is non-operative: the seats and their rules are in [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement).
 
-- **Two is too few:** A maker-and-checker pair stops one party from approving its own act. It leaves no one to keep the official record or hear a complaint, so whoever holds the record can quietly change what happened, and the pair ends up judging complaints about its own work.
-- **Three powers fit government, not every act:** Making, carrying out, and judging suit a government. A single act also needs a record that outlives it and a route for challenge that does not run through the actor or the approver.
+- **Two is too few:** A maker-and-checker pair stops one party from approving its own act. It leaves no one to keep the official record or hear a complaint, so whoever holds the official record can quietly change what happened, and the pair ends up judging complaints about its own work.
+- **Three powers fit government, not every act:** Making, carrying out, and judging suit a government. A single act also needs an official record that outlives it and a route for challenge that does not run through the actor or the approver.
 - **Four matches the points of failure:** One seat starts the act, one checks and authorizes it, one keeps the official record, and one hears challenges. This echoes the divisions in accounting between authorizing, recording, and reviewing.
 - **Automation makes the gap easy to open:** One system can act, sign off, and log its own work in a single step, and its log then looks like proof. [§2 Four-Seat Constitutional Requirement](#2-four-seat-constitutional-requirement) treats that as holding three seats at once.
 - **Small adopters can still comply:** [§6 Proportional Scaling and Merged Hosting](#6-proportional-scaling-and-merged-hosting) lets a small adopter place a seat with an independent body or, on conditions, put two seats in one office. The verify-or-authorize seat is never merged with the record seat or the contest seat.
@@ -212,7 +212,7 @@ The separation-of-duties requirement applies at every class, and the four seats 
 - Class B scope, full four-seat separation should almost always be required; and
 - Class A scope, full four-seat separation is always required.
 
-Where scope is mixed or classification is uncertain, apply the highest applicable posture until the record supports a lower one.
+Where scope is mixed or classification is uncertain, apply the highest applicable posture until the official record supports a lower one.
 
 <a id="3-independence-conflict-and-control-lines"></a>
 ### 3. Independence, Conflict, and Control Lines
@@ -234,7 +234,7 @@ Functional independence is judged by actual authority and control, not labels. O
 
 - the verify-or-authorize seat and contest seat must be outside the initiating seat's [Material Control Line](core_05.035_band_accountability.md#material-control-line);
 - a party whose own interest is determined by the act must not hold the verify-or-authorize or contest seat;
-- a conflicted record holder must pass that record, with its full audit trail, to the published substitute rather than decide the conflict or abandon custody; and
+- a conflicted record holder must pass that official record, with its full audit trail, to the published substitute rather than decide the conflict or abandon custody; and
 - recusal removes authority over the act; it does not transfer the seat to the requester, the requester's reporting line, or whoever is nearest.
 
 Trace the [Material Control Line](core_05.035_band_accountability.md#material-control-line) for the particular act. Shared infrastructure, administrative support, or appointment history does not alone establish the line, but those arrangements must not defeat independent judgment in practice.
@@ -269,7 +269,7 @@ Where routing is not automated, or fails, the duty below applies to the steward.
 1. decline that step without purporting to decide its merits;
 2. name the seat that may take it and, where published, the holder or substitute;
 3. log the request, the seat held, the gap or conflict, and the route used;
-4. preserve evidence and the integrity of any record already received; and
+4. preserve evidence and the integrity of any official record already received; and
 5. route without avoidable delay.
 
 That response is performance of duty, not abandonment of the act. The act proceeds through the right seat. Taking the step because the steward is nearest, fastest, senior, or uniquely knowledgeable is not a fix for a missing seat.
@@ -370,7 +370,7 @@ A holder may use staff or tools to help with the seat's work, such as gathering 
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Necessity](core_05.035_band_accountability.md#necessity);
   - [Proportionality](core_05.035_band_accountability.md#proportionality).
-- Downstream: [Chapter Eleven §4.7](core_11.000_standing_assessment.md#47-informal-and-small-scope-records) (11.000 §4.7); [CJS-19.110 §4](corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*).
+- Downstream: [Chapter Eleven §5.7](core_11.000_standing_assessment.md#57-informal-and-small-scope-records) (11.000 §5.7); [CJS-19.110 §4](corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*).
 - Read with: [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) and Chapter One [§3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -421,13 +421,13 @@ A business run by a single sentient or a few may place its verify-or-authorize, 
   - is explained in writing to a refused applicant; and
   - can be contested through the independent route outside the group, because deciding whether to admit an applicant is a materially binding act of the group (see *The group's own acts*, above).
 - **No trap:** A group's terms may not make the seat a cost the business cannot bear ([Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden)).
-- **Leaving:** A member that leaves takes its records with it. The group may not hold them back or make leaving depend on leaving them behind. The group:
+- **Leaving:** A member that leaves takes its official records with it. The group may not hold them back or make leaving depend on leaving them behind. The group:
   - gives the member a full export of its Act Records and the data in them, in a form the member or a new host can use ([CS-6.305 §1.2 Continuity-critical collection and exportability](corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)), and discloses up front any lawful limit on the export;
   - hands the record seat for those acts to the holder the member names, and stays the record seat holder until the member names one, so the Act Records stay reconstructable while a challenge, correction, or remedy is open ([§8 Act Records and Attributable Handoffs](#8-act-records-and-attributable-handoffs)); and
   - keeps only what its own duties still require, such as the Act Record of an act it hosted for another member or of an act still under challenge, and only for the retention period it disclosed ([CS-6.305 §1.3 Collection notice and deletion](corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion)).
 - **Data kept by the group:** What the group keeps is handled by data type under [CS-6.310 §9 Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-9-data-classifications):
   - **Identity and attribution data (Type I):** used only to verify who held each seat and who acted;
-  - **Participation and transaction data (Type H):** used only for the record, audit, and challenge duties of the act;
+  - **Participation and transaction data (Type H):** used only for the official record, audit, and challenge duties of the act;
   - **Governance source data (Type G):** open to audit and not public by default;
   - **Safety, security, and investigation material (Type S):** kept only for its time-bound review; and
   - **The member's own works (Type Y and Type W):** returned to the member, and deleted from the group's copies when the member directs.
@@ -540,7 +540,7 @@ The Act Record must identify, at a minimum:
 - every delegation, recusal, substitution, permitted merger, or emergency departure; and
 - the material evidence and record links, handoffs, refusals, conditions, unresolved objections, clocks, superseded versions, and corrections needed to reconstruct the act.
 
-A process may require more than this minimum, such as extra or stricter fields for its own kind of work. It may not leave out an item above, contradict one, or keep the record in a form that no longer lets the act be reconstructed.
+A process may require more than this minimum, such as extra or stricter fields for its own kind of work. It may not leave out an item above, contradict one, or keep the Act Record in a form that no longer lets the act be reconstructed.
 
 Lawful privacy, confidentiality, and security rules decide who may see protected material and how it is shared. They never justify erasing the official trail or making it unusable when an authorized reviewer needs it to check the act, challenge it, correct it, or seek a remedy.
 
@@ -573,7 +573,7 @@ Every later constitutional process must explain how it assigns and uses all four
 
 - Its own process record may serve as the Act Record or add process-specific details to it.
 - If one process record covers several materially binding acts, it may link to a separate Act Record for each act.
-- A separate duplicate record is not required when the official record path remains complete and traceable.
+- A separate duplicate Act Record is not required when the official record path remains complete and traceable.
 - Giving a process a different name does not exempt it from [§4 Wrong-Seat Routing](#4-wrong-seat-routing) or [§8 Act Records and Attributable Handoffs](#8-act-records-and-attributable-handoffs), including their handoff and wrong-seat rules.
 
 A later chapter may add stronger independence, recusal, separation, custody, panel, or review requirements because its process carries a higher or different risk. It may not narrow this chapter's requirements, and a seat that is unplaced does not pass to the actor under [§5.3 A seat the map leaves unplaced, or a holder who cannot serve](#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve).

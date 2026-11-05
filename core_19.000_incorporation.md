@@ -139,7 +139,7 @@ This section sets out how incorporated text is pinned to editions, held in custo
   - regression catalogs; and
   - evidence logs.
 
-  These records **do not**, by themselves, alter constitutional effect absent valid adoption.
+  These supporting records **do not**, by themselves, alter constitutional effect absent valid adoption.
 
     Accepted governance-control changes — including custody-chain hardening, edition lineage updates, and incorporation-discipline clarifications — must be recorded in a dated artifact under [evidence/](evidence/) (`evidence/<YYYY-MM-DD>/`). That artifact must link the edition identifier, the adoption chain, and the regression coverage (**`RS-XD-003`** and adjacent `RS-XD-*` seeds) that exercises the custody and anti-drift safeguards. The artifact is a **verification aid**; it does not itself constitute adoption.
 
@@ -178,7 +178,7 @@ This section sets out the safeguards that protect incorporated text:
   - “non-substantive refactor”; or
   - “editorial compression.”
 
-  The anti-evasion **rule** in **[Chapter Sixteen, section 3](core_16.000_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) under **[Chapter One §15.4.3 Incorporation layer](core_01.005_interaction_interpretation.md#1543-incorporation-layer)** governs until the record is fixed under **Chapters Fourteen and Fifteen**.
+  The anti-evasion **rule** in **[Chapter Sixteen, section 3](core_16.000_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) under **[Chapter One §15.4.3 Incorporation layer](core_01.005_interaction_interpretation.md#1543-incorporation-layer)** governs until the official record is fixed under **Chapters Fourteen and Fifteen**.
 
 ### 4. Adoption framing and scope of authority
 <details>

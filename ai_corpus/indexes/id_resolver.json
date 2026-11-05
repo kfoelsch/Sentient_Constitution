@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-11-04T02:24:23+00:00",
+  "generated_at": "2026-11-04T21:18:44+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -53,7 +53,7 @@
     "CF-14.420 §2.2": {"file":"corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md","anchor":"#cf-14420-22-emergency-exhaustion-and-timing-rules","heading":"CF-14.420 §2.2 Emergency, Exhaustion, and Timing Rules","line":191,"kind":"section"},
     "CF-14.420 §2.3": {"file":"corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md","anchor":"#cf-14420-23-rights-collision-records","heading":"CF-14.420 §2.3 Rights-Collision Records","line":199,"kind":"section"},
     "CF-14.420 §2.4": {"file":"corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md","anchor":"#cf-14420-24-sanctions-restrictions-and-corrective-measures","heading":"CF-14.420 §2.4 Sanctions, Restrictions, and Corrective Measures","line":221,"kind":"section"},
-    "CF-14.420 §2.5": {"file":"corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md","anchor":"#cf-14420-25-appeal-outcomes-remedies-and-reviewable-records","heading":"CF-14.420 §2.5 Appeal Outcomes, Remedies, and Reviewable Records","line":243,"kind":"section"},
+    "CF-14.420 §2.5": {"file":"corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md","anchor":"#cf-14420-25-appeal-outcomes-remedies-and-reviewable-forum-case-records","heading":"CF-14.420 §2.5 Appeal Outcomes, Remedies, and Reviewable Forum Case Records","line":243,"kind":"section"},
     "CF-14.420 §2.6": {"file":"corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md","anchor":"#cf-14420-26-non-compliant-patterns","heading":"CF-14.420 §2.6 Non-Compliant Patterns","line":282,"kind":"section"},
     "CF-14.425": {"file":"corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-14425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support","heading":"CF-14.425: Integrity safeguards, anti-capture operations, and anti-self-judging support","line":1,"kind":"family","gloss":"**CF-14.425** stops a body from judging its own conduct, and stops an interested party from quietly capturing the body that reviews it. It covers alignment rulings, when a matter must be routed away from a compromised venue, and what happens when a whole forum family is compromised rather than a single member."},
     "CF-14.425 §1": {"file":"corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md","anchor":"#cf-14425-1-alignment-rulings-component-referral-and-supervisory-coordination","heading":"CF-14.425 §1 Alignment rulings, component referral, and supervisory coordination","line":84,"kind":"section","gloss":"How an Integrity forum handles a tangled, multi-part problem: keep one lead record, send each component to the body that properly owns it, and coordinate without absorbing everyone else's jurisdiction."},

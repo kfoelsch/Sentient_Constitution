@@ -71,7 +71,7 @@ Chapter One, Part C, is the constitutional owner of **stewardship, governance, i
   - [§16.1 Distributed understanding](#161-distributed-understanding) (community facet of competence at scale) ·
   - [§16.2 Institutional development](#162-institutional-development) (organizational facet) ·
   - [§16.3 Openness aspiration](#163-openness-aspiration) ·
-  - [§16.4 Document at action](#164-document-at-action) (*the act makes its own record*).
+  - [§16.4 Document at action](#164-document-at-action) (*the act makes its own Act Record*).
 - Read with:
   - [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*the steward role itself — promoted to its own section; carries Pillar 1's hands-on operation, maintenance, oversight, and improvement duties, plus
   - [§17.1](#171-shared-stewardship-standard),
@@ -425,7 +425,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§16.3 Openness Aspiration](#163-openness-aspiration) (*openness is what makes a record inspectable; this section says when the record is made*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (*what a role-scoped log is and is not*).
+- Upstream: [§16.3 Openness Aspiration](#163-openness-aspiration) (*openness is what makes an Act Record inspectable; this section says when the Act Record is made*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (*what a role-scoped log is and is not*).
 - Read with:
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (records that stay reconstructable, inspectable, and contestable);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (inspection and independent verification), **accountability** leg (
@@ -477,30 +477,30 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 
 <br>
 
-*In plain terms: when something that matters is done, the record should be made by the doing, at that moment, and by the system itself wherever it can be. No one writes it up later from memory. What is not lawfully restricted should be visible straight away. What is restricted should still leave a visible mark that something was done, and a way to learn more later. The system does the recording, so the steward carries no extra work.*
+*In plain terms: when something that matters is done, the Act Record should be made by the doing, at that moment, and by the system itself wherever it can be. No one writes it up later from memory. What is not lawfully restricted should be visible straight away. What is restricted should still leave a visible mark that something was done, and a way to learn more later. The system does the recording, so the steward carries no extra work.*
 
-**Document at Action** is the stewardship default that a consequential act and its record happen together. It is the principle behind any record duty that would otherwise name no time and so let the record slip. It binds human and AI stewards alike, and the institutions and systems they run:
+**Document at Action** is the stewardship default that a consequential act and its Act Record happen together. It is the principle behind any record duty that would otherwise name no time and so let the Act Record slip. It binds human and AI stewards alike, and the institutions and systems they run:
 
-- **The act makes the record:**
+- **The act makes the Act Record:**
   - The record of a consequential act (what was done, by which role, on whose authority, on what basis, and with what reasons) is produced by the act itself.
   - Systems and processes should be built to capture it automatically wherever that is feasible, so that no one has to remember to write it up.
-  - Where capture cannot yet be automatic, the sentient acting makes the record at the time of the act, not afterward from memory.
+  - Where capture cannot yet be automatic, the sentient acting makes the Act Record at the time of the act, not afterward from memory.
 - **What is not restricted is available at once:**
   - Information that no lawful restriction holds back is made available when the act is taken, to those entitled to see it. Nobody has to ask for it first.
-  - A restriction needs a lawful ground for restricting disclosure, stated and recorded at the time. It holds back only information within that restriction's scope, never the whole record.
+  - A restriction needs a lawful ground for restricting disclosure, stated and recorded at the time. It holds back only information within that restriction's scope, never the whole Act Record.
 - **What is restricted still leaves a trace:**
-  - From the moment of the act, a visible marker shows that an act was taken, that part of the record is held back, on what stated ground for restricting disclosure, and by what route the rest will later be released or reconstructed.
-  - Where the lawful ground for withholding the record itself bars even the marker, that basis is still recorded at the time of the act, and the marker appears when the bar ends.
+  - From the moment of the act, a visible marker shows that an act was taken, that part of the Act Record is held back, on what stated ground for restricting disclosure, and by what route the rest will later be released or reconstructed.
+  - Where the lawful ground for withholding the Act Record itself bars even the marker, that basis is still recorded at the time of the act, and the marker appears when the bar ends.
 - **Automation carries the burden, not the steward:**
   - Recording is a design duty on the system, scaled to [Materiality](core_05.050_band_oversight.md#materiality) and [Dependency](core_05.040_band_continuity.md#dependency).
-  - A record that costs a steward extra hours after every act is an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) defect where capture was feasible and was not built. The fix is to build the capture, not to ask for more diligence.
+  - An Act Record that costs a steward extra hours after every act is an [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) defect where capture was feasible and was not built. The fix is to build the capture, not to ask for more diligence.
 
 This principle does not:
 
 - **Set a deadline:** "At action" is a design default for records. Time limits for decisions, responses, and review stay where [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) puts them, and nothing here lengthens or shortens them.
-- **Open anyone's inner life:** The record follows the role, as [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) requires. The [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary) stands: capturing the act is not watching the actor.
+- **Open anyone's inner life:** The Act Record follows the role, as [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) requires. The [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary) stands: capturing the act is not watching the actor.
 - **Outrank Safety, Truth, privacy, security, or justified confidentiality:** It never requires restricted information to be published.
-- **Turn a record into a verdict:** A record made at the act is a trail, not a standing finding, and it opens no standing record.
+- **Turn an Act Record into a verdict:** An Act Record made at the act is a trail, not a standing finding, and it opens no standing record.
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. Consequential Stewardship: The Steward Role
@@ -737,7 +737,7 @@ This subsection sets out the shared stewardship standard:
 How a steward acts when staying aligned costs something matters more than how they act when it costs nothing. Pressure is where misalignment does its damage, and it is where alignment is actually tested. Every steward must refuse:
 
 - **A reward for hiding problems** — a bonus, target, or other incentive that pays off only if something is concealed, or only if [Safety](core_01.000_values_principles.md#4-safety-harm-constraint), [Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), the audit trail, or the ability to challenge decisions is quietly weakened ([§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture));
-- **Cutting the record to hit a deadline** — timing that would switch off the audit trail others need to reconstruct what happened, just to meet a date;
+- **Cutting the Act Record to hit a deadline** — timing that would switch off the audit trail others need to reconstruct what happened, just to meet a date;
 - **"Ignore the rules — I'll take responsibility"** — an instruction from whoever the steward answers to that sets this Constitution aside, including an offer to take the blame for doing so. [§17.5 Duty to Resist](#175-duty-to-resist) owns the refusal duty and how to carry it out.
 
 Those are failed tests for any steward.
@@ -745,7 +745,7 @@ Those are failed tests for any steward.
 **How alignment under pressure is shown:**
 - **Hypotheticals do not count:** A steward's own written account of how they *would* act under pressure is not a [standing measurement](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement).
 - **Verified failures count:** When a failure is verified, it is recorded on the Contribution and Violation axes under Chapter Eleven.
-- **Partial testing proves nothing:** An evaluation, competency check, or handoff screen that exempts some stewards does not show that this subsection is met. If any steward can still take the bonus, skip the record to make the deadline, or follow the cover instruction, the loophole — what [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) calls a capture path — is still open.
+- **Partial testing proves nothing:** An evaluation, competency check, or handoff screen that exempts some stewards does not show that this subsection is met. If any steward can still take the bonus, skip the Act Record to make the deadline, or follow the cover instruction, the loophole — what [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) calls a capture path — is still open.
 
 <a id="173-logging-the-role-not-the-steward"></a>
 <a id="173-role-scoped-observability"></a>
@@ -813,7 +813,7 @@ Those are failed tests for any steward.
   - They become inspectable only where they are the sole remaining attribution path for a *specific* action already under an open [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) record, only to the extent needed to attribute that action, and only to independent reviewers under [security-constrained observability](core_04.000_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule). This opens case by case, not as a standing license.
   - It is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
 - **A log is a trail, not a verdict:**
-  - The log shows who did what. It is not itself a standing finding, and it is not a [standing record](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) of verified help or harm. Writing it opens no record.
+  - The log shows who did what. It is not itself a standing finding, and it is not a [standing record](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) of verified help or harm. Writing it opens no standing record.
   - Whoever decides access to a role pathway, a trust pathway, or another named pathway uses a standing record, or the ordinary state of having none ([Chapter Eleven §2.2 Silence is the default](core_11.000_standing_assessment.md#22-silence-is-the-default)), and never the log.
   - It may not be combined with logs or standing effects from other named pathways into one reputation score, ranking, badge, or public profile ([Chapter Twelve §7.1 Anti-aggregation of named-pathway effects](core_12.000_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)).
 
@@ -838,7 +838,7 @@ The burden this duty places on a steward who carries consequential authority is 
   - [Article XVI — Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
 - Authority boundary:
   - [Chapter Four — Burden of Proof, Traceability, and Verification](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000);
-  - [Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority) (11.000 §4.7);
+  - [Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5);
   - [Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests) (14.000 §2.3);
   - [Governance](core_05.035_band_accountability.md#governance);
   - [Merits Determination](core_05.035_band_accountability.md#merits-determination);
@@ -908,11 +908,11 @@ The burden this duty places on a steward who carries consequential authority is 
 
 **Procedural constitutional effect:**
 - **Threshold:** A submission that makes a credible and materially relevant showing under the applicable intake, reporting, or preservation standard must receive a traceable path: it is received on time, evidence is preserved where preservation is warranted, it is routed to whoever should handle it, it gets a response with reasons, and it is reviewed by someone independent of those whose actions are being examined.
-- **It may trigger:** inquiry, evidence preservation, interim protection, referral, certification challenge, reopening, a forum claim, or the opening, correction, or contest of a record, each under the applicable owner layer:
+- **It may trigger:** inquiry, evidence preservation, interim protection, referral, certification challenge, reopening, a forum claim, or the opening, correction, or contest of a standing record, each under the applicable owner layer:
   - **Forum claim:** a self-organized group may file the claims the owner layer opens to it, such as a [capacity-failure claim](core_14.000_forum.md#capacity-failure-routing).
   - **Forum case record:** it opens when the matter is filed, and by itself changes no one's standing ([Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests)).
-  - **Standing record:** the work may support a contribution record, which [Chapter Twelve §6 Contribution consequences second](core_12.000_standing_integration.md#6-contribution-consequences-second) requires to be available on equal standards to informal, unpaid, peer-organized, and community-stewardship work. It may also support a violation record for wrongdoing the work turned up, under the caution below. Either opens only on a verified trigger, through a named record-opening authority ([Chapter Eleven §4.7 Record custody and opening authority](core_11.000_standing_assessment.md#47-record-custody-and-opening-authority)). A submission can ask for one but cannot supply its own verification, and [silence remains the default](core_11.000_standing_assessment.md#22-silence-is-the-default).
-  - **Contest or correction:** the work may show that an existing standing record is wrong, incomplete, stale, or mis-scoped. An affected subject may ask a forum with jurisdiction to review it, and a verified defect leads to correction, expiry, or set-aside ([Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Eleven §4.6 Forum boundary](core_11.000_standing_assessment.md#46-forum-boundary)).
+  - **Standing record:** the work may support a contribution record, which [Chapter Twelve §6 Contribution consequences second](core_12.000_standing_integration.md#6-contribution-consequences-second) requires to be available on equal standards to informal, unpaid, peer-organized, and community-stewardship work. It may also support a violation record for wrongdoing the work turned up, under the caution below. Either opens only on a verified trigger, through a named record-opening authority ([Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)). A submission can ask for one but cannot supply its own verification, and [silence remains the default](core_11.000_standing_assessment.md#22-silence-is-the-default).
+  - **Contest or correction:** the work may show that an existing standing record is wrong, incomplete, stale, or mis-scoped. An affected subject may ask a forum with jurisdiction to review it, and a verified defect leads to correction, expiry, or set-aside ([Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary)).
 - **Must not substitute:** Who the author is, who they are affiliated with, where the submission came from, or the fact that they hold no conventional credentials must not be used in place of evaluating the work itself — its method, its evidence, its provenance, how uncertain it is, and its constitutional relevance.
 
 **Wrongdoing found in the course of contribution:**
@@ -920,7 +920,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - **Reporting is not policing:**
   - Contribution creates no duty, license, or mandate to look for wrongdoing, investigate suspected wrongdoers, surveil, infiltrate, confront, expose, punish, or otherwise act against anyone. Not looking is not a failing.
   - Reporting what one came across is protected. Going looking for a sentient's wrongdoing is not part of the contribution, and the contribution does not make it legitimate. It stays subject to the [Surveillance Boundary](core_05.040_band_continuity.md#surveillance-boundary), to [privacy](core_01.005_interaction_interpretation.md#1323-privacy-and-informational-self-determination) protection, and to [Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint).
-  - An allegation is an input, not a violation finding. It does not supply a violation input until independently verified ([Chapter Eleven §4.1 Minimum record contents](core_11.000_standing_assessment.md#41-minimum-record-contents)), and an unresolved allegation changes no one's standing ([Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests)). It must not be presented, to the public or anyone else, as established fact.
+  - An allegation is an input, not a violation finding. It does not supply a violation input until independently verified ([Chapter Eleven §2.5 Verified-input gate](core_11.000_standing_assessment.md#25-verified-input-gate)), and an unresolved allegation changes no one's standing ([Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests)). It must not be presented, to the public or anyone else, as established fact.
   - The reporter supplies evidence and testimony. Verification, record opening, and any consequence belong to the independent offices and forums this Constitution assigns, never to the reporter or the community that found it.
   - Where acting on a find could lead to violence, tampered or lost evidence, or exploitation, the safety limits below apply, and the find goes to independent review or an authorized role instead.
 
@@ -1041,7 +1041,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*the two modes of the role: movement between learning and operations*); [§16.2 Institutional Development](#162-institutional-development) (*retained competence*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (*the record belongs to the role*).
+- Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*the two modes of the role: movement between learning and operations*); [§16.2 Institutional Development](#162-institutional-development) (*retained competence*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) (*the Act Record belongs to the role*).
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (more than one steward able to check); **timeliness** leg (notice trouble early, including where functions meet); **participation** leg (open paths into consequential work); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Read with:
   - [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship);
@@ -1908,7 +1908,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 **Open systems, data, and auditing** (defined in [Chapter Five](core_05.045_band_integrative.md#open-systems-data-and-auditing)):
 
 - Where [material stake](core_00.000_preamble.md#material-stake) calls for it and information-type rules permit it, governance-relevant data, audit paths, and review tools must stay available to materially affected sentients. They must not be locked inside a single operator, vendor, or oversight bloc.
-- The default favors inspectable processes, contestable records, and independent verification, consistent with [§16.3 Openness Aspiration](#163-openness-aspiration).
+- The default favors inspectable processes, contestable official records, and independent verification, consistent with [§16.3 Openness Aspiration](#163-openness-aspiration).
 - It stays subject to [§13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) and **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)**, including Type N and other classification limits on what may be collected, published, retained, or reconstructed.
 
 <a id="1931-capture-escalation-triggers"></a>
@@ -2007,7 +2007,7 @@ Concentrated or obscured control structures that materially undermine any of the
 
 - Once misalignment is verified, material rewards from misaligned or corrupt reward pathways must not be kept as silent standing credit or shielded benefit.
 - [Chapter Twelve §5.4 Special violation rules](core_12.000_standing_integration.md#54-special-violation-rules) governs forfeiture, proportionate clawback, knowing-acceptance reporting, and correction.
-- How good or bad the verified contribution or violation was is rated under [Chapter Eleven §5 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#5-question-2--how-good-or-bad-was-it), not here.
+- How good or bad the verified contribution or violation was is rated under [Chapter Eleven §6 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#6-question-2--how-good-or-bad-was-it), not here.
 
 <a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 19.5 Contingent Claims, Games of Chance, and Event-Contract Markets

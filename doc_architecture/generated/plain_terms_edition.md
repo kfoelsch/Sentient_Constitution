@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **760** of **1199** headings carry a gloss (63%).
+Coverage: **760** of **1222** headings carry a gloss (62%).
 
 ## Contents
 
@@ -36,7 +36,7 @@ Coverage: **760** of **1199** headings carry a gloss (63%).
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (10/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
-- [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/35 glossed)
+- [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (13/58 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER THIRTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-thirteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_13.005_misconduct_pattern_applications.md` (12/14 glossed)
@@ -553,7 +553,7 @@ once a restriction is justified, it still has to be shaped correctly. Use the li
 
 ##### 13.2 Epistemic Disclosure Constraints
 
-limits on what sentients can know are the exception, not the default. When disclosure could directly cause serious harm and nothing lighter will do, restrict as little as possible, for as short as possible, on the record — and release information once the danger passes. Hiding problems to keep sentients calm is not allowed.
+limits on what sentients can know are the exception, not the default. When disclosure could directly cause serious harm and nothing lighter will do, restrict as little as possible, for as short as possible, on the official record — and release information once the danger passes. Hiding problems to keep sentients calm is not allowed.
 
 [Source](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints)
 
@@ -577,7 +577,7 @@ privacy is a constitutionally weighted interest — not merely the absence of di
 
 ###### 13.2.4 Proxy-Divergence Invalidation
 
-when a metric diverges from what it was meant to measure, leaning on that metric no longer counts as compliance. The divergence must be fixed on the record, with documented escalation and review.
+when a metric diverges from what it was meant to measure, leaning on that metric no longer counts as compliance. The divergence must be fixed on the official record, with documented escalation and review.
 
 [Source](../../core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation)
 
@@ -689,7 +689,7 @@ when safety, truth, and legitimate confidentiality allow, shared systems should 
 
 ##### 16.4 Document at Action
 
-when something that matters is done, the record should be made by the doing, at that moment, and by the system itself wherever it can be. No one writes it up later from memory. What is not lawfully restricted should be visible straight away. What is restricted should still leave a visible mark that something was done, and a way to learn more later. The system does the recording, so the steward carries no extra work.
+when something that matters is done, the Act Record should be made by the doing, at that moment, and by the system itself wherever it can be. No one writes it up later from memory. What is not lawfully restricted should be visible straight away. What is restricted should still leave a visible mark that something was done, and a way to learn more later. The system does the recording, so the steward carries no extra work.
 
 [Source](../../core_01.010_stewardship_capacity_principles.md#164-document-at-action)
 
@@ -1345,7 +1345,7 @@ attribution has integrity only when responsibility cannot be hidden, denied, tam
 
 ##### Record Integrity
 
-a record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the sentients entitled to check it can reach it. A completed record is never rewritten. Changes are added as new versions, and the old ones stay.
+an official record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the sentients entitled to check it can reach it. A completed official record is never rewritten. Changes are added as new versions, and the old ones stay.
 
 [Source](../../core_05.035_band_accountability.md#record-integrity)
 
@@ -1363,7 +1363,7 @@ accessible and impartial ways to resolve claims that rights or constitutional re
 
 ##### Due Process
 
-decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve a record that supports review.
+decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve an official record that supports review.
 
 [Source](../../core_05.035_band_accountability.md#due-process)
 
@@ -1483,7 +1483,7 @@ a Material Control Line is the real chain of power around a particular act. It i
 
 ##### Interested Party
 
-an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the record, and an interested party cannot also be the one who checks, records, or decides it.
+an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the official record, and an interested party cannot also be the one who checks, records, or decides it.
 
 [Source](../../core_05.035_band_accountability.md#interested-party)
 
@@ -1507,7 +1507,7 @@ the Verify-or-Authorize Seat is the role that independently checks the evidence 
 
 ##### Record-Opening Authority
 
-the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that record. It does not keep the record, which is the Record Custodian's job, and it does not hear a challenge to the record, which is the Contest Seat's job. It cannot be the record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.
+the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that official record. It does not keep the official record, which is the Record Custodian's job, and it does not hear a challenge to the official record, which is the Contest Seat's job. It cannot be the official record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.
 
 [Source](../../core_05.035_band_accountability.md#record-opening-authority)
 
@@ -1519,13 +1519,13 @@ the Record Seat is the role that makes and keeps the official record of what the
 
 ##### Record Custodian
 
-the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.
+the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the official record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.
 
 [Source](../../core_05.035_band_accountability.md#record-custodian)
 
 ##### Contest Seat
 
-the Contest Seat is the role that receives and reviews a challenge to a particular act or its record, orders correction or limits where authorized, and sends any issue it cannot decide to the proper independent path. Receiving a complaint is not enough if the recipient cannot review or route it.
+the Contest Seat is the role that receives and reviews a challenge to a particular act or its Act Record, orders correction or limits where authorized, and sends any issue it cannot decide to the proper independent path. Receiving a complaint is not enough if the recipient cannot review or route it.
 
 [Source](../../core_05.035_band_accountability.md#contest-seat)
 
@@ -1537,7 +1537,7 @@ a materially binding act is an official step that settles something that matters
 
 ##### Materially Binding Act Record
 
-an Act Record is the official trail for one [materially binding act](../../core_05.035_band_accountability.md#materially-binding-act). It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.
+an Act Record is the official trail for one [materially binding act](../../core_05.035_band_accountability.md#materially-binding-act). It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate official record is not required.
 
 [Source](../../core_05.035_band_accountability.md#act-record)
 
@@ -1717,7 +1717,7 @@ Violation Nature is the Axis II classification of a verified adverse outcome, ap
 
 ###### Standing Effect
 
-Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.
+Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those standing records and cannot merge, average, net, or offset the Contribution and Violation axes.
 
 [Source](../../core_05.035_band_accountability.md#standing-effect)
 
@@ -1859,7 +1859,7 @@ a **certification condition** is a requirement written into a certification outc
 
 ##### Certification Pass
 
-a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](../../core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](../../core_05.040_band_continuity.md#fresh-review).
+a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own System Certification Record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](../../core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](../../core_05.040_band_continuity.md#fresh-review).
 
 [Source](../../core_05.040_band_continuity.md#certification-pass)
 
@@ -1871,7 +1871,7 @@ a **certification pass** is one full run of the certification work for one Syste
 
 ##### Challenge Path
 
-a **challenge path** is the published route a sentient uses to contest a certification: who receives a challenge, how to file it, and the windows. It must be named on the record before any forum signs off, and it opens when the outcome is published.
+a **challenge path** is the published route a sentient uses to contest a certification: who receives a challenge, how to file it, and the windows. It must be named on the System Certification Record before any forum signs off, and it opens when the outcome is published.
 
 [Source](../../core_05.040_band_continuity.md#challenge-path)
 
@@ -1895,7 +1895,7 @@ a recertification is **clean** when no misalignment is current and no monitoring
 
 ##### Fresh Review
 
-a **fresh review** is a later certification pass that the forum orders in answer to a certification defect, as one of the responses open to it. Like any later certification pass, it opens a new record.
+a **fresh review** is a later certification pass that the forum orders in answer to a certification defect, as one of the responses open to it. Like any later certification pass, it opens a new System Certification Record.
 
 [Source](../../core_05.040_band_continuity.md#fresh-review)
 
@@ -1979,7 +1979,7 @@ a **pilot** is a real but deliberately limited launch. Real sentients are affect
 
 ##### Portfolio
 
-an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own record.
+an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own System Certification Record.
 
 [Source](../../core_05.040_band_continuity.md#portfolio)
 
@@ -1997,19 +1997,19 @@ an Institution's **portfolio** is the set of Systems it operates, stewards, or m
 
 ##### Reliance Limits
 
-**reliance limits** are limits, stated on the record, on how far anyone may rely on a System or an Institution. They come with a certification outcome or are placed while a matter is pending.
+**reliance limits** are limits, stated on the System or Institutional Certification Record, on how far anyone may rely on a System or an Institution. They come with a certification outcome or are placed while a matter is pending.
 
 [Source](../../core_05.040_band_continuity.md#reliance-limits)
 
 ##### Reopened Review
 
-a **reopened review** is a certification pass of a System or an Institution that already holds a record, begun before the next scheduled recertification because a [Reopening Trigger](../../core_05.040_band_continuity.md#reopening-trigger) has fired. It opens a new record linked to the last.
+a **reopened review** is a certification pass of a System or an Institution that already holds a System or Institutional Certification Record, begun before the next scheduled recertification because a [Reopening Trigger](../../core_05.040_band_continuity.md#reopening-trigger) has fired. It opens a new System or Institutional Certification Record linked to the last.
 
 [Source](../../core_05.040_band_continuity.md#reopened-review)
 
 ##### Reopening Trigger
 
-a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the record.
+a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the System or Institutional Certification Record.
 
 [Source](../../core_05.040_band_continuity.md#reopening-trigger)
 
@@ -2027,7 +2027,7 @@ a **tier window** is a time limit that runs at a stage of a certification matter
 
 ##### Urgent Protection
 
-**urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the record.
+**urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the System Certification Record.
 
 [Source](../../core_05.040_band_continuity.md#urgent-protection)
 
@@ -2595,7 +2595,7 @@ decisions about who holds governing authority, by what mechanism, and on what la
 
 ##### Documented Legitimacy Mechanism
 
-the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.
+the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the official record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.
 
 [Source](../../core_05.045_band_integrative.md#documented-legitimacy-mechanism)
 
@@ -3317,7 +3317,7 @@ within already-authorized governance, weighting by impact, dependency, standing,
 
 ###### Stakeholder Rights-Collision Record (Binding Stakeholder Choice)
 
-when a binding stakeholder choice turns on a material conflict among rights or structural duties, the record must show the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
+when a binding stakeholder choice turns on a material conflict among rights or structural duties, the Stakeholder Rights-Collision Record must show the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
 
 [Source](../../core_05.055_band_participation.md#rights-collision-record-binding-stakeholder-choice)
 
@@ -3909,7 +3909,7 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 ##### 1.2 Certification at a glance
 
-classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its certification conditions. Each review pass uses a new record linked to the last.
+classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one System Certification Record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its certification conditions. Each review pass uses a new System Certification Record linked to the last.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#12-certification-at-a-glance)
 
@@ -3975,7 +3975,7 @@ the review is not finished unless reviewers ask whether the four legs of the [Te
 
 ##### 3.4 Data Types and Handling Evaluation
 
-certification also has to look at what kinds of data the system touches and whether it handles them appropriately — including whether types are still right on the current review cycle, and whether the underlying infrastructure is strong enough for that data at that system class. The type rules and the System Data Types Record live in the systems corpus; certification checks that the rules were actually applied and that the record is honest.
+certification also has to look at what kinds of data the system touches and whether it handles them appropriately — including whether types are still right on the current review cycle, and whether the underlying infrastructure is strong enough for that data at that system class. The type rules and the System Data Types Record live in the systems corpus; certification checks that the rules were actually applied and that the System Certification Record is honest.
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)
 
@@ -4113,7 +4113,7 @@ some schools, platforms, and training systems can shape a sentient's future thro
 
 ##### 5.3 Proportionate Cross-System Support Evaluation
 
-some systems depend on shared foundations — infrastructure, services, and resources that many other systems and sentients rely on. When a system draws heavily on those foundations, certification has to check what it takes — resources, goods, services, labor, information, or money — and whether it puts enough back to keep them going, and whether the records show that clearly enough for anyone to trace. The operator's word that "the books balance" is not enough. This section doesn't set allocation formulas or numeric targets; other documents do that. It checks that the system's dependencies, what it takes, what it gives back, and whether the arrangement is fair to others were actually evaluated when this section applies. Worked examples: [CS-9.320 §8 Illustrative cross-system support application by system class](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-8-illustrative-cross-system-support-application-by-system-class).
+some systems depend on shared foundations — infrastructure, services, and resources that many other systems and sentients rely on. When a system draws heavily on those foundations, certification has to check what it takes — resources, goods, services, labor, information, or money — and whether it puts enough back to keep them going, and whether the System Certification Records show that clearly enough for anyone to trace. The operator's word that "the books balance" is not enough. This section doesn't set allocation formulas or numeric targets; other documents do that. It checks that the system's dependencies, what it takes, what it gives back, and whether the arrangement is fair to others were actually evaluated when this section applies. Worked examples: [CS-9.320 §8 Illustrative cross-system support application by system class](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-8-illustrative-cross-system-support-application-by-system-class).
 
 [Source](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)
 
@@ -4237,7 +4237,7 @@ Source file: [`core_09.005_system_alignment_certification_record_process.md`](..
 
 #### 6. Forum Process
 
-certification is not a pile of opinions from different corners. The evaluation work can run side by side, but from here the record moves in order: review, then decision, then the published record. Each kind of forum handles a defined piece of the review, and one lead forum brings the pieces together. Affected parties can challenge at the level where the dispute lives, without getting lost in internal bureaucracy or bounced between forums.
+certification is not a pile of opinions from different corners. The evaluation work can run side by side, but from here the System Certification Record moves in order: review, then decision, then the published System Certification Record. Each kind of forum handles a defined piece of the review, and one lead forum brings the pieces together. Affected parties can challenge at the level where the dispute lives, without getting lost in internal bureaucracy or bounced between forums.
 
 [Source](../../core_09.005_system_alignment_certification_record_process.md#6-forum-process)
 
@@ -4445,7 +4445,7 @@ Source file: [`core_09.010_system_alignment_certification_record_recertification
 
 #### 8. System Certification Record
 
-a System Certification Record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [CS-9.320 §2 Illustrative system class profiles](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-2-illustrative-system-class-profiles) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.
+a System Certification Record is the auditable case file for one system under review. It shows who runs the system, what was checked, what was found, what was decided, and how to challenge the decision. It is not a marketing packet or a one-line approval stamp. How much detail a System Certification Record carries, how much it discloses, and how heavy the challenge burden is all scale with system class, as [CS-9.320 §2 Illustrative system class profiles](../../corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-2-illustrative-system-class-profiles) shows. A **Class A** survival-critical system needs a fuller, more contestable file than a **Class C** coordination layer. Both must state their system class honestly and reflect the evaluations required.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#8-system-certification-record)
 
@@ -4455,11 +4455,11 @@ a System Certification Record is the auditable case file for one system under re
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents)
 
-###### 8.1.1 System identity, scope, and prior record
+###### 8.1.1 System identity, scope, and prior System Certification Record
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09.010_system_alignment_certification_record_recertification.md#811-system-identity-scope-and-prior-record)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#811-system-identity-scope-and-prior-system-certification-record)
 
 ###### 8.1.2 Classification and whole-system findings
 
@@ -4515,23 +4515,23 @@ a System Certification Record is the auditable case file for one system under re
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#8110-completeness)
 
-##### 8.2 Transparency and auditability of the record
+##### 8.2 Transparency and auditability of the System Certification Record
 
-a System Certification Record only works if sentients can read it and check it. This section puts transparency and auditability on the record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§10 Challenging a Certification](../../core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification).
+a System Certification Record only works if sentients can read it and check it. This section puts transparency and auditability on the System Certification Record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVI](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§10 Challenging a Certification](../../core_09.010_system_alignment_certification_record_recertification.md#10-challenging-a-certification).
 
-[Source](../../core_09.010_system_alignment_certification_record_recertification.md#82-transparency-and-auditability-of-the-record)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#82-transparency-and-auditability-of-the-system-certification-record)
 
 #### 9. Recertification and Reopening
 
-no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the certification conditions on the record. A certified system is recertified on a schedule set by its system class, with an audit at the midpoint of each interval. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last, and a new record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.
+no outcome lasts forever. While a system operates, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the certification conditions on the System Certification Record. A certified system is recertified on a schedule set by its system class, with an audit at the midpoint of each interval. Review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new System Certification Record linked to the last, and a new System Certification Record does not erase the earlier one or the challenges to it. An old approval cannot stand in for current Rights-Floor compliance.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#9-recertification-and-reopening)
 
-##### 9.1 Recertification schedule and the new record
+##### 9.1 Recertification schedule and the new System Certification Record
 
-a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each certification pass opens a new record linked to the last one.
+a certification does not run forever. It comes up for recertification on a schedule set by the system's class, with an audit at the midpoint of each interval. Each certification pass opens a new System Certification Record linked to the last one.
 
-[Source](../../core_09.010_system_alignment_certification_record_recertification.md#91-recertification-schedule-and-the-new-record)
+[Source](../../core_09.010_system_alignment_certification_record_recertification.md#91-recertification-schedule-and-the-new-system-certification-record)
 
 ##### 9.2 Reopening triggers
 
@@ -4601,7 +4601,7 @@ the challenge path has to be open before anyone is asked to rely on a certificat
 
 ##### 10.2 Contestability paths
 
-a record has to say where to push back. There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalation. Where waiting would do harm, a challenger can go straight to a forum.
+a System Certification Record has to say where to push back. There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalation. Where waiting would do harm, a challenger can go straight to a forum.
 
 [Source](../../core_09.010_system_alignment_certification_record_recertification.md#102-contestability-paths)
 
@@ -4779,7 +4779,7 @@ a denial or revocation changes what the Institution may say about itself, who is
 
 #### 8. Institutional Certification Record
 
-the stated outcome is kept on a record held by an office the institution does not control, and the record can be challenged.
+the stated outcome is kept on an Institutional Certification Record held by an office the institution does not control, and the Institutional Certification Record can be challenged.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#8-institutional-certification-record)
 
@@ -4789,11 +4789,11 @@ the stated outcome is kept on a record held by an office the institution does no
 
 [Source](../../core_10.000_institutional_alignment_certification.md#81-minimum-record-contents)
 
-##### 8.2 Transparency and auditability of the record
+##### 8.2 Transparency and auditability of the Institutional Certification Record
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_10.000_institutional_alignment_certification.md#82-transparency-and-auditability-of-the-record)
+[Source](../../core_10.000_institutional_alignment_certification.md#82-transparency-and-auditability-of-the-institutional-certification-record)
 
 #### 9. Recertification and Reopening
 
@@ -4899,13 +4899,13 @@ an Institutional Certification Record only works if sentients can push back when
 
 ##### 10.1 When the path opens
 
-the challenge path has to be open before anyone is asked to rely on a certification. For an Institution that already has stakeholders, it is already open, or opens when the record opens. For an Institution with no stakeholders yet, it opens with the first outcome.
+the challenge path has to be open before anyone is asked to rely on a certification. For an Institution that already has stakeholders, it is already open, or opens when the Institutional Certification Record opens. For an Institution with no stakeholders yet, it opens with the first outcome.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#101-when-the-path-opens)
 
 ##### 10.2 Contestability paths
 
-a record has to say where to push back. There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalation. Where waiting would do harm, a challenger can go straight to a forum.
+an Institutional Certification Record has to say where to push back. There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalation. Where waiting would do harm, a challenger can go straight to a forum.
 
 [Source](../../core_10.000_institutional_alignment_certification.md#102-contestability-paths)
 
@@ -4947,7 +4947,7 @@ certification can feed standing, but it is not standing. An Institutional Certif
 
 ## CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT
 
-Source file: [`core_11.000_standing_assessment.md`](../../core_11.000_standing_assessment.md) · 13/35 headings glossed
+Source file: [`core_11.000_standing_assessment.md`](../../core_11.000_standing_assessment.md) · 13/58 headings glossed
 
 #### 1. The three questions
 
@@ -4963,7 +4963,7 @@ standing is worked out by answering three questions in order. Do not infer facts
 
 #### 2. Question 1 — what happened?
 
-Question 1 establishes a bounded, contestable account of what happened. It identifies the subject, event or pattern, time period, verified facts, and record status before any rating or consequence is considered. Verified help and verified violations use separate records so one cannot erase the other. These records are not popularity scores or vague labels.
+Question 1 establishes a bounded, contestable account of what happened. It identifies the subject, event or pattern, time period, verified facts, and record status before any rating or consequence is considered. Verified help and verified violations use separate standing records so one cannot erase the other. These standing records are not popularity scores or vague labels.
 
 [Source](../../core_11.000_standing_assessment.md#2-question-1--what-happened)
 
@@ -4985,11 +4985,47 @@ Question 1 establishes a bounded, contestable account of what happened. It ident
 
 [Source](../../core_11.000_standing_assessment.md#23-protected-dissent-is-not-a-trigger)
 
-##### 2.4 Linked records and no-offset bridge
+##### 2.4 Linked standing records and no-offset bridge
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#24-linked-records-and-no-offset-bridge)
+[Source](../../core_11.000_standing_assessment.md#24-linked-standing-records-and-no-offset-bridge)
+
+##### 2.5 Verified-input gate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#25-verified-input-gate)
+
+##### 2.6 Stage boundary
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#26-stage-boundary)
+
+##### 2.7 Forum boundary
+
+forums are where disputes get supervised, challenged, and turned into verified outcomes — but filing a case or winning a narrative fight does not update standing. The verified-input gate in **section 2.5** still applies. When a forum verifies the facts under Chapters Two through Four, it may **open, update, or correct** a standing record — or **set a bad record aside on challenge**. Forums do not merge good and bad into one score or invent the standing category by themselves.
+
+[Source](../../core_11.000_standing_assessment.md#27-forum-boundary)
+
+###### 2.7.1 Forum case record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#271-forum-case-record)
+
+###### 2.7.2 Forum findings and the Question 2 measurement
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#272-forum-findings-and-the-question-2-measurement)
+
+###### 2.7.3 What the forum boundary does not reduce
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#273-what-the-forum-boundary-does-not-reduce)
 
 #### 3. Question 1 event-type guide — what kind of help or harm occurred?
 
@@ -5011,7 +5047,7 @@ use these tables to describe what happened after the facts are verified. They he
 
 #### 4. Verification and record requirements
 
-This section states what each standing record must contain, who may open and hold it, and how it may be challenged or corrected. Question 2 measurements may be added only after the verified factual basis is recorded.
+This section states what each standing record must contain, how related standing records point to one another, and how records are versioned. Who may open and hold a standing record, and how it may be challenged or corrected, is in [§5 Record custody and opening authority](../../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority). Question 2 measurements may be added only after the verified factual basis is recorded.
 
 [Source](../../core_11.000_standing_assessment.md#4-standing-record-operational-requirements)
 
@@ -5021,11 +5057,41 @@ This section states what each standing record must contain, who may open and hol
 
 [Source](../../core_11.000_standing_assessment.md#41-minimum-record-contents)
 
-##### 4.2 Related record cross-references
+###### 4.1.1 Fields every standing record must carry
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#42-related-record-cross-references)
+[Source](../../core_11.000_standing_assessment.md#411-fields-every-standing-record-must-carry)
+
+###### 4.1.2 Inspectable attributable action
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#412-inspectable-attributable-action)
+
+###### 4.1.3 No privacy or opacity exemption
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#413-no-privacy-or-opacity-exemption)
+
+###### 4.1.4 Additional fields for contribution standing records
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#414-additional-fields-for-contribution-standing-records)
+
+###### 4.1.5 Additional fields for violation standing records
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#415-additional-fields-for-violation-standing-records)
+
+##### 4.2 Related standing record cross-references
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#42-related-standing-record-cross-references)
 
 ##### 4.3 Collective and actor-specific records
 
@@ -5045,113 +5111,185 @@ This section states what each standing record must contain, who may open and hol
 
 [Source](../../core_11.000_standing_assessment.md#45-implementation-tools)
 
-##### 4.6 Forum boundary
+#### 5. Record custody and opening authority
 
-forums are where disputes get supervised, challenged, and turned into verified outcomes — but filing a case or winning a narrative fight does not update standing. The verified-input gate in **section 4.1** still applies. When a forum verifies the facts under Chapters Two through Four, it may **open, update, or correct** a standing record — or **set a bad record aside on challenge**. Forums do not merge good and bad into one score or invent the standing category by themselves.
+this section applies the four-seat rule in [Chapter Eight §2 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) to standing records. Asking for a change, verifying the facts, writing and holding the standing record, and hearing a challenge are separate jobs, and the office that verifies a standing record never enters it or hears a contest of it ([§5.1 Separation of duties](../../core_11.000_standing_assessment.md#51-separation-of-duties)). The System Charter or Institutional Charter names who fills each seat, through the Charter Role Map in [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../../core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody). This section adds what is specific to standing records: who is excluded from a standing record ([§5.4 No self-custody](../../core_11.000_standing_assessment.md#54-no-self-custody)); where a standing record goes when a seat is unnamed ([§5.5 When a System Charter or Institutional Charter leaves a seat unnamed](../../core_11.000_standing_assessment.md#55-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or no System Charter or Institutional Charter applies ([§5.6 Fallback when no System Charter or Institutional Charter reaches the standing record](../../core_11.000_standing_assessment.md#56-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)); how a challenge is logged and routed the day it arrives ([§5.12 Challenge received on the standing record](../../core_11.000_standing_assessment.md#512-challenge-received-on-the-standing-record)); and that none of this is a reason to wait ([§5.13 Custody is not delay, and custody is not ownership](../../core_11.000_standing_assessment.md#513-custody-is-not-delay-and-custody-is-not-ownership)).
 
-[Source](../../core_11.000_standing_assessment.md#46-forum-boundary)
+[Source](../../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)
 
-##### 4.7 Record custody and opening authority
+##### 5.1 Separation of duties
 
-four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the System Charter or Institutional Charter forgot to say who verifies, keeps the record, or hears the contest, it is invalid until it is fixed, and the operator's own offices can't open or enter its records in the meantime; they go to the Backup Record Authority and the Backup Record Custodian, or a forum. A body with no System Charter or Institutional Charter at all uses its published lane map: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#47-record-custody-and-opening-authority)
+[Source](../../core_11.000_standing_assessment.md#51-separation-of-duties)
 
-#### 5. Question 2 — how good or bad was it?
+##### 5.2 Named record-opening authority
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#52-named-record-opening-authority)
+
+##### 5.3 Record custodian
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#53-record-custodian)
+
+##### 5.4 No self-custody
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#54-no-self-custody)
+
+##### 5.5 When a System Charter or Institutional Charter leaves a seat unnamed
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#55-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)
+
+##### 5.6 Fallback when no System Charter or Institutional Charter reaches the standing record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#56-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)
+
+##### 5.7 Informal and small-scope records
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#57-informal-and-small-scope-records)
+
+##### 5.8 Two kinds of standing record by subject
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#58-two-kinds-of-standing-record-by-subject)
+
+##### 5.9 Conflicted custodian on a single standing record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#59-conflicted-custodian-on-a-single-standing-record)
+
+##### 5.10 Recorder statements are inputs
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#510-recorder-statements-are-inputs)
+
+##### 5.11 Attributed entry
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#511-attributed-entry)
+
+##### 5.12 Challenge received on the standing record
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#512-challenge-received-on-the-standing-record)
+
+##### 5.13 Custody is not delay, and custody is not ownership
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#513-custody-is-not-delay-and-custody-is-not-ownership)
+
+#### 6. Question 2 — how good or bad was it?
 
 Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified harm. The axes remain separate; they are not two sides of a net score.
 
-[Source](../../core_11.000_standing_assessment.md#5-standing-measurement-evaluation-dimensions)
+[Source](../../core_11.000_standing_assessment.md#6-standing-measurement-evaluation-dimensions)
 
-##### 5.1 Contribution magnitude-input dimensions
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#51-magnitude-input-dimensions)
-
-##### 5.2 Violation severity-input dimensions
+##### 6.1 Contribution magnitude-input dimensions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#52-violation-severity-input-dimensions)
+[Source](../../core_11.000_standing_assessment.md#61-magnitude-input-dimensions)
 
-##### 5.3 Contribution route descriptor catalog and measurement roles
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#53-route-descriptor-measurement-roles)
-
-##### 5.4 Violation route descriptor catalog and measurement roles
+##### 6.2 Violation severity-input dimensions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#54-violation-route-descriptor-catalog-and-measurement-roles)
+[Source](../../core_11.000_standing_assessment.md#62-violation-severity-input-dimensions)
 
-##### 5.5 Cross-question measurement hooks
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#55-dual-use-measurement-hooks)
-
-###### 5.5.1 Similar-looking facts that must stay separate
+##### 6.3 Contribution route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#551-similar-looking-facts-that-must-stay-separate)
+[Source](../../core_11.000_standing_assessment.md#63-route-descriptor-measurement-roles)
 
-##### 5.6 Measurement illustrations
-
-these illustrations begin with Question 1's verified facts, then show how **section 5** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–7**; Question 3 is answered in [Chapter Twelve](../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Twelve §10.1 Informal ecological stewardship / competency clearance](../../core_12.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](../../core_12.000_standing_integration.md#102-ecological-negligence-with-concealment).
-
-[Source](../../core_11.000_standing_assessment.md#56-question-1-measurement-illustrations)
-
-#### 6. Slot grammar and shared scaling
-
-this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 8** assigns both axes by proportional LEQU impact.
-
-[Source](../../core_11.000_standing_assessment.md#6-slot-grammar-and-display-labels)
-
-##### 6.1 Table 1 — slot display labels
+##### 6.4 Violation route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#61-table-1--slot-display-labels)
+[Source](../../core_11.000_standing_assessment.md#64-violation-route-descriptor-catalog-and-measurement-roles)
 
-##### 6.2 Shared impact-scaling rules
+##### 6.5 Cross-question measurement hooks
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#65-dual-use-measurement-hooks)
+
+###### 6.5.1 Similar-looking facts that must stay separate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#651-similar-looking-facts-that-must-stay-separate)
+
+##### 6.6 Measurement illustrations
+
+these illustrations begin with Question 1's verified facts, then show how **section 6** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 6–8**; Question 3 is answered in [Chapter Twelve](../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Twelve §10.1 Informal ecological stewardship / competency clearance](../../core_12.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](../../core_12.000_standing_integration.md#102-ecological-negligence-with-concealment).
+
+[Source](../../core_11.000_standing_assessment.md#66-question-1-measurement-illustrations)
+
+#### 7. Slot grammar and shared scaling
+
+this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other standing records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 9** assigns both axes by proportional LEQU impact.
+
+[Source](../../core_11.000_standing_assessment.md#7-slot-grammar-and-display-labels)
+
+##### 7.1 Table 1 — slot display labels
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.000_standing_assessment.md#71-table-1--slot-display-labels)
+
+##### 7.2 Shared impact-scaling rules
 
 impact is not measured by headcount alone. A profound benefit or loss affecting one sentient may be more significant than a shallow effect affecting many. Count, depth, vulnerability, duration, durability, reach, and constitutional character must be assessed together.
 
-[Source](../../core_11.000_standing_assessment.md#62-shared-impact-scaling-rules)
+[Source](../../core_11.000_standing_assessment.md#72-shared-impact-scaling-rules)
 
-#### 7. Constitutional inputs to axis assignment
+#### 8. Constitutional inputs to axis assignment
 
 before choosing a slot, identify the constitutional sources that say what baseline, benefit, duty, harm, or violation is being measured. Use the links below to apply those sources at their canonical homes; do not turn this routing step into another score or a substitute definition.
 
-[Source](../../core_11.000_standing_assessment.md#7-constitutional-inputs-to-axis-assignment)
+[Source](../../core_11.000_standing_assessment.md#8-constitutional-inputs-to-axis-assignment)
 
-##### 7.1 Definition inputs
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.000_standing_assessment.md#71-definition-inputs)
-
-##### 7.2 Principle inputs
+##### 8.1 Definition inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#72-principle-inputs)
+[Source](../../core_11.000_standing_assessment.md#81-definition-inputs)
 
-##### 7.3 Rights-Floor and Article inputs
+##### 8.2 Principle inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#73-rights-floor-and-article-inputs)
+[Source](../../core_11.000_standing_assessment.md#82-principle-inputs)
 
-#### 8. Unified proportional LEQU scale — Contribution and Violation Axes
+##### 8.3 Rights-Floor and Article inputs
 
-**Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes)
+[Source](../../core_11.000_standing_assessment.md#83-rights-floor-and-article-inputs)
+
+#### 9. Unified proportional LEQU scale — Contribution and Violation Axes
+
+**Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The standing records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.
+
+[Source](../../core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes)
 
 ## CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION
 
@@ -5159,13 +5297,13 @@ Source file: [`core_12.000_standing_integration.md`](../../core_12.000_standing_
 
 #### 1. Chapter Eleven records do not change
 
-this chapter starts from the verified records Chapter Eleven already made. It may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.
+this chapter starts from the verified standing records Chapter Eleven already made. It may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.
 
 [Source](../../core_12.000_standing_integration.md#1-chapter-eleven-records-do-not-change)
 
 #### 2. Automatic integration, review, and continuity
 
-when a verified record opens or changes, an integration record must follow automatically, keep the two tracks separate, and stay inspectable — including when the computers are down.
+when a verified standing record opens or changes, an integration record must follow automatically, keep the two tracks separate, and stay inspectable — including when the computers are down.
 
 [Source](../../core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity)
 
@@ -5177,7 +5315,7 @@ descriptors say **how** verified help or harm happened. This chapter imports the
 
 #### 4. Violation, correction, and prevention
 
-Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Eleven has verified a violation, remedy and correction come from that record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive named pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified record.
+Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Eleven has verified a violation, remedy and correction come from that standing record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive named pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified standing record.
 
 [Source](../../core_12.000_standing_integration.md#4-violation-correction-and-prevention)
 
@@ -5279,7 +5417,7 @@ this chapter says what standing is not. This subsection stops anyone from buildi
 
 ##### 7.2 Plain statement of effect and burden
 
-no one should learn what a standing effect does to them from its consequences. The record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.
+no one should learn what a standing effect does to them from its consequences. The integration record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.
 
 [Source](../../core_12.000_standing_integration.md#72-plain-statement-of-effect-and-burden)
 
@@ -5327,7 +5465,7 @@ standing consequences and redress count only when real institutions can deliver 
 
 #### 10. Pattern applications and Question 3 routing
 
-these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Thirteen §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers named pathway prevention from the verified record; Chapter Thirteen separately answers designation criteria routing.
+these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Thirteen §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers named pathway prevention from the verified standing record; Chapter Thirteen separately answers designation criteria routing.
 
 [Source](../../core_12.000_standing_integration.md#10-named-applications)
 
@@ -5643,11 +5781,11 @@ when the case outgrows the first desk, these rules say how to escalate — for e
 
 [Source](../../core_14.000_forum.md#family-to-family-escalation)
 
-##### Existential risk and uncertainty on the record
+##### Existential risk and uncertainty on the Forum Case Record
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_14.000_forum.md#existential-risk-and-uncertainty-on-the-record)
+[Source](../../core_14.000_forum.md#existential-risk-and-uncertainty-on-the-forum-case-record)
 
 ##### Sending questions to **Constitutional** forums for ruling
 
@@ -5721,7 +5859,7 @@ Source file: [`core_11.005_application_vignettes.md`](../../core_11.005_applicat
 
 #### 1. Child neglect / care-duty failure (Tier A)
 
-when children are going unfed and unsupervised, verified harm opens a record, help does not cancel it, and interim protection does not wait for a full trial.
+when children are going unfed and unsupervised, verified harm opens a standing record, help does not cancel it, and interim protection does not wait for a full trial.
 
 [Source](../../core_11.005_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a)
 
@@ -5757,7 +5895,7 @@ when children are going unfed and unsupervised, verified harm opens a record, he
 
 #### 2. Employment discrimination / participation-barrier injury (Tier B)
 
-a blocked job or role is measured as harm on its own track; a reputation score cannot replace that record, and delay cannot exhaust the claimant.
+a blocked job or role is measured as harm on its own track; a reputation score cannot replace that standing record, and delay cannot exhaust the claimant.
 
 [Source](../../core_11.005_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b)
 
@@ -6329,13 +6467,13 @@ freedom of action stops where verifiable material harm begins. Offense or disagr
 
 #### Article XII: Stakeholder System Participation, Representation, and Due Process
 
-**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.
+**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the official record and open to fair challenge.
 
 [Source](../../core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)
 
 ##### Article XII-A: Stakeholder System Participation and Representation
 
-decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power. High-impact decisions also need a recorded legitimacy check before they bind anyone.
+decisions that materially affect sentients must be explained on the official record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power. High-impact decisions also need a recorded legitimacy check before they bind anyone.
 
 [Source](../../core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation)
 
@@ -6441,7 +6579,7 @@ a machine may not decide to kill, injure, or coerce a sentient on its own. "Huma
 
 ##### Article XIV-D: Counter-Espionage Limits
 
-when an institution suspects spying, the pressure to do whatever it takes is at its highest — and that is exactly when mistakes and abuses happen. So the lines are drawn here, in advance. Hunting spies is covert power, and every limit in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) still applies. On top of that: the response rules must be written and independently approved before any crisis; suspicion must rest on what someone did and whom they actually serve — including ties to hostile states and organizations — not on their birth, heritage, or beliefs; whistleblowers and journalists are not spies; no torture, no secret detention, no killing as punishment; and anyone investigated and cleared gets that on the record.
+when an institution suspects spying, the pressure to do whatever it takes is at its highest — and that is exactly when mistakes and abuses happen. So the lines are drawn here, in advance. Hunting spies is covert power, and every limit in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) still applies. On top of that: the response rules must be written and independently approved before any crisis; suspicion must rest on what someone did and whom they actually serve — including ties to hostile states and organizations — not on their birth, heritage, or beliefs; whistleblowers and journalists are not spies; no torture, no secret detention, no killing as punishment; and anyone investigated and cleared gets that on the official record.
 
 [Source](../../core_06.010_rights_part_c.md#article-xiv-d-counter-espionage-limits)
 
@@ -6583,13 +6721,13 @@ Part D covers standing and participation status, justice after verified violatio
 
 ##### Article XIX-A: Standing Distinction
 
-standing is about which roles and privileges you can use — nothing more. It is not your worth, your basic rights, whether you count as a sentient, or whether a system affects you. Having no record is normal and can't be held against you, and standing results can't be stitched together into a profile or public ranking.
+standing is about which roles and privileges you can use — nothing more. It is not your worth, your basic rights, whether you count as a sentient, or whether a system affects you. Having no standing record is normal and can't be held against you, and standing results can't be stitched together into a profile or public ranking.
 
 [Source](../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction)
 
 ##### Article XIX-B: Contestability and Proportional Restriction Limits
 
-these rules apply to every standing decision, whether it opens a role or closes one. Only verified records count — allegations and intake labels are not standing verdicts. Every record and decision must be open to real challenge, and no single authority or hidden algorithm may decide standing on its own. Any restriction must come with reasons, fit what was verified, and stay no broader than process or safety needs. Standing alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy.
+these rules apply to every standing decision, whether it opens a role or closes one. Only verified standing records count — allegations and intake labels are not standing verdicts. Every standing record and decision must be open to real challenge, and no single authority or hidden algorithm may decide standing on its own. Any restriction must come with reasons, fit what was verified, and stay no broader than process or safety needs. Standing alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy.
 
 [Source](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)
 
@@ -6709,7 +6847,7 @@ complexity cannot be used — technically, organizationally, contractually, or p
 
 #### Article XXIV: Root Cause Analysis and Adaptive Response
 
-**Article XXIV** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.
+**Article XXIV** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave an official record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.
 
 [Source](../../core_06.015_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response)
 
@@ -6739,7 +6877,7 @@ Constitutional Forums rule on constitutional questions, not on everything. They 
 
 ##### Article XXV-B: Challenge Rights and Independent Review
 
-if a ruling affects you, you can ask a different body to look at it again — not the panel that made it. That reviewer can fix, pause, or undo the ruling if the record shows a serious mistake, capture, or a Rights-Floor violation.
+if a ruling affects you, you can ask a different body to look at it again — not the panel that made it. That reviewer can fix, pause, or undo the ruling if the Forum Case Record shows a serious mistake, capture, or a Rights-Floor violation.
 
 [Source](../../core_06.015_rights_part_d.md#article-xxv-b-challenge-rights-and-independent-review)
 
@@ -6767,7 +6905,7 @@ Part E covers conflict resolution, review-and-resolution discipline, constitutio
 
 #### Article XXVI: Timely Retrospective Review and Restorative Alignment
 
-**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) is the conflict-resolution and review Rights Floor, and the companion to **Article XX** (*Justice After Verified Violation*). When sentients, systems, or institutions collide over constitutional Rights Floors, the answer is a fair, usable, contestable process — not indefinite delay or a permanent emergency. After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.
+**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) is the conflict-resolution and review Rights Floor, and the companion to **Article XX** (*Justice After Verified Violation*). When sentients, systems, or institutions collide over constitutional Rights Floors, the answer is a fair, usable, contestable process — not indefinite delay or a permanent emergency. After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the Constitutional Collision Record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](../../core_05.030_apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.
 
 [Source](../../core_06.020_rights_part_e.md#article-xxvi-timely-retrospective-review-and-restorative-alignment)
 
@@ -6779,7 +6917,7 @@ after the emergency, look back honestly and publish what you find — with only 
 
 ##### Article XXVI-B: Rights-Collision Procedure and Restorative Alignment
 
-rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Twelve** §4.3 (*Voluntary public accountability expression*) generally, and by **Chapter Thirteen** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct.
+rights conflicts must be resolved on the Constitutional Collision Record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Twelve** §4.3 (*Voluntary public accountability expression*) generally, and by **Chapter Thirteen** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct.
 
 [Source](../../core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment)
 
@@ -6949,7 +7087,7 @@ calling a rollback "implementation guidance," burying it in metadata, or calling
 
 #### 4. Layer scope
 
-Chapter Sixteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Eleven §8 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Thirteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
+Chapter Sixteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Eleven §9 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Thirteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
 
 [Source](../../core_16.000_non_regression.md#4-scope-limit-and-layer-discipline)
 
@@ -6989,7 +7127,7 @@ if the law of the land (or a treaty) is tougher than this **Constitution** on pr
 
 ##### 3.3 Conflict Disclosure and Mitigation
 
-when outside requirements and constitutional floors seem impossible to square, say so on the record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights.
+when outside requirements and constitutional floors seem impossible to square, say so on the official record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights.
 
 [Source](../../core_17.000_expansion_supremacy.md#33-conflict-disclosure-and-mitigation)
 
@@ -7035,7 +7173,7 @@ Source file: [`core_18.000_amendment_ratification.md`](../../core_18.000_amendme
 
 #### 1. Heightened Review for Rights-Affecting Changes
 
-if you are changing something that touches rights, forums' paths, or integrity rules, expect a harder lane — independent eyes and a public, contestable record before it counts as adopted.
+if you are changing something that touches rights, forums' paths, or integrity rules, expect a harder lane — independent eyes and a public, contestable official record before it counts as adopted.
 
 [Source](../../core_18.000_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes)
 
@@ -7131,7 +7269,7 @@ effect follows what is honestly recorded on a stated date or event — secret pa
 
 #### 12. Layer scope
 
-Chapter Eighteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Eleven §8 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Thirteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
+Chapter Eighteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Eleven §9 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Thirteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
 
 [Source](../../core_18.000_amendment_ratification.md#12-scope-limit-and-layer-discipline)
 

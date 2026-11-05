@@ -297,7 +297,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eleven — §4 LEQU baseline](core_11.000_standing_assessment.md#lequ-baseline-constitutional-outcome) (11.000 §4) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [Chapter Eleven §8 unified proportional LEQU scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §8) for the Contribution and Violation axes.
+- Canonical owner: [Chapter Eleven — §4 LEQU baseline](core_11.000_standing_assessment.md#lequ-baseline-constitutional-outcome) (11.000 §4) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [Chapter Eleven §9 unified proportional LEQU scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §9) for the Contribution and Violation axes.
 
 </details>
 
@@ -306,16 +306,16 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 *In plain terms: a shared unit for expressing full-life-equivalent benefit or loss when Chapter Eleven standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.*
 
 - **What it is**
-  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Eleven §8 unified scale](core_11.000_standing_assessment.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Five pointer; canonical mechanics live in Chapter Eleven **§8 Unified proportional LEQU scale — Contribution and Violation Axes**.
+  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Eleven §9 unified scale](core_11.000_standing_assessment.md#9-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Five pointer; canonical mechanics live in Chapter Eleven **§9 Unified proportional LEQU scale — Contribution and Violation Axes**.
   - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Chapter Eleven unified scale.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether LEQU is applied only as Chapter Eleven's unified scale requires — with contribution and violation kept separate and auditable.
 
-    **Primary assessment:** Apply **only** as implemented consistently with the Chapter Eleven **§8** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, preserving separate contribution and violation records. Read with [Materiality](core_05.050_band_oversight.md#materiality) where magnitude disputes are material.
+    **Primary assessment:** Apply **only** as implemented consistently with the Chapter Eleven **§9** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, preserving separate contribution and violation records. Read with [Materiality](core_05.050_band_oversight.md#materiality) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
 - **What must hold**
-  - **Primary failure:** undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Chapter Eleven **§8** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale calibration rules.
+  - **Primary failure:** undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Chapter Eleven **§9** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale calibration rules.
 
 ---
 
@@ -2687,7 +2687,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
   - **Primary failure:** Non-compliant framings include:
     - "not sentient, so no floor" — internal taxonomy or administrative classification used as scope-closing to deny the welfare floor without engaging substantive [Cruelty](core_05.035_band_accountability.md#cruelty) or welfare evidence;
     - treating covered entities as property inventory, pest labels, or scenery / amenities in a way that skips the welfare and continuity analysis required under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion);
-    - using Animal Life classification or the welfare floor alone to avoid [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life), [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life), or [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) where the record materially implicates elevated-communicative or sentience-relevant evidence;
+    - using Animal Life classification or the welfare floor alone to avoid [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life), [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life), or [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) where the official record materially implicates elevated-communicative or sentience-relevant evidence;
     - treating "Animal Life" as a species-only gate that excludes otherwise covered entities from this floor.
   - **Secondary failure — indefinite parking:** Parking an entity indefinitely at this Animal Life floor when material communicative or cognitive indicators implicate contested or affirmable sentience, without opening [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication), is non-compliant. The operator or steward must open that adjudication on a time-bound review — not a species list. Escalation opens [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) / [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) default inclusion; it does not itself affirm [Sentient](core_05.055_band_participation.md#sentient) status.
 
@@ -2721,7 +2721,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 - **What it is**
   - **Protection level:** Level 2 of the [*Treatment of Life by Status*](core_05.055_band_participation.md#treatment-of-life-by-status) protection ladder. It **includes** [Animal Life](core_05.055_band_participation.md#animal-life)'s cruelty / welfare floor and adds heightened habitat and environmental-health priority.
-  - **In scope — who:** Entities under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion) on [substrate-agnostic](core_05.055_band_participation.md#substrate-class) terms where the record shows strong communicative or cognitive indicators materially above the ordinary Animal Life welfare floor, including any of:
+  - **In scope — who:** Entities under [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion) on [substrate-agnostic](core_05.055_band_participation.md#substrate-class) terms where the official record shows strong communicative or cognitive indicators materially above the ordinary Animal Life welfare floor, including any of:
     - complex shared language, signaling, or communication systems;
     - high-complexity learning, memory, preference, or social-agency indicators; or
     - comparable precautionary-inclusion signals from populations with those traits.
@@ -2735,7 +2735,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
   - **Boundary — contested status:** This protection level does not decide full sentience status and does not attach the Chapter Six Rights-Floor by itself. Where status is live-contested, [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) (Level 3) applies; this Elevated floor continues **only** where this protection level's who-test remains met or more-protective overlap already applies under [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test). Status determination routes through [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication).
   - **Out of scope:**
     - ordinary Animal Life welfare-floor cases without strong communicative or cognitive indicators supporting this protection level;
-    - using this protection level as a permanent substitute for [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) or [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) where the record materially implicates contested or affirmable sentience; or
+    - using this protection level as a permanent substitute for [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) or [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) where the official record materially implicates contested or affirmable sentience; or
     - using this protection level as the exclusive frame for full Chapter Six Rights-Floor treatment after affirmed [Sentient](core_05.055_band_participation.md#sentient) attachment —
       that belongs under [Sentient](core_05.055_band_participation.md#sentient) and the Chapter Six Rights-Floor, which include this floor rather than replace it.
 <a id="elevated-communicative-life-constitutional-a"></a>
@@ -2761,7 +2761,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - treating strong communicative or cognitive indicators as Animal Life welfare-only cases that skip habitat and environmental-health priority;
     - using taxonomy labels, ownership status, ecological-management framing, or [Substrate Class](core_05.055_band_participation.md#substrate-class) to deny this protection level contrary to [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion);
     - degrading habitat or operating environment health for covered entities without engaging the heightened-priority analysis required under this entry and [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*);
-    - using Elevated Communicative Life classification alone to avoid [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) or [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) where the record materially implicates contested or affirmable sentience;
+    - using Elevated Communicative Life classification alone to avoid [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) or [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) where the official record materially implicates contested or affirmable sentience;
     - treating this protection level as a permanent moral underclass that narrows [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing) or blocks later Sentient recognition.
   - **Secondary failure — indefinite parking:** Parking an entity indefinitely at this Elevated Communicative Life level when material communicative or cognitive indicators implicate contested or affirmable sentience, without opening [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication), is non-compliant. The operator or steward must open that adjudication on a time-bound review — not a species list. Escalation opens [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) / [Contested-Sentient Life](core_05.055_band_participation.md#contested-sentient-life) default inclusion; it does not itself affirm [Sentient](core_05.055_band_participation.md#sentient) status.
 
@@ -2827,7 +2827,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
     **Primary assessment:** Reach substantive effect under [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03.000_definition_integrity.md#211-formal-label-and-representation-gaming).
     - Opening a live contested-status case requires a showing of a credible indicator under [Sentience Evaluation](core_05.055_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05.055_band_participation.md#sentience-evaluation-e); once the case is lawfully open, apply default inclusion. Do not treat the opening showing as a certainty requirement.
-    - Where the record materially implicates sentience-relevant evidence, apply the [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default-inclusion rule regardless of whether the entity is also covered by:
+    - Where the official record materially implicates sentience-relevant evidence, apply the [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default-inclusion rule regardless of whether the entity is also covered by:
       - [Animal Life](core_05.055_band_participation.md#animal-life);
       - [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life);
       - [Natural Systems Standing](core_05.055_band_participation.md#natural-systems-standing); or
@@ -3084,7 +3084,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 *In plain terms: a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, who represents the entity, how declined filings are logged, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.*
 
 - **What it is**
-  - **In scope:** The bounded, reviewable record produced or updated when [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) runs under **Article VI-B** (*Sentience-Status Adjudication Floor*). A **Sentience-Status Adjudication Record** states at least:
+  - **In scope:** The bounded, reviewable Sentience-Status Adjudication Record produced or updated when [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) runs under **Article VI-B** (*Sentience-Status Adjudication Floor*). A **Sentience-Status Adjudication Record** states at least:
     - the subject entity;
     - the status determination or live contested posture, including:
       - affirmed;
@@ -3113,12 +3113,12 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - a [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) as the whole dispute file;
     - a [Standing Record](core_05.035_band_accountability.md#standing-record), standing effect, or merged merit score;
     - [Substrate Class](core_05.055_band_participation.md#substrate-class) labels or operator self-description offered as status; and
-    - appointments schedules, filing-form libraries, or sequencing manuals except insofar as adopted implementation text instantiates this record.
+    - appointments schedules, filing-form libraries, or sequencing manuals except insofar as adopted implementation text instantiates this Sentience-Status Adjudication Record.
 <a id="sentience-status-adjudication-record-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the status file is complete enough to contest, reopen, and reverse wrongful narrowing.
 
-    **Primary assessment:** Check that the record:
+    **Primary assessment:** Check that the Sentience-Status Adjudication Record:
     1. identifies the subject and the status posture clearly enough for independent review;
     2. names the lead forum family and any special route actually used;
     3. states the evidence and uncertainty relied on in [Auditability](core_05.050_band_oversight.md#auditability)-compatible form;
@@ -3135,11 +3135,11 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - a substrate label;
       - an intake tag; or
       - an incomplete case note; or
-    - using the record to withhold, narrow, or revoke Chapter Six protection on unresolved uncertainty alone;
+    - using the Sentience-Status Adjudication Record to withhold, narrow, or revoke Chapter Six protection on unresolved uncertainty alone;
   - **Secondary failure:**
     - missing required minimum fields under [Chapter Fourteen §5 Escalation and questions for ruling](core_14.000_forum.md#5-escalation-and-questions-for-ruling) when adjudication has run;
     - concealed, non-contestable, or non-inspectable status findings; or
-    - treating the record as a [Standing Record](core_05.035_band_accountability.md#standing-record) or as the whole [Forum Case Record](core_05.035_band_accountability.md#forum-case-record);
+    - treating the Sentience-Status Adjudication Record as a [Standing Record](core_05.035_band_accountability.md#standing-record) or as the whole [Forum Case Record](core_05.035_band_accountability.md#forum-case-record);
   - **Tertiary failure:**
     - refusing reopening on new verified evidence; or
     - presenting an appointments or filing manual as if it were this status record.
@@ -3190,7 +3190,7 @@ Where admission scope is met, this cluster is the place those rules live togethe
 
 - **how the decision gets made** — a published, transparent, auditable sequence for participation, representation, contest, and any proportional influence;
 - **who gets how much say** — published, bounded weighting by impact, dependency, standing, or similar factors, open to contest and revalidation; and
-- **what the record must show when rights collide** — the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
+- **what the Stakeholder Rights-Collision Record must show when rights collide** — the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
 
 It does not replace [Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **[Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility)**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
 
@@ -3311,24 +3311,24 @@ See **Anti-Segmentation Principle**.
 
 ##### Stakeholder Rights-Collision Record (Binding Stakeholder Choice)
 
-*In plain terms: when a binding stakeholder choice turns on a material conflict among rights or structural duties, the record must show the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.*
+*In plain terms: when a binding stakeholder choice turns on a material conflict among rights or structural duties, the Stakeholder Rights-Collision Record must show the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.*
 
 - **What it is**
-  - **In scope:** The record elements required when a binding stakeholder choice **turns on material conflict** among:
+  - **In scope:** The Stakeholder Rights-Collision Record elements required when a binding stakeholder choice **turns on material conflict** among:
     - constitutional Rights Floors;
     - protections; or
     - structural duties —
     the **Stakeholder System Participation** record discipline read together with:
     - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test); and
     - **Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*).
-  - This record is the Stakeholder System Participation instance of the [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements — rights in tension to the operative rule and triggering facts; feasible alternatives to alternatives considered; least-restrictive rationale and accepted trade-offs to the basis for selection; uncertainty treatment to evidence and uncertainty; review or reversal triggers to review triggers — and do not narrow them.
+  - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements — rights in tension to the operative rule and triggering facts; feasible alternatives to alternatives considered; least-restrictive rationale and accepted trade-offs to the basis for selection; uncertainty treatment to evidence and uncertainty; review or reversal triggers to review triggers — and do not narrow them.
   - **Out of scope:**
     - ordinary meeting minutes; or
     - the Chapter One rights-collision procedure itself when no binding stakeholder choice turns on the conflict.
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether binding rights-affecting stakeholder choices carry a usable rights-collision record — not silent or opaque trade-offs.
 
-    **Primary assessment:** The record must identify:
+    **Primary assessment:** The Stakeholder Rights-Collision Record must identify:
     - rights in tension;
     - feasible alternatives;
     - least-restrictive rationale;
@@ -3339,7 +3339,7 @@ See **Anti-Segmentation Principle**.
 - **What must hold**
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or
-    - the required record pieces are missing when a real rights conflict is in play.
+    - the required Stakeholder Rights-Collision Record pieces are missing when a real rights conflict is in play.
   - Owner floor: [Chapter Fifteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_15.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---

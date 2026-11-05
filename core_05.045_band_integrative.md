@@ -232,7 +232,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 
 <br>
 
-*In plain terms: the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.*
+*In plain terms: the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the official record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.*
 
 - **What it is**
   - **In scope:** The rule, chosen and published by the adopter, that authorizes **governing authority** — the power to make or enforce decisions that materially affect sentients. It states:
@@ -464,7 +464,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5) (*the minimum contents of the record*); [Article XXVI-B](core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
+- Downstream: Principles: [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5) (*the minimum contents of the Constitutional Collision Record*); [Article XXVI-B](core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 - Read with:
   - [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision),
   - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record),
@@ -491,7 +491,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - the review triggers.
 
     A Collision Record may be embodied in an applicable process-specific official record, such as a Forum Case Record, a Standing Record, a System Certification Record, or a [Stakeholder Rights-Collision Record](core_05.055_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice). No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path. Confidentiality limits on a Collision Record follow [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints): maximum feasible partial disclosure, plus independent reviewer access.
-  - **Depends on:** [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision) (what is being resolved) and [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) (the record that carries it).
+  - **Depends on:** [Constitutional Collision](core_05.045_band_integrative.md#constitutional-collision) (what is being resolved) and [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) (the Constitutional Collision Record that carries it).
   - **Out of scope:** A bare conclusion, a template filled without the required elements, or a rationale written after the fact that the official record does not support is not a Collision Record. A Collision Record does not itself decide the collision, and it does not become a [Standing Record](core_05.035_band_accountability.md#standing-record), merits determination, or forum record unless the applicable process independently makes it one.
 <a id="constitutional-collision-record-a"></a>
 - **How to measure and assess**
@@ -500,16 +500,16 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     **Primary assessment:** For each material Constitutional Collision resolution, check:
     - that all five required elements are present, with non-action among the alternatives and review triggers set;
     - that evidence and uncertainty treatment scale with expected harm severity, irreversibility, dependency concentration, and uncertainty;
-    - that the record links to the Act Record of the resolving act and resolves to the same act; and
+    - that the Constitutional Collision Record links to the Act Record of the resolving act and resolves to the same act; and
     - that an affected party or independent reviewer with lawful access can reconstruct the decision from the official record path, without relying on the decider's later account.
 <a id="constitutional-collision-record-c"></a>
 - **What must hold**
   - **Primary failure:** Non-compliant when:
     - a material Constitutional Collision is resolved without a Collision Record;
-    - the record omits a required element, such as non-action among the alternatives or the review triggers;
-    - the record states a conclusion without the basis for selecting it;
-    - the record is not linked to the Act Record of the resolving act, or cannot be reconstructed from the official record path; or
-    - confidentiality is used to withhold the record from independent reviewers.
+    - the Constitutional Collision Record omits a required element, such as non-action among the alternatives or the review triggers;
+    - the Constitutional Collision Record states a conclusion without the basis for selecting it;
+    - the Constitutional Collision Record is not linked to the Act Record of the resolving act, or cannot be reconstructed from the official record path; or
+    - confidentiality is used to withhold the Constitutional Collision Record from independent reviewers.
 
     A Collision Record that does not reflect how the collision was actually decided is also non-compliant.
 
@@ -934,7 +934,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **In scope:** The default that governance-relevant information stays open to inspection and verification:
     - **When it applies:** where [material stake](core_00.000_preamble.md#material-stake) calls for it and the applicable information-type rules permit it.
     - **What must stay available:** governance-relevant data, audit paths, and review tools, accessible to materially affected sentients. They must not be locked inside a single operator, vendor, or oversight bloc.
-    - **What this default favors:** inspectable processes, contestable records, and independent verification, consistent with [Chapter One §16.3 Openness Aspiration](core_01.010_stewardship_capacity_principles.md#163-openness-aspiration).
+    - **What this default favors:** inspectable processes, contestable official records, and independent verification, consistent with [Chapter One §16.3 Openness Aspiration](core_01.010_stewardship_capacity_principles.md#163-openness-aspiration).
     - **Subject to:** [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) and [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications). These include Type N (data that is non-accessible by default) and other classification limits on what may be collected, published, retained, or reconstructed.
   - **Out of scope:** disclosure that information-type rules forbid. Openness is a default that yields to those limits, not a way around them.
 <a id="open-systems-data-and-auditing-a"></a>
@@ -974,7 +974,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
       - proportionate clawback;
       - knowing-acceptance reporting; and
       - correction.
-  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Eleven §5 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#5-question-2--how-good-or-bad-was-it), using [Chapter Eleven §5.1 Contribution magnitude-input dimensions](core_11.000_standing_assessment.md#51-contribution-magnitude-input-dimensions) and [§5.2 Violation severity-input dimensions](core_11.000_standing_assessment.md#52-violation-severity-input-dimensions).
+  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Eleven §6 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#6-question-2--how-good-or-bad-was-it), using [Chapter Eleven §6.1 Contribution magnitude-input dimensions](core_11.000_standing_assessment.md#61-contribution-magnitude-input-dimensions) and [§6.2 Violation severity-input dimensions](core_11.000_standing_assessment.md#62-violation-severity-input-dimensions).
 <a id="misaligned-reward-correction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether verified misalignment actually costs the rewards it produced.
