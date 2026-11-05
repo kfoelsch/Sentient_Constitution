@@ -319,7 +319,7 @@
       "term": "Certification Pass",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#certification-pass",
-      "plain_terms": "a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](../../core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](../../core_05.040_band_continuity.md#fresh-review).",
+      "plain_terms": "a **certification pass** is one full run of the certification work for one System or one Institution, from framing the work to recording the outcome. Every certification pass ends in an outcome and opens its own System Certification Record, linked to the last. A **later certification pass** is any certification pass after the first: a recertification, a [Reopened Review](../../core_05.040_band_continuity.md#reopened-review), or a [Fresh Review](../../core_05.040_band_continuity.md#fresh-review).",
       "href": "../../core_05.040_band_continuity.md#certification-pass"
     },
     {
@@ -333,7 +333,7 @@
       "term": "Challenge Path",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#challenge-path",
-      "plain_terms": "a **challenge path** is the published route a sentient uses to contest a certification: who receives a challenge, how to file it, and the windows. It must be named on the record before any forum signs off, and it opens when the outcome is published.",
+      "plain_terms": "a **challenge path** is the published route a sentient uses to contest a certification: who receives a challenge, how to file it, and the windows. It must be named on the System Certification Record before any forum signs off, and it opens when the outcome is published.",
       "href": "../../core_05.040_band_continuity.md#challenge-path"
     },
     {
@@ -515,7 +515,7 @@
       "term": "Contest Seat",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#contest-seat",
-      "plain_terms": "the Contest Seat is the role that receives and reviews a challenge to a particular act or its record, orders correction or limits where authorized, and sends any issue it cannot decide to the proper independent path. Receiving a complaint is not enough if the recipient cannot review or route it.",
+      "plain_terms": "the Contest Seat is the role that receives and reviews a challenge to a particular act or its Act Record, orders correction or limits where authorized, and sends any issue it cannot decide to the proper independent path. Receiving a complaint is not enough if the recipient cannot review or route it.",
       "href": "../../core_05.035_band_accountability.md#contest-seat"
     },
     {
@@ -634,7 +634,7 @@
       "term": "Documented Legitimacy Mechanism",
       "file": "core_05.045_band_integrative.md",
       "anchor": "#documented-legitimacy-mechanism",
-      "plain_terms": "the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.",
+      "plain_terms": "the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement. If there is no such rule on the official record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.",
       "href": "../../core_05.045_band_integrative.md#documented-legitimacy-mechanism"
     },
     {
@@ -648,7 +648,7 @@
       "term": "Due Process",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#due-process-constitutional",
-      "plain_terms": "decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve a record that supports review.",
+      "plain_terms": "decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve an official record that supports review.",
       "href": "../../core_05.035_band_accountability.md#due-process"
     },
     {
@@ -879,7 +879,7 @@
       "term": "Fresh Review",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#fresh-review",
-      "plain_terms": "a **fresh review** is a later certification pass that the forum orders in answer to a certification defect, as one of the responses open to it. Like any later certification pass, it opens a new record.",
+      "plain_terms": "a **fresh review** is a later certification pass that the forum orders in answer to a certification defect, as one of the responses open to it. Like any later certification pass, it opens a new System Certification Record.",
       "href": "../../core_05.040_band_continuity.md#fresh-review"
     },
     {
@@ -1145,7 +1145,7 @@
       "term": "Interested Party",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#interested-party",
-      "plain_terms": "an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the record, and an interested party cannot also be the one who checks, records, or decides it.",
+      "plain_terms": "an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the official record, and an interested party cannot also be the one who checks, records, or decides it.",
       "href": "../../core_05.035_band_accountability.md#interested-party"
     },
     {
@@ -1502,7 +1502,7 @@
       "term": "Portfolio",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#portfolio",
-      "plain_terms": "an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own record.",
+      "plain_terms": "an Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls. Its Institutional Certification Record tests the portfolio as a whole, and each System in it keeps its own System Certification Record.",
       "href": "../../core_05.040_band_continuity.md#portfolio"
     },
     {
@@ -1663,14 +1663,14 @@
       "term": "Record Custodian",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#record-custodian",
-      "plain_terms": "the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.",
+      "plain_terms": "the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the official record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.",
       "href": "../../core_05.035_band_accountability.md#record-custodian"
     },
     {
       "term": "Record Integrity",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#record-integrity-constitutional",
-      "plain_terms": "a record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the sentients entitled to check it can reach it. A completed record is never rewritten. Changes are added as new versions, and the old ones stay.",
+      "plain_terms": "an official record can be relied on only if you can tell who made it, what it said at each point, that nothing was quietly changed or dropped, and that the sentients entitled to check it can reach it. A completed official record is never rewritten. Changes are added as new versions, and the old ones stay.",
       "href": "../../core_05.035_band_accountability.md#record-integrity"
     },
     {
@@ -1684,7 +1684,7 @@
       "term": "Record-Opening Authority",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#record-opening-authority",
-      "plain_terms": "the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that record. It does not keep the record, which is the Record Custodian's job, and it does not hear a challenge to the record, which is the Contest Seat's job. It cannot be the record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.",
+      "plain_terms": "the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that official record. It does not keep the official record, which is the Record Custodian's job, and it does not hear a challenge to the official record, which is the Contest Seat's job. It cannot be the official record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.",
       "href": "../../core_05.035_band_accountability.md#record-opening-authority"
     },
     {
@@ -1705,7 +1705,7 @@
       "term": "Reliance Limits",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#reliance-limits",
-      "plain_terms": "**reliance limits** are limits, stated on the record, on how far anyone may rely on a System or an Institution. They come with a certification outcome or are placed while a matter is pending.",
+      "plain_terms": "**reliance limits** are limits, stated on the System or Institutional Certification Record, on how far anyone may rely on a System or an Institution. They come with a certification outcome or are placed while a matter is pending.",
       "href": "../../core_05.040_band_continuity.md#reliance-limits"
     },
     {
@@ -1726,14 +1726,14 @@
       "term": "Reopened Review",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#reopened-review",
-      "plain_terms": "a **reopened review** is a certification pass of a System or an Institution that already holds a record, begun before the next scheduled recertification because a [Reopening Trigger](../../core_05.040_band_continuity.md#reopening-trigger) has fired. It opens a new record linked to the last.",
+      "plain_terms": "a **reopened review** is a certification pass of a System or an Institution that already holds a System or Institutional Certification Record, begun before the next scheduled recertification because a [Reopening Trigger](../../core_05.040_band_continuity.md#reopening-trigger) has fired. It opens a new System or Institutional Certification Record linked to the last.",
       "href": "../../core_05.040_band_continuity.md#reopened-review"
     },
     {
       "term": "Reopening Trigger",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#reopening-trigger",
-      "plain_terms": "a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the record.",
+      "plain_terms": "a **reopening trigger** is a material change or report that justifies reopening a certification before its scheduled date. Triggers are stated on the System or Institutional Certification Record.",
       "href": "../../core_05.040_band_continuity.md#reopening-trigger"
     },
     {
@@ -1922,7 +1922,7 @@
       "term": "Standing Effect",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#standing-effect-chapter-six",
-      "plain_terms": "Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.",
+      "plain_terms": "Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those standing records and cannot merge, average, net, or offset the Contribution and Violation axes.",
       "href": "../../core_05.035_band_accountability.md#standing-effect"
     },
     {
@@ -2181,7 +2181,7 @@
       "term": "Urgent Protection",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#urgent-protection",
-      "plain_terms": "**urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the record.",
+      "plain_terms": "**urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the System Certification Record.",
       "href": "../../core_05.040_band_continuity.md#urgent-protection"
     },
     {

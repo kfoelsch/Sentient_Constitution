@@ -370,7 +370,7 @@ A holder may use staff or tools to help with the seat's work, such as gathering 
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Necessity](core_05.035_band_accountability.md#necessity);
   - [Proportionality](core_05.035_band_accountability.md#proportionality).
-- Downstream: [Chapter Eleven §5.7](core_11.000_standing_assessment.md#57-informal-and-small-scope-records) (11.000 §5.7); [CJS-19.110 §4](corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*).
+- Downstream: [Chapter Eleven §5.9](core_11.000_standing_assessment.md#59-informal-and-small-scope-records) (11.000 §5.9); [CJS-19.110 §4](corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md#cjs-19110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-8.205 §2](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*Functional separation lanes*).
 - Read with: [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) and Chapter One [§3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process).
 
 </details>

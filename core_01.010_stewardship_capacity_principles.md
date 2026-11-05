@@ -2007,7 +2007,7 @@ Concentrated or obscured control structures that materially undermine any of the
 
 - Once misalignment is verified, material rewards from misaligned or corrupt reward pathways must not be kept as silent standing credit or shielded benefit.
 - [Chapter Twelve §5.4 Special violation rules](core_12.000_standing_integration.md#54-special-violation-rules) governs forfeiture, proportionate clawback, knowing-acceptance reporting, and correction.
-- How good or bad the verified contribution or violation was is rated under [Chapter Eleven §6 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#6-question-2--how-good-or-bad-was-it), not here.
+- How good or bad the verified contribution or violation was is rated under [Chapter Eleven §7 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#7-question-2--how-good-or-bad-was-it), not here.
 
 <a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 19.5 Contingent Claims, Games of Chance, and Event-Contract Markets

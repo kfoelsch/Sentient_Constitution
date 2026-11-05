@@ -161,7 +161,7 @@ If either of these happens, publishing stops being optional.
 
 The Operating Party must then publish the System Charter or Institutional Charter that fits it, on the schedule in [§1.5 When a System Charter or Institutional Charter is due](#15-when-a-system-charter-or-institutional-charter-is-due).
 
-**Recognition does not depend on a scope document.** A group, with or without a System Charter or Institutional Charter and whatever its class, does not stand between its members and recognition. Each member may seek a contribution record as an individual claimant, for work done inside the group or outside it, and the standing record concerns the member's contribution and not the group's standing ([Chapter Eleven §5.7 Informal and small-scope records](core_11.000_standing_assessment.md#57-informal-and-small-scope-records)). Giving aid, goods, labor, or services that no one is required to accept is not a materially binding act, so a mutual aid circle that gives quilts to refugees needs no System Charter or Institutional Charter for its members to be recognized.
+**Recognition does not depend on a scope document.** A group, with or without a System Charter or Institutional Charter and whatever its class, does not stand between its members and recognition. Each member may seek a contribution record as an individual claimant, for work done inside the group or outside it, and the standing record concerns the member's contribution and not the group's standing ([Chapter Eleven §5.9 Informal and small-scope records](core_11.000_standing_assessment.md#59-informal-and-small-scope-records)). Giving aid, goods, labor, or services that no one is required to accept is not a materially binding act, so a mutual aid circle that gives quilts to refugees needs no System Charter or Institutional Charter for its members to be recognized.
 
 <a id="15-when-a-system-charter-or-institutional-charter-is-due"></a>
 #### 1.5 When a System Charter or Institutional Charter is due
@@ -609,7 +609,7 @@ A map with gaps makes the System Charter or Institutional Charter invalid. The m
 <a id="472-while-a-gap-is-open"></a>
 ##### 4.7.2 While a gap is open
 
-Until it is resolved, none of the Chartered Party's own offices can issue a valid standing record for the affected scope.
+Until the gap is resolved, no one may perform the function of the unfilled seat except by the route below. A standing record made any other way for the affected scope is not valid.
 
 - **Where the standing record goes:** The standing record goes to the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)) to verify and the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)) to hold, or to a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority), *No self-custody*).
 - **When custody goes back:** The Backup Record Authority and Backup Record Custodian keep handling the standing record until all three of these have happened. Then custody goes back to the named holders.

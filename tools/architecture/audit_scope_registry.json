@@ -539,6 +539,9 @@
    "scope": "not-file-based",
    "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
   },
+  "list-label-echo-audit": {
+   "scope": "corpus"
+  },
   "lexical-vocabulary-audit": {
    "scope": "corpus"
   },

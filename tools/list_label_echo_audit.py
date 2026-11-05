@@ -4,7 +4,7 @@
 A list item written ``- **Label:** body`` spends its label on one idea and its
 body on the detail. When the body says nothing the label did not —
 
-    - **Is invalid:** The charter is invalid.
+    - **Is invalid:** The seat is invalid.
 
 — the reader gets the same words twice. The fix is to fold the item into its
 neighbour, or to write a label that names a distinct idea.
