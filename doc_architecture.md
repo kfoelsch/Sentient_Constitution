@@ -197,6 +197,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | MD-GLOSS-CLOSE-01 | An italic `*In plain terms: ...` gloss paragraph ends with a closing `*`. A missing closer renders a literal leading asterisk and drops the italics. | `make corpus-markdown-audit` |
 | MD-HEADING-TOPIC-01 | Numbered section's first body-prose line (after widgets and `*In plain terms*` gloss) must not restate that heading as a topic sentence (`**[§13.2 Title](#…):**`). Heading-echo run-in labels are MD-HEADING-RUNIN-01. | `make heading-echo-topic-audit` |
 | MD-HEADING-RUNIN-01 | A section's first body line must not open with a bold run-in label that restates its own heading (`**Governance as authorized structure.**` under `#### 11.1 Governance as Authorized Structure`). Bold terms used as a sentence subject, and labels that add a distinct idea, are out of scope. | `make heading-runin-echo-audit` |
+| MD-LABEL-ECHO-01 | A list item's bold label must not be restated by its own body (`- **Is invalid:** The charter is invalid.`). Fold the item into its neighbour or write a label that names a distinct idea. Cross-reference rows (`— …`, `§` pointers) and lead-ins ending in `:` are out of scope. Blocking in `make regression`. | `make list-label-echo-audit` |
 | MD-SECTION-LEAD-01 | A section's first body line (after widgets, spacers, callouts, and `*In plain terms*` gloss) is lead-in prose, not a bare list item. Container sections whose first content is a child heading are out of scope. **Carve-out:** Chapter Five definition files (`core_05.*.md`), whose entries open with O / E / C bullets by design. Blocking (`make regression`). | `make section-bullet-lead-audit` |
 | VIS-CHART-READABILITY-01 | Mermaid chart boxes with a title and explanatory content use `<br/><br/>` between the title and content for a blank visual line. | Manual (see **Chart readability standard** below) |
 | VIS-CHART-THEME-02 | Reader-facing Mermaid nodes use transparent fills, white labels, and the shared semantic-outline palette; do not rely on renderer-default label colors. | Manual (see **Chart color and theme standard** below) |
@@ -1285,6 +1286,20 @@ A section's first body line — after Trace / D/A/C widgets, `<br>` spacers, and
 **Out of scope:** a bold heading term used as the subject of a real sentence (`**[Market Structure](…)** governs whether …`); labels sharing only one content word with the heading; run-in labels anywhere after the first body line.
 
 **Audit:** `make heading-runin-echo-audit`.
+
+---
+
+### Bullet label not restated by its body (MD-LABEL-ECHO-01)
+
+A list item written `- **Label:** body` spends the label on one idea and the body on the detail. When the body only says the label again, the reader gets the same words twice.
+
+**Fails:** `- **Is invalid:** The charter is invalid.` (the body adds one generic noun and nothing else).
+
+**Use instead:** merge the item into the bullet beside it, or give the label a distinct idea and let the body carry the rule.
+
+**How it is flagged:** every content word of the label reappears in the body, in the same order; the body adds at most one other content word; and the whole body is at most 12 words. Bodies that open with `—` or `(`, contain a `§` cite, or end with `:` are skipped, as are fenced code, comments, and Trace (`<details>`) blocks.
+
+**Audit:** `make list-label-echo-audit` (blocking; `--advisory` reports without failing); unit test `make list-label-echo-audit-test`.
 
 ---
 

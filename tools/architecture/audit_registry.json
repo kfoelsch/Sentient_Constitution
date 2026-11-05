@@ -257,6 +257,12 @@
       "run": "auto",
       "writes": false
     },
+    "list-label-echo-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false,
+      "note": "MD-LABEL-ECHO-01; in make regression (blocking in the bundle); standalone run exits 0 unless --strict"
+    },
     "nav-widget-spacer-audit": {
       "category": "layout",
       "run": "auto",
@@ -735,6 +741,11 @@
       "writes": false
     },
     "heading-runin-echo-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "list-label-echo-audit-test": {
       "category": "tests",
       "run": "auto",
       "writes": false

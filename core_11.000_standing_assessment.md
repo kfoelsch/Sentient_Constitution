@@ -736,8 +736,8 @@ The following may not act as record-opening authority or record custodian for a 
 
 Beyond that exclusion:
 
-- **Stewards inside the subject:** A steward inside the subject who exercises Critical System Stewardship or material operational authority retains every duty under [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) and [CS-15.305 §10 inspectable attributable action](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action) — halt what they control, log the reconstructable set, preserve evidence they hold, notify, and escalate — and none of those acts is verification of the facts or entry of the standing record.
-- **Independent verification:** Where the ordinary record-opening authority is itself the subject or sits in that line, the standing record routes to independent verification: a forum under **section 2.7**, the independent investigative service under **CF-14.435 §6** (*No self-investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or designation names first.
+- **Stewards inside the subject:** A steward who is part of the standing record's subject (that is, works within the party, chartered scope, or system the standing record is about) and who exercises Critical System Stewardship or material operational authority retains every duty under [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) and [CS-15.305 §10 inspectable attributable action](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action) — halt what they control, log the reconstructable set, preserve evidence they hold, notify, and escalate — and none of those acts is verification of the facts or entry of the standing record.
+  - **Independent verification:** Where the ordinary record-opening authority is itself the subject or sits in that line, the standing record routes to independent verification: a forum under **section 2.7**, the independent investigative service under **CF-14.435 §6** (*No self-investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or designation names first.
 - **Defaults:** Where none is named, the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)) is the default record-opening authority and the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)) is the default custodian.
 - **No named route:** Absence of any such named route is a gap the steward must name in the log, not a reason to enter the standing record themselves.
 - **Two rules together:** This rule excludes parties by their interest in the standing record; [§5.1 Separation of duties](#51-separation-of-duties) separates seats by function. Both apply, and the narrower answer controls.
@@ -746,7 +746,15 @@ Beyond that exclusion:
 
 #### 5.5 When a System Charter or Institutional Charter leaves a seat unnamed
 
-A System Charter or Institutional Charter that leaves a required record seat or the independent route unnamed is invalid, and a change that would do so is not allowed ([Chapter Seven §4.7.1 When a gap exists and how it is logged](core_07.000_charters.md#471-when-a-gap-exists-and-how-it-is-logged)). [Chapter Seven §4.7 Gaps in the map for operator standing records](core_07.000_charters.md#47-gaps-in-the-map-for-operator-standing-records) also owns how a gap is logged, the response and resolution windows (including emergency substitution), and when custody goes back to the named holders. For standing records, this section adds:
+A System Charter or Institutional Charter that leaves a required record seat or the independent route unnamed:
+
+- **Consequence:** The charter is invalid, and a change that would do so is not allowed ([Chapter Seven §4.7.1 When a gap exists and how it is logged](core_07.000_charters.md#471-when-a-gap-exists-and-how-it-is-logged)).
+- **Chapter Seven owns the gap process:** [Chapter Seven §4.7 Gaps in the map for operator standing records](core_07.000_charters.md#47-gaps-in-the-map-for-operator-standing-records) also owns:
+  - how a gap is logged;
+  - the response and resolution windows (including emergency substitution); and
+  - when custody goes back to the named holders.
+
+For standing records, this section adds:
 
 - **Who may not act:** Until the gap is resolved, none of the Chartered Party's own offices, and no office in its Material Control Line, may verify, enter, or contest a standing record for the affected scope.
 - **Where the standing record goes:** The standing record goes to the Backup Record Authority and the Backup Record Custodian, or to a forum under **section 2.7**, as [§5.4 No self-custody](#54-no-self-custody) provides, and the lane map does not stand in. Each standing record stays whole with one custodian.

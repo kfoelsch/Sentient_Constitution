@@ -106,6 +106,7 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `ch1-cjs3-alignment-audit` | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Also in `make regression`; Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 oDef clusters |
 | `ch1-ch6-alignment-audit` | `tools/ch1_ch6_alignment_audit.py` | — | Preamble / Chapter One ↔ Chapter Six articles, including Def.* and oDef cites |
 | `section-bullet-lead-audit` (+ `-summary`, `-test`) | `tools/section_bullet_lead_audit.py` | MD-SECTION-LEAD-01 | Sections open with lead-in prose, not a list item; Chapter Five definition files exempt. In `make regression` (blocking) |
+| `list-label-echo-audit` (+ `-test`) | `tools/list_label_echo_audit.py` | MD-LABEL-ECHO-01 | A bullet's bold label is not restated by its own body (`- **Is invalid:** The charter is invalid.`); in `make regression` (blocking) |
 
 ### Definition appropriateness finding taxonomy (`definition-appropriateness-audit`)
 
