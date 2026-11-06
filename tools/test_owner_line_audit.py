@@ -76,7 +76,7 @@ class CoreTests(unittest.TestCase):
         self.assertTrue(self.check("core_00.000_preamble.md", core(bad)))
 
     def test_non_owner_files_must_say_so(self):
-        name = "core_11.005_application_vignettes.md"
+        name = "core_11.010_application_vignettes.md"
         ok = "These vignettes are illustrative and own no rule.\n\n*In plain terms: x*\n"
         self.assertEqual(self.check(name, core(ok)), [])
         self.assertTrue(self.check(name, core("*In plain terms: x*\n")))

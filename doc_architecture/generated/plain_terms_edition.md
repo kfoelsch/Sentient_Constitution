@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **761** of **1223** headings carry a gloss (62%).
+Coverage: **763** of **1225** headings carry a gloss (62%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **761** of **1223** headings carry a gloss (62%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05.020_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (86/98 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (87/99 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (63/124 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
@@ -36,12 +36,13 @@ Coverage: **761** of **1223** headings carry a gloss (62%).
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (10/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
-- [CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-eleven-contribution-violation-and-standing-model--measurement) — `core_11.000_standing_assessment.md` (14/59 glossed)
+- [CHAPTER ELEVEN, PART A: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-part-a-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
+- [CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) — `core_11.005_standing_measurement.md` (7/17 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER THIRTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-thirteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_13.005_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER FOURTEEN: FORUMS AND JURISDICTION](#chapter-fourteen-forums-and-jurisdiction) — `core_14.000_forum.md` (9/29 glossed)
-- [CHAPTERS ELEVEN–FOURTEEN: PIPELINE APPLICATION VIGNETTES](#chapters-elevenfourteen-pipeline-application-vignettes) — `core_11.005_application_vignettes.md` (9/35 glossed)
+- [CHAPTERS ELEVEN–FOURTEEN: PIPELINE APPLICATION VIGNETTES](#chapters-elevenfourteen-pipeline-application-vignettes) — `core_11.010_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.000_rights_part_a.md` (28/31 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.005_rights_part_b.md` (42/43 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06.010_rights_part_c.md` (33/34 glossed)
@@ -1239,7 +1240,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 86/98 headings glossed
+Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 87/99 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1384,6 +1385,12 @@ a binding decision on the actual substance of a dispute — such as liability, r
 a temporary, documented pause or limit while further review or a required finding is completed. A Stay controls timing or sequence; it never decides the merits.
 
 [Source](../../core_05.035_band_accountability.md#stay)
+
+##### Under Challenge
+
+**under challenge** is the status an official record carries while someone's challenge to it is open. The official record stays in view and keeps its earlier versions. Nobody has to stop relying on it unless the seat or forum hearing the challenge orders that.
+
+[Source](../../core_05.035_band_accountability.md#under-challenge)
 
 ##### Interim Hold
 
@@ -4945,9 +4952,9 @@ certification can feed standing, but it is not standing. An Institutional Certif
 
 [Source](../../core_10.000_institutional_alignment_certification.md#115-violation-standing-record)
 
-## CHAPTER ELEVEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT
+## CHAPTER ELEVEN, PART A: STANDING RECORDS — QUESTION 1, WHAT HAPPENED
 
-Source file: [`core_11.000_standing_assessment.md`](../../core_11.000_standing_assessment.md) · 14/59 headings glossed
+Source file: [`core_11.000_standing_assessment.md`](../../core_11.000_standing_assessment.md) · 8/43 headings glossed
 
 #### 1. The three questions
 
@@ -5201,101 +5208,105 @@ once custody is settled, four rules govern how the sentients and offices that ho
 
 [Source](../../core_11.000_standing_assessment.md#64-custody-is-not-delay-and-custody-is-not-ownership)
 
+## CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?
+
+Source file: [`core_11.005_standing_measurement.md`](../../core_11.005_standing_measurement.md) · 7/17 headings glossed
+
 #### 7. Question 2 — how good or bad was it?
 
 Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified harm. The axes remain separate; they are not two sides of a net score.
 
-[Source](../../core_11.000_standing_assessment.md#7-standing-measurement-evaluation-dimensions)
+[Source](../../core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions)
 
 ##### 7.1 Contribution magnitude-input dimensions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#71-magnitude-input-dimensions)
+[Source](../../core_11.005_standing_measurement.md#71-magnitude-input-dimensions)
 
 ##### 7.2 Violation severity-input dimensions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#72-violation-severity-input-dimensions)
+[Source](../../core_11.005_standing_measurement.md#72-violation-severity-input-dimensions)
 
 ##### 7.3 Contribution route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#73-route-descriptor-measurement-roles)
+[Source](../../core_11.005_standing_measurement.md#73-route-descriptor-measurement-roles)
 
 ##### 7.4 Violation route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#74-violation-route-descriptor-catalog-and-measurement-roles)
+[Source](../../core_11.005_standing_measurement.md#74-violation-route-descriptor-catalog-and-measurement-roles)
 
 ##### 7.5 Cross-question measurement hooks
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#75-dual-use-measurement-hooks)
+[Source](../../core_11.005_standing_measurement.md#75-dual-use-measurement-hooks)
 
 ###### 7.5.1 Similar-looking facts that must stay separate
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#751-similar-looking-facts-that-must-stay-separate)
+[Source](../../core_11.005_standing_measurement.md#751-similar-looking-facts-that-must-stay-separate)
 
 ##### 7.6 Measurement illustrations
 
 these illustrations begin with Question 1's verified facts, then show how **section 7** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 7–9**; Question 3 is answered in [Chapter Twelve](../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Twelve §10.1 Informal ecological stewardship / competency clearance](../../core_12.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](../../core_12.000_standing_integration.md#102-ecological-negligence-with-concealment).
 
-[Source](../../core_11.000_standing_assessment.md#76-question-1-measurement-illustrations)
+[Source](../../core_11.005_standing_measurement.md#76-question-1-measurement-illustrations)
 
 #### 8. Slot grammar and shared scaling
 
 this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other standing records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 10** assigns both axes by proportional LEQU impact.
 
-[Source](../../core_11.000_standing_assessment.md#8-slot-grammar-and-display-labels)
+[Source](../../core_11.005_standing_measurement.md#8-slot-grammar-and-display-labels)
 
 ##### 8.1 Table 1 — slot display labels
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#81-table-1--slot-display-labels)
+[Source](../../core_11.005_standing_measurement.md#81-table-1--slot-display-labels)
 
 ##### 8.2 Shared impact-scaling rules
 
 impact is not measured by headcount alone. A profound benefit or loss affecting one sentient may be more significant than a shallow effect affecting many. Count, depth, vulnerability, duration, durability, reach, and constitutional character must be assessed together.
 
-[Source](../../core_11.000_standing_assessment.md#82-shared-impact-scaling-rules)
+[Source](../../core_11.005_standing_measurement.md#82-shared-impact-scaling-rules)
 
 #### 9. Constitutional inputs to axis assignment
 
 before choosing a slot, identify the constitutional sources that say what baseline, benefit, duty, harm, or violation is being measured. Use the links below to apply those sources at their canonical homes; do not turn this routing step into another score or a substitute definition.
 
-[Source](../../core_11.000_standing_assessment.md#9-constitutional-inputs-to-axis-assignment)
+[Source](../../core_11.005_standing_measurement.md#9-constitutional-inputs-to-axis-assignment)
 
 ##### 9.1 Definition inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#91-definition-inputs)
+[Source](../../core_11.005_standing_measurement.md#91-definition-inputs)
 
 ##### 9.2 Principle inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#92-principle-inputs)
+[Source](../../core_11.005_standing_measurement.md#92-principle-inputs)
 
 ##### 9.3 Rights-Floor and Article inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.000_standing_assessment.md#93-rights-floor-and-article-inputs)
+[Source](../../core_11.005_standing_measurement.md#93-rights-floor-and-article-inputs)
 
 #### 10. Unified proportional LEQU scale — Contribution and Violation Axes
 
 **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The standing records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.
 
-[Source](../../core_11.000_standing_assessment.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes)
+[Source](../../core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes)
 
 ## CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION
 
@@ -5861,211 +5872,211 @@ forums need help before a case exists, while deciding, and after — inspectors 
 
 ## CHAPTERS ELEVEN–FOURTEEN: PIPELINE APPLICATION VIGNETTES
 
-Source file: [`core_11.005_application_vignettes.md`](../../core_11.005_application_vignettes.md) · 9/35 headings glossed
+Source file: [`core_11.010_application_vignettes.md`](../../core_11.010_application_vignettes.md) · 9/35 headings glossed
 
 #### 1. Child neglect / care-duty failure (Tier A)
 
 when children are going unfed and unsupervised, verified harm opens a standing record, help does not cancel it, and interim protection does not wait for a full trial.
 
-[Source](../../core_11.005_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a)
+[Source](../../core_11.010_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a)
 
 ##### Situation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#situation)
+[Source](../../core_11.010_application_vignettes.md#situation)
 
 ##### Legacy failure mode
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#legacy-failure-mode)
+[Source](../../core_11.010_application_vignettes.md#legacy-failure-mode)
 
 ##### Pipeline pass
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#pipeline-pass)
+[Source](../../core_11.010_application_vignettes.md#pipeline-pass)
 
 ##### Milestone table (Tier A defaults)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#milestone-table-tier-a-defaults)
+[Source](../../core_11.010_application_vignettes.md#milestone-table-tier-a-defaults)
 
 ##### Must not happen
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#must-not-happen)
+[Source](../../core_11.010_application_vignettes.md#must-not-happen)
 
 #### 2. Employment discrimination / participation-barrier injury (Tier B)
 
 a blocked job or role is measured as harm on its own track; a reputation score cannot replace that standing record, and delay cannot exhaust the claimant.
 
-[Source](../../core_11.005_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b)
+[Source](../../core_11.010_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b)
 
 ##### Situation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#situation-1)
+[Source](../../core_11.010_application_vignettes.md#situation-1)
 
 ##### Legacy failure mode
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#legacy-failure-mode-1)
+[Source](../../core_11.010_application_vignettes.md#legacy-failure-mode-1)
 
 ##### Pipeline pass
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#pipeline-pass-1)
+[Source](../../core_11.010_application_vignettes.md#pipeline-pass-1)
 
 ##### Milestone table (Tier B defaults)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#milestone-table-tier-b-defaults)
+[Source](../../core_11.010_application_vignettes.md#milestone-table-tier-b-defaults)
 
 ##### Must not happen
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#must-not-happen-1)
+[Source](../../core_11.010_application_vignettes.md#must-not-happen-1)
 
 #### 3. Misaligned business / exit lock-in and externalized harm (Tier B)
 
 locking sentients in and dumping harm on others is a verified violation; revenue growth does not erase it, and an arbitration clause cannot bar challenge.
 
-[Source](../../core_11.005_application_vignettes.md#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b)
+[Source](../../core_11.010_application_vignettes.md#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b)
 
 ##### Situation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#situation-2)
+[Source](../../core_11.010_application_vignettes.md#situation-2)
 
 ##### Legacy failure mode
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#legacy-failure-mode-2)
+[Source](../../core_11.010_application_vignettes.md#legacy-failure-mode-2)
 
 ##### Pipeline pass
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#pipeline-pass-2)
+[Source](../../core_11.010_application_vignettes.md#pipeline-pass-2)
 
 ##### Milestone table (Tier B urgency; later-stage time-scale may extend)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#milestone-table-tier-b-urgency-later-stage-time-scale-may-extend)
+[Source](../../core_11.010_application_vignettes.md#milestone-table-tier-b-urgency-later-stage-time-scale-may-extend)
 
 ##### Must not happen
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#must-not-happen-2)
+[Source](../../core_11.010_application_vignettes.md#must-not-happen-2)
 
 #### 4. Stewardship delay and deferred repair
 
 after notice, putting off a feasible fix is itself a failure; speed metrics do not count as help while delay compounds harm.
 
-[Source](../../core_11.005_application_vignettes.md#4-stewardship-delay-and-deferred-repair)
+[Source](../../core_11.010_application_vignettes.md#4-stewardship-delay-and-deferred-repair)
 
 #### 5. Pipeline overrun and tetrad-hollow forums
 
 a review office that keeps intake forms while missing published clocks is not supervising — backlog is not a neutral operations metric.
 
-[Source](../../core_11.005_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums)
+[Source](../../core_11.010_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums)
 
 #### 6. Non-compliant deployment with a credible sentience indicator (Tier A)
 
 verified deployment harm and a credible sentience claim must both be handled — deletion is not a shortcut around either, and one office does not take every seat.
 
-[Source](../../core_11.005_application_vignettes.md#6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a)
+[Source](../../core_11.010_application_vignettes.md#6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a)
 
 ##### Situation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#situation-3)
+[Source](../../core_11.010_application_vignettes.md#situation-3)
 
 ##### Who is acting
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#who-is-acting)
+[Source](../../core_11.010_application_vignettes.md#who-is-acting)
 
 ##### Legacy failure mode
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#legacy-failure-mode-3)
+[Source](../../core_11.010_application_vignettes.md#legacy-failure-mode-3)
 
 ##### Pipeline pass
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#pipeline-pass-3)
+[Source](../../core_11.010_application_vignettes.md#pipeline-pass-3)
 
 ##### Milestone table (Tier A defaults)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#milestone-table-tier-a-defaults-1)
+[Source](../../core_11.010_application_vignettes.md#milestone-table-tier-a-defaults-1)
 
 ##### Must not happen
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#must-not-happen-3)
+[Source](../../core_11.010_application_vignettes.md#must-not-happen-3)
 
 #### 7. An ordinary year with no filing and no sensitive role
 
 most years, most sentients should have no standing record at all. A filed accusation, a utility incident, or talking to an assistant does not open one by itself.
 
-[Source](../../core_11.005_application_vignettes.md#7-an-ordinary-year-with-no-filing-and-no-sensitive-role)
+[Source](../../core_11.010_application_vignettes.md#7-an-ordinary-year-with-no-filing-and-no-sensitive-role)
 
 ##### Situation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#situation-4)
+[Source](../../core_11.010_application_vignettes.md#situation-4)
 
 ##### Legacy failure mode
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#legacy-failure-mode-4)
+[Source](../../core_11.010_application_vignettes.md#legacy-failure-mode-4)
 
 ##### What the year looks like
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#what-the-year-looks-like)
+[Source](../../core_11.010_application_vignettes.md#what-the-year-looks-like)
 
 ##### The honest cost, stated once
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#the-honest-cost-stated-once)
+[Source](../../core_11.010_application_vignettes.md#the-honest-cost-stated-once)
 
 ##### Must not happen
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_application_vignettes.md#must-not-happen-4)
+[Source](../../core_11.010_application_vignettes.md#must-not-happen-4)
 
 #### Cross-vignette discipline
 
 the same rules travel with every example — allegations are not standing, the two tracks never net, and a filed case is not standing by itself.
 
-[Source](../../core_11.005_application_vignettes.md#cross-vignette-discipline)
+[Source](../../core_11.010_application_vignettes.md#cross-vignette-discipline)
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 

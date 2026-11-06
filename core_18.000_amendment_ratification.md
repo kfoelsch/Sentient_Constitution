@@ -145,7 +145,7 @@ A proposed amendment is invalid if it:
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes)–[§6](#6-test-4--contestability-and-independent-review-validity) validity tests and contestability floor.
 - Downstream: [§12](#12-layer-scope) reminder that trigger language routes to canonical owners rather than creating new slot-classification law.
-- Read with: [Chapter Twelve §7 — *Final standing effect*](core_12.000_standing_integration.md#7-final-standing-effect) (12.000 §7); [Chapter Eleven §10 unified scale](core_11.000_standing_assessment.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.000 §10) (*shared five-times LEQU measurement foundation for separate Contribution and Violation records*).
+- Read with: [Chapter Twelve §7 — *Final standing effect*](core_12.000_standing_integration.md#7-final-standing-effect) (12.000 §7); [Chapter Eleven §10 unified scale](core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §10) (*shared five-times LEQU measurement foundation for separate Contribution and Violation records*).
 
 </details>
 
@@ -156,7 +156,7 @@ A proposed amendment is invalid if it:
 Heightened review is automatically triggered for amendments that materially affect any of the following:
 - rights (**Chapter Six**)
 - constitutional interpretation and review safeguards (**Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*))
-- standing effects ([Chapter Twelve §7 — *Final standing effect*](core_12.000_standing_integration.md#7-final-standing-effect); read with the [Chapter Eleven §10 unified scale](core_11.000_standing_assessment.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes) — separate-axis measurement)
+- standing effects ([Chapter Twelve §7 — *Final standing effect*](core_12.000_standing_integration.md#7-final-standing-effect); read with the [Chapter Eleven §10 unified scale](core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes) — separate-axis measurement)
 - emergency powers
 - cross-jurisdiction enforcement pathways
 
@@ -324,7 +324,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Sixteen §4](core_16.000_non_regression.md#4-layer-scope) (16.000 §4) substantive-chapter mirror; [§7](#7-review-triggers) and [§9](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
-- Downstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) and [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) remain sole canonical homes for listed taxonomies.
+- Downstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) and [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) remain sole canonical homes for listed taxonomies.
 - Read with: [Chapter Six — Layer scope](core_06.000_rights_part_a.md#12-layer-scope) (6.000) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
 
 </details>

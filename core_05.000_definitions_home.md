@@ -399,6 +399,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Trust Degradation and Misleading Reliance](core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance)
 - [Trustworthiness](core_05.040_band_continuity.md#trustworthiness)
 - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint)
+- [Under Challenge](core_05.035_band_accountability.md#under-challenge)
 - [Unified Incident](core_05.035_band_accountability.md#unified-incident)
 - [Unified Incident Record](core_05.035_band_accountability.md#unified-incident-record)
 - [Urgent Protection](core_05.040_band_continuity.md#urgent-protection)

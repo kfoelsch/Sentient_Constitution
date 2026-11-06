@@ -30,7 +30,7 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - **Ch 17:** [core_17.000_expansion_supremacy.md](core_17.000_expansion_supremacy.md)
 - **Ch 18:** [core_18.000_amendment_ratification.md](core_18.000_amendment_ratification.md)
 - **Ch 19:** [core_19.000_incorporation.md](core_19.000_incorporation.md)
-- **Ch 11–14 vignettes (non-operative):** [core_11.005_application_vignettes.md](core_11.005_application_vignettes.md)
+- **Ch 11–14 vignettes (non-operative):** [core_11.010_application_vignettes.md](core_11.010_application_vignettes.md)
 - **Adopted corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
 
 ## Open Backlog

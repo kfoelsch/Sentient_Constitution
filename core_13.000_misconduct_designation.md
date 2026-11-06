@@ -56,7 +56,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*Questions 1 and 2; verified standing records and standing measurement*).
+- Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*Questions 1 and 2; verified standing records and standing measurement*).
 - Upstream pointer: [Chapter Twelve §2](core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity) (12.000 §2) routes qualifying Violation Axis slot 7–9 findings here for designation only.
 - This file: final anti-constitutional-misconduct designation for Violation Axis `s` = 7–9; designation criteria; due-process safeguards; Chapters Sixteen through Eighteen boundary. Named-pattern routing continues in [Part B](core_13.005_misconduct_pattern_applications.md#chapter-thirteen-part-b-anti-constitutional-misconduct--pattern-applications) (13.005).
 - Downstream: [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Trust Lock and standing-effect integration after final designation*); [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*forum routing and certification*); [Chapter Fifteen](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (15.000) (*governance legitimacy consequences*).
@@ -78,8 +78,8 @@ This chapter is used only when a verified violation already occupies Violation A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*the Contribution and Violation axes*).
-- Upstream map: [Chapter Eleven §8.1](core_11.000_standing_assessment.md#8-slot-grammar-and-display-labels) (11.000 §8.1) (*standing-slot grammar*).
+- Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*the Contribution and Violation axes*).
+- Upstream map: [Chapter Eleven §8.1](core_11.005_standing_measurement.md#8-slot-grammar-and-display-labels) (11.005 §8.1) (*standing-slot grammar*).
 - Upstream pointer: [Chapter Twelve §2](core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity) (12.000 §2) routes qualifying Violation Axis slot 7–9 findings here for designation only.
 - Downstream: [§2](#2-criteria-set-for-slot-assignment) (*Designation criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*).
 - Safeguards and discipline:
@@ -100,7 +100,7 @@ This chapter is used only when a verified violation already occupies Violation A
 
 This chapter does not re-measure how serious the violation is. Chapter Eleven already answered that when it assigned Violation Axis `s` = 7, 8, or 9.
 
-- [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) keeps the verified facts (Question 1) and the impact rating (Question 2).
+- [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) keeps the verified facts (Question 1) and the impact rating (Question 2).
   - The Chapter Eleven slot stays fixed. How large the harm is does not, by itself, prove intent, capture, or anti-constitutional misconduct.
 - [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) keeps ordinary remedies, safeguards, and locks (Question 3).
   - Those Chapter Twelve consequences continue even while designation is under review.
@@ -239,7 +239,7 @@ Do not count the same conduct as both **criterion 5** and **criterion 6** unless
   - [§4.2](#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*), and
   - [§4.3](#43-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
 - Downstream forums: [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) [§2](core_14.000_forum.md#2-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Thirteen designation is the primary stake. [Chapter Fourteen §5](core_14.000_forum.md#5-escalation-and-questions-for-ruling) (14.000 §5) covers forum certification and independent review for final designation.
-- Read with: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) — Chapter Eleven's unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only; [§1](#1-cross-chapter-discipline) (*Chapters Sixteen through Eighteen boundary*).
+- Read with: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) — Chapter Eleven's unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only; [§1](#1-cross-chapter-discipline) (*Chapters Sixteen through Eighteen boundary*).
 
 </details>
 

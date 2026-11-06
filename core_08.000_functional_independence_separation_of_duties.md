@@ -35,7 +35,7 @@
   - [§9](#9-relationship-to-later-processes).
 - Downstream:
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000);
+  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000);
   - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000);
   - [Chapter Fifteen](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (15.000); designated implementation text named above.
 - Read with:
@@ -558,7 +558,7 @@ Logs show who did what, but they do not by themselves prove that the action was 
 - Upstream: [§1](#1-purpose-scope-and-owner-boundary) through [§8](#8-act-records-and-attributable-handoffs).
 - Downstream:
   - [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
-  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000);
+  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000);
   - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000);
   - [Chapter Fifteen](core_15.000_governance.md#chapter-fifteen-constitutional-contract-legitimacy-authorization-and-stewardship) (15.000).
 - Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) and the [Preamble owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).

@@ -81,7 +81,7 @@ Chapter Nine, **Part A**, is the constitutional owner of **system alignment cert
   - [Part C §8.2](core_09.010_system_alignment_certification_record_recertification.md#82-transparency-and-auditability-of-the-system-certification-record) (9.010 §8.2) (*record integrity requirements*);
   - [Part B §7](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) (*certification outcomes*);
   - [Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (9.010 §11) (*standing-record bridge*);
-  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*standing records and verified-input gate*);
+  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*standing records and verified-input gate*);
   - [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*standing effects and integration*);
   - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*forum supervision, certification, alignment certification, and review*).
 - Read with:
@@ -363,7 +363,7 @@ This subsection states what certification must verify about certification status
     - relying on outdated results;
     - leaving known breaks unfixed; or
     - accepting major fixes without re-testing when re-testing was feasible; and
-  - where the system is certified and the facts support it, the same classification problems may also count toward adverse standing findings in [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement).
+  - where the system is certified and the facts support it, the same classification problems may also count toward adverse standing findings in [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened).
 
 Consequences of these defects are set in [§7 Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 

@@ -29,7 +29,7 @@
 - Downstream:
   - [§8](#8-system-certification-record) through
   - [§11](#11-relationship-to-standing);
-  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000);
+  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000);
   - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000).
 - Read with: **[CF-14.415](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing operations, transfer, questions for ruling, and representative treatment*) and **[CF-14.425](corpus_forum/cf_14.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-14425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
@@ -392,7 +392,7 @@ This section applies [Transparency](core_05.050_band_oversight.md#transparency) 
   - [Chapter Three §1](core_03.000_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) (3.000 §1) and
   - [§2](core_03.000_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
   - [System Charter](core_05.040_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
-- Downstream: [§11.3](#113-verified-input-gate) and [§11.5](#115-violation-standing-record) (*verified-input gate where facts support adverse findings*); [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*reopened forum supervision*); [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000).
+- Downstream: [§11.3](#113-verified-input-gate) and [§11.5](#115-violation-standing-record) (*verified-input gate where facts support adverse findings*); [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*reopened forum supervision*); [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000).
 - Read with: **[CS-6.305 §5](corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-9.305 §3](corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*).
 - Subsections:
   - [§9.1](#91-recertification-schedule-and-the-new-system-certification-record) (*recertification schedule and the new System Certification Record*);
@@ -699,7 +699,7 @@ Direct access to a forum path remains available when delay would materially enda
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [Verified Inputs for Standing](core_05.035_band_accountability.md#verified-inputs-for-standing).
-- Downstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*standing records and verified-input gate*); [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*standing effects and integration*).
+- Downstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*standing records and verified-input gate*); [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*standing effects and integration*).
 - Read with: **Article III-A** (*survival-essential access where certification gates delivery*).
 - Subsections:
   - [§11.1](#111-what-a-system-certification-record-can-pass-on-to-standing) (*what a System Certification Record can pass on to standing*);
