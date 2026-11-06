@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-11-03T07:30:46+00:00
+Generated: 2026-11-06T10:36:36+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **303/303** terms pass tier audit.
+Approved progress: **304/304** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -323,6 +323,7 @@ Approved progress: **303/303** terms pass tier audit.
 | Stay | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Subversion | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Sustained High-Gravity Pattern | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Under Challenge | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Unified Incident | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Unified Incident Record | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Verified Inputs for Standing | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |

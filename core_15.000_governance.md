@@ -30,7 +30,7 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) integrated constraint stack; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Foundational Rights Floor through [Chapter Six Part E](core_06.020_rights_part_e.md) (6.020).
-- Downstream: [§§ 1–5](#1-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) general **contribution, violation, and standing** measurement (Contribution Axis and Violation Axis), including all numeric impact slots; [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) final anti-constitutional-misconduct designation for qualifying **Violation Axis s = 7, 8, or 9** findings.
+- Downstream: [§§ 1–5](#1-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) general **contribution, violation, and standing** measurement (Contribution Axis and Violation Axis), including all numeric impact slots; [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) final anti-constitutional-misconduct designation for qualifying **Violation Axis s = 7, 8, or 9** findings.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) (integrity, tracing, verification); [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) (canonical definitions); [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration) (joint-invocation cluster where authority placement, oversight design, dependency, decentralization, concentration, incentive routing, or exit-path analysis materially affect compliance).
 
 </details>
@@ -249,7 +249,7 @@ Recognized mechanism families include:
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) definitional lenses for
   - [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity),
   - [Materiality](core_05.050_band_oversight.md#materiality), and related clustered definitions in federated contexts.
-- Downstream: Legitimacy sufficiency ties to [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); observable integrity feeds **Axis I / II** evaluation under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) where applicable.
+- Downstream: Legitimacy sufficiency ties to [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); observable integrity feeds **Axis I / II** evaluation under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) where applicable.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) traceability of definitions to results, observability, and verification requirements referenced above.
 
 </details>
@@ -310,7 +310,7 @@ Stewardship requirements for this section are stated in **Chapter Five** under t
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) stewardship framing and strategic obligations.
-- Downstream: Contestability and review hooks in [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000); violation and standing inputs under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) where stewardship claims fail observability or verification tests under **Chapters Two through Four**.
+- Downstream: Contestability and review hooks in [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000); violation and standing inputs under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) where stewardship claims fail observability or verification tests under **Chapters Two through Four**.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) (definition traceability and verification).
 
 </details>

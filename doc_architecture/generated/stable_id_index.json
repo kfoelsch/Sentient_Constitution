@@ -136,6 +136,11 @@
       "status": "present"
     },
     {
+      "file": "core_11.005_standing_measurement.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
       "file": "core_12.000_standing_integration.md",
       "label": "core",
       "status": "present"
@@ -156,7 +161,7 @@
       "status": "present"
     },
     {
-      "file": "core_11.005_application_vignettes.md",
+      "file": "core_11.010_application_vignettes.md",
       "label": "core",
       "status": "present"
     },

@@ -39,7 +39,7 @@ flowchart TB
 1. **Certify the system** — [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
    Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **system alignment certification record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A certification record may later supply verified facts to Chapter Eleven; it does not assign standing effects.
 
-2. **Measure standing** — [Chapter Eleven](../core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (Questions 1–2)
+2. **Measure standing** — [Chapter Eleven](../core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (Questions 1–2)
    When conduct or harm matters constitutionally, verified facts enter **standing records**. Question 1 asks what happened. Question 2 measures how good or how harmful it was. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) stay on **separate axes** — they never fold into one net score. Rumors, reputations, and dispute stories are not standing.
 
 3. **Apply effects and remedy** — [Chapter Twelve](../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (Question 3)

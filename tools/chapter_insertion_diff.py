@@ -11,7 +11,7 @@ import re
 
 
 PATH_RENAMES = {
-    "core_08-11_application_vignettes.md": "core_11.005_application_vignettes.md",
+    "core_08-11_application_vignettes.md": "core_11.010_application_vignettes.md",
     "core_07_a_system_alignment_certification_evaluation.md": "core_09.000_system_alignment_certification_evaluation.md",
     "core_07_b_system_alignment_certification_record_process.md": "core_09.005_system_alignment_certification_record_process.md",
     "core_07_system_alignment_certification.md": "core_09.000_system_alignment_certification_evaluation.md",

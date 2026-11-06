@@ -53,7 +53,7 @@ Chapter One, Part C, is the constitutional owner of **stewardship, governance, i
   - [§19.1.3 Stewardship and Operator Application](#1913-stewardship-and-operator-application).
 - Downstream: [§19.1.4 Role-Depth and Material-Responsibility Pathways](#1914-role-depth-and-material-responsibility-pathways).
 - Downstream: [§7 Freedom (Bounded Agency)](core_01.000_values_principles.md#7-freedom-bounded-agency), which depends on consequential stewardship, distributed understanding, meaningful participation, and repair capacity remaining real under material dependency.
-- Downstream: [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*one especially large audit process under oversight — not the sole auditing home*); [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
+- Downstream: [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*one especially large audit process under oversight — not the sole auditing home*); [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
 - Downstream: [Chapter Fourteen §1 — Purpose and role](core_14.000_forum.md#1-purpose-and-role--participation-architecture) (14.000 §1) and [§4 — Forum family definitions](core_14.000_forum.md#4-forum-family-definitions--accountability-through-adjudication) (*forum families carry the participation and oversight architecture for contestable challenge, remediation sequencing, root-cause learning, and proactive governance aligned with this section*); [CF-14.405](corpus_forum/cf_14.405_forum_formation_chamber_structure.md#cf-14405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*), [CF-14.415](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*), and [CF-14.420](corpus_forum/cf_14.420_appeal_secondary_review_exhaustion_pathways.md#cf-14420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) for adopted forum operations.
 - Downstream: Shapes the rights surface for education, Stakeholder System Participation, transparency, comprehensibility, audit and verification, and role-depth pathways into material responsibility.
   - Especially
@@ -520,7 +520,7 @@ This principle does not:
   - [§16.2 Institutional Development](#162-institutional-development) (*Pillar 3 — competence at scale*);
   - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*one especially large audit process under oversight — not the sole auditing home*);
   - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*auditing Rights Floor*);
-  - [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*standing effect implements distributed competence and consequential stewardship*);
+  - [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*standing effect implements distributed competence and consequential stewardship*);
   - [Article XIX: Standing and Participation Status](core_06.015_rights_part_d.md#article-xix-standing-and-participation-status).
 
 </details>
@@ -677,7 +677,7 @@ This subsection sets out the shared stewardship standard:
 - **Duty to resist:** [§17.5 Duty to Resist](#175-duty-to-resist) binds both kinds of steward to refuse unlawful or unconstitutional instructions.
 - **Internal codes and adopted implementation text:**
   - may add logging, attribution, and capability limits that satisfy, and do not narrow, those duties
-  - may not replace [standing measurement](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement), contest pathways, or Chapter One duties with a softer internal code
+  - may not replace [standing measurement](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened), contest pathways, or Chapter One duties with a softer internal code
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) and [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) forbid that narrowing
 - **Logging vs standing records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); standing measurement remains Chapter Eleven.
 
@@ -694,7 +694,7 @@ This subsection sets out the shared stewardship standard:
   - [Contestability](core_05.035_band_accountability.md#contestability);
   - [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture);
   - [§17.5 Duty to Resist](#175-duty-to-resist).
-- Downstream: [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) (11.000) (*verified failures record on the same axes*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward).
+- Downstream: [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*verified failures record on the same axes*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward).
 
 </details>
 
@@ -743,7 +743,7 @@ How a steward acts when staying aligned costs something matters more than how th
 Those are failed tests for any steward.
 
 **How alignment under pressure is shown:**
-- **Hypotheticals do not count:** A steward's own written account of how they *would* act under pressure is not a [standing measurement](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement).
+- **Hypotheticals do not count:** A steward's own written account of how they *would* act under pressure is not a [standing measurement](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened).
 - **Verified failures count:** When a failure is verified, it is recorded on the Contribution and Violation axes under Chapter Eleven.
 - **Partial testing proves nothing:** An evaluation, competency check, or handoff screen that exempts some stewards does not show that this subsection is met. If any steward can still take the bonus, skip the Act Record to make the deadline, or follow the cover instruction, the loophole — what [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) calls a capture path — is still open.
 
@@ -810,10 +810,10 @@ Those are failed tests for any steward.
   - Conduct, state, and expression outside the role keep the same [Article VII-B](core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*) and [§13.2.3 Privacy and Informational Self-Determination](core_01.005_interaction_interpretation.md#1323-privacy-and-informational-self-determination) protection for an AI steward as for a human one.
 - **Internals stay protected until one specific action requires them:**
   - Holding a role does not open a steward's deliberation, memory, model weights, or other internal state to inspection.
-  - They become inspectable only where they are the sole remaining attribution path for a *specific* action already under an open [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) record, only to the extent needed to attribute that action, and only to independent reviewers under [security-constrained observability](core_04.000_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule). This opens case by case, not as a standing license.
+  - They become inspectable only where they are the sole remaining attribution path for a *specific* action already under an open [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) record, only to the extent needed to attribute that action, and only to independent reviewers under [security-constrained observability](core_04.000_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule). This opens case by case, not as a standing license.
   - It is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
 - **A log is a trail, not a verdict:**
-  - The log shows who did what. It is not itself a standing finding, and it is not a [standing record](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement) of verified help or harm. Writing it opens no standing record.
+  - The log shows who did what. It is not itself a standing finding, and it is not a [standing record](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) of verified help or harm. Writing it opens no standing record.
   - Whoever decides access to a role pathway, a trust pathway, or another named pathway uses a standing record, or the ordinary state of having none ([Chapter Eleven §2.2 Silence is the default](core_11.000_standing_assessment.md#22-silence-is-the-default)), and never the log.
   - It may not be combined with logs or standing effects from other named pathways into one reputation score, ranking, badge, or public profile ([Chapter Twelve §7.1 Anti-aggregation of named-pathway effects](core_12.000_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)).
 
@@ -1940,7 +1940,7 @@ Such conditions are **escalation triggers**, not ordinary operating states. They
 
 - **Periodic review and correction:** [Review and Correction Duty](core_05.040_band_continuity.md#review-and-correction-duty).
 - **Heightened review:** [§11.1 Market Concentration Threshold Mechanism](core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) and [§11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination), where concentration or domination is material.
-- **Standing and violation mechanics:** [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-contribution-violation-and-standing-model--measurement), where standing findings are at stake.
+- **Standing and violation mechanics:** [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened), where standing findings are at stake.
 - **Anti-constitutional misconduct:** [Chapter Thirteen §5.1 Concentration-based subversion: criteria interaction](core_13.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), where concentration or process capture constitutes anti-constitutional misconduct.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
@@ -2007,7 +2007,7 @@ Concentrated or obscured control structures that materially undermine any of the
 
 - Once misalignment is verified, material rewards from misaligned or corrupt reward pathways must not be kept as silent standing credit or shielded benefit.
 - [Chapter Twelve §5.4 Special violation rules](core_12.000_standing_integration.md#54-special-violation-rules) governs forfeiture, proportionate clawback, knowing-acceptance reporting, and correction.
-- How good or bad the verified contribution or violation was is rated under [Chapter Eleven §7 Question 2 — how good or bad was it?](core_11.000_standing_assessment.md#7-question-2--how-good-or-bad-was-it), not here.
+- How good or bad the verified contribution or violation was is rated under [Chapter Eleven §7 Question 2 — how good or bad was it?](core_11.005_standing_measurement.md#7-question-2--how-good-or-bad-was-it), not here.
 
 <a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 19.5 Contingent Claims, Games of Chance, and Event-Contract Markets

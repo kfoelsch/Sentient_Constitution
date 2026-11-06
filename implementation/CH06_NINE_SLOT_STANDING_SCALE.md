@@ -1,6 +1,6 @@
 # Chapter Eleven — nine-slot standing score scale (adopted implementation)
 
-**Status:** Adopted implementation (non-core). **Authoritative** meaning remains in [Chapter Eleven](../core_11.000_standing_assessment.md) and [Chapter Twelve](../core_12.000_standing_integration.md). Separate contribution and violation standing records use the same [§10 unified proportional LEQU scale](../core_11.000_standing_assessment.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes): nine impact slots, a **5x** progression, and **s = 7 = 1 LEQU**. The axes remain separate and may not offset.
+**Status:** Adopted implementation (non-core). **Authoritative** meaning remains in [Chapter Eleven](../core_11.000_standing_assessment.md) and [Chapter Twelve](../core_12.000_standing_integration.md). Separate contribution and violation standing records use the same [§10 unified proportional LEQU scale](../core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes): nine impact slots, a **5x** progression, and **s = 7 = 1 LEQU**. The axes remain separate and may not offset.
 
 **Slot groups and display roles (both axes).** The Contribution Axis retains its four constitutional bands. The Violation Axis uses neutral impact labels on the same LEQU bands. Conduct character and any Chapter Thirteen anti-constitutional designation are separate fields, not slot inputs. Older tranche and violation-character keys remain legacy shorthand only.
 
