@@ -869,13 +869,43 @@ Where no System Charter or Institutional Charter covers the system, institution,
 
 #### 5.9 Informal and small-scope records
 
-Separation of duties scales with material stake, not with formality ([Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)). For unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work — which [Chapter Twelve §6 Contribution consequences second](core_12.000_standing_integration.md#6-contribution-consequences-second) requires to be recognized on equal standards — the verify seat is satisfied by **any independent body with published authority to rely on the standing record**, which then acts as the verifying authority, commonly the body that will use it: a watershed council, a funding or continuity body, the **CI-6.255** (*Commons, cooperatives, mutual aid, and non-market community governance*) records-recognition authority, or a forum. It is not satisfied by the formality of the verifying authority. On such a standing record:
+Separation of duties scales with material stake, not with formality ([Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)).
 
-- a sentient acting alone needs no group, institution, [System Charter](core_05.040_band_continuity.md#system-charter), or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) to seek a record of their own contribution. They hold the initiating seat on their own request, as subject and claimant. Their own account, logs, and photos are inputs and never verification. The verify seat is any independent body with published authority to rely on the standing record (the verifying authority), a separate record custodian enters and holds it, and a contest goes to the challenge lane or a forum under **section 2.7**. Where no such relying body is available, the standing record goes to a forum under **section 2.7**. A retired plumber who has repaired neighbors' pipes unpaid for years, with no group behind them, can ask a **CI-6.255** (*Commons, cooperatives, mutual aid, and non-market community governance*) records-recognition authority to open a standing record: the plumber requests and claims, the authority verifies from the work logs and the neighbors' attestations, a separate record custodian enters and holds the standing record, and a contest goes to a forum, not back to the verifying authority;
-- the participants are subjects and, where they seek recognition, claimants; in a collective record under **section 4.3** each co-participant is a claimant, so a member's statement about another member's share is an input, never verification;
-- beneficiaries, neighbors, and other non-participants supply attestations as verification materials under **section 4.1**; the sentient who kept the group's own log is the recorder and a witness under *Recorder statements are inputs* below;
-- the relying body's record custodian enters and holds what a separate verifying authority has verified; neither may be a claimant or in a claimant's [Material Control Line](core_05.035_band_accountability.md#material-control-line). The same relying body may host both seats under a published lane map with auditable, contestable independence safeguards, but no authority, custodian, or sentient may perform both duties on the same standing record;
-- a group's own status does not condition a member's claim: a group with no [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), or one that is not an Institution at all, does not block its members, and each participant may seek recognition as an individual claimant for work done in the group or outside it. The standing record concerns the participant's contribution and not the group's standing. A quilting circle that gives quilts to newly arrived refugees is the pattern: each quilter may seek a standing record, verified by an independent relying body such as the agency that receives the quilts, and the circle needs no System Charter or Institutional Charter for that;
+- **Work covered:** Local communities run on many kinds of contribution, and much of it is unpaid and informal. This applies to unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work, which [Chapter Twelve §6 Contribution consequences second](core_12.000_standing_integration.md#6-contribution-consequences-second) requires to be recognized on equal standards.
+  - **What it looks like locally:** Neighbors sharing food and tools (mutual aid); looking after a sick or aging neighbor (care); keeping a shared garden or creek in good shape (maintenance and community stewardship); fixing a neighbor's pipes (repair); tutoring or showing someone a skill (teaching). Each is its own kind of contribution.
+- **Who fills the verify seat:** For that work, the verify seat is satisfied by **any independent body with published authority to rely on the standing record**, which then acts as the verifying authority.
+  - **Who that usually is:** Often the body that will rely on the standing record: a local group such as a watershed council, an organization that funds the work or keeps it going, the **CI-6.255** (*Commons, cooperatives, mutual aid, and non-market community governance*) records-recognition authority (a body that recognizes records of community work like this), or a forum under **section 2.7**.
+- **What does not count:** The verify seat is not satisfied by the formality of the verifying authority.
+
+On such a standing record:
+
+- a sentient acting alone needs no group, institution, [System Charter](core_05.040_band_continuity.md#system-charter), or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) to seek a record of their own contribution. In that case:
+  - **Who asks:** They hold the initiating seat on their own request, as subject and claimant.
+  - **Their own materials:** Their own account, logs, and photos are inputs and never verification.
+  - **Verify seat:** Any independent body with published authority to rely on the standing record (the verifying authority).
+  - **Entry and custody:** A separate record custodian enters and holds the standing record.
+  - **If someone contests it:** The contest goes to the challenge lane or a forum under **section 2.7**.
+  - **No relying body available:** Where no such relying body is available, the standing record goes to a forum under **section 2.7**.
+  - **Example, a retired plumber:** A retired plumber who has repaired neighbors' pipes unpaid for years, with no group behind them, can ask a **CI-6.255** (*Commons, cooperatives, mutual aid, and non-market community governance*) records-recognition authority to open a standing record:
+    - **Requests and claims:** The plumber.
+    - **Verifies:** The authority, working from the work logs and the neighbors' attestations.
+    - **Enters and holds:** A separate record custodian.
+    - **If someone contests it:** The contest goes to a forum, not back to the verifying authority.
+- the participants are subjects and, where they seek recognition, claimants. In a collective record under **section 4.3**:
+  - **Co-participants:** Each is a claimant.
+  - **A member's statement about another member's share:** It is an input, never verification.
+- the materials that support the standing record come from two places:
+  - **Non-participants:** Beneficiaries, neighbors, and other non-participants supply attestations as verification materials under **section 4.1**.
+  - **The group's own log:** The sentient who kept it is the recorder and a witness under *Recorder statements are inputs* below.
+- the relying body's record custodian enters and holds what a separate verifying authority has verified:
+  - **Who may not hold either seat:** Neither the record custodian nor the verifying authority may be a claimant or in a claimant's [Material Control Line](core_05.035_band_accountability.md#material-control-line).
+  - **One body, two seats:** The same relying body may host both seats under a published lane map with auditable, contestable independence safeguards.
+  - **Never the same one:** No authority, custodian, or sentient may perform both duties on the same standing record.
+- a group's own status does not condition a member's claim:
+  - **Informal groups:** A group with no [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), or one that is not an Institution at all, does not block its members.
+  - **Each participant:** May seek recognition as an individual claimant for work done in the group or outside it.
+  - **What the standing record covers:** It concerns the participant's contribution and not the group's standing.
+  - **Example, a quilting circle:** A quilting circle that gives quilts to newly arrived refugees is the pattern: each quilter may seek a standing record, verified by an independent relying body such as the agency that receives the quilts, and the circle needs no System Charter or Institutional Charter for that.
 - a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
 
 None of this requires a standing record to exist. **Section 2.2** *Silence is the default* controls: informal work is not recorded because it could be, and separation of duties binds only once a standing record is sought.
