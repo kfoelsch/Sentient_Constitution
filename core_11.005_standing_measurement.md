@@ -130,7 +130,21 @@ Measuring standing does **not** decide whether an entity is a **sentient**.
 
 *In plain terms: this section lists what to examine when measuring a verified contribution (**section 8.1**) or a verified violation (**section 8.2**). Each axis is measured on its own. The shared scaling rules are in **section 10.3**, and the slot comes from the scale in **section 12**.*
 
-The slot scale measures constitutional outcome magnitude and character. On the Contribution Axis, it measures verified constitutional benefit, not raw output, prestige, wealth, utilization, speed, or institutional scale. On the Violation Axis, it measures verified constitutional loss, harm, waste, foreclosure, or danger, not disfavored status, allegations, or moral dislike alone.
+The slot scale measures how big a constitutional outcome is and what kind of outcome it is. It counts only outcomes that have been verified.
+
+**What the scale counts, and how that ties to the Constitution's core tests:**
+
+- **[Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):** both axes measure effect on **Flourishing** and **Continuity**. The Contribution Axis moves them forward. The Violation Axis moves them backward.
+- **[Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions):** each axis supplies the verified facts for one question. Answering one does not answer the other, so the two axes are never netted against each other.
+  - **First question:** the Contribution Axis supplies the verified facts. Does the system reward conduct that helps sentients flourish and endure, tells the truth, and repairs harm?
+    - **Counts:** verified constitutional benefit, including verified risk reduction.
+    - **Does not count:** raw output, prestige, wealth, how much something is used, speed, or how big the institution is.
+  - **Second question:** the Violation Axis supplies the verified facts. Does the system reward conduct that unjustifiably harms, misleads, excludes, delays, wastes, or shifts costs onto others?
+    - **Counts:** verified constitutional loss, harm, waste, lost options (foreclosure), danger, or risk escalation.
+    - **Does not count, on their own:** a disfavored status, allegations, or moral dislike.
+- **[Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):**
+  - **Oversight and accountability:** "verified" means a named actor answers for the finding, and no party verifies its own claim.
+  - **Timeliness:** avoidable delay is noted as its own fact, not folded into the size of the loss.
 
 <a id="81-contribution-magnitude-input-dimensions"></a>
 
