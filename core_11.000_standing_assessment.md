@@ -720,7 +720,7 @@ Every standing record has a named [**record custodian**](core_05.035_band_accoun
 
 - **Custody must not lapse:** When a custodian is dissolved, conflicted, or replaced, custody transfers with the full audit trail under [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) to the successor the System Charter, Institutional Charter, or designation names, or, where none is named, to the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)).
 - **If the Backup Record Custodian cannot act:** The supervising forum under **section 2.7** holds the standing record or designates a holder that passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10. The subject, a claimant, or a challenger may take a standing record to that forum at once, and a forum that holds a standing record or designates its holder does not hear a contest of that standing record.
-- **One standing record or the whole store:** Where only one standing record is in conflict, only that standing record moves (see *Conflicted custodian on a single standing record* below); where the custodian itself ends or cannot continue, the standing records it held for the scope move with their trail.
+- **One standing record or the whole store:** Where only one standing record is in conflict, only that standing record moves (see *Conflicted custodian on a single standing record* below); where the custodian itself ends or cannot continue, all the standing records it held move with their trail.
 
 <a id="54-no-self-custody"></a>
 
@@ -746,7 +746,7 @@ Beyond that exclusion:
 
 The conflicts of interest differ with the subject, so the custody rules differ. A standing record whose subject is a Chartered Party, its chartered scope, or a system it stewards is an **operator standing record**. A standing record whose subject is a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder standing record**. A standing record with neither subject follows *Separation of duties* and *No self-custody* above without further rule. Both kinds follow those two rules, and the narrower answer controls. Where a standing record's subject includes both a Chartered Party's side and a stakeholder, the operator standing record rules govern it.
 
-- **Operator standing record:** The conflict is standing, because the Chartered Party would be judging itself. Every office in its [Material Control Line](core_05.035_band_accountability.md#material-control-line) is therefore excluded from every such standing record, as a rule for the whole scope and not record by record.
+- **Operator standing record:** The conflict is standing, because the Chartered Party would be judging itself. Every office in its [Material Control Line](core_05.035_band_accountability.md#material-control-line) is therefore excluded from every such standing record, as a rule for the whole chartered scope and not record by record.
   - The Charter Role Map names the record-opening authority, the record custodian, the contest seat, and an independent route, and all of them sit outside that line ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody)).
   - The Chartered Party cannot choose, appoint, fund through a channel it controls, or remove them, and it cannot change those entries on its own.
   - No office inside the line may hold any of these seats, whether alone or under a merged-hosting safeguard.
@@ -767,7 +767,7 @@ Sometimes the named custodian is excluded under *No self-custody* from one stand
   - **Keeps open:** the published challenge path.
   - **Does not enter:** any new version of the standing record while the conflict lasts.
 - **Where custody goes:** Custody of that standing record passes, with its full audit trail, to:
-  - **Named substitute:** the substitute holder the System Charter, Institutional Charter, or lane map names for the scope (**CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10; the **CI-8.205 §2** (*Functional separation lanes*) publication-and-evidence lane outside the control line).
+  - **Named substitute:** the substitute holder the System Charter, Institutional Charter, or lane map names for the system concerned (**CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10; the **CI-8.205 §2** (*Functional separation lanes*) publication-and-evidence lane outside the control line).
   - **None named:** the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)).
   - **Backup Record Custodian cannot act:** the supervising forum under **section 2.7**. The forum either holds the standing record itself or designates a holder that passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10.
 - **Naming:** Whoever takes custody, whether a named substitute, the Backup Record Custodian, or the forum, is named on the standing record as the substitute custodian.
@@ -805,9 +805,9 @@ For standing records, this section adds:
 
 #### 5.8 Fallback when no System Charter or Institutional Charter reaches the standing record
 
-Where no System Charter or Institutional Charter covers the scope, as with a body below the Class L line that has published none, the institution's published lane map under **CI-8.205 §2** (*Functional separation lanes*) governs:
+Where no System Charter or Institutional Charter covers the system, institution, or business the standing record concerns, as with a body below the Class L line that has published none, the institution's published lane map under **CI-8.205 §2** (*Functional separation lanes*) governs:
 
-- **Record-opening authority:** The office holding the assurance and audit lane for that scope.
+- **Record-opening authority:** The office the lane map places in the assurance and audit lane for the system, institution, or business the standing record concerns. That office verifies the factual basis and authorizes the entry ([§5.2 Named record-opening authority](#52-named-record-opening-authority)); it does not enter or hold the standing record.
 - **Custodian:** The office holding the publication and evidence lane.
 - **Execution lane excluded:** Neither may be the office holding the execution lane for the system concerned.
 - **No lane map either:** The standing record routes to independent verification under *No self-custody* above, or, for informal and small-scope records, to the relying body under *Informal and small-scope records* next.

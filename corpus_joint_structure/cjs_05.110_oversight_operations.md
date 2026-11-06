@@ -340,7 +340,7 @@ Auditability minimum and record sufficiency
     **Primary assessment:** Evaluation must verify record scope, quality, and retention in practice.
 <a id="auditability-minimum-and-record-sufficiency-c"></a>
 - **What must hold**
-  - **Primary failure:** Recordkeeping when records lack the scope, provenance, intelligibility, continuity, or retention needed for a qualified reviewer to evaluate compliance, reconstruct material behavior, or verify material claims.
+  - **Primary failure:** Recordkeeping when records lack the coverage, provenance, intelligibility, continuity, or retention needed for a qualified reviewer to evaluate compliance, reconstruct material behavior, or verify material claims.
 
 <a id="forensic-depth-access-proportionality"></a>
 Forensic-depth access proportionality

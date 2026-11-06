@@ -389,7 +389,7 @@ The strength, staffing, redundancy, and formality of separation scale with mater
 
 A small or informal adopter may place two seats in one office or sentient only where all of the following hold:
 
-- the merger is necessary and proportionate to the scope;
+- the merger is necessary and proportionate to the adopter's scope;
 - it is published, auditable, contestable, and disclosed on the act's record;
 - an independence safeguard addresses the risks created by the merger;
 - the initiating seat does not verify or authorize its own act;

@@ -486,6 +486,13 @@
       "summary": "The noun \"record\" says which kind of record it is (standing record, contribution record, violation record, Forum Case Record, System Certification Record, classification record) or \"record of ...\"; a bare \"the record\", \"a record\", \"that record\", \"its own record\" or \"the same record\" fails. Record custodian, record-opening authority, record seat and record span, the verb, and \"on record\" are not matched. Older uses sit in a shrink-only baseline.",
       "make_target": "record-kind-audit",
       "status": "blocking"
+    },
+    {
+      "id": "SCOPE-QUALIFIED-01",
+      "legacy_ref": "scope wording",
+      "summary": "The noun \"scope\" says whose or which scope it is (chartered scope, admission scope, release scope, enforceability scope) or \"scope of ...\"; a bare \"the scope\", \"that scope\", \"its scope\", \"a scope\", \"own scope\" or \"whole scope\" fails. The In scope, Out of scope and Admission scope field labels, a following pointer or relative clause (\"the scope above\", \"the scope each cluster states\"), scope as a modifier (scope document, scope cap) and the verb are not matched. Chapter Five has no exemption. The baseline is empty: every older use was qualified in the 311th to 314th moves.",
+      "make_target": "scope-qualified-audit",
+      "status": "blocking"
     }
   ]
 }

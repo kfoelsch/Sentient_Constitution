@@ -683,7 +683,7 @@ This Article sets out the floors for product data handling, collection notice, d
   - what portability exists;
   - what continuity measures are in place.
   
-  Operators must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred through the disclosed continuity and export paths. The exception is where **Necessity** requires confidentiality, security, or lawful non-disclosure. In that case, the limitation, its scope, and any lawful substitute export path must be disclosed before commitment.
+  Operators must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred through the disclosed continuity and export paths. The exception is where **Necessity** requires confidentiality, security, or lawful non-disclosure. In that case, the limitation, the scope of the limitation, and any lawful substitute export path must be disclosed before commitment.
 
 #### Article II-F: Continuity and Operator Shutdown
 <details>

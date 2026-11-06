@@ -312,7 +312,7 @@ Special violation rules and special locks later in this section do not replace t
 
 Lock design must weigh the risks being reduced and the conditions that raise them, including named pathway sensitivity, unresolved remedy and safeguard gaps, recurrence after notice or remediation, ongoing safety risk, role asymmetry, concealment or evasion, diffusion of control, institutional enablement, forum-integrity injury, cross-jurisdiction continuity, reviewability, and practical time to correction.
 
-The resulting lock must be needed for risk reduction, proportionate, no broader than required, and time-bounded where the protected purpose permits. Calibration may tighten or narrow scope as those conditions change, but may not convert the lock into punishment, reputation scoring, or a substitute for remedy and correction owed under [§4.1 Remedy and correction](#41-remedy-and-correction). Special locks under [§5.5 Special locks](#55-special-locks) still must meet their own corrective conditions; calibration may not waive a mandatory special lock.
+The resulting lock must be needed for risk reduction, proportionate, no broader than required, and time-bounded where the protected purpose permits. Calibration may tighten or narrow the lock's scope as those conditions change, but may not convert the lock into punishment, reputation scoring, or a substitute for remedy and correction owed under [§4.1 Remedy and correction](#41-remedy-and-correction). Special locks under [§5.5 Special locks](#55-special-locks) still must meet their own corrective conditions; calibration may not waive a mandatory special lock.
 
 <a id="53-record-visibility-and-escalation"></a>
 #### 5.3 Record visibility and escalation

@@ -998,7 +998,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
     **Primary assessment:** Identify:
     - what is paused — action, reliance, finalization, or enforcement;
-    - the lawful authority issuing the Stay, its scope and duration or review trigger; and
+    - the lawful authority issuing the Stay, the Stay's scope and duration or review trigger; and
     - whether it is proportionate under [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality).
 
     A Stay may:
@@ -3054,7 +3054,7 @@ The following limits also apply:
 - backup routing that prevents a forum from judging its own matter; or
 - which forum family’s intake rules and rules for deciding the substance of the case apply.
 
-Outside that scope, an individual forum-family entry may still be used as a supporting Independent Definition without applying the entire cluster.
+Outside that cluster's scope, an individual forum-family entry may still be used as a supporting Independent Definition without applying the entire cluster.
 
 Where admission scope is met, this cluster brings together the six constitutional forum families and the Chapter Fourteen rules for deciding where a case should go based on what is mainly at stake. It must also be read with the adjudication and dispute-resolution rules when deciding venue, formally referring a question, or coordinating across forum families.
 
@@ -3516,7 +3516,7 @@ See **Anti-Segmentation Principle**.
 - anti-constitutional-misconduct designation review for a Chapter Eleven slot 7–9 record; or
 - how the nature of a violation, and how process and response are characterized, interact with forum routing and remedies.
 
-Outside that scope, an individual Chapter Eleven through Chapter Thirteen hook may still be cited without applying the entire cluster.
+Outside that cluster's scope, an individual Chapter Eleven through Chapter Thirteen hook may still be cited without applying the entire cluster.
 
 Where admission scope is met, this cluster is the shared home for the Chapter Five definitions that feed the Chapters Eleven through Thirteen standing pipeline. It covers:
 
@@ -4168,7 +4168,7 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:**
     - Apply a lock only from a bounded **violation standing record** and verified violation basis.
-    - State its scope, duration, review status, remediation path, and proportionate consequence.
+    - State the lock's scope, duration, review status, remediation path, and proportionate consequence.
     - Restrictive effects must remain auditable and contestable, use the least-restrictive option when coercion or liberty is involved, and be time-bounded when Chapter Six requires it.
 <a id="standing-lock-c"></a>
 - **What must hold**

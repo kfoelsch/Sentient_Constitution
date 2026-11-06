@@ -1083,7 +1083,7 @@ Implication can exist without misalignment. Misalignment always implies material
 - externally detectable indicators usable for audit and independent verification;
 - independent verification; or
 - whether verification is accessible and independent under scaled or adversarial conditions.
-Outside that scope, individual entries may still apply on their own without importing the whole cluster.
+Outside that cluster's scope, individual entries may still apply on their own without importing the whole cluster.
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
@@ -1524,7 +1524,7 @@ See **Anti-Segmentation Principle**.
     - interaction; and
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
-  - **System and Institutional Charter scope process:** Where a governing [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05.040_band_continuity.md#system-boundaries) and plausible risk pathways inside and at the edge of that scope. System Charter or Institutional Charter text does not shrink the risk pathways that must be evaluated.
+  - **System and Institutional Charter scope process:** Where a governing [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05.040_band_continuity.md#system-boundaries) and plausible risk pathways inside and at the edge of that chartered scope. System Charter or Institutional Charter text does not shrink the risk pathways that must be evaluated.
   - **SAC verification:** Where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) runs, this constraint is part of what certification must verify under [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) — including chartered-scope-versus-functional-boundary checks under [Chapter Nine §3.2 Systemic Scope and Risk Factors](core_09.000_system_alignment_certification_evaluation.md#32-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-6.345 §10 Recertification, regression testing, and certification defects](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-10-recertification-regression-testing-and-certification-defects) (*System lifecycle*). Findings live on the [System Certification Record](core_05.040_band_continuity.md#system-certification-record).
   - **Out of scope:**
     - [System Charter](core_05.040_band_continuity.md#system-charter) text as a scope document alone — a System Charter states intended scope; it is not itself evaluation coverage;
@@ -1683,7 +1683,7 @@ See **Anti-Segmentation Principle**.
 - foreseeable operating conditions;
 - adversarial or scaled misuse contexts; or
 - splitting truth and integrity duties across disclosure, audit, verification, or publication pathways.
-Outside that scope, component definitions may still apply on their own without importing the whole cluster.
+Outside that cluster's scope, component definitions may still apply on their own without importing the whole cluster.
 
 Where admission scope is met, this cluster is the home for honest representation of decision-relevant facts and limits, together with honest methods for evidence, uncertainty, disclosure, and challenge. Checking a disclosure or publication box alone is not enough when methods, uncertainty treatment, or foreseeable-condition analysis still fail.
 
@@ -1934,7 +1934,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - whether “we could not have foreseen it” claims are justified;
 - whether analysis depth, scope, and scaling match [Material Impact](core_05.050_band_oversight.md#material-impact), [Material Risk](core_05.050_band_oversight.md#material-risk), [Risk](core_05.040_band_continuity.md#risk), and [Dependency](core_05.040_band_continuity.md#dependency); or
 - whether evaluation was incomplete in a way that defeats [Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint), [Risk](core_05.040_band_continuity.md#risk) assessment, or [Foreseeability](core_05.050_band_oversight.md#foreseeability).
-Outside that scope, individual entries may still apply on their own without importing the full compound.
+Outside that cluster's scope, individual entries may still apply on their own without importing the full compound.
 
 Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([Chapter Two, §3 — Consistency Across the Definition Stack](core_02.000_definition_structure.md#3-consistency-across-the-definition-stack)).
 

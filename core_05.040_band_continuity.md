@@ -166,12 +166,12 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
     **Primary assessment:** Evaluate whether:
     1. each certification condition has a responsible owner, evidence, and independent verification stated in the outcome; and
-    2. no scope operates while a certification condition required before go-live is unverified.
+    2. no certified scope operates while a certification condition required before go-live is unverified.
 <a id="certification-condition-c"></a>
 - **What must hold**
   - **Primary failure:**
     - a certification condition with no owner, evidence, or consequence; or
-    - letting a scope operate while a certification condition required before go-live is unverified.
+    - letting a certified scope operate while a certification condition required before go-live is unverified.
 
 ---
 
@@ -619,7 +619,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: a **go-live** is the moment a system stops being something that is being built or tested and starts being something that actually affects sentients, or that sentients start to rely on. It is judged by what the system is really doing, not by what the launch is called.*
 
 - **What it is**
-  - **In scope:** The point at which a system first operates so that it [materially affects](core_05.050_band_oversight.md#material-impact) sentients, or so that sentients materially rely on it (see [Dependency](core_05.040_band_continuity.md#dependency)), whether as a [Pilot](core_05.040_band_continuity.md#pilot) or in full deployment. Each of these is its own go-live: a pilot, full deployment after a pilot, and a material expansion of an operating system beyond the scope, population, or duration its certification covers (as to the expanded part). Whether a go-live has occurred is decided by actual operation and effect, not by a launch label such as "beta," "trial," "preview," "early access," "soft launch," or "experimental," and not by an announcement date or an internal milestone.
+  - **In scope:** The point at which a system first operates so that it [materially affects](core_05.050_band_oversight.md#material-impact) sentients, or so that sentients materially rely on it (see [Dependency](core_05.040_band_continuity.md#dependency)), whether as a [Pilot](core_05.040_band_continuity.md#pilot) or in full deployment. Each of these is its own go-live: a pilot, full deployment after a pilot, and a material expansion of an operating system beyond the certified scope, population, or duration its certification covers (as to the expanded part). Whether a go-live has occurred is decided by actual operation and effect, not by a launch label such as "beta," "trial," "preview," "early access," "soft launch," or "experimental," and not by an announcement date or an internal milestone.
   - **Out of scope:**
     - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
     - a system that neither materially affects sentients nor is materially relied on by them;
@@ -962,7 +962,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - **What must hold**
   - **Primary failure:**
     - a lead forum that also keeps the record for the same act; or
-    - authorizing a scope before the required component work is finished.
+    - authorizing a certified scope before the required component work is finished.
 
 ---
 
@@ -1122,7 +1122,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 *In plain terms: a **pilot** is a real but deliberately limited launch. Real sentients are affected, or start to rely on the system, so it is not a test in a sandbox; and it is limited in advance by a stated scope, population, and length of time. Because it is real, it needs its own certification before it starts, and it may not quietly grow past the limits it was certified for.*
 
 - **What it is**
-  - **In scope:** A [Go-Live](core_05.040_band_continuity.md#go-live) limited by a scope, a population, and a duration stated in advance on its own [System Certification Record](core_05.040_band_continuity.md#system-certification-record), run ahead of full deployment, in which the system actually affects sentients or sentients actually rely on it. A pilot is a go-live in every respect that matters to certification. Its certification covers only the scope, population, and duration stated on that System Certification Record. Operation beyond them is a further go-live, as a material expansion, and needs its own certification. Whether a release is a pilot is decided by actual operation and effect, not by label: a live release called a "beta," "trial," "preview," "early access," or "limited release" is at least a pilot.
+  - **In scope:** A [Go-Live](core_05.040_band_continuity.md#go-live) limited by a certified scope, a population, and a duration stated in advance on its own [System Certification Record](core_05.040_band_continuity.md#system-certification-record), run ahead of full deployment, in which the system actually affects sentients or sentients actually rely on it. A pilot is a go-live in every respect that matters to certification. Its certification covers only the certified scope, population, and duration stated on that System Certification Record. Operation beyond them is a further go-live, as a material expansion, and needs its own certification. Whether a release is a pilot is decided by actual operation and effect, not by label: a live release called a "beta," "trial," "preview," "early access," or "limited release" is at least a pilot.
   - **Out of scope:**
     - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
     - full deployment, which needs its own certification and may draw on the pilot's record; or
@@ -1135,7 +1135,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the pilot was certified on its own System Certification Record before it began, and its scope, population, and duration were stated on that System Certification Record in advance;
+    1. the pilot was certified on its own System Certification Record before it began, and its certified scope, population, and duration were stated on that System Certification Record in advance;
     2. the pilot stayed inside those limits, and operation beyond them was certified as a go-live of its own before it began; and
     3. live operation called by another name — a beta, trial, preview, or test — was treated as a pilot, or as full deployment, for certification.
 <a id="pilot-c"></a>
@@ -4277,7 +4277,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [Dependency](core_05.040_band_continuity.md#dependency) relationships;
     - temporal effects; and
     - system interactions within [System Boundaries](core_05.040_band_continuity.md#system-boundaries).
-  - **Secondary measure:** [System Boundaries](core_05.040_band_continuity.md#system-boundaries) and [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity) — co-measures that fix the scope in which the system must be evaluated.
+  - **Secondary measure:** [System Boundaries](core_05.040_band_continuity.md#system-boundaries) and [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity) — co-measures that fix the evaluation scope of the system.
 
     **Secondary assessment:** When evaluating the primary trace, evaluate the system in full functional scope under those two entries; formal or organizational identity does not set the evaluated scope.
 <a id="system-definition-c"></a>
@@ -4504,7 +4504,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 <br>
 
-*In plain terms: a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and scheduled review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.*
+*In plain terms: a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that chartered scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and scheduled review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.*
 
 - **What it is**
   - **In scope:** The published, amendable scope document for one [System](core_05.040_band_continuity.md#system), including a business or other stewarded organizational form that is itself a System. A System Charter states:
@@ -5256,7 +5256,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - creative-work attribution and training-data use of sentient-produced work; or
   - anti-displacement of creative and economic participation.
 
-  Outside that scope, component definitions may operate as supporting Independent Definitions without importing the whole cluster.
+  Outside that cluster's scope, component definitions may operate as supporting Independent Definitions without importing the whole cluster.
 - **Scope:** where admission scope is met, the joint-invocation home for an integrated floor covering productive, contributed, or comparable activity, combining:
   - **Article III-C** (*Labor and Economic Floor*) rights:
     - **Fair Compensation**;
@@ -5853,7 +5853,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - Rights-Floor integrity; or
   - long- versus short-horizon constitutional alignment.
 
-  Outside that scope, [Governance](core_05.035_band_accountability.md#governance), [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity), or [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) may operate alone.
+  Outside that cluster's scope, [Governance](core_05.035_band_accountability.md#governance), [Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity), or [Strategic Stewardship Obligation](core_05.040_band_continuity.md#strategic-stewardship-obligation) may operate alone.
 - **Scope:** where admission scope is met, the joint-invocation home for principle-layer stewardship and capacity discipline where any of the following are materially interdependent:
   - stewardship orientation;
   - [Distributed Understanding](core_05.040_band_continuity.md#distributed-understanding);
@@ -6166,7 +6166,7 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope — throughline:** The connection between the two facets of **Pillar 3** (competence at scale) under [Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth): [Distributed Understanding](core_05.040_band_continuity.md#distributed-understanding) (what a community can check) and [Institutional Development](core_05.040_band_continuity.md#institutional-development) (what an institution can honestly learn from) both depend on shared systems being open enough to inspect, not just described.
-  - **In scope — aspiration:** Shared systems should **aspire** — consistent with those two facets and with [Chapter One §17 Consequential Stewardship](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)'s own auditability duty, subject to the scope and limits stated in [Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) — to:
+  - **In scope — aspiration:** Shared systems should **aspire** — consistent with those two facets and with [Chapter One §17 Consequential Stewardship](core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)'s own auditability duty, subject to that duty's scope and limits stated in [Chapter One §16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) — to:
     - **open** hardware and software;
     - **open** operational and governance processes; and
     - interoperable **systems** that support inspection, independent verification, repair, and [Contestability](core_05.035_band_accountability.md#contestability).
@@ -6472,7 +6472,7 @@ See **Anti-Segmentation Principle**.
 
 **Dependent cluster context** (joint invocation under admission scope):
 
-- **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
+- **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that cluster's scope, individual definitions may operate alone.
 - **Scope:** where admission scope is met, the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, **Identity Data Protection**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [§2.1 Joint invocation and satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction).
 - **Operational alignment:** data handling must align with **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** (*Data classifications*), which is the systems-layer rulebook for this cluster (see the [privacy paragraph](corpus_systems/cs_06.305_information_types_and_handling.md#privacy-owner-link) in its purpose and scope). The restricted and non-accessible types name their privacy homes in its [privacy link](corpus_systems/cs_06.310_data_classifications.md#privacy-link): **Type H** and **Type I** for personal, relational, behavioral, likeness, and metadata information; **Type N** for internal states; **Type S** for protected-party data during justified investigations; and **Type Y** for a creator's private and shared works, whose protections carry into **Type W**, **Type U**, and **Type T**. Proportional safeguards apply to all [CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications) (*Data classifications*) data types, and personal content inside open or audit-accessible material keeps its protective type.
 - **Anti-bypass:** privacy analysis must not be separated across articles or definitions, or from internal-state-boundary or surveillance-boundary assessment, where that satisfies one standard while evading another materially implicated discipline (see [§15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle)). No member's standard is loosened by importing a laxer standard from another member (same section, *No relaxation by read-across*).
@@ -6705,7 +6705,7 @@ See **Anti-Segmentation Principle**.
   - whether system behavior relative to stated properties supports that reliance; or
   - whether trust and trustworthiness requirements must be evaluated together.
 
-  Outside that scope, supporting definitions in other clusters may apply without importing this cluster's full joint-invocation discipline.
+  Outside that cluster's scope, supporting definitions in other clusters may apply without importing this cluster's full joint-invocation discipline.
 - **Scope:** where admission scope is met, the canonical O/M/A/C home for:
   - **Trust**;
   - **Trustworthiness**; and

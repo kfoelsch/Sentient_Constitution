@@ -99,7 +99,7 @@ Chapter Five, Participation Tetrad leg, is the constitutional owner of the **Par
 
 *In plain terms: this map lists the Participation clusters; leaf definitions inherit this leg's scope unless they say otherwise.*
 
-Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
+Leaf definitions under this leg inherit this leg's scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Dependent clusters** (**Def.P1–Def.P3**) — joint-invocation homes:
 

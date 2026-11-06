@@ -835,6 +835,9 @@
   "record-kind-audit": {
    "scope": "corpus"
   },
+  "scope-qualified-audit": {
+   "scope": "corpus"
+  },
   "chart-orientation-audit": {
    "scope": "corpus"
   }

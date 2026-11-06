@@ -78,7 +78,7 @@ Chapter Five, Continuity aim, is the constitutional owner of the **Continuity** 
 
 *In plain terms: this map lists Continuity's building blocks — stability, sustainability, ecological wellbeing, dependency, and cross-system support — and where each leaf lives.*
 
-Definitions under this aim inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
+Definitions under this aim inherit this aim's scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Main building blocks** (named in [Preamble §1 The Model](core_00.000_preamble.md#continuity) — long-horizon stability, sustainability, resilience, and ecological wellbeing) — where each term lives, and which cluster to read when several apply together:
 
