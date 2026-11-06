@@ -165,6 +165,8 @@ The chart follows an event to see whether it triggers a standing record and what
 
 ```mermaid
 flowchart TB
+    SP1["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SP2["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
     E(["Event<br/><br/>A bounded event, or a defined pattern<br/>of repeated conduct"])
     D{"§2.3, §2.5, §4<br/>Verified trigger?"}
     O["§5 Open the record<br/><br/>A named record-opening authority approves.<br/>A separate record custodian makes the entry.<br/>§2.2 The subject is notified"]
@@ -179,6 +181,8 @@ flowchart TB
     N["§2.3 Not triggers<br/><br/>An allegation, popularity,<br/>or protected dissent"]
     S(["§2.2 Silence is the default<br/><br/>No record. Having none is the ordinary state<br/>and says nothing about anyone"])
     E --> D
+    D ~~~ SP1
+    SP1 ~~~ SP2
     D -->|Yes| O
     D -->|No| N
     N --> S
@@ -197,6 +201,8 @@ flowchart TB
     style K fill:none,stroke:#64748b,color:#ffffff,stroke-dasharray: 5 5
     style L fill:none,stroke:#db2777,color:#ffffff
     style X fill:none,stroke:#9333ea,color:#ffffff
+    style SP1 fill:none,stroke:none,color:#111111
+    style SP2 fill:none,stroke:none,color:#111111
 ```
 
 <a id="21-standing-records-kinds-and-subjects"></a>
