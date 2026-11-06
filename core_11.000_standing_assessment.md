@@ -906,6 +906,13 @@ On such a standing record:
   - **Each participant:** May seek recognition as an individual claimant for work done in the group or outside it.
   - **What the standing record covers:** It concerns the participant's contribution and not the group's standing.
   - **Example, a quilting circle:** A quilting circle that gives quilts to newly arrived refugees is the pattern: each quilter may seek a standing record, verified by an independent relying body such as the agency that receives the quilts, and the circle needs no System Charter or Institutional Charter for that.
+- a violation standing record can arise in the same informal settings, and the seats stay separate there too:
+  - **Example, a bar incident:** Someone films another sentient in a bar who becomes drunk, disorderly, and violent, though no one is physically harmed.
+    - **No injury needed:** A verified credible threat of violence can support a violation standing record even when no one is hurt (**section 3.2**, coercive agency loss).
+    - **The video is an input:** The sentient who filmed is a witness. The footage is an input and never verification by itself, and its existence opens nothing on its own (**section 2.2**).
+    - **The sentient on the video:** They are the subject. They are told when a standing record opens, and they may not fill any seat ([§5.4 No self-custody](#54-no-self-custody)).
+    - **Verify seat:** An independent body with published authority to rely on the standing record, such as a local licensing or safety body, or a forum under **section 2.7**. The sentient who filmed and the bar's owner are excluded from it if either is a claimant or in a claimant's [Material Control Line](core_05.035_band_accountability.md#material-control-line).
+    - **Entry, custody, and contest:** A separate record custodian enters and holds the standing record, and a contest goes to the challenge lane or a forum under **section 2.7**, not back to the verifying body.
 - a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
 
 None of this requires a standing record to exist. **Section 2.2** *Silence is the default* controls: informal work is not recorded because it could be, and separation of duties binds only once a standing record is sought.
