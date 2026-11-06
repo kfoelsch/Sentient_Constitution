@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **237** of **304** registry terms carry a source gloss.
+Coverage: **238** of **305** registry terms carry a source gloss.
 
 ## Start here
 
@@ -325,6 +325,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Trustworthiness | *(no plain-terms gloss in source)* | [Source](../../core_05.040_band_continuity.md#trustworthiness) |
 | Truth (Constitutional Constraint) | when claims matter for decisions, be honest about what is known, unknown, and uncertain — do not deceive, distort, or present things in a misleading structure. | [Source](../../core_05.050_band_oversight.md#truth-constitutional-constraint) |
 | Two Constitutional Aims | *(no plain-terms gloss in source)* | [Source](../../core_01.000_values_principles.md#two-constitutional-aims) |
+| Under Challenge | **under challenge** is the status an official record carries while someone's challenge to it is open. The official record stays in view and keeps its earlier versions. Nobody has to stop relying on it unless the seat or forum hearing the challenge orders that. | [Source](../../core_05.035_band_accountability.md#under-challenge) |
 | Unified Incident | a Unified Incident treats one materially connected episode, campaign, or pattern as a whole so it cannot be split into smaller pieces to hide its impact or avoid review. | [Source](../../core_05.035_band_accountability.md#unified-incident) |
 | Unified Incident Record | *(no plain-terms gloss in source)* | [Source](../../core_05.035_band_accountability.md#unified-incident-record) |
 | Urgent Protection | **urgent protection** is protection ordered without waiting for the review to finish. A stay, interim protection, or reliance limit may be ordered before the supervisory sequence ends, even before a withdrawal is decided. The sequence still runs, and the measure is entered on the System Certification Record. | [Source](../../core_05.040_band_continuity.md#urgent-protection) |

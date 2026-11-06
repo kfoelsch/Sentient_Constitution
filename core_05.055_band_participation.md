@@ -297,7 +297,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eleven — §7 LEQU baseline](core_11.005_standing_measurement.md#lequ-baseline-constitutional-outcome) (11.005 §7) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [Chapter Eleven §10 unified proportional LEQU scale](core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §10) for the Contribution and Violation axes.
+- Canonical owner: [Chapter Eleven — §7.1 LEQU baseline](core_11.005_standing_measurement.md#71-lequ-baseline) (11.005 §7.1) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [Chapter Eleven §12 unified proportional LEQU scale](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §12) for the Contribution and Violation axes.
 
 </details>
 
@@ -306,7 +306,7 @@ Independent Definitions meta rules live in [core_05.000_definitions_home.md](cor
 *In plain terms: a shared unit for expressing full-life-equivalent benefit or loss when Chapter Eleven standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.*
 
 - **What it is**
-  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Eleven §10 unified scale](core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Five pointer; canonical mechanics live in Chapter Eleven **§10 Unified proportional LEQU scale — Contribution and Violation Axes**.
+  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Eleven §12 unified scale](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Five pointer; canonical mechanics live in Chapter Eleven **§10 Unified proportional LEQU scale — Contribution and Violation Axes**.
   - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Chapter Eleven unified scale.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**

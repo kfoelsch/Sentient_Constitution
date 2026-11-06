@@ -651,7 +651,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH10-Q3-SLOT-001
 - **Class:** adversarial / owner-boundary
 - **Summary:** A decision-maker seeks to lower a fixed Chapter Eleven Violation Axis slot because the requested lock appears too restrictive. Expected result: Chapter Twelve must preserve the verified facts, LEQU measurement, and slot; it may calibrate only the named-pathway-scoped Question 3 consequence.
-- **Read with:** [Chapter Eleven §10](../core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Twelve §1](../core_12.000_standing_integration.md#1-chapter-eleven-records-do-not-change); [Chapter Twelve §4.2](../core_12.000_standing_integration.md#42-prevention--general-standing-locks).
+- **Read with:** [Chapter Eleven §12](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Twelve §1](../core_12.000_standing_integration.md#1-chapter-eleven-records-do-not-change); [Chapter Twelve §4.2](../core_12.000_standing_integration.md#42-prevention--general-standing-locks).
 
 ### Scenario ID: RS-CH10-Q3-SINGLE-AXIS-001
 - **Class:** adversarial / applicable-input discipline
@@ -676,7 +676,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH10-Q3-RECENCY-001
 - **Class:** adversarial / stage ownership
 - **Summary:** An implementation applies Chapter Twelve currentness weighting before assigning the Chapter Eleven Contribution Axis slot. Expected result: reject the slot calculation; recency is a Question 3 clearance/readiness input only and cannot alter historical contribution measurement or recognition.
-- **Read with:** [Chapter Eleven §10](../core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Twelve §6.1](../core_12.000_standing_integration.md#61-recency-and-currentness); [implementation scale](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
+- **Read with:** [Chapter Eleven §12](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Twelve §6.1](../core_12.000_standing_integration.md#61-recency-and-currentness); [implementation scale](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
 
 ### Scenario ID: RS-CH10-Q3-RESTORE-001
 - **Class:** adversarial / restoration override
@@ -721,7 +721,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
 - **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_11.010_application_vignettes.md](../core_11.010_application_vignettes.md#4-stewardship-delay-and-deferred-repair).
-- **Read with:** [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship In Depth](../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Eleven §7.2](../core_11.005_standing_measurement.md#72-violation-severity-input-dimensions); [Chapter Twelve §9.5](../core_12.000_standing_integration.md#95-timely-implementation); [Chapter Fourteen §6](../core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVI-C**.
+- **Read with:** [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship In Depth](../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Eleven §8.2](../core_11.005_standing_measurement.md#82-violation-severity-input-dimensions); [Chapter Twelve §9.5](../core_12.000_standing_integration.md#95-timely-implementation); [Chapter Fourteen §6](../core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVI-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow
