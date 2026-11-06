@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-11-05T09:07:13+00:00",
+  "generated_at": "2026-11-06T05:56:44+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "format": "interned-v1",
   "layout": {"nodes": "[id, type]", "anchors": "distinct anchor strings", "edges": "[source_index, [[target_index, count, [anchor_index, ...]], ...]]"},

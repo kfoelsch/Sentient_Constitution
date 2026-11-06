@@ -517,7 +517,7 @@ where multiple necessary options remain after [§13.1.1 Necessity](../../core_01
 
 ###### 13.1.3 Proportionality
 
-proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if its scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.
+proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.
 
 [Source](../../core_01.005_interaction_interpretation.md#1313-proportionality)
 
@@ -2327,7 +2327,7 @@ an **Institution** is a lasting holder of authority, such as an office, agency, 
 
 ##### System Charter
 
-a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and scheduled review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.
+a **System Charter** is the published statement of what one system is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that chartered scope, the System Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and scheduled review keep the paper matched to real behavior. A System Charter is not a shield against impact-based classification or full-boundary evaluation. When an institution runs only one system, its System Charter is also its Institutional Charter, so one document covers both.
 
 [Source](../../core_05.040_band_continuity.md#system-charter)
 
@@ -6567,7 +6567,7 @@ spying, secret security work, armed force, and machines that can hurt or pressur
 
 ##### Article XIV-A: Security, Intelligence, and Covert-Power Limits
 
-no secret police. Covert power — surveillance, intelligence collection, infiltration — is the exception, not the rule. It requires independent authorization, narrow scope, outside review, and real remedies when misused. Secrecy may not be used to escape accountability, and routine political and protected activity must never be its target.
+no secret police. Covert power — surveillance, intelligence collection, infiltration — is the exception, not the rule. It requires independent authorization, limits on how far it reaches, outside review, and real remedies when misused. Secrecy may not be used to escape accountability, and routine political and protected activity must never be its target.
 
 [Source](../../core_06.010_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits)
 

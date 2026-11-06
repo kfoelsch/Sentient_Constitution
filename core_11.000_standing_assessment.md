@@ -709,7 +709,7 @@ Every opening, correction, expiry, or supersession of a standing record is autho
 
 - **Named in the System Charter or Institutional Charter:** Where the standing record concerns a system, institution, or business that holds a [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), that System Charter or Institutional Charter names the record-opening authority and record custodian for standing records concerning its chartered scope, or points to the published document that names them ([Chapter Seven §4.6 Standing-record custody](core_07.000_charters.md#46-standing-record-custody); **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*)).
 - **Forums:** Forums act as record-opening authorities on the terms in **section 2.7**; a forum that verified a standing record does not hear the contest of that standing record, which goes to secondary review under [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) and **CF-14.420** (*Appeal, secondary review, and exhaustion pathways*).
-- **No authority named:** Where neither a System Charter, an Institutional Charter, nor a forum designation reaches the standing record, [§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) applies, and the adopting document under [Chapter Eighteen](core_18.000_amendment_ratification.md) or the published rules of the body that operates the standing pipeline must then name one.
+- **No authority named:** Where a System Charter or Institutional Charter reaches the standing record but leaves a required seat unnamed, [§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed) applies. Where neither a System Charter, an Institutional Charter, nor a forum designation reaches the standing record, [§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) applies, and the adopting document under [Chapter Eighteen](core_18.000_amendment_ratification.md) or the published rules of the body that operates the standing pipeline must then name one.
 - **Provisional entries:** An entry made without a named authority is marked **provisional**: it preserves evidence and notice under **section 2.2**, but it supplies no verified input under **section 4.1** and no Chapter Twelve effect until a named authority confirms it, corrects it, or sets it aside.
 
 <a id="53-record-custodian"></a>
@@ -779,6 +779,58 @@ Sometimes the named custodian is excluded under *No self-custody* from one stand
 
 #### 5.7 When a System Charter or Institutional Charter leaves a seat unnamed
 
+Where a standing record goes when the ordinary named route is unavailable depends on three questions, which the chart below takes in order. This section covers a System Charter or Institutional Charter that leaves a seat unnamed; [§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) covers the case where none reaches the standing record.
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to read the chart</span></strong></summary>
+
+> In plain terms: a standing record is handled by the offices the System Charter or Institutional Charter names. If the System Charter or Institutional Charter leaves a seat unnamed, it is invalid until the gap is fixed, and the standing record goes to the Backup Record Authority and Backup Record Custodian, or to a forum, not to the lane map. If no System Charter or Institutional Charter reaches the standing record at all, the institution's published lane map decides, and where there is none the standing record goes to independent verification or, for informal and small-scope work, to the body that relies on it.
+>
+> Every path ends at the same box: one office verifies the facts and a separate one enters and holds the standing record, and [§6 Handling a standing record](#6-handling-a-standing-record) then governs what the holders do with it. Solid arrows are the main path. Dotted arrows are hand-offs, labeled with the section that makes them. The boxes with double side bars belong to another chapter, and the last one is where effects on standing are drawn, from the standing record, without rewriting it. The chart adds no duty, seat, or field.
+
+</details>
+
+<br>
+
+```mermaid
+flowchart TB
+    S(["§5.2, §5.3 A standing record needs<br/>a record-opening authority<br/>and a record custodian"])
+    Q1{"§5.7, §5.8<br/>Does a System Charter or<br/>Institutional Charter<br/>reach the standing record?"}
+    Q2{"§5.7<br/>Is every required<br/>seat named and filled?"}
+    Q3{"§5.8<br/>Is there a<br/>published lane map?"}
+    G["§5.7 A seat is unnamed or vacant<br/><br/>The Charter is invalid until it is fixed.<br/>The lane map does not stand in.<br/>The Backup Record Authority verifies and the<br/>Backup Record Custodian holds, or a forum<br/>under §2.7 takes it, and the standing<br/>record stays whole with one custodian"]
+    N["§5.2, §5.3 The named holders act<br/><br/>The Charter Role Map names them.<br/>§5.4 to §5.6 exclusions still apply"]
+    L["§5.8 The lane map decides<br/><br/>Assurance and audit lane: verifies<br/>Publication and evidence lane: holds<br/>The execution lane does neither"]
+    I["§5.8 No lane map either<br/><br/>Independent verification under §5.4,<br/>or the relying body under §5.9<br/>for informal and small-scope records"]
+    X[["Chapter Seven §4.7<br/><br/>Outside this chapter<br/><br/>Gap log, response windows,<br/>and return of custody"]]
+    E["§6 Standing record entered and held<br/><br/>One office verified it; another enters and holds it.<br/>Every entry is attributed:<br/>it names who made it and<br/>under what authority.<br/>§6 governs what the holders do next:<br/>entries, challenges, and corrections"]
+    T[["Chapter Twelve — Question 3<br/><br/>Outside this chapter<br/><br/>Effects on standing are drawn from the<br/>standing record and never rewrite it"]]
+    S --> Q1
+    Q1 -->|"Yes"| Q2
+    Q1 -->|"No"| Q3
+    Q2 -->|"No"| G
+    Q2 -->|"Yes"| N
+    Q3 -->|"Yes"| L
+    Q3 -->|"No"| I
+    G -.->|"§5.7 gap process"| X
+    G --> E
+    N --> E
+    L --> E
+    I --> E
+    E -.->|"§6 Every effect must<br/>trace to an attributed entry"| T
+    style S fill:none,stroke:#64748b,color:#ffffff
+    style Q1 fill:none,stroke:#ea580c,color:#ffffff
+    style Q2 fill:none,stroke:#ea580c,color:#ffffff
+    style Q3 fill:none,stroke:#ea580c,color:#ffffff
+    style G fill:none,stroke:#db2777,color:#ffffff
+    style N fill:none,stroke:#2563eb,color:#ffffff
+    style L fill:none,stroke:#2563eb,color:#ffffff
+    style I fill:none,stroke:#ea580c,color:#ffffff
+    style X fill:none,stroke:#9333ea,color:#ffffff
+    style E fill:none,stroke:#db2777,color:#ffffff
+    style T fill:none,stroke:#9333ea,color:#ffffff
+```
+
 A System Charter or Institutional Charter that leaves a required record seat or the independent route unnamed:
 
 - **Consequence:** The System Charter or Institutional Charter is invalid, and a change that would do so is not allowed ([Chapter Seven §4.7.1 When a gap exists and how it is logged](core_07.000_charters.md#471-when-a-gap-exists-and-how-it-is-logged)).
@@ -811,11 +863,7 @@ Where no System Charter or Institutional Charter covers the system, institution,
 - **Custodian:** The office holding the publication and evidence lane.
 - **Execution lane excluded:** Neither may be the office holding the execution lane for the system concerned.
 - **No lane map either:** The standing record routes to independent verification under *No self-custody* above, or, for informal and small-scope records, to the relying body under *Informal and small-scope records* next.
-- **Stewards:** A steward who is asked to fill a seat that the lane map does not give them:
-  - **Declines the seat:** Having the access or technical ability to enter the standing record gives them no authority to enter it.
-  - **Names the request and the gap:** They name both in the log.
-  - **Sends the standing record on:** They send it to the office the lane map names or, where it names none, by the route in *No lane map either* above.
-  - **Keeps their other duties:** The duties they already have under [§5.4 No self-custody](#54-no-self-custody) (*Stewards inside the subject*) continue: they halt what they control, log the reconstructable set, preserve the evidence they hold, notify, and escalate. None of those acts verifies the facts or enters the standing record. The log and the preserved evidence go with the standing record as inputs for the authority that verifies it; they are not an entry, and they do not decide the facts.
+- **Stewards:** A steward who is asked to fill a seat that the lane map does not give them follows the *Stewards* rule in [§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed): they decline the seat, name the request and the gap in the log, and keep their other duties. They send the standing record to the office the lane map names or, where it names none, by the route in *No lane map either* above.
 
 <a id="59-informal-and-small-scope-records"></a>
 
