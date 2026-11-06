@@ -92,7 +92,7 @@ Chapter Five, Timeliness Tetrad leg, is the constitutional owner of the **Timeli
 
 *In plain terms: this map lists the Timeliness leaves; they inherit this leg's scope unless they say otherwise.*
 
-Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
+Leaf definitions under this leg inherit this leg's scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Timeliness measurement family leaves** — operative measurement layers:
 

@@ -70,7 +70,7 @@ Every constitutional definition MUST be built from linked parts, each with exact
 
 Those parts MUST stay consistent within each definition. Enforcement, governance, implementation, measurement operations, audit, and classification mechanics beyond definitional scope belong in later chapters; they MUST comply with the [Constitutional Constraints](core_05.045_band_integrative.md#constitutional-constraint) established here.
 
-Every definition MUST be met for the whole system as it actually runs — including systems spread across sentients, machines, and locations. The O, M, A, and C parts MUST all pass together, on the same scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
+Every definition MUST be met for the whole system as it actually runs — including systems spread across sentients, machines, and locations. The O, M, A, and C parts MUST all pass together, on the same evaluation scope and under the same test conditions. Passing one part by carving out pieces of the system, narrowing what counts, or weakening another part does not count.
 
 #### 1.1 Ontological Components (O) — What It Is
 
@@ -221,7 +221,7 @@ A definition is not met if the way it is built, read, or applied lets one part b
 #### 2.3 Construction Constraints
 Definitions must be written so that:
 - all parts (O, M, A, C) can only be met together under conditions that reflect how the system really behaves and what it really produces
-- no part can be met by generalizing, splitting things up, narrowing the scope, or describing them in a way that leaves out system elements, interactions, or effects that actually matter
+- no part can be met by generalizing, splitting things up, narrowing the evaluation scope, or describing them in a way that leaves out system elements, interactions, or effects that actually matter
 - no measure stands in for the result it is meant to capture; a measure that drifts from the real-world result it represents (see [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence)) cannot meet the definition, and the choice of measures must not shrink what has to be assessed or what has to hold in practice
 - no unstated assumptions, hidden dependencies, or left-out conditions change or weaken what must be assessed or what must hold in practice
 

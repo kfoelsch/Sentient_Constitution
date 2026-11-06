@@ -91,7 +91,7 @@ Chapter Five, Oversight Tetrad leg, is the constitutional owner of the **Oversig
 
 *In plain terms: this map lists the Oversight clusters and topic groups; leaf definitions inherit this leg's scope unless they say otherwise.*
 
-Leaf definitions under this leg inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
+Leaf definitions under this leg inherit this leg's scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Dependent clusters** (**Def.O1–Def.O2**) — joint-invocation homes:
 

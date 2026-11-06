@@ -261,7 +261,7 @@ This Article sets out the right to redress and remedy and what makes it usable i
 
 *In plain terms: a system may not manufacture trust it has not earned. Misleading claims, omissions, or presentation choices that make unsafe reliance look warranted are violations — regardless of how useful or popular the system is.*
 
-This Article sets out the prohibition of false trust and its scope:
+This Article sets out the prohibition of false trust and the scope of that prohibition:
 
 - **Prohibition of false trust:** Systems that induce reliance without meeting the conditions of this Article are non-compliant, regardless of utility, adoption, or intent.
   - Creation, amplification, or maintenance of unjustified trust violates this right when it operates through:
@@ -508,7 +508,7 @@ This Article covers the exceptional powers of security, intelligence, force, and
 
 <br>
 
-*In plain terms: no secret police. Covert power — surveillance, intelligence collection, infiltration — is the exception, not the rule. It requires independent authorization, narrow scope, outside review, and real remedies when misused. Secrecy may not be used to escape accountability, and routine political and protected activity must never be its target.*
+*In plain terms: no secret police. Covert power — surveillance, intelligence collection, infiltration — is the exception, not the rule. It requires independent authorization, limits on how far it reaches, outside review, and real remedies when misused. Secrecy may not be used to escape accountability, and routine political and protected activity must never be its target.*
 
 This Article sets out the limits on security, intelligence, and covert power:
 

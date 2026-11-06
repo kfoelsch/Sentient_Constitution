@@ -900,6 +900,16 @@
       "run": "auto",
       "writes": false
     },
+    "scope-qualified-audit": {
+      "category": "vocab",
+      "run": "auto",
+      "writes": false
+    },
+    "scope-qualified-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
     "chart-orientation-audit": {
       "category": "links",
       "run": "auto",

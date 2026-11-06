@@ -341,7 +341,7 @@ The **supervisory sequence** is the step-by-step order in which forums supervise
    - **Institutional Forums** supply required institutional-mandate and Rights Floor component findings where [§6.1 Forum Supervision and Component Roles](#61-forum-supervision-and-component-roles) assigns those stakes;
    - **Sentient Forums** supply community-governance findings where the system materially affects how a community governs itself, and the Rights Floor component for community-level stakes, with Institutional Forums having the final say where the two conflict ([§6.1.5 Sentient Forums](#615-sentient-forums)); and
    - **Constitutional** and other assigned forum families supply component findings for stakes that Chapter Fourteen assigns to them.
-3. **Referral, sending for ruling, and stay:** The lead forum must refer, send for ruling, or [stay](core_05.035_band_accountability.md#stay) any component question that belongs mainly to another forum family. Until the required component work behind an authorization is finished, the lead forum cannot authorize the affected scope, and it cannot remove or significantly loosen the scope's certification conditions. Required component work includes:
+3. **Referral, sending for ruling, and stay:** The lead forum must refer, send for ruling, or [stay](core_05.035_band_accountability.md#stay) any component question that belongs mainly to another forum family. Until the required component work behind an authorization is finished, the lead forum cannot authorize the affected scope, and it cannot remove or significantly loosen the certification conditions of the affected scope. Required component work includes:
    - any finding a component forum is required to give;
    - a decision on any material objection (one that could affect the outcome);
    - verification that any certification condition required before authorization has been met; and
@@ -544,7 +544,7 @@ These rules apply to the notice interval.
 
 - **Certification conditions before go-live:** findings, corrective measures, and protections that must be independently verified before the affected scope operates;
 - **Continuing certification conditions:** limits and safeguards that must hold throughout permitted operation, with monitoring and a stated response to a violation; and
-- **Corrective work after authorization:** work that may follow while the system operates, but only within an expressly bounded scope whose protections have been verified. The assigned component authority must state why that scope preserves the applicable Rights Floors while the correction is pending.
+- **Corrective work after authorization:** work that may follow while the system operates, but only within an expressly bounded scope whose protections have been verified. The assigned component authority must state why that bounded scope preserves the applicable Rights Floors while the correction is pending.
 
 For every certification condition or corrective task, the System Certification Record must name:
 
@@ -579,7 +579,7 @@ If a system was already running when an organization adopted this constitution, 
 
 ##### 7.1.2 Pilots
 
-The go-live rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own System Certification Record, scaled under [Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification). Its certification covers only the scope, population, and duration stated on that System Certification Record. Full deployment needs its own certification, which may draw on the pilot's record.
+The go-live rule applies to a [pilot](core_05.040_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own System Certification Record, scaled under [Part A §2.3 Pilot certification](core_09.000_system_alignment_certification_evaluation.md#23-pilot-certification). Its certification covers only the certified scope, population, and duration stated on that System Certification Record. Full deployment needs its own certification, which may draw on the pilot's record.
 
 <a id="72-certification-defects-and-correction"></a>
 
@@ -615,7 +615,7 @@ Where the same material certification defect both leads the forum to order a fre
 
 It uses the cause finding and tier windows in [Part C §9.3 Provisional and full certification](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification).
 
-The operator or steward supplies evidence of correction. The assigned authority independently verifies it before it supports authorization of that scope or fulfillment of its certification conditions. Correction must:
+The operator or steward supplies evidence of correction. The assigned authority independently verifies it before it supports authorization of that certified scope or fulfillment of its certification conditions. Correction must:
 
 - address the defect and its identified cause; and
 - show that the affected safeguards hold, including regression confirmation where [CS-6.345 §10 Recertification, regression testing, and certification defects](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-10-recertification-regression-testing-and-certification-defects) requires it.

@@ -435,7 +435,7 @@ Harm minimization selects among options that already clear those floors — it d
 
 <br>
 
-*In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if its scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.*
+*In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.*
 
 Limitations on constitutional **values** — including **Chapter Six** Rights-Floor protections and other principles and protections subject to tradeoff under [§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](core_05.035_band_accountability.md#proportionality) in **Chapter Five**.
 
@@ -1196,7 +1196,7 @@ Adopted implementation layers may add detail to these protections. They must not
 
 Where the questions a matter raises materially travel together, assess the matter as one. This applies to jointly invoked definition clusters under [Chapter Five §2.1 Joint invocation and satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction), and to any other matter whose duties are materially interdependent.
 
-A matter inside that scope must not be divided into any of the following in a way that satisfies one part while defeating another part that is materially implicated:
+A matter that is to be assessed as one must not be divided into any of the following in a way that satisfies one part while defeating another part that is materially implicated:
 - separate framings, categories, or classifications;
 - separate questions, components, or tests;
 - separate channels, records, or procedures;
@@ -1204,7 +1204,7 @@ A matter inside that scope must not be divided into any of the following in a wa
 
 Meeting one part is not compliance with the whole. Where the matter's duties interlock, the assessment must test them together and give the result for the whole matter.
 
-**No relaxation by read-across.** Assessing a matter as one adds duties; it never lowers one. Each part's own standard controls within its own scope and may not be loosened by importing a laxer standard from another part.
+**No relaxation by read-across.** Assessing a matter as one adds duties; it never lowers one. Each part's own standard controls within that part's scope and may not be loosened by importing a laxer standard from another part.
 
 This principle does not:
 - pull unrelated definitions or duties into a matter because one term appears;

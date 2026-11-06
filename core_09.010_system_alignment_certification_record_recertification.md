@@ -159,7 +159,7 @@ The subsections below set out what the System Certification Record must contain.
 The System Certification Record must identify, at minimum:
 
 - **System identity, scope, and status:**
-  - the system, its System Version, its operator or steward, and its scope;
+  - the system, its System Version, its operator or steward, and its certified scope;
   - the governing [System Charter](core_05.040_band_continuity.md#system-charter) (or the reasoned absence of one, where that is immaterial);
   - affected communities and dependencies;
   - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists; and
@@ -302,7 +302,7 @@ The System Certification Record must identify, at minimum:
 
 The System Certification Record must also contain a concise **operating plan**, scaled to system class and material impact. The plan summarizes requirements on the same System Certification Record, and no separate document is required. It must state:
 
-- the scope, population, and duration of any authorized operation;
+- the certified scope, population, and duration of any authorized operation;
 - where the system is certified, the certification expiry, the next recertification due date, and the date by which the midpoint audit under [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#review-cadence) (*Review cadence*) must be completed;
 - for a first go-live or material expansion, the earliest permitted go-live, the notice interval, and its justification under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate);
 - each certification condition's timing, responsible owner, evidence of completion or continuing compliance, independent verifying authority, and consequence of violation under [Part B §7.1 Go-Live Gate](core_09.005_system_alignment_certification_record_process.md#71-go-live-gate);

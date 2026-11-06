@@ -176,7 +176,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
   - **In scope:** Governance decisions whose subject is authorization of governing authority itself:
     - who holds it;
     - what governance mechanism applies; and
-    - the scope and durable terms of that authority.
+    - that authority's scope and durable terms.
 
     This belongs to the [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer).
     - Owner: [Chapter Fifteen §4.1 Entitlement and eligibility](core_15.000_governance.md#41-entitlement-and-eligibility).

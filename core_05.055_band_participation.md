@@ -1962,7 +1962,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
     - uses;
     - depends upon; or
     - is materially affected by
-    a specified system, institutional arrangement, or bounded decision domain — judged by that entity's operation or outcomes. Stakeholder status answers *who is materially touched in a proportionality-relevant way* relative to that scope.
+    a specified system, institutional arrangement, or bounded decision domain — judged by that entity's operation or outcomes. Stakeholder status answers *who is materially touched in a proportionality-relevant way* relative to that system, institutional arrangement, or decision domain.
   - **In scope — indirect impacts:** Indirect or dependency-based impacts count when demonstrable under [Auditability](core_05.050_band_oversight.md#auditability)-compatible criteria, consistent with:
       - [Material](core_05.050_band_oversight.md#material);
       - [Dependency](core_05.040_band_continuity.md#dependency); and
@@ -3184,7 +3184,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
 *In plain terms: when sentients who are affected by a system disagree about a decision that will stick, there must be a published fair process — who gets a say, how much influence anyone may have, how the decision gets made and challenged, and how conflicts among rights get written down — not back-room power.*
 
-**Admission scope.** This cluster applies when a real disagreement requires a binding stakeholder choice inside a system, institution, or decision domain that is already authorized — especially where who may take part, how they are represented, how much influence they get, rights-affecting outcomes, or rights-collision records are at issue. Outside that scope, the individual pieces may still guide procedure without pulling in the whole compound requirement.
+**Admission scope.** This cluster applies when a real disagreement requires a binding stakeholder choice inside a system, institution, or decision domain that is already authorized — especially where who may take part, how they are represented, how much influence they get, rights-affecting outcomes, or rights-collision records are at issue. Outside that cluster's scope, the individual pieces may still guide procedure without pulling in the whole compound requirement.
 
 Where admission scope is met, this cluster is the place those rules live together inside the **Stakeholder System Participation** layer. It covers:
 
@@ -3368,7 +3368,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-**Admission scope.** This cluster applies where a matter materially concerns autonomy of thought, expression, education, volitional continuity, or manipulation-resistant agency — especially where those freedoms are materially interdependent under Chapter Fourteen. Outside that scope, individual entries such as [Self-Determination](core_05.055_band_participation.md#self-determination) may operate alone. Within the admission scope, this is the joint-invocation home: read the cluster members together rather than treating one as enough on its own.
+**Admission scope.** This cluster applies where a matter materially concerns autonomy of thought, expression, education, volitional continuity, or manipulation-resistant agency — especially where those freedoms are materially interdependent under Chapter Fourteen. Outside that cluster's scope, individual entries such as [Self-Determination](core_05.055_band_participation.md#self-determination) may operate alone. Within the admission scope, this is the joint-invocation home: read the cluster members together rather than treating one as enough on its own.
 
 **Cluster members.** This cluster comprises:
 

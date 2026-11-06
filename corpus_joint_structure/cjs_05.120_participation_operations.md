@@ -166,9 +166,9 @@ Governance-layer assignment (Constitutional Contract Layer vs Stakeholder System
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in assigning the Constitutional Contract Layer versus Stakeholder System Participation.
 <a id="governance-layer-assignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain
+  - **Primary measure:** whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the governing authority's scope and durable terms, or instead resolves a materially rights-affecting decision inside an already-authorized domain
 
-    **Primary assessment:** Evaluation must verify whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the scope and durable terms of authority, or instead resolves a materially rights-affecting decision inside an already-authorized domain.
+    **Primary assessment:** Evaluation must verify whether the decision authorizes or reauthorizes governing authority, the legitimacy mechanism, or the governing authority's scope and durable terms, or instead resolves a materially rights-affecting decision inside an already-authorized domain.
 <a id="governance-layer-assignment-c"></a>
 - **What must hold**
   - **Primary failure:** Treating foundational authorization as ordinary Stakeholder System Participation, or treating an internal stakeholder decision as if it could alter the Constitutional Contract Layer without satisfying that layer.
@@ -273,7 +273,7 @@ Stakeholder System Participation floor
     **Primary assessment:** Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice.
 <a id="stakeholder-governance-participation-floor-c"></a>
 - **What must hold**
-  - **Primary failure:** Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the legitimacy mechanism, or the scope and durable terms of that authority.
+  - **Primary failure:** Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the legitimacy mechanism, or that authority's scope and durable terms.
 
 <a id="weighted-participation"></a>
 Weighted participation
@@ -462,10 +462,10 @@ Layering and access
 <a id="meaningful-transparency-minimum"></a>
 Meaningful transparency minimum
 
-*In plain terms: disclosure for this scope must let qualified stakeholders follow purpose, operation, impact, and key decision paths — not drown them in volume.*
+*In plain terms: disclosure for the system, institution, or decision domain concerned must let qualified stakeholders follow purpose, operation, impact, and key decision paths — not drown them in volume.*
 
 - **What it is**
-  - **In scope:** Apply [Transparency](../core_05.050_band_oversight.md#transparency) by testing whether disclosed materials let qualified stakeholders understand purpose, operation, impact, and key decision paths for this scope.
+  - **In scope:** Apply [Transparency](../core_05.050_band_oversight.md#transparency) by testing whether disclosed materials let qualified stakeholders understand purpose, operation, impact, and key decision paths for the system, institution, or decision domain concerned.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in meaningful transparency minimum; the constitutional meaning of Transparency itself.
 <a id="meaningful-transparency-minimum-a"></a>
 - **How to measure and assess**

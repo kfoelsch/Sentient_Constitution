@@ -122,7 +122,7 @@ A system is non-compliant where those observables would violate a definition und
 - a definition is not met in full under full functional system conditions:
   - semantic, measurement, assessment, and compliance scope together (O, M, A, and C)
   - including across time, scale, connected systems, and operating conditions where they matter
-- a definition is met only on paper while that full scope is not met:
+- a definition is met only on paper while that full definition scope is not met:
   - only in form, representation, structure, process, or limited conditions
   - outcomes inconsistent with the full protective, assessment, or compliance scope of a definition
   - definition components satisfied only under restricted, non-representative, or selectively constructed conditions

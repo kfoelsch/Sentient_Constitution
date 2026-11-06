@@ -814,7 +814,7 @@ Delegated binding body
     **Primary assessment:** Evaluation must verify the delegation source, scope boundaries, decision authority, composition, quorum or participation rules where applicable, records, and challenge or escalation paths.
 <a id="delegated-binding-body-c"></a>
 - **What must hold**
-  - **Primary failure:** A delegated body when its authority is unpublished, materially exceeds its scope, lacks auditable official records, or defeats owner-file independence, participation, or contest routes.
+  - **Primary failure:** A delegated body when its authority is unpublished, materially exceeds the scope of its authority, lacks auditable official records, or defeats owner-file independence, participation, or contest routes.
 
 <a id="deposition-or-preserved-testimony-session"></a>
 Deposition or preserved-testimony session

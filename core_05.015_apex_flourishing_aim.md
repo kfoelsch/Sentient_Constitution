@@ -77,7 +77,7 @@ Chapter Five, Flourishing aim, is the constitutional owner of the **Flourishing*
 
 *In plain terms: this map lists Flourishing's building blocks — truth, safety, trustworthiness, and meaningful agency — and where each leaf lives.*
 
-Leaf definitions under this aim inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
+Leaf definitions under this aim inherit this aim's scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map).
 
 **Constituents** (named in [Preamble §1 The Model](core_00.000_preamble.md#flourishing)) — definition home and joint-invocation cluster:
 

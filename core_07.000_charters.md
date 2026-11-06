@@ -706,7 +706,7 @@ The formation check sets out which offices it covers, who falls outside it, and 
 - **Covered offices:**
   - each office of the governing authority, including every office that holds the amendment authority named under [§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state) (item 7);
   - each office the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) names for a seat, a substitute, or the independent route ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)); and
-  - any other office, delegate, or contractor whose acts materially bind others within the chartered scope or who controls the official records, keys, or funds that scope depends on.
+  - any other office, delegate, or contractor whose acts materially bind others within the chartered scope or who controls the official records, keys, or funds that chartered scope depends on.
 - **Other staff:** are not checked one by one. They are covered by the staff safeguards check below.
 - **Any substrate:** the formation check is the same whatever the substrate of the holder. Where the holder of a covered office is a System, the formation check runs on that System's operator or steward, whose interests and control are the ones that matter, as well as on the System's own System Certification Record.
 
@@ -973,7 +973,7 @@ A holder who receives an adverse standing finding is protected as follows:
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
 - [§7.1 Changing the document](#71-changing-the-document) says who may amend a System Charter or Institutional Charter, that the change needs notice and a way to contest it, and that the authority and date are recorded.
-- [§7.2 No quiet widening of scope](#72-no-quiet-widening-of-scope) says that going beyond the stated scope without an amendment is a failure, that offering the document as permission for work outside it is the main one, and that writing a narrower scope does not shrink what the Chartered Party is held to.
+- [§7.2 No quiet widening of scope](#72-no-quiet-widening-of-scope) says that going beyond the stated scope without an amendment is a failure, that offering the document as permission for work outside it is the main one, and that writing a narrower chartered scope does not shrink what the Chartered Party is held to.
 - [§7.3 Regular review](#73-regular-review) says how often the document is reviewed, what sets off an earlier review, and what each review checks.
 - [§7.4 Adding, retiring, or merging Systems](#74-adding-retiring-or-merging-systems) says that a change to an Institution's Systems is a material amendment of its Institutional Charter.
 - [§7.5 When the document and the practice disagree](#75-when-the-document-and-the-practice-disagree) says how a material mismatch is closed, that it also sets off a new forum review of the certification, without waiting for the next scheduled one, and which forums hear disputes about an Institutional Charter.
@@ -1020,9 +1020,9 @@ A material change is an amendment, and an amendment follows set rules:
 
 A Chartered Party stays inside the scope its System Charter or Institutional Charter states. To go beyond it, the document must be amended first:
 
-- **What counts as a failure:** Operating materially outside the chartered scope is a failure of the System Charter or Institutional Charter. So is widening the scope by habit, by delegation, or by reading the words differently, without an amendment.
+- **What counts as a failure:** Operating materially outside the chartered scope is a failure of the System Charter or Institutional Charter. So is widening the chartered scope by habit, by delegation, or by reading the words differently, without an amendment.
 - **The worst version:** Pointing to the System Charter or Institutional Charter as current permission for work that lies outside it is the main failure.
-- **A narrow document is no shelter:** Writing a narrow scope does not reduce what the Chartered Party is held to. Its class, its boundary, and its duties follow what it really does and what depends on it ([System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity)), and a document that claims less is read against them.
+- **A narrow document is no shelter:** Writing a narrow chartered scope does not reduce what the Chartered Party is held to. Its class, its boundary, and its duties follow what it really does and what depends on it ([System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity)), and a document that claims less is read against them.
 
 <a id="73-regular-review"></a>
 #### 7.3 Regular review
@@ -1065,8 +1065,8 @@ Changing which Systems an Institution runs is a major step, and it is handled as
 
 When a System Charter or Institutional Charter and what the Chartered Party actually does differ in a material way, the gap is closed in the open:
 
-- **Ways to close it:** Amend the document, fix the practice (remediation), recertify, or cut back the scope to fit the document.
-- **Ways that do not count:** Quietly widening the scope, or leaving the paper as it is.
+- **Ways to close it:** Amend the document, fix the practice (remediation), recertify, or cut back the chartered scope to fit the document.
+- **Ways that do not count:** Quietly widening the chartered scope, or leaving the paper as it is.
 - **Certification review:** A material mismatch also sets off a new forum review of that System's or Institution's certification. The review does not wait for the next scheduled one. For a System, see [Chapter Nine Part C §9.2 Reopening triggers](core_09.010_system_alignment_certification_record_recertification.md#92-reopening-triggers). For an Institution, see [Chapter Ten §9.2 Reopening triggers](core_10.000_institutional_alignment_certification.md#92-reopening-triggers). Certification reads the stated scope and compares it with the real boundaries. It does not rewrite the document, and an institutional certification cites each included System Certification Record without redoing it ([Chapter Ten](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification)).
 - **Where a dispute goes:** Institutional Forums hear disputes about Institutional Charter scope, Institutional Charter amendment authority, a mismatch between an Institutional Charter and behavior, and operation outside chartered scope ([Chapter Fourteen §4.3 Institutional Forums](core_14.000_forum.md#43-institutional-forums)).
 
