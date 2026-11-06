@@ -79,7 +79,7 @@ This chapter is used only when a verified violation already occupies Violation A
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*the Contribution and Violation axes*).
-- Upstream map: [Chapter Eleven §8.1](core_11.005_standing_measurement.md#8-slot-grammar-and-display-labels) (11.005 §8.1) (*standing-slot grammar*).
+- Upstream map: [Chapter Eleven §10](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (11.005 §10) (*standing-slot grammar*).
 - Upstream pointer: [Chapter Twelve §2](core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity) (12.000 §2) routes qualifying Violation Axis slot 7–9 findings here for designation only.
 - Downstream: [§2](#2-criteria-set-for-slot-assignment) (*Designation criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*).
 - Safeguards and discipline:

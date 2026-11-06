@@ -121,7 +121,7 @@ During a technology outage, authorized bodies must use a manual continuity proce
 
 *In plain terms: descriptors say **how** verified help or harm happened. This chapter imports them as they were recorded. It may not quietly reclassify them to change the result.*
 
-Descriptors answer **how** verified benefit or harm occurred and are assigned as Question 2 outputs under the [Chapter Eleven normalized descriptor catalog](core_11.005_standing_measurement.md#73-route-descriptor-measurement-roles). Attachments state legally or constitutionally relevant response character for Question 3. Descriptors and attachments are stackable, non-exclusive, and subordinate to the fixed Chapter Eleven slot. A single integration record may carry several where the verified facts warrant.
+Descriptors answer **how** verified benefit or harm occurred and are assigned as Question 2 outputs under the [Chapter Eleven normalized descriptor catalog](core_11.005_standing_measurement.md#91-contribution-route-descriptor-catalog-and-measurement-roles). Attachments state legally or constitutionally relevant response character for Question 3. Descriptors and attachments are stackable, non-exclusive, and subordinate to the fixed Chapter Eleven slot. A single integration record may carry several where the verified facts warrant.
 
 The integration record must import each applicable descriptor from its source standing record without adding, removing, or substantively reclassifying it. It may map a legacy label, local display name, or stable identifier to the Chapter Eleven catalog, but the mapping must remain inspectable and must not change the underlying verified facts or measurement role. A substantive descriptor error or omission must return through the Chapter Eleven correction or supersession process.
 
@@ -970,7 +970,7 @@ Rights and standing consequences are real only when sentients can invoke them, v
   - [§10.11](#1011-infrastructure-denial-or-dependency-cutoff);
   - [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse);
   - [§10.13](#1013-obstruction-of-accountability).
-- Read with: [Chapter Eleven §7.6](core_11.005_standing_measurement.md#76-measurement-illustrations) (11.005 §7.6) (*Question 2 measurement illustrations*); [Chapters Eleven–Fourteen application vignettes](core_11.010_application_vignettes.md#chapters-elevenfourteen-pipeline-application-vignettes) (*full pipeline domain walkthroughs*); [Chapter Thirteen §5](core_13.005_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (13.005 §5) (*designation-side pattern routing — dual-layer twin; not a lock-type catalog*).
+- Read with: [Chapter Eleven §13](core_11.005_standing_measurement.md#13-measurement-illustrations) (11.005 §13) (*Question 2 measurement illustrations*); [Chapters Eleven–Fourteen application vignettes](core_11.010_application_vignettes.md#chapters-elevenfourteen-pipeline-application-vignettes) (*full pipeline domain walkthroughs*); [Chapter Thirteen §5](core_13.005_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (13.005 §5) (*designation-side pattern routing — dual-layer twin; not a lock-type catalog*).
 
 </details>
 
@@ -993,7 +993,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§6.1 Recency and currentness](#61-recency-and-currentness) and [§6.2](#62-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, named-pathway-scoped bar*); and
   - [Chapter Eleven §5.9 *Informal and small-scope records*](core_11.000_standing_assessment.md#59-informal-and-small-scope-records) (*the relying body verified and holds the standing record; the cooperative's members were claimants, not verifying authorities*).
 - **Non-negotiable:** The Contribution Axis slot does not change. Formal pedigree is not required where verified, current, role-relevant work meets the published bar, and formal-institution verification is not required where an independent relying body verified the standing record.
-- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eleven §7.6 Example 1](core_11.005_standing_measurement.md#76-measurement-illustrations).
+- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eleven §13.1 Example 1](core_11.005_standing_measurement.md#131-example-1--riparian-cooperative-restoration-contribution).
 
 <a id="102-ecological-negligence-with-concealment"></a>
 #### 10.2 Ecological negligence with concealment
@@ -1007,7 +1007,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); and
   - [§5.4](#54-special-violation-rules) (*negligence / concealment shape lock and safeguard attachment*).
 - **Non-negotiable:** Concealment never moves the Violation Axis slot. It may orient remedy, monitoring, resource-stewardship restrictions, and heightened verification only.
-- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eleven §7.6 Example 2](core_11.005_standing_measurement.md#76-measurement-illustrations).
+- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eleven §13.2 Example 2](core_11.005_standing_measurement.md#132-example-2--watershed-steward-negligence-with-concealed-test-results-violation).
 
 <a id="103-forum-integrity-deception-or-recusal-failure"></a>
 #### 10.3 Forum-integrity deception or recusal failure
@@ -1156,7 +1156,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§4.2](#42-prevention--general-standing-locks) (*protective or safeguard locks on named pathways that would let the same cruelty continue or recur*);
   - [§4.3](#43-voluntary-public-accountability-expression) (*voluntary public expression, if used, must remain non-degrading*);
   - [§5.2 Proportionality and calibration](#52-proportionality-and-calibration); and
-  - [Chapter Eleven §7.2](core_11.005_standing_measurement.md#72-violation-severity-input-dimensions) (*conduct-character stack*).
+  - [Chapter Eleven §8.2](core_11.005_standing_measurement.md#82-violation-severity-input-dimensions) (*conduct-character stack*).
 - **Non-negotiable:** Cruelty character never moves the Violation Axis slot. Contribution cannot offset unresolved cruelty-character prevention. Remedy, restriction, and voluntary public accountability expression must not themselves inflict suffering as an end or add gratuitous or degrading suffering. This cue does not create a Cruelty Lock or other [§5.5 Special locks](#55-special-locks) type.
 
 ---

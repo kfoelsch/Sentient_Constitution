@@ -813,7 +813,7 @@ flowchart TB
 - The shared scale compares magnitude; it does not create a net score. Contribution and violation remain separate records, and help cannot cancel harm.
 - LEQU does not decide who is sentient, replace verified facts, or determine standing effects by itself. Conduct character, such as negligence or coercion, remains separately traceable from impact magnitude.
 
-The canonical mechanics live in [Chapter Eleven §10](../core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes), after verified Question 1 facts and Question 2 measurement. Chapter Twelve uses the resulting records for Question 3 effects; forums supervise the process but do not replace the measurement.
+The canonical mechanics live in [Chapter Eleven §12](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes), after verified Question 1 facts and Question 2 measurement. Chapter Twelve uses the resulting records for Question 3 effects; forums supervise the process but do not replace the measurement.
 
 <a id="lequ-bands"></a>
 ### Nine proportional LEQU bands

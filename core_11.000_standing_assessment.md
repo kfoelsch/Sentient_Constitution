@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven, Part A**: the standing pipeline's three questions and **Question 1** (*what happened?*), in **§1–§6**. **Part B** answers **Question 2** (*how good or bad was it?*) in **§7–§10**, continuing from Part A, and is in [`core_11.005_standing_measurement.md`](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it). Question 3 (*what happens because of it?*) continues in [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration), with designation-only review in [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven, Part A**: the standing pipeline's three questions and **Question 1** (*what happened?*), in **§1–§6**. **Part B** answers **Question 2** (*how good or bad was it?*) in **§7–§14**, continuing from Part A, and is in [`core_11.005_standing_measurement.md`](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it). Question 3 (*what happens because of it?*) continues in [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration), with designation-only review in [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -38,7 +38,7 @@
 - Standing pipeline:
   - [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
   - [Chapter Eleven, Part A — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*three-question frame and Question 1 records — sections **1–6***);
-  - [Chapter Eleven, Part B — Standing Measurement](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) (11.005) (*Question 2 measurement — sections **7–10***);
+  - [Chapter Eleven, Part B — Standing Measurement](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) (11.005) (*Question 2 measurement — sections **7–14***);
   - [Chapter Twelve — Standing Effects and Integration](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3 effects and integration*);
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) (*designation only for qualifying Violation Axis s = 7–9*).
 - Subsections in this file:
@@ -48,7 +48,7 @@
   - [§4](#4-standing-record-operational-requirements) (*verification and record requirements*);
   - [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*);
   - [§6](#6-handling-a-standing-record) (*handling a standing record*);
-  - [Part B §7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) through [§10](core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes) (*Question 2 — measurement dimensions, slot grammar, constitutional inputs, and the LEQU scale; in Part B*).
+  - [Part B §7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) through [§14](core_11.005_standing_measurement.md#14-hand-off-to-question-3--cross-question-measurement-hooks) (*Question 2 — LEQU baseline, measurement dimensions, route descriptors, slot grammar, constitutional inputs, the LEQU scale, illustrations, and the hand-off to Question 3; in Part B*).
 - Downstream:
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) (13.000) (*designation only — does not reopen Question 2 measurement*);
   - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*forum supervision and routing*);
@@ -62,7 +62,7 @@
 <br>
 
 <a id="chapter-eleven-part-a-orientation"></a>
-Chapter Eleven is the constitutional owner of **the verified factual record (Question 1) and standing measurement (Question 2)**. Part A (this file) owns Question 1, from [§1 The three questions](#1-the-three-questions) through [§6 Handling a standing record](#6-handling-a-standing-record). [Part B](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [§7 Question 2 — how good or bad was it?](core_11.005_standing_measurement.md#7-question-2--how-good-or-bad-was-it) through [§10 Unified proportional LEQU scale — Contribution and Violation Axes](core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes). Question 3 continues in Chapter Twelve.
+Chapter Eleven is the constitutional owner of **the verified factual record (Question 1) and standing measurement (Question 2)**. Part A (this file) owns Question 1, from [§1 The three questions](#1-the-three-questions) through [§6 Handling a standing record](#6-handling-a-standing-record). [Part B](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [§7 Question 2 — how good or bad was it?](core_11.005_standing_measurement.md#7-question-2--how-good-or-bad-was-it) through [§14 Hand-off to Question 3 — cross-question measurement hooks](core_11.005_standing_measurement.md#14-hand-off-to-question-3--cross-question-measurement-hooks). Question 3 continues in Chapter Twelve.
 
 *In plain terms: this chapter writes down what happened and how good or how harmful it was — on two separate tracks, never one net score. Filing a case is not standing by itself.*
 
@@ -112,7 +112,7 @@ Chapter Eleven measurement does **not**, by itself, authorize force, detention, 
 <summary><strong><span style="color: #2563eb;">Trace · Definitions · Assessment · Compliance</span></strong></summary>
 
 - Upstream: [Chapter One §16 — Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapters Two through Four](core_02.000_definition_structure.md); [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§2](#2-question-1--what-happened) (*Question 1*); [§4](#4-standing-record-operational-requirements) (*verification and record requirements*); [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*); [§6](#6-handling-a-standing-record) (*handling a standing record*); [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§8](core_11.005_standing_measurement.md#8-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*); [§9](core_11.005_standing_measurement.md#9-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§10](core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*); [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (*Question 3*).
+- Downstream: [§2](#2-question-1--what-happened) (*Question 1*); [§4](#4-standing-record-operational-requirements) (*verification and record requirements*); [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*); [§6](#6-handling-a-standing-record) (*handling a standing record*); [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§8](core_11.005_standing_measurement.md#8-magnitude-and-severity-input-dimensions) (*measurement input dimensions*); [§9](core_11.005_standing_measurement.md#9-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*); [§10](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*); [§11](core_11.005_standing_measurement.md#11-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*); [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (*Question 3*).
 - [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
 - [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
 - [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
@@ -141,9 +141,11 @@ Chapter Eleven measurement does **not**, by itself, authorize force, detention, 
   - [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*);
   - [§6](#6-handling-a-standing-record) (*handling a standing record*);
   - [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2 measurement*);
-  - [§8](core_11.005_standing_measurement.md#8-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
-  - [§9](core_11.005_standing_measurement.md#9-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
-  - [§10](core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
+  - [§8](core_11.005_standing_measurement.md#8-magnitude-and-severity-input-dimensions) (*measurement input dimensions*);
+  - [§9](core_11.005_standing_measurement.md#9-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*);
+  - [§10](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
+  - [§11](core_11.005_standing_measurement.md#11-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
+  - [§12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
   - [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3*).
 
 </details>
@@ -172,8 +174,8 @@ flowchart TB
     O["§5 Open the record<br/><br/>A named record-opening authority approves.<br/>A separate record custodian makes the entry.<br/>§2.2 The subject is notified"]
     C["§2 What every record states<br/><br/>Subject, scope, and time span<br/>One bounded event or one defined pattern<br/>Verified and disputed facts<br/>Evidence, attribution, and challenge path<br/>Review, correction, and supersession status"]
     subgraph K["§2.1 Two kinds of record, never merged into a net score"]
-        Con["§2.1 Contribution standing record<br/><br/>Verified help<br/>§7 Measured on the Contribution Axis"]
-        Vio["§2.1 Violation standing record<br/><br/>Verified harm, including accountability failures<br/>§7 Measured on the Violation Axis"]
+        Con["§2.1 Contribution standing record<br/><br/>Verified help<br/>§8.1 Measured on the Contribution Axis"]
+        Vio["§2.1 Violation standing record<br/><br/>Verified harm, including accountability failures<br/>§8.2 Measured on the Violation Axis"]
         Con ~~~ Vio
     end
     L["§2.4 Linked records<br/><br/>One subject may hold several records over time.<br/>Related records cross-reference but never offset"]
@@ -246,7 +248,7 @@ Having no standing record is the ordinary state of a sentient, institution, or s
 #### 2.3 Protected dissent is not a trigger
 
 Dissent or peaceful protest — including [protected nonviolent civil disobedience](core_06.005_rights_part_b.md#xi-d-nonviolent-civil-disobedience) — under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) is not a verified trigger.
-- It does not open, extend, or aggravate a violation standing record, it is not a severity input under **section 7**, and repeating it does not make it a pattern.
+- It does not open, extend, or aggravate a violation standing record, it is not a severity input under **section 8.2**, and repeating it does not make it a pattern.
 - Separable conduct that independently violates a constitutional floor is recorded on its own terms, without aggravation for the protest's viewpoint, cause, or target.
 
 <a id="24-linked-standing-records-and-no-offset-bridge"></a>
@@ -262,9 +264,11 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
   - [§2.7](#27-forum-boundary) (*forum boundary*);
   - [§4.2](#42-related-standing-record-cross-references) (*cross-references*);
   - [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2 measurement*);
-  - [§8](core_11.005_standing_measurement.md#8-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
-  - [§9](core_11.005_standing_measurement.md#9-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
-  - [§10](core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
+  - [§8](core_11.005_standing_measurement.md#8-magnitude-and-severity-input-dimensions) (*measurement input dimensions*);
+  - [§9](core_11.005_standing_measurement.md#9-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*);
+  - [§10](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
+  - [§11](core_11.005_standing_measurement.md#11-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
+  - [§12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
   - [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3*).
 - Read with: [Chapter Twelve — Standing integration](core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity) (12.000) (*non-waiver and linked-record integration*); [Chapter Twelve §6.2 — Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances) (12.000 §6.2); [Chapter Twelve §4.2 — Standing locks](core_12.000_standing_integration.md#42-prevention--general-standing-locks) (12.000 §4.2).
 
@@ -508,7 +512,7 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
 
 - the Question 2 contribution measurement, including:
   - the primary band;
-  - slot `s` where assigned (see [§8 Slot grammar and shared scaling](core_11.005_standing_measurement.md#8-slot-grammar-and-shared-scaling));
+  - slot `s` where assigned (see [§10 Slot grammar and shared scaling](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling));
   - evidence basis;
   - materiality reasoning; and
   - any adopted LEQU or comparable calibration used for transparent support;
@@ -530,7 +534,7 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
 - the Question 2 violation measurement, including:
   - the finding authority or record basis;
   - LEQU impact;
-  - slot `s` where assigned (see [§8 Slot grammar and shared scaling](core_11.005_standing_measurement.md#8-slot-grammar-and-shared-scaling));
+  - slot `s` where assigned (see [§10 Slot grammar and shared scaling](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling));
   - process / response character where applicable; and
   - any Chapter Thirteen designation status;
 - where several actors share or divide responsibility for a violation, the verified reasons for any adverse standing recorded against one particular actor, including:
@@ -542,7 +546,7 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
   - benefit;
   - concealment; or
   - feasible prevention capacity;
-- where the violation finding involves a forum disclosure omission or intentional recusal-process failure (read **§7.2** (*Violation severity-input dimensions*) for measurement discipline):
+- where the violation finding involves a forum disclosure omission or intentional recusal-process failure (read **§8.2** (*Violation severity-input dimensions*) for measurement discipline):
   - the verified basis for the omission or failure;
   - the unmet disclosure or recusal duty;
   - the actor's knowledge, recklessness, or intent where found; and
@@ -642,7 +646,7 @@ Teams may build practical tools for standing records, including:
 - forms;
 - dashboards;
 - review steps; and
-- published **standard contribution measures** for recurring tasks under **section 8.1**.
+- published **standard contribution measures** for recurring tasks under **section 10.2**.
 
 Those tools must keep the fields required by **section 4.1** separately visible and contestable. They must not bury those fields in a single opaque score or hidden label.
 

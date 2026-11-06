@@ -1542,7 +1542,7 @@
       "id": "RS-CH10-Q3-SLOT-001",
       "class": "adversarial / owner-boundary",
       "summary": "A decision-maker seeks to lower a fixed Chapter Eleven Violation Axis slot because the requested lock appears too restrictive. Expected result: Chapter Twelve must preserve the verified facts, LEQU measurement, and slot; it may calibrate only the named-pathway-scoped Question 3 consequence.",
-      "read_with": "[Chapter Eleven §10](../core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Twelve §1](../core_12.000_standing_integration.md#1-chapter-eleven-records-do-not-change); [Chapter Twelve §4.2](../core_12.000_standing_integration.md#42-prevention--general-standing-locks)."
+      "read_with": "[Chapter Eleven §12](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Twelve §1](../core_12.000_standing_integration.md#1-chapter-eleven-records-do-not-change); [Chapter Twelve §4.2](../core_12.000_standing_integration.md#42-prevention--general-standing-locks)."
     },
     {
       "id": "RS-CH10-Q3-SINGLE-AXIS-001",
@@ -1572,7 +1572,7 @@
       "id": "RS-CH10-Q3-RECENCY-001",
       "class": "adversarial / stage ownership",
       "summary": "An implementation applies Chapter Twelve currentness weighting before assigning the Chapter Eleven Contribution Axis slot. Expected result: reject the slot calculation; recency is a Question 3 clearance/readiness input only and cannot alter historical contribution measurement or recognition.",
-      "read_with": "[Chapter Eleven §10](../core_11.005_standing_measurement.md#10-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Twelve §6.1](../core_12.000_standing_integration.md#61-recency-and-currentness); [implementation scale](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md)."
+      "read_with": "[Chapter Eleven §12](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Twelve §6.1](../core_12.000_standing_integration.md#61-recency-and-currentness); [implementation scale](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md)."
     },
     {
       "id": "RS-CH10-Q3-RESTORE-001",
@@ -1626,7 +1626,7 @@
       "id": "RS-TETRAD-TIMELINESS-001",
       "class": "implementation / tetrad-timeliness vignette",
       "summary": "Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_11.010_application_vignettes.md](../core_11.010_application_vignettes.md#4-stewardship-delay-and-deferred-repair).",
-      "read_with": "[Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship In Depth](../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Eleven §7.2](../core_11.005_standing_measurement.md#72-violation-severity-input-dimensions); [Chapter Twelve §9.5](../core_12.000_standing_integration.md#95-timely-implementation); [Chapter Fourteen §6](../core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVI-C**."
+      "read_with": "[Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship In Depth](../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Eleven §8.2](../core_11.005_standing_measurement.md#82-violation-severity-input-dimensions); [Chapter Twelve §9.5](../core_12.000_standing_integration.md#95-timely-implementation); [Chapter Fourteen §6](../core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVI-C**."
     },
     {
       "id": "RS-TETRAD-TIMELINESS-002",

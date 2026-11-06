@@ -512,8 +512,8 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
   - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth);
   - [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline);
   - [§7 Freedom](#7-freedom-bounded-agency).
-- Read with: [Chapter Eleven §§7.3–7.4 — Normalized descriptor catalog](core_11.005_standing_measurement.md#73-route-descriptor-measurement-roles) (11.005 §7.3) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
-- Read with: [Chapter Eleven §7.3 — Contribution-side descriptors](core_11.005_standing_measurement.md#73-route-descriptor-measurement-roles) (11.005 §7.3) where contribution nature and recognition narratives are material; [Chapter Twelve §3](core_12.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (12.000 §3) for their integration into Question 3.
+- Read with: [Chapter Eleven §§9.1–9.2 — Normalized descriptor catalog](core_11.005_standing_measurement.md#91-contribution-route-descriptor-catalog-and-measurement-roles) (11.005 §9.1) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
+- Read with: [Chapter Eleven §9.1 — Contribution-side descriptors](core_11.005_standing_measurement.md#91-contribution-route-descriptor-catalog-and-measurement-roles) (11.005 §9.1) where contribution nature and recognition narratives are material; [Chapter Twelve §3](core_12.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (12.000 §3) for their integration into Question 3.
 - Read with: [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation) where preferences for recognition form, visibility, or opt-out are material.
 - Subsections (reading order):
   - [§3.2.1](#321-recognition-and-reinforcement) ·
