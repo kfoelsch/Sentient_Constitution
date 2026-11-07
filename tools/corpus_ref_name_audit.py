@@ -48,8 +48,17 @@ from heading_anchor_href import ids_for_fragment  # noqa: E402
 from section_cite_name_audit import (  # noqa: E402
     CODE_SPAN_RE,
     FENCE_RE,
-    is_exempt_line,
+    is_exempt_line as _section_cite_is_exempt_line,
 )
+
+
+def is_exempt_line(line: str) -> bool:
+    """Section-cite exemptions plus table rows.
+
+    SECTION-CITE-NAME-01 now scans table rows; this rule's scope still leaves
+    them out (see the module docstring), so the table exemption stays here.
+    """
+    return _section_cite_is_exempt_line(line) or line.strip().startswith("|")
 
 ROOT = Path(__file__).resolve().parents[1]
 RULE = "CORPUS-REF-NAME-01"

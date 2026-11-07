@@ -406,7 +406,7 @@
     {
       "id": "SECTION-CITE-NAME-01",
       "legacy_ref": "section-number cites carry a human-readable title",
-      "summary": "Body-prose § / §§ cites must name the section for human readers: title in the link text, immediately after an unlinked token, or in a following (*title*) gloss. Number-only links such as [§11.5](#…) and bare ranges such as **§§11.1–11.6** fail. Headings, tables, HTML, blockquotes, code, and <details> widgets are out of scope. make regression uses --changed-only.",
+      "summary": "Body-prose § / §§ cites must name the section for human readers: title in the link text, immediately after an unlinked token, or in a following (*title*) gloss. Number-only links such as [§11.5](#…) and bare ranges such as **§§11.1–11.6** fail. Table rows are scanned like prose; tools/section_cite_name_table_baseline.json can grandfather older table cites (currently empty), and editing a grandfathered row requires naming it. Headings, HTML, blockquotes, code, and <details> widgets are out of scope. make regression uses --changed-only.",
       "make_target": "section-cite-name-audit",
       "status": "blocking"
     },

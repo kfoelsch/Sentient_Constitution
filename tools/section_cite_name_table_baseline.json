@@ -1,0 +1,5 @@
+{
+ "rule": "SECTION-CITE-NAME-01",
+ "note": "Unnamed section-number cites in table rows that predate table rows coming into scope. Each entry is (file, cite, SHA-1 of the row text). Editing a row changes its fingerprint, so the row must then be named. Shrink this file by naming cites; never add to it by hand.",
+ "entries": []
+}

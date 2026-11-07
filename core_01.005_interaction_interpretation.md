@@ -683,7 +683,7 @@ This section distinguishes three patterns:
 
 Any justified limit must preserve the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** leg through protected records (including the [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record) for the limit itself), independent review, secure access, redaction, delayed release, or comparable safeguards. It must **not** defeat informed [contestability](core_05.035_band_accountability.md#contestability) or applicable **Chapter Six** transparency, audit, or review duties except as [§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity) expressly permits.
 
-Safety-sensitive limits on publication, data access, method disclosure, or replication materials are governed here and under [Chapter One §5.1 Science-Informed Inquiry and Decision Support](core_01.000_values_principles.md#51-science-informed-inquiry-and-decision-support). Such limits must **not** become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
+Safety-sensitive limits on publication, data access, method disclosure, or replication materials are governed here and under [§5.1 Science-Informed Inquiry and Decision Support](core_01.000_values_principles.md#51-science-informed-inquiry-and-decision-support). Such limits must **not** become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
 
 <a id="1321-preservation-of-epistemic-integrity"></a>
 ##### 13.2.1 Preservation of Epistemic Integrity

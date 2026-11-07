@@ -41,11 +41,11 @@ Read in order. Each step builds on the last; skip none.
 
 | Step | Plain job | Section |
 | --- | --- | --- |
-| **1 — Who proves** | Burden sits on whoever claims compliance | [§1](#1-exclusive-enforcement-and-burden-allocation) |
-| **2 — Show the map** | Structured trace from definitions to observable behavior | [§2](#2-definition-traceability-requirement) |
-| **3 — Make it checkable** | Systems must expose enough to verify the map — in practice, not in theory | [§3](#3-observability-of-traceability-requirement) |
-| **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§4](#4-security-constrained-observability-and-verification-rule) |
-| **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§5](#5-compliance-evidence-standard) |
+| **1 — Who proves** | Burden sits on whoever claims compliance | [§1 Exclusive Enforcement and Burden Allocation](#1-exclusive-enforcement-and-burden-allocation) |
+| **2 — Show the map** | Structured trace from definitions to observable behavior | [§2 Definition Traceability Requirement](#2-definition-traceability-requirement) |
+| **3 — Make it checkable** | Systems must expose enough to verify the map — in practice, not in theory | [§3 Observability of Traceability Requirement](#3-observability-of-traceability-requirement) |
+| **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§4 Security-Constrained Observability and Verification Rule](#4-security-constrained-observability-and-verification-rule) |
+| **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§5 Compliance Evidence Standard](#5-compliance-evidence-standard) |
 
 **Plain-language access.** [Chapter One §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05.035_band_accountability.md#contestability) or [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
 

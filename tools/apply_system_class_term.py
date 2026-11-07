@@ -9,7 +9,7 @@ What the tool leaves alone:
 
 * named levels: ``Class A``, ``Class B``, ``Classes A, B, and C``, ``Class P``;
 * terms already qualified: ``system class``, ``system's class``, ``impact class``,
-  ``risk class``, and the generic ``class of ...``;
+  ``risk class``, ``institution class`` (Chapter Ten's term), and the generic ``class of ...``;
 * link targets, anchor ids, inline code, bare URLs, HTML tags, and fenced blocks.
 
 Casing follows the text: ``class`` -> ``system class``; ``Class`` at the start of a
@@ -56,8 +56,12 @@ MASK_RES = [
 LINK_RE = re.compile(r"\[(?P<text>[^\]]*)\]\((?P<target>[^)\s]+)(?P<rest>[^)]*)\)")
 ANCHOR_ID_RE = re.compile(r'(<a\s+id=")([^"]+)(")')
 
-# Words that already qualify "class": "system class", "impact class", "risk class".
-QUALIFIERS = {"system", "system's", "system’s", "systems'", "systems’", "impact", "risk"}
+# Words that already qualify "class": "system class", "impact class", "risk class",
+# and Chapter Ten's defined term "institution class" (heading "Institution Class Evaluation").
+QUALIFIERS = {
+    "system", "system's", "system’s", "systems'", "systems’", "impact", "risk",
+    "institution", "institution's", "institution’s", "institutions'", "institutions’",
+}
 # "handling class" may name a data-handling tier, not the system class; a person decides.
 REVIEW_PREV = {"handling"}
 SENTENCE_START_RE = re.compile(r"(?:^|[.!?:;|>\"“(\[*_-])\s*$")

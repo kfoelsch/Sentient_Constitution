@@ -115,6 +115,11 @@ class CorpusRefNameTests(unittest.TestCase):
     def test_list_label_entry_is_exempt(self) -> None:
         self.assertEqual(self.details("- **CS-6.350 §3** — gate criteria for each phase."), [])
 
+    def test_table_rows_are_out_of_scope(self) -> None:
+        # SECTION-CITE-NAME-01 scans tables; this rule does not.
+        row = "| Row | [**CS-6.350 §3**](corpus_systems/cs_06.350_demo.md#cs-6350-3-gate) |"
+        self.assertEqual(self.details(row), [])
+
     def test_ignores_code_spans_and_headings(self) -> None:
         self.assertEqual(self.details("Use `CS-6.350 §3` here."), [])
         self.assertEqual(self.details("## CS-6.350 §3 Heading"), [])

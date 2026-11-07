@@ -855,7 +855,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
   - [13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) where participation, dependency, and material impact determine the intensity of agency protection.
-- Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05.055_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity)*, and [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05.055_band_participation.md#agency-consent-and-anti-coercion) (5.055 §2)*.
+- Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05.055_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity)*, and [§2 *Agency, Consent, and Anti-Coercion](core_05.055_band_participation.md#agency-consent-and-anti-coercion) (5.055 §2)*.
 - Read with:
   - [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency),
   - [Consent](core_05.055_band_participation.md#consent),
@@ -927,7 +927,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7) (meaningful agency / cooperative interaction); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (dependency / materiality in consent asymmetry).
-- Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05.055_band_participation.md#agency-consent-and-anti-coercion) (5.055 §2)*.
+- Cluster component: [§2 *Agency, Consent, and Anti-Coercion](core_05.055_band_participation.md#agency-consent-and-anti-coercion) (5.055 §2)*.
 - Read with: the
   - [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](core_05.055_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity),
   - [Consent, Sexual](core_05.055_band_participation.md#consent-sexual),
@@ -985,7 +985,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
 
 - Downstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) (bodily autonomy and dignity read-with **Article VII-A** (*Self-Ownership of Body*) / VII-E stack).
 - Owner floors: [Article VII-A](core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body) (*bodily autonomy and non-intrusion*) and [Article VII-E](core_06.005_rights_part_b.md#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*).
-- Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05.055_band_participation.md#agency-consent-and-anti-coercion) (5.055 §2)*.
+- Cluster component: [§2 *Agency, Consent, and Anti-Coercion](core_05.055_band_participation.md#agency-consent-and-anti-coercion) (5.055 §2)*.
 - Read with:
   - [Consent](core_05.055_band_participation.md#consent),
   - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency),
@@ -1055,7 +1055,7 @@ Operational mechanics — registration, [System Charter](core_05.040_band_contin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
-- Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05.055_band_participation.md#agency-consent-and-anti-coercion) (5.055 §2)*.
+- Cluster component: [§2 *Agency, Consent, and Anti-Coercion](core_05.055_band_participation.md#agency-consent-and-anti-coercion) (5.055 §2)*.
 - Read with:
   - [Consent](core_05.055_band_participation.md#consent),
   - [Systemic Lock-In](core_05.040_band_continuity.md#systemic-lock-in),

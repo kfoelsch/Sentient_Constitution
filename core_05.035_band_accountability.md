@@ -4298,8 +4298,8 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:**
-    - The Chapter Thirteen process that decides whether a final Chapter Eleven Violation Axis `s = 7`, `s = 8`, or `s = 9` impact slot receives the matching anti-constitutional-misconduct designation.
-    - The process identifies the unified incident, applies the criteria, tests the designation conditions, and confirms due-process safeguards.
+    - The Chapter Thirteen process that decides whether a final Chapter Eleven Violation Axis `s = 7`, `s = 8`, or `s = 9` impact slot receives the matching anti-constitutional-misconduct designation (ACMD).
+    - The process identifies the unified incident, applies the criteria, tests the ACMD conditions, and confirms due-process safeguards.
     - It does not assign or move the numeric slot.
   - **Out of scope:**
     - Chapter Eleven numeric Violation Axis slot assignment;
@@ -4312,14 +4312,14 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Before adding the designation, require a bounded standing record with a Chapter Eleven impact slot, verified input basis, unified-incident analysis, Chapter Thirteen criteria assessment, independent review, contestable notice, and reasoned publication.
+    - Before adding the ACMD, require a bounded standing record with a Chapter Eleven impact slot, verified input basis, unified-incident analysis, Chapter Thirteen criteria assessment, independent review, contestable notice, and reasoned publication.
     - Keep change-path validity, forum operations, rights remedies, and governance consequences in their own chapters.
 <a id="top-slot-review-c"></a>
 <a id="anti-constitutional-misconduct-review-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - use Chapter Thirteen criteria, an adopting document, process note, subsidiary body, forum shortcut, legacy tier label, character descriptor, or Chapter Eleven / Chapter Twelve standing lock to assign or move the numeric Violation Axis slot; or
-    - add the designation without Chapter Thirteen criteria and safeguards.
+    - add the ACMD without Chapter Thirteen criteria and safeguards.
 
 ---
 
@@ -4435,7 +4435,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Thirteen §2](core_13.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (13.000 §2) (*incident shapes for designation*).
+- Canonical owner: [Chapter Thirteen §2](core_13.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (13.000 §2) (*incident shapes for anti-constitutional-misconduct designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4480,7 +4480,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Thirteen §2](core_13.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (13.000 §2) (*incident shapes for designation*).
+- Canonical owner: [Chapter Thirteen §2](core_13.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (13.000 §2) (*incident shapes for anti-constitutional-misconduct designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),

@@ -105,7 +105,7 @@ This chapter states which **forum families** **supervise** which primary questio
    - Primary-stakes routing, merits review where assigned, transfer, consolidation, and certification coordination, and remediation sequencing for standing-related disputes.
    - **Chapter Eleven** Contribution and Violation records measured on the §7 (*Forum support before, during, and after review — oversight architecture*) unified proportional LEQU scale, character descriptors, and standing effect — standing findings may **open, update, or correct** standing records — or **set a bad record aside on challenge** — under [Chapter Eleven §4 Verification and record requirements](core_11.000_standing_assessment.md#4-standing-record-operational-requirements) when they satisfy the verified-input gate; a filed case is not standing by itself, and forum narrative must not substitute for Chapter Eleven standing measurement ([Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary)).
    - **Chapter Twelve** standing effects and integration where this chapter assigns forum supervision of remedy and sequencing.
-   - **Chapter Thirteen** anti-constitutional-misconduct designation where that designation is at issue for a Chapter Eleven slot 7–9 record.
+   - **Chapter Thirteen** anti-constitutional-misconduct designation (ACMD) where it is at issue for a Chapter Eleven slot 7–9 record.
    - Application of **Chapters One through Six** and designated [corpus](core_05.045_band_integrative.md#corpus) implementation layers as the norms those disputes apply.
 
 2. **System Alignment Certification and Institutional Alignment Certification** ([Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
@@ -196,7 +196,7 @@ Institutional contest, secondary review, and integrity monitoring in the institu
   - **CF-14.425 §2** (*Constitutional alignment certification and review*);
   - **[CS-9.305](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310 — System impact classifications](corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)**, **[CS-6.345](corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-system-lifecycle)** (*System lifecycle*), and **[CS-9.315](corpus_systems/cs_09.315_system_alignment_certification_run_sheet.md#cs-9315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
   - [Chapter Thirteen §3](core_13.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (13.000 §3) (*anti-constitutional-misconduct designation for qualifying Chapter Eleven slots 7–9; legacy anchor preserved*);
-  - [Chapter Thirteen §4](core_13.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (13.000 §4) (*due process for that designation read with this chapter and **Article XX** (*Justice After Verified Violation*)*);
+  - [Chapter Thirteen §4](core_13.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (13.000 §4) (*due process for the anti-constitutional-misconduct designation read with this chapter and **Article XX** (*Justice After Verified Violation*)*);
   - [Article XX-A](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*justice objective and scope*).
 
 </details>
@@ -237,7 +237,7 @@ The **intake triage body** under this section, together with **CF-14.415** (*Rou
 1. **Check what is already verified:** Note any verified Chapter Eleven **Contribution Axis** or **Violation Axis** material — including the impact slot, severity band, process / response character, and standing effect — when those already exist.
 2. **Do not treat accusations as settled facts:** Allegations and provisional labels guide routing and evidence preservation only, until findings exist under **Chapters Two through Four**.
 3. **Pick the lead forum by what the fight is really about:** Use the default venue table below: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, or **Constitutional**. Apply these special routing rules where they fit:
-   - **Chapter Thirteen designation:** Where a **Chapter Thirteen** anti-constitutional-misconduct designation is the **primary** stake, **Integrity** is the default lead. Keep:
+   - **Chapter Thirteen designation:** Where a **Chapter Thirteen** ACMD is the **primary** stake, **Integrity** is the default lead. Keep:
      - the Chapter Eleven numeric impact slot;
      - **Constitutional** certification where needed;
      - institutional-party rules; and
@@ -258,7 +258,7 @@ At filing, **default** venue follows these rules unless **section 3** transfers 
 | **Technical Forum Domains** | Any party pattern, but **primary** stake is technical-governance procedure, system-alignment specifications, expert-evidence standards, scientific / engineering / medical administration, comparable knowledge-governance within adopted scope, **or** **Article VI-B** (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators / expert evidence / bounded uncertainty | **Technical** standards, system-alignment specifications, measurement and testing methods, expert administrative procedure, evidence stewardship, textbook or curriculum integrity, standards governance, bounded uncertainty-reduction relevant to adjudication, regulation, or alignment certification, **or** sentience-status indicator adjudication under **Article VI-B** (*Sentience-Status Adjudication Floor*) |
 | **Institutional** | Any **institution** is a **necessary** party **or** the main fight is about what an institution is allowed to do, what it is charged to do, or whether it followed the rules that govern it | What an institution may do, what it is charged to do, the scope it is supervised under, how it is classified, or whether it followed its duties |
 | **Environment** | Any party pattern; required component role where system alignment materially implicates ecological exposure | **Ecological integrity**, **environmental preconditions**, restoration or remediation of shared ecological systems, attributable environmental burdens, lifecycle or systemic ecological harm, environmental-alignment component review for systems with material ecological exposure, or **pattern** or **systemic** ecological failure where classification, alignment certification, recertification, or Rights-Floor enforcement depends on that determination |
-| **Integrity** | **Integrity** as **the** main issue (including **grave** violation of conflict, procedure, or capture controls), official **constitutional alignment certification** or **ongoing alignment validation** for systems and institutions, **or** a **Chapter Thirteen** anti-constitutional-misconduct designation for a Chapter Eleven **s = 7, 8, or 9** impact slot as **the** **primary** stake | **Integrity** of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, official system-alignment certification, validation, and recertification using technical-forum inputs and Environment Forum environmental-alignment component determinations where material (**including** **pattern** or **systemic** failure **across** institutions or systems where **Chapter Eleven** measurement, a corresponding **Chapter Thirteen** designation, or **Rights-Floor** enforcement depends on that determination) |
+| **Integrity** | **Integrity** as **the** main issue (including **grave** violation of conflict, procedure, or capture controls), official **constitutional alignment certification** or **ongoing alignment validation** for systems and institutions, **or** a **Chapter Thirteen** ACMD for a Chapter Eleven **s = 7, 8, or 9** impact slot as **the** **primary** stake | **Integrity** of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, official system-alignment certification, validation, and recertification using technical-forum inputs and Environment Forum environmental-alignment component determinations where material (**including** **pattern** or **systemic** failure **across** institutions or systems where **Chapter Eleven** measurement, a corresponding **Chapter Thirteen** designation, or **Rights-Floor** enforcement depends on that determination) |
 | **Constitutional** | **Structural** constitutional validity, **norm** meaning for **all** interpreters, or remedy that **restructures** governance **by constitutional requirement** | **Constitutional** validity or meaning, action **beyond lawful authority**, supremacy, or **class-wide** **structural** remedy |
 
 <a id="21-lead-default-limits"></a>
@@ -593,7 +593,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 - conflict rules;
 - anti-capture duties;
 - related procedure and governance integrity.
-- This includes **pattern** or **systemic** integrity failure across institutions where **Chapter Eleven** impact-slot measurement, a corresponding **Chapter Thirteen** anti-constitutional-misconduct designation for a slot 7–9 record, or **Rights-Floor** enforcement depends on that determination.
+- This includes **pattern** or **systemic** integrity failure across institutions where **Chapter Eleven** impact-slot measurement, a corresponding **Chapter Thirteen** ACMD for a slot 7–9 record, or **Rights-Floor** enforcement depends on that determination.
 - It also includes official **constitutional alignment certification** or **ongoing alignment validation** for systems and institutions, and a **Chapter Thirteen** designation as the **primary** stake, as assigned in **section 2**.
 
 **Illustrative matters.** This family includes contests over:
@@ -601,7 +601,7 @@ When a certification review finds misalignment or a defect, the **Integrity** le
 - disclosure, conflict-rule, or anti-capture violations;
 - concealment, capture, retaliation, or comparable process abuse;
 - pattern or systemic integrity failure across institutions or systems;
-- Chapter Thirteen anti-constitutional-misconduct designation where that designation is the primary stake;
+- Chapter Thirteen ACMD where it is the primary stake;
 - official system-alignment and institutional-alignment certification, validation, and recertification.
 
 **Alignment rulings.** Where necessary to resolve a matter within this family's jurisdiction, **Integrity Forums** may issue **alignment rulings** that:

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twelve**, the standing-pipeline integration and consequence layer. [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) exclusively owns verified facts, standing records, standing measurement, and every Contribution Axis and Violation Axis slot. This chapter accepts those inputs as fixed and answers Question 3: what follows. [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) decides only whether a qualifying `s = 7`, `s = 8`, or `s = 9` violation receives the matching anti-constitutional-misconduct designation.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twelve**, the standing-pipeline integration and consequence layer. [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) exclusively owns verified facts, standing records, standing measurement, and every Contribution Axis and Violation Axis slot. This chapter accepts those inputs as fixed and answers Question 3: what follows. [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) decides only whether a qualifying `s = 7`, `s = 8`, or `s = 9` violation receives the matching anti-constitutional-misconduct designation (ACMD).
 
 </details>
 
@@ -110,7 +110,7 @@ The following processing order applies to both automated and manual decisions:
 5. state one final standing effect for each named pathway;
 6. state restoration and reassessment conditions;
 7. verify practical enforceability; and
-8. route a qualifying Violation Axis slot 7–9 finding to [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) where designation is at issue.
+8. route a qualifying Violation Axis slot 7–9 finding to [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) where anti-constitutional-misconduct designation (ACMD) is at issue.
 
 Every automated or manual result must preserve its inputs, rules, intermediate steps, outcome, and review route in a form that affected parties and authorized reviewers can inspect and challenge.
 
@@ -232,7 +232,7 @@ Where restorative pathways for a verified violation include public acknowledgmen
   - compelled self-abasement;
   - irreversible reputational harm.
 
-Anti-constitutional misconduct specializations — including designation-triggered rules and designation-linked consequences for inauthentic expression — are governed by [Chapter Thirteen §4.3](core_13.000_misconduct_designation.md#43-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
+Anti-constitutional misconduct specializations — including rules triggered by an ACMD and consequences linked to it for inauthentic expression — are governed by [Chapter Thirteen §4.3](core_13.000_misconduct_designation.md#43-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
 
 <a id="44-remedy-parity-and-lock-preconditions"></a>
 #### 4.4 Remedy parity and lock preconditions
@@ -579,7 +579,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
     - contractual vetoes and information chokepoints;
     - data custody, privileged access, and comparable means of functional control.
   - Global non-restriction limits under [§5.1](#51-definition-and-attachment) (*Definition and attachment*) apply; this lock does not add further cuts to those protected challenge, review, appeal, and remedy pathways.
-- **Risk:** renewed anti-constitutional influence, capture, or proxy control while designation consequences remain unresolved.
+- **Risk:** renewed anti-constitutional influence, capture, or proxy control while ACMD consequences remain unresolved.
 - **Protected subjects or interests:** constitutional order, covered systems, forums, accountability pathways, and parties who would be exposed to renewed influence.
 - **Corrective conditions:**
   - Restoration is exceptional.
@@ -848,7 +848,7 @@ Restoration is not automatic forgiveness, record erasure, or contribution offset
 
 **Permanent locks.** A lock is permanent only where the forum that sets it records, in the lock record and on the verified violation findings, one of two permanent-lock grounds:
 
-- **Pervasive anti-constitutional conduct:** a final [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) designation, with a finding that the conduct runs through the subject's control, operation, or purpose, so that no part of the subject can be separated from it and trusted; or
+- **Pervasive anti-constitutional conduct:** a final [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct-designation) designation, with a finding that the conduct runs through the subject's control, operation, or purpose, so that no part of the subject can be separated from it and trusted; or
 - **Unremedied Irreversible Harm:** verified [Irreversible Harm](core_05.035_band_accountability.md#irreversible-harm) for which the remedy owed has not been delivered and cannot be delivered by restitution or lawful substitute restoration. Insolvency of the subject is not, by itself, a remedy that cannot be delivered, and this Unremedied Irreversible Harm ground is recorded or confirmed at the final accounting, when the outcome of the liquidation is known, and not at the order.
 
 Any other lock is non-permanent and keeps the restoration route above. Passage of time, apology, prior contribution, capital, or a change of holders, name, or form cannot lift a permanent lock. It stays open to review for error: a set-aside of the violation finding it rests on, or material new verified facts, can end it. Where later verified facts show that the remedy was in fact delivered, a lock set on the Unremedied Irreversible Harm ground is reassessed as a non-permanent lock. A permanent lock never cuts what [§5.1 Definition and attachment](#51-definition-and-attachment) says a lock does not restrict. Only the Dissolution Reformation Lock is defined here as able to be permanent. No other special lock is, and the Anti-Constitutional Trust Lock keeps its exceptional restoration route.
@@ -1071,13 +1071,13 @@ This situation is identified by the cue below and governed by the sections liste
 
 This situation is identified by the cue below and governed by the sections listed:
 
-- **Cue:** A qualifying Violation Axis slot 7–9 record raises a possible anti-constitutional-misconduct designation while ordinary Question 3 effects are also due.
+- **Cue:** A qualifying Violation Axis slot 7–9 record raises a possible ACMD while ordinary Question 3 effects are also due.
 - **Routes through:**
   - [§2](#2-automatic-integration-review-and-continuity) (*processing-order step 8 — Chapter Thirteen gateway*);
   - [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) and [§5](#5-lock-design-and-enforcement) (*ordinary remedy, correction, and protective locks from the fixed record*);
   - [§5.5](#55-special-locks) (*Anti-Constitutional Trust Lock*); and
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (*designation only*).
-- **Non-negotiable:** Ordinary Chapter Twelve remedy, correction, and protective locks proceed from the fixed violation record. Chapter Thirteen separately decides designation. Only a final designation triggers the Anti-Constitutional Trust Lock.
+- **Non-negotiable:** Ordinary Chapter Twelve remedy, correction, and protective locks proceed from the fixed violation record. Chapter Thirteen separately decides the ACMD. Only a final ACMD triggers the Anti-Constitutional Trust Lock.
 
 <a id="109-rights-floor-waiver-or-unconstitutional-contract-devices"></a>
 #### 10.9 Rights-Floor waiver or unconstitutional contract devices
@@ -1090,7 +1090,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§4.2](#42-prevention--general-standing-locks) (*general standing locks scoped to the abused trust, role, credit, or influence pathways*);
   - [§5.1](#51-definition-and-attachment) (*attachment fields*); and
   - [§5.4 Special violation rules](#54-special-violation-rules) (*Duty to Resist* where the instruction required unlawful or unconstitutional compliance).
-- **Non-negotiable:** This cue does not create a special lock under [§5.5 Special locks](#55-special-locks). Term nullity and designation criteria remain in [Chapter Thirteen §5.2 Rights-Floor waivers and unconstitutional contract terms](core_13.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). Chapter Twelve attaches ordinary named pathway locks from the verified standing record; only a final designation triggers the Anti-Constitutional Trust Lock under [§10.8 Anti-constitutional misconduct allegation](#108-anti-constitutional-misconduct-allegation).
+- **Non-negotiable:** This cue does not create a special lock under [§5.5 Special locks](#55-special-locks). Term nullity and ACMD criteria remain in [Chapter Thirteen §5.2 Rights-Floor waivers and unconstitutional contract terms](core_13.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). Chapter Twelve attaches ordinary named pathway locks from the verified standing record; only a final ACMD triggers the Anti-Constitutional Trust Lock under [§10.8 Anti-constitutional misconduct allegation](#108-anti-constitutional-misconduct-allegation).
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 Contest-pathway or info-sphere flooding
@@ -1103,7 +1103,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§4.2](#42-prevention--general-standing-locks) (*protective named pathway locks on the abused routing, filing, ranking, access, or influence pathways*);
   - [§5.1 Definition and attachment](#51-definition-and-attachment) and [§5.2](#52-proportionality-and-calibration) (*needed, proportionate, reviewable scope*); and
   - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (*operational intake triage and anti-gaming — supervision without inventing standing effects*).
-- **Non-negotiable:** This cue does not create a Flooding Lock or other [§5.5 Special locks](#55-special-locks) type. Designation-side criteria routing remains in [Chapter Thirteen §5.3 Flooding the zone and contest-pathway denial](core_13.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) and [§5.4 Info-sphere zone flooding](core_13.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). Ordinary protective locks proceed from the fixed record whether or not designation later attaches.
+- **Non-negotiable:** This cue does not create a Flooding Lock or other [§5.5 Special locks](#55-special-locks) type. Criteria routing for the ACMD remains in [Chapter Thirteen §5.3 Flooding the zone and contest-pathway denial](core_13.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) and [§5.4 Info-sphere zone flooding](core_13.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). Ordinary protective locks proceed from the fixed record whether or not the ACMD later attaches.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 Infrastructure denial or dependency cutoff
@@ -1117,7 +1117,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§5.1](#51-definition-and-attachment) (*including isolation from networks or control points that recreate the cutoff risk*);
   - [§5.4](#54-special-violation-rules) (*coercive or liberty-restricting safeguards only where verified danger warrants*); and
   - [§9](#9-enforcement-realism-and-remedy-systems) (*remedy-system durability and anti-evasion*).
-- **Non-negotiable:** This cue does not create an Infrastructure Lock under [§5.5 Special locks](#55-special-locks). Designation-side criteria routing remains in [Chapter Thirteen §5.9 Infrastructure denial, destruction, or dependency cutoff conduct](core_13.005_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). Global non-restriction limits under [§5.1 Definition and attachment](#51-definition-and-attachment) still protect speech, petition, affected-party participation, Rights Floor, and survival-critical access that the lock must not extinguish.
+- **Non-negotiable:** This cue does not create an Infrastructure Lock under [§5.5 Special locks](#55-special-locks). Criteria routing for the ACMD remains in [Chapter Thirteen §5.9 Infrastructure denial, destruction, or dependency cutoff conduct](core_13.005_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). Global non-restriction limits under [§5.1 Definition and attachment](#51-definition-and-attachment) still protect speech, petition, affected-party participation, Rights Floor, and survival-critical access that the lock must not extinguish.
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 Stakeholder-participation corruption or false-stake abuse
@@ -1143,7 +1143,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§5.4](#54-special-violation-rules) (*concealment, evasion, deception, and duty-related shaping*);
   - [§5.5](#55-special-locks) (*Forum-Service Standing Lock only when the forum-integrity / required-recusal trigger is met under [§10.3 Forum-integrity deception or recusal failure](#103-forum-integrity-deception-or-recusal-failure)*); and
   - [§10.8](#108-anti-constitutional-misconduct-allegation) (*Chapter Thirteen gateway when `s` = 7–9 and anti-constitutional misconduct is materially alleged*).
-- **Non-negotiable:** This cue does not create an Obstruction Lock or other [§5.5 Special locks](#55-special-locks) type. Obstruction character never moves the Violation Axis slot. Ordinary named pathway locks proceed from the fixed record at any slot. Designation-side criteria routing remains in [Chapter Thirteen §5.11 Obstruction of accountability: criteria interaction](core_13.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction); only a final designation triggers the Anti-Constitutional Trust Lock under [§10.8 Anti-constitutional misconduct allegation](#108-anti-constitutional-misconduct-allegation). Distinguish verified obstruction *conduct* from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) as a structural condition.
+- **Non-negotiable:** This cue does not create an Obstruction Lock or other [§5.5 Special locks](#55-special-locks) type. Obstruction character never moves the Violation Axis slot. Ordinary named pathway locks proceed from the fixed record at any slot. Criteria routing for the ACMD remains in [Chapter Thirteen §5.11 Obstruction of accountability: criteria interaction](core_13.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction); only a final ACMD triggers the Anti-Constitutional Trust Lock under [§10.8 Anti-constitutional misconduct allegation](#108-anti-constitutional-misconduct-allegation). Distinguish verified obstruction *conduct* from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) as a structural condition.
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 Verified cruelty character
