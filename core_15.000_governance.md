@@ -43,7 +43,7 @@ This section sets out the boundaries of this chapter:
 
 - It sets constitutional requirements, not full operating detail.
 - Participation, due-process, and binding-adoption gates remain anchored in Chapter Six (especially **Article XII-A** (*Stakeholder System Participation and Representation*)).
-- **General** standing measurement under **Chapter Eleven** (Contribution Axis and Violation Axis — contribution **state**, violation nature, and every numeric impact slot) remains **Chapter Eleven**-anchored. **Final anti-constitutional-misconduct designation** for qualifying **Violation Axis s = 7, 8, or 9** findings remains anchored in **Chapter Thirteen**; Chapter Thirteen does not assign or move the numeric slot.
+- **General** standing measurement under **Chapter Eleven** (Contribution Axis and Violation Axis — contribution **state**, violation nature, and every numeric impact slot) remains **Chapter Eleven**-anchored. **Final anti-constitutional-misconduct designation (ACMD)** for qualifying **Violation Axis s = 7, 8, or 9** findings remains anchored in **Chapter Thirteen**; Chapter Thirteen does not assign or move the numeric slot.
 - Detailed procedure, staffing, voting implementation, and execution protocols are owned by designated implementation layers.
 
 ### 1. Authorization and Legitimacy of Governing Authority
@@ -54,7 +54,7 @@ This section sets out the boundaries of this chapter:
   - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
   - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process);
-  - [Chapter Fifteen §0](#0-layer-boundary-for-this-chapter).
+  - [§0](#0-layer-boundary-for-this-chapter).
 - Subsections: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Mechanism families, auditability, and pluralism*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, contested selection, and democratic minimums*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Recall-class pathways and mid-cycle transfer guardrails*).
 - Downstream: Integrity, strategy, voting, and role obligations under
   - [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); adoption and ratification under
@@ -266,7 +266,7 @@ Where observable integrity conditions are absent, **legitimacy claims** under se
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Fifteen §1](#1-authorization-and-legitimacy-of-governing-authority) authorization scope for stewardship within rule-making power.
+- Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [§1](#1-authorization-and-legitimacy-of-governing-authority) authorization scope for stewardship within rule-making power.
 - Downstream: Subsections
   - [3.1](#31-stewardship-direction) and
   - [3.2](#32-ecosystem-value-orientation); canonical definitions for stewardship requirements in
@@ -367,12 +367,12 @@ Where an adopter's legitimacy mechanism includes collective voting or an analogo
   - [Article XIX: Standing and Participation Status](core_06.015_rights_part_d.md#article-xix-standing-and-participation-status); foundational constitutional choice and stakeholder machinery in
   - [Chapter Five — Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice) (5.045) and related
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) entries as operative text routes;
-  - **Chapter Thirteen** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation** on qualifying **Violation Axis s = 7, 8, or 9** findings and due-process safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause in this subsection.
+  - **Chapter Thirteen** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation (ACMD)** on qualifying **Violation Axis s = 7, 8, or 9** findings and due-process safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause in this subsection.
 - Read with:
   - [§4.2](#42-records-gates-and-method-neutrality)–
   - [§4.3](#43-decision-resolution-requirements-for-binding-stakeholder-choice);
   - [Article XII-A: Stakeholder System Participation and Representation](core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) for high-impact legitimacy gates;
-  - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) for final **anti-constitutional-misconduct designation** on qualifying **Violation Axis s = 7, 8, or 9** findings.
+  - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) for final **ACMD** on qualifying **Violation Axis s = 7, 8, or 9** findings.
 
 </details>
 
@@ -393,7 +393,7 @@ This subsection implements **Chapter Six**, **Article X-B** (*Governance Partici
 
 - **Political-equality floor for foundational constitutional choice:** **Foundational Constitutional Choice** (Chapter Five) covers decisions about who holds governing authority, what the legitimacy mechanism is, and that authority's scope and durable terms. Those questions are governed by a **political-equality floor**: within the community entitled to participate, each sentient has equal participation weight.
   - Weighting by impact, dependency, standing, or comparable factors under [§4.3 Decision-resolution requirements for binding stakeholder choice](#43-decision-resolution-requirements-for-binding-stakeholder-choice), specified in [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), applies to materially rights-affecting decisions *within* the **structures, rules, allocation of authority, and processes** of **Governance** already authorized for a **specified system, institution, or bounded decision domain**. It does **not** apply to the foundational authorization of the legitimacy mechanism itself.
-  - This floor does not collapse into ordinary [**Materiality**](core_05.050_band_oversight.md#materiality) and [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) for binding choice within authorized governance (Chapter Five; [Chapter Fifteen §4.3 Decision-resolution requirements for binding stakeholder choice](#43-decision-resolution-requirements-for-binding-stakeholder-choice)). Foundational questions are identified by **scope** (who decides, under what legitimacy mechanism, for what durable authority), not by marginal impact per decision.
+  - This floor does not collapse into ordinary [**Materiality**](core_05.050_band_oversight.md#materiality) and [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) for binding choice within authorized governance (Chapter Five; [§4.3 Decision-resolution requirements for binding stakeholder choice](#43-decision-resolution-requirements-for-binding-stakeholder-choice)). Foundational questions are identified by **scope** (who decides, under what legitimacy mechanism, for what durable authority), not by marginal impact per decision.
   - [**Sentience Non-Exclusion**](core_05.055_band_participation.md#sentience-non-exclusion) requires substrate-agnostic reach. The following are not permissible participation-weight factors in foundational constitutional choice:
     - calendar age;
     - substrate class; and
@@ -420,7 +420,7 @@ This subsection implements **Chapter Six**, **Article X-B** (*Governance Partici
     - (c) narrow tailoring to the specific misconduct category; and
     - (d) restoration pathways that are real rather than merely formal, consistent with **Article XIX-D** (*Violations and Standing Locks*) restoration-or-requalification discipline.
   - Broad-misconduct categories swept into disqualification scope, or lock patterns that track [**Protected Characteristics**](core_05.055_band_participation.md#protected-characteristics) or their material proxies, are non-compliant.
-  - Cross-reference: **Chapter Six, **Article XIX** (*Standing and Participation Status*)**; **Chapter Thirteen** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation** on qualifying **Violation Axis s = 7, 8, or 9** findings and safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause.
+  - Cross-reference: **Chapter Six, **Article XIX** (*Standing and Participation Status*)**; **Chapter Thirteen** (*Anti-Constitutional Misconduct*) for **final ACMD** on qualifying **Violation Axis s = 7, 8, or 9** findings and safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause.
 
 #### 4.2 Records, gates, and method neutrality
 <details>

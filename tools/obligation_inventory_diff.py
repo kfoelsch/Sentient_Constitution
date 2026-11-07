@@ -108,6 +108,19 @@ def modal_hits(sentence: str) -> list[tuple[int, int, str]]:
 
 
 LIST_ITEM_RE = re.compile(r"^\s*(?:[-*+]|\d+\.)\s+\S")
+TABLE_SEPARATOR_RE = re.compile(r"^\|?\s*:?-{2,}:?\s*(?:\|\s*:?-{2,}:?\s*)*\|?\s*$")
+
+
+def table_row_text(stripped: str) -> str:
+    """A table row read the way the same rule reads as a bullet: the first cell
+    is the label ("Hidden burden: ..."), the remaining cells are sentences, so a
+    rule keeps its subject when it moves between a bullet and a table row."""
+    cells = [c.strip().rstrip(":;").strip() for c in stripped.strip().strip("|").split("|")]
+    cells = [c for c in cells if c]
+    if not cells:
+        return ""
+    rest = [c if c[-1] in ".!?" else c + "." for c in cells[1:]]
+    return cells[0] + (": " + " ".join(rest) if rest else ".")
 
 
 def operative_lines(path: Path) -> list[str]:
@@ -118,6 +131,10 @@ def operative_lines(path: Path) -> list[str]:
     beneath it, so the bullets belong to that duty; read apart from the stem
     they look like free-floating text, and moving an item between the stem and
     a bullet would register as an obligation appearing from nowhere.
+
+    Table rows count as body lines: each cell is read as a sentence, so a rule
+    moved between a bullet and a table cell is neither lost nor invented.
+    Separator rows are dropped.
     """
     raw = path.read_text(encoding="utf-8").splitlines()
 
@@ -133,7 +150,10 @@ def operative_lines(path: Path) -> list[str]:
             continue
         if depth:
             continue
-        if stripped.startswith(("#", "<", "---", "*In plain terms", "|", "> ")):
+        if stripped.startswith("|"):
+            body.append("" if TABLE_SEPARATOR_RE.match(stripped) else table_row_text(stripped))
+            continue
+        if stripped.startswith(("#", "<", "---", "*In plain terms", "> ")):
             body.append("")
             continue
         body.append(line.rstrip())

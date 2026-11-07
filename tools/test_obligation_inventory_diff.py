@@ -5,7 +5,10 @@ from __future__ import annotations
 
 import unittest
 
-from obligation_inventory_diff import slim_evidence
+import tempfile
+from pathlib import Path
+
+from obligation_inventory_diff import inventory, operative_lines, slim_evidence
 
 
 def rec(modality: str, text: str) -> dict:
@@ -51,6 +54,30 @@ class SlimEvidenceTests(unittest.TestCase):
         out = slim_evidence({"files": {"c.md": [dup, dup]}}, {"files": {"c.md": [dup]}}, [], [])
         self.assertEqual(len(out["changes"]["c.md"]["removed"]), 1)
         self.assertEqual(out["files"]["c.md"]["unchanged"], 1)
+
+
+class TableRowTests(unittest.TestCase):
+    def _file(self, text: str) -> Path:
+        directory = tempfile.mkdtemp()
+        path = Path(directory) / "t.md"
+        path.write_text(text, encoding="utf-8")
+        return path
+
+    def test_table_rows_are_read_and_separators_are_not(self) -> None:
+        path = self._file(
+            "| What you find | What it does |\n| --- | :---: |\n"
+            "| Hidden burden | Caps the benefit, and an officer must record it. |\n"
+        )
+        lines = operative_lines(path)
+        self.assertIn("Hidden burden: Caps the benefit, and an officer must record it.", lines)
+        self.assertFalse(any(set(line) <= set("|-: ") and line for line in lines))
+
+    def test_a_rule_in_a_cell_is_inventoried_like_the_same_rule_in_a_bullet(self) -> None:
+        table = inventory(self._file("| Hidden burden | An officer must record it. |\n"))
+        bullet = inventory(self._file("- Hidden burden: an officer must record it.\n"))
+        self.assertEqual([r["modality"] for r in table], ["DUTY"])
+        self.assertEqual([r["modality"] for r in table], [r["modality"] for r in bullet])
+        self.assertEqual(table[0]["terms"], bullet[0]["terms"])
 
 
 if __name__ == "__main__":

@@ -47,8 +47,8 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 
 | Label family | Example headers | What they are |
 |---|---|---|
-| **Core** (Sentient Constitution) | **Chapter One §1**, **Chapter One §15.4.4**, **Chapter Fourteen §7** | Chapters and sections in the numbered constitutional files |
-| **Preamble** | **Preamble §2** | Foundational requirements that open the Constitution |
+| **Core** (Sentient Constitution) | **Chapter One §1 Purpose and Role**, **Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations**, **Chapter Fourteen §7 Forum support before, during, and after review — oversight architecture** | Chapters and sections in the numbered constitutional files |
+| **Preamble** | **Preamble §2 Measurements Overview** | Foundational requirements that open the Constitution |
 | **Constitutional Tetrad** | **Participation**, **Oversight**, **Accountability**, **Timeliness** | The four scaling principles in the Preamble |
 | **Two Constitutional Aims** | **Flourishing**, **Continuity** | The two aims in the Preamble |
 | **Article** (Chapter Six) | **Article XXIII** (*Comprehensibility and Complexity Stewardship*), **Article XXII-C** (*Non-Statelessness*) | Rights articles in Chapter Six |
@@ -70,7 +70,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 | Look up a shared cross-layer how-to term | **oDef** / [CJS-5.105](cjs_05.105_cross_implementation_operational_terms.md). Binding homes: [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) and [CJS-0.110 §3 shared implementation-corpus preamble contract](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) |
 | Learn how to read an **oDef** entry | [CJS-5.140 §13](cjs_05.140_odef_parse_mechanics.md#cjs-5140-13-operational-structure-and-subsection-local-terminology) and [CJS-5.140 §14](cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters) |
 | Find which file owns a topic | [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); maintainer table [CJS-0.105 §1 Cross-file routing](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*Cross-file routing*) |
-| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | [Chapter One §15.4.4](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [CJS-0.110 §3 shared implementation-corpus preamble contract](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) |
+| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [CJS-0.110 §3 shared implementation-corpus preamble contract](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) |
 
 ## When more than one layer applies
 

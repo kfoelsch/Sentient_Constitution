@@ -317,8 +317,8 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-5.105 (*Operational cluster
 
 | Name | Kind | What it times | Set in |
 |---|---|---|---|
-| **Tier window** | window | A matter's stage targets and its outer bound, taken together for its tier | Chapter Fourteen §6; CF-14.445 §3.1 |
-| **Tier outer bound** | bound | The hard limit for finishing integrated resolution in a tier | Chapter Fourteen §6 |
+| **Tier window** | window | A matter's stage targets and its outer bound, taken together for its tier | Chapter Fourteen §6 (*Timely resolution, materiality tiers, and anti-delay discipline*); CF-14.445 §3.1 |
+| **Tier outer bound** | bound | The hard limit for finishing integrated resolution in a tier | Chapter Fourteen §6 (*Timely resolution, materiality tiers, and anti-delay discipline*) |
 | **Stage target** (including the **intake target**) | target | The goal for one pipeline stage inside the tier window | CF-14.445 §3.1 |
 | **Restore-challenge window** | window | Restoring notice and challenge after an emergency measure | [Chapter Fourteen §6.1 Emergency measures and continuation burden](../core_14.000_forum.md#61-emergency-measures-and-continuation-burden) |
 | **Prompt-review window** | window | Beginning review of a measure, order, hold, stay, or interim decision already in force; it takes the length of the tier's intake target and is a compliance line | [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_14.000_forum.md#prompt-review) (*Prompt review*); CF-14.445 §3.1 |
@@ -328,7 +328,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-5.105 (*Operational cluster
 | **Declaration window** | window | The supervisory, assurance-line, and public declaration for a NU-1 event; the mapped tier's outer-bound length | CJS-5.110 §6 |
 | **Hold lapse date** | bound | The day an [Interim Hold](../core_05.035_band_accountability.md#interim-hold) ends on its own, set from the merits matter's tier window | [Chapter Fourteen, Interim hold](../core_14.000_forum.md#interim-hold-on-a-named-sentients-pathway) |
 | **Certification interval** | interval | Between full certifications or recertifications | Review cadence; [Chapter Nine Part C §9.3](../core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification) |
-| **Provisional interval** | interval | Between recertifications while certification is provisional | Review cadence; Chapter Nine Part C §9.3 |
+| **Provisional interval** | interval | Between recertifications while certification is provisional | Review cadence; Chapter Nine Part C §9.3 (*Provisional and full certification*) |
 | **Audit midpoint** | interval | The audit that falls half-way between certification passes | Review cadence |
 | **Audit advance allowance** | interval | How far a body may move its own audit earlier | Review cadence |
 
@@ -336,9 +336,9 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-5.105 (*Operational cluster
 
 | Name | Kind | What it times | Set in |
 |---|---|---|---|
-| **Response window** | window | The short window for a Chartered Party to answer a request, a notice, a failed finding, or a classification challenge; it takes the length of the matching tier's intake target | Chapter Seven §1.6, §6; CI-12.210 §3 (*Notice, response, and resolution*) |
-| **Resolution window** | window | The longer window to publish the missing System Charter or Institutional Charter or to resolve a failed finding; it takes the length of the matching tier's outer bound | Chapter Seven §1.6, §6; CI-12.210 §3 (*Notice, response, and resolution*) |
-| **Challenge extension** | window | Extends the resolution window while a classification challenge is pending | Chapter Seven §1.6 |
+| **Response window** | window | The short window for a Chartered Party to answer a request, a notice, a failed finding, or a classification challenge; it takes the length of the matching tier's intake target | Chapter Seven §1.6 (*If a System Charter or Institutional Charter is missing*), §6 (*When a Holder Fails the Formation Check*); CI-12.210 §3 (*Notice, response, and resolution*) |
+| **Resolution window** | window | The longer window to publish the missing System Charter or Institutional Charter or to resolve a failed finding; it takes the length of the matching tier's outer bound | Chapter Seven §1.6 (*If a System Charter or Institutional Charter is missing*), §6 (*When a Holder Fails the Formation Check*); CI-12.210 §3 (*Notice, response, and resolution*) |
+| **Challenge extension** | window | Extends the resolution window while a classification challenge is pending | Chapter Seven §1.6 (*If a System Charter or Institutional Charter is missing*) |
 | **Good-faith extension** | window | One extension of the resolution window on a showing of good-faith progress and no continuing harm | CI-12.210 §3 (*Notice, response, and resolution*) |
 
 Both windows take the Tier that matches the Chartered Party's class: Class A, B, C, or L takes Tier A, B, C, or L, and a class in question counts at the Tier of the more critical of the class the Chartered Party holds on its System Classification Record and any class shown on a prima facie basis, until it is settled, or at Tier C where it holds none or holds Class P. Class P takes Tier P where **CI-12.210 §3** (*Notice, response, and resolution*) applies to it.

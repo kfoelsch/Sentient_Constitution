@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **765** of **1234** headings carry a gloss (62%).
+Coverage: **765** of **1248** headings carry a gloss (61%).
 
 ## Contents
 
@@ -37,9 +37,9 @@ Coverage: **765** of **1234** headings carry a gloss (62%).
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
 - [CHAPTER ELEVEN, PART A: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-part-a-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
-- [CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) — `core_11.005_standing_measurement.md` (9/26 glossed)
+- [CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) — `core_11.005_standing_measurement.md` (9/40 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
-- [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
+- [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct-designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER THIRTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-thirteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_13.005_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER FOURTEEN: FORUMS AND JURISDICTION](#chapter-fourteen-forums-and-jurisdiction) — `core_14.000_forum.md` (9/29 glossed)
 - [CHAPTERS ELEVEN–FOURTEEN: PIPELINE APPLICATION VIGNETTES](#chapters-elevenfourteen-pipeline-application-vignettes) — `core_11.010_application_vignettes.md` (9/35 glossed)
@@ -5210,7 +5210,7 @@ once custody is settled, four rules govern how the sentients and offices that ho
 
 ## CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?
 
-Source file: [`core_11.005_standing_measurement.md`](../../core_11.005_standing_measurement.md) · 9/26 headings glossed
+Source file: [`core_11.005_standing_measurement.md`](../../core_11.005_standing_measurement.md) · 9/40 headings glossed
 
 #### 7. Question 2 — how good or bad was it?
 
@@ -5254,11 +5254,35 @@ this section lists what to examine when measuring a verified contribution (**sec
 
 [Source](../../core_11.005_standing_measurement.md#81-contribution-magnitude-input-dimensions)
 
+###### 8.1.1 How the way a benefit was produced affects what counts
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#811-how-the-way-a-benefit-was-produced-affects-what-counts)
+
+###### 8.1.2 What Question 2 produces
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#812-what-question-2-produces)
+
 ##### 8.2 Violation severity-input dimensions
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_11.005_standing_measurement.md#82-violation-severity-input-dimensions)
+
+###### 8.2.1 How the way a harm was caused is recorded
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#821-how-the-way-a-harm-was-caused-is-recorded)
+
+###### 8.2.2 What Question 2 produces
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#822-what-question-2-produces)
 
 #### 9. Route descriptor catalogs and measurement roles
 
@@ -5272,11 +5296,71 @@ the two catalogs below name the kinds of verified help (**section 9.1**) and har
 
 [Source](../../core_11.005_standing_measurement.md#91-contribution-route-descriptor-catalog-and-measurement-roles)
 
+###### 9.1.1 Bodily safety, relationships, care, and agency
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#911-bodily-safety-relationships-care-and-agency)
+
+###### 9.1.2 Repair, property, and resources
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#912-repair-property-and-resources)
+
+###### 9.1.3 Knowledge, education, records, and discovery
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#913-knowledge-education-records-and-discovery)
+
+###### 9.1.4 Systems and constitutional operation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#914-systems-and-constitutional-operation)
+
+###### 9.1.5 Ecology and diligence
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#915-ecology-and-diligence)
+
 ##### 9.2 Violation route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_11.005_standing_measurement.md#92-violation-route-descriptor-catalog-and-measurement-roles)
+
+###### 9.2.1 Bodily safety, relationships, care, and agency
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#921-bodily-safety-relationships-care-and-agency)
+
+###### 9.2.2 Repair, property, and resources
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#922-repair-property-and-resources)
+
+###### 9.2.3 Knowledge, education, records, and discovery
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#923-knowledge-education-records-and-discovery)
+
+###### 9.2.4 Systems and constitutional operation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#924-systems-and-constitutional-operation)
+
+###### 9.2.5 Ecology and diligence
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#925-ecology-and-diligence)
 
 #### 10. Slot grammar and shared scaling
 
@@ -5624,19 +5708,19 @@ these patterns show how recurring Question 3 edge shapes route through the rules
 
 [Source](../../core_12.000_standing_integration.md#1014-verified-cruelty-character)
 
-## CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION
+## CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION
 
 Source file: [`core_13.000_misconduct_designation.md`](../../core_13.000_misconduct_designation.md) · 8/8 headings glossed
 
 #### 1. How designation decisions work — Continuity and tetrad-capture frame
 
-this chapter works in one sequence. First confirm the Chapter Eleven impact slot, then define the incident, apply the designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.
+this chapter works in one sequence. First confirm the Chapter Eleven impact slot, then define the incident, apply the anti-constitutional-misconduct designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.
 
 [Source](../../core_13.000_misconduct_designation.md#1-scope-and-authority)
 
-#### 2. Criteria set (for designation) — Accountability at constitutional scale
+#### 2. Criteria set (for anti-constitutional-misconduct designation) — Accountability at constitutional scale
 
-evaluators first accept the Chapter Eleven impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. They may not split one scheme to game the designation.
+evaluators first accept the Chapter Eleven impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. They may not split one scheme to game the anti-constitutional-misconduct designation.
 
 [Source](../../core_13.000_misconduct_designation.md#2-criteria-set-for-slot-assignment)
 
@@ -5648,25 +5732,25 @@ Chapter Eleven has already scored how serious the harm is. This section only ask
 
 #### 4. Due-process safeguards, remedy, and prevention
 
-nobody receives a final anti-constitutional designation without process. There has to be independent review, a real chance to respond, and a reasoned public record. After final designation, this section specializes Chapter Twelve's durable-fix grammar — remedy and correction, then prevention locks, then voluntary public accountability expression where used.
+nobody receives a final anti-constitutional designation without process. There has to be independent review, a real chance to respond, and a reasoned public record. After final anti-constitutional-misconduct designation, this section specializes Chapter Twelve's durable-fix grammar — remedy and correction, then prevention locks, then voluntary public accountability expression where used.
 
 [Source](../../core_13.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)
 
 #### 4.1 Remedy and correction (anti-constitutional)
 
-a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start — mirroring Chapter Twelve's remedy and correction outputs, tightened for designation cases.
+a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start — mirroring Chapter Twelve's remedy and correction outputs, tightened for anti-constitutional-misconduct designation cases.
 
 [Source](../../core_13.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional)
 
 #### 4.2 Prevention — anti-constitutional locks
 
-after final designation, Chapter Twelve's Trust Lock closes capture-linked named pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Twelve lock format and states the ACM imprisonment specialization.
+after final anti-constitutional-misconduct designation, Chapter Twelve's Trust Lock closes capture-linked named pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Twelve lock format and states the ACM imprisonment specialization.
 
 [Source](../../core_13.000_misconduct_designation.md#42-prevention--anti-constitutional-locks)
 
 #### 4.3 Voluntary public accountability expression (anti-constitutional)
 
-a public apology in an anti-constitutional misconduct case must meet Chapter Twelve's general voluntariness and authenticity rules, and designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.
+a public apology in an anti-constitutional misconduct case must meet Chapter Twelve's general voluntariness and authenticity rules, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.
 
 [Source](../../core_13.000_misconduct_designation.md#4-3-voluntary-public-accountability-expression)
 

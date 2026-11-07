@@ -6,7 +6,11 @@ Number-only links such as ``[§11.5](#…)`` and bare ranges such as
 text (``[§11.5 Contingent Claims…](#…)``), immediately after an unlinked
 token, or in a following ``(*title*)`` gloss.
 
-``<details>`` widgets, headings, tables, HTML-only lines, blockquotes,
+Table rows are scanned like prose: a cite in a table cell needs its title
+too. Table cites that were already unnamed when table rows came into scope
+are listed in ``section_cite_name_table_baseline.json`` and do not block a full
+scan; editing such a row changes its fingerprint, so the row must then be
+named. Prose cites have no baseline. ``--write-baseline`` rewrites the file. ``<details>`` widgets, headings, HTML-only lines, blockquotes,
 backticks, and fenced code are out of scope. ``--changed-only`` scans
 added Markdown lines versus HEAD so existing unnamed cites do not block
 until those lines are edited.
@@ -17,9 +21,12 @@ Rule ID: SECTION-CITE-NAME-01
 from __future__ import annotations
 
 import argparse
+import hashlib
+import json
 import re
 import subprocess
 import sys
+from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -32,6 +39,7 @@ from chapter_insertion_diff import is_insertion_only_change  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 RULE = "SECTION-CITE-NAME-01"
+BASELINE_PATH = _TOOLS / "section_cite_name_table_baseline.json"
 
 CHAPTER_PREFIX = (
     r"(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|"
@@ -71,6 +79,8 @@ class Finding:
     line: int
     cite: str
     detail: str
+    table: bool = False
+    fingerprint: str = ""
 
 
 def parse_args() -> argparse.Namespace:
@@ -80,6 +90,11 @@ def parse_args() -> argparse.Namespace:
         "--changed-only",
         action="store_true",
         help="Scan added Markdown lines changed relative to HEAD.",
+    )
+    parser.add_argument(
+        "--write-baseline",
+        action="store_true",
+        help="Rewrite the table-cite baseline from a full scan of the binding corpus.",
     )
     parser.add_argument(
         "--paths",
@@ -113,8 +128,6 @@ def is_exempt_line(line: str) -> bool:
         return True
     if stripped.startswith("#"):
         return True
-    if stripped.startswith("|"):
-        return True
     if stripped.startswith("<"):
         return True
     if stripped.startswith(">"):
@@ -125,6 +138,8 @@ def is_exempt_line(line: str) -> bool:
 def scan_line(rel_path: str, line_number: int, line: str) -> list[Finding]:
     if is_exempt_line(line):
         return []
+    is_table = line.lstrip().startswith("|")
+    fingerprint = hashlib.sha1(line.strip().encode("utf-8")).hexdigest()[:12]
     line = CODE_SPAN_RE.sub(" ", line)
     findings: list[Finding] = []
     for match in MARKDOWN_LINK_RE.finditer(line):
@@ -142,6 +157,8 @@ def scan_line(rel_path: str, line_number: int, line: str) -> list[Finding]:
                     visible,
                     "section-number link has no title in the link text "
                     "or a following (*title*) gloss",
+                    is_table,
+                    fingerprint,
                 )
             )
     stripped = MARKDOWN_LINK_RE.sub("", line)
@@ -157,6 +174,8 @@ def scan_line(rel_path: str, line_number: int, line: str) -> list[Finding]:
                 line_number,
                 token,
                 "bare section number has no title immediately after it",
+                is_table,
+                fingerprint,
             )
         )
     return findings
@@ -279,6 +298,57 @@ def changed_markdown_findings(root: Path, allowed_scope: set[str]) -> list[Findi
     return findings
 
 
+def baseline_key(finding: Finding) -> tuple[str, str, str]:
+    return (finding.file, finding.cite, finding.fingerprint)
+
+
+def load_baseline(path: Path = BASELINE_PATH) -> Counter:
+    if not path.is_file():
+        return Counter()
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return Counter(
+        (entry["file"], entry["cite"], entry["line"]) for entry in data.get("entries", [])
+    )
+
+
+def apply_baseline(findings: list[Finding], baseline: Counter) -> tuple[list[Finding], int]:
+    """Drop table findings already in the baseline; prose findings never drop."""
+    remaining = Counter(baseline)
+    kept: list[Finding] = []
+    grandfathered = 0
+    for finding in findings:
+        key = baseline_key(finding)
+        if finding.table and remaining[key] > 0:
+            remaining[key] -= 1
+            grandfathered += 1
+            continue
+        kept.append(finding)
+    return kept, grandfathered
+
+
+def write_baseline(findings: list[Finding], path: Path = BASELINE_PATH) -> int:
+    entries = sorted(
+        (
+            {"file": f.file, "cite": f.cite, "line": f.fingerprint}
+            for f in findings
+            if f.table
+        ),
+        key=lambda e: (e["file"], e["cite"], e["line"]),
+    )
+    payload = {
+        "rule": RULE,
+        "note": (
+            "Unnamed section-number cites in table rows that predate table rows "
+            "coming into scope. Each entry is (file, cite, SHA-1 of the row text). "
+            "Editing a row changes its fingerprint, so the row must then be named. "
+            "Shrink this file by naming cites; never add to it by hand."
+        ),
+        "entries": entries,
+    }
+    path.write_text(json.dumps(payload, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    return len(entries)
+
+
 def format_finding(finding: Finding) -> str:
     return (
         f"{finding.file}:{finding.line}: {RULE}: unnamed {finding.cite}: "
@@ -290,6 +360,22 @@ def main() -> int:
     args = parse_args()
     root = args.root.resolve()
     full_scope = binding_corpus_scope(root, include_support_docs=False)
+    if args.write_baseline:
+        scanned = [
+            finding
+            for rel_path in full_scope
+            for finding in scan_file(root, rel_path)
+        ]
+        prose = [f for f in scanned if not f.table]
+        if prose:
+            print(f"FAIL: {RULE} — {len(prose)} unnamed prose cite(s); name them before writing a baseline.")
+            for finding in prose:
+                print(f"  {format_finding(finding)}")
+            return 1
+        count = write_baseline(scanned)
+        print(f"Wrote {count} table-cite baseline entr{'y' if count == 1 else 'ies'} to {BASELINE_PATH.name}.")
+        return 0
+    grandfathered = 0
     if args.paths:
         allowed = set(full_scope)
         scope = [path for path in args.paths if path in allowed]
@@ -306,9 +392,16 @@ def main() -> int:
             for rel_path in full_scope
             for finding in scan_file(root, rel_path)
         ]
+    if not args.changed_only:
+        findings, grandfathered = apply_baseline(findings, load_baseline())
     if not findings:
         mode = "changed-only" if args.changed_only else "full"
-        print(f"PASS: {RULE} ({mode}) — section-number cites are named.")
+        note = (
+            f" {grandfathered} older table cite(s) are in the baseline."
+            if grandfathered
+            else ""
+        )
+        print(f"PASS: {RULE} ({mode}) — section-number cites are named.{note}")
         return 0
     print(f"FAIL: {RULE} — {len(findings)} unnamed section-number cite(s).")
     for finding in findings:

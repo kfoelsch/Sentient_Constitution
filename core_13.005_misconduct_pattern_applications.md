@@ -3,19 +3,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Thirteen, Part B** — named pattern applications and criteria routing for recurring anti-constitutional misconduct patterns. **Part A** — designation decision framework, criteria set, designation attachment, and due-process safeguards — is in [`core_13.000_misconduct_designation.md`](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct--designation).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Thirteen, Part B** — named pattern applications and criteria routing for recurring anti-constitutional misconduct patterns. **Part A** — anti-constitutional-misconduct designation (ACMD) decision framework, criteria set, designation attachment, and due-process safeguards — is in [`core_13.000_misconduct_designation.md`](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct-designation).
 >
-> - **Constitutional owner (joint with Part A):** final anti-constitutional-misconduct designation for Violation Axis `s = 7`, `s = 8`, or `s = 9` findings. Part B routes named patterns into Part A §§2–4; it does **not** add designation criteria or Chapter Twelve lock types.
-> - **Anti-relocation rule:** Part B does not restate Part A designation criteria, attachment rules, or due-process safeguards. Operational forum, systems, and institutional mechanics remain in their owner chapters.
+> - **Constitutional owner (joint with Part A):** final ACMD for Violation Axis `s = 7`, `s = 8`, or `s = 9` findings. Part B routes named patterns into Part A §§2–4; it does **not** add designation criteria or Chapter Twelve lock types.
+> - **Anti-relocation rule:** Part B does not restate Part A ACMD criteria, attachment rules, or due-process safeguards. Operational forum, systems, and institutional mechanics remain in their owner chapters.
 >
-> **Upstream:** [Part A](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct--designation) (*designation criteria and safeguards*); Chapter Twelve Question 3 named-pathway lock dual-layer mirror where noted.
-> **Downstream:** Chapter Twelve standing-effect integration after final designation; Chapter Fourteen forum routing and certification.
+> **Upstream:** [Part A](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct-designation) (*designation criteria and safeguards*); Chapter Twelve Question 3 named-pathway lock dual-layer mirror where noted.
+> **Downstream:** Chapter Twelve standing-effect integration after final ACMD; Chapter Fourteen forum routing and certification.
 
 </details>
 
 <br>
 
-Chapter Thirteen, **Part B**, is the constitutional owner of **named pattern applications and criteria routing** for anti-constitutional misconduct. Designation criteria, attachment, and due-process safeguards are in **[Part A](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct--designation)**.
+Chapter Thirteen, **Part B**, is the constitutional owner of **named pattern applications and criteria routing** for anti-constitutional misconduct. Anti-constitutional-misconduct designation (ACMD) criteria, attachment, and due-process safeguards are in **[Part A](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct-designation)**.
 
 <a id="5-criteria-interactions-and-named-pattern-routing"></a>
 <a id="5-pattern-applications-and-criteria-routing"></a>
@@ -78,7 +78,7 @@ The following subsections state criteria interactions and named pattern applicat
 
 *In plain terms: dangerous concentration of money or power is not a separate “mystery criterion” — it still has to show up through rollback, blocked remedies, or capture that makes constitutional process unusable in practice.*
 
-Prohibited **concentration of wealth, power, control, or opportunity**, including durable domination under **Chapter One §11.2** (*Pro-Competition and Anti-Domination*) and unrebutted consolidation-ceiling violation under **§11.3** (*Consolidation Ceiling*), is not a separate designation criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
+Prohibited **concentration of wealth, power, control, or opportunity**, including durable domination under **Chapter One §11.2** (*Pro-Competition and Anti-Domination*) and unrebutted consolidation-ceiling violation under **§11.3** (*Consolidation Ceiling*), is not a separate ACMD criterion. It is reached through the existing criteria where it produces the equivalent constitutional effect:
 
 - It satisfies **criterion 3** where concentration operates as an **equivalent structural workaround** producing material rollback of constitutional protections.
 - It satisfies **criterion 4** where concentration materially contributes to **Rights-Floor degradation**, delayed correction, or blocked challenge rights.
@@ -138,7 +138,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 - **NDAs** and **confidentiality** terms are **void** and **without operative effect** to the extent they would **suppress** **disclosure** or **cooperation** necessary for **accountability** for **criminal** conduct (including **reporting** to **competent** **criminal** or **oversight** process) or for **anti-constitutional misconduct** within **this chapter’s** scope.
 - Actors must not treat them as lawful authority for selective compliance, evidence destruction, forum shopping, or reincorporation arbitrage.
 
-**Criteria routing.** Evaluators assess these patterns under **criteria 3 and 4** where they produce material rollback or equivalent structural workaround, blocked or chilled challenge rights, or Rights-Floor degradation. **Criteria 1 and 2** apply where willful deception or record manipulation is implicated. This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
+**Criteria routing.** Evaluators assess these patterns under **criteria 3 and 4** where they produce material rollback or equivalent structural workaround, blocked or chilled challenge rights, or Rights-Floor degradation. **Criteria 1 and 2** apply where willful deception or record manipulation is implicated. This subsection does **not** add an additional ACMD criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
 
 <a id="53-flooding-the-zone-and-contest-pathway-denial"></a>
 
@@ -197,7 +197,7 @@ The following are non-exhaustive examples of in-scope means:
 - Ordinary caseload pressure without the imputed purpose or material effect stated here.
 - Volume alone, without culpable purpose or foreseeable indifference tied to those effects.
 
-**Operational response** — including primary-stakes routing, per-family intake triage, consolidation, anti-gaming measures, forum performance and backlog requirements, continuity measures, and forensic support — remains governed by **Chapter Fourteen** and adopted implementation. This subsection states when such conduct may implicate final anti-constitutional-misconduct designation under this chapter; it does not relocate operational rules to this chapter.
+**Operational response** — including primary-stakes routing, per-family intake triage, consolidation, anti-gaming measures, forum performance and backlog requirements, continuity measures, and forensic support — remains governed by **Chapter Fourteen** and adopted implementation. This subsection states when such conduct may implicate final ACMD under this chapter; it does not relocate operational rules to this chapter.
 
 **Criteria routing.** Evaluators assess these patterns as follows:
 - **Criterion 4** — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, or Rights-Floor degradation.
@@ -206,7 +206,7 @@ The following are non-exhaustive examples of in-scope means:
 - **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice.
 - Volume, redundancy, or automation alone is not sufficient.
 
-This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
+This subsection does **not** add an additional ACMD criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
 
 <a id="54-info-sphere-zone-flooding"></a>
 
@@ -290,7 +290,7 @@ The following are non-exhaustive examples of in-scope means:
 - **[CS-6.305](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-6.310 — Data classifications](corpus_systems/cs_06.310_data_classifications.md#cs-6310-part-b-data-classifications)** handling where designated; and
 - institutional governance under **Chapter Nineteen**.
 
-This subsection states when such conduct may implicate final anti-constitutional-misconduct designation under this chapter; it does not relocate operational rules to this chapter.
+This subsection states when such conduct may implicate final ACMD under this chapter; it does not relocate operational rules to this chapter.
 
 **Criteria routing.** Evaluators assess these patterns as follows:
 - **Criterion 4** — where conduct materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or impaired verification or audit access in practice.
@@ -299,7 +299,7 @@ This subsection states when such conduct may implicate final anti-constitutional
 - **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice.
 - Volume, redundancy, automation, or attention capture alone is not sufficient.
 
-This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
+This subsection does **not** add an additional ACMD criterion beyond the **section 2** set; it routes evaluation of the named patterns into that set.
 
 <a id="55-bribery-and-improper-benefit-exchange"></a>
 
@@ -389,9 +389,9 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
 - **Criterion 3** — where the exchange produces material rollback or an equivalent structural workaround.
 - **Criterion 4** — where it materially contributes to blocked challenge rights, delayed correction beyond practical remedy, Rights-Floor degradation, or selectively weakened enforcement or remedy.
 - **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice.
-- Bribery, giving, receiving, solicitation, or routing alone is not sufficient for final designation without the required criteria and due-process showing.
+- Bribery, giving, receiving, solicitation, or routing alone is not sufficient for final ACMD without the required criteria and due-process showing.
 
-This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
+This subsection does **not** add an additional ACMD criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
 <a id="56-unlawful-or-unconstitutional-command-conduct"></a>
 
@@ -528,7 +528,7 @@ A command relationship is not a defense, but it may bear on:
 - protection needs; and
 - standing consequences.
 
-**Immediate containment and designation boundary.** A materially substantiated unlawful or unconstitutional directive affecting any of the following triggers anti-constitutional misconduct routing, [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) duties, protected-reporting safeguards, and provisional containment where necessary to prevent continued harm:
+**Immediate containment and ACMD boundary.** A materially substantiated unlawful or unconstitutional directive affecting any of the following triggers anti-constitutional misconduct routing, [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) duties, protected-reporting safeguards, and provisional containment where necessary to prevent continued harm:
 - constitutional validity;
 - constitutional operation;
 - Rights-Floor governance;
@@ -537,7 +537,7 @@ A command relationship is not a defense, but it may bear on:
 - evidence integrity; or
 - coercive force against constitutional authority.
 
-A final designation still requires:
+A final ACMD still requires:
 - an existing Chapter Eleven `s` = 7, 8, or 9 impact slot;
 - a **section 3** decision; and
 - **section 4** due-process safeguards.
@@ -575,9 +575,9 @@ The unlawful or unconstitutional directive, material effect, and accountable att
 - **Criterion 4** — where it materially contributes to unlawful constitutional effect, delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
 - **Criterion 5** — where the directive materially organizes or authorizes unlawful force, coercion, or usurpation to overthrow, suspend, or replace operative constitutional authority.
 - **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice.
-- Command issuance, obedience, hierarchy, or role participation alone is not sufficient for final designation without the required criteria and due-process showing.
+- Command issuance, obedience, hierarchy, or role participation alone is not sufficient for final ACMD without the required criteria and due-process showing.
 
-This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
+This subsection does **not** add an additional ACMD criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
 <a id="57-reward-protection-or-normalization-of-anti-constitutional-conduct"></a>
 
@@ -707,7 +707,7 @@ Where proportionate and lawful, disputed rewards must be subject to any of the f
 
 The materially improper linkage to anti-constitutional conduct, concealment, retaliation, normalization, or accountability obstruction must be substantiated.
 
-This subsection does **not** add an additional designation criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
+This subsection does **not** add an additional ACMD criterion beyond the **section 2** set; it routes evaluation of the named pattern into that set.
 
 <a id="58-enforcement-refusal-suppression-or-non-prosecution-conduct"></a>
 
@@ -862,7 +862,7 @@ This subsection does **not**:
 - add an independent designation criterion beyond the **section 2** set; or
 - relocate prosecutorial, investigative, or forum-interface operations from Chapter Fourteen, **CF-14.435** (*Independent investigative service and prosecution interface*), or adopted implementation.
 
-It routes evaluation of the named pattern into the existing designation criteria and due-process safeguards of this chapter.
+It routes evaluation of the named pattern into the existing ACMD criteria and due-process safeguards of this chapter.
 
 <a id="59-infrastructure-denial-destruction-or-dependency-cutoff-conduct"></a>
 
@@ -1036,12 +1036,12 @@ Security, maintenance, ownership, budget, or emergency labels must not be used a
 - **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through infrastructure denial, destruction, capture, disabling, or dependency cutoff.
 
 This subsection does **not**:
-- add an additional designation criterion beyond the **section 2** set;
+- add an additional ACMD criterion beyond the **section 2** set;
 - create a general public-utility ownership rule;
 - prohibit all exclusion or security control; or
 - relocate infrastructure operations from Chapter Six, Chapter Fourteen, adopted systems protocols, or implementation law.
 
-It routes evaluation of the named pattern into the existing designation criteria and due-process safeguards of this chapter.
+It routes evaluation of the named pattern into the existing ACMD criteria and due-process safeguards of this chapter.
 
 <a id="510-forum-recusal-failure-and-biased-panel-participation"></a>
 
@@ -1112,11 +1112,11 @@ A **Constitutional** forum must not be the sole final merits forum for its own *
 - **Criterion 6** — only where **section 2** and **section 4** substantiation shows that constitutional process or remedies became unusable in practice through biased panel participation, capture of interpretive authority, or nullification of lawful recusal challenge.
 
 This subsection does **not**:
-- add an additional designation criterion beyond the **section 2** set;
+- add an additional ACMD criterion beyond the **section 2** set;
 - convert every recusal dispute into an Anti-Constitutional Misconduct Review matter; or
 - relocate panel-formation mechanics from **CF-14.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **Chapter Fourteen**, or **Article XXV-C** (*Constitutional Forum Independence and External Review*).
 
-It routes evaluation of the named pattern into the existing designation criteria, due-process safeguards, and **Integrity**-first routing of this chapter and **Chapter Fourteen**.
+It routes evaluation of the named pattern into the existing ACMD criteria, due-process safeguards, and **Integrity**-first routing of this chapter and **Chapter Fourteen**.
 
 <a id="511-obstruction-of-accountability-criteria-interaction"></a>
 
@@ -1165,7 +1165,7 @@ It routes evaluation of the named pattern into the existing designation criteria
 
 *In plain terms: attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Eleven and Eleven.*
 
-**Obstruction of accountability** is not a separate designation criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), which often names a structural condition; this subsection evaluates the conduct that produces, maintains, or exploits that disablement.
+**Obstruction of accountability** is not a separate ACMD criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), which often names a structural condition; this subsection evaluates the conduct that produces, maintains, or exploits that disablement.
 
 Where a Violation Axis finding already occupies `s` = 7, 8, or 9 and anti-constitutional misconduct is materially alleged, obstruction is reached through the existing **section 2** criteria where it produces the equivalent constitutional effect:
 
@@ -1183,15 +1183,15 @@ Named patterns elsewhere in this section are **modes** of obstruction, not compe
 - [§5.9 Infrastructure denial, destruction, or dependency cutoff conduct](#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) — infrastructure denial that cuts audit, remedy, or verification pathways;
 - [§5.10 Forum recusal failure and biased panel participation](#510-forum-recusal-failure-and-biased-panel-participation) — forum-integrity capture of contestability.
 
-The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 2** criteria. Chapter Eleven alone measures the Violation Axis slot; obstruction character never raises it. Chapter Twelve alone attaches ordinary named pathway locks and, after final designation, the Anti-Constitutional Trust Lock.
+The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 2** criteria. Chapter Eleven alone measures the Violation Axis slot; obstruction character never raises it. Chapter Twelve alone attaches ordinary named pathway locks and, after final ACMD, the Anti-Constitutional Trust Lock.
 
 This subsection does **not**:
-- add an additional designation criterion beyond the **section 2** set;
+- add an additional ACMD criterion beyond the **section 2** set;
 - convert every obstruction finding into an Anti-Constitutional Misconduct Review matter;
-- equate obstruction of accountability with anti-constitutional-misconduct designation; or
+- equate obstruction of accountability with ACMD; or
 - relocate standing measurement, ordinary locks, or forum supervision from Chapters Eleven, Twelve, or Fourteen.
 
-It routes evaluation of the umbrella pattern into the existing designation criteria and due-process safeguards of this chapter.
+It routes evaluation of the umbrella pattern into the existing ACMD criteria and due-process safeguards of this chapter.
 
 ---
 

@@ -158,7 +158,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[CS-6.320](c
 - Upstream: [§3.3](#33-conflict-disclosure-and-mitigation) documented conflict handling.
 - Subsections: [§4.1](#41-good-faith-cooperation); [§4.2](#42-preserved-internal-review-pathways).
 - Downstream: [§5](#5-relation-to-applicable-external-law) non-displacement and alignment; [Article XX-A](core_06.020_rights_part_e.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
-- Read with: [Chapter Seventeen §2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
+- Read with: [§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
 
 </details>
 

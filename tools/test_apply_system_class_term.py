@@ -72,7 +72,7 @@ class RewriteTests(unittest.TestCase):
             self.assertEqual(fix(text), text)
 
     def test_already_qualified_stays(self) -> None:
-        for text in ("the system class", "the system's class", "an impact class", "a risk class", "a class of harms", "first-class"):
+        for text in ("the system class", "the system's class", "an impact class", "a risk class", "the institution class", "Institution Class Evaluation", "a class of harms", "first-class"):
             self.assertEqual(fix(text), text)
 
     def test_idempotent(self) -> None:

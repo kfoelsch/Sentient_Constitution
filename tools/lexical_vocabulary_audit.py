@@ -513,6 +513,27 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError("Internal regression failed: bare placement was not flagged (AUDIT-SCOPE-01).")
     if scan_avoid_bare_placement("doc_architecture.md", "The placement applies.\n"):
         raise RuntimeError("Internal regression failed: bare placement was flagged in the exempt move-log file.")
+    designation_findings = scan_avoid_bare_designation(
+        "core_11.005_standing_measurement.md",
+        "The designation attaches to the finding.\n"
+        "A final designation triggers the lock.\n"
+        "Designation-only review stays separate.\n"
+        "The ACMD and an ACM designation are qualified abbreviations.\n"
+        "The anti-constitutional-misconduct designation and a Chapter Thirteen designation are qualified.\n"
+        "A final anti-constitutional-misconduct designation, a backup designation, and a designation of accountable incident authority stay.\n"
+        "It does not replace a designation under **Chapter Thirteen**.\n"
+        "See [link](core_13.000_misconduct_designation.md#chapter-thirteen-part-a) and `the designation` in code.\n",
+    )
+    if len(designation_findings) != 3:
+        raise RuntimeError(
+            "Internal regression failed: bare designation was not flagged or qualified forms broke.",
+        )
+    if not scan_avoid_bare_designation("core_07.000_charters.md", "The designation applies.\n"):
+        raise RuntimeError("Internal regression failed: bare designation was not flagged (AUDIT-SCOPE-01).")
+    if scan_avoid_bare_designation("doc_architecture.md", "The designation applies.\n"):
+        raise RuntimeError("Internal regression failed: bare designation was flagged in the exempt move-log file.")
+    if not scan_avoid_bare_designation("core_13.000_misconduct_designation.md", "The designation attaches.\n"):
+        raise RuntimeError("Internal regression failed: bare designation was not flagged in Chapter Thirteen.")
     pass_findings = scan_avoid_bare_pass(
         "core_10.000_institutional_alignment_certification.md",
         "Every pass evaluates the items.\n"
@@ -1143,6 +1164,56 @@ def scan_avoid_bare_placement(rel_path: str, text: str) -> list[Finding]:
             if word in _PLACEMENT_BARE_PRECEDERS or word == "^":
                 findings.append(
                     Finding(file=rel_path, line=idx, rule="avoid-bare-placement", text=raw.strip()),
+                )
+                break
+    return findings
+
+
+# Bare **designation** (custodian decision, 2026-11-07): a designation always says which one. The word carries several unrelated senses in
+# the corpus (the Chapter Thirteen anti-constitutional-misconduct designation, a designation of a backup forum or record authority named in
+# a System Charter or Institutional Charter, a designation of accountable incident authority, a designation list under a Chapter Six
+# article), so "the designation", "a final designation", "corresponding designation", or "designation-only" alone does not say which.
+# Say **anti-constitutional-misconduct designation** (or **Chapter Thirteen designation**), **backup designation**, and so on, or name
+# what is designated ("designation of accountable incident authority"). "Designation of ..." and "designation under ..." are not matched.
+# **Final**, **corresponding**, **matching**, **additional**, **separate**, and **existing** do not say which kind, so "final designation"
+# is bare unless a kind word comes first (**final anti-constitutional-misconduct designation**). A `designation-...` compound counts as the
+# noun, so "and designation-only review" is flagged and "anti-constitutional-misconduct designation-only review" is not. Enforced on every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), including both Chapter Thirteen files
+# (custodian decision, 2026-11-07: the chapter title does not excuse the bare word inside the chapter). The abbreviations **ACMD**
+# (anti-constitutional-misconduct designation) and **ACM** (anti-constitutional misconduct) are qualified forms: Chapter Thirteen may use them,
+# and so may another chapter on repeated use, each file defining them in parentheses at first use.
+_BARE_DESIGNATION_EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
+_DESIGNATION_WORD = re.compile(r"(?<![A-Za-z0-9-])(designations?)(?![A-Za-z0-9])", re.IGNORECASE)
+_DESIGNATION_BARE_PRECEDERS = frozenset(
+    """
+    a an the this that these those such each every any all some no other another its their our same one next
+    and or nor of to for with without through via by in on into from as is are be where when while if whether which what whose
+    final corresponding matching additional separate existing
+    """.split()
+)
+
+
+def scan_avoid_bare_designation(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare **designation** / **designations**: every use must say which designation it is."""
+    if rel_path in _BARE_DESIGNATION_EXEMPT:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        for match in _DESIGNATION_WORD.finditer(check_line):
+            if re.match(r"\s*(?:\*\*)?\s*(?:of|under)\b", check_line[match.end() :], re.IGNORECASE):
+                continue
+            word = _pathway_preceding_word(check_line, match.start())
+            if word in _DESIGNATION_BARE_PRECEDERS or word == "^":
+                findings.append(
+                    Finding(file=rel_path, line=idx, rule="avoid-bare-designation", text=raw.strip()),
                 )
                 break
     return findings
@@ -2222,6 +2293,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-bare-run`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **run** / **runs** after a determiner (**the run**, **a run**, **each run**, **the runs**) → say **certification pass** or **review pass**, or name the thing. **Allowed:** the verb (**the system runs**, **checks run**), qualified compounds (**parallel run**, **test run**), idioms with a word between (**the long run**), **run sheet**, **run of …**, and **run by …** (the participle).",
         "- **`avoid-bare-condition`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), on a line that speaks of certification (certif-, go-live, reopening trigger, fulfillment, bounded authorization), reject the noun **condition** / **conditions** after a determiner, preposition, conjunction, or possessive, or at the start of a bullet or cell (**the conditions**, **with or without conditions**, **release from a condition**) → say **certification condition(s)**. Also rejects **condition deadline**, **condition fulfillment**, **condition release**, and **condition violation** on any line unless **certification** comes first. **Allowed:** any qualified form (**certification condition**, **continuing certification condition**, **operating conditions**, **Safe Conditions**, **corrective conditions** of a standing lock), the verb (**conditions the act**), and the other senses on lines that do not speak of certification.",
         "- **`avoid-bare-placement`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **placement** / **placements** after a determiner or generic word (**the placement**, **a placement**, **those placements**) or at the start of a sentence, bullet, or cell → say what is placed or which kind: **seat placement**, **role placement**, **Published Placement** (Chapter Eight §5), **Corpus placement**, **display placement**, **paid placement**, or name the thing (**placement of the record seat**). **Allowed:** **placement of …**, any qualified compound, and the verb (**places**, **placed**, **placing**).",
+        "- **`avoid-bare-designation`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **designation** / **designations** after a determiner, preposition, conjunction, or generic adjective (**the designation**, **a final designation**, **corresponding designation**, **for designation**), or at the start of a sentence, bullet, or cell; a `designation-…` compound counts as the noun → say which designation: **anti-constitutional-misconduct designation** (or **Chapter Thirteen designation**), **backup designation**, or name what is designated. **Allowed:** **designation of …**, **designation under …**, and any qualified form (**final anti-constitutional-misconduct designation**, **backup designation**, **ACMD**, **ACM designation**; each file defines the abbreviation at first use).",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`load-bearing-forum-family-casing`:** reject lowercase **forum** / **forums** after a forum family name (**Sentient**, **Technical**, **Institutional**, **Environment**, **Integrity**, **Constitutional**) outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Sentient Forums**, **Technical Forums**, and so on when the family is meant. Generic uses (forum family, lead forum) stay lowercase.",
@@ -2300,6 +2372,7 @@ def main() -> int:
         findings.extend(scan_avoid_bare_recheck(rel_path, text))
         findings.extend(scan_avoid_bare_level(rel_path, text))
         findings.extend(scan_avoid_bare_placement(rel_path, text))
+        findings.extend(scan_avoid_bare_designation(rel_path, text))
         findings.extend(scan_avoid_bare_pass(rel_path, text))
         findings.extend(scan_avoid_bare_run(rel_path, text))
         findings.extend(scan_avoid_component_pass(rel_path, text))
