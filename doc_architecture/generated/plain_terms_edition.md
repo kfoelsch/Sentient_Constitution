@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_17.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **765** of **1248** headings carry a gloss (61%).
+Coverage: **766** of **1248** headings carry a gloss (61%).
 
 ## Contents
 
@@ -37,7 +37,7 @@ Coverage: **765** of **1248** headings carry a gloss (61%).
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
 - [CHAPTER ELEVEN, PART A: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-part-a-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
-- [CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) — `core_11.005_standing_measurement.md` (9/40 glossed)
+- [CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) — `core_11.005_standing_measurement.md` (10/40 glossed)
 - [CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION](#chapter-twelve-standing-effects-and-integration) — `core_12.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER THIRTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-thirteen-part-a-anti-constitutional-misconduct-designation) — `core_13.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER THIRTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-thirteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_13.005_misconduct_pattern_applications.md` (12/14 glossed)
@@ -5210,7 +5210,7 @@ once custody is settled, four rules govern how the sentients and offices that ho
 
 ## CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?
 
-Source file: [`core_11.005_standing_measurement.md`](../../core_11.005_standing_measurement.md) · 9/40 headings glossed
+Source file: [`core_11.005_standing_measurement.md`](../../core_11.005_standing_measurement.md) · 10/40 headings glossed
 
 #### 7. Question 2 — how good or bad was it?
 
@@ -5244,7 +5244,7 @@ Question 2 measures the verified facts from Question 1. It asks **how good was t
 
 #### 8. Magnitude and severity input dimensions
 
-this section lists what to examine when measuring a verified contribution (**section 8.1**) or a verified violation (**section 8.2**). Each axis is measured on its own. The shared scaling rules are in **section 10.3**, and the slot comes from the scale in **section 12**.
+this section lists what to examine when measuring a verified contribution (**section 8.1**) or a verified violation (**section 8.2**). Each axis is measured on its own. The shared scaling rules are in **section 10.2**, and the slot comes from the scale in **section 12**.
 
 [Source](../../core_11.005_standing_measurement.md#8-magnitude-and-severity-input-dimensions)
 
@@ -5374,17 +5374,11 @@ this section gives consistent names to nine possible positions on each of two se
 
 [Source](../../core_11.005_standing_measurement.md#101-table-1--slot-display-labels)
 
-##### 10.2 Standard contribution measures
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#102-standard-contribution-measures)
-
-##### 10.3 Shared impact-scaling rules
+##### 10.2 Shared impact-scaling rules
 
 impact is not measured by headcount alone. A profound benefit or loss affecting one sentient may be more significant than a shallow effect affecting many. Count, depth, vulnerability, duration, durability, reach, and constitutional character must be assessed together.
 
-[Source](../../core_11.005_standing_measurement.md#103-shared-impact-scaling-rules)
+[Source](../../core_11.005_standing_measurement.md#102-shared-impact-scaling-rules)
 
 #### 11. Constitutional inputs to axis assignment
 
@@ -5416,35 +5410,41 @@ before choosing a slot, identify the constitutional sources that say what baseli
 
 [Source](../../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes)
 
-#### 13. Measurement illustrations
+#### 13. Standard contribution measures
+
+for tasks sentients do again and again, such as a litter pickup or a creek-restoration work unit, an adopter may publish a default Question 2 measurement so each verified instance does not need its own estimate. The default is a floor, not a cap: work that verifiably does more is measured on what it did, and work that falls short is measured on what was verified. Defaults are updated on a published schedule, can be contested, and never create a duty to do the task.
+
+[Source](../../core_11.005_standing_measurement.md#13-standard-contribution-measures)
+
+#### 14. Measurement illustrations
 
 these illustrations begin with Question 1's verified facts, then show how **sections 8 and 9** measure them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 8–11**; Question 3 is answered in [Chapter Twelve](../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Twelve §10.1 Informal ecological stewardship / competency clearance](../../core_12.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](../../core_12.000_standing_integration.md#102-ecological-negligence-with-concealment).
 
-[Source](../../core_11.005_standing_measurement.md#13-measurement-illustrations)
+[Source](../../core_11.005_standing_measurement.md#14-measurement-illustrations)
 
-##### 13.1 Example 1 — Riparian cooperative restoration (contribution)
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#131-example-1--riparian-cooperative-restoration-contribution)
-
-##### 13.2 Example 2 — Watershed steward negligence with concealed test results (violation)
+##### 14.1 Example 1 — Riparian cooperative restoration (contribution)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#132-example-2--watershed-steward-negligence-with-concealed-test-results-violation)
+[Source](../../core_11.005_standing_measurement.md#141-example-1--riparian-cooperative-restoration-contribution)
 
-#### 14. Hand-off to Question 3 — cross-question measurement hooks
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#14-hand-off-to-question-3--cross-question-measurement-hooks)
-
-##### 14.1 Similar-looking facts that must stay separate
+##### 14.2 Example 2 — Watershed steward negligence with concealed test results (violation)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#141-similar-looking-facts-that-must-stay-separate)
+[Source](../../core_11.005_standing_measurement.md#142-example-2--watershed-steward-negligence-with-concealed-test-results-violation)
+
+#### 15. Hand-off to Question 3 — cross-question measurement hooks
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#15-hand-off-to-question-3--cross-question-measurement-hooks)
+
+##### 15.1 Similar-looking facts that must stay separate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_11.005_standing_measurement.md#151-similar-looking-facts-that-must-stay-separate)
 
 ## CHAPTER TWELVE: STANDING EFFECTS AND INTEGRATION
 

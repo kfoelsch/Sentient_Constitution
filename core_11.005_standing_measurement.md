@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven, Part B** — **Question 2** (*how good or bad was it?*): the LEQU baseline and its limits, the measurement input dimensions, route descriptor catalogs, slot grammar and shared scaling, constitutional inputs to axis assignment, the unified proportional LEQU scale, worked illustrations, and the hand-off to Question 3 (**§7–§14**, continuing from Part A §1–§6). **Part A** — the three-question frame and **Question 1** (*what happened?*): verified facts, event types, record requirements, record custody, and handling (**§1–§6**) — is in [`core_11.000_standing_assessment.md`](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened). Question 3 (*what happens because of it?*) continues in [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration), with review limited to the anti-constitutional-misconduct designation in [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven, Part B** — **Question 2** (*how good or bad was it?*): the LEQU baseline and its limits, the measurement input dimensions, route descriptor catalogs, slot grammar and shared scaling, constitutional inputs to axis assignment, the unified proportional LEQU scale, standard contribution measures, worked illustrations, and the hand-off to Question 3 (**§7–§15**, continuing from Part A §1–§6). **Part A** — the three-question frame and **Question 1** (*what happened?*): verified facts, event types, record requirements, record custody, and handling (**§1–§6**) — is in [`core_11.000_standing_assessment.md`](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened). Question 3 (*what happens because of it?*) continues in [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration), with review limited to the anti-constitutional-misconduct designation in [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -22,8 +22,9 @@
   - [§10](#10-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
   - [§11](#11-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
   - [§12](#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
-  - [§13](#13-measurement-illustrations) (*worked measurement examples*);
-  - [§14](#14-hand-off-to-question-3--cross-question-measurement-hooks) (*hand-off to Question 3*).
+  - [§13](#13-standard-contribution-measures) (*adopter-published standard contribution measures*);
+  - [§14](#14-measurement-illustrations) (*worked measurement examples*);
+  - [§15](#15-hand-off-to-question-3--cross-question-measurement-hooks) (*hand-off to Question 3*).
 - Downstream:
   - [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3 effects and integration*);
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) (*designation only — does not reopen Question 2 measurement*).
@@ -53,8 +54,9 @@ Chapter Eleven, **Part B**, is the constitutional owner of **Question 2**, which
   - [§10](#10-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
   - [§11](#11-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
   - [§12](#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*Contribution and Violation Axis assignment*);
-  - [§13](#13-measurement-illustrations) (*worked measurement examples*);
-  - [§14](#14-hand-off-to-question-3--cross-question-measurement-hooks) (*hand-off to Question 3*);
+  - [§13](#13-standard-contribution-measures) (*adopter-published standard contribution measures*);
+  - [§14](#14-measurement-illustrations) (*worked measurement examples*);
+  - [§15](#15-hand-off-to-question-3--cross-question-measurement-hooks) (*hand-off to Question 3*);
   - [Chapter Twelve §6.2](core_12.000_standing_integration.md#62-competency-bars-and-clearances) (12.000 §6.2) (*contribution Question 3 — safe delegation*);
   - [Chapter Twelve §4.2](core_12.000_standing_integration.md#42-prevention--general-standing-locks) (12.000 §4.2) (*prevention locks*);
   - [Chapter Twelve §5](core_12.000_standing_integration.md#5-lock-design-and-enforcement) (12.000 §5) (*lock design and enforcement*).
@@ -128,7 +130,7 @@ Measuring standing does **not** decide whether an entity is a **sentient**.
 
 ### 8. Magnitude and severity input dimensions
 
-*In plain terms: this section lists what to examine when measuring a verified contribution (**section 8.1**) or a verified violation (**section 8.2**). Each axis is measured on its own. The shared scaling rules are in **section 10.3**, and the slot comes from the scale in **section 12**.*
+*In plain terms: this section lists what to examine when measuring a verified contribution (**section 8.1**) or a verified violation (**section 8.2**). Each axis is measured on its own. The shared scaling rules are in **section 10.2**, and the slot comes from the scale in **section 12**.*
 
 The slot scale measures how big a constitutional outcome is and what kind of outcome it is. It counts only outcomes that have been verified.
 
@@ -158,7 +160,7 @@ The slot scale measures how big a constitutional outcome is and what kind of out
 | **What to look at** | **What it does** | **Where they are set out** |
 | --- | --- | --- |
 | **How big the benefit is overall (LEQU)** | The main measure. It is the total verified good that was done, counted in LEQU. | [§12 Unified proportional LEQU scale](#12-unified-proportional-lequ-scale--contribution-and-violation-axes) |
-| **Who it reaches (how many, how deeply, how vulnerable)** | Adjusts the LEQU estimate and how much the benefit matters (its materiality). | [§10.3 Shared impact-scaling rules](#103-shared-impact-scaling-rules); [Materiality](core_05.050_band_oversight.md#materiality) |
+| **Who it reaches (how many, how deeply, how vulnerable)** | Adjusts the LEQU estimate and how much the benefit matters (its materiality). | [§10.2 Shared impact-scaling rules](#102-shared-impact-scaling-rules); [Materiality](core_05.050_band_oversight.md#materiality) |
 | **How long it lasts (duration and durability)** | Adjusts the LEQU estimate. | Lasting stewardship, benefit across generations, or lasting repair of an institution, which point toward the top slots |
 | **How far it reaches (across places or institutions)** | Adjusts the LEQU estimate. | Benefit across communities or institutions, or at the scale of a civilization |
 | **Kinds of benefit (benefit routes)** | Names the ways the verified benefit happened. More than one can apply, and they stack. | [**Benefit-route descriptor catalog**](#91-contribution-route-descriptor-catalog-and-measurement-roles) |
@@ -201,7 +203,7 @@ Reminder: none of this cancels out an open violation record. The no-offset rule 
 | **What to look at** | **What it does** | **Where they are set out** |
 | --- | --- | --- |
 | **How big the loss is overall (LEQU)** | The main measure, and the one that controls the slot. It is the total verified constitutional loss. | [§12 Unified proportional LEQU scale](#12-unified-proportional-lequ-scale--contribution-and-violation-axes); Chapter Thirteen's misconduct designation is decided separately |
-| **Who it reaches (how many, how deeply, how vulnerable)** | Adjusts the LEQU estimate and how much the harm matters (its materiality). | [§10.3 Shared impact-scaling rules](#103-shared-impact-scaling-rules); [Materiality](core_05.050_band_oversight.md#materiality) |
+| **Who it reaches (how many, how deeply, how vulnerable)** | Adjusts the LEQU estimate and how much the harm matters (its materiality). | [§10.2 Shared impact-scaling rules](#102-shared-impact-scaling-rules); [Materiality](core_05.050_band_oversight.md#materiality) |
 | **How long it lasts (duration and irreversibility)** | Adjusts the LEQU estimate. | Lasting trauma, loss that cannot be undone, and lasting damage to sentients' ability to act for themselves raise the estimate of the total loss |
 | **How far it reaches (across places or institutions)** | Adjusts the LEQU estimate. | Harm that spreads across communities or institutions, or across a civilization, may raise the estimate of the total loss |
 | **Kinds of harm (harm routes)** | Names the ways the verified harm happened. More than one can apply, and they stack. | [**Harm-route descriptor catalog**](#92-violation-route-descriptor-catalog-and-measurement-roles) |
@@ -415,24 +417,9 @@ The Contribution Axis uses baseline, positive, stewardship-positive, and champio
 
 Implementations may publish measurement units, evidence methods, and examples to help estimate full-life-equivalent benefit or loss. These materials are guidance only and may not override **section 12**, **Chapter One**, or the **Chapter Six** Rights Floor.
 
-<a id="102-standard-contribution-measures"></a>
+<a id="102-shared-impact-scaling-rules"></a>
 
-#### 10.2 Standard contribution measures
-
-Adopted implementation may also publish **standard contribution measures**: a default Question 2 estimate — LEQU, scope, and benefit-route descriptors — for verified performance of a defined recurring task at a defined scope, such as a litter pickup along a stated segment, a waterway-restoration work unit, a land-recovery plot, or a maintenance rotation. Standards make routine stewardship legible and worth repeating under [Chapter One §3.2](core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*) without a bespoke estimate for every instance. A standard is a measurement helper under **section 4.5**, and:
-
-- it applies only to work verified under Question 1 through **section 5**; a standard never substitutes for verification that the task was done, to the stated scope, by the named subject;
-- it is a **floor for standard performance, not a cap**: work whose verified impact exceeds the standard's assumed impact — a better method, a more durable result, less externalized burden, a wider or deeper benefit — is measured on its actual verified impact under **section 10.3**, so the incentive to do the task better than the standard stays alive; work that verifiably falls short of the standard's assumed scope or durability is measured on what was verified, not on the label;
-- it is **revisited on a published cadence and re-baselined as efficiency improves**, so the standard tracks what the task now costs and produces rather than freezing yesterday's effort as today's credit; a revision applies going forward, and records already opened keep their measurement basis under **section 4.4** unless that basis was wrong when recorded;
-- a revision must be evidence-based, published, and contestable, and may not be used to suppress recognition of a class of work, a community, or a group, or to ratchet a standard down faster than the verified efficiency gain it rests on ([Chapter One §19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture));
-- a standard creates no quota, no duty to perform, and no competency bar under [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances); **section 2.2** *Silence is the default* controls, and a sentient who never performs a standard task has no record for that reason;
-- the office that sets or revises a standard holds the direction-and-policy seat under **section 5.1** *Separation of duties*; it is not the office that verifies performance against the standard, and neither is a party whose recognition the standard measures.
-
-Standards may not override **section 12**, **Chapter One**, or the **Chapter Six** Rights Floor. A reference method and a worked schedule live in [LEQU_CALIBRATION_REFERENCE.md](implementation/LEQU_CALIBRATION_REFERENCE.md) (*process support; cannot assign a live record*).
-
-<a id="103-shared-impact-scaling-rules"></a>
-
-#### 10.3 Shared impact-scaling rules
+#### 10.2 Shared impact-scaling rules
 
 *In plain terms: impact is not measured by headcount alone. A profound benefit or loss affecting one sentient may be more significant than a shallow effect affecting many. Count, depth, vulnerability, duration, durability, reach, and constitutional character must be assessed together.*
 
@@ -456,7 +443,15 @@ The dimensions are not a checklist requiring every form of scale. Explain which 
 - **Character separation:** Keep applicable benefit-route, harm-route, conduct-quality, and conduct-character descriptors stacked in the standing record. Duty, negligence, deception, aggravation, coercion, violence, intent, or structural enablement may affect attribution, safeguards, or Question 3 consequences, but none raises or lowers the LEQU impact slot.
 - **Anti-Constitutional Misconduct Review boundary:** Verified Violation Axis loss may reach `s` = 7–9 by impact whether or not anti-constitutional misconduct is established. Chapter Thirteen does not replace the impact assignment; it independently determines whether the corresponding ACMD attaches.
 
-For unrealized danger, record probability, exposure duration, affected scope, uncertainty, and the worst credible outcome separately. Do not treat the worst credible outcome as realized LEQU loss without an adopted, transparent risk calibration.
+If a danger has not actually happened yet, record each of these separately:
+
+- how likely it is;
+- how long sentients would be exposed to it;
+- how far it could reach;
+- how uncertain the estimate is; and
+- the worst outcome that is still believable.
+
+Do not count that worst outcome as harm that has already happened (LEQU loss) unless adopted implementation has set a risk calibration (a method for converting risk into LEQU) that anyone can inspect.
 
 <a id="11-constitutional-inputs-to-axis-assignment"></a>
 
@@ -533,7 +528,7 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 
 Apply **Proportionality** to estimate integrated LEQU impact from depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, and constitutional criticality. These dimensions shape the LEQU estimate; they are not independent slot bonuses.
 
-- Use **Table 2** after Question 1 confirms what happened, Question 2 measures the verified benefit or loss, **sections 7–9 and 10.3** are applied, and the constitutional sources required by **section 11** are identified.
+- Use **Table 2** after Question 1 confirms what happened, Question 2 measures the verified benefit or loss, **sections 7–9 and 10.2** are applied, and the constitutional sources required by **section 11** are identified.
 - Assign one slot from the integrated LEQU estimate.
   - Explain how each material scaling dimension affected the estimate and why omitted dimensions did not control.
   - Every assignment must satisfy:
@@ -590,15 +585,32 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 
 </details>
 
-<a id="13-measurement-illustrations"></a>
+<a id="13-standard-contribution-measures"></a>
 
-### 13. Measurement illustrations
+### 13. Standard contribution measures
+
+*In plain terms: for tasks sentients do again and again, such as a litter pickup or a creek-restoration work unit, an adopter may publish a default Question 2 measurement so each verified instance does not need its own estimate. The default is a floor, not a cap: work that verifiably does more is measured on what it did, and work that falls short is measured on what was verified. Defaults are updated on a published schedule, can be contested, and never create a duty to do the task.*
+
+Adopted implementation may publish **standard contribution measures**: a default Question 2 estimate — LEQU, scope, and benefit-route descriptors — for verified performance of a defined recurring task at a defined scope, such as a litter pickup along a stated segment, a waterway-restoration work unit, a land-recovery plot, or a maintenance rotation. Standards make routine stewardship legible and worth repeating under [Chapter One §3.2](core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*) without a bespoke estimate for every instance. A standard is a measurement helper under **section 4.5**, and:
+
+- it applies only to work verified under Question 1 through **section 5**; a standard never substitutes for verification that the task was done, to the stated scope, by the named subject;
+- it is a **floor for standard performance, not a cap**: work whose verified impact exceeds the standard's assumed impact — a better method, a more durable result, less externalized burden, a wider or deeper benefit — is measured on its actual verified impact under **section 10.2**, so the incentive to do the task better than the standard stays alive; work that verifiably falls short of the standard's assumed scope or durability is measured on what was verified, not on the label;
+- it is **revisited on a published cadence and re-baselined as efficiency improves**, so the standard tracks what the task now costs and produces rather than freezing yesterday's effort as today's credit; a revision applies going forward, and records already opened keep their measurement basis under **section 4.4** unless that basis was wrong when recorded;
+- a revision must be evidence-based, published, and contestable, and may not be used to suppress recognition of a class of work, a community, or a group, or to ratchet a standard down faster than the verified efficiency gain it rests on ([Chapter One §19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture));
+- a standard creates no quota, no duty to perform, and no competency bar under [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances); **section 2.2** *Silence is the default* controls, and a sentient who never performs a standard task has no record for that reason;
+- the office that sets or revises a standard holds the direction-and-policy seat under **section 5.1** *Separation of duties*; it is not the office that verifies performance against the standard, and neither is a party whose recognition the standard measures.
+
+Standards may not override **section 12**, **Chapter One**, or the **Chapter Six** Rights Floor. A reference method and a worked schedule live in [LEQU_CALIBRATION_REFERENCE.md](implementation/LEQU_CALIBRATION_REFERENCE.md) (*process support; cannot assign a live record*).
+
+<a id="14-measurement-illustrations"></a>
+
+### 14. Measurement illustrations
 
 *In plain terms: these illustrations begin with Question 1's verified facts, then show how **sections 8 and 9** measure them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 8–11**; Question 3 is answered in [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Twelve §10.1 Informal ecological stewardship / competency clearance](core_12.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](core_12.000_standing_integration.md#102-ecological-negligence-with-concealment).*
 
-<a id="131-example-1--riparian-cooperative-restoration-contribution"></a>
+<a id="141-example-1--riparian-cooperative-restoration-contribution"></a>
 
-#### 13.1 Example 1 — Riparian cooperative restoration (contribution)
+#### 14.1 Example 1 — Riparian cooperative restoration (contribution)
 
 **Situation.** After spring flooding, four sentients in an informal riparian cooperative stabilize a degraded half-kilometer creek buffer between two downstream neighborhoods. The work is unpaid mutual aid — no municipal contract, no licensed-program enrollment, and no platform payout trail. A watershed council later asks whether the cooperative's verified repair should enter a **contribution standing record**.
 
@@ -619,9 +631,9 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 
 **Q2 outputs recorded:** stacked **Ecological Stewardship** and **Diligence** benefit-route descriptors; LEQU and scope inputs ready for calibration and slot assignment under **[section 12](#12-unified-proportional-lequ-scale--contribution-and-violation-axes)**. No standing effects apply in Chapter Eleven.
 
-<a id="132-example-2--watershed-steward-negligence-with-concealed-test-results-violation"></a>
+<a id="142-example-2--watershed-steward-negligence-with-concealed-test-results-violation"></a>
 
-#### 13.2 Example 2 — Watershed steward negligence with concealed test results (violation)
+#### 14.2 Example 2 — Watershed steward negligence with concealed test results (violation)
 
 **Situation.** A sentient holds a community-trust contract to maintain pesticide-free buffer zones above three agricultural cooperatives' irrigation intakes. Regulator notice eight months earlier flagged failing retaining berms. The steward continued applying restricted herbicide through a subcontractor, submitted altered lab exports to the trust board, and told downstream growers that intake readings were "within normal variance."
 
@@ -639,11 +651,11 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 | Conduct-character stack | Negligence where maintenance duty existed; deception/concealment after notice |
 | Conduct-character inputs | **Deception / concealment / evasion**; **Response timeliness / avoidable delay** (harm compounded after duty to act) |
 
-**Q2 outputs recorded:** stacked **Ecological Misconduct** and **Negligent Misconduct** harm-route descriptors and concealment conduct-character inputs. Deception is also indexed in **section 14** for a distinct Question 3 integration decision; the original response delay remains a Question 2 input, while any later remedy-pipeline delay must be established separately. **Violation Axis slot** and display label are assigned from the integrated LEQU loss under **[section 12](#12-unified-proportional-lequ-scale--contribution-and-violation-axes)**.
+**Q2 outputs recorded:** stacked **Ecological Misconduct** and **Negligent Misconduct** harm-route descriptors and concealment conduct-character inputs. Deception is also indexed in **section 15** for a distinct Question 3 integration decision; the original response delay remains a Question 2 input, while any later remedy-pipeline delay must be established separately. **Violation Axis slot** and display label are assigned from the integrated LEQU loss under **[section 12](#12-unified-proportional-lequ-scale--contribution-and-violation-axes)**.
 
-<a id="14-hand-off-to-question-3--cross-question-measurement-hooks"></a>
+<a id="15-hand-off-to-question-3--cross-question-measurement-hooks"></a>
 
-### 14. Hand-off to Question 3 — cross-question measurement hooks
+### 15. Hand-off to Question 3 — cross-question measurement hooks
 
 **Cross-question guide.** Sections **4.1–4.4** explain how each feature affects Question 2: **how good or bad was it?** The table below shows which of those same verified facts may also matter to Question 3: **what happens because of it?** A feature can matter to both questions without applying to both the Contribution Axis and the Violation Axis. Record its Question 2 and Question 3 uses separately. Do **not** add them together or count the same fact twice.
 
@@ -665,9 +677,9 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 | **Exit / lock-in risk or foreclosure** | [§8.1.1 How the way a benefit was produced affects what counts](#811-how-the-way-a-benefit-was-produced-affects-what-counts); **Exit and Lock-In Misconduct** in [§9.2 Violation route descriptor catalog and measurement roles](#92-violation-route-descriptor-catalog-and-measurement-roles) | [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances) and [Chapter Twelve §4.2 Prevention — general standing locks](core_12.000_standing_integration.md#42-prevention--general-standing-locks) — delegation safeguards or exit-path blocks |
 | **Lifecycle / irreversibility concealment** | **Lifecycle and Irreversibility Misconduct** in [§9.2 Violation route descriptor catalog and measurement roles](#92-violation-route-descriptor-catalog-and-measurement-roles) | [Chapter Twelve §4.2 Prevention — general standing locks](core_12.000_standing_integration.md#42-prevention--general-standing-locks) — deployment and lifecycle-authority blocks |
 
-<a id="141-similar-looking-facts-that-must-stay-separate"></a>
+<a id="151-similar-looking-facts-that-must-stay-separate"></a>
 
-#### 14.1 Similar-looking facts that must stay separate
+#### 15.1 Similar-looking facts that must stay separate
 
 Some facts are related but answer different questions. Record them separately:
 
