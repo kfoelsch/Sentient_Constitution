@@ -970,7 +970,7 @@ Rights and standing consequences are real only when sentients can invoke them, v
   - [§10.11](#1011-infrastructure-denial-or-dependency-cutoff);
   - [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse);
   - [§10.13](#1013-obstruction-of-accountability).
-- Read with: [Chapter Eleven §13](core_11.005_standing_measurement.md#13-measurement-illustrations) (11.005 §13) (*Question 2 measurement illustrations*); [Chapters Eleven–Fourteen application vignettes](core_11.010_application_vignettes.md#chapters-elevenfourteen-pipeline-application-vignettes) (*full pipeline domain walkthroughs*); [Chapter Thirteen §5](core_13.005_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (13.005 §5) (*designation-side pattern routing — dual-layer twin; not a lock-type catalog*).
+- Read with: [Chapter Eleven §14](core_11.005_standing_measurement.md#14-measurement-illustrations) (11.005 §14) (*Question 2 measurement illustrations*); [Chapters Eleven–Fourteen application vignettes](core_11.010_application_vignettes.md#chapters-elevenfourteen-pipeline-application-vignettes) (*full pipeline domain walkthroughs*); [Chapter Thirteen §5](core_13.005_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (13.005 §5) (*designation-side pattern routing — dual-layer twin; not a lock-type catalog*).
 
 </details>
 
@@ -993,7 +993,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§6.1 Recency and currentness](#61-recency-and-currentness) and [§6.2](#62-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, named-pathway-scoped bar*); and
   - [Chapter Eleven §5.9 *Informal and small-scope records*](core_11.000_standing_assessment.md#59-informal-and-small-scope-records) (*the relying body verified and holds the standing record; the cooperative's members were claimants, not verifying authorities*).
 - **Non-negotiable:** The Contribution Axis slot does not change. Formal pedigree is not required where verified, current, role-relevant work meets the published bar, and formal-institution verification is not required where an independent relying body verified the standing record.
-- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eleven §13.1 Example 1](core_11.005_standing_measurement.md#131-example-1--riparian-cooperative-restoration-contribution).
+- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eleven §14.1 Example 1](core_11.005_standing_measurement.md#141-example-1--riparian-cooperative-restoration-contribution).
 
 <a id="102-ecological-negligence-with-concealment"></a>
 #### 10.2 Ecological negligence with concealment
@@ -1007,7 +1007,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); and
   - [§5.4](#54-special-violation-rules) (*negligence / concealment shape lock and safeguard attachment*).
 - **Non-negotiable:** Concealment never moves the Violation Axis slot. It may orient remedy, monitoring, resource-stewardship restrictions, and heightened verification only.
-- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eleven §13.2 Example 2](core_11.005_standing_measurement.md#132-example-2--watershed-steward-negligence-with-concealed-test-results-violation).
+- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Eleven §14.2 Example 2](core_11.005_standing_measurement.md#142-example-2--watershed-steward-negligence-with-concealed-test-results-violation).
 
 <a id="103-forum-integrity-deception-or-recusal-failure"></a>
 #### 10.3 Forum-integrity deception or recusal failure

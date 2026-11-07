@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven, Part A**: the standing pipeline's three questions and **Question 1** (*what happened?*), in **§1–§6**. **Part B** answers **Question 2** (*how good or bad was it?*) in **§7–§14**, continuing from Part A, and is in [`core_11.005_standing_measurement.md`](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it). Question 3 (*what happens because of it?*) continues in [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration), with review limited to the anti-constitutional-misconduct designation in [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven, Part A**: the standing pipeline's three questions and **Question 1** (*what happened?*), in **§1–§6**. **Part B** answers **Question 2** (*how good or bad was it?*) in **§7–§15**, continuing from Part A, and is in [`core_11.005_standing_measurement.md`](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it). Question 3 (*what happens because of it?*) continues in [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration), with review limited to the anti-constitutional-misconduct designation in [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -38,7 +38,7 @@
 - Standing pipeline:
   - [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
   - [Chapter Eleven, Part A — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*three-question frame and Question 1 records — sections **1–6***);
-  - [Chapter Eleven, Part B — Standing Measurement](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) (11.005) (*Question 2 measurement — sections **7–14***);
+  - [Chapter Eleven, Part B — Standing Measurement](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) (11.005) (*Question 2 measurement — sections **7–15***);
   - [Chapter Twelve — Standing Effects and Integration](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3 effects and integration*);
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) (*designation only for qualifying Violation Axis s = 7–9*).
 - Subsections in this file:
@@ -48,7 +48,7 @@
   - [§4](#4-standing-record-operational-requirements) (*verification and record requirements*);
   - [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*);
   - [§6](#6-handling-a-standing-record) (*handling a standing record*);
-  - [Part B §7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) through [§14](core_11.005_standing_measurement.md#14-hand-off-to-question-3--cross-question-measurement-hooks) (*Question 2 — LEQU baseline, measurement dimensions, route descriptors, slot grammar, constitutional inputs, the LEQU scale, illustrations, and the hand-off to Question 3; in Part B*).
+  - [Part B §7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) through [§15](core_11.005_standing_measurement.md#15-hand-off-to-question-3--cross-question-measurement-hooks) (*Question 2 — LEQU baseline, measurement dimensions, route descriptors, slot grammar, constitutional inputs, the LEQU scale, standard contribution measures, illustrations, and the hand-off to Question 3; in Part B*).
 - Downstream:
   - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct-designation) (13.000) (*designation only — does not reopen Question 2 measurement*);
   - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*forum supervision and routing*);
@@ -62,7 +62,7 @@
 <br>
 
 <a id="chapter-eleven-part-a-orientation"></a>
-Chapter Eleven is the constitutional owner of **the verified factual record (Question 1) and standing measurement (Question 2)**. Part A (this file) owns Question 1, from [§1 The three questions](#1-the-three-questions) through [§6 Handling a standing record](#6-handling-a-standing-record). [Part B](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [§7 Question 2 — how good or bad was it?](core_11.005_standing_measurement.md#7-question-2--how-good-or-bad-was-it) through [§14 Hand-off to Question 3 — cross-question measurement hooks](core_11.005_standing_measurement.md#14-hand-off-to-question-3--cross-question-measurement-hooks). Question 3 continues in Chapter Twelve.
+Chapter Eleven is the constitutional owner of **the verified factual record (Question 1) and standing measurement (Question 2)**. Part A (this file) owns Question 1, from [§1 The three questions](#1-the-three-questions) through [§6 Handling a standing record](#6-handling-a-standing-record). [Part B](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [§7 Question 2 — how good or bad was it?](core_11.005_standing_measurement.md#7-question-2--how-good-or-bad-was-it) through [§15 Hand-off to Question 3 — cross-question measurement hooks](core_11.005_standing_measurement.md#15-hand-off-to-question-3--cross-question-measurement-hooks). Question 3 continues in Chapter Twelve.
 
 *In plain terms: this chapter writes down what happened and how good or how harmful it was — on two separate tracks, never one net score. Filing a case is not standing by itself.*
 
@@ -646,7 +646,7 @@ Teams may build practical tools for standing records, including:
 - forms;
 - dashboards;
 - review steps; and
-- published **standard contribution measures** for recurring tasks under **section 10.2**.
+- published **standard contribution measures** for recurring tasks under **section 13**.
 
 Those tools must keep the fields required by **section 4.1** separately visible and contestable. They must not bury those fields in a single opaque score or hidden label.
 

@@ -251,7 +251,7 @@ Only **this chapter** may decide whether anti-constitutional misconduct applies.
 
 | Existing `s` | Chapter Eleven impact label | Chapter Thirteen designation, if established |
 | ---: | --- | --- |
-| 7 | **Serious Constitutional Impact** | **Serious anti-constitutional misconduct** |
+| 7 | **Severe Constitutional Impact** | **Severe anti-constitutional misconduct** |
 | 8 | **Grave Constitutional Impact** | **Grave anti-constitutional misconduct** |
 | 9 | **Catastrophic Constitutional Impact** | **Catastrophic anti-constitutional misconduct** |
 
@@ -262,7 +262,7 @@ The ACMD attaches when both of the following are true:
 
 Once it attaches:
 
-- the seriousness label (Serious, Grave, or Catastrophic) follows the impact score Chapter Eleven already assigned;
+- the seriousness label (Severe, Grave, or Catastrophic) follows the impact score Chapter Eleven already assigned;
 - how many criteria apply, and facts about intent, coercion, pattern, or institutional character, do **not** move the finding between slots;
 - a single catastrophic incident, a sustained high-gravity pattern, criterion 5, or criterion 6 may make the ACMD eligible; and
 - only Chapter Eleven’s impact score decides whether the underlying finding is `s` = 7, 8, or 9.
