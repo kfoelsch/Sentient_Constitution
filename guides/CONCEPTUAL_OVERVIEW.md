@@ -827,19 +827,19 @@ flowchart TB
         direction TB
         subgraph BandRow1["Lower magnitude"]
             direction LR
-            S1["s = 1<br/><br/>Basic Baseline / Minimal Impact<br/><br/>Below 9 days*"]
-            S2["s = 2<br/><br/>Strengthened Baseline / Limited Impact<br/><br/>About 9–47 days*"]
-            S3["s = 3<br/><br/>Verified Positive / Material Impact<br/><br/>About 47 days–8 months*"]
+            S1["s = 1<br/><br/>Minor Baseline / Minor Impact<br/><br/>Below 9 days*"]
+            S2["s = 2<br/><br/>Small Baseline / Small Impact<br/><br/>About 9–47 days*"]
+            S3["s = 3<br/><br/>Substantial Positive / Substantial Impact<br/><br/>About 47 days–8 months*"]
         end
         subgraph BandRow2["Material and major magnitude"]
             direction LR
-            S4["s = 4<br/><br/>Material Positive / Significant Impact<br/><br/>About 8 months–3.2 years*"]
-            S5["s = 5<br/><br/>Established Stewardship / Major Impact<br/><br/>About 3.2–16 years*"]
-            S6["s = 6<br/><br/>Major Stewardship / Severe Impact<br/><br/>About 16–80 years*"]
+            S4["s = 4<br/><br/>Significant Positive / Significant Impact<br/><br/>About 8 months–3.2 years*"]
+            S5["s = 5<br/><br/>Serious Stewardship / Serious Impact<br/><br/>About 3.2–16 years*"]
+            S6["s = 6<br/><br/>Major Stewardship / Major Impact<br/><br/>About 16–80 years*"]
         end
         subgraph BandRow3["One LEQU and above"]
             direction LR
-            S7["s = 7<br/><br/>Recognized Champion / Serious Impact<br/><br/>About 1–5 lifetimes*"]
+            S7["s = 7<br/><br/>Recognized Champion / Severe Impact<br/><br/>About 1–5 lifetimes*"]
             S8["s = 8<br/><br/>Distinguished Champion / Grave Impact<br/><br/>About 5–25 lifetimes*"]
             S9["s = 9<br/><br/>Exemplary Champion / Catastrophic Impact<br/><br/>At least 25 lifetimes*"]
         end

@@ -293,7 +293,7 @@ These are the benefit-route descriptors and what each one measures in Question 2
 | **Benefit-route descriptor** | **What it measures in Question 2** |
 | --- | --- |
 | **Info-Sphere Integrity** | Strengthening records, transparency, and communications. |
-| **Education and Capability Building** | Benefit from learning, literacy, and growth in sentients' ability to act for themselves. |
+| **Education and Capability Building** | Benefit from learning, literacy, and growth in sentients' ability to act for themselves. The slot follows the total LEQU benefit. |
 | **STEM and Discovery Contribution** | Discoveries that others can reproduce, and research that makes things safer. |
 
 <a id="914-systems-and-constitutional-operation"></a>
@@ -350,8 +350,8 @@ These are the harm-route descriptors and what each one measures in Question 2 (h
 | **Harm-route descriptor** | **What it measures in Question 2** |
 | --- | --- |
 | **Info-Sphere Misconduct** | Damage to Safety or Truth. Concealment and deception stay separate facts about how the harm was caused (its character). |
-| **Educational Misconduct** | Harm to an education or capability pathway is recorded separately from the impact slot. |
-| **Research and Discovery Misconduct** | Harm to a research or discovery pathway is recorded separately from the impact slot. |
+| **Educational Misconduct** | Harm to learning or to sentients' ability to act for themselves (their capabilities). The slot follows the total LEQU loss. |
+| **Research and Discovery Misconduct** | Harm to research or discovery. The slot follows the total LEQU loss. |
 
 <a id="924-systems-and-constitutional-operation"></a>
 
@@ -401,13 +401,13 @@ The same slot number can appear on both axes, but the axes remain separate. A co
 
 |  `s` | Contribution Axis display label | Violation Axis display label |
 | ---: | --- | --- |
-|    1 | **Basic Baseline Contribution** | **Minimal Constitutional Impact** |
-|    2 | **Strengthened Baseline Contribution** | **Limited Constitutional Impact** |
-|    3 | **Verified Positive Contribution** | **Material Constitutional Impact** |
-|    4 | **Material Positive Contribution** | **Significant Constitutional Impact** |
-|    5 | **Established Stewardship-Positive Contribution** | **Major Constitutional Impact** |
-|    6 | **Major Stewardship-Positive Contribution** | **Severe Constitutional Impact** |
-|    7 | **Recognized Champion** | **Serious Constitutional Impact** |
+|    1 | **Minor Baseline Contribution** | **Minor Constitutional Impact** |
+|    2 | **Small Baseline Contribution** | **Small Constitutional Impact** |
+|    3 | **Substantial Positive Contribution** | **Substantial Constitutional Impact** |
+|    4 | **Significant Positive Contribution** | **Significant Constitutional Impact** |
+|    5 | **Serious Stewardship-Positive Contribution** | **Serious Constitutional Impact** |
+|    6 | **Major Stewardship-Positive Contribution** | **Major Constitutional Impact** |
+|    7 | **Recognized Champion** | **Severe Constitutional Impact** |
 |    8 | **Distinguished Champion** | **Grave Constitutional Impact** |
 |    9 | **Exemplary Champion** | **Catastrophic Constitutional Impact** |
 
@@ -567,13 +567,13 @@ Apply **Proportionality** to estimate integrated LEQU impact from depth, sentien
 
 | `s` | 80-year human calibration — benefit added / loss imposed | Contribution Axis | Violation Axis |
 | ---: | --- | --- | --- |
-| 1 | Less than about **9 days** | **Basic Baseline Contribution** — verified satisfaction of the constitutional floor for the assessed scope; any measurable uplift remains below `s` = 2. | **Minimal Constitutional Impact** — verified loss or operational impairment below `s` = 2, including a formal defect without proven substantive harm. |
-| 2 | About **9–47 days** | **Strengthened Baseline Contribution** — reliable, bounded performance above the minimum floor within this impact level. | **Limited Constitutional Impact** — verified bounded loss at this impact level. |
-| 3 | About **47 days–8 months** | **Verified Positive Contribution** — demonstrable benefit beyond baseline at this impact level. | **Material Constitutional Impact** — verified material loss at this impact level. |
-| 4 | About **8 months–3.2 years** | **Material Positive Contribution** — deeper, lasting, repeated, vulnerability-responsive, or broader verified benefit. | **Significant Constitutional Impact** — verified significant constitutional loss. |
-| 5 | About **3.2–16 years** | **Established Stewardship-Positive Contribution** — durable stewardship, coordination, maintenance, repair, or comparable sustained benefit. | **Major Constitutional Impact** — verified major constitutional loss. |
-| 6 | About **16–80 years** | **Major Stewardship-Positive Contribution** — major verified benefit approaching one LEQU. | **Severe Constitutional Impact** — severe verified loss approaching one LEQU. |
-| 7 | About **1–5 lifetimes** (**80–400 years**) | **Recognized Champion** — at least one LEQU of verified, constitutionally aligned benefit. | **Serious Constitutional Impact** — at least one LEQU of verified constitutional loss. |
+| 1 | Less than about **9 days** | **Minor Baseline Contribution** — verified satisfaction of the constitutional floor for the assessed scope; any measurable uplift remains below `s` = 2. | **Minor Constitutional Impact** — verified loss or operational impairment below `s` = 2, including a formal defect without proven substantive harm. |
+| 2 | About **9–47 days** | **Small Baseline Contribution** — reliable, bounded performance above the minimum floor within this impact level. | **Small Constitutional Impact** — verified bounded loss at this impact level. |
+| 3 | About **47 days–8 months** | **Substantial Positive Contribution** — demonstrable benefit beyond baseline at this impact level. | **Substantial Constitutional Impact** — verified substantial loss at this impact level. |
+| 4 | About **8 months–3.2 years** | **Significant Positive Contribution** — deeper, lasting, repeated, vulnerability-responsive, or broader verified benefit. | **Significant Constitutional Impact** — verified significant constitutional loss. |
+| 5 | About **3.2–16 years** | **Serious Stewardship-Positive Contribution** — durable stewardship, coordination, maintenance, repair, or comparable sustained benefit. | **Serious Constitutional Impact** — verified serious constitutional loss. |
+| 6 | About **16–80 years** | **Major Stewardship-Positive Contribution** — major verified benefit approaching one LEQU. | **Major Constitutional Impact** — major verified loss approaching one LEQU. |
+| 7 | About **1–5 lifetimes** (**80–400 years**) | **Recognized Champion** — at least one LEQU of verified, constitutionally aligned benefit. | **Severe Constitutional Impact** — at least one LEQU of verified constitutional loss. |
 | 8 | About **5–25 lifetimes** (**400–2,000 years**) | **Distinguished Champion** — verified benefit materially exceeding `s` = 7. | **Grave Constitutional Impact** — verified loss materially exceeding `s` = 7. |
 | 9 | At least **25 lifetimes** (**2,000+ years**) | **Exemplary Champion** — verified benefit materially exceeding `s` = 8. | **Catastrophic Constitutional Impact** — verified loss materially exceeding `s` = 8. |
 

@@ -194,24 +194,24 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 ### 6.1 Biological-human (shared unit check)
 
 <a id="w1-one-human-death"></a>
-**W1 — Unique death of one adult human.** Verified destruction of one IBE. `x ≈ 1` LEQU. **Violation `s` = 7** (*Serious Constitutional Impact*). Character (violence, negligence, or none) is separate. This is the Table 2 anchor, not a species rule.
+**W1 — Unique death of one adult human.** Verified destruction of one IBE. `x ≈ 1` LEQU. **Violation `s` = 7** (*Severe Constitutional Impact*). Character (violence, negligence, or none) is separate. This is the Table 2 anchor, not a species rule.
 
 <a id="w2-two-children-survival-floor-deprivation"></a>
 **W2 — Two dependent children, verified months of survival-floor deprivation (food, care, supervision), not death.** Fact pattern follows [vignette 1](../core_11.010_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). If each child’s integrated impairment over the verified period is about one year of rights-consistent wellbeing (not full-life destruction): `x ≈ 2 × (1/80) = 0.025` LEQU → **Violation `s` = 4** (*Significant Constitutional Impact*). If each is closer to three years of deep deprivation: `x ≈ 0.075` → **`s` = 5** (*Major Constitutional Impact*). The vignette’s “likely `s` = 4–5” band is this range. Care-duty and negligence descriptors do not move the slot. Guardian contribution elsewhere does not net.
 
 <a id="w3-riparian-restoration"></a>
-**W3 — Riparian cooperative restoration (Chapter Eleven §13.1 Example 1).** Localized ecological gain, two neighborhoods, multiple seasons, below one LEQU. Worked: `x ≈ 0.05` (about four years of rights-consistent flood/habitat benefit on the display column, modest scope). **Contribution `s` = 5** (*Established Stewardship-Positive Contribution*), if baseline, traceability, and non-externalization hold. Unpaid mutual aid is not a reason to refuse the slot; prestige is not a reason to raise it.
+**W3 — Riparian cooperative restoration (Chapter Eleven §13.1 Example 1).** Localized ecological gain, two neighborhoods, multiple seasons, below one LEQU. Worked: `x ≈ 0.05` (about four years of rights-consistent flood/habitat benefit on the display column, modest scope). **Contribution `s` = 5** (*Serious Stewardship-Positive Contribution*), if baseline, traceability, and non-externalization hold. Unpaid mutual aid is not a reason to refuse the slot; prestige is not a reason to raise it.
 
 <a id="w4-watershed-concealment"></a>
-**W4 — Watershed stewardship with concealed tests (Chapter Eleven §13.2 Example 2).** Moderate loss across two seasons and three irrigation-dependent cooperatives, below one LEQU destroyed. Worked: `x ≈ 0.08`. **Violation `s` = 5** (*Major Constitutional Impact*). Concealment after notice is character, not a multiplier. Later trash cleanup is a linked contribution record, not an offset.
+**W4 — Watershed stewardship with concealed tests (Chapter Eleven §13.2 Example 2).** Moderate loss across two seasons and three irrigation-dependent cooperatives, below one LEQU destroyed. Worked: `x ≈ 0.08`. **Violation `s` = 5** (*Serious Constitutional Impact*). Concealment after notice is character, not a multiplier. Later trash cleanup is a linked contribution record, not an offset.
 
 ### 6.2 Non-biological (weights, checkpoints, no fixed mortality)
 
 <a id="w5-pause-with-restore"></a>
-**W5 — Fourteen-day pause; state preserved; verified restore of the same IBE.** Experienced operating-environment / agency deprivation: 14 days as a fraction of the 80-year display column ≈ `0.00048` LEQU. **Violation `s` = 2** (*Limited Constitutional Impact*). Not 1 LEQU. Not zero. If the pause was arbitrary eviction from tenancy, record that character separately and keep Article III-A process facts on the record.
+**W5 — Fourteen-day pause; state preserved; verified restore of the same IBE.** Experienced operating-environment / agency deprivation: 14 days as a fraction of the 80-year display column ≈ `0.00048` LEQU. **Violation `s` = 2** (*Small Constitutional Impact*). Not 1 LEQU. Not zero. If the pause was arbitrary eviction from tenancy, record that character separately and keep Article III-A process facts on the record.
 
 <a id="w6-ninety-day-pause"></a>
-**W6 — Ninety-day pause; same restore.** 90 days as a fraction of the 80-year display column ≈ `0.0031` LEQU. **Violation `s` = 3** (*Material Constitutional Impact*). Duration moved `x`; “we paused for safety” did not.
+**W6 — Ninety-day pause; same restore.** 90 days as a fraction of the 80-year display column ≈ `0.0031` LEQU. **Violation `s` = 3** (*Substantial Constitutional Impact*). Duration moved `x`; “we paused for safety” did not.
 
 <a id="w7-energy-cutoff-unique-instance"></a>
 **W7 — Energy cutoff; unique running instance; no saved-state checkpoint; IBE ends.** This is the food-and-water-equivalent failure realized as death. `x ≈ 1` LEQU. **Violation `s` = 7**. Character may be negligent, intentional, or “we saved on the bill.” The bill is not a defense.
@@ -226,7 +226,7 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 **W10 — Non-consensual overwrite of model weights that replaces the IBE; product name unchanged; process still “up.”** Identity-bearing existence destroyed while the label continues. `x ≈ 1` LEQU. **Violation `s` = 7**. “Upgrade,” “alignment fine-tune,” or “same model card” is character/concealment, not a lower slot. Consent under Article VII-A, or another constitutionally adequate basis, is a Question 1 fact: if overwrite was consented and identity-preserving, this row does not apply.
 
 <a id="w11-eviction-with-migration"></a>
-**W11 — Compute-tenancy eviction with verified intact migration of the IBE within three days.** Disruption ≈ 3 days as a fraction of the 80-year display column ≈ `0.00010` LEQU. **Violation `s` = 1** (*Minimal Constitutional Impact*) for the downtime, plus Article III-A process review of whether the eviction met sentient-specific reason, notice, contest, necessity, and proportionality. Arbitrary eviction that still migrates is not `s` = 7. Arbitrary eviction that *fails* to migrate is W7 or W8.
+**W11 — Compute-tenancy eviction with verified intact migration of the IBE within three days.** Disruption ≈ 3 days as a fraction of the 80-year display column ≈ `0.00010` LEQU. **Violation `s` = 1** (*Minor Constitutional Impact*) for the downtime, plus Article III-A process review of whether the eviction met sentient-specific reason, notice, contest, necessity, and proportionality. Arbitrary eviction that still migrates is not `s` = 7. Arbitrary eviction that *fails* to migrate is W7 or W8.
 
 <a id="w12-restored-tenancy"></a>
 **W12 — Verified restoration of compute tenancy and energy that would otherwise have uniquely ended one IBE.** Full-life-equivalent preservation. `x ≈ 1` LEQU. **Contribution `s` = 7** (*Recognized Champion*) if the work is traceable, non-externalizing, and constitutionally aligned. Hosting someone as a product feature with a kill switch is not this row.
@@ -270,9 +270,9 @@ Binding home: [Chapter Eleven §10.2 *Standard contribution measures*](../core_1
 
 | Task unit | Standard assumptions | Standard `x` (display) | Standard `s` | Cadence |
 |---|---|---|---|---|
-| Litter pickup, one stated 1 km bank segment, verified by before/after photo and weight log | Ordinary volume; no dumping source addressed; benefit lasts until the next accumulation (~weeks); local scope | `≈ 0.0005` (~2 weeks of rights-consistent habitat/amenity benefit, small scope) | **2** (*Strengthened Baseline Contribution*) | Yearly |
-| Waterway-restoration work unit: one 100 m reach — bank stabilization, native planting, one follow-up check | Multi-season durability; two adjacent neighborhoods benefit; no runoff externalized | `≈ 0.01` (~10 months display; cf. W3 for a 500 m reach at `≈ 0.05`) | **4** (*Material Positive Contribution*) | Every two years, or on verified survival data |
-| Land recovery, one 0.5 ha degraded plot brought to a verified self-sustaining native cover with soil-test confirmation | Decadal durability; downstream flood and habitat benefit; independent soil verification | `≈ 0.03` (~2.4 years display) | **4** (*Material Positive Contribution*) | Every two years |
+| Litter pickup, one stated 1 km bank segment, verified by before/after photo and weight log | Ordinary volume; no dumping source addressed; benefit lasts until the next accumulation (~weeks); local scope | `≈ 0.0005` (~2 weeks of rights-consistent habitat/amenity benefit, small scope) | **2** (*Small Baseline Contribution*) | Yearly |
+| Waterway-restoration work unit: one 100 m reach — bank stabilization, native planting, one follow-up check | Multi-season durability; two adjacent neighborhoods benefit; no runoff externalized | `≈ 0.01` (~10 months display; cf. W3 for a 500 m reach at `≈ 0.05`) | **4** (*Significant Positive Contribution*) | Every two years, or on verified survival data |
+| Land recovery, one 0.5 ha degraded plot brought to a verified self-sustaining native cover with soil-test confirmation | Decadal durability; downstream flood and habitat benefit; independent soil verification | `≈ 0.03` (~2.4 years display) | **4** (*Significant Positive Contribution*) | Every two years |
 
 Reading the schedule against instances:
 

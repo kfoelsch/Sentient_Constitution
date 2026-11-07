@@ -37,8 +37,8 @@
       "category_index": 1,
       "sub_tier": "minor",
       "sub_tier_display": {
-        "contribution": "Basic Baseline Contribution",
-        "violation": "Minimal Constitutional Impact"
+        "contribution": "Minor Baseline Contribution",
+        "violation": "Minor Constitutional Impact"
       },
       "c_min_over_c_unit": 0,
       "lequ_max_exclusive": 0.00032,
@@ -50,8 +50,8 @@
       "category_index": 1,
       "sub_tier": "mid",
       "sub_tier_display": {
-        "contribution": "Strengthened Baseline Contribution",
-        "violation": "Limited Constitutional Impact"
+        "contribution": "Small Baseline Contribution",
+        "violation": "Small Constitutional Impact"
       },
       "c_min_over_c_unit": 0.00032,
       "lequ_max_exclusive": 0.0016,
@@ -63,8 +63,8 @@
       "category_index": 1,
       "sub_tier": "major",
       "sub_tier_display": {
-        "contribution": "Verified Positive Contribution",
-        "violation": "Material Constitutional Impact"
+        "contribution": "Substantial Positive Contribution",
+        "violation": "Substantial Constitutional Impact"
       },
       "c_min_over_c_unit": 0.0016,
       "lequ_max_exclusive": 0.008,
@@ -76,7 +76,7 @@
       "category_index": 2,
       "sub_tier": "minor",
       "sub_tier_display": {
-        "contribution": "Material Positive Contribution",
+        "contribution": "Significant Positive Contribution",
         "violation": "Significant Constitutional Impact"
       },
       "c_min_over_c_unit": 0.008,
@@ -89,8 +89,8 @@
       "category_index": 2,
       "sub_tier": "mid",
       "sub_tier_display": {
-        "contribution": "Established Stewardship-Positive Contribution",
-        "violation": "Major Constitutional Impact"
+        "contribution": "Serious Stewardship-Positive Contribution",
+        "violation": "Serious Constitutional Impact"
       },
       "c_min_over_c_unit": 0.04,
       "lequ_max_exclusive": 0.2,
@@ -103,7 +103,7 @@
       "sub_tier": "major",
       "sub_tier_display": {
         "contribution": "Major Stewardship-Positive Contribution",
-        "violation": "Severe Constitutional Impact"
+        "violation": "Major Constitutional Impact"
       },
       "c_min_over_c_unit": 0.2,
       "lequ_max_exclusive": 1,
@@ -116,7 +116,7 @@
       "sub_tier": "minor",
       "sub_tier_display": {
         "contribution": "Recognized Champion",
-        "violation": "Serious Constitutional Impact"
+        "violation": "Severe Constitutional Impact"
       },
       "c_min_over_c_unit": 1,
       "lequ_max_exclusive": 5,

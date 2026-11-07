@@ -273,7 +273,7 @@
     "chapterTwelveLabel": {
       "type": "string",
       "enum": [
-        "Serious anti-constitutional misconduct",
+        "Severe anti-constitutional misconduct",
         "Grave anti-constitutional misconduct",
         "Catastrophic anti-constitutional misconduct",
         "none",

@@ -4,7 +4,7 @@
 
 **Slot groups and display roles (both axes).** The Contribution Axis retains its four constitutional bands. The Violation Axis uses neutral impact labels on the same LEQU bands. Conduct character and any Chapter Thirteen anti-constitutional designation are separate fields, not slot inputs. Older tranche and violation-character keys remain legacy shorthand only.
 
-**Sub-tier** keys and display. The stable interchange key remains **`minor`** | **`mid`** | **`major`** for compatibility. Violation display labels are **Minimal**, **Limited**, **Material**, **Significant**, **Major**, **Severe**, **Serious**, **Grave**, and **Catastrophic Constitutional Impact**.
+**Sub-tier** keys and display. The stable interchange key remains **`minor`** | **`mid`** | **`major`** for compatibility. Violation display labels are **Minor**, **Small**, **Substantial**, **Significant**, **Serious**, **Major**, **Severe**, **Grave**, and **Catastrophic Constitutional Impact**.
 
 **Constitutional guardrails (summary)**
 
@@ -22,13 +22,13 @@
 
 | `s` | Contribution primary band | Contribution Axis display label | Violation Axis display label |
 | ---: | --- | --- | --- |
-| 1 | **C-BL** / Baseline contribution | **Basic Baseline Contribution** | **Minimal Constitutional Impact** |
-| 2 | **C-BL** / Baseline contribution | **Strengthened Baseline Contribution** | **Limited Constitutional Impact** |
-| 3 | **C-PC** / Positive contribution | **Verified Positive Contribution** | **Material Constitutional Impact** |
-| 4 | **C-PC** / Positive contribution | **Material Positive Contribution** | **Significant Constitutional Impact** |
-| 5 | **C-SP** / Stewardship-positive contribution | **Established Stewardship-Positive Contribution** | **Major Constitutional Impact** |
-| 6 | **C-SP** / Stewardship-positive contribution | **Major Stewardship-Positive Contribution** | **Severe Constitutional Impact** |
-| 7 | **C-CH** / Champion contribution | **Recognized Champion** | **Serious Constitutional Impact** |
+| 1 | **C-BL** / Baseline contribution | **Minor Baseline Contribution** | **Minor Constitutional Impact** |
+| 2 | **C-BL** / Baseline contribution | **Small Baseline Contribution** | **Small Constitutional Impact** |
+| 3 | **C-PC** / Positive contribution | **Substantial Positive Contribution** | **Substantial Constitutional Impact** |
+| 4 | **C-PC** / Positive contribution | **Significant Positive Contribution** | **Significant Constitutional Impact** |
+| 5 | **C-SP** / Stewardship-positive contribution | **Serious Stewardship-Positive Contribution** | **Serious Constitutional Impact** |
+| 6 | **C-SP** / Stewardship-positive contribution | **Major Stewardship-Positive Contribution** | **Major Constitutional Impact** |
+| 7 | **C-CH** / Champion contribution | **Recognized Champion** | **Severe Constitutional Impact** |
 | 8 | **C-CH** / Champion contribution | **Distinguished Champion** | **Grave Constitutional Impact** |
 | 9 | **C-CH** / Champion contribution | **Exemplary Champion** | **Catastrophic Constitutional Impact** |
 
