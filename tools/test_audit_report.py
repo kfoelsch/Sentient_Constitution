@@ -112,6 +112,33 @@ class SelectionTests(unittest.TestCase):
         self.assertEqual(ar.select_targets(reg, reg_list, "regression", {"two"}), ["gamma-test"])
 
 
+class PreflightSelectionTests(unittest.TestCase):
+    def test_preflight_drops_unit_tests_and_writers_and_keeps_read_only_audits(self) -> None:
+        reg = json.loads(json.dumps(REGISTRY))
+        reg["targets"]["gamma-test"] = {"category": "tests", "run": "auto", "writes": False}
+        reg["targets"]["zeta-audit"] = {"category": "two", "run": "auto", "writes": True}
+        reg["targets"]["eta-test"] = {"category": "two", "run": "auto", "writes": False}
+        names = ["alpha-audit", "beta-check", "gamma-test", "zeta-audit", "eta-test"]
+        self.assertEqual(ar.select_preflight_targets(reg, names), ["alpha-audit", "beta-check"])
+
+    def test_preflight_flag_runs_read_only_and_prints_failures_only(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "tools" / "architecture").mkdir(parents=True)
+            (root / "Makefile").write_text(MAKEFILE, encoding="utf-8")
+            reg = json.loads(json.dumps(REGISTRY))
+            reg["targets"]["gamma-test"] = {"category": "tests", "run": "auto", "writes": False}
+            (root / ar.REGISTRY_REL).write_text(json.dumps(reg), encoding="utf-8")
+            out = io.StringIO()
+            with contextlib.redirect_stdout(out):
+                rc = ar.main(["--root", str(root), "--preflight"])
+            text = out.getvalue()
+        self.assertEqual(rc, 1)                      # beta-check fails
+        self.assertIn("beta-check", text)
+        self.assertNotIn("gamma-test", text)         # unit tests are not run
+        self.assertIn("preflight", text)
+
+
 class ExcerptTests(unittest.TestCase):
     def test_excerpt_keeps_fail_line_and_indented_detail(self) -> None:
         out = "noise\nFAIL: 2 problems\n  a.md:3 bad\n  b.md:9 bad\nmore noise\nmake: *** Error 1\n"

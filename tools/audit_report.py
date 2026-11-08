@@ -11,6 +11,7 @@ Use --no-refresh to check the existing indexes without updating them.
     python3 tools/audit_report.py --root . --scope all        # also the audits outside the gate
     python3 tools/audit_report.py --root . --category links   # one category
     python3 tools/audit_report.py --root . --changed          # optional changed-file filter
+    python3 tools/audit_report.py --root . --preflight        # fast read-only pass before a commit (make preflight)
     python3 tools/audit_report.py --root . --only-failing     # hide passing categories
     python3 tools/audit_report.py --root . --json             # machine-readable
     python3 tools/audit_report.py --root . --list             # categories and targets, nothing run
@@ -102,6 +103,22 @@ def select_targets(registry: dict, regression: list[str], scope: str, categories
             continue
         names.append(name)
     return sorted(names, key=lambda n: (order.get(n, 10**6), n))
+
+
+def select_preflight_targets(registry: dict, names: list[str]) -> list[str]:
+    """Keep the gate audits that are safe and useful to run before every commit (PREFLIGHT-01).
+
+    Drops the unit tests of the audit scripts (they matter only when ``tools/`` changes, and
+    ``make audit-report`` still runs them) and every target that writes files while it runs.
+    Every other gate audit stays, because AUDIT-SCOPE-01 says each one reads the whole corpus.
+    """
+    kept = []
+    for name in names:
+        entry = registry["targets"][name]
+        if entry["writes"] or entry["category"] == "tests" or name.endswith("-test"):
+            continue
+        kept.append(name)
+    return kept
 
 
 def git_changed_paths(root: Path, base: str) -> set[str]:
@@ -343,6 +360,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--scope", choices=("regression", "all"), default="regression")
     ap.add_argument("--changed", action="store_true", help="select audit scopes that touch files changed since the merge base")
     ap.add_argument("--base", default="origin/main", help="base ref for --changed (default: origin/main)")
+    ap.add_argument("--preflight", action="store_true", help="gate audits minus audit unit tests and file-writing targets; read-only, failures only")
     ap.add_argument("--category", action="append", default=[], help="category id (repeat or comma-separate)")
     ap.add_argument("--jobs", type=int, default=4, help="parallel read-only targets (1 = one at a time)")
     ap.add_argument("--timeout", type=float, default=900.0, help="seconds allowed per target")
@@ -386,6 +404,10 @@ def main(argv: list[str] | None = None) -> int:
         print(f"unknown category: {', '.join(sorted(unknown))}; known: {', '.join(c['id'] for c in registry['categories'])}", file=sys.stderr)
         return 2
     names = select_targets(registry, regression, args.scope, wanted)
+    if args.preflight:
+        names = select_preflight_targets(registry, names)
+        args.no_refresh = True   # read-only: report stale AI indexes instead of rewriting them
+        args.only_failing = True
     changed: set[str] | None = None
     if args.changed:
         try:
@@ -441,10 +463,10 @@ def main(argv: list[str] | None = None) -> int:
     results = {n: results[n] for n in names}
     rows = summarize(results, registry, regression)
     if args.json:
-        print(render_json(rows, results, regression, scope=f"{args.scope}{', changed' if args.changed else ''}", jobs=args.jobs,
+        print(render_json(rows, results, regression, scope=f"{args.scope}{', preflight' if args.preflight else ''}{', changed' if args.changed else ''}", jobs=args.jobs,
                           elapsed=elapsed, max_lines=args.max_lines, changed_files=changed))
     else:
-        print(render_text(rows, results, regression, registry, scope=f"{args.scope}{', changed' if args.changed else ''}", jobs=args.jobs, elapsed=elapsed,
+        print(render_text(rows, results, regression, registry, scope=f"{args.scope}{', preflight' if args.preflight else ''}{', changed' if args.changed else ''}", jobs=args.jobs, elapsed=elapsed,
                           only_failing=args.only_failing, verbose=args.verbose, max_lines=args.max_lines, slowest=args.slowest))
     gate = set(regression)
     failing = [n for n, r in results.items() if r["rc"] != 0 and (args.strict or n in gate)]
