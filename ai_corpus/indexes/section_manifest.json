@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-07T18:20:19+00:00",
+  "generated_at": "2026-11-08T05:30:32+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 538,
@@ -1008,9 +1008,9 @@
       ]
     },
     "core_11.005_standing_measurement.md": {
-      "total_lines": 699,
+      "total_lines": 816,
       "sections": [
-        {"header":"CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?","level":1,"line_start":1,"line_end":699,"anchor":null},
+        {"header":"CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?","level":1,"line_start":1,"line_end":816,"anchor":null},
         {"header":"7. Question 2 — how good or bad was it?","level":3,"line_start":46,"line_end":130,"anchor":"#7-question-2-how-good-or-bad-was-it"},
         {"header":"7.1 LEQU baseline","level":4,"line_start":75,"line_end":85,"anchor":"#71-lequ-baseline"},
         {"header":"7.2 Limits on using LEQU","level":4,"line_start":86,"line_end":106,"anchor":"#72-limits-on-using-lequ"},
@@ -1039,17 +1039,17 @@
         {"header":"10. Slot grammar and shared scaling","level":3,"line_start":382,"line_end":457,"anchor":"#10-slot-grammar-and-shared-scaling"},
         {"header":"10.1 Table 1 — slot display labels","level":4,"line_start":400,"line_end":421,"anchor":"#101-table-1--slot-display-labels"},
         {"header":"10.2 Shared impact-scaling rules","level":4,"line_start":422,"line_end":457,"anchor":"#102-shared-impact-scaling-rules"},
-        {"header":"11. Constitutional inputs to axis assignment","level":3,"line_start":458,"line_end":513,"anchor":"#11-constitutional-inputs-to-axis-assignment"},
+        {"header":"11. Constitutional inputs to axis assignment","level":3,"line_start":458,"line_end":524,"anchor":"#11-constitutional-inputs-to-axis-assignment"},
         {"header":"11.1 Definition inputs","level":4,"line_start":473,"line_end":487,"anchor":"#111-definition-inputs"},
         {"header":"11.2 Principle inputs","level":4,"line_start":488,"line_end":499,"anchor":"#112-principle-inputs"},
-        {"header":"11.3 Rights-Floor and Article inputs","level":4,"line_start":500,"line_end":513,"anchor":"#113-rights-floor-and-article-inputs"},
-        {"header":"12. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":514,"line_end":589,"anchor":"#12-unified-proportional-lequ-scale--contribution-and-violation-axes"},
-        {"header":"13. Standard contribution measures","level":3,"line_start":590,"line_end":606,"anchor":"#13-standard-contribution-measures"},
-        {"header":"14. Measurement illustrations","level":3,"line_start":607,"line_end":657,"anchor":"#14-measurement-illustrations"},
-        {"header":"14.1 Example 1 — Riparian cooperative restoration (contribution)","level":4,"line_start":613,"line_end":635,"anchor":"#141-example-1--riparian-cooperative-restoration-contribution"},
-        {"header":"14.2 Example 2 — Watershed steward negligence with concealed test results (violation)","level":4,"line_start":636,"line_end":657,"anchor":"#142-example-2--watershed-steward-negligence-with-concealed-test-results-violation"},
-        {"header":"15. Hand-off to Question 3 — cross-question measurement hooks","level":3,"line_start":658,"line_end":699,"anchor":"#15-hand-off-to-question-3--cross-question-measurement-hooks"},
-        {"header":"15.1 Similar-looking facts that must stay separate","level":4,"line_start":682,"line_end":699,"anchor":"#151-similar-looking-facts-that-must-stay-separate"}
+        {"header":"11.3 Rights-Floor and Article inputs","level":4,"line_start":500,"line_end":524,"anchor":"#113-rights-floor-and-article-inputs"},
+        {"header":"12. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":525,"line_end":650,"anchor":"#12-unified-proportional-lequ-scale--contribution-and-violation-axes"},
+        {"header":"13. Standard contribution measures","level":3,"line_start":651,"line_end":674,"anchor":"#13-standard-contribution-measures"},
+        {"header":"14. Measurement illustrations","level":3,"line_start":675,"line_end":767,"anchor":"#14-measurement-illustrations"},
+        {"header":"14.1 Example 1 — Riparian cooperative restoration (contribution)","level":4,"line_start":681,"line_end":721,"anchor":"#141-example-1--riparian-cooperative-restoration-contribution"},
+        {"header":"14.2 Example 2 — Watershed steward negligence with concealed test results (violation)","level":4,"line_start":722,"line_end":767,"anchor":"#142-example-2--watershed-steward-negligence-with-concealed-test-results-violation"},
+        {"header":"15. Hand-off to Question 3 — cross-question measurement hooks","level":3,"line_start":768,"line_end":816,"anchor":"#15-hand-off-to-question-3--cross-question-measurement-hooks"},
+        {"header":"15.1 Similar-looking facts that must stay separate","level":4,"line_start":799,"line_end":816,"anchor":"#151-similar-looking-facts-that-must-stay-separate"}
       ]
     },
     "core_12.000_standing_integration.md": {

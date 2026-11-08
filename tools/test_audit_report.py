@@ -112,6 +112,67 @@ class SelectionTests(unittest.TestCase):
         self.assertEqual(ar.select_targets(reg, reg_list, "regression", {"two"}), ["gamma-test"])
 
 
+class ChangedSelectionTests(unittest.TestCase):
+    def _root_with_scopes(self, tmp: str, scopes: dict) -> Path:
+        root = Path(tmp)
+        (root / "tools" / "architecture").mkdir(parents=True)
+        (root / "tools/architecture/audit_scope_registry.json").write_text(json.dumps({"targets": scopes}), encoding="utf-8")
+        return root
+
+    def _registry(self) -> dict:
+        return {"targets": {
+            "alpha-audit": {"category": "one", "run": "auto", "writes": False},
+            "beta-check": {"category": "one", "run": "auto", "writes": False},
+            "gamma-test": {"category": "tests", "run": "auto", "writes": False},
+            "kappa-test": {"category": "two", "run": "auto", "writes": False},
+            "writer-audit": {"category": "two", "run": "auto", "writes": True},
+        }}
+
+    def test_corpus_only_change_skips_unit_tests_and_keeps_unregistered_audits(self) -> None:
+        names = ["alpha-audit", "beta-check", "gamma-test", "kappa-test", "writer-audit"]
+        scopes = {"alpha-audit": {"scope": "corpus"}, "beta-check": {"scope": "format-owned", "files": ["other.md"]}}
+        with tempfile.TemporaryDirectory() as tmp, mock.patch("corpus_paths.binding_corpus_scope", return_value=["core_a.md", "other.md"]):
+            root = self._root_with_scopes(tmp, scopes)
+            selected, fallback = ar.select_changed_targets(root, self._registry(), names, {"core_a.md"})
+        self.assertFalse(fallback)
+        self.assertEqual(selected, ["alpha-audit", "writer-audit"])   # beta untouched, both unit tests skipped
+
+    def test_non_corpus_change_keeps_the_whole_set(self) -> None:
+        names = ["alpha-audit", "gamma-test"]
+        with tempfile.TemporaryDirectory() as tmp, mock.patch("corpus_paths.binding_corpus_scope", return_value=["core_a.md"]):
+            root = self._root_with_scopes(tmp, {"alpha-audit": {"scope": "corpus"}})
+            selected, fallback = ar.select_changed_targets(root, self._registry(), names, {"core_a.md", "tools/audit_report.py"})
+        self.assertTrue(fallback)
+        self.assertEqual(selected, names)
+
+
+class PreflightSelectionTests(unittest.TestCase):
+    def test_preflight_drops_unit_tests_and_writers_and_keeps_read_only_audits(self) -> None:
+        reg = json.loads(json.dumps(REGISTRY))
+        reg["targets"]["gamma-test"] = {"category": "tests", "run": "auto", "writes": False}
+        reg["targets"]["zeta-audit"] = {"category": "two", "run": "auto", "writes": True}
+        reg["targets"]["eta-test"] = {"category": "two", "run": "auto", "writes": False}
+        names = ["alpha-audit", "beta-check", "gamma-test", "zeta-audit", "eta-test"]
+        self.assertEqual(ar.select_preflight_targets(reg, names), ["alpha-audit", "beta-check"])
+
+    def test_preflight_flag_runs_read_only_and_prints_failures_only(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "tools" / "architecture").mkdir(parents=True)
+            (root / "Makefile").write_text(MAKEFILE, encoding="utf-8")
+            reg = json.loads(json.dumps(REGISTRY))
+            reg["targets"]["gamma-test"] = {"category": "tests", "run": "auto", "writes": False}
+            (root / ar.REGISTRY_REL).write_text(json.dumps(reg), encoding="utf-8")
+            out = io.StringIO()
+            with contextlib.redirect_stdout(out):
+                rc = ar.main(["--root", str(root), "--preflight"])
+            text = out.getvalue()
+        self.assertEqual(rc, 1)                      # beta-check fails
+        self.assertIn("beta-check", text)
+        self.assertNotIn("gamma-test", text)         # unit tests are not run
+        self.assertIn("preflight", text)
+
+
 class ExcerptTests(unittest.TestCase):
     def test_excerpt_keeps_fail_line_and_indented_detail(self) -> None:
         out = "noise\nFAIL: 2 problems\n  a.md:3 bad\n  b.md:9 bad\nmore noise\nmake: *** Error 1\n"
