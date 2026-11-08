@@ -40,27 +40,27 @@
   "fixed_periods": [
     {
       "name": "watch period",
-      "owner": "CI-12.210 §3"
+      "owner": "CI-13.210 §3"
     },
     {
       "name": "order term",
-      "owner": "CI-12.215 §2"
+      "owner": "CI-13.215 §2"
     },
     {
       "name": "host replacement window",
-      "owner": "CI-15.205 §7"
+      "owner": "CI-16.205 §7"
     },
     {
       "name": "cooling-off period",
-      "owner": "Article XII-E and CI-15.205 §2"
+      "owner": "Article XII-E and CI-16.205 §2"
     },
     {
       "name": "half-life",
-      "owner": "Chapter Twelve §6.1"
+      "owner": "Chapter Thirteen §6.1"
     },
     {
       "name": "currentness cutoff",
-      "owner": "Chapter Twelve §6.1"
+      "owner": "Chapter Thirteen §6.1"
     },
     {
       "name": "exclusivity term",
@@ -74,12 +74,12 @@
   "scaled_windows": [
     {
       "name": "response window",
-      "owner": "Chapter Seven §1.6 and §6; CI-12.210 §3",
+      "owner": "Chapter Seven §1.6 and §6; CI-13.210 §3",
       "takes": "the intake target of the Tier that matches the Chartered Party's class"
     },
     {
       "name": "resolution window",
-      "owner": "Chapter Seven §1.6 and §6; CI-12.210 §3",
+      "owner": "Chapter Seven §1.6 and §6; CI-13.210 §3",
       "takes": "the outer bound of the Tier that matches the Chartered Party's class"
     }
   ],
@@ -104,12 +104,12 @@
       "reason": "Article V plain-language aim; it states a principle and sets no deadline. Promptly is not a length (TIME-NAME-01)."
     },
     {
-      "file": "core_13.000_misconduct_designation.md",
+      "file": "core_14.000_misconduct_designation.md",
       "contains": "A genuine drafting mistake that is fixed promptly",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     },
     {
-      "file": "core_13.000_misconduct_designation.md",
+      "file": "core_14.000_misconduct_designation.md",
       "contains": "Good-faith drafting error that is promptly disclosed and corrected",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     }

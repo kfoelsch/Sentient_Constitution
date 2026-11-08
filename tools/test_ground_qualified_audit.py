@@ -30,7 +30,7 @@ class GroundQualifiedTests(unittest.TestCase):
     def test_accepts_a_named_kind(self) -> None:
         self.assertEqual(phrases("A denial ground and a revocation ground are stated separately."), [])
         self.assertEqual(phrases("An institutional ground does not deny the System."), [])
-        self.assertEqual(phrases("The hold grounds are listed in Chapter Thirteen."), [])
+        self.assertEqual(phrases("The hold grounds are listed in Chapter Fourteen."), [])
         self.assertEqual(phrases("Protected grounds include sex and age."), [])
         self.assertEqual(phrases("A technical-feasibility ground is not enough."), [])
 
@@ -50,7 +50,7 @@ class GroundQualifiedTests(unittest.TestCase):
         self.assertEqual(phrases("Staff on the ground report."), [])
 
     def test_ignores_inline_code_and_link_targets(self) -> None:
-        self.assertEqual(phrases("It rests on `a ground` and [the rule](core_12.000_a_ground.md)."), [])
+        self.assertEqual(phrases("It rests on `a ground` and [the rule](core_13.000_a_ground.md)."), [])
 
     def test_scan_skips_fences_and_exempt_file(self) -> None:
         text = "```\nThe forum states the grounds.\n```\nThe forum states the grounds.\n"

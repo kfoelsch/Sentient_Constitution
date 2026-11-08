@@ -17,9 +17,9 @@ These are real comparative losses. They are **not** viable corpus patches:
 
 | Loss | Why not a todo |
 |---|---|
-| Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Nineteen §4](../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
+| Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
 | A number in core for carbon / planetary boundaries | [Article I-B](../../core_06.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) honestly refuses a standalone cap. Locking a global budget here would be adopter-hostile. Use Band B item B1 instead. |
-| All animals are Chapter Six sentients | Would collapse [Def.P1](../../core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Seventeen **expansion of protection**, not a hole-fill. Hold as C2. |
+| All animals are Chapter Six sentients | Would collapse [Def.P1](../../core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Eighteen **expansion of protection**, not a hole-fill. Hold as C2. |
 | Ecuador-style Nature-as-rights-holder | Would replace the hybrid (interests of their own, not personhood). Hold as C1 for expert review. |
 | Delete the standing pipeline to “simplify” | Would hollow Test 1, certification-before-standing, and anti-self-judging — the process strengths the audit scored Better. |
 
@@ -31,7 +31,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A1. Enumerate a Sentience-Status Adjudication Record schema — **done**
 
-**Homes:** [`corpus_forum/cf_14.475_sentience_status_record.md`](../../corpus_forum/cf_14.475_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Nineteen §2](../../core_19.000_incorporation.md#2-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-14.465 §1** points without restating fields.
+**Homes:** [`corpus_forum/cf_15.475_sentience_status_record.md`](../../corpus_forum/cf_15.475_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Twenty §2](../../core_20.000_incorporation.md#2-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-15.465 §1** points without restating fields.
 **Do not:** Relocate Article V-D into implementation text, or let the schema decide who counts.
 
 ### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**
@@ -46,7 +46,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A4. Opening filter for contested status (over-inclusion guard) — **done**
 
-**Homes:** [Article V-D filing integrity](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Fourteen §5](../../core_14.000_forum.md#5-escalation-and-questions-for-ruling) hook. Declining a crank filing is not a withholding determination.
+**Homes:** [Article V-D filing integrity](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Fifteen §5](../../core_15.000_forum.md#5-escalation-and-questions-for-ruling) hook. Declining a crank filing is not a withholding determination.
 **Do not:** Let the opening filter become a withholding device.
 
 ### A5. Reader-path accessibility (process support) — **done**
@@ -58,31 +58,31 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ## Band B — close comparative gaps without changing the instrument’s kind — **done this edition**
 
-Viable if operators accept the design. This edition accepted B1–B5. Each still needs a Chapter Seventeen expansion check if a later change raises a Rights Floor.
+Viable if operators accept the design. This edition accepted B1–B5. Each still needs a Chapter Eighteen expansion check if a later change raises a Rights Floor.
 
 ### B1. Adopter-numeric gate under Article I-D — **done**
 
-**Homes:** [Article I-D named measures](../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Eighteen §10.2](../../core_18.000_amendment_ratification.md#102-adoption-document). Core still does not pick the number.
+**Homes:** [Article I-D named measures](../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Nineteen §10.2](../../core_19.000_amendment_ratification.md#102-adoption-document). Core still does not pick the number.
 **Do not:** Write 1.5°C or a global carbon budget into Chapter Six.
 
 ### B2. Representative standing for natural systems (Whanganui-lite) — **done**
 
-**Homes:** [Chapter Fourteen §4.4 Representative filing](../../core_14.000_forum.md#44-environment-forums); **CF-14.415 §3** in [`corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md`](../../corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md).
+**Homes:** [Chapter Fifteen §4.4 Representative filing](../../core_15.000_forum.md#44-environment-forums); **CF-15.415 §3** in [`corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md`](../../corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md).
 **Do not:** Declare Nature a Chapter Six sentient or copy Ecuador Arts. 71–74 unless C1 is deliberately chosen.
 
 ### B3. FPIC non-shrinkage — **done**
 
-**Homes:** [Article V-B](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Nineteen §4](../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
-**Do not:** Invent a land-claims forum in Chapter Fourteen.
+**Homes:** [Article V-B](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
+**Do not:** Invent a land-claims forum in Chapter Fifteen.
 
 ### B4. Forum independence and appointment floor — **done**
 
-**Homes:** [Chapter Fifteen §1.2](../../core_15.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums); [Chapter Fourteen §1](../../core_14.000_forum.md#1-purpose-and-role--participation-architecture). Under-appointment is a Chapter Twelve §9 failure.
+**Homes:** [Chapter Sixteen §1.2](../../core_16.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums); [Chapter Fifteen §1](../../core_15.000_forum.md#1-purpose-and-role--participation-architecture). Under-appointment is a Chapter Thirteen §9 failure.
 **Do not:** Mandate one global polity or one appointment method.
 
 ### B5. Polity-adopter ratification minimum — **done**
 
-**Home:** [Chapter Eighteen §10.1](../../core_18.000_amendment_ratification.md#101-deliberate-adoption). Organizations keep the existing deliberate-adoption path.
+**Home:** [Chapter Nineteen §10.1](../../core_19.000_amendment_ratification.md#101-deliberate-adoption). Organizations keep the existing deliberate-adoption path.
 **Do not:** Require “we the people of Earth.”
 
 ---
@@ -93,8 +93,8 @@ Not defects. Do not schedule until [EXPERT_TOR.md](EXPERT_TOR.md) reviewers spea
 
 | ID | Question | If yes, it is |
 |---|---|---|
-| C1 | Upgrade Natural Systems Standing to Rights-of-Nature personhood? | Chapter Seventeen expansion, not a patch |
-| C2 | Default-include scientifically high-consensus taxa as Sentient (e.g. taxa covered by the 2024 New York Declaration)? | Chapter Seventeen expansion of who-counts |
+| C1 | Upgrade Natural Systems Standing to Rights-of-Nature personhood? | Chapter Eighteen expansion, not a patch |
+| C2 | Default-include scientifically high-consensus taxa as Sentient (e.g. taxa covered by the 2024 New York Declaration)? | Chapter Eighteen expansion of who-counts |
 | C3 | Does process complexity defeat Tetrad participation/timeliness in live steward use? | If yes, A5 is not enough — need a corpus-length cut plan that still preserves Test 1 and anti-self-judging |
 
 ---

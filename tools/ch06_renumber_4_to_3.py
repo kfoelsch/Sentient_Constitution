@@ -69,7 +69,7 @@ CROSS_FILE = [
     ),
     (
         "canonical Axis II classification rules are in Chapter Nine **§11.3** and **§4**",
-        "canonical Axis II classification rules are in Chapter Nine **§3.4** and [Chapter Eleven **§4**](core_12.000_standing_integration.md#8-enforcement-realism-anchors)",
+        "canonical Axis II classification rules are in Chapter Nine **§3.4** and [Chapter Eleven **§4**](core_13.000_standing_integration.md#8-enforcement-realism-anchors)",
     ),
     (
         "[Chapter One §8.1](core_11.000_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",

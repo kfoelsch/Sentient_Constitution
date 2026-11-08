@@ -89,9 +89,9 @@ You do not have to read everything. Pick the time you have; each path builds on 
 
 <a id="the-full-text"></a><a id="how-to-read"></a><a id="core-files-by-topic"></a><a id="standing-pipeline-and-forums"></a>
 <details>
-<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–19</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–20</span></strong></summary>
 
-The Constitution is one document split into a Preamble and nineteen chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
+The Constitution is one document split into a Preamble and twenty chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
 
 | Part | What it covers |
 |---|---|
@@ -105,15 +105,15 @@ The Constitution is one document split into a Preamble and nineteen chapters. Yo
 | **Chapter 9**: [Part A](core_09.000_system_alignment_certification_evaluation.md) · [Part B](core_09.005_system_alignment_certification_record_process.md) · [Part C](core_09.010_system_alignment_certification_record_recertification.md) · [worked illustrations, CS-9.320](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
 | **Chapter 10**: [Institutional alignment certification](core_10.000_institutional_alignment_certification.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
 | **Chapter 11**: [Part A](core_11.000_standing_assessment.md) · [Part B](core_11.005_standing_measurement.md) | Keeping verified records of what a participant has contributed and any violations, then measuring how good or how bad each was |
-| **Chapter 12**: [Standing integration](core_12.000_standing_integration.md) | What those standing records lead to: effects, restoration, and remedies |
-| **Chapter 13**: [Part A](core_13.000_misconduct_designation.md) · [Part B](core_13.005_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
-| **Chapter 14**: [Forums](core_14.000_forum.md) | Review bodies and hearings, and why no one may judge their own case |
-| [Worked examples for Chapters 11–13](corpus_joint_structure/cjs_11.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
-| **Chapter 15**: [Governance](core_15.000_governance.md) | Who may govern, and how that authority is granted and checked |
-| **Chapter 16**: [Non-regression](core_16.000_non_regression.md) | Protections can be strengthened but not rolled back |
-| **Chapter 17**: [Supremacy and other laws](core_17.000_expansion_supremacy.md) | How it relates to local, national, and international law |
-| **Chapter 18**: [Amendment and adoption](core_18.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
-| **Chapter 19**: [Incorporation](core_19.000_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
+| **Chapter 13**: [Standing integration](core_13.000_standing_integration.md) | What those standing records lead to: effects, restoration, and remedies |
+| **Chapter 14**: [Part A](core_14.000_misconduct_designation.md) · [Part B](core_14.005_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
+| **Chapter 15**: [Forums](core_15.000_forum.md) | Review bodies and hearings, and why no one may judge their own case |
+| [Worked examples for Chapters 11–14](corpus_joint_structure/cjs_11.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
+| **Chapter 16**: [Governance](core_16.000_governance.md) | Who may govern, and how that authority is granted and checked |
+| **Chapter 17**: [Non-regression](core_17.000_non_regression.md) | Protections can be strengthened but not rolled back |
+| **Chapter 18**: [Supremacy and other laws](core_18.000_expansion_supremacy.md) | How it relates to local, national, and international law |
+| **Chapter 19**: [Amendment and adoption](core_19.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
+| **Chapter 20**: [Incorporation](core_20.000_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
 
 <a id="chapter-five-files"></a>
 **All Chapter 5 files:**
@@ -148,8 +148,8 @@ The Constitution says *what* must happen and *why*. These four collections spell
 **Not yet.** This is a pre-release draft ([edition details ↑](#edition)). Here is what that means in practice:
 
 - **Reading it binds no one.** Opening this repository, or any page in it, is not adoption.
-- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 18](core_18.000_amendment_ratification.md#10-ratification-and-adoption) and [Chapter 19](core_19.000_incorporation.md).
-- **It does not override the law.** It does not replace local, national, or international law ([Chapter 17](core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 19](core_19.000_amendment_ratification.md#10-ratification-and-adoption) and [Chapter 20](core_20.000_incorporation.md).
+- **It does not override the law.** It does not replace local, national, or international law ([Chapter 18](core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 <a id="binding-vs-support"></a>
 <details>
@@ -157,7 +157,7 @@ The Constitution says *what* must happen and *why*. These four collections spell
 
 | Material | What it is | Status |
 |---|---|---|
-| **The Constitution text**: the Preamble and Chapters 1–19 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
+| **The Constitution text**: the Preamble and Chapters 1–20 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
 | **Implementation details**: the `corpus_*` files and folders ([list ↑](#implementation-files)) | Step-by-step detail on *how* to carry out what the Constitution requires | Binding only inside an organization that has adopted it; still being developed |
 | **Everything else**: this page, guides, overviews, summaries, and translations | Help for readers | Never binding, and cannot change the meaning of the Constitution |
 
@@ -184,12 +184,12 @@ If any of these disagree, **the Constitution text wins**.
 
 The numbered `core_*` files state **why** and **what**. The implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Five terms; they do not redefine them or invent parallel rights. Designated obligations in these files are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
 
-- [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-19.110 interlocks, CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
-- [corpus_systems.md](corpus_systems.md): systems implementation (CS-6.305 and CS-6.310 information types, CS-9.305 and CS-9.310 system classification, CS-15.305 critical stewardship, named protocols)
+- [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-20.110 interlocks, CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
+- [corpus_systems.md](corpus_systems.md): systems implementation (CS-6.305 and CS-6.310 information types, CS-9.305 and CS-9.310 system classification, CS-16.305 critical stewardship, named protocols)
 - [corpus_institutions.md](corpus_institutions.md): institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [corpus_forum.md](corpus_forum.md): forum operations (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
-Operative enforcement within any adopter depends on valid adoption under Chapter Eighteen (ratification) and Chapter Nineteen (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Nineteen §4](core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority).
+Operative enforcement within any adopter depends on valid adoption under Chapter Nineteen (ratification) and Chapter Twenty (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Twenty §4](core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority).
 
 **Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Preamble owner register](core_00.000_preamble.md#4-principles-definitions-and-rights), and [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](core_05.045_band_integrative.md#constitutional-constraint).
 
@@ -200,8 +200,8 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
 - Auditing and independent verification: Article XVI is the floor; Chapter Five [Auditability](core_05.050_band_oversight.md#auditability) is the property; [CJS-5.115 §3](corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) is how and when; Chapter Nine is one large process that uses that stack
 - Duty to resist unlawful or unconstitutional instructions: [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)
-- Remedy systems and enforcement realism: Chapter Twelve §9; implementation in CI-12.205
-- Relation to local, national, and international law: [Chapter Seventeen §5](core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)
+- Remedy systems and enforcement realism: Chapter Thirteen §9; implementation in CI-13.205
+- Relation to local, national, and international law: [Chapter Eighteen §5](core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)
 
 ### Editor and operator resources
 
@@ -218,7 +218,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - AI lookup CLI (locators point, source binds): [ai_corpus/AI_NAVIGATION_GUIDE.md](ai_corpus/AI_NAVIGATION_GUIDE.md), `python3 tools/corpus_lookup.py`, and [AGENTS.md](AGENTS.md)
 - Generated reader files (non-binding): [plain-terms edition](doc_architecture/generated/plain_terms_edition.md), [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md) via `make reader-accessibility`, [human definition lookup](doc_architecture/generated/human_definition_lookup.md)
 
-Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) and [Chapter Nineteen](core_19.000_incorporation.md).
+Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) and [Chapter Twenty](core_20.000_incorporation.md).
 
 </details>
 

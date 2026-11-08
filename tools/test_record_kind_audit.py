@@ -60,7 +60,7 @@ class RecordKindTests(unittest.TestCase):
         self.assertEqual(phrases("Records and review pathways stay open."), [])
 
     def test_ignores_inline_code_and_link_targets(self) -> None:
-        self.assertEqual(phrases("It rests on `the record` and [the rule](core_12.000_the_record.md)."), [])
+        self.assertEqual(phrases("It rests on `the record` and [the rule](core_13.000_the_record.md)."), [])
 
     def test_scan_skips_fences_and_exempt_file(self) -> None:
         text = "```\nThe custodian holds the record.\n```\nThe custodian holds the record.\n"

@@ -11,7 +11,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 2. **Clock lines** are steward procedure. Several repeat the Forbidden move in positive form (Proceed, Remedy, Emergency, Delay). Interpretation's Clock duplicates the interim posture already written in Chapter One §13.1.5 (lines ~329-332: preserve, freeze irreversible steps, do not manufacture a winner). Move the rest to the implementation cards and `implementation/steward_owner_clock_index.json`, which already carry clock notes.
 3. **Forbidden moves** are mostly principles the owning text already states (table below). A handful do not appear to be, and are the real decisions.
 4. **Functional Independence (Ch8)** is not in Owner/Forbidden/Clock form. It is a substantive seat-separation rule ("identify the seat you hold... do not verify your own act... if the needed seat is absent, preserve the record, name the gap, route to the published substitute"). Check whether Chapter Eight's body already says this; if not, promote it into the body rather than remove it.
-5. **Widget gap:** XXVI-C (`core_06.020_rights_part_e.md`) and Chapter Fourteen §6.1 (`core_14.000_forum.md`) are still bare blockquotes; the other 13 are in widgets. `TODO.md` says all were wrapped.
+5. **Widget gap:** XXVI-C (`core_06.020_rights_part_e.md`) and Chapter Fifteen §6.1 (`core_15.000_forum.md`) are still bare blockquotes; the other 13 are in widgets. `TODO.md` says all were wrapped.
 
 ## Per-box diff
 
@@ -47,7 +47,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 
 **What XIII-A already says.** The contestability guarantee requires a usable path to challenge and review, audit under Article XVI, and "no narrowing of any of these because the system is certified, officially recognized, or widely relied on." That covers narrowing by a system's status. It does not mention narrowing by adopted implementation text.
 
-**What the wider text says.** The Authority Stack (Ch5, `core_05.045_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Seventeen §3.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIII-A the way it is in Article XVI.
+**What the wider text says.** The Authority Stack (Ch5, `core_05.045_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Eighteen §3.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIII-A the way it is in Article XVI.
 
 **The parallel that exists.** Article XVI (`core_06.010_rights_part_c.md` line 861) states: "**Adopted implementation text applies; it does not replace the floor.** ... They must satisfy layers 1-2. Deadline, secrecy, and local policy are lower-kind limits."
 
@@ -134,7 +134,7 @@ Open choice: which systems count as "high-impact" for the pilot expectation (Cla
 
 Open point: a pilot of a Class A system (the Chapter Nine example is municipal drinking-water control) exposes real stakeholders to a system not yet fully certified. Consider one more sentence saying a pilot runs under the certification depth its class requires for the scope it touches, with a fallback available. Not included above; your call.
 
-**Delay sentence for Chapter Fourteen §6** (not applied). It fits as one more bullet in the existing "Anti-delay floor" list (`core_14.000_forum.md` ~889-899), which already covers "self-created delay, procedural layering... to prolong resolution without milestone justification" (the hop-count / read-more rule). The only missing piece is the throughput rule:
+**Delay sentence for Chapter Fifteen §6** (not applied). It fits as one more bullet in the existing "Anti-delay floor" list (`core_15.000_forum.md` ~889-899), which already covers "self-created delay, procedural layering... to prolong resolution without milestone justification" (the hop-count / read-more rule). The only missing piece is the throughput rule:
 
 > - treating a met throughput, closure, or docket target as timely resolution while the harm the matter concerns continues;
 
@@ -144,6 +144,6 @@ This sits under the list's existing lead-in, "non-compliant where they foreseeab
 
 1. Contest: XIII-A bullet (Follow-up 1)
 2. Privacy: Chapter Eleven sentence (Follow-up 2), closes Proceed and Standing
-3. Delay: Chapter Fourteen §6 bullet (above)
+3. Delay: Chapter Fifteen §6 bullet (above)
 4. SAC: Chapter Nine Part A §3.1 paragraph (above)
-Optional: Remedy clause in Chapter Twelve §9 (preservation does not wait for a filed case).
+Optional: Remedy clause in Chapter Thirteen §9 (preservation does not wait for a filed case).

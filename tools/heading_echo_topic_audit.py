@@ -9,7 +9,7 @@ to the heading's own fragment.
 Unnumbered heading-echo run-ins (``**Symmetric costly constraints:**``)
 remain MD-LIST-INTRO-01's colon rule and are out of scope here.
 Cross-chapter cites that happen to share a number (``Chapter Eleven §4.3``
-under Chapter Twelve §4.3) are out of scope.
+under Chapter Thirteen §4.3) are out of scope.
 
 Rule ID: MD-HEADING-TOPIC-01
 """
@@ -42,7 +42,7 @@ MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 LEADING_CITE_RE = re.compile(
     r"^(?:(?P<preamble>Preamble)\s+|"
     r"(?:Chapter\s+(?P<chapter>One|Two|Three|Four|Five|Six|Seven|Eight|"
-    r"Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|\d+)\s+))?"
+    r"Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty|\d+)\s+))?"
     r"§+\s*(?P<num>\d+(?:\.\d+)*)\b",
     re.I,
 )
@@ -65,6 +65,10 @@ CHAPTER_NAME_TO_CODE = {
     "fourteen": "14",
     "fifteen": "15",
     "sixteen": "16",
+    "seventeen": "17",
+    "eighteen": "18",
+    "nineteen": "19",
+    "twenty": "20",
 }
 
 

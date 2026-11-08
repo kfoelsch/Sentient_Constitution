@@ -78,7 +78,7 @@ The ground rules:
 
 Storage costs, licensing trouble, or "product cycles" are not good enough reasons. If keeping it around creates a documented safety risk, the answer is sealed storage under independent control, not destruction.
 
-**A narrow break for "not yet certified" systems.** (The rule itself now sits in Chapter Twelve §5.4.) During an approved Adoption Transition, a system that isn't yet alignment-certified doesn't automatically trigger the reward-forfeiture and reporting rules in Chapter Twelve §5.4, *only if* all of these are true:
+**A narrow break for "not yet certified" systems.** (The rule itself now sits in Chapter Thirteen §5.4.) During an approved Adoption Transition, a system that isn't yet alignment-certified doesn't automatically trigger the reward-forfeiture and reporting rules in Chapter Thirteen §5.4, *only if* all of these are true:
 - it is operating within a documented Adoption Transition plan;
 - it is moving toward certification on a published schedule; and
 - nobody is hiding problems, working outside the approved scope, or using "we're in the Adoption Transition" to dodge fixes or protected reporting.
@@ -162,4 +162,4 @@ And if the property is a system with a credible sentience indicator or an open s
 - **Fallback paths, partial rollbacks, and reset procedures:** CI-6.275.
 - **How decisions are published and evidence is kept:** CI-8.215, Oversight, assurance, controls, and evidence, together with CI-6.275.
 - **How non-compliant property and systems are handled and how voluntary turnover programs run:** CI-6.275 §1 through CI-6.275 §3.
-- **Certification of systems:** Chapter Nine. **How standing is assessed:** Chapters Eleven through Fourteen.
+- **Certification of systems:** Chapter Nine. **How standing is assessed:** Chapters Eleven through Fifteen.

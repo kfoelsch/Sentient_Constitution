@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_18.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -63,7 +63,7 @@ See: [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-surviva
 
 - **“They’ll still take the baby.”** This text does not freeze every later care question in your favor. After a child exists, [Article VIII-D](../../../core_06.005_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) attaches to the child — their interests, not only yours and not only the relative’s. What it will not do now is treat your “no” to the spare room’s terms — quit the job, switch clinicians, let “the family” decide who keeps the infant — as proof that the baby is unsafe, or as a reason to take the child. Someone still has to check actual facts. A later verified finding can still change who cares for the child.
 
-- **“This isn’t law where I live.”** Correct, until a body that can bind its systems records a formal agreement to follow this Constitution. Until then this may guide; it has no independent power against a landlord, clinic, or relative who did not agree ([Chapter Nineteen §4](../../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority); [Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law where I live.”** Correct, until a body that can bind its systems records a formal agreement to follow this Constitution. Until then this may guide; it has no independent power against a landlord, clinic, or relative who did not agree ([Chapter Twenty §4](../../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority); [Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 - **“Help always comes with strings. That’s just how family works.”** Help with named terms you can refuse is ordinary. What this protection will not treat as ordinary is the spare room, food, or rides offered only if you give up whether you carry, who treats you, or who stays close with the child later. You can still accept a room that does not buy those decisions.
 

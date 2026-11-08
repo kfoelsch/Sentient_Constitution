@@ -9,7 +9,7 @@ findings) are always qualified. A *violation finding* is the verified finding
 that someone violated the Constitution, which a standing lock, an Interim Hold,
 a sanction, or a misconduct designation rests on. That one is often written
 bare: "a lock attaches only to a verified finding", "the finding it rested on".
-A reader of Chapter Twelve cannot tell from the word alone which family is meant.
+A reader of Chapter Thirteen cannot tell from the word alone which family is meant.
 
 The audit reads each line, not the file (AUDIT-SCOPE-01). It flags the noun
 **finding** / **findings** when both hold:

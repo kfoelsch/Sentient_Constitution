@@ -22,15 +22,15 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md); worked illustrations (systems family) [cs_09.320_system_alignment_certification_illustrations.md](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md)
 - **Ch 10:** [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md)
 - **Ch 11:** [core_11.000_standing_assessment.md](core_11.000_standing_assessment.md)
-- **Ch 12:** [core_12.000_standing_integration.md](core_12.000_standing_integration.md)
-- **Ch 13:** Part A [core_13.000_misconduct_designation.md](core_13.000_misconduct_designation.md); Part B [core_13.005_misconduct_pattern_applications.md](core_13.005_misconduct_pattern_applications.md)
-- **Ch 14:** [core_14.000_forum.md](core_14.000_forum.md)
-- **Ch 15:** [core_15.000_governance.md](core_15.000_governance.md)
-- **Ch 16:** [core_16.000_non_regression.md](core_16.000_non_regression.md)
-- **Ch 17:** [core_17.000_expansion_supremacy.md](core_17.000_expansion_supremacy.md)
-- **Ch 18:** [core_18.000_amendment_ratification.md](core_18.000_amendment_ratification.md)
-- **Ch 19:** [core_19.000_incorporation.md](core_19.000_incorporation.md)
-- **Ch 11–14 vignettes (non-operative):** [corpus_joint_structure/cjs_11.105_application_vignettes.md](corpus_joint_structure/cjs_11.105_application_vignettes.md)
+- **Ch 13:** [core_13.000_standing_integration.md](core_13.000_standing_integration.md)
+- **Ch 14:** Part A [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md); Part B [core_14.005_misconduct_pattern_applications.md](core_14.005_misconduct_pattern_applications.md)
+- **Ch 15:** [core_15.000_forum.md](core_15.000_forum.md)
+- **Ch 16:** [core_16.000_governance.md](core_16.000_governance.md)
+- **Ch 17:** [core_17.000_non_regression.md](core_17.000_non_regression.md)
+- **Ch 18:** [core_18.000_expansion_supremacy.md](core_18.000_expansion_supremacy.md)
+- **Ch 19:** [core_19.000_amendment_ratification.md](core_19.000_amendment_ratification.md)
+- **Ch 20:** [core_20.000_incorporation.md](core_20.000_incorporation.md)
+- **Ch 11–15 vignettes (non-operative):** [corpus_joint_structure/cjs_11.105_application_vignettes.md](corpus_joint_structure/cjs_11.105_application_vignettes.md)
 - **Adopted corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
 
 ## Open Backlog
@@ -39,7 +39,7 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 
 The implementation and signoffs are recorded in [TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md) and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md).
 
-- [ ] Chapter Eighteen §1 heightened review: fixes were not independently re-reviewed; adoption and the contest period remain open until the announcement. Review records: [Chapter Seven §4](evidence/2026-10-20/heightened_review_record_2026-10-20.md) and [older batches](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
+- [ ] Chapter Nineteen §1 heightened review: fixes were not independently re-reviewed; adoption and the contest period remain open until the announcement. Review records: [Chapter Seven §4](evidence/2026-10-20/heightened_review_record_2026-10-20.md) and [older batches](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 
 ### Audit registry and category report — optional follow-up
 
@@ -50,7 +50,7 @@ Records: `tools/architecture/audit_registry.json`, `tools/audit_report.py`, and 
 
 Completed implementation details and signoffs are in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md), [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md), and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md). The relevant Test 1 record is [time-window-test-1-self-check](evidence/2026-10-18/time-window-test-1-self-check.md).
 
-- [ ] Complete announcement adoption and contest steps for the Chapter Eighteen §1 heightened reviews; recorded review fixes were not independently re-reviewed.
+- [ ] Complete announcement adoption and contest steps for the Chapter Nineteen §1 heightened reviews; recorded review fixes were not independently re-reviewed.
 - [ ] Run `make edition-bump` on release day.
 - [ ] Ensure the time-window Test 1 self-check is linked from the relevant PR.
 
@@ -83,7 +83,7 @@ The signoffs and lifted-hold reference are in [TODO_RESOLVED_2026-10-19.md](arch
 
 The completed Option A review and process definitions are in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
 
-- [ ] Human-edit the Lane D core proposal for Chapter Nine Part C §8.1 and Chapter Thirteen; Chapter Eighteen §1 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise. The supporting process-ownership draft records the proposed guardrails and resolved design directions; exact core placement, wording, scope, and whether CI-14.205 needs a companion change-record template remain for human review.
+- [ ] Human-edit the Lane D core proposal for Chapter Nine Part C §8.1 and Chapter Fourteen; Chapter Nineteen §1 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise. The supporting process-ownership draft records the proposed guardrails and resolved design directions; exact core placement, wording, scope, and whether CI-15.205 needs a companion change-record template remain for human review.
 
 ### Process, system, and institution — potential follow-ups
 
@@ -94,11 +94,11 @@ The crosswalk is complete within its stated frame: all 88 second-level Chapter O
 - [ ] Decide whether to gather scattered Process principles in a non-normative reader guide.
 - [ ] Revisit whether a third Preamble question is needed only if the process-ownership proposal reveals a concrete gap.
   - Custodian comment (2026-11-03): direct, explicit routing is a principle candidate for later consideration. This records a candidate, not an adopted core principle.
-The custodian's process-ownership design directions for the supporting proposal are recorded in [the resolved-work archive](archive/TODO_RESOLVED_2026-11-02.md). Exact core placement, wording and scope, human editing, and whether CI-14.205 needs a companion change-record template remain open.
+The custodian's process-ownership design directions for the supporting proposal are recorded in [the resolved-work archive](archive/TODO_RESOLVED_2026-11-02.md). Exact core placement, wording and scope, human editing, and whether CI-15.205 needs a companion change-record template remain open.
 
 ### Translation synchronization — paused pending settled English
 
-Translations remain paused under the standing decision in [project/MEMLOG.md](project/MEMLOG.md). Once the steward identifies settled English text and its revision, merge all pending changes for each chapter and synchronize/fidelity-check them together under the supported-language process. The active source clusters are: (1) Chapter One relocation and numbering, §7 reorder, §9/§10 swap, Chapter One Part A introductions, and Meaningful Agency/Consent alignment with Chapter Six; (2) Article XIII-A/XIII-B split and cites, steward-box removal, and the older Chapter Nine §14.2, Chapter Ten, and Chapter Thirteen references; (3) Preamble §§6–7 (2026-09-21) and other files touched by English cleanup; (4) Dissolution Reformation Lock, Chapter Seven §§2–4 and widgets, CF-5.9, CI-3.6.3, Chapter Five entries, Chapter One §16.4, CS-4/time windows, Article XIV-A/Evidence Preservation, Article XXVIII-A/CI-14.4.4, Domain-Specific Materiality, Adoption Document, and TERM-BODY-01; (5) Chapter Ten §3 items 5 and 8, §9.6, §9.3–§11 pointers, and related settled wording. Keep the list here consolidated as English changes settle; do not treat it as authorization to edit translations.
+Translations remain paused under the standing decision in [project/MEMLOG.md](project/MEMLOG.md). Once the steward identifies settled English text and its revision, merge all pending changes for each chapter and synchronize/fidelity-check them together under the supported-language process. The active source clusters are: (1) Chapter One relocation and numbering, §7 reorder, §9/§10 swap, Chapter One Part A introductions, and Meaningful Agency/Consent alignment with Chapter Six; (2) Article XIII-A/XIII-B split and cites, steward-box removal, and the older Chapter Nine §14.2, Chapter Ten, and Chapter Fourteen references; (3) Preamble §§6–7 (2026-09-21) and other files touched by English cleanup; (4) Dissolution Reformation Lock, Chapter Seven §§2–4 and widgets, CF-5.9, CI-3.6.3, Chapter Five entries, Chapter One §16.4, CS-4/time windows, Article XIV-A/Evidence Preservation, Article XXVIII-A/CI-14.4.4, Domain-Specific Materiality, Adoption Document, and TERM-BODY-01; (5) Chapter Ten §3 items 5 and 8, §9.6, §9.3–§11 pointers, and related settled wording. Keep the list here consolidated as English changes settle; do not treat it as authorization to edit translations.
 
 ### Conceptual overview, lived-experience validation, and evaluation
 
@@ -107,7 +107,7 @@ See the [conceptual overview and corpus alignment review](evidence/2026-09-16/co
 - [ ] Test severe-designation boundaries against failed good-faith administration, dissident reform, organized capture, mass protest, and investigative reporting.
 - [ ] Reconcile or justify the 80-year denominator in digital examples W5/W6 of the [LEQU calibration reference](implementation/LEQU_CALIBRATION_REFERENCE.md); collect independent evaluator disagreement and sensitivity near serious-misconduct thresholds.
 - [ ] Test affordable, accessible remedy capacity using the [minimum viable adopter profiles](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md), including actual staffing, cost, delay, and claimant burden.
-- [ ] Demonstrate a protected route to replace an institution under capture; test Article XXVI and Chapter Fifteen together.
+- [ ] Demonstrate a protected route to replace an institution under capture; test Article XXVI and Chapter Sixteen together.
 - [ ] Complete and document the eight ordinary-life and failure exercises in the review's “The world I would endorse” section.
 - [ ] Complete the redesigned human operator sitting and independent review under [evaluation/HUMAN_SITTING_PROTOCOL.md](evaluation/HUMAN_SITTING_PROTOCOL.md); file results under `evaluation/results/`.
 

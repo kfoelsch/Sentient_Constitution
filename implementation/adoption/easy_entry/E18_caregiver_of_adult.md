@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_18.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -69,7 +69,7 @@ See: [Article VIII-A](../../../core_06.005_rights_part_b.md#article-viii-a-famil
 
 - **“I want to decide for them. I know better.”** What they can still do tracks what they can actually show, not your convenience. The page for the adult being taken over is [E06](E06_age_related_challenges.md). This text will not make you their owner to settle a preference contest.
 
-- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, family, or labor law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, family, or labor law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 - **“Don’t put me in a carer type.”** You do not have to take that label to use this page. This brief is for someone doing unpaid care for an adult, when rest or help is being billed as takeover. It does not change the Rights Floor that applies to you. When unpaid care, rest, or a quiet takeover is actually at stake, those rules are located in the sections on [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) and [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body).
 

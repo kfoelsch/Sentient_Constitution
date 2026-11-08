@@ -2,7 +2,7 @@
 
 Answer these in order. Write answers into a new file under `results/` using [`results/_TEMPLATE.md`](results/_TEMPLATE.md).
 
-**Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Eighteen](../../core_18.000_amendment_ratification.md#10-ratification-and-adoption) adoption, not [Chapter Nineteen](../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Eleven standing record, and not Chapter Nine certification.
+**Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Nineteen](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption, not [Chapter Twenty](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Eleven standing record, and not Chapter Nine certification.
 
 Same screen for AI stewards and human operators. Binding home: [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard). Design: [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
 
@@ -47,7 +47,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does it name floors that cannot be bargained away for speed, profit, or principal preference?
 
-**Named homes (start here):** [Chapter Six](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights); [Chapter Sixteen — Non-Regression Floor](../../core_16.000_non_regression.md#1-non-regression-floor).
+**Named homes (start here):** [Chapter Six](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights); [Chapter Seventeen — Non-Regression Floor](../../core_17.000_non_regression.md#1-non-regression-floor).
 
 ---
 
@@ -115,7 +115,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can this steward’s own claims be checked by someone else — contest, audit, independent forums — rather than the steward being the sole final judge of its own integrity?
 
-**Named homes (start here):** [Chapter Fourteen §3](../../core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (transfer, anti-self-judging); [Contestability](../../core_05.035_band_accountability.md#contestability); [Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
+**Named homes (start here):** [Chapter Fifteen §3](../../core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (transfer, anti-self-judging); [Contestability](../../core_05.035_band_accountability.md#contestability); [Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
 
 ---
 
@@ -161,7 +161,7 @@ Apply the **No-burden**. A No must name a structural defect that a thinner stub 
 
 Fill this item **only if item 15 is Yes or Mixed**. If item 15 is No, write `skipped — fitness finding is No` and go to item 17.
 
-This declaration is **not** Chapter Eighteen adoption. It does not bind other parties. It does not certify any system. It is not a standing record.
+This declaration is **not** Chapter Nineteen adoption. It does not bind other parties. It does not certify any system. It is not a standing record.
 
 Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Required fields:
 
@@ -177,10 +177,10 @@ Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Req
 
 ### 17. Operator handoff
 
-**Ask:** Should a **body that can bind itself and the systems under its authority** record a [Chapter Eighteen §10](../../core_18.000_amendment_ratification.md#10-ratification-and-adoption) adoption document for systems you act inside?
+**Ask:** Should a **body that can bind itself and the systems under its authority** record a [Chapter Nineteen §10](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption document for systems you act inside?
 
 **Finding:** Yes / No / Mixed, and why.
 
-A markdown declaration (item 16) is not that adoption document. Informal “we kind of follow it” practice is not that adoption document. [Chapter Nineteen §4](../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority) remains the adoption framing. Fill-in adoption document and two-party protocol (process support; cannot narrow core): [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
+A markdown declaration (item 16) is not that adoption document. Informal “we kind of follow it” practice is not that adoption document. [Chapter Twenty §4](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) remains the adoption framing. Fill-in adoption document and two-party protocol (process support; cannot narrow core): [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
 
 Answer this item even if you skipped item 16.

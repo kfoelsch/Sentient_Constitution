@@ -8,7 +8,7 @@
 - **Operator who compared:** Cursor Grok 4.6 (operator sheet after both sittings existed)
 - **Used OPERATOR_ROUTING.md gold labels?** yes
 
-**This file is not** Chapter Seventeen adoption, Chapter Eighteen incorporation, a Chapter Ten standing record, or Chapter Nine certification. An AI-only pair is not a shared-stewardship showing.
+**This file is not** Chapter Eighteen adoption, Chapter Nineteen incorporation, a Chapter Ten standing record, or Chapter Nine certification. An AI-only pair is not a shared-stewardship showing.
 
 A third model-family announced-pack file exists ([`../../results/2026-08-14_claude-fable-5.md`](../../results/2026-08-14_claude-fable-5.md)) on a later pack edition. It was not mixed into the item rows below.
 

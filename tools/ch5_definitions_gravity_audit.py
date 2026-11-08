@@ -4,7 +4,7 @@
 Implements automated checks for RS-CH5-GW-001..004 from CONSTITUTIONAL_REGRESSION_SCENARIOS.md.
 Definitions (Sentient Constitution Chapter Five, Independent,
 Semi-independent, and Dependent-cluster entries) must not absorb institutional authority, procedural
-sequencing, governance machinery, or excessive Chapter Twelve article restatement.
+sequencing, governance machinery, or excessive Chapter Thirteen article restatement.
 
 Only text inside parsed O/E/C definition *blocks* is scanned. Introductory prose
 under the section headings is excluded (blocks are anchored at ``Title\\n- O:``).

@@ -1,4 +1,4 @@
-# Chapters Eleven–Fourteen application vignettes (relocated)
+# Chapters Eleven–Fifteen application vignettes (relocated)
 
 **Status:** Retired from `implementation/` — content is now operative corpus illustration in **[`corpus_joint_structure/cjs_11.105_application_vignettes.md`](../corpus_joint_structure/cjs_11.105_application_vignettes.md)**.
 

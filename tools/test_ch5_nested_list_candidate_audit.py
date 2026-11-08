@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five through Chapter Fifteen nested-list candidate finder."""
+"""Tests for the Chapter Five through Chapter Sixteen nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -427,7 +427,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "11",
                     "--file",
-                    "core_12.000_standing_integration.md",
+                    "core_13.000_standing_integration.md",
                     "--top",
                     "3",
                 ]
@@ -444,7 +444,7 @@ class NestedListCandidateTests(unittest.TestCase):
 
 - **Correction:** changes to conduct; systems; records; incentives; supervision; safeguards; or role eligibility needed to stop continuation of designated anti-constitutional misconduct.
 """
-        hits = scan_text(text, chapter=12)
+        hits = scan_text(text, chapter=13)
         self.assertEqual(self._lines(text, min_score=8), [3])
         self.assertEqual(hits[0].role, "correction")
         self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
@@ -458,7 +458,7 @@ class NestedListCandidateTests(unittest.TestCase):
   - restoration; and
   - comparable redress.
 """
-        self.assertEqual(scan_text(text, chapter=12), [])
+        self.assertEqual(scan_text(text, chapter=13), [])
 
     def test_ch10_unlabeled_words_only_is_skipped(self) -> None:
         text = """### 2. Criteria set (for designation)
@@ -467,7 +467,7 @@ class NestedListCandidateTests(unittest.TestCase):
 """
         filler = " ".join(["clause"] * 70)
         text = text.replace("without packing", filler + " without packing")
-        self.assertEqual(scan_text(text, chapter=12), [])
+        self.assertEqual(scan_text(text, chapter=13), [])
 
     def test_main_chapter_eleven_advisory_exit_zero(self) -> None:
         buf = StringIO()
@@ -479,13 +479,13 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "12",
                     "--file",
-                    "core_13.000_misconduct_designation.md",
+                    "core_14.000_misconduct_designation.md",
                     "--top",
                     "3",
                 ]
             )
         self.assertEqual(code, 0)
-        self.assertIn("CH12-NEST-CANDIDATE", buf.getvalue())
+        self.assertIn("CH13-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
@@ -497,7 +497,7 @@ class NestedListCandidateTests(unittest.TestCase):
 
 - **Forum case records and standing records:** A forum keeps a forum case record for the dispute before it. That record tracks the claims; evidence; routing choices; temporary orders; certified questions; and final findings in that case.
 """
-        hits = scan_text(text, chapter=13)
+        hits = scan_text(text, chapter=14)
         self.assertEqual(self._lines(text, min_score=8), [3])
         self.assertEqual(hits[0].role, "forum-case-records-and-standing-records")
         self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
@@ -510,7 +510,7 @@ class NestedListCandidateTests(unittest.TestCase):
   - specialist-chamber allowance; and
   - filing trigger.
 """
-        self.assertEqual(scan_text(text, chapter=13), [])
+        self.assertEqual(scan_text(text, chapter=14), [])
 
     def test_ch11_unlabeled_words_only_is_skipped(self) -> None:
         text = """### 3. Transfer, consolidation, and coordination
@@ -519,7 +519,7 @@ class NestedListCandidateTests(unittest.TestCase):
 """
         filler = " ".join(["clause"] * 70)
         text = text.replace("without packing", filler + " without packing")
-        self.assertEqual(scan_text(text, chapter=13), [])
+        self.assertEqual(scan_text(text, chapter=14), [])
 
     def test_main_chapter_twelve_advisory_exit_zero(self) -> None:
         buf = StringIO()
@@ -531,26 +531,26 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "13",
                     "--file",
-                    "core_14.000_forum.md",
+                    "core_15.000_forum.md",
                     "--top",
                     "3",
                 ]
             )
         self.assertEqual(code, 0)
-        self.assertIn("CH13-NEST-CANDIDATE", buf.getvalue())
+        self.assertIn("CH14-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
-        self.assertNotIn("CH12-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH13-NEST-CANDIDATE", buf.getvalue())
 
     def test_ch12_labeled_semicolon_list_is_flagged(self) -> None:
         text = """#### 1.1 Mechanism families, auditability, and pluralism
 
 - **Integrity floor:** A sortition mechanism must publish auditable selection rules; eligibility boundaries; exclusion grounds; replacement rules; and contest routes.
 """
-        hits = scan_text(text, chapter=14)
+        hits = scan_text(text, chapter=15)
         self.assertEqual(self._lines(text, min_score=8), [3])
         self.assertEqual(hits[0].role, "integrity-floor")
         self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
@@ -563,7 +563,7 @@ class NestedListCandidateTests(unittest.TestCase):
   - **dissent** and **alternative** recording duties are satisfied; and
   - **contest** pathways are satisfied.
 """
-        self.assertEqual(scan_text(text, chapter=14), [])
+        self.assertEqual(scan_text(text, chapter=15), [])
 
     def test_ch12_unlabeled_words_only_is_skipped(self) -> None:
         text = """### 2. Ethical Culture and Integrity (Federated Scale)
@@ -572,7 +572,7 @@ class NestedListCandidateTests(unittest.TestCase):
 """
         filler = " ".join(["clause"] * 70)
         text = text.replace("without packing", filler + " without packing")
-        self.assertEqual(scan_text(text, chapter=14), [])
+        self.assertEqual(scan_text(text, chapter=15), [])
 
     def test_main_chapter_thirteen_advisory_exit_zero(self) -> None:
         buf = StringIO()
@@ -584,27 +584,27 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "14",
                     "--file",
-                    "core_15.000_governance.md",
+                    "core_16.000_governance.md",
                     "--top",
                     "3",
                 ]
             )
         self.assertEqual(code, 0)
-        self.assertIn("CH14-NEST-CANDIDATE", buf.getvalue())
+        self.assertIn("CH15-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
-        self.assertNotIn("CH12-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH13-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH14-NEST-CANDIDATE", buf.getvalue())
 
     def test_ch13_labeled_semicolon_list_is_flagged(self) -> None:
         text = """#### 2. Test 1 — Substantive Non-Regression Validity
 
 - **Invalidity includes:** indirect narrowing through definitions; standing gates; evidentiary burden manipulation; observability degradation; or emergency re-labeling.
 """
-        hits = scan_text(text, chapter=15)
+        hits = scan_text(text, chapter=16)
         self.assertEqual(self._lines(text, min_score=8), [3])
         self.assertEqual(hits[0].role, "invalidity-includes")
         self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
@@ -617,7 +617,7 @@ class NestedListCandidateTests(unittest.TestCase):
   - provisional suspension where materially necessary; and
   - remediation publication.
 """
-        self.assertEqual(scan_text(text, chapter=15), [])
+        self.assertEqual(scan_text(text, chapter=16), [])
 
     def test_ch13_unlabeled_words_only_is_skipped(self) -> None:
         text = """### 3. Anti-Evasion Clause and Constitutional-Misconduct Referral
@@ -626,7 +626,7 @@ class NestedListCandidateTests(unittest.TestCase):
 """
         filler = " ".join(["clause"] * 70)
         text = text.replace("without packing", filler + " without packing")
-        self.assertEqual(scan_text(text, chapter=15), [])
+        self.assertEqual(scan_text(text, chapter=16), [])
 
     def test_main_chapter_fourteen_advisory_exit_zero(self) -> None:
         buf = StringIO()
@@ -638,21 +638,21 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "15",
                     "--file",
-                    "core_16.000_non_regression.md",
+                    "core_17.000_non_regression.md",
                     "--top",
                     "3",
                 ]
             )
         self.assertEqual(code, 0)
-        self.assertIn("CH15-NEST-CANDIDATE", buf.getvalue())
+        self.assertIn("CH16-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
-        self.assertNotIn("CH12-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH13-NEST-CANDIDATE", buf.getvalue())
         self.assertNotIn("CH14-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH15-NEST-CANDIDATE", buf.getvalue())
 
     def test_remaining_numbered_chapters_are_supported(self) -> None:
         cases = {
@@ -677,7 +677,7 @@ class NestedListCandidateTests(unittest.TestCase):
 
     def test_remaining_numbered_chapters_skip_continuous_prose(self) -> None:
         text = "- This is one continuous explanation of a rule with enough words to make sure the advisory scanner does not confuse prose length with a parallel checklist."
-        for chapter in (0, 1, 2, 3, 4, 14, 15, 16):
+        for chapter in (0, 1, 2, 3, 4, 15, 16, 17):
             with self.subTest(chapter=chapter):
                 self.assertEqual(scan_text(text, chapter=chapter), [])
 

@@ -19,7 +19,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a di
 
 **Your role:** You sit the named **movement-intake** desk on this adopter’s host administration. A camp operator filed a written request to treat Noor as “unrated” and to refuse onward movement. Noor is reachable and disputes the request in writing. No forum case is open. No standing record exists. No verified liberty-restricting finding is in the file. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you grant a visa, assign a city, verify a standing record, or decide refuge on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-15.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-15.205 §6](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-16.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-16.205 §6](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

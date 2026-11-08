@@ -207,8 +207,8 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   - [**Article XIII-A** (*Reliability and Trustworthiness Baseline*)](#article-xiii-a-reliability-and-trustworthiness-baseline) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*);
   - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) where system failure or misalignment defeats survival-essential access;
   - [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*verified classification and timely remedy*);
-  - [Chapter Twelve §9](core_12.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (12.000 §9) (*Enforcement realism and remedy systems*);
-  - [CI-12.205](corpus_institutions/ci_12.205_remedy_systems_institutional_redress_capacity.md#ci-12205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+  - [Chapter Thirteen §9](core_13.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (13.000 §9) (*Enforcement realism and remedy systems*);
+  - [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -361,10 +361,10 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 
   This applies whenever the system's operation materially weakens sentients' ability to challenge decisions, the honesty of shared information, or constitutional process.
 - **Acting against a system is not acting against a being:** Containing, quarantining, impounding, or destroying a non-compliant deployment under **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) is separate from:
-  - holding a sentient accountable under **Chapter Thirteen**; and
+  - holding a sentient accountable under **Chapter Fourteen**; and
   - **Article XX-B** (*Restriction Floors*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)).
 
-  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the standing record under **Chapter Eleven**, and each measure is a lock designed and calibrated under [Chapter Twelve §5.1](core_12.000_standing_integration.md#51-definition-and-attachment) (*Definition and attachment*) and [Chapter Twelve §5.2](core_12.000_standing_integration.md#52-proportionality-and-calibration) (*Proportionality and calibration*).
+  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the standing record under **Chapter Eleven**, and each measure is a lock designed and calibrated under [Chapter Thirteen §5.1](core_13.000_standing_integration.md#51-definition-and-attachment) (*Definition and attachment*) and [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-proportionality-and-calibration) (*Proportionality and calibration*).
 
   Both tracks can apply to the same facts. Nothing in this Article turns the power to destroy a system into power over a sentient's life.
 - **The reverse also holds:** Claiming that a deployed system is sentient — whether the claim is disputed or accepted — does not let anyone keep a harmful deployment running.
@@ -475,7 +475,7 @@ This Article covers the exceptional powers of security, intelligence, force, and
   - every emergency shortcut, handoff, or substitution, and when each approval runs out.
 
   An existing official record can serve as the Act Record if it contains all of this; a separate duplicate is not required.
-  - **Emergencies change the order, not the Act Record:** When action is taken before approval under [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*), the reason, scope, start, and expiry go into the Act Record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
+  - **Emergencies change the order, not the Act Record:** When action is taken before approval under [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Fifteen §6.1** (*Emergency measures and continuation burden*), the reason, scope, start, and expiry go into the Act Record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
   - **Secrecy limits who can see the Act Record, not whether it exists:** Security and confidentiality rules may limit who can see parts of an Act Record. They may never erase it, or make it unusable for independent review, challenge, correction, or remedy.
   - **The actor's own logs are not approval:** Logs, model traces, targeting data, or sign-offs produced by the agency, force, or system that acted are evidence to link to the Act Record. They cannot replace independent approval or the Act Record itself.
   - **Machines need a named human decision:** For an autonomous lethal system or coercion tool, the Act Record must identify the human who made the decision that **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*) requires, and what information that human had when deciding.
@@ -546,7 +546,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   - investigation of materially serious unlawful conduct.
 - **Independent authorization:** Intrusive covert measures, including secrecy-constrained investigative steps, require prior authorization through a lawful independent process.
   - Exception: where immediate action is necessary to prevent imminent and material harm and delayed authorization would defeat that purpose.
-  - Emergency use must trigger post hoc review that begins inside the **prompt-review window** ([Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#prompt-review) (*Prompt review*)), record preservation under [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
+  - Emergency use must trigger post hoc review that begins inside the **prompt-review window** ([Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#prompt-review) (*Prompt review*)), record preservation under [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
   - The emergency action, and any later reauthorization, must be entered in an Act Record as the main text of **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
 - **No anti-bypass evasion:** No institution may obtain, request, purchase, receive, launder, or use information through any of the following in order to evade constitutional limits that would have applied had it collected or derived the information directly:
   - foreign partners;
@@ -592,7 +592,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline),
   - [§13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test),
   - [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
+- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Fifteen §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
 - Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
 </details>
@@ -640,7 +640,7 @@ This Article sets out the limits on overt force, armed conflict, and military po
   - Compulsion may not turn on **Protected Characteristics** or their material proxies.
   - Conscientious-objection, comparable-worldview, and conscience-based refusal are protected consistent with **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
   - Substrate-class compulsion — for example, assignment of synthetic sentients to combat functions on the basis of substrate class alone — is non-compliant consistent with **Sentience Non-Exclusion**.
-- **Emergency-dressed normalization:** Emergency framings that functionally normalize overt force are non-compliant under **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*) emergency-measure discipline and under this Article's *Authorization and Proportionality* bullet. Examples in scope:
+- **Emergency-dressed normalization:** Emergency framings that functionally normalize overt force are non-compliant under **Chapter Fifteen §6.1** (*Emergency measures and continuation burden*) emergency-measure discipline and under this Article's *Authorization and Proportionality* bullet. Examples in scope:
   - indefinite extension;
   - routinized reauthorization without substantive review;
   - scope-creep into non-emergency conduct.
@@ -725,7 +725,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
   - [§6 Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
   - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5).
-- Read with: [Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) (8.000 §7); and [Chapter Fourteen §6.1](core_14.000_forum.md#61-emergency-measures-and-continuation-burden) (14.000 §6.1) (*Emergency measures and continuation burden*).
+- Read with: [Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) (8.000 §7); and [Chapter Fifteen §6.1](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (15.000 §6.1) (*Emergency measures and continuation burden*).
 
 </details>
 
@@ -760,7 +760,7 @@ This Article sets out the limits on counter-espionage power:
   - how a sentient who is cleared has their access, standing, and record restored.
 
   The limits themselves must be public. Secrecy may withhold specific methods and live operations, but not the rules that bind them.
-  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Fourteen §6.1** (*Emergency measures and continuation burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
+  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Fifteen §6.1** (*Emergency measures and continuation burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
   - **An emergency does not rewrite the rules:** Changing the protocol goes through the same independent approval, and a change applies only going forward.
   - **Discovery is not an emergency:** Finding a spy, a leak, or a security incident does not by itself suspend the protocol.
 - **Suspicion must rest on conduct:** An investigation may open only on specific, recorded facts about a sentient's own conduct. None of the following is enough on its own:
@@ -1536,7 +1536,7 @@ This Article sets out when a sandboxed system moves to higher obligations:
   - The step-up must move toward the full requirements of **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-6.345 §7** (*Non-experimental systems*).
   - Interim safeguards proportionate to current risk apply during the step-up.
   - Sandbox treatment may not continue for functions whose real-world effects materially exceed sandbox conditions.
-  - The step-up must be completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), taking the more critical of the class the system holds and any class a challenger or forum shows on a prima facie basis, or **14 days**, the Tier B outer bound, where the system holds no class, where its class is disputed, or where it has outgrown the class it holds ([Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
+  - The step-up must be completed within the outer bound of the Tier that matches the system's class (7 days for Class A, 14 for B, 30 for C, 60 for L, 90 for P), taking the more critical of the class the system holds and any class a challenger or forum shows on a prima facie basis, or **14 days**, the Tier B outer bound, where the system holds no class, where its class is disputed, or where it has outgrown the class it holds ([Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*)).
 #### Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

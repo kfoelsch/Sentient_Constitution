@@ -114,7 +114,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 - Downstream: Timeliness measurement family — link-only rollup; per-term layers live on leaf definitions — see [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
 - Read with: [Participation](core_05.025_apex_participation_leg.md#participation-constitutional), [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional), and [Accountability](core_05.005_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Fourteen §6](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (14.000 §6).
+- Read with: [Chapter Fifteen §6](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (15.000 §6).
 
 </details>
 

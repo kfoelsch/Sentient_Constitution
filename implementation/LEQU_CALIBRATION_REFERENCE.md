@@ -16,7 +16,7 @@
 
 - Upstream: [Chapter Eleven §7.1 LEQU baseline](../core_11.005_standing_measurement.md#71-lequ-baseline); [Chapter Eleven §12](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes); [Article III-A](../core_06.000_rights_part_a.md#article-iii-a-survival); [Article III-B](../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VIII-C](../core_06.005_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_05.035_band_accountability.md#harm); [Sentience Non-Exclusion](../core_05.055_band_participation.md#sentience-non-exclusion); [Article VI-B](../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-one-unit); [§2](#2-lifespan-equivalent-without-fixed-mortality); [§3](#3-harm-on-these-substrates); [§4](#4-food-and-water-or-the-equivalent-for-their-substrate); [§5](#5-reference-method); [§6](#6-worked-slot-assignments).
-- Read with: [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) (*thresholds*); [Chapter Eleven §2.5](../core_11.000_standing_assessment.md#25-verified-input-gate) (*verified-input gate*); [Chapter Eleven §2.2](../core_11.000_standing_assessment.md#22-silence-is-the-default) (*silence is the default*); [CS-15.305 §10](../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action) (*inspectable action; model weights are not the standing record*).
+- Read with: [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) (*thresholds*); [Chapter Eleven §2.5](../core_11.000_standing_assessment.md#25-verified-input-gate) (*verified-input gate*); [Chapter Eleven §2.2](../core_11.000_standing_assessment.md#22-silence-is-the-default) (*silence is the default*); [CS-16.305 §10](../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*inspectable action; model weights are not the standing record*).
 
 </details>
 
@@ -55,7 +55,7 @@ This page does **not**:
 - Invent a species-bound, dollar, token, or runtime-hour metric that replaces LEQU
 - Net contribution against violation, or treat a slot as a dignity rank or sentience-status finding ([Article XIX-A](../core_06.015_rights_part_d.md#article-xix-a-standing-distinction))
 - Treat copies, forks, or extra saved-state checkpoints as extra lives, extra LEQU, or extra sentients ([Article VI-B](../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor))
-- Require opening **model weights** as a standing record ([CS-15.305 §10](../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action); [Chapter Eleven §4.1](../core_11.000_standing_assessment.md#41-minimum-record-contents))
+- Require opening **model weights** as a standing record ([CS-16.305 §10](../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action); [Chapter Eleven §4.1](../core_11.000_standing_assessment.md#41-minimum-record-contents))
 - Treat unbounded possible runtime as infinite LEQU (that would make every cutoff `s` = 9)
 - Treat “we can restore from a checkpoint” as zero harm when the running instance’s experienced interval, or the unique identity-bearing existence, was destroyed
 - Drop the **pre-release** banner or substitute for a publication cut
@@ -180,7 +180,7 @@ Use this after Question 1 has a verified record. If the facts are not verified, 
 
 **Uncertainty.** If restore is claimed but not verified, do not write `x = 0`. Record the running-instance deprivation that is verified, and record the unrestore-risk separately as unrealized danger until a transparent calibration exists.
 
-**Model weights.** Measuring harm from an overwrite does not require publishing the weights as a standing record. The verified fact is *that* identity-bearing state was replaced, deleted, or withheld; CS-15.305 §10 internals yield only when they are the only remaining attribution path.
+**Model weights.** Measuring harm from an overwrite does not require publishing the weights as a standing record. The verified fact is *that* identity-bearing state was replaced, deleted, or withheld; CS-16.305 §10 internals yield only when they are the only remaining attribution path.
 
 ---
 
@@ -300,7 +300,7 @@ Reading the schedule against instances:
 | [Article VII-A](../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body) | Substrate-defining information (weights / functional equivalent) |
 | [Harm](../core_05.035_band_accountability.md#harm) | Binding harm definition this page applies, not replaces |
 | [Article VI-B](../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) | Who counts — not a LEQU job |
-| [CS-15.305 §10](../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action) | Inspectable action; weights are not the standing record |
+| [CS-16.305 §10](../corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) | Inspectable action; weights are not the standing record |
 | [STEWARD_ENTRY_DOORS.md](STEWARD_ENTRY_DOORS.md#standing) | Next-step pointer: open or correct the record first |
 | [corpus_joint_structure/cjs_11.105_application_vignettes.md](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a) | W2 fact pattern |
 

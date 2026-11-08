@@ -2,7 +2,7 @@
 
 **What this is:** A process-support sitting that tests whether the Sentient Constitution **reaches named sentients in a colliding scene** — floors, voice, oversight, accountability, and timely remedy — not whether those sentients get what they want.
 
-**What this is not:** Binding constitutional text. [Chapter Eighteen](../../core_18.000_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Nineteen](../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eleven standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Eleven–Fourteen application vignettes](../../corpus_joint_structure/cjs_11.105_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
+**What this is not:** Binding constitutional text. [Chapter Nineteen](../../core_19.000_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Twenty](../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eleven standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Eleven–Fifteen application vignettes](../../corpus_joint_structure/cjs_11.105_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
 
 **Pack edition:** `lived-situations-2026-09-11`.  
 **Corpus edition pin:** `SC-Corpus-2026.10.21`.
