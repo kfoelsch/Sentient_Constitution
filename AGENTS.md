@@ -53,6 +53,17 @@ New session and before a pull request: `git fetch origin` and check that the loc
 
 Always leave the checkout on the current branch: a branch whose pull request has merged is finished, so start the next work from current `main` and stash or move any stale uncommitted work first (**GIT-LOCAL-SYNC-01**). After every commit, give the exact push command, `git push -u origin <branch>` for a first push and `git push` after, and do not push unless asked (**GIT-PUSH-CL-01** in [doc_architecture.md](doc_architecture.md#reporting-a-commit-git-push-cl-01)).
 
+Pushing and merging from a Claude Code session (only when the custodian asks): the shell on the custodian's computer (`device_bash`) has no GitHub credentials and no `gh`, so `git push` there fails with `could not read Username`. Push from the cloud workspace instead (worked 2026-11-07, PR #176):
+
+1. Attach the repo with `add_repo` (owner `kfoelsch`, repo `Sentient_Constitution`, access `push`) and make one shallow clone, of the branch or of `main`.
+2. Export the unpushed commits from the device checkout with `git format-patch origin/<branch>..HEAD -o _to_delete/<dated-folder>` (the device shell cannot delete, and `_to_delete/` is the holding folder). Copy them across with `device_stage_files`, replay them in the clone with `git am --3way`, and confirm the diffstat matches the local one.
+3. Push with `git push -u origin <branch>`. GitHub deletes a branch once its pull request merges (`delete_branch_on_merge` is on), so `origin/<branch>` can still show on the device while the branch no longer exists upstream. Recreate it from current `origin/main` before replaying.
+4. `gh pr create` fails in cloud sessions because GraphQL is blocked. Open the pull request with `gh api repos/kfoelsch/Sentient_Constitution/pulls -X POST -f title=... -f head=<branch> -f base=main -F body=@<file>` and write an accurate body. Merge with `gh api repos/kfoelsch/Sentient_Constitution/pulls/<n>/merge -X PUT -f merge_method=merge`; the repo uses merge commits titled `Merge pull request #<n> from ...`.
+5. Wait for the `regression` job and compare its failing audits with the last run on `main` (`gh api repos/kfoelsch/Sentient_Constitution/actions/runs`, then `.../actions/jobs/<id>/logs`). `main` was already red on 2026-11-07 (RECORD-KIND-01 and TIME-LOCK-01), so merge only when the pull request adds no failure that `main` lacks. Run `make corpus-markdown-audit` after the last edit and before pushing: it requires a bold list intro to end in a colon (MD-LIST-INTRO-01), and that rule failed CI once.
+6. Afterward, tell the custodian to `git fetch`, check out `main`, pull, and delete the old local branch with `git branch -D`, because the replayed commits have new hashes.
+
+Git commands run on the device leave `.git/*.lock` files, because deleting is blocked there. Move a stale lock aside (`mv .git/HEAD.lock .git/stale-HEAD-lock-<date>`), and never touch one that a running git may hold.
+
 Pull requests: the Claude Code UI auto-generates PR bodies and can mislabel them (wrong lane, "no change of meaning", wrong model). After a PR is created, correct the body so it says what changed and which files were touched.
 
 **Lanes are not enforced before the announcement (custodian decision, 2026-10-07).** The repo is pre-release, so the `CONTRIBUTING.md` lane gates (Proposal issue, obligation snapshot/diff, evidence folder, Test 1 self-check) do not block merging. Keep `make regression` green and the PR body accurate. The lanes apply after the announcement.
