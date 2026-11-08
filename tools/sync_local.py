@@ -74,7 +74,8 @@ def sync(root: Path, *, fetch: bool = True, dry_run: bool = False, delete_merged
     head = git(root, "rev-parse", "--short", "origin/main").stdout.strip()
     here = current_branch(root)
     dirty = tracked_changes(root)
-    verb = "would " if dry_run else ""
+    def said(done: str, plan: str) -> str:
+        return f"would {plan}" if dry_run else done
 
     # 3. leave a merged branch we are standing on (done first so main can then be fast-forwarded in place)
     if here and here != "main":
@@ -86,7 +87,7 @@ def sync(root: Path, *, fetch: bool = True, dry_run: bool = False, delete_merged
             elif dirty:
                 say.append(f"stayed on {here}: merged, but {len(dirty)} tracked file(s) have uncommitted changes")
             else:
-                say.append(f"{verb}switched from merged branch {here} to main and deleted {here}")
+                say.append(said(f"switched from merged branch {here} to main and deleted {here}", f"switch from merged branch {here} to main and delete {here}"))
                 if not dry_run:
                     git(root, "switch", "main", check=True)
                     git(root, "branch", "-D", here, check=True)
@@ -106,11 +107,11 @@ def sync(root: Path, *, fetch: bool = True, dry_run: bool = False, delete_merged
             if dirty:
                 say.append(f"main is {behind} behind origin/main but {len(dirty)} tracked file(s) have uncommitted changes; not updated")
             else:
-                say.append(f"{verb}fast-forwarded main by {behind} commit(s) to {head}")
+                say.append(said(f"fast-forwarded main by {behind} commit(s) to {head}", f"fast-forward main by {behind} commit(s) to {head}"))
                 if not dry_run:
                     git(root, "merge", "--ff-only", "origin/main", check=True)
         else:
-            say.append(f"{verb}fast-forwarded main by {behind} commit(s) to {head}")
+            say.append(said(f"fast-forwarded main by {behind} commit(s) to {head}", f"fast-forward main by {behind} commit(s) to {head}"))
             if not dry_run:
                 git(root, "fetch", "origin", "main:main", check=True)
 
@@ -123,7 +124,7 @@ def sync(root: Path, *, fetch: bool = True, dry_run: bool = False, delete_merged
         if n:
             say.append(f"kept {b['name']}: remote gone, {n} commit(s) not in origin/main")
         elif delete_merged:
-            say.append(f"{verb}deleted merged branch {b['name']}")
+            say.append(said(f"deleted merged branch {b['name']}", f"delete merged branch {b['name']}"))
             if not dry_run:
                 git(root, "branch", "-D", b["name"], check=True)
         else:
