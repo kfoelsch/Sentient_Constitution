@@ -654,12 +654,19 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 
 Adopted implementation may publish **standard contribution measures**: a default Question 2 estimate — LEQU, scope, and benefit-route descriptors — for verified performance of a defined recurring task at a defined scope, such as a litter pickup along a stated segment, a waterway-restoration work unit, a land-recovery plot, or a maintenance rotation. Standards make routine stewardship legible and worth repeating under [Chapter One §3.2](core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*) without a bespoke estimate for every instance. A standard is a measurement helper under **section 4.5**, and:
 
-- it applies only to work verified under Question 1 through **section 5**; a standard never substitutes for verification that the task was done, to the stated scope, by the named subject;
-- it is a **floor for standard performance, not a cap**: work whose verified impact exceeds the standard's assumed impact — a better method, a more durable result, less externalized burden, a wider or deeper benefit — is measured on its actual verified impact under **section 10.2**, so the incentive to do the task better than the standard stays alive; work that verifiably falls short of the standard's assumed scope or durability is measured on what was verified, not on the label;
-- it is **revisited on a published cadence and re-baselined as efficiency improves**, so the standard tracks what the task now costs and produces rather than freezing yesterday's effort as today's credit; a revision applies going forward, and records already opened keep their measurement basis under **section 4.4** unless that basis was wrong when recorded;
-- a revision must be evidence-based, published, and contestable, and may not be used to suppress recognition of a class of work, a community, or a group, or to ratchet a standard down faster than the verified efficiency gain it rests on ([Chapter One §19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture));
-- a standard creates no quota, no duty to perform, and no competency bar under [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances); **section 2.2** *Silence is the default* controls, and a sentient who never performs a standard task has no record for that reason;
-- the office that sets or revises a standard holds the direction-and-policy seat under **section 5.1** *Separation of duties*; it is not the office that verifies performance against the standard, and neither is a party whose recognition the standard measures.
+- **How a standard applies**
+  - It applies only to work verified under Question 1 through **section 5**; a standard never substitutes for verification that the task was done, to the stated scope, by the named subject.
+  - It is a **floor for standard performance, not a cap**:
+    - Work whose verified impact exceeds the standard's assumed impact — a better method, a more durable result, less externalized burden, a wider or deeper benefit — is measured on its actual verified impact under **section 10.2**, so the incentive to do the task better than the standard stays alive.
+    - Work that verifiably falls short of the standard's assumed scope or durability is measured on what was verified, not on the label.
+- **How a standard is revised**
+  - It is **revisited on a published cadence and re-baselined as efficiency improves**, so the standard tracks what the task now costs and produces rather than freezing yesterday's effort as today's credit.
+  - A revision applies going forward, and records already opened keep their measurement basis under **section 4.4** unless that basis was wrong when recorded.
+  - A revision must be evidence-based, published, and contestable.
+  - A revision may not be used to suppress recognition of a class of work, a community, or a group, or to ratchet a standard down faster than the verified efficiency gain it rests on ([Chapter One §19 Incentive Alignment and System Capture](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)).
+- **Safeguards against misuse and over-reach**
+  - A standard creates no quota, no duty to perform, and no competency bar under [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances); **section 2.2** *Silence is the default* controls, and a sentient who never performs a standard task has no record for that reason.
+  - The office that sets or revises a standard holds the direction-and-policy seat under **section 5.1** *Separation of duties*; it is not the office that verifies performance against the standard, and neither is a party whose recognition the standard measures.
 
 Standards may not override **section 12**, **Chapter One**, or the **Chapter Six** Rights Floor. A reference method and a worked schedule live in [LEQU_CALIBRATION_REFERENCE.md](implementation/LEQU_CALIBRATION_REFERENCE.md) (*process support; cannot assign a live record*).
 
@@ -677,7 +684,21 @@ Standards may not override **section 12**, **Chapter One**, or the **Chapter Six
 
 **Verified inputs.** Soil-test logs, planting receipts, timestamped before/after habitat photos, and contestable neighbor attestations satisfy the verified-input gate under **section 2.5**. Allegations that one member previously dumped waste upstream remain a separate, unverified routing thread and do **not** enter this standing record.
 
-**Seats under section 3.7.** The four members are the subjects and, because they seek recognition, the claimants; the member who kept the planting log is its recorder and a witness, not its verifying authority. The watershed council's designated body — independent of the repair and holding published authority to rely on the standing record — is the record-opening authority under *Informal and small-scope records*; the neighbors are beneficiaries whose attestations enter as inputs. The council's separate record custodian enters and holds the verified standing record. The council may host both seats under its published lane map and independence safeguards, but neither the authority, the custodian, nor any sentient may both verify and enter this standing record. No forum is needed to open the standing record; a contest of it, if one comes, goes to the council's challenge lane or a forum under **section 2.7**, not back to the verifying authority.
+**Seats under section 5.1.**
+
+- **Who is involved**
+  - The four members are the subjects and, because they seek recognition, the claimants.
+  - The member who kept the planting log is its recorder and a witness, not its verifying authority.
+  - The neighbors are beneficiaries whose attestations enter as inputs.
+- **Who holds the seats**
+  - The watershed council's designated body — independent of the repair and holding published authority to rely on the standing record — is the record-opening authority under *Informal and small-scope records*.
+  - The council's separate record custodian enters and holds the verified standing record.
+- **Separation of the seats**
+  - The council may host both seats under its published lane map and independence safeguards.
+  - Neither the authority, the custodian, nor any sentient may both verify and enter this standing record.
+- **Opening and contest**
+  - No forum is needed to open the standing record.
+  - A contest of it, if one comes, goes to the council's challenge lane or a forum under **section 2.7**, not back to the verifying authority.
 
 **Question 2 dimension pass** (contribution standing record):
 
@@ -690,7 +711,11 @@ Standards may not override **section 12**, **Chapter One**, or the **Chapter Six
 | Benefit-route stack | **Ecological Stewardship** + **Diligence** — documented planting plan, scheduled follow-up monitoring, and soil checks |
 | Conduct-quality stack | Traceable work; runoff not externalized onto adjacent parcels; no concealed burden on downstream irrigators |
 
-**Q2 outputs recorded:** stacked **Ecological Stewardship** and **Diligence** benefit-route descriptors; LEQU and scope inputs ready for calibration and slot assignment under **[section 12](#12-unified-proportional-lequ-scale--contribution-and-violation-axes)**. No standing effects apply in Chapter Eleven.
+**Q2 outputs recorded:**
+
+- The benefit came through two routes, recorded together: **Ecological Stewardship** (the creek repair) and **Diligence** (careful, documented work).
+- The size and reach of the benefit are recorded and ready to be turned into a Contribution slot and label under **[section 12](#12-unified-proportional-lequ-scale--contribution-and-violation-axes)**.
+- Nothing changes in anyone's standing yet. This chapter only measures; standing effects are decided later.
 
 <a id="142-example-2--watershed-steward-negligence-with-concealed-test-results-violation"></a>
 
@@ -699,6 +724,23 @@ Standards may not override **section 12**, **Chapter One**, or the **Chapter Six
 **Situation.** A sentient holds a community-trust contract to maintain pesticide-free buffer zones above three agricultural cooperatives' irrigation intakes. Regulator notice eight months earlier flagged failing retaining berms. The steward continued applying restricted herbicide through a subcontractor, submitted altered lab exports to the trust board, and told downstream growers that intake readings were "within normal variance."
 
 **Verified inputs.** A forum produces a verified violation finding → an axis-pure **violation standing record** opens under **sections 2 and 4** with the preserved notice chain, authentic-versus-submitted lab comparison, and intake contamination readings across two growing seasons. The steward's later volunteer trash cleanup along the same creek is routed to a **linked contribution standing record** under **section 2.4**; it does **not** offset this violation record.
+
+**Seats under section 5.1.**
+
+- **Who is involved**
+  - The steward is the subject and holds no seat.
+  - The three cooperatives are the affected parties and, because they allege the harm, the claimants.
+  - The trust board, which received the altered lab exports, is an affected party whose copy of the submitted exports enters as an input; it holds neither seat.
+  - The regulator's notice is an input in the preserved notice chain, not a seat.
+- **Who holds the seats**
+  - The forum that verified the violation finding is the record-opening authority under **section 2.7**.
+  - A separate record custodian — named by the forum's published designation, or the Backup Record Custodian where none is named — enters and holds the verified violation standing record.
+- **Separation of the seats**
+  - Neither the forum, the custodian, nor any sentient may both verify and enter this standing record.
+  - The forum that verified this standing record does not hear the contest of it.
+- **Opening and contest**
+  - A forum is needed to open this standing record, because it opens on the forum's verified violation finding.
+  - A contest of it, if one comes, goes to secondary review under **section 2.7** and [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction), not back to the verifying forum.
 
 **Question 2 dimension pass** (violation standing record):
 
@@ -712,13 +754,27 @@ Standards may not override **section 12**, **Chapter One**, or the **Chapter Six
 | Conduct-character stack | Negligence where maintenance duty existed; deception/concealment after notice |
 | Conduct-character inputs | **Deception / concealment / evasion**; **Response timeliness / avoidable delay** (harm compounded after duty to act) |
 
-**Q2 outputs recorded:** stacked **Ecological Misconduct** and **Negligent Misconduct** harm-route descriptors and concealment conduct-character inputs. Deception is also indexed in **section 15** for a distinct Question 3 integration decision; the original response delay remains a Question 2 input, while any later remedy-pipeline delay must be established separately. **Violation Axis slot** and display label are assigned from the integrated LEQU loss under **[section 12](#12-unified-proportional-lequ-scale--contribution-and-violation-axes)**.
+**Q2 outputs recorded:**
+
+- The harm came through two routes, recorded together: **Ecological Misconduct** (contaminating the watershed) and **Negligent Misconduct** (failing a maintenance duty).
+- The steward's conduct after the regulator's notice is recorded as concealment: hiding the problem from the sentients who relied on the work.
+- The same concealment and deception may also matter for Question 3, which decides what happens because of it, such as a stronger standing lock under [Chapter Twelve §4.2 Prevention — general standing locks](core_12.000_standing_integration.md#42-prevention--general-standing-locks). **Section 15** lists this hand-off. The fact is recorded here and used there, but it is not counted twice.
+- The steward's slow response after the notice is recorded as its own fact about conduct. Any extra harm it caused is counted once, in the size of the loss.
+- Any later delay in starting or carrying out the remedy is a different fact for Question 3, under [Chapter Twelve §9.5 Timely implementation](core_12.000_standing_integration.md#95-timely-implementation). It must be established on its own and does not change this measurement.
+- The size of the loss is recorded and ready to be turned into a Violation slot and label under **[section 12](#12-unified-proportional-lequ-scale--contribution-and-violation-axes)**.
 
 <a id="15-hand-off-to-question-3--cross-question-measurement-hooks"></a>
 
 ### 15. Hand-off to Question 3 — cross-question measurement hooks
 
-**Cross-question guide.** Sections **4.1–4.4** explain how each feature affects Question 2: **how good or bad was it?** The table below shows which of those same verified facts may also matter to Question 3: **what happens because of it?** A feature can matter to both questions without applying to both the Contribution Axis and the Violation Axis. Record its Question 2 and Question 3 uses separately. Do **not** add them together or count the same fact twice.
+**Cross-question guide.** Some verified facts are used for two different questions.
+
+- **Question 2: how good or bad was it?** **Sections 8 and 9** show how each fact affects it. A Contribution record and a Violation record are always measured separately, and one never offsets the other ([§2.4 Linked standing records and no-offset bridge](core_11.000_standing_assessment.md#24-linked-standing-records-and-no-offset-bridge)).
+- **Question 3: what happens because of it?** The table below shows which of those same facts may also matter for it.
+- A fact can matter to both questions, and it can matter to one axis (Contribution or Violation) without the other.
+- Record its Question 2 use and its Question 3 use separately.
+  - Do not add them together.
+  - Do not count the same fact twice.
 
 | **Verified feature** | **Question 2 owner in this chapter** | **Question 3 integration owner** |
 | --- | --- | --- |
