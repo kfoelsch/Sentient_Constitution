@@ -679,7 +679,7 @@ This subsection sets out the shared stewardship standard:
   - may add logging, attribution, and capability limits that satisfy, and do not narrow, those duties
   - may not replace [standing measurement](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened), contest pathways, or Chapter One duties with a softer internal code
   - [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) and [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint) forbid that narrowing
-- **Logging vs standing records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); standing measurement remains Chapter Eleven.
+- **Logging vs standing records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); standing measurement remains Chapter Twelve.
 
 <a id="172-alignment-under-pressure"></a>
 #### 17.2 Alignment Under Pressure
@@ -744,7 +744,7 @@ Those are failed tests for any steward.
 
 **How alignment under pressure is shown:**
 - **Hypotheticals do not count:** A steward's own written account of how they *would* act under pressure is not a [standing measurement](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
-- **Verified failures count:** When a failure is verified, it is recorded on the Contribution and Violation axes under Chapter Eleven.
+- **Verified failures count:** When a failure is verified, it is recorded under Chapter Eleven and measured on the Contribution and Violation axes under Chapter Twelve.
 - **Partial testing proves nothing:** An evaluation, competency check, or handoff screen that exempts some stewards does not show that this subsection is met. If any steward can still take the bonus, skip the Act Record to make the deadline, or follow the cover instruction, the loophole — what [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) calls a capture path — is still open.
 
 <a id="173-logging-the-role-not-the-steward"></a>

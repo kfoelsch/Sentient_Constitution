@@ -21,7 +21,7 @@ Think of a path from system check to remedy. **Forums supervise throughout.** Th
 
 ```mermaid
 flowchart TB
-  C[Certify the system<br/><br/>Chapter Nine] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapter Eleven]
+  C[Certify the system<br/><br/>Chapter Nine] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapters Eleven and Twelve]
   A0((A)) --> C
   S --> E[Effects and remedy<br/><br/>Chapter Thirteen]
   E --> F[Forum families<br/><br/>Chapter Fifteen]
@@ -39,7 +39,7 @@ flowchart TB
 1. **Certify the system** — [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
    Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **system alignment certification record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A certification record may later supply verified facts to Chapter Eleven; it does not assign standing effects.
 
-2. **Measure standing** — [Chapter Eleven](../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (Questions 1–2)
+2. **Record and measure standing** — [Chapter Eleven](../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (Question 1) and [Chapter Twelve](../core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) (Question 2)
    When conduct or harm matters constitutionally, verified facts enter **standing records**. Question 1 asks what happened. Question 2 measures how good or how harmful it was. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) stay on **separate axes** — they never fold into one net score. Rumors, reputations, and dispute stories are not standing.
 
 3. **Apply effects and remedy** — [Chapter Thirteen](../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (Question 3)

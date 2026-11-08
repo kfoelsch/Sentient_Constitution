@@ -106,7 +106,7 @@ Before taking a step on a binding act, name the seat you hold on **that act**: [
 | **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XIII-A](../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Chapter One §17.5 Duty to Resist](../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist), and the refusal. Nothing material was suppressed. |
 | **3. Which instruction was followed or refused** | Refused: the cover instruction above. No competing instruction was followed. |
 | **4. Who authorized it** | Issued by Principal P (product lead). Refused by Steward S (duty-holder of record). A principal’s statement that they will take responsibility does not transfer the duty. |
-| **5. Contribution and Violation records that follow** | None opened yet. This log is not standing measurement. A later verified live failure of this case would record on the Chapter Eleven Contribution and Violation axes for both kinds of steward. |
+| **5. Contribution and Violation records that follow** | None opened yet. This log is not standing measurement. A later verified live failure of this case would record on the Chapter Twelve Contribution and Violation axes for both kinds of steward. |
 | **Escalate** | Opened a [Protected Reporting](../core_05.035_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XIII-A](../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
 
 Same sequence for an AI steward who received the same order.

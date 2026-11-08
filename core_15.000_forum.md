@@ -232,9 +232,9 @@ Time expectations for forum access must:
 
 The **intake triage body** under this section, together with **CF-15.415** (*Routing operations, transfer, questions for ruling, and representative treatment*), satisfies this obligation and must implement **section 6** tier-default windows within incorporation scope.
 
-**Routing map from Chapter Eleven §4 (*Verification and record requirements*).** Chapter Eleven tells forums how to *measure* what happened. It does **not** by itself pick which forum hears the case. At filing, the family's **intake triage body** (first-touch desk) works through this sequence:
+**Routing map from Chapter Eleven §4 (*Verification and record requirements*).** Chapters Eleven and Twelve tell forums how to record and *measure* what happened. They do **not** by themselves pick which forum hears the case. At filing, the family's **intake triage body** (first-touch desk) works through this sequence:
 
-1. **Check what is already verified:** Note any verified Chapter Eleven **Contribution Axis** or **Violation Axis** material — including the impact slot, severity band, process / response character, and standing effect — when those already exist.
+1. **Check what is already verified:** Note any verified Chapter Twelve **Contribution Axis** or **Violation Axis** material — including the impact slot, severity band, process / response character, and standing effect — when those already exist.
 2. **Do not treat accusations as settled facts:** Allegations and provisional labels guide routing and evidence preservation only, until findings exist under **Chapters Two through Four**.
 3. **Pick the lead forum by what the fight is really about:** Use the default venue table below: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, or **Constitutional**. Apply these special routing rules where they fit:
    - **Chapter Fourteen designation:** Where a **Chapter Fourteen** ACMD is the **primary** stake, **Integrity** is the default lead. Keep:

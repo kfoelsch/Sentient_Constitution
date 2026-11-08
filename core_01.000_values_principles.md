@@ -306,7 +306,7 @@ Safety and Truth findings can change a sentient's standing record, including:
 - how severe those violations are classified
 - what consequences attach
 
-The [**Chapter Eleven** standing model](core_11.000_standing_assessment.md) governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapters Two through Five**](core_02.000_definition_structure.md).
+The standing model — [**Chapter Eleven**](core_11.000_standing_assessment.md) for records and [**Chapter Twelve**](core_12.000_standing_measurement.md) for measurement — governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapters Two through Five**](core_02.000_definition_structure.md).
 
 ### 3. Foundational Objective: Wellbeing (Flourishing Aim)
 <details>
@@ -2074,7 +2074,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <br>
 
-*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Fourteen judges that — and only after Chapter Eleven has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
+*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Fourteen judges that — and only after Chapter Twelve has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
 
 **What this subsection does:**
 

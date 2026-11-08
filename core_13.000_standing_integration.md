@@ -10,7 +10,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): chapter sequence</span></strong></summary>
 
-> Read this chapter in order: immutable Chapter Eleven inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention (remedy and correction, general standing locks, then voluntary public accountability expression where used); lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency bars and clearances); final standing effect; restoration and reassessment; enforcement realism and remedy systems; pattern applications and Question 3 routing.
+> Read this chapter in order: immutable Chapter Eleven and Twelve inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention (remedy and correction, general standing locks, then voluntary public accountability expression where used); lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency bars and clearances); final standing effect; restoration and reassessment; enforcement realism and remedy systems; pattern applications and Question 3 routing.
 
 </details>
 
@@ -396,7 +396,7 @@ This rule applies [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_ca
 - **Risk:** continuation of unlawful or unconstitutional harm through obedience, chain-of-command, or contractual cover.
 - **Protected subjects or interests:** those who would be harmed by compliance, and the integrity of lawful named pathways.
 - **Corrective conditions:** the same for human operators and AI stewards under [Chapter One §17.1 Shared Stewardship Standard](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard); this rule is not an AI-only test.
-- **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1 Definition and attachment](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Eleven Contribution and Violation axes for both kinds of steward.
+- **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1 Definition and attachment](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Twelve Contribution and Violation axes for both kinds of steward.
 
 <a id="54-collective-accountability-and-acquiescent-participation"></a>
 **Collective accountability:**

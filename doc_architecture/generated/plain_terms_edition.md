@@ -423,7 +423,7 @@ sentients should be able to work, build, switch providers, and push back without
 
 ##### 11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
 
-this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Fourteen judges that — and only after Chapter Eleven has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_01.000_values_principles.md#1111-concentration-threshold-triggers-adopter-tunable).
+this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Fourteen judges that — and only after Chapter Twelve has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_01.000_values_principles.md#1111-concentration-threshold-triggers-adopter-tunable).
 
 [Source](../../core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)
 
@@ -1717,7 +1717,7 @@ Contribution Nature is the positive-only Axis I classification, applied only fro
 
 ###### Violation Nature
 
-Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Eleven assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.
+Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Twelve assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.
 
 [Source](../../core_05.035_band_accountability.md#violation-nature)
 

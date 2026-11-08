@@ -3837,7 +3837,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Eleven assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.*
+*In plain terms: Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Twelve assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.*
 
 - **What it is**
   - **In scope:**
@@ -3983,7 +3983,7 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:**
-    - A bounded, **axis-pure** record that applies Chapter Eleven measurements to a defined subject, functional scope, record span, review status, and decision context. The **record span** is the stretch of time the standing record covers, stated on the standing record. It is not a deadline and does not start or stop any window.
+    - A bounded, **axis-pure** record that applies Chapter Twelve measurements to a defined subject, functional scope, record span, review status, and decision context. The **record span** is the stretch of time the standing record covers, stated on the standing record. It is not a deadline and does not start or stop any window.
     - Each standing record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both.
     - A **contribution standing record** measures verified [contribution nature](core_05.035_band_accountability.md#contribution-nature); a **violation standing record** measures verified [violation nature](core_05.035_band_accountability.md#violation-nature).
     - Whichever axis it measures, a standing record about a Chartered Party, its chartered scope, or a system it stewards is an **operator standing record**. A standing record about a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder standing record**. A standing record with neither subject follows the general rules. The two kinds face different conflicts of interest, so their custody rules differ (Chapter Eleven §5 (*Record custody and opening authority*), *Two kinds of standing record by subject*).

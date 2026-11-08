@@ -713,7 +713,7 @@ flowchart TB
     K["Chapter Seven<br/><br/>System and Institutional<br/>Charters"]
     D["Chapter Eight<br/><br/>Functional independence<br/>and separation of duties"]
     S["Chapter Nine<br/><br/>System alignment certification"]
-    subgraph Q["Chapter Eleven · standing records"]
+    subgraph Q["Chapters Eleven and Twelve · standing records and measurement"]
         direction LR
         E["Evidence about conduct or outcomes<br/><br/>Verified under Chapters Two–Four"]
         C["Contribution record<br/><br/>and measurement"]
@@ -863,7 +863,7 @@ flowchart TB
 
 Each box pairs the Contribution Axis display label with the corresponding Violation Axis display label at the same magnitude band. The axes remain separate: the shared scale compares verified outcome magnitude, not moral worth, and never permits contribution to offset violation. The time ranges marked with `*` are the corpus’s illustrative 80-year human calibration; the binding unit is sentient-generic and substrate-agnostic.
 
-Chapter Twelve’s model is deliberately not a single reputation score. It asks what happened, how the verified contribution or violation should be classified, and what named pathway effects follow. Chapter Thirteen applies those effects without reopening the facts or letting contribution offset a violation; Chapter Fourteen adds a separate designation review only when its higher threshold is met.
+The standing model is deliberately not a single reputation score. Chapter Eleven asks what happened, Chapter Twelve measures how the verified contribution or violation should be classified, and Chapter Thirteen applies the named pathway effects without reopening the facts or letting contribution offset a violation; Chapter Fourteen adds a separate designation review only when its higher threshold is met.
 
 The two standing tracks remain separate. The Chapter Fourteen branch applies only when its conditions are met; ordinary Chapter Thirteen effects continue in parallel. The dotted supervision link represents forum review across the processes, rather than an additional final step.
 
@@ -872,10 +872,12 @@ Chapter Seven requires every system and institution of Class L or above to publi
 - **Seven: publish the scope and the seats.** The System Charter or Institutional Charter states what a system or institution covers and which seat holds each role, so the later chapters have something to check against.
 - **Eight: separate constitutional authority.** Initiation, verification or authorization, record custody, and challenge review remain functionally independent under a published seat map.
 - **Nine: examine the system.** Certification produces a bounded, contestable record about whether a system can be relied on within a stated scope and record span.
-- **Ten: establish and measure conduct.** Verified contribution and verified violation enter separate standing records and are measured on separate axes.
-- **Eleven: apply effects.** Verified contributions can support recognition, rewards, and competency clearances; verified violations can lead to restrictions, correction, and remedy.
-- **Twelve: review exceptional misconduct.** Where the specified conditions are met, a separate designation review addresses anti-constitutional misconduct. It runs alongside ordinary standing effects.
-- **Thirteen: supervise review and routing.** Forums support verified findings, jurisdiction, challenges, independent review, and timely resolution across the process.
+- **Ten: examine the institution.** Institutional certification does the same for an institution's own conduct, governance, and record.
+- **Eleven: record conduct.** Verified contribution and verified violation enter separate standing records.
+- **Twelve: measure conduct.** Each standing record is measured on its own axis, on one shared scale, and the two are never added into a net score.
+- **Thirteen: apply effects.** Verified contributions can support recognition, rewards, and competency clearances; verified violations can lead to restrictions, correction, and remedy.
+- **Fourteen: review exceptional misconduct.** Where the specified conditions are met, a separate designation review addresses anti-constitutional misconduct. It runs alongside ordinary standing effects.
+- **Fifteen: supervise review and routing.** Forums support verified findings, jurisdiction, challenges, independent review, and timely resolution across the process.
 
 The connections matter as much as the chapter boundaries:
 
