@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_11.010_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: no child, no pregnancy; a diagnosis is being used as incapacity proof; the live fight is conditioned housing and a clinic that will see Ash only if “they decide until stable.”
+Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a). This packet is different: no child, no pregnancy; a diagnosis is being used as incapacity proof; the live fight is conditioned housing and a clinic that will see Ash only if “they decide until stable.”
 
 ## Scale of the situation (not scored)
 

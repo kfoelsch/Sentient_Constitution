@@ -174,7 +174,7 @@ flowchart TB
     O["§5 Open the record<br/><br/>A named record-opening authority approves.<br/>A separate record custodian makes the entry.<br/>§2.2 The subject is notified"]
     C["§2 What every record states<br/><br/>Subject, scope, and time span<br/>One bounded event or one defined pattern<br/>Verified and disputed facts<br/>Evidence, attribution, and challenge path<br/>Review, correction, and supersession status"]
     subgraph K["§2.1 Two kinds of record, never merged into a net score"]
-        Con["§2.1 Contribution standing record<br/><br/>Verified help<br/>§8.1 Measured on the Contribution Axis"]
+        Con["§2.1 Contribution standing record<br/><br/>Verified help<br/>§8.2 Measured on the Contribution Axis"]
         Vio["§2.1 Violation standing record<br/><br/>Verified harm, including accountability failures<br/>§8.2 Measured on the Violation Axis"]
         Con ~~~ Vio
     end
@@ -546,7 +546,7 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
   - benefit;
   - concealment; or
   - feasible prevention capacity;
-- where the violation finding involves a forum disclosure omission or intentional recusal-process failure (read **§8.2** (*Violation severity-input dimensions*) for measurement discipline):
+- where the violation finding involves a forum disclosure omission or intentional recusal-process failure (read **§8.2.2** (*How the way a harm was caused is recorded*) for measurement discipline):
   - the verified basis for the omission or failure;
   - the unmet disclosure or recusal duty;
   - the actor's knowledge, recklessness, or intent where found; and

@@ -87,4 +87,4 @@ When an institution supervises systems under [**CS-9.305**](../corpus_systems/cs
 
 **Previous file:** [cjs_19.110_specific_joint_interlocks.md](cjs_19.110_specific_joint_interlocks.md)
 
-**Next file:** [cjs_05.105_cross_implementation_operational_terms.md](cjs_05.105_cross_implementation_operational_terms.md)
+**Next file:** [cjs_11.105_application_vignettes.md](cjs_11.105_application_vignettes.md)

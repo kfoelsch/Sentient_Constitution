@@ -88,6 +88,12 @@
 | CJS-19.110: Specific joint interlocks and shared abstractions | [cjs_19.110_specific_joint_interlocks.md](corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md) |
 | CJS-8.105 §9–CJS-8.105 §11: Support roles, hosting independence, and classification alignment | [cjs_08.105_support_hosting_classification.md](corpus_joint_structure/cjs_08.105_support_hosting_classification.md) |
 
+### Worked examples
+
+| Stable family | Authoritative subfile |
+|---|---|
+| CJS-11.105: Application vignettes (worked examples; add no duty) | [cjs_11.105_application_vignettes.md](corpus_joint_structure/cjs_11.105_application_vignettes.md) |
+
 ### oDef library (CJS-5.105–CJS-5.135)
 
 | Stable family | Authoritative subfile |

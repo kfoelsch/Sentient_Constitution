@@ -61,6 +61,7 @@
     "corpus_joint_structure/cjs_05.135_integrative_operations.md",
     "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
     "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
+    "corpus_joint_structure/cjs_11.105_application_vignettes.md",
     "corpus_joint_structure/cjs_19.105_drafting_contracts.md",
     "corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md",
     "corpus_joint_structure/cjs_reader_guide.md",
@@ -468,7 +469,6 @@
     "core_10.000_institutional_alignment_certification.md",
     "core_11.000_standing_assessment.md",
     "core_11.005_standing_measurement.md",
-    "core_11.010_application_vignettes.md",
     "core_12.000_standing_integration.md",
     "core_13.000_misconduct_designation.md",
     "core_13.005_misconduct_pattern_applications.md",
@@ -689,6 +689,7 @@
     "corpus_joint_structure/cjs_05.135_integrative_operations.md",
     "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
     "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
+    "corpus_joint_structure/cjs_11.105_application_vignettes.md",
     "corpus_joint_structure/cjs_19.105_drafting_contracts.md",
     "corpus_joint_structure/cjs_19.110_specific_joint_interlocks.md",
     "corpus_joint_structure/cjs_reader_guide.md"

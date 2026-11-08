@@ -112,6 +112,18 @@
           ]
         },
         {
+          "id": "worked_examples",
+          "title": "Worked examples",
+          "entries": [
+            {
+              "id": "CJS-11.105",
+              "label": "CJS-11.105: Application vignettes (worked examples; add no duty)",
+              "file": "corpus_joint_structure/cjs_11.105_application_vignettes.md",
+              "status": "active"
+            }
+          ]
+        },
+        {
           "id": "odef",
           "title": "oDef library (CJS-5.105–CJS-5.135)",
           "entries": [

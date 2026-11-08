@@ -59,7 +59,7 @@ It is a *model* constitution. An organization (for example a cooperative, a rese
 You do not have to read everything. Pick the time you have; each path builds on the one before it.
 
 - **15 minutes:** this page's [What is this?](#what-is-this) and [Is this in effect?](#is-this-in-effect) sections, then [the model at the heart of the Preamble](core_00.000_preamble.md#the-model) (the four duties and two goals), then one [guide for an everyday situation](implementation/adoption/easy_entry/README.md#roster) that sounds like yours.
-- **45 minutes:** the 15-minute path, then [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md), [how duties are kept separate](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) so no one judges their own case, [how the processes connect](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [worked example](core_11.010_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
+- **45 minutes:** the 15-minute path, then [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md), [how duties are kept separate](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) so no one judges their own case, [how the processes connect](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [worked example](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a).
 - **2 hours:** the 45-minute path, then the [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md), then [Chapter One, Part A](core_01.000_values_principles.md) (core values) and the [Rights Floor](core_06.000_rights_part_a.md) articles named in the guide you opened.
 
 **Thinking about using or adopting it?** Add [Using or adopting it: start here](START_HERE.md) to whichever path you choose. That page covers fit, the two ways to use the text, and the adoption kits.
@@ -108,7 +108,7 @@ The Constitution is one document split into a Preamble and nineteen chapters. Yo
 | **Chapter 12**: [Standing integration](core_12.000_standing_integration.md) | What those standing records lead to: effects, restoration, and remedies |
 | **Chapter 13**: [Part A](core_13.000_misconduct_designation.md) · [Part B](core_13.005_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
 | **Chapter 14**: [Forums](core_14.000_forum.md) | Review bodies and hearings, and why no one may judge their own case |
-| [Worked examples for Chapters 11–13](core_11.010_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
+| [Worked examples for Chapters 11–13](corpus_joint_structure/cjs_11.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
 | **Chapter 15**: [Governance](core_15.000_governance.md) | Who may govern, and how that authority is granted and checked |
 | **Chapter 16**: [Non-regression](core_16.000_non_regression.md) | Protections can be strengthened but not rolled back |
 | **Chapter 17**: [Supremacy and other laws](core_17.000_expansion_supremacy.md) | How it relates to local, national, and international law |

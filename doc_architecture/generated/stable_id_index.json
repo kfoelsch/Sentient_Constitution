@@ -161,11 +161,6 @@
       "status": "present"
     },
     {
-      "file": "core_11.010_application_vignettes.md",
-      "label": "core",
-      "status": "present"
-    },
-    {
       "file": "core_06.000_rights_part_a.md",
       "label": "core",
       "status": "present"

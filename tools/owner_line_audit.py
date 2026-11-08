@@ -49,9 +49,8 @@ CHAPTER_WORDS = {
 }
 
 # Files that add no rule: they must say so instead of claiming ownership.
-CORE_NON_OWNER = {
-    "core_11.010_application_vignettes.md",
-}
+# None at present: the Chapter Eleven application vignettes moved to CJS-11.105.
+CORE_NON_OWNER: set[str] = set()
 # Chapter Six Part A carries the chapter-level claim and does not name "Part A".
 CORE_PART_OPTIONAL = {"core_06.000_rights_part_a.md"}
 

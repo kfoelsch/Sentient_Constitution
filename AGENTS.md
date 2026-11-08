@@ -12,7 +12,7 @@ This file is a **pointer**. It is not the Constitution. It cannot narrow numbere
 2. Add the numbered entry to the move log in [doc_architecture.md](doc_architecture.md) without being asked, and tell the person its number in the final reply (**MOVE-LOG-AUTO-01**).
 3. Regenerate and commit the generated files your change touched (`python3 tools/validate_ai_manifests.py --root . --refresh` for the AI indexes; the `-check` targets in `make audit-report` name any other stale file).
 4. Git: name the branch for the work, and push or merge only when asked (**GIT-BRANCH-NAME-01**, **GIT-PUSH-CL-01**). To push from a Claude Code session, see *Pushing and merging from a Claude Code session* below.
-5. Keep the custodian's checkout up to date (**GIT-LOCAL-SYNC-01**): at the start of a session run `python3 tools/sync_local.py --dry-run` (it fetches, reports, and changes nothing) and say if the checkout is behind; after a merge run `make sync-local`. The device shell can fetch because the repository is public, but updating files there needs `device_request_delete_permission`, so ask once per session.
+5. Keep the custodian's checkout up to date (**GIT-LOCAL-SYNC-01**): at the start of a session run `python3 tools/sync_local.py --dry-run` (it fetches, reports, and changes nothing) and say if the checkout is behind; after a merge run `make sync-local`. The device shell can fetch because the repository is public, but updating files there needs `device_request_delete_permission`, so ask once per session. If the computer could not be reached, say so in the final reply and tell the custodian to run `make sync-local` on their own computer.
 
 Lookup (from repo root):
 

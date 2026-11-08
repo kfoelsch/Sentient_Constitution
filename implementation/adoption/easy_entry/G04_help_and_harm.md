@@ -58,4 +58,4 @@ See: [Chapter Twelve](../../../core_12.000_standing_integration.md#chapter-twelv
 
 - Sibling guides: [`README.md`](README.md#process-guides)
 - Public door: [`../../../README.md`](../../../README.md)
-- Worked stories (not extra duties): [`../../../core_11.010_application_vignettes.md`](../../../core_11.010_application_vignettes.md)
+- Worked stories (not extra duties): [`../../../corpus_joint_structure/cjs_11.105_application_vignettes.md`](../../../corpus_joint_structure/cjs_11.105_application_vignettes.md)

@@ -40,7 +40,6 @@ CORE_FILES = (
     "core_13.000_misconduct_designation.md",
     "core_13.005_misconduct_pattern_applications.md",
     "core_14.000_forum.md",
-    "core_11.010_application_vignettes.md",
     "core_06.000_rights_part_a.md",
     "core_06.005_rights_part_b.md",
     "core_06.010_rights_part_c.md",

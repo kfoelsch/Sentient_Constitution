@@ -1128,7 +1128,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria, due-p
   - [§2](core_13.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*);
   - [§3](core_13.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*);
   - [Chapter Eleven §3.2](core_11.000_standing_assessment.md#32-violation-event-types) (11.000 §3.2) (*Obstruction of accountability event type*);
-  - [Chapter Eleven §8.2](core_11.005_standing_measurement.md#82-violation-severity-input-dimensions) (11.005 §8.2) and
+  - [Chapter Eleven §8.2.2](core_11.005_standing_measurement.md#822-how-the-way-a-harm-was-caused-is-recorded) (11.005 §8.2.2) and
   - [§9.2](core_11.005_standing_measurement.md#92-violation-route-descriptor-catalog-and-measurement-roles) (*conduct character and Accountability Obstruction Misconduct*);
   - [Chapter One §19.1.2](core_01.010_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) (1.010 §19.1.2) (*obstruction of accountability among non-rewardable patterns*).
 - Related patterns (modes, not competing criteria):
