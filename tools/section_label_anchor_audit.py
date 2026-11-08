@@ -81,7 +81,7 @@ BOLD_NUM_RE = re.compile(r"^\*\*(\d+(?:\.\d+)*)\.?\s+")
 ID_NUM_RE = re.compile(r"^(\d+(?:-\d+)*)-")
 SECTION_IN_TEXT_RE = re.compile(
     r"(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|"
-    r"Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|\d+)\s+)?"
+    r"Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty|\d+)\s+)?"
     r"§+\s*(\d+(?:\.\d+)*)",
     re.I,
 )

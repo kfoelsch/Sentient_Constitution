@@ -3,7 +3,7 @@
 
 Rule ID: PART-CITE-CHAPTER-01
 
-Chapters One, Six, Nine and Thirteen are split into lettered Parts, and the
+Chapters One, Six, Nine and Fourteen are split into lettered Parts, and the
 letters repeat from chapter to chapter. ``Part B §7.2`` names no section until
 the reader knows the chapter. Inside Chapter Nine that is fine, because the
 reader is already there. Anywhere else (Chapter Ten, another chapter, an
@@ -92,7 +92,7 @@ RULE = "PART-CITE-CHAPTER-01"
 CHAPTER_WORDS = (
     "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight",
     "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen",
-    "Sixteen", "Seventeen", "Eighteen", "Nineteen",
+    "Sixteen", "Seventeen", "Eighteen", "Nineteen", "Twenty",
 )
 WORD_TO_NUM = {word.lower(): number for number, word in enumerate(CHAPTER_WORDS)}
 
@@ -136,7 +136,7 @@ BARE_RE = re.compile(
 )
 MORE_RE = re.compile(r"(?P<sep>(?:,\s*(?:and|or)\b|,|–|—|-|\band\b|\bor\b|\bthrough\b|\bto\b|&))\s*(?:Parts?\s+)?(?P<letter>[A-F])\b")
 RANGE_SEPS = {"–", "—", "-", "through", "to"}
-CHAPTER_NAME_RE = re.compile(r"(?<![A-Za-z])Chapters?\s+(?P<name>Zero|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|\d{1,2})\b")
+CHAPTER_NAME_RE = re.compile(r"(?<![A-Za-z])Chapters?\s+(?P<name>Zero|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty|\d{1,2})\b")
 LINK_RE = re.compile(
     r"\[(?P<text>(?:[^\[\]]|\[[^\]]*\])*)\]\((?P<target>[^)\s]+)(?:\s+\"[^\"]*\")?\)"
 )

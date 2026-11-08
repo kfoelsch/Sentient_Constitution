@@ -67,7 +67,7 @@ class ScopeQualifiedTests(unittest.TestCase):
         self.assertEqual(phrases("Facts within scope are checked."), [])
 
     def test_ignores_inline_code_and_link_targets(self) -> None:
-        self.assertEqual(phrases("It rests on `the scope` and [the rule](core_12.000_the_scope.md)."), [])
+        self.assertEqual(phrases("It rests on `the scope` and [the rule](core_13.000_the_scope.md)."), [])
 
     def test_scan_skips_fences_and_exempt_file(self) -> None:
         text = "```\nThe custodian acts for the scope.\n```\nThe custodian acts for the scope.\n"

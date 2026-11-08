@@ -45,7 +45,7 @@ CHAPTER_WORDS = {
     0: "Preamble", 1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six",
     7: "Seven", 8: "Eight", 9: "Nine", 10: "Ten", 11: "Eleven", 12: "Twelve",
     13: "Thirteen", 14: "Fourteen", 15: "Fifteen", 16: "Sixteen",
-    17: "Seventeen", 18: "Eighteen", 19: "Nineteen",
+    17: "Seventeen", 18: "Eighteen", 19: "Nineteen", 20: "Twenty",
 }
 
 # Files that add no rule: they must say so instead of claiming ownership.
@@ -67,7 +67,7 @@ IMPL_EXEMPT = {
         r"reader guidance only",
         "reader guide: says it adds no duty",
     ),
-    "corpus_forum/cf_14.475_sentience_status_record.md": (
+    "corpus_forum/cf_15.475_sentience_status_record.md": (
         r"^This file is the designated implementation text for ",
         "Chapter Five's definition names it the designated implementation text",
     ),

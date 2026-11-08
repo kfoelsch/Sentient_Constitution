@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_18.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -25,7 +25,7 @@ Someone claims you are trusted, or unsafe, because of a story, a flag, or a sing
 - **Today:** A dashboard folds praise and harm into one number. The “good” side wipes the harm.
 - **With this Constitution:** Help and harm stay separate. Verified good conduct does not erase verified harm.
 
-See: [Chapter Eleven](../../../core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened).
+See: [Chapter Eleven](../../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
 
 **Rumors are not the record. A filed case is not the record either.**
 - **Today:** Gossip, a relative’s letter, or “we filed” is treated as the finding.
@@ -37,7 +37,7 @@ See: [Chapter Eleven §2.2](../../../core_11.000_standing_assessment.md#22-silen
 - **Today:** A badge with no extra authority, or a punishment with no repair for the one who was hurt.
 - **With this Constitution:** Verified help can open real clearance to take on more. Verified harm can limit what you may do, require correction, and require those harmed to be made whole — on its own track.
 
-See: [Chapter Twelve](../../../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration).
+See: [Chapter Thirteen](../../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration).
 
 ## What to open next
 

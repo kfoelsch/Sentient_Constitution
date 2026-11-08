@@ -51,11 +51,11 @@ class ViolationFindingTests(unittest.TestCase):
         self.assertEqual(phrases("Each finding on the seven items carries its evidence."), [])
 
     def test_ignores_inline_code_and_link_targets(self) -> None:
-        self.assertEqual(phrases("A lock rests on `a verified finding` and [the rule](core_12.000_a_finding.md)."), [])
+        self.assertEqual(phrases("A lock rests on `a verified finding` and [the rule](core_13.000_a_finding.md)."), [])
 
     def test_scan_skips_fences_and_exempt_file(self) -> None:
         text = "```\nA lock rests on a verified finding.\n```\nA lock rests on a verified finding.\n"
-        found = scan_text("core_12.000_standing_integration.md", text)
+        found = scan_text("core_13.000_standing_integration.md", text)
         self.assertEqual([f.line for f in found], [4])
         self.assertEqual(scan_text("doc_architecture.md", "A lock rests on a verified finding.\n"), [])
 

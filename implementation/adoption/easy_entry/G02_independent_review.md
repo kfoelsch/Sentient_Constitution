@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_18.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Seventeen §5](../../../core_17.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_19.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Eighteen §5](../../../core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -25,7 +25,7 @@ Someone with power over housing, care, pay, movement, or a system you depend on 
 - **Today:** The same team that shipped the cutoff is also the “appeals desk.”
 - **With this Constitution:** A claim that the hearing body is biased, captured, or in conflict must be able to leave that body. The crew that cooperates to run a system does not get to staff the only final review and call that independence.
 
-See: [Chapter Fourteen §3](../../../core_14.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).
+See: [Chapter Fifteen §3](../../../core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).
 
 **A report waiting to be looked at is not already a verdict.**
 - **Today:** Once someone files, you are already “in the system,” and silence or refusal is treated as proof.
@@ -51,7 +51,7 @@ See: [Article XXIII](../../../core_06.015_rights_part_d.md#article-xxiii-compreh
 
 - A promise that every complaint wins, or that the other side is always wrong.
 - A markdown working group that calls itself independent review ([Chapter One §17.4](../../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization)).
-- Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Nineteen §4](../../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Twenty §4](../../../core_20.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further
 

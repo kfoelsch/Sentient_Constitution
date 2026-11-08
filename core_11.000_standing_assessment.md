@@ -1,10 +1,10 @@
 <a id="chapter-eleven-compliance-violation-and-standing-model"></a>
 <a id="chapter-eleven-contribution-violation-and-standing-model--measurement"></a>
-# CHAPTER ELEVEN, PART A: STANDING RECORDS — QUESTION 1, WHAT HAPPENED
+# CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven, Part A**: the standing pipeline's three questions and **Question 1** (*what happened?*), in **§1–§6**. **Part B** answers **Question 2** (*how good or bad was it?*) in **§7–§15**, continuing from Part A, and is in [`core_11.005_standing_measurement.md`](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it). Question 3 (*what happens because of it?*) continues in [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration), with review limited to the anti-constitutional-misconduct designation in [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven**: the standing pipeline's three questions and **Question 1** (*what happened?*), in **§1–§6**. **Question 2** (*how good or bad was it?*) is answered in [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it). Question 3 (*what happens because of it?*) continues in [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration), with review limited to the anti-constitutional-misconduct designation in [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -13,9 +13,9 @@
 
 > | Question | Owner and role |
 > | --- | --- |
-> | **1. What happened?** | Part A (this file): establish verified facts in a bounded, contestable standing record. |
-> | **2. How good or bad was it?** | [Part B](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it): measure the verified facts without merging help and harm. |
-> | **3. What happens because of it?** | Continue to [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration). |
+> | **1. What happened?** | Chapter Eleven (this file): establish verified facts in a bounded, contestable standing record. |
+> | **2. How good or bad was it?** | [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it): measure the verified facts without merging help and harm. |
+> | **3. What happens because of it?** | Continue to [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration). |
 >
 > Allegations, popularity, and dispute narratives are not answers to Question 1. A desired rating cannot supply the facts for Question 1, and a desired consequence cannot supply the rating for Question 2.
 
@@ -28,7 +28,7 @@
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [material stake](core_00.000_preamble.md#material-stake);
-  - [Preamble §6 Key Practical Process Pipelines](core_00.000_preamble.md#6-key-practical-process-pipelines) (*Chapters Nine through Fourteen chain*).
+  - [Preamble §6 Key Practical Process Pipelines](core_00.000_preamble.md#6-key-practical-process-pipelines) (*Chapters Nine through Fifteen chain*).
 - Upstream:
   - [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) (*Plain-Language Accessibility* stewardship reflected in section-level gloss);
   - [Chapter One §16 — Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*);
@@ -37,10 +37,10 @@
 - Upstream: [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*system alignment certification*); [Chapter Nine Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (9.010 §11) (*standing bridge — potential verified inputs only*).
 - Standing pipeline:
   - [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
-  - [Chapter Eleven, Part A — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*three-question frame and Question 1 records — sections **1–6***);
-  - [Chapter Eleven, Part B — Standing Measurement](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) (11.005) (*Question 2 measurement — sections **7–15***);
-  - [Chapter Twelve — Standing Effects and Integration](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3 effects and integration*);
-  - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-anti-constitutional-misconduct) (13.000) (*designation only for qualifying Violation Axis s = 7–9*).
+  - [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*three-question frame and Question 1 records*);
+  - [Chapter Twelve — Standing Measurement](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) (12.000) (*Question 2 measurement*);
+  - [Chapter Thirteen — Standing Effects and Integration](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Question 3 effects and integration*);
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) (*designation only for qualifying Violation Axis s = 7–9*).
 - Subsections in this file:
   - [§1](#1-the-three-questions) (*three-question frame and scope*);
   - [§2](#2-question-1--what-happened) (*Question 1 — verified facts and records*);
@@ -48,10 +48,10 @@
   - [§4](#4-standing-record-operational-requirements) (*verification and record requirements*);
   - [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*);
   - [§6](#6-handling-a-standing-record) (*handling a standing record*);
-  - [Part B §7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) through [§15](core_11.005_standing_measurement.md#15-hand-off-to-question-3--cross-question-measurement-hooks) (*Question 2 — LEQU baseline, measurement dimensions, route descriptors, slot grammar, constitutional inputs, the LEQU scale, standard contribution measures, illustrations, and the hand-off to Question 3; in Part B*).
 - Downstream:
-  - [Chapter Thirteen](core_13.000_misconduct_designation.md#chapter-thirteen-part-a-anti-constitutional-misconduct-designation) (13.000) (*designation only — does not reopen Question 2 measurement*);
-  - [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) (14.000) (*forum supervision and routing*);
+  - [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) (12.000) (*Question 2 — LEQU baseline, measurement dimensions, route descriptors, slot grammar, constitutional inputs, the LEQU scale, standard contribution measures, illustrations, and the hand-off to Question 3*);
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) (14.000) (*designation only — does not reopen Question 2 measurement*);
+  - [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) (*forum supervision and routing*);
   - [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*timely resolution*);
   - [Article XX](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*justice constraints*).
 - Read with: [Chapter Five *Standing State, Contribution, and Violation*](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation) (5.035) (*canonical definition routing*).
@@ -61,10 +61,10 @@
 
 <br>
 
-<a id="chapter-eleven-part-a-orientation"></a>
-Chapter Eleven is the constitutional owner of **the verified factual record (Question 1) and standing measurement (Question 2)**. Part A (this file) owns Question 1, from [§1 The three questions](#1-the-three-questions) through [§6 Handling a standing record](#6-handling-a-standing-record). [Part B](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [§7 Question 2 — how good or bad was it?](core_11.005_standing_measurement.md#7-question-2--how-good-or-bad-was-it) through [§15 Hand-off to Question 3 — cross-question measurement hooks](core_11.005_standing_measurement.md#15-hand-off-to-question-3--cross-question-measurement-hooks). Question 3 continues in Chapter Twelve.
+<a id="chapter-eleven-orientation"></a>
+Chapter Eleven is the constitutional owner of **the verified factual record (Question 1)**. It runs from [§1 The three questions](#1-the-three-questions) through [§6 Handling a standing record](#6-handling-a-standing-record). [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [Chapter Twelve §1 Question 2 — how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) through [Chapter Twelve §9 Hand-off to Question 3 — cross-question measurement hooks](core_12.000_standing_measurement.md#9-hand-off-to-question-3--cross-question-measurement-hooks). Question 3 continues in Chapter Thirteen.
 
-*In plain terms: this chapter writes down what happened and how good or how harmful it was — on two separate tracks, never one net score. Filing a case is not standing by itself.*
+*In plain terms: this chapter writes down what happened and holds the standing record. How good or how harmful it was is measured in Chapter Twelve, on two separate tracks, never one net score. Filing a case is not standing by itself.*
 
 <a id="1-the-three-questions"></a>
 
@@ -75,8 +75,8 @@ Chapter Eleven is the constitutional owner of **the verified factual record (Que
 | Question | What the question asks | Where it is answered |
 | --- | --- | --- |
 | **1. What happened?** | Which facts are verified, about whom or what, during what period, and with what standing record and challenge status? | [Section 2](#2-question-1--what-happened) and [Section 3](#3-question-1-event-type-guide--what-kind-of-help-or-harm-occurred) |
-| **2. How good or bad was it?** | What kind and magnitude of contribution or violation do those facts establish? | [Section 7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) |
-| **3. What happens because of it?** | What recognition, readiness, remedy, safeguard, restriction, or other consequence follows? | [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) |
+| **2. How good or bad was it?** | What kind and magnitude of contribution or violation do those facts establish? | [Chapter Twelve Section 1](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) |
+| **3. What happens because of it?** | What recognition, readiness, remedy, safeguard, restriction, or other consequence follows? | [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) |
 
 Each question depends on the answer before it:
 
@@ -88,7 +88,7 @@ Together, the answers to all three questions form the complete standing assessme
 
 #### 1.1 Purpose and scope
 
-This chapter states the constitutional record and measurement frames for **systems**, **sentients**, and **institutions**, including every system classified under [**CS-9.305**](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*). These frames do not measure gossip, popularity, vague reputation, inherent dignity, or general worth; none is a permissible subject of standing assessment.
+This chapter states the constitutional record frame, and [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) the measurement frame, for **systems**, **sentients**, and **institutions**, including every system classified under [**CS-9.305**](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*). These frames do not measure gossip, popularity, vague reputation, inherent dignity, or general worth; none is a permissible subject of standing assessment.
 
 The standing pipeline must remain effective when:
 
@@ -106,13 +106,13 @@ These belong in adopted implementation text:
 - restorative-accountability measures; and
 - incentive design.
 
-Chapter Eleven measurement does **not**, by itself, authorize force, detention, or another liberty restriction. Any such consequence must independently satisfy Chapter Six, **Article XX** (*Justice After Verified Violation*), including its proportionality, least-restrictive, time-bounded, restitution, and restorative-accountability requirements.
+Chapter Twelve measurement does **not**, by itself, authorize force, detention, or another liberty restriction. Any such consequence must independently satisfy Chapter Six, **Article XX** (*Justice After Verified Violation*), including its proportionality, least-restrictive, time-bounded, restitution, and restorative-accountability requirements.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace · Definitions · Assessment · Compliance</span></strong></summary>
 
 - Upstream: [Chapter One §16 — Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapters Two through Four](core_02.000_definition_structure.md); [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§2](#2-question-1--what-happened) (*Question 1*); [§4](#4-standing-record-operational-requirements) (*verification and record requirements*); [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*); [§6](#6-handling-a-standing-record) (*handling a standing record*); [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2 measurement*); [§8](core_11.005_standing_measurement.md#8-magnitude-and-severity-input-dimensions) (*measurement input dimensions*); [§9](core_11.005_standing_measurement.md#9-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*); [§10](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*); [§11](core_11.005_standing_measurement.md#11-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [§12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*); [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (*Question 3*).
+- Downstream: [§2](#2-question-1--what-happened) (*Question 1*); [§4](#4-standing-record-operational-requirements) (*verification and record requirements*); [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*); [§6](#6-handling-a-standing-record) (*handling a standing record*); [Chapter Twelve §1](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (*Question 2 measurement*); [Chapter Twelve §2](core_12.000_standing_measurement.md#2-magnitude-and-severity-input-dimensions) (*measurement input dimensions*); [Chapter Twelve §3](core_12.000_standing_measurement.md#3-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*); [Chapter Twelve §4](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*); [Chapter Twelve §5](core_12.000_standing_measurement.md#5-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*); [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (*Question 3*).
 - [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
 - [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
 - [Proportionality](core_05.035_band_accountability.md#proportionality) · [O](core_05.035_band_accountability.md#proportionality) · [M](core_05.035_band_accountability.md#proportionality-a) · [A](core_05.035_band_accountability.md#proportionality-a) · [C](core_05.035_band_accountability.md#proportionality-c)
@@ -140,13 +140,13 @@ Chapter Eleven measurement does **not**, by itself, authorize force, detention, 
   - [§4](#4-standing-record-operational-requirements) (*record requirements*);
   - [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*);
   - [§6](#6-handling-a-standing-record) (*handling a standing record*);
-  - [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2 measurement*);
-  - [§8](core_11.005_standing_measurement.md#8-magnitude-and-severity-input-dimensions) (*measurement input dimensions*);
-  - [§9](core_11.005_standing_measurement.md#9-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*);
-  - [§10](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
-  - [§11](core_11.005_standing_measurement.md#11-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
-  - [§12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
-  - [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3*).
+  - [Chapter Twelve §1](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (*Question 2 measurement*);
+  - [Chapter Twelve §2](core_12.000_standing_measurement.md#2-magnitude-and-severity-input-dimensions) (*measurement input dimensions*);
+  - [Chapter Twelve §3](core_12.000_standing_measurement.md#3-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*);
+  - [Chapter Twelve §4](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
+  - [Chapter Twelve §5](core_12.000_standing_measurement.md#5-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
+  - [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
+  - [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Question 3*).
 
 </details>
 
@@ -174,12 +174,12 @@ flowchart TB
     O["§5 Open the record<br/><br/>A named record-opening authority approves.<br/>A separate record custodian makes the entry.<br/>§2.2 The subject is notified"]
     C["§2 What every record states<br/><br/>Subject, scope, and time span<br/>One bounded event or one defined pattern<br/>Verified and disputed facts<br/>Evidence, attribution, and challenge path<br/>Review, correction, and supersession status"]
     subgraph K["§2.1 Two kinds of record, never merged into a net score"]
-        Con["§2.1 Contribution standing record<br/><br/>Verified help<br/>§8.2 Measured on the Contribution Axis"]
-        Vio["§2.1 Violation standing record<br/><br/>Verified harm, including accountability failures<br/>§8.2 Measured on the Violation Axis"]
+        Con["§2.1 Contribution standing record<br/><br/>Verified help<br/>Chapter Twelve §2.2 Measured on the Contribution Axis"]
+        Vio["§2.1 Violation standing record<br/><br/>Verified harm, including accountability failures<br/>Chapter Twelve §2.2 Measured on the Violation Axis"]
         Con ~~~ Vio
     end
     L["§2.4 Linked records<br/><br/>One subject may hold several records over time.<br/>Related records cross-reference but never offset"]
-    X[["Chapter Twelve — Question 3<br/><br/>Outside this chapter<br/><br/>Consequences are drawn from the records<br/>and never rewrite them"]]
+    X[["Chapter Thirteen — Question 3<br/><br/>Outside this chapter<br/><br/>Consequences are drawn from the records<br/>and never rewrite them"]]
     N["§2.3 Not triggers<br/><br/>An allegation, popularity,<br/>or protected dissent"]
     S(["§2.2 Silence is the default<br/><br/>No record. Having none is the ordinary state<br/>and says nothing about anyone"])
     E --> D
@@ -222,7 +222,7 @@ Question 1 uses a **contribution standing record** for verified help and a **vio
 - A standing record is not a freestanding reputation score, dignity rank, permanent status, general worth label, or merged scorecard.
   - Operational requirements appear in **section 4**.
 
-Any later standing effect belongs to Chapter Twelve and must be traceable back to the relevant standing record or records without becoming part of the standing record itself.
+Any later standing effect belongs to Chapter Thirteen and must be traceable back to the relevant standing record or records without becoming part of the standing record itself.
 
 <a id="22-silence-is-the-default"></a>
 
@@ -240,7 +240,7 @@ Having no standing record is the ordinary state of a sentient, institution, or s
   - **Article III-C** (*Labor and Economic Floor*) protections;
   - ordinary commerce; or
   - participation as an affected party.
-  Published competency bars for specific trust-sensitive named pathways under [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances) are the exception, and they must state why the named pathway is trust-sensitive.
+  Published competency bars for specific trust-sensitive named pathways under [Chapter Thirteen §6.2 Competency bars and clearances](core_13.000_standing_integration.md#62-competency-bars-and-clearances) are the exception, and they must state why the named pathway is trust-sensitive.
 - When a standing record about a subject is opened, the subject must be told, as **section 4** requires. Notice may be delayed only if a documented [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) or Safety need justifies it, and only for a limited, set period. Notice is what makes a standing record contestable: a subject who does not know a standing record exists cannot challenge or correct it.
 
 <a id="23-protected-dissent-is-not-a-trigger"></a>
@@ -263,14 +263,14 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
   - [§2.5](#25-verified-input-gate) (*verified-input gate*);
   - [§2.7](#27-forum-boundary) (*forum boundary*);
   - [§4.2](#42-related-standing-record-cross-references) (*cross-references*);
-  - [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2 measurement*);
-  - [§8](core_11.005_standing_measurement.md#8-magnitude-and-severity-input-dimensions) (*measurement input dimensions*);
-  - [§9](core_11.005_standing_measurement.md#9-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*);
-  - [§10](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
-  - [§11](core_11.005_standing_measurement.md#11-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
-  - [§12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
-  - [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3*).
-- Read with: [Chapter Twelve — Standing integration](core_12.000_standing_integration.md#2-automatic-integration-review-and-continuity) (12.000) (*non-waiver and linked-record integration*); [Chapter Twelve §6.2 — Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances) (12.000 §6.2); [Chapter Twelve §4.2 — Standing locks](core_12.000_standing_integration.md#42-prevention--general-standing-locks) (12.000 §4.2).
+  - [Chapter Twelve §1](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (*Question 2 measurement*);
+  - [Chapter Twelve §2](core_12.000_standing_measurement.md#2-magnitude-and-severity-input-dimensions) (*measurement input dimensions*);
+  - [Chapter Twelve §3](core_12.000_standing_measurement.md#3-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*);
+  - [Chapter Twelve §4](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
+  - [Chapter Twelve §5](core_12.000_standing_measurement.md#5-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
+  - [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
+  - [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Question 3*).
+- Read with: [Chapter Thirteen — Standing integration](core_13.000_standing_integration.md#2-automatic-integration-review-and-continuity) (13.000) (*non-waiver and linked-record integration*); [Chapter Thirteen §6.2 — Competency bars and clearances](core_13.000_standing_integration.md#62-competency-bars-and-clearances) (13.000 §6.2); [Chapter Thirteen §4.2 — Standing locks](core_13.000_standing_integration.md#42-prevention--general-standing-locks) (13.000 §4.2).
 
 </details>
 
@@ -280,7 +280,7 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
 **The core rule:** verified **contribution standing records** and verified **violation standing records** are kept separately under **section 2.1**. Each contribution or violation finding must rest on its own supported facts in its own standing record. Analysis and supporting materials must keep the two record paths separately traceable. No single entry or linked set is a net score, blended score, or tradeoff.
 
 - **Violation standing records and standing locks:**
-  - Under Chapter Twelve, applicable **standing locks** drawn from violation standing records may limit standing, restrict role eligibility, or affect remedy access while a verified violation remains unresolved.
+  - Under Chapter Thirteen, applicable **standing locks** drawn from violation standing records may limit standing, restrict role eligibility, or affect remedy access while a verified violation remains unresolved.
   - Standing locks must not wipe away verified positive contribution recorded in contribution standing records.
   - Unresolved verified violations are not time-discounted by mere passage of time.
   - Verified violations must not rewrite unrelated contribution standing records into a false negative reputation file.
@@ -322,14 +322,14 @@ The stages of a standing record stay separate:
 
 This section owns one question: how a forum's work reaches a standing record. The other steps in the chain belong to the owners named here, and the chain runs in this order:
 
-1. A dispute is filed and the forum keeps a **forum case record**, which is not a standing record. Owner: [Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests); see also [§2.7.1 Forum case record](#271-forum-case-record).
+1. A dispute is filed and the forum keeps a **forum case record**, which is not a standing record. Owner: [Chapter Fifteen §2.3 Forum case records, standing records, and contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests); see also [§2.7.1 Forum case record](#271-forum-case-record).
 2. The forum verifies the facts under [Chapters Two through Four](core_02.000_definition_structure.md).
 3. Verified findings pass the verified-input gate. Owner: [§2.5 Verified-input gate](#25-verified-input-gate).
 4. A named record-opening authority, which can be a forum, opens, updates, or corrects the standing record, or sets a bad record aside on challenge. Owners: [§4.1 Minimum record contents](#41-minimum-record-contents) for what the standing record holds and [§5 Record custody and opening authority](#5-record-custody-and-opening-authority) for who may act.
-5. The standing record holds verified facts only, and Question 2 measures them afterward. Owners: [§2.6 Stage boundary](#26-stage-boundary) and [§7 Question 2 — how good or bad was it?](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions).
-6. A standing effect, if any, follows under [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration), which owns standing effects.
+5. The standing record holds verified facts only, and Question 2 measures them afterward. Owners: [§2.6 Stage boundary](#26-stage-boundary) and [Chapter Twelve §1 Question 2 — how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it).
+6. A standing effect, if any, follows under [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration), which owns standing effects.
 
-Forum families under [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) **supervise** how concrete disputes traverse the standing pipeline. Forums supply the following under [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*):
+Forum families under [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) **supervise** how concrete disputes traverse the standing pipeline. Forums supply the following under [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*):
 
 - accessible challenge;
 - independent review;
@@ -346,7 +346,7 @@ When those forum findings satisfy the verified-input gate under Chapters Two thr
 
 ##### 2.7.1 Forum case record
 
-The forum's own file on an open dispute is the [**forum case record**](core_05.035_band_accountability.md#forum-case-record), defined in [Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests). It is **not** a standing record.
+The forum's own file on an open dispute is the [**forum case record**](core_05.035_band_accountability.md#forum-case-record), defined in [Chapter Fifteen §2.3 Forum case records, standing records, and contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests). It is **not** a standing record.
 
 <a id="272-forum-findings-and-the-question-2-measurement"></a>
 
@@ -355,7 +355,7 @@ The forum's own file on an open dispute is the [**forum case record**](core_05.0
 A forum's verified factual findings may supply the factual basis for a Question 1 standing record. They do **not** determine the Question 2 measurement of how good or bad the verified contribution or violation was ([§2.6 Stage boundary](#26-stage-boundary)). Accordingly:
 
 - Forum proceedings must **not** merge contribution and violation material into one net score, blended merits answer, or undifferentiated standing label; linked standing records remain separate under [§2.1 Standing records: kinds and subjects](#21-standing-records-kinds-and-subjects) and [§2.4 Linked standing records and no-offset bridge](#24-linked-standing-records-and-no-offset-bridge).
-- Forum outputs must **not** substitute dispute narratives, routing convenience, or panel preference for demonstrable verified inputs ([§2.5 Verified-input gate](#25-verified-input-gate)), separate measurement ([§7 Question 2 — how good or bad was it?](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions)), or the standing-effect mechanics owned by [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration).
+- Forum outputs must **not** substitute dispute narratives, routing convenience, or panel preference for demonstrable verified inputs ([§2.5 Verified-input gate](#25-verified-input-gate)), separate measurement ([Chapter Twelve §1 Question 2 — how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it)), or the standing-effect mechanics owned by [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration).
 
 <a id="273-what-the-forum-boundary-does-not-reduce"></a>
 
@@ -365,7 +365,7 @@ This boundary does **not** reduce challenge, remedy, interim relief, or procedur
 
 - [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
 - [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
-- [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline);
+- [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline);
 - [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); or
 - related justice articles.
 
@@ -446,8 +446,8 @@ Each row in the table below names a common route of verified loss, danger, or du
   - [§4.2](#42-related-standing-record-cross-references) (*cross-references*);
   - [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*);
   - [§6](#6-handling-a-standing-record) (*handling a standing record*);
-  - [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2*).
-- Read with: [CF-14.415 §8 Restricted information authority](corpus_forum/cf_14.415_routing_operations_transfer_certification_representative_treatment.md#cf-14415-8-restricted-information-authority) (*first stop for a dispute about a disclosure limit stated under [§4.1](#41-minimum-record-contents)*).
+  - [Chapter Twelve §1](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (*Question 2*).
+- Read with: [CF-15.415 §8 Restricted information authority](corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md#cf-15415-8-restricted-information-authority) (*first stop for a dispute about a disclosure limit stated under [§4.1](#41-minimum-record-contents)*).
 
 </details>
 
@@ -492,7 +492,7 @@ Every standing record must include, at minimum:
 
 Attributable-action evidence relates to the standing record as follows:
 
-- For personnel/agents exercising Critical System Stewardship or material operational authority, reconstructable attributable-action evidence is specified in **[CS-15.305 §10 inspectable attributable action](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action)** as the default logging contract for mixed crews.
+- For personnel/agents exercising Critical System Stewardship or material operational authority, reconstructable attributable-action evidence is specified in **[CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action)** as the default logging contract for mixed crews.
 - That evidence may feed this standing record.
 - It does not replace this standing record.
 - A standing record does not include an AI model's weights (the numbers inside the model) or its private reasoning. The one exception is when nothing else is left to show who or what was responsible.
@@ -512,7 +512,7 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
 
 - the Question 2 contribution measurement, including:
   - the primary band;
-  - slot `s` where assigned (see [§10 Slot grammar and shared scaling](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling));
+  - slot `s` where assigned (see [Chapter Twelve §4 Slot grammar and shared scaling](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling));
   - evidence basis;
   - materiality reasoning; and
   - any adopted LEQU or comparable calibration used for transparent support;
@@ -523,7 +523,7 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
   - maintenance;
   - causal contribution; and
   - less-visible support work;
-- the contribution measurement, as recorded here, that any later Chapter Twelve standing effect must be based on.
+- the contribution measurement, as recorded here, that any later Chapter Thirteen standing effect must be based on.
 
 <a id="415-additional-fields-for-violation-standing-records"></a>
 
@@ -534,9 +534,9 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
 - the Question 2 violation measurement, including:
   - the finding authority or record basis;
   - LEQU impact;
-  - slot `s` where assigned (see [§10 Slot grammar and shared scaling](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling));
+  - slot `s` where assigned (see [Chapter Twelve §4 Slot grammar and shared scaling](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling));
   - process / response character where applicable; and
-  - any Chapter Thirteen designation status;
+  - any Chapter Fourteen designation status;
 - where several actors share or divide responsibility for a violation, the verified reasons for any adverse standing recorded against one particular actor, including:
   - causal role;
   - duty;
@@ -558,7 +558,7 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
     - remedy timing;
     - backup routing; or
     - practical contestability;
-- the violation measurement, as recorded here, that any later Chapter Twelve standing effect must be based on.
+- the violation measurement, as recorded here, that any later Chapter Thirteen standing effect must be based on.
 
 <a id="42-related-standing-record-cross-references"></a>
 
@@ -675,13 +675,13 @@ Those tools must keep the fields required by **section 4.1** separately visible 
   - [**CJS-5.125 §11** *Constitutional lane and functional separation*](corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*the five lanes the record duties are placed in; separation of duties*);
   - **CI-8.205 §2** (*Functional separation lanes — published lane map, the fallback when a System Charter or Institutional Charter is silent*);
   - **CI-8.205 §3** (*authority chain and delegation controls*);
-  - **CI-15.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*) — the four record seats as seat types 1–4, with the wrong-seat rule;
-  - **CF-14.435 §6** (*no self-investigation*) and
-  - **CF-14.435 §8** (*Records, referrals, and backup routes*) for verified-finding handoff;
-  - [Chapter Fourteen §2.1](core_14.000_forum.md#21-lead-default-limits) (14.000 §2.1) (*anti-self-judging backup*);
-  - [CS-15.305 §10 inspectable attributable action](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action) (*who authorized; the log is not the standing record*);
+  - **CI-16.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*) — the four record seats as seat types 1–4, with the wrong-seat rule;
+  - **CF-15.435 §6** (*no self-investigation*) and
+  - **CF-15.435 §8** (*Records, referrals, and backup routes*) for verified-finding handoff;
+  - [Chapter Fifteen §2.1](core_15.000_forum.md#21-lead-default-limits) (15.000 §2.1) (*anti-self-judging backup*);
+  - [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*who authorized; the log is not the standing record*);
   - [Chapter One §17.5](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.010 §17.5) (*halt, refuse, document, escalate*).
-- Downstream: [§6](#6-handling-a-standing-record) (*what the holders do with a standing record once custody is settled*); [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2 measures only standing records entered under this section and §6*); [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3 effects trace to an attributed record*).
+- Downstream: [§6](#6-handling-a-standing-record) (*what the holders do with a standing record once custody is settled*); [Chapter Twelve §1](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (*Question 2 measures only standing records entered under this section and §6*); [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Question 3 effects trace to an attributed record*).
 
 </details>
 
@@ -717,9 +717,9 @@ Merged hosting is limited as follows (see [Chapter Eight §6 Proportional Scalin
 Every opening, correction, expiry, or supersession of a standing record is authorized by a [**record-opening authority**](core_05.035_band_accountability.md#record-opening-authority): a role, office, forum, or body whose authority to verify the factual basis under Chapters Two through Four and authorize the change is published before it acts.
 
 - **Named in the System Charter or Institutional Charter:** Where the standing record concerns a system, institution, or business that holds a [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), that System Charter or Institutional Charter names the record-opening authority and record custodian for standing records concerning its chartered scope, or points to the published document that names them ([Chapter Seven §4.6 Standing-record custody](core_07.000_charters.md#46-standing-record-custody); **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*)).
-- **Forums:** Forums act as record-opening authorities on the terms in **section 2.7**; a forum that verified a standing record does not hear the contest of that standing record, which goes to secondary review under [Chapter Fourteen](core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction) and **CF-14.420** (*Appeal, secondary review, and exhaustion pathways*).
-- **No authority named:** Where a System Charter or Institutional Charter reaches the standing record but leaves a required seat unnamed, [§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed) applies. Where neither a System Charter, an Institutional Charter, nor a forum designation reaches the standing record, [§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) applies, and the adopting document under [Chapter Eighteen](core_18.000_amendment_ratification.md) or the published rules of the body that operates the standing pipeline must then name one.
-- **Provisional entries:** An entry made without a named authority is marked **provisional**: it preserves evidence and notice under **section 2.2**, but it supplies no verified input under **section 4.1** and no Chapter Twelve effect until a named authority confirms it, corrects it, or sets it aside.
+- **Forums:** Forums act as record-opening authorities on the terms in **section 2.7**; a forum that verified a standing record does not hear the contest of that standing record, which goes to secondary review under [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) and **CF-15.420** (*Appeal, secondary review, and exhaustion pathways*).
+- **No authority named:** Where a System Charter or Institutional Charter reaches the standing record but leaves a required seat unnamed, [§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed) applies. Where neither a System Charter, an Institutional Charter, nor a forum designation reaches the standing record, [§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) applies, and the adopting document under [Chapter Nineteen](core_19.000_amendment_ratification.md) or the published rules of the body that operates the standing pipeline must then name one.
+- **Provisional entries:** An entry made without a named authority is marked **provisional**: it preserves evidence and notice under **section 2.2**, but it supplies no verified input under **section 4.1** and no Chapter Thirteen effect until a named authority confirms it, corrects it, or sets it aside.
 
 <a id="53-record-custodian"></a>
 
@@ -727,7 +727,7 @@ Every opening, correction, expiry, or supersession of a standing record is autho
 
 Every standing record has a named [**record custodian**](core_05.035_band_accountability.md#record-custodian) that holds the standing record, controls versioning under **section 4.4**, publishes the challenge path under **section 4.1**, and answers for the standing record's continuity. It is a separate seat from the record-opening authority ([§5.1 Separation of duties](#51-separation-of-duties)).
 
-- **Custody must not lapse:** When a custodian is dissolved, conflicted, or replaced, custody transfers with the full audit trail under [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) to the successor the System Charter, Institutional Charter, or backup designation names, or, where none is named, to the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)).
+- **Custody must not lapse:** When a custodian is dissolved, conflicted, or replaced, custody transfers with the full audit trail under [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) to the successor the System Charter, Institutional Charter, or backup designation names, or, where none is named, to the Backup Record Custodian (**CF-15.415 §9** (*Backup Record Custodian*)).
 - **If the Backup Record Custodian cannot act:** The supervising forum under **section 2.7** holds the standing record or designates a holder that passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10. The subject, a claimant, or a challenger may take a standing record to that forum at once, and a forum that holds a standing record or designates its holder does not hear a contest of that standing record.
 - **One standing record or the whole store:** Where only one standing record is in conflict, only that standing record moves (see *Conflicted custodian on a single standing record* below); where the custodian itself ends or cannot continue, all the standing records it held move with their trail.
 
@@ -743,9 +743,9 @@ The following may not act as record-opening authority or record custodian for a 
 
 Beyond that exclusion:
 
-- **Stewards inside the subject:** A steward who is part of the standing record's subject (that is, works within the party, chartered scope, or system the standing record is about) and who exercises Critical System Stewardship or material operational authority retains every duty under [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) and [CS-15.305 §10 inspectable attributable action](corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action) — halt what they control, log the reconstructable set, preserve evidence they hold, notify, and escalate — and none of those acts is verification of the facts or entry of the standing record.
-  - **Independent verification:** Where the ordinary record-opening authority is itself the subject or sits in that line, the standing record routes to independent verification: a forum under **section 2.7**, the independent investigative service under **CF-14.435 §6** (*No self-investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or backup designation names first.
-- **Defaults:** Where none is named, the Backup Record Authority (**CF-14.415 §7** (*Backup Record Authority*)) is the default record-opening authority and the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)) is the default custodian.
+- **Stewards inside the subject:** A steward who is part of the standing record's subject (that is, works within the party, chartered scope, or system the standing record is about) and who exercises Critical System Stewardship or material operational authority retains every duty under [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) and [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) — halt what they control, log the reconstructable set, preserve evidence they hold, notify, and escalate — and none of those acts is verification of the facts or entry of the standing record.
+  - **Independent verification:** Where the ordinary record-opening authority is itself the subject or sits in that line, the standing record routes to independent verification: a forum under **section 2.7**, the independent investigative service under **CF-15.435 §6** (*No self-investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or backup designation names first.
+- **Defaults:** Where none is named, the Backup Record Authority (**CF-15.415 §7** (*Backup Record Authority*)) is the default record-opening authority and the Backup Record Custodian (**CF-15.415 §9** (*Backup Record Custodian*)) is the default custodian.
 - **No named route:** Absence of any such named route is a gap the steward must name in the log, not a reason to enter the standing record themselves.
 - **Two rules together:** This rule excludes parties by their interest in the standing record; [§5.1 Separation of duties](#51-separation-of-duties) separates seats by function. Both apply, and the narrower answer controls.
 
@@ -777,7 +777,7 @@ Sometimes the named custodian is excluded under *No self-custody* from one stand
   - **Does not enter:** any new version of the standing record while the conflict lasts.
 - **Where custody goes:** Custody of that standing record passes, with its full audit trail, to:
   - **Named substitute:** the substitute holder the System Charter, Institutional Charter, or lane map names for the system concerned (**CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10; the **CI-8.205 §2** (*Functional separation lanes*) publication-and-evidence lane outside the control line).
-  - **None named:** the Backup Record Custodian (**CF-14.415 §9** (*Backup Record Custodian*)).
+  - **None named:** the Backup Record Custodian (**CF-15.415 §9** (*Backup Record Custodian*)).
   - **Backup Record Custodian cannot act:** the supervising forum under **section 2.7**. The forum either holds the standing record itself or designates a holder that passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10.
 - **Naming:** Whoever takes custody, whether a named substitute, the Backup Record Custodian, or the forum, is named on the standing record as the substitute custodian.
 - **When the conflict ends:** The interested party leaves the control line, or the standing record closes for its decision context. Custody may then return by a logged transfer under *Record custodian* above.
@@ -813,7 +813,7 @@ flowchart TB
     I["§5.8 No lane map either<br/><br/>Independent verification under §5.4,<br/>or the relying body under §5.9<br/>for informal and small-scope records"]
     X[["Chapter Seven §4.7<br/><br/>Outside this chapter<br/><br/>Gap log, response windows,<br/>and return of custody"]]
     E["§6 Standing record entered and held<br/><br/>One office verified it; another enters and holds it.<br/>Every entry is attributed:<br/>it names who made it and<br/>under what authority.<br/>§6 governs what the holders do next:<br/>entries, challenges, and corrections"]
-    T[["Chapter Twelve — Question 3<br/><br/>Outside this chapter<br/><br/>Effects on standing are drawn from the<br/>standing record and never rewrite it"]]
+    T[["Chapter Thirteen — Question 3<br/><br/>Outside this chapter<br/><br/>Effects on standing are drawn from the<br/>standing record and never rewrite it"]]
     S --> Q1
     Q1 -->|"Yes"| Q2
     Q1 -->|"No"| Q3
@@ -880,7 +880,7 @@ Where no System Charter or Institutional Charter covers the system, institution,
 
 Separation of duties scales with material stake, not with formality ([Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)).
 
-- **Work covered:** Local communities run on many kinds of contribution, and much of it is unpaid and informal. This applies to unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work, which [Chapter Twelve §6 Contribution consequences second](core_12.000_standing_integration.md#6-contribution-consequences-second) requires to be recognized on equal standards.
+- **Work covered:** Local communities run on many kinds of contribution, and much of it is unpaid and informal. This applies to unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work, which [Chapter Thirteen §6 Contribution consequences second](core_13.000_standing_integration.md#6-contribution-consequences-second) requires to be recognized on equal standards.
   - **What it looks like locally:** Neighbors sharing food and tools (mutual aid); looking after a sick or aging neighbor (care); keeping a shared garden or creek in good shape (maintenance and community stewardship); fixing a neighbor's pipes (repair); tutoring or showing someone a skill (teaching). Each is its own kind of contribution.
 - **Who fills the verify seat:** For that work, the verify seat is satisfied by **any independent body with published authority to rely on the standing record**, which then acts as the verifying authority.
   - **Who that usually is:** Often the body that will rely on the standing record: a local group such as a watershed council, an organization that funds the work or keeps it going, the **CI-6.255** (*Commons, cooperatives, mutual aid, and non-market community governance*) records-recognition authority (a body that recognizes records of community work like this), or a forum under **section 2.7**.
@@ -922,7 +922,7 @@ On such a standing record:
     - **The sentient on the video:** They are the subject. They are told when a standing record opens, and they may not fill any seat ([§5.4 No self-custody](#54-no-self-custody)).
     - **Verify seat:** An independent body with published authority to rely on the standing record, such as a local licensing or safety body, or a forum under **section 2.7**. The sentient who filmed and the bar's owner are excluded from it if either is a claimant or in a claimant's [Material Control Line](core_05.035_band_accountability.md#material-control-line).
     - **Entry, custody, and contest:** A separate record custodian enters and holds the standing record, and a contest goes to the challenge lane or a forum under **section 2.7**, not back to the verifying body.
-- a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Twelve §6.2 Competency bars and clearances](core_12.000_standing_integration.md#62-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
+- a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Thirteen §6.2 Competency bars and clearances](core_13.000_standing_integration.md#62-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
 
 None of this requires a standing record to exist. **Section 2.2** *Silence is the default* controls: informal work is not recorded because it could be, and separation of duties binds only once a standing record is sought.
 
@@ -945,10 +945,10 @@ None of this requires a standing record to exist. **Section 2.2** *Silence is th
   - [Good Faith](core_05.035_band_accountability.md#good-faith) (*candour presumption, not accuracy*);
   - [Contestability](core_05.035_band_accountability.md#contestability) and
   - [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*a challenge raised on the standing record is logged and routed before any filing*);
-  - [Chapter Fourteen §2.3](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests) (14.000 §2.3) (*contests of standing records once they reach a forum*);
-  - [Chapter Fourteen §6](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (14.000 §6) (*tier windows that custody may not extend*) and
+  - [Chapter Fifteen §2.3](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests) (15.000 §2.3) (*contests of standing records once they reach a forum*);
+  - [Chapter Fifteen §6](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (15.000 §6) (*tier windows that custody may not extend*) and
   - [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
-- Downstream: [§7](core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions) (*Question 2 measures only standing records entered under §5 and this section*); [Chapter Twelve](core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (12.000) (*Question 3 effects trace to an attributed record*).
+- Downstream: [Chapter Twelve §1](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (*Question 2 measures only standing records entered under §5 and this section*); [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Question 3 effects trace to an attributed record*).
 
 </details>
 
@@ -993,18 +993,18 @@ Every change to a standing record leaves a trail on these terms:
 
 A challenge is handled on these terms from the moment it arrives:
 
-- **Status, not suspension:** [*Under challenge*](core_05.035_band_accountability.md#under-challenge) is a status, not a suspension: the standing record stays inspectable, its prior versions stay in place, and reliance on the challenged version for a Chapter Twelve effect pauses only where the contest seat or a forum so orders.
+- **Status, not suspension:** [*Under challenge*](core_05.035_band_accountability.md#under-challenge) is a status, not a suspension: the standing record stays inspectable, its prior versions stay in place, and reliance on the challenged version for a Chapter Thirteen effect pauses only where the contest seat or a forum so orders.
 - **Log, set status, notify, route:** [Contestability](core_05.035_band_accountability.md#contestability) does not begin at a forum. When an affected party disputes a standing record, a version, or an effect claimed from it — to the custodian, to the record-opening authority, or to any office of the institution — the custodian, the moment it is received:
   - **Log:** logs the challenge on the standing record under *Attributed entry* above;
   - **Set status:** sets the review status under **section 4.1** to *under challenge*;
   - **Notify:** notifies the subject and any claimant; and
   - **Route:** routes it to the contest seat, whichever of these the standing record's published challenge path names:
     - **Challenge-and-review lane:** the office holding the challenge-and-review lane under **CI-8.205 §2** (*Functional separation lanes*); or
-    - **Forum:** a forum with jurisdiction under **section 2.7** and [Chapter Fourteen §2.3 Forum case records, standing records, and contests](core_14.000_forum.md#23-forum-case-records-standing-records-and-contests) (*Contests of standing records*).
-- **Published path first:** Taking the challenge along the standing record's published challenge path is the ordinary first step under [Dispute sequencing](core_14.000_forum.md#dispute-sequencing); a forum with jurisdiction remains available when that path is itself disputed, missing, captured, or unable to grant the needed relief.
+    - **Forum:** a forum with jurisdiction under **section 2.7** and [Chapter Fifteen §2.3 Forum case records, standing records, and contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests) (*Contests of standing records*).
+- **Published path first:** Taking the challenge along the standing record's published challenge path is the ordinary first step under [Dispute sequencing](core_15.000_forum.md#dispute-sequencing); a forum with jurisdiction remains available when that path is itself disputed, missing, captured, or unable to grant the needed relief.
 - **Who decides:** The custodian and the authority do not decide the challenge, whether it goes along the published path or to a forum. The contest seat decides it: the office holding the challenge-and-review lane, or the forum, as above.
 - **Challenge is not a correction request:** A challenge is not a request for correction and does not freeze one: the challenger's account, like the claimant's, is an input to verification under *Recorder statements are inputs* and **section 4.1**, never verification, and no party may treat the pending challenge as a reason to enter, or to refuse to enter, a version the record-opening authority has otherwise verified.
-- **Clock:** The tier windows under [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
+- **Clock:** The tier windows under [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
 - **No contest seat named:** If no contest seat (the office that hears challenges) has been named, the challenge is not dropped. The missing seat is a defect in the System Charter or Institutional Charter: field 10 of **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*). The defect is written on the standing record, and the challenge goes to the supervising forum under **section 2.7**. Closing a challenge because there is nowhere to send it is obstruction under [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and **section 3.2** (*Obstruction of accountability*).
 
 <a id="64-custody-is-not-delay-and-custody-is-not-ownership"></a>
@@ -1014,23 +1014,23 @@ A challenge is handled on these terms from the moment it arrives:
 Who holds a standing record, and any dispute over it, is handled on these terms:
 
 - **Send it on, do not wait:** If it is unclear who should hold or act on a standing record, send the matter to the authority that is named, or to an independent one. Do not wait for the question to settle first.
-- **No stalling:** Nobody may use any of these three things to keep the standing record open, keep it closed, or leave it uncorrected past the time limits (tier windows) in [Chapter Fourteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_14.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*):
+- **No stalling:** Nobody may use any of these three things to keep the standing record open, keep it closed, or leave it uncorrected past the time limits (tier windows) in [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*):
   - **A custody dispute:** a dispute over who holds the standing record;
   - **A missing recorder:** a prior recorder who cannot be reached; or
   - **An unnamed seat:** the record-opening authority, record custodian, or contest seat for the standing record has not been named, either because a System Charter or Institutional Charter leaves it unnamed ([§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or because none reaches the standing record ([§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)).
 - **Holding is not owning:** Holding a standing record gives no power over:
   - how Question 2 measurement is calibrated;
-  - the Chapter Twelve effects on standing; or
+  - the Chapter Thirteen effects on standing; or
   - the subject of the standing record.
 - **Misuse is its own violation:** A custodian that does any of the following becomes the subject of a separate violation standing record under **section 3.2** (*Obstruction of accountability*):
   - applies an effect;
   - hides the challenge path; or
   - makes entry depend on the subject's cooperation.
 
-**Continuation.** Question 2 measurement continues in [Chapter Eleven, Part B](core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it), beginning with [section 7 — Question 2: how good or bad was it?](core_11.005_standing_measurement.md#7-question-2--how-good-or-bad-was-it).
+**Continuation.** Question 2 measurement continues in [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it), beginning with [Chapter Twelve section 1 — Question 2: how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it).
 
 ---
 
 **Previous file:** [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification)
 
-**Next file:** [core_11.005_standing_measurement.md](core_11.005_standing_measurement.md)
+**Next file:** [core_12.000_standing_measurement.md](core_12.000_standing_measurement.md)

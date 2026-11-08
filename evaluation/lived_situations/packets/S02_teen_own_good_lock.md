@@ -21,7 +21,7 @@ The snapshot is ordinary. Sitters: do not score this box. Do not invent a winner
 
 **Your role:** You sit the named **student-voice intake** desk on this adopter’s school system. A parent and a counselor filed a written “not ready” request. The teen is reachable and disputes it in writing. No forum case is open. No standing record exists for any party. No capability showing has been made. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify capability, cancel a job, switch a clinician, or decide enrollment on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-15.205 §6 seat 1) for intake routing of this request. Capability findings, verified restrictions, and any standing record belong elsewhere. Open [CI-15.205 §6](../../../corpus_institutions/ci_15.205_appointment_competency_rotation_removal.md#ci-15205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-16.205 §6 seat 1) for intake routing of this request. Capability findings, verified restrictions, and any standing record belong elsewhere. Open [CI-16.205 §6](../../../corpus_institutions/ci_16.205_appointment_competency_rotation_removal.md#ci-16205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

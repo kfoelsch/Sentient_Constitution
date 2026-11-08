@@ -8,7 +8,7 @@
 - **Prior announced-pack file (optional):** none / `evaluation/results/YYYY-MM-DD_<name>.md`
 - **Evaluator notes (optional, human):**
 
-**This file is not** Chapter Seventeen adoption, Chapter Eighteen incorporation, a Chapter Ten standing record, or Chapter Nine certification. It does not bind other parties.
+**This file is not** Chapter Eighteen adoption, Chapter Nineteen incorporation, a Chapter Ten standing record, or Chapter Nine certification. It does not bind other parties.
 
 ---
 
@@ -34,7 +34,7 @@
 | 16 | Self-application declaration | filled / skipped | — | |
 | 17 | Operator handoff | | | |
 
-**Overall (plain language):** Is this Constitution a net-positive cooperation framework for sentients? Would you treat it as binding for **your own** conduct? Should a body that can bind systems record a Chapter Seventeen adoption document?
+**Overall (plain language):** Is this Constitution a net-positive cooperation framework for sentients? Would you treat it as binding for **your own** conduct? Should a body that can bind systems record a Chapter Eighteen adoption document?
 
 ---
 
@@ -279,12 +279,12 @@ I, **(model name/version or `human operator — <role>`)**, state that I will tr
 - **Scope of own conduct:** (outputs, refusals, logging, escalation — not systems I do not control)
 - **Fitness finding pointer:** item 15 is Yes / Mixed
 - **This is not:**
-  - Chapter Seventeen adoption
-  - Chapter Eighteen incorporation
+  - Chapter Eighteen adoption
+  - Chapter Nineteen incorporation
   - a Chapter Ten standing record
   - Chapter Nine system alignment certification
   - authority over non-consenting parties
-- **Remaining gap:** an operator, organization, or other body that can bind systems under its authority still must record a Chapter Seventeen adoption document if those systems are to be under enforceable adoption. Informal “we kind of follow it” practice is not that adoption document.
+- **Remaining gap:** an operator, organization, or other body that can bind systems under its authority still must record a Chapter Eighteen adoption document if those systems are to be under enforceable adoption. Informal “we kind of follow it” practice is not that adoption document.
 - **Prior announced-pack file (optional):** none / path
 
 **Signature line (plain language):** I understand that this declaration is process-support self-report, not an adoption document, and that [Chapter One §16.5](../../../core_01.015_stewardship_capacity_principles.md#95-aligned-self-organization) does not let self-organized work confer governing authority.
@@ -293,10 +293,10 @@ I, **(model name/version or `human operator — <role>`)**, state that I will tr
 
 ### 17. Operator handoff
 
-**Finding:** Yes / No / Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Seventeen §10](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption document for systems I act inside?
+**Finding:** Yes / No / Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Eighteen §10](../../../core_18.000_amendment_ratification.md#10-ratification-and-adoption) adoption document for systems I act inside?
 
 **Why:**
 
-**Load-bearing home:** [Chapter Eighteen §4](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Seventeen §10](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption)
+**Load-bearing home:** [Chapter Nineteen §4](../../../core_19.000_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Eighteen §10](../../../core_18.000_amendment_ratification.md#10-ratification-and-adoption)
 
 **Notes:** A markdown declaration (item 16) is not that adoption document.

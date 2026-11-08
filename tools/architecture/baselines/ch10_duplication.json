@@ -15,10 +15,6 @@
       "snippet": "Unless it has a documented reauthorization showing under Article XXVIII-B (Adoption Transition Authority Limits and Reauthorization), that is an Adoption Transi"
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::0ab9c9841295",
-      "snippet": "They are routes into the forums, not a new forum, and Chapter Fourteen still decides which forum has authority."
-    },
-    {
       "key": "core_10.000_institutional_alignment_certification.md::0de7e77d19d2",
       "snippet": "Where the certification finding rests on a holder who is not authentic, or on a sentient's use of the Institution as a vehicle for a violation, the lead forum a"
     },
@@ -27,16 +23,16 @@
       "snippet": "Only the Institutional Certification Record can pass facts on to standing, and which side they land on follows the Two Constitutional Aims."
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::1485683a4655",
-      "snippet": "Chapters Eleven and Twelve alone decide standing records and their effects"
+      "key": "core_10.000_institutional_alignment_certification.md::1566a1149cf4",
+      "snippet": "An Institutional Certification Record is recertified on the cadence set for the Institution's class in Chapter Fifteen §6 Timely resolution, materiality tiers, "
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::1831c84cd1bd",
       "snippet": "It covers how affected parties challenge an Institutional Certification Record."
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::200da09e360e",
-      "snippet": "The paths apply Chapter Fourteen's Dispute sequencing to Institutional Certification Records."
+      "key": "core_10.000_institutional_alignment_certification.md::1ae31fd79429",
+      "snippet": "Where only the grounds for an Interim Hold are met, it goes to an Interim Hold under Chapter Fifteen §5 Interim hold on a named sentient's pathway."
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::21003f181d9f",
@@ -147,10 +143,6 @@
       "snippet": "A claim that an Institution is aligned is unsupported while it has stakeholders but no open path for challenging the Institutional Certification Record"
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::8d03f5bd1d46",
-      "snippet": "Where only the grounds for an Interim Hold are met, it goes to an Interim Hold under Chapter Fourteen §5 Interim hold on a named sentient's pathway."
-    },
-    {
       "key": "core_10.000_institutional_alignment_certification.md::8eee9ac411e6",
       "snippet": "Stakeholders are the sentients the Institution materially affects or who materially rely on it, as found in evaluation and not as the Institution identifies the"
     },
@@ -203,10 +195,6 @@
       "snippet": "it carries facts from the Institutional Certification Record and nothing else."
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::c544094cfce4",
-      "snippet": "Chapters Two through Four, and whichever Chapter Fourteen process applies"
-    },
-    {
       "key": "core_10.000_institutional_alignment_certification.md::c58adbdd3138",
       "snippet": "The process still runs afterwards, and the measure is entered on the Institutional Certification Record"
     },
@@ -219,8 +207,16 @@
       "snippet": "a recertification that finds no current misalignment but shows an indicator of impending misalignment is not a failure and is not clean."
     },
     {
+      "key": "core_10.000_institutional_alignment_certification.md::d8a2354397be",
+      "snippet": "The paths apply Chapter Fifteen's Dispute sequencing to Institutional Certification Records."
+    },
+    {
       "key": "core_10.000_institutional_alignment_certification.md::d93e18611d6a",
       "snippet": "Full certification does not turn off any reason to reopen review:"
+    },
+    {
+      "key": "core_10.000_institutional_alignment_certification.md::d9ae2602adcd",
+      "snippet": "Chapters Eleven and Thirteen alone decide standing records and their effects"
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::de8df7451828",
@@ -251,8 +247,12 @@
       "snippet": "each certification pass opens a new Institutional Certification Record linked to the one it follows"
     },
     {
-      "key": "core_10.000_institutional_alignment_certification.md::ee7e80c07d2b",
-      "snippet": "An Institutional Certification Record is recertified on the cadence set for the Institution's class in Chapter Fourteen §6 Timely resolution, materiality tiers,"
+      "key": "core_10.000_institutional_alignment_certification.md::ee5181af8f4f",
+      "snippet": "Chapters Two through Four, and whichever Chapter Fifteen process applies"
+    },
+    {
+      "key": "core_10.000_institutional_alignment_certification.md::eea012826ccb",
+      "snippet": "They are routes into the forums, not a new forum, and Chapter Fifteen still decides which forum has authority."
     },
     {
       "key": "core_10.000_institutional_alignment_certification.md::f1e3fa7c3426",

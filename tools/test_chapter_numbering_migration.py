@@ -107,13 +107,13 @@ def main() -> int:
         "  - **CJS-0.105 §1** (*Topic router*). Mandatory read-with: **CJS-5.110 §3**,\n"
         "  - **CI-8.215 §3** (*Contest-integrity monitoring*).\n"
         "  - **CJS-0.105 §1** (*Topic router*); primary owners\n"
-        "  - **CI-14.205** (*Appointment and removal*),\n"
+        "  - **CI-15.205** (*Appointment and removal*),\n"
         "- Ordinary downstream reference: **CJS-5.110 §3**.\n"
     )
     cleaned_routes = router_rewrite.strip_routing_annotations(routed_fixture)
     assert "Topic router" not in cleaned_routes
     assert "CI-8.215" not in cleaned_routes
-    assert "CI-14.205" not in cleaned_routes
+    assert "CI-15.205" not in cleaned_routes
     assert "Ordinary downstream reference" in cleaned_routes
 
     sync_report = subprocess.check_output(

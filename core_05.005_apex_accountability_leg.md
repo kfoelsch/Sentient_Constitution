@@ -37,8 +37,8 @@
   - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity),
   - [Chapter One §19.6](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6),
   - [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03.000_definition_integrity.md#211-formal-label-and-representation-gaming) (3.000 §2.1.1), and
-  - [Chapter Twelve §9.1](core_12.000_standing_integration.md#91-remediation-capacity-and-funding) (12.000 §9.1) /
-  - [Chapter Twelve §9.4](core_12.000_standing_integration.md#94-anti-evasion-and-look-through-authority) (12.000 §9.4).
+  - [Chapter Thirteen §9.1](core_13.000_standing_integration.md#91-remediation-capacity-and-funding) (13.000 §9.1) /
+  - [Chapter Thirteen §9.4](core_13.000_standing_integration.md#94-anti-evasion-and-look-through-authority) (13.000 §9.4).
 
 </details>
 

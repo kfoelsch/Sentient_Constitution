@@ -21,10 +21,10 @@ Think of a path from system check to remedy. **Forums supervise throughout.** Th
 
 ```mermaid
 flowchart TB
-  C[Certify the system<br/><br/>Chapter Nine] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapter Eleven]
+  C[Certify the system<br/><br/>Chapter Nine] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapters Eleven and Twelve]
   A0((A)) --> C
-  S --> E[Effects and remedy<br/><br/>Chapter Twelve]
-  E --> F[Forum families<br/><br/>Chapter Fourteen]
+  S --> E[Effects and remedy<br/><br/>Chapter Thirteen]
+  E --> F[Forum families<br/><br/>Chapter Fifteen]
   F --> A1((A))
   style C fill:none,stroke:#16a34a,color:#ffffff
   style S fill:none,stroke:#db2777,color:#ffffff
@@ -39,13 +39,13 @@ flowchart TB
 1. **Certify the system** — [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
    Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **system alignment certification record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A certification record may later supply verified facts to Chapter Eleven; it does not assign standing effects.
 
-2. **Measure standing** — [Chapter Eleven](../core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (Questions 1–2)
+2. **Record and measure standing** — [Chapter Eleven](../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (Question 1) and [Chapter Twelve](../core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) (Question 2)
    When conduct or harm matters constitutionally, verified facts enter **standing records**. Question 1 asks what happened. Question 2 measures how good or how harmful it was. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) stay on **separate axes** — they never fold into one net score. Rumors, reputations, and dispute stories are not standing.
 
-3. **Apply effects and remedy** — [Chapter Twelve](../core_12.000_standing_integration.md#chapter-twelve-standing-effects-and-integration) (Question 3)
-   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_12.000_standing_integration.md#41-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter One §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
+3. **Apply effects and remedy** — [Chapter Thirteen](../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (Question 3)
+   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_13.000_standing_integration.md#41-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter One §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
 
-4. **Forum families supervise** — [Chapter Fourteen](../core_14.000_forum.md#chapter-fourteen-forums-and-jurisdiction)
+4. **Forum families supervise** — [Chapter Fifteen](../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction)
    Forum families decide which track handles a dispute, where a case ordinarily starts, how matters transfer, and how clocks keep remedy from dying in delay. They may open, update, or correct standing records when facts are verified — or set a bad record aside on challenge. They must not be the sole final home for a claim that the same family is biased, captured, or in conflict (**anti-self-judging**). Filing a case alone has no immediate impact on standing.
 
 ## Rights floors that travel with the chain

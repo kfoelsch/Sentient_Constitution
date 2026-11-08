@@ -28,7 +28,7 @@ Order follows the Makefile `regression` list.
 | `support-doc-pointer-audit` | **L** | `tools/support_doc_pointer_audit.py` | SUPPORT-DOC-POINTER-01 | Binding corpus must not cite `doc_architecture` for meaning/routing (non-binding classifications and reading-chain footers allowed) |
 | `steward-door-lockstep-audit` (+ `-test`) | **L** | `tools/steward_door_lockstep_audit.py` | — | `STEWARD_ENTRY_DOORS.md` cards and `steward_owner_clock_index.json` stay in lockstep with the boxed operative steward statements in core; a stale door misroutes a steward under pressure |
 | `materially-binding-act-record-validate` (+ `-test`) | **L** | `tools/materially_binding_act_record_validate.py` | — | Base-schema and fixture checks for the Chapter Five / Chapter Eight Materially Binding Act Record |
-| `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-15.305 §10 log contract (`implementation/schemas/`) |
+| `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-16.305 §10 log contract (`implementation/schemas/`) |
 | `sentience-status-adjudication-record-validate` (+ `-test`) | **L** | `tools/sentience_status_adjudication_record_validate.py` | — | Schema self-check for the Sentience-Status Adjudication Record |
 | `section-label-anchor-audit` (+ `-test`) | **L** | `tools/section_label_anchor_audit.py` | SECTION-CITE-MATCH-01, SECTION-LABEL-ANCHOR-01, NAV-HEADING-SEQUENCE-01 | `§` / dotted-number link text must match the target heading and fragment; related cites need a current-numbering id; `core_*` numbered sibling headings must not duplicate or skip |
 | `section-cite-name-audit` (+ `-test`) | S | `tools/section_cite_name_audit.py` | SECTION-CITE-NAME-01 | Body-prose and table-row `§` / `§§` cites must carry a human-readable title (`tools/section_cite_name_table_baseline.json` can grandfather older table cites; it is currently empty); `--changed-only` in regression |
@@ -93,7 +93,8 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `ch13-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 13` | CH13-NEST-CANDIDATE | Ranked Chapter Thirteen packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch14-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 14` | CH14-NEST-CANDIDATE | Ranked Chapter Fourteen packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch15-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 15` | CH15-NEST-CANDIDATE | Ranked Chapter Fifteen packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch16-nested-list-candidates` through `ch19-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 16..18` | CH16-NEST-CANDIDATE through CH19-NEST-CANDIDATE | Ranked Chapters Sixteen–Nineteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch16-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 16` | CH16-NEST-CANDIDATE | Ranked Chapter Sixteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch17-nested-list-candidates` through `ch20-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 17..18` | CH17-NEST-CANDIDATE through CH20-NEST-CANDIDATE | Ranked Chapters Seventeen–Twenty packed-list rewrite candidates; advisory; `--strict` to block |
 | `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on `#### Article` |
 | `readability-audit` | `tools/readability_audit.py` | — | `make regression-full`; optional `--with-subarticle-gloss` |
 | `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/M/A/C outside Ch5; use `--strict` to block |
@@ -115,7 +116,7 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `CORE-PLACEMENT` | Chapter Five | Correct band / §1–§3 home and structural invariants |
 | `CORE-GRAVITY` | Chapter Five | Institutional or procedural machinery absorbed into definitions |
 | `CORE-TRACE` | Chapter One ↔ Five | Principle anchors and complete O/M/A/C traceability |
-| `CJS-PLACEMENT` | CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | Operational clusters only in CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 (not CJS-0.110, CJS-19.105, CJS-5.140, and CJS-8.105) |
+| `CJS-PLACEMENT` | CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | Operational clusters only in CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 (not CJS-0.110, CJS-20.105, CJS-5.140, and CJS-8.105) |
 | `CJS-TRACE` | Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | Cluster trace metadata and guidepost triad completeness |
 | `CJS-CONSTITUTIONAL-CREEP` | CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | OP rules matching Ch5 labels without Chapter Five pointers |
 | `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/M/A/C-shaped gloss outside Chapter Five |

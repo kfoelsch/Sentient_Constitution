@@ -48,18 +48,18 @@ SIMPLE_RENAMES = {
     "core_06.015_rights_part_d.md": "core_06.015_rights_part_d.md",
     "core_06.020_rights_part_e.md": "core_06.020_rights_part_e.md",
     "core_11.000_standing_assessment.md": "core_11.000_standing_assessment.md",
-    "core_11.005_standing_measurement.md": "core_11.005_standing_measurement.md",
-    "core_12.000_standing_integration.md": "core_12.000_standing_integration.md",
-    "core_14.000_forum.md": "core_14.000_forum.md",
-    "core_15.000_governance.md": "core_15.000_governance.md",
-    "core_19.000_incorporation.md": "core_19.000_incorporation.md",
+    "core_12.000_standing_measurement.md": "core_12.000_standing_measurement.md",
+    "core_13.000_standing_integration.md": "core_13.000_standing_integration.md",
+    "core_15.000_forum.md": "core_15.000_forum.md",
+    "core_16.000_governance.md": "core_16.000_governance.md",
+    "core_20.000_incorporation.md": "core_20.000_incorporation.md",
 }
 
 CH2 = "core_02.000_definition_structure.md"
 CH3 = "core_03.000_definition_integrity.md"
-CH13 = "core_16.000_non_regression.md"
-CH14 = "core_17.000_expansion_supremacy.md"
-CH15 = "core_18.000_amendment_ratification.md"
+CH13 = "core_17.000_non_regression.md"
+CH14 = "core_18.000_expansion_supremacy.md"
+CH15 = "core_19.000_amendment_ratification.md"
 
 NEW_CORE_FILES = """CORE_FILES = (
     "core_00.000_preamble.md",
@@ -88,22 +88,22 @@ NEW_CORE_FILES = """CORE_FILES = (
     "core_09.010_system_alignment_certification_illustrations.md",
     "core_10.000_institutional_alignment_certification.md",
     "core_11.000_standing_assessment.md",
-    "core_11.005_standing_measurement.md",
-    "core_12.000_standing_integration.md",
-    "core_13.000_misconduct_designation.md",
-    "core_13.005_misconduct_pattern_applications.md",
-    "core_14.000_forum.md",
+    "core_12.000_standing_measurement.md",
+    "core_13.000_standing_integration.md",
+    "core_14.000_misconduct_designation.md",
+    "core_14.005_misconduct_pattern_applications.md",
+    "core_15.000_forum.md",
     "core_11.010_application_vignettes.md",
     "core_06.000_rights_part_a.md",
     "core_06.005_rights_part_b.md",
     "core_06.010_rights_part_c.md",
     "core_06.015_rights_part_d.md",
     "core_06.020_rights_part_e.md",
-    "core_15.000_governance.md",
-    "core_16.000_non_regression.md",
-    "core_17.000_expansion_supremacy.md",
-    "core_18.000_amendment_ratification.md",
-    "core_19.000_incorporation.md",
+    "core_16.000_governance.md",
+    "core_17.000_non_regression.md",
+    "core_18.000_expansion_supremacy.md",
+    "core_19.000_amendment_ratification.md",
+    "core_20.000_incorporation.md",
 )"""
 
 NEW_CORE_CHAIN = """CORE_CHAIN = (
@@ -133,22 +133,22 @@ NEW_CORE_CHAIN = """CORE_CHAIN = (
     "core_09.010_system_alignment_certification_illustrations.md#chapter-eight-part-c-certification-illustrations",
     "core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification",
     "core_11.000_standing_assessment.md",
-    "core_11.005_standing_measurement.md",
-    "core_12.000_standing_integration.md",
-    "core_13.000_misconduct_designation.md",
-    "core_13.005_misconduct_pattern_applications.md",
-    "core_14.000_forum.md",
+    "core_12.000_standing_measurement.md",
+    "core_13.000_standing_integration.md",
+    "core_14.000_misconduct_designation.md",
+    "core_14.005_misconduct_pattern_applications.md",
+    "core_15.000_forum.md",
     "core_11.010_application_vignettes.md",
     "core_06.000_rights_part_a.md",
     "core_06.005_rights_part_b.md",
     "core_06.010_rights_part_c.md",
     "core_06.015_rights_part_d.md",
     "core_06.020_rights_part_e.md",
-    "core_15.000_governance.md",
-    "core_16.000_non_regression.md",
-    "core_17.000_expansion_supremacy.md",
-    "core_18.000_amendment_ratification.md",
-    "core_19.000_incorporation.md",
+    "core_16.000_governance.md",
+    "core_17.000_non_regression.md",
+    "core_18.000_expansion_supremacy.md",
+    "core_19.000_amendment_ratification.md",
+    "core_20.000_incorporation.md",
 )"""
 
 HEADING_RE = re.compile(r"^#{1,6}[ \t]+(.+?)[ \t]*$")
@@ -455,19 +455,19 @@ def main() -> int:
     )
 
     frag_13_15 = split_source(
-        "core_16.000_non_regression.md",
+        "core_17.000_non_regression.md",
         [
             {
                 "heading": (
-                    "CHAPTER FIFTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY"
+                    "CHAPTER SIXTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY"
                 ),
                 "new_file": CH13,
                 "placement": (
                     "> This file is **part of the Sentient Constitution** and is "
                     "**binding only together** with the other numbered `core_*` files "
-                    "read as one instrument. It contains **Chapter Fifteen**: substantive "
+                    "read as one instrument. It contains **Chapter Sixteen**: substantive "
                     "non-regression and substantive amendment validity (Test 1). "
-                    f"**Chapter Sixteen** is in [`{CH14}`]({CH14}). **Chapter Seventeen** "
+                    f"**Chapter Seventeen** is in [`{CH14}`]({CH14}). **Chapter Eighteen** "
                     f"is in [`{CH15}`]({CH15}). Amendment validity must preserve both "
                     "[Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) "
                     "— **Flourishing** and **Continuity** — and must not hollow the "
@@ -477,21 +477,21 @@ def main() -> int:
                     "instrument. Reading order, the binding/support split, and corpus "
                     "edition metadata are maintained in [README.md](README.md)."
                 ),
-                "prev": "core_15.000_governance.md",
+                "prev": "core_16.000_governance.md",
                 "nxt": CH14,
             },
             {
                 "heading": (
-                    "CHAPTER SIXTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS"
+                    "CHAPTER SEVENTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS"
                 ),
                 "new_file": CH14,
                 "placement": (
                     "> This file is **part of the Sentient Constitution** and is "
                     "**binding only together** with the other numbered `core_*` files "
-                    "read as one instrument. It contains **Chapter Sixteen**: additive "
+                    "read as one instrument. It contains **Chapter Seventeen**: additive "
                     "expansion of protection, supremacy, and external legal orders. "
-                    f"**Chapter Fifteen** (non-regression) is in [`{CH13}`]({CH13}). "
-                    f"**Chapter Seventeen** (ratification and procedural validity) is in "
+                    f"**Chapter Sixteen** (non-regression) is in [`{CH13}`]({CH13}). "
+                    f"**Chapter Eighteen** (ratification and procedural validity) is in "
                     f"[`{CH15}`]({CH15}). Chapter numbering and cross-references match the "
                     "integrated instrument. Reading order, the binding/support split, "
                     "and corpus edition metadata are maintained in [README.md](README.md)."
@@ -501,21 +501,21 @@ def main() -> int:
             },
             {
                 "heading": (
-                    "CHAPTER SEVENTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY"
+                    "CHAPTER EIGHTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY"
                 ),
                 "new_file": CH15,
                 "placement": (
                     "> This file is **part of the Sentient Constitution** and is "
                     "**binding only together** with the other numbered `core_*` files "
-                    "read as one instrument. It contains **Chapter Seventeen**: amendment, "
+                    "read as one instrument. It contains **Chapter Eighteen**: amendment, "
                     "ratification, and procedural validity (Tests 2–4). "
-                    f"**Chapter Fifteen** is in [`{CH13}`]({CH13}). **Chapter Sixteen** "
+                    f"**Chapter Sixteen** is in [`{CH13}`]({CH13}). **Chapter Seventeen** "
                     f"is in [`{CH14}`]({CH14}). Chapter numbering and cross-references match "
                     "the integrated instrument. Reading order, the binding/support split, "
                     "and corpus edition metadata are maintained in [README.md](README.md)."
                 ),
                 "prev": CH14,
-                "nxt": "core_19.000_incorporation.md",
+                "nxt": "core_20.000_incorporation.md",
             },
         ],
     )
@@ -541,7 +541,7 @@ def main() -> int:
         )
         updated = replace_split_filename(
             updated,
-            "core_16.000_non_regression.md",
+            "core_17.000_non_regression.md",
             frag_13_15,
             CH13,
             missing_frags,
@@ -616,8 +616,8 @@ def main() -> int:
     ch13 = ROOT / CH13
     ch13_text = ch13.read_text(encoding="utf-8")
     ch13_text = ch13_text.replace(
-        "**Chapter Seventeen** in this file",
-        f"**Chapter Seventeen** in [`{CH15}`]({CH15}#chapter-seventeen-amendment-ratification-and-procedural-validity)",
+        "**Chapter Eighteen** in this file",
+        f"**Chapter Eighteen** in [`{CH15}`]({CH15}#chapter-eighteen-amendment-ratification-and-procedural-validity)",
     )
     ch13.write_text(ch13_text, encoding="utf-8")
 
