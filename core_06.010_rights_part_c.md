@@ -364,7 +364,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
   - holding a sentient accountable under **Chapter Fourteen**; and
   - **Article XX-B** (*Restriction Floors*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure)).
 
-  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the standing record under **Chapter Eleven**, and each measure is a lock designed and calibrated under [Chapter Thirteen §5.1](core_13.000_standing_integration.md#51-definition-and-attachment) (*Definition and attachment*) and [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-proportionality-and-calibration) (*Proportionality and calibration*).
+  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the standing record under **Chapter Twelve**, and each measure is a lock designed and calibrated under [Chapter Thirteen §5.1](core_13.000_standing_integration.md#51-definition-and-attachment) (*Definition and attachment*) and [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-proportionality-and-calibration) (*Proportionality and calibration*).
 
   Both tracks can apply to the same facts. Nothing in this Article turns the power to destroy a system into power over a sentient's life.
 - **The reverse also holds:** Claiming that a deployed system is sentient — whether the claim is disputed or accepted — does not let anyone keep a harmful deployment running.
@@ -1663,7 +1663,7 @@ This Article sets out the rules for rewarding inventions, processes, and functio
   - **Exclusive phase:** For no more than `disclosure+15` years, the right-holder may refuse permission to others.
   - **Open-licensing phase:** From the end of the exclusive phase until no later than `disclosure+30` years, anyone may use the invention without the right-holder's permission, on payment of a LEQU-based fee. The right-holder may not refuse, delay, or attach conditions beyond the fee.
   - **After the term:** The invention is free for all to use. Attribution and provenance may persist.
-- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Chapter Eleven §12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale*).
+- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale*).
   - **Fair wages for time:** Verified benefit is converted into a fee by valuing it as sentient time at a fair wage.
     - For gains in productivity, that time is the working time the invention saves, or the productive time it adds, for those who use it.
     - For other benefits, that time is the lifetime-equivalent time given by the LEQU measure.

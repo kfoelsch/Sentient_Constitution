@@ -89,6 +89,7 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `ch8-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 8` | CH8-NEST-CANDIDATE | Ranked Chapter Eight packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch9-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 9` | CH9-NEST-CANDIDATE | Ranked Chapter Nine packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch11-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 11` | CH11-NEST-CANDIDATE | Ranked Chapter Eleven packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch12-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 12` | CH12-NEST-CANDIDATE | Ranked Chapter Twelve packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch13-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 13` | CH13-NEST-CANDIDATE | Ranked Chapter Thirteen packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch14-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 14` | CH14-NEST-CANDIDATE | Ranked Chapter Fourteen packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch15-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 15` | CH15-NEST-CANDIDATE | Ranked Chapter Fifteen packed-list rewrite candidates; advisory; `--strict` to block |

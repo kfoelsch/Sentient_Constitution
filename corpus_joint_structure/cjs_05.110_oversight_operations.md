@@ -1012,7 +1012,7 @@ Integrity-trigger routing chain
     **Primary assessment:** Evaluation must verify that intake, triage, evidence custody, independence review, recusal or anti-self-judging controls, cross-institution escalation, forum or specialist support, remediation, disclosure, and referral duties are assigned to the correct owner sections and remain auditable across transfers.
 <a id="integrity-trigger-routing-chain-c"></a>
 - **What must hold**
-  - **Primary failure:** Resolve an integrity trigger by local institutional narration alone when system, forum, assurance, or classification owners are materially implicated, or to use a CJS routing label as a substitute for Chapter Eleven measurement, Chapter Fourteen designation proceedings, CI sanctions, or CF forum procedure.
+  - **Primary failure:** Resolve an integrity trigger by local institutional narration alone when system, forum, assurance, or classification owners are materially implicated, or to use a CJS routing label as a substitute for Chapter Twelve measurement, Chapter Fourteen designation proceedings, CI sanctions, or CF forum procedure.
 
 <a id="property-custody-and-incentive-separation-control-chain"></a>
 Property-custody and incentive-separation control chain

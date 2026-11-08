@@ -95,7 +95,7 @@ CONSUMERS = [
     "core_02.000_definition_structure.md",
     "core_03.000_definition_integrity.md",
     "core_11.000_standing_assessment.md",
-    "core_11.005_standing_measurement.md",
+    "core_12.000_standing_measurement.md",
     "core_13.000_standing_integration.md",
     "core_14.000_misconduct_designation.md",
     "core_14.005_misconduct_pattern_applications.md",

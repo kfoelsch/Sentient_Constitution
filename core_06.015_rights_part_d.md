@@ -162,7 +162,7 @@ Participant standing alone must not foreclose survival-critical access under **A
 
 *Article neighbors:*
 
-- **Owner layers:** [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) and [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) measure standing records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
+- **Owner layers:** [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) and [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) measure standing records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
 - **Subarticles:** [XVIII-A](#article-xix-a-standing-distinction) states what standing is not; [XVIII-B](#article-xix-b-contestability-and-proportional-restriction-limits) states the process rules for every standing decision; [XVIII-C](#article-xix-c-contribution-competency-bars-and-named-pathway-eligibility) governs how named pathways open; [XVIII-D](#article-xix-d-violations-and-standing-locks) governs how they close; [XVIII-E](#article-xix-e-voting-and-special-locks) adds the rules for voting locks and special locks.
 
 #### Article XIX-A: Standing Distinction
@@ -311,7 +311,7 @@ This Article sets out how contribution, competency bars, and named-pathway eligi
 
 - **Named-pathway eligibility on present evidence:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** named pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone.
   - Ordinary participation pathways, including **governance-voting**, stay open when published eligibility criteria are met and no applicable standing lock blocks them ([Chapter Sixteen §4.1](core_16.000_governance.md#41-entitlement-and-eligibility) (*Entitlement and eligibility*)).
-  - Eligibility criteria must remain subject to **Chapter Eleven** (*Contribution, Violation, and Standing Model*), remain subject to continuous audit, and remain revisable when current evidence changes.
+  - Eligibility criteria must remain subject to **Chapters Eleven and Twelve** (*Standing Records and Standing Measurement*), remain subject to continuous audit, and remain revisable when current evidence changes.
 - **Contribution standing records:** Verified help enters **contribution standing records** under [Chapter Eleven §2](core_11.000_standing_assessment.md#2-question-1--what-happened) (*Question 1 — what happened?*) and is classified as positive-only [Contribution Nature](core_05.035_band_accountability.md#contribution-nature) on the Contribution Axis.
   - Contribution may support competency clearance and trust-sensitive role eligibility.
   - Contribution must not offset, waive, average down, or substitute for unresolved verified violation findings ([Chapter Eleven §2.4](core_11.000_standing_assessment.md#24-linked-standing-records-and-no-offset-bridge) (*Linked standing records and no-offset bridge*)); its limited role in lock reassessment is stated in [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*).
@@ -334,7 +334,7 @@ This Article sets out how contribution, competency bars, and named-pathway eligi
 
 - Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Thirteen §4.2](core_13.000_standing_integration.md#42-prevention--general-standing-locks) (13.000 §4.2) (*standing locks*); [Chapter Thirteen §8](core_13.000_standing_integration.md#8-restoration-and-reassessment) (13.000 §8) (*reinstatement and review*).
-- Read with: [Article XIX-E](#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Eleven §12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §12) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Read with: [Article XIX-E](#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (12.000 §6) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
@@ -366,7 +366,7 @@ This Article sets out how violations are recorded and how standing locks attach:
   - Standing locks are not a substitute for individualized justice process and do not **by themselves** limit movement, refuge, portability, or exit ([Article XXI](#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) and [Article XXII](#article-xxii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*)).
 - **Fitting the lock to the harm:** A standing lock must fit how serious the verified harm was, the specific role or privilege it protects, and how far repair has progressed.
   - **Past help:** may be considered only where it shows the sentient can make repair, keep safeguards in place, or avoid a repeat, or where it supports a lighter restriction on reassessment ([Chapter Eleven §2](core_11.000_standing_assessment.md#2-question-1--what-happened) (*Question 1 — what happened?*)). It never offsets, waives, averages down, or replaces an unresolved finding of harm.
-  - **Less serious harm:** A finding of less serious harm, as measured under [Chapter Eleven §12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (*Unified proportional LEQU scale*), does not justify long-term exclusion unless there is a repeated pattern, evasion, or a link to material harm.
+  - **Less serious harm:** A finding of less serious harm, as measured under [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*Unified proportional LEQU scale*), does not justify long-term exclusion unless there is a repeated pattern, evasion, or a link to material harm.
   - **How someone acted:** Whether the conduct was careless, concealed, coercive, or repeated can shape this review, but it does not change how serious the harm itself is rated.
   - **Repeat or hidden conduct:** Stricter limits because conduct recurs or responsibility was concealed must still be necessary, proportionate, reviewable, and tied to verified findings.
 - **Reinstatement and non-entrenchment:** Where standing is reduced due to violation findings, systems must provide clear conditions for review, remediation-based restoration, and periodic re-evaluation under [Chapter Thirteen §8](core_13.000_standing_integration.md#8-restoration-and-reassessment) (*Restoration and reassessment*).
@@ -495,7 +495,7 @@ This Article sets out the objective and scope of justice and the anti-cruelty fl
   - respond to verified violation, including stopping ongoing harm;
   - secure correction through restitution, remediation, and change to conduct or systems;
   - prevent recurrence through rehabilitation, safeguards, and other durable controls where feasible;
-  - keep credit and consequences on the right actors — supported by evidence on the official record — under **Chapter Eleven** (*Contribution, Violation, and Standing Model*).
+  - keep credit and consequences on the right actors — supported by evidence on the official record — under **Chapters Eleven and Twelve** (*Standing Records and Standing Measurement*).
 - **Anti-cruelty floor:** Justice must not be administered to inflict suffering as an end in itself. The Chapter Five home is [Cruelty](core_05.035_band_accountability.md#cruelty).
 <a id="article-xx-b-restriction-floors"></a>
 #### Article XX-B: Restriction Floors

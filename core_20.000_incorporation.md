@@ -37,7 +37,7 @@
   - [corpus_institutions.md](corpus_institutions.md),
   - [corpus_forum.md](corpus_forum.md),
   - [corpus_joint_structure.md](corpus_joint_structure.md)); substantive chapters that route operational detail here (including
-  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000),
+  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000),
   - [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000),
   - [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000), and
   - [Chapter Sixteen](core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship) (16.000) where cross-references invoke incorporation discipline).
@@ -76,7 +76,7 @@ Chapter Twenty is the constitutional owner of **incorporation bridge discipline*
   - [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) in
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000);
   - [Chapter One §15.4](core_01.005_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (1.005 §15.4) (*conflict procedure — not restated here*);
-  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) and
+  - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) and
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) (*classification homes referenced from other chapters through this bridge*).
 
 </details>

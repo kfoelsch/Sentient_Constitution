@@ -461,16 +461,16 @@
     {
       "old_id": "Chapter 10",
       "original_file": "core_11_b_standing_measurement.md",
-      "machine_id": "11005",
-      "display_id": "11.005",
+      "machine_id": "12000",
+      "display_id": "12.000",
       "layer": "CORE",
-      "core_home": "11",
-      "title": "11",
-      "destination_file": "core_11.005_standing_measurement.md",
+      "core_home": "12",
+      "title": "12",
+      "destination_file": "core_12.000_standing_measurement.md",
       "status": "active",
-      "machine_number": "11005",
+      "machine_number": "12000",
       "layer_digit": "0",
-      "ordinal_name": "11"
+      "ordinal_name": "12"
     },
     {
       "old_id": "Chapter 11",

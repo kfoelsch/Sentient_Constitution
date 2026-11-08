@@ -145,7 +145,7 @@ A proposed amendment is invalid if it:
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes)–[§6](#6-test-4--contestability-and-independent-review-validity) validity tests and contestability floor.
 - Downstream: [§12](#12-layer-scope) reminder that trigger language routes to canonical owners rather than creating new slot-classification law.
-- Read with: [Chapter Thirteen §7 — *Final standing effect*](core_13.000_standing_integration.md#7-final-standing-effect) (13.000 §7); [Chapter Eleven §12 unified scale](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §12) (*shared five-times LEQU measurement foundation for separate Contribution and Violation records*).
+- Read with: [Chapter Thirteen §7 — *Final standing effect*](core_13.000_standing_integration.md#7-final-standing-effect) (13.000 §7); [Chapter Twelve §6 unified scale](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (12.000 §6) (*shared five-times LEQU measurement foundation for separate Contribution and Violation records*).
 
 </details>
 
@@ -156,7 +156,7 @@ A proposed amendment is invalid if it:
 Heightened review is automatically triggered for amendments that materially affect any of the following:
 - rights (**Chapter Six**)
 - constitutional interpretation and review safeguards (**Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*))
-- standing effects ([Chapter Thirteen §7 — *Final standing effect*](core_13.000_standing_integration.md#7-final-standing-effect); read with the [Chapter Eleven §12 unified scale](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) — separate-axis measurement)
+- standing effects ([Chapter Thirteen §7 — *Final standing effect*](core_13.000_standing_integration.md#7-final-standing-effect); read with the [Chapter Twelve §6 unified scale](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) — separate-axis measurement)
 - emergency powers
 - cross-jurisdiction enforcement pathways
 
@@ -324,14 +324,14 @@ Amendments take effect only on a stated effective date or event recorded in the 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Seventeen §4](core_17.000_non_regression.md#4-layer-scope) (17.000 §4) substantive-chapter mirror; [§7](#7-review-triggers) and [§9](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
-- Downstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) and [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) remain sole canonical homes for listed taxonomies.
+- Downstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) and [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) remain sole canonical homes for listed taxonomies.
 - Read with: [Chapter Six — Layer scope](core_06.000_rights_part_a.md#12-layer-scope) (6.000) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
 
 </details>
 
 <br>
 
-*In plain terms: Chapter Nineteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Eleven §12 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Fourteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
+*In plain terms: Chapter Nineteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Twelve §6 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Fourteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
 
 Under [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 7** (*Review Triggers*) and in **section 9** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
@@ -343,8 +343,8 @@ Future additions that touch offense-flavored or sanction-flavored language must 
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Nineteen layer routing index</span></strong></summary>
 
 > Canonical owner routing lives in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights). For editorial orientation, obligations outside the procedural change-validity owner layer include:
-> - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Eleven** in [core_11.000_standing_assessment.md](core_11.000_standing_assessment.md); **standing effects and integration** — **Chapter Thirteen** in [core_13.000_standing_integration.md](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration);
-> - **numeric Contribution and Violation Axis slots** — the **Chapter Eleven §12 unified scale**, with separate standing records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for qualifying Violation Axis slots 7–9 — **Chapter Fourteen** in [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct); and
+> - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Twelve** in [core_12.000_standing_measurement.md](core_12.000_standing_measurement.md); **standing effects and integration** — **Chapter Thirteen** in [core_13.000_standing_integration.md](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration);
+> - **numeric Contribution and Violation Axis slots** — the **Chapter Twelve §6 unified scale**, with separate standing records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for qualifying Violation Axis slots 7–9 — **Chapter Fourteen** in [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct); and
 > - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Seventeen §4 Layer scope](core_17.000_non_regression.md#4-layer-scope) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

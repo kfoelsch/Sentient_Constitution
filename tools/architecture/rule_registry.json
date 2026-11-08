@@ -231,8 +231,15 @@
     {
       "id": "CH11-NEST-CANDIDATE",
       "legacy_ref": "Chapter Eleven nested list readability candidates",
-      "summary": "Advisory ranking of packed Chapter Eleven labeled record, custody, and measurement bullets that would scan better as nested children. Not a regression gate.",
+      "summary": "Advisory ranking of packed Chapter Eleven labeled record and custody bullets that would scan better as nested children. Not a regression gate.",
       "make_target": "ch11-nested-list-candidates",
+      "status": "advisory"
+    },
+    {
+      "id": "CH12-NEST-CANDIDATE",
+      "legacy_ref": "Chapter Twelve nested list readability candidates",
+      "summary": "Advisory ranking of packed Chapter Twelve labeled measurement, harm-table, and hand-off bullets that would scan better as nested children. Not a regression gate.",
+      "make_target": "ch12-nested-list-candidates",
       "status": "advisory"
     },
     {

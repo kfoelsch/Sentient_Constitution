@@ -905,7 +905,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution),
   - [Contestability](core_05.035_band_accountability.md#contestability),
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), the
-  - [Chapter Eleven §12 unified scale](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §12) (*numeric Violation Axis slot assignment from verified impact*),
+  - [Chapter Twelve §6 unified scale](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (12.000 §6) (*numeric Violation Axis slot assignment from verified impact*),
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in
   - [CF-15.425](corpus_forum/cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-15425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and
   - [CI-13.215](corpus_institutions/ci_13.215_institutional_accountability_sanctions.md#ci-13215-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
@@ -936,7 +936,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - coordination;
     - sequencing; or
     - other procedural housekeeping — including [Stays](core_05.035_band_accountability.md#stay).
-  - The final numeric Violation Axis slot is a Chapter Eleven §12 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale measurement based on verified impact. [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) governs only the matching anti-constitutional-misconduct designation when a Chapter Eleven slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
+  - The final numeric Violation Axis slot is a Chapter Twelve §6 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale measurement based on verified impact. [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) governs only the matching anti-constitutional-misconduct designation when a Chapter Twelve slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
   - **Out of scope:** procedural housekeeping, routing, scheduling, monitoring, evidence preservation, or a [Stay](core_05.035_band_accountability.md#stay) — none of which settle liability, entitlement, validity, mandate, remedy, or a comparable rights-affecting disposition.
 <a id="merits-determination-a"></a>
 - **How to measure and assess**
@@ -2860,7 +2860,7 @@ The following limits also apply:
   - [Animal Life](core_05.055_band_participation.md#animal-life),
   - [Animal Cruelty](core_05.035_band_accountability.md#animal-cruelty),
   - [Violation Nature](core_05.035_band_accountability.md#violation-nature),
-  - [Chapter Eleven §8.2.2](core_11.005_standing_measurement.md#822-how-the-way-a-harm-was-caused-is-recorded) (11.005 §8.2.2) (*conduct-character stack*), and
+  - [Chapter Twelve §2.2.2](core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded) (12.000 §2.2.2) (*conduct-character stack*), and
   - [Chapter Thirteen §4.2](core_13.000_standing_integration.md#42-prevention--general-standing-locks) (13.000 §4.2) (*general standing locks*).
 
 </details>
@@ -2881,7 +2881,7 @@ The following limits also apply:
     - bare [Harm](core_05.035_band_accountability.md#harm) magnitude without suffering-as-end or gratuitous / degrading character;
     - ordinary discomfort, offense, or disagreement alone; or
     - lawful proportionate restrictions, fair consequences, or remediation that hurt without being designed as suffering for its own sake — including ordinary public accountability that is unpleasant or reputationally adverse without humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process).
-  - **Standing boundary:** When verified as conduct character on a [violation standing record](core_05.035_band_accountability.md#standing-record), [Cruelty](core_05.035_band_accountability.md#cruelty) may orient prevention, safeguards, and non-degrading remedy under [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration). It does not assign or move the Violation Axis slot under [Violation Nature](core_05.035_band_accountability.md#violation-nature) and [Chapter Eleven §8.2.2 How the way a harm was caused is recorded](core_11.005_standing_measurement.md#822-how-the-way-a-harm-was-caused-is-recorded).
+  - **Standing boundary:** When verified as conduct character on a [violation standing record](core_05.035_band_accountability.md#standing-record), [Cruelty](core_05.035_band_accountability.md#cruelty) may orient prevention, safeguards, and non-degrading remedy under [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration). It does not assign or move the Violation Axis slot under [Violation Nature](core_05.035_band_accountability.md#violation-nature) and [Chapter Twelve §2.2.2 How the way a harm was caused is recorded](core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded).
 <a id="cruelty-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Flourishing measurement family](core_05.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are sentients sustained in life, safety, and access to essentials?* Use them here to ask whether suffering was the point of the treatment — or piled on beyond necessity and proportionality — not only whether some harm occurred.
@@ -3226,7 +3226,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Fifteen §4.1](core_15.000_forum.md#41-sentient-forums) (15.000 §4.1); read with [Chapter Eleven §10](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (11.005 §10) primary-stakes routing.
+- Owner: [Chapter Fifteen §4.1](core_15.000_forum.md#41-sentient-forums) (15.000 §4.1); read with [Chapter Twelve §4](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (12.000 §4) primary-stakes routing.
 
 </details>
 
@@ -3241,7 +3241,7 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
-    **Primary assessment:** Apply Chapter Fifteen (*Forums and Jurisdiction*) default-venue and primary-stakes rules while preserving Chapter Eleven (*Contribution, Violation, and Standing Model*) measurements. Reject routing based on a case caption when it conflicts with the primary stake in the **Sentient** row of Chapter Fifteen §2 (*Default venue and primary stakes*).
+    **Primary assessment:** Apply Chapter Fifteen (*Forums and Jurisdiction*) default-venue and primary-stakes rules while preserving Chapter Twelve (*Contribution, Violation, and Standing Model*) measurements. Reject routing based on a case caption when it conflicts with the primary stake in the **Sentient** row of Chapter Fifteen §2 (*Default venue and primary stakes*).
 <a id="forum-family-sentient-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to make a **Sentient** forum decide final institutional or constitutional merits when Chapter Fifteen requires another lead family. It is also non-compliant to make **Sentient** forums the only path when asymmetry or dependency requires **Institutional** or **Integrity** availability under Chapter Fifteen §2.2 (*Mixed stakes and routing asymmetry*).
@@ -3365,7 +3365,7 @@ See **Anti-Segmentation Principle**.
     - anti-capture duties; or
     - a pattern of system-wide integrity failure across institutions.
   - It applies where any of the following depends on that decision:
-    - Chapter Eleven impact measurement;
+    - Chapter Twelve impact measurement;
     - a corresponding Chapter Fourteen anti-constitutional-misconduct designation; or
     - Rights-Floor enforcement.
   - It includes the alignment rulings and coordinated records described in Chapter Fifteen §4.5 (*Integrity Forums*).
@@ -3471,7 +3471,7 @@ See **Anti-Segmentation Principle**.
   - **Out of scope:**
     - [Standing Record](core_05.035_band_accountability.md#standing-record);
     - [Standing Effect](core_05.035_band_accountability.md#standing-effect);
-    - Chapter Eleven standing measurement;
+    - Chapter Twelve standing measurement;
     - Chapter Thirteen standing-effect decisions; and
     - operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15.465** (*Standard records, forms, and evidence artifacts*)) except insofar as they instantiate this case file.
 <a id="forum-case-record-a"></a>
@@ -3500,7 +3500,7 @@ See **Anti-Segmentation Principle**.
       - an unresolved allegation; or
       - a settlement discussion;
     - merge contribution and violation tracks into a case narrative that defeats axis-pure audit; or
-    - substitute the case record for Chapter Eleven measurement or Chapter Thirteen consequence decisions.
+    - substitute the case record for Chapter Twelve measurement or Chapter Thirteen consequence decisions.
 
 ---
 
@@ -3512,7 +3512,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Non-Compliance](core_05.045_band_integrative.md#non-compliance); [Chapter Three §3 — Non-Compliance Finding Profiles](core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) (3.000 §3).
-- Downstream: [CJS-5.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map); [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000).
+- Downstream: [CJS-5.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map); [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [Constitutional Contract Layer](core_05.045_band_integrative.md#constitutional-contract-layer) — governance-layer routing for profile **layer** codes.
 
 </details>
@@ -3523,7 +3523,7 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:** Optional orientation and routing metadata attached to a material [Non-Compliance](core_05.045_band_integrative.md#non-compliance) finding. For audits, routing, and cross-implementation work, the profile names the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg, [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation, governance layer, **failure character**, and **severity level** (**T1**–**T4**) that best describe the finding.
-  - **Out of scope:** parallel verdict documents; [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) contribution or violation measurement; optional routing metadata without a material non-compliance finding.
+  - **Out of scope:** parallel verdict documents; [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) contribution or violation measurement; optional routing metadata without a material non-compliance finding.
   - **Depends on:** a material non-compliance finding under [Chapter Three](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) or an invoked Chapter Five definition.
 <a id="non-compliance-finding-profile-a"></a>
 - **How to measure and assess**
@@ -3533,7 +3533,7 @@ See **Anti-Segmentation Principle**.
 <a id="non-compliance-finding-profile-c"></a>
 - **What must hold**
   - **Primary failure:** treating the profile as deciding whether the underlying definition is met;
-  - **Secondary failure:** using the profile to bypass [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) verified-input, contribution, or violation classification when standing findings are applied.
+  - **Secondary failure:** using the profile to bypass [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) verified-input, contribution, or violation classification when standing findings are applied.
 
 ---
 
@@ -3552,7 +3552,7 @@ See **Anti-Segmentation Principle**.
   - [Contestability](core_05.035_band_accountability.md#contestability),
   - [Materiality](core_05.050_band_oversight.md#materiality),
   - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution),
-  - [Chapter Eleven §10](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (11.005 §10),
+  - [Chapter Twelve §4](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (12.000 §4),
   - [Chapter Thirteen §4.2](core_13.000_standing_integration.md#42-prevention--general-standing-locks) (13.000 §4.2), and
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) where materially implicated.
 - Downstream: [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*binding chain map for the Chapters Eleven through Fifteen pipeline*).
@@ -3568,7 +3568,7 @@ See **Anti-Segmentation Principle**.
 - verified violations;
 - standing consequences;
 - standing-lock effects;
-- anti-constitutional-misconduct designation review for a Chapter Eleven slot 7–9 record; or
+- anti-constitutional-misconduct designation review for a Chapter Twelve slot 7–9 record; or
 - how the nature of a violation, and how process and response are characterized, interact with forum routing and remedies.
 
 Outside that cluster's scope, an individual Chapter Eleven through Chapter Fourteen hook may still be cited without applying the entire cluster.
@@ -3655,12 +3655,12 @@ See **Anti-Segmentation Principle**.
     - reputation or social esteem; or
     - proof of material impact for [Stakeholder](core_05.055_band_participation.md#stakeholder) identification.
   - Chapter Five pointer for **Article XIX** (*Standing and Participation Status*) participation status.
-  - Axis mechanics: [Contribution Nature](core_05.035_band_accountability.md#contribution-nature) and [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened).
+  - Axis mechanics: [Contribution Nature](core_05.035_band_accountability.md#contribution-nature) and [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
   - **Out of scope:**
     - reputation, popularity, prestige, brand, or social esteem;
     - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing);
     - proof that someone is a [Stakeholder](core_05.055_band_participation.md#stakeholder);
-    - final anti-constitutional-misconduct designation for a Chapter Eleven Violation Axis `s = 7`, `s = 8`, or `s = 9` record — governed by [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct); or
+    - final anti-constitutional-misconduct designation for a Chapter Twelve Violation Axis `s = 7`, `s = 8`, or `s = 9` record — governed by [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct); or
     - the matching [Anti-Constitutional Trust Lock](core_13.000_standing_integration.md#55-special-locks), which attaches under Chapter Thirteen.
 <a id="participant-standing-constitutional-a"></a>
 - **How to measure and assess**
@@ -3750,7 +3750,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4) (standing metrics vs demonstrable facts).
-- Canonical owner: [Chapter Eleven — §12 unified scale](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §12) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Chapter Eleven — section 1](core_11.000_standing_assessment.md#1-the-three-questions) (11.000) (*three-question frame*) and [Chapter Eleven §4.1 — Verified-input gate](core_11.000_standing_assessment.md#41-minimum-record-contents) (11.000 §4.1).
+- Canonical owner: [Chapter Twelve — §6 unified scale](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (12.000 §6) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Chapter Eleven — section 1](core_11.000_standing_assessment.md#1-the-three-questions) (11.000) (*three-question frame*) and [Chapter Eleven §4.1 — Verified-input gate](core_11.000_standing_assessment.md#41-minimum-record-contents) (11.000 §4.1).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Participant Standing](core_05.035_band_accountability.md#participant-standing) (*distinct — **Article XIX** (*Standing and Participation Status*) participation status versus Axis I typing*);
@@ -3773,7 +3773,7 @@ See **Anti-Segmentation Principle**.
   - **In scope:**
     - **Axis I** measures **positive-only** constitutional outcomes: meeting the **baseline** and making **demonstrable** improvements beyond it under the applicable functional system conditions.
     - Those outcomes may affect **standing effect** only when they rest on auditable, contestable, demonstrable verified contribution records that satisfy Chapters **Two through Four** and Chapter Eleven **§4.1** (*Minimum record contents*).
-    - Chapter Five pointer; canonical mechanics: [Chapter Eleven](core_11.000_standing_assessment.md) [**section 9**](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes), read with [**sections 1–2**](core_11.000_standing_assessment.md#1-the-three-questions) and **§3.1 Minimum record contents**; [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) for contribution-linked effects.
+    - Chapter Five pointer; canonical mechanics: [Chapter Eleven](core_11.000_standing_assessment.md) [**Chapter Twelve section 3**](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes), read with [**sections 1–2**](core_11.000_standing_assessment.md#1-the-three-questions) and **§3.1 Minimum record contents**; [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) for contribution-linked effects.
   - **Out of scope:**
     - **Adverse violation findings** or non-compliance under [**violation nature**](core_05.035_band_accountability.md#violation-nature) on **Axis II**.
     - [Participant Standing](core_05.035_band_accountability.md#participant-standing) (**Article XIX** (*Standing and Participation Status*) participation status and role eligibility).
@@ -3792,7 +3792,7 @@ See **Anti-Segmentation Principle**.
     - Apply Chapter Eleven's no-offset rule and keep Contribution Axis inputs separate from [Violation Nature](core_05.035_band_accountability.md#violation-nature).
     - For contribution-linked standing effect, a standing record without an applicable contribution-nature classification is incomplete, and so is a contribution-nature label without a verified contribution record.
     - Keep [Participant Standing](core_05.035_band_accountability.md#participant-standing) and Chapter Eleven labels consistent where both apply.
-    - Formal-channel pedigree cannot replace demonstrable contribution under Chapter Eleven **section 9**.
+    - Formal-channel pedigree cannot replace demonstrable contribution under Chapter Twelve **section 3**.
 <a id="contribution-state-c"></a>
 <a id="contribution-nature-c"></a>
 - **What must hold**
@@ -3800,8 +3800,8 @@ See **Anti-Segmentation Principle**.
     - call an **adverse violation** finding a **negative contribution** on **Axis I**;
     - treat reputation, popularity, pedigree, or unverified claims as verified contribution records;
     - assign **contribution nature** for contribution-linked **standing effect** without a verified contribution record;
-    - use **contribution nature** or verified contribution records to **net away**, **average**, erase, or replace [**violation nature**](core_05.035_band_accountability.md#violation-nature) / verified violation findings required by Chapter Eleven **§4.2** (*Related standing record cross-references*) and **§6** (*Slot grammar and shared scaling*); or
-    - use **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution nature** or **standing effect** that cannot be traced to Chapter Eleven **section 9** / **§4.1** (*Minimum record contents*).
+    - use **contribution nature** or verified contribution records to **net away**, **average**, erase, or replace [**violation nature**](core_05.035_band_accountability.md#violation-nature) / verified violation findings required by Chapter Eleven **§4.2** (*Related standing record cross-references*) and Chapter Twelve **§4** (*Slot grammar and shared scaling*); or
+    - use **opaque**, **non-auditable**, or **undisclosed** criteria for **contribution nature** or **standing effect** that cannot be traced to Chapter Twelve **section 3** / Chapter Eleven **§4.1** (*Minimum record contents*).
 
 ---
 
@@ -3819,9 +3819,9 @@ See **Anti-Segmentation Principle**.
   - [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
   - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (verified facts for adverse standing).
 - Canonical owner: the
-  - [Chapter Eleven §12 unified proportional LEQU scale](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §12) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*);
+  - [Chapter Twelve §6 unified proportional LEQU scale](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (12.000 §6) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*);
   - [Chapter Eleven §2.5 Verified-input gate](core_11.000_standing_assessment.md#25-verified-input-gate) (11.000 §2.5);
-  - [Chapter Eleven §9.2](core_11.005_standing_measurement.md#92-violation-route-descriptor-catalog-and-measurement-roles) (11.005 §9.2) (*stackable harm and conduct descriptors*);
+  - [Chapter Twelve §3.2](core_12.000_standing_measurement.md#32-violation-route-descriptor-catalog-and-measurement-roles) (12.000 §3.2) (*stackable harm and conduct descriptors*);
   - [Chapter Thirteen §3](core_13.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (13.000 §3) (*Question 3 process / response character attachments and descriptor integration*). Read with the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Verified Inputs for Standing](core_05.035_band_accountability.md#verified-inputs-for-standing),
@@ -3830,7 +3830,7 @@ See **Anti-Segmentation Principle**.
   - [Cruelty](core_05.035_band_accountability.md#cruelty),
   - [Auditability](core_05.050_band_oversight.md#auditability),
   - [Contestability](core_05.035_band_accountability.md#contestability), and
-  - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution). For a Chapter Eleven Violation Axis slot 7, 8, or 9,
+  - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution). For a Chapter Twelve Violation Axis slot 7, 8, or 9,
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) may add the corresponding anti-constitutional-misconduct designation but does not assign the numeric slot.
 
 </details>
@@ -3843,8 +3843,8 @@ See **Anti-Segmentation Principle**.
   - **In scope:**
     - The **Axis II** classification of **adverse** constitutional outcomes from verified violation findings that satisfy Chapters **Two through Four** and Chapter Eleven **§4.2** (*Related standing record cross-references*).
     - Those violation findings may affect **standing effect** only when they rest on that auditable, contestable verified basis.
-    - Chapter Eleven **§10** (*Unified proportional LEQU scale — Contribution and Violation Axes*) assigns a verified-impact slot on its unified scale. Process / response and harm / conduct descriptors attach to that slot but do not move it.
-    - Chapter Five pointer; canonical mechanics: Chapter Eleven **§10** (*Unified proportional LEQU scale — Contribution and Violation Axes*), **§4.2** (*Related standing record cross-references*), Chapter Thirteen descriptor sections, and [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) for adverse standing effects.
+    - Chapter Twelve **§10** (*Unified proportional LEQU scale — Contribution and Violation Axes*) assigns a verified-impact slot on its unified scale. Process / response and harm / conduct descriptors attach to that slot but do not move it.
+    - Chapter Five pointer; canonical mechanics: Chapter Twelve **§10** (*Unified proportional LEQU scale — Contribution and Violation Axes*), **§4.2** (*Related standing record cross-references*), Chapter Thirteen descriptor sections, and [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) for adverse standing effects.
     - It is distinct from [**contribution nature**](core_05.035_band_accountability.md#contribution-nature), the positive-only **Axis I**, which uses the same bands in a separate standing record.
   - **Out of scope:**
     - allegations, intake labels, provisional routing tags, or unresolved forum-phase narratives;
@@ -3960,9 +3960,9 @@ See **Anti-Segmentation Principle**.
   - [Chapter Eleven — §2.5 Verified-input gate](core_11.000_standing_assessment.md#25-verified-input-gate) (11.000 §2.5),
   - [Chapter Eleven — §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority) (11.000 §5) (*named record-opening authority and custodian; no self-custody*),
   - [Chapter Eleven — §6 Handling a standing record](core_11.000_standing_assessment.md#6-handling-a-standing-record) (11.000 §6) (*recorder statements are inputs; attributed entry; challenges*),
-  - [Chapter Eleven — §10 Slot grammar and display labels](core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) (11.005 §10),
-  - [Chapter Eleven — §7.1 LEQU baseline](core_11.005_standing_measurement.md#71-lequ-baseline) (11.005 §7.1), the
-  - [Chapter Eleven §12 unified scale](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §12) (*shared five-times LEQU bands; separate axis records*), and
+  - [Chapter Twelve — §4 Slot grammar and display labels](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (12.000 §4),
+  - [Chapter Twelve — §1.1 LEQU baseline](core_12.000_standing_measurement.md#11-lequ-baseline) (12.000 §1.1), the
+  - [Chapter Twelve §6 unified scale](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (12.000 §6) (*shared five-times LEQU bands; separate axis records*), and
   - [Chapter Thirteen — Integration](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
@@ -3987,7 +3987,7 @@ See **Anti-Segmentation Principle**.
     - Each standing record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both.
     - A **contribution standing record** measures verified [contribution nature](core_05.035_band_accountability.md#contribution-nature); a **violation standing record** measures verified [violation nature](core_05.035_band_accountability.md#violation-nature).
     - Whichever axis it measures, a standing record about a Chartered Party, its chartered scope, or a system it stewards is an **operator standing record**. A standing record about a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder standing record**. A standing record with neither subject follows the general rules. The two kinds face different conflicts of interest, so their custody rules differ (Chapter Eleven §5 (*Record custody and opening authority*), *Two kinds of standing record by subject*).
-    - [Chapter Eleven Part A §4.2 Related standing record cross-references](core_11.000_standing_assessment.md#42-related-standing-record-cross-references) requires related standing records to cross-reference each other when they share a subject, overlapping record span, bounded event, pattern, or decision context.
+    - [Chapter Eleven §4.2 Related standing record cross-references](core_11.000_standing_assessment.md#42-related-standing-record-cross-references) requires related standing records to cross-reference each other when they share a subject, overlapping record span, bounded event, pattern, or decision context.
     - The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit — but distinct units and contexts must remain separately traceable.
     - The standing record supplies source material for later [Standing Effect](core_05.035_band_accountability.md#standing-effect) analysis; Chapter Thirteen applies that separate consequence layer from the linked standing record set.
     - Each standing record names, as separate seats under Chapter Eleven §5 (*Record custody and opening authority*):
@@ -4273,12 +4273,12 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: numeric slot assignment remains with the
-  - [Chapter Eleven §12 unified scale](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §12), controlled only by verified impact.
+  - [Chapter Twelve §6 unified scale](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (12.000 §6), controlled only by verified impact.
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000), especially its
   - [Chapter Fourteen §1](core_14.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (14.000 §1),
   - [criteria set](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment),
   - [designation analysis](core_14.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and
-  - [due-process safeguards](core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment), governs only whether a Chapter Eleven slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation. Legacy anchors remain unchanged.
+  - [due-process safeguards](core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment), governs only whether a Chapter Twelve slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation. Legacy anchors remain unchanged.
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Violation Nature](core_05.035_band_accountability.md#violation-nature),
@@ -4294,15 +4294,15 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Anti-Constitutional Misconduct Review asks whether a final Chapter Eleven Violation Axis slot 7, 8, or 9 receives the matching Chapter Fourteen anti-constitutional-misconduct designation. Chapter Fourteen does not assign or move the numeric slot.*
+*In plain terms: Anti-Constitutional Misconduct Review asks whether a final Chapter Twelve Violation Axis slot 7, 8, or 9 receives the matching Chapter Fourteen anti-constitutional-misconduct designation. Chapter Fourteen does not assign or move the numeric slot.*
 
 - **What it is**
   - **In scope:**
-    - The Chapter Fourteen process that decides whether a final Chapter Eleven Violation Axis `s = 7`, `s = 8`, or `s = 9` impact slot receives the matching anti-constitutional-misconduct designation (ACMD).
+    - The Chapter Fourteen process that decides whether a final Chapter Twelve Violation Axis `s = 7`, `s = 8`, or `s = 9` impact slot receives the matching anti-constitutional-misconduct designation (ACMD).
     - The process identifies the unified incident, applies the criteria, tests the ACMD conditions, and confirms due-process safeguards.
     - It does not assign or move the numeric slot.
   - **Out of scope:**
-    - Chapter Eleven numeric Violation Axis slot assignment;
+    - Chapter Twelve numeric Violation Axis slot assignment;
     - legacy tier labels;
     - character descriptors; and
     - standing locks.
@@ -4312,13 +4312,13 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Before adding the ACMD, require a bounded standing record with a Chapter Eleven impact slot, verified input basis, unified-incident analysis, Chapter Fourteen criteria assessment, independent review, contestable notice, and reasoned publication.
+    - Before adding the ACMD, require a bounded standing record with a Chapter Twelve impact slot, verified input basis, unified-incident analysis, Chapter Fourteen criteria assessment, independent review, contestable notice, and reasoned publication.
     - Keep change-path validity, forum operations, rights remedies, and governance consequences in their own chapters.
 <a id="top-slot-review-c"></a>
 <a id="anti-constitutional-misconduct-review-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - use Chapter Fourteen criteria, an adopting document, process note, subsidiary body, forum shortcut, legacy tier label, character descriptor, or Chapter Eleven / Chapter Thirteen standing lock to assign or move the numeric Violation Axis slot; or
+    - use Chapter Fourteen criteria, an adopting document, process note, subsidiary body, forum shortcut, legacy tier label, character descriptor, or Chapter Twelve / Chapter Thirteen standing lock to assign or move the numeric Violation Axis slot; or
     - add the ACMD without Chapter Fourteen criteria and safeguards.
 
 ---
@@ -4395,11 +4395,11 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:**
-    - The combined evidence and reasoning used to assess a unified incident under Chapter Fourteen's designation criteria and due-process safeguards after Chapter Eleven assigns the impact slot.
+    - The combined evidence and reasoning used to assess a unified incident under Chapter Fourteen's designation criteria and due-process safeguards after Chapter Twelve assigns the impact slot.
     - It keeps overlapping facts, actors, effects, criteria, and review status together while preserving separate proof for each criterion or pattern.
   - **Out of scope:**
     - ordinary separate case files for truly unrelated incidents; and
-    - Chapter Thirteen character-descriptor attachments that do not assign or move the Chapter Eleven impact slot.
+    - Chapter Thirteen character-descriptor attachments that do not assign or move the Chapter Twelve impact slot.
 <a id="unified-record-a"></a>
 <a id="unified-incident-record-a"></a>
 - **How to measure and assess**
@@ -4415,7 +4415,7 @@ See **Anti-Segmentation Principle**.
     - fragment records to hide pattern gravity;
     - merge records in a way that obscures distinct subjects or review rights;
     - count one undifferentiated course of conduct toward several Chapter Fourteen criteria or named patterns without separate actions taken toward differing objectives;
-    - use character descriptors to assign or move the Chapter Eleven impact slot, including:
+    - use character descriptors to assign or move the Chapter Twelve impact slot, including:
       - intent;
       - duty;
       - negligence;
@@ -4452,7 +4452,7 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:**
-    - A unified incident that, taken as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Eleven scores as **Grave Constitutional Impact** or **Catastrophic Constitutional Impact**. Chapter Fourteen may attach the matching anti-constitutional-misconduct designation; it does not assign the numeric slot.
+    - A unified incident that, taken as a whole, causes or imminently threatens catastrophic constitutional harm of the kind Chapter Twelve scores as **Grave Constitutional Impact** or **Catastrophic Constitutional Impact**. Chapter Fourteen may attach the matching anti-constitutional-misconduct designation; it does not assign the numeric slot.
     - This includes loss or suspension of operative constitutional authority; material, population-scale loss of contestability or Rights-Floor continuity; or comparable harm relevant to survival or system continuity.
   - **Out of scope:**
     - serious but non-catastrophic violations; and
@@ -4462,13 +4462,13 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Measure the verified impact as a whole under Chapter Eleven §12 (*Unified proportional LEQU scale — Contribution and Violation Axes*).
+    - Measure the verified impact as a whole under Chapter Twelve §6 (*Unified proportional LEQU scale — Contribution and Violation Axes*).
     - If the resulting slot is 7, 8, or 9, then apply Chapter Fourteen's designation criteria and due-process safeguards.
     - Verified impact — not intent, another character descriptor, or the number of isolated acts — sets the numeric slot.
 <a id="single-catastrophic-incident-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - use this label for serious violations that do not reach Chapter Eleven **s = 8** or **s = 9** impact; or
+    - use this label for serious violations that do not reach Chapter Twelve **s = 8** or **s = 9** impact; or
     - avoid the label by splitting one catastrophic unified incident into smaller procedural units.
 
 ---
@@ -4494,15 +4494,15 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Eleven slot 7, 8, or 9, even without one catastrophic moment.*
+*In plain terms: a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Twelve slot 7, 8, or 9, even without one catastrophic moment.*
 
 - **What it is**
   - **In scope:**
-    - A unified incident made up of continuing, repeated, or systematically reinforced conduct whose combined verified impact reaches Chapter Eleven slot 7, 8, or 9.
+    - A unified incident made up of continuing, repeated, or systematically reinforced conduct whose combined verified impact reaches Chapter Twelve slot 7, 8, or 9.
     - It may then undergo Chapter Fourteen designation review.
     - Material rollback, blocked or chilled challenge rights, Rights-Floor degradation, correction delayed beyond practical remedy, an equivalent structural workaround, institutional scale, capture, and durability may describe the pattern and support designation analysis, but they do not move the numeric slot.
   - **Out of scope:**
-    - ordinary repeated defects without combined constitutional harm reaching Chapter Eleven slot 7, 8, or 9; and
+    - ordinary repeated defects without combined constitutional harm reaching Chapter Twelve slot 7, 8, or 9; and
     - isolated one-off events without continuity or systematic reinforcement.
 <a id="sustained-high-gravity-pattern-a"></a>
 - **How to measure and assess**
@@ -4915,7 +4915,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:** Test what the measure does in substance: does its effect foreclose [Reversibility](core_05.040_band_continuity.md#reversibility) and [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), regardless of its procedural form? Detect:
 
     - re-introduction framings that route the prohibited measure through:
-      - Chapter Eleven impact slots or Chapter Fourteen designation ("final s = 8 / s = 9" predicates);
+      - Chapter Twelve impact slots or Chapter Fourteen designation ("final s = 8 / s = 9" predicates);
       - **Chapter Fifteen §6.1** (*Emergency measures and continuation burden*) emergency measures;
       - **Article XXVIII** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition or re-baselining governance;
       - adopter-document custody; or
@@ -4942,7 +4942,7 @@ See **Anti-Segmentation Principle**.
 - **What must hold**
   - **Primary failure:** A state, operator, or comparable actor imposes irreversible deprivation of life as a justice measure — non-compliant without exception under revised **Article XX-B** (*Restriction Floors*).
   - **Secondary failure:**
-    - routing the prohibited measure through Chapter Eleven impact assignment, Chapter Fourteen designation, emergency framing, Adoption Transition or re-baselining governance, or adopter-document custody to reintroduce it;
+    - routing the prohibited measure through Chapter Twelve impact assignment, Chapter Fourteen designation, emergency framing, Adoption Transition or re-baselining governance, or adopter-document custody to reintroduce it;
     - using lasting but reversible containment under **Article XX-B** (*Restriction Floors*) as a stepping-stone or justification for the prohibited measure; or
     - re-labelling an involuntarily-imposed outcome as "voluntary discontinuation" to route into **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*).
   - **Tertiary failure:** Substrate-class narrowings on taxonomy grounds alone ([Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion)).

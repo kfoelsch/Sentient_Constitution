@@ -204,7 +204,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [Certification Revocation](core_05.040_band_continuity.md#certification-revocation), which takes back a certification already held;
     - deferred certification, which postpones the decision for a bounded period and refuses nothing;
     - an order to stop operating, which is decided separately under the survival-essential protection in [Chapter Nine Part C §9.3.5](core_09.010_system_alignment_certification_record_recertification.md#935-class-a-reliance); and
-    - a standing effect or violation finding — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) alone decides standing —
+    - a standing effect or violation finding — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification).
   - The conditions and process are stated in [Chapter Nine Part B §7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation), and the effects in [Chapter Nine Part B §7.5](core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation); this entry is the Chapter Five meaning only.
@@ -299,7 +299,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [Certification Denial](core_05.040_band_continuity.md#certification-denial), which refuses certification to a system that holds none;
     - deferred certification, which postpones the decision for a bounded period and takes nothing back;
     - the cascade to an Institution that cites the certification, which is governed by [Chapter Ten §9.5 Cascade from System certifications](core_10.000_institutional_alignment_certification.md#95-cascade-from-system-certifications); and
-    - a standing effect or violation finding — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) alone decides standing —
+    - a standing effect or violation finding — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [Recertification](core_05.040_band_continuity.md#recertification).
   - The conditions and process are stated in [Chapter Nine Part B §7.4](core_09.005_system_alignment_certification_record_process.md#74-denial-and-revocation), and the effects in [Chapter Nine Part B §7.5](core_09.005_system_alignment_certification_record_process.md#75-effects-of-denial-and-revocation); this entry is the Chapter Five meaning only.
@@ -570,7 +570,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - **Out of scope:**
     - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification);
     - conditional certification, which concerns certification conditions and may attach to either status;
-    - a permanent permission slip, reputation score, or standing effect — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) alone decides standing —
+    - a permanent permission slip, reputation score, or standing effect — [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) alone decides standing —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Provisional Certification](core_05.040_band_continuity.md#provisional-certification); [Recertification](core_05.040_band_continuity.md#recertification).
   - The clean-recertification minimum, step-down, and tier windows are stated in [Chapter Nine Part C §9.3](core_09.010_system_alignment_certification_record_recertification.md#93-provisional-and-full-certification); this entry is the Chapter Five meaning only.
@@ -1770,7 +1770,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - a shortcut around:
       - Rights-Floor review;
       - [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication); or
-      - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) standing measurement.
+      - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) standing measurement.
   - **Out of scope:**
     - reputation score, permanent permission slip, vendor attestation, or internal sign-off — ordinary operator artifacts, not the forum-supervised record;
     - a [Standing Record](core_05.035_band_accountability.md#standing-record), standing effect, or merged merit score; or
@@ -1816,7 +1816,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - using the System Certification Record as a shortcut around:
       - Rights-Floor review;
       - [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication); or
-      - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) standing measurement.
+      - [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) standing measurement.
     - offering the System Certification Record as a standing record, standing effect, or merged merit score.
 
 ---
@@ -6427,7 +6427,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:** Apply [Materiality](core_05.050_band_oversight.md#materiality) and evidence-of-misalignment tests consistent with:
     - [Contestability](core_05.035_band_accountability.md#contestability);
     - [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional); and
-    - Chapter Eleven **contribution** **inputs** where stewardship claims are material to classification or standing.
+    - Chapter Twelve **contribution** **inputs** where stewardship claims are material to classification or standing.
 <a id="review-and-correction-duty-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable.

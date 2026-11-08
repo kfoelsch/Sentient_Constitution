@@ -376,7 +376,7 @@ DEFAULT_THEMATIC_BREAK_TARGETS: tuple[str, ...] = (
     "core_08.000_functional_independence_separation_of_duties.md",
     "core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation",
     "core_11.000_standing_assessment.md",
-    "core_11.005_standing_measurement.md",
+    "core_12.000_standing_measurement.md",
     "core_13.000_standing_integration.md",
     "core_14.000_misconduct_designation.md",
     "core_14.005_misconduct_pattern_applications.md",

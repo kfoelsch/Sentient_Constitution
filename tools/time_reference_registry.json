@@ -86,11 +86,11 @@
   "exempt_unit_patterns": [
     {
       "pattern": "human (?:lifespan|calibration)|80-year",
-      "reason": "Chapter Eleven day-equivalent calibration, not a deadline"
+      "reason": "Chapter Twelve day-equivalent calibration, not a deadline"
     },
     {
       "pattern": "^\\|\\s*[0-9]+\\s*\\|.*day-equivalent|about \\*\\*[0-9]+",
-      "reason": "Chapter Eleven day-equivalent calibration table"
+      "reason": "Chapter Twelve day-equivalent calibration table"
     },
     {
       "pattern": "[“\"](?:as soon as feasible|promptly|reasonable)[”\"]",

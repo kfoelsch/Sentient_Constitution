@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Four**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
 >
 > **Upstream:** [Chapters Two and Three — Definition mechanics](core_02.000_definition_structure.md); Chapter Five definitions.
-> **Downstream:** [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened).
+> **Downstream:** [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
 
 </details>
 
@@ -17,7 +17,7 @@
 > - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Preamble](core_00.000_preamble.md#preamble--foundational-requirements); **participation** where materially required through practical observability and independent challenge under sections **3** and **4**. Requirements scale with [material stake](core_00.000_preamble.md#material-stake).
 > - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. **Chapter Eleven** owns standing-record and verified-input discipline read with this chapter.
 > - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides a [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) rule.
-> - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Five definitions, **Chapter Eleven** contribution or standing measurement, or Chapter Fourteen anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Chapter Three §3 — Non-Compliance Finding Profiles](core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) and [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened). **Section 6** states how Chapters Two through Four differ from [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+> - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Five definitions, **Chapter Twelve** contribution or standing measurement, or Chapter Fourteen anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Chapter Three §3 — Non-Compliance Finding Profiles](core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) and [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened). **Section 6** states how Chapters Two through Four differ from [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 
 </details>
 
@@ -163,7 +163,7 @@ Cryptography and information-type handling must align with the Constitution and 
   - [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03.000_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) (3.000);
   - [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (3.000);
   - [Chapter Three, §2.6 Uncertainty Integrity and Non-Exploitation Constraint](core_03.000_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) (3.000 §2.6) — substantive definition and non-compliance rules; **§5** states evidence-layer requirements only and does not restate those rules.
-- Downstream: [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000).
+- Downstream: [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
 - Read with:
   - [Chapter Four, section 2 — Definition Traceability Requirement](#2-definition-traceability-requirement) — failure to invoke or correctly apply any materially required
   - **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full;
@@ -203,7 +203,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Two — Definition Structure and Component Requirements](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) (2.000); [Chapter Three — Definition Integrity, Evasion, and Non-Compliance](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) (3.000); [Chapter Four, sections 1 through 5](#1-exclusive-enforcement-and-burden-allocation).
-- Downstream: [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000); [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000).
+- Downstream: [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000); [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000).
 - Read with: [Chapter Nine §7 — Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior certification.
 
 </details>

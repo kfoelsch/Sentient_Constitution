@@ -25,7 +25,7 @@ Someone claims you are trusted, or unsafe, because of a story, a flag, or a sing
 - **Today:** A dashboard folds praise and harm into one number. The “good” side wipes the harm.
 - **With this Constitution:** Help and harm stay separate. Verified good conduct does not erase verified harm.
 
-See: [Chapter Eleven](../../../core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened).
+See: [Chapter Eleven](../../../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened).
 
 **Rumors are not the record. A filed case is not the record either.**
 - **Today:** Gossip, a relative’s letter, or “we filed” is treated as the finding.

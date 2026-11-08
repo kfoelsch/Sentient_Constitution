@@ -104,7 +104,8 @@ The Constitution is one document split into a Preamble and twenty chapters. You 
 | **Chapter 8**: [Separation of duties](core_08.000_functional_independence_separation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
 | **Chapter 9**: [Part A](core_09.000_system_alignment_certification_evaluation.md) · [Part B](core_09.005_system_alignment_certification_record_process.md) · [Part C](core_09.010_system_alignment_certification_record_recertification.md) · [worked illustrations, CS-9.320](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
 | **Chapter 10**: [Institutional alignment certification](core_10.000_institutional_alignment_certification.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
-| **Chapter 11**: [Part A](core_11.000_standing_assessment.md) · [Part B](core_11.005_standing_measurement.md) | Keeping verified records of what a participant has contributed and any violations, then measuring how good or how bad each was |
+| **Chapter 11**: [Standing records](core_11.000_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
+| **Chapter 12**: [Standing measurement](core_12.000_standing_measurement.md) | Measuring how good or how bad each recorded contribution or violation was |
 | **Chapter 13**: [Standing integration](core_13.000_standing_integration.md) | What those standing records lead to: effects, restoration, and remedies |
 | **Chapter 14**: [Part A](core_14.000_misconduct_designation.md) · [Part B](core_14.005_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
 | **Chapter 15**: [Forums](core_15.000_forum.md) | Review bodies and hearings, and why no one may judge their own case |

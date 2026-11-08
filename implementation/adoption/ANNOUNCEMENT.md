@@ -92,7 +92,7 @@ On that base, three processes carry most of the weight:
   verified help and verified harm — is kept on the record as separate
   entries, so neither erases the other. Consequences follow from the
   record, not from reputation or a popularity score. (Chapters Eleven
-  and Eleven)
+  and Twelve)
 - Contestability. Anyone affected by a system or a decision can
   challenge it, have it reviewed by people who did not make it, and
   get it corrected within set time limits. (Chapter Fifteen)

@@ -514,7 +514,7 @@ def run_internal_regression_checks() -> None:
     if scan_avoid_bare_placement("doc_architecture.md", "The placement applies.\n"):
         raise RuntimeError("Internal regression failed: bare placement was flagged in the exempt move-log file.")
     designation_findings = scan_avoid_bare_designation(
-        "core_11.005_standing_measurement.md",
+        "core_12.000_standing_measurement.md",
         "The designation attaches to the finding.\n"
         "A final designation triggers the lock.\n"
         "Designation-only review stays separate.\n"

@@ -538,7 +538,7 @@ A command relationship is not a defense, but it may bear on:
 - coercive force against constitutional authority.
 
 A final ACMD still requires:
-- an existing Chapter Eleven `s` = 7, 8, or 9 impact slot;
+- an existing Chapter Twelve `s` = 7, 8, or 9 impact slot;
 - a **section 3** decision; and
 - **section 4** due-process safeguards.
 
@@ -874,7 +874,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
   - [§2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*);
   - [§3](core_14.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*);
   - [§4](core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*);
-  - [Chapter Eleven §12](core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (11.005 §12) (*proportional Violation Axis impact, including ecological or infrastructure loss*).
+  - [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (12.000 §6) (*proportional Violation Axis impact, including ecological or infrastructure loss*).
 - Rights and systems context:
   - [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*),
   - [Article V-A](core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*),
@@ -1128,8 +1128,8 @@ It routes evaluation of the named pattern into the existing ACMD criteria, due-p
   - [§2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*);
   - [§3](core_14.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*);
   - [Chapter Eleven §3.2](core_11.000_standing_assessment.md#32-violation-event-types) (11.000 §3.2) (*Obstruction of accountability event type*);
-  - [Chapter Eleven §8.2.2](core_11.005_standing_measurement.md#822-how-the-way-a-harm-was-caused-is-recorded) (11.005 §8.2.2) and
-  - [§9.2](core_11.005_standing_measurement.md#92-violation-route-descriptor-catalog-and-measurement-roles) (*conduct character and Accountability Obstruction Misconduct*);
+  - [Chapter Twelve §2.2.2](core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded) (12.000 §2.2.2) and
+  - [Chapter Twelve §3.2](core_12.000_standing_measurement.md#32-violation-route-descriptor-catalog-and-measurement-roles) (*conduct character and Accountability Obstruction Misconduct*);
   - [Chapter One §19.1.2](core_01.010_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) (1.010 §19.1.2) (*obstruction of accountability among non-rewardable patterns*).
 - Related patterns (modes, not competing criteria):
   - [§5.3](#53-flooding-the-zone-and-contest-pathway-denial);
@@ -1163,7 +1163,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria, due-p
 
 <br>
 
-*In plain terms: attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Eleven and Eleven.*
+*In plain terms: attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Eleven and Twelve.*
 
 **Obstruction of accountability** is not a separate ACMD criterion. It names verified **conduct** that disables answerability machinery — evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths. Distinguish it from [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways), which often names a structural condition; this subsection evaluates the conduct that produces, maintains, or exploits that disablement.
 
@@ -1183,7 +1183,7 @@ Named patterns elsewhere in this section are **modes** of obstruction, not compe
 - [§5.9 Infrastructure denial, destruction, or dependency cutoff conduct](#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) — infrastructure denial that cuts audit, remedy, or verification pathways;
 - [§5.10 Forum recusal failure and biased panel participation](#510-forum-recusal-failure-and-biased-panel-participation) — forum-integrity capture of contestability.
 
-The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 2** criteria. Chapter Eleven alone measures the Violation Axis slot; obstruction character never raises it. Chapter Thirteen alone attaches ordinary named pathway locks and, after final ACMD, the Anti-Constitutional Trust Lock.
+The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 2** criteria. Chapter Twelve alone measures the Violation Axis slot; obstruction character never raises it. Chapter Thirteen alone attaches ordinary named pathway locks and, after final ACMD, the Anti-Constitutional Trust Lock.
 
 This subsection does **not**:
 - add an additional ACMD criterion beyond the **section 2** set;

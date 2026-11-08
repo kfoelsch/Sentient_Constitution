@@ -36,8 +36,8 @@ Coverage: **757** of **1209** headings carry a gloss (63%).
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-part-b-system-alignment-certification--forum-process-and-outcomes) — `core_09.005_system_alignment_certification_record_process.md` (10/35 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — RECORD, RECERTIFICATION, AND STANDING](#chapter-nine-part-c-system-alignment-certification--record-recertification-and-standing) — `core_09.010_system_alignment_certification_record_recertification.md` (11/34 glossed)
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
-- [CHAPTER ELEVEN, PART A: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-part-a-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
-- [CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) — `core_11.005_standing_measurement.md` (10/36 glossed)
+- [CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
+- [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
 - [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (20/44 glossed)
 - [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/14 glossed)
@@ -1759,7 +1759,7 @@ after a verified violation finding that a sentient materially used an institutio
 
 ###### Anti-Constitutional Misconduct Review
 
-Anti-Constitutional Misconduct Review asks whether a final Chapter Eleven Violation Axis slot 7, 8, or 9 receives the matching Chapter Fourteen anti-constitutional-misconduct designation. Chapter Fourteen does not assign or move the numeric slot.
+Anti-Constitutional Misconduct Review asks whether a final Chapter Twelve Violation Axis slot 7, 8, or 9 receives the matching Chapter Fourteen anti-constitutional-misconduct designation. Chapter Fourteen does not assign or move the numeric slot.
 
 [Source](../../core_05.035_band_accountability.md#top-slot-review)
 
@@ -1783,7 +1783,7 @@ a Single Catastrophic Incident is one connected event whose verified impact caus
 
 ###### Sustained High-Gravity Pattern
 
-a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Eleven slot 7, 8, or 9, even without one catastrophic moment.
+a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Twelve slot 7, 8, or 9, even without one catastrophic moment.
 
 [Source](../../core_05.035_band_accountability.md#sustained-high-gravity-pattern)
 
@@ -3017,7 +3017,7 @@ the shared information environment sentients use to learn, coordinate, publish, 
 
 ##### Lifespan Equivalent Unit (LEQU)
 
-a shared unit for expressing full-life-equivalent benefit or loss when Chapter Eleven standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.
+a shared unit for expressing full-life-equivalent benefit or loss when Chapter Twelve standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.
 
 [Source](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ)
 
@@ -4951,7 +4951,7 @@ certification can feed standing, but it is not standing. An Institutional Certif
 
 [Source](../../core_10.000_institutional_alignment_certification.md#115-violation-standing-record)
 
-## CHAPTER ELEVEN, PART A: STANDING RECORDS — QUESTION 1, WHAT HAPPENED
+## CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED
 
 Source file: [`core_11.000_standing_assessment.md`](../../core_11.000_standing_assessment.md) · 8/43 headings glossed
 
@@ -5207,219 +5207,219 @@ once custody is settled, four rules govern how the sentients and offices that ho
 
 [Source](../../core_11.000_standing_assessment.md#64-custody-is-not-delay-and-custody-is-not-ownership)
 
-## CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?
+## CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?
 
-Source file: [`core_11.005_standing_measurement.md`](../../core_11.005_standing_measurement.md) · 10/36 headings glossed
+Source file: [`core_12.000_standing_measurement.md`](../../core_12.000_standing_measurement.md) · 10/36 headings glossed
 
-#### 7. Question 2 — how good or bad was it?
+#### 1. Question 2 — how good or bad was it?
 
 Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified harm. The axes remain separate; they are not two sides of a net score.
 
-[Source](../../core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions)
+[Source](../../core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it)
 
-##### 7.1 LEQU baseline
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#71-lequ-baseline)
-
-##### 7.2 Limits on using LEQU
+##### 1.1 LEQU baseline
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#72-limits-on-using-lequ)
+[Source](../../core_12.000_standing_measurement.md#11-lequ-baseline)
 
-##### 7.3 Question 2 only — scope and routing
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#73-question-2-only--scope-and-routing)
-
-##### 7.4 Sentience-status bridge
+##### 1.2 Limits on using LEQU
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#74-sentience-status-bridge)
+[Source](../../core_12.000_standing_measurement.md#12-limits-on-using-lequ)
 
-#### 8. Magnitude and severity input dimensions
-
-this section says what Question 2 produces (**section 8.1**), then lists what to examine when measuring a verified contribution or a verified violation (**section 8.2**). Each axis is measured on its own. The shared scaling rules are in **section 10.2**, and the slot comes from the scale in **section 12**.
-
-[Source](../../core_11.005_standing_measurement.md#8-magnitude-and-severity-input-dimensions)
-
-##### 8.1 What Question 2 produces
+##### 1.3 Question 2 only — scope and routing
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#81-what-question-2-produces)
+[Source](../../core_12.000_standing_measurement.md#13-question-2-only--scope-and-routing)
 
-##### 8.2 Contribution magnitude-input and violation severity-input dimensions
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#82-contribution-magnitude-input-and-violation-severity-input-dimensions)
-
-###### 8.2.1 How the way a benefit was produced affects what counts
+##### 1.4 Sentience-status bridge
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#821-how-the-way-a-benefit-was-produced-affects-what-counts)
+[Source](../../core_12.000_standing_measurement.md#14-sentience-status-bridge)
 
-###### 8.2.2 How the way a harm was caused is recorded
+#### 2. Magnitude and severity input dimensions
 
-*(no plain-terms gloss in source)*
+this section says what Question 2 produces (**section 2.1**), then lists what to examine when measuring a verified contribution or a verified violation (**section 2.2**). Each axis is measured on its own. The shared scaling rules are in **section 4.2**, and the slot comes from the scale in **section 6**.
 
-[Source](../../core_11.005_standing_measurement.md#822-how-the-way-a-harm-was-caused-is-recorded)
+[Source](../../core_12.000_standing_measurement.md#2-magnitude-and-severity-input-dimensions)
 
-#### 9. Route descriptor catalogs and measurement roles
-
-the two catalogs below name the kinds of verified help (**section 9.1**) and harm (**section 9.2**) a standing record can carry. A descriptor says how the benefit or harm occurred; descriptors are stackable and subordinate to the slot.
-
-[Source](../../core_11.005_standing_measurement.md#9-route-descriptor-catalogs-and-measurement-roles)
-
-##### 9.1 Contribution route descriptor catalog and measurement roles
+##### 2.1 What Question 2 produces
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#91-contribution-route-descriptor-catalog-and-measurement-roles)
+[Source](../../core_12.000_standing_measurement.md#21-what-question-2-produces)
 
-###### 9.1.1 Bodily safety, relationships, care, and agency
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#911-bodily-safety-relationships-care-and-agency)
-
-###### 9.1.2 Repair, property, and resources
+##### 2.2 Contribution magnitude-input and violation severity-input dimensions
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#912-repair-property-and-resources)
+[Source](../../core_12.000_standing_measurement.md#22-contribution-magnitude-input-and-violation-severity-input-dimensions)
 
-###### 9.1.3 Knowledge, education, records, and discovery
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#913-knowledge-education-records-and-discovery)
-
-###### 9.1.4 Systems and constitutional operation
+###### 2.2.1 How the way a benefit was produced affects what counts
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#914-systems-and-constitutional-operation)
+[Source](../../core_12.000_standing_measurement.md#221-how-the-way-a-benefit-was-produced-affects-what-counts)
 
-###### 9.1.5 Ecology and diligence
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#915-ecology-and-diligence)
-
-##### 9.2 Violation route descriptor catalog and measurement roles
+###### 2.2.2 How the way a harm was caused is recorded
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#92-violation-route-descriptor-catalog-and-measurement-roles)
+[Source](../../core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded)
 
-###### 9.2.1 Bodily safety, relationships, care, and agency
+#### 3. Route descriptor catalogs and measurement roles
 
-*(no plain-terms gloss in source)*
+the two catalogs below name the kinds of verified help (**section 3.1**) and harm (**section 3.2**) a standing record can carry. A descriptor says how the benefit or harm occurred; descriptors are stackable and subordinate to the slot.
 
-[Source](../../core_11.005_standing_measurement.md#921-bodily-safety-relationships-care-and-agency)
+[Source](../../core_12.000_standing_measurement.md#3-route-descriptor-catalogs-and-measurement-roles)
 
-###### 9.2.2 Repair, property, and resources
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#922-repair-property-and-resources)
-
-###### 9.2.3 Knowledge, education, records, and discovery
+##### 3.1 Contribution route descriptor catalog and measurement roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#923-knowledge-education-records-and-discovery)
+[Source](../../core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles)
 
-###### 9.2.4 Systems and constitutional operation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#924-systems-and-constitutional-operation)
-
-###### 9.2.5 Ecology and diligence
+###### 3.1.1 Bodily safety, relationships, care, and agency
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#925-ecology-and-diligence)
+[Source](../../core_12.000_standing_measurement.md#311-bodily-safety-relationships-care-and-agency)
 
-#### 10. Slot grammar and shared scaling
-
-this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other standing records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 12** assigns both axes by proportional LEQU impact.
-
-[Source](../../core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling)
-
-##### 10.1 Table 1 — slot display labels
+###### 3.1.2 Repair, property, and resources
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#101-table-1--slot-display-labels)
+[Source](../../core_12.000_standing_measurement.md#312-repair-property-and-resources)
 
-##### 10.2 Shared impact-scaling rules
+###### 3.1.3 Knowledge, education, records, and discovery
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#313-knowledge-education-records-and-discovery)
+
+###### 3.1.4 Systems and constitutional operation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#314-systems-and-constitutional-operation)
+
+###### 3.1.5 Ecology and diligence
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#315-ecology-and-diligence)
+
+##### 3.2 Violation route descriptor catalog and measurement roles
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#32-violation-route-descriptor-catalog-and-measurement-roles)
+
+###### 3.2.1 Bodily safety, relationships, care, and agency
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#321-bodily-safety-relationships-care-and-agency)
+
+###### 3.2.2 Repair, property, and resources
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#322-repair-property-and-resources)
+
+###### 3.2.3 Knowledge, education, records, and discovery
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#323-knowledge-education-records-and-discovery)
+
+###### 3.2.4 Systems and constitutional operation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#324-systems-and-constitutional-operation)
+
+###### 3.2.5 Ecology and diligence
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#325-ecology-and-diligence)
+
+#### 4. Slot grammar and shared scaling
+
+this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other standing records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 6** assigns both axes by proportional LEQU impact.
+
+[Source](../../core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling)
+
+##### 4.1 Table 1 — slot display labels
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#41-table-1--slot-display-labels)
+
+##### 4.2 Shared impact-scaling rules
 
 impact is not measured by headcount alone. A profound benefit or loss affecting one sentient may be more significant than a shallow effect affecting many. Count, depth, vulnerability, duration, durability, reach, and constitutional character must be assessed together.
 
-[Source](../../core_11.005_standing_measurement.md#102-shared-impact-scaling-rules)
+[Source](../../core_12.000_standing_measurement.md#42-shared-impact-scaling-rules)
 
-#### 11. Constitutional inputs to axis assignment
+#### 5. Constitutional inputs to axis assignment
 
 before choosing a slot, identify the constitutional sources that say what baseline, benefit, duty, harm, or violation is being measured. Use the links below to apply those sources at their canonical homes; do not turn this routing step into another score or a substitute definition.
 
-[Source](../../core_11.005_standing_measurement.md#11-constitutional-inputs-to-axis-assignment)
+[Source](../../core_12.000_standing_measurement.md#5-constitutional-inputs-to-axis-assignment)
 
-##### 11.1 Definition inputs
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#111-definition-inputs)
-
-##### 11.2 Principle inputs
+##### 5.1 Definition inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#112-principle-inputs)
+[Source](../../core_12.000_standing_measurement.md#51-definition-inputs)
 
-##### 11.3 Rights-Floor and Article inputs
+##### 5.2 Principle inputs
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#113-rights-floor-and-article-inputs)
+[Source](../../core_12.000_standing_measurement.md#52-principle-inputs)
 
-#### 12. Unified proportional LEQU scale — Contribution and Violation Axes
+##### 5.3 Rights-Floor and Article inputs
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#53-rights-floor-and-article-inputs)
+
+#### 6. Unified proportional LEQU scale — Contribution and Violation Axes
 
 **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The standing records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.
 
-[Source](../../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes)
+[Source](../../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes)
 
-#### 13. Standard contribution measures
+#### 7. Standard contribution measures
 
 for tasks sentients do again and again, such as a litter pickup or a creek-restoration work unit, an adopter may publish a default Question 2 measurement so each verified instance does not need its own estimate. The default is a floor, not a cap: work that verifiably does more is measured on what it did, and work that falls short is measured on what was verified. Defaults are updated on a published schedule, can be contested, and never create a duty to do the task.
 
-[Source](../../core_11.005_standing_measurement.md#13-standard-contribution-measures)
+[Source](../../core_12.000_standing_measurement.md#7-standard-contribution-measures)
 
-#### 14. Measurement illustrations
+#### 8. Measurement illustrations
 
-two worked examples show **sections 8 and 9** measuring a verified contribution and a verified violation. They live with the other worked examples and add no rule.
+two worked examples, **vignettes 8 and 9**, measure a verified contribution and a verified violation. They live with the other worked examples and add no rule.
 
-[Source](../../core_11.005_standing_measurement.md#14-measurement-illustrations)
+[Source](../../core_12.000_standing_measurement.md#8-measurement-illustrations)
 
-#### 15. Hand-off to Question 3 — cross-question measurement hooks
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_11.005_standing_measurement.md#15-hand-off-to-question-3--cross-question-measurement-hooks)
-
-##### 15.1 Similar-looking facts that must stay separate
+#### 9. Hand-off to Question 3 — cross-question measurement hooks
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_11.005_standing_measurement.md#151-similar-looking-facts-that-must-stay-separate)
+[Source](../../core_12.000_standing_measurement.md#9-hand-off-to-question-3--cross-question-measurement-hooks)
+
+##### 9.1 Similar-looking facts that must stay separate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_12.000_standing_measurement.md#91-similar-looking-facts-that-must-stay-separate)
 
 ## CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION
 
@@ -5475,7 +5475,7 @@ locks are cheap to issue; repair, restoration, and review are expensive to run. 
 
 #### 5. Lock design and enforcement
 
-once a lock is needed under [§4.2 Prevention — general standing locks](../../core_13.000_standing_integration.md#42-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Eleven measurement, and it does not let contribution offset a lock.
+once a lock is needed under [§4.2 Prevention — general standing locks](../../core_13.000_standing_integration.md#42-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Twelve measurement, and it does not let contribution offset a lock.
 
 [Source](../../core_13.000_standing_integration.md#5-lock-design-and-enforcement)
 
@@ -5523,7 +5523,7 @@ after violation, correction, and prevention are assigned under [§4 Violation, c
 
 ##### 6.1 Recency and currentness
 
-how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Eleven measurement, and time alone does not settle an unresolved violation.
+how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Twelve measurement, and time alone does not settle an unresolved violation.
 
 [Source](../../core_13.000_standing_integration.md#61-recency-and-currentness)
 
@@ -5689,19 +5689,19 @@ Source file: [`core_14.000_misconduct_designation.md`](../../core_14.000_miscond
 
 #### 1. How designation decisions work — Continuity and tetrad-capture frame
 
-this chapter works in one sequence. First confirm the Chapter Eleven impact slot, then define the incident, apply the anti-constitutional-misconduct designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.
+this chapter works in one sequence. First confirm the Chapter Twelve impact slot, then define the incident, apply the anti-constitutional-misconduct designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.
 
 [Source](../../core_14.000_misconduct_designation.md#1-scope-and-authority)
 
 #### 2. Criteria set (for anti-constitutional-misconduct designation) — Accountability at constitutional scale
 
-evaluators first accept the Chapter Eleven impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. They may not split one scheme to game the anti-constitutional-misconduct designation.
+evaluators first accept the Chapter Twelve impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. They may not split one scheme to game the anti-constitutional-misconduct designation.
 
 [Source](../../core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment)
 
 #### 3. Violation Axis s = 7–9 anti-constitutional designation
 
-Chapter Eleven has already scored how serious the harm is. This section only asks a further question: did the same incident also attack the Constitution’s validity, day-to-day operation, Rights Floors, or the Tetrad badly enough to count as anti-constitutional misconduct?
+Chapter Twelve has already scored how serious the harm is. This section only asks a further question: did the same incident also attack the Constitution’s validity, day-to-day operation, Rights Floors, or the Tetrad badly enough to count as anti-constitutional misconduct?
 
 [Source](../../core_14.000_misconduct_designation.md#3-violation-axis-s--79-anti-constitutional-designation)
 
@@ -5807,7 +5807,7 @@ if a judge on a constitutional panel stays on the case while materially compromi
 
 #### 5.11 Obstruction of accountability: criteria interaction
 
-attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Eleven and Eleven.
+attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Eleven and Twelve.
 
 [Source](../../core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)
 
@@ -7009,7 +7009,7 @@ calling a rollback "implementation guidance," burying it in metadata, or calling
 
 #### 4. Layer scope
 
-Chapter Seventeen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Eleven §12 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Fourteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
+Chapter Seventeen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Twelve §6 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Fourteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
 
 [Source](../../core_17.000_non_regression.md#4-scope-limit-and-layer-discipline)
 
@@ -7191,7 +7191,7 @@ effect follows what is honestly recorded on a stated date or event — secret pa
 
 #### 12. Layer scope
 
-Chapter Nineteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Eleven §12 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Fourteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
+Chapter Nineteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Twelve §6 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Fourteen anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
 
 [Source](../../core_19.000_amendment_ratification.md#12-scope-limit-and-layer-discipline)
 

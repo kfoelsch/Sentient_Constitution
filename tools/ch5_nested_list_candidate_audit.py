@@ -34,7 +34,7 @@ chapter) in
 tools/architecture/rule_registry.json.
 Legacy chapter-specific names: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE /
 CH8-NEST-CANDIDATE / CH9-NEST-CANDIDATE / CH10-NEST-CANDIDATE / CH11-NEST-CANDIDATE /
-CH13-NEST-CANDIDATE /
+CH12-NEST-CANDIDATE / CH13-NEST-CANDIDATE /
 CH14-NEST-CANDIDATE / CH15-NEST-CANDIDATE /
 CH16-NEST-CANDIDATE in
 
@@ -109,10 +109,9 @@ CH9_PARTS: tuple[str, ...] = (
 
 CH10_PARTS: tuple[str, ...] = ("core_10.000_institutional_alignment_certification.md",)
 
-CH11_PARTS: tuple[str, ...] = (
-    "core_11.000_standing_assessment.md",
-    "core_11.005_standing_measurement.md",
-)
+CH11_PARTS: tuple[str, ...] = ("core_11.000_standing_assessment.md",)
+
+CH12_PARTS: tuple[str, ...] = ("core_12.000_standing_measurement.md",)
 
 CH13_PARTS: tuple[str, ...] = ("core_13.000_standing_integration.md",)
 
@@ -385,6 +384,7 @@ RULE_ID_BY_CHAPTER: dict[int, str] = {
     9: "CH9-NEST-CANDIDATE",
     10: "CH10-NEST-CANDIDATE",
     11: "CH11-NEST-CANDIDATE",
+    12: "CH12-NEST-CANDIDATE",
     13: "CH13-NEST-CANDIDATE",
     14: "CH14-NEST-CANDIDATE",
     15: "CH15-NEST-CANDIDATE",
@@ -749,6 +749,7 @@ def resolve_targets(root: Path, args: argparse.Namespace) -> list[Path]:
             9: CH9_PARTS,
             10: CH10_PARTS,
             11: CH11_PARTS,
+            12: CH12_PARTS,
             13: CH13_PARTS,
             14: CH14_PARTS,
             15: CH15_PARTS,

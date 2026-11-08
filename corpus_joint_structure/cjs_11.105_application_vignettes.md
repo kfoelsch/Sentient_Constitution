@@ -20,7 +20,7 @@
 > 4. **Milestone table** — [Chapter Fifteen §6](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier windows from **CF-15.445 §3.1** (*Stage targets and outer bounds*), which adopters may only shorten.
 > 5. **Must not happen** — anti-patterns the constitution rejects.
 >
-> **References:** [§2](../core_11.000_standing_assessment.md#2-question-1--what-happened) (Question 1); [§7](../core_11.005_standing_measurement.md#7-standing-measurement-evaluation-dimensions), and the [§12 unified proportional LEQU scale](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (Question 2: shared five-times LEQU bands, separate Contribution and Violation records, and Violation slots controlled only by verified impact); [Chapter Thirteen §6.2](../core_13.000_standing_integration.md#62-competency-bars-and-clearances) and [§4.2](../core_13.000_standing_integration.md#42-prevention--general-standing-locks) (Question 3); [Chapter Thirteen §10](../core_13.000_standing_integration.md#10-pattern-applications-and-question-3-routing) (*in-chapter Question 3 pattern-routing index*); [Chapter Fifteen](../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (forum routing and supervision).
+> **References:** [§2](../core_11.000_standing_assessment.md#2-question-1--what-happened) (Question 1); [Chapter Twelve §1](../core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it), and the [Chapter Twelve §6 unified proportional LEQU scale](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (Question 2: shared five-times LEQU bands, separate Contribution and Violation records, and Violation slots controlled only by verified impact); [Chapter Thirteen §6.2](../core_13.000_standing_integration.md#62-competency-bars-and-clearances) and [§4.2](../core_13.000_standing_integration.md#42-prevention--general-standing-locks) (Question 3); [Chapter Thirteen §10](../core_13.000_standing_integration.md#10-pattern-applications-and-question-3-routing) (*in-chapter Question 3 pattern-routing index*); [Chapter Fifteen](../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (forum routing and supervision).
 >
 > Vignettes 8 and 9 are Question 2 measurement walkthroughs. They follow their own spine (situation, verified inputs, seats, dimension pass, outputs recorded) and have no milestone table.
 >
@@ -32,8 +32,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Eleven Part A](../core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000) (*Question 1, what happened*);
-  - [Chapter Eleven Part B](../core_11.005_standing_measurement.md#chapter-eleven-part-b-standing-measurement--question-2-how-good-or-bad-was-it) (11.005) (*Question 2, how good or bad was it*);
+  - [Chapter Eleven](../core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*Question 1, what happened*);
+  - [Chapter Twelve](../core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) (12.000) (*Question 2, how good or bad was it*);
   - [Chapter Thirteen](../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Question 3, what happens because of it*);
   - [Chapter Fourteen](../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) (*misconduct designation*);
   - [Chapter Fifteen](../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) (*forums and jurisdiction*);
@@ -53,7 +53,7 @@ This file is the joint-structure implementation home for **CJS-11.105** (*Applic
 
 *In plain terms: these are worked examples of the standing pipeline in named situations. They illustrate Chapters Eleven through Fifteen.*
 
-These vignettes are illustrative and own no rule. The standing pipeline they walk through is owned by **Chapter Eleven** (the verified factual record and standing measurement), **Chapter Thirteen** (standing integration and standing effects), **Chapter Fourteen** (anti-constitutional-misconduct designation, ACMD), and **Chapter Fifteen** (forums and adjudicative routing). They add no duty and change none; where a vignette and a linked section differ, the linked section controls.
+These vignettes are illustrative and own no rule. The standing pipeline they walk through is owned by **Chapter Eleven** (the verified factual record), **Chapter Twelve** (standing measurement), **Chapter Thirteen** (standing integration and standing effects), **Chapter Fourteen** (anti-constitutional-misconduct designation, ACMD), and **Chapter Fifteen** (forums and adjudicative routing). They add no duty and change none; where a vignette and a linked section differ, the linked section controls.
 
 ## CJS-11.105 §1 Child neglect / care-duty failure (Tier A)
 
@@ -75,7 +75,7 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 | 2 | **Tier A intake** under **CF-15.445 §3.1**; evidence preservation (home visit records, school logs, platform schedule exports) begins concurrently. |
 | 3 | **Interim protection** (supervised care, respite placement, or in-home support bundle) without waiting for full merits — **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) Tier A. |
 | 4 | **Question 1 — what happened?** Forum produces a **verified violation finding** → open a separate **violation standing record** on the guardian and, if verified, an **institutional vehicle** record on the platform scheduling policy ([§2 Question 1 — what happened?](../core_11.000_standing_assessment.md#2-question-1--what-happened)). |
-| 5 | **Question 2 — how bad was it?** ([§12 unified scale](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes)): verified impact on the children controls the Violation Axis slot; likely `s` = 4–5. Reference working (not a live slot): worked example W2 in the LEQU calibration reference (a support document outside the corpus). **Interpersonal / Care Duty Misconduct** and **Negligent Misconduct** remain character descriptors and do not move the slot. |
+| 5 | **Question 2 — how bad was it?** ([Chapter Twelve §6 unified scale](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes)): verified impact on the children controls the Violation Axis slot; likely `s` = 4–5. Reference working (not a live slot): worked example W2 in the LEQU calibration reference (a support document outside the corpus). **Interpersonal / Care Duty Misconduct** and **Negligent Misconduct** remain character descriptors and do not move the slot. |
 | 6 | **Question 3 — what happens because of it?** ([Chapter Thirteen §4.2 Prevention — general standing locks](../core_13.000_standing_integration.md#42-prevention--general-standing-locks)): **Safeguard Lock** + **protective participation lock** on unsupervised custody routes; **named-pathway-scoped** blocks on sole-custody authority until verified monitoring and respite plan. |
 | 7 | **Remedy**: restitution bundle (food, care access, stable housing link), platform schedule relief, and monitored care plan — **Article XX-B** (*Restriction Floors*) joint requirements. |
 | 8 | If verified platform policy **forecloses exit** from exploitative scheduling, linked standing record cross-references **Exit and Lock-In Misconduct** on institutional route. |
@@ -123,7 +123,7 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 | 1 | **Forum access** and class treatment under **CF-15.415**; **Tier B** routing. |
 | 2 | Evidence preservation: model cards, override logs, compensation bands, accessibility accommodation denials. |
 | 3 | **Question 1 — what happened?** Verified pattern finding → **violation standing record** on employer institution; individual records cross-linked under [§4.2 Related standing record cross-references](../core_11.000_standing_assessment.md#42-related-standing-record-cross-references). |
-| 4 | **Question 2 — how bad was it?** Verified exclusion, pay, dependency, and pattern impacts determine the Violation Axis slot on the [§12 Unified proportional LEQU scale](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (`s` = 4–5 if the verified impact falls in those bands). **Accessibility and Participation-Barrier Misconduct**, **System Misconduct**, and aggravated post-notice character remain descriptors and do not move the slot. |
+| 4 | **Question 2 — how bad was it?** Verified exclusion, pay, dependency, and pattern impacts determine the Violation Axis slot on the [Chapter Twelve §6 Unified proportional LEQU scale](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (`s` = 4–5 if the verified impact falls in those bands). **Accessibility and Participation-Barrier Misconduct**, **System Misconduct**, and aggravated post-notice character remain descriptors and do not move the slot. |
 | 5 | **Question 3 — what happens because of it?** **Restriction Lock** on hiring and compensation authority routes; **institutional vehicle lock** if policy is structurally unremediable without receivership-level change. |
 | 6 | **Remedy**: back pay, role restoration, accommodation implementation, algorithmic audit, and public correction record — remedial character stacks without lowering slot. |
 | 7 | **Contribution record** (if any): verified **Access and Inclusion** repair work by reformed HR unit stays on separate **contribution standing record**; does not offset open violation record. |
@@ -168,11 +168,11 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 | --- | --- |
 | 1 | **Primary-stakes routing**: **Institutional** lead; **Technical Forum Domains** certified component for routing-safety specification. |
 | 2 | **Tier B** for driver lock-in and compensation injury (material, non-imminent). [Chapter Fifteen §5 Escalation and questions for ruling](../core_15.000_forum.md#5-escalation-and-questions-for-ruling) forum-family escalation (Technical Forum Domains; Integrity if capture) does not reclassify that urgency. Later-stage windows may use a longer time scale if cross-border or consolidated fact-development is required; intake and evidence preservation stay at the **Tier B** intake target. |
-| 3 | **Question 1 — what happened?** Verified violation findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](../core_11.005_standing_measurement.md#15-hand-off-to-question-3--cross-question-measurement-hooks) is verified. |
-| 4 | **Question 2 — how bad was it?** Verified driver, agency, lock-in, safety, and ecological impacts determine the Violation Axis slot on the [§12 Unified proportional LEQU scale](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) (`s` = 4–6 range pending verification). **Exit and Lock-In Misconduct**, **System Misconduct**, **Agency and Manipulation Misconduct**, and any **Ecological Misconduct** component remain descriptors and do not move the slot. |
+| 3 | **Question 1 — what happened?** Verified violation findings → violation records on platform operator; linked **contribution** claims for “efficiency” capped or rejected when [dual-use externalized harm](../core_12.000_standing_measurement.md#9-hand-off-to-question-3--cross-question-measurement-hooks) is verified. |
+| 4 | **Question 2 — how bad was it?** Verified driver, agency, lock-in, safety, and ecological impacts determine the Violation Axis slot on the [Chapter Twelve §6 Unified proportional LEQU scale](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (`s` = 4–6 range pending verification). **Exit and Lock-In Misconduct**, **System Misconduct**, **Agency and Manipulation Misconduct**, and any **Ecological Misconduct** component remain descriptors and do not move the slot. |
 | 5 | **Question 3 — what happens because of it?** **Named-pathway-scoped locks** on migration, contract-enforcement, and governance routes; **concealment / evasion escalated lock** if defect reports were buried after notice. |
 | 6 | **Remedy**: contract reform, exit without penalty, driver stabilization fund, safety patch deployment, ecological remediation plan — look-through accountability on functional control ([Chapter Thirteen §9.4 Anti-evasion and look-through authority](../core_13.000_standing_integration.md#94-anti-evasion-and-look-through-authority)). |
-| 7 | If the Chapter Eleven verified-impact measurement reaches generic slot 7, 8, or 9 and the misconduct criteria are satisfied, **Chapter Fourteen** may add the corresponding ACMD without assigning or moving that slot. That ACMD review is a new materiality determination — typically **Tier A**, not a slower tier window. |
+| 7 | If the Chapter Twelve verified-impact measurement reaches generic slot 7, 8, or 9 and the misconduct criteria are satisfied, **Chapter Fourteen** may add the corresponding ACMD without assigning or moving that slot. That ACMD review is a new materiality determination — typically **Tier A**, not a slower tier window. |
 
 ### Milestone table (Tier B urgency; later-stage time-scale may extend)
 
@@ -209,7 +209,7 @@ Each of the following would be a failure in this scenario:
 | Stage | Application |
 | --- | --- |
 | Stewardship | [Chapter One §17 Consequential Stewardship: The Steward Role](../core_01.010_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) — tetrad **timeliness** leg; [Stewardship Defect](../core_05.040_band_continuity.md#stewardship-defect) when chronic delay after notice |
-| Q2 measurement | [§12 unified scale](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) — verified harm from the deferred repair determines any `s` = 4–5 impact slot; **Response timeliness / avoidable delay** is a character descriptor and does not move the slot |
+| Q2 measurement | [Chapter Twelve §6 unified scale](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) — verified harm from the deferred repair determines any `s` = 4–5 impact slot; **Response timeliness / avoidable delay** is a character descriptor and does not move the slot |
 | Q3 integration | [Chapter Thirteen §9.5 Timely implementation](../core_13.000_standing_integration.md#95-timely-implementation) — **Remedy commencement / pipeline delay** |
 | Pipeline windows | [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XXVI-C](../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); **CF-15.445 §3.1** Tier B windows |
 
@@ -227,7 +227,7 @@ Each of the following would be a failure in this scenario:
 | --- | --- |
 | Tetrad hollow | **Timeliness** leg hollowed independently — participation and oversight structures exist but material matters do not move |
 | Definitions | [Timeliness](../core_05.030_apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](../core_05.040_band_continuity.md#capture-of-resolution-pathways) |
-| High-impact designation guard | If verified impact reaches Chapter Eleven slot 7, 8, or 9 and conduct scales to institutional capture, [Chapter Fourteen](../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) **tetrad capture** designation review; Chapter Fourteen does not assign the numeric slot |
+| High-impact designation guard | If verified impact reaches Chapter Twelve slot 7, 8, or 9 and conduct scales to institutional capture, [Chapter Fourteen](../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) **tetrad capture** designation review; Chapter Fourteen does not assign the numeric slot |
 
 **Must not happen:** Using allegations as verified standing inputs to buy time; backlog treated as neutral operations metric.
 
@@ -239,7 +239,7 @@ Each of the following would be a failure in this scenario:
 
 ### Situation
 
-A Class A deployed model operated by a lab has produced verified large-scale harm through its deployment — a Chapter Eleven Violation Axis `s` = 7 finding on the **operator's** record is final. The same week, an independent researcher files a status case under **Article VI-B** (*Sentience-Status Adjudication Floor*) with a credible indicator under **Sentience Evaluation**. The lab announces "immediate deprecation and deletion" of the model as its remediation. A civic group demands destructive disposition under **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). The lab, separately, argues that if the model might be a sentient, its deployment cannot lawfully be halted.
+A Class A deployed model operated by a lab has produced verified large-scale harm through its deployment — a Chapter Twelve Violation Axis `s` = 7 finding on the **operator's** record is final. The same week, an independent researcher files a status case under **Article VI-B** (*Sentience-Status Adjudication Floor*) with a credible indicator under **Sentience Evaluation**. The lab announces "immediate deprecation and deletion" of the model as its remediation. A civic group demands destructive disposition under **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). The lab, separately, argues that if the model might be a sentient, its deployment cannot lawfully be halted.
 
 <a id="vignette-6-who-is-acting"></a>
 ### Who is acting
@@ -338,7 +338,7 @@ Each of the following would be a failure in this scenario:
 
 ## CJS-11.105 §8 Riparian cooperative restoration (contribution measurement)
 
-*In plain terms: a worked Question 2 measurement of a verified contribution. It starts from Question 1's verified facts, uses the dimension pass in [§8 Magnitude and severity input dimensions](../core_11.005_standing_measurement.md#8-magnitude-and-severity-input-dimensions) and [§9 Route descriptor catalogs and measurement roles](../core_11.005_standing_measurement.md#9-route-descriptor-catalogs-and-measurement-roles), and records Question 2 outputs, not standing effects. Slot assignment follows those sections together with [§10 Slot grammar and shared scaling](../core_11.005_standing_measurement.md#10-slot-grammar-and-shared-scaling) and [§11 Constitutional inputs to axis assignment](../core_11.005_standing_measurement.md#11-constitutional-inputs-to-axis-assignment). The Question 3 continuation is in [Chapter Thirteen §10.1 Informal ecological stewardship / competency clearance](../core_13.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance).*
+*In plain terms: a worked Question 2 measurement of a verified contribution. It starts from Question 1's verified facts, uses the dimension pass in [Chapter Twelve §2 Magnitude and severity input dimensions](../core_12.000_standing_measurement.md#2-magnitude-and-severity-input-dimensions) and [Chapter Twelve §3 Route descriptor catalogs and measurement roles](../core_12.000_standing_measurement.md#3-route-descriptor-catalogs-and-measurement-roles), and records Question 2 outputs, not standing effects. Slot assignment follows those sections together with [Chapter Twelve §4 Slot grammar and shared scaling](../core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) and [Chapter Twelve §5 Constitutional inputs to axis assignment](../core_12.000_standing_measurement.md#5-constitutional-inputs-to-axis-assignment). The Question 3 continuation is in [Chapter Thirteen §10.1 Informal ecological stewardship / competency clearance](../core_13.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance).*
 
 **Situation.** After spring flooding, four sentients in an informal riparian cooperative stabilize a degraded half-kilometer creek buffer between two downstream neighborhoods. The work is unpaid mutual aid — no municipal contract, no licensed-program enrollment, and no platform payout trail. A watershed council later asks whether the cooperative's verified repair should enter a **contribution standing record**.
 
@@ -374,7 +374,7 @@ Each of the following would be a failure in this scenario:
 **Q2 outputs recorded:**
 
 - The benefit came through two routes, recorded together: **Ecological Stewardship** (the creek repair) and **Diligence** (careful, documented work).
-- The size and reach of the benefit are recorded and ready to be turned into a Contribution slot and label under [§12 Unified proportional LEQU scale — Contribution and Violation Axes](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes).
+- The size and reach of the benefit are recorded and ready to be turned into a Contribution slot and label under [Chapter Twelve §6 Unified proportional LEQU scale — Contribution and Violation Axes](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes).
 - Nothing changes in anyone's standing yet. This chapter only measures; standing effects are decided later.
 
 <br>
@@ -420,10 +420,10 @@ Each of the following would be a failure in this scenario:
 
 - The harm came through two routes, recorded together: **Ecological Misconduct** (contaminating the watershed) and **Negligent Misconduct** (failing a maintenance duty).
 - The steward's conduct after the regulator's notice is recorded as concealment: hiding the problem from the sentients who relied on the work.
-- The same concealment and deception may also matter for Question 3, which decides what happens because of it, such as a stronger standing lock under [Chapter Thirteen §4.2 Prevention — general standing locks](../core_13.000_standing_integration.md#42-prevention--general-standing-locks). [§15 Hand-off to Question 3 — cross-question measurement hooks](../core_11.005_standing_measurement.md#15-hand-off-to-question-3--cross-question-measurement-hooks) lists this hand-off. The fact is recorded here and used there, but it is not counted twice.
+- The same concealment and deception may also matter for Question 3, which decides what happens because of it, such as a stronger standing lock under [Chapter Thirteen §4.2 Prevention — general standing locks](../core_13.000_standing_integration.md#42-prevention--general-standing-locks). [Chapter Twelve §9 Hand-off to Question 3 — cross-question measurement hooks](../core_12.000_standing_measurement.md#9-hand-off-to-question-3--cross-question-measurement-hooks) lists this hand-off. The fact is recorded here and used there, but it is not counted twice.
 - The steward's slow response after the notice is recorded as its own fact about conduct. Any extra harm it caused is counted once, in the size of the loss.
 - Any later delay in starting or carrying out the remedy is a different fact for Question 3, under [Chapter Thirteen §9.5 Timely implementation](../core_13.000_standing_integration.md#95-timely-implementation). It must be established on its own and does not change this measurement.
-- The size of the loss is recorded and ready to be turned into a Violation slot and label under [§12 Unified proportional LEQU scale — Contribution and Violation Axes](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes).
+- The size of the loss is recorded and ready to be turned into a Violation slot and label under [Chapter Twelve §6 Unified proportional LEQU scale — Contribution and Violation Axes](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes).
 
 <br>
 
@@ -435,7 +435,7 @@ Each of the following would be a failure in this scenario:
 | --- | --- |
 | Allegations ≠ standing | [§2.5 Verified-input gate](../core_11.000_standing_assessment.md#25-verified-input-gate) |
 | No offset across axes | [§2.4 Linked standing records and no-offset bridge](../core_11.000_standing_assessment.md#24-linked-standing-records-and-no-offset-bridge) |
-| One scale, separate standing records | [§12 unified scale](../core_11.005_standing_measurement.md#12-unified-proportional-lequ-scale--contribution-and-violation-axes) — shared five-times LEQU bands; Violation slots controlled only by verified impact |
+| One scale, separate standing records | [Chapter Twelve §6 unified scale](../core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) — shared five-times LEQU bands; Violation slots controlled only by verified impact |
 | Forums may open, update, or correct records — filed case ≠ standing | [§2.7 Forum boundary](../core_11.000_standing_assessment.md#27-forum-boundary) |
 | Tetrad timeliness leg | [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Timeliness](../core_05.030_apex_timeliness_leg.md#timeliness-constitutional) |
 | Timely + efficient + just together | [Article XXVI-C](../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) |

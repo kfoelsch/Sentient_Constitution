@@ -43,7 +43,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Two §1 — Purpose and Role](core_02.000_definition_structure.md#1-purpose-and-role) (2.000 §1); [Chapter Two §2 Definition Integrity Requirement](core_02.000_definition_structure.md#2-definition-integrity-requirement) (2.000 §2); [Chapter Three §2 — Non-Compliance from Observable System Behavior](core_03.000_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (3.000 §2).
-- Downstream: [Chapter Four §§1 and 4 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) (4.000 §1); [Chapter Eleven — Contribution, Violation, and Standing Model](core_11.000_standing_assessment.md#chapter-eleven-part-a-standing-records--question-1-what-happened) (11.000); [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile).
+- Downstream: [Chapter Four §§1 and 4 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) (4.000 §1); [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000); [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile).
 - Read with:
   - [Chapter One §19.3 Misalignment Detection](core_01.010_stewardship_capacity_principles.md#193-misalignment-detection) (1.010 §19.3) and
   - [§19.4 Misalignment Correction and Capture Response](core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — **constitutional misalignment** is stewardship and incentive divergence; it is not a substitute label for **non-compliance**;
@@ -67,7 +67,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
     - **constitutional misalignment** at the stewardship and incentive layer (Chapter One §19 (*Incentive Alignment and System Capture*));
     - [Residual Risk / Misalignment](core_05.040_band_continuity.md#residual-risk--misalignment) as a bounded risk state after mitigation;
     - system alignment certification status under Chapter Nine; and
-    - Chapter Eleven violation-axis slot labels (those classify verified violation findings and do not redefine whether a definition is met).
+    - Chapter Twelve violation-axis slot labels (those classify verified violation findings and do not redefine whether a definition is met).
 <a id="non-compliance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality — [Materiality](core_05.050_band_oversight.md#materiality) scales duty intensity under [material stake](core_00.000_preamble.md#material-stake); not a separate measurement category.
@@ -279,7 +279,7 @@ Chapter Five, Integrative band, is the constitutional owner of the **Integrative
   - [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) — constitutional warrant for legitimate reward tracking under
   - [Chapter One §19.1.3 Stewardship and Operator Application](core_01.010_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) (1.010 §19.1.3); where a claimant justifies exclusivity by capacity or efficiency gains, those claims must remain outcome-traceable under
   - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5).
-- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Eleven.
+- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Twelve.
 
 </details>
 
@@ -974,7 +974,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
       - proportionate clawback;
       - knowing-acceptance reporting; and
       - correction.
-  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Eleven §7 Question 2 — how good or bad was it?](core_11.005_standing_measurement.md#7-question-2--how-good-or-bad-was-it), using [Chapter Eleven §8.2 Contribution magnitude-input and violation severity-input dimensions](core_11.005_standing_measurement.md#82-contribution-magnitude-input-and-violation-severity-input-dimensions).
+  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Twelve §1 Question 2 — how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it), using [Chapter Twelve §2.2 Contribution magnitude-input and violation severity-input dimensions](core_12.000_standing_measurement.md#22-contribution-magnitude-input-and-violation-severity-input-dimensions).
 <a id="misaligned-reward-correction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether verified misalignment actually costs the rewards it produced.

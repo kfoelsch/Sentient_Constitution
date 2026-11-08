@@ -58,13 +58,14 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 | Chapter Five alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |
 | Chapter Five nested-list readability candidates (advisory) | `make ch5-nested-list-candidates` |
 | Chapter Six nested-list readability candidates (advisory) | `make ch6-nested-list-candidates` |
-| Chapter Nine nested-list readability candidates (advisory) | `make ch8-nested-list-candidates` |
-| Chapter Eleven nested-list readability candidates (advisory) | `make ch9-nested-list-candidates` |
-| Chapter Thirteen nested-list readability candidates (advisory) | `make ch11-nested-list-candidates` |
-| Chapter Fourteen nested-list readability candidates (advisory) | `make ch13-nested-list-candidates` |
-| Chapter Fifteen nested-list readability candidates (advisory) | `make ch14-nested-list-candidates` |
-| Chapter Sixteen nested-list readability candidates (advisory) | `make ch15-nested-list-candidates` |
-| Chapter Seventeen nested-list readability candidates (advisory) | `make ch16-nested-list-candidates` |
+| Chapter Eight nested-list readability candidates (advisory) | `make ch8-nested-list-candidates` |
+| Chapter Nine nested-list readability candidates (advisory) | `make ch9-nested-list-candidates` |
+| Chapter Eleven nested-list readability candidates (advisory) | `make ch11-nested-list-candidates` |
+| Chapter Twelve nested-list readability candidates (advisory) | `make ch12-nested-list-candidates` |
+| Chapter Thirteen nested-list readability candidates (advisory) | `make ch13-nested-list-candidates` |
+| Chapter Fourteen nested-list readability candidates (advisory) | `make ch14-nested-list-candidates` |
+| Chapter Fifteen nested-list readability candidates (advisory) | `make ch15-nested-list-candidates` |
+| Chapter Sixteen nested-list readability candidates (advisory) | `make ch16-nested-list-candidates` |
 | Chapter One D/A/C functional ordering | `make ch1-dac-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-terms edition (generated, non-binding gloss digest of the core files) | `make plain-terms-edition` / `make plain-terms-edition-check` |

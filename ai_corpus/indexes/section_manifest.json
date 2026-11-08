@@ -1,11 +1,11 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-08T15:29:00+00:00",
+  "generated_at": "2026-11-08T16:50:21+00:00",
   "files": {
     "core_00.000_preamble.md": {
-      "total_lines": 538,
+      "total_lines": 544,
       "sections": [
-        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":538,"anchor":"#chapter-00-preamble--foundational-requirements"},
+        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":544,"anchor":"#chapter-00-preamble--foundational-requirements"},
         {"header":"What Systems Reward","level":3,"line_start":30,"line_end":67,"anchor":"#what-systems-reward"},
         {"header":"1. The Model","level":3,"line_start":68,"line_end":113,"anchor":"#two-fundamental-questions"},
         {"header":"2. Measurements Overview","level":3,"line_start":114,"line_end":141,"anchor":"#2-measurements-overview"},
@@ -16,12 +16,12 @@
         {"header":"4. Principles, Definitions, and Rights","level":3,"line_start":192,"line_end":256,"anchor":"#4-principles-definitions-and-rights"},
         {"header":"5. System and Institutional Charters, Functional Independence, and Separation of Duties","level":3,"line_start":257,"line_end":323,"anchor":"#5-system-and-institutional-charters-functional-independence-and-separation-of-duties"},
         {"header":"5.1 Four-seat separation map","level":4,"line_start":289,"line_end":323,"anchor":null},
-        {"header":"6. Key Practical Process Pipelines","level":3,"line_start":324,"line_end":422,"anchor":"#6-key-practical-process-pipelines"},
-        {"header":"6.1 Process map","level":4,"line_start":344,"line_end":404,"anchor":null},
-        {"header":"6.2 How the full chain fits together","level":4,"line_start":405,"line_end":422,"anchor":"#62-how-the-full-chain-fits-together"},
-        {"header":"7. Process Ownership and Outputs","level":3,"line_start":423,"line_end":485,"anchor":"#7-process-ownership-and-outputs"},
-        {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":486,"line_end":518,"anchor":"#8-governance-change-and-incorporation"},
-        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":519,"line_end":538,"anchor":null}
+        {"header":"6. Key Practical Process Pipelines","level":3,"line_start":324,"line_end":423,"anchor":"#6-key-practical-process-pipelines"},
+        {"header":"6.1 Process map","level":4,"line_start":345,"line_end":405,"anchor":null},
+        {"header":"6.2 How the full chain fits together","level":4,"line_start":406,"line_end":423,"anchor":"#62-how-the-full-chain-fits-together"},
+        {"header":"7. Process Ownership and Outputs","level":3,"line_start":424,"line_end":491,"anchor":"#7-process-ownership-and-outputs"},
+        {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":492,"line_end":524,"anchor":"#8-governance-change-and-incorporation"},
+        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":525,"line_end":544,"anchor":null}
       ]
     },
     "core_01.000_values_principles.md": {
@@ -962,7 +962,7 @@
     "core_11.000_standing_assessment.md": {
       "total_lines": 1036,
       "sections": [
-        {"header":"CHAPTER ELEVEN, PART A: STANDING RECORDS — QUESTION 1, WHAT HAPPENED","level":1,"line_start":3,"line_end":1036,"anchor":"#chapter-eleven-contribution-violation-and-standing-model--measurement"},
+        {"header":"CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED","level":1,"line_start":3,"line_end":1036,"anchor":"#chapter-eleven-contribution-violation-and-standing-model--measurement"},
         {"header":"1. The three questions","level":3,"line_start":71,"line_end":124,"anchor":"#1-the-three-questions"},
         {"header":"1.1 Purpose and scope","level":4,"line_start":89,"line_end":124,"anchor":null},
         {"header":"2. Question 1 — what happened?","level":3,"line_start":125,"line_end":375,"anchor":"#2-question-1--what-happened"},
@@ -1007,45 +1007,45 @@
         {"header":"6.4 Custody is not delay, and custody is not ownership","level":4,"line_start":1012,"line_end":1036,"anchor":"#64-custody-is-not-delay-and-custody-is-not-ownership"}
       ]
     },
-    "core_11.005_standing_measurement.md": {
-      "total_lines": 747,
+    "core_12.000_standing_measurement.md": {
+      "total_lines": 673,
       "sections": [
-        {"header":"CHAPTER ELEVEN, PART B: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?","level":1,"line_start":1,"line_end":747,"anchor":null},
-        {"header":"7. Question 2 — how good or bad was it?","level":3,"line_start":46,"line_end":130,"anchor":"#7-question-2-how-good-or-bad-was-it"},
-        {"header":"7.1 LEQU baseline","level":4,"line_start":75,"line_end":85,"anchor":"#71-lequ-baseline"},
-        {"header":"7.2 Limits on using LEQU","level":4,"line_start":86,"line_end":106,"anchor":"#72-limits-on-using-lequ"},
-        {"header":"7.3 Question 2 only — scope and routing","level":4,"line_start":107,"line_end":118,"anchor":"#73-question-2-only--scope-and-routing"},
-        {"header":"7.4 Sentience-status bridge","level":4,"line_start":119,"line_end":130,"anchor":"#74-sentience-status-bridge"},
-        {"header":"8. Magnitude and severity input dimensions","level":3,"line_start":131,"line_end":244,"anchor":"#8-magnitude-and-severity-input-dimensions"},
-        {"header":"8.1 What Question 2 produces","level":4,"line_start":153,"line_end":168,"anchor":"#81-what-question-2-produces"},
-        {"header":"8.2 Contribution magnitude-input and violation severity-input dimensions","level":4,"line_start":169,"line_end":244,"anchor":"#82-contribution-magnitude-input-and-violation-severity-input-dimensions"},
-        {"header":"8.2.1 How the way a benefit was produced affects what counts","level":5,"line_start":194,"line_end":207,"anchor":"#821-how-the-way-a-benefit-was-produced-affects-what-counts"},
-        {"header":"8.2.2 How the way a harm was caused is recorded","level":5,"line_start":208,"line_end":244,"anchor":"#822-how-the-way-a-harm-was-caused-is-recorded"},
-        {"header":"9. Route descriptor catalogs and measurement roles","level":3,"line_start":245,"line_end":380,"anchor":"#9-route-descriptor-catalogs-and-measurement-roles"},
-        {"header":"9.1 Contribution route descriptor catalog and measurement roles","level":4,"line_start":260,"line_end":319,"anchor":"#91-contribution-route-descriptor-catalog-and-measurement-roles"},
-        {"header":"9.1.1 Bodily safety, relationships, care, and agency","level":5,"line_start":272,"line_end":282,"anchor":"#911-bodily-safety-relationships-care-and-agency"},
-        {"header":"9.1.2 Repair, property, and resources","level":5,"line_start":283,"line_end":291,"anchor":"#912-repair-property-and-resources"},
-        {"header":"9.1.3 Knowledge, education, records, and discovery","level":5,"line_start":292,"line_end":301,"anchor":"#913-knowledge-education-records-and-discovery"},
-        {"header":"9.1.4 Systems and constitutional operation","level":5,"line_start":302,"line_end":310,"anchor":"#914-systems-and-constitutional-operation"},
-        {"header":"9.1.5 Ecology and diligence","level":5,"line_start":311,"line_end":319,"anchor":"#915-ecology-and-diligence"},
-        {"header":"9.2 Violation route descriptor catalog and measurement roles","level":4,"line_start":320,"line_end":380,"anchor":"#92-violation-route-descriptor-catalog-and-measurement-roles"},
-        {"header":"9.2.1 Bodily safety, relationships, care, and agency","level":5,"line_start":328,"line_end":339,"anchor":"#921-bodily-safety-relationships-care-and-agency"},
-        {"header":"9.2.2 Repair, property, and resources","level":5,"line_start":340,"line_end":348,"anchor":"#922-repair-property-and-resources"},
-        {"header":"9.2.3 Knowledge, education, records, and discovery","level":5,"line_start":349,"line_end":358,"anchor":"#923-knowledge-education-records-and-discovery"},
-        {"header":"9.2.4 Systems and constitutional operation","level":5,"line_start":359,"line_end":370,"anchor":"#924-systems-and-constitutional-operation"},
-        {"header":"9.2.5 Ecology and diligence","level":5,"line_start":371,"line_end":380,"anchor":"#925-ecology-and-diligence"},
-        {"header":"10. Slot grammar and shared scaling","level":3,"line_start":381,"line_end":456,"anchor":"#10-slot-grammar-and-shared-scaling"},
-        {"header":"10.1 Table 1 — slot display labels","level":4,"line_start":399,"line_end":420,"anchor":"#101-table-1--slot-display-labels"},
-        {"header":"10.2 Shared impact-scaling rules","level":4,"line_start":421,"line_end":456,"anchor":"#102-shared-impact-scaling-rules"},
-        {"header":"11. Constitutional inputs to axis assignment","level":3,"line_start":457,"line_end":523,"anchor":"#11-constitutional-inputs-to-axis-assignment"},
-        {"header":"11.1 Definition inputs","level":4,"line_start":472,"line_end":486,"anchor":"#111-definition-inputs"},
-        {"header":"11.2 Principle inputs","level":4,"line_start":487,"line_end":498,"anchor":"#112-principle-inputs"},
-        {"header":"11.3 Rights-Floor and Article inputs","level":4,"line_start":499,"line_end":523,"anchor":"#113-rights-floor-and-article-inputs"},
-        {"header":"12. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":524,"line_end":649,"anchor":"#12-unified-proportional-lequ-scale--contribution-and-violation-axes"},
-        {"header":"13. Standard contribution measures","level":3,"line_start":650,"line_end":673,"anchor":"#13-standard-contribution-measures"},
-        {"header":"14. Measurement illustrations","level":3,"line_start":674,"line_end":684,"anchor":"#14-measurement-illustrations"},
-        {"header":"15. Hand-off to Question 3 — cross-question measurement hooks","level":3,"line_start":685,"line_end":747,"anchor":"#15-hand-off-to-question-3--cross-question-measurement-hooks"},
-        {"header":"15.1 Similar-looking facts that must stay separate","level":4,"line_start":730,"line_end":747,"anchor":"#151-similar-looking-facts-that-must-stay-separate"}
+        {"header":"CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?","level":1,"line_start":1,"line_end":673,"anchor":null},
+        {"header":"1. Question 2 — how good or bad was it?","level":3,"line_start":41,"line_end":115,"anchor":null},
+        {"header":"1.1 LEQU baseline","level":4,"line_start":68,"line_end":76,"anchor":null},
+        {"header":"1.2 Limits on using LEQU","level":4,"line_start":77,"line_end":95,"anchor":null},
+        {"header":"1.3 Question 2 only — scope and routing","level":4,"line_start":96,"line_end":105,"anchor":null},
+        {"header":"1.4 Sentience-status bridge","level":4,"line_start":106,"line_end":115,"anchor":null},
+        {"header":"2. Magnitude and severity input dimensions","level":3,"line_start":116,"line_end":219,"anchor":null},
+        {"header":"2.1 What Question 2 produces","level":4,"line_start":136,"line_end":149,"anchor":null},
+        {"header":"2.2 Contribution magnitude-input and violation severity-input dimensions","level":4,"line_start":150,"line_end":219,"anchor":"#contribution-table-q1-magnitude-input-dimensions"},
+        {"header":"2.2.1 How the way a benefit was produced affects what counts","level":5,"line_start":173,"line_end":184,"anchor":"#contribution-table-q2-magnitude-input-dimensions"},
+        {"header":"2.2.2 How the way a harm was caused is recorded","level":5,"line_start":185,"line_end":219,"anchor":null},
+        {"header":"3. Route descriptor catalogs and measurement roles","level":3,"line_start":220,"line_end":328,"anchor":null},
+        {"header":"3.1 Contribution route descriptor catalog and measurement roles","level":4,"line_start":233,"line_end":280,"anchor":"#benefit-route-descriptors-q1-measurement-role"},
+        {"header":"3.1.1 Bodily safety, relationships, care, and agency","level":5,"line_start":243,"line_end":251,"anchor":"#benefit-route-descriptors-q2-measurement-role"},
+        {"header":"3.1.2 Repair, property, and resources","level":5,"line_start":252,"line_end":258,"anchor":null},
+        {"header":"3.1.3 Knowledge, education, records, and discovery","level":5,"line_start":259,"line_end":266,"anchor":null},
+        {"header":"3.1.4 Systems and constitutional operation","level":5,"line_start":267,"line_end":273,"anchor":null},
+        {"header":"3.1.5 Ecology and diligence","level":5,"line_start":274,"line_end":280,"anchor":null},
+        {"header":"3.2 Violation route descriptor catalog and measurement roles","level":4,"line_start":281,"line_end":328,"anchor":null},
+        {"header":"3.2.1 Bodily safety, relationships, care, and agency","level":5,"line_start":287,"line_end":296,"anchor":null},
+        {"header":"3.2.2 Repair, property, and resources","level":5,"line_start":297,"line_end":303,"anchor":null},
+        {"header":"3.2.3 Knowledge, education, records, and discovery","level":5,"line_start":304,"line_end":311,"anchor":null},
+        {"header":"3.2.4 Systems and constitutional operation","level":5,"line_start":312,"line_end":321,"anchor":null},
+        {"header":"3.2.5 Ecology and diligence","level":5,"line_start":322,"line_end":328,"anchor":null},
+        {"header":"4. Slot grammar and shared scaling","level":3,"line_start":329,"line_end":398,"anchor":"#651-what-the-slot-grammar-does"},
+        {"header":"4.1 Table 1 — slot display labels","level":4,"line_start":345,"line_end":364,"anchor":"#711-what-the-slot-grammar-does"},
+        {"header":"4.2 Shared impact-scaling rules","level":4,"line_start":365,"line_end":398,"anchor":null},
+        {"header":"5. Constitutional inputs to axis assignment","level":3,"line_start":399,"line_end":457,"anchor":null},
+        {"header":"5.1 Definition inputs","level":4,"line_start":412,"line_end":424,"anchor":null},
+        {"header":"5.2 Principle inputs","level":4,"line_start":425,"line_end":434,"anchor":null},
+        {"header":"5.3 Rights-Floor and Article inputs","level":4,"line_start":435,"line_end":457,"anchor":null},
+        {"header":"6. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":458,"line_end":581,"anchor":null},
+        {"header":"7. Standard contribution measures","level":3,"line_start":582,"line_end":603,"anchor":null},
+        {"header":"8. Measurement illustrations","level":3,"line_start":604,"line_end":612,"anchor":null},
+        {"header":"9. Hand-off to Question 3 — cross-question measurement hooks","level":3,"line_start":613,"line_end":673,"anchor":null},
+        {"header":"9.1 Similar-looking facts that must stay separate","level":4,"line_start":656,"line_end":673,"anchor":null}
       ]
     },
     "core_13.000_standing_integration.md": {
@@ -1098,16 +1098,16 @@
       ]
     },
     "core_14.000_misconduct_designation.md": {
-      "total_lines": 476,
+      "total_lines": 477,
       "sections": [
-        {"header":"CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION","level":1,"line_start":4,"line_end":476,"anchor":"#chapter-fourteen-part-a-anti-constitutional-misconduct-designation"},
-        {"header":"1. How designation decisions work — Continuity and tetrad-capture frame","level":3,"line_start":77,"line_end":132,"anchor":"#1-decision-framework-scope-and-authority"},
-        {"header":"2. Criteria set (for anti-constitutional-misconduct designation) — Accountability at constitutional scale","level":3,"line_start":133,"line_end":212,"anchor":"#2-criteria-set-for-designation"},
-        {"header":"3. Violation Axis s = 7–9 anti-constitutional designation","level":3,"line_start":213,"line_end":289,"anchor":"#dissent-and-peaceful-protest-carve-out"},
-        {"header":"4. Due-process safeguards, remedy, and prevention","level":3,"line_start":290,"line_end":319,"anchor":"#4-due-process-safeguards-remedy-and-prevention"},
-        {"header":"4.1 Remedy and correction (anti-constitutional)","level":3,"line_start":320,"line_end":400,"anchor":"#4-1-remedy-and-correction-anti-constitutional"},
-        {"header":"4.2 Prevention — anti-constitutional locks","level":3,"line_start":401,"line_end":444,"anchor":"#4-2-prevention-anti-constitutional-locks"},
-        {"header":"4.3 Voluntary public accountability expression (anti-constitutional)","level":3,"line_start":445,"line_end":476,"anchor":"#4-3-voluntary-public-accountability-expression-anti-constitutional"}
+        {"header":"CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION","level":1,"line_start":4,"line_end":477,"anchor":"#chapter-fourteen-part-a-anti-constitutional-misconduct-designation"},
+        {"header":"1. How designation decisions work — Continuity and tetrad-capture frame","level":3,"line_start":78,"line_end":133,"anchor":"#1-decision-framework-scope-and-authority"},
+        {"header":"2. Criteria set (for anti-constitutional-misconduct designation) — Accountability at constitutional scale","level":3,"line_start":134,"line_end":213,"anchor":"#2-criteria-set-for-designation"},
+        {"header":"3. Violation Axis s = 7–9 anti-constitutional designation","level":3,"line_start":214,"line_end":290,"anchor":"#dissent-and-peaceful-protest-carve-out"},
+        {"header":"4. Due-process safeguards, remedy, and prevention","level":3,"line_start":291,"line_end":320,"anchor":"#4-due-process-safeguards-remedy-and-prevention"},
+        {"header":"4.1 Remedy and correction (anti-constitutional)","level":3,"line_start":321,"line_end":401,"anchor":"#4-1-remedy-and-correction-anti-constitutional"},
+        {"header":"4.2 Prevention — anti-constitutional locks","level":3,"line_start":402,"line_end":445,"anchor":"#4-2-prevention-anti-constitutional-locks"},
+        {"header":"4.3 Voluntary public accountability expression (anti-constitutional)","level":3,"line_start":446,"line_end":477,"anchor":"#4-3-voluntary-public-accountability-expression-anti-constitutional"}
       ]
     },
     "core_14.005_misconduct_pattern_applications.md": {

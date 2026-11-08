@@ -41,7 +41,7 @@ CORE_CHAIN = (
     "core_09.010_system_alignment_certification_record_recertification.md#chapter-nine-part-c-certification-record-recertification-and-standing",
     "core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification",
     "core_11.000_standing_assessment.md",
-    "core_11.005_standing_measurement.md",
+    "core_12.000_standing_measurement.md",
     "core_13.000_standing_integration.md",
     "core_14.000_misconduct_designation.md",
     "core_14.005_misconduct_pattern_applications.md",
