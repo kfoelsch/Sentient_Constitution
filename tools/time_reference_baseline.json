@@ -47,10 +47,6 @@
       "snippet": "| 6 | About 16–80 years | Major Stewardship-Positive Contribution — major verified benefit approaching one LEQU. | Major Constitutional Impa"
     },
     {
-      "key": "core_11.005_standing_measurement.md::duration::2c3d95e555f9",
-      "snippet": "Regulator notice eight months earlier flagged failing retaining berms."
-    },
-    {
       "key": "core_11.005_standing_measurement.md::duration::2d0110b5ac47",
       "snippet": "| 5 | About 3.2–16 years | Serious Stewardship-Positive Contribution — durable stewardship, coordination, maintenance, repair, or comparable"
     },
@@ -79,87 +75,91 @@
       "snippet": "| 2 | About 9–47 days | Small Baseline Contribution — reliable, bounded performance above the minimum floor within this impact level. | Smal"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::0e43cac3d8f5",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::0e43cac3d8f5",
       "snippet": "| Remedy commencement | 2 days | 4 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::0e9581e3b099",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::0e9581e3b099",
       "snippet": "The question this vignette answers is the one the standing chapters are most often read as failing to answer: what does this sentient see of"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::116ca70bcf2f",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::116ca70bcf2f",
       "snippet": "| Remedy record opened on operator's finding | ≤ 1 day after Q3 |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::229640033d78",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::229640033d78",
       "snippet": "| Intake acknowledgment | 2 days | 2 days (no relaxation) |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::2519383b55fe",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::2519383b55fe",
       "snippet": "| Remedy commencement | 2 days after Q3 |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::48378187f274",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::2c3d95e555f9",
+      "snippet": "Regulator notice eight months earlier flagged failing retaining berms."
+    },
+    {
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::48378187f274",
       "snippet": "| Q2 measurement | 1 day after verified inputs |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::4853b3ea7f1c",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::4853b3ea7f1c",
       "snippet": "| Q1 standing finding → standing record | 4 days | 9 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::51db61b9c53d",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::51db61b9c53d",
       "snippet": "| Intake acknowledgment | 2 calendar days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::6b939587c0a1",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::6b939587c0a1",
       "snippet": "| Integrated resolution outer bound (the stages add up to it) | ≤ 14 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::9589ed8e406e",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::9589ed8e406e",
       "snippet": "| Integrated resolution outer bound (the stages add up to it) | ≤ 7 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::9fb30d5bfd35",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::9fb30d5bfd35",
       "snippet": "| Status case opened; representative appointed | ≤ 3 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::ad2bb8337e15",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::ad2bb8337e15",
       "snippet": "| Q2 measurement | 2 days after verified inputs |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::aee0d1f70eb5",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::aee0d1f70eb5",
       "snippet": "| Integrity review of operator's own-product filing | ≤ 7 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::b08635779877",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::b08635779877",
       "snippet": "| Q3 integration | 4 days after Q2 |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::bb7ec3a1e1f6",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::bb7ec3a1e1f6",
       "snippet": "| Q3 integration | 2 days after Q2 |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::c3398d1d5f02",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::c3398d1d5f02",
       "snippet": "| Q1 standing finding → standing record | 2 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::c7f6497228bb",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::c7f6497228bb",
       "snippet": "| Q1 standing finding → standing record | 4 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::d16037900af5",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::d16037900af5",
       "snippet": "| Q3 integration | 4 days | 9 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::e3caa5839891",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::e3caa5839891",
       "snippet": "| Remedy commencement | 1 day after Q3 |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::f188d44c0baf",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::f188d44c0baf",
       "snippet": "| Q2 measurement | 2 days | 4 days |"
     },
     {
-      "key": "core_11.010_application_vignettes.md::duration::fa682cd5c881",
+      "key": "corpus_joint_structure/cjs_11.105_application_vignettes.md::duration::fa682cd5c881",
       "snippet": "| Intake acknowledgment | ≤ 24 hours |"
     },
     {

@@ -947,7 +947,7 @@ This subsection sets out how Chapter Thirteen designation relates to independent
   - [§5](#interim-protection) (*Interim protection*);
   - **CF-14.445 §3.1** (*stage targets and outer bounds*);
   - **[CI-6.205](corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md#ci-6205-transparency-participation-and-accessible-challenge-and-service-pathways)** (*accessible challenge and service pathways*);
-  - [Chapters Eleven–Fourteen application vignettes](core_11.010_application_vignettes.md#chapters-elevenfourteen-pipeline-application-vignettes);
+  - [Chapters Eleven–Fourteen application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes);
   - [§6.1 Emergency measures and continuation burden](#61-emergency-measures-and-continuation-burden) (*same outer bounds as default restore-challenge windows*).
 - Tetrad leg(s): **timeliness** (cross-cutting enforcement); **participation** and **oversight** (accessible intake and published milestones). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*);
@@ -1145,4 +1145,4 @@ Forum families must maintain or obtain access to **independent** support across 
 
 **Previous file:** [core_13.005_misconduct_pattern_applications.md](core_13.005_misconduct_pattern_applications.md)
 
-**Next file:** [core_11.010_application_vignettes.md](core_11.010_application_vignettes.md)
+**Next file:** [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md)

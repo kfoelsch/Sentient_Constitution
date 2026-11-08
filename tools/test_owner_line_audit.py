@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import tempfile
 import unittest
+from unittest import mock
 from pathlib import Path
 
 import owner_line_audit as ola
@@ -76,10 +77,11 @@ class CoreTests(unittest.TestCase):
         self.assertTrue(self.check("core_00.000_preamble.md", core(bad)))
 
     def test_non_owner_files_must_say_so(self):
-        name = "core_11.010_application_vignettes.md"
-        ok = "These vignettes are illustrative and own no rule.\n\n*In plain terms: x*\n"
-        self.assertEqual(self.check(name, core(ok)), [])
-        self.assertTrue(self.check(name, core("*In plain terms: x*\n")))
+        name = "core_99.999_example_non_owner.md"
+        ok = "These pages are illustrative and own no rule.\n\n*In plain terms: x*\n"
+        with mock.patch.object(ola, "CORE_NON_OWNER", {name}):
+            self.assertEqual(self.check(name, core(ok)), [])
+            self.assertTrue(self.check(name, core("*In plain terms: x*\n")))
 
     def test_two_claims_before_the_first_section_fail(self):
         body = ("Chapter Seven is the constitutional owner of **X**.\n\n"

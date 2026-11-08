@@ -166,7 +166,7 @@ Platform cooperatives, research cooperatives, and mutual-aid networks that treat
 <a id="47-critical-infrastructure-ops-guide"></a>
 ### 4.7 Critical-infrastructure operators using stacks without polity adoption
 
-Energy, water, care platforms, gig scheduling. The existing [care-duty vignette](../../core_11.010_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a) already pairs household harm with platform lock-in. Good **operations-guide** fit. Full adoption by a city or utility is possible later and is a slower, political path. Kit doors: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §3.1.
+Energy, water, care platforms, gig scheduling. The existing [care-duty vignette](../../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a) already pairs household harm with platform lock-in. Good **operations-guide** fit. Full adoption by a city or utility is possible later and is a slower, political path. Kit doors: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §3.1.
 
 <a id="48-universities-and-joint-labs"></a>
 ### 4.8 Universities and joint labs, scoped to named systems

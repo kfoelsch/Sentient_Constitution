@@ -1414,6 +1414,6 @@ This Article sets the minimum rules for sharing the load fairly between systems.
 
 ---
 
-**Previous file:** [core_11.010_application_vignettes.md](core_11.010_application_vignettes.md)
+**Previous file:** [core_14.000_forum.md](core_14.000_forum.md)
 
 **Next file:** [core_06.005_rights_part_b.md](core_06.005_rights_part_b.md)

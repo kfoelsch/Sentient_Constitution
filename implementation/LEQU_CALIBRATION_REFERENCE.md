@@ -197,13 +197,13 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 **W1 — Unique death of one adult human.** Verified destruction of one IBE. `x ≈ 1` LEQU. **Violation `s` = 7** (*Severe Constitutional Impact*). Character (violence, negligence, or none) is separate. This is the Table 2 anchor, not a species rule.
 
 <a id="w2-two-children-survival-floor-deprivation"></a>
-**W2 — Two dependent children, verified months of survival-floor deprivation (food, care, supervision), not death.** Fact pattern follows [vignette 1](../core_11.010_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). If each child’s integrated impairment over the verified period is about one year of rights-consistent wellbeing (not full-life destruction): `x ≈ 2 × (1/80) = 0.025` LEQU → **Violation `s` = 4** (*Significant Constitutional Impact*). If each is closer to three years of deep deprivation: `x ≈ 0.075` → **`s` = 5** (*Major Constitutional Impact*). The vignette’s “likely `s` = 4–5” band is this range. Care-duty and negligence descriptors do not move the slot. Guardian contribution elsewhere does not net.
+**W2 — Two dependent children, verified months of survival-floor deprivation (food, care, supervision), not death.** Fact pattern follows [vignette 1](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a). If each child’s integrated impairment over the verified period is about one year of rights-consistent wellbeing (not full-life destruction): `x ≈ 2 × (1/80) = 0.025` LEQU → **Violation `s` = 4** (*Significant Constitutional Impact*). If each is closer to three years of deep deprivation: `x ≈ 0.075` → **`s` = 5** (*Major Constitutional Impact*). The vignette’s “likely `s` = 4–5” band is this range. Care-duty and negligence descriptors do not move the slot. Guardian contribution elsewhere does not net.
 
 <a id="w3-riparian-restoration"></a>
-**W3 — Riparian cooperative restoration (Chapter Eleven §14.1 Example 1).** Localized ecological gain, two neighborhoods, multiple seasons, below one LEQU. Worked: `x ≈ 0.05` (about four years of rights-consistent flood/habitat benefit on the display column, modest scope). **Contribution `s` = 5** (*Serious Stewardship-Positive Contribution*), if baseline, traceability, and non-externalization hold. Unpaid mutual aid is not a reason to refuse the slot; prestige is not a reason to raise it.
+**W3 — Riparian cooperative restoration ([CJS-11.105 §8 Riparian cooperative restoration (contribution measurement)](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-8-riparian-cooperative-restoration-contribution-measurement)).** Localized ecological gain, two neighborhoods, multiple seasons, below one LEQU. Worked: `x ≈ 0.05` (about four years of rights-consistent flood/habitat benefit on the display column, modest scope). **Contribution `s` = 5** (*Serious Stewardship-Positive Contribution*), if baseline, traceability, and non-externalization hold. Unpaid mutual aid is not a reason to refuse the slot; prestige is not a reason to raise it.
 
 <a id="w4-watershed-concealment"></a>
-**W4 — Watershed stewardship with concealed tests (Chapter Eleven §14.2 Example 2).** Moderate loss across two seasons and three irrigation-dependent cooperatives, below one LEQU destroyed. Worked: `x ≈ 0.08`. **Violation `s` = 5** (*Serious Constitutional Impact*). Concealment after notice is character, not a multiplier. Later trash cleanup is a linked contribution record, not an offset.
+**W4 — Watershed stewardship with concealed tests ([CJS-11.105 §9 Watershed steward negligence with concealed test results (violation measurement)](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement)).** Moderate loss across two seasons and three irrigation-dependent cooperatives, below one LEQU destroyed. Worked: `x ≈ 0.08`. **Violation `s` = 5** (*Serious Constitutional Impact*). Concealment after notice is character, not a multiplier. Later trash cleanup is a linked contribution record, not an offset.
 
 ### 6.2 Non-biological (weights, checkpoints, no fixed mortality)
 
@@ -302,7 +302,7 @@ Reading the schedule against instances:
 | [Article VI-B](../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) | Who counts — not a LEQU job |
 | [CS-15.305 §10](../corpus_systems/cs_15.305_critical_system_stewardship.md#cs-15305-103-inspectable-attributable-action) | Inspectable action; weights are not the standing record |
 | [STEWARD_ENTRY_DOORS.md](STEWARD_ENTRY_DOORS.md#standing) | Next-step pointer: open or correct the record first |
-| [core_11.010_application_vignettes.md](../core_11.010_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a) | W2 fact pattern |
+| [corpus_joint_structure/cjs_11.105_application_vignettes.md](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a) | W2 fact pattern |
 
 ---
 

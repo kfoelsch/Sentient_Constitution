@@ -473,20 +473,6 @@
       "ordinal_name": "11"
     },
     {
-      "old_id": "Chapter 10-13",
-      "original_file": "core_10-13_application_vignettes.md",
-      "machine_id": "11010",
-      "display_id": "11.010",
-      "layer": "CORE",
-      "core_home": "11",
-      "title": "10-13",
-      "destination_file": "core_11.010_application_vignettes.md",
-      "status": "active",
-      "machine_number": "11010",
-      "layer_digit": "0",
-      "ordinal_name": "10-13"
-    },
-    {
       "old_id": "Chapter 11",
       "original_file": "core_11_standing_integration.md",
       "machine_id": "12000",
@@ -1655,6 +1641,22 @@
       "legacy_chapter_ids": [
         "CJS-1"
       ]
+    },
+    {
+      "old_id": "CJS-11.105",
+      "original_file": "corpus_joint_structure/cjs_11.105_application_vignettes.md",
+      "machine_id": "CJS-11105",
+      "display_id": "CJS-11.105",
+      "layer": "CJS",
+      "core_home": "11",
+      "title": "application vignettes",
+      "destination_file": "corpus_joint_structure/cjs_11.105_application_vignettes.md",
+      "status": "active",
+      "machine_number": "11105",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-11.105",
+      "legacy_section_ids": [],
+      "legacy_chapter_ids": []
     },
     {
       "old_id": "CI-3",
