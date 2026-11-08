@@ -684,7 +684,7 @@ Standards may not override **section 12**, **Chapter One**, or the **Chapter Six
 
 **Verified inputs.** Soil-test logs, planting receipts, timestamped before/after habitat photos, and contestable neighbor attestations satisfy the verified-input gate under **section 2.5**. Allegations that one member previously dumped waste upstream remain a separate, unverified routing thread and do **not** enter this standing record.
 
-**Seats under section 5.1.**
+**Seats under section 5.1:**
 
 - **Who is involved**
   - The four members are the subjects and, because they seek recognition, the claimants.
@@ -725,7 +725,7 @@ Standards may not override **section 12**, **Chapter One**, or the **Chapter Six
 
 **Verified inputs.** A forum produces a verified violation finding → an axis-pure **violation standing record** opens under **sections 2 and 4** with the preserved notice chain, authentic-versus-submitted lab comparison, and intake contamination readings across two growing seasons. The steward's later volunteer trash cleanup along the same creek is routed to a **linked contribution standing record** under **section 2.4**; it does **not** offset this violation record.
 
-**Seats under section 5.1.**
+**Seats under section 5.1:**
 
 - **Who is involved**
   - The steward is the subject and holds no seat.
