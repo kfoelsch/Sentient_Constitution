@@ -537,6 +537,54 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 
 *In plain terms: **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The standing records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.*
 
+The chart follows one slot assignment from start to finish. It shows the order the steps are worked in, which is not the order of the bullets below; the bullets state each rule.
+
+```mermaid
+flowchart TB
+    subgraph PRE["Use Table 2 only after all three are done"]
+        direction LR
+        P1["Question 1<br/><br/>Confirms what<br/>happened"]
+        P2["§7–§9, §10.2 Question 2<br/><br/>Measures the verified<br/>benefit or loss"]
+        P3["§11 Constitutional sources<br/><br/>Required sources<br/>identified"]
+        P1 ~~~ P2 ~~~ P3
+    end
+    Dm["Scaling dimensions<br/><br/>Depth, sentient scope,<br/>vulnerability, duration,<br/>durability or<br/>irreversibility, reach,<br/>and constitutional<br/>criticality"]
+    K["Verified consequences<br/><br/>Assessed fully, through<br/>the scaling dimensions<br/>Physical injury,<br/>psychological trauma,<br/>coercive effects,<br/>deprivation or danger<br/>to liberty, cumulative<br/>harm, other cognizable<br/>benefit or loss"]
+    E["Apply Proportionality<br/><br/>Estimate the integrated<br/>LEQU impact<br/>The dimensions shape<br/>the estimate; they are<br/>not independent<br/>slot bonuses"]
+    A["Assign one slot<br/><br/>From the integrated<br/>estimate, using Table 2<br/>Explain how each material<br/>dimension affected the<br/>estimate and why omitted<br/>dimensions did not control"]
+    M["Every assignment<br/>must satisfy<br/><br/>Traceability, auditability,<br/>contestability, and the<br/>applicable Rights Floor<br/>A Contribution must<br/>also satisfy<br/>non-externalization and<br/>constitutional alignment"]
+    D["Record conduct character<br/><br/>As separately traceable<br/>descriptors<br/>They may control<br/>attribution, review<br/>intensity, safeguards,<br/>remedy, or a Chapter<br/>Thirteen designation"]
+    G["Do not raise or lower<br/>the slot<br/><br/>Merely because conduct is<br/>characterized by duty,<br/>negligence, intent,<br/>concealment, repetition,<br/>aggravation, coercion,<br/>violence, liberty danger,<br/>correctability, or a<br/>preferred consequence<br/>Do not infer character<br/>from magnitude or<br/>substitute it for<br/>verified magnitude"]
+    Q{"Do verified consequences<br/>change the integrated<br/>LEQU impact?"}
+    Y(["The slot moves only<br/>as far as the changed<br/>estimate moves it"])
+    N(["Conduct character<br/>does not change<br/>the slot"])
+    PRE --> Dm
+    PRE --> K
+    Dm --> E
+    K --> E
+    E --> A --> M
+    M --> D
+    M --> G
+    D --> Q
+    G --> Q
+    Q -->|Yes| Y
+    Q -->|No| N
+    style PRE fill:none,stroke:#64748b,color:#ffffff,stroke-dasharray: 5 5
+    style P1 fill:none,stroke:#64748b,color:#ffffff
+    style P2 fill:none,stroke:#64748b,color:#ffffff
+    style P3 fill:none,stroke:#64748b,color:#ffffff
+    style Dm fill:none,stroke:#64748b,color:#ffffff
+    style K fill:none,stroke:#64748b,color:#ffffff
+    style E fill:none,stroke:#db2777,color:#ffffff
+    style A fill:none,stroke:#db2777,color:#ffffff
+    style M fill:none,stroke:#ea580c,color:#ffffff
+    style D fill:none,stroke:#db2777,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style Q fill:none,stroke:#ea580c,color:#ffffff
+    style Y fill:none,stroke:#64748b,color:#ffffff
+    style N fill:none,stroke:#64748b,color:#ffffff
+```
+
 Apply **Proportionality** to estimate integrated LEQU impact from depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, and constitutional criticality. These dimensions shape the LEQU estimate; they are not independent slot bonuses.
 
 - Use **Table 2** after Question 1 confirms what happened, Question 2 measures the verified benefit or loss, **sections 7–9 and 10.2** are applied, and the constitutional sources required by **section 11** are identified.
@@ -570,6 +618,8 @@ Apply **Proportionality** to estimate integrated LEQU impact from depth, sentien
     - correctability; or
     - a preferred consequence.
   - Infer conduct character from magnitude or substitute conduct character for verified magnitude.
+
+**Table 2** lists the nine slots in order. Each row gives the slot number `s`, how much benefit added or loss imposed reaches that slot (with an 80-year human lifespan as the calibration example), and the slot's name on each axis. The same thresholds apply on both axes, but the two names stay separate: a Contribution Axis slot and a Violation Axis slot are different records and never offset.
 
 | `s` | 80-year human calibration — benefit added / loss imposed | Contribution Axis | Violation Axis |
 | ---: | --- | --- | --- |
