@@ -146,8 +146,15 @@ def git_changed_paths(root: Path, base: str) -> set[str]:
 def select_changed_targets(root: Path, registry: dict, names: list[str], changed: set[str]) -> tuple[list[str], bool]:
     """Select checks whose registered corpus scope touches changed files.
 
-    Return ``(names, conservative_fallback)``. Any mixed or non-corpus change keeps
-    the requested target set intact because this scope registry only maps corpus files.
+    Return ``(names, conservative_fallback)``. ``conservative_fallback`` is true only when a
+    changed file is not a corpus file: the scope registry maps corpus files alone, so the whole
+    requested set is kept (tool changes, for example, need the unit tests of the audits too).
+
+    When every changed file is a corpus file:
+    * unit tests of the audits (category ``tests`` or a name ending in ``-test``) are skipped, because
+      they exercise the audit code and no audit code changed;
+    * any other target without a scope entry (a file-writing audit, for example) is kept on its own,
+      rather than abandoning the selection for every audit.
     """
     from corpus_paths import binding_corpus_scope
 
@@ -159,7 +166,11 @@ def select_changed_targets(root: Path, registry: dict, names: list[str], changed
     for name in names:
         meta = scope_registry.get("targets", {}).get(name)
         if not meta:
-            return names, True
+            entry = registry["targets"].get(name, {})
+            if entry.get("category") == "tests" or name.endswith("-test"):
+                continue
+            selected.append(name)   # no registered scope: keep it, as the cautious choice
+            continue
         kind = meta["scope"]
         if kind == "corpus" and changed:
             selected.append(name)
@@ -424,7 +435,7 @@ def main(argv: list[str] | None = None) -> int:
         names, conservative = select_changed_targets(root, registry, names, changed)
         if not args.json:
             if conservative:
-                print("Changed-file selection kept the full requested scope because non-corpus changes are present.")
+                print("Changed-file selection kept the full requested scope because a non-corpus file changed (tools, Makefile, or a document outside the corpus).")
             else:
                 print(f"Changed-file selection: {len(changed)} corpus file(s); {len(names)} audit target(s) selected.")
     if not names:
