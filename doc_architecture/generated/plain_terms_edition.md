@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **757** of **1209** headings carry a gloss (63%).
+Coverage: **758** of **1210** headings carry a gloss (63%).
 
 ## Contents
 
@@ -38,7 +38,7 @@ Coverage: **757** of **1209** headings carry a gloss (63%).
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
 - [CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
 - [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
-- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (20/44 glossed)
+- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (21/45 glossed)
 - [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER FIFTEEN: FORUMS AND JURISDICTION](#chapter-fifteen-forums-and-jurisdiction) — `core_15.000_forum.md` (9/29 glossed)
@@ -5423,265 +5423,271 @@ two worked examples, **vignettes 8 and 9**, measure a verified contribution and 
 
 ## CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION
 
-Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 20/44 headings glossed
+Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 21/45 headings glossed
 
-#### 1. Chapter Eleven records do not change
+#### 1. Purpose and Role
+
+this section says what this chapter is for, what it takes as fixed, what it leaves to other chapters, and where each step is found. The rules themselves are in the sections it points to.
+
+[Source](../../core_13.000_standing_integration.md#1-purpose-and-role)
+
+#### 2. Chapter Eleven records do not change
 
 this chapter starts from the verified standing records Chapter Eleven already made. It may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.
 
-[Source](../../core_13.000_standing_integration.md#1-chapter-eleven-records-do-not-change)
+[Source](../../core_13.000_standing_integration.md#2-chapter-eleven-records-do-not-change)
 
-#### 2. Automatic integration, review, and continuity
+#### 3. Automatic integration, review, and continuity
 
 when a verified standing record opens or changes, an integration record must follow automatically, keep the two tracks separate, and stay inspectable — including when the computers are down.
 
-[Source](../../core_13.000_standing_integration.md#2-automatic-integration-review-and-continuity)
+[Source](../../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity)
 
-#### 3. Descriptor integration and attachment normalization
+#### 4. Descriptor integration and attachment normalization
 
 descriptors say **how** verified help or harm happened. This chapter imports them as they were recorded. It may not quietly reclassify them to change the result.
 
-[Source](../../core_13.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization)
+[Source](../../core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization)
 
-#### 4. Violation, correction, and prevention
+#### 5. Violation, correction, and prevention
 
 Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Eleven has verified a violation, remedy and correction come from that standing record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive named pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified standing record.
 
-[Source](../../core_13.000_standing_integration.md#4-violation-correction-and-prevention)
+[Source](../../core_13.000_standing_integration.md#5-violation-correction-and-prevention)
 
-##### 4.1 Remedy and correction
+##### 5.1 Remedy and correction
 
-after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related named pathway limits — begins in [§4.2 Prevention — general standing locks](../../core_13.000_standing_integration.md#42-prevention--general-standing-locks), with design and enforcement in [§5 Lock design and enforcement](../../core_13.000_standing_integration.md#5-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§4.3 Voluntary public accountability expression](../../core_13.000_standing_integration.md#43-voluntary-public-accountability-expression) applies.
+after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related named pathway limits — begins in [§5.2 Prevention — general standing locks](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks), with design and enforcement in [§6 Lock design and enforcement](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§5.3 Voluntary public accountability expression](../../core_13.000_standing_integration.md#53-voluntary-public-accountability-expression) applies.
 
-[Source](../../core_13.000_standing_integration.md#41-remedy-and-correction)
+[Source](../../core_13.000_standing_integration.md#51-remedy-and-correction)
 
-##### 4.2 Prevention — general standing locks
+##### 5.2 Prevention — general standing locks
 
 this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting named pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.
 
-[Source](../../core_13.000_standing_integration.md#42-prevention--general-standing-locks)
+[Source](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks)
 
-##### 4.3 Voluntary public accountability expression
+##### 5.3 Voluntary public accountability expression
 
 a public apology or acknowledgment, if used on a restorative pathway, must be voluntary, sincere, and non-degrading. Refusal alone does not raise sanctions. A fake or abusive apology does not count as repair.
 
-[Source](../../core_13.000_standing_integration.md#43-voluntary-public-accountability-expression)
+[Source](../../core_13.000_standing_integration.md#53-voluntary-public-accountability-expression)
 
-##### 4.4 Remedy parity and lock preconditions
+##### 5.4 Remedy parity and lock preconditions
 
 locks are cheap to issue; repair, restoration, and review are expensive to run. Left alone, the cheap half of this chapter keeps working while the expensive half starves. This subsection ties them together: an ordinary lock cannot attach until the remedy file for the same violation finding is actually open, and when an adopter's remedy or restoration work for a class of locks falls behind its clock, new ordinary locks in that class default to the lightest form and existing ones come up for review. The gravest locks are exempt so that flooding the remedy queue cannot spring them.
 
-[Source](../../core_13.000_standing_integration.md#44-remedy-parity-and-lock-preconditions)
+[Source](../../core_13.000_standing_integration.md#54-remedy-parity-and-lock-preconditions)
 
-#### 5. Lock design and enforcement
+#### 6. Lock design and enforcement
 
-once a lock is needed under [§4.2 Prevention — general standing locks](../../core_13.000_standing_integration.md#42-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Twelve measurement, and it does not let contribution offset a lock.
+once a lock is needed under [§5.2 Prevention — general standing locks](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Twelve measurement, and it does not let contribution offset a lock.
 
-[Source](../../core_13.000_standing_integration.md#5-lock-design-and-enforcement)
+[Source](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement)
 
-##### 5.1 Definition and attachment
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#51-definition-and-attachment)
-
-##### 5.2 Proportionality and calibration
+##### 6.1 Definition and attachment
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#52-proportionality-and-calibration)
+[Source](../../core_13.000_standing_integration.md#61-definition-and-attachment)
 
-##### 5.3 Record visibility and escalation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#53-record-visibility-and-escalation)
-
-##### 5.4 Special violation rules
+##### 6.2 Proportionality and calibration
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#54-special-violation-rules)
+[Source](../../core_13.000_standing_integration.md#62-proportionality-and-calibration)
 
-##### 5.5 Special locks
+##### 6.3 Record visibility and escalation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#55-special-locks)
+[Source](../../core_13.000_standing_integration.md#63-record-visibility-and-escalation)
 
-##### 5.6 Interim holds and locks
+##### 6.4 Special violation rules
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#64-special-violation-rules)
+
+##### 6.5 Special locks
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#65-special-locks)
+
+##### 6.6 Interim holds and locks
 
 a hold is what a forum may do on specific verified facts while the full facts are checked. A lock is what follows a verified violation finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.
 
-[Source](../../core_13.000_standing_integration.md#56-interim-holds-and-locks)
+[Source](../../core_13.000_standing_integration.md#66-interim-holds-and-locks)
 
-#### 6. Contribution consequences second
+#### 7. Contribution consequences second
 
-after violation, correction, and prevention are assigned under [§4 Violation, correction, and prevention](../../core_13.000_standing_integration.md#4-violation-correction-and-prevention) and [§5 Lock design and enforcement](../../core_13.000_standing_integration.md#5-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for named pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked named pathway.
+after violation, correction, and prevention are assigned under [§5 Violation, correction, and prevention](../../core_13.000_standing_integration.md#5-violation-correction-and-prevention) and [§6 Lock design and enforcement](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for named pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked named pathway.
 
-[Source](../../core_13.000_standing_integration.md#6-contribution-consequences-second)
+[Source](../../core_13.000_standing_integration.md#7-contribution-consequences-second)
 
-##### 6.1 Recency and currentness
+##### 7.1 Recency and currentness
 
 how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Twelve measurement, and time alone does not settle an unresolved violation.
 
-[Source](../../core_13.000_standing_integration.md#61-recency-and-currentness)
+[Source](../../core_13.000_standing_integration.md#71-recency-and-currentness)
 
-##### 6.2 Competency bars and clearances
+##### 7.2 Competency bars and clearances
 
 a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the named pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.
 
-[Source](../../core_13.000_standing_integration.md#62-competency-bars-and-clearances)
+[Source](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances)
 
-#### 7. Final standing effect
+#### 8. Final standing effect
 
 when the earlier steps are done, the system must state — one named pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.
 
-[Source](../../core_13.000_standing_integration.md#7-final-standing-effect)
+[Source](../../core_13.000_standing_integration.md#8-final-standing-effect)
 
-##### 7.1 Anti-aggregation of named-pathway effects
+##### 8.1 Anti-aggregation of named-pathway effects
 
 this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one named pathway at a time and shown only to whoever gates that named pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.
 
-[Source](../../core_13.000_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)
+[Source](../../core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects)
 
-##### 7.2 Plain statement of effect and burden
+##### 8.2 Plain statement of effect and burden
 
 no one should learn what a standing effect does to them from its consequences. The integration record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.
 
-[Source](../../core_13.000_standing_integration.md#72-plain-statement-of-effect-and-burden)
+[Source](../../core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden)
 
-#### 8. Restoration and reassessment
+#### 9. Restoration and reassessment
 
 a lock that is not permanent must have a real way back. Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.
 
-[Source](../../core_13.000_standing_integration.md#8-restoration-and-reassessment)
+[Source](../../core_13.000_standing_integration.md#9-restoration-and-reassessment)
 
-#### 9. Enforcement realism and remedy systems
+#### 10. Enforcement realism and remedy systems
 
 standing consequences and redress count only when real institutions can deliver them. This section applies the [Chapter One §6.1](../../core_01.000_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) principle to that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.
 
-[Source](../../core_13.000_standing_integration.md#9-enforcement-realism-and-remedy-systems)
+[Source](../../core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems)
 
-##### 9.1 Remediation capacity and funding
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#91-remediation-capacity-and-funding)
-
-##### 9.2 Remedy-system durability
+##### 10.1 Remediation capacity and funding
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#92-remedy-system-durability)
+[Source](../../core_13.000_standing_integration.md#101-remediation-capacity-and-funding)
 
-##### 9.3 Cross-jurisdiction continuity
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#93-cross-jurisdiction-continuity)
-
-##### 9.4 Anti-evasion and look-through authority
+##### 10.2 Remedy-system durability
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#94-anti-evasion-and-look-through-authority)
+[Source](../../core_13.000_standing_integration.md#102-remedy-system-durability)
 
-##### 9.5 Timely implementation
+##### 10.3 Cross-jurisdiction continuity
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#95-timely-implementation)
+[Source](../../core_13.000_standing_integration.md#103-cross-jurisdiction-continuity)
 
-#### 10. Pattern applications and Question 3 routing
+##### 10.4 Anti-evasion and look-through authority
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority)
+
+##### 10.5 Timely implementation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#105-timely-implementation)
+
+#### 11. Pattern applications and Question 3 routing
 
 these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Fourteen §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers named pathway prevention from the verified standing record; Chapter Fourteen separately answers designation criteria routing.
 
-[Source](../../core_13.000_standing_integration.md#10-named-applications)
+[Source](../../core_13.000_standing_integration.md#11-named-applications)
 
-##### 10.1 Informal ecological stewardship / competency clearance
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#101-informal-ecological-stewardship-competency-clearance)
-
-##### 10.2 Ecological negligence with concealment
+##### 11.1 Informal ecological stewardship / competency clearance
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#102-ecological-negligence-with-concealment)
+[Source](../../core_13.000_standing_integration.md#111-informal-ecological-stewardship-competency-clearance)
 
-##### 10.3 Forum-integrity deception or recusal failure
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#103-forum-integrity-deception-or-recusal-failure)
-
-##### 10.4 Recurrence after completed restitution
+##### 11.2 Ecological negligence with concealment
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#104-recurrence-after-completed-restitution)
+[Source](../../core_13.000_standing_integration.md#112-ecological-negligence-with-concealment)
 
-##### 10.5 Champion repair while a lock remains active
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#105-champion-repair-while-a-lock-remains-active)
-
-##### 10.6 Institutional vehicle and successor evasion
+##### 11.3 Forum-integrity deception or recusal failure
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#106-institutional-vehicle-and-successor-evasion)
+[Source](../../core_13.000_standing_integration.md#113-forum-integrity-deception-or-recusal-failure)
 
-##### 10.7 Misaligned reward retention
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#107-misaligned-reward-retention)
-
-##### 10.8 Anti-constitutional misconduct allegation
+##### 11.4 Recurrence after completed restitution
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#108-top-slot-anti-constitutional-allegation)
+[Source](../../core_13.000_standing_integration.md#114-recurrence-after-completed-restitution)
 
-##### 10.9 Rights-Floor waiver or unconstitutional contract devices
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#109-rights-floor-waiver-or-unconstitutional-contract-devices)
-
-##### 10.10 Contest-pathway or info-sphere flooding
+##### 11.5 Champion repair while a lock remains active
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#1010-contest-pathway-or-info-sphere-flooding)
+[Source](../../core_13.000_standing_integration.md#115-champion-repair-while-a-lock-remains-active)
 
-##### 10.11 Infrastructure denial or dependency cutoff
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#1011-infrastructure-denial-or-dependency-cutoff)
-
-##### 10.12 Stakeholder-participation corruption or false-stake abuse
+##### 11.6 Institutional vehicle and successor evasion
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#1012-stakeholder-participation-corruption-or-false-stake-abuse)
+[Source](../../core_13.000_standing_integration.md#116-institutional-vehicle-and-successor-evasion)
 
-##### 10.13 Obstruction of accountability
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_13.000_standing_integration.md#1013-obstruction-of-accountability)
-
-##### 10.14 Verified cruelty character
+##### 11.7 Misaligned reward retention
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#1014-verified-cruelty-character)
+[Source](../../core_13.000_standing_integration.md#117-misaligned-reward-retention)
+
+##### 11.8 Anti-constitutional misconduct allegation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#118-top-slot-anti-constitutional-allegation)
+
+##### 11.9 Rights-Floor waiver or unconstitutional contract devices
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#119-rights-floor-waiver-or-unconstitutional-contract-devices)
+
+##### 11.10 Contest-pathway or info-sphere flooding
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#1110-contest-pathway-or-info-sphere-flooding)
+
+##### 11.11 Infrastructure denial or dependency cutoff
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#1111-infrastructure-denial-or-dependency-cutoff)
+
+##### 11.12 Stakeholder-participation corruption or false-stake abuse
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#1112-stakeholder-participation-corruption-or-false-stake-abuse)
+
+##### 11.13 Obstruction of accountability
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#1113-obstruction-of-accountability)
+
+##### 11.14 Verified cruelty character
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_13.000_standing_integration.md#1114-verified-cruelty-character)
 
 ## CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION
 

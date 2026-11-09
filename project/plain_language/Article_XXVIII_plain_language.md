@@ -78,7 +78,7 @@ The ground rules:
 
 Storage costs, licensing trouble, or "product cycles" are not good enough reasons. If keeping it around creates a documented safety risk, the answer is sealed storage under independent control, not destruction.
 
-**A narrow break for "not yet certified" systems.** (The rule itself now sits in Chapter Thirteen §5.4.) During an approved Adoption Transition, a system that isn't yet alignment-certified doesn't automatically trigger the reward-forfeiture and reporting rules in Chapter Thirteen §5.4, *only if* all of these are true:
+**A narrow break for "not yet certified" systems.** (The rule itself now sits in Chapter Thirteen §6.4.) During an approved Adoption Transition, a system that isn't yet alignment-certified doesn't automatically trigger the reward-forfeiture and reporting rules in Chapter Thirteen §6.4, *only if* all of these are true:
 - it is operating within a documented Adoption Transition plan;
 - it is moving toward certification on a published schedule; and
 - nobody is hiding problems, working outside the approved scope, or using "we're in the Adoption Transition" to dodge fixes or protected reporting.

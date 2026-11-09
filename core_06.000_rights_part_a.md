@@ -697,7 +697,7 @@ This Article sets out the floors for product data handling, collection notice, d
 - Read with: [Article II-E](#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*) — the disclosure and export paths this Article relies on.
 - Read with: **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*) and **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6).
-- Read with: [Chapter Thirteen §9.1](core_13.000_standing_integration.md#91-remediation-capacity-and-funding) (13.000 §9.1) and [§9.4](core_13.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Read with: [Chapter Thirteen §10.1](core_13.000_standing_integration.md#101-remediation-capacity-and-funding) (13.000 §10.1) and [§10.4](core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority).
 
 </details>
 

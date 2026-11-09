@@ -761,7 +761,7 @@ Those are failed tests for any steward.
   - [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary);
   - [§13.2.3 Privacy](core_01.005_interaction_interpretation.md#1323-privacy-and-informational-self-determination);
   - [Article VII-B](core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
-- Downstream: [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Thirteen §7.1](core_13.000_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (13.000 §7.1); [Chapter Thirteen §7.2](core_13.000_standing_integration.md#72-plain-statement-of-effect-and-burden) (13.000 §7.2).
+- Downstream: [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Thirteen §8.1](core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects) (13.000 §8.1); [Chapter Thirteen §8.2](core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden) (13.000 §8.2).
 
 </details>
 
@@ -815,9 +815,9 @@ Those are failed tests for any steward.
 - **A log is a trail, not a verdict:**
   - The log shows who did what. It is not itself a standing finding, and it is not a [standing record](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) of verified help or harm. Writing it opens no standing record.
   - Whoever decides access to a role pathway, a trust pathway, or another named pathway uses a standing record, or the ordinary state of having none ([Chapter Eleven §2.2 Silence is the default](core_11.000_standing_assessment.md#22-silence-is-the-default)), and never the log.
-  - It may not be combined with logs or standing effects from other named pathways into one reputation score, ranking, badge, or public profile ([Chapter Thirteen §7.1 Anti-aggregation of named-pathway effects](core_13.000_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)).
+  - It may not be combined with logs or standing effects from other named pathways into one reputation score, ranking, badge, or public profile ([Chapter Thirteen §8.1 Anti-aggregation of named-pathway effects](core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects)).
 
-The burden this duty places on a steward who carries consequential authority is real, and this Constitution does not pretend otherwise; [Chapter Thirteen §7.2 Plain statement of effect and burden](core_13.000_standing_integration.md#72-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
+The burden this duty places on a steward who carries consequential authority is real, and this Constitution does not pretend otherwise; [Chapter Thirteen §8.2 Plain statement of effect and burden](core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
 
 <a id="174-aligned-self-organization"></a>
 #### 17.4 Aligned Self-Organization
@@ -911,7 +911,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - **It may trigger:** inquiry, evidence preservation, interim protection, referral, certification challenge, reopening, a forum claim, or the opening, correction, or contest of a standing record, each under the applicable owner layer:
   - **Forum claim:** a self-organized group may file the claims the owner layer opens to it, such as a [capacity-failure claim](core_15.000_forum.md#capacity-failure-routing).
   - **Forum case record:** it opens when the matter is filed, and by itself changes no one's standing ([Chapter Fifteen §2.3 Forum case records, standing records, and contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests)).
-  - **Standing record:** the work may support a contribution record, which [Chapter Thirteen §6 Contribution consequences second](core_13.000_standing_integration.md#6-contribution-consequences-second) requires to be available on equal standards to informal, unpaid, peer-organized, and community-stewardship work. It may also support a violation record for wrongdoing the work turned up, under the caution below. Either opens only on a verified trigger, through a named record-opening authority ([Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)). A submission can ask for one but cannot supply its own verification, and [silence remains the default](core_11.000_standing_assessment.md#22-silence-is-the-default).
+  - **Standing record:** the work may support a contribution record, which [Chapter Thirteen §7 Contribution consequences second](core_13.000_standing_integration.md#7-contribution-consequences-second) requires to be available on equal standards to informal, unpaid, peer-organized, and community-stewardship work. It may also support a violation record for wrongdoing the work turned up, under the caution below. Either opens only on a verified trigger, through a named record-opening authority ([Chapter Eleven §5 Record custody and opening authority](core_11.000_standing_assessment.md#5-record-custody-and-opening-authority)). A submission can ask for one but cannot supply its own verification, and [silence remains the default](core_11.000_standing_assessment.md#22-silence-is-the-default).
   - **Contest or correction:** the work may show that an existing standing record is wrong, incomplete, stale, or mis-scoped. An affected subject may ask a forum with jurisdiction to review it, and a verified defect leads to correction, expiry, or set-aside ([Chapter Fifteen §2.3 Forum case records, standing records, and contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary)).
 - **Must not substitute:** Who the author is, who they are affiliated with, where the submission came from, or the fact that they hold no conventional credentials must not be used in place of evaluating the work itself — its method, its evidence, its provenance, how uncertain it is, and its constitutional relevance.
 
@@ -958,7 +958,7 @@ The burden this duty places on a steward who carries consequential authority is 
   - [5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy); [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing); [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
 - Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- Downstream: [Chapter Thirteen §5.4](core_13.000_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (13.000 §5.4) (*Duty to resist — violation rule and standing effects*); [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
+- Downstream: [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions) (13.000 §6.4) (*Duty to resist — violation rule and standing effects*); [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
 
 </details>
 
@@ -1032,7 +1032,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[Chapter Thirteen §5.4](core_13.000_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist*) applies this duty to standing effects, and [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
+[Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist*) applies this duty to standing effects, and [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
 
 <br>
 
@@ -1051,7 +1051,7 @@ flowchart TB
 - Limits:
   - [§18.3 Separation of Duties](#183-separation-of-duties) and
   - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*learning a seat is not holding it*);
-  - [Chapter Thirteen §6.2 Competency bars and clearances](core_13.000_standing_integration.md#62-competency-bars-and-clearances) (13.000 §6.2);
+  - [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (13.000 §7.2);
   - [§17.5 Duty to Resist](#175-duty-to-resist);
   - [13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints).
 - Downstream:
@@ -1108,7 +1108,7 @@ Competence in a consequential role belongs to the role and to the communities th
 
 **Limits:**
 - **Seats stay separate:** Learning another seat's work is not holding that seat. Rotation must not put a sentient in the checking seat over work they did, and earlier involvement in an act is a conflict under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) and [§18.3 Separation of Duties](#183-separation-of-duties).
-- **Clearance comes first:** No one steps into a binding or safety-relevant role before meeting its competency bar under [Chapter Thirteen §6.2 Competency bars and clearances](core_13.000_standing_integration.md#62-competency-bars-and-clearances). Until then they work supervised, in a learning-dominant role.
+- **Clearance comes first:** No one steps into a binding or safety-relevant role before meeting its competency bar under [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances). Until then they work supervised, in a learning-dominant role.
 - **No retaliation:** Reassignment, rotation, or retraining must not be used to sideline a steward who resisted under [§17.5 Duty to Resist](#175-duty-to-resist) or used [protected reporting](core_05.035_band_accountability.md#protected-reporting-whistleblowing).
 - **Understanding is not access:** Confidentiality, security, and least-privilege limits under [13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) still bind, and the role logging in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) still applies.
 - **Specialization and burden:** [§16 Scope](#16-scope-priority-and-limits) stands: this does not require rotating everyone through every role or override justified specialization. The effort is sized to [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden). A small or informal group can meet it through a few trusted sentients covering for each other, without institutional apparatus.
@@ -1743,7 +1743,7 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
   - settlement, indemnity, insurance, or immunity; or
   - comparable arrangements.
 
-**Misaligned reward consequences.** Material rewards obtained through prohibited reward pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Thirteen §5.4 Reporting duty and exclusions](core_13.000_standing_integration.md#54-special-violation-rules), [§5.4 Forfeiture and retention](core_13.000_standing_integration.md#54-special-violation-rules), and [§5.4 Correction, records, and routing](core_13.000_standing_integration.md#54-special-violation-rules).
+**Misaligned reward consequences.** Material rewards obtained through prohibited reward pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Thirteen §6.4 Reporting duty and exclusions](core_13.000_standing_integration.md#64-special-violation-rules), [§6.4 Forfeiture and retention](core_13.000_standing_integration.md#64-special-violation-rules), and [§6.4 Correction, records, and routing](core_13.000_standing_integration.md#64-special-violation-rules).
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 Stewardship and Operator Application
@@ -2006,7 +2006,7 @@ Concentrated or obscured control structures that materially undermine any of the
 **Misaligned reward correction** (defined in [Chapter Five](core_05.045_band_integrative.md#misaligned-reward-correction)):
 
 - Once misalignment is verified, material rewards from misaligned or corrupt reward pathways must not be kept as silent standing credit or shielded benefit.
-- [Chapter Thirteen §5.4 Special violation rules](core_13.000_standing_integration.md#54-special-violation-rules) governs forfeiture, proportionate clawback, knowing-acceptance reporting, and correction.
+- [Chapter Thirteen §6.4 Special violation rules](core_13.000_standing_integration.md#64-special-violation-rules) governs forfeiture, proportionate clawback, knowing-acceptance reporting, and correction.
 - How good or bad the verified contribution or violation was is rated under [Chapter Twelve §1 Question 2 — how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it), not here.
 
 <a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
@@ -2200,8 +2200,8 @@ Authorization, design, and operation must do four things:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - [Chapter Thirteen §9.1](core_13.000_standing_integration.md#91-remediation-capacity-and-funding) (13.000 §9.1) and
-  - [§9.4](core_13.000_standing_integration.md#94-anti-evasion-and-look-through-authority);
+  - [Chapter Thirteen §10.1](core_13.000_standing_integration.md#101-remediation-capacity-and-funding) (13.000 §10.1) and
+  - [§10.4](core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority);
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability);
   - **[CS-6.320 — Justice safeguards, restitution, and rehabilitation](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md#cs-6320-justice-safeguards-restitution-and-rehabilitation)** (*Entity continuity checks*).
 - Read with: [Attributable Action](core_05.035_band_accountability.md#attributable-action) and [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — successor and formal-structure changes must not defeat reliable attribution of remaining duties.

@@ -42,7 +42,7 @@ This is also more constructive than a system concerned only with punishment. The
 
 These are substantive protections worth making conspicuous in explanations and trials. They also create implementation obligations: a future interface must not quietly reintroduce a global score or an “unverified” stigma.
 
-**Sources:** [Chapter Ten §2.2](../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter One §17.3](../../core_01.010_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Eleven §§7–8](../../core_13.000_standing_integration.md#7-final-standing-effect).
+**Sources:** [Chapter Ten §2.2](../../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter One §17.3](../../core_01.010_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Eleven §§7–8](../../core_13.000_standing_integration.md#8-final-standing-effect).
 
 ### 4. Independence follows actual power
 
@@ -58,7 +58,7 @@ Chapter Eleven requires institutions capable of delivering remedy, with funding,
 
 The strongest idea here is that restrictions do not themselves repair the injured party. Chapter Twelve §4.1 says that explicitly, including for serious misconduct. I would protect this through any compression of the implementation text.
 
-**Sources:** [Chapter Eleven §§8–9](../../core_13.000_standing_integration.md#8-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md); [Chapter Twelve §4.1](../../core_14.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
+**Sources:** [Chapter Eleven §§8–9](../../core_13.000_standing_integration.md#9-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md); [Chapter Twelve §4.1](../../core_14.000_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
 
 ### 6. It distinguishes protection, competence, participation, and authority
 
@@ -120,7 +120,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 ### Priority 5 — Repair semantic drift between core and implementation
 
-**Confirmed example:** [Chapter Eleven §9.2](../../core_13.000_standing_integration.md#92-remedy-parity-funding-minimum) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-11.205 §5](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-5-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-minimums-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
+**Confirmed example:** [Chapter Eleven §9.2](../../core_13.000_standing_integration.md#102-remedy-parity-funding-minimum) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-11.205 §5](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-5-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-minimums-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
 
 The core controls. The omission is still a practical defect because readers acting from the implementation layer may infer a stricter rule. CI-11.205's express pointer to the core helps but does not make the restatement complete. This is an alignment issue to fix, not a conclusion that core should remove or expand the exception.
 

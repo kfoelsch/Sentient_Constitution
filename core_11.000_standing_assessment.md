@@ -240,7 +240,7 @@ Having no standing record is the ordinary state of a sentient, institution, or s
   - **Article III-C** (*Labor and Economic Floor*) protections;
   - ordinary commerce; or
   - participation as an affected party.
-  Published competency bars for specific trust-sensitive named pathways under [Chapter Thirteen §6.2 Competency bars and clearances](core_13.000_standing_integration.md#62-competency-bars-and-clearances) are the exception, and they must state why the named pathway is trust-sensitive.
+  Published competency bars for specific trust-sensitive named pathways under [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) are the exception, and they must state why the named pathway is trust-sensitive.
 - When a standing record about a subject is opened, the subject must be told, as **section 4** requires. Notice may be delayed only if a documented [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) or Safety need justifies it, and only for a limited, set period. Notice is what makes a standing record contestable: a subject who does not know a standing record exists cannot challenge or correct it.
 
 <a id="23-protected-dissent-is-not-a-trigger"></a>
@@ -270,7 +270,7 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
   - [Chapter Twelve §5](core_12.000_standing_measurement.md#5-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
   - [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
   - [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Question 3*).
-- Read with: [Chapter Thirteen — Standing integration](core_13.000_standing_integration.md#2-automatic-integration-review-and-continuity) (13.000) (*non-waiver and linked-record integration*); [Chapter Thirteen §6.2 — Competency bars and clearances](core_13.000_standing_integration.md#62-competency-bars-and-clearances) (13.000 §6.2); [Chapter Thirteen §4.2 — Standing locks](core_13.000_standing_integration.md#42-prevention--general-standing-locks) (13.000 §4.2).
+- Read with: [Chapter Thirteen — Standing integration](core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity) (13.000) (*non-waiver and linked-record integration*); [Chapter Thirteen §7.2 — Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (13.000 §7.2); [Chapter Thirteen §5.2 — Standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2).
 
 </details>
 
@@ -880,7 +880,7 @@ Where no System Charter or Institutional Charter covers the system, institution,
 
 Separation of duties scales with material stake, not with formality ([Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)).
 
-- **Work covered:** Local communities run on many kinds of contribution, and much of it is unpaid and informal. This applies to unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work, which [Chapter Thirteen §6 Contribution consequences second](core_13.000_standing_integration.md#6-contribution-consequences-second) requires to be recognized on equal standards.
+- **Work covered:** Local communities run on many kinds of contribution, and much of it is unpaid and informal. This applies to unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work, which [Chapter Thirteen §7 Contribution consequences second](core_13.000_standing_integration.md#7-contribution-consequences-second) requires to be recognized on equal standards.
   - **What it looks like locally:** Neighbors sharing food and tools (mutual aid); looking after a sick or aging neighbor (care); keeping a shared garden or creek in good shape (maintenance and community stewardship); fixing a neighbor's pipes (repair); tutoring or showing someone a skill (teaching). Each is its own kind of contribution.
 - **Who fills the verify seat:** For that work, the verify seat is satisfied by **any independent body with published authority to rely on the standing record**, which then acts as the verifying authority.
   - **Who that usually is:** Often the body that will rely on the standing record: a local group such as a watershed council, an organization that funds the work or keeps it going, the **CI-6.255** (*Commons, cooperatives, mutual aid, and non-market community governance*) records-recognition authority (a body that recognizes records of community work like this), or a forum under **section 2.7**.
@@ -922,7 +922,7 @@ On such a standing record:
     - **The sentient on the video:** They are the subject. They are told when a standing record opens, and they may not fill any seat ([§5.4 No self-custody](#54-no-self-custody)).
     - **Verify seat:** An independent body with published authority to rely on the standing record, such as a local licensing or safety body, or a forum under **section 2.7**. The sentient who filmed and the bar's owner are excluded from it if either is a claimant or in a claimant's [Material Control Line](core_05.035_band_accountability.md#material-control-line).
     - **Entry, custody, and contest:** A separate record custodian enters and holds the standing record, and a contest goes to the challenge lane or a forum under **section 2.7**, not back to the verifying body.
-- a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Thirteen §6.2 Competency bars and clearances](core_13.000_standing_integration.md#62-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
+- a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
 
 None of this requires a standing record to exist. **Section 2.2** *Silence is the default* controls: informal work is not recorded because it could be, and separation of duties binds only once a standing record is sought.
 

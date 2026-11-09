@@ -86,7 +86,7 @@ They are not combined into a reputation score, dignity rank, permanent status, g
 
 ### 5. Integration Records and named-pathway-specific effects
 
-When an applicable Chapter Eleven record is opened, updated, corrected, or superseded, Chapter Thirteen requires a distinct [integration record](../core_13.000_standing_integration.md#2-automatic-integration-review-and-continuity). It cross-references current source records, measurements, applicable correction/remedy/safeguard information, named pathways, review routes, and reassessment triggers.
+When an applicable Chapter Eleven record is opened, updated, corrected, or superseded, Chapter Thirteen requires a distinct [integration record](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity). It cross-references current source records, measurements, applicable correction/remedy/safeguard information, named pathways, review routes, and reassessment triggers.
 
 Its two central limits keep the architecture intelligible:
 
@@ -122,7 +122,7 @@ For standing records, the [custody and opening rules](../core_11.000_standing_as
 
 The official trail must let an affected party and an authorized reviewer reconstruct what was relied on, what changed, why it changed, who acted under what authority, and where a challenge goes. This includes material evidence links, handoffs, refusals, clocks, superseded versions, and corrections—not simply the latest result ([Chapter Eight §8](../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)).
 
-Correction and contest are not afterthoughts. A forum reviewing a standing record may confirm it, require correction, order a new version, limit or pause reliance, or route the underlying issue; the record remains a bounded matter rather than a general reputation trial ([Chapter Fifteen §2.3](../core_15.000_forum.md#23-forum-case-records-standing-records-and-contests)). For integration, an outage does not permit silent overwrite: manual continuity preserves the applicable fields, evidence custody, review rights, time limits, and both audit trails when electronic operation returns ([Chapter Thirteen §2](../core_13.000_standing_integration.md#2-automatic-integration-review-and-continuity)).
+Correction and contest are not afterthoughts. A forum reviewing a standing record may confirm it, require correction, order a new version, limit or pause reliance, or route the underlying issue; the record remains a bounded matter rather than a general reputation trial ([Chapter Fifteen §2.3](../core_15.000_forum.md#23-forum-case-records-standing-records-and-contests)). For integration, an outage does not permit silent overwrite: manual continuity preserves the applicable fields, evidence custody, review rights, time limits, and both audit trails when electronic operation returns ([Chapter Thirteen §3](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity)).
 
 ## The boundaries worth remembering
 
@@ -131,7 +131,7 @@ Correction and contest are not afterthoughts. A forum reviewing a standing recor
 - **A system classification or data-types record is not the full certification file, a standing record, or an operator’s self-label** ([System Classification Record](../core_05.040_band_continuity.md#system-classification-record)).
 - **A Forum Case Record is not a Standing Record and does not by itself create a standing effect** ([Chapter Fifteen §2.3](../core_15.000_forum.md#23-forum-case-records-standing-records-and-contests)).
 - **Contribution and violation records remain separately auditable** ([Chapter Eleven §2](../core_11.000_standing_assessment.md#2-question-1--what-happened)).
-- **An integration record links its source records and states named-pathway-specific effects; it does not silently reclassify or rewrite them** ([Chapter Thirteen §2](../core_13.000_standing_integration.md#2-automatic-integration-review-and-continuity)).
+- **An integration record links its source records and states named-pathway-specific effects; it does not silently reclassify or rewrite them** ([Chapter Thirteen §3](../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity)).
 - **No record route may be used to diminish the Rights Floor, evade challenge, or treat ordinary life as conditional on a standing file** ([silence is the default](../core_11.000_standing_assessment.md#22-silence-is-the-default); [Chapter Thirteen](../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration)).
 
 For a case-specific question, this overview is only a reading aid. Start with the relevant numbered source and its required read-with material; source binds, while this map only helps locate it.

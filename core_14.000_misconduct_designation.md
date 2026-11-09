@@ -58,7 +58,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*Questions 1 and 2; verified standing records and standing measurement*).
-- Upstream pointer: [Chapter Thirteen §2](core_13.000_standing_integration.md#2-automatic-integration-review-and-continuity) (13.000 §2) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
+- Upstream pointer: [Chapter Thirteen §3](core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity) (13.000 §3) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
 - This file: final ACMD for Violation Axis `s` = 7–9; ACMD criteria; due-process safeguards; Chapters Seventeen through Nineteen boundary. Named-pattern routing continues in [Part B](core_14.005_misconduct_pattern_applications.md#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) (14.005).
 - Downstream: [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Trust Lock and standing-effect integration after final anti-constitutional-misconduct designation*); [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) (*forum routing and certification*); [Chapter Sixteen](core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship) (16.000) (*governance legitimacy consequences*).
 - Read with: [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Seventeen through Nineteen](core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4*).
@@ -81,7 +81,7 @@ This chapter is used only when a verified violation already occupies Violation A
 
 - Upstream: [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*the Contribution and Violation axes*).
 - Upstream map: [Chapter Twelve §4](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (12.000 §4) (*standing-slot grammar*).
-- Upstream pointer: [Chapter Thirteen §2](core_13.000_standing_integration.md#2-automatic-integration-review-and-continuity) (13.000 §2) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
+- Upstream pointer: [Chapter Thirteen §3](core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity) (13.000 §3) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
 - Downstream: [§2](#2-criteria-set-for-slot-assignment) (*Designation criteria set*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*).
 - Safeguards and discipline:
   - [§4](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*);
@@ -305,7 +305,7 @@ because the underlying impact is already `s` = 9, not because character somehow 
   - [§5.11](core_14.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) (*Obstruction of accountability*).
 - Downstream: [§4.1](#41-remedy-and-correction-anti-constitutional) (*Remedy and correction (anti-constitutional)*); [§4.2](#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*); [§4.3](#43-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
 - Forum discipline: [Chapter Fifteen §2](core_15.000_forum.md#2-default-venue-and-primary-stakes) (15.000 §2) through [§5](core_15.000_forum.md#5-escalation-and-questions-for-ruling) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 4** with **Article XX** (*Justice After Verified Violation*) in **Chapter Six**.
-- Read with: [Article XX-A: Justice Objective and Scope](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review and publication safeguards; [Chapters Two through Four](core_02.000_definition_structure.md) tracing standards for publication; [Chapter Thirteen §4](core_13.000_standing_integration.md#4-violation-correction-and-prevention) (13.000 §4) (*Violation, correction, and prevention*) for the general remedy → locks → expression grammar this section specializes.
+- Read with: [Article XX-A: Justice Objective and Scope](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review and publication safeguards; [Chapters Two through Four](core_02.000_definition_structure.md) tracing standards for publication; [Chapter Thirteen §5](core_13.000_standing_integration.md#5-violation-correction-and-prevention) (13.000 §5) (*Violation, correction, and prevention*) for the general remedy → locks → expression grammar this section specializes.
 
 </details>
 
@@ -330,7 +330,7 @@ After final designation under **section 3** with these safeguards met, apply [§
   - [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) standing-effect and standing-lock integration;
   - [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) forum routing and certification.
 - Read with:
-  - [Chapter Thirteen §4.1](core_13.000_standing_integration.md#41-remedy-and-correction) (13.000 §4.1) (*Remedy and correction*);
+  - [Chapter Thirteen §5.1](core_13.000_standing_integration.md#51-remedy-and-correction) (13.000 §5.1) (*Remedy and correction*);
   - [Article XX-A](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*Justice Objective and Scope*);
   - [Article XX-B](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) (*restitution, remediation, rehabilitation, accountable attribution, duration, review, and restoration*);
   - [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*timely resolution and remedy commencement*).
@@ -351,7 +351,7 @@ After final designation under **section 3** with these safeguards met, apply [§
 
 *In plain terms: a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start — mirroring Chapter Thirteen's remedy and correction outputs, tightened for anti-constitutional-misconduct designation cases.*
 
-After final designation under **section 3** with **section 4** safeguards met, every disposition must be tested for the same two parallel outputs Chapter Thirteen requires under [Chapter Thirteen §4.1](core_13.000_standing_integration.md#41-remedy-and-correction) (*Remedy and correction*):
+After final designation under **section 3** with **section 4** safeguards met, every disposition must be tested for the same two parallel outputs Chapter Thirteen requires under [Chapter Thirteen §5.1](core_13.000_standing_integration.md#51-remedy-and-correction) (*Remedy and correction*):
 
 - **Remedy:**
   - acknowledgment;
@@ -405,13 +405,13 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§4](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*); [§4.1](#41-remedy-and-correction-anti-constitutional) (*Remedy and correction (anti-constitutional)*).
-- Downstream: [§4.3](#43-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*); [Chapter Thirteen §5.5](core_13.000_standing_integration.md#55-special-locks) (13.000 §5.5) (*Anti-Constitutional Trust Lock*).
+- Downstream: [§4.3](#43-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*); [Chapter Thirteen §6.5](core_13.000_standing_integration.md#65-special-locks) (13.000 §6.5) (*Anti-Constitutional Trust Lock*).
 - Read with:
-  - [Chapter Thirteen §4.2](core_13.000_standing_integration.md#42-prevention--general-standing-locks) (13.000 §4.2) (*Prevention — general standing locks*);
-  - [Chapter Thirteen §5.1](core_13.000_standing_integration.md#51-definition-and-attachment) (13.000 §5.1) (*Definition and attachment*);
-  - [Chapter Thirteen §5.4](core_13.000_standing_integration.md#54-special-violation-rules) (13.000 §5.4) (*Coercive or liberty-restricting safeguards*);
+  - [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2) (*Prevention — general standing locks*);
+  - [Chapter Thirteen §6.1](core_13.000_standing_integration.md#61-definition-and-attachment) (13.000 §6.1) (*Definition and attachment*);
+  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*Coercive or liberty-restricting safeguards*);
   - [Article XX-B](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) (*joint requirements, **Imprisonment for violence**, and duration, review, restoration, and re-evaluation discipline*);
-  - [Chapter Thirteen §5.4](core_13.000_standing_integration.md#54-special-violation-rules) (13.000 §5.4) (*Required imprisonment for verified violence*).
+  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*Required imprisonment for verified violence*).
 
 </details>
 
@@ -421,9 +421,9 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
 
 After final designation under **section 3** with **section 4** safeguards met:
 
-- **Mandatory special lock:** Chapter Thirteen must attach the **Anti-Constitutional Trust Lock** under [Chapter Thirteen §5.5 Special locks](core_13.000_standing_integration.md#55-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Thirteen.
-- **Permanence:** The Trust Lock is not permanent, and restoration under it stays exceptional. Pervasive anti-constitutional conduct is one of the two permanent-lock grounds under [Chapter Thirteen §8 Restoration and reassessment](core_13.000_standing_integration.md#8-restoration-and-reassessment). Where a final ACMD rests on it and a dissolution order ends a Chartered Party, the order records the pervasive-conduct ground and the Dissolution Reformation Lock under [Chapter Thirteen §5.5 Special locks](core_13.000_standing_integration.md#55-special-locks) is permanent. This chapter adds no other permanent lock and does not restate the rule.
-- **Attachment-field discipline:** Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Thirteen lock design and enforcement under [Chapter Thirteen §5 Lock design and enforcement](core_13.000_standing_integration.md#5-lock-design-and-enforcement), and must be recorded using the [Chapter Thirteen §5.1 Definition and attachment](core_13.000_standing_integration.md#51-definition-and-attachment) attachment fields:
+- **Mandatory special lock:** Chapter Thirteen must attach the **Anti-Constitutional Trust Lock** under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Thirteen.
+- **Permanence:** The Trust Lock is not permanent, and restoration under it stays exceptional. Pervasive anti-constitutional conduct is one of the two permanent-lock grounds under [Chapter Thirteen §9 Restoration and reassessment](core_13.000_standing_integration.md#9-restoration-and-reassessment). Where a final ACMD rests on it and a dissolution order ends a Chartered Party, the order records the pervasive-conduct ground and the Dissolution Reformation Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks) is permanent. This chapter adds no other permanent lock and does not restate the rule.
+- **Attachment-field discipline:** Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Thirteen lock design and enforcement under [Chapter Thirteen §6 Lock design and enforcement](core_13.000_standing_integration.md#6-lock-design-and-enforcement), and must be recorded using the [Chapter Thirteen §6.1 Definition and attachment](core_13.000_standing_integration.md#61-definition-and-attachment) attachment fields:
   - blocked or limited named pathway;
   - risk reduced;
   - protected subjects or interests;
@@ -435,7 +435,7 @@ After final designation under **section 3** with **section 4** safeguards met:
   - It applies to repeated or sustained patterns assessed as a unified incident under **section 2**.
   - **Section 3** decides whether the misconduct is verified and how serious it is; this subsection decides whether imprisonment is required as a liberty-restricting safeguard.
   - Imprisonment must satisfy:
-    - [Chapter Thirteen §5.4](core_13.000_standing_integration.md#54-special-violation-rules) (*Coercive or liberty-restricting safeguards*);
+    - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (*Coercive or liberty-restricting safeguards*);
     - **Article XX-B** (*Restriction Floors*) joint requirements;
     - individualized attribution, and challenge and appeal protections; and
     - **Article XX-B** (*Restriction Floors*) duration, review, restoration, and re-evaluation discipline in **Chapter Six Part D**.
@@ -454,7 +454,7 @@ After final designation under **section 3** with **section 4** safeguards met:
   - [§4.1](#41-remedy-and-correction-anti-constitutional) (*Remedy and correction (anti-constitutional)*);
   - [§4.2](#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*).
 - Downstream: [§5](core_14.005_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
-- Read with: [Chapter Thirteen §4.3](core_13.000_standing_integration.md#43-voluntary-public-accountability-expression) (13.000 §4.3) (*Voluntary public accountability expression*); [Article XX-B](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) (*joint requirements*); [Article XXVI-B](core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*rights-collision procedure and restorative alignment*).
+- Read with: [Chapter Thirteen §5.3](core_13.000_standing_integration.md#53-voluntary-public-accountability-expression) (13.000 §5.3) (*Voluntary public accountability expression*); [Article XX-B](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) (*joint requirements*); [Article XXVI-B](core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*rights-collision procedure and restorative alignment*).
 
 </details>
 
@@ -462,9 +462,9 @@ After final designation under **section 3** with **section 4** safeguards met:
 
 *In plain terms: a public apology in an anti-constitutional misconduct case must meet Chapter Thirteen's general voluntariness and authenticity rules, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.*
 
-[Chapter Thirteen §4.3 Voluntary public accountability expression](core_13.000_standing_integration.md#43-voluntary-public-accountability-expression) supplies the general voluntary public accountability expression rule. After final designation under **section 3** with **section 4** safeguards met, the following ACM specializations also apply:
+[Chapter Thirteen §5.3 Voluntary public accountability expression](core_13.000_standing_integration.md#53-voluntary-public-accountability-expression) supplies the general voluntary public accountability expression rule. After final designation under **section 3** with **section 4** safeguards met, the following ACM specializations also apply:
 
-- **Voluntary public accountability expression:** Accountable parties in restorative pathways for verified anti-constitutional misconduct may voluntarily choose public acknowledgment or apology as a supplementary accountability act where it supports repair, trust restoration, or community healing, subject to Chapter Thirteen §4.3 (*Voluntary public accountability expression*) voluntariness, authenticity, non-degradation, and non-substitution controls.
+- **Voluntary public accountability expression:** Accountable parties in restorative pathways for verified anti-constitutional misconduct may voluntarily choose public acknowledgment or apology as a supplementary accountability act where it supports repair, trust restoration, or community healing, subject to Chapter Thirteen §5.3 (*Voluntary public accountability expression*) voluntariness, authenticity, non-degradation, and non-substitution controls.
 - **Inauthentic or abusive expression:** Public acknowledgment or apology that is materially insincere, manipulative, performative without truthful accountability, or abusive toward affected parties or the public does not satisfy restorative requirements.
   - It may carry negative justice consequences for the accountable party — including additional misconduct findings under **section 3**, reduced credit for rehabilitation, and other lawful restrictions under **Article XX-B** (*Restriction Floors*) and **Chapter Eleven**.
   - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection or remediation under **section 4.1** or locks under **section 4.2**, is non-compliant.

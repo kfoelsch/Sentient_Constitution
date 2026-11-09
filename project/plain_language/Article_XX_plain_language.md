@@ -72,7 +72,7 @@ The emergency rules now live in Chapter Fifteen §6.1, not in Article XX-B. Any 
 **Emergencies don't become the new normal.** Making an emergency measure permanent needs a Chapter One justification (necessity and proportionality), documented independent reauthorization, and, if it would change the constitution itself, the Chapter Twenty process.
 
 ## Where the detail lives
-- **How locks are built and attached** (what path is blocked, what risk it reduces, how it's reviewed and lifted): Chapter Thirteen §5, Lock design and enforcement.
-- **Required imprisonment for violence:** the floor is in Article XX-B; the conditions are in Chapter Thirteen §5.4. Imprisonment for anti-constitutional misconduct is in Chapter Fourteen §4.2.
+- **How locks are built and attached** (what path is blocked, what risk it reduces, how it's reviewed and lifted): Chapter Thirteen §6, Lock design and enforcement.
+- **Required imprisonment for violence:** the floor is in Article XX-B; the conditions are in Chapter Thirteen §6.4. Imprisonment for anti-constitutional misconduct is in Chapter Fourteen §4.2.
 - **How emergency measures run** (clocks, the burden to keep one going, no fake emergencies): Chapter Fifteen §6.1, Emergency measures and continuation burden, using the tier deadlines in Chapter Fifteen §6.
 
