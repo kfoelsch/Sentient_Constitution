@@ -22,6 +22,7 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md); worked illustrations (systems family) [cs_09.320_system_alignment_certification_illustrations.md](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md)
 - **Ch 10:** [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md)
 - **Ch 11:** [core_11.000_standing_assessment.md](core_11.000_standing_assessment.md)
+- **Ch 12:** [core_12.000_standing_measurement.md](core_12.000_standing_measurement.md)
 - **Ch 13:** [core_13.000_standing_integration.md](core_13.000_standing_integration.md)
 - **Ch 14:** Part A [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md); Part B [core_14.005_misconduct_pattern_applications.md](core_14.005_misconduct_pattern_applications.md)
 - **Ch 15:** [core_15.000_forum.md](core_15.000_forum.md)
@@ -41,11 +42,6 @@ The implementation and signoffs are recorded in [TODO_RESOLVED_2026-10-21.md](ar
 
 - [ ] Chapter Nineteen §1 heightened review: fixes were not independently re-reviewed; adoption and the contest period remain open until the announcement. Review records: [Chapter Seven §4](evidence/2026-10-20/heightened_review_record_2026-10-20.md) and [older batches](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 
-### Audit registry and category report — optional follow-up
-
-Records: `tools/architecture/audit_registry.json`, `tools/audit_report.py`, and `make audit-report`. The original implementation is recorded in the fifty-second archived move in [archive/DOC_ARCHITECTURE_MOVES_001-243_ARCHIVED_2026-11-03.md](archive/DOC_ARCHITECTURE_MOVES_001-243_ARCHIVED_2026-11-03.md).
-
-
 ### Chapter Seven locks, time windows, and related edits — announcement follow-ups
 
 Completed implementation details and signoffs are in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md), [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md), and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md). The relevant Test 1 record is [time-window-test-1-self-check](evidence/2026-10-18/time-window-test-1-self-check.md).
@@ -64,11 +60,6 @@ Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md]
 
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 - [ ] Complete the independent re-review and announcement contest period for the steward-signed Chapter Nine and Ten changes. Sign-off, the two AI review rounds, and the move 240 decisions are recorded in [TODO_RESOLVED_2026-11-02.md](archive/TODO_RESOLVED_2026-11-02.md) and [the review record](evidence/2026-11-02/heightened_review_record_chapter_ten_2026-11-02.md).
-
-### Formation check and remediation readiness — open follow-ups
-
-The signoffs and lifted-hold reference are in [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md); see also [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md).
-
 
 ### Article XI-E gates and Institutional Authority Standing Lock — open follow-ups
 
@@ -96,6 +87,12 @@ The crosswalk is complete within its stated frame: all 88 second-level Chapter O
   - Custodian comment (2026-11-03): direct, explicit routing is a principle candidate for later consideration. This records a candidate, not an adopted core principle.
 The custodian's process-ownership design directions for the supporting proposal are recorded in [the resolved-work archive](archive/TODO_RESOLVED_2026-11-02.md). Exact core placement, wording and scope, human editing, and whether CI-15.205 needs a companion change-record template remain open.
 
+### Chapter Twelve §9 hand-off tables — open decision
+
+The three-table split of the hand-off section is done (see [archive/DOC_ARCHITECTURE_MOVES_244-369_ARCHIVED_2026-11-08.md](archive/DOC_ARCHITECTURE_MOVES_244-369_ARCHIVED_2026-11-08.md), 360th move, step 1).
+
+- [ ] Custodian decision: whether to drop the repeated Question 2 column in the second table group and state the Question 2 default once (the 360th move's step 2). It changes cell content, so it was left for the custodian after seeing step 1.
+
 ### Translation synchronization — paused pending settled English
 
 Translations remain paused under the standing decision in [project/MEMLOG.md](project/MEMLOG.md). Once the steward identifies settled English text and its revision, merge all pending changes for each chapter and synchronize/fidelity-check them together under the supported-language process. The active source clusters are: (1) Chapter One relocation and numbering, §7 reorder, §9/§10 swap, Chapter One Part A introductions, and Meaningful Agency/Consent alignment with Chapter Six; (2) Article XIII-A/XIII-B split and cites, steward-box removal, and the older Chapter Nine §14.2, Chapter Ten, and Chapter Fourteen references; (3) Preamble §§6–7 (2026-09-21) and other files touched by English cleanup; (4) Dissolution Reformation Lock, Chapter Seven §§2–4 and widgets, CF-5.9, CI-3.6.3, Chapter Five entries, Chapter One §16.4, CS-4/time windows, Article XIV-A/Evidence Preservation, Article XXVIII-A/CI-14.4.4, Domain-Specific Materiality, Adoption Document, and TERM-BODY-01; (5) Chapter Ten §3 items 5 and 8, §9.6, §9.3–§11 pointers, and related settled wording. Keep the list here consolidated as English changes settle; do not treat it as authorization to edit translations.
@@ -121,6 +118,7 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
+- **2026-11-08 resolved work and pre-cleanup snapshot:** [archive/TODO_RESOLVED_2026-11-08.md](archive/TODO_RESOLVED_2026-11-08.md), [archive/TODO_SNAPSHOT_2026-11-08.md](archive/TODO_SNAPSHOT_2026-11-08.md)
 - **2026-11-03 resolved work:** [archive/TODO_RESOLVED_2026-11-03.md](archive/TODO_RESOLVED_2026-11-03.md)
 - **2026-11-02 resolved work:** [archive/TODO_RESOLVED_2026-11-02.md](archive/TODO_RESOLVED_2026-11-02.md)
 - **2026-11-02 pre-cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-11-02.md](archive/TODO_SNAPSHOT_2026-11-02.md)
