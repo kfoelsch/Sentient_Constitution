@@ -354,20 +354,25 @@ After final designation under **section 3** with these safeguards met, apply [§
 After final designation under **section 3** with **section 4** safeguards met, every disposition must be tested for the same two parallel outputs Chapter Thirteen requires under [Chapter Thirteen §5.1](core_13.000_standing_integration.md#51-remedy-and-correction) (*Remedy and correction*):
 
 - **Remedy:**
-  - acknowledgment;
-  - repair;
-  - restoration;
-  - compensation;
-  - substitute safeguards where literal repair is impossible; or
-  - comparable redress for affected sentients and interests.
+  - **Acknowledge and repair:**
+    - acknowledgment;
+    - repair; or
+    - restoration.
+  - **Make up the loss:**
+    - compensation;
+    - substitute safeguards where literal repair is impossible; or
+    - comparable redress for affected sentients and interests.
 - **Correction:** changes needed to address the cause and stop continuation — including structural correction of tainted governance, systems, records, and decisions implicated by the ACMD — covering:
-  - conduct;
-  - systems;
-  - records;
-  - incentives;
-  - supervision;
-  - safeguards; or
-  - role eligibility.
+  - **Conduct and role:**
+    - conduct; or
+    - role eligibility.
+  - **Structure:**
+    - systems;
+    - records; or
+    - incentives.
+  - **Oversight and protection:**
+    - supervision; or
+    - safeguards.
 
 Fixing the cause does not cancel the duty to repair those harmed. Repairing those harmed does not cancel the duty to fix the cause, keep needed safeguards in place, or keep prevention locks in place while recurrence risk remains live. ACMD seriousness does not erase either duty.
 
