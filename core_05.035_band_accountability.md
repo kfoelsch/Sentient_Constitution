@@ -3578,7 +3578,8 @@ Where admission scope is met, this cluster is the shared home for the Chapter Fi
 - verified inputs for standing;
 - contribution nature and violation nature;
 - standing records and standing effects;
-- standing locks; and
+- standing locks;
+- gated pathways, the roles, privileges, and kinds of access that standing effects open, limit, or close; and
 - Chapter Fourteen designation-review vocabulary.
 
 **Cluster members.** This cluster comprises:
@@ -3589,6 +3590,7 @@ Where admission scope is met, this cluster is the shared home for the Chapter Fi
 - [Violation Nature](core_05.035_band_accountability.md#violation-nature);
 - [Standing Effect](core_05.035_band_accountability.md#standing-effect);
 - [Standing Record](core_05.035_band_accountability.md#standing-record);
+- [Gated Pathway](core_05.035_band_accountability.md#gated-pathway);
 - [Competency Bar](core_05.035_band_accountability.md#competency-bar);
 - [Competency Clearance](core_05.035_band_accountability.md#competency-clearance);
 - [Standing Lock](core_05.035_band_accountability.md#standing-lock);
@@ -3632,15 +3634,15 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label.*
+*In plain terms: Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive gated pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that gated pathway — not a vague status label.*
 
 - **What it is**
   - **In scope:** A participation-status or role-eligibility status recognized from:
     - constitutionally valid standing records;
     - standing effects; or
-    - [Competency Bar](core_05.035_band_accountability.md#competency-bar) criteria for the named pathway.
+    - [Competency Bar](core_05.035_band_accountability.md#competency-bar) criteria for the gated pathway.
   - Positive trust-, role-, authority-, oversight-, or recognition-linked opening, when lawful, belongs to [Standing Effect](core_05.035_band_accountability.md#standing-effect) through [Competency Clearance](core_05.035_band_accountability.md#competency-clearance) against the applicable [Competency Bar](core_05.035_band_accountability.md#competency-bar).
-  - Restrictive access consequences, when lawful, belong to [Standing Effect](core_05.035_band_accountability.md#standing-effect), [Standing Lock](core_05.035_band_accountability.md#standing-lock), **Article XIX** (*Standing and Participation Status*), and applicable Chapter Six limits — not to the Participant Standing label alone. Standing locks on named privilege pathways include:
+  - Restrictive access consequences, when lawful, belong to [Standing Effect](core_05.035_band_accountability.md#standing-effect), [Standing Lock](core_05.035_band_accountability.md#standing-lock), **Article XIX** (*Standing and Participation Status*), and applicable Chapter Six limits — not to the Participant Standing label alone. Standing locks on gated pathways include:
     - trust;
     - role;
     - authority;
@@ -3649,7 +3651,7 @@ See **Anti-Segmentation Principle**.
     - recognition;
     - **governance-voting** (*legitimacy-mechanism / foundational governance vote — not stake-weighted stakeholder voice*);
     - **stakeholder-participation** (*stake-weighted influence and binding stakeholder choice within an already-authorized domain — not erasure of stakeholder status*); and
-    - comparable named privilege pathways recorded under [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks).
+    - comparable gated pathways recorded under [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks).
   - It is not:
     - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing), which every sentient has;
     - reputation or social esteem; or
@@ -3900,10 +3902,10 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:**
     - The **consequence layer** that uses [**contribution nature**](core_05.035_band_accountability.md#contribution-nature) and [**violation nature**](core_05.035_band_accountability.md#violation-nature) from linked **contribution standing records** and **violation standing records**.
-    - It may affect trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review for named pathways.
+    - It may affect trust eligibility, roles, delegated authority, recognition, restriction, restoration, remediation, safeguards, and review for gated pathways.
     - Positive paths include [**competency clearances**](core_05.035_band_accountability.md#competency-clearance) against published [**competency bars**](core_05.035_band_accountability.md#competency-bar).
     - Restrictive paths include [**standing locks**](core_05.035_band_accountability.md#standing-lock), remedy and correction duties, and named safeguards.
-    - Named-pathway outcomes under Chapter Thirteen **§8** (*Final standing effect*) include open, open with safeguards, limited, blocked, restoration-only, and no effect — stated separately for each named pathway.
+    - Gated-pathway outcomes under Chapter Thirteen **§8** (*Final standing effect*) include open, open with safeguards, limited, blocked, restoration-only, and no effect — stated separately for each gated pathway.
     - It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, universal reputation label, or part of the standing record itself.
     - Chapter Five pointer; canonical mechanics: Chapter Eleven **section 2** and Chapter Thirteen **sections 1**, **4**, **5**, **6**, and **7**.
     - The Contribution Axis and Violation Axis must stay separately traceable and may not be netted, averaged, offset, or substituted for each other.
@@ -3918,13 +3920,13 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:**
     - Keep every **standing effect** traceable to [Chapter Eleven](core_11.000_standing_assessment.md) **§2** (*Question 1 — what happened?*) through **§3** (*Verification and record requirements*) and [Chapter Thirteen](core_13.000_standing_integration.md) **§1** (*Chapter Eleven records do not change*) through **§10** (*Pattern applications and Question 3 routing*).
     - Evaluate it under [Auditability](core_05.050_band_oversight.md#auditability) and [Contestability](core_05.035_band_accountability.md#contestability).
-    - Identify the source contribution and violation standing records, subject, scope, record span, review status, separate axis inputs, required cross-references, verification basis, and actual consequence for each named pathway.
+    - Identify the source contribution and violation standing records, subject, scope, record span, review status, separate axis inputs, required cross-references, verification basis, and actual consequence for each gated pathway.
     - Follow Chapter Thirteen **§3** (*Automatic integration, review, and continuity*) decision order:
       - validate records;
       - normalize descriptors;
       - decide violation, correction, and prevention first;
-      - decide contribution consequences second and only for named pathways not blocked by a lock; then
-      - state one final standing effect per named pathway.
+      - decide contribution consequences second and only for gated pathways not blocked by a lock; then
+      - state one final standing effect per gated pathway.
     - When standing integration uses **contribution-linked** credit, follow Chapter Thirteen **§7.1** (*Recency and currentness*) recency and disclosure rules.
     - While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside.
     - Never treat **alleged** misconduct, intake labels, or forum-phase material as [**violation nature**](core_05.035_band_accountability.md#violation-nature) / verified violation findings for standing ([**verified inputs for standing**](core_11.000_standing_assessment.md#25-verified-input-gate)).
@@ -4056,6 +4058,56 @@ See **Anti-Segmentation Principle**.
 
 ---
 
+<a id="gated-pathway"></a>
+
+##### Gated Pathway
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2) (*standing locks and the types of gated pathway*).
+- Read with: the
+  - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
+  - [Standing Effect](core_05.035_band_accountability.md#standing-effect),
+  - [Standing Lock](core_05.035_band_accountability.md#standing-lock),
+  - [Competency Bar](core_05.035_band_accountability.md#competency-bar),
+  - [Competency Clearance](core_05.035_band_accountability.md#competency-clearance),
+  - [Standing Record](core_05.035_band_accountability.md#standing-record), and
+  - [Participant Standing](core_05.035_band_accountability.md#participant-standing).
+
+</details>
+
+<br>
+
+*In plain terms: a gated pathway is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. It is not a sentient's dignity, rank, or score.*
+
+- **What it is**
+  - **In scope:**
+    - A specific role, privilege, or kind of access that a [Standing Effect](core_05.035_band_accountability.md#standing-effect) can open, open with safeguards, limit, or block.
+    - The types are trust, role, authority, credit, oversight, recognition, **governance-voting**, and **stakeholder-participation**, as [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) lists them.
+    - It is the unit Chapter Thirteen works in. A [Competency Bar](core_05.035_band_accountability.md#competency-bar) is set for it, a [Standing Lock](core_05.035_band_accountability.md#standing-lock) closes it, and one final standing effect is stated for each.
+    - It is identified by what it gates, so an effect on one gated pathway does not carry over to another.
+  - **Out of scope:**
+    - the Rights Floor, which does not depend on standing, including inherent dignity, equal moral standing, survival-critical access, and the challenge, review, appeal, and remedy routes;
+    - a sentient's overall standing, reputation, or rank; and
+    - the [Standing Record](core_05.035_band_accountability.md#standing-record) itself, which states what happened and how good or bad it was and does not state what is gated.
+<a id="gated-pathway-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
+
+    **Primary assessment:**
+    - Check that each standing effect names the specific gated pathway it applies to.
+    - Check that no effect on one gated pathway is carried to another, or combined with others into a profile, rank, or score.
+    - Check that no Rights-Floor protection is treated as a gated pathway.
+<a id="gated-pathway-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant to:
+    - state a standing effect without naming the gated pathway it applies to;
+    - treat a Rights-Floor protection, including a challenge, review, appeal, or remedy route, as a gated pathway that standing can close; or
+    - transfer an effect from one gated pathway to another, or combine effects across gated pathways into a profile, rank, or score.
+
+---
+
 <a id="competency-bar"></a>
 
 ##### Competency Bar
@@ -4081,16 +4133,16 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: a Competency Bar is the published, role-specific standard for a named pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.*
+*In plain terms: a Competency Bar is the published, role-specific standard for a gated pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.*
 
 - **What it is**
   - **In scope:**
-    - The published, auditable, contestable qualification standard for a named trust-, role-, authority-, oversight-, recognition-, or stewardship pathway.
-    - It states what verified competence, experience, skill, training, contribution, and reliability the named pathway requires, proportionate to impact, dependency, and foreseeable risk.
+    - The published, auditable, contestable qualification standard for a gated trust-, role-, authority-, oversight-, recognition-, or stewardship pathway.
+    - It states what verified competence, experience, skill, training, contribution, and reliability the gated pathway requires, proportionate to impact, dependency, and foreseeable risk.
     - Meeting a competency bar is assessed through [Competency Clearance](core_05.035_band_accountability.md#competency-clearance).
     - The bar itself is not a standing effect, dignity rank, Rights-Floor measure, reputation score, or permanent entitlement.
   - **Out of scope:**
-    - ordinary prestige rankings or social esteem outside the named-pathway qualification standard;
+    - ordinary prestige rankings or social esteem outside the gated-pathway qualification standard;
     - the [Competency Clearance](core_05.035_band_accountability.md#competency-clearance) decision itself; and
     - the [Standing Lock](core_05.035_band_accountability.md#standing-lock) or [Standing Effect](core_05.035_band_accountability.md#standing-effect) layer.
 <a id="competency-bar-a"></a>
@@ -4098,7 +4150,7 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Check that the bar is published, named-pathway-specific, proportionate to role impact, auditable, and contestable.
+    - Check that the bar is published, gated-pathway-specific, proportionate to role impact, auditable, and contestable.
     - State the bar in demonstrable terms — verified contribution, experience, skill, training, reliability, or equivalent readiness inputs.
     - Recognize informal or non-institutional experience — such as unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience — when it meets the same proof standards as formal institutional experience.
 <a id="competency-bar-c"></a>
@@ -4107,7 +4159,7 @@ See **Anti-Segmentation Principle**.
     - publish or apply a competency bar as arbitrary gatekeeping, opaque credentialism, reputation substitution, prestige screening, insider control, inaccessible specialization, or formal-channel monopoly;
     - deny credit to demonstrable informal or community stewardship for lacking official pedigree;
     - use unverified or undisclosed criteria; or
-    - treat the bar alone as access to the named pathway, a waiver of Rights Floors, or a substitute for standing-lock, remedy, correction, safeguard, or review discipline.
+    - treat the bar alone as access to the gated pathway, a waiver of Rights Floors, or a substitute for standing-lock, remedy, correction, safeguard, or review discipline.
 
 ---
 
@@ -4137,12 +4189,12 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Competency Clearance is the standing-effect result that says verified readiness meets the published competency bar for a named pathway. It may support opening that named pathway only when no standing lock blocks it. It is not prestige, insider sponsorship, or permanent entitlement.*
+*In plain terms: Competency Clearance is the standing-effect result that says verified readiness meets the published competency bar for a gated pathway. It may support opening that gated pathway only when no standing lock blocks it. It is not prestige, insider sponsorship, or permanent entitlement.*
 
 - **What it is**
   - **In scope:**
     - A positive standing-effect result that records verified readiness against the applicable [Competency Bar](core_05.035_band_accountability.md#competency-bar) for trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or increasingly consequential stewardship responsibility.
-    - Clearance may support opening the named pathway only when no applicable [Standing Lock](core_05.035_band_accountability.md#standing-lock) blocks it.
+    - Clearance may support opening the gated pathway only when no applicable [Standing Lock](core_05.035_band_accountability.md#standing-lock) blocks it.
     - Competency clearance is the opening-oriented counterpart to a standing lock, but it is not reputation, social prestige, insider sponsorship, credential monopoly, dignity rank, Rights-Floor measure, or permanent entitlement.
   - **Out of scope:**
     - the published [Competency Bar](core_05.035_band_accountability.md#competency-bar) alone;
@@ -4155,7 +4207,7 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Check that clearance rests on published [Competency Bar](core_05.035_band_accountability.md#competency-bar) criteria that are named-pathway-specific, proportionate, auditable, contestable, current enough, and traceable to verified contribution, experience, skill, training, reliability, or equivalent readiness inputs.
+    - Check that clearance rests on published [Competency Bar](core_05.035_band_accountability.md#competency-bar) criteria that are gated-pathway-specific, proportionate, auditable, contestable, current enough, and traceable to verified contribution, experience, skill, training, reliability, or equivalent readiness inputs.
     - Recognize informal or non-institutional experience — such as unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community stewardship experience — when it meets the same proof standards as formal institutional experience.
     - Any applicable standing lock still controls whether the trust-, role-, authority-, oversight-, or recognition-linked effect may open.
 <a id="competency-gate-c"></a>
@@ -4194,12 +4246,12 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.*
+*In plain terms: a Standing Lock temporarily limits a gated pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded gated pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.*
 
 - **What it is**
   - **In scope:**
     - A standing-effect constraint based on a verified Violation Axis assessment.
-    - While the verified finding remains unresolved or materially unremediated, it limits consequences tied to a named pathway, including:
+    - While the verified finding remains unresolved or materially unremediated, it limits consequences tied to a gated pathway, including:
       - trust;
       - roles;
       - credit;
@@ -4211,7 +4263,7 @@ See **Anti-Segmentation Principle**.
     - A lock on taking or exercising governing, controlling, or owning authority in an institution or enterprise, after a verified violation carried out through one, is the Institutional Authority Standing Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks).
     - A lock on the return of an Operating Party that a final dissolution order has ended is the Dissolution Reformation Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks). It sits on the dissolved Chartered Party and its successor vehicles and not on a sentient. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise restorable.
     - A lock on the attestation and verifying pathways, after a verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, is the Perjury Standing Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks). It restricts no testimony.
-    - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05.055_band_participation.md#stakeholder) status, or a substitute for the other named pathway.
+    - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05.055_band_participation.md#stakeholder) status, or a substitute for the other gated pathway.
   - **Out of scope:**
     - A lock from unverified allegations. The interim measure on specific verified facts, short of a violation finding, is an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which is not a lock.
     - A permanent lock without review or remediation path.
@@ -4253,7 +4305,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: after a verified violation finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.*
 
 - **What it is**
-  - **In scope:** The special lock attached to a verified, unresolved or materially unremedied finding of institutional vehicle wrongdoing. Its named pathway, look-through scope, protected interests, corrective conditions, independent review route, and gate effect are those stated in Chapter Thirteen §6.5 Special locks.
+  - **In scope:** The special lock attached to a verified, unresolved or materially unremedied finding of institutional vehicle wrongdoing. Its gated pathway, look-through scope, protected interests, corrective conditions, independent review route, and gate effect are those stated in Chapter Thirteen §6.5 Special locks.
   - **Out of scope:** A restriction on forming or operating an institution as such, on unrelated authority pathways, or on wages, participation, protected reporting, survival access, or Rights-Floor protections. An Interim Hold on specific verified facts is not this lock and creates no standing effect.
 - **How to measure and assess**
   - **Primary measure:** The Violation Axis and Accountability and Timeliness measurement families, based on verified violation findings.

@@ -220,6 +220,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Game of Chance](core_05.035_band_accountability.md#game-of-chance)
 - [Gate](core_05.050_band_oversight.md#gate)
 - [Gate Criteria](core_05.050_band_oversight.md#gate-criteria)
+- [Gated Pathway](core_05.035_band_accountability.md#gated-pathway)
 - [Go-Live](core_05.040_band_continuity.md#go-live)
 - [Good Faith](core_05.035_band_accountability.md#good-faith)
 - [Governance](core_05.035_band_accountability.md#governance)

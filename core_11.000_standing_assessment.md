@@ -233,14 +233,14 @@ Having no standing record is the ordinary state of a sentient, institution, or s
 - A standing record opens only when a trigger has been verified under **section 4**. A named record-opening authority must approve the entry, and a separate record custodian must make it (**section 5**). A standing record is never opened:
   - to establish a baseline;
   - to complete a roster; or
-  - because a named pathway gatekeeper would prefer one.
-- Having no standing record tells you nothing. "Unrated," "unverified," and "no record on file" are not evidence of risk, low contribution, or anything else. No one may treat a missing record as a reason for closer scrutiny, a lower default, or conditional access to a named pathway.
+  - because a gated pathway gatekeeper would prefer one.
+- Having no standing record tells you nothing. "Unrated," "unverified," and "no record on file" are not evidence of risk, low contribution, or anything else. No one may treat a missing record as a reason for closer scrutiny, a lower default, or conditional access to a gated pathway.
 - No institution or system may require a standing record, a "no record" attestation, or consent to open one as a condition of:
   - **Article III** (*Survival and Essential Access*) essentials;
   - **Article III-C** (*Labor and Economic Floor*) protections;
   - ordinary commerce; or
   - participation as an affected party.
-  Published competency bars for specific trust-sensitive named pathways under [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) are the exception, and they must state why the named pathway is trust-sensitive.
+  Published competency bars for specific trust-sensitive gated pathways under [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) are the exception, and they must state why the gated pathway is trust-sensitive.
 - When a standing record about a subject is opened, the subject must be told, as **section 4** requires. Notice may be delayed only if a documented [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) or Safety need justifies it, and only for a limited, set period. Notice is what makes a standing record contestable: a subject who does not know a standing record exists cannot challenge or correct it.
 
 <a id="23-protected-dissent-is-not-a-trigger"></a>

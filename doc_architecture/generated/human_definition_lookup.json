@@ -117,7 +117,7 @@
       "href": "../../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 305,
+  "term_count": 306,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -424,7 +424,7 @@
       "term": "Competency Bar",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#competency-bar",
-      "plain_terms": "a Competency Bar is the published, role-specific standard for a named pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.",
+      "plain_terms": "a Competency Bar is the published, role-specific standard for a gated pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.",
       "href": "../../core_05.035_band_accountability.md#competency-bar"
     },
     {
@@ -916,6 +916,13 @@
       "anchor": "#gate-criteria",
       "plain_terms": "gate criteria are the specific tests an Adoption Transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.",
       "href": "../../core_05.050_band_oversight.md#gate-criteria"
+    },
+    {
+      "term": "Gated Pathway",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#gated-pathway",
+      "plain_terms": "a gated pathway is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. It is not a sentient's dignity, rank, or score.",
+      "href": "../../core_05.035_band_accountability.md#gated-pathway"
     },
     {
       "term": "Go-Live",
@@ -1481,7 +1488,7 @@
       "term": "Participant Standing",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#participant-standing-constitutional",
-      "plain_terms": "Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label.",
+      "plain_terms": "Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive gated pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that gated pathway — not a vague status label.",
       "href": "../../core_05.035_band_accountability.md#participant-standing"
     },
     {
@@ -1929,7 +1936,7 @@
       "term": "Standing Lock",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#standing-lock",
-      "plain_terms": "a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.",
+      "plain_terms": "a Standing Lock temporarily limits a gated pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded gated pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.",
       "href": "../../core_05.035_band_accountability.md#standing-lock"
     },
     {

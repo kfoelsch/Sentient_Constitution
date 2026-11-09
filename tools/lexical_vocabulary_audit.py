@@ -178,6 +178,9 @@ _DRIFT_ALLOWLIST_STRIP = [
 
 _PATHWAY_WORD = re.compile(r"(?<![A-Za-z0-9-])(pathways?)(?![A-Za-z0-9])", re.IGNORECASE)
 _PATHWAY_PREFIX_COMPOUND = re.compile(r"(?<![A-Za-z0-9-])pathways?-[A-Za-z]", re.IGNORECASE)
+# Retired term (custodian decision, 2026-11-09): "named pathway" is replaced by "gated pathway" (Chapter Five *Gated Pathway*)
+# or by a type name (governance-voting pathway, authority pathway, and so on). Zero baseline.
+_NAMED_PATHWAY = re.compile(r"(?<![A-Za-z0-9])named[ -]pathways?(?![A-Za-z0-9])", re.IGNORECASE)
 # Words that do not say *which kind* of pathway is meant. A pathway preceded by one of
 # these (or starting a sentence, bullet, or cell) is bare. Qualified forms carry a type
 # word or hyphenated compound instead (named, challenge, contest, review, remedy, harm, ...).
@@ -423,11 +426,13 @@ def run_internal_regression_checks() -> None:
         "Those pathways must preserve access.\n"
         "Pathways include unions.\n"
         "Records the pathway-specific effect.\n"
-        "The blocked named pathway stays closed; challenge and review pathways stay open.\n"
+        "The blocked gated pathway stays closed; challenge and review pathways stay open.\n"
+        "A named pathway is a retired term.\n"
+        "A named-pathway-specific bar is retired too.\n"
         "A credible causal pathway and a contest-pathway failure are qualified.\n"
         "See [link](core_05.035_band_accountability.md#capture-of-resolution-pathways) and `pathway`.\n",
     )
-    if len(pathway_findings) != 3:
+    if len(pathway_findings) != 5:
         raise RuntimeError(
             "Internal regression failed: bare pathway was not flagged or qualified forms broke.",
         )
@@ -953,7 +958,7 @@ def _pathway_preceding_word(check_line: str, start: int) -> str:
 
 
 def scan_avoid_bare_pathway(rel_path: str, text: str) -> list[Finding]:
-    """Reject bare **pathway** / **pathways**: every use must say which kind of pathway it is."""
+    """Reject bare **pathway** / **pathways** and the retired **named pathway**: every use must say which kind of pathway it is."""
     if rel_path in {"doc_architecture.md", "project/TODO.md", "project/MEMLOG.md"}:
         return []
     if rel_path.startswith("archive/"):
@@ -969,7 +974,7 @@ def scan_avoid_bare_pathway(rel_path: str, text: str) -> list[Finding]:
             continue
         check_line = _mask_inline_code_and_link_targets(raw)
         check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
-        bare = bool(_PATHWAY_PREFIX_COMPOUND.search(check_line))
+        bare = bool(_PATHWAY_PREFIX_COMPOUND.search(check_line)) or bool(_NAMED_PATHWAY.search(check_line))
         if not bare:
             for match in _PATHWAY_WORD.finditer(check_line):
                 if _pathway_preceding_word(check_line, match.start()) in _PATHWAY_BARE_PRECEDERS | {"^"}:
@@ -2282,7 +2287,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-tribunal-family`:** reject internal Chapter Fifteen / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
         "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Eleven**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Eleven wording.",
         "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
-        "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Thirteen §5.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
+        "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **gated pathway** (Chapter Five *Gated Pathway*) / a Chapter Thirteen §5.2 type prefix in the standing sense (the retired **named pathway** and **named-pathway** are rejected too), **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
         "- **`avoid-bare-check`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing check, authenticity check, staff safeguards check), or name what is checked. **Allowed:** verb uses (**the Chartered Party checks and records**, **check whether**, **check for**), qualified compounds (**formation check**, **standing check**, **authenticity check**, **staff safeguards check**), the term of art **independent check**, and **check window**.",
         "- **`avoid-bare-recheck`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **re-check** / **re-checks** / **recheck** / **rechecks** unless it follows **formation** → say **formation re-check**, or in other contexts **recertification**, **certification interval**, or the thing reassessed. **Allowed:** the verb forms (**re-checked**, **re-checking**) and **formation re-check**.",
         "- **`avoid-bare-level`:** in every scanned file except `doc_architecture.md` (AUDIT-SCOPE-01), reject the noun **level** / **levels** after a determiner or generic word (**the level**, **that level**, **those levels**) or at the start of a sentence, bullet, or cell → say which scale: **protection level**, **stewardship level**, **access level**, **disclosure level**, **severity level**, **evidence level**, **verification level**. **Allowed:** numbered forms (**Level 1** to **Level 4** in Treatment of Life by Status), **level of …**, ordinary degree senses (**at the level of**, **a level that**, **the level at which**), and any qualified compound. \"Tier\" names only the forum urgency tiers.",
