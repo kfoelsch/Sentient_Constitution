@@ -43,13 +43,13 @@ Chapter Thirteen answers Question 3 of the standing pipeline: what follows from 
 
 A **[gated pathway](core_05.035_band_accountability.md#gated-pathway)** is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. [§5.2 Prevention — general standing locks](#52-prevention--general-standing-locks) lists the types.
 
-It works in this order, and [§3 Automatic integration, review, and continuity](#3-automatic-integration-review-and-continuity) sets the full sequence:
+It works in this order, and [§3.4 Processing order](#34-processing-order) sets the full sequence:
 
 - it starts from the verified standing records, unchanged ([§2 Chapter Eleven records do not change](#2-chapter-eleven-records-do-not-change));
 - it normalizes shared descriptors and attachments without changing either slot ([§4 Descriptor integration and attachment normalization](#4-descriptor-integration-and-attachment-normalization));
 - it decides the violation side first: remedy and correction, then locks ([§5 Violation, correction, and prevention](#5-violation-correction-and-prevention) and [§6 Lock design and enforcement](#6-lock-design-and-enforcement));
 - it decides contribution consequences second, for gated pathways that no lock blocks ([§7 Contribution consequences second](#7-contribution-consequences-second));
-- it states one final standing effect for each gated pathway ([§8 Final standing effect](#8-final-standing-effect)); and
+- it states one final standing effect for each applicable gated pathway ([§8 Final standing effect](#8-final-standing-effect)); and
 - it sets restoration and reassessment, confirms that the result can be enforced, and routes recurring patterns ([§9 Restoration and reassessment](#9-restoration-and-reassessment), [§10 Enforcement realism and remedy systems](#10-enforcement-realism-and-remedy-systems), and [§11 Pattern applications and Question 3 routing](#11-pattern-applications-and-question-3-routing)).
 
 The chart shows the same path with the two tracks side by side. They stay separate and are never merged into a net score. The only thing the violation track hands to the contribution track is that a gated pathway a lock blocks stays closed, so contribution is read only for open gated pathways. The two dashed lines at the bottom lead out of the chapter: a qualifying Violation Axis slot 7–9 standing record goes to Chapter Fourteen, and Chapter Fifteen forums supervise these decisions and can send a standing record back to Chapter Eleven.
@@ -72,7 +72,7 @@ flowchart TB
         S72["§7.2 Competency bars and clearances<br/><br/>Only for gated pathways<br/>that no lock blocks<br/>Never offsets a verified<br/>harm or cancels a lock"]
         S71 --> S72
     end
-    S8["§8 Final standing effect<br/><br/>One effect for each gated pathway:<br/>open, open with safeguards, limited,<br/>blocked, restoration-only, or no effect"]
+    S8["§8 Final standing effect<br/><br/>One effect for each applicable gated pathway:<br/>open, open with safeguards, limited,<br/>blocked, restoration-only, or no effect"]
     S9["§9–§11 After the effect is stated<br/><br/>§9 Restoration and reassessment<br/>§10 Enforcement realism and remedy systems<br/>§11 Pattern applications and Question 3 routing"]
     X14[["Chapter Fourteen<br/><br/>Outside this chapter<br/><br/>Decides only the anti-constitutional-misconduct<br/>designation (ACMD)"]]
     X15[["Chapter Fifteen<br/><br/>Outside this chapter<br/><br/>Forum supervision<br/>Set aside, update,<br/>correct, or supersede<br/>a standing record"]]
@@ -107,7 +107,7 @@ This chapter does not:
 - reopen the facts, choose a slot to produce a desired consequence, recalculate LEQU impact, or combine the two axes into a net score ([§2.3 Facts and measurements stay fixed](#23-facts-and-measurements-stay-fixed));
 - let verified contribution offset a verified harm, cancel a lock, or open a blocked gated pathway ([§7 Contribution consequences second](#7-contribution-consequences-second));
 - reduce the [Rights Floor](core_06.000_rights_part_a.md#chapter-six-foundational-rights), which does not depend on standing ([§2.6 The Rights Floor is not reduced](#26-the-rights-floor-is-not-reduced)); or
-- make a [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) designation. It routes a qualifying Violation Axis slot 7–9 standing record there where anti-constitutional-misconduct designation (ACMD) is at issue ([§3 Automatic integration, review, and continuity](#3-automatic-integration-review-and-continuity)).
+- make a [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) designation. It routes a qualifying Violation Axis slot 7–9 standing record there where anti-constitutional-misconduct designation (ACMD) is at issue ([§3.4 Processing order](#34-processing-order)).
 
 A forum under [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) supervises these decisions. A forum that verifies a pipeline error or material new facts may set a standing record aside or require it to be updated, corrected, or superseded under Chapter Eleven ([§2.5 Changes come only through Chapter Eleven](#25-changes-come-only-through-chapter-eleven)).
 
@@ -117,7 +117,7 @@ A forum under [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-
 
 *In plain terms: this is the first step of the decision order. Consequences are worked out from the verified standing records Chapter Eleven already made, so Question 3 never changes the facts or the measurement. This chapter may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.*
 
-Chapter Thirteen starts with the verified standing records produced under Chapter Eleven. That is the first step of the [§3 Automatic integration, review, and continuity](#3-automatic-integration-review-and-continuity) processing order, and its purpose is to keep consequences separate from the facts and measurements they rest on. It uses only records that apply to the decision, and it keeps contribution and violation records separate. This section sets out which records it uses, what happens when one axis has no standing record, what stays fixed, what does not count as standing, how a standing record can change, and the Rights Floor.
+Chapter Thirteen starts with the verified standing records produced under Chapter Eleven. That is the first step of the  processing order, and its purpose is to keep consequences separate from the facts and measurements they rest on. It uses only records that apply to the decision, and it keeps contribution and violation records separate. This section sets out which records it uses, what happens when one axis has no standing record, what stays fixed, what does not count as standing, how a standing record can change, and the Rights Floor.
 
 <a id="21-records-the-decision-uses"></a>
 #### 2.1 Records the decision uses
@@ -204,39 +204,88 @@ The [Rights Floor](core_06.000_rights_part_a.md#chapter-six-foundational-rights)
 
 *In plain terms: when a verified standing record opens or changes, an integration record automatically gathers what applies — violations, contributions, competency clearances, and locks — in one place, keeps the two tracks separate, and stays inspectable, including when the computers are down.*
 
+This section covers how the integration record is created, what it holds, how automation and review share the work, the order of the decision steps, and how results stay inspectable, including during a technology outage.
+
+<a id="31-creating-the-integration-record"></a>
+#### 3.1 Creating the integration record
+
+*In plain terms: whenever a verified standing record is opened, updated, corrected, or superseded, the system builds or refreshes an integration record that gathers what applies in one place, side by side. It never adds the two tracks into a score.*
+
 The standing system must automatically create or update an **integration record** whenever an applicable verified Chapter Eleven standing record is opened, updated, corrected, or superseded. The integration record gathers in one place the verified violations, contributions, competency clearances, and locks that apply to a sentient, system, or institution. It lists them side by side and points back to the source standing records without changing them. Contribution and violation stay separate: the system never adds them into a running balance or lifetime score.
+
+<a id="32-what-the-integration-record-identifies"></a>
+#### 3.2 What the integration record identifies
+
+*In plain terms: every integration record states its inputs, who and what is affected, the results, and what happens next.*
 
 Each integration record must identify the following, in four groups:
 
 1. **Inputs:**
    - each source standing record and its current version;
    - each applicable fixed Contribution Axis or Violation Axis measurement; and
-   - each normalized descriptor and attachment.
+   - each descriptor (how the verified benefit or harm happened) and each attachment (the legal or constitutional character of the response), imported unchanged from its source standing record and normalized as [§4 Descriptor integration and attachment normalization](#4-descriptor-integration-and-attachment-normalization) provides.
 2. **Who and what is affected:**
    - affected sentients, interests, systems, and institutions; and
    - affected gated pathways, meaning the roles, privileges, or kinds of access the decision opens, limits, or closes.
 3. **Results:**
    - on the violation side: correction, remedy, safeguards, and locks;
    - on the contribution side: currentness and competency-clearance results; and
-   - the final standing effect for each gated pathway.
+   - the final standing effect for each applicable gated pathway.
 4. **What happens next:**
    - implementation milestones;
    - the review route;
    - reassessment triggers; and
    - any Chapter Fourteen gateway status.
 
+<a id="33-automation-and-human-review"></a>
+#### 3.3 Automation and human review
+
+*In plain terms: software may finish any step that verified inputs and published rules settle. Uncertain, disputed, new, discretionary, or high-impact questions go to a human reviewer or forum.*
+
 Automation may complete any step for which verified inputs and published rules produce a determinate result. No additional manual approval is required unless this Constitution or adopted implementation requires review. The system must refer uncertain, disputed, novel, materially discretionary, or high-impact questions to an authorized reviewer or forum. An integration record requiring review may still be assembled and routed automatically.
 
-The following processing order applies to both automated and manual decisions:
+<a id="34-processing-order"></a>
+#### 3.4 Processing order
 
-1. validate the Chapter Eleven records and their current review status;
-2. normalize shared descriptors and attachments without changing either slot;
-3. decide violation, correction, and prevention first—remedy and correction, then locks, then voluntary public accountability expression where used; then apply lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks);
-4. decide contribution consequences second—currentness and competency bars and clearances, but only for gated pathways not blocked by a lock;
-5. state one final standing effect for each gated pathway;
-6. state restoration and reassessment conditions;
+*In plain terms: every decision, automated or manual, follows the same eight steps in the same order: violation first, then contribution, then one final effect for each applicable gated pathway.*
+
+The following processing order applies to both automated and manual decisions. It has eight numbered steps, grouped under four headings:
+
+**Prepare the inputs:**
+
+1. validate the Chapter Eleven records and their current review status; and
+2. normalize shared descriptors and attachments without changing either slot.
+
+**Decide the consequences, violation first:**
+
+3. decide violation, correction, and prevention first, in this order:
+   - remedy and correction;
+   - locks;
+   - voluntary public accountability expression, where used; and
+   - then lock design and enforcement, which covers:
+     - definition and attachment;
+     - proportionality and calibration;
+     - record visibility and escalation;
+     - special violation rules; and
+     - special locks.
+4. decide contribution consequences second, but only for gated pathways not blocked by a lock:
+   - currentness; and
+   - competency bars and clearances.
+
+**State the outcome:**
+
+5. state one final standing effect for each applicable gated pathway; and
+6. state restoration and reassessment conditions.
+
+**Verify and route:**
+
 7. verify practical enforceability; and
 8. route a qualifying Violation Axis slot 7–9 finding to [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) where anti-constitutional-misconduct designation (ACMD) is at issue.
+
+<a id="35-inspection-and-outage-continuity"></a>
+#### 3.5 Inspection and outage continuity
+
+*In plain terms: every result must be open to inspection and challenge. An outage does not suspend the rules: a manual process takes over, and the manual and electronic records are reconciled afterward.*
 
 Every automated or manual result must preserve its inputs, rules, intermediate steps, outcome, and review route in a form that affected parties and authorized reviewers can inspect and challenge.
 
@@ -247,16 +296,69 @@ During a technology outage, authorized bodies must use a manual continuity proce
 
 *In plain terms: descriptors say **how** verified help or harm happened. This chapter imports them as they were recorded. It may not quietly reclassify them to change the result.*
 
-Descriptors answer **how** verified benefit or harm occurred and are assigned as Question 2 outputs under the [Chapter Twelve normalized descriptor catalog](core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles). Attachments state legally or constitutionally relevant response character for Question 3. Descriptors and attachments are stackable, non-exclusive, and subordinate to the fixed Chapter Twelve slot. A single integration record may carry several where the verified facts warrant.
+This section covers what descriptors and attachments are, how the integration record imports them, how violation attachments work, and what descriptors and attachments may and may not do.
 
-The integration record must import each applicable descriptor from its source standing record without adding, removing, or substantively reclassifying it. It may map a legacy label, local display name, or stable identifier to the Chapter Twelve catalog, but the mapping must remain inspectable and must not change the underlying verified facts or measurement role. A substantive descriptor error or omission must return through the Chapter Eleven correction or supersession process.
+<a id="41-descriptors-and-attachments"></a>
+#### 4.1 Descriptors and attachments
+
+*In plain terms: a descriptor says how the help or harm happened. An attachment says what kind of response the facts call for. Both add detail and can stack. Neither can change or stand in for the slot, the 1–9 number from Chapter Twelve that says how big the benefit or harm was.*
+
+Descriptors and attachments work as follows:
+
+- Descriptors answer **how** verified benefit or harm occurred and are assigned as Question 2 outputs under the [Chapter Twelve normalized descriptor catalog](core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles).
+- Attachments state legally or constitutionally relevant response character for Question 3.
+- Descriptors and attachments are stackable, non-exclusive, and subordinate to the fixed Chapter Twelve slot.
+- A single integration record may carry several where the verified facts warrant.
+
+<a id="42-importing-descriptors"></a>
+#### 4.2 Importing descriptors
+
+*In plain terms: this chapter copies descriptors from the source standing record as they were recorded. A label may be changed only to match the catalog, and real errors go back to Chapter Eleven.*
+
+The integration record imports descriptors under these rules:
+
+- It must import each applicable descriptor from its source standing record without adding, removing, or substantively reclassifying it.
+- It may map a legacy label, local display name, or stable identifier to the Chapter Twelve catalog, but the mapping must remain inspectable and must not change the underlying verified facts or measurement role.
+- A substantive descriptor error or omission must return through the Chapter Eleven correction or supersession process.
+
+<a id="43-violation-attachments"></a>
+#### 4.3 Violation attachments
+
+*In plain terms: a violation can carry several kinds of response character at once, and no response may fall below the constitutional floors.*
 
 <a id="64-concurrent-character-and-non-exclusivity"></a>
 <a id="65-constitutional-floor-rule"></a>
-Violation attachments may concurrently include remedial or restorative character, coercive or liberty-restricting safeguard character, constitutional-floor character, collective-accountability character, negligence, concealment, recurrence, and duty-related character. Constitutional-floor character applies where verified conduct violates Constitutional Constraints, the Rights Floor, supremacy, anti-evasion duties, or practical challenge-and-remedy access. No ordinary or domain-specific response may authorize an outcome below those floors.
+Violation attachments follow these rules:
+
+- They may concurrently include:
+  - remedial or restorative character;
+  - coercive or liberty-restricting safeguard character;
+  - constitutional-floor character;
+  - collective-accountability character;
+  - negligence;
+  - concealment;
+  - recurrence; and
+  - duty-related character, including the duty to resist unlawful or unconstitutional instructions ([§6.4 Duty to resist](#64-duty-to-resist-unlawful-or-unconstitutional-instructions)).
+- Constitutional-floor character applies where verified conduct violates:
+  - Constitutional Constraints;
+  - the Rights Floor;
+  - supremacy;
+  - anti-evasion duties; or
+  - practical challenge-and-remedy access.
+- No ordinary or domain-specific response may authorize an outcome below those floors.
+
+<a id="44-what-descriptors-and-attachments-may-do"></a>
+#### 4.4 What descriptors and attachments may do
+
+*In plain terms: descriptors and attachments point to the matching bars, remedies, safeguards, and locks. They are not a second score, and they do not make a Chapter Fourteen designation.*
 
 <a id="73-stackable-harm-and-conduct-descriptors-violation-nature-supplement"></a>
-Contribution descriptors may orient matched competency bars and clearances. Violation descriptors and attachments may orient matched remedy, safeguard, and lock scope. Neither descriptors nor attachments form a second measurement ladder, and neither supplies a Chapter Fourteen designation.
+Descriptors and attachments are limited in these ways:
+
+- Contribution descriptors may orient matched competency bars and clearances.
+- Violation descriptors and attachments may orient matched remedy, safeguard, and lock scope.
+- Neither descriptors nor attachments form a second measurement ladder.
+- Neither descriptors nor attachments supply a Chapter Fourteen designation.
 
 <a id="5-violation-correction-and-prevention"></a>
 ### 5. Violation, correction, and prevention
@@ -891,7 +993,7 @@ An applicable standing lock under [§5.2 Prevention — general standing locks](
 
 *In plain terms: when the earlier steps are done, the system must state — one gated pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.*
 
-The standing system must **automatically** state the final standing effect for each gated pathway once the earlier steps in [§3 Automatic integration, review, and continuity](#3-automatic-integration-review-and-continuity) are complete. That statement must list every open clearance and every restricted gated pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§3 Automatic integration, review, and continuity](#3-automatic-integration-review-and-continuity).
+The standing system must **automatically** state the final standing effect for each applicable gated pathway once the earlier steps in [§3.4 Processing order](#34-processing-order) are complete. That statement must list every open clearance and every restricted gated pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§3 Automatic integration, review, and continuity](#3-automatic-integration-review-and-continuity).
 
 **Separate roles.** Automatic integration may use verified standing records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XX** (*Justice After Verified Violation*).
 
@@ -1104,7 +1206,7 @@ Rights and standing consequences are real only when sentients can invoke them, v
 
 *In plain terms: these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Fourteen §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers gated pathway prevention from the verified standing record; Chapter Fourteen separately answers designation criteria routing.*
 
-The subsections below show how common Question 3 situations use the rules already stated in this chapter. They do **not** invent new consequences, create special lock types under [§6.5 Special locks](#65-special-locks), create special exceptions, change a Chapter Twelve slot, take forum supervision away from [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction), or take designation decisions away from [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct). Decision-makers follow the order in [§3 Automatic integration, review, and continuity](#3-automatic-integration-review-and-continuity) and the sections each pattern names.
+The subsections below show how common Question 3 situations use the rules already stated in this chapter. They do **not** invent new consequences, create special lock types under [§6.5 Special locks](#65-special-locks), create special exceptions, change a Chapter Twelve slot, take forum supervision away from [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction), or take designation decisions away from [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct). Decision-makers follow the order in [§3.4 Processing order](#34-processing-order) and the sections each pattern names.
 
 <a id="111-informal-ecological-stewardship-competency-clearance"></a>
 <a id="111-informal-ecological-stewardship-competency-gate"></a>
@@ -1199,7 +1301,7 @@ This situation is identified by the cue below and governed by the sections liste
 
 - **Cue:** A qualifying Violation Axis slot 7–9 record raises a possible ACMD while ordinary Question 3 effects are also due.
 - **Routes through:**
-  - [§3](#3-automatic-integration-review-and-continuity) (*processing-order step 8 — Chapter Fourteen gateway*);
+  - [§3.4](#34-processing-order) (*processing-order step 8 — Chapter Fourteen gateway*);
   - [§5 Violation, correction, and prevention](#5-violation-correction-and-prevention) and [§6](#6-lock-design-and-enforcement) (*ordinary remedy, correction, and protective locks from the fixed record*);
   - [§6.5](#65-special-locks) (*Anti-Constitutional Trust Lock*); and
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (*designation only*).
