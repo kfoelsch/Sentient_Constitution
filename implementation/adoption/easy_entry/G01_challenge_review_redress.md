@@ -37,7 +37,7 @@ See: [Article XIII-A](../../../core_06.010_rights_part_c.md#article-xiii-a-relia
 - **Today:** There is an inbox and a policy page. Nobody can actually restore the water, the pay, or the record.
 - **With this Constitution:** The path has to have real capacity to deliver, not only a form.
 
-See: [Chapter Thirteen §4.1](../../../core_13.000_standing_integration.md#41-remedy-and-correction); [Remedy](../../STEWARD_ENTRY_DOORS.md#remedy).
+See: [Chapter Thirteen §5.1](../../../core_13.000_standing_integration.md#51-remedy-and-correction); [Remedy](../../STEWARD_ENTRY_DOORS.md#remedy).
 
 ## What to open next
 

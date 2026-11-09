@@ -286,8 +286,8 @@ flowchart TB
 - Downstream: [§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required); [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity).
 - Read with:
   - [Interim Hold](core_05.035_band_accountability.md#interim-hold);
-  - [Chapter Thirteen §4.2 Prevention — general standing locks](core_13.000_standing_integration.md#42-prevention--general-standing-locks) (13.000 §4.2);
-  - [Chapter Thirteen §5.5 Special locks](core_13.000_standing_integration.md#55-special-locks) (13.000 §5.5);
+  - [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2);
+  - [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks) (13.000 §6.5);
   - [Chapter Fifteen §5 Interim hold on a named sentient's pathway](core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway) (15.000 §5).
 
 </details>
@@ -320,7 +320,7 @@ Forums decide these cases under that Article, and the only consequences are the 
 <a id="22-first-limit-an-outstanding-lock-on-a-sentient"></a>
 #### 2.2 First limit: an outstanding lock on a sentient
 
-A [standing lock](core_13.000_standing_integration.md#42-prevention--general-standing-locks) or [special lock](core_13.000_standing_integration.md#55-special-locks), set after a verified violation and not yet lifted, bars one named sentient from authority over this kind of institution or business.
+A [standing lock](core_13.000_standing_integration.md#52-prevention--general-standing-locks) or [special lock](core_13.000_standing_integration.md#65-special-locks), set after a verified violation and not yet lifted, bars one named sentient from authority over this kind of institution or business.
 
 - What is barred: taking or exercising governing, controlling, or owning authority in the Operating Party.
 - How far it reaches: only as far as the lock does. It ends when the lock is lifted or narrowed.
@@ -336,8 +336,8 @@ This limit applies when a forum with jurisdiction has ordered an [Interim Hold](
 
 A lock can sit on an Operating Party and not only on a sentient. The gate then bars what the lock's named pathway names, in that Operating Party and in its successors, controlled entities, and nominee- or shell-held vehicles. It does not bar any other Operating Party.
 
-- A lock set by a final anti-constitutional-misconduct designation (ACMD): the [Anti-Constitutional Trust Lock](core_13.000_standing_integration.md#55-special-locks) does this where the final ACMD names an institution, successor vehicle, or controlled entity. The gate then bars what the lock's named pathway names, in the Chartered Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
-- A dissolved Chartered Party: a final dissolution order under **CI-13.210 §4** (*Dissolution*) sets a [Dissolution Reformation Lock](core_13.000_standing_integration.md#55-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Thirteen §8 Restoration and reassessment](core_13.000_standing_integration.md#8-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its violation finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
+- A lock set by a final anti-constitutional-misconduct designation (ACMD): the [Anti-Constitutional Trust Lock](core_13.000_standing_integration.md#65-special-locks) does this where the final ACMD names an institution, successor vehicle, or controlled entity. The gate then bars what the lock's named pathway names, in the Chartered Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
+- A dissolved Chartered Party: a final dissolution order under **CI-13.210 §4** (*Dissolution*) sets a [Dissolution Reformation Lock](core_13.000_standing_integration.md#65-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Thirteen §9 Restoration and reassessment](core_13.000_standing_integration.md#9-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its violation finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
 
 None of the three gates stops a new Operating Party from forming, publishing its System Charter or Institutional Charter, or getting to work. The only party they stop is one that is itself under a lock, such as a dissolved Chartered Party trying to come back. The three gates are applied at the formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)).
 
@@ -674,9 +674,9 @@ The same clock applies to certification seats. If the map does not name who star
   - [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions);
   - [Chapter One §19.1.4 Role-Depth and Material-Responsibility Pathways](core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.010 §19.1.4);
   - [Chapter One §19.4 Misalignment Correction and Capture Response](core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.010 §19.4);
-  - [Chapter Thirteen §4.2 Prevention — general standing locks](core_13.000_standing_integration.md#42-prevention--general-standing-locks) (13.000 §4.2),
-  - [§5.5 Special locks](core_13.000_standing_integration.md#55-special-locks), and
-  - [§6.2 Competency bars and clearances](core_13.000_standing_integration.md#62-competency-bars-and-clearances).
+  - [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2),
+  - [§6.5 Special locks](core_13.000_standing_integration.md#65-special-locks), and
+  - [§7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances).
 - Downstream:
   - [§6 When a Holder Fails the Formation Check](#6-when-a-holder-fails-the-formation-check);
   - [Chapter Ten §3 Whole-Institution Certification Evaluation](core_10.000_institutional_alignment_certification.md#3-whole-institution-certification-evaluation) (10.000 §3) (item 7, *the forums test the statement*);
@@ -715,9 +715,9 @@ The formation check sets out which offices it covers, who falls outside it, and 
 
 Before a sentient takes a covered office, the Chartered Party checks and records that:
 
-- no [standing lock](core_13.000_standing_integration.md#42-prevention--general-standing-locks) or [special lock](core_13.000_standing_integration.md#55-special-locks), including the [Institutional Authority Standing Lock](core_13.000_standing_integration.md#55-special-locks), is in force that blocks the named pathway the office is (the outstanding-lock gate in **Article XI-E** (*Institutional Formation and Business Creation*));
+- no [standing lock](core_13.000_standing_integration.md#52-prevention--general-standing-locks) or [special lock](core_13.000_standing_integration.md#65-special-locks), including the [Institutional Authority Standing Lock](core_13.000_standing_integration.md#65-special-locks), is in force that blocks the named pathway the office is (the outstanding-lock gate in **Article XI-E** (*Institutional Formation and Business Creation*));
 - no [Interim Hold](core_05.035_band_accountability.md#interim-hold) (**Article XI-E** (*Institutional Formation and Business Creation*)) is in force on the sentient for that office;
-- the published [competency bar](core_13.000_standing_integration.md#62-competency-bars-and-clearances) for that named pathway is met, with competency clearance where the named pathway needs it; and
+- the published [competency bar](core_13.000_standing_integration.md#72-competency-bars-and-clearances) for that named pathway is met, with competency clearance where the named pathway needs it; and
 - each conflict is disclosed under **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) and cleared by a seat independent of the holder, and any cooling-off period under **CI-16.205 §2** (*Role criteria, appointment standards, and removal pathways*) is observed.
 
 Only verified standing records count, and only through the [Verified Inputs for Standing](core_05.035_band_accountability.md#verified-inputs-for-standing) gate. An unverified allegation, a rumor, a reputation, social prestige, or the holder's identity, background, health, or disability as such is not standing and is not considered. This section creates no lock, no hold, no bar, and no standing record.
@@ -798,7 +798,7 @@ A holder may be identified by office and dated Role Map version where naming wou
   - Being unverified for that interval is never a bar to forming or operating.
 - **False statement:**
   - A statement that is false, or that hides who controls a covered office, is concealment and fraudulent evidence for the Institutional Certification Record and for the standing bridge ([Chapter Ten §11 Relationship to Standing](core_10.000_institutional_alignment_certification.md#11-relationship-to-standing); [Chapter Nine Part C §11 Relationship to Standing](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing)).
-  - Where a sentient knowingly made the statement, signed it, or caused it to be made, and the falsity is material and verified, it is also a ground for the Institutional Authority Standing Lock on that sentient ([Chapter Thirteen §5.5 Special locks](core_13.000_standing_integration.md#55-special-locks)), whether or not it hides control. The lock attaches to the sentient who made or caused the statement, and not to the Chartered Party or to a holder who did not.
+  - Where a sentient knowingly made the statement, signed it, or caused it to be made, and the falsity is material and verified, it is also a ground for the Institutional Authority Standing Lock on that sentient ([Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks)), whether or not it hides control. The lock attaches to the sentient who made or caused the statement, and not to the Chartered Party or to a holder who did not.
   - A statement that is wrong without the sentient's knowledge does not support the knowing-misstatement ground. It is a defect to correct under [§6 When a Holder Fails the Formation Check](#6-when-a-holder-fails-the-formation-check).
 
 <a id="58-timing-and-formation-re-check"></a>
@@ -918,13 +918,13 @@ When a covered office fails the authenticity check:
 
 A dissolved Chartered Party that comes back is handled as follows:
 
-- **When the lock applies:** The Dissolution Reformation Lock under [Chapter Thirteen §5.5 Special locks](core_13.000_standing_integration.md#55-special-locks) applies to a Chartered Party that the formation check, the verifying authority, or a forum finds is any of these:
+- **When the lock applies:** The Dissolution Reformation Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks) applies to a Chartered Party that the formation check, the verifying authority, or a forum finds is any of these:
   - the dissolved Chartered Party, re-formed;
   - its successor;
   - a controlled entity of it;
   - a vehicle held through a nominee or a shell; or
   - one operation with it.
-- **Changing the holder:** Changing the holder of an office does not resolve it, because the lock follows the activity and the control and not the name or the holder ([Chapter Thirteen §9.4 Anti-evasion and look-through authority](core_13.000_standing_integration.md#94-anti-evasion-and-look-through-authority)).
+- **Changing the holder:** Changing the holder of an office does not resolve it, because the lock follows the activity and the control and not the name or the holder ([Chapter Thirteen §10.4 Anti-evasion and look-through authority](core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority)).
 - **Who decides:** The forum with jurisdiction decides whether the lock reaches the vehicle, on verified facts, and the party that says it does bears the burden.
 - **Own statement:** The Chartered Party's own statement that it is new does not decide it.
 - **Other Operating Parties:** The lock does not reach a different Operating Party, unless it is in fact one operation with the dissolved one.

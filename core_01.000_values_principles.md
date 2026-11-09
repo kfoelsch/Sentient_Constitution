@@ -513,7 +513,7 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
   - [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline);
   - [§7 Freedom](#7-freedom-bounded-agency).
 - Read with: [Chapter Twelve §§3.1–3.2 — Normalized descriptor catalog](core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
-- Read with: [Chapter Twelve §3.1 — Contribution-side descriptors](core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1) where contribution nature and recognition narratives are material; [Chapter Thirteen §3](core_13.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (13.000 §3) for their integration into Question 3.
+- Read with: [Chapter Twelve §3.1 — Contribution-side descriptors](core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1) where contribution nature and recognition narratives are material; [Chapter Thirteen §4](core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization) (13.000 §4) for their integration into Question 3.
 - Read with: [Article X: Self-Determination, Agency, and Participation](core_06.005_rights_part_b.md#article-x-self-determination-agency-and-participation) where preferences for recognition form, visibility, or opt-out are material.
 - Subsections (reading order):
   - [§3.2.1](#321-recognition-and-reinforcement) ·
@@ -907,7 +907,7 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
   - [Article IV: Right to Sentient-Centered Education](core_06.000_rights_part_a.md#article-iv-right-to-sentient-centered-education),
   - [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification),
   - [Article XXIII: Comprehensibility and Complexity Stewardship](core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
-- Cross-reference: layering used to evade oversight is also reached by [Chapter Thirteen §9.4 Anti-evasion and look-through authority](core_13.000_standing_integration.md#94-anti-evasion-and-look-through-authority) (13.000 §9.4), which applies to standing and forum enforcement.
+- Cross-reference: layering used to evade oversight is also reached by [Chapter Thirteen §10.4 Anti-evasion and look-through authority](core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority) (13.000 §10.4), which applies to standing and forum enforcement.
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02.000_definition_structure.md](core_02.000_definition_structure.md) remain controlling at the definition layer.
 - Subsections (reading order):
   - [§5.2.1](#521-scope) ·
@@ -1074,7 +1074,7 @@ Certification is one of two safeguards that work together: it makes a system wor
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** leg (answerability, redress, and real correction); **timeliness** leg (remedy before delay makes it unreachable); [material stake](core_00.000_preamble.md#material-stake) scaling for remedy depth.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (reliance stays warranted because failures are put right); **Continuity** aim (durable remedy capacity across time, succession, and restructuring).
 - Upstream: Principles: [4 Safety](#4-safety-harm-constraint), [5 Truth](#5-truth-epistemic-integrity-constraint), and [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- Downstream: [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Thirteen §9](core_13.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (13.000 §9) (*Enforcement realism and remedy systems*) for standing consequences; [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
+- Downstream: [Article XIII-B: Right to Redress and Remedy](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Thirteen §10](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (13.000 §10) (*Enforcement realism and remedy systems*) for standing consequences; [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
 
 </details>
 
@@ -1122,7 +1122,7 @@ That correction must be real:
 - **In time:** Remedy that arrives only after harm has become irreversible, or after the sentient has been worn down into giving up, is not remedy (see [Timely Resolution](core_05.035_band_accountability.md#timely-resolution)).
 - **Borne by those responsible:** The cost of correction is not shifted onto those harmed, their communities, or public remedy systems where the responsible actors can bear it. Expense, restructuring, or succession does not by itself end the duty.
 
-The right to this correction is stated in [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Six. [Chapter Thirteen §9](core_13.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*) applies this principle to standing consequences, and [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
+The right to this correction is stated in [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Six. [Chapter Thirteen §10](core_13.000_standing_integration.md#10-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*) applies this principle to standing consequences, and [CI-13.205](corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md#ci-13205-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
 
 ### 7. Freedom (Bounded Agency)
 <a id="7-freedom-bounded-agency"></a>

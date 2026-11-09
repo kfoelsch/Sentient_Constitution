@@ -201,7 +201,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
 - Auditing and independent verification: Article XVI is the floor; Chapter Five [Auditability](core_05.050_band_oversight.md#auditability) is the property; [CJS-5.115 §3](corpus_joint_structure/cjs_05.115_audit_process.md#cjs-5115-3-audit-process-home-odef3) is how and when; Chapter Nine is one large process that uses that stack
 - Duty to resist unlawful or unconstitutional instructions: [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)
-- Remedy systems and enforcement realism: Chapter Thirteen §9; implementation in CI-13.205
+- Remedy systems and enforcement realism: Chapter Thirteen §10; implementation in CI-13.205
 - Relation to local, national, and international law: [Chapter Eighteen §5](core_18.000_expansion_supremacy.md#5-relation-to-applicable-external-law)
 
 ### Editor and operator resources
