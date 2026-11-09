@@ -761,7 +761,7 @@ Those are failed tests for any steward.
   - [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary);
   - [§13.2.3 Privacy](core_01.005_interaction_interpretation.md#1323-privacy-and-informational-self-determination);
   - [Article VII-B](core_06.005_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
-- Downstream: [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Thirteen §8.1](core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects) (13.000 §8.1); [Chapter Thirteen §8.2](core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden) (13.000 §8.2).
+- Downstream: [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Thirteen §8.1](core_13.000_standing_integration.md#81-anti-aggregation-of-gated-pathway-effects) (13.000 §8.1); [Chapter Thirteen §8.2](core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden) (13.000 §8.2).
 
 </details>
 
@@ -814,8 +814,8 @@ Those are failed tests for any steward.
   - It is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
 - **A log is a trail, not a verdict:**
   - The log shows who did what. It is not itself a standing finding, and it is not a [standing record](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) of verified help or harm. Writing it opens no standing record.
-  - Whoever decides access to a role pathway, a trust pathway, or another named pathway uses a standing record, or the ordinary state of having none ([Chapter Eleven §2.2 Silence is the default](core_11.000_standing_assessment.md#22-silence-is-the-default)), and never the log.
-  - It may not be combined with logs or standing effects from other named pathways into one reputation score, ranking, badge, or public profile ([Chapter Thirteen §8.1 Anti-aggregation of named-pathway effects](core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects)).
+  - Whoever decides access to a role pathway, a trust pathway, or another gated pathway uses a standing record, or the ordinary state of having none ([Chapter Eleven §2.2 Silence is the default](core_11.000_standing_assessment.md#22-silence-is-the-default)), and never the log.
+  - It may not be combined with logs or standing effects from other gated pathways into one reputation score, ranking, badge, or public profile ([Chapter Thirteen §8.1 Anti-aggregation of gated-pathway effects](core_13.000_standing_integration.md#81-anti-aggregation-of-gated-pathway-effects)).
 
 The burden this duty places on a steward who carries consequential authority is real, and this Constitution does not pretend otherwise; [Chapter Thirteen §8.2 Plain statement of effect and burden](core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
 

@@ -505,7 +505,7 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg where named recognition, acclaim, or aspiration pathways materially affect voice, status, or access to consequential roles; **accountability** leg (anti-reward for betrayal, concealment, and accountability avoidance); **oversight** leg (traceable, non-misleading acclaim).
+- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg where recognition, acclaim, or aspiration pathways materially affect voice, status, or access to consequential roles; **accountability** leg (anti-reward for betrayal, concealment, and accountability avoidance); **oversight** leg (traceable, non-misleading acclaim).
 - Upstream: Principles: [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) — including wellbeing as foundational for [Participation](core_05.025_apex_participation_leg.md#participation-constitutional); [§3.1 Fairness](#31-fairness).
 - Downstream:
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity);
@@ -595,7 +595,7 @@ Recognition should feel **meaningful** to those honored and to the communities t
 <a id="325-aligned-recognition-pathways"></a>
 ##### 3.2.5 Aligned Recognition Pathways
 
-Named recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Six** assigns it, [Participation](core_05.025_apex_participation_leg.md#participation-constitutional), and [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment).
+Recognition pathways, acclaim, prizes, certification, standing, reputation effects, or comparable incentives that **allocate status**, **resources**, or **material access** must remain consistent with Truth, Safety, contestable procedure where **Chapter Six** assigns it, [Participation](core_05.025_apex_participation_leg.md#participation-constitutional), and [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment).
 
 They **must not** systematically reward harm, deception, avoidance of scrutiny, extraction, or erosion of meaningful agency.
 

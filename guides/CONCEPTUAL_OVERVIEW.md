@@ -438,7 +438,7 @@ flowchart TB
         direction TB
         subgraph Drow1["Articles XIX–XX"]
             direction LR
-            D1["Article XIX · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Contribution, competency bars, and named-pathway eligibility<br/>• Violations and standing locks<br/>• Voting and special locks"]
+            D1["Article XIX · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Contribution, competency bars, and gated-pathway eligibility<br/>• Violations and standing locks<br/>• Voting and special locks"]
             D2["Article XX · Justice After Verified Violation<br/><br/>• Justice objective and scope<br/>• Restriction floors"]
         end
         subgraph Drow2["Articles XXI–XXII"]
@@ -766,7 +766,7 @@ flowchart TB
         C["Contribution Axis<br/><br/>• Help toward Flourishing<br/>• Can support recognition and competency clearance"]
         V["Violation Axis<br/><br/>• Harm and accountability failure<br/>• Can support locks, correction, and remedy"]
     end
-    Q3["Question 3 · What follows?<br/><br/>Chapter Thirteen integration and effects<br/><br/>• Apply named pathway effects<br/>• No merged score or dignity rank<br/>• Keep challenge and restoration open"]
+    Q3["Question 3 · What follows?<br/><br/>Chapter Thirteen integration and effects<br/><br/>• Apply gated pathway effects<br/>• No merged score or dignity rank<br/>• Keep challenge and restoration open"]
     Q1 --> Q2
     Q2 --> C
     Q2 --> V
@@ -863,7 +863,7 @@ flowchart TB
 
 Each box pairs the Contribution Axis display label with the corresponding Violation Axis display label at the same magnitude band. The axes remain separate: the shared scale compares verified outcome magnitude, not moral worth, and never permits contribution to offset violation. The time ranges marked with `*` are the corpus’s illustrative 80-year human calibration; the binding unit is sentient-generic and substrate-agnostic.
 
-The standing model is deliberately not a single reputation score. Chapter Eleven asks what happened, Chapter Twelve measures how the verified contribution or violation should be classified, and Chapter Thirteen applies the named pathway effects without reopening the facts or letting contribution offset a violation; Chapter Fourteen adds a separate designation review only when its higher threshold is met.
+The standing model is deliberately not a single reputation score. Chapter Eleven asks what happened, Chapter Twelve measures how the verified contribution or violation should be classified, and Chapter Thirteen applies the gated pathway effects without reopening the facts or letting contribution offset a violation; Chapter Fourteen adds a separate designation review only when its higher threshold is met.
 
 The two standing tracks remain separate. The Chapter Fourteen branch applies only when its conditions are met; ordinary Chapter Thirteen effects continue in parallel. The dotted supervision link represents forum review across the processes, rather than an additional final step.
 
@@ -891,13 +891,13 @@ This is a map of available processes. A particular matter enters the paths its f
 
 ### Ordinary life, privacy, and the way back
 
-Ordinary life does not begin with a standing file. **Silence is the default**: no standing record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive named pathway, which must state why that named pathway is trust-sensitive. See [Chapter Eleven §2.2](../core_11.000_standing_assessment.md#22-silence-is-the-default), [§5](../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority), and [Chapter Thirteen §7.2](../core_13.000_standing_integration.md#72-competency-bars-and-clearances).
+Ordinary life does not begin with a standing file. **Silence is the default**: no standing record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive gated pathway, which must state why that gated pathway is trust-sensitive. See [Chapter Eleven §2.2](../core_11.000_standing_assessment.md#22-silence-is-the-default), [§5](../core_11.000_standing_assessment.md#5-record-custody-and-opening-authority), and [Chapter Thirteen §7.2](../core_13.000_standing_integration.md#72-competency-bars-and-clearances).
 
-When a record does exist, its effects remain bounded to named pathways. The system must not combine named-pathway effects into a profile, ranking, badge, public display, or general worth judgment. A lawful lock still closes real doors: the subject must be told which named pathway is limited, what corrective conditions and review date apply, how long the effect is expected to last, and where to challenge it. That burden must be measured honestly rather than hidden behind the statement that standing is not a score. See [Chapter Thirteen §§8.1–8.2](../core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects).
+When a record does exist, its effects remain bounded to gated pathways. The system must not combine gated-pathway effects into a profile, ranking, badge, public display, or general worth judgment. A lawful lock still closes real doors: the subject must be told which gated pathway is limited, what corrective conditions and review date apply, how long the effect is expected to last, and where to challenge it. That burden must be measured honestly rather than hidden behind the statement that standing is not a score. See [Chapter Thirteen §§8.1–8.2](../core_13.000_standing_integration.md#81-anti-aggregation-of-gated-pathway-effects).
 
 Restoration is a real route, not automatic forgiveness or record erasure. Correction, remedy, restitution, safeguards, monitoring, or requalification may be required. Once restoration is complete and no lock, remedy duty, or correction duty remains open, slots 1–3 archive; slots 4–6 archive after a published period capped by the contribution half-life in Chapter Thirteen §7.1. Slots 7–9 remain active indefinitely, subject to their special restoration rules and Chapter Fourteen.
 
-Archival preserves evidence while ending ordinary active use. A forum may access an archived record on a documented showing that it bears on recurrence risk in a live matter. Archived records produce no named-pathway effect, are not disclosed to named-pathway gatekeepers, and do not count toward competency bars, except where a published bar for a specific high-sensitivity named pathway states a longer look-back that itself satisfies Necessity and Proportionality. The forum-access showing alone does not authorize gatekeeper disclosure. See [Chapter Thirteen, Rest state and archival](../core_13.000_standing_integration.md#91-rest-state-and-archival).
+Archival preserves evidence while ending ordinary active use. A forum may access an archived record on a documented showing that it bears on recurrence risk in a live matter. Archived records produce no gated-pathway effect, are not disclosed to gated-pathway gatekeepers, and do not count toward competency bars, except where a published bar for a specific high-sensitivity gated pathway states a longer look-back that itself satisfies Necessity and Proportionality. The forum-access showing alone does not authorize gatekeeper disclosure. See [Chapter Thirteen, Rest state and archival](../core_13.000_standing_integration.md#91-rest-state-and-archival).
 
 ### Protection while sentience is uncertain
 

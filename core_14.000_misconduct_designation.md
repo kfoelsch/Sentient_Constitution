@@ -417,14 +417,14 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
 
 <br>
 
-*In plain terms: after final anti-constitutional-misconduct designation, Chapter Thirteen's Trust Lock closes capture-linked named pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Thirteen lock format and states the ACM imprisonment specialization.*
+*In plain terms: after final anti-constitutional-misconduct designation, Chapter Thirteen's Trust Lock closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Thirteen lock format and states the ACM imprisonment specialization.*
 
 After final designation under **section 3** with **section 4** safeguards met:
 
 - **Mandatory special lock:** Chapter Thirteen must attach the **Anti-Constitutional Trust Lock** under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Thirteen.
 - **Permanence:** The Trust Lock is not permanent, and restoration under it stays exceptional. Pervasive anti-constitutional conduct is one of the two permanent-lock grounds under [Chapter Thirteen §9 Restoration and reassessment](core_13.000_standing_integration.md#9-restoration-and-reassessment). Where a final ACMD rests on it and a dissolution order ends a Chartered Party, the order records the pervasive-conduct ground and the Dissolution Reformation Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks) is permanent. This chapter adds no other permanent lock and does not restate the rule.
 - **Attachment-field discipline:** Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Thirteen lock design and enforcement under [Chapter Thirteen §6 Lock design and enforcement](core_13.000_standing_integration.md#6-lock-design-and-enforcement), and must be recorded using the [Chapter Thirteen §6.1 Definition and attachment](core_13.000_standing_integration.md#61-definition-and-attachment) attachment fields:
-  - blocked or limited named pathway;
+  - blocked or limited gated pathway;
   - risk reduced;
   - protected subjects or interests;
   - corrective conditions;

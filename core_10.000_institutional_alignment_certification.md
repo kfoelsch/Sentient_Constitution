@@ -961,7 +961,7 @@ These are not blockers:
 - the cost or workload of the recertification for the forum; or
 - a good-faith dispute with a finding, made through the published route ([Chapter Nine Part B §7.3.1 Willingness](core_09.005_system_alignment_certification_record_process.md#731-willingness)).
 
-**Holds and locks still apply.** The three narrow gates of **Article XI-E** (*Institutional Formation and Business Creation*) apply on their own terms. An [Interim Hold](core_05.035_band_accountability.md#interim-hold) or a standing lock on a named sentient bars that sentient, within its named pathway, from taking or exercising the new authority. It bars the sentient and not the Institution, and it is not a blocker on the Institution, so the authority can still be cleared for another holder.
+**Holds and locks still apply.** The three narrow gates of **Article XI-E** (*Institutional Formation and Business Creation*) apply on their own terms. An [Interim Hold](core_05.035_band_accountability.md#interim-hold) or a standing lock on a named sentient bars that sentient, within its gated pathway, from taking or exercising the new authority. It bars the sentient and not the Institution, and it is not a blocker on the Institution, so the authority can still be cleared for another holder.
 
 Before the forum decides not to clear, the Institution is told the blocker and the evidence and has the chance to answer inside the tier window. The decision states its reasons on the Institutional Certification Record ([Chapter Nine Part C §8.1 Minimum record contents](core_09.010_system_alignment_certification_record_recertification.md#81-minimum-record-contents)).
 

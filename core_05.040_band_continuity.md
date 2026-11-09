@@ -6878,7 +6878,7 @@ See **Anti-Segmentation Principle**.
     - billing;
     - system, standing, or risk classification that others rely on;
     - compliance claims, certifications, or attestations;
-    - named pathways that gate access, privilege, or eligibility;
+    - gated pathways that gate access, privilege, or eligibility;
     - stewardship claims and published stewardship posture; and
     - adjudication-support systems or records that shape reliance on outcomes.
   - **In scope — observable pattern families used to detect trust erosion:**

@@ -38,7 +38,7 @@ flowchart TB
     subgraph Dgrid[" "]
         direction TB
         subgraph Drow1["Articles XIX–XX"]
-            D1["**Article XIX** (*Standing and Participation Status*) · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Contribution, competency bars, and named-pathway eligibility<br/>• Violations and standing locks<br/>• Voting and special locks"]
+            D1["**Article XIX** (*Standing and Participation Status*) · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Contribution, competency bars, and gated-pathway eligibility<br/>• Violations and standing locks<br/>• Voting and special locks"]
             D2["**Article XX** (*Justice After Verified Violation*) · Justice After Verified Violation<br/><br/>• Justice objective and scope<br/>• Restriction floors"]
         end
         subgraph Drow2["Articles XXI–XXII"]
@@ -111,7 +111,7 @@ flowchart TB
 
 *In plain terms: **Article XIX** (*Standing and Participation Status*) decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XXI** (*Interoperability, Portability, and Exit Integrity*) and **Article XXII** (*Movement, Migration, Refuge, and Non-Statelessness*) govern.*
 
-[Participant Standing](core_05.035_band_accountability.md#participant-standing) is participation-status or role-eligibility status on **named pathways** — specified roles and privileges under [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (*General standing locks*), including:
+[Participant Standing](core_05.035_band_accountability.md#participant-standing) is participation-status or role-eligibility status on **gated pathways** — specified roles and privileges under [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (*General standing locks*), including:
 
 - trust-sensitive roles;
 - delegated authority;
@@ -121,23 +121,23 @@ flowchart TB
 - **governance-voting**; and
 - **stakeholder-participation**.
 
-Participant standing is recognized from constitutionally valid standing records, standing effects, or [Competency Bar](core_05.035_band_accountability.md#competency-bar) criteria for the named pathway. Standing records come in two kinds under [Chapter Eleven §2](core_11.000_standing_assessment.md#2-question-1--what-happened) (*Question 1 — what happened?*):
+Participant standing is recognized from constitutionally valid standing records, standing effects, or [Competency Bar](core_05.035_band_accountability.md#competency-bar) criteria for the gated pathway. Standing records come in two kinds under [Chapter Eleven §2](core_11.000_standing_assessment.md#2-question-1--what-happened) (*Question 1 — what happened?*):
 
 - **Contribution standing records** record verified help.
 - **Violation standing records** record verified harm.
 
 The two are kept separate and never blended into a net score. Having no standing record is the ordinary state, not an adverse fact ([Chapter Eleven §2.2](core_11.000_standing_assessment.md#22-silence-is-the-default) (*Silence is the default*)).
 
-Participant standing is not reputation or social esteem, and it does not itself impose access restrictions. Ordinary participation pathways, including **governance-voting**, stay open under published eligibility criteria. Beyond that, named pathways open and close only through:
+Participant standing is not reputation or social esteem, and it does not itself impose access restrictions. Ordinary participation pathways, including **governance-voting**, stay open under published eligibility criteria. Beyond that, gated pathways open and close only through:
 
-- **Competency clearance (opening trust-sensitive pathways):** a [Competency Clearance](core_05.035_band_accountability.md#competency-clearance) records that verified competence, experience, and contribution meet the published, contestable [Competency Bar](core_05.035_band_accountability.md#competency-bar) for that named pathway.
-- **Standing lock (closing any named pathway):** a [Standing Lock](core_05.035_band_accountability.md#standing-lock) prevents or limits a specific named pathway while a verified violation finding remains unresolved or materially unremediated. Contribution and competency clearance do not offset or waive an applicable standing lock. Restrictive consequences attach only through [Standing Effect](core_05.035_band_accountability.md#standing-effect) and [Standing Lock](core_05.035_band_accountability.md#standing-lock) on named privilege pathways.
+- **Competency clearance (opening trust-sensitive pathways):** a [Competency Clearance](core_05.035_band_accountability.md#competency-clearance) records that verified competence, experience, and contribution meet the published, contestable [Competency Bar](core_05.035_band_accountability.md#competency-bar) for that gated pathway.
+- **Standing lock (closing any gated pathway):** a [Standing Lock](core_05.035_band_accountability.md#standing-lock) prevents or limits a specific gated pathway while a verified violation finding remains unresolved or materially unremediated. Contribution and competency clearance do not offset or waive an applicable standing lock. Restrictive consequences attach only through [Standing Effect](core_05.035_band_accountability.md#standing-effect) and [Standing Lock](core_05.035_band_accountability.md#standing-lock) on gated pathways.
 
 This Article states **constitutional floors** for standing and participation status under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable named pathways:
+- **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable gated pathways:
   - standing labels do not substitute for dignity, Rights-Floor minimums, or [Stakeholder](core_05.055_band_participation.md#stakeholder) status;
-  - named-pathway eligibility rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
+  - gated-pathway eligibility rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
 - **Continuity:** standing discipline stays revisable across time. [Standing locks](core_05.035_band_accountability.md#standing-lock) and other standing restrictions:
   - remain proportionate;
   - remain restorable where corrected; and
@@ -163,14 +163,14 @@ Participant standing alone must not foreclose survival-critical access under **A
 *Article neighbors:*
 
 - **Owner layers:** [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) and [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) measure standing records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
-- **Subarticles:** [XVIII-A](#article-xix-a-standing-distinction) states what standing is not; [XVIII-B](#article-xix-b-contestability-and-proportional-restriction-limits) states the process rules for every standing decision; [XVIII-C](#article-xix-c-contribution-competency-bars-and-named-pathway-eligibility) governs how named pathways open; [XVIII-D](#article-xix-d-violations-and-standing-locks) governs how they close; [XVIII-E](#article-xix-e-voting-and-special-locks) adds the rules for voting locks and special locks.
+- **Subarticles:** [XVIII-A](#article-xix-a-standing-distinction) states what standing is not; [XVIII-B](#article-xix-b-contestability-and-proportional-restriction-limits) states the process rules for every standing decision; [XVIII-C](#article-xix-c-contribution-competency-bars-and-gated-pathway-eligibility) governs how gated pathways open; [XVIII-D](#article-xix-d-violations-and-standing-locks) governs how they close; [XVIII-E](#article-xix-e-voting-and-special-locks) adds the rules for voting locks and special locks.
 
 #### Article XIX-A: Standing Distinction
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§6 Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), and [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
-- Read with: **Article VI-A** (*Dignity and Equal Moral Standing*); **Article VI-B** (*Sentience-Status Adjudication Floor*); **Article XII** (*Stakeholder System Participation, Representation, and Due Process*); [Chapter Eleven §2.2](core_11.000_standing_assessment.md#22-silence-is-the-default) (11.000 §2.2) (*Silence is the default*); [Chapter Thirteen §8.1](core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects) (13.000 §8.1) (*Anti-aggregation of named-pathway effects*).
+- Read with: **Article VI-A** (*Dignity and Equal Moral Standing*); **Article VI-B** (*Sentience-Status Adjudication Floor*); **Article XII** (*Stakeholder System Participation, Representation, and Due Process*); [Chapter Eleven §2.2](core_11.000_standing_assessment.md#22-silence-is-the-default) (11.000 §2.2) (*Silence is the default*); [Chapter Thirteen §8.1](core_13.000_standing_integration.md#81-anti-aggregation-of-gated-pathway-effects) (13.000 §8.1) (*Anti-aggregation of gated-pathway effects*).
 
 </details>
 
@@ -193,12 +193,12 @@ Participant standing alone must not foreclose survival-critical access under **A
 
 This Article sets out how standing differs from competency bars, competency clearances, and standing locks:
 
-- **Role eligibility only:** Participant standing, standing records, competency bars, competency clearances, and standing locks govern role eligibility on named pathways only. They must not:
+- **Role eligibility only:** Participant standing, standing records, competency bars, competency clearances, and standing locks govern role eligibility on gated pathways only. They must not:
   - blur together who qualifies for a role and who has inherent dignity or equal moral standing under **Article VI-A** (*Dignity and Equal Moral Standing*);
   - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a [Stakeholder](core_05.055_band_participation.md#stakeholder) because a system actually affects them;
   - treat the absence of a standing record as an adverse fact, or require a standing record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no standing record is the ordinary state under [Chapter Eleven §2.2](core_11.000_standing_assessment.md#22-silence-is-the-default) (*Silence is the default*);
-  - treat dissent or peaceful protest under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any named pathway; or
-  - assemble named-pathway effects into a profile, ranking, or public display — [Chapter Thirteen §8.1](core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*).
+  - treat dissent or peaceful protest under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any gated pathway; or
+  - assemble gated-pathway effects into a profile, ranking, or public display — [Chapter Thirteen §8.1](core_13.000_standing_integration.md#81-anti-aggregation-of-gated-pathway-effects) (*Anti-aggregation of gated-pathway effects*).
 - <a id="anti-substitution-sentience-status-xviii"></a>**Scores don't decide who counts:** None of the following may be used to decide whether someone is a sentient being:
   - standing scores, standing records, competency bars, competency clearances, or standing locks;
   - certification badges or [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) records;
@@ -254,8 +254,8 @@ This Article sets out the contestability and proportionality limits on standing 
   - That limit never weakens your right to challenge a decision, get it fixed, get temporary protection while the case is pending, or get a fair process under **Article XIII-A** (*Reliability and Trustworthiness Baseline*), **Article XIII-B** (*Right to Redress and Remedy*), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
 - **Procedural reviewability:** These rules apply whenever standing is materially restricted, downgraded, or suspended, for any reason, including:
   - a [standing lock](core_05.035_band_accountability.md#standing-lock) after a verified violation finding ([Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*));
-  - a competency clearance limited or withdrawn after failed retesting or a verified change in role-relevant capacity, where no wrongdoing is involved ([Article XIX-C](#article-xix-c-contribution-competency-bars-and-named-pathway-eligibility) (*Contribution, Competency Bars, and Named-Pathway Eligibility*); [Chapter Thirteen §7.2](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (*Competency bars and clearances*));
-  - temporary protective limits while a case is still open, before anything is verified ([Chapter Fifteen §5](core_15.000_forum.md#interim-protection) (*Interim protection*)), which for a named sentient's use of a named pathway means an [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Fifteen §5 Interim hold on a named sentient's pathway](core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway).
+  - a competency clearance limited or withdrawn after failed retesting or a verified change in role-relevant capacity, where no wrongdoing is involved ([Article XIX-C](#article-xix-c-contribution-competency-bars-and-gated-pathway-eligibility) (*Contribution, Competency Bars, and Gated-Pathway Eligibility*); [Chapter Thirteen §7.2](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (*Competency bars and clearances*));
+  - temporary protective limits while a case is still open, before anything is verified ([Chapter Fifteen §5](core_15.000_forum.md#interim-protection) (*Interim protection*)), which for a named sentient's use of a gated pathway means an [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Fifteen §5 Interim hold on a named sentient's pathway](core_15.000_forum.md#interim-hold-on-a-named-sentients-pathway).
 
   In each case, the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - explain **why** in clear terms;
@@ -264,14 +264,14 @@ This Article sets out the contestability and proportionality limits on standing 
 
   While a challenge is pending, any temporary limits must stay only as broad — and only as hard to undo — as safety, integrity, or fair process actually require.
 - **Proportionality:** Restrictions on standing must remain necessary and proportionate under **Necessity**, **Proportionality**, **Article XX-B** (*Restriction Floors*), and **Article XX-B** (*Restriction Floors*). How standing locks are fitted to the harm is stated in [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*).
-- **Rights-Floor minimums and non-foreclosure:** Participant standing, competency bars, competency clearances, and standing locks govern role eligibility and named privilege pathways only. They must not:
+- **Rights-Floor minimums and non-foreclosure:** Participant standing, competency bars, competency clearances, and standing locks govern role eligibility and gated pathways only. They must not:
   - suspend, waive, extinguish, or reduce the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_01.005_interaction_interpretation.md#rights-floor-minimums-principle);
   - foreclose survival-critical access or **Article III-A** (*Survival*) resource-allocation and dependency floors where materially implicated; or
   - foreclose constitutionally required audit, challenge, or remedy pathways — including under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), **Article XV-B** (*Transparency, Auditability, and Contestability*), and **Article XVI** (*Audit, Transparency, and Independent Verification*) — absent adequate justification under **Chapter One**, **Chapter Five**, and applicable incorporated procedure.
 
 <a id="article-xviii-c-good-standing-responsibility-and-continuous-audit"></a>
 <a id="article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit"></a>
-#### Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility
+#### Article XIX-C: Contribution, Competency Bars, and Gated-Pathway Eligibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -305,11 +305,11 @@ This Article sets out the contestability and proportionality limits on standing 
 
 <br>
 
-*In plain terms: this is how named pathways open. Ordinary participation, including the governance vote, stays open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. A trust-sensitive role opens when verified competence, experience, and help meet its published **competency bar**, producing a **competency clearance**. Informal and community experience counts on the same terms as formal experience. Help is recorded on its own track and never cancels verified harm; a clearance does not lift a standing lock.*
+*In plain terms: this is how gated pathways open. Ordinary participation, including the governance vote, stays open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. A trust-sensitive role opens when verified competence, experience, and help meet its published **competency bar**, producing a **competency clearance**. Informal and community experience counts on the same terms as formal experience. Help is recorded on its own track and never cancels verified harm; a clearance does not lift a standing lock.*
 
-This Article sets out how contribution, competency bars, and named-pathway eligibility work:
+This Article sets out how contribution, competency bars, and gated-pathway eligibility work:
 
-- **Named-pathway eligibility on present evidence:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** named pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone.
+- **Gated-pathway eligibility on present evidence:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** gated pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone.
   - Ordinary participation pathways, including **governance-voting**, stay open when published eligibility criteria are met and no applicable standing lock blocks them ([Chapter Sixteen §4.1](core_16.000_governance.md#41-entitlement-and-eligibility) (*Entitlement and eligibility*)).
   - Eligibility criteria must remain subject to **Chapters Eleven and Twelve** (*Standing Records and Standing Measurement*), remain subject to continuous audit, and remain revisable when current evidence changes.
 - **Contribution standing records:** Verified help enters **contribution standing records** under [Chapter Eleven §2](core_11.000_standing_assessment.md#2-question-1--what-happened) (*Question 1 — what happened?*) and is classified as positive-only [Contribution Nature](core_05.035_band_accountability.md#contribution-nature) on the Contribution Axis.
@@ -318,14 +318,14 @@ This Article sets out how contribution, competency bars, and named-pathway eligi
 - **Competency bars and clearances:** Some roles need proven skill or trust. For each one, [Chapter Thirteen §7.2](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (*Competency bars and clearances*) works like this:
   - **The bar:** A [Competency Bar](core_05.035_band_accountability.md#competency-bar) is the qualification standard for that role. It must be published, and anyone affected must be able to check how it was applied and challenge it.
   - **What counts toward meeting it:** verified competence, experience, and contribution records, including a consistent record of meeting this Constitution's foundational requirements. Informal, peer-organized, mutual-aid, maintenance, repair, teaching, or community stewardship experience counts on the same terms as formal institutional experience, as long as it can be shown to the same standard.
-  - **Clearance:** When those standing records meet the bar, the result is a [Competency Clearance](core_05.035_band_accountability.md#competency-clearance). With clearance in force, and no [Standing Lock](core_05.035_band_accountability.md#standing-lock) blocking the named pathway, the holder may take on trust-sensitive roles, delegated authority, oversight roles, or progressively more consequential stewardship.
+  - **Clearance:** When those standing records meet the bar, the result is a [Competency Clearance](core_05.035_band_accountability.md#competency-clearance). With clearance in force, and no [Standing Lock](core_05.035_band_accountability.md#standing-lock) blocking the gated pathway, the holder may take on trust-sensitive roles, delegated authority, oversight roles, or progressively more consequential stewardship.
   - **How long clearance lasts:** Clearance stays in force by default. It may be limited or withdrawn only through:
     - published periodic retesting;
     - a verified material change in the capacity the role actually requires; or
     - an applicable standing lock ([Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*)).
   - **Capacity reassessments:** A reassessment must look at the capacity the role needs now, not at disability or health status as such, under [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help). Accommodation, support, or a narrower role must be considered before clearance is withdrawn.
   - **Not a finding of wrongdoing:** Limiting or withdrawing clearance after retesting or a capacity change says nothing about misconduct. The review rules in [Article XIX-B](#article-xix-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*) apply.
-  - **Clearance never overrides a lock:** Holding a clearance does not lift or waive a standing lock on the same named pathway.
+  - **Clearance never overrides a lock:** Holding a clearance does not lift or waive a standing lock on the same gated pathway.
   - **What a bar or clearance is not:** reputation, social prestige, insider sponsorship, a credential monopoly, a rank in dignity, or a permanent entitlement.
 
 #### Article XIX-D: Violations and Standing Locks
@@ -352,13 +352,13 @@ This Article sets out how contribution, competency bars, and named-pathway eligi
 
 <br>
 
-*In plain terms: this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. (The one exception is the permanent form of the Dissolution Reformation Lock in **Article XIX-E** (*Voting and Special Locks*), which sits on a dissolved Chartered Party and never on a sentient.) Locks that touch the vote, and the special locks for serious cases, carry extra rules in **Article XIX-E** (*Voting and Special Locks*).*
+*In plain terms: this is how gated pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. (The one exception is the permanent form of the Dissolution Reformation Lock in **Article XIX-E** (*Voting and Special Locks*), which sits on a dissolved Chartered Party and never on a sentient.) Locks that touch the vote, and the special locks for serious cases, carry extra rules in **Article XIX-E** (*Voting and Special Locks*).*
 
 This Article sets out how violations are recorded and how standing locks attach:
 
 - **Violation nature from verified violation findings only:** [Violation Nature](core_05.035_band_accountability.md#violation-nature) may affect standing effect only when it rests on auditable, contestable findings satisfying **Chapters Two through Four** and [Chapter Eleven](core_11.000_standing_assessment.md#25-verified-input-gate) — not allegations, intake labels, provisional routing, or forum-phase narratives alone.
   - Eligibility and locks must account for acquiescent participation and failure to resist unlawful or unconstitutional directives where material duty and capacity were present, consistent with **Chapter Five** (*Collective Accountability Failure*).
-- **Standing locks:** A [Standing Lock](core_05.035_band_accountability.md#standing-lock) is the restrictive counterpart to competency clearance. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, or **stakeholder-participation** pathways under [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (*General standing locks*). Restrictive consequences attach only through standing locks on named privilege pathways — including, where the verified risk requires it, separation from specific settings, networks, or sentients within the [separation limits](core_13.000_standing_integration.md#61-separation-limits) of Chapter Thirteen §6.1 (*Definition and attachment*).
+- **Standing locks:** A [Standing Lock](core_05.035_band_accountability.md#standing-lock) is the restrictive counterpart to competency clearance. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, or **stakeholder-participation** pathways under [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (*General standing locks*). Restrictive consequences attach only through standing locks on gated pathways — including, where the verified risk requires it, separation from specific settings, networks, or sentients within the [separation limits](core_13.000_standing_integration.md#61-separation-limits) of Chapter Thirteen §6.1 (*Definition and attachment*).
   - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
   - Every standing lock must spell out what access is blocked, who or what is being protected, what must be fixed before the lock lifts (the corrective condition), where to appeal (the review path), and when reassessment happens — and must remain necessary, proportionate, auditable, and contestable under [Article XIX-B](#article-xix-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*).
   - Competency clearance does not waive an applicable standing lock; good contribution does not erase unresolved verified violation findings.
@@ -372,7 +372,7 @@ This Article sets out how violations are recorded and how standing locks attach:
 - **Reinstatement and non-entrenchment:** Where standing is reduced due to violation findings, systems must provide clear conditions for review, remediation-based restoration, and periodic re-evaluation under [Chapter Thirteen §9](core_13.000_standing_integration.md#9-restoration-and-reassessment) (*Restoration and reassessment*).
   - Permanent exclusion based solely on historical status, without current and auditable justification, is non-compliant.
   - Where material restrictions are corrected, restoration or requalification pathways must be real rather than merely formal.
-  - Completion of correction, restitution, monitoring, safeguard implementation, or other demonstrated reduction of recurrence risk must create a real reassessment named pathway where lawful; failure to complete those obligations keeps the unresolved finding live for standing purposes.
+  - Completion of correction, restitution, monitoring, safeguard implementation, or other demonstrated reduction of recurrence risk must create a real reassessment gated pathway where lawful; failure to complete those obligations keeps the unresolved finding live for standing purposes.
 
 #### Article XIX-E: Voting and Special Locks
 <details>
@@ -400,7 +400,7 @@ This Article sets out how violations are recorded and how standing locks attach:
 
 This Article sets out the limits on voting locks and special locks:
 
-- **Voting locks are specific to the named pathway:** a lock on one voting named pathway does not carry over to the other. The two named pathways are:
+- **Voting locks are specific to the gated pathway:** a lock on one voting gated pathway does not carry over to the other. The two gated pathways are:
   - **governance-voting** is the foundational governance vote — authorizing governing authority through the legitimacy mechanism;
   - **stakeholder-participation** is stake-weighted influence and binding stakeholder choice within an already-authorized system, institution, or decision domain.
 
@@ -419,7 +419,7 @@ This Article sets out the limits on voting locks and special locks:
 - **Special locks:** These locks are stated in [Chapter Thirteen §6.5](core_13.000_standing_integration.md#65-special-locks) (*Special locks*):
   - **Forum-service standing lock:** A verified failure to recuse from a forum role where recusal was required and impartiality was materially compromised creates this lock. Reinstatement to forum service requires strict independent restoration; ordinary apology, prior contribution, reputation, expertise scarcity, or staffing need cannot satisfy that path by itself.
   - **Stakeholder-Participation Standing Lock:** Verified corruption, capture, false-stake abuse, coercion, or comparable material abuse of a stakeholder-participation pathway creates this lock. It limits stake-weighted influence and binding stakeholder choice in the affected domain; it does not by itself strip **governance-voting**, foundational constitutional choice, or stakeholder status. Ordinary apology, prior contribution, stake size, or operator indispensability cannot lift that lock by itself.
-  - **Institutional Authority Standing Lock:** A verified violation carried out through an institution or enterprise, or an office in one, creates this lock. It bars the subject from taking or exercising governing, controlling, or owning authority in the named pathway. It does not stop the institution or enterprise, which another lawful holder may lead.
+  - **Institutional Authority Standing Lock:** A verified violation carried out through an institution or enterprise, or an office in one, creates this lock. It bars the subject from taking or exercising governing, controlling, or owning authority in the gated pathway. It does not stop the institution or enterprise, which another lawful holder may lead.
   - **Perjury Standing Lock:** A verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, given to a forum, a verifying authority, a certifier, or a record custodian, creates this lock. It closes the attestation and verifying pathways and puts the subject's own statements to independent corroboration. It does not restrict testimony, petition, defense, or protected reporting. Ordinary apology, a bare retraction, prior contribution, or reputation cannot lift that lock by itself.
   - **Dissolution Reformation Lock:** A final dissolution order under **CI-13.210 §4** (*Dissolution*) creates this lock. It sits on the dissolved Chartered Party and its successor vehicles and not on a sentient, and it bars their return under any name or form while it stands. It is the one lock here that can be permanent, and only where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm: time, a resolved cause, or a change of holders cannot lift it then, and it ends only if the order is set aside or its violation finding is shown wrong. Otherwise it lifts on an independent restoration finding. It bars no sentient from forming a different Operating Party.
   - **Anti-Constitutional Trust Lock:** Final **Chapter Fourteen** anti-constitutional misconduct creates this lock. While active, it bars roles or material influence over **Class A**, **Class B**, or **Class C** systems, constitutional forums, constitutional alignment recognition, critical-system stewardship, and anti-constitutional accountability pathways until strict independent restoration is verified.
@@ -1028,7 +1028,7 @@ This Article sets out the limits on restricting movement, the conditions of cust
     - the conditions-of-custody floor in [Article XX-B](#xx-b-conditions-of-custody) (*Restriction Floors*);
     - applicable criminal-process or equivalent protections triggered by [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (*Special violation rules*).
   - They must remain consistent with **Non-Statelessness** under **Article XXII-C** (*Non-Statelessness*): no sentient may be left without a regime that recognizes baseline Rights-Floor protection, adjudicates standing, and provides **Redress and Remediation** pathways, including while custody or comparable restriction is in force.
-- **Standing is not a border:** Participant standing, competency bars, competency clearances, and standing locks under **Article XIX** (*Standing and Participation Status*) govern eligibility for named pathways. Where a verified risk requires it, a lock may also separate a sentient from specific settings, networks, or sentients under the [separation limits](core_13.000_standing_integration.md#61-separation-limits) in Chapter Thirteen §6.1 (*Definition and attachment*).
+- **Standing is not a border:** Participant standing, competency bars, competency clearances, and standing locks under **Article XIX** (*Standing and Participation Status*) govern eligibility for gated pathways. Where a verified risk requires it, a lock may also separate a sentient from specific settings, networks, or sentients under the [separation limits](core_13.000_standing_integration.md#61-separation-limits) in Chapter Thirteen §6.1 (*Definition and attachment*).
   - Neither a standing label nor a separation lock **by itself** limits movement, migration, refuge, portability, exit, or non-statelessness rights.
   - A separation may bar specific settings or contacts. It must not function as general exile, refuge denial, statelessness, confinement, or systemic lock-in, and standing effects must not substitute for individualized justice process.
   - A lock never **by itself** authorizes imprisonment, detention, or other liberty restriction; those require the process above. The two may run alongside each other where each satisfies its own constitutional requirements under [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (*General standing locks*) and this Article.

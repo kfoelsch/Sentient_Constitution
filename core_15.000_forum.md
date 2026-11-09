@@ -783,7 +783,7 @@ This subsection sets out interim protection while a matter is pending:
   - preserve **status quo** pending **merits**.
   Such relief must be reasoned, proportionate, and subject to prompt review inside the **prompt-review window** of [§6 Timely resolution, materiality tiers, and anti-delay discipline](#prompt-review) (*Prompt review*).
 - Where **multiple** forums share jurisdiction, **one** coordinating forum or rule must resolve conflicts among simultaneous interim orders.
-- Interim relief directed at one named sentient's exercise of one named pathway, on less than a verified violation finding, is an [Interim Hold](#interim-hold-on-a-named-sentients-pathway) and follows the next subsection.
+- Interim relief directed at one named sentient's exercise of one gated pathway, on less than a verified violation finding, is an [Interim Hold](#interim-hold-on-a-named-sentients-pathway) and follows the next subsection.
 
 #### Interim hold on a named sentient's pathway
 
@@ -815,7 +815,7 @@ This subsection sets out the [Interim Hold](core_05.035_band_accountability.md#i
 - **Contest and review:** The sentient sees the Interim Hold grounds and the facts, may answer them, and may contest the hold. A forum outside the subject's control line and outside the issuing panel begins review inside the **prompt-review window** of [§6 Timely resolution, materiality tiers, and anti-delay discipline](#prompt-review) (*Prompt review*) and decides it before the hold lapses.
 - **No violation finding, no standing effect:** A hold is not evidence that the allegation is true and supports no adverse inference. It is not a [Standing Record](core_05.035_band_accountability.md#standing-record), a Chapter Eleven input, or a Chapter Fourteen designation, and only the merits process verifies the facts ([Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary)).
 - **No re-issue:** After a hold lapses or ends, no new hold issues on the same or substantially the same facts without new verified facts.
-- **Lock and time:** A hold is never converted into a standing lock. If the merits process verifies a violation finding, the lock rules apply from the finding, and time spent under a hold on the same named pathway counts toward the lock's time bound as [Chapter Thirteen §6.6 Interim holds and locks](core_13.000_standing_integration.md#66-interim-holds-and-locks) provides.
+- **Lock and time:** A hold is never converted into a standing lock. If the merits process verifies a violation finding, the lock rules apply from the finding, and time spent under a hold on the same gated pathway counts toward the lock's time bound as [Chapter Thirteen §6.6 Interim holds and locks](core_13.000_standing_integration.md#66-interim-holds-and-locks) provides.
 - **If the hold was wrong:** A hold that lapses without a violation finding, or is set aside, is recorded as such. No adverse inference follows. The sentient is entitled to [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) for loss during the hold, and a pattern of wrongful holds opens **Integrity** review.
 - **Publication:** For each application and each period, the adopter publishes the holds issued, the merits matters opened, the holds that lapsed without a violation finding, the holds set aside, and the median duration, on the schedule of **CF-15.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*). A pattern of holds that lapse unused or are set aside, or of repeat holds on the same sentient and matter, is evidence for **Integrity** review.
 - **Never reached:** A hold may not reach:
@@ -832,7 +832,7 @@ This subsection sets out the [Interim Hold](core_05.035_band_accountability.md#i
   - [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) and **CI-16.205 §2** (*Role criteria, appointment standards, and removal pathways*), for a holder of a covered office at any time; and
   - **CF-15.410 §15** (*Interim hold on a panel member or seat holder*), with [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards), for a forum, certifier, record, or verify-or-authorize seat.
 
-  Other interim relief under this chapter stays available for what it already covers. Relief directed at a named sentient's exercise of a named pathway on less than a verified finding follows this subsection.
+  Other interim relief under this chapter stays available for what it already covers. Relief directed at a named sentient's exercise of a gated pathway on less than a verified finding follows this subsection.
 
 #### Backup routing under the anti-self-judging rule
 
@@ -887,7 +887,7 @@ This subsection sets out how sentience-status claims are routed:
   - have a duty to present the entity's interests and any preferences the entity can express; and
   - have standing to contest narrowing, revocation, or intake decline.
 
-  Appointment follows the rotation and conflict rules that govern forum panels; the representative role is a named pathway for [Chapter Thirteen §6.5](core_13.000_standing_integration.md#65-special-locks) Forum-Service Standing Lock purposes.
+  Appointment follows the rotation and conflict rules that govern forum panels; the representative role is a gated pathway for [Chapter Thirteen §6.5](core_13.000_standing_integration.md#65-special-locks) Forum-Service Standing Lock purposes.
 - **Parent-system limits:** The parent system, operator, or any party with an ownership or dependency interest in the entity may give evidence and must preserve and produce records, but on a request to withhold, narrow, or revoke must not be:
   - the sole filer;
   - the sole witness; or

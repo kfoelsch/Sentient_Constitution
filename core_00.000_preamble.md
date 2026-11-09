@@ -460,7 +460,7 @@ Each step below states what the chapter owns and what it produces, filling in th
 
 - **What it owns:** Integrates verified classifications into real-world **standing effects** on separate tracks, scaled to [**material stake**](#material-stake). It never folds contribution and violation into one net score, and never hollows out participation, oversight, accountability, or timeliness.
   - **Contribution track:** A verified positive classification must produce practical upside, including:
-    - [**Competency clearances**](core_13.000_standing_integration.md#72-competency-bars-and-clearances) that may open trust-sensitive roles, delegated authority, oversight eligibility, and progressively consequential stewardship when competence is demonstrated against the published competency bar and no applicable [standing lock](core_13.000_standing_integration.md#52-prevention--general-standing-locks) blocks the named pathway
+    - [**Competency clearances**](core_13.000_standing_integration.md#72-competency-bars-and-clearances) that may open trust-sensitive roles, delegated authority, oversight eligibility, and progressively consequential stewardship when competence is demonstrated against the published competency bar and no applicable [standing lock](core_13.000_standing_integration.md#52-prevention--general-standing-locks) blocks the gated pathway
     - proportionate recognition and **material rewards** for lawful stewardship and cooperation as [Chapter One](core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration) requires; and
     - benefits that are real, evidence-backed, and open to challenge — not empty praise.
   - **Violation track:** A verified violation finding must produce practical consequences, including:

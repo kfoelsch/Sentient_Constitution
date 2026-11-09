@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **758** of **1210** headings carry a gloss (63%).
+Coverage: **765** of **1217** headings carry a gloss (63%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **758** of **1210** headings carry a gloss (63%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05.020_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (87/99 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (88/100 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (63/124 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
@@ -38,7 +38,7 @@ Coverage: **758** of **1210** headings carry a gloss (63%).
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
 - [CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
 - [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
-- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (21/45 glossed)
+- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (27/51 glossed)
 - [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER FIFTEEN: FORUMS AND JURISDICTION](#chapter-fifteen-forums-and-jurisdiction) — `core_15.000_forum.md` (9/29 glossed)
@@ -1239,7 +1239,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 87/99 headings glossed
+Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 88/100 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1699,7 +1699,7 @@ an optional profile can describe a material non-compliance finding by Tetrad leg
 
 ###### Participant Standing
 
-Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label.
+Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive gated pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that gated pathway — not a vague status label.
 
 [Source](../../core_05.035_band_accountability.md#participant-standing)
 
@@ -1733,21 +1733,27 @@ a Standing Record is a bounded, reviewable measurement record for one subject, s
 
 [Source](../../core_05.035_band_accountability.md#standing-record)
 
+###### Gated Pathway
+
+a gated pathway is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. It is not a sentient's dignity, rank, or score.
+
+[Source](../../core_05.035_band_accountability.md#gated-pathway)
+
 ###### Competency Bar
 
-a Competency Bar is the published, role-specific standard for a named pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.
+a Competency Bar is the published, role-specific standard for a gated pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.
 
 [Source](../../core_05.035_band_accountability.md#competency-bar)
 
 ###### Competency Clearance
 
-Competency Clearance is the standing-effect result that says verified readiness meets the published competency bar for a named pathway. It may support opening that named pathway only when no standing lock blocks it. It is not prestige, insider sponsorship, or permanent entitlement.
+Competency Clearance is the standing-effect result that says verified readiness meets the published competency bar for a gated pathway. It may support opening that gated pathway only when no standing lock blocks it. It is not prestige, insider sponsorship, or permanent entitlement.
 
 [Source](../../core_05.035_band_accountability.md#competency-gate)
 
 ###### Standing Lock
 
-a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.
+a Standing Lock temporarily limits a gated pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded gated pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.
 
 [Source](../../core_05.035_band_accountability.md#standing-lock)
 
@@ -5423,7 +5429,7 @@ two worked examples, **vignettes 8 and 9**, measure a verified contribution and 
 
 ## CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION
 
-Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 21/45 headings glossed
+Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 27/51 headings glossed
 
 #### 1. Purpose and Role
 
@@ -5433,13 +5439,49 @@ this section says what this chapter is for, what it takes as fixed, what it leav
 
 #### 2. Chapter Eleven records do not change
 
-this chapter starts from the verified standing records Chapter Eleven already made. It may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.
+this is the first step of the decision order. Consequences are worked out from the verified standing records Chapter Eleven already made, so Question 3 never changes the facts or the measurement. This chapter may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.
 
 [Source](../../core_13.000_standing_integration.md#2-chapter-eleven-records-do-not-change)
 
+##### 2.1 Records the decision uses
+
+contribution and violation each have their own verified standing record. Use the one that applies to the decision, and never merge the two.
+
+[Source](../../core_13.000_standing_integration.md#21-records-the-decision-uses)
+
+##### 2.2 Absent axes
+
+if one track has no verified standing record, the decision runs on the other track. A missing track is unassessed, so nobody may guess or fill it in.
+
+[Source](../../core_13.000_standing_integration.md#22-absent-axes)
+
+##### 2.3 Facts and measurements stay fixed
+
+this chapter takes the facts and the ratings exactly as Chapters Eleven and Twelve left them. It cannot reopen them, pick a rating to get a result, or add the two tracks into one score.
+
+[Source](../../core_13.000_standing_integration.md#23-facts-and-measurements-stay-fixed)
+
+##### 2.4 What does not count as standing
+
+only a verified standing record counts. An accusation, a label, or a filed case does not.
+
+[Source](../../core_13.000_standing_integration.md#24-what-does-not-count-as-standing)
+
+##### 2.5 Changes come only through Chapter Eleven
+
+a Question 3 decision cannot rewrite a slot. Only a forum that verifies an error or material new facts can send a standing record back to be updated, corrected, or superseded under Chapter Eleven.
+
+[Source](../../core_13.000_standing_integration.md#25-changes-come-only-through-chapter-eleven)
+
+##### 2.6 The Rights Floor is not reduced
+
+no standing decision can lower the Rights Floor.
+
+[Source](../../core_13.000_standing_integration.md#26-the-rights-floor-is-not-reduced)
+
 #### 3. Automatic integration, review, and continuity
 
-when a verified standing record opens or changes, an integration record must follow automatically, keep the two tracks separate, and stay inspectable — including when the computers are down.
+when a verified standing record opens or changes, an integration record automatically gathers what applies — violations, contributions, competency clearances, and locks — in one place, keeps the two tracks separate, and stays inspectable, including when the computers are down.
 
 [Source](../../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity)
 
@@ -5451,19 +5493,19 @@ descriptors say **how** verified help or harm happened. This chapter imports the
 
 #### 5. Violation, correction, and prevention
 
-Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Eleven has verified a violation, remedy and correction come from that standing record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive named pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified standing record.
+Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Eleven has verified a violation, remedy and correction come from that standing record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive gated pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified standing record.
 
 [Source](../../core_13.000_standing_integration.md#5-violation-correction-and-prevention)
 
 ##### 5.1 Remedy and correction
 
-after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related named pathway limits — begins in [§5.2 Prevention — general standing locks](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks), with design and enforcement in [§6 Lock design and enforcement](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§5.3 Voluntary public accountability expression](../../core_13.000_standing_integration.md#53-voluntary-public-accountability-expression) applies.
+after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related gated pathway limits — begins in [§5.2 Prevention — general standing locks](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks), with design and enforcement in [§6 Lock design and enforcement](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§5.3 Voluntary public accountability expression](../../core_13.000_standing_integration.md#53-voluntary-public-accountability-expression) applies.
 
 [Source](../../core_13.000_standing_integration.md#51-remedy-and-correction)
 
 ##### 5.2 Prevention — general standing locks
 
-this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting named pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.
+this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting gated pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.
 
 [Source](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks)
 
@@ -5523,7 +5565,7 @@ a hold is what a forum may do on specific verified facts while the full facts ar
 
 #### 7. Contribution consequences second
 
-after violation, correction, and prevention are assigned under [§5 Violation, correction, and prevention](../../core_13.000_standing_integration.md#5-violation-correction-and-prevention) and [§6 Lock design and enforcement](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for named pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked named pathway.
+after violation, correction, and prevention are assigned under [§5 Violation, correction, and prevention](../../core_13.000_standing_integration.md#5-violation-correction-and-prevention) and [§6 Lock design and enforcement](../../core_13.000_standing_integration.md#6-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.
 
 [Source](../../core_13.000_standing_integration.md#7-contribution-consequences-second)
 
@@ -5535,25 +5577,25 @@ how much does an older verified contribution still say about present competence 
 
 ##### 7.2 Competency bars and clearances
 
-a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the named pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.
+a competency bar is the published standard for a gated pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the gated pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a gated pathway that a standing lock still blocks.
 
 [Source](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances)
 
 #### 8. Final standing effect
 
-when the earlier steps are done, the system must state — one named pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.
+when the earlier steps are done, the system must state — one gated pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.
 
 [Source](../../core_13.000_standing_integration.md#8-final-standing-effect)
 
-##### 8.1 Anti-aggregation of named-pathway effects
+##### 8.1 Anti-aggregation of gated-pathway effects
 
-this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one named pathway at a time and shown only to whoever gates that named pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.
+this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one gated pathway at a time and shown only to whoever gates that gated pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.
 
-[Source](../../core_13.000_standing_integration.md#81-anti-aggregation-of-named-pathway-effects)
+[Source](../../core_13.000_standing_integration.md#81-anti-aggregation-of-gated-pathway-effects)
 
 ##### 8.2 Plain statement of effect and burden
 
-no one should learn what a standing effect does to them from its consequences. The integration record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.
+no one should learn what a standing effect does to them from its consequences. The integration record must tell the subject, in plain language, exactly which gated pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.
 
 [Source](../../core_13.000_standing_integration.md#82-plain-statement-of-effect-and-burden)
 
@@ -5601,7 +5643,7 @@ standing consequences and redress count only when real institutions can deliver 
 
 #### 11. Pattern applications and Question 3 routing
 
-these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Fourteen §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers named pathway prevention from the verified standing record; Chapter Fourteen separately answers designation criteria routing.
+these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Fourteen §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers gated pathway prevention from the verified standing record; Chapter Fourteen separately answers designation criteria routing.
 
 [Source](../../core_13.000_standing_integration.md#11-named-applications)
 
@@ -5725,7 +5767,7 @@ a final anti-constitutional misconduct finding must not end with a label, a pris
 
 #### 4.2 Prevention — anti-constitutional locks
 
-after final anti-constitutional-misconduct designation, Chapter Thirteen's Trust Lock closes capture-linked named pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Thirteen lock format and states the ACM imprisonment specialization.
+after final anti-constitutional-misconduct designation, Chapter Thirteen's Trust Lock closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Thirteen lock format and states the ACM imprisonment specialization.
 
 [Source](../../core_14.000_misconduct_designation.md#42-prevention--anti-constitutional-locks)
 
@@ -6659,15 +6701,15 @@ these rules apply to every standing decision, whether it opens a role or closes 
 
 [Source](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)
 
-##### Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility
+##### Article XIX-C: Contribution, Competency Bars, and Gated-Pathway Eligibility
 
-this is how named pathways open. Ordinary participation, including the governance vote, stays open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. A trust-sensitive role opens when verified competence, experience, and help meet its published **competency bar**, producing a **competency clearance**. Informal and community experience counts on the same terms as formal experience. Help is recorded on its own track and never cancels verified harm; a clearance does not lift a standing lock.
+this is how gated pathways open. Ordinary participation, including the governance vote, stays open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. A trust-sensitive role opens when verified competence, experience, and help meet its published **competency bar**, producing a **competency clearance**. Informal and community experience counts on the same terms as formal experience. Help is recorded on its own track and never cancels verified harm; a clearance does not lift a standing lock.
 
 [Source](../../core_06.015_rights_part_d.md#article-xviii-c-good-standing-responsibility-and-continuous-audit)
 
 ##### Article XIX-D: Violations and Standing Locks
 
-this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. (The one exception is the permanent form of the Dissolution Reformation Lock in **Article XIX-E** (*Voting and Special Locks*), which sits on a dissolved Chartered Party and never on a sentient.) Locks that touch the vote, and the special locks for serious cases, carry extra rules in **Article XIX-E** (*Voting and Special Locks*).
+this is how gated pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. (The one exception is the permanent form of the Dissolution Reformation Lock in **Article XIX-E** (*Voting and Special Locks*), which sits on a dissolved Chartered Party and never on a sentient.) Locks that touch the vote, and the special locks for serious cases, carry extra rules in **Article XIX-E** (*Voting and Special Locks*).
 
 [Source](../../core_06.015_rights_part_d.md#article-xix-d-violations-and-standing-locks)
 
@@ -6969,7 +7011,7 @@ when binding votes or similar choices are used, this section sets the requiremen
 
 ##### 4.1 Entitlement and eligibility
 
-eligible sentients get a real vote when the rules say they do — and on the big questions (who governs and how), each voice counts equally. Weighting by impact can apply inside an already-authorized system for many decisions, but not as a trick to dilute the foundational vote. Calendar age and substrate class cannot be used to weight those foundational choices. A standing lock may pause ordinary voting on a named pathway, but standing games cannot permanently silence someone; the gravest misconduct may withhold foundational voice until restitution is actually complete — not as vague retaliation.
+eligible sentients get a real vote when the rules say they do — and on the big questions (who governs and how), each voice counts equally. Weighting by impact can apply inside an already-authorized system for many decisions, but not as a trick to dilute the foundational vote. Calendar age and substrate class cannot be used to weight those foundational choices. A standing lock may pause ordinary voting on a gated pathway, but standing games cannot permanently silence someone; the gravest misconduct may withhold foundational voice until restitution is actually complete — not as vague retaliation.
 
 [Source](../../core_16.000_governance.md#41-entitlement-and-eligibility)
 

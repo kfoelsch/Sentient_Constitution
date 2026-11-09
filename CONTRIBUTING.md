@@ -193,7 +193,7 @@ flowchart TB
 <a id="roles"></a>
 ## 6. Roles
 
-Roles are descriptive, not titles, and none of them is a standing record or a named privilege pathway under Chapter Thirteen. They exist so a newcomer knows where to begin and what earns wider trust.
+Roles are descriptive, not titles, and none of them is a standing record or a gated pathway under Chapter Thirteen. They exist so a newcomer knows where to begin and what earns wider trust.
 
 | Role | What you do | What unlocks it |
 |---|---|---|
