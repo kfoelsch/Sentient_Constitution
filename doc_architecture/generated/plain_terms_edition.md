@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **765** of **1217** headings carry a gloss (63%).
+Coverage: **774** of **1226** headings carry a gloss (63%).
 
 ## Contents
 
@@ -38,7 +38,7 @@ Coverage: **765** of **1217** headings carry a gloss (63%).
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
 - [CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
 - [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
-- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (27/51 glossed)
+- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (36/60 glossed)
 - [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER FIFTEEN: FORUMS AND JURISDICTION](#chapter-fifteen-forums-and-jurisdiction) — `core_15.000_forum.md` (9/29 glossed)
@@ -5429,7 +5429,7 @@ two worked examples, **vignettes 8 and 9**, measure a verified contribution and 
 
 ## CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION
 
-Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 27/51 headings glossed
+Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 36/60 headings glossed
 
 #### 1. Purpose and Role
 
@@ -5485,11 +5485,65 @@ when a verified standing record opens or changes, an integration record automati
 
 [Source](../../core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity)
 
+##### 3.1 Creating the integration record
+
+whenever a verified standing record is opened, updated, corrected, or superseded, the system builds or refreshes an integration record that gathers what applies in one place, side by side. It never adds the two tracks into a score.
+
+[Source](../../core_13.000_standing_integration.md#31-creating-the-integration-record)
+
+##### 3.2 What the integration record identifies
+
+every integration record states its inputs, who and what is affected, the results, and what happens next.
+
+[Source](../../core_13.000_standing_integration.md#32-what-the-integration-record-identifies)
+
+##### 3.3 Automation and human review
+
+software may finish any step that verified inputs and published rules settle. Uncertain, disputed, new, discretionary, or high-impact questions go to a human reviewer or forum.
+
+[Source](../../core_13.000_standing_integration.md#33-automation-and-human-review)
+
+##### 3.4 Processing order
+
+every decision, automated or manual, follows the same eight steps in the same order: violation first, then contribution, then one final effect for each applicable gated pathway.
+
+[Source](../../core_13.000_standing_integration.md#34-processing-order)
+
+##### 3.5 Inspection and outage continuity
+
+every result must be open to inspection and challenge. An outage does not suspend the rules: a manual process takes over, and the manual and electronic records are reconciled afterward.
+
+[Source](../../core_13.000_standing_integration.md#35-inspection-and-outage-continuity)
+
 #### 4. Descriptor integration and attachment normalization
 
 descriptors say **how** verified help or harm happened. This chapter imports them as they were recorded. It may not quietly reclassify them to change the result.
 
 [Source](../../core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization)
+
+##### 4.1 Descriptors and attachments
+
+a descriptor says how the help or harm happened. An attachment says what kind of response the facts call for. Both add detail and can stack. Neither can change or stand in for the slot, the 1–9 number from Chapter Twelve that says how big the benefit or harm was.
+
+[Source](../../core_13.000_standing_integration.md#41-descriptors-and-attachments)
+
+##### 4.2 Importing descriptors
+
+this chapter copies descriptors from the source standing record as they were recorded. A label may be changed only to match the catalog, and real errors go back to Chapter Eleven.
+
+[Source](../../core_13.000_standing_integration.md#42-importing-descriptors)
+
+##### 4.3 Violation attachments
+
+a violation can carry several kinds of response character at once, and no response may fall below the constitutional floors.
+
+[Source](../../core_13.000_standing_integration.md#43-violation-attachments)
+
+##### 4.4 What descriptors and attachments may do
+
+descriptors and attachments point to the matching bars, remedies, safeguards, and locks. They are not a second score, and they do not make a Chapter Fourteen designation.
+
+[Source](../../core_13.000_standing_integration.md#44-what-descriptors-and-attachments-may-do)
 
 #### 5. Violation, correction, and prevention
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-11-09T13:26:40+00:00",
+  "generated_at": "2026-11-09T14:31:52+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -1108,8 +1108,8 @@
     [33,"#24-what-does-not-count-as-standing","2.4 What does not count as standing"],
     [33,"#25-changes-come-only-through-chapter-eleven","2.5 Changes come only through Chapter Eleven"],
     [33,"#26-the-rights-floor-is-not-reduced","2.6 The Rights Floor is not reduced"],
-    [33,"#3-automatic-integration-review-and-continuity","3. Automatic integration, review, and continuity"],
-    [33,"#4-descriptor-integration-and-attachment-normalization","4. Descriptor integration and attachment normalization"],
+    [33,"#34-processing-order","3.4 Processing order"],
+    [33,"#41-descriptors-and-attachments","4.1 Descriptors and attachments"],
     [33,"#51-remedy-and-correction","5.1 Remedy and correction"],
     [33,"#52-prevention--general-standing-locks","5.2 Prevention — general standing locks"],
     [33,"#53-voluntary-public-accountability-expression","5.3 Voluntary public accountability expression"],
