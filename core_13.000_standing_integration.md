@@ -365,68 +365,122 @@ Descriptors and attachments are limited in these ways:
 
 *In plain terms: Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Eleven has verified a violation, remedy and correction come from that standing record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive gated pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified standing record.*
 
-Violation, correction, and prevention are determined from the violation standing record alone. Contribution is not an input to remedy, correction, safeguard, lock assignment, or voluntary public accountability expression. It may later show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it.
+This section is the violation side of Question 3, the part of this chapter that is decided first. It starts from a violation standing record that [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) has verified and [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) has measured, and it decides the violation-side consequences (remedy, correction, and prevention) from that violation standing record alone ([§3.4 Processing order](#34-processing-order), step 3). Contribution is decided afterward, in [§7 Contribution consequences second](#7-contribution-consequences-second), and only for gated pathways that no lock blocks. So contribution is not an input to remedy, correction, safeguard, lock assignment, or voluntary public accountability expression. It may later show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it.
+
+Forums under [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) supervise lawful implementation, challenge, interim relief, and timely movement of these decisions. They do not replace this chapter's duty to decide remedy, correction, and prevention from the verified standing record. How a forum's work reaches the standing record itself is in [Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary).
 
 <a id="51-remedy-and-correction"></a>
 #### 5.1 Remedy and correction
 
 *In plain terms: after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related gated pathway limits — begins in [§5.2 Prevention — general standing locks](#52-prevention--general-standing-locks), with design and enforcement in [§6 Lock design and enforcement](#6-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§5.3 Voluntary public accountability expression](#53-voluntary-public-accountability-expression) applies.*
 
+The integration record must say, in plain view:
+
+- **What happened and what is owed:**
+  - who was affected and what harm occurred;
+  - what remedy is owed and how far it reaches; and
+  - what correction duties apply.
+- **Who carries it out:**
+  - who is responsible for carrying them out; and
+  - where the funding comes from.
+- **When and how far along:**
+  - when work must start and what milestones apply; and
+  - where things stand now.
+- **Follow-through:**
+  - who supervises follow-through; and
+  - what happens if delay occurs.
+
 Every verified violation must be tested for two parallel correction outputs:
 
 - **Remedy:**
-  - acknowledgment;
-  - repair;
-  - restoration;
-  - compensation;
-  - substitute safeguards where literal repair is impossible; or
-  - comparable redress for affected sentients and interests.
+  - **Acknowledge and repair:**
+    - acknowledgment;
+    - repair; or
+    - restoration.
+  - **Make up the loss:**
+    - compensation;
+    - substitute safeguards where literal repair is impossible; or
+    - comparable redress for affected sentients and interests.
 - **Correction:** changes needed to address the cause and stop continuation, covering:
-  - conduct;
-  - systems;
-  - records;
-  - incentives;
-  - supervision;
-  - safeguards; or
-  - role eligibility.
+  - **Conduct and role:**
+    - conduct; or
+    - role eligibility.
+  - **Structure:**
+    - systems;
+    - records; or
+    - incentives.
+  - **Oversight and protection:**
+    - supervision; or
+    - safeguards.
 
 Fixing the cause does not cancel the duty to repair those harmed. Repairing those harmed does not cancel the duty to fix the cause, keep needed safeguards in place, or keep prevention locks in place while the risk of the same harm happening again remains real. Being able to fix the problem does not lower how serious the Violation Axis slot is.
-
-The integration record must say, in plain view:
-
-- who was affected and what harm occurred;
-- what remedy is owed and how far it reaches;
-- what correction duties apply;
-- who is responsible for carrying them out;
-- where the funding comes from;
-- when work must start and what milestones apply;
-- where things stand now;
-- who supervises follow-through; and
-- what happens if delay occurs.
-
-Forums supervise lawful implementation, challenge, interim relief, and timely movement. They do not replace the Chapter Thirteen duty to assign violation, correction, and prevention from the verified standing record. How forums reach the standing record itself is in [Chapter Eleven §2.7 Forum boundary](core_11.000_standing_assessment.md#27-forum-boundary).
 
 <a id="52-prevention--general-standing-locks"></a>
 #### 5.2 Prevention — general standing locks
 
 *In plain terms: this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting gated pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.*
 
-A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a gated pathway while a verified violation remains unresolved or materially unremedied. Gated pathways include trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and **stakeholder-participation** pathways. It must identify the blocked gated pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
+This subsection has five parts:
+
+- [§5.2.1 What a standing lock is](#521-what-a-standing-lock-is);
+- [§5.2.2 Governance-voting and stakeholder-participation pathways](#522-governance-voting-and-stakeholder-participation-pathways);
+- [§5.2.3 Special locks for particular findings](#523-special-locks-for-particular-findings);
+- [§5.2.4 Purpose of a lock](#524-purpose-of-a-lock); and
+- [§5.2.5 What every lock must meet](#525-what-every-lock-must-meet).
+
+<a id="521-what-a-standing-lock-is"></a>
+##### 5.2.1 What a standing lock is
+
+*In plain terms: a standing lock closes or limits one gated pathway after a verified violation, and it must say which gated pathway, what risk it reduces, and how it ends. Detention and other liberty restrictions are not locks; they have their own safeguards.*
+
+A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a gated pathway while a verified violation remains unresolved or materially unremedied. Gated pathways include:
+
+- trust pathways;
+- role pathways;
+- authority pathways;
+- credit pathways;
+- oversight pathways;
+- recognition pathways;
+- **governance-voting** pathways; and
+- **stakeholder-participation** pathways.
+
+A standing lock must identify the blocked gated pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
 
 Detention, imprisonment, and other liberty restrictions are not standing locks. They are separate justice measures governed by the coercive or liberty-restricting safeguards in [§6.4 Special violation rules](#64-special-violation-rules). They are recorded with the same attachment fields as a lock and must meet the same needed, proportionate, and reviewable tests, plus full criminal-process or equivalent protections and explicit duration limits, review cadence, and restoration conditions.
 
-**Named-gated-pathway distinction — governance-voting vs stakeholder-participation:**
+<a id="522-governance-voting-and-stakeholder-participation-pathways"></a>
+##### 5.2.2 Governance-voting and stakeholder-participation pathways
+
+*In plain terms: voting on collective rules and having a weighted say inside an existing system are different gated pathways. A lock on one does not cover the other, and neither removes a sentient's status as a Stakeholder.*
+
+The two named gated pathways are distinct:
 
 - **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Sixteen §4.1 Entitlement and eligibility](core_16.000_governance.md#41-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
 - **stakeholder-participation** covers stake-weighted influence, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Weight](core_05.055_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice). It does **not** erase [Stakeholder](core_05.055_band_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
 
-Where verified stakeholder-pathway corruption, capture, false-stake abuse, or coercive participation-weight gaming is the trigger, apply the [Stakeholder-Participation Standing Lock](#65-special-locks) under [§6.5 Special locks](#65-special-locks).
+<a id="523-special-locks-for-particular-findings"></a>
+##### 5.2.3 Special locks for particular findings
 
-Where a verified violation was carried out through an institution or enterprise, or an office in one, apply the [Institutional Authority Standing Lock](#65-special-locks) under [§6.5 Special locks](#65-special-locks). It closes the authority pathway only, and it attaches to a verified violation finding and never to a showing short of a verified violation finding.
+*In plain terms: some findings call for a special lock that has its own trigger and its own limits.*
 
-Where a verified violation finding is that the subject knowingly gave a materially false statement under oath, affirmation, an equivalent truth-duty, or a stated attestation to a forum, a verifying authority, a certifier, or a record custodian, apply the [Perjury Standing Lock](#65-special-locks) under [§6.5 Special locks](#65-special-locks). It closes the attestation and verifying pathways only. It restricts no testimony, and it attaches to a verified violation finding and never to a statement that is only doubted or contradicted.
+Apply the special lock whose trigger is met. Each is set out in [§6.5 Special locks](#65-special-locks):
 
-Where a final dissolution order ends a Chartered Party (or a Class P Operating Party that held no System Charter or Institutional Charter), apply the [Dissolution Reformation Lock](#65-special-locks) under [§6.5 Special locks](#65-special-locks). It attaches to the dissolved Chartered Party and its successor vehicles and never to a sentient by reason of belonging to it. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise it lifts on an independent restoration finding.
+- **Stakeholder-Participation Standing Lock:** the trigger is verified stakeholder-pathway corruption, capture, false-stake abuse, or coercive participation-weight gaming.
+- **Institutional Authority Standing Lock:** the trigger is a verified violation carried out through an institution or enterprise, or an office in one.
+  - It closes the authority pathway only.
+  - It attaches to a verified violation finding and never to a showing short of a verified violation finding.
+- **Perjury Standing Lock:** the trigger is a verified violation finding that the subject knowingly gave a materially false statement under oath, affirmation, an equivalent truth-duty, or a stated attestation to a forum, a verifying authority, a certifier, or a record custodian.
+  - It closes the attestation and verifying pathways only.
+  - It restricts no testimony.
+  - It attaches to a verified violation finding and never to a statement that is only doubted or contradicted.
+- **Dissolution Reformation Lock:** the trigger is a final dissolution order that ends a Chartered Party (or a Class P Operating Party that held no System Charter or Institutional Charter).
+  - It attaches to the dissolved Chartered Party and its successor vehicles and never to a sentient by reason of belonging to it.
+  - It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise it lifts on an independent restoration finding.
+
+<a id="524-purpose-of-a-lock"></a>
+##### 5.2.4 Purpose of a lock
+
+*In plain terms: a lock keeps the same harm from continuing or coming back by separating a sentient from the setting or gated pathway where the violation occurred.*
 
 The purpose of a lock is to reduce risk by removing a sentient from the environment, roles, or gated pathways — and, where needed, from contact with the sentients — where the violation occurred. That separation serves three purposes:
 
@@ -434,9 +488,47 @@ The purpose of a lock is to reduce risk by removing a sentient from the environm
 2. **Safety for affected parties** — keep those already harmed from further exposure; and
 3. **Risk reduction** — lower the chance the same pattern recurs while remedy and correction remain incomplete.
 
-A lock must be needed for risk reduction, proportionate, auditable, contestable, no broader than required, and time-bounded where the protected purpose permits. It attaches to a verified violation finding—not identity, status, accusation, generalized disfavor, or reputation. Character such as violence, coercion, cruelty, deception, concealment, intent, recurrence, negligence, duty, or evasion may shape scope, scrutiny, safeguards, and review only when separately verified; it never moves the slot.
+<a id="525-what-every-lock-must-meet"></a>
+##### 5.2.5 What every lock must meet
 
-Design and enforcement of these requirements is governed in [§6 Lock design and enforcement](#6-lock-design-and-enforcement): definition and attachment; proportionality and calibration; record visibility and escalation; then special violation rules and special locks stated in the same attachment fields. No-offset and contribution visibility remain governed by [Chapter Eleven §2.4 Linked standing records and no-offset bridge](core_11.000_standing_assessment.md#24-linked-standing-records-and-no-offset-bridge); this chapter applies that rule when designing and enforcing locks.
+*In plain terms: every lock has to be needed, proportionate, auditable, contestable, no broader than required, and time-bounded where it can be. It attaches to a verified violation finding, not to identity, status, accusation, or reputation.*
+
+Every lock must meet these requirements:
+
+- **A lock must be:**
+  - needed for risk reduction;
+  - proportionate;
+  - auditable;
+  - contestable;
+  - no broader than required; and
+  - time-bounded where the protected purpose permits.
+- **A lock attaches to a verified violation finding, and not to:**
+  - identity;
+  - status;
+  - accusation;
+  - generalized disfavor; or
+  - reputation.
+- **Character** is the kind of conduct involved in the violation, such as:
+  - violence;
+  - coercion;
+  - cruelty;
+  - deception;
+  - concealment;
+  - intent;
+  - recurrence;
+  - negligence;
+  - duty; or
+  - evasion.
+- **What character may do:** it may shape a lock's scope, scrutiny, safeguards, and review, but only when that character is itself separately verified. It never changes the slot, the Chapter Twelve number (1 to 9) that says how big the harm was.
+
+Design and enforcement of these requirements is governed in [§6 Lock design and enforcement](#6-lock-design-and-enforcement):
+
+- [§6.1 Definition and attachment](#61-definition-and-attachment);
+- [§6.2 Proportionality and calibration](#62-proportionality-and-calibration);
+- [§6.3 Record visibility and escalation](#63-record-visibility-and-escalation); and
+- [§6.4 Special violation rules](#64-special-violation-rules) and [§6.5 Special locks](#65-special-locks), stated in the same attachment fields.
+
+No-offset and contribution visibility remain governed by [Chapter Eleven §2.4 Linked standing records and no-offset bridge](core_11.000_standing_assessment.md#24-linked-standing-records-and-no-offset-bridge); this chapter applies that rule when designing and enforcing locks.
 
 <a id="53-voluntary-public-accountability-expression"></a>
 #### 5.3 Voluntary public accountability expression
@@ -467,17 +559,73 @@ Anti-constitutional misconduct specializations — including rules triggered by 
 
 *In plain terms: locks are cheap to issue; repair, restoration, and review are expensive to run. Left alone, the cheap half of this chapter keeps working while the expensive half starves. This subsection ties them together: an ordinary lock cannot attach until the remedy file for the same violation finding is actually open, and when an adopter's remedy or restoration work for a class of locks falls behind its clock, new ordinary locks in that class default to the lightest form and existing ones come up for review. The gravest locks are exempt so that flooding the remedy queue cannot spring them.*
 
-**Opened-remedy precondition.** Beyond interim protective measures under [Chapter Fifteen §5 Interim protection](core_15.000_forum.md#interim-protection) (*Interim protection*), including an [Interim Hold](core_05.035_band_accountability.md#interim-hold) (which needs no open remedy record because it is not a lock), a general standing lock under [§5.2 Prevention — general standing locks](#52-prevention--general-standing-locks) may not attach to a gated pathway until the [§5.1 Remedy and correction](#51-remedy-and-correction) integration record for the same verified violation finding is **open** — meaning at least the affected parties, the remedy owed, the responsible party, the funding source, and the start date are stated in plain view. Completion of remedy is not required for a lock to attach; an opened remedy record is. A lock attached without an opened remedy record is defective and must be corrected or narrowed to interim protective scope on the [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier window.
+This subsection has four parts:
 
-**Remedy-parity tripwire.** Adopters must publish, for each period and each lock class they administer, the number of general locks issued, remedies commenced, remedies completed, restorations decided, and reassessments pending. Where remedy commencement or restoration review for a lock class exceeds its Chapter Fifteen §6 (*Timely resolution, materiality tiers, and anti-delay discipline*) tier outer bound:
+- [§5.4.1 Opened-remedy precondition](#541-opened-remedy-precondition);
+- [§5.4.2 Remedy-parity tripwire](#542-remedy-parity-tripwire);
+- [§5.4.3 Exemptions from the tripwire](#543-exemptions-from-the-tripwire); and
+- [§5.4.4 Measuring remedy parity](#544-measuring-remedy-parity).
+
+<a id="541-opened-remedy-precondition"></a>
+##### 5.4.1 Opened-remedy precondition
+
+*In plain terms: a lock needs an open remedy file first. Finishing the remedy is not required.*
+
+A general standing lock under [§5.2 Prevention — general standing locks](#52-prevention--general-standing-locks) may not attach to a gated pathway until the [§5.1 Remedy and correction](#51-remedy-and-correction) integration record for the same verified violation finding is **open**:
+
+- **Open means** that at least the following are stated in plain view:
+  - the affected parties;
+  - the remedy owed;
+  - the responsible party;
+  - the funding source; and
+  - the start date.
+- **Not required:** completion of remedy. An opened remedy record is required.
+- **Not covered:** interim protective measures under [Chapter Fifteen §5 Interim protection](core_15.000_forum.md#interim-protection) (*Interim protection*), including an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which needs no open remedy record because it is not a lock.
+- **A defective lock:** a lock attached without an opened remedy record is defective and must be corrected or narrowed to interim protective scope on the [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier window.
+
+<a id="542-remedy-parity-tripwire"></a>
+##### 5.4.2 Remedy-parity tripwire
+
+*In plain terms: when remedy or restoration work runs late for a class of locks, new locks in that class default to the lightest form and existing ones come up for review.*
+
+Adopters must publish, for each period and each lock class they administer, the number of:
+
+- general locks issued;
+- remedies commenced;
+- remedies completed;
+- restorations decided; and
+- reassessments pending.
+
+Where remedy commencement or restoration review for a lock class exceeds its [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier outer bound:
 
 - new general locks in that class default to **open with safeguards** under [§8 Final standing effect](#8-final-standing-effect) unless the integration record documents a specific irreversible-harm or safety risk that requires **blocked**;
 - existing general locks in that class enter mandatory reassessment under [§9 Restoration and reassessment](#9-restoration-and-reassessment) on the same tier window; and
 - the capacity failure is recorded as a durability failure under [§10.2 Remedy-system durability](#102-remedy-system-durability) and routed under the [Chapter Fifteen §3 Transfer, consolidation, and coordination — continuity and anti-capture](core_15.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) capacity-failure rule, outside the family or system whose capacity is in question.
 
-**Exemptions.** The tripwire does not relax [§6.5 Special locks](#65-special-locks) special locks, locks attached to Violation Axis slot **7**, **8**, or **9** findings, or coercive or liberty-restricting safeguards under [§6.4 Special violation rules](#64-special-violation-rules). Filings verified as contest-pathway flooding under [§11.10 Contest-pathway or info-sphere flooding](#1110-contest-pathway-or-info-sphere-flooding) do not count toward the backlog that trips this rule.
+<a id="543-exemptions-from-the-tripwire"></a>
+##### 5.4.3 Exemptions from the tripwire
 
-**Measurement.** The ratio of locks issued to remedies commenced and restorations decided is a constitutional performance indicator under the [Constitutional Performance measurement family](core_05.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family). A ratio that widens over successive periods is evidence of [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) on the violation side and of a [§10 Enforcement realism and remedy systems](#10-enforcement-realism-and-remedy-systems) paper-pathway failure on the remedy side; it is not a neutral operations metric.
+*In plain terms: the gravest locks and the liberty-restricting safeguards are exempt, so flooding the remedy queue cannot spring them.*
+
+The tripwire does not relax:
+
+- special locks under [§6.5 Special locks](#65-special-locks);
+- locks attached to Violation Axis slot **7**, **8**, or **9** findings; or
+- coercive or liberty-restricting safeguards under [§6.4 Special violation rules](#64-special-violation-rules).
+
+Filings verified as contest-pathway flooding under [§11.10 Contest-pathway or info-sphere flooding](#1110-contest-pathway-or-info-sphere-flooding) do not count toward the backlog that trips this rule.
+
+<a id="544-measuring-remedy-parity"></a>
+##### 5.4.4 Measuring remedy parity
+
+*In plain terms: a widening gap between locks issued and remedies delivered is a warning sign, not neutral data.*
+
+The ratio of locks issued to remedies commenced and restorations decided is a constitutional performance indicator under the [Constitutional Performance measurement family](core_05.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family). A ratio that widens over successive periods is evidence of:
+
+- [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) on the violation side; and
+- a [§10 Enforcement realism and remedy systems](#10-enforcement-realism-and-remedy-systems) paper-pathway failure on the remedy side.
+
+The ratio is not a neutral operations metric.
 
 <a id="6-lock-design-and-enforcement"></a>
 ### 6. Lock design and enforcement
