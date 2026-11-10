@@ -261,7 +261,7 @@ A sentient's standing is affected only when a verified link to that sentient is 
 - concealment
 - feasible prevention capacity
 
-An institution's standing is affected when the institution is the subject being assessed, or when it is verified as the vehicle of the non-compliance pattern. Institution records remain separately traceable from individual sentient records. Apply those cases under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) and [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration). The finding profile helps route and audit. It does not itself set standing outcomes, slots, locks, gates, or remedies.
+An institution's standing is affected when the institution is the subject being assessed, or when the non-compliance pattern is verified as carried out through it. Institution records remain separately traceable from individual sentient records. Apply those cases under [Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) and [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration). The finding profile helps route and audit. It does not itself set standing outcomes, slots, locks, gates, or remedies.
 
 #### 3.4 Operational Constraints
 

@@ -92,7 +92,7 @@ The absence of overt deception or forcible act does **not** defeat anti-constitu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor; [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in the second bullet.
+- Upstream: [§2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor; [Chapter Thirteen §6.4.3](core_13.000_standing_integration.md#643-duty-to-resist) (13.000 §6.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in the second bullet.
 - Downstream: [§1](core_14.000_misconduct_designation.md#1-cross-chapter-discipline) (*Chapters Seventeen through Nineteen boundary*); [Article XX-A: Justice Objective and Scope](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Topic routing (mandatory read-with): [Chapter Thirteen §11.9](core_13.000_standing_integration.md#119-rights-floor-waiver-or-unconstitutional-contract-devices) (13.000 §11.9) (*Question 3 gated-pathway lock routing for the same fact family — general locks only*).
 - Read with: [Chapter Nineteen](core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity) (19.000) procedural-validity rules for adoption documents (contrast with ordinary association terms).
@@ -403,8 +403,8 @@ This subsection does **not** add an additional ACMD criterion beyond the **secti
   - [§2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*);
   - [§3](core_14.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*);
   - [§4](core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*);
-  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*Collective Accountability and Acquiescent Participation*);
-  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*Duty to Resist Unlawful or Unconstitutional Instructions*).
+  - [Chapter Thirteen §6.4.4](core_13.000_standing_integration.md#644-collective-accountability) (13.000 §6.4.4) (*Collective Accountability and Acquiescent Participation*);
+  - [Chapter Thirteen §6.4.3](core_13.000_standing_integration.md#643-duty-to-resist) (13.000 §6.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*).
 - Integrity and governance context: [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) for Integrity-family routing where final Chapter Fourteen designation is the primary stake; [Chapter Sixteen](core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship) (16.000) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor where command conduct affects protected rights, challenge, review, or remedy.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -591,7 +591,7 @@ This subsection does **not** add an additional ACMD criterion beyond the **secti
   - [§4](core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*);
   - [Chapter One §3.2](core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration) (1.000 §3.2) (*Recognition, Reinforcement, and Aspiration*);
   - [Chapter One §19](core_01.010_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) (1.010 §19) (*Incentive Alignment and System Capture*);
-  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*misaligned-reward reporting, forfeiture, correction, and records*);
+  - [Chapter Thirteen §6.4.2](core_13.000_standing_integration.md#642-misaligned-rewards) (13.000 §6.4.2) (*misaligned-reward reporting, forfeiture, correction, and records*);
   - [Chapter Thirteen §3](core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity) (13.000 §3) (*Standing integration*).
 - Related patterns:
   - [§5.5](#55-bribery-and-improper-benefit-exchange) where benefit exchange or corrupt linkage is material;
@@ -605,7 +605,7 @@ This subsection does **not** add an additional ACMD criterion beyond the **secti
   - [Protected Reporting Retaliation and Access Interference](core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference),
   - [System Capture](core_05.040_band_continuity.md#system-capture), and
   - [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint);
-  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4), subject to
+  - [Chapter Thirteen §6.4.2 Misaligned rewards](core_13.000_standing_integration.md#642-misaligned-rewards) (13.000 §6.4.2), subject to
   - [Article XXVIII-A](core_06.020_rights_part_e.md#incentive-alignment-adoption-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment Adoption Transition carve-out during the Adoption Transition.
 
 </details>
@@ -1183,7 +1183,7 @@ Named patterns elsewhere in this section are **modes** of obstruction, not compe
 - [§5.9 Infrastructure denial, destruction, or dependency cutoff conduct](#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) — infrastructure denial that cuts audit, remedy, or verification pathways;
 - [§5.10 Forum recusal failure and biased panel participation](#510-forum-recusal-failure-and-biased-panel-participation) — forum-integrity capture of contestability.
 
-The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 2** criteria. Chapter Twelve alone measures the Violation Axis slot; obstruction character never raises it. Chapter Thirteen alone attaches ordinary gated pathway locks and, after final ACMD, the Anti-Constitutional Trust Lock.
+The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 2** criteria. Chapter Twelve alone measures the Violation Axis slot (see [Chapter Twelve §2.2.2 How the way a harm was caused is recorded](core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded)). Chapter Thirteen alone attaches ordinary gated pathway locks and, after final ACMD, the Anti-Constitutional Trust Lock.
 
 This subsection does **not**:
 - add an additional ACMD criterion beyond the **section 2** set;

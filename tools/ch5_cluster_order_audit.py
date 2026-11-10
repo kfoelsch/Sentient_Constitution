@@ -186,6 +186,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Standing Effect",
         "Standing Record",
         "Gated Pathway",
+        "Influence Pathway",
         "Competency Bar",
         "Competency Clearance",
         "Standing Lock",

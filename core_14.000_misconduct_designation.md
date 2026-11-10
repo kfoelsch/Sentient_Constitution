@@ -414,9 +414,9 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
 - Read with:
   - [Chapter Thirteen §5.2](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2) (*Prevention — general standing locks*);
   - [Chapter Thirteen §6.1](core_13.000_standing_integration.md#61-definition-and-attachment) (13.000 §6.1) (*Definition and attachment*);
-  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*Coercive or liberty-restricting safeguards*);
+  - [Chapter Thirteen §6.4.5](core_13.000_standing_integration.md#645-coercive-or-liberty-restricting-safeguards) (13.000 §6.4.5) (*Coercive or liberty-restricting safeguards*);
   - [Article XX-B](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) (*joint requirements, **Imprisonment for violence**, and duration, review, restoration, and re-evaluation discipline*);
-  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*Required imprisonment for verified violence*).
+  - [Chapter Thirteen §6.4.5](core_13.000_standing_integration.md#645-coercive-or-liberty-restricting-safeguards) (13.000 §6.4.5) (*Required imprisonment for verified violence*).
 
 </details>
 
@@ -440,7 +440,7 @@ After final designation under **section 3** with **section 4** safeguards met:
   - It applies to repeated or sustained patterns assessed as a unified incident under **section 2**.
   - **Section 3** decides whether the misconduct is verified and how serious it is; this subsection decides whether imprisonment is required as a liberty-restricting safeguard.
   - Imprisonment must satisfy:
-    - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (*Coercive or liberty-restricting safeguards*);
+    - [Chapter Thirteen §6.4.5](core_13.000_standing_integration.md#645-coercive-or-liberty-restricting-safeguards) (*Coercive or liberty-restricting safeguards*);
     - **Article XX-B** (*Restriction Floors*) joint requirements;
     - individualized attribution, and challenge and appeal protections; and
     - **Article XX-B** (*Restriction Floors*) duration, review, restoration, and re-evaluation discipline in **Chapter Six Part D**.

@@ -334,10 +334,10 @@ This limit applies when a forum with jurisdiction has ordered an [Interim Hold](
 <a id="24-third-limit-a-lock-on-the-operating-party-itself"></a>
 #### 2.4 Third limit: a lock on the Operating Party itself
 
-A lock can sit on an Operating Party and not only on a sentient. The gate then bars what the lock's gated pathway names, in that Operating Party and in its successors, controlled entities, and nominee- or shell-held vehicles. It does not bar any other Operating Party.
+A lock can sit on an Operating Party and not only on a sentient. The gate then bars what the lock's gated pathway names, in that Operating Party and in its successors, controlled entities, and nominee- or shell-held entities. It does not bar any other Operating Party.
 
-- A lock set by a final anti-constitutional-misconduct designation (ACMD): the [Anti-Constitutional Trust Lock](core_13.000_standing_integration.md#65-special-locks) does this where the final ACMD names an institution, successor vehicle, or controlled entity. The gate then bars what the lock's gated pathway names, in the Chartered Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
-- A dissolved Chartered Party: a final dissolution order under **CI-13.210 §4** (*Dissolution*) sets a [Dissolution Reformation Lock](core_13.000_standing_integration.md#65-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Thirteen §9 Restoration and reassessment](core_13.000_standing_integration.md#9-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its violation finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
+- A lock set by a final anti-constitutional-misconduct designation (ACMD): the [Anti-Constitutional Trust Lock](core_13.000_standing_integration.md#65-special-locks) does this where the final ACMD names an institution, successor entity, or controlled entity. The gate then bars what the lock's gated pathway names, in the Chartered Party and in its successors, controlled entities, and nominee- or shell-held entities.
+- A dissolved Chartered Party: a final dissolution order under **CI-13.210 §4** (*Dissolution*) sets a [Dissolution Reformation Lock](core_13.000_standing_integration.md#65-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held entities, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Thirteen §9 Restoration and reassessment](core_13.000_standing_integration.md#9-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its violation finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
 
 None of the three gates stops a new Operating Party from forming, publishing its System Charter or Institutional Charter, or getting to work. The only party they stop is one that is itself under a lock, such as a dissolved Chartered Party trying to come back. The three gates are applied at the formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)).
 
@@ -922,13 +922,13 @@ A dissolved Chartered Party that comes back is handled as follows:
   - the dissolved Chartered Party, re-formed;
   - its successor;
   - a controlled entity of it;
-  - a vehicle held through a nominee or a shell; or
+  - an entity held through a nominee or a shell; or
   - one operation with it.
 - **Changing the holder:** Changing the holder of an office does not resolve it, because the lock follows the activity and the control and not the name or the holder ([Chapter Thirteen §10.4 Anti-evasion and look-through authority](core_13.000_standing_integration.md#104-anti-evasion-and-look-through-authority)).
-- **Who decides:** The forum with jurisdiction decides whether the lock reaches the vehicle, on verified facts, and the party that says it does bears the burden.
+- **Who decides:** The forum with jurisdiction decides whether the lock reaches that entity, on verified facts, and the party that says it does bears the burden.
 - **Own statement:** The Chartered Party's own statement that it is new does not decide it.
 - **Other Operating Parties:** The lock does not reach a different Operating Party, unless it is in fact one operation with the dissolved one.
-- **Deliberate evasion:** Re-forming, reviving, or running a dissolved Chartered Party under another name, or through a successor, controlled entity, or nominee- or shell-held vehicle, in order to get around the lock is a form of anti-constitutional misconduct. A forum may designate it under [Chapter Fourteen Part A](core_14.000_misconduct_designation.md#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) on verified facts.
+- **Deliberate evasion:** Re-forming, reviving, or running a dissolved Chartered Party under another name, or through a successor, controlled entity, or nominee- or shell-held entity, in order to get around the lock is a form of anti-constitutional misconduct. A forum may designate it under [Chapter Fourteen Part A](core_14.000_misconduct_designation.md#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) on verified facts.
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 Response and resolution windows
@@ -955,7 +955,7 @@ If a failure is still not resolved when the resolution window ends:
   - receivership or structural separation; and
   - as a last step, dissolution.
 - **The forum decides:** Only the forum with jurisdiction decides which step to take, if any. No step follows automatically from a missed window or a failed finding. Whichever step is taken, the continuity safeguards keep services, records, and challenge rights in place.
-- **Dissolution:** A dissolution carries a Dissolution Reformation Lock, so the dissolved Chartered Party and its successor vehicles may not be re-formed, and the lock is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([§2 The Right to Form, and Five Narrow Limits](#2-the-right-to-form-and-five-narrow-limits)).
+- **Dissolution:** A dissolution carries a Dissolution Reformation Lock, so the dissolved Chartered Party and its successor entities may not be re-formed, and the lock is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([§2 The Right to Form, and Five Narrow Limits](#2-the-right-to-form-and-five-narrow-limits)).
 - **Not a substitute:** Dissolution never replaces ACMD under Chapter Fourteen or the accountability of the responsible sentients.
 
 <a id="68-fairness-to-the-holder"></a>

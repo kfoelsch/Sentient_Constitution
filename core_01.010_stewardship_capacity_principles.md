@@ -958,7 +958,7 @@ The burden this duty places on a steward who carries consequential authority is 
   - [5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy); [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing); [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
 - Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- Downstream: [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions) (13.000 §6.4) (*Duty to resist — violation rule and standing effects*); [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
+- Downstream: [Chapter Thirteen §6.4](core_13.000_standing_integration.md#643-duty-to-resist) (13.000 §6.4) (*Duty to resist — violation rule and standing effects*); [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
 
 </details>
 
@@ -1032,7 +1032,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist*) applies this duty to standing effects, and [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
+[Chapter Thirteen §6.4](core_13.000_standing_integration.md#643-duty-to-resist) (*Duty to resist*) applies this duty to standing effects, and [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
 
 <br>
 
@@ -1743,7 +1743,7 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
   - settlement, indemnity, insurance, or immunity; or
   - comparable arrangements.
 
-**Misaligned reward consequences.** Material rewards obtained through prohibited reward pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Thirteen §6.4 Reporting duty and exclusions](core_13.000_standing_integration.md#64-special-violation-rules), [§6.4 Forfeiture and retention](core_13.000_standing_integration.md#64-special-violation-rules), and [§6.4 Correction, records, and routing](core_13.000_standing_integration.md#64-special-violation-rules).
+**Misaligned reward consequences.** Material rewards obtained through prohibited reward pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Thirteen §6.4.2 Reporting duty and exclusions](core_13.000_standing_integration.md#642-misaligned-rewards), [§6.4.2 Forfeiture and retention](core_13.000_standing_integration.md#642-misaligned-rewards), and [§6.4.2 Correction, records, and routing](core_13.000_standing_integration.md#642-misaligned-rewards).
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 Stewardship and Operator Application
@@ -2006,7 +2006,7 @@ Concentrated or obscured control structures that materially undermine any of the
 **Misaligned reward correction** (defined in [Chapter Five](core_05.045_band_integrative.md#misaligned-reward-correction)):
 
 - Once misalignment is verified, material rewards from misaligned or corrupt reward pathways must not be kept as silent standing credit or shielded benefit.
-- [Chapter Thirteen §6.4 Special violation rules](core_13.000_standing_integration.md#64-special-violation-rules) governs forfeiture, proportionate clawback, knowing-acceptance reporting, and correction.
+- [Chapter Thirteen §6.4.2 Misaligned rewards](core_13.000_standing_integration.md#642-misaligned-rewards) governs forfeiture, proportionate clawback, knowing-acceptance reporting, and correction.
 - How good or bad the verified contribution or violation was is rated under [Chapter Twelve §1 Question 2 — how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it), not here.
 
 <a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
