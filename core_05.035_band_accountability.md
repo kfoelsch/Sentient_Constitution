@@ -43,7 +43,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.010 §17.5),
   - [§17.1 Shared Stewardship Standard](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard), and
   - [§17.2 Alignment Under Pressure](core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure);
-  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions) (13.000 §6.4) (*Duty to resist — violation rule and standing effects*);
+  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#643-duty-to-resist) (13.000 §6.4) (*Duty to resist — violation rule and standing effects*);
   - [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
 - Read with:
   - [Stewardship](core_05.040_band_continuity.md#stewardship),
@@ -2948,7 +2948,7 @@ The following limits also apply:
     - accident or unforeseeable harm without knowledge, intent, or reasonably avoidable disregard;
     - suffering that is necessary and proportionate to a legitimate end, including care that hurts in order to heal; or
     - ecosystem or biosphere questions with no cruelty or welfare dimension — those belong under [Natural Systems Standing](core_05.055_band_participation.md#natural-systems-standing).
-  - **Standing boundary:** As for [Cruelty](core_05.035_band_accountability.md#cruelty): when verified as conduct character on a [violation standing record](core_05.035_band_accountability.md#standing-record), Animal Cruelty may orient prevention, safeguards, and non-degrading remedy. It does not assign or move the Violation Axis slot.
+  - **Standing boundary:** As for [Cruelty](core_05.035_band_accountability.md#cruelty): when verified as conduct character on a [violation standing record](core_05.035_band_accountability.md#standing-record), Animal Cruelty may orient prevention, safeguards, and non-degrading remedy.
 <a id="animal-cruelty-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Flourishing measurement family](core_05.015_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family). Use them here to ask what the animal actually experienced and whether suffering was the point, or was piled on or allowed beyond necessity and proportionality.
@@ -3591,6 +3591,7 @@ Where admission scope is met, this cluster is the shared home for the Chapter Fi
 - [Standing Effect](core_05.035_band_accountability.md#standing-effect);
 - [Standing Record](core_05.035_band_accountability.md#standing-record);
 - [Gated Pathway](core_05.035_band_accountability.md#gated-pathway);
+- [Influence Pathway](core_05.035_band_accountability.md#influence-pathway);
 - [Competency Bar](core_05.035_band_accountability.md#competency-bar);
 - [Competency Clearance](core_05.035_band_accountability.md#competency-clearance);
 - [Standing Lock](core_05.035_band_accountability.md#standing-lock);
@@ -3650,7 +3651,7 @@ See **Anti-Segmentation Principle**.
     - oversight;
     - recognition;
     - **governance-voting** (*legitimacy-mechanism / foundational governance vote — not stake-weighted stakeholder voice*);
-    - **stakeholder-participation** (*stake-weighted influence and binding stakeholder choice within an already-authorized domain — not erasure of stakeholder status*); and
+    - **stakeholder-participation** (*stake-weighted vote and binding stakeholder choice within an already-authorized domain — not erasure of stakeholder status*); and
     - comparable gated pathways recorded under [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks).
   - It is not:
     - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing), which every sentient has;
@@ -3861,7 +3862,7 @@ See **Anti-Segmentation Principle**.
     - Identify the finding authority or record basis, affected subject and scope, applicable violation-nature classification, evidence, contest path, and whether the violation finding is final, under review, superseded, resolved, or remediated for standing.
     - Record the verified finding basis and violation-nature classification together.
     - Include verified impact and resulting slot, applicable character descriptors or supplements, scope, review status, and any Chapter Fourteen designation.
-    - Negligence, concealment, coercion, intent, response, and similar descriptors do not move the numeric slot.
+    - Conduct-character descriptors do not move the numeric slot; the rule is in [Chapter Twelve §2.2.2 How the way a harm was caused is recorded](core_12.000_standing_measurement.md#222-how-the-way-a-harm-was-caused-is-recorded).
     - Apply Chapter Eleven's no-offset rule and keep Violation Axis inputs separate from [Contribution Nature](core_05.035_band_accountability.md#contribution-nature).
     - For adverse standing effect, a violation finding without an applicable violation-nature classification is incomplete, and so is a violation-nature label without verified violation findings.
     - Where material, read with [Harm](core_05.035_band_accountability.md#harm), [Cruelty](core_05.035_band_accountability.md#cruelty), [Materiality](core_05.050_band_oversight.md#materiality), [Constitutional Constraint](core_05.045_band_integrative.md#constitutional-constraint), and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy).
@@ -4084,11 +4085,12 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:**
     - A specific role, privilege, or kind of access that a [Standing Effect](core_05.035_band_accountability.md#standing-effect) can open, open with safeguards, limit, or block.
-    - The types are trust, role, authority, credit, oversight, recognition, **governance-voting**, and **stakeholder-participation**, as [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) lists them.
+    - The types are trust, role, authority, credit, oversight, recognition, [influence](core_05.035_band_accountability.md#influence-pathway), **governance-voting**, and **stakeholder-participation**, as [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) lists them.
     - It is the unit Chapter Thirteen works in. A [Competency Bar](core_05.035_band_accountability.md#competency-bar) is set for it, a [Standing Lock](core_05.035_band_accountability.md#standing-lock) closes it, and one final standing effect is stated for each.
     - It is identified by what it gates, so an effect on one gated pathway does not carry over to another.
+    - It is not itself a Rights-Floor minimum. Where Chapter Six sets conditions on a gated pathway, such as the governance vote under [**Article X-B**](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*), a lock may close it only on those conditions.
   - **Out of scope:**
-    - the Rights Floor, which does not depend on standing, including inherent dignity, equal moral standing, survival-critical access, and the challenge, review, appeal, and remedy routes;
+    - the Rights-Floor minimums, which do not depend on standing: inherent dignity, equal moral standing, survival-critical access, and the challenge, review, appeal, and remedy routes;
     - a sentient's overall standing, reputation, or rank; and
     - the [Standing Record](core_05.035_band_accountability.md#standing-record) itself, which states what happened and how good or bad it was and does not state what is gated.
 <a id="gated-pathway-a"></a>
@@ -4098,13 +4100,67 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:**
     - Check that each standing effect names the specific gated pathway it applies to.
     - Check that no effect on one gated pathway is carried to another, or combined with others into a profile, rank, or score.
-    - Check that no Rights-Floor protection is treated as a gated pathway.
+    - Check that no Rights-Floor minimum is treated as a gated pathway.
 <a id="gated-pathway-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - state a standing effect without naming the gated pathway it applies to;
-    - treat a Rights-Floor protection, including a challenge, review, appeal, or remedy route, as a gated pathway that standing can close; or
+    - treat a Rights-Floor minimum, including a challenge, review, appeal, or remedy route, as a gated pathway that standing can close; or
     - transfer an effect from one gated pathway to another, or combine effects across gated pathways into a profile, rank, or score.
+
+---
+
+<a id="influence-pathway"></a>
+
+##### Influence Pathway
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Thirteen §6.4](core_13.000_standing_integration.md#646-influence-pathway-locks) (13.000 §6.4) (*influence-pathway locks*).
+- Read with: the
+  - [Gated Pathway](core_05.035_band_accountability.md#gated-pathway),
+  - [Standing Lock](core_05.035_band_accountability.md#standing-lock),
+  - [Interested Party](core_05.035_band_accountability.md#interested-party),
+  - [Insider Advantage](core_05.035_band_accountability.md#insider-advantage),
+  - [System Capture](core_05.040_band_continuity.md#system-capture),
+  - [Anti-Capture](core_05.040_band_continuity.md#anti-capture),
+  - [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*), and
+  - [Chapter Fourteen §5.5](core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (14.005 §5.5) (*Bribery and improper benefit exchange*).
+
+</details>
+
+<br>
+
+*In plain terms: an influence pathway is a way of shaping a decision someone else makes, other than by speaking openly on the matter's record. It runs through contact, access, favors, manufactured support, or pressure. A lock can close it. A lock never closes open advocacy, petition, testimony, or defense.*
+
+- **What it is**
+  - **In scope:**
+    - A [Gated Pathway](core_05.035_band_accountability.md#gated-pathway) by which a sentient seeks to shape a decision made by a body, office-holder, or system that decides, reviews, audits, procures, selects, or supports a decision, other than by open advocacy on that matter's open Forum Case Record.
+    - It has five kinds of route:
+      - **Contact:** influence contact under [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
+      - **Access:** private channels, briefings, advisory or liaison seats, insider information, introductions, and brokered meetings.
+      - **Benefit exchange:** offering, promising, giving, soliciting, accepting, or routing anything of value tied to a matter, as [Chapter Fourteen §5.5](core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Bribery and improper benefit exchange*) describes it. That covers a quid pro quo and non-financial value such as gifts, hospitality, travel, favors, jobs and prospective roles, contracts, endorsements, information, threat-relief, and favorable treatment, whether given directly, through an intermediary, affiliate, or shell, or deferred until after the decision.
+      - **Manufactured support:** fabricated voices, front groups, bulk campaigns passed off as support, undisclosed sponsorship of seemingly independent experts or research, and steering a system on the deciding side.
+      - **Pressure:** threats and retaliation.
+    - Contact and access are those of an [Interested Party](core_05.035_band_accountability.md#interested-party). Benefit exchange, manufactured support, and pressure reach any sentient who takes part in them, including anyone who receives or routes the benefit.
+    - A route worked through an intermediary, affiliate, shell, successor, or system acting for the sentient is the sentient's own.
+  - **Out of scope:**
+    - open advocacy, petition, public comment, testimony, defense, whistleblowing, and filings on an open Forum Case Record, and the access of an affected sentient to any body that must hear them;
+    - transparent, lawful, constitutionally aligned exchanges of value that [Chapter Fourteen §5.5](core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Bribery and improper benefit exchange*) excludes from bribery; and
+    - the conduct rules in [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) and [Chapter Fourteen §5.5](core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Bribery and improper benefit exchange*), which say what is wrongful. This entry names only what a lock can close.
+<a id="influence-pathway-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether a lock on an influence pathway closed the routes it names and left open advocacy available.
+
+    **Primary assessment:** Evaluate whether:
+    1. the lock names its form and the bodies, office-holders, or systems it covers;
+    2. routes through intermediaries, affiliates, shells, successors, and systems were closed along with the sentient's own; and
+    3. open advocacy, petition, public comment, testimony, defense, and whistleblowing stayed available.
+<a id="influence-pathway-c"></a>
+- **What must hold**
+  - **Primary failure:** Treat an open-record filing, petition, public comment, testimony, defense, or whistleblowing as influence that a lock closes.
+  - **Secondary failure:** Let a sentient under a lock keep a closed route by working it through an intermediary, affiliate, shell, successor, or system acting for it.
 
 ---
 
@@ -4246,7 +4302,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: a Standing Lock temporarily limits a gated pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded gated pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.*
+*In plain terms: a Standing Lock temporarily limits a gated pathway — trust, roles, credit, recognition, authority, influence, governance voting, stakeholder participation, or a comparable recorded gated pathway — because of a verified, unresolved violation. It cannot reduce dignity or the Rights-Floor minimums. No lock on a sentient is permanent.*
 
 - **What it is**
   - **In scope:**
@@ -4258,16 +4314,17 @@ See **Anti-Segmentation Principle**.
       - recognition;
       - authority;
       - oversight;
+      - influence;
       - **governance-voting**; or
       - **stakeholder-participation**.
     - A lock on taking or exercising governing, controlling, or owning authority in an institution or enterprise, after a verified violation carried out through one, is the Institutional Authority Standing Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks).
-    - A lock on the return of an Operating Party that a final dissolution order has ended is the Dissolution Reformation Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks). It sits on the dissolved Chartered Party and its successor vehicles and not on a sentient. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise restorable.
+    - A lock on the return of an Operating Party that a final dissolution order has ended is the Dissolution Reformation Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks). It sits on the dissolved Chartered Party and its successor entities and not on a sentient. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise restorable.
     - A lock on the attestation and verifying pathways, after a verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, is the Perjury Standing Lock under [Chapter Thirteen §6.5 Special locks](core_13.000_standing_integration.md#65-special-locks). It restricts no testimony.
     - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05.055_band_participation.md#stakeholder) status, or a substitute for the other gated pathway.
   - **Out of scope:**
     - A lock from unverified allegations. The interim measure on specific verified facts, short of a violation finding, is an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which is not a lock.
     - A permanent lock without review or remediation path.
-    - A dignity or Rights-Floor cut.
+    - A dignity cut or a reduction of the Rights-Floor minimums.
     - Automatic retaliation framed as a standing lock.
 <a id="standing-lock-a"></a>
 - **How to measure and assess**
@@ -4283,7 +4340,7 @@ See **Anti-Segmentation Principle**.
     - impose a lock from unverified allegations;
     - make it permanent without review or a remediation path;
     - extend it beyond the verified scope; or
-    - use it to extinguish dignity, equal moral standing, challenge access, remedy access, or baseline Rights-Floor protection.
+    - use it to extinguish dignity, equal moral standing, challenge access, remedy access, or the Rights-Floor minimums.
 
 ---
 
@@ -4302,15 +4359,15 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: after a verified violation finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.*
+*In plain terms: after a verified violation finding that a sentient materially used an institution, enterprise, or office to carry out a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.*
 
 - **What it is**
-  - **In scope:** The special lock attached to a verified, unresolved or materially unremedied finding of institutional vehicle wrongdoing. Its gated pathway, look-through scope, protected interests, corrective conditions, independent review route, and gate effect are those stated in Chapter Thirteen §6.5 Special locks.
-  - **Out of scope:** A restriction on forming or operating an institution as such, on unrelated authority pathways, or on wages, participation, protected reporting, survival access, or Rights-Floor protections. An Interim Hold on specific verified facts is not this lock and creates no standing effect.
+  - **In scope:** The special lock attached to a verified, unresolved or materially unremedied finding of wrongdoing carried out through an institution or enterprise. Its gated pathway, look-through scope, protected interests, corrective conditions, independent review route, and gate effect are those stated in Chapter Thirteen §6.5 Special locks.
+  - **Out of scope:** A restriction on forming or operating an institution as such, on unrelated authority pathways, or on wages, participation, protected reporting, survival access, or the Rights-Floor minimums. An Interim Hold on specific verified facts is not this lock and creates no standing effect.
 - **How to measure and assess**
   - **Primary measure:** The Violation Axis and Accountability and Timeliness measurement families, based on verified violation findings.
 
-    **Primary assessment:** Apply the attachment and evidence requirements for special locks. Name the verified institutional vehicle, the subject's role, the authority pathway, the risk of recurrence, the corrective conditions, and the independent review route. Assess restoration only under Chapter Thirteen §6.5 Special locks.
+    **Primary assessment:** Apply the attachment and evidence requirements for special locks. Name the verified institution or enterprise used, the subject's role, the authority pathway, the risk of recurrence, the corrective conditions, and the independent review route. Assess restoration only under Chapter Thirteen §6.5 Special locks.
 - **What must hold**
   - **Primary failure:** It is non-compliant to attach the lock without a verified violation finding, extend it beyond the named authority pathway, use it as a gate on forming or operating a body, or lift or narrow it without the independent restoration finding and reasons Chapter Thirteen requires.
 
@@ -4552,7 +4609,7 @@ See **Anti-Segmentation Principle**.
   - **In scope:**
     - A unified incident made up of continuing, repeated, or systematically reinforced conduct whose combined verified impact reaches Chapter Twelve slot 7, 8, or 9.
     - It may then undergo Chapter Fourteen designation review.
-    - Material rollback, blocked or chilled challenge rights, Rights-Floor degradation, correction delayed beyond practical remedy, an equivalent structural workaround, institutional scale, capture, and durability may describe the pattern and support designation analysis, but they do not move the numeric slot.
+    - Material rollback, blocked or chilled challenge rights, Rights-Floor degradation, correction delayed beyond practical remedy, an equivalent structural workaround, institutional scale, capture, and durability may describe the pattern and support designation analysis.
   - **Out of scope:**
     - ordinary repeated defects without combined constitutional harm reaching Chapter Twelve slot 7, 8, or 9; and
     - isolated one-off events without continuity or systematic reinforcement.

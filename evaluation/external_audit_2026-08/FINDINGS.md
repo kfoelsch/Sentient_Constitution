@@ -130,7 +130,7 @@ Calling this a Rights-of-Nature constitution is false. Calling it a weak environ
 - **Certification-before-standing:** a certification record does not apply standing effects.
 - **Cross-forum anti-self-judging:** a forum family cannot be the sole final merits forum for claims about its own capture or bias.
 - **Auditability as a Rights Floor** (Article XV) plus CJS-5.110 §3 and CJS-5.115 §3 as the how/when home.
-- **Duty to resist** unlawful or unconstitutional instructions ([Chapter Thirteen §5.4](../../core_13.000_standing_integration.md#64-duty-to-resist-unlawful-or-unconstitutional-instructions)).
+- **Duty to resist** unlawful or unconstitutional instructions ([Chapter Thirteen §5.4](../../core_13.000_standing_integration.md#643-duty-to-resist)).
 - **No silent edition swap** ([Chapter Twenty §3](../../core_20.000_incorporation.md#3-safeguards)).
 - Emergency continuation burden and Article XXIV-C anti-delay clocks.
 

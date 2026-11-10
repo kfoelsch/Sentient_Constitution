@@ -372,7 +372,7 @@ Adoption Transition governance exists to secure continuity and non-regression. I
   - [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations);
-  - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*misaligned-reward forfeiture and reporting limited during the Adoption Transition by this Article*);
+  - [Chapter Thirteen §6.4.2](core_13.000_standing_integration.md#642-misaligned-rewards) (13.000 §6.4.2) (*misaligned-reward forfeiture and reporting limited during the Adoption Transition by this Article*);
   - [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000).
 
 </details>
@@ -446,7 +446,7 @@ This Article sets out phased adoption and how the Rights-Floor minimums become e
   
   Archival mechanics for deprecation, retirement, rollback, migration, or replacement are governed by [**CS-6.350 §8**](corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-8-preservation-during-adoption-transition) (*Preservation during Adoption Transition*). This is the [Chapter One §13.1 default interim posture](core_01.005_interaction_interpretation.md#default-interim-posture) — freeze irreversible steps — applied to the one irreversible step that legacy operation treats as routine. Storage cost, licensing convenience, or product-cycle framing does not satisfy **Necessity** against it. Where retention itself creates a documented Safety risk, the least-restrictive compatible measure is sealed custody under independent control, not destruction.
 <a id="incentive-alignment-adoption-transition-carve-out"></a>
-- **Incentive-alignment Adoption Transition exception:** The [Chapter Thirteen §6.4 Adoption Transition exception: misaligned rewards](core_13.000_standing_integration.md#64-adoption-transition-exception-misaligned-rewards) reporting and forfeiture rules for misaligned rewards are not triggered during approved Adoption Transition phases solely because a shared system is not yet alignment-certified or not yet fully aligned, and only on the terms stated there.
+- **Incentive-alignment Adoption Transition exception:** The [Chapter Thirteen §6.4.2 Misaligned rewards](core_13.000_standing_integration.md#642-adoption-transition-exception-misaligned-rewards) reporting and forfeiture rules for misaligned rewards are not triggered during approved Adoption Transition phases solely because a shared system is not yet alignment-certified or not yet fully aligned, and only on the terms stated there.
 #### Article XXVIII-B: Adoption Transition Authority Limits and Reauthorization
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

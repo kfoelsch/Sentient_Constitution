@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Eighteen](../../core_18.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **774** of **1226** headings carry a gloss (63%).
+Coverage: **804** of **1254** headings carry a gloss (64%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **774** of **1226** headings carry a gloss (63%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05.020_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (88/100 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (89/101 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (63/124 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
@@ -38,7 +38,7 @@ Coverage: **774** of **1226** headings carry a gloss (63%).
 - [CHAPTER TEN: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-ten-institutional-alignment-certification) — `core_10.000_institutional_alignment_certification.md` (24/51 glossed)
 - [CHAPTER ELEVEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-eleven-standing-records--question-1-what-happened) — `core_11.000_standing_assessment.md` (8/43 glossed)
 - [CHAPTER TWELVE: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) — `core_12.000_standing_measurement.md` (10/36 glossed)
-- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (36/60 glossed)
+- [CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION](#chapter-thirteen-standing-effects-and-integration) — `core_13.000_standing_integration.md` (65/87 glossed)
 - [CHAPTER FOURTEEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-part-a-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (8/8 glossed)
 - [CHAPTER FOURTEEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) — `core_14.005_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER FIFTEEN: FORUMS AND JURISDICTION](#chapter-fifteen-forums-and-jurisdiction) — `core_15.000_forum.md` (9/29 glossed)
@@ -1239,7 +1239,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 88/100 headings glossed
+Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 89/101 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1739,6 +1739,12 @@ a gated pathway is a specific role, privilege, or kind of access that a standing
 
 [Source](../../core_05.035_band_accountability.md#gated-pathway)
 
+###### Influence Pathway
+
+an influence pathway is a way of shaping a decision someone else makes, other than by speaking openly on the matter's record. It runs through contact, access, favors, manufactured support, or pressure. A lock can close it. A lock never closes open advocacy, petition, testimony, or defense.
+
+[Source](../../core_05.035_band_accountability.md#influence-pathway)
+
 ###### Competency Bar
 
 a Competency Bar is the published, role-specific standard for a gated pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.
@@ -1753,13 +1759,13 @@ Competency Clearance is the standing-effect result that says verified readiness 
 
 ###### Standing Lock
 
-a Standing Lock temporarily limits a gated pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded gated pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.
+a Standing Lock temporarily limits a gated pathway — trust, roles, credit, recognition, authority, influence, governance voting, stakeholder participation, or a comparable recorded gated pathway — because of a verified, unresolved violation. It cannot reduce dignity or the Rights-Floor minimums. No lock on a sentient is permanent.
 
 [Source](../../core_05.035_band_accountability.md#standing-lock)
 
 ###### Institutional Authority Standing Lock
 
-after a verified violation finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.
+after a verified violation finding that a sentient materially used an institution, enterprise, or office to carry out a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.
 
 [Source](../../core_05.035_band_accountability.md#institutional-authority-standing-lock)
 
@@ -5429,7 +5435,7 @@ two worked examples, **vignettes 8 and 9**, measure a verified contribution and 
 
 ## CHAPTER THIRTEEN: STANDING EFFECTS AND INTEGRATION
 
-Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 36/60 headings glossed
+Source file: [`core_13.000_standing_integration.md`](../../core_13.000_standing_integration.md) · 65/87 headings glossed
 
 #### 1. Purpose and Role
 
@@ -5457,7 +5463,7 @@ if one track has no verified standing record, the decision runs on the other tra
 
 ##### 2.3 Facts and measurements stay fixed
 
-this chapter takes the facts and the ratings exactly as Chapters Eleven and Twelve left them. It cannot reopen them, pick a rating to get a result, or add the two tracks into one score.
+this chapter takes the facts and the ratings exactly as Chapters Eleven and Twelve left them. Nothing in this chapter changes a slot, the 1–9 rating. It cannot reopen the facts, pick a rating to get a result, or add the two tracks into one score.
 
 [Source](../../core_13.000_standing_integration.md#23-facts-and-measurements-stay-fixed)
 
@@ -5523,7 +5529,7 @@ descriptors say **how** verified help or harm happened. This chapter imports the
 
 ##### 4.1 Descriptors and attachments
 
-a descriptor says how the help or harm happened. An attachment says what kind of response the facts call for. Both add detail and can stack. Neither can change or stand in for the slot, the 1–9 number from Chapter Twelve that says how big the benefit or harm was.
+a descriptor says how the help or harm happened. An attachment says what kind of response the facts call for. Both add detail and can stack. Neither changes the slot ([§2.3 Facts and measurements stay fixed](../../core_13.000_standing_integration.md#23-facts-and-measurements-stay-fixed)).
 
 [Source](../../core_13.000_standing_integration.md#41-descriptors-and-attachments)
 
@@ -5563,6 +5569,36 @@ this is the **prevention** part of the durable fix. A standing lock reduces risk
 
 [Source](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks)
 
+###### 5.2.1 What a standing lock is
+
+a standing lock closes or limits one gated pathway after a verified violation, and it must say which gated pathway, what risk it reduces, and how it ends. Detention and other liberty restrictions are not locks; they have their own safeguards.
+
+[Source](../../core_13.000_standing_integration.md#521-what-a-standing-lock-is)
+
+###### 5.2.2 Governance-voting and stakeholder-participation pathways
+
+voting on collective rules and having a weighted say inside an existing system are different gated pathways. A lock on one does not cover the other, and neither removes a sentient's status as a Stakeholder.
+
+[Source](../../core_13.000_standing_integration.md#522-governance-voting-and-stakeholder-participation-pathways)
+
+###### 5.2.3 Special locks for particular findings
+
+some findings call for a special lock that has its own trigger and its own limits.
+
+[Source](../../core_13.000_standing_integration.md#523-special-locks-for-particular-findings)
+
+###### 5.2.4 Purpose of a lock
+
+a lock keeps the same harm from continuing or coming back by separating a sentient from the setting or gated pathway where the violation occurred.
+
+[Source](../../core_13.000_standing_integration.md#524-purpose-of-a-lock)
+
+###### 5.2.5 What every lock must meet
+
+every lock has to be needed, proportionate, auditable, contestable, no broader than required, and time-bounded where it can be. It attaches to a verified violation finding, not to identity, status, accusation, or reputation.
+
+[Source](../../core_13.000_standing_integration.md#525-what-every-lock-must-meet)
+
 ##### 5.3 Voluntary public accountability expression
 
 a public apology or acknowledgment, if used on a restorative pathway, must be voluntary, sincere, and non-degrading. Refusal alone does not raise sanctions. A fake or abusive apology does not count as repair.
@@ -5575,6 +5611,30 @@ locks are cheap to issue; repair, restoration, and review are expensive to run. 
 
 [Source](../../core_13.000_standing_integration.md#54-remedy-parity-and-lock-preconditions)
 
+###### 5.4.1 Opened-remedy precondition
+
+a lock needs an open remedy file first. Finishing the remedy is not required.
+
+[Source](../../core_13.000_standing_integration.md#541-opened-remedy-precondition)
+
+###### 5.4.2 Remedy-parity tripwire
+
+when remedy or restoration work runs late for a class of locks, new locks in that class default to the lightest form and existing ones come up for review.
+
+[Source](../../core_13.000_standing_integration.md#542-remedy-parity-tripwire)
+
+###### 5.4.3 Exemptions from the tripwire
+
+the gravest locks and the liberty-restricting safeguards are exempt, so flooding the remedy queue cannot spring them.
+
+[Source](../../core_13.000_standing_integration.md#543-exemptions-from-the-tripwire)
+
+###### 5.4.4 Measuring remedy parity
+
+a widening gap between locks issued and remedies delivered is a warning sign, not neutral data.
+
+[Source](../../core_13.000_standing_integration.md#544-measuring-remedy-parity)
+
 #### 6. Lock design and enforcement
 
 once a lock is needed under [§5.2 Prevention — general standing locks](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Twelve measurement, and it does not let contribution offset a lock.
@@ -5583,9 +5643,45 @@ once a lock is needed under [§5.2 Prevention — general standing locks](../../
 
 ##### 6.1 Definition and attachment
 
-*(no plain-terms gloss in source)*
+every lock is built from the same parts: fields the integration record must state, a verified violation finding to attach to, two risk qualifiers, a list of things it never cuts off, and limits on keeping a sentient away from particular settings or sentients. Special violation rules and special locks use all of them.
 
 [Source](../../core_13.000_standing_integration.md#61-definition-and-attachment)
+
+###### 6.1.1 Attachment fields
+
+the integration record has to say what is blocked, why, whom it protects, how it can end, who can review it, and when it is looked at again.
+
+[Source](../../core_13.000_standing_integration.md#611-attachment-fields)
+
+###### 6.1.2 What a lock attaches to
+
+a lock rests on a verified violation finding, not on who someone is or what others think of them. The kind of conduct involved can shape the lock.
+
+[Source](../../core_13.000_standing_integration.md#612-what-a-lock-attaches-to)
+
+###### 6.1.3 Risk qualifiers
+
+when a lock is meant to reduce risk, doubt about whether the harm will recur counts as risk, and the lock may have to keep the sentient away from what would bring the harm back.
+
+[Source](../../core_13.000_standing_integration.md#613-risk-qualifiers)
+
+###### 6.1.4 What a lock does not itself restrict
+
+a lock never cuts off speech, the Rights-Floor minimums (survival-critical access among them), or ordinary wages. It can still close the gated pathways tied to the risk.
+
+[Source](../../core_13.000_standing_integration.md#614-what-a-lock-does-not-itself-restrict)
+
+###### 6.1.5 Separation limits
+
+if a lock keeps a sentient away from particular settings or sentients, it must name them, leave access to counsel, and stop short of confinement, exile, or statelessness.
+
+[Source](../../core_13.000_standing_integration.md#615-separation-limits)
+
+###### 6.1.6 Carry-through to special rules and special locks
+
+special violation rules and special locks use these same parts and cannot fall below them.
+
+[Source](../../core_13.000_standing_integration.md#616-carry-through-to-special-rules-and-special-locks)
 
 ##### 6.2 Proportionality and calibration
 
@@ -5601,15 +5697,87 @@ once a lock is needed under [§5.2 Prevention — general standing locks](../../
 
 ##### 6.4 Special violation rules
 
-*(no plain-terms gloss in source)*
+these are the extra rules for particular kinds of violation. They shape how a lock or safeguard is attached.
 
 [Source](../../core_13.000_standing_integration.md#64-special-violation-rules)
+
+###### 6.4.1 Negligence and neglect
+
+negligence and neglect count as real duty failures when the harm is material.
+
+[Source](../../core_13.000_standing_integration.md#641-negligence-and-neglect)
+
+###### 6.4.2 Misaligned rewards
+
+a sentient who collects a reward by abusing a misaligned system can lose the gated pathways used to collect it and the reward itself, with narrow exceptions for honest recipients and for approved Adoption Transition phases.
+
+[Source](../../core_13.000_standing_integration.md#642-misaligned-rewards)
+
+###### 6.4.3 Duty to resist
+
+giving or following an instruction that requires unlawful or unconstitutional conduct is itself violation conduct, for human operators and AI stewards alike.
+
+[Source](../../core_13.000_standing_integration.md#643-duty-to-resist)
+
+###### 6.4.4 Collective accountability
+
+spreading work across teams or chains of command does not erase responsibility, and no one is held responsible by association alone.
+
+[Source](../../core_13.000_standing_integration.md#644-collective-accountability)
+
+###### 6.4.5 Coercive or liberty-restricting safeguards
+
+detention and other liberty restrictions are not locks. They need full process protections, and imprisonment is required where verified violence makes it necessary to protect others.
+
+[Source](../../core_13.000_standing_integration.md#645-coercive-or-liberty-restricting-safeguards)
+
+###### 6.4.6 Influence-pathway locks
+
+an influence-pathway lock closes the routes used to shape a decision, either to on-record contact only or, where that is not enough, to no contact with the bodies it names. It never reaches open advocacy.
+
+[Source](../../core_13.000_standing_integration.md#646-influence-pathway-locks)
 
 ##### 6.5 Special locks
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_13.000_standing_integration.md#65-special-locks)
+
+###### 6.5.1 Forum-Service Standing Lock
+
+a forum member who failed to step aside when recusal was required, and whose bias materially affected the matter, is kept out of forum service roles until independent review finds the risk has been reduced.
+
+[Source](../../core_13.000_standing_integration.md#651-forum-service-standing-lock)
+
+###### 6.5.2 Stakeholder-Participation Standing Lock
+
+a sentient who corrupted, captured, or gamed the stake-weighted and binding stakeholder channels is closed out of them until independent review finds the risk has been reduced. It is separate from the governance-voting lock.
+
+[Source](../../core_13.000_standing_integration.md#652-stakeholder-participation-standing-lock)
+
+###### 6.5.3 Institutional Authority Standing Lock
+
+a sentient who used an institution to carry out a violation loses governing, controlling, or owning authority in it and in its look-alikes. The sentient can still work there, be served by it, or form other institutions.
+
+[Source](../../core_13.000_standing_integration.md#653-institutional-authority-standing-lock)
+
+###### 6.5.4 Perjury Standing Lock
+
+a sentient who knowingly lied on a material point under oath or attestation can still speak and be heard, but the sentient's own word counts only with independent corroboration, and the sentient cannot hold the seats that decide what is verified.
+
+[Source](../../core_13.000_standing_integration.md#654-perjury-standing-lock)
+
+###### 6.5.5 Anti-Constitutional Trust Lock
+
+after a final anti-constitutional misconduct designation, the sentient is closed out of influence over the systems and gated pathways that keep the constitutional order honest. Restoration is exceptional.
+
+[Source](../../core_13.000_standing_integration.md#655-anti-constitutional-trust-lock)
+
+###### 6.5.6 Dissolution Reformation Lock
+
+once a forum has ordered a Chartered Party dissolved, it cannot come back under a new name or form. The lock binds the dissolved Party, its successors, and its controlled entities, not the sentients who belonged to it.
+
+[Source](../../core_13.000_standing_integration.md#656-dissolution-reformation-lock)
 
 ##### 6.6 Interim holds and locks
 
@@ -5731,11 +5899,11 @@ these patterns show how recurring Question 3 edge shapes route through the rules
 
 [Source](../../core_13.000_standing_integration.md#115-champion-repair-while-a-lock-remains-active)
 
-##### 11.6 Institutional vehicle and successor evasion
+##### 11.6 Institutional misuse and successor evasion
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_13.000_standing_integration.md#116-institutional-vehicle-and-successor-evasion)
+[Source](../../core_13.000_standing_integration.md#116-institutional-misuse-and-successor-evasion)
 
 ##### 11.7 Misaligned reward retention
 
@@ -6769,7 +6937,7 @@ this is how gated pathways close. Only a **verified violation finding** — neve
 
 ##### Article XIX-E: Voting and Special Locks
 
-some locks carry extra rules on top of [Article XIX-D](../../core_06.015_rights_part_d.md#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*). A lock on the foundational governance vote doesn't touch your weighted stakeholder voice inside a particular system, and the reverse. Taking away someone's governance vote needs a violation finding about them specifically, a narrow fit to what they did, and a real way back; only a **final** **Chapter Fourteen** finding of anti-constitutional misconduct withholds that vote, and only until **full restitution**. Special locks cover judges who failed to step aside, rigging stakeholder votes, using an institution as a vehicle for a violation, attacks on the constitution itself, and the return of a body that a forum has dissolved.
+some locks carry extra rules on top of [Article XIX-D](../../core_06.015_rights_part_d.md#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*). A lock on the foundational governance vote doesn't touch your weighted stakeholder voice inside a particular system, and the reverse. Taking away someone's governance vote needs a violation finding about them specifically, a narrow fit to what they did, and a real way back; only a **final** **Chapter Fourteen** finding of anti-constitutional misconduct withholds that vote, and only until **full restitution**. Special locks cover judges who failed to step aside, rigging stakeholder votes, using an institution to carry out a violation, attacks on the constitution itself, and the return of a body that a forum has dissolved.
 
 [Source](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks)
 

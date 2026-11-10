@@ -117,7 +117,7 @@
       "href": "../../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 306,
+  "term_count": 307,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -1058,6 +1058,13 @@
       "href": "../../core_05.040_band_continuity.md#indigenous-continuity"
     },
     {
+      "term": "Influence Pathway",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#influence-pathway",
+      "plain_terms": "an influence pathway is a way of shaping a decision someone else makes, other than by speaking openly on the matter's record. It runs through contact, access, favors, manufactured support, or pressure. A lock can close it. A lock never closes open advocacy, petition, testimony, or defense.",
+      "href": "../../core_05.035_band_accountability.md#influence-pathway"
+    },
+    {
       "term": "Info-Sphere",
       "file": "core_05.055_band_participation.md",
       "anchor": "#info-sphere",
@@ -1117,7 +1124,7 @@
       "term": "Institutional Authority Standing Lock",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#institutional-authority-standing-lock",
-      "plain_terms": "after a verified violation finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.",
+      "plain_terms": "after a verified violation finding that a sentient materially used an institution, enterprise, or office to carry out a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.",
       "href": "../../core_05.035_band_accountability.md#institutional-authority-standing-lock"
     },
     {
@@ -1936,7 +1943,7 @@
       "term": "Standing Lock",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#standing-lock",
-      "plain_terms": "a Standing Lock temporarily limits a gated pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded gated pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.",
+      "plain_terms": "a Standing Lock temporarily limits a gated pathway — trust, roles, credit, recognition, authority, influence, governance voting, stakeholder participation, or a comparable recorded gated pathway — because of a verified, unresolved violation. It cannot reduce dignity or the Rights-Floor minimums. No lock on a sentient is permanent.",
       "href": "../../core_05.035_band_accountability.md#standing-lock"
     },
     {

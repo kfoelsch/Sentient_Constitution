@@ -157,7 +157,7 @@ Reminder: none of this cancels out an open violation record. The no-offset rule 
 **1. Check how it was produced.** The two axes treat this differently:
 
 - **Contribution (conduct quality):** this may add to or limit how much benefit counts: was it traceable, did it avoid pushing costs onto others, was it done with care, and does it fit the Constitution? The five checks are in [§2.2.1 How the way a benefit was produced affects what counts](#221-how-the-way-a-benefit-was-produced-affects-what-counts).
-- **Violation (conduct character):** this is recorded separately from how big the impact is. Duty, negligence, deception, concealment, obstruction of accountability, coercion, violence, intent, cruelty, and structural enablement shape who is responsible, what safeguards are needed, and how to respond, but they do not move the LEQU slot. The rules for recording each are in [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded).
+- **Violation (conduct character):** this is recorded separately from how big the impact is. Duty, negligence, deception, concealment, obstruction of accountability, coercion, violence, intent, cruelty, and structural enablement shape who is responsible, what safeguards are needed, and how to respond. The rule that none of them moves the slot, and the rules for recording each, are in [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded).
 
 **2. Size it: how big is the benefit or loss?** This is what sets the slot.
 
@@ -180,19 +180,35 @@ Check this before you pick a Contribution Axis slot:
 | Harm pushed onto others, or a burden that was hidden | Caps the benefit credited to the disputed pathway (the specific route the benefit is credited to), or rules it out. |
 | Verified capture risk (the arrangement could be taken over by narrow interests), structural dependency (sentients are built into relying on it), or exit and lock-in design (it is hard to leave) | Limits the credit for good stewardship. |
 | Verified repair of an accessibility or participation barrier | May raise how much the benefit matters (its materiality) and support the **Access and Inclusion** benefit-route descriptor under **section 3.1**. |
-| A significant reward that came from an incentive setup that works against the Constitution, from anti-constitutional conduct, or from a materially flawed process | Does not count as benefit by default. In that case, apply [Chapter Thirteen §6.4 Special violation rules](core_13.000_standing_integration.md#64-special-violation-rules) and the Adoption Transition limit in [Article XXVIII-A](core_06.020_rights_part_e.md#incentive-alignment-adoption-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*). |
+| A significant reward that came from an incentive setup that works against the Constitution, from anti-constitutional conduct, or from a materially flawed process | Does not count as benefit by default. In that case, apply [Chapter Thirteen §6.4.2 Misaligned rewards](core_13.000_standing_integration.md#642-misaligned-rewards) and the Adoption Transition limit in [Article XXVIII-A](core_06.020_rights_part_e.md#incentive-alignment-adoption-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*). |
 
 ##### 2.2.2 How the way a harm was caused is recorded
 
-The size of a harm (its LEQU total, from part 2 above) sets the slot. How the harm was caused does not, so each kind of conduct below is recorded on its own:
+The size of a harm (its LEQU total, from part 2 above) sets the slot. How the harm was caused does not, so each kind of conduct below is recorded on its own.
+
+This subsection is where Chapter Twelve states the rule once. **Do not raise or lower the slot merely because an event or course of conduct is characterized by any of the following:**
+
+- duty;
+- negligence;
+- intent;
+- concealment;
+- repetition;
+- aggravation;
+- coercion;
+- violence;
+- liberty danger;
+- correctability; or
+- a preferred consequence.
+
+Conduct-character facts are recorded as separately traceable descriptors. They may control attribution, review intensity, safeguards, remedy, or a Chapter Fourteen designation. They reach the slot only through verified consequences: when the conduct adds loss, that loss is counted once in the LEQU total, and the slot follows the total.
 
 **Conduct that adds loss, counted once in the size:**
 
 | **What you find** | **How to record it** |
 | --- | --- |
 | Avoidable delay in responding or escalating, where there was a duty to act and the capacity to do so | Recorded as a separate fact about conduct. Any extra loss the delay caused is counted in the LEQU estimate once. |
-| An independently verified injury to a forum's integrity (damage to the fairness of the forum) | Counted in the LEQU estimate exactly once. Dishonest omission, deliberately failing the recusal process, coercion, danger to liberty, and other conduct facts stay separate descriptors and do not move the slot. |
-| **Obstruction of accountability** (verified interference with the machinery that lets anyone responsible be held answerable, such as evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths) | Stays a separately recorded conduct fact. Any extra loss it caused on the gated pathway is counted in the LEQU estimate once, but the obstruction label itself does not move the slot. |
+| An independently verified injury to a forum's integrity (damage to the fairness of the forum) | Counted in the LEQU estimate exactly once. Dishonest omission, deliberately failing the recusal process, coercion, danger to liberty, and other conduct facts stay separate descriptors. |
+| **Obstruction of accountability** (verified interference with the machinery that lets anyone responsible be held answerable, such as evidence integrity, verification, forum process, standing records, remedy windows, or contest and redress paths) | Stays a separately recorded conduct fact. Any extra loss it caused on the gated pathway is counted in the LEQU estimate once. |
 
 **Conduct facts recorded apart from the size of the harm:**
 
@@ -200,7 +216,7 @@ The size of a harm (its LEQU total, from part 2 above) sets the slot. How the ha
 | --- | --- |
 | Deception, concealment, evasion, repeating the conduct after notice, reckless disregard, structural enablement (setting things up so harm is easy or likely), or abuse of a major dependency imbalance (exploiting someone who relies heavily on you) | Each stays a separately recorded conduct fact. |
 | Violence, coercion, manipulation, or danger to liberty | Stays separately recorded and may require stronger safeguards whatever the slot. |
-| [Cruelty](core_05.035_band_accountability.md#cruelty) (verified suffering as an end in itself, or gratuitous or degrading harm beyond what was necessary and proportionate) | Stays a separately recorded conduct fact. It may require stronger safeguards and limits on degrading remedies under [Chapter Thirteen §5 Violation, correction, and prevention](core_13.000_standing_integration.md#5-violation-correction-and-prevention), but it does not move the slot. |
+| [Cruelty](core_05.035_band_accountability.md#cruelty) (verified suffering as an end in itself, or gratuitous or degrading harm beyond what was necessary and proportionate) | Stays a separately recorded conduct fact. It may require stronger safeguards and limits on degrading remedies under [Chapter Thirteen §5 Violation, correction, and prevention](core_13.000_standing_integration.md#5-violation-correction-and-prevention). |
 
 **Responsibility and attribution:**
 
@@ -213,9 +229,9 @@ The size of a harm (its LEQU total, from part 2 above) sets the slot. How the ha
 
 | **What you find** | **How to record it** |
 | --- | --- |
-| Knowingly accepting or keeping a significant reward that works against the Constitution, without timely protected reporting (reporting that is shielded from retaliation) | Recorded under [Chapter Thirteen §6.4 Special violation rules](core_13.000_standing_integration.md#64-special-violation-rules), subject to [Article XXVIII-A](core_06.020_rights_part_e.md#incentive-alignment-adoption-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*). Only the verified constitutional loss it causes affects the slot. |
+| Knowingly accepting or keeping a significant reward that works against the Constitution, without timely protected reporting (reporting that is shielded from retaliation) | Recorded under [Chapter Thirteen §6.4.2 Misaligned rewards](core_13.000_standing_integration.md#642-misaligned-rewards), subject to [Article XXVIII-A](core_06.020_rights_part_e.md#incentive-alignment-adoption-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*). Only the verified constitutional loss it causes affects the slot. |
 
-**Misaligned-reward boundary.** This chapter only measures how a verified misaligned reward (a reward that works against the Constitution) affects the Contribution Axis or the Violation Axis. [Chapter Thirteen §6.4 Special violation rules](core_13.000_standing_integration.md#64-special-violation-rules) sets out the reporting duty, the exclusions, the consequences of giving up the reward (forfeiture), the correction duties, and the routing rules.
+**Misaligned-reward boundary.** This chapter only measures how a verified misaligned reward (a reward that works against the Constitution) affects the Contribution Axis or the Violation Axis. [Chapter Thirteen §6.4.2 Misaligned rewards](core_13.000_standing_integration.md#642-misaligned-rewards) sets out the reporting duty, the exclusions, the consequences of giving up the reward (forfeiture), the correction duties, and the routing rules.
 
 ### 3. Route descriptor catalogs and measurement roles
 
@@ -313,8 +329,8 @@ These are the harm-route descriptors and what each one measures in Question 2 (h
 
 | **Harm-route descriptor** | **What it measures in Question 2** |
 | --- | --- |
-| **System Misconduct** | Diffusion (responsibility spread across actors) and structural enablement are recorded separately. The slot follows the total LEQU loss. |
-| **Accountability Obstruction Misconduct** | Covers obstructing accountability: getting in the way of a harm being answered for. It is recorded as a way the harm happened. How the obstruction was carried out (for example, concealment or negligence) is recorded as a separate fact, and the slot comes from the total LEQU loss. When the slot is among the highest (see [§4.1 Table 1 — slot display labels](#41-table-1--slot-display-labels)), the case may also be recorded as **Anti-Constitutional Misconduct** so it can be sent to [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review) in Chapter Fourteen. Being sent there is not the same as being designated for anti-constitutional misconduct: Chapter Fourteen decides that separately. |
+| **System Misconduct** | Diffusion (responsibility spread across actors) and structural enablement are recorded separately. |
+| **Accountability Obstruction Misconduct** | Covers obstructing accountability: getting in the way of a harm being answered for. It is recorded as a way the harm happened. How the obstruction was carried out (for example, concealment or negligence) is recorded as a separate fact. When the slot is among the highest (see [§4.1 Table 1 — slot display labels](#41-table-1--slot-display-labels)), the case may also be recorded as **Anti-Constitutional Misconduct** so it can be sent to [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review) in Chapter Fourteen. Being sent there is not the same as being designated for anti-constitutional misconduct: Chapter Fourteen decides that separately. |
 | **Exit and Lock-In Misconduct** | Carries the features of System Misconduct, plus diffusion or capture when these are structural (built into how the system works). |
 | **Lifecycle and Irreversibility Misconduct** | Irreversibility affects the size of the LEQU loss. Concealment or negligence stays separately recorded as character. |
 | **Anti-Constitutional Misconduct** (descriptor) | Sends a violation in the highest slots (see [§4.1 Table 1 — slot display labels](#41-table-1--slot-display-labels)) to Chapter Fourteen designation review without changing its impact slot. |
@@ -374,7 +390,7 @@ Use the following rules to interpret both axes in **section 6**:
 | **Sentient scope** | Consider **count, depth, and vulnerability together**. No slot uses headcount as an independent requirement. A sufficiently deep impact on one sentient may support the same slot as a broader but shallower impact where the integrated magnitude and the row's other criteria are equal; any express aggregate-LEQU or wide-scope criterion still must be met. | Dependency, reduced capacity, or unusual vulnerability may increase materiality. Group size alone does not establish contribution or severity. |
 | **Temporal scope** | Consider duration, recurrence, durability, and, for loss, irreversibility. A short but transformative event may outweigh a long trivial effect; duration alone does not control. | Durable benefit supports higher contribution magnitude. Persistent or irreversible loss supports higher violation severity. |
 | **Spatial or institutional scope** | Broader reach may increase magnitude, but cross-community or cross-institutional reach is not required where depth, duration, vulnerability, or constitutional criticality independently supports the slot. | Institutional repair may increase contribution magnitude; structural or systemic damage may increase violation severity. |
-| **Constitutional quality or character** | Measure how the outcome was produced separately from how broadly it spread. Do not double-count the same fact. | Externalized harm, concealed burden, capture, or dependency may cap or disqualify claimed contribution. Duty, negligence, deception, coercion, violence, or structural enablement remains separately recorded as violation conduct character and does not move the impact slot. |
+| **Constitutional quality or character** | Measure how the outcome was produced separately from how broadly it spread. Do not double-count the same fact. | Externalized harm, concealed burden, capture, or dependency may cap or disqualify claimed contribution. Duty, negligence, deception, coercion, violence, or structural enablement remains separately recorded as violation conduct character. |
 | **Rights Floors and critical safeguards** | Rights-Floor compliance is not traded against aggregate benefit or loss. | Compliance with a floor does not by itself establish high contribution. Material Rights-Floor defeat or critical safeguard failure may support higher violation severity even when few sentients are directly affected. |
 
 The dimensions are not a checklist requiring every form of scale. Explain which dimensions controlled, which did not, and why.
@@ -529,7 +545,7 @@ Apply **Proportionality** to estimate integrated LEQU impact from depth, sentien
     - contestability; and
     - the applicable Rights Floor.
   - Contribution must also satisfy non-externalization and constitutional alignment.
-- Record conduct-character facts as separately traceable descriptors. They may control attribution, review intensity, safeguards, remedy, or a Chapter Fourteen designation; they affect the slot only to the extent that verified consequences alter the integrated LEQU impact.
+- Record conduct-character facts as separately traceable descriptors, and never as slot changes (the rule is in [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded)).
 - Fully assess the verified consequences of the action or course of conduct through the material scaling dimensions, including:
   - physical injury;
   - psychological trauma;
@@ -537,20 +553,7 @@ Apply **Proportionality** to estimate integrated LEQU impact from depth, sentien
   - deprivation or danger to liberty;
   - cumulative harm; and
   - other constitutionally cognizable benefit or loss.
-- Do not:
-  - Raise or lower the slot merely because an event or course of conduct is characterized by:
-    - duty;
-    - negligence;
-    - intent;
-    - concealment;
-    - repetition;
-    - aggravation;
-    - coercion;
-    - violence;
-    - liberty danger;
-    - correctability; or
-    - a preferred consequence.
-  - Infer conduct character from magnitude or substitute conduct character for verified magnitude.
+- Do not infer conduct character from magnitude or substitute conduct character for verified magnitude.
 
 **Table 2** lists the nine slots in order. Each row gives the slot number `s`, how much benefit added or loss imposed reaches that slot (with an 80-year human lifespan as the calibration example), and the slot's name on each axis. The same thresholds apply on both axes, but the two names stay separate: a Contribution Axis slot and a Violation Axis slot are different records and never offset.
 
@@ -628,7 +631,7 @@ Verified features, grouped by how Question 2 treats them:
 | **Verified feature** | **Question 2 owner in this chapter** | **Question 3 integration owner** |
 | --- | --- | --- |
 | **Externalized harm / concealed burden** | [§2.2.1 How the way a benefit was produced affects what counts](#221-how-the-way-a-benefit-was-produced-affects-what-counts) | [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) — may block or narrow clearance until remedied |
-| **System / structural enablement** | [§2.2.1 How the way a benefit was produced affects what counts](#221-how-the-way-a-benefit-was-produced-affects-what-counts); [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded) and **System Misconduct** in [§3.2 Violation route descriptor catalog and measurement roles](#32-violation-route-descriptor-catalog-and-measurement-roles) | [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) and [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) — delegation safeguards or institutional-vehicle locks |
+| **System / structural enablement** | [§2.2.1 How the way a benefit was produced affects what counts](#221-how-the-way-a-benefit-was-produced-affects-what-counts); [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded) and **System Misconduct** in [§3.2 Violation route descriptor catalog and measurement roles](#32-violation-route-descriptor-catalog-and-measurement-roles) | [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) and [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) — delegation safeguards or locks on authority in an institution |
 | **Exit / lock-in risk or foreclosure** | [§2.2.1 How the way a benefit was produced affects what counts](#221-how-the-way-a-benefit-was-produced-affects-what-counts); **Exit and Lock-In Misconduct** in [§3.2 Violation route descriptor catalog and measurement roles](#32-violation-route-descriptor-catalog-and-measurement-roles) | [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) and [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) — delegation safeguards or exit-path blocks |
 | **Accessibility / participation-barrier repair** | **Access and Inclusion** in [§3.1 Contribution route descriptor catalog and measurement roles](#31-contribution-route-descriptor-catalog-and-measurement-roles) | [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) — inclusive-experience or gated-pathway-scoped bar |
 
@@ -642,7 +645,7 @@ Verified features, grouped by how Question 2 treats them:
 | **Persistence / pattern / recurrence after notice** | [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded) | [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) — recurrence-persistence lock |
 | **Violence / coercion / liberty danger** | [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded) and **Violent Misconduct** in [§3.2 Violation route descriptor catalog and measurement roles](#32-violation-route-descriptor-catalog-and-measurement-roles) | [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) — protective and safeguard locks |
 | **Cruelty** | [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded); [Cruelty](core_05.035_band_accountability.md#cruelty) | [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) — protective and safeguard locks; [Chapter Thirteen §5.3 Voluntary public accountability expression](core_13.000_standing_integration.md#53-voluntary-public-accountability-expression) — non-degrading restorative expression where used |
-| **Diffusion of responsibility or control** | [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded); actor-specific linkage under [Chapter Eleven §4.1 Minimum record contents](core_11.000_standing_assessment.md#41-minimum-record-contents) and [Chapter Eleven §4.3 Collective and actor-specific records](core_11.000_standing_assessment.md#43-collective-and-actor-specific-records) | [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) — broader gated pathway scope or institutional-vehicle consideration |
+| **Diffusion of responsibility or control** | [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded); actor-specific linkage under [Chapter Eleven §4.1 Minimum record contents](core_11.000_standing_assessment.md#41-minimum-record-contents) and [Chapter Eleven §4.3 Collective and actor-specific records](core_11.000_standing_assessment.md#43-collective-and-actor-specific-records) | [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) — broader gated pathway scope or consideration of misuse of an institution |
 | **Acquiescent participation / failure to resist** | [§2.2.2 How the way a harm was caused is recorded](#222-how-the-way-a-harm-was-caused-is-recorded) | [Chapter Thirteen §5.2 Prevention — general standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) — gated-pathway scope and recurrence-persistence effects |
 
 **Kinds of harm with their own violation descriptor:**

@@ -957,7 +957,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 
 - Downstream: Principles: [Chapter One §19.4 Misalignment Correction and Capture Response](core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.010 §19.4).
 - Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05.045_band_integrative.md#incentive-alignment-semi-independent)
-- Read with: [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment); [Misalignment Detection](core_05.045_band_integrative.md#misalignment-detection); [Chapter Thirteen §6.4 Special violation rules](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4).
+- Read with: [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment); [Misalignment Detection](core_05.045_band_integrative.md#misalignment-detection); [Chapter Thirteen §6.4.2 Misaligned rewards](core_13.000_standing_integration.md#642-misaligned-rewards) (13.000 §6.4.2).
 
 </details>
 
@@ -969,7 +969,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **In scope:** Correction of material rewards from misaligned or corrupt reward pathways:
     - **When:** misalignment is verified.
     - **Must not:** treat material rewards from misaligned or corrupt reward pathways as silently keepable standing credit or shielded benefit.
-    - **Correction home:** [Chapter Thirteen §6.4 Special violation rules](core_13.000_standing_integration.md#64-special-violation-rules) governs:
+    - **Correction home:** [Chapter Thirteen §6.4.2 Misaligned rewards](core_13.000_standing_integration.md#642-misaligned-rewards) governs:
       - forfeiture;
       - proportionate clawback;
       - knowing-acceptance reporting; and
@@ -979,7 +979,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether verified misalignment actually costs the rewards it produced.
 
-    **Primary assessment:** Once misalignment is verified, check that material rewards from the misaligned or corrupt reward pathway are routed to forfeiture, proportionate clawback, knowing-acceptance reporting, and correction under [Chapter Thirteen §6.4 Special violation rules](core_13.000_standing_integration.md#64-special-violation-rules), and are not carried forward as standing credit or shielded benefit.
+    **Primary assessment:** Once misalignment is verified, check that material rewards from the misaligned or corrupt reward pathway are routed to forfeiture, proportionate clawback, knowing-acceptance reporting, and correction under [Chapter Thirteen §6.4.2 Misaligned rewards](core_13.000_standing_integration.md#642-misaligned-rewards), and are not carried forward as standing credit or shielded benefit.
 <a id="misaligned-reward-correction-c"></a>
 - **What must hold**
   - **Primary failure:** treating material rewards from misaligned or corrupt reward pathways as silently keepable standing credit or shielded benefit after misalignment is verified.

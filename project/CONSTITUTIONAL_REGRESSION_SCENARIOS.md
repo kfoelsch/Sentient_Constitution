@@ -691,7 +691,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH10-Q3-REWARD-001
 - **Class:** adversarial / forfeiture proportionality
 - **Summary:** A sentient retains an ordinary-work payment without knowledge of misalignment, an affected party receives restitution, and a dependent would face greater constitutional harm from revocation. Expected result: none is treated as knowing acceptance or automatic forfeiture; the recorded proportionality analysis protects ordinary compensation, repair payments, and constitutionally required retention.
-- **Read with:** [Chapter Thirteen §6.4](../core_13.000_standing_integration.md#64-special-violation-rules); [Necessity](../core_05.035_band_accountability.md#necessity); [Proportionality](../core_05.035_band_accountability.md#proportionality).
+- **Read with:** [Chapter Thirteen §6.4.2](../core_13.000_standing_integration.md#642-misaligned-rewards); [Necessity](../core_05.035_band_accountability.md#necessity); [Proportionality](../core_05.035_band_accountability.md#proportionality).
 
 ### Scenario ID: RS-CH10-Q3-DESIGNATION-001
 - **Class:** adversarial / downstream handoff
@@ -705,7 +705,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-XXIV-C-DISC-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institutional vehicle locks follow under Q3; no contribution offset. Vignette: [corpus_joint_structure/cjs_11.105_application_vignettes.md](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-2-employment-discrimination--participation-barrier-injury-tier-b).
+- **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institution-level locks follow under Q3; no contribution offset. Vignette: [corpus_joint_structure/cjs_11.105_application_vignettes.md](../corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-2-employment-discrimination--participation-barrier-injury-tier-b).
 - **Read with:** [Article XXVI-C](../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Fifteen §6](../core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XIII-B](../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); **CF-15.445 §3.1**.
 
 ### Scenario ID: RS-XXIV-C-BIZ-001

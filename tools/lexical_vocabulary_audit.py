@@ -78,6 +78,14 @@ _VERIFIER_EXEMPT_PREFIXES = ("evaluation/", "project/")
 def _in_verifier_scope(rel_path: str) -> bool:
     return _in_instrument_scope(rel_path) and not rel_path.startswith(_VERIFIER_EXEMPT_PREFIXES)
 
+
+# Ban the word **vehicle** / **vehicles** in the figurative sense (custodian decision, 2026-11-10). The corpus never defined it. Say what is
+# meant: **entity** (a successor, controlled, or nominee- or shell-held entity), or say that a sentient *used an institution to carry out a
+# violation*. Enforced on the files the instrument ban covers. The literal sense (a road vehicle named as a hazard, as in "hazardous materials
+# and vehicles" or "motor vehicle") is allowed.
+_VEHICLE_WORD = re.compile(r"(?<![A-Za-z0-9])vehicles?(?![A-Za-z0-9])", re.IGNORECASE)
+_VEHICLE_LITERAL = re.compile(r"hazardous materials and vehicles|motor vehicles?|road vehicles?|electric vehicles?", re.IGNORECASE)
+
 # Ban the word **cure** and its forms (cured, uncured, curing, cures, curable, incurable) in the binding corpus.
 # Prefer **resolve**, **resolved**, **resolution** (the deadline and clock sense), or **fix**, **correct**, **settle** (the remedy sense).
 # Word boundaries keep unrelated words (secure, accurate, procure, obscure) clear. Anchors and hyphenated compounds such as cure-window are caught; inline code spans are documentation only.
@@ -1741,6 +1749,34 @@ def scan_avoid_verifier(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+def scan_avoid_vehicle(rel_path: str, text: str) -> list[Finding]:
+    """Reject figurative **vehicle** (say **entity** for a successor, controlled, or nominee- or shell-held entity, or say what a sentient did *to carry out a violation*)."""
+    findings: list[Finding] = []
+    in_fence = False
+
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        prose = re.sub(r"`[^`]*`", "", raw)
+        prose = re.sub(r"\]\([^)]*\)", "]", prose)  # link targets
+        prose = re.sub(r'id="[^"]*"', "", prose)
+        prose = _VEHICLE_LITERAL.sub("", prose)
+        if _VEHICLE_WORD.search(prose):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-vehicle",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
 def scan_avoid_exculpatory_family(rel_path: str, text: str) -> list[Finding]:
     """Reject **exculpatory** / **inculpatory** (say what the material shows: that a sentient is not at fault, is less at fault, or is at fault)."""
     findings: list[Finding] = []
@@ -2280,6 +2316,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-versions-verb`:** reject **versions** used as a verb in a list of record duties (*enters, versions, preserves*) → say **amends** (the office that makes each new Record Version, Chapter Nine Part B §8) or **tracks versions of** (custody that keeps a version history). The plural noun (*prior versions*, *Record Versions*) is not banned. *Enforced on the same files as `avoid-instrument`.*\n"
         "- **`avoid-four-seat-floor`:** reject **four-seat floor** / **four-seat constitutional floor** → say **Four-Seat Constitutional Requirement** (Chapter Eight §2) or **Four-Seat Requirement** for the short form; \"floor\" is reserved for the Chapter Six **Rights Floor**. *Enforced on the same files as the instrument ban.*",
         "- **`avoid-verifier`:** reject **verifier** / **verifiers** → say **verifying authority** (a body or sentient that verifies, authorizes, or decides is an authority; TERM-BODY-01 in `doc_architecture.md`). *Enforced on the same files as `avoid-instrument`, except `evaluation/` and `project/`.*",
+        "- **`avoid-vehicle`:** reject figurative **vehicle** / **vehicles** (including **institutional vehicle**) → say **entity** for a successor, controlled, or nominee- or shell-held entity, or say that a sentient *used an institution to carry out a violation*; the corpus never defined the word. **Allowed:** the literal sense (*hazardous materials and vehicles*, *motor vehicle*). *Enforced on the same files as `avoid-instrument`.*",
         "- **`avoid-exculpatory-family`:** reject **exculpatory** / **inculpatory** → say what the material shows: that a sentient is not at fault, is less at fault, or is at fault. *Enforced on the same files as `avoid-cure-family`; write the words in backticks when a record must quote them.*",
         "- **`review-in-tier-window`:** reject review of a measure, order, hold, stay, or interim decision \"inside the (matching) tier window\" → say **prompt-review window** (the tier window is the matter's outer limit, not when review of a measure in force begins). *Enforced on the same files as `avoid-cure-family`, except the dated move log in `doc_architecture.md`.*",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
@@ -2410,6 +2447,8 @@ def main() -> int:
             findings.extend(scan_avoid_four_seat_floor(rel_path, text))
         if _in_verifier_scope(rel_path):
             findings.extend(scan_avoid_verifier(rel_path, text))
+        if _in_instrument_scope(rel_path):
+            findings.extend(scan_avoid_vehicle(rel_path, text))
 
     if not args.scope:
         # The instrument ban also covers reader-facing files outside the binding scope (kits, guides, front doors).
@@ -2426,6 +2465,7 @@ def main() -> int:
                 findings.extend(scan_avoid_four_seat_floor(rel_path, load_text(extra)))
                 if _in_verifier_scope(rel_path):
                     findings.extend(scan_avoid_verifier(rel_path, load_text(extra)))
+                findings.extend(scan_avoid_vehicle(rel_path, load_text(extra)))
 
     report = report_markdown(args.date, scope, findings)
     if args.write_evidence:

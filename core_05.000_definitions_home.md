@@ -240,6 +240,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)
 - [Independence](core_05.035_band_accountability.md#independence)
 - [Indigenous Continuity](core_05.040_band_continuity.md#indigenous-continuity)
+- [Influence Pathway](core_05.035_band_accountability.md#influence-pathway)
 - [Info-Sphere](core_05.055_band_participation.md#info-sphere)
 - [Initiating Seat](core_05.035_band_accountability.md#initiating-seat)
 - [Innovation Reward and Anti-Enclosure](core_05.045_band_integrative.md#innovation-reward-and-anti-enclosure)
