@@ -1290,9 +1290,13 @@ This section starts from verified Chapter Eleven contribution records that apply
 
 Past help does not set the remedy, the correction duties, the safeguards, or the locks under [§5 Violation, correction, and prevention](#5-violation-correction-and-prevention) and [§6 Lock design and enforcement](#6-lock-design-and-enforcement). Help also cannot cancel or balance out a verified harm—that [no-offset rule](core_11.000_standing_assessment.md#24-linked-standing-records-and-no-offset-bridge) from Chapter Eleven still applies.
 
+An applicable standing lock under [§5.2 Prevention — general standing locks](#52-prevention--general-standing-locks) and [§6 Lock design and enforcement](#6-lock-design-and-enforcement) controls. Neither recency nor a competency bar or clearance can open a blocked gated pathway, waive the Rights Floor ([§2.6 The Rights Floor is not reduced](#26-the-rights-floor-is-not-reduced)), erase a violation, or replace remedy or correction.
+
 Decide contribution consequences in this order:
 
-- Confirm recognition eligibility: recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work. Equal standards include separation of duties: under [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and [Chapter Eleven §5.9 Informal and small-scope records](core_11.000_standing_assessment.md#59-informal-and-small-scope-records) the verify seat for informal work is met by any independent body with published authority to rely on the standing record, not by the formality of the verifying authority; a bar that demands formal-institution verification an informal group cannot reach is the [§7.2 Competency bars and clearances](#72-competency-bars-and-clearances) gatekeeping pattern.
+- Confirm recognition eligibility: recognition must be evidence-backed, contestable, reviewable, non-monopolistic, and available on equal standards to informal, unpaid, peer-organized, mutual-aid, maintenance, repair, teaching, and community-stewardship work.
+  - Equal standards include separation of duties: under [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and [Chapter Eleven §5.9 Informal and small-scope records](core_11.000_standing_assessment.md#59-informal-and-small-scope-records) the verify seat for informal work is met by any independent body with published authority to rely on the standing record, not by the formality of the verifying authority.
+  - A bar that demands formal-institution verification an informal group cannot reach is the [§7.2 Competency bars and clearances](#72-competency-bars-and-clearances) gatekeeping pattern.
 - Apply recency and currentness ([§7.1 Recency and currentness](#71-recency-and-currentness)).
 - Apply competency bars and clearances for gated pathways not blocked by a lock ([§7.2 Competency bars and clearances](#72-competency-bars-and-clearances)).
 - Hand off each gated pathway outcome to [§8 Final standing effect](#8-final-standing-effect); restoration and reassessment remain under [§9 Restoration and reassessment](#9-restoration-and-reassessment).
@@ -1337,7 +1341,7 @@ The automatically calculated integration record displays, for each contribution 
 - the resulting currentness weight;
 - whether the weight was produced automatically or after contest review;
 - whether the contribution is historical-only for clearance purposes; and
-- whether a stricter published role-specific rule applied.
+- whether a stricter published role-specific rule replaced the default 10-year half-life for this contribution and, if so, which rule and version.
 
 <a id="72-competency-bars-and-clearances"></a>
 <a id="72-competency-gates"></a>
@@ -1348,6 +1352,18 @@ The automatically calculated integration record displays, for each contribution 
 A **competency bar** is the published, gated-pathway-specific qualification standard. Anyone affected must be able to see the rule, check how it was applied, and challenge it if it is wrong. In short, it states what readiness the role or access requires.
 
 A **competency clearance** is the positive standing-effect result when verified readiness meets that bar. In short, it answers: does this sentient currently meet the bar for this gated pathway?
+
+This subsection has four parts:
+
+- [§7.2.1 What a bar requires](#721-what-a-bar-requires);
+- [§7.2.2 Guarding against gatekeeping](#722-guarding-against-gatekeeping);
+- [§7.2.3 Continuity, retesting, and capacity change](#723-continuity-retesting-and-capacity-change); and
+- [§7.2.4 What the clearance record must say](#724-what-the-clearance-record-must-say).
+
+<a id="721-what-a-bar-requires"></a>
+##### 7.2.1 What a bar requires
+
+*In plain terms: a bar says what readiness a gated pathway needs, shown by evidence that fits the role. It is only as demanding as the role's reach, others' reliance on it, and the foreseeable risk justify. Informal work can meet it as well as a formal credential can.*
 
 A bar may require evidence of:
 
@@ -1366,6 +1382,11 @@ How hard the bar is must match:
 
 **Examples.** A peer mutual-aid coordinator may need shown reliability in shared care work, not a formal degree. A water-system or critical-infrastructure operator may need role-specific training plus recent demonstrated skill. A forum panelist or certifier may need verified impartiality-relevant experience and current qualification for that gated pathway. Teaching, maintenance, repair, and community-stewardship records can support clearance when they show the same readiness a formal credential would.
 
+<a id="722-guarding-against-gatekeeping"></a>
+##### 7.2.2 Guarding against gatekeeping
+
+*In plain terms: a bar tests readiness; it does not screen sentients out. Formal and informal experience meet the same demonstrability standard, and the integration record must show how access, fit, and review were handled.*
+
 A bar or clearance process must not become arbitrary gatekeeping, opaque credentialism, reputation substitution, social-prestige screening, insider sponsorship, formal-channel monopoly, or exclusion by inaccessible specialization. Equivalent demonstrability standards apply to formal and informal experience.
 
 Every bar and clearance result must be designed so the integration record can identify:
@@ -1380,32 +1401,60 @@ Every bar and clearance result must be designed so the integration record can id
 - the review route; and
 - the reassessment trigger.
 
+<a id="723-continuity-retesting-and-capacity-change"></a>
+##### 7.2.3 Continuity, retesting, and capacity change
+
+*In plain terms: once clearance is granted and the gated pathway is open, it stays open by default. It is reopened, limited, or withdrawn only on published retesting, a real change in role-relevant capacity, a standing lock, or another reassessment trigger.*
+
 **Default continuity.** Once competency clearance is granted and the affected gated pathway is open, clearance stays in force by default. That is not permanent entitlement. Published retesting, a material change in role-relevant capacity, an applicable standing lock, or another reassessment trigger under this section may reopen, limit, or withdraw clearance.
 
 **Periodic retesting.** Some competencies require periodic retesting; others do not. Which gated pathways require retesting, how often, and by what method is set by published standards under [Technical Forum Domains](core_15.000_forum.md#42-technical-forum-domains), including specialized technical forums within their lawful scope. Those standards must be role-proportionate, inspectable, and contestable.
 
-**Material capacity change.** Clearance may also be reassessed when verified facts show a material change in the capacity the gated pathway actually requires — for example loss of motion or language after a stroke, or a mental-health condition that impairs judgment needed for that role. Reassessment must target the role-relevant capacity at stake as it is now, not disability or health status as such, under [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help). It must remain necessary, proportionate, open to review, and consistent with accessibility and anti-discrimination floors under Chapters Five and Six. Accommodation, support, or a narrower gated pathway must be considered before withdrawing clearance where those options would preserve safe readiness.
+**Material capacity change.** Clearance may also be reassessed when verified facts show a material change in the capacity the gated pathway actually requires — for example loss of motion or language after a stroke, or a mental-health condition that impairs judgment needed for that role. Reassessment must:
+
+- target the role-relevant capacity at stake as it is now, not disability or health status as such, under [Chapter One §3.1.5 Present Capability and Proactive Help](core_01.000_values_principles.md#315-present-capability-and-proactive-help);
+- remain necessary, proportionate, open to review, and consistent with accessibility and anti-discrimination floors under Chapters Five and Six; and
+- consider accommodation, support, or a narrower gated pathway before withdrawing clearance, where those options would preserve safe readiness.
+
+<a id="724-what-the-clearance-record-must-say"></a>
+##### 7.2.4 What the clearance record must say
+
+*In plain terms: every clearance result must be readable on its face: what was decided, against which bar, on what evidence, who can contest it, and what would trigger reassessment.*
 
 The integration record must say, in plain view, for each clearance result:
 
-- whether clearance is granted, not granted, or granted only with named safeguards;
-- which published competency bar applied;
-- which verified contribution and other readiness inputs were used;
-- how currentness under [§7.1 Recency and currentness](#71-recency-and-currentness) affected the result;
-- whether the open clearance remains under default continuity or a published retesting schedule;
-- who may contest or review the bar or clearance, and by what route; and
-- what triggers reassessment, including material capacity change where applicable.
+- **The result:**
+  - whether clearance is granted, not granted, or granted only with named safeguards.
+- **What it rests on:**
+  - which published competency bar applied;
+  - which verified contribution and other readiness inputs were used; and
+  - how currentness under [§7.1 Recency and currentness](#71-recency-and-currentness) affected the result.
+- **How it continues and can be reviewed:**
+  - whether the open clearance remains under default continuity or a published retesting schedule;
+  - who may contest or review the bar or clearance, and by what route; and
+  - what triggers reassessment, including material capacity change where applicable.
 
-An applicable standing lock under [§5.2 Prevention — general standing locks](#52-prevention--general-standing-locks) and [§6 Lock design and enforcement](#6-lock-design-and-enforcement) controls. Competency clearance cannot open a blocked gated pathway, waive the Rights Floor, erase a violation, or replace remedy or correction. Gated pathway outcomes after bars and clearances are stated under [§8 Final standing effect](#8-final-standing-effect).
+Gated pathway outcomes after bars and clearances are stated under [§8 Final standing effect](#8-final-standing-effect).
 
 <a id="8-final-standing-effect"></a>
 ### 8. Final standing effect
 
 *In plain terms: when the earlier steps are done, the system must state — one gated pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.*
 
-The standing system must **automatically** state the final standing effect for each applicable gated pathway once the earlier steps in [§3.4 Processing order](#34-processing-order) are complete. That statement must list every open clearance and every restricted gated pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§3 Automatic integration, review, and continuity](#3-automatic-integration-review-and-continuity).
+The final standing effect is governed by the following rule groups:
 
-**Separate roles.** Automatic integration may use verified standing records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XX** (*Justice After Verified Violation*).
+- **Automatic statement:**
+  - The standing system must **automatically** state the final standing effect for each applicable gated pathway once the earlier steps in [§3.4 Processing order](#34-processing-order) are complete.
+  - That statement must list every open clearance and every gated pathway under a lock or hold.
+- **Review and approval:**
+  - No additional manual approval is required when verified inputs and published rules produce a determinate result.
+  - Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§3 Automatic integration, review, and continuity](#3-automatic-integration-review-and-continuity).
+- **Separate roles:**
+  - Automatic integration may use verified standing records, remedies, correction duties, locks, bars, clearances, and descriptors together.
+  - Each still has its own job, and none may do the work of another.
+- **Limits on restriction:**
+  - Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction.
+  - Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XX** (*Justice After Verified Violation*).
 
 The integration record must state the final effect separately for each affected gated pathway:
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-11-10T20:42:23+00:00",
+  "generated_at": "2026-11-10T23:36:45+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -1133,7 +1133,7 @@
     [33,"#656-dissolution-reformation-lock","6.5.6 Dissolution Reformation Lock"],
     [33,"#66-interim-holds-and-locks","6.6 Interim holds and locks"],
     [33,"#7-contribution-consequences-second","7. Contribution consequences second"],
-    [33,"#72-competency-gates","7.2 Competency bars and clearances"],
+    [33,"#723-continuity-retesting-and-capacity-change","7.2.3 Continuity, retesting, and capacity change"],
     [33,"#81-anti-aggregation-of-gated-pathway-effects","8.1 Anti-aggregation of gated-pathway effects"],
     [33,"#82-plain-statement-of-effect-and-burden","8.2 Plain statement of effect and burden"],
     [33,"#9-restoration-and-reassessment","9. Restoration and reassessment"],
