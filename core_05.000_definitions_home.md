@@ -20,7 +20,7 @@ Chapter Five is the constitutional owner of **foundational definitions**, includ
 
 *In plain terms: this chapter is the dictionary. Every defined term has one official home; later chapters apply those terms, they do not quietly redefine them.*
 
-### Canonical home and non-duplication rule
+### Canonical Home and Non-Duplication Rule
 *In plain terms: every defined term has one official home. That home decides what the term means. Other files may apply the term, but they may not quietly redefine it.*
 
 Three rules keep every defined term in one place:
@@ -42,11 +42,11 @@ Three rules keep every defined term in one place:
 
 Independent Definitions are reusable semantic building blocks that can be invoked across multiple definitions. They define shared ontological, measurement, assessment, and compliance constructs. Apply them wherever they are materially relevant to system behavior, outcomes, evaluation scope, or compliance determination.
 
-Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 2 — Dependent-cluster meta rules](#2-dependent-cluster-meta-rules)). [§1.1 Invocation, satisfaction, and compliance](#11-invocation-satisfaction-and-compliance) apply whenever an Independent Definition is invoked.
+Independent and Semi-independent definitions do not require joint satisfaction with other definitions unless a Dependent-cluster definition explicitly requires it ([section 2 — Dependent-Cluster Meta Rules](#2-dependent-cluster-meta-rules)). [§1.1 Invocation, Satisfaction, and Compliance](#11-invocation-satisfaction-and-compliance) apply whenever an Independent Definition is invoked.
 
 <a id="11-invocation-satisfaction-and-compliance"></a>
 
-#### 1.1 Invocation, satisfaction, and compliance
+#### 1.1 Invocation, Satisfaction, and Compliance
 *In plain terms: when an independent definition applies, it must be met in full — no picking the convenient pieces.*
 
 Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 2 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
@@ -62,29 +62,29 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 ---
 
 
-### 2. Dependent-cluster meta rules
+### 2. Dependent-Cluster Meta Rules
 
 *In plain terms: cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.*
 
-A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [§2.1 Joint invocation and satisfaction](#21-joint-invocation-and-satisfaction) and [§2.2 Standalone definitions interaction and full context](#22-standalone-definitions-interaction-and-full-context) apply to every cluster. Dependent clusters **Def.O1–Def.I1** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#chapter-five-compass-and-definition-map).
+A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [§2.1 Joint Invocation and Satisfaction](#21-joint-invocation-and-satisfaction) and [§2.2 Standalone Definitions Interaction and Full Context](#22-standalone-definitions-interaction-and-full-context) apply to every cluster. Dependent clusters **Def.O1–Def.I1** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#chapter-five-compass-and-definition-map).
 
 <a id="21-joint-invocation-and-satisfaction"></a>
 
-#### 2.1 Joint invocation and satisfaction
+#### 2.1 Joint Invocation and Satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
 This is the cluster form of the [Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle). Cluster-local applications appear under **Anti-bypass** (not a second "joint invocation" header). Each lists the cluster's compartments and protected duties and ends with a cite to that principle. They must not reopen with `Under Joint invocation and satisfaction, …`.
 
 <a id="22-standalone-definitions-interaction-and-full-context"></a>
 
-#### 2.2 Standalone definitions interaction and full context
+#### 2.2 Standalone Definitions Interaction and Full Context
 Calling a definition Independent or Semi-independent does not let it skip cluster membership. Dependent clusters must still be met together in the full real-world system context. No piece may be peeled off, reclassified, or applied alone in a way that changes the compliance result.
 
 ---
 
 <a id="chapter-five-alphabetical-directory"></a>
 
-### Chapter Five alphabetical directory (non-operative)
+### Chapter Five Alphabetical Directory (Non-Operative)
 
 ---
 
@@ -95,7 +95,7 @@ Calling a definition Independent or Semi-independent does not let it skip cluste
 
 > This directory is **reader guidance only**. It does not add, remove, reorder, or narrow binding obligations in this chapter. Operative meaning remains in the definition entries below.
 
-This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Five definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated under [section 2 — Dependent-cluster meta rules](#2-dependent-cluster-meta-rules) above.
+This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each visible Chapter Five definition label appears once, and each numbered cluster heading appears once. Links use stable anchors only for navigation; they do not create routing rules, pointer entries, alternate homes, or stub definitions. Joint-satisfaction rules for dependent clusters are stated under [section 2 — Dependent-Cluster Meta Rules](#2-dependent-cluster-meta-rules) above.
 
 <a id="independent-definitions-a-z"></a>
 <a id="semi-independent-definitions-a-z"></a>
@@ -188,7 +188,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Ecological Recovery Capacity](core_05.040_band_continuity.md#ecological-recovery-capacity)
 - [Educational Agency](core_05.055_band_participation.md#educational-agency)
 - [Elevated Communicative Life](core_05.055_band_participation.md#elevated-communicative-life)
-- [Emergency and Contingency](core_05.040_band_continuity.md#emergency-and-contingency-constitutional)
+- [Emergency and Contingency](core_05.040_band_continuity.md#emergency-and-contingency)
 - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice)
 - [Environmental Preconditions](core_05.040_band_continuity.md#environmental-preconditions)
 - [Epistemic Integrity](core_05.050_band_oversight.md#epistemic-integrity)
@@ -234,9 +234,9 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [High-Impact and Systemic Harm Publication Constraint](core_05.050_band_oversight.md#high-impact-and-systemic-harm-publication-constraint)
 - [Identity Data Protection](core_05.040_band_continuity.md#identity-data-protection)
 - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment)
-- [Incentive Alignment — baseline constitutional alignment](core_05.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)
-- [Incentive Alignment — contingent claims, games of chance, and event-contract markets](core_05.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)
-- [Incentive Alignment — strategic, scaled, and adversarial evaluation](core_05.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)
+- [Incentive Alignment — Baseline Constitutional Alignment](core_05.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)
+- [Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets](core_05.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)
+- [Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation](core_05.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)
 - [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)
 - [Independence](core_05.035_band_accountability.md#independence)
 - [Indigenous Continuity](core_05.040_band_continuity.md#indigenous-continuity)
@@ -275,7 +275,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Material Risk](core_05.050_band_oversight.md#material-risk)
 - [Materiality](core_05.050_band_oversight.md#materiality)
 - [Materiality Integrity Constraint](core_05.050_band_oversight.md#materiality-integrity-constraint)
-- [Materiality Under Uncertainty](core_05.050_band_oversight.md#materiality-under-uncertainty)
+- [Materiality under Uncertainty](core_05.050_band_oversight.md#materiality-under-uncertainty)
 - [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act)
 - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record)
 - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency)
@@ -319,7 +319,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics)
 - [Protected Data and Internal-State Publication Constraint](core_05.050_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Protected Internal-State Boundary](core_05.040_band_continuity.md#protected-internal-state-boundary)
-- [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)
+- [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](core_05.055_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)
 - [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing)
 - [Protected Reporting Retaliation and Access Interference](core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Provisional Certification](core_05.040_band_continuity.md#provisional-certification)
@@ -426,7 +426,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability](core_05.055_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability)
 - [Def.A2 Forum Families and Dispute Routing](core_05.035_band_accountability.md#defa2-forum-families-and-dispute-routing)
 - [Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work](core_05.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work)
-- [Def.C3 Privacy (Informational) — peer-level cluster head](core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)
+- [Def.C3 Privacy (Informational) — Peer-Level Cluster Head](core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)
 - [Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05.055_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity)
 - [Def.A3 Standing State, Contribution, and Violation](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation)
 - [Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity](core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity)
@@ -441,7 +441,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 ---
 
-### Chapter Five compass and definition map
+### Chapter Five Compass and Definition Map
 <a id="chapter-five-compass-and-definition-map"></a>
 
 <details>
@@ -455,9 +455,9 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - Downstream: constitutional orientation for all Chapter Five band definitions and **Def.** dependent clusters.
 - Read with:
   - [Independent Definitions](core_05.000_definitions_home.md#1-independent-definitions),
-  - [§1.1 Invocation, satisfaction, and compliance](core_05.000_definitions_home.md#11-invocation-satisfaction-and-compliance),
-  - [§2.1 Joint invocation and satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction), and
-  - [§2.2 Standalone definitions interaction and full context](core_05.000_definitions_home.md#22-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
+  - [§1.1 Invocation, Satisfaction, and Compliance](core_05.000_definitions_home.md#11-invocation-satisfaction-and-compliance),
+  - [§2.1 Joint Invocation and Satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction), and
+  - [§2.2 Standalone Definitions Interaction and Full Context](core_05.000_definitions_home.md#22-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
 </details>
 
@@ -481,7 +481,7 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](core_00.000
 
 ---
 
-### Measurement crosswalk (reader guidance)
+### Measurement Crosswalk (Reader Guidance)
 
 *In plain terms: Preamble §2 (*Measurements Overview*) asks seven category questions; this table maps each question to the Chapter Five homes that answer it.*
 

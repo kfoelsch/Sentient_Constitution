@@ -28,7 +28,7 @@
 
 - [Wellbeing](core_05.040_band_continuity.md#wellbeing) (Flourishing aim)
 - [Oversight](core_05.020_apex_oversight_leg.md#oversight), [Accountability](core_05.005_apex_accountability_leg.md#accountability), [Contestability](core_05.035_band_accountability.md#contestability), [Governance](core_05.035_band_accountability.md#governance), [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance)
-- [Material](core_05.050_band_oversight.md#material), [Material Impact](core_05.050_band_oversight.md#material-impact), [Material Risk](core_05.050_band_oversight.md#material-risk), [Materiality](core_05.050_band_oversight.md#materiality) (widgets label this **Materiality**), [Systemic Materiality](core_05.040_band_continuity.md#systemic-materiality) — cluster: [Materiality, impact, risk, and proxy integrity](core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
+- [Material](core_05.050_band_oversight.md#material), [Material Impact](core_05.050_band_oversight.md#material-impact), [Material Risk](core_05.050_band_oversight.md#material-risk), [Materiality](core_05.050_band_oversight.md#materiality) (widgets label this **Materiality**), [Systemic Materiality](core_05.040_band_continuity.md#systemic-materiality) — cluster: [Materiality, Impact, Risk, and Proxy Integrity](core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
 
 **Major Chapter Five §3 dependent clusters** (joint-invocation groups — read with Chapters Two through Four when materially relevant):
 
@@ -39,7 +39,7 @@
 
 **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) — the operational cluster compass for cross-implementation joint operational terms; read together with this chapter's Tetrad, Aims, and material-stake scaling:
 
-- [CJS-5.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — primary entry for **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*)–**CJS-5.135 §23** (*Integrative: intervention and override integrity terms*) clusters organized by Tetrad leg, Continuity aim, and integrative cross-leg bands
+- [CJS-5.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — primary entry for **CJS-5.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*)–**CJS-5.135 §23** (*Integrative: Intervention and Override Integrity Terms*) clusters organized by Tetrad leg, Continuity aim, and integrative cross-leg bands
 
 </details>
 
@@ -88,7 +88,7 @@ Chapter One, Part B, is the constitutional owner of **constitutional collision r
   - [5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [6. Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [7. Freedom (Bounded Agency)](core_01.000_values_principles.md#7-freedom-bounded-agency), and
-  - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
+  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
 - Downstream:
   - [13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity),
   - [Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record),
@@ -512,7 +512,7 @@ The **Dignity Principles** are the two principles that follow: the [Rights-Floor
 This principle protects the Rights Floor as follows:
 
 - No constitutional process, measure, Adoption Transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections under [Article VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle), minimum subsistence access, or core challenge, review, and appeal rights.
-- Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency rules in [Chapter Fifteen §6.1](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, Adoption Transition, standing, amendment, contract, or implementation labels to bypass it.
+- Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency rules in [Chapter Fifteen §6.1](core_15.000_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, Adoption Transition, standing, amendment, contract, or implementation labels to bypass it.
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -529,7 +529,7 @@ The [Anti-Degrading-Process Principle (§3.3)](core_01.000_values_principles.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — all four legs: **oversight** leg (restrictions stay independently reviewable; evidence is preserved and independent reviewers keep access while a Constitutional Collision is pending); **accountability** leg (a documented, auditable Constitutional Collision Record names the rule, the alternatives, the evidence, and the basis for selection); **participation** leg (affected parties can understand, contest, and reconstruct the decision, and are told what is frozen); **timeliness** leg (restrictions are temporary unless a stronger Rights-Floor rule says otherwise, carry a duration or review cadence and a restoration path, and a pending Constitutional Collision runs on the applicable clock); [material stake](core_00.000_preamble.md#material-stake) scaling (the burden of proof rises with severity, irreversibility, dependency concentration, and uncertainty).
-- Downstream: [Article XXVI-B: Rights-Collision Procedure and Restorative Alignment](core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (forums apply this decision test); [Article XXVI-C: Timely Resolution and Anti-Delay Floor](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Fifteen §6](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (15.000 §6) (*Timely resolution, materiality tiers, and anti-delay discipline*).
+- Downstream: [Article XXVI-B: Rights-Collision Procedure and Restorative Alignment](core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (forums apply this decision test); [Article XXVI-C: Timely Resolution and Anti-Delay Floor](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); [Chapter Fifteen §6](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (15.000 §6) (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*).
 
 </details>
 
@@ -597,7 +597,7 @@ Confidentiality limits on the Collision Record must satisfy [§13.2 Epistemic Di
 - **Preserve evidence:** Do not moot the Constitutional Collision by deletion, leak, or irreversible publication.
 - **Freeze irreversible steps** that would make one of the colliding readings unavailable — do not take a step that cannot be undone if taking it would close the Constitutional Collision, moot one side, or manufacture a winner before interpretation resolves it.
 - **Proceed with reversible, consented steps** that keep both readings available — including independent-reviewer access under [security-constrained observability](core_04.000_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) where consent exists.
-- **Notify** affected parties and the interpretation path of what is frozen, what proceeds, and the applicable clock (for a dispute routed to a forum, the tier windows and outer bounds in [Chapter Fifteen §6](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*)).
+- **Notify** affected parties and the interpretation path of what is frozen, what proceeds, and the applicable clock (for a dispute routed to a forum, the tier windows and outer bounds in [Chapter Fifteen §6](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*)).
 
 This holding pattern is not a decision about which side is right. Freeze what cannot be undone so neither reading is closed off; [§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process) still has to answer the Constitutional Collision. [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) is why: a reversible consented step leaves both readings available; an irreversible step does not.
 
@@ -1021,7 +1021,7 @@ Where incentive structures act on stewards or operators, this section reinforces
   - [4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
   - [5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [6. Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
-  - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
+  - [§16 Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13. Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process),
   - [7. Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency), and
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
@@ -1074,8 +1074,8 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 - Downstream:
   - [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) (
   - [§15.1.1](#1511-anti-segmentation-principle)),
-  - [§15.2 Definitional layer and required disciplines](#152-definitional-layer-and-required-disciplines),
-  - [§15.3 Ambiguity resolution](#153-ambiguity-resolution),
+  - [§15.2 Definitional Layer and Required Disciplines](#152-definitional-layer-and-required-disciplines),
+  - [§15.3 Ambiguity Resolution](#153-ambiguity-resolution),
   - [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution) (
   - [§15.4.1](#1541-integrated-reading) ·
   - [§15.4.2](#1542-last-resort-internal-hierarchy) ·
@@ -1194,7 +1194,7 @@ Adopted implementation layers may add detail to these protections. They must not
 
 *In plain terms: No-Bypass says changing the label does not lift a requirement. This section says the same about chopping. If the questions in one matter belong together, you cannot split them into separate boxes, tracks, or records so that each box passes while the whole matter fails. Putting the pieces back together does not lower any of them: each keeps its own standard.*
 
-Where the questions a matter raises materially travel together, assess the matter as one. This applies to jointly invoked definition clusters under [Chapter Five §2.1 Joint invocation and satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction), and to any other matter whose duties are materially interdependent.
+Where the questions a matter raises materially travel together, assess the matter as one. This applies to jointly invoked definition clusters under [Chapter Five §2.1 Joint Invocation and Satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction), and to any other matter whose duties are materially interdependent.
 
 A matter that is to be assessed as one must not be divided into any of the following in a way that satisfies one part while defeating another part that is materially implicated:
 - separate framings, categories, or classifications;
@@ -1277,7 +1277,7 @@ This principle does not:
 - displace the data-type rules in [CS-6.305 — Information types and handling](corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-part-a-information-types-and-handling), which apply it.
 
 <a id="152-definitional-layer-and-required-disciplines"></a>
-#### 15.2 Definitional layer and required disciplines
+#### 15.2 Definitional Layer and Required Disciplines
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -1345,7 +1345,7 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 - **[§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process)**, including Constitutional Collision handling under the **[Constitutional Collision Record](core_05.045_band_integrative.md#constitutional-collision-record)** requirements where materially relevant
 
 <a id="153-ambiguity-resolution"></a>
-#### 15.3 Ambiguity resolution
+#### 15.3 Ambiguity Resolution
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -1406,35 +1406,35 @@ This subsection is the **single canonical procedure** for resolving interpretive
 **Operative sequence.** Apply the following **in this order**:
 
 1. **Constitution, non-regression, and adopter hierarchy first:** Apply Sentient Constitution supremacy, **Chapter Seventeen** non-regression constraints, and **Chapter Eighteen** internal hierarchy rules before resolving lower layers.
-2. **Binding constitutional reading:** Within the binding constitutional source, apply **[§15.4.1 Integrated reading](#1541-integrated-reading)** and, only if genuine residual incompatibility remains, **[§15.4.2 Last-resort internal hierarchy](#1542-last-resort-internal-hierarchy)**.
-3. **Incorporated obligations:** Then apply incorporated obligations under **[§15.4.3 Incorporation layer](#1543-incorporation-layer)** and **[§15.4.4 Combined satisfaction of jointly applicable incorporated obligations](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)**.
+2. **Binding constitutional reading:** Within the binding constitutional source, apply **[§15.4.1 Integrated Reading](#1541-integrated-reading)** and, only if genuine residual incompatibility remains, **[§15.4.2 Last-Resort Internal Hierarchy](#1542-last-resort-internal-hierarchy)**.
+3. **Incorporated obligations:** Then apply incorporated obligations under **[§15.4.3 Incorporation Layer](#1543-incorporation-layer)** and **[§15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)**.
 
 <a id="1541-integrated-reading"></a>
-##### 15.4.1 Integrated reading
+##### 15.4.1 Integrated Reading
 
-Apply **[§15.2 Definitional layer and required disciplines](#152-definitional-layer-and-required-disciplines)** and **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)** first:
+Apply **[§15.2 Definitional Layer and Required Disciplines](#152-definitional-layer-and-required-disciplines)** and **[§15.3 Ambiguity Resolution](#153-ambiguity-resolution)** first:
 - **Chapters Two through Five** operate as the interpretive and evidentiary layer.
 - The **ambiguity** rule requires the fullest **protective** effect as an integrated whole and alignment with sentient wellbeing; it does **not** permit [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness).
 - **Chapter Six** rights may not be contracted except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
 
 <a id="1542-last-resort-internal-hierarchy"></a>
-##### 15.4.2 Last-resort internal hierarchy
+##### 15.4.2 Last-Resort Internal Hierarchy
 
 Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Eighteen** (*Internal Hierarchy for Adopters*) — lives in the [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) cluster in Chapter Five.
 
-If a genuine incompatibility remains after integrated reading under **§15.4.1** (*Integrated reading*):
+If a genuine incompatibility remains after integrated reading under **§15.4.1** (*Integrated Reading*):
 - principles control over articles
 - articles control over definitions read as independent substantive glosses
 - canonical definitions continue to govern the meaning of the terms used at each step in this order
 
-This hierarchy is an interpretive rule of last resort. It applies only to a genuine incompatibility that survives integrated reading under **§15.4.1** (*Integrated reading*), and it does not let one layer stand in for another under ordinary operation. The limits in **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)** and **§15.4.1** (*Integrated reading*) continue to apply. They bar [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness), and they bar contraction of **Chapter Six** rights outside expressly permitted **Chapter One** interaction rules.
+This hierarchy is an interpretive rule of last resort. It applies only to a genuine incompatibility that survives integrated reading under **§15.4.1** (*Integrated Reading*), and it does not let one layer stand in for another under ordinary operation. The limits in **[§15.3 Ambiguity Resolution](#153-ambiguity-resolution)** and **§15.4.1** (*Integrated Reading*) continue to apply. They bar [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness), and they bar contraction of **Chapter Six** rights outside expressly permitted **Chapter One** interaction rules.
 
 <a id="1543-incorporation-layer"></a>
-##### 15.4.3 Incorporation layer
+##### 15.4.3 Incorporation Layer
 
-After the constitutional reading under **§15.4.1** (*Integrated reading*) and **§15.4.2** (*Last-resort internal hierarchy*), apply the **designated obligations** in adopted implementation text — the named how-to duties the adoption actually brought into force. Apply them only inside **valid adoption and incorporation scope** under **[Chapter Twenty](core_20.000_incorporation.md#chapter-twenty-incorporation-bridge)** (who holds the official records, which edition is pinned, and how adoption is framed).
+After the constitutional reading under **§15.4.1** (*Integrated Reading*) and **§15.4.2** (*Last-Resort Internal Hierarchy*), apply the **designated obligations** in adopted implementation text — the named how-to duties the adoption actually brought into force. Apply them only inside **valid adoption and incorporation scope** under **[Chapter Twenty](core_20.000_incorporation.md#chapter-twenty-incorporation-bridge)** (who holds the official records, which edition is pinned, and how adoption is framed).
 
-The rules below choose among incorporated texts by [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect), the same standard the **ambiguity** rule in **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)** uses. They never choose by [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness).
+The rules below choose among incorporated texts by [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect), the same standard the **ambiguity** rule in **[§15.3 Ambiguity Resolution](#153-ambiguity-resolution)** uses. They never choose by [Abstract Strictness](core_05.045_band_integrative.md#abstract-strictness).
 
 - **Fullest Protective Effect among incorporated texts:** Apply incorporated obligations at the level with the Fullest Protective Effect that is consistent with that constitutional reading.
   - That is the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation.
@@ -1450,7 +1450,7 @@ The rules below choose among incorporated texts by [Fullest Protective Effect](c
   - The same rule applies when a cited profile and a cited implementation label seem to conflict for that risk.
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
-##### 15.4.4 Combined satisfaction of jointly applicable incorporated obligations
+##### 15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -1463,8 +1463,8 @@ The rules below choose among incorporated texts by [Fullest Protective Effect](c
 *In plain terms: when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.*
 
 This subsection's combined-satisfaction rule is about **more than one how-to file** applying to the same facts. It is not the same as:
-- the rule for a **single** operational cluster in incorporated joint-structure text, where doing only part of that cluster does not count as compliance — see **[CJS-5.140 §14](corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)** (*Operational clusters*); or
-- the Chapter Five rule that **Dependent cluster** definitions must be met together — see **[Chapter Five §2.1 Joint invocation and satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- the rule for a **single** operational cluster in incorporated joint-structure text, where doing only part of that cluster does not count as compliance — see **[CJS-5.140 §14](corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)** (*Operational Clusters*); or
+- the Chapter Five rule that **Dependent cluster** definitions must be met together — see **[Chapter Five §2.1 Joint Invocation and Satisfaction](core_05.000_definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
 **When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Twenty](core_20.000_incorporation.md#chapter-twenty-incorporation-bridge)** in either of these cases:
 
@@ -1480,8 +1480,8 @@ This subsection's combined-satisfaction rule is about **more than one how-to fil
   - then **CI** (institutional governance and assurance);
   - then **CF** (Chapter Fifteen forum-family doctrine);
 - within that order, read only what the topic routing for the facts requires;
-- editors and auditors use **[CJS-0.105 §1](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*Cross-file routing*)** for the authoritative row table;
-- combined satisfaction and the cross-file Fullest Protective Effect rule still apply as stated in this subsection and **§15.4.3** (*Incorporation layer*).
+- editors and auditors use **[CJS-0.105 §1](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*Cross-File Routing*)** for the authoritative row table;
+- combined satisfaction and the cross-file Fullest Protective Effect rule still apply as stated in this subsection and **§15.4.3** (*Incorporation Layer*).
 
 Emergencies may narrow those duties only when the narrowing is:
 - published;

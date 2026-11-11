@@ -11,19 +11,19 @@ This GitHub Pages site is a **pointer**, not a second constitution. The front do
 
 **Pre-release:** edition `SC-Corpus-2026.10.21` (effective 2026-10-21). Not yet a final published edition. License: [CC BY 4.0](https://github.com/kfoelsch/Sentient_Constitution/blob/main/LICENSE).
 
-## Where to start
+## Where to Start
 
 | I want to… | Go here |
 |---|---|
-| Find what I need, whoever I am | [README: Quick find](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md#quick-find) |
-| Get oriented in 15 minutes, 45 minutes, or 2 hours | [Reading paths](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md#reading-paths) |
+| Find what I need, whoever I am | [README: Quick Find](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md#quick-find) |
+| Get oriented in 15 minutes, 45 minutes, or 2 hours | [Reading Paths](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md#reading-paths) |
 | Get help: a system has harmed me and I can't find where to turn | [*I can't find the door*](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/adoption/easy_entry/E15_cannot_find_the_door.md) |
 | Get quick answers | [Common questions](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/FAQ.md) |
 | Understand how the whole thing fits together (about 40 minutes) | [Big-picture overview](https://github.com/kfoelsch/Sentient_Constitution/blob/main/guides/CONCEPTUAL_OVERVIEW.md) |
 | Use or adopt it in my organization, lab, platform, or cooperative | [Using or adopting it: start here](https://github.com/kfoelsch/Sentient_Constitution/blob/main/START_HERE.md) |
 | Read the numbered chapters | [Core file index](corpus_index.md) |
 
-## Read the corpus where GitHub renders it
+## Read the Corpus Where GitHub Renders It
 
 Until Pages source is **GitHub Actions** (workflow [`.github/workflows/pages.yml`](https://github.com/kfoelsch/Sentient_Constitution/blob/main/.github/workflows/pages.yml)), this `/docs` host does **not** republish numbered `core_*` files, so relative `../` links from here 404. Open the same paths in the repository, where markdown renders:
 
@@ -33,7 +33,7 @@ Until Pages source is **GitHub Actions** (workflow [`.github/workflows/pages.yml
 
 After that switch, `make pages-site` / the workflow renders the **same** repository files (not a second constitution). If a rendered page and the repository file disagree, the repository file wins.
 
-## Edition, license, authorship
+## Edition, License, Authorship
 
 | | |
 |---|---|

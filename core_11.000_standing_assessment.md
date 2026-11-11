@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven**: the standing pipeline's three questions and **Question 1** (*what happened?*), in **§1–§6**. **Question 2** (*how good or bad was it?*) is answered in [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it). Question 3 (*what happens because of it?*) continues in [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration), with review limited to the anti-constitutional-misconduct designation in [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) for qualifying Violation Axis `s` = 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven**: the standing pipeline's three questions and **Question 1** (*what happened?*), in **§1–§6**. **Question 2** (*how good or bad was it?*) is answered in [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it). Question 3 (*what happens because of it?*) continues in [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration), with review limited to the anti-constitutional-misconduct designation in [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) for qualifying Violation Axis slot 7–9 findings. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -31,16 +31,16 @@
   - [Preamble §6 Key Practical Process Pipelines](core_00.000_preamble.md#6-key-practical-process-pipelines) (*Chapters Nine through Fifteen chain*).
 - Upstream:
   - [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) (*Plain-Language Accessibility* stewardship reflected in section-level gloss);
-  - [Chapter One §16 — Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*);
+  - [Chapter One §16 — Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth) (1.010 §16) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*);
   - [Chapters Two through Four](core_02.000_definition_structure.md) (*integrity, records, and verification*);
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) (*definitions and supremacy read with Chapters Two through Four*).
 - Upstream: [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) (*system alignment certification*); [Chapter Nine Part C §11](core_09.010_system_alignment_certification_record_recertification.md#11-relationship-to-standing) (9.010 §11) (*standing bridge — potential verified inputs only*).
 - Standing pipeline:
-  - [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
+  - [Preamble §6.2 How the Full Chain Fits Together](core_00.000_preamble.md#62-how-the-full-chain-fits-together);
   - [Chapter Eleven — Standing Records](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) (11.000) (*three-question frame and Question 1 records*);
   - [Chapter Twelve — Standing Measurement](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) (12.000) (*Question 2 measurement*);
   - [Chapter Thirteen — Standing Effects and Integration](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Question 3 effects and integration*);
-  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) (*designation only for qualifying Violation Axis s = 7–9*).
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000) (*designation only for qualifying Violation Axis slot 7–9*).
 - Subsections in this file:
   - [§1](#1-the-three-questions) (*three-question frame and scope*);
   - [§2](#2-question-1--what-happened) (*Question 1 — verified facts and records*);
@@ -56,20 +56,20 @@
   - [Article XX](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*justice constraints*).
 - Read with: [Chapter Five *Standing State, Contribution, and Violation*](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation) (5.035) (*canonical definition routing*).
 - Read with: [README.md](README.md) (*reading order*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
-- Worked examples (they add no rule): [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): every full vignette opens at Question 1, for example [CJS-11.105 §1 Child neglect / care-duty failure (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a), [CJS-11.105 §7 An ordinary year with no filing and no sensitive role](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-11.105 §9 Watershed steward negligence with concealed test results (violation measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
+- Worked examples (they add no rule): [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): every full vignette opens at Question 1, for example [CJS-11.105 §1 Child Neglect / Care-Duty Failure (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a), [CJS-11.105 §7 An Ordinary Year with No Filing and No Sensitive Role](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-11.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
 </details>
 
 <br>
 
 <a id="chapter-eleven-orientation"></a>
-Chapter Eleven is the constitutional owner of **the verified factual record (Question 1)**. It runs from [§1 The three questions](#1-the-three-questions) through [§6 Handling a standing record](#6-handling-a-standing-record). [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [Chapter Twelve §1 Question 2 — how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) through [Chapter Twelve §9 Hand-off to Question 3 — cross-question measurement hooks](core_12.000_standing_measurement.md#9-hand-off-to-question-3--cross-question-measurement-hooks). Question 3 continues in Chapter Thirteen.
+Chapter Eleven is the constitutional owner of **the verified factual record (Question 1)**. It runs from [§1 The Three Questions](#1-the-three-questions) through [§6 Handling a Standing Record](#6-handling-a-standing-record). [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) owns Question 2, from [Chapter Twelve §1 Question 2 — How Good or Bad Was It?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) through [Chapter Twelve §9 Hand-Off to Question 3 — Cross-Question Measurement Hooks](core_12.000_standing_measurement.md#9-hand-off-to-question-3--cross-question-measurement-hooks). Question 3 continues in Chapter Thirteen.
 
 *In plain terms: this chapter writes down what happened and holds the standing record. How good or how harmful it was is measured in Chapter Twelve, on two separate tracks, never one net score. Filing a case is not standing by itself.*
 
 <a id="1-the-three-questions"></a>
 
-### 1. The three questions
+### 1. The Three Questions
 
 *In plain terms: standing is worked out by answering three questions in order. Do not infer facts from a desired rating, and do not choose a rating to justify a desired consequence.*
 
@@ -87,7 +87,7 @@ Each question depends on the answer before it:
 
 Together, the answers to all three questions form the complete standing assessment for one bounded event or one defined pattern. A subject may have several such assessments over time, and none is a net score or an overall rating of the subject. The contribution and violation standing records preserve the answers to Questions 1 and 2; the Question 3 decision states what follows from them.
 
-#### 1.1 Purpose and scope
+#### 1.1 Purpose and Scope
 
 This chapter states the constitutional record frame, and [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it) the measurement frame, for **systems**, **sentients**, and **institutions**, including every system classified under [**CS-9.305**](corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*). These frames do not measure gossip, popularity, vague reputation, inherent dignity, or general worth; none is a permissible subject of standing assessment.
 
@@ -112,7 +112,7 @@ Chapter Twelve measurement does **not**, by itself, authorize force, detention, 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace · Definitions · Assessment · Compliance</span></strong></summary>
 
-- Upstream: [Chapter One §16 — Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapters Two through Four](core_02.000_definition_structure.md); [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: [Chapter One §16 — Stewardship in Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapters Two through Four](core_02.000_definition_structure.md); [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§2](#2-question-1--what-happened) (*Question 1*); [§4](#4-standing-record-operational-requirements) (*verification and record requirements*); [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*); [§6](#6-handling-a-standing-record) (*handling a standing record*); [Chapter Twelve §1](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (*Question 2 measurement*); [Chapter Twelve §2](core_12.000_standing_measurement.md#2-magnitude-and-severity-input-dimensions) (*measurement input dimensions*); [Chapter Twelve §3](core_12.000_standing_measurement.md#3-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*); [Chapter Twelve §4](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*); [Chapter Twelve §5](core_12.000_standing_measurement.md#5-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*); [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (*Question 3*).
 - [Materiality](core_05.050_band_oversight.md#materiality) · [O](core_05.050_band_oversight.md#materiality) · [M](core_05.050_band_oversight.md#materiality-determination-a) · [A](core_05.050_band_oversight.md#materiality-determination-a) · [C](core_05.050_band_oversight.md#materiality-determination-c)
 - [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [M](core_05.035_band_accountability.md#harm-a) · [A](core_05.035_band_accountability.md#harm-a) · [C](core_05.035_band_accountability.md#harm-c)
@@ -123,7 +123,7 @@ Chapter Twelve measurement does **not**, by itself, authorize force, detention, 
 <a id="2-question-1--what-happened"></a>
 
 
-### 2. Question 1 — what happened?
+### 2. Question 1 — What Happened?
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -210,7 +210,7 @@ flowchart TB
 
 <a id="21-standing-records-kinds-and-subjects"></a>
 
-#### 2.1 Standing records: kinds and subjects
+#### 2.1 Standing Records: Kinds and Subjects
 
 Question 1 uses a **contribution standing record** for verified help and a **violation standing record** for verified harm, including accountability failures. One standing record does not combine both kinds of finding.
 
@@ -227,7 +227,7 @@ Any later standing effect belongs to Chapter Thirteen and must be traceable back
 
 <a id="22-silence-is-the-default"></a>
 
-#### 2.2 Silence is the default
+#### 2.2 Silence Is the Default
 
 Having no standing record is the ordinary state of a sentient, institution, or system, and it is the state most sentients will remain in.
 
@@ -241,12 +241,12 @@ Having no standing record is the ordinary state of a sentient, institution, or s
   - **Article III-C** (*Labor and Economic Floor*) protections;
   - ordinary commerce; or
   - participation as an affected party.
-  Published competency bars for specific trust-sensitive gated pathways under [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) are the exception, and they must state why the gated pathway is trust-sensitive.
+  Published competency bars for specific trust-sensitive gated pathways under [Chapter Thirteen §7.2 Competency Bars and Clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) are the exception, and they must state why the gated pathway is trust-sensitive.
 - When a standing record about a subject is opened, the subject must be told, as **section 4** requires. Notice may be delayed only if a documented [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) or Safety need justifies it, and only for a limited, set period. Notice is what makes a standing record contestable: a subject who does not know a standing record exists cannot challenge or correct it.
 
 <a id="23-protected-dissent-is-not-a-trigger"></a>
 
-#### 2.3 Protected dissent is not a trigger
+#### 2.3 Protected Dissent Is Not a Trigger
 
 Dissent or peaceful protest — including [protected nonviolent civil disobedience](core_06.005_rights_part_b.md#xi-d-nonviolent-civil-disobedience) — under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) is not a verified trigger.
 - It does not open, extend, or aggravate a violation standing record, it is not a severity input under **section 8.2**, and repeating it does not make it a pattern.
@@ -254,7 +254,7 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
 
 <a id="24-linked-standing-records-and-no-offset-bridge"></a>
 
-#### 2.4 Linked standing records and no-offset bridge
+#### 2.4 Linked Standing Records and No-Offset Bridge
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -271,7 +271,7 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
   - [Chapter Twelve §5](core_12.000_standing_measurement.md#5-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
   - [Chapter Twelve §6](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
   - [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Question 3*).
-- Read with: [Chapter Thirteen — Standing integration](core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity) (13.000) (*non-waiver and linked-record integration*); [Chapter Thirteen §7.2 — Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (13.000 §7.2); [Chapter Thirteen §5.2 — Standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2).
+- Read with: [Chapter Thirteen — Standing integration](core_13.000_standing_integration.md#3-automatic-integration-review-and-continuity) (13.000) (*non-waiver and linked-record integration*); [Chapter Thirteen §7.2 — Competency Bars and Clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) (13.000 §7.2); [Chapter Thirteen §5.2 — Standing locks](core_13.000_standing_integration.md#52-prevention--general-standing-locks) (13.000 §5.2).
 
 </details>
 
@@ -294,7 +294,7 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
 
 <a id="25-verified-input-gate"></a>
 
-#### 2.5 Verified-input gate
+#### 2.5 Verified-Input Gate
 
 The gate works as follows:
 
@@ -305,7 +305,7 @@ The gate works as follows:
 
 <a id="26-stage-boundary"></a>
 
-#### 2.6 Stage boundary
+#### 2.6 Stage Boundary
 
 The stages of a standing record stay separate:
 
@@ -316,21 +316,21 @@ The stages of a standing record stay separate:
 
 <a id="27-forum-boundary"></a>
 
-#### 2.7 Forum boundary
+#### 2.7 Forum Boundary
 
 
 *In plain terms: forums are where disputes get supervised, challenged, and turned into verified outcomes — but filing a case or winning a narrative fight does not update standing. The verified-input gate in **section 2.5** still applies. When a forum verifies the facts under Chapters Two through Four, it may **open, update, or correct** a standing record — or **set a bad record aside on challenge**. Forums do not merge good and bad into one score or invent the standing category by themselves.*
 
 This section owns one question: how a forum's work reaches a standing record. The other steps in the chain belong to the owners named here, and the chain runs in this order:
 
-1. A dispute is filed and the forum keeps a **forum case record**, which is not a standing record. Owner: [Chapter Fifteen §2.3 Forum case records, standing records, and contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests); see also [§2.7.1 Forum case record](#271-forum-case-record).
+1. A dispute is filed and the forum keeps a **forum case record**, which is not a standing record. Owner: [Chapter Fifteen §2.3 Forum Case Records, Standing Records, and Contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests); see also [§2.7.1 Forum Case Record](#271-forum-case-record).
 2. The forum verifies the facts under [Chapters Two through Four](core_02.000_definition_structure.md).
-3. Verified findings pass the verified-input gate. Owner: [§2.5 Verified-input gate](#25-verified-input-gate).
-4. A named record-opening authority, which can be a forum, opens, updates, or corrects the standing record, or sets a bad record aside on challenge. Owners: [§4.1 Minimum record contents](#41-minimum-record-contents) for what the standing record holds and [§5 Record custody and opening authority](#5-record-custody-and-opening-authority) for who may act.
-5. The standing record holds verified facts only, and Question 2 measures them afterward. Owners: [§2.6 Stage boundary](#26-stage-boundary) and [Chapter Twelve §1 Question 2 — how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it).
+3. Verified findings pass the verified-input gate. Owner: [§2.5 Verified-Input Gate](#25-verified-input-gate).
+4. A named record-opening authority, which can be a forum, opens, updates, or corrects the standing record, or sets a bad record aside on challenge. Owners: [§4.1 Minimum Record Contents](#41-minimum-record-contents) for what the standing record holds and [§5 Record Custody and Opening Authority](#5-record-custody-and-opening-authority) for who may act.
+5. The standing record holds verified facts only, and Question 2 measures them afterward. Owners: [§2.6 Stage Boundary](#26-stage-boundary) and [Chapter Twelve §1 Question 2 — How Good or Bad Was It?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it).
 6. A standing effect, if any, follows under [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration), which owns standing effects.
 
-Forum families under [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) **supervise** how concrete disputes traverse the standing pipeline. Forums supply the following under [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*):
+Forum families under [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) **supervise** how concrete disputes traverse the standing pipeline. Forums supply the following under [Chapter Fifteen §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*):
 
 - accessible challenge;
 - independent review;
@@ -345,28 +345,28 @@ When those forum findings satisfy the verified-input gate under Chapters Two thr
 
 <a id="271-forum-case-record"></a>
 
-##### 2.7.1 Forum case record
+##### 2.7.1 Forum Case Record
 
-The forum's own file on an open dispute is the [**forum case record**](core_05.035_band_accountability.md#forum-case-record), defined in [Chapter Fifteen §2.3 Forum case records, standing records, and contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests). It is **not** a standing record.
+The forum's own file on an open dispute is the [**forum case record**](core_05.035_band_accountability.md#forum-case-record), defined in [Chapter Fifteen §2.3 Forum Case Records, Standing Records, and Contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests). It is **not** a standing record.
 
 <a id="272-forum-findings-and-the-question-2-measurement"></a>
 
-##### 2.7.2 Forum findings and the Question 2 measurement
+##### 2.7.2 Forum Findings and the Question 2 Measurement
 
-A forum's verified factual findings may supply the factual basis for a Question 1 standing record. They do **not** determine the Question 2 measurement of how good or bad the verified contribution or violation was ([§2.6 Stage boundary](#26-stage-boundary)). Accordingly:
+A forum's verified factual findings may supply the factual basis for a Question 1 standing record. They do **not** determine the Question 2 measurement of how good or bad the verified contribution or violation was ([§2.6 Stage Boundary](#26-stage-boundary)). Accordingly:
 
-- Forum proceedings must **not** merge contribution and violation material into one net score, blended merits answer, or undifferentiated standing label; linked standing records remain separate under [§2.1 Standing records: kinds and subjects](#21-standing-records-kinds-and-subjects) and [§2.4 Linked standing records and no-offset bridge](#24-linked-standing-records-and-no-offset-bridge).
-- Forum outputs must **not** substitute dispute narratives, routing convenience, or panel preference for demonstrable verified inputs ([§2.5 Verified-input gate](#25-verified-input-gate)), separate measurement ([Chapter Twelve §1 Question 2 — how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it)), or the standing-effect mechanics owned by [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration).
+- Forum proceedings must **not** merge contribution and violation material into one net score, blended merits answer, or undifferentiated standing label; linked standing records remain separate under [§2.1 Standing Records: Kinds and Subjects](#21-standing-records-kinds-and-subjects) and [§2.4 Linked Standing Records and No-Offset Bridge](#24-linked-standing-records-and-no-offset-bridge).
+- Forum outputs must **not** substitute dispute narratives, routing convenience, or panel preference for demonstrable verified inputs ([§2.5 Verified-Input Gate](#25-verified-input-gate)), separate measurement ([Chapter Twelve §1 Question 2 — How Good or Bad Was It?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it)), or the standing-effect mechanics owned by [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration).
 
 <a id="273-what-the-forum-boundary-does-not-reduce"></a>
 
-##### 2.7.3 What the forum boundary does not reduce
+##### 2.7.3 What the Forum Boundary Does Not Reduce
 
 This boundary does **not** reduce challenge, remedy, interim relief, or procedural protections required under:
 
 - [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
 - [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
-- [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline);
+- [Chapter Fifteen §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline);
 - [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); or
 - related justice articles.
 
@@ -374,13 +374,13 @@ It requires that verified forum findings enter standing through the same gate as
 
 <a id="3-question-1-event-type-guide--what-kind-of-help-or-harm-occurred"></a>
 
-### 3. Question 1 event-type guide — what kind of help or harm occurred?
+### 3. Question 1 Event-Type Guide — What Kind of Help or Harm Occurred?
 
 *In plain terms: use these tables to describe what happened after the facts are verified. They help identify the kind of contribution or violation involved. They do not decide how good or bad it was, assign a slot, or determine what happens because of it.*
 
 <a id="31-contribution-event-types"></a>
 
-#### 3.1 Contribution event types
+#### 3.1 Contribution Event Types
 
 **Qualification rule:** A claimed contribution counts only when it is traceable, non-externalized, and consistent with the operative Constitution as a whole.
 
@@ -407,7 +407,7 @@ Each row in the table below names a common route of verified help and its consti
 
 <a id="32-violation-event-types"></a>
 
-#### 3.2 Violation event types
+#### 3.2 Violation Event Types
 
 **Qualification rule:** A violation event type requires a verified violation finding that remains traceable, bounded, auditable, and contestable under **Chapters Two through Four**.
 
@@ -436,7 +436,7 @@ Each row in the table below names a common route of verified loss, danger, or du
 
 <a id="4-verification-and-record-requirements"></a>
 
-### 4. Verification and record requirements
+### 4. Verification and Record Requirements
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -448,25 +448,25 @@ Each row in the table below names a common route of verified loss, danger, or du
   - [§5](#5-record-custody-and-opening-authority) (*record custody and opening authority*);
   - [§6](#6-handling-a-standing-record) (*handling a standing record*);
   - [Chapter Twelve §1](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it) (*Question 2*).
-- Read with: [CF-15.415 §8 Restricted information authority](corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md#cf-15415-8-restricted-information-authority) (*first stop for a dispute about a disclosure limit stated under [§4.1](#41-minimum-record-contents)*).
+- Read with: [CF-15.415 §8 Restricted Information Authority](corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md#cf-15415-8-restricted-information-authority) (*first stop for a dispute about a disclosure limit stated under [§4.1](#41-minimum-record-contents)*).
 
 </details>
 
 <br>
 
-*In plain terms: This section states what each standing record must contain, how related standing records point to one another, and how records are versioned. Who may open and hold a standing record, and how it may be challenged or corrected, is in [§5 Record custody and opening authority](#5-record-custody-and-opening-authority). Question 2 measurements may be added only after the verified factual basis is recorded.*
+*In plain terms: This section states what each standing record must contain, how related standing records point to one another, and how records are versioned. Who may open and hold a standing record, and how it may be challenged or corrected, is in [§5 Record Custody and Opening Authority](#5-record-custody-and-opening-authority). Question 2 measurements may be added only after the verified factual basis is recorded.*
 
 The evidence and record detail required may increase with the material stake and the system's class. This scaling does not exclude any covered sentient, institution, or system from the standing pipeline.
 
 <a id="41-minimum-record-contents"></a>
 
-#### 4.1 Minimum record contents
+#### 4.1 Minimum Record Contents
 
-A standing record carries the fields below, and the last two subsections add fields for each axis. The verified-input gate, which decides what may feed a standing record, is stated in [§2.5 Verified-input gate](#25-verified-input-gate). The rule that keeps Question 1 facts apart from Question 2 measurement is stated in [§2.6 Stage boundary](#26-stage-boundary).
+A standing record carries the fields below, and the last two subsections add fields for each axis. The verified-input gate, which decides what may feed a standing record, is stated in [§2.5 Verified-Input Gate](#25-verified-input-gate). The rule that keeps Question 1 facts apart from Question 2 measurement is stated in [§2.6 Stage Boundary](#26-stage-boundary).
 
 <a id="411-fields-every-standing-record-must-carry"></a>
 
-##### 4.1.1 Fields every standing record must carry
+##### 4.1.1 Fields Every Standing Record Must Carry
 
 Every standing record must include, at minimum:
 
@@ -489,7 +489,7 @@ Every standing record must include, at minimum:
 
 <a id="412-inspectable-attributable-action"></a>
 
-##### 4.1.2 Inspectable attributable action
+##### 4.1.2 Inspectable Attributable Action
 
 Attributable-action evidence relates to the standing record as follows:
 
@@ -501,19 +501,19 @@ Attributable-action evidence relates to the standing record as follows:
 
 <a id="413-no-privacy-or-opacity-exemption"></a>
 
-##### 4.1.3 No privacy or opacity exemption
+##### 4.1.3 No Privacy or Opacity Exemption
 
 Privacy, confidentiality, or the opacity of a system's internals does not exempt a matter from standing measurement. Where these collide with the verified-record requirement, the collision is resolved under [Chapter One §13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles) and its decision-record discipline, with independent-reviewer access preserved.
 
 <a id="414-additional-fields-for-contribution-standing-records"></a>
 
-##### 4.1.4 Additional fields for contribution standing records
+##### 4.1.4 Additional Fields for Contribution Standing Records
 
 **Contribution standing records** must also state:
 
 - the Question 2 contribution measurement, including:
   - the primary band;
-  - slot `s` where assigned (see [Chapter Twelve §4 Slot grammar and shared scaling](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling));
+  - slot `s` where assigned (see [Chapter Twelve §4 Slot Grammar and Shared Scaling](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling));
   - evidence basis;
   - materiality reasoning; and
   - any adopted LEQU or comparable calibration used for transparent support;
@@ -528,14 +528,14 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
 
 <a id="415-additional-fields-for-violation-standing-records"></a>
 
-##### 4.1.5 Additional fields for violation standing records
+##### 4.1.5 Additional Fields for Violation Standing Records
 
 **Violation standing records** must also state:
 
 - the Question 2 violation measurement, including:
   - the finding authority or record basis;
   - LEQU impact;
-  - slot `s` where assigned (see [Chapter Twelve §4 Slot grammar and shared scaling](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling));
+  - slot `s` where assigned (see [Chapter Twelve §4 Slot Grammar and Shared Scaling](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling));
   - process / response character where applicable; and
   - any Chapter Fourteen designation status;
 - where several actors share or divide responsibility for a violation, the verified reasons for any adverse standing recorded against one particular actor, including:
@@ -547,7 +547,7 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
   - benefit;
   - concealment; or
   - feasible prevention capacity;
-- where the violation finding involves a forum disclosure omission or intentional recusal-process failure (read **§8.2.2** (*How the way a harm was caused is recorded*) for measurement discipline):
+- where the violation finding involves a forum disclosure omission or intentional recusal-process failure (read **§8.2.2** (*How the Way a Harm Was Caused Is Recorded*) for measurement discipline):
   - the verified basis for the omission or failure;
   - the unmet disclosure or recusal duty;
   - the actor's knowledge, recklessness, or intent where found; and
@@ -563,7 +563,7 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
 
 <a id="42-related-standing-record-cross-references"></a>
 
-#### 4.2 Related standing record cross-references
+#### 4.2 Related Standing Record Cross-References
 
 
 If a contribution standing record and a violation standing record are about the same subject, overlap in time, or deal with the same event, pattern, or decision, each must point to the other.
@@ -584,7 +584,7 @@ Cross-references:
 
 <a id="43-collective-and-actor-specific-records"></a>
 
-#### 4.3 Collective and actor-specific records
+#### 4.3 Collective and Actor-Specific Records
 
 
 When several sentients or entities share the same benefit or violation, the system may keep both a collective standing record and separate actor-specific records. These rules apply:
@@ -637,7 +637,7 @@ The later version must preserve the prior audit trail and explain what changed, 
 
 <a id="45-implementation-tools"></a>
 
-#### 4.5 Implementation tools
+#### 4.5 Implementation Tools
 
 Teams may build practical tools for standing records, including:
 
@@ -653,7 +653,7 @@ Those tools must keep the fields required by **section 4.1** separately visible 
 
 <a id="5-record-custody-and-opening-authority"></a>
 
-### 5. Record custody and opening authority
+### 5. Record Custody and Opening Authority
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -672,13 +672,13 @@ Those tools must keep the fields required by **section 4.1** separately visible 
   - [Chapter Five *System Charter*](core_05.040_band_continuity.md#system-charter) (5.040) and
   - [*Institutional Charter*](core_05.040_band_continuity.md#institutional-charter) (*published scope documents whose Charter Role Map names the record-opening authority and custodian for a chartered scope*);
   - [Chapter Seven §4 *The Charter Role Map and Standing-Record Custody*](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody) (7.000 §4);
-  - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) — the standing-record custody field;
+  - **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) — the standing-record custody field;
   - [**CJS-5.125 §11** *Constitutional lane and functional separation*](corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*the five lanes the record duties are placed in; separation of duties*);
   - **CI-8.205 §2** (*Functional separation lanes — published lane map, the fallback when a System Charter or Institutional Charter is silent*);
   - **CI-8.205 §3** (*authority chain and delegation controls*);
-  - **CI-16.205 §6** (*Seat catalog — process-role archetypes and operational boundaries*) — the four record seats as seat types 1–4, with the wrong-seat rule;
+  - **CI-16.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*) — the four record seats as seat types 1–4, with the wrong-seat rule;
   - **CF-15.435 §6** (*no self-investigation*) and
-  - **CF-15.435 §8** (*Records, referrals, and backup routes*) for verified-finding handoff;
+  - **CF-15.435 §8** (*Records, Referrals, and Backup Routes*) for verified-finding handoff;
   - [Chapter Fifteen §2.1](core_15.000_forum.md#21-lead-default-limits) (15.000 §2.1) (*anti-self-judging backup*);
   - [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*who authorized; the log is not the standing record*);
   - [Chapter One §17.5](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.010 §17.5) (*halt, refuse, document, escalate*).
@@ -688,11 +688,11 @@ Those tools must keep the fields required by **section 4.1** separately visible 
 
 <br>
 
-*In plain terms: this section applies the four-seat rule in [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) to standing records. Asking for a change, verifying the facts, writing and holding the standing record, and hearing a challenge are separate jobs, and the office that verifies a standing record never enters it or hears a contest of it ([§5.1 Separation of duties](#51-separation-of-duties)). The System Charter or Institutional Charter names who fills each seat, through the Charter Role Map in [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody). This section adds what is specific to standing records: who is excluded from a standing record ([§5.4 No self-custody](#54-no-self-custody)); how that exclusion differs for operator and stakeholder standing records ([§5.5 Two kinds of standing record by subject](#55-two-kinds-of-standing-record-by-subject)) and for a single conflicted custodian ([§5.6 Conflicted custodian on a single standing record](#56-conflicted-custodian-on-a-single-standing-record)); where a standing record goes when a seat is unnamed ([§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or no System Charter or Institutional Charter applies ([§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)); and how the rules scale down for informal and small-scope work ([§5.9 Informal and small-scope records](#59-informal-and-small-scope-records)). [§6 Handling a standing record](#6-handling-a-standing-record) then says what the holders do with a standing record once custody is settled.*
+*In plain terms: this section applies the four-seat rule in [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) to standing records. Asking for a change, verifying the facts, writing and holding the standing record, and hearing a challenge are separate jobs, and the office that verifies a standing record never enters it or hears a contest of it ([§5.1 Separation of Duties](#51-separation-of-duties)). The System Charter or Institutional Charter names who fills each seat, through the Charter Role Map in [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody). This section adds what is specific to standing records: who is excluded from a standing record ([§5.4 No Self-Custody](#54-no-self-custody)); how that exclusion differs for operator and stakeholder standing records ([§5.5 Two Kinds of Standing Record by Subject](#55-two-kinds-of-standing-record-by-subject)) and for a single conflicted custodian ([§5.6 Conflicted Custodian on a Single Standing Record](#56-conflicted-custodian-on-a-single-standing-record)); where a standing record goes when a seat is unnamed ([§5.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or no System Charter or Institutional Charter applies ([§5.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)); and how the rules scale down for informal and small-scope work ([§5.9 Informal and Small-Scope Records](#59-informal-and-small-scope-records)). [§6 Handling a Standing Record](#6-handling-a-standing-record) then says what the holders do with a standing record once custody is settled.*
 
 <a id="51-separation-of-duties"></a>
 
-#### 5.1 Separation of duties
+#### 5.1 Separation of Duties
 
 This applies [Chapter Eight §2 *Four-Seat Constitutional Requirement*](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) to standing records. Four duties touch every standing record, and each is a separate seat on the same standing record:
 
@@ -705,7 +705,7 @@ This applies [Chapter Eight §2 *Four-Seat Constitutional Requirement*](core_08.
 
 Merged hosting is limited as follows (see [Chapter Eight §6 Proportional Scaling and Merged Hosting](core_08.000_functional_independence_separation_of_duties.md#6-proportional-scaling-and-merged-hosting)):
 
-- **Sharing a seat:** No office holds two of these seats on the same standing record unless the institution has published a merged-hosting safeguard for that pairing under **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) and **CI-8.205 §2** (*Functional separation lanes*) that is auditable and contestable.
+- **Sharing a seat:** No office holds two of these seats on the same standing record unless the institution has published a merged-hosting safeguard for that pairing under **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CI-8.205 §2** (*Functional Separation Lanes*) that is auditable and contestable.
 - **Never merged:** No office ever both verifies and enters the same standing record, or both verifies and hears the contest of it.
 - **The operator never verifies:** The office that runs the system a standing record concerns holds the execution lane for that system and therefore never verifies standing records about it.
 - **Merging is the exception:** Merged hosting under a published safeguard is a class-scaled exception for small adopters, not the default.
@@ -713,28 +713,28 @@ Merged hosting is limited as follows (see [Chapter Eight §6 Proportional Scalin
 
 <a id="52-named-record-opening-authority"></a>
 
-#### 5.2 Named record-opening authority
+#### 5.2 Named Record-Opening Authority
 
 Every opening, correction, expiry, or supersession of a standing record is authorized by a [**record-opening authority**](core_05.035_band_accountability.md#record-opening-authority): a role, office, forum, or body whose authority to verify the factual basis under Chapters Two through Four and authorize the change is published before it acts.
 
-- **Named in the System Charter or Institutional Charter:** Where the standing record concerns a system, institution, or business that holds a [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), that System Charter or Institutional Charter names the record-opening authority and record custodian for standing records concerning its chartered scope, or points to the published document that names them ([Chapter Seven §4.6 Standing-record custody](core_07.000_charters.md#46-standing-record-custody); **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*)).
+- **Named in the System Charter or Institutional Charter:** Where the standing record concerns a system, institution, or business that holds a [System Charter](core_05.040_band_continuity.md#system-charter) or [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), that System Charter or Institutional Charter names the record-opening authority and record custodian for standing records concerning its chartered scope, or points to the published document that names them ([Chapter Seven §4.6 Standing-Record Custody](core_07.000_charters.md#46-standing-record-custody); **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*)).
 - **Forums:** Forums act as record-opening authorities on the terms in **section 2.7**; a forum that verified a standing record does not hear the contest of that standing record, which goes to secondary review under [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) and **CF-15.420** (*Appeal, secondary review, and exhaustion pathways*).
-- **No authority named:** Where a System Charter or Institutional Charter reaches the standing record but leaves a required seat unnamed, [§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed) applies. Where neither a System Charter, an Institutional Charter, nor a forum designation reaches the standing record, [§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) applies, and the adopting document under [Chapter Nineteen](core_19.000_amendment_ratification.md) or the published rules of the body that operates the standing pipeline must then name one.
+- **No authority named:** Where a System Charter or Institutional Charter reaches the standing record but leaves a required seat unnamed, [§5.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed) applies. Where neither a System Charter, an Institutional Charter, nor a forum designation reaches the standing record, [§5.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) applies, and the adopting document under [Chapter Nineteen](core_19.000_amendment_ratification.md) or the published rules of the body that operates the standing pipeline must then name one.
 - **Provisional entries:** An entry made without a named authority is marked **provisional**: it preserves evidence and notice under **section 2.2**, but it supplies no verified input under **section 4.1** and no Chapter Thirteen effect until a named authority confirms it, corrects it, or sets it aside.
 
 <a id="53-record-custodian"></a>
 
-#### 5.3 Record custodian
+#### 5.3 Record Custodian
 
-Every standing record has a named [**record custodian**](core_05.035_band_accountability.md#record-custodian) that holds the standing record, controls versioning under **section 4.4**, publishes the challenge path under **section 4.1**, and answers for the standing record's continuity. It is a separate seat from the record-opening authority ([§5.1 Separation of duties](#51-separation-of-duties)).
+Every standing record has a named [**record custodian**](core_05.035_band_accountability.md#record-custodian) that holds the standing record, controls versioning under **section 4.4**, publishes the challenge path under **section 4.1**, and answers for the standing record's continuity. It is a separate seat from the record-opening authority ([§5.1 Separation of Duties](#51-separation-of-duties)).
 
 - **Custody must not lapse:** When a custodian is dissolved, conflicted, or replaced, custody transfers with the full audit trail under [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation) to the successor the System Charter, Institutional Charter, or backup designation names, or, where none is named, to the Backup Record Custodian (**CF-15.415 §9** (*Backup Record Custodian*)).
-- **If the Backup Record Custodian cannot act:** The supervising forum under **section 2.7** holds the standing record or designates a holder that passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10. The subject, a claimant, or a challenger may take a standing record to that forum at once, and a forum that holds a standing record or designates its holder does not hear a contest of that standing record.
+- **If the Backup Record Custodian cannot act:** The supervising forum under **section 2.7** holds the standing record or designates a holder that passes the tests in **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10. The subject, a claimant, or a challenger may take a standing record to that forum at once, and a forum that holds a standing record or designates its holder does not hear a contest of that standing record.
 - **One standing record or the whole store:** Where only one standing record is in conflict, only that standing record moves (see *Conflicted custodian on a single standing record* below); where the custodian itself ends or cannot continue, all the standing records it held move with their trail.
 
 <a id="54-no-self-custody"></a>
 
-#### 5.4 No self-custody
+#### 5.4 No Self-Custody
 
 The following may not act as record-opening authority or record custodian for a standing record:
 
@@ -745,14 +745,14 @@ The following may not act as record-opening authority or record custodian for a 
 Beyond that exclusion:
 
 - **Stewards inside the subject:** A steward who is part of the standing record's subject (that is, works within the party, chartered scope, or system the standing record is about) and who exercises Critical System Stewardship or material operational authority retains every duty under [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) and [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) — halt what they control, log the reconstructable set, preserve evidence they hold, notify, and escalate — and none of those acts is verification of the facts or entry of the standing record.
-  - **Independent verification:** Where the ordinary record-opening authority is itself the subject or sits in that line, the standing record routes to independent verification: a forum under **section 2.7**, the independent investigative service under **CF-15.435 §6** (*No self-investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or backup designation names first.
+  - **Independent verification:** Where the ordinary record-opening authority is itself the subject or sits in that line, the standing record routes to independent verification: a forum under **section 2.7**, the independent investigative service under **CF-15.435 §6** (*No Self-Investigation*), or a pre-designated backup body with published authority, whichever the System Charter, Institutional Charter, or backup designation names first.
 - **Defaults:** Where none is named, the Backup Record Authority (**CF-15.415 §7** (*Backup Record Authority*)) is the default record-opening authority and the Backup Record Custodian (**CF-15.415 §9** (*Backup Record Custodian*)) is the default custodian.
 - **No named route:** Absence of any such named route is a gap the steward must name in the log, not a reason to enter the standing record themselves.
-- **Two rules together:** This rule excludes parties by their interest in the standing record; [§5.1 Separation of duties](#51-separation-of-duties) separates seats by function. Both apply, and the narrower answer controls.
+- **Two rules together:** This rule excludes parties by their interest in the standing record; [§5.1 Separation of Duties](#51-separation-of-duties) separates seats by function. Both apply, and the narrower answer controls.
 
 <a id="55-two-kinds-of-standing-record-by-subject"></a>
 
-#### 5.5 Two kinds of standing record by subject
+#### 5.5 Two Kinds of Standing Record by Subject
 
 The conflicts of interest differ with the subject, so the custody rules differ. A standing record whose subject is a Chartered Party, its chartered scope, or a system it stewards is an **operator standing record**. A standing record whose subject is a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder standing record**. A standing record with neither subject follows *Separation of duties* and *No self-custody* above without further rule. Both kinds follow those two rules, and the narrower answer controls. Where a standing record's subject includes both a Chartered Party's side and a stakeholder, the operator standing record rules govern it.
 
@@ -767,7 +767,7 @@ The conflicts of interest differ with the subject, so the custody rules differ. 
 
 <a id="56-conflicted-custodian-on-a-single-standing-record"></a>
 
-#### 5.6 Conflicted custodian on a single standing record
+#### 5.6 Conflicted Custodian on a Single Standing Record
 
 Sometimes the named custodian is excluded under *No self-custody* from one standing record, while still serving as custodian for the other standing records in the same chartered scope. The usual cause is that the claimant, the subject, or the challenger reports to the custodian. The exclusion covers that one standing record only, and lasts only as long as the conflict does. The answer is a substitute custodian for that standing record. The custodian does not simply step aside and leave the standing record waiting, and the custodian's other standing records do not move.
 
@@ -777,26 +777,26 @@ Sometimes the named custodian is excluded under *No self-custody* from one stand
   - **Keeps open:** the published challenge path.
   - **Does not enter:** any new version of the standing record while the conflict lasts.
 - **Where custody goes:** Custody of that standing record passes, with its full audit trail, to:
-  - **Named substitute:** the substitute holder the System Charter, Institutional Charter, or lane map names for the system concerned (**CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10; the **CI-8.205 §2** (*Functional separation lanes*) publication-and-evidence lane outside the control line).
+  - **Named substitute:** the substitute holder the System Charter, Institutional Charter, or lane map names for the system concerned (**CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10; the **CI-8.205 §2** (*Functional Separation Lanes*) publication-and-evidence lane outside the control line).
   - **None named:** the Backup Record Custodian (**CF-15.415 §9** (*Backup Record Custodian*)).
-  - **Backup Record Custodian cannot act:** the supervising forum under **section 2.7**. The forum either holds the standing record itself or designates a holder that passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10.
+  - **Backup Record Custodian cannot act:** the supervising forum under **section 2.7**. The forum either holds the standing record itself or designates a holder that passes the tests in **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
 - **Naming:** Whoever takes custody, whether a named substitute, the Backup Record Custodian, or the forum, is named on the standing record as the substitute custodian.
 - **When the conflict ends:** The interested party leaves the control line, or the standing record closes for its decision context. Custody may then return by a logged transfer under *Record custodian* above.
 - **Entering anyway:** A custodian who keeps entering versions because they think the conflict is only a technicality commits the *No self-custody* failure. Whether a conflict is too small to matter is not the custodian's call to make.
-- **Lane map defect:** If an institution's lane map puts every custodian for a system inside the reporting line of the office that runs that system, the lane map has a defect under **CI-8.205 §2** (*Functional separation lanes*) that the institution must correct. Until it does, the institution's standing records for that system go to a forum.
+- **Lane map defect:** If an institution's lane map puts every custodian for a system inside the reporting line of the office that runs that system, the lane map has a defect under **CI-8.205 §2** (*Functional Separation Lanes*) that the institution must correct. Until it does, the institution's standing records for that system go to a forum.
 
 <a id="57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed"></a>
 
-#### 5.7 When a System Charter or Institutional Charter leaves a seat unnamed
+#### 5.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed
 
-Where a standing record goes when the ordinary named route is unavailable depends on three questions, which the chart below takes in order. This section covers a System Charter or Institutional Charter that leaves a seat unnamed; [§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) covers the case where none reaches the standing record.
+Where a standing record goes when the ordinary named route is unavailable depends on three questions, which the chart below takes in order. This section covers a System Charter or Institutional Charter that leaves a seat unnamed; [§5.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) covers the case where none reaches the standing record.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to read the chart</span></strong></summary>
 
 > In plain terms: a standing record is handled by the offices the System Charter or Institutional Charter names. If the System Charter or Institutional Charter leaves a seat unnamed, it is invalid until the gap is fixed, and the standing record goes to the Backup Record Authority and Backup Record Custodian, or to a forum, not to the lane map. If no System Charter or Institutional Charter reaches the standing record at all, the institution's published lane map decides, and where there is none the standing record goes to independent verification or, for informal and small-scope work, to the body that relies on it.
 >
-> Every path ends at the same box: one office verifies the facts and a separate one enters and holds the standing record, and [§6 Handling a standing record](#6-handling-a-standing-record) then governs what the holders do with it. Solid arrows are the main path. Dotted arrows are hand-offs, labeled with the section that makes them. The boxes with double side bars belong to another chapter, and the last one is where effects on standing are drawn, from the standing record, without rewriting it. The chart adds no duty, seat, or field.
+> Every path ends at the same box: one office verifies the facts and a separate one enters and holds the standing record, and [§6 Handling a Standing Record](#6-handling-a-standing-record) then governs what the holders do with it. Solid arrows are the main path. Dotted arrows are hand-offs, labeled with the section that makes them. The boxes with double side bars belong to another chapter, and the last one is where effects on standing are drawn, from the standing record, without rewriting it. The chart adds no duty, seat, or field.
 
 </details>
 
@@ -843,8 +843,8 @@ flowchart TB
 
 A System Charter or Institutional Charter that leaves a required record seat or the independent route unnamed:
 
-- **Consequence:** The System Charter or Institutional Charter is invalid, and a change that would do so is not allowed ([Chapter Seven §4.7.1 When a gap exists and how it is logged](core_07.000_charters.md#471-when-a-gap-exists-and-how-it-is-logged)).
-- **Chapter Seven owns the gap process:** [Chapter Seven §4.7 Gaps in the map for operator standing records](core_07.000_charters.md#47-gaps-in-the-map-for-operator-standing-records) also owns:
+- **Consequence:** The System Charter or Institutional Charter is invalid, and a change that would do so is not allowed ([Chapter Seven §4.7.1 When a Gap Exists and How It Is Logged](core_07.000_charters.md#471-when-a-gap-exists-and-how-it-is-logged)).
+- **Chapter Seven owns the gap process:** [Chapter Seven §4.7 Gaps in the Map for Operator Standing Records](core_07.000_charters.md#47-gaps-in-the-map-for-operator-standing-records) also owns:
   - how a gap is logged;
   - the response and resolution windows (including emergency substitution); and
   - when custody goes back to the named holders.
@@ -852,7 +852,7 @@ A System Charter or Institutional Charter that leaves a required record seat or 
 For standing records, this section adds:
 
 - **Who may not act:** While a required seat is vacant and the System Charter or Institutional Charter names no valid replacement, no one may perform that seat's function, except by the route in the next bullet.
-- **Where the standing record goes:** The standing record goes to the Backup Record Authority and the Backup Record Custodian, or to a forum under **section 2.7**, as [§5.4 No self-custody](#54-no-self-custody) provides, and the lane map does not stand in. Each standing record stays whole with one custodian.
+- **Where the standing record goes:** The standing record goes to the Backup Record Authority and the Backup Record Custodian, or to a forum under **section 2.7**, as [§5.4 No Self-Custody](#54-no-self-custody) provides, and the lane map does not stand in. Each standing record stays whole with one custodian.
 - **Standing records already held:**
   - On the day notice of the gap reaches a forum, a registrar, or the Backup Record Authority, any operator standing record held by an office inside the Chartered Party's Material Control Line moves to the Backup Record Custodian with its full trail.
   - Until then that office holds it read-only, enters no version, and gives the Backup Record Custodian a complete copy with its full trail at once.
@@ -861,27 +861,27 @@ For standing records, this section adds:
   - **Declines the seat:** Having the access or technical ability to enter the standing record gives them no authority to enter it.
   - **Names the request and the gap:** They name both in the log.
   - **Sends the standing record on:** They send it by the route in *Where the standing record goes* above.
-  - **Keeps their other duties:** The duties they already have under [§5.4 No self-custody](#54-no-self-custody) (*Stewards inside the subject*) continue: they halt what they control, log the reconstructable set, preserve the evidence they hold, notify, and escalate. None of those acts verifies the facts or enters the standing record. The log and the preserved evidence go with the standing record as inputs for the authority that verifies it; they are not an entry, and they do not decide the facts.
+  - **Keeps their other duties:** The duties they already have under [§5.4 No Self-Custody](#54-no-self-custody) (*Stewards inside the subject*) continue: they halt what they control, log the reconstructable set, preserve the evidence they hold, notify, and escalate. None of those acts verifies the facts or enters the standing record. The log and the preserved evidence go with the standing record as inputs for the authority that verifies it; they are not an entry, and they do not decide the facts.
 
 <a id="58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record"></a>
 
-#### 5.8 Fallback when no System Charter or Institutional Charter reaches the standing record
+#### 5.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record
 
-Where no System Charter or Institutional Charter covers the system, institution, or business the standing record concerns, as with a body below the Class L line that has published none, the institution's published lane map under **CI-8.205 §2** (*Functional separation lanes*) governs:
+Where no System Charter or Institutional Charter covers the system, institution, or business the standing record concerns, as with a body below the Class L line that has published none, the institution's published lane map under **CI-8.205 §2** (*Functional Separation Lanes*) governs:
 
-- **Record-opening authority:** The office the lane map places in the assurance and audit lane for the system, institution, or business the standing record concerns. That office verifies the factual basis and authorizes the entry ([§5.2 Named record-opening authority](#52-named-record-opening-authority)); it does not enter or hold the standing record.
+- **Record-opening authority:** The office the lane map places in the assurance and audit lane for the system, institution, or business the standing record concerns. That office verifies the factual basis and authorizes the entry ([§5.2 Named Record-Opening Authority](#52-named-record-opening-authority)); it does not enter or hold the standing record.
 - **Custodian:** The office holding the publication and evidence lane.
 - **Execution lane excluded:** Neither may be the office holding the execution lane for the system concerned.
 - **No lane map either:** The standing record routes to independent verification under *No self-custody* above, or, for informal and small-scope records, to the relying body under *Informal and small-scope records* next.
-- **Stewards:** A steward who is asked to fill a seat that the lane map does not give them follows the *Stewards* rule in [§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed): they decline the seat, name the request and the gap in the log, and keep their other duties. They send the standing record to the office the lane map names or, where it names none, by the route in *No lane map either* above.
+- **Stewards:** A steward who is asked to fill a seat that the lane map does not give them follows the *Stewards* rule in [§5.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed): they decline the seat, name the request and the gap in the log, and keep their other duties. They send the standing record to the office the lane map names or, where it names none, by the route in *No lane map either* above.
 
 <a id="59-informal-and-small-scope-records"></a>
 
-#### 5.9 Informal and small-scope records
+#### 5.9 Informal and Small-Scope Records
 
 Separation of duties scales with material stake, not with formality ([Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)).
 
-- **Work covered:** Local communities run on many kinds of contribution, and much of it is unpaid and informal. This applies to unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work, which [Chapter Thirteen §7 Contribution consequences second](core_13.000_standing_integration.md#7-contribution-consequences-second) requires to be recognized on equal standards.
+- **Work covered:** Local communities run on many kinds of contribution, and much of it is unpaid and informal. This applies to unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work, which [Chapter Thirteen §7 Contribution Consequences Second](core_13.000_standing_integration.md#7-contribution-consequences-second) requires to be recognized on equal standards.
   - **What it looks like locally:** Neighbors sharing food and tools (mutual aid); looking after a sick or aging neighbor (care); keeping a shared garden or creek in good shape (maintenance and community stewardship); fixing a neighbor's pipes (repair); tutoring or showing someone a skill (teaching). Each is its own kind of contribution.
 - **Who fills the verify seat:** For that work, the verify seat is satisfied by **any independent body with published authority to rely on the standing record**, which then acts as the verifying authority.
   - **Who that usually is:** Often the body that will rely on the standing record: a local group such as a watershed council, an organization that funds the work or keeps it going, the **CI-6.255** (*Commons, cooperatives, mutual aid, and non-market community governance*) records-recognition authority (a body that recognizes records of community work like this), or a forum under **section 2.7**.
@@ -920,16 +920,16 @@ On such a standing record:
   - **Example, a bar incident:** Someone films another sentient in a bar who becomes drunk, disorderly, and violent, though no one is physically harmed.
     - **No injury needed:** A verified credible threat of violence can support a violation standing record even when no one is hurt (**section 3.2**, coercive agency loss).
     - **The video is an input:** The sentient who filmed is a witness. The footage is an input and never verification by itself, and its existence opens nothing on its own (**section 2.2**).
-    - **The sentient on the video:** They are the subject. They are told when a standing record opens, and they may not fill any seat ([§5.4 No self-custody](#54-no-self-custody)).
+    - **The sentient on the video:** They are the subject. They are told when a standing record opens, and they may not fill any seat ([§5.4 No Self-Custody](#54-no-self-custody)).
     - **Verify seat:** An independent body with published authority to rely on the standing record, such as a local licensing or safety body, or a forum under **section 2.7**. The sentient who filmed and the bar's owner are excluded from it if either is a claimant or in a claimant's [Material Control Line](core_05.035_band_accountability.md#material-control-line).
     - **Entry, custody, and contest:** A separate record custodian enters and holds the standing record, and a contest goes to the challenge lane or a forum under **section 2.7**, not back to the verifying body.
-- a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Thirteen §7.2 Competency bars and clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
+- a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Thirteen §7.2 Competency Bars and Clearances](core_13.000_standing_integration.md#72-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
 
 None of this requires a standing record to exist. **Section 2.2** *Silence is the default* controls: informal work is not recorded because it could be, and separation of duties binds only once a standing record is sought.
 
 <a id="6-handling-a-standing-record"></a>
 
-### 6. Handling a standing record
+### 6. Handling a Standing Record
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -955,11 +955,11 @@ None of this requires a standing record to exist. **Section 2.2** *Silence is th
 
 <br>
 
-*In plain terms: once custody is settled, four rules govern how the sentients and offices that hold a standing record handle it. What a prior recorder says is evidence to be weighed, not a ruling ([§6.1 Recorder statements are inputs](#61-recorder-statements-are-inputs)). Every change names who made it, under what authority, and at whose request ([§6.2 Attributed entry](#62-attributed-entry)). A challenge is logged and routed the day it arrives ([§6.3 Challenge received on the standing record](#63-challenge-received-on-the-standing-record)). And a custody question is never a reason to wait, and holding a standing record is not owning it ([§6.4 Custody is not delay, and custody is not ownership](#64-custody-is-not-delay-and-custody-is-not-ownership)).*
+*In plain terms: once custody is settled, four rules govern how the sentients and offices that hold a standing record handle it. What a prior recorder says is evidence to be weighed, not a ruling ([§6.1 Recorder Statements Are Inputs](#61-recorder-statements-are-inputs)). Every change names who made it, under what authority, and at whose request ([§6.2 Attributed Entry](#62-attributed-entry)). A challenge is logged and routed the day it arrives ([§6.3 Challenge Received on the Standing Record](#63-challenge-received-on-the-standing-record)). And a custody question is never a reason to wait, and holding a standing record is not owning it ([§6.4 Custody Is Not Delay, and Custody Is Not Ownership](#64-custody-is-not-delay-and-custody-is-not-ownership)).*
 
 <a id="61-recorder-statements-are-inputs"></a>
 
-#### 6.1 Recorder statements are inputs
+#### 6.1 Recorder Statements Are Inputs
 
 What a prior recorder says after the fact is weighed on these terms:
 
@@ -974,7 +974,7 @@ What a prior recorder says after the fact is weighed on these terms:
 
 <a id="62-attributed-entry"></a>
 
-#### 6.2 Attributed entry
+#### 6.2 Attributed Entry
 
 Every change to a standing record leaves a trail on these terms:
 
@@ -990,7 +990,7 @@ Every change to a standing record leaves a trail on these terms:
 
 <a id="63-challenge-received-on-the-standing-record"></a>
 
-#### 6.3 Challenge received on the standing record
+#### 6.3 Challenge Received on the Standing Record
 
 A challenge is handled on these terms from the moment it arrives:
 
@@ -1000,37 +1000,37 @@ A challenge is handled on these terms from the moment it arrives:
   - **Set status:** sets the review status under **section 4.1** to *under challenge*;
   - **Notify:** notifies the subject and any claimant; and
   - **Route:** routes it to the contest seat, whichever of these the standing record's published challenge path names:
-    - **Challenge-and-review lane:** the office holding the challenge-and-review lane under **CI-8.205 §2** (*Functional separation lanes*); or
-    - **Forum:** a forum with jurisdiction under **section 2.7** and [Chapter Fifteen §2.3 Forum case records, standing records, and contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests) (*Contests of standing records*).
+    - **Challenge-and-review lane:** the office holding the challenge-and-review lane under **CI-8.205 §2** (*Functional Separation Lanes*); or
+    - **Forum:** a forum with jurisdiction under **section 2.7** and [Chapter Fifteen §2.3 Forum Case Records, Standing Records, and Contests](core_15.000_forum.md#23-forum-case-records-standing-records-and-contests) (*Contests of standing records*).
 - **Published path first:** Taking the challenge along the standing record's published challenge path is the ordinary first step under [Dispute sequencing](core_15.000_forum.md#dispute-sequencing); a forum with jurisdiction remains available when that path is itself disputed, missing, captured, or unable to grant the needed relief.
 - **Who decides:** The custodian and the authority do not decide the challenge, whether it goes along the published path or to a forum. The contest seat decides it: the office holding the challenge-and-review lane, or the forum, as above.
 - **Challenge is not a correction request:** A challenge is not a request for correction and does not freeze one: the challenger's account, like the claimant's, is an input to verification under *Recorder statements are inputs* and **section 4.1**, never verification, and no party may treat the pending challenge as a reason to enter, or to refuse to enter, a version the record-opening authority has otherwise verified.
-- **Clock:** The tier windows under [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
-- **No contest seat named:** If no contest seat (the office that hears challenges) has been named, the challenge is not dropped. The missing seat is a defect in the System Charter or Institutional Charter: field 10 of **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*). The defect is written on the standing record, and the challenge goes to the supervising forum under **section 2.7**. Closing a challenge because there is nowhere to send it is obstruction under [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and **section 3.2** (*Obstruction of accountability*).
+- **Clock:** The tier windows under [Chapter Fifteen §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
+- **No contest seat named:** If no contest seat (the office that hears challenges) has been named, the challenge is not dropped. The missing seat is a defect in the System Charter or Institutional Charter: field 10 of **CI-8.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*). The defect is written on the standing record, and the challenge goes to the supervising forum under **section 2.7**. Closing a challenge because there is nowhere to send it is obstruction under [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and **section 3.2** (*Obstruction of Accountability*).
 
 <a id="64-custody-is-not-delay-and-custody-is-not-ownership"></a>
 
-#### 6.4 Custody is not delay, and custody is not ownership
+#### 6.4 Custody Is Not Delay, and Custody Is Not Ownership
 
 Who holds a standing record, and any dispute over it, is handled on these terms:
 
 - **Send it on, do not wait:** If it is unclear who should hold or act on a standing record, send the matter to the authority that is named, or to an independent one. Do not wait for the question to settle first.
-- **No stalling:** Nobody may use any of these three things to keep the standing record open, keep it closed, or leave it uncorrected past the time limits (tier windows) in [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*):
+- **No stalling:** Nobody may use any of these three things to keep the standing record open, keep it closed, or leave it uncorrected past the time limits (tier windows) in [Chapter Fifteen §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*):
   - **A custody dispute:** a dispute over who holds the standing record;
   - **A missing recorder:** a prior recorder who cannot be reached; or
-  - **An unnamed seat:** the record-opening authority, record custodian, or contest seat for the standing record has not been named, either because a System Charter or Institutional Charter leaves it unnamed ([§5.7 When a System Charter or Institutional Charter leaves a seat unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or because none reaches the standing record ([§5.8 Fallback when no System Charter or Institutional Charter reaches the standing record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)).
+  - **An unnamed seat:** the record-opening authority, record custodian, or contest seat for the standing record has not been named, either because a System Charter or Institutional Charter leaves it unnamed ([§5.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed](#57-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or because none reaches the standing record ([§5.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record](#58-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)).
 - **Holding is not owning:** Holding a standing record gives no power over:
   - how Question 2 measurement is calibrated;
   - the Chapter Thirteen effects on standing; or
   - the subject of the standing record.
-- **Misuse is its own violation:** A custodian that does any of the following becomes the subject of a separate violation standing record under **section 3.2** (*Obstruction of accountability*):
+- **Misuse is its own violation:** A custodian that does any of the following becomes the subject of a separate violation standing record under **section 3.2** (*Obstruction of Accountability*):
   - applies an effect;
   - hides the challenge path; or
   - makes entry depend on the subject's cooperation.
 
 **Continuation.** Question 2 measurement continues in [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it), beginning with [Chapter Twelve section 1 — Question 2: how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it).
 
-*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): every full vignette opens at Question 1, for example [CJS-11.105 §1 Child neglect / care-duty failure (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a), [CJS-11.105 §7 An ordinary year with no filing and no sensitive role](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-11.105 §9 Watershed steward negligence with concealed test results (violation measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): every full vignette opens at Question 1, for example [CJS-11.105 §1 Child Neglect / Care-Duty Failure (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a), [CJS-11.105 §7 An Ordinary Year with No Filing and No Sensitive Role](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-11.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
 ---
 

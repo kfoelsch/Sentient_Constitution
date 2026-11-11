@@ -55,7 +55,7 @@
       "tetrad_leg": "Continuity",
       "ch00_measurement": ["3.3 Continuity", "3.8 Constitutional performance"]
     },
-    "Def.C3 Privacy (Informational) — peer-level cluster head": {
+    "Def.C3 Privacy (Informational) — Peer-Level Cluster Head": {
       "primary_aim": "Flourishing",
       "tetrad_leg": "Continuity",
       "ch00_measurement": ["3.4 Participation"]
@@ -75,7 +75,7 @@
       "tetrad_leg": "Continuity",
       "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
     },
-    "Materiality, impact, risk, and proxy integrity": {
+    "Materiality, Impact, Risk, and Proxy Integrity": {
       "primary_aim": "cross-cutting",
       "tetrad_leg": "Integrative",
       "ch00_measurement": ["3.5 Oversight", "3.6 Accountability"]
@@ -218,7 +218,7 @@
       "tetrad_leg": "Integrative",
       "ch00_measurement": ["3.5 Oversight"]
     },
-    "Materiality Under Uncertainty": {
+    "Materiality under Uncertainty": {
       "tetrad_leg": "Integrative",
       "ch00_measurement": ["3.5 Oversight"]
     },

@@ -1,9 +1,9 @@
-# CJS-5.120: Participation leg operations (oDef.7–oDef.10)
+# CJS-5.120: Participation Leg Operations (oDef.7–oDef.10)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty](../core_20.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) through **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty](../core_20.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) through **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -13,11 +13,11 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
-  - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
+  - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
   - [Chapter Twenty](../core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) incorporation discipline and
   - [Chapter Five](../core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
-- Read with: [CJS-5.105 §1](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional compass and cluster map*) constitutional compass.
+- Read with: [CJS-5.105 §1](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
 
 </details>
 
@@ -25,7 +25,7 @@
 
 Core home: 05
 
-This file is the joint-structure implementation home for **Participation leg (CJS-5.120 §7 (*Participation: quorum and participatory legitimacy terms*)–CJS-5.120 §10 (*Participation: disclosure sufficiency and observability terms*) / oDef.7–oDef.10)**.
+This file is the joint-structure implementation home for **Participation leg (CJS-5.120 §7 (*Participation: Quorum and Participatory Legitimacy Terms*)–CJS-5.120 §10 (*Participation: Disclosure Sufficiency and Observability Terms*) / oDef.7–oDef.10)**.
 
 *In plain terms: These clusters carry the **Participation** leg into working terms: who must be in the room for a decision to count, whether what is disclosed can actually be understood, whether important information is buried under trivia, and whether enough is visible to contest an outcome at all.*
 
@@ -39,12 +39,12 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 
 ---
 
-## CJS-5.120 §7 Participation: quorum and participatory legitimacy terms
+## CJS-5.120 §7 Participation: Quorum and Participatory Legitimacy Terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) and **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*); **CJS-5.125 §13** (*Accountability: procedural integrity and adjudication terms*).
-- Read with: **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*), **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-5.125 §13** (*Accountability: procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
+- Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*); **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*).
+- Read with: **CJS-5.125 §11** (*Accountability: Distributed and Proportional Authority Terms*), **CJS-5.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*), and **CJS-5.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*) for authority, participation legitimacy, and procedural integrity terms
 - Read with: **Sentient Constitution Chapter Sixteen** section 4
 - Read with: **Chapter Six **Article X-B** (*Governance Participation and Voting Entitlement*)**
 - Read with: **Chapter Six **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)**
@@ -294,12 +294,12 @@ Weighted participation
 
 ---
 
-## CJS-5.120 §8 Participation: comprehensibility and cognitive accessibility terms
+## CJS-5.120 §8 Participation: Comprehensibility and Cognitive Accessibility Terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-5.120 §8 — Comprehensibility and Cognitive Accessibility**
-- Read with: [**CS-6.315**](../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and complexity stewardship*)
+- Read with: [**CS-6.315**](../corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md#cs-6315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §5.2, §13.2, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -512,23 +512,23 @@ Summary integrity
 
 ---
 
-## CJS-5.120 §9 Participation: salience integrity and attention-allocation terms
+## CJS-5.120 §9 Participation: Salience Integrity and Attention-Allocation Terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - **CJS-5.120 §9** (*Participation: salience integrity and attention-allocation terms*) and
-  - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*);
-  - **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*);
-  - **CJS-5.130 §21** (*Continuity: adversarial robustness and abuse-resistance terms*).
-- Read with: **CJS-5.120 §9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
+  - **CJS-5.120 §9** (*Participation: Salience Integrity and Attention-Allocation Terms*) and
+  - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
+  - **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*);
+  - **CJS-5.130 §21** (*Continuity: Adversarial Robustness and Abuse-Resistance Terms*).
+- Read with: **CJS-5.120 §9** (*Participation: Salience Integrity and Attention-Allocation Terms*) and **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*) — System Status, Risk, and Scope Representation
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **CJS-5.130 §21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §3, §15.2, §6, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -723,18 +723,18 @@ User agency and control
 
 ---
 
-## CJS-5.120 §10 Participation: disclosure sufficiency and observability terms
+## CJS-5.120 §10 Participation: Disclosure Sufficiency and Observability Terms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-5.120 §10** (*Participation: disclosure sufficiency and observability terms*); **CJS-5.130 §16** (*Continuity: dependency integrity and disclosure terms*).
+- Read with: **CJS-5.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*); **CJS-5.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*).
 - Read with: **CJS-5.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **CJS-5.130 §16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity** where dependencies matter
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_05.050_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §18.2, §19.1, §15 (see [cluster map](cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-20.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -848,7 +848,7 @@ Product and service health and safety information
 *In plain terms: when a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, what it says about safety, health, nutrition, ingredients, and allergens must be true, backed up, kept current, and usable by the sentients who need it.*
 
 - **What it is**
-  - **In scope:** Where a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, the safety warnings, health claims, nutrition facts, ingredients, and allergen information it gives, on a label, listing, app, voice answer, or recommendation, must be accurate and complete enough to act on. It must say plainly when something is unknown, untested, or possibly present through shared production, instead of leaving a gap that reads as safe. Health, nutrition, and "free-from" claims must be backed by evidence. Supplier and other third-party claims must be checked before they are passed on when health or safety depends on them. The information must stay current when ingredients, suppliers, or processes change, and must be usable in forms that sentients with different sensory, cognitive, and language needs can use at the point of decision (**Article VI-D** (*Accessibility*)). Where the system uses a sentient's own health, allergy, or dietary information to tailor what it says, it must apply that information correctly and use it only for that purpose ([Chapter One §15.1.2 Derived-Information Principle](../core_01.005_interaction_interpretation.md#1512-derived-information-principle)). Those profiles are **Type I** data ([CS-6.310 Part B §9.5 Type I: Identity and attribution data](../corpus_systems/cs_06.310_data_classifications.md#95-type-i-identity-and-attribution-data)). **Article III-F** (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../core_05.055_band_participation.md#commercial-compliance).
+  - **In scope:** Where a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, the safety warnings, health claims, nutrition facts, ingredients, and allergen information it gives, on a label, listing, app, voice answer, or recommendation, must be accurate and complete enough to act on. It must say plainly when something is unknown, untested, or possibly present through shared production, instead of leaving a gap that reads as safe. Health, nutrition, and "free-from" claims must be backed by evidence. Supplier and other third-party claims must be checked before they are passed on when health or safety depends on them. The information must stay current when ingredients, suppliers, or processes change, and must be usable in forms that sentients with different sensory, cognitive, and language needs can use at the point of decision (**Article VI-D** (*Accessibility*)). Where the system uses a sentient's own health, allergy, or dietary information to tailor what it says, it must apply that information correctly and use it only for that purpose ([Chapter One §15.1.2 Derived-Information Principle](../core_01.005_interaction_interpretation.md#1512-derived-information-principle)). Those profiles are **Type I** data ([CS-6.310 Part B §9.5 Type I: Identity and Attribution Data](../corpus_systems/cs_06.310_data_classifications.md#95-type-i-identity-and-attribution-data)). **Article III-F** (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../core_05.055_band_participation.md#commercial-compliance).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in product and service health and safety information.
 <a id="product-and-service-health-and-safety-information-a"></a>
 - **How to measure and assess**

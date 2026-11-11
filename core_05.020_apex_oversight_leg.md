@@ -16,14 +16,14 @@
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
   - [Flourishing](core_00.000_preamble.md#flourishing).
 - Downstream: Principles:
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18); Chapter One Part B tradeoff and interpretation homes:
+  - [Chapter One §18 Governance under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18); Chapter One Part B tradeoff and interpretation homes:
   - [Chapter One §13.1.2 Harm Minimization](core_01.005_interaction_interpretation.md#1312-harm-minimization) (1.005 §13.1.2);
   - [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (1.005 §13.1.5);
   - [Chapter One §13.2 Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005 §13.2);
   - [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4);
   - [Chapter One §15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle) (1.005 §15.1);
-  - [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4);
-  - [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in
+  - [Chapter One §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_01.005_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (1.005 §15.4.4);
+  - [Tetrad Leg Decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in
   - [core_05.050_band_oversight.md](core_05.050_band_oversight.md).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
@@ -56,7 +56,7 @@ Chapter Five, Oversight Tetrad leg, is the constitutional owner of the **Oversig
     - oversight requires [Auditability](core_05.050_band_oversight.md#auditability) and related audit mechanisms under **Article XVI** (*Audit, Transparency, and Independent Verification*);
     - how much oversight is required scales with [Material Impact](core_05.050_band_oversight.md#material-impact), [Dependency](core_05.040_band_continuity.md#dependency), and [Risk](core_05.040_band_continuity.md#risk); and
     - [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process under that requirement — not the only auditing process.
-  - **Depends on:** the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition):
+  - **Depends on:** the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg Decomposition](#oversight-tetrad-leg-decomposition):
     - [Material Impact](core_05.050_band_oversight.md#material-impact);
     - [Dependency](core_05.040_band_continuity.md#dependency);
     - [Risk](core_05.040_band_continuity.md#risk);
@@ -69,7 +69,7 @@ Chapter Five, Oversight Tetrad leg, is the constitutional owner of the **Oversig
 <a id="oversight-constitutional-m"></a>
 <a id="oversight-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** How to tell whether systems can actually be watched, checked, and kept within bounds. This entry only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition).
+  - **Primary measure:** How to tell whether systems can actually be watched, checked, and kept within bounds. This entry only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg Decomposition](#oversight-tetrad-leg-decomposition).
   - **Primary assessment:**
     - Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
     - Ask whether oversight is real — able to see problems and change outcomes — not just ceremony.
@@ -87,7 +87,7 @@ Chapter Five, Oversight Tetrad leg, is the constitutional owner of the **Oversig
 <a id="oversight-tetrad-leg-decomposition"></a>
 <a id="oversight-leg-decomposition"></a>
 
-### Tetrad Leg decomposition
+### Tetrad Leg Decomposition
 
 *In plain terms: this map lists the Oversight clusters and topic groups; leaf definitions inherit this leg's scope unless they say otherwise.*
 
@@ -100,16 +100,16 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 **Semi-independent topic groups** (invoke per admission scope):
 
-- [Materiality, impact, risk, and proxy integrity](core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
+- [Materiality, Impact, Risk, and Proxy Integrity](core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
 
-**Independent terms** live under [Oversight: Independent terms](core_05.050_band_oversight.md#oversight-independent-terms).
+**Independent terms** live under [Oversight: Independent Terms](core_05.050_band_oversight.md#oversight-independent-terms).
 
 ---
 
 <a id="threshold-scaling-measurement-family"></a>
 <a id="oversight-measurement-family"></a>
 
-### Measuring Oversight (Preamble measurement family)
+### Measuring Oversight (Preamble Measurement Family)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

@@ -79,7 +79,7 @@ Full router: [corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md](.
 | CJS-R16 | Cross-institution coordination, deadlock, and escalation | [**CI-15.210**](../../corpus_institutions/ci_15.210_cross_institution_coordination_escalation.md) |
 | CJS-R17 | Cross-implementation trust integrity (joint operation model) | **CJS-20.110 §3 — Cross-implementation trust integrity** |
 | CJS-R18 | Class-scaled lane staffing and competency redundancy for materially binding stewardship | [**CI-8.205**](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md), **CI-16.205**, **CI-6.215**, **CI-15.210** |
-| CJS-R19 | integrity assurance and resilience operations | **CJS-5.110 §6** (*Oversight: integrity assurance and resilience operations*) |
+| CJS-R19 | integrity assurance and resilience operations | **CJS-5.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) |
 | CJS-R20 | Remedy parity and lock-to-remedy capacity | [**CI-13.205**](../../corpus_institutions/ci_13.205_remedy_systems_institutional_redress_capacity.md) |
 | CJS-R21 | Capacity-failure routing | [**CF-15.415**](../../corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md) |
 | CJS-R22 | Standing-record custody, opening authority, and separation of duties | [**CI-8.205**](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) (*CI-8.205 §2 lane map — the fallback when a System Charter or Institutional Charter is silent; CI-8.205 §6 System Charter or Institutional Charter field — standing-record custody*) |

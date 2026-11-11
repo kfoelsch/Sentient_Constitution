@@ -1,4 +1,4 @@
-# Reader guides
+# Reader Guides
 
 Maps that help readers see how the Constitution fits together. They are help for readers, not constitutional text: they add no duties and cannot change what the numbered `core_*` files say. Start at the [main README](../README.md) if you are new.
 

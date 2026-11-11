@@ -166,7 +166,7 @@ When Chapter Six, [Chapter Nine](core_09.000_system_alignment_certification_eval
 - **Functional independence and separation of duties** ([Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)) — before a materially binding act moves, identify and separate the initiating, verify-or-authorize, record, and contest seats under the applicable scaling and independence rules.
 - **System alignment certification** ([Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence to determine whether it is constitutionally safe to rely on right now. Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to challenge and audit it ([Article XIII](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*)) keep it honest. Neither replaces the other.
 - **Standing records** ([Chapter Eleven](core_11.000_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)) — when conduct or harm matters constitutionally, place verified facts in formal contribution or violation case files; rumors and reputation are not enough.
-- **Correction and remedy** ([Chapter Thirteen §5.1 (*Remedy and correction*)](core_13.000_standing_integration.md#51-remedy-and-correction)) — correct the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed.
+- **Correction and remedy** ([Chapter Thirteen §5.1 (*Remedy and Correction*)](core_13.000_standing_integration.md#51-remedy-and-correction)) — correct the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed.
 - **Forum review** ([Chapter Fifteen](core_15.000_forum.md#1-purpose-and-role--participation-architecture))
   - Ordinary disputes within already-authorized systems use the published [Stakeholder System Participation](core_05.055_band_participation.md#stakeholder-status-and-weight) challenge path first.
   - If that path remains contested, is missing or captured, or cannot grant relief, route the dispute by primary stake through supervised forums.
@@ -286,7 +286,7 @@ This section summarizes the two floors that every later process relies on and wh
   - attributable handoffs and wrong-seat routing.
 - **What it produces:** A reusable four-seat and Act Record architecture. Every later certification, standing, forum, governance, and incorporated implementation process must instantiate it before its result can count as independently checked, reliably recorded, and genuinely contestable.
 
-#### 5.1 Four-seat separation map
+#### 5.1 Four-Seat Separation Map
 
 Each **Materially Binding Act** must observe these same-act safeguards:
 
@@ -342,7 +342,7 @@ The chapter summaries in Sections 4 through 9 make the division of labor explici
 - **Misconduct review** answers its distinct question: whether a qualifying violation also warrants a final ACMD.
 - **Forum supervision** controls routing, evidence, transfer, challenge, and remedy so the official records and decisions can be reviewed and corrected in time.
 
-#### 6.1 Process map
+#### 6.1 Process Map
 
 ```mermaid
 flowchart TB
@@ -403,7 +403,7 @@ The pipeline remains one constitutional process because each stage hands forward
 Together, these rules turn constitutional duties into records and decisions that sentients can check, challenge, repair, and rely on in practice, not only on paper.
 
 <a id="62-how-the-full-chain-fits-together"></a>
-#### 6.2 How the full chain fits together
+#### 6.2 How the Full Chain Fits Together
 
 *In plain terms: first separate the seats. Then follow the path from system check to remedy, with forums supervising the dispute and standing steps throughout.*
 
@@ -425,7 +425,7 @@ Each stage above links to its owner chapter, so the chain can be walked from her
 
 *In plain terms: the process map and [how the full chain fits together](#62-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.*
 
-Each step below states what the chapter owns and what it produces, filling in the owners named in [§6.2 How the full chain fits together](#62-how-the-full-chain-fits-together).
+Each step below states what the chapter owns and what it produces, filling in the owners named in [§6.2 How the Full Chain Fits Together](#62-how-the-full-chain-fits-together).
 
 **Chapter Nine — [System alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)**
 

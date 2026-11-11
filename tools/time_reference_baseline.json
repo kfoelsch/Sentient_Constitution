@@ -3,8 +3,8 @@
   "note": "Time references that predate TIME-REF-01 and do not yet name a bound kind and a tier or class (or a registered fixed period). Shrink this list; do not grow it. Regenerate with --write-baseline only when removing entries.",
   "known": [
     {
-      "key": "core_06.005_rights_part_b.md::duration::e8e27cc35bdc",
-      "snippet": "The independent review above must begin inside the prompt-review window ([Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-"
+      "key": "core_06.005_rights_part_b.md::duration::685892617cb7",
+      "snippet": "The independent review above must begin inside the prompt-review window ([Chapter Fifteen §6 Timely Resolution, Materiality Tiers, and Anti-"
     },
     {
       "key": "core_06.010_rights_part_c.md::duration::2b90d6a4fcc4",
@@ -79,10 +79,6 @@
       "snippet": "After 50 years, a contribution remains in the historical record but supplies no current clearance weight."
     },
     {
-      "key": "core_15.000_forum.md::duration::0c289b6c761a",
-      "snippet": "It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§6 Timely resolution, materiality tiers, a"
-    },
-    {
       "key": "core_15.000_forum.md::duration::3aa98e88dc91",
       "snippet": "Tier L: at most 60 days (two months);"
     },
@@ -113,6 +109,10 @@
     {
       "key": "core_15.000_forum.md::duration::7a2306390a5c",
       "snippet": "Tier P: at most 90 days (three months)."
+    },
+    {
+      "key": "core_15.000_forum.md::duration::8258ec984663",
+      "snippet": "It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§6 Timely Resolution, Materiality Tiers, a"
     },
     {
       "key": "core_15.000_forum.md::duration::ad88a551471f",
@@ -155,8 +155,12 @@
       "snippet": "Incomplete lodging: The date of first lodging stands if the missing items are supplied within the time the registrar states, which is never "
     },
     {
-      "key": "corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md::duration::13d0f906697c",
-      "snippet": "The restricted information authority (CF-15.415 §8 (*Restricted information authority*)) answers an access question in an Emergency-setting "
+      "key": "corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md::duration::04ce93a65704",
+      "snippet": "The restricted information authority (CF-15.415 §8 (*Restricted Information Authority*)) answers an access question in an Emergency-setting "
+    },
+    {
+      "key": "corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md::duration::113991ed9d9a",
+      "snippet": "Those outer bounds implement [Chapter Fifteen §6 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline] (7 / 14 / 30 / 60 / 90 day"
     },
     {
       "key": "corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md::duration::1f24f5b20505",
@@ -169,10 +173,6 @@
     {
       "key": "corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md::duration::895a8e06d4f8",
       "snippet": "At the Emergency setting the default restore-challenge window is 3 calendar days."
-    },
-    {
-      "key": "corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md::duration::96750ebd7c49",
-      "snippet": "Those outer bounds implement [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline] (7 / 14 / 30 / 60 / 90 day"
     },
     {
       "key": "corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md::duration::ad88a551471f",
