@@ -46,6 +46,7 @@
   - [Institutional Certification Record](core_05.040_band_continuity.md#institutional-certification-record) (*Chapter Five meanings*);
   - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*);
   - **CF-15.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+- Worked examples (they add no rule): [CS-9.320 §12 Illustrative Institution walkthroughs](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-12-illustrative-institution-walkthroughs) (*three invented Institutions walked through this chapter*).
 
 </details>
 
@@ -1231,6 +1232,8 @@ These items, in the Institutional Certification Record, may supply verified inpu
 - verified operation outside certified scope;
 - infrastructure fragility inappropriate for the institution class; and
 - a material defect found under an evaluation that was required of the Institution's own conduct under [§3 Whole-Institution Certification Evaluation](#3-whole-institution-certification-evaluation), [§4 Evaluations Where Implicated](#4-evaluations-where-implicated), or [§5 Rights-Floor and Domain Evaluations](#5-rights-floor-and-domain-evaluations), including each kind of defect that [Chapter Nine Part C §11.5 Violation standing record](core_09.010_system_alignment_certification_record_recertification.md#115-violation-standing-record) lists: data handling, risk evaluation or risk disclosure where systemic risk was in scope, ecological-footprint misrepresentation where disclosure was required, nondiscrimination or proxy discrimination, accessibility or substantive participation, educational capability, and trustworthiness.
+
+*Worked examples (they add no rule):* [CS-9.320 §12 Illustrative Institution walkthroughs](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md#cs-9320-12-illustrative-institution-walkthroughs) (*three invented Institutions walked through this chapter*).
 
 ---
 

@@ -25,6 +25,7 @@
 - Read with:
   - [CS-16.305 §10 inspectable attributable action](corpus_systems/cs_16.305_critical_system_stewardship.md#cs-16305-103-inspectable-attributable-action) (*Inspectable, attributable action*) for the minimum inspectable-action set that the [§6.4.3 Duty to resist](#643-duty-to-resist) refusal log uses;
   - steward pointer (process support; cannot narrow this chapter): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+- Worked examples (they add no rule): [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §10 Question 3 routing patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns) and the Question 3 continuations of [CJS-11.105 §8 Riparian cooperative restoration](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-8-riparian-cooperative-restoration-contribution-measurement) and [CJS-11.105 §9 Watershed steward negligence](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
 </details>
 
@@ -1714,6 +1715,8 @@ Forums and implementation systems must be able to look through formal structure 
 Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Fifteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_15.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Twelve slot.
 
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §10 Question 3 routing patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns) and the Question 3 continuations of [CJS-11.105 §8 Riparian cooperative restoration](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-8-riparian-cooperative-restoration-contribution-measurement) and [CJS-11.105 §9 Watershed steward negligence](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
 <a id="11-named-applications"></a>
 

@@ -1557,6 +1557,8 @@ This Article sets out when a sandboxed system moves to higher obligations:
 
 <br>
 
+Implementation: [Innovation reward, disclosure, and anti-enclosure](corpus_institutions/ci_06.265_innovation_reward_disclosure_anti_enclosure.md#ci-6265-innovation-reward-disclosure-and-anti-enclosure).
+
 *In plain terms: inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVIII-E** (*Creative and Expressive Works*)) from a working invention (**Article XVIII-F** (*Inventions, Processes, and Functional Systems*)). Game rules and mechanics belong to everyone and cannot be owned.*
 
 This Article sets out the reward rules shared by every kind of work:

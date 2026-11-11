@@ -1,0 +1,16 @@
+{
+  "_comment": "NAV-IMPL-WIDGET-01. Each unit is a core section or Article and the implementation files that own its detail, listed in the order the widget shows them (file order). Two or more owners: a collapsed Implementation widget. One owner: an inline 'Implementation:' line. tools/implementation_widget_audit.py reads this file. Owners are keyed by ID here; readers see titles. 'why' is only for an owner whose Core home is a different chapter than the unit's file.",
+  "units": [
+    {"file": "core_15.000_forum.md", "heading": "2. Default venue and primary stakes", "owners": ["CF-15.405", "CF-15.415", "CF-15.445"]},
+    {"file": "core_15.000_forum.md", "heading": "3. Transfer, consolidation, and coordination — continuity and anti-capture", "owners": ["CF-15.415", "CF-15.425", "CF-15.450", "CF-15.455"]},
+    {"file": "core_15.000_forum.md", "heading": "4. Forum family definitions — accountability through adjudication", "owners": ["CF-15.405", "CF-15.410", "CF-15.440", "CF-15.465"]},
+    {"file": "core_15.000_forum.md", "heading": "5. Escalation and questions for ruling", "owners": ["CF-15.415", "CF-15.420", "CF-15.475"]},
+    {"file": "core_15.000_forum.md", "heading": "6. Timely resolution, materiality tiers, and anti-delay discipline", "owners": ["CF-15.445"]},
+    {"file": "core_15.000_forum.md", "heading": "6.1 Emergency measures and continuation burden", "owners": ["CF-15.450", "CF-15.460"]},
+    {"file": "core_15.000_forum.md", "heading": "7. Forum support before, during, and after review — oversight architecture", "owners": ["CF-15.430", "CF-15.435", "CF-15.470"]},
+    {"file": "core_06.005_rights_part_b.md", "heading": "Article VI-C: Nondiscrimination", "owners": ["CI-6.205", "CI-6.220", "CI-6.260"]},
+    {"file": "core_06.005_rights_part_b.md", "heading": "Article VII-C: Health Crisis and Involuntary-Intervention Floor", "owners": ["CI-6.235"]},
+    {"file": "core_06.005_rights_part_b.md", "heading": "Article VIII-A: Family and Care Relationships", "owners": ["CI-6.225"]},
+    {"file": "core_06.010_rights_part_c.md", "heading": "Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure", "owners": ["CI-6.265"]}
+  ]
+}

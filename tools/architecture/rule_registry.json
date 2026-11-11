@@ -56,7 +56,7 @@
     {
       "id": "NAV-DAC-12-SPACER",
       "legacy_ref": "doc_architecture rule 12 spacer",
-      "summary": "Collapsible D/A/C keeps trailing br; inline Definition line does not.",
+      "summary": "One br after the last widget of a stack (Trace, D/A/C, Implementation, reader guidance, placement) and none between stacked widgets; inline Definition line takes none.",
       "make_target": "nav-widget-spacer-audit",
       "status": "blocking"
     },
@@ -387,6 +387,20 @@
       "legacy_ref": "constitutional owner opening statement; NAV-IMPL-SUBFILE-01 owner sentence",
       "summary": "Every core_* file has one visible owner line (or says it owns no rule) before its first gloss and section; every CJS/CS/CI/CF subfile has the 'This file is the <layer> implementation home for' sentence before its first section; no two files claim the same ID.",
       "make_target": "owner-line-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "EXAMPLES-LINK-01",
+      "legacy_ref": "worked-example file links from core chapters",
+      "summary": "A core chapter registered in example_files.json links its worked-example file in its Trace widget and in a closing '*Worked examples' line above the footer; the two places agree for every core file; each example file links back; every link into an example file lands on a real anchor.",
+      "make_target": "examples-link-audit",
+      "status": "blocking"
+    },
+    {
+      "id": "NAV-IMPL-WIDGET-01",
+      "legacy_ref": "implementation files named under the core unit they carry out",
+      "summary": "A unit listed in implementation_map.json carries an Implementation (non-operative) block after Trace and D/A/C: a collapsed widget followed by <br> for two or more owner files, one inline 'Implementation:' line for one; rows are [Title](path#anchor) in registry order with live anchors; an owner's Core home matches the unit's chapter unless the registry says why; no unregistered block exists.",
+      "make_target": "implementation-widget-audit",
       "status": "blocking"
     },
     {

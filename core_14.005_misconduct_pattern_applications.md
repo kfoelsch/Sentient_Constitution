@@ -47,6 +47,7 @@ Chapter Fourteen, **Part B**, is the constitutional owner of **named pattern app
   - [Chapter Thirteen §6.4](core_13.000_standing_integration.md#64-special-violation-rules) (13.000 §6.4) (*Special violation rules*);
   - [Chapter Thirteen §6.5](core_13.000_standing_integration.md#65-special-locks) (13.000 §6.5) (*Special locks — Forum-Service Standing Lock and Anti-Constitutional Trust Lock*).
 - Read with: [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) for definitions named inside each pattern-routing subsection; [Chapter Thirteen §1 Purpose and Role](core_13.000_standing_integration.md#1-purpose-and-role) (13.000 §1) (*lists the worked Question 3 examples, the dual-layer mirror for verified gated-pathway harm*).
+- Worked examples (they add no rule): [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §6 Non-compliant deployment with a credible sentience indicator (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a) and [CJS-11.105 §10 Question 3 routing patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns).
 
 </details>
 
@@ -1191,6 +1192,8 @@ This subsection does **not**:
 - relocate standing measurement, ordinary locks, or forum supervision from Chapters Eleven, Thirteen, or Fifteen.
 
 It routes evaluation of the umbrella pattern into the existing ACMD criteria and due-process safeguards of this chapter.
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §6 Non-compliant deployment with a credible sentience indicator (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a) and [CJS-11.105 §10 Question 3 routing patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns).
 
 ---
 

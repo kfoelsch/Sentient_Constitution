@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Audit <br> spacer discipline after Trace, D/A/C, reader-guidance, and placement widgets.
 
-Rule: NAV-DAC-12-SPACER in tools/architecture/rule_registry.json.
+Rule: NAV-DAC-12-SPACER in tools/architecture/rule_registry.json: one <br> after the last widget of a
+stack, none between widgets that follow each other.
 """
 
 from __future__ import annotations
@@ -109,6 +110,11 @@ def audit_file(path: Path, root: Path) -> list[str]:
             continue
 
         if nxt_stripped == "<br>":
+            after_br = next_nonempty(lines, nxt_idx + 1)
+            if after_br and after_br[1].strip() == "<details>":
+                findings.append(
+                    f"{rel}:{nxt_idx + 1}: remove <br> between stacked widgets; put one <br> only after the last widget"
+                )
             i += 1
             continue
 

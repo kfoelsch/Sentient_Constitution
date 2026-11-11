@@ -422,6 +422,12 @@
    ],
    "reason": "Register rule for reader-facing easy-entry briefs: the terms it bans are the corpus's own defined vocabulary, so it cannot bind core or implementation text."
   },
+  "examples-link-audit": {
+   "scope": "corpus"
+  },
+  "implementation-widget-audit": {
+   "scope": "corpus"
+  },
   "external-link-audit": {
    "scope": "corpus"
   },
