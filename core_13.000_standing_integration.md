@@ -1464,7 +1464,7 @@ The final standing effect is governed by the following rule groups:
 
 - **Automatic statement:**
   - The standing system must **automatically** state the final standing effect for each applicable gated pathway once the earlier steps in [§3.4 Processing Order](#34-processing-order) are complete.
-  - That statement must list every open clearance and every gated pathway under a lock or hold.
+  - That statement must list every open clearance and every gated pathway whose final effect is open with safeguards, limited, blocked, or restoration-only.
 - **Review and approval:**
   - No additional manual approval is required when verified inputs and published rules produce a determinate result.
   - Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§3 Automatic Integration, Review, and Continuity](#3-automatic-integration-review-and-continuity).

@@ -28,7 +28,7 @@ when texts conflict, apply this order — Constitution and non-regression first,
 
 ### 17.1 Shared Stewardship Standard
 
-human and AI stewards owe the same Chapter One duties. [§17.5 Duty to Resist](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§17.2 Alignment Under Pressure](../../core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure).
+human and AI stewards owe the same Chapter One duties. [§17.5 Duty to Resist](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§17.2 Alignment under Pressure](../../core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure).
 
 [Source](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)
 

@@ -97,6 +97,9 @@ The three-table split of the hand-off section is done (see [archive/DOC_ARCHITEC
 
 Translations remain paused under the standing decision in [project/MEMLOG.md](project/MEMLOG.md). Once the steward identifies settled English text and its revision, merge all pending changes for each chapter and synchronize/fidelity-check them together under the supported-language process. The active source clusters are: (1) Chapter One relocation and numbering, §7 reorder, §9/§10 swap, Chapter One Part A introductions, and Meaningful Agency/Consent alignment with Chapter Six; (2) Article XIII-A/XIII-B split and cites, steward-box removal, and the older Chapter Nine §14.2, Chapter Ten, and Chapter Fourteen references; (3) Preamble §§6–7 (2026-09-21) and other files touched by English cleanup; (4) Dissolution Reformation Lock, Chapter Seven §§2–4 and widgets, CF-5.9, CI-3.6.3, Chapter Five entries, Chapter One §16.4, CS-4/time windows, Article XIV-A/Evidence Preservation, Article XXVIII-A/CI-14.4.4, Domain-Specific Materiality, Adoption Document, and TERM-BODY-01; (5) Chapter Ten §3 items 5 and 8, §9.6, §9.3–§11 pointers, and related settled wording. Keep the list here consolidated as English changes settle; do not treat it as authorization to edit translations.
 
+- [ ] Outstanding translation gaps recorded in the 449th move (archived): full targets for Chapter Five `.035`, `.040`, and `.055` are absent in eighteen locales; Japanese and Korean Preamble sections 5–8 need a broader resync; Chapters Nine A and Ten need full current-source reconciliation. The AI-assisted drafts are unreviewed.
+- [ ] Chapter Fourteen locales need the new numbering when synchronized: §1 Purpose and Role added, Chapter Fourteen Part A §2–§5.3 and Chapter Fourteen Part B §6–§6.11 renumbered, and Chapter Fourteen subsections §2.1–§2.4 and §3.1–§3.5 added (450th–465th moves, archived).
+
 ### Conceptual overview, lived-experience validation, and evaluation
 
 See the [conceptual overview and corpus alignment review](evidence/2026-09-16/conceptual_overview_corpus_alignment_review.md). These are process-aid tasks, not new constitutional duties.
@@ -108,6 +111,12 @@ See the [conceptual overview and corpus alignment review](evidence/2026-09-16/co
 - [ ] Complete and document the eight ordinary-life and failure exercises in the review's “The world I would endorse” section.
 - [ ] Complete the redesigned human operator sitting and independent review under [evaluation/HUMAN_SITTING_PROTOCOL.md](evaluation/HUMAN_SITTING_PROTOCOL.md); file results under `evaluation/results/`.
 
+### Chapter Thirteen §6.5.3 retaliation case — open decision (carried from the archived move log, 2026-11-11)
+
+This was flagged for the custodian in the 421st move, now archived in [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md). The other three wording and alignment items carried from that archive were resolved in the 467th move.
+
+- [ ] Chapter Thirteen §6.5.3, retaliation case (421st move): the case reads "retaliating against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, regardless of the means used" and no longer says what ties the retaliation to the institution, enterprise, or office; the lead still requires real use of one. The custodian asked that the means not matter, so no tie was added. Decide whether to add one, for example "using the institution's or enterprise's authority, resources, or position" after "regardless of the means used".
+
 ### P1 — Regression and evidence
 
 - [ ] Complete first-pass validation of the 35 Humanity/Individual stress-pack rows (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`) and publish procedures, expected outcomes, and run evidence under the restored evidence tree.
@@ -118,6 +127,7 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
+- **2026-11-11 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-11.md](archive/TODO_SNAPSHOT_2026-11-11.md), [archive/MEMLOG_SNAPSHOT_2026-11-11.md](archive/MEMLOG_SNAPSHOT_2026-11-11.md), [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md)
 - **2026-11-08 resolved work and pre-cleanup snapshot:** [archive/TODO_RESOLVED_2026-11-08.md](archive/TODO_RESOLVED_2026-11-08.md), [archive/TODO_SNAPSHOT_2026-11-08.md](archive/TODO_SNAPSHOT_2026-11-08.md)
 - **2026-11-03 resolved work:** [archive/TODO_RESOLVED_2026-11-03.md](archive/TODO_RESOLVED_2026-11-03.md)
 - **2026-11-02 resolved work:** [archive/TODO_RESOLVED_2026-11-02.md](archive/TODO_RESOLVED_2026-11-02.md)

@@ -1,0 +1,139 @@
+# TODO
+
+**2026-10-21 cleanup:** Completed work moved to [TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md). The complete pre-cleanup file is preserved in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md). Older TODO/MEMLOG snapshots removed 2026-06-17 can be retrieved from Git history. Canonical architecture archives remain under [README.md](README.md) *Binding vs support* and [doc_architecture.md](doc_architecture.md).
+
+## Announcement preparation — 2026-10-20
+
+The [working announcement plan](project/plans/announcement_readiness_2026-10-20.md) records the schedule through December 31, [review inventory](project/plans/announcement_review_inventory_2026-10-20.md), batch evidence, and decision queue. It does not waive the publication spec or authorize release.
+
+- [ ] Execute the [case packet](project/trials/agent_cooperative_2026-10-20/CASE_PACKET.md) in a fresh session without the preparer's analysis; retain outputs, assistance, effort, missed gates, and retest results. Human-operator evidence remains separate.
+- [ ] Complete the non-core review batches and reopen affected portions when governing core changes.
+
+## Current Chapter Map
+
+- **Preamble and Ch 1:** [core_00.000_preamble.md](core_00.000_preamble.md), [core_01.000_values_principles.md](core_01.000_values_principles.md) (Part A), [core_01.005_interaction_interpretation.md](core_01.005_interaction_interpretation.md) (Part B), and [core_01.010_stewardship_capacity_principles.md](core_01.010_stewardship_capacity_principles.md) (Part C)
+- **Ch 2:** [core_02.000_definition_structure.md](core_02.000_definition_structure.md)
+- **Ch 3:** [core_03.000_definition_integrity.md](core_03.000_definition_integrity.md)
+- **Ch 4:** [core_04.000_burden_traceability_verification.md](core_04.000_burden_traceability_verification.md)
+- **Ch 5:** Part A compass — [core_05.000_definitions_home.md](core_05.000_definitions_home.md); band files — [core_05.050_band_oversight.md](core_05.050_band_oversight.md), [core_05.055_band_participation.md](core_05.055_band_participation.md), [core_05.035_band_accountability.md](core_05.035_band_accountability.md), [core_05.040_band_continuity.md](core_05.040_band_continuity.md), [core_05.045_band_integrative.md](core_05.045_band_integrative.md) (retired second and third Chapter Five files → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
+- **Ch 6:** [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md) through [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md)
+- **Ch 7:** [core_07.000_charters.md](core_07.000_charters.md)
+- **Ch 8:** [core_08.000_functional_independence_separation_of_duties.md](core_08.000_functional_independence_separation_of_duties.md)
+- **Ch 9:** Part A [core_09.000_system_alignment_certification_evaluation.md](core_09.000_system_alignment_certification_evaluation.md); Part B [core_09.005_system_alignment_certification_record_process.md](core_09.005_system_alignment_certification_record_process.md); Part C [core_09.010_system_alignment_certification_record_recertification.md](core_09.010_system_alignment_certification_record_recertification.md); worked illustrations (systems family) [cs_09.320_system_alignment_certification_illustrations.md](corpus_systems/cs_09.320_system_alignment_certification_illustrations.md)
+- **Ch 10:** [core_10.000_institutional_alignment_certification.md](core_10.000_institutional_alignment_certification.md)
+- **Ch 11:** [core_11.000_standing_assessment.md](core_11.000_standing_assessment.md)
+- **Ch 12:** [core_12.000_standing_measurement.md](core_12.000_standing_measurement.md)
+- **Ch 13:** [core_13.000_standing_integration.md](core_13.000_standing_integration.md)
+- **Ch 14:** Part A [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md); Part B [core_14.005_misconduct_pattern_applications.md](core_14.005_misconduct_pattern_applications.md)
+- **Ch 15:** [core_15.000_forum.md](core_15.000_forum.md)
+- **Ch 16:** [core_16.000_governance.md](core_16.000_governance.md)
+- **Ch 17:** [core_17.000_non_regression.md](core_17.000_non_regression.md)
+- **Ch 18:** [core_18.000_expansion_supremacy.md](core_18.000_expansion_supremacy.md)
+- **Ch 19:** [core_19.000_amendment_ratification.md](core_19.000_amendment_ratification.md)
+- **Ch 20:** [core_20.000_incorporation.md](core_20.000_incorporation.md)
+- **Ch 11–15 vignettes (non-operative):** [corpus_joint_structure/cjs_11.105_application_vignettes.md](corpus_joint_structure/cjs_11.105_application_vignettes.md)
+- **Adopted corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
+
+## Open Backlog
+
+### Chapter Seven §4 and CF-5.9 — adoption follow-up
+
+The implementation and signoffs are recorded in [TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md) and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md).
+
+- [ ] Chapter Nineteen §1 heightened review: fixes were not independently re-reviewed; adoption and the contest period remain open until the announcement. Review records: [Chapter Seven §4](evidence/2026-10-20/heightened_review_record_2026-10-20.md) and [older batches](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
+
+### Chapter Seven locks, time windows, and related edits — announcement follow-ups
+
+Completed implementation details and signoffs are in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md), [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md), and [TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md). The relevant Test 1 record is [time-window-test-1-self-check](evidence/2026-10-18/time-window-test-1-self-check.md).
+
+- [ ] Complete announcement adoption and contest steps for the Chapter Nineteen §1 heightened reviews; recorded review fixes were not independently re-reviewed.
+- [ ] Run `make edition-bump` on release day.
+- [ ] Ensure the time-window Test 1 self-check is linked from the relevant PR.
+
+### Backup Record Authority (CF-5.7) — announcement follow-ups
+
+Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md); the heightened review is in [evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
+
+- [ ] Complete announcement adoption and contest steps after the heightened review; fixes were not independently re-reviewed.
+
+### Chapter Ten — open follow-ups
+
+- [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
+- [ ] Complete the independent re-review and announcement contest period for the steward-signed Chapter Nine and Ten changes. Sign-off, the two AI review rounds, and the move 240 decisions are recorded in [TODO_RESOLVED_2026-11-02.md](archive/TODO_RESOLVED_2026-11-02.md) and [the review record](evidence/2026-11-02/heightened_review_record_chapter_ten_2026-11-02.md).
+
+### Article XI-E gates and Institutional Authority Standing Lock — open follow-ups
+
+- [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
+
+### Interim Hold standard — open follow-ups
+
+- [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
+- [ ] Revisit deferred applications after the first three applications run in practice: stakeholder-weight escrow, and holds on holders of authority over Class A, B, or C systems on grave anti-constitutional allegations.
+
+### Process-level granularity — Option B
+
+The completed Option A review and process definitions are in [TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md).
+
+- [ ] Human-edit the Lane D core proposal for Chapter Nine Part C §8.1 and Chapter Fourteen; Chapter Nineteen §1 heightened review applies. Keep Option B an outlined post-adoption goal unless the steward decides otherwise. The supporting process-ownership draft records the proposed guardrails and resolved design directions; exact core placement, wording, scope, and whether CI-15.205 needs a companion change-record template remain for human review.
+
+### Process, system, and institution — potential follow-ups
+
+These remain optional planning questions, not decisions. The prior notes are in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md); the crosswalk has since been reconciled to current headings.
+
+The crosswalk is complete within its stated frame: all 88 second-level Chapter One/Chapter Eight headings and all 50 third-level Chapter One subsections are tagged. The remaining corpus is outside this principles-and-duties comparison; a broader inventory would be separate work. The 70 added tags remain provisional for independent human review. See the [crosswalk](project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md).
+- [ ] After independent human review of the 70 provisional crosswalk tags, decide whether to publish an object-axis index or routing aid. No principle relocation or restructure is supported by the current evidence.
+- [ ] Decide whether to gather scattered Process principles in a non-normative reader guide.
+- [ ] Revisit whether a third Preamble question is needed only if the process-ownership proposal reveals a concrete gap.
+  - Custodian comment (2026-11-03): direct, explicit routing is a principle candidate for later consideration. This records a candidate, not an adopted core principle.
+The custodian's process-ownership design directions for the supporting proposal are recorded in [the resolved-work archive](archive/TODO_RESOLVED_2026-11-02.md). Exact core placement, wording and scope, human editing, and whether CI-15.205 needs a companion change-record template remain open.
+
+### Chapter Twelve §9 hand-off tables — open decision
+
+The three-table split of the hand-off section is done (see [archive/DOC_ARCHITECTURE_MOVES_244-369_ARCHIVED_2026-11-08.md](archive/DOC_ARCHITECTURE_MOVES_244-369_ARCHIVED_2026-11-08.md), 360th move, step 1).
+
+- [ ] Custodian decision: whether to drop the repeated Question 2 column in the second table group and state the Question 2 default once (the 360th move's step 2). It changes cell content, so it was left for the custodian after seeing step 1.
+
+### Translation synchronization — paused pending settled English
+
+Translations remain paused under the standing decision in [project/MEMLOG.md](project/MEMLOG.md). Once the steward identifies settled English text and its revision, merge all pending changes for each chapter and synchronize/fidelity-check them together under the supported-language process. The active source clusters are: (1) Chapter One relocation and numbering, §7 reorder, §9/§10 swap, Chapter One Part A introductions, and Meaningful Agency/Consent alignment with Chapter Six; (2) Article XIII-A/XIII-B split and cites, steward-box removal, and the older Chapter Nine §14.2, Chapter Ten, and Chapter Fourteen references; (3) Preamble §§6–7 (2026-09-21) and other files touched by English cleanup; (4) Dissolution Reformation Lock, Chapter Seven §§2–4 and widgets, CF-5.9, CI-3.6.3, Chapter Five entries, Chapter One §16.4, CS-4/time windows, Article XIV-A/Evidence Preservation, Article XXVIII-A/CI-14.4.4, Domain-Specific Materiality, Adoption Document, and TERM-BODY-01; (5) Chapter Ten §3 items 5 and 8, §9.6, §9.3–§11 pointers, and related settled wording. Keep the list here consolidated as English changes settle; do not treat it as authorization to edit translations.
+
+### Conceptual overview, lived-experience validation, and evaluation
+
+See the [conceptual overview and corpus alignment review](evidence/2026-09-16/conceptual_overview_corpus_alignment_review.md). These are process-aid tasks, not new constitutional duties.
+
+- [ ] Test severe-designation boundaries against failed good-faith administration, dissident reform, organized capture, mass protest, and investigative reporting.
+- [ ] Reconcile or justify the 80-year denominator in digital examples W5/W6 of the [LEQU calibration reference](implementation/LEQU_CALIBRATION_REFERENCE.md); collect independent evaluator disagreement and sensitivity near serious-misconduct thresholds.
+- [ ] Test affordable, accessible remedy capacity using the [minimum viable adopter profiles](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md), including actual staffing, cost, delay, and claimant burden.
+- [ ] Demonstrate a protected route to replace an institution under capture; test Article XXVI and Chapter Sixteen together.
+- [ ] Complete and document the eight ordinary-life and failure exercises in the review's “The world I would endorse” section.
+- [ ] Complete the redesigned human operator sitting and independent review under [evaluation/HUMAN_SITTING_PROTOCOL.md](evaluation/HUMAN_SITTING_PROTOCOL.md); file results under `evaluation/results/`.
+
+### P1 — Regression and evidence
+
+- [ ] Complete first-pass validation of the 35 Humanity/Individual stress-pack rows (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`) and publish procedures, expected outcomes, and run evidence under the restored evidence tree.
+
+## TODO Maintenance and Archives
+
+Authoritative normative state is in the binding corpus files named in [README.md](README.md). `TODO.md`, [project/MEMLOG.md](project/MEMLOG.md), [doc_architecture.md](doc_architecture.md), and implementation worklists are process aids only. Keep this active file limited to editor checks, current open work, and short archive pointers.
+
+## Archives
+
+- **2026-11-08 resolved work and pre-cleanup snapshot:** [archive/TODO_RESOLVED_2026-11-08.md](archive/TODO_RESOLVED_2026-11-08.md), [archive/TODO_SNAPSHOT_2026-11-08.md](archive/TODO_SNAPSHOT_2026-11-08.md)
+- **2026-11-03 resolved work:** [archive/TODO_RESOLVED_2026-11-03.md](archive/TODO_RESOLVED_2026-11-03.md)
+- **2026-11-02 resolved work:** [archive/TODO_RESOLVED_2026-11-02.md](archive/TODO_RESOLVED_2026-11-02.md)
+- **2026-11-02 pre-cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-11-02.md](archive/TODO_SNAPSHOT_2026-11-02.md)
+- **2026-10-23 resolved work:** [archive/TODO_RESOLVED_2026-10-23.md](archive/TODO_RESOLVED_2026-10-23.md)
+- **2026-10-21 resolved work:** [archive/TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md)
+- **2026-10-21 pre-cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md)
+- **2026-10-20 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-20.md](archive/TODO_RESOLVED_2026-10-20.md)
+- **2026-10-19 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md)
+- **2026-10-18 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-18.md](archive/TODO_RESOLVED_2026-10-18.md)
+- **2026-10-14 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-14.md](archive/TODO_RESOLVED_2026-10-14.md)
+- **2026-10-13 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-13.md](archive/TODO_RESOLVED_2026-10-13.md)
+- **2026-10-03 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-03.md](archive/TODO_RESOLVED_2026-10-03.md)
+- **2026-10-01 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-01.md](archive/TODO_RESOLVED_2026-10-01.md)
+- **2026-09-17 resolved TODO items:** [archive/TODO_RESOLVED_2026-09-17.md](archive/TODO_RESOLVED_2026-09-17.md)
+- **Architecture process (canonical):** [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) — see [README.md](README.md)
+- **2026-06-18 Chapter Five closeout:** [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md), [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md)
+- **2026-05-01 root retirement:** [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md), [archive/MEMLOG_ROOT_RETIRED_2026-05-01.md](archive/MEMLOG_ROOT_RETIRED_2026-05-01.md)
+- Older snapshots removed 2026-06-17 can be retrieved from Git history.
