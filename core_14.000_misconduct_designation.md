@@ -62,6 +62,7 @@
 - This file: final ACMD for Violation Axis `s` = 7–9; ACMD criteria; due-process safeguards; Chapters Seventeen through Nineteen boundary. Named-pattern routing continues in [Part B](core_14.005_misconduct_pattern_applications.md#chapter-fourteen-part-b-anti-constitutional-misconduct--pattern-applications) (14.005).
 - Downstream: [Chapter Thirteen](core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration) (13.000) (*Trust Lock and standing-effect integration after final anti-constitutional-misconduct designation*); [Chapter Fifteen](core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction) (15.000) (*forum routing and certification*); [Chapter Sixteen](core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship) (16.000) (*governance legitimacy consequences*).
 - Read with: [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [Chapters Seventeen through Nineteen](core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4*).
+- Worked examples (they add no rule): [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §5 Pipeline overrun and tetrad-hollow forums](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-11.105 §10 Question 3 routing patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns).
 
 </details>
 
@@ -474,6 +475,8 @@ After final designation under **section 3** with **section 4** safeguards met:
   - It may carry negative justice consequences for the accountable party — including additional misconduct findings under **section 3**, reduced credit for rehabilitation, and other lawful restrictions under **Article XX-B** (*Restriction Floors*) and **Chapter Eleven**.
   - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection or remediation under **section 4.1** or locks under **section 4.2**, is non-compliant.
 - Refusal to participate in public expression must not, by itself, increase baseline sanctions or widen the **Anti-Constitutional Trust Lock**.
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): [CJS-11.105 §5 Pipeline overrun and tetrad-hollow forums](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-11.105 §10 Question 3 routing patterns](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-10-question-3-routing-patterns).
 
 ---
 

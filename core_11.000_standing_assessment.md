@@ -56,6 +56,7 @@
   - [Article XX](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*justice constraints*).
 - Read with: [Chapter Five *Standing State, Contribution, and Violation*](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation) (5.035) (*canonical definition routing*).
 - Read with: [README.md](README.md) (*reading order*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
+- Worked examples (they add no rule): [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): every full vignette opens at Question 1, for example [CJS-11.105 §1 Child neglect / care-duty failure (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a), [CJS-11.105 §7 An ordinary year with no filing and no sensitive role](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-11.105 §9 Watershed steward negligence with concealed test results (violation measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
 </details>
 
@@ -1028,6 +1029,8 @@ Who holds a standing record, and any dispute over it, is handled on these terms:
   - makes entry depend on the subject's cooperation.
 
 **Continuation.** Question 2 measurement continues in [Chapter Twelve](core_12.000_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it), beginning with [Chapter Twelve section 1 — Question 2: how good or bad was it?](core_12.000_standing_measurement.md#1-question-2--how-good-or-bad-was-it).
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): every full vignette opens at Question 1, for example [CJS-11.105 §1 Child neglect / care-duty failure (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-1-child-neglect--care-duty-failure-tier-a), [CJS-11.105 §7 An ordinary year with no filing and no sensitive role](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-11.105 §9 Watershed steward negligence with concealed test results (violation measurement)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
 ---
 

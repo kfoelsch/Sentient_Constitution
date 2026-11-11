@@ -48,6 +48,7 @@
 - Downstream: [CF-15.405](corpus_forum/cf_15.405_forum_formation_chamber_structure.md#cf-15405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*), [CF-15.415](corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md#cf-15415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*), and [CF-15.420](corpus_forum/cf_15.420_appeal_secondary_review_exhaustion_pathways.md#cf-15420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) for operational forum doctrine; [Chapter Sixteen](core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship) (16.000) where governance legitimacy interacts with adjudication role; [Chapter Twenty](core_20.000_incorporation.md#chapter-twenty-incorporation-bridge) (20.000) (*incorporation discipline* for adopted procedure layers).
 - Read with: [Chapter Twelve §4](core_12.000_standing_measurement.md#4-slot-grammar-and-shared-scaling) (12.000 §4) (*standing-slot grammar*); [Chapter Twelve §§3.1–3.2](core_12.000_standing_measurement.md#31-contribution-route-descriptor-catalog-and-measurement-roles) (12.000 §3.1) (*cross-axis normalized Contribution Axis and Violation Axis descriptors*).
 - Read also with: [Chapter Thirteen §4 Descriptor integration and attachment normalization](core_13.000_standing_integration.md#4-descriptor-integration-and-attachment-normalization) (13.000 §4), together with its section 2 routing by primary stakes; [README.md](README.md) (*reading order and how the corpus is organized*); [doc_architecture.md](doc_architecture.md) (*editorial maps that do not bind unless adopted*).
+- Worked examples (they add no rule): [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-11.105 §5 Pipeline overrun and tetrad-hollow forums](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-11.105 §6 Non-compliant deployment with a credible sentience indicator (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
 
 </details>
 
@@ -201,6 +202,14 @@ Institutional contest, secondary review, and integrity monitoring in the institu
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Implementation (non-operative)</span></strong></summary>
+
+- [Forum formation, forum-structure mapping, and chamber structure](corpus_forum/cf_15.405_forum_formation_chamber_structure.md#cf-15405-forum-formation-forum-structure-mapping-and-chamber-structure)
+- [Routing operations, transfer, questions for ruling, and representative treatment](corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md#cf-15415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)
+- [Forum performance, backlog requirements, publication timeliness, and accessibility](corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-forum-performance-backlog-requirements-publication-timeliness-and-accessibility)
+
+</details>
 <br>
 
 *In plain terms: each family's **first-touch desk** — the **intake triage body** — asks what the fight is really about, not what the caption says, then uses the default table to pick the lead forum. Technical Forums maintain the system-alignment specifications, methods, and evidence standards; **Integrity** forums make the official alignment-certification and ongoing-validation judgment unless a component question belongs elsewhere. Sorting does not substitute for lawfully constituted merits panels; mixed stakes, asymmetry, and standing-record contests are in the subsections below.*
@@ -356,6 +365,15 @@ This subsection sets out the Forum Case Records and standing records a forum kee
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Implementation (non-operative)</span></strong></summary>
+
+- [Routing operations, transfer, questions for ruling, and representative treatment](corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md#cf-15415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)
+- [Integrity safeguards, anti-capture operations, and anti-self-judging support](corpus_forum/cf_15.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-15425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)
+- [Forum continuity](corpus_forum/cf_15.450_forum_continuity.md#cf-15450-forum-continuity)
+- [Fallback operation](corpus_forum/cf_15.455_fallback_operation.md#cf-15455-fallback-operation)
+
+</details>
 <br>
 
 *In plain terms: when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.*
@@ -436,6 +454,15 @@ This subsection sets out the Forum Case Records and standing records a forum kee
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Implementation (non-operative)</span></strong></summary>
+
+- [Forum formation, forum-structure mapping, and chamber structure](corpus_forum/cf_15.405_forum_formation_chamber_structure.md#cf-15405-forum-formation-forum-structure-mapping-and-chamber-structure)
+- [Panel formation, disclosure, recusal, and lawful bench constitution](corpus_forum/cf_15.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-15410-panel-formation-disclosure-recusal-and-lawful-bench-constitution)
+- [Technical specialist forums and specialist chambers](corpus_forum/cf_15.440_technical_specialist_forums_specialist_chambers.md#cf-15440-technical-specialist-forums-and-specialist-chambers)
+- [Standard records, forms, and evidence artifacts](corpus_forum/cf_15.465_standard_records_forms_evidence_artifacts.md#cf-15465-standard-records-forms-and-evidence-artifacts)
+
+</details>
 <br>
 
 *In plain terms: adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§4.2** (*Technical Forum Domains*) and **§4.7** (*Provisional implementation operational law*)); Constitutional disposition is in **§4.6** (*Constitutional Forums*); certification when stakes merge is in **section 5**.*
@@ -705,6 +732,14 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Implementation (non-operative)</span></strong></summary>
+
+- [Routing operations, transfer, questions for ruling, and representative treatment](corpus_forum/cf_15.415_routing_operations_transfer_certification_representative_treatment.md#cf-15415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)
+- [Appeal, secondary review, and exhaustion pathways](corpus_forum/cf_15.420_appeal_secondary_review_exhaustion_pathways.md#cf-15420-appeal-secondary-review-and-exhaustion-pathways)
+- [Sentience-Status Adjudication Record (implementation protocol)](corpus_forum/cf_15.475_sentience_status_record.md#sentience-status-adjudication-record-implementation-protocol)
+
+</details>
 <br>
 
 *In plain terms: when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how questions for ruling reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and rulings finish. They also set the narrow hold a forum may place on one sentient's authority while the facts are checked.*
@@ -971,6 +1006,8 @@ This subsection sets out how Chapter Fourteen designation relates to independent
 
 <br>
 
+Implementation: [Forum performance, backlog requirements, publication timeliness, and accessibility](corpus_forum/cf_15.445_performance_backlog_publication_accessibility.md#cf-15445-forum-performance-backlog-requirements-publication-timeliness-and-accessibility).
+
 *In plain terms: forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies (three days for the steps that stop the harm), two weeks for ordinary material harm, and one to three months at most for coordination-default, bounded, or contained matters — not warehouse cases while harm compounds. The same five classes set how often certified systems and Institutions are checked, from every three months to every three years, with an audit halfway between. A true emergency gets a shorter clock for the steps that stop the harm. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.*
 
 This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Eleven through Fifteen** standing pipeline.
@@ -1071,6 +1108,15 @@ This section implements **Article XXVI-C** (*Timely Resolution and Anti-Delay Fl
 
 #### 6.1 Emergency measures and continuation burden
 
+<details>
+<summary><strong><span style="color: #2563eb;">Implementation (non-operative)</span></strong></summary>
+
+- [Forum continuity](corpus_forum/cf_15.450_forum_continuity.md#cf-15450-forum-continuity)
+- [Emergency adjudication](corpus_forum/cf_15.460_emergency_adjudication.md#cf-15460-emergency-adjudication)
+
+</details>
+<br>
+
 This subsection sets the requirements and the operating rules for emergency measures. Retrospective review of an emergency measure is governed by [**Article XXVI-A** (*Retrospective Review and Disclosure*)](core_06.020_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure). Any restriction an emergency measure imposes must also meet [**Article XX-B** (*Restriction Floors*)](core_06.015_rights_part_d.md#article-xx-b-restriction-floors). It reuses the tier outer bounds and the **Restore-challenge after emergency containment** rule above. It adds no second table of windows beyond the Emergency setting's 3-day protective-step bound in [§6 Timely resolution, materiality tiers, and anti-delay discipline](#time-scale-settings) (*Time-scale settings*). Read with [Emergency and Contingency](core_05.040_band_continuity.md#emergency-and-contingency-1), [Constitutional Emergency and Contingency](core_05.040_band_continuity.md#constitutional-emergency-and-contingency), [Stakeholder Emergency and Contingency](core_05.040_band_continuity.md#stakeholder-emergency-and-contingency), [Necessity](core_05.035_band_accountability.md#necessity), and [Proportionality](core_05.035_band_accountability.md#proportionality); and with **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) where existential-risk scrutiny is materially implicated.
 
 *In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”*
@@ -1123,6 +1169,14 @@ This subsection sets the requirements and the operating rules for emergency meas
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Implementation (non-operative)</span></strong></summary>
+
+- [Forum forensic and analytical support](corpus_forum/cf_15.430_forum_forensic_analytical_support.md#cf-15430-forum-forensic-and-analytical-support)
+- [Independent investigative service and prosecution interface](corpus_forum/cf_15.435_independent_investigative_service_prosecution_interface.md#cf-15435-independent-investigative-service-and-prosecution-interface)
+- [Forum staffing, reserve capacity, shared administration, structural review, and structural records](corpus_forum/cf_15.470_staffing_reserve_capacity_structural_records.md#cf-15470-forum-staffing-reserve-capacity-shared-administration-structural-review-and-structural-records)
+
+</details>
 <br>
 
 *In plain terms: forums need help before a case exists, while deciding, and after — inspectors and forensics build an explainable record; they do not become a second merits forum.*
@@ -1140,6 +1194,8 @@ Forum families must maintain or obtain access to **independent** support across 
 - **After review:**
   - Capacity: where material, forum families must be able to obtain support for remedy verification, pattern follow-through, and reopening inputs.
   - Boundary: that support must **not** substitute for Chapter Twelve standing measurement or Chapter Thirteen integration.
+
+*Worked examples (they add no rule):* [CJS-11.105 Application vignettes](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-11.105 §5 Pipeline overrun and tetrad-hollow forums](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-11.105 §6 Non-compliant deployment with a credible sentience indicator (Tier A)](corpus_joint_structure/cjs_11.105_application_vignettes.md#cjs-11105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
 
 ---
 

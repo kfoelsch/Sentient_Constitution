@@ -254,6 +254,14 @@ This Article sets out the floor for deciding disputed sentience status. The proc
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Implementation (non-operative)</span></strong></summary>
+
+- [Transparency, participation, and accessible challenge and service pathways](corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md#ci-6205-transparency-participation-and-accessible-challenge-and-service-pathways)
+- [Neurodiversity, disability justice, and trauma-informed participation](corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md#ci-6220-neurodiversity-disability-justice-and-trauma-informed-participation)
+- [Place-based stewardship, Indigenous continuity, and consultation routes](corpus_institutions/ci_06.260_place_based_stewardship_indigenous_continuity_consultation.md#ci-6260-place-based-stewardship-indigenous-continuity-and-consultation-routes)
+
+</details>
 <br>
 
 *In plain terms: systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work. Any difference in treatment that touches rights or survival essentials must be justified and open to challenge, and forums, administrators, and enforcers must check this in the matters before them — efficiency is no excuse for exclusion.*
@@ -494,6 +502,8 @@ This Article protects each sentient's inner life — their thoughts, feelings, a
 
 <br>
 
+Implementation: [Collective public health, epidemic response, and addiction-informed care](corpus_institutions/ci_06.235_collective_public_health_epidemic_response_addiction_informed_care.md#ci-6235-collective-public-health-epidemic-response-and-addiction-informed-care).
+
 *In plain terms: when a sentient is in a physical or mental health crisis — passed out, not lucid, or refusing care — anything done without their consent must be no more than is truly needed, must end at a set time, must be checked by someone independent, and must be undoable. If they cannot decide, those helping must follow any wishes they made known and hand decisions back as soon as they can; overriding a sentient who is actively saying no takes a stronger justification. Anyone who detains a sentient who seems drunk or confused must first check for a medical cause, such as low blood sugar. Calling something a "crisis" cannot keep restrictions going indefinitely or excuse digging into their private thoughts and feelings, and anyone wrongly held or treated is entitled to a remedy.*
 
 This Article sets out the floor for anything done without a sentient's consent during a physical or mental health crisis, with its review and remedy. The right to receive care in a crisis sits in **Article III-B** (*Bodily-Maintenance and Healthcare Access*); this Article governs what may be done without consent.
@@ -713,6 +723,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 </details>
 
 <br>
+
+Implementation: [Care labor, dependent support, respite, and care-economy fairness](corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md#ci-6225-care-labor-dependent-support-respite-and-care-economy-fairness).
 
 *In plain terms: every sentient may form, keep, and leave the family and care relationships they choose, whatever shape those families take. Being someone's family never gives anyone ownership of them or control over their body or mind.*
 

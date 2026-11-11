@@ -247,6 +247,16 @@
       "run": "auto",
       "writes": false
     },
+    "examples-link-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
+    "implementation-widget-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
     "heading-echo-topic-audit": {
       "category": "layout",
       "run": "auto",
@@ -696,6 +706,21 @@
       "writes": false
     },
     "owner-line-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "examples-link-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "implementation-widget-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "nav-widget-spacer-audit-test": {
       "category": "tests",
       "run": "auto",
       "writes": false

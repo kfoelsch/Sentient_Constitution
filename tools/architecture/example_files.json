@@ -1,0 +1,21 @@
+{
+  "_comment": "EXAMPLES-LINK-01. Each worked-example file the corpus keeps, and the core files it illustrates. A core file listed here must link to the example file in its Trace widget and in a closing '*Worked examples' line above its footer. tools/examples_link_audit.py reads it; the example file itself must link back to each core file named here.",
+  "files": {
+    "corpus_systems/cs_09.320_system_alignment_certification_illustrations.md": {
+      "illustrates": [
+        "core_09.000_system_alignment_certification_evaluation.md",
+        "core_10.000_institutional_alignment_certification.md"
+      ]
+    },
+    "corpus_joint_structure/cjs_11.105_application_vignettes.md": {
+      "illustrates": [
+        "core_11.000_standing_assessment.md",
+        "core_12.000_standing_measurement.md",
+        "core_13.000_standing_integration.md",
+        "core_14.000_misconduct_designation.md",
+        "core_14.005_misconduct_pattern_applications.md",
+        "core_15.000_forum.md"
+      ]
+    }
+  }
+}
