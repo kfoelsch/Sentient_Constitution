@@ -144,7 +144,7 @@ Repackaging a regressive change as any of the following does not fix invalidity:
 
 Invalidity remains where substantive constitutional effect is materially equivalent.
 
-Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes the following (read with [**Chapter Fourteen**, **section 2** (*Criteria set*)](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment), **criteria 1** **through** **4** on **change** or **record** pathways):
+Where amendment or adoption conduct indicates serious misconduct, a mandatory referral record must be opened. **Serious misconduct** includes the following (read with [**Chapter Fourteen**, **section 3** (*Criteria set*)](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale), **criteria 1** **through** **4** on **change** or **record** pathways):
 - willful deceptive intent;
 - knowing falsification or suppression;
 - material rollback effect; and

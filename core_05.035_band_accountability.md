@@ -1687,7 +1687,7 @@ This legacy anchor now points to the named form within [System Capture](core_05.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §7 Freedom (Bounded Agency)](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [Chapter One §7.3 Dissent and Peaceful Protest](core_01.000_values_principles.md#73-dissent-and-peaceful-protest) (1.000 §7.3) (dissent is not subversion).
-- Canonical owner: this definition states what subversion is. [Chapter Fourteen §2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (14.000 §2) (criteria 5 and 6) and [Chapter Fourteen §5.1](core_14.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (14.005 §5.1) apply it to misconduct designation. They do not redefine it.
+- Canonical owner: this definition states what subversion is. [Chapter Fourteen §3](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (14.000 §3) (criteria 5 and 6) and [Chapter Fourteen §6.1](core_14.005_misconduct_pattern_applications.md#61-concentration-based-subversion-criteria-interaction) (14.005 §6.1) apply it to misconduct designation. They do not redefine it.
 - Rights-Floor read-with: **[Article XI-D](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
 - Read with:
   - [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation),
@@ -4126,7 +4126,7 @@ See **Anti-Segmentation Principle**.
   - [System Capture](core_05.040_band_continuity.md#system-capture),
   - [Anti-Capture](core_05.040_band_continuity.md#anti-capture),
   - [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*), and
-  - [Chapter Fourteen §5.5](core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (14.005 §5.5) (*Bribery and Improper Benefit Exchange*).
+  - [Chapter Fourteen §6.5](core_14.005_misconduct_pattern_applications.md#65-bribery-and-improper-benefit-exchange) (14.005 §6.5) (*Bribery and Improper Benefit Exchange*).
 
 </details>
 
@@ -4140,15 +4140,15 @@ See **Anti-Segmentation Principle**.
     - It has five kinds of route:
       - **Contact:** influence contact under [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
       - **Access:** private channels, briefings, advisory or liaison seats, insider information, introductions, and brokered meetings.
-      - **Benefit exchange:** offering, promising, giving, soliciting, accepting, or routing anything of value tied to a matter, as [Chapter Fourteen §5.5](core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*) describes it. That covers a quid pro quo and non-financial value such as gifts, hospitality, travel, favors, jobs and prospective roles, contracts, endorsements, information, threat-relief, and favorable treatment, whether given directly, through an intermediary, affiliate, or shell, or deferred until after the decision.
+      - **Benefit exchange:** offering, promising, giving, soliciting, accepting, or routing anything of value tied to a matter, as [Chapter Fourteen §6.5](core_14.005_misconduct_pattern_applications.md#65-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*) describes it. That covers a quid pro quo and non-financial value such as gifts, hospitality, travel, favors, jobs and prospective roles, contracts, endorsements, information, threat-relief, and favorable treatment, whether given directly, through an intermediary, affiliate, or shell, or deferred until after the decision.
       - **Manufactured support:** fabricated voices, front groups, bulk campaigns passed off as support, undisclosed sponsorship of seemingly independent experts or research, and steering a system on the deciding side.
       - **Pressure:** threats and retaliation.
     - Contact and access are those of an [Interested Party](core_05.035_band_accountability.md#interested-party). Benefit exchange, manufactured support, and pressure reach any sentient who takes part in them, including anyone who receives or routes the benefit.
     - A route worked through an intermediary, affiliate, shell, successor, or system acting for the sentient is the sentient's own.
   - **Out of scope:**
     - open advocacy, petition, public comment, testimony, defense, whistleblowing, and filings on an open Forum Case Record, and the access of an affected sentient to any body that must hear them;
-    - transparent, lawful, constitutionally aligned exchanges of value that [Chapter Fourteen §5.5](core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*) excludes from bribery; and
-    - the conduct rules in [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) and [Chapter Fourteen §5.5](core_14.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*), which say what is wrongful. This entry names only what a lock can close.
+    - transparent, lawful, constitutionally aligned exchanges of value that [Chapter Fourteen §6.5](core_14.005_misconduct_pattern_applications.md#65-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*) excludes from bribery; and
+    - the conduct rules in [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) and [Chapter Fourteen §6.5](core_14.005_misconduct_pattern_applications.md#65-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*), which say what is wrongful. This entry names only what a lock can close.
 <a id="influence-pathway-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether a lock on an influence pathway closed the routes it names and left open advocacy available.
@@ -4384,10 +4384,10 @@ See **Anti-Segmentation Principle**.
 - Canonical owner: numeric slot assignment remains with the
   - [Chapter Twelve §6 unified scale](core_12.000_standing_measurement.md#6-unified-proportional-lequ-scale--contribution-and-violation-axes) (12.000 §6), controlled only by verified impact.
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct) (14.000), especially its
-  - [Chapter Fourteen §1](core_14.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (14.000 §1),
-  - [criteria set](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment),
-  - [designation analysis](core_14.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and
-  - [due-process safeguards](core_14.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment), governs only whether a Chapter Twelve slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation. Legacy anchors remain unchanged.
+  - [Chapter Fourteen §2](core_14.000_misconduct_designation.md#2-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (14.000 §2),
+  - [criteria set](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale),
+  - [designation analysis](core_14.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation), and
+  - [due-process safeguards](core_14.000_misconduct_designation.md#5-due-process-safeguards-remedy-and-prevention), governs only whether a Chapter Twelve slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation.
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Violation Nature](core_05.035_band_accountability.md#violation-nature),
@@ -4439,7 +4439,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Fourteen §2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (14.000 §2).
+- Canonical owner: [Chapter Fourteen §3](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (14.000 §3).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4486,7 +4486,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Fourteen §2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (14.000 §2), [§3](core_14.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and [§5.4](core_14.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding).
+- Canonical owner: [Chapter Fourteen §3](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (14.000 §3), [§4](core_14.000_misconduct_designation.md#4-violation-axis-slot-79-anti-constitutional-designation), and [§6.4](core_14.005_misconduct_pattern_applications.md#64-info-sphere-zone-flooding).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Unified Incident](core_05.035_band_accountability.md#unified-incident),
@@ -4544,7 +4544,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Fourteen §2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (14.000 §2) (*incident shapes for anti-constitutional-misconduct designation*).
+- Canonical owner: [Chapter Fourteen §3](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (14.000 §3) (*incident shapes for anti-constitutional-misconduct designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4589,7 +4589,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Fourteen §2](core_14.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (14.000 §2) (*incident shapes for anti-constitutional-misconduct designation*).
+- Canonical owner: [Chapter Fourteen §3](core_14.000_misconduct_designation.md#3-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (14.000 §3) (*incident shapes for anti-constitutional-misconduct designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),

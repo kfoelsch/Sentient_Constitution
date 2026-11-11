@@ -28,7 +28,7 @@ Also:
 - A harsh label or public condemnation doesn't replace proof.
 - **Locks:** A "lock" is a safeguard that closes off specific paths a person could use to cause the same harm again, such as certain roles, powers, or access. Locks count as serious restrictions, so they need the same four conditions above, plus a time limit, regular reviews, and a way to be lifted once the risk is gone. They can't stand in for repairing the harm done to victims.
 - **Violence:** People who commit violence, or remain a continuing threat, **must** be imprisoned if that's what it takes to protect others. This includes people who turn down fair rehabilitation, and cases where lighter measures won't keep others safe. Imprisonment is not a standing lock, but it is recorded the same way (what is blocked, why, who is protected, how it ends) and it carries full criminal-process protections and a set time limit.
-- **Anti-constitutional misconduct** (for example, trying to take over or block the constitution's protections) follows the "prevention locks" in Chapter Fourteen §4.2, including imprisonment when it is truly needed to stop further harm. This is under the same fairness rules, and a final, reviewed finding must come first.
+- **Anti-constitutional misconduct** (for example, trying to take over or block the constitution's protections) follows the "prevention locks" in Chapter Fourteen §5.2, including imprisonment when it is truly needed to stop further harm. This is under the same fairness rules, and a final, reviewed finding must come first.
 - **Killing is never a legal penalty or safety measure.** No emergency, category, or Adoption Transition changes that. (This does not cover a person's own freely made choice under Article VII-D. If anyone pressures or repackages that choice into something imposed on them, the ban applies.)
 
 ### Lightest measure, with a clock
@@ -73,6 +73,6 @@ The emergency rules now live in Chapter Fifteen §6.1, not in Article XX-B. Any 
 
 ## Where the detail lives
 - **How locks are built and attached** (what path is blocked, what risk it reduces, how it's reviewed and lifted): Chapter Thirteen §6, Lock design and enforcement.
-- **Required imprisonment for violence:** the floor is in Article XX-B; the conditions are in Chapter Thirteen §6.4. Imprisonment for anti-constitutional misconduct is in Chapter Fourteen §4.2.
+- **Required imprisonment for violence:** the floor is in Article XX-B; the conditions are in Chapter Thirteen §6.4. Imprisonment for anti-constitutional misconduct is in Chapter Fourteen §5.2.
 - **How emergency measures run** (clocks, the burden to keep one going, no fake emergencies): Chapter Fifteen §6.1, Emergency measures and continuation burden, using the tier deadlines in Chapter Fifteen §6.
 
